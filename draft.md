@@ -11,6 +11,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 [NSSD Episode 16](https://soundcloud.com/nssd-podcast/episode-16-the-silicon-valley-episode) - The Silicon Valley Episode.
 
+[A Beginner's Guide to Travis-CI for R](http://juliasilge.com/blog/Beginners-Guide-to-Travis/)
+
 ### New Packages & Tools
 
 [feather on CRAN](https://cran.r-project.org/web/packages/feather/) - Read and write feather files, a lightweight binary columnar data store designed for maximum speed.
