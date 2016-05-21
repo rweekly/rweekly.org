@@ -9,12 +9,11 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### News & Blog Posts
 
-* [NSSD](https://soundcloud.com/nssd-podcast/episode-16-the-silicon-valley-episode) - Episode 16 - The Silicon Valley Episode.
-
+[NSSD Episode 16](https://soundcloud.com/nssd-podcast/episode-16-the-silicon-valley-episode) - The Silicon Valley Episode.
 
 ### New Packages & Tools
 
-
+[feather on CRAN](https://cran.r-project.org/web/packages/feather/) - Read and write feather files, a lightweight binary columnar data store designed for maximum speed.
 
 ## R Project Updates
 
@@ -22,7 +21,7 @@ Updates from R Core.
 
 ## Call for Participation
 
-* [easy] [some task](#link) - text
+[easy] [some task](#link) - text
 
 ## Upcoming Events
 
