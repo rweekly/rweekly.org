@@ -17,7 +17,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## R Project Updates
 
-R project Updates
+Updates from R Core.
 
 ## Call for Participation
 
@@ -42,6 +42,7 @@ If you are an R project owner and are looking for contributors, please submit ta
 
 *No quote was selected for QotW.*
 
+<HR />
 
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
 
