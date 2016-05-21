@@ -3,9 +3,16 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Weekly Updates From the Entire R Community
 
+### Join the Group
+
+Join us to keep the history of the entire R community, and you will be able to edit this repo. 
+
+Take the [survey](https://docs.google.com/forms/d/1WdCjXvWJ1tDSlZNJAroGWCWcqqDjRMAF2VNnZCfn14g/viewform) right now.
+
+### Pull Requests
+
+Update the [draft](https://github.com/rweekly/rweekly.org/blob/gh-pages/README.md) post, and create a pull request.
 
 Thanks for reading!
