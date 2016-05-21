@@ -29,7 +29,8 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
-
+  - jekyll-sitemap
+  
 pages_list:       
   About: '/about'
   Archive: '/archive'
