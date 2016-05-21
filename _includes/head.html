@@ -8,5 +8,12 @@
   <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
   {% seo %}
-
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="RWeekly - {{ page.title }}" />
+  {% if page.title == "Home" %}
+      <meta name="twitter:description" content="Weekly News in R Community" />
+  {% else %}
+      <meta name="twitter:description" content="{{ page.description }}" />
+  {% endif %}
+  <meta name="twitter:image" content="{{ site.baseurl }}/public/logo.png" />
 </head>
