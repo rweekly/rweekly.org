@@ -1,0 +1,36 @@
+# Permalinks
+permalink:           /:year-:month-:day-:title.html
+
+# Setup
+title:               RWeekly.org
+url:                 rweekly.org
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              R Weekly
+  url:               
+  email:             
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/rweekly/rweekly.org
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+pages_list:       
+  About: '/about/'
+  Archive: '/archive/'
+  Feed: '/atom.xml'
