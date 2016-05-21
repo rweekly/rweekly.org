@@ -19,6 +19,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 [feather on CRAN](https://cran.r-project.org/web/packages/feather/) - Read and write feather files, a lightweight binary columnar data store designed for maximum speed.
 
+[largeVis](https://github.com/elbamos/largevis) - High-Quality Visualizations of Ultra-Large, High-Dimensional Datasets.
+
 ## R Project Updates
 
 Updates from R Core.
