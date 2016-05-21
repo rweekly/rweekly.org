@@ -27,11 +27,11 @@ Updates from R Core.
 
 ## Call for Participation
 
-[easy] [some task](#link) - text
+*No tasks listed for this week.*
 
 ## Upcoming Events
 
-*No events listed for this week.*
+[2016 China-R Beijing ](http://china-r.org/) - One of the biggest R conference in China. **May 27-29**
 
 ## Jobs
 
