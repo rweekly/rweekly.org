@@ -21,18 +21,15 @@ Updates from R Core.
 
 ## Call for Participation
 
-Always wanted to contribute to open-source projects but didn't know where to start?
-Every week we highlight some tasks from the R community for you to pick and get started!
-
-Some of these tasks may also have mentors available, visit the task page for more information.
-
 * [easy] [  ]()
 
 If you are an R project owner and are looking for contributors, please submit tasks [here]().
 
+Some of these tasks may also have mentors available, visit the task page for more information.
 
 ## Upcoming Events
 
+*No events listed for this week.*
 
 ## Jobs
 
