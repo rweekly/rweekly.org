@@ -13,6 +13,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 [A Beginner's Guide to Travis-CI for R](http://juliasilge.com/blog/Beginners-Guide-to-Travis/)
 
+[flexdashboard: Easy interactive dashboards for R](https://blog.rstudio.org/2016/05/17/flexdashboard-easy-interactive-dashboards-for-r/)
+
 ### New Packages & Tools
 
 [feather on CRAN](https://cran.r-project.org/web/packages/feather/) - Read and write feather files, a lightweight binary columnar data store designed for maximum speed.
