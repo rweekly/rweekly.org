@@ -6,6 +6,7 @@ title:               RWeekly.org
 url:                 rweekly.org
 paginate:            1
 baseurl:             ""
+ampdir: amp
 
 # Assets
 #
@@ -30,8 +31,13 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-sitemap
-  
+  - jemoji
+  - jekyll-seo-tag
+  - nokogiri
+  - fastimage
+
 pages_list:       
   About: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
+  Draft: '/draft'
