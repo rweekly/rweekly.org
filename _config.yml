@@ -33,8 +33,6 @@ gems:
   - jekyll-sitemap
   - jemoji
   - jekyll-seo-tag
-  - nokogiri
-  - fastimage
 
 pages_list:       
   About: '/about'
