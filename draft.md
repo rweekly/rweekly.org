@@ -3,6 +3,8 @@ layout: draft
 title: Issue 1
 ---
 
+Release Date: 2016-05-30
+
 Hello and welcome to the new issue of **R Weekly**!
 
 ## R Community Updates
