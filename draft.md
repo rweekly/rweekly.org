@@ -9,6 +9,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### News & Blog Posts
 
+* [NSSD](https://soundcloud.com/nssd-podcast/episode-16-the-silicon-valley-episode) - Episode 16 - The Silicon Valley Episode.
 
 
 ### New Packages & Tools
@@ -21,11 +22,7 @@ Updates from R Core.
 
 ## Call for Participation
 
-* [easy] [  ]()
-
-If you are an R project owner and are looking for contributors, please submit tasks [here]().
-
-Some of these tasks may also have mentors available, visit the task page for more information.
+* [easy] [some task](#link) - text
 
 ## Upcoming Events
 
@@ -44,7 +41,3 @@ Some of these tasks may also have mentors available, visit the task page for mor
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
 
 **R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org).
-
-If you find any errors in this week's issue, [please submit a PR](https://github.com/rweekly/rweekly.org/pulls).
-
-This week's edition was edited by: [todo](https://github.com/).
