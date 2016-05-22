@@ -45,6 +45,10 @@ a {
   strong {
     color: inherit;
   }
+  
+  &:visited {
+    color: #8B4513;
+  }
 }
 
 img {
