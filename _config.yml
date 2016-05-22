@@ -3,7 +3,7 @@ permalink:           /:year-:month-:day-:title.html
 
 # Setup
 title:               RWeekly.org
-url:                 rweekly.org
+url:                 https://rweekly.org
 paginate:            1
 baseurl:             ""
 ampdir: amp
