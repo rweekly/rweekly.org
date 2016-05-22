@@ -78,3 +78,5 @@ Updates from R Core.
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
 
 **R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org).
+
+<p><small id="page_view">&nbsp;</small></p>

@@ -20,12 +20,30 @@
 
       <footer class="footer">
         <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. RWeekly.org
+          &copy; 2016 RWeekly.org &nbsp;
         </small>
       </footer>
     </div>
 
+
     <script>
+    page_view = document.getElementById("page_view");
+    if (page_view){
+      var xhr = new XMLHttpRequest();
+      xhr.open("POST","https://page.rweekly.org");
+      xhr.setRequestHeader("Content-Type","application/json");
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState == 4 && xhr.status == 200) {
+            var myArr = JSON.parse(xhr.responseText);
+            page_view.innerHTML = myArr.hit + " views" ;
+        }
+      };
+      xhr.send(JSON.stringify({ page:document.location.host + document.location.pathname }));
+    }
+    </script>
+
+    <script>
+
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
