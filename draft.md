@@ -63,7 +63,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 [tmap](https://github.com/mtennekes/tmap) - R package for thematic maps.
 
-[![tmap_classic](http://www.von-tijn.nl/tijn/research/tmap_classic.png)](https://github.com/mtennekes/tmap)
+[![tmap_classic](https://cdn.rawgit.com/wertion/pic/master/tmap_classic.png)](https://github.com/mtennekes/tmap)
 
 ## R Project Updates
 
