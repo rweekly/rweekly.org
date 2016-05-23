@@ -1,0 +1,26 @@
+img {
+	-webkit-box-shadow: 7px 11px 50px -29px rgba(0, 0, 0, 0.45);
+	-moz-box-shadow: 7px 11px 50px -29px rgba(0, 0, 0, 0.45);
+	box-shadow: 7px 11px 50px -29px rgba(0, 0, 0, 0.45);
+}
+
+img {
+	border-radius: 7px 7px 7px 7px;
+	-moz-border-radius: 7px 7px 7px 7px;
+	-webkit-border-radius: 7px 7px 7px 7px;
+	border: 0px none #000000;
+}
+
+// img {
+// 	transition: .3s transform;
+// 	transform: translateZ(0);  /* hack */
+// }
+
+// img:hover {
+// 	z-index: 1;
+// }
+
+// img:hover {
+// 	transform: scale(1.02, 1.02);
+// 	transition: .3s transform;
+// }

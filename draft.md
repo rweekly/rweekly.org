@@ -19,6 +19,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 [Jupyter and conda for R](https://www.continuum.io/blog/developer/jupyter-and-conda-r)
 
+[![conda-r](https://www.continuum.io/sites/default/files/conda-jupyter-irkernel-slides-1.png)](https://www.continuum.io/blog/developer/jupyter-and-conda-r)
+
 [R for web analysts](http://www.eanalytica.com/r-for-web-analysts/)
 
 [Improving your average: using R to beef up Average Time on Page](https://gdsdata.blog.gov.uk/2016/05/13/improving-your-average-using-r-to-beef-up-average-time-on-page/)
@@ -41,17 +43,27 @@ Hello and welcome to the new issue of **R Weekly**!
 
 [flexdashboard: Easy interactive dashboards for R](https://blog.rstudio.org/2016/05/17/flexdashboard-easy-interactive-dashboards-for-r/)
 
+[![flexdashboard](https://rstudioblog.files.wordpress.com/2016/05/htmlwidgets-showcase-storyboard.png?w=735&h=545)](https://blog.rstudio.org/2016/05/17/flexdashboard-easy-interactive-dashboards-for-r/)
+
 ### New Packages & Tools
 
 [feather on CRAN](https://cran.r-project.org/web/packages/feather/) - Read and write feather files, a lightweight binary columnar data store designed for maximum speed.
 
 [largeVis](https://github.com/elbamos/largevis) - High-Quality Visualizations of Ultra-Large, High-Dimensional Datasets.
 
+[![largeVis](https://cdn.rawgit.com/elbamos/largeVis/master/README_files/figure-markdown_github/drawmnist-1.png)](https://github.com/elbamos/largevis)
+
 [ggnet2](https://briatte.github.io/ggnet/) - Network Visualization with ggplot2.
+
+[![ggnet2](https://cdn.rawgit.com/wertion/pic/master/ggnet.png)](https://briatte.github.io/ggnet/)
 
 [roll on CRAN](https://cran.r-project.org/web/packages/roll/) - Parallel functions for computing rolling statistics of time-series data.
 
 [rfmt](https://github.com/google/rfmt) - Google R source code formatter with Python.
+
+[tmap](https://github.com/mtennekes/tmap) - R package for thematic maps.
+
+[![tmap_classic](http://www.von-tijn.nl/tijn/research/tmap_classic.png)](https://github.com/mtennekes/tmap)
 
 ## R Project Updates
 
