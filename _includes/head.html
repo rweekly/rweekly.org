@@ -2,7 +2,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+  <!-- <link rel="stylesheet" href="{{ site.baseurl }}/styles.css"> -->
+  <style type="text/css">
+   {% capture include_to_scssify %}
+   {% include styles.scss %}
+   {% endcapture %}
+   {{ include_to_scssify | scssify }}
+  </style>
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
