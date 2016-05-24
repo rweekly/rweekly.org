@@ -61,6 +61,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 [![Profiling with RStudio and profvis](https://rstudioblog.files.wordpress.com/2016/05/profile.png?w=888&h=582)](https://blog.rstudio.org/2016/05/23/profiling-with-rstudio-and-profvis/)
 
+[Data visualization in social sciences – what’s new in the sjPlot-package?](https://strengejacke.wordpress.com/2016/05/19/data-visualization-in-social-sciences-whats-new-in-the-sjplot-package-rstats/)
 
 ### New Packages & Tools
 
