@@ -11,9 +11,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### News & Blog Posts
 
-[A Beginner's Guide to Travis-CI for R](http://juliasilge.com/blog/Beginners-Guide-to-Travis/)
+#### Tutorials
 
-[Data sanity checks: Data Proofer (and R analogues?)](http://civilstat.com/2016/05/data-sanity-checks-data-proofer-and-r-analogues/)
+[A Beginner's Guide to Travis-CI for R](http://juliasilge.com/blog/Beginners-Guide-to-Travis/)
 
 [The R Data I/O Shootout](http://blog.dominodatalab.com/the-r-data-i-o-shootout/)
 
@@ -23,9 +23,21 @@ Hello and welcome to the new issue of **R Weekly**!
 
 [R for web analysts](http://www.eanalytica.com/r-for-web-analysts/)
 
-[Improving your average: using R to beef up Average Time on Page](https://gdsdata.blog.gov.uk/2016/05/13/improving-your-average-using-r-to-beef-up-average-time-on-page/)
+[Interactive Heat Maps for R](http://moderndata.plot.ly/interactive-heat-maps-for-r/)
+
+#### R in Real World
+
+[Understanding Bayesian A/B testing (using baseball statistics)](http://varianceexplained.org/r/bayesian_ab_baseball/)
+
+[Visual contrast of two robust regression methods](https://ellisp.github.io/blog/2016/05/22/robust-regression/)
 
 [Win, Lose, or Draw: where and why do NBA fans spend their money?](http://blog.stattleship.com/win-lose-or-draw-where-and-why-do-nba-fans-spend-their-money-2/)
+
+[Data sanity checks: Data Proofer (and R analogues?)](http://civilstat.com/2016/05/data-sanity-checks-data-proofer-and-r-analogues/)
+
+[Improving your average: using R to beef up Average Time on Page](https://gdsdata.blog.gov.uk/2016/05/13/improving-your-average-using-r-to-beef-up-average-time-on-page/)
+
+#### R in Academia
 
 [Paper: How the R Community Creates and Curates Knowledge](http://keg.cs.uvic.ca/pubs/zagalsky-MSR2016.pdf)
 
@@ -44,6 +56,11 @@ Hello and welcome to the new issue of **R Weekly**!
 [flexdashboard: Easy interactive dashboards for R](https://blog.rstudio.org/2016/05/17/flexdashboard-easy-interactive-dashboards-for-r/)
 
 [![flexdashboard](https://rstudioblog.files.wordpress.com/2016/05/htmlwidgets-showcase-storyboard.png?w=735&h=545)](https://blog.rstudio.org/2016/05/17/flexdashboard-easy-interactive-dashboards-for-r/)
+
+[Profiling with RStudio and profvis](https://blog.rstudio.org/2016/05/23/profiling-with-rstudio-and-profvis/)
+
+[![Profiling with RStudio and profvis](https://rstudioblog.files.wordpress.com/2016/05/profile.png?w=888&h=582)](https://blog.rstudio.org/2016/05/23/profiling-with-rstudio-and-profvis/)
+
 
 ### New Packages & Tools
 
