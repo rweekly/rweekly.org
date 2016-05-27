@@ -75,7 +75,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [gamlss: Generalised Additive Models for Location Scale and Shape.](https://cran.r-project.org/web/packages/gamlss/index.html)
 
-[![gamlss](http://www.gamlss.org/wp-content/uploads/2013/01/Distibutions-940x346.jpg)](http://www.gamlss.org/)
+[![gamlss](https://cdn.rawgit.com/rweekly/image/master/BruceZhao-Friday/gamlss.jpg)](http://www.gamlss.org/)
 
 ### New Packages & Tools
 
