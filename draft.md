@@ -67,6 +67,16 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Data visualization in social sciences – what’s new in the sjPlot-package?](https://strengejacke.wordpress.com/2016/05/19/data-visualization-in-social-sciences-whats-new-in-the-sjplot-package-rstats/)
 
++ [topicmodels 0.2-4 2016-05-23](https://cran.r-project.org/web/packages/topicmodels/index.html) - Issues concerning memory deallocation in the C++ code were fixed. 
+
++ [rio 0.4.6 2016-05-22](https://cran.r-project.org/web/packages/rio/index.html) - A Swiss-Army Knife for Data I/O; Now support `feather`. [Package Philosophy](https://github.com/leeper/rio#package-philosophy) 
+
++ [quanteda 0.9.6-9 2016-05-21](https://cran.r-project.org/web/packages/quanteda/index.html) - Quantitative Analysis of Textual Data. A fast, flexible toolset for for the management, processing, and quantitative analysis of textual data in R.
+
++ [gamlss 4.4-0 2016-05-18](https://cran.r-project.org/web/packages/gamlss/index.html) - Generalised Additive Models for Location Scale and Shape. 
+
+[![gamlss](http://www.gamlss.org/wp-content/uploads/2013/01/Distibutions-940x346.jpg)](http://www.gamlss.org/)
+
 ### New Packages & Tools
 
 + [feather on CRAN](https://cran.r-project.org/web/packages/feather/) - Read and write feather files, a lightweight binary columnar data store designed for maximum speed.
@@ -86,6 +96,18 @@ Hello and welcome to the new issue of **R Weekly**!
 + [tmap](https://github.com/mtennekes/tmap) - R package for thematic maps.
 
 [![tmap_classic](https://cdn.rawgit.com/wertion/pic/master/tmap_classic.png)](https://github.com/mtennekes/tmap)
+
++ [surveyplanning](https://cran.r-project.org/web/packages/surveyplanning/index.html) - Tools for sample survey planning, including sample size calculation, estimation of expected precision for the estimates of totals, and calculation of optimal sample size allocation.
+
++ [tidytext](https://github.com/juliasilge/tidytext) - Text mining using dplyr, ggplot2, and other tidy tools.
+
++ [crtests](https://github.com/sjoerdvds/crtests) - Classification and Regression Tests.
+
++ [recommenderlab](https://github.com/mhahsler/recommenderlab) - Lab for Developing and Testing Recommender Algorithms. The Author of `arules`. 
+
++ [bastah](https://cran.r-project.org/web/packages/bastah/index.html) - Big Data Statistical Analysis for High-Dimensional Models.
+
++ [weathermetrics](https://cran.r-project.org/web/packages/weathermetrics/index.html) - Functions to Convert Between Weather Metrics.
 
 ## R Project Updates
 
