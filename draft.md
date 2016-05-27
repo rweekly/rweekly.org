@@ -27,7 +27,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Use H2O and data.table to build models on large data sets in R](http://www.analyticsvidhya.com/blog/2016/05/h2o-data-table-build-models-large-data-sets/)
 
-[![h2o-data.table](https://raw.githubusercontent.com/rweekly/image/master/BruceZhao-Friday/h2o-data.table.png)](http://www.analyticsvidhya.com/blog/2016/05/h2o-data-table-build-models-large-data-sets/)
+[![h2o-data.table](https://cdn.rawgit.com/rweekly/image/master/BruceZhao-Friday/h2o-data.table.png)](http://www.analyticsvidhya.com/blog/2016/05/h2o-data-table-build-models-large-data-sets/)
 
 #### R in Real World
 
@@ -67,13 +67,13 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Data visualization in social sciences – what’s new in the sjPlot-package?](https://strengejacke.wordpress.com/2016/05/19/data-visualization-in-social-sciences-whats-new-in-the-sjplot-package-rstats/)
 
-+ [topicmodels 0.2-4 2016-05-23](https://cran.r-project.org/web/packages/topicmodels/index.html) - Issues concerning memory deallocation in the C++ code were fixed. 
++ [topicmodels release 0.2-4 : Issues concerning memory deallocation in the C++ code were fixed.](https://cran.r-project.org/web/packages/topicmodels/index.html)
 
-+ [rio 0.4.6 2016-05-22](https://cran.r-project.org/web/packages/rio/index.html) - A Swiss-Army Knife for Data I/O; Now support `feather`. [Package Philosophy](https://github.com/leeper/rio#package-philosophy) 
++ [rio release 0.4.6 : A Swiss-Army Knife for Data I/O. Now supports feather](https://cran.r-project.org/web/packages/rio/index.html)
 
-+ [quanteda 0.9.6-9 2016-05-21](https://cran.r-project.org/web/packages/quanteda/index.html) - Quantitative Analysis of Textual Data. A fast, flexible toolset for for the management, processing, and quantitative analysis of textual data in R.
++ [quanteda release 0.9.6-9](https://cran.r-project.org/web/packages/quanteda/index.html)
 
-+ [gamlss 4.4-0 2016-05-18](https://cran.r-project.org/web/packages/gamlss/index.html) - Generalised Additive Models for Location Scale and Shape. 
++ [gamlss: Generalised Additive Models for Location Scale and Shape.](https://cran.r-project.org/web/packages/gamlss/index.html)
 
 [![gamlss](http://www.gamlss.org/wp-content/uploads/2013/01/Distibutions-940x346.jpg)](http://www.gamlss.org/)
 
@@ -105,9 +105,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [recommenderlab](https://github.com/mhahsler/recommenderlab) - Lab for Developing and Testing Recommender Algorithms. The Author of `arules`. 
 
-+ [bastah](https://cran.r-project.org/web/packages/bastah/index.html) - Big Data Statistical Analysis for High-Dimensional Models.
++ [bastah on CRAN](https://cran.r-project.org/web/packages/bastah/index.html) - Big Data Statistical Analysis for High-Dimensional Models.
 
-+ [weathermetrics](https://cran.r-project.org/web/packages/weathermetrics/index.html) - Functions to Convert Between Weather Metrics.
++ [weathermetrics on CRAN](https://cran.r-project.org/web/packages/weathermetrics/index.html) - Functions to Convert Between Weather Metrics.
 
 ## R Project Updates
 
