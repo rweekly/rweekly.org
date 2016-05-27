@@ -25,6 +25,10 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Interactive Heat Maps for R](http://moderndata.plot.ly/interactive-heat-maps-for-r/)
 
++ [Use H2O and data.table to build models on large data sets in R](http://www.analyticsvidhya.com/blog/2016/05/h2o-data-table-build-models-large-data-sets/)
+
+[![h2o-data.table](https://raw.githubusercontent.com/rweekly/image/master/BruceZhao-Friday/h2o-data.table.png)](http://www.analyticsvidhya.com/blog/2016/05/h2o-data-table-build-models-large-data-sets/)
+
 #### R in Real World
 
 + [Understanding Bayesian A/B testing (using baseball statistics)](http://varianceexplained.org/r/bayesian_ab_baseball/)
