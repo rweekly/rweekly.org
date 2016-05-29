@@ -65,7 +65,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 [![Profiling with RStudio and profvis](https://rstudioblog.files.wordpress.com/2016/05/profile.png?w=888&h=582)](https://blog.rstudio.org/2016/05/23/profiling-with-rstudio-and-profvis/)
 
-+ [Data visualization in social sciences – what’s new in the sjPlot-package?](https://strengejacke.wordpress.com/2016/05/19/data-visualization-in-social-sciences-whats-new-in-the-sjplot-package-rstats/)
++ [Data visualization in social sciences – what`s new in the sjPlot-package?](https://strengejacke.wordpress.com/2016/05/19/data-visualization-in-social-sciences-whats-new-in-the-sjplot-package-rstats/)
 
 + [topicmodels release 0.2-4 : Issues concerning memory deallocation in the C++ code were fixed.](https://cran.r-project.org/web/packages/topicmodels/index.html)
 
@@ -111,7 +111,17 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## R Project Updates
 
-Updates from R Core.
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
+
+1. `identical()` gets an `ignore.srcref` option which drops `"srcref"` and similar attributes when true (as by default).
+
+2. `diag(x, n=.)` now preserves `typeof(x)`, also for logical, integer and raw `x` (and as previously for complex and numeric).
+
+3. `diag(x, nrow = n)` now preserves `typeof(x)`, also for logical, integer and raw `x` (and as previously for complex and numeric).
+
+4. `smooth.spline()` now allows to specify lambda directly, gets a `hatvalues()` method and keeps `tol` in result.
+
+5. `str()` and `strOptions()` get a new option `drop.deparse.attr` with improved but _changed_ default behaviour for expressions. For `expression` objects `x`, `str(x)` now may remove extraneous white space and truncate long lines.
 
 ## Call for Participation
 
