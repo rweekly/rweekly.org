@@ -29,6 +29,10 @@ Hello and welcome to the new issue of **R Weekly**!
 
 [![h2o-data.table](https://cdn.rawgit.com/rweekly/image/master/BruceZhao-Friday/h2o-data.table.png)](http://www.analyticsvidhya.com/blog/2016/05/h2o-data-table-build-models-large-data-sets/)
 
++ [Taking your data to go with R packages](http://www.davekleinschmidt.com/r-packages/)
+
++ [a Little Book of R for Bayesian Statistics](http://a-little-book-of-r-for-bayesian-statistics.readthedocs.io/en/latest/)
+
 #### R in Real World
 
 + [Understanding Bayesian A/B testing (using baseball statistics)](http://varianceexplained.org/r/bayesian_ab_baseball/)
@@ -41,15 +45,25 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Improving your average: using R to beef up Average Time on Page](https://gdsdata.blog.gov.uk/2016/05/13/improving-your-average-using-r-to-beef-up-average-time-on-page/)
 
++ [Predictive Maintenance for Aircraft Engines](http://blog.revolutionanalytics.com/2016/05/predictive-maintenance-r-code.html)
+
++ [Integrating R with Apache Hadoop](http://datascienceplus.com/integrating-r-with-apache-hadoop/)
+
++ [Using R and Python for Common SAS Functions](https://blog.dominodatalab.com/using-r-and-python-for-common-sas-functions/)
+
 #### R in Academia
 
 + [Paper: How the R Community Creates and Curates Knowledge](http://keg.cs.uvic.ca/pubs/zagalsky-MSR2016.pdf)
+
++ [rOpenSci Biweekly](https://ropensci.github.io/biweekly/update-2016-05-23/)
 
 ### Videos & Podcasts
 
 + [NSSD Episode 16](https://soundcloud.com/nssd-podcast/episode-16-the-silicon-valley-episode) - The Silicon Valley Episode.
 
 + [Hadley Wickham: Managing many models with R](https://www.youtube.com/watch?v=rz3_FDVt9eg)
+
++ [New York R Conference: Videos + Presentation](http://www.rstats.nyc/2016)
 
 ### New Releases
 
@@ -109,6 +123,11 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [weathermetrics on CRAN](https://cran.r-project.org/web/packages/weathermetrics/index.html) - Functions to Convert Between Weather Metrics.
 
++ [tweenr](https://github.com/thomasp85/tweenr) - Interpolate your data between different states.
+
+
+[![tweenr](https://dl.dropboxusercontent.com/u/2323585/tweenr/showreel.gif)](https://github.com/thomasp85/tweenr)
+
 ## R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
@@ -129,7 +148,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 ## Upcoming Events
 
-+ [2016 China-R Beijing ](http://china-r.org/) - One of the biggest R conference in China.<br /> **May 27-29**
++ [2016 useR! Stanford](http://user2016.org/) - The R User Conference 2016<br /> **June 27 - June 30**
 
 ## Jobs
 
@@ -137,7 +156,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 ## Quote of the Week
 
-*No quote was selected for QotW.*
+[A beginner's guide to big data terminology](http://dataconomy.com/a-beginners-guide-to-big-data-terminology/)
+
+> R is a horribly named programming language that works with statistical computing. 
 
 <HR />
 
