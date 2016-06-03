@@ -35,6 +35,10 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ![[Visualizing Bootrapped Stepwise Regression in R using Plotly](http://moderndata.plot.ly/visualizing-bootrapped-stepwise-regression-in-r-using-plotly/)](https://cdn.rawgit.com/rweekly/image/master/2016-06-06/Bootstraped-stepAIC.png)
 
++ [Intro To Raster](https://geoscripting-wur.github.io/IntroToRaster/)
+
+![[Intro To Raster](https://geoscripting-wur.github.io/IntroToRaster/)](https://geoscripting-wur.github.io/IntroToRaster/figs/system_overview_2.png)
+
 #### R in Real World
 
 + [Happy New Year, Mr. President. Data and Sentiment Analysis of Presidential New Year Speeches](http://www.salvaggio.net/publications/R-blog/files/happy-new-year-mr-president.php)
@@ -57,6 +61,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Some Impressions from R Finance 2016](http://blog.revolutionanalytics.com/2016/05/r-finance-2016.html)
 
++ [Using caret to compare models](http://blog.revolutionanalytics.com/2016/05/using-caret-to-compare-models.html)
+
 #### R in Academia
 
 
@@ -78,6 +84,10 @@ Hello and welcome to the new issue of **R Weekly**!
 + [heatmaply on CRAN](https://github.com/talgalili/heatmaply) - Interactive Heat Maps for R Using plotly.
 
 ![[heatmaply](https://github.com/talgalili/heatmaply)](https://i.imgur.com/qdUCKlg.gif)
+
++ [mscsweblm4r on CRAN](http://blog.revolutionanalytics.com/2016/06/microsoft-cognitive-services.html) - An R package for Microsoft Cognitive Services language APIs
+
++ [vembedr](https://cran.rstudio.com/web/packages/vembedr/vignettes/embed.html) - Help you embed (YouTube/Vimeo) video into R Markdown + Shiny.
 
 ## R Project Updates
 
