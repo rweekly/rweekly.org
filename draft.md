@@ -43,6 +43,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [lme4 convergence warnings: troubleshooting](https://rstudio-pubs-static.s3.amazonaws.com/33653_57fc7b8e5d484c909b615d8633c01d51.html)
 
++ [Introduction to R in IBM SPSS Modeler: A guide for SPSS Users](https://developer.ibm.com/predictiveanalytics/2016/06/01/introduction-to-r-in-ibm-spss-modeler-a-guide-for-spss-users/)
+
 #### R in Real World
 
 + [Happy New Year, Mr. President. Data and Sentiment Analysis of Presidential New Year Speeches](http://www.salvaggio.net/publications/R-blog/files/happy-new-year-mr-president.php)
@@ -95,6 +97,8 @@ Hello and welcome to the new issue of **R Weekly**!
 + [mscsweblm4r on CRAN](http://blog.revolutionanalytics.com/2016/06/microsoft-cognitive-services.html) - An R package for Microsoft Cognitive Services language APIs
 
 + [vembedr on CRAN](https://cran.rstudio.com/web/packages/vembedr/vignettes/embed.html) - Help you embed (YouTube/Vimeo) video into R Markdown + Shiny.
+
++ [pkgcopier on CRAN](https://github.com/haozhu233/pkgcopier) - A pkg helps you easily copy R packages from one computer to another. 
 
 ## R Project Updates
 
