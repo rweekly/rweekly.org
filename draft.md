@@ -65,7 +65,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### R in Academia
 
-
++ [How Many Researchers?](https://nexus.od.nih.gov/all/2016/05/31/how-many-researchers/) - How many scientists, or more specifically how many principal investigators, does NIH fund? And how many scientists (more specifically aspiring principal investigators) want to receive NIH funding?
 
 
 ### Videos & Podcasts
@@ -87,7 +87,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [mscsweblm4r on CRAN](http://blog.revolutionanalytics.com/2016/06/microsoft-cognitive-services.html) - An R package for Microsoft Cognitive Services language APIs
 
-+ [vembedr](https://cran.rstudio.com/web/packages/vembedr/vignettes/embed.html) - Help you embed (YouTube/Vimeo) video into R Markdown + Shiny.
++ [vembedr on CRAN](https://cran.rstudio.com/web/packages/vembedr/vignettes/embed.html) - Help you embed (YouTube/Vimeo) video into R Markdown + Shiny.
 
 ## R Project Updates
 
