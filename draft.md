@@ -23,6 +23,17 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ![[Trisurf Plots in R using Plotly](http://moderndata.plot.ly/trisurf-plots-in-r-using-plotly/)](https://cdn.rawgit.com/rweekly/image/master/2016-06-06/Trisurf-Plots-in-R-using-Plotly.png)
 
++ [QGIS, Open Source GIS & R](http://www.arilamstein.com/blog/2016/05/31/qgis-open-source-gis-r/)
+
+![[QGIS, Open Source GIS & R](http://www.arilamstein.com/blog/2016/05/31/qgis-open-source-gis-r/)](https://i2.wp.com/www.arilamstein.com/wp-content/uploads/2016/05/QGISannotated.jpg?resize=676%2C437)
+
++ [On ranger respect.unordered.factors](http://www.win-vector.com/blog/2016/05/on-ranger-respect-unordered-factors/)
+
++ [Principal Components Regression, Pt. 3: Picking the Number of Components](http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/)
+
++ [Visualizing Bootrapped Stepwise Regression in R using Plotly](http://moderndata.plot.ly/visualizing-bootrapped-stepwise-regression-in-r-using-plotly/)
+
+![[Visualizing Bootrapped Stepwise Regression in R using Plotly](http://moderndata.plot.ly/visualizing-bootrapped-stepwise-regression-in-r-using-plotly/)](https://cdn.rawgit.com/rweekly/image/master/2016-06-06/Bootstraped-stepAIC.png)
 
 #### R in Real World
 
@@ -35,6 +46,16 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Predictive Bookmaker Consensus Model for the UEFA Euro 2016](http://www.r-bloggers.com/predictive-bookmaker-consensus-model-for-the-uefa-euro-2016/)
 
 + [How to use data analysis for machine learning (example, part 1)](http://www.sharpsightlabs.com/data-analysis-machine-learning-example-part1/)
+
++ [From a (set.)seed grows a mighty dataset](http://jcarroll.com.au/2016/05/30/seed/)
+
++ [Track your local R scheduled tasks with CommandCenter2000!!!](http://amitkohli.com/track-your-local-r-scheduled-tasks-with-commandcenter2000/)
+
++ [Arbitrage in Euro'16 soccer odds?](https://flovv.github.io/Soccer-Odds-EURO16/)
+
++ [Actual coverage of confidence intervals for standard deviation](https://ellisp.github.io/blog/2016/05/29/standard-deviation-confidence-intervals/)
+
++ [Some Impressions from R Finance 2016](http://blog.revolutionanalytics.com/2016/05/r-finance-2016.html)
 
 #### R in Academia
 
