@@ -45,6 +45,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Introduction to R in IBM SPSS Modeler: A guide for SPSS Users](https://developer.ibm.com/predictiveanalytics/2016/06/01/introduction-to-r-in-ibm-spss-modeler-a-guide-for-spss-users/)
 
++ [A Complete Tutorial on Tree Based Modeling from Scratch (in R & Python)](http://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+
 #### R in Real World
 
 + [Happy New Year, Mr. President. Data and Sentiment Analysis of Presidential New Year Speeches](http://www.salvaggio.net/publications/R-blog/files/happy-new-year-mr-president.php)
