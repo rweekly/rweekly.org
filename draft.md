@@ -39,6 +39,10 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ![[Intro To Raster](https://geoscripting-wur.github.io/IntroToRaster/)](https://geoscripting-wur.github.io/IntroToRaster/figs/system_overview_2.png)
 
++ [Getting Started with R and Google Analytics](http://www.lunametrics.com/blog/2016/06/02/getting-started-r-google-analytics/)
+
++ [lme4 convergence warnings: troubleshooting](https://rstudio-pubs-static.s3.amazonaws.com/33653_57fc7b8e5d484c909b615d8633c01d51.html)
+
 #### R in Real World
 
 + [Happy New Year, Mr. President. Data and Sentiment Analysis of Presidential New Year Speeches](http://www.salvaggio.net/publications/R-blog/files/happy-new-year-mr-president.php)
@@ -67,6 +71,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [How Many Researchers?](https://nexus.od.nih.gov/all/2016/05/31/how-many-researchers/) - How many scientists, or more specifically how many principal investigators, does NIH fund? And how many scientists (more specifically aspiring principal investigators) want to receive NIH funding?
 
++ [R – the ultimate virus](http://www.ingenio-magazine.com/r-the-ultimate-virus/) - Ross Ihaka on how a simple programming language(R) he helped develop to assist students went global.
 
 ### Videos & Podcasts
 
@@ -98,7 +103,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 ## Call for Participation
 
-*No tasks listed for this week.*
++ [Evolution of the R native interface](http://r.789695.n4.nabble.com/Evolution-of-the-R-native-interface-td4721179.html) - Working group on the future of #Rstats ’s native APIs.
 
 ## Upcoming Events
 
@@ -110,9 +115,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 ## Quote of the Week
 
-[]()
+[R – the ultimate virus](http://www.ingenio-magazine.com/r-the-ultimate-virus/)
 
-> 
+> R changed my opinion of humanity to some extent, to see how people are really willing to freely give of themselves and produce something larger than themselves without any thought of personal glory. 
 
 <HR />
 
