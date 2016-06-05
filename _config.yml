@@ -1,5 +1,5 @@
 # Permalinks
-permalink:           /:year-:month-:day-:title.html
+permalink:           /:title.html
 
 # Setup
 title:               RWeekly.org
