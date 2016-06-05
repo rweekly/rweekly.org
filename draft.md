@@ -13,9 +13,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
-+ [Images as x-axis labels](http://jcarroll.com.au/2016/06/02/images-as-x-axis-labels/)
++ [Images as x-axis labels](http://jcarroll.com.au/2016/06/03/images-as-x-axis-labels-updated/)
 
-![[Images as x-axis labels](http://jcarroll.com.au/2016/06/02/images-as-x-axis-labels/)](https://i1.wp.com/jcarroll.com.au/wp-content/uploads/2016/06/GDP-e1464871241869.png?resize=600%2C429)
+![[Images as x-axis labels](http://jcarroll.com.au/2016/06/03/images-as-x-axis-labels-updated/)](http://i2.wp.com/jcarroll.com.au/wp-content/uploads/2016/06/GDP_updated.png)
 
 + [A demonstration of vtreat data preparation](http://www.win-vector.com/blog/2016/06/a-demonstration-of-vtreat-data-preparation/)
 
