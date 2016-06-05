@@ -49,6 +49,11 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Bootstrap and cross-validation for evaluating modelling strategies](https://ellisp.github.io/blog/2016/06/05/bootstrap-cv-strategies/)
 
++ [Visualising Power Curves in R](http://moderndata.plot.ly/power-curves-r-plotly-ggplot2/)
+
+![[Visualising Power Curves in R](http://moderndata.plot.ly/power-curves-r-plotly-ggplot2/)](http://i.imgur.com/N5K2YSl.png)
+
+
 #### R in Real World
 
 + [Happy New Year, Mr. President. Data and Sentiment Analysis of Presidential New Year Speeches](http://www.salvaggio.net/publications/R-blog/files/happy-new-year-mr-president.php)
