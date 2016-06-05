@@ -47,6 +47,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [A Complete Tutorial on Tree Based Modeling from Scratch (in R & Python)](http://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 
++ [Bootstrap and cross-validation for evaluating modelling strategies](https://ellisp.github.io/blog/2016/06/05/bootstrap-cv-strategies/)
+
 #### R in Real World
 
 + [Happy New Year, Mr. President. Data and Sentiment Analysis of Presidential New Year Speeches](http://www.salvaggio.net/publications/R-blog/files/happy-new-year-mr-president.php)
@@ -73,6 +75,12 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [50 Years of Pop Music](http://kaylinwalker.com/50-years-of-pop-music/) - From Boogie to Bitch: Text Mining 50 Years of Pop Music Lyrics.
 
++ [Using the R language to track and predict river flooding](http://blog.revolutionanalytics.com/2016/06/visualizing-a-flood-with-r.html)
+
++ [Junctional Traffic](http://www.jiddualexander.com/blog/junctional-traffic-blog/) - Modern day traffic junction analysis.
+
++ [Salaries of Presidential Primary Voters by Candidate and State](http://www.hallwaymathlete.com/2016/05/salaries-of-presidential-primary-voters.html)
+
 #### R in Academia
 
 + [How Many Researchers?](https://nexus.od.nih.gov/all/2016/05/31/how-many-researchers/) - How many scientists, or more specifically how many principal investigators, does NIH fund? And how many scientists (more specifically aspiring principal investigators) want to receive NIH funding?
@@ -81,8 +89,11 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### Videos & Podcasts
 
++ [R with Highcharts visualisations using Highcharter library](https://www.youtube.com/watch?v=of8ras0Bl8Q)
 
++ [R Markdown Notebooks](https://www.youtube.com/watch?v=zNzZ1PfUDNk)
 
++ [Conducting a meta-analysis with R](https://www.youtube.com/watch?v=d1pYHfCKhyA)
 
 ### New Releases
 
@@ -106,12 +117,21 @@ Hello and welcome to the new issue of **R Weekly**!
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
++ (Windows only) Tcl/Tk version 8.6.4 is now included in the binary builds. The `tcltk*.chm` help file is no longer included; please use URL: http://www.tcl.tk/man/ instead. 
 
++ Illegal factors, e.g., with duplicated levels (illegal but constructable) now give a warning when printed, via new ‘.valid.factor’. 
 
++ `str(<looooooooong_string>)` is no longer very slow; inspired by Mikko Korpela's proposal in [PR#16527](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=16527).
+
++ After seven years of deprecation, duplicated factor levels now produce an error in ‘levels<-’ instead of a warning, and a warning when printed. 
+
++ New option `rstandard(<lm>, type = "predicted")` provides the “PRESS”-related leave-one-out cross-validation errors for linear models. 
+
++ `addNA()` is faster now, e.g., when applied twice; (part of [PR#16895](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=16895)). 
 
 ## Call for Participation
 
-+ [Evolution of the R native interface](http://r.789695.n4.nabble.com/Evolution-of-the-R-native-interface-td4721179.html) - Working group on the future of #Rstats ’s native APIs.
++ [Evolution of the R native interface](http://r.789695.n4.nabble.com/Evolution-of-the-R-native-interface-td4721179.html) - Working group on the future of #rstats ’s native APIs.
 
 ## Upcoming Events
 
@@ -126,6 +146,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 [R – the ultimate virus](http://www.ingenio-magazine.com/r-the-ultimate-virus/)
 
 > R changed my opinion of humanity to some extent, to see how people are really willing to freely give of themselves and produce something larger than themselves without any thought of personal glory. 
+
+[Twitter @ Hadley Wickham](https://twitter.com/hadleywickham/status/738802081448886272)
+
+> An NA is the presence of an absence. Don't forget that some missing values are the absence of a presence #rstats
 
 <HR />
 
