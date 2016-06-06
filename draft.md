@@ -51,7 +51,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications in shiny apps via toastr.js
 
-![[shinytoastr](https://github.com/MangoTheCat/shinytoastr)](https://cdn.rawgit.com/MangoTheCat/shinytoastr/master/inst/shinytoastr.png)
+[![shinytoastr](https://cdn.rawgit.com/MangoTheCat/shinytoastr/master/inst/shinytoastr.png)](https://github.com/MangoTheCat/shinytoastr)
 
 ## R Project Updates
 
