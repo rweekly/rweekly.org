@@ -1,9 +1,9 @@
 ---
 layout: draft
-title: Issue 2
+title: Issue 3
 ---
 
-Release Date: 2016-06-06
+Release Date: 2016-06-13
 
 Hello and welcome to the new issue of **R Weekly**!
 
@@ -13,130 +13,38 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
-+ [Images as x-axis labels](http://jcarroll.com.au/2016/06/03/images-as-x-axis-labels-updated/)
-
-![[Images as x-axis labels](http://jcarroll.com.au/2016/06/03/images-as-x-axis-labels-updated/)](http://i2.wp.com/jcarroll.com.au/wp-content/uploads/2016/06/GDP_updated.png)
-
-+ [A demonstration of vtreat data preparation](http://www.win-vector.com/blog/2016/06/a-demonstration-of-vtreat-data-preparation/)
-
-+ [Trisurf Plots in R using Plotly](http://moderndata.plot.ly/trisurf-plots-in-r-using-plotly/)
-
-![[Trisurf Plots in R using Plotly](http://moderndata.plot.ly/trisurf-plots-in-r-using-plotly/)](https://cdn.rawgit.com/rweekly/image/master/2016-06-06/Trisurf-Plots-in-R-using-Plotly.png)
-
-+ [QGIS, Open Source GIS & R](http://www.arilamstein.com/blog/2016/05/31/qgis-open-source-gis-r/)
-
-![[QGIS, Open Source GIS & R](http://www.arilamstein.com/blog/2016/05/31/qgis-open-source-gis-r/)](https://i2.wp.com/www.arilamstein.com/wp-content/uploads/2016/05/QGISannotated.jpg?resize=676%2C437)
-
-+ [On ranger respect.unordered.factors](http://www.win-vector.com/blog/2016/05/on-ranger-respect-unordered-factors/)
-
-+ [Principal Components Regression, Pt. 3: Picking the Number of Components](http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/)
-
-+ [Visualizing Bootrapped Stepwise Regression in R using Plotly](http://moderndata.plot.ly/visualizing-bootrapped-stepwise-regression-in-r-using-plotly/)
-
-![[Visualizing Bootrapped Stepwise Regression in R using Plotly](http://moderndata.plot.ly/visualizing-bootrapped-stepwise-regression-in-r-using-plotly/)](https://cdn.rawgit.com/rweekly/image/master/2016-06-06/Bootstraped-stepAIC.png)
-
-+ [Intro To Raster](https://geoscripting-wur.github.io/IntroToRaster/)
-
-![[Intro To Raster](https://geoscripting-wur.github.io/IntroToRaster/)](https://geoscripting-wur.github.io/IntroToRaster/figs/system_overview_2.png)
-
-+ [Getting Started with R and Google Analytics](http://www.lunametrics.com/blog/2016/06/02/getting-started-r-google-analytics/)
-
-+ [lme4 convergence warnings: troubleshooting](https://rstudio-pubs-static.s3.amazonaws.com/33653_57fc7b8e5d484c909b615d8633c01d51.html)
-
-+ [Introduction to R in IBM SPSS Modeler: A guide for SPSS Users](https://developer.ibm.com/predictiveanalytics/2016/06/01/introduction-to-r-in-ibm-spss-modeler-a-guide-for-spss-users/)
-
-+ [A Complete Tutorial on Tree Based Modeling from Scratch (in R & Python)](http://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
-
-+ [Bootstrap and cross-validation for evaluating modelling strategies](https://ellisp.github.io/blog/2016/06/05/bootstrap-cv-strategies/)
-
-+ [Visualising Power Curves in R](http://moderndata.plot.ly/power-curves-r-plotly-ggplot2/)
-
-![[Visualising Power Curves in R](http://moderndata.plot.ly/power-curves-r-plotly-ggplot2/)](https://i.imgur.com/N5K2YSl.png)
 
 
 #### R in Real World
 
-+ [Happy New Year, Mr. President. Data and Sentiment Analysis of Presidential New Year Speeches](http://www.salvaggio.net/publications/R-blog/files/happy-new-year-mr-president.php)
 
-![[Happy New Year, Mr. President. Data and Sentiment Analysis of Presidential New Year Speeches](http://www.salvaggio.net/publications/R-blog/files/happy-new-year-mr-president.php)](https://cdn.rawgit.com/rweekly/image/master/2016-06-06/Presidential-New-Year-Speeches.png)
-
-+ [Understanding beta binomial regression (using baseball statistics)](http://varianceexplained.org/r/beta_binomial_baseball/)
-
-+ [Predictive Bookmaker Consensus Model for the UEFA Euro 2016](http://www.r-bloggers.com/predictive-bookmaker-consensus-model-for-the-uefa-euro-2016/)
-
-+ [How to use data analysis for machine learning (example, part 1)](http://www.sharpsightlabs.com/data-analysis-machine-learning-example-part1/)
-
-+ [From a (set.)seed grows a mighty dataset](http://jcarroll.com.au/2016/05/30/seed/)
-
-+ [Track your local R scheduled tasks with CommandCenter2000!!!](http://amitkohli.com/track-your-local-r-scheduled-tasks-with-commandcenter2000/)
-
-+ [Arbitrage in Euro'16 soccer odds?](https://flovv.github.io/Soccer-Odds-EURO16/)
-
-+ [Actual coverage of confidence intervals for standard deviation](https://ellisp.github.io/blog/2016/05/29/standard-deviation-confidence-intervals/)
-
-+ [Some Impressions from R Finance 2016](http://blog.revolutionanalytics.com/2016/05/r-finance-2016.html)
-
-+ [Using caret to compare models](http://blog.revolutionanalytics.com/2016/05/using-caret-to-compare-models.html)
-
-+ [50 Years of Pop Music](http://kaylinwalker.com/50-years-of-pop-music/) - From Boogie to Bitch: Text Mining 50 Years of Pop Music Lyrics.
-
-+ [Using the R language to track and predict river flooding](http://blog.revolutionanalytics.com/2016/06/visualizing-a-flood-with-r.html)
-
-+ [Junctional Traffic](http://www.jiddualexander.com/blog/junctional-traffic-blog/) - Modern day traffic junction analysis.
-
-+ [Salaries of Presidential Primary Voters by Candidate and State](http://www.hallwaymathlete.com/2016/05/salaries-of-presidential-primary-voters.html)
 
 #### R in Academia
 
-+ [How Many Researchers?](https://nexus.od.nih.gov/all/2016/05/31/how-many-researchers/) - How many scientists, or more specifically how many principal investigators, does NIH fund? And how many scientists (more specifically aspiring principal investigators) want to receive NIH funding?
-
-+ [R – the ultimate virus](http://www.ingenio-magazine.com/r-the-ultimate-virus/) - Ross Ihaka on how a simple programming language(R) he helped develop to assist students went global.
 
 ### Videos & Podcasts
 
-+ [R with Highcharts visualisations using Highcharter library](https://www.youtube.com/watch?v=of8ras0Bl8Q)
 
-+ [R Markdown Notebooks](https://www.youtube.com/watch?v=zNzZ1PfUDNk)
-
-+ [Conducting a meta-analysis with R](https://www.youtube.com/watch?v=d1pYHfCKhyA)
 
 ### New Releases
 
-+ [methylKit release 0.9.6](http://zvfak.blogspot.my/2016/06/methylkit-v096.html) - A package for DNA methylation analysis with bisulfite-seq data.
+
 
 
 
 ### New Packages & Tools
 
-+ [heatmaply on CRAN](https://github.com/talgalili/heatmaply) - Interactive Heat Maps for R Using plotly.
 
-![[heatmaply](https://github.com/talgalili/heatmaply)](https://i.imgur.com/qdUCKlg.gif)
-
-+ [mscsweblm4r on CRAN](http://blog.revolutionanalytics.com/2016/06/microsoft-cognitive-services.html) - An R package for Microsoft Cognitive Services language APIs
-
-+ [vembedr on CRAN](https://cran.rstudio.com/web/packages/vembedr/vignettes/embed.html) - Help you embed (YouTube/Vimeo) video into R Markdown + Shiny.
-
-+ [pkgcopier on CRAN](https://github.com/haozhu233/pkgcopier) - A pkg helps you easily copy R packages from one computer to another. 
 
 ## R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
-+ (Windows only) Tcl/Tk version 8.6.4 is now included in the binary builds. The `tcltk*.chm` help file is no longer included; please use URL: http://www.tcl.tk/man/ instead. 
 
-+ Illegal factors, e.g., with duplicated levels (illegal but constructable) now give a warning when printed, via new ‘.valid.factor’. 
-
-+ `str(<looooooooong_string>)` is no longer very slow; inspired by Mikko Korpela's proposal in [PR#16527](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=16527).
-
-+ After seven years of deprecation, duplicated factor levels now produce an error in ‘levels<-’ instead of a warning, and a warning when printed. 
-
-+ New option `rstandard(<lm>, type = "predicted")` provides the “PRESS”-related leave-one-out cross-validation errors for linear models. 
-
-+ `addNA()` is faster now, e.g., when applied twice; (part of [PR#16895](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=16895)). 
 
 ## Call for Participation
 
-+ [Evolution of the R native interface](http://r.789695.n4.nabble.com/Evolution-of-the-R-native-interface-td4721179.html) - Working group on the future of #rstats ’s native APIs.
+
 
 ## Upcoming Events
 
@@ -148,18 +56,13 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 ## Quote of the Week
 
-[R – the ultimate virus](http://www.ingenio-magazine.com/r-the-ultimate-virus/)
-
-> R changed my opinion of humanity to some extent, to see how people are really willing to freely give of themselves and produce something larger than themselves without any thought of personal glory. 
-
-[Twitter @ Hadley Wickham](https://twitter.com/hadleywickham/status/738802081448886272)
-
-> An NA is the presence of an absence. Don't forget that some missing values are the absence of a presence #rstats
 
 <HR />
 
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
 
 **R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org).
+
+[Twitter @ rweekly_org](https://twitter.com/rweekly_org)
 
 <p><small id="page_view">&nbsp;</small></p>
