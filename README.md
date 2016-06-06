@@ -9,3 +9,11 @@ Take the [survey](https://docs.google.com/forms/d/1WdCjXvWJ1tDSlZNJAroGWCWcqqDjR
 ## Pull Requests
 
 Update the [draft](./draft.md) post, and create a pull request.
+
+## Communication
+
+Have a question or great idea about this website? 
+
+Talk with us on [Twitter](https://twitter.com/rweekly_org) or [Google Groups](https://groups.google.com/forum/#!forum/rweekly).
+
+Thanks for reading!
