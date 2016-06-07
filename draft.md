@@ -19,6 +19,12 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Bootstrap and cross-validation for evaluating modelling strategies](https://ellisp.github.io/blog/2016/06/05/bootstrap-cv-strategies/)
 
++ [Linking bigmemory and RcppEigen](http://casualinference.org/2016/06/04/bigmemory_rcppeigen/)
+
++ [Handling missing data with MICE package; a simple approach](http://datascienceplus.com/handling-missing-data-with-mice-package-a-simple-approach/)
+
++ [R profiling](http://ipub.com/r-profiling/)
+
 #### R in Real World
 
 + [Right or Wrong? - Validate Numbers Like a Boss](http://hoehleatsu.github.io/2016/05/21/proofCalculation.html) - How does a statistician ensure that an analysis that comprises of outputting results is correct? 
@@ -33,25 +39,45 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Oil Price Trend in South African Rands](https://bichopsuey.wordpress.com/2016/06/05/oil-price-trend-in-south-african-rands-r/)
 
++ [Rexer Data Science Survey: Satisfaction Results](http://r4stats.com/2016/06/06/rexer-data-science-survey-satisfaction-results/)
+
++ [Women in Orchestras](https://aschinchon.wordpress.com/2016/06/06/women-in-orchestras/) - The members of ten top orchestras of the world.
+
++ [Time Series Analysis Using Max/Min... and some Neuroscience](http://blog.datascienceheroes.com/time-series-analysis-profiling-using-max-min/)
+
++ [What are the Best Machine Learning Packages in R?](http://www.r-bloggers.com/what-are-the-best-machine-learning-packages-in-r/)
+
++ [Building the Data Matrix for the Task at Hand and Analyzing Jointly the Resulting Rows and Columns](http://joelcadwell.blogspot.my/2016/06/building-data-matrix-for-task-at-hand.html)
+
++ [Exploring Quantum Gate operations with QCSimulator](https://gigadom.wordpress.com/2016/06/05/exploring-quantum-gate-operations-with-qcsimulator/)
+
++ [IBM Invests in R Programming Language for Data Science; Joins R Consortium](https://www.r-consortium.org/news/announcement/2016/06/ibm-invests-r-programming-language-data-science-joins-r-consortium)
+
++ [News: New Package Submission Process - bioconductor](https://support.bioconductor.org/p/83448/)
+
 #### R in Academia
 
++ [camtrapR: an R package for efficient camera trap data management - Methods in Ecology and Evolution](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12600/full) - on [CRAN](https://cran.r-project.org/web/packages/camtrapR/)
+
++ [rOpenSci Biweekly 2016-06-06](https://ropensci.github.io/biweekly/update-2016-06-06/)
 
 ### Videos & Podcasts
 
 + [Developing Shiny Applications: Using Leaflet in R](https://www.youtube.com/watch?list=PL_LGEn4G1x8r99HkY_RfJNlDYB9LDzMj0&v=n42jsxFNXRI)
 
++ [XGBoost A Scalable Tree Boosting System](https://www.youtube.com/watch?v=Vly8xGnNiWs) - blog post [link](http://datascience.la/xgboost-workshop-and-meetup-talk-with-tianqi-chen/)
 
 ### New Releases
 
-
-
-
++ [BetaBit - Frequency analysis challenge console-based game](http://smarterpoland.pl/index.php/2016/06/frequency-analysis-challenge-a-console-based-game-for-rpython/)
 
 ### New Packages & Tools
 
 + [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications in shiny apps via toastr.js
 
 [![shinytoastr](https://cdn.rawgit.com/MangoTheCat/shinytoastr/master/inst/shinytoastr.png)](https://github.com/MangoTheCat/shinytoastr)
+
++ [idbr](http://www.arilamstein.com/blog/2016/06/06/idbr-access-us-census-bureau-international-data-base-r/) on [CRAN](https://cran.r-project.org/web/packages/idbr/) - access the US Census Bureau International Data Base in R 
 
 ## R Project Updates
 
@@ -73,6 +99,11 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 ## Quote of the Week
 
+[Twitter @ Sam Firke](https://twitter.com/samfirke/status/739845326123700224)
+
+> Just realized that tidyr (#rstats package for cleaning dirty data) is an anagram of "dirty". Whoa.
+
+[![tidyr](https://pbs.twimg.com/media/CkR1ZrNWYAADgSe.jpg:large)](https://twitter.com/samfirke/status/739845326123700224)
 
 <HR />
 
