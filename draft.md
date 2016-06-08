@@ -27,7 +27,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### R in Real World
 
-+ [Right or Wrong? - Validate Numbers Like a Boss](http://hoehleatsu.github.io/2016/05/21/proofCalculation.html) - How does a statistician ensure that an analysis that comprises of outputting results is correct? 
++ [Right or Wrong? - Validate Numbers Like a Boss](http://hoehleatsu.github.io/2016/05/22/proofCalculation.html) - How does a statistician ensure that an analysis that comprises of outputting results is correct? 
 
 + [When Should One Stop Testing Software?](https://hoehleatsu.github.io/2016/05/06/when2stop.html) - How long to continue testing your software before shipping.
 
