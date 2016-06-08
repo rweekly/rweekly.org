@@ -25,7 +25,21 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [R profiling](http://ipub.com/r-profiling/)
 
++ [Data Science for Political and Social Phenomena](http://chrisalbon.com/) - The motivation for this site and ongoing book project is to bridge that gap: to create a practical guide to applying data science to political and social phenomena.
+
++ [Analyze Face Emotions with R](http://thinktostart.com/analyze-face-emotions-r/)
+
++ [A very useful set of 254 slides on high performance computing](http://www.nimbios.org/ifiles/hpc/hpcR.pdf)
+
++ [Bayesian Optimization of Machine Learning Models](http://blog.revolutionanalytics.com/2016/06/bayesian-optimization-of-machine-learning-models.html)
+
++ [Static and dynamic network visualization with R](http://kateto.net/network-visualization) -  code and tutorial from Polnet 2015 workshop.
+
 #### R in Real World
+
++ [Using tweenr to interpolate the movement of trains](https://ottlngr.github.io/posts/2016-06-08.html)
+
+[![Using tweenr to interpolate the movement of trains](https://cdn.rawgit.com/rweekly/image/master/2016-06-13/train.gif)](https://ottlngr.github.io/posts/2016-06-08.html)
 
 + [Right or Wrong? - Validate Numbers Like a Boss](http://hoehleatsu.github.io/2016/05/22/proofCalculation.html) - How does a statistician ensure that an analysis that comprises of outputting results is correct? 
 
@@ -51,9 +65,23 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Exploring Quantum Gate operations with QCSimulator](https://gigadom.wordpress.com/2016/06/05/exploring-quantum-gate-operations-with-qcsimulator/)
 
-+ [IBM Invests in R Programming Language for Data Science; Joins R Consortium](https://www.r-consortium.org/news/announcement/2016/06/ibm-invests-r-programming-language-data-science-joins-r-consortium)
++ [Economist Liquidity Index](http://scweiss.blogspot.my/2016/06/economist-liquidity-index.html)
+
++ [Text and Sentiment Analysis with Trump, Clinton, Sanders Twitter data](https://blog.exploratory.io/sentiment-analysis-with-trump-clinton-sanders-twitter-data-cc978e91960f#.8ztpghmbg)
+
+[![Text and Sentiment Analysis with Trump, Clinton, Sanders Twitter data](https://d262ilb51hltx0.cloudfront.net/max/800/1*yX8DeOvV61IMiIm5NdqxLg.png)](https://blog.exploratory.io/sentiment-analysis-with-trump-clinton-sanders-twitter-data-cc978e91960f)
+
+#### R in Organization
 
 + [News: New Package Submission Process - bioconductor](https://support.bioconductor.org/p/83448/)
+
++ [IBM Invests in R Programming Language for Data Science; Joins R Consortium](https://www.r-consortium.org/news/announcement/2016/06/ibm-invests-r-programming-language-data-science-joins-r-consortium)
+
++ [Microsoft announces major commitment to Apache Spark](https://blogs.technet.microsoft.com/dataplatforminsider/2016/06/06/microsoft-announces-major-commitment-to-apache-spark/)
+
++ [R, Python Duel As Top Analytics, Data Science software – KDnuggets 2016 Software Poll Results](http://www.kdnuggets.com/2016/06/r-python-top-analytics-data-mining-data-science-software.html) - R remains the leading tool, with 49% share
+
++ [THIS HOUSE(ING MARKET) IS ON FIRE!](https://commercedataservice.github.io/tutorial_zillow_acs/) - Analysing US Housing Market with Census+Zillow Data in R
 
 #### R in Academia
 
@@ -61,11 +89,27 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [rOpenSci Biweekly 2016-06-06](https://ropensci.github.io/biweekly/update-2016-06-06/)
 
++ [R Passes SAS in Scholarly Use (finally)](http://r4stats.com/2016/06/08/r-passes-sas-in-scholarly-use-finally/)
+
++ [Rootograms a new way to assess count models](http://www.fromthebottomoftheheap.net/2016/06/07/rootograms/) - paper [link](https://arxiv.org/abs/1605.01311)
+
+[![Rootograms a new way to assess count models](https://cdn.rawgit.com/rweekly/image/master/2016-06-13/rootograms-plot.png)](http://www.fromthebottomoftheheap.net/2016/06/07/rootograms/)
+
++ [Social problems with a paper in Social Problems](http://andrewgelman.com/2016/06/07/social-problems-with-a-paper-in-social-problems/)
+
+#### R for Fun
+
++ [R for cats and cat lovers](http://rforcats.net/)
+
 ### Videos & Podcasts
 
 + [Developing Shiny Applications: Using Leaflet in R](https://www.youtube.com/watch?list=PL_LGEn4G1x8r99HkY_RfJNlDYB9LDzMj0&v=n42jsxFNXRI)
 
 + [XGBoost A Scalable Tree Boosting System](https://www.youtube.com/watch?v=Vly8xGnNiWs) - blog post [link](http://datascience.la/xgboost-workshop-and-meetup-talk-with-tianqi-chen/)
+
++ [JJ Allaire - What new things from RStudio are you excited for?](https://www.youtube.com/watch?v=D8yF9AtTTuQ&feature=youtu.be)
+
++ [ggplot2 SparkR: Rebooting ggplot2 for Scalable Big Data Visualization](https://www.youtube.com/watch?v=yxYbiGgh-ho&feature=youtu.be)
 
 ### New Releases
 
@@ -78,6 +122,8 @@ Hello and welcome to the new issue of **R Weekly**!
 [![shinytoastr](https://cdn.rawgit.com/MangoTheCat/shinytoastr/master/inst/shinytoastr.png)](https://github.com/MangoTheCat/shinytoastr)
 
 + [idbr](http://www.arilamstein.com/blog/2016/06/06/idbr-access-us-census-bureau-international-data-base-r/) on [CRAN](https://cran.r-project.org/web/packages/idbr/) - access the US Census Bureau International Data Base in R 
+
++ [ggplot1](https://github.com/hadley/ggplot1) - ggplot1 is mostly made available out of historical interest, to illustrate how Hadley thinking about API design in R has evolved over the years.
 
 ## R Project Updates
 
@@ -104,6 +150,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 > Just realized that tidyr (#rstats package for cleaning dirty data) is an anagram of "dirty". Whoa.
 
 [![tidyr](https://pbs.twimg.com/media/CkR1ZrNWYAADgSe.jpg:large)](https://twitter.com/samfirke/status/739845326123700224)
+
+[Twitter @ Karl Broman](https://twitter.com/kwbroman/status/740332615555682304)
+
+> Summer reading. #rstats
 
 <HR />
 
