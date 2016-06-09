@@ -81,7 +81,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [R, Python Duel As Top Analytics, Data Science software – KDnuggets 2016 Software Poll Results](http://www.kdnuggets.com/2016/06/r-python-top-analytics-data-mining-data-science-software.html) - R remains the leading tool, with 49% share
 
-+ [THIS HOUSE(ING MARKET) IS ON FIRE!](https://commercedataservice.github.io/tutorial_zillow_acs/) - Analysing US Housing Market with Census+Zillow Data in R
++ [This House(ing Market) is on Fire!](https://commercedataservice.github.io/tutorial_zillow_acs/) - Analysing US Housing Market with Census & Zillow Data in R
 
 #### R in Academia
 
@@ -113,6 +113,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Introducing Flexdashboard: an R Markdonw Format for Quick, Intelligent Dashboards](https://www.rstudio.com/resources/webinars/) by Garrett Grolemund ([@garrettgman](https://github.com/garrettgman))  - [materials](https://github.com/rstudio/webinars/tree/master/22-flexdashboard)
 
++ [NSSD Podcast](https://soundcloud.com/nssd-podcast/episode-17-diurnal-high-variance) - Diurnal High Variance
 
 ### New Releases
 
