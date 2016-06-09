@@ -89,7 +89,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [rOpenSci Biweekly 2016-06-06](https://ropensci.github.io/biweekly/update-2016-06-06/)
 
-+ [R Passes SAS in Scholarly Use (finally)](http://r4stats.com/2016/06/08/r-passes-sas-in-scholarly-use-finally/)
++ [R Passes SAS in Scholarly Use (finally)](http://r4stats.com/2016/06/08/r-passes-sas-in-scholarly-use-finally/) - and the comments on [Hacker News](https://news.ycombinator.com/item?id=11866810)
+
+[![R Passes SAS in Scholarly Use (finally)](https://i0.wp.com/r4stats.com/wp-content/uploads/2012/04/Fig_2d_ScholarlyImpact.png)](http://r4stats.com/2016/06/08/r-passes-sas-in-scholarly-use-finally/)
 
 + [Rootograms a new way to assess count models](http://www.fromthebottomoftheheap.net/2016/06/07/rootograms/) - paper [link](https://arxiv.org/abs/1605.01311)
 
