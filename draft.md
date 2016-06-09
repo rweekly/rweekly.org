@@ -125,6 +125,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [ggplot1](https://github.com/hadley/ggplot1) - ggplot1 is mostly made available out of historical interest, to illustrate how Hadley thinking about API design in R has evolved over the years.
 
++ [manhattanly](https://github.com/sahirbhatnagar/manhattanly) - interactive plots for manhattan and Q-Q plots.
+
 ## R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
