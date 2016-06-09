@@ -111,6 +111,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [ggplot2 SparkR: Rebooting ggplot2 for Scalable Big Data Visualization](https://www.youtube.com/watch?v=yxYbiGgh-ho&feature=youtu.be)
 
++ [Introducing Flexdashboard: an R Markdonw Format for Quick, Intelligent Dashboards](https://www.rstudio.com/resources/webinars/) by Garrett Grolemund ([@garrettgman](https://github.com/garrettgman))  - [materials](https://github.com/rstudio/webinars/tree/master/22-flexdashboard)
+
+
 ### New Releases
 
 + [BetaBit - Frequency analysis challenge console-based game](http://smarterpoland.pl/index.php/2016/06/frequency-analysis-challenge-a-console-based-game-for-rpython/)
