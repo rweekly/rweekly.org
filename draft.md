@@ -75,7 +75,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Dataviz Remix: Housing Trilemma](http://lenkiefer.com/2016/06/09/Dataviz-Remix-Housing-Trilemma)
 
-+ [Scraping and Plotting Minneapolis Property Prices | RSelenium, ggmap, ggplots](https://thescreenshotguy.wordpress.com/2016/06/08/scraping-and-plotting-minneapolis-property-prices-rselenium-ggmap-ggplots/)
++ [Scraping and Plotting Minneapolis Property Prices with RSelenium, ggmap and ggplots](https://thescreenshotguy.wordpress.com/2016/06/08/scraping-and-plotting-minneapolis-property-prices-rselenium-ggmap-ggplots/)
 
 #### R in Organization
 
