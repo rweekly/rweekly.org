@@ -83,11 +83,6 @@ if (nrow(failed_post)>0) {
 	print(failed_post)
 }
 
-not_200 = posts[!(posts$code %in% c("200")),]
-if (nrow(not_200)>0){
-	print(not_200)
-}
-
 message("checking draft")
 draft = test.local.urls("./draft.md")
 failed_draft = draft[!(draft$code %in% c("200","405")),]
@@ -95,11 +90,6 @@ failed_draft = draft[!(draft$code %in% c("200","405")),]
 if (nrow(failed_draft)>0) {
 	failed = failed + nrow(failed_draft)
 	print(failed_draft)
-}
-
-not_200 = draft[!(draft$code %in% c("200")),]
-if (nrow(not_200)>0){
-	print(not_200)
 }
 
 if (failed > 0) stop(paste0(failed, " links" ))
