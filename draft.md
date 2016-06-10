@@ -35,6 +35,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Static and dynamic network visualization with R](http://kateto.net/network-visualization) -  code and tutorial from Polnet 2015 workshop.
 
++ [How to send a bunch of emails from R](https://github.com/jennybc/send-email-with-r#readme)
+
 #### R in Real World
 
 + [Using tweenr to interpolate the movement of trains](https://ottlngr.github.io/posts/2016-06-08.html)
@@ -71,7 +73,13 @@ Hello and welcome to the new issue of **R Weekly**!
 
 [![Text and Sentiment Analysis with Trump, Clinton, Sanders Twitter data](https://d262ilb51hltx0.cloudfront.net/max/800/1*yX8DeOvV61IMiIm5NdqxLg.png)](https://blog.exploratory.io/sentiment-analysis-with-trump-clinton-sanders-twitter-data-cc978e91960f)
 
++ [Dataviz Remix: Housing Trilemma](http://lenkiefer.com/2016/06/09/Dataviz-Remix-Housing-Trilemma)
+
++ [Scraping and Plotting Minneapolis Property Prices | RSelenium, ggmap, ggplots](https://thescreenshotguy.wordpress.com/2016/06/08/scraping-and-plotting-minneapolis-property-prices-rselenium-ggmap-ggplots/)
+
 #### R in Organization
+
++ [In case you missed it: May 2016 roundup](http://blog.revolutionanalytics.com/2016/06/in-case-you-missed-it-may-2016-roundup.html)
 
 + [News: New Package Submission Process - bioconductor](https://support.bioconductor.org/p/83448/)
 
@@ -82,6 +90,10 @@ Hello and welcome to the new issue of **R Weekly**!
 + [R, Python Duel As Top Analytics, Data Science software – KDnuggets 2016 Software Poll Results](http://www.kdnuggets.com/2016/06/r-python-top-analytics-data-mining-data-science-software.html) - R remains the leading tool, with 49% share
 
 + [This House(ing Market) is on Fire!](https://commercedataservice.github.io/tutorial_zillow_acs/) - Analysing US Housing Market with Census & Zillow Data in R
+
++ [R Consortium and User! 2016 News](http://blog.revolutionanalytics.com/2016/06/r-news.html)
+
++ [Good Books for All Things Data](http://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/)
 
 #### R in Academia
 
@@ -117,9 +129,19 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [NSSD Podcast](https://soundcloud.com/nssd-podcast/episode-17-diurnal-high-variance) - Diurnal High Variance
 
++ [Complex Ecological and Evolutionary Systems](https://www.tcd.ie/Zoology/research/research/theoretical/Rpodcasts.php) - A course in the R statistical computing language by video podcast.
+
+### Resources
+
++ [Book - Exploring Data Science](https://manning.com/books/exploring-data-science)
+
 ### New Releases
 
 + [BetaBit - Frequency analysis challenge console-based game](http://smarterpoland.pl/index.php/2016/06/frequency-analysis-challenge-a-console-based-game-for-rpython/)
+
++ [fodr](https://github.com/Tutuchan/fodr) - An R package to access French Open Data portals.
+
++ [haven - Conversion semantics](http://rpubs.com/hadley/haven-semantics) - Better support for SPSS/Stata/SAS NAs + labels in haven.
 
 ### New Packages & Tools
 
@@ -134,6 +156,10 @@ Hello and welcome to the new issue of **R Weekly**!
 + [manhattanly](https://github.com/sahirbhatnagar/manhattanly) - interactive plots for manhattan and Q-Q plots.
  
 [![manhattanly](https://cdn.rawgit.com/rweekly/image/master/2016-06-13/manhattanly.gif)](https://github.com/sahirbhatnagar/manhattanly)
+
++ [rbhl](https://github.com/ropensci/rbhl) - R interface to the Biodiversity Heritage Library (BHL) API.
+
++ [rprev](http://stuartlacy.co.uk/08062016-rprev) - Simulating disease prevalence estimates.
 
 ## R Project Updates
 
