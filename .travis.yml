@@ -1,19 +1,27 @@
 language: c
+
 sudo: required
+
 dist: trusty
+
 before_install:
-- echo "options(repos = c(CRAN='http://cran.r-project.org'))" >> ~/.Rprofile
-- curl -OL http://raw.github.com/craigcitro/r-travis/master/scripts/travis-tool.sh
-- chmod 755 ./travis-tool.sh
-- "./travis-tool.sh bootstrap"
+  - echo "options(repos = c(CRAN='http://cran.r-project.org'))" >> ~/.Rprofile
+  - curl -OL http://raw.github.com/craigcitro/r-travis/master/scripts/travis-tool.sh
+  - chmod 755 ./travis-tool.sh
+  - ./travis-tool.sh bootstrap
+
 install:
-- "./travis-tool.sh install_r_binary stringi curl stringr"
+  - ./travis-tool.sh install_r_binary stringi curl stringr
+
 before_script:
-- "./travis-tool.sh dump_sysinfo"
+  - ./travis-tool.sh dump_sysinfo
+
 script:
-- Rscript check_url.R
+  - Rscript check_url.R
+
 after_failure:
-- "./travis-tool.sh dump_logs"
+  - ./travis-tool.sh dump_logs
+
 notifications:
   email:
     on_success: change
