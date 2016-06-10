@@ -115,6 +115,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [R for cats and cat lovers](http://rforcats.net/)
 
++ [Puppet Roger Peng ep1](https://www.youtube.com/watch?v=bvtxnXlKNZE) - Render a totally heavy metal 3d interactive skull, in R.
+
 ### Videos & Podcasts
 
 + [Developing Shiny Applications: Using Leaflet in R](https://www.youtube.com/watch?list=PL_LGEn4G1x8r99HkY_RfJNlDYB9LDzMj0&v=n42jsxFNXRI)
