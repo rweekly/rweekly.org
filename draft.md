@@ -35,7 +35,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [How to send a bunch of emails from R](https://github.com/jennybc/send-email-with-r#readme)
 
-+ [Interactive maps and charts in R](http://blog.revolutionanalytics.com/2016/06/mapping-in-r.html)
++ [The R Project for Maps](http://www.web-maps.com/gisblog/?p=2365)
 
 #### R in Real World
 
