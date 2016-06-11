@@ -171,6 +171,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [rprev](http://stuartlacy.co.uk/08062016-rprev) - Simulating disease prevalence estimates.
 
++ [gdeltr2](https://github.com/abresler/gdeltr2) - R interface to the data stores and APIs of [The GDELT Project](http://gdeltproject.org)
+
 ## R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
