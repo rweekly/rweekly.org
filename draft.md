@@ -25,8 +25,6 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [R profiling](http://ipub.com/r-profiling/)
 
-+ [Data Science for Political and Social Phenomena](http://chrisalbon.com/) - The motivation for this site and ongoing book project is to bridge that gap: to create a practical guide to applying data science to political and social phenomena.
-
 + [Analyze Face Emotions with R](http://thinktostart.com/analyze-face-emotions-r/)
 
 + [A very useful set of 254 slides on high performance computing](http://www.nimbios.org/ifiles/hpc/hpcR.pdf)
@@ -36,6 +34,8 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Static and dynamic network visualization with R](http://kateto.net/network-visualization) -  code and tutorial from Polnet 2015 workshop.
 
 + [How to send a bunch of emails from R](https://github.com/jennybc/send-email-with-r#readme)
+
++ [Interactive maps and charts in R](http://blog.revolutionanalytics.com/2016/06/mapping-in-r.html)
 
 #### R in Real World
 
@@ -137,13 +137,21 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Book - Exploring Data Science](https://manning.com/books/exploring-data-science)
 
++ [htmlwidgets Gallery](http://gallery.htmlwidgets.org)
+
++ [Data Science for Political and Social Phenomena](http://chrisalbon.com/) - The motivation for this site and ongoing book project is to bridge that gap: to create a practical guide to applying data science to political and social phenomena.
+
 ### New Releases
 
-+ [BetaBit - Frequency analysis challenge console-based game](http://smarterpoland.pl/index.php/2016/06/frequency-analysis-challenge-a-console-based-game-for-rpython/)
++ [BetaBit](http://smarterpoland.pl/index.php/2016/06/frequency-analysis-challenge-a-console-based-game-for-rpython/) - Frequency analysis challenge console-based game
 
 + [fodr](https://github.com/Tutuchan/fodr) - An R package to access French Open Data portals.
 
 + [haven - Conversion semantics](http://rpubs.com/hadley/haven-semantics) - Better support for SPSS/Stata/SAS NAs + labels in haven.
+
++ [sunburstR](https://github.com/timelyportfolio/sunburstR) - With more precise color control for coord.
+
+[![sunburstR](https://cdn.rawgit.com/rweekly/image/master/2016-06-13/sunburstR.jpg)](https://github.com/timelyportfolio/sunburstR)
 
 ### New Packages & Tools
 
@@ -175,7 +183,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 ## Upcoming Events
 
-+ [2016 useR! Stanford](http://user2016.org/) - The R User Conference 2016<br /> **June 27 - June 30** <br> The schedule for [#user2016](https://twitter.com/hashtag/user2016) is now live: [http://schedule.user2016.org](http://schedule.user2016.org)
++ [2016 useR! Stanford](http://user2016.org/) - The R User Conference 2016<br /> **June 27 - June 30** <br>
+  + [Videa Stream](https://aka.ms/user2016conference)
+  + [Schedule](http://schedule.user2016.org)
+  + [Twitter #user2016](https://twitter.com/hashtag/user2016)
 
 ## Jobs
 
@@ -191,7 +202,11 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 [Twitter @ Karl Broman](https://twitter.com/kwbroman/status/740332615555682304)
 
-> Summer reading. #rstats
+> Summer reading. #rstats (click the link to read more)
+
+[Twitter @ James Curley](https://twitter.com/jalapic/status/741358160175333376)
+
+> CRAN submit help: 1. @hadleywickham - http://r-pkgs.had.co.nz/  2. @kwbroman - http://kbroman.org/pkg_primer/pages/cran.html 3. @xieyihui http://yihui.name/en/2009/10/50000-revisions-committed-to-r/ !
 
 <HR />
 
