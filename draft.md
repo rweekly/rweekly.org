@@ -7,6 +7,14 @@ Release Date: 2016-06-13
 
 Hello and welcome to the new issue of **R Weekly**!
 
+## Highlight
+
+*Digested by R Weekly Members*
+
++ [How to send a bunch of emails from R](https://github.com/jennybc/send-email-with-r#readme)
+
++ [Good Books for All Things Data](http://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/)
+
 ## R Community Updates
 
 ### News & Blog Posts
@@ -18,6 +26,8 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Using geom_step](http://www.win-vector.com/blog/2016/06/using-geom_step/)
 
 + [Bootstrap and cross-validation for evaluating modelling strategies](https://ellisp.github.io/blog/2016/06/05/bootstrap-cv-strategies/)
+
+[![Bootstrap and cross-validation for evaluating modelling strategies](https://ellisp.github.io/img/0043-boot-results.svg)](https://ellisp.github.io/blog/2016/06/05/bootstrap-cv-strategies/)
 
 + [Linking bigmemory and RcppEigen](http://casualinference.org/2016/06/04/bigmemory_rcppeigen/)
 
@@ -36,6 +46,16 @@ Hello and welcome to the new issue of **R Weekly**!
 + [How to send a bunch of emails from R](https://github.com/jennybc/send-email-with-r#readme)
 
 + [The R Project for Maps](http://www.web-maps.com/gisblog/?p=2365)
+
++ [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961)
+
++ [Travis with Cron Jobs](https://docs.travis-ci.com/user/cron-jobs/) - Useful for R package developers.
+
++ [Plotting logistic regression in R](http://www.shizukalab.com/toolkits/plotting-logistic-regression-in-r)
+
++ [Gerber Statistic Implementation in Rcpp and OpenMP](http://gallery.rcpp.org//articles/Gerber/)
+
++ [Radial bar charts in R using Plotly](http://moderndata.plot.ly/radial-bar-charts-in-r-using-plotly/)
 
 #### R in Real World
 
@@ -76,6 +96,10 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Dataviz Remix: Housing Trilemma](http://lenkiefer.com/2016/06/09/Dataviz-Remix-Housing-Trilemma)
 
 + [Scraping and Plotting Minneapolis Property Prices with RSelenium, ggmap and ggplots](https://thescreenshotguy.wordpress.com/2016/06/08/scraping-and-plotting-minneapolis-property-prices-rselenium-ggmap-ggplots/)
+
++ [Interactive network of RePEc economists on Twitter](http://io.mongeau.net/repec-twitter-network/)
+
+[![Interactive network of RePEc economists on Twitter](https://pbs.twimg.com/media/CkoHJmGWsAAe9RI.jpg:large)](http://io.mongeau.net/repec-twitter-network/)
 
 #### R in Organization
 
@@ -153,6 +177,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 [![sunburstR](https://cdn.rawgit.com/rweekly/image/master/2016-06-13/sunburstR.jpg)](https://github.com/timelyportfolio/sunburstR)
 
++ [bdvis](https://vijaybarve.wordpress.com/2016/06/10/visualize-completeness-of-biodiversity-data/) - Visualize completeness of biodiversity data.
+
 ### New Packages & Tools
 
 + [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications in shiny apps via toastr.js
@@ -171,12 +197,29 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [rprev](http://stuartlacy.co.uk/08062016-rprev) - Simulating disease prevalence estimates.
 
-+ [gdeltr2](https://github.com/abresler/gdeltr2) - R interface to the data stores and APIs of [The GDELT Project](http://gdeltproject.org)
++ [gdeltr2](https://github.com/abresler/gdeltr2) - R interface to the data stores and APIs of [The GDELT Project](http://gdeltproject.org).
+
++ [googleway](https://github.com/SymbolixAU/googleway) - Retrieves data from Google Maps APIs.
+
+[![googleway](https://cdn.rawgit.com/SymbolixAU/googleway/master/vignettes/img/melbourne_to_sydney.png)](https://github.com/SymbolixAU/googleway)
+
++ [HIBPwned](http://itsalocke.com/hibpwned-on-cran/) - Bindings for the HaveIBeenPwned.com Data Breach API.
 
 ## R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
++ `diff(<difftime>)` now keeps the `"units"` attribute, as subtraction already did, [PR#16940](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=16940). 
+
++ `extSoftVersion()` now reports the version (if any) of the `readline` library in use. And some other patches about `readline` library.
+
++ `as<-()` avoids an infinite loop when a virtual class is interposed between a subclass and an actual superclass.
+
++ Fix S3 dispatch on S4 objects when the `methods` package is not attached.
+
++ Internal S4 dispatch sets `.Generic` in the method frame for consistency with `standardGeneric()`, [PR#16929](https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=16929).
+
++ Fix `order(x, decreasing=TRUE)` when `x` is an integer vector containing `MAX_INT`. Ported from a fix Matt Dowle made to `data.table`.
 
 
 ## Call for Participation
