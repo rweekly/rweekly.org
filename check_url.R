@@ -28,7 +28,7 @@ test.local.urls <- function(path, timeout = 100, total_con = 30, host_con = 6, .
       # init return result
       test.result <- data.frame(file = pathi, href = hrefs, code = NA, stringsAsFactors = FALSE)
 
-      pool = curl::multi_new()
+      pool = curl::new_pool()
       curl::multi_set(total_con = total_con, host_con = host_con, multiplex = TRUE, pool = pool)
 
       add_async_url = function(urli){
