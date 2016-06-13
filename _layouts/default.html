@@ -19,6 +19,8 @@
       </main>
 
       <footer class="footer">
+        {% capture footer-md %}{% include footer.md %}{% endcapture %}
+        {{ footer-md | markdownify }}
         <small>
           &copy; 2016 RWeekly.org &nbsp;
         </small>

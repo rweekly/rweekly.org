@@ -58,10 +58,4 @@ Hello and welcome to the new issue of **R Weekly**!
 
 <HR />
 
-[R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
-
-**R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org).
-
-[Twitter @ rweekly_org](https://twitter.com/rweekly_org)
-
 <p><small id="page_view">&nbsp;</small></p>
