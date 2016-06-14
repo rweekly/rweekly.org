@@ -34,6 +34,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### New Releases
 
++ [tidyr 0.5.0](https://blog.rstudio.org/2016/06/13/tidyr-0-5-0/) - Easily Tidy Data with `spread()` and `gather()` Functions.
+
 ### New Packages & Tools
 
 ## R Project Updates
@@ -51,7 +53,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## Jobs
 
-*No jobs listed for this week.*
++ [8 new R jobs from all over the world (2016-06-13)](http://www.r-bloggers.com/8-new-r-jobs-from-all-over-the-world-2016-06-13/)
 
 ## Quote of the Week
 
