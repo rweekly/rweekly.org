@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: Issue 3
+title: Issue 4
 ---
 
 Release Date: 2016-06-20
@@ -37,6 +37,8 @@ Hello and welcome to the new issue of **R Weekly**!
 + [tidyr 0.5.0](https://blog.rstudio.org/2016/06/13/tidyr-0-5-0/) - Easily Tidy Data with `spread()` and `gather()` Functions.
 
 ### New Packages & Tools
+
++ [githubinstall](http://mockquant.blogspot.com.au/2016/06/githubinstall-new-r-package-for-easy-to.html) - a more helpful way to install or query R packages hosted on GitHub.
 
 ## R Project Updates
 
