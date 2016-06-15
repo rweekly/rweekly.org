@@ -40,6 +40,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [githubinstall](http://mockquant.blogspot.com.au/2016/06/githubinstall-new-r-package-for-easy-to.html) - a more helpful way to install or query R packages hosted on GitHub.
 
++ [lazyrmd](http://ryanhafen.com/blog/lazyrmd) - make the R Markdown-generated html faster by lazily loading htmlwidgets plots.
+
 ## R Project Updates
 
 
