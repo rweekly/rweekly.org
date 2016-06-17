@@ -18,23 +18,95 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
++ [Linear model with time series random component - 2015 post](https://ellisp.github.io/blog/2015/11/15/linear-model-timeseries/)
+
+[![Linear model with time series random component - 2015 post](https://ellisp.github.io/img/0017-timeseries.gif)](https://ellisp.github.io/blog/2015/11/15/linear-model-timeseries/)
+
++ [Handling missing data with MICE package; a simple approach](http://datascienceplus.com/handling-missing-data-with-mice-package-a-simple-approach/)
+
++ [Docker - a Lovestory](https://heidiseibold.github.io/r/2016/06/13/Docker/)
+
++ [Connecting R with Amazon Redshift - 2015 post](http://blogs.aws.amazon.com/bigdata/post/Tx1G8828SPGX3PK/Connecting-R-with-Amazon-Redshift)
+
++ [Radar charts in R using Plotly](http://moderndata.plot.ly/radar-charts-in-r-using-plotly/)
+
++ [R Hero saves Backup City with archivist and GitHub](http://r-addict.com/2016/06/13/RHero-Saves-Backup-City-With-archivist-github.html)
+
++ [Calculate your nutrients with my new package: NutrientData](http://www.56n.dk/calculate-your-nutrients-with-my-new-package-nutrientdata/)
+
++ [Intro to The data.table Package](https://rollingyours.wordpress.com/2016/06/14/fast-aggregation-of-large-data-with-the-data-table-package/)
+
++ [Reading and combining many tidy data files in R](http://serialmentor.com/blog/2016/6/13/reading-and-combining-many-tidy-data-files-in-R/)
+
++ [Common R Programming Errors Faced by Beginners](http://www.quantinsti.com/blog/common-errors-r/)
+
 #### R in Real World
 
++ [America’s Public Bible](http://americaspublicbible.org/) - Biblical Quotations in U.S. Newspapers.
+
++ [Gender ratios of programmers, by language](http://blog.revolutionanalytics.com/2016/06/programmers-gender.html)
+
++ [Improving Season on Season](http://rpubs.com/jalapic/sbs) - How many teams have had runs of six seasons or more of successively improving their league position?
+
+[![Improving Season on Season](https://cdn.rawgit.com/rweekly/image/master/2016-06-20/football.png)](http://rpubs.com/jalapic/sbs)
+
++ [The R Packages of UseR! 2016](http://blog.revolutionanalytics.com/2016/06/the-r-packages-of-user-2016.html)
+
+[![The R Packages of UseR! 2016](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c86dfbf2970b-800wi)](http://blog.revolutionanalytics.com/2016/06/the-r-packages-of-user-2016.html)
+
++ [Visualizing obesity across United States by using data from Wikipedia](http://datascienceplus.com/visualizing-obesity-across-united-states-by-using-data-from-wikipedia/)
+
++ [Your data vis “Spidey-sense” & the need for a robust “utility belt”](https://rud.is/b/2016/06/16/your-data-vis-spidey-sense-the-need-for-a-robust-utility-belt/)
+
++ [Mapping US Counties in R with FIPS](https://www.datascienceriot.com/mapping-us-counties-in-r-with-fips/kris/)
+
++ [Set up a twitter filter stream before a conference to properly check out the zeitgeist!](https://thomas-keller.github.io/articles/using-streamr-tidytext-to-conferences-with-twitter/)
+
++ [Monthly Regional Tourism Estimates](https://ellisp.github.io/blog/2016/06/16/mrtes/)
+
++ [Euro 2016 Squads](https://gjabel.wordpress.com/2016/06/15/euro-2016-squads/)
+
++ [Monthly patterns in Scottish snow (1946-2006)](https://scottishsnow.wordpress.com/2016/04/24/monthly-snow/)
+
++ [Living longer is the new norm](http://www.swissinfo.ch/eng/by-the-numbers_a-greying-planet-from-north-to-south/42207298)
+
++ [How to Cut Your Planks with R](http://sumsar.net/blog/2016/06/how-to-cut-your-planks-with-r/)
+
++ [Germany most likely to win Euro 2016](http://www.r-bloggers.com/germany-most-likely-to-win-euro-2016/)
+
+[![Germany most likely to win Euro 2016](https://grollchristian.files.wordpress.com/2016/06/em_results_tree.png)](http://www.r-bloggers.com/germany-most-likely-to-win-euro-2016/)
+
++ [On Whether Y-axis Labels Are Always Necessary](http://rud.is/b/2016/06/12/on-whether-y-axis-labels-are-always-necessary/)
+
++ [Exploring Spatial Patterns and Coexistance](https://biologyforfun.wordpress.com/2016/06/11/exploring-spatial-patterns-and-coexistance/)
 
 #### R in Organization
 
++ [Renjin June 2016 newsletter](http://us7.campaign-archive1.com/?u=d15c4a781ddc4b9bdcec62993&id=0e189b562e)
+
 #### R in Academia
 
-#### R for Fun
++ [Flexible expressed region analysis for RNA-seq with derfinder](http://ht.ly/outJ301ko9b)
 
 ### Videos & Podcasts
 
++ [R, Reporting Services and some notifications for Power BI - Roundup #49](https://www.youtube.com/watch?v=BCbosbFBpfM&feature=youtu.be)
+
 ### Resources
 
++ [MOOC - Master Statistics with R from Duke](https://www.coursera.org/specializations/statistics) - June 20
+
++ [Eric Zivot's notes for time series handling in R](https://faculty.washington.edu/ezivot/econ424/Working%20with%20Time%20Series%20Data%20in%20R.pdf)
+
++ [Beamer's template to Write in English and Chinese](http://pacha.hk/beamertemplate.html)
+
++ [Learn R online – A detailed list of online courses on R](http://bafflednerd.com/learn-r-online/)
 
 ### New Releases
 
 + [tidyr 0.5.0](https://blog.rstudio.org/2016/06/13/tidyr-0-5-0/) - Easily Tidy Data with `spread()` and `gather()` Functions.
+
++ [jsonlite 0.9.22](https://www.opencpu.org/posts/jsonlite-0-9-22/) - Distinguish between double and integer.
 
 ### New Packages & Tools
 
@@ -44,7 +116,20 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [lazyrmd](http://ryanhafen.com/blog/lazyrmd) - make the R Markdown-generated html faster by lazily loading htmlwidgets plots.
 
++ [xda](https://ujjwalkarn.me/2016/06/17/introducing-xda-r-package-for-exploratory-data-analysis/) - Introducing xda: R package for exploratory data analysis.
+
++ [listviewer](http://www.buildingwidgets.com/blog/2015/4/14/week-15-listviewer) - R htmlwidget to view lists.
+
++ [jsonvalidate](https://ropenscilabs.github.io/jsonvalidate/) - Uses the node library 'is-my-json-valid' to validate 'JSON' against a 'JSON' schema.
+
++ [assertr](https://github.com/ropenscilabs/assertr) - Assertive programming for R analysis pipelines.
+
++ [SnakeCharmR](https://asieira.github.io/introducing-snakecharmr.html) - A modern #rstats package that allows you to call Python code from R .
+
+
 ## R Project Updates
+
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 
 ## Call for Participation
