@@ -40,6 +40,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Common R Programming Errors Faced by Beginners](http://www.quantinsti.com/blog/common-errors-r/)
 
++ [Hyperparameter Optimization in H2O: Grid Search, Random Search and the Future](http://blog.h2o.ai/2016/06/hyperparameter-optimization-in-h2o-grid-search-random-search-and-the-future/) 
+
 #### R in Real World
 
 + [America’s Public Bible](http://americaspublicbible.org/) - Biblical Quotations in U.S. Newspapers.
@@ -131,6 +133,19 @@ Hello and welcome to the new issue of **R Weekly**!
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
++ `sessionInfo()` has been updated for Apple's change in OS naming as from 	`10.12` (`macOS Sierra`).
+
++ `toLatex()` method now includes the `running` component.
+
++ `as<-()` avoids an infinite loop when a virtual class is interposed between a subclass and an actual superclass.
+
++ Fix level propagation in `unlist()` when the list contains zero-length lists or factors.
+
++ Fix S3 dispatch on S4 objects when the `methods` package is not attached.
+
++ Internal S4 dispatch sets `.Generic` in the method frame for consistency with `standardGeneric()` (PR#16929).
+
++ Fix `order(x, decreasing=TRUE)` when `x` is an integer vector containing `MAX_INT`. Ported from a fix Matt Dowle made to ‘data.table’.
 
 ## Call for Participation
 
