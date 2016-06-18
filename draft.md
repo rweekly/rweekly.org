@@ -82,6 +82,10 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Exploring Spatial Patterns and Coexistance](https://biologyforfun.wordpress.com/2016/06/11/exploring-spatial-patterns-and-coexistance/)
 
++ [Using Statcast Data to Predict Hits](http://www.hardballtimes.com/using-statcast-data-to-predict-hits/) - Model/predict batted ball outcomes with Statcast data.
+
+[![Using Statcast Data to Predict Hits](https://cdn.rawgit.com/rweekly/image/master/2016-06-20/angle_speed_pred.png)](http://www.hardballtimes.com/using-statcast-data-to-predict-hits/)
+
 #### R in Organization
 
 + [Renjin June 2016 newsletter](http://us7.campaign-archive1.com/?u=d15c4a781ddc4b9bdcec62993&id=0e189b562e)
@@ -163,6 +167,11 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 ## Quote of the Week
 
+[Twitter @ Urban Demographics](https://twitter.com/UrbanDemog/status/742828444292124672)
+
+> Unintentionally creating abstract art in #rstats #ggplot2 If I fail my PhD, I'll try to sell my plots to an art gal.
+
+[![r-art](https://pbs.twimg.com/media/Ck8Oh7XWEAIZar2.jpg)](https://twitter.com/UrbanDemog/status/742828444292124672)
 
 <HR />
 
