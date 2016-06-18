@@ -32,8 +32,6 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [R Hero saves Backup City with archivist and GitHub](http://r-addict.com/2016/06/13/RHero-Saves-Backup-City-With-archivist-github.html)
 
-+ [Calculate your nutrients with my new package: NutrientData](http://www.56n.dk/calculate-your-nutrients-with-my-new-package-nutrientdata/)
-
 + [Intro to The data.table Package](https://rollingyours.wordpress.com/2016/06/14/fast-aggregation-of-large-data-with-the-data-table-package/)
 
 + [Reading and combining many tidy data files in R](http://serialmentor.com/blog/2016/6/13/reading-and-combining-many-tidy-data-files-in-R/)
