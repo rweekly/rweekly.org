@@ -11,6 +11,11 @@ Hello and welcome to the new issue of **R Weekly**!
 
 *Digested by R Weekly Members*
 
++ [America’s Public Bible](http://americaspublicbible.org/) - Biblical Quotations in U.S. Newspapers.
+
++ [Improving Season on Season](http://rpubs.com/jalapic/sbs) - `engsoccerdata` contains complete historical soccer results of major European leagues. How many teams have had runs of six seasons or more of successively improving their league position?
+
++ [Using Statcast Data to Predict Hits](http://www.hardballtimes.com/using-statcast-data-to-predict-hits/) - Model/predict batted ball outcomes with Statcast data.
 
 ## R Community Updates
 
@@ -46,7 +51,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Gender ratios of programmers, by language](http://blog.revolutionanalytics.com/2016/06/programmers-gender.html)
 
-+ [Improving Season on Season](http://rpubs.com/jalapic/sbs) - How many teams have had runs of six seasons or more of successively improving their league position?
++ [Improving Season on Season](http://rpubs.com/jalapic/sbs) - `engsoccerdata` contains complete historical soccer results of major European leagues. How many teams have had runs of six seasons or more of successively improving their league position?
 
 [![Improving Season on Season](https://cdn.rawgit.com/rweekly/image/master/2016-06-20/football.png)](http://rpubs.com/jalapic/sbs)
 
@@ -122,14 +127,13 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [xda](https://ujjwalkarn.me/2016/06/17/introducing-xda-r-package-for-exploratory-data-analysis/) - Introducing xda: R package for exploratory data analysis.
 
-+ [listviewer](http://www.buildingwidgets.com/blog/2015/4/14/week-15-listviewer) - R htmlwidget to view lists.
++ [listviewer](https://github.com/timelyportfolio/listviewer) - R htmlwidget to view lists.
 
-+ [jsonvalidate](https://ropenscilabs.github.io/jsonvalidate/) - Uses the node library 'is-my-json-valid' to validate 'JSON' against a 'JSON' schema.
++ [jsonvalidate](https://ropenscilabs.github.io/jsonvalidate/) - Uses the node library `is-my-json-valid` to validate `JSON` against a `JSON` schema.
 
 + [assertr](https://github.com/ropenscilabs/assertr) - Assertive programming for R analysis pipelines.
 
 + [SnakeCharmR](https://asieira.github.io/introducing-snakecharmr.html) - A modern #rstats package that allows you to call Python code from R .
-
 
 ## R Project Updates
 
