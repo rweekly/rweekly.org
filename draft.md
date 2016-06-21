@@ -29,7 +29,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 
 ### Videos & Podcasts
-
++ [Hadley Wickham - Cupcakes (for-loops vs map/lapply)](https://www.youtube.com/watch?v=GyNqlOjhPCQ) - Excerpt from Hadley's presentation at EdinbR (The Edinburgh R User Group). Alternatively, [a post-presentation audience question from WOMBAT2016](https://youtu.be/hRNUgwAFZtQ?t=47m30s).
 
 ### Resources
 
