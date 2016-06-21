@@ -19,7 +19,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 
 #### R in Real World
-
++ [One year as a Data Scientist at Stack Overflow](http://varianceexplained.org/r/year_data_scientist/)
 
 #### R in Organization
 
