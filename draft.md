@@ -15,6 +15,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### News & Blog Posts
 
+[Better prediction intervals for time series forecasts](http://ellisp.github.io/blog/2016/01/30/hybrid-forecasts/?utm_content=buffer32d5f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 #### Tutorials
 
 
@@ -37,9 +39,9 @@ Hello and welcome to the new issue of **R Weekly**!
 ### New Releases
 
 
-
-
 ### New Packages & Tools
+
+[p-hacker: Train your p-hacking skills!](http://www.r-bloggers.com/introducing-the-p-hacker-app-train-your-expert-p-hacking-skills/)
 
 
 ## R Project Updates
@@ -49,6 +51,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 ## Call for Participation
 
+[satRday! in Budapest, Hungary](http://budapest.satrdays.org/#cfp)
 
 ## Upcoming Events
 
