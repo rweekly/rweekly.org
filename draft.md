@@ -17,19 +17,19 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
-+ [Better prediction intervals for time series forecasts](http://ellisp.github.io/blog/2016/01/30/hybrid-forecasts/?utm_content=buffer32d5f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
++ [Better prediction intervals for time series forecasts](http://ellisp.github.io/blog/2016/01/30/hybrid-forecasts/?utm_content=buffer32d5f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) .
 
-+ [MonetDBLite because fast](http://www.asdfree.com/2016/06/monetdblite-because-fast.html) Further Reading: [click here](https://www.monetdb.org/blog/monetdblite-r) 
++ [MonetDBLite because fast](http://www.asdfree.com/2016/06/monetdblite-because-fast.html) - For Further Reading: [click here](https://www.monetdb.org/blog/monetdblite-r) .
 
-+ [Bayesian Statistics explained to Beginners in Simple English](http://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/) 
++ [Bayesian Statistics explained to Beginners in Simple English](http://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/) .
 
-+ [LDAvis: for Text Mining models visualizations](http://r-addict.com/2016/06/21/LDAvis-RBloggers.html) 
++ [LDAvis: for Text Mining models visualizations](http://r-addict.com/2016/06/21/LDAvis-RBloggers.html) .
 
 + [Introducing the p-hacker app: Train your expert p-hacking skills](http://www.nicebread.de/introducing-p-hacker/) 
 
-+ [Introduction to R for Data Science : Session 8 Intro to Text Mining in R, ML Estimation + Binomial Logistic Regression](http://www.exactness.net/post/146247550535/introduction-to-r-for-data-science-session-8)
++ [Introduction to R for Data Science : Session 8 Intro to Text Mining in R, ML Estimation + Binomial Logistic Regression](http://www.exactness.net/post/146247550535/introduction-to-r-for-data-science-session-8) .
 
-+ [How to use data analysis for machine learning, part 2](http://www.sharpsightlabs.com/data-analysis-machine-learning-example-part2/)
++ [How to use data analysis for machine learning, part 2](http://www.sharpsightlabs.com/data-analysis-machine-learning-example-part2/) .
 
 #### R in Real World
 
@@ -62,7 +62,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [p-hacker: Train your p-hacking skills!](http://www.r-bloggers.com/introducing-the-p-hacker-app-train-your-expert-p-hacking-skills/)
 
-+ [MonetDBLite for R] on [Github](https://github.com/hannesmuehleisen/MonetDBLite)
++ [MonetDBLite for R](https://www.monetdb.org/blog/monetdblite-r) on [Github](https://github.com/hannesmuehleisen/MonetDBLite)
 
 ## R Project Updates
 
