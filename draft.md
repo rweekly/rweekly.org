@@ -19,7 +19,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Better prediction intervals for time series forecasts](http://ellisp.github.io/blog/2016/01/30/hybrid-forecasts/?utm_content=buffer32d5f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) .
 
-+ [MonetDBLite because fast](http://www.asdfree.com/2016/06/monetdblite-because-fast.html) - For Further Reading: [click here](https://www.monetdb.org/blog/monetdblite-r) .
++ [MonetDBLite because fast](http://www.r-bloggers.com/monetdblite-because-fast/) - For Further Reading: [click here](https://www.monetdb.org/blog/monetdblite-r) .
 
 + [Bayesian Statistics explained to Beginners in Simple English](http://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/) .
 
