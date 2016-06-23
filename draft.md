@@ -23,7 +23,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Bayesian Statistics explained to Beginners in Simple English](http://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/) .
 
-+ [LDAvis: for Text Mining models visualizations](http://r-addict.com/2016/06/21/LDAvis-RBloggers.html) .
++ [LDAvis Show Case on R-Bloggers](http://www.r-bloggers.com/ldavis-show-case-on-r-bloggers/) .
 
 + [Introducing the p-hacker app: Train your expert p-hacking skills](http://www.nicebread.de/introducing-p-hacker/) 
 
