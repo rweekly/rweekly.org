@@ -76,6 +76,10 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Lessons Learnt About Data Viz - Why a Boxplot Is Sometimes The Worst Choice?](https://omaymas.github.io/DataViz_Boxplot_Lessons_Learnt/)
 
++ [Euro 2016 Squads Part Deux](https://gjabel.wordpress.com/2016/06/21/euro-2016-squads-part-deux/)
+
++ [Venn Diagram Comparison of Boruta, FSelectorRcpp and GLMnet Algorithms](http://r-addict.com/2016/06/19/Venn-Diagram-RTCGA-Feature-Selection.html)
+
 #### R in Organization
 
 + [Using R packages and education to scale Data Science at Airbnb](https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d#.jenn99sff)
@@ -84,7 +88,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### R in Academia
 
-
++ [Using SOMbrero for clustering and visualizing graphs](http://publications-sfds.math.cnrs.fr/index.php/J-SFdS/article/download/473/447)
 
 ### Videos & Podcasts
 
@@ -141,16 +145,16 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 [Twitter @ Jim Hester](https://twitter.com/jimhester_/status/745229866946142208)
 
-> All R releases are named after peanuts quotes, 3.3.1 released today is "Bug in Your Hair" https://www.youtube.com/watch?v=ykMmyRC0Dmo&t=15m41s
+> All R releases are named after peanuts quotes, 3.3.1 released today is "Bug in Your Hair" 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ykMmyRC0Dmo?start=941" frameborder="0" allowfullscreen></iframe>
+
+<hr>
 
 [Twitter @ Daniel Emaasit](https://twitter.com/Emaasit/status/746050096035414016)
 
 > #Rstats users traveling to @useR_Stanford might get second thoughts. 😂😂
 
 ![Twitter @ Daniel Emaasit](https://pbs.twimg.com/media/ClqAMX_WIAAq7M5.jpg)
-
-<hr>
 
 <p><small id="page_view">&nbsp;</small></p>
