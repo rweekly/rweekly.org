@@ -95,7 +95,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### Resources
 
-
++ [Temporal network tools in statnet: networkDynamic, ndtv and tsna](http://statnet.csde.washington.edu/workshops/SUNBELT/current/ndtv/ndtv_workshop.html)
 
 ### New Releases
 
@@ -114,6 +114,8 @@ Hello and welcome to the new issue of **R Weekly**!
 + [fuzzr](https://github.com/mdlincoln/fuzzr) - simple fuzz testing for R functions.
 
 + [ffanalytics](http://fantasyfootballanalytics.net/2016/06/ffanalytics-r-package-fantasy-football-data-analysis.html) - The R Package for Fantasy Football Data Analysis.
+
++ [reach](https://github.com/schmidtchristoph/reach) - R <-> Matlab interoperability.
 
 ## R Project Updates
 
@@ -136,6 +138,12 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 
 ## Quote of the Week
+
+[Twitter @ Jim Hester](https://twitter.com/jimhester_/status/745229866946142208)
+
+> All R releases are named after peanuts quotes, 3.3.1 released today is "Bug in Your Hair" https://www.youtube.com/watch?v=ykMmyRC0Dmo&t=15m41s
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ykMmyRC0Dmo?start=941" frameborder="0" allowfullscreen></iframe>
 
 [Twitter @ Daniel Emaasit](https://twitter.com/Emaasit/status/746050096035414016)
 
