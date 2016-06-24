@@ -56,8 +56,6 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### R in Real World
 
-+ [One year as a Data Scientist at Stack Overflow](http://varianceexplained.org/r/year_data_scientist/)
-
 + [The ffanalytics R Package for Fantasy Football Data Analysis](http://fantasyfootballanalytics.net/2016/06/ffanalytics-r-package-fantasy-football-data-analysis.html)
 
 + [Text Mining with R: Top Keywords of the useR! 2016](https://blog.eoda.de/en/2016/06/24/english-text-mining-with-r-top-keywords-of-the-user-2016/)
@@ -81,6 +79,8 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Venn Diagram Comparison of Boruta, FSelectorRcpp and GLMnet Algorithms](http://r-addict.com/2016/06/19/Venn-Diagram-RTCGA-Feature-Selection.html)
 
 #### R in Organization
+
++ [One year as a Data Scientist at Stack Overflow](http://varianceexplained.org/r/year_data_scientist/)
 
 + [Using R packages and education to scale Data Science at Airbnb](https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d#.jenn99sff)
 
