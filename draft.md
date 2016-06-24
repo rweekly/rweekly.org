@@ -43,6 +43,17 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Sentiment Analysis and Topic Detection in R using Microsoft Cognitive Services](https://philferriere.blogspot.de/2016/06/sentiment-analysis-and-topic-detection.html)
 
++ [RPy2: Combining the Power of R + Python for Data Science](http://blog.yhat.com/posts/rpy2-combing-the-power-of-r-and-python.html)
+
++ [Demystifying Text Analytics part 2 — Quantifying Documents by Calculating TF-IDF in R](https://blog.exploratory.io/demystifying-text-analytics-part-2-quantifying-documents-by-calculating-tf-idf-in-r-756955faa1ea#.o343d9vp2)
+
++ [Clustering Mixed Data Types in R](https://dpmartin42.github.io/r/cluster-mixed-types)
+
++ [Intro to Text Analysis with R](www.r-bloggers.com/intro-to-text-analysis-with-r/)
+
++ [Careful with tryCatch](b-rodrigues.github.com/2016/06/21/careful-with-trycatch)
+
+
 #### R in Real World
 
 + [One year as a Data Scientist at Stack Overflow](http://varianceexplained.org/r/year_data_scientist/)
@@ -55,9 +66,21 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Analyzing Public Health Data in R](http://www.arilamstein.com/blog/2016/06/20/public-health-r/)
 
++ [How You Will Die](http://flowingdata.com/2016/01/19/how-you-will-die/)
+
+![How You Will Die](https://cdn.rawgit.com/rweekly/image/master/2016-06-27/when-die.gif)
+
+[Exploring Global Internet Performance Data Using R](http://blog.revolutionanalytics.com/2016/06/exploring-global-internet-performance-data-using-r.html)
+
+![Exploring Global Internet Performance Data Using R](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c870fc48970b-800wi)
+
++ [Lessons Learnt About Data Viz - Why a Boxplot Is Sometimes The Worst Choice?](https://omaymas.github.io/DataViz_Boxplot_Lessons_Learnt/)
+
 #### R in Organization
 
++ [Using R packages and education to scale Data Science at Airbnb](https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d#.jenn99sff)
 
++ [What Data Scientists Do All Day at Work](https://www.google.com/search?sclient=psy-ab&site=&source=hp&q=What+Data+Scientists+Do+All+Day+at+Work&btnK=Google+Search)
 
 #### R in Academia
 
@@ -67,6 +90,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Hadley Wickham - Cupcakes (for-loops vs map/lapply)](https://www.youtube.com/watch?v=GyNqlOjhPCQ) - Excerpt from Hadley's presentation at EdinbR (The Edinburgh R User Group). Alternatively, [a post-presentation audience question from WOMBAT2016](https://youtu.be/hRNUgwAFZtQ?t=47m30s).
 
++ [Naturally Speaking Episode 41: Conversations with an R Jedi](https://naturallyspeakingpodcast.wordpress.com/2016/06/22/episode-41-conversations-with-an-r-jedi/) - Hadley Wickham, Chief Scientist at RStudio, about his work to make programming and data analysis in the statistical programme R less painful.
 
 
 ### Resources
@@ -79,12 +103,17 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [janeaustenr v0.1.1](https://github.com/juliasilge/janeaustenr) - An R Package for Jane Austen's Complete Novels.
 
++ [MAVIS v1.1.2](https://github.com/kylehamilton/MAVIS) - Meta Analysis via Shiny.
+
 ### New Packages & Tools
 
-+ [p-hacker: Train your p-hacking skills!](http://www.nicebread.de/introducing-p-hacker/)
++ [p-hacker](http://www.nicebread.de/introducing-p-hacker/) - Train your p-hacking skills!
 
 + [MonetDBLite for R](https://www.monetdb.org/blog/monetdblite-r) on [Github](https://github.com/hannesmuehleisen/MonetDBLite)
 
++ [fuzzr](https://github.com/mdlincoln/fuzzr) - simple fuzz testing for R functions.
+
++ [ffanalytics](http://fantasyfootballanalytics.net/2016/06/ffanalytics-r-package-fantasy-football-data-analysis.html) - The R Package for Fantasy Football Data Analysis.
 
 ## R Project Updates
 
