@@ -39,7 +39,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Turn any string into a color with xkcdcolor package.](https://gist.github.com/rasmusab/2ddd12eb67e9019dd1f16bbaf5935786)
 
-![Turn any string into a color with xkcdcolor package.](https://pbs.twimg.com/media/ClOeFKSWAAArMIj.jpg:large)
+[![Turn any string into a color with xkcdcolor package.](https://pbs.twimg.com/media/ClOeFKSWAAArMIj.jpg:large)](https://gist.github.com/rasmusab/2ddd12eb67e9019dd1f16bbaf5935786)
 
 + [Sentiment Analysis and Topic Detection in R using Microsoft Cognitive Services](https://philferriere.blogspot.de/2016/06/sentiment-analysis-and-topic-detection.html)
 
@@ -60,23 +60,27 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Text Mining with R: Top Keywords of the useR! 2016](https://blog.eoda.de/en/2016/06/24/english-text-mining-with-r-top-keywords-of-the-user-2016/)
 
-![https://blog.eoda.de/en/2016/06/24/english-text-mining-with-r-top-keywords-of-the-user-2016/](https://blog.eoda.de/wp-content/uploads/2016/06/useR2016_wordcloud_weighted.png)
+[![https://blog.eoda.de/en/2016/06/24/english-text-mining-with-r-top-keywords-of-the-user-2016/](https://blog.eoda.de/wp-content/uploads/2016/06/useR2016_wordcloud_weighted.png)](https://blog.eoda.de/en/2016/06/24/english-text-mining-with-r-top-keywords-of-the-user-2016/)
 
 + [Analyzing Public Health Data in R](http://www.arilamstein.com/blog/2016/06/20/public-health-r/)
 
 + [How You Will Die](http://flowingdata.com/2016/01/19/how-you-will-die/)
 
-![How You Will Die](https://cdn.rawgit.com/rweekly/image/master/2016-06-27/when-die.gif)
+[![How You Will Die](https://cdn.rawgit.com/rweekly/image/master/2016-06-27/when-die.gif)](http://flowingdata.com/2016/01/19/how-you-will-die/)
 
 [Exploring Global Internet Performance Data Using R](http://blog.revolutionanalytics.com/2016/06/exploring-global-internet-performance-data-using-r.html)
 
-![Exploring Global Internet Performance Data Using R](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c870fc48970b-800wi)
+[![Exploring Global Internet Performance Data Using R](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c870fc48970b-800wi)](http://blog.revolutionanalytics.com/2016/06/exploring-global-internet-performance-data-using-r.html)
 
 + [Lessons Learnt About Data Viz - Why a Boxplot Is Sometimes The Worst Choice?](https://omaymas.github.io/DataViz_Boxplot_Lessons_Learnt/)
 
 + [Euro 2016 Squads Part Deux](https://gjabel.wordpress.com/2016/06/21/euro-2016-squads-part-deux/)
 
 + [Venn Diagram Comparison of Boruta, FSelectorRcpp and GLMnet Algorithms](http://r-addict.com/2016/06/19/Venn-Diagram-RTCGA-Feature-Selection.html)
+
++ [Using Amazon's X-Ray to Visualize Characters' Screen Time](http://www.curiousgnu.com/movie-character-screen-time)
+
+[![Using Amazon's X-Ray to Visualize Characters' Screen Time](https://www.curiousgnu.com/assets/images/movie-character-screen-time/tp_big_lebowski.png)](http://www.curiousgnu.com/movie-character-screen-time)
 
 #### R in Organization
 
@@ -85,6 +89,8 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Using R packages and education to scale Data Science at Airbnb](https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d#.jenn99sff)
 
 + [What Data Scientists Do All Day at Work](https://www.google.com/search?sclient=psy-ab&site=&source=hp&q=What+Data+Scientists+Do+All+Day+at+Work&btnK=Google+Search)
+
++ [First Public Version of the r-hub Builder](https://www.r-consortium.org/news/blogs/2016/06/first-public-version-r-hub-builder)
 
 #### R in Academia
 
@@ -109,6 +115,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [MAVIS v1.1.2](https://github.com/kylehamilton/MAVIS) - Meta Analysis via Shiny.
 
++ [dplyr v0.5](https://github.com/hadley/dplyr)
+
 ### New Packages & Tools
 
 + [p-hacker](http://www.nicebread.de/introducing-p-hacker/) - Train your p-hacking skills!
@@ -120,6 +128,8 @@ Hello and welcome to the new issue of **R Weekly**!
 + [ffanalytics](http://fantasyfootballanalytics.net/2016/06/ffanalytics-r-package-fantasy-football-data-analysis.html) - The R Package for Fantasy Football Data Analysis.
 
 + [reach](https://github.com/schmidtchristoph/reach) - R <-> Matlab interoperability.
+
++ [reactR](https://github.com/timelyportfolio/reactR) - A set of convenience function with local dependencies for using React.js in R.
 
 ## R Project Updates
 
@@ -155,6 +165,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 > #Rstats users traveling to @useR_Stanford might get second thoughts. 😂😂
 
-![Twitter @ Daniel Emaasit](https://pbs.twimg.com/media/ClqAMX_WIAAq7M5.jpg)
+[![Twitter @ Daniel Emaasit](https://pbs.twimg.com/media/ClqAMX_WIAAq7M5.jpg)](https://twitter.com/Emaasit/status/746050096035414016)
 
 <p><small id="page_view">&nbsp;</small></p>
