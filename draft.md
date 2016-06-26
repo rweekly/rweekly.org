@@ -11,6 +11,12 @@ Hello and welcome to the new issue of **R Weekly**!
 
 *Digested by R Weekly Members*
 
++ [One year as a Data Scientist at Stack Overflow](http://varianceexplained.org/r/year_data_scientist/)
+
++ [Hadley Wickham - Cupcakes (for-loops vs map/lapply)](https://www.youtube.com/watch?v=GyNqlOjhPCQ) - Excerpt from Hadley's presentation at EdinbR (The Edinburgh R User Group). Alternatively, [a post-presentation audience question from WOMBAT2016](https://youtu.be/hRNUgwAFZtQ?t=47m30s).
+
++ [Introducing the p-hacker app: Train your expert p-hacking skills](http://www.nicebread.de/introducing-p-hacker/) 
+
 ## R Community Updates
 
 ### News & Blog Posts
@@ -135,6 +141,11 @@ Hello and welcome to the new issue of **R Weekly**!
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
++ Installation support for `readline` emulations based on `editline` (aka `libedit`) is deprecated. 
+
++ `pretty(d, ..)` for date-time `d` rarely failed when `"halfmonth"` time steps were tried (PR#16923) and on `inaccurate` platforms such as 32-bit Windows or a configuration with `--disable-long-double`.
+
++ The check for non-portable flags in `R CMD check` could be stymied by `src/Makevars`.
 
 ## Call for Participation
 
