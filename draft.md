@@ -23,7 +23,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### R in Real World
 
- + [https://radfordneal.wordpress.com/2016/06/25/fixing-rs-design-flaws-in-a-new-version-of-pqr/](Fixing R’s design flaws in a new version of pqR)
+ + [Fixing R’s design flaws in a new version of pqR](https://radfordneal.wordpress.com/2016/06/25/fixing-rs-design-flaws-in-a-new-version-of-pqr/)
 
 
 #### R in Organization
