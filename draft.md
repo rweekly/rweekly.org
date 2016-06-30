@@ -41,18 +41,18 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### Resources
 
+ + [R for Data Science](http://r4ds.had.co.nz/index.html) book by Garrett Grolemund and Hadley Wickham.
 
 
 ### New Releases
 
-
+ + [validate version 0.1.5](http://www.markvanderloo.eu/yaRb/2016/06/24/validate-version-1-5-is-out/)
+ + [dplyr version 0.5](https://blog.rstudio.org/2016/06/27/dplyr-0-5-0/)
+ + [tidytext 0.1.1 now with inverse document frequency](http://juliasilge.com/blog/Term-Frequency-tf-idf/)
 
 ### New Packages & Tools
 
  + [RStudio Preview Release v0.99.1246](https://www.rstudio.com/products/rstudio/download/preview-release-notes/) now includes support for [Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
- + [validate version 0.1.5](http://www.markvanderloo.eu/yaRb/2016/06/24/validate-version-1-5-is-out/)
- + [dplyr version 0.5](https://blog.rstudio.org/2016/06/27/dplyr-0-5-0/)
- + [tidytext 0.1.1 now with inverse document frequency](http://juliasilge.com/blog/Term-Frequency-tf-idf/)
  + [citr - RStudio addin for interactively adding BibTeX citations](https://github.com/crsh/citr)
 
 
