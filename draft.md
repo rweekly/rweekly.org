@@ -24,7 +24,7 @@ Hello and welcome to the new issue of **R Weekly**!
 #### R in Real World
 
  + [Fixing R’s design flaws in a new version of pqR](https://radfordneal.wordpress.com/2016/06/25/fixing-rs-design-flaws-in-a-new-version-of-pqr/)
-
+ + [WriteR](https://github.com/ajrgodfrey/WriteR) - IDE accessible to blind
 
 #### R in Organization
 
@@ -49,6 +49,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### New Packages & Tools
 
+ + [RStudio Preview Release v0.99.1246](https://www.rstudio.com/products/rstudio/download/preview-release-notes/) now includes support for [Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
  + [validate version 0.1.5](http://www.markvanderloo.eu/yaRb/2016/06/24/validate-version-1-5-is-out/)
  + [dplyr version 0.5](https://blog.rstudio.org/2016/06/27/dplyr-0-5-0/)
  + [tidytext 0.1.1 now with inverse document frequency](http://juliasilge.com/blog/Term-Frequency-tf-idf/)
