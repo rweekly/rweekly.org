@@ -81,6 +81,5 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 ## Quote of the Week
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So true: &quot;The amount of Git skilz necessary to fix a borked up repo is an order of magnitude bigger than to bork it.&quot; <a href="https://twitter.com/JennyBryan">@JennyBryan</a> <a href="https://twitter.com/hashtag/useR2016?src=hash">#useR2016</a></p>&mdash; Mine CetinkayaRundel (@minebocek) <a href="https://twitter.com/minebocek/status/747487615591452672">June 27, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p><small id="page_view">&nbsp;</small></p>
