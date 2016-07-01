@@ -23,7 +23,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Broom: Converting Statistical Models to Tidy Data Framesby David Robinson](http://varianceexplained.org/files/DavidRobinsonBroomUseR2016.pdf)
 
-+ [Bookdown  by Yihui](https://t.co/wevwpOSLnu)
++ [Authoring Books with R Markdown](https://t.co/wevwpOSLnu)
 
 + [rbokeh - A Simple, Flexible, Declarative Framework for Interactive Graphics ](http://slides.com/hafen/rbokeh#/)
 
