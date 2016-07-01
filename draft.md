@@ -70,6 +70,8 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 
 + [Deep learning in R using MXNet](http://www.slideshare.net/ssuserdf77c1/mxnet-talk-user2016)
 
++ [Causal inference in social network data](https://github.com/osofr/useR2016_networks)
+
 #### Tutorials
 
 + [Machine Learning Algorithmic Deep Dive](https://github.com/ledell/useR-machine-learning-tutorial)
@@ -159,6 +161,12 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 ![RMarkdown and Mtheme](https://cdn.rawgit.com/rweekly/image/master/2016-07-04/mtheme.png)
 
 + [sparklyr](https://github.com/rstudio/sparklyr) - R interface for Apache Spark. Docs page is [here](http://spark.rstudio.com/).
+
++ [simcausal](https://github.com/osofr/simcausal) - Simulating Longitudinal and Network Data with Causal Inference Applications. Extensive vignette is [here](https://cran.r-project.org/web/packages/simcausal/vignettes/simcausal_vignette.pdf).
+
++ [tmlenet](https://github.com/osofr/tmlenet) - Targeted Maximum Likelihood Estimation for Network Data.
+
++ [stremr](https://github.com/osofr/stremr) - treamlined Estimation of Survival for Static, Dynamic and Stochastic Treatment and Monitoring Regimes.
 
 ## R Project Updates
 
