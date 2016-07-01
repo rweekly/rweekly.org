@@ -68,6 +68,8 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 
 + [Crosstalk Demo by Joe Cheng](https://github.com/jcheng5/crosstalk-demo)
 
++ [Deep learning in R using MXNet](http://www.slideshare.net/ssuserdf77c1/mxnet-talk-user2016)
+
 #### Tutorials
 
 + [Machine Learning Algorithmic Deep Dive](https://github.com/ledell/useR-machine-learning-tutorial)
