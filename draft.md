@@ -60,6 +60,8 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 
 + [Modeling Food Policy Decision Analysis with an Interactive Bayesian Network in Shiny](http://rpubs.com/rachwhatsit/192417)
 
++ [R Web APIs Intro](https://s3.amazonaws.com/f.cl.ly/items/3g2h2Z0l2X1N0W300N32/01-http.pdf)
+
 + [useR! Machine Learning Tutorial](https://github.com/ledell/useR-machine-learning-tutorial)
 
 + [sparklyr Demo for UseR! 2016](https://github.com/trestletech/user2016-sparklyr)
