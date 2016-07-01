@@ -35,7 +35,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Data validation infrastructure: the validate package](http://www.slideshare.net/MarkVanDerLoo/data-validation-infrastructure-the-validate-package)
 
-+ [Can R learn from Julia]( https://github.com/janvitek/can_R_learn_from_Julia)
++ [Can R learn from Julia](https://github.com/janvitek/can_R_learn_from_Julia)
 
 + [A first-year undergraduate data science course](https://github.com/mine-cetinkaya-rundel/2016-06-27-first-ds-course-user)
 
