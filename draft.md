@@ -70,6 +70,8 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 
 #### Tutorials
 
++ [Machine Learning Algorithmic Deep Dive](https://github.com/ledell/useR-machine-learning-tutorial)
+
 + [Making “Time Rivers” in R](http://rud.is/b/2016/06/28/making-time-rivers-in-r/)
 
 ![Making “Time Rivers” in R](https://rud.is/b/wp-content/uploads/2016/06/Cursor_and_RStudio-1.png)
