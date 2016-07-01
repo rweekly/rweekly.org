@@ -166,7 +166,7 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 
 + [tmlenet](https://github.com/osofr/tmlenet) - Targeted Maximum Likelihood Estimation for Network Data.
 
-+ [stremr](https://github.com/osofr/stremr) - treamlined Estimation of Survival for Static, Dynamic and Stochastic Treatment and Monitoring Regimes.
++ [stremr](https://github.com/osofr/stremr) - Streamlined Estimation of Survival for Static, Dynamic and Stochastic Treatment and Monitoring Regimes.
 
 ## R Project Updates
 
