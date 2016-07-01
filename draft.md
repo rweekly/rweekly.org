@@ -90,6 +90,8 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 
 + [Introducing Rcpp::algorithm](http://gallery.rcpp.org//articles/rcpp-algorithm/)
 
++ [shinyjs: improve the user experience in your Shiny apps by Dean Attali](https://github.com/daattali/presentations/blob/master/2016-06-30_shinyjs-user2016.pdf)
+
 #### R in Real World
 
 + [40 years of investing returns in the S&P500, with dividends and inflation, based on historical data](https://github.com/zonination/investing)
