@@ -21,7 +21,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Practical tools for exploratory web graphics](https://cpsievert.github.io/talks/20160630/)
 
-+ [Broom: Converting Statistical Models to Tidy Data Framesby David Robinson](http://varianceexplained.org/files/DavidRobinsonBroomUseR2016.pdf)
++ [Broom: Converting Statistical Models to Tidy Data Frames](http://varianceexplained.org/files/DavidRobinsonBroomUseR2016.pdf)
 
 + [Authoring Books with R Markdown](https://t.co/wevwpOSLnu)
 
