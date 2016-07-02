@@ -70,6 +70,8 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 
 + [Deep learning in R using MXNet](http://www.slideshare.net/ssuserdf77c1/mxnet-talk-user2016)
 
++ [R/qtl: Just barely sustainable](http://bit.ly/UseR2016)
+
 #### Tutorials
 
 + [Machine Learning Algorithmic Deep Dive](https://github.com/ledell/useR-machine-learning-tutorial)
@@ -91,6 +93,8 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 + [Introducing Rcpp::algorithm](http://gallery.rcpp.org//articles/rcpp-algorithm/)
 
 + [shinyjs: improve the user experience in your Shiny apps by Dean Attali](https://github.com/daattali/presentations/blob/master/2016-06-30_shinyjs-user2016.pdf)
+
++ Tutorial on Intermediate R Markdown: [slides](http://bit.ly/2016rmd), [examples](https://github.com/ijlyttle/user2016_knitr), [etherpad](http://bit.ly/user2016_knitr)
 
 #### R in Real World
 
