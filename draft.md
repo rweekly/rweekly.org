@@ -72,6 +72,8 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 
 + [Causal inference in social network data](https://github.com/osofr/useR2016_networks)
 
++ [R/qtl: Just barely sustainable](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016_withnotes.pdf)
+
 #### Tutorials
 
 + [Machine Learning Algorithmic Deep Dive](https://github.com/ledell/useR-machine-learning-tutorial)
@@ -93,6 +95,11 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 + [Introducing Rcpp::algorithm](http://gallery.rcpp.org//articles/rcpp-algorithm/)
 
 + [shinyjs: improve the user experience in your Shiny apps by Dean Attali](https://github.com/daattali/presentations/blob/master/2016-06-30_shinyjs-user2016.pdf)
+
++ Intermediate R Markdown tutorial:
+  [slides](https://dl.dropboxusercontent.com/u/15335397/slides/2016-useR-rmarkdown-Yihui-Xie.html#(1)),
+  [examples](https://github.com/ijlyttle/user2016_knitr),
+  [etherpad notes](https://public.etherpad-mozilla.org/p/user2016_knitr)
 
 #### R in Real World
 
