@@ -74,6 +74,9 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 
 + [R/qtl: Just barely sustainable](https://www.biostat.wisc.edu/~kbroman/presentations/UseR2016_withnotes.pdf)
 
++ [A Future for R](http://www.jottr.org/2016/07/a-future-for-r-slides-from-user-2016.html) 
+
+
 #### Tutorials
 
 + [Machine Learning Algorithmic Deep Dive](https://github.com/ledell/useR-machine-learning-tutorial)
@@ -158,6 +161,7 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
  + [validate version 0.1.5](http://www.markvanderloo.eu/yaRb/2016/06/24/validate-version-1-5-is-out/)
  + [dplyr version 0.5](https://blog.rstudio.org/2016/06/27/dplyr-0-5-0/)
  + [tidytext 0.1.1 now with inverse document frequency](http://juliasilge.com/blog/Term-Frequency-tf-idf/)
+ + [future 1.0.0](https://cran.r-project.org/package=future) with [future.BatchJobs 0.12.1](https://cran.r-project.org/package=future.BatchJobs) and [doFuture 0.2.0](https://cran.r-project.org/package=doFuture)
 
 ### New Packages & Tools
 
