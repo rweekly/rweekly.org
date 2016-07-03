@@ -76,6 +76,8 @@ Expensive Black-Box Functions](https://jakob-r.github.io/talks/2016_useR_mlrMBO.
 
 + [A Future for R](http://www.jottr.org/2016/07/a-future-for-r-slides-from-user-2016.html) 
 
++ [Automated Clinical Research Tracking and Assessment Using R-Shiny](https://github.com/haozhu233/presentations/blob/master/useR2016_shiny.pdf)
+
 
 #### Tutorials
 
