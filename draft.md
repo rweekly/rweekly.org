@@ -230,6 +230,8 @@ You can also read the up to date [R Weekly UseR! 2016 Edition]().
 
 + [A Future for R](http://www.jottr.org/2016/07/a-future-for-r-slides-from-user-2016.html) 
 
++ [R AnalyticFlow 3: Interactive Data Analysis GUI for R](http://r.analyticflow.com/en/news-tips/41/) 
+
 #### Teaching
 
 
