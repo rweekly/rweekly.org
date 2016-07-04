@@ -1,4 +1,3 @@
-<HR />
 
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
 
