@@ -1,9 +1,9 @@
 ---
 layout: draft
-title: Issue 6
+title: Issue 7
 ---
 
-Release Date: 2016-07-04
+Release Date: 2016-07-11
 
 Hello and welcome to the new issue of **R Weekly**!
 
@@ -50,7 +50,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### New Releases
 
-
++ [tibble 1.1](https://blog.rstudio.org/2016/07/05/tibble-1-1/) - now consistently using “tibble” as the key word in creation, coercion, and testing functions. [release notes](https://github.com/hadley/tibble/releases/tag/v1.1).
++ [httr 1.2.0](https://blog.rstudio.org/2016/07/05/httr-1-2-0/) - [release notes](https://github.com/hadley/httr/releases/tag/v1.2.0).
++ [xml2 1.0.0 ](https://blog.rstudio.org/2016/07/05/xml2-1-0-0/) - [release notes](https://github.com/hadley/xml2/releases/tag/v1.0.0).
 
 
 ### New Packages & Tools
