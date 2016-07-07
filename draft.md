@@ -80,7 +80,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 The primary focus of the Conference is the commercial usage of R across a range of industry sectors with the aim of sharing knowledge and applications of the language.<br /> 
 
 
-+ [eRum 2016 Poznan, Poland](https://earlconf.com/)  **October 12th-14th** <br>
++ [eRum 2016 Poznan, Poland](http://erum.ue.poznan.pl/)  **October 12th-14th** <br>
 European R users meeting (eRum) is an international conference that aims at integrating users of the R language. eRum 2016 will be a good chance to exchange experiences, broaden knowledge on R and collaborate. <br /> 
 
 ## Quote of the Week
