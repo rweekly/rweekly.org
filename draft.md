@@ -35,7 +35,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### R in Academia
 
-
+#### R in Bioinformatics
+[Fry: A Fast Interactive Biological Pathway Miner by Göknur Giner](https://github.com/goknurginer/useR2016)
 ### Videos & Podcasts
 
 
