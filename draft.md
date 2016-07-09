@@ -49,7 +49,21 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Combining ArcGIS and R - Clustering Toolbox](https://r-video-tutorial.blogspot.com/2016/07/combine-arcgis-and-r-clustering-toolbox.html)
 
++ [Reproducibility starts at home](http://www.jonzelner.net/statistics/make/docker/reproducibility/2016/05/31/reproducibility-pt-1/)
+
++ [R programming tools for conservation scientists](http://www.seascapemodels.org/research%20rstats/2016/07/08/rstats-for-conservation.html)
+
++ [Advanced Regression Models: Learn which regression technique to apply for what cases?](http://rstatistics.net/special-forms-of-regression/)
+
 #### R in Real World
+
++ [Interactive map of predicted health of Boston restaurants](http://food-findr.com/)
+
+![Interactive map of predicted health of Boston restaurants](https://cdn.rawgit.com/rweekly/image/master/2016-07-11/food-findr.png)
+
++ [Breaking down the Brexit vote – Which Local Authorities wanted out? And by how much?](http://www.p0bs.com/BrexitDashboard.html)
+
+![Breaking down the Brexit vote](https://cdn.rawgit.com/rweekly/image/master/2016-07-11/brexit.gif)
 
 + [Fatal Police Shootings Across the U.S.](http://juliasilge.com/blog/Fatal-Shootings/)
 
@@ -79,12 +93,17 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Notes from 3rd and 3.5th Bayesian Mixer Meetup](http://www.magesblog.com/2016/07/notes-from-3rd-and-35th-bayesian-mixer.html)
 
++ [Interview: Florian Douetteau, Dataiku Founder, on Empowering Data Scientists](http://www.kdnuggets.com/2016/07/interview-florian-douetteau-dataiku-empowering-data-scientists.html)
+
++ [Presenting Renjin's JIT Loop Compiler at RIOT 2016](http://www.renjin.org/blog/2016-07-03-riot-workshop-compiler-presentation.html) - Renjin’s JIT Loop Compiler is intended to compile R code into extremly efficient machine code upon executio
+
+
 #### R in Academia
 
 
 #### R in Bioinformatics
 
-[Fry: A Fast Interactive Biological Pathway Miner by Göknur Giner](https://github.com/goknurginer/useR2016)
++ [Fry: A Fast Interactive Biological Pathway Miner by Göknur Giner](https://github.com/goknurginer/useR2016)
 
 ### Videos & Podcasts
 
@@ -98,7 +117,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### Resources
 
-
++ [Starting Out with R and Shiny by Oliver Keyes](https://ironholds.org/projects/r_shiny/)
 
 
 
@@ -113,6 +132,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [ttbbeer - US Beer Statistics from TTB](https://github.com/jasdumas/ttbbeer)
 
++ [clustermq - Send function calls as LSF jobs](https://github.com/mschubert/clustermq)
 
 ## R Project Updates
 
