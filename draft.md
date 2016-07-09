@@ -55,6 +55,12 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Advanced Regression Models: Learn which regression technique to apply for what cases?](http://rstatistics.net/special-forms-of-regression/)
 
++ [UseR conference: Fun with statisticians and programmers](http://scopeblog.stanford.edu/2016/07/05/user-conference-fun-with-statisticians-and-programmers/)
+
++ [6 ways to run a "simple" regression](https://underthecurve.github.io/jekyll/update/2016/07/01/one-regression-six-ways.html)
+
++ [Interactive flow visualization in R](http://personal.tcu.edu/kylewalker/interactive-flow-visualization-in-r.html)
+
 #### R in Real World
 
 + [Interactive map of predicted health of Boston restaurants](http://food-findr.com/)
@@ -89,6 +95,14 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ![A look at AirBnB demographics](https://flovv.github.io/figures/post10/unnamed-chunk-2-1.png)
 
++ [Data Transparency Through Data: Building an MRR Forecasting Tool in R](https://overflow.buffer.com/2016/03/11/transparency-through-data-building-an-mrr-forecasting-tool-in-r/)
+
+![Data Transparency Through Data: Building an MRR Forecasting Tool in R](https://cdn-images-1.medium.com/max/1600/1*tEGKMdTzEWfis6VzMhvdiw.gif)
+
++ [Basketball Teams Win Rates against Other Teams since 2012 (US)](https://www.reddit.com/r/dataisbeautiful/comments/4rocek/basketball_teams_win_rates_against_other_teams/)
+
+![Basketball Teams Win Rates against Other Teams since 2012 (US)](https://cdn.rawgit.com/zonination/basketball-heatmap/master/heatmap.png)
+
 #### R in Organization
 
 + [Notes from 3rd and 3.5th Bayesian Mixer Meetup](http://www.magesblog.com/2016/07/notes-from-3rd-and-35th-bayesian-mixer.html)
@@ -97,6 +111,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Presenting Renjin's JIT Loop Compiler at RIOT 2016](http://www.renjin.org/blog/2016-07-03-riot-workshop-compiler-presentation.html) - Renjin’s JIT Loop Compiler is intended to compile R code into extremly efficient machine code upon executio
 
++ [R for the masses with Power BI](https://powerbi.microsoft.com/en-us/blog/r-visuals-in-powerbi-service/)
 
 #### R in Academia
 
@@ -106,7 +121,6 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Fry: A Fast Interactive Biological Pathway Miner by Göknur Giner](https://github.com/goknurginer/useR2016)
 
 ### Videos & Podcasts
-
 
 + [NSSD Podcast Episode 18 - Back on Planet Earth](https://soundcloud.com/nssd-podcast/episode-18-back-on-planet-earth) - With the highlights from the useR! 2016 conference. 
 
@@ -119,13 +133,14 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Starting Out with R and Shiny by Oliver Keyes](https://ironholds.org/projects/r_shiny/)
 
-
++ [Tufte in R](http://motioninsocial.com/tufte/)
 
 ### New Releases
 
 + [tibble 1.1](https://blog.rstudio.org/2016/07/05/tibble-1-1/) - now consistently using “tibble” as the key word in creation, coercion, and testing functions. [release notes](https://github.com/hadley/tibble/releases/tag/v1.1).
 + [httr 1.2.0](https://blog.rstudio.org/2016/07/05/httr-1-2-0/) - [release notes](https://github.com/hadley/httr/releases/tag/v1.2.0).
 + [xml2 1.0.0 ](https://blog.rstudio.org/2016/07/05/xml2-1-0-0/) - [release notes](https://github.com/hadley/xml2/releases/tag/v1.0.0).
++ [ezsummary 0.2.0](https://cran.r-project.org/web/packages/ezsummary/) - [release notes](https://cran.r-project.org/web/packages/ezsummary/NEWS)
 
 
 ### New Packages & Tools
@@ -181,6 +196,6 @@ European R users meeting (eRum) is an international conference that aims at inte
 
 ## Quote of the Week
 
-
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you to the <a href="https://twitter.com/hashtag/SPSS?src=hash">#SPSS</a> community! I will fight for you while <a href="https://twitter.com/hadleywickham">@hadleywickham</a> brings in more people that will threaten your freedoms &amp; beliefs</p>&mdash; Donald Trump, PhD (@ScientistTrump) <a href="https://twitter.com/ScientistTrump/status/750004043490164737">July 4, 2016</a></blockquote>
 
 <p><small id="page_view">&nbsp;</small></p>
