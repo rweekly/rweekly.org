@@ -51,7 +51,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 ## Call for Participation
 
 + [satRday! in Budapest, Hungary](http://budapest.satrdays.org/#cfp)
-+ [R Consortium Infrastructure Steering Committee is calling for proposals for grant funding to improve R](https://www.r-consortium.org/projects/call-proposals)
 
 
 ## Jobs
