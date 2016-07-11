@@ -11,13 +11,17 @@ Hello and welcome to the new issue of **R Weekly**!
 
 *Digested by R Weekly Members*
 
++ [A Simple Prediction Web Service Using the New fiery Package](http://rud.is/b/2016/07/05/a-simple-prediction-web-service-using-the-new-firery-package/)
 
++ [Starting Out with R and Shiny by Oliver Keyes](https://ironholds.org/projects/r_shiny/)
 
-## R Community Updates
++ [NSSD Podcast Episode 18: Back on Planet Earth](https://soundcloud.com/nssd-podcast/episode-18-back-on-planet-earth) - With the highlights from the useR! 2016 conference. 
 
-### News & Blog Posts
+## News & Blog Posts
 
 #### Tutorials
+
++ [Resume & Interview Tips For R Programmers](http://www.programmingr.com/content/resume-interview-tips-r-programmers/)
 
 + [useR! 2016 Tutorials: Part 2](http://blog.revolutionanalytics.com/2016/07/user-2016-tutorials-part-2-.html)
 
@@ -25,9 +29,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Best practices for logging computational systems in R and Python](https://cartesianfaith.com/2016/07/07/best-practices-for-logging-computational-systems-in-r-and-python/)
 
-+ [Bridging The Political [Polygons] Gap with ggplot2](http://rud.is/b/2016/07/07/bridging-the-political-polygons-gap-with-ggplot2/)
++ [Bridging The Political Polygons Gap with ggplot2](http://rud.is/b/2016/07/07/bridging-the-political-polygons-gap-with-ggplot2/)
 
-![Bridging The Political [Polygons] Gap with ggplot2](https://rud.is/b/wp-content/uploads/2016/07/engalpha.png)
+![Bridging The Political Polygons Gap with ggplot2](https://rud.is/b/wp-content/uploads/2016/07/engalpha.png)
 
 + [Express dplyr Part II](https://rollingyours.wordpress.com/2016/07/07/express-dplyr-part-ii/)
 
@@ -77,8 +81,6 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Latest on the Julia Language (vs. R)](https://matloff.wordpress.com/2016/07/06/latest-on-the-julia-language-vs-r/)
 
-+ [Resume & Interview Tips For R Programmers](http://www.programmingr.com/content/resume-interview-tips-r-programmers/)
-
 + [Text Mining with R on Vikings episode scripts](http://www.programmingr.com/content/resume-interview-tips-r-programmers/)
 
 + [Visualizing Stirling’s Approximation With Highcharts](https://aschinchon.wordpress.com/2016/07/05/visualizing-stirlings-approximation-with-highcharts/)
@@ -105,49 +107,45 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### R in Organization
 
-+ [Notes from 3rd and 3.5th Bayesian Mixer Meetup](http://www.magesblog.com/2016/07/notes-from-3rd-and-35th-bayesian-mixer.html)
-
-+ [Interview: Florian Douetteau, Dataiku Founder, on Empowering Data Scientists](http://www.kdnuggets.com/2016/07/interview-florian-douetteau-dataiku-empowering-data-scientists.html)
-
-+ [Presenting Renjin's JIT Loop Compiler at RIOT 2016](http://www.renjin.org/blog/2016-07-03-riot-workshop-compiler-presentation.html) - Renjin’s JIT Loop Compiler is intended to compile R code into extremly efficient machine code upon executio
++ [Presenting Renjin's JIT Loop Compiler at RIOT 2016](http://www.renjin.org/blog/2016-07-03-riot-workshop-compiler-presentation.html) - Renjin’s JIT Loop Compiler is intended to compile R code into extremly efficient machine code.
 
 + [R for the masses with Power BI](https://powerbi.microsoft.com/en-us/blog/r-visuals-in-powerbi-service/)
 
-#### R in Academia
-
++ [Notes from 3rd and 3.5th Bayesian Mixer Meetup](http://www.magesblog.com/2016/07/notes-from-3rd-and-35th-bayesian-mixer.html)
 
 #### R in Bioinformatics
 
 + [Fry: A Fast Interactive Biological Pathway Miner by Göknur Giner](https://github.com/goknurginer/useR2016)
 
-### Videos & Podcasts
+## Videos & Podcasts
 
-+ [NSSD Podcast Episode 18 - Back on Planet Earth](https://soundcloud.com/nssd-podcast/episode-18-back-on-planet-earth) - With the highlights from the useR! 2016 conference. 
++ [useR! 2016 videos on Channel 9](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016)
+
++ [NSSD Podcast Episode 18: Back on Planet Earth](https://soundcloud.com/nssd-podcast/episode-18-back-on-planet-earth) - With the highlights from the useR! 2016 conference. 
 
 + [Sustainable Urban Transport Planning using Big Data from Mobile Phones](http://blog.danielemaasit.com/2016/07/07/incase-you-missed-it-my-talk-at-the-united-nations-global-pulse-worshop/)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/47IjdD2yyGE" frameborder="0" allowfullscreen></iframe>
 
-
-### Resources
+## Resources
 
 + [Starting Out with R and Shiny by Oliver Keyes](https://ironholds.org/projects/r_shiny/)
 
 + [Tufte in R](http://motioninsocial.com/tufte/)
 
-### New Releases
+## New Releases
 
-+ [tibble 1.1](https://blog.rstudio.org/2016/07/05/tibble-1-1/) - now consistently using “tibble” as the key word in creation, coercion, and testing functions. [release notes](https://github.com/hadley/tibble/releases/tag/v1.1).
-+ [httr 1.2.0](https://blog.rstudio.org/2016/07/05/httr-1-2-0/) - [release notes](https://github.com/hadley/httr/releases/tag/v1.2.0).
-+ [xml2 1.0.0 ](https://blog.rstudio.org/2016/07/05/xml2-1-0-0/) - [release notes](https://github.com/hadley/xml2/releases/tag/v1.0.0).
++ [tibble 1.1](https://blog.rstudio.org/2016/07/05/tibble-1-1/) - now consistently using “tibble” as the key word in creation, coercion, and testing functions. [release notes](https://github.com/hadley/tibble/releases/tag/v1.1)
++ [httr 1.2.0](https://blog.rstudio.org/2016/07/05/httr-1-2-0/) - [release notes](https://github.com/hadley/httr/releases/tag/v1.2.0)
++ [xml2 1.0.0 ](https://blog.rstudio.org/2016/07/05/xml2-1-0-0/) - [release notes](https://github.com/hadley/xml2/releases/tag/v1.0.0)
 + [ezsummary 0.2.0](https://cran.r-project.org/web/packages/ezsummary/) - [release notes](https://cran.r-project.org/web/packages/ezsummary/NEWS)
 
 
-### New Packages & Tools
+## New Packages & Tools
 
-+ [ttbbeer - US Beer Statistics from TTB](https://github.com/jasdumas/ttbbeer)
++ [ttbbeer](https://github.com/jasdumas/ttbbeer) - US Beer Statistics from TTB.
 
-+ [clustermq - Send function calls as LSF jobs](https://github.com/mschubert/clustermq)
++ [clustermq](https://github.com/mschubert/clustermq) - Send function calls as LSF jobs.
 
 ## R Project Updates
 
@@ -188,10 +186,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 + [R Competition on education in South Africa](http://www.r-bloggers.com/r-competition-on-education-in-south-africa-july-and-august-2016/) **8 July - 21 August**
 
-+ [EARL 2016 London](https://earlconf.com/)  **September 13th-15th** <br>
++ [EARL 2016 London](https://earlconf.com/)  **13 September - 15 Septemberth** <br>
 The primary focus of the Conference is the commercial usage of R across a range of industry sectors with the aim of sharing knowledge and applications of the language.<br /> 
 
-+ [eRum 2016 Poznan, Poland](http://erum.ue.poznan.pl/)  **October 12th-14th** <br>
++ [eRum 2016 Poznan, Poland](http://erum.ue.poznan.pl/)  **12 October - 14 October** <br>
 European R users meeting (eRum) is an international conference that aims at integrating users of the R language. eRum 2016 will be a good chance to exchange experiences, broaden knowledge on R and collaborate. <br /> 
 
 ## Quote of the Week
