@@ -53,6 +53,12 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Day Drinking with R: My first R package on CRAN](https://jasdumas.github.io/2016-07-15-day-drinking-with-R/)
 
++ [Pokemon: visualize 'em all!](http://jkunst.com/r/pokemon-visualize-em-all/)
+
+![Pokemon: visualize 'em all!](https://pbs.twimg.com/media/CnQ3PsxWAAAJcE7.jpg:large)
+
++ [Airbnb Data Analysis Using R](http://www.slideshare.net/aymansiraj/airbnb-data-analysis-using-r)
+
 #### R in Organization
 
 + [How R is used at Microsoft](http://blog.revolutionanalytics.com/2016/07/r-at-microsoft-user-2016.html)
@@ -107,5 +113,6 @@ European R users meeting (eRum) is an international conference that aims at inte
 
 ## Quote of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When Mexico sends its scientists, they’re not sending the best. They’re bringing <a href="https://twitter.com/hashtag/Rstats?src=hash">#Rstats</a>. They’re bringing data. They’re Bayesians.</p>&mdash; Donald Trump, PhD (@ScientistTrump) <a href="https://twitter.com/ScientistTrump/status/753186026391277568">July 13, 2016</a></blockquote>
 
 <p><small id="page_view">&nbsp;</small></p>
