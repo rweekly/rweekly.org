@@ -17,37 +17,101 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
++ [A budget of classifier evaluation measures](http://www.win-vector.com/blog/2016/07/a-budget-of-classifier-evaluation-measures/)
+
++ [Bulk Downloading Adobe Analytics Data](http://randyzwitch.com/rsitecatalyst-bulk-download-version-1-4-9-release-notes/)
+
++ [Performing Principal Components Regression in R](http://www.milanor.net/blog/performing-principal-components-regression-pcr-in-r/)
+
++ [Bayesian Bootstrap: The Movie + Some Highlights from UseR! 2016](http://www.sumsar.net/blog/2016/07/bayesian-bootstrap-the-movie/)
+
++ [Networks, mazes, and R (Rmaze)](http://www.vesnam.com/Rblog/mazes-graphs-and-r/)
+
+![Networks, mazes, and R (Rmaze)](https://cdn.rawgit.com/rweekly/image/master/2016-07-25/maze.jpeg)
+
++ [Building OpenBLAS-based Rblas.dll for 64-bit R for Windows: R ≥ 3.3.0](http://www.avrahamadler.com/r-tips/build-openblas-for-windows-r64/)
+
++ [Principal Component Analysis Cluster Plots with Plotly](http://moderndata.plot.ly/principal-component-analysis-cluster-plotly/)
+
++ [Installing the additional R packages in Oracle Big Data Lite VM 4.5.0](http://www.nodalpoint.com/installing-additional-r-packages-oracle-big-data-lite-vm-4-5-0/)
+
++ [Spatio-Temporal Point Pattern Analysis in ArcGIS with R](https://r-video-tutorial.blogspot.com/2016/07/spatio-temporal-point-pattern-analysis.html)
+
++ [Data frame columns as arguments to dplyr functions](http://www.brodrigues.co/2016/07/18/data-frame-columns-as-arguments-to-dplyr-functions)
+ 
++ [Populating data frame cells with more than one value](https://ryouready.wordpress.com/2016/07/18/populating-data-frame-cells-with-more-than-one-value/)
+
++ [The trick to understanding NAs (missing values) in R](http://blog.revolutionanalytics.com/2016/07/understanding-na-in-r.html)
 
 #### R in Real World
 
++ [Dance of the Bayes factors](https://daniellakens.blogspot.com/2016/07/dance-of-bayes-factors.html)
 
+![Dance of the Bayes factors](https://4.bp.blogspot.com/-4OeUdZnjdHk/V4yQvz6EfcI/AAAAAAAADVQ/4IF6Vh6zAActBpKSDK5ZuiXIl6CEls3zQCLcB/s400/BFdance.png)
+
++ [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/)
+
+![Does sentiment analysis work? A tidy analysis of Yelp reviews](https://cdn.rawgit.com/rweekly/image/master/2016-07-25/AFINN.png)
+
++ [Giving back with code](http://itsalocke.com/giving-back-code/) - There are many reasons why you should consider writing code and making it available for public consumption.
+
+
++ [Calculating Memory Requirements](https://danielmarcelino.github.io/blog/2016/calculating-memory-requirements.html)
+
++ [Exploring the diversity of Life using Rvest and the Catalog of Life](https://biologyforfun.wordpress.com/2016/07/18/exploring-the-diversity-of-life-using-rvest-and-the-catalog-of-life/)
+
++ [Sustainability through Energy Load Shaping for Buildings using R](http://blog.revolutionanalytics.com/2016/07/energy-load-shaping.html)
+
++ [Monte Carlo Analysis of Manning's Equation](https://johnyagecic.shinyapps.io/ManningsMC/)
+
++ [dplyr and Zika – Epilogue](https://rollingyours.wordpress.com/2016/07/19/dplyr-and-zika-epilogue/)
+
+![dplyr and Zika – Epilogue](https://rollingyours.files.wordpress.com/2016/07/screenshot_775.png)
 
 #### R in Organization
+
++ [Discover R and RStudio at JSM 2016 Chicago!](https://blog.rstudio.org/2016/07/19/discover-r-and-rstudio-at-jsm-2016-chicago/)
+
 
 
 ## Videos & Podcasts
 
-
++ [NSSD Episode 19: Divide by n-1, or n-2, or Whatever](https://soundcloud.com/nssd-podcast/episode-19-divide-by-n-1-or-n-2-or-whatever) - About statistical software in fMRI analyses, the differences between software testing differences in proportions.
 
 ## Resources
 
 
+## Job
 
++ [9 new R jobs from around the world (2016-07-19)](http://www.r-bloggers.com/9-new-r-jobs-from-around-the-world-2016-07-19/)
 
 ## New Releases
 
++ [RcppCCTZ 0.0.5](http://dirk.eddelbuettel.com/blog/2016/07/21/#rcppcctz_0.0.5) - CCTZ is a time series library.
 
++ [Rcpp 0.12.6](http://dirk.eddelbuettel.com/blog/2016/07/19/#rcpp_0.12.6) - 703 packages on CRAN now depend on Rcpp.
+
++ [pvsR 0.4](https://giventhedata.blogspot.com/2016/07/easy-access-to-data-on-us-politics-new.html) -  Data retrieval from Project Vote Smart's rich online data base on US politics.
+
++ [partools 1.1.5](https://matloff.wordpress.com/2016/07/17/new-release-of-partools-package/) - Miscellaneous utilities for parallelizing large computations.
 
 ## New Packages & Tools
 
++ [stacksurveyr](http://varianceexplained.org/r/stacksurveyr/) - An R package with the 2016 Developer Survey Results.
 
++ [GREA](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/) - The RStudio Add-In to read ALL the data into R!
+
++ [StackLite](http://varianceexplained.org/r/stack-lite/) - Dataset of Stack Overflow questions and tags.
 
 ## R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
++ `configure` now adds a compiler switch for C++11 code, even if the compiler supports C++11 by default. (This ensures that ‘gcc’ 6.x uses C++11 mode and not its default C++14 mode.)
 
++ There is support for compiling C++14 code in packages on suitable platforms: see `Writing R Extensions` for how to request this. 
 
++ Running `R CMD check --as-cran` with `_R_CHECK_CRAN_INCOMING_REMOTE_` false now skips tests that require remote access. The remaining (local) tests typically run very quickly compared to the remote tests.
 
 ## Call for Participation
 
