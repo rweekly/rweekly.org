@@ -56,10 +56,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 ## Upcoming Events
 
-+ [PresentRs: Cardiff, UK R User Group](http://www.meetup.com/Cardiff-R-User-Group/events/232475804/) **August 2**
++ [PresentRs: Cardiff, UK R User Group](http://www.meetup.com/Cardiff-R-User-Group/events/232475804/) **August 2**      
 Presentations and (remote) Lightening talks from useR's on Model-Based Machine Learning, Open Government Data & Beer Analytics, Git, Sparklyr, Pokemon and more. 
 
-+ [R Competition on education in South Africa](http://www.r-bloggers.com/r-competition-on-education-in-south-africa-july-and-august-2016/) **8 July - 21 August**
++ [R Competition on education in South Africa](http://www.r-bloggers.com/r-competition-on-education-in-south-africa-july-and-august-2016/) **8 July - 21 August** 
 
 + [EARL 2016 London](https://earlconf.com/)  **13 September - 15 Septemberth** <br>
 The primary focus of the Conference is the commercial usage of R across a range of industry sectors with the aim of sharing knowledge and applications of the language.<br /> 
