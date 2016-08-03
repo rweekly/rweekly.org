@@ -3,7 +3,7 @@ layout: draft
 title: Issue 10
 ---
 
-Release Date: 2016-08-01
+Release Date: 2016-08-08
 
 Hello and welcome to the new issue of **R Weekly**!
 
@@ -24,7 +24,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### R in Real World
 
-
+- [How R Packages are Licenced](http://seankross.com/2016/08/02/How-R-Packages-are-Licensed.html)
 
 #### R in Organization
 
