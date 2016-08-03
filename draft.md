@@ -45,6 +45,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## New Packages & Tools
 
+- [condvis: Conditional Visualisation for Statistical Models](https://github.com/markajoc/condvis)
 
 
 ## R Project Updates
@@ -70,5 +71,7 @@ European R users meeting (eRum) is an international conference that aims at inte
 
 ## Quote of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Teaser for my <a href="https://twitter.com/hashtag/JSM2016?src=hash">#JSM2016</a> on interactive graphics with <a href="https://twitter.com/plotlygraphs">@plotlygraphs</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/koAqMg7t8j">pic.twitter.com/koAqMg7t8j</a></p>&mdash; Carson Sievert (@cpsievert) <a href="https://twitter.com/cpsievert/status/760153512621637632">August 1, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p><small id="page_view">&nbsp;</small></p>
