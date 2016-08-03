@@ -29,7 +29,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### R in Organization
 
-
+- [JSM 2016 Slides](https://github.com/kbroman/JSM2016slides)
 
 
 ### R in Academia
