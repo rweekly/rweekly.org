@@ -17,7 +17,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
-
+- [Finding second level variable interactions in XGBoost trees](http://projects.rajivshah.com/blog/2016/08/01/xgbfi/)  
 
 
 
