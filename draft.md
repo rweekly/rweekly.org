@@ -47,7 +47,7 @@ Hello and welcome to the new issue of **R Weekly**!
 ## New Packages & Tools
 
 - [condvis: Conditional Visualisation for Statistical Models](https://github.com/markajoc/condvis)
-
+- [rgeoapi : A package to access the French GéoAPI](https://github.com/ColinFay/rgeoapi)
 
 ## R Project Updates
 
