@@ -43,7 +43,7 @@ Hello and welcome to the new issue of **R Weekly**!
 ## New Releases
 
 - [ttbbeer 1.1.0 - ](https://cran.r-project.org/web/packages/ttbbeer/index.html) An R Dataset Package for US Beer Statistics From The US Treasury
-- [formattable 0.2 - ](https://cran.r-project.org/web/packages/formattable/index.html) Creating Formattable Data Structures
+- [formattable 0.2 - ](https://renkun.me/formattable/) Creating Formattable Data Structures
 
 ## New Packages & Tools
 
