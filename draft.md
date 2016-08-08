@@ -12,130 +12,39 @@ Hello and welcome to the new issue of **R Weekly**!
 *Digested by R Weekly Members*
 
 
-
 ## News & Blog Posts
 
 #### Tutorials
 
-- [Finding second level variable interactions in XGBoost trees](http://projects.rajivshah.com/blog/2016/08/01/xgbfi/)  
-- [Creating Annotated Data Frames from GEO with the GEOquery package](https://rjbioinformatics.com/2016/08/05/creating-annotated-data-frames-from-geo-with-the-geoquery-package/)
-- [Eclipse – an alternative to RStudio – part 2](http://datascienceplus.com/eclipse-an-alternative-to-rstudio-part-2/)
-- [Merge a list of datasets together](http://www.brodrigues.co/2016/07/30/merge-a-list-of-datasets-together)
-- [Getting Started With CaricRture](https://rpubs.com/chrisbrunsdon/94923)
 
-![Getting Started With CaricRture](https://pbs.twimg.com/media/Co_0dE2UsAAqZ5f.jpg)
-
-- [Plot some variables against many others with tidyr and ggplot2](https://drsimonj.svbtle.com/plot-some-variables-against-many-others#kudo)
-- [Plotting GPX tracks with Shiny and Leaflet](https://rcrastinate.blogspot.sg/2016/08/plotting-gpx-tracks-with-shiny-and.html)
-
-![Plotting GPX tracks with Shiny and Leaflet](https://4.bp.blogspot.com/-8jxnwE-XQmk/V6HJNWEC08I/AAAAAAAACwI/ao1mr1TAe7QkXN74qkDktblbApK4f5YgwCLcB/s400/shinyGPX.png)
-
-- [Plain vanilla recurrent neural networks in R: waves prediction](https://firsttimeprogrammer.blogspot.sg/2016/08/plain-vanilla-recurrent-neural-networks.html)
-- [Getting Your Colleagues Hooked on R](https://www.datacamp.com/community/blog/getting-your-colleagues-hooked-on-r)
-- [Simulating from the Bivariate Normal Distribution in R](http://blog.revolutionanalytics.com/2016/08/simulating-form-the-bivariate-normal-distribution-in-r-1.html)
-
-- [fashion() output with corrr](https://drsimonj.svbtle.com/fashion-your-correlations-with-corrr)
-- [Attribution model with R (part 1: Markov chains concept)](http://analyzecore.com/2016/08/03/attribution-model-r-part-1/)
-- [Understanding the empirical law of large numbers and the gambler's fallacy](https://science-memo.blogspot.sg/2016/08/empirical-law-of-large-numbers-with.html)
-![Understanding the empirical law of large numbers and the gambler's fallacy](https://1.bp.blogspot.com/-P96FxM9B9SU/V59HHZWuW4I/AAAAAAAAC_s/N8Z8AcEQFD4vRmSOFCvDQxXRktP_VIZ3QCLcB/s320/law_of_large_numbers.png)
-
-- [using clusterProfiler for MeSH Enrichment Analysis](https://guangchuangyu.github.io/2016/08/using-clusterprofiler-for-mesh-enrichment-analysis/)
-- [Web Scraping and `invalid multibyte string`](http://www.exegetic.biz/blog/2016/08/web-scraping-invalid-multibyte-string/)
-
-
-- [ROC Curves in Two Lines of R Code](http://blog.revolutionanalytics.com/2016/08/roc-curves-in-two-lines-of-code.html)
-
-![ROC Curves in Two Lines of R Code](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c882060b970b-pi)
-
-- [Visualisation of Likert scale results](https://rcrastinate.blogspot.sg/2016/07/visualisation-of-likert-scale-results.html)
-
-![Visualisation of Likert scale results](https://4.bp.blogspot.com/-tM8cBPfH-MY/V5sX0cCE49I/AAAAAAAACvc/eTWZD_XDTRMbgdiesNA4NIqUKP1nJ0lPgCLcB/s640/test.png)
-
-- [Tips on Creating Presentations with RStudio and Webpage Embedding ](http://blog.lunean.com/2016/08/02/tips-on-creating-presentations-in-rstudio-and-webpage-embedding/)
-- [Using blscrapeR to Map County Unemployment Data](https://www.datascienceriot.com/using-blscraper-to-map-county-unemployment-data/kris/)
-- [Using blscraper to map county unemployment data](https://www.datascienceriot.com/using-blscraper-to-map-county-unemployment-data/kris/)
-
-- [Why SQL is not for Analysis, but dplyr is](https://blog.exploratory.io/why-sql-is-not-for-analysis-but-dplyr-is-5e180fef6aa7#.8v5jc2p2f)
 
 #### R in Real World
 
-- [Using Cohort Analysis to measure NBA Draft Value](https://amidatasci.wordpress.com/2016/08/04/using-cohort-analysis-to-measure-nba-draft-value/)
-- [How R Packages are Licensed](http://seankross.com/2016/08/02/How-R-Packages-are-Licensed.html)
 
-![How R Packages are Licensed](https://cdn.rawgit.com/rweekly/image/master/2016-08-08/R-PKG.png)
-
-- [2016 Australian Federal Election Flexdashboard](http://jcarroll.com.au/2016/08/01/auelection2016/)
-
-![2016 Australian Federal Election Flexdashboard](https://i2.wp.com/jcarroll.com.au/wp-content/uploads/2016/07/elecFD.png?resize=1024%2C576)
-
-
-- [Getting Started With CaricRture](https://rpubs.com/chrisbrunsdon/94923)
-- [Map the Life Expectancy in United States with data from Wikipedia](http://datascienceplus.com/map-the-life-expectancy-in-united-states-with-data-from-wikipedia/)
-- [Swiss Olympians - the solo specialists](http://www.swissinfo.ch/eng/rio-2016-_swiss-olympians---the-solo-specialists-/42349156?utm_content=bufferd148b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-
-![Swiss Olympians - the solo specialists](https://www.swissinfo.ch/image/42353668/3x2/640/426/345bc2acff3b1b5189ef2e55edc80788/mi/swiss-olympians-teaser-jpg.jpg)
-
-- [A Case Study in Reproducible Model Building from The U.S. Geological Survey](https://jfisher-usgs.github.io/r/2016/08/04/wrv-case-study)
-- [Finding possible class schedules](https://lcolladotor.github.io/2016/08/02/materias)
-
-- [Something Strange in the Neighborhood](juliasilge.com/blog/Something-Strange/) - Mapping ghost sightings in Kentucky.
-
-![Something Strange in the Neighborhood](https://pbs.twimg.com/media/CpH7yZqUsAMkuDo.jpg)
-
-- [Results from the R Shapefile Contest!](http://www.arilamstein.com/blog/2016/08/01/results-r-shapefile-contest/)
-- [Sportsbook Betting (Part 1): Odds](http://www.exegetic.biz/blog/2016/08/sportsbook-odds/)
 
 #### R in Organization
 
-- [JSM 2016 Slides](https://github.com/kbroman/JSM2016slides)
-- [Farewell, inside-r.org: where to find alternative R resources](http://blog.revolutionanalytics.com/2016/08/farewell-inside-rorg.html)
-- [Azure ML Studio now supports Microsoft R Open, Python 3](http://blog.revolutionanalytics.com/2016/08/ml-studio-mro-python3.html)
 
 #### R in Academia
 
-- [Statistical Methods for Linguistic Research](https://vasishth-statistics.blogspot.sg/2016/08/two-papers-with-code-statistical.html)
 
 
 ## Video and Podcast
 
-- [NSSD Episode 20 - Face Time](https://soundcloud.com/nssd-podcast/episode-20-face-time) - About JSM2016 and more.
 
 ## Resources
 
-- [Introduction to R for Excel Users](https://tomhopper.me/2016/05/03/r-for-excel-users/)
-- [Stackoverflow R Documentation](https://stackoverflow.com/documentation/r/topics)
 
 ## New Releases
 
-- [ttbbeer 1.1.0 ](https://cran.r-project.org/web/packages/ttbbeer/index.html) - An R dataset package for US Beer Statistics from the US Treasury.
-- [formattable 0.2 ](https://renkun.me/formattable/) - Creating formattable data structures.
-- [RcppStreams 0.1.1 ](http://dirk.eddelbuettel.com/blog/2016/08/05#rcppstreams_0.1.1) - RcppStreams brings the Streamulus C++ library to R.
-- [readr 1.0.0](https://blog.rstudio.org/2016/08/05/readr-1-0-0/) - Read many types of rectangular data, including csv, tsv and fixed width files.
-- [digest 0.6.1](http://dirk.eddelbuettel.com/blog/2016/08/02#digest_0.6.10) -  Hash for R objects. 
-- [sjstats 0.3.0](https://strengejacke.wordpress.com/2016/08/01/pipe-friendly-bootstrapping-with-list-variables-in-rstats/) - Update introduces some pipe-friendly bootstrapping-methods.
 
 ## New Packages & Tools
 
-- [intubate](https://github.com/rbertolusso/intubate) -  Interface to Popular R Functions for Data Science Pipelines.
-- [condvis](https://github.com/markajoc/condvis) - Conditional Visualisation for Statistical Models.
-- [rgeoapi](https://github.com/ColinFay/rgeoapi) - A package to access the French GéoAPI.
-- [nzcensus](https://ellisp.github.io/blog/2016/08/04/nzcensus-gam-elastic-lm) - New Zealand Census Results.
-- [Heuristica](http://www.decisionsciencenews.com/2016/08/03/heuristica-r-package-testing-models-binary-choice/) - An R package for testing models of binary choice.
-- [ghostr](https://cran.r-project.org/web/packages/ghostr/) - Dataset of Ghost Sightings in Kentucky.
-- [margins](https://github.com/leeper/margins) - An R Port of Stata's `margins` Command.
 
 ## R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
-- Use `options(deparse.max.lines)` to limit the number of lines recorded in .Traceback and other deparsing activities. 
-- `pmax()` and `pmin()` now work with (more ?) classed objects, such as `"Matrix"` from the `Matrix` package, as documented for a long time.
-- `unique(warnings())` works more correctly, thanks to a new `duplicated.warnings()` method. 
-- The version of LAPACK included in the sources has been updated to 3.6.1, a bug-fix release including a speedup for the non-symmetric case of `eigen()`.
-
-## Jobs
-
-+ [7 new R jobs from around the world](https://www.r-bloggers.com/7-new-r-jobs-from-around-the-world-2016-08-01/)
 
 ## Call for Participation
 
@@ -154,8 +63,5 @@ European R users meeting (eRum) is an international conference that aims at inte
 
 ## Quote of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Teaser for my <a href="https://twitter.com/hashtag/JSM2016?src=hash">#JSM2016</a> on interactive graphics with <a href="https://twitter.com/plotlygraphs">@plotlygraphs</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/koAqMg7t8j">pic.twitter.com/koAqMg7t8j</a></p>&mdash; Carson Sievert (@cpsievert) <a href="https://twitter.com/cpsievert/status/760153512621637632">August 1, 2016</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">R pendants arrived today, will make them available in shop in few days <a href="https://twitter.com/hashtag/DataScience?src=hash">#DataScience</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> (black one also metal) <a href="https://t.co/YT8ZBkLTN2">pic.twitter.com/YT8ZBkLTN2</a></p>&mdash; Linda Terlouw (@lindaterlouw) <a href="https://twitter.com/lindaterlouw/status/761511924827906048">August 5, 2016</a></blockquote>
 
 <p><small id="page_view">&nbsp;</small></p>
