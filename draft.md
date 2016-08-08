@@ -1,9 +1,9 @@
 ---
 layout: draft
-title: Issue 11
+title: Issue 12
 ---
 
-Release Date: 2016-08-08
+Release Date: 2016-08-15
 
 Hello and welcome to the new issue of **R Weekly**!
 
@@ -40,6 +40,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## New Packages & Tools
 
+* [ggghost (CRAN)](https://cran.r-project.org/package=ggghost) ([GitHub](https://github.com/jonocarroll/ggghost)) - Capture the spirit of your ggplot2 calls.
 
 ## R Project Updates
 
