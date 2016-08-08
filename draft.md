@@ -37,6 +37,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## New Releases
 
+* [readr 1.0.0 (CRAN)](https://cran.r-project.org/web/packages/readr/index.html) ([GitHub](https://github.com/hadley/readr/)) - [Read flat files (csv, tsv, fwf) into R](https://blog.rstudio.org/2016/08/05/readr-1-0-0/).
+
 
 ## New Packages & Tools
 
