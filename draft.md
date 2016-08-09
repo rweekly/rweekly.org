@@ -28,6 +28,9 @@ Hello and welcome to the new issue of **R Weekly**!
 #### R in Academia
 
 
+#### BloggeRs from over the world
+
+* [FR] [Utiliser la grammaire dplyr pour triturer ses données](http://www.thinkr.fr/utiliser-la-grammaire-dplyr-pour-triturer-ses-donnees/) 
 
 ## Video and Podcast
 
