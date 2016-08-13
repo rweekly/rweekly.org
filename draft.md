@@ -16,36 +16,122 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
++ [Building a ggplot2 Step by Step](https://matthewdharris.com/2016/08/12/ggplot2-step-by-step/)
 
+![Building a ggplot2 Step by Step](https://matthewdharriscom.files.wordpress.com/2016/08/13.png?w=528&h=264)
+
++ [Handling required and missing R packages in Microsoft R Services](https://tomaztsql.wordpress.com/2016/08/11/handling-required-and-missing-r-packages-in-microsoft-r-services/)
+
++ [GitHub-style waffle plots in R](https://mvuorre.github.io/r/github-waffle-plot/)
+
+![GitHub-style waffle plots in R](https://mvuorre.github.io/images/2016-03-24-github-waffle-plot/viz-1.png)
+
++ [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
+
+![Plotting background data for groups with ggplot2](https://svbtleusercontent.com/ofzisqe5egsi2w_small.png)
+
++ [R Packages for Data Access](http://blog.revolutionanalytics.com/2016/08/r-packages-data-access.html)
+
++ [Google Analytics makes Demo Account available to all](http://www.analyticsforfun.com/2016/08/google-analytics-makes-demo-account.html)
+
++ [New feature: Dropdown menus in Plotly and R](http://moderndata.plot.ly/new-feature-dropdown-menus-in-plotly-and-r/)
+
++ [R Posting Multiple Answers to Google Forms](https://data-steve.github.io/post-multiple-answers-to-google-forms/)
+
++ [Deep Learning Part 1: Comparison of Symbolic Deep Learning Frameworks](http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html)
+
++ [Network visualization – part 5: Cytoscape (an update) – RCy3](http://www.vesnam.com/Rblog/viznets5/)
+
++ [The magrittr monad](http://www.win-vector.com/blog/2016/08/the-magrittr-monad/)
+
++ [Creating Annotated Data Frames from GEO with the GEOquery package](https://rjbioinformatics.com/2016/08/05/creating-annotated-data-frames-from-geo-with-the-geoquery-package/)
+
++ [Project package libraries and reproducibility](http://www.mango-solutions.com/wp/2016/08/project-package-libraries-and-reproducibility/)
 
 #### R in Real World
 
++ [Consumer Credit Trends](http://lenkiefer.com/2016/08/09/trends-in-credit)
 
+![Consumer Credit Trends](https://cdn.rawgit.com/rweekly/image/master/2016-08-15/debt.gif)
+
++ [Building a large database of MMA fight results IV: turning tables into a database with R and SQL](http://www.fightprior.com/2016/08/11/Building_mySQL_fight_db/)
+
++ [Text analysis of Trump’s tweets confirms he writes only the (angrier) Android half](http://varianceexplained.org/r/trump-tweets/)
+
+![Trump’s tweets](https://cdn.rawgit.com/rweekly/image/master/2016-08-15/trump.svg)
+
++ [Counting [U.S.] Expatriation with R (a.k.a. a Decade of Desertion)](https://rud.is/b/2016/08/08/counting-u-s-expatriation-with-r-a-k-a-a-decade-of-desertion/)
+
+![Counting [U.S.] Expatriation with R](https://rud.is/b/wp-content/uploads/2016/08/RStudio.png)
+
++ [Sportsbook Betting (Part 2): Bookmakers’ Odds](http://www.exegetic.biz/blog/2016/08/sportsbook-bookmakers-odds/)
+
++ [In case you missed it: July 2016 roundup](http://blog.revolutionanalytics.com/2016/08/in-case-you-missed-it-july-2016-roundup.html)
+
++ [Yet the Worst Olympic Chart](http://danielmarcelino.github.io/blog/2016/yet-the-worst-olympic-chart.html)
+
+![Yet the Worst Olympic Chart](https://danielmarcelino.github.io/img/08-06-2016-yet-the-worst-olympic-chart/NBC-olympic-medals.PNG)
 
 #### R in Organization
 
++ [Rapid Big Data Prototyping with Microsoft R Server on Apache Spark](https://blogs.msdn.microsoft.com/azuredatalake/2016/08/09/rapid-big-data-prototyping-with-microsoft-r-server-on-apache-spark-context-switching-spark-tuning/)
+
++ [Accelerating data scientist access to IBM Watson with CognizeR](https://www.ibm.com/blogs/watson/2016/08/accelerating-data-scientist-access-watson-cognizer/)
 
 #### R in Academia
+
+#### R for Fun
+
++ [Gummy Worms](https://aschinchon.wordpress.com/2016/08/08/gummy-worms/)
 
 
 #### International R
 
-* [French] [Utiliser la grammaire dplyr pour triturer ses données](http://www.thinkr.fr/utiliser-la-grammaire-dplyr-pour-triturer-ses-donnees/) -- [English Translation (automated)](https://translate.google.com.au/translate?hl=en&sl=fr&u=http://www.thinkr.fr/utiliser-la-grammaire-dplyr-pour-triturer-ses-donnees/)
++ [<img style="display: inline" display="inline" class="emoji" title=":fr:" alt=":fr:" src="https://assets.github.com/images/icons/emoji/unicode/1f1eb-1f1f7.png" align="absmiddle" height="20" width="20"> Utiliser la grammaire dplyr pour triturer ses données ](http://www.thinkr.fr/utiliser-la-grammaire-dplyr-pour-triturer-ses-donnees/) - [English](https://translate.google.com/translate?hl=en&sl=fr&u=http://www.thinkr.fr/utiliser-la-grammaire-dplyr-pour-triturer-ses-donnees/)
 
 ## Video and Podcast
 
++ [What is R Markdown?](https://vimeo.com/178485416)
 
 ## Resources
 
++ [New cheat-sheet for the dplyrXdf package](http://blog.revolutionanalytics.com/2016/08/new-cheat-sheet-for-the-dplyrxdf-package.html)
+
++ [Introduction to R Graphics with ggplot2](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html)
+
++ [Network visualization with R](http://kateto.net/network-visualization)
+
++ [Series: Introduction to Working With Raster Data in R](http://neondataskills.org/tutorial-series/raster-data-series/)
 
 ## New Releases
 
-* [readr 1.0.0 (CRAN)](https://cran.r-project.org/web/packages/readr/index.html) ([GitHub](https://github.com/hadley/readr/)) - [Read flat files (csv, tsv, fwf) into R](https://blog.rstudio.org/2016/08/05/readr-1-0-0/).
++ [readr 1.0.0](https://blog.rstudio.org/2016/08/05/readr-1-0-0/) - Read flat files (csv, tsv, fwf) into R.
 
++ [DT 0.2.0](https://blog.rstudio.org/2016/08/09/a-new-version-of-dt-0-2-on-cran/) - DataTable widgets in R.
+
++ [drat 0.1.1](http://dirk.eddelbuettel.com/blog/2016/08/07/#drat_0.1.1) - Easily deploy R package repositories.
+
++ [littler 0.3.1](http://dirk.eddelbuettel.com/blog/2016/08/07#littler-0.3.1) - A simplified command-line interface for R.
+
++ [seasonal 1.3](https://usefulr.wordpress.com/2016/08/07/seasonal-1-3-a-better-way-to-seasonal-adjustment-diagnostics/) - A better way to seasonal adjustment diagnostics.
 
 ## New Packages & Tools
 
-* [ggghost (CRAN)](https://cran.r-project.org/package=ggghost) ([GitHub](https://github.com/jonocarroll/ggghost)) - Capture the spirit of your ggplot2 calls.
++ [ggghost](https://cran.r-project.org/package=ggghost) - Capture the spirit of your ggplot2 calls.
+
++ [prettydoc](http://statr.me/2016/08/creating-pretty-documents-with-the-prettydoc-package/) - Creating pretty documents with the prettydoc package.
+
++ [forcats](https://github.com/hadley/forcats) - Tools for working with categorical variables (factors).
+
++ [feedeR](http://www.exegetic.biz/blog/2016/08/feeder-reading-rss-atom-feeds-r/) - Reading RSS and Atom feeds from R.
+
++ [QuickLookR](https://rud.is/b/2016/08/06/quicklookr-a-macos-quicklook-plugin-for-r-data-files/) - A macOS QuickLook plugin for R Data files.
+
+![QuickLookR](https://rud.is/b/wp-content/uploads/2016/08/Blank_Skitch_Document.png)
+
++ [giphyr](https://github.com/haozhu233/giphyr) - A R package for giphy API.
+
+![giphyr](https://pbs.twimg.com/media/CpljQdDWEAASzBX.jpg)
 
 ## R Project Updates
 
@@ -69,5 +155,6 @@ European R users meeting (eRum) is an international conference that aims at inte
 
 ## Quote of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/drob">@drob</a> has zero natural talent - should not be coding. His analysis is bad &amp; his ggplot2 ability-zilch! <a href="https://t.co/WTWN3vCpVz">https://t.co/WTWN3vCpVz</a></p>&mdash; Donald Trump, PhD (@ScientistTrump) <a href="https://twitter.com/ScientistTrump/status/763226352074055680">August 10, 2016</a></blockquote>
 
 <p><small id="page_view">&nbsp;</small></p>
