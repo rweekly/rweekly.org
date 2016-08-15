@@ -46,7 +46,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## New Releases
 
-
+ - [rfoass 1.0.0 (CRAN)](http://dirk.eddelbuettel.com/blog/2016/08/14/#rfoaas_1.0.0) ([GitHub](https://github.com/eddelbuettel/rfoaas)) - R interface to FOAAS (f@$k off as a service).
 
 
 ## New Packages & Tools
