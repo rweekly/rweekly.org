@@ -1,9 +1,9 @@
 ---
 layout: draft
-title: Issue 12
+title: Issue 13
 ---
 
-Release Date: 2016-08-15
+Release Date: 2016-08-22
 
 Hello and welcome to the new issue of **R Weekly**!
 
