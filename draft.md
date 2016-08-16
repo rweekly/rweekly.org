@@ -17,9 +17,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
++ [Practicing Machine Learning Techniques in R with MLR Package](https://www.analyticsvidhya.com/blog/2016/08/practicing-machine-learning-techniques-in-r-with-mlr-package/)
 
-
-
++ [Learning Path : Step by Step Guide for Beginners to Learn SparkR](https://www.analyticsvidhya.com/blog/2016/06/learning-path-step-step-guide-beginners-learn-sparkr/)
 
 #### R in Real World
 
@@ -41,17 +41,19 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## Resources
 
-
++ [Bayesian Statistics explained to Beginners in Simple English](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
 
 
 ## New Releases
 
- - [rfoass 1.0.0 (CRAN)](http://dirk.eddelbuettel.com/blog/2016/08/14/#rfoaas_1.0.0) ([GitHub](https://github.com/eddelbuettel/rfoaas)) - R interface to FOAAS (f@$k off as a service).
++ [rfoass 1.0.0 (CRAN)](http://dirk.eddelbuettel.com/blog/2016/08/14/#rfoaas_1.0.0) ([GitHub](https://github.com/eddelbuettel/rfoaas)) - R interface to FOAAS (f@$k off as a service).
+
++ [tidyr 0.6 (on CRAN)](https://blog.rstudio.org/) - Add new feature -- `drop_na()`. 
 
 
 ## New Packages & Tools
 
-
++ [mlr: Machine Learning in R (on CRAN)](https://cran.r-project.org/web/packages/mlr/index.html) ([GitHub](https://github.com/mlr-org/mlr)) - Interface to a large number of classification and regression techniques, including machine-readable parameter descriptions.
 
 ## R Project Updates
 
