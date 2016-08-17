@@ -55,6 +55,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [mlr: Machine Learning in R (on CRAN)](https://cran.r-project.org/web/packages/mlr/index.html) ([GitHub](https://github.com/mlr-org/mlr)) - Interface to a large number of classification and regression techniques, including machine-readable parameter descriptions.
 
++ [rpinterest (on CRAN)](https://cran.r-project.org/web/packages/rpinterest/index.html) ([GitHub](https://github.com/ColinFay/rpinterest)) - Access to Pinterest API with R.
+
 ## R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
