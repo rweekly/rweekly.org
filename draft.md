@@ -46,9 +46,12 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## New Releases
 
++ [githubinstall 0.1.0 (on CRAN)](http://mockquant.blogspot.jp/2016/08/githubinstall-010-new-feature-for.html) ([GitHub](https://github.com/hoxo-m/githubinstall/releases/tag/v0.1.0)) - New Feature for A Helpful Way to Install R Packages Hosted on GitHub -- `gh_install_package()` and `gh_suggest_username()`
+
 + [rfoass 1.0.0 (CRAN)](http://dirk.eddelbuettel.com/blog/2016/08/14/#rfoaas_1.0.0) ([GitHub](https://github.com/eddelbuettel/rfoaas)) - R interface to FOAAS (f@$k off as a service).
 
 + [tidyr 0.6 (on CRAN)](https://blog.rstudio.org/) - Add new feature -- `drop_na()`. 
+
 
 
 ## New Packages & Tools
