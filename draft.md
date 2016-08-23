@@ -21,10 +21,16 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### R in Real World
 
++ [Shiny flexdashboard of Reported Crimes in Hartford, Connecticut](https://jasminedumas.shinyapps.io/hartford-crime/)
+
+![](https://pbs.twimg.com/media/CqfWC7fWAAA5s9_.jpg:large)
+
+
 
 
 #### R in Academia
 
++ [shinyGEO paper published](http://bioinformatics.oxfordjournals.org/content/early/2016/08/20/bioinformatics.btw519)
 
 
 ## Resources
@@ -32,6 +38,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 
 ## New Releases
+
 
 
 ## New Packages & Tools
