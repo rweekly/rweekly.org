@@ -53,7 +53,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 + [satRday! in Budapest, Hungary](http://budapest.satrdays.org/#cfp) **3 September**<br>
 The satRdays are SQLSaturday-inspired, community-led, one-day, regional and very affordable conferences around the world to support collaboration, networking and innovation within the R community.<br>
-
+[Twitter list of satRday speakers](https://twitter.com/thinkR_fr/lists/satrday-budapest-speakers)
 
 + [EARL 2016 London](https://earlconf.com/)  **13 September - 15 Septemberth** <br>
 The primary focus of the Conference is the commercial usage of R across a range of industry sectors with the aim of sharing knowledge and applications of the language.<br /> 
