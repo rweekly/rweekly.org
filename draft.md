@@ -17,88 +17,19 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
-+ [Why I still use Excel](https://deevybee.blogspot.sg/2016/09/in-defence-of-excel.htmlhttps://deevybee.blogspot.sg/2016/09/in-defence-of-excel.html)
 
-+ [R packages for forecast combinations](http://robjhyndman.com/hyndsight/forecast-combinations/)
-
-![R packages for forecast combinations](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/hybrid.png)
-
-+ [Debugging in Rmd](https://gist.github.com/gmbecker/e47b0951b91505b2f4607259bcec8f97)
-
-+ [Profiling Rcpp package code on Windows](http://evolvedmicrobe.com/blogs/?p=359)
-
-+ [How to create a free distributed data collection "app" with R and Google Sheets](http://simplystatistics.org/2016/08/26/googlesheets/)
-
-+ [Variables can synergize, even in a linear model](http://www.win-vector.com/blog/2016/09/variables-can-synergize-even-in-a-linear-model/)
-
-+ [ggtree for microbiome data](http://guangchuangyu.github.io/2016/09/ggtree-for-microbiome-data/)
-
-![ggtree for microbiome data](https://guangchuangyu.github.io/blog_images/Bioconductor/ggtree/tree_ggtree.png)
-
-+ [Dual axes time series plots with various more awkward data](http://ellisp.github.io/blog/2016/08/28/dualaxes2)
-
-![Dual axes](https://ellisp.github.io/img/0052-milk-price.svg)
-
-+ [RDBL – manipulate data in-database with R code only](http://datascienceplus.com/rdbl-manipulate-data-in-database-with-r-code-only/)
-
-+ [Make Bland Altman Plots with Marginal Histograms using ggExtra](http://labrtorian.com/2016/08/29/make-bland-altman-plots-with-marginal-histograms-using-ggextra/)
-
-+ [Visualizing evolutionary dynamics with ggmuller](https://thesefewlines.wordpress.com/2016/08/20/how-to-ggmuller/)
-
-![ggmuller](https://thesefewlines.files.wordpress.com/2016/08/branching.png?w=840)
-
-+ [Choose a good heatmap color scale with viridis](http://blog.revolutionanalytics.com/2016/09/choose-a-good-heatmap-color-scale-with-viridis.html)
 
 #### R in Real World
 
-+ [Philadelphia’s Changing Climate](https://mtairy.me/2016/09/01/philadelphias-changing-climate/)
 
-+ [Analyzing #first7jobs tweets with MonkeyLearn and R](https://blog.monkeylearn.com/analyzing-first7jobs-tweets-monkeylearn-r/)
-
-+ [Visualizing sort algorithms with ggplot2](http://jkunst.com/r/visualizing-sort-algorithms-with-ggplot/)
-
-![Visualizing sort algorithms with ggplot2](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/sort2.png)
-
-+ [What we spend: Consumer Expenditures in 2015](http://lenkiefer.com/2016/09/02/consumer-spend)
-
-![What we spend: Consumer Expenditures in 2015](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/price.gif)
-
-+ [Recent economic and housing market trends: August 2016](http://lenkiefer.com/2016/08/27/housing-market-update)
-
-![Recent economic and housing market trends: August 2016](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/house.gif)
-
-+ [Analyzing NBA basketball data with R](http://blog.revolutionanalytics.com/2016/09/analyzing-nba-basketball-data-with-r.html)
-
-+ [A Statistical Approach To Understanding Why Humans Are Bad at Predictions](http://jasdumas.github.io/2016-09-02-a-stat-approach-to-npr-segment-on-predictions/)
-
-+ [Beneath the waves climate change puts marine life on the move](http://ctmirror.org/2016/08/29/beneath-the-waves-climate-change-puts-marine-life-on-the-move/)
-
-![Beneath the waves climate change puts marine life on the move](https://pbs.twimg.com/media/CrB1LN4W8AAmU4G.jpg)
-
-+ [A Sentiment Analysis of Hamilton](http://seankross.com/2016/08/30/A-Sentiment-Analysis-of-Hamilton.html)
-
-![A Sentiment Analysis of Hamilton](https://cdn.rawgit.com/seankross/seankross.github.io/24dbbf55347381c34e6493256c95675fefc8aaa5/img/2016-08-30-A-Sentiment-Analysis-of-Hamilton/unnamed-chunk-12-1.png)
-
-+ [The Butterfly Affectation:
-A case study in embedding an external image in an R plot](https://www.stat.auckland.ac.nz/~paul/Reports/grImport/butterfly/butterfly.html)
-
-+ [Mapping Traffic Fatalities](http://lucaspuente.github.io/notes/2016/09/01/Mapping_Traffic_Fatalities)
-
-![Mapping Traffic Fatalities](https://cdn.rawgit.com/rweekly/image/master/2016-09-05/Traffic.png)
-
-+ [The R community is awesome (and fast)](http://www.win-vector.com/blog/2016/08/the-r-community-is-awesome-and-fast/)
-
-+ [RClimate Script to Assess Local Hot Day Trends](https://rclimate.wordpress.com/2016/08/29/rclimate-script-to-assess-local-hot-day-trends/)
 
 #### R for Fun
 
-+ [Trump Goggles Android app - Twitter to R to GitHub to Android](https://leonawicz.github.io/TrumpGoggles/trumpgoggles.html)
+
 
 #### R in Organization
 
-+ [The R Consortium Funds Three Projects in July](https://www.r-consortium.org/news/blogs/2016/08/r-consortium-funds-three-projects-july)
 
-+ [Presidential Election Predictions 2016 (an ASA competition)](https://www.r-statistics.com/2016/08/presidential-election-predictions-2016/)
 
 #### R in Academia
 
@@ -107,46 +38,18 @@ A case study in embedding an external image in an R plot](https://www.stat.auckl
 
 ## Video and Podcast
 
-+ [Profvis: Profiling Tools for Faster R Code](https://www.rstudio.com/resources/webinars/profvis-profiling-tools-for-faster-r-code/)
-
-+ [Video series: Introduction to Microsoft R Server](http://blog.revolutionanalytics.com/2016/08/introduction-to-microsoft-r-server.html)
 
 
 ## Resources
 
-+ [Shiny tips & tricks for improving your apps and solving common problems](http://deanattali.com/blog/advanced-shiny-tips/)
-
-+ [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/index.html)
-
-+ [A MODERN DIVE into Data with R](https://ismayc.github.io/moderndiver-book/)
-
 
 ## New Releases
 
-+ [rmdformats](https://github.com/juba/rmdformats) - Material HTML rmarkdown format now on Github.
 
-![rmdformats](https://pbs.twimg.com/media/CrWTBtiWAAAFy9i.jpg)
-
-+ [thesisdown](https://chesterismay.wordpress.com/2016/09/01/updated-r-markdown-thesis-template/) - An updated R Markdown thesis template using the bookdown package.
-
-+ [rfoaas 1.1.0](http://dirk.eddelbuettel.com/blog/2016/08/28#rfoaas_1.1.0) - Access the most excellent FOAAS service from R.
-
-+ [quantmod 0.4-6](http://blog.fosstrading.com/2016/08/quantmod-0-4-6-on-cran.html) - Quantitative Financial Modelling & Trading Framework for R.
-
-+ [tibble 1.2.0](https://blog.rstudio.org/2016/08/29/tibble-1-2-0/) - `tbl_df` class that offers better checking and
-printing capabilities than traditional data frames.
-
-+ [RProtoBuf 0.4.5](http://dirk.eddelbuettel.com/blog/2016/08/29#rprotobuf_0.4.5) - now with protobuf v2 and v3!
-
-+ [Rcpp 0.12.7](http://dirk.eddelbuettel.com/blog/2016/09/04#rcpp_0.12.7) - more updates and bug fixes.
 
 ## New Packages & Tools
 
 
-
-+ [forcats 0.1.0 on CRAN](https://blog.rstudio.org/2016/08/31/forcats-0-1-0/) - `forcats` provides tools for categorical variables.
-
-+ [ubeR 0.1.0](http://www.exegetic.biz/blog/2016/08/uber-a-package-for-the-uber-api/) - R package for the Uber API.
 
 ## R Project Updates
 
@@ -164,8 +67,6 @@ European R users meeting (eRum) is an international conference that aims at inte
 
 ## Quote of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">PSA: if you&#39;re a non-native English speaker, make sure you check urban dictionary when coming up with package names <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/770744837104541696">August 30, 2016</a></blockquote>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So ... I got engaged on <a href="https://twitter.com/hashtag/satRdays?src=hash">#satRdays</a>. <a href="https://t.co/1B7QO7WhjQ">pic.twitter.com/1B7QO7WhjQ</a></p>&mdash; Romain François (@romain_francois) <a href="https://twitter.com/romain_francois/status/772053144222261249">September 3, 2016</a></blockquote>
 
 <p><small id="page_view">&nbsp;</small></p>
