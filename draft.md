@@ -138,6 +138,8 @@ printing capabilities than traditional data frames.
 
 + [RProtoBuf 0.4.5](http://dirk.eddelbuettel.com/blog/2016/08/29#rprotobuf_0.4.5) - now with protobuf v2 and v3!
 
++ [Rcpp 0.12.7](http://dirk.eddelbuettel.com/blog/2016/09/04#rcpp_0.12.7) - more updates and bug fixes.
+
 ## New Packages & Tools
 
 
