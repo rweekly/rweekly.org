@@ -1,9 +1,9 @@
 ---
 layout: draft
-title: Issue 15
+title: Issue 16
 ---
 
-Release Date: 2016-09-05
+Release Date: 2016-09-12
 
 Hello and welcome to the new issue of **R Weekly**!
 
@@ -17,39 +17,128 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
++ [Custom Styling for htmlwidgets](http://www.buildingwidgets.com/blog/2016/9/7/custom-styling-for-htmlwidgets)
 
++ [Using googlesheets and mailR packages in R to automate reporting](https://medium.com/airbnb-engineering/using-googlesheets-and-mailr-packages-in-r-to-automate-reporting-c09579e0377f#.2mbulw257)
+
++ [Build your own neural network classifier in R](http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r)
+
+![Build your own neural network classifier in R](https://junma5.weebly.com/uploads/4/6/5/1/46519751/1241933_orig.png)
+
++ [Mirror, mirror on the wall Who's the fastest of them all](http://blog.eighty20.co.za//package%20exploration/2016/09/04/Mirror-Mirror/)
+
++ [Tidying computational biology models with biobroom: a case study in tidy analysis](http://varianceexplained.org/r/tidy-genomics-biobroom/)
+
++ [IBM Data Science Experience:  First steps with yorkr](https://gigadom.wordpress.com/2016/09/04/ibm-data-science-experience-first-steps-with-yorkr/)
+
++ [Showing a different approach to making statistical tests](https://privefl.github.io/blog/Showing-a-different-approach-to-making-statistical-tests/)
+
+![Showing a different approach to making statistical tests](https://privefl.github.io/blog/knitr_files/post-tests_files/figure-html/unnamed-chunk-8-1.png)
+
++ [Analyze pull requests and Travis builds using Rperform](https://techandmortals.wordpress.com/2016/09/05/analyze-pull-requests-and-travis-builds-using-rperform/)
+
++ [GoodReads: Webscraping and Text Analysis with R (Part 1)](http://datascienceplus.com/goodreads-webscraping-and-text-analysis-with-r-part-1/)
+
++ [Software engineering data sets](http://shape-of-code.coding-guidelines.com/2016/09/05/software-engineering-data-sets/)
+
++ [R Programming – Pitfalls to avoid (Part 1)](http://datascienceplus.com/r-programming-pitfalls-to-avoid-part-1/)
+
++ [MinechaRts #1 (Minecraft + R + Edgar Anderson’s Iris Data)](http://smarterpoland.pl/index.php/2016/09/minecharts-1-minecraft-r-edgar-andersons-iris-data/)
+
++ [HW Checker: R, AppScripts, & Google Forms](http://data-steve.github.io/build-homework-checker-pt1/)
+
+
++ [The palettes of Earth](http://blog.revolutionanalytics.com/2016/09/the-pallettes-of-earth.html)
+
+![The palettes of Earth](https://a7.typepad.com/6a0105360ba1c6970c01b8d21a3227970c-pi)
+
+
++ [Classification in Spark 2.0: “Input validation failed” and other wondrous tales](http://www.nodalpoint.com/spark-classification/)
+
++ [What Every R Package Must (REALLY) Contain? An Example on the eRum2016 Package](http://r-addict.com/2016/09/08/Package-Must-Have.html)
+
++ [Effect-Size Calculation for Meta-Analysis in R #rstats](https://strengejacke.wordpress.com/2016/09/08/effect-size-calculation-for-meta-analysis-in-r-rstats/)
+
++ [Make Easy Heatmaps to Visualize your Turnaround Times](http://labrtorian.com/2016/09/08/make-easy-heatmaps-to-visualize-your-turnaround-times/)
+
++ [Exploring Fitness Data in R](https://jonathande4.wordpress.com/2016/09/05/exploring-fitness-data-in-r/)
 
 #### R in Real World
 
++ [Why Track and Field Stars Don’t Break Records Like They Used To (But Swimmers Do)](https://buzzfeednews.github.io/2016-07-athletic-performances/graphics-code.html)
 
++ [PPR League Gold Mining – Week 1](http://fantasyfootballanalytics.net/2016/09/ppr-league-gold-mining-week-1.html)
+
++ [Analyzing #first7jobs tweets with MonkeyLearn and R](https://blog.monkeylearn.com/analyzing-first7jobs-tweets-monkeylearn-r/)
+
+![Analyzing #first7jobs tweets with MonkeyLearn and R](https://blog.monkeylearn.com/wp-content/uploads/2016/09/circle.png)
+
++ [Excel errors and science papers](http://www.economist.com/blogs/graphicdetail/2016/09/daily-chart-3?fsrc=scn/fb/te/bl/ed/excelerrorsandsciencepapers)
+
++ [Land Conflict, Property Rights and Deforestation in Brasil](http://freigeist.devmag.net/economics/950-land-conflict-property-rights-and-deforestation-in-brasil.html)
+
++ [Human in A.I. loop](https://sanealytics.com/2016/09/09/human-in-a-i-loop/)
+
++ [Annual Mean Temperature Trends – 12 Airports](https://rclimate.wordpress.com/2016/09/06/annual-mean-temperature-trends-12-airports/)
+
+![Annual Mean Temperature Trends – 12 Airports](https://i1.wp.com/rclimate.files.wordpress.com/2016/09/12_airport_trend.gif?w=456&ssl=1)
+
++ [BOOK REVIEW: Financial Analytics with R](https://blog.quandl.com/book-review-financial-analytics-r-building-laptop-laboratory-data-science)
+
++ [Are Pokémon GO Mentions Really Driving Up Stock Prices? Rebuilding Bloomberg’s News Trends in R](https://www.datacamp.com/community/tutorials/recreate-bloomberg-terminal-news-trends-r#gs.a8E1oS4)
 
 #### R for Fun
 
-
++ [Chaotic Galaxies](https://aschinchon.wordpress.com/2016/09/06/chaotic-galaxies/)
 
 #### R in Organization
 
++ [Sharing thoughts on satRdays R Conference, Budapest 2016 #satRdays](https://tomaztsql.wordpress.com/2016/09/06/sharing-thoughts-on-satrdays-r-conference-budapest-2016-satrdays/)
+
++ [The start of satRdays](http://feeds.rapporter.net/~r/rapporter-r/~3/rCgF_FZxKzo/the-start-of-satrdays.html)
+
++ [Postdoctoral Scholar – Sustainable Software and Reproducible Research](http://ropensci.org/blog/2016/09/07/postdoc-position)
+
++ [Running R on AWS](https://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
+
++ [Qlik to add R, Python support](http://www.computerworld.com/article/3118350/business-intelligence/qlik-to-add-r-python-support.html)
+
++ [In case you missed it: August 2016 roundup](http://blog.revolutionanalytics.com/2016/09/in-case-you-missed-it-august-2016-roundup.html)
+
++ [R Epidemics Consortium](https://reconhub.github.io/)
 
 
 #### R in Academia
 
-
++ [The R Journal, Volume 8, Issue 1](https://journal.r-project.org/archive/2016-1/)
 
 
 ## Video and Podcast
 
-
++ [What the world needs now: Even more R/RStudio instructional videos](https://datahowler.wordpress.com/2016/09/09/what-the-world-needs-now-even-more-rrstudio-instructional-videos/)
 
 ## Resources
 
++ [Announcing R Course Finder](http://r-exercises.com/2016/09/04/announcing-r-course-finder/)
+
++ [Peer-led Data Analysis in R at UT Austin](https://ccbbatut.github.io/rstats_fall2016/)
 
 ## New Releases
 
++ [googleVis 0.6.1](http://www.magesblog.com/2016/09/googlevis-061-on-cran.html) - R Interface to Google Charts.
++ [RProtoBuf 0.4.6](http://dirk.eddelbuettel.com/blog/2016/09/09#rprotobuf_0.4.6) - bugfix update.
 
++ [magick 0.3](http://ropensci.org/blog/technotes/2016/09/08/magick-release-03) -  Magick is a package for Advanced Image-Processing in R.
 
 ## New Packages & Tools
 
++ [tidyverse](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
 
++ [rtide](http://lukemiller.org/index.php/2016/09/rtide-a-r-package-for-predicting-tide-heights-us-locations-only-currently/) -  a R package for predicting tide heights (US locations only currently).
+
++ [esc](https://strengejacke.wordpress.com/2016/09/08/effect-size-calculation-for-meta-analysis-in-r-rstats/) - Effect Size Computation for Meta Analysis.
+
++ [tidyjson](https://github.com/jeremystan/tidyjson) - `tidyjson` provides tools for turning complex json into tidy data.
 
 ## R Project Updates
 
@@ -67,6 +156,6 @@ European R users meeting (eRum) is an international conference that aims at inte
 
 ## Quote of the Week
 
-
+<blockquote class="twitter-tweet" data-lang="zh-cn"><p lang="en" dir="ltr">Hrm. Load bioconductor stuff or tidyverse first? <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/kHXt4Eul7D">pic.twitter.com/kHXt4Eul7D</a></p>&mdash; Stephen Turner (@genetics_blog) <a href="https://twitter.com/genetics_blog/status/773596112913653760">2016年9月7日</a></blockquote>
 
 <p><small id="page_view">&nbsp;</small></p>
