@@ -17,7 +17,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
-
++ [Setting up RStudio in the cloud on Amazon Web Services](http://strimas.com/r/rstudio-cloud-1/)
 
 
 #### R in Real World
