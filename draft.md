@@ -53,7 +53,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## New Packages & Tools
 
-[anytime 0.0.1](http://dirk.eddelbuettel.com/blog/2016/09/13/#anytime_0.0.1) - Anything to 'POSIXct' or 'Date' Converter
++ [anytime 0.0.1](http://dirk.eddelbuettel.com/blog/2016/09/13/#anytime_0.0.1) - Anything to 'POSIXct' or 'Date' Converter
++ [shinyLP 1.0.0](https://cran.r-project.org/package=shinyLP) - Bootstrap landing home pages for *shiny* apps
+
 
 
 ## R Project Updates
