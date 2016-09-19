@@ -12,143 +12,39 @@ Hello and welcome to the new issue of **R Weekly**!
 *Digested by R Weekly Members*
 
 
-
 ## News & Blog Posts
 
 #### Tutorials
 
-+ [Setting up RStudio in the cloud on Amazon Web Services](http://strimas.com/r/rstudio-cloud-1/)
 
-+ [Pitfalls in Writing Portable C++98 Code](http://kevinushey.github.io/blog/2016/09/14/pitfalls-in-writing-portable-c++98-code/) - I’ve now made enough submissions to CRAN that have crashed and burned on Solaris, that I think it’s now time to put some of the pitfalls I’ve bumped into in writing. 
-
-+ [How to download new Census data with R](http://www.computerworld.com/article/3120415/data-analytics/how-to-download-new-census-data-with-r.html) - 2015 American Community Survey data is out. Here's how to get the data you want using R.
-
-+ [Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/) - Step-by-step: Getting Started With R.
-
-
-+ [How I made some Pokémon Business Cards](http://www.sumsar.net/blog/2016/09/how-i-made-some-pokemon-business-cards/)
-
-![How I made some Pokémon Business Cards](https://img.vim-cn.com/9e/7ea561c715d66f99bf805dca4d27d209b59308.jpg)
-
-
-+ [mlr loves OpenML](http://mlr-org.github.io/mlr-loves-OpenML/)
-
-+ [From Jupyter Notebooks to R Markdown](http://danielphadley.com/Jupyter-to-Rmarkdown/)
-
-
-
-+ [Statistics with TSQL and R: Chi Square Test](https://curiousaboutdata.com/2016/09/13/statistics-chi-square-test/)
-
-
-
-+ [Why you need version control](http://ellisp.github.io/blog/2016/09/16/version-control)
-
-+ [Monitoring R Applications with RZabbix](http://r-addict.com/2016/09/15/RZabbix-Announcement.html)
-
-+ [Forecasting Opportunities](http://www.quintuitive.com/2016/09/13/forecasting-opportunities/) - Forecasting trading opportunities with R.
-
-+ [Creating an animation using R](http://datascienceplus.com/creating-an-animation-using-r/)
-
-+ [Turning keywords into a co-occurrence network](http://f.briatte.org/r/turning-keywords-into-a-co-occurrence-network)
-
-![Turning keywords into a co-occurrence network](https://i1.wp.com/f.briatte.org/r/images/turning-keywords-into-a-co-occurrence-network.png)
-
-+ [R with Parallel Computing from User Perspectives](http://www.parallelr.com/r-with-parallel-computing/)
-
-+ [Recursion in R](http://www.buildingwidgets.com/blog/2016/9/16/recursion-in-r) - Working in d3.js often requires recursion with nested data. Recursion in R can be tricky.
 
 
 #### R in Real World
 
-+ [Scheduling R scripts for a team using RStudio Server, Docker, Github and Google Compute Engine](http://code.markedmondson.me/setting-up-scheduled-R-scripts-for-an-analytics-team/)
-
-+ [Analysing the Modelled Territorial Authority GDP estimates for New Zealand](http://ellisp.github.io/blog/2016/09/13/mtagdp)
-
-![Analysing the Modelled Territorial Authority GDP estimates for New Zealand](https://ellisp.github.io/img/0054-gdp-pp-map.svg)
-
-+ [Did Wages Detach from Productivity in 1973? An Investigation](https://ntguardian.wordpress.com/2016/09/12/wages-detach-productivity-1973/)
-
-+ [Some insights in soccer transfers using Market Basket Analysis](https://longhowlam.wordpress.com/2016/09/12/some-insights-in-soccer-transfers-using-market-basket-analysis/)
-
-![Some insights in soccer transfers using Market Basket Analysis](https://i0.wp.com/media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAkIAAAAJGNlZjQwZGJjLTA4YWItNGJmMi1iNGNlLTFhYzI2MjkyNDFjNQ.png)
-
-+ [Weapons of Math Destruction – A Data Scientist’s Guide to Disarmament](https://bayesianbiologist.com/2016/09/11/weapons-of-math-destruction-a-data-scientists-guide-to-disarmament/)
-
-+ [What is the cost of a progress bar in R?](http://peter.solymos.org/code/2016/09/11/what-is-the-cost-of-a-progress-bar-in-r.html)
-
-+ [cricketr sizes up legendary All-rounders of yesteryear](https://gigadom.wordpress.com/2016/09/10/cricketr-sizes-up-legendary-all-rounders-of-yesteryear/) - In this post I use my R package cricketr to analyze the performance of All-rounder greats namely Kapil Dev, Ian Botham, Imran Khan and Richard Hadlee.
-
-+ [Data Scientist with a wine hobby (Part I) - Exploring `rvest`](http://blog.eighty20.co.za//package%20exploration/2016/09/11/wine-review/)
-
-+ [No more excuses: R is better than SPSS for psychology undergrads, and students agree](https://datahowler.wordpress.com/2016/09/10/no-more-excuses-r-is-better-than-spss-for-psychology-undergrads-and-students-agree/)
 
 
 #### R in Organization
 
-+ [Building Deep Neural Networks in the Cloud with Azure GPU VMs, MXNet and Microsoft R Server](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
 
-+ [Data Science 101, now online](http://ekonometrics.blogspot.com/2016/09/data-science-101-now-online.html)
-
-+ [Volunteer to help improve R's documentation](http://blog.revolutionanalytics.com/2016/09/volunteer-to-help-improve-rs-documentation.html)
-
-+ [2016 Data Science Salary Survey results](http://blog.revolutionanalytics.com/2016/09/2016-data-science-salary-survey.html)
-
-+ [A predictive maintenance solution template with SQL Server R Services](http://blog.revolutionanalytics.com/2016/09/r-services-maintenance.html)
-
-+ [Reflections on EARL London 2016](http://blog.revolutionanalytics.com/2016/09/reflections-on-earl-london-2016.html)
-
-+ [Utilising Microsoft Data Science Virtual Machine DSVM for your labs](https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/09/09/utilising-microsoft-data-science-virtual-machine-dsvm-for-your-labs/)
-
-+ [Data visualization challenge at the first SatRdays conference](https://medium.com/@BenceArato/data-visualization-challenge-at-the-first-satrdays-conference-93b5446879f#.2jh5i78xo)
 
 #### R in Academia
 
-+ [Why scientists must share their research code](http://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504) - `Reproducibility editor` Victoria Stodden explains the growing movement to make code and data available to others.
 
 
 ## Video and Podcast
 
-+ [Easy, reproducible reports with R](https://www.oreilly.com/learning/easy-reproducible-reports-with-r)
-
-+ [NSSD 21: #1 Side Project](https://soundcloud.com/nssd-podcast/episode-22-1-side-project)
 
 ## Resources
 
-+ [Network visualization with R](http://kateto.net/network-visualization)
 
-+ [Commerce Data usability project](https://www.commerce.gov/datausability/)
 
 ## New Releases
 
-+ [Rattle 5.0.0 Alpha](http://togaware.com/rattle-5-0-0-a) - ggraptR and Microsoft R Support.
 
-+ [Shiny 0.14](https://blog.rstudio.org/2016/09/12/shiny-0-14/) - Bookmarkable state, notifications, progress indicators, modal windows and more.
-
-+ [tidyverse 1.0.0](https://blog.rstudio.org/2016/09/15/tidyverse-1-0-0/) - The tidyverse is a set of packages that work in harmony because they share common data representations and API design. 
-
-+ [DOM 0.2](https://www.stat.auckland.ac.nz/~paul/Reports/DOM/v0.2/DOM-v0.2.html) - 'DOM' package adds the ability to append SVG content to a web page.
-
-+ [OpenStreetMap 0.3.3](http://blog.fellstat.com/?p=394) - Access to Open Street Map Raster Images.
-
-+ [imager 0.30](https://dahtah.wordpress.com/2016/09/13/new-features-in-imager-0-30/) -  imager is an R package for image processing, based on CImg. 
-
-+ [stringdist 0.9.4.2](http://www.markvanderloo.eu/yaRb/2016/09/11/stringdist-0-9-4-2-released/) - Approximate String Matching and String Distance Functions.
-
-+ [Hunspell 2.0](http://ropensci.org/blog/technotes/2016/09/12/hunspell-release-20) - High-Performance Stemmer, Tokenizer, and Spell Checker for R.
-
-+ [lubridate 1.6.0](https://blog.rstudio.org/2016/09/15/lubridate-1-6-0/) - Make Dealing with Dates a Little Easier.
 
 ## New Packages & Tools
 
-+ [anytime 0.0.1](http://dirk.eddelbuettel.com/blog/2016/09/13/#anytime_0.0.1) - Anything to 'POSIXct' or 'Date' Converter.
 
-+ [shinyLP 1.0.0](https://cran.r-project.org/package=shinyLP) - Bootstrap landing home pages for *shiny* apps.
-
-+ [HIBPwned 0.1.3](http://itsalocke.com/hibpwned-updated-cran/) - Bindings for the 'HaveIBeenPwned.com' Data Breach API.
-
-+ [simputation](http://www.markvanderloo.eu/yaRb/2016/09/13/announcing-the-simputation-package-make-imputation-simple/) - Easy to use interfaces to a number of imputation methods.
-
-+ [ClusterR 1.0.1](https://mlampros.github.io/mlampros.github.io/2016/09/12/clusterR_package/) - Gaussian Mixture Models, K-Means, Mini-Batch-Kmeans and K-Medoids Clustering.
 
 ## R Project Updates
 
