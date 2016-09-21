@@ -1,9 +1,9 @@
 ---
 layout: draft
-title: Issue 17
+title: Issue 18
 ---
 
-Release Date: 2016-09-19
+Release Date: 2016-09-26
 
 Hello and welcome to the new issue of **R Weekly**!
 
