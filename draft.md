@@ -60,9 +60,8 @@ European R users meeting (eRum) is an international conference that aims at inte
 
 ## Quote of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This amuses me way too much... <a href="https://t.co/7dAWHWLMlX">pic.twitter.com/7dAWHWLMlX</a></p>&mdash; Thomas Pedersen (@thomasp85) <a href="https://twitter.com/thomasp85/status/775237679348842496">September 12, 2016</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">OH from the grad student office next to mine: “Oh, F*ck you, Excel!&quot;</p>&mdash; Amelia McNamara (@AmeliaMN) <a href="https://twitter.com/AmeliaMN/status/775749583158861824">September 13, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Speaking of failing R packages. WTF jsonlite!!! <a href="https://t.co/dPomlEAYWi">pic.twitter.com/dPomlEAYWi</a></p>&mdash; gregor aisch (@driven_by_data) <a href="https://twitter.com/driven_by_data/status/778334958930780161">September 20, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <p><small id="page_view">&nbsp;</small></p>
