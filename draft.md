@@ -47,6 +47,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 
 ## New Packages & Tools
+
 * [fundManageR](https://github.com/abresler/fundManageR) an investment management toolkit for R.
 
 
