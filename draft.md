@@ -16,22 +16,84 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
++ [Accessing the World Bank Data APIs in Python, R, Ruby & Stata](http://blogs.worldbank.org/opendata/accessing-world-bank-data-apis-python-r-ruby-stata)
+
++ [Introducing sparklyr, an R Interface for Apache Spark by Cloudera](http://blog.cloudera.com/blog/2016/09/introducing-sparklyr-an-r-interface-for-apache-spark/)
+
++ [ggplot2 2.2.0 coming soon!](https://blog.rstudio.org/2016/09/30/ggplot2-2-2-0-coming-soon/)
+
++ [Fitting a distribution in Stan from scratch](http://www.magesblog.com/2016/09/fitting-distribution-in-stan-from.html)
+
++ [Quick wordclouds from PubMed abstracts – using PMID lists in R](https://talesofr.wordpress.com/2016/09/26/quick-wordclouds-from-pubmed-abstracts-using-pmid-lists-in-r/)
+
+![Quick wordclouds from PubMed abstracts – using PMID lists in R](https://talesofr.files.wordpress.com/2016/09/wordcloud.png)
+
++ [Machine Learning for Drug Adverse Event Discovery](http://datascienceplus.com/machine-learning-for-drug-adverse-event-discovery/)
+
++ [Better Model Selection for Evolving Models](http://www.quintuitive.com/2016/09/25/better-model-selection-evolving-models/)
+
++ [FileTable and storing graphs from Microsoft R Server](https://tomaztsql.wordpress.com/2016/09/25/filetable-and-storing-graphs-from-microsoft-r-server/)
+
++ [Re-introducing Radiant: A shiny interface for R](http://vnijs.github.io/blog/2016/09/re-introducing-radiant.html)
+
++ [Windows 10 anniversary updates includes a whole Linux layer - this is good news for data scientists](https://realizationsinbiostatistics.blogspot.sg/2016/09/windows-10-anniversary-updates-includes.html)
+
++ [A primer on universal function approximation with deep learning (in Torch and R)](https://cartesianfaith.com/2016/09/23/a-primer-on-universal-function-approximation-with-deep-learning-in-torch-and-r/)
+
 
 
 #### R in Real World
 
++ [Accessing your Fitbit data](http://blog.haunschmid.name/accessing-fitbit-data/)
 
++ [R vs Python. Which one has higher demand on the job market? A short study](http://datascienceplus.com/goodreads-machine-learning-part-3/)
+
++ [Singing the Bayesian Beginner Blues](http://juliasilge.com/blog/Bayesian-Blues/)
+
+![Singing the Bayesian Beginner Blues](https://cdn.rawgit.com/juliasilge/juliasilge.github.io/6685ecaede31a8fceb34c8d113c5118aff59e5ba/figs/2016-09-28-Bayesian-Blues/unnamed-chunk-7-1.png)
+
++ [Song Lyrics Across the United States](http://juliasilge.com/blog/Song-Lyrics-Across/)
+
+![Song Lyrics Across the United States](https://cdn.rawgit.com/juliasilge/juliasilge.github.io/243d8e355f57cb9e00f708a8e8d616eb631b3f12/figs/2016-09-26-Song-Lyrics-Across/animate_map.gif)
+
++ [Hillary Clinton and her strategy to speak](https://benheubl.github.io/data%20analysis/strategy-to-speak/)
+
+![Hillary Clinton and her strategy to speak](https://benheubl.github.io/images/strategy-to-speak/plots/Rplot04.jpeg)
+
++ [Using R to detect fraud at 1 million transactions per second](http://blog.revolutionanalytics.com/2016/09/fraud-detection.html)
+
++ [The Simpsons by the Data](http://toddwschneider.com/posts/the-simpsons-by-the-data/)
+
+![The Simpsons by the Data](https://cdn.rawgit.com/toddwschneider/flim-springfield/227b672323a72a12f702e80995ce788d0dff28e0/analysis/graphs/03_bart_simpson.png)
+
+
++ [When Trump visits... tweets from his trip to Mexico](http://enelmargen.org/datascience/trump-mextweets/)
+
+![When Trump visits... tweets from his trip to Mexico](https://cdn.rawgit.com/Eflores89/Eflores89.github.io/e6ae5dd9dca4e0ceebce9424e675cc44d03b6ca1/images/posts/trump_mex_plot1.png)
+
++ [Surveillance Out of the Box - The #Zombie Experiment](http://staff.math.su.se/hoehle/blog/2016/09/25/sootb.html) - We perform a social experiment to investigate, if zombie related twitter posts can be used as a reliable indicator for an early warning system. 
+
++ [Berlin-Marathon 2016 – So schnell läuft Ihre Stadt](http://interaktiv.morgenpost.de/berlin-marathon-2016/)
+
+![Berlin-Marathon 2016](https://cdn.rawgit.com/rweekly/image/master/2016-10-03/berlin.gif)
+
++ [GoodReads: Machine Learning (Part 3)](http://datascienceplus.com/goodreads-machine-learning-part-3/)
 
 #### R in Organization
 
++ [Watch: Highlights of the Microsoft Data Science Summit](https://www.r-bloggers.com/watch-highlights-of-the-microsoft-data-science-summit/)
 
++ [The Financial Times uses R for Quantitative Journalism](http://blog.revolutionanalytics.com/2016/09/financial-times-quantitative-journalism.html)
+
++ [Warsaw R Enthusiast Meetups Season Finale](http://r-addict.com/2016/09/28/Warsaw-RMeetups-Summary.html)
+
++ [EARL London 2016 revisited – Day 1](http://www.mango-solutions.com/wp/2016/09/earl-london-2016-revisited-day-1/)
+
++ [EARL London 2016 revisited – Day 2](http://www.mango-solutions.com/wp/2016/09/earl-london-2016-revisited-day-2/)
+
++ [All the R Ladies](http://blog.revolutionanalytics.com/2016/09/all-the-r-ladies.html)
 
 #### R in Academia
-
-
-
-## Jobs
-
 
 
 ## Video and Podcast
@@ -40,16 +102,30 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## Resources
 
++ [Book - plotly for R](https://cpsievert.github.io/plotly_book/)
 
++ [Book - Tidy Text Mining with R](http://tidytextmining.com/index.html)
 
 ## New Releases
 
++ [sparklyr 0.4](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/) - R interface for Apache Spark, now on CRAN.
 
++ [plotly 4.0](http://moderndata.plot.ly/upgrading-to-plotly-4-0-and-above/) - Create interactive web graphics via the open source JavaScript graphing library plotly.js.
+
++ [RcppCNPy 0.2.6](http://dirk.eddelbuettel.com/blog/2016/09/28#rcppcnpy_0.2.6) - RcppCNPy provides R with read and write access to NumPy files.
+
++ [gcbd 0.2.6](http://dirk.eddelbuettel.com/blog/2016/09/28#gcbd_0.2.6) - The gcbd proposes a benchmarking framework for LAPACK and BLAS operations and records result in local database. 
+
++ [sjmisc 2.0.0](https://strengejacke.wordpress.com/2016/09/27/tagged-na-values-and-labelled-data-rstats/) - Tagged NA values and labelled data.
 
 ## New Packages & Tools
 
-* [fundManageR](https://github.com/abresler/fundManageR) an investment management toolkit for R.
++ [fundManageR](https://github.com/abresler/fundManageR) - an investment management toolkit for R.
 
++ [BiclustGUI](https://ewouddt.github.io/RcmdrPlugin.BiclustGUI/2016/09/27/biclustGUI/) - This GUI will you enable to quickly try out a wide arrange of biclustering algorithms and produce some helpfull graphs in order to explore your data. 
+
+
++ [tensorflow](https://rstudio.github.io/tensorflow/) - Using TensorFlow with R.
 
 
 ## R Project Updates
@@ -66,5 +142,8 @@ European R users meeting (eRum) is an international conference that aims at inte
 
 ## Quote of the Week
 
+<blockquote class="twitter-tweet" data-lang="zh-cn"><p lang="en" dir="ltr">I really enjoyed the <a href="https://twitter.com/hashtag/Rstats?src=hash">#Rstats</a> meetup last night. Hadley says he&#39;s going to do so many packages. Why hasn&#39;t he done them in the last 30 years?</p>&mdash; Donald Trump, PhD (@ScientistTrump) <a href="https://twitter.com/ScientistTrump/status/780936239964753920">2016年9月28日</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="zh-cn"><p lang="en" dir="ltr">You can include mathematical equations in R charts. Cheat sheet of math symbols you can use: <a href="https://t.co/YnyGgQltmw">https://t.co/YnyGgQltmw</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; One R Tip a Day (@RLangTip) <a href="https://twitter.com/RLangTip/status/781523954024390656">2016年9月29日</a></blockquote>
 
 <p><small id="page_view">&nbsp;</small></p>
