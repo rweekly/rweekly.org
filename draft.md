@@ -43,7 +43,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## New Packages & Tools
 
++ [Align Assign: RStudio addin to align assignment operators](https://protocolvital.info/2016/10/07/align-assign-rstudio-addin-to-align-assignment-operators/)
 
+![A quick demo](https://raw.githubusercontent.com/seasmith/AlignAssign/master/inst/media/demo2.gif)
 
 ## R Project Updates
 
