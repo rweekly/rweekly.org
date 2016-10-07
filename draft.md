@@ -16,6 +16,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
+- [Text mining with text2vec](http://text2vec.org)
 
 
 #### R in Real World
@@ -39,6 +40,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## New Releases
 
+- [text2vec 0.4](http://dsnotes.com/articles/text2vec-0-4) - Modern Text Mining Framework for R - fast vectorization, topic modeling, word embeddings and more.
 
 
 ## New Packages & Tools
