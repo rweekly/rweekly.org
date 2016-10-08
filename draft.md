@@ -117,6 +117,10 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [mafs](https://github.com/sillasgonzaga/mafs) -  Multiple Automatic Forecast Selection.
 
++ [Align Assign: RStudio addin to align assignment operators](https://protocolvital.info/2016/10/07/align-assign-rstudio-addin-to-align-assignment-operators/)
+
+![A quick demo](https://raw.githubusercontent.com/seasmith/AlignAssign/master/inst/media/demo2.gif)
+
 ## R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
