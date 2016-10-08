@@ -16,6 +16,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
++ [Text mining with text2vec](http://text2vec.org)
+
 + [Correlation matrix : A quick start guide to analyze, format and visualize a correlation matrix using R software](http://www.sthda.com/english/wiki/correlation-matrix-a-quick-start-guide-to-analyze-format-and-visualize-a-correlation-matrix-using-r-software)
 
 + [Hitchhiker's Guide to Data Science, Machine Learning, R, Python](http://www.hadoop360.com/blog/hitchhiker-s-guide-to-data-science-machine-learning-r-python)
@@ -93,14 +95,13 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [tint 0.0.2](http://dirk.eddelbuettel.com/blog/2016/10/07#tint_0.0.2) - A 'tufte'-alike style for 'rmarkdown'.
 
-+ [text2vec 0.4](http://dsnotes.com//articles/text2vec-0-4) - An efficient framework with a concise API for text analysis and natural language processing.
+- [text2vec 0.4](http://dsnotes.com/articles/text2vec-0-4) - Modern Text Mining Framework for R - fast vectorization, topic modeling, word embeddings and more.
 
 + [haven 1.0.0](https://blog.rstudio.org/2016/10/04/haven-1-0-0/) - Haven is designed to faciliate the transfer of data between R and SAS, SPSS, and Stata.
 
 + [RcppGSL 0.3.1](http://dirk.eddelbuettel.com/blog/2016/10/04#rcppgsl_0.3.1) - RcppGSL provides an interface from R to the vector and matrix classes of the GNU GSL.
 
 + [SpaDES 1.3.1](http://predictiveecology.org/2016/10/07/SpaDES-v1.3.1-now-on-CRAN.html) - Develop and run spatially explicit discrete event simulation models.
-
 
 ## New Packages & Tools
 
