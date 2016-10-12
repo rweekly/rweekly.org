@@ -15,7 +15,7 @@ If you are not accepted at first, please do not be discouraged. Create some pull
 
 ### Pull Requests
 
-Update the [draft](https://github.com/rweekly/rweekly.org/blob/gh-pages/README.md) post, and create a pull request.
+Update the [draft](https://github.com/rweekly/rweekly.org/blob/gh-pages/draft.md) post, and create a pull request.
 
 ### Communication
 
