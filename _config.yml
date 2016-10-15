@@ -35,7 +35,7 @@ gems:
   - jekyll-seo-tag
 
 pages_list:       
-  About: '/about'
-  Archive: '/archive'
+  About: '/about.html'
+  Archive: '/archive.html'
   Feed: '/atom.xml'
-  Draft: '/draft'
+  Draft: '/draft.html'
