@@ -40,7 +40,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Mapping (historic) tracks in ggplot2](spatial.ly/2016/10/mapping-historic-tracks-ggplot2/)
 
-![Mapping (historic) tracks in ggplot2](http://i2.wp.com/spatial.ly/wp-content/uploads/2012/03/Spain_shipping.png)
+![Mapping (historic) tracks in ggplot2](https://i2.wp.com/spatial.ly/wp-content/uploads/2012/03/Spain_shipping.png)
 
 + [Streamline your analyses linking R to SAS: the workfloweR experiment](http://datascienceplus.com/streamline-your-analyses-linking-r-to-sas/)
 
