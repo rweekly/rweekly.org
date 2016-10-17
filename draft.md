@@ -18,7 +18,6 @@ Hello and welcome to the new issue of **R Weekly**!
 
 
 
-
 #### R in Real World
 
 
