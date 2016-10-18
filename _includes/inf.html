@@ -12,7 +12,7 @@ $('.content').jscroll({
     contentSelector: '#posts-content',
     nextSelector: '#next-page',
     loadingFunction: function(){
-      var new_page = $('#next-page')[0].href.replace(/(https:\/\/)|(http:\/\/)/, '');
+      var new_page = $('#next-page')[0].href.replace(/(https:\/\/)|(http:\/\/)|(\/index.html)/g, '');
       var xhr = new XMLHttpRequest();
       xhr.open("GET","https://page.rweekly.org/?page="+ new_page);
       xhr.send();
