@@ -6,6 +6,7 @@ title:               RWeekly.org
 url:                 https://rweekly.org
 paginate:            1
 baseurl:             ""
+nav-baseurl:         "https://rweekly.org"
 ampdir: amp
 
 # Assets
