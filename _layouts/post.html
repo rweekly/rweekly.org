@@ -2,11 +2,24 @@
 layout: default
 ---
 
-<article class="post">
+<article id='posts-content' class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
   {{ content }}
   <p><small id="page_view">&nbsp;</small></p>
+  <div class="pagination">
+  {% if page.previous.url %}
+  
+  <a id="next-page" class="pagination-item older" href="{{ page.previous.url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="pagination-item newer" href="{{  page.next.url  }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+  </div>
 </article>
 
 {% if site.related_posts != empty %}
@@ -25,4 +38,4 @@ layout: default
 </aside>
 {% endif %}
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% include inf.html %}

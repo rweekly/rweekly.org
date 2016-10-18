@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
+<div id="posts-content" class="posts">
   {% for post in paginator.posts %}
   <article class="post">
     <h1 class="post-title">
@@ -18,11 +18,10 @@ title: Home
     <p><small id="page_view">&nbsp;</small></p>
   </article>
   {% endfor %}
-</div>
 
-<div class="pagination">
+  <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+    <a id="next-page" class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
@@ -31,6 +30,7 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
+  </div>
 </div>
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% include inf.html %}

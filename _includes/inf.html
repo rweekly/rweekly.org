@@ -1,0 +1,21 @@
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jscroll/2.3.5/jquery.jscroll.min.js"></script>
+
+<script type="text/javascript">
+// content selector is used to extract the additional items 
+var repat = new RegExp("https?://");
+$('.content').jscroll({
+    contentSelector: '#posts-content',
+    nextSelector: '#next-page',
+    loadingFunction: function(){
+      var new_page = $('#next-page')[0].href.replace(/(https:\/\/)|(http:\/\/)/, '');
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET","https://page.rweekly.org/?page="+ new_page);
+      xhr.send();
+    }
+});
+</script>
