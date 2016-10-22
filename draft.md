@@ -112,7 +112,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## Video and Podcast
 
++ [Hadley Wickham "Data Science with R at Reed College](https://www.youtube.com/watch?v=K-ss_ag2k9E&feature=youtu.be)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-ss_ag2k9E" frameborder="0" allowfullscreen></iframe>
 
 ## Resources
 
