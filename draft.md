@@ -60,9 +60,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Is Unemployment Higher under Labour or the Conservatives?](http://rforjournalists.com/2016/10/17/is-unemployment-higher-under-labour-or-the-conservatives/) - This post has covered using rectangles as annotations to show the British unemployment rate under different political parties, plus how to use breaks in your axes scaling.
 
-![Is Unemployment Higher under Labour or the Conservatives?](http://i2.wp.com/rforjournalists.com/wp-content/uploads/2016/10/unemployment2.png)
+![Is Unemployment Higher under Labour or the Conservatives?](https://i2.wp.com/rforjournalists.com/wp-content/uploads/2016/10/unemployment2.png)
 
-+ [The History of Strikes in Britain, Told Using Line Plots and Annotations](rforjournalists.com/2016/10/17/is-unemployment-higher-under-labour-or-the-conservatives/)
++ [The History of Strikes in Britain, Told Using Line Plots and Annotations](http://rforjournalists.com/2016/10/17/is-unemployment-higher-under-labour-or-the-conservatives/)
 
 + [Exploring the effects of healthcare investment on child mortality in R](http://drsimonj.svbtle.com/exploring-a-causal-relation-between-healthcare-investment-and-child-mortality-in-r)
 
