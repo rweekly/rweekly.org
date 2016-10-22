@@ -127,13 +127,13 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [anytime 0.0.4](http://dirk.eddelbuettel.com/blog/2016/10/20#anytime_0.0.4) - Convert Any Input to Parsed Date or Datetime
 
++ [gettz 0.0.2](http://dirk.eddelbuettel.com/blog/2016/10/17#gettz_0.0.2) - `gettz` provides a possible fallback in situations where Sys.timezone() fails to determine the system timezone.
+
 ## New Packages & Tools
 
 + [August Package Picks by Joseph Rickert](https://www.rstudio.com/2016/10/21/august-package-picks/) - 141 new packages landed on CRAN in August. The following are my picks for the most interesting packages in four categories.
 
 + [gpg](https://cran.r-project.org/web/packages/gpg/index.html) - Encryption and Digital Signatures in R using GPG.
-
-+ [gettz 0.0.2](http://dirk.eddelbuettel.com/blog/2016/10/17#gettz_0.0.2) - `gettz` provides a possible fallback in situations where Sys.timezone() fails to determine the system timezone.
 
 ## Upcoming Events
 
