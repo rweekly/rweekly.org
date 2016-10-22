@@ -16,7 +16,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
-
++ [RStudio in the Cloud II: Syncing Code & Data with AWS](http://strimas.com/r/rstudio-cloud-2/): a continuation of [a previous post](http://strimas.com/r/rstudio-cloud-1/) on setting up RStudio in the cloud on Amazon Web Services. This tutorial demonstrates transferring data and code to/from the cloud with GitHub and S3.
 
 #### R in Real World
 
