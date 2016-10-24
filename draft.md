@@ -1,9 +1,9 @@
 ---
 layout: draft
-title: Issue 22
+title: Issue 23
 ---
 
-Release Date: 2016-10-24
+Release Date: 2016-10-31
 
 Hello and welcome to the new issue of **R Weekly**!
 
@@ -16,132 +16,54 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
-+ [RStudio in the Cloud II: Syncing Code & Data with AWS](http://strimas.com/r/rstudio-cloud-2/): a continuation of [a previous post](http://strimas.com/r/rstudio-cloud-1/) on setting up RStudio in the cloud on Amazon Web Services. This tutorial demonstrates transferring data and code to/from the cloud with GitHub and S3.
 
-+ [Running sparklyr – RStudio’s R Interface to Spark on Amazon EMR](https://aws.amazon.com/cn/blogs/big-data/running-sparklyr-rstudios-r-interface-to-spark-on-amazon-emr/)
 
-![Running sparklyr – RStudio’s R Interface to Spark on Amazon EMR](https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2016/10/17/sparklyr_2.gif)
-
-+ [Rmarkdown in a scientific workflow](http://predictiveecology.org/2016/10/21/Rmarkdown-science-workflow.html) - Using Rmarkdown with Rstudio and for all stages of my scientific projects has been a remarkable shift in how my work gets done! 
-
-+ [Combing R and Java](https://datadidit.com/2016/10/15/combing-r-and-java/)
-
-+ [The new R Graph Gallery](https://www.r-bloggers.com/author/david-smith/)
-
-+ [Why I would rather use ReporteRs than RMarkdown](http://www.mango-solutions.com/wp/2016/10/why-i-would-rather-use-reporters-than-rmarkdown/)
-
-+ [Visualizing ROC Curves in R using Plotly](http://moderndata.plot.ly/visualizing-roc-curves-in-r-using-plotly/)
-
-+ [The Grammar of Graphics and Radar Charts](http://www.r-chart.com/2016/10/the-grammar-of-graphics-and-radar-charts.html)
-
-![The Grammar of Graphics and Radar Charts](https://i0.wp.com/2.bp.blogspot.com/-MwCucP8iX-A/WAJJF7vSj2I/AAAAAAAAAzg/P9N4U4gEMag2ml5NvGfxCvn_sYDzbcBJACEw/s640/polar_finished.png)
-
-+ [The Worlds Economic Data, Shiny Apps and all you want to know about Propensity Score Matching!](http://r-exercises.com/2016/10/21/the-worlds-economic-data-shiny-apps-and-all-you-want-to-know-about-propensity-score-matching/)
-
-+ [Creating Interactive Plots with R and Highcharts](https://www.rstudio.com/2016/10/19/creating-interactive-plots-with-r-and-highcharts/)
-
-+ [Using the pipe operator in R with Plotly](http://moderndata.plot.ly/using-the-pipe-operator-in-r-with-plotly/)
-
-+ [Deep learning in the cloud with MXNet](http://rsnippets.blogspot.com/2016/10/deep-learning-in-cloud-with-mxnet.html)
-
-+ [Raccoon Ch. 1 – Introduction to Linear Models with R](http://www.quantide.com/raccoon-ch-1-introduction-to-linear-models-with-r/)
-
-+ [Annotated Facets with ggplot2](https://statbandit.wordpress.com/2016/10/20/annotated-facets-with-ggplot2/)
-
-+ [On the ifelse function](https://privefl.github.io/blog/On-the-ifelse-function/)
-
-+ [Progress bar overhead comparisons](http://peter.solymos.org/code/2016/10/15/progress-bar-overhead-comparisons.html)
-
-![Progress bar overhead comparisons](https://i2.wp.com/peter.solymos.org/images/2016/10/15/pb-overhead.png)
-
-+ [Statistical Reading Rainbow](https://mathewanalytics.com/2016/10/17/statistical-reading-rainbow/)
-
-#### R in Real World
-
-+ [Is Unemployment Higher under Labour or the Conservatives?](http://rforjournalists.com/2016/10/17/is-unemployment-higher-under-labour-or-the-conservatives/) - This post has covered using rectangles as annotations to show the British unemployment rate under different political parties, plus how to use breaks in your axes scaling.
-
-![Is Unemployment Higher under Labour or the Conservatives?](https://i2.wp.com/rforjournalists.com/wp-content/uploads/2016/10/unemployment2.png)
-
-+ [The History of Strikes in Britain, Told Using Line Plots and Annotations](http://rforjournalists.com/2016/10/17/is-unemployment-higher-under-labour-or-the-conservatives/)
-
-+ [Exploring the effects of healthcare investment on child mortality in R](http://drsimonj.svbtle.com/exploring-a-causal-relation-between-healthcare-investment-and-child-mortality-in-r)
-
-![Exploring the effects of healthcare investment on child mortality in R](https://i0.wp.com/svbtleusercontent.com/n1yn7f9gjs8gua.png)
-
-+ [The 'deadly board game' puzzle: efficient simulation in R](http://varianceexplained.org/r/board-game-simulation/)
-
-+ [Rcpp now used by 800 CRAN packages](http://dirk.eddelbuettel.com/blog/2016/10/16#rcpp_800_packages)
-
-![Rcpp now used by 800 CRAN packages](https://i1.wp.com/dirk.eddelbuettel.com/blog/code/rcpp/RcppGrowth_2016-10-16.png)
-
-+ [How to “get good at R”](http://www.arilamstein.com/blog/2016/10/18/get-good-r/)
-
-+ [Election 2016: Tracking Emotions with R and Python](http://blog.revolutionanalytics.com/2016/10/debate-emotions.html) 
-
-+ [Don’t buy a brand new Porsche 911 or Audi Q7!!](https://longhowlam.wordpress.com/2016/10/19/dont-buy-a-brand-new-porsche-911-or-audi-q7/) - Many people know that nasty feeling when buying a brand new car. The minute that you have left the dealer, your car has lost a substantial amount of value. Unfortunately this depreciation is inevitable, however, the amount depends heavily on the car make and model.
-
-+ [Estimating the value of a vehicle with R](http://blog.revolutionanalytics.com/2016/10/car-valuation.html)
-
-![Estimating the value of a vehicle with R](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b8d228f412970c-pi)
-
-+ [How long do I have to survive without cake?](http://www.mango-solutions.com/wp/2016/10/how-long-do-i-have-to-survive-without-cake/) - A more fun example of survival analysis is to consider the time in between someone bringing cake to work.
-
-+ [Tourism forecasting competition data in the Tcomp R package](http://ellisp.github.io/blog/2016/10/19/Tcomp) - A new R package `Tcomp` makes data from the 2010 tourism forecasting competition available in a format designed to facilitate the fitting and testing of en masse automated forecasts, consistent with the M1 and M3 forecasting competition data in the `Mcomp` R package. 
 
 #### R in Organization
 
-+ [Notes from the Kölner R meeting, 14 October 2016](http://www.magesblog.com/2016/10/notes-from-kolner-r-meeting-14-october.html)
 
-+ [Call for rstudio::conf lightning talks](https://blog.rstudio.org/2016/10/18/call-for-rstudioconf-lightning-talks/)
 
-+ [Warsaw R-Ladies](http://r-addict.com/2016/10/21/Warsaw-RLadies-01.html)
 
-![Warsaw R-Ladies](https://i1.wp.com/r-addict.com/images/fulls/rladies1.JPG)
-
-+ [The Team Data Science Process](http://blog.revolutionanalytics.com/2016/10/the-team-data-science-process.html) - As more and more organizations are setting up teams of data scientists to make sense of the massive amounts of data they collect, the need grows for a standardized process for managing the work of those teams. 
-
-![The Team Data Science Process](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0945bf4d970d-pi)
 
 #### R in Academia
 
-+ [Paper published: mlr – Machine Learning in R](https://www.r-bloggers.com/paper-published-mlr-machine-learning-in-r/)
+
+
 
 ## Jobs
 
-+ [6 new jobs for R users – from around the world (2016-10-19)](https://www.r-bloggers.com/6-new-jobs-for-r-users-from-around-the-world-2016-10-19/)
+
 
 ## Video and Podcast
 
-+ [Hadley Wickham "Data Science with R at Reed College](https://www.youtube.com/watch?v=K-ss_ag2k9E&feature=youtu.be)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K-ss_ag2k9E" frameborder="0" allowfullscreen></iframe>
+
 
 ## Resources
 
-+ [How to write a useful htmlwidgets in R: tips and walk-through a real example](http://deanattali.com/blog/htmlwidgets-tips/) - I’d like to share some tips and recommendations on building htmlwidgets, based on my own learning experience while creating timevis.
+
+
 
 
 ## New Releases
 
-+ [R Tools for Visual Studio 0.5](http://blog.revolutionanalytics.com/2016/10/rtvs-05-now-available.html) - the open-source Visual Studio add-in for R programmers.
 
-+ [DOM 0.3](http://stattech.wordpress.fos.auckland.ac.nz/2016-13-dom-version-0-3/) - This version represents a major refactoring of the package code, including its user-facing API.
 
-+ [anytime 0.0.4](http://dirk.eddelbuettel.com/blog/2016/10/20#anytime_0.0.4) - Convert Any Input to Parsed Date or Datetime
-
-+ [gettz 0.0.2](http://dirk.eddelbuettel.com/blog/2016/10/17#gettz_0.0.2) - `gettz` provides a possible fallback in situations where Sys.timezone() fails to determine the system timezone.
 
 ## New Packages & Tools
 
-+ [August Package Picks by Joseph Rickert](https://www.rstudio.com/2016/10/21/august-package-picks/) - 141 new packages landed on CRAN in August. The following are my picks for the most interesting packages in four categories.
 
-+ [gpg](https://cran.r-project.org/web/packages/gpg/index.html) - Encryption and Digital Signatures in R using GPG.
+
+## R Project Updates
+
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
+
+
 
 ## Upcoming Events
 
-+ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 13 and 14, 2017** <br>
-The conference about all things R and RStudio.<br /> 
+
 
 ## Quote of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reshaping data with tidyr explained in one slide. <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://twitter.com/hashtag/datawrangling?src=hash">#datawrangling</a> <a href="https://t.co/LKezMCotKS">pic.twitter.com/LKezMCotKS</a></p>&mdash; Frederik Aust (@FrederikAust) <a href="https://twitter.com/FrederikAust/status/789101346595151872"></a></blockquote>
+
