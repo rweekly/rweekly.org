@@ -16,28 +16,86 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
++ [How to use the Apply function in R](http://crained.com/796/how-to-use-the-apply-function-in-r/)
 
++ [Advanced Analytics with Power BI Embedded and R](https://powerbi.microsoft.com/en-us/blog/r-in-pbie/)
 
+![Advanced Analytics with Power BI Embedded and R](https://powerbicdn.azureedge.net/mediahandler/blog/media/PowerBI/blog/6d4730a1-4b6f-4686-b3ba-fbb368261d91.png)
+
++ [Tidy Text Mining with R](http://juliasilge.com/blog/Tidy-Text-Mining/) - Tidy Text Mining with R.
+
++ [A quick exploration of the ReporteRs package](https://statbandit.wordpress.com/2016/10/28/a-quick-exploration-of-reporters/)
+
++ [ReporteRs: Manager-friendly Word or Powerpoint documents created with R](http://blog.revolutionanalytics.com/2016/10/reporters.html)
+
++ [News from archivist 2.0 on eRum2016 conference](http://r-addict.com/2016/10/26/archivist-on-eRum2016.html)
+
++ [Plotting individual observations and group means with ggplot2](https://drsimonj.svbtle.com/plotting-individual-observations-and-group-means-with-ggplot2)
+
++ [facet_plot: a general solution to associate data with phylogenetic tree](https://guangchuangyu.github.io/2016/10/facet_plot-a-general-solution-to-associate-data-with-phylogenetic-tree/)
+
+![facet_plot: a general solution to associate data with phylogenetic tree](https://guangchuangyu.github.io/blog_images/Bioconductor/ggtree/facet_plot_boxplot2.png)
+
++ [Better Confidence Intervals for Quantiles](http://staff.math.su.se/hoehle/blog/2016/10/23/quantileCI.html) - We discuss the computation of confidence intervals for the median or any other quantile in R. 
+
++ [A quick look at RStudio’s R notebooks](http://www.win-vector.com/blog/2016/10/a-quick-look-at-rstudios-r-notebooks/)
+
++ [Set Application Domain Name with Shiny Server](https://www.r-statistics.com/2016/10/set-application-domain-name-with-shiny-server/)
+
++ [A new data processing workflow for R: dplyr, magrittr, tidyr, ggplot2 (2015)](http://zevross.com/blog/2015/01/13/a-new-data-processing-workflow-for-r-dplyr-magrittr-tidyr-ggplot2/)
+
+#### R in Real World
+
++ [How Taking the Bus Is A London Thing](http://rforjournalists.com/2016/10/23/how-taking-the-bus-is-a-london-thing/)
+
++ [Londoners Take the Bus Far More Often Than the Rest of England (Adjusted for Population)](http://rforjournalists.com/2016/10/24/londoners-take-bus-more-often-adjusted/)
+
++ [Asylum Seekers Are Usually Housed Away from London and the South East (Unless They Are Unaccompanied Children)](http://rforjournalists.com/2016/10/27/asylum-housing-london-south-east-children/)
+
++ [Election 2016: Tracking Emotions with R and Python](http://blog.revolutionanalytics.com/2016/10/debate-emotions.html)
+
++ [FiveThirtyEight's polling data for the US Presidential election](https://ellisp.github.io/blog/2016/10/29/538-pollsters)
+
+![FiveThirtyEight's polling data for the US Presidential election](https://ellisp.github.io/img/0062-pollsters-cloud.svg)
+
++ [Comparing Symmetric Eigenvalue Performance](https://wrathematics.github.io/2016/10/28/comparing-symmetric-eigenvalue-performance/)
+
+![Comparing Symmetric Eigenvalue Performance](https://wrathematics.github.io/assets/2016-eigen/eig_bench2.png)
+
++ [Book Review: Computer Age Statistical Inference](https://www.rstudio.com/rviews/2016/10/28/book-review-computer-age-statistical-inference/)
+
++ [How long until an R portfolio makes money?](http://www.arilamstein.com/blog/2016/10/26/long-r-portfolio-makes-money/)
+
++ [Sharing our R Programs — With Style](http://blog.revolutionanalytics.com/2016/10/sharing-r-code-with-style.html)
+
++ [Data science for executives and managers](http://www.win-vector.com/blog/2016/10/data-science-for-executives-and-managers/)
+
++ [Digital Transformation - a German perspective](https://flovv.github.io/Digital_Transformation/)
+
++ [Is Hillary Clinton a Progressive? An Investigation Using Statistical Methods ](https://ntguardian.wordpress.com/2016/10/25/hillary-clinton-progressive-statistics/)
+
+![Is Hillary Clinton a Progressive? An Investigation Using Statistical Methods ](https://ntguardian.files.wordpress.com/2016/10/awsbks7ncfgfaaaaaelftksuqmcc.png)
 
 #### R in Organization
 
++ [Scaling the Heights of Data Science - rOpenSci moves mountains of data to transform environmental research
+](https://nature.berkeley.edu/breakthroughs/opensci-data)
 
++ [Free e-book: Data Science with SQL Server 2016](http://blog.revolutionanalytics.com/2016/10/data-science-with-sql-server-2016.html)
 
++ [Introducing R-hub, the R package builder service](http://blog.revolutionanalytics.com/2016/10/r-hub-public-beta.html)
 
++ [satRday Cape Town: Call for Submissions](http://www.exegetic.biz/blog/2016/10/satrday-cape-town-call-submissions/) - 18 February 2017 at Workshop 17, Victoria & Alfred Waterfront, Cape Town, South Africa.
 
 #### R in Academia
 
 
 
-
-## Jobs
-
-
-
 ## Video and Podcast
 
++ [NSSD 25: How Exactly Do You Pronounce SQL?](https://soundcloud.com/nssd-podcast/episode-25-how-exactly-do-you-pronounce-sql) - Go through the overflowing mailbag to respond to listener questions. Topics include causal inference in trend modeling, regression model selection, using SQL, and data science certification.
 
-
++ [R-hub, the R package-building service](https://www.r-consortium.org/events/2016/10/11/r-hub-public-beta)
 
 ## Resources
 
@@ -47,12 +105,23 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## New Releases
 
++ [future 1.1.1](http://www.jottr.org/2016/10/remote-processing-using-futures.html) - Remote Processing Using Futures.
 
++ [simmer 3.5.0](http://fishyoperations.com/2016/10/27/simmer-v350-released-on-cran.html) - simmer is a process-oriented and trajectory-based Discrete-Event Simulation (DES) package for R. Designed to be a generic framework like SimPy or SimJulia.
 
++ [Rblpapi 0.3.5](http://dirk.eddelbuettel.com/blog/2016/10/25/#rblpapi_0.3.5) - Rblpapi provides a direct interface between R and the Bloomberg Terminal via the C++ API provided by Bloomberg Labs.
+
++ [RcppArmadillo 0.7.500.0.0](http://dirk.eddelbuettel.com/blog/2016/10/22/#rcpparmadillo_0.7.500.0.0) - RcppArmadillo integrates this library with the R environment and language--and is widely used by (currently) 274 other packages on CRAN.
 
 ## New Packages & Tools
 
++ [September Package Picks](https://www.rstudio.com/rviews/2016/10/26/september-package-picks/)
 
++ [JMbayes](https://iprogn.blogspot.sg/2016/10/multivariate-joint-models-for-multiple.html) - Multivariate Joint Models for Multiple Longitudinal Outcomes and a Time-to-Event.
+
++ [rsparkling](http://spark.rstudio.com/h2o.html) - Sparkling Water (H2O) Machine Learning. This package provides bindings to H2O’s distributed machine learning algorithms via sparklyr.
+
++ [tilegramsR](https://github.com/bhaskarvk/tilegramsR) - R wrapper for Tilegrams.
 
 ## R Project Updates
 
@@ -62,8 +131,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
 ## Upcoming Events
 
++ [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 13 and 14, 2017** <br>
+The conference about all things R and RStudio.<br /> 
 
 
 ## Quote of the Week
 
-
+<blockquote class="twitter-tweet" data-lang="zh-cn"><p lang="en" dir="ltr">&quot;It&#39;s easier to make an error if I am not using Rcpp&quot;<br>-- <a href="https://twitter.com/GaborCsardi">@GaborCsardi</a> , right now in the (wicked) R Hub presentation</p>&mdash; Dirk Eddelbuettel (@eddelbuettel) <a href="https://twitter.com/eddelbuettel/status/790953188287393792">2016年10月25日</a></blockquote>
