@@ -39,7 +39,8 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    text-decoration: underline;
+    // text-decoration: underline;
+    border-bottom: 1px dotted #ddd;
   }
 
   strong {
