@@ -19,8 +19,21 @@ Hello and welcome to the new issue of **R Weekly**!
 
 
 #### R in Real World
+[R from the future](http://lionel-.github.io/2016/02/15/ideas-for-an-updated-r-syntax/) - RStudio's Lionel Henry gives his ideas for the future of R syntax
 
+```r
+test_that("new syntax works") {
 
+   data <- list(mtcars, 1, 2, list(3, mtcars, 4))
+   expected <- lapply(data, function(x) is.list(x) || is.double(x))
+
+   mtcars |>
+     [1, 2, [3, _, 4]] |>
+     map([x] -> is.list(x) || is.double(x)) |>
+     check_equal(expected)
+
+ }
+```
 
 
 #### R in Organization
