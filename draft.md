@@ -151,6 +151,8 @@ NIMBLE package for hierarchical modeling (MCMC and more) faster and more flexibl
 
 ![foghorn](https://pbs.twimg.com/media/CwNZ06XWgAUtqaK.jpg)
 
++ [rgeoapi](https://cran.r-project.org/web/packages/rgeoapi/) - a package to access the French GeoAPI, now on CRAN.
+
 ## R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
