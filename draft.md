@@ -42,7 +42,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### R in Real World
 
-+ [R from the future](http://lionel-.github.io/2016/02/15/ideas-for-an-updated-r-syntax/) - RStudio's Lionel Henry gives his ideas for the future of R syntax
++ [R from the future](https://lionel-.github.io/2016/02/15/ideas-for-an-updated-r-syntax/index.html) - RStudio's Lionel Henry gives his ideas for the future of R syntax
 
 ```r
 test_that("new syntax works") {
