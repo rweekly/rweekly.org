@@ -2,12 +2,13 @@
 permalink:           /:title.html
 
 # Setup
-title:               RWeekly.org
+title:               RWeekly.org - Weekly Updates from the R Community
 url:                 https://rweekly.org
 paginate:            1
 baseurl:             ""
 nav-baseurl:         "https://rweekly.org"
 ampdir: amp
+description: Get the latest updates and blog posts about the statistical programming R language.
 
 # Assets
 #
