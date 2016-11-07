@@ -39,7 +39,7 @@ gems:
 
 pages_list:       
   About: '/about.html'
-  Random: '/Random.html'
+  Random: '/random.html'
   Archive: '/archive.html'
   Feed: '/atom.xml'
   Draft: '/draft.html'
