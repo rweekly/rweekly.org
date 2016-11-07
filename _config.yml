@@ -9,6 +9,7 @@ baseurl:             ""
 nav-baseurl:         "https://rweekly.org"
 ampdir: amp
 description: Get the latest updates and blog posts about the statistical programming R language.
+post_max: 396+24
 
 # Assets
 #
@@ -38,6 +39,7 @@ gems:
 
 pages_list:       
   About: '/about.html'
+  Random: '/Random.html'
   Archive: '/archive.html'
   Feed: '/atom.xml'
   Draft: '/draft.html'

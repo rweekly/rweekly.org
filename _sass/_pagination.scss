@@ -49,3 +49,34 @@ a.pagination-item:hover {
     }
   }
 }
+
+
+.random-btn {
+
+  border-radius: 4px;
+  background-color: #e7e7e7;
+  border: 2px solid #e7e7e7;
+  color: rgb(81, 81, 81);
+  text-align: center;
+  font-size: 16px;
+  padding: 5px;
+  width: 80px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px 0px 5px 0px;
+}
+
+.random-btn {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.random-btn:hover {
+    background-color: white;
+    // color: #e7e7e7;
+}
+
+.disabled.random-btn:hover {
+    background-color: white;
+    color: white;
+}
