@@ -74,14 +74,14 @@ title: Random
         a_res.href=json_data.href;
         a_res.innerHTML = json_data.title;
         p_res.appendChild(a_res);
-        if (json_data.des !== undefined){
+        if (json_data.des !== undefined && json_data.des !== ""){
           json_data.des = json_data.des.replace(/^ *- */, "");
           p_res.innerHTML += markdown.toHTML(json_data.des);
         }
         li_res.appendChild(p_res);
         ul_res.appendChild(li_res);
         div_res.appendChild(ul_res);
-        if (json_data.img !== undefined){
+        if (json_data.img !== undefined && json_data.img !== ""){
           var p_img_res = document.createElement('p');
           var img_res = document.createElement('img');
           img_res.src = json_data.img;
@@ -94,7 +94,7 @@ title: Random
 
     begin_countdown();
     var post_max = parseInt("{{ site.post_max }}");
-
+    // var post_max = parseInt("24");
     function shuffle_number(max_num) {
       array = Array.apply(null, {length: max_num}).map(Number.call, Number)
 
@@ -110,8 +110,8 @@ title: Random
     }
 
     function run_random(){
-       toget = parseInt(Math.random()*post_max,10)
-
+       toget = parseInt(Math.random()*post_max,10);
+       // toget = parseInt(Math.random()*post_max,10)+396;
        var xhr = new XMLHttpRequest();
        xhr.open("GET","/json/"+ toget+".js");
 
