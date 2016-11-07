@@ -17,6 +17,20 @@ $('.content').jscroll({
       var xhr = new XMLHttpRequest();
       xhr.open("GET","https://page.rweekly.org/?page="+ new_page);
       xhr.send();
+    },
+    callback: function(){
+      add_external_links();
     }
 });
+
+WebFontConfig = {
+  google: {
+    families: ['Source Sans Pro']
+  },
+  timeout: 4000 // Set the fonts loading timeout to 4 seconds
+};
+
+{% include webfont.min.js %}
+
 </script>
+
