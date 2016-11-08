@@ -42,3 +42,5 @@ validation-report.json
 node_modules
 
 .Rhistory
+temp_json
+
