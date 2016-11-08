@@ -54,9 +54,9 @@ a.pagination-item:hover {
 .random-btn {
 
   border-radius: 4px;
-  background-color: #e7e7e7;
+  background-color: white;
   border: 2px solid #e7e7e7;
-  color: rgb(81, 81, 81);
+  color: white;
   text-align: center;
   font-size: 16px;
   padding: 5px;
@@ -73,10 +73,15 @@ a.pagination-item:hover {
 
 .random-btn:hover {
     background-color: white;
-    // color: #e7e7e7;
+    color: rgb(81, 81, 81);
+}
+
+.disabled.random-btn {
+    background-color: white;
+    color: white;
 }
 
 .disabled.random-btn:hover {
     background-color: white;
-    color: white;
+    color: rgb(81, 81, 81);
 }

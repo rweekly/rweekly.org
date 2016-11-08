@@ -16,7 +16,7 @@ title: Random
   <p>Submit new posts and dead links report on <a href="https://github.com/rweekly/rweekly.org/edit/gh-pages/draft.md">GitHub</a>.</p>
 
   <button id="random-button" type="button" class="disabled random-btn" ga-on="click"
-  ga-event-category="run-randon"
+  ga-event-category="run-random"
   ga-event-action="run-random-one-time">Next</button>
 
 
@@ -29,6 +29,28 @@ title: Random
 </script>
 <script type="text/javascript">
     var json_list = [];
+    var ranbody = document.getElementById("random-content");
+    var post_max = parseInt("{{ site.post_max }}");
+    // var post_max = parseInt("24");
+    var cached_dom;
+
+    function get_new_json(){
+       toget = parseInt(Math.random()*post_max,10);
+       // toget = parseInt(Math.random()*post_max,10)+396;
+       var xhr = new XMLHttpRequest();
+       xhr.open("GET","/json/"+ toget+".js");
+
+       xhr.onreadystatechange = function() {
+          if (xhr.readyState == 4 ) {
+            var new_posts_data = JSON.parse(xhr.responseText);
+            json_list = json_list.concat(new_posts_data);
+            cached_dom = gen_dom();
+            add_external_links();
+          }
+       };
+       xhr.send();
+    }
+
     function begin_countdown(){
       var timeLeft = 10;
       var elem = document.getElementById('random-button');
@@ -38,11 +60,14 @@ title: Random
         elem.innerHTML = "Next"
         
       }
+
       var timerId = setInterval(countdown, 1000);
 
       function run_countdown(){
-        run_random();
+        ranbody.innerHTML = "";
+        ranbody.appendChild(cached_dom);
         timerId = setInterval(countdown, 1000);
+        get_new_json();
         countdown();
       }
 
@@ -63,7 +88,7 @@ title: Random
       
       countdown();
 
-    }
+    } // end begin_countdown
 
     function gen_one_ul(json_data){
         var div_res = document.createElement('div');
@@ -92,9 +117,17 @@ title: Random
         return div_res;
     }
 
-    begin_countdown();
-    var post_max = parseInt("{{ site.post_max }}");
-    // var post_max = parseInt("24");
+    function gen_dom(){
+            var todisplay = shuffle_number(json_list.length);
+            var final_div = document.createElement('div');
+            final_div.appendChild(gen_one_ul(json_list[todisplay[0]]));
+            final_div.appendChild(gen_one_ul(json_list[todisplay[1]]));
+            final_div.appendChild(gen_one_ul(json_list[todisplay[2]]));
+            final_div.appendChild(gen_one_ul(json_list[todisplay[3]]));
+            final_div.appendChild(gen_one_ul(json_list[todisplay[4]]));
+            return final_div;
+   }
+
     function shuffle_number(max_num) {
       array = Array.apply(null, {length: max_num}).map(Number.call, Number)
 
@@ -108,36 +141,27 @@ title: Random
       }
       return array;
     }
+        
+    begin_countdown();
 
-    function run_random(){
-       toget = parseInt(Math.random()*post_max,10);
-       // toget = parseInt(Math.random()*post_max,10)+396;
-       var xhr = new XMLHttpRequest();
-       xhr.open("GET","/json/"+ toget+".js");
+    var first_json = parseInt(Math.random()*post_max,10);
+    // toget = parseInt(Math.random()*post_max,10)+396;
 
-       xhr.onreadystatechange = function() {
-          if (xhr.readyState == 4 ) {
-            var new_posts_data = JSON.parse(xhr.responseText);
-            json_list = json_list.concat(new_posts_data);
-            var todisplay = shuffle_number(json_list.length);
-            
-            var ranbody = document.getElementById("random-content");
+    var xhr_1st = new XMLHttpRequest();
+    xhr_1st.open("GET", "/json/"+ first_json +".js");
 
-            var final_div = document.createElement('div');
-            final_div.appendChild(gen_one_ul(json_list[todisplay[0]]));
-            final_div.appendChild(gen_one_ul(json_list[todisplay[1]]));
-            final_div.appendChild(gen_one_ul(json_list[todisplay[2]]));
-            final_div.appendChild(gen_one_ul(json_list[todisplay[3]]));
-            final_div.appendChild(gen_one_ul(json_list[todisplay[4]]));
-            ranbody.innerHTML = "";
-            ranbody.appendChild(final_div);
-            add_external_links();
-          }
-       };
-       xhr.send();
-    }
+    xhr_1st.onreadystatechange = function() {
+      if (xhr_1st.readyState == 4 ) {
+        var new_posts_data = JSON.parse(xhr_1st.responseText);
+        json_list = json_list.concat(new_posts_data);
 
-    run_random();
-    //xhr.open("GET","https://page.rweekly.org/?page="+ new_page);
-    //xhr.send();
+        ranbody.innerHTML = "";
+        ranbody.appendChild(gen_dom());
+
+        add_external_links();
+        get_new_json();
+      }
+    };
+    xhr_1st.send();
+
 </script>
