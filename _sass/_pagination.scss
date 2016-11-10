@@ -56,7 +56,7 @@ a.pagination-item:hover {
   border-radius: 4px;
   background-color: white;
   border: 2px solid #e7e7e7;
-  color: white;
+  color: rgb(81, 81, 81);
   text-align: center;
   font-size: 16px;
   padding: 5px;
@@ -69,11 +69,6 @@ a.pagination-item:hover {
 .random-btn {
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
-}
-
-.random-btn:hover {
-    background-color: white;
-    color: rgb(81, 81, 81);
 }
 
 .disabled.random-btn {
