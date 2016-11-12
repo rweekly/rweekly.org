@@ -37,7 +37,7 @@ title: Random
     function get_new_json(){
        toget = parseInt(Math.random()*post_max,10);
        var xhr = new XMLHttpRequest();
-       xhr.open("GET","/json/"+ toget+".js");
+       xhr.open("GET","/json/"+ toget+".r");
 
        xhr.onreadystatechange = function() {
           if (xhr.readyState == 4 ) {
@@ -128,7 +128,7 @@ title: Random
     var first_json = parseInt(Math.random()*post_max,10);
 
     var xhr_1st = new XMLHttpRequest();
-    xhr_1st.open("GET", "/json/"+ first_json +".js");
+    xhr_1st.open("GET", "/json/"+ first_json +".r");
 
     xhr_1st.onreadystatechange = function() {
       if (xhr_1st.readyState == 4 ) {
