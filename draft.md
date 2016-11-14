@@ -1,9 +1,9 @@
 ---
 layout: draft
-title: Issue 25
+title: Issue 26
 ---
 
-Release Date: 2016-11-14
+Release Date: 2016-11-21
 
 Hello and welcome to the new issue of **R Weekly**!
 
@@ -14,155 +14,28 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ## News & Blog Posts
 
-#### R & Election  - After
-
-+ [Mapping Election Results in Utah](http://juliasilge.com/blog/Election-Mapping/)
-
-![Mapping Election Results in Utah](https://cdn.rawgit.com/juliasilge/juliasilge.github.io/76e8a970a7259fe88e92ab4f37405ed5eda7b8de/figs/2016-11-11-Election-Mapping/unnamed-chunk-7-1.png)
-
-+ [Not all forecasters got it wrong: Nate Silver does it again (again)](http://simplystatistics.org/2016/11/09/not-all-forecasters-got-it-wrong/)
-
-+ [Dot map of the 2016 presidential election in Dallas-Fort Worth](http://personal.tcu.edu/kylewalker/maps/dfw_election.html) - source code on [GitHub](https://github.com/walkerke/dfw-election-dot-map) 
-
-<video width="600" controls autoplay loop preload="auto" poster="https://cdn.rawgit.com/rweekly/image/master/2016-11-14/election.jpg">
-  <source src="https://pbs.twimg.com/tweet_video/CxAWHpoVQAAHeCO.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
+#### R & Election
 
 
-#### R & Election  - Before
 
-+ [Deceit in Politics; An Analysis of PolitiFact Data](https://ntguardian.wordpress.com/2016/11/07/deceit-politics-analysis-politifact-data/)
-
-+ [A Bayesian election prediction, implemented with R and Stan](http://blog.revolutionanalytics.com/2016/11/a-bayesian-election-forecast.html)
-
-+ [2016 US Presidential Election Forecast](https://github.com/BillPetti/Presidential-Forecasts-2016/blob/master/safe_model_summary.md)
-
-+ [Analyzing Emotions using Facial Expressions in Video with Microsoft AI and R](https://blog.exploratory.io/analyzing-emotions-using-facial-expressions-in-video-with-microsoft-ai-and-r-8f7585dd0780#.pldvl457o)
-
-+ [Sentiment Analysis of the Three 2016 Presidential Debates](http://rpubs.com/ww44ss/Presidential_Debates_2016)
-
-![Sentiment Analysis of the Three 2016 Presidential Debates](https://pbs.twimg.com/media/CvebcXaVMAAVTU_.jpg)
-
-+ [Election 2016: Tracking Emotions with R and Python](http://blog.revolutionanalytics.com/2016/10/debate-emotions.html)
-
-+ [The Polls of the Future Are Reproducible and Open Source](http://www.slate.com/articles/technology/future_tense/2016/11/the_polls_of_the_future_will_be_reproducible_and_open_source.html)
-
-+ [R resources for Election Night](http://www.computerworld.com/article/3139884/data-analytics/r-resources-for-election-night.html?nsdr=true)
-
-+ [Election 2016 — Debate Three on Twitter](https://medium.com/@swainjo/election-2016-debate-three-on-twitter-4fc5723a3872#.15db8s2gg)
-
-![Election 2016 — Debate Three on Twitter](https://d262ilb51hltx0.cloudfront.net/max/2000/1*nlQqvuWaapexKVumGi0DBw.jpeg)
-
-+ [State and National Poll Aggregation](http://www.slate.com/features/pkremp_forecast/report.html)
 
 #### Tutorials
 
-+ [You should re-encode high cardinality categorical variables](http://www.win-vector.com/blog/2016/11/you-should-re-encode-high-cardinality-categorical-variables/)
-
-+ [Hierarchical models with RStan (Part 1)](https://biologyforfun.wordpress.com/2016/11/10/hierarchical-models-with-rstan-part-1/)
-
-+ [Laplace noising versus simulated out of sample methods (cross frames)](http://www.win-vector.com/blog/2016/11/laplace-noising-versus-simulated-out-of-sample-methods-cross-frames/)
-
-+ [Conditional Formatting of a Table in R](http://labrtorian.com/2016/11/07/conditional-formatting-of-a-table-in-r/)
-
-<table class="table table-condensed">
-<thead>
-<tr>
-<th style="text-align:left;">   </th>
-<th style="text-align:right;"> CPOE </th>
-<th style="text-align:right;"> Verbal </th>
-<th style="text-align:right;"> Written </th>
-<th style="text-align:right;"> Cosigned </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;"> Med </td>
-<td style="text-align:right;"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #7dff7d">49.3</span> </td>
-<td style="text-align:right;"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffbfbf">8.7</span> </td>
-<td style="text-align:right;"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff6969">42.0</span> </td>
-<td style="text-align:right;"> <span style="display: block; border-radius: 4px; padding-right: 4px; color: darkorange; background-color: yellow">75.30 (rank: 02)</span> </td>
-</tr>
-<tr>
-<td style="text-align:left;"> Surg </td>
-<td style="text-align:right;"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #baffba">30.0</span> </td>
-<td style="text-align:right;"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">4.0</span> </td>
-<td style="text-align:right;"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff0b0b">66.0</span> </td>
-<td style="text-align:right;"> <span style="display: block; border-radius: 4px; padding-right: 4px; color: darkorange; background-color: yellow">52.00 (rank: 03)</span> </td>
-</tr>
-<tr>
-<td style="text-align:left;"> ER </td>
-<td style="text-align:right;"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #00ff00">89.5</span> </td>
-<td style="text-align:right;"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffd6d6">7.0</span> </td>
-<td style="text-align:right;"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">3.5</span> </td>
-<td style="text-align:right;"> <span style="display: block; border-radius: 4px; padding-right: 4px; color: darkgreen; background-color: lightgreen">88.50 (rank: 01)</span> </td>
-</tr>
-<tr>
-<td style="text-align:left;"> Orth </td>
-<td style="text-align:right;"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">8.0</span> </td>
-<td style="text-align:right;"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff0000">23.0</span> </td>
-<td style="text-align:right;"> <span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff0000">69.0</span> </td>
-<td style="text-align:right;"> <span style="display: block; border-radius: 4px; padding-right: 4px; color: red; background-color: pink">13.00 (rank: 04)</span> </td>
-</tr>
-</tbody>
-</table>
-
-+ [Reproducible Finance with R: The Sharpe Ratio](https://www.rstudio.com/rviews/2016/11/09/reproducible-finance-with-r-the-sharpe-ratio/)
-
-+ [Filled Chord Diagram in R using Plotly](http://moderndata.plot.ly/filled-chord-diagram-in-r-using-plotly/)
-
-+ [Creating figures like the paper ‘Completeness of Digital Accessible Knowledge of Plants of Ghana’ Part 2](https://vijaybarve.wordpress.com/2016/11/08/creating-figures-like-the-paper-completeness-of-digital-accessible-knowledge-of-plants-of-ghana-part-2/)
-
-+ [variance of an exponential order statistics](https://xianblog.wordpress.com/2016/11/10/variance-of-an-exponential-order-statistics/)
 
 
-
-+ [sparklyr: a test drive on YARN](http://www.nodalpoint.com/sparklyr-on-yarn/)
-
-+ [Raccoon Ch 2.2 – 2 sample t-test and paired t](http://www.quantide.com/raccoon-ch-2-2-2-sample-t-test-and-paired-t/)
-
-+ [Image Classification in R using trained TensorFlow models](http://randomthoughtsonr.blogspot.com/2016/11/image-classification-in-r-using-trained.html)
-
-+ [Webscraping with rvest: So Easy Even An MBA Can Do It!](http://www.programmingr.com/content/webscraping-rvest-easy-mba-can/)
-
-+ [A Simple Guide to S3 Methods](http://njtierney.github.io/r/missing%20data/rbloggers/2016/11/06/simple-s3-methods/)
-
-+ [Timeseries forecasting using extreme gradient boosting](http://ellisp.github.io/blog/2016/11/06/forecastxgb)
-
-![Timeseries forecasting using extreme gradient boosting](https://ellisp.github.io/img/0066-tcomp.png)
-
-+ [I’ve started writing a ‘book’: Functional programming and unit testing for data munging with R](http://b-rodrigues.github.com/2016/11/04/ive-started-writing-a-book-functional-programming-and-unit-testing-for-data-munging-with-r)
 
 
 #### R in Real World
 
 
-+ [An overview of text mining visualisations possibilities with R on the CETA trade agreement](http://www.bnosac.be/index.php/blog/62-an-overview-of-text-mining-visualisations-possibilities-with-r-on-the-ceta-trade-agreement)
-
-+ [How the Ghana Floods animation was created](http://datascience-africa.org/2016/11/ghana-floods-animation-created/)
 
 #### R in Organization
 
-+ [AirBnB grows by sharing data scientist knowledge](http://blog.revolutionanalytics.com/2016/11/airbnb-growth.html)
 
-![AirBnB grows by sharing data scientist knowledge](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb09515462970d-pi)
-
-+ [R Views – a new perspective on R and RStudio](https://blog.rstudio.org/2016/11/08/r-views-a-new-perspective-on-r-and-rstudio/)
-
-+ [Data Manipulation with sparklyr on Azure HDInsight](http://blog.revolutionanalytics.com/2016/11/data-manipulation-with-sparklyr-on-azure-hdinsight.html)
-
-+ [New Course Series: Applied Finance with R](http://www.datacamp.com/community/blog/new-course-series-applied-finance-with-r)
-
-+ [A Free Interactive Plotly R Tutorial](http://www.datacamp.com/community/blog/a-free-interactive-plotly-r-tutorial)
 
 
 #### R in Academia
 
-+ [New paper: “SPLASH, a hashed identifier for mass spectra”](http://chem-bla-ics.blogspot.com/2016/11/new-paper-splash-hashed-identifier-for.html)
-
-
-+ [Presenting Weighted Effect Coding](http://www.rensenieuwenhuis.nl/presenting-weighted-effect-coding/)
 
 
 ## Video and Podcast
@@ -173,42 +46,12 @@ Your browser does not support the video tag.
 ## Resources
 
 
-+ [7th MilanoR Meeting: download presentations](http://www.milanor.net/blog/7th-milanor-meeting-download-presentations/)
-
-+ [One-page R Survival Guides](http://onepager.togaware.com/)
-
-## New Releases
-
-+ [rms 5.0-0](https://www.r-bloggers.com/major-update-to-rms-package-5-0-0/) - Regression Modeling Strategies.
-
-+ [anytime 0.1.0](http://dirk.eddelbuettel.com/blog/2016/11/07#anytime_0.1.0) - nytime aims to convert anything in integer, numeric, character, factor, ordered, ... format to POSIXct (or Date) objects.
-
-+ [gettz 0.0.3](http://dirk.eddelbuettel.com/blog/2016/11/07#gettz_0.0.3) - gettz provides a possible fallback in situations where Sys.timezone() fails to determine the system timezone.
-
-+ [DOM 0.4](http://stattech.wordpress.fos.auckland.ac.nz/2016-14-dom-version-0-4/) - The main change in this version is the addition of new functions that allow control over the Cascading Style Sheet (CSS) content of a web page.
-
-+ [Shiny Server (Pro) 1.5](https://blog.rstudio.org/2016/11/04/shiny-server-pro-1-5/)
 
 
 ## New Packages & Tools
 
-+ [USA.county.data](https://github.com/Deleetdk/USA.county.data) - Open dataset of counties from the United States
 
-+ [knowledge-repo](https://github.com/airbnb/knowledge-repo) -  A next-generation curated knowledge sharing platform for data scientists and other technical professions from Airbnb.
 
-+ [packagedocs](http://ryanhafen.com/blog/packagedocs) - Build an R Package Documentation Website.
-
-+ [BelgiumMaps.StatBel](http://www.bnosac.be/index.php/blog/61-belgiummaps-statbel-r-package-with-administrative-boundaries-of-belgium) - R package with Administrative boundaries of Belgium.
-
-+ [regtools](https://matloff.wordpress.com/2016/11/07/my-regtools-package-is-now-on-cran/) - Tools for linear, nonlinear and nonparametric regression and classification. 
-
-+ [crul](http://ropensci.org/blog/technotes/2016/11/09/crul-release) - an HTTP client.
-
-+ [trump](https://github.com/romainfrancois/trump) - Instantly segfault your R session.
-
-![trump](https://cdn.rawgit.com/romainfrancois/trump/8f57e8831cec15002ec96267ea750ee10ffd5341/images/trump.png)
-
-+ [ggloop](https://github.com/seasmith/ggloop) - Create 'ggplot2' Plots in a Loop
 
 ## R Project Updates
 
@@ -223,7 +66,3 @@ The conference about all things R and RStudio.<br />
 
 
 ## Quote of the Week
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">R-devel now has &quot;level 3&quot; byte-compiling, and e.g. &quot;empty&quot; nested loops run about twice as fast.<a href="https://t.co/bnNo8XrI6F">https://t.co/bnNo8XrI6F</a> <a href="https://t.co/VFjNbnYZGB">pic.twitter.com/VFjNbnYZGB</a></p>&mdash; Dirk Eddelbuettel (@eddelbuettel) <a href="https://twitter.com/eddelbuettel/status/796375465149792256"></a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s a list of <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> packages, catered to those doing statistics in sports <a href="https://t.co/UqMcrojEoL">pic.twitter.com/UqMcrojEoL</a></p>&mdash; Michael Lopez (@StatsbyLopez) <a href="https://twitter.com/StatsbyLopez/status/796014026094481408"></a></blockquote>

@@ -37,7 +37,13 @@ test.local.urls <- function(path, timeout = 100, total_con = 30, host_con = 6, .
 
         h <- curl::new_handle(url = urli)
         curl::handle_setopt(h, .list = list(nobody = TRUE, ssl_verifypeer = FALSE))
-
+        curl::handle_setheaders(h,
+                          "Accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                          "Accept-Encoding" = "gzip, deflate, br",
+                          "Content-Type" = "text/moo",
+                          "Cache-Control" = "no-cache",
+                          "User-Agent" = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:49.0) Gecko/20100101 Firefox/49.0"
+        )
         curl::multi_add(h, done = function(res){
           # message(paste0("Done ", res$url, " Status: ", res$status))
           test.result$code[test.result$href == urli] <<- res$status_code

@@ -9,7 +9,7 @@
 // content selector is used to extract the additional items 
 var repat = new RegExp("https?://");
 $('.content').jscroll({
-    loadingHtml: '',
+    loadingHtml: "<small>Next Issue ... </small>",
     contentSelector: '#posts-content',
     nextSelector: '#next-page',
     loadingFunction: function(){
