@@ -208,6 +208,8 @@ Your browser does not support the video tag.
 
 ![trump](https://cdn.rawgit.com/romainfrancois/trump/8f57e8831cec15002ec96267ea750ee10ffd5341/images/trump.png)
 
++ [ggloop](https://github.com/seasmith/ggloop) - Create 'ggplot2' Plots in a Loop
+
 ## R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
