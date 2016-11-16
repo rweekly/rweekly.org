@@ -21,8 +21,12 @@
   //     maxAgeSeconds: 60 * 60 * 100
   //   }
   // });
-
-  global.toolbox.precache(['/index.html', '/random.html', '/about.html',"/","/page2/index.html","/archive.html"]);
+  global.toolbox.router.get('/', global.toolbox.networkFirst, {});
+  global.toolbox.router.get('/index.html', global.toolbox.networkFirst, {});
+  global.toolbox.router.get('/draft.html', global.toolbox.networkFirst, {});
+  
+  global.toolbox.precache(['/random.html', '/about.html',"/page2/index.html",
+  "/page3/index.html", "/archive.html"]);
   // global.toolbox.options.cache.maxAgeSeconds = 60 * 15;
   
   // Request the resource from both the cache and the network in parallel. 
