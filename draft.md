@@ -21,14 +21,14 @@ Hello and welcome to the new issue of **R Weekly**!
 
 #### Tutorials
 
-International R
-
-:fr: [Guide de survie ggplot2 à destination des datajournalistes (et des autres aussi)](http://www.thinkr.fr/guide-survie-ggplot2-datajournalistes/) - [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://www.thinkr.fr/guide-survie-ggplot2-datajournalistes/) 
-
 
 #### R in Real World
 
 
+
+#### International R
+
++ [Guide de survie ggplot2 à destination des datajournalistes (et des autres aussi)](http://www.thinkr.fr/guide-survie-ggplot2-datajournalistes/) - [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://www.thinkr.fr/guide-survie-ggplot2-datajournalistes/) 
 
 #### R in Organization
 
@@ -51,7 +51,7 @@ International R
 
 ## New Packages & Tools
 
-[ggplot2 2.2.0](https://blog.rstudio.org/2016/11/14/ggplot2-2-2-0/ — ggplot2 2.2.0, with four major new features. 
++ [ggplot2 2.2.0](https://blog.rstudio.org/2016/11/14/ggplot2-2-2-0/) — ggplot2 2.2.0, with four major new features. 
 
 
 ## R Project Updates
