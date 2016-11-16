@@ -22,7 +22,7 @@
   //   }
   // });
 
-  global.toolbox.precache(['/index.html', '/random.html', '/about.html',"/","/page2","/page2/index.html","/archive.html"]);
+  global.toolbox.precache(['/index.html', '/random.html', '/about.html',"/","/page2/index.html","/archive.html"]);
   // global.toolbox.options.cache.maxAgeSeconds = 60 * 15;
   
   // Request the resource from both the cache and the network in parallel. 
