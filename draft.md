@@ -53,6 +53,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [ggplot2 2.2.0](https://blog.rstudio.org/2016/11/14/ggplot2-2-2-0/) — ggplot2 2.2.0, with four major new features. 
 
++ [ggedit](http://www.r-statistics.com/2016/11/ggedit-interactive-ggplot-aesthetic-and-theme-editor/) – interactive ggplot aesthetic and theme editor
 
 ## R Project Updates
 
