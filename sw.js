@@ -36,7 +36,8 @@
   // if/when the network request completes the cache is updated, so that future 
   // cache reads will be more up-to-date.
   global.toolbox.router.default = global.toolbox.fastest;
-
+  global.toolbox.cache.maxEntries = 2000;
+  
   // Boilerplate to ensure our service worker takes control of the page as soon
   // as possible.
   global.addEventListener('install',

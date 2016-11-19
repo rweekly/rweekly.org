@@ -3,7 +3,7 @@
   "short_name": "R Weekly",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
-  "display": "fullscreen",
+  "display": "browser",
   "Scope": "/",
   "start_url": "/",
   "icons": [
