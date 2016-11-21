@@ -7,160 +7,58 @@ Release Date: 2016-11-21
 
 Hello and welcome to the new issue of **R Weekly**!
 
-## Highlight
+### Highlight
 
 *Digested by R Weekly Members*
 
 
-## News & Blog Posts
+### News & Blog Posts
 
 
-#### Tutorials
 
-+ [How to Start a Bookdown Book](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html)
+### Tutorials
 
-+ [Bayesian Logistic Regression with rstanarm](https://www.kaggle.com/avehtari/d/uciml/pima-indians-diabetes-database/bayesian-logistic-regression-with-rstanarm/notebook)
 
-+ [simulation under zero measure constraints](https://xianblog.wordpress.com/2016/11/17/simulation-under-zero-measure-constraints/)
 
-+ [Interactive Volcano Plots in R with Plotly](http://moderndata.plot.ly/interactive-volcano-plots-r-plotly/)
+### R in Real World
 
-+ [Subtitles and captions with ggplot2 v.2.2.0](http://bayesball.blogspot.com/2016/11/sub-titles-and-captions-with-ggplot2.html)
 
-+ [Ordering categories within ggplot2 facets](http://drsimonj.svbtle.com/ordering-categories-within-ggplot2-facets)
 
-![Ordering categories within ggplot2 facets](https://svbtleusercontent.com/dmstymim0k0u9g_retina.png)
+### International R
 
-+ [Bayesian Blood](https://fronkonstin.com/2016/11/17/bayesian-blood/)
 
-+ [In case you missed it: October 2016 roundup](http://blog.revolutionanalytics.com/2016/11/in-case-you-missed-it-october-2016-roundup.html)
 
-+ [Align genomic features with phylogenetic tree](https://guangchuangyu.github.io/2016/11/align-genomic-features-with-phylogenetic-tree)
+### R in Organization
 
-![Align genomic features with phylogenetic tree](https://guangchuangyu.github.io/blog_images/Bioconductor/ggtree/ggtree_ggbio/ggtree_ggbio.png)
 
-+ [How to make a simple heatmap in ggplot2](http://sharpsightlabs.com/blog/2016/11/15/heatmap-ggplot2-simple/)
 
-+ [SAS to R Migration for Financial Data: Lessons and Examples](http://blog.revolutionanalytics.com/2016/11/sas-to-r-migration.html)
+### R in Academia
 
-+ [Using Microsoft’s Emotion API to Settle an Old Argument](https://ntguardian.wordpress.com/2016/11/14/using-microsofts-emotion-api-r-self-portrait/)
 
-+ [Extreme pie chart polishing](http://ellisp.github.io/blog/2016/11/15/piecharts)
 
-+ [Pipe-friendly workflow with sjPlot, sjmisc and sjstats, part 1 #rstats #tidyverse](https://strengejacke.wordpress.com/2016/11/14/pipe-friendly-workflow-with-sjplot-sjmisc-and-sjstats-part-1-rstats-tidyverse/)
+### Resources
 
-+ [copy code at your own peril](https://xianblog.wordpress.com/2016/11/14/31939/)
 
-+ [Why Within-Subject Designs Require Fewer Participants than Between-Subject Designs](http://daniellakens.blogspot.com/2016/11/why-within-subject-designs-require-less.html)
 
-+ [Easy Cross Validation in R with `modelr`](http://jacobsimmering.com/2016/11/11/CrossValidationInR/)
+### Jobs
 
 
-#### R in Real World
 
+### New Releases
 
-+ [analysing the US election result, from Oxford, England](https://xianblog.wordpress.com/2016/11/14/analysing-the-us-election-result-from-oxford-england/)
 
-+ [Maps are great – German Gas Prices illustrated](http://flovv.github.com/Gas_price-Mapping/)
 
-![Maps are great – German Gas Prices illustrated](https://flovv.github.io/figures/post13/unnamed-chunk-2-1.png)
-
-+ [An overview of text mining visualisations possibilities with R on the CETA trade agreement](http://www.bnosac.be/index.php/blog/62-an-overview-of-text-mining-visualisations-possibilities-with-r-on-the-ceta-trade-agreement)
-
-+ [Contribution of each popular vote to electoral vote outcome, in number of persons, by state](https://www.reddit.com/r/dataisbeautiful/comments/5decpz/contribution_of_each_popular_vote_to_electoral/?sort=old)
-
-
-#### International R
-
-+ [Guide de survie ggplot2 à destination des datajournalistes (et des autres aussi)](http://www.thinkr.fr/guide-survie-ggplot2-datajournalistes/) - [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://www.thinkr.fr/guide-survie-ggplot2-datajournalistes/) 
-
-
-#### R in Organization
-
-+ [Data Manipulation with sparklyr on Azure HDInsight](http://blog.revolutionanalytics.com/2016/11/data-manipulation-with-sparklyr-on-azure-hdinsight.html)
-
-+ [RStudio IDE Easy Tricks You Might’ve Missed](https://www.rstudio.com/rviews/2016/11/11/easy-tricks-you-mightve-missed/)
-
-+ [Microsoft allows trying its new SQL Server for Linux](http://industrialengineertools.blogspot.com/2016/11/microsoft-allows-trying-its-new-sql.html)
-
-+ [Make R a Legitimate Part of Your Organization](https://www.rstudio.com/rviews/2016/11/16/make-r-a-legitimate-part-of-your-organization/)
-
-+ [How to call Cognitive Services APIs with R](http://blog.revolutionanalytics.com/2016/11/how-to-call-cognitive-services-apis-with-r.html)
-
-+ [The 5 most downloaded R packages](http://www.datacamp.com/community/blog/the-5-most-downloaded-r-packages)
-
-+ [A computer vision challenge: finding boats in the Mona Lisa](http://blog.revolutionanalytics.com/2016/11/deep-learning-mona-lisa.html)
-
-![A computer vision challenge: finding boats in the Mona Lisa](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b8d2384261970c-800wi)
-
-+ [The Data Science Workloads in Visual Studio 2017 RC](https://blogs.msdn.microsoft.com/visualstudio/2016/11/18/data-science-workloads-in-visual-studio-2017-rc/)
-
-#### R in Academia
-
-
-
-## Resources
-
-+ [eRum 2016 on Youtube](https://www.youtube.com/playlist?list=PLCsJUtCRSFbejqCqAURNVOFFpoDCMeuO5)
-
-+ [Data Rectangling Slides by Jennifer (Jenny) Bryan](https://speakerdeck.com/jennybc/data-rectangling)
-
-## Jobs
-
-+ [R Jobs for R users – 10 jobs from around the world (2016-11-17)](https://www.r-users.com/jobs/part-time-statistician-data-scientist/)
-
-## New Releases
-
-+ [ggplot2 2.2.0](https://blog.rstudio.org/2016/11/14/ggplot2-2-2-0/) — ggplot2 2.2.0, with four major new features. 
-
-+ [Rcpp 0.12.8](http://dirk.eddelbuettel.com/blog/2016/11/18/#rcpp_0.12.8) - Seamless R and C++ integration
-
-+ [ShinyProxy 0.7.0](https://www.openanalytics.eu/blog/shinyproxy-070) - Deploy Shiny apps for the enterprise or larger organizations.
-
-+ [mapmate 0.2.0](https://blog.snap.uaf.edu/2016/11/15/mapmate-0-2-0/) - The mapmate package is used for map- and globe-based data animation pre-production.
-
-+ [svglite 1.2.0](https://blog.rstudio.org/2016/11/14/svglite-1-2-0/) - A lightweight svg graphics device for R.
-
-## New Packages & Tools
-
-+ [ggedit](http://www.r-statistics.com/2016/11/ggedit-interactive-ggplot-aesthetic-and-theme-editor/) – interactive ggplot aesthetic and theme editor
-
-+ [trelliscopejs](http://ryanhafen.com/blog/trelliscopejs) - An R package that brings faceted visualizations to life while plugging in to common analytical workflows like ggplot2 or the “tidyverse”.
-
-![trelliscopejs](https://cdn.rawgit.com/rweekly/image/master/2016-11-21/trelliscopejs-small.png)
-
-+ [flock](http://www.quintuitive.com/2016/11/13/flock-package-cran/) - Process Synchronization Using File Locks
-
-+ [tesseract](http://ropensci.org/blog/blog/2016/11/16/tesseract) - High Quality OCR in R
-
-+ [prettycode](https://github.com/gaborcsardi/prettycode) - Syntax highlight R code in the terminal
-
-![prettycode](https://cdn.rawgit.com/gaborcsardi/prettycode/cd645e0cefeb78e352b113fd79cf6dcac7a9d05e/inst/screenshot.png)
-
-+ [Notable New and Updated R packages (to October 2016)](http://blog.revolutionanalytics.com/2016/11/spotlights-october-2016.html)
-
-## R Project Updates
+### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
-+ Package installation into a library where the package exists via symbolic link now should work wherever `Sys.readlink()` works.
 
-+ Reading from stdin now also closes the connection and hence no longer leaks memory when reading from a full pipe.
 
-+ `"Cincinnati"` was missing an `"n"` in the `precip` dataset.
-
-+ Fix buffer overflow vulnerability in `pdf()` when loading an encoding file. Reported by Talos Security Advisory for R Project (TALOS-2016-0227).
-
-+ No-longer installed headers `GraphicsBase.h`, `RGraphics.h`, `Rmodules/RX11.h` and `Rmodules/Rlapack.h` which had a LGPL license no longer do so.
-
-## Upcoming Events
+### Upcoming Events
 
 + [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 13 and 14, 2017** <br>
 The conference about all things R and RStudio.<br /> 
 
 
-## Quote of the Week
+### Quote of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">R and Python are both negatively correlated with Trump support by county<br><br>Correlated with Trump support? C# and PHP<a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/eM5giUPa0s">pic.twitter.com/eM5giUPa0s</a></p>&mdash; David Robinson (@drob) <a href="https://twitter.com/drob/status/799311266741415937"></a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Functional sequences (saving a dplyr pipeline) are such an underappreciated, overlooked feature. Great for repeat ops on slightly diff data. <a href="https://t.co/FbzftIdPT1">pic.twitter.com/FbzftIdPT1</a></p>&mdash; Jonathan Carroll (@carroll_jono) <a href="https://twitter.com/carroll_jono/status/798653613283250177"></a></blockquote>
