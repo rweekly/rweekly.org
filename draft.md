@@ -26,8 +26,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### International R
 
-
-
++ :fr: [rData & Vinyles — Exploration d’une bibliothèque Discogs avec R](http://colinfay.me/data-vinyles-bibliotheque-discogs-r/) — - [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://colinfay.me/data-vinyles-bibliotheque-discogs-r/) 
 ### R in Organization
 
 
