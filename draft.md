@@ -28,8 +28,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### International R
 
-+ :fr: [Data & Vinyles — Exploration d’une bibliothèque Discogs avec R](http://colinfay.me/data-vinyles-bibliotheque-discogs-r/) — - [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://colinfay.me/data-vinyles-bibliotheque-discogs-r/) 
-+ :fr: [#RStats — 3 livres à lire en novembre](http://data-bzh.fr/rstats-3-livres-a-lire-novembre/) — - [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://data-bzh.fr/rstats-3-livres-a-lire-novembre/ 
++ [:fr: Data & Vinyles — Exploration d’une bibliothèque Discogs avec R](http://colinfay.me/data-vinyles-bibliotheque-discogs-r/) - [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://colinfay.me/data-vinyles-bibliotheque-discogs-r/) 
++ [:fr: #RStats — 3 livres à lire en novembre](http://data-bzh.fr/rstats-3-livres-a-lire-novembre/) - [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://data-bzh.fr/rstats-3-livres-a-lire-novembre/)
 
 ### R in Organization
 

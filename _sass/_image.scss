@@ -21,6 +21,18 @@ img {
 img {
   border: 0.01px solid #ccc ;
 }
+
+img.emoji {
+  display: inline;
+  border: none ;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin: auto;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+}
+
 // img {
 // 	transition: .3s transform;
 // 	transform: translateZ(0);  /* hack */
