@@ -5,11 +5,11 @@ title: Issue 27
 
 Release Date: 2016-11-28
 
-Hello and welcome to the new issue of **R Weekly**!
+Hello and welcome to the new issue of **R Weekly**! Please contact us when you have feedback! Or you can join our google group! 
 
 ### Highlight
 
-*Digested by R Weekly Members*
+*Digested and contributed by R Weekly Members *
 
 ### Tutorials
 
@@ -62,6 +62,7 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Create an interactive web map with geotagged photos](http://www.seascapemodels.org/rstats/2016/11/23/mapping-abundance-photos.html)
 
 ### R in Real World
+
 
 + [Declining sea ice in the Arctic](http://ellisp.github.io/blog/2016/11/24/seaice)
 
@@ -169,4 +170,4 @@ The conference about all things R and RStudio.<br />
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Do you use SQL with R? With R Markdown and R Notebooks, you can run SQL statements right inside the editor. <a href="https://t.co/4IG1QWIkz6">https://t.co/4IG1QWIkz6</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/3dyKBUwBOq">pic.twitter.com/3dyKBUwBOq</a></p>&mdash; RStudio Tips (@rstudiotips) <a href="https://twitter.com/rstudiotips/status/800761452361486336"></a></blockquote>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Rhub?src=hash">#Rhub</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> package builder has artifacts now, including binary packages: <a href="https://t.co/YZSZMlv9j2">https://t.co/YZSZMlv9j2</a></p>&mdash; Gabor Csardi (@GaborCsardi) <a href="https://twitter.com/GaborCsardi/status/801049795628560384"></a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Rhub?src=hash">#Rhub</a> <a  href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> package builder has artifacts now, including binary packages: <a href="https://t.co/YZSZMlv9j2">https://t.co/YZSZMlv9j2</a></p>&mdash; Gabor Csardi (@GaborCsardi) <a href="https://twitter.com/GaborCsardi/status/801049795628560384"></a></blockquote>
