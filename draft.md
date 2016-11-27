@@ -63,7 +63,6 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### R in Real World
 
-
 + [Declining sea ice in the Arctic](http://ellisp.github.io/blog/2016/11/24/seaice)
 
 ![Declining sea ice in the Arctic](https://ellisp.github.io/img/0069-seaice-final.svg)
@@ -98,7 +97,6 @@ Hello and welcome to the new issue of **R Weekly**!
 + [RL10N hits its first milestone](https://www.r-consortium.org/blog/2016/11/22/rl10n-hits-its-first-milestone) - R is gradually taking over the world (of data analysis).  However, proficiency in English remains a prerequisite for effectively working with R.
 
 ### R in Academia
-
 
 
 ### Videos and Podcasts
