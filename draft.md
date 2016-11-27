@@ -100,7 +100,6 @@ Hello and welcome to the new issue of **R Weekly**!
 ### R in Academia
 
 
-
 ### Videos and Podcasts
 
 + [DataChats Episode 1 - An Interview With Max Kuhn, Creator of Caret](https://www.youtube.com/watch?v=YVMlyOh_eyk&list=PLjgj6kdf_snYAqMEWOlql_DVMPbh8dtP1&index=1)
