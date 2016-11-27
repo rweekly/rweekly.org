@@ -63,7 +63,6 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### R in Real World
 
-
 + [Declining sea ice in the Arctic](http://ellisp.github.io/blog/2016/11/24/seaice)
 
 ![Declining sea ice in the Arctic](https://ellisp.github.io/img/0069-seaice-final.svg)
