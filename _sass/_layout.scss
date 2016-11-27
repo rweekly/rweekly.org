@@ -1,0 +1,83 @@
+// Layout
+//
+// Styles for managing the structural hierarchy of the site.
+
+.container {
+  max-width: 38rem;
+  padding-left:  1.5rem;
+  padding-right: 1.5rem;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+footer {
+  margin-bottom: 2rem;
+}
+
+// input[type=text] {
+//     padding: 12px 20px;
+//     margin: 8px 0;
+//     box-sizing: border-box;
+// }
+
+input[type=text] {
+  width: 130px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAB+ElEQVQ4jaXUTU/yQBSGYf///2G+PyQ2NAUk7mwibGShMTGFYoVI9X4XholIseZ1Nk2bk6uT85yZC76ttm2Zz+cURUGMkRgjeZ5TliXb7fZ7eee6+PpSliWDwQBrLd57QgiEEPDeY61FCMFsNvs9WhQFWusEWWvRWqO1xhhz9P3y8rIfLcsSrTUxRpxzGGNYLBasVivquub+/j6BMUastUwmk/No27YMBgNCCDjnyLLsbPH19XWCpZRUVdWNzudzrLWEEDDG/NwsYDgc4r3HOcd0Ou1Gi6JIQSwWi1706ekp9Vgp1Y3GGAkhoLVmvV73om3bopRKLXh/fz9FD6lqranruhf9+Pg4Qvf7/Sk6Go1SP5fLZS9aVVUaPSllZ83F7e0tzjm898QYe9FDBt578jzvRpumQQiR5u/m5uYseHd3l+bZGMPj42M3CjCZTNL8GWPIsozn5+dUtF6vGY/HCTxk0BVSQoGjE+O9R2uNlBIpJVprnHMJPDyVUry9vZ1HAUajEVLKo8vk66VijEkhHX6ulGK3251H4XO48zxHSolSCqUUQgiyLOPh4YGqqhBCHO1YSsnr6+t59Ova7XYnuwBYrVad8MvLSz/606rr+gQWQtA0zf+jAJvN5gj23jMcDv+GAjRNk8I9HKA/o/DZ+6urK0II1HXNP+caW2+2i/fCAAAAAElFTkSuQmCC');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width .4s ease-in-out;
+  transition: width .4s ease-in-out;
+  width: 90%;
+}
+
+// input[type=text] {
+//     -webkit-transition: width 0.4s ease-in-out;
+//     transition: width 0.4s ease-in-out;
+// }
+
+input[type=text]:focus {
+    width: 100%;
+}
+
+.externalLink  {
+    position: relative;
+    display: inline;
+    // border-bottom: 1px dotted black;
+}
+
+.externalLink .tooltiptext {
+    visibility: hidden;
+    background-color: #525252;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    padding: 5px 5px;
+    bottom: 100%;
+    left: 15px;
+    //  margin-left: -60px;
+    /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+    opacity: 0;
+    transition: all 0.1s ease-in-out
+}
+.externalLink:hover {
+    height: $root-line-height;
+}
+
+.externalLink:hover .tooltiptext {
+    visibility: visible;
+    opacity: 0.85;
+}
+
+.externalLink:hover .tooltiptext:hover {
+    visibility: hidden;
+    opacity: 0.85;
+    transition: opacity 0.1s ease-in-out;
+}

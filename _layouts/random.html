@@ -1,0 +1,148 @@
+---
+layout: default
+title: Random
+---
+
+  {{ content }}
+
+<h2>Read Rticles</h2>
+
+<article class="post">
+
+  <div id="random-content">
+
+  <p>Read Great Rticles!</p>
+
+  </div>
+
+  <p>Submit new posts and dead links report on <a href="https://github.com/rweekly/rweekly.org/edit/gh-pages/draft.md">GitHub</a>.</p>
+
+  <button id="random-button" type="button" class="disabled random-btn" ga-on="click"
+  ga-event-category="run-random"
+  ga-event-action="run-random-one-time">Next</button>
+
+
+</article>
+
+
+<script type="text/javascript">
+ {% include markdown.min.js %}
+</script>
+<script type="text/javascript">
+    var json_list = [];
+    var ranbody = document.getElementById("random-content");
+    var post_max = parseInt("{{ site.post_max }}");
+    var cached_dom;
+
+    function get_new_json(){
+       toget = parseInt(Math.random()*post_max,10);
+       var xhr = new XMLHttpRequest();
+       xhr.open("GET","/json/"+ toget+".r");
+
+       xhr.onreadystatechange = function() {
+          if (xhr.readyState == 4 ) {
+            var new_posts_data = JSON.parse(xhr.responseText);
+            json_list = json_list.concat(new_posts_data);
+            cached_dom = gen_dom();
+            add_external_links();
+            enable_button();
+          }
+       };
+       xhr.send();
+    }
+
+    var elem = document.getElementById('random-button');
+
+    function enable_button(){
+      elem.addEventListener("click", run_countdown);
+      elem.classList.remove("disabled");
+      elem.innerHTML = "Next"
+    }
+
+    function disable_button(){
+          elem.removeEventListener("click", run_countdown);
+          elem.classList.add("disabled");
+    }
+
+    function run_countdown(){
+      disable_button();
+      ranbody.innerHTML = "";
+      ranbody.appendChild(cached_dom);
+      get_new_json();
+    }
+
+
+    function gen_one_ul(json_data){
+        var div_res = document.createElement('div');
+        var ul_res = document.createElement('ul');
+        var li_res = document.createElement('li');
+        var p_res = document.createElement('p');
+        var a_res = document.createElement('a');
+        a_res.href=json_data.href;
+        a_res.innerHTML = json_data.title;
+        p_res.appendChild(a_res);
+        if (json_data.des !== undefined && json_data.des !== ""){
+          json_data.des = json_data.des.replace(/^ *- */, "");
+          p_res.innerHTML += markdown.toHTML(json_data.des);
+        }
+        li_res.appendChild(p_res);
+        ul_res.appendChild(li_res);
+        div_res.appendChild(ul_res);
+        if (json_data.img !== undefined && json_data.img !== ""){
+          var p_img_res = document.createElement('p');
+          var img_res = document.createElement('img');
+          img_res.src = json_data.img;
+          img_res.alt = json_data.title;
+          p_img_res.appendChild(img_res);
+          div_res.appendChild(p_img_res);
+        }
+        return div_res;
+    }
+
+    function gen_dom(){
+            var todisplay = shuffle_number(json_list.length);
+            var final_div = document.createElement('div');
+            final_div.appendChild(gen_one_ul(json_list[todisplay[0]]));
+            final_div.appendChild(gen_one_ul(json_list[todisplay[1]]));
+            final_div.appendChild(gen_one_ul(json_list[todisplay[2]]));
+            final_div.appendChild(gen_one_ul(json_list[todisplay[3]]));
+            final_div.appendChild(gen_one_ul(json_list[todisplay[4]]));
+            return final_div;
+   }
+
+    function shuffle_number(max_num) {
+      array = Array.apply(null, {length: max_num}).map(Number.call, Number)
+
+      var currentIndex = array.length, temporaryValue, randomIndex;
+      while (0 !== currentIndex) {
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex -= 1;
+        temporaryValue = array[currentIndex];
+        array[currentIndex] = array[randomIndex];
+        array[randomIndex] = temporaryValue;
+      }
+      return array;
+    }
+    
+    disable_button();
+    var first_json = parseInt(Math.random()*post_max,10);
+
+    var xhr_1st = new XMLHttpRequest();
+    xhr_1st.open("GET", "/json/"+ first_json +".r");
+
+    xhr_1st.onreadystatechange = function() {
+      if (xhr_1st.readyState == 4 ) {
+        var new_posts_data = JSON.parse(xhr_1st.responseText);
+        json_list = json_list.concat(new_posts_data);
+
+        ranbody.innerHTML = "";
+        ranbody.appendChild(gen_dom());
+
+        add_external_links();
+        get_new_json();
+        enable_button();
+      }
+    };
+    xhr_1st.send();
+
+</script>

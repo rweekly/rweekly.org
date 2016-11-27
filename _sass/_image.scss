@@ -1,0 +1,82 @@
+img {
+	-webkit-box-shadow: 7px 11px 50px -29px rgba(0, 0, 0, 0.45);
+	-moz-box-shadow: 7px 11px 50px -29px rgba(0, 0, 0, 0.45);
+	box-shadow: 7px 11px 50px -29px rgba(0, 0, 0, 0.45);
+}
+
+img{
+	margin-top: 1rem;
+	margin-bottom: 2rem;
+  display: block;
+  margin: 2rem auto;
+}
+
+img {
+	border-radius: 7px 7px 7px 7px;
+	-moz-border-radius: 7px 7px 7px 7px;
+	-webkit-border-radius: 7px 7px 7px 7px;
+	border: 0px none #000000;
+}
+
+img {
+  border: 0.01px solid #ccc ;
+}
+
+img.emoji {
+  display: inline;
+  border: none ;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin: auto;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+}
+
+// img {
+// 	transition: .3s transform;
+// 	transform: translateZ(0);  /* hack */
+// }
+
+// img:hover {
+// 	z-index: 1;
+// }
+
+// img:hover {
+// 	transform: scale(1.02, 1.02);
+// 	transition: .3s transform;
+// }
+
+/*!
+ *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+
+.fa {
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.fa-link:before {
+  content: url('data:image/svg+xml;utf8,<svg width="15" height="15" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1520 1216q0-40-28-68l-208-208q-28-28-68-28-42 0-72 32 3 3 19 18.5t21.5 21.5 15 19 13 25.5 3.5 27.5q0 40-28 68t-68 28q-15 0-27.5-3.5t-25.5-13-19-15-21.5-21.5-18.5-19q-33 31-33 73 0 40 28 68l206 207q27 27 68 27 40 0 68-26l147-146q28-28 28-67zm-703-705q0-40-28-68l-206-207q-28-28-68-28-39 0-68 27l-147 146q-28 28-28 67 0 40 28 68l208 208q27 27 68 27 42 0 72-31-3-3-19-18.5t-21.5-21.5-15-19-13-25.5-3.5-27.5q0-40 28-68t68-28q15 0 27.5 3.5t25.5 13 19 15 21.5 21.5 18.5 19q33-31 33-73zm895 705q0 120-85 203l-147 146q-83 83-203 83-121 0-204-85l-206-207q-83-83-83-203 0-123 88-209l-88-88q-86 88-208 88-120 0-204-84l-208-208q-84-84-84-204t85-203l147-146q83-83 203-83 121 0 204 85l206 207q83 83 83 203 0 123-88 209l88 88q86-88 208-88 120 0 204 84l208 208q84 84 84 204z"/></svg>');;
+}
+
+.header-link {
+  position: relative;
+  left: 0.5em;
+  opacity: 0;
+  font-size: 0.8em;
+
+  -webkit-transition: opacity 0.2s ease-in-out 0.1s;
+  -moz-transition: opacity 0.2s ease-in-out 0.1s;
+  -ms-transition: opacity 0.2s ease-in-out 0.1s;
+}
+
+h2:hover .header-link,
+h3:hover .header-link{
+  opacity: 1;
+}

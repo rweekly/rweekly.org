@@ -1,0 +1,37 @@
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jscroll/2.3.5/jquery.jscroll.min.js"></script>
+
+<script type="text/javascript">
+// content selector is used to extract the additional items 
+var repat = new RegExp("https?://");
+$('.content').jscroll({
+    loadingHtml: "<small>Next Issue ... </small>",
+    contentSelector: '#posts-content',
+    nextSelector: '#next-page',
+    loadingFunction: function(){
+      var new_page = $('#next-page')[0].href.replace(/(https:\/\/)|(http:\/\/)|(\/index.html)/g, '');
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET","https://page.rweekly.org/?page="+ new_page);
+      xhr.send();
+    },
+    callback: function(){
+      add_external_links();
+    },
+    padding: 20
+});
+
+WebFontConfig = {
+  google: {
+    families: ['Source Sans Pro']
+  },
+  timeout: 4000 // Set the fonts loading timeout to 4 seconds
+};
+
+{% include webfont.min.js %}
+
+</script>
+

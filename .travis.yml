@@ -1,0 +1,34 @@
+language: c
+
+sudo: required
+
+dist: trusty
+
+before_install:
+  - echo "options(repos = c(CRAN='http://cran.r-project.org'))" >> ~/.Rprofile
+  - curl -OL http://raw.github.com/craigcitro/r-travis/master/scripts/travis-tool.sh
+  - chmod 755 ./travis-tool.sh
+  - ./travis-tool.sh bootstrap
+
+install:
+  - ./travis-tool.sh install_r_binary stringi curl stringr
+
+before_script:
+  - ./travis-tool.sh dump_sysinfo
+
+script:
+  - Rscript check_url.R
+
+after_failure:
+  - ./travis-tool.sh dump_logs
+
+notifications:
+  slack:
+    on_success: change
+    rooms:
+      secure: QpeEUONrI1jsdXNffvOrSfuZqAjj8uMmzvo4UUa8GQlQte4sPH7ESB7VKaMEAXyYkCMX5A9E8v7jLBZoqvf4SbM4sx5Lqjptb6tWdzH2Ge1EWN1mwmqRLFIG9kutwaTMVZjEZYJeNYoiMoX2ZKRkuBBiAdS7uxvxXQe3eeIcM2w6MA6SanN2RclEuuuHIWRSNVTwMmG4cBaQSzthKXldzP2TsgZMI1cLJXxrPryPR36kv825+cLG4cqe1NXO9fzqu8O7/hCUq56JmS0KaU+zMp9aAgIr9E58HABrP/a/t7+57jdn99BLxMOUjBumfPz12D6YFRgFgG9lej+z6L4uOXVr4Z4b4H6whjOLSwJnfIySg/J5F/igi3qhNAmR7I2/0v6Ouvo3uJofugz12FTrhY/BKzI2if7ofOLDLYal9xrus35WysLrn8EoD9VpQYKX1EbVB3gDi/vCTrKa/AG1ZvgTCGRmxPM51SBhvun+dxqXiMsgMgDQubiAKi+qQSKBqZrHDG58yAp2PC4ixi39l/mSHsXX46IaGnkbp0NwbsyAsCvZ0Q2vO507MyZWQj8eCGlaxoj3PZ74x2+gZbSJXwaxgBztGsKkaN7YQMz5srUA4Uo3EuEw/SnHD/lJDlgJRF9S86bJdfRdT46KF6WUJrW9md/iD9JeKzXYK1HTL7Q=
+
+branches:
+  only:
+    - gh-pages
+    - /^test-.*$/
