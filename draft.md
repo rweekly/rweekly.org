@@ -13,6 +13,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### Tutorials
 
++ [NHL shots analysis using Plotly shapes](http://moderndata.plot.ly/nhl-shots-analysis-using-plotly-shapes/)
++ [Daily metric tracking with ggplot2](http://johnmackintosh.com/2016-11-27-calendar-heatmaps/)
++ [How to write and document %special% functions in R](http://peter.solymos.org/code/2016/11/26/how-to-write-and-document-special-functions-in-r.html)
 
 ### R in Real World
 
@@ -21,7 +24,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### International R
 
-
++ :fr: [R & les expressions régulière](http://www.thinkr.fr/r-les-expressions-regulieres/) — [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://www.thinkr.fr/r-les-expressions-regulieres/)
 
 ### R in Organization
 
@@ -42,7 +45,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### New Packages and Tools
 
-
++ [R Phone Home: Notifications with pushoverr](http://bconnelly.net/2016/11/R-phone-home/)
++ [fauxpas - HTTP conditions package](http://ropensci.org/blog/technotes/2016/11/18/fauxpas-release)
 
 ### New Releases
 
