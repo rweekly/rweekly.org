@@ -81,7 +81,7 @@ failed = 0
 
 message("checking posts")
 posts = test.local.urls(list.files("./_posts/",full.names = T))
-failed_post = posts[!(posts$code %in% c("200","405")),]
+failed_post = posts[!(posts$code %in% c("200","405","403")),]
 
 if (nrow(failed_post)>0) {
 	failed = failed + nrow(failed_post)
