@@ -5,7 +5,7 @@ title: Issue 27
 
 Release Date: 2016-11-28
 
-Hello and welcome to the new issue of **R Weekly**! Please contact us when you have feedback! Or you can join our google group! 
+Hello and welcome to the new issue of **R Weekly**! Please contact us when you have feedback! 
 
 ### Highlight
 
