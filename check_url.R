@@ -40,7 +40,6 @@ test.local.urls <- function(path, timeout = 100, total_con = 30, host_con = 6, .
         curl::handle_setheaders(h,
                           "Accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                           "Accept-Encoding" = "gzip, deflate, br",
-                          "Content-Type" = "text/moo",
                           "Cache-Control" = "no-cache",
                           "User-Agent" = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:49.0) Gecko/20100101 Firefox/49.0"
         )
@@ -91,7 +90,7 @@ if (nrow(failed_post)>0) {
 
 message("checking draft")
 draft = test.local.urls("./draft.md")
-failed_draft = draft[!(draft$code %in% c("200","405")),]
+failed_draft = draft[!(draft$code %in% c("200","405","403")),]
 
 if (nrow(failed_draft)>0) {
 	failed = failed + nrow(failed_draft)
