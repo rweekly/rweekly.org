@@ -19,6 +19,11 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Free online course: Analyzing big data with Microsoft R Server](http://blog.revolutionanalytics.com/2016/11/edx-microsoft-r.html)
 + [Seasonal Analysis in EGRET](https://owi.usgs.gov/blog/seasonal-analysis)
 + [Simulation in R For AP Statistic](http://www.saturnscience.com/simulation-in-r-for-ap-statistics)
++ [Extract Twitter Data Automatically using Scheduler R package](http://datascienceplus.com/extract-twitter-data-automatically-using-scheduler-r-package/)
++ [Jupyter And R Markdown: Notebooks With R](https://www.datacamp.com/community/blog/jupyter-notebook-r) 
++ [How to create a ggplot Theme - Unicorn Edition](http://flovv.github.io/unicorn_ggplot_theme/)
+
+
 
 ### R in Real World
 
@@ -38,12 +43,12 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### Videos and Podcasts
 
-
++ [DataChats: An interview with Garrett Grolemund](https://www.datacamp.com/community/blog/datachats-an-interview-with-garrett-grolemund#gs.fKr8In4)
 
 
 ### Resources
 
-
++ [Learn to Analyze Big Data with R - Free Course](http://101.datascience.community/2016/11/30/learn-to-analyze-big-data-with-r-free-course/)
 
 
 ### New Packages and Tools
@@ -52,6 +57,7 @@ Hello and welcome to the new issue of **R Weekly**!
 + [fauxpas - HTTP conditions package](http://ropensci.org/blog/technotes/2016/11/18/fauxpas-release)
 + [elasticsearchr - a Lightweight Elasticsearch Client for R](https://alexioannides.com/2016/11/28/elasticsearchr-a-lightweight-elasticsearch-client-for-r/) 
 + [A new `subprocess` package for #RStats](https://www.r-bloggers.com/a-new-subprocess-package-for-r)
++ [Package ggguitar on CRAN](http://www.r-chart.com/2016/11/package-ggguitar-on-cran.html)
 
 ### New Releases
 
