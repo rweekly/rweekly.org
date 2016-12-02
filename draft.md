@@ -22,6 +22,7 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Extract Twitter Data Automatically using Scheduler R package](http://datascienceplus.com/extract-twitter-data-automatically-using-scheduler-r-package/)
 + [Jupyter And R Markdown: Notebooks With R](https://www.datacamp.com/community/blog/jupyter-notebook-r) 
 + [How to create a ggplot Theme - Unicorn Edition](http://flovv.github.io/unicorn_ggplot_theme/)
++ [Creating GeoJSON out of Shapefile in R](https://blog.exploratory.io/creating-geojson-out-of-shapefile-in-r-40bc0005857d#.ykuv4dig6)
 
 
 
@@ -58,6 +59,7 @@ Hello and welcome to the new issue of **R Weekly**!
 + [elasticsearchr - a Lightweight Elasticsearch Client for R](https://alexioannides.com/2016/11/28/elasticsearchr-a-lightweight-elasticsearch-client-for-r/) 
 + [A new `subprocess` package for #RStats](https://www.r-bloggers.com/a-new-subprocess-package-for-r)
 + [Package ggguitar on CRAN](http://www.r-chart.com/2016/11/package-ggguitar-on-cran.html)
++ [Santa’s Little Helper – a function for randomly assigning Secret Santa presents](https://amywhiteheadresearch.wordpress.com/2016/12/01/santas-little-helper/)
 
 ### New Releases
 
