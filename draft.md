@@ -14,33 +14,110 @@ Hello and welcome to the new issue of **R Weekly**!
 ### Tutorials
 
 + [NHL shots analysis using Plotly shapes](http://moderndata.plot.ly/nhl-shots-analysis-using-plotly-shapes/)
-+ [Daily metric tracking with ggplot2](http://johnmackintosh.com/2016-11-27-calendar-heatmaps/)
+
 + [How to write and document %special% functions in R](http://peter.solymos.org/code/2016/11/26/how-to-write-and-document-special-functions-in-r.html)
-+ [Free online course: Analyzing big data with Microsoft R Server](http://blog.revolutionanalytics.com/2016/11/edx-microsoft-r.html)
-+ [Seasonal Analysis in EGRET](https://owi.usgs.gov/blog/seasonal-analysis)
+
+
 + [Simulation in R For AP Statistic](http://www.saturnscience.com/simulation-in-r-for-ap-statistics)
+
 + [Extract Twitter Data Automatically using Scheduler R package](http://datascienceplus.com/extract-twitter-data-automatically-using-scheduler-r-package/)
+
 + [Jupyter And R Markdown: Notebooks With R](https://www.datacamp.com/community/blog/jupyter-notebook-r) 
+
 + [How to create a ggplot Theme - Unicorn Edition](http://flovv.github.io/unicorn_ggplot_theme/)
+
++ [Be careful evaluating model predictions](http://www.win-vector.com/blog/2016/12/be-careful-evaluating-model-predictions/)
+
++ [Writing Good R Code and Writing Well](https://www.rstudio.com/rviews/2016/12/02/writing-good-r-code-and-writing-well/)
+
 + [Creating GeoJSON out of Shapefile in R](https://blog.exploratory.io/creating-geojson-out-of-shapefile-in-r-40bc0005857d#.ykuv4dig6)
 
+![Creating GeoJSON out of Shapefile in R](https://d262ilb51hltx0.cloudfront.net/max/2000/1*vPoYMtoNBOQpbwpUc2cE1g.png)
+
++ [Introduction of the pdfsearch package](http://educate-r.org//2016/12/02/intro_pdfsearch.html)
+
++ [Extracting Tables from PDFs in R using the Tabulizer Package](http://datascienceplus.com/extracting-tables-from-pdfs-in-r-using-the-tabulizer-package/)
+
++ [Extreme Gradient Boosting and Preprocessing in Machine Learning – Addendum to predicting flu outcome with R](https://shiring.github.io/machine_learning/2016/12/02/flu_outcome_ML_2_post)
+
++ [ratio-of-uniforms [#4]](https://xianblog.wordpress.com/2016/12/02/ratio-of-uniforms-4/)
+
++ [RStudio in the cloud with Amazon Lightsail and docker](https://sas-and-r.blogspot.com/2016/12/rstudio-in-cloud-with-amazon-lightsail.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SASandR+%28SAS+and+R%29)
+
++ [Efficiently Saving and Sharing Data in R](http://www.econometricsbysimulation.com/2016/12/efficiently-saving-and-sharing-data-in-r_46.html)
+
++ [How to send bulk email to your students using R](http://unamatematicaseltigre.blogspot.com/2016/12/how-to-send-bulk-email-to-your-students.html)
+
++ [The hourly heatmap with ggplot2](http://johnmackintosh.com/2016-12-01-the-hourly-heatmap/)
+
++ [Missing Values, Data Science and R](https://www.rstudio.com/rviews/2016/11/30/missing-values-data-science-and-r/)
+
++ [ggplot2: multiple legends for the same aesthetic](http://www.quantide.com/ggplot-multiple-legends-for-the-same-aesthetic/)
+
++ [Bill and Ted Make the best out of a Shi… Stata situation: Rstudio + Rstata + Stata](https://mikejacktzen.wordpress.com/2016/11/28/bill-and-ted-make-the-best-out-of-a-shi-stata-situation-rstudio-rstata-stata/)
+
++ [More about Flexible Frequency Models](https://statcompute.wordpress.com/2016/11/27/more-about-flexible-frequency-models/)
+
++ [Error, trend, seasonality – ets and its forecast model friends](http://ellisp.github.io/blog/2016/11/27/ets-friends)
+
++ [Building a column selecter](https://edwinth.github.io/blog/column-selecter/)
 
 
 ### R in Real World
 
++ [How many Authors does the Prime Minister have for his speeches: A Stylometric Analysis](https://aliarsalankazmi.github.io/blog_DA/posts/r/2016/11/18/authorial_analysis_pm.html)
 
+![How many Authors does the Prime Minister have for his speeches: A Stylometric Analysis](http://aliarsalankazmi.github.io/blog_DA/assets/img/nss_ba_g3.png)
 
++ [Can we predict flu deaths with Machine Learning and R?](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post)
+
+![Can we predict flu deaths with Machine Learning and R?](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post_files/figure-markdown_github/unnamed-chunk-4-1.png)
+
++ [Seasonal Analysis in EGRET](https://owi.usgs.gov/blog/seasonal-analysis)
+
++ [Daily metric tracking with ggplot2](http://johnmackintosh.com/2016-11-27-calendar-heatmaps/)
+
++ [Plotting my trips with ubeR](http://drsimonj.svbtle.com/plotting-my-trips-with-uber)
+
+![Plotting my trips with ubeR](https://i1.wp.com/svbtleusercontent.com/yekp76hxc04bea_small.png)
+
++ [An Analysis of Contributions to PubMed Commons](https://nsaunders.wordpress.com/2016/12/02/an-analysis-of-contributions-to-pubmed-commons/)
+
++ [The Effective Number of Parties in the Electorate by Year and Region](http://danielmarcelino.github.io/blog/2016/effective-number-of-parties.html)
+
++ [On the German Tank / Taxicab Problem](http://fportman.com/blog/on-the-german-tank-slash-taxicab-problem/)
+
++ [Replicating NYT Weather App](http://jkunst.com/r/replicating-nyt-weather-app/)
+
++ [Some Technical Reading](https://www.rstudio.com/rviews/2016/11/25/some-technical-reading/)
+
++ [Analysis of software developers in New York, San Francisco, London and Bangalore](http://varianceexplained.org/r/developers-cities/)
+
+![Analysis of software developers in New York, San Francisco, London and Bangalore](https://cdn.rawgit.com/dgrtwo/dgrtwo.github.com/ad860e983296047c0e8eecc02cac166470aa7823/figs/2016-12-01-developers-cities/compare_four_cities-1.png)
+
++ [Heatmaps with Divvy Data](http://www.austinwehrwein.com/data-visualization/heatmaps-with-divvy-data/)
 
 ### International R
 
-+ :fr: [R & les expressions régulière](http://www.thinkr.fr/r-les-expressions-regulieres/) — [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://www.thinkr.fr/r-les-expressions-regulieres/)
++ [:fr: R & les expressions régulière](http://www.thinkr.fr/r-les-expressions-regulieres/) — [English (auto-translate)](https://translate.google.com/translate?hl=en&sl=fr&u=http://www.thinkr.fr/r-les-expressions-regulieres/)
 
 ### R in Organization
 
++ [Free online course: Analyzing big data with Microsoft R Server](http://blog.revolutionanalytics.com/2016/11/edx-microsoft-r.html)
 
++ [Announcing bookdown: Authoring Books and Technical Documents with R Markdown](https://blog.rstudio.org/2016/12/02/announcing-bookdown/)
+
++ [Working at RStudio](http://appliedpredictivemodeling.com/blog/2016/11/28/working-at-rstudio)
+
++ [satRday in Cape Town](http://www.exegetic.biz/blog/2016/11/satrday-in-cape-town/)
+
++ [Russell 2000 Quantitative Stock Analysis in R: Six Stocks with Amazing, Consistent Growth](http://www.mattdancho.com/investments/2016/11/30/Russell2000_Analysis.html)
+
++ [Using R to Gain Insights into the Emotional Journeys in War and Peace](http://blog.revolutionanalytics.com/2016/12/war-and-peace.html)
 
 ### R in Academia
 
++ [vtreat data cleaning and preparation article now available on arXiv](http://www.win-vector.com/blog/2016/11/vtreat-data-cleaning-and-preparation-article-now-available-on-arxiv/)
 
 ### Videos and Podcasts
 
@@ -50,26 +127,47 @@ Hello and welcome to the new issue of **R Weekly**!
 ### Resources
 
 + [Learn to Analyze Big Data with R - Free Course](http://101.datascience.community/2016/11/30/learn-to-analyze-big-data-with-r-free-course/)
-
++ [Learning R programming by reading books: A book list #rstats](http://statisticalestimation.blogspot.com/2016/11/learning-r-programming-by-reading-books.html)
++ [The Hitchhiker’s Guide to Ggplot2 in R](http://pachamaltese.github.io/hitchhikers_ggplot2.html)
 
 ### New Packages and Tools
 
-+ [R Phone Home: Notifications with pushoverr](http://bconnelly.net/2016/11/R-phone-home/)
-+ [fauxpas - HTTP conditions package](http://ropensci.org/blog/technotes/2016/11/18/fauxpas-release)
-+ [elasticsearchr - a Lightweight Elasticsearch Client for R](https://alexioannides.com/2016/11/28/elasticsearchr-a-lightweight-elasticsearch-client-for-r/) 
-+ [A new `subprocess` package for #RStats](https://www.r-bloggers.com/a-new-subprocess-package-for-r)
-+ [Package ggguitar on CRAN](http://www.r-chart.com/2016/11/package-ggguitar-on-cran.html)
-+ [Santa’s Little Helper – a function for randomly assigning Secret Santa presents](https://amywhiteheadresearch.wordpress.com/2016/12/01/santas-little-helper/)
++ [pushoverr](http://bconnelly.net/2016/11/R-phone-home/) - R Phone Home: Notifications with pushoverr
++ [fauxpas](http://ropensci.org/blog/technotes/2016/11/18/fauxpas-release) - HTTP conditions package
++ [elasticsearchr](https://alexioannides.com/2016/11/28/elasticsearchr-a-lightweight-elasticsearch-client-for-r/) - a Lightweight Elasticsearch Client for R
++ [subprocess](https://www.r-bloggers.com/a-new-subprocess-package-for-r) - A new subprocess package for #RStats
++ [ggguitar](http://www.r-chart.com/2016/11/package-ggguitar-on-cran.html) - This package allows you to create guitar tablature in the style of ggplot2. 
++ [Santa’s Little Helper](https://amywhiteheadresearch.wordpress.com/2016/12/01/santas-little-helper/)  – a function for randomly assigning Secret Santa presents
++ [datapasta](https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html) - Datapasta provides three Rstudio addins that give you complete freedom copy and paste data into your RStudio scource editor.
+
+<video width="600" controls autoplay loop preload="auto">
+  <source src="https://pbs.twimg.com/tweet_video/Cyao5tEUAAAqy7D.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+
++ [commonmark](http://ropensci.org/blog/blog/2016/12/02/commonmark) - High Performance CommonMark and Github Markdown Rendering in R
+
++ [pdfsearch](http://educate-r.org//2016/12/02/intro_pdfsearch.html) - `pdfsearch` adds the ability to do keyword searches on pdf files.
+
++ [elasticsearchr](https://alexioannides.com/2016/11/28/elasticsearchr-a-lightweight-elasticsearch-client-for-r/) – a Lightweight Elasticsearch Client for R
+
++ [BERT](http://www.thertrader.com/2016/11/30/bert-a-newcomer-in-the-r-excel-connection/) - a newcomer in the R Excel connection
 
 ### New Releases
 
-
++ [Microsoft R Open 3.3.2](http://blog.revolutionanalytics.com/2016/11/mro-332-now-available.html) - Microsoft's distribution of open source R.
++ [D3PartitionR 0.3.0](https://antoineguillot.wordpress.com/2016/12/02/d3partitionr-0-3-0-is-available-on-cran/) - Plotting D3 Hierarchical Plots in R and Shiny
++ [anytime 0.1.1](http://dirk.eddelbuettel.com/blog/2016/11/27#anytime_0.1.1) - anytime is a very focussed package aiming to convert anything in integer, numeric, character, factor, ordered ... format to POSIXct (or Date) objects.
 
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
++  Check customization via environment variables to detect side effects of `.Call()` and `.External()` calls which alter their arguments is described in §8 of the `R Internals` manual. 
 
++ The Just In Time byte code compiler is now enabled by default at level 3. For now, the compiler will not compile code containing explicit calls to `browser()`: this is to support single stepping from the `browser()` call.
+
++ JIT compilation can be disabled using `compiler::enableJIT(0)` or by setting environment variable `R_ENABLE_JIT` to `0`. 
 
 
 ### Upcoming Events
@@ -80,3 +178,6 @@ The conference about all things R and RStudio.<br />
 
 ### Quote of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I did a statistical study (N=2) about saving factory jobs. R^2=1. Clear evidence that we&#39;re on the right track. <a href="https://twitter.com/hashtag/Rstats?src=hash">#Rstats</a> <a href="https://twitter.com/hashtag/ggplot2?src=hash">#ggplot2</a> <a href="https://twitter.com/hashtag/badstats?src=hash">#badstats</a> <a href="https://t.co/e1er8kO90Y">pic.twitter.com/e1er8kO90Y</a></p>&mdash; Lego Grad Student (@legogradstudent) <a href="https://twitter.com/legogradstudent/status/804757994319642624"></a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">use ggmissing and visdat to let your coauthors LITERALLY see what they are missing <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> by <a href="https://twitter.com/nj_tierney">@nj_tierney</a> <a href="https://t.co/Vz8if3bG83">pic.twitter.com/Vz8if3bG83</a></p>&mdash; Andrew MacDonald (@polesasunder) <a href="https://twitter.com/polesasunder/status/803622070030569473"></a></blockquote>
