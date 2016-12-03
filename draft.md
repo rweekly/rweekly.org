@@ -34,8 +34,6 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ![Creating GeoJSON out of Shapefile in R](https://d262ilb51hltx0.cloudfront.net/max/2000/1*vPoYMtoNBOQpbwpUc2cE1g.png)
 
-+ [Introduction of the pdfsearch package](http://educate-r.org//2016/12/02/intro_pdfsearch.html)
-
 + [Extracting Tables from PDFs in R using the Tabulizer Package](http://datascienceplus.com/extracting-tables-from-pdfs-in-r-using-the-tabulizer-package/)
 
 + [Extreme Gradient Boosting and Preprocessing in Machine Learning – Addendum to predicting flu outcome with R](https://shiring.github.io/machine_learning/2016/12/02/flu_outcome_ML_2_post)
@@ -148,8 +146,6 @@ Your browser does not support the video tag.
 + [commonmark](http://ropensci.org/blog/blog/2016/12/02/commonmark) - High Performance CommonMark and Github Markdown Rendering in R
 
 + [pdfsearch](http://educate-r.org//2016/12/02/intro_pdfsearch.html) - `pdfsearch` adds the ability to do keyword searches on pdf files.
-
-+ [elasticsearchr](https://alexioannides.com/2016/11/28/elasticsearchr-a-lightweight-elasticsearch-client-for-r/) – a Lightweight Elasticsearch Client for R
 
 + [BERT](http://www.thertrader.com/2016/11/30/bert-a-newcomer-in-the-r-excel-connection/) - a newcomer in the R Excel connection
 
