@@ -17,9 +17,7 @@ title: Random
 
   <p>Submit new posts and dead links report on <a href="https://github.com/rweekly/rweekly.org/edit/gh-pages/draft.md">GitHub</a>.</p>
 
-  <button id="random-button" type="button" class="disabled random-btn" ga-on="click"
-  ga-event-category="run-random"
-  ga-event-action="run-random-one-time">Next</button>
+  <button id="random-button" type="button" class="disabled random-btn" >Next</button>
 
 
 </article>
@@ -65,6 +63,7 @@ title: Random
     }
 
     function run_countdown(){
+      _paq.push(['trackEvent', 'run-random', '1']);
       disable_button();
       ranbody.innerHTML = "";
       ranbody.appendChild(cached_dom);

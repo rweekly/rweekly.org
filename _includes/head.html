@@ -31,16 +31,16 @@
   <meta name="twitter:image" content="https://rweekly.org/public/logo.png" />
 
   <script>
-    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  // window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 
-    ga('create', 'UA-78119605-1', 'auto');
+  // ga('create', 'UA-78119605-1', 'auto');
 
-    ga('require', 'outboundLinkTracker');
-    ga('require', 'urlChangeTracker');
-    ga('require', 'pageVisibilityTracker');
-    ga('require', 'socialWidgetTracker');
-    ga('require', 'eventTracker');
-    ga('send', 'pageview');
+  // ga('require', 'outboundLinkTracker');
+  // ga('require', 'urlChangeTracker');
+  // ga('require', 'pageVisibilityTracker');
+  // ga('require', 'socialWidgetTracker');
+  // ga('require', 'eventTracker');
+  // ga('send', 'pageview');
 
   // external
   function add_external_links() {
@@ -59,8 +59,25 @@
   setInterval(add_external_links, 1000);
   </script>
 
-  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  <!--<script async src='https://www.google-analytics.com/analytics.js'></script>-->
   <script async src='https://cdnjs.cloudflare.com/ajax/libs/autotrack/1.0.3/autotrack.js'></script>
 
+  <!-- Piwik -->
+  <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking', true]);
+    _paq.push(['enableHeartBeatTimer']);
+    _paq.push(['trackAllContentImpressions']);
+    (function() {
+      var u="//web.rweekly.org/";
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', '1']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <noscript><p><img src="//web.rweekly.org/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+  <!-- End Piwik Code -->
 
 </head>
