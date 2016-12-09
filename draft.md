@@ -29,7 +29,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + :fr: [R, l’Open Source, les RUG et les meetups](http://www.thinkr.fr/r-open-source-rug-meetup/) — [English (auto-translate)](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http%3A%2F%2Fwww.thinkr.fr%2Fr-open-source-rug-meetup%2F&sandbox=1)
 
-![Worldwide R meetups](http://static.thinkr.fr/meetups-r-monde.jpeg "Meetups R")
+![Worldwide R Meetups](https://raw.githubusercontent.com/rweekly/image/master/2016-12-12/meetups-r-world.jpeg)
 
 ### R in Organization
 
