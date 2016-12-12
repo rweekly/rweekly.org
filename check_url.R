@@ -1,6 +1,10 @@
 install.packages("https://github.com/jeroenooms/curl/archive/master.tar.gz", repos = NULL)
 
+
 test.local.urls <- function(path, timeout = 100, total_con = 30, host_con = 6, ...){
+
+  ignore_list = c("blog\\.exploratory\\.io", "www\\.kaggle\\.com", "lionel-\\.github\\.io", "medium\\.swirrl\\.com")
+  ignore_pattern = paste0( paste0("(", ignore_list, ")") , collapse = "|" )
 
   res = vector("list", length(path))
 
@@ -16,6 +20,7 @@ test.local.urls <- function(path, timeout = 100, total_con = 30, host_con = 6, .
 
       # get urls
       hrefs <- unique(stringr::str_match_all(paste(file_content, collapse = "\n"), '(?:\\[(?:[^]]*)\\] *(?:\\(([^)]*)\\)))')[[1]][,2])
+      hrefs = grep(ignore_pattern, hrefs, value = TRUE, invert = TRUE)
 
       message(paste0("Found ",length(hrefs)," URLs in ", pathi))
 
@@ -97,5 +102,4 @@ if (nrow(failed_draft)>0) {
 	print(failed_draft)
 }
 
-if (failed > 5) stop(paste0(failed, " links" ))
-
+if (failed > 25) stop(paste0(failed, " links" ))
