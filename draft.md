@@ -1,6 +1,8 @@
 ---
 layout: draft
 title: Issue 30
+description: Draft of the R Weekly
+image: https://rweekly.org/public/facebook.png
 ---
 
 Release Date: 2016-12-19
