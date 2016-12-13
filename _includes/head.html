@@ -50,6 +50,7 @@
 
   <script type="text/javascript">
     var _paq = _paq || [];
+    _paq.push(['setCustomVariable', 1, "Night", localStorage.getItem('night'), "page"]);
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking', true]);
     _paq.push(['enableHeartBeatTimer']);
@@ -69,5 +70,24 @@
   <link rel="dns-prefetch" href="//github.com">
   <link rel="dns-prefetch" href="//blog.revolutionanalytics.com">
   <link rel="dns-prefetch" href="//blog.rstudio.org">
+
+  <script>
+  function nightMode() {
+      if (localStorage.getItem('night') == 'true') {
+          localStorage.setItem('night', 'false');
+          document.body.classList.remove('night');
+          _paq.push(['trackEvent', 'set-nightmode', 'false']);
+      } else {
+          localStorage.setItem('night', 'true');
+          document.body.classList.add('night');
+          _paq.push(['trackEvent', 'set-nightmode', 'true']);
+      }
+  }
+  if (localStorage.getItem('night') == 'true') {
+     document.addEventListener( "DOMContentLoaded", function(){
+        document.body.classList.add('night');
+     });
+  }
+  </script>
 
 </head>
