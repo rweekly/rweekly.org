@@ -41,9 +41,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### Videos and Podcasts
 
-
-
-
++ [An Interview With David Robinson, Data Scientist at Stack Overflow](https://www.datacamp.com/community/blog/an-interview-with-david-robinson-data-scientist-at-stack-overflow) 
 
 ### Resources
 
