@@ -20,6 +20,7 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Gene homology Part 2 - creating directed networks with igraph](https://shiring.github.io/genome/2016/12/14/homologous_genes_part2_post)
 + [Visualizing taxi trips between NYC neighborhoods with Spark and Microsoft R Server](http://blog.revolutionanalytics.com/2016/12/taxi-mrs-spark.html) 
 + [Reproducible Finance with R: Pulling and Displaying ETF Data](https://www.rstudio.com/rviews/2016/12/14/reproducible-finance-with-r-pulling-and-displaying-etf-data/)
++ [Image description with Microsoft's Cognitive Services and R](http://flovv.github.io/Roxford_extension/)
 
 ### R in Real World
 
