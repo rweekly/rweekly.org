@@ -16,8 +16,10 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### Tutorials
 
-
-
++ [Forecast double seasonal time series with multiple linear regression in R](https://petolau.github.io/Forecast-double-seasonal-time-series-with-multiple-linear-regression-in-R/)
++ [Gene homology Part 2 - creating directed networks with igraph](https://shiring.github.io/genome/2016/12/14/homologous_genes_part2_post)
++ [Visualizing taxi trips between NYC neighborhoods with Spark and Microsoft R Server](http://blog.revolutionanalytics.com/2016/12/taxi-mrs-spark.html) 
++ [Reproducible Finance with R: Pulling and Displaying ETF Data](https://www.rstudio.com/rviews/2016/12/14/reproducible-finance-with-r-pulling-and-displaying-etf-data/)
 
 ### R in Real World
 
@@ -26,7 +28,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### International R
 
-
++ :fr: [Cartographier le vote pour le Brexit](http://freakonometrics.hypotheses.org/49832) - [English - Auto-translate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://freakonometrics.hypotheses.org/49832)
++ :fr: [#RStats — languagelayeR : accéder à l’API languagelayer avec R](http://colinfay.me/rstats-languagelayer-api/) - [English - Auto-translate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://colinfay.me/rstats-languagelayer-api/)
 
 
 ### R in Organization
@@ -50,7 +53,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### New Packages and Tools
 
-
++ [gendeR — An utility to get gender from first names using genderize.io API](https://github.com/michelcaradec/gendeR)
 
 
 ### New Releases
