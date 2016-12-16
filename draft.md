@@ -21,6 +21,9 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Visualizing taxi trips between NYC neighborhoods with Spark and Microsoft R Server](http://blog.revolutionanalytics.com/2016/12/taxi-mrs-spark.html) 
 + [Reproducible Finance with R: Pulling and Displaying ETF Data](https://www.rstudio.com/rviews/2016/12/14/reproducible-finance-with-r-pulling-and-displaying-etf-data/)
 + [Image description with Microsoft's Cognitive Services and R](http://flovv.github.io/Roxford_extension/)
++ [Getting started with MongoDB in R](https://cran.r-project.org/web/packages/mongolite/vignettes/intro.html)
++ [Piping within pipes](http://nathaneastwood.github.io/2016-11-21-pipes-in-pipes/) 
++ [Organize your data manipulation in terms of “grouped ordered apply”]()
 
 ### R in Real World
 
@@ -40,7 +43,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### R in Academia
 
-
++ [Approaches to R education in Canadian universities](https://f1000research.com/articles/5-2802/v1)
 
 
 ### Videos and Podcasts
