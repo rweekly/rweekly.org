@@ -23,11 +23,13 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Getting started with MongoDB in R](https://cran.r-project.org/web/packages/mongolite/vignettes/intro.html)
 + [Piping within pipes](http://nathaneastwood.github.io/2016-11-21-pipes-in-pipes/) 
 + [Organize your data manipulation in terms of “grouped ordered apply”](http://www.win-vector.com/blog/2016/12/organize-your-data-manipulation-in-terms-of-grouped-ordered-apply/)
++ [The tidyverse is the way forward for me](https://www.reddit.com/r/rstats/comments/5i8v97/the_tidyverse_is_the_way_forward_for_me/)
 
 ### R in Real World
 
 + [interactive and styled middle earth map](http://jkunst.com/r/interactive-and-styled-middle-earth-map/)
 + [Visualizing taxi trips between NYC neighborhoods with Spark and Microsoft R Server](http://blog.revolutionanalytics.com/2016/12/taxi-mrs-spark.html) 
++ [I analyzed some world penis data - because why not](https://blog.jemu.name/post/2015/08/i-analyzed-some-world-penis-data---because-why-not/)
 
 ### International R
 
