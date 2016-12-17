@@ -18,6 +18,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Forecast double seasonal time series with multiple linear regression in R](https://petolau.github.io/Forecast-double-seasonal-time-series-with-multiple-linear-regression-in-R/)
 
+![Forecast double seasonal time series with multiple linear regression in R](https://cdn.rawgit.com/PetoLau/petolau.github.io/0bad7ee8d58c2996f64ebcc7b1ebabd352dc0448/images/post_2/industry_4.gif)
+
 + [Gene homology Part 2 - creating directed networks with igraph](https://shiring.github.io/genome/2016/12/14/homologous_genes_part2_post)
 
 + [Reproducible Finance with R: Pulling and Displaying ETF Data](https://www.rstudio.com/rviews/2016/12/14/reproducible-finance-with-r-pulling-and-displaying-etf-data/)
@@ -36,8 +38,6 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ![chaos-bifurcation-diagrams](https://cdn.rawgit.com/rweekly/image/master/2016-12-19/chaos-bifurcation-diagrams.jpg)
 
-+ [usrR2016-tutorial: Extracting data from the web APIs and beyond](https://github.com/ropensci/user2016-tutorial)
-
 + [How to monitor Apache Zookeeper with R](https://rud.is/b/2016/12/16/minding-the-zookeeper-with-r/)
 
 + [Reproducible Finance with R: Pulling and Displaying ETF Data](https://www.rstudio.com/rviews/2016/12/14/reproducible-finance-with-r-pulling-and-displaying-etf-data/)
@@ -46,11 +46,9 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [How the State of Indiana uses R and Azure to forecast employment](http://blog.revolutionanalytics.com/2016/12/state-of-indiana-employment.html) - "Big Data" generates a lot of news these days, but sometimes small data still means big computation.
 
-+ [Dynamically generated Shiny UI](http://www.mango-solutions.com/wp/2016/12/dynamically-generated-shiny-ui/) - By Gábor Csárdi — Mango Solutions & Joe Cheng — RStudio.
++ [Dynamically generated Shiny UI](http://www.mango-solutions.com/wp/2016/12/dynamically-generated-shiny-ui/)
 
 + [Simultaneous intervals for smooths revisited](http://www.fromthebottomoftheheap.net/2016/12/15/simultaneous-interval-revisited/) -  correcting a silly mistake.
-
-+ [GPU Accelerated XGBoost](http://dmlc.ml/2016/12/14/GPU-accelerated-xgboost.html) - By [DMLC](http://dmlc.ml/).
 
 + [Gene homology Part 2 - creating directed networks with igraph](https://shiring.github.io/genome/2016/12/14/homologous_genes_part2_post)
 
@@ -64,9 +62,13 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [I analyzed some world penis data - because why not](https://blog.jemu.name/post/2015/08/i-analyzed-some-world-penis-data---because-why-not/)
 
+![I analyzed some world penis data - because why not](https://blog.jemu.name/images/plot_length_method-1.png)
+
 + [Pangaea and R and open palaeo data ](http://www.fromthebottomoftheheap.net/2016/12/16/pangaea-r-open-palaeo-data/) - Download data from the Pangaea, a major data repository for the earth and environmental sciences. 
 
 + [Seinfeld Characters - A Post About Nothing](https://stoltzmaniac.com/seinfeld-characters-a-post-about-nothing/) - This post is dedicated to my mother - Seinfeld's greatest fan.
+
+![Seinfeld Characters - A Post About Nothing](https://stoltzmaniac.com/content/images/2016/12/seinfeld-characters-a-post-about-nothing/unnamed-chunk-9-1-small.PNG)
 
 + [OnePageR](http://togaware.com/onepager/) - A Survival Guide to Data Science with R.
 
@@ -97,6 +99,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [What is the most useful R trick? \[closed\]](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
 
++ [usrR2016-tutorial: Extracting data from the web APIs and beyond](https://github.com/ropensci/user2016-tutorial)
 
 ### New Packages and Tools
 
@@ -108,22 +111,21 @@ Hello and welcome to the new issue of **R Weekly**!
 + [nanotime](http://dirk.eddelbuettel.com/blog/2016/12/16/#nanotime_0.0.1) - New package for Nanosecond Resolution Time for R.
 + [visreg](https://github.com/pbreheny/visreg) - Visualization of Regression Models
 + [wishlist](https://github.com/RConsortium/wishlist) -  A wishlist of idea from the ISC and community
-+ [jshinyserver](https://github.com/statsplot/jshinyserver) - jShiny Server is an alternative Shiny server.
 + [xslt](https://github.com/jeroenooms/xslt) - An extension for the 'xml2' package to transform XML documents by applying an XSL stylesheet.
 + [widgetframe](https://github.com/bhaskarvk/widgetframe) - Embed htmlwidgets in Responsive iframe.
-+ [thread](https://github.com/lbartnik/thread) - R Threads - Experimental Support. [Readmore](https://random-remarks.net/2016/12/11/a-very-experimental-threading-in-r/)
++ [thread](https://random-remarks.net/2016/12/11/a-very-experimental-threading-in-r/) - R Threads - Experimental Support.
 + [otr](https://github.com/jeroenooms/otr) - OTR allows you to have private conversations over by providing Encryption, Authentication, Deniability, and Perfect forward secrecy.
++ [jshinyserver](https://github.com/statsplot/jshinyserver) - jShiny Server is an alternative Shiny server.
 
 ### New Releases
 
-+ [data.table 1.10](https://github.com/Rdatatable/data.table/wiki)
 + [revealjs 0.8](https://github.com/rstudio/revealjs) - R Markdown Format for reveal.js Presentations.
-+ [sparklyr 0.5](https://github.com/rstudio/sparklyr/releases) 
-+ [xgboost 0.6 on CRAN](https://cran.r-project.org/web/packages/xgboost/index.html)
++ [sparklyr 0.5](https://github.com/rstudio/sparklyr/releases) - 
+R interface for Apache Spark
++ [xgboost 0.6](https://cran.r-project.org/web/packages/xgboost/index.html) - Extreme Gradient Boosting.
 + [stringdist 0.9.4.4](https://cran.r-project.org/web/packages/stringdist/index.html) - Approximate String Matching and String Distance Functions.
 + [anytime 0.1.2](http://dirk.eddelbuettel.com/blog/2016/12/13/#anytime_0.1.2) - Another bugfix.
 + [RcppCCTZ 0.1.0](https://cran.r-project.org/web/packages/RcppCCTZ/index.html) - Rcpp interface to CCTZ library.
-
 
 
 ### R Project Updates
@@ -136,7 +138,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS), 
 
 + `dev.capture()` using Quartz Cocoa device (macOS) returned invalid components if the back-end chose to use ARGB instead of RGBA image format. (Reported by Noam Ross.)
 
-+ `methods(f)` now also works for ‘f’ ‘"("’ or ‘"{"’.
++ `methods(f)` now also works for `f` `"("` or `"{"`.
 
 
 ### Upcoming Events
