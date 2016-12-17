@@ -50,8 +50,6 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [Simultaneous intervals for smooths revisited](http://www.fromthebottomoftheheap.net/2016/12/15/simultaneous-interval-revisited/) -  correcting a silly mistake.
 
-+ [Gene homology Part 2 - creating directed networks with igraph](https://shiring.github.io/genome/2016/12/14/homologous_genes_part2_post)
-
 ### R in Real World
 
 + [interactive and styled middle earth map](http://jkunst.com/r/interactive-and-styled-middle-earth-map/)
