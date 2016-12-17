@@ -100,13 +100,12 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### New Packages and Tools
 
-+ [nanotime 0.0.1](https://github.com/eddelbuettel/nanotime) - New package for Nanosecond Resolution Time for R.
 + [gendeR — An utility to get gender from first names using genderize.io API](https://github.com/michelcaradec/gendeR)
 + [xaringan](https://github.com/yihui/xaringan) - Presentation Ninja
 + [RLightGBM](https://github.com/bwilbertz/RLightGBM) - RLightGBM, R interface to Light Gradient Boosting Machine library
 + [slipper](https://github.com/jtleek/slipper) - Tidy and easy bootstrapping
 + [bsselectR](https://walkerke.github.io/2016/12/rmd-dropdowns/) - Dropdown menus in R Markdown with bsselectR 
-+ [nanotime](http://dirk.eddelbuettel.com/blog/2016/12/16/#nanotime_0.0.1) - Nanosecond Resolution Time for R
++ [nanotime](http://dirk.eddelbuettel.com/blog/2016/12/16/#nanotime_0.0.1) - New package for Nanosecond Resolution Time for R.
 + [visreg](https://github.com/pbreheny/visreg) - Visualization of Regression Models
 + [wishlist](https://github.com/RConsortium/wishlist) -  A wishlist of idea from the ISC and community
 + [jshinyserver](https://github.com/statsplot/jshinyserver) - jShiny Server is an alternative Shiny server.
