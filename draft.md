@@ -61,6 +61,7 @@ Hello and welcome to the new issue of **R Weekly**!
 + [I analyzed some world penis data - because why not](https://blog.jemu.name/post/2015/08/i-analyzed-some-world-penis-data---because-why-not/)
 
 ![I analyzed some world penis data - because why not](https://blog.jemu.name/images/plot_length_method-1.png)
+(*Note that the scraping code doesn't work any more, instead download the source data from [tadaadata/loldata](https://github.com/tadaadata/loldata) package*)
 
 + [Pangaea and R and open palaeo data ](http://www.fromthebottomoftheheap.net/2016/12/16/pangaea-r-open-palaeo-data/) - Download data from the Pangaea, a major data repository for the earth and environmental sciences. 
 
