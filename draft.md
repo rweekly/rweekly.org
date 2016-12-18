@@ -89,7 +89,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### Videos and Podcasts
 
-+ [An Interview With David Robinson, Data Scientist at Stack Overflow](https://www.datacamp.com/community/blog/an-interview-with-david-robinson-data-scientist-at-stack-overflow) From here, you will learn how to build a data scientist profile. 
++ [An Interview With David Robinson, Data Scientist at Stack Overflow](https://www.datacamp.com/community/blog/an-interview-with-david-robinson-data-scientist-at-stack-overflow) - Learn how to build a data scientist profile. 
 + [NSSD 28 - Writing is a Lot Harder Than Just Talking](https://soundcloud.com/nssd-podcast/episode-28-writing-is-a-lot-harder-than-just-talking) - About building data science products that provide a good user experience while adhering to some kind of ground truth, whether it’s in medicine, education, news, or elsewhere.
 + [Analyzing JSON data by taking advantage of what makes it JSON in R](https://blog.exploratory.io/analyzing-json-data-by-taking-advantage-of-the-structure-in-r-1e0508e30117#.7sxhp32yt)
 
