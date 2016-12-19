@@ -16,128 +16,52 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### Tutorials
 
-+ [Forecast double seasonal time series with multiple linear regression in R](https://petolau.github.io/Forecast-double-seasonal-time-series-with-multiple-linear-regression-in-R/)
 
-![Forecast double seasonal time series with multiple linear regression in R](https://cdn.rawgit.com/PetoLau/petolau.github.io/0bad7ee8d58c2996f64ebcc7b1ebabd352dc0448/images/post_2/industry_4.gif)
-
-+ [Gene homology Part 2 - creating directed networks with igraph](https://shiring.github.io/genome/2016/12/14/homologous_genes_part2_post)
-
-+ [Reproducible Finance with R: Pulling and Displaying ETF Data](https://www.rstudio.com/rviews/2016/12/14/reproducible-finance-with-r-pulling-and-displaying-etf-data/)
-
-+ [Image description with Microsoft's Cognitive Services and R](http://flovv.github.io/Roxford_extension/)
-
-+ [Getting started with MongoDB in R](https://cran.r-project.org/web/packages/mongolite/vignettes/intro.html)
-
-+ [Piping within pipes](http://nathaneastwood.github.io/2016-11-21-pipes-in-pipes/) 
-
-+ [Organize your data manipulation in terms of “grouped ordered apply”](http://www.win-vector.com/blog/2016/12/organize-your-data-manipulation-in-terms-of-grouped-ordered-apply/)
-
-+ [The tidyverse is the way forward for me](https://www.reddit.com/r/rstats/comments/5i8v97/the_tidyverse_is_the_way_forward_for_me/)
-
-+ [Chaos, bifurcation diagrams and Lyapunov exponents with R (2)](https://a-blog-from-sydney.blogspot.jp/2016/12/chaos-bifurcation-diagrams-and-lyapunov.html)
-
-![chaos-bifurcation-diagrams](https://cdn.rawgit.com/rweekly/image/master/2016-12-19/chaos-bifurcation-diagrams.jpg)
-
-+ [How to monitor Apache Zookeeper with R](https://rud.is/b/2016/12/16/minding-the-zookeeper-with-r/)
-
-+ [Reproducible Finance with R: Pulling and Displaying ETF Data](https://www.rstudio.com/rviews/2016/12/14/reproducible-finance-with-r-pulling-and-displaying-etf-data/)
-
-+ [Reproducible Finance with R: A Shiny ETF Map](https://www.rstudio.com/rviews/2016/12/16/reproducible-finance-with-r-a-shiny-etf-map/)
-
-+ [How the State of Indiana uses R and Azure to forecast employment](http://blog.revolutionanalytics.com/2016/12/state-of-indiana-employment.html) - "Big Data" generates a lot of news these days, but sometimes small data still means big computation.
-
-+ [Dynamically generated Shiny UI](http://www.mango-solutions.com/wp/2016/12/dynamically-generated-shiny-ui/)
-
-+ [Simultaneous intervals for smooths revisited](http://www.fromthebottomoftheheap.net/2016/12/15/simultaneous-interval-revisited/) -  correcting a silly mistake.
 
 ### R in Real World
 
-+ [interactive and styled middle earth map](http://jkunst.com/r/interactive-and-styled-middle-earth-map/)
 
-+ [Visualizing taxi trips between NYC neighborhoods with Spark and Microsoft R Server](http://blog.revolutionanalytics.com/2016/12/taxi-mrs-spark.html) 
 
-+ [Image description with Microsoft's Cognitive Services and R](http://flovv.github.io/Roxford_extension/)
-
-+ [I analyzed some world penis data - because why not](https://blog.jemu.name/post/2015/08/i-analyzed-some-world-penis-data---because-why-not/)
-
-![I analyzed some world penis data - because why not](https://blog.jemu.name/images/plot_length_method-1.png)
-(*Note that the scraping code doesn't work any more, instead download the source data from [tadaadata/loldata](https://github.com/tadaadata/loldata) package*)
-
-+ [Pangaea and R and open palaeo data ](http://www.fromthebottomoftheheap.net/2016/12/16/pangaea-r-open-palaeo-data/) - Download data from the Pangaea, a major data repository for the earth and environmental sciences. 
-
-+ [Seinfeld Characters - A Post About Nothing](https://stoltzmaniac.com/seinfeld-characters-a-post-about-nothing/) - This post is dedicated to my mother - Seinfeld's greatest fan.
-
-![Seinfeld Characters - A Post About Nothing](https://stoltzmaniac.com/content/images/2016/12/seinfeld-characters-a-post-about-nothing/unnamed-chunk-9-1-small.PNG)
-
-+ [OnePageR](http://togaware.com/onepager/) - A Survival Guide to Data Science with R.
 
 ### International R
 
-+ [:fr: Cartographier le vote pour le Brexit](http://freakonometrics.hypotheses.org/49832) - [English - Auto-translate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://freakonometrics.hypotheses.org/49832)
-+ [:fr: #RStats — languagelayeR : accéder à l’API languagelayer avec R](http://colinfay.me/rstats-languagelayer-api/) - [English - Auto-translate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://colinfay.me/rstats-languagelayer-api/)
 
 
 ### R in Organization
 
-+ [ROpenSci: Announcing our first fellowship awarded to Dr. Nick Golding](http://ropensci.org/blog/blog/2016/12/12/ropensci-fellowship-zoon.html)
-+ [R Consortium Call for Proposals](https://www.r-consortium.org/blog/2016/12/06/call-for-proposals) - The new R Consortium "Call for Proposals" is now open. The deadline for submissions is February 10, 2017.
+
+
 
 ### R in Academia
 
-+ [Approaches to R education in Canadian universities](https://f1000research.com/articles/5-2802/v1)
-+ [Journal of Statistical Software Vol 75](https://www.jstatsoft.org/issue/view/v075)
+
 
 
 ### Videos and Podcasts
 
-+ [An Interview With David Robinson, Data Scientist at Stack Overflow](https://www.datacamp.com/community/blog/an-interview-with-david-robinson-data-scientist-at-stack-overflow) - Learn how to build a data scientist profile. 
-+ [NSSD 28 - Writing is a Lot Harder Than Just Talking](https://soundcloud.com/nssd-podcast/episode-28-writing-is-a-lot-harder-than-just-talking) - About building data science products that provide a good user experience while adhering to some kind of ground truth, whether it’s in medicine, education, news, or elsewhere.
-+ [Analyzing JSON data by taking advantage of what makes it JSON in R](https://blog.exploratory.io/analyzing-json-data-by-taking-advantage-of-the-structure-in-r-1e0508e30117#.7sxhp32yt)
+
+
+
 
 ### Resources
 
-+ [What is the most useful R trick? \[closed\]](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
 
-+ [usrR2016-tutorial: Extracting data from the web APIs and beyond](https://github.com/ropensci/user2016-tutorial)
+
 
 ### New Packages and Tools
 
-+ [gendeR — An utility to get gender from first names using genderize.io API](https://github.com/michelcaradec/gendeR)
-+ [xaringan](https://github.com/yihui/xaringan) - Presentation Ninja
-+ [RLightGBM](https://github.com/bwilbertz/RLightGBM) - RLightGBM, R interface to Light Gradient Boosting Machine library
-+ [slipper](https://github.com/jtleek/slipper) - Tidy and easy bootstrapping
-+ [bsselectR](https://walkerke.github.io/2016/12/rmd-dropdowns/) - Dropdown menus in R Markdown with bsselectR 
-+ [nanotime](http://dirk.eddelbuettel.com/blog/2016/12/16/#nanotime_0.0.1) - New package for Nanosecond Resolution Time for R.
-+ [visreg](https://github.com/pbreheny/visreg) - Visualization of Regression Models
-+ [wishlist](https://github.com/RConsortium/wishlist) -  A wishlist of idea from the ISC and community
-+ [xslt](https://github.com/jeroenooms/xslt) - An extension for the 'xml2' package to transform XML documents by applying an XSL stylesheet.
-+ [widgetframe](https://github.com/bhaskarvk/widgetframe) - Embed htmlwidgets in Responsive iframe.
-+ [thread](https://random-remarks.net/2016/12/11/a-very-experimental-threading-in-r/) - R Threads - Experimental Support.
-+ [otr](https://github.com/jeroenooms/otr) - OTR allows you to have private conversations over by providing Encryption, Authentication, Deniability, and Perfect forward secrecy.
-+ [jshinyserver](https://github.com/statsplot/jshinyserver) - jShiny Server is an alternative Shiny server.
+
 
 ### New Releases
 
-+ [revealjs 0.8](https://github.com/rstudio/revealjs) - R Markdown Format for reveal.js Presentations.
-+ [sparklyr 0.5](https://github.com/rstudio/sparklyr/releases) - 
-R interface for Apache Spark
-+ [xgboost 0.6](https://cran.r-project.org/web/packages/xgboost/index.html) - Extreme Gradient Boosting.
-+ [stringdist 0.9.4.4](https://cran.r-project.org/web/packages/stringdist/index.html) - Approximate String Matching and String Distance Functions.
-+ [anytime 0.1.2](http://dirk.eddelbuettel.com/blog/2016/12/13/#anytime_0.1.2) - Another bugfix.
-+ [RcppCCTZ 0.1.0](https://cran.r-project.org/web/packages/RcppCCTZ/index.html) - Rcpp interface to CCTZ library.
+
 
 
 ### R Project Updates
 
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS), CHANGES IN R 3.3.2 BUG FIXES.
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS), 
 
-+ `print.POSIXct()` gets optional `tz` and `usetz` arguments, thanks to a report from Jennifer S. Lyon.
 
-+ The internal methods of `download.file()` and `url()` now report if they are unable to follow the redirection of a `http://` URL to a `https://` URL (rather than failing silently).
-
-+ `dev.capture()` using Quartz Cocoa device (macOS) returned invalid components if the back-end chose to use ARGB instead of RGBA image format. (Reported by Noam Ross.)
-
-+ `methods(f)` now also works for `f` `"("` or `"{"`.
 
 
 ### Upcoming Events
@@ -148,4 +72,3 @@ The conference about all things R and RStudio.<br />
 
 ### Quotes of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Free weekend. This happened.<a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://twitter.com/rstudio">@rstudio</a> + <a href="https://twitter.com/unity3d">@unity3d</a> + <a href="https://twitter.com/oculus">@oculus</a> = <a href="https://twitter.com/hashtag/VR?src=hash">#VR</a> <a href="https://twitter.com/hashtag/datatviz?src=hash">#datatviz</a> <a href="https://twitter.com/AirbnbEng">@AirbnbEng</a> data<a href="https://twitter.com/hashtag/ggplot2?src=hash">#ggplot2</a> <a href="https://twitter.com/thomasp85">@thomasp85</a> <a href="https://twitter.com/hashtag/ggforce?src=hash">#ggforce</a> inspired <a href="https://t.co/DO7ohv5uuN">pic.twitter.com/DO7ohv5uuN</a></p>&mdash; Simon Jackson (@drsimonj) <a href="https://twitter.com/drsimonj/status/808275793155530756"></a></blockquote>
