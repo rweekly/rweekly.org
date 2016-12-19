@@ -52,6 +52,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### New Packages and Tools
 
++ [pals](https://github.com/kwstat/pals/blob/master/README.md) - Color Palettes and Palette Evaluation Tools
 
 
 ### New Releases
