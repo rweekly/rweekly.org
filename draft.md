@@ -71,6 +71,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),
 
 + [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 12 and 14, 2017** <br>
 The conference about all things R and RStudio.<br /> 
++ [SatRday #2 Conference - Cape Town, South Africa](http://capetown2017.satrdays.org/) **18 Feb 2017**
 
 
 ### Quotes of the Week
