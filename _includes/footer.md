@@ -26,4 +26,4 @@ document.getElementById('search-form').addEventListener('submit', function(e){
 
 [Twitter @ rweekly_org](https://twitter.com/rweekly_org)
 
-Read more posts on [R-bloggers](http://www.r-bloggers.com).
+R Weekly uses [cookies](/privacy) to improve user experience.
