@@ -47,7 +47,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### Resources
 
-
++ [AnyChart JS Charts integration template for R, Shiny and MySQL](https://github.com/anychart-integrations/r-shiny-mysql-template) – a fresh technical integration template for using AnyChart's JavaScript charting libraries with R, Shiny and MySQL for data visualization (from the collection of [templates for all popular stacks](http://www.anychart.com/integrations/)).
 
 
 ### New Packages and Tools
