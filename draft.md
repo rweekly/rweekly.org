@@ -19,6 +19,7 @@ Hello and welcome to the new issue of **R Weekly**!
 + [Speed Up Your Code: Parallel Processing with multidplyr](http://www.mattdancho.com/code-tools/2016/12/18/multidplyr.html)
 + [R graphs and tables in Power BI Desktop](https://tomaztsql.wordpress.com/2016/12/18/r-graphs-and-tables-in-power-bi-desktop/ via @tomaz_tsql)
 + [ggtree version of plotTree](http://guangchuangyu.github.io/2016/12/ggtree-version-of-plottree/)
++ [A Simple Example of Using replyr::gapply](http://www.win-vector.com/blog/2016/12/a-simple-example-of-using-replyrgapply/) 
 
 ### R in Real World
 
@@ -36,14 +37,12 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### R in Academia
 
-
++ [Shiny App for MBA Interviews](http://enelmargen.org/datascience/mba-shiny/)
 
 
 ### Videos and Podcasts
 
-
-
-
++ [An Interview With Ron Pearson, author of Data Visualization in R](https://www.datacamp.com/community/blog/an-interview-with-ron-pearson-author-of-data-visualization-in-r)
 
 ### Resources
 
