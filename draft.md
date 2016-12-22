@@ -23,7 +23,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### R in Real World
 
-
++ [Tree Troubles - Predicting Sidewalk Damage Resulting From Trees In NYC](http://blog.nycdatascience.com/student-works/capstone/tree-troubles-predicting-sidewalk-damage-resulting-trees-nyc/)
 
 
 ### International R
@@ -32,7 +32,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### R in Organization
 
-
++ [R for Enterprise: How to Scale Your Analytics Using R](https://www.rstudio.com/rviews/2016/12/21/r-for-enterprise-how-to-scale-your-analytics-using-r/)
 
 
 ### R in Academia
