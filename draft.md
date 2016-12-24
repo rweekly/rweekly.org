@@ -17,8 +17,12 @@ Hello and welcome to the new issue of **R Weekly**!
 ### Tutorials
 
 + [Speed Up Your Code: Parallel Processing with multidplyr](http://www.mattdancho.com/code-tools/2016/12/18/multidplyr.html)
-+ [R graphs and tables in Power BI Desktop](https://tomaztsql.wordpress.com/2016/12/18/r-graphs-and-tables-in-power-bi-desktop/ via @tomaz_tsql)
++ [R graphs and tables in Power BI Desktop](https://tomaztsql.wordpress.com/2016/12/18/r-graphs-and-tables-in-power-bi-desktop)
 + [ggtree version of plotTree](http://guangchuangyu.github.io/2016/12/ggtree-version-of-plottree/)
+
+![ggtree](https://github.com/rweekly/image/blob/master/2016-12-26/facet_plot_bar2.png?raw=true)
+
+
 + [A Simple Example of Using replyr::gapply](http://www.win-vector.com/blog/2016/12/a-simple-example-of-using-replyrgapply/) 
 
 ### R in Real World
@@ -29,6 +33,8 @@ Hello and welcome to the new issue of **R Weekly**!
 ### International R
 
 + :fr: [All I want for Christmas is a #Dataviz](http://colinfay.me/all-i-want-for-christmas-is-a-dataviz/)- [English, Auto-translate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://colinfay.me/all-i-want-for-christmas-is-a-dataviz/)
+
+![Christmas lastfm](https://raw.githubusercontent.com/rweekly/image/master/2016-12-26/songs-last-fm-christmas.jpeg)
 
 ### R in Organization
 
