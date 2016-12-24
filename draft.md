@@ -28,7 +28,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### International R
 
-
++ :fr: [All I want for Christmas is a #Dataviz](http://colinfay.me/all-i-want-for-christmas-is-a-dataviz/)- [English, Auto-translate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://colinfay.me/all-i-want-for-christmas-is-a-dataviz/)
 
 ### R in Organization
 
