@@ -92,6 +92,8 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [An Interview With Ron Pearson, author of Data Visualization in R](https://www.datacamp.com/community/blog/an-interview-with-ron-pearson-author-of-data-visualization-in-r)
 
++ [Standards are Like Toothbrushes](https://soundcloud.com/nssd-podcast/episode-29-standards-are-like-toothbrushes)
+
 ### Resources
 
 + [DataCamp’s 2017 Conference Guide](http://www.datacamp.com/community/blog/conference-guide-2017)
