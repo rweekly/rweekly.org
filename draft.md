@@ -92,7 +92,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [An Interview With Ron Pearson, author of Data Visualization in R](https://www.datacamp.com/community/blog/an-interview-with-ron-pearson-author-of-data-visualization-in-r)
 
-+ [Standards are Like Toothbrushes](https://soundcloud.com/nssd-podcast/episode-29-standards-are-like-toothbrushes)
++ [NSSD 29-Standards are Like Toothbrushes](https://soundcloud.com/nssd-podcast/episode-29-standards-are-like-toothbrushes) by Roger Peng(Johns Hopkins Professor) and Hilary Parker(Stitch Fix Data Scientist)
 
 ### Resources
 
