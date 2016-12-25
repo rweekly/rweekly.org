@@ -46,8 +46,6 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [sergeant : An R Boot Camp for Apache Drill](https://rud.is/b/2016/12/20/sergeant-a-r-boot-camp-for-apache-drill/)
 
-+ [A Simple Example of Using replyr::gapply](http://www.win-vector.com/blog/2016/12/a-simple-example-of-using-replyrgapply/)
-
 + [Why Type 1 errors are more important than Type 2 errors (if you care about evidence)](http://daniellakens.blogspot.com/2016/12/why-type-1-errors-are-more-important.html)
 
 ### R in Real World
@@ -107,7 +105,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [finch](http://ropensci.org/blog/technotes/2016/12/23/finch-release) – parse Darwin Core files
 
-+ [AzureSMR](http://blog.revolutionanalytics.com/2016/12/azuresmr.html) Introducing the AzureSMR package: Manage Azure services from your R session
++ [AzureSMR](http://blog.revolutionanalytics.com/2016/12/azuresmr.html) - Introducing the AzureSMR package: Manage Azure services from your R session
 
 
 ### New Releases
@@ -116,13 +114,19 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [forecastHybrid 0.3.0](http://ellisp.github.io/blog/2016/12/24/forecastHybrid-0.3) - forecastHybrid 0.3.0 on CRAN
 
-+ [ShinyProxy 0.8.0](https://www.openanalytics.eu/blog/shinyproxy-080)
++ [ShinyProxy 0.8.0](https://www.openanalytics.eu/blog/shinyproxy-080) - Deploy Shiny apps for the enterprise or larger organizations.
+
++ [anytime 0.2.0](http://dirk.eddelbuettel.com/blog/2016/12/24/#anytime_0.2.0) - Parse anything to Date(time) in R.
 
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS), 
 
++ The (default) Stangle driver `Rtangle` allows `annotate` to be a function and gets a new `drop.evalFALSE` option.
 
++ New function `check_packages_in_dir_details()` in package `tools` for analyzing check log files to obtain check details.
+
++ Package `tools` now exports function `CRAN_package_db()` for obtaining information about current packages in the CRAN package repository, and several functions for obtaining the check status of these packages.
 
 
 ### Upcoming Events
@@ -130,12 +134,14 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),
 + [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 12 and 14, 2017** <br>
 The conference about all things R and RStudio.<br /> 
 
-+ [SatRday #2 Conference - Cape Town, South Africa](http://capetown2017.satrdays.org/) **18 Feb 2017**
++ [SatRday #2 Conference - Cape Town, South Africa](http://capetown2017.satrdays.org/) **18 Feb, 2017** <br />
+The R community and some of South Africa's most forward thinking companies have come together to bring satRday to Cape Town. This conference brings an opportunity to hear from and network with top Researchers, Data Scientists and Developers from all over the country and the world. 
 
 + [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />
 The annual useR! conference is the main meeting of the international R user and developer community. Its program consists of both invited and user-contributed presentations.  <br />
 
 ### Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="zh-cn"><p lang="en" dir="ltr">My Christmas gift to you all: The source code for making this <a href="https://t.co/WijMRZyEu3">https://t.co/WijMRZyEu3</a><a href="https://twitter.com/hashtag/ggforce?src=hash">#ggforce</a> <a href="https://twitter.com/hashtag/tweenr?src=hash">#tweenr</a> <a href="https://twitter.com/hashtag/ggplot2?src=hash">#ggplot2</a> <a href="https://twitter.com/hashtag/dataviz?src=hash">#dataviz</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://twitter.com/hashtag/dataart?src=hash">#dataart</a> <a href="https://t.co/m6naHSjaiT">pic.twitter.com/m6naHSjaiT</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href="https://twitter.com/thomasp85/status/811537760783912960">2016年12月21日</a></blockquote>
 
-
+<blockquote class="twitter-tweet" data-lang="zh-cn"><p lang="en" dir="ltr">I built a nanodrop in <a href="https://twitter.com/hashtag/Rstats?src=hash">#Rstats</a>. <br><br>Early results suggest very similar performance to the real thing. <br><br>(ping <a href="https://twitter.com/PatSchloss">@PatSchloss</a>). <a href="https://t.co/N8lCZjqzfu">pic.twitter.com/N8lCZjqzfu</a></p>&mdash; Robert Lanfear (@RobLanfear) <a href="https://twitter.com/RobLanfear/status/811777568772718592">2016年12月22日</a></blockquote>
