@@ -76,11 +76,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [R for Enterprise: How to Scale Your Analytics Using R](https://www.rstudio.com/rviews/2016/12/21/r-for-enterprise-how-to-scale-your-analytics-using-r/)
 
-+ [Get Ready for RStudio::Conf](https://www.rstudio.com/rviews/2016/12/23/get-ready-for-rstudioconf/)
-
 + [Take a Test Drive of the Linux Data Science Virtual Machine](http://blog.revolutionanalytics.com/2016/12/dsvm-test-drive.html)
-
-+ [useR! 2017 website is online](https://www.r-bloggers.com/user-2017-website-is-online/)
 
 + [#Rstatsgoes10k – eoda is hosting a contest in celebration of R](https://blog.eoda.de/2016/12/21/rstatsgoes10k-eoda-is-hosting-a-contest-in-celebration-of-r/)
 
