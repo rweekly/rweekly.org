@@ -88,7 +88,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 + [An Interview With Ron Pearson, author of Data Visualization in R](https://www.datacamp.com/community/blog/an-interview-with-ron-pearson-author-of-data-visualization-in-r)
 
-+ [NSSD 29-Standards are Like Toothbrushes](https://soundcloud.com/nssd-podcast/episode-29-standards-are-like-toothbrushes) by Roger Peng(Johns Hopkins Professor) and Hilary Parker(Stitch Fix Data Scientist)
++ [NSSD 29 Standards are Like Toothbrushes](https://soundcloud.com/nssd-podcast/episode-29-standards-are-like-toothbrushes)  - Roger talk with Daniel Morgan, Chief Data Officer for the U.S. Department of Transportation and Terah Lyons, Policy Advisor to the Chief Technology Officer of the U.S. The discussion covered open data, the process of making data available, standards for data formats (and their relation to toothbrushes), and of course—automated vehicles.
 
 ### Resources
 
