@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: Issue 2017-01
+title: R Weekly 2017 Issue 1
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2016-12-26
+Release Date: 2017-01-02
 
 Hello and welcome to the new issue of **R Weekly**!
 
@@ -16,15 +16,96 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### Tutorials
 
++ [Making a Website Using Blogdown, Hugo, and GitHub pages.](https://proquestionasker.github.io/blog/Making_Site/)
+
++ [Fireworks (in R)](http://www.theanalyticslab.nl/2016/12/30/fireworks-in-r/)
+
++ [Outlier App: An Interactive Visualization of Outlier Algorithms](http://datascienceplus.com/outlier-app-an-interactive-visualization-of-outlier-algorithms/)
+
++ [dotplot for GSEA result](https://guangchuangyu.github.io/2016/12/dotplot-for-gsea-result)
+
++ [7 Visualizations You Should Learn in R](http://www.tatvic.com/blog/7-visualizations-learn-r-2/)
+
++ [Reactive acronym list in stratvis, a timevis-based Shiny app](http://feedproxy.google.com/~r/DataProne-R/~3/Ip4q84Z1Gt8/acronym-list-in-timevis-shiny-app.html)
+
++ [The Instant Rise of Machine Intelligence?](http://flovv.github.io/MachineLearning_Improvement/)
+
++ [Tip: Optimize your Rcpp loops](https://privefl.github.io/blog/Tip-Optimize-your-Rcpp-loops/)
+
++ [Combine choropleth data with raster maps using R](http://blog.revolutionanalytics.com/2016/12/swiss-map.html)
+
+![Combine choropleth data with raster maps using R](https://cdn.rawgit.com/rweekly/image/master/2017-01-02/tm-final-map.png)
+
++ [Exploratory Data Analysis Using R (Part-I)](https://blog.datazar.com/exploratory-data-analysis-using-r-part-i-17e4e8e03961?source=rss----e2c7e6e1c75--r_language)
+
++ [Authentication Proxy on Shiny Open Source](http://blog.datascienceheroes.com/authentication-proxy-on-shiny-open-source/)
+
++ [R code to accompany Real-World Machine Learning (Chapters 2-4 Updates)](http://feedproxy.google.com/~r/DataProne-R/~3/-mcfn1WsWYs/real-world-machine-learning-with-R-chapters-2-3-4-updates.html)
+
++ [Spatial analysis pipelines with simple features in R ](https://walkerke.github.io/2016/12/spatial-pipelines/)
+
++ [More on Orthogonal Regression](http://davegiles.blogspot.com/2016/12/more-on-orthogonal-regression.html)
+
++ [R For Beginners:  Some Simple R Code to do Common Statistical Procedures, Part Two](https://dmwiig.net/2016/12/27/r-for-beginners-some-simple-r-code-to-do-common-statistical-procedures-part-two/)
 
 
++ [add layer to specific panel of facet_plot output](https://guangchuangyu.github.io/2016/12/add-layer-to-specific-panel-of-facet_plot-output)
 
++ [Why you should master R (even if it might eventually become obsolete)](http://sharpsightlabs.com/blog/master-r-obsolete/)
+
++ [Data Preparation, Long Form and tl;dr Form](http://www.win-vector.com/blog/2016/12/data-preparation-long-form-and-tldr-form/)
+
++ [The Basics of Bayesian Statistics](http://blog.revolutionanalytics.com/2016/12/bayesian-inference.html)
+
++ [Extracting data on shadow economy from PDF tables](http://ellisp.github.io/blog/2016/12/26/shadow-economy)
+
++ [Christmas Tree with ggplot](http://www.theanalyticslab.nl/2016/12/25/christmas-tree-with-ggplot/)
+
+![Christmas Tree with ggplot](https://cdn.rawgit.com/kromme/R-Christmas-Tree/604bb3524a9637764dff06d2ab9fded20f37d12d/ChristmasTree.png)
+
++ [Computing Sample Size for Variance Estimation](http://hagutierrezro.blogspot.com/2016/12/computing-sample-size-for-variance.html)
+
++ [Distributional Semantics in R: Part 1 {tm} classes + read/write](http://www.exactness.net/post/154910180365)
+
++ [Does replyr::let work with data.table?](http://www.win-vector.com/blog/2016/12/does-replyrlet-work-with-data-table/)
+
+
++ [Functional programming and unit testing for data munging with R available on Leanpub](http://b-rodrigues.github.com/2016/12/24/functional-programming-and-unit-testing-for-data-munging-with-r-available-on-leanpub)
+
++ [Exploring the European Social Survey (ESS) – pipe-friendly workflow with sjmisc, part 2 #rstats #tidyverse](https://strengejacke.wordpress.com/2016/12/22/exploring-the-european-social-survey-ess-pipe-friendly-workflow-with-sjmisc-part-2-rstats-tidyverse/)
+
+
++ [The Wordcloud2 library](http://www.r-graph-gallery.com/2016/12/09/the-wordcloud2-library/)
+
+![The Wordcloud2 library](https://www.r-graph-gallery.com/wp-content/uploads/2016/11/196_wordcloud_ex6.png)
 
 ### R in Real World
 
++ [adit - WebVR Grammar of Graphics built on #aframevr #shiny #gglplot2 #rstats](https://github.com/wmurphyrd/adit)
+
++ [A non-comprehensive list of awesome things other people did in 2016](http://simplystatistics.org/2016/12/20/noncomprehensive-list-of-awesome/)
+
++ [Using R to prevent food poisoning in Chicago](http://blog.revolutionanalytics.com/2016/12/food-inspection-forecasting.html)
+
++ [Popular Shows on trakt.tv](https://stats.jemu.name/tvshows/trakt/trakt-popular.html)
+
+![Popular Shows on trakt.tv](https://stats.jemu.name/tvshows/trakt/plots/top-gear.png)
 
 
++ [Behind the scenes of CRAN](http://blog.h2o.ai/2016/12/behind-the-scenes-of-cran/)
 
+
++ [Analyzing the 2015 California Health Interview Survey in R](http://blog.ryanwalker.us/2016/12/analyzing-2015-california-health.html)
+
+
++ [Pokemon and TrelliscopeJS!](http://ryanhafen.com/blog/pokemon)
+
+
++ [Creating a network of human gene homology with R and D3 (without html widget for easy loading) ](https://shiring.github.io/genome/2016/12/12/homologous_genes_post_noHTML)
+
++ [Building a Brazillian Jiu-Jitsu family tree](http://www.fightprior.com/2016/12/29/BJJ_family/)
+
+![Building a Brazillian Jiu-Jitsu family tree](https://cdn.rawgit.com/rweekly/image/master/2017-01-02/static_tree-1.png)
 
 ### International R
 
@@ -34,14 +115,24 @@ Hello and welcome to the new issue of **R Weekly**!
 ### R in Organization
 
 
++ [Power BI custom visuals, based on R](http://blog.revolutionanalytics.com/2016/12/power-bi-custom-visuals-based-on-r.html)
 
++ [Parallelizing Data Analytics on Azure with the R Interface Tool](http://blog.revolutionanalytics.com/2016/12/azure-r-interface-tool.html)
+
++ [4x3 R-Hackathoning - The Finisher's Guide](http://staff.math.su.se/hoehle/blog/2016/12/12/hackinthedark.html)
 
 ### R in Academia
 
++ [ecospat: an R package for spatial analysis and modeling species distributions](http://onlinelibrary.wiley.com/doi/10.1111/ecog.02671/full)
 
+![ecospat](https://pbs.twimg.com/media/C07JYmAWgAA9hvA.png)
+
++[Spind: an R package for computing spatially corrected accuracy measures](http://onlinelibrary.wiley.com/doi/10.1111/ecog.02593/full)
 
 ### Videos and Podcasts
 
+
++ [An Interview With Jo Hardin, author of Foundations of Inference](http://www.datacamp.com/community/blog/an-interview-with-jo-hardin-author-of-foundations-of-inference)
 
 
 ### Resources
@@ -51,10 +142,22 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ### New Packages and Tools
 
++ [naniar](github.com/njtierney/naniar) - Tools for numerical and visual summaries of NAs
 
++ [piwikr](https://amarder.github.io/piwikr/) - Web Analytics for Hackers 
+
++ [vueR](https://github.com/timelyportfolio/vueR) -  vue.js for R
+
++ [intrval](https://github.com/psolymos/intrval) - Relational Operators for Intervals
+
++ [fstrings](https://github.com/jimhester/fstrings) -  Python style fstrings for R.
+
++ [autoinst](https://github.com/jimhester/autoinst) -  Automatically install packages when they are missing
 
 
 ### New Releases
+
++ [ggguitar 0.1.1](http://www.r-chart.com/2016/12/new-release-of-ggguitar-available-on.html) - Utilities for Creating Guitar Tablature
 
 
 
@@ -62,7 +165,11 @@ Hello and welcome to the new issue of **R Weekly**!
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS), 
 
++ `structure(NULL, ..)` is now deprecated as you cannot set attributes on ‘NULL’.
 
++ `HAVE_UINTPTR_T` and `HAVE_STDINT_H` is now passed through to `Rconfig.h` such that `Rinterface.h` can use the proper types for stack variables.  
+
++ `pmin()` and `pmax()` now work again for ‘ordered’ factors and 0-length S3 classed objects.
 
 ### Upcoming Events
 
@@ -77,3 +184,4 @@ The annual useR! conference is the main meeting of the international R user and 
 
 ### Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is amazing! Childcare available at <a href="https://twitter.com/hashtag/useR2017?src=hash">#useR2017</a>. Thank you <a href="https://twitter.com/UseR_Brussels">@UseR_Brussels</a>! Hopefully setting a new <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> conference standard. 💪💜👏 <a href="https://t.co/wa7D3BgCCt">pic.twitter.com/wa7D3BgCCt</a></p>&mdash; R-Ladies SF (@RLadiesSF) <a href="https://twitter.com/RLadiesSF/status/813773057248477184">December 27, 2016</a></blockquote>
