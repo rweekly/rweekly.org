@@ -127,7 +127,7 @@ Hello and welcome to the new issue of **R Weekly**!
 
 ![ecospat](https://pbs.twimg.com/media/C07JYmAWgAA9hvA.png)
 
-+[Spind: an R package for computing spatially corrected accuracy measures](http://onlinelibrary.wiley.com/doi/10.1111/ecog.02593/full)
++ [Spind: an R package for computing spatially corrected accuracy measures](http://onlinelibrary.wiley.com/doi/10.1111/ecog.02593/full)
 
 ### Videos and Podcasts
 
