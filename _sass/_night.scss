@@ -12,7 +12,14 @@ body.night {
     h1,h2,h3,h4,h5,h6,strong {
         color:rgb(203,203,203);
     }
-
+    article {
+        a {
+            color:rgb(203,203,203);
+        }
+        a:visited {
+            color:#8B4513;
+        }
+    }
     code {
         background-color: rgb(103,103,103);
         color:rgb(203,203,203);
