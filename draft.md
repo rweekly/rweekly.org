@@ -7,11 +7,9 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2017-01-09
 
-Hello and welcome to the new issue of **R Weekly**!
+Hello and welcome to this new issue!
 
 ### Highlight
-
-*Digested by R Weekly Members*
 
 
 
