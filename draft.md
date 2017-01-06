@@ -20,7 +20,7 @@ Hello and welcome to this new issue!
 
 ### R in Real World
 
-
++ [Explaining Statistical Goodness of fit Tests with Beer (Statistics)](https://jasdumas.github.io/2017-01-04-choosing-a-stat-test-with-beer/)
 
 ### International R
 
