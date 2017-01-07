@@ -25,7 +25,7 @@ Hello and welcome to this new issue!
 
 + [Our R package roundup](http://opiateforthemass.es/articles/R-packages-in-2016/)
 
-![Our R package roundup](http://opiateforthemass.es/images/cran-top20-2016.png)
+![Our R package roundup](https://cdn.rawgit.com/Quiri/quiri.github.io/master/images/cran-top20-2016.png)
 
 + [Text Processing using the textTinyR package](http://mlampros.github.io/mlampros.github.io/2017/01/05/textTinyR_package/)
 
@@ -154,7 +154,7 @@ Hello and welcome to this new issue!
 
 + [BelgiumMaps.StatBel](http://www.bnosac.be/index.php/blog/55-belgiummaps-statbel-r-package-with-administrative-boundaries-of-belgium) - R package with Administrative boundaries of Belgium
 
-+ [shiny-chart-builder](https://github.com/sicarul/shiny-chart-builder) - Shiny app for building charts with a point-and-click interface
++ [Shiny Chart Builder](https://github.com/sicarul/shiny-chart-builder) - Shiny app for building charts with a point-and-click interface
 
 + [tidyquant](https://github.com/mdancho84/tidyquant) - Seamless interaction between quantitative financial analysis packages and the tidyverse.
 

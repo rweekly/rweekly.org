@@ -36,18 +36,20 @@
 
 
     <script>
+    
     page_view = document.getElementById("page_view");
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET","https://page.rweekly.org/?page="+document.location.host + document.location.pathname);
     if (page_view){
-      var xhr = new XMLHttpRequest();
-      xhr.open("GET","https://page.rweekly.org/?page="+document.location.host + document.location.pathname);
       xhr.onreadystatechange = function() {
         if (xhr.readyState == 4 && xhr.status == 200) {
             var myArr = JSON.parse(xhr.responseText);
             page_view.innerHTML = myArr.hit + " views" ;
         }
       };
-      xhr.send();
     }
+    xhr.send();
+
     </script>
 
     <script>
