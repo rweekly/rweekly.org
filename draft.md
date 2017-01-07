@@ -138,7 +138,7 @@ Hello and welcome to this new issue!
 
 ### Videos and Podcasts
 
-
++ [NSSD Philately and Numismatology](https://soundcloud.com/nssd-podcast/episode-30-philately-and-numismatology) Hilary and Roger follow up on open data and data sharing in government. They also discuss artificial intelligence, self-driving cars, and doing your taxes in R.
 
 
 ### Resources
