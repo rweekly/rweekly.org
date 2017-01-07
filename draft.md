@@ -15,12 +15,107 @@ Hello and welcome to this new issue!
 
 ### Tutorials
 
++ [Simple Features Now on CRAN](https://www.r-consortium.org/blog/2017/01/03/simple-features-now-on-cran)
+
++ [Why do Decision Trees Work?](http://www.win-vector.com/blog/2017/01/why-do-decision-trees-work/)
+
++ [Three reasons to learn R today](http://blog.revolutionanalytics.com/2017/01/three-reasons-to-learn-r-today.html)
+
++ [Explaining the Almon Distributed Lag Model](http://davegiles.blogspot.com/2017/01/explaining-almon-distributed-lag-model.html)
+
++ [Our R package roundup](http://opiateforthemass.es/articles/R-packages-in-2016/)
+
+![Our R package roundup](http://opiateforthemass.es/images/cran-top20-2016.png)
+
++ [Text Processing using the textTinyR package](http://mlampros.github.io/mlampros.github.io/2017/01/05/textTinyR_package/)
+
++ [How to Write Pelican Blog Posts using RMarkdown & Knitr](http://michaeltoth.me/how-to-write-pelican-blog-posts-using-rmarkdown-knitr.html)
+
++ [GooglyPlus: yorkr analyzes IPL players, teams, matches with plots and tables](https://gigadom.wordpress.com/2017/01/05/googlyplus-yorkr-analyzes-ipl-players-teams-matches-with-plots-and-tables/)
+
++ [Linear Regression from Scratch in R](https://datascienceplus.com/linear-regression-from-scratch-in-r/)
+
++ [Package evolution – changing stuff in your package](http://ropensci.org/blog/technotes/2017/01/05/package-evolution)
+
++ [Thematic Interactive Map](http://jkunst.com/r/thematic-interactive-map/) - The last month, yep, the past year I’ve working on create maps easily with highcharter. When I saw this chart I took as challege to replicate this nice map in using highcharter.
+
++ [Easy machine learning pipelines with pipelearner: intro and call for contributors](http://drsimonj.svbtle.com/easy-machine-learning-pipelines-with-pipelearner-intro-and-call-for-contributors)
+
++ [truncated normal algorithms](https://xianblog.wordpress.com/2017/01/04/truncated-normal-algorithms/)
+
++ [The biggest R stories from 2016](http://blog.revolutionanalytics.com/2017/01/the-biggest-r-stories-from-2016.html)
+
++ [Why R is the best data science language to learn today](http://sharpsightlabs.com/blog/r-recommend-data-science/)
+
++ [Use CSS to format markdown or HTML files](http://educate-r.org//2017/01/03/highlighthtml.html)
+
++ [Understanding mixture models and expectation-maximization (using baseball statistics)](http://varianceexplained.org/r/mixture-models-baseball/)
+
++ [Django and R on Heroku](http://pirategrunt.com/blog/r/2017/01/03/RonHeroku/)
+
++ [Handling Class Imbalance with R and Caret – Caveats when using the AUC](http://dpmartin42.github.io/blogposts/r/imbalanced-classes-part-2)
+
++ [(lazy)Loading Cached Chunks into an Interactive R Session](http://www.peteredewitt.com/dewittpe.github.io//dewittpe.github.io//2017/lazyloading-cached-chunks/)
+
++ [May the Force of R be With You, Always!](http://danielmarcelino.github.io/blog/2017/may-the-force-of-r-be-with-you-always.html) - With a Telegram account connected to @TeleR, the force of R can always be with me.
+
++ [Shiny Chart Builder – Explore your database with a point-and-click interface](http://blog.datascienceheroes.com/shiny-chart-builder-explore-your-database-with-a-point-and-click-interface/)
+
++ [eoda celebrates R – don’t miss the date and win!](https://blog.eoda.de/2017/01/02/eoda-celebrates-r-dont-miss-the-date-and-win/)
+
++ [Cross-validation of topic modelling](http://ellisp.github.io/blog/2017/01/05/topic-model-cv)
+
+![Cross-validation of topic modelling](https://ellisp.github.io/img/0077-AssociatedPress.gif)
 
 
++ [Animations in R using Plotly](http://moderndata.plot.ly/animations-in-r-using-plotly/)
+
++ [Distributional Semantics in R: Part 2 Entity Recognition w. {openNLP}](http://www.exactness.net/post/155292474180)
+
++ [Forcasting Natural Catastrophes (is rather difficult)](http://freakonometrics.hypotheses.org/50057)
+
++ [What is a Linear Trend, by the way?](http://freakonometrics.hypotheses.org/50003)
+
++ [3PL models viewed through the lens of total probability theorem](http://hagutierrezro.blogspot.com/2017/01/3pl-models-viewed-through-lens-of-total.html)
+
++ [convert graphic object to tree object using treeio](https://guangchuangyu.github.io/2017/01/convert-graphic-object-to-tree-object-using-treeio)
+
++ [A Theory of Nested Cross Simulation](http://www.win-vector.com/blog/2017/01/a-theory-of-nested-cross-simulation/)
+
++ [tidyquant: Bringing Quantitative Financial Analysis to the tidyverse](http://www.mattdancho.com/code-tools/2017/01/01/tidyquant-introduction.html)
 
 ### R in Real World
 
 + [Explaining Statistical Goodness of fit Tests with Beer (Statistics)](https://jasdumas.github.io/2017-01-04-choosing-a-stat-test-with-beer/)
+
+
++ [Removing Personal Bias From Flu Severity Estimation (a.k.a. Misery Loves Data)](https://rud.is/b/2017/01/02/removing-personal-bias-from-flu-severity-estimation-a-k-a-misery-loves-data/)
+
+![Removing Personal Bias From Flu Severity Estimation (a.k.a. Misery Loves Data)](https://rud.is/b/wp-content/uploads/2017/01/Cursor_and___Development_cdcfluview_-_master_-_RStudio-1.png)
+
++ [10,000 CRAN Packages](https://www.rstudio.com/rviews/2017/01/06/10000-cran-packages/)
+
++ [Analyzing emotions in video with R](http://blog.revolutionanalytics.com/2017/01/analyzing-emotions-in-video-with-r.html)
+
++ [The Most Important Commodity in 2017 is Data](https://rud.is/b/2017/01/04/the-most-important-commodity-in-2017-is-data/)
+
++ [Inflation of the US Dollar \[OC\] ](https://www.reddit.com/r/dataisbeautiful/comments/5m8htt/inflation_of_the_us_dollar_oc/?sort=old)
+
+![Inflation of the US Dollar \[OC\] ](https://i.redd.it/a6jyrvyz3y7y.png)
+
++ [End of Season Fantasy Round Up: Draft Values, Busts, and Best Free Agents of the 2016 Season](http://jessepiburn.com/2017/01/end-of-season-fantasy-round-up-draft-values-busts-and-best-free-agents-of-the-2016-season/)
+
++ [City of Fort Collins Spending Analysis](https://stoltzmaniac.com/city-of-fort-collins-spending-analysis/)
+
+
++ [Gene homology Part 3 – Visualizing Gene Ontology of Conserved Genes](https://shiring.github.io/genome/2017/01/05/homologous_genes_part3_post)
+
+![Gene homology Part 3 – Visualizing Gene Ontology of Conserved Genes](https://shiring.github.io/genome/2017/01/05/homologous_genes_part3_post_files/figure-markdown_github/unnamed-chunk-16-1.png)
+
+
++ [An overview of text mining visualisations possibilities with R on the CETA trade agreement](http://www.bnosac.be/index.php/blog/56-an-overview-of-text-mining-visualisations-possibilities-with-r-on-the-ceta-trade-agreement)
+
+
 
 ### International R
 
@@ -29,7 +124,13 @@ Hello and welcome to this new issue!
 
 ### R in Organization
 
++ [Interview with Joe Cheng](https://www.rstudio.com/rviews/2017/01/04/interview-with-joe-cheng/)
 
++ [The Flexibility of Remote and Local R Workspaces](http://blog.revolutionanalytics.com/2017/01/remote-and-local-r-workspaces.html)
+
++ [EVENT Announcement:   EARL Conferences 2017](http://www.mango-solutions.com/wp/2017/01/event-announcement-earl-conferences-2017/)
+
++ [R/Finance 2017: Call for Papers](http://blog.fosstrading.com/2017/01/rfinance-2017-call-for-papers.html)
 
 ### R in Academia
 
@@ -42,23 +143,54 @@ Hello and welcome to this new issue!
 
 ### Resources
 
-
++ [Cheatsheet: Data Science for Big Data with Spark and sparklyr](http://spark.rstudio.com/images/sparklyr-cheatsheet.pdf)
 
 
 ### New Packages and Tools
 
++ [RcppTOML](http://dirk.eddelbuettel.com/blog/2017/01/05#rcpptoml_0.1.0) - 'Rcpp' Bindings to Parser for Tom's Obvious Markup Language
 
++ [ebbr](http://varianceexplained.org/r/ebbr-package/) - Introducing the ebbr package for empirical Bayes estimation (using baseball statistics)
+
++ [BelgiumMaps.StatBel](http://www.bnosac.be/index.php/blog/55-belgiummaps-statbel-r-package-with-administrative-boundaries-of-belgium) - R package with Administrative boundaries of Belgium
+
++ [shiny-chart-builder](https://github.com/sicarul/shiny-chart-builder) - Shiny app for building charts with a point-and-click interface
+
++ [tidyquant](https://github.com/mdancho84/tidyquant) - Seamless interaction between quantitative financial analysis packages and the tidyverse.
 
 
 ### New Releases
 
+
++ [jsonlite 1.2](http://ropensci.org/blog/technotes/2017/01/04/jsonlite-12) - A Robust, High Performance JSON Parser and Generator for R
+
++ [digest 0.6.11](http://dirk.eddelbuettel.com/blog/2017/01/03#digest_0.6.11) - R package to create compact hash digests of R objects
+
+
+### Jobs
+
++ [R Jobs for R users – 8 jobs from around the world (2017-02-03)](https://www.r-users.com/jobs/analyst-3/)
 
 
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS), 
 
++ Header `Rconfig.h` no longer defines `SUPPORT_OPENMP`; use `_OPENMP` as long documented.
 
++ `HAVE_UINTPTR_T` is now defined where appropriate by `Rconfig.h` so that it can be included before `Rinterface.h` when `CSTACK_DEFNS` is defined and a C compiler (not C++) is in use. `Rinterface.h` now includes C header `stdint.h` or C++11 header `cstdint` where needed.
+
++ No-longer-installed headers `GraphicsBase.h`, `RGraphics.h`, `Rmodules/RX11.h` and `Rmodules/Rlapack.h` which had a LGPL license no longer do so.
+
++ Enviromental variable `_R_CHECK_TESTS_NLINES_` controls how `R CMD check` reports failing tests (see §8 of the `R Internals` manual).
+
++ The default method for `quantile(x, prob)` should now be monotone in `prob`, even in border cases, see PR#16672.
+
++ The check for the zlib version is now robust to versions longer than 5 characters, including 1.2.10.
+
++ `seq("2", "5")` now works too, equivalently to `"2":"5"` and `seq.int()`.
+
++ `seq.int(to=1, by=1)` is now correct, other cases are integer (instead of `double`) when `seq()` is integer too, and the "non-finite" error messages are consistent between `seq.default()` and `seq.int()`, no longer mentioning `NaN` etc.
 
 ### Upcoming Events
 
@@ -73,3 +205,4 @@ The annual useR! conference is the main meeting of the international R user and 
 
 ### Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;<a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> is not a DSL. It’s a language for writing DSLs, which is something altogether more powerful&quot; — <a href="https://twitter.com/jcheng">@jcheng</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/817009928024051712">January 5, 2017</a></blockquote>
