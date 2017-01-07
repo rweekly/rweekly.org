@@ -15,11 +15,7 @@ Hello and welcome to this new issue!
 
 ### Tutorials
 
-+ [Simple Features Now on CRAN](https://www.r-consortium.org/blog/2017/01/03/simple-features-now-on-cran)
-
 + [Why do Decision Trees Work?](http://www.win-vector.com/blog/2017/01/why-do-decision-trees-work/)
-
-+ [Three reasons to learn R today](http://blog.revolutionanalytics.com/2017/01/three-reasons-to-learn-r-today.html)
 
 + [Explaining the Almon Distributed Lag Model](http://davegiles.blogspot.com/2017/01/explaining-almon-distributed-lag-model.html)
 
@@ -29,27 +25,15 @@ Hello and welcome to this new issue!
 
 + [Text Processing using the textTinyR package](http://mlampros.github.io/mlampros.github.io/2017/01/05/textTinyR_package/)
 
-+ [How to Write Pelican Blog Posts using RMarkdown & Knitr](http://michaeltoth.me/how-to-write-pelican-blog-posts-using-rmarkdown-knitr.html)
-
-+ [GooglyPlus: yorkr analyzes IPL players, teams, matches with plots and tables](https://gigadom.wordpress.com/2017/01/05/googlyplus-yorkr-analyzes-ipl-players-teams-matches-with-plots-and-tables/)
-
 + [Linear Regression from Scratch in R](https://datascienceplus.com/linear-regression-from-scratch-in-r/)
 
 + [Package evolution – changing stuff in your package](http://ropensci.org/blog/technotes/2017/01/05/package-evolution)
-
-+ [Thematic Interactive Map](http://jkunst.com/r/thematic-interactive-map/) - The last month, yep, the past year I’ve working on create maps easily with highcharter. When I saw this chart I took as challege to replicate this nice map in using highcharter.
 
 + [Easy machine learning pipelines with pipelearner: intro and call for contributors](http://drsimonj.svbtle.com/easy-machine-learning-pipelines-with-pipelearner-intro-and-call-for-contributors)
 
 + [truncated normal algorithms](https://xianblog.wordpress.com/2017/01/04/truncated-normal-algorithms/)
 
-+ [The biggest R stories from 2016](http://blog.revolutionanalytics.com/2017/01/the-biggest-r-stories-from-2016.html)
-
-+ [Why R is the best data science language to learn today](http://sharpsightlabs.com/blog/r-recommend-data-science/)
-
 + [Use CSS to format markdown or HTML files](http://educate-r.org//2017/01/03/highlighthtml.html)
-
-+ [Understanding mixture models and expectation-maximization (using baseball statistics)](http://varianceexplained.org/r/mixture-models-baseball/)
 
 + [Django and R on Heroku](http://pirategrunt.com/blog/r/2017/01/03/RonHeroku/)
 
@@ -57,69 +41,53 @@ Hello and welcome to this new issue!
 
 + [(lazy)Loading Cached Chunks into an Interactive R Session](http://www.peteredewitt.com/dewittpe.github.io//dewittpe.github.io//2017/lazyloading-cached-chunks/)
 
-+ [May the Force of R be With You, Always!](http://danielmarcelino.github.io/blog/2017/may-the-force-of-r-be-with-you-always.html) - With a Telegram account connected to @TeleR, the force of R can always be with me.
-
 + [Shiny Chart Builder – Explore your database with a point-and-click interface](http://blog.datascienceheroes.com/shiny-chart-builder-explore-your-database-with-a-point-and-click-interface/)
-
-+ [eoda celebrates R – don’t miss the date and win!](https://blog.eoda.de/2017/01/02/eoda-celebrates-r-dont-miss-the-date-and-win/)
 
 + [Cross-validation of topic modelling](http://ellisp.github.io/blog/2017/01/05/topic-model-cv)
 
 ![Cross-validation of topic modelling](https://ellisp.github.io/img/0077-AssociatedPress.gif)
 
-
 + [Animations in R using Plotly](http://moderndata.plot.ly/animations-in-r-using-plotly/)
 
 + [Distributional Semantics in R: Part 2 Entity Recognition w. {openNLP}](http://www.exactness.net/post/155292474180)
 
-+ [Forcasting Natural Catastrophes (is rather difficult)](http://freakonometrics.hypotheses.org/50057)
-
-+ [What is a Linear Trend, by the way?](http://freakonometrics.hypotheses.org/50003)
-
 + [3PL models viewed through the lens of total probability theorem](http://hagutierrezro.blogspot.com/2017/01/3pl-models-viewed-through-lens-of-total.html)
 
 + [convert graphic object to tree object using treeio](https://guangchuangyu.github.io/2017/01/convert-graphic-object-to-tree-object-using-treeio)
-
-+ [A Theory of Nested Cross Simulation](http://www.win-vector.com/blog/2017/01/a-theory-of-nested-cross-simulation/)
 
 + [tidyquant: Bringing Quantitative Financial Analysis to the tidyverse](http://www.mattdancho.com/code-tools/2017/01/01/tidyquant-introduction.html)
 
 ### R in Real World
 
 + [Explaining Statistical Goodness of fit Tests with Beer (Statistics)](https://jasdumas.github.io/2017-01-04-choosing-a-stat-test-with-beer/)
-
++ [GooglyPlus: yorkr analyzes IPL players, teams, matches with plots and tables](https://gigadom.wordpress.com/2017/01/05/googlyplus-yorkr-analyzes-ipl-players-teams-matches-with-plots-and-tables/)
 
 + [Removing Personal Bias From Flu Severity Estimation (a.k.a. Misery Loves Data)](https://rud.is/b/2017/01/02/removing-personal-bias-from-flu-severity-estimation-a-k-a-misery-loves-data/)
 
-![Removing Personal Bias From Flu Severity Estimation (a.k.a. Misery Loves Data)](https://rud.is/b/wp-content/uploads/2017/01/Cursor_and___Development_cdcfluview_-_master_-_RStudio-1.png)
++ [Thematic Interactive Map](http://jkunst.com/r/thematic-interactive-map/) - The last month, yep, the past year I’ve working on create maps easily with highcharter. When I saw this chart I took as challege to replicate this nice map in using highcharter.
 
-+ [10,000 CRAN Packages](https://www.rstudio.com/rviews/2017/01/06/10000-cran-packages/)
+![Removing Personal Bias From Flu Severity Estimation (a.k.a. Misery Loves Data)](https://rud.is/b/wp-content/uploads/2017/01/Cursor_and___Development_cdcfluview_-_master_-_RStudio-1.png)
 
 + [Analyzing emotions in video with R](http://blog.revolutionanalytics.com/2017/01/analyzing-emotions-in-video-with-r.html)
 
-+ [The Most Important Commodity in 2017 is Data](https://rud.is/b/2017/01/04/the-most-important-commodity-in-2017-is-data/)
-
 + [Inflation of the US Dollar \[OC\] ](https://www.reddit.com/r/dataisbeautiful/comments/5m8htt/inflation_of_the_us_dollar_oc/?sort=old)
-
-![Inflation of the US Dollar \[OC\] ](https://i.redd.it/a6jyrvyz3y7y.png)
 
 + [End of Season Fantasy Round Up: Draft Values, Busts, and Best Free Agents of the 2016 Season](http://jessepiburn.com/2017/01/end-of-season-fantasy-round-up-draft-values-busts-and-best-free-agents-of-the-2016-season/)
 
 + [City of Fort Collins Spending Analysis](https://stoltzmaniac.com/city-of-fort-collins-spending-analysis/)
 
-
 + [Gene homology Part 3 – Visualizing Gene Ontology of Conserved Genes](https://shiring.github.io/genome/2017/01/05/homologous_genes_part3_post)
 
 ![Gene homology Part 3 – Visualizing Gene Ontology of Conserved Genes](https://shiring.github.io/genome/2017/01/05/homologous_genes_part3_post_files/figure-markdown_github/unnamed-chunk-16-1.png)
 
-
 + [An overview of text mining visualisations possibilities with R on the CETA trade agreement](http://www.bnosac.be/index.php/blog/56-an-overview-of-text-mining-visualisations-possibilities-with-r-on-the-ceta-trade-agreement)
 
++ [Understanding mixture models and expectation-maximization (using baseball statistics)](http://varianceexplained.org/r/mixture-models-baseball/)
 
-
++ [Forcasting Natural Catastrophes (is rather difficult)](http://freakonometrics.hypotheses.org/50057)
 ### International R
 
-
+![Inflation of the US Dollar \[OC\] ](https://i.redd.it/a6jyrvyz3y7y.png)
 
 
 ### R in Organization
@@ -128,11 +96,9 @@ Hello and welcome to this new issue!
 
 + [The Flexibility of Remote and Local R Workspaces](http://blog.revolutionanalytics.com/2017/01/remote-and-local-r-workspaces.html)
 
-+ [EVENT Announcement:   EARL Conferences 2017](http://www.mango-solutions.com/wp/2017/01/event-announcement-earl-conferences-2017/)
 
-+ [R/Finance 2017: Call for Papers](http://blog.fosstrading.com/2017/01/rfinance-2017-call-for-papers.html)
 
-### R in Academia
+### R in Academia 
 
 
 
@@ -141,9 +107,26 @@ Hello and welcome to this new issue!
 
 
 
-### Resources
+### Resources and Insights
 
 + [Cheatsheet: Data Science for Big Data with Spark and sparklyr](http://spark.rstudio.com/images/sparklyr-cheatsheet.pdf)
+
++ [Simple Features Now on CRAN](https://www.r-consortium.org/blog/2017/01/03/simple-features-now-on-cran)
+
++ [Three reasons to learn R today](http://blog.revolutionanalytics.com/2017/01/three-reasons-to-learn-r-today.html)
+
++ [The biggest R stories from 2016](http://blog.revolutionanalytics.com/2017/01/the-biggest-r-stories-from-2016.html)
+
++ [Why R is the best data science language to learn today](http://sharpsightlabs.com/blog/r-recommend-data-science/)
+
++ [May the Force of R be With You, Always!](http://danielmarcelino.github.io/blog/2017/may-the-force-of-r-be-with-you-always.html) - With a Telegram account connected to @TeleR, the force of R can always be with me.
+
++ [What is a Linear Trend, by the way?](http://freakonometrics.hypotheses.org/50003)
+
++ [A Theory of Nested Cross Simulation](http://www.win-vector.com/blog/2017/01/a-theory-of-nested-cross-simulation/)
+
++ [The Most Important Commodity in 2017 is Data](https://rud.is/b/2017/01/04/the-most-important-commodity-in-2017-is-data/)
+
 
 
 ### New Packages and Tools
@@ -166,6 +149,7 @@ Hello and welcome to this new issue!
 
 + [digest 0.6.11](http://dirk.eddelbuettel.com/blog/2017/01/03#digest_0.6.11) - R package to create compact hash digests of R objects
 
++ [10,000 CRAN Packages](https://www.rstudio.com/rviews/2017/01/06/10000-cran-packages/)
 
 ### Jobs
 
@@ -202,6 +186,12 @@ The R community and some of South Africa's most forward thinking companies have 
 
 + [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />
 The annual useR! conference is the main meeting of the international R user and developer community. Its program consists of both invited and user-contributed presentations.  <br />
+
++ [eoda celebrates R – don’t miss the date and win!](https://blog.eoda.de/2017/01/02/eoda-celebrates-r-dont-miss-the-date-and-win/)
+
++ [EVENT Announcement:   EARL Conferences 2017](http://www.mango-solutions.com/wp/2017/01/event-announcement-earl-conferences-2017/)
+
++ [R/Finance 2017: Call for Papers](http://blog.fosstrading.com/2017/01/rfinance-2017-call-for-papers.html)
 
 ### Quotes of the Week
 
