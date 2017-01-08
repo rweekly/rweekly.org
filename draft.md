@@ -133,8 +133,6 @@ Hello and welcome to this new issue!
 
 ### New Packages and Tools
 
-+ [RcppTOML](http://dirk.eddelbuettel.com/blog/2017/01/05#rcpptoml_0.1.0) - 'Rcpp' Bindings to Parser for Tom's Obvious Markup Language
-
 + [ebbr](http://varianceexplained.org/r/ebbr-package/) - Introducing the ebbr package for empirical Bayes estimation (using baseball statistics)
 
 + [BelgiumMaps.StatBel](http://www.bnosac.be/index.php/blog/55-belgiummaps-statbel-r-package-with-administrative-boundaries-of-belgium) - R package with Administrative boundaries of Belgium
@@ -146,6 +144,8 @@ Hello and welcome to this new issue!
 + [TeleR](http://danielmarcelino.github.io/blog/2017/may-the-force-of-r-be-with-you-always.html) - With a Telegram account connected to @TeleR, the force of R can always be with me.
 
 ### New Releases
+
++ [RcppTOML](http://dirk.eddelbuettel.com/blog/2017/01/05#rcpptoml_0.1.0) - 'Rcpp' Bindings to Parser for Tom's Obvious Markup Language
 
 + [jsonlite 1.2](http://ropensci.org/blog/technotes/2017/01/04/jsonlite-12) - A Robust, High Performance JSON Parser and Generator for R
 
