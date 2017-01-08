@@ -45,7 +45,6 @@ Hello and welcome to this new issue!
 
 + [Shiny Chart Builder – Explore your database with a point-and-click interface](http://blog.datascienceheroes.com/shiny-chart-builder-explore-your-database-with-a-point-and-click-interface/)
 
-
 + [Animations in R using Plotly](http://moderndata.plot.ly/animations-in-r-using-plotly/)
 
 + [Distributional Semantics in R: Part 2 Entity Recognition w. {openNLP}](http://www.exactness.net/post/155292474180)
@@ -107,8 +106,6 @@ Hello and welcome to this new issue!
 
 + [10,000 CRAN Packages](https://www.rstudio.com/rviews/2017/01/06/10000-cran-packages/) - The R package system continues to expand as the number of packages on CRAN is about to blow through the 10,000 mark sometime soon.
 
-
-
 ### International R
 
 
@@ -118,8 +115,6 @@ Hello and welcome to this new issue!
 + [Interview with Joe Cheng](https://www.rstudio.com/rviews/2017/01/04/interview-with-joe-cheng/)
 
 + [The Flexibility of Remote and Local R Workspaces](http://blog.revolutionanalytics.com/2017/01/remote-and-local-r-workspaces.html)
-
-
 
 ### R in Academia 
 
@@ -135,7 +130,6 @@ Hello and welcome to this new issue!
 + [Cheatsheet: Data Science for Big Data with Spark and sparklyr](http://spark.rstudio.com/images/sparklyr-cheatsheet.pdf)
 
 + [The biggest R stories from 2016](http://blog.revolutionanalytics.com/2017/01/the-biggest-r-stories-from-2016.html)
-
 
 ### New Packages and Tools
 
@@ -153,7 +147,6 @@ Hello and welcome to this new issue!
 
 ### New Releases
 
-
 + [jsonlite 1.2](http://ropensci.org/blog/technotes/2017/01/04/jsonlite-12) - A Robust, High Performance JSON Parser and Generator for R
 
 + [digest 0.6.11](http://dirk.eddelbuettel.com/blog/2017/01/03#digest_0.6.11) - R package to create compact hash digests of R objects
@@ -161,7 +154,6 @@ Hello and welcome to this new issue!
 ### Jobs
 
 + [R Jobs for R users – 8 jobs from around the world (2017-02-03)](https://www.r-users.com/jobs/analyst-3/)
-
 
 ### R Project Updates
 
@@ -201,7 +193,6 @@ The R community and some of South Africa's most forward thinking companies have 
 
 + [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />
 The annual useR! conference is the main meeting of the international R user and developer community. Its program consists of both invited and user-contributed presentations.  <br />
-
 
 ### Quotes of the Week
 

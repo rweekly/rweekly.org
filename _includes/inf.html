@@ -13,8 +13,10 @@ $('.content').jscroll({
       var xhr = new XMLHttpRequest();
       xhr.open("GET","https://page.rweekly.org/?page="+ new_page);
       xhr.send();
+      _paq.push(['trackEvent', "jscroll", "new page", new_page]);
     },
     callback: function(){
+      jQuery.scrollDepth.reset();
       add_external_links();
     },
     padding: 20
