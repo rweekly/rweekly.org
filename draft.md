@@ -19,9 +19,7 @@ Hello and welcome to this new issue!
 
 + [Explaining the Almon Distributed Lag Model](http://davegiles.blogspot.com/2017/01/explaining-almon-distributed-lag-model.html)
 
-+ [Our R package roundup](http://opiateforthemass.es/articles/R-packages-in-2016/)
-
-![Our R package roundup](https://cdn.rawgit.com/Quiri/quiri.github.io/master/images/cran-top20-2016.png)
++ [How to Write Pelican Blog Posts using RMarkdown & Knitr](http://michaeltoth.me/how-to-write-pelican-blog-posts-using-rmarkdown-knitr.html)
 
 + [Text Processing using the textTinyR package](http://mlampros.github.io/mlampros.github.io/2017/01/05/textTinyR_package/)
 
@@ -33,6 +31,10 @@ Hello and welcome to this new issue!
 
 + [truncated normal algorithms](https://xianblog.wordpress.com/2017/01/04/truncated-normal-algorithms/)
 
++ [Cross-validation of topic modelling](http://ellisp.github.io/blog/2017/01/05/topic-model-cv)
+
+![Cross-validation of topic modelling](https://ellisp.github.io/img/0077-AssociatedPress.gif)
+
 + [Use CSS to format markdown or HTML files](http://educate-r.org//2017/01/03/highlighthtml.html)
 
 + [Django and R on Heroku](http://pirategrunt.com/blog/r/2017/01/03/RonHeroku/)
@@ -43,9 +45,6 @@ Hello and welcome to this new issue!
 
 + [Shiny Chart Builder – Explore your database with a point-and-click interface](http://blog.datascienceheroes.com/shiny-chart-builder-explore-your-database-with-a-point-and-click-interface/)
 
-+ [Cross-validation of topic modelling](http://ellisp.github.io/blog/2017/01/05/topic-model-cv)
-
-![Cross-validation of topic modelling](https://ellisp.github.io/img/0077-AssociatedPress.gif)
 
 + [Animations in R using Plotly](http://moderndata.plot.ly/animations-in-r-using-plotly/)
 
@@ -57,6 +56,26 @@ Hello and welcome to this new issue!
 
 + [tidyquant: Bringing Quantitative Financial Analysis to the tidyverse](http://www.mattdancho.com/code-tools/2017/01/01/tidyquant-introduction.html)
 
++ [What is a Linear Trend, by the way?](http://freakonometrics.hypotheses.org/50003)
+
++ [A Theory of Nested Cross Simulation](http://www.win-vector.com/blog/2017/01/a-theory-of-nested-cross-simulation/)
+
+### Insights
+
++ [Three reasons to learn R today](http://blog.revolutionanalytics.com/2017/01/three-reasons-to-learn-r-today.html)
+
++ [Our R package roundup](http://opiateforthemass.es/articles/R-packages-in-2016/)
+
+![Our R package roundup](https://cdn.rawgit.com/Quiri/quiri.github.io/master/images/cran-top20-2016.png)
+
++ [Why R is the best data science language to learn today](http://sharpsightlabs.com/blog/r-recommend-data-science/)
+
++ [The Most Important Commodity in 2017 is Data](https://rud.is/b/2017/01/04/the-most-important-commodity-in-2017-is-data/)
+
++ [Simple Features Now on CRAN](https://www.r-consortium.org/blog/2017/01/03/simple-features-now-on-cran)
+
++ [May the Force of R be With You, Always!](http://danielmarcelino.github.io/blog/2017/may-the-force-of-r-be-with-you-always.html) - With a Telegram account connected to @TeleR, the force of R can always be with me.
+
 ### R in Real World
 
 + [Explaining Statistical Goodness of fit Tests with Beer (Statistics)](https://jasdumas.github.io/2017-01-04-choosing-a-stat-test-with-beer/)
@@ -64,13 +83,15 @@ Hello and welcome to this new issue!
 
 + [Removing Personal Bias From Flu Severity Estimation (a.k.a. Misery Loves Data)](https://rud.is/b/2017/01/02/removing-personal-bias-from-flu-severity-estimation-a-k-a-misery-loves-data/)
 
-+ [Thematic Interactive Map](http://jkunst.com/r/thematic-interactive-map/) - The last month, yep, the past year I’ve working on create maps easily with highcharter. When I saw this chart I took as challege to replicate this nice map in using highcharter.
-
 ![Removing Personal Bias From Flu Severity Estimation (a.k.a. Misery Loves Data)](https://rud.is/b/wp-content/uploads/2017/01/Cursor_and___Development_cdcfluview_-_master_-_RStudio-1.png)
+
++ [Thematic Interactive Map](http://jkunst.com/r/thematic-interactive-map/) - The last month, yep, the past year I’ve working on create maps easily with highcharter. When I saw this chart I took as challege to replicate this nice map in using highcharter.
 
 + [Analyzing emotions in video with R](http://blog.revolutionanalytics.com/2017/01/analyzing-emotions-in-video-with-r.html)
 
 + [Inflation of the US Dollar \[OC\] ](https://www.reddit.com/r/dataisbeautiful/comments/5m8htt/inflation_of_the_us_dollar_oc/?sort=old)
+
+![Inflation of the US Dollar \[OC\] ](https://i.redd.it/a6jyrvyz3y7y.png)
 
 + [End of Season Fantasy Round Up: Draft Values, Busts, and Best Free Agents of the 2016 Season](http://jessepiburn.com/2017/01/end-of-season-fantasy-round-up-draft-values-busts-and-best-free-agents-of-the-2016-season/)
 
@@ -85,9 +106,13 @@ Hello and welcome to this new issue!
 + [Understanding mixture models and expectation-maximization (using baseball statistics)](http://varianceexplained.org/r/mixture-models-baseball/)
 
 + [Forcasting Natural Catastrophes (is rather difficult)](http://freakonometrics.hypotheses.org/50057)
+
++ [10,000 CRAN Packages](https://www.rstudio.com/rviews/2017/01/06/10000-cran-packages/) - The R package system continues to expand as the number of packages on CRAN is about to blow through the 10,000 mark sometime soon.
+
+
+
 ### International R
 
-![Inflation of the US Dollar \[OC\] ](https://i.redd.it/a6jyrvyz3y7y.png)
 
 
 ### R in Organization
@@ -104,29 +129,14 @@ Hello and welcome to this new issue!
 
 ### Videos and Podcasts
 
-+ [NSSD Philately and Numismatology](https://soundcloud.com/nssd-podcast/episode-30-philately-and-numismatology) Hilary and Roger follow up on open data and data sharing in government. They also discuss artificial intelligence, self-driving cars, and doing your taxes in R.
++ [NSSD 30 - Philately and Numismatology](https://soundcloud.com/nssd-podcast/episode-30-philately-and-numismatology) Hilary and Roger follow up on open data and data sharing in government. They also discuss artificial intelligence, self-driving cars, and doing your taxes in R.
 
 
-### Resources and Insights
+### Resources
 
 + [Cheatsheet: Data Science for Big Data with Spark and sparklyr](http://spark.rstudio.com/images/sparklyr-cheatsheet.pdf)
 
-+ [Simple Features Now on CRAN](https://www.r-consortium.org/blog/2017/01/03/simple-features-now-on-cran)
-
-+ [Three reasons to learn R today](http://blog.revolutionanalytics.com/2017/01/three-reasons-to-learn-r-today.html)
-
 + [The biggest R stories from 2016](http://blog.revolutionanalytics.com/2017/01/the-biggest-r-stories-from-2016.html)
-
-+ [Why R is the best data science language to learn today](http://sharpsightlabs.com/blog/r-recommend-data-science/)
-
-+ [May the Force of R be With You, Always!](http://danielmarcelino.github.io/blog/2017/may-the-force-of-r-be-with-you-always.html) - With a Telegram account connected to @TeleR, the force of R can always be with me.
-
-+ [What is a Linear Trend, by the way?](http://freakonometrics.hypotheses.org/50003)
-
-+ [A Theory of Nested Cross Simulation](http://www.win-vector.com/blog/2017/01/a-theory-of-nested-cross-simulation/)
-
-+ [The Most Important Commodity in 2017 is Data](https://rud.is/b/2017/01/04/the-most-important-commodity-in-2017-is-data/)
-
 
 
 ### New Packages and Tools
@@ -148,8 +158,6 @@ Hello and welcome to this new issue!
 + [jsonlite 1.2](http://ropensci.org/blog/technotes/2017/01/04/jsonlite-12) - A Robust, High Performance JSON Parser and Generator for R
 
 + [digest 0.6.11](http://dirk.eddelbuettel.com/blog/2017/01/03#digest_0.6.11) - R package to create compact hash digests of R objects
-
-+ [10,000 CRAN Packages](https://www.rstudio.com/rviews/2017/01/06/10000-cran-packages/)
 
 ### Jobs
 
@@ -176,6 +184,14 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),
 
 + `seq.int(to=1, by=1)` is now correct, other cases are integer (instead of `double`) when `seq()` is integer too, and the "non-finite" error messages are consistent between `seq.default()` and `seq.int()`, no longer mentioning `NaN` etc.
 
+### Call for Participation
+
++ [eoda celebrates R – don’t miss the date and win!](https://blog.eoda.de/2017/01/02/eoda-celebrates-r-dont-miss-the-date-and-win/)
+
++ [EVENT Announcement:   EARL Conferences 2017](http://www.mango-solutions.com/wp/2017/01/event-announcement-earl-conferences-2017/)
+
++ [R/Finance 2017: Call for Papers](http://blog.fosstrading.com/2017/01/rfinance-2017-call-for-papers.html)
+
 ### Upcoming Events
 
 + [rstudio::conf 2017](https://www.rstudio.com/conference/)  **January 12 and 14, 2017** <br>
@@ -187,11 +203,6 @@ The R community and some of South Africa's most forward thinking companies have 
 + [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />
 The annual useR! conference is the main meeting of the international R user and developer community. Its program consists of both invited and user-contributed presentations.  <br />
 
-+ [eoda celebrates R – don’t miss the date and win!](https://blog.eoda.de/2017/01/02/eoda-celebrates-r-dont-miss-the-date-and-win/)
-
-+ [EVENT Announcement:   EARL Conferences 2017](http://www.mango-solutions.com/wp/2017/01/event-announcement-earl-conferences-2017/)
-
-+ [R/Finance 2017: Call for Papers](http://blog.fosstrading.com/2017/01/rfinance-2017-call-for-papers.html)
 
 ### Quotes of the Week
 
