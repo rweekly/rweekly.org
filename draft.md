@@ -74,8 +74,6 @@ Hello and welcome to this new issue!
 
 + [Simple Features Now on CRAN](https://www.r-consortium.org/blog/2017/01/03/simple-features-now-on-cran)
 
-+ [May the Force of R be With You, Always!](http://danielmarcelino.github.io/blog/2017/may-the-force-of-r-be-with-you-always.html) - With a Telegram account connected to @TeleR, the force of R can always be with me.
-
 ### R in Real World
 
 + [Explaining Statistical Goodness of fit Tests with Beer (Statistics)](https://jasdumas.github.io/2017-01-04-choosing-a-stat-test-with-beer/)
@@ -151,6 +149,7 @@ Hello and welcome to this new issue!
 
 + [tidyquant](https://github.com/mdancho84/tidyquant) - Seamless interaction between quantitative financial analysis packages and the tidyverse.
 
++ [TeleR](http://danielmarcelino.github.io/blog/2017/may-the-force-of-r-be-with-you-always.html) - With a Telegram account connected to @TeleR, the force of R can always be with me.
 
 ### New Releases
 
