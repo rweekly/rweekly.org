@@ -115,7 +115,7 @@ Hello and welcome to this new issue!
 + [Interview with Joe Cheng](https://www.rstudio.com/rviews/2017/01/04/interview-with-joe-cheng/)
 
 + [The Flexibility of Remote and Local R Workspaces](http://blog.revolutionanalytics.com/2017/01/remote-and-local-r-workspaces.html)
-
++ [See how organization is using other programs to work with R:Integrate Power BI desktop with R](https://www.youtube.com/watch?v=22zPWL-nFtQ&feature=youtu.be)
 ### R in Academia 
 
 
