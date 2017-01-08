@@ -115,7 +115,9 @@ Hello and welcome to this new issue!
 + [Interview with Joe Cheng](https://www.rstudio.com/rviews/2017/01/04/interview-with-joe-cheng/)
 
 + [The Flexibility of Remote and Local R Workspaces](http://blog.revolutionanalytics.com/2017/01/remote-and-local-r-workspaces.html)
-+ [See how organization is using other programs to work with R:Integrate Power BI desktop with R](https://www.youtube.com/watch?v=22zPWL-nFtQ&feature=youtu.be)
+
++ [Integrate Power BI Desktop with R](https://www.youtube.com/watch?v=22zPWL-nFtQ&feature=youtu.be)
+
 ### R in Academia 
 
 
@@ -145,7 +147,7 @@ Hello and welcome to this new issue!
 
 ### New Releases
 
-+ [RcppTOML](http://dirk.eddelbuettel.com/blog/2017/01/05#rcpptoml_0.1.0) - 'Rcpp' Bindings to Parser for Tom's Obvious Markup Language
++ [RcppTOML 0.1.0](http://dirk.eddelbuettel.com/blog/2017/01/05#rcpptoml_0.1.0) - 'Rcpp' Bindings to Parser for Tom's Obvious Markup Language
 
 + [jsonlite 1.2](http://ropensci.org/blog/technotes/2017/01/04/jsonlite-12) - A Robust, High Performance JSON Parser and Generator for R
 
