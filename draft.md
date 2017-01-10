@@ -80,6 +80,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),
 The R community and some of South Africa's most forward thinking companies have come together to bring satRday to Cape Town. This conference brings an opportunity to hear from and network with top Researchers, Data Scientists and Developers from all over the country and the world. 
 
 + [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />
-The annual useR! conference is the main meeting of the international R user and developer community. Its program consists of both invited and user-contributed presentations.  <br />
+The annual useR! conference is the main meeting of the international R user and developer community. Its program consists of both invited and user-contributed presentations.
 
 ### Quotes of the Week

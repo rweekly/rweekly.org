@@ -30,16 +30,23 @@
   <meta name="twitter:image" content="https://rweekly.org/public/logo.png" />
   <script>
     // external
+    var shortregex = /^((www)|(blog))\./
     function add_external_links() {
-      var links = document.links;
+      var links = document.querySelectorAll(".post a");
       for (var i = 0, linksLength = links.length; i < linksLength; i++) {
         if (links[i].hostname != window.location.hostname && !links[i].classList.contains("externalLink")) {
-          links[i].target = '_blank';
-          links[i].classList.add('externalLink');
-          var newNode = document.createElement('span');
+          var targetlink = links[i];
+          targetlink.target = '_blank';
+          targetlink.classList.add('externalLink');
+          var newNode = document.createElement('text');
           newNode.className += "tooltiptext";
-          newNode.innerHTML = links[i].hostname;
-          links[i].appendChild(newNode);
+          shorturl = targetlink.hostname.replace(shortregex,"")
+          newNode.innerHTML = '&nbsp;(&nbsp;' + shorturl +'&nbsp;)&nbsp;'; 
+          var parentelt = targetlink.parentElement;
+          if (!parentelt.classList.contains("added-hostname")){
+              parentelt.classList.add("added-hostname");
+              links[i].parentElement.appendChild(newNode);
+          }
         }
       }
     }
