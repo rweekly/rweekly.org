@@ -117,8 +117,8 @@
         _paq.push(['trackEvent', 'set-origin', 'true']);
       } else {
         localStorage.setItem('origin', 'false');
-        document.body.classList.add('show-origin');
-        document.body.classList.remove('hide-origin');
+        document.body.classList.add('hide-origin');
+        document.body.classList.remove('show-origin');
         _paq.push(['trackEvent', 'set-origin', 'false']);
       }
     }
