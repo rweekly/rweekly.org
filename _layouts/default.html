@@ -3,7 +3,7 @@
 
   {% include head.html %}
   
-  <body>
+  <body class="show-origin">
   
   {% include github-corner.html %}
 
@@ -14,9 +14,10 @@
           {% for page in site.pages_list %}
               <small><a href="{{ page[1]  }}" style = "padding: 0 9px 0 0;">{{ page[0] }}</a></small>
           {% endfor %}
-          <small><share-button style = "padding: 0 9px 0 0;">Share</share-button></small>
           <small><a href="/search.html" style = "padding: 0 9px 0 0;">Search</a></small>
+          <small><a href="#" onclick="originMode();" style = "padding: 0 9px 0 0;">Origin</a></small>
           <small><a href="#" onclick="nightMode();" style = "padding: 0 9px 0 0;">Night</a></small>
+
         </h3>
       <!--&nbsp;&nbsp;&nbsp;-->
       </header>
@@ -52,22 +53,6 @@
 
     </script>
 
-    <script>
-    {% include share-button.min.js %}
-
-   </script>
-   <script>
-    var shareButton = new ShareButton({
-        ui: {
-            flyout: "bottom left"
-        },
-        networks: {
-            pinterest: {
-                enabled: false
-            }
-        }
-    });
-    </script>
     <script>
     var anchorForId = function (id) {
 	var anchor = document.createElement("a");

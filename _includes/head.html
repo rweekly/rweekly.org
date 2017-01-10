@@ -47,6 +47,11 @@
               parentelt.classList.add("added-hostname");
               links[i].parentElement.appendChild(newNode);
           }
+
+          var newspan = document.createElement('span');
+          newspan.className += "spantext";
+          newspan.innerHTML = targetlink.hostname;
+          targetlink.appendChild(newspan);
         }
       }
     }
@@ -55,6 +60,7 @@
   <script type="text/javascript">
     var _paq = _paq || [];
     _paq.push(['setCustomVariable', 1, "Night", localStorage.getItem('night'), "page"]);
+    _paq.push(['setCustomVariable', 2, "Origin", localStorage.getItem('origin'), "page"]);
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking', true]);
     _paq.push(['enableHeartBeatTimer']);
@@ -83,7 +89,7 @@
   <link rel="dns-prefetch" href="//blog.rstudio.org">
   <script>
     function nightMode() {
-      if (localStorage.getItem('night') == 'true') {
+      if (localStorage.getItem('night') === 'true') {
         localStorage.setItem('night', 'false');
         document.body.classList.remove('night');
         _paq.push(['trackEvent', 'set-nightmode', 'false']);
@@ -93,9 +99,33 @@
         _paq.push(['trackEvent', 'set-nightmode', 'true']);
       }
     }
-    if (localStorage.getItem('night') == 'true') {
+    if (localStorage.getItem('night') === 'true') {
       document.addEventListener("DOMContentLoaded", function () {
         document.body.classList.add('night');
+      });
+    }
+    function originMode() {
+      if (localStorage.getItem('origin') === 'true') {
+        localStorage.setItem('origin', 'false');
+        document.body.classList.remove('show-origin');
+        document.body.classList.add('hide-origin');
+        _paq.push(['trackEvent', 'set-origin', 'false']);
+      } else if (localStorage.getItem('origin') === 'false') {
+        localStorage.setItem('origin', 'true');
+        document.body.classList.add('show-origin');
+        document.body.classList.remove('hide-origin');
+        _paq.push(['trackEvent', 'set-origin', 'true']);
+      } else {
+        localStorage.setItem('origin', 'false');
+        document.body.classList.add('show-origin');
+        document.body.classList.remove('hide-origin');
+        _paq.push(['trackEvent', 'set-origin', 'false']);
+      }
+    }
+    if (localStorage.getItem('origin') == 'false') {
+      document.addEventListener("DOMContentLoaded", function () {
+        document.body.classList.remove('show-origin');
+        document.body.classList.add('hide-origin');
       });
     }
   </script>

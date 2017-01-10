@@ -51,35 +51,51 @@ input[type=text]:focus {
     // border-bottom: 1px dotted black;
 }
 
-.tooltiptext {
-    // visibility: hidden;
-    // background-color: #525252;
-    // color: #fff;
-    // text-align: center;
-    // border-radius: 6px;
-    // position: absolute;
-    // z-index: 1;
-    // padding: 5px 5px;
-    // bottom: 100%;
-    // left: 15px;
-    // //  margin-left: -60px;
-    // /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
-    // opacity: 0;
-    // transition: all 0.1s ease-in-out
-    // display: inline-block;
-    color: #999;
+
+.externalLink .spantext {
+    display: none;
+    visibility: hidden;
+    background-color: #525252;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    padding: 5px 5px;
+    bottom: 100%;
+    left: 15px;
+    //  margin-left: -60px;
+    /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+    opacity: 0;
+    transition: all 0.1s ease-in-out
 }
-// .externalLink:hover {
-//     height: $root-line-height;
-// }
 
-// .externalLink:hover .tooltiptext {
-//     visibility: visible;
-//     opacity: 0.85;
-// }
+body.show-origin {
+  text.tooltiptext {
+      color: #999;
+  }
+}
 
-// .externalLink:hover .tooltiptext:hover {
-//     visibility: hidden;
-//     opacity: 0.85;
-//     transition: opacity 0.1s ease-in-out;
-// }
+body.hide-origin {
+  text.tooltiptext {
+    display: none;
+  }
+  .externalLink .spantext {
+    display: flex;
+  }
+  .externalLink:hover {
+      height: $root-line-height;
+  }
+
+  .externalLink:hover .spantext {
+      visibility: visible;
+      opacity: 0.85;
+  }
+
+  .externalLink:hover .spantext:hover {
+      visibility: hidden;
+      opacity: 0.85;
+      transition: opacity 0.1s ease-in-out;
+  }
+}
+
