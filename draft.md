@@ -23,7 +23,7 @@ Hello and welcome to this new issue!
 
 ### R in Real World
 
-
++[Text Mining Amazon Mobile Phone Reviews: Interesting Insights](http://www.kdnuggets.com/2017/01/data-mining-amazon-mobile-phone-reviews-interesting-insights.html)
 
 ### International R
 
@@ -51,7 +51,7 @@ Hello and welcome to this new issue!
 
 ### New Packages and Tools
 
-
++[R packages interfacing with Stan: brms](http://andrewgelman.com/2017/01/10/r-packages-interfacing-stan-brms/)
 
 
 ### New Releases
