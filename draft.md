@@ -19,7 +19,7 @@ Hello and welcome to this new issue!
 
 ### Insights
 
-
+[The best R package for learning to “think about visualization”](http://sharpsightlabs.com/blog/r-package-think-about-visualization/)
 
 ### R in Real World
 
@@ -31,8 +31,8 @@ Hello and welcome to this new issue!
 
 ### R in Organization
 
-
-
+[Announcing RStudio Connect – For all the work your teams do in R](https://blog.rstudio.org/2017/01/10/announcing-rstudio-connect-for-all-the-work-your-teams-do-in-r/)
+[SQL Server R Services – Why we built it](https://blogs.msdn.microsoft.com/sqlserverstorageengine/2017/01/10/sql-server-r-services-why-did-we-build-it/)
 
 ### R in Academia 
 
