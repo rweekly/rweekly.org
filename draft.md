@@ -41,8 +41,7 @@ Hello and welcome to this new issue!
 
 ### Videos and Podcasts
 
-
-
+[The R-Podcast Episode 19: Talking Shiny at RStudio Conf with Barbara Borges and Dean Attali](http://www.r-podcast.org/posts/the-r-podcast-episode-19-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali.html)
 
 ### Resources
 
