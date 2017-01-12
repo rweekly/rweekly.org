@@ -56,7 +56,7 @@ Hello and welcome to this new issue!
 
 ### New Releases
 
-
++ [Custom images for Shiny dashboard valueBox icons](https://blog.snap.uaf.edu/2017/01/11/custom-images-for-shiny-dashboard-valuebox-icons/ via @leonawicz)
 
 
 ### Jobs
@@ -73,7 +73,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS),
 
 ### Call for Participation
 
-
++ [R / Finance 2017 Call for Papers](http://dirk.eddelbuettel.com/blog/2017/01/11/#r_finance_2017_cfp)
 
 ### Upcoming Events
 
