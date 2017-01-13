@@ -20,6 +20,7 @@ Hello and welcome to this new issue!
 ### Insights
 
 + [The best R package for learning to “think about visualization”](http://sharpsightlabs.com/blog/r-package-think-about-visualization/)
++ [Top 50 Ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
 ### R in Real World
 
@@ -51,6 +52,7 @@ Hello and welcome to this new issue!
 ### New Packages and Tools
 
 + [R packages interfacing with Stan: brms](http://andrewgelman.com/2017/01/10/r-packages-interfacing-stan-brms/)
++ [fivethirtyeight](Data and Code Behind the Stories and Interactives at 'FiveThirtyEight')
 
 
 ### New Releases
