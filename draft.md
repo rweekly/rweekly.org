@@ -42,7 +42,7 @@ Hello and welcome to this new issue!
 
 ### Videos and Podcasts
 
-[The R-Podcast Episode 19: Talking Shiny at RStudio Conf with Barbara Borges and Dean Attali](http://www.r-podcast.org/posts/the-r-podcast-episode-19-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali.html)
++ [The R-Podcast Episode 19: Talking Shiny at RStudio Conf with Barbara Borges and Dean Attali](http://www.r-podcast.org/posts/the-r-podcast-episode-19-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali.html)
 
 ### Resources
 
@@ -52,7 +52,7 @@ Hello and welcome to this new issue!
 ### New Packages and Tools
 
 + [R packages interfacing with Stan: brms](http://andrewgelman.com/2017/01/10/r-packages-interfacing-stan-brms/)
-+ [fivethirtyeight](Data and Code Behind the Stories and Interactives at 'FiveThirtyEight')
++ [fivethirtyeight](https://github.com/rudeboybert/fivethirtyeight) - Data and Code Behind the Stories and Interactives at 'FiveThirtyEight'
 
 
 ### New Releases
