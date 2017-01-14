@@ -109,7 +109,7 @@ Hello and welcome to this new issue!
 
 + [The anatomy of a useful chart: NOAA’s flood forecasts](http://blog.revolutionanalytics.com/2017/01/the-anatomy-of-a-useful-chart.html)
 
-+ [How Stack Overflow plans to survive the next DNS attack - Server Fault Blog](blog.serverfault.com/2017/01/09/surviving-the-next-dns-attack) - Visualization with R
++ [How Stack Overflow plans to survive the next DNS attack - Server Fault Blog](http://blog.serverfault.com/2017/01/09/surviving-the-next-dns-attack/) - Visualization with R
 
 ![How Stack Overflow plans to survive the next DNS attack - Server Fault Blog](https://blog.serverfault.com/files/2017/01/dns-boxplot-nz-single-600.png)
 
