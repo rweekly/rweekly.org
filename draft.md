@@ -97,6 +97,8 @@ Hello and welcome to this new issue!
 
 + [Mapping useRs](http://forwards.github.io/blog/2017/01/13/mapping-users/) - The first in a series of posts on the useR! 2016 survey.
 
+![Mapping useRs](https://forwards.github.io/blog/2017/01/13/mapping-users/figures/unnamed-chunk-4-1.png)
+
 ### R in Real World
 
 + [Text Mining Amazon Mobile Phone Reviews: Interesting Insights](http://www.kdnuggets.com/2017/01/data-mining-amazon-mobile-phone-reviews-interesting-insights.html)
