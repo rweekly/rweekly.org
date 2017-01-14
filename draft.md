@@ -12,19 +12,106 @@ Hello and welcome to this new issue!
 ### Highlight
 
 
+### Live in rstudio::conf 2017
+
++ [Announcing RStudio Connect – For all the work your teams do in R](https://blog.rstudio.org/2017/01/10/announcing-rstudio-connect-for-all-the-work-your-teams-do-in-r/)
+
++ [kbroman/RStudioConf2017Slides](https://github.com/kbroman/RStudioConf2017Slides) -  Links to slides for talks at the 2017 rstudio::conf
+
++ [rweekly/conferences](https://github.com/rweekly/conferences) - Your one stop R conferences guide
+
++ [Rstudio Conference 2017: purrr & list columns](https://github.com/stephenturner/rstudioconf_purrr_listcols) 
+
++ [The R-Podcast Episode 19: Talking Shiny at RStudio Conf with Barbara Borges and Dean Attali](http://www.r-podcast.org/posts/the-r-podcast-episode-19-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali.html)
 
 ### Tutorials
 
++ [Animated barplot and google map with R](https://tomaztsql.wordpress.com/2017/01/13/animated-barplot-and-google-map-with-r/)
+
++ [Raccoon Ch 2.3 – 1-way Anova](http://www.quantide.com/raccoon-ch-2-3-1-way-anova/)
+
++ [Extensions for simmer](http://fishyoperations.com/2017/01/12/extensions-for-simmer.html)
+
++ [Regression model with auto correlated errors – Part 1, the data](https://datascienceplus.com/fitting-a-simple-regression-model-with-auto-correlated-errors-an-astrological-example-part-1-the-data/)
+
++ [R for Beginners:  Some Simple Code to Produce Informative Graphs, Part One](https://dmwiig.net/2017/01/11/r-for-beginners-some-simple-code-to-produce-informative-graphs-part-one/)
+
++ [Simulation of empirical Bayesian methods (using baseball statistics)](http://varianceexplained.org/r/simulation-bayes-baseball/)
+
+![Simulation of empirical Bayesian methods (using baseball statistics)](https://cdn.rawgit.com/dgrtwo/dgrtwo.github.com/ba378c56/figs/2017-01-11-simulation-bayes-baseball/career_sim_gathered_plot-1.png)
+
++ [Repeatedly applying a function](https://tjmahr.github.io/repeatedly-calling-a-function/)
+
++ [Random Forest Classification of Mushrooms](https://stoltzmaniac.com/random-forest-classification-of-mushrooms/)
+
+![Random Forest Classification of Mushrooms](https://www.stoltzmaniac.com/content/images/2017/01/random-forest-classification-of-mushrooms/unnamed-chunk-5-1.png)
+
++ [Delaware River Water Quality Visualization App](http://adventuresindata.blogspot.com/2017/01/delaware-river-water-quality.html)
+
++ [Magic reprex](http://njtierney.github.io/r/rbloggers/2017/01/11/reprex-magic/)
+
++ [Knit directly to jupyter notebooks from RStudio](https://rud.is/b/2017/01/10/knit-directly-to-jupyter-notebooks-from-rstudio/)
+
++ [Using xml schema and xslt in R](http://ropensci.org/blog/blog/2017/01/10/xslt-release)
+
++ [Building Particle Filters and Particle MCMC in NIMBLE](https://r-nimble.org/building-particle-filters-and-particle-mcmc-in-nimble-2)
+
++ [New year resolution](http://gianlubaio.blogspot.com/2017/01/new-year-resolution.html)
+
++ [Trading Models and Distributed Lags](http://davegiles.blogspot.com/2017/01/trading-models-and-distributed-lags.html)
+
++ [Third Actuarial Pricing Game](http://freakonometrics.hypotheses.org/50078)
+
++ [Plot Colour Helper – Finally an easy way to pick colours for your R plots!](http://deanattali.com/blog/plot-colour-helper/)
+
+![Plot Colour Helper – Finally an easy way to pick colours for your R plots!](https://cdn.rawgit.com/daattali/colourpicker/master/inst/img/plothelper-demo.png)
+
++ [Entropy Based Image Binarization with imager and FSelectorRcpp](http://r-addict.com/2017/01/08/Entropy-Based-Image-Binarization.html)
+
++ [Controlling Expenses on Ali Express with RSelenium](http://r-addict.com/2017/01/08/RSelenium-at-TriCity-and-AliExpress.html)
+
++ [Clustering executed SQL Server queries using R as tool for](https://tomaztsql.wordpress.com/2017/01/08/clustering-executed-sql-server-queries-using-r-as-tool-for/)
+
++ [Using R sp_execute_external_script with JSON](https://tomaztsql.wordpress.com/2017/01/09/using-r-sp_execute_external_script-with-json/)
 
 
 ### Insights
 
++ [Rcpp now used by 900 CRAN packages](http://dirk.eddelbuettel.com/blog/2017/01/07#rcpp_900_packages)
+
+![Rcpp now used by 900 CRAN packages](https://cdn.rawgit.com/rweekly/image/ed085810/2017-01-17/RcppGrowth_2017-01-07.png)
+
 + [The best R package for learning to “think about visualization”](http://sharpsightlabs.com/blog/r-package-think-about-visualization/)
-+ [Top 50 Ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+
++ [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+
++ [Some R News](https://www.rstudio.com/rviews/2017/01/13/some-r-news/)
+
++ [The best R package for learning to “think about visualization”](http://sharpsightlabs.com/blog/r-package-think-about-visualization/)
+
++ [December 2016 Package Picks](https://www.rstudio.com/rviews/2017/01/11/december-2016-package-picks/)
+
++ [Books I like](http://ellisp.github.io/blog/2017/01/14/books)
+
++ [Is it a job offer for a Data Scientist?](http://smarterpoland.pl/index.php/2017/01/is-it-a-job-offer-for-a-data-scientist/)
 
 ### R in Real World
 
 + [Text Mining Amazon Mobile Phone Reviews: Interesting Insights](http://www.kdnuggets.com/2017/01/data-mining-amazon-mobile-phone-reviews-interesting-insights.html)
+
++ [What can we learn from StackOverflow data?](http://blog.revolutionanalytics.com/2017/01/stackoverflow-insights.html)
+
+![What can we learn from StackOverflow data?](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0968b58f970d-800wi)
+
++ [Fantasy Hockey with rvest and purrr](http://www.maxhumber.com/2017/01/08/vorp-hockey.html)
+
++ [benchmarkme Update](https://csgillespie.wordpress.com/2017/01/09/benchmarkme-update/)
+
++ [The anatomy of a useful chart: NOAA’s flood forecasts](http://blog.revolutionanalytics.com/2017/01/the-anatomy-of-a-useful-chart.html)
+
++ [How Stack Overflow plans to survive the next DNS attack - Server Fault Blog](blog.serverfault.com/2017/01/09/surviving-the-next-dns-attack) - Visualization with R
+
+![How Stack Overflow plans to survive the next DNS attack - Server Fault Blog](https://blog.serverfault.com/files/2017/01/dns-boxplot-nz-single-600.png)
 
 ### International R
 
@@ -32,9 +119,12 @@ Hello and welcome to this new issue!
 
 ### R in Organization
 
-+ [Announcing RStudio Connect – For all the work your teams do in R](https://blog.rstudio.org/2017/01/10/announcing-rstudio-connect-for-all-the-work-your-teams-do-in-r/)
 
 + [SQL Server R Services – Why we built it](https://blogs.msdn.microsoft.com/sqlserverstorageengine/2017/01/10/sql-server-r-services-why-did-we-build-it/)
+
++ [Microsoft R Server tips from the Tiger Team](http://blog.revolutionanalytics.com/2017/01/tiger-team-tips.html)
+
++ [Education Analytics with R and Cortana Intelligence Suite](http://blog.revolutionanalytics.com/2017/01/education-analytics.html)
 
 ### R in Academia 
 
@@ -46,19 +136,38 @@ Hello and welcome to this new issue!
 
 ### Resources
 
++ [In case you missed it: December 2016 roundup](http://blog.revolutionanalytics.com/2017/01/in-case-you-missed-it-december-2016-roundup.html)
 
-
++ [The Complete ggplot2 Tutorial - Part1 Introduction To ggplot2 (Full R code)](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
 
 ### New Packages and Tools
 
-+ [R packages interfacing with Stan: brms](http://andrewgelman.com/2017/01/10/r-packages-interfacing-stan-brms/)
++ [brms](http://andrewgelman.com/2017/01/10/r-packages-interfacing-stan-brms/) - R packages interfacing with Stan
+
++ [rtrie](http://www.r-chart.com/2017/01/package-rtrie-on-cran.html) - The rtrie package allows you to quickly create Tries from a list of strings.
+
 + [fivethirtyeight](https://github.com/rudeboybert/fivethirtyeight) - Data and Code Behind the Stories and Interactives at 'FiveThirtyEight'
+
++ [shinytest](https://github.com/rstudio/shinytest) -  Unit tests for shiny apps — Work in Progress
+
++ [taskscheduleR](http://www.bnosac.be/index.php/blog/51-new-rstudio-add-in-to-schedule-r-scripts) - New RStudio add-in to schedule R scripts
+
++ [2017-01 Authored Package Updates](https://rud.is/b/2017/01/08/2017-01-authored-package-updates/)
+
 
 
 ### New Releases
 
-+ [Custom images for Shiny dashboard valueBox icons](https://blog.snap.uaf.edu/2017/01/11/custom-images-for-shiny-dashboard-valuebox-icons/ via @leonawicz)
 
++ [DiagrammeR 0.9](https://github.com/rich-iannone/DiagrammeR) -  Create graph diagrams and flowcharts using R.
+
+![DiagrammeR 0.9](https://rich-iannone.github.io/DiagrammeR/img/rstudio-graphviz-syntax-coloring.png)
+
++ [RcppCCTZ 0.2.0](http://dirk.eddelbuettel.com/blog/2017/01/08#rcppcctz_0.2.0) - 'Rcpp' Bindings for the 'CCTZ' Library
+
++ [nanotime 0.1.0](http://dirk.eddelbuettel.com/blog/2017/01/10#nanotime_0.1.0) - Now on Windows
+
++ [Custom images for Shiny dashboard valueBox icons](https://blog.snap.uaf.edu/2017/01/11/custom-images-for-shiny-dashboard-valuebox-icons/) - I’ve provided a gist that shows how to achieve the use of custom icons with local image files. 
 
 ### Jobs
 
@@ -67,10 +176,27 @@ Hello and welcome to this new issue!
 
 ### R Project Updates
 
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS), 
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ The `format()` and `print()` methods for `object.size()` results get new options `standard` and `digits`; notably, `standard = "IEC"` and `standard = "SI"` allow more standard abbreviations than the default ones, e.g., for kilo bytes. From contributions by Henrik Bengtsson. 
 
++ The order of flags when `LinkingTo` other packages has been changed so their include directories come earlier, before those specified in `CPPFLAGS`. This will only have an effect if non-system include directories are included with `-I` flags in `CPPFLAGS` (and so not the default `-I/usr/local/include` on most platforms). 
 
++ `bug.report()` now tries to extract an email address from a `BugReports` field, and if there is none, from a `Contacts` field.
+
++ `R CMD check` now checks any `BugReports` field to be non-empty and a suitable single URL.
+
++ `bug.report()` did not do any validity checking on a package's `BugReports` field. It now ignores an empty field, removes leading whitespace and only attempts to open `http://` and `https://` URLs, falling back to emailing the maintainer.
+
++ `findMethod` failed if the active signature had expanded beyond what a particular package used. (Example with packages XR and XRJulia on CRAN).
+
++ On some systems, very small hexadecimal numbers in hex notation would underflow to zero. (PR#17199)
+
++ (Windows only) `dir.create()` did not check the length of the path to create, and so could overflow a buffer and crash R. (PR#17206)
+
++ (Windows only) `dir.create()` did not check the length of the path to create, and so could overflow a buffer and crash R. PR#17206
+
++ Environmental variable `_R_CHECK_TESTS_NLINES_` controls how `R CMD check` reports failing tests (see §8 of the `R Internals` manual).
 
 ### Call for Participation
 
@@ -85,3 +211,9 @@ The R community and some of South Africa's most forward thinking companies have 
 The annual useR! conference is the main meeting of the international R user and developer community. Its program consists of both invited and user-contributed presentations.
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The tidyverse has a comfortable lead on base R in <a href="https://twitter.com/hashtag/rstudioconf?src=hash">#rstudioconf</a> tweets! (subtitle establishes my neutrality on the subject) <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/AuNmLVMjLF">pic.twitter.com/AuNmLVMjLF</a></p>&mdash; Mike Kearney📊 (@kearneymw) <a href="https://twitter.com/kearneymw/status/820118862230384642">January 14, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">By one crude measure (page views on Wikipedia), R is catching Python in popularity. <a href="https://t.co/9OUdj3dWI6">pic.twitter.com/9OUdj3dWI6</a></p>&mdash; Sean J. Taylor (@seanjtaylor) <a href="https://twitter.com/seanjtaylor/status/819649741491314689">January 12, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">my 11-yr-old son just said to me, “I read your blog.” Urp.</p>&mdash; Karl Broman (@kwbroman) <a href="https://twitter.com/kwbroman/status/819366398933745665">January 12, 2017</a></blockquote>
