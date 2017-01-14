@@ -95,6 +95,8 @@ Hello and welcome to this new issue!
 
 + [Is it a job offer for a Data Scientist?](http://smarterpoland.pl/index.php/2017/01/is-it-a-job-offer-for-a-data-scientist/)
 
++ [Mapping useRs](http://forwards.github.io/blog/2017/01/13/mapping-users/) - The first in a series of posts on the useR! 2016 survey.
+
 ### R in Real World
 
 + [Text Mining Amazon Mobile Phone Reviews: Interesting Insights](http://www.kdnuggets.com/2017/01/data-mining-amazon-mobile-phone-reviews-interesting-insights.html)
@@ -201,6 +203,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ### Call for Participation
 
 + [R / Finance 2017 Call for Papers](http://dirk.eddelbuettel.com/blog/2017/01/11/#r_finance_2017_cfp)
+
++ [Call to join Forwards](http://forwards.github.io/blog/2017/01/13/call-to-join-forwards/), the R Foundation taskforce on women and other under-represented groups.
 
 ### Upcoming Events
 
