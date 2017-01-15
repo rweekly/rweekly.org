@@ -87,9 +87,6 @@ Hello and welcome to this new issue!
 
 + [The best R package for learning to “think about visualization”](http://sharpsightlabs.com/blog/r-package-think-about-visualization/)
 
-+ [December 2016 Package Picks](https://www.rstudio.com/rviews/2017/01/11/december-2016-package-picks/)
-
-+ [Books I like](http://ellisp.github.io/blog/2017/01/14/books)
 
 + [Is it a job offer for a Data Scientist?](http://smarterpoland.pl/index.php/2017/01/is-it-a-job-offer-for-a-data-scientist/)
 
@@ -142,6 +139,9 @@ Hello and welcome to this new issue!
 
 + [The Complete ggplot2 Tutorial - Part1 Introduction To ggplot2 (Full R code)](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
 
++ [Books I like](http://ellisp.github.io/blog/2017/01/14/books)
+
+
 ### New Packages and Tools
 
 + [brms](http://andrewgelman.com/2017/01/10/r-packages-interfacing-stan-brms/) - R packages interfacing with Stan
@@ -156,6 +156,7 @@ Hello and welcome to this new issue!
 
 + [2017-01 Authored Package Updates](https://rud.is/b/2017/01/08/2017-01-authored-package-updates/)
 
++ [December 2016 Package Picks](https://www.rstudio.com/rviews/2017/01/11/december-2016-package-picks/)
 
 
 ### New Releases
