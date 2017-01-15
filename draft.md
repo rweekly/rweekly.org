@@ -81,8 +81,6 @@ Hello and welcome to this new issue!
 
 ![Rcpp now used by 900 CRAN packages](https://cdn.rawgit.com/rweekly/image/ed085810/2017-01-17/RcppGrowth_2017-01-07.png)
 
-+ [The best R package for learning to “think about visualization”](http://sharpsightlabs.com/blog/r-package-think-about-visualization/)
-
 + [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
 + [Some R News](https://www.rstudio.com/rviews/2017/01/13/some-r-news/)
