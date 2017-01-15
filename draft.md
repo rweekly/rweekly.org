@@ -16,11 +16,17 @@ Hello and welcome to this new issue!
 
 + [Announcing RStudio Connect – For all the work your teams do in R](https://blog.rstudio.org/2017/01/10/announcing-rstudio-connect-for-all-the-work-your-teams-do-in-r/)
 
++ [What’s New in the RStudio IDE?](https://cdn.rawgit.com/kevinushey/2017-rstudio-conf/master/slides.html)
+
 + [kbroman/RStudioConf2017Slides](https://github.com/kbroman/RStudioConf2017Slides) -  Links to slides for talks at the 2017 rstudio::conf
 
-+ [rweekly/conferences](https://github.com/rweekly/conferences) - Your one stop R conferences guide
++ [RStudio Conference 2017 Recap](http://www.gettinggeneticsdone.com/2017/01/rstudio-conference-2017-recap.html)
+
++ [Best tips & takeaways from RStudio Conference](http://www.computerworld.com/article/3157004/data-analytics/best-tips-and-takeaways-from-rstudio-conference.html)
 
 + [Rstudio Conference 2017: purrr & list columns](https://github.com/stephenturner/rstudioconf_purrr_listcols) 
+
++ [Intermediate Shiny Workshop](https://github.com/jcheng5/rstudio2017-shiny-workshop)
 
 + [The R-Podcast Episode 19: Talking Shiny at RStudio Conf with Barbara Borges and Dean Attali](http://www.r-podcast.org/posts/the-r-podcast-episode-19-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali.html)
 
@@ -141,7 +147,6 @@ Hello and welcome to this new issue!
 
 + [Books I like](http://ellisp.github.io/blog/2017/01/14/books)
 
-
 ### New Packages and Tools
 
 + [brms](http://andrewgelman.com/2017/01/10/r-packages-interfacing-stan-brms/) - R packages interfacing with Stan
@@ -205,7 +210,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 + [R / Finance 2017 Call for Papers](http://dirk.eddelbuettel.com/blog/2017/01/11/#r_finance_2017_cfp)
 
-+ [Call to join Forwards](http://forwards.github.io/blog/2017/01/13/call-to-join-forwards/), the R Foundation taskforce on women and other under-represented groups.
++ [Call to join Forwards](http://forwards.github.io/blog/2017/01/13/call-to-join-forwards/) - the R Foundation taskforce on women and other under-represented groups.
 
 ### Upcoming Events
 
