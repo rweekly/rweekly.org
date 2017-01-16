@@ -15,7 +15,7 @@ Hello and welcome to this new issue!
 
 ### Tutorials
 
-
++ [R to the Rescue](http://johnmackintosh.com/2017-01-15-taming-wild-spreadsheets/)
 
 ### Insights
 
@@ -52,7 +52,8 @@ Hello and welcome to this new issue!
 
 ### New Packages and Tools
 
-
++ [prepdat: Preparing Experimental Data for Statistical Analysis](https://www.r-bloggers.com/prepdat-preparing-experimental-data-for-statistical-analysis/)
++ [Choroplethr v3.5.3 is now on CRAN](http://www.arilamstein.com/blog/2017/01/16/choroplethr-v3-5-3-now-cran/)
 
 ### New Releases
 
