@@ -23,6 +23,7 @@ Hello and welcome to this new issue!
 
 ### R in Real World
 
++ [Nobel Laureates – A Closer Look At The Data](http://r-blog.salvaggio.net/?p=251)
 
 
 ### R Internationally
