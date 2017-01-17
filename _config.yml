@@ -38,8 +38,7 @@ gems:
   - jekyll-seo-tag
 
 pages_list:       
-  About: '/about.html'
-  Random: '/random.html'
-  Archive: '/archive.html'
   Feed: '/atom.xml'
+  About: '/about.html'
+  Archive: '/archive.html'
   Draft: '/draft.html'

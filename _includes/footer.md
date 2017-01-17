@@ -22,7 +22,7 @@ document.getElementById('search-form').addEventListener('submit', function(e){
 <hr/>
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
 
-**R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org). 
+**R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org). Want to read [random](./random.html) posts?
 
 [Twitter @ rweekly_org](https://twitter.com/rweekly_org)
 
