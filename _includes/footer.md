@@ -19,7 +19,12 @@ document.getElementById('search-form').addEventListener('submit', function(e){
 });
 </script>
 
+
+
 <hr/>
+
+Subscribe R Weekly with <a href="https://feedburner.google.com/fb/a/mailverify?uri=rweekly&amp;loc=en_US" target="_blank" onclick="_paq.push(['trackEvent', 'Mail', '1']);">Email</a>.
+
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
 
 **R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org). Want to read [random](./random.html) posts?
