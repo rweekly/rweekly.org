@@ -55,6 +55,7 @@ Hello and welcome to this new issue!
 
 + [prepdat: Preparing Experimental Data for Statistical Analysis](https://www.r-bloggers.com/prepdat-preparing-experimental-data-for-statistical-analysis/)
 + [Choroplethr v3.5.3 is now on CRAN](http://www.arilamstein.com/blog/2017/01/16/choroplethr-v3-5-3-now-cran/)
++ [ggedit 0.0.2: a GUI for advanced editing of ggplot2 objects](https://www.r-statistics.com/2017/01/ggedit-0-0-2-a-gui-for-advanced-editing-of-ggplot2-objects/)
 
 ### New Releases
 
@@ -77,6 +78,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 + [R / Finance 2017 Call for Papers](http://dirk.eddelbuettel.com/blog/2017/01/11/#r_finance_2017_cfp)
 
 + [Call to join Forwards](http://forwards.github.io/blog/2017/01/13/call-to-join-forwards/) - the R Foundation taskforce on women and other under-represented groups.
+
++ [EARL 2017: Abstract submissions open for San Francisco and London + San Francisco dates and venue announced](http://www.mango-solutions.com/wp/?p=6475)
 
 ### Upcoming Events
 
