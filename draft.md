@@ -46,7 +46,7 @@ Hello and welcome to this new issue!
 
 
 ### Resources
-
++ [Learning how to extend #RStudio by reading books](https://www.r-bloggers.com/learning-how-to-extend-rstudio-by-reading-books/)
 
 
 
