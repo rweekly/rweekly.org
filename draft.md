@@ -44,7 +44,7 @@ Hello and welcome to this new issue!
 
 ### Videos and Podcasts
 
-
++ [NSSD 31: The Word You're Looking for is Magical](https://soundcloud.com/nssd-podcast/episode-31-the-word-youre-looking-for-is-magical) Hilary and Roger go on a podcast bender and discuss how they record the podcast, missing data methods, rstudio::conf, Uber Movement, diagnosis with prediction models, and Alexa/Siri. 
 
 
 ### Resources
