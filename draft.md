@@ -16,6 +16,7 @@ Hello and welcome to this new issue!
 ### Tutorials
 
 + [R to the Rescue](http://johnmackintosh.com/2017-01-15-taming-wild-spreadsheets/)
++ [Learn Support Vector Machine (SVM) from Scratch in R](http://www.datasciencecentral.com/profiles/blogs/learn-support-vector-machine-svm-from-scratch-in-r)
 
 ### Insights
 
@@ -24,6 +25,7 @@ Hello and welcome to this new issue!
 ### R in Real World
 
 + [Nobel Laureates – A Closer Look At The Data](http://r-blog.salvaggio.net/?p=251)
++ [Diversity in the R Community](http://blog.revolutionanalytics.com/2017/01/diversity-in-the-r-community.html)
 
 
 ### R Internationally
