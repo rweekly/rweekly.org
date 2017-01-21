@@ -25,8 +25,6 @@ Hello and welcome to this new issue!
 
 ![Structural Equation Modelling in R (Part 2)](https://cdn.rawgit.com/rweekly/image/3103baed/2017-1-23/sem_example_2.svg)
 
-+ [Introduction to Event Log Mining with R](https://datasciencedojo.com/event-log-mining/)
-
 + [Reproducible Finance with R: Sector Correlations](https://www.rstudio.com/rviews/2017/01/18/reproducible-finance-with-r-sector-correlations/)
 
 + [Regression model with auto correlated errors – Part 3, some astrology](https://datascienceplus.com/regression-model-with-auto-correlated-errors-part-3-some-astrology/)
@@ -83,8 +81,6 @@ Hello and welcome to this new issue!
 
 + [GitHub Growth Appears Scale Free](http://perfdynamics.blogspot.com/2017/01/github-growth-appears-scale-free.html)
 
-
-
 + [The Devil’s in the [Davos] Details — A quick look at this year’s WEF Global Risks Report](https://rud.is/b/2017/01/16/the-devils-in-the-davos-details-a-quick-look-at-this-years-wef-global-risks-report/)
 
 ### R Internationally
@@ -106,6 +102,8 @@ Hello and welcome to this new issue!
 ### Videos and Podcasts
 
 + [NSSD 31: The Word You're Looking for is Magical](https://soundcloud.com/nssd-podcast/episode-31-the-word-youre-looking-for-is-magical) Hilary and Roger go on a podcast bender and discuss how they record the podcast, missing data methods, rstudio::conf, Uber Movement, diagnosis with prediction models, and Alexa/Siri. 
+
++ [Introduction to Event Log Mining with R](https://datasciencedojo.com/event-log-mining/)
 
 
 ### Resources
