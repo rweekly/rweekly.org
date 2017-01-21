@@ -49,6 +49,7 @@ Hello and welcome to this new issue!
 
 ### Resources
 
++ [Learning how to extend #RStudio by reading books](https://statisticalestimation.blogspot.com/2016/12/learning-how-to-extend-rstudio-by-reading-books.html)
 
 
 
