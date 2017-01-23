@@ -59,10 +59,11 @@ Hello and welcome to this new issue!
 
 ### New Packages and Tools
 
++ [ggbash](https://github.com/caprice-j/ggbash) -  A Simpler ggplot2 Syntax, saving half of your typing.
 
+![ggbash](https://cdn.rawgit.com/caprice-j/ggbash/ddd16012/README-func.png)
 
-
-
++ [orangetext](https://github.com/hrbrmstr/orangetext) - 🍊📄 : An #rstats project to keep track of The 🍊 One's speeches 
 
 ### New Releases
 
