@@ -15,14 +15,14 @@ Hello and welcome to this new issue!
 
 ### Tutorials
 
-
++ [Principal Component Analysis in R](https://poissonisfish.wordpress.com/2017/01/23/principal-component-analysis-in-r/)
 
 
 
 
 ### Insights
 
-
++ [Choosing Software to Publish your Data Science Portfolio](http://www.arilamstein.com/blog/2017/01/23/choosing-software-publish-data-science-portfolio/)
 
 
 
