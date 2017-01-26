@@ -40,7 +40,7 @@ Hello and welcome to this new issue!
 
 ### R in Organization
 
-
++ [New Zealand bank replaces SAS server with R Server](http://blog.revolutionanalytics.com/2017/01/nz-bank-replaces-sas-with-r.html)
 
 
 ### R in Academia 
