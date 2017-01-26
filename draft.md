@@ -20,6 +20,7 @@ Hello and welcome to this new issue!
 
 
 
+
 ### Insights
 
 + [Choosing Software to Publish your Data Science Portfolio](http://www.arilamstein.com/blog/2017/01/23/choosing-software-publish-data-science-portfolio/)
@@ -28,7 +29,7 @@ Hello and welcome to this new issue!
 
 ### R in Real World
 
-
++ [Analyzing the US election using Twitter and Meta-Data in R](https://behaviouralthinking.com/2016/07/29/analyzing-the-us-election-using-twitter-and-meta-data-in-r/)
 
 
 
