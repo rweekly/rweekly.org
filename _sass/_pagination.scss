@@ -80,3 +80,57 @@ a.pagination-item:hover {
     background-color: white;
     color: white;
 }
+
+/* to top */
+#toTop {
+  background-color: grey;
+  border-radius: 4px 4px 0 0;
+  bottom: 0;
+  color: #FFFFFF;
+  display: none;
+  height: 25px;
+  position: fixed;
+  right: 0px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 35px;
+  opacity: 0.2;
+  z-index: 10000;
+  transition: all 0.2s ease-in-out 0s;
+}
+@media (max-width: 360px) {
+  
+#toTop {
+  display: none !important;
+}
+
+}
+
+#toTop:before {
+  line-height: 35px;
+  content: '⇧';
+  -webkit-font-smoothing: antialiased;
+  font-size: 18px;
+}
+#toTop:hover {
+  background-color: #A0CE4E;
+  opacity: 0.8;
+}
+#toTopHover {
+  display: block;
+  overflow: hidden;
+  float: left;
+  opacity: 0;
+}
+
+.screen-reader-text {
+  overflow: hidden;
+  clip: rect(0px, 0px, 0px, 0px);
+  position: absolute;
+  margin: -1px;
+  padding: 0;
+  height: 1px;
+  width: 1px;
+  word-wrap: normal !important;
+  border: 0 none;
+}
