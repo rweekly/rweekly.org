@@ -86,6 +86,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 + [EARL 2017: Abstract submissions open for San Francisco and London + San Francisco dates and venue announced](http://www.mango-solutions.com/wp/?p=6475)
 
++ [satRday Cape Town 2017: Data Visualisation Challenge announced](http://capetown2017.satrdays.org/#visualisation)
+
 ### Upcoming Events
 
 + [SatRday #2 Conference - Cape Town, South Africa](http://capetown2017.satrdays.org/) **18 Feb, 2017** <br />
