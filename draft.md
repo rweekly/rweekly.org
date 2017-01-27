@@ -24,13 +24,13 @@ Hello and welcome to this new issue!
 ### Insights
 
 + [Choosing Software to Publish your Data Science Portfolio](http://www.arilamstein.com/blog/2017/01/23/choosing-software-publish-data-science-portfolio/)
-
++ [R Markdown for the Enterprise](https://www.rstudio.com/rviews/2017/01/25/r-markdown-for-the-enterprise/)
 
 
 ### R in Real World
 
 + [Analyzing the US election using Twitter and Meta-Data in R](https://behaviouralthinking.com/2016/07/29/analyzing-the-us-election-using-twitter-and-meta-data-in-r/)
-
++ [Kung Fu R](http://blog.revolutionanalytics.com/2017/01/kung-fu-r.html)
 
 
 
@@ -55,7 +55,7 @@ Hello and welcome to this new issue!
 
 ### Resources
 
-
++ [Five online R courses in Statistics.com that are starting this week (and a discount code for them)](https://www.r-bloggers.com/five-online-r-courses-in-statistics-com-that-are-starting-this-week-and-a-discount-code-for-them/)
 
 
 ### New Packages and Tools
