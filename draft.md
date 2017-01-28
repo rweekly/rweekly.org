@@ -23,7 +23,7 @@ Hello and welcome to this new issue!
 
 + [Metro Systems Over Time](https://datascienceplus.com/metro-systems-over-time-part-1/) - Metro systems are an interesting way to learn more about the growth of a city over time.
 
-![Metro Systems Over Time](https://datascienceplus.com/wp-content/uploads/2017/01/paris_del.png)
+![Metro Systems Over Time](https://cdn.rawgit.com/rweekly/image/9fc44066/2017-01-30/paris_del.jpg)
 
 + [More water, a bit more about saints](http://masalmon.github.io/2017/01/26/morewater/) - Visualizing names of French villages
 
