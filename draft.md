@@ -31,7 +31,7 @@ Hello and welcome to this new issue!
 
 + [Women in the 2016 Stack Overflow Survey](http://juliasilge.com/blog/Women-Survey/)
 
-![Women in the 2016 Stack Overflow Survey](http://juliasilge.com/figs/2017-01-19-Women-Survey/counts-1.png)
+![Women in the 2016 Stack Overflow Survey](https://cdn.rawgit.com/juliasilge/juliasilge.github.io/6934fb4f/figs/2017-01-19-Women-Survey/counts-1.png)
 
 
 + [One View of the Impact of the New Immigration Ban (+ freeing PDF data with tabulizer)](https://rud.is/b/2017/01/26/one-view-of-the-impact-of-the-new-immigration-ban-freeing-pdf-data-with-tabulizer/)
