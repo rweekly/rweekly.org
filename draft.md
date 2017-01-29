@@ -136,6 +136,7 @@ Hello and welcome to this new issue!
 
 + [DataChats: An interview with Mine Çetinkaya-Rundel](http://www.datacamp.com/community/blog/datachats-an-interview-with-mine-cetinkaya-rundel)
 
++ [The R-Podcast Episode 20: More interviews from rstudio::conf with Javier Luraschi and Garrett Grolemund](http://r-podcast.org/posts/the-r-podcast-episode-20-more-interviews-from-rstudioconf-with-javier-luraschi-and-garrett-grolemund.html)
 
 ### Resources
 
