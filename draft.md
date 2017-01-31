@@ -45,11 +45,9 @@ Hello and welcome to this new issue!
 
 ### Resources
 
-
++ [List of R conferences and user groups](https://jumpingrivers.github.io/meetingsR/)
 
 ### New Packages and Tools
-
-
 
 
 ### New Releases
