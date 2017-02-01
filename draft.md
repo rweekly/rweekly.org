@@ -36,7 +36,8 @@ Hello and welcome to this new issue!
 
 ### Tutorials
 
-
++ [Mapping unemployment data, 2016](http://sharpsightlabs.com/blog/map-unemployment-nov-2016/)
++ [Importing Data into R, part II](https://thepracticalr.wordpress.com/2017/01/31/importing-data-into-r-part-ii/)
 
 ### Videos and Podcasts
 
