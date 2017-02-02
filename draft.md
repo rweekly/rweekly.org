@@ -41,7 +41,7 @@ Hello and welcome to this new issue!
 
 ### Videos and Podcasts
 
-
++ [Using the Bizarro Pipe to Debug magrittr Pipelines in R](http://www.win-vector.com/blog/2017/01/using-the-bizarro-pipe-to-debug-magrittr-pipelines-in-r/)
 
 
 ### Resources
