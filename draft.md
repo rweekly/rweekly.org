@@ -38,10 +38,13 @@ Hello and welcome to this new issue!
 
 + [Mapping unemployment data, 2016](http://sharpsightlabs.com/blog/map-unemployment-nov-2016/)
 + [Importing Data into R, part II](https://thepracticalr.wordpress.com/2017/01/31/importing-data-into-r-part-ii/)
++ [Tidy grid search with pipelearner](https://drsimonj.svbtle.com/how-to-grid-search-with-pipelearner)
++ [Install R Packages on the Ubuntu Virtual Machine](http://freakonometrics.hypotheses.org/50127)
 
 ### Videos and Podcasts
 
 + [Using the Bizarro Pipe to Debug magrittr Pipelines in R](http://www.win-vector.com/blog/2017/01/using-the-bizarro-pipe-to-debug-magrittr-pipelines-in-r/)
++ [DataChats | Episode 8 | An interview with Ben Baumer](https://www.youtube.com/watch?v=BORK5okMmTg)
 
 
 ### Resources
@@ -50,6 +53,8 @@ Hello and welcome to this new issue!
 
 ### New Packages and Tools
 
++ [Announcing ShinyTester - a package that helps you build Shiny apps](http://amitkohli.com/announcing-shinytester-a-package-that-helps-you-build-shiny-apps/)
++ [roxygen2 6.0.0](https://blog.rstudio.org/2017/02/01/roxygen2-6-0-0/)
 
 ### New Releases
 
