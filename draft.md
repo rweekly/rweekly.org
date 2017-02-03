@@ -40,6 +40,7 @@ Hello and welcome to this new issue!
 + [Importing Data into R, part II](https://thepracticalr.wordpress.com/2017/01/31/importing-data-into-r-part-ii/)
 + [Tidy grid search with pipelearner](https://drsimonj.svbtle.com/how-to-grid-search-with-pipelearner)
 + [Install R Packages on the Ubuntu Virtual Machine](http://freakonometrics.hypotheses.org/50127)
++ [Tutorial: How to set up a Twitter bot using R](https://blog.eoda.de/2017/02/02/tutorial-how-to-set-up-a-twitter-bot-using-r/)
 
 ### Videos and Podcasts
 
@@ -56,12 +57,12 @@ Hello and welcome to this new issue!
 
 + [Announcing ShinyTester - a package that helps you build Shiny apps](http://amitkohli.com/announcing-shinytester-a-package-that-helps-you-build-shiny-apps/)
 + [roxygen2 6.0.0](https://blog.rstudio.org/2017/02/01/roxygen2-6-0-0/)
++ [fst: Fast serialization of R data frames]()
 
 ### New Releases
 
 + [tidyxl 0.2.1](https://nacnudus.github.io/tidyxl/) for importing messy spreadsheets, including cell formatting.
 + [unpivotr 0.1.0](https://nacnudus.github.io/unpivotr/) for unpivoting complex tables with multi-level headers, especially pivot tables.
-
 
 ### Jobs
 
