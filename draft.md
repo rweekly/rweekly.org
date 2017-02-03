@@ -41,6 +41,7 @@ Hello and welcome to this new issue!
 + [Tidy grid search with pipelearner](https://drsimonj.svbtle.com/how-to-grid-search-with-pipelearner)
 + [Install R Packages on the Ubuntu Virtual Machine](http://freakonometrics.hypotheses.org/50127)
 + [Tutorial: How to set up a Twitter bot using R](https://blog.eoda.de/2017/02/02/tutorial-how-to-set-up-a-twitter-bot-using-r/)
++ [Faces of Evil: Exploring the Nazis of Auschwtiz with nazihuntR](http://asbcllc.com/r_packages/nazihuntR/faces_of_evil/index.html)
 
 ### Videos and Podcasts
 
@@ -58,6 +59,7 @@ Hello and welcome to this new issue!
 + [Announcing ShinyTester - a package that helps you build Shiny apps](http://amitkohli.com/announcing-shinytester-a-package-that-helps-you-build-shiny-apps/)
 + [roxygen2 6.0.0](https://blog.rstudio.org/2017/02/01/roxygen2-6-0-0/)
 + [fst: Fast serialization of R data frames]()
++ [nazihuntR - tools to explore the Institute of National Remembrance Nazis of Auschwitz data](https://github.com/abresler/nazihuntR)
 
 ### New Releases
 
