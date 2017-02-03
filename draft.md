@@ -30,7 +30,7 @@ Hello and welcome to this new issue!
 
 
 
-### R in Academia 
+### R in Academia
 
 
 
@@ -50,6 +50,7 @@ Hello and welcome to this new issue!
 ### Resources
 
 + [List of R conferences and user groups](https://jumpingrivers.github.io/meetingsR/)
++ [nzpullover 0.0.2](https://nacnudus.github.io/nzpullover/), road policing data from New Zealand.
 
 ### New Packages and Tools
 
@@ -58,6 +59,8 @@ Hello and welcome to this new issue!
 
 ### New Releases
 
++ [tidyxl 0.2.1](https://nacnudus.github.io/tidyxl/) for importing messy spreadsheets, including cell formatting.
++ [unpivotr 0.1.0](https://nacnudus.github.io/unpivotr/) for unpivoting complex tables with multi-level headers, especially pivot tables.
 
 
 ### Jobs
