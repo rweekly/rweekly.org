@@ -26,9 +26,9 @@ Hello and welcome to this new issue!
 
 + [Metro Systems Over Time: Part 3](https://datascienceplus.com/metro-systems-over-time-part-3/)
 
-![Metro Systems Over Time: Part 3](https://rud.is/b/wp-content/uploads/2017/02/clinton_plot-1-1.png)
-
 + [Exploring News Coverage With newsflash](https://rud.is/b/2017/02/01/exploring-news-coverage-with-newsflash/)
+
+![Exploring News Coverage With newsflash](https://rud.is/b/wp-content/uploads/2017/02/clinton_plot-1-1.png)
 
 + [Taking steps (in XML)](https://nsaunders.wordpress.com/2017/02/01/taking-steps-in-xml/) - Let’s use R to analyse data from the iOS Health app.
 
