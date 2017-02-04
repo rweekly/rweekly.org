@@ -58,6 +58,8 @@ Hello and welcome to this new issue!
 
 + [Developers without Borders: The Global Stack Overflow Network](http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network/)
 
++ [Playing with 80 Million Amazon Product Review Ratings using Apache Spark](http://minimaxir.com/notebooks/amazon-spark/)
+
 ### Insights
 
 + [fst: Fast serialization of R data frames](http://blog.revolutionanalytics.com/2017/02/fst-fast-serialization-of-r-data-frames.html)
