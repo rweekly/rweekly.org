@@ -65,7 +65,7 @@ if (localStorage.getItem("feature-like")){
 
 function like_feature(e){
     e.preventDefault();
-    if (localStorage.getItem("feature-like")){
+    if (localStorage.getItem("feature-like") === 'true'){
         localStorage.setItem("feature-like", false);
         document.getElementById('like-status').innerText = " Off ";
     } else {
