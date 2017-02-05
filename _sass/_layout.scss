@@ -99,3 +99,48 @@ body.hide-origin {
   }
 }
 
+body.no-feature-like{
+  .upvote-click {
+    display: none;
+  }
+  .liketext {
+    display: none;
+  }
+  .like-beta{
+    display: none;
+  }
+}
+
+ul.ul-no-liketext{
+  
+  .liketext {
+    display: none;
+  }
+}
+
+.upvote-click {
+  border: none;
+  display: inline;
+  vertical-align: middle;
+  border-radius: 0px;
+  margin: auto;
+  height: 12px;
+  padding-left: 4px;
+}
+
+.hidetext {
+  display: none;
+}
+
+.liketext {
+  color: #8B4513;
+}
+
+.upvote {
+  display: none;
+  border: none;
+  vertical-align: middle;
+  border-radius: 0px;
+  margin: auto;
+  height: 12px;
+}

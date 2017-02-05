@@ -44,3 +44,5 @@ node_modules
 .Rhistory
 temp_json
 
+
+.jekyll-metadata

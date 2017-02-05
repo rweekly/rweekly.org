@@ -27,7 +27,7 @@ Subscribe R Weekly with <a href="https://feedburner.google.com/fb/a/mailverify?u
 
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
 
-**R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org). Want to read [random](./random.html) posts?
+**R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org). Learn [more](https://rweekly.org/about.html#more-on-r-weekly).
 
 [Twitter @ rweekly_org](https://twitter.com/rweekly_org)
 
