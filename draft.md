@@ -60,6 +60,8 @@ Hello and welcome to this new issue!
 
 + [Playing with 80 Million Amazon Product Review Ratings using Apache Spark](http://minimaxir.com/notebooks/amazon-spark/)
 
++ [Mapping unemployment data, 2016](http://sharpsightlabs.com/blog/map-unemployment-nov-2016/) - With unemployment data in US
+
 ### Insights
 
 + [fst: Fast serialization of R data frames](http://blog.revolutionanalytics.com/2017/02/fst-fast-serialization-of-r-data-frames.html)
@@ -69,8 +71,6 @@ Hello and welcome to this new issue!
 ![Superheat: supercharged heatmaps for R](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0974f5b8970d-800wi)
 
 + [Enough trying to use LTO](http://www.avrahamadler.com/2017/01/31/enough-trying-to-use-lto/)
-
-+ [Mapping unemployment data, 2016](http://sharpsightlabs.com/blog/map-unemployment-nov-2016/) - With unemployment data in US
 
 + [How to choose algorithms for Microsoft Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice)
 
