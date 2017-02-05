@@ -165,6 +165,10 @@ Tools to Work with the Internet Archive and GDELT Television Explorer in R
 
 + [gunsales 0.1.2](http://dirk.eddelbuettel.com/blog/2017/01/30#gunsales_0.1.2) - Statistical analysis of monthly background checks of gun purchases
 
++ [nanotime 0.1.1](http://dirk.eddelbuettel.com/blog/2017/02/04#nanotime_0.1.1) - Nanosecond-Resolution Time for R
+
++ [RcppCCTZ 0.2.1](http://dirk.eddelbuettel.com/blog/2017/02/04#rcppcctz_0.2.1) - Rcpp bindings for the CCTZ library
+
 
 ### Jobs
 
