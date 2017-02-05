@@ -57,7 +57,7 @@ Read [random](./random.html) R posts.
 Keep a reading list in the browser with the posts you like. Status: <a id="like-status" href="#">Off</a>
 
 <script>
-if (localStorage.getItem("feature-like")){
+if (localStorage.getItem("feature-like") === 'true'){
     document.getElementById('like-status').innerText = " On ";
 } else {
     document.getElementById('like-status').innerText = " Off ";
