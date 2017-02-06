@@ -23,7 +23,7 @@ layout: null
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">
    {{ post.content | xml_escape }}
-  &lt;img src=&quot;https://web.rweekly.org/piwik.php?idsite=1&amp;rec=1&quot; style=&quot;border:0&quot; alt=&quot;&quot; /&gt;
+  &lt;img src=&quot;https://web.rweekly.org/js/index.php?idsite=1&amp;rec=1&quot; style=&quot;border:0&quot; alt=&quot;&quot; /&gt;
    </content>
  </entry>
  {% endfor %}
