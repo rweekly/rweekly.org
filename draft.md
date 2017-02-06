@@ -16,7 +16,7 @@ Hello and welcome to this new issue!
 
 ### R in Real World
 
-+ [Large data, feature hashing and online learning (part 1) ](http://dsnotes.com/post/2017-01-27-lessons-learned-from-outbrain-click-prediction-kaggle-competition/)
++ [Large data, feature hashing and online learning (part 1) ](http://dsnotes.com/post/2017-01-27-lessons-learned-from-outbrain-click-prediction-kaggle-competition/) - Lessons learned (part 1) from Kaggle Outbrain competition
 
 ### Insights
 
