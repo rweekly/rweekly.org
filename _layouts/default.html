@@ -4,7 +4,10 @@
   {% include head.html %}
   
   <body class="show-origin no-feature-like">
-  
+
+    <div id="toc">
+    </div><!--/.well -->
+
   {% include github-corner.html %}
 
     <div class="container content">
@@ -70,7 +73,8 @@
 	    var header = headers[h];
 
 	    if (typeof header.id !== "undefined" && header.id !== "") {
-	      header.appendChild(anchorForId(header.id));
+	      // header.appendChild(anchorForId(header.id));
+        header.removeAttribute("id");
 	    }
 	  }
 	};
@@ -81,7 +85,7 @@
 	    if (!contentBlock) {
 	      return;
 	    }
-	    for (var level = 1; level <= 3; level++) {
+	    for (var level = 1; level <= 5; level++) {
 	      linkifyAnchors(level, contentBlock);
 	    }
 	  }

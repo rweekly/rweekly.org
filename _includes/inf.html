@@ -18,6 +18,23 @@ $('.content').jscroll({
     callback: function(){
       jQuery.scrollDepth.reset();
       add_external_links();
+      document.body.removeChild(document.getElementById('toc'));
+      var tocdiv = document.createElement('div');
+      tocdiv.id = "toc";
+      document.body.insertBefore(tocdiv, document.body.firstElementChild);
+      for (var level = 1; level <= 5; level++) {
+	      linkifyAnchors(level, document.body);
+	    }
+      var toc = $("#toc").tocify({
+        selectors: "h1,h2,h3,h4,h5",
+        showAndHide: false,
+        // showAndHideOnScroll: false,
+        theme: "jqueryui"
+      }).data("toc-tocify");
+      setTimeout(function(){
+          this.scrollTop = tocdiv.scrollHeight;
+      }.bind(tocdiv), 100);
+      
     },
     padding: 20
 });
