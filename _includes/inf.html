@@ -34,7 +34,8 @@ $('.content').jscroll({
       setTimeout(function(){
           this.scrollTop = tocdiv.scrollHeight;
       }.bind(tocdiv), 100);
-      
+
+      setTimeout(tocify_content, 100);
     },
     padding: 20
 });
