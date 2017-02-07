@@ -17,6 +17,12 @@
     margin-top: 20px;
 }
 
+@media (max-width: 650px){
+    .tocify {
+        display: none;
+    }
+}
+
 /* The Table of Contents is composed of multiple nested unordered lists.  These styles remove the default styling of an unordered list because it is ugly. */
 .tocify ul, .tocify li {
     list-style: none;
