@@ -35,7 +35,10 @@ Hello and welcome to this new issue!
 
 ### Tutorials
 
-
++ [Deep Learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/)
++ [Scratching the Surface of Gender Biases](https://shiring.github.io/shiny/2017/02/06/WGS_final)
++ [R Tutorial: Visualizing Multivariate Relationships in Large Datasets](https://dmwiig.net/2017/02/06/r-tutorial-visualizing-multivariate-relationships-in-large-datasets/) 
++ [How to create a loop to run multiple regression models](https://datascienceplus.com/how-to-create-a-loop-to-run-multiple-regression-models/)
 
 ### Videos and Podcasts
 
