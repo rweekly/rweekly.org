@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-## Weekly Updates from the Entire R Community
+**Weekly Updates from the Entire R Community**
+
+## Community
 
 ### Pull Requests
 
@@ -52,6 +54,39 @@ Updates and changes on R Weekly.
 
 Read [random](./random.html) R posts.
 
+## Options
+
+### TOC
+
+Display TOC. Status: <a id="toc-status" href="#">On</a>
+
+<script>
+if (localStorage.getItem("feature-toc") === 'false'){
+    document.getElementById('toc-status').innerText = " Off ";
+} else {
+    document.getElementById('toc-status').innerText = " On ";
+}
+
+function toc_feature(e){
+    e.preventDefault();
+    if (localStorage.getItem("feature-toc") === 'true'){
+        localStorage.setItem("feature-toc", false);
+        _paq.push(['trackEvent', 'set-toc', 'false']);
+        document.getElementById('toc-status').innerText = " Off ";
+        window.location.reload();
+    } else {
+        localStorage.setItem("feature-toc", true);
+        _paq.push(['trackEvent', 'set-toc', 'true']);
+        document.getElementById('toc-status').innerText = " On ";
+        window.location.reload();
+    }
+}
+
+document.getElementById('toc-status').addEventListener("click",toc_feature);
+
+</script>
+
+
 ### Like - Testing Feature
 
 Keep a reading list in the browser with the posts you like. Status: <a id="like-status" href="#">Off</a>
@@ -67,9 +102,11 @@ function like_feature(e){
     e.preventDefault();
     if (localStorage.getItem("feature-like") === 'true'){
         localStorage.setItem("feature-like", false);
+        _paq.push(['trackEvent', 'set-like', 'false']);
         document.getElementById('like-status').innerText = " Off ";
     } else {
         localStorage.setItem("feature-like", true);
+        _paq.push(['trackEvent', 'set-like', 'true']);
         document.getElementById('like-status').innerText = " On ";
     }
 }
@@ -77,3 +114,4 @@ function like_feature(e){
 document.getElementById('like-status').addEventListener("click",like_feature);
 
 </script>
+

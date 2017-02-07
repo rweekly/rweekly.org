@@ -3,7 +3,7 @@ layout: page
 title: More on R Weekly
 ---
 
-### R conferences & meetups - WIP
+### R conferences & meetups
 
 <a href="https://conf.rweekly.org">https://conf.rweekly.org</a>
 

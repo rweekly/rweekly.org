@@ -28,3 +28,16 @@ body.night {
         border-bottom: 1px dotted rgb(103,103,103)
     }
 }
+
+body.no-feature-toc {
+    .tocify {
+        display: none;
+    }
+    .container {
+        max-width: 38rem;
+        padding-left:  1.5em;
+        padding-right: 1.5rem;
+        margin-left:  auto;
+        margin-right: auto;
+    }
+}

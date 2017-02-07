@@ -152,6 +152,7 @@
     _paq.push(['setCustomVariable', 1, "Night", localStorage.getItem('night'), "page"]);
     _paq.push(['setCustomVariable', 2, "Origin", localStorage.getItem('origin'), "page"]);
     _paq.push(['setCustomVariable', 3, "Like", localStorage.getItem('feature-like'), "page"]);
+    _paq.push(['setCustomVariable', 4, "TOC", localStorage.getItem('feature-toc'), "page"]);
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking', true]);
     _paq.push(['enableHeartBeatTimer']);
@@ -179,6 +180,13 @@
   <link rel="dns-prefetch" href="http://blog.revolutionanalytics.com">
   <link rel="dns-prefetch" href="//blog.rstudio.org">
   <script>
+
+    if (localStorage.getItem('feature-toc') === 'false') {
+      document.addEventListener("DOMContentLoaded", function () {
+        document.body.classList.add('no-feature-toc');
+      });
+    }
+
     function nightMode() {
       if (localStorage.getItem('night') === 'true') {
         localStorage.setItem('night', 'false');
@@ -225,6 +233,5 @@
         document.body.classList.remove('no-feature-like');
       });
     }
-
   </script>
 </head>
