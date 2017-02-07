@@ -34,18 +34,20 @@
 
 /* Top level header elements */
 .tocify-header {
-    text-indent: 10px;
+    /*text-indent: 10px;*/
+    /*padding-left: 10px;*/
 }
 
 /* Top level subheader elements.  These are the first nested items underneath a header element. */
 .tocify-subheader {
-    text-indent: 20px;
+    /*text-indent: 20px;*/
     /*display: none;*/
 }
 
 /* Makes the font smaller for all subheader elements. */
 .tocify-subheader li {
     font-size: 12px;
+    padding-left: 20px;
 }
 
 /* Further indents second level subheader elements. */
@@ -67,3 +69,8 @@
 .nav-list > li > a {
     padding: 5px;
 }
+
+.tocify-header li {
+    padding-left: 10px;
+}
+
