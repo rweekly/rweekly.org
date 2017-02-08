@@ -16,7 +16,7 @@ Hello and welcome to this new issue!
 
 ### R in Real World
 
-+ [Large data, feature hashing and online learning (part 1) ](http://dsnotes.com/post/2017-01-27-lessons-learned-from-outbrain-click-prediction-kaggle-competition/) - Lessons learned (part 1) from Kaggle Outbrain competition
++ [Large data, feature hashing and online learning (part 1)](http://dsnotes.com/post/2017-01-27-lessons-learned-from-outbrain-click-prediction-kaggle-competition/) - Lessons learned (part 1) from Kaggle Outbrain competition
 + [Visualizing vehicle accidents using gganimate and ggplot2](https://pradeepadhokshaja.wordpress.com/2017/02/02/nyc-vehicle-accidents/)
 
 
@@ -26,7 +26,7 @@ Hello and welcome to this new issue!
 
 ### R Internationally
 
-
++ [tm ou tidytext ? Introduction au text-mining avec R](http://www.thinkr.fr/tm-ou-tidytext-introduction-au-text-mining-avec-r/) — [English - Autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/tm-ou-tidytext-introduction-au-text-mining-avec-r/)
 
 ### R in Organization
 
