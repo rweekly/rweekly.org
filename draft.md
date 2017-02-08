@@ -42,6 +42,7 @@ Hello and welcome to this new issue!
 + [R Tutorial: Visualizing Multivariate Relationships in Large Datasets](https://dmwiig.net/2017/02/06/r-tutorial-visualizing-multivariate-relationships-in-large-datasets/) 
 + [How to create a loop to run multiple regression models](https://datascienceplus.com/how-to-create-a-loop-to-run-multiple-regression-models/)
 + [Comparing (Fancy) Survival Curves with Weighted Log-rank Tests](http://r-addict.com/2017/02/09/Fancy-Survival-Plots.html)
++ [An Introduction to Spatial Econometrics in R](https://ignaciomsarmiento.github.io/2017/02/07/An-Introduction-to-Spatial-Econometrics-in-R.html)
 
 ### Videos and Podcasts
 
