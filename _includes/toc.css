@@ -74,3 +74,24 @@
     padding-left: 10px;
 }
 
+@media (min-width: 1200px){
+    .container {
+    max-width: 38rem;
+    padding-left:  1.5em;
+    padding-right: 1.5rem;
+    margin-left:  auto;
+    margin-right: auto;
+    }
+    .tocify {
+        max-width: 15%;
+        margin-left: 5%;
+    }
+
+}
+
+@media (min-width: 1500px){
+    .tocify {
+        max-width: 15%;
+        margin-left: 10%;
+    }
+}
