@@ -18,7 +18,7 @@ Hello and welcome to this new issue!
 
 + [Large data, feature hashing and online learning (part 1) ](http://dsnotes.com/post/2017-01-27-lessons-learned-from-outbrain-click-prediction-kaggle-competition/) - Lessons learned (part 1) from Kaggle Outbrain competition
 + [Visualizing vehicle accidents using gganimate and ggplot2](https://pradeepadhokshaja.wordpress.com/2017/02/02/nyc-vehicle-accidents/)
-+ [Enhancing, Updating and extending fivethirtyeight articles](https://www.mytinyshinys.com/post/badDrivers_538/)
+
 
 ### Insights
 
