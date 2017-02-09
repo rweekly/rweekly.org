@@ -42,54 +42,53 @@
 
 
     <script>
-    
+    {% include readable-number.js %}
+
     page_view = document.getElementById("page_view");
     var xhr = new XMLHttpRequest();
     xhr.open("GET","https://page.rweekly.org/?page="+document.location.host + document.location.pathname);
     if (page_view){
       xhr.onreadystatechange = function() {
         if (xhr.readyState == 4 && xhr.status == 200) {
+            var ns = new NumberStrings();
             var myArr = JSON.parse(xhr.responseText);
-            page_view.innerHTML = myArr.hit + " views" ;
+            page_view.innerHTML = ns.getDecimal(myArr.hit).toFixed(2) + " views" ;
         }
       };
     }
     xhr.send();
 
-    </script>
-
-    <script>
     var anchorForId = function (id) {
-	var anchor = document.createElement("a");
-	  anchor.className = "header-link";
-	  anchor.href      = "#" + id;
-	  anchor.innerHTML = "<i class=\"fa fa-link\"></i>";
-	  return anchor;
-	};
+      var anchor = document.createElement("a");
+      anchor.className = "header-link";
+      anchor.href      = "#" + id;
+      anchor.innerHTML = "<i class=\"fa fa-link\"></i>";
+      return anchor;
+	  };
 
-	var linkifyAnchors = function (level, containingElement) {
-	  var headers = containingElement.getElementsByTagName("h" + level);
-	  for (var h = 0; h < headers.length; h++) {
-	    var header = headers[h];
+    var linkifyAnchors = function (level, containingElement) {
+      var headers = containingElement.getElementsByTagName("h" + level);
+      for (var h = 0; h < headers.length; h++) {
+        var header = headers[h];
 
-	    if (typeof header.id !== "undefined" && header.id !== "") {
-	      // header.appendChild(anchorForId(header.id));
-        header.removeAttribute("id");
-	    }
-	  }
-	};
+        if (typeof header.id !== "undefined" && header.id !== "") {
+          // header.appendChild(anchorForId(header.id));
+          header.removeAttribute("id");
+        }
+      }
+    };
 
-	document.onreadystatechange = function () {
-	  if (this.readyState === "complete") {
-	    var contentBlock = document.getElementsByClassName("post")[0]
-	    if (!contentBlock) {
-	      return;
-	    }
-	    for (var level = 1; level <= 5; level++) {
-	      linkifyAnchors(level, contentBlock);
-	    }
-	  }
-	};
+    document.onreadystatechange = function () {
+      if (this.readyState === "complete") {
+        var contentBlock = document.getElementsByClassName("post")[0]
+        if (!contentBlock) {
+          return;
+        }
+        for (var level = 1; level <= 5; level++) {
+          linkifyAnchors(level, contentBlock);
+        }
+      }
+    };
   
   add_external_links();
 console.log(`%c               ..     .                 
