@@ -52,7 +52,11 @@
         if (xhr.readyState == 4 && xhr.status == 200) {
             var ns = new NumberStrings();
             var myArr = JSON.parse(xhr.responseText);
-            page_view.innerHTML = ns.getDecimal(myArr.hit).toFixed(2) + " " + ns.getName(myArr.hit) + " views" ;
+            if (myArr.hit < 1000){
+              page_view.innerHTML = myArr.hit + " views" ;
+            } else {
+              page_view.innerHTML = ns.getDecimal(myArr.hit).toFixed(2) + " " + ns.getName(myArr.hit) + " views" ;
+            }
         }
       };
     }
