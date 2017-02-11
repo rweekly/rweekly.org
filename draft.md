@@ -37,6 +37,10 @@ Hello and welcome to this new issue!
 
 ![Making a Beautiful Map of Spain in ggplot2](https://i.imgur.com/MrNL3bE.png)
 
++ [What Programming Languages Are Used Most on Weekends?](https://stackoverflow.blog/2017/02/What-Programming-Lan)
+
+![What Programming Languages Are Used Most on Weekends?](https://i.stack.imgur.com/Hz3mt.png)
+
 ### Insights
 
 + [Any Forward Progress on p-Values?](https://matloff.wordpress.com/2017/02/09/any-forward-progress-on-p-values/)
