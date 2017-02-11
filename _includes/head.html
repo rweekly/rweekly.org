@@ -36,23 +36,26 @@
   <script>
     // external
     var shortregex = /^((www)|(blog))\./
+
+
+    if (localStorage.getItem("feature-like") == 'true'){
       // up arrow
-    var a_g = document.createElement('a');
-    a_g.href = '#';
+      var a_g = document.createElement('a');
+      a_g.href = '#';
 
-    var img_g = document.createElement('img');
-    var text_g = document.createElement('text');
+      var img_g = document.createElement('img');
+      var text_g = document.createElement('text');
+      img_g.src = '/public/up.svg';
+      img_g.alt = "Like!";
+      img_g.style = "";
+      img_g.classList.add('upvote');
+      text_g.innerText = ' Like ';
+      text_g.classList.add("hidetext");
+      text_g.classList.add("liketext");
 
-    img_g.src = '/public/up.svg';
-    img_g.alt = "Like!";
-    img_g.style = "";
-    img_g.classList.add('upvote');
-    text_g.innerText = ' Like ';
-    text_g.classList.add("hidetext");
-    text_g.classList.add("liketext");
-
-    a_g.appendChild(img_g);
-    a_g.appendChild(text_g);
+      a_g.appendChild(img_g);
+      a_g.appendChild(text_g);
+    }
 
     function add_external_links() {
       var links = document.querySelectorAll(".post a");
