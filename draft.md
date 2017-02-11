@@ -46,6 +46,7 @@ Hello and welcome to this new issue!
 
 ### Videos and Podcasts
 
++[NSSD 32:You Have to Reinvent the Wheel a Few Times](https://www.patreon.com/posts/episode-32-you-8054935?utm_campaign=patron_engagement&utm_medium=post_notification_email&utm_source=post_link) Hilary and Roger discuss training in PhD programs, estimating the variance vs. the standard deviation, the bias variance tradeoff, and explainable machine learning.
 
 
 ### Resources
