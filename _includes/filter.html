@@ -33,16 +33,24 @@ function add_filter_func(){
 var sid = document.querySelectorAll(".filter-box");
 
 for(var i = 0; i<sid.length; i++){
-    sid[i].addEventListener('submit', function(e){
-    e.preventDefault();
-    });
 
-    sid[i].addEventListener('keyup', run_filter.bind(sid[i]));
+    if (!sid[i].classList.contains('added-events')){
+        sid[i].classList.add('added-events');
+        sid[i].addEventListener('submit', function(e){
+            e.preventDefault();
+        });
 
-    sid[i].querySelector(".input-box").addEventListener('change', function(e){
-        _paq.push(['trackEvent', 'filter-li', this.parentElement.querySelector('.post-title').innerText, this.querySelector(".input-box").value]);
-        }.bind(sid[i])
-    );
+        sid[i].addEventListener('keyup', run_filter.bind(sid[i]));
+    }
+    var todo_box = sid[i].querySelector(".input-box");
+    if (!todo_box.classList.contains('added-events')){
+        todo_box.classList.add('added-events');
+        todo_box.addEventListener('change', function(e){
+            _paq.push(['trackEvent', 'filter-li', this.parentElement.querySelector('.post-title').innerText, this.querySelector(".input-box").value]);
+            }.bind(sid[i])
+        );
+    }
+
 
 }
 
