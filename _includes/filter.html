@@ -1,0 +1,61 @@
+<script type="text/javascript">
+
+function run_filter(e){
+    var reg_string = this.querySelector(".input-box").value;
+    window.location.hash = encodeURIComponent('get-' + reg_string);
+    var regexp = new RegExp(reg_string, 'i');
+    var li_list = this.parentElement.querySelectorAll('li');
+    for(var i = 0; i < li_list.length; i++){
+        var temp_li = li_list[i];
+        var temp_text = temp_li.innerText;
+        if (regexp.test(temp_text)){
+            temp_li.classList.remove("li-hide");
+            if (temp_li.parentElement.lastElementChild === temp_li) {
+                var next_img = temp_li.parentElement.nextElementSibling.querySelector('img');
+                if (next_img){
+                    next_img.classList.remove("li-hide");
+                }
+            }
+        
+        }else{
+            temp_li.classList.add("li-hide");
+            if (temp_li.parentElement.lastElementChild === temp_li) {
+                var next_img = temp_li.parentElement.nextElementSibling.querySelector('img');
+                if (next_img){
+                    next_img.classList.add("li-hide");
+                }
+            }
+        }
+    }
+    }
+
+function add_filter_func(){
+var sid = document.querySelectorAll(".filter-box");
+
+for(var i = 0; i<sid.length; i++){
+    sid[i].addEventListener('submit', function(e){
+    e.preventDefault();
+    });
+
+    sid[i].addEventListener('keyup', run_filter.bind(sid[i]));
+
+    sid[i].querySelector(".input-box").addEventListener('change', function(e){
+        _paq.push(['trackEvent', 'filter-li', this.parentElement.querySelector('.post-title').innerText, this.querySelector(".input-box").value]);
+        }.bind(sid[i])
+    );
+
+}
+
+}
+
+add_filter_func();
+
+var temp_url_hash = window.location.hash;
+var hash_regex = new RegExp("#get-");
+if(hash_regex.test(temp_url_hash)){
+    var temp_query = decodeURIComponent(temp_url_hash.replace('#get-', ''));
+    document.querySelector(".input-box").value = temp_query;
+    (run_filter.bind(document.body.querySelector('.post')))(document.body);
+    _paq.push(['trackEvent', 'filter-li', document.querySelector('.post-title').innerText, temp_query]);
+}
+</script>

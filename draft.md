@@ -7,8 +7,6 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2017-02-13
 
-Hello and welcome to this new issue!
-
 ### Highlight
 
 

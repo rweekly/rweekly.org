@@ -13,7 +13,9 @@ title: Home
     </h1>
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
+    <form class="filter-box">
+    <input name="query" placeholder="Hello and welcome to this new issue!" class="input-box">
+    </form>
     {{ post.content }}
     <p><small id="page_view">&nbsp;</small></p>
   </article>

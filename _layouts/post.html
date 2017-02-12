@@ -5,6 +5,10 @@ layout: default
 <article id='posts-content' class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+
+  <form class="filter-box">
+  <input name="query" placeholder="Hello and welcome to this new issue!" class="input-box">
+  </form>
   {{ content }}
   <p><small id="page_view">&nbsp;</small></p>
   <div class="pagination">
