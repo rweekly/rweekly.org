@@ -4,7 +4,7 @@ function run_filter(e){
     var reg_string = this.querySelector(".input-box").value;
     window.location.hash = encodeURIComponent('get-' + reg_string);
     var regexp = new RegExp(reg_string, 'i');
-    var li_list = this.parentElement.querySelectorAll('li');
+    var li_list = document.querySelectorAll('.post li');
     for(var i = 0; i < li_list.length; i++){
         var temp_li = li_list[i];
         var temp_text = temp_li.innerText;
@@ -27,12 +27,17 @@ function run_filter(e){
             }
         }
     }
+    var input_list = document.querySelectorAll('.input-box');
+
+    for(var i = 0; i < input_list.length; i++){
+        input_list[i].value = reg_string;
     }
+}
 
 function add_filter_func(){
 var sid = document.querySelectorAll(".filter-box");
 
-for(var i = 0; i<sid.length; i++){
+for(var i = sid.length-1; i>=0; i--){
 
     if (!sid[i].classList.contains('added-events')){
         sid[i].classList.add('added-events');

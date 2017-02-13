@@ -36,7 +36,8 @@ $('.content').jscroll({
       }.bind(tocdiv), 100);
 
       setTimeout(tocify_content, 100);
-      setTimeout(add_filter_func, 1000);
+      setTimeout(add_filter_func, 100);
+      (run_filter.bind(document.body.querySelector('.post')))(document.body);
     },
     padding: 20
 });
