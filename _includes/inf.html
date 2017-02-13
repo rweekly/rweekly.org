@@ -1,46 +1,7 @@
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script src="/public/jscroll.min.js" charset="utf-8"></script>
+<script async src="/public/jscroll.min.js" charset="utf-8"></script>
 <script type="text/javascript">
-// content selector is used to extract the additional items 
-var repat = new RegExp("https?://");
-$('.content').jscroll({
-    loadingHtml: "<small>Next Issue ... </small>",
-    contentSelector: '#posts-content',
-    nextSelector: '#next-page',
-    loadingFunction: function(){
-      var new_page = $('#next-page')[0].href.replace(/(https:\/\/)|(http:\/\/)|(\/index.html)/g, '');
-      var xhr = new XMLHttpRequest();
-      xhr.open("GET","https://page.rweekly.org/?page="+ new_page);
-      xhr.send();
-      _paq.push(['trackEvent', "jscroll", "new page", new_page]);
-    },
-    callback: function(){
-      jQuery.scrollDepth.reset();
-      add_external_links();
-      document.body.removeChild(document.getElementById('toc'));
-      var tocdiv = document.createElement('div');
-      tocdiv.id = "toc";
-      document.body.insertBefore(tocdiv, document.body.firstElementChild);
-      for (var level = 1; level <= 5; level++) {
-	      linkifyAnchors(level, document.body);
-	    }
-      var toc = $("#toc").tocify({
-        selectors: "h1,h2,h3,h4,h5",
-        showAndHide: false,
-        // showAndHideOnScroll: false,
-        theme: "jqueryui"
-      }).data("toc-tocify");
-      setTimeout(function(){
-          this.scrollTop = tocdiv.scrollHeight;
-      }.bind(tocdiv), 100);
-
-      setTimeout(tocify_content, 100);
-      setTimeout(add_filter_func, 100);
-      (run_filter.bind(document.body.querySelector('.post')))(document.body);
-    },
-    padding: 20
-});
 
 WebFontConfig = {
   custom: {

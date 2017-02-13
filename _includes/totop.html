@@ -4,43 +4,4 @@
         <span class="screen-reader-text">Go to Top</span>
     </a>
   </div>
-  <script>
-  document.getElementById("toTop").addEventListener("click",function(){
-  var d = {
-    text: '',
-    min: 200,
-    inDelay: 600,
-    outDelay: 400,
-    containerID: 'toTop',
-    containerHoverID: 'toTopHover',
-    scrollSpeed: 1200,
-    easingType: 'linear'
-  }
-  return $("html, body").animate({
-    scrollTop: 0
-  }, d.scrollSpeed, d.easingType), $("#" + d.containerHoverID, this).stop().animate({
-    opacity: 0
-  }, d.inDelay, d.easingType), !1
-  })
 
-  $(window).scroll(function () {
-    
-    var e = "#toTop";
-    var d = {
-        min: 200,
-        inDelay: 600,
-        outDelay: 400
-      };
-    var b = $(window).scrollTop();
-    'undefined' == typeof document.body.style.maxHeight && $(e).css({
-      position: 'absolute',
-      top: b + $(window).height() - 50
-      });
-      
-      if (b > d.min ){
-        $(e).fadeIn(d.inDelay) ;
-      } else {
-        $(e).fadeOut(d.Outdelay);
-      }
-  })
-  </script>
