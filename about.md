@@ -27,6 +27,10 @@ Talk with us on [Twitter](https://twitter.com/rweekly_org) or [Google Groups](ht
 
 Thanks for reading!
 
+### Name
+
+<strong>R</strong> <strong>W</strong>eekly for the name, and <strong>RW</strong>eekly.org for the URL.
+
 ## More on R Weekly
 
 
