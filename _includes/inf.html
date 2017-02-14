@@ -3,6 +3,28 @@
 <script async src="/public/jscroll.min.js" charset="utf-8"></script>
 <script type="text/javascript">
 
+performance = window.performance || window.mozPerformance || window.msPerformance || window.webkitPerformance || performance || undefined;
+
+if (performance.timing){
+
+  window.addEventListener('DOMContentLoaded', function ()
+  {
+    setTimeout(function(){
+      var loading_time = performance.timing.domContentLoadedEventEnd - performance.timing.navigationStart;
+      _paq.push(['trackEvent', 'DomTime', 'Start', loading_time/1000]);
+      }, 100);
+  });
+
+  window.addEventListener('load', function ()
+  {
+    setTimeout(function(){
+      var loading_time = performance.timing.loadEventEnd - performance.timing.navigationStart;
+      
+      _paq.push(['trackEvent', 'DomTime', 'End', loading_time/1000]);
+    }, 100);
+  });
+}
+
 WebFontConfig = {
   custom: {
     families: ['Source Sans Pro']
