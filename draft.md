@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2017 Issue 7
+title: R Weekly 2017 Issue 8
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2017-02-13
+Release Date: 2017-02-20
 
 ### Highlight
 
