@@ -29,6 +29,6 @@ Subscribe R Weekly with <a href="https://feedburner.google.com/fb/a/mailverify?u
 
 **R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org). Learn [more](https://rweekly.org/about.html#more-on-r-weekly).
 
-[Twitter @ rweekly_org](https://twitter.com/rweekly_org)
+R Weekly @ [Twitter](https://twitter.com/rweekly_org) [Facebook](https://facebook.com/rweekly) [LinkedIn](https://www.linkedin.com/company/rweekly)
 
 R Weekly uses [cookies](/privacy) to improve user experience.
