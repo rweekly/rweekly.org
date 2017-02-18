@@ -132,7 +132,6 @@ Release Date: 2017-02-20
 
 + [Optimization and Operations Research in R](http://www.rblog.uni-freiburg.de/2017/02/17/optimization-and-operations-research-in-r/)
 
-+ []()
 
 ### New Packages and Tools
 
