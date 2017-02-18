@@ -14,6 +14,7 @@ layout: null
           {% capture abspath %}{{ site.url }}{{ post.url }}/../figure/{% endcapture %}
 				<title>{{ post.title }}</title>
 				<description>
+				&lt;p&gt;Hello and welcome to this new issue!&lt;/p&gt;
 				{{ post.content | xml_escape | replace: '../figure/', abspath }}
 				&lt;img src=&quot;https://web.rweekly.org/js/index.php?idsite=1&amp;rec=1&quot; style=&quot;border:0&quot; alt=&quot;&quot; /&gt;
 				</description>

@@ -22,6 +22,7 @@ layout: null
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">
+   &lt;p&gt;Hello and welcome to this new issue!&lt;/p&gt;
    {{ post.content | xml_escape }}
   &lt;img src=&quot;https://web.rweekly.org/js/index.php?idsite=1&amp;rec=1&quot; style=&quot;border:0&quot; alt=&quot;&quot; /&gt;
    </content>
