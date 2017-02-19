@@ -12,7 +12,7 @@ Release Date: 2017-02-20
 
 
 
-### R in Real World
+### R in the Real World
 
 
 + [A Graphic Look at Bay Area Bike Share](http://blog.nycdatascience.com/student-works/r-shiny/graphic-look-bay-area-bike-share/)
@@ -63,7 +63,7 @@ Release Date: 2017-02-20
 
 
 
-### R in Organization
+### R in Organizations
 
 + [See RStudio + sparklyr for big data at Strata + Hadoop World](https://blog.rstudio.org/2017/02/13/see-rstudio-sparklyr-for-big-data-at-strata-hadoop-world/)
 
