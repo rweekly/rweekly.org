@@ -15,3 +15,8 @@ A collection of presentation slides/materials released on various R conferences 
 
 Updates and changes on R Weekly.
 
+<hr />
+
+<div id="feedback"></div>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJQYyu0jDpU3MkbNHv4Trl8DrRemlIJr9_-rfyrkNYcmpZNA/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Feedback Form</iframe>
