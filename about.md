@@ -21,6 +21,8 @@ If you are not accepted at first, please do not be discouraged. Create more pull
 
 ### Communication
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJQYyu0jDpU3MkbNHv4Trl8DrRemlIJr9_-rfyrkNYcmpZNA/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Feedback Form</iframe>
+
 Have a question or great idea about this website? 
 
 Talk with us on [Twitter](https://twitter.com/rweekly_org) or [Google Groups](https://groups.google.com/forum/#!forum/rweekly).
