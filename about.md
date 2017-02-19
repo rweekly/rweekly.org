@@ -42,7 +42,7 @@ Thanks for reading!
 
 A collection of presentation slides/materials released on various R conferences and meetups.
 
-### Blog - TBA
+### Blog
 
 <a href="https://blog.rweekly.org">https://blog.rweekly.org</a>
 
