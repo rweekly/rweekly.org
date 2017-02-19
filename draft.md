@@ -120,12 +120,16 @@ Release Date: 2017-02-20
 
 + [Writing reversible jump MCMC in NIMBLE](https://r-nimble.org/writing-reversible-jump-mcmc-in-nimble) 
 
-+[Tidy Text Mining of David Bowie’s Lyrics](http://www.mango-solutions.com/wp/2017/02/tidy-text-mining-of-david-bowies-lyrics/)
++ [Tidy Text Mining of David Bowie’s Lyrics](http://www.mango-solutions.com/wp/2017/02/tidy-text-mining-of-david-bowies-lyrics/)
+
++ [Using Armadillo with SuperLU](http://gallery.rcpp.org/articles/armadillo-with-superlu/)
+
++ [Using Rcpp with C++11, C++14 and C++17](http://gallery.rcpp.org/articles/Rcpp-and-C++11-C++14-C++17/)
+
 
 ### Videos and Podcasts
 
 + [rstudio::conf 2017 session recordings are now available](https://blog.rstudio.org/2017/02/15/rstudioconf-2017-session-recordings-are-now-available/)
-
 
 + [Video Introduction to Bayesian Data Analysis, Part 1: What is Bayes?](http://www.sumsar.net/blog/2017/02/introduction-to-bayesian-data-analysis-part-one/)
 
