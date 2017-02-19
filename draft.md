@@ -118,7 +118,9 @@ Release Date: 2017-02-20
 + [Writing a R book and self-publishing it in Amazon](http://msperlin.github.io/2017-02-16-Writing-a-book/)
 
 
-+ [Writing reversible jump MCMC in NIMBLE](https://r-nimble.org/writing-reversible-jump-mcmc-in-nimble)
++ [Writing reversible jump MCMC in NIMBLE](https://r-nimble.org/writing-reversible-jump-mcmc-in-nimble) 
+
++[Tidy Text Mining of David Bowie’s Lyrics](http://www.mango-solutions.com/wp/2017/02/tidy-text-mining-of-david-bowies-lyrics/)
 
 ### Videos and Podcasts
 
