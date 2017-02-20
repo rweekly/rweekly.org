@@ -19,6 +19,9 @@ body.night {
         a:visited {
             color:#8B4513;
         }
+        a:hover{
+            color: rgb(255,255,255);
+        }
     }
     code {
         background-color: rgb(103,103,103);
@@ -26,6 +29,15 @@ body.night {
     }
     a:hover, a:focus {
         border-bottom: 1px dotted rgb(103,103,103)
+    }
+}
+
+article {
+    a:hover:visited{
+        color: #3e1004;
+    }
+    a:hover{
+        color: #022856;
     }
 }
 
