@@ -48,6 +48,9 @@ Release Date: 2017-02-27
 
 ### New Packages and Tools
 
+[future 1.3.0](http://www.jottr.org/2017/02/future-reproducible-rngs-futurelapply.html) - Unified Parallel and Distributed Processing in R for Everyone.
+
+[startup 0.5.0](https://cran.r-project.org/package=startup) - Friendly R startup configuration with multiple files under .Rprofile.d/ and .Renviron.d/ that can be conditionally included / excluded based on their filenames and R features available.
 
 
 ### New Releases
