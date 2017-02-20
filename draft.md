@@ -52,6 +52,7 @@ Release Date: 2017-02-27
 
 [startup 0.5.0](https://cran.r-project.org/package=startup) - Friendly R startup configuration with multiple files under .Rprofile.d/ and .Renviron.d/ that can be conditionally included / excluded based on their filenames and R features available.
 
+[strcode 0.2.0](https://lorenzwalthert.github.io/strcode1/) - Structure and abstract your code. The strcode package contains tools to organize your code better. It consists of an RStudio Add-in to divide code into sections and a function to get a summary of a codebase.
 
 ### New Releases
 
