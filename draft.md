@@ -22,7 +22,7 @@ Release Date: 2017-02-27
 
 ### R Internationally
 
-± [À la découverte de Shiny](http://www.thinkr.fr/a-decouverte-de-shiny/) — [English - autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/a-decouverte-de-shiny/)
++ [À la découverte de Shiny](http://www.thinkr.fr/a-decouverte-de-shiny/) — [English - autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/a-decouverte-de-shiny/)
 
 ### R in Organizations
 
