@@ -14,7 +14,7 @@ Release Date: 2017-02-27
 
 ### R in the Real World
 
-
++ [Who is Alan Turing?](https://www.r-bloggers.com/who-is-alan-turing/)
 
 ### Insights
 
@@ -22,7 +22,7 @@ Release Date: 2017-02-27
 
 ### R Internationally
 
-
+± [À la découverte de Shiny](http://www.thinkr.fr/a-decouverte-de-shiny/) — [English - autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/a-decouverte-de-shiny/)
 
 ### R in Organizations
 
@@ -53,6 +53,8 @@ Release Date: 2017-02-27
 [startup 0.5.0](https://cran.r-project.org/package=startup) - Friendly R startup configuration with multiple files under .Rprofile.d/ and .Renviron.d/ that can be conditionally included / excluded based on their filenames and R features available.
 
 [strcode 0.2.0](https://lorenzwalthert.github.io/strcode1/) - Structure and abstract your code. The strcode package contains tools to organize your code better. It consists of an RStudio Add-in to divide code into sections and a function to get a summary of a codebase.
+
++ [Sentiment Analysis in R](http://www.rblog.uni-freiburg.de/2017/02/21/sentiment-analysis-in-r/)
 
 ### New Releases
 
