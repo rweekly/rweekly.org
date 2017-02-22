@@ -54,6 +54,8 @@ Release Date: 2017-02-27
 
 [strcode 0.2.0](https://lorenzwalthert.github.io/strcode1/) - Structure and abstract your code. The strcode package contains tools to organize your code better. It consists of an RStudio Add-in to divide code into sections and a function to get a summary of a codebase.
 
+[ggimage 0.0.1](https://cran.r-project.org/package=ggimage) - Supports aesthetic mapping of image files to be visualized in 'ggplot2' graphic system.
+
 + [Sentiment Analysis in R](http://www.rblog.uni-freiburg.de/2017/02/21/sentiment-analysis-in-r/)
 
 ### New Releases
