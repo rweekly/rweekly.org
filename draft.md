@@ -18,7 +18,7 @@ Release Date: 2017-02-27
 
 ### Insights
 
-
++ [How to Teach R: Common mistakes](https://www.rstudio.com/rviews/2017/02/22/how-to-teach-r-common-mistakes/)
 
 ### R Internationally
 
@@ -57,6 +57,8 @@ Release Date: 2017-02-27
 [ggimage 0.0.1](https://cran.r-project.org/package=ggimage) - Supports aesthetic mapping of image files to be visualized in 'ggplot2' graphic system.
 
 + [Sentiment Analysis in R](http://www.rblog.uni-freiburg.de/2017/02/21/sentiment-analysis-in-r/)
+
++ [leaflet 1.1.0](https://blog.rstudio.org/2017/02/22/leaflet-1-1-0/)
 
 ### New Releases
 
