@@ -7,6 +7,14 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2017-02-27
 
+Hello and welcome to this new issue!
+
+<p></p>
+<form class="filter-box">
+<input name="query" placeholder="text filter" class="input-box">
+</form>
+<p></p>
+
 ### Highlight
 
 
