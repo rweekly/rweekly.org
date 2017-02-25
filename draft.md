@@ -82,9 +82,9 @@ Release Date: 2017-02-27
 
 + [Is my time series additive or multiplicative?](http://itsalocke.com/is-my-time-series-additive-or-multiplicative/)
 
-+ [Factoextra R Package: Easy Multivariate Data Analyses and Elegant Visualization](https://cdn.rawgit.com/rweekly/image/a0e06830/2017-02-27/factoextra-hierarchical-clustering-1.png)
++ [Factoextra R Package: Easy Multivariate Data Analyses and Elegant Visualization](http://www.sthda.com/english/wiki/factoextra-r-package-easy-multivariate-data-analyses-and-elegant-visualization)
 
-![Factoextra R Package: Easy Multivariate Data Analyses and Elegant Visualization](http://www.sthda.com/sthda/RDoc/figure/r-packages/factoextra/factoextra-hierarchical-clustering-1.png)
+![Factoextra R Package: Easy Multivariate Data Analyses and Elegant Visualization](https://cdn.rawgit.com/rweekly/image/a0e06830/2017-02-27/factoextra-hierarchical-clustering-1.png)
 
 + [The Zero Bug](http://www.win-vector.com/blog/2017/02/the-zero-bug/) - Common data aggregation tools often can not “count to zero” from examples, and this causes problems.
 
