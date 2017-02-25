@@ -31,7 +31,7 @@ Release Date: 2017-02-27
 
 ![Putting It All Together](https://i1.wp.com/rud.is/b/wp-content/uploads/2017/02/RStudio-3.png?zoom=2.7272727489471436&resize=780%2C256&ssl=1)
 
-+ [Finding Radiohead’s most depressing song, with R](http://blog.revolutionanalytics.com/2017/02/finding-radioheads-most-depressing-song-with-r.html)
++ [Finding Radiohead’s most depressing song, with R](http://rcharlie.com/2017-02-16-fitteR-happieR/)
 
 + [First commit or initial commit?](http://masalmon.github.io/2017/02/21/firstcommit/) - Today I used the gh package to get first commits of all repositories of the ropensci and ropenscilabs organizations.
 
