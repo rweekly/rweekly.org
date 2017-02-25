@@ -7,26 +7,56 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2017-02-27
 
-Hello and welcome to this new issue!
-
-<p></p>
-<form class="filter-box">
-<input name="query" placeholder="text filter" class="input-box">
-</form>
-<p></p>
-
 ### Highlight
-
 
 
 
 ### R in the Real World
 
-+ [Who is Alan Turing?](https://www.r-bloggers.com/who-is-alan-turing/)
++ [Who is Alan Turing?](https://fronkonstin.com/2017/02/21/who-is-alan-turing/)
+
++ [Fitting logistic regression on 100gb dataset on a laptop ](http://dsnotes.com/post/2017-02-07-large-data-feature-hashing-and-online-learning-part-2/) - Lessons learned from "Outbrain Click Prediction" kaggle competition
+
++ [How Herd Immunity Works [OC]](https://www.reddit.com/r/dataisbeautiful/comments/5v72fw/how_herd_immunity_works_oc/)
+
+<video preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline="" style="width: 500px; height: 300px;">
+    <source src="//i.imgur.com/J7LANQ4.mp4" type="video/mp4">
+</video>
+
++ [H-1B Visa Petitions Exploratory Data Analysis](http://blog.nycdatascience.com/student-works/h-1b-visa-petitions-exploratory-data-analysis/)
+
++ [#AskNASA: What’s the Optimal Time for Aliens to Invade Earth?](http://www.exactness.net/post/157582845120)
+
++ [Putting It All Together](https://rud.is/b/2017/02/18/putting-it-all-together/) - The U.S. labor force participation rate (LFPR) is an oft-overlooked and under- or mis-reported economic indicator. 
+
+![Putting It All Together](https://i1.wp.com/rud.is/b/wp-content/uploads/2017/02/RStudio-3.png?zoom=2.7272727489471436&resize=780%2C256&ssl=1)
+
++ [Finding Radiohead’s most depressing song, with R](http://blog.revolutionanalytics.com/2017/02/finding-radioheads-most-depressing-song-with-r.html)
+
++ [First commit or initial commit?](http://masalmon.github.io/2017/02/21/firstcommit/) - Today I used the gh package to get first commits of all repositories of the ropensci and ropenscilabs organizations.
+
++ [coauthorship and citation networks](https://xianblog.wordpress.com/2017/02/21/coauthorship-and-citation-networks/)
+
++ [SatRday and visual inference of vine copulas](http://eighty20.github.io//technique%20review/2017/02/19/satRday/)
+
++ [Predicting food preferences with sparklyr (machine learning)](https://shiring.github.io/machine_learning/2017/02/19/food_spark)
+
 
 ### Insights
 
++ [Reporting in a Repeatable, Parameterised, Transparent Way](https://blog.ouseful.info/2017/02/23/reporting-in-a-repeatable-parameterised-transparent-way/)
+
 + [How to Teach R: Common mistakes](https://www.rstudio.com/rviews/2017/02/22/how-to-teach-r-common-mistakes/)
+
++ [The difference between R and Excel](http://blog.revolutionanalytics.com/2017/02/the-difference-between-r-and-excel.html)
+
++ [On Watering Holes, Trust, Defensible Systems and Data Science Community Security](https://rud.is/b/2017/02/23/on-watering-holes-trust-defensible-systems-and-data-science-community-security/) - How to install R packages securely
+
+![On Watering Holes, Trust, Defensible Systems and Data Science Community Security](https://i0.wp.com/rud.is/b/wp-content/uploads/2017/02/hieRarchy.png?resize=350%2C310&ssl=1)
+
++ [rxNeuralNet vs. xgBoost vs. H2O](https://tomaztsql.wordpress.com/2017/02/20/rxneuralnet-vs-xgboost-vs-h2o/)
+
+
 
 ### R Internationally
 
@@ -36,39 +66,86 @@ Hello and welcome to this new issue!
 
 + [Prophet: How Facebook operationalizes time series forecasting at scale](http://blog.revolutionanalytics.com/2017/02/facebook-prophet.html)
 
++ [neuroconductor](https://www.neuroconductor.org/) - Neuroconductor is an open-source platform for rapid testing and dissemination of reproducible computational imaging software. The goals of the project are to: 
+
 ### R in Academia
 
++ [Free DataCamp for your Classroom](http://www.datacamp.com/community/blog/free-datacamp-for-your-classroom)
 
 ### Tutorials
 
++ [Training Neural Networks with MXNet](http://www.jakubglinka.com/2017-02-21-neural_networks_part1/)
+
++ [Make Power Fun (Again?)](http://educate-r.org//2017/02/24/csp2017.html)
+
++ [Factor Analysis with the Principal Factor Method and R](http://www.aaronschlegel.com/factor-analysis-principal-factor-method-r/)
+
++ [Is my time series additive or multiplicative?](http://itsalocke.com/is-my-time-series-additive-or-multiplicative/)
+
++ [Factoextra R Package: Easy Multivariate Data Analyses and Elegant Visualization](https://cdn.rawgit.com/rweekly/image/a0e06830/2017-02-27/factoextra-hierarchical-clustering-1.png)
+
+![Factoextra R Package: Easy Multivariate Data Analyses and Elegant Visualization](http://www.sthda.com/sthda/RDoc/figure/r-packages/factoextra/factoextra-hierarchical-clustering-1.png)
+
++ [The Zero Bug](http://www.win-vector.com/blog/2017/02/the-zero-bug/) - Common data aggregation tools often can not “count to zero” from examples, and this causes problems.
+
++ [Bar bar plots but not Babar plots](http://masalmon.github.io/2017/02/19/babarplot/)
+
++ [Mapping Biodiversity data on smaller than one degree scale](https://vijaybarve.wordpress.com/2017/02/23/mapping-biodiversity-data-on-smaller-than-one-degree-scale/)
+
++ [Quick tip: knitr Python Windows setup checklist](http://itsalocke.com/quick-tip-knitr-python-windows-setup-checklist/)
+
++ [Part 3: Spatial analysis of geotagged data](http://www.seascapemodels.org/rstats/2017/02/22/spatial-statistics-photos.html)
+
++ [Raccoon Ch 2.5 – Unbalanced and Nested Anova](http://www.quantide.com/raccoon-ch-2-5-unbalanced-nested-anova/)
+
++ [How to make a global map in R, step by step](http://sharpsightlabs.com/blog/map-talent-competitiveness/)
 
 
 ### Videos and Podcasts
 
-
-
++ [R Consortium ISC Project Status Webinar](https://www.r-consortium.org/blog/2017/01/24/isc-project-status-webinar)
 
 ### Resources
 
-
-
-
++ [RStudio Extensions](https://rstudio.github.io/rstudio-extensions/rstudio_project_templates.html) - An R Markdown website that documents the various ways users can extend the RStudio IDE.
 
 ### New Packages and Tools
 
-[future 1.3.0](http://www.jottr.org/2017/02/future-reproducible-rngs-futurelapply.html) - Unified Parallel and Distributed Processing in R for Everyone.
++ [Prophet](https://facebookincubator.github.io/prophet/) - Prophet is a forecasting procedure implemented in  R and Python.  It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.
 
-[startup 0.5.0](https://cran.r-project.org/package=startup) - Friendly R startup configuration with multiple files under .Rprofile.d/ and .Renviron.d/ that can be conditionally included / excluded based on their filenames and R features available.
+![Prophet](https://facebookincubator.github.io/prophet/static/quick_start_files/quick_start_26_0.png)
 
-[strcode 0.2.0](https://lorenzwalthert.github.io/strcode1/) - Structure and abstract your code. The strcode package contains tools to organize your code better. It consists of an RStudio Add-in to divide code into sections and a function to get a summary of a codebase.
++ [startup](https://cran.r-project.org/package=startup) - Friendly R startup configuration with multiple files under .Rprofile.d/ and .Renviron.d/ that can be conditionally included / excluded based on their filenames and R features available.
 
-[ggimage 0.0.1](https://cran.r-project.org/package=ggimage) - Supports aesthetic mapping of image files to be visualized in 'ggplot2' graphic system.
++ [ggimage](https://cran.r-project.org/package=ggimage) - Supports aesthetic mapping of image files to be visualized in 'ggplot2' graphic system.
 
-+ [Sentiment Analysis in R](http://www.rblog.uni-freiburg.de/2017/02/21/sentiment-analysis-in-r/)
+![ggimage](https://guangchuangyu.github.io/blog_images/R/ggimage/ggimage_emoGG.png)
 
-+ [leaflet 1.1.0](https://blog.rstudio.org/2017/02/22/leaflet-1-1-0/)
++ [SentimentAnalysis](http://www.rblog.uni-freiburg.de/2017/02/21/sentiment-analysis-in-r/) - Dictionary-based sentiment analysis
+
++ [strcode](https://lorenzwalthert.github.io/strcode1/) - Structure and abstract your code. The strcode package contains tools to organize your code better. It consists of an RStudio Add-in to divide code into sections and a function to get a summary of a codebase.
+
++ [More January Package Picks](https://www.rstudio.com/rviews/2017/02/24/more-january-package-picks/)
+
++ [ggraph](http://www.data-imaginist.com/2017/Announcing-ggraph/) - A grammar of graphics for relational data
+
+![ggraph](https://cdn.rawgit.com/rweekly/image/a0e06830/2017-02-27/network.png)
+
++ [RcppMLPACK2](http://gallery.rcpp.org//articles/using-rcppmlpack2/) - RcppMLPACK2 and the MLPACK Machine Learning Library
+
++ [rmdformats](https://github.com/juba/rmdformats) - The goal is to produce clean documents "out of the box", with or without the RStudio IDE.
 
 ### New Releases
+
++ [future 1.3.0](http://www.jottr.org/2017/02/future-reproducible-rngs-futurelapply.html) - Unified Parallel and Distributed Processing in R for Everyone.
+
++ [leaflet 1.1.0](https://blog.rstudio.org/2017/02/22/leaflet-1-1-0/) - interactive maps for R
+
++ [RPushbullet 0.3.1](http://dirk.eddelbuettel.com/blog/2017/02/17#rpushbullet_0.3.1) - RPushbullet is an R client for the wonderful Pushbullet messaging / notification system.
+
++ [R Tools for Visual Studio 1.0 Preview](http://blog.revolutionanalytics.com/2017/02/preview-r-tools-for-visual-studio-10.html)
+
++ [padr 0.2.0](https://edwinth.github.io/blog/pad.v0.2.0/) - pad does now do group padding
 
 
 ### Jobs
@@ -81,10 +158,36 @@ Hello and welcome to this new issue!
 
 ### R Project Updates
 
-
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ Encoding name `"utf8"`is mapped to `"UTF-8"’. Many implementations of `iconv`accept `"utf8"’, but not GNU `libiconv`(including the current version 1.15).
 
++ (C-level Native routine registration.) The undocumented `styles`field of the components of `R_CMethodDef`and `R_FortranMethodDef`is deprecated.
+
++ Fix for `cairo_pdf()`(and `svg()`and `cairo_ps()’) when replaying saved display list that contains mix of `grid`and `graphics`output. Thanks to Yihui Xie.
+
++ (C-level Native routine registration.) The deprecated `styles`component of `R_CMethodDef`and `R_FortranMethodDef`no longer does anything.
+
++ `sessionInfo()`shows the full paths to the library or executable files providing the BLAS/LAPACK implementations currently in use (not available on Windows).
+
++ `grep(perl = TRUE)`and friends can now make use of PCRE's Just-In-Time mechanism, for PCRE >= 8.20 on platforms where JIT is supported. It is used by default whenever the `pattern`is studied, which by default requires an input `x`of length at least 10. (Based on a patch from Mikko Korpela.) This is controlled by a new option `PCRE_use_JIT’.
+
++ There is a new option `PCRE_study`which controls when `grep(perl = TRUE)`and friends `study`the compiled pattern. 
+
++ The deprecated support for PCRE versions older than 8.20 will be removed in R 3.4.1. (Versions 8.20-8.31 will still be accepted but deprecated.)
+
++ `grep(perl = TRUE)`and friends set a maximal recursion limit, taking into account R's estimate of the remaining C stack space. This reduces the chance of C stack overflow, but because it is conservative may return a non-match with a warning in examples that succeeded before. (PR#16757)
+
+
++ The binning algorithm used by bandwidth selectors `bw.ucv()’, `bw.bcv()`and `bw.SJ()`switches to a version linear in the input size `n`for `n > nb/2’. (The calculations are the same, but for large `n/nb`it is worth doing the binning in advance.)
+
++ `R CMD Rd2pdf`had problems with packages with non-ASCII titles in `.Rd`files (usually the titles were omitted).
+
++ The internal methods of `download.file()`and `url()`now report that they cannot follow this (rather than failing silently).
+
++ (Unix-alike) `download.file(method = "auto")`(the default) re-tries with `method = "libcurl"’.
+
++ (Unix-alike) `url(method = "default")`with an explicit `open`argument re-tries with `method = "libcurl"`. This covers many of the usages, e.g. `readLines()` with a URL argument. 
 
 ### Upcoming Events
 
@@ -98,3 +201,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Leo Tolstoy on the <a href="https://twitter.com/hashtag/tidyverse?src=hash">#tidyverse</a> and <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/KGN36yaQM4">pic.twitter.com/KGN36yaQM4</a></p>&mdash; Sean Kross (@seankross) <a href="https://twitter.com/seankross/status/835168685983694849"></a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Max Kuhn: &quot;At <a href="https://twitter.com/rstudio">@rstudio</a> about 30% of our work is choosing gifs and naming functions&quot; <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/834573046853799937"></a></blockquote>
