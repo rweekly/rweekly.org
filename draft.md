@@ -34,7 +34,7 @@ Hello and welcome to this new issue!
 
 ### R in Organizations
 
-
++ [Prophet: How Facebook operationalizes time series forecasting at scale](http://blog.revolutionanalytics.com/2017/02/facebook-prophet.html)
 
 ### R in Academia
 
