@@ -105,6 +105,7 @@ Release Date: 2017-02-27
 
 + [R Consortium ISC Project Status Webinar](https://www.r-consortium.org/blog/2017/01/24/isc-project-status-webinar)
 
++ [NSSD33:Big Time Bubble Time](https://soundcloud.com/nssd-podcast/episode-33-big-time-bubble-time) Hilary and Roger talk about the interview process for data science and data analyst jobs, opinionated analysis development, and what job interviews were like back in 1999.
 ### Resources
 
 + [RStudio Extensions](https://rstudio.github.io/rstudio-extensions/rstudio_project_templates.html) - An R Markdown website that documents the various ways users can extend the RStudio IDE.
