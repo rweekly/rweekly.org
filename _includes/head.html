@@ -156,11 +156,14 @@
     _paq.push(['setCustomVariable', 2, "Origin", localStorage.getItem('origin'), "page"]);
     _paq.push(['setCustomVariable', 3, "Like", localStorage.getItem('feature-like'), "page"]);
     _paq.push(['setCustomVariable', 4, "TOC", localStorage.getItem('feature-toc'), "page"]);
+    _paq.push(['setCustomVariable', 5, "URL", document.domain, "page"]);
     _paq.push(['trackPageView']);
     _paq.push(['enableJSErrorTracking']);
     _paq.push(['enableLinkTracking', true]);
     _paq.push(['enableHeartBeatTimer']);
     _paq.push(['trackAllContentImpressions']);
+    _paq.push(["setDomains", ["rweekly.org", "www.rweekly.org"]]);
+    _paq.push(['setCookieDomain', "*.rweekly.org"]);
     (function () {
       var u = "//web.rweekly.org/";
       _paq.push(['setTrackerUrl', u + 'js/index.php']);
