@@ -19,7 +19,7 @@ Release Date: 2017-02-27
 
 + [How Herd Immunity Works [OC]](https://www.reddit.com/r/dataisbeautiful/comments/5v72fw/how_herd_immunity_works_oc/)
 
-<video preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline="" style="width: 500px; height: 300px;">
+<video poster="https://cdn.rawgit.com/rweekly/image/8b31599f/2017-02-27/immunity.png" preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline="" style="width: 500px; height: 300px;">
     <source src="//i.imgur.com/J7LANQ4.mp4" type="video/mp4">
 </video>
 
