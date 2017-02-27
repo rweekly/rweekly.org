@@ -7,6 +7,27 @@ title: About
 
 ## Community
 
+### Facebook
+
+<div class="fb-page" data-href="https://www.facebook.com/rweekly/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
+
+<p></p>
+
+### Twitter
+
+<a class="twitter-follow-button"
+  href="https://twitter.com/rweekly_org"
+  data-size="large">
+Follow @rweekly_org</a>
+
+### LinkedIn
+
+<a
+  href="https://www.linkedin.com/organization/rweekly"
+  data-size="large">
+Follow LinkedIn</a>
+
+
 ### Pull Requests
 
 Update the [draft](https://github.com/rweekly/rweekly.org/blob/gh-pages/draft.md) post, and create a pull request.
