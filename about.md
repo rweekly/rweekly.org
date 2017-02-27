@@ -9,7 +9,11 @@ title: About
 
 ### Facebook
 
-<div class="fb-page" data-href="https://www.facebook.com/rweekly/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
+<div class="fb-page" data-href="https://www.facebook.com/rweekly/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+<a
+  href="https://www.facebook.com/rweekly/">
+Follow Facebook</a>
+</div>
 
 <p></p>
 
