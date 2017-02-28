@@ -14,10 +14,20 @@ title: Submit
         <input id="submit-email" style="width: 90%" class="pure-input-1 submit-form-90" placeholder="contact">
     </fieldset>
 
-    <button id="link-submit" style="margin:0 0 0 0 ;width: 44%; display: inline-block;" type="submit" class="pure-button pure-input-1-2 pure-button-primary">Submit</button>
-    <form style="display: inline-block;"><button id="list-links" style="width: 44%; display: inline-block;" class="pure-button pure-input-1-2 pure-button">Latest</button></form>
+    <button id="link-submit" style="margin:0 0 0 0 ;width: 44.5%; display: inline-block;" type="submit" class="pure-button pure-input-1-2 pure-button-primary">Submit</button>
+    <form style="display: inline-block;"><button id="list-links" style="width: 44.5%; display: inline-block;" class="pure-button pure-input-1-2 pure-button">Latest</button></form>
 
 </form>
+
+<div style="margin-top: 20px;" id="app">
+
+<h3>Submit with R</h3>
+
+<div style="width:90%" class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">rweekly</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">url</span><span class="p">,</span><span class="n">text</span><span class="p">,</span><span class="n">contact</span><span class="p">){</span><span class="n">a</span><span class="o">=</span><span class="n">URLencode</span><span class="p">;</span><span class="n">readLines</span><span class="p">(</span><span class="n">url</span><span class="p">(</span><span class="w">
+</span><span class="n">sprintf</span><span class="p">(</span><span class="s2">"https://api.rweekly.org/submit?url=%s&amp;desc=%s&amp;email=%s"</span><span class="p">,</span><span class="w">
+</span><span class="n">a</span><span class="p">(</span><span class="n">url</span><span class="p">),</span><span class="n">a</span><span class="p">(</span><span class="n">text</span><span class="p">),</span><span class="n">a</span><span class="p">(</span><span class="n">contact</span><span class="p">))))}</span><span class="w">
+</span></code></pre>
+</div>
 
 <p></p>
 
@@ -29,7 +39,6 @@ title: Submit
 
 <p></p>
 
-<div style="margin-top: 20px;" id="app">
 
 </div>
 
