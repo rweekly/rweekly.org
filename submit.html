@@ -50,15 +50,16 @@ title: Submit
     var final_url = "https://api.rweekly.org/submit?url=" + encodeURIComponent(document.getElementById('submit-url').value) + '&desc=' + encodeURIComponent(document.getElementById('submit-desc').value) + '&email=' + encodeURIComponent(document.getElementById('submit-email').value);
     console.log(final_url);
     var xhr = new XMLHttpRequest();
-
+    var time_xhr = (new Date()).getTime();
     xhr.open("GET", final_url);
     xhr.onreadystatechange = function() {
         if (xhr.readyState == 4 && ( xhr.status == 200 || xhr.status == 304 )) {
             var xhr_res = JSON.parse(xhr.responseText);
             if (xhr_res.hasOwnProperty('error')){
                 document.getElementById('dialog').firstElementChild.innerHTML = 'Error: ' + xhr_res.error + '. See you tomorrow!';
+                _paq.push(['trackEvent', "submit-link", "error", xhr_res.error, (new Date()).getTime() - time_xhr]);
             } else {
-
+                _paq.push(['trackEvent', "submit-link", "done", xhr_res.url, (new Date()).getTime() - time_xhr]);
                 var words; 
                 if(xhr_res > 1){
                     words = 'links';
@@ -72,22 +73,24 @@ title: Submit
             }
             $( "#dialog" ).dialog({
                 show: {
-                    effect: "Fade",
-                    duration: 1000
+                    effect: "fade",
+                    duration: 300
                 },
                 hide: {
-                    effect: "Fade",
-                    duration: 1000
+                    effect: "fade",
+                    duration: 300
                 }
             });
         }
     }
     xhr.send();
+    _paq.push(['trackEvent', "submit-link", "begin", xhr_res.url]);
     });
 
     document.getElementById( "list-links" ).addEventListener( "click", function(e) {
     e.preventDefault();
     var xhr = new XMLHttpRequest();
+    var time_xhr = (new Date()).getTime();
     xhr.open("GET","https://api.rweekly.org/list-latest-links");
       xhr.onreadystatechange = function() {
         if (xhr.readyState == 4 && ( xhr.status == 200 || xhr.status == 304 )) {
@@ -112,11 +115,12 @@ title: Submit
             var lists_app = document.getElementById('app');
             lists_app.innerHTML = '';
             lists_app.appendChild(new_ul);
+            _paq.push(['trackEvent', "list-latest-links", "done", (new Date()).getTime() - time_xhr]);
         }
       };
 
     xhr.send();
-
+    _paq.push(['trackEvent', "list-latest-links", "begin"]);
     });
 
 
