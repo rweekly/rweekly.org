@@ -84,7 +84,7 @@ title: Submit
         }
     }
     xhr.send();
-    _paq.push(['trackEvent', "submit-link", "begin", xhr_res.url]);
+    _paq.push(['trackEvent', "submit-link", "begin", document.getElementById('submit-url').value]);
     });
 
     document.getElementById( "list-links" ).addEventListener( "click", function(e) {
