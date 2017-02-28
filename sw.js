@@ -22,6 +22,8 @@
   //     maxAgeSeconds: 60 * 60 * 100
   //   }
   // });
+  global.toolbox.router.get(/api.rweekly.org/, global.toolbox.networkOnly, {});
+  global.toolbox.router.get(/127.0.0.1/, global.toolbox.networkOnly, {});
   global.toolbox.router.get('/', global.toolbox.networkFirst, {});
   global.toolbox.router.get('/index.html', global.toolbox.networkFirst, {});
   global.toolbox.router.get('/draft.html', global.toolbox.networkFirst, {});

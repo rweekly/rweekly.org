@@ -1,0 +1,141 @@
+---
+layout: purecss-page
+title: Submit
+---
+
+<div class="post">
+{% raw %}
+
+<form id="submit-form" class="pure-form">
+
+    <fieldset class="pure-group">
+        <input id="submit-url" type="url" value='https://' required style="width: 90%" class="pure-input-1 submit-form-90 " placeholder="a URL" text="https://">
+        <textarea id="submit-desc" required style="width: 90%" class="pure-input-1 submit-form-90 " placeholder="a short description"></textarea>
+        <input id="submit-email" type="email" style="width: 90%" required class="pure-input-1 submit-form-90" placeholder="Email">
+    </fieldset>
+
+    <button id="link-submit" style="width: 44%; display: inline-block;" type="submit" class="pure-button pure-input-1-2 pure-button-primary">Submit</button>
+    <form style="display: inline-block;"><button id="list-links" style="width: 44%; display: inline-block;" class="pure-button pure-input-1-2 pure-button">Get Latest Submission</button></form>
+
+</form>
+
+<p></p>
+
+<div style="display: none;" id="dialog" title="Submission Status">
+  <p></p>
+</div>
+
+<p></p>
+
+<p></p>
+
+<div style="margin-top: 20px;" id="app">
+
+</div>
+
+
+<script>
+
+    document.getElementById( "submit-form" ).addEventListener( "submit", function(e) {
+    e.preventDefault();
+    var final_url = "https://api.rweekly.org/submit?url=" + encodeURIComponent(document.getElementById('submit-url').value) + '&desc=' + encodeURIComponent(document.getElementById('submit-desc').value) + '&email=' + encodeURIComponent(document.getElementById('submit-email').value);
+    console.log(final_url);
+    var xhr = new XMLHttpRequest();
+
+    xhr.open("GET", final_url);
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState == 4 && ( xhr.status == 200 || xhr.status == 304 )) {
+            var xhr_res = JSON.parse(xhr.responseText);
+            if (xhr_res.hasOwnProperty('error')){
+                document.getElementById('dialog').firstElementChild.innerHTML = 'Error: ' + xhr_res.error + '. See you tomorrow!';
+            } else {
+
+                var words; 
+                if(xhr_res > 1){
+                    words = 'links';
+                }else{
+                    words = 'link';
+                }
+                
+                document.getElementById('dialog').firstElementChild.innerHTML = 'Thanks! You submited ' + xhr_res.num_today + ' ' + words + ' today.';
+                document.getElementById('submit-url').value = 'https://'
+                document.getElementById('submit-desc').value = ''
+            }
+            $( "#dialog" ).dialog({
+                show: {
+                    effect: "Fade",
+                    duration: 1000
+                },
+                hide: {
+                    effect: "Fade",
+                    duration: 1000
+                }
+            });
+        }
+    }
+    xhr.send();
+    });
+
+    document.getElementById( "list-links" ).addEventListener( "click", function(e) {
+    e.preventDefault();
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET","https://api.rweekly.org/list-latest-links");
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState == 4 && ( xhr.status == 200 || xhr.status == 304 )) {
+
+            var links_array = JSON.parse(xhr.responseText);
+            if (links_array.hasOwnProperty('error')){
+                links_array = [{DESC: 'Sorry, there is no updates.', REALTIME: new Date(), URL: '#' }];
+            }
+
+            var new_ul = document.createElement('ul');
+            for(var ii = 0; ii< links_array.length; ii++){
+                var new_li = document.createElement('li');
+                var new_p = document.createElement('p');
+                var new_a = document.createElement('a');
+
+                new_a.innerText = (new Date(links_array[ii].REALTIME)).toLocaleString() + ' - ' + links_array[ii].DESC;
+                new_a.href = links_array[ii].URL;
+                new_p.appendChild(new_a);
+                new_li.appendChild(new_p);
+                new_ul.appendChild(new_li);
+            }
+            var lists_app = document.getElementById('app');
+            lists_app.innerHTML = '';
+            lists_app.appendChild(new_ul);
+        }
+      };
+
+    xhr.send();
+
+    });
+
+
+// Vue.config.devtools = true;
+
+
+</script>
+
+
+
+{% endraw %}
+
+</div>
+
+
+
+<h1 class="page-title">More on R Weekly</h1>
+
+<h3 id="r-conferences--meetups">R conferences &amp; meetups</h3>
+
+<p><a href="https://conf.rweekly.org">https://conf.rweekly.org</a></p>
+
+<p>A collection of presentation slides/materials released on various R conferences and meetups.</p>
+
+<h3 id="blog">Blog</h3>
+
+<p><a href="https://blog.rweekly.org">https://blog.rweekly.org</a></p>
+
+<p>Updates and changes on R Weekly.</p>
+
+

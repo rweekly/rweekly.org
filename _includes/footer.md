@@ -1,7 +1,7 @@
 
 <form id="search-form" target="_blank" action="/search.html" method="get">
 <label for="search-box"></label>
-<input type="text" id="search-box" name="query" placeholder="search">
+<input type="text" class="github-search-box" id="search-box" name="query" placeholder="search">
 </form>
 
 <script>
