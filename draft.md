@@ -22,6 +22,7 @@ Release Date: 2017-03-05
 
 ### R Internationally
 
++ [Premiers pas en Machine Learning avec R. Volume 1 : la régression linéaire simple](http://www.thinkr.fr/premiers-machine-learning-r-volume-1-regression-lineaire-simple/) - [English - autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/premiers-machine-learning-r-volume-1-regression-lineaire-simple/)
 
 
 ### R in Organizations
