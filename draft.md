@@ -13,7 +13,7 @@ Release Date: 2017-03-05
 
 ### R in the Real World
 
-
+[Vinylspotting: A shiny app to explore your record collection](https://ewenme.github.io/blog/Vinylspotting/)
 
 ### Insights
 
