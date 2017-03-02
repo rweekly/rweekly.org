@@ -33,6 +33,25 @@ footer {
 //     box-sizing: border-box;
 // }
 
+.title-filter{
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAMAAADzapwJAAABS2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+IEmuOgAAAARnQU1BAACxjwv8YQUAAAABc1JHQgCuzhzpAAAAPFBMVEUAAABxcXF6enp5eXl3d3d6enp6enp4eHh5eXl2dnZ6enp6enp1dXV6enp5eXl3d3d/f395eXl5eXl6enpvqRSPAAAAE3RSTlMACeyhIN/bItQcoDAN0ckPEMuyE8p8VwAAAE9JREFUGNNjYKAxYGRHAoxwYWZhJMAFF+ZkQ4iysjBgEUcWRYijisLE0UWB4kzCwkycmK7kEBbmYKCRsBB2YX4+rMIMAoK8WAOSh5u6EQMAXYIFjaYKi04AAAAASUVORK5CYII=");
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+  font-size: 15px;
+  background-position: 2px 1px;
+  background-repeat: no-repeat;
+  padding: 2px 0px 2px 25px;
+  -webkit-transition: width .4s ease-in-out;
+  transition: width .4s ease-in-out;
+  width: 70%;
+}
+
+.title-filter:focus {
+    width: 90%;
+}
+
 .github-search-box {
   width: 130px;
   box-sizing: border-box;
