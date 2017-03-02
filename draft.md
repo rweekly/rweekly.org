@@ -43,7 +43,8 @@ Release Date: 2017-03-05
 
 
 ### Resources
-
++ [What you need to know about R (Free eBook)](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-r2) by Dipanjan Sarkar & Raghav Bali, Packt. <br />
++ [Free R eBook everyday till 5th March 2017](https://www.packtpub.com/packt/offers/free-learning) by Packt <br />
 
 
 
