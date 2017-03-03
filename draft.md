@@ -15,9 +15,11 @@ Release Date: 2017-03-05
 
 [Vinylspotting: A shiny app to explore your record collection](https://ewenme.github.io/blog/Vinylspotting/)
 
++ [Predicting the length of a hospital stay, with R](http://blog.revolutionanalytics.com/2017/03/hospital-length-of-stay.html)
+
 ### Insights
 
-
++ [Fast data lookups in R: dplyr vs data.table](http://blog.appsilondatascience.com/rstats/2017/03/02/r-fast-lookup.html)
 
 
 ### R Internationally
@@ -35,8 +37,9 @@ Release Date: 2017-03-05
 
 ### Tutorials
 
-
-
++[Create an heatmap with R and ggplot2](http://colinfay.me/create-an-heatmap-with-r-and-ggplot2/)
++ [Giving a Thematic Touch to your Interactive Chart](http://jkunst.com/r/giving-a-thematic-touch-to-your-interactive-chart/) 
++ [wrapr: for sweet R code](http://www.win-vector.com/blog/2017/03/wrapr-for-sweet-r-code/)
 
 ### Videos and Podcasts
 
@@ -57,7 +60,7 @@ Release Date: 2017-03-05
 
 ### Jobs
 
-
++ [Freeletics: Data Scientist](http://www.kdnuggets.com/jobs/17/03-02-freeletics-data-scientist.html)
 
 ### Call for Participation
 
