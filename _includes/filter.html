@@ -12,8 +12,9 @@ function run_filter(e){
             temp_li.classList.remove("li-hide");
             if (temp_li.parentElement.lastElementChild === temp_li) {
                 var next_img = temp_li.parentElement.nextElementSibling.querySelector('img');
-                if (next_img){
-                    next_img.classList.remove("li-hide");
+
+                if (next_img || temp_li.parentElement.nextElementSibling.tagName === "VIDEO" || temp_li.parentElement.nextElementSibling.tagName === "IFRAME"){
+                    temp_li.parentElement.nextElementSibling.classList.remove("li-hide");
                 }
             }
         
@@ -21,8 +22,8 @@ function run_filter(e){
             temp_li.classList.add("li-hide");
             if (temp_li.parentElement.lastElementChild === temp_li) {
                 var next_img = temp_li.parentElement.nextElementSibling.querySelector('img');
-                if (next_img){
-                    next_img.classList.add("li-hide");
+                if (next_img  || temp_li.parentElement.nextElementSibling.tagName === "VIDEO" || temp_li.parentElement.nextElementSibling.tagName === "IFRAME"){
+                    temp_li.parentElement.nextElementSibling.classList.add("li-hide");
                 }
             }
         }
