@@ -49,8 +49,6 @@ Release Date: 2017-03-05
 
 + [Disney Names](https://kkulma.github.io/2017-02-22-disney-names/) - My goal is to analyse how frequency of names found among Disney female characters changed over time in the US.
 
-![Disney Names](https://kkulma.github.io/img/2017-02-22-disney-names_files/figure-markdown_github/unnamed-chunk-14-1.png)
-
 ### Insights
 
 + [Strange R Things](https://rpubs.com/dbecker7/StrangeRThings) - You will find a compendium of the strange and unique things that you can do in R.
