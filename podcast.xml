@@ -1,0 +1,62 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>R Weekly</title>
+<link>https://rweekly.org</link>
+<language>en-us</language>
+<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+<copyright>All rights reserved</copyright>
+<webMaster>mail@rweekly.org</webMaster>
+<itunes:subtitle>R Weekly</itunes:subtitle>
+<itunes:author>R Weekly</itunes:author>
+
+<itunes:summary>R Weekly Podcast. Data &amp; Fun &amp; RWeekly.org. Weekly updates from the R programming language open source community. #rstats</itunes:summary>
+<description>R Weekly Podcast. Data &amp; Fun &amp; RWeekly.org. Weekly updates from the R programming language open source community. #rstats</description>
+
+<itunes:owner>
+<itunes:name>R Weekly</itunes:name>
+<itunes:email>mail@rweekly.org</itunes:email>
+</itunes:owner>
+
+<itunes:image href="https://rweekly.org/public/rweekly_logo_3000x3000.png"/>
+
+<itunes:category text="Technology">
+    <itunes:category text="Software How-To"/>
+    <itunes:category text="Tech News"/>
+    <itunes:category text="Podcasting"/>
+</itunes:category>
+<itunes:category text="Business"/>
+<itunes:category text="Education">
+<itunes:category text="Science &amp; Medicine"/>
+    <itunes:category text="Natural Sciences"/>
+    <itunes:category text="Social Sciences"/>
+    <itunes:category text="Medicine"/>
+</itunes:category>
+
+<itunes:keywords>r, data, big data, data mining, data analysis, rstats, R programming language, open source, software, development, code, programming, hacker, software engineering, business intelligence, AI, data visualization,  biostatistics</itunes:keywords>
+
+<itunes:explicit>no</itunes:explicit>
+{% assign podcasts = site.posts | where:"is_podcast", true %}
+    {% for post in podcasts %}
+    <item>
+        <title>{{ post.podcast_title }}</title>
+        <link>{{ post.podcast_permalink }}</link>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <description>{{ post.podcast_description }}</description>
+        <guid isPermaLink="false">{{ post.podcast_permalink }}</guid>
+        <enclosure url="{{ post.podcast_permalink }}" length="{{ post.podcast_size }}" type="audio/mpeg"/>
+        <itunes:author>R Weekly</itunes:author>
+        <itunes:duration>post.podcast_duration</itunes:duration>
+        <itunes:summary>{{ post.podcast_summary }}</itunes:summary>
+        <itunes:keywords>r, data, big data, data mining, data analysis, rstats, R programming language, open source, software, development {{ post.podcast_keywords }} </itunes:keywords>
+        <itunes:subtitle>{{ post.podcast_subtitle }}</itunes:subtitle>
+        <itunes:image href="https://rweekly.org/public/rweekly_logo_3000x3000.png" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+{% endfor %}
+</channel>

@@ -30,7 +30,7 @@ document.getElementById('search-form').addEventListener('submit', function(e){
 
 Subscribe R Weekly with <a href="https://feedburner.google.com/fb/a/mailverify?uri=rweekly&amp;loc=en_US" target="_blank" onclick="_paq.push(['trackEvent', 'Mail', '1']);">Email</a>.
 
-R Weekly @ [Twitter](https://twitter.com/rweekly_org) [Facebook](https://facebook.com/rweekly) [LinkedIn](https://www.linkedin.com/company/rweekly)
+R Weekly @ [Patreon](https://www.patreon.com/rweekly) [Twitter](https://twitter.com/rweekly_org) [Facebook](https://facebook.com/rweekly) [LinkedIn](https://www.linkedin.com/company/rweekly)
 
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
 

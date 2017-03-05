@@ -24,12 +24,9 @@ Follow Facebook</a>
   data-size="large">
 Follow @rweekly_org</a>
 
-### LinkedIn
+### Patreon
 
-<a
-  href="https://www.linkedin.com/organization/rweekly"
-  data-size="large">
-Follow LinkedIn</a>
+[Support with Patreon](https://www.patreon.com/rweekly)
 
 ### Submit
 
