@@ -17,7 +17,7 @@ Release Date: 2017-03-05
 
 + [Gender gap in Swedish mortality](https://ikashnitsky.github.io/2017/gender-gap-in-swedish-mortality/)
 
-![Gender gap in Swedish mortality](https://ikashnitsky.github.io/images/170225/sweden.png)
+![Gender gap in Swedish mortality](https://cdn.rawgit.com/rweekly/image/ad04b0cb/2017-03/sweden2.png)
 
 + [Predicting the length of a hospital stay, with R](http://blog.revolutionanalytics.com/2017/03/hospital-length-of-stay.html)
 
