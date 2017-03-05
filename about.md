@@ -31,18 +31,15 @@ Follow @rweekly_org</a>
   data-size="large">
 Follow LinkedIn</a>
 
+### Submit
+
+Go to [https://rweekly.org/submit](https://rweekly.org/submit)
+
+Submit your links and scripts for R Weekly posts and podcasts.
 
 ### Pull Requests
 
 Update the [draft](https://github.com/rweekly/rweekly.org/blob/gh-pages/draft.md) post, and create a pull request.
-
-### Join the Group
-
-Join us to keep the history of the entire R community, and you will be able to edit this repo. 
-
-After your first 10 pull requests, please take this [survey](https://docs.google.com/forms/d/1WdCjXvWJ1tDSlZNJAroGWCWcqqDjRMAF2VNnZCfn14g/viewform) to join us.
-
-If you are not accepted at first, please do not be discouraged. Create more pull requests to interact with us to let us know more about each other! 
 
 ### Communication
 
