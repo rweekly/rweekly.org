@@ -7,12 +7,12 @@ layout: null
 <channel>
 <title>R Weekly</title>
 <link>https://rweekly.org</link>
-<atom:link href="/podcast.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://rweekly.org/podcast.xml" rel="self" type="application/rss+xml"/>
 <language>en-us</language>
 <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 <copyright>All rights reserved</copyright>
-<webMaster>mail@rweekly.org</webMaster>
+<webMaster>mail@rweekly.org (R Weekly)</webMaster>
 <itunes:subtitle>R Weekly</itunes:subtitle>
 <itunes:author>R Weekly</itunes:author>
 
@@ -39,7 +39,7 @@ layout: null
     <itunes:category text="Medicine"/>
 </itunes:category>
 
-<itunes:keywords>r, data, big data, data mining, data analysis, rstats, R programming language, open source, software, development, code, programming, hacker, software engineering, business intelligence, AI, data visualization,  biostatistics, statistics, data science, machine learning</itunes:keywords>
+<itunes:keywords>r, data, big data, data mining, data analysis, rstats, R programming language, open source, software, development, code, programming, hacker, software engineering, business intelligence, AI, data visualization,  statistics, data science, machine learning</itunes:keywords>
 
 <itunes:explicit>no</itunes:explicit>
 {% assign podcasts = site.posts | where:"is_podcast", true %}
@@ -54,7 +54,7 @@ layout: null
         <itunes:author>R Weekly</itunes:author>
         <itunes:duration>{{ post.podcast_duration }}</itunes:duration>
         <itunes:summary>{{ post.podcast_summary }}</itunes:summary>
-        <itunes:keywords>r, data, big data, data mining, data analysis, rstats, R programming language, open source, software, development, statistics, data science, data visualization, machine learning {{ post.podcast_keywords }} </itunes:keywords>
+        <itunes:keywords>r, data, big data, data mining, data analysis, rstats, R programming language, open source, software, development, statistics, data science, visualization, machine learning {{ post.podcast_keywords }} </itunes:keywords>
         <itunes:subtitle>{{ post.podcast_subtitle }}</itunes:subtitle>
         <itunes:image href="https://rweekly.org/public/rweekly_logo_3000x3000.png" />
         <itunes:explicit>no</itunes:explicit>
