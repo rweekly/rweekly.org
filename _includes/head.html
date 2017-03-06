@@ -16,6 +16,8 @@
 
     {% include toc.css %}
 
+    {% include podcast.css %}
+
   </style>
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/icons/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/icons/favicon-32x32.png" sizes="32x32">
@@ -23,8 +25,10 @@
   <link rel="mask-icon" href="{{ site.baseurl }}/images/icons/safari-pinned-tab.svg" color="#191d1f">
   <meta name="theme-color" content="#ffffff">
   <link rel="shortcut icon" href="{{ site.baseurl }}/images/icons/favicon.ico">
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml"> 
   
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml"> 
+  <link rel="alternate" type="application/atom+xml" title="R Weekly Podcast" href="/podcast.xml">
+
   {% seo %}
   
   <meta property="og:image" content="https://rweekly.org/public/facebook.png" />

@@ -6,7 +6,7 @@
 /* The Table of Contents container element */
 .tocify {
     width: 20%;
-    max-height: 90%;
+    max-height: 85%;
     overflow: auto;
     margin-left: 2%;
     position: fixed;
