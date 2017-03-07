@@ -53,3 +53,9 @@ body.no-feature-toc {
         margin-right: auto;
     }
 }
+
+body.no-feature-podcast-corner{
+    .podcast {
+        display: none;
+    }
+}

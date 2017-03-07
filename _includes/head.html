@@ -244,5 +244,12 @@
         document.body.classList.remove('no-feature-like');
       });
     }
+    
+    if (localStorage.getItem("feature-podcast-corner") === 'false'){
+      document.addEventListener("DOMContentLoaded", function () {
+        document.body.classList.add('no-feature-podcast-corner');
+      });
+    }
+    
   </script>
 </head>

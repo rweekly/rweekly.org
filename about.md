@@ -81,6 +81,37 @@ Read [random](./random.html) R posts.
 
 ## Options
 
+### Podcast Corner
+
+Podcast Corner. Status: <a id="pod-corner-status" href="#">On</a>
+
+<script>
+if (localStorage.getItem("feature-podcast-corner") === 'false'){
+    document.getElementById('pod-corner-status').innerText = " Off ";
+} else {
+    document.getElementById('pod-corner-status').innerText = " On ";
+}
+
+function pod_corner_feature(e){
+    e.preventDefault();
+    if (localStorage.getItem("feature-podcast-corner") === 'false'){
+        localStorage.setItem("feature-podcast-corner", true);
+        _paq.push(['trackEvent', 'set-pod', 'true']);
+        document.getElementById('pod-corner-status').innerText = " On ";
+        window.location.reload();
+    } else {
+        localStorage.setItem("feature-podcast-corner", false);
+        _paq.push(['trackEvent', 'set-pod', 'false']);
+        document.getElementById('pod-corner-status').innerText = " Off ";
+        window.location.reload();
+    }
+}
+
+document.getElementById('pod-corner-status').addEventListener("click",pod_corner_feature);
+
+</script>
+
+
 ### TOC
 
 Display TOC. Status: <a id="toc-status" href="#">On</a>
@@ -94,15 +125,15 @@ if (localStorage.getItem("feature-toc") === 'false'){
 
 function toc_feature(e){
     e.preventDefault();
-    if (localStorage.getItem("feature-toc") === 'true'){
-        localStorage.setItem("feature-toc", false);
-        _paq.push(['trackEvent', 'set-toc', 'false']);
-        document.getElementById('toc-status').innerText = " Off ";
-        window.location.reload();
-    } else {
+    if (localStorage.getItem("feature-toc") === 'false'){
         localStorage.setItem("feature-toc", true);
         _paq.push(['trackEvent', 'set-toc', 'true']);
         document.getElementById('toc-status').innerText = " On ";
+        window.location.reload();
+    } else {
+        localStorage.setItem("feature-toc", false);
+        _paq.push(['trackEvent', 'set-toc', 'false']);
+        document.getElementById('toc-status').innerText = " Off ";
         window.location.reload();
     }
 }
