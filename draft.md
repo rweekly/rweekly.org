@@ -21,7 +21,7 @@ Release Date: 2017-03-13
 
 ### R Internationally
 
-
++ [Text mining & n-gramme avec R](http://www.thinkr.fr/text-mining-n-gramme-avec-r/) - [English (auto-translate)](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/text-mining-n-gramme-avec-r/)
 
 ### R in Organizations
 
@@ -33,7 +33,8 @@ Release Date: 2017-03-13
 
 ### Tutorials
 
-
++ [Mapping "France at Night" in R](http://sharpsightlabs.com/blog/mapping-france-night/)
++ [Changing names in the tidyverse: An example for many regressions](https://statbandit.wordpress.com/2017/03/09/changing-names-in-the-tidyverse-an-example-for-many-regressions/) 
 
 
 ### Videos and Podcasts
