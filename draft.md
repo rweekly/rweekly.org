@@ -25,7 +25,7 @@ Release Date: 2017-03-13
 
 ### Videos and Podcasts
 
-+ [10+ changes you should know about R 3.3.3 - R Weekly Podcast 2017:11](https://www.youtube.com/watch?v=419Mxr0GgNU) - [Podcast RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml)
++ [What's new in R 3.3.3 - R Weekly Podcast 2017:11](https://www.youtube.com/watch?v=419Mxr0GgNU) - [Podcast RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eSMaX2lNgHc" frameborder="0" allowfullscreen></iframe>
 
