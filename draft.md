@@ -23,6 +23,10 @@ Release Date: 2017-03-13
 
 + [In case you missed it: February 2017 roundup](http://blog.revolutionanalytics.com/2017/03/in-case-you-missed-it-february-2017-roundup.html)
 
++ [useRs Relationship with R](https://forwards.github.io/blog/2017/03/11/users-relationship-with-r/) - the second in a series of posts on the useR! 2016 survey.
+
+![useRs Relationship with R](https://forwards.github.io/blog/2017/03/11/users-relationship-with-r/figures/unnamed-chunk-6-1.png)
+
 ### Videos and Podcasts
 
 + [What's new in R 3.3.3 - R Weekly Podcast 2017:11](https://www.youtube.com/watch?v=419Mxr0GgNU) - [Podcast RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml)
