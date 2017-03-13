@@ -9,7 +9,11 @@ Release Date: 2017-03-13
 
 ### Highlight
 
++ [Expressing yourself with R - Hadley Wickham](https://www.youtube.com/watch?v=1POb5fx_m3I)
 
++ [R Google Summer of Code 2017](https://github.com/rstats-gsoc/gsoc2017/wiki/table%20of%20proposed%20coding%20projects) - [Organization Page](https://summerofcode.withgoogle.com/organizations/4947241283354624/) - Students will contribute to free/open-source R packages for 3 months during the summer. Mentors get code written for their project.
+
++ [Lesser known dplyr tricks](http://www.brodrigues.co/blog/2017-02-17-lesser_known_tricks/)
 
 ### Insights
 
@@ -129,21 +133,21 @@ Release Date: 2017-03-13
 
 ### New Releases
 
-<!--
-+ [RProtoBuf 0.4.9](http://dirk.eddelbuettel.com/blog/2017/03/06#rprotobuf_0.4.9)
-+ [RVowpalWabbit 0.0.9](http://dirk.eddelbuettel.com/blog/2017/03/06#rvowpalwabbit_0.0.9)
-+ [RcppGSL 0.3.2](http://dirk.eddelbuettel.com/blog/2017/03/05#rcppgsl_0.3.2)
-+ [RcppSMC 0.1.5](http://dirk.eddelbuettel.com/blog/2017/03/05#rcppsmc_0.1.5)
--->
-
 + [ggsci 2.4](https://ggsci.net/) - Scientific journal and sci-fi themed color palettes for ggplot2. New color palettes from NEJM, LocusZoom, IGV, and Star Trek 🖖 .
 
 ![ggsci 2.4](https://raw.githubusercontent.com/rweekly/image/master/2017-03/11-ggsci-update.png)
 
 + [Icarus v0.3](http://nc233.com/2017/03/announcing-icarus-v0-3/) - Icarus provides tools to help perform calibration on margins.
 
++ [RcppGSL 0.3.2](http://dirk.eddelbuettel.com/blog/2017/03/05#rcppgsl_0.3.2)
+
++ [RcppSMC 0.1.5](http://dirk.eddelbuettel.com/blog/2017/03/05#rcppsmc_0.1.5)
+
 + [tidyquant 0.4.0](http://www.business-science.io/code-tools/2017/03/04/tidyquant-update-0-4-0.html) - PerformanceAnalytics, Improved Documentation, ggplot2 Themes and More
 
++ [RProtoBuf 0.4.9](http://dirk.eddelbuettel.com/blog/2017/03/06#rprotobuf_0.4.9)
+
++ [RVowpalWabbit 0.0.9](http://dirk.eddelbuettel.com/blog/2017/03/06#rvowpalwabbit_0.0.9)
 
 ### Jobs
 
@@ -152,7 +156,7 @@ Release Date: 2017-03-13
 
 ### Call for Participation
 
-+ [R Google Summer of Code 2017](https://github.com/rstats-gsoc/gsoc2017/wiki/table%20of%20proposed%20coding%20projects) - [Organization Page](https://summerofcode.withgoogle.com/organizations/4947241283354624/)
++ [R Google Summer of Code 2017](https://github.com/rstats-gsoc/gsoc2017/wiki/table%20of%20proposed%20coding%20projects) - [Organization Page](https://summerofcode.withgoogle.com/organizations/4947241283354624/) - Students will contribute to free/open-source R packages for 3 months during the summer. Mentors get code written for their project.
 
 ### R Project Updates
 
