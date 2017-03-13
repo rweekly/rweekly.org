@@ -139,15 +139,15 @@ Release Date: 2017-03-13
 
 + [Icarus v0.3](http://nc233.com/2017/03/announcing-icarus-v0-3/) - Icarus provides tools to help perform calibration on margins.
 
-+ [RcppGSL 0.3.2](http://dirk.eddelbuettel.com/blog/2017/03/05#rcppgsl_0.3.2)
++ [RcppGSL 0.3.2](http://dirk.eddelbuettel.com/blog/2017/03/05#rcppgsl_0.3.2) - an interface from R to the GNU GSL using the Rcpp package.
 
-+ [RcppSMC 0.1.5](http://dirk.eddelbuettel.com/blog/2017/03/05#rcppsmc_0.1.5)
++ [RcppSMC 0.1.5](http://dirk.eddelbuettel.com/blog/2017/03/05#rcppsmc_0.1.5) - Rcpp-based bindings to R for them Sequential Monte Carlo Template Classes
 
 + [tidyquant 0.4.0](http://www.business-science.io/code-tools/2017/03/04/tidyquant-update-0-4-0.html) - PerformanceAnalytics, Improved Documentation, ggplot2 Themes and More
 
-+ [RProtoBuf 0.4.9](http://dirk.eddelbuettel.com/blog/2017/03/06#rprotobuf_0.4.9)
++ [RProtoBuf 0.4.9](http://dirk.eddelbuettel.com/blog/2017/03/06#rprotobuf_0.4.9) - R bindings for the Google Protocol Buffers ("Protobuf") data encoding and serialization library
 
-+ [RVowpalWabbit 0.0.9](http://dirk.eddelbuettel.com/blog/2017/03/06#rvowpalwabbit_0.0.9)
++ [RVowpalWabbit 0.0.9](http://dirk.eddelbuettel.com/blog/2017/03/06#rvowpalwabbit_0.0.9) - Connects GNU R to the very impressive Vowpal Wabbit fast out-of-core learning system
 
 ### Jobs
 
