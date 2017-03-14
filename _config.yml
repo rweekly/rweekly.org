@@ -39,7 +39,7 @@ gems:
   - jekyll-seo-tag
 
 pages_list:       
-  RSS: '/atom.xml'
+  Feed: '/atom.xml'
   About: '/about.html'
   All: '/archive.html'
   Draft: '/draft.html'

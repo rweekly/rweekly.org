@@ -1,0 +1,208 @@
+---
+layout: vue-inline-page
+title: Live
+---
+
+<style>
+.inner-app-hide{
+    display: none;
+}
+
+.inner-text{
+    font-size: 16px;
+    display: inline;
+}
+
+.podcast{
+    display: none;
+}
+
+</style>
+
+{% raw %}
+
+<div class="post">
+
+<div id="latest-app" class="inner-app-hide">
+  <p>Updated: {{ readable_date }}<p>
+  <div class="like-table" v-for="item in post_date.obj">
+    <h3 v-bind:id="item.date">{{ item.date }}</h3>
+    <div v-for="link in item.links" class="" >
+        <ul>
+        <li>
+            <p v-if="link.N !== undefined">
+                <a rel="nofollow noopener" v-bind:href="link.U">{{ link.T }}</a>  - {{ link.N }}
+            </p>
+            <p v-else>
+                <a rel="nofollow noopener" v-bind:href="link.U">{{ link.T }}</a>
+            </p>
+        </li>
+        </ul>
+        <p v-if="link.P !== undefined">
+            <img v-bind:src="link.P" v-bind:alt="link.T"/>
+        </p>
+    </div>
+  </div>
+</div>
+
+<div id="app" class="inner-app-hide">
+  <div id="inner-app" class="like-table" v-for="item in post_date">
+    <h3 v-bind:id="item.date">{{ item.date }}</h3>
+    <div v-for="link in item.links" class="" >
+        <ul>
+        <li>
+            <p v-if="link.N !== undefined">
+                <a rel="nofollow noopener" v-bind:href="link.U">{{ link.T }}</a>  - {{ link.N }}
+            </p>
+            <p v-else>
+                <a rel="nofollow noopener" v-bind:href="link.U">{{ link.T }}</a>
+            </p>
+        </li>
+        </ul>
+        <p v-if="link.P !== undefined">
+            <img v-bind:src="link.P" v-bind:alt="link.T"/>
+        </p>
+    </div>
+  </div>
+</div>
+
+<p id="next-text" class="inner-app-hide">next ...<p>
+
+</div> 
+
+<script src="/public/moment.min.js" charset="utf-8"></script>
+
+<script>
+
+var weekday = new Array(7);
+weekday[0] =  "Sunday";
+weekday[1] = "Monday";
+weekday[2] = "Tuesday";
+weekday[3] = "Wednesday";
+weekday[4] = "Thursday";
+weekday[5] = "Friday";
+weekday[6] = "Saturday";
+
+function get_date(){
+    var date_var = new Date();
+    return date_var.getFullYear() + '-' + (date_var.getMonth()+1) + '-' + date_var.getDate() + " " + weekday[date_var.getDay()];
+}
+
+var post_data = [];
+var latest_data = {};
+
+
+Vue.config.devtools = true;
+
+var latest_app = new Vue({
+  el: '#latest-app',
+  data: {
+    post_date: latest_data
+  },
+   computed: {
+    // a computed getter
+    readable_date: function () {
+      // `this` points to the vm instance
+      if(this.post_date.update === "loading latest updates"){
+          return "loading latest updates";
+      }
+      return moment(this.post_date.update).twitterLong() + ' ago';
+    }
+  }
+});
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    post_date: post_data
+  }
+});
+
+var local_cache = localStorage.getItem("live-latest");
+
+if(local_cache !== null){
+    var todo_data = JSON.parse(local_cache);
+    todo_data.update = "loading latest updates";
+    latest_app.post_date = todo_data;
+    document.getElementById('latest-app').classList.remove('inner-app-hide');
+}
+
+function load_latest(){
+
+
+    var xhr = new XMLHttpRequest();
+
+    xhr.open("GET","https://live.rweekly.org/latest.json");
+    xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+
+        localStorage.setItem("live-latest", xhr.responseText);
+        var myArr = JSON.parse(xhr.responseText);
+
+        latest_app.post_date = myArr;
+        document.getElementById('latest-app').classList.remove('inner-app-hide');
+        // add_external_links();
+    }
+    };
+    xhr.send();
+}
+
+document.addEventListener('DOMContentLoaded', load_latest);
+
+setInterval(load_latest, 30000);
+
+</script>
+
+
+<script>
+function format_a_date(now_date){
+  return now_date.getFullYear()+ '-' + (now_date.getMonth()+1) + '-' + now_date.getDate();
+}
+
+function format_year_month(now_date){
+  return now_date.getFullYear()+ '-' + (now_date.getMonth()+1);
+}
+
+var curr = format_year_month(new Date());
+
+curr = format_year_month(moment(new Date(curr)).subtract(1,"months").toDate());
+
+var next_status = false;
+
+function scroll_loading(){
+   if(next_status === false && ((window.scrollY + window.innerHeight + 400) >= document.body.offsetHeight) ) {
+            next_status = true;
+            document.getElementById('next-text').classList.remove('inner-app-hide');
+
+            var xhr = new XMLHttpRequest();
+            console.log(curr);
+            xhr.open("GET","https://live.rweekly.org/"+ curr+".json");
+            xhr.onreadystatechange = function() {
+            if (xhr.readyState == 4 && xhr.status == 200) {
+                var myArr = (JSON.parse(xhr.responseText)).obj;
+                for(var ii =0; ii!= myArr.length; ii++){
+                    app.post_date.push(myArr[ii]);
+                }
+                next_status = false;
+                document.getElementById('app').classList.remove('inner-app-hide');
+                document.getElementById('next-text').classList.add('inner-app-hide');
+            }else if (xhr.readyState == 4){
+                next_status = false;
+                document.getElementById('next-text').classList.add('inner-app-hide');
+            }
+            };
+            xhr.send();
+            _paq.push(['trackEvent', "live-new-page", "new page", format_year_month(new Date(curr))]);
+            curr = format_year_month(moment(new Date(curr)).subtract(1,"months").toDate());
+   }
+}
+
+window.addEventListener("scroll",scroll_loading);
+
+
+
+</script>
+
+
+{% endraw %}
+
