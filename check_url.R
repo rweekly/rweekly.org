@@ -1,4 +1,4 @@
-install.packages("https://github.com/jeroenooms/curl/archive/master.tar.gz", repos = NULL)
+install.packages("https://github.com/jeroen/curl/archive/master.tar.gz", repos = NULL)
 
 
 test.local.urls <- function(path, timeout = 100, total_con = 30, host_con = 6, ...){
