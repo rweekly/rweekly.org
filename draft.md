@@ -14,8 +14,7 @@ Release Date: 2017-03-20
 
 ### Insights
 
-
-
++ [Why I love R Notebooks](https://www.rstudio.com/rviews/2017/03/15/why-i-love-r-notebooks/)
 
 
 ### Videos and Podcasts
@@ -46,7 +45,8 @@ Release Date: 2017-03-20
 
 ### Tutorials
 
-
++ [1 dataset, 10 visualisations with R](http://colinfay.me/1-dataset-10-dataviz-with-r/)
++ [Bar bar plots but not Babar plots](http://www.masalmon.eu/2017/02/19/babarplot/)
 
 
 ### Resources
