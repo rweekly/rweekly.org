@@ -17,6 +17,17 @@ title: Live
     display: none;
 }
 
+.tocify {
+    display: none;
+}
+.container {
+    max-width: 38rem;
+    padding-left:  1.5em;
+    padding-right: 1.5rem;
+    margin-left:  auto;
+    margin-right: auto;
+}
+
 </style>
 
 {% raw %}
@@ -30,11 +41,11 @@ title: Live
     <div v-for="link in item.links" class="" >
         <ul>
         <li>
-            <p v-if="link.N !== undefined">
-                <a rel="nofollow noopener" v-bind:href="link.U">{{ link.T }}</a>  - {{ link.N }}
+            <p class="added-hostname" v-if="link.N !== undefined">
+                <a class="externalLink" target="_blank" rel="nofollow noopener" v-bind:href="link.U">{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a>  - {{ link.N }} <span  style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
             </p>
-            <p v-else>
-                <a rel="nofollow noopener" v-bind:href="link.U">{{ link.T }}</a>
+            <p  class="added-hostname" v-else>
+                <a  class="externalLink" target="_blank"   rel="nofollow noopener" v-bind:href="link.U">{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a><span style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
             </p>
         </li>
         </ul>
@@ -51,11 +62,11 @@ title: Live
     <div v-for="link in item.links" class="" >
         <ul>
         <li>
-            <p v-if="link.N !== undefined">
-                <a rel="nofollow noopener" v-bind:href="link.U">{{ link.T }}</a>  - {{ link.N }}
+            <p class="added-hostname" v-if="link.N !== undefined">
+                <a class="externalLink" target="_blank" rel="nofollow noopener" v-bind:href="link.U">{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a>  - {{ link.N }} <span  style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
             </p>
-            <p v-else>
-                <a rel="nofollow noopener" v-bind:href="link.U">{{ link.T }}</a>
+            <p  class="added-hostname" v-else>
+                <a  class="externalLink" target="_blank"   rel="nofollow noopener" v-bind:href="link.U">{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a><span style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
             </p>
         </li>
         </ul>
@@ -73,6 +84,12 @@ title: Live
 <script src="/public/moment.min.js" charset="utf-8"></script>
 
 <script>
+
+function get_host(text){
+    var aurl = document.createElement('a');
+    aurl.href = text;
+    return aurl.host;
+}
 
 var weekday = new Array(7);
 weekday[0] =  "Sunday";
@@ -165,7 +182,7 @@ function format_year_month(now_date){
 
 var curr = format_year_month(new Date());
 
-curr = format_year_month(moment(new Date(curr)).subtract(1,"months").toDate());
+curr = format_year_month(moment(curr,"YYYY-MM").subtract(1,"months").toDate());
 
 var next_status = false;
 
@@ -193,10 +210,11 @@ function scroll_loading(){
             };
             xhr.send();
             _paq.push(['trackEvent', "live-new-page", "new page", format_year_month(new Date(curr))]);
-            curr = format_year_month(moment(new Date(curr)).subtract(1,"months").toDate());
+            curr = format_year_month(moment(curr,"YYYY-MM").subtract(1,"months").toDate());
    }
 }
 
+window.addEventListener("touchmove",scroll_loading);
 window.addEventListener("scroll",scroll_loading);
 
 

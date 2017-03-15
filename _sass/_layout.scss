@@ -106,10 +106,16 @@ body.show-origin {
   text.tooltiptext {
       color: #999;
   }
+  span.tooltiptext {
+      color: #999;
+  }
 }
 
 body.hide-origin {
   text.tooltiptext {
+    display: none;
+  }
+  span.tooltiptext {
     display: none;
   }
   .externalLink .spantext {
