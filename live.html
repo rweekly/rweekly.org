@@ -1,6 +1,6 @@
 ---
 layout: vue-inline-page
-title: Live
+title: Live Updates and Bloggers from Data Science Community
 ---
 
 <style>
@@ -34,6 +34,28 @@ title: Live
 .post-hide-ds .is-ds{
     display: none
 }
+
+@media (min-width: 650px){
+    .masthead{
+        position: fixed;
+        background-color: white;
+        opacity: 0.9;
+        width: 100%;
+        z-index: 10;
+        -webkit-box-shadow: 0px 0px 8px 8px white;
+        box-shadow: 0px 0px 8px 8px white;
+
+        padding-bottom: 0.4rem;
+    }
+    #main-article{
+        padding-top: 90px;
+    }
+}
+
+.title-inline{
+    font-size: 16px;
+    font-weight: normal;
+}
 </style>
 
 {% raw %}
@@ -41,7 +63,9 @@ title: Live
 <div id="main-post" class="post">
 
 <div id="latest-app" class="inner-app-hide">
-  <p>Updated: {{ readable_date }} &nbsp;&nbsp; Show DS: <a href="#" id="ds-status">yes</a><p>
+  
+  <p>Updated: {{ readable_date }}&nbsp;&nbsp; Show DS: <a href="#" id="ds-status">&nbsp;yes</a></p>
+
   <div class="like-table" v-for="item in post_date.obj">
     <h3 v-bind:id="item.date">{{ item.date }}</h3>
     <div v-for="link in item.links" class="" >
