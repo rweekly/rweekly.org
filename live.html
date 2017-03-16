@@ -185,16 +185,7 @@ var app = new Vue({
   }
 });
 
-var loaded_live_js = false;
-
 function load_latest(){
-
-    if(loaded_live_js !== true && typeof _js_live_rweekly_json !== "undefined"){
-            latest_data.post_date = _js_live_rweekly_json;
-            document.getElementById('latest-app').classList.remove('inner-app-hide');
-            loaded_live_js = true;
-            console.log("using livejs");
-    }
 
     var xhr = new XMLHttpRequest();
 
@@ -206,7 +197,6 @@ function load_latest(){
         var myArr = JSON.parse(xhr.responseText);
 
         latest_app.post_date = myArr;
-        loaded_live_js = true;
         document.getElementById('latest-app').classList.remove('inner-app-hide');
         // add_external_links();
     }
