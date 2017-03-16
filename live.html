@@ -127,11 +127,6 @@ function ds_feature(e){
         document.getElementById('main-post').classList.add('post-hide-ds');
     }
 }
-</script>
-
-<script src="/public/moment.min.js" charset="utf-8"></script>
-
-<script>
 
 function is_ds(value){
     if(value === 1){
@@ -190,8 +185,16 @@ var app = new Vue({
   }
 });
 
+var loaded_live_js = false;
+
 function load_latest(){
 
+    if(loaded_live_js !== true && typeof _js_live_rweekly_json !== "undefined"){
+            latest_data.post_date = _js_live_rweekly_json;
+            document.getElementById('latest-app').classList.remove('inner-app-hide');
+            loaded_live_js = true;
+            console.log("using livejs");
+    }
 
     var xhr = new XMLHttpRequest();
 
@@ -203,12 +206,14 @@ function load_latest(){
         var myArr = JSON.parse(xhr.responseText);
 
         latest_app.post_date = myArr;
+        loaded_live_js = true;
         document.getElementById('latest-app').classList.remove('inner-app-hide');
         // add_external_links();
     }
     };
     xhr.send();
 }
+
 
 document.addEventListener('DOMContentLoaded', function(){
     var local_cache = localStorage.getItem("live-latest");
@@ -219,24 +224,21 @@ document.addEventListener('DOMContentLoaded', function(){
         latest_app.post_date = todo_data;
         document.getElementById('latest-app').classList.remove('inner-app-hide');
     }
+    
     load_latest();
     document.getElementById('ds-status').addEventListener("click",ds_feature);
     if (localStorage.getItem("feature-ds") === 'false'){
-    document.getElementById('ds-status').innerText = " no ";
-    document.getElementById('main-post').classList.add('post-hide-ds');
-} else {
-    document.getElementById('ds-status').innerText = " yes ";
-    document.getElementById('main-post').classList.remove('post-hide-ds');
-}
+        document.getElementById('ds-status').innerText = " no ";
+        document.getElementById('main-post').classList.add('post-hide-ds');
+    } else {
+        document.getElementById('ds-status').innerText = " yes ";
+        document.getElementById('main-post').classList.remove('post-hide-ds');
+    }
 
 });
 
 setInterval(load_latest, 30000);
 
-</script>
-
-
-<script>
 function format_a_date(now_date){
   return now_date.getFullYear()+ '-' + (now_date.getMonth()+1) + '-' + now_date.getDate();
 }
@@ -281,8 +283,6 @@ function scroll_loading(){
 
 window.addEventListener("touchmove",scroll_loading);
 window.addEventListener("scroll",scroll_loading);
-
-
 
 </script>
 
