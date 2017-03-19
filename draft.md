@@ -25,6 +25,11 @@ Release Date: 2017-03-20
 
 ### Videos and Podcasts
 
++ [Learning to learn - R Weekly Podcast 2017:12](https://www.youtube.com/watch?v=2aU8oFDul_w) - [Podcast RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2aU8oFDul_w" frameborder="0" allowfullscreen></iframe>
+
+
 + [NSSD 34 F Dist](https://soundcloud.com/nssd-podcast/episode-34-f-dist) - Hilary and Roger discuss Stitch Fix's massive Algorithms Tour, reproducibility from a physical scientist perspective, and interpretability in machine learning.
 
 
@@ -184,7 +189,17 @@ Release Date: 2017-03-20
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ When the condition `code` in `if(.)` or `while(.)` is not of length one, an error instead of a warning may be triggered by setting an environment variable, see the help page. 
 
++ `sample()` now uses two uniforms for added precision when the uniform generator is `Knuth-TAOCP`, `Knuth-TAOCP-2002`, or a user-defined generator and the population size is 2^25 or greater. 
+
++ There is support for compiling C++14 or C++17 code in packages on suitable platforms: see `Writing R Extensions` for how to request this.
+
++ `configure` tests for a C++17-compliant compiler. The tests are experimental and subject to change in the future.
+
++ `strwrap()` reduces `indent` if it is more than half `width` rather than giving an error.
+
++ ‘R CMD config’ gains a ‘--all’ option for printing names and values of all basic configure variables. It now knows about all the variables used for the C++98, C++11 and C++14 standards.
 
 
 ### Upcoming Events
