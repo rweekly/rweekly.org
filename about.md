@@ -65,8 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 }
                 
                 // handle xhr
-
-                var final_url = "https://api.rweekly.org/rating?value=" + chosen_value;
+                var final_url = "https://api.rweekly.org/rating?value=" + chosen_value + "&path=" + encodeURIComponent(window.location.href);
 
                 var xhr = new XMLHttpRequest();
                 var time_xhr = (new Date()).getTime();
