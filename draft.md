@@ -161,6 +161,12 @@ Release Date: 2017-03-20
 
 + [imager 0.40.1](https://cran.r-project.org/web/packages/imager/vignettes/pixsets.html) - imager: Image Processing Library Based on `CImg`
 
++ [doFuture 0.4.0](http://www.jottr.org/2017/03/dofuture-universal-foreach-adapator.html) - doFuture: A universal foreach adaptor ready to be used by 1,000+ packages
+
++ [future 1.4.0](https://cran.r-project.org/package=future) - future: Unified Parallel and Distributed Processing in R for Everyone
+
++ [future.BatchJobs 0.14.0](https://cran.r-project.org/package=future.BatchJobs) - future.BatchJobs: A Future API for Parallel and Distributed Processing using BatchJobs
+
 + [canvasXpress 0.14.7](https://github.com/neuhausi/canvasXpress) - canvasXpress was developed as the core visualization component for bioinformatics and systems biology analysis at Bristol-Myers Squibb.
 
 <p><img style="height:300px;" src="https://raw.githubusercontent.com/rweekly/image/master/2017-03/12-C6wMjJ0VoAAwsZv.jpeg" alt="canvasXpress 0.14.7"></p>
