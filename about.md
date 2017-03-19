@@ -59,10 +59,8 @@ Update the [draft](https://github.com/rweekly/rweekly.org/blob/gh-pages/draft.md
 </div>
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-    var stars = document.querySelectorAll('#star-rating-1 .stars-item');
-    for(var ii=0; ii!=stars.length;ii++){
-        stars[ii].addEventListener("click", function () {
+
+function stars_on_clicks_1() {
             if(this.getAttribute('click-done') !== "true"){
                 // handle stars
                 var chosen_value = parseInt(this.getAttribute('data-value'));
@@ -102,7 +100,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 document.getElementById('submit-form-1').setAttribute('stars-num', chosen_value);
 
             }
-        }.bind(stars[ii]));
+        }
+
+document.addEventListener("DOMContentLoaded", function () {
+    var stars = document.querySelectorAll('#star-rating-1 .stars-item');
+    for(var ii=0; ii!=stars.length;ii++){
+        stars[ii].addEventListener("click", stars_on_clicks_1.bind(stars[ii]));
+        stars[ii].addEventListener("touchend", stars_on_clicks_1.bind(stars[ii]));
     };
 
     document.getElementById( "submit-form-1" ).addEventListener( "submit", function(e) {

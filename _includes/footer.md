@@ -46,51 +46,55 @@ Subscribe R Weekly with <a href="https://feedburner.google.com/fb/a/mailverify?u
 </div>
 
 <script>
+
+function stars_on_clicks() {
+    if(this.getAttribute('click-done') !== "true"){
+        // handle stars
+        var stars = document.querySelectorAll('#star-rating .stars-item');
+        var chosen_value = parseInt(this.getAttribute('data-value'));
+
+        for(var jj=0; jj!=stars.length;jj++){
+            var curr = parseInt(stars[jj].getAttribute('data-value'));
+            if (curr > chosen_value){
+                stars[jj].innerHTML = '';
+            }else{
+                stars[jj].innerHTML = "★";
+            }
+            stars[jj].setAttribute('click-done',"true");
+        }
+
+        // handle xhr
+        var final_url = "https://api.rweekly.org/rating?value=" + chosen_value + "&path=" + encodeURIComponent(window.location.href);
+
+        var xhr = new XMLHttpRequest();
+        var time_xhr = (new Date()).getTime();
+        xhr.open("GET", final_url);
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState == 4 && ( xhr.status == 200 || xhr.status == 304 )) {
+                var xhr_res = JSON.parse(xhr.responseText);
+                if (xhr_res.hasOwnProperty('error')){
+                    document.getElementById('res-text').innerHTML = 'Thanks! You already voted today!';
+                    _paq.push(['trackEvent', "submit-rating", "error", xhr_res.error, (new Date()).getTime() - time_xhr]);
+                } else {
+                    _paq.push(['trackEvent', "submit-rating", "done", chosen_value, (new Date()).getTime() - time_xhr]);
+                }
+            }
+        }
+        xhr.send();
+        _paq.push(['trackEvent', "submit-rating", "begin", chosen_value]);
+
+        // handle show form
+        document.getElementById('submit-form').classList.remove('hided-form');
+        document.getElementById('submit-form').setAttribute('stars-num', chosen_value);
+
+    }
+}
+
 document.addEventListener("DOMContentLoaded", function () {
     var stars = document.querySelectorAll('#star-rating .stars-item');
     for(var ii=0; ii!=stars.length;ii++){
-        stars[ii].addEventListener("click", function () {
-            if(this.getAttribute('click-done') !== "true"){
-                // handle stars
-                var stars = document.querySelectorAll('#star-rating .stars-item');
-                var chosen_value = parseInt(this.getAttribute('data-value'));
-
-                for(var jj=0; jj!=stars.length;jj++){
-                    var curr = parseInt(stars[jj].getAttribute('data-value'));
-                    if (curr > chosen_value){
-                        stars[jj].innerHTML = '';
-                    }else{
-                        stars[jj].innerHTML = "★";
-                    }
-                    stars[jj].setAttribute('click-done',"true");
-                }
-
-                // handle xhr
-                var final_url = "https://api.rweekly.org/rating?value=" + chosen_value + "&path=" + encodeURIComponent(window.location.href);
-
-                var xhr = new XMLHttpRequest();
-                var time_xhr = (new Date()).getTime();
-                xhr.open("GET", final_url);
-                xhr.onreadystatechange = function() {
-                    if (xhr.readyState == 4 && ( xhr.status == 200 || xhr.status == 304 )) {
-                        var xhr_res = JSON.parse(xhr.responseText);
-                        if (xhr_res.hasOwnProperty('error')){
-                            document.getElementById('res-text').innerHTML = 'Thanks! You already voted today!';
-                            _paq.push(['trackEvent', "submit-rating", "error", xhr_res.error, (new Date()).getTime() - time_xhr]);
-                        } else {
-                            _paq.push(['trackEvent', "submit-rating", "done", chosen_value, (new Date()).getTime() - time_xhr]);
-                        }
-                    }
-                }
-                xhr.send();
-                _paq.push(['trackEvent', "submit-rating", "begin", chosen_value]);
-
-                // handle show form
-                document.getElementById('submit-form').classList.remove('hided-form');
-                document.getElementById('submit-form').setAttribute('stars-num', chosen_value);
-
-            }
-        }.bind(stars[ii]));
+        stars[ii].addEventListener("click", stars_on_clicks.bind(stars[ii]));
+        stars[ii].addEventListener("touchend", stars_on_clicks.bind(stars[ii]));
     };
 
     document.getElementById( "submit-form" ).addEventListener( "submit", function(e) {
