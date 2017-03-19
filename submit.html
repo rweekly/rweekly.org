@@ -6,12 +6,12 @@ title: Submit
 <div class="post">
 {% raw %}
 
-<form id="submit-form" class="pure-form">
+<form id="submit-form-1" class="pure-form">
 
     <fieldset class="pure-group">
-        <input id="submit-url" type="url" value='https://' required style="width: 90%" class="pure-input-1 submit-form-90 " placeholder="URL" text="https://">
-        <textarea id="submit-desc" required style="width: 90%" class="pure-input-1 submit-form-90 " placeholder="short description"></textarea>
-        <input id="submit-email" style="width: 90%" class="pure-input-1 submit-form-90" placeholder="contact">
+        <input id="submit-url-1" type="url" value='https://' required style="width: 90%" class="pure-input-1 submit-form-90 " placeholder="URL" text="https://">
+        <textarea id="submit-desc-1" required style="width: 90%" class="pure-input-1 submit-form-90 " placeholder="short description"></textarea>
+        <input id="submit-email-1" style="width: 90%" class="pure-input-1 submit-form-90" placeholder="contact">
     </fieldset>
 
     <button id="link-submit" style="margin:0 0 0 0 ;width: 44.5%; display: inline-block;" type="submit" class="pure-button pure-input-1-2 pure-button-primary">Submit</button>
@@ -33,7 +33,7 @@ title: Submit
 
 <p></p>
 
-<div style="display: none;" id="dialog" title="Submission Status">
+<div style="display: none;" id="dialog-1" title="Submission Status">
   <p></p>
 </div>
 
@@ -46,9 +46,9 @@ title: Submit
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-    document.getElementById( "submit-form" ).addEventListener( "submit", function(e) {
+    document.getElementById( "submit-form-1" ).addEventListener( "submit", function(e) {
     e.preventDefault();
-    var final_url = "https://api.rweekly.org/submit?url=" + encodeURIComponent(document.getElementById('submit-url').value) + '&desc=' + encodeURIComponent(document.getElementById('submit-desc').value) + '&email=' + encodeURIComponent(document.getElementById('submit-email').value);
+    var final_url = "https://api.rweekly.org/submit?url=" + encodeURIComponent(document.getElementById('submit-url-1').value) + '&desc=' + encodeURIComponent(document.getElementById('submit-desc-1').value) + '&email=' + encodeURIComponent(document.getElementById('submit-email').value);
     console.log(final_url);
     var xhr = new XMLHttpRequest();
     var time_xhr = (new Date()).getTime();
@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (xhr.readyState == 4 && ( xhr.status == 200 || xhr.status == 304 )) {
             var xhr_res = JSON.parse(xhr.responseText);
             if (xhr_res.hasOwnProperty('error')){
-                document.getElementById('dialog').firstElementChild.innerHTML = 'Error: ' + xhr_res.error + '. See you tomorrow!';
+                document.getElementById('dialog-1').firstElementChild.innerHTML = 'Error: ' + xhr_res.error + '. See you tomorrow!';
                 _paq.push(['trackEvent', "submit-link", "error", xhr_res.error, (new Date()).getTime() - time_xhr]);
             } else {
                 _paq.push(['trackEvent', "submit-link", "done", xhr_res.url, (new Date()).getTime() - time_xhr]);
@@ -68,11 +68,11 @@ document.addEventListener("DOMContentLoaded", function () {
                     words = 'link';
                 }
                 
-                document.getElementById('dialog').firstElementChild.innerHTML = 'Thanks! You submited ' + xhr_res.num_today + ' ' + words + ' today.';
-                document.getElementById('submit-url').value = 'https://'
-                document.getElementById('submit-desc').value = ''
+                document.getElementById('dialog-1').firstElementChild.innerHTML = 'Thanks! You submited ' + xhr_res.num_today + ' ' + words + ' today.';
+                document.getElementById('submit-url-1').value = 'https://'
+                document.getElementById('submit-desc-1').value = ''
             }
-            $( "#dialog" ).dialog({
+            $( "#dialog-1" ).dialog({
                 show: {
                     effect: "fade",
                     duration: 300
@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
     xhr.send();
-    _paq.push(['trackEvent', "submit-link", "begin", document.getElementById('submit-url').value]);
+    _paq.push(['trackEvent', "submit-link", "begin", document.getElementById('submit-url-1').value]);
     });
 
     document.getElementById( "list-links" ).addEventListener( "click", function(e) {
