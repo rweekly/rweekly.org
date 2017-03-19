@@ -40,41 +40,20 @@ Update the [draft](https://github.com/rweekly/rweekly.org/blob/gh-pages/draft.md
 
 ### Communication
 
-<style>
-.hided-form{
-    display:none;
-}
-.rating {
-    unicode-bidi: bidi-override;
-    direction: rtl;
-    text-align: left;
-    color: orange;
-    font-size: 30px;
-}
-.rating > span {
-  display: inline-block;
-  position: relative;
-  width: 1.1em;
-}
-.rating > span:hover:before,
-.rating > span:hover ~ span:before {
-   content: "\2605";
-   position: absolute;
-}
-</style>
 
-<div id="star-rating" class="rating" style="margin-bottom:10px;" >
+<div id="star-rating-1" class="rating" style="margin-bottom:10px;" >
 <span class="stars-item" data-value="5">☆</span><span class="stars-item" data-value="4">☆</span><span class="stars-item" data-value="3">☆</span><span class="stars-item" data-value="2">☆</span><span class="stars-item" data-value="1">☆</span>
 </div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-    var stars = document.querySelectorAll('.stars-item');
+    var stars = document.querySelectorAll('#star-rating-1 .stars-item');
     for(var ii=0; ii!=stars.length;ii++){
         stars[ii].addEventListener("click", function () {
             if(this.getAttribute('click-done') !== "true"){
                 // handle stars
-                var stars = document.querySelectorAll('.stars-item');
+                var chosen_value = parseInt(this.getAttribute('data-value'));
+                var stars = document.querySelectorAll('#star-rating-1 .stars-item');
                 for(var jj=0; jj!=stars.length;jj++){
                     var curr = parseInt(stars[jj].getAttribute('data-value'));
                     if (curr > chosen_value){
@@ -86,9 +65,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 }
                 
                 // handle xhr
-                var chosen_value = parseInt(this.getAttribute('data-value'));
+
                 var final_url = "https://api.rweekly.org/rating?value=" + chosen_value;
-                console.log(final_url);
+
                 var xhr = new XMLHttpRequest();
                 var time_xhr = (new Date()).getTime();
                 xhr.open("GET", final_url);
@@ -96,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     if (xhr.readyState == 4 && ( xhr.status == 200 || xhr.status == 304 )) {
                         var xhr_res = JSON.parse(xhr.responseText);
                         if (xhr_res.hasOwnProperty('error')){
-                            document.getElementById('res-text').innerHTML = 'Thanks! You already voted today!';
+                            document.getElementById('res-text-1').innerHTML = 'Thanks! You already voted today!';
                             _paq.push(['trackEvent', "submit-rating", "error", xhr_res.error, (new Date()).getTime() - time_xhr]);
                         } else {
                             _paq.push(['trackEvent', "submit-rating", "done", chosen_value, (new Date()).getTime() - time_xhr]);
@@ -107,8 +86,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 _paq.push(['trackEvent', "submit-rating", "begin", chosen_value]);
 
                 // handle show form
-                document.getElementById('submit-form').classList.remove('hided-form');
-                document.getElementById('submit-form').setAttribute('stars-num', chosen_value);
+                document.getElementById('submit-form-1').classList.remove('hided-form');
+                document.getElementById('submit-form-1').setAttribute('stars-num', chosen_value);
 
             }
         }.bind(stars[ii]));
@@ -116,31 +95,29 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
-<form id="submit-form" class="hided-form pure-form" style="margin-bottom: 20px;">
-    <p id="res-text">Thanks for your feedback!</p>
+<form id="submit-form-1" class="hided-form pure-form" style="margin-bottom: 20px;">
+    <p id="res-text-1">Thanks for your feedback!</p>
     <fieldset class="pure-group">
 
-        <textarea id="submit-desc" required="" style="width: 90%" class="pure-input-1 submit-form-90 " placeholder="More ideas about R Weekly"></textarea>
-        <input id="submit-email" style="width: 90%" class="pure-input-1 submit-form-90" placeholder="contact">
+        <textarea id="submit-desc-1" required="" style="width: 90%" class="pure-input-1 submit-form-90 " placeholder="More ideas about R Weekly"></textarea>
+        <input id="submit-email-1" style="width: 90%" class="pure-input-1 submit-form-90" placeholder="contact">
     </fieldset>
 
-    <button id="link-submit" type="submit" class="pure-button pure-input pure-button-primary" style="width:90%;display: inline-block;">Submit</button>
+    <button id="link-submit-1" type="submit" class="pure-button pure-input pure-button-primary" style="width:90%;display: inline-block;">Submit</button>
 </form>
-<div style="display: none;" id="dialog" title="Submission Status">
+<div style="display: none;" id="dialog-1" title="Submission Status">
   <p></p>
 </div>
 
 <script>
-    document.getElementById( "submit-form" ).addEventListener( "submit", function(e) {
+    document.getElementById( "submit-form-1" ).addEventListener( "submit", function(e) {
     e.preventDefault();
 
     var final_url = {};
-    final_url.value = (document.getElementById('submit-form').getAttribute('stars-num'));
-    final_url.desc = (document.getElementById('submit-desc').value);
-    final_url.email = (document.getElementById('submit-email').value);
+    final_url.value = (document.getElementById('submit-form-1').getAttribute('stars-num'));
+    final_url.desc = (document.getElementById('submit-desc-1').value);
+    final_url.email = (document.getElementById('submit-email-1').value);
 
-
-    console.log(final_url);
     var xhr = new XMLHttpRequest();
     var time_xhr = (new Date()).getTime();
     xhr.open("POST", "https://api.rweekly.org/feedback", true);
@@ -148,16 +125,17 @@ document.addEventListener("DOMContentLoaded", function () {
         if (xhr.readyState == 4 && ( xhr.status == 200 || xhr.status == 304 )) {
             var xhr_res = JSON.parse(xhr.responseText);
             if (xhr_res.hasOwnProperty('error')){
-                document.getElementById('dialog').firstElementChild.innerHTML = 'Sorry, there are too many requests. You can also talk to us with Twitter or Google Group!';
+                document.getElementById('dialog-1').firstElementChild.innerHTML = 'Sorry, there are too many requests. You can also talk to us with Twitter or Google Group!';
                 _paq.push(['trackEvent', "submit-feedback", "error", (new Date()).getTime() - time_xhr]);
             } else {
                 _paq.push(['trackEvent', "submit-feedback", "done", (new Date()).getTime() - time_xhr]);
                 var words; 
                 
-                document.getElementById('dialog').firstElementChild.innerHTML = 'Thanks for your feedback!';
-                document.getElementById('submit-desc').value = ''
+                document.getElementById('dialog-1').firstElementChild.innerHTML = 'Thanks for your feedback!';
+                document.getElementById('submit-desc-1').value = '';
+                document.getElementById('submit-email-1').value = '';
             }
-            $( "#dialog" ).dialog({
+            $( "#dialog-1" ).dialog({
                 show: {
                     effect: "fade",
                     duration: 300
@@ -174,6 +152,7 @@ document.addEventListener("DOMContentLoaded", function () {
     _paq.push(['trackEvent', "submit-feedback", "begin"]);
     });
 </script>
+
 Have a question or great idea about this website? 
 
 Talk with us on [Twitter](https://twitter.com/rweekly_org) or [Google Groups](https://groups.google.com/forum/#!forum/rweekly).
