@@ -45,7 +45,7 @@ title: Submit
 
 
 <script>
-
+document.addEventListener("DOMContentLoaded", function () {
     document.getElementById( "submit-form" ).addEventListener( "submit", function(e) {
     e.preventDefault();
     var final_url = "https://api.rweekly.org/submit?url=" + encodeURIComponent(document.getElementById('submit-url').value) + '&desc=' + encodeURIComponent(document.getElementById('submit-desc').value) + '&email=' + encodeURIComponent(document.getElementById('submit-email').value);
@@ -123,10 +123,9 @@ title: Submit
     xhr.send();
     _paq.push(['trackEvent', "list-latest-links", "begin"]);
     });
-
+});
 
 // Vue.config.devtools = true;
-
 
 </script>
 

@@ -40,9 +40,22 @@ Update the [draft](https://github.com/rweekly/rweekly.org/blob/gh-pages/draft.md
 
 ### Communication
 
-
 <div id="star-rating-1" class="rating" style="margin-bottom:10px;" >
 <span class="stars-item" data-value="5">☆</span><span class="stars-item" data-value="4">☆</span><span class="stars-item" data-value="3">☆</span><span class="stars-item" data-value="2">☆</span><span class="stars-item" data-value="1">☆</span>
+</div>
+
+<form id="submit-form-1" class="hided-form pure-form" style="margin-bottom: 20px;">
+    <p id="res-text-1">Thanks for your feedback!</p>
+    <fieldset class="pure-group">
+
+        <textarea id="submit-desc-1" required="" style="width: 90%" class="pure-input-1 submit-form-90 " placeholder="More ideas about R Weekly"></textarea>
+        <input id="submit-email-1" style="width: 90%" class="pure-input-1 submit-form-90" placeholder="contact">
+    </fieldset>
+
+    <button id="link-submit-1" type="submit" class="pure-button pure-input pure-button-primary" style="width:90%;display: inline-block;">Submit</button>
+</form>
+<div style="display: none;" id="dialog-1" title="Submission Status">
+  <p></p>
 </div>
 
 <script>
@@ -90,25 +103,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
             }
         }.bind(stars[ii]));
-    }
-});
-</script>
+    };
 
-<form id="submit-form-1" class="hided-form pure-form" style="margin-bottom: 20px;">
-    <p id="res-text-1">Thanks for your feedback!</p>
-    <fieldset class="pure-group">
-
-        <textarea id="submit-desc-1" required="" style="width: 90%" class="pure-input-1 submit-form-90 " placeholder="More ideas about R Weekly"></textarea>
-        <input id="submit-email-1" style="width: 90%" class="pure-input-1 submit-form-90" placeholder="contact">
-    </fieldset>
-
-    <button id="link-submit-1" type="submit" class="pure-button pure-input pure-button-primary" style="width:90%;display: inline-block;">Submit</button>
-</form>
-<div style="display: none;" id="dialog-1" title="Submission Status">
-  <p></p>
-</div>
-
-<script>
     document.getElementById( "submit-form-1" ).addEventListener( "submit", function(e) {
     e.preventDefault();
 
@@ -150,6 +146,8 @@ document.addEventListener("DOMContentLoaded", function () {
     xhr.send(JSON.stringify(final_url));
     _paq.push(['trackEvent', "submit-feedback", "begin"]);
     });
+});
+
 </script>
 
 Have a question or great idea about this website? 
