@@ -32,6 +32,7 @@ Release Date: 2017-03-20
 
 + [NSSD 34 F Dist](https://soundcloud.com/nssd-podcast/episode-34-f-dist) - Hilary and Roger discuss Stitch Fix's massive Algorithms Tour, reproducibility from a physical scientist perspective, and interpretability in machine learning.
 
++ [R and data journalism in New Zealand - Ihaka Lecture Series 2017](https://www.youtube.com/watch?v=hLVlZpi4azw)
 
 ### R in the Real World
 
