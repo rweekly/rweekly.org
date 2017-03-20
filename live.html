@@ -56,6 +56,21 @@ title: Live Updates and Bloggers from Data Science Community
     font-size: 16px;
     font-weight: normal;
 }
+
+body.no-feature-like .upvote-click{
+    display: initial;
+}
+
+body.no-feature-like .like-beta {
+    display: initial;
+}
+body.no-feature-like .liketext {
+    display: initial;
+}
+
+body.no-feature-like .hidetext {
+    display: none;
+}
 </style>
 
 {% raw %}
@@ -112,6 +127,7 @@ title: Live Updates and Bloggers from Data Science Community
 </div> 
 
 <script>
+var rweekly_is_live = true;
 
 function ds_feature(e){
     e.preventDefault();

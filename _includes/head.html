@@ -45,25 +45,7 @@
     // external
     var shortregex = /^((www)|(blog))\./
 
-
-    if (localStorage.getItem("feature-like") == 'true'){
-      // up arrow
-      var a_g = document.createElement('a');
-      a_g.href = '#';
-
-      var img_g = document.createElement('img');
-      var text_g = document.createElement('text');
-      img_g.src = '/public/up.svg';
-      img_g.alt = "Like!";
-      img_g.style = "";
-      img_g.classList.add('upvote');
-      text_g.innerText = ' Like ';
-      text_g.classList.add("hidetext");
-      text_g.classList.add("liketext");
-
-      a_g.appendChild(img_g);
-      a_g.appendChild(text_g);
-    }
+    var a_g = false;
 
     function add_external_links() {
       var links = document.querySelectorAll(".post a");
@@ -90,8 +72,24 @@
         }
       }
 
-      if (localStorage.getItem("feature-like")  == 'true'){
+      if (localStorage.getItem("feature-like")  == 'true' || typeof rweekly_is_live !== "undefined"){
+        if(a_g ===false){
+            a_g = document.createElement('a');
+            a_g.href = '#';
 
+            var img_g = document.createElement('img');
+            var text_g = document.createElement('text');
+            img_g.src = '/public/up.svg';
+            img_g.alt = "Like!";
+            img_g.style = "";
+            img_g.classList.add('upvote');
+            text_g.innerText = ' Like ';
+            text_g.classList.add("hidetext");
+            text_g.classList.add("liketext");
+
+            a_g.appendChild(img_g);
+            a_g.appendChild(text_g);
+        }
         var links = document.querySelectorAll(".post li");
         for (var i = 0, linksLength = links.length; i < linksLength; i++) {
           if (!links[i].classList.contains("added-up")) {
@@ -110,7 +108,7 @@
                     var upvote_item = a_g_clone.querySelector('.upvote');
                     upvote_item.classList.remove('upvote');
                     upvote_item.classList.add('upvote-click');
-                    a_g_clone.querySelector('text').classList.remove("hidetext");
+                    // a_g_clone.querySelector('text').classList.remove("hidetext");
                 }
 
                 current_a.addEventListener("mousedown", function(){

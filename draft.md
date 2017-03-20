@@ -35,6 +35,9 @@ Release Date: 2017-03-20
 
 ### R in the Real World
 
++ [Exploring 2017 Retail Store Closings with R](https://rud.is/b/2017/03/19/exploring-2017-retail-store-closings-with-r/)
+
+![Exploring 2017 Retail Store Closings with R](https://raw.githubusercontent.com/rweekly/image/master/2017-03/12-closing-all.png)
 
 + [Because its Friday… The IKEA Billy index](https://longhowlam.wordpress.com/2017/03/17/because-its-friday-the-ikea-billy-index/)
 
@@ -111,7 +114,7 @@ Release Date: 2017-03-20
 
 ![Plotting trees from Random Forest models with ggraph](https://raw.githubusercontent.com/rweekly/image/master/2017-03/12-tree.png)
 
-+ [2D contours of several penalty functions in statistics as GIF images](http://www.alexejgossmann.com/norm_ball_gifs/)
++ [2D contours of several penalty functions in statistics as GIF images](http://www.alexejgossmann.com/contours_of_statistical_penalty_functions_as_GIFs/)
 
 + [Another R [Non-]Standard Evaluation Idea](http://www.win-vector.com/blog/2017/03/another-r-non-standard-evaluation-idea/)
 
@@ -161,6 +164,8 @@ Release Date: 2017-03-20
 + [unit](https://edzer.github.io/units/articles/measurement_units_in_R.html) - Measurement units in R
 
 ### New Releases
+
++ [Rcpp 0.12.10](http://dirk.eddelbuettel.com/blog/2017/03/19/#rcpp_0.12.10) - Provides C++ classes that greatly facilitate interfacing C or C++ code in R.
 
 + [RcppEigen 0.3.2.9.1](http://dirk.eddelbuettel.com/blog/2017/03/15#rcppeigen_0.3.2.9.1) - Rcpp Integration for the 'Eigen' Templated Linear Algebra Library
 

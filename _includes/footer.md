@@ -146,7 +146,7 @@ R Weekly @ [Patreon](https://www.patreon.com/rweekly) [Twitter](https://twitter.
 
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
 
-**R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org). Send us [feedback](https://rweekly.org/about.html#Communication).
+**R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org). Send us [feedback](https://rweekly.org/about.html#communication).
 
 R Weekly uses [cookies](/privacy) to improve user experience.
 

@@ -40,6 +40,6 @@ gems:
 
 pages_list:       
   Feed: '/atom.xml'
-  About: '/about.html'
-  All: '/archive.html'
-  Draft: '/draft.html'
+  About: '/about'
+  All: '/archive'
+  Draft: '/draft'
