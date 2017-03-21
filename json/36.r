@@ -132,10 +132,6 @@
     "href": "http://sgsong.blogspot.com/2010/08/integrating-r-and-gedit.html"
   },
   {
-    "title": "Gerber Statistic Implementation in Rcpp and OpenMP",
-    "href": "http://gallery.rcpp.org//articles/Gerber/"
-  },
-  {
     "title": "GTA R Users Group – Using R for Data Mining Competitions",
     "href": "http://www.compmath.com/blog/2011/11/gta-r-users-group-using-r-for-data-mining-competitions/"
   },

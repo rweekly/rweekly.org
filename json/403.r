@@ -86,11 +86,6 @@
     "des": ""
   },
   {
-    "title": "Gerber Statistic Implementation in Rcpp and OpenMP",
-    "href": "http://gallery.rcpp.org//articles/Gerber/",
-    "des": ""
-  },
-  {
     "title": "Radial bar charts in R using Plotly",
     "href": "http://moderndata.plot.ly/radial-bar-charts-in-r-using-plotly/",
     "des": ""
