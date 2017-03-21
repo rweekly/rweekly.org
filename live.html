@@ -79,7 +79,7 @@ body.no-feature-like .hidetext {
 
 <div id="latest-app" class="inner-app-hide">
   
-  <p class="added-hostname"><a href="https://feedburner.google.com/fb/a/mailverify?uri=rweekly-live&amp;loc=en_US" id="mail-status" target="_blank" class="externalLink"><svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg" style="margin-right: 8px;height: 25px;width: 25px;padding-top: 5px;margin-bottom: -4;"><path style="fill:grey;" d="M1664 1504v-768q-32 36-69 66-268 206-426 338-51 43-83 67t-86.5 48.5-102.5 24.5h-2q-48 0-102.5-24.5t-86.5-48.5-83-67q-158-132-426-338-37-30-69-66v768q0 13 9.5 22.5t22.5 9.5h1472q13 0 22.5-9.5t9.5-22.5zm0-1051v-24.5l-.5-13-3-12.5-5.5-9-9-7.5-14-2.5h-1472q-13 0-22.5 9.5t-9.5 22.5q0 168 147 284 193 152 401 317 6 5 35 29.5t46 37.5 44.5 31.5 50.5 27.5 43 9h2q20 0 43-9t50.5-27.5 44.5-31.5 46-37.5 35-29.5q208-165 401-317 54-43 100.5-115.5t46.5-131.5zm128-37v1088q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-1088q0-66 47-113t113-47h1472q66 0 113 47t47 113z"></path></svg></a>Updated: {{ readable_date }}&nbsp;&nbsp; Show DS: <a href="#" id="ds-status">&nbsp;yes</a></p>
+  <p class="added-hostname"><a href="https://feedburner.google.com/fb/a/mailverify?uri=rweekly-live&amp;loc=en_US" id="mail-status" target="_blank" class="externalLink"><svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg" style="margin-right: 8px;height: 25px;width: 25px;padding-top: 5px;margin-bottom: -4;"><path style="fill:grey;" d="M1664 1504v-768q-32 36-69 66-268 206-426 338-51 43-83 67t-86.5 48.5-102.5 24.5h-2q-48 0-102.5-24.5t-86.5-48.5-83-67q-158-132-426-338-37-30-69-66v768q0 13 9.5 22.5t22.5 9.5h1472q13 0 22.5-9.5t9.5-22.5zm0-1051v-24.5l-.5-13-3-12.5-5.5-9-9-7.5-14-2.5h-1472q-13 0-22.5 9.5t-9.5 22.5q0 168 147 284 193 152 401 317 6 5 35 29.5t46 37.5 44.5 31.5 50.5 27.5 43 9h2q20 0 43-9t50.5-27.5 44.5-31.5 46-37.5 35-29.5q208-165 401-317 54-43 100.5-115.5t46.5-131.5zm128-37v1088q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-1088q0-66 47-113t113-47h1472q66 0 113 47t47 113z"></path></svg></a><a href="https://feeds.feedburner.com/rweekly-live" id="rss-status" target="_blank" class="externalLink"><svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg" style="margin-right: 8px; height: 25px; width: 25px; padding-top: 5px; margin-bottom: -4px;"><path d="M576 1344q0 80-56 136t-136 56-136-56-56-136 56-136 136-56 136 56 56 136zm512 123q2 28-17 48-18 21-47 21h-135q-25 0-43-16.5t-20-41.5q-22-229-184.5-391.5t-391.5-184.5q-25-2-41.5-20t-16.5-43v-135q0-29 21-47 17-17 43-17h5q160 13 306 80.5t259 181.5q114 113 181.5 259t80.5 306zm512 2q2 27-18 47-18 20-46 20h-143q-26 0-44.5-17.5t-19.5-42.5q-12-215-101-408.5t-231.5-336-336-231.5-408.5-102q-25-1-42.5-19.5t-17.5-43.5v-143q0-28 20-46 18-18 44-18h3q262 13 501.5 120t425.5 294q187 186 294 425.5t120 501.5z" style="fill:grey;"></path></svg></a>Updated: {{ readable_date }}&nbsp;&nbsp; Show DS: <a href="#" id="ds-status">&nbsp;yes</a></p>
 
   <div class="like-table" v-for="item in post_date.obj">
     <h3 v-bind:id="item.date">{{ item.date }}</h3>
@@ -137,12 +137,14 @@ function ds_feature(e){
         document.getElementById('ds-status').innerText = " yes ";
         document.getElementById('main-post').classList.remove('post-hide-ds');
         document.getElementById('mail-status').href = "https://feedburner.google.com/fb/a/mailverify?uri=rweekly-live&amp;loc=en_US";
+        document.getElementById('rss-status').href = "https://feeds.feedburner.com/rweekly-live";
     } else {
         localStorage.setItem("feature-ds", false);
         _paq.push(['trackEvent', 'set-ds', 'false']);
         document.getElementById('ds-status').innerText = " no ";
         document.getElementById('main-post').classList.add('post-hide-ds');
         document.getElementById('mail-status').href = "https://feedburner.google.com/fb/a/mailverify?uri=rweeklylive&amp;loc=en_US";
+        document.getElementById('rss-status').href = "https://feeds.feedburner.com/rweeklylive";
     }
 }
 
