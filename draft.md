@@ -21,7 +21,7 @@ Release Date: 2017-03-20
 
 ### R in the Real World
 
-
++ [Sentiment Analysis of Warren Buffett's Letters to Shareholders](http://michaeltoth.me/sentiment-analysis-of-warren-buffetts-letters-to-shareholders.html)
 
 
 ### R Internationally
