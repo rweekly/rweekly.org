@@ -45,7 +45,7 @@ Release Date: 2017-03-20
 
 ### Tutorials
 
-
++ [Faces of #rstats Twitter](http://www.masalmon.eu/2017/03/19/facesofr/)
 
 
 ### New Packages & Tools
