@@ -20,12 +20,12 @@
       <header class="masthead">
         <h3 class="masthead-title">
           <small><a href="{{ site.baseurl }}/" title="Home" style="padding: 0 9px 0 0;font-weight: bold;color: black; opacity: 1;">RWeekly.org</a></small>
+          <small><a href="/live" style = "padding: 0 9px 0 0;">Live</a></small>
           <small><a href="https://feedburner.google.com/fb/a/mailverify?uri=rweekly&amp;loc=en_US" target="_blank" onclick="_paq.push(['trackEvent', 'Mail', '1']);" style = "padding: 0 9px 0 0;">Mail</a></small>
           {% for page in site.pages_list %}
               <small><a href="{{ page[1]  }}" style = "padding: 0 9px 0 0;">{{ page[0] }}</a></small>
           {% endfor %}
           <small class="like-beta"><a href="/like" style = "padding: 0 9px 0 0;">Like</a></small>
-          <!--<small><a href="/live" style = "padding: 0 9px 0 0;">Live</a></small>-->
           <small><a href="/submit" style = "padding: 0 9px 0 0;">Submit</a></small>
           <small><a href="#" onclick="originMode();" style = "padding: 0 9px 0 0;">Origin</a></small>
           <small><a href="#" onclick="nightMode();" style = "padding: 0 9px 0 0;">Night</a></small>
