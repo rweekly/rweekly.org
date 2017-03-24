@@ -48,12 +48,17 @@ Release Date: 2017-03-20
 + [Faces of #rstats Twitter](http://www.masalmon.eu/2017/03/19/facesofr/)
 
 
-### New Packages & Tools
+### New Packages & Tools 
 
+<p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink"><i>Go Live for More New Pkgs</i></a></p>
 
++ [tensorflow](https://cran.r-project.org/web/packages/tensorflow/index.html) - R Interface to TensorFlow 
+
++ [giphyr](https://github.com/haozhu233/giphyr) - R Interface to the 'Giphy' 'API' 
+
+![giphyr](https://raw.githubusercontent.com/rweekly/image/master/2017-03/gifr.jpeg)
 
 ### New Releases
-
 
 
 ### Jobs

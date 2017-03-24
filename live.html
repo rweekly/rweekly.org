@@ -193,7 +193,7 @@ var latest_app = new Vue({
       if(this.post_date.update === "loading latest updates"){
           return "loading latest updates";
       }
-      return moment(this.post_date.update).twitterLong() + ' ago';
+      return moment(this.post_date.update).twitterLong();
     }
   }
 });
