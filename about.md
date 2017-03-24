@@ -156,7 +156,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 Have a question or great idea about this website? 
 
-Talk with us on [Twitter](https://twitter.com/rweekly_org) or [Google Groups](https://groups.google.com/forum/#!forum/rweekly).
+Talk with us on [Twitter](https://twitter.com/rweekly_org), [dev.to()](https://dev.to/rweekly) or [Google Groups](https://groups.google.com/forum/#!forum/rweekly).
 
 Thanks for reading!
 
