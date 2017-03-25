@@ -132,14 +132,22 @@ var rweekly_is_live = true;
 function ds_feature(e){
     e.preventDefault();
     if (localStorage.getItem("feature-ds") === 'false'){
-        localStorage.setItem("feature-ds", true);
+        try{
+            localStorage.setItem("feature-ds", true);
+        }catch(err1){
+            console.log(err1)
+        }
         _paq.push(['trackEvent', 'set-ds', 'true']);
         document.getElementById('ds-status').innerText = " yes ";
         document.getElementById('main-post').classList.remove('post-hide-ds');
         document.getElementById('mail-status').href = "https://feedburner.google.com/fb/a/mailverify?uri=rweekly-live&amp;loc=en_US";
         document.getElementById('rss-status').href = "https://feeds.feedburner.com/rweekly-live";
     } else {
-        localStorage.setItem("feature-ds", false);
+        try{
+            localStorage.setItem("feature-ds", false);
+        }catch(err1){
+            console.log(err1)
+        }
         _paq.push(['trackEvent', 'set-ds', 'false']);
         document.getElementById('ds-status').innerText = " no ";
         document.getElementById('main-post').classList.add('post-hide-ds');
@@ -212,8 +220,12 @@ function load_latest(){
     xhr.open("GET","https://live.rweekly.org/latest.json");
     xhr.onreadystatechange = function() {
     if (xhr.readyState == 4 && xhr.status == 200) {
+        try{
+            localStorage.setItem("live-latest", xhr.responseText);
+        }catch(err2){
+            console.log(err2);
+        }
 
-        localStorage.setItem("live-latest", xhr.responseText);
         var myArr = JSON.parse(xhr.responseText);
 
         latest_app.post_date = myArr;
