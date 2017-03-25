@@ -52,6 +52,8 @@ Release Date: 2017-03-27
 
 + [Because it's Friday: Run Ollie, Run!](http://blog.revolutionanalytics.com/2017/03/because-its-friday-run-ollie-run.html)
 
++ [How well do you know Calvin and Hobbes? An R Game](https://daranzolin.github.io/articles/2017-03/calvin_and_hobbes_game)
+
 ### R Internationally
 
 
@@ -81,6 +83,8 @@ Release Date: 2017-03-27
 ### Tutorials
 
 + [Registering Routines with Rcpp](https://ironholds.org/registering-routines/)
+
++ [Logistic Regression & Stepwise Selection: Gender Recognition by Voice](https://semilargedata.com/2017/03/21/machine-learning-gender-recognition-by-voice/)
 
 + [Tidying feature geometries with sf](http://r-spatial.org//r/2017/03/19/invalid.html)
 
