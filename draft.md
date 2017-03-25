@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2017 Issue 12
+title: R Weekly 2017 Issue 13
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2017-03-20
+Release Date: 2017-03-27
 
 ### Highlight
 
@@ -13,16 +13,44 @@ Release Date: 2017-03-20
 
 ### Insights
 
++ [Suggests != Depends](http://dirk.eddelbuettel.com/blog/2017/03/22#suggests_is_not_depends)
 
++ [Suggests and Vignettes](https://www.enchufa2.es/archives/suggests-and-vignettes.html)
+
++ [Challenge of our generation: reproducible, transparent and reliable science](https://science.mozilla.org/blog/2016-isbe-review)
+
++ [Use of an R package to facilitate reproducible research](https://github.com/ropensci/rrrpkg)
+
++ [Is Your Research Software Correct?](https://mikecroucher.github.io/MLPM_talk/)
 
 ### Videos and Podcasts
 
++ [DataChats: An Interview with Hank Roark](https://www.datacamp.com/community/blog/datachats-an-interview-with-hank-roark)
 
++ [Interactive visualisation and fast computation of the solution path ](https://www.youtube.com/watch?v=2g-akN6q8aI)
 
 ### R in the Real World
 
 + [Sentiment Analysis of Warren Buffett's Letters to Shareholders](http://michaeltoth.me/sentiment-analysis-of-warren-buffetts-letters-to-shareholders.html)
 
++ [House effects in New Zealand voting intention polls](http://ellisp.github.io/blog/2017/03/21/house-effects)
+
++ [Faces of #rstats Twitter](http://www.masalmon.eu/2017/03/19/facesofr/)
+
+![Faces of #rstats Twitter](https://raw.githubusercontent.com/rweekly/image/master/2017-03/13-2017-03-19-facesofr.png)
+
++ [On a First Name Basis with Statistics Sweden](http://staff.math.su.se/hoehle/blog/2017/03/25/scbnames.html)
+
++ [What's in the words? Comparing artists and lyrics with R.](http://rcrastinate.blogspot.com/2017/03/whats-in-words-comparing-artists-and.html)
+
++ [10 Million Dots: Mapping European Population](http://spatial.ly/2017/03/mapping-european-population/)
+
+![10 Million Dots: Mapping European Population](https://raw.githubusercontent.com/qinwf/doc/gh-pages/temp/european_population_density.png)
+
++ [Comparing subreddits, with Latent Semantic Analysis in R](http://blog.revolutionanalytics.com/2017/03/comparing-subreddits.html)
+
+
++ [Because it's Friday: Run Ollie, Run!](http://blog.revolutionanalytics.com/2017/03/because-its-friday-run-ollie-run.html)
 
 ### R Internationally
 
@@ -31,8 +59,15 @@ Release Date: 2017-03-20
 
 ### R in Organizations
 
++ [New mlr Logo](https://mlr-org.github.io/New-mlr-Logo/)
 
++ [Alteryx integrates with Microsoft R](http://blog.revolutionanalytics.com/2017/03/alteryx-integrates-with-microsoft-r.html)
 
++ [Running your R code on Azure with mrsdeploy](http://blog.revolutionanalytics.com/2017/03/running-your-r-code-azure.html)
+
++ [The Making of the Tour, Part 1 Process and Structure](http://multithreaded.stitchfix.com/blog/2017/03/23/making-the-tour-part-1/)
+
++ [Invest in tools students can grow with: GitHub and RStudio for data science at Duke University](https://github.com/blog/2336-invest-in-tools-students-can-grow-with-github-and-rstudio-for-data-science-at-duke-university)
 
 ### R in Academia
 
@@ -40,41 +75,110 @@ Release Date: 2017-03-20
 
 ### Resources
 
-
++ [Some Random Weekend Reading](https://www.rstudio.com/rviews/2017/03/24/some-random-weekend-reading/)
 
 
 ### Tutorials
 
-+ [Faces of #rstats Twitter](http://www.masalmon.eu/2017/03/19/facesofr/)
++ [Registering Routines with Rcpp](https://ironholds.org/registering-routines/)
 
++ [Tidying feature geometries with sf](http://r-spatial.org//r/2017/03/19/invalid.html)
+
++ [Simulating Unown encounter rates in Pokémon Go](https://tjmahr.github.io/pokemon-go-unown-simulation/)
+
++ [Preparing Datetime Data for Analysis with padr and dplyr](https://edwinth.github.io/blog/padr-examples/)
+
++ [Superpixels in imager](https://dahtah.wordpress.com/2017/03/24/superpixels-in-imager/)
+
++ [R : If Else and Nested If Else](http://www.listendata.com/2017/03/if-else-in-r.html)
+
++ [Contours of statistical penalty functions as GIF images](http://www.alexejgossmann.com/contours_of_statistical_penalty_functions_as_GIFs/)
+
++ [R, shiny and source()](https://logfc.wordpress.com/2017/03/22/r-shiny-and-source/)
+
++ [tidyquant + Quandl: Getting Data Just Got Easier](http://www.business-science.io/code-tools/2017/03/19/tidyquant-quandl-integration.html)
+
++ [jQuery UI Interactions and Effects for Shiny](https://yang-tang.github.io/shinyjqui/)
+
++ [#Infographics of McDonald's Items using #ggplot2 #grid #extrafont](https://pradeepadhokshaja.wordpress.com/2017/03/23/infographics-of-mcdonalds-items-using-ggplot2-grid-extrafont/)
+
+![#Infographics of McDonald's Items using #ggplot2 #grid #extrafont](https://github.com/rweekly/image/raw/master/2017-03/13-mcd.png)
+
++ [Use mlrMBO to optimize via command line](https://mlr-org.github.io/Use_mlrMBO_to_optimize_via_command_line/)
+
+
++ [Data validation with the assertr package](http://www.onthelambda.com/2017/03/20/data-validation-with-the-assertr-package/)
+
++ [Financial time series forecasting – an easy approach](https://datascienceplus.com/financial-time-series-forecasting-an-easy-approach/)
+
++ [tidyquant Integrates Quandl: Getting Data Just Got Easier](http://www.business-science.io/code-tools/2017/03/19/tidyquant-quandl-integration.html)
+
++ [Simultaneous intervals for derivatives of smooths revisited](http://www.fromthebottomoftheheap.net/2017/03/21/simultaneous-intervals-for-derivatives-of-smooths/)
+
+
++ [Datashader is a big deal](http://www.win-vector.com/blog/2017/03/datashader-is-a-big-deal/)
+
++ [Data Visualization – Part 2](https://www.stoltzmaniac.com/data-visualization-part-2/)
+
++ [Survminer Cheatsheet to Create Easily Survival Plots](http://www.sthda.com/english/wiki/survminer-cheatsheet-to-create-easily-survival-plots)
+
++ [QR Decomposition with the Gram-Schmidt Algorithm](http://www.aaronschlegel.com/qr-decomposition-gram-schmidt-algorithm/)
+
++ [Web data acquisition: parsing json objects with tidyjson (Part 3)](http://r-posts.com/web-data-acquisition-parsing-json-objects-with-tidyjson-part-3/)
+
++ [Mean trophic levels of a genera from FishBase](http://www.seascapemodels.org/rstats/2017/03/23/summarize-by-genera.html)
+
++ [Intro to unit testing in R](https://inattentionalcoffee.wordpress.com/2017/03/22/intro-to-unit-testing-in-r/)
 
 ### New Packages & Tools 
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink"><i>Go Live for More New Pkgs</i></a></p>
 
-+ [tensorflow](https://cran.r-project.org/web/packages/tensorflow/index.html) - R Interface to TensorFlow 
-
 + [giphyr](https://github.com/haozhu233/giphyr) - R Interface to the 'Giphy' 'API' 
 
 ![giphyr](https://raw.githubusercontent.com/rweekly/image/master/2017-03/gifr.jpeg)
 
++ [tensorflow](https://cran.r-project.org/web/packages/tensorflow/index.html) - R Interface to TensorFlow 
+
++ [margins](https://cran.r-project.org/web/packages/margins/index.html) - Marginal Effects for Model Objects
+
++ [RApiDatetime](http://dirk.eddelbuettel.com/blog/2017/03/23#rapidatetime_0.0.1)
+
++ [February 2017 New Package Picks](https://www.rstudio.com/rviews/2017/03/22/february-2017-new-package-picks/)
+
++ [camsRad, satellite-based time series of solar irradiation](http://ropensci.org/blog/blog/2017/03/21/camsrad)
+
++ [valaddin](https://github.com/egnha/valaddin) - Make your R functions more robust 
+
 ### New Releases
 
 
++ [anytime 0.2.2](http://dirk.eddelbuettel.com/blog/2017/03/21#anytime_0.2.2) - Convert Any Input to Parsed Date or Datetime
+
++ [survminer 0.3.0](http://www.sthda.com/english/wiki/survminer-0-3-0) - Survival Analysis and Visualization
+
++ [R Tools 1.0 for Visual Studio 2015](http://blog.revolutionanalytics.com/2017/03/announcing-r-tools-10-for-visual-studio-2015.html)
+
 ### Jobs
 
-
++ [Chess Statistics Developer](https://docs.google.com/document/d/10eqmaSm7zRPtjsPtbKzKT1WBkyrm50C4XiD3iQWWQDA/edit)
 
 
 ### Call for Participation
 
 + [R Google Summer of Code 2017](https://github.com/rstats-gsoc/gsoc2017/wiki/table%20of%20proposed%20coding%20projects) - [Organization Page](https://summerofcode.withgoogle.com/organizations/4947241283354624/) - Students will contribute to free/open-source R packages for 3 months during the summer. Mentors get code written for their project.
 
++ [How Do You Discover R Packages?](http://juliasilge.com/blog/Package-Search/)
+
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ Packages which register native routines for `.C` or `.Fortran` need to be re-installed for this version (unless installed with R-devel SVN revision r72375 or later).
 
++ An alternative compiler for C++11 is now specified with `CXX11`, not `CXX1X`. Likewise C++11 flags are specified with ‘CXX11FLAGS’ and the standard (e.g., `-std=gnu++11` is specified with `CXX11STD`. The variables with prefix `CXX1X` are defunct. 
+
++ The tests for C++11 compliance are now much more comprehensive. For gcc < 4.8, the tests from R 3.3.0 are used in order to maintain the same behaviour on Linux distributions with long-term support. 
 
 ### Upcoming Events
 
@@ -88,4 +192,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ggimage?src=hash">#ggimage</a> now have a <a href="https://twitter.com/hashtag/geom_pokemon?src=hash">#geom_pokemon</a> layer <a href="https://t.co/Jbqmc5CQmj">pic.twitter.com/Jbqmc5CQmj</a></p>&mdash; Guangchuang Yu (@guangchuangyu) <a href="https://twitter.com/guangchuangyu/status/844483732920684544">March 22, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you use R packages to complete the work reported in your article you should cite them in the bibliography <a href="https://twitter.com/hashtag/JCGS?src=hash">#JCGS</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Dianne Cook (@visnut) <a href="https://twitter.com/visnut/status/843740234483290112">March 20, 2017</a></blockquote>
 
