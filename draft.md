@@ -144,11 +144,12 @@ Release Date: 2017-03-27
 
 + [RApiDatetime](http://dirk.eddelbuettel.com/blog/2017/03/23#rapidatetime_0.0.1)
 
-+ [February 2017 New Package Picks](https://www.rstudio.com/rviews/2017/03/22/february-2017-new-package-picks/)
-
-+ [camsRad, satellite-based time series of solar irradiation](http://ropensci.org/blog/blog/2017/03/21/camsrad)
++ [camsRad](http://ropensci.org/blog/blog/2017/03/21/camsrad) - satellite-based time series of solar irradiation
 
 + [valaddin](https://github.com/egnha/valaddin) - Make your R functions more robust 
+
++ [February 2017 New Package Picks](https://www.rstudio.com/rviews/2017/03/22/february-2017-new-package-picks/)
+
 
 ### New Releases
 
