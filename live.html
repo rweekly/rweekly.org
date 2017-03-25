@@ -87,10 +87,10 @@ body.no-feature-like .hidetext {
         <ul v-bind:class="is_ds(link.I)">
         <li>
             <p class="added-hostname" v-if="link.N !== undefined">
-                <a class="externalLink" target="_blank" rel="nofollow noopener" v-bind:href="link.U">{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a>  - {{ link.N }} <span  style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
+                <a class="externalLink" target="_blank" rel="nofollow noopener" v-bind:href="link.U">{{ is_pkg(link.U) }}{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a>  - {{ link.N }} <span  style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
             </p>
             <p  class="added-hostname" v-else>
-                <a  class="externalLink" target="_blank"   rel="nofollow noopener" v-bind:href="link.U">{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a><span style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
+                <a  class="externalLink" target="_blank"   rel="nofollow noopener" v-bind:href="link.U">{{ is_pkg(link.U) }}{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a><span style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
             </p>
         </li>
         </ul>
@@ -108,10 +108,10 @@ body.no-feature-like .hidetext {
         <ul v-bind:class="is_ds(link.I)">
         <li>
             <p class="added-hostname" v-if="link.N !== undefined">
-                <a class="externalLink" target="_blank" rel="nofollow noopener" v-bind:href="link.U">{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a>  - {{ link.N }} <span  style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
+                <a class="externalLink" target="_blank" rel="nofollow noopener" v-bind:href="link.U">{{ is_pkg(link.U) }}{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a>  - {{ link.N }} <span  style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
             </p>
             <p  class="added-hostname" v-else>
-                <a  class="externalLink" target="_blank"   rel="nofollow noopener" v-bind:href="link.U">{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a><span style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
+                <a  class="externalLink" target="_blank"   rel="nofollow noopener" v-bind:href="link.U">{{ is_pkg(link.U) }}{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a><span style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
             </p>
         </li>
         </ul>
@@ -188,6 +188,14 @@ var latest_data = {};
 
 
 Vue.config.devtools = true;
+
+function is_pkg(url){
+    if (get_host(url) === "cran.r-project.org"){
+        return "📦 ";
+    }else{
+        return "";
+    }
+}
 
 var latest_app = new Vue({
   el: '#latest-app',
