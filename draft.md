@@ -146,7 +146,7 @@ Release Date: 2017-03-27
 
 + [margins](https://cran.r-project.org/web/packages/margins/index.html) - Marginal Effects for Model Objects
 
-+ [RApiDatetime](http://dirk.eddelbuettel.com/blog/2017/03/23#rapidatetime_0.0.1)
++ [RApiDatetime](http://dirk.eddelbuettel.com/blog/2017/03/23#rapidatetime_0.0.1) - C-level datetime code from R for C-level use by other packages. [0.0.2 update](http://dirk.eddelbuettel.com/blog/2017/03/25/#rapidatetime_0.0.2)
 
 + [camsRad](http://ropensci.org/blog/blog/2017/03/21/camsrad) - satellite-based time series of solar irradiation
 
