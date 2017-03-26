@@ -39,6 +39,11 @@ Release Date: 2017-03-27
 
 + [Sentiment Analysis of Warren Buffett's Letters to Shareholders](http://michaeltoth.me/sentiment-analysis-of-warren-buffetts-letters-to-shareholders.html)
 
+
++ [A Sentiment Analysis of Kanye West Album Lyrics](https://ewenme.github.io/blog/Kanye_sentiment_analysis/)
+
+![A Sentiment Analysis of Kanye West Album Lyrics](https://ewenme.github.io/figs/2017-03-20-Kanye_sentiment_analysis/unnamed-chunk-11-1.png)
+
 + [House effects in New Zealand voting intention polls](http://ellisp.github.io/blog/2017/03/21/house-effects)
 
 + [Faces of #rstats Twitter](http://www.masalmon.eu/2017/03/19/facesofr/)
