@@ -25,6 +25,8 @@ Release Date: 2017-03-27
 
 ### Videos and Podcasts
 
++ [The R-Podcast 22: Diving in to drake with Will Landau](https://www.r-podcast.org/posts/the-r-podcast-episode-22-diving-in-to-drake-with-will-landau.html)
+
 + [How to find new R packages - R Weekly 2017:13](https://www.youtube.com/watch?v=kradpGl3VuI) - [Podcast RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml)
 
 <iframe style="margin-bottom: 20px;" width="560" height="315" src="https://www.youtube.com/embed/kradpGl3VuI" frameborder="0" allowfullscreen></iframe>
