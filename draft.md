@@ -68,7 +68,7 @@ Release Date: 2017-03-27
 ### R Internationally
 
 
-
++ [http://www.thinkr.fr/r-et-les-autres/](http://www.thinkr.fr/r-et-les-autres/) - [English - Autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/r-et-les-autres/)
 
 ### R in Organizations
 
@@ -144,6 +144,8 @@ Release Date: 2017-03-27
 + [Mean trophic levels of a genera from FishBase](http://www.seascapemodels.org/rstats/2017/03/23/summarize-by-genera.html)
 
 + [Intro to unit testing in R](https://inattentionalcoffee.wordpress.com/2017/03/22/intro-to-unit-testing-in-r/)
+
++ [API calls and Sys.sleep](http://colinfay.me/rstats-api-calls-and-sys-sleep/)
 
 ### New Packages & Tools 
 
