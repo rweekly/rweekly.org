@@ -25,8 +25,6 @@ Release Date: 2017-03-27
 
 ### Videos and Podcasts
 
-+ [The R-Podcast 22: Diving in to drake with Will Landau](https://www.r-podcast.org/posts/the-r-podcast-episode-22-diving-in-to-drake-with-will-landau.html)
-
 + [How to find new R packages - R Weekly 2017:13](https://www.youtube.com/watch?v=kradpGl3VuI) - [Podcast RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml)
 
 <iframe style="margin-bottom: 20px;" width="560" height="315" src="https://www.youtube.com/embed/kradpGl3VuI" frameborder="0" allowfullscreen></iframe>
@@ -35,7 +33,7 @@ Release Date: 2017-03-27
 
 + [Interactive visualisation and fast computation of the solution path ](https://www.youtube.com/watch?v=2g-akN6q8aI)
 
-+ [The R-Podcast Episode 22: Diving in to drake with Will Landay](https://www.r-podcast.org/posts/the-r-podcast-episode-22-diving-in-to-drake-with-will-landau.html) - In this episode I have a conversation with my colleague [Will Landau](http://will-landau.com/) about his new R package [drake](https://cran.rstudio.com/web/packages/drake/) that provides a powerful build system for analysis pipelines.  In addition we have a fun R community roundup, listener feedback, and a couple of package picks to give you a [gentle nod](https://cran.r-project.org/web/packages/remindR/vignettes/remindR_vignette.html) and a fun way to [explore interpolation](https://github.com/metrumresearchgroup/fluidSpline).
++ [The R-Podcast Episode 22: Diving in to drake with Will Landay](https://www.r-podcast.org/posts/the-r-podcast-episode-22-diving-in-to-drake-with-will-landau.html) - In this episode Eric have a conversation with my colleague [Will Landau](http://will-landau.com/) about his new R package [drake](https://cran.rstudio.com/web/packages/drake/) that provides a powerful build system for analysis pipelines.  In addition we have a fun R community roundup, listener feedback, and a couple of package picks to give you a [gentle nod](https://cran.r-project.org/web/packages/remindR/vignettes/remindR_vignette.html) and a fun way to [explore interpolation](https://github.com/metrumresearchgroup/fluidSpline).
 
 ### R in the Real World
 
