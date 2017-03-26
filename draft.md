@@ -25,7 +25,7 @@ Release Date: 2017-03-27
 
 ### Videos and Podcasts
 
-+ [How to find new R packages - R Weekly 2017:13](https://www.youtube.com/watch?v=kradpGl3VuI) - [Podcast RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml)
++ [How to find new R packages - R Weekly 2017:13](https://www.youtube.com/watch?v=kradpGl3VuI) - [RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml) & [bilibili](https://www.bilibili.com/video/av9418842/)
 
 <iframe style="margin-bottom: 20px;" width="560" height="315" src="https://www.youtube.com/embed/kradpGl3VuI" frameborder="0" allowfullscreen></iframe>
 
