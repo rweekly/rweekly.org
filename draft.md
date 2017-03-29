@@ -21,7 +21,7 @@ Release Date: 2017-04-03
 
 ### R in the Real World
 
-
++ [UK government using R to modernize reporting of official statistics](http://blog.revolutionanalytics.com/2017/03/uk-statistics.html)
 
 ### R Internationally
 
@@ -32,7 +32,7 @@ Release Date: 2017-04-03
 + [Rstudio en Docker Containers](https://medium.com/kschool-data-scientists/rstudio-en-docker-containers-dabf8c11fde5) - [English - Autotranslate](http://translate.google.com/translate?hl=&sl=es&tl=en&u=https://medium.com/kschool-data-scientists/rstudio-en-docker-containers-dabf8c11fde5)
 
 ### R in Organizations
-
++ [Using R packages and education to scale Data Science at Airbnb](https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d)
 
 
 
@@ -81,9 +81,15 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 + [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />
 From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance. 
 
++ [CSAMA 2017](http://www.huber.embl.de/csama2017/) **June 11 - 16, 2017** <br />
+Statistical Data Analysis for Genome-Scale Biology teaches statistical and computational analysis of multi-omics studies in biology and biomedicine. Practical hands-on exercises are based on the R / Bioconductor environment.
+
 + [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />
 The annual useR! conference is the main meeting of the international R user and developer community.
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> tip: avoid bugs by not saving your work space! <a href="https://t.co/yUeKpcdMR9">pic.twitter.com/yUeKpcdMR9</a></p>&mdash; Colin Gillespie (@csgillespie) <a href="https://twitter.com/csgillespie/status/846343324877361156">March 27, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
