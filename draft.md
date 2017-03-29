@@ -25,7 +25,11 @@ Release Date: 2017-04-03
 
 ### R Internationally
 
++ [Quand Spark rencontre R](http://www.thinkr.fr/spark-rencontre-r/) - [English - Autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/spark-rencontre-r/)
 
++ [Viens chez moi, j’habite chez une copine…](http://coulmont.com/blog/2017/03/19/chez-moi-chez-elle/) - [English - Autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://coulmont.com/blog/2017/03/19/chez-moi-chez-elle/)
+
++ [Rstudio en Docker Containers](https://medium.com/kschool-data-scientists/rstudio-en-docker-containers-dabf8c11fde5) - [English - Autotranslate](http://translate.google.com/translate?hl=&sl=es&tl=en&u=https://medium.com/kschool-data-scientists/rstudio-en-docker-containers-dabf8c11fde5)
 
 ### R in Organizations
 
