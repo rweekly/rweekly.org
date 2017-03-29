@@ -17,12 +17,14 @@
 
 @media (max-width: 650px){
     .podcast {
+        display: none;
         width: 100%;
         max-width: 100%;
         margin-left: 0;
         bottom: -7px;
     }
     .podcast-player {
+      display: none;
       webkit-border-radius: 0px;
       moz-border-radius: 0px;
       border-radius: 0px;
