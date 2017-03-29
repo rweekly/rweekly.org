@@ -1,7 +1,75 @@
 ---
-layout: default
+layout: index-vue
 title: Home
 ---
+
+<style>
+.inner-app-hide{
+    display: none;
+}
+
+.live-hide{
+    display: none;
+}
+
+.blue-visit:visited{
+    color: #2a7ae2;
+}
+.blue-visit{
+  font-size: 16px;
+}
+
+.top-4-hide{
+    display: none;
+}
+.bottom-10px{
+  margin-bottom: 10px;
+}
+</style>
+
+{% raw %}
+<p style="font-size: 1.25em; font-weight: bold;" class="live-hide">Live<a class="live-more blue-visit" href="#">&nbsp;&nbsp;&nbsp;More</a></p>
+<div class="latest-app-top-4 top-4-hide bottom-10px">
+
+    <div v-for="link in top_4" class="" >
+        <ul v-bind:class="is_ds(link.I)">
+        <li>
+            <p class="added-hostname" v-if="link.N !== undefined">
+                <a class="externalLink" target="_blank" rel="nofollow noopener" v-bind:href="link.U">{{ is_pkg(link.U) }}{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a>  - {{ link.N }} <span  style="color:#999;" class="tooltiptext">(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
+            </p>
+            <p  class="added-hostname" v-else>
+                <a  class="externalLink" target="_blank"   rel="nofollow noopener" v-bind:href="link.U">{{ is_pkg(link.U) }}{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a><span style="color:#999;" class="tooltiptext">(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
+            </p>
+        </li>
+        </ul>
+        <p v-bind:class="is_ds(link.I)" v-if="link.P !== undefined">
+            <img v-bind:src="link.P" v-bind:alt="link.T"/>
+        </p>
+    </div>
+</div>
+
+<div class="latest-app inner-app-hide bottom-10px">
+
+  <div class="like-table" v-for="item in post_date.obj">
+    <p style="font-size: 1.2em; font-weight: bold;" v-bind:id="item.date">{{ item.date }}</p>
+    <div v-for="link in item.links" class="" >
+        <ul v-bind:class="is_ds(link.I)">
+        <li>
+            <p class="added-hostname" v-if="link.N !== undefined">
+                <a class="externalLink" target="_blank" rel="nofollow noopener" v-bind:href="link.U">{{ is_pkg(link.U) }}{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a>  - {{ link.N }} <span  style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
+            </p>
+            <p  class="added-hostname" v-else>
+                <a  class="externalLink" target="_blank"   rel="nofollow noopener" v-bind:href="link.U">{{ is_pkg(link.U) }}{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a><span style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
+            </p>
+        </li>
+        </ul>
+        <p v-bind:class="is_ds(link.I)" v-if="link.P !== undefined">
+            <img v-bind:src="link.P" v-bind:alt="link.T"/>
+        </p>
+    </div>
+  </div>
+</div>
+{% endraw %}
 
 <div id="posts-content" class="posts">
   {% for post in paginator.posts %}
@@ -34,3 +102,104 @@ title: Home
   {% endif %}
   </div>
 </div>
+
+
+<script>
+function is_ds(value){
+    if(value === 1){
+        return "is-ds";
+    }
+    return "not-ds";
+}
+
+function get_host(text){
+    var aurl = document.createElement('a');
+    aurl.href = text;
+    return aurl.host;
+}
+
+var weekday = new Array(7);
+weekday[0] =  "Sunday";
+weekday[1] = "Monday";
+weekday[2] = "Tuesday";
+weekday[3] = "Wednesday";
+weekday[4] = "Thursday";
+weekday[5] = "Friday";
+weekday[6] = "Saturday";
+
+function get_date(){
+    var date_var = new Date();
+    return date_var.getFullYear() + '-' + (date_var.getMonth()+1) + '-' + date_var.getDate() + " " + weekday[date_var.getDay()];
+}
+
+var latest_data = {};
+var top_4 = [];
+Vue.config.devtools = true;
+
+function is_pkg(url){
+    if (get_host(url) === "cran.r-project.org"){
+        return "📦 ";
+    }else{
+        return "";
+    }
+}
+
+var latest_app = new Vue({
+  el: '.latest-app',
+  data: {
+    post_date: latest_data
+  }
+});
+
+var top4_app = new Vue({
+  el: '.latest-app-top-4',
+  data: {
+    top_4: top_4
+  }
+});
+
+function load_latest(){
+
+    var xhr = new XMLHttpRequest();
+
+    xhr.open("GET","https://live.rweekly.org/latest.json");
+    xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+        try{
+            localStorage.setItem("live-latest", xhr.responseText);
+        }catch(err2){
+            console.log(err2);
+        }
+
+        var myArr = JSON.parse(xhr.responseText);
+        var max_length = myArr.obj[0].links.length;
+        console.log(myArr.obj[0]);
+        if(max_length>3){
+          max_length = 3;
+        }
+        for(var ii =0; ii!=max_length; ii++){
+          top_4.push(myArr.obj[0].links[ii]);
+        }
+        top4_app.top_4 = top_4;
+        // document.querySelector('.latest-app').classList.remove('inner-app-hide');
+        document.querySelector('.latest-app-top-4').classList.remove('top-4-hide');
+        document.querySelector('.live-hide').classList.remove('live-hide');
+        latest_app.post_date = myArr;
+        // add_external_links();
+    }
+    };
+    xhr.send();
+}
+
+document.addEventListener('DOMContentLoaded', function(){
+    load_latest();
+    var live_more_button = document.querySelector(".live-more");
+    live_more_button.addEventListener("click",function(){
+      _paq.push(['trackEvent', 'Read-Live', '1']);
+      document.querySelector('.latest-app').classList.remove('inner-app-hide');
+      document.querySelector('.latest-app-top-4').classList.add('top-4-hide');
+      document.querySelector(".live-more").classList.add('top-4-hide');
+    })
+});
+
+</script>
