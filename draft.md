@@ -56,7 +56,9 @@ Release Date: 2017-04-03
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink"><i>Go Live for More New Pkgs</i></a></p>
 
++ [shinyWidgets](https://dreamrs.github.io/shinyWidgets/index.html) - Extend widgets available in shiny
 
++ [shinyjqui](https://yang-tang.github.io/shinyjqui/) - jQuery UI interactions and effects for shiny
 
 ### New Releases
 
