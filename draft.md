@@ -60,6 +60,8 @@ Release Date: 2017-04-03
 
 + [shinyjqui](https://yang-tang.github.io/shinyjqui/) - jQuery UI interactions and effects for shiny
 
++ [modules](http://wahani.github.io/modules/) - Provides modules as an organizational unit for source code. Modules enforce to be more rigorous when defining dependencies and have a local search path. They can be used as a sub unit within packages or in scripts.
+
 ### New Releases
 
 
