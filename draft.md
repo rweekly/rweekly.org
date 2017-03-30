@@ -13,7 +13,7 @@ Release Date: 2017-04-03
 
 ### Insights
 
-* [Revealing Toronto's Parking TiTicket Data)[https://susanli2016.github.io/Toronto-Parking-Ticket/)
++ [Revealing Toronto's Parking Ticket Data](https://susanli2016.github.io/Toronto-Parking-Ticket/)
 
 ### Videos and Podcasts
 
