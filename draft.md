@@ -17,7 +17,7 @@ Release Date: 2017-04-03
 
 ### Videos and Podcasts
 
-
++ [NSDD 35 Special Guest Sean Taylor](https://soundcloud.com/nssd-podcast/episode-35-special-guest-sean-taylor) - Hilary and Roger talk with Sean Taylor of Facebook about his new software package prophet, how to make tools usable and re-usable, and of course, Excel.
 
 ### R in the Real World
 
