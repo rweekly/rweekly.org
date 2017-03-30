@@ -13,7 +13,7 @@ Release Date: 2017-04-03
 
 ### Insights
 
-
+* [Revealing Toronto's Parking TiTicket Data)[https://susanli2016.github.io/Toronto-Parking-Ticket/)
 
 ### Videos and Podcasts
 
@@ -47,8 +47,7 @@ Release Date: 2017-04-03
 
 ### Tutorials
 
-
-
+* [An Introduction to Stock Market Data Analysis with R (Part 1)](https://ntguardian.wordpress.com/2017/03/27/introduction-stock-market-data-r-1/)
 
 ### New Packages & Tools 
 
