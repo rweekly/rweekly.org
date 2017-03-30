@@ -32,6 +32,7 @@ Release Date: 2017-04-03
 + [Rstudio en Docker Containers](https://medium.com/kschool-data-scientists/rstudio-en-docker-containers-dabf8c11fde5) - [English - Autotranslate](http://translate.google.com/translate?hl=&sl=es&tl=en&u=https://medium.com/kschool-data-scientists/rstudio-en-docker-containers-dabf8c11fde5)
 
 ### R in Organizations
+
 + [Using R packages and education to scale Data Science at Airbnb](https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d)
 
 
@@ -47,7 +48,9 @@ Release Date: 2017-04-03
 
 ### Tutorials
 
-* [An Introduction to Stock Market Data Analysis with R (Part 1)](https://ntguardian.wordpress.com/2017/03/27/introduction-stock-market-data-r-1/)
++ [An Introduction to Stock Market Data Analysis with R (Part 1)](https://ntguardian.wordpress.com/2017/03/27/introduction-stock-market-data-r-1/)
+
++ [Coordinatized Data: A Fluid Data Specification](http://www.win-vector.com/blog/2017/03/coordinatized-data-a-fluid-data-specification/)
 
 ### New Packages & Tools 
 
