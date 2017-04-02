@@ -10,18 +10,26 @@ Release Date: 2017-04-03
 ### Highlight
 
 
+
 ### Insights
+
++ [The R-help community was started on this day 20 years ago ](http://www.jottr.org/2017/04/the-beginning-of-r-help.html)
 
 + [R and Singularity](https://www.rstudio.com/rviews/2017/03/29/r-and-singularity/)
 
 + [Reproducible manuscripts are the future?](http://onsnetwork.org/chartgerink/2017/03/30/reproducible-manuscripts-are-the-future/)
 
-+ [Generating APA style tables in R: Current challenges](http://jeromyanglim.blogspot.com/2017/03/generating-apa-style-tables-in-r.html)
+### R in Organizations
 
++ [UK government using R to modernize reporting of official statistics](http://blog.revolutionanalytics.com/2017/03/uk-statistics.html)
+
++ [Using R packages and education to scale Data Science at Airbnb](https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d)
 
 ### Videos and Podcasts
 
 + [NSDD 35 Special Guest Sean Taylor](https://soundcloud.com/nssd-podcast/episode-35-special-guest-sean-taylor) - Hilary and Roger talk with Sean Taylor of Facebook about his new software package prophet, how to make tools usable and re-usable, and of course, Excel.
+
++ [20 years ago - R Weekly Podcast 2017:14](https://youtu.be/UYIQTygOZSM) - [RSS](https://feeds.feedburner.com/rweeklypodcast?format=xml) & [bilibili](https://www.bilibili.com/video/av9418842/)
 
 ### R in the Real World
 
@@ -35,9 +43,7 @@ Release Date: 2017-04-03
 
 + [Data science languages score highly in RedMonk rankings](http://blog.revolutionanalytics.com/2017/03/redmonk-jan-2017.html)
 
-
 + [Scraping the web for Presidential Inaugural Addresses using #rvest](https://pradeepadhokshaja.wordpress.com/2017/03/31/scraping-the-web-for-presdential-inaugural-addresses-using-rvest/)
-
 
 + [Who is old? Visualizing the concept of prospective ageing with animated population pyramids](https://ikashnitsky.github.io/2017/who-is-old/)
 
@@ -53,12 +59,6 @@ Release Date: 2017-04-03
 
 + [Rstudio en Docker Containers](https://medium.com/kschool-data-scientists/rstudio-en-docker-containers-dabf8c11fde5) - [English - Autotranslate](http://translate.google.com/translate?hl=&sl=es&tl=en&u=https://medium.com/kschool-data-scientists/rstudio-en-docker-containers-dabf8c11fde5)
 
-### R in Organizations
-
-+ [Using R packages and education to scale Data Science at Airbnb](https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d)
-
-
-+ [UK government using R to modernize reporting of official statistics](http://blog.revolutionanalytics.com/2017/03/uk-statistics.html)
 
 
 ### R in Academia
@@ -95,6 +95,8 @@ Release Date: 2017-04-03
 + [Customising Shiny Server HTML Pages](http://www.mango-solutions.com/wp/2017/03/customising-shiny-server-html-pages/)
 
 ![Customising Shiny Server HTML Pages](http://www.mango-solutions.com/wp/wp-content/uploads/2017/03/customising-shiny-server-login-custom-1024x490.png)
+
++ [Generating APA style tables in R: Current challenges](http://jeromyanglim.blogspot.com/2017/03/generating-apa-style-tables-in-r.html)
 
 + [Delaporte package: The SPARCmonster is sated](http://www.avrahamadler.com/2017/03/31/delaporte-package-the-sparcmonster-is-sated/)
 
@@ -152,9 +154,9 @@ Release Date: 2017-04-03
 
 + [modules](http://wahani.github.io/modules/) - Provides modules as an organizational unit for source code. Modules enforce to be more rigorous when defining dependencies and have a local search path. They can be used as a sub unit within packages or in scripts.
 
-### New Releases
++ [pRojects](https://github.com/stephlocke/pRojects) - R package for making projects for various R activities
 
-+ [Bio7 2.5](http://bio7.org/?p=2832) - IDE for ecological modelling and contains powerful tools for model creation, scientific image analysis and statistical analysis.
+### New Releases
 
 + [RcppTOML 0.1.2](http://dirk.eddelbuettel.com/blog/2017/03/26#rcpptoml_0.1.2) - Rcpp bindings for TOML
 
@@ -163,9 +165,6 @@ Release Date: 2017-04-03
 + [ggedit 0.2.0](http://r-posts.com/ggedit-0-2-0-is-now-on-cran/) - Interactive 'ggplot2' Layer and Theme Aesthetic Editor
 
 + [RStudio Connect 1.4.4.1](https://blog.rstudio.org/2017/03/28/rstudio-connect-1-4-4-1/)
-
-+ [pRojects](https://github.com/stephlocke/pRojects) - R package for making projects for various R activities
-
 
 ### Jobs
 
@@ -211,4 +210,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ### Quotes of the Week
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> tip: avoid bugs by not saving your work space! <a href="https://t.co/yUeKpcdMR9">pic.twitter.com/yUeKpcdMR9</a></p>&mdash; Colin Gillespie (@csgillespie) <a href="https://twitter.com/csgillespie/status/846343324877361156">March 27, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> A somewhat belated happy birthday to CRAN (1997-03-26)</p>&mdash; Peter Dalgaard (@pdalgd) <a href="https://twitter.com/pdalgd/status/848479145407524866">April 2, 2017</a></blockquote>
