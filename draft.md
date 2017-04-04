@@ -13,7 +13,7 @@ Release Date: 2017-04-10
 
 ### Insights
 
-
++ [Playing with #RStats and Microsoft Computer Vision API](http://colinfay.me/playing-with-rstats-and-microsoft-computer-vision-api/)
 
 ### R in Organizations
 
@@ -37,6 +37,7 @@ Release Date: 2017-04-10
 
 
 ### Tutorials
+
 
 
 ### New Packages & Tools 
