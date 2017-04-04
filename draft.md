@@ -31,10 +31,11 @@ Release Date: 2017-04-10
 
 ### R in Academia
 
-
++ [Q1 2017 ISC Grants](https://www.r-consortium.org/blog/2017/04/03/q1-2017-isc-grants)
 
 ### Resources
 
++ [Introducing PolYamoR, the two-way translator between Python and R](https://blog.dataiku.com/introducing-polyamor-the-two-way-translator-between-python-and-r)
 
 ### Tutorials
 
