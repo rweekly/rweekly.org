@@ -39,7 +39,7 @@ Release Date: 2017-04-10
 
 ### Tutorials
 
-
++ [Visualizing relational joins](http://www.win-vector.com/blog/2017/04/visualizing-relational-joins/)
 
 ### New Packages & Tools 
 
@@ -48,6 +48,8 @@ Release Date: 2017-04-10
 
 ### New Releases
 
++ [Shiny 1.0.1](https://blog.rstudio.org/2017/04/05/shiny-1-0-1/)
++ [GSODR 1.0.2.1](http://ropensci.org/blog/blog/2017/04/04/gsodr)
 
 ### Jobs
 
@@ -56,7 +58,7 @@ Release Date: 2017-04-10
 
 ### Call for Participation
 
-
++ [Contribute to the R language track on exercism.io](https://jonmcalder.github.io/2017-04-05-r-track-on-exercism/)
 
 ### R Project Updates
 
