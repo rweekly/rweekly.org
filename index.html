@@ -25,11 +25,15 @@ title: Home
 .bottom-10px{
   margin-bottom: 45px;
 }
+
+.index-live a:visited{
+    color: #3e1004;
+}
 </style>
 
 {% raw %}
 <p style="font-size: 1.25em; font-weight: bold;" class="live-hide">Live<a class="live-more blue-visit" href="#">&nbsp;&nbsp;&nbsp;More</a></p>
-<div class="latest-app-top-4 top-4-hide bottom-10px">
+<div class="index-live latest-app-top-4 top-4-hide bottom-10px">
 
     <div v-for="link in top_4" class="" >
         <ul v-bind:class="is_ds(link.I)">
@@ -48,7 +52,7 @@ title: Home
     </div>
 </div>
 
-<div class="latest-app inner-app-hide bottom-10px">
+<div class="index-live latest-app inner-app-hide bottom-10px">
 
   <div class="like-table" v-for="item in post_date.obj">
     <p style="font-size: 1.2em; font-weight: bold;" v-bind:id="item.date">{{ item.date }}</p>
@@ -134,7 +138,7 @@ function get_date(){
 
 var latest_data = {};
 var top_4 = [];
-Vue.config.devtools = true;
+// Vue.config.devtools = true;
 
 function is_pkg(url){
     if (get_host(url) === "cran.r-project.org"){
@@ -173,7 +177,7 @@ function load_latest(){
 
         var myArr = JSON.parse(xhr.responseText);
         var max_length = myArr.obj[0].links.length;
-        console.log(myArr.obj[0]);
+
         if(max_length>3){
           max_length = 3;
         }
