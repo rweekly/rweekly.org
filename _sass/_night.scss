@@ -28,7 +28,7 @@ body.night {
         color:rgb(203,203,203);
     }
     a:hover, a:focus {
-        border-bottom: 1px dotted rgb(103,103,103)
+        border-bottom: 1px dotted rgb(103,103,103);
     }
 }
 
@@ -79,4 +79,8 @@ body.no-feature-podcast-corner{
 .rating > span:hover ~ span:before {
    content: "\2605";
    position: absolute;
+}
+
+.post a:visited{
+    color: #3e1004;
 }
