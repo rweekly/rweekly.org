@@ -22,6 +22,8 @@ Release Date: 2017-04-10
 
 + [Playing with #RStats and Microsoft Computer Vision API](http://colinfay.me/playing-with-rstats-and-microsoft-computer-vision-api/)
 
++ [Mapping Belgian geographic codes and data with R](http://mhermans.net/files/r/be_geomapping/20170226_example_mapping_postcode.html) - Walkthrough demonstrating how to recode (Belgian) postal codes and geographic classifications and make thematic maps with R, tmap & the tidyverse.
+
 + [The faces of R, analyzed with R](http://blog.revolutionanalytics.com/2017/04/the-faces-of-r-analyzed-with-r.html)
 
 + [The Most Popular Languages for Data Scientists/Engineers](http://blog.revolutionanalytics.com/2017/04/stackoverflow-developer-survey.html)
@@ -72,6 +74,8 @@ Release Date: 2017-04-10
 + [purrr Tutorial](https://jennybc.github.io/purrr-tutorial/index.html)
 
 + [How To Do Archaeological Science Using R](https://benmarwick.github.io/How-To-Do-Archaeological-Science-Using-R/)
+
++ [Integrating Spark with R](http://spark.rstudio.com/)
 
 ### Tutorials
 
