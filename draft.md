@@ -213,8 +213,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">dplyr finally has it&#39;s own 🕸site! <a href="https://t.co/GS6qGahGcF">https://t.co/GS6qGahGcF</a> (still a work in progress) <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/849344488564826112">April 4, 2017</a></blockquote>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Productive procrastination: find out who maintains the <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> packages you are currently using with thankr :) <a href="https://t.co/llDyzM2Aw7">https://t.co/llDyzM2Aw7</a> <a href="https://t.co/QJZYztG4Qb">pic.twitter.com/QJZYztG4Qb</a></p>&mdash; Dirk Schumacher (@dirk_sch) <a href="https://twitter.com/dirk_sch/status/850435059366719489">April 7, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Journals be like: Figures must be EPS/TIFF<a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> be like:<br>knitr::opts_chunk$set(dev = &quot;tiff&quot;)<br>magick::image_convert(img, format = &quot;tiff&quot;) <a href="https://t.co/sayYXQdMIs">pic.twitter.com/sayYXQdMIs</a></p>&mdash; Nicholas Tierney (@nj_tierney) <a href="https://twitter.com/nj_tierney/status/849180108124323840">April 4, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Productive procrastination: find out who maintains the <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> packages you are currently using with thankr :) <a href="https://t.co/llDyzM2Aw7">https://t.co/llDyzM2Aw7</a> <a href="https://t.co/QJZYztG4Qb">pic.twitter.com/QJZYztG4Qb</a></p>&mdash; Dirk Schumacher (@dirk_sch) <a href="https://twitter.com/dirk_sch/status/850435059366719489">April 7, 2017</a></blockquote>
