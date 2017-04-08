@@ -53,7 +53,7 @@ Release Date: 2017-04-10
 
 + [R Consortium Q1 2017 ISC Grants](https://www.r-consortium.org/blog/2017/04/03/q1-2017-isc-grants)
 
-+ [Solving Data Science's First Mile Problem](https://rviews.rstudio.com/2017/04/07/solving-data-sciences-first-mile-problem/) - Introduction to data.world website.
++ [Solving Data Science's First Mile Problem](https://rviews.rstudio.com/2017/04/05/datafestorg/) - Introduction to data.world website.
 
 + [IDEAR in Microsoft R Server, for Big Data: Checking Missing Values, Principal Component Analysis, Numerical Variables Grouped by Categorical Variables](https://blogs.technet.microsoft.com/machinelearning/2017/04/05/latest-rev-of-utilities-for-microsoft-team-data-science-process-tdsp-now-available/)
 
