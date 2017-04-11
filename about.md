@@ -12,7 +12,9 @@ title: About
 <a class="twitter-follow-button"
   href="https://twitter.com/rweekly_org"
   data-size="large">
-Twitter</a> [Weibo](http://weibo.com/rweekly)
+Twitter</a> 
+
+[Weibo](http://weibo.com/rweekly)
 
 <div style="margin-bottom: 0.5rem;" class="fb-page" data-href="https://www.facebook.com/rweekly/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
 <a
