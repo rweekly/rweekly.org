@@ -7,26 +7,20 @@ title: About
 
 ## Community
 
-### Facebook
-
-<div class="fb-page" data-href="https://www.facebook.com/rweekly/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-<a
-  href="https://www.facebook.com/rweekly/">
-Follow Facebook</a>
-</div>
-
-<p></p>
-
-### Twitter
+[Support with Patreon](https://www.patreon.com/rweekly)
 
 <a class="twitter-follow-button"
   href="https://twitter.com/rweekly_org"
   data-size="large">
-Follow @rweekly_org</a>
+Twitter</a> [Weibo](http://weibo.com/rweekly)
 
-### Patreon
+<div style="margin-bottom: 0.5rem;" class="fb-page" data-href="https://www.facebook.com/rweekly/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+<a
+  href="https://www.facebook.com/rweekly/">
+Facebook</a>
+</div>
 
-[Support with Patreon](https://www.patreon.com/rweekly)
+
 
 ### Submit
 
