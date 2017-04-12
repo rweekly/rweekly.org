@@ -38,8 +38,7 @@ gems:
   - jemoji
   - jekyll-seo-tag
 
-pages_list:       
-  Feed: '/atom.xml'
+pages_list:
   About: '/about'
   All: '/archive'
   Draft: '/draft'
