@@ -91,3 +91,13 @@ body.no-feature-podcast-corner{
 .post a:visited{
     color: #3e1004;
 }
+
+.weibo-icon {
+    display: none;
+}
+
+.weibo-show {
+    .weibo-icon{
+        display: initial;
+    }
+}

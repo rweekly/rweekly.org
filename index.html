@@ -85,7 +85,10 @@ title: Home
       </a>
     </h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+<p class="added-hostname"><time style="display: inline;margin-right: 15px;" datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time> 
+{% include social-button.html %}
+</p>
+
     <form class="filter-box">
     <input name="query" placeholder="Type to filter" class="input-box title-filter">
     </form>

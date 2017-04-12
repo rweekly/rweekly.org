@@ -253,6 +253,18 @@
         document.body.classList.add('no-feature-podcast-corner');
       });
     }
-    
+
+    document.addEventListener("DOMContentLoaded",function(){
+        try{
+            var xlanguage = window.navigator.userLanguage || window.navigator.language;
+            var zhpat = /(zh)|(cn)/i;
+            if(zhpat.test(xlanguage)){
+                document.body.classList.add("weibo-show");
+            }
+        }catch(err){
+            console.log(err);
+        }
+    });
+
   </script>
 </head>
