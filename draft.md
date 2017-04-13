@@ -13,7 +13,8 @@ Release Date: 2017-04-17
 
 ### Insights
 
-
++ [The faces of R, analyzed with R](http://blog.revolutionanalytics.com/2017/04/the-faces-of-r-analyzed-with-r.html)
++ [R benchmark for High-Performance Analytics and Computing (II): GPU Packages](http://www.parallelr.com/r-hpac-benchmark-analysis-gpu/)
 
 
 ### R in the Real World
@@ -42,11 +43,12 @@ Release Date: 2017-04-17
 
 ### Resources
 
-
++ [8th MilanoR Meeting - Presentations, photos and video!](http://www.milanor.net/blog/8th-milanor-meeting-presentations-photos/)
 
 ### Tutorials
 
-
++ [Create a pixel map with R](http://colinfay.me/rstats-create-a-pixel-map-with-r/)
++ [Plotting house price trends with FRED and R](http://lenkiefer.com/2017/04/11/Fred-plot)
 
 ### New Packages & Tools 
 
