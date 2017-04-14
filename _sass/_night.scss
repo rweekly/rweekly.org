@@ -101,3 +101,13 @@ body.no-feature-podcast-corner{
         display: initial;
     }
 }
+
+.or-search{
+    padding-left:10px;
+}
+
+@media (max-width: 650px){
+    .or-search{
+        display: none;
+    }
+}
