@@ -50,11 +50,11 @@ Release Date: 2017-04-17
 + [Create a pixel map with R](http://colinfay.me/rstats-create-a-pixel-map-with-r/)
 + [Plotting house price trends with FRED and R](http://lenkiefer.com/2017/04/11/Fred-plot)
 
-### 🎉 New Packages & Tools 
+### 🎉 New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink"><i>Go Live for More New Pkgs</i></a></p>
 
-### 📦 New Releases
+### 📦 Package Releases
 
 
 
