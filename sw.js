@@ -25,12 +25,11 @@
 
   global.toolbox.router.get(/127\.0\.0\.1/, global.toolbox.networkOnly, {});
   global.toolbox.router.get('/', global.toolbox.networkFirst, {});
-  global.toolbox.router.get('/index.html', global.toolbox.networkFirst, {});
-  global.toolbox.router.get('/draft.html', global.toolbox.networkFirst, {});
+  global.toolbox.router.get(/(draft)|(page)|(index)/, global.toolbox.networkFirst, {});
   global.toolbox.router.get(/(api)|(web)|(page)\.rweekly\.org\//, global.toolbox.networkOnly, {});
   global.toolbox.router.get(/live\.rweekly\.org\//, global.toolbox.networkFirst, {});
 
-  global.toolbox.precache(['/about.html',"/page2/index.html", "/archive.html"]);
+  global.toolbox.precache(['/live', '/about',"/page2/index.html", "/archive"]);
   // global.toolbox.options.cache.maxAgeSeconds = 60 * 15;
   
   // Request the resource from both the cache and the network in parallel. 
