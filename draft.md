@@ -200,7 +200,7 @@ Make-like declarative workflows in R
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-
++ `readRDS(url(....))` now works. 
 
 
 ###  Upcoming Events
