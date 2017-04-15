@@ -51,6 +51,8 @@ Release Date: 2017-04-17
 
 + [NSSD 36 - Ripped From the Headlines](https://soundcloud.com/nssd-podcast/episode-36-ripped-from-the-headlines)
 
++ [Open SourceCraft 10 - Interview with Dirk Eddelbuettel](http://codepop.com/open-sourcecraft/episodes/dirk-eddelbuettel/)
+
 ###  R in Organizations
 
 + [Data Amp: a major on-line Microsoft event, April 19](http://blog.revolutionanalytics.com/2017/04/data-amp-april-19.html)
@@ -63,7 +65,7 @@ Release Date: 2017-04-17
 
 ###  R in Academia
 
-
++ [Interactive Graphics for Visually Diagnosing Forest Classifiers in R](https://arxiv.org/abs/1704.02502)
 
 ###  Resources
 
@@ -77,6 +79,7 @@ Release Date: 2017-04-17
 A hands-on tutorial for remake, 
 Make-like declarative workflows in R
 
++ [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/)
 
 
 ###  Tutorials
@@ -221,3 +224,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We are pleased to announce that the <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> conference useR! 2018 will take place in Brisbane, Australia on 10-13 July 2018. Save the date.</p>&mdash; The R Foundation (@_R_Foundation) <a href="https://twitter.com/_R_Foundation/status/851740634914357248">April 11, 2017</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> at Google means ... <a href="https://t.co/1FCtlCOLwU">pic.twitter.com/1FCtlCOLwU</a></p>&mdash; Matt Dowle (@MattDowle) <a href="https://twitter.com/MattDowle/status/852203917953912832">April 12, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">😂 <a href="https://t.co/LD4inGCQGW">pic.twitter.com/LD4inGCQGW</a></p>&mdash; Drew Conway (@drewconway) <a href="https://twitter.com/drewconway/status/852166151958384640">April 12, 2017</a></blockquote>
