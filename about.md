@@ -9,22 +9,12 @@ title: About
 
 [Support with Patreon](https://www.patreon.com/rweekly)
 
-<a class="twitter-follow-button"
-  href="https://twitter.com/rweekly_org"
-  data-size="large">
-Twitter</a> 
 
-[Mastodon](https://m.rweekly.org/about)
+R Weekly @ 
 
-<p><a class="weibo-icon" href="http://weibo.com/rweekly">Weibo</a></p>
+[Mastodon](https://m.rweekly.org/about), [Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org) 
 
-<div style="margin-bottom: 0.5rem;" class="fb-page" data-href="https://www.facebook.com/rweekly/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-<a
-  href="https://www.facebook.com/rweekly/">
-Facebook</a>
-</div>
-
-
+[Weibo](https://weibo.com/rweekly), [WeChat](/wechat.html), [dev.to()](https://dev.to/rweekly), [LinkedIn](https://www.linkedin.com/company/rweekly)
 
 ### Submit
 
@@ -38,7 +28,13 @@ Update the [draft](https://github.com/rweekly/rweekly.org/blob/gh-pages/draft.md
 
 ### Communication
 
-<div id="star-rating-1" class="rating" style="margin-bottom:10px;" >
+Poll of this week: 
+
+Would you recommend R Weekly to your friends? 
+
+5 stars for Highly Recommend! 😍 
+
+<div id="star-rating-1" class="rating" style="margin-bottom:10px;" > 
 <span class="stars-item" data-value="5">☆</span><span class="stars-item" data-value="4">☆</span><span class="stars-item" data-value="3">☆</span><span class="stars-item" data-value="2">☆</span><span class="stars-item" data-value="1">☆</span>
 </div>
 
