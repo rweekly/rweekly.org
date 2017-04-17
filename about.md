@@ -14,7 +14,9 @@ title: About
   data-size="large">
 Twitter</a> 
 
-[Weibo](http://weibo.com/rweekly)
+[Mastodon](https://m.rweekly.org/about)
+
+<p><a class="weibo-icon" href="http://weibo.com/rweekly">Weibo</a></p>
 
 <div style="margin-bottom: 0.5rem;" class="fb-page" data-href="https://www.facebook.com/rweekly/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
 <a

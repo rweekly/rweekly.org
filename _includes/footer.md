@@ -142,7 +142,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 </script>
 
-R Weekly @ [Patreon](https://www.patreon.com/rweekly),  [Facebook](https://facebook.com/rweekly), [LinkedIn](https://www.linkedin.com/company/rweekly), [dev.to()](https://dev.to/rweekly), [Weibo](https://weibo.com/rweekly), [Twitter](https://twitter.com/rweekly_org) 
+R Weekly @ [Patreon](https://www.patreon.com/rweekly), [Mastodon](https://m.rweekly.org/about), [Facebook](https://facebook.com/rweekly), [LinkedIn](https://www.linkedin.com/company/rweekly), [dev.to()](https://dev.to/rweekly), [Weibo](https://weibo.com/rweekly), [Twitter](https://twitter.com/rweekly_org) 
 
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
 
