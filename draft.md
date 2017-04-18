@@ -51,7 +51,7 @@ Release Date: 2017-04-24
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink"><i>Go Live for More New Pkgs</i></a></p>
 
-
++ [JeffLeekMeme](https://github.com/wlandau/JeffLeekMeme) - 'True' facts about Jeff Leek
 
 ###  Package Releases
 
