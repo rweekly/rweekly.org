@@ -55,11 +55,11 @@ Release Date: 2017-04-24
 
 ###  Package Releases
 
-
++ [ompr](https://cran.r-project.org/web/packages/ompr/index.html) - Model and Solve Mixed Integer Linear Programs
 
 ###  Jobs
 
-
++ [Technical Program Manager at Johns Hopkins University](https://jobs.jhu.edu/jhujobs/jobview.cfm?reqId=313969&postId=14568)
 
 
 ###  Call for Participation
