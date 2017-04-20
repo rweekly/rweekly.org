@@ -14,7 +14,7 @@ Release Date: 2017-04-24
 
 ###  Insights
 
-
++ [mabbles - The missing piece of a unified theory of tidyness](https://4dpiecharts.com/2017/04/20/mabbles-the-missing-piece-of-a-unified-theory-of-tidyness/)
 
 
 ###  R in the Real World
@@ -27,7 +27,7 @@ Release Date: 2017-04-24
 
 ###  R in Organizations
 
-
++ [Microsoft R Server 9.1 now available](http://blog.revolutionanalytics.com/2017/04/microsoft-r-server-91-now-available.html)
 
 ###  R Internationally
 
@@ -56,6 +56,7 @@ Release Date: 2017-04-24
 ###  Package Releases
 
 + [ompr](https://cran.r-project.org/web/packages/ompr/index.html) - Model and Solve Mixed Integer Linear Programs
++ [readxl](https://blog.rstudio.org/2017/04/19/readxl-1-0-0/) - Import Excel files into R
 
 ###  Jobs
 
@@ -86,3 +87,9 @@ The annual useR! conference is the main meeting of the international R user and 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Clippy is sad, because readxl v1.0.0 is out! He&#39;s afraid you&#39;ll move your data out of Excel and into <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a>. <a href="https://t.co/nG0NmwYYkl">https://t.co/nG0NmwYYkl</a> <a href="https://t.co/yfSwc0UfOm">pic.twitter.com/yfSwc0UfOm</a></p>&mdash; Jenny Bryan (@JennyBryan) <a href="https://twitter.com/JennyBryan/status/854836679131111424">April 19, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">R and <a href="https://twitter.com/hashtag/Python?src=hash">#Python</a> cheatsheets for <a href="https://twitter.com/hashtag/DataScientists?src=hash">#DataScientists</a>: <a href="https://t.co/1uZN8FgNL9">https://t.co/1uZN8FgNL9</a> <a href="https://twitter.com/hashtag/abdsc?src=hash">#abdsc</a> <a href="https://twitter.com/hashtag/BigData?src=hash">#BigData</a> <a href="https://twitter.com/hashtag/DataScience?src=hash">#DataScience</a> <a href="https://twitter.com/hashtag/Rstats?src=hash">#Rstats</a> <a href="https://twitter.com/hashtag/MachineLearning?src=hash">#MachineLearning</a> <a href="https://twitter.com/rstudio">@rstudio</a> <a href="https://t.co/MGLvkedX69">pic.twitter.com/MGLvkedX69</a></p>&mdash; Kirk Borne (@KirkDBorne) <a href="https://twitter.com/KirkDBorne/status/854536038487863296">April 19, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
