@@ -19,7 +19,7 @@ Release Date: 2017-04-24
 
 ###  R in the Real World
 
-
++ [What programming languages are used late at night?](https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/)
 
 ###  Videos and Podcasts
 
