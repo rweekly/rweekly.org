@@ -43,7 +43,7 @@ Release Date: 2017-04-24
 
 ###  Tutorials
 
-
++ [Random GeoJSON and WKT with randgeo](http://ropensci.org/blog/technotes/2017/04/20/randgeo)
 
 
 
