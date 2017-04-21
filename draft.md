@@ -19,7 +19,7 @@ Release Date: 2017-04-24
 
 ###  R in the Real World
 
-
++ [What programming languages are used late at night?](https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/)
 
 ###  Videos and Podcasts
 
@@ -43,7 +43,7 @@ Release Date: 2017-04-24
 
 ###  Tutorials
 
-
++ [Random GeoJSON and WKT with randgeo](http://ropensci.org/blog/technotes/2017/04/20/randgeo)
 
 
 
