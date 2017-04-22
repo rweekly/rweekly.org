@@ -111,3 +111,27 @@ body.no-feature-podcast-corner{
         display: none;
     }
 }
+
+// read more
+
+.post-more{
+    display:none;
+}
+.post-more-btn{
+    width: 90%;
+    opacity: 1;
+    background-color: transparent;
+    border: 1px solid #E6E6E6;
+}
+
+.show-post-more{
+    display:initial;
+}
+
+.btn-hovered{
+    display:none;
+}
+
+a.non-visited:visited{
+    color:#2a7ae2;
+}

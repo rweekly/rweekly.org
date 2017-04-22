@@ -42,12 +42,83 @@
   <meta name="twitter:description" content="{{ page.description }}" /> {% endif %}
   <meta name="twitter:image" content="https://rweekly.org/public/logo.png" />
   <script>
+function show_btn_more(a){
+    console.log("over");
+    console.log(a);
+    a.parentElement.previousElementSibling.classList.add("show-post-more");
+    a.classList.add('btn-hovered');
+    _paq.push(['trackEvent', 'read-more', 1]);
+}
+
+function pas(a){
+  console.log(a.parentNode.innerText);
+  _paq.push(['trackEvent', 'goto-patreon', a.parentNode.innerText]);
+}
+var allptext = [
+  'Enjoy R Weekly! Support R Weekly with <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Patreon</a>!',
+  'Support R Weekly with <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Patreon</a>!',
+  '<a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Join Patreon</a> to support R Weekly!',
+]
+
+function getRandomInt(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+
+function random_patreon(){
+  return allptext[getRandomInt(0,allptext.length)];
+}
+
+function rweekly_patreon_support(){
+  var all_support = document.querySelectorAll('.support-rweekly');
+  for(var ii=0;ii!=all_support.length; ii++){
+    if(!all_support[ii].classList.contains('added-rweekly-patreon')){
+      all_support[ii].innerHTML = random_patreon();
+      all_support[ii].classList.add('added-rweekly-patreon');
+    }
+  }
+}
+
+function gen_read_more_btn(){
+  all_post = document.querySelectorAll('.post');
+  for(var ii =0;ii!=all_post.length;ii++){
+      var cpost = all_post[ii];
+      try{
+          if(!cpost.classList.contains('added-more-btn') && cpost.querySelector(".post-more-end") !== null && cpost.querySelector(".post-more-begin") !== null){
+              var all_end = cpost.querySelectorAll('.post-more-end');
+              var all_start = cpost.querySelectorAll('.post-more-begin');
+              var max_all = all_end.length > all_start.length?all_start.length : all_end.length;
+              for(var jj=0; jj!=max_all;jj++){
+                // create button
+                var pelt = document.createElement('p');
+                pelt.innerHTML = '<button class="pure-button post-more-btn" onmouseover="show_btn_more(this)">More</button>';
+                var more_end = all_end[jj];
+                more_end.parentNode.insertBefore(pelt, more_end.nextSibling);
+                _paq.push(['trackEvent', 'setup-more', 1]);
+                // create range
+                var range = document.createRange();
+                range.setStartBefore(all_start[jj]);
+                range.setEndAfter(all_end[jj]);
+                pdiv = document.createElement('div');
+                pdiv.classList.add('post-more');
+                range.surroundContents(pdiv);
+                cpost.classList.add('added-more-btn');
+              }
+          }
+      }catch(err){
+          console.log(err);
+      }
+  }
+}
     // external
     var shortregex = /^((www)|(blog))\./
 
     var a_g = false;
 
     function add_external_links() {
+      gen_read_more_btn();
+      rweekly_patreon_support()
       var links = document.querySelectorAll(".post a");
 
       for (var i = 0, linksLength = links.length; i < linksLength; i++) {
