@@ -57,7 +57,7 @@ Release Date: 2017-04-24
 
 + [Circular Visualization in R](http://zuguang.de/circlize_book/book/)
 
-<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Support</a> will keep R Weekly team moving!</p>
+<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving!</p>
 
 ###  Tutorials
 
