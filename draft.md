@@ -51,12 +51,13 @@ Release Date: 2017-04-24
 
 ###  R in Academia
 
-
 ###  Resources
 
 + [Computing and Fitting Monotone Splines](http://rpubs.com/deleeuw/268327)
 
 + [Circular Visualization in R](http://zuguang.de/circlize_book/book/)
+
+<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Support</a> will keep R Weekly team moving!</p>
 
 ###  Tutorials
 
@@ -140,6 +141,7 @@ header only essentials of QuantLib
 
 + [Rblpapi 0.3.6](http://dirk.eddelbuettel.com/blog/2017/04/20#rblpapi_0.3.6) - Connecting R to Bloomberg
 
+<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Enjoy R Weekly! Support us with <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Patreon</a>!</p>
 
 ###  Jobs
 
