@@ -53,6 +53,8 @@ Release Date: 2017-04-24
 
 ###  Resources
 
++ [Book Review: Introduction to Empirical Bayes by David Robinson](https://dandermotj.github.io/post/2017-04-03-book-review-introduction-to-empirical-bayes/)
+
 + [Computing and Fitting Monotone Splines](http://rpubs.com/deleeuw/268327)
 
 + [Circular Visualization in R](http://zuguang.de/circlize_book/book/)
