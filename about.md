@@ -28,11 +28,9 @@ Update the [draft](https://github.com/rweekly/rweekly.org/blob/gh-pages/draft.md
 
 ### Communication
 
-Poll of this week: 
+Poll of this week: Are you good at R?
 
-Would you recommend R Weekly to your friends? 
-
-5 stars for Highly Recommend! 😍 
+5 stars for R guru! 💪
 
 <div id="star-rating-1" class="rating" style="margin-bottom:10px;" > 
 <span class="stars-item" data-value="5">☆</span><span class="stars-item" data-value="4">☆</span><span class="stars-item" data-value="3">☆</span><span class="stars-item" data-value="2">☆</span><span class="stars-item" data-value="1">☆</span>
@@ -187,6 +185,44 @@ Read [random](./random.html) R posts.
 
 ## Options
 
+### Show Origin
+
+Show hostnames of URLs. Status: <a id="origin-status" href="#">On</a>
+
+<script>
+if (localStorage.getItem("origin") === 'false'){
+    document.getElementById('origin-status').innerText = " Off ";
+} else {
+    document.getElementById('origin-status').innerText = " On ";
+}
+
+function originMode(e) {
+    e.preventDefault();
+    if (localStorage.getItem('origin') === 'true') {
+        localStorage.setItem('origin', 'false');
+        document.body.classList.remove('show-origin');
+        document.body.classList.add('hide-origin');
+        _paq.push(['trackEvent', 'set-origin', 'false']);
+        document.getElementById('origin-status').innerText = " Off ";
+    } else if (localStorage.getItem('origin') === 'false') {
+        localStorage.setItem('origin', 'true');
+        document.body.classList.add('show-origin');
+        document.body.classList.remove('hide-origin');
+        _paq.push(['trackEvent', 'set-origin', 'true']);
+        document.getElementById('origin-status').innerText = " On ";
+    } else {
+        localStorage.setItem('origin', 'false');
+        document.body.classList.add('hide-origin');
+        document.body.classList.remove('show-origin');
+        _paq.push(['trackEvent', 'set-origin', 'false']);
+        document.getElementById('origin-status').innerText = " Off ";
+    }
+}
+
+document.getElementById('origin-status').addEventListener("click",originMode);
+
+</script>
+
 ### Podcast Corner
 
 Podcast Corner. Status: <a id="pod-corner-status" href="#">On</a>
@@ -248,6 +284,35 @@ document.getElementById('toc-status').addEventListener("click",toc_feature);
 
 </script>
 
+### Show Support
+
+Show how to support R Weekly team. Status: <a id="support-status" href="#">On</a>
+
+<script>
+if (localStorage.getItem("feature-support") === 'false'){
+    document.getElementById('support-status').innerText = " Off ";
+} else {
+    document.getElementById('support-status').innerText = " On ";
+}
+
+function support_feature(e){
+    e.preventDefault();
+    if (localStorage.getItem("feature-support") === 'false'){
+        localStorage.setItem("feature-support", true);
+        _paq.push(['trackEvent', 'set-support', 'true']);
+        document.getElementById('support-status').innerText = " On ";
+        window.location.reload();
+    } else {
+        localStorage.setItem("feature-support", false);
+        _paq.push(['trackEvent', 'set-support', 'false']);
+        document.getElementById('support-status').innerText = " Off ";
+        window.location.reload();
+    }
+}
+
+document.getElementById('support-status').addEventListener("click",support_feature);
+
+</script>
 
 ### Like - Testing Feature
 

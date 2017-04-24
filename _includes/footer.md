@@ -27,11 +27,9 @@ document.getElementById('search-form').addEventListener('submit', function(e){
 
 Subscribe R Weekly with <a href="https://feedburner.google.com/fb/a/mailverify?uri=rweekly&amp;loc=en_US" target="_blank" onclick="_paq.push(['trackEvent', 'Mail', '1']);">Email</a>.
 
-Poll of this week: 
+Poll of this week: Are you good at R?
 
-Would you recommend R Weekly to your friends? 
-
-5 stars for Highly Recommend! 😍 
+5 stars for R guru! 💪
 
 <div id="star-rating" class="rating" style="margin-bottom:10px;" >
 <span class="stars-item" data-value="5">☆</span><span class="stars-item" data-value="4">☆</span><span class="stars-item" data-value="3">☆</span><span class="stars-item" data-value="2">☆</span><span class="stars-item" data-value="1">☆</span>
@@ -148,11 +146,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
 </script>
 
+<p class="hide-support added-hostname support-rweekly"></p>
+
 R Weekly @ 
 
-[Patreon](https://www.patreon.com/rweekly), [Mastodon](https://m.rweekly.org/about), [Facebook](https://facebook.com/rweekly), [LinkedIn](https://www.linkedin.com/company/rweekly)
+[Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org), [Mastodon](https://m.rweekly.org/about),  [LinkedIn](https://www.linkedin.com/company/rweekly)
 
-[Weibo](https://weibo.com/rweekly), [WeChat](/wechat.html), [dev.to()](https://dev.to/rweekly), [Twitter](https://twitter.com/rweekly_org) 
+[Weibo](https://weibo.com/rweekly), [WeChat](/wechat.html), [dev.to()](https://dev.to/rweekly)
 
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
 

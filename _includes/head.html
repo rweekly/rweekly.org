@@ -55,9 +55,9 @@ function pas(a){
   _paq.push(['trackEvent', 'goto-patreon', a.parentNode.innerText]);
 }
 var allptext = [
-  'Enjoy R Weekly! Support us with <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Patreon</a>!',
-  'Support R Weekly with <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Patreon</a>!',
-  'Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving!',
+  '<a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Enjoy R Weekly! Support us with Patreon! 💞</a>',
+  '<a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Support R Weekly with Patreon!</a>',
+  '<a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Your support will keep R Weekly team moving! 💖</a>',
 ]
 
 function getRandomInt(min, max) {
@@ -266,13 +266,6 @@ function gen_read_more_btn(){
   <link rel="dns-prefetch" href="http://blog.revolutionanalytics.com">
   <link rel="dns-prefetch" href="//blog.rstudio.org">
   <script>
-
-    if (localStorage.getItem('feature-toc') === 'false') {
-      document.addEventListener("DOMContentLoaded", function () {
-        document.body.classList.add('no-feature-toc');
-      });
-    }
-
     function nightMode() {
       if (localStorage.getItem('night') === 'true') {
         localStorage.setItem('night', 'false');
@@ -284,58 +277,39 @@ function gen_read_more_btn(){
         _paq.push(['trackEvent', 'set-nightmode', 'true']);
       }
     }
-    if (localStorage.getItem('night') === 'true') {
-      document.addEventListener("DOMContentLoaded", function () {
-        document.body.classList.add('night');
-      });
-    }
-    function originMode() {
-      if (localStorage.getItem('origin') === 'true') {
-        localStorage.setItem('origin', 'false');
-        document.body.classList.remove('show-origin');
-        document.body.classList.add('hide-origin');
-        _paq.push(['trackEvent', 'set-origin', 'false']);
-      } else if (localStorage.getItem('origin') === 'false') {
-        localStorage.setItem('origin', 'true');
-        document.body.classList.add('show-origin');
-        document.body.classList.remove('hide-origin');
-        _paq.push(['trackEvent', 'set-origin', 'true']);
-      } else {
-        localStorage.setItem('origin', 'false');
-        document.body.classList.add('hide-origin');
-        document.body.classList.remove('show-origin');
-        _paq.push(['trackEvent', 'set-origin', 'false']);
-      }
-    }
-    if (localStorage.getItem('origin') == 'false') {
-      document.addEventListener("DOMContentLoaded", function () {
-        document.body.classList.remove('show-origin');
-        document.body.classList.add('hide-origin');
-      });
-    }
-
-    if (localStorage.getItem("feature-like") === 'true'){
-      document.addEventListener("DOMContentLoaded", function () {
-        document.body.classList.remove('no-feature-like');
-      });
-    }
-    
-    if (localStorage.getItem("feature-podcast-corner") === 'false'){
-      document.addEventListener("DOMContentLoaded", function () {
-        document.body.classList.add('no-feature-podcast-corner');
-      });
-    }
-
     document.addEventListener("DOMContentLoaded",function(){
-        try{
-            var xlanguage = window.navigator.userLanguage || window.navigator.language;
-            var zhpat = /(zh)|(cn)/i;
-            if(zhpat.test(xlanguage)){
-                document.body.classList.add("weibo-show");
-            }
-        }catch(err){
-            console.log(err);
-        }
+      if (localStorage.getItem('feature-toc') === 'false') {
+          document.body.classList.add('no-feature-toc');
+      }
+      if (localStorage.getItem('night') === 'true') {
+          document.body.classList.add('night');
+      }
+      if (localStorage.getItem('origin') == 'false') {
+          document.body.classList.remove('show-origin');
+          document.body.classList.add('hide-origin');
+      }
+      if (localStorage.getItem("feature-like") === 'true'){
+          document.body.classList.remove('no-feature-like');
+      }
+      if (localStorage.getItem("feature-podcast-corner") === 'false'){
+          document.body.classList.add('no-feature-podcast-corner');
+      }
+      if (localStorage.getItem("feature-support") === 'false'){
+          document.body.classList.add('no-support-rweekly');
+          _paq.push(['trackEvent', 'no-support-rweekly', true]);
+      }else{
+        _paq.push(['trackEvent', 'no-support-rweekly', false]);
+      }
+      try{
+          var xlanguage = window.navigator.userLanguage || window.navigator.language;
+          var zhpat = /(zh)|(cn)/i;
+          if(zhpat.test(xlanguage)){
+              document.body.classList.add("weibo-show");
+          }
+      }catch(err){
+          console.log(err);
+      }
+
     });
 
   </script>

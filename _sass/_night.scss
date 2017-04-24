@@ -139,7 +139,15 @@ a.non-visited:visited{
     display:none;
 }
 
+.only-rss{
+    display:none;
+}
+
 .support-rweekly{
     text-align: center;
     font-weight: bold;
+}
+
+body.no-support-rweekly .support-rweekly{
+    display:none;
 }
