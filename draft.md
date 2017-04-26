@@ -79,7 +79,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events
 
 + [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />
-From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance. 
+From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance.
+
++ [R in Insurance 2017](https://rininsurance17.sciencesconf.org/) **June 8, 2017** <br />
+This one-day conference will focus on applications in insurance and actuarial science that use R, the lingua franca for statistical computation.
 
 + [CSAMA 2017](http://www.huber.embl.de/csama2017/) **June 11 - 16, 2017** <br />
 Statistical Data Analysis for Genome-Scale Biology teaches statistical and computational analysis of multi-omics studies in biology and biomedicine. Practical hands-on exercises are based on the R / Bioconductor environment.
