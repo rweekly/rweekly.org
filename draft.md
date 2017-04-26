@@ -44,7 +44,7 @@ Release Date: 2017-05-01
 
 ###  Tutorials
 
-
++ [Map of population density lines in R](http://urbandemographics.blogspot.co.za/2017/04/map-of-population-density-lines-in-r.html)
 
 <div class="post-more-begin"></div>
 
@@ -56,7 +56,7 @@ Release Date: 2017-05-01
 
 ###  New Packages
 
-
++ [emo](https://github.com/hadley/emo)
 
 ###  Package Releases
 
@@ -91,3 +91,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Does including emoji in your RMarkdown make you go 😦😫😱? Struggle no more: <a href="https://t.co/wgCTnsgVAn">https://t.co/wgCTnsgVAn</a> emo::ji(&quot;celebrate&quot;) 🎉 <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/856938704748896258">April 25, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
