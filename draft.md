@@ -13,17 +13,20 @@ Release Date: 2017-05-01
 
 ###  Insights
 
++ [Which are the popular languages for Data Science](https://medium.com/@MarutiTech/which-are-the-popular-languages-for-data-science-8e67fb5ef1ff)
+
+![](https://github.com/rweekly/image/blob/master/2017-05-01/data-science-lgg.jpeg?raw=true)
 
 
 
 ###  R in the Real World
 
-
++ [NLP with AirBnb](http://blog.nycdatascience.com/student-works/nlp-with-airbnb/)
 
 
 ###  Videos and Podcasts
 
-
++ [Reproducible Data Science with R](http://blog.revolutionanalytics.com/2017/04/reproducible-data-science-with-r.html)
 
 ###  R in Organizations
 
@@ -53,6 +56,9 @@ Release Date: 2017-05-01
 
 <div class="post-more-end"></div>
 
++ [Playing with Prophet on Bike Sharing Demand in Washington, D.C.](https://medium.com/towards-data-science/playing-with-prophet-on-bike-sharing-demand-time-series-1f14255f7ff0)
+
++ [Gender Roles with Text Mining and N-grams](http://juliasilge.com/blog/Gender-Pronouns/)
 
 ###  New Packages
 
@@ -86,6 +92,9 @@ This one-day conference will focus on applications in insurance and actuarial sc
 
 + [CSAMA 2017](http://www.huber.embl.de/csama2017/) **June 11 - 16, 2017** <br />
 Statistical Data Analysis for Genome-Scale Biology teaches statistical and computational analysis of multi-omics studies in biology and biomedicine. Practical hands-on exercises are based on the R / Bioconductor environment.
+
++ [angletR 2017](http://angletr2017.com/) **June 28 - 30, 2017** <br/>
+angletR aims to provide a national forum to exchange and share ideas on the use of R in different subjects such as visualisation, applied statistics, biostatistics and bioinformatics, Bayesian statistics, data analysis, Big Data, modelling, machine learning, high performance computing, etc.
 
 + [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />
 The annual useR! conference is the main meeting of the international R user and developer community.
