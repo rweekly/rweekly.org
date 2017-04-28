@@ -23,6 +23,9 @@ Release Date: 2017-05-01
 
 + [NLP with AirBnb](http://blog.nycdatascience.com/student-works/nlp-with-airbnb/)
 
++ [Predict french vote with R](http://colinfay.me/predict-french-vote-with-r/)
+
++ [Gender and verbs across 100,000 stories: a tidy analysis](http://varianceexplained.org/r/tidytext-gender-plots/)
 
 ###  Videos and Podcasts
 
@@ -41,7 +44,7 @@ Release Date: 2017-05-01
 
 ###  Resources
 
-
++ [Coding etiquette](https://ourcodingclub.github.io/2017/04/25/etiquette.html)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving!</p>
 
