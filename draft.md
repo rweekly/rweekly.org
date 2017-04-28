@@ -15,7 +15,7 @@ Release Date: 2017-05-01
 
 + [Which are the popular languages for Data Science](https://medium.com/@MarutiTech/which-are-the-popular-languages-for-data-science-8e67fb5ef1ff)
 
-![](https://github.com/rweekly/image/blob/master/2017-05-01/data-science-lgg.jpeg?raw=true)
+![Which are the popular languages for Data Science](https://github.com/rweekly/image/blob/master/2017-05-01/data-science-lgg.jpeg?raw=true)
 
 
 
@@ -52,20 +52,16 @@ Release Date: 2017-05-01
 
 + [Map of population density lines in R](http://urbandemographics.blogspot.co.za/2017/04/map-of-population-density-lines-in-r.html)
 
-<div class="post-more-begin"></div>
-
-
-
-
-<div class="post-more-end"></div>
 
 + [Playing with Prophet on Bike Sharing Demand in Washington, D.C.](https://medium.com/towards-data-science/playing-with-prophet-on-bike-sharing-demand-time-series-1f14255f7ff0)
 
 + [Gender Roles with Text Mining and N-grams](http://juliasilge.com/blog/Gender-Pronouns/)
 
+<!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
+
 ###  New Packages
 
-+ [emo](https://github.com/hadley/emo)
++ [emo](https://github.com/hadley/emo) - `emo::ji("poop")` == 💩
 
 ###  Package Releases
 
@@ -99,8 +95,8 @@ Statistical Data Analysis for Genome-Scale Biology teaches statistical and compu
 + [angletR 2017](http://angletr2017.com/) **June 28 - 30, 2017** <br/>
 angletR aims to provide a national forum to exchange and share ideas on the use of R in different subjects such as visualisation, applied statistics, biostatistics and bioinformatics, Bayesian statistics, data analysis, Big Data, modelling, machine learning, high performance computing, etc.
 
-+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />
-The annual useR! conference is the main meeting of the international R user and developer community.
+<!--+ [useR! 2017](http://user2017.brussels/) **July 4, 2017** <br />
+The annual useR! conference is the main meeting of the international R user and developer community.-->
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
