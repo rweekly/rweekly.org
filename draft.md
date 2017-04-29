@@ -57,6 +57,11 @@ Release Date: 2017-05-01
 
 + [Gender Roles with Text Mining and N-grams](http://juliasilge.com/blog/Gender-Pronouns/)
 
++ [Beautiful boxplots in base R](http://www.opiniomics.org/beautiful-boxplots-in-base-r/)
+
+![Beautiful boxplots in base R](https://github.com/rweekly/image/blob/master/2017-05-01/probability.png?raw=true)
+
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  New Packages
