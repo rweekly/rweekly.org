@@ -294,11 +294,10 @@ function gen_read_more_btn(){
       if (localStorage.getItem("feature-podcast-corner") === 'false'){
           document.body.classList.add('no-feature-podcast-corner');
       }
+
       if (localStorage.getItem("feature-support") === 'false'){
           document.body.classList.add('no-support-rweekly');
           _paq.push(['trackEvent', 'no-support-rweekly', true]);
-      }else{
-        _paq.push(['trackEvent', 'no-support-rweekly', false]);
       }
       try{
           var xlanguage = window.navigator.userLanguage || window.navigator.language;
