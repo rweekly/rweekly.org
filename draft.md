@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2017-18
+title: R Weekly 2017-19
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2017-05-01
+Release Date: 2017-05-08
 
 ###  Highlight
 
@@ -13,68 +13,28 @@ Release Date: 2017-05-01
 
 ###  R in the Real World
 
-+ [Beautiful boxplots in base R](http://www.opiniomics.org/beautiful-boxplots-in-base-r/)
 
-+ [Perceptions of Probability and Numbers](https://github.com/zonination/perceptions)
 
-![Perceptions of Probability and Numbers](https://raw.githubusercontent.com/zonination/perceptions/master/plot1.png)
 
-+ [NLP with AirBnb](http://blog.nycdatascience.com/student-works/nlp-with-airbnb/)
-
-+ [Predict french vote with R](http://colinfay.me/predict-french-vote-with-r/)
-
-+ [Gender and verbs across 100,000 stories: a tidy analysis](http://varianceexplained.org/r/tidytext-gender-plots/)
-
-+ [Map of population density lines in R](http://urbandemographics.blogspot.co.za/2017/04/map-of-population-density-lines-in-r.html)
-
-+ [Where Europe lives, in 14 lines of R Code](http://blog.revolutionanalytics.com/2017/04/where-europe-lives.html)
-
-+ [Population Lines: How and Why I Created It](http://spatial.ly/2017/04/population-lines-how-and-why-i-created-it/)
-
-![Population Lines: How and Why I Created It](https://i1.wp.com/spatial.ly/wp-content/uploads/2013/09/population_lines_sml.jpg)
-
-+ [What's that on the horizon? An awesome dataviz!](http://lenkiefer.github.io/2017/04/23/horizon)
-
-+ [Using NYC Citi Bike Data to Help Bike Enthusiasts Find their Mate](http://blog.nycdatascience.com/student-works/r-visualization/using-nyc-citi-bike-data-help-bike-enthusiasts-find-mate-dating-app/)
-
-+ [Creating an animated world map of life expectancy changes from 1950 to 2100 in R ](https://urbandemographics.blogspot.co.uk/2017/03/creating-animated-world-map-of-life.html)
-
-![Creating an animated world map of life expectancy changes from 1950 to 2100 in R](https://2.bp.blogspot.com/-Ejx33Uob0ho/WNVXKNsBBYI/AAAAAAAABow/7hbCdPNIXsUHtO9CgilNz20dISoM_xmrgCLcB/s640/output4020_old_horitontal.gif)
-
-+ [Bivariate choropleth maps with R](http://lenkiefer.github.io/2017/04/24/bivariate-map)
-
-+ [Examining the arc of 100,000 stories: a tidy analysis](http://varianceexplained.org/r/tidytext-plots/)
-
-+ [Gender and verbs across 100,000 stories: a tidy analysis](http://varianceexplained.org/r/tidytext-gender-plots/)
-
-+ [The daily grind](https://gist.github.com/halhen/47bc8f482b18f2d81dd405ec25a70d51)
-
-![The daily grind](https://raw.githubusercontent.com/rweekly/image/master/2017-05-01/out122.png)
-
-+ [Where Cohen went wrong – the proportion of overlap between two normal distributions](http://rpsychologist.com/cohen-d-proportion-overlap)
 
 ###  Insights
 
-+ [Which are the popular languages for Data Science](https://medium.com/@MarutiTech/which-are-the-popular-languages-for-data-science-8e67fb5ef1ff)
 
-![Which are the popular languages for Data Science](https://github.com/rweekly/image/blob/master/2017-05-01/data-science-lgg.jpeg?raw=true)
 
-+ [Science really is non-partisan: facts and skepticism annoy everybody](http://simplystats.github.io/2017/04/24/march-for-science/)
 
 
 ###  Videos and Podcasts
 
 
 
+
 ###  R in Organizations
 
-+ [dv01 uses R bring greater transparency to the consumer lending market](http://blog.revolutionanalytics.com/2017/04/dv01-uses-r.html)
 
-+ [Welcome to our rOpenSci Interns](http://ropensci.org/blog/blog/2017/04/27/ropensci-interns)
 
-+ [NY R Conference](https://rviews.rstudio.com/2017/04/28/nyr/)
 
 ###  R Internationally
+
 
 
 ###  R in Academia
@@ -83,43 +43,22 @@ Release Date: 2017-05-01
 
 ###  Resources
 
-+ [Data Science Specialization Community Mentor Content Repository](https://github.com/lgreski/datasciencectacontent)
 
-+ [Writing your thesis with R Markdown – Figures, R code and tables](https://rosannavanhespenresearch.wordpress.com/2016/03/18/writing-your-thesis-with-r-markdown-3-figures-r-code-and-tables/)
 
-+ [Coding etiquette](https://ourcodingclub.github.io/2017/04/25/etiquette.html)
 
-+ [Data Carpentry Ecology Workshop](http://www.datacarpentry.org/ecology-workshop/)
-
-+ [Slides from OpenVisConf 2017](https://github.com/kbroman/OpenVisConf2017Slides)
-
-+ [Reproducible Data Science with R](http://blog.revolutionanalytics.com/2017/04/reproducible-data-science-with-r.html)
-
-+ [Visualisation for EDA](https://github.com/hadley/vis-eda)
-
-<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving!</p>
+<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [emo](https://github.com/hadley/emo) - 😍😘😙😚😻 Easily insert emoji into RMarkdown 
 
-+ [errors](https://www.enchufa2.es/archives/errors-0-0-1.html) - Error Propagation for R Vectors
 
-+ [greta](https://github.com/goldingn/) - Fast and easy statistical modelling in R
-
-+ [aws.s3](https://github.com/cloudyr/aws.s3) -  Amazon Simple Storage Service (S3) API Client
-
-+ [flexdashboard-poster](https://github.com/odeleongt/flexdashboard-poster) - Minimal template for preparing a conference poster using rmarkdown
-
-![flexdashboard-poster](https://raw.githubusercontent.com/rweekly/image/master/2017-05-01/poster21.png)
-
-+ [twidlr](https://github.com/drsimonj/twidlr) - data.frame-first formula-second modelling 
 
 ###  Jobs
 
-+ [Health Services Data Science Associate (ZIM1701.17) @ Palo Alto, California](https://www.r-users.com/jobs/health-services-data-science-associate-zim1701-17-palo-alto-california/)
+
+
 
 ###  Call for Participation
 
@@ -127,83 +66,22 @@ Release Date: 2017-05-01
 
 ###  Tutorials
 
-+ [Genetic Music: From Schoenberg to Bach](https://fronkonstin.com/2017/04/27/genetic-music-from-schoenberg-to-bach/)
-
-+ [Using R as a GIS](https://realdataweb.wordpress.com/2017/04/22/using-r-as-a-gis/)
-
-+ [A function that adds multiple ggplot2 layers](https://martinsbioblogg.wordpress.com/2017/04/23/using-r-a-function-that-adds-multiple-ggplot2-layers/)
-
-+ [A classical analysis (Radio Swiss classic program)](http://maelle.github.io/2017/04/23/radioswissclassic/)
-
-+ [Building an R training environment](https://itsalocke.com/r-training-environment/)
-
-+ [R 3.4.0 now available](http://blog.revolutionanalytics.com/2017/04/r-340-now-available.html)
-
-+ [Order Type and Parameter Optimization in quantstrat](https://ntguardian.wordpress.com/2017/04/24/order-type-parameter-optimization-quantstrat/)
-
-![Order Type and Parameter Optimization in quantstrat](https://ntguardian.files.wordpress.com/2017/04/unnamed-chunk-22-1.png?w=680)
-
-+ [Rent Prices and TrelliscopeJS](https://www.stoltzmaniac.com/rent-prices-and-trelliscopejs/)
-
-+ [Explaining complex machine learning models with LIME](https://shirinG.github.io/machine_learning/2017/04/23/lime)
-
-+ [More cartograms of New Zealand census data (district and city level)!](http://ellisp.github.io/blog/2017/04/25/more-cartograms)
-
-![More cartograms of New Zealand census data (district and city level)!](https://ellisp.github.io/img/0094-ta1.svg)
-
-+ [Using checkpoint with knitr and RStudio](http://blog.revolutionanalytics.com/2017/04/using-checkpoint-with-knitr-and-rstudio.html)
-
-+ [Animate a bivariate choropleth](http://lenkiefer.github.io/2017/04/25/bivariate-animate)
-
-+ [A Shiny application that shows trends in Stack Overflow questions over time](https://dgrtwo.shinyapps.io/so-trends/)
-
-+ [Binning Outliers in a Histogram](https://edwinth.github.io/blog/outlier-bin/)
-
-+ ['Digging' into archaeology + leaflet](http://www.austinwehrwein.com/tutorials/digging-archaeology-leaflet/)
-
-+ [Age Bias Plot Changes in FSA](http://derekogle.com/fishR/2017-04-26-AgeBias_inFSA)
-
-+ [Hacking maps with ggplot2](https://ikashnitsky.github.io/2017/map-hacking/)
-
-![Hacking maps with ggplot2](https://ikashnitsky.github.io/images/170424/hacked-map.png)
-
-+ [Visualizing uncertainty in housing data](http://lenkiefer.github.io/2017/04/26/housing-data-uncertainty)
 
 
-+ [Creating a VIX Futures Term Structure In R From Official CBOE Settlement Data](https://quantstrattrader.wordpress.com/2017/04/27/creating-a-vix-futures-term-structure-in-r-from-official-cboe-settlement-data/)
-
-+ [Salaries by alma mater - an interactive visualization with R and plotly](http://www.alexejgossmann.com/salaries_by_school_plotly_viz/)
-
-+ [Setup encrypted Rstudio and Shiny dashboard solution in 3 minutes](http://www.56n.dk/setup-encrypted-rstudio-and-shiny-dashboard-solution-in-3-minutes/)
-
-+ [R Quick Tip: Upload multiple files in shiny and consolidate into a dataset](https://itsalocke.com/upload-multiple-files-in-shiny-and-consolidate-into-a-dataset/)
-
-+ [Make pleasingly parallel R code with rxExecBy](http://blog.revolutionanalytics.com/2017/04/rxexecby.html)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  Package Releases
 
-+ [RcppTOML 0.1.3](http://dirk.eddelbuettel.com/blog/2017/04/25#rcpptoml_0.1.3) - TOML is a configuration file grammar for humans.
 
-+ [plotly 4.6.0](http://moderndata.plot.ly/plotly-4-6-0-now-on-cran/) - Create interactive web graphics from R via plotly's JavaScript graphing library
+
 
 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-+ `file.mtime()` no longer returns NA on Windows when the file or directory is being used by another process.
 
-+ New `askYesNo()` function and `"askYesNo"` option to ask the user binary response questions in a customizable but consistent way. 
-
-+ Vignettes listed in `.Rbuildignore` were not being ignored properly.
-
-+ `tempdir(check=TRUE)` recreates the `tmpdir()` if it is no longer valid.
-
-+ `R CMD Sweave` again returns `status = 0` on successful completion.
-
-+ `installed.packages()` on Windows would fail when `file.mtime()` (?) returned NA.
 
 ###  Upcoming Events
 
@@ -225,6 +103,3 @@ The annual useR! conference is the main meeting of the international R user and 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Does including emoji in your RMarkdown make you go 😦😫😱? Struggle no more: <a href="https://t.co/wgCTnsgVAn">https://t.co/wgCTnsgVAn</a> emo::ji(&quot;celebrate&quot;) 🎉 <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/856938704748896258">April 25, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

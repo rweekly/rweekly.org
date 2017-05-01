@@ -27,9 +27,9 @@ document.getElementById('search-form').addEventListener('submit', function(e){
 
 Subscribe R Weekly with <a href="https://feedburner.google.com/fb/a/mailverify?uri=rweekly&amp;loc=en_US" target="_blank" onclick="_paq.push(['trackEvent', 'Mail', '1']);">Email</a>.
 
-Poll of this week: Are you good at R?
+Do you enjoy R Weekly?
 
-5 stars for R guru! 💪
+5 stars for R Weekly fans! 😍
 
 <div id="star-rating" class="rating" style="margin-bottom:10px;" >
 <span class="stars-item" data-value="5">☆</span><span class="stars-item" data-value="4">☆</span><span class="stars-item" data-value="3">☆</span><span class="stars-item" data-value="2">☆</span><span class="stars-item" data-value="1">☆</span>
