@@ -60,9 +60,27 @@ WebFontConfig = {
 
 </style>
 
-
+<style>
+img.emoji {
+   height: 1em;
+   width: 1em;
+   margin: 0 .05em 0 .1em;
+   vertical-align: -0.1em;
+}
+</style>
 
 <script>
+{% include twemoji.min.js %}
+
+document.addEventListener("DOMContentLoaded", function(){
+  twemoji.parse(document.body,
+  {
+    folder: 'svg',
+    ext: '.svg'
+  });
+});
+
+
 {% include nprogress.min.js %}
 
 

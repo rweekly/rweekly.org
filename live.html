@@ -267,6 +267,15 @@ function load_latest(){
 
         latest_app.post_date = myArr;
         document.getElementById('latest-app').classList.remove('inner-app-hide');
+
+        setTimeout(function(){
+        twemoji.parse(document.body,
+        {
+            folder: 'svg',
+            ext: '.svg'
+        });
+        }, 500);
+
         // add_external_links();
     }
     };
@@ -339,6 +348,15 @@ function scroll_loading(){
                 next_status = false;
                 document.getElementById('app').classList.remove('inner-app-hide');
                 document.getElementById('next-text').classList.add('inner-app-hide');
+
+                setTimeout(function(){
+                twemoji.parse(document.body,
+                {
+                    folder: 'svg',
+                    ext: '.svg'
+                });
+                }, 500);
+
             }else if (xhr.readyState == 4){
                 next_status = false;
                 document.getElementById('next-text').classList.add('inner-app-hide');

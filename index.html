@@ -194,6 +194,15 @@ function load_latest(){
         document.querySelector('.live-hide').classList.remove('live-hide');
         latest_app.post_date = myArr;
         // add_external_links();
+
+        setTimeout(function(){
+        twemoji.parse(document.body,
+        {
+            folder: 'svg',
+            ext: '.svg'
+        });
+        }, 500);
+
     }
     };
     xhr.send();
