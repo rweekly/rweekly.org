@@ -59,3 +59,46 @@ WebFontConfig = {
 }
 
 </style>
+
+
+
+<script>
+{% include nprogress.min.js %}
+
+
+
+function getScrollPercent() {
+    var h = document.documentElement, 
+        b = document.body,
+        st = 'scrollTop',
+        sh = 'scrollHeight';
+    return (h[st]||b[st]) / ((h[sh]||b[sh]) - h.clientHeight);
+}
+
+if (typeof global_notdone === 'undefined') {
+    var global_notdone = true;
+}
+
+if(global_notdone){
+  NProgress.configure({ trickle: false, showSpinner: false, minimum: 0.01 });
+
+  NProgress.start();
+}
+
+function update_nprogress(){
+  var perc = getScrollPercent()
+  if(perc > 0.98 && global_notdone){
+    NProgress.done();
+    global_notdone = false;
+  }
+  if(global_notdone){
+      NProgress.set(getScrollPercent())
+  }
+}
+
+if(global_notdone){
+  document.addEventListener("scroll", update_nprogress);
+  document.addEventListener("touchmove", update_nprogress);
+}
+
+</script>
