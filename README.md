@@ -2,6 +2,8 @@
 
 ### Submit
 
+💡 Use [W3C Feed Validation](https://validator.w3.org/feed/) Service to checks the syntax of Atom or RSS feeds.
+
 Go to [https://rweekly.org/submit](https://rweekly.org/submit)
 
 Submit your links and scripts for R Weekly posts and podcasts.
