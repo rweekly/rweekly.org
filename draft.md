@@ -35,7 +35,9 @@ Release Date: 2017-05-08
 
 ###  R Internationally
 
++ [Premiers pas en Machine Learning avec R. Volume 2 : la classification](http://www.thinkr.fr/premiers-pas-en-machine-learning-avec-r-volume-2-la-classification/) — [English - Autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/premiers-pas-en-machine-learning-avec-r-volume-2-la-classification/) 
 
++ [Des recours différents à la procuration](http://coulmont.com/blog/2017/05/04/quartier-procuration/) — [English - Autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://coulmont.com/blog/2017/05/04/quartier-procuration/)  
 
 ###  R in Academia
 
