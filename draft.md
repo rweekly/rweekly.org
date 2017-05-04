@@ -54,6 +54,7 @@ Release Date: 2017-05-08
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [casebase](https://github.com/sahirbhatnagar/casebase) - Fit Flexible Smooth-in-Time Hazards and Risk Functions via Logistic and Multinomial Regression ![casebase](https://raw.githubusercontent.com/sahirbhatnagar/casebase/master/docs/intro_files/figure-markdown/unnamed-chunk-25-1.png)
 
 
 
