@@ -19,7 +19,7 @@ Release Date: 2017-05-08
 
 ###  Insights
 
-
++ [Mining CRAN DESCRIPTION files](http://juliasilge.com/blog/Mining-CRAN-DESCRIPTION/)
 
 
 
@@ -41,7 +41,7 @@ Release Date: 2017-05-08
 
 ###  R in Academia
 
-
++ [Google Summer of Code 2017 - Noninvasive source code formatting](https://summerofcode.withgoogle.com/projects/#5106168436359168)
 
 ###  Resources
 
@@ -106,3 +106,6 @@ The annual useR! conference is the main meeting of the international R user and 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Making the most of an airport terminal. geom_sankey (to be included in <a href="https://twitter.com/hashtag/ggforce?src=hash">#ggforce</a>)<a href="https://twitter.com/hashtag/ggplot2?src=hash">#ggplot2</a> <a href="https://twitter.com/hashtag/dataviz?src=hash">#dataviz</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/Vp62LoXF1a">pic.twitter.com/Vp62LoXF1a</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href="https://twitter.com/thomasp85/status/860349452841697280">May 5, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
