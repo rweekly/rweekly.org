@@ -14,12 +14,17 @@ Release Date: 2017-05-15
 
 ###  R in the Real World
 
++ [Mapping the French second round results with R](http://colinfay.me/mapping-the-french-second-round-results-with-r/)
 
-
+![Map blank vote](https://i2.wp.com/colinfay.me/wp-content/uploads/2017/05/second-tour-blanc.png)
 
 ###  Insights
 
++ [Don't R alone! A guide to tools for collaboration with R](http://www.noamross.net/blog/2013/1/7/collaborating-with-r.html)
 
++ [Introducing Stack Overflow Trends](https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends/)
+
+![Data Science](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/05/data-science-1-1024x621.png)
 
 ###  Videos and Podcasts
 
@@ -65,7 +70,9 @@ Release Date: 2017-05-15
 
 ###  Tutorials
 
++ [Extracting data from Twitter for #machinelearningflashcards](https://jasdumas.github.io/2017-05-02-twitter-ml-flashcards/)
 
++ [Studying CRAN package names](https://msperlin.github.io/2017-05-09-Studying-Pkg-Names/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
