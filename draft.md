@@ -33,7 +33,7 @@ Release Date: 2017-05-15
 
 ###  R in Organizations
 
-
++ [Wikimedia Discovery Dashboards](https://discovery.wmflabs.org/)
 
 
 ###  R Internationally
@@ -74,11 +74,13 @@ Release Date: 2017-05-15
 
 + [Studying CRAN package names](https://msperlin.github.io/2017-05-09-Studying-Pkg-Names/)
 
++ [readxl Workflows](http://readxl.tidyverse.org/articles/articles/readxl-workflows.html)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  Package Releases
 
-
++ [tidygenomics](https://github.com/Artjom-Metro/tidygenomics)
 
 ###  R Project Updates
 
@@ -90,6 +92,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 + [R/Finance 2017](http://www.rinfinance.com/) **May 19 and 20, 2017**  <br />
 From the inaugural conference in 2009, the annual R/Finance conference in Chicago has become the primary meeting for academics and practioners interested in using R in Finance.
+
++ [rOpenSci Unconf 2017](http://unconf17.ropensci.org/) **May 25 and 26, 2017** <br />
+For a fourth year running, this event aims bring together scientists, developers, and open data enthusiasts from academia, industry, government, and non-profit to get together for a few days and hack on various projects (invite-only).
 
 + [R in Insurance 2017](https://rininsurance17.sciencesconf.org/) **June 8, 2017** <br />
 This one-day conference will focus on applications in insurance and actuarial science that use R, the lingua franca for statistical computation.
