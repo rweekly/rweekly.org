@@ -80,10 +80,7 @@ document.addEventListener("DOMContentLoaded", function(){
   });
 });
 
-
-{% include nprogress.min.js %}
-
-
+// include nprogress.min.js
 
 function getScrollPercent() {
     var h = document.documentElement, 
@@ -97,26 +94,26 @@ if (typeof global_notdone === 'undefined') {
     var global_notdone = true;
 }
 
-if(global_notdone){
-  NProgress.configure({ trickle: false, showSpinner: false, minimum: 0.01 });
+// if(global_notdone){
+//   NProgress.configure({ trickle: false, showSpinner: false, minimum: 0.01 });
 
-  NProgress.start();
-}
+//   NProgress.start();
+// }
 
-function update_nprogress(){
-  var perc = getScrollPercent()
-  if(perc > 0.98 && global_notdone){
-    NProgress.done();
-    global_notdone = false;
-  }
-  if(global_notdone){
-      NProgress.set(getScrollPercent())
-  }
-}
+// function update_nprogress(){
+//   var perc = getScrollPercent()
+//   if(perc > 0.98 && global_notdone){
+//     NProgress.done();
+//     global_notdone = false;
+//   }
+//   if(global_notdone){
+//       NProgress.set(getScrollPercent())
+//   }
+// }
 
-if(global_notdone){
-  document.addEventListener("scroll", update_nprogress);
-  document.addEventListener("touchmove", update_nprogress);
-}
+// if(global_notdone){
+//   document.addEventListener("scroll", update_nprogress);
+//   document.addEventListener("touchmove", update_nprogress);
+// }
 
 </script>

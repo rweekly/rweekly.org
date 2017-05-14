@@ -29,8 +29,6 @@ Subscribe R Weekly with <a href="https://feedburner.google.com/fb/a/mailverify?u
 
 Do you enjoy R Weekly?
 
-5 stars for R Weekly fans! 😍
-
 <div id="star-rating" class="rating" style="margin-bottom:10px;" >
 <span class="stars-item" data-value="5">☆</span><span class="stars-item" data-value="4">☆</span><span class="stars-item" data-value="3">☆</span><span class="stars-item" data-value="2">☆</span><span class="stars-item" data-value="1">☆</span>
 </div>
@@ -146,18 +144,14 @@ document.addEventListener("DOMContentLoaded", function () {
 
 </script>
 
-<p class="hide-support added-hostname support-rweekly"></p>
-
-R Weekly @ 
-
-[Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org), [Mastodon](https://m.rweekly.org/about),  [LinkedIn](https://www.linkedin.com/company/rweekly)
-
-[Weibo](https://weibo.com/rweekly), [WeChat](/wechat.html), [dev.to()](https://dev.to/rweekly)
-
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
+
+R Weekly @ [Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org), [Mastodon](https://m.rweekly.org/about)
+
+This website uses [cookies](/privacy).
 
 **R Weekly** is openly developed [on GitHub](https://github.com/rweekly/rweekly.org). Send us [feedback](https://rweekly.org/about.html#communication).
 
-R Weekly uses [cookies](/privacy) to improve user experience.
+<p class="hide-support added-hostname support-rweekly"></p>
 
 <div id="fb-root"></div>
