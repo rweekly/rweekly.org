@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2017-20
+title: R Weekly 2017-21
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2017-05-15
+Release Date: 2017-05-22
 
 ###  Highlight
 
@@ -13,37 +13,13 @@ Release Date: 2017-05-15
 
 ###  Insights
 
-+ [Exploding barplot - Animation (with R-script and example data)](https://zenodo.org/record/574883)
 
-![Exploding barplot - Animation (with R-script and example data)](https://zenodo.org/record/574883/files/_Exploding_Barplot.gif)
-
-+ [reading/writing biggish data, revisited](http://kbroman.org/blog/2017/05/11/reading/writing-biggish-data-revisited/)
-
-+ [Introducing Stack Overflow Trends](https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends/)
-
-![Data Science](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/05/data-science-1-1024x621.png)
-
-+ [Travis-CI Flaw Exposed Some 'Secure' Environment Variable Contents](https://rud.is/b/2017/05/08/travis-ci-flaw-exposed-some-secure-environment-variable-contents/)
-
-+ [Automated Machine Learning — A Paradigm Shift That Accelerates Data Scientist Productivity @ Airbnb](https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8?source=rss----53c7c27702d5--data_science)
 
 
 ###  R in the Real World
 
-+ [Mapping the French second round results with R](http://colinfay.me/mapping-the-french-second-round-results-with-r/)
-
-![Map blank vote](https://i2.wp.com/colinfay.me/wp-content/uploads/2017/05/second-tour-blanc.png)
-
-+ [Analyzing data on CRAN packages](http://blog.revolutionanalytics.com/2017/05/analyzing-data-on-cran-packages.html)
-
-+ [Plot the Vote: Making U.S. Senate & House Cartograms in R](https://rud.is/b/2017/05/07/plot-the-vote-making-u-s-senate-house-cartograms-in-r/)
-
-+ [R Questions Tag Pairs on Stackoverflow](http://omaymas.github.io/R_Q_Tags/)
-
-![R Questions Tag Pairs on Stackoverflow](https://omaymas.github.io/images/2017-5-6-R_Q_Tags/top_ten_pairs.png)
 
 
-+ [Modelling individual party vote from the 2014 New Zealand election study](http://ellisp.github.io/blog/2017/05/06/nz-first)
 
 
 ###  R in Academia
@@ -58,17 +34,7 @@ Release Date: 2017-05-15
 
 ###  R in Organizations
 
-+ [Wikimedia Discovery Dashboards](https://discovery.wmflabs.org/)
 
-+ [Come see RStudio at an event near you next week!](https://blog.rstudio.org/2017/05/12/come-see-rstudio-at-an-event-near-you-next-week/)
-
-+ [Predicting Hospital Length of Stay using SQL Server R Services](http://blog.revolutionanalytics.com/2017/05/hospital-length-of-stay.html)
-
-+ [Looking Forward to R/Finance 2017](https://rviews.rstudio.com/2017/05/12/looking-forward-to-r/finance-2017/)
-
-+ [Forecasting GDP with R and dataseries.org](http://www.christophsax.com/2017/05/02/forecasting-gdp/)
-
-![Forecasting GDP with R and dataseries.org](https://usefulr.files.wordpress.com/2017/05/start.png)
 
 
 ###  Resources
@@ -81,21 +47,11 @@ Release Date: 2017-05-15
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [pvm](https://github.com/wush978/pvm) - Package Version Manager for R
 
-+ [learnr](https://rstudio.github.io/learnr/) - Interactive Tutorials for R
 
-+ [rlang](https://cran.r-project.org/web/packages/rlang/index.html) -  -  Functions for Base Types and Core R and 'Tidyverse' Features
-
-+ [tidygenomics](https://github.com/Artjom-Metro/tidygenomics) - Tidy Verbs for Dealing with Genomic Data Frames
-
-+ [brushthat](https://github.com/krlmlr/brushthat#brushthat) -  Brush up your tests!
-
-+ [cyphr](https://github.com/richfitz/cyphr) - :shipit: Humane encryption
 
 ###  Package Releases
 
-+ [d3panels](http://kbroman.org/blog/2017/05/11/updating-d3panels-and-r/qtlcharts-for-d3-version-4/) - d3panels and R/qtlcharts for D3 version 4
 
 
 ###  R Internationally
@@ -104,64 +60,6 @@ Release Date: 2017-05-15
 
 ###  Tutorials
 
-+ [Extracting data from Twitter for #machinelearningflashcards](https://jasdumas.github.io/2017-05-02-twitter-ml-flashcards/)
-
-+ [Studying CRAN package names](https://msperlin.github.io/2017-05-09-Studying-Pkg-Names/)
-
-+ [readxl Workflows](http://readxl.tidyverse.org/articles/articles/readxl-workflows.html)
-
-
-+ [Mapping Quandl Macroeconomic Data](https://rviews.rstudio.com/2017/05/10/mapping-quandl-macroeconomic-data/)
-
-+ [niceOverPlot, or when the number of dimensions does matter ](https://allthiswasfield.blogspot.com/2017/05/niceoverplot-or-when-number-of.html)
-
-![niceOverPlot, or when the number of dimensions does matter](https://4.bp.blogspot.com/-nqf-Im_q2Bo/WREUNjaKzjI/AAAAAAAAAME/MZGkInEHjUEh6EXY-vJMgDwD9DWmNE6gACLcB/s640/niceOverlap_podarcis.png)
-
-+ [Overdispersion tests in #rstats](http://www.christopherlortie.info/overdispersion-tests-in-rstats/)
-
-+ [dplyr in Context](http://www.win-vector.com/blog/2017/05/dplyr-in-context/)
-
-+ [Evolution of ice hockey players' height: IIHF world championships 2001-2016](https://ikashnitsky.github.io/2017/ice-hockey-players-height/)
-
-+ [R Quick Tip: parameter re-use within rmarkdown YAML](https://itsalocke.com/r-quick-tip-sequential-yaml-headers-rmarkdown-parameter-re-use/)
-
-+ [Machine Learning. Regression Trees and Model Trees (Predicting Wine Quality)](http://datarvalue.blogspot.com/2017/05/machine-learning-regression-trees-and.html)
-
-+ [From Points to (Messy) Lines](https://blog.ouseful.info/2017/05/08/from-points-to-messy-lines/)
-
-+ [Turning kindle notes into a tidy data](http://rmhogervorst.nl/cleancode/blog/2017/05/08/making-kindle-highlights-tidy.html)
-
-+ [In case you missed it: April 2017 roundup](http://blog.revolutionanalytics.com/2017/05/in-case-you-missed-it-april-2017-roundup.html)
-
-+ [Reports or Newspapers – The Two Sides of Healthcare Priorities](http://r-blog.salvaggio.net/?p=611)
-
-+ [Load a Python/pandas data frame from an HDF5 file into R](https://www.enchufa2.es/archives/load-a-pythonpandas-data-frame-from-an-hdf5-file-into-r.html)
-
-+ [Pretty histograms with ggplot2](http://drsimonj.svbtle.com/pretty-histograms-with-ggplot2)
-
-![Pretty histograms with ggplot2](https://svbtleusercontent.com/l2coulkxhcblvw_small.jpg)
-
-+ [Which linear model is best?](https://realdataweb.wordpress.com/2017/05/10/which-linear-model-is-best/)
-
-+ [tidyquant: New Tools for Performing Financial Analysis within the Tidy Ecosystem](http://www.business-science.io/technical-papers/2017/05/11/tidyquant-new-tools-financial-analysis.html)
-
-+ [Graphical Presentation of Missing Data; VIM Package](https://datascienceplus.com/graphical-presentation-of-missing-data-vim-package/)
-
-+ [Parsing Text for Emotion Terms: Analysis & Visualization Using R](https://datascienceplus.com/parsing-text-for-emotion-terms-analysis-visualization-using-r/)
-
-+ [Adding CI To RMarkdown Documents](http://www.goring.org/resources/Adding_CI_To_RMarkdown.html)
-
-![Adding CI To RMarkdown Documents](https://cdn.rawgit.com/rweekly/image/master/2017-03/virtuous_cycle.svg)
-
-+ [How to go about interpreting regression cofficients](https://itsalocke.com/interpreting-regression-cofficients/)
-
-+ [Better block sampling in MCMC with the Automated Factor Slice Sampler](https://r-nimble.org/better-block-sampling-in-mcmc-with-the-automated-factor-slice-sampler)
-
-+ [Studying CRAN package names](https://msperlin.github.io/2017-05-09-Studying-Pkg-Names/)
-
-+ [Installing Packages without Internet](http://www.mango-solutions.com/wp/2017/05/installing-packages-without-internet/)
-
-+ [Analyzing the home advantage in English soccer, with R](http://blog.revolutionanalytics.com/2017/05/analyzing-the-home-advantage-in-english-soccer-with-r.html)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
@@ -205,5 +103,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">because R</p>&mdash; Joel Spolsky (@spolsky) <a href="https://twitter.com/spolsky/status/862029899132960769">May 9, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
