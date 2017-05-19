@@ -13,7 +13,7 @@ Release Date: 2017-05-22
 
 ###  Insights
 
-
++ [Where Europeans live](https://robwhickman.github.io/2017/05/18/where-europeans-live/)
 
 
 ###  R in the Real World
@@ -39,7 +39,11 @@ Release Date: 2017-05-22
 
 ###  Resources
 
++ [Leaflet cheatsheet](https://www.rstudio.com/resources/cheatsheets/) - New cheatsheet from [Keija Shi](https://twitter.com/shikejia)
 
++ [DataCamp: String Manipulation in R with stringr](https://www.datacamp.com/courses/string-manipulation-in-r-with-stringr) - New course from [Charlotte Wickham](https://twitter.com/CVWickham).
+
++ [magrittr](http://magrittr.tidyverse.org/) - New website for the magrittr package
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
@@ -60,7 +64,11 @@ Release Date: 2017-05-22
 
 ###  Tutorials
 
++ [Improving automatic document production with R](https://itsalocke.com/improving-automatic-document-production-with-r/)
 
++ [Generating metropolitan subsets of Census data with R and tigris](http://walkerke.github.io/2017/05/tigris-metros/)
+
++ [State house price growth trends: animated ribbon dataviz](http://lenkiefer.com/2017/05/18/state-hpa)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -103,4 +111,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
-
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Python&#39;s better than <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/CATDQC12Fn">https://t.co/CATDQC12Fn</a></p>&mdash; Боб Рудіс (@hrbrmstr) <a href="https://twitter.com/hrbrmstr/status/865299333192830976">May 18, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
