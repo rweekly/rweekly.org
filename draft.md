@@ -229,6 +229,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
++ [Call for Conference Buddies at UseR!2017 Forwards and R-Ladies Session](https://user2017.brussels/news/2017/forwards-and-r-ladies-session-monday-3-july) **Monday 3 July** If interested, please participate in the poll at https://user2017.typeform.com/to/Gj4M3H.  
 
 ###  Quotes of the Week
 
