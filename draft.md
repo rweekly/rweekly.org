@@ -13,37 +13,66 @@ Release Date: 2017-05-22
 
 ###  Insights
 
-+ [Where Europeans live](https://robwhickman.github.io/2017/05/18/where-europeans-live/)
++ [Making Sense of dplyr 0.6](http://www.json.blog/2017/05/making-sense-of-dplyr-0.6/)
 
+
++ [Improving DBI: A Retrospect](https://www.r-consortium.org/blog/2017/05/15/improving-dbi-a-retrospect)
+
+
++ [How we built Tagger News: machine learning on a tight schedule](http://varianceexplained.org/programming/tagger-news/)
+
++ [Review of Efficient R Programming](https://rviews.rstudio.com/2017/05/19/efficient_r_programming/)
+
++ [How I Find, Manage, and Use GIFs ](https://yihui.name/en/2017/05/gifs/)
+
++ [When in Doubt, Upgrade ](https://yihui.name/en/2017/05/when-in-doubt-upgrade/)
 
 ###  R in the Real World
 
++ [Step-by-Step Choropleth Map in R: A case of mapping Nepal](https://medium.com/@anjesh/step-by-step-choropleth-map-in-r-a-case-of-mapping-nepal-7f62a84078d9)
 
+![Step-by-Step Choropleth Map in R: A case of mapping Nepal](https://cdn-images-1.medium.com/max/800/1*nXWOLkkaxpvhG-NmmcxYSQ.png)
 
++ [Where Europeans live](https://robwhickman.github.io/2017/05/18/where-europeans-live/)
 
++ [R in Financial Services: Challenges and Opportunities](http://blog.revolutionanalytics.com/2017/05/r-in-financial-services-presentation.html)
+
++ [The history of the universe, in 20 minutes](http://blog.revolutionanalytics.com/2017/05/the-history-of-the-universe-in-20-minutes.html)
+
++ [Network analysis of Game of Thrones family ties](https://shirinG.github.io/networks/2017/05/15/got_final)
+
++ [State house price growth trends: animated ribbon dataviz](http://lenkiefer.github.io/2017/05/18/state-hpa)
+
++ [The Case of the Vanishing Log Files](https://ironholds.org/shiny-in-docker/)
 
 ###  R in Academia
 
 
 
-
 ###  Videos and Podcasts
 
++ [R/Finance 2017: Live streamed](https://event.microsoft.com/events/2017/1705/RFinance/)
 
++ [This Week in Microbiology  #149: You're going to learn R](http://www.microbeworld.org/podcasts/this-week-in-microbiology/archives/2265-twim-149-you-re-going-to-learn-r)
 
++ [New York R Conference Videos](http://www.rstats.nyc/2017)
 
 ###  R in Organizations
 
 
++ [Upcoming Rcpp Talks](http://dirk.eddelbuettel.com/blog/2017/05/16#rcpp_talks_summer_2017)
 
 
 ###  Resources
 
-+ [Leaflet cheatsheet](https://www.rstudio.com/resources/cheatsheets/) - New cheatsheet from [Keija Shi](https://twitter.com/shikejia)
-
-+ [DataCamp: String Manipulation in R with stringr](https://www.datacamp.com/courses/string-manipulation-in-r-with-stringr) - New course from [Charlotte Wickham](https://twitter.com/CVWickham).
 
 + [magrittr](http://magrittr.tidyverse.org/) - New website for the magrittr package
+
++ [An Introduction to Spatial Data Analysis and Visualization in R](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
+
++ [Leaflet cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/source/pdfs/leaflet%20cheat%20sheet.pdf) - Interactive maps in R with leaflet, by [Keija Shi](https://twitter.com/shikejia)
+
++ [DataCamp: String Manipulation in R with stringr](https://www.datacamp.com/courses/string-manipulation-in-r-with-stringr) - New course from [Charlotte Wickham](https://twitter.com/CVWickham)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
@@ -51,16 +80,33 @@ Release Date: 2017-05-22
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [shinyMlr](https://mlr-org.github.io/shinyMlr/) - shinyMlr is a web application, built with the R-package “shiny” that provides a user interface for mlr. 
 
++ [confinterpret](https://github.com/jimvine/confinterpret) - Updated version of confinterpret package released on CRAN.  
+ 
 
++ [AzureDSVM](http://blog.revolutionanalytics.com/2017/05/azuredsvm-a-new-r-package-for-elastic-use-of-the-azure-data-science-virtual-machine.html) - a new R package for elastic use of the Azure Data Science Virtual Machine
+
++ [wordcountaddin](https://github.com/benmarwick/wordcountaddin) - 
+Word counts and readability statistics in R markdown documents
+
++ [shinyHeatmaply ](https://www.r-statistics.com/2017/03/shinyheatmaply-a-shiny-app-for-creating-interactive-cluster-heatmaps/) - – a shiny app for creating interactive cluster heatmaps
+
++ [RJSplot](http://rjsplot.net/) - Interactive Graphs with R
+
++ [printr](https://yihui.name/printr/) -  Automatically Print R Objects to Appropriate Formats According to the 'knitr' Output Format
 
 ###  Package Releases
 
++ [shinydashboard 0.6.0](https://blog.rstudio.org/2017/05/18/shinydashboard-0-6-0/) - This release of shinydashboard was aimed at both fixing bugs and also bringing the package up to speed with users’ requests and Shiny itself.
 
++ [padr 0.3.0](https://edwinth.github.io/blog/padr-v0-3-0/) - Here is the new padr
+
++ [timekit 0.3.0](http://www.business-science.io/code-tools/2017/05/17/timekit-0-3-0.html) - New Documentation, Function Improvements, Forecasting Vignette
 
 ###  R Internationally
 
-
++ [ChinaR Beijing 2017 Live Stream (in Chinese)](http://www.itdks.com/dakashuo/play/1443)
 
 ###  Tutorials
 
@@ -68,7 +114,63 @@ Release Date: 2017-05-22
 
 + [Generating metropolitan subsets of Census data with R and tigris](http://walkerke.github.io/2017/05/tigris-metros/)
 
-+ [State house price growth trends: animated ribbon dataviz](http://lenkiefer.com/2017/05/18/state-hpa)
++ [A Note on `on.exit()` ](https://yihui.name/en/2017/05/a-note-on-on-exit/)
+
++ [A Note on missing() ](https://yihui.name/en/2017/05/a-note-on-missing/)
+
++ [Animated plots with anim.plots ](https://hughjonesd.github.io/anim.plots/anim-plots-presentation.html)
+
++ [Mutation, selection, and drift (with Shiny)](https://martinsbioblogg.wordpress.com/2017/05/14/mutation-selection-and-drift-with-shiny/)
+
++ [Databases using R ](https://rviews.rstudio.com/2017/05/17/databases-using-r/)
+
++ [Visualising uncertainty in time-series using animations](http://www.seascapemodels.org/rstats/2017/05/14/timeseries-uncertainty-gif.html)
+
++ [How not to make an evergreen review graph](http://maelle.github.io/2017/05/14/evergreenreviewgraph/)
+
++ [Pretty scatter plots with ggplot2](http://drsimonj.svbtle.com/pretty-scatter-plots-with-ggplot2)
+
+![Pretty scatter plots with ggplot2](https://svbtleusercontent.com/nvvxuthhlzemg_small.png)
+
++ [Machine Learning. Stock Market Data Part 1: Logistic Regression.](http://datarvalue.blogspot.com/2017/05/machine-learning-stock-market-data-part.html) - [Part 2](http://datarvalue.blogspot.com/2017/05/machine-learning-stock-market-data-part_15.html) & [Part 3](http://datarvalue.blogspot.com/2017/05/machine-learning-stock-market-data-part_16.html)
+
++ [R⁶ — Tracking WannaCry Bitcoin Wallet Payments with R](https://rud.is/b/2017/05/14/r%e2%81%b6-tracking-wannacry-bitcoin-wallet-payments-with-r/)
+
++ [Three-Way Analysis of Variance: Simple Second-Order Interaction Effects and Simple Main Effects](http://r-posts.com/three-way-analysis-of-variance-simple-second-order-interaction-effects-and-simple-main-effects/)
+
+
++ [R and Python support now built in to Visual Studio 2017](http://blog.revolutionanalytics.com/2017/05/r-and-python-support-now-built-in-to-visual-studio-2017.html)
+
+
++ [It can be easy to explore data generating mechanisms with the simstudy package](http://r-posts.com/it-can-be-easy-to-explore-data-generating-mechanisms-with-the-simstudy-package/)
+
++ [Spinning Globes With R](http://spatial.ly/2017/05/spinning-globes-with-r/)
+
++ [Easy linguistic mapping with lingtypology](http://ropensci.org/blog/blog/2017/05/16/lingtypology)
+
++ [I don't know Fisher's exact test, but I know Stan](https://tjmahr.github.io/bayesian-fisher-exact-test/)
+
++ [Phylomoji with ggtree and emojifont](https://guangchuangyu.github.io/2017/05/phylomoji-with-ggtree-and-emojifont)
+
+![Phylomoji with ggtree and emojifont](https://guangchuangyu.github.io/blog_images/R/emojifont/phylomoji_files/figure-markdown_github/unnamed-chunk-2-1.png)
+
++ [Comparing Spectral clustering (with Normalized Graph Laplacian) with KMeans Clustering](https://sandipanweb.wordpress.com/2016/07/30/comparing-spectral-clustering-with-normalized-graph-laplacian-with-kmeans-clustering/)
+
++ [Training Neural Networks with Backpropagation. Original Publication.](http://datarvalue.blogspot.com/2017/05/training-neural-networks-with.html)
+
++ [Unsupervised Learning and Text Mining of Emotion Terms Using R](https://datascienceplus.com/unsupervised-learning-and-text-mining-of-emotion-terms-using-r/)
+
++ [On indexing operators and composition](http://www.win-vector.com/blog/2017/05/on-indexing-operators-and-composition/)
+
++ [Constant Expiry VIX Futures (Using Public Data)](https://quantstrattrader.wordpress.com/2017/05/18/constant-expiry-vix-futures-using-public-data/)
+
++ [Machine Learning. Artificial Neural Networks (Strength of Concrete).](http://datarvalue.blogspot.com/2017/05/machine-learning-artificial-neural.html)
+
++ [Clean messy data by providing examples in Excel](http://blog.revolutionanalytics.com/2017/05/clean-messy-data-by-providing-examples-in-excel.html)
+
++ [2017-01 Variable-width lines in R](http://stattech.wordpress.fos.auckland.ac.nz/2017/05/19/2017-01-variable-width-lines-in-r/)
+
+
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -76,6 +178,18 @@ Release Date: 2017-05-22
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+
++ [CRAN Policy Change new rev3670](https://github.com/eddelbuettel/crp/commit/c64a63e299555271467b1fdd4a425793f5ff92a0)
+
++ `R CMD INSTALL` Windows .zip file obeys `--lock` and `--pkglock` flags.
+
++ Evaluation of `..0` now signals an error. When `..1` is used and `...` is empty, the error message is more appropriate now. 
+
++ New low level utilities `...elt(n)’` and `...length()` for working with `...` parts inside a function.
+
++ `isTRUE()` is more tolerant and now true in `x <- rlnorm(99); isTRUE(median(x) == quantile(x)["50%"])`. New function `isFALSE()` defined analogously.
+
++ The default symbol table size has been increased from 4119 to 49157; this may improve symbol resolution performance when many packages are loaded. Suggested by Jim Hester.
 
 
 ###  Upcoming Events
@@ -100,8 +214,15 @@ The annual useR! conference is the main meeting of the international R user and 
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
+### Gist & Cookbook
 
-###  Jobs
+
+
+### Datasets
+
+
+
+### Jobs
 
 
 
@@ -112,4 +233,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Python&#39;s better than <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/CATDQC12Fn">https://t.co/CATDQC12Fn</a></p>&mdash; Боб Рудіс (@hrbrmstr) <a href="https://twitter.com/hrbrmstr/status/865299333192830976">May 18, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just gave an <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> talk at <a href="https://twitter.com/CWInl">@CWInl</a> , where <a href="https://twitter.com/hashtag/python?src=hash">#python</a> was invented. <a href="https://twitter.com/hashtag/dragonsden?src=hash">#dragonsden</a> 😎 <a href="https://t.co/9CS5q7dXxI">pic.twitter.com/9CS5q7dXxI</a></p>&mdash; Mark van der Loo (@markvdloo) <a href="https://twitter.com/markvdloo/status/865279762134073345">May 18, 2017</a></blockquote>
+
