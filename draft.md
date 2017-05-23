@@ -13,7 +13,7 @@ Release Date: 2017-05-29
 
 ###  Insights
 
-
++ [R vs Python: Different similarities and similar differences](https://gigadom.wordpress.com/2017/05/22/r-vs-python-different-similarities-and-similar-differences/)
 
 
 ###  R in the Real World
@@ -55,13 +55,13 @@ Release Date: 2017-05-29
 
 ###  R Internationally
 
-
++ [S’il te plaît, dessine-moi une carte (avec R)](http://www.thinkr.fr/sil-te-plait-dessine-moi-carte-r/) — [English - autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/sil-te-plait-dessine-moi-carte-r/)
 
 
 
 ###  Tutorials
 
-
++ [Arranging subplots with ggplot2](https://ikashnitsky.github.io/2017/align-six-maps/)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
