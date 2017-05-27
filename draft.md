@@ -201,7 +201,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s official. My students vastly prefer R over SPSS in an intro stats course for psychology majors <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://twitter.com/hashtag/spss?src=hash">#spss</a> <a href="https://twitter.com/hashtag/psychology?src=hash">#psychology</a> <a href="https://twitter.com/hashtag/teaching?src=hash">#teaching</a></p>&mdash; Tom Carpenter (@tcarpenter216) <a href="https://twitter.com/tcarpenter216/status/867621299312443392">May 25, 2017</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">*50+ of the best R programmers in the world* &#39;raise your hand if you have impostor syndrome!&#39; <a href="https://twitter.com/hashtag/runconf17?src=hash">#runconf17</a> <a href="https://t.co/aiRgHbVCtU">pic.twitter.com/aiRgHbVCtU</a></p>&mdash; Oliver Keyes (@kopshtik) <a href="https://twitter.com/kopshtik/status/867786243911819264">May 25, 2017</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pleased to announce that <a href="https://twitter.com/JennyBryan">@JennyBryan</a>&#39;s reprex package is now an official member of the tidyverse: <a href="https://t.co/RFchSO85Ry">https://t.co/RFchSO85Ry</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/868250029357547520">May 26, 2017</a></blockquote>
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
