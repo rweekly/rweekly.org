@@ -38,6 +38,7 @@ Release Date: 2017-05-29
 
 + [Episode 39 - We Listen to Our Data Team](https://soundcloud.com/nssd-podcast/episode-39-we-listen-to-our-data-team)
 
++ [RFinance 2017 videos](https://channel9.msdn.com/events/RFinance/RFinance-2017)
 
 ###  R in Organizations
 
