@@ -72,6 +72,8 @@ R package for geographical faceting with ggplot2
 
 ###  Package Releases
 
++ [future 1.5.0](http://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone ... and everywhere
+
 + [rtdists 0.7-2](http://singmann.org/rtdists-0-7-2-response-time-distributions-now-with-rcpp-and-faster/) - response time distributions now with Rcpp and faster
 
 + [Rcpp 0.12.11](http://dirk.eddelbuettel.com/blog/2017/05/23#rcpp_0.12.11) - Loads of goodies
