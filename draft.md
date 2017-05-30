@@ -46,8 +46,7 @@ Release Date: 2017-06-05
 
 
 ###  Package Releases
-
-
++ [kableExtra 0.2.1](http://haozhu233.github.io/kableExtra/awesome_table_in_html.html#group_rows) - Build complex tables with kable & pipes
 
 ###  R Internationally
 
