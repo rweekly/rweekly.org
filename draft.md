@@ -13,11 +13,11 @@ Release Date: 2017-06-05
 
 ###  Insights
 
-
+ + [Civic Data Wrangling: in R and on data.world](https://rviews.rstudio.com/2017/05/26/civic-data-wrangling-in-r-and-on-data.world/)
 
 ###  R in the Real World
 
-
++ [Exploring Mental Health Conditions in the Tech Workplace](http://blog.nycdatascience.com/student-works/r-shiny/interesting-study-exploring-mental-health-conditions-tech-workplace)
 
 ###  R in Academia
 
@@ -56,7 +56,11 @@ Release Date: 2017-06-05
 
 ###  Tutorials
 
++ [Which Emojis Does Lucy Use in Commit Messages?](http://seankross.com/2017/05/30/Which-Emojis-Does-Lucy-Use-in-Commit-Messages.html) 
 
++ [How do you feel about Last Week Tonight?](https://d4tagirl.com/2017/05/how-do-you-feel-about-last-week-tonight)
+
++ [Managing Spark data handles in R](http://www.win-vector.com/blog/2017/05/managing-spark-data-handles-in-r/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
