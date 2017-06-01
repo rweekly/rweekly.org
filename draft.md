@@ -14,6 +14,8 @@ Release Date: 2017-06-05
 ###  Insights
 
  + [Civic Data Wrangling: in R and on data.world](https://rviews.rstudio.com/2017/05/26/civic-data-wrangling-in-r-and-on-data.world/)
+ 
+ + [Romain’s site with blogdown, hugo, rbind](https://support.rbind.io/2017/05/29/romain-francois-s-site-with-blogdown-hugo-rbind/)
 
 ###  R in the Real World
 
@@ -25,7 +27,7 @@ Release Date: 2017-06-05
 
 ###  Videos and Podcasts
 
-
++ [My new DataCamp course: Forecasting Using R](https://robjhyndman.com/hyndsight/datacamp/)
 
 
 ###  R in Organizations
@@ -43,7 +45,9 @@ Release Date: 2017-06-05
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [tuRbonegro](http://colinfay.me/rstats-turbonegro/) - Plays a random Turbonegro clip in your R Viewer
 
+![tuRbonegro](https://raw.githubusercontent.com/ColinFay/tuRbonegro/master/tuRbonegro.png)
 
 ###  Package Releases
 + [kableExtra 0.2.1](http://haozhu233.github.io/kableExtra/awesome_table_in_html.html#group_rows) - Build complex tables with kable & pipes
