@@ -16,6 +16,8 @@ Release Date: 2017-06-05
  + [Civic Data Wrangling: in R and on data.world](https://rviews.rstudio.com/2017/05/26/civic-data-wrangling-in-r-and-on-data.world/)
  
  + [Romain’s site with blogdown, hugo, rbind](https://support.rbind.io/2017/05/29/romain-francois-s-site-with-blogdown-hugo-rbind/)
+ 
+ + [Machine Learning using Spark and R](http://dataconomy.com/2017/05/machine-learning-spark-r/)
 
 ###  R in the Real World
 
@@ -49,12 +51,20 @@ Release Date: 2017-06-05
 
 ![tuRbonegro](https://raw.githubusercontent.com/ColinFay/tuRbonegro/master/tuRbonegro.png)
 
++ [testrmd — Test chunks for R Markdown.](https://github.com/ropenscilabs/testrmd)
+
++ [reports: Assist the Workflow of Writing Academic Articles and Other Reports](https://cran.r-project.org/web/packages/reports/index.html)
+
++ [Turn R users insane with evil](https://romain.rbind.io/blog/2017/05/28/turn-r-users-insane-with-evil/)
+
+![evil](https://romain.rbind.io/img/evil.png)
+
 ###  Package Releases
 + [kableExtra 0.2.1](http://haozhu233.github.io/kableExtra/awesome_table_in_html.html#group_rows) - Build complex tables with kable & pipes
 
 ###  R Internationally
 
-+ [S’il te plaît, dessine-moi une carte (avec R)](http://www.thinkr.fr/sil-te-plait-dessine-moi-carte-r/) — [English - autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/sil-te-plait-dessine-moi-carte-r/)
++ [Premiers pas en Machine Learning avec R. Volume 3 : k-means clustering](http://www.thinkr.fr/premiers-pas-en-machine-learning-avec-r-volume-3-k-means-clustering/) — [English - autotranslate](http://translate.google.com/translate?hl=&sl=fr&tl=en&u=http://www.thinkr.fr/premiers-pas-en-machine-learning-avec-r-volume-3-k-means-clustering/)
 
 
 
@@ -65,6 +75,8 @@ Release Date: 2017-06-05
 + [How do you feel about Last Week Tonight?](https://d4tagirl.com/2017/05/how-do-you-feel-about-last-week-tonight)
 
 + [Managing Spark data handles in R](http://www.win-vector.com/blog/2017/05/managing-spark-data-handles-in-r/)
+
++ [Summarizing big data in R](http://www.win-vector.com/blog/2017/05/summarizing-big-data-in-r/#more-5007)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
