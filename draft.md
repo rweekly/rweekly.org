@@ -45,7 +45,7 @@ Release Date: 2017-06-05
 
 ###  Videos and Podcasts
 
-+ [Forecasting Using R Course](https://robjhyndman.com/hyndsight/datacamp/)
++ [Forecasting Using R - Online Course](https://robjhyndman.com/hyndsight/datacamp/)
 
 + [Data Science Podcasts](http://jonmcalder.github.io/2017-05-31-data-science-podcasts/)
 
