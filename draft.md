@@ -23,6 +23,8 @@ Release Date: 2017-06-05
 
 ###  R in the Real World
 
++ [Conditional Generative Adversarial Network with MXNet R package](http://dmlc.ml/rstats/2017/06/01/Generative-Adversial-Network-in-R.html) - build and train a Conditional Generative Adversarial Network (CGAN) on MNIST images.
+
 + [Exploring Mental Health Conditions in the Tech Workplace](http://blog.nycdatascience.com/student-works/r-shiny/interesting-study-exploring-mental-health-conditions-tech-workplace)
 
 + [Which Emojis Does Lucy Use in Commit Messages?](http://seankross.com/2017/05/30/Which-Emojis-Does-Lucy-Use-in-Commit-Messages.html) 
