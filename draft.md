@@ -77,7 +77,7 @@ Release Date: 2017-06-05
 
 + [future.batchtools](https://cran.r-project.org/package=future.batchtools) - Friendly Parallel and Distributed Processing in R for Everyone and Everywhere ... now also on High-Performance Compute (HPC) clusters via the batchtools package
 
-![future.batchtools software stack and example](future.batchtools_0.5.0_50pct.png)
+![future.batchtools software stack and example](https://github.com/HenrikBengtsson/public_tmp/raw/master/future.batchtools_0.5.0_50pct.png)
 
 + [keras](https://rstudio.github.io/keras/) - R interface to Keras
 
