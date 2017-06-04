@@ -75,6 +75,10 @@ Release Date: 2017-06-05
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [future.batchtools](https://cran.r-project.org/package=future.batchtools) - Friendly Parallel and Distributed Processing in R for Everyone and Everywhere ... now also on High-Performance Compute (HPC) clusters via the batchtools package
+
+![future.batchtools software stack and example](future.batchtools_0.5.0_50pct.png)
+
 + [keras](https://rstudio.github.io/keras/) - R interface to Keras
 
 + [tuRbonegro](http://colinfay.me/rstats-turbonegro/) - Plays a random Turbonegro clip in your R Viewer
