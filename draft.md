@@ -21,7 +21,6 @@ Release Date: 2017-06-12
 
 
 
-
 ###  R in Academia
 
 
