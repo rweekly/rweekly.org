@@ -14,8 +14,13 @@ Release Date: 2017-06-12
 
 ###  Insights
 
++ [In case you missed it: May 2017 roundup](http://blog.revolutionanalytics.com/2017/06/in-case-you-missed-it-may-2017-roundup.html)
 
++ [Rediscovering Rd2roxygen](https://yihui.name/en/2017/06/rediscovering-rd2roxygen/)
 
++ [The Ghost Printer Behind Top-level R Expressions](https://yihui.name/en/2017/06/top-level-r-expressions/)
+
++ [What is the tidyverse? ](https://rviews.rstudio.com/2017/06/08/what-is-the-tidyverse/)
 
 ###  R in the Real World
 
@@ -34,13 +39,18 @@ Release Date: 2017-06-12
 
 ###  Videos and Podcasts
 
++ [Analyzing Lengths of Not So Standard Deviations Episodes](http://analystmindset.com/2017/05/22/episode-1/)
 
++ [Wildfire Smoke Composition](https://www.youtube.com/watch?v=jWePleDwmQo&feature=youtu.be)
 
 ###  R in Organizations
 
++ [Unconf projects: skimr, emldown, testrmd, webrockets and more](http://ropensci.org/blog/blog/2017/06/05/unconf_recap_1) - [1](http://ropensci.org/blog/blog/2017/06/05/unconf_recap_1), [2](http://ropensci.org/blog/blog/2017/06/06/unconf_recap_2), [3](http://ropensci.org/blog/blog/2017/06/07/unconf_projects_3), [4](http://ropensci.org/blog/blog/2017/06/08/unconf_recap_4), [5](http://ropensci.org/blog/blog/2017/06/09/unconf_recap_5)
 
 
++ [Microsoft AI – Now Serving Critical Care Patients, Water-Insecure Populations in Africa, Bank Customers in New Zealand & Many More](https://blogs.technet.microsoft.com/machinelearning/2017/06/05/microsoft-ai-now-serving-critical-care-patients-water-insecure-populations-in-africa-bank-customers-in-new-zealand-many-more/)
 
++ [A Year of rOpenSci's Unconf](http://seankross.com/2017/06/07/A-Year-of-rOpenScis-Unconf.html)
 
 ###  Resources
 
@@ -55,13 +65,26 @@ Release Date: 2017-06-12
 
 + [plotdap](https://github.com/ropensci/plotdap) - visualize 'tabledap' and 'griddap' objects obtained via the rerddap package.
 
++ [cld3](https://cran.r-project.org/web/packages/cld3/index.html) - Google's Compact Language Detector 3
+
++ [electionsBR](https://cran.r-project.org/package=electionsBR) - An R to download and clean Brazilian electoral data.
+
++ [covfefe](https://cran.r-project.org/web/packages/covfefe/index.html) - Covfefy Any Word, Sentence or Speech
+
 ###  Package Releases
 
 + [here](https://cran.r-project.org/web/packages/here/index.html) - constructs paths to your project's files.
 
++ [RcppArmadillo 0.7.900.2.0](http://dirk.eddelbuettel.com/blog/2017/06/04#rcpparmadillo_0.7.900.2.0)
+
++ [anytime 0.3.0](http://dirk.eddelbuettel.com/blog/2017/06/05#anytime_0.3.0)
+
++ [quantmod 0.4-9](http://blog.fosstrading.com/2017/06/quantmod-0-4-9-on-cran.html) - Quantitative Financial Modelling & Trading Framework for R
+
+
 ###  R Internationally
 
-
++ [(Spanish) Visualizing Google Location History with R](https://bitsandbricks.github.io/post/visualizando-con-r-el-historial-de-ubicaciones-de-google-parte-i/)
 
 ### Gist & Cookbook
 
@@ -71,6 +94,86 @@ Release Date: 2017-06-12
 
 + [Ode to the here package](https://github.com/jennybc/here_here)
 
++ [New book: Data Munging with R. Now available in early access; add suggestions and comments to drafts.](https://www.manning.com/books/data-munging-with-r)
+
++ [Tutorial on using the Keras for R interface - build deep learning models using R!](http://projects.rajivshah.com/blog/2017/06/04/deeplearningR/)
+
++ [A brief inquiry into skimr's console histograms](https://daranzolin.github.io/articles/2017-06/consolehistograms)
+
++ [Deferred & Remote Function Execution in R](https://random-remarks.net/2017/06/03/deferred-remote-function-execution-in-r/)
+
++ [datazar](https://xianblog.wordpress.com/2017/06/04/datazar/)
+
++ [Global choropleth maps of military expenditure](http://ellisp.github.io/blog/2017/06/04/military-gdp)
+
+![Global choropleth maps of military expenditure](https://ellisp.github.io/img/0099-military-gdp.gif)
+
++ [R summary() got better!](http://www.win-vector.com/blog/2017/06/r-summary-got-better/)
+
++ [Shiny app to explore ggplot2](http://r-posts.com/shiny-app-to-explore-ggplot2/)
+
++ [Weather forecast with regression models – part 2](https://datascienceplus.com/weather-forecast-with-regression-models-part-2/)
+
++ [R⁶ — Scraping Images To PDFs](https://rud.is/b/2017/06/05/r%e2%81%b6-scraping-images-to-pdfs/)
+
++ [There is usually more than one way in R](http://www.win-vector.com/blog/2017/06/there-is-usually-more-than-one-way-in-r/)
+
++ [Who Survives Riddler Nation?](https://ntguardian.wordpress.com/2017/06/05/who-survives-riddler-nation/)
+
+![Who Survives Riddler Nation?](https://ntguardian.files.wordpress.com/2017/06/out2.gif?w=680)
+
++ [Housing supply, population, and house prices: Tableau Dashboard](http://lenkiefer.github.io/2017/06/05/tableau-dash)
+
++ [Freedman's paradox](http://www.alexejgossmann.com/Freedmans_paradox/)
+
++ [The Many-Faced Future](http://www.jottr.org/2017/06/the-many-faced-future.html)
+
++ [Web data acquisition: from database to dataframe for data analysis and visualization (Part 4)](http://r-posts.com/web-data-acquisition-from-database-to-dataframe-for-data-analysis-and-visualization-part-4/)
+
++ [Package "SentimentAnalysis" released on CRAN](http://www.rblog.uni-freiburg.de/2017/06/06/package-sentimentanalysis-released-on-cran/)
+
++ [2017-02  Variable-Width Line Ends and Line Joins](http://stattech.wordpress.fos.auckland.ac.nz/2017/06/07/2017-02-variable-width-line-ends-and-line-joins/)
+
++ [More on safe substitution in R](http://www.win-vector.com/blog/2017/06/more-on-safe-substitution-in-r/)
+
++ [The Blissful Ignorance of the Narrative Fallacy](http://multithreaded.stitchfix.com/blog/2017/06/07/hot-hand-and-narrative-fallacy/)
+
++ [How to create dot-density maps in R](http://blog.revolutionanalytics.com/2017/06/how-to-create-dot-density-maps-in-r.html)
+
++ [Add P-values and Significance Levels to ggplots](http://www.sthda.com/english/wiki/add-p-values-and-significance-levels-to-ggplots)
+
++ [Deep Learning with R](https://datascienceplus.com/deep-learning-with-r/)
+
++ [Words growing or shrinking in Hacker News titles: a tidy analysis](http://varianceexplained.org/r/hn-trends/)
+
++ [Campaign Response Testing no longer published on Udemy](http://www.win-vector.com/blog/2017/06/campaign-response-testing-no-longer-published-on-udemy/)
+
++ [Get the best from ggplotly](http://www.r-graph-gallery.com/2017/06/07/get-the-best-from-ggplotly/)
+
+![Get the best from ggplotly](http://www.r-graph-gallery.com/wp-content/uploads/2017/06/Demo_ggplotly.gif)
+
++ [Introduction to Set Theory and Sets with R](http://www.aaronschlegel.com/introduction-set-theory-r/)
+
++ [Run massive parallel R jobs cheaply with updated doAzureParallel package](http://blog.revolutionanalytics.com/2017/06/doazureparallel-updated.html)
+
++ [Go packages in R packages](https://romain.rbind.io/blog/2017/06/09/go-packages-in-r-packages/)
+
++ [Data Science for Business - Time Series Forecasting Part 2: Forecasting with timekit](https://shirinG.github.io/forecasting/2017/06/09/retail_forcasting_part2)
+
++ [Consider Netlify instead of GitHub Pages for Your Static Websites](https://yihui.name/en/2017/06/netlify-instead-of-github-pages/)
+
++ [Managing intermediate results when using R/sparklyr](http://www.win-vector.com/blog/2017/06/managing-intermediate-results-when-using-rsparklyr/)
+
++ [Introducing the MonteCarlo Package](https://firstdifferences.wordpress.com/2017/06/08/introducing-the-montecarlo-package/)
+
+
+
+
+
+
+
+
+
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -79,7 +182,11 @@ Release Date: 2017-06-12
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++  Reading from connections in text mode is buffered, significantly improving the performance of `readLines()`, as well as `scan()` and `read.table()`, at least when specfiying `colClasses`. 
 
++  `order()` is smarter about picking a default sort `method` when its arguments are objects. 
+
++ Extending S4 classes with slots corresponding to special attributes like `dim` and `dimnames` now works.
 
 
 
