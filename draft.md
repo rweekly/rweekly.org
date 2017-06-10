@@ -45,7 +45,7 @@ Release Date: 2017-06-12
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
++ [proustr](http://colinfay.me/proustr-package/) — access the work of Marcel Proust, ready for text analysis. 
 
 ###  Package Releases
 
