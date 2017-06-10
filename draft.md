@@ -26,11 +26,11 @@ Release Date: 2017-06-12
 
 + [Words growing or shrinking in Hacker News titles: a tidy analysis](http://varianceexplained.org/r/hn-trends/)
 
-![Words growing or shrinking in Hacker News titles: a tidy analysis](http://varianceexplained.org/figs/2017-06-08-hn-trends/unnamed-chunk-2-1.png)
+![Words growing or shrinking in Hacker News titles: a tidy analysis](https://raw.githubusercontent.com/rweekly/image/master/2017-03/stack.png)
 
 + [Building Dot Density Maps with UK Census Data in R](http://blog.cultureofinsight.com/2017/06/building-dot-density-maps-with-uk-census-data-in-r/)
 
-![Building Dot Density Maps with UK Census Data in R](http://blog.cultureofinsight.com/img/ldn_final.gif)
+![Building Dot Density Maps with UK Census Data in R](https://raw.githubusercontent.com/rweekly/image/master/2017-03/ldn_final.gif)
 
 ###  R in Academia
 
