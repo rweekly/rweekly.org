@@ -19,7 +19,13 @@ Release Date: 2017-06-12
 
 ###  R in the Real World
 
++ [Words growing or shrinking in Hacker News titles: a tidy analysis](http://varianceexplained.org/r/hn-trends/)
 
+![Words growing or shrinking in Hacker News titles: a tidy analysis](http://varianceexplained.org/figs/2017-06-08-hn-trends/unnamed-chunk-2-1.png)
+
++ [Building Dot Density Maps with UK Census Data in R](http://blog.cultureofinsight.com/2017/06/building-dot-density-maps-with-uk-census-data-in-r/)
+
+![Building Dot Density Maps with UK Census Data in R](http://blog.cultureofinsight.com/img/ldn_final.gif)
 
 ###  R in Academia
 
@@ -45,11 +51,13 @@ Release Date: 2017-06-12
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [proustr](http://colinfay.me/proustr-package/) — access the work of Marcel Proust, ready for text analysis. 
++ [proustr](http://colinfay.me/proustr-package/) — access the work of Marcel Proust, ready for text analysis.
+
++ [plotdap](https://github.com/ropensci/plotdap) - visualize 'tabledap' and 'griddap' objects obtained via the rerddap package.
 
 ###  Package Releases
 
-
++ [here](https://cran.r-project.org/web/packages/here/index.html) - constructs paths to your project's files.
 
 ###  R Internationally
 
@@ -57,11 +65,11 @@ Release Date: 2017-06-12
 
 ### Gist & Cookbook
 
-
++ [spark things](https://gist.github.com/benmarwick/152bebd96eb359a9f379f4ec94bdb93a) - put Tufte-like sparkbars in R markdown documents
 
 ###  Tutorials
 
-
++ [Ode to the here package](https://github.com/jennybc/here_here)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
