@@ -114,7 +114,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Fame at last: <a href="https://t.co/x4wIePKR6b">https://t.co/x4wIePKR6b</a> -- it&#39;s always nice to get a bit of recognition!  Coded in <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> back in 2005, and it still runs.</p>&mdash; David Firth (@firthcity) <a href="https://twitter.com/firthcity/status/872565232606081025">June 7, 2017</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When someone tells me they can&#39;t do something with <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> ggplot2 I tell them to have a look at <a href="https://t.co/Y0QKOs9Dzx">https://t.co/Y0QKOs9Dzx</a></p>&mdash; Maëlle Salmon (@ma_salmon) <a href="https://twitter.com/ma_salmon/status/873075721932914689">June 9, 2017</a></blockquote>
 
 
 
