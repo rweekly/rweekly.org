@@ -110,6 +110,7 @@ Release Date: 2017-06-19
 
 + [(Spanish) Visualizing Google Location History Part 2 - Detecting the user activities and home location](https://bitsandbricks.github.io/post/visualizando-con-r-el-historial-de-ubicaciones-de-google-parte-ii/)
 
++ [(Portuguese) br Bloggers: a blog aggregator of content contributed by bloggers who write about R in Portuguese](https://brbloggers.com.br/)
 
 ###  Tutorials
 
