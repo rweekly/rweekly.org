@@ -166,6 +166,10 @@ Release Date: 2017-06-26
 
 + [Confidence Intervals without Your Collaborator's Tears](http://staff.math.su.se/hoehle/blog/2017/06/22/interpretcis.html)
 
++ [Using tidycensus and leaflet to map Census data](https://juliasilge.com/blog/using-tidycensus/)
+
++ [datatables with d3 axis in header](https://bl.ocks.org/timelyportfolio/00d84a8159a2f8cb8c0e54df913f76cc)
+
 ### Gist & Cookbook
 
 
