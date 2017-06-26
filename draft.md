@@ -55,7 +55,7 @@ Release Date: 2017-07-03
 
 ###  Tutorials
 
-
++ [(Beginners) Storing Values (Assigning)](https://jcarroll.com.au/2017/06/26/data-munging-with-r-preview-storing-values-assigning/)
 
 ### Gist & Cookbook
 
