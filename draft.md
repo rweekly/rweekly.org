@@ -14,9 +14,13 @@ Release Date: 2017-07-03
 
 ###  Insights
 
++ [filter with context](https://romain.rbind.io/blog/2017/06/28/filter-with-context/)
+
++ [A Tidy Data Model for Natural Language Processing using cleanNLP](https://journal.r-project.org/archive/2017/RJ-2017-035/index.html)
 
 ###  R in the Real World
 
++ [How R is used by the FDA for regulatory compliance](http://blog.revolutionanalytics.com/2017/06/r-fda.html)
 
 ###  R in Academia
 
@@ -56,6 +60,10 @@ Release Date: 2017-07-03
 ###  Tutorials
 
 + [(Beginners) Storing Values (Assigning)](https://jcarroll.com.au/2017/06/26/data-munging-with-r-preview-storing-values-assigning/)
+
++ [Playing with R, infix functions, and pizza](http://colinfay.me/playing-r-infix-functions/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2017-6/infix-functions.png)
 
 ### Gist & Cookbook
 
