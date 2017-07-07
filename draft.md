@@ -44,6 +44,9 @@ Release Date: 2017-07-10
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [{fcuk}](A package designed to help people with clumsy fingers)
+
+![](https://media.giphy.com/media/l0Iy8JGxnl5rE1Z96/giphy.gif)
 
 
 ###  Package Releases
