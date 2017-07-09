@@ -22,6 +22,20 @@ Release Date: 2017-07-10
 
 + [Teaching data science to new useRs](https://github.com/mine-cetinkaya-rundel/2017-07-05-teach-ds-to-new-user)
 
++ [Back from useR!2017: a summer to-do list](http://colinfay.me/back-user2017/)
+
++ [mapedit](https://github.com/tim-salabim/user2017-mapedit-talk)
+
++ [ompr](https://schd.ws/hosted_files/user2017/63/Dirk_Schumacher_presentation_ompr.html)
+
++ [FFTrees - An R package to create, visualize, and evaluate fast-and-frugal decision trees](https://ndphillips.github.io/useR2017_pres/#1)
+
++ [Automatic machine learning with R](https://github.com/h2oai/h2o-meetups/blob/master/2017_07_05_useR_Brussels_H2O_AutoML_in_R/useR2017_automl_july2017.pdf)
+
++ [Haskell, R, and HaskellR: Combining the best of two worlds](https://recurrentnull.wordpress.com/2017/07/07/haskellr/)
+
+
+
 ### Insights
 
 + [Teach the tidyverse to beginners](http://varianceexplained.org/r/teach-tidyverse/)
