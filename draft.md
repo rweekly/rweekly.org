@@ -19,9 +19,11 @@ Release Date: 2017-07-17
 
 ### Insights
 
++ [Accelerating ggplot2: use a canvas to speed up rendering plots](https://ikashnitsky.github.io/2017/ggplot2-microbenchmark/)
 
++ [The R Shiny packages you need for your web apps!](http://enhancedatascience.com/2017/07/10/the-packages-you-need-for-your-r-shiny-application/)
 
-
++ [A tour of the tibble package](https://tjmahr.github.io/tibble-package-tour/)
 
 ###  R in the Real World
 
@@ -64,12 +66,12 @@ Release Date: 2017-07-17
 
 ###  R Internationally
 
-
++ [Les API, un enfeR ?](http://www.thinkr.fr/)
 
 
 ###  Tutorials
 
-
++ [Useful dplyr Functions (w/examples)](https://sw23993.wordpress.com/2017/07/10/useful-dplyr-functions-wexamples/)
 
 
 ### Gist & Cookbook
