@@ -23,6 +23,8 @@ Release Date: 2017-07-17
 
 + [A tour of the tibble package](https://tjmahr.github.io/tibble-package-tour/)
 
++ [What R Packages Are Supported in Power BI Service?](https://dataveld.wordpress.com/2017/07/11/what-r-packages-are-supported-in-power-bi-service/)
+
 ###  R in the Real World
 
 
@@ -52,9 +54,9 @@ Release Date: 2017-07-17
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [Introducing learnr](https://blog.rstudio.com/2017/07/11/introducing-learnr/)
 
-
-
++ [Asynchronous API calls with postlightmercury](http://www.56n.dk/asynchronous-api-calls-with-postlightmercury/)
 
 ###  Package Releases
 
@@ -64,7 +66,9 @@ Release Date: 2017-07-17
 
 ###  R Internationally
 
-+ [Les API, un enfeR ?](http://www.thinkr.fr/)
++ [Les API, un enfeR ?](http://www.thinkr.fr/les-api-un-enfer/) 
+
++ [De retour d'Anglet](http://www.thinkr.fr/de-retour-danglet/)
 
 
 ###  Tutorials
