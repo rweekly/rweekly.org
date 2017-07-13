@@ -92,6 +92,11 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ###  Upcoming Events
 
++ RStudio conf 2018 <br />
+**January 31 to February 3** <br />
+[Register & More infos](https://www.rstudio.com/conference/)
+
+
 + useR! 2018 **July 10, 2018** <br />
 The annual useR! conference is the main meeting of the international R user and developer community.
 
