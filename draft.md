@@ -42,7 +42,7 @@ Release Date: 2017-07-17
 
 ###  R in Organizations
 
-
++ [awesome-r-organizations](https://github.com/dirkschumacher/awesome-r-organizations) — A community curated list of awesome companies/organizations that contribute open source R software.
 
 
 ###  Resources
