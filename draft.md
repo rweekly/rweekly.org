@@ -19,6 +19,8 @@ Release Date: 2017-07-17
 
 ### Insights
 
++ [Down the rabbit hole with tidyeval — Part 1](http://colinfay.me/tidyeval-1/)
+
 + [The R Shiny packages you need for your web apps!](http://enhancedatascience.com/2017/07/10/the-packages-you-need-for-your-r-shiny-application/)
 
 + [A tour of the tibble package](https://tjmahr.github.io/tibble-package-tour/)
