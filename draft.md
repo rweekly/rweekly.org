@@ -14,39 +14,18 @@ Release Date: 2017-07-17
 
 ### UseR! 2017 
 
-+ [useR! 2017 Video Recordings](https://channel9.msdn.com/Events/useR-international-R-User-conferences)
 
-+ [GeoSpatial Data Visualization in R](https://bhaskarvk.github.io/user2017.geodataviz/)
-
-+ [Emojis at #useR2017](https://romain.rbind.io/blog/2017/07/11/emojis-at-user2017/)
-
-+ [useR!2017: Analysing Learning Patterns with R](https://businessinformatics.be/2017/07/14/user2017-analysing-learning-patterns-with-r/)
-
-+ [useR!2017 In Retrospect](http://www.datacamp.com/community/blog/user-2017-in-retrospect)
-
-+ [Opening Reproducible Research team in useR!2017](http://o2r.info/2017/07/07/useR2017/)
 
 
 ### Insights
 
-+ [Down the rabbit hole with tidyeval — Part 1](http://colinfay.me/tidyeval-1/)
 
-+ [The R Shiny packages you need for your web apps!](http://enhancedatascience.com/2017/07/10/the-packages-you-need-for-your-r-shiny-application/)
-
-+ [A tour of the tibble package](https://tjmahr.github.io/tibble-package-tour/)
-
-+ [What R Packages Are Supported in Power BI Service?](https://dataveld.wordpress.com/2017/07/11/what-r-packages-are-supported-in-power-bi-service/)
-
-+ [20 years of CRAN](http://blog.revolutionanalytics.com/2017/07/20-years-of-cran.html)
 
 
 ###  R in the Real World
 
-+ [County eBirding: web scraping and web mapping in R](http://strimas.com/r/ebird-county/)
 
-![County eBirding: web scraping and web mapping in R](https://raw.githubusercontent.com/rweekly/image/master/2017-03/ebird-county_choropleth-species-st-1.png)
 
-+ [Who uses ggplot2 for publications](https://www.reddit.com/r/rstats/comments/6mu6mx/who_uses_ggplot2_for_publications/)
 
 ###  R in Academia
 
@@ -61,16 +40,11 @@ Release Date: 2017-07-17
 
 ###  R in Organizations
 
-+ [awesome-r-organizations](https://github.com/dirkschumacher/awesome-r-organizations) — A community curated list of awesome companies/organizations that contribute open source R software.
 
-+ [Stan Weekly Roundup, 14 July 2017](http://andrewgelman.com/2017/07/14/stan-weekly-roundup-14-july-2017/)
-
-+ [The R Journal, Volume 9, Issue 1](https://journal.r-project.org/archive/2017-1/)
 
 ###  Resources
 
 
-+ [Useful links for mapping in R](https://www.mytinyshinys.com/2017/07/09/mapl)
 
 
 ###  New Packages
@@ -78,117 +52,16 @@ Release Date: 2017-07-17
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 
-+ [ggshape](https://github.com/jonocarroll/ggshape) - 
-Arrange 'ggplot' facets in arbitrary shapes
-
-![ggshape](https://raw.githubusercontent.com/jonocarroll/ggshape/master/man/figures/languages.png)
-
-+ [ggjoy](https://github.com/clauswilke/ggjoy) - Geoms to make joy plots using ggplot2
-
-+ [llr](https://github.com/dirkschumacher/llr) -  Lisp like R
-
-+ [tidyweb](https://github.com/hrbrmstr/tidyweb) - 
-Easily Install and Load Modern Web-Scraping Packages
-
-+ [learnr](https://blog.rstudio.com/2017/07/11/introducing-learnr/) - Introducing learnr
-
-+ [postlightmercury](http://www.56n.dk/asynchronous-api-calls-with-postlightmercury/) - Asynchronous API calls
-
-+ [sweep](http://www.business-science.io/code-tools/2017/07/09/sweep-0-1-0.html) - Extending broom for time series forecasting
-
-+ [ergastR](https://blog.ouseful.info/2017/07/14/ergastr-r-wrapper-for-ergast-f1-results-data-api/) - R Wrapper for ergast F1 Results Data API
-
-###  Package Releases
-
-+ [haven 1.1.0](https://blog.rstudio.com/2017/07/13/haven-1-1-0/)
-
-+ [OpenCPU 2.0](https://www.opencpu.org/posts/opencpu-2-0/) - Announcing OpenCPU 2.0: Building and Deploying Scalable R Apps and Services
-
 
 ###  R Internationally
 
-+ [Les API, un enfeR ?](http://www.thinkr.fr/les-api-un-enfer/) 
 
-+ [De retour d'Anglet](http://www.thinkr.fr/de-retour-danglet/)
+
 
 
 ###  Tutorials
 
-+ [Useful dplyr Functions (w/examples)](https://sw23993.wordpress.com/2017/07/10/useful-dplyr-functions-wexamples/)
 
-+ [How to Add a Logo to ggplot by Magick](http://danielphadley.com/ggplot-Logo/)
-
-+ [Downloading S&P 500 Stock Data from Google/Quandl with R (Command Line Script)](https://ntguardian.wordpress.com/2017/07/10/downloading-sp-500-stock-data-google-quandl-r-command-line-script/)
-
-+ [Improving state-space modelling of the Australian 2007 federal election](http://ellisp.github.io/blog/2017/07/09/oz-polls-revisited)
-
-+ [What is magrittr's future in the tidyverse?](http://www.win-vector.com/blog/2017/07/what-is-magrittrs-future-in-the-tidyverse/)
-
-+ [In praise of syntactic sugar](http://www.win-vector.com/blog/2017/07/in-praise-of-syntactic-sugar/)
-
-+ [Dealing with S3 methods in R with a simple example](https://insightr.wordpress.com/2017/07/11/dealing-with-s3-methods-in-r-with-a-simple-example/)
-
-+ [Using the iGraph package to Analyse the Enron Corpus](http://r.prevos.net/analyse-enron-corpus/)
-
-![Using the iGraph package to Analyse the Enron Corpus](https://raw.githubusercontent.com/rweekly/image/master/2017-03/enron.png)
-
-+ [Summer of data science 1: Genomic prediction machines #SoDS17](https://martinsbioblogg.wordpress.com/2017/07/09/summer-of-data-science-1-genomic-prediction-machines-sods17/)
-
-+ [A tour of the tibble package](https://tjmahr.github.io/tibble-package-tour/)
-
-+ [How to Scrape Images from Google](http://flovv.github.io/scrape_images_google/)
-
-
-+ [Introducing learnr](https://blog.rstudio.com/2017/07/11/introducing-learnr/)
-
-+ [skimr for useful and tidy summary statistics](http://ropensci.org/blog/blog/2017/07/11/skimr)
-
-+ [Helping Guests Make Informed Decisions with Market Insights](https://medium.com/airbnb-engineering/helping-guests-make-informed-decisions-with-market-insights-8b09dc904353?source=rss----53c7c27702d5--machine_learning)
-
-+ [Take the R Consortium survey on R](http://blog.revolutionanalytics.com/2017/07/r-consortium-survey.html)
-
-+ [easy riddle](https://xianblog.wordpress.com/2017/07/12/easy-riddle/)
-
-+ [Mapping Eurostat information Part 1](https://www.mytinyshinys.com/2017/07/11/eurostat)
-
-+ [It brings me ggjoy](http://www.austinwehrwein.com/data-visualization/it-brings-me-ggjoy/)
-
-+ [Interactive sunbuRst graphs in Power BI](https://longhowlam.wordpress.com/2017/07/13/interactive-sunburst-graphs-in-power-bi-in-5-minutes/)
-
-![Interactive sunbuRst graphs in Power BI](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA2fAAAAJDFjZGZkZjY2LTg3ZDMtNDIzMy1iYjkxLTVjMzgwYzBlZDVlOA.png)
-
-+ [Analyzing Obesity across USA](https://datascienceplus.com/analyzing-obesity-across-usa/)
-
-+ [Data Science Accelerator for Credit Risk Prediction](http://blog.revolutionanalytics.com/2017/07/credit-risk-prediction.html)
-10:41
-
-+ [Roger Tomlinson's PhD: The first in GIS](http://spatial.ly/2017/07/roger-tomlinsons-phd-the-first-in-gis/)
-
-+ [Better Grouped Summaries in dplyr](http://www.win-vector.com/blog/2017/07/better-grouped-summaries-in-dplyr/)
-
-+ [Reigniting the fire: A roadmap for fiery](http://www.data-imaginist.com/2017/Reigniting-the-fire/)
-
-+ [RNG impact on MCMC [or lack thereof]](https://xianblog.wordpress.com/2017/07/13/33889/)
-
-+ [Who turned out to vote in the 2014 New Zealand general election?](http://ellisp.github.io/blog/2017/07/13/voter-turnout)
-
-+ [Improving state-space modelling of the Australian 2007 federal election](http://ellisp.github.io/blog/2017/07/09/oz-polls-revisited)
-
-+ [Deep Learning for Brand Logo Detection - part II](http://flovv.github.io/Logo_detection_deep_learning_part2/)
-
-+ [Interactive sunbuRst graphs in Power BI in 5 minutes!!](https://longhowlam.wordpress.com/2017/07/13/interactive-sunburst-graphs-in-power-bi-in-5-minutes/)
-
-+ [Surface Renewal Analysis for Energy Flux Exchanges in an Ecosystem: 1: Calculating Ramp Characteristics using R.](http://r-posts.com/surface-renewal-analysis-for-energy-flux-exchanges-in-an-ecosystem-1-calculating-ramp-characteristics-using-r/)
-
-+ [Lagrangian Polynomial Interpolation with R](http://www.aaronschlegel.com/lagrangian-polynomial-interpolation-r/)
-
-+ [Inventory Time Machine](http://multithreaded.stitchfix.com/blog/2017/07/13/inventory-time-machine/)
-
-+ [ergastR – R Wrapper for ergast F1 Results Data API](https://blog.ouseful.info/2017/07/14/ergastr-r-wrapper-for-ergast-f1-results-data-api/)
-
-+ [Setting up large scale OSM environments for R using Osmosis and PostgreSQL with PostGIS](http://r-spatial.org//2017/07/14/Large_scale_OSM_in_R.html)
-
-+ [R in Minecraft: the lightning talk](http://blog.revolutionanalytics.com/2017/07/r-in-minecraft-lightning.html)
 
 
 ### Gist & Cookbook
@@ -203,21 +76,14 @@ Easily Install and Load Modern Web-Scraping Packages
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-+ `debug()` supports debugging of methods on any `"genericFunction"`, including group generics.
 
-+ The default for `tools::write_PACKAGES(rds_compress=)` has been changed to `"xz"` to match the compression used by CRAN.
 
-+ `packageDescription()` tries harder to solve re-encoding issues, notably seen in some Windows locales. This fixes the `citation()` issue in PR#17291.
-
-+ `model.matrix(~1, mf)` now gets the row names from `mf` also when they differ from `1:nrow(mf)`, fixing PR#14992 thanks to the suggestion by Sebastian Meyer.
-
-+ `rt()` assumed the `ncp` parameter was a scalar.
 
 ###  Upcoming Events
 
-+ RStudio conf 2018 <br />
++ RStudio conf 2018
 **January 31 to February 3** <br />
-[Register & More infos](https://www.rstudio.com/conference/)
+rstudio::conf is about all things R and RStudio! [Register & More infos](https://www.rstudio.com/conference/)
 
 
 + useR! 2018 **July 10, 2018** <br />
