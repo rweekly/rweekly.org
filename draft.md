@@ -14,7 +14,7 @@ Release Date: 2017-07-24
 
 ### UseR! 2017 
 
-
++ [(In French) De retour de useR!2017](http://www.thinkr.fr/de-retour-de-user2017/)
 
 
 ### Insights
@@ -51,12 +51,10 @@ Release Date: 2017-07-24
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [languagelayeR 1.1.0 is now on CRAN](http://colinfay.me/languagelayer110/)
 
 
 ###  R Internationally
-
-
-
 
 
 ###  Tutorials
