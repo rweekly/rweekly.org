@@ -27,6 +27,7 @@ Release Date: 2017-07-24
 
 + [Analysing useR!2017 schedule data](https://www.hvitfeldt.me/2017/07/20/analysing-user-2017-schedule-data/)
 
++ [North Dakota Horizontal Oil Well Production](https://seasmith.github.io/blog/north_dakota_horizontal_oil_well_production/)
 
 ###  R in Academia
 
