@@ -37,7 +37,7 @@ Release Date: 2017-07-24
 
 + [(In French) De retour de useR!2017](http://www.thinkr.fr/de-retour-de-user2017/)
 
-
++ [(In French) Dockeriser une application Shiny](http://www.thinkr.fr/dockeriser-application-shiny/)
 
 
 ###  Videos and Podcasts
