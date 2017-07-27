@@ -27,7 +27,9 @@ Release Date: 2017-07-31
 
 ###  R Internationally
 
++ [« À la bonne heure »… avec R !](http://www.thinkr.fr/ah-bonne-heure-r/)
 
++ [Les éléments répétés du génome humain : aperçu rapide avec R et le tidyverse](https://bioinfo-fr.net/elements-repetes-genome-humain-apercu-rapide-r-tidyverse)
 
 
 ###  Videos and Podcasts
@@ -58,8 +60,11 @@ Release Date: 2017-07-31
 
 ###  Tutorials
 
++ [Twitter trees](http://livefreeordichotomize.com/2017/07/24/twitter-trees/)
 
++ [Jumping dogs and density plots](http://luisdva.github.io/rstats/density-swarms/)
 
++ [Joyplots tutorial with insect data 🐛 🐞🦋](http://blog.kaggle.com/2017/07/20/joyplots-tutorial-with-insect-data/)
 
 ### Gist & Cookbook
 
