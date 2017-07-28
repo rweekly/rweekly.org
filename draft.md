@@ -13,9 +13,9 @@ Release Date: 2017-07-31
 
 ### Insights
 
++ [One month as a procrastinator on Stack Overflow](https://privefl.github.io/blog/one-month-as-a-procrastinator-on-stack-overflow/)
 
-
-
++ [Code: Simplicity or Speed?](https://www.symbolix.com.au/blog-main/xesf7gnkfwhajmrdwgft68hma8kklf)
 
 ###  R in the Real World
 
