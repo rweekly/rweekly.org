@@ -74,6 +74,7 @@ Release Date: 2017-07-31
 
 + [What's in our internal chaimagic package at work](http://maelle.github.io/2017/07/22/chaimagic/)
 
++ [RStudio meets MilanoR - Presentations, photos and video!](http://www.milanor.net/blog/rstudio-meets-milanor-presentations-photos-and-video/)
 
 ###  Resources
 
@@ -97,6 +98,8 @@ Release Date: 2017-07-31
 + [RSiteCatalyst 1.4.13](http://randyzwitch.com/rsitecatalyst-version-1-4-13-release-notes/)
 
 ###  Tutorials
+
++ [Quick Way of Installing all your old R libraries on a New Device](https://pythonandr.com/2017/07/27/quick-way-of-installing-all-your-old-r-libraries-on-a-new-device/)
 
 + [Twitter trees](http://livefreeordichotomize.com/2017/07/24/twitter-trees/)
 
