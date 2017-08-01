@@ -80,6 +80,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 **January 31 to February 3** <br />
 rstudio::conf is about all things R and RStudio! [Register & More infos](https://www.rstudio.com/conference/)
 
++ R/Finance 2018
+**June 1 and 2** <br>
+Applied Finance with R. [More info](http://www.rinfinance.com)
+
 + useR! 2018 **July 10, 2018** <br />
 The annual useR! conference is the main meeting of the international R user and developer community.
 
