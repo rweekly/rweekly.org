@@ -27,7 +27,7 @@ Release Date: 2017-08-07
 
 + [On Databeers Manila](http://www.tjpalanca.com/2017/07/databeers-mnl.html)
 
-![On Databeers Manila](http://tjpalanca.com/figures/20170731-reactions-vs-articles.gif)
+![On Databeers Manila](https://raw.githubusercontent.com/rweekly/image/master/2017-6/20170731-reactions-vs-articles-opt.gif)
 
 + [What makes an R talk popular? Scraping useR2017 attendance information to find out!](http://deanattali.com/blog/user2017/)
 
