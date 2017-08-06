@@ -31,6 +31,9 @@ Release Date: 2017-08-07
 
 + [What makes an R talk popular? Scraping useR2017 attendance information to find out!](http://deanattali.com/blog/user2017/)
 
++ [When do different types of crime occur during the day in Houston, Texas?](https://twitter.com/lksmth/status/892849692576329730)
+
+![When do different types of crime occur during the day in Houston, Texas?](https://pbs.twimg.com/media/DGQJECrVwAAeyoa.jpg)
 
 ###  R in Academia
 
