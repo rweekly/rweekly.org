@@ -34,7 +34,9 @@ Release Date: 2017-08-14
 
 ###  R Internationally
 
++ [Au menu du jour : {R6} — Partie 1](http://www.thinkr.fr/au-menu-du-jour-r6-partie-1/)
 
++ [Au menu du jour : {R6} — Partie 2](http://www.thinkr.fr/au-menu-du-jour-r6-partie-2/)
 
 
 
