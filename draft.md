@@ -15,6 +15,10 @@ Release Date: 2017-08-14
 
 + [Welcome](https://www.tidyverse.org/articles/2017/07/welcome/) to the Tidyverse
 
++ [R and active binding](http://colinfay.me/ractivebinfing/)
+
++ [Is it wine o'clock?](http://www.masalmon.eu/2017/08/12/wineoclock/)
+
 
 ###  R in the Real World
 
