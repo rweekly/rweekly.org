@@ -42,7 +42,7 @@ Release Date: 2017-08-14
 
 + [Au menu du jour : {R6} — Partie 2](http://www.thinkr.fr/au-menu-du-jour-r6-partie-2/)
 
-
++ [TalkR](https://github.com/ColinFay/talkR) — Bots retweeting language specific R hashtags
 
 ###  Videos and Podcasts
 
