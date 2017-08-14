@@ -9,7 +9,7 @@ layout: null
 		<description>{{ site.description }}</description>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-		{% for post in  site.posts %}
+		{% for post in  site.posts limit:40 %}
   		<item>
           {% capture abspath %}{{ site.url }}{{ post.url }}/../figure/{% endcapture %}
 				<title>{{ post.title }}</title>

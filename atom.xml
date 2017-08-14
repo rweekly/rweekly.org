@@ -15,7 +15,7 @@ layout: null
    <email>mail@rweekly.org</email>
  </author>
 
- {% for post in site.posts %}
+ {% for post in site.posts limit:40 %}
  <entry>
    <title>{{ post.title | xml_escape }}</title>
    <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
