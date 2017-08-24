@@ -13,13 +13,16 @@ Release Date: 2017-08-28
 
 ### Insights
 
-
++ [Investigating Docker and R]()
 
 
 ###  R in the Real World
 
++ [Why Can’t I Remember Game of Thrones Characters? An Analysis in R](http://colinfay.me/game-of-thrones-characters-r/)
 
+![](https://raw.githubusercontent.com/ColinFay/colinfay.github.io/master/uploads/2017/08/chr_shows_game_of_thrones.png)
 
++ [How Well Did I Follow Pedagogy Guidelines at R Bootcamp 2017?](https://kellieotto.github.io/posts/2017/08/r-bootcamp/)
 
 ###  R in Academia
 
@@ -49,9 +52,11 @@ Release Date: 2017-08-28
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [dataMaid: Your personal assistant for cleaning up the data cleaning process](https://www.r-bloggers.com/datamaid-your-personal-assistant-for-cleaning-up-the-data-cleaning-process/)
 
++ [Onboarding visdat, a tool for preliminary visualisation of whole dataframes](https://ropensci.org/blog/blog/2017/08/22/visdat)
 
-
++ [naniar: Data Structures, Summaries, and Visualisations for Missing Data](https://cran.r-project.org/web/packages/naniar/index.html)
 
 ### Package Releases
 
@@ -60,8 +65,9 @@ Release Date: 2017-08-28
 
 ###  Tutorials
 
++ [First attempts with simple features](http://johnmackintosh.com/2017-08-22-simply-mapping/)
 
-
++ [Beginner's guide to R: Introduction](http://www.computerworld.com.au/article/626207/beginner-guide-r-introduction/)
 
 
 ### Gist & Cookbook
