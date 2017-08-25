@@ -69,6 +69,15 @@ Release Date: 2017-08-28
 
 + [Beginner's guide to R: Introduction](http://www.computerworld.com.au/article/626207/beginner-guide-r-introduction/)
 
++ [Scraping Friends — An adventure with rvest and the wild wild (HTML) west](https://batteriesnotincluded.rbind.io/post/2017/08/scraping-friends/)
+
++ [Data Manipulation in R: Beyond SQL](https://www.red-gate.com/simple-talk/dotnet/software-tools/data-manipulation-in-r--beyond-sql/?platform=hootsuite)
+
++ [Using purrr to refactor imperative code](https://eric.netlify.com/2017/08/24/using-purrr-to-refactor-imperative-code/)
+
+![](https://d33wubrfki0l68.cloudfront.net/c20ccf935e6e2faf53ac44d4e6c6568682107b9d/4eb4b/post/water_challenge_files/figure-html/plots-1.png) 
+
++ [The Magic of Purrr](http://ctlente.com/en/purrr-magic/)
 
 ### Gist & Cookbook
 
