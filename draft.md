@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2017-36
+title: R Weekly 2017-37
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2017-09-04
+Release Date: 2017-09-11
 
 ###  Highlight
 
@@ -18,23 +18,7 @@ Release Date: 2017-09-04
 
 ###  R in the Real World
 
-+ [Gender recognition by voice and speech analysis](https://github.com/primaryobjects/voice-gender)
 
-+ [Pair Programming Statistical Analyses](http://staff.math.su.se/hoehle/blog/2017/09/02/pairprogramming.html)
-
-+ [The Language Wars are Good](https://daranzolin.github.io/articles/2017-08/language-wars)
-
-+ [The rise of the API](http://tamaszilagyi.com/blog/self-learning-hue-lights/)
-
-+ [The Perseus Dictionary, Part II](https://daranzolin.github.io/articles/2017-08/perseus-dictionary-ii)
-
-![The Perseus Dictionary, Part II](https://daranzolin.github.io/assets/Punic_war.png)
-
-+ [Advice for non-traditional data scientists](http://blog.shotwell.ca/2017/08/29/advice-for-non-traditional-data-scientists/)
-
-+ [Why I find tidyeval useful](http://www.brodrigues.co/blog/2017-08-27-why_tidyeval/)
-
-+ [Data Science on a Chromebook](https://simplystatistics.org/2017/08/29/data-science-on-a-chromebook/)
 
 
 ###  R in Academia
@@ -48,128 +32,35 @@ Release Date: 2017-09-04
 
 ###  Videos and Podcasts
 
-+ [45 - Analogy Corner After Dark](http://nssdeviations.com/45-analogy-corner-after-dark) - Hilary and Roger have a late-night discussion about JupyterCon, data analysis and decisions, and other deeper topics.
 
-
-
-+ [Joint profiling of native and R code by Kirill Müller](https://www.youtube.com/watch?v=THgNl-cN7Vc&list=PLIptkSEKleN17z3IAF6Pjc6tU755W67kv&index=2)
 
 ###  R in Organizations
 
-+ [Community Call - rOpenSci Software Review and Onboarding](http://ropensci.org/blog/blog/2017/08/31/comm-call-v14)
 
-+ [OpenML Workshop 2017](https://mlr-org.github.io/OpenML-workshop-2017/)
-
-+ [How rOpenSci uses Code Review to Promote Reproducible Science](http://ropensci.org/blog/blog/2017/09/01/nf-softwarereview)
 
 ###  Resources
 
-+ [Quantitative Risk Management Tutorial](http://www.qrmtutorial.org/)
+
+
+
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [pointblank](https://github.com/rich-iannone/pointblank)
 
-+ [seurat](https://github.com/satijalab/seurat) - R toolkit for single cell genomics
 
-+ [splashr](https://rud.is/b/2017/08/29/new-cran-package-announcement-splashr/) - New CRAN Package Announcement
-
-+ [July 2017 New Package Picks](https://rviews.rstudio.com/2017/08/28/july-2017-new-package-picks/)
-
-+ [Simple Queue Package for R](https://simplystatistics.org/2017/08/28/simple-queue-package-for-r/)
 
 
 ### Package Releases
 
-+ [RcppAnnoy 0.0.9](http://dirk.eddelbuettel.com/blog/2017/08/31#rcppannoy_0.0.9)
 
-+ [Mathpy 0.2.0 Released!](http://www.aaronschlegel.com/mathpy-0-2-0-released/)
 
-+ [RcppSMC 0.2.0](http://dirk.eddelbuettel.com/blog/2017/08/28#rcppsmc_0.2.0)
 
-+ [FFTrees](https://github.com/ndphillips/FFTrees)
-
-![FFTrees](https://github.com/ndphillips/FFTrees/raw/master/inst/HeartFFT.jpg)
 
 ###  Tutorials
 
-+ [wrapr: R Code Sweeteners](http://www.win-vector.com/blog/2017/08/wrapr-r-code-sweeteners/)
 
-+ [How much will that Texas rain be](http://www.decisionsciencenews.com/2017/08/25/much-will-texas-rain/)
-
-+ [WoE and IV Variable Screening with {Information} in R](http://www.exactness.net/post/164667039305)
-
-+ [Marginal effects for negative binomial mixed effects models (glmer.nb and glmmTMB) #rstats](https://strengejacke.wordpress.com/2017/08/27/marginal-effects-for-negative-binomial-mixed-effects-models-glmer-nb-and-glmmtmb-rstats/)
-
-+ [Forecasting is hard (work)-bonus charts](http://lenkiefer.github.io/2017/08/27/forecast2-gifs)
-
-+ [R6 and parent exposure](http://colinfay.me/r6-parent-exposure/)
-
-+ [One-way ANOVA in R](https://datascienceplus.com/one-way-anova-in-r/)
-
-+ [Neat New seplyr Feature: String Interpolation](http://www.win-vector.com/blog/2017/08/neat-new-seplyr-feature-string-interpolation/)
-
-+ [Packages to simplify mapping in R](http://blog.revolutionanalytics.com/2017/08/maps-in-r.html)
-
-+ [Le Monde puzzle [#1018]](https://xianblog.wordpress.com/2017/08/29/le-monde-puzzle-1018/)
-
-+ [rtimicropem: Using an *R* package as platform for harmonized cleaning of data from RTI MicroPEM air quality sensors](http://ropensci.org/blog/blog/2017/08/29/rtimicropem)
-
-![rtimicropem: Using an *R* package as platform for harmonized cleaning of data from RTI MicroPEM air quality sensors](https://ropensci.org/assets/blog-images/2017-08-29-rtimicropem/plotexample.png)
-
-+ [Shiny Dev Center gets a shiny new update](https://blog.rstudio.com/2017/08/29/shiny-dev-center-gets-a-shiny-new-update/)
-
-+ [Rpad Domain Repurposed To Deliver Creepy (and potentially malicious) Content](https://rud.is/b/2017/08/29/rpad-domain-repurposed-to-deliver-creepy-and-potentially-malicious-content/)
-
-+ [The Cycling Accident Map of Madrid City](https://fronkonstin.com/2017/08/29/the-cycling-accident-map-of-madrid-city/)
-
-+ [RStudio::Conf 2018](https://rviews.rstudio.com/2017/08/29/rstudio-conf-2018/)
-
-+ [EPL Week 3](https://www.mytinyshinys.com/2017/08/30/epl2018-wk3)
-
-+ [IMDB Genre Classification using Deep Learning](http://flovv.github.io/Text_classification/)
-
-+ [3-D animations with R](http://blog.revolutionanalytics.com/2017/08/3-d-animations-with-r.html)
-
-+ [Low-key dataviz](http://lenkiefer.github.io/2017/08/29/low-key)
-
-+ [The one function call you need to know as a data scientist: h2o.automl](https://longhowlam.wordpress.com/2017/08/30/the-one-function-call-you-need-to-know-as-a-data-scientist-h2o-automl/)
-
-+ [Tidy Time Series Analysis, Part 4: Lags and Autocorrelation](http://www.business-science.io/timeseries-analysis/2017/08/30/tidy-timeseries-analysis-pt-4.html)
-
-![Tidy Time Series Analysis, Part 4: Lags and Autocorrelation](https://raw.githubusercontent.com/rweekly/image/master/2017-03/tidy-time.png)
-
-+ [RStudio 1.1 Preview - I Only Work in Black](https://blog.rstudio.com/2017/08/30/rstudio-dark-theme/)
-
-![RStudio 1.1 Preview - I Only Work in Black](https://d33wubrfki0l68.cloudfront.net/7f83bbb6aae31666477e9125355915ecfa5dd967/90a82/images/2017-08-30-rstudio-dark-theme.png)
-
-+ [R in the Data Science Stack at ODSC](http://r-posts.com/r-in-the-data-science-stack-at-odsc/)
-
-+ [rtimicropem: Using an R package as platform for harmonized cleaning of data from RTI MicroPEM air quality sensors](http://ropensci.org/blog/blog/2017/08/29/rtimicropem)
-
-+ [Pulling Data Out of Census Spreadsheets Using R](https://datascienceplus.com/pulling-data-out-of-census-spreadsheets-using-r/)
-
-+ [Why to use the replyr R package](http://www.win-vector.com/blog/2017/08/why-to-use-the-replyr-r-package/)
-
-+ [Text featurization with the Microsoft ML package](http://blog.revolutionanalytics.com/2017/08/text-featurization-microsoftml.html)
-
-+ [Multiplicative Congruential Generators in R](http://www.aaronschlegel.com/multiplicative-congruential-generators-r/)
-
-+ [Tidyverse practice: mapping large European cities](http://sharpsightlabs.com/blog/map-european-cities-large-population/)
-
-+ [Mapping to a 't'(map)](http://johnmackintosh.com/2017-09-01-easy-maps-with-tmap/)
-
-+ [The Proof-Calculation Ping Pong](http://staff.math.su.se/hoehle/blog/2017/09/01/proofpingpong.html)
-
-+ [The curious connection between warehouse maps, movie recommendations, and structural biology](http://multithreaded.stitchfix.com/blog/2017/08/31/warehouse-layouts/)
-
-+ [Practical Data Science for Stats](http://blog.revolutionanalytics.com/2017/09/practical-data-science-for-stats.html)
-
-+ [Because it's Friday: Fake Views](http://blog.revolutionanalytics.com/2017/09/friday-fake-views.html)
-
-+ [Pair Programming Statistical Analyses](http://staff.math.su.se/hoehle/blog/2017/09/02/pairprogramming.html)
 
 ### Gist & Cookbook
 
@@ -215,10 +106,3 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check out my new package for vizualizing texts in a document layout <a href="https://t.co/DOAQbEZIwH">https://t.co/DOAQbEZIwH</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://twitter.com/hashtag/tidyverse?src=hash">#tidyverse</a>  <a href="https://twitter.com/hashtag/tidytext?src=hash">#tidytext</a> <a href="https://t.co/ddhfv5nxPL">pic.twitter.com/ddhfv5nxPL</a></p>&mdash; Emil Hvitfeldt (@Emil_Hvitfeldt) <a href="https://twitter.com/Emil_Hvitfeldt/status/902142430203572224">August 28, 2017</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You can not use <a href="https://twitter.com/hashtag/tidyverse?src=hash">#tidyverse</a> without base R. It&#39;s not a dichotomy. Pick the tools that make you most effective.</p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/903103150332280832">August 31, 2017</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s weird (amazing) when using <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> to search my google drive files is easier than using google drive to search itself. <a href="https://t.co/R8mjZVmP6M">https://t.co/R8mjZVmP6M</a></p>&mdash; Jessica Minnier (@datapointier) <a href="https://twitter.com/datapointier/status/902908805725356032">August 30, 2017</a></blockquote>
-
