@@ -98,7 +98,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-
++ [ [Paris] R expert - ThinkR ](https://thinkr.fr/rejoindre-thinkr/)
 
 
 ###  Call for Participation
