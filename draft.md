@@ -17,13 +17,20 @@ Release Date: 2017-09-11
 
 ![R Markdown for documents with logos, watermarks, and corporate styles](https://ellisp.github.io/img/0109-rmarkdown-screenshot.png)
 
++ [Thou shalt not compare numeric values (except when it works)](https://jcarroll.com.au/2017/09/04/thou-shalt-not-compare-numeric-values-except-when-it-works/)
+
 + [The summer of ggplot2 - wooooo!](http://www.tidyverse.org/articles/2017/09/ggplot2-internship/)
 
 + [👩‍💻🚙👯: My googledrive internship](http://www.tidyverse.org/articles/2017/09/lucy-internship/)
 
 + [Writing and Publishing my first R package](https://rviews.rstudio.com/2017/09/05/writing-and-publishing-my-first-r-package/)
 
+
 ###  R in the Real World
+
++ [Getting a Window into your Black Box Model](http://projects.rajivshah.com/inter/ReasonCode_NFL.html)
+
++ [genderBR - Predict gender from Brazilian first names](http://fmeireles.com/genderbr/)
 
 + [The search ‘for’ w’if’i](http://www.dataanalysisclassroom.com/lesson8/)
 
@@ -76,7 +83,7 @@ Release Date: 2017-09-11
 
 + [remedy — RStudio Addins to Simplify Markdown Writing](https://github.com/ThinkR-open/remedy)
 
-![](https://github.com/ThinkR-open/remedy/raw/master/readme_gif/remedy_example.gif)
+![remedy — RStudio Addins to Simplify Markdown Writing](https://github.com/ThinkR-open/remedy/raw/master/readme_gif/remedy_example.gif)
 
 + [It's tibbletime: Time-Aware Tibbles](http://www.business-science.io/code-tools/2017/09/07/tibbletime-0-0-1.html)
 
@@ -92,9 +99,6 @@ Release Date: 2017-09-11
 
 + [Spelling 1.0: quick and effective spell checking in R](http://ropensci.org/blog/technotes/2017/09/07/spelling-release)
 
-
-
-
 ###  Tutorials
 
 + [Erratum tidyr 0.7.0](http://www.tidyverse.org/articles/2017/09/erratum-tidyr-0.7.0/)
@@ -108,8 +112,6 @@ Release Date: 2017-09-11
 + [It is Needlessly Difficult to Count Rows Using dplyr](http://www.win-vector.com/blog/2017/09/it-is-needlessly-difficult-to-count-rows-using-dplyr/)
 
 + [Deep Dive - Y. Ogata's Residual Analysis for Point Processes](https://simplystatistics.org/2017/09/04/deep-dive-ogata/)
-
-+ [Thou shalt not compare numeric values (except when it works)](https://jcarroll.com.au/2017/09/04/thou-shalt-not-compare-numeric-values-except-when-it-works/)
 
 + [Migrating from GitHub to GitLab with RStudio (Tutorial)](https://shirinG.github.io/tutorials/2017/09/04/migrating_github_gitlab)
 
