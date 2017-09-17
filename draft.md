@@ -67,6 +67,7 @@ Release Date: 2017-09-18
 
 + [Shiny Server (Pro) 1.5.4](https://blog.rstudio.com/2017/09/12/shiny-server-pro-1-5-4/)
 
++ [officer 0.1.7](https://cran.r-project.org/web/packages/officer/index.html)
 
 + [huxtable 0.3.1](https://github.com/hughjonesd/huxtable) - An R package to create LaTeX and HTML tables, with a friendly, modern interface.
 
