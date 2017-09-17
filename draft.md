@@ -90,6 +90,8 @@ Release Date: 2017-09-18
 
 ![Analizando data de Airbnb en Buenos Aires](https://bitsandbricks.github.io/post/img/reporte_inmobiliario.png)
 
++ [À la découverte de {rvest}](https://thinkr.fr/rvest/)
+
 ###  Videos and Podcasts
 
 + [tidyverse, visualization, and manipulation basics](https://www.rstudio.com/resources/webinars/tidyverse-visualization-and-manipulation-basics/)
