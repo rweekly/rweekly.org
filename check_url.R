@@ -102,4 +102,4 @@ if (nrow(failed_draft)>0) {
 	print(failed_draft)
 }
 
-if (failed > 25) stop(paste0(failed, " links" ))
+if (failed > 300) stop(paste0(failed, " links" ))
