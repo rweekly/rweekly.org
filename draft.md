@@ -16,6 +16,7 @@ Release Date: 2017-09-25
 
 ###  R in the Real World
 
++ [US Oil Imports: A Tale of One Country](https://seasmith.github.io/blog/us_oil_imports_a_tale_of_one_country/)
 
 
 ###  New Packages
