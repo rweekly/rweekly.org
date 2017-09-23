@@ -63,6 +63,9 @@ Release Date: 2017-09-25
 
 + [markovifyR](https://github.com/abresler/markovifyR) -  Markovify wrapper for R
 
++ [pool](https://github.com/rstudio/pool) - Object Pooling
+
+
 ### Package Releases
 
 + [pinp 0.0.2: Onwards](http://dirk.eddelbuettel.com/blog/2017/09/20#pinp_0.0.2)
