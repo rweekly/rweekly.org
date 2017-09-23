@@ -13,26 +13,21 @@ Release Date: 2017-09-25
 
 ### Insights
 
++ [Best Practices for Organizing RMarkdown Projects](https://community.rstudio.com/t/best-practices-for-organizing-rmarkdown-projects/914)
+
++ [What’s the most interesting use of rvest you’ve seen in the wild?](https://community.rstudio.com/t/whats-the-most-interesting-use-of-rvest-youve-seen-in-the-wild/745)
+
++ [Why I use R for Data Science - An Ode to R](https://shirinG.github.io/blogging/2017/09/19/ode_to_r)
+
++ [Getting started with data visualization in R using ggplot2](http://www.storybench.org/getting-started-data-visualization-r-using-ggplot2/)
+
 + [Pur(r)ify Your Carets](http://rsangole.netlify.com/post/pur-r-ify-your-carets/)
 
 + [Finite Mixture Modeling using Flexmix](https://rsangole.netlify.com/post/finite-mixture-modeling-using-flexmix/)
 
-+ [Why I use R for Data Science - An Ode to R](https://shirinG.github.io/blogging/2017/09/19/ode_to_r)
-
-
-+ [The Minimal Reproducible Example Paradox](https://yihui.name/en/2017/09/the-minimal-reprex-paradox/)
-
-+ [One Little Thing: knitr::fig_chunk()](https://yihui.name/en/2017/09/knitr-fig-chunk/)
-
-+ [Getting started with data visualization in R using ggplot2](http://www.storybench.org/getting-started-data-visualization-r-using-ggplot2/)
-
-+ [Best Practices for Organizing RMarkdown Projects](https://community.rstudio.com/t/best-practices-for-organizing-rmarkdown-projects/914)
-
 ###  R in the Real World
 
 + [Create supply and demand economics curves with ggplot2](https://www.andrewheiss.com/blog/2017/09/15/create-supply-and-demand-economics-curves-with-ggplot2/)
-
-![Create supply and demand economics curves with ggplot2](https://www.andrewheiss.com/blog/2017/09/15/create-supply-and-demand-economics-curves-with-ggplot2/)
 
 + [Hurricane Irma visualiztion](https://github.com/USGS-VIZLAB/hurricane-irma)
 
@@ -40,11 +35,15 @@ Release Date: 2017-09-25
 
 + [US Oil Imports: A Tale of One Country](https://seasmith.github.io/blog/us_oil_imports_a_tale_of_one_country/)
 
+![US Oil Imports: A Tale of One Country](https://seasmith.github.io/blog/us_oil_imports_a_tale_of_one_country_files/figure-html/plot_summary-1.png)
+
 + [geom cloud.](http://www.gilgamath.com/geom-cloud.html)
 
 <!-- ![geom cloud.](http://www.gilgamath.com/figure/geom_cloud_first_plot-1.png) -->
 
 + [Mapping Fall Foliage with sf](https://rud.is/b/2017/09/18/mapping-fall-foliage-with-sf/)
+
+![Mapping Fall Foliage with sf](https://i2.wp.com/rud.is/dl/foliage.gif?zoom=3&resize=780%2C468&ssl=1)
 
 + [Don't teach students the hard way first](http://varianceexplained.org/r/teach-hard-way/)
 
@@ -97,6 +96,11 @@ Release Date: 2017-09-25
 
 ###  Tutorials
 
+
++ [The Minimal Reproducible Example Paradox](https://yihui.name/en/2017/09/the-minimal-reprex-paradox/)
+
++ [One Little Thing: knitr::fig_chunk()](https://yihui.name/en/2017/09/knitr-fig-chunk/)
+
 + [Automating roxygen2 package documentation](https://yonicd.github.io/2017-09-18-sinew/)
 
 + [HR Analytics: Using Machine Learning to Predict Employee Turnover](http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html)
@@ -105,15 +109,17 @@ Release Date: 2017-09-25
 
 + [Pirating Web Content Responsibly With R](https://rud.is/b/2017/09/19/pirating-web-content-responsibly-with-r/)
 
-+ [Time Series Analysis in R Part 1: The Time Series Object](https://datascienceplus.com/time-series-analysis-in-r-part-1-the-time-series-object/)
+![Pirating Web Content Responsibly With R](https://i2.wp.com/rud.is/b/wp-content/uploads/2017/09/Plot_Zoom-2.png?zoom=3&resize=780%2C596&ssl=1)
 
-+ [Hurricane Irma's rains, visualized with R](http://blog.revolutionanalytics.com/2017/09/hurricane-irmas-rains-visualized-with-r.html)
++ [Time Series Analysis in R Part 1: The Time Series Object](https://datascienceplus.com/time-series-analysis-in-r-part-1-the-time-series-object/)
 
 + [Regression Analysis — What You Should've Been Taught But Weren't,  and Were Taught But Shouldn't Have Been](https://matloff.wordpress.com/2017/09/20/regression-analysis-what-you-shouldve-been-taught-but-werent-and-were-taught-but-shouldnt-have-been/)
 
 + [GG what!](https://www.mytinyshinys.com/2017/09/20/ggwhat)
 
 + [Enterprise-ready dashboards with Shiny and databases](https://rviews.rstudio.com/2017/09/20/dashboards-with-r-and-databases/)
+
+![Enterprise-ready dashboards with Shiny and databases](https://rviews.rstudio.com/post/2017-09-12-dashboards-with-r-and-databases/main.png)
 
 + [From Biology to Industry. A Blogger's Journey to Data Science.](https://shirinG.github.io/blogging/2017/09/20/webinar_biology_to_data_science)
 
@@ -125,13 +131,13 @@ Release Date: 2017-09-25
 
 + [Exploratory Data Analysis of Tropical Storms in R](https://www.stoltzmaniac.com/exploratory-data-analysis-of-tropical-storms-in-r/)
 
-+ [Pirating Pirate Data for Pirate Day](http://blog.revolutionanalytics.com/2017/09/pirating-pirate-data-for-pirate-day.html)
-
 + [My advice on dplyr::mutate()](http://www.win-vector.com/blog/2017/09/my-advice-on-dplyrmutate/)
 
 + [On debugging](http://www.win-vector.com/blog/2017/09/on-debugging/)
 
 + [Multi-Dimensional Reduction and Visualisation with t-SNE](https://datascienceplus.com/multi-dimensional-reduction-and-visualisation-with-t-sne/)
+
+![Multi-Dimensional Reduction and Visualisation with t-SNE](https://datascienceplus.com/wp-content/uploads/2017/09/tsne7.png)
 
 + [Tutorial: Launch a Spark and R cluster with HDInsight](http://blog.revolutionanalytics.com/2017/09/hdinsight-tutorial.html)
 
@@ -202,3 +208,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Come do some <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> with me working to improve impact of vaccines in low &amp; middle income countries <a href="https://t.co/kG1ibTJHTw">https://t.co/kG1ibTJHTw</a></p>&mdash; Rich FitzJohn (@rgfitzjohn) <a href="https://twitter.com/rgfitzjohn/status/910435498241478662">September 20, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ht" dir="ltr">&quot;Hadleyverse&quot; vs &quot;tidyverse&quot; mentions on Twitter. <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/gwustPI12J">pic.twitter.com/gwustPI12J</a></p>&mdash; Mike Kearney📊 (@kearneymw) <a href="https://twitter.com/kearneymw/status/910135249744662529">September 19, 2017</a></blockquote>
+
