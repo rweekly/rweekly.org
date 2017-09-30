@@ -116,6 +116,8 @@ Release Date: 2017-10-02
 
 + [Streamgraphs: Economic trade flows with R](http://austinwehrwein.com/tutorials/streams/)
 
+![Streamgraphs: Economic trade flows with R](http://austinwehrwein.com/tutorials/streams_files/figure-html/unnamed-chunk-4-1.png)
+
 + [Blockchain & distributed ML - my report from the data2day conference](https://shirinG.github.io/conferences/data2day/2017/09/28/data2day)
 
 + [Oneway ANOVA Explanation and Example in R; Part 2](https://datascienceplus.com/oneway-anova-explanation-and-example-in-r-part-2/)
@@ -129,8 +131,6 @@ Release Date: 2017-10-02
 + [bupaR: Business Process Analysis with R](https://businessinformatics.be/2017/09/29/bupar-business-process-analysis-with-r/)
 
 + [Convert hand-drawn equations to LaTeX with the mathpix package](http://blog.revolutionanalytics.com/2017/09/convert-hand-drawn-equations-to-latex-with-the-mathpix-package.html)
-
-+ [Nonlinear Computation in Deep Linear Networks](https://blog.openai.com/nonlinear-computation-in-linear-networks/)
 
 + [Because it's Friday: Big Little Songs](http://blog.revolutionanalytics.com/2017/09/because-its-friday-big-little-songs.html)
 
