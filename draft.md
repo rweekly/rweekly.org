@@ -116,7 +116,7 @@ Release Date: 2017-10-02
 
 + [Streamgraphs: Economic trade flows with R](http://austinwehrwein.com/tutorials/streams/)
 
-![Streamgraphs: Economic trade flows with R](http://austinwehrwein.com/tutorials/streams_files/figure-html/unnamed-chunk-4-1.png)
+![Streamgraphs: Economic trade flows with R](https://raw.githubusercontent.com/rweekly/image/master/2017-03/stream.png)
 
 + [Blockchain & distributed ML - my report from the data2day conference](https://shirinG.github.io/conferences/data2day/2017/09/28/data2day)
 
