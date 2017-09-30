@@ -130,8 +130,6 @@ Release Date: 2017-10-02
 
 + [bupaR: Business Process Analysis with R](https://businessinformatics.be/2017/09/29/bupar-business-process-analysis-with-r/)
 
-+ [Convert hand-drawn equations to LaTeX with the mathpix package](http://blog.revolutionanalytics.com/2017/09/convert-hand-drawn-equations-to-latex-with-the-mathpix-package.html)
-
 + [Because it's Friday: Big Little Songs](http://blog.revolutionanalytics.com/2017/09/because-its-friday-big-little-songs.html)
 
 + [The Kelly Criterion — Does It Work?](https://quantstrattrader.wordpress.com/2017/09/29/the-kelly-criterion-does-it-work/)
