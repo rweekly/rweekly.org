@@ -66,9 +66,11 @@ Release Date: 2017-10-02
 
 + [August 2017 New Package Picks](https://rviews.rstudio.com/2017/09/29/august-2017-new-package-picks/)
 
++ [tidystringdist: String Distance Calculation with Tidy Data Principles](https://cran.r-project.org/web/packages/tidystringdist/index.html)
+
 ###  R Internationally
 
-
++ [Text mining et topic modeling avec R](https://thinkr.fr/text-mining-et-topic-modeling-avec-r/)
 
 ###  Videos and Podcasts
 
