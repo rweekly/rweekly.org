@@ -22,7 +22,9 @@ Release Date: 2017-10-09
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [gghighlight](https://yutani.rbind.io/post/2017-10-06-gghighlight/) - Highlight ggplot's Lines and Points with Predicates
 
+![](https://github.com/yutannihilation/gghighlight/raw/master/man/figures/README-gghighlight-line-1.png)
 
 
 ### Package Releases
