@@ -12,7 +12,9 @@ Release Date: 2017-10-16
 
 ### Insights
 
++ [The Impressive Growth of R](https://stackoverflow.blog/2017/10/10/impressive-growth-r/)
 
+![](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/10/plot_tags_time-1-675x675.png)
 
 ###  R in the Real World
 
@@ -25,11 +27,11 @@ Release Date: 2017-10-16
 
 ### Package Releases
 
-
++ [XKCDdata: Get XKCD Comic Data](https://cran.r-project.org/web/packages/XKCDdata/index.html)
 
 ###  R Internationally
 
-
++ [forcats, forcats, vous avez dit forcats ?](https://thinkr.fr/forcats-forcats-vous-avez-dit-forcats/)
 
 ###  Videos and Podcasts
 
@@ -41,12 +43,14 @@ Release Date: 2017-10-16
 
 ###  Resources
 
-
++ [R Manuals as bookdown](http://colinfay.me/r-manuals/)
 
 
 ###  Tutorials
 
++ [A gentle introduction to data visualisation using R](https://eight2late.wordpress.com/2017/10/10/a-gentle-introduction-to-data-visualisation-using-r/)
 
++ [Data Science 101: Sentiment Analysis in R Tutorial](http://blog.kaggle.com/2017/10/05/data-science-101-sentiment-analysis-in-r-tutorial/)
 
 ### Gist & Cookbook
 
