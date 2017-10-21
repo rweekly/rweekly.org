@@ -132,10 +132,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 + ‘R CMD javareconf’ has been updated to recognize the use of a Java 9 SDK on macOS.
 
-
-
-
-
 ###  Upcoming Events
 
 + RStudio conf 2018 **January 31 to February 3** <br />
