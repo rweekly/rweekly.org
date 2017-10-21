@@ -35,7 +35,7 @@ Release Date: 2017-10-23
 
 + [Bioinformatics plots](https://moderndata.plot.ly/bioinformatics-plots-made-in-python-and-r/)
 
-![Bioinformatics plots(https://moderndata.plot.ly/wp-content/uploads/2016/11/scroll-heatmap.gif)
+![Bioinformatics plots](https://moderndata.plot.ly/wp-content/uploads/2016/11/scroll-heatmap.gif)
 
 + [New Zealand fatal traffic crashes](http://ellisp.github.io/blog/2017/10/15/traffic-crashes)
 
