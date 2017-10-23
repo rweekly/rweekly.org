@@ -1,59 +1,34 @@
 ---
 layout: draft
-title: R Weekly 2017-43
+title: R Weekly 2017-44
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2017-10-23
+Release Date: 2017-10-30
 
 ###  Highlight
 
 
+
 ### Insights
 
-+ [An Updated History of R](http://blog.revolutionanalytics.com/2017/10/updated-history-of-r.html)
 
-+ [Why Use Docker with R? A DevOps Perspective](https://www.opencpu.org/posts/opencpu-with-docker/)
 
-+ [The 501st Reminder About Reproducible Examples](https://yihui.name/en/2017/10/501st-reminder/)
-
-+ [A Few Joyful Moments of A Software Developer](https://yihui.name/en/2017/10/joyful-moments/)
-
-+ [Employer refuses to install R / RStudio](https://www.reddit.com/r/rstats/comments/77l17i/employer_refuses_to_install_r_rstudio/?st=j914z0g5&sh=a2070473)
 
 ###  R in the Real World
 
-+ [Continuous deployment of a Twitterbot with R & Azure Functions](https//ewenme.rbind.io/blog/2017-10-11-meet_dumb_hardwax/)
 
-+ [Exploring Spotify Playlists](https://ccapella.github.io/post/exploring-spotify-playlists-by-country/) - analyse how different or how similar is the music that people around the world listen to.
 
-<video poster="https://ccapella.github.io/img/kmeanschart.png" preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline="" style="width: 500px; height: 300px;">
-    <source src="https://ccapella.github.io/img/ShinyApp.mp4" type="video/mp4">
-    <img src="https://ccapella.github.io/img/kmeanschart.png" title="">
-</video>
 
-+ [Bioinformatics plots](https://moderndata.plot.ly/bioinformatics-plots-made-in-python-and-r/)
-
-![Bioinformatics plots](https://moderndata.plot.ly/wp-content/uploads/2016/11/scroll-heatmap.gif)
-
-+ [New Zealand fatal traffic crashes](http://ellisp.github.io/blog/2017/10/15/traffic-crashes)
-
-+ [Is it faster to take a bike or taxi in NYC?](http://blog.revolutionanalytics.com/2017/10/bokes-taxis-nyc.html)
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 
-+ [preText](https://github.com/matthewjdenny/preText) - An R package to assess the effects of text preprocessing decisions.
-
-+ [seurat](https://github.com/satijalab/seurat) - R toolkit for single cell genomics
-
-+ [pecan](https://github.com/PecanProject/pecan) - The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox.
 
 ### Package Releases
-
 
 
 
@@ -63,12 +38,10 @@ Release Date: 2017-10-23
 
 ###  Videos and Podcasts
 
-+ [NSSD 47 - This is Episode 47](http://nssdeviations.com/47-this-is-episode-47)
 
 
 ###  R in Organizations
 
-+ [One Year as a Data Scientist at Simple](http://jasdumas.github.io/2017-10-17-one-year-ds/)
 
 
 ###  Resources
@@ -77,41 +50,6 @@ Release Date: 2017-10-23
 
 ###  Tutorials
 
-+ [Creating interactive SVG tables in R](http://moderndata.plot.ly/creating-interactive-svg-tables-in-r/)
-
-+ [Schedule R Code to Be Executed Periodically](https://yihui.name/en/2017/10/later-recursion/)
-
-+ [Sales Analytics: How to Use Machine Learning to Predict and Optimize Product Backorders](http://www.business-science.io/business/2017/10/16/sales_backorder_prediction.html)
-
-+ [colourpicker package v1.0: You can now select semi-transparent colours in R (& more!)](http://deanattali.com/blog/colourpicker-update-alpha/)
-
-+ [Data acquisition in R (1/4)](https://ikashnitsky.github.io/2017/data-acquisition-one/)
-
-+ [Data from Public Bicycle Hire Systems](http://ropensci.org/blog/blog/2017/10/17/bikedata)
-
-+ [🙈 mousey methods](https://maraaverick.rbind.io/2017/10/mousey-methods)
-
-+ [Goodreads 👍📚 Part 2: rvesting descriptions](https://maraaverick.rbind.io/2017/10/goodreads-part-2)
-
-+ [Bio7 2.6 for Windows and Linux Released](http://bio7.org/?p=2930)
-
-+ [Saving Snow Leopards with Artificial Intelligence](http://blog.revolutionanalytics.com/2017/10/snow-leopards.html)
-
-+ [splitting a field by annealing](https://xianblog.wordpress.com/2017/10/18/splitting-a-field-by-annealing/)
-
-+ [Stop Using word2vec](http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
-
-+ [Database Queries With R](https://rviews.rstudio.com/2017/10/18/database-queries-with-r/)
-
-+ [colourpicker package v1.0: You can now select semi-transparent colours in R (& more!)](https://deanattali.com/blog/colourpicker-update-alpha/)
-
-+ [🙈 mousey methods](https://maraaverick.rbind.io/2017/10/mousey-methods/)
-
-+ [Goodreads 👍📚 Part 2: rvesting descriptions](https://maraaverick.rbind.io/2017/10/goodreads-part-2/)
-
-+ [County-Level Choropleth in Plotly and R](http://moderndata.plot.ly/county-level-choropleth-in-plotly-and-r/)
-
-+ [First steps with MRF smooths](http://www.fromthebottomoftheheap.net/2017/10/19/first-steps-with-mrf-smooths/)
 
 
 ### Gist & Cookbook
@@ -124,13 +62,8 @@ Release Date: 2017-10-23
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-+ ‘Sys.timezone(location)’ is slightly less platform dependent, notably for ‘location = FALSE’.
 
-+ Support for a system Java on macOS has been removed - install a fairly recent Oracle Java (see ‘R Installation and Administration’ §C.3.2).
 
-+ The maximum number of DLLs that can be loaded into R e.g. _via_ ‘dyn.load()’ has been increased up to 614 when the OS limit on the number of open files allows.
-
-+ ‘R CMD javareconf’ has been updated to recognize the use of a Java 9 SDK on macOS.
 
 ###  Upcoming Events
 
@@ -160,5 +93,3 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">ggplot is not the only place we can use viridis color 😉 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/IGDSqKH6ts">pic.twitter.com/IGDSqKH6ts</a></p>&mdash; Hao Zhu (@haozhu233) <a href="https://twitter.com/haozhu233/status/919343119308611584?ref_src=twsrc%5Etfw">October 14, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
