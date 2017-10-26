@@ -73,7 +73,7 @@ rstudio::conf is about all things R and RStudio! [Register & More infos](https:/
 + R/Finance 2018 **June 1 and 2** <br />
 Applied Finance with R. [More info](http://www.rinfinance.com)
 
-+ 7eme Rencontres R  **5 & 6 July 2018**  <br/ >
++ 7eme Rencontres R  **5 & 6 July 2018** <br />
 Rennes - Agrocampus
 
 + useR! 2018 **July 10, 2018** <br />
