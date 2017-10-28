@@ -66,7 +66,7 @@ Release Date: 2017-10-30
 
 ###  Tutorials
 
-+ [Visualizing Trees | Sankey + Tree](http://www.jsinr.me/2017/10/18/visualizing-trees--sankey---tree/)
++ [Visualizing Trees - Sankey + Tree](http://www.jsinr.me/2017/10/18/visualizing-trees--sankey---tree/)
 
 + [gRasping the sentiment](https://sebastianrothbucher.github.io/datascience/r/tgif/2017/09/04/grasping-sentiment-r.html)
 
