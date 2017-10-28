@@ -22,11 +22,19 @@ Release Date: 2017-10-30
 
 + [World Population Density 1970-2000](http://spatial.ly/2017/10/world-population-density-1970-2000/)
 
++ [Extending slackr](https://yonicd.netlify.com/post/slackr/)
+
++ [A Shiny App to Create Sentimental Tweets Based on Project Gutenberg Books](https://fronkonstin.com/2017/10/24/a-shiny-app-to-create-sentimental-tweets-based-on-project-gutenberg-books/)
+
 + [Thanks, Claus Ekstrøm, for Watching My Github Repo!](https://yihui.name/en/2017/10/thanks-claus/)
 
 + [Confederate monuments with the statebins 📦](https://austinwehrwein.com/data-visualization/confederates/)
 
 ![Confederate monuments with the statebins 📦](https://austinwehrwein.com/data-visualization/confederates_files/figure-html/disp2-1.png)
+
++ [Spring Budget 2017: Circle Visualisation](https://datascienceplus.com/spring-budget-2017-circle-visualisation/)
+
+![Spring Budget 2017: Circle Visualisation](https://datascienceplus.com/wp-content/uploads/2017/10/circles_labelled.png)
 
 ###  New Packages
 
