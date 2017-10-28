@@ -13,24 +13,38 @@ Release Date: 2017-10-30
 
 ### Insights
 
++ [A Call to Tweets (& Blog Posts)!](https://rud.is/b/2017/10/22/a-call-to-tweets-blog-posts/)
 
-
++ [Create editable Microsoft Office charts from R ](http://blog.revolutionanalytics.com/2017/10/office-charts.html)
 
 ###  R in the Real World
 
 
++ [World Population Density 1970-2000](http://spatial.ly/2017/10/world-population-density-1970-2000/)
 
++ [Thanks, Claus Ekstrøm, for Watching My Github Repo!](https://yihui.name/en/2017/10/thanks-claus/)
 
++ [Confederate monuments with the statebins 📦](https://austinwehrwein.com/data-visualization/confederates/)
+
+![Confederate monuments with the statebins 📦](https://austinwehrwein.com/data-visualization/confederates_files/figure-html/disp2-1.png)
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [requestsR](http://asbcllc.com/r_packages/requestsR/introduction/index.html) - an R interface for Python’s Requests module
 
++ [linl](http://dirk.eddelbuettel.com/blog/2017/10/22#linl_0.0.1) - linl is not Letter
+
++ [papaja](https://github.com/crsh/papaja) - Document formats and helper functions to produce complete APA manscripts from RMarkdown
 
 ### Package Releases
 
++ [Microsoft R Open 3.4.2 now available](http://blog.revolutionanalytics.com/2017/10/microsoft-r-open-342-now-available.html)
 
++ [RStudio Connect v1.5.8](https://blog.rstudio.com/2017/10/24/rstudio-connect-v1-5-8/)
+
++ [September 2017 New Package Picks](https://rviews.rstudio.com/2017/10/25/september-17-top-40-packages/)
 
 ###  R Internationally
 
@@ -46,11 +60,49 @@ Release Date: 2017-10-30
 
 ###  Resources
 
++ [Work with Strings Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf)
 
++ [Course materials for Stat 133, fall 2017, at UC Berkeley](https://github.com/ucb-stat133/stat133-fall-2017)
 
 ###  Tutorials
 
++ [Visualizing Trees | Sankey + Tree](http://www.jsinr.me/2017/10/18/visualizing-trees--sankey---tree/)
 
++ [gRasping the sentiment](https://sebastianrothbucher.github.io/datascience/r/tgif/2017/09/04/grasping-sentiment-r.html)
+
++ [Interactive mekko charts in R](https://dqn.website/post/interactive-mekko-charts-in-r/)
+
++ [Publish R Markdown to Medium via An RStudio Addin](https://yutani.rbind.io/post/2017-10-26-post-to-medium/)
+
++ [Machine Learning Explained: Kmeans](http://enhancedatascience.com/2017/10/24/machine-learning-explained-kmeans/)
+
++ [Because it's Friday: 30 days on a cargo ship](http://blog.revolutionanalytics.com/2017/10/because-its-friday-30-days-of-cargo.html)
+
++ [Install Useful Eclipse Plugins in Bio7 for R, Data Science and Programming](http://bio7.org/?p=2974)
+
++ [Simulating the Monty Hall Problem using R](https://pradeepadhokshaja.wordpress.com/2017/10/22/simulating-the-monty-hall-problem-using-r/)
+
++ [Fragment – DIT4C – Docker Base Containers for Edu Remote Computing Labs](https://blog.ouseful.info/2017/10/22/fragment-docker-base-containers-for-edu-remote-computing-labs/)
+
++ [Demo Week: class(Monday) <- tidyquant](http://www.business-science.io/code-tools/2017/10/23/demo_week_tidyquant.html)
+
++ [One function to rule them all" –  visualization of regression models in #rstats w/ #sjPlot](https://strengejacke.wordpress.com/2017/10/23/one-function-to-rule-them-all-visualization-of-regression-models-in-rstats-w-sjplot/)
+
++ [The Return of Free Data and Possible Volatility Trading Subscription](https://quantstrattrader.wordpress.com/2017/10/23/the-return-of-free-data-and-possible-volatility-trading-subscription/)
+
++ [The SeaClass R Package](https://rviews.rstudio.com/2017/10/23/the-seaclass-r-package/)
+
++ [Statistical Machine Learning with Microsoft ML](http://blog.revolutionanalytics.com/2017/10/statistical-machine-learning-with-microsoft-ml.html)
+
++ [Tidyverse-ification](https://maraaverick.rbind.io/2017/10/tidyverse-ification/)
+
++ [Word Tensors](http://multithreaded.stitchfix.com/blog/2017/10/25/word-tensors/)
+
++ [Two upcoming webinars](http://blog.revolutionanalytics.com/2017/10/two-upcoming-webinars.html)
+
++ [Estimating mean variance and mean absolute bias of a regression tree by bootstrapping using foreach and rpart packages](http://blog.revolutionanalytics.com/2017/10/bias-bootstrap-foreach.html)
+
++ [Not Mustard - Exploring McDonalds Reviews on Yelp with R](http://jasdumas.github.io/2017-10-26-not-mustard-web-app/)
 
 ### Gist & Cookbook
 
@@ -62,16 +114,27 @@ Release Date: 2017-10-30
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ The self starting function `attr(SSlogis, "initial")` now also works when the y values have exact minimum zero and is slightly changed in general, behaving symmetrically in the y range.
+
++ When `tar()` is used with an external command which is detected to be GNU `tar` or libarchive `tar` (aka `bsdtar`), a different command-line is generated to circumvent line-length limits in the shell.
+
++ `system(*, intern=F)`, `file.edit()` and `file.show()` now issue a warning when the external command cannot be executed.
+
++ `.C` when returning a logical vector now maps values other than FALSE and NA to TRUE, as documented.
+
++ `system`, `file.show`, and `file.edit` now even on Windows report an error when external command cannot be executed.
+
++ `range(c(TRUE,NA), finite=TRUE)` and similar no longer return `NA`. (Reported by Lukas Stadler.)
 
 
 
 ###  Upcoming Events
 
 + RStudio conf 2018 **January 31 to February 3** <br />
-rstudio::conf is about all things R and RStudio! [Register & More infos](https://www.rstudio.com/conference/)
+[rstudio::conf](https://www.rstudio.com/conference/) is about all things R and RStudio!
 
 + R/Finance 2018 **June 1 and 2** <br />
-Applied Finance with R. [More info](http://www.rinfinance.com)
+[Applied Finance with R](http://www.rinfinance.com).
 
 + 7eme Rencontres R  **5 & 6 July 2018** <br />
 Rennes - Agrocampus
@@ -95,4 +158,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How to convince people to use R - it’s free! Pretty graphs. Reproducible. Lots of packages. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/ozunconf?src=hash&amp;ref_src=twsrc%5Etfw">#ozunconf</a></p>&mdash; Nikeisha Caruana (@bluebirdi) <a href="https://twitter.com/bluebirdi/status/923734927031508992?ref_src=twsrc%5Etfw">October 27, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Did you know that Ctrl+R now works in <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> just like it does in your terminal? It&#39;s one of the fastest ways to replay a command. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/ymGk9Frihj">pic.twitter.com/ymGk9Frihj</a></p>&mdash; RStudio Tips (@rstudiotips) <a href="https://twitter.com/rstudiotips/status/922887893953081344?ref_src=twsrc%5Etfw">October 24, 2017</a></blockquote>
 
