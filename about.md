@@ -10,9 +10,9 @@ title: About
 [Support with Patreon](https://www.patreon.com/rweekly)
 
 
-R Weekly @ 
+R Weekly @
 
-[Mastodon](https://m.rweekly.org/about), [Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org) 
+[Mastodon](https://mastodon.social/@rweekly), [Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org)
 
 [Weibo](https://weibo.com/rweekly), [WeChat](/wechat.html), [dev.to()](https://dev.to/rweekly), [LinkedIn](https://www.linkedin.com/company/rweekly)
 
@@ -34,7 +34,7 @@ Do you enjoy R Weekly?
 
 5 stars for R Weekly fans! 😍
 
-<div id="star-rating-1" class="rating" style="margin-bottom:10px;" > 
+<div id="star-rating-1" class="rating" style="margin-bottom:10px;" >
 <span class="stars-item" data-value="5">☆</span><span class="stars-item" data-value="4">☆</span><span class="stars-item" data-value="3">☆</span><span class="stars-item" data-value="2">☆</span><span class="stars-item" data-value="1">☆</span>
 </div>
 
@@ -68,7 +68,7 @@ function stars_on_clicks_1() {
                     }
                     stars[jj].setAttribute('click-done',"true");
                 }
-                
+
                 // handle xhr
                 var final_url = "https://api.rweekly.org/rating?value=" + chosen_value + "&path=" + encodeURIComponent(window.location.href);
 
@@ -122,8 +122,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 _paq.push(['trackEvent', "submit-feedback", "error", (new Date()).getTime() - time_xhr]);
             } else {
                 _paq.push(['trackEvent', "submit-feedback", "done", (new Date()).getTime() - time_xhr]);
-                var words; 
-                
+                var words;
+
                 document.getElementById('dialog-1').firstElementChild.innerHTML = 'Thanks for your feedback!';
                 document.getElementById('submit-desc-1').value = '';
                 document.getElementById('submit-email-1').value = '';
@@ -148,7 +148,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 </script>
 
-Have a question or great idea about this website? 
+Have a question or great idea about this website?
 
 Talk with us on [Twitter](https://twitter.com/rweekly_org), [dev.to()](https://dev.to/rweekly) or [Google Groups](https://groups.google.com/forum/#!forum/rweekly).
 
