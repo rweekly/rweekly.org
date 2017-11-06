@@ -1,63 +1,37 @@
 ---
 layout: draft
-title: R Weekly 2017-45
+title: R Weekly 2017-46
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2017-11-06
+Release Date: 2017-11-13
 
 ###  Highlight
+
 
 
 
 ### Insights
 
 
-+ [R-Admins Community](https://blog.rstudio.com/2017/11/03/r-admins-community/)
-
-+ [Role Playing with Probabilities: The Importance of Distributions](http://blog.revolutionanalytics.com/2017/11/role-playing-with-probabilities.html)
-
-+ [Introduction to Network Analysis with R](https://www.jessesadler.com/post/network-analysis-with-r/)
-
-+ [Using ggplot2 very impractically](https://github.com/ericchang00/ggplot2-animations)
-
-![Using ggplot2 very impractically](https://raw.githubusercontent.com/ericchang00/ggplot2-animations/4b36a7001c06f8f9ccfda75cd34d37c4ffa7d8af/img/bouncy_ball.gif)
-
-+ [Design Patterns in R](https://wahani.github.io/2015/12/Design-Patterns-In-R/)
 
 ###  R in the Real World
 
-+ [Taming exam results in pdf with pdftools](https://talesofr.wordpress.com/2017/11/03/taming-exam-results-in-pdf-with-pdftools/)
 
-+ [A tidytext analysis of Faith No More lyrics](http://johnmackintosh.com/2017-10-29-It's-a-dirty-job/)
 
-+ [Rtutor: Wall Street and the Housing Bubble](http://skranz.github.io//r/2017/11/01/WallStreet.html)
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 
-+ [styles](https://github.com/ropenscilabs/styles) - Custom themes for base plots
 
-+ [ozrepro](https://github.com/ropenscilabs/ozrepro) - stow: simpler version control from R
-
-+ [maftools](https://github.com/PoisonAlien/maftools) - An R package to summarize, analyze and visualize MAF files.
-
-+ [dtwclust](https://github.com/asardaes/dtwclust) - Time Series Clustering Along with Optimizations for the Dynamic Time Warping (DTW) Distance
-
-+ [Recent R Data Packages](https://rviews.rstudio.com/2017/11/01/r-data-packages/)
 
 ### Package Releases
 
-+ [tint 0.0.4: Small enhancements](http://dirk.eddelbuettel.com/blog/2017/11/03#tint_0.0.4)
 
-+ [pinp 0.0.3: More docs, more features](http://dirk.eddelbuettel.com/blog/2017/10/30#pinp_0.0.3)
 
-+ [linl 0.0.2: Couple improvements](http://dirk.eddelbuettel.com/blog/2017/10/31#linl_0.0.2)
-
-+ [Microsoft R Open 3.4.2 now available](http://blog.revolutionanalytics.com/2017/10/microsoft-r-open-342-now-available.html)
 
 
 ###  R Internationally
@@ -74,54 +48,10 @@ Release Date: 2017-11-06
 
 ###  Resources
 
-+ [Data carpentry: R for data analysis and visualization of Ecological Data](https://github.com/datacarpentry/R-ecology-lesson)
 
 ###  Tutorials
 
-+ [Problems In Estimating GARCH Parameters in R](https://ntguardian.wordpress.com/2017/11/02/problems-estimating-garch-parameters-r/)
 
-+ [Explore Predictive Maintenance with flexdashboard](https://shiring.github.io/flexdashboard/2017/11/02/predictive_maintenance_flexdashboard)
-
-![Explore Predictive Maintenance with flexdashboard](https://blog.codecentric.de/files/2017/10/dashboard_screenshot.png)
-
-+ [Because it's Friday: Movies with Mikey](http://blog.revolutionanalytics.com/2017/10/because-its-friday-movies-with-mikey.html)
-
-+ [Big Data Transforms](http://www.win-vector.com/blog/2017/10/big-data-transforms/)
-
-+ [Map Projections](http://spatial.ly/2017/10/map-projections/)
-
-+ [Recent updates to the Team Data Science Process](http://blog.revolutionanalytics.com/2017/10/recent-updates-to-the-team-data-science-process.html)
-
-+ [computational methods for numerical analysis with R [book review]](https://xianblog.wordpress.com/2017/10/31/computational-methods-for-numerical-analysis-with-r-book-review/)
-
-+ [gg_tweet'ing Power Outages](https://rud.is/b/2017/10/30/gg_tweeting-power-outages/)
-
-+ [Survey of Kagglers finds Python, R to be preferred tools](http://blog.revolutionanalytics.com/2017/10/survey-of-kagglers.html)
-
-+ [Building Communities Together at ozunconf, 2017](https://ropensci.org/blog/2017/10/31/ozunconf2017/)
-
-+ [Collecting tweets with R and {rtweet}](http://colinfay.me/collect-rtweet/)
-
-+ [R: the least disliked programming language](http://blog.revolutionanalytics.com/2017/11/r-is-the-least-disliked-programming-language.html)
-
-+ [Le Monde [last] puzzle [#1026]](https://xianblog.wordpress.com/2017/11/02/le-monde-last-puzzle-1026/)
-
-+ [Image Convolution in R using Magick](https://ropensci.org/technotes/2017/11/02/image-convolve/)
-
-+ [Moving to Blogdown](https://www.data-imaginist.com/2017/moving-to-blogdown/)
-
-+ [shadow text effect in grid and ggplot2 graphics](https://guangchuangyu.github.io/2017/11/shadow-text-effect-in-grid-and-ggplot2-graphics/)
-
-
-+ [Problems In Estimating GARCH Parameters in R](https://ntguardian.wordpress.com/2017/11/02/problems-estimating-garch-parameters-r/)
-
-+ [Let X=X in R](http://www.win-vector.com/blog/2017/11/let-xx-in-r/)
-
-+ [Promises and Closures in R](https://www.inwt-statistics.com/read-blog/promises-and-closures-in-r.html)
-
-+ [Because it's Friday: Fake Celebrities](http://blog.revolutionanalytics.com/2017/11/because-its-friday-fake-celebrities.html)
-
-+ [A ggplot-based Marimekko/Mosaic plot](https://edwinth.github.io/blog/ggmm/)
 
 ### Gist & Cookbook
 
@@ -133,9 +63,6 @@ Release Date: 2017-11-06
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-+ The “default” (`"lm"` etc) methods of `vcov()` have gained new optional argument `complete = TRUE` which makes the `vcov()` methods more consistent with the `coef()` methods in the case of singular designs. The former behavior is now achieved by `vcov(*, complete=FALSE)`.
-
-+ The `BioC extra` repository which was dropped from BioC 3.6 has been removed from `setRepositories()`. This changes the mapping for 6-8 used by `setRepositories(ind=)`.
 
 
 ###  Upcoming Events
@@ -168,10 +95,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How I picture what’s happening to my data every time I use %&gt;% in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/jYBTR4vMIj">pic.twitter.com/jYBTR4vMIj</a></p>&mdash; Ben Ackerman (@backerman150) <a href="https://twitter.com/backerman150/status/926479565869993984?ref_src=twsrc%5Etfw">November 3, 2017</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I didn&#39;t realize that ggplot2&#39;s new map layer - geom_sf( ) - can do projection on the fly! Definitely a big time saver in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>. <a href="https://t.co/JojeHCO3I2">pic.twitter.com/JojeHCO3I2</a></p>&mdash; Zev Ross (@zevross) <a href="https://twitter.com/zevross/status/925737510717804544?ref_src=twsrc%5Etfw">November 1, 2017</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Well this is a new R error on me: &#39;This should never happen&#39; - doesn&#39;t seem good 😂 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/p6fz2nRGEM">pic.twitter.com/p6fz2nRGEM</a></p>&mdash; Dani Rabaiotti (@DaniRabaiotti) <a href="https://twitter.com/DaniRabaiotti/status/926485401115734017?ref_src=twsrc%5Etfw">November 3, 2017</a></blockquote>
 

@@ -5,7 +5,7 @@
 </form>
 
 <script>
-document.getElementById('search-form').addEventListener('submit', function(e){ 
+document.getElementById('search-form').addEventListener('submit', function(e){
     e.preventDefault();
     var value_search = document.getElementById('search-box').value;
     _paq.push(['trackSiteSearch',
@@ -118,8 +118,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 _paq.push(['trackEvent', "submit-feedback", "error", (new Date()).getTime() - time_xhr]);
             } else {
                 _paq.push(['trackEvent', "submit-feedback", "done", (new Date()).getTime() - time_xhr]);
-                var words; 
-                
+                var words;
+
                 document.getElementById('dialog').firstElementChild.innerHTML = 'Thanks for your feedback!';
                 document.getElementById('submit-desc').value = '';
                 document.getElementById('submit-email').value = '';
@@ -144,9 +144,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 </script>
 
-[R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. 
+[R](https://www.r-project.org/) is a free software environment for statistical computing and graphics.
 
-R Weekly @ [Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org), [Mastodon](https://m.rweekly.org/about)
+R Weekly @ [Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org), [Mastodon](https://mastodon.social/@rweekly)
 
 This website uses [cookies](/privacy).
 
