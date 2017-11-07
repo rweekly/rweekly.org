@@ -70,6 +70,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 + RStudio conf 2018 **January 31 to February 3** <br />
 [rstudio::conf](https://www.rstudio.com/conference/) is about all things R and RStudio!
 
++ satRday Cape Town 2018 **March 17** <br />
+[satRday Cape Town](http://capetown2018.satrdays.org/)
+
 + R/Finance 2018 **June 1 and 2** <br />
 [Applied Finance with R](http://www.rinfinance.com).
 
@@ -91,6 +94,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
++ [satRday Cape Town 2018](http://capetown2018.satrdays.org/#callforpapers) - Call for papers
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
