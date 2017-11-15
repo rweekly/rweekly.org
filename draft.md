@@ -104,3 +104,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;if you’re early in your career as a data scientist and you start a data-related blog, tweet me a link at <a href="https://twitter.com/drob?ref_src=twsrc%5Etfw">@drob</a> and I’ll tweet about your first post&quot; 👌☄ <a href="https://t.co/FaXrgVcE0P">https://t.co/FaXrgVcE0P</a></p>&mdash; R-Ladies Global (@RLadiesGlobal) <a href="https://twitter.com/RLadiesGlobal/status/930494182027923457?ref_src=twsrc%5Etfw">November 14, 2017</a></blockquote> 
