@@ -23,7 +23,7 @@ Release Date: 2017-11-20
 
 ###  R in the Real World
 
-
++ [Analysis of Feedback from satRday [Cape Town] 2017](http://www.exegetic.biz/blog/2017/11/feedback-satrday-2017/)
 
 
 
