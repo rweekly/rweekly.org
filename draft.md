@@ -34,7 +34,8 @@ Release Date: 2017-11-20
 + [Wisconsin State Hex Grid - Mapping 2016 Presidential Results](http://www.mikelee.co/posts/2017-11-16-wi-presidential-results-using-hexmapr/)
 
 + [Analysis of Feedback from satRday [Cape Town] 2017](http://www.exegetic.biz/blog/2017/11/feedback-satrday-2017/)
-=======
+
+
 + [New IBM Plex Sans Support in hrbrthemes + Automating Axis Text Justification](https://rud.is/b/2017/11/16/new-ibm-plex-sans-support-in-hrbrthemes-automating-axis-text-justification/)
 
 + [ Half the people of Germany live in these few areas (drawing up the map with R) ](https://sebastianrothbucher.github.io/datascience/r/visualization/tgif/2017/09/29/half-germany-r-map.html)
@@ -60,7 +61,6 @@ Release Date: 2017-11-20
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 + [Binder for R examples](https://github.com/binder-examples/dockerfile-r)
-
 
 ### Package Releases
 
