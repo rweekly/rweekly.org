@@ -56,11 +56,17 @@ Release Date: 2017-11-20
 
 + [Shiny App for making Pixel Art Models](https://privefl.github.io/blog/shiny-app-for-making-pixel-art-models/)
 
++ [Giving My First Data Science Talk -- 3 accepted abstracts after 3 rejected!](http://www.onceupondata.com/2017/11/17/giving-my-first-conference-talk/)
+
++ [Tidying the Australian Same Sex Marriage Postal Survey Data with R](https://medium.com/@miles.mcbain/tidying-the-australian-same-sex-marriage-postal-survey-data-with-r-5d35cea07962)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 + [Binder for R examples](https://github.com/binder-examples/dockerfile-r)
+
++ [available: Check if the Title of a Package is Available, Appropriate and Interesting](https://cran.r-project.org/web/packages/available/index.html)
 
 ### Package Releases
 
@@ -96,6 +102,9 @@ Release Date: 2017-11-20
 + [The City of Chicago uses R to issue beach safety alerts](http://blog.revolutionanalytics.com/2017/11/chicago-water.html)
 
 + [Average Journey Times of Trains into London in 1968](http://spatial.ly/2017/11/average-journey-times-of-trains-into-london-in-1968/)
+
++ [Adding Syntax Highlighting to Blogdown Posts](http://amber.rbind.io/blog/2017/11/15/syntax-highlighting/)
+
 
 ### Gist & Cookbook
 
