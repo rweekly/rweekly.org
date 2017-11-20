@@ -50,6 +50,8 @@ Release Date: 2017-11-20
 
 + [Where to live in the US](http://www.masalmon.eu/2017/11/16/wheretoliveus/)
 
++ [Where to live in the Netherlands based on temperature XKCD](http://rmhogervorst.nl/cleancode/blog/2017/11/20/xkcd-the-netherlands-weather.html)
+
 + [Visualizing classifier thresholds](https://bayesianbiologist.com/2017/11/13/visualizing-classifier-thresholds/)
 
 + [Twitter Outer Limits : Seeing How Far Have Folks Fallen Down The Slippery Slope to “280” with rtweet](https://rud.is/b/2017/11/13/twitter-outer-limits-seeing-how-far-have-folks-fallen-down-the-slippery-slope-to-280-with-rtweet/)
