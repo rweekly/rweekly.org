@@ -15,6 +15,9 @@ Release Date: 2017-11-27
 ### Insights
 
 
+### R in Real World
+
++ [Where to live in the Netherlands based on temperature XKCD](http://rmhogervorst.nl/cleancode/blog/2017/11/20/xkcd-the-netherlands-weather.html)
 
 ###  R in Organizations
 
