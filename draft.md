@@ -19,6 +19,8 @@ Release Date: 2017-11-27
 
 + [Where to live in the Netherlands based on temperature XKCD](http://rmhogervorst.nl/cleancode/blog/2017/11/20/xkcd-the-netherlands-weather.html)
 
++ [xkcd plot of German weather](https://franziloew.github.io/xkcd_weather_cities_de/weatherdata.html)
+
 ###  R in Organizations
 
 
