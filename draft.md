@@ -80,7 +80,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 + R/Finance 2018 **June 1 and 2** <br />
 [Applied Finance with R](http://www.rinfinance.com).
 
-+ 7eme Rencontres R  **5 & 6 July 2018** <br />
++ [CascadiaRConf](https://cascadiarconf.com/) **June 2, 2018**
+Portland, OR, US
+
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **5 & 6 July 2018** <br />
 Rennes - Agrocampus
 
 + useR! 2018 **July 10, 2018** <br />
