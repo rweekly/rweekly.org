@@ -55,7 +55,7 @@ Release Date: 2017-11-27
 
 + [Getting Down with `pkgdown`](http://enpiar.com/2017/11/21/getting-down-with-pkgdown/)
 
-
++ [Mapping With `sf` Part 3](https://ryanpeek.github.io/2017-11-21-mapping-with-sf-part-3/)
 
 ### Gist & Cookbook
 
