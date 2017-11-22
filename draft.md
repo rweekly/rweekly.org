@@ -14,6 +14,8 @@ Release Date: 2017-11-27
 
 ### Insights
 
++ [Learnings from 5 months of R-Ladies Chicago](https://angela-li.github.io/2017/11/20/learnings-from-5-months-of-r-ladies-chicago/)
+
 
 ### R in Real World
 
@@ -51,8 +53,9 @@ Release Date: 2017-11-27
 
 ###  Tutorials
 
++ [Getting Down with `pkgdown`](http://enpiar.com/2017/11/21/getting-down-with-pkgdown/)
 
-
++ [Mapping With `sf` Part 3](https://ryanpeek.github.io/2017-11-21-mapping-with-sf-part-3/)
 
 ### Gist & Cookbook
 
@@ -77,7 +80,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 + R/Finance 2018 **June 1 and 2** <br />
 [Applied Finance with R](http://www.rinfinance.com).
 
-+ 7eme Rencontres R  **5 & 6 July 2018** <br />
++ [CascadiaRConf](https://cascadiarconf.com/) **June 2, 2018**
+Portland, OR, US
+
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **5 & 6 July 2018** <br />
 Rennes - Agrocampus
 
 + useR! 2018 **July 10, 2018** <br />
