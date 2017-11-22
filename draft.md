@@ -14,6 +14,8 @@ Release Date: 2017-11-27
 
 ### Insights
 
++ [Learnings from 5 months of R-Ladies Chicago](https://angela-li.github.io/2017/11/20/learnings-from-5-months-of-r-ladies-chicago/)
+
 
 ### R in Real World
 
@@ -51,6 +53,7 @@ Release Date: 2017-11-27
 
 ###  Tutorials
 
++ [Getting Down with `pkgdown`](http://enpiar.com/2017/11/21/getting-down-with-pkgdown/)
 
 
 
