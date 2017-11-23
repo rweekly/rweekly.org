@@ -23,6 +23,8 @@ Release Date: 2017-11-27
 
 + [xkcd plot of German weather](https://franziloew.github.io/xkcd_weather_cities_de/weatherdata.html)
 
++[Where to live in Japan: XKCD-themed climate plots and maps!](https://ryo-n7.github.io/2017-11-22-japan-xkcd-weather-index/)
+
 + [Trivial probability problem solved intuitively, rigorously, and by simulation](https://eric.netlify.com/2017/11/21/probability/)
 
 + [Bah! Humbug: Some scRoogery and Forecasting](https://noamross.github.io/data-driven-scroogery/)
