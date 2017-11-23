@@ -23,6 +23,8 @@ Release Date: 2017-11-27
 
 + [xkcd plot of German weather](https://franziloew.github.io/xkcd_weather_cities_de/weatherdata.html)
 
++ [Trivial probability problem solved intuitively, rigorously, and by simulation](https://eric.netlify.com/2017/11/21/probability/)
+
 ###  R in Organizations
 
 
@@ -49,13 +51,15 @@ Release Date: 2017-11-27
 
 ###  Resources
 
-
++ [`repurrrsive`: Recursive lists to use in teaching and examples](https://github.com/jennybc/repurrrsive)
 
 ###  Tutorials
 
 + [Getting Down with `pkgdown`](http://enpiar.com/2017/11/21/getting-down-with-pkgdown/)
 
 + [Mapping With `sf` Part 3](https://ryanpeek.github.io/2017-11-21-mapping-with-sf-part-3/)
+
++ [Functions with R and `rvest`: A Laymen’s Guide](https://medium.com/@peterjgensler/functions-with-r-and-rvest-a-laymens-guide-acda42325a77)
 
 ### Gist & Cookbook
 
