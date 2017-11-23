@@ -25,6 +25,8 @@ Release Date: 2017-11-27
 
 + [Trivial probability problem solved intuitively, rigorously, and by simulation](https://eric.netlify.com/2017/11/21/probability/)
 
++ [Bah! Humbug: Some scRoogery and Forecasting](https://noamross.github.io/data-driven-scroogery/)
+
 ###  R in Organizations
 
 
