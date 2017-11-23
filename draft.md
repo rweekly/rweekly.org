@@ -53,6 +53,8 @@ Release Date: 2017-11-27
 
 + [`repurrrsive`: Recursive lists to use in teaching and examples](https://github.com/jennybc/repurrrsive)
 
++ [Great dataviz examples in rstats](https://data-se.netlify.com/2017/11/20/great-dataviz-examples-in-rstats/)
+
 ###  Tutorials
 
 + [Getting Down with `pkgdown`](http://enpiar.com/2017/11/21/getting-down-with-pkgdown/)
@@ -60,6 +62,10 @@ Release Date: 2017-11-27
 + [Mapping With `sf` Part 3](https://ryanpeek.github.io/2017-11-21-mapping-with-sf-part-3/)
 
 + [Functions with R and `rvest`: A Laymen’s Guide](https://medium.com/@peterjgensler/functions-with-r-and-rvest-a-laymens-guide-acda42325a77)
+
++ [Mapping your Oyster card journeys in London with tidygraph and ggraph](https://lookatthhedata.netlify.com/2017-11-12-mapping-your-oyster-card-journeys-in-london-with-tidygraph-and-ggraph/)
+
++ [Predict Customer Churn – Logistic Regression, Decision Tree and Random Forest] (https://datascienceplus.com/predict-customer-churn-logistic-regression-decision-tree-and-random-forest/)
 
 ### Gist & Cookbook
 
