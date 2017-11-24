@@ -48,7 +48,7 @@ Release Date: 2017-11-27
 
 ###  R Internationally
 
-
++ [Sentimentanalyse mit sentimentr](https://franziloew.github.io/politsentiment/sentimentR.html)
 
 ###  Videos and Podcasts
 
