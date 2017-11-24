@@ -23,6 +23,10 @@ var global_notdone = false;
 
 </form>
 
+<p>💡 Please link back <a href="https://rweekly.org">https://rweekly.org</a> on your blog.</p>
+
+<p>Use <a href="https://validator.w3.org/feed/">W3C Feed Validation</a> Service to checks the syntax of Atom or RSS feeds.</p>
+
 <div style="margin-top: 20px;" id="app">
 
 </div>
@@ -34,7 +38,7 @@ var global_notdone = false;
 </span><span class="n">a</span><span class="p">(</span><span class="n">url</span><span class="p">),</span><span class="n">a</span><span class="p">(</span><span class="n">text</span><span class="p">),</span><span class="n">a</span><span class="p">(</span><span class="n">contact</span><span class="p">))))}</span><span class="w">
 </span></code></pre>
 
-<p>💡 Use <a href="https://validator.w3.org/feed/">W3C Feed Validation</a> Service to checks the syntax of Atom or RSS feeds.</p>
+
 
 </div>
 
@@ -68,13 +72,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 _paq.push(['trackEvent', "submit-link", "error", xhr_res.error, (new Date()).getTime() - time_xhr]);
             } else {
                 _paq.push(['trackEvent', "submit-link", "done", xhr_res.url, (new Date()).getTime() - time_xhr]);
-                var words; 
+                var words;
                 if(xhr_res > 1){
                     words = 'links';
                 }else{
                     words = 'link';
                 }
-                
+
                 document.getElementById('dialog-1').firstElementChild.innerHTML = 'Thanks! You submited ' + xhr_res.num_today + ' ' + words + ' today.';
                 document.getElementById('submit-url-1').value = 'https://'
                 document.getElementById('submit-desc-1').value = ''
