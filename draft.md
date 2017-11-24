@@ -29,6 +29,8 @@ Release Date: 2017-11-27
 
 + [Bah! Humbug: Some scRoogery and Forecasting](https://noamross.github.io/data-driven-scroogery/)
 
++ [Using a multivariate normal to draw a flower in ggplot22017/11/24](https://eric.netlify.com/2017/11/24/using-a-multivariate-normal-to-draw-a-flower-in-ggplot2/)
+
 ###  R in Organizations
 
 
@@ -46,7 +48,7 @@ Release Date: 2017-11-27
 
 ###  R Internationally
 
-
++ [Sentimentanalyse mit sentimentr](https://franziloew.github.io/politsentiment/sentimentR.html)
 
 ###  Videos and Podcasts
 
