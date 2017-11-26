@@ -24,7 +24,7 @@ Release Date: 2017-11-27
 
 + [xkcd plot of German weather](https://franziloew.github.io/xkcd_weather_cities_de/weatherdata.html)
 
-+[Where to live in Japan: XKCD-themed climate plots and maps!](https://ryo-n7.github.io/2017-11-22-japan-xkcd-weather-index/)
++ [Where to live in Japan: XKCD-themed climate plots and maps!](https://ryo-n7.github.io/2017-11-22-japan-xkcd-weather-index/)
 
 + [Trivial probability problem solved intuitively, rigorously, and by simulation](https://eric.netlify.com/2017/11/21/probability/)
 
@@ -33,6 +33,8 @@ Release Date: 2017-11-27
 + [Using a multivariate normal to draw a flower in ggplot22017/11/24](https://eric.netlify.com/2017/11/24/using-a-multivariate-normal-to-draw-a-flower-in-ggplot2/)
 
 + [Tidyverse Case Study: Exploring the Billboard Charts](http://www.njtierney.com/post/2017/11/07/tidyverse-billboard/)
+
++ [New sports from random emoji](https://juliasilge.com/blog/emoji-sports/)
 
 ###  R in Organizations
 
@@ -70,6 +72,8 @@ Release Date: 2017-11-27
 + [repurrrsive: Recursive lists to use in teaching and examples](https://github.com/jennybc/repurrrsive)
 
 + [Great dataviz examples in rstats](https://data-se.netlify.com/2017/11/20/great-dataviz-examples-in-rstats/)
+
++ [R Package Development Pictorial](http://www.mjdenny.com/R_Package_Pictorial.html)
 
 ###  Tutorials
 
