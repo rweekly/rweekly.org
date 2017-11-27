@@ -14,7 +14,7 @@ Release Date: 2017-12-4
 
 ### Insights
 
-
++ [A two-stage workflow for data science projects](https://edwinth.github.io/blog/workflow/)
 
 
 
