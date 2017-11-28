@@ -20,8 +20,7 @@ Release Date: 2017-12-4
 
 ### R in Real World
 
-
-
++ [Combining Australian Census data with the Same Sex Marriage Postal Survey in R](https://medium.com/@miles.mcbain/combining-australian-census-data-with-the-same-sex-marriage-postal-survey-in-r-39d9b2082249)
 
 ###  R in Organizations
 
@@ -59,8 +58,7 @@ Release Date: 2017-12-4
 
 ###  Tutorials
 
-
-
++ [Tidy word vectors, take 2!](https://juliasilge.com/blog/word-vectors-take-two/)
 
 
 ### Gist & Cookbook
