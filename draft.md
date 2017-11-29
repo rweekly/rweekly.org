@@ -22,6 +22,8 @@ Release Date: 2017-12-4
 
 + [Combining Australian Census data with the Same Sex Marriage Postal Survey in R](https://medium.com/@miles.mcbain/combining-australian-census-data-with-the-same-sex-marriage-postal-survey-in-r-39d9b2082249)
 
++ [Secret Santa is a graph traversal problem](https://tjmahr.github.io/secret-santa-graph-traversal/)
+
 ###  R in Organizations
 
 
@@ -61,6 +63,8 @@ Release Date: 2017-12-4
 + [Tidy word vectors, take 2!](https://juliasilge.com/blog/word-vectors-take-two/)
 
 + [Animate network data](https://blog.olivia-data.com/2017/11/21/animate-network-data/)
+
++ [Building the oomsifyer (how to add a dancing banana to any picture)](http://rmhogervorst.nl/cleancode/blog/2017/11/28/building-the-oomsifier.html)
 
 ### Gist & Cookbook
 
