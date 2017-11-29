@@ -60,6 +60,7 @@ Release Date: 2017-12-4
 
 + [Tidy word vectors, take 2!](https://juliasilge.com/blog/word-vectors-take-two/)
 
++ [Animate network data](https://blog.olivia-data.com/2017/11/21/animate-network-data/)
 
 ### Gist & Cookbook
 
