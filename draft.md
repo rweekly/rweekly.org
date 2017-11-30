@@ -35,7 +35,7 @@ Release Date: 2017-12-4
 
 + [`whereport`: Retrieve geographical information for airports using IATA codes](https://github.com/gvdr/whereport)
 
-
++ [`dbplot`: Simplifies plotting of database and sparklyr data ](https://github.com/edgararuiz/dbplot)
 
 
 ### Package Releases
