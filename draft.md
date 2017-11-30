@@ -33,7 +33,7 @@ Release Date: 2017-12-4
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
++ [`whereport`: Retrieve geographical information for airports using IATA codes](https://github.com/gvdr/whereport)
 
 
 
