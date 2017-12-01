@@ -121,3 +121,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ###  Quotes of the Week
 
 https://twitter.com/JennyBryan/status/935562495816753153
+
+https://twitter.com/ma_salmon/status/936490676166053888
