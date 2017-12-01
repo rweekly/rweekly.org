@@ -66,6 +66,8 @@ Release Date: 2017-12-4
 
 + [Building the oomsifyer (how to add a dancing banana to any picture)](http://rmhogervorst.nl/cleancode/blog/2017/11/28/building-the-oomsifier.html)
 
++ [Making R Code Faster : A Case Study](https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/)
+
 ### Gist & Cookbook
 
 
