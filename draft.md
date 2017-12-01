@@ -24,6 +24,8 @@ Release Date: 2017-12-4
 
 + [Secret Santa is a graph traversal problem](https://tjmahr.github.io/secret-santa-graph-traversal/)
 
++ [Our Blue Planet](http://hazelkavili.me/blog/our-blue-planet/)
+
 ###  R in Organizations
 
 
