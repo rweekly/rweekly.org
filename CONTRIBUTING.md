@@ -12,8 +12,6 @@ Doing is better than talking. If you find a bug which is easy to fix, just click
 
 + [item two](link) - text
 
-
-In order to post more relevant content under each section, members/contributors are requested 
 # Structure of the draft
 
 In order to post more relevant content under each section, members/contributors are requested to to follow the below rules to post content. Thank you!
