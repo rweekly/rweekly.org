@@ -41,6 +41,7 @@ Release Date: 2017-12-4
 
 + [`dbplot`: Simplifies plotting of database and sparklyr data ](https://github.com/edgararuiz/dbplot)
 
++ [`Rokemon`: Pokemon themed R package](https://github.com/schochastics/Rokemon)
 
 ### Package Releases
 
