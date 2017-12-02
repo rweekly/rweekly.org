@@ -172,7 +172,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 + satRday Cape Town 2018 **March 17** <br />
 [satRday Cape Town](http://capetown2018.satrdays.org/)
 
-+ R/Finance 2018 **June 1 and 2** <br />
+<!-- + R/Finance 2018 **June 1 and 2** <br />
 [Applied Finance with R](http://www.rinfinance.com).
 
 + [CascadiaRConf](https://cascadiarconf.com/) **June 2, 2018**
@@ -182,7 +182,7 @@ Portland, OR, US
 Rennes - Agrocampus
 
 + useR! 2018 **July 10, 2018** <br />
-The annual useR! conference is the main meeting of the international R user and developer community.
+The annual useR! conference is the main meeting of the international R user and developer community. -->
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
