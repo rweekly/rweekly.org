@@ -16,6 +16,7 @@ Release Date: 2017-12-4
 
 + [A two-stage workflow for data science projects](https://edwinth.github.io/blog/workflow/)
 
++ [Enhancing Reproducibility and Collaboration via Management of R Package Cohorts](https://www.jstatsoft.org/article/view/v082i01)
 
 
 ### R in Real World
@@ -28,6 +29,10 @@ Release Date: 2017-12-4
 
 + [Any Joke's left in Belgium?](https://suzanbaert.netlify.com/2017/12/any-joke-s-left-in-belgium/)
 
++ [Gender Diversity Analysis of Data Science Industry using Kaggle Survey Dataset in R](https://datascienceplus.com/gender-diversity-analysis-of-data-science-industry-using-kaggle-survey-dataset-in-r/)
+
++ [Phillips curve in the United States](http://lukaspuettmann.com/2017/11/19/phillips-curve-gagnon/)
+
 ###  R in Organizations
 
 
@@ -37,11 +42,15 @@ Release Date: 2017-12-4
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [`whereport`: Retrieve geographical information for airports using IATA codes](https://github.com/gvdr/whereport)
++ [whereport](https://github.com/gvdr/whereport) - Retrieve geographical information for airports using IATA codes
 
-+ [`dbplot`: Simplifies plotting of database and sparklyr data ](https://github.com/edgararuiz/dbplot)
++ [dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data
 
-+ [`Rokemon`: Pokemon themed R package](https://github.com/schochastics/Rokemon)
++ [Rokemon](https://github.com/schochastics/Rokemon) - Pokemon themed R package
+
++ [NLMR](https://github.com/marcosci/NLMR) - Simulate neutral landscape models with R
+
+![NLMR](https://marcosci.github.io/NLMR/articles/bestiary_files/figure-html/unnamed-chunk-1-1.png)
 
 ### Package Releases
 
@@ -61,9 +70,13 @@ Release Date: 2017-12-4
 
 ###  Resources
 
-
++ [Website of R Foundation taskforce on women and other under-represented groups](https://forwards.github.io/)
 
 ###  Tutorials
+
++ [Image Processing and Manipulation with magick in R](https://datascienceplus.com/image-processing-and-manipulation-with-magick-in-r/)
+
++ [Making R Code Faster : A Case Study](https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/)
 
 + [Tidy word vectors, take 2!](https://juliasilge.com/blog/word-vectors-take-two/)
 
