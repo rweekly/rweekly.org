@@ -52,6 +52,8 @@ Release Date: 2017-12-4
 
 + [Visualising SSH attacks with R](https://www.enchufa2.es/archives/visualising-ssh-attacks-with-r.html)
 
++ [Using ANN To Predict Euthanasia in  Louisville Metro Animal Services Animal (LMAS) Intake](https://ehbick01.github.io/2017/12/03/using-ann-to-predict-euthanasia-in-lmas-intake/?utm_content=buffer5c143&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 ###  R in Organizations
 
 
