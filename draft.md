@@ -79,6 +79,8 @@ Release Date: 2017-12-4
 
 + [styler](http://styler.r-lib.org/) - non-invasive pretty-printing of R source code
 
++ [`icon`: R package to easily insert web icons to RMarkdown](https://github.com/ropenscilabs/icon)
+
 ### Package Releases
 
 + [R 3.4.3 released](http://blog.revolutionanalytics.com/2017/11/r-343-released.html)
