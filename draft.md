@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2017-49
+title: R Weekly 2017-50
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2017-12-4
+Release Date: 2017-12-11
 
 ###  Highlight
 
@@ -14,45 +14,11 @@ Release Date: 2017-12-4
 
 ### Insights
 
-+ [A reactive build system](https://docs.google.com/document/d/1avYAqjTS7zSZn7JAAOZhFPkhkPvYwaPVrSpo31Cu0Yc/edit#) - lazyr design doc
 
-+ [A domain specific language for efficient data reformation in R.](http://rpubs.com/hadley/dplyr-design) - dplyr design
-
-+ [What are your favorite Rstudio addins?](https://community.rstudio.com/t/what-are-your-favorite-rstudio-addins/1771/4)
-
-+ [Some new time series packages](https://robjhyndman.com/hyndsight/tspackages/)
-
-+ [rOpenSci Analysis Best Practice Guidelines](https://docs.google.com/document/d/1OYcWJUk-MiM2C1TIHB1Rn6rXoF5fHwRX-7_C12Blx8g/edit#heading=h.dyoxrtoo15mm)
-
-+ [R in Africa](http://forwards.github.io/blog/2017/12/01/r-in-africa/)
-
-+ [A two-stage workflow for data science projects](https://edwinth.github.io/blog/workflow/)
-
-+ [Enhancing Reproducibility and Collaboration via Management of R Package Cohorts](https://www.jstatsoft.org/article/view/v082i01)
 
 ### R in Real World
 
-+ [Combining Australian Census data with the Same Sex Marriage Postal Survey in R](https://medium.com/@miles.mcbain/combining-australian-census-data-with-the-same-sex-marriage-postal-survey-in-r-39d9b2082249)
 
-+ [Secret Santa is a graph traversal problem](https://tjmahr.github.io/secret-santa-graph-traversal/)
-
-+ [Our Blue Planet](http://hazelkavili.me/blog/our-blue-planet/)
-
-+ [Any Joke's left in Belgium?](https://suzanbaert.netlify.com/2017/12/any-joke-s-left-in-belgium/)
-
-+ [Hosting RStudio Server on Azure](http://blog.jumpingrivers.com/posts/2017/rstudio_azure_cloud_1/)
-
-+ [Gender Diversity Analysis of Data Science Industry using Kaggle Survey Dataset in R](https://datascienceplus.com/gender-diversity-analysis-of-data-science-industry-using-kaggle-survey-dataset-in-r/)
-
-+ [Phillips curve in the United States](http://lukaspuettmann.com/2017/11/19/phillips-curve-gagnon/)
-
-+ [Sentiment Analysis of "A Christmas Carol"](https://rud.is/b/2017/11/29/sentiment-analysis-of-a-christmas-carol/)
-
-+ [Analysing iOS App Store iTunes Reviews in R](https://datascienceplus.com/analysing-ios-app-store-itunes-reviews-in-r/)
-
-+ [Visualising SSH attacks with R](https://www.enchufa2.es/archives/visualising-ssh-attacks-with-r.html)
-
-+ [Using ANN To Predict Euthanasia in  Louisville Metro Animal Services Animal (LMAS) Intake](https://ehbick01.github.io/2017/12/03/using-ann-to-predict-euthanasia-in-lmas-intake/?utm_content=buffer5c143&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ###  R in Organizations
 
@@ -63,31 +29,11 @@ Release Date: 2017-12-4
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [whereport](https://github.com/gvdr/whereport) - Retrieve geographical information for airports using IATA codes
 
-+ [dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data
-
-+ [Rokemon](https://github.com/schochastics/Rokemon) - Pokemon themed R package
-
-+ [NLMR](https://github.com/marcosci/NLMR) - Simulate neutral landscape models with R
-
-![NLMR](https://marcosci.github.io/NLMR/articles/bestiary_files/figure-html/unnamed-chunk-1-1.png)
-
-+ [voteogram](https://rud.is/b/2017/11/27/voteogram-is-now-on-cran/)
-
-![voteogram](https://i1.wp.com/rud.is/b/wp-content/uploads/2017/11/Plot_Zoom.png?zoom=2.200000047683716&resize=378%2C215&ssl=1)
-
-+ [styler](http://styler.r-lib.org/) - non-invasive pretty-printing of R source code
-
-+ [`icon`: R package to easily insert web icons to RMarkdown](https://github.com/ropenscilabs/icon)
 
 ### Package Releases
 
-+ [R 3.4.3 released](http://blog.revolutionanalytics.com/2017/11/r-343-released.html)
 
-+ [RStudio Connect v1.5.10](https://blog.rstudio.com/2017/12/01/rstudio-connect-v1-5-10/)
-
-+ [rfoaas 1.1.1: Updated and extended](http://dirk.eddelbuettel.com/blog/2017/11/26#rfoaas_1.1.1)
 
 ###  R Internationally
 
@@ -102,57 +48,13 @@ Release Date: 2017-12-4
 
 ###  Resources
 
-+ [Website of R Foundation taskforce on women and other under-represented groups](https://forwards.github.io/)
+
+
 
 ###  Tutorials
 
-+ [Diffusion/Wiener Model Analysis with brms – Part I: Introduction and Estimation](http://singmann.org/wiener-model-analysis-with-brms-part-i/)
 
-+ [Image Processing and Manipulation with magick in R](https://datascienceplus.com/image-processing-and-manipulation-with-magick-in-r/)
 
-+ [Making R Code Faster : A Case Study](https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/)
-
-+ [Tidy word vectors, take 2!](https://juliasilge.com/blog/word-vectors-take-two/)
-
-+ [Animate network data](https://blog.olivia-data.com/2017/11/21/animate-network-data/)
-
-+ [Building the oomsifyer (how to add a dancing banana to any picture)](http://rmhogervorst.nl/cleancode/blog/2017/11/28/building-the-oomsifier.html)
-
-+ [Making R Code Faster : A Case Study](https://robinsones.github.io/Making-R-Code-Faster-A-Case-Study/)
-
-+ [R/Finance 2018, Chicago June 1-2](http://blog.revolutionanalytics.com/2017/11/rfinance-2018.html)
-
-+ [changes: easy Git-based version control from R](https://ropensci.org/blog/2017/11/28/ropensci-changes/)
-
-+ [#11: (Much) Faster Package (Re-)Installation via Caching](http://dirk.eddelbuettel.com/blog/2017/11/27#011_faster_package_installation_one)
-
-+ [CVXR: An R Package for Disciplined Convex Optimization](https://rviews.rstudio.com/2017/11/27/introduction-to-cvxr/)
-
-+ [Vectorized Block ifelse in R](http://www.win-vector.com/blog/2017/11/vectorized-block-ifelse-in-r/)
-
-+ [Rcpp now used by 1250 CRAN packages](http://dirk.eddelbuettel.com/blog/2017/11/28#rcpp_1250_packages)
-
-+ [Win-Vector LLC announces new "big data in R" tools](http://www.win-vector.com/blog/2017/11/win-vector-llc-announces-new-big-data-in-r-tools/)
-
-+ [Announcing a New rOpenSci Software Review Collaboration](https://ropensci.org/blog/2017/11/29/review-collaboration-mee/)
-
-+ [A Crazy Little Thing Called {purrr} - Part 2 : Text Wrangling](http://colinfay.me/purrr-text-wrangling/)
-
-+ [How to generate a Secret Santa list with R](http://blog.revolutionanalytics.com/2017/11/how-to-generate-a-secret-santa-list-with-r.html)
-
-+ [The Value of Welcome, part 2: How to prepare 40 new community members for an unconference](https://ropensci.org/blog/2017/12/01/unconf-welcome/)
-
-+ [A case study in messy data analysis: the Australian same-sex marriage survey](http://blog.revolutionanalytics.com/2017/12/sex-marriage-survey.html)
-
-+ [Because it's Friday: The Whole of the Moon](http://blog.revolutionanalytics.com/2017/12/because-its-friday-1-pixel-moon.html)
-
-+ [A Public Apology to Tal/R-Bloggers + The Trouble With Tibbles](https://rud.is/b/2017/12/01/a-public-apology-to-tal-r-bloggers-the-trouble-with-tibbles/)
-
-+ [Rule Your Data with Tidy Validation Reports. Design](http://www.questionflow.org/2017/11/28/rule-your-data-with-tidy-validation-reports-design/)
-
-+ [MICE (Multiple Imputation by Chained Equations) in R - sketchnotes from MünsteR Meetup](https://shirinsplayground.netlify.com/2017/11/mice_sketchnotes/)
-
-![MICE](https://res.cloudinary.com/shiring/image/upload/v1511852479/mice_sketchnote_gxjsgc.jpg)
 
 ### Gist & Cookbook
 
@@ -163,7 +65,6 @@ Release Date: 2017-12-4
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
 
 
 
