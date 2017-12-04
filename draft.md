@@ -33,6 +33,7 @@ Release Date: 2017-12-11
 
 ### Package Releases
 
++ [`magick` 1.6: clipping, geometries, fonts, fuzz, and a bit of history](https://ropensci.org/technotes/2017/12/05/magick-16/)
 
 
 ###  R Internationally
