@@ -22,6 +22,8 @@ Release Date: 2017-12-11
 
 + [Names of b.....s badder than Taylor Swift, a class in women's studies?](http://www.masalmon.eu/2017/12/05/badderb/)
 
++ [Prospective Detection of Outbreaks](https://arxiv.org/abs/1711.08960)
+
 ###  R in Organizations
 
 
