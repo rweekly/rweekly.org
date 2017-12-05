@@ -14,7 +14,7 @@ Release Date: 2017-12-11
 
 ### Insights
 
-
++ [Components of a successful R workshop](https://blog.cpsievert.me/2017/12/04/components-of-a-successful-r-workshop/)
 
 ### R in Real World
 
