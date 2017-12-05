@@ -26,7 +26,9 @@ Release Date: 2017-12-11
 
 ###  R in Organizations
 
+###  R in Academia
 
++ [Exploratory Data Analysis of Ancient Texts with rperseus](https://ropensci.org/blog/2017/12/05/rperseus/)
 
 
 ###  New Packages
