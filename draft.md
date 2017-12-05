@@ -29,7 +29,7 @@ Release Date: 2017-12-11
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
++ [ruler](https://echasnovski.github.io/ruler/) - Rule Your Data with Tidy Data Validation Reports
 
 ### Package Releases
 
@@ -54,7 +54,7 @@ Release Date: 2017-12-11
 
 ###  Tutorials
 
-
++ [Usage of ruler package](http://www.questionflow.org/2017/12/05/usage-of-ruler-package/)
 
 
 ### Gist & Cookbook
