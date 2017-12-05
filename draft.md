@@ -29,6 +29,7 @@ Release Date: 2017-12-11
 ###  R in Academia
 
 + [Exploratory Data Analysis of Ancient Texts with rperseus](https://ropensci.org/blog/2017/12/05/rperseus/)
++ [Modeling the effects of interspecies competition on the growth of trees](http://rpubs.com/rudeboybert/research_bytes_trees)
 
 
 ###  New Packages
