@@ -18,7 +18,9 @@ Release Date: 2017-12-11
 
 ### R in Real World
 
++ [`trackeR`: Infrastructure for Running and Cycling Data from GPS-Enabled Tracking Devices in R](https://www.jstatsoft.org/article/view/v082i07)
 
++ [Names of b.....s badder than Taylor Swift, a class in women's studies?](http://www.masalmon.eu/2017/12/05/badderb/)
 
 ###  R in Organizations
 
