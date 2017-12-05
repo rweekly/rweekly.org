@@ -114,9 +114,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">The usethis package implements this important principle: Automate that which can be automated. Your computer was literally born to implement rote-but-fussy stuff for you. <a href="https://t.co/OfIUzSBlc7">https://t.co/OfIUzSBlc7</a></p>&mdash; Jenny Bryan (@JennyBryan) <a href="https://twitter.com/JennyBryan/status/935562495816753153?ref_src=twsrc%5Etfw">28 de novembre de 2017</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">.<a href="https://twitter.com/robinson_es?ref_src=twsrc%5Etfw">@robinson_es</a>: &quot;Part of why I wrote this post is I believe those who are privileged–whether by having a data science job, getting to go to conferences, or having a formal education in programming or statistics–should try to share that through public work.&quot; 💯👏 <a href="https://t.co/POmlNTza7m">https://t.co/POmlNTza7m</a></p>&mdash; Maëlle Salmon 🐟 (@ma_salmon) <a href="https://twitter.com/ma_salmon/status/936490676166053888?ref_src=twsrc%5Etfw">1 de desembre de 2017</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Cite R packages. For a lot of us, it&#39;s our only form of payment! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/jpYf1E6ICN">https://t.co/jpYf1E6ICN</a></p>&mdash; Mike Kearney📊 (@kearneymw) <a href="https://twitter.com/kearneymw/status/936278604236906497?ref_src=twsrc%5Etfw">November 30, 2017</a></blockquote>
 
