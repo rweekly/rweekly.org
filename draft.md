@@ -38,6 +38,8 @@ Release Date: 2017-12-11
 
 + [ruler](https://echasnovski.github.io/ruler/) - Rule Your Data with Tidy Data Validation Reports
 
++ [`foghorn`: 📢 🚢 R package to summarize CRAN Check Results in the Terminal](https://github.com/fmichonneau/foghorn)
+
 ### Package Releases
 
 + [`magick` 1.6: clipping, geometries, fonts, fuzz, and a bit of history](https://ropensci.org/technotes/2017/12/05/magick-16/)
