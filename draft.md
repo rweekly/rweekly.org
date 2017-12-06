@@ -61,6 +61,8 @@ Release Date: 2017-12-11
 
 + [A guide to reproducible code, British Ecological Society: " This guide covers all the basic tools and information you need to start making your code more reproducible."](http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
 
++ [Course materials for BIOST561, Computational Skills for Biostatistics](https://github.com/adw96/biostat561)
+
 
 ###  Tutorials
 
