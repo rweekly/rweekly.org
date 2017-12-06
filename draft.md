@@ -71,6 +71,8 @@ Release Date: 2017-12-11
 
 + [Usage of ruler package](http://www.questionflow.org/2017/12/05/usage-of-ruler-package/)
 
++ [H2O AutoML tutorial](https://github.com/h2oai/h2o-tutorials/tree/master/h2o-world-2017/automl)
+
 
 ### Gist & Cookbook
 
