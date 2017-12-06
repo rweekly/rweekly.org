@@ -45,7 +45,7 @@ Release Date: 2017-12-11
 
 + [`patchwork` (work in progress): The Composer of ggplots](https://github.com/thomasp85/patchwork)
 
-+ [`geniusr`, interfsce to the Genius API (songs lyrics)](https://ewenme.rbind.io/blog/2017-12-06-introducing_geniusr/)
++ [`geniusr`, interface to the Genius API (songs lyrics)](https://ewenme.rbind.io/blog/2017-12-06-introducing_geniusr/)
 
 ### Package Releases
 
