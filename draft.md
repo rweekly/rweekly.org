@@ -40,6 +40,7 @@ Release Date: 2017-12-11
 
 + [`foghorn`: 📢 🚢 R package to summarize CRAN Check Results in the Terminal](https://github.com/fmichonneau/foghorn)
 
++ [`patchwork` (work in progress): The Composer of ggplots](https://github.com/thomasp85/patchwork)
 ### Package Releases
 
 + [`magick` 1.6: clipping, geometries, fonts, fuzz, and a bit of history](https://ropensci.org/technotes/2017/12/05/magick-16/)
