@@ -24,6 +24,10 @@ Release Date: 2017-12-11
 
 + [Prospective Detection of Outbreaks](https://arxiv.org/abs/1711.08960)
 
++ [The Cost of True Love (a.k.a. The Tidy — and expensive! — Twelve Days of Christmas)](https://rud.is/b/2017/12/05/the-cost-of-true-love-a-k-a-the-tidy-and-expensive-twelve-days-of-christmas/)
+
++ [What do you get on the 13th day of Christmas?](http://rpubs.com/markus/338158)
+
 ###  R in Organizations
 
 ###  R in Academia
