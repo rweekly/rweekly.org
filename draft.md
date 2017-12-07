@@ -53,6 +53,8 @@ Release Date: 2017-12-11
 
 + [`geniusr`, interface to the Genius API (songs lyrics)](https://ewenme.rbind.io/blog/2017-12-06-introducing_geniusr/)
 
++ [`PlackettLuce`. Estimate the worth of items based on rankings data. Movies, puddings & more!]( https://hturner.github.io/PlackettLuce/index.html)
+
 ### Package Releases
 
 + [`magick` 1.6: clipping, geometries, fonts, fuzz, and a bit of history](https://ropensci.org/technotes/2017/12/05/magick-16/)
