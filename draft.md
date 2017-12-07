@@ -38,6 +38,8 @@ Release Date: 2017-12-11
 
 + [Discussion of R package citation tools](https://github.com/ropensci/unconf17/issues/24)
 
++ [Creating an EM:IP Cover Graphic Using ggplot2](https://www.wjakethompson.com/post/mirt-visualization/)
+
 
 ###  New Packages
 
