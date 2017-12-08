@@ -18,6 +18,8 @@ Release Date: 2017-12-11
 
 + [Writing Excel formatted csv using readr::write_excel_csv2](http://appsilondatascience.com/blog/rstats/2017/12/08/readr.html)
 
++ [.rprofile: Jenny Bryan](https://ropensci.org/blog/2017/12/08/rprofile-jenny-bryan/)
+
 ### R in Real World
 
 + [`trackeR`: Infrastructure for Running and Cycling Data from GPS-Enabled Tracking Devices in R](https://www.jstatsoft.org/article/view/v082i07)
