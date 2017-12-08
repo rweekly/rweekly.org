@@ -55,10 +55,13 @@ Release Date: 2017-12-11
 
 + [`PlackettLuce`. Estimate the worth of items based on rankings data. Movies, puddings & more!]( https://hturner.github.io/PlackettLuce/index.html)
 
++ [`togglr`,an R and Rstudio wrapper for toggl API (time tracking)](https://github.com/ThinkR-open/togglr)
+
 ### Package Releases
 
 + [`magick` 1.6: clipping, geometries, fonts, fuzz, and a bit of history](https://ropensci.org/technotes/2017/12/05/magick-16/)
 
++ [`tidyxl` 1.0.0](https://github.com/nacnudus/tidyxl/releases/tag/v1.0.0)
 
 ###  R Internationally
 
@@ -90,6 +93,7 @@ Release Date: 2017-12-11
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
++ [Bake R cookies with this cookie cutter sold on Etsy by Kelly O' Briant from R-Ladies DC](https://www.etsy.com/listing/562883124/r-logo-cookie-cutter)
 
 ###  R Project Updates
 
@@ -136,4 +140,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">You know what I like about the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community? The inter-discliplinary interaction. R has lead me to people working in <a href="https://twitter.com/hashtag/PoliSci?src=hash&amp;ref_src=twsrc%5Etfw">#PoliSci</a> <a href="https://twitter.com/hashtag/psychology?src=hash&amp;ref_src=twsrc%5Etfw">#psychology</a> <a href="https://twitter.com/hashtag/finance?src=hash&amp;ref_src=twsrc%5Etfw">#finance</a> <a href="https://twitter.com/hashtag/measure?src=hash&amp;ref_src=twsrc%5Etfw">#measure</a> <a href="https://twitter.com/hashtag/stats?src=hash&amp;ref_src=twsrc%5Etfw">#stats</a> <a href="https://twitter.com/hashtag/computationalbiology?src=hash&amp;ref_src=twsrc%5Etfw">#computationalbiology</a> <a href="https://twitter.com/hashtag/Transportation?src=hash&amp;ref_src=twsrc%5Etfw">#Transportation</a></p>&mdash; Elea McDonnell Feit (@eleafeit) <a href="https://twitter.com/eleafeit/status/938851639376728066?ref_src=twsrc%5Etfw">7 de desembre de 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">- Papa, what are you doing?<br>...<br>How I ended up generating <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> snow for my 3yo daughter Sophia<a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/29sk1HpROJ">pic.twitter.com/29sk1HpROJ</a></p>&mdash; Ilya Kashnitsky (@ikashnitsky) <a href="https://twitter.com/ikashnitsky/status/937786580231696384?ref_src=twsrc%5Etfw">4 de desembre de 2017</a></blockquote>
 
