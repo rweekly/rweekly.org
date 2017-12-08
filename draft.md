@@ -16,6 +16,8 @@ Release Date: 2017-12-11
 
 + [Components of a successful R workshop](https://blog.cpsievert.me/2017/12/04/components-of-a-successful-r-workshop/)
 
++ [Writing Excel formatted csv using readr::write_excel_csv2](http://appsilondatascience.com/blog/rstats/2017/12/08/readr.html)
+
 ### R in Real World
 
 + [`trackeR`: Infrastructure for Running and Cycling Data from GPS-Enabled Tracking Devices in R](https://www.jstatsoft.org/article/view/v082i07)
@@ -39,6 +41,8 @@ Release Date: 2017-12-11
 + [Discussion of R package citation tools](https://github.com/ropensci/unconf17/issues/24)
 
 + [Creating an EM:IP Cover Graphic Using ggplot2](https://www.wjakethompson.com/post/mirt-visualization/)
+
++ [	archivist: An R Package for Managing, Recording and Restoring Data Analysis Results](https://www.jstatsoft.org/article/view/v082i11)
 
 
 ###  New Packages
