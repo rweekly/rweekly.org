@@ -57,6 +57,8 @@ Release Date: 2017-12-11
 
 + [`togglr`,an R and Rstudio wrapper for toggl API (time tracking)](https://github.com/ThinkR-open/togglr)
 
++ [jmv – one R package (not just) for the social sciences](https://blog.jamovi.org/2017/12/07/jmv.html)
+
 ### Package Releases
 
 + [`magick` 1.6: clipping, geometries, fonts, fuzz, and a bit of history](https://ropensci.org/technotes/2017/12/05/magick-16/)
@@ -80,12 +82,16 @@ Release Date: 2017-12-11
 
 + [Course materials for BIOST561, Computational Skills for Biostatistics](https://github.com/adw96/biostat561)
 
++ [Introduction to R Programming](https://cecilialee.github.io//blog/2017/12/05/intro-to-r-programming.html)
+
 
 ###  Tutorials
 
 + [Usage of ruler package](http://www.questionflow.org/2017/12/05/usage-of-ruler-package/)
 
 + [H2O AutoML tutorial](https://github.com/h2oai/h2o-tutorials/tree/master/h2o-world-2017/automl)
+
++ [Deprecate functions with roxygen2](http://mirai-solutions.ch/news/2017/12/05/roxygen2-deprecate/)
 
 
 ### Gist & Cookbook
