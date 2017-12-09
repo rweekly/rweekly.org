@@ -48,7 +48,7 @@ Release Date: 2017-12-11
 
 + [Bake R cookies with this cookie cutter](https://www.etsy.com/listing/562883124/r-logo-cookie-cutter)
 
-![Bake R cookies with this cookie cutter(https://img1.etsystatic.com/207/0/16567742/il_570xN.1416292853_fwfy.jpg)
+![Bake R cookies with this cookie cutter](https://img1.etsystatic.com/207/0/16567742/il_570xN.1416292853_fwfy.jpg)
 
 ###  R in Academia
 
@@ -69,6 +69,8 @@ Release Date: 2017-12-11
 + [ruler](https://echasnovski.github.io/ruler/) - Rule Your Data with Tidy Data Validation Reports
 
 + [datapasta](https://github.com/MilesMcBain/datapasta) - R Tools for Data Copy-Pasta
+
+![datapasta](https://raw.githubusercontent.com/milesmcbain/datapasta/master/inst/media/tribble_paste.gif)
 
 + [Rokemon](https://github.com/schochastics/Rokemon) - Pokemon themed R package
 
