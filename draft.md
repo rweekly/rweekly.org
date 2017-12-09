@@ -125,6 +125,8 @@ Release Date: 2017-12-11
 
 ###  Tutorials
 
++ [Introduction to Queueuing Theory in R](https://roh.engineering/post/mmc-queues/)
+
 + [A Crazy Little Thing Called {purrr} - Part 3 : Setting NA](http://colinfay.me/purrr-set-na/)
 
 + [R 3.4.3 is released](https://www.r-statistics.com/2017/12/r-3-4-3-is-released-a-bug-fix-release/)
