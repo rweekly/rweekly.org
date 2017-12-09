@@ -20,19 +20,35 @@ Release Date: 2017-12-11
 
 + [.rprofile: Jenny Bryan](https://ropensci.org/blog/2017/12/08/rprofile-jenny-bryan/)
 
++ [Introduction to R Programming](https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html)
+
 ### R in Real World
 
-+ [`trackeR`: Infrastructure for Running and Cycling Data from GPS-Enabled Tracking Devices in R](https://www.jstatsoft.org/article/view/v082i07)
++ [Naming things is hard](http://joncalder.co.za/2017-12-04-naming-things-is-hard/)
 
 + [Names of b.....s badder than Taylor Swift, a class in women's studies?](http://www.masalmon.eu/2017/12/05/badderb/)
 
++ [trackeR: Infrastructure for Running and Cycling Data from GPS-Enabled Tracking Devices in R](https://www.jstatsoft.org/article/view/v082i07)
+
 + [Prospective Detection of Outbreaks](https://arxiv.org/abs/1711.08960)
+
++ [Visualising text data w/ ggplot2](https://github.com/ColinFay/conf/blob/master/2017-11-budapest)
+
+![Visualising text data w/ ggplot2](https://pbs.twimg.com/media/DQYcODgW4AEyx4u.jpg)
 
 + [The Cost of True Love (a.k.a. The Tidy — and expensive! — Twelve Days of Christmas)](https://rud.is/b/2017/12/05/the-cost-of-true-love-a-k-a-the-tidy-and-expensive-twelve-days-of-christmas/)
 
 + [What do you get on the 13th day of Christmas?](http://rpubs.com/markus/338158)
 
++ [Some quirks with R and SQL Server](http://ellisp.github.io/blog/2017/12/09/sql-and-r)
+
++ [SNAP-FU - Making a Snapchat-like face mask by implementing SSD Deep Learning object detection with Keras, reticulate, magick and animation](http://giorasimchoni.com/2017/12/04/2017-12-04-snap-fu/)
+
 ###  R in Organizations
+
++ [Bake R cookies with this cookie cutter](https://www.etsy.com/listing/562883124/r-logo-cookie-cutter)
+
+![Bake R cookies with this cookie cutter(https://img1.etsystatic.com/207/0/16567742/il_570xN.1416292853_fwfy.jpg)
 
 ###  R in Academia
 
@@ -44,8 +60,7 @@ Release Date: 2017-12-11
 
 + [Creating an EM:IP Cover Graphic Using ggplot2](https://www.wjakethompson.com/post/mirt-visualization/)
 
-+ [	archivist: An R Package for Managing, Recording and Restoring Data Analysis Results](https://www.jstatsoft.org/article/view/v082i11)
-
++ [archivist: An R Package for Managing, Recording and Restoring Data Analysis Results](https://www.jstatsoft.org/article/view/v082i11)
 
 ###  New Packages
 
@@ -53,34 +68,42 @@ Release Date: 2017-12-11
 
 + [ruler](https://echasnovski.github.io/ruler/) - Rule Your Data with Tidy Data Validation Reports
 
-+ [`foghorn`: 📢 🚢 R package to summarize CRAN Check Results in the Terminal](https://github.com/fmichonneau/foghorn)
++ [datapasta](https://github.com/MilesMcBain/datapasta) - R Tools for Data Copy-Pasta
 
-+ [`patchwork` (work in progress): The Composer of ggplots](https://github.com/thomasp85/patchwork)
++ [Rokemon](https://github.com/schochastics/Rokemon) - Pokemon themed R package
 
-+ [`geniusr`, interface to the Genius API (songs lyrics)](https://ewenme.rbind.io/blog/2017-12-06-introducing_geniusr/)
++ [foghorn](https://github.com/fmichonneau/foghorn) - 📢 🚢 R package to summarize CRAN Check Results in the Terminal
 
-+ [`PlackettLuce`. Estimate the worth of items based on rankings data. Movies, puddings & more!]( https://hturner.github.io/PlackettLuce/index.html)
++ [patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots
 
-+ [`togglr`,an R and Rstudio wrapper for toggl API (time tracking)](https://github.com/ThinkR-open/togglr)
++ [geniusr](https://ewenme.rbind.io/blog/2017-12-06-introducing_geniusr/) - interface to the Genius API (songs lyrics)
 
-+ [jmv – one R package (not just) for the social sciences](https://blog.jamovi.org/2017/12/07/jmv.html)
++ [PlackettLuce](https://hturner.github.io/PlackettLuce/index.html) - Estimate the worth of items based on rankings data. Movies, puddings & more!
+
++ [togglr](https://github.com/ThinkR-open/togglr) - an R and Rstudio wrapper for toggl API (time tracking)
+
++ [jmv](https://blog.jamovi.org/2017/12/07/jmv.html) - one R package (not just) for the social sciences
+
++ [ipumsr](http://tech.popdata.org/Integrating-IPUMS-Data-with-R/) -  Integrating IPUMS Data with R
 
 ### Package Releases
 
-+ [`magick` 1.6: clipping, geometries, fonts, fuzz, and a bit of history](https://ropensci.org/technotes/2017/12/05/magick-16/)
++ [magick 1.6](https://ropensci.org/technotes/2017/12/05/magick-16/) - clipping, geometries, fonts, fuzz, and a bit of history
 
-+ [`tidyxl` 1.0.0](https://github.com/nacnudus/tidyxl/releases/tag/v1.0.0)
++ [tidyxl 1.0.0](https://github.com/nacnudus/tidyxl/releases/tag/v1.0.0)
+
++ [RcppArmadillo 0.8.300.1.0](http://dirk.eddelbuettel.com/blog/2017/12/06#rcpparmadillo_0.8.300.1.0)
+
++ [Plotly December Update](http://moderndata.plot.ly/plotly-december-update/)
 
 ###  R Internationally
 
 
 
 
-
 ###  Videos and Podcasts
 
-
-
++ [New Features of the IDE](https://www.rstudio.com/resources/webinars/new-features-of-the-ide/)
 
 ###  Resources
 
@@ -90,8 +113,13 @@ Release Date: 2017-12-11
 
 + [Introduction to R Programming](https://cecilialee.github.io//blog/2017/12/05/intro-to-r-programming.html)
 
++ [Technical Foundations of Informatics: Section A, Autumn 2017](https://github.com/info201a-au17)
 
 ###  Tutorials
+
++ [A Crazy Little Thing Called {purrr} - Part 3 : Setting NA](http://colinfay.me/purrr-set-na/)
+
++ [R 3.4.3 is released](https://www.r-statistics.com/2017/12/r-3-4-3-is-released-a-bug-fix-release/)
 
 + [Usage of ruler package](http://www.questionflow.org/2017/12/05/usage-of-ruler-package/)
 
@@ -99,13 +127,31 @@ Release Date: 2017-12-11
 
 + [Deprecate functions with roxygen2](http://mirai-solutions.ch/news/2017/12/05/roxygen2-deprecate/)
 
++ [Please inspect your dplyr+database code](http://www.win-vector.com/blog/2017/12/please-inspect-your-dplyrdatabase-code/)
+
++ [AI School: Microsoft R and SQL Server ML Services](http://blog.revolutionanalytics.com/2017/12/ml-server-ai-path.html)
+
++ [How to Show R Inline Code Blocks in R Markdown](https://rviews.rstudio.com/2017/12/04/how-to-show-r-inline-code-blocks-in-r-markdown/)
+
++ [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://medium.com/netflix-techblog/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
+
++ [On the biases in data](http://blog.revolutionanalytics.com/2017/12/on-the-biases-in-data.html)
+
++ [The Cost of True Love (a.k.a. The Tidy — and expensive! — Twelve Days of Christmas)](https://rud.is/b/2017/12/05/the-cost-of-true-love-a-k-a-the-tidy-and-expensive-twelve-days-of-christmas/)
+
++ [How to Avoid the dplyr Dependency Driven Result Corruption](http://www.win-vector.com/blog/2017/12/how-to-avoid-the-dplyr-dependency-driven-result-corruption/)
+
++ [The British Ecological Society's Guide to Reproducible Science](http://blog.revolutionanalytics.com/2017/12/bes-reproducible-science.html)
+
++ [In case you missed it: November 2017 roundup](http://blog.revolutionanalytics.com/2017/12/november-2017-roundup.html)
+
++ [A quick look at Bechdel test data (& an awtools update)](https://austinwehrwein.com/post/bechdel/)
 
 ### Gist & Cookbook
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
-+ [Bake R cookies with this cookie cutter sold on Etsy by Kelly O' Briant from R-Ladies DC](https://www.etsy.com/listing/562883124/r-logo-cookie-cutter)
 
 ###  R Project Updates
 
