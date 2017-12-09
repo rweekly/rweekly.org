@@ -88,6 +88,8 @@ Release Date: 2017-12-11
 
 + [ipumsr](http://tech.popdata.org/Integrating-IPUMS-Data-with-R/) -  Integrating IPUMS Data with R
 
++ [`walmartAPI`](https://github.com/EmilHvitfeldt/walmartAPI), Walmart Open API wrapper
+
 ### Package Releases
 
 + [magick 1.6](https://ropensci.org/technotes/2017/12/05/magick-16/) - clipping, geometries, fonts, fuzz, and a bit of history
