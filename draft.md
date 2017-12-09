@@ -105,7 +105,7 @@ Release Date: 2017-12-11
 
 ###  Videos and Podcasts
 
-+ [New Features of the IDE](https://www.rstudio.com/resources/webinars/new-features-of-the-ide/)
++ [Webinar: New Features of the RStudio IDE](https://www.rstudio.com/resources/webinars/new-features-of-the-ide/)
 
 ###  Resources
 
