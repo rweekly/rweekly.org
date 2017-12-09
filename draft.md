@@ -44,6 +44,8 @@ Release Date: 2017-12-11
 
 + [SNAP-FU - Making a Snapchat-like face mask by implementing SSD Deep Learning object detection with Keras, reticulate, magick and animation](http://giorasimchoni.com/2017/12/04/2017-12-04-snap-fu/)
 
++ [Is Left-Center-right a loaded game?](https://www.hvitfeldt.me/2017/12/03/is-left-center-right-a-loaded-game/)
+
 ###  R in Organizations
 
 + [Bake R cookies with this cookie cutter](https://www.etsy.com/listing/562883124/r-logo-cookie-cutter)
