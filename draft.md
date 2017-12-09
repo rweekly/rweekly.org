@@ -117,6 +117,8 @@ Release Date: 2017-12-11
 
 + [Technical Foundations of Informatics: Section A, Autumn 2017](https://github.com/info201a-au17)
 
++ [Less (Exciting) is More. Slides from Boston Bioconductor Shiny Talk](https://mfoos.github.io/blog/slides-from-boston-bioconductor-shiny-talk.html)
+
 ###  Tutorials
 
 + [A Crazy Little Thing Called {purrr} - Part 3 : Setting NA](http://colinfay.me/purrr-set-na/)
