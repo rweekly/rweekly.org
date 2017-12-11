@@ -39,7 +39,7 @@ Release Date: 2017-12-18
 
 ### Package Releases
 
-
++ [styler 1.0.0](https://cran.r-project.org/web/packages/styler/index.html)
 
 
 ###  R Internationally
