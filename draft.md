@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2017-50
+title: R Weekly 2017-51
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2017-12-11
+Release Date: 2017-12-18
 
 ###  Highlight
 
@@ -14,89 +14,34 @@ Release Date: 2017-12-11
 
 ### Insights
 
-+ [Components of a successful R workshop](https://blog.cpsievert.me/2017/12/04/components-of-a-successful-r-workshop/)
 
-+ [Writing Excel formatted csv using readr::write_excel_csv2](http://appsilondatascience.com/blog/rstats/2017/12/08/readr.html)
 
-+ [.rprofile: Jenny Bryan](https://ropensci.org/blog/2017/12/08/rprofile-jenny-bryan/)
-
-+ [Introduction to R Programming](https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html)
 
 ### R in Real World
 
-+ [Naming things is hard](http://joncalder.co.za/2017-12-04-naming-things-is-hard/)
 
-+ [Names of b.....s badder than Taylor Swift, a class in women's studies?](http://www.masalmon.eu/2017/12/05/badderb/)
 
-+ [trackeR: Infrastructure for Running and Cycling Data from GPS-Enabled Tracking Devices in R](https://www.jstatsoft.org/article/view/v082i07)
 
-+ [Prospective Detection of Outbreaks](https://arxiv.org/abs/1711.08960)
-
-+ [Visualising text data w/ ggplot2](https://github.com/ColinFay/conf/blob/master/2017-11-budapest)
-
-![Visualising text data w/ ggplot2](https://pbs.twimg.com/media/DQYcODgW4AEyx4u.jpg)
-
-+ [The Cost of True Love (a.k.a. The Tidy — and expensive! — Twelve Days of Christmas)](https://rud.is/b/2017/12/05/the-cost-of-true-love-a-k-a-the-tidy-and-expensive-twelve-days-of-christmas/)
-
-+ [What do you get on the 13th day of Christmas?](http://rpubs.com/markus/338158)
-
-+ [Some quirks with R and SQL Server](http://ellisp.github.io/blog/2017/12/09/sql-and-r)
-
-+ [SNAP-FU - Making a Snapchat-like face mask by implementing SSD Deep Learning object detection with Keras, reticulate, magick and animation](http://giorasimchoni.com/2017/12/04/2017-12-04-snap-fu/)
 
 ###  R in Organizations
 
-+ [Bake R cookies with this cookie cutter](https://www.etsy.com/listing/562883124/r-logo-cookie-cutter)
 
-![Bake R cookies with this cookie cutter](https://img1.etsystatic.com/207/0/16567742/il_570xN.1416292853_fwfy.jpg)
 
 ###  R in Academia
 
-+ [Exploratory Data Analysis of Ancient Texts with rperseus](https://ropensci.org/blog/2017/12/05/rperseus/)
 
-+ [Modeling the effects of interspecies competition on the growth of trees](http://rpubs.com/rudeboybert/research_bytes_trees)
-
-+ [Discussion of R package citation tools](https://github.com/ropensci/unconf17/issues/24)
-
-+ [Creating an EM:IP Cover Graphic Using ggplot2](https://www.wjakethompson.com/post/mirt-visualization/)
-
-+ [archivist: An R Package for Managing, Recording and Restoring Data Analysis Results](https://www.jstatsoft.org/article/view/v082i11)
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [ruler](https://echasnovski.github.io/ruler/) - Rule Your Data with Tidy Data Validation Reports
 
-+ [datapasta](https://github.com/MilesMcBain/datapasta) - R Tools for Data Copy-Pasta
 
-![datapasta](https://raw.githubusercontent.com/milesmcbain/datapasta/master/inst/media/tribble_paste.gif)
-
-+ [Rokemon](https://github.com/schochastics/Rokemon) - Pokemon themed R package
-
-+ [foghorn](https://github.com/fmichonneau/foghorn) - 📢 🚢 R package to summarize CRAN Check Results in the Terminal
-
-+ [patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots
-
-+ [geniusr](https://ewenme.rbind.io/blog/2017-12-06-introducing_geniusr/) - interface to the Genius API (songs lyrics)
-
-+ [PlackettLuce](https://hturner.github.io/PlackettLuce/index.html) - Estimate the worth of items based on rankings data. Movies, puddings & more!
-
-+ [togglr](https://github.com/ThinkR-open/togglr) - an R and Rstudio wrapper for toggl API (time tracking)
-
-+ [jmv](https://blog.jamovi.org/2017/12/07/jmv.html) - one R package (not just) for the social sciences
-
-+ [ipumsr](http://tech.popdata.org/Integrating-IPUMS-Data-with-R/) -  Integrating IPUMS Data with R
 
 ### Package Releases
 
-+ [magick 1.6](https://ropensci.org/technotes/2017/12/05/magick-16/) - clipping, geometries, fonts, fuzz, and a bit of history
 
-+ [tidyxl 1.0.0](https://github.com/nacnudus/tidyxl/releases/tag/v1.0.0)
 
-+ [RcppArmadillo 0.8.300.1.0](http://dirk.eddelbuettel.com/blog/2017/12/06#rcpparmadillo_0.8.300.1.0)
-
-+ [Plotly December Update](http://moderndata.plot.ly/plotly-december-update/)
 
 ###  R Internationally
 
@@ -105,49 +50,20 @@ Release Date: 2017-12-11
 
 ###  Videos and Podcasts
 
-+ [New Features of the IDE](https://www.rstudio.com/resources/webinars/new-features-of-the-ide/)
+
+
 
 ###  Resources
 
-+ [A guide to reproducible code, British Ecological Society: " This guide covers all the basic tools and information you need to start making your code more reproducible."](http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
 
-+ [Course materials for BIOST561, Computational Skills for Biostatistics](https://github.com/adw96/biostat561)
-
-+ [Introduction to R Programming](https://cecilialee.github.io//blog/2017/12/05/intro-to-r-programming.html)
-
-+ [Technical Foundations of Informatics: Section A, Autumn 2017](https://github.com/info201a-au17)
 
 ###  Tutorials
 
-+ [A Crazy Little Thing Called {purrr} - Part 3 : Setting NA](http://colinfay.me/purrr-set-na/)
 
-+ [R 3.4.3 is released](https://www.r-statistics.com/2017/12/r-3-4-3-is-released-a-bug-fix-release/)
 
-+ [Usage of ruler package](http://www.questionflow.org/2017/12/05/usage-of-ruler-package/)
 
-+ [H2O AutoML tutorial](https://github.com/h2oai/h2o-tutorials/tree/master/h2o-world-2017/automl)
 
-+ [Deprecate functions with roxygen2](http://mirai-solutions.ch/news/2017/12/05/roxygen2-deprecate/)
 
-+ [Please inspect your dplyr+database code](http://www.win-vector.com/blog/2017/12/please-inspect-your-dplyrdatabase-code/)
-
-+ [AI School: Microsoft R and SQL Server ML Services](http://blog.revolutionanalytics.com/2017/12/ml-server-ai-path.html)
-
-+ [How to Show R Inline Code Blocks in R Markdown](https://rviews.rstudio.com/2017/12/04/how-to-show-r-inline-code-blocks-in-r-markdown/)
-
-+ [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://medium.com/netflix-techblog/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
-
-+ [On the biases in data](http://blog.revolutionanalytics.com/2017/12/on-the-biases-in-data.html)
-
-+ [The Cost of True Love (a.k.a. The Tidy — and expensive! — Twelve Days of Christmas)](https://rud.is/b/2017/12/05/the-cost-of-true-love-a-k-a-the-tidy-and-expensive-twelve-days-of-christmas/)
-
-+ [How to Avoid the dplyr Dependency Driven Result Corruption](http://www.win-vector.com/blog/2017/12/how-to-avoid-the-dplyr-dependency-driven-result-corruption/)
-
-+ [The British Ecological Society's Guide to Reproducible Science](http://blog.revolutionanalytics.com/2017/12/bes-reproducible-science.html)
-
-+ [In case you missed it: November 2017 roundup](http://blog.revolutionanalytics.com/2017/12/november-2017-roundup.html)
-
-+ [A quick look at Bechdel test data (& an awtools update)](https://austinwehrwein.com/post/bechdel/)
 
 ### Gist & Cookbook
 
@@ -199,8 +115,3 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">You know what I like about the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community? The inter-discliplinary interaction. R has lead me to people working in <a href="https://twitter.com/hashtag/PoliSci?src=hash&amp;ref_src=twsrc%5Etfw">#PoliSci</a> <a href="https://twitter.com/hashtag/psychology?src=hash&amp;ref_src=twsrc%5Etfw">#psychology</a> <a href="https://twitter.com/hashtag/finance?src=hash&amp;ref_src=twsrc%5Etfw">#finance</a> <a href="https://twitter.com/hashtag/measure?src=hash&amp;ref_src=twsrc%5Etfw">#measure</a> <a href="https://twitter.com/hashtag/stats?src=hash&amp;ref_src=twsrc%5Etfw">#stats</a> <a href="https://twitter.com/hashtag/computationalbiology?src=hash&amp;ref_src=twsrc%5Etfw">#computationalbiology</a> <a href="https://twitter.com/hashtag/Transportation?src=hash&amp;ref_src=twsrc%5Etfw">#Transportation</a></p>&mdash; Elea McDonnell Feit (@eleafeit) <a href="https://twitter.com/eleafeit/status/938851639376728066?ref_src=twsrc%5Etfw">7 de desembre de 2017</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">- Papa, what are you doing?<br>...<br>How I ended up generating <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> snow for my 3yo daughter Sophia<a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/29sk1HpROJ">pic.twitter.com/29sk1HpROJ</a></p>&mdash; Ilya Kashnitsky (@ikashnitsky) <a href="https://twitter.com/ikashnitsky/status/937786580231696384?ref_src=twsrc%5Etfw">4 de desembre de 2017</a></blockquote>
-
