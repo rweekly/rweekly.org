@@ -1,3 +1,4 @@
+
 ---
 layout: draft
 title: R Weekly 2017-51
@@ -60,7 +61,7 @@ Release Date: 2017-12-18
 ###  Tutorials
 
 
-
++ [Introduction to Queueuing Theory in R](https://roh.engineering/post/mmc-queues/)
 
 
 
@@ -115,3 +116,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
