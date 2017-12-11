@@ -1,4 +1,3 @@
-
 ---
 layout: draft
 title: R Weekly 2017-51
