@@ -12,7 +12,6 @@ Release Date: 2017-12-18
 
 
 
-
 ### Insights
 
 
