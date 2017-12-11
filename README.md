@@ -1,5 +1,7 @@
 # R Weekly
 
+<img align="right" src="https://rweekly.org/images/icons/icon-256x256.png">
+
 R weekly provides weekly updates from the R community. You are welcome to contribute as long as you follow [our code of conduct](CODE_OF_CONDUCT.md) and [our contributing guide](CONTRIBUTING.md).
 
 ## How to contribute by using this repo
