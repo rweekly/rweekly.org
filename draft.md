@@ -19,6 +19,7 @@ Release Date: 2017-12-18
 
 + [How to develop good R packages (for open science)](http://www.masalmon.eu/2017/12/11/goodrpackages/)
 
++ [Personal note on joining the Microsoft Cloud Advocates team](http://blog.revolutionanalytics.com/2017/12/cloud-advocate.html)
 
 ### R in Real World
 
