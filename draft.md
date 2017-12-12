@@ -70,7 +70,7 @@ Release Date: 2017-12-18
 
 + [Introduction to Queueuing Theory in R](https://roh.engineering/post/mmc-queues/)
 
-
++ [Connecting R to Keras and TensorFlow ](https://rviews.rstudio.com/2017/12/11/r-and-tensorflow/?utm_content=bufferdd9c3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 
 ### Gist & Cookbook
