@@ -24,7 +24,7 @@ Release Date: 2017-12-18
 
 + [Philippines Dengvaxia Vaccine Scam](https://brennonborbon.wordpress.com/2017/12/12/philippines-dengvaxia-vaccine-scam/)
 
-
++ [Using the tuber package to analyse a YouTube channel](https://insightr.wordpress.com/2017/12/11/using-the-tuber-package-to-analyse-a-youtube-channel/)
 
 ###  R in Organizations
 
