@@ -40,7 +40,7 @@ Release Date: 2017-12-18
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [`BRRR`, Rap adlibs in R. ](https://github.com/brooke-watson/BRRR)
++ [`BRRR`](https://github.com/brooke-watson/BRRR), Rap adlibs in R. 
 
 
 ### Package Releases
