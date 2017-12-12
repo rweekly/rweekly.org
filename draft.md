@@ -72,6 +72,7 @@ Release Date: 2017-12-18
 
 + [Connecting R to Keras and TensorFlow ](https://rviews.rstudio.com/2017/12/11/r-and-tensorflow/?utm_content=bufferdd9c3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
++ [Recording and replaying plots with the `recordPlot()` function](http://clarkrichards.org/r/graphics/plot/rmd/2017/12/11/recording-plots/)
 
 ### Gist & Cookbook
 
