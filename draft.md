@@ -65,7 +65,7 @@ Release Date: 2017-12-18
 
 ###  Resources
 
-
++ [`here`, A Simpler Way to Find Your Files](https://krlmlr.github.io/here/)
 
 ###  Tutorials
 
