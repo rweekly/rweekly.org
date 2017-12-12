@@ -47,6 +47,7 @@ Release Date: 2017-12-18
 
 + [`BRRR`](https://github.com/brooke-watson/BRRR), Rap adlibs in R. 
 
++ [`nipals`](https://cran.r-project.org/web/packages/nipals/index.html) - Principal components via Nonlinear Partial Least Squares.
 
 ### Package Releases
 
