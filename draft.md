@@ -89,6 +89,8 @@ Release Date: 2017-12-18
 
 + [When there's a fork in the road, take it. Or, taking a look at marginal structural models.](https://www.rdatagen.net/post/when-a-covariate-is-a-confounder-and-a-mediator/)
 
++ [styler - A non-invasive source code formatter for R](https://lorenzwalthert.github.io/stylerpost/)
+
 ### Gist & Cookbook
 
 
