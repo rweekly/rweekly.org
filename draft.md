@@ -83,6 +83,8 @@ Release Date: 2017-12-18
 
 + [Recording and replaying plots with the `recordPlot()` function](http://clarkrichards.org/r/graphics/plot/rmd/2017/12/11/recording-plots/)
 
++ [Using `rtweet` to Create a tidyverse Twitterbot](https://www.wjakethompson.com/post/tidyverse-tweets/)
+
 ### Gist & Cookbook
 
 
