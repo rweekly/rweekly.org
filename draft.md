@@ -21,6 +21,8 @@ Release Date: 2017-12-18
 
 + [Personal note on joining the Microsoft Cloud Advocates team](http://blog.revolutionanalytics.com/2017/12/cloud-advocate.html)
 
++ [`nrow`, references and copies ](https://statisfaction.wordpress.com/2017/12/10/nrow-references-and-copies/)
+
 ### R in Real World
 
 + [Philippines Dengvaxia Vaccine Scam](https://brennonborbon.wordpress.com/2017/12/12/philippines-dengvaxia-vaccine-scam/)
@@ -84,6 +86,8 @@ Release Date: 2017-12-18
 + [Recording and replaying plots with the `recordPlot` function](http://clarkrichards.org/r/graphics/plot/rmd/2017/12/11/recording-plots/)
 
 + [Using `rtweet` to Create a tidyverse Twitterbot](https://www.wjakethompson.com/post/tidyverse-tweets/)
+
++ [When there's a fork in the road, take it. Or, taking a look at marginal structural models.](https://www.rdatagen.net/post/when-a-covariate-is-a-confounder-and-a-mediator/)
 
 ### Gist & Cookbook
 
