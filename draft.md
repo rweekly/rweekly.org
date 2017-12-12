@@ -36,6 +36,8 @@ Release Date: 2017-12-18
 
 + [What the world is data science education? Looking back on #dsetonline](https://jrosen48.github.io/blog/what-the-world-is-data-science-education-looking-back-on-dsetonline/)
 
++ [Dashboard from from a dissertation research with the title 'Interactions 3 : Language, demographics, and personality; an in-depth analysis of German tweets.' ](https://primesty.shinyapps.io/diss_dashboard/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
