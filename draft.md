@@ -70,6 +70,8 @@ Release Date: 2017-12-18
 
 + [`here`, A Simpler Way to Find Your Files](https://krlmlr.github.io/here/)
 
++ [University of Edinburgh's coding club R tutorials](https://ourcodingclub.github.io/tutorials/)
+
 ###  Tutorials
 
 
