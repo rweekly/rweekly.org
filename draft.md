@@ -68,9 +68,11 @@ Release Date: 2017-12-18
 
 ###  Resources
 
-+ [`here`, A Simpler Way to Find Your Files](https://krlmlr.github.io/here/)
++ [`here`](https://krlmlr.github.io/here/), A Simpler Way to Find Your Files
 
 + [University of Edinburgh's coding club R tutorials](https://ourcodingclub.github.io/tutorials/)
+
++ [`formula.tools`](https://github.com/decisionpatterns/formula.tools), Utilities for working with formulas, expressions, calls and other R objects 
 
 ###  Tutorials
 
