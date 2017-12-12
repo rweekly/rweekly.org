@@ -52,6 +52,8 @@ Release Date: 2017-12-18
 
 + [`europepmc` 0.2, new vignette "Making proper trend graphs"](https://cran.r-project.org/web/packages/europepmc/vignettes/evergreenreviewgraphs.html)
 
++ [`snowflakes`: Random Snowflake Generator](https://cran.r-project.org/web/packages/snowflakes/index.html)
+
 ###  R Internationally
 
 + [Imagenes de los tweets mencionando a la DuraznoConf](https://github.com/d4tagirl/DuraznoConfMentions)
