@@ -63,6 +63,8 @@ Release Date: 2017-12-18
 
 + [`snowflakes`: Random Snowflake Generator](https://cran.r-project.org/web/packages/snowflakes/index.html)
 
++ [mgcViz 0.1](https://mfasiolo.github.io/mgcViz/): visual tools for Generalized Additive Models
+
 ###  R Internationally
 
 + [Imagenes de los tweets mencionando a la DuraznoConf](https://github.com/d4tagirl/DuraznoConfMentions)
