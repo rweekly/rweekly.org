@@ -100,6 +100,8 @@ Release Date: 2017-12-18
 
 + [styler - A non-invasive source code formatter for R](https://lorenzwalthert.github.io/stylerpost/)
 
++ [How to Use googlesheets to Connect R to Google Sheets](http://rforjournalists.com/2017/12/12/how-to-use-googlesheets-to-connect-r-to-google-sheets/)
+
 ### Gist & Cookbook
 
 
