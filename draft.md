@@ -31,6 +31,8 @@ Release Date: 2017-12-18
 
 + [Where to live in Poland or where to move](http://t-k.blue/blog/where-to-live-in-poland-or-where-to-move/)
 
++ [`cablecuttr`](https://github.com/bearloga/cablecuttr), An R wrapper for CanIStream.It API 
+
 ###  R in Organizations
 
 
@@ -81,7 +83,7 @@ Release Date: 2017-12-18
 
 + [`here`](https://krlmlr.github.io/here/), A Simpler Way to Find Your Files
 
-+ [`margins`, Marginal Effects for Model Objects, An R Port of Stata's `margins` Command](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html)
++ [`margins`](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html), Marginal Effects for Model Objects, An R Port of Stata's `margins` Command
 
 ###  Tutorials
 
@@ -151,4 +153,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> PSA: CRAN submissions will be closed from Dec 22 to Jan 3rd for well-deserved vacation of volunteers and (would be) disruptive maintenance of check farm</p>&mdash; Gabe Becker (@groundwalkergmb) <a href="https://twitter.com/groundwalkergmb/status/939922115007954944?ref_src=twsrc%5Etfw">10 de desembre de 2017</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Partner: hey is the second Bridget Jones movie available for us to stream?<br>Me: IDK BUT I MADE AN R PACKAGE FOR EXACTLY THIS MOMENT<br><br>cablecuttr 📦 for interfacing with the CanIStream.It API within <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>: <a href="https://t.co/4YVkvu2uMH">https://t.co/4YVkvu2uMH</a> <a href="https://t.co/XCa5DFuyPB">pic.twitter.com/XCa5DFuyPB</a></p>&mdash; Mikhail Popov (@bearloga) <a href="https://twitter.com/bearloga/status/940732131738664960?ref_src=twsrc%5Etfw">12 de desembre de 2017</a></blockquote>
 
