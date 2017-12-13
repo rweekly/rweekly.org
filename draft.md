@@ -104,6 +104,7 @@ Release Date: 2017-12-18
 
 ### Gist & Cookbook
 
++ [Purrr'ific 😺 way to do parallelized random grid-search of hyperparameters w/ K-fold CV error rate for Random Forest🌲🎄 (or any other algo) using purrr, rsample, & Henrik Bengtsson's future](https://gist.github.com/mrecos/aefc33da150e442d6574578666204b8c)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
