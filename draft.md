@@ -81,6 +81,7 @@ Release Date: 2017-12-18
 
 + [`here`](https://krlmlr.github.io/here/), A Simpler Way to Find Your Files
 
++ [`margins`, Marginal Effects for Model Objects, An R Port of Stata's `margins` Command](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html)
 
 ###  Tutorials
 
