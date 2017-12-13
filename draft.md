@@ -29,6 +29,8 @@ Release Date: 2017-12-18
 
 + [Using the tuber package to analyse a YouTube channel](https://insightr.wordpress.com/2017/12/11/using-the-tuber-package-to-analyse-a-youtube-channel/)
 
++ [Where to live in Poland or where to move](http://t-k.blue/blog/where-to-live-in-poland-or-where-to-move/)
+
 ###  R in Organizations
 
 
