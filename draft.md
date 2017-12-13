@@ -33,6 +33,8 @@ Release Date: 2017-12-18
 
 + [`cablecuttr`](https://github.com/bearloga/cablecuttr), An R wrapper for CanIStream.It API 
 
++ [ Vince Guaraldi’s Music from "A Charlie Brown Christmas", A Festive Analysis](https://petemiksza.com/2017/12/13/vince-guaraldis-music-from-a-charlie-brown-christmas/)
+
 ###  R in Organizations
 
 
