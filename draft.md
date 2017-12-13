@@ -35,6 +35,8 @@ Release Date: 2017-12-18
 
 + [ Vince Guaraldi’s Music from "A Charlie Brown Christmas", A Festive Analysis](https://petemiksza.com/2017/12/13/vince-guaraldis-music-from-a-charlie-brown-christmas/)
 
++ [Color palettes derived from the Dutch masters](https://edwinth.github.io/blog/dutch-masters/)
+
 ###  R in Organizations
 
 
