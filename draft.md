@@ -73,11 +73,14 @@ Release Date: 2017-12-18
 
 ###  Resources
 
-+ [`here`](https://krlmlr.github.io/here/), A Simpler Way to Find Your Files
++ [RECON learn: a free, open platform for training material on epidemics analysis](https://reconlearn.netlify.com/)
 
 + [University of Edinburgh's coding club R tutorials](https://ourcodingclub.github.io/tutorials/)
 
 + [`formula.tools`](https://github.com/decisionpatterns/formula.tools), Utilities for working with formulas, expressions, calls and other R objects 
+
++ [`here`](https://krlmlr.github.io/here/), A Simpler Way to Find Your Files
+
 
 ###  Tutorials
 
