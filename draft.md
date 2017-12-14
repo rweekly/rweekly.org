@@ -49,6 +49,8 @@ Release Date: 2017-12-18
 
 + [Dashboard from from a dissertation research with the title 'Interactions 3 : Language, demographics, and personality; an in-depth analysis of German tweets.' ](https://primesty.shinyapps.io/diss_dashboard/)
 
++ [Monitoring hybrid open access with Crossref and oa-intact metadata](https://subugoe.github.io/hybrid_oa_dashboard/about.html)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
