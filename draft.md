@@ -158,6 +158,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 + [satRday Cape Town 2018](http://capetown2018.satrdays.org/#callforpapers) - Call for papers
 
++ [eRum 2018 May 14-16, Budapest, Hungary](http://2018.erum.io/#cfp) - Call for papers
+
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
