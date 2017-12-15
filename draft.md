@@ -31,6 +31,12 @@ Release Date: 2017-12-18
 
 ### R in Real World
 
++ [Using rtweet to Create a tidyverse Twitterbot](https://www.wjakethompson.com/post/tidyverse-tweets/)
+
++ [Example Shiny App - Interest Rate Walk](https://www.tychobra.com/posts/2017-11-28-interest-rate-walk/)
+
++ [Winning an argument by extracting and visualizing pop singers vocal range](http://giorasimchoni.com/2017/12/10/2017-12-10-ave-mariah/)
+
 + [What the SATs Taught Us about Finding the Perfect Fit](http://multithreaded.stitchfix.com/blog/2017/12/13/latentsize/)
 
 + [Philippines Dengvaxia Vaccine Scam](https://brennonborbon.wordpress.com/2017/12/12/philippines-dengvaxia-vaccine-scam/)
@@ -43,9 +49,13 @@ Release Date: 2017-12-18
 
 + [Vince Guaraldi’s Music from "A Charlie Brown Christmas", A Festive Analysis](https://petemiksza.com/2017/12/13/vince-guaraldis-music-from-a-charlie-brown-christmas/)
 
+![Vince Guaraldi’s Music from "A Charlie Brown Christmas", A Festive Analysis](https://petemiksza.files.wordpress.com/2017/12/cbprediction3.jpg?w=1168)
+
 + [Color palettes derived from the Dutch masters](https://edwinth.github.io/blog/dutch-masters/)
 
 + [Inter-operate with 'MQTT' Message Brokers With R (a.k.a. Live! BBC! Subtitles!)](https://rud.is/b/2017/12/14/inter-operate-with-mqtt-message-brokers-with-r-a-k-a-live-bbc-subtitles/)
+
++ [Image Classification on Small Datasets with Keras](https://tensorflow.rstudio.com/blog/keras-image-classification-on-small-datasets.html)
 
 ###  R in Organizations
 
@@ -83,6 +93,7 @@ Release Date: 2017-12-18
 
 + [RVowpalWabbit 0.0.10](http://dirk.eddelbuettel.com/blog/2017/12/13#rvowpalwabbit_0.0.10)
 
++ [Lots of Package News](http://appliedpredictivemodeling.com/blog/2017/11/15/some-package-updates)
 
 ###  R Internationally
 
@@ -125,6 +136,12 @@ Release Date: 2017-12-18
 + [How to Use googlesheets to Connect R to Google Sheets](http://rforjournalists.com/2017/12/12/how-to-use-googlesheets-to-connect-r-to-google-sheets/)
 
 + [A Workaround For When Anti-DDoS Also Means Anti-Data](https://rud.is/b/2017/12/10/a-workaround-for-when-anti-ddos-also-means-anti-data/)
+
++ [Random walking](http://www.decisionsciencenews.com/2017/12/11/random-walking/)
+
++ [A minimal Project Tree in R](https://talesofr.wordpress.com/2017/12/12/a-minimal-project-tree-in-r/)
+
++ [Leveraging pipeline in Spark trough scala and Sparklyr](https://r-posts.com/leveraging-pipeline-in-spark-trough-scala-and-sparklyr/)
 
 + [Point Pattern Analysis using Ecological Methods in R](http://spatial.ly/2017/12/pointpatterns/)
 
