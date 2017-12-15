@@ -13,6 +13,8 @@ Release Date: 2017-12-18
 
 ### Insights
 
++ [How I Learned R](https://yihui.name/en/2017/12/how-i-learned-r/)
+
 + [When a Tweet Turns Into an R Package](http://blog.sellorm.com/2017/12/10/when-a-tweet-turns-into-an-r-package/)
 
 + [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
@@ -23,7 +25,13 @@ Release Date: 2017-12-18
 
 + [`nrow`, references and copies ](https://statisfaction.wordpress.com/2017/12/10/nrow-references-and-copies/)
 
++ [R in the Windows Subsystem for Linux](http://blog.revolutionanalytics.com/2017/12/r-in-the-windows-subsystem-for-linux.html)
+
++ [#12: Know and Customize your OS and Work Environment](http://dirk.eddelbuettel.com/blog/2017/12/09#012_know_and_customize_your_operating_system)
+
 ### R in Real World
+
++ [What the SATs Taught Us about Finding the Perfect Fit](http://multithreaded.stitchfix.com/blog/2017/12/13/latentsize/)
 
 + [Philippines Dengvaxia Vaccine Scam](https://brennonborbon.wordpress.com/2017/12/12/philippines-dengvaxia-vaccine-scam/)
 
@@ -31,11 +39,13 @@ Release Date: 2017-12-18
 
 + [Where to live in Poland or where to move](http://t-k.blue/blog/where-to-live-in-poland-or-where-to-move/)
 
-+ [`cablecuttr`](https://github.com/bearloga/cablecuttr), An R wrapper for CanIStream.It API 
++ [`cablecuttr`](https://github.com/bearloga/cablecuttr) - An R wrapper for CanIStream.It API
 
-+ [ Vince Guaraldi’s Music from "A Charlie Brown Christmas", A Festive Analysis](https://petemiksza.com/2017/12/13/vince-guaraldis-music-from-a-charlie-brown-christmas/)
++ [Vince Guaraldi’s Music from "A Charlie Brown Christmas", A Festive Analysis](https://petemiksza.com/2017/12/13/vince-guaraldis-music-from-a-charlie-brown-christmas/)
 
 + [Color palettes derived from the Dutch masters](https://edwinth.github.io/blog/dutch-masters/)
+
++ [Inter-operate with 'MQTT' Message Brokers With R (a.k.a. Live! BBC! Subtitles!)](https://rud.is/b/2017/12/14/inter-operate-with-mqtt-message-brokers-with-r-a-k-a-live-bbc-subtitles/)
 
 ###  R in Organizations
 
@@ -55,7 +65,7 @@ Release Date: 2017-12-18
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [`BRRR`](https://github.com/brooke-watson/BRRR), Rap adlibs in R. 
++ [`BRRR`](https://github.com/brooke-watson/BRRR) - Rap adlibs in R.
 
 + [`nipals`](https://cran.r-project.org/web/packages/nipals/index.html) - Principal components via Nonlinear Partial Least Squares.
 
@@ -63,11 +73,16 @@ Release Date: 2017-12-18
 
 + [`styler` 1.0.0](https://cran.r-project.org/web/packages/styler/index.html)
 
-+ [`europepmc` 0.2, new vignette "Making proper trend graphs"](https://cran.r-project.org/web/packages/europepmc/vignettes/evergreenreviewgraphs.html)
++ [`europepmc` 0.2](https://cran.r-project.org/web/packages/europepmc/vignettes/evergreenreviewgraphs.html) - new vignette "Making proper trend graphs"
 
-+ [`snowflakes`: Random Snowflake Generator](https://cran.r-project.org/web/packages/snowflakes/index.html)
++ [`snowflakes`](https://cran.r-project.org/web/packages/snowflakes/index.html) - Random Snowflake Generator
 
-+ [`mgcViz` 0.1](https://mfasiolo.github.io/mgcViz/): visual tools for Generalized Additive Models
++ [`mgcViz` 0.1](https://mfasiolo.github.io/mgcViz/) - visual tools for Generalized Additive Models
+
++ [Shiny Server (Pro) 1.5.6](https://blog.rstudio.com/2017/12/11/shiny-server-pro-1-5-6/)
+
++ [RVowpalWabbit 0.0.10](http://dirk.eddelbuettel.com/blog/2017/12/13#rvowpalwabbit_0.0.10)
+
 
 ###  R Internationally
 
@@ -87,7 +102,7 @@ Release Date: 2017-12-18
 
 + [University of Edinburgh's coding club R tutorials](https://ourcodingclub.github.io/tutorials/)
 
-+ [`formula.tools`](https://github.com/decisionpatterns/formula.tools), Utilities for working with formulas, expressions, calls and other R objects 
++ [`formula.tools`](https://github.com/decisionpatterns/formula.tools), Utilities for working with formulas, expressions, calls and other R objects
 
 + [`here`](https://krlmlr.github.io/here/), A Simpler Way to Find Your Files
 
@@ -95,10 +110,9 @@ Release Date: 2017-12-18
 
 ###  Tutorials
 
-
 + [Introduction to Queueuing Theory in R](https://roh.engineering/post/mmc-queues/)
 
-+ [Connecting R to Keras and TensorFlow ](https://rviews.rstudio.com/2017/12/11/r-and-tensorflow/?utm_content=bufferdd9c3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
++ [Connecting R to Keras and TensorFlow ](https://rviews.rstudio.com/2017/12/11/r-and-tensorflow/)
 
 + [Recording and replaying plots with the `recordPlot` function](http://clarkrichards.org/r/graphics/plot/rmd/2017/12/11/recording-plots/)
 
@@ -109,6 +123,28 @@ Release Date: 2017-12-18
 + [styler - A non-invasive source code formatter for R](https://lorenzwalthert.github.io/stylerpost/)
 
 + [How to Use googlesheets to Connect R to Google Sheets](http://rforjournalists.com/2017/12/12/how-to-use-googlesheets-to-connect-r-to-google-sheets/)
+
++ [A Workaround For When Anti-DDoS Also Means Anti-Data](https://rud.is/b/2017/12/10/a-workaround-for-when-anti-ddos-also-means-anti-data/)
+
++ [Point Pattern Analysis using Ecological Methods in R](http://spatial.ly/2017/12/pointpatterns/)
+
++ [A Crazy Little Thing Called {purrr} - Part 4: mappers](http://colinfay.me/purrr-mappers/)
+
++ [Stock-Recruitment Graphing Questions](http://derekogle.com/fishR/2017-12-12-Stock-Recruitment-Graphing-Questions)
+
++ [Explaining Predictions of Machine Learning Models with LIME - Münster Data Science Meetup](https://shirinsplayground.netlify.com/2017/12/lime_sketchnotes/)
+
++ [A chart of Bechdel Test scores](http://blog.revolutionanalytics.com/2017/12/a-chart-of-bechdel-test-scores.html)
+
++ [Introduction to Skewness](https://rviews.rstudio.com/2017/12/13/introduction-to-skewness/)
+
++ [#13: (Much) Faster Package (Re-)Installation via Binaries](http://dirk.eddelbuettel.com/blog/2017/12/13#013_faster_package_installation_two)
+
++ [Team Rtus wins Munich Re Datathon with mlr](https://mlr-org.github.io/Team-Rtus-wins-MunichRe-Datathon/)
+
++ [Getting started with seplyr](http://www.win-vector.com/blog/2017/12/getting-started-with-seplyr/)
+
++ [Comparing smooths in factor-smooth interactions II](https://www.fromthebottomoftheheap.net/2017/12/14/difference-splines-ii/)
 
 ### Gist & Cookbook
 
