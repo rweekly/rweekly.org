@@ -37,9 +37,10 @@ Release Date: 2017-12-18
 
 + [Winning an argument by extracting and visualizing pop singers vocal range](http://giorasimchoni.com/2017/12/10/2017-12-10-ave-mariah/)
 
-+ [What the SATs Taught Us about Finding the Perfect Fit](http://multithreaded.stitchfix.com/blog/2017/12/13/latentsize/)
 
 + [Philippines Dengvaxia Vaccine Scam](https://brennonborbon.wordpress.com/2017/12/12/philippines-dengvaxia-vaccine-scam/)
+
+![Philippines Dengvaxia Vaccine Scam](https://brennonborbon.files.wordpress.com/2017/12/ggridgesnewslength.png)
 
 + [Using the tuber package to analyse a YouTube channel](https://insightr.wordpress.com/2017/12/11/using-the-tuber-package-to-analyse-a-youtube-channel/)
 
@@ -152,6 +153,10 @@ Release Date: 2017-12-18
 + [Explaining Predictions of Machine Learning Models with LIME - Münster Data Science Meetup](https://shirinsplayground.netlify.com/2017/12/lime_sketchnotes/)
 
 + [A chart of Bechdel Test scores](http://blog.revolutionanalytics.com/2017/12/a-chart-of-bechdel-test-scores.html)
+
++ [What the SATs Taught Us about Finding the Perfect Fit](http://multithreaded.stitchfix.com/blog/2017/12/13/latentsize/)
+
+![What the SATs Taught Us about Finding the Perfect Fit](https://raw.githubusercontent.com/rweekly/image/master/2017-03/fit.gif)
 
 + [Introduction to Skewness](https://rviews.rstudio.com/2017/12/13/introduction-to-skewness/)
 
