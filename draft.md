@@ -13,6 +13,8 @@ Release Date: 2017-12-18
 
 ### Insights
 
++ [Milestone: 12,000 packages on CRAN](https://stat.ethz.ch/pipermail/r-devel/2017-December/075231.html)
+
 + [How I Learned R](https://yihui.name/en/2017/12/how-i-learned-r/)
 
 + [When a Tweet Turns Into an R Package](http://blog.sellorm.com/2017/12/10/when-a-tweet-turns-into-an-r-package/)
@@ -223,6 +225,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> PSA: CRAN submissions will be closed from Dec 22 to Jan 3rd for well-deserved vacation of volunteers and (would be) disruptive maintenance of check farm</p>&mdash; Gabe Becker (@groundwalkergmb) <a href="https://twitter.com/groundwalkergmb/status/939922115007954944?ref_src=twsrc%5Etfw">10 de desembre de 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“If the current trends continue, R will overtake SPSS to become the #1 software for scholarly data science use by the end of 2018” <a href="https://t.co/YgMCgTEHYr">https://t.co/YgMCgTEHYr</a> <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://t.co/58tfhhuAeC">pic.twitter.com/58tfhhuAeC</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/941238459863322624?ref_src=twsrc%5Etfw">December 14, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">We are <a href="https://twitter.com/hashtag/coding?src=hash&amp;ref_src=twsrc%5Etfw">#coding</a> our way towards an R package which downloads gridded datasets for a specified spatial and temporal extent, which datasets would you like to have easy access to? So far we have CHELSA, Bioclim, Hansen, Halpern, CRU, MODIS <a href="https://twitter.com/hashtag/EAB2017?src=hash&amp;ref_src=twsrc%5Etfw">#EAB2017</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/BritishEcolSoc?ref_src=twsrc%5Etfw">@BritishEcolSoc</a> <a href="https://t.co/wAcFaxm53d">pic.twitter.com/wAcFaxm53d</a></p>&mdash; Gergana Daskalova (@gndaskalova) <a href="https://twitter.com/gndaskalova/status/940214825778667522?ref_src=twsrc%5Etfw">11 de desembre de 2017</a></blockquote>
 
