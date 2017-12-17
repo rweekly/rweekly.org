@@ -170,6 +170,8 @@ Release Date: 2017-12-18
 
 + [Comparing smooths in factor-smooth interactions II](https://www.fromthebottomoftheheap.net/2017/12/14/difference-splines-ii/)
 
++ [Modifying an R function to iterate (using purrr) and use non-standard evaluation (using rlang)](https://jrosen48.github.io/blog/modifying-an-r-function-to-use-non-standard-evaluation/)
+
 ### Gist & Cookbook
 
 + [Purrr'ific 😺 way to do parallelized random grid-search of hyperparameters w/ K-fold CV error rate for Random Forest🌲🎄 (or any other algo) using purrr, rsample, & Henrik Bengtsson's future](https://gist.github.com/mrecos/aefc33da150e442d6574578666204b8c)
