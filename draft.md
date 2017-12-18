@@ -14,14 +14,11 @@ Release Date: 2017-12-25
 ### Insights
 
 
-+ [Modifying an R function to iterate (using purrr) and use non-standard evaluation (using rlang)](https://jrosen48.github.io/blog/modifying-an-r-function-to-use-non-standard-evaluation/)
-
-+ [Simplify Your Map To Reduce Drawing Time](https://seasmith.github.io/blog/simplify_your_map_to_reduce_drawing_time/)
 
 
 ### R in Real World
 
-
++ [Star Wars Vs Star Trek Word Battle](https://kkulma.github.io/2017-12-16-star-wars-vs-star-trek-word-battle/)
 
 
 
@@ -58,10 +55,14 @@ Release Date: 2017-12-25
 
 ###  Resources
 
-
++ [Material for STA 112FS: Data Science at Duke](http://www2.stat.duke.edu/courses/Fall17/sta112.01/) including [an assignment with fun R packages](http://www2.stat.duke.edu/courses/Fall17/sta112.01/assignment/08-mini-hw.html)
 
 
 ###  Tutorials
+
++ [Modifying an R function to iterate (using purrr) and use non-standard evaluation (using rlang)](https://jrosen48.github.io/blog/modifying-an-r-function-to-use-non-standard-evaluation/)
+
++ [Simplify Your Map To Reduce Drawing Time](https://seasmith.github.io/blog/simplify_your_map_to_reduce_drawing_time/)
 
 
 
