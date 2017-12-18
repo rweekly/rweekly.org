@@ -64,7 +64,7 @@ Release Date: 2017-12-25
 
 + [Simplify Your Map To Reduce Drawing Time](https://seasmith.github.io/blog/simplify_your_map_to_reduce_drawing_time/)
 
-
++ [Hypurrr-ameter Grid Search with `purrr` and `future`](https://matthewdharris.com/2017/12/18/hypurrr-ameter-grid-search-with-purrr-and-future/) and corresponding [R scripts and executable binder](https://github.com/mrecos/hypurrr-ameters)
 
 ### Gist & Cookbook
 
