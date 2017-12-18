@@ -16,6 +16,8 @@ Release Date: 2017-12-25
 
 + [Modifying an R function to iterate (using purrr) and use non-standard evaluation (using rlang)](https://jrosen48.github.io/blog/modifying-an-r-function-to-use-non-standard-evaluation/)
 
++ [Simplify Your Map To Reduce Drawing Time](https://seasmith.github.io/blog/simplify_your_map_to_reduce_drawing_time/)
+
 
 ### R in Real World
 
@@ -62,8 +64,6 @@ Release Date: 2017-12-25
 ###  Tutorials
 
 
-
-+ [Simplify Your Map To Reduce Drawing Time](https://seasmith.github.io/blog/simplify_your_map_to_reduce_drawing_time/)
 
 ### Gist & Cookbook
 
