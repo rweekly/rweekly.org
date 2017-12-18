@@ -13,7 +13,9 @@ Release Date: 2017-12-25
 
 ### Insights
 
++ [Teaching the tidyverse to beginners](http://www.brodrigues.co/blog/2017-12-17-teaching_tidyverse/)
 
++ [On moving the box, not the whiskers](http://rex-analytics.com/moving-box-not-whiskers/)
 
 
 ### R in Real World
@@ -56,6 +58,8 @@ Release Date: 2017-12-25
 ###  Resources
 
 + [Material for STA 112FS: Data Science at Duke](http://www2.stat.duke.edu/courses/Fall17/sta112.01/) including [an assignment with fun R packages](http://www2.stat.duke.edu/courses/Fall17/sta112.01/assignment/08-mini-hw.html)
+
++ [Docker-based Geospatial toolkit for R, built on versioned Rocker images](https://hub.docker.com/r/rocker/geospatial/)
 
 
 ###  Tutorials
