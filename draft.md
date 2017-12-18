@@ -66,6 +66,8 @@ Release Date: 2017-12-25
 
 + [Hypurrr-ameter Grid Search with `purrr` and `future`](https://matthewdharris.com/2017/12/18/hypurrr-ameter-grid-search-with-purrr-and-future/) and corresponding [R scripts and executable binder](https://github.com/mrecos/hypurrr-ameters)
 
++ [Testing for time trend](https://nxskok.github.io/blog/2017/12/16/testing-for-time-trend/)
+
 ### Gist & Cookbook
 
 
