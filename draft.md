@@ -121,3 +121,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">I am always looking for reviewers for the Journal of Open Source Software (JOSS). If you&#39;re interested (especially if you are interested in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> and/or social science), please sign-up here: <a href="https://t.co/GSl78TqgZn">https://t.co/GSl78TqgZn</a></p>&mdash; Thomas Leeper (@thosjleeper) <a href="https://twitter.com/thosjleeper/status/942684699599699969?ref_src=twsrc%5Etfw">18 de desembre de 2017</a></blockquote>
+
