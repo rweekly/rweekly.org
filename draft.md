@@ -14,6 +14,7 @@ Release Date: 2017-12-25
 ### Insights
 
 
++ [Modifying an R function to iterate (using purrr) and use non-standard evaluation (using rlang)](https://jrosen48.github.io/blog/modifying-an-r-function-to-use-non-standard-evaluation/)
 
 
 ### R in Real World
@@ -63,7 +64,6 @@ Release Date: 2017-12-25
 
 
 ### Gist & Cookbook
-
 
 
 
