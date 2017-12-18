@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2017-51
+title: R Weekly 2017-52
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2017-12-18
+Release Date: 2017-12-25
 
 ###  Highlight
 
@@ -13,52 +13,14 @@ Release Date: 2017-12-18
 
 ### Insights
 
-+ [Milestone: 12,000 packages on CRAN](https://stat.ethz.ch/pipermail/r-devel/2017-December/075231.html)
 
-+ [How I Learned R](https://yihui.name/en/2017/12/how-i-learned-r/)
 
-+ [When a Tweet Turns Into an R Package](http://blog.sellorm.com/2017/12/10/when-a-tweet-turns-into-an-r-package/)
-
-+ [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
-
-+ [How to develop good R packages (for open science)](http://www.masalmon.eu/2017/12/11/goodrpackages/)
-
-+ [Personal note on joining the Microsoft Cloud Advocates team](http://blog.revolutionanalytics.com/2017/12/cloud-advocate.html)
-
-+ [`nrow`, references and copies ](https://statisfaction.wordpress.com/2017/12/10/nrow-references-and-copies/)
-
-+ [R in the Windows Subsystem for Linux](http://blog.revolutionanalytics.com/2017/12/r-in-the-windows-subsystem-for-linux.html)
-
-+ [#12: Know and Customize your OS and Work Environment](http://dirk.eddelbuettel.com/blog/2017/12/09#012_know_and_customize_your_operating_system)
 
 ### R in Real World
 
-+ [Using rtweet to Create a tidyverse Twitterbot](https://www.wjakethompson.com/post/tidyverse-tweets/)
-
-+ [Example Shiny App - Interest Rate Walk](https://www.tychobra.com/posts/2017-11-28-interest-rate-walk/)
-
-+ [Winning an argument by extracting and visualizing pop singers vocal range](http://giorasimchoni.com/2017/12/10/2017-12-10-ave-mariah/)
 
 
-+ [Philippines Dengvaxia Vaccine Scam](https://brennonborbon.wordpress.com/2017/12/12/philippines-dengvaxia-vaccine-scam/)
 
-![Philippines Dengvaxia Vaccine Scam](https://brennonborbon.files.wordpress.com/2017/12/ggridgesnewslength.png)
-
-+ [Using the tuber package to analyse a YouTube channel](https://insightr.wordpress.com/2017/12/11/using-the-tuber-package-to-analyse-a-youtube-channel/)
-
-+ [Where to live in Poland or where to move](http://t-k.blue/blog/where-to-live-in-poland-or-where-to-move/)
-
-+ [`cablecuttr`](https://github.com/bearloga/cablecuttr) - An R wrapper for CanIStream.It API
-
-+ [Vince Guaraldi’s Music from "A Charlie Brown Christmas", A Festive Analysis](https://petemiksza.com/2017/12/13/vince-guaraldis-music-from-a-charlie-brown-christmas/)
-
-![Vince Guaraldi’s Music from "A Charlie Brown Christmas", A Festive Analysis](https://petemiksza.files.wordpress.com/2017/12/cbprediction3.jpg?w=1168)
-
-+ [Color palettes derived from the Dutch masters](https://edwinth.github.io/blog/dutch-masters/)
-
-+ [Inter-operate with 'MQTT' Message Brokers With R (a.k.a. Live! BBC! Subtitles!)](https://rud.is/b/2017/12/14/inter-operate-with-mqtt-message-brokers-with-r-a-k-a-live-bbc-subtitles/)
-
-+ [Image Classification on Small Datasets with Keras](https://tensorflow.rstudio.com/blog/keras-image-classification-on-small-datasets.html)
 
 ###  R in Organizations
 
@@ -66,43 +28,24 @@ Release Date: 2017-12-18
 
 ###  R in Academia
 
-+ [Data acquisition in R (3/4): Demographic data sources](https://ikashnitsky.github.io/2017/data-acquisition-three/)
 
-+ [What the world is data science education? Looking back on #dsetonline](https://jrosen48.github.io/blog/what-the-world-is-data-science-education-looking-back-on-dsetonline/)
 
-+ [Dashboard from from a dissertation research with the title 'Interactions 3 : Language, demographics, and personality; an in-depth analysis of German tweets.' ](https://primesty.shinyapps.io/diss_dashboard/)
 
-+ [Monitoring hybrid open access with Crossref and oa-intact metadata](https://subugoe.github.io/hybrid_oa_dashboard/about.html)
 
 ###  New Packages
 
-<p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
 
-+ [`BRRR`](https://github.com/brooke-watson/BRRR) - Rap adlibs in R.
 
-+ [`nipals`](https://cran.r-project.org/web/packages/nipals/index.html) - Principal components via Nonlinear Partial Least Squares.
 
 ### Package Releases
 
-+ [`styler` 1.0.0](https://cran.r-project.org/web/packages/styler/index.html)
 
-+ [`europepmc` 0.2](https://cran.r-project.org/web/packages/europepmc/vignettes/evergreenreviewgraphs.html) - new vignette "Making proper trend graphs"
-
-+ [`snowflakes`](https://cran.r-project.org/web/packages/snowflakes/index.html) - Random Snowflake Generator
-
-+ [`mgcViz` 0.1](https://mfasiolo.github.io/mgcViz/) - visual tools for Generalized Additive Models
-
-+ [Shiny Server (Pro) 1.5.6](https://blog.rstudio.com/2017/12/11/shiny-server-pro-1-5-6/)
-
-+ [RVowpalWabbit 0.0.10](http://dirk.eddelbuettel.com/blog/2017/12/13#rvowpalwabbit_0.0.10)
-
-+ [Lots of Package News](http://appliedpredictivemodeling.com/blog/2017/11/15/some-package-updates)
 
 ###  R Internationally
 
-+ [Imagenes de los tweets mencionando a la DuraznoConf](https://github.com/d4tagirl/DuraznoConfMentions)
 
-+ [Airbnb legt im Kanton Zürich weiter zu](https://statistik.zh.ch/internet/justiz_inneres/statistik/de/aktuell/mitteilungen/2017/airbnb2017.html)
+
 
 
 ###  Videos and Podcasts
@@ -112,67 +55,17 @@ Release Date: 2017-12-18
 
 ###  Resources
 
-+ [RECON learn: a free, open platform for training material on epidemics analysis](https://reconlearn.netlify.com/)
 
-+ [University of Edinburgh's coding club R tutorials](https://ourcodingclub.github.io/tutorials/)
 
-+ [`formula.tools`](https://github.com/decisionpatterns/formula.tools), Utilities for working with formulas, expressions, calls and other R objects
-
-+ [`here`](https://krlmlr.github.io/here/), A Simpler Way to Find Your Files
-
-+ [`margins`](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html), Marginal Effects for Model Objects, An R Port of Stata's `margins` Command
 
 ###  Tutorials
 
-+ [Introduction to Queueuing Theory in R](https://roh.engineering/post/mmc-queues/)
 
-+ [Connecting R to Keras and TensorFlow ](https://rviews.rstudio.com/2017/12/11/r-and-tensorflow/)
-
-+ [Recording and replaying plots with the `recordPlot` function](http://clarkrichards.org/r/graphics/plot/rmd/2017/12/11/recording-plots/)
-
-+ [Using `rtweet` to Create a tidyverse Twitterbot](https://www.wjakethompson.com/post/tidyverse-tweets/)
-
-+ [When there's a fork in the road, take it. Or, taking a look at marginal structural models.](https://www.rdatagen.net/post/when-a-covariate-is-a-confounder-and-a-mediator/)
-
-+ [styler - A non-invasive source code formatter for R](https://lorenzwalthert.github.io/stylerpost/)
-
-+ [How to Use googlesheets to Connect R to Google Sheets](http://rforjournalists.com/2017/12/12/how-to-use-googlesheets-to-connect-r-to-google-sheets/)
-
-+ [A Workaround For When Anti-DDoS Also Means Anti-Data](https://rud.is/b/2017/12/10/a-workaround-for-when-anti-ddos-also-means-anti-data/)
-
-+ [Random walking](http://www.decisionsciencenews.com/2017/12/11/random-walking/)
-
-+ [A minimal Project Tree in R](https://talesofr.wordpress.com/2017/12/12/a-minimal-project-tree-in-r/)
-
-+ [Leveraging pipeline in Spark trough scala and Sparklyr](https://r-posts.com/leveraging-pipeline-in-spark-trough-scala-and-sparklyr/)
-
-+ [Point Pattern Analysis using Ecological Methods in R](http://spatial.ly/2017/12/pointpatterns/)
-
-+ [A Crazy Little Thing Called {purrr} - Part 4: mappers](http://colinfay.me/purrr-mappers/)
-
-+ [Stock-Recruitment Graphing Questions](http://derekogle.com/fishR/2017-12-12-Stock-Recruitment-Graphing-Questions)
-
-+ [Explaining Predictions of Machine Learning Models with LIME - Münster Data Science Meetup](https://shirinsplayground.netlify.com/2017/12/lime_sketchnotes/)
-
-+ [A chart of Bechdel Test scores](http://blog.revolutionanalytics.com/2017/12/a-chart-of-bechdel-test-scores.html)
-
-+ [What the SATs Taught Us about Finding the Perfect Fit](http://multithreaded.stitchfix.com/blog/2017/12/13/latentsize/)
-
-![What the SATs Taught Us about Finding the Perfect Fit](https://raw.githubusercontent.com/rweekly/image/master/2017-03/fit.gif)
-
-+ [Introduction to Skewness](https://rviews.rstudio.com/2017/12/13/introduction-to-skewness/)
-
-+ [#13: (Much) Faster Package (Re-)Installation via Binaries](http://dirk.eddelbuettel.com/blog/2017/12/13#013_faster_package_installation_two)
-
-+ [Team Rtus wins Munich Re Datathon with mlr](https://mlr-org.github.io/Team-Rtus-wins-MunichRe-Datathon/)
-
-+ [Getting started with seplyr](http://www.win-vector.com/blog/2017/12/getting-started-with-seplyr/)
-
-+ [Comparing smooths in factor-smooth interactions II](https://www.fromthebottomoftheheap.net/2017/12/14/difference-splines-ii/)
 
 ### Gist & Cookbook
 
-+ [Purrr'ific 😺 way to do parallelized random grid-search of hyperparameters w/ K-fold CV error rate for Random Forest🌲🎄 (or any other algo) using purrr, rsample, & Henrik Bengtsson's future](https://gist.github.com/mrecos/aefc33da150e442d6574578666204b8c)
+
+
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -223,17 +116,3 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> PSA: CRAN submissions will be closed from Dec 22 to Jan 3rd for well-deserved vacation of volunteers and (would be) disruptive maintenance of check farm</p>&mdash; Gabe Becker (@groundwalkergmb) <a href="https://twitter.com/groundwalkergmb/status/939922115007954944?ref_src=twsrc%5Etfw">10 de desembre de 2017</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“If the current trends continue, R will overtake SPSS to become the #1 software for scholarly data science use by the end of 2018” <a href="https://t.co/YgMCgTEHYr">https://t.co/YgMCgTEHYr</a> <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://t.co/58tfhhuAeC">pic.twitter.com/58tfhhuAeC</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/941238459863322624?ref_src=twsrc%5Etfw">December 14, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">We are <a href="https://twitter.com/hashtag/coding?src=hash&amp;ref_src=twsrc%5Etfw">#coding</a> our way towards an R package which downloads gridded datasets for a specified spatial and temporal extent, which datasets would you like to have easy access to? So far we have CHELSA, Bioclim, Hansen, Halpern, CRU, MODIS <a href="https://twitter.com/hashtag/EAB2017?src=hash&amp;ref_src=twsrc%5Etfw">#EAB2017</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/BritishEcolSoc?ref_src=twsrc%5Etfw">@BritishEcolSoc</a> <a href="https://t.co/wAcFaxm53d">pic.twitter.com/wAcFaxm53d</a></p>&mdash; Gergana Daskalova (@gndaskalova) <a href="https://twitter.com/gndaskalova/status/940214825778667522?ref_src=twsrc%5Etfw">11 de desembre de 2017</a></blockquote>
-
-
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Partner: hey is the second Bridget Jones movie available for us to stream?<br>Me: IDK BUT I MADE AN R PACKAGE FOR EXACTLY THIS MOMENT<br><br>cablecuttr 📦 for interfacing with the CanIStream.It API within <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>: <a href="https://t.co/4YVkvu2uMH">https://t.co/4YVkvu2uMH</a> <a href="https://t.co/XCa5DFuyPB">pic.twitter.com/XCa5DFuyPB</a></p>&mdash; Mikhail Popov (@bearloga) <a href="https://twitter.com/bearloga/status/940732131738664960?ref_src=twsrc%5Etfw">12 de desembre de 2017</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Couple of tools for making figures more accessible:<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tool to check your figures for colourblind friendliness: <a href="https://t.co/Lxi56T1TCe">https://t.co/Lxi56T1TCe</a><br><br>The viridis <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package for perceptually uniform colour palettes: <a href="https://t.co/ciST4TuXtq">https://t.co/ciST4TuXtq</a><a href="https://twitter.com/hashtag/EAB2017?src=hash&amp;ref_src=twsrc%5Etfw">#EAB2017</a> <a href="https://t.co/uoQgHdfRFL">https://t.co/uoQgHdfRFL</a></p>&mdash; Mike Whitfield (@mgwhitfield) <a href="https://twitter.com/mgwhitfield/status/940551088054439936?ref_src=twsrc%5Etfw">12 de desembre de 2017</a></blockquote>
-
-
