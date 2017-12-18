@@ -20,7 +20,7 @@ Release Date: 2017-12-25
 
 + [Star Wars Vs Star Trek Word Battle](https://kkulma.github.io/2017-12-16-star-wars-vs-star-trek-word-battle/)
 
-
++ [Stylistic variation in the @realDonaldTrump Twitter account and the stylistic typicality of the Pled Tweet](http://rpubs.com/jwgrieve/340342)
 
 ###  R in Organizations
 
