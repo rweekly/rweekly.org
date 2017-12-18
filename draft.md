@@ -63,6 +63,8 @@ Release Date: 2017-12-25
 
 
 
++ [Simplify Your Map To Reduce Drawing Time](https://seasmith.github.io/blog/simplify_your_map_to_reduce_drawing_time/)
+
 ### Gist & Cookbook
 
 
