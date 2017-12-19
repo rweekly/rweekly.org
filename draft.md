@@ -24,6 +24,8 @@ Release Date: 2017-12-25
 
 + [Stylistic variation in the @realDonaldTrump Twitter account and the stylistic typicality of the Pled Tweet](http://rpubs.com/jwgrieve/340342)
 
++ [Possum magic: mapping an Australian children's book](http://www.masalmon.eu/2017/12/16/possummagic/)
+
 ###  R in Organizations
 
 
@@ -71,6 +73,8 @@ Release Date: 2017-12-25
 + [Hypurrr-ameter Grid Search with `purrr` and `future`](https://matthewdharris.com/2017/12/18/hypurrr-ameter-grid-search-with-purrr-and-future/) and corresponding [R scripts and executable binder](https://github.com/mrecos/hypurrr-ameters)
 
 + [Testing for time trend](https://nxskok.github.io/blog/2017/12/16/testing-for-time-trend/)
+
++ [Learn to Write Command Line Utilities in R](http://blog.sellorm.com/2017/12/18/learn-to-write-command-line-utilities-in-r/)
 
 ### Gist & Cookbook
 
