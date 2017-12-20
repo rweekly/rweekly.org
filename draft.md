@@ -34,7 +34,7 @@ Release Date: 2017-12-25
 
 ###  R in Academia
 
-
++ [Creating 2016 population weights created for the Cards Against Humanities's Pulse of the Nation Survey. Weights are based on 2016 Census estimates for Age, Race, and Gender](https://github.com/Adamishere/CAH_Weighting)
 
 
 
