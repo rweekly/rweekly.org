@@ -69,6 +69,8 @@ Release Date: 2017-12-25
 
 + [`fulltext` bookdown (work in progress, feedback welcome)](https://ropensci.github.io/fulltext-book/index.html)
 
++ [`exams`](http://www.r-exams.org/), The open-source package exams for the R system for statistical computing provides a one-for-all approach to automatic exams generation.
+
 ###  Tutorials
 
 + [Modifying an R function to iterate (using purrr) and use non-standard evaluation (using rlang)](https://jrosen48.github.io/blog/modifying-an-r-function-to-use-non-standard-evaluation/)
