@@ -78,6 +78,8 @@ Release Date: 2017-12-25
 
 + [Learn to Write Command Line Utilities in R](http://blog.sellorm.com/2017/12/18/learn-to-write-command-line-utilities-in-r/)
 
++ [Integrating 'pkgdown' with Your Personal Website](http://enpiar.com/2017/12/18/integrating-pkgdown-with-your-personal-website/r)
+
 ### Gist & Cookbook
 
 
