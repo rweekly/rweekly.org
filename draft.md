@@ -85,6 +85,8 @@ Release Date: 2017-12-25
 
 + [Integrating 'pkgdown' with Your Personal Website](http://enpiar.com/2017/12/18/integrating-pkgdown-with-your-personal-website/r)
 
++ [How to build a shiny app for sports betting](https://myrplayground.wordpress.com/2017/12/19/how-to-build-a-shiny-app-for-sports-betting-part-3/)
+
 ### Gist & Cookbook
 
 
