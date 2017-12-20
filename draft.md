@@ -65,6 +65,7 @@ Release Date: 2017-12-25
 
 + [Reading and combining many tidy data files in R](http://serialmentor.com/blog/2016/6/13/reading-and-combining-many-tidy-data-files-in-R)
 
++ [`fulltext` bookdown (work in progress, feedback welcome)](https://ropensci.github.io/fulltext-book/index.html)
 
 ###  Tutorials
 
