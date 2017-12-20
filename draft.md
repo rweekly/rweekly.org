@@ -28,6 +28,8 @@ Release Date: 2017-12-25
 
 + [ASA Police Data Challenge student visualization contest winners](http://blog.revolutionanalytics.com/2017/12/police-data-challenge.html)
 
++ [E is for Elephant (The `ebayr` Package)](http://giorasimchoni.com/2017/12/19/2017-12-19-e-is-for-elephant-the-ebayr-package/)
+
 ###  R in Organizations
 
 
