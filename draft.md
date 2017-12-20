@@ -63,6 +63,8 @@ Release Date: 2017-12-25
 
 + [Docker-based Geospatial toolkit for R, built on versioned Rocker images](https://hub.docker.com/r/rocker/geospatial/)
 
++ [Reading and combining many tidy data files in R](http://serialmentor.com/blog/2016/6/13/reading-and-combining-many-tidy-data-files-in-R)
+
 
 ###  Tutorials
 
