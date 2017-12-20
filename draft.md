@@ -26,6 +26,8 @@ Release Date: 2017-12-25
 
 + [Possum magic: mapping an Australian children's book](http://www.masalmon.eu/2017/12/16/possummagic/)
 
++ [ASA Police Data Challenge student visualization contest winners](http://blog.revolutionanalytics.com/2017/12/police-data-challenge.html)
+
 ###  R in Organizations
 
 
