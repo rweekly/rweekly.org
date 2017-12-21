@@ -17,6 +17,12 @@ Release Date: 2017-12-25
 
 + [On moving the box, not the whiskers](http://rex-analytics.com/moving-box-not-whiskers/)
 
++ [Data Analysis and Engagement - Does Caring About the Analysis Matter?](https://simplystatistics.org/2017/12/18/data-analysis-and-engagement-does-caring-matter/)
+
++ [2017 - A 🐦❤️ year in review](https://maraaverick.rbind.io/2017/12/2017-a-year-in-review/)
+
++ [Thoughts on David Donoho's "Fifty Years of Data Science"](https://simplystatistics.org/2017/12/20/thoughts-on-david-donoho-s-fifty-years-of-data-science/)
+
 
 ### R in Real World
 
@@ -28,31 +34,66 @@ Release Date: 2017-12-25
 
 + [ASA Police Data Challenge student visualization contest winners](http://blog.revolutionanalytics.com/2017/12/police-data-challenge.html)
 
+![ASA Police Data Challenge student visualization contest winners](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01b7c93c52ab970b-800wi)
+
 + [E is for Elephant (The `ebayr` Package)](http://giorasimchoni.com/2017/12/19/2017-12-19-e-is-for-elephant-the-ebayr-package/)
+
++ [Surprising stories hide in seemingly mundane data](https://thinkr.biz/2017/12/20/geospatial/)
+
++ [Mining Game of Thrones Scripts with R](https://www.gokhanciflikli.com/post/game-of-thrones/)
+
+![Mining Game of Thrones Scripts with R](https://image.ibb.co/fWZSx6/westeros.png)
+
++ [Data Wonderland: Christmas songs from the viewpoint of a data scientist](https://blog.eoda.de/2017/12/19/data-wonderland-christmas-songs-from-the-viewpoint-of-a-data-scientist/)
+
++ [mqtt Development Log : On DSLs, Rcpp Modules and Custom Formula Functions](https://rud.is/b/2017/12/17/mqtt-development-log-on-dsls-rcpp-modules-and-custom-formula-functions/)
+
++ [Conference Cost](http://blog.jumpingrivers.com/posts/2017/conference_cost_2017/)
+
+![Conference Cost](http://blog.jumpingrivers.com/posts/2017/2017-17-12-conference_cost_files/figure-html/conf-cost-1.svg)
 
 ###  R in Organizations
 
 
++ [eRum 2018 to be held in Budapest, May 14-18](http://blog.revolutionanalytics.com/2017/12/erum-2018.html)
+
++ [Recap of the uRos2017 conference](https://www.r-consortium.org/uncategorized/2017/12/20/recap-uros2017-conference)
+
++ [A Data Science Lab for R](https://rviews.rstudio.com/2017/12/20/rstudio-server-quick-start/)
+
++ [9th MilanoR Meeting - Dataviz with R, Photos and presentations](http://www.milanor.net/blog/9th-milanor-dataviz-presentations-photos/)
 
 ###  R in Academia
 
 + [Creating 2016 population weights created for the Cards Against Humanities's Pulse of the Nation Survey. Weights are based on 2016 Census estimates for Age, Race, and Gender](https://github.com/Adamishere/CAH_Weighting)
 
-
++ [Teaching the tidyverse to beginners](http://www.brodrigues.co/blog/2017-12-17-teaching_tidyverse/)
 
 ###  New Packages
 
-<!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
+<p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [tfestimators](https://cran.r-project.org/web/packages/tfestimators/index.html) - Interface to 'TensorFlow' Estimators
+
++ [bcmaps](https://cloud.r-project.org/web/packages/bcmaps/index.html) - Map Layers and Spatial Utilities for British Columbia
+
++ [JuniperKernel](https://cloud.r-project.org/web/packages/JuniperKernel/index.html) - Kernel for 'Jupyter'
+
++ [SpatialBall](https://cran.r-project.org/web/packages/SpatialBall/index.html) - Spatial NBA Visualization and Analysis
 
 
 ### Package Releases
 
 
++ [digest 0.6.13](http://dirk.eddelbuettel.com/blog/2017/12/16#digest_0.6.13)
+
++ [drat 0.1.4](http://dirk.eddelbuettel.com/blog/2017/12/16#drat_0.1.4)
+
 
 ###  R Internationally
 
-
++ [Brazil R Day](http://rday.leg.ufpr.br/) - National Meeting of R users is an event to congregate users and developers of R in an environment for exchange of experiences, learning
+and contacts.
 
 
 
@@ -75,6 +116,8 @@ Release Date: 2017-12-25
 
 ###  Tutorials
 
++ [R⁶ Series — Random Sampling From Apache Drill Tables With R & sergeant](https://rud.is/b/2017/12/20/r%e2%81%b6-series-random-sampling-from-apache-drill-tables-with-r-sergeant/)
+
 + [Modifying an R function to iterate (using purrr) and use non-standard evaluation (using rlang)](https://jrosen48.github.io/blog/modifying-an-r-function-to-use-non-standard-evaluation/)
 
 + [Simplify Your Map To Reduce Drawing Time](https://seasmith.github.io/blog/simplify_your_map_to_reduce_drawing_time/)
@@ -88,6 +131,24 @@ Release Date: 2017-12-25
 + [Integrating 'pkgdown' with Your Personal Website](http://enpiar.com/2017/12/18/integrating-pkgdown-with-your-personal-website/r)
 
 + [How to build a shiny app for sports betting](https://myrplayground.wordpress.com/2017/12/19/how-to-build-a-shiny-app-for-sports-betting-part-3/)
+
+
++ [How Do Machines Learn?](https://simplystatistics.org/2017/12/19/how-do-machines-learn/)
+
++ [A Crazy Little Thing Called {purrr} - Part 5: code optimization](http://colinfay.me/purrr-code-optim/)
+
++ [More Pipes in R](http://www.win-vector.com/blog/2017/12/more-pipes-in-r/)
+
++ [How to Greatly Speed Up Your Spark Queries](http://www.win-vector.com/blog/2017/12/how-to-greatly-speed-up-your-spark-queries/)
+
++ [Time Series Forecasting with Recurrent Neural Networks](https://tensorflow.rstudio.com/blog/time-series-forecasting-with-recurrent-neural-networks.html)
+
++ [Let it Flow...Let it Flow....Let it Flow](https://johnmackintosh.com/2017-12-19-flow/)
+
++ [The Trouble with Bias, by Kate Crawford](http://blog.revolutionanalytics.com/2017/12/the-trouble-with-bias-by-kate-crawford.html)
+
++ [Puerto Rico's governor wants recount of hurricane death toll](https://simplystatistics.org/2017/12/19/puerto-rico-s-governor-wants-recount-of-hurricane-death-toll/)
+
 
 ### Gist & Cookbook
 
