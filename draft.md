@@ -81,6 +81,7 @@ Release Date: 2017-12-25
 
 + [SpatialBall](https://cran.r-project.org/web/packages/SpatialBall/index.html) - Spatial NBA Visualization and Analysis
 
++ [`jekyllthat`](https://github.com/ColinFay/jekyllthat) - RMarkdown to Github Jekyll md
 
 ### Package Releases
 
