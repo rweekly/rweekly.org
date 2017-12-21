@@ -159,6 +159,8 @@ and contacts.
 
 + [Skip errors in R loops by not writing loops](http://blog.rdata.lu/post/2017-12-21-skip-errors-in-r-by-not-writing-loops/)
 
++ [Higher-order geometry differences and intersections](http://r-spatial.org/r/2017/12/21/geoms.html)
+
 ### Gist & Cookbook
 
 + [A function to create artifical snow using R base graphics and the `animation` package ](https://gist.github.com/ikosmidis/e75ffef29fc356ba54c2b42c1ca3ba98)
