@@ -52,6 +52,10 @@ Release Date: 2017-12-25
 
 ![Conference Cost](http://blog.jumpingrivers.com/posts/2017/2017-17-12-conference_cost_files/figure-html/conf-cost-1.svg)
 
++ [`inegiR` – an R package for Mexican official statistics](https://www.r-bloggers.com/inegir-an-r-package-for-mexican-official-statistics/)
+
++ [Where have you been? Getting my Github activity](http://www.masalmon.eu/2017/12/21/wherehaveyoubeen/)
+
 ###  R in Organizations
 
 
@@ -150,10 +154,11 @@ and contacts.
 
 + [Puerto Rico's governor wants recount of hurricane death toll](https://simplystatistics.org/2017/12/19/puerto-rico-s-governor-wants-recount-of-hurricane-death-toll/)
 
++ [My favourite R package for: frequency tables](https://dabblingwithdata.wordpress.com/2017/12/20/my-favourite-r-package-for-frequency-tables/)
 
 ### Gist & Cookbook
 
-
++ [A function to create artifical snow using R base graphics and the `animation` package ](https://gist.github.com/ikosmidis/e75ffef29fc356ba54c2b42c1ca3ba98)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
