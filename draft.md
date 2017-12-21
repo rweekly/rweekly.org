@@ -26,7 +26,7 @@ Release Date: 2017-12-25
 
 ### R in Real World
 
-+ [Star Wars Vs Star Trek Word Battle](https://kkulma.github.io/2017-12-16-star-wars-vs-star-trek-word-battle/)
++ [Wars Vs Star Trek Word Battle](https://kkulma.github.io/2017-12-16-star-wars-vs-star-trek-word-battle/)
 
 + [Stylistic variation in the @realDonaldTrump Twitter account and the stylistic typicality of the Pled Tweet](http://rpubs.com/jwgrieve/340342)
 
@@ -55,6 +55,8 @@ Release Date: 2017-12-25
 + [`inegiR` – an R package for Mexican official statistics](https://www.r-bloggers.com/inegir-an-r-package-for-mexican-official-statistics/)
 
 + [Where have you been? Getting my Github activity](http://www.masalmon.eu/2017/12/21/wherehaveyoubeen/)
+
++ [Analysing comments to "Star Wars: The Last Jedi" - part 2](https://johannesfriedrich.github.io/2017-12-21-SWU-Analysis-wordcloud/)
 
 ###  R in Organizations
 
@@ -137,7 +139,6 @@ and contacts.
 
 + [How to build a shiny app for sports betting](https://myrplayground.wordpress.com/2017/12/19/how-to-build-a-shiny-app-for-sports-betting-part-3/)
 
-
 + [How Do Machines Learn?](https://simplystatistics.org/2017/12/19/how-do-machines-learn/)
 
 + [A Crazy Little Thing Called {purrr} - Part 5: code optimization](http://colinfay.me/purrr-code-optim/)
@@ -155,6 +156,8 @@ and contacts.
 + [Puerto Rico's governor wants recount of hurricane death toll](https://simplystatistics.org/2017/12/19/puerto-rico-s-governor-wants-recount-of-hurricane-death-toll/)
 
 + [My favourite R package for: frequency tables](https://dabblingwithdata.wordpress.com/2017/12/20/my-favourite-r-package-for-frequency-tables/)
+
++ [Skip errors in R loops by not writing loops](http://blog.rdata.lu/post/2017-12-21-skip-errors-in-r-by-not-writing-loops/)
 
 ### Gist & Cookbook
 
