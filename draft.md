@@ -91,6 +91,7 @@ Release Date: 2017-12-25
 
 ### Package Releases
 
++ [fitur 0.5.20](https://roh.engineering/post/fitur-0-5-20-release)
 
 + [digest 0.6.13](http://dirk.eddelbuettel.com/blog/2017/12/16#digest_0.6.13)
 
