@@ -25,8 +25,6 @@ Release Date: 2017-12-25
 
 + [A tour of the data.table package by creator Matt Dowle](http://blog.revolutionanalytics.com/2017/12/data-table-video.html)
 
-+ [New Package swatches  is Now on CRAN](https://rud.is/b/2017/12/21/new-package-swatches-is-now-on-cran/)
-
 + [2018 R Consortium Silver member representatives for Board and ISC](https://www.r-consortium.org/announcement/2017/12/22/2018-r-consortium-silver-member-representatives-board-isc)
 
 
@@ -87,6 +85,8 @@ Release Date: 2017-12-25
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+
++ [New Package swatches  is Now on CRAN](https://rud.is/b/2017/12/21/new-package-swatches-is-now-on-cran/)
 
 + [tfestimators](https://cran.r-project.org/web/packages/tfestimators/index.html) - Interface to 'TensorFlow' Estimators
 
