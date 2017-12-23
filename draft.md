@@ -69,6 +69,8 @@ Release Date: 2017-12-25
 
 + [Blue Christmas: A data-driven search for the most depressing Christmas song](https://caitlinhudon.com/2017/12/22/blue-christmas/)
 
++ [Metallica Concerts with the Tidyverse](http://kgilds.rbind.io/2017/11/19/metallica-concerts-with-the-tidyverse/)
+
 ###  R in Organizations
 
 + [eRum 2018 to be held in Budapest, May 14-18](http://blog.revolutionanalytics.com/2017/12/erum-2018.html)
