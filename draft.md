@@ -77,6 +77,8 @@ Release Date: 2017-12-25
 
 +[All I want for Christmas is…-a text analysis](http://rpubs.com/nicgiso/344050)
 
++ [Bilingual Towns](https://suzanbaert.netlify.com/2017/12/bilingualtowns/)
+
 ###  R in Organizations
 
 + [eRum 2018 to be held in Budapest, May 14-18](http://blog.revolutionanalytics.com/2017/12/erum-2018.html)
