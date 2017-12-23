@@ -53,8 +53,6 @@ Release Date: 2017-12-25
 
 ![Mining Game of Thrones Scripts with R](https://image.ibb.co/fWZSx6/westeros.png)
 
-+ [Data Wonderland: Christmas songs from the viewpoint of a data scientist](https://blog.eoda.de/2017/12/19/data-wonderland-christmas-songs-from-the-viewpoint-of-a-data-scientist/)
-
 + [mqtt Development Log : On DSLs, Rcpp Modules and Custom Formula Functions](https://rud.is/b/2017/12/17/mqtt-development-log-on-dsls-rcpp-modules-and-custom-formula-functions/)
 
 + [Conference Cost](http://blog.jumpingrivers.com/posts/2017/conference_cost_2017/)
@@ -68,6 +66,10 @@ Release Date: 2017-12-25
 + [Analysing comments to "Star Wars: The Last Jedi" - part 2](https://johannesfriedrich.github.io/2017-12-21-SWU-Analysis-wordcloud/)
 
 + [Blue Christmas: A data-driven search for the most depressing Christmas song](https://caitlinhudon.com/2017/12/22/blue-christmas/)
+
++ [How Jolly are Christmas Songs Actually? ](https://stefanmusch.netlify.com/2017/12/how-jolly-are-christmas-songs-actually/)
+
++ [Data Wonderland: Christmas songs from the viewpoint of a data scientist](https://blog.eoda.de/2017/12/19/data-wonderland-christmas-songs-from-the-viewpoint-of-a-data-scientist/)
 
 + [Metallica Concerts with the Tidyverse](http://kgilds.rbind.io/2017/11/19/metallica-concerts-with-the-tidyverse/)
 
