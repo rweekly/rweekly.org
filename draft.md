@@ -27,10 +27,11 @@ Release Date: 2017-12-25
 
 + [2018 R Consortium Silver member representatives for Board and ISC](https://www.r-consortium.org/announcement/2017/12/22/2018-r-consortium-silver-member-representatives-board-isc)
 
-
 + [Looking Back on 2017](https://www.data-imaginist.com/2017/looking-back-on-2017/)
 
 + [#14: Finding Binary .deb Files for CRAN Packages](http://dirk.eddelbuettel.com/blog/2017/12/22#014_finding_binary_deb_packages)
+
++ [Open Science, `skimr`and Me](http://elinwaring.org/index.php/17-open-science-skimr-and-me)
 
 ### R in Real World
 
