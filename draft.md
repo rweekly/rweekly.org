@@ -175,6 +175,8 @@ and contacts.
 
 + [Higher-order geometry differences and intersections](http://r-spatial.org/r/2017/12/21/geoms.html)
 
++ [Make your own color palettes with paletti](https://edwinth.github.io/blog/paletti/)
+
 ### Gist & Cookbook
 
 + [A function to create artifical snow using R base graphics and the `animation` package ](https://gist.github.com/ikosmidis/e75ffef29fc356ba54c2b42c1ca3ba98)
