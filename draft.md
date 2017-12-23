@@ -23,6 +23,16 @@ Release Date: 2017-12-25
 
 + [Thoughts on David Donoho's "Fifty Years of Data Science"](https://simplystatistics.org/2017/12/20/thoughts-on-david-donoho-s-fifty-years-of-data-science/)
 
++ [A tour of the data.table package by creator Matt Dowle](http://blog.revolutionanalytics.com/2017/12/data-table-video.html)
+
++ [New Package swatches  is Now on CRAN](https://rud.is/b/2017/12/21/new-package-swatches-is-now-on-cran/)
+
++ [2018 R Consortium Silver member representatives for Board and ISC](https://www.r-consortium.org/announcement/2017/12/22/2018-r-consortium-silver-member-representatives-board-isc)
+
+
++ [Looking Back on 2017](https://www.data-imaginist.com/2017/looking-back-on-2017/)
+
++ [#14: Finding Binary .deb Files for CRAN Packages](http://dirk.eddelbuettel.com/blog/2017/12/22#014_finding_binary_deb_packages)
 
 ### R in Real World
 
@@ -60,7 +70,6 @@ Release Date: 2017-12-25
 
 ###  R in Organizations
 
-
 + [eRum 2018 to be held in Budapest, May 14-18](http://blog.revolutionanalytics.com/2017/12/erum-2018.html)
 
 + [Recap of the uRos2017 conference](https://www.r-consortium.org/uncategorized/2017/12/20/recap-uros2017-conference)
@@ -89,6 +98,8 @@ Release Date: 2017-12-25
 
 + [`jekyllthat`](https://github.com/ColinFay/jekyllthat) - RMarkdown to Github Jekyll md
 
++ [Nov 2017: New Package Picks](https://rviews.rstudio.com/2017/12/22/nov-2017-new-package-picks/)
+
 ### Package Releases
 
 + [fitur 0.5.20](https://roh.engineering/post/fitur-0-5-20-release)
@@ -97,13 +108,10 @@ Release Date: 2017-12-25
 
 + [drat 0.1.4](http://dirk.eddelbuettel.com/blog/2017/12/16#drat_0.1.4)
 
-
 ###  R Internationally
 
 + [Brazil R Day](http://rday.leg.ufpr.br/) - National Meeting of R users is an event to congregate users and developers of R in an environment for exchange of experiences, learning
 and contacts.
-
-
 
 ###  Videos and Podcasts
 
