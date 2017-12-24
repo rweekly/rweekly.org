@@ -143,6 +143,8 @@ and contacts.
 
 + [`exams`](http://www.r-exams.org/), The open-source package exams for the R system for statistical computing provides a one-for-all approach to automatic exams generation.
 
++ [Goodbye Joyplots](http://serialmentor.com/blog/2017/9/15/goodbye-joyplots)
+
 ###  Tutorials
 
 + [R⁶ Series — Random Sampling From Apache Drill Tables With R & sergeant](https://rud.is/b/2017/12/20/r%e2%81%b6-series-random-sampling-from-apache-drill-tables-with-r-sergeant/)
