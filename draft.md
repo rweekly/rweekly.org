@@ -65,15 +65,15 @@ Release Date: 2017-12-25
 
 + [Analysing comments to "Star Wars: The Last Jedi" - part 2](https://johannesfriedrich.github.io/2017-12-21-SWU-Analysis-wordcloud/)
 
-+ [Blue Christmas: A data-driven search for the most depressing Christmas song](https://caitlinhudon.com/2017/12/22/blue-christmas/)
++ [Blue Christmas: A data-driven search for the most depressing Christmas song](https://caitlinhudon.com/2017/12/22/blue-christmas/) 🎄
 
-+ [How Jolly are Christmas Songs Actually? ](https://stefanmusch.netlify.com/2017/12/how-jolly-are-christmas-songs-actually/)
++ [How Jolly are Christmas Songs Actually? ](https://stefanmusch.netlify.com/2017/12/how-jolly-are-christmas-songs-actually/) 🎄
 
-+ [Data Wonderland: Christmas songs from the viewpoint of a data scientist](https://blog.eoda.de/2017/12/19/data-wonderland-christmas-songs-from-the-viewpoint-of-a-data-scientist/)
++ [Data Wonderland: Christmas songs from the viewpoint of a data scientist](https://blog.eoda.de/2017/12/19/data-wonderland-christmas-songs-from-the-viewpoint-of-a-data-scientist/) 🎄
 
 + [Metallica Concerts with the Tidyverse](http://kgilds.rbind.io/2017/11/19/metallica-concerts-with-the-tidyverse/)
 
-+ [chRistmas tRees](http://smarterpoland.pl/index.php/2017/12/christmas-trees/)
++ [chRistmas tRees](http://smarterpoland.pl/index.php/2017/12/christmas-trees/) 🎄
 
 +[All I want for Christmas is…-a text analysis](http://rpubs.com/nicgiso/344050)
 
