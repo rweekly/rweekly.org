@@ -59,6 +59,8 @@ Release Date: 2017-12-25
 
 
 
++ [Goodbye Joyplots](http://serialmentor.com/blog/2017/9/15/goodbye-joyplots)
+
 ###  Tutorials
 
 
