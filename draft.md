@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2017-52
+title: R Weekly 2018-1
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2017-12-25
+Release Date: 2018-1-1
 
 ###  Highlight
 
@@ -54,10 +54,6 @@ Release Date: 2017-12-25
 
 
 ###  Resources
-
-
-
-
 
 + [Goodbye Joyplots](http://serialmentor.com/blog/2017/9/15/goodbye-joyplots)
 
