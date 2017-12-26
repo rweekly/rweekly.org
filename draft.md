@@ -61,7 +61,7 @@ Release Date: 2018-1-1
 
 ###  Tutorials
 
-
++ [Combined outlier detection with dplyr and ruler](http://www.questionflow.org/2017/12/26/combined-outlier-detection-with-dplyr-and-ruler/)
 
 
 ### Gist & Cookbook
