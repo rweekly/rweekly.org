@@ -57,6 +57,8 @@ Release Date: 2018-1-1
 
 + [Goodbye Joyplots](http://serialmentor.com/blog/2017/9/15/goodbye-joyplots)
 
++ [A curated list of Awesome Shiny Apps for Statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics)
+
 ###  Tutorials
 
 
@@ -64,8 +66,9 @@ Release Date: 2018-1-1
 
 ### Gist & Cookbook
 
++ [Code to make artistic visualisations of Strava activity data](https://github.com/marcusvolz/strava)
 
-
++ [Code to make an holidays pastryRchy card for R-Ladies](https://github.com/rladies/rladies_holidays)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
