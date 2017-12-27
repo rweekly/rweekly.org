@@ -59,9 +59,13 @@ Release Date: 2018-1-1
 
 + [A curated list of Awesome Shiny Apps for Statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics)
 
++ [Rstudio addin to tweet from Rstudio](https://github.com/richarddmorey/tweetRcode)
+
 ###  Tutorials
 
 + [Combined outlier detection with dplyr and ruler](http://www.questionflow.org/2017/12/26/combined-outlier-detection-with-dplyr-and-ruler/)
+
++ [A gentle INLA tutorial](https://www.precision-analytics.ca/blog-1/inla)
 
 
 ### Gist & Cookbook
