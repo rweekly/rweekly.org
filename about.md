@@ -9,7 +9,7 @@ title: About
 
 R Weekly was founded on May 20, 2016. R is growing very quickly, and there are lots of great blogs, tutorials and other formats of resources coming out every day. R Weekly wants to keep track of these great things in the R community and make it more accessible to everyone.
 
-This is a warm and welcome place. The team welcomes everyone who wants to contribute to the R community.
+This is a warm and welcoming place. The team welcomes everyone who wants to contribute to the R community.
 
 Team Members (alphabet order)
 
