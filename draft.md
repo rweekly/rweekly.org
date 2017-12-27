@@ -67,6 +67,8 @@ Release Date: 2018-1-1
 
 + [A gentle INLA tutorial](https://www.precision-analytics.ca/blog-1/inla)
 
++ [saveRDS() vs write_csv() - a newbie introduction](https://roelandtn.frama.io/post/saverds-vs-write-csv/)
+
 
 ### Gist & Cookbook
 
