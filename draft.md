@@ -130,5 +130,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">The latest version of our <a href="https://twitter.com/hashtag/R4DS?src=hash&amp;ref_src=twsrc%5Etfw">#R4DS</a> online learning community is ready for you to sign up!<br><br>Whether you&#39;re just learning <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>, or have been using it for decades, we&#39;re a community that&#39;s helping others learn R through the R for Data Science text.<a href="https://t.co/bHwf7cSPeV">https://t.co/bHwf7cSPeV</a></p>&mdash; Jesse Maegan (@kierisi) <a href="https://twitter.com/kierisi/status/944263269111468032?ref_src=twsrc%5Etfw">22 de desembre de 2017</a></blockquote>
 
 
