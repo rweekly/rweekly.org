@@ -13,11 +13,12 @@ Release Date: 2018-1-1
 
 ### Insights
 
++ [R4DS: the next iteration](https://medium.com/@kierisi/r4ds-the-next-iteration-d51e0a1b0b82)
 
 
 ### R in Real World
 
-
++ [MPA 635: Data visualization](https://datavizf17.classes.andrewheiss.com/final-projects/): For their final projects, students had to use R and Illustrator to take a huge dataset, explore it, tinker with it, and tell a nuanced story about it using at least three graphs.
 
 
 
@@ -68,6 +69,10 @@ Release Date: 2018-1-1
 + [A gentle INLA tutorial](https://www.precision-analytics.ca/blog-1/inla)
 
 + [saveRDS() vs write_csv() - a newbie introduction](https://roelandtn.frama.io/post/saverds-vs-write-csv/)
+
++ [Twitter Data in R Using `rtweet`: Analyze and Download Twitter Data](https://earthdatascience.org/courses/earth-analytics/get-data-using-apis/use-twitter-api-r/)
+
++ [Sentiment Analysis of Colorado Flood Tweets in R](https://earthdatascience.org/courses/earth-analytics/get-data-using-apis/sentiment-analysis-of-twitter-data-r/)
 
 
 ### Gist & Cookbook
