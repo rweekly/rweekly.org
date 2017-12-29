@@ -27,6 +27,8 @@ Release Date: 2018-1-1
 
 + [Using R on Android](http://selbydavid.com/2017/12/29/r-android/)
 
++ [People Paid A Lot to Park Downtown This Year](http://amyszczepanski.com/2017/12/29/people-paid-a-lot-to-park-downtown-this-year.html)
+
 ###  R in Organizations
 
 
