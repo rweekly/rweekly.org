@@ -25,7 +25,7 @@ Release Date: 2018-1-1
 
 + [Bayes' Puzzle Powers](http://danielphadley.com/Bayes-538/)
 
-
++ [Using R on Android](http://selbydavid.com/2017/12/29/r-android/)
 
 ###  R in Organizations
 
