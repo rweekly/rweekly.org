@@ -23,7 +23,7 @@ Release Date: 2018-1-1
 
 + [Tidying and mapping Toronto open data](https://sharlagelfand.netlify.com/posts/tidying-toronto-open-data/)
 
-
++ [Bayes' Puzzle Powers](http://danielphadley.com/Bayes-538/)
 
 
 
@@ -83,6 +83,10 @@ Release Date: 2018-1-1
 + [Code to make artistic visualisations of Strava activity data](https://github.com/marcusvolz/strava)
 
 + [Code to make an holidays pastryRchy card for R-Ladies](https://github.com/rladies/rladies_holidays)
+
++ [Chernoff periodic table](https://gist.github.com/baptiste/d4abfa8a6c095d659f8879af5ad9531b)
+
++ [A brief demonstration on how to visualise confidence intervals in R ](https://github.com/leonjessen/confidence_intervals_visualised)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
