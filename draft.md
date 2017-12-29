@@ -15,6 +15,7 @@ Release Date: 2018-1-1
 
 + [R4DS: the next iteration](https://medium.com/@kierisi/r4ds-the-next-iteration-d51e0a1b0b82)
 
++ [Using the Tidyverse to analyze the Metallica concerts I have attended. ](https://kgilds.rbind.io/2017/11/19/metallica-concerts-with-the-tidyverse/)
 
 ### R in Real World
 
@@ -42,6 +43,7 @@ Release Date: 2018-1-1
 
 ### Package Releases
 
++ [rhymer 1.0 - introducing a new package for finding rhyming and other related words using the Datamuse API.](https://landesbergn.github.io/rhymer/index.html)
 
 
 ###  R Internationally
@@ -52,7 +54,7 @@ Release Date: 2018-1-1
 
 ###  Videos and Podcasts
 
-
++ [Deeplearning tutorial for beginners in R](https://www.youtube.com/watch?v=uALv0VkPI30&feature=youtu.be)
 
 
 ###  Resources
