@@ -20,7 +20,7 @@ Release Date: 2018-1-1
 
 + [MPA 635: Data visualization](https://datavizf17.classes.andrewheiss.com/final-projects/): For their final projects, students had to use R and Illustrator to take a huge dataset, explore it, tinker with it, and tell a nuanced story about it using at least three graphs.
 
-
++ [Tidying and mapping Toronto open data](https://sharlagelfand.netlify.com/posts/tidying-toronto-open-data/)
 
 
 
@@ -38,6 +38,7 @@ Release Date: 2018-1-1
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [`strava`](https://github.com/marcusvolz/strava), Create artistic visualisations with your exercise data
 
 ### Package Releases
 
