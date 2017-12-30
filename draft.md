@@ -21,6 +21,8 @@ Release Date: 2018-1-1
 
 + [Help Needed: Use Sentence Styles in knitr's Documentation](https://yihui.name/en/2017/12/sentence-styles-knitr/)
 
++ [Six Reasons To Learn R For Business](http://www.business-science.io/business/2017/12/27/six-reasons-to-use-R-for-business.html)
+
 ### R in Real World
 
 + [2017. Quantified. In. R.](https://rud.is/b/2017/12/29/2017-quantified-in-r/)
@@ -64,7 +66,7 @@ Release Date: 2018-1-1
 
 ###  R Internationally
 
-
++ [R de jeu #2 : Happy new yeaR](https://thinkr.fr/r-de-jeu-2-happy-new-year/)
 
 
 
@@ -118,6 +120,10 @@ Release Date: 2018-1-1
 + [Learn to Write Command Line Utilities in R - part 6](http://blog.sellorm.com/2017/12/30/command-line-utilities-in-r-pt-6/)
 
 + [Using R on Android](http://selbydavid.com/2017/12/29/r-android/)
+
++ [Analyzing #goofyreligion with #rstats and rtweet (Twitter API R package)](https://rickpackblog.wordpress.com/2017/12/26/analyzing-goofyreligion-with-rstats-and-rtweet-twitter-api-r-package/)
+
++ [A data viz that asks questions: Friends time series ggplots](https://jesse.tw/post/friends-time-series-ggplots/)
 
 ### Gist & Cookbook
 
