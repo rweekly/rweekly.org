@@ -68,6 +68,7 @@ Release Date: 2018-1-1
 
 + [R de jeu #2 : Happy new yeaR](https://thinkr.fr/r-de-jeu-2-happy-new-year/)
 
++ [Visualizando datos de actividades deportivas con R y strava](http://liconoc.webs.upv.es/visualizando-datos-de-actividades-deportivas-con-r-y-strava/)
 
 
 ###  Videos and Podcasts
