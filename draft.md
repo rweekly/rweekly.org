@@ -29,6 +29,8 @@ Release Date: 2018-1-1
 
 + [People Paid A Lot to Park Downtown This Year](http://amyszczepanski.com/2017/12/29/people-paid-a-lot-to-park-downtown-this-year.html)
 
++ [hrbrmstr’s Year In Review](https://rud.is/rpubs/2017-year-in-review/)
+
 ###  R in Organizations
 
 
@@ -91,6 +93,8 @@ Release Date: 2018-1-1
 + [Chernoff periodic table](https://gist.github.com/baptiste/d4abfa8a6c095d659f8879af5ad9531b)
 
 + [A brief demonstration on how to visualise confidence intervals in R ](https://github.com/leonjessen/confidence_intervals_visualised)
+
++ [Year in Review with R Rmd Template](https://github.com/hrbrmstr/2017-year-in-review)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
