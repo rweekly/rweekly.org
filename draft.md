@@ -19,7 +19,11 @@ Release Date: 2018-1-1
 
 + [Using the Tidyverse to analyze the Metallica concerts I have attended. ](https://kgilds.rbind.io/2017/11/19/metallica-concerts-with-the-tidyverse/)
 
++ [Help Needed: Use Sentence Styles in knitr's Documentation](https://yihui.name/en/2017/12/sentence-styles-knitr/)
+
 ### R in Real World
+
++ [2017. Quantified. In. R.](https://rud.is/b/2017/12/29/2017-quantified-in-r/)
 
 + [MPA 635: Data visualization](https://datavizf17.classes.andrewheiss.com/final-projects/): For their final projects, students had to use R and Illustrator to take a huge dataset, explore it, tinker with it, and tell a nuanced story about it using at least three graphs.
 
@@ -79,6 +83,8 @@ Release Date: 2018-1-1
 
 ###  Tutorials
 
++ [library(methods): Human Time vs Computer Time](https://yihui.name/en/2017/12/library-methods/)
+
 + [The Fix for Disqus and Images Figuring Out Images and Disqus With Blogdown](http://kgilds.rbind.io/2017/12/13/images/)
 
 + [Combined outlier detection with dplyr and ruler](http://www.questionflow.org/2017/12/26/combined-outlier-detection-with-dplyr-and-ruler/)
@@ -88,7 +94,6 @@ Release Date: 2018-1-1
 + [saveRDS() vs write_csv() - a newbie introduction](https://roelandtn.frama.io/post/saverds-vs-write-csv/)
 
 + [Twitter Data in R Using `rtweet`: Analyze and Download Twitter Data](https://earthdatascience.org/courses/earth-analytics/get-data-using-apis/use-twitter-api-r/)
-
 
 + [Music Visualizations using MIDI, R, and SVG](https://htmlpreview.github.io/?https://github.com/halhen/viz-pub/blob/master/mahler/code.html)
 
@@ -111,12 +116,6 @@ Release Date: 2018-1-1
 + [Kudos to Professor Andrew Gelman](http://www.win-vector.com/blog/2017/12/kudos-to-professor-andrew-gelman/)
 
 + [Learn to Write Command Line Utilities in R - part 6](http://blog.sellorm.com/2017/12/30/command-line-utilities-in-r-pt-6/)
-
-+ [2017. Quantified. In. R.](https://rud.is/b/2017/12/29/2017-quantified-in-r/)
-
-+ [library(methods): Human Time vs Computer Time](https://yihui.name/en/2017/12/library-methods/)
-
-+ [Help Needed: Use Sentence Styles in knitr's Documentation](https://yihui.name/en/2017/12/sentence-styles-knitr/)
 
 + [Using R on Android](http://selbydavid.com/2017/12/29/r-android/)
 
