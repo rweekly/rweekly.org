@@ -79,6 +79,8 @@ Release Date: 2018-1-1
 
 + [Sentiment Analysis of Colorado Flood Tweets in R](https://earthdatascience.org/courses/earth-analytics/get-data-using-apis/sentiment-analysis-of-twitter-data-r/)
 
++ [Music Visualizations using MIDI, R, and SVG](https://htmlpreview.github.io/?https://github.com/halhen/viz-pub/blob/master/mahler/code.html)
+
 
 ### Gist & Cookbook
 
