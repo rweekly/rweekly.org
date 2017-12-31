@@ -142,6 +142,8 @@ Release Date: 2018-1-1
 
 + [Year in Review with R Rmd Template](https://github.com/hrbrmstr/2017-year-in-review)
 
++ [A Hogwarts style Twitter account sorter](https://github.com/thoughtfulbloke/sorting_stat)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 
