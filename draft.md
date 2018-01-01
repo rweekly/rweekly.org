@@ -13,12 +13,16 @@ Release Date: 2018-1-8
 
 ### Insights
 
++ [This Year in My R Code](http://json.blog/2017/12/this-year-in-my-r-code/)
 
++ [Five tips to improve your R code](https://drsimonj.svbtle.com/five-simple-tricks-to-improve-your-r-code)
 
 
 ### R in Real World
 
++ [R in the World of Education](https://eringrand.github.io/education-data/)
 
++ [Are #python users more likely to get into Slytherin?](http://www.masalmon.eu/2018/01/01/sortinghat/)
 
 
 ###  R in Organizations
@@ -53,7 +57,7 @@ Release Date: 2018-1-8
 
 ###  Resources
 
-
++ [`stringr` Explorer: What do you want to do with strings?](http://www.onceupondata.com/2017/12/31/stringr-explorer/)
 
 
 ###  Tutorials
