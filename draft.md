@@ -80,6 +80,9 @@ Release Date: 2018-1-8
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
+### Gist & Cookbook
+
++ [create a collage with the best 9 tweets from the tweet activity data](https://gist.github.com/jeanmanguy/6eca222604d0eeb99fbaf3d3894e4b4b)
 
 ###  R Project Updates
 
