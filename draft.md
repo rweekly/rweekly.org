@@ -17,6 +17,7 @@ Release Date: 2018-1-8
 
 + [Five tips to improve your R code](https://drsimonj.svbtle.com/five-simple-tricks-to-improve-your-r-code)
 
++ [Analysing student data using R and the tidyverse](https://gregrs-uk.github.io/2017-12-27/analysing-student-data-R-tidyverse/)
 
 ### R in Real World
 
@@ -59,11 +60,23 @@ Release Date: 2018-1-8
 
 + [`stringr` Explorer: What do you want to do with strings?](http://www.onceupondata.com/2017/12/31/stringr-explorer/)
 
++ [Public documents for the Master of Data Science program at the University of British Columbia](https://github.com/ubc-mds/public)
+
++ [Field Guide to the R Ecosystem](http://fg2re.sellorm.com/)
 
 ###  Tutorials
 
++ [Using gganimate and tweenr to animate a tSNE plot](https://hypercompetent.github.io/post/gganimate-tweenr-tsne-plot/)
 
++ [Making a map (or my first blogpost)](http://emmavestesson.netlify.com/2018/01/maps/)
 
++ [Drawing a network with `ggraph` and `tidygraph`](https://nxskok.github.io/blog/2017/12/30/drawing-a-network-with-ggraph-and-tidygraph/)
+
++ [Combining many datasets in R ](https://aosmith.rbind.io/2017/12/31/many-datasets/)
+
++ [Analysing exam data with R and the tidyverse: a walkthrough](https://gregrs-uk.github.io/2017-12-27/analysing-exam-data-R-tidyverse-walkthrough/)
+
++ [Adding bananas from the commandline (extending the oomsifier)](http://rmhogervorst.nl/cleancode/blog/2017/12/29/extending-the-oomsifyer-cmdline.html)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -101,7 +114,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
 
-
++ [Weekly Agricultural Market Prices in Ghana](https://github.com/DavidQuartey/Weekly-Agric-Market-Prices)
 
 ### Jobs
 
