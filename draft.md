@@ -139,3 +139,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">I&#39;m recording this here mostly for myself -- if you are doing a lot of mutate(x = ifelse()), it&#39;s probably better to do a join to a dictionary table <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/themoreyouknow?src=hash&amp;ref_src=twsrc%5Etfw">#themoreyouknow</a> <a href="https://twitter.com/hashtag/joygret?src=hash&amp;ref_src=twsrc%5Etfw">#joygret</a></p>&mdash; Hilary Parker (@hspter) <a href="https://twitter.com/hspter/status/948646331677118465?ref_src=twsrc%5Etfw">3 de gener de 2018</a></blockquote>
+
