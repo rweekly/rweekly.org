@@ -19,6 +19,8 @@ Release Date: 2018-1-8
 
 + [Analysing student data using R and the tidyverse](https://gregrs-uk.github.io/2017-12-27/analysing-student-data-R-tidyverse/)
 
++ [My favourite R package for: summarising data](https://dabblingwithdata.wordpress.com/2018/01/02/my-favourite-r-package-for-summarising-data/)
+
 ### R in Real World
 
 + [R in the World of Education](https://eringrand.github.io/education-data/)
@@ -38,7 +40,7 @@ Release Date: 2018-1-8
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
++ [`rspivot`](https://ryantimpe.github.io/rspivot/), Shiny gadget for RStudio for viewing data frames
 
 
 ### Package Releases
@@ -77,6 +79,8 @@ Release Date: 2018-1-8
 + [Analysing exam data with R and the tidyverse: a walkthrough](https://gregrs-uk.github.io/2017-12-27/analysing-exam-data-R-tidyverse-walkthrough/)
 
 + [Adding bananas from the commandline (extending the oomsifier)](http://rmhogervorst.nl/cleancode/blog/2017/12/29/extending-the-oomsifyer-cmdline.html)
+
++ [Special Topics in R, Parts 0 and 1](https://johnlray.github.io/2018/01/02/election_tracker_i.html)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
