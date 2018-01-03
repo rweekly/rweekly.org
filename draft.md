@@ -21,12 +21,14 @@ Release Date: 2018-1-8
 
 + [My favourite R package for: summarising data](https://dabblingwithdata.wordpress.com/2018/01/02/my-favourite-r-package-for-summarising-data/)
 
+
 ### R in Real World
 
 + [R in the World of Education](https://eringrand.github.io/education-data/)
 
 + [Are #python users more likely to get into Slytherin?](http://www.masalmon.eu/2018/01/01/sortinghat/)
 
++ [Solar panel analysis pt 3: Scanning for objects](https://www.jeroenboeye.com/blog/solar-panel-analysis-pt-3-scanning-for-objects/)
 
 ###  R in Organizations
 
@@ -42,6 +44,7 @@ Release Date: 2018-1-8
 
 + [`rspivot`](https://ryantimpe.github.io/rspivot/), Shiny gadget for RStudio for viewing data frames
 
++ [`tidypredict`](http://tidypredict.netlify.com/), run predictions inside the database
 
 ### Package Releases
 
@@ -65,6 +68,8 @@ Release Date: 2018-1-8
 + [Public documents for the Master of Data Science program at the University of British Columbia](https://github.com/ubc-mds/public)
 
 + [Field Guide to the R Ecosystem](http://fg2re.sellorm.com/)
+
++ [ An R/`rtweet` edition of Matthew A. Russell's Python Twitter Recipes Book ](https://github.com/hrbrmstr/21-recipes)
 
 ###  Tutorials
 
