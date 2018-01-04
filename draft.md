@@ -44,15 +44,15 @@ Release Date: 2018-1-8
 
 + [`rspivot`](https://ryantimpe.github.io/rspivot/), Shiny gadget for RStudio for viewing data frames
 
-+ [`tidypredict`](http://tidypredict.netlify.com/), run predictions inside the database
++ [`tidypredict`](http://tidypredict.netlify.com/), run predictions inside the database 
 
 ### Package Releases
 
-
++ [`attempt`](http://colinfay.me/attempt-cran/), a friendlier condition handler, inspired by 'purrr' mappers and based on 'rlang'.
 
 ###  R Internationally
 
-
++ [Paroles, paroles et paroles](https://mtmx.github.io/blog/paroles_chansonfr/)
 
 
 
@@ -86,6 +86,8 @@ Release Date: 2018-1-8
 + [Adding bananas from the commandline (extending the oomsifier)](http://rmhogervorst.nl/cleancode/blog/2017/12/29/extending-the-oomsifyer-cmdline.html)
 
 + [Special Topics in R, Parts 0 and 1](https://johnlray.github.io/2018/01/02/election_tracker_i.html)
+
++ [It's lists all the way down](http://www.brodrigues.co/blog/2018-01-03-lists_all_the_way/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
