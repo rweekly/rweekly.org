@@ -21,6 +21,7 @@ Release Date: 2018-1-8
 
 + [My favourite R package for: summarising data](https://dabblingwithdata.wordpress.com/2018/01/02/my-favourite-r-package-for-summarising-data/)
 
++ [Data Science and R: how do I start?](https://medium.com/@kierisi/data-science-and-r-how-do-i-start-7a87426e103e)
 
 ### R in Real World
 
@@ -29,6 +30,8 @@ Release Date: 2018-1-8
 + [Are #python users more likely to get into Slytherin?](http://www.masalmon.eu/2018/01/01/sortinghat/)
 
 + [Solar panel analysis pt 3: Scanning for objects](https://www.jeroenboeye.com/blog/solar-panel-analysis-pt-3-scanning-for-objects/)
+
++ [Cheer up, Black Metal Cats! Bubblegum Puppies](http://www.masalmon.eu/2018/01/04/bubblegumpuppies/)
 
 ###  R in Organizations
 
@@ -70,6 +73,8 @@ Release Date: 2018-1-8
 + [Field Guide to the R Ecosystem](http://fg2re.sellorm.com/)
 
 + [ An R/`rtweet` edition of Matthew A. Russell's Python Twitter Recipes Book ](https://github.com/hrbrmstr/21-recipes)
+
++ [Webservices ToDo List](https://github.com/ropensci/webservices/wiki/ToDo): This page contains a to-do list of web APIs, services, and data sources that have not yet been wrangled into R packages or drafts under development that are not yet ready for inclusion in the Task View.
 
 ###  Tutorials
 
