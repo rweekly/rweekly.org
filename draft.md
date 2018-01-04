@@ -35,6 +35,8 @@ Release Date: 2018-1-8
 
 + [Fiesta 2017 gas mileage ](https://aosmith.rbind.io/2018/01/03/fiesta-2017-gas-mileage/)
 
++ [Is it a run or a ride?](https://shug3502.github.io/blog/RStravaAnalysis)
+
 ###  R in Organizations
 
 
