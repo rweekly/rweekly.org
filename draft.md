@@ -39,6 +39,8 @@ Release Date: 2018-1-8
 
 + [Self-driving cars and the impact of Motor Accidents on Mortality](http://ronaldrichman.co.za/2018/01/05/self-driving-cars-and-the-impact-of-motor-accidents-on-mortality/)
 
++ [Traffic collisions in Belgrade](https://milosvil.github.io/2018-01-04/Traffic-collisions-in-Belgrade)
+
 ###  R in Organizations
 
 
