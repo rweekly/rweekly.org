@@ -37,6 +37,8 @@ Release Date: 2018-1-8
 
 + [Is it a run or a ride?](https://shug3502.github.io/blog/RStravaAnalysis)
 
++ [Self-driving cars and the impact of Motor Accidents on Mortality](http://ronaldrichman.co.za/2018/01/05/self-driving-cars-and-the-impact-of-motor-accidents-on-mortality/)
+
 ###  R in Organizations
 
 
