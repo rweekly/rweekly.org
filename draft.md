@@ -23,6 +23,8 @@ Release Date: 2018-1-8
 
 + [Data Science and R: how do I start?](https://medium.com/@kierisi/data-science-and-r-how-do-i-start-7a87426e103e)
 
++ [Unit Testing in R (slides)](http://www.rblog.uni-freiburg.de/2017/03/14/unit-testing-in-r/)
+
 ### R in Real World
 
 + [R in the World of Education](https://eringrand.github.io/education-data/)
@@ -40,6 +42,12 @@ Release Date: 2018-1-8
 + [Self-driving cars and the impact of Motor Accidents on Mortality](http://ronaldrichman.co.za/2018/01/05/self-driving-cars-and-the-impact-of-motor-accidents-on-mortality/)
 
 + [Traffic collisions in Belgrade](https://milosvil.github.io/2018-01-04/Traffic-collisions-in-Belgrade)
+
++ [Sentiment of the City](http://etachov.io/sotc/2018/01/02/sentiment-of-the-city/)
+
++ [SNL: Visualising Impressions by SNL casts](http://nujcharee.netlify.com/2018/01/02/snl-visualising-impressions-by-snl-casts/)
+
++ [How do election observers write about elections? A `tidytext` analysis](https://rayms.github.io/2018-01-04-election-observers/)
 
 ###  R in Organizations
 
@@ -83,6 +91,8 @@ Release Date: 2018-1-8
 + [ An R/`rtweet` edition of Matthew A. Russell's Python Twitter Recipes Book ](https://github.com/hrbrmstr/21-recipes)
 
 + [Webservices ToDo List](https://github.com/ropensci/webservices/wiki/ToDo): This page contains a to-do list of web APIs, services, and data sources that have not yet been wrangled into R packages or drafts under development that are not yet ready for inclusion in the Task View.
+
++ [Keeping up with blogdown 🌟 ](https://maraaverick.rbind.io/2017/10/keeping-up-with-blogdown/)
 
 ###  Tutorials
 
