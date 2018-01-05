@@ -47,7 +47,7 @@ Release Date: 2018-1-8
 
 ###  R in Academia
 
-
++ [`esvis`: Binned Effect Size Plots](http://www.dandersondata.com/post/esvis-binned-effect-size-plots/)
 
 ###  New Packages
 
