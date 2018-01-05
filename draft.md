@@ -99,6 +99,10 @@ Release Date: 2018-1-8
 
 + [Keeping up with blogdown 🌟 ](https://maraaverick.rbind.io/2017/10/keeping-up-with-blogdown/)
 
+### R Internationally
+
++ [Die Markov Kette: Wie berechne ich die Gleichgewichtsverteilung?](https://novustat.com/statistik-blog/markov-kette-gleichgewichtsverteilung.html)
+
 ###  Tutorials
 
 + [Using gganimate and tweenr to animate a tSNE plot](https://hypercompetent.github.io/post/gganimate-tweenr-tsne-plot/)
