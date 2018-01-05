@@ -49,6 +49,8 @@ Release Date: 2018-1-8
 
 + [How do election observers write about elections? A `tidytext` analysis](https://rayms.github.io/2018-01-04-election-observers/)
 
++ [Who's on everyone's 2017 "hit list"? ](https://suzanbaert.netlify.com/2018/01/2017radiohitlist/)
+
 ###  R in Organizations
 
 
@@ -56,6 +58,9 @@ Release Date: 2018-1-8
 ###  R in Academia
 
 + [`esvis`: Binned Effect Size Plots](http://www.dandersondata.com/post/esvis-binned-effect-size-plots/)
+
++ [Disease risk mapping and cluster detection with SpatialEpiApp](https://paula-moraga.github.io/blog/2018/01/04/2018-01-04_spatialepiapp/)
+
 
 ###  New Packages
 
