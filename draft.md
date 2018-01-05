@@ -185,4 +185,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">I’ve decided that preparing a reprex is, in fact, a very effective technique for solving your own problems<br><br>it’s basically the rubber duck in disguise</p>&mdash; Jenny Bryan (@JennyBryan) <a href="https://twitter.com/JennyBryan/status/948971918266281985?ref_src=twsrc%5Etfw">4 de gener de 2018</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">These are packages are like fire extinguishers. You hope not to use them, but are glad they are there.</p>&mdash; Noam Ross (@noamross) <a href="https://twitter.com/noamross/status/949298490932367361?ref_src=twsrc%5Etfw">5 de gener de 2018</a></blockquote>
 
