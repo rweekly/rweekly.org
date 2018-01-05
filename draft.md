@@ -134,6 +134,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ###  Upcoming Events
 
++ [rOpenSci Community Call](https://ropensci.org/blog/2018/01/03/comm-call-v15/) - Writing Packages to Support Research Communities - zoon & greta
+January 30th (January 31 for Australia)
+
 + RStudio conf 2018 **January 31 to February 3** <br />
 [rstudio::conf](https://www.rstudio.com/conference/) is about all things R and RStudio!
 
