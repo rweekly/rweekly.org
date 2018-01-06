@@ -33,6 +33,8 @@ Release Date: 2018-1-8
 
 + [Moving to Blogdown ](https://www.alspur.com/moving-to-blogdown/)
 
++ [Getting tuftesque with blogging](https://www.shamindras.com/2017/12/31/getting-tuftesque-with-blogging/)
+
 ### R in Real World
 
 + [R⁶ — Capture Tweets with tweet_shot()](https://rud.is/b/2017/12/30/r%e2%81%b6-capture-tweets-with-tweet_shot/)
