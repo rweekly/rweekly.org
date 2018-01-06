@@ -23,13 +23,23 @@ Release Date: 2018-1-8
 
 + [Data Science and R: how do I start?](https://medium.com/@kierisi/data-science-and-r-how-do-i-start-7a87426e103e)
 
++ [Are #python users more likely to get into Slytherin?](http://www.masalmon.eu/2018/01/01/sortinghat/)
+
 + [Unit Testing in R (slides)](http://www.rblog.uni-freiburg.de/2017/03/14/unit-testing-in-r/)
 
++ [Any book recommendations about how to write clean code? (Does not have to be R-specific, but that's the only language I use thus far](https://www.reddit.com/r/rstats/comments/7nzi27/any_book_recommendations_about_how_to_write_clean/?st=jc2tdd0q&sh=5064e463)
+
++ [Elegant linear algebra in R with the Matrix package](https://jimskinner.github.io/post/elegant-linear-algebra-in-r-with-the-matrix-package/)
+
 ### R in Real World
+
++ [R⁶ — Capture Tweets with tweet_shot()](https://rud.is/b/2017/12/30/r%e2%81%b6-capture-tweets-with-tweet_shot/)
 
 + [Redrafting the 2017 Fantasy Football draft](https://meysubb.github.io/sports%20analytics/2018/01/04/FF-ReDraft.html)
 
 ![Redrafting the 2017 Fantasy Football draft](https://meysubb.github.io/images/FF_img/unnamed-chunk-4-1.png)
+
++ [Cheer up, Black Metal Cats! Bubblegum Puppies](http://www.masalmon.eu/2018/01/04/bubblegumpuppies/)
 
 + [R in the World of Education](https://eringrand.github.io/education-data/)
 
@@ -57,6 +67,7 @@ Release Date: 2018-1-8
 
 ###  R in Organizations
 
++ [Community Call - Writing Packages to Support Research Communities - zoon & greta](https://ropensci.org/blog/2018/01/03/comm-call-v15/)
 
 
 ###  R in Academia
@@ -74,11 +85,12 @@ Release Date: 2018-1-8
 
 + [`tidypredict`](http://tidypredict.netlify.com/), run predictions inside the database
 
-### Package Releases
-
 + [`attempt`](http://colinfay.me/attempt-cran/), a friendlier condition handler, inspired by 'purrr' mappers and based on 'rlang'.
 
-+ [Huxtable 2.0.0](https://hughjonesd.github.io/huxtable/) - new quick_pdf, quick_html and quick_docx functions
+### Package Releases
+
+
++ [`Huxtable` 2.0.0](https://hughjonesd.github.io/huxtable/) - new quick_pdf, quick_html and quick_docx functions
 
 ###  R Internationally
 
@@ -131,6 +143,32 @@ Release Date: 2018-1-8
 
 + [It's lists all the way down](http://www.brodrigues.co/blog/2018-01-03-lists_all_the_way/)
 
++ [Field Guide to the R Ecosystem](http://blog.sellorm.com/2018/01/01/field-guide-to-the-r-ecosystem/)
+
++ [Do you have bad R habits? Here's how to identify and fix them.](http://blog.revolutionanalytics.com/2018/01/bryan-workflow.html)
+
++ [Learn to Write Command Line Utilities in R - part 7](http://blog.sellorm.com/2018/01/02/command-line-utilities-in-r-pt-7/)
+
++ [correlation for maximal coupling](https://xianblog.wordpress.com/2018/01/03/correlation-for-maximal-coupling/)
+
++ [Make your R code run faster](http://blog.revolutionanalytics.com/2018/01/r-faster-case-study.html)
+
++ [Divide and parallelize large data problems with Rcpp](http://blog.revolutionanalytics.com/2018/01/parallelize-rcpp.html)
+
++ [Big cdata News](http://www.win-vector.com/blog/2018/01/big-cdata-news/)
+
++ [Hammertime ✖️ tibbletime](https://maraaverick.rbind.io/2018/01/hammertime-tibbletime/)
+
++ [A bookdown "Hello World" : Twenty-one (minus two) Recipes for Mining Twitter with rtweet](https://rud.is/b/2018/01/05/a-bookdown-hello-world-twenty-one-minus-two-recipes-for-mining-twitter/)
+
++ [Using nonstandard evaluation to simulate a register machine](https://tjmahr.github.io/nonstandard-eval-register-machines/)
+
++ [Because it's Friday: Harry Potter was the time to come](http://blog.revolutionanalytics.com/2018/01/because-its-friday-harry-potter-was-the-time-to-come.html)
+
++ [Redrafting the 2017 Fantasy Football draft](https://meysubb.github.io/sports%20analytics/2018/01/04/FF-ReDraft.html)
+
++ [SEC non-conference play](https://meysubb.github.io/sports%20analytics/2018/01/01/SEC.html)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
@@ -140,10 +178,6 @@ Release Date: 2018-1-8
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
-
-
-
 
 
 ###  Upcoming Events
