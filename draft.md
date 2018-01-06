@@ -31,6 +31,8 @@ Release Date: 2018-1-8
 
 + [Elegant linear algebra in R with the Matrix package](https://jimskinner.github.io/post/elegant-linear-algebra-in-r-with-the-matrix-package/)
 
++ [Moving to Blogdown ](https://www.alspur.com/moving-to-blogdown/)
+
 ### R in Real World
 
 + [R⁶ — Capture Tweets with tweet_shot()](https://rud.is/b/2017/12/30/r%e2%81%b6-capture-tweets-with-tweet_shot/)
