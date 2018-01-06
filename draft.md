@@ -98,7 +98,7 @@ Release Date: 2018-1-8
 
 + [Paroles, paroles et paroles](https://mtmx.github.io/blog/paroles_chansonfr/)
 
-
++ [R Material (diapositivas en español sobre Shiny, AED, etc.)](http://jkunst.com/r-material/)
 
 ###  Videos and Podcasts
 
