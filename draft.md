@@ -27,6 +27,10 @@ Release Date: 2018-1-8
 
 ### R in Real World
 
++ [Redrafting the 2017 Fantasy Football draft](https://meysubb.github.io/sports%20analytics/2018/01/04/FF-ReDraft.html)
+
+![Redrafting the 2017 Fantasy Football draft](https://meysubb.github.io/images/FF_img/unnamed-chunk-4-1.png)
+
 + [R in the World of Education](https://eringrand.github.io/education-data/)
 
 + [Are #python users more likely to get into Slytherin?](http://www.masalmon.eu/2018/01/01/sortinghat/)
@@ -68,11 +72,13 @@ Release Date: 2018-1-8
 
 + [`rspivot`](https://ryantimpe.github.io/rspivot/), Shiny gadget for RStudio for viewing data frames
 
-+ [`tidypredict`](http://tidypredict.netlify.com/), run predictions inside the database 
++ [`tidypredict`](http://tidypredict.netlify.com/), run predictions inside the database
 
 ### Package Releases
 
 + [`attempt`](http://colinfay.me/attempt-cran/), a friendlier condition handler, inspired by 'purrr' mappers and based on 'rlang'.
+
++ [Huxtable 2.0.0](https://hughjonesd.github.io/huxtable/) - new quick_pdf, quick_html and quick_docx functions
 
 ###  R Internationally
 
@@ -106,6 +112,10 @@ Release Date: 2018-1-8
 ###  Tutorials
 
 + [Using gganimate and tweenr to animate a tSNE plot](https://hypercompetent.github.io/post/gganimate-tweenr-tsne-plot/)
+
++ [Interpretation of AUC](https://jenopal.netlify.com//2017/12/31/interpretation-on-roc-auc/)
+
++ [HOW TO FOLLOW AND ENGAGE WITH THE R COMMUNITY](https://aebou.rbind.io/blog/beginr_follow/)
 
 + [Making a map (or my first blogpost)](http://emmavestesson.netlify.com/2018/01/maps/)
 
