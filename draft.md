@@ -67,6 +67,8 @@ Release Date: 2018-1-8
 
 + [Who's on everyone's 2017 "hit list"? ](https://suzanbaert.netlify.com/2018/01/2017radiohitlist/)
 
++ [Twin Peaks Season 1 Script Analysis](https://carter-allen.github.io/TwinPeaks.html)
+
 ###  R in Organizations
 
 + [Community Call - Writing Packages to Support Research Communities - zoon & greta](https://ropensci.org/blog/2018/01/03/comm-call-v15/)
