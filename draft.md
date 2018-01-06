@@ -235,3 +235,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Little known (but elegant IMO) way to use base graphics: <br><br>palette(RColorBrewer::brewer.pal(3, &quot;Set1&quot;))<br>plot(Sepal.Length ~ Petal.Length, data = iris, col = Species, pch = 20, cex = 2)<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/4ogoedB5Dn">pic.twitter.com/4ogoedB5Dn</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/948938673197809665?ref_src=twsrc%5Etfw">January 4, 2018</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Yes, with <a href="https://twitter.com/JennyBryan?ref_src=twsrc%5Etfw">@JennyBryan</a>&#39;s help!</p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/949678618061541377?ref_src=twsrc%5Etfw">6 de gener de 2018</a></blockquote>
+
+
