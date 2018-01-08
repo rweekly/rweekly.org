@@ -18,7 +18,7 @@ Release Date: 2018-1-15
 
 ### R in Real World
 
-
++ [Oh, the cold places I've lived](https://sharlagelfand.netlify.com/posts/oh-the-cold-places-ive-lived/)
 
 
 
@@ -64,7 +64,7 @@ Release Date: 2018-1-15
 
 ###  Tutorials
 
-
++ [Fitting non-linear regressions with `broom`, `purrr` and `nls.multstart`](https://padpadpadpad.github.io/post/fitting-non-linear-regressions-with-broom-purrr-and-nls.multstart/)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
