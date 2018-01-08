@@ -66,6 +66,7 @@ Release Date: 2018-1-15
 
 + [Fitting non-linear regressions with `broom`, `purrr` and `nls.multstart`](https://padpadpadpad.github.io/post/fitting-non-linear-regressions-with-broom-purrr-and-nls.multstart/)
 
++ [Rainbowing a set of pictures](http://www.masalmon.eu/2018/01/07/rainbowing/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
