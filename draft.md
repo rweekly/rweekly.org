@@ -81,6 +81,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ###  Upcoming Events
 
++ [R, vous avez dit R ?](https://www.meetup.com/fr-FR/Breizh-Data-Club/events/246482043/) — Breizh Data Club Meetup, January 24th. 
+
 + [rOpenSci Community Call](https://ropensci.org/blog/2018/01/03/comm-call-v15/) - Writing Packages to Support Research Communities - zoon & greta
 January 30th (January 31 for Australia)
 
