@@ -41,7 +41,11 @@ Release Date: 2018-1-15
 
 + [`rsam`](https://github.com/yonicd/rsam) - Provides a command line and user interface to manage RStudio addins.
 
++ [`rTorch`](https://github.com/f0nzie/rtorch), PyTorch bindings for R 
+
 ### Package Releases
+
++ [`infer` v0.1.0](http://infer.netlify.com/), The objective of this package is to perform statistical inference using an expressive statistical grammar that coheres with the tidyverse design framework.
 
 
 
@@ -59,6 +63,7 @@ Release Date: 2018-1-15
 
 + [Twitter moment "I'm tracking my on-the-job data science learning using the hashtag #DSLearnings. "](https://twitter.com/i/moments/950921593236131841)
 
++ [List of datasets present in CRAN packages](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 
 ### R Internationally
 
