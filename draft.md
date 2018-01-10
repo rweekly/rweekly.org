@@ -43,6 +43,8 @@ Release Date: 2018-1-15
 
 + [`rTorch`](https://github.com/f0nzie/rtorch), PyTorch bindings for R 
 
++ [`pmap`](https://github.com/twang2218/pmap), Process Map Visualization in R.
+
 ### Package Releases
 
 + [`infer` v0.1.0](http://infer.netlify.com/), The objective of this package is to perform statistical inference using an expressive statistical grammar that coheres with the tidyverse design framework.
