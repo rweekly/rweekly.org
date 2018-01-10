@@ -75,6 +75,8 @@ Release Date: 2018-1-15
 
 + [List of datasets present in CRAN packages](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 
++ [Easy sample data available in R packages (and related) ](https://gist.github.com/zross/6f1b1569512be06f5fb571cc425202bc)
+
 ### R Internationally
 
 
