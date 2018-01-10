@@ -13,7 +13,7 @@ Release Date: 2018-1-15
 
 ### Insights
 
-
++ [Towards Reproducible Research](http://www.simplyapproximate.com/posts/towards-reproducible-research/)
 
 
 ### R in Real World
@@ -60,7 +60,7 @@ Release Date: 2018-1-15
 
 ###  Videos and Podcasts
 
-
++ [Whole game](https://www.youtube.com/watch?v=go5Au01Jrvs). Hadley Wickham briefly showing the "whole game" of data analysis. See code and data at https://github.com/hadley/building-permits
 
 
 ###  Resources
