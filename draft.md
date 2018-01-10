@@ -22,6 +22,8 @@ Release Date: 2018-1-15
 
 + [Random Rupi: Generating Rupi Kaur-style poems in R with Markov chains](http://katiejolly.io/blog/2018-01-05/random-rupi-markov-chain-poems)
 
++ [The Marble Game in R ](https://www.alspur.com/marble-game-in-r/)
+
 
 ###  R in Organizations
 
@@ -76,6 +78,8 @@ Release Date: 2018-1-15
 + [Fitting non-linear regressions with `broom`, `purrr` and `nls.multstart`](https://padpadpadpad.github.io/post/fitting-non-linear-regressions-with-broom-purrr-and-nls.multstart/)
 
 + [Rainbowing a set of pictures](http://www.masalmon.eu/2018/01/07/rainbowing/)
+
++ [Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data](https://www.rdatagen.net/post/generating-correlated-data-for-a-simulated-cost-effectiveness-analysis/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
