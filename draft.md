@@ -56,7 +56,9 @@ Release Date: 2018-1-15
 
 ###  R Internationally
 
++ [Le logo ThinkR créé avec la librairie {sf}](https://thinkr.fr/logo-thinkr-cree-avec-librairie-sf/)
 
++ [Presidenciáveis no Twitter](https://medium.com/@ghcarvalho/presidenci%C3%A1veis-no-twitter-5fa2a7ec144b)
 
 ###  Videos and Podcasts
 
@@ -134,6 +136,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 + [satRday Cape Town 2018](http://capetown2018.satrdays.org/#callforpapers) - Call for papers
 
 + [eRum 2018 May 14-16, Budapest, Hungary](http://2018.erum.io/#cfp) - Call for papers
+
++ [R/Finance 2018: Call for Papers](http://blog.fosstrading.com/2018/01/rfinance-2018-call-for-papers.html) : June 1 and 2, 2018 - University of Illinois at Chicago
 
 + [LatinR - Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo, 3 al 7 de septiembre de 2018, Buenoes Aires, Argentina](http://47jaiio.sadio.org.ar/index.php?q=node/125)
 
