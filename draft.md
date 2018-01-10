@@ -37,7 +37,9 @@ Release Date: 2018-1-15
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-* [`tsibble`](http://pkg.earo.me/tsibble/index.html) - Provides a data class of `tbl_ts` to store and manage temporal-context data frames in a tidy manner.
++ [`tsibble`](http://pkg.earo.me/tsibble/index.html) - Provides a data class of `tbl_ts` to store and manage temporal-context data frames in a tidy manner.
+
++ [`rsam`](https://github.com/yonicd/rsam) - Provides a command line and user interface to manage RStudio addins.
 
 ### Package Releases
 
