@@ -15,6 +15,10 @@ Release Date: 2018-1-15
 
 + [Towards Reproducible Research](http://www.simplyapproximate.com/posts/towards-reproducible-research/)
 
++ [Building Your Data Science Network: Finding Community](https://robinsones.github.io/Building-Your-Data-Science-Network-Finding-Community/)
+
++ [Building Your Data Science Network: Reaching Out](https://robinsones.github.io/Building-Your-Data-Science-Network-Reaching-Out/)
+
 
 ### R in Real World
 
