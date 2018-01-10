@@ -129,7 +129,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-
++ [Job opening at ThinkR (France)](https://thinkr.fr/rejoindre-thinkr/)
 
 ###  Call for Participation
 
