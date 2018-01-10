@@ -20,7 +20,7 @@ Release Date: 2018-1-15
 
 + [Oh, the cold places I've lived](https://sharlagelfand.netlify.com/posts/oh-the-cold-places-ive-lived/)
 
-
++ [Random Rupi: Generating Rupi Kaur-style poems in R with Markov chains](http://katiejolly.io/blog/2018-01-05/random-rupi-markov-chain-poems)
 
 
 ###  R in Organizations
@@ -57,7 +57,7 @@ Release Date: 2018-1-15
 
 ###  Resources
 
-
++ [Twitter moment "I'm tracking my on-the-job data science learning using the hashtag #DSLearnings. "](https://twitter.com/i/moments/950921593236131841)
 
 
 ### R Internationally
