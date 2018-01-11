@@ -19,6 +19,8 @@ Release Date: 2018-1-15
 
 + [Building Your Data Science Network: Reaching Out](https://robinsones.github.io/Building-Your-Data-Science-Network-Reaching-Out/)
 
++ [Are you a scientist dealing with computational plant pathology? Then let's connect and code together!](http://openplantpathology.netlify.com/post/2018-01-08-first-post-community-call/)
+
 
 ### R in Real World
 
