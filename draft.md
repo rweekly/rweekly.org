@@ -36,7 +36,7 @@ Release Date: 2018-1-15
 
 ###  R in Academia
 
-
++ [Packaging data analytical work reproducibly using R (and friends)](https://peerj.com/preprints/3192/)
 
 
 ###  New Packages
@@ -76,6 +76,8 @@ Release Date: 2018-1-15
 + [List of datasets present in CRAN packages](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 
 + [Easy sample data available in R packages (and related) ](https://gist.github.com/zross/6f1b1569512be06f5fb571cc425202bc)
+
++ [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/)
 
 ### R Internationally
 
@@ -151,3 +153,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Twitter and meetups are great ways to meet people in data science. I&#39;ve written some tips for getting started, but as a new tweeter with few followers, tweeting can still feel like shouting into the void. My offer:<a href="https://t.co/Nm5JsaFVGd">https://t.co/Nm5JsaFVGd</a> <a href="https://t.co/c69nIPcQrB">pic.twitter.com/c69nIPcQrB</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/951204061151408128?ref_src=twsrc%5Etfw">10 de gener de 2018</a></blockquote>
