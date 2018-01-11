@@ -30,6 +30,8 @@ Release Date: 2018-1-15
 
 + [The Marble Game in R ](https://www.alspur.com/marble-game-in-r/)
 
++ [Quantitative Story Telling with Shiny: Gender Bias in Syllabi](https://www.gokhanciflikli.com/post/lse-gender/)
+
 
 ###  R in Organizations
 
