@@ -61,7 +61,7 @@ Release Date: 2018-1-15
 
 + [`infer` v0.1.0](http://infer.netlify.com/), The objective of this package is to perform statistical inference using an expressive statistical grammar that coheres with the tidyverse design framework.
 
-
++ [`sf` 0.6-0 news](http://r-spatial.org/r/2018/01/08/sf-0.6-0.html). Version 0.6-0 of the sf package (an R package for handling vector geometries in R) has been released to CRAN. It contains several innovations, summarized in the NEWS file. This blog post will illustrate some of these further.
 
 
 ###  R Internationally
