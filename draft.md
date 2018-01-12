@@ -32,6 +32,8 @@ Release Date: 2018-1-15
 
 + [Quantitative Story Telling with Shiny: Gender Bias in Syllabi](https://www.gokhanciflikli.com/post/lse-gender/)
 
++ [Analysing particular matter emission during New Year's Eve](https://johannesfriedrich.github.io/2018-01-11-particular-matter-new-year/)
+
 
 ###  R in Organizations
 
