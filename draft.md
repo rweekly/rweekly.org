@@ -99,7 +99,7 @@ Release Date: 2018-1-15
 
 ### Gist & Cookbook
 
-
++ [A snippet of code I found that explores the licenses on CRAN ](https://gist.github.com/njtierney)
 
 
 ###  R Project Updates
