@@ -129,6 +129,8 @@ Release Date: 2018-1-15
 
 + [Whole game](https://www.youtube.com/watch?v=go5Au01Jrvs). Hadley Wickham briefly showing the "whole game" of data analysis. See code and data at https://github.com/hadley/building-permits
 
++ [Speaking in Tech #291 -Data Naked](https://itunes.apple.com/us/podcast/speaking-in-tech/id469061956?mt=2#episodeGuid=4b171cb7118ea6a5f8b25882957e7be1) This week Peter, Josh and Melissa are joined by Ariel Zane (@lariebyrd), Health Sciences Analyst at MSC. Together they discuss Trump website issues, Amazon's Linux 2 release, Microsoft's latest acquisition, Specter/Meltdown and all things Data Science.
+
 ###  Resources
 
 + [Services and tools for building intelligent R applications in the cloud](http://blog.revolutionanalytics.com/2018/01/r-cloud-tools.html)
