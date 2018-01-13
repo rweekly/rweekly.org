@@ -15,6 +15,8 @@ Release Date: 2018-1-15
 
 + [Towards Reproducible Research](http://www.simplyapproximate.com/posts/towards-reproducible-research/)
 
++ [Written R/exams around the World](http://www.r-exams.org/tutorials/nops_language/)
+
 + [.rprofile: Karthik Ram](https://ropensci.org/blog/2018/01/12/rprofile-karthik-ram/)
 
 + [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)
@@ -94,6 +96,8 @@ Release Date: 2018-1-15
 + [`PostcodesioR`](https://erzk.github.io/PostcodesioR/) - free UK postcode lookup and geocoder
 
 + [`cloudml`](https://tensorflow.rstudio.com/blog/r-interface-to-cloudml.html) - R Interface to Google CloudML
+
++ [prrd](http://dirk.eddelbuettel.com/blog/2018/01/07#prrd_0.0.1) - Parallel Running [of] Reverse Depends
 
 ### Package Releases
 
