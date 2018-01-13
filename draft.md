@@ -35,6 +35,8 @@ Release Date: 2018-1-15
 
 + [R Work Areas. Standardize and Automate.](https://somerealnumbers.wordpress.com/2018/01/10/r-work-areas-standardize-and-automate/)
 
++ [Decoding error messages in R](http://rex-analytics.com/decoding-error-messages-r/)
+
 ### R in Real World
 
 + [R jumps to 8th position in TIOBE language rankings](http://blog.revolutionanalytics.com/2018/01/tiobe-2017.html)
@@ -68,6 +70,10 @@ Release Date: 2018-1-15
 + [The Brazilian post office and R](http://msperlin.github.io/2018-01-10-R-Correios/)
 
 ![The Brazilian post office and R](https://i1.wp.com/msperlin.github.io/img/R_Correio.jpg?w=456)
+
++ [A tidy game of life](http://thestudyofthehousehold.com/post/a-tidy-game-of-life/)
+
+![](https://github.com/aammd/thestudyofthehousehold/blob/master/static/img/stairs.gif?raw=true)
 
 ###  R in Organizations
 
