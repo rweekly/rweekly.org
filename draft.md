@@ -133,6 +133,8 @@ Release Date: 2018-1-15
 
 ###  Resources
 
++ [Queueing Theory Notation](https://roh.engineering/post/queueing-notation/)
+
 + [Services and tools for building intelligent R applications in the cloud](http://blog.revolutionanalytics.com/2018/01/r-cloud-tools.html)
 
 + [Twitter moment "I'm tracking my on-the-job data science learning using the hashtag #DSLearnings. "](https://twitter.com/i/moments/950921593236131841)
