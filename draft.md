@@ -59,6 +59,8 @@ Release Date: 2018-1-15
 
 + [Analysing particular matter emission during New Year's Eve](https://johannesfriedrich.github.io/2018-01-11-particular-matter-new-year/)
 
+![Analysing particular matter emission during New Year's Eve](https://raw.githubusercontent.com/JohannesFriedrich/JohannesFriedrich.github.io/master/_posts/img/PM_Silvester/PM_10_silvester2017.png)
+
 + [Quantitative Story Telling with Shiny: Gender Bias in Syllabi](https://www.gokhanciflikli.com/post/lse-gender/)
 
 ![Quantitative Story Telling with Shiny: Gender Bias in Syllabi](https://www.gokhanciflikli.com/img/bokeh.png)
