@@ -17,6 +17,8 @@ Release Date: 2018-1-15
 
 + [.rprofile: Karthik Ram](https://ropensci.org/blog/2018/01/12/rprofile-karthik-ram/)
 
++ [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)
+
 + [Building Your Data Science Network: Finding Community](https://robinsones.github.io/Building-Your-Data-Science-Network-Finding-Community/)
 
 + [Building Your Data Science Network: Reaching Out](https://robinsones.github.io/Building-Your-Data-Science-Network-Reaching-Out/)
@@ -25,6 +27,11 @@ Release Date: 2018-1-15
 
 + [Setting up an Asus Flip C302CA Chromebook for R Development](https://jwhollister.com/r/2017/04/14/chromebook-4-rstats.html)
 
++ [Discontinuing maintenance of jug](http://fishyoperations.com/2018/01/07/discontinuing-maintenance-jug.html)
+
++ [Three new domain-specific (embedded) languages with a Stan backend](http://andrewgelman.com/2018/01/09/three-new-domain-specific-embedded-languages-stan-backend/)
+
++ [R Work Areas. Standardize and Automate.](https://somerealnumbers.wordpress.com/2018/01/10/r-work-areas-standardize-and-automate/)
 
 ### R in Real World
 
@@ -40,10 +47,25 @@ Release Date: 2018-1-15
 
 + [The Marble Game in R ](https://www.alspur.com/marble-game-in-r/)
 
++ [Exploring Aviation Accidents from 1908 through the Present](https://nycdatascience.com/blog/student-works/exploring-aviation-accidents-from-1908-through-the-present/)
+
+![Exploring Aviation Accidents from 1908 through the Present](https://nycdatascience.com/blog/wp-content/uploads/2018/01/AIRCRAFT.png)
+
++ [New York City Taxi & Limousine Commission (TLC) Trip Data Analysis Using Sparklyr and Google BigQuery](http://mirai-solutions.ch/news/2018/01/09/NYC-TLC-Trip-Data-Analysis-Using-Sparklyr-and-Google-BigQuery/)
+
 + [Quantitative Story Telling with Shiny: Gender Bias in Syllabi](https://www.gokhanciflikli.com/post/lse-gender/)
 
 + [Analysing particular matter emission during New Year's Eve](https://johannesfriedrich.github.io/2018-01-11-particular-matter-new-year/)
 
++ [Quantitative Story Telling with Shiny: Gender Bias in Syllabi](https://www.gokhanciflikli.com/post/lse-gender/)
+
+![Quantitative Story Telling with Shiny: Gender Bias in Syllabi](https://www.gokhanciflikli.com/img/bokeh.png)
+
++ [Building a Daily Bitcoin Price Tracker with Coindeskr and Shiny in R](https://datascienceplus.com/building-a-daily-bitcoin-price-tracker-with-coindeskr-and-shiny-in-r/)
+
++ [The Brazilian post office and R](http://msperlin.github.io/2018-01-10-R-Correios/)
+
+![The Brazilian post office and R](https://i1.wp.com/msperlin.github.io/img/R_Correio.jpg?w=456)
 
 ###  R in Organizations
 
@@ -71,6 +93,8 @@ Release Date: 2018-1-15
 
 + [`PostcodesioR`](https://erzk.github.io/PostcodesioR/) - free UK postcode lookup and geocoder
 
++ [`cloudml`](https://tensorflow.rstudio.com/blog/r-interface-to-cloudml.html) - R Interface to Google CloudML
+
 ### Package Releases
 
 + [`infer` 0.1.0](http://infer.netlify.com/) - Perform statistical inference using an expressive statistical grammar that coheres with the tidyverse design framework.
@@ -78,6 +102,12 @@ Release Date: 2018-1-15
 + [`sf` 0.6-0](http://r-spatial.org/r/2018/01/08/sf-0.6-0.html) - an R package for handling vector geometries in R
 
 + [RStudio Connect v1.5.12](https://blog.rstudio.com/2018/01/12/rstudio-connect-v1-5-12/)
+
++ [tidytext 0.1.6](https://juliasilge.com/blog/tidytext-0-1-6/)
+
++ [dbplyr 1.2.0](https://www.tidyverse.org/articles/2018/01/dbplyr-1-2/)
+
++ [tibble 1.4.1](https://www.tidyverse.org/articles/2018/01/tibble-1-4-1/)
 
 ###  R Internationally
 
@@ -90,6 +120,8 @@ Release Date: 2018-1-15
 + [Whole game](https://www.youtube.com/watch?v=go5Au01Jrvs). Hadley Wickham briefly showing the "whole game" of data analysis. See code and data at https://github.com/hadley/building-permits
 
 ###  Resources
+
++ [Services and tools for building intelligent R applications in the cloud](http://blog.revolutionanalytics.com/2018/01/r-cloud-tools.html)
 
 + [Twitter moment "I'm tracking my on-the-job data science learning using the hashtag #DSLearnings. "](https://twitter.com/i/moments/950921593236131841)
 
@@ -105,7 +137,11 @@ Release Date: 2018-1-15
 
 ###  Tutorials
 
++ [Stepwise Bayesian Optimization with mlrMBO](https://mlr-org.github.io/Stepwise-Bayesian-Optimization-with-mlrMBO/)
+
 + [Simple Probability Trees in R](https://daranzolin.github.io/articles/2018-01/probability-trees)
+
++ [Looking beyond accuracy to improve trust in machine learning](https://shirinsplayground.netlify.com/2018/01/looking_beyond_accuracy_to_improve_trust_in_ml/)
 
 + [Reproducible Shiny App Development with Modules](https://www.blog.cultureofinsight.com/2018/01/reproducible-shiny-app-development-with-modules/)
 
@@ -114,6 +150,8 @@ Release Date: 2018-1-15
 + [Fitting non-linear regressions with `broom`, `purrr` and `nls.multstart`](https://padpadpadpad.github.io/post/fitting-non-linear-regressions-with-broom-purrr-and-nls.multstart/)
 
 + [Histogram of length frequency distribution using ggplot2](http://jethroemmanuel.netlify.com/)
+
++ [Bayesian Binomial Test in R](https://silentspring.org/devblog/2018/01/11/bayesian-binomial-test.html)
 
 + [Rainbowing a set of pictures](http://www.masalmon.eu/2018/01/07/rainbowing/)
 
@@ -125,11 +163,31 @@ Release Date: 2018-1-15
 
 + [Building a neural network from scratch in R](http://selbydavid.com/2018/01/09/neural-network/)
 
++ [Deep Learning With Keras To Predict Customer Churn](https://tensorflow.rstudio.com/blog/keras-customer-churn.html)
+
+![Deep Learning With Keras To Predict Customer Churn](https://tensorflow.rstudio.com/blog/images/keras-customer-churn/shiny-application.png)
+
++ [Deep Learning from first principles in Python, R and Octave – Part 2](https://gigadom.wordpress.com/2018/01/11/deep-learning-from-first-principles-in-python-r-and-octave-part-2/)
+
 + [Some random R benchmarks](http://colinfay.me/random-r-benchmarks/)
+
++ [Fitting a TensorFlow Linear Classifier with tfestimators](https://rviews.rstudio.com/2018/01/12/linear-model-in-tensorflow/)
 
 + [Holy ifelse() statements Batman!](https://austinwehrwein.com/data-visualization/plotting-batman-villains-ggraph/)
 
 + [Building Your Data Science Network: Reaching Out](https://robinsones.github.io/Building-Your-Data-Science-Network-Reaching-Out/)
+
++ [Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data](https://www.rdatagen.net/post/generating-correlated-data-for-a-simulated-cost-effectiveness-analysis/)
+
+![Simulating a cost-effectiveness analysis to highlight new functions for generating correlated data](https://www.rdatagen.net/post/2018-01-08-generating-correlated-data-for-a-simulated-cost-effectiveness-analysis_files/figure-html/tau3-1.png)
+
++ [INTRODUCING EDITHEME: PALETTES AND GRAPHICS MATCHING YOUR RSTUDIO EDITOR](http://www.pieceofk.fr/?p=530)
+
++ [Hierarchical compartmental reserving models](https://magesblog.com/post/hierarchical-compartmental-reserving-models/)
+
++ [Recode values with character subsetting](https://tjmahr.github.io/recode-values-with-character-subsetting/)
+
++ [Classifying duplicate questions from Quora with Keras](https://tensorflow.rstudio.com/blog/keras-duplicate-questions-quora.html)
 
 + [TWiMLAI talk 88 sketchnotes: Using Deep Learning and Google Street View to Estimate Demographics with Timnit Gebru](https://shirinsplayground.netlify.com/2018/01/twimlai88_sketchnotes/)
 
