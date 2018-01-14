@@ -131,6 +131,8 @@ Release Date: 2018-1-15
 
 + [Speaking in Tech #291 -Data Naked](https://itunes.apple.com/us/podcast/speaking-in-tech/id469061956?mt=2#episodeGuid=4b171cb7118ea6a5f8b25882957e7be1) This week Peter, Josh and Melissa are joined by Ariel Zane (@lariebyrd), Health Sciences Analyst at MSC. Together they discuss Trump website issues, Amazon's Linux 2 release, Microsoft's latest acquisition, Specter/Meltdown and all things Data Science.
 
++ [NSSD 52 - Expense Reporting Masterpiece](http://nssdeviations.com/52-expense-reporting-masterpiece): Hilary and Roger welcome the new year by discussing Excel (again), why talking to people who generate data matters, meditation and neuroscience, and trust vs. quality in data analysis.
+
 ###  Resources
 
 + [Services and tools for building intelligent R applications in the cloud](http://blog.revolutionanalytics.com/2018/01/r-cloud-tools.html)
