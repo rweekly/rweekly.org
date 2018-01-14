@@ -211,6 +211,10 @@ Release Date: 2018-1-15
 
 + [[How to] Include a dancing banana in your R package documentation](http://colinfay.me/dancing-banana-r-package-doc/)
 
+
+![](https://github.com/ColinFay/colinfay.github.io/raw/master/_posts/img/dancing-banana-r-package.gif)
+
+
 + [SW10 digs deep](https://thinkr.biz/2018/01/10/sw10-digs-deep/)
 
 + [Simple Probability Trees in R](https://daranzolin.github.io/articles/2018-01/probability-trees)
