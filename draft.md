@@ -35,6 +35,7 @@ Release Date: 2018-1-15
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [`offensiveR`](https://github.com/EmilHvitfeldt/offensiveR), R package that checks for offensive words in texts and documents
 
 ### Package Releases
 
