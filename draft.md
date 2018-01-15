@@ -57,8 +57,6 @@ Release Date: 2018-1-15
 
 + [New York City Taxi & Limousine Commission (TLC) Trip Data Analysis Using Sparklyr and Google BigQuery](http://mirai-solutions.ch/news/2018/01/09/NYC-TLC-Trip-Data-Analysis-Using-Sparklyr-and-Google-BigQuery/)
 
-+ [Quantitative Story Telling with Shiny: Gender Bias in Syllabi](https://www.gokhanciflikli.com/post/lse-gender/)
-
 + [Analysing particular matter emission during New Year's Eve](https://johannesfriedrich.github.io/2018-01-11-particular-matter-new-year/)
 
 ![Analysing particular matter emission during New Year's Eve](https://raw.githubusercontent.com/JohannesFriedrich/JohannesFriedrich.github.io/master/_posts/img/PM_Silvester/PM_10_silvester2017.png)
@@ -130,6 +128,10 @@ Release Date: 2018-1-15
 ###  Videos and Podcasts
 
 + [Whole game](https://www.youtube.com/watch?v=go5Au01Jrvs). Hadley Wickham briefly showing the "whole game" of data analysis. See code and data at https://github.com/hadley/building-permits
+
++ [Speaking in Tech #291 -Data Naked](https://itunes.apple.com/us/podcast/speaking-in-tech/id469061956?mt=2#episodeGuid=4b171cb7118ea6a5f8b25882957e7be1) This week Peter, Josh and Melissa are joined by Ariel Zane (@lariebyrd), Health Sciences Analyst at MSC. Together they discuss Trump website issues, Amazon's Linux 2 release, Microsoft's latest acquisition, Specter/Meltdown and all things Data Science.
+
++ [NSSD 52 - Expense Reporting Masterpiece](http://nssdeviations.com/52-expense-reporting-masterpiece): Hilary and Roger welcome the new year by discussing Excel (again), why talking to people who generate data matters, meditation and neuroscience, and trust vs. quality in data analysis.
 
 ###  Resources
 
@@ -211,6 +213,10 @@ Release Date: 2018-1-15
 
 + [[How to] Include a dancing banana in your R package documentation](http://colinfay.me/dancing-banana-r-package-doc/)
 
+
+![](https://github.com/ColinFay/colinfay.github.io/raw/master/_posts/img/dancing-banana-r-package.gif)
+
+
 + [SW10 digs deep](https://thinkr.biz/2018/01/10/sw10-digs-deep/)
 
 + [Simple Probability Trees in R](https://daranzolin.github.io/articles/2018-01/probability-trees)
@@ -277,4 +283,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">👩‍💻 <a href="https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw">#rladies</a>! Have you added yourself to our directory yet? 👩‍💻<br><br>💜 If not fill the form at <a href="https://t.co/fJvMvyNrKG">https://t.co/fJvMvyNrKG</a> 💜<br><br>Pic credit <a href="https://twitter.com/dataandme?ref_src=twsrc%5Etfw">@dataandme</a> <a href="https://t.co/NliRCebpKx">pic.twitter.com/NliRCebpKx</a></p>&mdash; R-Ladies Global (@RLadiesGlobal) <a href="https://twitter.com/RLadiesGlobal/status/951806321166348289?ref_src=twsrc%5Etfw">12 de gener de 2018</a></blockquote>
+
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Twitter and meetups are great ways to meet people in data science. I&#39;ve written some tips for getting started, but as a new tweeter with few followers, tweeting can still feel like shouting into the void. My offer:<a href="https://t.co/Nm5JsaFVGd">https://t.co/Nm5JsaFVGd</a> <a href="https://t.co/c69nIPcQrB">pic.twitter.com/c69nIPcQrB</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/951204061151408128?ref_src=twsrc%5Etfw">10 de gener de 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">After only 3 years using <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a>, I finally realized you can detach your Source pane and put it on one screen, and let the Console pane occupy more space on the second screen. Now wishing to be able to snap out Environment or Viewer for 3rd screen!<a href="https://twitter.com/rstudiotips?ref_src=twsrc%5Etfw">@rstudiotips</a> <a href="https://twitter.com/hashtag/rstudio?src=hash&amp;ref_src=twsrc%5Etfw">#rstudio</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/1gjrtcWEUi">pic.twitter.com/1gjrtcWEUi</a></p>&mdash; Taras Kaduk (@taraskaduk) <a href="https://twitter.com/taraskaduk/status/951549940504948736?ref_src=twsrc%5Etfw">11 de gener de 2018</a></blockquote>
