@@ -36,6 +36,9 @@ Release Date: 2018-1-15
 
 + [`offensiveR`](https://github.com/EmilHvitfeldt/offensiveR), R package that checks for offensive words in texts and documents
 
++ [`future.apply`](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures.  Use `future_lapply()` and `future_sapply()` to `lapply()` and `sapply()` sequentially, in parallel, distributed on local/remote cluster, via HPC scheduler, using the exact same R code everywhere. Works on Linux, macOS, and Windows.
+
+
 ### Package Releases
 
 
