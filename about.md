@@ -5,16 +5,27 @@ title: About
 
 **Weekly Updates from the Entire R Community**
 
-## Community
+## About Us
 
-[Support with Patreon](https://www.patreon.com/rweekly)
+R Weekly was founded on May 20, 2016. R is growing very quickly, and there are lots of great blogs, tutorials and other formats of resources coming out every day. R Weekly wants to keep track of these great things in the R community and make it more accessible to everyone.
 
+This is a warm and welcoming place. The team welcomes everyone who wants to contribute to the R community.
+
+Mail R Weekly - mail at rweekly.org
+
+Team Members (alphabet order)
+
+[Bruce Zhao](https://github.com/BruceZhaoR), [Colin Fay](https://github.com/ColinFay), [Eric Nantz](https://github.com/thercast), [Hao Zhu](https://github.com/haozhu233), [Jasmine Dumas](https://github.com/jasduma), [Jon Calder](https://github.com/jonmcalder), [Jonathan Carroll](https://github.com/jonocarroll), [Kun Ren](https://github.com/renkun-ken), [Maëlle Salmon](https://github.com/maelle), [Tracy Shen](https://github.com/tbs17/), [Wolfram Qin](https://github.com/qinwf)
+
+## Social Medias
 
 R Weekly @
 
 [Mastodon](https://mastodon.social/@rweekly), [Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org)
 
-[Weibo](https://weibo.com/rweekly), [WeChat](/wechat.html), [dev.to()](https://dev.to/rweekly), [LinkedIn](https://www.linkedin.com/company/rweekly)
+[WeChat](/wechat.html), [dev.to()](https://dev.to/rweekly), [LinkedIn](https://www.linkedin.com/company/rweekly)
+
+[Support with Patreon](https://www.patreon.com/rweekly)
 
 ### Submit
 
