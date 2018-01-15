@@ -17,10 +17,9 @@ Release Date: 2018-1-15
 
 ### R in Real World
 
-
-
-
 + [Which civil and political rights do countries violate? Analyzing 40 years of treaty complaints](https://rayms.github.io/2018-01-13-civil-political-rights/)
+
++ [Exploring Global Trends in Tuberculosis Incidence Rates - with `GetTBinR`](https://www.samabbott.co.uk/post/intro-gettbinr/)
 
 ###  R in Organizations
 
@@ -29,7 +28,7 @@ Release Date: 2018-1-15
 
 ###  R in Academia
 
-
++ [`diceR`: an R package for class discovery using an ensemble driven approach](https://link.springer.com/epdf/10.1186/s12859-017-1996-y?author_access_token=KomHe9QDFfJ_X-eOh1FeK2_BpE1tBhCbnbw3BuzI2ROfzv9z94cjHSpLwm63deDBdyqr0PKFT3ZTpIs9gSBWKU18t-ijb6dwPoOQRyvPhDCwR_LDwiT_bC5OdSUACCuvAJEbcB2IgctB2EXCFZumlA%3D%3D)
 
 ###  New Packages
 
