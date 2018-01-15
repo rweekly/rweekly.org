@@ -13,7 +13,7 @@ Release Date: 2018-1-15
 
 ### Insights
 
-
++ [Why you should use Linux for Data Science and R](https://pat-s.github.io/post/windows_vs_linux/)
 
 ### R in Real World
 
@@ -60,7 +60,7 @@ Release Date: 2018-1-15
 
 ###  Tutorials
 
-
++ [Animated US snowfall map](http://strimas.com/r/snowfall/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -122,3 +122,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">&quot;I guess that function is still missing from my &#39;R-senal&#39; &quot;<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/phdlife?src=hash&amp;ref_src=twsrc%5Etfw">#phdlife</a></p>&mdash; Ellen Chenoweth (@HungryHumpbacks) <a href="https://twitter.com/HungryHumpbacks/status/952285897449357312?ref_src=twsrc%5Etfw">13 de gener de 2018</a></blockquote>
