@@ -54,6 +54,8 @@ Release Date: 2018-1-15
 
 + [Queueing Theory Notation](https://roh.engineering/post/queueing-notation/)
 
++ [rOpenSci community calls](http://communitycalls.ropensci.org/): recordings, notes and blog posts from past community calls on various R and R community topics.
+
 
 ### R Internationally
 
