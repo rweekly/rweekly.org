@@ -49,10 +49,9 @@ Release Date: 2018-1-15
 
 
 
-
 ###  Resources
 
-
++ [Queueing Theory Notation](https://roh.engineering/post/queueing-notation/)
 
 
 ### R Internationally
