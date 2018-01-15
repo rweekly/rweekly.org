@@ -13,7 +13,7 @@ Release Date: 2018-1-15
 
 ### Insights
 
-
++ [Why you should use Linux for Data Science and R](https://pat-s.github.io/post/windows_vs_linux/)
 
 ### R in Real World
 
