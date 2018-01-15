@@ -113,6 +113,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
++ [Advancing computational and data literacy skills schools for life scientists](http://www.nhm.ac.uk/our-science/courses-and-students/advancing-computational-and-data-literacy-for-life-scientists.html): A five day course, 4-8th June 2018, Application deadline: 20 March 2018, Cost: £400 per student (including 5 nights accommodation in London, travel allowance, breakfast, lunch and tea/coffee)
+
 + [satRday Cape Town 2018](http://capetown2018.satrdays.org/#callforpapers) - Call for papers
 
 + [eRum 2018 May 14-16, Budapest, Hungary](http://2018.erum.io/#cfp) - Call for papers
