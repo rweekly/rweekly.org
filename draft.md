@@ -40,6 +40,14 @@ Release Date: 2018-1-15
 
 + [`greta`](https://greta-dev.github.io/greta/) - Simple and scalable statistical modelling in R.
 
++ [Download qualtrics survey data directly into R! ](https://github.com/JasperHG90/qualtRics)
+
++ [`read.so`](https://github.com/alistaire47/read.so) - Read Tables from Stack Overlow Questions into R.
+
++ [`markovifyR`](https://github.com/abresler/markovifyR): Markovify wrapper for R.
+
++ [`cividis`](https://github.com/marcosci/cividis), Implementation of the Matplolib 'viridis' color map in R (lite version).
+
 ### Package Releases
 
 
@@ -59,6 +67,8 @@ Release Date: 2018-1-15
 
 + [rOpenSci community calls](http://communitycalls.ropensci.org/): recordings, notes and blog posts from past community calls on various R and R community topics.
 
++ [R Shiny application to scrape payments to governments reports data from PDF files, based on rOpenSci `tabulizer` Tabula R package](https://github.com/NRGI/pdf-scraper)
+
 
 ### R Internationally
 
@@ -69,6 +79,10 @@ Release Date: 2018-1-15
 + [Animated US snowfall map](http://strimas.com/r/snowfall/)
 
 + [Can’t Stop at 21: Twitter Recipe #22 — Tying Up Loose Threads](https://rud.is/b/2018/01/15/cant-stop-at-21-twitter-recipe-22-tying-up-loose-threads/)
+
++ [Simulate! Simulate! - Part 1: A linear model ](https://aosmith.rbind.io/2018/01/09/simulate-simulate-part1/)
+
++ [Gutenberg Text Mining Practice](http://rpubs.com/mrwarn/349518)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
