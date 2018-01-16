@@ -25,6 +25,8 @@ Release Date: 2018-1-15
 
 + [Exploring Global Trends in Tuberculosis Incidence Rates - with `GetTBinR`](https://www.samabbott.co.uk/post/intro-gettbinr/)
 
++ [Nylon Calculus: How have team offensive play types changed?](https://fansided.com/2018/01/16/nylon-calculus-team-offensive-play-types-changed/)
+
 ###  R in Organizations
 
 
