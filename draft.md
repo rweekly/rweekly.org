@@ -15,6 +15,8 @@ Release Date: 2018-1-15
 
 + [Why you should use Linux for Data Science and R](https://pat-s.github.io/post/windows_vs_linux/)
 
++ [`dsmartr`: My first R package, and some thoughts on learning to code](https://obrl-soil.github.io/dsmartr-announcement/)
+
 ### R in Real World
 
 + [Which civil and political rights do countries violate? Analyzing 40 years of treaty complaints](https://rayms.github.io/2018-01-13-civil-political-rights/)
