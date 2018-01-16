@@ -148,3 +148,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">&quot;I guess that function is still missing from my &#39;R-senal&#39; &quot;<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/phdlife?src=hash&amp;ref_src=twsrc%5Etfw">#phdlife</a></p>&mdash; Ellen Chenoweth (@HungryHumpbacks) <a href="https://twitter.com/HungryHumpbacks/status/952285897449357312?ref_src=twsrc%5Etfw">13 de gener de 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">That I can just look up &#39;&lt;difficult thing I have no idea how to do&gt; tutorial in R&#39; and find like 8 in-depth blog posts makes me confident <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> is the best.</p>&mdash; danny (@dataframing) <a href="https://twitter.com/dataframing/status/953115551060066304?ref_src=twsrc%5Etfw">16 de gener de 2018</a></blockquote>
+
