@@ -17,6 +17,8 @@ Release Date: 2018-1-15
 
 + [`dsmartr`: My first R package, and some thoughts on learning to code](https://obrl-soil.github.io/dsmartr-announcement/)
 
++ [5 Things I Learned Making a Package to Work with Hydrometric Data in R](https://ropensci.org/blog/2018/01/16/tidyhydat/)
+
 ### R in Real World
 
 + [Which civil and political rights do countries violate? Analyzing 40 years of treaty complaints](https://rayms.github.io/2018-01-13-civil-political-rights/)
@@ -31,6 +33,8 @@ Release Date: 2018-1-15
 ###  R in Academia
 
 + [`diceR`: an R package for class discovery using an ensemble driven approach](https://link.springer.com/epdf/10.1186/s12859-017-1996-y?author_access_token=KomHe9QDFfJ_X-eOh1FeK2_BpE1tBhCbnbw3BuzI2ROfzv9z94cjHSpLwm63deDBdyqr0PKFT3ZTpIs9gSBWKU18t-ijb6dwPoOQRyvPhDCwR_LDwiT_bC5OdSUACCuvAJEbcB2IgctB2EXCFZumlA%3D%3D)
+
++ [Policy on Publishing Code: Encouraging Good Practice to Ensure Quality](https://methodsblog.wordpress.com/2018/01/16/publishing-code/)
 
 ###  New Packages
 
@@ -52,7 +56,7 @@ Release Date: 2018-1-15
 
 ### Package Releases
 
-
++ [`opencage` v0.1.4](https://cran.r-project.org/web/packages/opencage/index.html): Tool for accessing the OpenCage API, which provides forward geocoding (from placename to longitude and latitude) and reverse geocoding (from longitude and latitude to placename).
 
 
 ###  R Internationally
