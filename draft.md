@@ -67,6 +67,8 @@ Release Date: 2018-1-15
 
 + [Animated US snowfall map](http://strimas.com/r/snowfall/)
 
++ [Can’t Stop at 21: Twitter Recipe #22 — Tying Up Loose Threads](https://rud.is/b/2018/01/15/cant-stop-at-21-twitter-recipe-22-tying-up-loose-threads/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
