@@ -86,6 +86,8 @@ Release Date: 2018-1-15
 
 + [Gutenberg Text Mining Practice](http://rpubs.com/mrwarn/349518)
 
++ [A guide to GPU-accelerated ship recognition in satellite imagery using Keras and R (part I)](https://appsilondatascience.com/blog/rstats/2018/01/16/keras.html)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
