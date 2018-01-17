@@ -140,7 +140,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
 
-
++ [Gitential Datasets for Open Source Projects](https://github.com/gitential/datasets)
 
 
 ### Jobs
