@@ -40,6 +40,8 @@ Release Date: 2018-1-15
 
 + [Policy on Publishing Code: Encouraging Good Practice to Ensure Quality](https://methodsblog.wordpress.com/2018/01/16/publishing-code/)
 
++ [Reproducible, flexible and high throughput data extraction from primary literature: The `metaDigitise` R package](https://www.biorxiv.org/content/early/2018/01/15/247775)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
