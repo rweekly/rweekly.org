@@ -42,31 +42,33 @@ Release Date: 2018-1-15
 
 + [Reproducible, flexible and high throughput data extraction from primary literature: The `metaDigitise` R package](https://www.biorxiv.org/content/early/2018/01/15/247775)
 
++ [`adventr`: an R package for An Adventure in Statistics](http://milton-the-cat.rocks/home/adventr.html)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ <img class='emoji' =src="https://link.rweekly.org/g" width='20' /> [`offensiveR`](https://github.com/EmilHvitfeldt/offensiveR), R package that checks for offensive words in texts and documents
++ <img src="https://link.rweekly.org/g" width='20' /> [`offensiveR`](https://github.com/EmilHvitfeldt/offensiveR), R package that checks for offensive words in texts and documents
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [`future.apply`](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures.  Use `future_lapply()` and `future_sapply()` to `lapply()` and `sapply()` sequentially, in parallel, distributed on local/remote cluster, via HPC scheduler, using the exact same R code everywhere. Works on Linux, macOS, and Windows.
++ <img src="https://link.rweekly.org/c" width='20' /> [`future.apply`](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures.  Use `future_lapply()` and `future_sapply()` to `lapply()` and `sapply()` sequentially, in parallel, distributed on local/remote cluster, via HPC scheduler, using the exact same R code everywhere. Works on Linux, macOS, and Windows.
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [`greta`](https://greta-dev.github.io/greta/) - Simple and scalable statistical modelling in R.
++ <img src="https://link.rweekly.org/c" width='20' /> [`greta`](https://greta-dev.github.io/greta/) - Simple and scalable statistical modelling in R.
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [Download qualtrics survey data directly into R! ](https://github.com/JasperHG90/qualtRics)
++ <img src="https://link.rweekly.org/c" width='20' /> [Download qualtrics survey data directly into R! ](https://github.com/JasperHG90/qualtRics)
 
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [`read.so`](https://github.com/alistaire47/read.so) - Read Tables from Stack Overlow Questions into R.
++ <img src="https://link.rweekly.org/g" width='20' /> [`read.so`](https://github.com/alistaire47/read.so) - Read Tables from Stack Overlow Questions into R.
 
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [`markovifyR`](https://github.com/abresler/markovifyR): Markovify wrapper for R.
++ <img src="https://link.rweekly.org/g" width='20' /> [`markovifyR`](https://github.com/abresler/markovifyR): Markovify wrapper for R.
 
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [`cividis`](https://github.com/marcosci/cividis), Implementation of the Matplolib 'viridis' color map in R (lite version).
++ <img src="https://link.rweekly.org/g" width='20' /> [`cividis`](https://github.com/marcosci/cividis), Implementation of the Matplolib 'viridis' color map in R (lite version).
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [`palmtree`](https://cran.r-project.org/web/packages/palmtree/index.html): Partially Additive (Generalized) Linear Model Trees
++ <img src="https://link.rweekly.org/c" width='20' /> [`palmtree`](https://cran.r-project.org/web/packages/palmtree/index.html): Partially Additive (Generalized) Linear Model Trees
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [`model4you`](https://cran.r-project.org/web/packages/model4you/index.html): Stratified and Personalised Models Based on Model-Based Trees and Forests
++ <img src="https://link.rweekly.org/c" width='20' /> [`model4you`](https://cran.r-project.org/web/packages/model4you/index.html): Stratified and Personalised Models Based on Model-Based Trees and Forests
 
 ### Package Releases
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [`opencage` v0.1.4](https://cran.r-project.org/web/packages/opencage/index.html): Tool for accessing the OpenCage API, which provides forward geocoding (from placename to longitude and latitude) and reverse geocoding (from longitude and latitude to placename).
++ <img src="https://link.rweekly.org/c" width='20' /> [`opencage` v0.1.4](https://cran.r-project.org/web/packages/opencage/index.html): Tool for accessing the OpenCage API, which provides forward geocoding (from placename to longitude and latitude) and reverse geocoding (from longitude and latitude to placename).
 
 
 ###  R Internationally
