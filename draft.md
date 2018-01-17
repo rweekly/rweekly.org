@@ -62,7 +62,7 @@ Release Date: 2018-1-15
 
 + <img src="https://link.rweekly.org/c" width='20' /> [`palmtree`](https://cran.r-project.org/web/packages/palmtree/index.html): Partially Additive (Generalized) Linear Model Trees
 
-+ <img src="https://link.rweekly.org/c" width='20' />[`model4you`](https://cran.r-project.org/web/packages/model4you/index.html): Stratified and Personalised Models Based on Model-Based Trees and Forests
++ <img src="https://link.rweekly.org/c" width='20' /> [`model4you`](https://cran.r-project.org/web/packages/model4you/index.html): Stratified and Personalised Models Based on Model-Based Trees and Forests
 
 ### Package Releases
 
