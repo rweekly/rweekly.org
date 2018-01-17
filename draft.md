@@ -58,6 +58,10 @@ Release Date: 2018-1-15
 
 + [`cividis`](https://github.com/marcosci/cividis), Implementation of the Matplolib 'viridis' color map in R (lite version).
 
++ [`palmtree`](https://cran.r-project.org/web/packages/palmtree/index.html): Partially Additive (Generalized) Linear Model Trees
+
++ [`model4you`](https://cran.r-project.org/web/packages/model4you/index.html): Stratified and Personalised Models Based on Model-Based Trees and Forests
+
 ### Package Releases
 
 + [`opencage` v0.1.4](https://cran.r-project.org/web/packages/opencage/index.html): Tool for accessing the OpenCage API, which provides forward geocoding (from placename to longitude and latitude) and reverse geocoding (from longitude and latitude to placename).
