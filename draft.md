@@ -29,6 +29,8 @@ Release Date: 2018-1-15
 
 + [Exploring Japan's Postwar Economic Miracle with `gganimate`, `tweenr`, & `highcharter`!](https://ryo-n7.github.io/2018-01-12-japan-postwar-economic-recovery/)
 
++ [My Ancestors' Longevity](https://genesandhistory.wordpress.com/2018/01/16/my-ancestors-longevity/)
+
 ###  R in Organizations
 
 
