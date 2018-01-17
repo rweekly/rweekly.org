@@ -8,9 +8,43 @@ Separate each item with a blank line. This layout will have a better view on mos
 
 Doing is better than talking. If you find a bug which is easy to fix, just click the edit button.
 
+```
 + [item one](link) - text
 
 + [item two](link) - text
+```
+
+
++ [item one](link) - text
+
++ [item two](link) - text
+
+```
+For CRAN packages
+
++ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [pkg name](link) - text 
+
+For Bioconductor packages
+
++ <img class='emoji' src="https://link.rweekly.org/b" width='50' /> [pkg name](link) - text 
+
+For GitHub only packages
+
++ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [pkg name](link) - text 
+```
+
+For CRAN packages
+
++ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [pkg name](link) - text 
+
+For Bioconductor packages
+
++ <img class='emoji' src="https://link.rweekly.org/b" width='50' /> [pkg name](link) - text 
+
+For GitHub only packages
+
++ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [pkg name](link) - text 
+
 
 # Structure of the draft
 
