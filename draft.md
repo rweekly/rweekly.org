@@ -94,6 +94,10 @@ Release Date: 2018-1-15
 
 + [A guide to GPU-accelerated ship recognition in satellite imagery using Keras and R (part I)](https://appsilondatascience.com/blog/rstats/2018/01/16/keras.html)
 
++ [Create World Pixel Maps in R](https://taraskaduk.com/2017/11/26/pixel-maps/)
+
++ [Shiny app: calculating your hourly rate as a consultant](https://taraskaduk.com/2018/01/13/shiny_rate/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
