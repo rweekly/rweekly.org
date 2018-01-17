@@ -27,6 +27,8 @@ Release Date: 2018-1-15
 
 + [Nylon Calculus: How have team offensive play types changed?](https://fansided.com/2018/01/16/nylon-calculus-team-offensive-play-types-changed/)
 
++ [Exploring Japan's Postwar Economic Miracle with `gganimate`, `tweenr`, & `highcharter`!](https://ryo-n7.github.io/2018-01-12-japan-postwar-economic-recovery/)
+
 ###  R in Organizations
 
 
