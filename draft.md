@@ -42,9 +42,12 @@ Release Date: 2018-1-15
 
 + [Reproducible, flexible and high throughput data extraction from primary literature: The `metaDigitise` R package](https://www.biorxiv.org/content/early/2018/01/15/247775)
 
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+
++ <img class='emoji' src="https://link.rweekly.org/g" width='20' />  [`adventr`](http://milton-the-cat.rocks/home/adventr.html) -  an R package for An Adventure in Statistics
 
 + <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [`offensiveR`](https://github.com/EmilHvitfeldt/offensiveR), R package that checks for offensive words in texts and documents
 
