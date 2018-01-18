@@ -19,6 +19,8 @@ Release Date: 2018-1-15
 
 + [5 Things I Learned Making a Package to Work with Hydrometric Data in R](https://ropensci.org/blog/2018/01/16/tidyhydat/)
 
++ [RStudio Server On A Chromebook](https://jwhollister.com/2018/01/18/rstudio-server-on-a-chromebook.html)
+
 ### R in Real World
 
 + [Which civil and political rights do countries violate? Analyzing 40 years of treaty complaints](https://rayms.github.io/2018-01-13-civil-political-rights/)
