@@ -33,6 +33,8 @@ Release Date: 2018-1-15
 
 + [My Ancestors' Longevity](https://genesandhistory.wordpress.com/2018/01/16/my-ancestors-longevity/)
 
++ [Self-driving cars and the impact of Motor Accidents on Mortality – The Case of South Africa](http://ronaldrichman.co.za/2018/01/19/self-driving-cars-and-the-impact-of-motor-accidents-on-mortality-the-case-of-south-africa/)
+
 ###  R in Organizations
 
 
@@ -71,9 +73,13 @@ Release Date: 2018-1-15
 
 + <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [`model4you`](https://cran.r-project.org/web/packages/model4you/index.html): Stratified and Personalised Models Based on Model-Based Trees and Forests
 
++  <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [Check your prior posterior overlap (PPO) – MCMC wrangling in R made easy with `MCMCvis`](https://lynchlab.com/2018/01/18/check-your-prior-posterior-overlap-ppo-mcmc-wrangling-in-r-made-easy-with-mcmcvis/)
+
 ### Package Releases
 
 + <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [`opencage` v0.1.4](https://cran.r-project.org/web/packages/opencage/index.html): Tool for accessing the OpenCage API, which provides forward geocoding (from placename to longitude and latitude) and reverse geocoding (from longitude and latitude to placename).
+
++ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [The `bcmaps` #rstats package ](https://cran.r-project.org/web/packages/bcmaps/news.html) just updated on CRAN, a new open data layer, British Columbia cities & other improvements.
 
 
 ###  R Internationally
@@ -91,6 +97,8 @@ Release Date: 2018-1-15
 + [rOpenSci community calls](http://communitycalls.ropensci.org/): recordings, notes and blog posts from past community calls on various R and R community topics.
 
 + [R Shiny application to scrape payments to governments reports data from PDF files, based on rOpenSci `tabulizer` Tabula R package](https://github.com/NRGI/pdf-scraper)
+
++ [A Shiny interactive web application to quantify how robust inferences are to potential sources of bias (sensitivity analysis) ](https://jrosen48.github.io/blog/a-shiny-interactive-web-application-to-quantify-how-robust-inferences-are-to-potential-sources-of-bias-sensitivity-analysis/)
 
 
 ### R Internationally
@@ -114,6 +122,10 @@ Release Date: 2018-1-15
 + [Shiny app: calculating your hourly rate as a consultant](https://taraskaduk.com/2018/01/13/shiny_rate/)
 
 + [Drilling into non-rectangular data with purrr](https://rensa.co/writing/drilling-into-non-rectangular-data-with-purrr/)
+
++ [How we made that net neutrality clickstream diagram](https://blog.wikimedia.org/2018/01/18/on-that-net-neutrality-clickstream-diagram/)
+
++ [Basic Time-Series Analysis, the Game](http://blog.mindymallory.com/2018/01/basic-time-series-analysis-the-game/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -156,6 +168,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ### Datasets
 
 + [Gitential Datasets for Open Source Projects](https://github.com/gitential/datasets)
+
++ [New monthly dataset shows where people fall into Wikipedia rabbit holes](https://blog.wikimedia.org/2018/01/16/wikipedia-rabbit-hole-clickstream/)
 
 
 ### Jobs
