@@ -27,6 +27,10 @@ Release Date: 2018-1-22
 
 + [Screenshots Can Be Helpful, But Only Text Can Be Copied And Executed](https://yihui.name/en/2018/01/screenshots-vs-text/)
 
++ [Imposter Syndrome in Data Science](https://caitlinhudon.com/2018/01/19/imposter-syndrome-in-data-science/)
+
++ [Curb your imposterism, start meta-learning](https://edwinth.github.io/meta-learning/)
+
 ### R in Real World
 
 + [Bitcoin (World Map) Bubbles](https://rud.is/b/2018/01/18/bitcoin-world-map-bubbles/)
