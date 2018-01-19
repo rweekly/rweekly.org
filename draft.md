@@ -113,6 +113,8 @@ Release Date: 2018-1-15
 
 + [Shiny app: calculating your hourly rate as a consultant](https://taraskaduk.com/2018/01/13/shiny_rate/)
 
++ [Drilling into non-rectangular data with purrr](https://rensa.co/writing/drilling-into-non-rectangular-data-with-purrr/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
