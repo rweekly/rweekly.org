@@ -68,41 +68,45 @@ Release Date: 2018-1-22
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [TinyTeX](https://yihui.name/tinytex/) - A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live
+**CRAN**
 
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' />  [`adventr`](http://milton-the-cat.rocks/home/adventr.html) -  an R package for An Adventure in Statistics
++  [TinyTeX](https://yihui.name/tinytex/) - A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live
 
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [`offensiveR`](https://github.com/EmilHvitfeldt/offensiveR), R package that checks for offensive words in texts and documents
++ [`future.apply`](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures.  Use `future_lapply()` and `future_sapply()` to `lapply()` and `sapply()` sequentially, in parallel, distributed on local/remote cluster, via HPC scheduler, using the exact same R code everywhere. Works on Linux, macOS, and Windows.
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [`future.apply`](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures.  Use `future_lapply()` and `future_sapply()` to `lapply()` and `sapply()` sequentially, in parallel, distributed on local/remote cluster, via HPC scheduler, using the exact same R code everywhere. Works on Linux, macOS, and Windows.
++ [`greta`](https://greta-dev.github.io/greta/) - Simple and scalable statistical modelling in R.
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [`greta`](https://greta-dev.github.io/greta/) - Simple and scalable statistical modelling in R.
++ [`palmtree`](https://cran.r-project.org/web/packages/palmtree/index.html): Partially Additive (Generalized) Linear Model Trees
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [Download qualtrics survey data directly into R! ](https://github.com/JasperHG90/qualtRics)
++ [`model4you`](https://cran.r-project.org/web/packages/model4you/index.html): Stratified and Personalised Models Based on Model-Based Trees and Forests
 
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [`read.so`](https://github.com/alistaire47/read.so) - Read Tables from Stack Overlow Questions into R.
++ [Check your prior posterior overlap (PPO) – MCMC wrangling in R made easy with `MCMCvis`](https://lynchlab.com/2018/01/18/check-your-prior-posterior-overlap-ppo-mcmc-wrangling-in-r-made-easy-with-mcmcvis/)
 
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [`markovifyR`](https://github.com/abresler/markovifyR): Markovify wrapper for R.
+**GitHub only**
 
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [`cividis`](https://github.com/marcosci/cividis), Implementation of the Matplolib 'viridis' color map in R (lite version).
++  [`adventr`](http://milton-the-cat.rocks/home/adventr.html) -  an R package for An Adventure in Statistics
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [`palmtree`](https://cran.r-project.org/web/packages/palmtree/index.html): Partially Additive (Generalized) Linear Model Trees
++ [`offensiveR`](https://github.com/EmilHvitfeldt/offensiveR), R package that checks for offensive words in texts and documents
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [`model4you`](https://cran.r-project.org/web/packages/model4you/index.html): Stratified and Personalised Models Based on Model-Based Trees and Forests
++ [`read.so`](https://github.com/alistaire47/read.so) - Read Tables from Stack Overlow Questions into R.
 
-+  <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [Check your prior posterior overlap (PPO) – MCMC wrangling in R made easy with `MCMCvis`](https://lynchlab.com/2018/01/18/check-your-prior-posterior-overlap-ppo-mcmc-wrangling-in-r-made-easy-with-mcmcvis/)
++ [Download qualtrics survey data directly into R! ](https://github.com/JasperHG90/qualtRics)
+
++ [`markovifyR`](https://github.com/abresler/markovifyR): Markovify wrapper for R.
+
++ [`cividis`](https://github.com/marcosci/cividis), Implementation of the Matplolib 'viridis' color map in R (lite version).
 
 ### Package Releases
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [`opencage` v0.1.4](https://cran.r-project.org/web/packages/opencage/index.html): Tool for accessing the OpenCage API, which provides forward geocoding (from placename to longitude and latitude) and reverse geocoding (from longitude and latitude to placename).
++ [`opencage` v0.1.4](https://cran.r-project.org/web/packages/opencage/index.html): Tool for accessing the OpenCage API, which provides forward geocoding (from placename to longitude and latitude) and reverse geocoding (from longitude and latitude to placename).
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [The `bcmaps` #rstats package ](https://cran.r-project.org/web/packages/bcmaps/news.html) just updated on CRAN, a new open data layer, British Columbia cities & other improvements.
++ [The `bcmaps` #rstats package ](https://cran.r-project.org/web/packages/bcmaps/news.html) just updated on CRAN, a new open data layer, British Columbia cities & other improvements.
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [text2vec 0.5.1](https://github.com/dselivanov/text2vec/blob/53f9da214e9726fc3c8a92b0dd638938176c5e5a/NEWS.md)
++ [text2vec 0.5.1](https://github.com/dselivanov/text2vec/blob/53f9da214e9726fc3c8a92b0dd638938176c5e5a/NEWS.md)
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [RcppMsgPack 0.2.1](http://dirk.eddelbuettel.com/blog/2018/01/16#rcppmsgpack_0.2.1)
++ [RcppMsgPack 0.2.1](http://dirk.eddelbuettel.com/blog/2018/01/16#rcppmsgpack_0.2.1)
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [digest 0.6.14](http://dirk.eddelbuettel.com/blog/2018/01/14#digest_0.6.14)
++ [digest 0.6.14](http://dirk.eddelbuettel.com/blog/2018/01/14#digest_0.6.14)
 
 + [Microsoft R Open 3.4.3 now available](http://blog.revolutionanalytics.com/2018/01/microsoft-r-open-343-now-available.html)
 
