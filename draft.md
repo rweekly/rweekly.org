@@ -1,17 +1,19 @@
 ---
 layout: draft
-title: R Weekly 2018-3
+title: R Weekly 2018-4
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2018-1-15
+Release Date: 2018-1-22
 
 ###  Highlight
 
 
 
 ### Insights
+
++ [Registration and talk proposals now open for useR!2018](http://blog.revolutionanalytics.com/2018/01/user2018-reg-open.html)
 
 + [Why you should use Linux for Data Science and R](https://pat-s.github.io/post/windows_vs_linux/)
 
@@ -21,7 +23,13 @@ Release Date: 2018-1-15
 
 + [RStudio Server On A Chromebook](https://jwhollister.com/2018/01/18/rstudio-server-on-a-chromebook.html)
 
++ [Nothing Feels Better Than Someone Else Answering Questions For You](https://yihui.name/en/2018/01/thanks-marcel-schilling/)
+
++ [Screenshots Can Be Helpful, But Only Text Can Be Copied And Executed](https://yihui.name/en/2018/01/screenshots-vs-text/)
+
 ### R in Real World
+
++ [Bitcoin (World Map) Bubbles](https://rud.is/b/2018/01/18/bitcoin-world-map-bubbles/)
 
 + [Which civil and political rights do countries violate? Analyzing 40 years of treaty complaints](https://rayms.github.io/2018-01-13-civil-political-rights/)
 
@@ -35,9 +43,16 @@ Release Date: 2018-1-15
 
 + [Self-driving cars and the impact of Motor Accidents on Mortality – The Case of South Africa](http://ronaldrichman.co.za/2018/01/19/self-driving-cars-and-the-impact-of-motor-accidents-on-mortality-the-case-of-south-africa/)
 
++ [Where did the most crashes involving bikes occur?](http://www.simoncoulombe.com/2018/01/16/where-did-the-most-crashes-involving-bikes-occur/)
+
++ [Creating an interactive map of Canadian election results from messy data](https://www.simoncoulombe.com/2018/01/15/creating-an-interactive-map-of-canadian-election-results-from-messy-data/)
+
++ [Which civil and political rights do countries violate? ](http://rayms.github.io/2018-01-13-civil-political-rights/)
+
 ###  R in Organizations
 
 
++ [Recap of rOpenSci's ozunconf – October 2017 in Melbourne](https://www.r-consortium.org/blog/2018/01/17/recap-ropenscis-ozunconf-october-2017-melbourne)
 
 
 ###  R in Academia
@@ -52,6 +67,8 @@ Release Date: 2018-1-15
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+
++ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [TinyTeX](https://yihui.name/tinytex/) - A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live
 
 + <img class='emoji' src="https://link.rweekly.org/g" width='20' />  [`adventr`](http://milton-the-cat.rocks/home/adventr.html) -  an R package for An Adventure in Statistics
 
@@ -81,13 +98,17 @@ Release Date: 2018-1-15
 
 + <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [The `bcmaps` #rstats package ](https://cran.r-project.org/web/packages/bcmaps/news.html) just updated on CRAN, a new open data layer, British Columbia cities & other improvements.
 
++ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [text2vec 0.5.1](https://github.com/dselivanov/text2vec/blob/53f9da214e9726fc3c8a92b0dd638938176c5e5a/NEWS.md)
 
-###  R Internationally
++ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [RcppMsgPack 0.2.1](http://dirk.eddelbuettel.com/blog/2018/01/16#rcppmsgpack_0.2.1)
 
++ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [digest 0.6.14](http://dirk.eddelbuettel.com/blog/2018/01/14#digest_0.6.14)
 
++ [Microsoft R Open 3.4.3 now available](http://blog.revolutionanalytics.com/2018/01/microsoft-r-open-343-now-available.html)
 
 ###  Videos and Podcasts
 
++ [Whole game](https://www.youtube.com/watch?v=go5Au01Jrvs)
 
 
 ###  Resources
@@ -103,9 +124,19 @@ Release Date: 2018-1-15
 
 ### R Internationally
 
++ [Taxis en Buenos Aires: mapas claros y negocios turbios](https://bitsandbricks.github.io/post/taxis-en-buenos-aires-mapas-claros-y-negocios-turbios/)
 
+![Taxis en Buenos Aires: mapas claros y negocios turbios](https://bitsandbricks.github.io/post/img/hubcab.jpg)
 
 ###  Tutorials
+
++ [Deviance Information Criteria](https://dm13450.github.io/2018/01/18/DIC.html)
+
++ [Building a Daily Bitcoin Price Tracker with Coindeskr and Shiny in R](https://datascienceplus.com/building-a-daily-bitcoin-price-tracker-with-coindeskr-and-shiny-in-r/)
+
++ [Drilling into non-rectangular data with purrr](https://rensa.co/writing/drilling-into-non-rectangular-data-with-purrr/)
+
++ [Comparing Google Search Console queries with Google's Cloud Natural Language API](http://code.markedmondson.me/searchconsoler-vs-googlelanguager/)
 
 + [Animated US snowfall map](http://strimas.com/r/snowfall/)
 
@@ -114,6 +145,8 @@ Release Date: 2018-1-15
 + [Simulate! Simulate! - Part 1: A linear model ](https://aosmith.rbind.io/2018/01/09/simulate-simulate-part1/)
 
 + [Gutenberg Text Mining Practice](http://rpubs.com/mrwarn/349518)
+
++ [Hire Me (as a Data Scientist!), Part I](https://davidjohnbaker.rbind.io/post/hire-me-as-a-data-scientist-part-i/)
 
 + [A guide to GPU-accelerated ship recognition in satellite imagery using Keras and R (part I)](https://appsilondatascience.com/blog/rstats/2018/01/16/keras.html)
 
@@ -126,6 +159,53 @@ Release Date: 2018-1-15
 + [How we made that net neutrality clickstream diagram](https://blog.wikimedia.org/2018/01/18/on-that-net-neutrality-clickstream-diagram/)
 
 + [Basic Time-Series Analysis, the Game](http://blog.mindymallory.com/2018/01/basic-time-series-analysis-the-game/)
+
+
+
++ [Services and tools for building intelligent R applications in the cloud](http://blog.revolutionanalytics.com/2018/01/r-cloud-tools.html)
+
++ [Framework for Troubleshooting](http://kgilds.rbind.io/2018/01/13/troubleshooting/)
+
+
++ [Setting up RStudio Server quickly on Amazon EC2](http://www.win-vector.com/blog/2018/01/setting-up-rstudio-server-quickly-on-amazon-ec2/)
+
++ [Sketchnotes from TWiML&AI #91: Philosophy of Intelligence with Matthew Crosby](https://shirinsplayground.netlify.com/2018/01/twimlai91/)
+
++ [RStudio Addin Manager](https://yonicd.netlify.com/post/rsam/)
+
++ [Base R can be Fast](http://www.win-vector.com/blog/2018/01/base-r-can-be-fast/)
+
++ [Can't Stop at 21: Twitter Recipe #22 — Tying Up Loose Threads](https://rud.is/b/2018/01/15/cant-stop-at-21-twitter-recipe-22-tying-up-loose-threads/)
+
++ [Exploring Global Trends in Tuberculosis Incidence Rates - with GetTBinR](http://www.samabbott.co.uk/post/intro-gettbinr/)
+
++ [Why you should use Linux for Data Science and R](https://pat-s.github.io/post/windows_vs_linux/)
+
++ [Combining the new {rtweet} and {tidytext}](http://colinfay.me/rtweet-tidytext/)
+
++ [5 Things I Learned Making a Package to Work with Hydrometric Data in R](https://ropensci.org/blog/2018/01/16/tidyhydat/)
+
++ [How to make your machine learning model available as an API with the plumber package](https://shirinsplayground.netlify.com/2018/01/plumber/)
+
++ [Extracting data from Twitter for @hrbrmstr's #nom foodie images](http://jasdumas.github.io/2018-01-16-twitter-bobs-noms/)
+
++ [A simple way to set up a SparklyR cluster on Azure](http://blog.revolutionanalytics.com/2018/01/azure-sparklyr-aztk.html)
+
++ [dsmartr: My first R package, and some thoughts on learning to code](https://obrl-soil.github.io/dsmartr-announcement/)
+
++ [fulltext v1: text-mining scholarly works](https://ropensci.org/technotes/2018/01/17/fulltext-v1/)
+
++ [Data Reshaping with cdata](http://www.win-vector.com/blog/2018/01/data-reshaping-with-cdata/)
+
++ [A Shiny interactive web application to quantify how robust inferences are to potential sources of bias (sensitivity analysis)](https://jrosen48.github.io/blog/a-shiny-interactive-web-application-to-quantify-how-robust-inferences-are-to-potential-sources-of-bias-sensitivity-analysis/)
+
++ [Importance sampling adds an interesting twist to Monte Carlo simulation](https://www.rdatagen.net/post/importance-sampling-adds-a-little-excitement-to-monte-carlo-simulation/)
+
++ [Migrating from Xcelsius Dashboards on a Budget](https://www.blog.cultureofinsight.com/2018/01/migrating-from-xcelsius-dashboards-on-a-budget/)
+
++ [Package Management for Reproducible R Code](https://rviews.rstudio.com/2018/01/18/package-management-for-reproducible-r-code/)
+
++ [Drilling into non-rectangular data with purrr](https://rensa.co/writing/drilling-into-non-rectangular-data-with-purrr/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
