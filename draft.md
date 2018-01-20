@@ -53,6 +53,10 @@ Release Date: 2018-1-22
 
 + [Which civil and political rights do countries violate? ](http://rayms.github.io/2018-01-13-civil-political-rights/)
 
++ [UFO Sightings Analysis](https://brennonborbon.wordpress.com/2018/01/20/ufo-sightings-analysis/)
+
++ [The Friday #rstats PuzzleR : 2018-01-19](https://rud.is/b/2018/01/19/the-friday-rstats-puzzler-2018-01-19/)
+
 ###  R in Organizations
 
 
@@ -218,6 +222,8 @@ Release Date: 2018-1-22
 
 + [Exploring Sentiment Analysis](https://medium.com/@rblog/exploring-sentiment-analysis-a6b53b026131)
 
++ [Visualizing effects of a categorical explanatory variable in a regression](https://freakonometrics.hypotheses.org/51882)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
@@ -291,4 +297,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a><br>I&#39;m currently gathering all the pieces of code I have scattered other the web into a &quot;purrr cookbook&quot;. <br>Are there any specific receipes you&#39;d like see in it? <a href="https://t.co/4n4EkRbedm">pic.twitter.com/4n4EkRbedm</a></p>&mdash; Colin Fay (@_ColinFay) <a href="https://twitter.com/_ColinFay/status/954468596041777152?ref_src=twsrc%5Etfw">19 de gener de 2018</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">I’ve been working on a style guide for <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> error messages at <a href="https://t.co/BENuYtGtrL">https://t.co/BENuYtGtrL</a> — we’ll be using this for new messages and slowly updating existing across the tidyverse. Hopefully also useful for your own code!</p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/954703562315051009?ref_src=twsrc%5Etfw">20 de gener de 2018</a></blockquote>
 
