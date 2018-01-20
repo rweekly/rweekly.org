@@ -129,6 +129,7 @@ Release Date: 2018-1-22
 
 + [A Shiny interactive web application to quantify how robust inferences are to potential sources of bias (sensitivity analysis) ](https://jrosen48.github.io/blog/a-shiny-interactive-web-application-to-quantify-how-robust-inferences-are-to-potential-sources-of-bias-sensitivity-analysis/)
 
++ [Bingo card generator](https://daattali.com/shiny/bingo/)
 
 ### R Internationally
 
@@ -168,7 +169,7 @@ Release Date: 2018-1-22
 
 + [Basic Time-Series Analysis, the Game](http://blog.mindymallory.com/2018/01/basic-time-series-analysis-the-game/)
 
-
++ [Mapping a list of functions to a list of datasets with a list of columns as arguments](http://www.brodrigues.co/blog/2018-01-19-mapping_functions_with_any_cols/)
 
 + [Services and tools for building intelligent R applications in the cloud](http://blog.revolutionanalytics.com/2018/01/r-cloud-tools.html)
 
@@ -214,6 +215,8 @@ Release Date: 2018-1-22
 + [Package Management for Reproducible R Code](https://rviews.rstudio.com/2018/01/18/package-management-for-reproducible-r-code/)
 
 + [Drilling into non-rectangular data with purrr](https://rensa.co/writing/drilling-into-non-rectangular-data-with-purrr/)
+
++ [Exploring Sentiment Analysis](https://medium.com/@rblog/exploring-sentiment-analysis-a6b53b026131)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -285,3 +288,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">That I can just look up &#39;&lt;difficult thing I have no idea how to do&gt; tutorial in R&#39; and find like 8 in-depth blog posts makes me confident <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> is the best.</p>&mdash; danny (@dataframing) <a href="https://twitter.com/dataframing/status/953115551060066304?ref_src=twsrc%5Etfw">16 de gener de 2018</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">I still can’t get over the fact that my province publishes <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> packages  on CRAN and has 243 <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a> repos. <a href="https://t.co/DjU066CuSf">https://t.co/DjU066CuSf</a></p>&mdash; Jenny Bryan (@JennyBryan) <a href="https://twitter.com/JennyBryan/status/954251663086256128?ref_src=twsrc%5Etfw">19 de gener de 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a><br>I&#39;m currently gathering all the pieces of code I have scattered other the web into a &quot;purrr cookbook&quot;. <br>Are there any specific receipes you&#39;d like see in it? <a href="https://t.co/4n4EkRbedm">pic.twitter.com/4n4EkRbedm</a></p>&mdash; Colin Fay (@_ColinFay) <a href="https://twitter.com/_ColinFay/status/954468596041777152?ref_src=twsrc%5Etfw">19 de gener de 2018</a></blockquote>
+
+
