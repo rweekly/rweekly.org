@@ -224,6 +224,9 @@ Release Date: 2018-1-22
 
 + [Visualizing effects of a categorical explanatory variable in a regression](https://freakonometrics.hypotheses.org/51882)
 
++ [General Linear Models: The Basics](http://www.seascapemodels.org/rstats/2018/01/19/intro-to-glms.html)
+
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
