@@ -116,6 +116,8 @@ Release Date: 2018-1-22
 
 + [digest 0.6.14](http://dirk.eddelbuettel.com/blog/2018/01/14#digest_0.6.14)
 
++ [listenv 0.7.0](https://cran.r-project.org/package=listenv) - List environments are environments that have list-like properties. Now with copy-free dropping of elements and convient setup of listenv matrices and arrays.
+
 + [Microsoft R Open 3.4.3 now available](http://blog.revolutionanalytics.com/2018/01/microsoft-r-open-343-now-available.html)
 
 ###  Videos and Podcasts
