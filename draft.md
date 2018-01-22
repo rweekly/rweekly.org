@@ -64,6 +64,9 @@ Release Date: 2018-1-29
 
 
 
++ [General Linear Models: The Basics](http://www.seascapemodels.org/rstats/2018/01/19/intro-to-glms.html)
+
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
