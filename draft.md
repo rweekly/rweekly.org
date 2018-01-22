@@ -20,7 +20,7 @@ Release Date: 2018-1-29
 
 + [Streets of Helsinki](http://tuijasonkkila.fi/blog/2018/01/streets-of-helsinki/)
 
-
++ [Please like me (scraping the web)](https://emmavestesson.netlify.com/2018/01/please-like-me/)
 
 ###  R in Organizations
 
