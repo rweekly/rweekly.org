@@ -53,6 +53,8 @@ Release Date: 2018-1-22
 
 + [Which civil and political rights do countries violate? ](http://rayms.github.io/2018-01-13-civil-political-rights/)
 
+
+
 ###  R in Organizations
 
 
@@ -217,6 +219,24 @@ Release Date: 2018-1-22
 + [Drilling into non-rectangular data with purrr](https://rensa.co/writing/drilling-into-non-rectangular-data-with-purrr/)
 
 + [Exploring Sentiment Analysis](https://medium.com/@rblog/exploring-sentiment-analysis-a6b53b026131)
+
++ [Bitcoin (World Map) Bubbles](https://rud.is/b/2018/01/18/bitcoin-world-map-bubbles/)
+
++ [Registration and talk proposals now open for useR!2018](http://blog.revolutionanalytics.com/2018/01/user2018-reg-open.html)
+
++ [Sketchnotes from TWiML&AI #92: Learning State Representations with Yael Niv](https://shirinsplayground.netlify.com/2018/01/twimlai92/)
+
++ [The Friday #rstats PuzzleR : 2018-01-19](https://rud.is/b/2018/01/19/the-friday-rstats-puzzler-2018-01-19/)
+
++ [Because it's Friday: Principles and Values](http://blog.revolutionanalytics.com/2018/01/because-its-friday-principles-and-values.html)
+
++ [Registration and talk proposals open Monday for useR!2018](http://blog.revolutionanalytics.com/2018/01/user2018-reg-open.html)
+
++ [Teaching Shiny](http://kgilds.rbind.io/2018/01/19/shiny-for-teaching/)
+
++ [The Data Analyst as Wanderer: Pre-Exploratory Data Analysis with R](https://daranzolin.github.io/articles/2018-01/preeda)
+
++ [Back To The DT Package After Two Years](https://yihui.name/en/2018/01/back-to-dt/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
