@@ -18,6 +18,7 @@ Release Date: 2018-1-29
 
 ### R in Real World
 
++ [Streets of Helsinki](http://tuijasonkkila.fi/blog/2018/01/streets-of-helsinki/)
 
 
 
