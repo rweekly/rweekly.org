@@ -45,6 +45,7 @@ Release Date: 2018-1-29
 
 ### Package Releases
 
++ [listenv 0.7.0](https://cran.r-project.org/package=listenv) - List environments are environments that have list-like properties. Now with copy-free dropping of elements and convient setup of listenv matrices and arrays.
 
 
 ###  Videos and Podcasts
