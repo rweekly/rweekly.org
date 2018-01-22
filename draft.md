@@ -13,7 +13,7 @@ Release Date: 2018-1-29
 
 ### Insights
 
-
++ [Imposterism in Data Science: Addressing the credentials problem](https://medium.com/@taraskaduk/imposterism-in-data-science-f96c29ae96ce)
 
 
 ### R in Real World
