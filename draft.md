@@ -76,6 +76,8 @@ Release Date: 2018-1-29
 
 + [General Linear Models: The Basics](http://www.seascapemodels.org/rstats/2018/01/19/intro-to-glms.html)
 
++ [Reversing the order of a ggplot2 legend](https://aosmith.rbind.io/2018/01/19/reversing-the-order-of-a-ggplot2-legend/)
+
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
