@@ -29,6 +29,8 @@ Release Date: 2018-1-29
 
 + [Looking at heat-related 311 reports in Boston homes](http://katiejolly.io/blog/2018-01-22/heat-reports-boston)
 
++ [The Postmortem Airtime effect: Which artist beat The Cranberries in air time after the news broke of his/her death?](https://suzanbaert.netlify.com/2018/01/postmortemplaylist/)
+
 ###  R in Organizations
 
 
