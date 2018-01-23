@@ -53,7 +53,7 @@ Release Date: 2018-1-29
 
 ###  Videos and Podcasts
 
-
++ [Video record of pdxrlang meetup: Andrew Bray and Chester Ismay - `infer`: a package for tidy statistical inference](https://www.youtube.com/watch?v=kTGtgO2WcAw)
 
 ###  Resources
 
