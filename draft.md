@@ -17,6 +17,10 @@ Release Date: 2018-1-29
 
 + [A set.seed() + ggplot2 adventure](http://livefreeordichotomize.com/2018/01/22/a-set-seed-ggplot2-adventure/)
 
++ [How to recruit data analysts for the public sector](http://ellisp.github.io/blog/2018/01/23/recruiting)
+
++ [Ecology Hackathon at Ecology Across Borders 2017](https://methodsblog.wordpress.com/2018/01/23/ecology-hackathon/)
+
 ### R in Real World
 
 + [Streets of Helsinki](http://tuijasonkkila.fi/blog/2018/01/streets-of-helsinki/)
