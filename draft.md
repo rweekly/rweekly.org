@@ -31,13 +31,15 @@ Release Date: 2018-1-29
 
 + [The Postmortem Airtime effect: Which artist beat The Cranberries in air time after the news broke of his/her death?](https://suzanbaert.netlify.com/2018/01/postmortemplaylist/)
 
++ [Where did my ancestors live?](https://genesandhistory.wordpress.com/2018/01/23/where-did-my-ancestors-live/)
+
 ###  R in Organizations
 
 
 
 ###  R in Academia
 
-
++ [Wealth Inequality Exercise](http://seankross.com/notes/modeling-inequality/)
 
 ###  New Packages
 
