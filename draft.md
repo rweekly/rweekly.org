@@ -55,6 +55,8 @@ Release Date: 2018-1-29
 
 + [Video record of pdxrlang meetup: Andrew Bray and Chester Ismay - `infer`: a package for tidy statistical inference](https://www.youtube.com/watch?v=kTGtgO2WcAw)
 
++ [DataFramed DataCamp’s official podcast. Presented by Hugo Bowne-Anderson.](https://www.datacamp.com/community/podcast) launched with 6 episodes.
+
 ###  Resources
 
 
