@@ -15,6 +15,7 @@ Release Date: 2018-1-29
 
 + [Imposterism in Data Science: Addressing the credentials problem](https://medium.com/@taraskaduk/imposterism-in-data-science-f96c29ae96ce)
 
++ [A set.seed() + ggplot2 adventure](http://livefreeordichotomize.com/2018/01/22/a-set-seed-ggplot2-adventure/)
 
 ### R in Real World
 
