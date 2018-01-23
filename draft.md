@@ -22,6 +22,8 @@ Release Date: 2018-1-29
 
 + [Please like me (scraping the web)](https://emmavestesson.netlify.com/2018/01/please-like-me/)
 
++ [Looking at heat-related 311 reports in Boston homes](http://katiejolly.io/blog/2018-01-22/heat-reports-boston)
+
 ###  R in Organizations
 
 
