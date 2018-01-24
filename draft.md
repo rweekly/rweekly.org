@@ -76,12 +76,13 @@ Release Date: 2018-1-29
 
 ###  Tutorials
 
-
-
 + [General Linear Models: The Basics](http://www.seascapemodels.org/rstats/2018/01/19/intro-to-glms.html)
 
 + [Reversing the order of a ggplot2 legend](https://aosmith.rbind.io/2018/01/19/reversing-the-order-of-a-ggplot2-legend/)
 
++ [Getting Going with Blogdown & Hugo](https://mltconsecol.github.io/post/20170123_blogdown_hugo/)
+
++ [Use git to Blog(down) About Your Projects](https://timmastny.rbind.io/blog/git-blogdown-projects-workflow/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -143,4 +144,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Thanks, On CRAN now.<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/EC2kPio7ex">https://t.co/EC2kPio7ex</a></p>&mdash; Doctorb Zhian N. Kamvar (@ZKamvar) <a href="https://twitter.com/ZKamvar/status/955962511437762560?ref_src=twsrc%5Etfw">24 de gener de 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> folk: as hinted at abt 45d ago, tag ur GH repos r | rstats | &amp;topic-specific ones (I think <a href="https://twitter.com/rOpenSci?ref_src=twsrc%5Etfw">@ropensci</a> is watching for task views too) <a href="https://t.co/Qvxm4rR1f7">https://t.co/Qvxm4rR1f7</a></p>&mdash; b❄️B Rudis (a.k.a. hrbrcoin) (@hrbrmstr) <a href="https://twitter.com/hrbrmstr/status/955935044027248642?ref_src=twsrc%5Etfw">23 de gener de 2018</a></blockquote>
 
