@@ -84,6 +84,10 @@ Release Date: 2018-1-29
 
 + [Use git to Blog(down) About Your Projects](https://timmastny.rbind.io/blog/git-blogdown-projects-workflow/)
 
++ [https://www.hvitfeldt.me/2018/01/visualizing-trigrams-with-the-tidyverse/](https://www.hvitfeldt.me/2018/01/visualizing-trigrams-with-the-tidyverse/)
+
++ [Exploring handwritten digit classification: a tidy analysis of the MNIST dataset](http://varianceexplained.org/r/digit-eda/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
