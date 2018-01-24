@@ -21,7 +21,7 @@ Release Date: 2018-1-29
 
 + [Ecology Hackathon at Ecology Across Borders 2017](https://methodsblog.wordpress.com/2018/01/23/ecology-hackathon/)
 
-+ [nterview with Roger Peng](https://user2018.r-project.org/blog/2018/01/24/interview-with-roger-peng/)
++ [Interview with Roger Peng](https://user2018.r-project.org/blog/2018/01/24/interview-with-roger-peng/)
 
 + [Can (a==1 && a==2 && a==3) ever evaluate to true? ](http://colinfay.me/active-binding-r-enigma/)
 
