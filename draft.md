@@ -137,7 +137,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-
++ [Data scientist/predictive modeler at growing media company (Germany)](https://mitarbeiterwerben.vnrag.de/de/candidate/job/jrwFFvhzl2/B8iARla0e)
 
 ###  Call for Participation
 
