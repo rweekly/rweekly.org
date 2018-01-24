@@ -35,7 +35,9 @@ Release Date: 2018-1-29
 
 + [The Postmortem Airtime effect: Which artist beat The Cranberries in air time after the news broke of his/her death?](https://suzanbaert.netlify.com/2018/01/postmortemplaylist/)
 
-+ [Where did my ancestors live?](https://genesandhistory.wordpress.com/2018/01/23/where-did-my-ancestors-live/)
++ [Where did my ancestors live?](https://genesandhistory.wordpress.com/2018/01/23/where-did-my-ancestors-live/)  
+
++ [Defiblocator](https://deanmarchiori.github.io/2017-12-12-defiblocator/) - Crowd Sourced and Community Maintained Defibrillator Locations using R
 
 ###  R in Organizations
 
