@@ -21,6 +21,8 @@ Release Date: 2018-1-29
 
 + [Ecology Hackathon at Ecology Across Borders 2017](https://methodsblog.wordpress.com/2018/01/23/ecology-hackathon/)
 
++ [nterview with Roger Peng](https://user2018.r-project.org/blog/2018/01/24/interview-with-roger-peng/)
+
 ### R in Real World
 
 + [Streets of Helsinki](http://tuijasonkkila.fi/blog/2018/01/streets-of-helsinki/)
