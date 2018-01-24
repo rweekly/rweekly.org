@@ -141,6 +141,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 + [Data scientist/predictive modeler at growing media company (Germany)](https://mitarbeiterwerben.vnrag.de/de/candidate/job/jrwFFvhzl2/B8iARla0e)
 
++ [Job Opening at ThinkR - France](https://thinkr.fr/rejoindre-thinkr/)
+
 ###  Call for Participation
 
 + [Advancing computational and data literacy skills schools for life scientists](http://www.nhm.ac.uk/our-science/courses-and-students/advancing-computational-and-data-literacy-for-life-scientists.html): A five day course, 4-8th June 2018, Application deadline: 20 March 2018, Cost: £400 per student (including 5 nights accommodation in London, travel allowance, breakfast, lunch and tea/coffee)
