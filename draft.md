@@ -23,6 +23,8 @@ Release Date: 2018-1-29
 
 + [nterview with Roger Peng](https://user2018.r-project.org/blog/2018/01/24/interview-with-roger-peng/)
 
++ [Can (a==1 && a==2 && a==3) ever evaluate to true? ](http://colinfay.me/active-binding-r-enigma/)
+
 ### R in Real World
 
 + [Streets of Helsinki](http://tuijasonkkila.fi/blog/2018/01/streets-of-helsinki/)
@@ -90,11 +92,13 @@ Release Date: 2018-1-29
 
 + [Exploring handwritten digit classification: a tidy analysis of the MNIST dataset](http://varianceexplained.org/r/digit-eda/)
 
++ [Analyse #trend Twitter Data With rtweet Package from R](https://brennonborbon.wordpress.com/2018/01/23/analyse-trend-twitter-data-with-rtweet-package-from-r/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
 
-
++ [Fundamentals of Data Visualization](http://serialmentor.com/blog/2018/1/23/fundamentals-of-data-visualization)
 
 ###  R Project Updates
 
