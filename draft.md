@@ -96,6 +96,8 @@ Release Date: 2018-1-29
 
 + [Analyse #trend Twitter Data With rtweet Package from R](https://brennonborbon.wordpress.com/2018/01/23/analyse-trend-twitter-data-with-rtweet-package-from-r/)
 
++ [A gRadual Introduction to Shiny](http://laderast.github.io/2018/01/23/gradual-introduction-to-shiny/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
