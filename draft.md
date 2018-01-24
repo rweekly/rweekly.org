@@ -98,6 +98,8 @@ Release Date: 2018-1-29
 
 + [A gRadual Introduction to Shiny](http://laderast.github.io/2018/01/23/gradual-introduction-to-shiny/)
 
++ [R-Ladies Presentation Ninja: use the R-Ladies theme for slides made in R Markdown with the xaringan package](https://alison.rbind.io/post/r-ladies-slides/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
