@@ -70,6 +70,7 @@ Release Date: 2018-1-29
 
 + [listenv 0.7.0](https://cran.r-project.org/package=listenv) - List environments are environments that have list-like properties. Now with copy-free dropping of elements and convient setup of listenv matrices and arrays.
 
++ [srvyr 0.3.0](https://cran.r-project.org/package=srvyr) - srvyr is a wrapper around the survey package that lets you analyze complex survey data using dplyr's grammar. It's been updated to use dplyr's new non-standard evaluation style and have faster and less buggy database support.
 
 ###  Videos and Podcasts
 
