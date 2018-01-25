@@ -25,6 +25,8 @@ Release Date: 2018-1-29
 
 + [Can (a==1 && a==2 && a==3) ever evaluate to true? ](http://colinfay.me/active-binding-r-enigma/)
 
++ [Educational Distrust — Empathetic Interactions with Reluctant or Combative Learners](https://medium.com/@kelly.obriant/educational-distrust-empathetic-interactions-with-reluctant-or-combative-learners-aac94f3a6e76)
+
 ### R in Real World
 
 + [Streets of Helsinki](http://tuijasonkkila.fi/blog/2018/01/streets-of-helsinki/)
