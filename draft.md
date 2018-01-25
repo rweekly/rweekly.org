@@ -61,6 +61,8 @@ Release Date: 2018-1-29
 
 **GitHub only**
 
++ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [knitrProgressBar](https://github.com/rmflight/knitrProgressBar) - Provides a progress bar that can write to a variety of locations, including stdout, stderr, or a file. Useful when using `knitr` or `rmarkdown::render` and you still want to see progress of calculations in the terminal.
+
 
 
 
