@@ -74,6 +74,8 @@ Release Date: 2018-1-29
 
 + [srvyr 0.3.0](https://cran.r-project.org/package=srvyr) - srvyr is a wrapper around the survey package that lets you analyze complex survey data using dplyr's grammar. It's been updated to use dplyr's new non-standard evaluation style and have faster and less buggy database support.
 
++ [cleanNLP 2.0.3](https://cran.r-project.org/package=cleanNLP) - cleanNLP is designed to make it as painless as possible to turn raw text into feature-rich data frames. The updated version includes a new backend (udpipe) for part of speech tags and parsing with no external dependencies. See the [cleanNLP 2.0: Quickstart Guide](https://statsmaths.github.io/blog/cleanNLP2-quickstart/) for more details.
+
 ###  Videos and Podcasts
 
 + [Video record of pdxrlang meetup: Andrew Bray and Chester Ismay - `infer`: a package for tidy statistical inference](https://www.youtube.com/watch?v=kTGtgO2WcAw)
