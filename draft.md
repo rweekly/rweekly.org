@@ -73,6 +73,8 @@ Release Date: 2018-1-29
 
 + [DataFramed DataCamp’s official podcast. Presented by Hugo Bowne-Anderson.](https://www.datacamp.com/community/podcast) launched with 6 episodes.
 
++ [Topic modeling with R and tidy data principles](https://youtu.be/evTuL-RcRpc)
+
 ###  Resources
 
 
@@ -102,11 +104,15 @@ Release Date: 2018-1-29
 
 + [R-Ladies Presentation Ninja: use the R-Ladies theme for slides made in R Markdown with the xaringan package](https://alison.rbind.io/post/r-ladies-slides/)
 
++ [The game is afoot! Topic modeling of Sherlock Holmes stories ](https://juliasilge.com/blog/sherlock-holmes-stm/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
 
 + [Fundamentals of Data Visualization](http://serialmentor.com/blog/2018/1/23/fundamentals-of-data-visualization)
+
++ [R port of the Leaflet.Terminator.js plugin to show day / night regions on a map ](https://github.com/JoGall/terminator)
 
 ###  R Project Updates
 
