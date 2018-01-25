@@ -41,6 +41,8 @@ Release Date: 2018-1-29
 
 + [Exploring lime on the house prices dataset](http://blog.haunschmid.name/lime-on-regression-model-house-prices/)
 
++ [Tidy Text Mining Beer Reviews](http://kaylinwalker.com/tidy-text-beer/)
+
 ###  R in Organizations
 
 
