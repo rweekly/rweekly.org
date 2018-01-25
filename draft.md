@@ -39,6 +39,8 @@ Release Date: 2018-1-29
 
 + [Defiblocator](https://deanmarchiori.github.io/2017-12-12-defiblocator/) - Crowd Sourced and Community Maintained Defibrillator Locations using R
 
++ [Exploring lime on the house prices dataset](http://blog.haunschmid.name/lime-on-regression-model-house-prices/)
+
 ###  R in Organizations
 
 
