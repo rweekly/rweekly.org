@@ -29,6 +29,8 @@ Release Date: 2018-1-29
 
 + [Ending the Terror of R Errors](https://methodsblog.wordpress.com/2018/01/26/r-errors/)
 
++ [Geocomputation with R - the intermission](https://nowosad.github.io/post/geocomputation-with-r-the-intermission/)
+
 ### R in Real World
 
 + [Streets of Helsinki](http://tuijasonkkila.fi/blog/2018/01/streets-of-helsinki/)
