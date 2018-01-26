@@ -27,6 +27,8 @@ Release Date: 2018-1-29
 
 + [Educational Distrust — Empathetic Interactions with Reluctant or Combative Learners](https://medium.com/@kelly.obriant/educational-distrust-empathetic-interactions-with-reluctant-or-combative-learners-aac94f3a6e76)
 
++ [Ending the Terror of R Errors](https://methodsblog.wordpress.com/2018/01/26/r-errors/)
+
 ### R in Real World
 
 + [Streets of Helsinki](http://tuijasonkkila.fi/blog/2018/01/streets-of-helsinki/)
