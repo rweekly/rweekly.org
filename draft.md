@@ -88,6 +88,8 @@ Release Date: 2018-1-29
 
 + [Topic modeling with R and tidy data principles](https://youtu.be/evTuL-RcRpc)
 
++ [NSSD No.52：Expense Reporting Masterpiece](http://nssdeviations.com/52-expense-reporting-masterpiece):Hilary and Roger welcome the new year by discussing Excel (again), why talking to people who generate data matters, meditation and neuroscience, and trust vs. quality in data analysis.
+
 ###  Resources
 
 
