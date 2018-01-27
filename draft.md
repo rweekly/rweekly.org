@@ -51,6 +51,8 @@ Release Date: 2018-1-29
 
 + [The game is afoot! Topic modeling of Sherlock Holmes stories](https://juliasilge.com/blog/sherlock-holmes-stm/)
 
+![The game is afoot! Topic modeling of Sherlock Holmes stories](https://juliasilge.com/blog/2018/2018-01-25-sherlock-holmes-stm_files/figure-html/unnamed-chunk-3-1.png)
+
 ###  R in Organizations
 
 
@@ -67,6 +69,7 @@ Release Date: 2018-1-29
 
 + [rsMove](https://cran.r-project.org/web/packages/rsMove/vignettes/rsMove.html) - Supporting animal movement ecologist in handling remote sensing data and in combining it with animal movement data.
 
++ [Dec 2017: "Top 40" New Package Picks](https://rviews.rstudio.com/2018/01/25/dec-2017-new-package-picks/)
 
 **GitHub only**
 
@@ -103,16 +106,15 @@ Release Date: 2018-1-29
 
 ###  Resources
 
-
++ [Slides for an introductory workshop on using R as a Geographic Information System (GIS) for manipulating and visualizing spatial data (maps).](https://pakillo.github.io/GISwithR/)
 
 ### R Internationally
 
-
-
 + [Spanish: Mapping and analyzing taxi trips data with R, finding evidence of foul play (dplyr, ggplot, sf)](https://bitsandbricks.github.io/post/taxis-en-buenos-aires-mapas-claros-y-negocios-turbios/)
 
-
 ###  Tutorials
+
++ [Galentine's day cards](http://www.masalmon.eu/2018/01/26/galentinesday/)
 
 + [General Linear Models: The Basics](http://www.seascapemodels.org/rstats/2018/01/19/intro-to-glms.html)
 
@@ -128,11 +130,13 @@ Release Date: 2018-1-29
 
 + [Analyse #trend Twitter Data With rtweet Package from R](https://brennonborbon.wordpress.com/2018/01/23/analyse-trend-twitter-data-with-rtweet-package-from-r/)
 
+![Analyse #trend Twitter Data With rtweet Package from R](https://brennonborbon.files.wordpress.com/2018/01/network.png)
+
 + [A gRadual Introduction to Shiny](http://laderast.github.io/2018/01/23/gradual-introduction-to-shiny/)
 
 + [R-Ladies Presentation Ninja: use the R-Ladies theme for slides made in R Markdown with the xaringan package](https://alison.rbind.io/post/r-ladies-slides/)
 
-+ [A tutorial post on building a drag and drop data input interface using shiny and R](https://https://pradeepadhokshaja.wordpress.com/2018/01/25/building-a-shiny-app-with-drag-and-drop-data-interface/)
++ [A tutorial post on building a drag and drop data input interface using shiny and R](https://pradeepadhokshaja.wordpress.com/2018/01/25/building-a-shiny-app-with-drag-and-drop-data-interface/)
 
 + [A shiny application to explore student and teacher diversity in California]( https://daranzolin.shinyapps.io/ca-school-districts-diversity/)
 
@@ -144,21 +148,19 @@ Release Date: 2018-1-29
 
 + [Fun little machine learning adventure/tutorial to predict winners of the  TV show 'Drop the Mic'](https://www.brucemeng.ca/post/drop-the-mic-machine-learning-part-2/)
 
-+ [Personal blog. Besides food and travel, the RCatLady Verena is writing about data science, programming and R.](http://blog.haunschmid.name/tag/r-bloggers/feed/)
-
 + [The ggplot2 categorical variable order is controlled by factor level order. This brief blog post shows you how to re-order this for flipping the order of ggplot scatterplot](https://medium.com/@MattOldach_65321/reversing-the-order-of-axis-in-a-ggplot2-scatterplot-b1d729b89118)
 
-+ [Slides for an introductory workshop on using R as a Geographic Information System (GIS) for manipulating and visualizing spatial data (maps).](https://pakillo.github.io/GISwithR/)
+![The ggplot2 categorical variable ](https://cdn-images-1.medium.com/max/2000/1*42mHsujd24qN2D1calFGmA.jpeg)
 
 + [Cartographic Explorations of the OpenStreetMap Database with R](https://rgeomatic.hypotheses.org/1244)
+
+![Cartographic Explorations of the OpenStreetMap Database with R](https://rgeomatic.hypotheses.org/files/2018/01/cartOSM.png)
 
 + [learn how to analyze animal movement and remote sensing using #rstats  - #AniMove summerschool www.animove.org](http://animove.org/courses/animove-2018/)
 
 + [Programmatically generate and save ggplot outputs to be used as image data to train neural networks for binary classification with Keras/TensorFlow](https://www.gokhanciflikli.com/post/keras-conflict/)
 
 + [A summary of getting started with hugo via blogdown, using github pages. ](https://mltconsecol.github.io/post/20170123_blogdown_hugo/)
-
-+ [Feedburner feed for gokhanciflikli.com](http://feeds.feedburner.com/ciflikli)
 
 + [Article on implementing Deep learning in R using Keras and tensorflow packages for R.](https://towardsdatascience.com/how-to-implement-deep-learning-in-r-using-keras-and-tensorflow-82d135ae4889)
 
@@ -195,19 +197,13 @@ Release Date: 2018-1-29
 
 + [Some datasets for teaching data science](https://simplystatistics.org/2018/01/22/the-dslabs-package-provides-datasets-for-teaching-data-science/)
 
+![Some datasets for teaching data science](https://simplystatistics.org/post/2018-01-22-the-dslabs-package-provides-datasets-for-teaching-data-science_files/figure-html/gapminder-1.png)
+
 + [A break from our regular programming](http://www.win-vector.com/blog/2018/01/a-break-from-our-regular-programming/)
-
-+ [Le Monde puzzle [#1037]](https://xianblog.wordpress.com/2018/01/24/le-monde-puzzle-1037/)
-
-+ [Join MünsteR for our next meetup on obtaining functional implications of gene expression data with R](https://shirinsplayground.netlify.com/2018/01/meetup_march18/)
 
 + [Predicting Fraud with Autoencoders and Keras](https://tensorflow.rstudio.com/blog/keras-fraud-autoencoder.html)
 
 + [Mapping election observation globally](http://rayms.github.io/2018-01-24-mapping-election-observation-globally/)
-
-+ [Our blog has moved to cultureofinsight.com/blog](https://www.blog.cultureofinsight.com/2018/01/our-blog-has-moved-to-cultureofinsight-com-blog/)
-
-+ [Scraping a website with 5 lines of R code](http://blog.revolutionanalytics.com/2018/01/scraping-with-5-lines-r.html)
 
 + [Data Driven DIY](https://www.johnmackintosh.com/2018-01-20-data-driven-diy/)
 
@@ -217,13 +213,9 @@ Release Date: 2018-1-29
 
 + [Speed up simulations in R with doAzureParallel](http://blog.revolutionanalytics.com/2018/01/doazureparallel-simulations.html)
 
-+ [Dec 2017: "Top 40" New Package Picks](https://rviews.rstudio.com/2018/01/25/dec-2017-new-package-picks/)
-
 + [The Friday #rstats PuzzleR : 2018-01-26](https://rud.is/b/2018/01/26/the-friday-rstats-puzzler-2018-01-26/)
 
 + [R Function for Simulating Gaussian Processes](https://ntguardian.wordpress.com/2018/01/26/r-function-simulating-gaussian-processes/)
-
-+ [Galentine's day cards](http://www.masalmon.eu/2018/01/26/galentinesday/)
 
 + [Parametric Functional Approximate Bayesian (PFAB) algorithm](https://mattstats.wordpress.com/2018/01/27/pfab-algorithm/)
 
