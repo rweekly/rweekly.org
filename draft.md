@@ -140,7 +140,7 @@ Release Date: 2018-1-29
 
 + [A shiny application to explore student and teacher diversity in California]( https://daranzolin.shinyapps.io/ca-school-districts-diversity/)
 
-+ [Stochastic Shakespeare: Sonnets Produced by Markov Chains in R](https://rpubs.com/malcolmbarrett/shakespeare)
++ [Stochastic Shakespeare: Sonnets Produced by Markov Chains in R](https://malco.io/2018/01/28/shakespeare/)
 
 + [Download and Analyse #trend in twitter. Tutorial on rtweet package from R](https://brennonborbon.wordpress.com/2018/01/23/analyse-trend-twitter-data-with-rtweet-package-from-r/)
 
