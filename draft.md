@@ -49,7 +49,7 @@ Release Date: 2018-2-5
 
 ###  Resources
 
-
++ [Some good introductory machine learning resources in R](http://modernstatisticalworkflow.blogspot.co.za/2018/01/some-good-introductory-machine-learning.html)
 
 ### R Internationally
 
