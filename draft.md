@@ -13,7 +13,7 @@ Release Date: 2018-2-5
 
 ### Insights
 
-
++ [Introducing Maëlle Salmon, rOpenSci’s new Research Software Engineer](https://ropensci.org/blog/2018/01/29/rse-ma%C3%ABlle-salmon/)
 
 ### R in Real World
 
