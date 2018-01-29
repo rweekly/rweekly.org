@@ -31,6 +31,8 @@ Release Date: 2018-1-29
 
 + [Geocomputation with R - the intermission](https://nowosad.github.io/post/geocomputation-with-r-the-intermission/)
 
++ [Wrangling Data Day Texas Slides](http://livefreeordichotomize.com/2018/01/28/wrangling-data-day-texas-slides/)
+
 ### R in Real World
 
 + [Streets of Helsinki](http://tuijasonkkila.fi/blog/2018/01/streets-of-helsinki/)
