@@ -49,6 +49,8 @@ Release Date: 2018-2-5
 
 ###  Resources
 
++ [Wrangling Data Day Texas Slides](http://livefreeordichotomize.com/2018/01/28/wrangling-data-day-texas-slides/)
+
 + [Some good introductory machine learning resources in R](http://modernstatisticalworkflow.blogspot.co.za/2018/01/some-good-introductory-machine-learning.html)
 
 ### R Internationally
