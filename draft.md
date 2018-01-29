@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2018-5
+title: R Weekly 2018-6
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2018-1-29
+Release Date: 2018-2-5
 
 ###  Highlight
 
@@ -13,47 +13,11 @@ Release Date: 2018-1-29
 
 ### Insights
 
-+ [Imposterism in Data Science: Addressing the credentials problem](https://medium.com/@taraskaduk/imposterism-in-data-science-f96c29ae96ce)
 
-+ [A set.seed() + ggplot2 adventure](http://livefreeordichotomize.com/2018/01/22/a-set-seed-ggplot2-adventure/)
-
-+ [How to recruit data analysts for the public sector](http://ellisp.github.io/blog/2018/01/23/recruiting)
-
-+ [Ecology Hackathon at Ecology Across Borders 2017](https://methodsblog.wordpress.com/2018/01/23/ecology-hackathon/)
-
-+ [Interview with Roger Peng](https://user2018.r-project.org/blog/2018/01/24/interview-with-roger-peng/)
-
-+ [Can (a==1 && a==2 && a==3) ever evaluate to true? ](http://colinfay.me/active-binding-r-enigma/)
-
-+ [Educational Distrust — Empathetic Interactions with Reluctant or Combative Learners](https://medium.com/@kelly.obriant/educational-distrust-empathetic-interactions-with-reluctant-or-combative-learners-aac94f3a6e76)
-
-+ [Ending the Terror of R Errors](https://methodsblog.wordpress.com/2018/01/26/r-errors/)
-
-+ [Geocomputation with R - the intermission](https://nowosad.github.io/post/geocomputation-with-r-the-intermission/)
-
-+ [Wrangling Data Day Texas Slides](http://livefreeordichotomize.com/2018/01/28/wrangling-data-day-texas-slides/)
 
 ### R in Real World
 
-+ [Streets of Helsinki](http://tuijasonkkila.fi/blog/2018/01/streets-of-helsinki/)
 
-+ [Please like me (scraping the web)](https://emmavestesson.netlify.com/2018/01/please-like-me/)
-
-+ [Looking at heat-related 311 reports in Boston homes](http://katiejolly.io/blog/2018-01-22/heat-reports-boston)
-
-+ [The Postmortem Airtime effect: Which artist beat The Cranberries in air time after the news broke of his/her death?](https://suzanbaert.netlify.com/2018/01/postmortemplaylist/)
-
-+ [Where did my ancestors live?](https://genesandhistory.wordpress.com/2018/01/23/where-did-my-ancestors-live/)
-
-+ [Defiblocator](https://deanmarchiori.github.io/2017-12-12-defiblocator/) - Crowd Sourced and Community Maintained Defibrillator Locations using R
-
-+ [Exploring lime on the house prices dataset](http://blog.haunschmid.name/lime-on-regression-model-house-prices/)
-
-+ [Tidy Text Mining Beer Reviews](http://kaylinwalker.com/tidy-text-beer/)
-
-+ [The game is afoot! Topic modeling of Sherlock Holmes stories](https://juliasilge.com/blog/sherlock-holmes-stm/)
-
-![The game is afoot! Topic modeling of Sherlock Holmes stories](https://juliasilge.com/blog/2018/2018-01-25-sherlock-holmes-stm_files/figure-html/unnamed-chunk-3-1.png)
 
 ###  R in Organizations
 
@@ -61,7 +25,6 @@ Release Date: 2018-1-29
 
 ###  R in Academia
 
-+ [Wealth Inequality Exercise](http://seankross.com/notes/modeling-inequality/)
 
 ###  New Packages
 
@@ -69,173 +32,38 @@ Release Date: 2018-1-29
 
 **CRAN**
 
-+ [rsMove](https://cran.r-project.org/web/packages/rsMove/vignettes/rsMove.html) - Supporting animal movement ecologist in handling remote sensing data and in combining it with animal movement data.
 
-+ [Dec 2017: "Top 40" New Package Picks](https://rviews.rstudio.com/2018/01/25/dec-2017-new-package-picks/)
 
 **GitHub only**
 
-+ [knitrProgressBar](https://github.com/rmflight/knitrProgressBar) - Provides a progress bar that can write to a variety of locations, including stdout, stderr, or a file. Useful when using `knitr` or `rmarkdown::render` and you still want to see progress of calculations in the terminal.
 
 
 
 
 ### Package Releases
 
-+ [listenv 0.7.0](https://cran.r-project.org/package=listenv) - List environments are environments that have list-like properties. Now with copy-free dropping of elements and convient setup of listenv matrices and arrays.
 
-+ [srvyr 0.3.0](https://cran.r-project.org/package=srvyr) - srvyr is a wrapper around the survey package that lets you analyze complex survey data using dplyr's grammar. It's been updated to use dplyr's new non-standard evaluation style and have faster and less buggy database support.
-
-+ [cleanNLP 2.0.3](https://cran.r-project.org/package=cleanNLP) - cleanNLP is designed to make it as painless as possible to turn raw text into feature-rich data frames. The updated version includes a new backend (udpipe) for part of speech tags and parsing with no external dependencies. See the [cleanNLP 2.0: Quickstart Guide](https://statsmaths.github.io/blog/cleanNLP2-quickstart/) for more details.
-
-+ [Rcpp 0.12.15: Numerous tweaks and enhancements](http://dirk.eddelbuettel.com/blog/2018/01/20#rcpp_0.12.15)
-
-+ [Rblpapi 0.3.8: Strictly maintenance](http://dirk.eddelbuettel.com/blog/2018/01/22#rblpapi_0.3.8)
-
-+ [Latest vtreat up on CRAN](http://www.win-vector.com/blog/2018/01/latest-vtreat-up-on-cran/)
-
-+ [prrd 0.0.2: Many improvements](http://dirk.eddelbuettel.com/blog/2018/01/26#prrd_0.0.2)
 
 ###  Videos and Podcasts
 
-+ [Video record of pdxrlang meetup: Andrew Bray and Chester Ismay - `infer`: a package for tidy statistical inference](https://www.youtube.com/watch?v=kTGtgO2WcAw)
-
-+ [DataFramed DataCamp’s official podcast. Presented by Hugo Bowne-Anderson.](https://www.datacamp.com/community/podcast) launched with 6 episodes.
-
-+ [Topic modeling with R and tidy data principles](https://youtu.be/evTuL-RcRpc)
-
-+ [NSSD No.52：Expense Reporting Masterpiece](http://nssdeviations.com/52-expense-reporting-masterpiece):Hilary and Roger welcome the new year by discussing Excel (again), why talking to people who generate data matters, meditation and neuroscience, and trust vs. quality in data analysis.
 
 ###  Resources
 
-+ [Slides for an introductory workshop on using R as a Geographic Information System (GIS) for manipulating and visualizing spatial data (maps).](https://pakillo.github.io/GISwithR/)
+
 
 ### R Internationally
 
-+ [Spanish: Mapping and analyzing taxi trips data with R, finding evidence of foul play (dplyr, ggplot, sf)](https://bitsandbricks.github.io/post/taxis-en-buenos-aires-mapas-claros-y-negocios-turbios/)
+
 
 ###  Tutorials
 
-+ [Galentine's day cards](http://www.masalmon.eu/2018/01/26/galentinesday/)
 
-+ [General Linear Models: The Basics](http://www.seascapemodels.org/rstats/2018/01/19/intro-to-glms.html)
-
-+ [Reversing the order of a ggplot2 legend](https://aosmith.rbind.io/2018/01/19/reversing-the-order-of-a-ggplot2-legend/)
-
-+ [Getting Going with Blogdown & Hugo](https://mltconsecol.github.io/post/20170123_blogdown_hugo/)
-
-+ [Use git to Blog(down) About Your Projects](https://timmastny.rbind.io/blog/git-blogdown-projects-workflow/)
-
-+ [https://www.hvitfeldt.me/2018/01/visualizing-trigrams-with-the-tidyverse/](https://www.hvitfeldt.me/2018/01/visualizing-trigrams-with-the-tidyverse/)
-
-+ [Exploring handwritten digit classification: a tidy analysis of the MNIST dataset](http://varianceexplained.org/r/digit-eda/)
-
-+ [Analyse #trend Twitter Data With rtweet Package from R](https://brennonborbon.wordpress.com/2018/01/23/analyse-trend-twitter-data-with-rtweet-package-from-r/)
-
-![Analyse #trend Twitter Data With rtweet Package from R](https://brennonborbon.files.wordpress.com/2018/01/network.png)
-
-+ [A gRadual Introduction to Shiny](http://laderast.github.io/2018/01/23/gradual-introduction-to-shiny/)
-
-+ [R-Ladies Presentation Ninja: use the R-Ladies theme for slides made in R Markdown with the xaringan package](https://alison.rbind.io/post/r-ladies-slides/)
-
-+ [A tutorial post on building a drag and drop data input interface using shiny and R](https://pradeepadhokshaja.wordpress.com/2018/01/25/building-a-shiny-app-with-drag-and-drop-data-interface/)
-
-+ [A shiny application to explore student and teacher diversity in California]( https://daranzolin.shinyapps.io/ca-school-districts-diversity/)
-
-+ [Stochastic Shakespeare: Sonnets Produced by Markov Chains in R](https://malco.io/2018/01/28/shakespeare/)
-
-+ [Download and Analyse #trend in twitter. Tutorial on rtweet package from R](https://brennonborbon.wordpress.com/2018/01/23/analyse-trend-twitter-data-with-rtweet-package-from-r/)
-
-+ [Analyze a Luxembourgish fable called Renert](http://blog.rdata.lu/post/2018-01-22-analysis-of-the-renert-part-1/)
-
-+ [Fun little machine learning adventure/tutorial to predict winners of the  TV show 'Drop the Mic'](https://www.brucemeng.ca/post/drop-the-mic-machine-learning-part-2/)
-
-+ [The ggplot2 categorical variable order is controlled by factor level order. This brief blog post shows you how to re-order this for flipping the order of ggplot scatterplot](https://medium.com/@MattOldach_65321/reversing-the-order-of-axis-in-a-ggplot2-scatterplot-b1d729b89118)
-
-![The ggplot2 categorical variable ](https://cdn-images-1.medium.com/max/2000/1*42mHsujd24qN2D1calFGmA.jpeg)
-
-+ [Cartographic Explorations of the OpenStreetMap Database with R](https://rgeomatic.hypotheses.org/1244)
-
-![Cartographic Explorations of the OpenStreetMap Database with R](https://rgeomatic.hypotheses.org/files/2018/01/cartOSM.png)
-
-+ [learn how to analyze animal movement and remote sensing using #rstats  - #AniMove summerschool www.animove.org](http://animove.org/courses/animove-2018/)
-
-+ [Programmatically generate and save ggplot outputs to be used as image data to train neural networks for binary classification with Keras/TensorFlow](https://www.gokhanciflikli.com/post/keras-conflict/)
-
-+ [A summary of getting started with hugo via blogdown, using github pages. ](https://mltconsecol.github.io/post/20170123_blogdown_hugo/)
-
-+ [Article on implementing Deep learning in R using Keras and tensorflow packages for R.](https://towardsdatascience.com/how-to-implement-deep-learning-in-r-using-keras-and-tensorflow-82d135ae4889)
-
-+ [Machine learning exercise using R, the goal of which was to generate a prediction model based on the data collected by the human activity recognition research. ](http://rpubs.com/cyberosa/351359)
-
-+ [Which members of the European Parliament receive a number of RT and "favorite" that is disproportionate to the number of their seats?](https://www.europeandatajournalism.eu/eng/Tools-for-journalists/Quote-Finder/Quote-Finder-notes/Tweeting-above-their-weight)
-
-+ [Using purrr and modelr to bootstrap non-linear regressions to visualise uncertainty of predictions and calculate confidence intervals of estimated and derived parameters.](https://padpadpadpad.github.io/post/bootstrapping-non-linear-regressions-with-purrr/)
-
-+ [This post describes a possible workflow of developing shiny apps inside Docker containers, complete with continuous integration and testing.](http://tamaszilagyi.com/blog/dockerized-shiny-app-development/)
-
-
-+ [The Friday #rstats PuzzleR : 2018-01-19](https://rud.is/b/2018/01/19/the-friday-rstats-puzzler-2018-01-19/)
-
-+ [The Data Analyst as Wanderer: Pre-Exploratory Data Analysis with R](https://daranzolin.github.io/articles/2018-01/preeda)
-
-+ [Data Driven DIY](https://johnmackintosh.com/2018-01-20-data-driven-diy/)
-
-+ [Wrapping Access to Web-Services in R-functions.](http://flovv.github.io/Accessing_a_web_api/)
-
-+ [Advisory on Multiple Assignment dplyr::mutate() on Databases](http://www.win-vector.com/blog/2018/01/advisory-on-multiple-assignment-dplyrmutate-on-databases/)
-
-+ [Which country spends best on healthcare?](https://ozagordi.rbind.io/post/2018/01/21/which-country-spends-best-on-healthcare/)
-
-+ [#15: Tidyverse and data.table, sitting side by side ... (Part 1)](http://dirk.eddelbuettel.com/blog/2018/01/21#015_tidyverse_and_datatable_part_1)
-
-+ [The Postmortem Airtime Effect](https://suzanbaert.netlify.com/2018/01/postmortemplaylist/)
-
-+ [How to recruit data analysts for the public sector](http://ellisp.github.io/blog/2018/01/23/recruiting)
-
-+ [Can (a==1 && a==2 && a==3) ever evaluate to true?](http://colinfay.me/active-binding-r-enigma/)
-
-+ [Visualize your Strava routes with R](http://blog.revolutionanalytics.com/2018/01/strava-visualization.html)
-
-+ [Some datasets for teaching data science](https://simplystatistics.org/2018/01/22/the-dslabs-package-provides-datasets-for-teaching-data-science/)
-
-![Some datasets for teaching data science](https://simplystatistics.org/post/2018-01-22-the-dslabs-package-provides-datasets-for-teaching-data-science_files/figure-html/gapminder-1.png)
-
-+ [A break from our regular programming](http://www.win-vector.com/blog/2018/01/a-break-from-our-regular-programming/)
-
-+ [Predicting Fraud with Autoencoders and Keras](https://tensorflow.rstudio.com/blog/keras-fraud-autoencoder.html)
-
-+ [Mapping election observation globally](http://rayms.github.io/2018-01-24-mapping-election-observation-globally/)
-
-+ [Data Driven DIY](https://www.johnmackintosh.com/2018-01-20-data-driven-diy/)
-
-+ [Small multiple charts for length frequency distribution](http://jethroemmanuel.netlify.com/2018/01/25/small-multiple-charts-length-frequency-distribution/)
-
-+ [nodbi: the NoSQL Database Connector](https://ropensci.org/technotes/2018/01/25/nodbi/)
-
-+ [Speed up simulations in R with doAzureParallel](http://blog.revolutionanalytics.com/2018/01/doazureparallel-simulations.html)
-
-+ [The Friday #rstats PuzzleR : 2018-01-26](https://rud.is/b/2018/01/26/the-friday-rstats-puzzler-2018-01-26/)
-
-+ [R Function for Simulating Gaussian Processes](https://ntguardian.wordpress.com/2018/01/26/r-function-simulating-gaussian-processes/)
-
-+ [Parametric Functional Approximate Bayesian (PFAB) algorithm](https://mattstats.wordpress.com/2018/01/27/pfab-algorithm/)
-
-+ [Install RGtk2 From Source on macOS](https://yihui.name/en/2018/01/install-rgtk2-macos/)
-
-+ [Analyzing rtweet data with kerasformula](https://tensorflow.rstudio.com/blog/analyzing-rtweet-data-with-kerasformula.html)
-
-+ [Geocomputation with R - the intermission](https://nowosad.github.io/post/geocomputation-with-r-the-intermission/)
-
-+ [Where did my ancestors live?](https://genesandhistory.wordpress.com/2018/01/23/where-did-my-ancestors-live/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
 
-+ [Fundamentals of Data Visualization](http://serialmentor.com/blog/2018/1/23/fundamentals-of-data-visualization)
 
-+ [R port of the Leaflet.Terminator.js plugin to show day / night regions on a map ](https://github.com/JoGall/terminator)
 
 ###  R Project Updates
 
@@ -284,9 +112,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Thanks, On CRAN now.<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/EC2kPio7ex">https://t.co/EC2kPio7ex</a></p>&mdash; Doctorb Zhian N. Kamvar (@ZKamvar) <a href="https://twitter.com/ZKamvar/status/955962511437762560?ref_src=twsrc%5Etfw">24 de gener de 2018</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> folk: as hinted at abt 45d ago, tag ur GH repos r | rstats | &amp;topic-specific ones (I think <a href="https://twitter.com/rOpenSci?ref_src=twsrc%5Etfw">@ropensci</a> is watching for task views too) <a href="https://t.co/Qvxm4rR1f7">https://t.co/Qvxm4rR1f7</a></p>&mdash; b❄️B Rudis (a.k.a. hrbrcoin) (@hrbrmstr) <a href="https://twitter.com/hrbrmstr/status/955935044027248642?ref_src=twsrc%5Etfw">23 de gener de 2018</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Very excited to announce my latest project, a book on data visualization. Approximately half of the book is written, and all completed chapters are now available as online preview. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a><a href="https://t.co/PFHFJtkmwO">https://t.co/PFHFJtkmwO</a> <a href="https://t.co/gn1lAGZ21i">pic.twitter.com/gn1lAGZ21i</a></p>&mdash; Claus Wilke (@ClausWilke) <a href="https://twitter.com/ClausWilke/status/955875568481955842?ref_src=twsrc%5Etfw">23 de gener de 2018</a></blockquote>
 
