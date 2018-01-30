@@ -50,6 +50,7 @@ Release Date: 2018-2-5
 
 
 ### Package Releases
++ [geniusR](https://github.com/josiahparry/geniusr) Easily access song lyrics from Genius "hardwire for tidytext"
 
 
 
