@@ -9,7 +9,7 @@ Release Date: 2018-2-5
 
 ###  Highlight
 
-
++ [Bring on the R-Stars! A review of Data Day Texas 2018](https://www.littlemissdata.com/blog/ddtx18)
 
 ### Insights
 
@@ -68,7 +68,7 @@ Release Date: 2018-2-5
 
 ###  Tutorials
 
-
++ [Predictive Analytics Tutorial Using R](https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-1)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
