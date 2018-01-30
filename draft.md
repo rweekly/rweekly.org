@@ -13,7 +13,7 @@ Release Date: 2018-2-5
 
 ### Insights
 
-
++ [Introducing Maëlle Salmon, rOpenSci’s new Research Software Engineer](https://ropensci.org/blog/2018/01/29/rse-ma%C3%ABlle-salmon/)
 
 ### R in Real World
 
@@ -49,7 +49,9 @@ Release Date: 2018-2-5
 
 ###  Resources
 
++ [Wrangling Data Day Texas Slides](http://livefreeordichotomize.com/2018/01/28/wrangling-data-day-texas-slides/)
 
++ [Some good introductory machine learning resources in R](http://modernstatisticalworkflow.blogspot.co.za/2018/01/some-good-introductory-machine-learning.html)
 
 ### R Internationally
 
@@ -112,4 +114,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">NEW edition of the &quot;Steppy Graf&quot; chart to mark Federer&#39;s victory:<br><br>Now with 20 stars ⭐️ for Federer&#39;s 20 major titles, as he notches his 332nd Grand Slam match win<a href="https://twitter.com/hashtag/RF20?src=hash&amp;ref_src=twsrc%5Etfw">#RF20</a> <a href="https://t.co/axUIvxZoDj">pic.twitter.com/axUIvxZoDj</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/957578733053009920?ref_src=twsrc%5Etfw">January 28, 2018</a></blockquote>
 
