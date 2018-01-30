@@ -15,6 +15,10 @@ Release Date: 2018-2-5
 
 + [Introducing Maëlle Salmon, rOpenSci’s new Research Software Engineer](https://ropensci.org/blog/2018/01/29/rse-ma%C3%ABlle-salmon/)
 
++ [Why can’t ggplot2 use %>%?](https://community.rstudio.com/t/why-cant-ggplot2-use/4372/7)
+
++ [New R Journal issue](https://journal.r-project.org/archive/2017-2/)
+
 ### R in Real World
 
 + [World’s Most Expensive Artworks](https://medium.com/@yanhann10/worlds-most-expensive-artworks-3166f7c6d936)
@@ -74,12 +78,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ###  Upcoming Events
 
-+ [rOpenSci Community Call](https://ropensci.org/blog/2018/01/03/comm-call-v15/) - Writing Packages to Support Research Communities - zoon & greta
-January 30th (January 31 for Australia)
-
-+ RStudio conf 2018 **January 31 to February 3** <br />
-[rstudio::conf](https://www.rstudio.com/conference/) is about all things R and RStudio!
-
 + satRday Cape Town 2018 **March 17** <br />
 [satRday Cape Town](http://capetown2018.satrdays.org/)
 
@@ -114,5 +112,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">We are a new chapter of <a href="https://twitter.com/RLadiesGlobal?ref_src=twsrc%5Etfw">@RLadiesGlobal</a> and we&#39;re interested to hear what the remote <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community would like to see in a remote chapter!<br><br>Please fill out this form if you are interested in being involved with our chapter!<a href="https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw">#RLadies</a> <a href="https://t.co/rIaPY48aCy">https://t.co/rIaPY48aCy</a></p>&mdash; RLadies Remote (@RLadiesRemote) <a href="https://twitter.com/RLadiesRemote/status/958149061365952512?ref_src=twsrc%5Etfw">30 de gener de 2018</a></blockquote>
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">NEW edition of the &quot;Steppy Graf&quot; chart to mark Federer&#39;s victory:<br><br>Now with 20 stars ⭐️ for Federer&#39;s 20 major titles, as he notches his 332nd Grand Slam match win<a href="https://twitter.com/hashtag/RF20?src=hash&amp;ref_src=twsrc%5Etfw">#RF20</a> <a href="https://t.co/axUIvxZoDj">pic.twitter.com/axUIvxZoDj</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/957578733053009920?ref_src=twsrc%5Etfw">January 28, 2018</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Data scientists: what is the most underrated / undervalued skill for a new data scientist?</p>&mdash; Caitlin Hudon👩🏼‍💻 (@beeonaposy) <a href="https://twitter.com/beeonaposy/status/958062360811405313?ref_src=twsrc%5Etfw">29 de gener de 2018</a></blockquote>
