@@ -9,8 +9,6 @@ Release Date: 2018-2-5
 
 ###  Highlight
 
-+ [Bring on the R-Stars! A review of Data Day Texas 2018](https://www.littlemissdata.com/blog/ddtx18)
-
 ### Insights
 
 + [Introducing Maëlle Salmon, rOpenSci’s new Research Software Engineer](https://ropensci.org/blog/2018/01/29/rse-ma%C3%ABlle-salmon/)
@@ -18,6 +16,8 @@ Release Date: 2018-2-5
 + [Why can’t ggplot2 use %>%?](https://community.rstudio.com/t/why-cant-ggplot2-use/4372/7)
 
 + [New R Journal issue](https://journal.r-project.org/archive/2017-2/)
+
++ [Bring on the R-Stars! A review of Data Day Texas 2018](https://www.littlemissdata.com/blog/ddtx18)
 
 ### R in Real World
 
