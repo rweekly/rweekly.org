@@ -92,7 +92,7 @@ New packages and tools that are created or published in the past 2 weeks.
 
 ## New Releases
 
-New releases of tools and packages for R
+New releases (i.e. recent version updates) of pre-existing tools and packages for R
 
 ## Call for Participation
 
