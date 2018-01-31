@@ -59,6 +59,7 @@ Release Date: 2018-2-5
 
 ###  Videos and Podcasts
 
++ [NSSD NO.53: Shaken, Not Stirred](http://nssdeviations.com/53-shaken-not-stirred):Hilary and Roger discuss the connection between intelligence analysts and data scientists, and Hilary helps Roger prepare for an upcoming talk.
 
 ###  Resources
 
