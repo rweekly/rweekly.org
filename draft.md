@@ -41,11 +41,11 @@ Release Date: 2018-2-5
 
 **CRAN**
 
-+ [`errorist`](http://thecoatlessprofessor.com/software-releases/errorist-v0.0.1-released/): Automatically Search Error and Warning Messages
++ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [errorist](http://thecoatlessprofessor.com/software-releases/errorist-v0.0.1-released/) - Automatically Search Error and Warning Messages
 
 ![Demo of `errorist`](https://camo.githubusercontent.com/b370fa542785d02a8e06840b7c3949eceeb8ae10/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c3149426a4239714a326a4f6e6e744f552f67697068792e676966)
 
-+ [`searcher`](http://thecoatlessprofessor.com/software-releases/searcher-v0.0.2-released/): Query Search Interfaces
++ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [searcher](http://thecoatlessprofessor.com/software-releases/searcher-v0.0.2-released/) - Query Search Interfaces
 
 ![Demo of `searcher`](https://camo.githubusercontent.com/172f44e669a8747a287d5dd03c3f44df63a82541/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f37353238696835343143545961364f592f67697068792e676966)
 
