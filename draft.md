@@ -72,7 +72,9 @@ Release Date: 2018-2-5
 
 ###  Tutorials
 
-+ [Predictive Analytics Tutorial Using R](https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-1)
++ [Predictive Analytics Tutorial Using R](https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-1)  
+
++ [Creating Heatmap Tiles in ggplot2](https://deanmarchiori.github.io/2018-01-25-heatmap-tiles/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
