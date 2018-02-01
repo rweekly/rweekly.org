@@ -79,6 +79,8 @@ Release Date: 2018-2-5
 
 + [Creating Heatmap Tiles in ggplot2](https://deanmarchiori.github.io/2018-01-25-heatmap-tiles/)
 
++ [Making many added variable plots with purrr and ggplot2](https://aosmith.rbind.io/2018/01/31/added-variable-plots/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
