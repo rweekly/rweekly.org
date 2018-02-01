@@ -83,7 +83,7 @@ Release Date: 2018-2-5
 
 ### Gist & Cookbook
 
-
++ [Recreating Historical Graphics with `ggplot2`](https://sctyner.github.io/static/presentations/Misc/GraphicsGroupISU/Jan312018/historical-graphics-ggplot2.html#1)
 
 ###  R Project Updates
 
