@@ -19,6 +19,8 @@ Release Date: 2018-2-5
 
 + [Bring on the R-Stars! A review of Data Day Texas 2018](https://www.littlemissdata.com/blog/ddtx18)
 
++ [Notes - Things They Forgot to Teach You In R, rstuido::conf18](http://jessicaminnier.com/rstudioconf18_jennybryan_forgot/notes.html)
+
 ### R in Real World
 
 + [World’s Most Expensive Artworks](https://medium.com/@yanhann10/worlds-most-expensive-artworks-3166f7c6d936)
