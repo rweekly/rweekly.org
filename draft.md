@@ -58,7 +58,7 @@ Release Date: 2018-2-5
 
 ### Package Releases
 
-+ [profmem](https://cran.r-project.org/package=profmem) - Simple Memory Profiling for R, e.g. `profmem({ example("lm") })`.
++ [profmem](https://cran.r-project.org/package=profmem) 0.5.0 - Simple Memory Profiling for R, e.g. `profmem({ example("lm") })`. Now with support for nested profiling as well as suspending and resuming active profiling sessions.
 
 ###  Videos and Podcasts
 
