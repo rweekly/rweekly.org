@@ -58,6 +58,7 @@ Release Date: 2018-2-5
 
 ### Package Releases
 
++ [profmem](https://cran.r-project.org/package=profmem) - Simple Memory Profiling for R, e.g. `profmem({ example("lm") })`.
 
 ###  Videos and Podcasts
 
