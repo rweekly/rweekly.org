@@ -29,6 +29,8 @@ Release Date: 2018-2-5
 
 + [Working with multiple census variables using tidycensus](https://github.com/jshannon75/awp_tidycensus/blob/master/ACS_walkthrough.md)
 
++ [Flights at Night: Mapping airline routes on NASA's night lights images](https://lhehnke.github.io/notes/2018/01/27/flight-routes-night-lights)
+
 
 ###  R in Organizations
 
