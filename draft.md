@@ -56,6 +56,8 @@ Release Date: 2018-2-5
 
 **GitHub only**
 
++ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [pmatch](https://github.com/mailund/pmatch) - Haskell- and ML-like pattern matching for R
+
 + <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [geniusR](https://github.com/josiahparry/geniusr) - Easily access song lyrics from Genius
 
 ### Package Releases
