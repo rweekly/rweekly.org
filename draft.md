@@ -31,6 +31,8 @@ Release Date: 2018-2-5
 
 + [Flights at Night: Mapping airline routes on NASA's night lights images](https://lhehnke.github.io/notes/2018/01/27/flight-routes-night-lights)
 
++ [Tracking and analyzing tweets about rstudio::conf](https://github.com/mkearney/rstudioconf_tweets)
+
 
 ###  R in Organizations
 
