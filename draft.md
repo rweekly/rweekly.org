@@ -75,6 +75,8 @@ Release Date: 2018-2-5
 
 ###  Tutorials
 
++ [Haskell- and ML-like Pattern Matching in R](https://medium.com/@ThomasMailund/haskell-and-ml-like-pattern-matching-in-r-226a37307591)
+
 + [Predictive Analytics Tutorial Using R](https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-1)  
 
 + [Creating Heatmap Tiles in ggplot2](https://deanmarchiori.github.io/2018-01-25-heatmap-tiles/)
