@@ -9,6 +9,8 @@ Release Date: 2018-2-5
 
 ###  Highlight
 
+
+
 ### Insights
 
 + [Introducing Maëlle Salmon, rOpenSci’s new Research Software Engineer](https://ropensci.org/blog/2018/01/29/rse-ma%C3%ABlle-salmon/)
@@ -21,7 +23,16 @@ Release Date: 2018-2-5
 
 + [Notes - Things They Forgot to Teach You In R, rstudio::conf18](http://jessicaminnier.com/rstudioconf18_jennybryan_forgot/notes.html)
 
++ [It is Hard to Imagine the Limit of Bureaucracy](https://yihui.name/en/2018/01/limit-of-bureaucracy/)
+
++ [What I learned from R User Day at Data Day Texas](https://medium.com/@skyetetra/what-i-learned-from-r-user-day-at-data-day-texas-55bb821632db)
+
+
 ### R in Real World
+
++ [Flights at Night: Mapping airline routes on NASA's night lights images](https://lhehnke.github.io/notes/2018/01/27/flight-routes-night-lights)
+
+![Flights at Night: Mapping airline routes on NASA's night lights images](https://raw.githubusercontent.com/lhehnke/lhehnke.github.io/master/img/openflights-nasa/Airlines_final.png)
 
 + [World’s Most Expensive Artworks](https://medium.com/@yanhann10/worlds-most-expensive-artworks-3166f7c6d936)
 
@@ -33,9 +44,17 @@ Release Date: 2018-2-5
 
 + [Tracking and analyzing tweets about rstudio::conf](https://github.com/mkearney/rstudioconf_tweets)
 
++ [Chicago Crime Analysis in R](https://brennonborbon.wordpress.com/2018/02/01/the-crimes-in-chicago/)
+
++ [Shiny app exploring library book popularity.  Data drawn from web scraping of over 100k books from Toronto Public Library website.](https://donorscience.ca/explore-library-book-popularity-using-a-dashboard-with-access-to-over-100k-books!)
+
 
 ###  R in Organizations
 
+
++ [R Consortium Call For Proposals: February 2018](https://www.r-consortium.org/announcement/2018/01/31/r-consortium-call-proposals-february-2018)
+
++ [R Consortium funding for projects and R user groups](http://blog.revolutionanalytics.com/2018/02/r-consortium-sponsorships.html)
 
 
 ###  R in Academia
@@ -47,24 +66,35 @@ Release Date: 2018-2-5
 
 **CRAN**
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [errorist](http://thecoatlessprofessor.com/software-releases/errorist-v0.0.1-released/) - Automatically Search Error and Warning Messages
+[errorist](http://thecoatlessprofessor.com/software-releases/errorist-v0.0.1-released/) - Automatically Search Error and Warning Messages
 
 ![Demo of `errorist`](https://camo.githubusercontent.com/b370fa542785d02a8e06840b7c3949eceeb8ae10/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c3149426a4239714a326a4f6e6e744f552f67697068792e676966)
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [searcher](http://thecoatlessprofessor.com/software-releases/searcher-v0.0.2-released/) - Query Search Interfaces
+[searcher](http://thecoatlessprofessor.com/software-releases/searcher-v0.0.2-released/) - Query Search Interfaces
 
 ![Demo of `searcher`](https://camo.githubusercontent.com/172f44e669a8747a287d5dd03c3f44df63a82541/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f37353238696835343143545961364f592f67697068792e676966)
 
++ [dirichletprocess](https://cran.r-project.org/package=dirichletprocess) - building flexible Dirichlet process objects to model data in a nonparametric Bayesian framework.
+
++ [TSrepr](https://CRAN.R-project.org/package=TSrepr) - time series representations computing
 
 **GitHub only**
 
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [pmatch](https://github.com/mailund/pmatch) - Haskell- and ML-like pattern matching for R
++ [pmatch](https://github.com/mailund/pmatch) - Haskell- and ML-like pattern matching for R
 
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [geniusR](https://github.com/josiahparry/geniusr) - Easily access song lyrics from Genius
++ [geniusR](https://github.com/josiahparry/geniusr) - Easily access song lyrics from Genius
+
++ [tabr](https://github.com/gvelasq2/tabr) - Create tidyverse-friendly tables of frequencies, inspired by Stata
 
 ### Package Releases
 
-+ [profmem](https://cran.r-project.org/package=profmem) 0.5.0 - Simple Memory Profiling for R, e.g. `profmem({ example("lm") })`. Now with support for nested profiling as well as suspending and resuming active profiling sessions.
++ [profmem  0.5.0](https://cran.r-project.org/package=profmem)- Simple Memory Profiling for R, e.g. `profmem({ example("lm") })`. Now with support for nested profiling as well as suspending and resuming active profiling sessions.
+
++ [RVowpalWabbit 0.0.12](http://dirk.eddelbuettel.com/blog/2018/02/02#rvowpalwabbit_0.0.12)
+
++ [digest 0.6.15](http://dirk.eddelbuettel.com/blog/2018/01/28#digest_0.6.15)
+
++ [sparklyr 0.7](https://blog.rstudio.com/2018/01/29/sparklyr-0-7/)
 
 ###  Videos and Podcasts
 
@@ -82,13 +112,114 @@ Release Date: 2018-2-5
 
 ###  Tutorials
 
+
++ [How to use named vectors to turn data codes into words: going from named vectors to functions to R package.](https://ryanestrellado.netlify.com/ryanestrellado.netlify.com/post/turning-dataset-codes-to-words/)
+
 + [Haskell- and ML-like Pattern Matching in R](https://medium.com/@ThomasMailund/haskell-and-ml-like-pattern-matching-in-r-226a37307591)
 
-+ [Predictive Analytics Tutorial Using R](https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-1)  
++ [Predictive Analytics Tutorial Using R](https://www.littlemissdata.com/blog/predictive-analytics-tutorial-part-1)
 
 + [Creating Heatmap Tiles in ggplot2](https://deanmarchiori.github.io/2018-01-25-heatmap-tiles/)
 
 + [Making many added variable plots with purrr and ggplot2](https://aosmith.rbind.io/2018/01/31/added-variable-plots/)
+
++ [Working through an example of installing and getting RSelenium to work  scraping an online database (the WHO Snake Antivenom Database) with R. ](https://callumgwtaylor.github.io/blog/2018/02/01/using-rselenium-and-docker-to-webscrape-in-r-using-the-who-snake-database/)
+
++ [How to connect R to an Ingres database](https://edomt.github.io/Connect-Ingres-R/)
+
++ [Mapping The Global Metal Scene Using Leaflet and R](https://trent.netlify.com/code/metal_leaflet.html)
+
++ [Scraping Wikipedia Tables from Lists for Visualising 2000 Years of Changing Conflict Dynamics](https://www.gokhanciflikli.com/post/scraping-wikipedia/)
+
++ [Using ggplot2 to create basic visualizations, including a pie chart](https://annamarbut.blogspot.com/2018/01/creating-true-pie-chart-in-r-with.html)
+
++ [Calculating number of pregnant women in New York State](https://mattherman.info/blog/nys-pregnancy/)
+
++ [Experiences coding a Twitter Bot in R](https://medium.com/tumuhimbisemoses/experiences-of-coding-a-twitter-bot-in-r-2c0334cbf03b)
+
++ [Bring on the R-Stars! A review of Data Day Texas 2018.  ](https://www.littlemissdata.com/blog/ddtx18)
+
++ [Diverse topics but almost all posts are R-focused](https://rickpackblog.wordpress.com/)
+
++ [Analysis of Strava and Garmin running data for my 2017 Philadelphia Marathon training ](https://stevenewns.netlify.com/2018/01/29/philly-marathon-2017-training-plan-data-analysis/)
+
++ [Visualising intersecting sets of twitter followers with rtweet and UpSetR](https://www.cultureofinsight.com/blog/2018/01/25/2018-01-25-visualising-twitter-follower-overlap/)
+
++ [In the previous post I've demonstrated how to build very simple convoluitional neural network in Keras from R. Today our focus will be on the performance of the network.](https://appsilondatascience.com/blog/rstats/2018/01/23/keras.html)
+
++ [What to expect at/after #rstudioconf2018. Get ready to do cool/amazing things!](https://t.co/Fn6fZdHT5e)
+
++ [Usage of TSrepr package for time series preprocessing and dimensionality reduction.](https://petolau.github.io/TSrepr-time-series-representations/)
+
++ [Making base graphics look pretty](http://blog.jumpingrivers.com/posts/2018/2018-01-24-base-r-graphics/)
+
++ [A tutorial post on building a drag and drop data input interface using shiny and R](https://pradeepadhokshaja.wordpress.com/2018/01/25/building-a-shiny-app-with-drag-and-drop-data-interface/)
+
++ [Supercharge your R code with wrapr](http://www.win-vector.com/blog/2018/01/supercharge-your-r-code-with-wrapr/)
+
++ [Exploring Embeddings for Categorical Variables with Keras](http://flovv.github.io/Embeddings_with_keras/)
+
++ [Sketchnotes from TWiML&AI #94: Neuroevolution: Evolving Novel Neural Network Architectures with Kenneth Stanley](https://shirinsplayground.netlify.com/2018/01/twimlai94/)
+
++ [Have you ever asked yourself, "how should I approach the classic pre-post analysis?"](https://www.rdatagen.net/post/thinking-about-the-run-of-the-mill-pre-post-analysis/)
+
++ [Deep Learning for Cancer Immunotherapy](https://tensorflow.rstudio.com/blog/dl-for-cancer-immunotherapy.html)
+
++ [Does "the twitter ratio" apply to the #rstats community?](https://d4tagirl.com/2018/01/does-the-twitter-ratio-apply-to-the-rstats-community)
+
++ [Speed up R with Parallel Programming in the Cloud](http://blog.revolutionanalytics.com/2018/01/r-parallel-cloud.html)
+
++ [Hardwired..for tidy text](https://www.johnmackintosh.com/2018-01-30-hardwired-for-tidy-text/)
+
++ [JAX 2018 talk announcement: Deep Learning - a Primer](https://shirinsplayground.netlify.com/2018/01/jax2018/)
+
++ [Scraping Wikipedia Tables from Lists for Visualisation](https://www.gokhanciflikli.com/post/scraping-wikipedia/)
+
++ [Hire Me (as a Data Scientist!), Part III](https://davidjohnbaker.rbind.io/post/hire-me-as-a-datascientist-part-iii/)
+
++ [Information Gain From Using Ordinal Instead of Binary Outcomes](http://fharrell.com/post/ordinal-info/)
+
++ [How to Properly Write a URL](https://yihui.name/en/2018/01/valid-url/)
+
++ [Anything that Can Look Like Cats will Look Like Cats](https://yihui.name/en/2018/01/looks-like-cats/)
+
++ [Ian Lyttle is the Most Serious Conference Attendee I've Met](https://yihui.name/en/2018/01/ian-lyttle/)
+
++ [València summer school](https://xianblog.wordpress.com/2018/01/31/valencia-summer-school/)
+
++ [The 2018 R Consortium R User Group Support Program is Underway.](https://www.r-consortium.org/announcement/2018/01/31/2018-r-consortium-r-user-group-support-program-underway)
+
++ [Making many added variable plots with purrr and ggplot2](https://aosmith.rbind.io/2018/01/31/added-variable-plots/)
+
++ [Data Wrangling Part 1: Basic to Advanced Ways to Select Columns](https://suzanbaert.netlify.com/2018/01/dplyr-tutorial-1/)
+
++ [Analysis of Trump's State of the Union Speech, with R](http://blog.revolutionanalytics.com/2018/01/trump-sotu.html)
+
++ [I talk about machine learning with Daniel Mies (Podcast in German, though)](https://shirinsplayground.netlify.com/2018/02/herr_mies_wills_wissen/)
+
++ [Conferences, webinars, podcasts and the likes](https://shirinsplayground.netlify.com/page/conferences_podcasts_webinars/)
+
++ [Why No Exact Permutation Tests at Scale?](http://www.win-vector.com/blog/2018/02/why-no-exact-permutation-tests-at-scale/)
+
++ [Mining Census Data for Historical Context – Fairfield County, Connecticut in 1920](https://genesandhistory.wordpress.com/2018/02/01/mining-census-data-for-historical-context-fairfield-county-connecticut-in-1920/)
+
++ [How AI works ... and how it fails](http://blog.revolutionanalytics.com/2018/02/how-ai-works-and-fails.html)
+
++ [Graphical inference](https://www.youtube.com/watch?v=rEHKm3Z1zUE)
+
++ [Cost-Effective BigQuery with R](https://rviews.rstudio.com/2018/02/02/cost-effective-bigquery-with-r/)
+
++ [Data Wrangling Part 2: Transforming your columns into the right shape](https://suzanbaert.netlify.com/2018/02/dplyr-tutorial-2/)
+
++ [Average spend, activities and length of visit in the NZ International Visitor Survey by @ellis2013nz](http://ellisp.github.io/blog/2018/02/03/ivs)
+
++ [Using RSelenium and Docker To Webscrape In R - Using The WHO Snake Database](https://callumgwtaylor.github.io/blog/2018/02/01/using-rselenium-and-docker-to-webscrape-in-r-using-the-who-snake-database/)
+
++ [Congaree Big Trees](https://sufficientlyminimal.netlify.com/2018/01/28/congaree-big-trees/)
+
++ [Is Medicine Mesmerized by Machine Learning?](http://fharrell.com/post/medml/)
+
++ [Announcing my talk about explainability of machine learning models at Minds Mastering Machines conference](https://shirinsplayground.netlify.com/2018/02/m3_2018/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
