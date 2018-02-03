@@ -100,6 +100,8 @@ Release Date: 2018-2-5
 
 + [NSSD NO.53: Shaken, Not Stirred](http://nssdeviations.com/53-shaken-not-stirred):Hilary and Roger discuss the connection between intelligence analysts and data scientists, and Hilary helps Roger prepare for an upcoming talk.
 
++ [R-Podcast Episode 23 -Interviews with Romain Francois and Thomas Lin Pedersen](https://r-podcast.org/episode/023-interviews-francois-pedersen/):  Straight from `rstudio::conf` 2018 Eric speaks with Romain Francois and Thomas Lin Pedersen. You’ll hear Romain’s thoughts on the growth of Rcpp and the project that helped him become closer to the R community, as well as Thomas’ journey to enhancing `ggplot2` and the new packages he’s developed covering network analyses and dynamic APIs from R.
+
 ###  Resources
 
 + [Wrangling Data Day Texas Slides](http://livefreeordichotomize.com/2018/01/28/wrangling-data-day-texas-slides/)
