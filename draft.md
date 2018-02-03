@@ -171,6 +171,8 @@ Release Date: 2018-2-5
 
 + [Hardwired..for tidy text](https://www.johnmackintosh.com/2018-01-30-hardwired-for-tidy-text/)
 
++ [Tidytext walkthrough: correcting spellings and creating reproducible word clouds](https://gregrs-uk.github.io/2018-02-03/tidytext-walkthrough-correcting-spellings-reproducible-word-clouds/)
+
 + [JAX 2018 talk announcement: Deep Learning - a Primer](https://shirinsplayground.netlify.com/2018/01/jax2018/)
 
 + [Scraping Wikipedia Tables from Lists for Visualisation](https://www.gokhanciflikli.com/post/scraping-wikipedia/)
