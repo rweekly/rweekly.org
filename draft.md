@@ -44,6 +44,8 @@ Release Date: 2018-2-5
 
 + [Tracking and analyzing tweets about rstudio::conf](https://github.com/mkearney/rstudioconf_tweets)
 
+![Tracking and analyzing tweets about rstudio::conf](https://github.com/mkearney/rstudioconf_tweets/blob/master/README_files/figure-markdown_github/tsn_shadow.png?raw=true)
+
 + [Chicago Crime Analysis in R](https://brennonborbon.wordpress.com/2018/02/01/the-crimes-in-chicago/)
 
 + [Shiny app exploring library book popularity.  Data drawn from web scraping of over 100k books from Toronto Public Library website.](https://donorscience.ca/explore-library-book-popularity-using-a-dashboard-with-access-to-over-100k-books!)
