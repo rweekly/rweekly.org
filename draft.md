@@ -19,7 +19,7 @@ Release Date: 2018-2-12
 
 ### R in Real World
 
-
++ [Enter SadMan: yet more Metalliplots](https://www.johnmackintosh.com/2018-02-03-enter-sadman/)
 
 
 ###  R in Organizations
