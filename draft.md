@@ -14,7 +14,7 @@ Release Date: 2018-2-12
 
 ### Insights
 
-
++ [Materials (slides) from rstudio::conf 2018](https://github.com/rstudio/rstudio-conf/tree/master/2018)
 
 
 ### R in Real World
