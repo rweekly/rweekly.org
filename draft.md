@@ -60,9 +60,7 @@ Release Date: 2018-2-12
 
 ###  Tutorials
 
-
-
-
++ [Tidytext walkthrough: correcting spellings and creating reproducible word clouds](https://gregrs-uk.github.io/2018-02-03/tidytext-walkthrough-correcting-spellings-reproducible-word-clouds/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
