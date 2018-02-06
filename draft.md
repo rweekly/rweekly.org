@@ -64,6 +64,8 @@ Release Date: 2018-2-12
 
 + [Exploring git commits with git2r](https://recology.info/2018/02/git-commits/)
 
++ [On struggling with aes(): an intro to writing functions with ggplot outputs](http://katiejolly.io/blog/2018-02-05/aes-string)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
