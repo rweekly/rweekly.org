@@ -62,6 +62,8 @@ Release Date: 2018-2-12
 
 + [Tidytext walkthrough: correcting spellings and creating reproducible word clouds](https://gregrs-uk.github.io/2018-02-03/tidytext-walkthrough-correcting-spellings-reproducible-word-clouds/)
 
++ [Exploring git commits with git2r](https://recology.info/2018/02/git-commits/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
