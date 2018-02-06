@@ -21,6 +21,8 @@ Release Date: 2018-2-12
 
 + [Enter SadMan: yet more Metalliplots](https://www.johnmackintosh.com/2018-02-03-enter-sadman/)
 
++ [Into the Unknown: Mining and visualizing STARSET song lyrics](https://lhehnke.github.io/notes/2018/02/03/starset-song-lyrics)
+
 
 ###  R in Organizations
 
