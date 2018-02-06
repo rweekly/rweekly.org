@@ -46,6 +46,7 @@ Release Date: 2018-2-12
 
 ### Package Releases
 
++ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [pmatch](https://cran.r-project.org/web/packages/pmatch/index.html) - Programming with constructor types and pattern matching
 
 
 ###  Videos and Podcasts
