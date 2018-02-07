@@ -45,7 +45,7 @@ Release Date: 2018-2-12
 
 **GitHub only**
 
-
++ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [getDDD](https://github.com/jeanpaulrsoucy/getDDD) - Download defined daily dose (DDD) information for selected ATC codes from the website of the WHO Collaborating Centre for Drug Statistics Methodology (www.whocc.no)
 
 ### Package Releases
 
