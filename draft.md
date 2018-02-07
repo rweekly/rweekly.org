@@ -16,12 +16,15 @@ Release Date: 2018-2-12
 
 + [Materials (slides) from rstudio::conf 2018](https://github.com/rstudio/rstudio-conf/tree/master/2018)
 
++ [`tsibble`? or `tibbletime`? What's the difference between these two tidy time series packages?](https://blog.earo.me/2018/02/06/tsibble-or-tibbletime/)
+
 
 ### R in Real World
 
 + [Enter SadMan: yet more Metalliplots](https://www.johnmackintosh.com/2018-02-03-enter-sadman/)
 
 + [Into the Unknown: Mining and visualizing STARSET song lyrics](https://lhehnke.github.io/notes/2018/02/03/starset-song-lyrics)
+
 
 
 ###  R in Organizations
