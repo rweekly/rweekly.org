@@ -116,10 +116,12 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
-
++ [rOpenSci unconf18 self-nominations, deadline 2018/03/08](https://ropensci.org/blog/2018/02/08/unconf2018/)
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">[blog] Want to participate in <a href="https://twitter.com/hashtag/runconf18?src=hash&amp;ref_src=twsrc%5Etfw">#runconf18</a>? Only takes a few minutes to nominate yourself! Deadline Mar 8th, 2018 <a href="https://t.co/z2WEjJTseU">https://t.co/z2WEjJTseU</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/JJG9A7c4SA">pic.twitter.com/JJG9A7c4SA</a></p>&mdash; rOpenSci (@rOpenSci) <a href="https://twitter.com/rOpenSci/status/961779397131829248?ref_src=twsrc%5Etfw">9 de febrer de 2018</a></blockquote>
 
