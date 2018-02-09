@@ -18,6 +18,7 @@ Release Date: 2018-2-12
 
 + [`tsibble`? or `tibbletime`? What's the difference between these two tidy time series packages?](https://blog.earo.me/2018/02/06/tsibble-or-tibbletime/)
 
++ [Book'em Danno! Applying deep learning for the visual inference lineup protocol](http://giorasimchoni.com/2018/02/07/2018-02-07-book-em-danno/)
 
 ### R in Real World
 
