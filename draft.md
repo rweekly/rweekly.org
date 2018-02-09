@@ -77,7 +77,7 @@ Release Date: 2018-2-12
 
 ### Gist & Cookbook
 
-
++ [Making banded ridgline plots of American Time Use Survey](https://gist.github.com/thoughtfulbloke/7dcc08f26fc6f8df3865de4e8d53a180)
 
 ###  R Project Updates
 
