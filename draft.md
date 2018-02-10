@@ -34,6 +34,10 @@ Release Date: 2018-2-12
 
 + [Using goodreads API to figure out most popular books among Estonians.](http://www.reigo.eu/post/goodreads-what-books-estoniareads/)
 
++ [Into the Unknown: Mining and visualizing STARSET song lyrics](https://www.dataplanes.org/notes/2018/02/03/starset-song-lyrics)
+
+![Into the Unknown: Mining and visualizing STARSET song lyrics](https://raw.githubusercontent.com/lhehnke/lhehnke.github.io/master/img/starset-lyrics/Starplot_Vessels.png)
+
 + [I used R and keras to generate offensive license plates. It ended up being really funny.](https://medium.com/@skyetetra/using-deep-learning-to-generate-offensive-license-plates-619b163ed937)
 
 + [Mapping the Global Metal Scene Using Leaflet and R](https://trent.netlify.com/code/mapping-the-global-metal-scene-using-leaflet-and-r/)
@@ -126,6 +130,9 @@ Release Date: 2018-2-12
 
 + [How to make a shaded relief in R](https://eliocamp.github.io/codigo-r/2018/02/how-to-make-shaded-relief-in-r/)
 
++ [Data transformation in #tidyverse style: package sjmisc updated #rstats](https://strengejacke.wordpress.com/2018/02/06/data-transformation-in-tidyverse-style-package-sjmisc-updated-rstats/)
+
++ [How to Import a CSV to an R Notebook](https://blog.datazar.com/how-to-import-a-csv-to-an-r-notebook-16291c28496e)
 
 + [The AI Show: Data Science Virtual Machine](http://blog.revolutionanalytics.com/2018/02/dsvm-on-ai-show.html)
 
@@ -214,3 +221,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">[blog] Want to participate in <a href="https://twitter.com/hashtag/runconf18?src=hash&amp;ref_src=twsrc%5Etfw">#runconf18</a>? Only takes a few minutes to nominate yourself! Deadline Mar 8th, 2018 <a href="https://t.co/z2WEjJTseU">https://t.co/z2WEjJTseU</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/JJG9A7c4SA">pic.twitter.com/JJG9A7c4SA</a></p>&mdash; rOpenSci (@rOpenSci) <a href="https://twitter.com/rOpenSci/status/961779397131829248?ref_src=twsrc%5Etfw">9 de febrer de 2018</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Three major misconceptions I&#39;ve heard about <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> this morning:<br><br>1) No one over the age of 30 can learn how to use R<br><br>2) R is kind of cult-y<br><br>3) People who use R like to show off</p>&mdash; Jesse Maegan (@kierisi) <a href="https://twitter.com/kierisi/status/959490091709288450?ref_src=twsrc%5Etfw">2 de febrer de 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What happens when you start <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>? Well, it&#39;s quite simple, it&#39;s just... <a href="https://t.co/00S7l4dSTj">pic.twitter.com/00S7l4dSTj</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href="https://twitter.com/thomasp85/status/961553618196418560?ref_src=twsrc%5Etfw">February 8, 2018</a></blockquote>
+
