@@ -18,11 +18,13 @@ Release Date: 2018-2-12
 
 + [Materials (slides) from rstudio::conf 2018](https://github.com/rstudio/rstudio-conf/tree/master/2018)
 
-+ [`tsibble`? or `tibbletime`? What's the difference between these two tidy time series packages?](https://blog.earo.me/2018/02/06/tsibble-or-tibbletime/)
-
 + [Book'em Danno! Applying deep learning for the visual inference lineup protocol](http://giorasimchoni.com/2018/02/07/2018-02-07-book-em-danno/)
 
 + [.rprofile: Julia Stewart Lowndes](https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/)
+
++ [In the first of our interview series, the Sheffield RSE team speak to PhD student Rebecca Senior about the role of coding in her research.](http://rse.shef.ac.uk/blog/code-in-the-academy-rebecca-senior/)
+
++ [Chain reaction of CRAN death](https://mattstats.wordpress.com/2018/02/05/chain-reaction-of-cran-death/)
 
 ### R in Real World
 
@@ -30,10 +32,22 @@ Release Date: 2018-2-12
 
 + [Into the Unknown: Mining and visualizing STARSET song lyrics](https://lhehnke.github.io/notes/2018/02/03/starset-song-lyrics)
 
++ [Using goodreads API to figure out most popular books among Estonians.](http://www.reigo.eu/post/goodreads-what-books-estoniareads/)
+
++ [I used R and keras to generate offensive license plates. It ended up being really funny.](https://medium.com/@skyetetra/using-deep-learning-to-generate-offensive-license-plates-619b163ed937)
+
++ [Mapping the Global Metal Scene Using Leaflet and R](https://trent.netlify.com/code/mapping-the-global-metal-scene-using-leaflet-and-r/)
+
++ [Exploratory & sentiment analysis of beer tweets from Untappd on Twitter](http://jasdumas.github.io/2018-02-05-exploring_untp_beer_twitter/)
+
++ [Scraping and visualizing historical data on executions in the US](http://lhehnke.github.io/notes/2018/02/08/death-penalty-us)
 
 
 ###  R in Organizations
 
++ [Apply to attend rOpenSci unconf 2018!](https://ropensci.org/blog/2018/02/08/unconf2018/)
+
++ [The prequel to the drake R package](https://ropensci.org/blog/2018/02/06/drake/)
 
 
 ###  R in Academia
@@ -56,12 +70,15 @@ Release Date: 2018-2-12
 
 + [dirichletprocess](https://cran.r-project.org/package=dirichletprocess) - building flexible Dirichlet process objects to model data in a nonparametric Bayesian framework.
 
++ [dater - a tiny Addin for RStudio](http://blog.sellorm.com/2018/02/06/dater-an-r-package-that-just-inserts-a-date/)
+
 ### Package Releases
 
 + [pmatch](https://cran.r-project.org/web/packages/pmatch/index.html) - Programming with constructor types and pattern matching
 
 + [TimeSeries.OBeu](https://cran.r-project.org/web/packages/TimeSeries.OBeu/index.html) - TimeSeries.OBeu: Time Series Analysis 'OpenBudgets'
 
++ [RcppEigen 0.3.3.4.0](http://dirk.eddelbuettel.com/blog/2018/02/07#rcppeigen_0.3.3.4.0)
 
 
 ###  Videos and Podcasts
@@ -71,12 +88,16 @@ Release Date: 2018-2-12
 ###  Resources
 
 
++ [Amelia McNamara's syntax comparison cheatsheet. Specifically for new R users. ](http://www.science.smith.edu/~amcnamara/Syntax-cheatsheet.pdf)
 
 ### R Internationally
 
++ [[FRENCH] Zoom in on a map with R - Zoomer sur une carte avec R](https://rgeomatic.hypotheses.org/1288)
 
 
 ###  Tutorials
+
++ [Quick and Clean DMARC Record Processing with "Inline" Rcpp](https://rud.is/b/2018/02/06/quick-and-clean-dmarc-record-processing-with-inline-rcpp/)
 
 + [Tidytext walkthrough: correcting spellings and creating reproducible word clouds](https://gregrs-uk.github.io/2018-02-03/tidytext-walkthrough-correcting-spellings-reproducible-word-clouds/)
 
@@ -84,7 +105,8 @@ Release Date: 2018-2-12
 
 + [On struggling with aes(): an intro to writing functions with ggplot outputs](http://katiejolly.io/blog/2018-02-05/aes-string)
 
-+ [[FRENCH] Zoom in on a map with R - Zoomer sur une carte avec R](https://rgeomatic.hypotheses.org/1288)
+
++ [`tsibble`? or `tibbletime`? What's the difference between these two tidy time series packages?](https://blog.earo.me/2018/02/06/tsibble-or-tibbletime/)
 
 + [Applying Deep Learning for the Visual Statistical Inference Lineup task (following Di Cook's keynote at rstudio::conf 2018)](http://giorasimchoni.com/2018/02/07/2018-02-07-book-em-danno/)
 
@@ -98,36 +120,14 @@ Release Date: 2018-2-12
 
 + [Things to try when Knit to PDF fails in the Windows version of RStudio.](https://rickpackblog.wordpress.com/2018/02/06/rstudio-knit-to-pdf-failing-in-windows-things-to-try/)
 
-+ [In the first of our interview series, the Sheffield RSE team speak to PhD student Rebecca Senior about the role of coding in her research.](http://rse.shef.ac.uk/blog/code-in-the-academy-rebecca-senior/)
-
-+ [Using goodreads API to figure out most popular books among Estonians.](http://www.reigo.eu/post/goodreads-what-books-estoniareads/)
-
-+ [I used R and keras to generate offensive license plates. It ended up being really funny.](https://medium.com/@skyetetra/using-deep-learning-to-generate-offensive-license-plates-619b163ed937)
-
-+ [Amelia McNamara's syntax comparison cheatsheet. Specifically for new R users. ](http://www.science.smith.edu/~amcnamara/Syntax-cheatsheet.pdf)
-
-+ [tutorial on scraping, post-processing text, and interactive mapping using the leaflet package. I had submitted it last week but realized I sent the wrong link!](https://trent.netlify.com/code/mapping-the-global-metal-scene-using-leaflet-and-r/)
-
-+ [How to use named vectors to turn data codes into words: going from named vectors to functions to R package.](https://ryanestrellado.netlify.com/ryanestrellado.netlify.com/post/turning-dataset-codes-to-words/)
-
-
-+ [Chain reaction of CRAN death](https://mattstats.wordpress.com/2018/02/05/chain-reaction-of-cran-death/)
++ [How to use named vectors to turn data codes into words: going from named vectors to functions to R package.](https://ryanestrellado.netlify.com/post/turning-dataset-codes-to-words/)
 
 + [Concatenate Embeddings for Categorical Variables with Keras](http://flovv.github.io/Embeddings_with_keras_part2/)
 
-+ [R Weekly 2018-6 R Consortium Proposals, Data Day Texas](https://rweekly.org/2018-6.html)
-
 + [How to make a shaded relief in R](https://eliocamp.github.io/codigo-r/2018/02/how-to-make-shaded-relief-in-r/)
 
-+ [Exploratory & sentiment analysis of beer tweets from Untappd on Twitter](http://jasdumas.github.io/2018-02-05-exploring_untp_beer_twitter/)
-
-+ [The prequel to the drake R package](https://ropensci.org/blog/2018/02/06/drake/)
-
-+ [Quick and Clean DMARC Record Processing with "Inline" Rcpp](https://rud.is/b/2018/02/06/quick-and-clean-dmarc-record-processing-with-inline-rcpp/)
 
 + [The AI Show: Data Science Virtual Machine](http://blog.revolutionanalytics.com/2018/02/dsvm-on-ai-show.html)
-
-+ [dater - a tiny Addin for RStudio](http://blog.sellorm.com/2018/02/06/dater-an-r-package-that-just-inserts-a-date/)
 
 + [#16: Complaining Works.](http://dirk.eddelbuettel.com/blog/2018/02/06#016_note_inconsistencies)
 
@@ -139,18 +139,11 @@ Release Date: 2018-2-12
 
 + [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/)
 
-+ [RcppEigen 0.3.3.4.0](http://dirk.eddelbuettel.com/blog/2018/02/07#rcppeigen_0.3.3.4.0)
-
-+ [Scraping and visualizing historical data on executions in the US](http://lhehnke.github.io/notes/2018/02/08/death-penalty-us)
-
 + [What do Fahrenheit, comma separated files, and markdown have in common? ](https://simplystatistics.org/2018/02/08/what-do-fahrenheit-comma-separated-files-and-markdown-have-in-common/)
 
 + [DataExplorer: Fast Data Exploration With Minimum Code](http://blog.revolutionanalytics.com/2018/02/dataexplorer.html)
 
 + [Calculating Beta in the Capital Asset Pricing Model](https://rviews.rstudio.com/2018/02/08/capm-beta/)
-
-+ [Apply to attend rOpenSci unconf 2018!](https://ropensci.org/blog/2018/02/08/unconf2018/)
-
 
 + [Because it's Friday: Bon Voyage, Starman](http://blog.revolutionanalytics.com/2018/02/because-its-friday-bon-voyage-starman.html)
 
@@ -161,6 +154,8 @@ Release Date: 2018-2-12
 + [My first article: A not fully crossed design](https://mvaugoyeau.netlify.com/2018/02/06/my-first-article/)
 
 + [Introduction to GIS with R](https://jessesadler.com/post/gis-with-r-intro/)
+
+![Introduction to GIS with R](https://www.jessesadler.com/img/gis-with-r-intro/points_spdf-plot-1.png)
 
 + [Run system commands or shell scripts from an interactive R session](https://uncmbbtrivia.netlify.com/post/2018/02/05/run-system-commands-or-shell-sripts-from-an-interactive-r-session/)
 
