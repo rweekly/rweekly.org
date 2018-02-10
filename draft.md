@@ -14,11 +14,15 @@ Release Date: 2018-2-12
 
 ### Insights
 
++ [R in Latin America](http://forwards.github.io/blog/2018/02/05/r-in-latin-america/)
+
 + [Materials (slides) from rstudio::conf 2018](https://github.com/rstudio/rstudio-conf/tree/master/2018)
 
 + [`tsibble`? or `tibbletime`? What's the difference between these two tidy time series packages?](https://blog.earo.me/2018/02/06/tsibble-or-tibbletime/)
 
 + [Book'em Danno! Applying deep learning for the visual inference lineup protocol](http://giorasimchoni.com/2018/02/07/2018-02-07-book-em-danno/)
+
++ [.rprofile: Julia Stewart Lowndes](https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/)
 
 ### R in Real World
 
@@ -46,13 +50,18 @@ Release Date: 2018-2-12
 
 **GitHub only**
 
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [flagfillr](https://github.com/robertmyles/flagfillr) - Use flags of countries and states as 'fills' in ggplot2 maps.
++ [flagfillr](https://github.com/robertmyles/flagfillr) - Use flags of countries and states as 'fills' in ggplot2 maps.
 
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [getDDD](https://github.com/jeanpaulrsoucy/getDDD) - Download defined daily dose (DDD) information for selected ATC codes from the website of the WHO Collaborating Centre for Drug Statistics Methodology (www.whocc.no)
++ [getDDD](https://github.com/jeanpaulrsoucy/getDDD) - Download defined daily dose (DDD) information for selected ATC codes from the website of the WHO Collaborating Centre for Drug Statistics Methodology (www.whocc.no)
+
++ [dirichletprocess](https://cran.r-project.org/package=dirichletprocess) - building flexible Dirichlet process objects to model data in a nonparametric Bayesian framework.
 
 ### Package Releases
 
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [pmatch](https://cran.r-project.org/web/packages/pmatch/index.html) - Programming with constructor types and pattern matching
++ [pmatch](https://cran.r-project.org/web/packages/pmatch/index.html) - Programming with constructor types and pattern matching
+
++ [TimeSeries.OBeu](https://cran.r-project.org/web/packages/TimeSeries.OBeu/index.html) - TimeSeries.OBeu: Time Series Analysis 'OpenBudgets'
+
 
 
 ###  Videos and Podcasts
@@ -74,6 +83,88 @@ Release Date: 2018-2-12
 + [Exploring git commits with git2r](https://recology.info/2018/02/git-commits/)
 
 + [On struggling with aes(): an intro to writing functions with ggplot outputs](http://katiejolly.io/blog/2018-02-05/aes-string)
+
++ [[FRENCH] Zoom in on a map with R - Zoomer sur une carte avec R](https://rgeomatic.hypotheses.org/1288)
+
++ [Applying Deep Learning for the Visual Statistical Inference Lineup task (following Di Cook's keynote at rstudio::conf 2018)](http://giorasimchoni.com/2018/02/07/2018-02-07-book-em-danno/)
+
++ [Time Series Analysis Using ARIMA Model In R](https://datascienceplus.com/time-series-analysis-using-arima-model-in-r/)
+
++ [Where's the love for htmlwidgets? They allow you to make awesome interactive dataviz with R, but they're barely talked about! Let's change that :)](http://www.visibledata.co.uk/blog/2018/02/07/2018-02-07_where-s-the-love-for-htmlwidgets/)
+
++ [Quick tutorial on how you can set up continuous integration for your private R projects with CircleCI to reduce risks and overhead.](https://appsilondatascience.com/blog/rstats/2018/02/07/circleci.html)
+
++ [Some basic transformations and explorations guided by the R for Data Science book](http://annamarbut.blogspot.com/2018/02/basic-transformations-and-explorations.html)
+
++ [Things to try when Knit to PDF fails in the Windows version of RStudio.](https://rickpackblog.wordpress.com/2018/02/06/rstudio-knit-to-pdf-failing-in-windows-things-to-try/)
+
++ [In the first of our interview series, the Sheffield RSE team speak to PhD student Rebecca Senior about the role of coding in her research.](http://rse.shef.ac.uk/blog/code-in-the-academy-rebecca-senior/)
+
++ [Using goodreads API to figure out most popular books among Estonians.](http://www.reigo.eu/post/goodreads-what-books-estoniareads/)
+
++ [I used R and keras to generate offensive license plates. It ended up being really funny.](https://medium.com/@skyetetra/using-deep-learning-to-generate-offensive-license-plates-619b163ed937)
+
++ [Amelia McNamara's syntax comparison cheatsheet. Specifically for new R users. ](http://www.science.smith.edu/~amcnamara/Syntax-cheatsheet.pdf)
+
++ [tutorial on scraping, post-processing text, and interactive mapping using the leaflet package. I had submitted it last week but realized I sent the wrong link!](https://trent.netlify.com/code/mapping-the-global-metal-scene-using-leaflet-and-r/)
+
++ [How to use named vectors to turn data codes into words: going from named vectors to functions to R package.](https://ryanestrellado.netlify.com/ryanestrellado.netlify.com/post/turning-dataset-codes-to-words/)
+
+
++ [Chain reaction of CRAN death](https://mattstats.wordpress.com/2018/02/05/chain-reaction-of-cran-death/)
+
++ [Concatenate Embeddings for Categorical Variables with Keras](http://flovv.github.io/Embeddings_with_keras_part2/)
+
++ [R Weekly 2018-6 R Consortium Proposals, Data Day Texas](https://rweekly.org/2018-6.html)
+
++ [How to make a shaded relief in R](https://eliocamp.github.io/codigo-r/2018/02/how-to-make-shaded-relief-in-r/)
+
++ [Exploratory & sentiment analysis of beer tweets from Untappd on Twitter](http://jasdumas.github.io/2018-02-05-exploring_untp_beer_twitter/)
+
++ [The prequel to the drake R package](https://ropensci.org/blog/2018/02/06/drake/)
+
++ [Quick and Clean DMARC Record Processing with "Inline" Rcpp](https://rud.is/b/2018/02/06/quick-and-clean-dmarc-record-processing-with-inline-rcpp/)
+
++ [The AI Show: Data Science Virtual Machine](http://blog.revolutionanalytics.com/2018/02/dsvm-on-ai-show.html)
+
++ [dater - a tiny Addin for RStudio](http://blog.sellorm.com/2018/02/06/dater-an-r-package-that-just-inserts-a-date/)
+
++ [#16: Complaining Works.](http://dirk.eddelbuettel.com/blog/2018/02/06#016_note_inconsistencies)
+
++ [Exploring git commits with git2r](https://recology.info/2018/02/git-commits/)
+
++ [Thanks, Marie Dussault, for Reading the Full blogdown Book](https://yihui.name/en/2018/02/marie-dussault/)
+
++ [In case you missed it: January 2018 roundup](http://blog.revolutionanalytics.com/2018/02/in-case-you-missed-it-january-2018-roundup.html)
+
++ [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/)
+
++ [RcppEigen 0.3.3.4.0](http://dirk.eddelbuettel.com/blog/2018/02/07#rcppeigen_0.3.3.4.0)
+
++ [Scraping and visualizing historical data on executions in the US](http://lhehnke.github.io/notes/2018/02/08/death-penalty-us)
+
++ [What do Fahrenheit, comma separated files, and markdown have in common? ](https://simplystatistics.org/2018/02/08/what-do-fahrenheit-comma-separated-files-and-markdown-have-in-common/)
+
++ [DataExplorer: Fast Data Exploration With Minimum Code](http://blog.revolutionanalytics.com/2018/02/dataexplorer.html)
+
++ [Calculating Beta in the Capital Asset Pricing Model](https://rviews.rstudio.com/2018/02/08/capm-beta/)
+
++ [Apply to attend rOpenSci unconf 2018!](https://ropensci.org/blog/2018/02/08/unconf2018/)
+
+
++ [Because it's Friday: Bon Voyage, Starman](http://blog.revolutionanalytics.com/2018/02/because-its-friday-bon-voyage-starman.html)
+
++ [Visualising an ethnicity statistical classification](http://ellisp.github.io/blog/2018/02/10/ethnicity)
+
++ [All Hidden Features will Eventually be Discovered](https://yihui.name/en/2018/02/hidden-features/)
+
++ [My first article: A not fully crossed design](https://mvaugoyeau.netlify.com/2018/02/06/my-first-article/)
+
++ [Introduction to GIS with R](https://jessesadler.com/post/gis-with-r-intro/)
+
++ [Run system commands or shell scripts from an interactive R session](https://uncmbbtrivia.netlify.com/post/2018/02/05/run-system-commands-or-shell-sripts-from-an-interactive-r-session/)
+
++ [RSS feed and rbind github repo](https://uncmbbtrivia.netlify.com/post/2018/02/06/rss-feed/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
