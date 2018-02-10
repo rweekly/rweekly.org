@@ -76,6 +76,8 @@ Release Date: 2018-2-12
 
 + [dater - a tiny Addin for RStudio](http://blog.sellorm.com/2018/02/06/dater-an-r-package-that-just-inserts-a-date/)
 
++ [ghentr](https://github.com/ijlyttle/ghentr) - tools to make it easier for you to build and share a private package-ecosystem using your instance of GitHub Enterprise [[pkgdown site](https://ijlyttle.github.io/ghentr/)]
+
 ### Package Releases
 
 + [pmatch](https://cran.r-project.org/web/packages/pmatch/index.html) - Programming with constructor types and pattern matching
