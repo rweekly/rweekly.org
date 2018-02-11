@@ -84,6 +84,8 @@ Release Date: 2018-02-12
 
 + [RcppEigen 0.3.3.4.0](http://dirk.eddelbuettel.com/blog/2018/02/07#rcppeigen_0.3.3.4.0)
 
++ [future 1.7.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone - now with even less friction and more power to the end user and the developer.  ... and `future_lapply()` has moved to the [future.apply](https://cran.r-project.org/package=future.apply) package.
+
 
 ###  Videos and Podcasts
 
