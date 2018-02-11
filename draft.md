@@ -168,6 +168,8 @@ Release Date: 2018-2-12
 
 + [RSS feed and rbind github repo](https://uncmbbtrivia.netlify.com/post/2018/02/06/rss-feed/)
 
++ [a use-case for shiny modules for downloadable plots](https://www.ildiczeller.com/2018/02/11/downloadable-ggplots-in-shiny/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
