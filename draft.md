@@ -5,7 +5,7 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2018-2-12
+Release Date: 2018-02-12
 
 ###  Highlight
 
