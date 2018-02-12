@@ -73,6 +73,8 @@ Release Date: 2018-2-19
 
 + [a use-case for shiny modules for downloadable plots](https://www.ildiczeller.com/2018/02/11/downloadable-ggplots-in-shiny/)
 
++ [[How to] Build an API wrapper package in 10 minutes.](http://colinfay.me/build-api-wrapper-package-r/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
