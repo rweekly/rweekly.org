@@ -1,57 +1,28 @@
 ---
 layout: draft
-title: R Weekly 2018-7
+title: R Weekly 2018-8
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2018-02-12
+
+Release Date: 2018-2-19
+
 
 ###  Highlight
 
+
+### R in Real World
 
 
 
 ### Insights
 
-+ [R in Latin America](http://forwards.github.io/blog/2018/02/05/r-in-latin-america/)
 
-+ [Materials (slides) from rstudio::conf 2018](https://github.com/rstudio/rstudio-conf/tree/master/2018)
-
-+ [Book'em Danno! Applying deep learning for the visual inference lineup protocol](http://giorasimchoni.com/2018/02/07/2018-02-07-book-em-danno/)
-
-+ [.rprofile: Julia Stewart Lowndes](https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/)
-
-+ [In the first of our interview series, the Sheffield RSE team speak to PhD student Rebecca Senior about the role of coding in her research.](http://rse.shef.ac.uk/blog/code-in-the-academy-rebecca-senior/)
-
-+ [Chain reaction of CRAN death](https://mattstats.wordpress.com/2018/02/05/chain-reaction-of-cran-death/)
-
-### R in Real World
-
-+ [Enter SadMan: yet more Metalliplots](https://www.johnmackintosh.com/2018-02-03-enter-sadman/)
-
-+ [Into the Unknown: Mining and visualizing STARSET song lyrics](https://lhehnke.github.io/notes/2018/02/03/starset-song-lyrics)
-
-+ [Using goodreads API to figure out most popular books among Estonians.](http://www.reigo.eu/post/goodreads-what-books-estoniareads/)
-
-+ [Into the Unknown: Mining and visualizing STARSET song lyrics](https://www.dataplanes.org/notes/2018/02/03/starset-song-lyrics)
-
-![Into the Unknown: Mining and visualizing STARSET song lyrics](https://raw.githubusercontent.com/lhehnke/lhehnke.github.io/master/img/starset-lyrics/Starplot_Vessels.png)
-
-+ [I used R and keras to generate offensive license plates. It ended up being really funny.](https://medium.com/@skyetetra/using-deep-learning-to-generate-offensive-license-plates-619b163ed937)
-
-+ [Mapping the Global Metal Scene Using Leaflet and R](https://trent.netlify.com/code/mapping-the-global-metal-scene-using-leaflet-and-r/)
-
-+ [Exploratory & sentiment analysis of beer tweets from Untappd on Twitter](http://jasdumas.github.io/2018-02-05-exploring_untp_beer_twitter/)
-
-+ [Scraping and visualizing historical data on executions in the US](http://lhehnke.github.io/notes/2018/02/08/death-penalty-us)
 
 
 ###  R in Organizations
 
-+ [Apply to attend rOpenSci unconf 2018!](https://ropensci.org/blog/2018/02/08/unconf2018/)
-
-+ [The prequel to the drake R package](https://ropensci.org/blog/2018/02/06/drake/)
 
 
 ###  R in Academia
@@ -66,23 +37,13 @@ Release Date: 2018-02-12
 
 
 
+
 **GitHub only**
 
-+ [flagfillr](https://github.com/robertmyles/flagfillr) - Use flags of countries and states as 'fills' in ggplot2 maps.
 
-+ [getDDD](https://github.com/jeanpaulrsoucy/getDDD) - Download defined daily dose (DDD) information for selected ATC codes from the website of the WHO Collaborating Centre for Drug Statistics Methodology (www.whocc.no)
-
-+ [dirichletprocess](https://cran.r-project.org/package=dirichletprocess) - building flexible Dirichlet process objects to model data in a nonparametric Bayesian framework.
-
-+ [dater - a tiny Addin for RStudio](http://blog.sellorm.com/2018/02/06/dater-an-r-package-that-just-inserts-a-date/)
 
 ### Package Releases
 
-+ [pmatch](https://cran.r-project.org/web/packages/pmatch/index.html) - Programming with constructor types and pattern matching
-
-+ [TimeSeries.OBeu](https://cran.r-project.org/web/packages/TimeSeries.OBeu/index.html) - TimeSeries.OBeu: Time Series Analysis 'OpenBudgets'
-
-+ [RcppEigen 0.3.3.4.0](http://dirk.eddelbuettel.com/blog/2018/02/07#rcppeigen_0.3.3.4.0)
 
 + [future 1.7.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone - now with even less friction and more power to the end user and the developer.  ... and `future_lapply()` has moved to the [future.apply](https://cran.r-project.org/package=future.apply) package.
 
@@ -96,91 +57,31 @@ Release Date: 2018-02-12
 ###  Resources
 
 
-+ [Amelia McNamara's syntax comparison cheatsheet. Specifically for new R users. ](http://www.science.smith.edu/~amcnamara/Syntax-cheatsheet.pdf)
+
 
 ### R Internationally
 
-+ [[FRENCH] Zoom in on a map with R - Zoomer sur une carte avec R](https://rgeomatic.hypotheses.org/1288)
+
 
 
 ###  Tutorials
 
-+ [Quick and Clean DMARC Record Processing with "Inline" Rcpp](https://rud.is/b/2018/02/06/quick-and-clean-dmarc-record-processing-with-inline-rcpp/)
-
-+ [Tidytext walkthrough: correcting spellings and creating reproducible word clouds](https://gregrs-uk.github.io/2018-02-03/tidytext-walkthrough-correcting-spellings-reproducible-word-clouds/)
-
-+ [Exploring git commits with git2r](https://recology.info/2018/02/git-commits/)
-
-+ [On struggling with aes(): an intro to writing functions with ggplot outputs](http://katiejolly.io/blog/2018-02-05/aes-string)
 
 
-+ [`tsibble`? or `tibbletime`? What's the difference between these two tidy time series packages?](https://blog.earo.me/2018/02/06/tsibble-or-tibbletime/)
 
-+ [Applying Deep Learning for the Visual Statistical Inference Lineup task (following Di Cook's keynote at rstudio::conf 2018)](http://giorasimchoni.com/2018/02/07/2018-02-07-book-em-danno/)
-
-+ [Time Series Analysis Using ARIMA Model In R](https://datascienceplus.com/time-series-analysis-using-arima-model-in-r/)
-
-+ [Where's the love for htmlwidgets? They allow you to make awesome interactive dataviz with R, but they're barely talked about! Let's change that :)](http://www.visibledata.co.uk/blog/2018/02/07/2018-02-07_where-s-the-love-for-htmlwidgets/)
-
-+ [Quick tutorial on how you can set up continuous integration for your private R projects with CircleCI to reduce risks and overhead.](https://appsilondatascience.com/blog/rstats/2018/02/07/circleci.html)
-
-+ [Some basic transformations and explorations guided by the R for Data Science book](http://annamarbut.blogspot.com/2018/02/basic-transformations-and-explorations.html)
-
-+ [Things to try when Knit to PDF fails in the Windows version of RStudio.](https://rickpackblog.wordpress.com/2018/02/06/rstudio-knit-to-pdf-failing-in-windows-things-to-try/)
-
-+ [How to use named vectors to turn data codes into words: going from named vectors to functions to R package.](https://ryanestrellado.netlify.com/post/turning-dataset-codes-to-words/)
-
-+ [Concatenate Embeddings for Categorical Variables with Keras](http://flovv.github.io/Embeddings_with_keras_part2/)
-
-+ [How to make a shaded relief in R](https://eliocamp.github.io/codigo-r/2018/02/how-to-make-shaded-relief-in-r/)
-
-+ [Data transformation in #tidyverse style: package sjmisc updated #rstats](https://strengejacke.wordpress.com/2018/02/06/data-transformation-in-tidyverse-style-package-sjmisc-updated-rstats/)
-
-+ [How to Import a CSV to an R Notebook](https://blog.datazar.com/how-to-import-a-csv-to-an-r-notebook-16291c28496e)
-
-+ [The AI Show: Data Science Virtual Machine](http://blog.revolutionanalytics.com/2018/02/dsvm-on-ai-show.html)
-
-+ [#16: Complaining Works.](http://dirk.eddelbuettel.com/blog/2018/02/06#016_note_inconsistencies)
-
-+ [Exploring git commits with git2r](https://recology.info/2018/02/git-commits/)
-
-+ [Thanks, Marie Dussault, for Reading the Full blogdown Book](https://yihui.name/en/2018/02/marie-dussault/)
-
-+ [In case you missed it: January 2018 roundup](http://blog.revolutionanalytics.com/2018/02/in-case-you-missed-it-january-2018-roundup.html)
-
-+ [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/)
-
-+ [What do Fahrenheit, comma separated files, and markdown have in common? ](https://simplystatistics.org/2018/02/08/what-do-fahrenheit-comma-separated-files-and-markdown-have-in-common/)
-
-+ [DataExplorer: Fast Data Exploration With Minimum Code](http://blog.revolutionanalytics.com/2018/02/dataexplorer.html)
-
-+ [Calculating Beta in the Capital Asset Pricing Model](https://rviews.rstudio.com/2018/02/08/capm-beta/)
-
-+ [Because it's Friday: Bon Voyage, Starman](http://blog.revolutionanalytics.com/2018/02/because-its-friday-bon-voyage-starman.html)
-
-+ [Visualising an ethnicity statistical classification](http://ellisp.github.io/blog/2018/02/10/ethnicity)
-
-+ [All Hidden Features will Eventually be Discovered](https://yihui.name/en/2018/02/hidden-features/)
-
-+ [My first article: A not fully crossed design](https://mvaugoyeau.netlify.com/2018/02/06/my-first-article/)
-
-+ [Introduction to GIS with R](https://jessesadler.com/post/gis-with-r-intro/)
-
-![Introduction to GIS with R](https://www.jessesadler.com/img/gis-with-r-intro/points_spdf-plot-1.png)
-
-+ [Run system commands or shell scripts from an interactive R session](https://uncmbbtrivia.netlify.com/post/2018/02/05/run-system-commands-or-shell-sripts-from-an-interactive-r-session/)
-
-+ [RSS feed and rbind github repo](https://uncmbbtrivia.netlify.com/post/2018/02/06/rss-feed/)
++ [a use-case for shiny modules for downloadable plots](https://www.ildiczeller.com/2018/02/11/downloadable-ggplots-in-shiny/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
 
-+ [Making banded ridgline plots of American Time Use Survey](https://gist.github.com/thoughtfulbloke/7dcc08f26fc6f8df3865de4e8d53a180)
+
 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
+
 
 
 ###  Upcoming Events
@@ -221,10 +122,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">[blog] Want to participate in <a href="https://twitter.com/hashtag/runconf18?src=hash&amp;ref_src=twsrc%5Etfw">#runconf18</a>? Only takes a few minutes to nominate yourself! Deadline Mar 8th, 2018 <a href="https://t.co/z2WEjJTseU">https://t.co/z2WEjJTseU</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/JJG9A7c4SA">pic.twitter.com/JJG9A7c4SA</a></p>&mdash; rOpenSci (@rOpenSci) <a href="https://twitter.com/rOpenSci/status/961779397131829248?ref_src=twsrc%5Etfw">9 de febrer de 2018</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Three major misconceptions I&#39;ve heard about <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> this morning:<br><br>1) No one over the age of 30 can learn how to use R<br><br>2) R is kind of cult-y<br><br>3) People who use R like to show off</p>&mdash; Jesse Maegan (@kierisi) <a href="https://twitter.com/kierisi/status/959490091709288450?ref_src=twsrc%5Etfw">2 de febrer de 2018</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What happens when you start <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>? Well, it&#39;s quite simple, it&#39;s just... <a href="https://t.co/00S7l4dSTj">pic.twitter.com/00S7l4dSTj</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href="https://twitter.com/thomasp85/status/961553618196418560?ref_src=twsrc%5Etfw">February 8, 2018</a></blockquote>
 
