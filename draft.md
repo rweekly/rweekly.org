@@ -9,16 +9,19 @@ Release Date: 2018-2-12
 
 ###  Highlight
 
++ [Materials (slides) from rstudio::conf 2018](https://github.com/rstudio/rstudio-conf/tree/master/2018)
 
++ [Apply to attend rOpenSci unconf 2018!](https://ropensci.org/blog/2018/02/08/unconf2018/)
 
++ [The prequel to the drake R package](https://ropensci.org/blog/2018/02/06/drake/)
+
++ [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/)
 
 ### Insights
 
 + [R in Latin America](http://forwards.github.io/blog/2018/02/05/r-in-latin-america/)
 
 + [Materials (slides) from rstudio::conf 2018](https://github.com/rstudio/rstudio-conf/tree/master/2018)
-
-+ [Book'em Danno! Applying deep learning for the visual inference lineup protocol](http://giorasimchoni.com/2018/02/07/2018-02-07-book-em-danno/)
 
 + [.rprofile: Julia Stewart Lowndes](https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/)
 
@@ -32,17 +35,17 @@ Release Date: 2018-2-12
 
 + [Into the Unknown: Mining and visualizing STARSET song lyrics](https://lhehnke.github.io/notes/2018/02/03/starset-song-lyrics)
 
-+ [Using goodreads API to figure out most popular books among Estonians.](http://www.reigo.eu/post/goodreads-what-books-estoniareads/)
-
-+ [Into the Unknown: Mining and visualizing STARSET song lyrics](https://www.dataplanes.org/notes/2018/02/03/starset-song-lyrics)
-
 ![Into the Unknown: Mining and visualizing STARSET song lyrics](https://raw.githubusercontent.com/lhehnke/lhehnke.github.io/master/img/starset-lyrics/Starplot_Vessels.png)
 
-+ [I used R and keras to generate offensive license plates. It ended up being really funny.](https://medium.com/@skyetetra/using-deep-learning-to-generate-offensive-license-plates-619b163ed937)
++ [Using goodreads API to figure out most popular books among Estonians.](http://www.reigo.eu/post/goodreads-what-books-estoniareads/)
+
++ [Using deep learning to generate offensive license plates](https://towardsdatascience.com/using-deep-learning-to-generate-offensive-license-plates-619b163ed937)
 
 + [Mapping the Global Metal Scene Using Leaflet and R](https://trent.netlify.com/code/mapping-the-global-metal-scene-using-leaflet-and-r/)
 
 + [Exploratory & sentiment analysis of beer tweets from Untappd on Twitter](http://jasdumas.github.io/2018-02-05-exploring_untp_beer_twitter/)
+
+![Exploratory & sentiment analysis of beer tweets from Untappd on Twitter](https://jasdumas.github.io/post_data/untp-sentiment-1.png)
 
 + [Scraping and visualizing historical data on executions in the US](http://lhehnke.github.io/notes/2018/02/08/death-penalty-us)
 
@@ -74,7 +77,7 @@ Release Date: 2018-2-12
 
 + [dirichletprocess](https://cran.r-project.org/package=dirichletprocess) - building flexible Dirichlet process objects to model data in a nonparametric Bayesian framework.
 
-+ [dater - a tiny Addin for RStudio](http://blog.sellorm.com/2018/02/06/dater-an-r-package-that-just-inserts-a-date/)
++ [dater](http://blog.sellorm.com/2018/02/06/dater-an-r-package-that-just-inserts-a-date/) - Implements and RStudio AddIn to insert the current date into a document
 
 ### Package Releases
 
@@ -96,12 +99,14 @@ Release Date: 2018-2-12
 
 ### R Internationally
 
-+ [[FRENCH] Zoom in on a map with R - Zoomer sur une carte avec R](https://rgeomatic.hypotheses.org/1288)
++ [Zoom in on a map with R - Zoomer sur une carte avec R](https://rgeomatic.hypotheses.org/1288)
 
 
 ###  Tutorials
 
 + [Quick and Clean DMARC Record Processing with "Inline" Rcpp](https://rud.is/b/2018/02/06/quick-and-clean-dmarc-record-processing-with-inline-rcpp/)
+
++ [Book'em Danno! Applying deep learning for the visual inference lineup protocol](http://giorasimchoni.com/2018/02/07/2018-02-07-book-em-danno/)
 
 + [Tidytext walkthrough: correcting spellings and creating reproducible word clouds](https://gregrs-uk.github.io/2018-02-03/tidytext-walkthrough-correcting-spellings-reproducible-word-clouds/)
 
@@ -111,8 +116,6 @@ Release Date: 2018-2-12
 
 
 + [`tsibble`? or `tibbletime`? What's the difference between these two tidy time series packages?](https://blog.earo.me/2018/02/06/tsibble-or-tibbletime/)
-
-+ [Applying Deep Learning for the Visual Statistical Inference Lineup task (following Di Cook's keynote at rstudio::conf 2018)](http://giorasimchoni.com/2018/02/07/2018-02-07-book-em-danno/)
 
 + [Time Series Analysis Using ARIMA Model In R](https://datascienceplus.com/time-series-analysis-using-arima-model-in-r/)
 
@@ -138,21 +141,21 @@ Release Date: 2018-2-12
 
 + [#16: Complaining Works.](http://dirk.eddelbuettel.com/blog/2018/02/06#016_note_inconsistencies)
 
-+ [Exploring git commits with git2r](https://recology.info/2018/02/git-commits/)
-
 + [Thanks, Marie Dussault, for Reading the Full blogdown Book](https://yihui.name/en/2018/02/marie-dussault/)
 
 + [In case you missed it: January 2018 roundup](http://blog.revolutionanalytics.com/2018/02/in-case-you-missed-it-january-2018-roundup.html)
 
 + [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/)
 
+![TensorFlow for R](https://d33wubrfki0l68.cloudfront.net/dd47d29ac8d52fc817d2c5edec7aeb803493c318/f1c17/images/2018-02-06-tfruns.png)
+
 + [What do Fahrenheit, comma separated files, and markdown have in common? ](https://simplystatistics.org/2018/02/08/what-do-fahrenheit-comma-separated-files-and-markdown-have-in-common/)
 
 + [DataExplorer: Fast Data Exploration With Minimum Code](http://blog.revolutionanalytics.com/2018/02/dataexplorer.html)
 
-+ [Calculating Beta in the Capital Asset Pricing Model](https://rviews.rstudio.com/2018/02/08/capm-beta/)
+![DataExplorer](http://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb09f098c7970d-800wi)
 
-+ [Because it's Friday: Bon Voyage, Starman](http://blog.revolutionanalytics.com/2018/02/because-its-friday-bon-voyage-starman.html)
++ [Calculating Beta in the Capital Asset Pricing Model](https://rviews.rstudio.com/2018/02/08/capm-beta/)
 
 + [Visualising an ethnicity statistical classification](http://ellisp.github.io/blog/2018/02/10/ethnicity)
 
@@ -178,6 +181,17 @@ Release Date: 2018-2-12
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ The environment variable `R_MAX_VZISE` can now be used to specify the maximal vector heap size. On macOS, unless specified by this environment variable, the maximal vector heap size is set to the maximum on 16GB and the available physical memory. This is to avoid having the `R` process killed when macOS over-commits memory.
+
++ `methods:::bind_activation()` is defunct now; it typically has been unneeded for years.
+
++ the undocumented "hidden" `.__H__.cbind` and `.__H__.rbind` are deprecated, correspondingly.
+
++ `sum(x)` and `sum(x1,x2,..,x<N>)` with many or long logical and integer vectors no longer overflows (and returns `NA` with a warning), but returns `double` numbers now in such cases.
+
++ Single components of POSIXlt objects can now be extracted and replaced via `[` indexing with 2 indices.
+
++ S3 method lookup now searches the namespace registry after the top level environment of the calling environment.
 
 ###  Upcoming Events
 
