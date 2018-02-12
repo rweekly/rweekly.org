@@ -5,7 +5,9 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
+
 Release Date: 2018-2-19
+
 
 ###  Highlight
 
@@ -42,6 +44,10 @@ Release Date: 2018-2-19
 
 ### Package Releases
 
+
++ [future 1.7.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone - now with even less friction and more power to the end user and the developer.  ... and `future_lapply()` has moved to the [future.apply](https://cran.r-project.org/package=future.apply) package.
+
++ [matrixStats 0.53.1](https://cran.r-project.org/package=matrixStats) - Functions that Apply to Rows and Columns of Matrices (and to Vectors) - with some minor bug fixes
 
 
 ###  Videos and Podcasts
