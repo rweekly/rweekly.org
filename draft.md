@@ -14,7 +14,7 @@ Release Date: 2018-2-19
 
 ### R in Real World
 
-
++ [How to maraaverickfy a blog post without even reading it](https://itsalocke.com/blog/how-to-maraaverickfy-a-blog-post-without-even-reading-it/)
 
 ### Insights
 
