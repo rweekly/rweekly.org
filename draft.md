@@ -17,18 +17,6 @@ Release Date: 2018-2-12
 
 + [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/)
 
-### Insights
-
-+ [R in Latin America](http://forwards.github.io/blog/2018/02/05/r-in-latin-america/)
-
-+ [Materials (slides) from rstudio::conf 2018](https://github.com/rstudio/rstudio-conf/tree/master/2018)
-
-+ [.rprofile: Julia Stewart Lowndes](https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/)
-
-+ [In the first of our interview series, the Sheffield RSE team speak to PhD student Rebecca Senior about the role of coding in her research.](http://rse.shef.ac.uk/blog/code-in-the-academy-rebecca-senior/)
-
-+ [Chain reaction of CRAN death](https://mattstats.wordpress.com/2018/02/05/chain-reaction-of-cran-death/)
-
 ### R in Real World
 
 + [Enter SadMan: yet more Metalliplots](https://www.johnmackintosh.com/2018-02-03-enter-sadman/)
@@ -49,6 +37,17 @@ Release Date: 2018-2-12
 
 + [Scraping and visualizing historical data on executions in the US](http://lhehnke.github.io/notes/2018/02/08/death-penalty-us)
 
+### Insights
+
++ [R in Latin America](http://forwards.github.io/blog/2018/02/05/r-in-latin-america/)
+
++ [Materials (slides) from rstudio::conf 2018](https://github.com/rstudio/rstudio-conf/tree/master/2018)
+
++ [.rprofile: Julia Stewart Lowndes](https://ropensci.org/blog/2018/02/09/rprofile-julia-stewart-lowndes/)
+
++ [In the first of our interview series, the Sheffield RSE team speak to PhD student Rebecca Senior about the role of coding in her research.](http://rse.shef.ac.uk/blog/code-in-the-academy-rebecca-senior/)
+
++ [Chain reaction of CRAN death](https://mattstats.wordpress.com/2018/02/05/chain-reaction-of-cran-death/)
 
 ###  R in Organizations
 
@@ -67,15 +66,16 @@ Release Date: 2018-2-12
 
 **CRAN**
 
++ [dirichletprocess](https://cran.r-project.org/package=dirichletprocess) - building flexible Dirichlet process objects to model data in a nonparametric Bayesian framework.
 
 
 **GitHub only**
 
 + [flagfillr](https://github.com/robertmyles/flagfillr) - Use flags of countries and states as 'fills' in ggplot2 maps.
 
-+ [getDDD](https://github.com/jeanpaulrsoucy/getDDD) - Download defined daily dose (DDD) information for selected ATC codes from the website of the WHO Collaborating Centre for Drug Statistics Methodology (www.whocc.no)
+![flagfillr](https://raw.githubusercontent.com/RobertMyles/flagfillr/3dccf35013dbcff2bf086901b0d9bdd4092e3b54/brazil.png)
 
-+ [dirichletprocess](https://cran.r-project.org/package=dirichletprocess) - building flexible Dirichlet process objects to model data in a nonparametric Bayesian framework.
++ [getDDD](https://github.com/jeanpaulrsoucy/getDDD) - Download defined daily dose (DDD) information for selected ATC codes from the website of the WHO Collaborating Centre for Drug Statistics Methodology (www.whocc.no)
 
 + [dater](http://blog.sellorm.com/2018/02/06/dater-an-r-package-that-just-inserts-a-date/) - Implements and RStudio AddIn to insert the current date into a document
 
@@ -85,7 +85,7 @@ Release Date: 2018-2-12
 
 + [TimeSeries.OBeu](https://cran.r-project.org/web/packages/TimeSeries.OBeu/index.html) - TimeSeries.OBeu: Time Series Analysis 'OpenBudgets'
 
-+ [RcppEigen 0.3.3.4.0](http://dirk.eddelbuettel.com/blog/2018/02/07#rcppeigen_0.3.3.4.0)
++ [RcppEigen 0.3.3.4.0](http://dirk.eddelbuettel.com/blog/2018/02/07#rcppeigen_0.3.3.4.0) - 'Rcpp' Integration for the 'Eigen' Templated Linear Algebra Library
 
 
 ###  Videos and Podcasts
@@ -110,10 +110,13 @@ Release Date: 2018-2-12
 
 + [Tidytext walkthrough: correcting spellings and creating reproducible word clouds](https://gregrs-uk.github.io/2018-02-03/tidytext-walkthrough-correcting-spellings-reproducible-word-clouds/)
 
++ [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/)
+
+![TensorFlow for R](https://d33wubrfki0l68.cloudfront.net/dd47d29ac8d52fc817d2c5edec7aeb803493c318/f1c17/images/2018-02-06-tfruns.png)
+
 + [Exploring git commits with git2r](https://recology.info/2018/02/git-commits/)
 
 + [On struggling with aes(): an intro to writing functions with ggplot outputs](http://katiejolly.io/blog/2018-02-05/aes-string)
-
 
 + [`tsibble`? or `tibbletime`? What's the difference between these two tidy time series packages?](https://blog.earo.me/2018/02/06/tsibble-or-tibbletime/)
 
@@ -124,6 +127,10 @@ Release Date: 2018-2-12
 + [Quick tutorial on how you can set up continuous integration for your private R projects with CircleCI to reduce risks and overhead.](https://appsilondatascience.com/blog/rstats/2018/02/07/circleci.html)
 
 + [Some basic transformations and explorations guided by the R for Data Science book](http://annamarbut.blogspot.com/2018/02/basic-transformations-and-explorations.html)
+
++ [DataExplorer: Fast Data Exploration With Minimum Code](http://blog.revolutionanalytics.com/2018/02/dataexplorer.html)
+
+![DataExplorer](http://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb09f098c7970d-800wi)
 
 + [Things to try when Knit to PDF fails in the Windows version of RStudio.](https://rickpackblog.wordpress.com/2018/02/06/rstudio-knit-to-pdf-failing-in-windows-things-to-try/)
 
@@ -145,15 +152,7 @@ Release Date: 2018-2-12
 
 + [In case you missed it: January 2018 roundup](http://blog.revolutionanalytics.com/2018/02/in-case-you-missed-it-january-2018-roundup.html)
 
-+ [TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/)
-
-![TensorFlow for R](https://d33wubrfki0l68.cloudfront.net/dd47d29ac8d52fc817d2c5edec7aeb803493c318/f1c17/images/2018-02-06-tfruns.png)
-
 + [What do Fahrenheit, comma separated files, and markdown have in common? ](https://simplystatistics.org/2018/02/08/what-do-fahrenheit-comma-separated-files-and-markdown-have-in-common/)
-
-+ [DataExplorer: Fast Data Exploration With Minimum Code](http://blog.revolutionanalytics.com/2018/02/dataexplorer.html)
-
-![DataExplorer](http://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb09f098c7970d-800wi)
 
 + [Calculating Beta in the Capital Asset Pricing Model](https://rviews.rstudio.com/2018/02/08/capm-beta/)
 
