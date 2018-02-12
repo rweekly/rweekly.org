@@ -42,6 +42,8 @@ Release Date: 2018-2-19
 
 
 
++ [ghentr](https://github.com/ijlyttle/ghentr) - tools to make it easier for you to build and share a private package-ecosystem using your instance of GitHub Enterprise [[pkgdown site](https://ijlyttle.github.io/ghentr/)]
+
 ### Package Releases
 
 
