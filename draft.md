@@ -63,6 +63,8 @@ Release Date: 2018-2-19
 
 
 
++ [a use-case for shiny modules for downloadable plots](https://www.ildiczeller.com/2018/02/11/downloadable-ggplots-in-shiny/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
