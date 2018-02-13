@@ -133,7 +133,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 + [rOpenSci unconf18 self-nominations, deadline 2018/03/08](https://ropensci.org/blog/2018/02/08/unconf2018/)
 
-+ [Rladies NYC Event](https://www.meetup.com/rladies-newyork/events/247304067/?_cookie-check=oqtQje-WCcbU24yI) Creating Websites in R and A Data Science Update. Check out more on http://www.rladiesnyc.org
++ [Rladies NYC Event on **Feb 15, 2018**](https://www.meetup.com/rladies-newyork/events/247304067/?_cookie-check=oqtQje-WCcbU24yI) Creating Websites in R and A Data Science Update. Check out more on http://www.rladiesnyc.org
+
++ [R-Ladies NYC April 2018 Book Club](https://www.goodreads.com/group/show/225365-r-ladies-nyc) R-Ladies NYC are still gathering suggestions for the bookclub.
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
