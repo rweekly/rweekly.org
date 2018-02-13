@@ -18,6 +18,8 @@ Release Date: 2018-2-19
 
 + [Using Flexdashboards to Monitor Clinical Research](https://jenthompson.me/2018/02/09/flexdashboards-monitoring/)
 
++ [Happy Galentine's Day!](https://suzan.rbind.io/2018/02/happy-galentines-day/) - Tidytext analysis on selected episodes of Parks & Recreation 
+
 ### Insights
 
 + [Takeaways from the RStudio Conference](http://ohi-science.org/news/takeaways-from-rstudioconf)
