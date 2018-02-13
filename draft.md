@@ -54,7 +54,7 @@ Release Date: 2018-2-19
 
 ###  Videos and Podcasts
 
-
++ [Tidy evaluation in 5 minutes](https://www.youtube.com/watch?v=nERXS3ssntw&feature=youtu.be)
 
 ###  Resources
 
