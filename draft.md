@@ -65,6 +65,9 @@ Release Date: 2018-2-19
 
 + [NSSD NO.54: Soft Spot for Microsoft](http://nssdeviations.com/54-soft-spot-for-microsoft) Hilary and Roger follow up on his talk at WEHI and the discussion on intelligence analysts. They also discuss Microsoft's R-related tools, movie spoilers, and other miscellaneous topics.
 
++ [DataFramed Ep9: Data Science and Online Experiments at Etsy.](https://www.datacamp.com/community/podcast/data-science-experiments-etsy) Discover how data science and online experiments impact business and decision making at Etsy. [Hugo Bowne-Anderson's](https://twitter.com/hugobowne) interview with [@Emily Robinson](https://twitter.com/robinson_es).
+
+
 ###  Resources
 
 
