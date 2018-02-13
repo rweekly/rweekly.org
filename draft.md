@@ -75,6 +75,8 @@ Release Date: 2018-2-19
 
 + [[How to] Build an API wrapper package in 10 minutes.](http://colinfay.me/build-api-wrapper-package-r/)
 
++ [Multilevel Modeling in R with NHL Power Play Data](https://mattkmiecik.com/post-Multilevel-Modeling-in-R-with-NHL-Power-Play-Data.html)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
