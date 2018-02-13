@@ -16,9 +16,13 @@ Release Date: 2018-2-19
 
 + [How to maraaverickfy a blog post without even reading it](https://itsalocke.com/blog/how-to-maraaverickfy-a-blog-post-without-even-reading-it/)
 
++ [Using Flexdashboards to Monitor Clinical Research](https://jenthompson.me/2018/02/09/flexdashboards-monitoring/)
+
 ### Insights
 
++ [Takeaways from the RStudio Conference](http://ohi-science.org/news/takeaways-from-rstudioconf)
 
++ [Reflection: A year of R-Ladies #LdnOnt](http://theaknowles.com/post/reflection-a-year-of-r-ladies-ldnont/)
 
 
 ###  R in Organizations
