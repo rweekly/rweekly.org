@@ -35,7 +35,7 @@ Release Date: 2018-2-19
 
 **CRAN**
 
-
++ [cancensus](https://cran.r-project.org/web/packages/cancensus/index.html) - an R interface to access, retrieve, and improve working with Canadian Census data and geography. [Site for documentation and examples.](https://mountainmath.github.io/cancensus/index.html)
 
 
 **GitHub only**
