@@ -43,6 +43,7 @@ Release Date: 2018-2-19
 
 + [cancensus](https://cran.r-project.org/web/packages/cancensus/index.html) - an R interface to access, retrieve, and improve working with Canadian Census data and geography. [Site for documentation and examples.](https://mountainmath.github.io/cancensus/index.html)
 
++ [shinyalert](https://cran.r-project.org/web/packages/shinyalert/index.html) - adding popup messages (modals) in Shiny. [README for details](https://github.com/daattali/shinyalert) or [click here for a demo](https://daattali.com/shiny/shinyalert-demo/)
 
 **GitHub only**
 
