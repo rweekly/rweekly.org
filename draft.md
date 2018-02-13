@@ -60,6 +60,8 @@ Release Date: 2018-2-19
 
 + [Tidy evaluation in 5 minutes](https://www.youtube.com/watch?v=nERXS3ssntw&feature=youtu.be)
 
++ [NSSD NO.54: Soft Spot for Microsoft](http://nssdeviations.com/54-soft-spot-for-microsoft) Hilary and Roger follow up on his talk at WEHI and the discussion on intelligence analysts. They also discuss Microsoft's R-related tools, movie spoilers, and other miscellaneous topics.
+
 ###  Resources
 
 
@@ -99,6 +101,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 + satRday Cape Town 2018 **March 17** <br />
 [satRday Cape Town](http://capetown2018.satrdays.org/)
 
++ New York R conference **Aprl 20-21** <br />
+[New York R conference](https://www.rstats.nyc/),Discount Code : rladies
+
 + R/Finance 2018 **June 1 and 2** <br />
 [Applied Finance with R](http://www.rinfinance.com).
 
@@ -128,6 +133,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 + [rOpenSci unconf18 self-nominations, deadline 2018/03/08](https://ropensci.org/blog/2018/02/08/unconf2018/)
 
++ [Rladies NYC Event](https://www.meetup.com/rladies-newyork/events/247304067/?_cookie-check=oqtQje-WCcbU24yI) Creating Websites in R and A Data Science Update. Check out more on http://www.rladiesnyc.org
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
