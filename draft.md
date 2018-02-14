@@ -75,6 +75,7 @@ Release Date: 2018-2-19
 
 ### R Internationally
 
++ [Itération de fonctions avec purrr](http://perso.ens-lyon.fr/lise.vaudor/iterer-des-fonctions-avec-purrr/) - Tutorial on purrr in French
 
 
 
