@@ -20,6 +20,8 @@ Release Date: 2018-2-19
 
 + [Happy Galentine's Day!](https://suzan.rbind.io/2018/02/happy-galentines-day/) - Tidytext analysis on selected episodes of Parks & Recreation 
 
++ [Sentiment Analysis of 5 popular romantic comedies](https://appsilondatascience.com/blog/rstats/2018/02/14/valentines.html) - Short tutorial on analyzing a sentiment in romantic comedies and creating interesting data visualizations.
+
 ### Insights
 
 + [Takeaways from the RStudio Conference](http://ohi-science.org/news/takeaways-from-rstudioconf)
