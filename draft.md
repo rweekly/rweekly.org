@@ -47,6 +47,8 @@ Release Date: 2018-2-19
 
 + [shinyalert](https://cran.r-project.org/web/packages/shinyalert/index.html) - adding popup messages (modals) in Shiny. [README for details](https://github.com/daattali/shinyalert) or [click here for a demo](https://daattali.com/shiny/shinyalert-demo/)
 
++ [future.callr](https://cran.r-project.org/package=future.callr) - Parallel processing via futures using the [callr](https://cran.r-project.org/package=callr) package as the parallel backend.  Can be used anywhere in the [future](https://cran.r-project.org/package=future) ecosystem, e.g. [future.apply](https://cran.r-project.org/package=future.apply) and [doFuture](https://cran.r-project.org/package=doFuture) (a foreach adaptor).
+
 **GitHub only**
 
 
