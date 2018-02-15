@@ -51,7 +51,6 @@ Release Date: 2018-2-19
 
 + [ghentr](https://github.com/ijlyttle/ghentr) - tools to make it easier for you to build and share a private package-ecosystem using your instance of GitHub Enterprise [[pkgdown site](https://ijlyttle.github.io/ghentr/)]
 
-+ [neo4j gRaphs](https://github.com/chucheria/neo4j-graphs) - Rmarkdown to start playing with Neo4j in R. Importing data, making queries and graph analytics in a R+Neo4j workflow.
 
 ### Package Releases
 
@@ -83,7 +82,7 @@ Release Date: 2018-2-19
 ###  Tutorials
 
 
-
++ [neo4j gRaphs](https://github.com/chucheria/neo4j-graphs) - Rmarkdown to start playing with Neo4j in R. Importing data, making queries and graph analytics in a R+Neo4j workflow.
 
 + [a use-case for shiny modules for downloadable plots](https://www.ildiczeller.com/2018/02/11/downloadable-ggplots-in-shiny/)
 
