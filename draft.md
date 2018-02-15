@@ -91,6 +91,8 @@ Release Date: 2018-2-19
 
 + [Multilevel Modeling in R with NHL Power Play Data](https://mattkmiecik.com/post-Multilevel-Modeling-in-R-with-NHL-Power-Play-Data.html)
 
++ [On struggling with aes(): an intro to writing functions with ggplot outputs](http://katiejolly.io/blog/2018-02-05/aes-string?utm_content=buffer0f0cf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ### Gist & Cookbook
