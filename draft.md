@@ -133,7 +133,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-
++ [Head of BI at German publishing company](https://mitarbeiterwerben.vnrag.de/de/candidate/job/4ZGUc7qyok/B8iARla0e)
 
 
 
