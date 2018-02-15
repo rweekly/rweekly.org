@@ -84,7 +84,6 @@ Release Date: 2018-2-19
 
 ###  Tutorials
 
-
 + [neo4j gRaphs](https://github.com/chucheria/neo4j-graphs) - Rmarkdown to start playing with Neo4j in R. Importing data, making queries and graph analytics in a R+Neo4j workflow.
 
 + [a use-case for shiny modules for downloadable plots](https://www.ildiczeller.com/2018/02/11/downloadable-ggplots-in-shiny/)
@@ -94,6 +93,8 @@ Release Date: 2018-2-19
 + [Multilevel Modeling in R with NHL Power Play Data](https://mattkmiecik.com/post-Multilevel-Modeling-in-R-with-NHL-Power-Play-Data.html)
 
 + [On struggling with aes(): an intro to writing functions with ggplot outputs](http://katiejolly.io/blog/2018-02-05/aes-string?utm_content=buffer0f0cf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
++ [Introducing tidyLPA (an R package for carrying out Latent Profile Analysis)](https://jrosen48.github.io/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
