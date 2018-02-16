@@ -70,6 +70,7 @@ Release Date: 2018-2-19
 
 + [DataFramed Ep9: Data Science and Online Experiments at Etsy.](https://www.datacamp.com/community/podcast/data-science-experiments-etsy) Discover how data science and online experiments impact business and decision making at Etsy. [Hugo Bowne-Anderson's](https://twitter.com/hugobowne) interview with [@Emily Robinson](https://twitter.com/robinson_es).
 
++ [R-Podcast Episode 24: Yihui Xie Returns (rstudio::conf 2018)](https://r-podcast.org/episode/024-rstudioconf-yihui-xie/) Eric reconnects with the first-ever guest of the R-Podcast, RStudio software engineer Yihui Xie. In their conversation you’ll hear about Yihui’s journey since joining RStudio, his vision of how `blogdown` and `bookdown` could lead to a streamlined publishing worflow, and much more.
 
 ###  Resources
 
