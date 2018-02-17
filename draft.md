@@ -22,18 +22,42 @@ Release Date: 2018-2-19
 
 + [Sentiment Analysis of 5 popular romantic comedies](https://appsilondatascience.com/blog/rstats/2018/02/14/valentines.html) - Short tutorial on analyzing a sentiment in romantic comedies and creating interesting data visualizations.
 
++ [Exploratory data Analysis of US Fatal Police Shootings Since 2015](https://brennonborbon.wordpress.com/2018/02/14/eda-of-fatal-police-shootings-in-the-us/)
+
++ [Visualizing population growth rates and doubling times across the world with UN data](http://kanishka.xyz/2018/population-growth-and-doubling-times-with-tidyverse/)
+
++ [Meetup "Yes" RSVP tracking and ggplot graphing using Meetup API (inspired by rladies/meetupr package)](https://rickpackblog.wordpress.com/2018/02/13/meetup-com-yes-rsvp-graphing-fun-with-httr-package-and-rladies-meetupr/)
+
++ [The relationship between sociodemographic characteristics and electoral vote results - part 2](http://www.simoncoulombe.com/blog_elect2015_part2.html)
+
+
++ [How to scrap data from YouTube channels/videos with the hope to gain some statistically driven insights into the notoriety of particular online content.](https://medium.com/@tumuhimbisemoses/youtube-data-mining-experiences-of-using-r-1419e9aefcc5)
+
+
++ [Geocoding in NYC from R](https://mltconsecol.github.io/post/20180210_geocodingnyc/)
+
++ [Map prisons in the United States](https://www.gl-li.com/2018/02/05/map-prisons-in-the-united-states/)
+
++ [What sites do New York Times op-ed columnists link to? I used rvest, tidyverse, visNetwork to find out.](http://etachov.io/projects/2018/01/28/nyt-link-network/)
+
 ### Insights
 
 + [Takeaways from the RStudio Conference](http://ohi-science.org/news/takeaways-from-rstudioconf)
 
 + [Reflection: A year of R-Ladies #LdnOnt](http://theaknowles.com/post/reflection-a-year-of-r-ladies-ldnont/)
 
++ [Recapping the best parts of the rstudio::conf 2018 in San Diego, CA.](https://www.blue-granite.com/blog/rstudio-conference-2018-recap)
 
 ###  R in Organizations
 
++ [Evidence Synthesis Hackathon](https://evidencesynthesishackathon.com/)
+
++ [Diversity scholarships for upcoming R conferences](http://blog.revolutionanalytics.com/2018/02/diversity-scholarships.html)
+
++ [Summer interns](https://blog.rstudio.com/2018/02/12/summer-interns/)
 
 
-###  R in Academia
+###  R in Academia
 
 
 
@@ -49,6 +73,8 @@ Release Date: 2018-2-19
 
 + [future.callr](https://cran.r-project.org/package=future.callr) - Parallel processing via futures using the [callr](https://cran.r-project.org/package=callr) package as the parallel backend.  Can be used anywhere in the [future](https://cran.r-project.org/package=future) ecosystem, e.g. [future.apply](https://cran.r-project.org/package=future.apply) and [doFuture](https://cran.r-project.org/package=doFuture) (a foreach adaptor).
 
++ [Cluster.OBeu: Cluster Analysis 'OpenBudgets'](https://cran.r-project.org/package=Cluster.OBeu)
+
 **GitHub only**
 
 + [ghentr](https://github.com/ijlyttle/ghentr) - tools to make it easier for you to build and share a private package-ecosystem using your instance of GitHub Enterprise [[pkgdown site](https://ijlyttle.github.io/ghentr/)]
@@ -60,6 +86,10 @@ Release Date: 2018-2-19
 + [future 1.7.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone - now with even less friction and more power to the end user and the developer.  ... and `future_lapply()` has moved to the [future.apply](https://cran.r-project.org/package=future.apply) package.
 
 + [matrixStats 0.53.1](https://cran.r-project.org/package=matrixStats) - Functions that Apply to Rows and Columns of Matrices (and to Vectors) - with some minor bug fixes
+
++ [BH 1.66.0-1](http://dirk.eddelbuettel.com/blog/2018/02/13#bh_1.66.0-1)
+
++ [tidygraph 1.1 – A tidy hope](https://www.data-imaginist.com/2018/tidygraph-1-1-a-tidy-hope/)
 
 
 ###  Videos and Podcasts
@@ -96,6 +126,75 @@ Release Date: 2018-2-19
 + [On struggling with aes(): an intro to writing functions with ggplot outputs](http://katiejolly.io/blog/2018-02-05/aes-string?utm_content=buffer0f0cf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 + [Introducing tidyLPA (an R package for carrying out Latent Profile Analysis)](https://jrosen48.github.io/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/)
+
++ [Basic Relational Database Functions](http://annamarbut.blogspot.com/2018/02/databases-they-all-relative-really.html)
+
++ [This post tells the story of how we developed Liss, an AI for sentiment analysis in Luxembourguish trained on more than 50 000 movie reviews. ](http://blog.rdata.lu/post/2018-02-14-teaching-luxembourgish-to-my-computer/)
+
++ [ggplot2 features for visualizing the NHANES data](https://datascienceplus.com/ggplot2-features-for-visualizing-the-nhanes-data/)
+
++ [Getting Started with Geocoding for NYC in R using the new NYC GeoSearch tool](https://mltconsecol.github.io/post/20180210_geocodingnyc/)
+
++ [A tutorial on visualizing negative space in a meaningful way, using fish encounter histories](https://fishsciences.github.io/post/visualizing-fish-encounter-histories/)
+
++ [A gentle introduction to tidy descriptive statistics, ANOVAs, and publication-style graphics in R ](https://towardsdatascience.com/a-gentle-guide-to-statistics-in-r-ccb91cc1177e)
+
+
++ [Using Flexdashboards to Monitor Clinical Research](https://jenthompson.me/2018/02/09/flexdashboards-monitoring/)
+
++ [Using the 'breaks' argument in ggplot to drop items from legends, with some background and a possible contribution to the ggplot2 documentation.](http://luisdva.github.io/rstats/set-the-breaks/)
+
++ [Predicting job search by training a random forest on an unbalanced dataset](http://www.brodrigues.co/blog/2018-02-11-census-random_forest/)
+
++ [tfestimators - Package: Embeddings for Categorical Variables](http://flovv.github.io/Embeddings_with_tf/)
+
++ [Evaluating R code from potentially malicious sources](https://coolbutuseless.bitbucket.io/2018/02/10/evaluating-r-code-from-potentially-malicious-sources/)
+
++ [The relationship between sociodemographic characteristics and electoral vote results - part 2 : get census data and plot the results](https://www.simoncoulombe.com/2018/02/12/the-relationship-between-sociodemographic-characteristics-and-electoral-vote-results---part-2--get-census-data-and-plot-the-results/)
+
++ [Tidy evaluation in 5 mins](https://www.youtube.com/watch?v=nERXS3ssntw)
+
++ [Is 10,000 Cells Big?](http://www.win-vector.com/blog/2018/02/is-10000-cells-big/)
+
++ [Evaluating R code from potentially malicious sources Part 4](https://coolbutuseless.bitbucket.io/2018/02/13/evaluating-r-code-from-potentially-malicious-sources-part-4/)
+
++ [Support for hOCR and Tesseract 4 in R](https://ropensci.org/technotes/2018/02/14/tesseract-18/)
+
++ [shinyalert: Easily create pretty popup messages (modals) in Shiny](https://deanattali.com/blog/shinyalert-package/)
+
++ [What does Microsoft do with R?](http://blog.revolutionanalytics.com/2018/02/what-does-microsoft-do-with-r.html)
+
++ [Happy Galentine's Day!](https://suzan.rbind.io/2018/02/happy-galentines-day/)
+
++ [Supervised vs. Unsupervised Learning: Exploring Brexit with PLS and PCA](http://feedproxy.google.com/~r/ciflikli/~3/a0rznSVTxOk/)
+
++ [Population growth and Doubling times with tidyverse](http://kanishka.xyz/2018/population-growth-and-doubling-times-with-tidyverse/)
+
++ [Deep learning at rstudio::conf 2018](https://rviews.rstudio.com/2018/02/14/deep-learning-rstudio-conf-2018/)
+
++ [Introducing tidyLPA (an R package for carrying out Latent Profile Analysis)](https://jrosen48.github.io/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/)
+
++ [The Importance Of Sponsorship](https://robinsones.github.io/The-Importance-of-Sponsorship/)
+
++ [chull()](https://coolbutuseless.bitbucket.io/2018/02/15/chull/)
+
++ [We Want to be Playing with a Moderate Number of Powerful Blocks](http://www.win-vector.com/blog/2018/02/we-want-to-be-playing-with-a-moderate-number-of-powerful-blocks/)
+
++ [convex hulls part 2](https://coolbutuseless.bitbucket.io/2018/02/16/convex-hulls-part-2/)
+
++ [A fresh look for base graphics](http://blog.revolutionanalytics.com/2018/02/pretty-base-graphics.html)
+
++ [Explain R environments like I'm five](http://colinfay.me/explain-environments-eli5/)
+
++ [Importing 30GB of data in R with sparklyr](http://www.brodrigues.co/blog/2018-02-16-importing_30gb_of_data/)
+
++ [Pym.js Library Vulnerability in widgetframe Package](https://rud.is/b/2018/02/16/pym-js-library-vulnerability-in-widgetframe-package/)
+
++ [Because it's Friday: Hold the Door](http://blog.revolutionanalytics.com/2018/02/because-its-friday-hold-the-door.html)
+
++ [Books I liked in 2017](http://ellisp.github.io/blog/2018/02/17/books-2017)
+
+
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -157,4 +256,3 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
