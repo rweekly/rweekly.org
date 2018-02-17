@@ -118,6 +118,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 + New York R conference **Aprl 20-21** <br />
 [New York R conference](https://www.rstats.nyc/),Discount Code : rladies
 
++ [eRum 2018](http://2018.erum.io) **May 14-16** <br />
+European R Users Meeting @ Budapest, Hungary
+
 + R/Finance 2018 **June 1 and 2** <br />
 [Applied Finance with R](http://www.rinfinance.com).
 
