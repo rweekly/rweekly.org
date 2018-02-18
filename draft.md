@@ -40,6 +40,8 @@ Release Date: 2018-2-19
 
 + [What sites do New York Times op-ed columnists link to? I used rvest, tidyverse, visNetwork to find out.](http://etachov.io/projects/2018/01/28/nyt-link-network/)
 
++ [Creating conversation heaRts for Valentine's Day](http://katiejolly.io/blog/2018-02-18/conversation-hearts)
+
 ### Insights
 
 + [Takeaways from the RStudio Conference](http://ohi-science.org/news/takeaways-from-rstudioconf)
