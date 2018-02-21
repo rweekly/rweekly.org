@@ -15,10 +15,9 @@ Release Date: 2018-2-26
 
 ### R in Real World
 
++ [Creating conversation heaRts for Valentine's Day](http://katiejolly.io/blog/2018-02-18/conversation-hearts)  
 
-
-
-+ [Creating conversation heaRts for Valentine's Day](http://katiejolly.io/blog/2018-02-18/conversation-hearts)
++ [Simpsons Characters - A tidy text analysis](https://deanmarchiori.github.io/2018-02-21-simpsons/) 
 
 ### Insights
 
