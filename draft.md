@@ -66,6 +66,7 @@ Release Date: 2018-2-26
 
 ###  Tutorials
 
++ [Troubleshooting Package Install Issues](https://www.littlemissdata.com/blog/r-package-install)
 
 
 
