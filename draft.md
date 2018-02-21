@@ -15,13 +15,13 @@ Release Date: 2018-2-26
 
 ### R in Real World
 
-
-
-
 + [Creating conversation heaRts for Valentine's Day](http://katiejolly.io/blog/2018-02-18/conversation-hearts)
+
++ [Imposter syndrome](https://ped.netlify.com/2018/02/20/imposter-syndrome/)
 
 ### Insights
 
++ [Blog about something you just learned](https://edwinth.github.io/blog-new-things/)
 
 
 ###  R in Organizations
