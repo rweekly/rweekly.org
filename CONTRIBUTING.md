@@ -12,39 +12,9 @@ Doing is better than talking. If you find a bug which is easy to fix, just click
 + [item one](link) - text
 
 + [item two](link) - text
+
+![item two image alt text](link)
 ```
-
-
-+ [item one](link) - text
-
-+ [item two](link) - text
-
-```
-For CRAN packages
-
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [pkg name](link) - text 
-
-For Bioconductor packages
-
-+ <img class='emoji' src="https://link.rweekly.org/b" width='50' /> [pkg name](link) - text 
-
-For GitHub only packages
-
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [pkg name](link) - text 
-```
-
-For CRAN packages
-
-+ <img class='emoji' src="https://link.rweekly.org/c" width='20' /> [pkg name](link) - text 
-
-For Bioconductor packages
-
-+ <img class='emoji' src="https://link.rweekly.org/b" width='50' /> [pkg name](link) - text 
-
-For GitHub only packages
-
-+ <img class='emoji' src="https://link.rweekly.org/g" width='20' /> [pkg name](link) - text 
-
 
 # Structure of the draft
 
@@ -92,7 +62,7 @@ New packages and tools that are created or published in the past 2 weeks.
 
 ## New Releases
 
-New releases of tools and packages for R
+New releases (i.e. recent version updates) of pre-existing tools and packages for R
 
 ## Call for Participation
 
