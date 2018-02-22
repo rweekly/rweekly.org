@@ -19,9 +19,11 @@ Release Date: 2018-2-26
 
 + [Simpsons Characters - A tidy text analysis](https://deanmarchiori.github.io/2018-02-21-simpsons/) 
 
++ [Markdown based web analytics? Rectangle your blog](https://itsalocke.com/blog/markdown-based-web-analytics-rectangle-your-blog/)
+
 ### Insights
 
-
++ [rstudio::conf 2018 Highlights](https://jenthompson.me/2018/02/20/rstudioconf-2018/)
 
 ###  R in Organizations
 
@@ -55,7 +57,9 @@ Release Date: 2018-2-26
 
 ###  Resources
 
++ [An awesome curated list of blogs built using blogdown](https://github.com/sellorm/awesome-blogdown)
 
++ [Course materials for the ITS course TRAN5115, Sustainable Spatial Planning and Analysis (SSPA) ](https://github.com/ITSLeeds/SSPA)
 
 
 ### R Internationally
