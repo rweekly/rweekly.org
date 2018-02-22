@@ -73,7 +73,9 @@ Release Date: 2018-2-26
 
 + [Stop Using Excel to Preprocess E-Prime Data](https://mattkmiecik.com/post-Stop-Using-Excel-to-Preprocess-E-Prime-Data.html)
 
++ [String Encoding and R](https://kevinushey.github.io/blog/2018/02/21/string-encoding-and-r/)
 
++ [Internal Packages for Common Data Manipulations](http://jonthegeek.com/2018/02/19/internal-packages-for-common-data-manipulations/)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
