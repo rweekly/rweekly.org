@@ -67,6 +67,8 @@ Release Date: 2018-2-26
 
 + [Troubleshooting Package Install Issues](https://www.littlemissdata.com/blog/r-package-install)
 
++ [Stop Using Excel to Preprocess E-Prime Data](https://mattkmiecik.com/post-Stop-Using-Excel-to-Preprocess-E-Prime-Data.html)
+
 
 
 
