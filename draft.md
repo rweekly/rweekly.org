@@ -16,9 +16,9 @@ Release Date: 2018-2-26
 ### R in Real World
 
 
-+ [Creating conversation heaRts for Valentine's Day](http://katiejolly.io/blog/2018-02-18/conversation-hearts)  
++ [Creating conversation heaRts for Valentine's Day](http://katiejolly.io/blog/2018-02-18/conversation-hearts)
 
-+ [Simpsons Characters - A tidy text analysis](https://deanmarchiori.github.io/2018-02-21-simpsons/) 
++ [Simpsons Characters - A tidy text analysis](https://deanmarchiori.github.io/2018-02-21-simpsons/)
 
 + [Markdown based web analytics? Rectangle your blog](https://itsalocke.com/blog/markdown-based-web-analytics-rectangle-your-blog/)
 
@@ -26,16 +26,19 @@ Release Date: 2018-2-26
 
 ### Insights
 
-
 + [Blog about something you just learned](https://edwinth.github.io/blog-new-things/)
-
 
 + [rstudio::conf 2018 Highlights](https://jenthompson.me/2018/02/20/rstudioconf-2018/)
 
++ [How I started with R](http://kgilds.rbind.io/2018/02/18/how-i-started-with-r/)
 
++ [Xie Yihui, R Superstar and Mensch](https://matloff.wordpress.com/2018/02/22/xie-yihui-r-superstar-and-mensch/)
+
++ [I am not a Data Scientist - My R journey](http://blog.sellorm.com/2018/02/18/i-am-not-a-data-scientist-my-r-journey/)
 
 ###  R in Organizations
 
++ [Announcing the second round of ISC Funded Projects for 2017](https://www.r-consortium.org/announcement/2018/02/22/announcing-second-round-isc-funded-projects-2017)
 
 
 ###  R in Academia
@@ -48,10 +51,13 @@ Release Date: 2018-2-26
 
 **CRAN**
 
++ [Jan 2018: "Top 40" New Package Picks](https://rviews.rstudio.com/2018/02/22/jan-2018-top-40-new-package-picks/)
 
 
 
 **GitHub only**
+
++ [An RStudio Addin to help debug pipe chains](https://github.com/daranzolin/ViewPipeSteps)
 
 
 
@@ -78,6 +84,10 @@ Release Date: 2018-2-26
 
 ###  Tutorials
 
++ [Combine your hex stickers with magic(k)](http://www.masalmon.eu/2018/02/22/hexcombine/)
+
++ [R's S3 generic-function object-oriented system](http://jasdumas.github.io/2018-02-23-s3-generic-function-oo/)
+
 + [Troubleshooting Package Install Issues](https://www.littlemissdata.com/blog/r-package-install)
 
 + [Stop Using Excel to Preprocess E-Prime Data](https://mattkmiecik.com/post-Stop-Using-Excel-to-Preprocess-E-Prime-Data.html)
@@ -86,6 +96,75 @@ Release Date: 2018-2-26
 
 + [Internal Packages for Common Data Manipulations](http://jonthegeek.com/2018/02/19/internal-packages-for-common-data-manipulations/)
 
++ [autoplotly - One Line of R Code to Build Interactive Visualizations for Statistical Results ](https://terrytangyuan.github.io/2018/02/12/autoplotly-intro/)
+
++ [Use R to calculate derivatives of formulas and empirical data](https://www.andrewheiss.com/blog/2018/02/15/derivatives-r-fun/)
+
++ [Play by Play:  Adding RSVP Tracking to RLadies meetupr PACKAGE (A Github Experience) ](https://rickpackblog.wordpress.com/2018/02/19/play-by-play-adding-rsvp-tracking-to-rladies-meetupr-package-a-github-experience/)
+
++ [A short post on some rjson/jsonlite tweaking.](http://unconj.ca/blog/a-note-on-migrating-packages-from-rjson-to-jsonlite.html)
+
++ [This post shows, with an example and a small simulation, that model selection bias can make typical significance testing methods invalid. ](http://joshualoftus.com/post/model-selection-bias-invalidates-significance-tests/index.html)
+
++ [Visualizing Distributions & Linear Discriminant Analysis using Shiny](http://rsangole.netlify.com/post/first-foray-into-shiny/)
+
++ [R Tip: Use qc() For Fast Legible Quoting](http://www.win-vector.com/blog/2018/02/r-tip-use-qc-for-fast-legible-quoting/)
+
++ [Convex Hulls part 3](https://coolbutuseless.bitbucket.io/2018/02/18/convex-hulls-part-3/)
+
++ [Sketchnotes from TWiML&AI #111: Learning "Common Sense" and Physical Concepts with Roland Memisevic](https://shirinsplayground.netlify.com/2018/02/twimlai111/)
+
++ [R package serrsBayes](https://mattstats.wordpress.com/2018/02/19/serrsbayes/)
+
++ [R Tip: Use seq_len() to Avoid The Backwards Sequence Bug](http://www.win-vector.com/blog/2018/02/r-tip-use-seq_len-to-avoid-the-backwards-sequence-bug/)
+
++ [Theory free tidyeval](https://www.johnmackintosh.com/2018-02-19-theory-free-tidyeval/)
+
++ [Overlapping lines](https://coolbutuseless.bitbucket.io/2018/02/20/overlapping-lines/)
+
++ [webmockr: mock HTTP requests](https://ropensci.org/technotes/2018/02/20/webmockr-intro/)
+
++ [Deep Learning Image Classification with Keras and Shiny](http://jasdumas.github.io/2018-02-20-deep-learning-img-classifier/)
+
++ [R Tip: Use seq_len() to Avoid The Backwards Sequence Trap](http://www.win-vector.com/blog/2018/02/r-tip-use-seq_len-to-avoid-the-backwards-sequence-bug/)
+
++ [A Twist of Hygge in xaringan](https://yihui.name/en/2018/02/xaringan-hygge/)
+
++ [Convex Hulls part 4](https://coolbutuseless.bitbucket.io/2018/02/18/convex-hulls-part-4/)
+
++ [Motor policy price comparisons  – comparing apples with oranges](http://ronaldrichman.co.za/2018/02/18/motor-policy-price-comparisons-comparing-apples-with-oranges/)
+
++ [Random Fractal Maps: Software Comparison](https://jsta.rbind.io/blog/random-fractal-maps-software-comparison/)
+
++ [R Tip: Use [[ ]] Wherever You Can](http://www.win-vector.com/blog/2018/02/r-tip-use-wherever-you-can/)
+
++ [String Encoding and R](https://kevinushey.github.io/blog/2018/02/21/string-encoding-and-r/)
+
++ [Machine Learning in R with TensorFlow](http://blog.revolutionanalytics.com/2018/02/r-with-tensorflow.html)
+
++ ["I have to randomize by cluster. Is it OK if I only have 6 sites?"](https://www.rdatagen.net/post/i-have-to-randomize-by-site-is-it-ok-if-i-only-have-6/)
+
++ [R Tip: Force Named Arguments](http://www.win-vector.com/blog/2018/02/r-tip-force-named-arguments/)
+
++ [Finding the top rail-trails in each state using mixed effects models](https://jrosen48.github.io/blog/find-the-top-rail-trails-in-each-state/)
+
++ [Analyzing accelerometer data with R](http://blog.revolutionanalytics.com/2018/02/accelerometers.html)
+
++ [ggraph all grown up 🎈🦒](https://maraaverick.rbind.io/2018/02/ggraph-all-grown-up/)
+
++ [Is R base::subset() really that bad?](http://www.win-vector.com/blog/2018/02/is-r-basesubset-really-that-bad/)
+
++ [rOpenSci Vancouver Community Meetup: Transforming science through open data and software](https://ropensci.org/blog/2018/02/23/ropensci-in-yvr/)
+
++ [How to set up a sparklyr cluster in 5 minutes](http://blog.revolutionanalytics.com/2018/02/aztk-sparklyr.html)
+
++ [What Do Data Scientists Need to Know about Containerization? As Little as Possible.](http://multithreaded.stitchfix.com/blog/2018/02/22/flotilla/)
+
++ [Do tweeps with more followers follow tweeps with more followers?](http://ellisp.github.io/blog/2018/02/24/following-followers)
+
++ [Thoughts to Words - An Introduction to Aaron Simumba's Website](https://support.rbind.io/2018/02/19/introduction-to-aaron-simumba-website/)
+
++ [Generating Certificates of Attendance Using R](http://www.dsup.org/blog/creating-certificates-of-attendance-using-r/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
