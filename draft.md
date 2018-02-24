@@ -15,15 +15,24 @@ Release Date: 2018-2-26
 
 ### R in Real World
 
+
 + [Creating conversation heaRts for Valentine's Day](http://katiejolly.io/blog/2018-02-18/conversation-hearts)  
 
 + [Simpsons Characters - A tidy text analysis](https://deanmarchiori.github.io/2018-02-21-simpsons/) 
 
 + [Markdown based web analytics? Rectangle your blog](https://itsalocke.com/blog/markdown-based-web-analytics-rectangle-your-blog/)
 
++ [Imposter syndrome](https://ped.netlify.com/2018/02/20/imposter-syndrome/)
+
 ### Insights
 
+
++ [Blog about something you just learned](https://edwinth.github.io/blog-new-things/)
+
+
 + [rstudio::conf 2018 Highlights](https://jenthompson.me/2018/02/20/rstudioconf-2018/)
+
+
 
 ###  R in Organizations
 
