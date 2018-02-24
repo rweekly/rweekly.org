@@ -68,6 +68,7 @@ Release Date: 2018-2-26
 
 ###  Videos and Podcasts
 
++ [DataFramed Ep. 10 Data Science, the Environment and MOOCs with Roger Peng](https://www.datacamp.com/community/podcast/data-science-environment-moocs)
 
 
 ###  Resources
@@ -144,8 +145,6 @@ Release Date: 2018-2-26
 
 + [R Tip: Use [[ ]] Wherever You Can](http://www.win-vector.com/blog/2018/02/r-tip-use-wherever-you-can/)
 
-+ [String Encoding and R](https://kevinushey.github.io/blog/2018/02/21/string-encoding-and-r/)
-
 + [Machine Learning in R with TensorFlow](http://blog.revolutionanalytics.com/2018/02/r-with-tensorflow.html)
 
 + ["I have to randomize by cluster. Is it OK if I only have 6 sites?"](https://www.rdatagen.net/post/i-have-to-randomize-by-site-is-it-ok-if-i-only-have-6/)
@@ -171,6 +170,8 @@ Release Date: 2018-2-26
 + [Thoughts to Words - An Introduction to Aaron Simumba's Website](https://support.rbind.io/2018/02/19/introduction-to-aaron-simumba-website/)
 
 + [Generating Certificates of Attendance Using R](http://www.dsup.org/blog/creating-certificates-of-attendance-using-r/)
+
++ [Hello JS in R Markdown](http://www.aliciaschep.com/blog/js-rmarkdown/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
