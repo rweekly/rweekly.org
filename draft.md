@@ -88,6 +88,12 @@ Release Date: 2018-2-26
 
 + [R's S3 generic-function object-oriented system](http://jasdumas.github.io/2018-02-23-s3-generic-function-oo/)
 
++ [An introduction to joint modeling in R](https://talesofr.wordpress.com/2018/02/23/an-introduction-to-joint-modeling-in-r/)
+
++ [dplyr, mclapply, for loop and speed](https://scottishsnow.wordpress.com/2018/02/18/dplyr-lapply-for-loop/)
+
++ [Packages for Getting Started with Time Series Analysis](https://mathewanalytics.com/2018/02/18/packages-for-getting-started-with-time-series-analysis-in-r/)
+
 + [Troubleshooting Package Install Issues](https://www.littlemissdata.com/blog/r-package-install)
 
 + [Stop Using Excel to Preprocess E-Prime Data](https://mattkmiecik.com/post-Stop-Using-Excel-to-Preprocess-E-Prime-Data.html)
@@ -226,3 +232,10 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Did you know that <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> has a real-time LaTeX equation previewer? Create a math block with $$ in your R Markdown document to try it out. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/TneXdaOVJW">pic.twitter.com/TneXdaOVJW</a></p>&mdash; RStudio Tips (@rstudiotips) <a href="https://twitter.com/rstudiotips/status/964562660351033344?ref_src=twsrc%5Etfw">February 16, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Mapping in <a href="https://twitter.com/plotlygraphs?ref_src=twsrc%5Etfw">@plotlygraphs</a> for <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> is becoming 🌎-class. Be on the look-out for announcement next week. Major thx to <a href="https://twitter.com/edzerpebesma?ref_src=twsrc%5Etfw">@edzerpebesma</a> <a href="https://twitter.com/RConsortium?ref_src=twsrc%5Etfw">@RConsortium</a> for simple features! <a href="https://t.co/vmFZ6TcB4U">pic.twitter.com/vmFZ6TcB4U</a></p>&mdash; Carson Sievert (@cpsievert) <a href="https://twitter.com/cpsievert/status/967078130388258816?ref_src=twsrc%5Etfw">February 23, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who is significat? She adds asteriskez to your p-valuez! <a href="https://twitter.com/jo_hardin47?ref_src=twsrc%5Etfw">@jo_hardin47</a> <a href="https://twitter.com/hspter?ref_src=twsrc%5Etfw">@hspter</a> <a href="https://twitter.com/robinson_es?ref_src=twsrc%5Etfw">@robinson_es</a> <a href="https://twitter.com/hashtag/rcatladies?src=hash&amp;ref_src=twsrc%5Etfw">#rcatladies</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/pQXsnplDKW">pic.twitter.com/pQXsnplDKW</a></p>&mdash; Charlotte Wickham (@CVWickham) <a href="https://twitter.com/CVWickham/status/966852116185694209?ref_src=twsrc%5Etfw">February 23, 2018</a></blockquote>
+
