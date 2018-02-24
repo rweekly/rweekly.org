@@ -15,13 +15,23 @@ Release Date: 2018-2-26
 
 ### R in Real World
 
-+ [Creating conversation heaRts for Valentine's Day](http://katiejolly.io/blog/2018-02-18/conversation-hearts)
+
++ [Creating conversation heaRts for Valentine's Day](http://katiejolly.io/blog/2018-02-18/conversation-hearts)  
+
++ [Simpsons Characters - A tidy text analysis](https://deanmarchiori.github.io/2018-02-21-simpsons/) 
+
++ [Markdown based web analytics? Rectangle your blog](https://itsalocke.com/blog/markdown-based-web-analytics-rectangle-your-blog/)
 
 + [Imposter syndrome](https://ped.netlify.com/2018/02/20/imposter-syndrome/)
 
 ### Insights
 
+
 + [Blog about something you just learned](https://edwinth.github.io/blog-new-things/)
+
+
++ [rstudio::conf 2018 Highlights](https://jenthompson.me/2018/02/20/rstudioconf-2018/)
+
 
 
 ###  R in Organizations
@@ -56,7 +66,9 @@ Release Date: 2018-2-26
 
 ###  Resources
 
++ [An awesome curated list of blogs built using blogdown](https://github.com/sellorm/awesome-blogdown)
 
++ [Course materials for the ITS course TRAN5115, Sustainable Spatial Planning and Analysis (SSPA) ](https://github.com/ITSLeeds/SSPA)
 
 
 ### R Internationally
@@ -68,7 +80,11 @@ Release Date: 2018-2-26
 
 + [Troubleshooting Package Install Issues](https://www.littlemissdata.com/blog/r-package-install)
 
++ [Stop Using Excel to Preprocess E-Prime Data](https://mattkmiecik.com/post-Stop-Using-Excel-to-Preprocess-E-Prime-Data.html)
 
++ [String Encoding and R](https://kevinushey.github.io/blog/2018/02/21/string-encoding-and-r/)
+
++ [Internal Packages for Common Data Manipulations](http://jonthegeek.com/2018/02/19/internal-packages-for-common-data-manipulations/)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
