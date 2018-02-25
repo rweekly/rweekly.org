@@ -77,6 +77,7 @@ Release Date: 2018-2-26
 
 + [Course materials for the ITS course TRAN5115, Sustainable Spatial Planning and Analysis (SSPA) ](https://github.com/ITSLeeds/SSPA)
 
++ [ViewPipeSteps](https://github.com/daranzolin/ViewPipeSteps)
 
 ### R Internationally
 
