@@ -11,35 +11,9 @@ Release Date: 2018-2-26
 
 ###  Highlight
 
-
-
-### R in Real World
-
-
-+ [Creating conversation heaRts for Valentine's Day](http://katiejolly.io/blog/2018-02-18/conversation-hearts)
-
-+ [Simpsons Characters - A tidy text analysis](https://deanmarchiori.github.io/2018-02-21-simpsons/)
-
-+ [Markdown based web analytics? Rectangle your blog](https://itsalocke.com/blog/markdown-based-web-analytics-rectangle-your-blog/)
-
-+ [Imposter syndrome](https://ped.netlify.com/2018/02/20/imposter-syndrome/)
-
-### Insights
-
-+ [Blog about something you just learned](https://edwinth.github.io/blog-new-things/)
-
-+ [rstudio::conf 2018 Highlights](https://jenthompson.me/2018/02/20/rstudioconf-2018/)
-
-+ [How I started with R](http://kgilds.rbind.io/2018/02/18/how-i-started-with-r/)
-
-+ [Xie Yihui, R Superstar and Mensch](https://matloff.wordpress.com/2018/02/22/xie-yihui-r-superstar-and-mensch/)
-
-+ [I am not a Data Scientist - My R journey](http://blog.sellorm.com/2018/02/18/i-am-not-a-data-scientist-my-r-journey/)
-
-###  R in Organizations
-
 + [Announcing the second round of ISC Funded Projects for 2017](https://www.r-consortium.org/announcement/2018/02/22/announcing-second-round-isc-funded-projects-2017)
 
++ [Deep Learning Image Classification with Keras and Shiny](http://jasdumas.github.io/2018-02-20-deep-learning-img-classifier/)
 
 ###  R in Academia
 
@@ -79,6 +53,36 @@ Release Date: 2018-2-26
 
 + [ViewPipeSteps](https://github.com/daranzolin/ViewPipeSteps), Create tabs of View() output for each chained pipe
 
+###  R in Organizations
+
++ [rOpenSci Vancouver Community Meetup: Transforming science through open data and software](https://ropensci.org/blog/2018/02/23/ropensci-in-yvr/)
+
++ [Announcing the second round of ISC Funded Projects for 2017](https://www.r-consortium.org/announcement/2018/02/22/announcing-second-round-isc-funded-projects-2017)
+
+### R in Real World
+
++ [Creating conversation heaRts for Valentine's Day](http://katiejolly.io/blog/2018-02-18/conversation-hearts)
+
++ [Simpsons Characters - A tidy text analysis](https://deanmarchiori.github.io/2018-02-21-simpsons/)
+
+![Simpsons Characters - A tidy text analysis](https://raw.githubusercontent.com/rweekly/image/master/2018-8/simpson-1.png)
+
++ [Markdown based web analytics? Rectangle your blog](https://itsalocke.com/blog/markdown-based-web-analytics-rectangle-your-blog/)
+
++ [Imposter syndrome](https://ped.netlify.com/2018/02/20/imposter-syndrome/)
+
+### Insights
+
++ [Blog about something you just learned](https://edwinth.github.io/blog-new-things/)
+
++ [rstudio::conf 2018 Highlights](https://jenthompson.me/2018/02/20/rstudioconf-2018/)
+
++ [How I started with R](http://kgilds.rbind.io/2018/02/18/how-i-started-with-r/)
+
++ [Xie Yihui, R Superstar and Mensch](https://matloff.wordpress.com/2018/02/22/xie-yihui-r-superstar-and-mensch/)
+
++ [I am not a Data Scientist - My R journey](http://blog.sellorm.com/2018/02/18/i-am-not-a-data-scientist-my-r-journey/)
+
 
 ### R Internationally
 
@@ -88,6 +92,8 @@ Release Date: 2018-2-26
 ###  Tutorials
 
 + [Combine your hex stickers with magic(k)](http://www.masalmon.eu/2018/02/22/hexcombine/)
+
+![Combine your hex stickers with magic(k)](https://raw.githubusercontent.com/rweekly/image/master/2018-8/my_laptop2.png)
 
 + [R's S3 generic-function object-oriented system](http://jasdumas.github.io/2018-02-23-s3-generic-function-oo/)
 
@@ -121,8 +127,6 @@ Release Date: 2018-2-26
 
 + [Convex Hulls part 3](https://coolbutuseless.bitbucket.io/2018/02/18/convex-hulls-part-3/)
 
-+ [Sketchnotes from TWiML&AI #111: Learning "Common Sense" and Physical Concepts with Roland Memisevic](https://shirinsplayground.netlify.com/2018/02/twimlai111/)
-
 + [R package serrsBayes](https://mattstats.wordpress.com/2018/02/19/serrsbayes/)
 
 + [R Tip: Use seq_len() to Avoid The Backwards Sequence Bug](http://www.win-vector.com/blog/2018/02/r-tip-use-seq_len-to-avoid-the-backwards-sequence-bug/)
@@ -134,6 +138,8 @@ Release Date: 2018-2-26
 + [webmockr: mock HTTP requests](https://ropensci.org/technotes/2018/02/20/webmockr-intro/)
 
 + [Deep Learning Image Classification with Keras and Shiny](http://jasdumas.github.io/2018-02-20-deep-learning-img-classifier/)
+
+![Deep Learning Image Classification with Keras and Shiny](https://raw.githubusercontent.com/rweekly/image/master/2018-8/img_clf_app.png)
 
 + [R Tip: Use seq_len() to Avoid The Backwards Sequence Trap](http://www.win-vector.com/blog/2018/02/r-tip-use-seq_len-to-avoid-the-backwards-sequence-bug/)
 
@@ -161,13 +167,11 @@ Release Date: 2018-2-26
 
 + [Is R base::subset() really that bad?](http://www.win-vector.com/blog/2018/02/is-r-basesubset-really-that-bad/)
 
-+ [rOpenSci Vancouver Community Meetup: Transforming science through open data and software](https://ropensci.org/blog/2018/02/23/ropensci-in-yvr/)
-
 + [How to set up a sparklyr cluster in 5 minutes](http://blog.revolutionanalytics.com/2018/02/aztk-sparklyr.html)
 
-+ [What Do Data Scientists Need to Know about Containerization? As Little as Possible.](http://multithreaded.stitchfix.com/blog/2018/02/22/flotilla/)
-
 + [Do tweeps with more followers follow tweeps with more followers?](http://ellisp.github.io/blog/2018/02/24/following-followers)
+
+![Do tweeps with more followers follow tweeps with more followers?](https://raw.githubusercontent.com/rweekly/image/master/2018-8/twitter-followers.png)
 
 + [Thoughts to Words - An Introduction to Aaron Simumba's Website](https://support.rbind.io/2018/02/19/introduction-to-aaron-simumba-website/)
 
@@ -185,8 +189,17 @@ Release Date: 2018-2-26
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ `merge()` gains new option `no.dups` and by default suffixes the second of two duplicated column names, thanks to a proposal by Scott Ritchie (and Gabe Becker).
 
++ `NAMEDMAX` has been raised to 3 to allow protection of intermediate results from (usually ill-advised) assignments in arguments to `BUILTIN` functions. Package `C` code using `SET_NAMED` may need to be revised.
 
++ The undocumented `hidden` objects `.__H__.cbind` and `.__H__.rbind` in package `base` are deprecated (in favour of `cbind` and `rbind`).
+
++ Arithmetic with data frames gives a data frame for `^` (which previously gave a numeric matrix).
+
++ `read.table()` with non-default separator now supports quotes following a non-whitespace, matching the behavior of `scan()`.
+
++ `Writing R Extensions` now documents the `R_tryCatch`, `R_tryCatchError`, and `R_UnwindProtect` functions.
 
 ###  Upcoming Events
 
@@ -208,7 +221,7 @@ Portland, OR, US
 + [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **5 & 6 July 2018** <br />
 Rennes - Agrocampus
 
-+ useR! 2018 **July 10, 2018** <br />
++ [useR! 2018](https://user2018.r-project.org/) **July 10, 2018** <br />
 The annual useR! conference is the main meeting of the international R user and developer community.
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
@@ -220,15 +233,12 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-+ [Head of BI at German publishing company](https://mitarbeiterwerben.vnrag.de/de/candidate/job/4ZGUc7qyok/B8iARla0e)
 
 
 
 ###  Call for Participation
 
 + [rOpenSci unconf18 self-nominations, deadline 2018/03/08](https://ropensci.org/blog/2018/02/08/unconf2018/)
-
-+ [Rladies NYC Event on **Feb 15, 2018**](https://www.meetup.com/rladies-newyork/events/247304067/?_cookie-check=oqtQje-WCcbU24yI) Creating Websites in R and A Data Science Update. Check out more on http://www.rladiesnyc.org
 
 + [R-Ladies NYC April 2018 Book Club](https://www.goodreads.com/group/show/225365-r-ladies-nyc) R-Ladies NYC are still gathering suggestions for the bookclub.
 
