@@ -44,8 +44,11 @@ Release Date: 2018-3-5
 
 
 
-### R in Real World
+### R in the Real World
 
++ [Persistence of Public Interest in Gun Control After Mass Shooting Events in the US: Is the Stoneman Douglas High School Event Different?](https://cdn.rawgit.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/a6bc2bf5/README.html) - includes a [Binder button](https://mybinder.org/v2/gh/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master) for in-browser reproducibility of the analysis.
+
+![The Stoneman Douglas event resulted in the most Wikipedia page views](https://raw.githubusercontent.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master/figures/unnamed-chunk-14-1.png)
 
 
 
