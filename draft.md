@@ -54,7 +54,7 @@ Release Date: 2018-3-5
 
 ### Insights
 
-
++ [Test Driving readxl package](http://kgilds.rbind.io/2018/02/26/test-driving-readxl-package/)
 
 
 
@@ -68,7 +68,11 @@ Release Date: 2018-3-5
 + [Dplyr tutorial part 3 - Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/)
 
 
++ [Web Scraping Matrimonial Website with R](https://www.listendata.com/2018/02/web-scraping-website-with-r.html)
 
++ [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
+
++ [Parallel Processing Baseball Data with R and mlbgameday](http://www.datascienceriot.com//r/mlbgameday-basics/)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
