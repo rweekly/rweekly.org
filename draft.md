@@ -25,7 +25,7 @@ Release Date: 2018-3-5
 
 **GitHub only**
 
-
+* [tailr](https://github.com/mailund/tailr) — Automatic translation of tail-recursive functions into looping functions.
 
 ### Package Releases
 
