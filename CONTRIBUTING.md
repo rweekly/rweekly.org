@@ -28,7 +28,7 @@ R tutorials for how to use certain packages and tools (usually code is embedded)
 
 Articles that talks about R and data science in general(usually no code embedded)
 
-## R in Real World
+## R in the Real World
 
 Analyses that use R to analyze real-world data sets
 
