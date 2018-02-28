@@ -65,6 +65,8 @@ Release Date: 2018-3-5
 
 ###  Tutorials
 
++ [Dplyr tutorial part 3 - Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/)
+
 
 
 
