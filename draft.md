@@ -21,11 +21,10 @@ Release Date: 2018-3-5
 
 **CRAN**
 
-
++ [`tailr`](https://cran.r-project.org/web/packages/tailr/) — Automatic translation of tail-recursive functions into looping functions. 
 
 **GitHub only**
 
-* [tailr](https://github.com/mailund/tailr) — Automatic translation of tail-recursive functions into looping functions.
 
 ### Package Releases
 
