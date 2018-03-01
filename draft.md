@@ -28,7 +28,7 @@ Release Date: 2018-3-5
 
 ### Package Releases
 
-
++ [`pmatch` 0.1.2](https://cran.r-project.org/web/packages/pmatch/) —  Haskell-like pattern matching in R. 
 
 
 ###  Videos and Podcasts
