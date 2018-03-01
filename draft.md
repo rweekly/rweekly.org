@@ -49,7 +49,7 @@ Release Date: 2018-3-5
 
 ![The Stoneman Douglas event resulted in the most Wikipedia page views](https://raw.githubusercontent.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master/figures/unnamed-chunk-14-1.png)
 
-
++ [Stability testing: How do you know whether your single-cell clusters are ‘real’?](http://jef.works/blog/2018/02/28/stability-testing/)
 
 ### Insights
 
@@ -66,7 +66,7 @@ Release Date: 2018-3-5
 
 + [Dplyr tutorial part 3 - Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/)
 
-+ [Functional Programming in R with purrr] (https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
++ [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
  
 
 
@@ -81,6 +81,7 @@ Release Date: 2018-3-5
 
 ### Gist & Cookbook
 
++ [Easy analysis of large (>3 GB) text files with dplyr verbs via the chunked package](https://gist.github.com/benmarwick/20eac969ce9199756dc074801f5b531d)
 
 
 ###  R Project Updates
@@ -134,4 +135,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Heya <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> dam, what is your favourite music to listen to while working? I find movie soundtracks pretty good for coding - Interstellar, TRON, Jurassic Park, and Lord of the Rings are some of my go tos - what am I missing out on?</p>&mdash; Nicholas Tierney (@nj_tierney) <a href="https://twitter.com/nj_tierney/status/968987448553324544?ref_src=twsrc%5Etfw">28 de febrer de 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
