@@ -66,7 +66,7 @@ Release Date: 2018-3-5
 
 + [Dplyr tutorial part 3 - Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/)
 
-+ [Functional Programming in R with purrr] (https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
++ [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
  
 
 
@@ -81,6 +81,7 @@ Release Date: 2018-3-5
 
 ### Gist & Cookbook
 
++ [Easy analysis of large (>3 GB) text files with dplyr verbs via the chunked package](https://gist.github.com/benmarwick/20eac969ce9199756dc074801f5b531d)
 
 
 ###  R Project Updates
