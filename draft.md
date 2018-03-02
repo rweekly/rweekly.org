@@ -113,6 +113,9 @@ Rennes - Agrocampus
 + [useR! 2018](https://user2018.r-project.org/) **July 10, 2018** <br />
 The annual useR! conference is the main meeting of the international R user and developer community.
 
++ [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />
+Buenos Aires, Argentina.
+
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
