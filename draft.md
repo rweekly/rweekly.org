@@ -114,13 +114,9 @@ Release Date: 2018-3-5
 
 + [Sequel to previously published blog post, looking at different packages that can be used for summarising data in R](https://dabblingwithdata.wordpress.com/2018/02/26/r-packages-for-summarising-data-part-2/)
 
-+ [Shiny Case Studies: My new online interactive video course](https://deanattali.com/blog/shiny-use-cases-datacamp-course/)
-
 + [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
 
 + [Web Scraping Matrimonial Website with R](https://www.listendata.com/2018/02/web-scraping-website-with-r.html)
-
-+ [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
 
 + [Parallel Processing Baseball Data with R and mlbgameday](http://www.datascienceriot.com//r/mlbgameday-basics/)
 
@@ -131,10 +127,6 @@ Release Date: 2018-3-5
 + [Wanted: cdata Test Pilots](http://www.win-vector.com/blog/2018/02/wanted-cdata-test-pilots/)
 
 + [emoji domain names with the puny package](https://purrple.cat/blog/2018/02/26/emoji-domain-names-with-the-puny-package/)
-
-+ [The Streak](http://kgilds.rbind.io/2018/02/26/the-streak/)
-
-+ [Exploring Estimates of the Tuberculosis Case Fatality Rate - with getTBinR](http://www.samabbott.co.uk/post/est-cfr-gettbinr/)
 
 + [R Tip: Use drop = FALSE with data.frames](http://www.win-vector.com/blog/2018/02/r-tip-use-drop-false-with-data-frames/)
 
@@ -227,6 +219,10 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;ll be speaking about &quot;why you can’t do data science in a GUI&quot; at ACM Chicago on March 7: <a href="https://t.co/bvOrOFvuht">https://t.co/bvOrOFvuht</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/968157467136921600?ref_src=twsrc%5Etfw">February 26, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Why do you build me up R CMD javareconf, baby<br>Just to let me down and mess me around?<br><br>And then worst of all, you never compile, baby<br>When you say you will<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Max Kuhn (@topepos) <a href="https://twitter.com/topepos/status/969716011078438912?ref_src=twsrc%5Etfw">March 2, 2018</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Heya <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> dam, what is your favourite music to listen to while working? I find movie soundtracks pretty good for coding - Interstellar, TRON, Jurassic Park, and Lord of the Rings are some of my go tos - what am I missing out on?</p>&mdash; Nicholas Tierney (@nj_tierney) <a href="https://twitter.com/nj_tierney/status/968987448553324544?ref_src=twsrc%5Etfw">28 de febrer de 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
