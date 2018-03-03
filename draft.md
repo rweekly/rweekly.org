@@ -28,7 +28,7 @@ Release Date: 2018-3-5
 
 ### Package Releases
 
-
++ [`pmatch` 0.1.2](https://cran.r-project.org/web/packages/pmatch/) —  Haskell-like pattern matching in R. 
 
 
 ###  Videos and Podcasts
@@ -54,6 +54,7 @@ Release Date: 2018-3-5
 ### Insights
 
 + [Test Driving readxl package](http://kgilds.rbind.io/2018/02/26/test-driving-readxl-package/)
++ [Tail Recursion Optimisation in R](https://mailund.github.io/r-programmer-blog/post/2018-03-02-tailr-tail-recursion-optimisation-in-r/)
 
 
 
