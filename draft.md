@@ -21,29 +21,56 @@ Release Date: 2018-3-5
 
 **CRAN**
 
-+ [`tailr`](https://cran.r-project.org/web/packages/tailr/) — Automatic translation of tail-recursive functions into looping functions. 
++ [`tailr`](https://cran.r-project.org/web/packages/tailr/) — Automatic translation of tail-recursive functions into looping functions.
+
+
++ [crypto](https://CRAN.R-project.org/package=crypto) - cryptocurrency market data
+
++ [Introducing the 'ggplot2pipes' package](https://coolbutuseless.bitbucket.io/2018/02/27/introducing-the-ggplot2pipes-package/)
+
++ [dockerfiler is now on CRAN](http://colinfay.me/dockerfiler-cran/)
 
 **GitHub only**
 
++ [Introducing ViewPipeSteps, an RStudio Addin for 'observable programming'.](https://daranzolin.github.io/articles/2018-02/ViewPipeSteps)
 
 ### Package Releases
 
-+ [`pmatch` 0.1.2](https://cran.r-project.org/web/packages/pmatch/) —  Haskell-like pattern matching in R. 
++ [`pmatch` 0.1.2](https://cran.r-project.org/web/packages/pmatch/) —  Haskell-like pattern matching in R.
 
+
++ [huxtable 3.0.0](https://cran.r-project.org/package=huxtable) - support for Excel output
+
++ [RStudio Connect v1.5.14](https://blog.rstudio.com/2018/03/02/rstudio-connect-v1-5-14/)
+
++ [New releases: Microsoft R Client 3.4.3, Microsoft ML Server 9.3](http://blog.revolutionanalytics.com/2018/02/mrclient343.html)
+
++ [RcppArmadillo 0.8.400.0.0](http://dirk.eddelbuettel.com/blog/2018/03/01#rcpparmadillo_0.8.400.0.0)
 
 ###  Videos and Podcasts
 
++ [Project workflow](https://www.youtube.com/watch?v=boKFxBniUH0)
 
 
 ###  Resources
 
++ [Collection of small base-R expressions (r snippets) Edit](https://github.com/amrrs/30-seconds-of-r-code)
 
++ [Training Courses for mlr: Machine Learning in R](https://mlr-org.github.io/mlr-training-courses/)
 
 ###  R in Organizations
 
 
++ [The R Consortium has funded half a million dollars to R projects](http://blog.revolutionanalytics.com/2018/02/r-consortium-milestone.html)
+
 
 ### R in the Real World
+
++ [Comparing 2017 Maine Lobster Landings To Historical Landings](https://rud.is/b/2018/03/02/comparing-2017-maine-lobster-landings-to-historical-landings/)
+
++ [Investigating how NVIDIA's new TITAN V performs in R and a few other applications!](https://www.brucemeng.ca/post/titan-v-and-r-performance/)
+
++ [Persistence of Public Interest in Gun Control After Mass Shooting Events in the US: Is the Stoneman Douglas High School Event Different?](https://rawgit.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master/README.html)
 
 + [Persistence of Public Interest in Gun Control After Mass Shooting Events in the US: Is the Stoneman Douglas High School Event Different?](https://cdn.rawgit.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/a6bc2bf5/README.html) - includes a [Binder button](https://mybinder.org/v2/gh/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master) for in-browser reproducibility of the analysis.
 
@@ -51,11 +78,27 @@ Release Date: 2018-3-5
 
 + [Stability testing: How do you know whether your single-cell clusters are ‘real’?](http://jef.works/blog/2018/02/28/stability-testing/)
 
++ [EDA using fiftystater](https://pradeepadhokshaja.wordpress.com/2018/02/27/exploratory-data-analysis-of-the-zillow-housing-data/)
+
+
++ [Mapping how Staten Island voted in 2016 (and what it might mean for 2018)](https://mattherman.info/blog/cd11-vote/)
+
++ [Analysis of Hall of Fame recipes found on all-recipes](https://p-mckenzie.github.io/r/2018/02/23/allrecipes-hall-of-fame/)
+
+
 ### Insights
 
++ [And They Closed a Valid Question on StackOverflow Again](https://yihui.name/en/2018/02/closed-so-question/)
+
++ [#17: Dependencies.](http://dirk.eddelbuettel.com/blog/2018/02/28#017_dependencies)
+
 + [Test Driving readxl package](http://kgilds.rbind.io/2018/02/26/test-driving-readxl-package/)
+
++ [Investigating how NVIDIA's new TITAN V performs in R and a few other applications!](https://www.brucemeng.ca/post/titan-v-and-r-performance/)
+
 + [Tail Recursion Optimisation in R](https://mailund.github.io/r-programmer-blog/post/2018-03-02-tailr-tail-recursion-optimisation-in-r/)
 
++ [Using RcppArmadillo to price European Put Options](http://gallery.rcpp.org//articles/black-scholes-three-ways/)
 
 
 ### R Internationally
@@ -67,9 +110,13 @@ Release Date: 2018-3-5
 
 + [Dplyr tutorial part 3 - Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/)
 
-+ [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
- 
++ [Working through the Strings chapter in R for Data Science](http://annamarbut.blogspot.com/2018/02/working-with-strings.html)
 
++ [Sequel to previously published blog post, looking at different packages that can be used for summarising data in R](https://dabblingwithdata.wordpress.com/2018/02/26/r-packages-for-summarising-data-part-2/)
+
++ [Shiny Case Studies: My new online interactive video course](https://deanattali.com/blog/shiny-use-cases-datacamp-course/)
+
++ [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
 
 + [Web Scraping Matrimonial Website with R](https://www.listendata.com/2018/02/web-scraping-website-with-r.html)
 
@@ -77,6 +124,48 @@ Release Date: 2018-3-5
 
 + [Parallel Processing Baseball Data with R and mlbgameday](http://www.datascienceriot.com//r/mlbgameday-basics/)
 
++ [A web scraping tutorial using rvest on fivebooks.com](https://edomt.github.io/Rvest-Fivebooks/)
+
++ [Using ggplot with pipes](https://coolbutuseless.bitbucket.io/2018/02/25/using-ggplot-with-pipes/)
+
++ [Wanted: cdata Test Pilots](http://www.win-vector.com/blog/2018/02/wanted-cdata-test-pilots/)
+
++ [emoji domain names with the puny package](https://purrple.cat/blog/2018/02/26/emoji-domain-names-with-the-puny-package/)
+
++ [The Streak](http://kgilds.rbind.io/2018/02/26/the-streak/)
+
++ [Exploring Estimates of the Tuberculosis Case Fatality Rate - with getTBinR](http://www.samabbott.co.uk/post/est-cfr-gettbinr/)
+
++ [R Tip: Use drop = FALSE with data.frames](http://www.win-vector.com/blog/2018/02/r-tip-use-drop-false-with-data-frames/)
+
++ [Data Wrangling Part 3: Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/)
+
++ [Using R/exams for Short Exams during a Statistics Course](http://www.R-exams.org/general/uni_koblenz_landau/)
+
+
++ [Test Driving The Readxl package](http://kgilds.rbind.io/2018/02/26/test-driving-readxl-package/)
+
++ [Annotating phylogenetic tree with images using ggtree and ggimage](https://guangchuangyu.github.io/2018/03/annotating-phylogenetic-tree-with-images-using-ggtree-and-ggimage/)
+
++ [Exploring Estimates of the Tuberculosis Case Fatality Ratio - with getTBinR](http://www.samabbott.co.uk/post/est-cfr-gettbinr/)
+
++ [ Mapping how Staten Island voted in 2016 (and what it might mean for 2018)](https://mattherman.info/blog/cd11-vote/)
+
++ [The TAMU Theme for xaringan](https://yihui.name/en/2018/02/tamu-theme-xaringan/)
+
++ ["Bite-Sized" Pull Requests](https://yihui.name/en/2018/02/bite-sized-pull-requests/)
+
++ [R Tip: Make Arguments Explicit in magrittr/dplyr Pipelines](http://www.win-vector.com/blog/2018/03/r-tip-make-arguments-explicit-in-magrittr-dplyr-pipelines/)
+
++ [Free Azure credits for students](http://blog.revolutionanalytics.com/2018/03/free-azure-credits-for-students.html)
+
++ [Quantities for R -- First working prototype](http://r-spatial.org//r/2018/03/01/quantities-first-prototype.html)
+
++ [Cluster Analysis - Naming Pattern in the last Century.](http://flovv.github.io/Cluster_analysis/)
+
++ [multiple lags with tidy evaluation](https://purrple.cat/blog/2018/03/02/multiple-lags-with-tidy-evaluation/)
+
++ [Visualizing the Capital Asset Pricing Model](https://rviews.rstudio.com/2018/03/02/capm-and-visualization/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
