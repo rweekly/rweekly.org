@@ -28,7 +28,8 @@ Release Date: 2018-3-12
 
 **CRAN**
 
-
+* [autoplotly](https://CRAN.R-project.org/package=autoplotly) - Automatic Generation of Interactive Visualizations for Popular Statistical Results
+* [onnx](https://CRAN.R-project.org/package=onnx) - R Interface to [Open Neural Network Exchange (ONNX)](https://onnx.ai/)
 
 **GitHub or Bitbucket**
 
@@ -36,7 +37,7 @@ Release Date: 2018-3-12
 
 ### Package Releases
 
-
+* [ggfortify 	0.4.3](https://CRAN.R-project.org/package=ggfortify) - Unified Interface to Visualize Statistical Result of Popular R Packages
 
 
 ### Gist & Cookbook
