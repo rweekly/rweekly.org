@@ -9,81 +9,11 @@ Release Date: 2018-3-5
 
 ###  Highlight
 
++ [#17: Dependencies.](http://dirk.eddelbuettel.com/blog/2018/02/28#017_dependencies)
 
++ [Persistence of Public Interest in Gun Control After Mass Shooting Events in the US](https://rawgit.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master/README.html) - Is the Stoneman Douglas High School Event Different?
 
 ###  R in Academia
-
-
-
-###  New Packages
-
-<p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
-**CRAN**
-
-+ [`tailr`](https://cran.r-project.org/web/packages/tailr/) — Automatic translation of tail-recursive functions into looping functions.
-
-
-+ [crypto](https://CRAN.R-project.org/package=crypto) - cryptocurrency market data
-
-+ [Introducing the 'ggplot2pipes' package](https://coolbutuseless.bitbucket.io/2018/02/27/introducing-the-ggplot2pipes-package/)
-
-+ [dockerfiler is now on CRAN](http://colinfay.me/dockerfiler-cran/)
-
-**GitHub only**
-
-+ [Introducing ViewPipeSteps, an RStudio Addin for 'observable programming'.](https://daranzolin.github.io/articles/2018-02/ViewPipeSteps)
-
-### Package Releases
-
-+ [`pmatch` 0.1.2](https://cran.r-project.org/web/packages/pmatch/) —  Haskell-like pattern matching in R.
-
-
-+ [huxtable 3.0.0](https://cran.r-project.org/package=huxtable) - support for Excel output
-
-+ [RStudio Connect v1.5.14](https://blog.rstudio.com/2018/03/02/rstudio-connect-v1-5-14/)
-
-+ [New releases: Microsoft R Client 3.4.3, Microsoft ML Server 9.3](http://blog.revolutionanalytics.com/2018/02/mrclient343.html)
-
-+ [RcppArmadillo 0.8.400.0.0](http://dirk.eddelbuettel.com/blog/2018/03/01#rcpparmadillo_0.8.400.0.0)
-
-###  Videos and Podcasts
-
-+ [Project workflow](https://www.youtube.com/watch?v=boKFxBniUH0)
-
-
-###  Resources
-
-+ [Collection of small base-R expressions (r snippets) Edit](https://github.com/amrrs/30-seconds-of-r-code)
-
-+ [Training Courses for mlr: Machine Learning in R](https://mlr-org.github.io/mlr-training-courses/)
-
-###  R in Organizations
-
-
-+ [The R Consortium has funded half a million dollars to R projects](http://blog.revolutionanalytics.com/2018/02/r-consortium-milestone.html)
-
-
-### R in the Real World
-
-+ [Comparing 2017 Maine Lobster Landings To Historical Landings](https://rud.is/b/2018/03/02/comparing-2017-maine-lobster-landings-to-historical-landings/)
-
-+ [Investigating how NVIDIA's new TITAN V performs in R and a few other applications!](https://www.brucemeng.ca/post/titan-v-and-r-performance/)
-
-+ [Persistence of Public Interest in Gun Control After Mass Shooting Events in the US: Is the Stoneman Douglas High School Event Different?](https://rawgit.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master/README.html)
-
-+ [Persistence of Public Interest in Gun Control After Mass Shooting Events in the US: Is the Stoneman Douglas High School Event Different?](https://cdn.rawgit.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/a6bc2bf5/README.html) - includes a [Binder button](https://mybinder.org/v2/gh/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master) for in-browser reproducibility of the analysis.
-
-![The Stoneman Douglas event resulted in the most Wikipedia page views](https://raw.githubusercontent.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master/figures/unnamed-chunk-14-1.png)
-
-+ [Stability testing: How do you know whether your single-cell clusters are ‘real’?](http://jef.works/blog/2018/02/28/stability-testing/)
-
-+ [EDA using fiftystater](https://pradeepadhokshaja.wordpress.com/2018/02/27/exploratory-data-analysis-of-the-zillow-housing-data/)
-
-
-+ [Mapping how Staten Island voted in 2016 (and what it might mean for 2018)](https://mattherman.info/blog/cd11-vote/)
-
-+ [Analysis of Hall of Fame recipes found on all-recipes](https://p-mckenzie.github.io/r/2018/02/23/allrecipes-hall-of-fame/)
 
 
 ### Insights
@@ -94,11 +24,73 @@ Release Date: 2018-3-5
 
 + [Test Driving readxl package](http://kgilds.rbind.io/2018/02/26/test-driving-readxl-package/)
 
-+ [Investigating how NVIDIA's new TITAN V performs in R and a few other applications!](https://www.brucemeng.ca/post/titan-v-and-r-performance/)
-
 + [Tail Recursion Optimisation in R](https://mailund.github.io/r-programmer-blog/post/2018-03-02-tailr-tail-recursion-optimisation-in-r/)
 
-+ [Using RcppArmadillo to price European Put Options](http://gallery.rcpp.org//articles/black-scholes-three-ways/)
+###  Videos and Podcasts
+
++ [Project workflow](https://www.youtube.com/watch?v=boKFxBniUH0)
+
+###  New Packages
+
+<p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+
+**CRAN**
+
++ [tailr](https://cran.r-project.org/web/packages/tailr/) — Automatic translation of tail-recursive functions into looping functions.
+
++ [crypto](https://CRAN.R-project.org/package=crypto) - cryptocurrency market data
+
++ [dockerfiler](http://colinfay.me/dockerfiler-cran/) -  Easy Dockerfile Creation
+
+**GitHub or Bitbucket**
+
++ [ViewPipeSteps](https://daranzolin.github.io/articles/2018-02/ViewPipeSteps) - an RStudio Addin for 'observable programming
+
++ [ggplot2pipes](https://coolbutuseless.bitbucket.io/2018/02/27/introducing-the-ggplot2pipes-package/) - ggplot2 with pipes
+
+### Package Releases
+
++ [pmatch 0.1.2](https://cran.r-project.org/web/packages/pmatch/) —  Haskell-like pattern matching in R.
+
++ [huxtable 3.0.0](https://cran.r-project.org/package=huxtable) - support for Excel output
+
++ [RcppArmadillo 0.8.400.0.0](http://dirk.eddelbuettel.com/blog/2018/03/01#rcpparmadillo_0.8.400.0.0) - interface from R to and from Armadillo
+
++ [RStudio Connect v1.5.14](https://blog.rstudio.com/2018/03/02/rstudio-connect-v1-5-14/)
+
+###  Resources
+
++ [Collection of small base-R expressions (r snippets)](https://github.com/amrrs/30-seconds-of-r-code)
+
++ [Training Courses for mlr: Machine Learning in R](https://mlr-org.github.io/mlr-training-courses/)
+
+###  R in Organizations
+
++ [The R Consortium has funded half a million dollars to R projects](http://blog.revolutionanalytics.com/2018/02/r-consortium-milestone.html)
+
+### R in the Real World
+
++ [Comparing 2017 Maine Lobster Landings To Historical Landings](https://rud.is/b/2018/03/02/comparing-2017-maine-lobster-landings-to-historical-landings/)
+
+![Comparing 2017 Maine Lobster Landings To Historical Landings](https://raw.githubusercontent.com/rweekly/image/master/2018-8/2017-lobster-landings.png)
+
++ [Investigating how NVIDIA's new TITAN V performs in R and a few other applications!](https://www.brucemeng.ca/post/titan-v-and-r-performance/)
+
++ [Persistence of Public Interest in Gun Control After Mass Shooting Events in the US: Is the Stoneman Douglas High School Event Different?](https://rawgit.com/benmarwick/Persistence-of-Public-Interest-in-Gun-Control/master/README.html)
+
+![The Stoneman Douglas event resulted in the most Wikipedia page views](https://raw.githubusercontent.com/rweekly/image/master/2018-8/guns.png)
+
++ [Stability testing: How do you know whether your single-cell clusters are ‘real’?](http://jef.works/blog/2018/02/28/stability-testing/)
+
++ [EDA using fiftystater](https://pradeepadhokshaja.wordpress.com/2018/02/27/exploratory-data-analysis-of-the-zillow-housing-data/)
+
++ [Mapping how Staten Island voted in 2016 (and what it might mean for 2018)](https://mattherman.info/blog/cd11-vote/)
+
+![Mapping how Staten Island voted in 2016 (and what it might mean for 2018)](https://raw.githubusercontent.com/rweekly/image/master/2018-8/votes.png)
+
++ [Analysis of Hall of Fame recipes found on all-recipes](https://p-mckenzie.github.io/r/2018/02/23/allrecipes-hall-of-fame/)
+
+
 
 
 ### R Internationally
@@ -109,6 +101,8 @@ Release Date: 2018-3-5
 ###  Tutorials
 
 + [Dplyr tutorial part 3 - Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/)
+
++ [Using RcppArmadillo to price European Put Options](http://gallery.rcpp.org//articles/black-scholes-three-ways/)
 
 + [Working through the Strings chapter in R for Data Science](http://annamarbut.blogspot.com/2018/02/working-with-strings.html)
 
@@ -130,20 +124,21 @@ Release Date: 2018-3-5
 
 + [R Tip: Use drop = FALSE with data.frames](http://www.win-vector.com/blog/2018/02/r-tip-use-drop-false-with-data-frames/)
 
-+ [Data Wrangling Part 3: Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/)
-
 + [Using R/exams for Short Exams during a Statistics Course](http://www.R-exams.org/general/uni_koblenz_landau/)
-
 
 + [Test Driving The Readxl package](http://kgilds.rbind.io/2018/02/26/test-driving-readxl-package/)
 
 + [Annotating phylogenetic tree with images using ggtree and ggimage](https://guangchuangyu.github.io/2018/03/annotating-phylogenetic-tree-with-images-using-ggtree-and-ggimage/)
 
+![Annotating phylogenetic tree with images using ggtree and ggimage](https://raw.githubusercontent.com/rweekly/image/master/2018-8/annotating.png)
+
 + [Exploring Estimates of the Tuberculosis Case Fatality Ratio - with getTBinR](http://www.samabbott.co.uk/post/est-cfr-gettbinr/)
 
-+ [ Mapping how Staten Island voted in 2016 (and what it might mean for 2018)](https://mattherman.info/blog/cd11-vote/)
+![Exploring Estimates of the Tuberculosis Case Fatality Ratio - with getTBinR](https://raw.githubusercontent.com/rweekly/image/master/2018-8/gettbinr2.png)
 
 + [The TAMU Theme for xaringan](https://yihui.name/en/2018/02/tamu-theme-xaringan/)
+
+![The TAMU Theme for xaringan](https://raw.githubusercontent.com/rweekly/image/master/2018-8/tamu.png)
 
 + ["Bite-Sized" Pull Requests](https://yihui.name/en/2018/02/bite-sized-pull-requests/)
 
@@ -170,7 +165,13 @@ Release Date: 2018-3-5
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ The declaratation of `pythag()` in `Rmath.h` has been removed - it has not been provided since R 2.14.0.
 
++ C99 functions `expm1`, `hypot` and `log1p` are now required.
+
++ `R CMD INSTALL` now correctly sets C++ compiler flags when all source files are in sub-directories of `src`.
+
++ `scale.default(x, center, scale)` now also allows `center` or `scale` to be “numeric-alike”, i.e., such that `as.numeric(.)` coerces them correctly. This also eliminates a wrong error message in such cases.
 
 ###  Upcoming Events
 
@@ -211,8 +212,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
 ###  Call for Participation
-
-+ [rOpenSci unconf18 self-nominations, deadline 2018/03/08](https://ropensci.org/blog/2018/02/08/unconf2018/)
 
 + [R-Ladies NYC April 2018 Book Club](https://www.goodreads.com/group/show/225365-r-ladies-nyc) R-Ladies NYC are still gathering suggestions for the bookclub.
 
