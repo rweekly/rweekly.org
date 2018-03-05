@@ -66,7 +66,7 @@ Release Date: 2018-3-12
 
 ###  Tutorials
 
-
+* [autoplotly - one line of R code to build interactive visualizations for popular statistical results](https://terrytangyuan.github.io/2018/02/12/autoplotly-intro/)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
