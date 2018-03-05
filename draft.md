@@ -16,6 +16,7 @@ Release Date: 2018-3-12
 
 ### Insights
 
++ [Reflections on 4 months of GitHub: my advice to beginners](https://suzan.rbind.io/2018/03/reflections-4-months-of-github/)
 
 
 ###  Videos and Podcasts
@@ -66,6 +67,7 @@ Release Date: 2018-3-12
 
 ###  Tutorials
 
++ [Generating codebooks in R using the dataMaid package](http://sandsynligvis.dk/articles/18/codebook.html)
 
 
 
