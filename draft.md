@@ -16,6 +16,7 @@ Release Date: 2018-3-12
 
 ### Insights
 
++ [Reflections on 4 months of GitHub: my advice to beginners](https://suzan.rbind.io/2018/03/reflections-4-months-of-github/)
 
 
 ###  Videos and Podcasts
@@ -67,7 +68,12 @@ Release Date: 2018-3-12
 
 ###  Tutorials
 
-* [autoplotly - one line of R code to build interactive visualizations for popular statistical results](https://terrytangyuan.github.io/2018/02/12/autoplotly-intro/)
+
++ [Generating codebooks in R using the dataMaid package](http://sandsynligvis.dk/articles/18/codebook.html)
+
+
++ [autoplotly - one line of R code to build interactive visualizations for popular statistical results](https://terrytangyuan.github.io/2018/02/12/autoplotly-intro/)
+
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
