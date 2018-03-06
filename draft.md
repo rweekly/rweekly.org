@@ -29,7 +29,8 @@ Release Date: 2018-3-12
 
 **CRAN**
 
-
+* [autoplotly](https://CRAN.R-project.org/package=autoplotly) - Automatic Generation of Interactive Visualizations for Popular Statistical Results
+* [onnx](https://CRAN.R-project.org/package=onnx) - R Interface to [Open Neural Network Exchange (ONNX)](https://onnx.ai/)
 
 **GitHub or Bitbucket**
 
@@ -37,7 +38,7 @@ Release Date: 2018-3-12
 
 ### Package Releases
 
-
+* [ggfortify 	0.4.3](https://CRAN.R-project.org/package=ggfortify) - Unified Interface to Visualize Statistical Result of Popular R Packages
 
 
 ### Gist & Cookbook
@@ -67,7 +68,11 @@ Release Date: 2018-3-12
 
 ###  Tutorials
 
+
 + [Generating codebooks in R using the dataMaid package](http://sandsynligvis.dk/articles/18/codebook.html)
+
+
++ [autoplotly - one line of R code to build interactive visualizations for popular statistical results](https://terrytangyuan.github.io/2018/02/12/autoplotly-intro/)
 
 
 
