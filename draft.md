@@ -74,6 +74,8 @@ Release Date: 2018-3-12
 
 + [autoplotly - one line of R code to build interactive visualizations for popular statistical results](https://terrytangyuan.github.io/2018/02/12/autoplotly-intro/)
 
++ [Tao of Tidygraph - analysis of “Tao Te Programming” alliance graph within tidy network analysis framework](http://www.questionflow.org/2018/03/06/tao-of-tidygraph/)
+
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
