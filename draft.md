@@ -126,6 +126,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 + [R-Ladies NYC April 2018 Book Club](https://www.goodreads.com/group/show/225365-r-ladies-nyc) R-Ladies NYC are still gathering suggestions for the bookclub.
 
++ [LatinR 2018 Call for papers](http://latin-r.com/blog/call-for-papers) Abstract submission deadline: April 13, 2018. 
+
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
