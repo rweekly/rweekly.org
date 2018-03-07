@@ -31,6 +31,8 @@ Release Date: 2018-3-12
 
 * [autoplotly](https://CRAN.R-project.org/package=autoplotly) - Automatic Generation of Interactive Visualizations for Popular Statistical Results
 * [onnx](https://CRAN.R-project.org/package=onnx) - R Interface to [Open Neural Network Exchange (ONNX)](https://onnx.ai/)
+* [textfeatures](https://cran.r-project.org/package=textfeatures) - Extracts Features from Text (A simple package for extracting useful features from character objects)
+
 
 **GitHub or Bitbucket**
 
