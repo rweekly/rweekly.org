@@ -16,6 +16,7 @@ Release Date: 2018-3-12
 
 ### Insights
 
++ [Reflections on 4 months of GitHub: my advice to beginners](https://suzan.rbind.io/2018/03/reflections-4-months-of-github/)
 
 
 ###  Videos and Podcasts
@@ -28,7 +29,8 @@ Release Date: 2018-3-12
 
 **CRAN**
 
-
+* [autoplotly](https://CRAN.R-project.org/package=autoplotly) - Automatic Generation of Interactive Visualizations for Popular Statistical Results
+* [onnx](https://CRAN.R-project.org/package=onnx) - R Interface to [Open Neural Network Exchange (ONNX)](https://onnx.ai/)
 
 **GitHub or Bitbucket**
 
@@ -36,7 +38,7 @@ Release Date: 2018-3-12
 
 ### Package Releases
 
-
+* [ggfortify 	0.4.3](https://CRAN.R-project.org/package=ggfortify) - Unified Interface to Visualize Statistical Result of Popular R Packages
 
 
 ### Gist & Cookbook
@@ -66,6 +68,13 @@ Release Date: 2018-3-12
 
 ###  Tutorials
 
+
++ [Generating codebooks in R using the dataMaid package](http://sandsynligvis.dk/articles/18/codebook.html)
+
+
++ [autoplotly - one line of R code to build interactive visualizations for popular statistical results](https://terrytangyuan.github.io/2018/02/12/autoplotly-intro/)
+
++ [Tao of Tidygraph - analysis of “Tao Te Programming” alliance graph within tidy network analysis framework](http://www.questionflow.org/2018/03/06/tao-of-tidygraph/)
 
 
 
@@ -118,6 +127,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ###  Call for Participation
 
 + [R-Ladies NYC April 2018 Book Club](https://www.goodreads.com/group/show/225365-r-ladies-nyc) R-Ladies NYC are still gathering suggestions for the bookclub.
+
++ [LatinR 2018 Call for papers](http://latin-r.com/blog/call-for-papers) Abstract submission deadline: April 13, 2018. 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
