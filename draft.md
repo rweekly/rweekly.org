@@ -78,6 +78,7 @@ Release Date: 2018-3-12
 
 + [Tao of Tidygraph - analysis of “Tao Te Programming” alliance graph within tidy network analysis framework](http://www.questionflow.org/2018/03/06/tao-of-tidygraph/)
 
++ [A gentle introduction to git with a focus on R users](https://github.com/lorenzwalthert/ethz-tutorials/blob/master/git-tutorial/slides-git.pdf)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
