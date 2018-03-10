@@ -208,6 +208,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">💜 Thanks for sharing a wonderful <a href="https://twitter.com/hashtag/IWD2018?src=hash&amp;ref_src=twsrc%5Etfw">#IWD2018</a> with us! 💜<br><br>✒️🗒️ Blog post with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> details coming soon! 🗒️🖋️<br><br>⬇️ <a href="https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw">#rladies</a>, don&#39;t forget to follow <a href="https://twitter.com/hfcfrick?ref_src=twsrc%5Etfw">@hfcfrick</a>&#39;s advice below! ⬇️ <a href="https://t.co/j0wp3A0RGB">https://t.co/j0wp3A0RGB</a></p>&mdash; IWD 2018 featured R-Ladies (@rladies_iwd2018) <a href="https://twitter.com/rladies_iwd2018/status/972072302727892992?ref_src=twsrc%5Etfw">9 de març de 2018</a></blockquote>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s the evolution of Irish Population density 1841-&gt;2002 on a DED level. You can see the devastating impact of the Famine, the gradual thinning of the rural population and the late-20th c. suburban sprawl <a href="https://twitter.com/hashtag/history?src=hash&amp;ref_src=twsrc%5Etfw">#history</a> <a href="https://twitter.com/hashtag/ireland?src=hash&amp;ref_src=twsrc%5Etfw">#ireland</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/SOwSyHvPIN">pic.twitter.com/SOwSyHvPIN</a></p>&mdash; Alan Fernihough (@DiffusePrioR) <a href="https://twitter.com/DiffusePrioR/status/972042199675359232?ref_src=twsrc%5Etfw">March 9, 2018</a></blockquote>
 
 
