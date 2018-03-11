@@ -93,6 +93,8 @@ Release Date: 2018-3-12
 
 ###  Tutorials
 
++ [Building Distribution Reference Tables in R](https://roh.engineering/post/building-distribution-reference-tables-in-r/)
+
 + [Generating codebooks in R using the dataMaid package](http://sandsynligvis.dk/articles/18/codebook.html)
 
 + [Some Tools for Writing Shiny Apps](http://skranz.github.io//r/2018/03/08/Tools_for_Writing_Shiny_Apps.html)
