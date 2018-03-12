@@ -9,30 +9,7 @@ Release Date: 2018-3-12
 
 ###  Highlight
 
-
-
-###  R in Academia
-
-
-
-### Insights
-
-+ [Platform Deprecation Strategy](https://blog.rstudio.com/2018/03/07/platform-deprecation-strategy/)
-
-+ [File organization best practices](https://andrewbtran.github.io/NICAR/2018/workflow/docs/01-workflow_intro.html)
-
-+ [Reflections on 4 months of GitHub: my advice to beginners](https://suzan.rbind.io/2018/03/reflections-4-months-of-github/)
-
-+ [Extend broom's tidy() and glance() to work with lists of multiply imputed regression models](https://www.andrewheiss.com/blog/2018/03/08/amelia-broom-huxtable/)
-
-+ [Use tidyverse functions to correctly meld/pool coefficients and other results from multiply imputed models](https://www.andrewheiss.com/blog/2018/03/07/amelia-tidy-melding/)
-
-+ [CUDA in R on macOS X](https://mattstats.wordpress.com/2018/03/05/cuda-in-r-on-macos-x/)
-
-+ [JC and the Vignettes](https://jcarroll.com.au/2018/03/06/jc-and-the-vignettes/)
-
-
-###  Videos and Podcasts
++ [lime v0.4: The kitten picture edition](https://www.data-imaginist.com/2018/lime-v0-4-the-kitten-picture-edition/)
 
 + [RStudio conf 2018 Videos](https://www.rstudio.com/resources/webinars/#rstudioconf2018)
 
@@ -42,16 +19,19 @@ Release Date: 2018-3-12
 
 **CRAN**
 
++ [textfeatures](https://cran.r-project.org/package=textfeatures) - Extracts Features from Text (A simple package for extracting useful features from character objects)
+
+![textfeatures](https://raw.githubusercontent.com/rweekly/image/master/2018/text.png)
+
 + [autoplotly](https://CRAN.R-project.org/package=autoplotly) - Automatic Generation of Interactive Visualizations for Popular Statistical Results
 
 + [onnx](https://CRAN.R-project.org/package=onnx) - R Interface to [Open Neural Network Exchange (ONNX)](https://onnx.ai/)
-
-+ [textfeatures](https://cran.r-project.org/package=textfeatures) - Extracts Features from Text (A simple package for extracting useful features from character objects)
 
 **BioC**
 
 + [wiggleplotr](https://bioconductor.org/packages/release/bioc/html/wiggleplotr.html) - Make read coverage plots from BigWig files
 
+![wiggleplotr](https://raw.githubusercontent.com/rweekly/image/master/2018/wigget.png)
 
 **GitHub or Bitbucket**
 
@@ -61,16 +41,36 @@ Release Date: 2018-3-12
 
 * [ggfortify 	0.4.3](https://CRAN.R-project.org/package=ggfortify) - Unified Interface to Visualize Statistical Result of Popular R Packages
 
-+ [lime v0.4: The kitten picture edition](https://www.data-imaginist.com/2018/lime-v0-4-the-kitten-picture-edition/)
++ [lime v0.4](https://www.data-imaginist.com/2018/lime-v0-4-the-kitten-picture-edition/) - The kitten picture edition
 
-### Gist & Cookbook
+![lime v0.4](https://raw.githubusercontent.com/rweekly/image/master/2018/lime.png)
 
-
+###  R in Academia
 
 
 ###  Resources
 
 + [Demonstration of statistical concepts or programming](http://m-clark.github.io/documents/)
+
+###  Videos and Podcasts
+
++ [RStudio conf 2018 Videos](https://www.rstudio.com/resources/webinars/#rstudioconf2018)
+
+### Insights
+
++ [Platform Deprecation Strategy](https://blog.rstudio.com/2018/03/07/platform-deprecation-strategy/)
+
++ [File organization best practices](https://andrewbtran.github.io/NICAR/2018/workflow/docs/01-workflow_intro.html)
+
++ [Reflections on 4 months of GitHub: my advice to beginners](https://suzan.rbind.io/2018/03/reflections-4-months-of-github/)
+
++ [CUDA in R on macOS X](https://mattstats.wordpress.com/2018/03/05/cuda-in-r-on-macos-x/)
+
++ [JC and the Vignettes](https://jcarroll.com.au/2018/03/06/jc-and-the-vignettes/)
+
+
+### Gist & Cookbook
+
 
 
 ###  R in Organizations
@@ -93,9 +93,11 @@ Release Date: 2018-3-12
 
 ###  Tutorials
 
-+ [Building Distribution Reference Tables in R](https://roh.engineering/post/building-distribution-reference-tables-in-r/)
-
 + [Generating codebooks in R using the dataMaid package](http://sandsynligvis.dk/articles/18/codebook.html)
+
+![Generating codebooks in R using the dataMaid package](https://raw.githubusercontent.com/rweekly/image/master/2018/codebook2.png)
+
++ [Handling Semantic Version Strings Like a Boss with the semver Package](https://rud.is/b/2018/03/07/handling-semantic-version-string-like-a-boss-with-the-semver-package/)
 
 + [Some Tools for Writing Shiny Apps](http://skranz.github.io//r/2018/03/08/Tools_for_Writing_Shiny_Apps.html)
 
@@ -124,11 +126,11 @@ Release Date: 2018-3-12
 
 + [first dplyr mondays](https://purrple.cat/blog/2018/03/06/first-dplyr-mondays/)
 
-+ [Tao of Tidygraph](http://www.questionflow.org/2018/03/06/tao-of-tidygraph/)
-
 + [R Tip: Use vector(mode = "list") to Pre-Allocate Lists](http://www.win-vector.com/blog/2018/03/r-tip-use-vectormode-list-to-pre-allocate-lists/)
 
 + [Integrating data from weathercan](https://ropensci.org/blog/2018/03/06/weathercan/)
+
+![Integrating data from weathercan](https://github.com/rweekly/image/blob/master/2018/mapview-1.png)
 
 + [Choosing Priors: Double-Yolk Bayesian Egg](http://blog.revolutionanalytics.com/2018/03/bayesian-egg.html)
 
@@ -141,11 +143,7 @@ Release Date: 2018-3-12
 
 + [Exploring influence in networks](http://selbydavid.com/2018/03/07/influence/)
 
-+ [Handling Semantic Version Strings Like a Boss with the semver Package](https://rud.is/b/2018/03/07/handling-semantic-version-string-like-a-boss-with-the-semver-package/)
-
 + [uniform on the sphere [or not]](https://xianblog.wordpress.com/2018/03/08/uniform-on-the-sphere-or-not/)
-
-+ [geom_cat()](https://coolbutuseless.bitbucket.io/2018/03/08/geom_cat/)
 
 + [R Tip: Introduce Indices to Avoid for() Class Loss Issues](http://www.win-vector.com/blog/2018/03/r-tip-introduce-indices-to-avoid-for-class-loss-issues/)
 
@@ -153,6 +151,11 @@ Release Date: 2018-3-12
 
 + [R data concepts, for Excel users](http://blog.revolutionanalytics.com/2018/03/r-data-concepts-for-excel-users.html)
 
++ [Building Distribution Reference Tables in R](https://roh.engineering/post/building-distribution-reference-tables-in-r/)
+
++ [Extend broom's tidy() and glance() to work with lists of multiply imputed regression models](https://www.andrewheiss.com/blog/2018/03/08/amelia-broom-huxtable/)
+
++ [Use tidyverse functions to correctly meld/pool coefficients and other results from multiply imputed models](https://www.andrewheiss.com/blog/2018/03/07/amelia-tidy-melding/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -160,15 +163,21 @@ Release Date: 2018-3-12
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ Some `as.data.frame()` methods, notably the `matrix` one, are now more careful in not accepting duplicated or `NA` row names, and by default produce unique non-NA row names. This is based on `row.names(x, make.names = *) <- rNms` where `make.names` is a new logical, with back compatible default.
 
++ `par*apply` and `par*applyLB` gain an optional argument `chunk.size` which allows to specify the granularity of scheduling.
 
-###  Upcoming Events
++ `parLapplyLB` and `parSapplyLB` have been fixed to do load balancing (dynamic scheduling). This also means that results of computations depending on random number generators will now really be non-reproducible, as documented.
+
+###  Upcoming Events in 3 Months
+
+Events in 3 Months:
 
 + satRday Cape Town 2018 **March 17** <br />
 [satRday Cape Town](http://capetown2018.satrdays.org/)
 
 + New York R conference **Aprl 20-21** <br />
-[New York R conference](https://www.rstats.nyc/),Discount Code : rladies
+[New York R conference](https://www.rstats.nyc/), Discount Code : rladies
 
 + [eRum 2018](http://2018.erum.io) **May 14-16** <br />
 European R Users Meeting @ Budapest, Hungary
@@ -176,17 +185,18 @@ European R Users Meeting @ Budapest, Hungary
 + R/Finance 2018 **June 1 and 2** <br />
 [Applied Finance with R](http://www.rinfinance.com).
 
-+ [CascadiaRConf](https://cascadiarconf.com/) **June 2, 2018**
++ [CascadiaRConf](https://cascadiarconf.com/) **June 2**
 Portland, OR, US
 
-+ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **5 & 6 July 2018** <br />
+<!--
++ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />
 Rennes - Agrocampus
 
-+ [useR! 2018](https://user2018.r-project.org/) **July 10, 2018** <br />
++ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />
 The annual useR! conference is the main meeting of the international R user and developer community.
 
 + [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />
-Buenos Aires, Argentina.
+Buenos Aires, Argentina. -->
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
@@ -213,7 +223,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">💜 Thanks for sharing a wonderful <a href="https://twitter.com/hashtag/IWD2018?src=hash&amp;ref_src=twsrc%5Etfw">#IWD2018</a> with us! 💜<br><br>✒️🗒️ Blog post with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> details coming soon! 🗒️🖋️<br><br>⬇️ <a href="https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw">#rladies</a>, don&#39;t forget to follow <a href="https://twitter.com/hfcfrick?ref_src=twsrc%5Etfw">@hfcfrick</a>&#39;s advice below! ⬇️ <a href="https://t.co/j0wp3A0RGB">https://t.co/j0wp3A0RGB</a></p>&mdash; IWD 2018 featured R-Ladies (@rladies_iwd2018) <a href="https://twitter.com/rladies_iwd2018/status/972072302727892992?ref_src=twsrc%5Etfw">9 de març de 2018</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s the evolution of Irish Population density 1841-&gt;2002 on a DED level. You can see the devastating impact of the Famine, the gradual thinning of the rural population and the late-20th c. suburban sprawl <a href="https://twitter.com/hashtag/history?src=hash&amp;ref_src=twsrc%5Etfw">#history</a> <a href="https://twitter.com/hashtag/ireland?src=hash&amp;ref_src=twsrc%5Etfw">#ireland</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/SOwSyHvPIN">pic.twitter.com/SOwSyHvPIN</a></p>&mdash; Alan Fernihough (@DiffusePrioR) <a href="https://twitter.com/DiffusePrioR/status/972042199675359232?ref_src=twsrc%5Etfw">March 9, 2018</a></blockquote>
-
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When you mess up a decimal point simplifying polygons in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> and you go full Picasso during his cubism period... <a href="https://t.co/MBrgQ4crjZ">pic.twitter.com/MBrgQ4crjZ</a></p>&mdash; Juan Carlos (@villasenor_jc) <a href="https://twitter.com/villasenor_jc/status/971508384838008836?ref_src=twsrc%5Etfw">March 7, 2018</a></blockquote>
 
