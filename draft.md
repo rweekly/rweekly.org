@@ -73,6 +73,8 @@ Release Date: 2018-3-12
 + [Alternative design for shiny](https://rviews.rstudio.com/2018/03/13/alternative-design-for-shiny/)
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
++ [Tidy Resampling Redux with Agricultural Economics Data](http://appliedpredictivemodeling.com/blog/2018/3/12/2s3j82ctkrhxugq7hf3myoeeb49k8u)
+
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
