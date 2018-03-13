@@ -70,7 +70,7 @@ Release Date: 2018-3-12
 
 ###  Tutorials
 
-
++ [Alternative design for shiny](https://rviews.rstudio.com/2018/03/13/alternative-design-for-shiny/)
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
