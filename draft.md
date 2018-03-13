@@ -59,6 +59,7 @@ Release Date: 2018-3-12
 
 ### R in the Real World
 
++[Gold diggers at the Olympics](https://edwinth.github.io/analyzing-olympics/)
 
 
 ### R Internationally
