@@ -61,6 +61,7 @@ Release Date: 2018-3-12
 
 + [Gold diggers at the Olympics](https://edwinth.github.io/analyzing-olympics/)
 
++ [Simulating March Madness in R](https://troyhernandez.com/2018/03/13/simulating-march-madness-in-r/)
 
 ### R Internationally
 
