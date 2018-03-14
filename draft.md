@@ -63,6 +63,8 @@ Release Date: 2018-3-12
 
 + [Simulating March Madness in R](https://troyhernandez.com/2018/03/13/simulating-march-madness-in-r/)
 
++ [Spatial clustering of personal belief exemptions for vaccines in California](http://katiejolly.io/blog/2018-03-14/spatial-clusters)
+
 ### R Internationally
 
 
