@@ -30,7 +30,7 @@ Release Date: 2018-3-12
 
 ### Package Releases
 
-
+* [fitur 0.5.25](https://cran.r-project.org/web/packages/fitur/index.html) - Fit Univariate Distributions to d,p,q, r functions automatically
 
 ###  R in Academia
 
