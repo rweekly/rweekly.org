@@ -17,7 +17,7 @@ Release Date: 2018-3-12
 
 **CRAN**
 
-
+* New CRAN Task View: [Model Deployment with R](https://CRAN.R-project.org/view=ModelDeployment)
 
 **BioC**
 
