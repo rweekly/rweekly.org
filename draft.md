@@ -35,6 +35,8 @@ Release Date: 2018-3-12
 ###  R in Academia
 
 
+
+
 ###  Resources
 
 
@@ -76,6 +78,11 @@ Release Date: 2018-3-12
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 + [Tidy Resampling Redux with Agricultural Economics Data](http://appliedpredictivemodeling.com/blog/2018/3/12/2s3j82ctkrhxugq7hf3myoeeb49k8u)
+
++ [Math Notation for R Plot titles: expression, bquote and greek letters](https://trinkerrstuff.wordpress.com/2018/03/15/2246/)
+
++ [Responsive iframes for Shiny Apps](https://www.cultureofinsight.com/blog/2018/03/15/2018-03-15-responsive-iframes-for-shiny-apps/)
+
 
 ###  R Project Updates
 
