@@ -73,6 +73,8 @@ Release Date: 2018-3-12
 
 + [The Many Faces of R](http://www.win-vector.com/blog/2018/03/the-many-faces-of-r/)
 
++ [An Ode to Testing, my first review](https://ropensci.org/blog/2018/03/13/ode-to-testing/)
+
 ### Gist & Cookbook
 
 
@@ -130,13 +132,9 @@ Release Date: 2018-3-12
 
 + [Making maps of the USA with R: alternative layout](https://nowosad.github.io/post/making-alternative-inset-maps-of-the-usa/)
 
-+ [An Ode to Testing, my first review](https://ropensci.org/blog/2018/03/13/ode-to-testing/)
-
 + [Embedding Google Data Studio into RMarkdown](http://code.markedmondson.me/embedding-google-data-studio-into-rmarkdown)
 
 + [Take Care If Trying the RPostgres Package](http://www.win-vector.com/blog/2018/03/take-care-if-trying-the-rpostgres-package/)
-
-+ [Because it's Friday: Email a tree](http://blog.revolutionanalytics.com/2018/03/because-its-friday-email-a-tree.html)
 
 + [Textmate setup (Mac only)](http://research.libd.org/rstatsclub/2018/03/11/textmate-setup-mac-only/)
 
