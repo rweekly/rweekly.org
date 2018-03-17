@@ -40,6 +40,8 @@ Release Date: 2018-3-12
 
 + [Rcpp 0.12.16: A small update](http://dirk.eddelbuettel.com/blog/2018/03/13#rcpp_0.12.16)
 
++ [tailr 0.1.1: Support for higher-order functions](https://mailund.github.io/r-programmer-blog/2018/03/17/tailr-v0.1.1/)
+
 ###  R in Academia
 
 
