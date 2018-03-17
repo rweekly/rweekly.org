@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2018-11
+title: R Weekly 2018-12
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -30,7 +30,15 @@ Release Date: 2018-3-12
 
 ### Package Releases
 
-* [fitur 0.5.25](https://cran.r-project.org/web/packages/fitur/index.html) - Fit Univariate Distributions to d,p,q, r functions automatically
++ [R 3.4.4 released](http://blog.revolutionanalytics.com/2018/03/r-344-released.html)
+
++ [RDieHarder 0.1.4](http://dirk.eddelbuettel.com/blog/2018/03/16#rdieharder_0.1.4)
+
++ [RcppClassicExamples 0.1.2](http://dirk.eddelbuettel.com/blog/2018/03/16#rcppclassicexamples_0.1.2)
+
++ [fitur 0.5.25](https://cran.r-project.org/web/packages/fitur/index.html) - Fit Univariate Distributions to d,p,q, r functions automatically
+
++ [Rcpp 0.12.16: A small update](http://dirk.eddelbuettel.com/blog/2018/03/13#rcpp_0.12.16)
 
 ###  R in Academia
 
@@ -39,7 +47,13 @@ Release Date: 2018-3-12
 
 ###  Resources
 
++ [Names and values](https://adv-r.hadley.nz/names-values.html) - New chapter for Advanced #rstats that explains the distinction between names and values, and explains when copies happen.
 
++ [Look up all base R functions from version 3.0.1 to 3.4.3](https://hughjonesd.shinyapps.io/rcheology/)
+
++ [New CRAN Task View for Model Deployment with R](https://cran.r-project.org/web/views/ModelDeployment.html)
+
++ [R Users, what was something simple you learned late that you wish you learned early?](https://www.reddit.com/r/rstats/comments/84ejm1/r_users_what_was_something_simple_you_learned/)
 
 ###  Videos and Podcasts
 
@@ -47,9 +61,17 @@ Release Date: 2018-3-12
 
 ### Insights
 
++ [Thanking Your Reviewers: Gratitude through Semantic Metadata](https://ropensci.org/blog/2018/03/16/thanking-reviewers-in-metadata/)
 
++ [Dependencies and bloat](https://medium.com/@davidhughjones/dependencies-and-bloat-891e856ce18e)
 
++ [Alternative Design for Shiny](https://rviews.rstudio.com/2018/03/13/alternative-design-for-shiny/)
 
++ [Don't Use Spaces or Underscores in File Paths; Use Dashes Instead](https://yihui.name/en/2018/03/space-pain/)
+
++ [In case you missed it: February 2018 roundup](http://blog.revolutionanalytics.com/2018/03/in-case-you-missed-it-february-2018-roundup.html)
+
++ [The Many Faces of R](http://www.win-vector.com/blog/2018/03/the-many-faces-of-r/)
 
 ### Gist & Cookbook
 
@@ -61,11 +83,19 @@ Release Date: 2018-3-12
 
 ### R in the Real World
 
++ [R rises to #12 in Redmonk language rankings](http://blog.revolutionanalytics.com/2018/03/redmonk-jan-2018.html)
+
++ [Steel-ing a Makeover from Tariffic Post](https://rud.is/b/2018/03/12/steeling-tariffic/)
+
 + [Gold diggers at the Olympics](https://edwinth.github.io/analyzing-olympics/)
 
 + [Simulating March Madness in R](https://troyhernandez.com/2018/03/13/simulating-march-madness-in-r/)
 
 + [Spatial clustering of personal belief exemptions for vaccines in California](http://katiejolly.io/blog/2018-03-14/spatial-clusters)
+
++ [Bayesian extreme value analysis of my morning commute](https://erle.io/blog/2018-03-11-extreme-value-theory-and-tube-delays/)
+
++ [Nice ggplot with sad data: something happens with women in science](https://allthiswasfield.blogspot.hk/2018/03/nice-ggplot-with-sad-data-something.html)
 
 ### R Internationally
 
@@ -74,8 +104,7 @@ Release Date: 2018-3-12
 
 ###  Tutorials
 
-+ [Alternative design for shiny](https://rviews.rstudio.com/2018/03/13/alternative-design-for-shiny/)
-<!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
++ [Visualizing MonteCarlo Simulation Results: Mean vs Median](https://firstdifferences.wordpress.com/2018/03/15/visualizing-montecarlo-simulation-results-mean-vs-median/)
 
 + [Tidy Resampling Redux with Agricultural Economics Data](http://appliedpredictivemodeling.com/blog/2018/3/12/2s3j82ctkrhxugq7hf3myoeeb49k8u)
 
@@ -83,6 +112,36 @@ Release Date: 2018-3-12
 
 + [Responsive iframes for Shiny Apps](https://www.cultureofinsight.com/blog/2018/03/15/2018-03-15-responsive-iframes-for-shiny-apps/)
 
++ [Exploratory Analysis – When to Choose R, Python, Tableau or a Combination](https://www.stoltzmaniac.com/tool-selection-python-tableau-r/)
+
++ [R: simple for complex tasks, complex for simple tasks](https://ekonometrics.blogspot.hk/2018/03/r-simple-for-complex-tasks-complex-for.html)
+
++ [Use unique() instead of levels() to find the possible values of a factor in R](https://chemicalstatistician.wordpress.com/2018/03/10/use-unique-instead-of-levels-to-find-the-possible-values-of-a-character-variable-in-r/)
+
++ [TSrepr use case - Clustering time series representations in R](https://petolau.github.io/TSrepr-clustering-time-series-representations/)
+
++ [A tutorial on how to visualize regression models in R.](http://www.lillemets.ee/plotting_the_fit_of_regression_models_in_r.html)
+
++ [R Tip: Use the vtreat Package For Data Preparation](http://www.win-vector.com/blog/2018/03/r-tip-use-the-vtreat-package-for-data-preparation/)
+
++ [An Exploration of Simple Features for R](https://jessesadler.com/post/simple-feature-objects/)
+
++ [The not so obvious value of build passing](https://purrple.cat/blog/2018/03/13/the-not-so-obvious-value-of-build-passing/)
+
++ [Making maps of the USA with R: alternative layout](https://nowosad.github.io/post/making-alternative-inset-maps-of-the-usa/)
+
++ [An Ode to Testing, my first review](https://ropensci.org/blog/2018/03/13/ode-to-testing/)
+
++ [Embedding Google Data Studio into RMarkdown](http://code.markedmondson.me/embedding-google-data-studio-into-rmarkdown)
+
++ [Take Care If Trying the RPostgres Package](http://www.win-vector.com/blog/2018/03/take-care-if-trying-the-rpostgres-package/)
+
++ [Because it's Friday: Email a tree](http://blog.revolutionanalytics.com/2018/03/because-its-friday-email-a-tree.html)
+
++ [Textmate setup (Mac only)](http://research.libd.org/rstatsclub/2018/03/11/textmate-setup-mac-only/)
+
+
+<!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
@@ -140,3 +199,11 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">almost finished: small package to read chess notation and convert the games into gifs using <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/f6JVeToWjT">pic.twitter.com/f6JVeToWjT</a></p>&mdash; Robert Roberts (@robert_squared) <a href="https://twitter.com/robert_squared/status/973623318157971456?ref_src=twsrc%5Etfw">March 13, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Neat <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tidyverse trick for creating publication-worthy tables: add a &quot;Totals&quot; row with bind_rows(summarise_at()) before outputting a tibble with Markdown <a href="https://t.co/mCnpbCQ3za">pic.twitter.com/mCnpbCQ3za</a></p>&mdash; Andrew Heiss (@andrewheiss) <a href="https://twitter.com/andrewheiss/status/973325552596664321?ref_src=twsrc%5Etfw">March 12, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I think my <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> students are getting the message, mostly. <br>The following poems made my day on Friday. <a href="https://t.co/XQA2GBnTGf">pic.twitter.com/XQA2GBnTGf</a></p>&mdash; John Dwyer (@john_m_dwyer) <a href="https://twitter.com/john_m_dwyer/status/972349474616913920?ref_src=twsrc%5Etfw">March 10, 2018</a></blockquote>
+
+
