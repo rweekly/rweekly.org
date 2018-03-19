@@ -39,6 +39,7 @@ Release Date: 2018-3-26
 
 ###  Videos and Podcasts
 
++ [DataFramed ep.14: Text Mining and Natural Language Processing in Data Science (with Julia Silge)](https://www.datacamp.com/community/podcast/text-mining-nlproc)
 
 
 ### Insights
