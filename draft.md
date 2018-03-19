@@ -17,7 +17,6 @@ Release Date: 2018-3-12
 
 **CRAN**
 
-* New CRAN Task View: [Model Deployment with R](https://CRAN.R-project.org/view=ModelDeployment)
 
 **BioC**
 
@@ -31,10 +30,6 @@ Release Date: 2018-3-12
 ### Package Releases
 
 + [R 3.4.4 released](http://blog.revolutionanalytics.com/2018/03/r-344-released.html)
-
-+ [RDieHarder 0.1.4](http://dirk.eddelbuettel.com/blog/2018/03/16#rdieharder_0.1.4)
-
-+ [RcppClassicExamples 0.1.2](http://dirk.eddelbuettel.com/blog/2018/03/16#rcppclassicexamples_0.1.2)
 
 + [fitur 0.5.25](https://cran.r-project.org/web/packages/fitur/index.html) - Fit Univariate Distributions to d,p,q, r functions automatically
 
@@ -87,7 +82,11 @@ Release Date: 2018-3-12
 
 + [R rises to #12 in Redmonk language rankings](http://blog.revolutionanalytics.com/2018/03/redmonk-jan-2018.html)
 
+![R rises to #12 in Redmonk language rankings](https://raw.githubusercontent.com/rweekly/image/master/2018-8/20180315-redmonklang-2012-2018-logo.png)
+
 + [Steel-ing a Makeover from Tariffic Post](https://rud.is/b/2018/03/12/steeling-tariffic/)
+
+![Steel-ing a Makeover from Tariffic Post](https://raw.githubusercontent.com/rweekly/image/master/2018-8/plot_zoom_png.png)
 
 + [Gold diggers at the Olympics](https://edwinth.github.io/analyzing-olympics/)
 
@@ -95,9 +94,13 @@ Release Date: 2018-3-12
 
 + [Spatial clustering of personal belief exemptions for vaccines in California](http://katiejolly.io/blog/2018-03-14/spatial-clusters)
 
+![Spatial clustering of personal belief exemptions for vaccines in California](https://raw.githubusercontent.com/rweekly/image/master/2018-8/clusters-2.png)
+
 + [Bayesian extreme value analysis of my morning commute](https://erle.io/blog/2018-03-11-extreme-value-theory-and-tube-delays/)
 
 + [Nice ggplot with sad data: something happens with women in science](https://allthiswasfield.blogspot.hk/2018/03/nice-ggplot-with-sad-data-something.html)
+
+![Nice ggplot with sad data: something happens with women in science](https://raw.githubusercontent.com/rweekly/image/master/2018-8/women.png)
 
 ### R Internationally
 
@@ -144,6 +147,10 @@ Release Date: 2018-3-12
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
++ Indexing a list using dollar and empty string (`l$""`) returns NULL.
+
++ Some `as.data.frame()` methods, notably the `matrix` one, are now more careful in not accepting duplicated or `NA` row names, and by default produce unique non-NA row names. This is based on `row.names(x, make.names = *) <- rNms` where `make.names` is a new logical, with back compatible default.
 
 
 
