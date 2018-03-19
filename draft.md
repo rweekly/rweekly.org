@@ -75,6 +75,9 @@ Release Date: 2018-3-12
 
 + [An Ode to Testing, my first review](https://ropensci.org/blog/2018/03/13/ode-to-testing/)
 
++ [Introducing the Monitoring & Evaluation Bullet Chart!](http://www.acdivoca.org/2018/03/introducing-the-monitoring-and-evaluation-bullet-chart/)
+![img](https://i.imgur.com/8FrfaRW.png)
+
 ### Gist & Cookbook
 
 
