@@ -47,6 +47,9 @@ Release Date: 2018-3-26
 
 
 
++ [Introducing the Monitoring & Evaluation Bullet Chart!](http://www.acdivoca.org/2018/03/introducing-the-monitoring-and-evaluation-bullet-chart/)
+![img](https://i.imgur.com/8FrfaRW.png)
+
 ### Gist & Cookbook
 
 
