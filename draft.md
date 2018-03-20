@@ -70,7 +70,7 @@ Release Date: 2018-3-26
 
 ###  Tutorials
 
-
+[Pipe tweenr](http://lenkiefer.com/2018/03/18/pipe-tweenr/) - In this post we make some animated data visualisations using R and tweenr.
 
 
 
