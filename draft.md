@@ -28,6 +28,8 @@ Release Date: 2018-3-26
 ### Package Releases
 
 
++ [tailr 0.1.1: Support for higher-order functions](https://mailund.github.io/r-programmer-blog/2018/03/17/tailr-v0.1.1/)
+
 ###  R in Academia
 
 
