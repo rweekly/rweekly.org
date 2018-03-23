@@ -47,35 +47,69 @@ Release Date: 2018-3-26
 
 ### Insights
 
++ [ThinkR is looking for feedbacks about ISC proposal for "Rebooting and Extending R for Neo4J"](https://github.com/ThinkR-open/isc-proposal)
 
++ [The most prolific package maintainers on CRAN](http://blog.revolutionanalytics.com/2018/03/the-most-prolific-package-maintainers-on-cran.html)
 
+```
+                 Maint     n
+ 1  Scott Chamberlain     77
+ 2  Dirk Eddelbuettel     53
+ 3        Jeroen Ooms     40
+ 4     Hadley Wickham     39
+ 5       Gábor Csárdi     37
+ 6           ORPHANED     37
+ 7   Thomas J. Leeper     29
+ 8          Bob Rudis     28
+ 9   Henrik Bengtsson     28
+10        Kurt Hornik     28
+11       Oliver Keyes     28
+12    Martin Maechler     27
+13     Richard Cotton     27
+14 Robin K. S. Hankin     24
+15      Simon Urbanek     24
+16      Kirill Müller     23
+17    Torsten Hothorn     23
+18      Achim Zeileis     22
+19       Paul Gilbert     21
+20          Yihui Xie     21
+```
 
++ [How did we get here? Three different Premier League stories](https://austinwehrwein.com/post/epltimeline/)
 
 + [Introducing the Monitoring & Evaluation Bullet Chart!](http://www.acdivoca.org/2018/03/introducing-the-monitoring-and-evaluation-bullet-chart/)
 ![img](https://i.imgur.com/8FrfaRW.png)
 
 ### Gist & Cookbook
 
++ [Machine Learning Modelling in R : : Cheat Sheet](http://www.thertrader.com/2018/03/22/machine-learning-modelling-in-r-cheat-sheet/)
 
+![](http://www.thertrader.com/wp-content/uploads/2018/03/Picture3-300x223.jpg)
 
 ###  R in Organizations
 
++ [R in production — Multiple Versions of R](https://rviews.rstudio.com/2018/03/21/multiple-versions-of-r/)
 
 
 ### R in the Real World
 
 
-
 ### R Internationally
 
++ [Une API avec R en deux temps, trois mouvements.](https://thinkr.fr/api-r-deux-temps-trois-mouvements/)
 
++ [grrR, la communauté francophone autour de R, ouvre ses portes !](http://frama.link/r-grrr)
+
++ [Requêtes avec jointures sous R](https://tutoriels-data-mining.blogspot.fr/2018/03/requetes-avec-jointures-sous-r.html)
 
 
 ###  Tutorials
 
 [Pipe tweenr](http://lenkiefer.com/2018/03/18/pipe-tweenr/) - In this post we make some animated data visualisations using R and tweenr.
 
++ [Assert a logical statement over a code block](https://coolbutuseless.bitbucket.io/2018/03/22/assert-condition-over-a-code-block/)
 
++ [Introduction to Scraping and Wranging Tables from Research Articles](http://research.libd.org/rstatsclub/2018/03/19/introduction-to-scraping-and-wranging-tables-from-research-articles/#.WrS3N8jjLOQ)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
