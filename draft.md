@@ -17,6 +17,7 @@ Release Date: 2018-3-26
 
 **CRAN**
 
+* [h2o4gpu: Machine Learning with GPUs in R](https://CRAN.R-project.org/package=h2o4gpu)
 
 **BioC**
 
