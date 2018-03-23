@@ -105,7 +105,7 @@ Release Date: 2018-3-26
 
 ###  Tutorials
 
-[Pipe tweenr](http://lenkiefer.com/2018/03/18/pipe-tweenr/) - In this post we make some animated data visualisations using R and tweenr.
++ [Pipe tweenr](http://lenkiefer.com/2018/03/18/pipe-tweenr/) - In this post we make some animated data visualisations using R and tweenr.
 
 + [Assert a logical statement over a code block](https://coolbutuseless.bitbucket.io/2018/03/22/assert-condition-over-a-code-block/)
 
