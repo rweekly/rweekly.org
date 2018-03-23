@@ -46,6 +46,10 @@ Release Date: 2018-3-26
 
 + [R-Podcast ep.25: Interview with Ian Lyttle and rstudio::conf 2018 wrap-up](https://r-podcast.org/episode/025-rstudioconf-ian-lyttle/)
 
++ [Linear Digression-20180318: How we pick projects for a professional data science team](http://lineardigressions.com/)
+
++ [Not So Standard Deviation ep.56: Only One of Us is Saving Daylight](http://nssdeviations.com/56-only-one-of-us-is-saving-daylight)
+
 ### Insights
 
 + [ThinkR is looking for feedbacks about ISC proposal for "Rebooting and Extending R for Neo4J"](https://github.com/ThinkR-open/isc-proposal)
