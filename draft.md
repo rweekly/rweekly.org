@@ -98,6 +98,10 @@ Release Date: 2018-3-26
 
 ### R in the Real World
 
++ [Simulating 2018 NCAA March Madness Tournament Performance in R](https://mattkmiecik.com/post-Simulating-2018-NCAA-March-Madness-Tournament-Performance-in-R.html)
+
+![](https://github.com/mkmiecik14/mkmiecik14.github.io/blob/master/post-Simulating-2018-NCAA-March-Madness-Tournament-Performance-in-R_files/figure-html/unnamed-chunk-8-1.png?raw=true)
+
 
 ### R Internationally
 
