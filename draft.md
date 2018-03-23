@@ -44,6 +44,7 @@ Release Date: 2018-3-26
 
 + [DataFramed ep.14: Text Mining and Natural Language Processing in Data Science (with Julia Silge)](https://www.datacamp.com/community/podcast/text-mining-nlproc)
 
++ [R-Podcast ep.25: Interview with Ian Lyttle and rstudio::conf 2018 wrap-up](https://r-podcast.org/episode/025-rstudioconf-ian-lyttle/)
 
 ### Insights
 
