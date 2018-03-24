@@ -227,6 +227,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">.<a href="https://twitter.com/rweekly_org?ref_src=twsrc%5Etfw">@rweekly_org</a> representatives at <a href="https://twitter.com/hashtag/sarRdayCapeTown?src=hash&amp;ref_src=twsrc%5Etfw">#sarRdayCapeTown</a> 📬 <a href="https://t.co/BXI5ZxpYId">pic.twitter.com/BXI5ZxpYId</a></p>&mdash; Maëlle Salmon 🐟 (@ma_salmon) <a href="https://twitter.com/ma_salmon/status/975033835275595776?ref_src=twsrc%5Etfw">17 de març de 2018</a></blockquote>
+
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">.<a href="https://twitter.com/brookLYNevery1?ref_src=twsrc%5Etfw">@brookLYNevery1</a>: &quot;But once I pushed this to Github, I immediately became an open source developer and maintainer. That’s all it takes.&quot; 🚀<a href="https://t.co/eWxF2lRqEa">https://t.co/eWxF2lRqEa</a></p>&mdash; Maëlle Salmon 🐟 (@ma_salmon) <a href="https://twitter.com/ma_salmon/status/977566687984869376?ref_src=twsrc%5Etfw">24 de març de 2018</a></blockquote>
 
 
