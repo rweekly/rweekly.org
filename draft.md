@@ -127,6 +127,8 @@ Release Date: 2018-3-26
 
 ###  Tutorials
 
++ [Scraping Javascript websites in R ](http://blog.brooke.science/posts/scraping-javascript-websites-in-r/)
+
 + [RStudio in the Cloud I: Amazon Web Services](http://strimas.com/r/rstudio-cloud-1/)
 
 + [Recreate - Sankey flow chart](https://www.hvitfeldt.me/2018/03/recreate-sankey-flow-chart/)
@@ -222,6 +224,10 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">.<a href="https://twitter.com/brookLYNevery1?ref_src=twsrc%5Etfw">@brookLYNevery1</a>: &quot;But once I pushed this to Github, I immediately became an open source developer and maintainer. That’s all it takes.&quot; 🚀<a href="https://t.co/eWxF2lRqEa">https://t.co/eWxF2lRqEa</a></p>&mdash; Maëlle Salmon 🐟 (@ma_salmon) <a href="https://twitter.com/ma_salmon/status/977566687984869376?ref_src=twsrc%5Etfw">24 de març de 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">💡 dplyr::case_when goes really well with geom_text (or ggrepel) for when you want to programmatically label a few of the most interesting features in your <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> plots! And the criteria can be as complex as you want 🎉 <a href="https://t.co/0jUp1uarde">pic.twitter.com/0jUp1uarde</a></p>&mdash; James Goldie (@rensa_co) <a href="https://twitter.com/rensa_co/status/976340414016843776?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote>
 
