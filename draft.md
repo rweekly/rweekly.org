@@ -71,6 +71,8 @@ Release Date: 2018-3-26
 
 + [Not So Standard Deviation ep.56: Only One of Us is Saving Daylight](http://nssdeviations.com/56-only-one-of-us-is-saving-daylight)
 
++ [Videos from satRday Cape Town 2018](https://www.youtube.com/channel/UCR6bXwt5uv5YCxlSY-Ynm1w)
+
 ### Insights
 
 + [I'm (not) looking for a job](https://purrple.cat/blog/2018/03/22/i-m-not-looking-for-a-job/)
