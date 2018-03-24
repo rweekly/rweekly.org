@@ -17,9 +17,15 @@ Release Date: 2018-3-26
 
 **CRAN**
 
-* [h2o4gpu: Machine Learning with GPUs in R](https://CRAN.R-project.org/package=h2o4gpu)
++ [codebook](https://cran.r-project.org/web/packages/codebook/index.html) - Automatic Codebooks from Survey Metadata Encoded in Attributes
+
++ [h2o4gpu: Machine Learning with GPUs in R](https://CRAN.R-project.org/package=h2o4gpu)
 
 + [On MIMEs, software versions and web site promiscuity (a.k.a. three new packages to round out the week)](https://rud.is/b/2018/03/23/on-mimes-software-versions-and-web-site-promiscuity-a-k-a-three-new-packages-to-round-out-the-week/)
+
++ [Introducing tabr: guitar tabs with R](https://leonawicz.github.io/blog/post/introducing-tabr-guitar-tabs-with-r/)
+
+![Introducing tabr: guitar tabs with R](https://pbs.twimg.com/media/DYqmaBqVoAEQlT1.jpg)
 
 **BioC**
 
@@ -68,6 +74,8 @@ Release Date: 2018-3-26
 
 + [I'm (not) looking for a job](https://purrple.cat/blog/2018/03/22/i-m-not-looking-for-a-job/)
 
++ [Prime Hints For Running A Data Project In R](https://kkulma.github.io/2018-03-18-Prime-Hints-for-Running-a-data-project-in-R/)
+
 + [Adventures in Polyglot Packaging: Stringing together R, C++, WebAssembly, and Javacript with Rcpp, htmlwidgets, and emscripten](https://noamross.github.io/wassa/inst/doc/adventures-in-webassembly.html)
 
 + [ThinkR is looking for feedbacks about ISC proposal for "Rebooting and Extending R for Neo4J"](https://github.com/ThinkR-open/isc-proposal)
@@ -114,6 +122,10 @@ Release Date: 2018-3-26
 
 + [RStudio in the Cloud I: Amazon Web Services](http://strimas.com/r/rstudio-cloud-1/)
 
++ [Recreate - Sankey flow chart](https://www.hvitfeldt.me/2018/03/recreate-sankey-flow-chart/)
+
+![Recreate - Sankey flow chart](https://d33wubrfki0l68.cloudfront.net/e7e4e765fd3b4839d9a5a88f2f4738950e13aed0/5773b/post/2018-03-20-recreate-sankey-flow-chart_files/figure-html/unnamed-chunk-12.gif)
+
 + [gganimate vs. plotly... See how the two #rstats animation packages compare](https://www.brucemeng.ca/post/animations-in-r/)
 
 ![gganimate vs. plotly... See how the two #rstats animation packages compare](https://www.brucemeng.ca/img/gganimate.gif)
@@ -139,6 +151,14 @@ Release Date: 2018-3-26
 + [R and Docker](http://blog.revolutionanalytics.com/2018/03/r-and-docker.html)
 
 + [Regression Analysis Essentials For Machine Learning](http://www.sthda.com/english/wiki/regression-analysis-essentials-for-machine-learning)
+
++ [R Tip: Use stringsAsFactors = FALSE](http://www.win-vector.com/blog/2018/03/r-tip-use-stringsasfactors-false/)
+
++ [Visualizing MonteCarlo Simulation Results: Mean vs Median](https://firstdifferences.wordpress.com/2018/03/15/visualizing-montecarlo-simulation-results-mean-vs-median/)
+
++ [Should I learn sf or sp for spatial R programming?](http://www.seascapemodels.org/rstats/2018/03/23/should-I-learn-sp-or-sf.html)
+
++ [Comparing additive and multiplicative regressions using AIC in R](https://forecasting.svetunkov.ru/en/2018/03/22/comparing-additive-and-multiplicative-regressions-using-aic-in-r/)
 
 + [R Tip: Break up Function Nesting for Legibility](http://www.win-vector.com/blog/2018/03/r-tip-break-up-function-nesting-for-legibility/)
 
@@ -209,4 +229,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">💡 dplyr::case_when goes really well with geom_text (or ggrepel) for when you want to programmatically label a few of the most interesting features in your <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> plots! And the criteria can be as complex as you want 🎉 <a href="https://t.co/0jUp1uarde">pic.twitter.com/0jUp1uarde</a></p>&mdash; James Goldie (@rensa_co) <a href="https://twitter.com/rensa_co/status/976340414016843776?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote>
 
