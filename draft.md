@@ -58,6 +58,7 @@ Release Date: 2018-3-26
 
 ###  Resources
 
++ [Regression Analysis Essentials For Machine Learning](http://www.sthda.com/english/wiki/regression-analysis-essentials-for-machine-learning)
 
 
 ###  Videos and Podcasts
@@ -87,6 +88,10 @@ Release Date: 2018-3-26
 + [Introducing the Monitoring & Evaluation Bullet Chart!](http://www.acdivoca.org/2018/03/introducing-the-monitoring-and-evaluation-bullet-chart/)
 ![img](https://i.imgur.com/8FrfaRW.png)
 
++ [Should I learn sf or sp for spatial R programming?](http://www.seascapemodels.org/rstats/2018/03/23/should-I-learn-sp-or-sf.html)
+
++ [R and Docker](http://blog.revolutionanalytics.com/2018/03/r-and-docker.html)
+
 ### Gist & Cookbook
 
 + [Machine Learning Modelling in R : : Cheat Sheet](http://www.thertrader.com/2018/03/22/machine-learning-modelling-in-r-cheat-sheet/)
@@ -109,6 +114,8 @@ Release Date: 2018-3-26
 + [PH Dengvaxia News Coverage: A Tidytext Mining Case Study Part 2](https://brennonborbon.wordpress.com/2018/03/17/ph-dengvaxia-news-coverage-a-tidytext-mining-case-study-in-r-part-2/)
 
 + [How did we get here? Three different Premier League stories.](https://austinwehrwein.com/post/epltimeline/)
+
++ [Career Tracks at UC Part I: Cleaning and Tidying](https://daranzolin.github.io//articles/2018-03/careertracksi)
 
 ### R Internationally
 
@@ -134,11 +141,7 @@ Release Date: 2018-3-26
 
 + [Assert a logical statement over a code block](https://coolbutuseless.bitbucket.io/2018/03/22/assert-condition-over-a-code-block/)
 
-+ [Introduction to Scraping and Wranging Tables from Research Articles](http://research.libd.org/rstatsclub/2018/03/19/introduction-to-scraping-and-wranging-tables-from-research-articles/#.WrS3N8jjLOQ)
-
 + [Body modification part 2: Automatically creating type checks for a function](https://coolbutuseless.bitbucket.io/2018/03/18/body-modification-part-2-automatically-creating-type-checks-for-a-function/)
-
-+ [Career Tracks at UC Part I: Cleaning and Tidying](https://daranzolin.github.io//articles/2018-03/careertracksi)
 
 + [Exploring the underlying theory of the chi-square test through simulation - part 1](https://www.rdatagen.net/post/a-little-intuition-and-simulation-behind-the-chi-square-test-of-independence/)
 
@@ -148,29 +151,19 @@ Release Date: 2018-3-26
 
 + [Introduction to Scraping and Wranging Tables from Research Articles](http://research.libd.org/rstatsclub/2018/03/19/introduction-to-scraping-and-wranging-tables-from-research-articles/)
 
-+ [R and Docker](http://blog.revolutionanalytics.com/2018/03/r-and-docker.html)
-
-+ [Regression Analysis Essentials For Machine Learning](http://www.sthda.com/english/wiki/regression-analysis-essentials-for-machine-learning)
-
 + [R Tip: Use stringsAsFactors = FALSE](http://www.win-vector.com/blog/2018/03/r-tip-use-stringsasfactors-false/)
 
 + [Visualizing MonteCarlo Simulation Results: Mean vs Median](https://firstdifferences.wordpress.com/2018/03/15/visualizing-montecarlo-simulation-results-mean-vs-median/)
-
-+ [Should I learn sf or sp for spatial R programming?](http://www.seascapemodels.org/rstats/2018/03/23/should-I-learn-sp-or-sf.html)
 
 + [Comparing additive and multiplicative regressions using AIC in R](https://forecasting.svetunkov.ru/en/2018/03/22/comparing-additive-and-multiplicative-regressions-using-aic-in-r/)
 
 + [R Tip: Break up Function Nesting for Legibility](http://www.win-vector.com/blog/2018/03/r-tip-break-up-function-nesting-for-legibility/)
 
-+ [Multiple Versions of R](https://rviews.rstudio.com/2018/03/21/multiple-versions-of-r/)
-
 + [AI, Machine Learning and Data Science Roundup: March 2018](http://blog.revolutionanalytics.com/2018/03/aimlds-roundup-march-2018.html)
 
-+ [Plotting and subsetting stars objects](http://r-spatial.org//r/2018/03/22/stars2.html)
-
-+ [The most prolific package maintainers on CRAN](http://blog.revolutionanalytics.com/2018/03/the-most-prolific-package-maintainers-on-cran.html)
-
 + [Truncated Poisson distributions in R and Stan by @ellis2013nz](https://freerangestats.info/blog/2018/03/20/truncated-poisson)
+
++ [Plotting and subsetting stars objects](http://r-spatial.org//r/2018/03/22/stars2.html)
 
 + [Using stars for remote big Earth Observation data processing](http://r-spatial.org//r/2018/03/23/stars3.html)
 
