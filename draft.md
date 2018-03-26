@@ -9,7 +9,13 @@ Release Date: 2018-3-26
 
 ###  Highlight
 
++ [Adventures in Polyglot Packaging: Stringing together R, C++, WebAssembly, and Javacript with Rcpp, htmlwidgets, and emscripten](https://noamross.github.io/wassa/inst/doc/adventures-in-webassembly.html)
 
++ [codebook](https://cran.r-project.org/web/packages/codebook/index.html) - Automatic Codebooks from Survey Metadata Encoded in Attributes
+
++ [R-Podcast ep.25: Interview with Ian Lyttle and rstudio::conf 2018 wrap-up](https://r-podcast.org/episode/025-rstudioconf-ian-lyttle/)
+
++ [gofast](https://purrple.cat/blog/2018/03/23/gofast/)
 
 ###  New Packages
 
@@ -19,13 +25,11 @@ Release Date: 2018-3-26
 
 + [codebook](https://cran.r-project.org/web/packages/codebook/index.html) - Automatic Codebooks from Survey Metadata Encoded in Attributes
 
-+ [h2o4gpu: Machine Learning with GPUs in R](https://CRAN.R-project.org/package=h2o4gpu)
++ [h2o4gpu](https://CRAN.R-project.org/package=h2o4gpu) - Machine Learning with GPUs in R
 
-+ [On MIMEs, software versions and web site promiscuity (a.k.a. three new packages to round out the week)](https://rud.is/b/2018/03/23/on-mimes-software-versions-and-web-site-promiscuity-a-k-a-three-new-packages-to-round-out-the-week/)
++ [tabr](https://leonawicz.github.io/blog/post/introducing-tabr-guitar-tabs-with-r/) - Guitar tabs with R
 
-+ [Introducing tabr: guitar tabs with R](https://leonawicz.github.io/blog/post/introducing-tabr-guitar-tabs-with-r/)
-
-![Introducing tabr: guitar tabs with R](https://pbs.twimg.com/media/DYqmaBqVoAEQlT1.jpg)
+![Introducing tabr: guitar tabs with R](https://raw.githubusercontent.com/rweekly/image/master/2018/tabr.png)
 
 **BioC**
 
@@ -36,20 +40,19 @@ Release Date: 2018-3-26
 
 ### Package Releases
 
-+ [pmatch 0.1.3: Pattern matching DSL for R](https://mailund.github.io/r-programmer-blog/2018/03/22/pmatch-0-1-3/)
++ [pmatch 0.1.3](https://mailund.github.io/r-programmer-blog/2018/03/22/pmatch-0-1-3/) - Pattern matching DSL for R
 
-+ [tailr 0.1.1: Support for higher-order functions](https://mailund.github.io/r-programmer-blog/2018/03/17/tailr-v0.1.1/)
++ [tailr 0.1.1](https://mailund.github.io/r-programmer-blog/2018/03/17/tailr-v0.1.1/) - Support for higher-order functions
 
++ [auk 0.2.0](https://cornelllabofornithology.github.io/auk/) - eBird data extraction and processing
 
-+ [auk 0.2.0: eBird data extraction and processing](https://cornelllabofornithology.github.io/auk/)
++ [smoothr 0.0.1](http://strimas.com/smoothr/) - Spatial Feature Smoothing in R
 
-+ [smoothr 0.0.1: Spatial Feature Smoothing in R](http://strimas.com/smoothr/)
++ [RcppSMC 0.2.1](http://dirk.eddelbuettel.com/blog/2018/03/18#rcppsmc_0.2.1) - Rcpp-based bindings to R for the Sequential Monte Carlo Template Classes
 
-+ [RcppSMC 0.2.1: A few new tricks](http://dirk.eddelbuettel.com/blog/2018/03/18#rcppsmc_0.2.1)
++ [RSAGA 1.0.0](http://r-spatial.org//r/2018/03/20/RSAGA-1.0.0.html) - An interface between R and the open-source geographic information system SAGA
 
-+ [RSAGA 1.0.0](http://r-spatial.org//r/2018/03/20/RSAGA-1.0.0.html)
-
-+ [RcppCNPy 0.2.9](http://dirk.eddelbuettel.com/blog/2018/03/22#rcppcnpy_0.2.9)
++ [RcppCNPy 0.2.9](http://dirk.eddelbuettel.com/blog/2018/03/22#rcppcnpy_0.2.9) -  Read and write access to NumPy files
 
 ###  R in Academia
 
@@ -88,7 +91,8 @@ Release Date: 2018-3-26
 + [How did we get here? Three different Premier League stories](https://austinwehrwein.com/post/epltimeline/)
 
 + [Introducing the Monitoring & Evaluation Bullet Chart!](http://www.acdivoca.org/2018/03/introducing-the-monitoring-and-evaluation-bullet-chart/)
-![img](https://i.imgur.com/8FrfaRW.png)
+
+![img](https://raw.githubusercontent.com/rweekly/image/master/2018/8FrfaRW.png)
 
 + [Should I learn sf or sp for spatial R programming?](http://www.seascapemodels.org/rstats/2018/03/23/should-I-learn-sp-or-sf.html)
 
@@ -96,20 +100,19 @@ Release Date: 2018-3-26
 
 ### Gist & Cookbook
 
-+ [Machine Learning Modelling in R : : Cheat Sheet](http://www.thertrader.com/2018/03/22/machine-learning-modelling-in-r-cheat-sheet/)
++ [Machine Learning Modelling in R - Cheat Sheet](http://www.thertrader.com/2018/03/22/machine-learning-modelling-in-r-cheat-sheet/)
 
-![](http://www.thertrader.com/wp-content/uploads/2018/03/Picture3-300x223.jpg)
+![Machine Learning Modelling](http://www.thertrader.com/wp-content/uploads/2018/03/Picture3-300x223.jpg)
 
 ###  R in Organizations
 
 + [R in production — Multiple Versions of R](https://rviews.rstudio.com/2018/03/21/multiple-versions-of-r/)
 
-
 ### R in the Real World
 
 + [Simulating 2018 NCAA March Madness Tournament Performance in R](https://mattkmiecik.com/post-Simulating-2018-NCAA-March-Madness-Tournament-Performance-in-R.html)
 
-![NCAA March](https://github.com/mkmiecik14/mkmiecik14.github.io/blob/master/post-Simulating-2018-NCAA-March-Madness-Tournament-Performance-in-R_files/figure-html/unnamed-chunk-8-1.png?raw=true)
+![NCAA March](https://raw.githubusercontent.com/rweekly/image/master/2018/unnamed-chunk-8-1.png)
 
 + [Exploring Neotoma: Part 1](https://cabinetofcuriosity.github.io/cabinetofcuriosity_site/retrieving-summary-neotoma/)
 
@@ -123,7 +126,7 @@ Release Date: 2018-3-26
 
 + [Une API avec R en deux temps, trois mouvements.](https://thinkr.fr/api-r-deux-temps-trois-mouvements/)
 
-+ [grrR, la communauté francophone autour de R, ouvre ses portes !](http://frama.link/r-grrr)
++ [grrR, la communauté francophone autour de R, ouvre ses portes!](http://frama.link/r-grrr)
 
 + [Requêtes avec jointures sous R](https://tutoriels-data-mining.blogspot.fr/2018/03/requetes-avec-jointures-sous-r.html)
 
@@ -133,13 +136,11 @@ Release Date: 2018-3-26
 
 + [RStudio in the Cloud I: Amazon Web Services](http://strimas.com/r/rstudio-cloud-1/)
 
++ [On MIMEs, software versions and web site promiscuity (a.k.a. three new packages to round out the week)](https://rud.is/b/2018/03/23/on-mimes-software-versions-and-web-site-promiscuity-a-k-a-three-new-packages-to-round-out-the-week/)
+
 + [Recreate - Sankey flow chart](https://www.hvitfeldt.me/2018/03/recreate-sankey-flow-chart/)
 
 ![Recreate - Sankey flow chart](https://d33wubrfki0l68.cloudfront.net/e7e4e765fd3b4839d9a5a88f2f4738950e13aed0/5773b/post/2018-03-20-recreate-sankey-flow-chart_files/figure-html/unnamed-chunk-12.gif)
-
-+ [gganimate vs. plotly... See how the two #rstats animation packages compare](https://www.brucemeng.ca/post/animations-in-r/)
-
-![gganimate vs. plotly... See how the two #rstats animation packages compare](https://www.brucemeng.ca/img/gganimate.gif)
 
 + [Pipe tweenr](http://lenkiefer.com/2018/03/18/pipe-tweenr/) - In this post we make some animated data visualisations using R and tweenr.
 
@@ -151,9 +152,13 @@ Release Date: 2018-3-26
 
 + [A rentrez paper, and how to use the NCBI's new API keys](https://ropensci.org/blog/2018/03/20/rentrez-paper/)
 
-+ [Truncated Poisson distributions in R and Stan by @ellis2013nz](http://ellisp.github.io/blog/2018/03/20/truncated-poisson)
++ [Truncated Poisson distributions in R and Stan](http://ellisp.github.io/blog/2018/03/20/truncated-poisson)
 
 + [Introduction to Scraping and Wranging Tables from Research Articles](http://research.libd.org/rstatsclub/2018/03/19/introduction-to-scraping-and-wranging-tables-from-research-articles/)
+
++ [gganimate vs. plotly... See how the two #rstats animation packages compare](https://www.brucemeng.ca/post/animations-in-r/)
+
+![gganimate vs. plotly... See how the two #rstats animation packages compare](https://www.brucemeng.ca/img/gganimate.gif)
 
 + [R Tip: Use stringsAsFactors = FALSE](http://www.win-vector.com/blog/2018/03/r-tip-use-stringsasfactors-false/)
 
@@ -164,8 +169,6 @@ Release Date: 2018-3-26
 + [R Tip: Break up Function Nesting for Legibility](http://www.win-vector.com/blog/2018/03/r-tip-break-up-function-nesting-for-legibility/)
 
 + [AI, Machine Learning and Data Science Roundup: March 2018](http://blog.revolutionanalytics.com/2018/03/aimlds-roundup-march-2018.html)
-
-+ [Truncated Poisson distributions in R and Stan by @ellis2013nz](https://freerangestats.info/blog/2018/03/20/truncated-poisson)
 
 + [Plotting and subsetting stars objects](http://r-spatial.org//r/2018/03/22/stars2.html)
 
@@ -179,7 +182,13 @@ Release Date: 2018-3-26
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ All packages are by default byte-compiled on installation. This makes the installed packages larger (usually marginally so) and may affect the format of messages and tracebacks (which often exclude `.Cal`l and similar).
 
++ The `"Date"` and “date-time” classes `"POSIXlt"` and `"POSIXct"` now have a working ``length<-`` method, as wished in PR#17387.
+
++ R has new serialization format (version 3) which supports custom serialization of `ALTREP` framework objects. These objects can still be serialized in format 2, but less efficiently. Serialization format 3 also records the current native encoding of unflagged strings and converts them when de-serialized in R running under different native encoding. Format 3 comes with new serialization magic numbers (RDA3, RDB3, RDX3). Format 3 can be selected by `version = 3` in `save()`, `serialize()` and `saveRDS()`, but format 2 remains the default for all serialization and saving of the workspace. Serialized data in format 3 cannot be read in R prior to version 3.5.0.
+
++ Using ` \usage{ data(<name>, package="<pkg>") } ` no longer produces `R CMD check` warnings.
 
 ###  Upcoming Events in 3 Months
 
@@ -231,6 +240,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">.<a href="https://twitter.com/brookLYNevery1?ref_src=twsrc%5Etfw">@brookLYNevery1</a>: &quot;But once I pushed this to Github, I immediately became an open source developer and maintainer. That’s all it takes.&quot; 🚀<a href="https://t.co/eWxF2lRqEa">https://t.co/eWxF2lRqEa</a></p>&mdash; Maëlle Salmon 🐟 (@ma_salmon) <a href="https://twitter.com/ma_salmon/status/977566687984869376?ref_src=twsrc%5Etfw">24 de març de 2018</a></blockquote>
 
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">💡 dplyr::case_when goes really well with geom_text (or ggrepel) for when you want to programmatically label a few of the most interesting features in your <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> plots! And the criteria can be as complex as you want 🎉 <a href="https://t.co/0jUp1uarde">pic.twitter.com/0jUp1uarde</a></p>&mdash; James Goldie (@rensa_co) <a href="https://twitter.com/rensa_co/status/976340414016843776?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote>
-
