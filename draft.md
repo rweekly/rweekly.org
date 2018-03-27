@@ -17,6 +17,7 @@ Release Date: 2018-4-1
 
 **CRAN**
 
++ [reticulate: R interface to Python](http://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
 
 
 **BioC**
