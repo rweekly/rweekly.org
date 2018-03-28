@@ -21,6 +21,8 @@ Release Date: 2018-4-1
 
 + [dynprog: dynamic programming domain-specific language](https://mailund.github.io/dynprog/)
 
++ [ggdag: tidy causal directed acyclic graphs](https://malco.io/2018/03/28/ggdag-0-1-0/)
+
 
 **BioC**
 
