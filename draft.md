@@ -55,7 +55,7 @@ Release Date: 2018-4-1
 
 + [Global Terrorism](https://dominikkoch.github.io/2018-03-27-Global-Terrorism/)
 
-± [Which world leaders are twitter bots?](https://blog.jumpingrivers.com/posts/2018/rtweet_leaders/)
++ [Which world leaders are twitter bots?](https://blog.jumpingrivers.com/posts/2018/rtweet_leaders/)
 
 + [What’s a variable in R?](http://rex-analytics.com/whats-variable-r/)
 
