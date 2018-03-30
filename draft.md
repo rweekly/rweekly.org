@@ -53,7 +53,11 @@ Release Date: 2018-4-1
 
 ### Insights
 
++ [Global Terrorism](https://dominikkoch.github.io/2018-03-27-Global-Terrorism/)
 
+± [Which world leaders are twitter bots?](https://blog.jumpingrivers.com/posts/2018/rtweet_leaders/)
+
++ [What’s a variable in R?](http://rex-analytics.com/whats-variable-r/)
 
 
 ### Gist & Cookbook
@@ -73,16 +77,16 @@ Release Date: 2018-4-1
 
 ### R Internationally
 
-
++ [Autoformation avec swirl ](https://tutoriels-data-mining.blogspot.fr/2018/03/autoformation-avec-swirl.html)
 
 
 
 
 ###  Tutorials
 
++ [R⁶ — Capturing [YouTube] Captions](https://rud.is/b/2018/03/29/r%E2%81%B6-capturing-youtube-captions/)
 
-
-
++ [How to map public debt data with ggplot2](http://www.sharpsightlabs.com/blog/map-public-debt-ggplot2/)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
