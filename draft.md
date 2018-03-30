@@ -29,7 +29,7 @@ Release Date: 2018-4-1
 
 **GitHub or Bitbucket**
 
-
++ [mathart: create mathematical art with R](https://github.com/marcusvolz/mathart)
 
 ### Package Releases
 
