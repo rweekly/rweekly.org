@@ -88,6 +88,7 @@ Release Date: 2018-4-1
 
 + [How to map public debt data with ggplot2](http://www.sharpsightlabs.com/blog/map-public-debt-ggplot2/)
 
++ [Explorations in Markov Chain Monte Carlo - comparing results from MCMCglmm and lme4](https://jrosen48.github.io/blog/explorations-in-markov-chain-monte-carlo-mcmc/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
