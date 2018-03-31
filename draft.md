@@ -23,6 +23,13 @@ Release Date: 2018-4-1
 
 + [ggdag: tidy causal directed acyclic graphs](https://malco.io/2018/03/28/ggdag-0-1-0/)
 
++ [a small chess plotting package for R :)](http://www.robert-hickman.eu/post/hello-world-a-small-chess-plotting-package/)
+
++ [Introducing realtR.  Your gateway to residential property information.](http://asbcllc.com/r_packages/realtR/2018/introduction/index.html)
+
++ [DoOR - The Database of Odorant Responses](https://ropensci.org/blog/2018/03/27/door/)
+
++ [Feb 2018: "Top 40" New Package Picks](https://rviews.rstudio.com/2018/03/29/feb-2018-top-40-new-package-picks/)
 
 **BioC**
 
@@ -33,7 +40,11 @@ Release Date: 2018-4-1
 
 ### Package Releases
 
++ [smoothr 0.0.1](http://strimas.com/smoothr/) - Spatial Feature Smoothing in R
 
++ [auk 0.2.0](https://cornelllabofornithology.github.io/auk/) - eBird data extraction and processing
+
++ [DT 0.4: Editing Tables, Smart Filtering, and More](https://blog.rstudio.com/2018/03/29/dt-0-4/)
 
 ###  R in Academia
 
@@ -53,11 +64,17 @@ Release Date: 2018-4-1
 
 ### Insights
 
++ [Lintr Bot, lintr's Hester egg](http://www.masalmon.eu/2018/03/30/lintr-bot/)
+
++ [reticulate: R interface to Python](https://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
+
 + [Global Terrorism](https://dominikkoch.github.io/2018-03-27-Global-Terrorism/)
 
 + [Which world leaders are twitter bots?](https://blog.jumpingrivers.com/posts/2018/rtweet_leaders/)
 
 + [What’s a variable in R?](http://rex-analytics.com/whats-variable-r/)
+
++ [Startup with Secrets - A Poor Man's Approach](https://www.jottr.org/2018/03/30/startup-secrets/)
 
 
 ### Gist & Cookbook
@@ -68,26 +85,70 @@ Release Date: 2018-4-1
 ###  R in Organizations
 
 
++ [R Consortium welcomes R-Ladies as a top level project](https://www.r-consortium.org/announcement/2018/03/27/r-consortium-welcomes-r-ladies-as-a-top-level-project)
+
 
 
 ### R in the Real World
 
++ [Building a shinydashboard that features an adapted JAWS statistic for evaluating nominees and members of a MLB franchise's Hall of Fame](https://erbo.rbind.io/blog/2018-03-09-a-baseball-dashboard-in-time-for-opening-weekend-part-one/)
 
-
++ [How to map public debt data with ggplot2](http://www.sharpsightlabs.com/blog/map-public-debt-ggplot2/)
 
 ### R Internationally
 
 + [Autoformation avec swirl ](https://tutoriels-data-mining.blogspot.fr/2018/03/autoformation-avec-swirl.html)
 
 
-
-
 ###  Tutorials
 
 + [R⁶ — Capturing [YouTube] Captions](https://rud.is/b/2018/03/29/r%E2%81%B6-capturing-youtube-captions/)
 
-+ [How to map public debt data with ggplot2](http://www.sharpsightlabs.com/blog/map-public-debt-ggplot2/)
++ [Settlers of Catan](https://emmavestesson.netlify.com/2018/03/settlers-of-catan/)
 
++ [Exploring NSE: enquo, quos and ...](https://www.daeconomist.com/post/2018-03-27-exploring-nse-enquo-and-quos/) -  How do you make your customs play well with your favourite tidyverse packages?
+
++ [A titanic kaggle solve using caret and tidy-tools](https://rsangole.netlify.com/project/yet-another-titanic-solve/)
+
++ [A vignette and introduction to a tiny package that creates node and edge lists for use in working with text and network data. Uses a public dataset as an example.](https://aczane.netlify.com/2018/03/27/the-biblionetwork-package/)
+
++ [What is Tidy Eval and Why Should I Care?](https://thisisnic.github.io/2018/03/29/what-is-tidy-eval-and-why-should-i-care/)
+
++ [Exploring Tidy Eval at a Snail's Pace](https://thisisnic.github.io/2018/02/20/exploring-tidy-eval-snails-pace/)
+
++ [Using tidy eval with dplyr::filter](https://thisisnic.github.io/2018/03/27/using-tidy-eval-with-dplyr-filter/)
+
++ [Exploring the underlying theory of the chi-square test through simulation - part 2](https://www.rdatagen.net/post/a-little-intuition-and-simulation-behind-the-chi-square-test-of-independence-part-2/)
+
++ [Parsing data part 1. The minilexer package - A Simple Lexer in R](https://coolbutuseless.bitbucket.io/2018/03/26/parsing-data-part-1.-the-minilexer-package---a-simple-lexer-in-r/)
+
++ [Freeing Educational Data With A Shiny App](http://kgilds.rbind.io/2018/03/26/freeing-educational-data-with-a-shiny-app/)
+
++ [Use let() to Re-Map Names](http://www.win-vector.com/blog/2018/03/r-tip-use-let-to-re-map-names/)
+
++ [Explorations in Markov Chain Monte Carlo (MCMC) - comparing results from MCMCglmm and lme4](https://jrosen48.github.io/blog/explorations-in-markov-chain-monte-carlo-mcmc/)
+
++ [Unstandardizing coefficients from a GLMM](https://aosmith.rbind.io/2018/03/26/unstandardizing-coefficients/)
+
++ [a null hypothesis with a 99% probability to be true…](https://xianblog.wordpress.com/2018/03/28/a-null-hypothesis-with-a-99-probability-to-be-true/)
+
++ [Generate image captions with the Computer Vision API](http://blog.revolutionanalytics.com/2018/03/computer-vision-api.html)
+
++ [Use Lists to re-Map Values](http://www.win-vector.com/blog/2018/03/r-tip-use-lists-to-re-map-values/)
+
++ [Use Named Vectors to Re-Map Values](http://www.win-vector.com/blog/2018/03/r-tip-use-named-vectors-to-re-map-values/)
+
++ [Great Circles with R](https://jessesadler.com/post/great-circles-sp-sf/)
+
++ [BotRNot: An R app to detect Twitter bots](http://blog.revolutionanalytics.com/2018/03/twitter-bot-or-not.html)
+
++ [Collapsing Categories or Values](http://derekogle.com/fishR/2018-03-30-Collapsing_Values)
+
++ [Discriminant Analysis: Statistics All The Way](https://r-posts.com/discriminant-analysis-statistics-all-the-way/)
+
++ [Steps to Perform Survival Analysis in R](https://r-posts.com/steps-to-perform-survival-analysis-in-r/)
+
++ [Data Visualization Website with Shiny](https://r-video-tutorial.blogspot.hk/2018/03/data-visualization-website-with-shiny.html)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
