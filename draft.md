@@ -150,6 +150,8 @@ Release Date: 2018-4-1
 
 + [Data Visualization Website with Shiny](https://r-video-tutorial.blogspot.hk/2018/03/data-visualization-website-with-shiny.html)
 
++ [Adding arguments to existing R functions, or A Weirdly Esoteric Thing I'll Probably Never Do Again](https://blog.karawoo.com/2018/03/31/adding-arguments-to-existing-r-functions)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
