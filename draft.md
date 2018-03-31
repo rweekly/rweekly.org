@@ -33,6 +33,7 @@ Release Date: 2018-4-1
 
 ### Package Releases
 
+* [startup 0.10.0](https://cran.r-project.org/package=startup) - Friendly R Startup Configuration:  Split up `.Renviron` and `.Rprofile` in multiple files and directories. Process them conditionally on your system environment setup, e.g. different setups in interactive and batch mode. Easy debugging of the R startup process.
 
 
 ###  R in Academia
