@@ -53,6 +53,8 @@ Release Date: 2018-4-1
 
 ###  Resources
 
++ [A titanic kaggle solve using caret and tidy-tools](https://rsangole.netlify.com/project/yet-another-titanic-solve/)
+
 
 
 
@@ -95,6 +97,8 @@ Release Date: 2018-4-1
 
 + [How to map public debt data with ggplot2](http://www.sharpsightlabs.com/blog/map-public-debt-ggplot2/)
 
++ [BotRNot: An R app to detect Twitter bots](http://blog.revolutionanalytics.com/2018/03/twitter-bot-or-not.html)
+
 ### R Internationally
 
 + [Autoformation avec swirl ](https://tutoriels-data-mining.blogspot.fr/2018/03/autoformation-avec-swirl.html)
@@ -107,8 +111,6 @@ Release Date: 2018-4-1
 + [Settlers of Catan](https://emmavestesson.netlify.com/2018/03/settlers-of-catan/)
 
 + [Exploring NSE: enquo, quos and ...](https://www.daeconomist.com/post/2018-03-27-exploring-nse-enquo-and-quos/) -  How do you make your customs play well with your favourite tidyverse packages?
-
-+ [A titanic kaggle solve using caret and tidy-tools](https://rsangole.netlify.com/project/yet-another-titanic-solve/)
 
 + [A vignette and introduction to a tiny package that creates node and edge lists for use in working with text and network data. Uses a public dataset as an example.](https://aczane.netlify.com/2018/03/27/the-biblionetwork-package/)
 
@@ -139,8 +141,6 @@ Release Date: 2018-4-1
 + [Use Named Vectors to Re-Map Values](http://www.win-vector.com/blog/2018/03/r-tip-use-named-vectors-to-re-map-values/)
 
 + [Great Circles with R](https://jessesadler.com/post/great-circles-sp-sf/)
-
-+ [BotRNot: An R app to detect Twitter bots](http://blog.revolutionanalytics.com/2018/03/twitter-bot-or-not.html)
 
 + [Collapsing Categories or Values](http://derekogle.com/fishR/2018-03-30-Collapsing_Values)
 
