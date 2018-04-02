@@ -57,6 +57,8 @@ Release Date: 2018-4-1
 
 ###  Resources
 
++ [A titanic kaggle solve using caret and tidy-tools](https://rsangole.netlify.com/project/yet-another-titanic-solve/)
+
 
 
 
@@ -100,6 +102,9 @@ Release Date: 2018-4-1
 
 ![How to map public debt data with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2018-8/euro_debt_map.png)
 
++ [BotRNot: An R app to detect Twitter bots](http://blog.revolutionanalytics.com/2018/03/twitter-bot-or-not.html)
+
+
 ### R Internationally
 
 + [Autoformation avec swirl ](https://tutoriels-data-mining.blogspot.fr/2018/03/autoformation-avec-swirl.html)
@@ -112,8 +117,6 @@ Release Date: 2018-4-1
 + [Settlers of Catan](https://emmavestesson.netlify.com/2018/03/settlers-of-catan/)
 
 + [Exploring NSE: enquo, quos and ...](https://www.daeconomist.com/post/2018-03-27-exploring-nse-enquo-and-quos/) -  How do you make your customs play well with your favourite tidyverse packages?
-
-+ [A titanic kaggle solve using caret and tidy-tools](https://rsangole.netlify.com/project/yet-another-titanic-solve/)
 
 + [A vignette and introduction to a tiny package that creates node and edge lists for use in working with text and network data. Uses a public dataset as an example.](https://aczane.netlify.com/2018/03/27/the-biblionetwork-package/)
 
@@ -149,17 +152,13 @@ Release Date: 2018-4-1
 
 + [Great Circles with R](https://jessesadler.com/post/great-circles-sp-sf/)
 
-+ [BotRNot: An R app to detect Twitter bots](http://blog.revolutionanalytics.com/2018/03/twitter-bot-or-not.html)
-
-![BotRNot: An R app to detect Twitter bots](https://a3.typepad.com/6a0105360ba1c6970c01b7c95c61fb970b-450wi)
-
-+ [Collapsing Categories or Values](http://derekogle.com/fishR/2018-03-30-Collapsing_Values)
-
 + [Discriminant Analysis: Statistics All The Way](https://r-posts.com/discriminant-analysis-statistics-all-the-way/)
 
 + [Steps to Perform Survival Analysis in R](https://r-posts.com/steps-to-perform-survival-analysis-in-r/)
 
 + [Data Visualization Website with Shiny](https://r-video-tutorial.blogspot.hk/2018/03/data-visualization-website-with-shiny.html)
+
++ [Adding arguments to existing R functions, or A Weirdly Esoteric Thing I'll Probably Never Do Again](https://blog.karawoo.com/2018/03/31/adding-arguments-to-existing-r-functions)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
