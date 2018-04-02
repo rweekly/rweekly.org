@@ -9,7 +9,11 @@ Release Date: 2018-4-1
 
 ###  Highlight
 
++ [reticulate: R interface to Python](http://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
 
++ [R Consortium welcomes R-Ladies as a top level project](https://www.r-consortium.org/announcement/2018/03/27/r-consortium-welcomes-r-ladies-as-a-top-level-project)
+
++ [BotRNot: An R app to detect Twitter bots](http://blog.revolutionanalytics.com/2018/03/twitter-bot-or-not.html)
 
 ###  New Packages
 
@@ -17,19 +21,19 @@ Release Date: 2018-4-1
 
 **CRAN**
 
-+ [reticulate: R interface to Python](http://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
-
-+ [dynprog: dynamic programming domain-specific language](https://mailund.github.io/dynprog/)
-
-+ [ggdag: tidy causal directed acyclic graphs](https://malco.io/2018/03/28/ggdag-0-1-0/)
-
-+ [a small chess plotting package for R :)](http://www.robert-hickman.eu/post/hello-world-a-small-chess-plotting-package/)
-
-+ [Introducing realtR.  Your gateway to residential property information.](http://asbcllc.com/r_packages/realtR/2018/introduction/index.html)
-
-+ [DoOR - The Database of Odorant Responses](https://ropensci.org/blog/2018/03/27/door/)
-
 + [Feb 2018: "Top 40" New Package Picks](https://rviews.rstudio.com/2018/03/29/feb-2018-top-40-new-package-picks/)
+
++ [dynprog](https://mailund.github.io/dynprog/) - dynamic programming domain-specific language
+
++ [ggdag](https://malco.io/2018/03/28/ggdag-0-1-0/) - tidy causal directed acyclic graphs
+
+![ggdag](https://raw.githubusercontent.com/rweekly/image/master/2018-8/ggdag.png)
+
++ [realtR](http://asbcllc.com/r_packages/realtR/2018/introduction/index.html) - Your gateway to residential property information.
+
++ [reticulate](http://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/) - R interface to Python
+
++ [DoOR](https://ropensci.org/blog/2018/03/27/door/) - The Database of Odorant Responses
 
 **BioC**
 
@@ -44,7 +48,7 @@ Release Date: 2018-4-1
 
 + [auk 0.2.0](https://cornelllabofornithology.github.io/auk/) - eBird data extraction and processing
 
-+ [DT 0.4: Editing Tables, Smart Filtering, and More](https://blog.rstudio.com/2018/03/29/dt-0-4/)
++ [DT 0.4](https://blog.rstudio.com/2018/03/29/dt-0-4/) - Editing Tables, Smart Filtering, and More
 
 ###  R in Academia
 
@@ -66,16 +70,18 @@ Release Date: 2018-4-1
 
 + [Lintr Bot, lintr's Hester egg](http://www.masalmon.eu/2018/03/30/lintr-bot/)
 
-+ [reticulate: R interface to Python](https://blog.rstudio.com/2018/03/26/reticulate-r-interface-to-python/)
++ [Global Terrorism](https://dominikkoch.github.io/Global-Terrorism/)
 
-+ [Global Terrorism](https://dominikkoch.github.io/2018-03-27-Global-Terrorism/)
-
-+ [Which world leaders are twitter bots?](https://blog.jumpingrivers.com/posts/2018/rtweet_leaders/)
+![Global Terrorism](https://raw.githubusercontent.com/rweekly/image/master/2018-8/Global-Terrorism-Map.png)
 
 + [What’s a variable in R?](http://rex-analytics.com/whats-variable-r/)
 
 + [Startup with Secrets - A Poor Man's Approach](https://www.jottr.org/2018/03/30/startup-secrets/)
 
+
++ [Which world leaders are twitter bots?](https://blog.jumpingrivers.com/posts/2018/rtweet_leaders/)
+
+![Which world leaders are twitter bots?](https://raw.githubusercontent.com/rweekly/image/master/2018-8/bot.svg)
 
 ### Gist & Cookbook
 
@@ -84,16 +90,15 @@ Release Date: 2018-4-1
 
 ###  R in Organizations
 
-
 + [R Consortium welcomes R-Ladies as a top level project](https://www.r-consortium.org/announcement/2018/03/27/r-consortium-welcomes-r-ladies-as-a-top-level-project)
-
-
 
 ### R in the Real World
 
 + [Building a shinydashboard that features an adapted JAWS statistic for evaluating nominees and members of a MLB franchise's Hall of Fame](https://erbo.rbind.io/blog/2018-03-09-a-baseball-dashboard-in-time-for-opening-weekend-part-one/)
 
 + [How to map public debt data with ggplot2](http://www.sharpsightlabs.com/blog/map-public-debt-ggplot2/)
+
+![How to map public debt data with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2018-8/euro_debt_map.png)
 
 ### R Internationally
 
@@ -103,6 +108,8 @@ Release Date: 2018-4-1
 ###  Tutorials
 
 + [R⁶ — Capturing [YouTube] Captions](https://rud.is/b/2018/03/29/r%E2%81%B6-capturing-youtube-captions/)
+
++ [a small chess plotting package for R :)](http://www.robert-hickman.eu/post/hello-world-a-small-chess-plotting-package/)
 
 + [Settlers of Catan](https://emmavestesson.netlify.com/2018/03/settlers-of-catan/)
 
@@ -156,8 +163,9 @@ Release Date: 2018-4-1
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ `match.arg()` more carefully chooses the environment for constucting default `choices`, fixing PR#17401 as proposed by Duncan Murdoch.
 
-
++ `optim(*, control = list(warn.1d.NelderMead = FALSE))` allows to turn off the warning when applying the default `"Nelder-Mead"` method to 1-dimensional problems.
 
 
 ###  Upcoming Events in 3 Months
@@ -201,9 +209,11 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ###  Call for Participation
 
 
-
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">using <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> and <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> in the same RMarkdown document is pretty awesome with the Reticulate Package. Objects from Python are accessible in R using the magic `py` object. Pretty amazing, imo. <a href="https://t.co/iQPqWuJ4RN">pic.twitter.com/iQPqWuJ4RN</a></p>&mdash; JD Long (@CMastication) <a href="https://twitter.com/CMastication/status/978920075041361921?ref_src=twsrc%5Etfw">March 28, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">devtools: my life coach <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/65OpAOHM26">pic.twitter.com/65OpAOHM26</a></p>&mdash; Max Kuhn (@topepos) <a href="https://twitter.com/topepos/status/980060227214217217?ref_src=twsrc%5Etfw">March 31, 2018</a></blockquote>
