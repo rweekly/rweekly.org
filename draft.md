@@ -109,8 +109,6 @@ Release Date: 2018-4-1
 
 + [R⁶ — Capturing [YouTube] Captions](https://rud.is/b/2018/03/29/r%E2%81%B6-capturing-youtube-captions/)
 
-+ [a small chess plotting package for R :)](http://www.robert-hickman.eu/post/hello-world-a-small-chess-plotting-package/)
-
 + [Settlers of Catan](https://emmavestesson.netlify.com/2018/03/settlers-of-catan/)
 
 + [Exploring NSE: enquo, quos and ...](https://www.daeconomist.com/post/2018-03-27-exploring-nse-enquo-and-quos/) -  How do you make your customs play well with your favourite tidyverse packages?
@@ -126,6 +124,10 @@ Release Date: 2018-4-1
 + [Using tidy eval with dplyr::filter](https://thisisnic.github.io/2018/03/27/using-tidy-eval-with-dplyr-filter/)
 
 + [Exploring the underlying theory of the chi-square test through simulation - part 2](https://www.rdatagen.net/post/a-little-intuition-and-simulation-behind-the-chi-square-test-of-independence-part-2/)
+
++ [a small chess plotting package for R :)](http://www.robert-hickman.eu/post/hello-world-a-small-chess-plotting-package/)
+
+![a small chess plotting package for R :)](https://raw.githubusercontent.com/rweekly/image/master/2018-8/immortal_game.gif)
 
 + [Parsing data part 1. The minilexer package - A Simple Lexer in R](https://coolbutuseless.bitbucket.io/2018/03/26/parsing-data-part-1.-the-minilexer-package---a-simple-lexer-in-r/)
 
@@ -148,6 +150,8 @@ Release Date: 2018-4-1
 + [Great Circles with R](https://jessesadler.com/post/great-circles-sp-sf/)
 
 + [BotRNot: An R app to detect Twitter bots](http://blog.revolutionanalytics.com/2018/03/twitter-bot-or-not.html)
+
+![BotRNot: An R app to detect Twitter bots](https://a3.typepad.com/6a0105360ba1c6970c01b7c95c61fb970b-450wi)
 
 + [Collapsing Categories or Values](http://derekogle.com/fishR/2018-03-30-Collapsing_Values)
 
