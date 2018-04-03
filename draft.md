@@ -67,6 +67,7 @@ Release Date: 2018-4-9
 
 ###  Tutorials
 
++ [Dplyr Data Wrangling Part 4: Summarizing and slicing your data](https://suzan.rbind.io/2018/04/dplyr-tutorial-4/)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
