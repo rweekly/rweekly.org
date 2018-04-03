@@ -69,6 +69,8 @@ Release Date: 2018-4-9
 
 + [Dplyr Data Wrangling Part 4: Summarizing and slicing your data](https://suzan.rbind.io/2018/04/dplyr-tutorial-4/)
 
++ [Visualisation of interaction for the logistic regression](http://data-se.netlify.com/2018/04/02/visualisation-of-interaction-for-logistic-regression/)
+
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
