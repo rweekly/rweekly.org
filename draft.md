@@ -59,6 +59,7 @@ Release Date: 2018-4-9
 
 ### R in the Real World
 
++ [Cherry blossoms in Kyoto have been gradually blooming earlier in the year!](https://ryo-n7.github.io/2018-04-02-sakura-surprise/)
 
 
 
@@ -72,6 +73,7 @@ Release Date: 2018-4-9
 
 + [Visualisation of interaction for the logistic regression](http://data-se.netlify.com/2018/04/02/visualisation-of-interaction-for-logistic-regression/)
 
++ [How to explore a dataset from the fivethirtyeight package with tidyr and dplyr](http://www.storybench.org/how-to-explore-a-dataset-from-the-fivethirtyeight-package-in-r/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
