@@ -23,6 +23,7 @@ Release Date: 2018-4-9
 
 **GitHub or Bitbucket**
 
+* [regexplain 0.2.0](https://github.com/gadenbuie/regexplain/#readme) - An RStudio Addin slash utility belt for regular expressions. Interactively build your regexps, check the output of common string matching functions, consult the interactive help pages, or use the included resources to learn regular expressions *without leaving RStudio!*
 
 
 ### Package Releases
