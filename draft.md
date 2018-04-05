@@ -33,12 +33,10 @@ Release Date: 2018-4-9
 
 ###  R in Academia
 
-* [Slides](https://rawgit.com/benmarwick/CSSCR-2018-R-Markdown-for-Research-Students/master/uw-csscr-huskydown-slides.html#1) and [repository](https://github.com/benmarwick/CSSCR-2018-R-Markdown-for-Research-Students) for a presentation at [UW's CSSCR](http://julius.csscr.washington.edu/) on how to use R and Markdown to write dissertations & student research reports reproducibly with [huskydown](https://github.com/benmarwick/huskydown/). Includes animated gifs on getting started and adding citations with [citr](https://github.com/crsh/citr)
-
-
-
 
 ###  Resources
+
+* [Slides](https://rawgit.com/benmarwick/CSSCR-2018-R-Markdown-for-Research-Students/master/uw-csscr-huskydown-slides.html#1) and [repository](https://github.com/benmarwick/CSSCR-2018-R-Markdown-for-Research-Students) for a presentation at [UW's CSSCR](http://julius.csscr.washington.edu/) on how to use R and Markdown to write dissertations & student research reports reproducibly with [huskydown](https://github.com/benmarwick/huskydown/). Includes animated gifs on getting started and adding citations with [citr](https://github.com/crsh/citr)
 
 
 ###  Videos and Podcasts
