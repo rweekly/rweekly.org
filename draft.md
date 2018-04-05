@@ -38,6 +38,7 @@ Release Date: 2018-4-9
 
 ###  Resources
 
+* [An overview of keyword extraction techniques for text mining](http://bnosac.be/index.php/blog/77-an-overview-of-keyword-extraction-techniques) - parts of speech tagging for noun extraction, collocations, co-occurrences, textrank, rapid automatic keyword extraction (rake), phrases, extracting text subject based on dependency parsing 
 
 ###  Videos and Podcasts
 
