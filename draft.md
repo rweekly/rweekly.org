@@ -75,6 +75,8 @@ Release Date: 2018-4-9
 
 + [How to explore a dataset from the fivethirtyeight package with tidyr and dplyr](http://www.storybench.org/how-to-explore-a-dataset-from-the-fivethirtyeight-package-in-r/)
 
++ [Time based heatmaps in R](https://www.littlemissdata.com/blog/heatmaps)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
