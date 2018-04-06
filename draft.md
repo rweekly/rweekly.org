@@ -65,7 +65,7 @@ Release Date: 2018-4-9
 
 ### R Internationally
 
-
++ [« tidyeval », vous avez dit « tidyeval » ?](https://thinkr.fr/tidyeval/)
 
 ###  Tutorials
 
