@@ -46,6 +46,9 @@ Release Date: 2018-4-9
 
 ### Insights
 
++ [Creating wedding aRtwoRk with R](https://www.peterhickey.org/2018/04/03/wedding-artwork/)
+
+![Nine sentence drawings of Kirsty and Kelly's wedding ceremony](https://raw.githubusercontent.com/PeteHaitch/personal_website/master/static/img/ceremony_sentence_plot.png)
 
 
 ### Gist & Cookbook
