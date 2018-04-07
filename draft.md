@@ -34,11 +34,12 @@ Release Date: 2018-4-9
 ###  R in Academia
 
 
-
-
 ###  Resources
 
+
 * [An overview of keyword extraction techniques for text mining](http://bnosac.be/index.php/blog/77-an-overview-of-keyword-extraction-techniques) - parts of speech tagging for noun extraction, collocations, co-occurrences, textrank, rapid automatic keyword extraction (rake), phrases, extracting text subject based on dependency parsing 
+* [Slides](https://rawgit.com/benmarwick/CSSCR-2018-R-Markdown-for-Research-Students/master/uw-csscr-huskydown-slides.html#1) and [repository](https://github.com/benmarwick/CSSCR-2018-R-Markdown-for-Research-Students) for a presentation at [UW's CSSCR](http://julius.csscr.washington.edu/) on how to use R and Markdown to write dissertations & student research reports reproducibly with [huskydown](https://github.com/benmarwick/huskydown/). Includes animated gifs on getting started and adding citations with [citr](https://github.com/crsh/citr)
+
 
 ###  Videos and Podcasts
 
@@ -66,7 +67,7 @@ Release Date: 2018-4-9
 
 ### R Internationally
 
-
++ [« tidyeval », vous avez dit « tidyeval » ?](https://thinkr.fr/tidyeval/)
 
 ###  Tutorials
 
@@ -75,6 +76,8 @@ Release Date: 2018-4-9
 + [Visualisation of interaction for the logistic regression](http://data-se.netlify.com/2018/04/02/visualisation-of-interaction-for-logistic-regression/)
 
 + [How to explore a dataset from the fivethirtyeight package with tidyr and dplyr](http://www.storybench.org/how-to-explore-a-dataset-from-the-fivethirtyeight-package-in-r/)
+
++ [Time based heatmaps in R](https://www.littlemissdata.com/blog/heatmaps)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
