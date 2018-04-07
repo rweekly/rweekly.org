@@ -103,6 +103,8 @@ Release Date: 2018-4-9
 
 + [Tidytext analysis of over 300,000 comments on Breitbart News articles related to the Mueller investigation ](https://rayms.github.io/2018-03-31-what-are-breitbart-readers-saying-about-the-mueller-investigation/)
 
++ [Backed by data](https://www.johnmackintosh.com/2018-04-02-Backed-By-Data/) - Minimising risk of delayed flight departure
+
 ### R Internationally
 
 + [« tidyeval », vous avez dit « tidyeval » ?](https://thinkr.fr/tidyeval/)
@@ -121,9 +123,7 @@ Release Date: 2018-4-9
 
 + [An overview of keyword extraction techniques for text mining](http://bnosac.be/index.php/blog/77-an-overview-of-keyword-extraction-techniques) - parts of speech tagging for noun extraction, collocations, co-occurrences, textrank, rapid automatic keyword extraction (rake), phrases, extracting text subject based on dependency parsing
 
-
 + [GAMM random effects](http://drmowinckels.io/blog/gamm-random-effects/)
-
 
 + [Introduction of the snakecase package highlighting the main use cases of case conversion in data analysis](https://www.malte-grosser.com/post/introducing-the-snakecase-package/)
 
@@ -141,10 +141,6 @@ Release Date: 2018-4-9
 + [R Tip: Think in Terms of Values](http://www.win-vector.com/blog/2018/04/r-tip-think-in-terms-of-values/)
 
 + [Learning from and improving upon ggplotly conversions](https://moderndata.plot.ly/learning-from-and-improving-upon-ggplotly-conversions/)
-
-+ [Data Wrangling Part 4: Summarizing and slicing your data](https://suzan.rbind.io/2018/04/dplyr-tutorial-4/)
-
-+ [backed by data](https://www.johnmackintosh.com/2018-04-02-Backed-By-Data/)
 
 + [Finding a length n needle in a haystack](https://coolbutuseless.bitbucket.io/2018/04/03/finding-a-length-n-needle-in-a-haystack/)
 
