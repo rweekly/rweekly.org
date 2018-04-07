@@ -36,6 +36,8 @@ Release Date: 2018-4-9
 
 ###  Resources
 
+
+* [An overview of keyword extraction techniques for text mining](http://bnosac.be/index.php/blog/77-an-overview-of-keyword-extraction-techniques) - parts of speech tagging for noun extraction, collocations, co-occurrences, textrank, rapid automatic keyword extraction (rake), phrases, extracting text subject based on dependency parsing 
 * [Slides](https://rawgit.com/benmarwick/CSSCR-2018-R-Markdown-for-Research-Students/master/uw-csscr-huskydown-slides.html#1) and [repository](https://github.com/benmarwick/CSSCR-2018-R-Markdown-for-Research-Students) for a presentation at [UW's CSSCR](http://julius.csscr.washington.edu/) on how to use R and Markdown to write dissertations & student research reports reproducibly with [huskydown](https://github.com/benmarwick/huskydown/). Includes animated gifs on getting started and adding citations with [citr](https://github.com/crsh/citr)
 
 
