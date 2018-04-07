@@ -17,6 +17,9 @@ Release Date: 2018-4-9
 
 **CRAN**
 
++ [ggridges](https://cran.r-project.org/web/packages/ggridges/index.html) - Ridgeline Plots in 'ggplot2'
+
++ [anomalize](https://business-science.github.io/anomalize/) - Tidy anomaly detection
 
 **BioC**
 
@@ -74,6 +77,7 @@ Release Date: 2018-4-9
 
 + [RStudio GPU Workstations in the Cloud with Paperspace](https://tensorflow.rstudio.com/blog/rstudio-gpu-paperspace.html)
 
++ [TidyTuesday - A weekly social data project in R](https://thomasmock.netlify.com/post/tidytuesday-a-weekly-social-data-project-in-r/)
 
 ### R in the Real World
 
@@ -213,3 +217,12 @@ May 30 - June 1 at University College Dublin. Conference about how to teach and 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m speaking at Berkeley on Wednesday about using visualisations to help understand some important <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> theory: <a href="https://t.co/eUEBYj8wza">https://t.co/eUEBYj8wza</a> <a href="https://t.co/608NbmITO2">pic.twitter.com/608NbmITO2</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/982300348822900736?ref_src=twsrc%5Etfw">April 6, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> life hack: <br><br>for every function that takes a data.frame as input, write a unit test where you pass in a single column df — this will catch most of your drop=TRUE bugs</p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href="https://twitter.com/thomasp85/status/982220787842076673?ref_src=twsrc%5Etfw">April 6, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">THIS IS THE MOST IMPORTANT <a href="https://twitter.com/hashtag/RSTATS?src=hash&amp;ref_src=twsrc%5Etfw">#RSTATS</a> PACKAGE ON CRAN <a href="https://t.co/08LOs6Y8sc">https://t.co/08LOs6Y8sc</a> <a href="https://t.co/hkKc62mTEw">pic.twitter.com/hkKc62mTEw</a></p>&mdash; Desi Quintans (@eco_desi) <a href="https://twitter.com/eco_desi/status/981778041306148864?ref_src=twsrc%5Etfw">April 5, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">After using R <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> so frequently, does anyone else get disappointed while writing an email that you can&#39;t double click a word and get quotes around it with a single keystroke? I forget all the time, and end up replacing the word with a single quotation mark 😒</p>&mdash; Valerie Welty (@val_welty) <a href="https://twitter.com/val_welty/status/980116482209218560?ref_src=twsrc%5Etfw">March 31, 2018</a></blockquote>
+
