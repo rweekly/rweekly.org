@@ -68,6 +68,8 @@ Release Date: 2018-4-9
 
 + [A debugging journey - debugging a weird bug in macOS](http://www.jimhester.com/2018/03/30/debugging-journey/)
 
++ [Use shortcodes to embed tweets, videos, etc. in your blogdown blog posts ](http://www.reigo.eu/2018/04/shortcodes/)
+
 ### Gist & Cookbook
 
 
@@ -132,9 +134,6 @@ Release Date: 2018-4-9
 + [Two scales in ggplot2](https://sebastianrothbucher.github.io/datascience/r/visualization/ggplot/2018/03/24/two-scales-ggplot-r.html)
 
 + [Uploads in Shiny](https://sebastianrothbucher.github.io/datascience/r/visualization/shiny/upload/2018/01/30/shiny-upload-get-app-out.html)
-
-+ [Use shortcodes to embed tweets, videos, etc. in your blogdown blog posts ](http://www.reigo.eu/2018/04/shortcodes/)
-
 
 + [Compute/Visualize Drive Space Consumption of Your Installed R Packages](https://rud.is/b/2018/04/01/compute-visualize-drive-space-consumption-of-your-installed-r-packages/)
 
