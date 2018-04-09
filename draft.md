@@ -13,6 +13,8 @@ Release Date: 2018-4-9
 
 + [anomalize](https://business-science.github.io/anomalize/) - Tidy anomaly detection
 
+![anomalize](https://raw.githubusercontent.com/rweekly/image/master/2018/ts-a.png)
+
 + [TidyTuesday - A weekly social data project in R](https://thomasmock.netlify.com/post/tidytuesday-a-weekly-social-data-project-in-r/)
 
 ###  New Packages
@@ -40,6 +42,8 @@ Release Date: 2018-4-9
 
 + [bayesplot 1.5.0](https://tjmahr.github.io/ridgelines-in-bayesplot-1-5-0-release/) - An extensive library of plotting functions for use after fitting Bayesian models.
 
+![bayesplot 1.5.0](https://raw.githubusercontent.com/rweekly/image/master/2018/baplot.png)
+
 ###  R in Academia
 
 
@@ -66,7 +70,7 @@ Release Date: 2018-4-9
 
 + [Creating wedding aRtwoRk with R](https://www.peterhickey.org/2018/04/03/wedding-artwork/)
 
-![Nine sentence drawings of Kirsty and Kelly's wedding ceremony](https://raw.githubusercontent.com/PeteHaitch/personal_website/master/static/img/ceremony_sentence_plot.png)
+![Nine sentence drawings of Kirsty and Kelly's wedding ceremony](https://raw.githubusercontent.com/rweekly/image/master/2018/wedding.png)
 
 + [A debugging journey - debugging a weird bug in macOS](http://www.jimhester.com/2018/03/30/debugging-journey/)
 
@@ -91,7 +95,7 @@ Release Date: 2018-4-9
 
 + [More Options For Querying DNS From R with 1.1.1.1](https://rud.is/b/2018/04/01/more-options-for-querying-dns-from-r-with-1-1-1-1/)
 
-+ [Deaths per firearm violence event](https://freerangestats.info/blog/2018/04/01/truncated-negbin-gun-violence)
++ [Deaths per firearm violence event](http://freerangestats.info/blog/2018/04/01/truncated-negbin-gun-violence)
 
 + [Cherry blossoms in Kyoto have been gradually blooming earlier in the year!](https://ryo-n7.github.io/2018-04-02-sakura-surprise/)
 
@@ -102,6 +106,8 @@ Release Date: 2018-4-9
 ![Do you sometimes have trouble understanding other humans? Perhaps human-human relations droid SN2-D2 can help](https://www.brucemeng.ca/img/sentibot.twitter.gif)
 
 + [Cat food analytics](https://erle.io/blog/2018-03-30-kibble-analytics/)
+
+![Cat food analytics](https://raw.githubusercontent.com/rweekly/image/master/2018/bowl_trajectories.png)
 
 + [Tidytext analysis of over 300,000 comments on Breitbart News articles related to the Mueller investigation ](https://rayms.github.io/2018-03-31-what-are-breitbart-readers-saying-about-the-mueller-investigation/)
 
@@ -121,6 +127,8 @@ Release Date: 2018-4-9
 
 + [Time based heatmaps in R](https://www.littlemissdata.com/blog/heatmaps)
 
+![Time based heatmaps in R](https://raw.githubusercontent.com/rweekly/image/master/2018/Heatmap2.png)
+
 + [Principles for Pipe-Friendly APIs in R Packages](http://unconj.ca/blog/principles-for-pipe-friendly-apis.html)
 
 + [An overview of keyword extraction techniques for text mining](http://bnosac.be/index.php/blog/77-an-overview-of-keyword-extraction-techniques) - parts of speech tagging for noun extraction, collocations, co-occurrences, textrank, rapid automatic keyword extraction (rake), phrases, extracting text subject based on dependency parsing
@@ -136,6 +144,8 @@ Release Date: 2018-4-9
 + [Uploads in Shiny](https://sebastianrothbucher.github.io/datascience/r/visualization/shiny/upload/2018/01/30/shiny-upload-get-app-out.html)
 
 + [Compute/Visualize Drive Space Consumption of Your Installed R Packages](https://rud.is/b/2018/04/01/compute-visualize-drive-space-consumption-of-your-installed-r-packages/)
+
+![Compute/Visualize Drive Space Consumption of Your Installed R Packages](https://raw.githubusercontent.com/rweekly/image/master/2018/pkg_size.png)
 
 + [R Tip: Think in Terms of Values](http://www.win-vector.com/blog/2018/04/r-tip-think-in-terms-of-values/)
 
