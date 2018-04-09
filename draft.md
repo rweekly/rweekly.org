@@ -9,7 +9,11 @@ Release Date: 2018-4-9
 
 ###  Highlight
 
++ [Where is the value in package peer review?](https://ropensci.org/blog/2018/04/06/peer-review-value/)
 
++ [anomalize](https://business-science.github.io/anomalize/) - Tidy anomaly detection
+
++ [TidyTuesday - A weekly social data project in R](https://thomasmock.netlify.com/post/tidytuesday-a-weekly-social-data-project-in-r/)
 
 ###  New Packages
 
@@ -32,17 +36,16 @@ Release Date: 2018-4-9
 
 ### Package Releases
 
-+ [startup 0.10.0](https://cran.r-project.org/package=startup) - Friendly R Startup Configuration:  Split up `.Renviron` and `.Rprofile` in multiple files and directories. Process them conditionally on your system environment setup, e.g. different setups in interactive and batch mode. Easy debugging of the R startup process.
++ [startup 0.10.0](https://cran.r-project.org/package=startup) - Friendly R Startup Configuration
 
-+ [Ridgelines in bayesplot 1.5.0](https://tjmahr.github.io/ridgelines-in-bayesplot-1-5-0-release/)
++ [bayesplot 1.5.0](https://tjmahr.github.io/ridgelines-in-bayesplot-1-5-0-release/) - An extensive library of plotting functions for use after fitting Bayesian models.
 
 ###  R in Academia
 
 
 ###  Resources
 
-
-+ [Slides](https://rawgit.com/benmarwick/CSSCR-2018-R-Markdown-for-Research-Students/master/uw-csscr-huskydown-slides.html#1) and [repository](https://github.com/benmarwick/CSSCR-2018-R-Markdown-for-Research-Students) for a presentation at [UW's CSSCR](http://julius.csscr.washington.edu/) on how to use R and Markdown to write dissertations & student research reports reproducibly with [huskydown](https://github.com/benmarwick/huskydown/). Includes animated gifs on getting started and adding citations with [citr](https://github.com/crsh/citr)
++ [How to use R and Markdown to write dissertations & student research reports reproducibly with huskydown](https://github.com/benmarwick/CSSCR-2018-R-Markdown-for-Research-Students)
 
 + [R and TensorFlow Presentations](https://rviews.rstudio.com/2018/04/03/r-and-tensorflow-presentations/)
 
@@ -55,16 +58,15 @@ Release Date: 2018-4-9
 
 ### Insights
 
-+ [Performance: Avoid Coercing Indices To Doubles](https://www.jottr.org/2018/04/02/coercion-of-indices/)
-
 + [Where is the value in package peer review?](https://ropensci.org/blog/2018/04/06/peer-review-value/)
 
 + [Constricted development with reticulate](https://jcarroll.com.au/2018/04/04/reticulate/)
 
++ [Performance: Avoid Coercing Indices To Doubles](https://www.jottr.org/2018/04/02/coercion-of-indices/)
+
 + [Creating wedding aRtwoRk with R](https://www.peterhickey.org/2018/04/03/wedding-artwork/)
 
 ![Nine sentence drawings of Kirsty and Kelly's wedding ceremony](https://raw.githubusercontent.com/PeteHaitch/personal_website/master/static/img/ceremony_sentence_plot.png)
-
 
 + [A debugging journey - debugging a weird bug in macOS](http://www.jimhester.com/2018/03/30/debugging-journey/)
 
@@ -83,11 +85,9 @@ Release Date: 2018-4-9
 
 ### R in the Real World
 
-
 + [Exploring R-Bloggers Posts with the Feedly API](https://rud.is/b/2018/04/04/exploring-r-bloggers-posts-with-the-feedly-api/)
 
 + [Visualizing geo-spatial data with sf and plotly](https://moderndata.plot.ly/visualizing-geo-spatial-data-with-sf-and-plotly/)
-
 
 + [More Options For Querying DNS From R with 1.1.1.1](https://rud.is/b/2018/04/01/more-options-for-querying-dns-from-r-with-1-1-1-1/)
 
@@ -163,8 +163,25 @@ Release Date: 2018-4-9
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ `matplot(.., panel.first = .)` etc now work, as `log` becomes explicit argument and `...` is passed to `plot()` unevaluated, as suggested by Sebastian Meyer in PR#17386.
 
++ Deparsing of consecutive `!` calls is now consistent with deparsing unary `-` and `+` calls and creates code that can be reparsed exactly; thanks to a patch Lionel Henry in PR#17397.
 
++ The C++ compiler defaults to the C++11 standard, if suported; otherwise to the C++98 standard.
+
++ `Sys.setFileTime()` has been vectorized, its arguments `path` and `time` of length greater than one are now supported.
+
++ `file.copy()` now works also when its argument `to` is of length greater than one.
+
++ `substr()` and `substring()` now signal error when the input is invalid UTF-8.
+
++ Deparsing of consecutive `!` calls is now consistent with deparsing unary `-` and `+` calls and creates code that can be reparsed exactly; thanks to a patch Lionel Henry in PR#17397.
+
++ `configure` sets the `-std` flag for the C++ compiler for all supported C++ standards (e.g., `-std=gnu++11` for the C++11 compiler).
+
++ `match.arg()` more carefully chooses the environment for constucting default `choices`, fixing PR#17401 as proposed by Duncan Murdoch.
+
++ `replayPlot(r)` now also works in the same R session when `r` has been “reproduced” from serialization, typically after saving to and reading from an RDS file.
 
 ###  Upcoming Events in 3 Months
 
