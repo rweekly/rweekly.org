@@ -38,7 +38,7 @@ Release Date: 2018-4-16
 
 
 
-
++ [Turning your PhD (or other research project) into an R package](https://htmlpreview.github.io/?https://raw.githubusercontent.com/r-oxford/r-oxford.github.io/master/slides/2018_04_PhD_to_package.html)
 ###  Videos and Podcasts
 
 
