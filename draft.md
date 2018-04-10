@@ -28,7 +28,7 @@ Release Date: 2018-4-16
 
 ### Package Releases
 
-
+* [future 1.8.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone
 
 
 ###  R in Academia
