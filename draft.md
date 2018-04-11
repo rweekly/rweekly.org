@@ -36,7 +36,7 @@ Release Date: 2018-4-16
 
 ###  Resources
 
-
++ [Developing Your First R Package: A Case Study with esvis](http://www.dandersondata.com/talks/eugene_rug/)
 
 + [Turning your PhD (or other research project) into an R package](https://htmlpreview.github.io/?https://raw.githubusercontent.com/r-oxford/r-oxford.github.io/master/slides/2018_04_PhD_to_package.html)
 ###  Videos and Podcasts
