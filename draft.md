@@ -61,7 +61,7 @@ Release Date: 2018-4-16
 
 
 ### R in the Real World
-
++ [Exploring the Relationship Between Dog Names and Breeds](http://kaylinwalker.com/dog-names-tfidf/)  
 
 
 
