@@ -61,7 +61,11 @@ Release Date: 2018-4-16
 
 
 ### R in the Real World
-+ [Exploring the Relationship Between Dog Names and Breeds](http://kaylinwalker.com/dog-names-tfidf/)  
++ [Exploring the Relationship Between Dog Names and Breeds](http://kaylinwalker.com/dog-names-tfidf/) 
+
++ [Exploring Tuberculosis Monitoring Indicators in England; Using Dimension Reduction and Clustering (with `fingertipsR`)](https://www.samabbott.co.uk/post/cluster-england-tb/)
+
+![Storyboard of Tuberculosis Clustering analysis](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/fingertips/storyboard-fingertips-tb-clust.png)
 
 
 
