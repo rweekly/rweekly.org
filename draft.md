@@ -28,7 +28,7 @@ Release Date: 2018-4-16
 
 ### Package Releases
 
-
+* [future 1.8.0](https://www.jottr.org/2018/04/12/future-results/) - Unified Parallel and Distributed Processing in R for Everyone
 
 
 ###  R in Academia
