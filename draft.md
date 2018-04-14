@@ -24,23 +24,37 @@ Release Date: 2018-4-16
 
 **GitHub or Bitbucket**
 
++ [CRANalerts: Get email alerts when a CRAN package gets updated](https://deanattali.com/blog/cranalerts/)
 
 
 ### Package Releases
 
-* [future 1.8.0](https://www.jottr.org/2018/04/12/future-results/) - Unified Parallel and Distributed Processing in R for Everyone
++ [future 1.8.0](https://www.jottr.org/2018/04/12/future-results/) - Unified Parallel and Distributed Processing in R for Everyone
 
++ [tint 0.1.0](http://dirk.eddelbuettel.com/blog/2018/04/08#tint_0.1.0)
+
++ [RStudio Connect 1.6.0  -  A Year in the Making!](https://blog.rstudio.com/2018/04/12/rstudio-connect-1-6-0-a-year-in-the-making/)
+
++ [cdata Update](http://www.win-vector.com/blog/2018/04/cdata-update/)
+
++ [Shiny Server (Pro) 1.5.7](https://blog.rstudio.com/2018/04/11/shiny-server-pro-1-5-7/)
 
 ###  R in Academia
 
 
 ###  Resources
 
++ [Readings in applied data science](https://github.com/hadley/stats337)
+
 + [Developing Your First R Package: A Case Study with esvis](http://www.dandersondata.com/talks/eugene_rug/)
 
 + [Turning your PhD (or other research project) into an R package](https://htmlpreview.github.io/?https://raw.githubusercontent.com/r-oxford/r-oxford.github.io/master/slides/2018_04_PhD_to_package.html)
 
 + [The Little Book of LDA - An Overview of Latent Dirichlet Allocation](https://ldabook.com/)
+
++ [Slides from Chester Ismay's 4 hour "Statistical Inference:  A Tidy Approach" short course at the New England Statistical Symposium](https://ismayc.github.io/talks/ness-infer/slide_deck.html)
+
++ [R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) - Data Carpentry R lessons on ecology.
 
 ###  Videos and Podcasts
 
@@ -49,6 +63,9 @@ Release Date: 2018-4-16
 
 ### Insights
 
++ [.rprofile: Noam Ross](https://ropensci.org/blog/2018/04/13/rprofile-noam-ross/)
+
++ [Dissecting R Package "Utility Belts"](https://rud.is/b/2018/04/08/dissecting-r-package-utility-belts/)
 
 
 ### Gist & Cookbook
@@ -58,17 +75,33 @@ Release Date: 2018-4-16
 
 ###  R in Organizations
 
++ [Package Licensing: Would the R Community like some help? Feedback from the trenches](https://www.r-consortium.org/blog/2018/04/12/package-licensing-would-the-r-community-like-some-help-feedback-from-the-trenches)
 
 
 ### R in the Real World
-+ [Exploring the Relationship Between Dog Names and Breeds](http://kaylinwalker.com/dog-names-tfidf/) 
+
++ [Does Congress Really Care About Your Privacy?](https://rud.is/b/2018/04/13/does-congress-really-care-about-your-privacy/)
+
++ [Exploring the Relationship Between Dog Names and Breeds](http://kaylinwalker.com/dog-names-tfidf/)
 
 + [Exploring Tuberculosis Monitoring Indicators in England; Using Dimension Reduction and Clustering (with `fingertipsR`)](https://www.samabbott.co.uk/post/cluster-england-tb/)
 
 ![Storyboard of Tuberculosis Clustering analysis](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/fingertips/storyboard-fingertips-tb-clust.png)
 
 
++ [Analysis of sleep data with R.](http://www.seanlnguyen.com/post/analyzing-sleep-data-with-r/https://)
 
++ [Web scraping from Wikipedia with rvest and topic modelling  with LDA](http://annamarbut.blogspot.com/2018/04/scraping-wikipedia-and-topic-modelling.html)
+
++ [My first Shiny app, scaling ingredients for buttermilk pancakes](https://snewns92.shinyapps.io/BestButtermilkPancakes/)
+
++ [Extending DT child rows example](http://www.reigo.eu/2018/04/extending-dt-child-row-example/)
+
++ [How do the different character-to-datetime convertors in R perform?](http://rsangole.netlify.com/post/performance-benchmarking-for-date-time-conversions/)
+
++ [Stack Overflow questions around the world](https://juliasilge.com/blog/stack-questions-cities/)
+
++ [Struggle with Harry Potter Data](http://www.questionflow.org/2018/04/09/struggle-with-harry-potter-data/)
 
 
 ### R Internationally
@@ -77,7 +110,38 @@ Release Date: 2018-4-16
 
 ###  Tutorials
 
++ [Regular Expressions Every R programmer Should Know](https://blog.jumpingrivers.com/posts/2018/top_regular_expressions_r_stringr/)
 
++ [vlookup implementation in R](https://www.daeconomist.com/post/2018-04-08-an-r-vlookup-not-so-silly-idea/)
+
++ [A short tutorial on how to create interactive maps with popup images using leaflet. ](https://peerchristensen.netlify.com/post/mapping-street-art-with-leaflet-and-r/)
+
++ [Convert epub to Text for Processing in R](https://rud.is/b/2018/04/12/convert-epub-to-text-for-processing-in-r/)
+
++ [Forcing Yourself to Make Your Life Easier](https://ropensci.org/blog/2018/04/12/ijtiff/)
+
+
+
+
++ [In case you missed it: March  2018 roundup](http://blog.revolutionanalytics.com/2018/04/in-case-you-missed-it-march-2018-roundup.html)
+
++ [How to use dplyr's mutate in R without a vectorized function](https://deanattali.com/blog/mutate-non-vectorized/)
+
++ [Solving the 8 queens problem](https://coolbutuseless.bitbucket.io/2018/04/10/solving-the-8-queens-problem/)
+
++ [R Tip: Use match_order() to Align Data](http://www.win-vector.com/blog/2018/04/r-tip-use-match_order-to-align-data/)
+
++ [Get basic summary statistics for all the variables in a data frame](http://www.brodrigues.co/blog/2018-04-10-brotools_describe/)
+
++ [Weighted survey data with Power BI compared to dplyr, SQL or survey](https://freerangestats.info/blog/2018/04/11/weighted-survey-data-with-power-bi)
+
++ [Neglected R Super Functions](http://www.win-vector.com/blog/2018/04/neglected-r-super-functions/)
+
++ [Introduction to Fama French](https://rviews.rstudio.com/2018/04/11/introduction-to-fama-french/)
+
++ [Generating Executable ASCII art](https://coolbutuseless.bitbucket.io/2018/04/12/generating-executable-ascii-art/)
+
++ [The case for R, for AI developers](http://blog.revolutionanalytics.com/2018/04/the-case-for-r-for-ai-developers.html)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -102,15 +166,18 @@ European R Users Meeting @ Budapest, Hungary
 + [CascadiaRConf](https://cascadiarconf.com/) **June 2**
 Portland, OR, US
 
-<!--
 + [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />
 Rennes - Agrocampus
 
 + [useR! 2018](https://user2018.r-project.org/) **July 10** <br />
 The annual useR! conference is the main meeting of the international R user and developer community.
 
+<!--
+
 + [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />
-Buenos Aires, Argentina. -->
+Buenos Aires, Argentina.
+
+-->
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
@@ -132,4 +199,8 @@ May 30 - June 1 at University College Dublin. Conference about how to teach and 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Today in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> things I should have figured out sooner: automatic text wrapping in the <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> script editor is a thing! For all your obnoxiously long comment reminders to yourself... <a href="https://t.co/FX8tm9zGRr">pic.twitter.com/FX8tm9zGRr</a></p>&mdash; Angela Li (@CivicAngela) <a href="https://twitter.com/CivicAngela/status/983759892887625730?ref_src=twsrc%5Etfw">April 10, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Today in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> things I should have figured out sooner: automatic text wrapping in the <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> script editor is a thing! For all your obnoxiously long comment reminders to yourself... <a href="https://t.co/FX8tm9zGRr">pic.twitter.com/FX8tm9zGRr</a></p>&mdash; Angela Li (@CivicAngela) <a href="https://twitter.com/CivicAngela/status/983759892887625730?ref_src=twsrc%5Etfw">April 10, 2018</a></blockquote>
 
