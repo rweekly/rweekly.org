@@ -29,6 +29,10 @@ Release Date: 2018-4-16
 
 ### Package Releases
 
++ [klrfome](https://github.com/mrecos/klrfome) - Kernel Logistic Regression on Focal Mean Embeddings, for solving the distribution regresion problem 
+
+![klrfome](https://raw.githubusercontent.com/mrecos/klrfome/master/README_images/KLRfome_dataflow.png)
+
 + [future 1.8.0](https://www.jottr.org/2018/04/12/future-results/) - Unified Parallel and Distributed Processing in R for Everyone
 
 + [tint 0.1.0](http://dirk.eddelbuettel.com/blog/2018/04/08#tint_0.1.0)
