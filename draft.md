@@ -9,7 +9,11 @@ Release Date: 2018-4-16
 
 ###  Highlight
 
++ [Stack Overflow questions around the world](https://juliasilge.com/blog/stack-questions-cities/)
 
++ [Readings in applied data science](https://github.com/hadley/stats337)
+
++ [Statistical Inference: A Tidy Approach](https://ismayc.github.io/talks/ness-infer/slide_deck.html) - Slides for short course at the New England Statistical Symposium.
 
 ###  New Packages
 
@@ -17,31 +21,30 @@ Release Date: 2018-4-16
 
 **CRAN**
 
++ [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming
 
++ [pkgnet](https://cran.r-project.org/web/packages/pkgnet/index.html) - Get Network Representation of an R Package
+
+![pkgnet](https://raw.githubusercontent.com/rweekly/image/master/2018/devtools.png)
 
 **BioC**
 
 
 **GitHub or Bitbucket**
 
-+ [CRANalerts: Get email alerts when a CRAN package gets updated](https://deanattali.com/blog/cranalerts/)
++ [klrfome](https://github.com/mrecos/klrfome) - Kernel Logistic Regression on Focal Mean Embeddings, for solving the distribution regresion problem
 
+![klrfome](https://raw.githubusercontent.com/rweekly/image/master/2018/KLRfome_dataflow.png)
 
 ### Package Releases
 
-+ [klrfome](https://github.com/mrecos/klrfome) - Kernel Logistic Regression on Focal Mean Embeddings, for solving the distribution regresion problem 
-
-![klrfome](https://raw.githubusercontent.com/mrecos/klrfome/master/README_images/KLRfome_dataflow.png)
-
 + [future 1.8.0](https://www.jottr.org/2018/04/12/future-results/) - Unified Parallel and Distributed Processing in R for Everyone
 
-+ [tint 0.1.0](http://dirk.eddelbuettel.com/blog/2018/04/08#tint_0.1.0)
-
-+ [RStudio Connect 1.6.0  -  A Year in the Making!](https://blog.rstudio.com/2018/04/12/rstudio-connect-1-6-0-a-year-in-the-making/)
-
-+ [cdata Update](http://www.win-vector.com/blog/2018/04/cdata-update/)
++ [tint 0.1.0](http://dirk.eddelbuettel.com/blog/2018/04/08#tint_0.1.0) - Styles provided by the tufte package.
 
 + [Shiny Server (Pro) 1.5.7](https://blog.rstudio.com/2018/04/11/shiny-server-pro-1-5-7/)
+
++ [CRANalerts: Get email alerts when a CRAN package gets updated](https://deanattali.com/blog/cranalerts/)
 
 ###  R in Academia
 
@@ -56,7 +59,7 @@ Release Date: 2018-4-16
 
 + [The Little Book of LDA - An Overview of Latent Dirichlet Allocation](https://ldabook.com/)
 
-+ [Slides from Chester Ismay's 4 hour "Statistical Inference:  A Tidy Approach" short course at the New England Statistical Symposium](https://ismayc.github.io/talks/ness-infer/slide_deck.html)
++ [Statistical Inference: A Tidy Approach](https://ismayc.github.io/talks/ness-infer/slide_deck.html) - Slides for short course at the New England Statistical Symposium.
 
 + [R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) - Data Carpentry R lessons on ecology.
 
@@ -71,6 +74,7 @@ Release Date: 2018-4-16
 
 + [Dissecting R Package "Utility Belts"](https://rud.is/b/2018/04/08/dissecting-r-package-utility-belts/)
 
+![Dissecting R Package "Utility Belts"](https://raw.githubusercontent.com/rweekly/image/master/2018/util-ratio.png)
 
 ### Gist & Cookbook
 
@@ -88,23 +92,25 @@ Release Date: 2018-4-16
 
 + [Exploring the Relationship Between Dog Names and Breeds](http://kaylinwalker.com/dog-names-tfidf/)
 
-+ [Exploring Tuberculosis Monitoring Indicators in England; Using Dimension Reduction and Clustering (with `fingertipsR`)](https://www.samabbott.co.uk/post/cluster-england-tb/)
-
-![Storyboard of Tuberculosis Clustering analysis](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/fingertips/storyboard-fingertips-tb-clust.png)
-
 + [Where aRe the Rufous Hummingbirds?](https://github.com/stephhazlitt/ruhu-ebird-observations/blob/master/R/ruhu-ebird-observations.md)
 
-+ [Analysis of sleep data with R.](http://www.seanlnguyen.com/post/analyzing-sleep-data-with-r/https://)
++ [Analysis of sleep data with R.](http://www.seanlnguyen.com/post/analyzing-sleep-data-with-r/)
 
 + [Web scraping from Wikipedia with rvest and topic modelling  with LDA](http://annamarbut.blogspot.com/2018/04/scraping-wikipedia-and-topic-modelling.html)
 
 + [My first Shiny app, scaling ingredients for buttermilk pancakes](https://snewns92.shinyapps.io/BestButtermilkPancakes/)
+
++ [Exploring Tuberculosis Monitoring Indicators in England; Using Dimension Reduction and Clustering (with `fingertipsR`)](https://www.samabbott.co.uk/post/cluster-england-tb/)
+
+![Storyboard of Tuberculosis Clustering analysis](https://raw.githubusercontent.com/rweekly/image/master/2018/storyboard-fingertips-tb-clust.png)
 
 + [Extending DT child rows example](http://www.reigo.eu/2018/04/extending-dt-child-row-example/)
 
 + [How do the different character-to-datetime convertors in R perform?](http://rsangole.netlify.com/post/performance-benchmarking-for-date-time-conversions/)
 
 + [Stack Overflow questions around the world](https://juliasilge.com/blog/stack-questions-cities/)
+
+![Stack Overflow questions around the world](https://raw.githubusercontent.com/rweekly/image/master/2018/stack-map.png)
 
 + [Struggle with Harry Potter Data](http://www.questionflow.org/2018/04/09/struggle-with-harry-potter-data/)
 
@@ -117,16 +123,11 @@ Release Date: 2018-4-16
 
 + [Regular Expressions Every R programmer Should Know](https://blog.jumpingrivers.com/posts/2018/top_regular_expressions_r_stringr/)
 
-+ [vlookup implementation in R](https://www.daeconomist.com/post/2018-04-08-an-r-vlookup-not-so-silly-idea/)
-
 + [A short tutorial on how to create interactive maps with popup images using leaflet. ](https://peerchristensen.netlify.com/post/mapping-street-art-with-leaflet-and-r/)
 
 + [Convert epub to Text for Processing in R](https://rud.is/b/2018/04/12/convert-epub-to-text-for-processing-in-r/)
 
 + [Forcing Yourself to Make Your Life Easier](https://ropensci.org/blog/2018/04/12/ijtiff/)
-
-
-
 
 + [In case you missed it: March  2018 roundup](http://blog.revolutionanalytics.com/2018/04/in-case-you-missed-it-march-2018-roundup.html)
 
@@ -138,7 +139,7 @@ Release Date: 2018-4-16
 
 + [Get basic summary statistics for all the variables in a data frame](http://www.brodrigues.co/blog/2018-04-10-brotools_describe/)
 
-+ [Weighted survey data with Power BI compared to dplyr, SQL or survey](https://freerangestats.info/blog/2018/04/11/weighted-survey-data-with-power-bi)
++ [Weighted survey data with Power BI compared to dplyr, SQL or survey](http://freerangestats.info/blog/2018/04/11/weighted-survey-data-with-power-bi)
 
 + [Neglected R Super Functions](http://www.win-vector.com/blog/2018/04/neglected-r-super-functions/)
 
@@ -148,12 +149,21 @@ Release Date: 2018-4-16
 
 + [The case for R, for AI developers](http://blog.revolutionanalytics.com/2018/04/the-case-for-r-for-ai-developers.html)
 
++ [An R vlookup? Not so silly idea](https://www.daeconomist.com/post/2018-04-08-an-r-vlookup-not-so-silly-idea/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ `dput()` and `dump()` are no longer truncating when `options(deparse.max.lines = *)` is set.
+
++ Interrupts can be suspended while evaluating an expression using `suspendInterrupts`. Subexpression can be evaluated with interrupts enabled using `allowInterrupts`. These functions can be used to make sure cleanup handlers cannon be interrupted.
+
++ R 3.5.0 includes a framework that allows packages to provide alternate representations of basic R objects (`ALTREP`). The framework is still experimental and may undergo changes in future R releases as more experience is gained. For now, [documentation](https://svn.r-project.org/R/branches/ALTREP/ALTREP.html) is provided.
+
++ `mantelhaen.test()` no longer suffers from integer overflow in largish cases, thanks to Ben Bolker's PR#17383.
 
 ###  Upcoming Events in 3 Months
 
