@@ -32,6 +32,7 @@ Release Date: 2018-4-23
 
 ###  R in Academia
 
++ [An R package for sensitivity analysis (konfound)](https://jrosen48.github.io/blog/an-r-package-for-sensitivity-analysis-konfound/)
 
 ###  Resources
 
