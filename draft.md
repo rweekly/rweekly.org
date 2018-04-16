@@ -92,6 +92,7 @@ Release Date: 2018-4-16
 
 ![Storyboard of Tuberculosis Clustering analysis](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/fingertips/storyboard-fingertips-tb-clust.png)
 
++ [Where aRe the Rufous Hummingbirds?](https://github.com/stephhazlitt/ruhu-ebird-observations/blob/master/R/ruhu-ebird-observations.md)
 
 + [Analysis of sleep data with R.](http://www.seanlnguyen.com/post/analyzing-sleep-data-with-r/https://)
 
