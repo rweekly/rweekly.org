@@ -70,7 +70,7 @@ Release Date: 2018-4-23
 
 ###  Tutorials
 
-
++ [Making a GIF of Solar Panel Installations in Minnesota and Wisconsin](http://katiejolly.io/blog/2018-04-17/pv-installations)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
