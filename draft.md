@@ -127,3 +127,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Pretty pleased with my new .Rprofile customisation ✨<br><br>😎<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/superpowers?src=hash&amp;ref_src=twsrc%5Etfw">#superpowers</a> <a href="https://twitter.com/hashtag/thelittlethings?src=hash&amp;ref_src=twsrc%5Etfw">#thelittlethings</a><br><br>Wanna customise yours too? 👉 usethis::edit_r_profile() <a href="https://t.co/wNslgCk1eR">pic.twitter.com/wNslgCk1eR</a></p>&mdash; annakrystalli (@annakrystalli) <a href="https://twitter.com/annakrystalli/status/985972442219909121?ref_src=twsrc%5Etfw">16 d’abril de 2018</a></blockquote>
