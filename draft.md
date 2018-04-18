@@ -61,7 +61,7 @@ Release Date: 2018-4-23
 
 ### R in the Real World
 
-
++ [How many CRAN package maintainers have been pwned?](https://itsalocke.com/blog/how-many-cran-package-maintainers-have-been-pwned/)
 
 
 ### R Internationally
