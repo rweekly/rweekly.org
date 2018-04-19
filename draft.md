@@ -17,6 +17,7 @@ Release Date: 2018-4-23
 
 **CRAN**
 
++ [sealr](https://cran.r-project.org/web/packages/sealr/index.html) - Sealing the R Objects Test and Assert Conditions
 
 
 **BioC**
@@ -28,10 +29,12 @@ Release Date: 2018-4-23
 
 ### Package Releases
 
-
++ [ggimage 0.1.4](https://guangchuangyu.github.io/2018/04/setting-ggplot2-background-with-ggbackground/)
++ [ggfortify 0.4.4](https://CRAN.R-project.org/package=ggfortify)
 
 ###  R in Academia
 
++ [An R package for sensitivity analysis (konfound)](https://jrosen48.github.io/blog/an-r-package-for-sensitivity-analysis-konfound/)
 
 ###  Resources
 
@@ -59,7 +62,7 @@ Release Date: 2018-4-23
 
 ### R in the Real World
 
-
++ [How many CRAN package maintainers have been pwned?](https://itsalocke.com/blog/how-many-cran-package-maintainers-have-been-pwned/)
 
 
 ### R Internationally
@@ -68,7 +71,7 @@ Release Date: 2018-4-23
 
 ###  Tutorials
 
-
++ [Making a GIF of Solar Panel Installations in Minnesota and Wisconsin](http://katiejolly.io/blog/2018-04-17/pv-installations)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
@@ -125,3 +128,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Pretty pleased with my new .Rprofile customisation ✨<br><br>😎<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/superpowers?src=hash&amp;ref_src=twsrc%5Etfw">#superpowers</a> <a href="https://twitter.com/hashtag/thelittlethings?src=hash&amp;ref_src=twsrc%5Etfw">#thelittlethings</a><br><br>Wanna customise yours too? 👉 usethis::edit_r_profile() <a href="https://t.co/wNslgCk1eR">pic.twitter.com/wNslgCk1eR</a></p>&mdash; annakrystalli (@annakrystalli) <a href="https://twitter.com/annakrystalli/status/985972442219909121?ref_src=twsrc%5Etfw">16 d’abril de 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">“Turned up to fancy dress party 🎉!  And wished my <a href="https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw">#RLadies</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> buddies were there! So I didn’t have to explain my awesome costume choice!” <a href="https://twitter.com/hashtag/LegoRLady?src=hash&amp;ref_src=twsrc%5Etfw">#LegoRLady</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> 💜💛😎 <a href="https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw">#dplyr</a> <a href="https://t.co/NcYP1ZXzGs">pic.twitter.com/NcYP1ZXzGs</a></p>&mdash; LegoRLady (@LEGO_RLady) <a href="https://twitter.com/LEGO_RLady/status/986661916855754752?ref_src=twsrc%5Etfw">18 d’abril de 2018</a></blockquote>
