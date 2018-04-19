@@ -30,6 +30,7 @@ Release Date: 2018-4-23
 ### Package Releases
 
 + [ggimage 0.1.4](https://guangchuangyu.github.io/2018/04/setting-ggplot2-background-with-ggbackground/)
++ [ggfortify 0.4.4](https://CRAN.R-project.org/package=ggfortify)
 
 ###  R in Academia
 
