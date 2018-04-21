@@ -25,12 +25,20 @@ Release Date: 2018-4-23
 
 **GitHub or Bitbucket**
 
++ [A new R Shiny Dashboard that allows users to compare a myriad of financial assets (equities, crypto-currencies) using a variety of metrics.](https://github.com/pmaji/financial-asset-comparison-tool)
+
++ [Package for accessing/analyzing college sports stats](http://meysubb.github.io/collegeballR)
 
 
 ### Package Releases
 
 + [ggimage 0.1.4](https://guangchuangyu.github.io/2018/04/setting-ggplot2-background-with-ggbackground/)
+
 + [ggfortify 0.4.4](https://CRAN.R-project.org/package=ggfortify)
+
++ [RKWard 0.7.0](https://rkward.kde.org/News#RKWard_0.7.0_-_Split_views.2C_based_on_KF5News) - the R GUI/IDE RKWard for Windows, macOS and GNU/Linux
+
++ [Package uncmbb updated!](https://uncmbbtrivia.netlify.com/post/2018/04/17/package-update/)
 
 ###  R in Academia
 
@@ -38,9 +46,9 @@ Release Date: 2018-4-23
 
 ###  Resources
 
++ [Digging deeper: online resources for intermediate to advanced R users](https://edomt.github.io/Intermediate-Advanced-R/)
 
-
-
++ [git to know git: an 8 minute introduction](http://research.libd.org/rstatsclub/2018/04/17/git-to-know-git/#.WtZuotPwa50)
 
 ###  Videos and Podcasts
 
@@ -49,6 +57,17 @@ Release Date: 2018-4-23
 
 ### Insights
 
++ [#18: Adding Intel MKL easily via a simple script](http://dirk.eddelbuettel.com/blog/2018/04/15#018_mkl_for_debian_ubuntu)
+
+
++ [By Request: Retrieving Your Feedly "Saved for Later" Entries](https://rud.is/b/2018/04/16/by-request-retrieving-your-feedly-saved-for-later-entries/)
+
+
++ [Process versus outcome productivity](https://simplystatistics.org/2018/04/19/process-versus-outcome/)
+
++ [Some web API package development lessons from HIBPwned](https://itsalocke.com/blog/some-web-api-package-development-lessons-from-hibpwned/)
+
++ [What is a Successful Data Analysis?](https://simplystatistics.org/2018/04/17/what-is-a-successful-data-analysis/)
 
 
 ### Gist & Cookbook
@@ -58,12 +77,32 @@ Release Date: 2018-4-23
 
 ###  R in Organizations
 
++ [Arrow and beyond: Collaborating on next generation tools for open source data science](https://blog.rstudio.com/2018/04/19/arrow-and-beyond/)
 
+
++ [Wanted: Your input on the next generation of R-Hub](https://www.r-consortium.org/announcement/2018/04/19/wanted-your-input-on-the-next-generation-of-r-hub)
+
++ [What's new with R Consortium funded projects in Q1 2018](https://www.r-consortium.org/blog/2018/04/16/whats-new-with-r-consortium-funded-projects-in-q1-2018)
+
++ [The 2018 author and reviewer survey](https://ropensci.org/blog/2018/04/17/author-survey/)
+
++ [Summer Interns](https://blog.rstudio.com/2018/04/18/summer-interns/)
 
 ### R in the Real World
 
++ [Examining POTUS Executive Orders](https://rud.is/b/2018/04/18/examining-potus-executive-orders/)
+
 + [How many CRAN package maintainers have been pwned?](https://itsalocke.com/blog/how-many-cran-package-maintainers-have-been-pwned/)
 
++ [Perform web scraping and analysis of 400.000 articles published by newsbeast.gr (one of the main on-line publishers in Greece)](https://www.manosantoniou.com/post/web-scraping-and-analyzing-400-000-articles/)
+
++ [Animated directional chord diagrams for migration data](https://guyabel.com/post/animated-directional-chord-diagrams/)
+
++ [Naked – South Africa's Lemonade?](http://ronaldrichman.co.za/2018/04/15/naked-south-africas-lemonade/)
+
++ [A Recession Before 2020 Is Likely; On the Distribution of Time Between Recessions](https://ntguardian.wordpress.com/2018/04/19/a-recession-before-2020-is-likely-on-the-distribution-of-time-between-recessions/)
+
++ [Uber overtakes taxis in New York City](http://blog.revolutionanalytics.com/2018/04/uber-overtakes-taxis-in-nyc.html)
 
 ### R Internationally
 
@@ -71,8 +110,57 @@ Release Date: 2018-4-23
 
 ###  Tutorials
 
++ [rename phylogeny tip labels in treeio](https://guangchuangyu.github.io/2018/04/rename-phylogeny-tip-labels-in-treeio/)
+
++ [[How to] Write a purrr-like adverb](https://colinfay.me/purrr-adverb-tidyverse/)
+
++ [Monkeying around with Code and Paying it Forward](https://ropensci.org/blog/2018/04/20/monkeydo/)
+
++ [Painless ODBC  + dplyr Connections to Amazon Athena and Apache Drill with R & odbc](https://rud.is/b/2018/04/20/painless-odbc-dplyr-connections-to-amazon-athena-and-apache-drill-with-r-odbc/)
+
 + [Making a GIF of Solar Panel Installations in Minnesota and Wisconsin](http://katiejolly.io/blog/2018-04-17/pv-installations)
 
++ [Guidelines for making plots for beginners](http://stuartlee.org/2018/04/14/content/post/2018-04-14-rookie-mistakes/)
+
++ [A short tutorial on how to arrange a irregularly spaced raster stack into a regular time series to be used in the Breaks For Additive Season and Trend (bfast) function.](https://philippgaertner.github.io/2018/04/bfast-preparation/)
+
++ [A revisit on the last blog about webscraping and topic modelling, this time with more data and an SVM thrown in as well.](https://annamarbut.blogspot.com/2018/04/web-scraping-and-text-classification.html)
+
++ [This post explores the concept of monotonicity, primarily using simulation to help. It discusses linear regression assumptions and compares a custom metric to Spearman's rho. Tidyverse principles are used throughout.](https://tonyelhabr.rbind.io/posts/ranks-monotonicity-spearman-rho-r/)
+
++ [Machine learning pipelines for R](https://tlverse.org/2018/04/08/sl3_demo/)
+
++ [{pmice}, an experimental package for missing data imputation in parallel using {mice} and {furrr}](http://www.brodrigues.co/blog/2018-04-15-announcing_pmice/)
+
++ [Dynamic Online Tests with Blackboard and R/exams](http://www.R-exams.org/tutorials/exams2blackboard/)
+
++ [How do I make my own dplyr-style functions?](https://thisisnic.github.io/2018/04/16/how-do-i-make-my-own-dplyr-style-functions/)
+
++ [a [Gregorian] calendar riddle](https://xianblog.wordpress.com/2018/04/17/a-gregorian-calendar-riddle/)
+
++ [R Tip: Use Slices](http://www.win-vector.com/blog/2018/04/r-tip-use-slices/)
+
++ [Reticulated Shiny](https://rviews.rstudio.com/2018/04/17/reticulated-shiny/)
+
++ [Le Monde puzzle [#1049]](https://xianblog.wordpress.com/2018/04/18/le-monde-puzzle-1049/)
+
++ [Draw maps like paintings](https://statnmap.com/2018-04-18-draw-maps-like-paintings/)
+
++ [Testing multiple interventions in a single experiment](https://www.rdatagen.net/post/testing-many-interventions-in-a-single-experiment/)
+
++ [Upcoming speaking engagments](http://www.win-vector.com/blog/2018/04/upcoming-speaking-engagments/)
+
++ [Yet Another Caret Workshop](https://www.gokhan.io/post/caret-workshop/)
+
++ [Adding Zero Catches](http://derekogle.com/fishR/2018-04-19-Adding-Zero-Catches)
+
++ [Latin American R/BioConductor Developers Workshop 2018](http://lcolladotor.github.io/2018/04/19/latin-american-r-bioconductor-developers-workshop-2018/)
+
++ [AI, Machine Learning and Data Science Roundup: April 2018](http://blog.revolutionanalytics.com/2018/04/ai-roundup-apr-2018.html)
+
++ [Simulate! Simulate! - Part 2: A linear mixed model](https://aosmith.rbind.io/2018/04/23/simulate-simulate-part-2/)
+
++ [R:case4base - data filtering and ordering with base R](https://jozefhajnala.gitlab.io/r/r002-data-manipulation/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
