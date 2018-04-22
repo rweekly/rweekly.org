@@ -162,6 +162,8 @@ Release Date: 2018-4-23
 
 + [R:case4base - data filtering and ordering with base R](https://jozefhajnala.gitlab.io/r/r002-data-manipulation/)
 
++ [[How to] Write a purrr-like adverb](http://colinfay.me/purrr-adverb-tidyverse/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
