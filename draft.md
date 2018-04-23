@@ -23,6 +23,7 @@ Release Date: 2018-4-23
 **CRAN**
 
 + [sealr](https://cran.r-project.org/web/packages/sealr/index.html) - Sealing the R Objects Test and Assert Conditions
++ [walkalytics](https://cran.r-project.org/web/packages/walkalytics/index.html) - Interface to the 'Walkalytics' API for Calculating Walking Isochrones
 
 
 **BioC**
