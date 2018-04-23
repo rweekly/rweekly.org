@@ -9,6 +9,11 @@ Release Date: 2018-4-23
 
 ###  Highlight
 
++ [What is a Successful Data Analysis?](https://simplystatistics.org/2018/04/17/what-is-a-successful-data-analysis/)
+
++ [Arrow and beyond: Collaborating on next generation tools for open source data science](https://blog.rstudio.com/2018/04/19/arrow-and-beyond/)
+
++ [How many CRAN package maintainers have been pwned?](https://itsalocke.com/blog/how-many-cran-package-maintainers-have-been-pwned/)
 
 
 ###  New Packages
@@ -25,20 +30,21 @@ Release Date: 2018-4-23
 
 **GitHub or Bitbucket**
 
-+ [A new R Shiny Dashboard that allows users to compare a myriad of financial assets (equities, crypto-currencies) using a variety of metrics.](https://github.com/pmaji/financial-asset-comparison-tool)
++ [Financial Asset Comparison Tool](https://github.com/pmaji/financial-asset-comparison-tool) - compare a myriad of financial assets (equities, crypto-currencies) using a variety of metrics.
 
-+ [Package for accessing/analyzing college sports stats](http://meysubb.github.io/collegeballR)
-
++ [collegeballR](https://meysubb.github.io/collegeballR/) - Package for accessing/analyzing college sports stats
 
 ### Package Releases
 
-+ [ggimage 0.1.4](https://guangchuangyu.github.io/2018/04/setting-ggplot2-background-with-ggbackground/)
++ [ggimage 0.1.4](https://guangchuangyu.github.io/2018/04/setting-ggplot2-background-with-ggbackground/) - setting ggplot2 background with ggbackground
 
-+ [ggfortify 0.4.4](https://CRAN.R-project.org/package=ggfortify)
+![ggimage 0.1.4](https://raw.githubusercontent.com/rweekly/image/master/2018/ggb.png)
+
++ [ggfortify 0.4.4](https://CRAN.R-project.org/package=ggfortify) - Data Visualization Tools for Statistical Analysis Results
 
 + [RKWard 0.7.0](https://rkward.kde.org/News#RKWard_0.7.0_-_Split_views.2C_based_on_KF5News) - the R GUI/IDE RKWard for Windows, macOS and GNU/Linux
 
-+ [Package uncmbb updated!](https://uncmbbtrivia.netlify.com/post/2018/04/17/package-update/)
++ [uncmbb 0.2.0](https://uncmbbtrivia.netlify.com/post/2018/04/17/package-update/) - UNC Men's Basketball Match Results Since 1949-1950 Season
 
 ###  R in Academia
 
@@ -92,6 +98,8 @@ Release Date: 2018-4-23
 
 + [Examining POTUS Executive Orders](https://rud.is/b/2018/04/18/examining-potus-executive-orders/)
 
+![Examining POTUS Executive](https://raw.githubusercontent.com/rweekly/image/master/2018/president.png)
+
 + [How many CRAN package maintainers have been pwned?](https://itsalocke.com/blog/how-many-cran-package-maintainers-have-been-pwned/)
 
 + [Perform web scraping and analysis of 400.000 articles published by newsbeast.gr (one of the main on-line publishers in Greece)](https://www.manosantoniou.com/post/web-scraping-and-analyzing-400-000-articles/)
@@ -120,13 +128,17 @@ Release Date: 2018-4-23
 
 + [Making a GIF of Solar Panel Installations in Minnesota and Wisconsin](http://katiejolly.io/blog/2018-04-17/pv-installations)
 
+![Making a GIF of Solar Panel Installations in Minnesota and Wisconsin](https://raw.githubusercontent.com/rweekly/image/master/2018/pv_install.gif)
+
 + [Guidelines for making plots for beginners](http://stuartlee.org/2018/04/14/content/post/2018-04-14-rookie-mistakes/)
 
 + [A short tutorial on how to arrange a irregularly spaced raster stack into a regular time series to be used in the Breaks For Additive Season and Trend (bfast) function.](https://philippgaertner.github.io/2018/04/bfast-preparation/)
 
 + [A revisit on the last blog about webscraping and topic modelling, this time with more data and an SVM thrown in as well.](https://annamarbut.blogspot.com/2018/04/web-scraping-and-text-classification.html)
 
-+ [This post explores the concept of monotonicity, primarily using simulation to help. It discusses linear regression assumptions and compares a custom metric to Spearman's rho. Tidyverse principles are used throughout.](https://tonyelhabr.rbind.io/posts/ranks-monotonicity-spearman-rho-r/)
++ [Investigating Ranks, Monotonicity, and Spearman's Rho with R](https://tonyelhabr.rbind.io/posts/ranks-monotonicity-spearman-rho-r/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2018/viz_summ_mntc_wcortest-1.png)
 
 + [Machine learning pipelines for R](https://tlverse.org/2018/04/08/sl3_demo/)
 
@@ -168,7 +180,13 @@ Release Date: 2018-4-23
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ `removeSource()` now works not only for functions but also for some language objects.
 
++ `optim(*, lower = c(-Inf, -Inf))` no longer warns (and switches the method), thanks to a suggestion by John Nash.
+
++ `axis()` gets new option `gap.axis = NA` for specifying a multiplication factor for the minimal “gap” (distance) between axis labels drawn. Its default is `1` for labels _parallel_ to the axis, and `0.5` for perpendicular ones.
+
++ Calls with an S3 class are no longer evaluated when printed, fixing part of PR#17398, thanks to a patch from Lionel Henry.
 
 ###  Upcoming Events in 3 Months
 
