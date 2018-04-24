@@ -9,11 +9,6 @@ Release Date: 2018-4-23
 
 ###  Highlight
 
-+ [What is a Successful Data Analysis?](https://simplystatistics.org/2018/04/17/what-is-a-successful-data-analysis/)
-
-+ [Arrow and beyond: Collaborating on next generation tools for open source data science](https://blog.rstudio.com/2018/04/19/arrow-and-beyond/)
-
-+ [How many CRAN package maintainers have been pwned?](https://itsalocke.com/blog/how-many-cran-package-maintainers-have-been-pwned/)
 
 
 ###  New Packages
@@ -22,7 +17,7 @@ Release Date: 2018-4-23
 
 **CRAN**
 
-+ [sealr](https://cran.r-project.org/web/packages/sealr/index.html) - Sealing the R Objects Test and Assert Conditions
+
 + [ggplotify](https://cran.r-project.org/package=ggplotify) - convert plots to ggplot object
 
 
