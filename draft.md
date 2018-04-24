@@ -69,7 +69,7 @@ Release Date: 2018-4-23
 
 ###  Tutorials
 
-
++ [Create beautiful map plots in R using ggmap](https://www.littlemissdata.com/blog/maps)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
