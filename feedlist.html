@@ -1,0 +1,162 @@
+---
+layout: vue-inline-page
+title: R Weekly Live Feed List
+---
+
+<script>
+  var global_notdone = false;
+</script>
+
+<style>
+  .inner-app-hide {
+    display: none;
+  }
+
+  .long-ds {
+    display: none;
+  }
+
+  .inner-text {
+    font-size: 16px;
+    display: inline;
+  }
+
+  .podcast {
+    display: none;
+  }
+
+  .tocify {
+    display: none;
+  }
+
+  .container {
+    max-width: 38rem;
+    padding-left: 1.5em;
+    padding-right: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .post a:visited {
+    color: #999;
+  }
+
+  .post-hide-ds .is-ds {
+    display: none
+  }
+
+  @media (min-width: 650px) {
+    .masthead {
+      position: fixed;
+      background-color: white;
+      opacity: 0.9;
+      width: 100%;
+      z-index: 10;
+      -webkit-box-shadow: 0px 0px 8px 8px white;
+      box-shadow: 0px 0px 8px 8px white;
+
+      padding-bottom: 0.4rem;
+    }
+    #main-article {
+      padding-top: 90px;
+    }
+    .long-ds {
+      display: inline;
+    }
+    .short-ds {
+      display: none;
+    }
+  }
+
+
+  .title-inline {
+    font-size: 16px;
+    font-weight: normal;
+  }
+
+  .weibo-hide {
+    display: none;
+  }
+
+  body.no-feature-like .upvote-click {
+    display: initial;
+  }
+
+  body.no-feature-like .like-beta {
+    display: initial;
+  }
+
+  body.no-feature-like .liketext {
+    display: initial;
+  }
+
+  body.no-feature-like .hidetext {
+    display: none;
+  }
+
+  body.night .masthead {
+    background-color: #262626;
+    box-shadow: 0px 0px 8px 8px #262626;
+  }
+
+  body.night .masthead-title a {
+    color: #cbcbcb;
+  }
+</style>
+
+{% raw %}
+
+<div id="main-post" class="post">
+
+  <div id="latest-app" class="inner-app-hide">
+    <h3>R Weekly Live Feed List</h3>
+    <div class="like-table" v-for="item in post_date">
+      <ul>
+        <li>
+          <p>
+            {{ item }}
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+
+</div>
+
+<script>
+  var latest_data = [];
+  var latest_app = new Vue({
+    el: '#latest-app',
+    data: {
+      post_date: latest_data
+    }
+  });
+
+  function load_latest() {
+
+    var xhr = new XMLHttpRequest();
+
+    xhr.open("GET", "https://live.rweekly.org/feedlist.json");
+    xhr.onreadystatechange = function () {
+      if (xhr.readyState == 4 && xhr.status == 200) {
+        var myArr = JSON.parse(xhr.responseText);
+
+        // force DOM update
+        latest_app.post_date = [];
+        latest_app.post_date = myArr;
+        document.getElementById('latest-app').classList.remove('inner-app-hide');
+        // add_external_links();
+      }
+    };
+    xhr.send();
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    load_latest();
+
+  });
+
+</script>
+
+{% endraw %}
