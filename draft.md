@@ -23,6 +23,7 @@ Release Date: 2018-4-23
 **CRAN**
 
 + [sealr](https://cran.r-project.org/web/packages/sealr/index.html) - Sealing the R Objects Test and Assert Conditions
++ [ggplotify](https://cran.r-project.org/package=ggplotify) - convert plots to ggplot object
 
 
 **BioC**
