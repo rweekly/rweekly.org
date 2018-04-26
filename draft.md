@@ -29,7 +29,7 @@ Release Date: 2018-4-23
 
 
 ### Package Releases
-
++ [ipumsr 0.2.0](https://cran.r-project.org/package=ipumsr) - Read extracts from IPUMS census and survey data. Now with support for IPUMS Terra to help you link international census microdata with geographic data.
 
 
 
