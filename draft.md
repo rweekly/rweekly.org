@@ -19,6 +19,7 @@ Release Date: 2018-4-23
 
 
 + [ggplotify](https://cran.r-project.org/package=ggplotify) - convert plots to ggplot object
++ [workflowr](https://cran.r-project.org/package=workflowr) - A Framework for Reproducible and Collaborative Data Science
 
 
 **BioC**
