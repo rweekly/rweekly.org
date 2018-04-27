@@ -17,7 +17,7 @@ Release Date: 2018-4-23
 
 **CRAN**
 
-
++ [foolbox](https://mailund.github.io/foolbox/) - a toolbox for function manipulation
 + [ggplotify](https://cran.r-project.org/package=ggplotify) - convert plots to ggplot object
 + [workflowr](https://cran.r-project.org/package=workflowr) - A Framework for Reproducible and Collaborative Data Science
 
@@ -31,6 +31,7 @@ Release Date: 2018-4-23
 
 ### Package Releases
 + [ipumsr 0.2.0](https://cran.r-project.org/package=ipumsr) - Read extracts from IPUMS census and survey data. Now with support for IPUMS Terra to help you link international census microdata with geographic data.
++ [tailr 0.1.2](https://mailund.github.io/tailr/) - tail recursion optimisation for R. This version resolves an issue that manifested when transformed functions were created as part of other packages.
 
 
 
