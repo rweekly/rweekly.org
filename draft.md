@@ -66,7 +66,7 @@ Release Date: 2018-4-23
 
 ### R Internationally
 
-
++ [¿De qué se habló en el Parlamento uruguayo desde 2017?](https://d4tagirl.com/2018/04/de-qu%C3%A9-se-habl%C3%B3-en-el-parlamento-uruguayo-desde-2017)
 
 ###  Tutorials
 
