@@ -13,7 +13,7 @@ Release Date: 2018-4-23
 
 ###  New Packages
 
-<p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+<p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">p& <i>Go Live for More New Pkgs</i> p&</a></p>
 
 **CRAN**
 
@@ -68,7 +68,7 @@ Release Date: 2018-4-23
 
 ###  Tutorials
 
-
++ [Installing Missing Packages from Bioconductor, CRAN and Github](https://www.eokodie.com/blog/installing-missing-packages-from-bioconductor-cran-and-github/)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
@@ -121,7 +121,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
 
-<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
+<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! p!</p>
 
 ###  Quotes of the Week
 
