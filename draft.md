@@ -114,6 +114,8 @@ Release Date: 2018-4-23
 
 + [Getting ready to attend rOpenSci unconf18 and probably working on tidyverse-like functions for the first time](http://lcolladotor.github.io/2018/04/27/ropensci-unconf18-and-working-on-tidyverse-like-functions-for-the-first-time/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+FellgernonBit-rstats+%28L.+Collado-Torres+-+rstats%29)
 
++ [Structured vs. Text Data to predict Airbnb prices](https://github.com/franziloew/airbnb_textmining)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
