@@ -9,6 +9,11 @@ Release Date: 2018-4-23
 
 ###  Highlight
 
++ [r2d3](https://github.com/rstudio/r2d3) - R Interface to D3 Visualizations
+
++ [Big changes behind the scenes in R 3.5.0](http://blog.revolutionanalytics.com/2018/04/r-350.html)
+
++ [What can we learn from data analysis failures?](https://simplystatistics.org/2018/04/23/what-can-we-learn-from-data-analysis-failures/)
 
 
 ###  New Packages
@@ -34,11 +39,10 @@ Release Date: 2018-4-23
 ![r2d3](https://github.com/rstudio/r2d3/raw/master/tools/README/rstudio_preview.png)
 
 ### Package Releases
+
 + [ipumsr 0.2.0](https://cran.r-project.org/package=ipumsr) - Read extracts from IPUMS census and survey data. Now with support for IPUMS Terra to help you link international census microdata with geographic data.
+
 + [tailr 0.1.2](https://mailund.github.io/tailr/) - tail recursion optimisation for R. This version resolves an issue that manifested when transformed functions were created as part of other packages.
-
-
-
 
 ###  R in Academia
 
@@ -96,7 +100,7 @@ Release Date: 2018-4-23
 
 + [Animated Directional Chord Diagrams](http://guyabel.com/post/animated-directional-chord-diagrams/)
 
-![Animated Directional Chord Diagrams](http://guyabel.com/img/abel-ani10-gf-fix.gif)
+![Animated Directional Chord Diagrams](https://guyabel.com/img/abel-ani10-gf-fix.gif)
 
 + [Simulate! Simulate! - Part 2: A linear mixed model](https://aosmith.rbind.io/2018/04/23/simulate-simulate-part-2/)
 
@@ -120,7 +124,19 @@ Release Date: 2018-4-23
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ Allow `file` argument of `Rscript` to include space even when it is first on the command line.
 
++ `file("stdin")` is no longer considered seekable.
+
++ `dput()` and `dump()` are no longer truncating when `options(deparse.max.lines = *)` is set.
+
++ Calls with an S3 class are no longer evaluated when printed, fixing part of PR#17398, thanks to a patch from Lionel Henry.
+
++ `lengths()` dispatches internally to S4 methods.
+
++ `predict(fm, newdata)` is now correct also for models where the formula has terms such as `splines::ns(..)` or `stats::poly(..)`, fixing PR#17414, based on a patch from Duncan Murdoch.
+
++ `extendrange(.., f)` with a length-2 `f` now extends separately to the left and the right.
 
 ###  Upcoming Events in 3 Months
 
