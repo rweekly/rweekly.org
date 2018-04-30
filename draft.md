@@ -71,6 +71,8 @@ Release Date: 2018-5-7
 
 
 
++ [Structured vs. Text Data to predict Airbnb prices](https://github.com/franziloew/airbnb_textmining)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
