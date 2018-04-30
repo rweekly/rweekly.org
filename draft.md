@@ -37,6 +37,7 @@ Release Date: 2018-5-7
 
 ###  Resources
 
+- Join the r-spatial ladies! There's a [slack channel](https://join.slack.com/t/r-spatialladies/shared_invite/enQtMzU1MTIwMjU2NzUyLTBkZjU1NDFiZGU3YzNmN2Y0Y2NiYTM2Njk2ZjI5M2IyMTNiNjI3ZDQ4MzEyMjQxNjM2YWU2ZGVkZWRiYmU1ZDM) open to women and non binary folks interested in R for spatial data and a [GitHub page](https://github.com/rspatialladies) with crowdsourced resources.
 
 
 ###  Videos and Podcasts
