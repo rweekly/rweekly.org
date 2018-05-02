@@ -46,6 +46,7 @@ Release Date: 2018-5-7
 
 ### Insights
 
++ [Reflections from my first R package building experience!](https://ryo-n7.github.io/2018-04-30-bulletchartr-package-experience/)
 
 
 
