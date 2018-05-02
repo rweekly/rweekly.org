@@ -122,7 +122,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
-
+- Join the r-spatial ladies! There's a [slack channel](https://join.slack.com/t/r-spatialladies/shared_invite/enQtMzU1MTIwMjU2NzUyLTBkZjU1NDFiZGU3YzNmN2Y0Y2NiYTM2Njk2ZjI5M2IyMTNiNjI3ZDQ4MzEyMjQxNjM2YWU2ZGVkZWRiYmU1ZDM) open to women and non binary folks interested in R for spatial data and a [GitHub page](https://github.com/rspatialladies) with crowdsourced resources.
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! p!</p>
 
