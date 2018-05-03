@@ -25,7 +25,7 @@ Release Date: 2018-5-7
 
 **GitHub or Bitbucket**
 
-
+- [advicegiveR](https://github.com/katiejolly/advicegiveR): R wrapper for the advice slip API
 
 ### Package Releases
 
@@ -47,7 +47,7 @@ Release Date: 2018-5-7
 ### Insights
 
 + [Reflections from my first R package building experience!](https://ryo-n7.github.io/2018-04-30-bulletchartr-package-experience/)
-
++ [advicegiveR: Developing my first package!](http://katiejolly.io/blog/2018-05-02/advicegiveR)
 
 
 ### Gist & Cookbook
