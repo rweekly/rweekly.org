@@ -49,6 +49,7 @@ Release Date: 2018-5-7
 + [Reflections from my first R package building experience!](https://ryo-n7.github.io/2018-04-30-bulletchartr-package-experience/)
 + [advicegiveR: Developing my first package!](http://katiejolly.io/blog/2018-05-02/advicegiveR)
 
++ [Seventeen Minutes From Tweet To Package](https://rud.is/b/2018/05/03/seventeen-minutes-from-tweet-to-package/)
 
 ### Gist & Cookbook
 
@@ -73,6 +74,12 @@ Release Date: 2018-5-7
 + [Installing Missing Packages from Bioconductor, CRAN and Github](https://www.eokodie.com/blog/installing-missing-packages-from-bioconductor-cran-and-github/)
 
 + [Structured vs. Text Data to predict Airbnb prices](https://github.com/franziloew/airbnb_textmining)
+
++ [Playing with #rstatsnyc, Neo4J and R](http://colinfay.me/rstatsnyc-neo4j/)
+
++ [About Risks and Side-Effects… Consult your Purrr-Macist](https://www.statworx.com/de/blog/about-risks-and-side-effects-consult-your-purrr-macist/)
+
++ [R on Kubernetes - serverless Shiny, R APIs and scheduled scripts ](http://code.markedmondson.me/r-on-kubernetes-serverless-shiny-r-apis-and-scheduled-scripts/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
