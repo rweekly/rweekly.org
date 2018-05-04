@@ -46,7 +46,7 @@ Release Date: 2018-4-23
 
 ### Insights
 
-
++ [Need for Speed: Benchmarks on Dataframes](https://www.eokodie.com/blog/need-for-speed-benchmarks-on-dataframes/)
 
 ### Gist & Cookbook
 
