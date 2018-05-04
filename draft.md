@@ -76,6 +76,7 @@ Release Date: 2018-5-7
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
+
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
@@ -127,3 +128,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! p!</p>
 
 ###  Quotes of the Week
+
+![](https://pbs.twimg.com/media/DcR8E_0W4AAK5zY.jpg)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There is now officially a Font Awesome <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> logo 🎉<a href="https://t.co/sAtvRM0uuY">https://t.co/sAtvRM0uuY</a> <a href="https://t.co/N7AbwHpIIZ">pic.twitter.com/N7AbwHpIIZ</a></p>&mdash; Colin Fay (@_ColinFay) <a href="https://twitter.com/_ColinFay/status/992054289341276161?ref_src=twsrc%5Etfw">May 3, 2018</a></blockquote>
