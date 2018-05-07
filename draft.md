@@ -9,8 +9,11 @@ Release Date: 2018-5-7
 
 ###  Highlight
 
++ [pkgdown 1.0.0](https://www.tidyverse.org/articles/2018/05/pkgdown-1-0-0/)
 
++ [Seventeen Minutes From Tweet To Package](https://rud.is/b/2018/05/03/seventeen-minutes-from-tweet-to-package/)
 
++ [Datavis showcase from Emi Tanaka](https://emitanaka.github.io/showcase/)
 
 ###  New Packages
 
@@ -29,6 +32,8 @@ Release Date: 2018-5-7
 + [advicegiveR](https://github.com/katiejolly/advicegiveR): R wrapper for the advice slip API
 
 + [echarts4r](http://echarts4r.john-coene.com) - ECharts version 4 for R, a plethora of chart types customisable with innumerable options.
+
+![echarts4r](https://raw.githubusercontent.com/rweekly/image/master/2018/echart.png)
 
 ### Package Releases
 
@@ -57,17 +62,17 @@ Release Date: 2018-5-7
 
 ### Insights
 
++ [Make the Right / Positive Things Easier to Do than Wrong / Negative Things](https://yihui.name/en/2018/05/right-easier-than-wrong/)
+
 + [Reflections from my first R package building experience!](https://ryo-n7.github.io/2018-04-30-bulletchartr-package-experience/)
+
 + [advicegiveR: Developing my first package!](http://katiejolly.io/blog/2018-05-02/advicegiveR)
 
 + [Seventeen Minutes From Tweet To Package](https://rud.is/b/2018/05/03/seventeen-minutes-from-tweet-to-package/)
 
-+ [Make the Right / Positive Things Easier to Do than Wrong / Negative Things](https://yihui.name/en/2018/05/right-easier-than-wrong/)
-
 + [Road Map for Choosing Between Statistical Modeling and Machine Learning](http://fharrell.com/post/stat-ml/)
 
 + [Relationships in Data Analysis](https://simplystatistics.org/2018/04/30/relationships-in-data-analysis/)
-
 
 ### Gist & Cookbook
 
@@ -81,17 +86,19 @@ Release Date: 2018-5-7
 
 ### R in the Real World
 
-+ [Seventeen Minutes From Tweet To Package](https://rud.is/b/2018/05/03/seventeen-minutes-from-tweet-to-package/)
-
 + [Mapping hurricane search data from Google Trends](https://peerchristensen.netlify.com/post/mapping-hurricane-search-data-from-google-trends/)
 
 + [Exploring the Meaning of AI, Data Science and Machine Learning with the latest Wikipedia Clickstream](https://becominghuman.ai/exploring-the-meaning-of-ai-data-science-and-machine-learning-with-the-latest-wikipedia-5fea5f0a2d46)
 
 + [An analysis of the World Marathon Majors in the wake of Boston and London](http://stevenewns.netlify.com/2018/05/04/an-analysis-of-world-marathon-major-winners/)
 
+![An analysis of the World Marathon Majors in the wake of Boston and London](https://raw.githubusercontent.com/rweekly/image/master/2018/time.png)
+
 + [Create a Twitter bot for your local animal shelter using rtweet](https://erbo.rbind.io/blog/2018-05-03-create-a-twitter-bot-for-your-local-animal-shelter-using-rtweet/)
 
 + [A look into U.S. infectious diseases](https://austinwehrwein.com/data-visualization/diseases/)
+
+![A look into U.S. infectious diseases](https://raw.githubusercontent.com/rweekly/image/master/2018/diseases.png)
 
 + [Finding names in R packages which could be domain names (using rvest and the tidyverse)](https://coolbutuseless.github.io/2018/05/02/finding-names-in-r-packages-which-could-be-domain-names-using-rvest-and-the-tidyverse/)
 
@@ -99,7 +106,7 @@ Release Date: 2018-5-7
 
 + [Comparing dependencies of popular machine learning packages with pkgnet](https://shirinsplayground.netlify.com/2018/04/pkgnet/)
 
-+ [NEW YORK CITY TAXI & LIMOUSINE COMMISSION (TLC) TRIP DATA ANALYSIS USING SPARKLYR AND GOOGLE BIGQUERY](https://mirai-solutions.ch/news/2018/01/09/NYC-TLC-Trip-Data-Analysis-Using-Sparklyr-and-Google-BigQuery/)
++ [New York City Taxi & Limousine Commission Trip Data Analysis Using Sparklyr and Google Bigquery](https://mirai-solutions.ch/news/2018/01/09/NYC-TLC-Trip-Data-Analysis-Using-Sparklyr-and-Google-BigQuery/)
 
 ### R Internationally
 
@@ -110,8 +117,6 @@ Release Date: 2018-5-7
 + [Installing Missing Packages from Bioconductor, CRAN and Github](https://www.eokodie.com/blog/installing-missing-packages-from-bioconductor-cran-and-github/)
 
 + [Structured vs. Text Data to predict Airbnb prices](https://github.com/franziloew/airbnb_textmining)
-
-+ [Playing with #rstatsnyc, Neo4J and R](http://colinfay.me/rstatsnyc-neo4j/)
 
 + [About Risks and Side-Effects… Consult your Purrr-Macist](https://www.statworx.com/de/blog/about-risks-and-side-effects-consult-your-purrr-macist/)
 
@@ -129,13 +134,15 @@ Release Date: 2018-5-7
 
 + [A particles-arly fun book draw](https://itsalocke.com/blog/a-particles-arly-fun-book-draw/)
 
++ [Playing with #rstatsnyc, Neo4J and R](http://colinfay.me/rstatsnyc-neo4j/)
+
+![Playing with #rstatsnyc, Neo4J and R](https://raw.githubusercontent.com/rweekly/image/master/2018/graph_mentions-1.png)
+
 + [How efficient are multifactorial experiments?](https://www.rdatagen.net/post/so-how-efficient-are-multifactorial-experiments-part/)
 
 + [Packaging Shiny apps - A deep dive](http://blog.sellorm.com/2018/05/02/packaging-shiny-apps-a-deep-dive/)
 
 + [Challenge: Adding Large Integers in R](https://coolbutuseless.github.io/2018/05/04/challenge-adding-large-integers-in-r/)
-
-+ [Because it's Friday: The eyes don't work](http://blog.revolutionanalytics.com/2018/05/because-its-friday-the-eyes-dont-work.html)
 
 + [Do you really need a multilevel model? A preview of powerlmm 0.4.0](http://rpsychologist.com/do-you-need-multilevel-powerlmm-0-4-0)
 
@@ -152,7 +159,17 @@ Release Date: 2018-5-7
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ `download.file()` on Windows now by default also uses binary transfer (`mode = "wb"`) for file extension `.rds` and in the case the file extension dot (`.`) needs `URLdecode()`ing. The help page `?download.file` now contains the same information platform independently.
 
++ Allow `file` argument of `Rscript` to include space even when it is first on the command line.
+
++ `callNextMethod()` uses the generic from the environment of the calling method. Reported by Hervé Pagès with well documented examples.
+
++ `simulate.lm(glm(*, gaussian(link = <non-default>)))` has been corrected, fixing PR#17415 thanks to Alex Courtiol.
+
++ `untar(file("<some>.tar.gz"), *)` now gives a better error message, suggesting to use `gzfile()` instead.
+
++ Allow `file` argument of `Rscript` to include space even when it is first on the command line.
 
 ###  Upcoming Events in 3 Months
 
@@ -194,13 +211,11 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
-- Join the r-spatial ladies! There's a [slack channel](https://join.slack.com/t/r-spatialladies/shared_invite/enQtMzU1MTIwMjU2NzUyLTBkZjU1NDFiZGU3YzNmN2Y0Y2NiYTM2Njk2ZjI5M2IyMTNiNjI3ZDQ4MzEyMjQxNjM2YWU2ZGVkZWRiYmU1ZDM) open to women and non binary folks interested in R for spatial data and a [GitHub page](https://github.com/rspatialladies) with crowdsourced resources.
++ Join the r-spatial ladies! There's a [slack channel](https://join.slack.com/t/r-spatialladies/shared_invite/enQtMzU1MTIwMjU2NzUyLTBkZjU1NDFiZGU3YzNmN2Y0Y2NiYTM2Njk2ZjI5M2IyMTNiNjI3ZDQ4MzEyMjQxNjM2YWU2ZGVkZWRiYmU1ZDM) open to women and non binary folks interested in R for spatial data and a [GitHub page](https://github.com/rspatialladies) with crowdsourced resources.
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-![Quotes of the Week](https://pbs.twimg.com/media/DcR8E_0W4AAK5zY.jpg)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There is now officially a Font Awesome <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> logo 🎉<a href="https://t.co/sAtvRM0uuY">https://t.co/sAtvRM0uuY</a> <a href="https://t.co/N7AbwHpIIZ">pic.twitter.com/N7AbwHpIIZ</a></p>&mdash; Colin Fay (@_ColinFay) <a href="https://twitter.com/_ColinFay/status/992054289341276161?ref_src=twsrc%5Etfw">May 3, 2018</a></blockquote>
 
