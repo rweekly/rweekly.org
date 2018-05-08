@@ -101,8 +101,13 @@ The annual useR! conference is the main meeting of the international R user and 
 Buenos Aires, Argentina.
 
 -->
+Next Week's Events:
+
++ [UseR Group and R-Ladies Events the week of May 14th](https://community.rstudio.com/t/upcoming-r-community-events-week-of-2018-05-14/8131).<br />
+There are 23 events in at least 8 countries posted on RStudio Community this week.<br/ >
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
+
 
 ### Datasets
 
