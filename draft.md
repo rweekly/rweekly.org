@@ -58,7 +58,7 @@ Release Date: 2018-5-14
 
 ### R in the Real World
 
-
++ [Harry Potter and competition results with comperes](http://www.questionflow.org/2018/05/09/harry-potter-and-competition-results-with-comperes/)
 
 ### R Internationally
 
@@ -66,7 +66,7 @@ Release Date: 2018-5-14
 
 ###  Tutorials
 
-
++ [Harry Potter and competition results with comperes](http://www.questionflow.org/2018/05/09/harry-potter-and-competition-results-with-comperes/)
 
 
 
