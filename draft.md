@@ -44,6 +44,7 @@ Release Date: 2018-5-14
 
 ### Insights
 
++ [Power Query: Excel's gateway to reproducible analysis](https://taraskaduk.com/2018/03/29/power-query/) - we all know Excel can be dangerous for analysis due to its lack of reproducibility. However, there is an easy (and much overlooked) way to perform (and teach) reproducible analysis within Excel
 
 
 
