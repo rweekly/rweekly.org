@@ -68,7 +68,7 @@ Release Date: 2018-4-23
 
 ###  Tutorials
 
-
++ [Installing Missing Packages from Bioconductor, CRAN and Github](https://www.eokodie.com/blog/installing-missing-packages-from-bioconductor-cran-and-github/)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
