@@ -44,7 +44,7 @@ Release Date: 2018-5-14
 
 ### Insights
 
-
++ [Need for Speed: Benchmarks on Dataframes](https://www.eokodie.com/blog/need-for-speed-benchmarks-on-dataframes/)
 
 
 ### Gist & Cookbook
@@ -66,9 +66,11 @@ Release Date: 2018-5-14
 
 ###  Tutorials
 
+
++ [Installing Missing Packages from Bioconductor, CRAN and Github](https://www.eokodie.com/blog/installing-missing-packages-from-bioconductor-cran-and-github/)
+
+
 + [Harry Potter and competition results with comperes](http://www.questionflow.org/2018/05/09/harry-potter-and-competition-results-with-comperes/)
-
-
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
