@@ -9,7 +9,11 @@ Release Date: 2018-5-14
 
 ###  Highlight
 
++ [2018 R Conferences](https://rviews.rstudio.com/2018/05/11/2018-r-conferences/)
 
++ [tidying messy excel data tidyxl](https://statbandit.wordpress.com/2018/05/08/tidying-messy-excel-data-tidyxl/)
+
++ [In case you missed it: April 2018 roundup](http://blog.revolutionanalytics.com/2018/05/in-case-you-missed-it-april-2018-roundup.html)
 
 ###  New Packages
 
@@ -29,14 +33,23 @@ Release Date: 2018-5-14
 
 ### Package Releases
 
-+ [RcppMsgPack 0.2.2](http://dirk.eddelbuettel.com/blog/2018/05/06#rcppmsgpack_0.2.2)
++ [RcppMsgPack 0.2.2](http://dirk.eddelbuettel.com/blog/2018/05/06#rcppmsgpack_0.2.2) - MsgPack Headers for R
 
-+ [RcppGSL 0.3.4](http://dirk.eddelbuettel.com/blog/2018/05/07#rcppgsl_0.3.4)
++ [RcppGSL 0.3.4](http://dirk.eddelbuettel.com/blog/2018/05/07#rcppgsl_0.3.4) -  R to the vector and matrix classes of the GNU GSL
 
-+ [RStudio Connect v1.6.2](https://blog.rstudio.com/2018/05/09/rstudio-connect-v1-6-2/)
++ [leaflet 2.0.0](https://blog.rstudio.com/2018/05/10/leaflet-2-0-0/) - R and Interactive Maps
 
-+ [leaflet 2.0.0](https://blog.rstudio.com/2018/05/10/leaflet-2-0-0/)
+### R in the Real World
 
++ [Harry Potter and competition results with comperes](http://www.questionflow.org/2018/05/09/harry-potter-and-competition-results-with-comperes/)
+
+![Harry Potter and competition results with comperes](https://github.com/rweekly/image/blob/master/2018/book-score_distribution-1.png)
+
++ [Wrangling Data Table Out Of the FBI 2017 IC3 Crime Report](https://rud.is/b/2018/05/08/wrangling-data-table-out-of-the-fbi-2017-ic3-crime-report/)
+
++ [Twitter's Myanmar hate machine](http://rayms.github.io/2018-05-09-twitter-s-myanmar-hate-machine/)
+
+![Twitter's Myanmar hate machine](https://raw.githubusercontent.com/rweekly/image/master/2018/moekyaw_accounts.png)
 
 ###  R in Academia
 
@@ -71,14 +84,6 @@ Release Date: 2018-5-14
 + [The social weather of rOpenSci onboarding system](https://ropensci.org/blog/2018/05/10/onboarding-social-weather/)
 
 
-### R in the Real World
-
-+ [Harry Potter and competition results with comperes](http://www.questionflow.org/2018/05/09/harry-potter-and-competition-results-with-comperes/)
-
-+ [Wrangling Data Table Out Of the FBI 2017 IC3 Crime Report](https://rud.is/b/2018/05/08/wrangling-data-table-out-of-the-fbi-2017-ic3-crime-report/)
-
-+ [Twitter's Myanmar hate machine](http://rayms.github.io/2018-05-09-twitter-s-myanmar-hate-machine/)
-
 ### R Internationally
 
 
@@ -91,13 +96,13 @@ Release Date: 2018-5-14
 
 + [Multivariate Dot-density Maps in R with Sf & Ggplot2](https://www.cultureofinsight.com/blog/2018/05/02/2018-04-08-multivariate-dot-density-maps-in-r-with-sf-ggplot2/)
 
-+ [Using quantities to parse data with units and errors](http://r-spatial.org//r/2018/05/07/parsing-quantities.html)
+![Multivariate Dot-density Maps in R with Sf & Ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2018/dot-dens.png)
 
-+ [Developing my functions ](http://kgilds.rbind.io/2018/05/07/developing-my-functions/)
++ [Using quantities to parse data with units and errors](http://r-spatial.org//r/2018/05/07/parsing-quantities.html)
 
 + [Introducing the tapir package: Text-based Arbitrary Precision Integers in R](https://coolbutuseless.github.io/2018/05/07/introducing-the-tapir-package-text-based-arbitrary-precision-integers-in-r/)
 
-+ [Deploying a secure Shiny Server and RStudio Server on a free Google Cloud virtual machine](https://www.simoncoulombe.com/2018/05/07/protected_free_shiny/)
++ [Deploying a secure Shiny Server and RStudio Server on a free Google Cloud virtual machine](http://www.simoncoulombe.com/2018/05/07/protected_free_shiny/)
 
 + [Data types](https://itsalocke.com/blog/data-types/)
 
@@ -111,11 +116,9 @@ Release Date: 2018-5-14
 
 + [10 PRINT mazes with ggplot2](https://tjmahr.github.io/10-print-mazes-with-ggplot2/)
 
-+ [Data Fellowship for Nonprofit Professionals](http://kgilds.rbind.io/2018/05/09/data-fellowship-for-nonprofit-data-professionals/)
-
 + [Flow charts in R](https://aghaynes.wordpress.com/2018/05/09/flow-charts-in-r/)
 
-![Flow charts in R](https://aghaynes.files.wordpress.com/2018/05/flowtemp.png)
+![Flow charts in R](https://raw.githubusercontent.com/rweekly/image/master/2018/flowtemp.png)
 
 + [Hi-res c64 images with Rstats 'r64' package](https://coolbutuseless.github.io/2018/05/10/hi-res-c64-images-with-rstats-r64-package/)
 
@@ -130,8 +133,6 @@ Release Date: 2018-5-14
 + [Custom R charts coming to Excel](http://blog.revolutionanalytics.com/2018/05/powerbi-custom-visuals-in-excel.html)
 
 + [Because it's Friday: Planes, pains, and automobiles](http://blog.revolutionanalytics.com/2018/05/because-its-friday-planes-pains-and-automobiles.html)
-
-+ [Index Cards](http://kgilds.rbind.io/2018/05/11/notecards/)
 
 + [Challenge: Simultaneous parallel min() and which.min()](https://coolbutuseless.github.io/2018/05/12/challenge-simultaneous-parallel-min-and-which.min/)
 
@@ -159,6 +160,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 + [CRAN Policy Change new rev3874](https://github.com/eddelbuettel/crp/commit/a5b3c8a9bb9e61d4f1d7f915391740ae451ab3c8)
 
++ `unlist(x)` no longer fails in some cases of nested empty lists.
+
++ Method dispatch uses more relevant environments when looking up class definitions.
 
 ###  Upcoming Events in 3 Months
 
