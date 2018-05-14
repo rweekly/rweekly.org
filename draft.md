@@ -65,7 +65,8 @@ Release Date: 2018-5-21
 
 ###  Tutorials
 
-
++ [tidying old functions](http://data-chips.com/2018/05/11/tidying-old-functions/) <br />
+Code samples for introduction the tidyverse to old functions
 
 
 
