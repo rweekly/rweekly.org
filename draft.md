@@ -48,6 +48,7 @@ Release Date: 2018-5-21
 
 ### Insights
 
++ [Here's to the hardworking ones](https://taraskaduk.com/2018/05/10/encouragement/) - another blog post addressing the impostor syndrome in data science, and a word of encouragement to anyone fighting this imposterism
 
 
 ### Gist & Cookbook
