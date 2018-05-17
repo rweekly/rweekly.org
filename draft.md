@@ -72,6 +72,8 @@ Release Date: 2018-5-21
 + [tidying old functions](http://data-chips.com/2018/05/11/tidying-old-functions/) <br />
 Code samples for introduction the tidyverse to old functions
 
++ [General gems of comperes: examples of exported functions from {comperes} package that could be useful for general tasks](http://www.questionflow.org/2018/05/17/general-gems-of-comeres/)
+
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
