@@ -27,6 +27,9 @@ Release Date: 2018-5-21
 
 ### Package Releases
 
++ [getTBinR 0.5.4](https://www.samabbott.co.uk/post/gettbinr-5-4/) - get WHO Tuberculosis data
+
+![getTBinR example plots](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-5-4.png)
 
 ### R in the Real World
 
