@@ -31,9 +31,13 @@ Release Date: 2018-5-21
 
 ![getTBinR example plots](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-5-4.png)
 
+![icon: web icons for rmarkdown](https://ropensci.org/technotes/2018/05/15/icon/)
+
+![sparklyr 0.8](https://blog.rstudio.com/2018/05/14/sparklyr-0-8/)
+
 ### R in the Real World
 
-
+![The Wikidata Concepts Monitor: R in Action Across Big Wikidata](https://commons.wikimedia.org/wiki/File:GMilovanovic_eRum2018.pdf)
 
 
 ###  R in Academia
@@ -42,7 +46,7 @@ Release Date: 2018-5-21
 
 ###  Resources
 
-
++ [Building a package that lasts — eRum2018 Workshop](https://github.com/ColinFay/erum2018)
 
 ###  Videos and Podcasts
 
@@ -72,7 +76,9 @@ Release Date: 2018-5-21
 + [tidying old functions](http://data-chips.com/2018/05/11/tidying-old-functions/) <br />
 Code samples for introduction the tidyverse to old functions
 
++ [Installation to connect Spark and H2O in R](https://rtask.thinkr.fr/blog/installation-to-connect-spark-and-h2o-in-r/)
 
++ [A Package template to design a prod-ready Shiny application](https://rtask.thinkr.fr/blog/our-shiny-template-to-design-a-prod-ready-app/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
