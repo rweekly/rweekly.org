@@ -31,13 +31,13 @@ Release Date: 2018-5-21
 
 ![getTBinR example plots](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-5-4.png)
 
-+[icon: web icons for rmarkdown](https://ropensci.org/technotes/2018/05/15/icon/)
++ [icon: web icons for rmarkdown](https://ropensci.org/technotes/2018/05/15/icon/)
 
-+[sparklyr 0.8](https://blog.rstudio.com/2018/05/14/sparklyr-0-8/)
++ [sparklyr 0.8](https://blog.rstudio.com/2018/05/14/sparklyr-0-8/)
 
 ### R in the Real World
 
-+[The Wikidata Concepts Monitor: R in Action Across Big Wikidata](https://commons.wikimedia.org/wiki/File:GMilovanovic_eRum2018.pdf)
++ [The Wikidata Concepts Monitor: R in Action Across Big Wikidata](https://commons.wikimedia.org/wiki/File:GMilovanovic_eRum2018.pdf)
 
 
 ###  R in Academia
