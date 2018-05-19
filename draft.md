@@ -72,7 +72,10 @@ Release Date: 2018-5-21
 
 ###  Resources
 
-+ [Building a package that lasts — eRum2018 Workshop](https://github.com/ColinFay/erum2018)
++ [Building a package that lasts — eRum2018 Workshop](https://github.com/ColinFay/erum2018)  
+
++ [Relationships in Data Analysis - cheatsheet](https://deanmarchiori.github.io/2018-05-19-relationships-in-data/)  
+
 
 + [R in Power BI](https://taraskaduk.com/talk/sql-sat-759-r-pbi/)
 
