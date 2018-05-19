@@ -127,6 +127,8 @@ Release Date: 2018-5-21
 
 + [Multivariate dot-density maps in R with sf and ggplot2](https://www.cultureofinsight.com/blog/2018/05/02/2018-04-08-multivariate-dot-density-maps-in-r-with-sf-ggplot2/)
 
++ [General gems of comperes: examples of exported functions from {comperes} package that could be useful for general tasks](http://www.questionflow.org/2018/05/17/general-gems-of-comeres/)
+
 + [Working with spreadsheets in R](https://luisdva.github.io/rstats/excel-trivia/)
 
 + [Benchmark mutate - vector, matrix, data.frame](https://coolbutuseless.github.io/2018/05/12/benchmark-mutate---vector-matrix-data.frame/)
@@ -149,8 +151,6 @@ Release Date: 2018-5-21
 + [Insert images in blogdown post, static directory, and xaringan](https://uncmbbtrivia.netlify.com/post/2018/05/17/insert-images-in-blogdown-post/)
 
 + [How to make a generic stat in ggplot2](https://eliocamp.github.io/codigo-r/2018/05/how-to-make-a-generic-stat-in-ggplot2/)
-
-+ [General gems of comperes](http://www.questionflow.org/2018/05/17/general-gems-of-comeres/)
 
 + [Enterprise Dashboards with R Markdown](https://rviews.rstudio.com/2018/05/16/replacing-excel-reports-with-r-markdown-and-shiny/)
 
