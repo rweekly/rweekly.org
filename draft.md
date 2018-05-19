@@ -205,8 +205,10 @@ Buenos Aires, Argentina.
 
 -->
 
+More upcoming events the week of May 21 at [community.rstudio.com](https://community.rstudio.com/t/upcoming-r-community-events-week-of-2018-05-21/8506).
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
+
 
 
 ### Datasets
