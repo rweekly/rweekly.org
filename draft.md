@@ -9,6 +9,7 @@ Release Date: 2018-5-21
 
 ###  Highlight
 
++ [To purrr or not to purrr](https://www.mango-solutions.com/blog/to-purrr-or-not-to-purrr)
 
 
 ###  New Packages
@@ -17,10 +18,9 @@ Release Date: 2018-5-21
 
 **CRAN**
 
-+ [furrr: Apply Mapping Functions in Parallel using Futures](https://cran.r-project.org/web/packages/furrr/index.html)
++ [furrr](https://cran.r-project.org/web/packages/furrr/index.html) - Apply Mapping Functions in Parallel using Futures
 
 + [bench](http://bench.r-lib.org/) - The goal of bench is to benchmark code, tracking execution time, memory allocations and garbage collections.
-
 
 
 **BioC**
@@ -28,33 +28,29 @@ Release Date: 2018-5-21
 
 **GitHub or Bitbucket**
 
-+ [Serve datasets from a package inside the RStudio Connection Pane.](https://github.com/ColinFay/fryingpane)
-
-
++ [fryingpane](https://github.com/ColinFay/fryingpane) - Serve datasets from a package inside the RStudio Connection Pane
 
 ### Package Releases
 
 + [getTBinR 0.5.4](https://www.samabbott.co.uk/post/gettbinr-5-4/) - get WHO Tuberculosis data
 
-![getTBinR example plots](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-5-4.png)
+![getTBinR example plots](https://raw.githubusercontent.com/rweekly/image/master/2018/binr-0821.png)
 
-+ [icon: web icons for rmarkdown](https://ropensci.org/technotes/2018/05/15/icon/)
++ [icon](https://ropensci.org/technotes/2018/05/15/icon/) - web icons for rmarkdown
 
-+ [sparklyr 0.8](https://blog.rstudio.com/2018/05/14/sparklyr-0-8/)
++ [sparklyr 0.8](https://blog.rstudio.com/2018/05/14/sparklyr-0-8/) - R Interface to Apache Spark
 
-+ [inline 0.3.15](http://dirk.eddelbuettel.com/blog/2018/05/18#inline-0.3.15)
++ [inline 0.3.15](http://dirk.eddelbuettel.com/blog/2018/05/18#inline-0.3.15) - Functions to Inline C, C++, Fortran Function Calls from R
 
-+ [wrapr 1.4.1 now up on CRAN](http://www.win-vector.com/blog/2018/05/wrapr-1-4-1-now-up-on-cran/)
++ [wrapr 1.4.1](http://www.win-vector.com/blog/2018/05/wrapr-1-4-1-now-up-on-cran/) - Wrap R Tools for Debugging and Parametric Programming
 
-+ [sparklyr 0.8](https://blog.rstudio.com/2018/05/14/sparklyr-0-8/)
-
-+ [CRAN Release of R/exams 2.3-1](http://www.R-exams.org/general/cran_release_231/)
++ [R/exams 2.3-1](http://www.R-exams.org/general/cran_release_231/) - Automatic Generation of Exams in R
 
 ### R in the Real World
 
 + [The Wikidata Concepts Monitor: R in Action Across Big Wikidata](https://commons.wikimedia.org/wiki/File:GMilovanovic_eRum2018.pdf)
 
-+ [How the distribution of the popular vote has been shared between Britain's main political parties since the 1950s](https://flother.is/2018/british-party-support/)
+![The Wikidata Concepts Monitor: R in Action Across Big Wikidata](https://raw.githubusercontent.com/rweekly/image/master/2018/wikidata.png)
 
 + [Throwing Shade at the Cartographer Illuminati: Raytracing the Washington Monument in R](http://www.tylermw.com/throwing-shade/)
 
@@ -62,9 +58,13 @@ Release Date: 2018-5-21
 
 + ["LMX ot NOSJ!" Interchanging Classic Data Formats With Single blackmagic Incantations](https://rud.is/b/2018/05/18/lmx-ot-nosj-interchanging-classic-data-formats-with-single-blackmagic-incantations/)
 
++ [How the distribution of the popular vote has been shared between Britain's main political parties since the 1950s](https://flother.is/2018/british-party-support/)
+
+![How the distribution of the popular vote has been shared between Britain's main political parties since the 1950s](https://raw.githubusercontent.com/rweekly/image/master/2018/tory-labour-1955-2017%402x.png)
+
 + [AphA Scotland - it's a thing](https://www.johnmackintosh.com/2018-05-13-apha-scotland-it-s-a-thing/)
 
-+ [Understanding PCA using Stack Overflow data](https://juliasilge.com/blog/stack-overflow-pca/)
++ [Understanding PCA using Stack Overflow data](https://raw.githubusercontent.com/rweekly/image/master/2018/pc12.png)
 
 ###  R in Academia
 
@@ -85,8 +85,6 @@ Release Date: 2018-5-21
 
 
 ### Insights
-
-+ [Here's to the hardworking ones](https://taraskaduk.com/2018/05/10/encouragement/) - another blog post addressing the impostor syndrome in data science, and a word of encouragement to anyone fighting this imposterism
 
 + [Rethinking Academic Data Sharing](https://simplystatistics.org/2018/05/15/rethinking-academic-data-sharing/)
 
@@ -125,6 +123,8 @@ Release Date: 2018-5-21
 
 + [Reproducing a Bostock d3.js Speciality in ggplot](https://daranzolin.github.io//articles/2018-05/ages-ggplot)
 
+![Reproducing a Bostock d3.js Speciality in ggplot](https://raw.githubusercontent.com/rweekly/image/master/2018/bostockage.png)
+
 + [Multivariate dot-density maps in R with sf and ggplot2](https://www.cultureofinsight.com/blog/2018/05/02/2018-04-08-multivariate-dot-density-maps-in-r-with-sf-ggplot2/)
 
 + [General gems of comperes: examples of exported functions from {comperes} package that could be useful for general tasks](http://www.questionflow.org/2018/05/17/general-gems-of-comeres/)
@@ -156,7 +156,7 @@ Release Date: 2018-5-21
 
 + [Beautiful and Powerful Correlation Tables in R](https://neuropsychology.github.io/psycho.R//2018/05/18/correlation.html)
 
-![Beautiful and Powerful Correlation Tables in R](https://raw.githubusercontent.com/neuropsychology/psycho.R/master/docs/_posts/2018-05-18-correlation_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![Beautiful and Powerful Correlation Tables in R](https://raw.githubusercontent.com/rweekly/image/master/2018/tables-0821.png)
 
 + [logic: Interpretation of Logic Gates (Using TikZ)](http://www.R-exams.org/templates/logic/)
 
