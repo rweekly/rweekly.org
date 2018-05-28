@@ -45,7 +45,7 @@ Release Date: 2018-6-4
 
 ###  Resources
 
-
++ [Scraping Journal Articles and Automatically Tweeting Them](https://github.com/aurielfournier/wilson_ornithological_society_tweets) - (aurielfournier.github.io)
 
 
 ###  Videos and Podcasts
