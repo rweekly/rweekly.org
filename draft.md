@@ -9,7 +9,33 @@ Release Date: 2018-5-28
 
 ###  Highlight
 
++ [April 2018: "Top 40" New Packages](https://rviews.rstudio.com/2018/05/24/april-2018-top-40-new-packages/)
 
++ [ggplot2 2.3.0 — upcoming release](https://www.tidyverse.org/articles/2018/05/ggplot2-2-3-0/)
+
+### Insights
+
++ [Reflections on the ROpenSci Unconference](http://blog.revolutionanalytics.com/2018/05/reflections-on-the-ropensci-unconference.html)
+
++ [My eRum 2018 biggest highlights](https://petolau.github.io/eRum-2018-my-view/)
+
++ [taxize: seven years of taxonomy in R](https://ropensci.org/technotes/2018/05/23/taxize-seven-years/)
+
++ [Context Compatibility in Data Analysis](https://simplystatistics.org/2018/05/24/context-compatibility-in-data-analysis/)
+
++ [Calculating New/Returning Students with Factors and dplyr](https://daranzolin.github.io//articles/2018-05/new-student-ratio)
+
++ [R/exams @ eRum 2018](http://www.R-exams.org/general/erum2018/)
+
++ [ggplot2 2.3.0 — upcoming release](https://www.tidyverse.org/articles/2018/05/ggplot2-2-3-0/)
+
+### R in the Real World
+
++ [An Analysis of Texas High School Academic Competition Results, Part 1 - Introduction](https://tonyelhabr.rbind.io/posts/analysis-texas-high-school-academics-intro/)
+
++ [Animate your Strava activities in R using rStrava and gganimate](https://padpadpadpad.github.io/post/animate-your-strava-activities-using-rstrava-and-gganimate/)
+
+![Animate your Strava activities in R using rStrava and gganimate](https://cdn.rawgit.com/rweekly/image/91c80efe/2018/e4.gif)
 
 ###  New Packages
 
@@ -17,11 +43,9 @@ Release Date: 2018-5-28
 
 **CRAN**
 
-
 + [April 2018: "Top 40" New Packages](https://rviews.rstudio.com/2018/05/24/april-2018-top-40-new-packages/)
 
 + [vcr: record and replay HTTP requests](https://ropensci.org/technotes/2018/05/25/vcr-http-request-cacahing/)
-
 
 
 **BioC**
@@ -31,22 +55,13 @@ Release Date: 2018-5-28
 
 + [altair](https://vegawidget.rbind.io/post/2018-05-20-introducing-altair/) - R interface to 'Altair'
 
+![altair](https://raw.githubusercontent.com/rweekly/image/master/2018/altair.png)
+
 ### Package Releases
 
 + [Rcpp 0.12.17: More small updates](http://dirk.eddelbuettel.com/blog/2018/05/20#rcpp_0.12.17)
 
 + [RcppGSL 0.3.5](http://dirk.eddelbuettel.com/blog/2018/05/19#rcppgsl_0.3.5)
-
-
-
-
-### R in the Real World
-
-
-+ [An Analysis of Texas High School Academic Competition Results, Part 1 - Introduction](https://tonyelhabr.rbind.io/posts/analysis-texas-high-school-academics-intro/)
-
-+ [Animate your Strava activities in R using rStrava and gganimate](https://padpadpadpad.github.io/post/animate-your-strava-activities-using-rstrava-and-gganimate/)
-
 
 
 
@@ -65,26 +80,6 @@ Release Date: 2018-5-28
 
 
 
-### Insights
-
-+ [ggplot2 2.3.0 — upcoming release](https://www.tidyverse.org/articles/2018/05/ggplot2-2-3-0/)
-
-+ [Reflections on the ROpenSci Unconference](http://blog.revolutionanalytics.com/2018/05/reflections-on-the-ropensci-unconference.html)
-
-
-+ [My eRum 2018 biggest highlights](https://petolau.github.io/eRum-2018-my-view/)
-
-
-+ [taxize: seven years of taxonomy in R](https://ropensci.org/technotes/2018/05/23/taxize-seven-years/)
-
-
-+ [Context Compatibility in Data Analysis](https://simplystatistics.org/2018/05/24/context-compatibility-in-data-analysis/)
-
-
-+ [Calculating New/Returning Students with Factors and dplyr](https://daranzolin.github.io//articles/2018-05/new-student-ratio)
-
-+ [R/exams @ eRum 2018](http://www.R-exams.org/general/erum2018/)
-
 ### Gist & Cookbook
 
 
@@ -101,18 +96,19 @@ Release Date: 2018-5-28
 ###  Tutorials
 
 
++ [Draw colored pencil maps with R.](https://rgeomatic.hypotheses.org/1333)
+
+![Draw colored pencil maps with R.](https://raw.githubusercontent.com/rweekly/image/master/2018/pencil.png)
+
 + [Create Code Metrics with cloc](https://rud.is/b/2018/05/19/create-code-metrics-with-cloc/)
 
 + [Video: speeding up R with parallel programming in the cloud](http://blog.revolutionanalytics.com/2018/05/video-speeding-up-r-foreach.html)
-
 
 + [This guide has basic to advanced levels of charts & graphs useful to display the data using R Programming.](https://www.tatvic.com/blog/7-visualizations-learn-r/)
 
 + [Circluar plots in R and adding images.](https://drmowinckels.io/blog/circluar-plots-in-r-and-adding-images/)
 
-+ [Draw colored pencil maps with R.](https://rgeomatic.hypotheses.org/1333)
-
-
+![Circluar plots in R and adding images.](https://raw.githubusercontent.com/rweekly/image/master/2018/circular.png)
 
 + [How to use an R interface with Airtable API](https://itsalocke.com/blog/how-to-use-an-r-interface-with-airtable-api/)
 
@@ -121,8 +117,6 @@ Release Date: 2018-5-28
 + [Learning R vs Learning a Spoken Language](http://www.dsup.org/blog/learning-r-vs-learning-a-spoken-language/)
 
 + [sample_n_of(): a useful helper function](https://tjmahr.github.io/sample-n-groups/)
-
-+ [Safe Disposal of Unexploded WWII Bombs](http://staff.math.su.se/hoehle/blog/2018/05/21/uxb.html)
 
 + [How Many Factors to Retain in Factor Analysis](https://neuropsychology.github.io/psycho.R/2018/05/24/n_factors.html)
 
