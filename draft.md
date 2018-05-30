@@ -31,6 +31,7 @@ Release Date: 2018-6-4
 **GitHub or Bitbucket**
 
 + [freebase : A 'usethis'-like Package for Base Pseudo-equivalents of 'tidyverse' Code](https://github.com/hrbrmstr/freebase)
++ [randquotes:  Get Random quotes from Quotes on Design API](https://github.com/amrrs/randquotes)
 
 
 ### Package Releases
