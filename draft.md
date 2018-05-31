@@ -40,6 +40,11 @@ Release Date: 2018-6-4
 
 
 
+### R in the Real World
+
++ [Harry Potter and rankings with comperank: Ranking Harry Potter books with {comperank} package](http://www.questionflow.org/2018/05/31/harry-potter-and-rankings-with-comperank/)
+
+
 ###  R in Academia
 
 
