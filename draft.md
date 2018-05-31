@@ -75,6 +75,9 @@ Release Date: 2018-6-4
 
 + [ Take Screenshot of Webpage using R](https://www.listendata.com/2018/05/take-screenshot-of-webpage-using-r.html)
 
++ [Choosing the Right Center of Projection For Your Map](http://seasmith.github.io/blog/choosing_the_right_center_of_projection/)
+
+![](http://seasmith.github.io/blog/choosing_the_right_center_of_projection_files/figure-html/first-image-1.png)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
