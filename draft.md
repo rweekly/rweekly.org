@@ -22,7 +22,9 @@ Release Date: 2018-6-4
 
 **CRAN**
 
++ [comperes: Manage Competition Results](https://CRAN.R-project.org/package=comperes)
 
++ [comperank: Ranking Methods for Competition Results](https://CRAN.R-project.org/package=comperank)
 
 
 **BioC**
@@ -36,6 +38,11 @@ Release Date: 2018-6-4
 ### Package Releases
 
 
+
+
+### R in the Real World
+
++ [Harry Potter and rankings with comperank: Ranking Harry Potter books with {comperank} package](http://www.questionflow.org/2018/05/31/harry-potter-and-rankings-with-comperank/)
 
 
 ###  R in Academia
