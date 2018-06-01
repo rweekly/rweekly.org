@@ -142,3 +142,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> — I just discovered the &quot;Rename in scope&quot; option from <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a>, that allows you to rename all the variables with the same name (and just the variables) from a script in just one shot 😱<br>[How to]<br>- Select a variable <br>- Go to: Code &gt; Rename in scope<br>- Rename 🎉 <a href="https://t.co/AJFEHpFGQb">pic.twitter.com/AJFEHpFGQb</a></p>&mdash; Colin Fay (@_ColinFay) <a href="https://twitter.com/_ColinFay/status/1001724601959886851?ref_src=twsrc%5Etfw">May 30, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Serious shoutout to <a href="https://twitter.com/cascadiarconf?ref_src=twsrc%5Etfw">@cascadiarconf</a> - the only tech conference I’ve ever seen that has built-in childcare and lactation rooms. <br><br>Everyone else:<br>Get 👏 on 👏 their 👏 level 👏 👏 👏</p>&mdash; heatheronormative (@heatherklus) <a href="https://twitter.com/heatherklus/status/999792828359176193?ref_src=twsrc%5Etfw">May 24, 2018</a></blockquote>
