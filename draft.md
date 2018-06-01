@@ -45,6 +45,7 @@ Release Date: 2018-6-4
 
 + [Harry Potter and rankings with comperank: Ranking Harry Potter books with {comperank} package](http://www.questionflow.org/2018/05/31/harry-potter-and-rankings-with-comperank/)
 
++ [Visualizing crochet circles and spirals with {ggplot2} package](http://data-chips.com/2018/05/29/crocheting-and-plotting-spirals/)
 
 ###  R in Academia
 
