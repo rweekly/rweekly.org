@@ -14,6 +14,10 @@ Release Date: 2018-6-4
 ### Insights
 
 
++ [Tips For Applying To Data Science Jobs](https://robinsones.github.io/Tips-for-Applying-to-Data-Science-Jobs/)
+
+
++ [The Power of Standards and Consistency](https://rud.is/b/2018/05/26/the-power-of-standards-and-consistency/)
 
 
 ###  New Packages
@@ -33,12 +37,17 @@ Release Date: 2018-6-4
 **GitHub or Bitbucket**
 
 + [freebase : A 'usethis'-like Package for Base Pseudo-equivalents of 'tidyverse' Code](https://github.com/hrbrmstr/freebase)
+
 + [randquotes:  Get Random quotes from Quotes on Design API](https://github.com/amrrs/randquotes)
 
++ [Serve your dataset in RStudio Connection Pane with {fryingpane}](https://colinfay.me/frying-pane/)
 
 ### Package Releases
 
 
++ [WVPlots now at version 1.0.0 on CRAN!](http://www.win-vector.com/blog/2018/05/wvplots-now-at-version-1-0-0-on-cran/)
+
++ [Exploring R Packages with cranly](https://rviews.rstudio.com/2018/05/31/exploring-r-packages/)
 
 
 ### R in the Real World
@@ -46,6 +55,28 @@ Release Date: 2018-6-4
 + [Harry Potter and rankings with comperank: Ranking Harry Potter books with {comperank} package](http://www.questionflow.org/2018/05/31/harry-potter-and-rankings-with-comperank/)
 
 + [Visualizing crochet circles and spirals with {ggplot2} package](http://data-chips.com/2018/05/29/crocheting-and-plotting-spirals/)
+
++ [Planning your UCSC Extension Program Schedule with Web Scraping and the tidyverse](https://daranzolin.github.io//articles/2018-05/extension-scraping-program-planning)
+
+
++ [Visualization of week 1 of the CrossFit regionals. Data scraped, wrangled, and plotted using R.](https://www.landonlehman.com/post/2018-05-30-regionals-2018-week-1/)
+
++ [Probabilistic forecast of the 2018 FIFA World Cup result](https://eeecon.uibk.ac.at/~zeileis/news/fifa2018/)
+
+
++ [visualization of Hogwarts House mentions in every Harry Potter book](https://twitter.com/christinezhang/status/1000188704907059200)
+
++ [Visualizing the toughest sports in R](https://medium.com/@yanhann10/which-sport-is-the-toughest-of-it-all-2749688fbfc3)
+
++ [R package tiobeindexr to get the list of popular programming languages and some other data published by TIOBE Programming Community.](https://datascienceplus.com/get-popular-programming-languages-from-tiobe-index-using-r/)
+
++ [User authentication and usage statistics in Shiny apps with shiny.users and shiny.admin packages from Appsilon Data Science.](https://appsilondatascience.com/blog/rstats/2018/05/30/user-authentication-in-r-shiny.html)
+
+
++ [Plot Pie Charts of Tuna Landed Catch Composition on a Map in R](http://jethroemmanuel.netlify.com/2018/05/30/plot-pie-chart-tuna-landed-catch-map-in-r/)
+
++ [Harry Potter and rankings with comperank](http://www.questionflow.org/2018/05/31/harry-potter-and-rankings-with-comperank/)
+
 
 ###  R in Academia
 
@@ -55,6 +86,9 @@ Release Date: 2018-6-4
 
 + [Scraping Journal Articles and Automatically Tweeting Them](https://github.com/aurielfournier/wilson_ornithological_society_tweets) - (aurielfournier.github.io)
 
++ [Public Data Release of Stack Overflow's 2018 Developer Survey](https://juliasilge.com/blog/stack-survey-2018/)
+
++ [Geocomputation with R: workshop at eRum](http://r-spatial.org//r/2018/05/31/geocompr-erum.html)
 
 ###  Videos and Podcasts
 
@@ -68,10 +102,16 @@ Release Date: 2018-6-4
 
 ###  R in Organizations
 
++ [Announcing the R Consortium ISC Funded Project grant recipients for Spring 2018](https://www.r-consortium.org/announcement/2018/05/29/announcing-the-r-consortium-isc-funded-project-grant-recipients-for-spring-2018)
 
++ [Ceci n'est pas un conf, 🎬✌️](https://maraaverick.rbind.io/2018/05/ceci-n-est-pas-un-conf-take-two/)
+
++ [rOpenSci unconference 2018 introduction to TensorFlow Probability & the greta package](https://shirinsplayground.netlify.com/2018/05/ropensci_unconf18/)
 
 ### R Internationally
 
+
++ [An online grimoire **in French** about inferential statistics with R, using fantasy-related datasets and illustrations, and the Tidyverse. ](https://perso.ens-lyon.fr/lise.vaudor/grimoireStat/_book/intro.html)
 
 
 ###  Tutorials
@@ -90,6 +130,43 @@ Release Date: 2018-6-4
 
 + [Summertime Fun! Graphs with LaCroixColoR, Magick Animations + More!](https://www.littlemissdata.com/blog/lacroix)
 
++ [Extract the most important sentences from an article of text](https://www.brucemeng.ca/project/autosmry/)
+
+![Extract the most important sentences from an article of text](https://www.brucemeng.ca/img/autotext/autoSmry.ext.demo.fs.70.lossy.funny.v051718.gif)
+
++ [Describes how to produce a set of graphics and perform the associated statistical tests that describe trends in daily streamflow at a single streamgage.](https://owi.usgs.gov/blog/Quantile-Kendall/)
+
++ [Testing R web app autoSmry against several movie plot lines, a novel plot, and a couple of websites.](https://www.brucemeng.ca/post/autosmry-test/)
+
++ [An introduction to popular recommender systems in 2018](https://tryolabs.com/blog/introduction-to-recommender-systems/)
+
++ [How to rank the 32 teams in the 2018 FIFA World Cup with R and the 'elo' package](https://edomt.github.io/Elo-R-WorldCup/)
+
++ [Data pseudonymization in R](https://www.lillemets.ee/data_pseudonymization_in_r.html)
+
++ [Auto text summarization (autoSmry)](https://www.brucemeng.ca/post/autosmry-test/)
+
+
++ [The Best Rstudio Snippet Ever!](https://rtask.thinkr.fr/blog/the-best-rstudio-snippet-ever/)
+
++ [The Fix Is In: Finding infix functions inside contributed R package "utilities" files](https://rud.is/b/2018/05/29/the-fix-is-in-finding-infix-functions-inside-contributed-r-package-utilities-files/)
+
++ [[How-to] Share content between several R6 instances](https://rtask.thinkr.fr/blog/share-content-between-several-r6-instances/)
+
++ [Scico and the Colour Conundrum](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)
+
++ [OS Secrets Exposed: Extracting Extended File Attributes and Exploring Hidden Download URLs With The xattrs Package](https://rud.is/b/2018/05/30/os-secrets-exposed-extracting-extended-file-attributes-and-exploring-hidden-download-urls-with-the-xattrs-package/)
+
++ [Demystifying life expectancy calculations by @ellis2013nz](http://freerangestats.info/blog/2018/05/31/life-expectancy)
+
++ [A crystal clear book draw](https://itsalocke.com/blog/a-crystal-clear-book-draw/)
+
++ [simpler SQL with dplyr ](https://www.johnmackintosh.com/2018-06-01-dplyr-for-the-win/)
+
++ [Talking about clinical significance](http://www.win-vector.com/blog/2018/06/talking-about-clinical-significance/)
+
++ [StatCheck the Game](http://blog.revolutionanalytics.com/2018/06/statcheck-the-game.html)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 
@@ -104,30 +181,18 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ R/Finance 2018 **June 1 and 2** <br />
-[Applied Finance with R](http://www.rinfinance.com).
-
-+ [CascadiaRConf](https://cascadiarconf.com/) **June 2**
-Portland, OR, US
-
 + [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />
 Rennes - Agrocampus
 
 + [useR! 2018](https://user2018.r-project.org/) **July 10** <br />
 The annual useR! conference is the main meeting of the international R user and developer community.
 
-<!--
-
 + [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />
 Buenos Aires, Argentina.
 
--->
-
-More upcoming events the week of June 4 at [community.rstudio.com](https://community.rstudio.com/t/upcoming-r-community-events-week-of-2018-06-04/9079).
+[This week's local R-User and applied stats events (week of 2018-06-04)](https://community.rstudio.com/t/upcoming-r-community-events-week-of-2018-06-04/9079)
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
-
-
 
 ### Datasets
 
