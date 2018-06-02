@@ -167,6 +167,8 @@ Release Date: 2018-6-4
 
 + [StatCheck the Game](http://blog.revolutionanalytics.com/2018/06/statcheck-the-game.html)
 
++ [Three Ways of Visualizing a Graph on a Map](https://datascience.blog.wzb.eu/2018/05/31/three-ways-of-visualizing-a-graph-on-a-map/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 
@@ -213,3 +215,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> — I just discovered the &quot;Rename in scope&quot; option from <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a>, that allows you to rename all the variables with the same name (and just the variables) from a script in just one shot 😱<br>[How to]<br>- Select a variable <br>- Go to: Code &gt; Rename in scope<br>- Rename 🎉 <a href="https://t.co/AJFEHpFGQb">pic.twitter.com/AJFEHpFGQb</a></p>&mdash; Colin Fay (@_ColinFay) <a href="https://twitter.com/_ColinFay/status/1001724601959886851?ref_src=twsrc%5Etfw">May 30, 2018</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Serious shoutout to <a href="https://twitter.com/cascadiarconf?ref_src=twsrc%5Etfw">@cascadiarconf</a> - the only tech conference I’ve ever seen that has built-in childcare and lactation rooms. <br><br>Everyone else:<br>Get 👏 on 👏 their 👏 level 👏 👏 👏</p>&mdash; heatheronormative (@heatherklus) <a href="https://twitter.com/heatherklus/status/999792828359176193?ref_src=twsrc%5Etfw">May 24, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I started with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> before the <a href="https://twitter.com/tidyverse?ref_src=twsrc%5Etfw">@tidyverse</a> was really a thing and mostly switched to <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> except for a few specific uses. Relearning R now is like finding out someone did a secret makeover of my apartment and now I live in a castle.</p>&mdash; Jacob Deppen (@jacob_deppen) <a href="https://twitter.com/jacob_deppen/status/1002308592970526720?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Make <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> easily  Try our new <a href="https://twitter.com/hashtag/RStudio?src=hash&amp;ref_src=twsrc%5Etfw">#RStudio</a> addin 🤗! Feedbacks are welcome ! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/U1dT2zPFND">https://t.co/U1dT2zPFND</a> <a href="https://t.co/WnpbjoL8rx">pic.twitter.com/WnpbjoL8rx</a></p>&mdash; dreamRs (@dreamRs_fr) <a href="https://twitter.com/dreamRs_fr/status/1001499805867302913?ref_src=twsrc%5Etfw">May 29, 2018</a></blockquote>
+
