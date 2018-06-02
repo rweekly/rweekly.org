@@ -88,6 +88,8 @@ Release Date: 2018-6-4
 
 ![](http://seasmith.github.io/blog/choosing_the_right_center_of_projection_files/figure-html/first-image-1.png)
 
++ [Summertime Fun! Graphs with LaCroixColoR, Magick Animations + More!](https://www.littlemissdata.com/blog/lacroix)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 
