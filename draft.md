@@ -14,7 +14,7 @@ Release Date: 2018-6-4
 ### Insights
 
 
-+ [Tips For Applying To Data Science Jobs](https://robinsones.github.io/Tips-for-Applying-to-Data-Science-Jobs/)
++ [Tips For Applying To Data Science Jobs](https://robinsones.github.io/Advice-for-Applying-to-Data-Science-Jobs/)
 
 
 + [The Power of Standards and Consistency](https://rud.is/b/2018/05/26/the-power-of-standards-and-consistency/)
