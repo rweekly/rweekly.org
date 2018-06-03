@@ -116,6 +116,8 @@ Release Date: 2018-6-4
 
 ###  Tutorials
 
++ [Animating a Monte Carlo Simulation](https://roh.engineering/post/animating-a-monte-carlo-simulation/)
+
  + [[How-to] Share content between several R6 instances](https://rtask.thinkr.fr/blog/share-content-between-several-r6-instances/)
 
 + [The Fix Is In: Finding infix functions inside contributed R package “utilities” files](https://rud.is/b/2018/05/29/the-fix-is-in-finding-infix-functions-inside-contributed-r-package-utilities-files/)
