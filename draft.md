@@ -13,7 +13,6 @@ Release Date: 2018-6-4
 
 ### Insights
 
-
 + [Advice For Applying To Data Science Jobs](http://hookedondata.org/Advice-for-Applying-to-Data-Science-Jobs/)
 
 
