@@ -9,15 +9,9 @@ Release Date: 2018-6-4
 
 ###  Highlight
 
-
-
-### Insights
-
 + [Advice For Applying To Data Science Jobs](http://hookedondata.org/Advice-for-Applying-to-Data-Science-Jobs/)
 
-
-+ [The Power of Standards and Consistency](https://rud.is/b/2018/05/26/the-power-of-standards-and-consistency/)
-
++ [Announcing the R Consortium ISC Funded Project grant recipients for Spring 2018](https://www.r-consortium.org/announcement/2018/05/29/announcing-the-r-consortium-isc-funded-project-grant-recipients-for-spring-2018)
 
 ###  New Packages
 
@@ -39,15 +33,18 @@ Release Date: 2018-6-4
 
 + [randquotes:  Get Random quotes from Quotes on Design API](https://github.com/amrrs/randquotes)
 
-+ [Serve your dataset in RStudio Connection Pane with {fryingpane}](https://colinfay.me/frying-pane/)
-
 ### Package Releases
 
++ [WVPlots 1.0.0](http://www.win-vector.com/blog/2018/05/wvplots-now-at-version-1-0-0-on-cran/) - Common Plots for Analysis
 
-+ [WVPlots now at version 1.0.0 on CRAN!](http://www.win-vector.com/blog/2018/05/wvplots-now-at-version-1-0-0-on-cran/)
+![WVPlots 1.0.0](https://i1.wp.com/www.win-vector.com/blog/wp-content/uploads/2018/05/unnamed-chunk-4-1.png?zoom=3&resize=288%2C288)
 
-+ [Exploring R Packages with cranly](https://rviews.rstudio.com/2018/05/31/exploring-r-packages/)
+### Insights
 
++ [Advice For Applying To Data Science Jobs](http://hookedondata.org/Advice-for-Applying-to-Data-Science-Jobs/)
+
+
++ [The Power of Standards and Consistency](https://rud.is/b/2018/05/26/the-power-of-standards-and-consistency/)
 
 ### R in the Real World
 
@@ -62,12 +59,17 @@ Release Date: 2018-6-4
 
 + [Probabilistic forecast of the 2018 FIFA World Cup result](https://eeecon.uibk.ac.at/~zeileis/news/fifa2018/)
 
+![Probabilistic forecast of the 2018 FIFA World Cup result](https://raw.githubusercontent.com/rweekly/image/master/2018/fifa.png)
 
-+ [visualization of Hogwarts House mentions in every Harry Potter book](https://twitter.com/christinezhang/status/1000188704907059200)
++ [Exploring R Packages with cranly](https://rviews.rstudio.com/2018/05/31/exploring-r-packages/)
+
+![Exploring R Packages with cranly](https://raw.githubusercontent.com/rweekly/image/master/2018/cranly.png)
 
 + [Visualizing the toughest sports in R](https://medium.com/@yanhann10/which-sport-is-the-toughest-of-it-all-2749688fbfc3)
 
 + [R package tiobeindexr to get the list of popular programming languages and some other data published by TIOBE Programming Community.](https://datascienceplus.com/get-popular-programming-languages-from-tiobe-index-using-r/)
+
+![R package tiobeindexr to get the list of popular programming languages and some other data published by TIOBE Programming Community.](https://raw.githubusercontent.com/rweekly/image/master/2018/Programming_rank_change.png)
 
 + [User authentication and usage statistics in Shiny apps with shiny.users and shiny.admin packages from Appsilon Data Science.](https://appsilondatascience.com/blog/rstats/2018/05/30/user-authentication-in-r-shiny.html)
 
@@ -123,32 +125,26 @@ Release Date: 2018-6-4
 
 + [Choosing the Right Center of Projection For Your Map](http://seasmith.github.io/blog/choosing_the_right_center_of_projection/)
 
-![](http://seasmith.github.io/blog/choosing_the_right_center_of_projection_files/figure-html/first-image-1.png)
+![Choosing the Right Center of Projection For Your Map](https://seasmith.github.io/blog/choosing_the_right_center_of_projection_files/figure-html/first-image-1.png)
 
 + [Summertime Fun! Graphs with LaCroixColoR, Magick Animations + More!](https://www.littlemissdata.com/blog/lacroix)
 
 + [Extract the most important sentences from an article of text](https://www.brucemeng.ca/project/autosmry/)
 
-![Extract the most important sentences from an article of text](https://www.brucemeng.ca/img/autotext/autoSmry.ext.demo.fs.70.lossy.funny.v051718.gif)
 
 + [Describes how to produce a set of graphics and perform the associated statistical tests that describe trends in daily streamflow at a single streamgage.](https://owi.usgs.gov/blog/Quantile-Kendall/)
-
-+ [Testing R web app autoSmry against several movie plot lines, a novel plot, and a couple of websites.](https://www.brucemeng.ca/post/autosmry-test/)
 
 + [How to rank the 32 teams in the 2018 FIFA World Cup with R and the 'elo' package](https://edomt.github.io/Elo-R-WorldCup/)
 
 + [Data pseudonymization in R](https://www.lillemets.ee/data_pseudonymization_in_r.html)
 
-+ [Auto text summarization (autoSmry)](https://www.brucemeng.ca/post/autosmry-test/)
-
-
 + [The Best Rstudio Snippet Ever!](https://rtask.thinkr.fr/blog/the-best-rstudio-snippet-ever/)
 
 + [The Fix Is In: Finding infix functions inside contributed R package "utilities" files](https://rud.is/b/2018/05/29/the-fix-is-in-finding-infix-functions-inside-contributed-r-package-utilities-files/)
 
-+ [[How-to] Share content between several R6 instances](https://rtask.thinkr.fr/blog/share-content-between-several-r6-instances/)
-
 + [Scico and the Colour Conundrum](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)
+
+![Scico and the Colour Conundrum](https://www.data-imaginist.com/post/2018-05-30-scico-and-the-colour-conundrum_files/figure-html/unnamed-chunk-2-1.png)
 
 + [OS Secrets Exposed: Extracting Extended File Attributes and Exploring Hidden Download URLs With The xattrs Package](https://rud.is/b/2018/05/30/os-secrets-exposed-extracting-extended-file-attributes-and-exploring-hidden-download-urls-with-the-xattrs-package/)
 
