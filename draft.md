@@ -14,7 +14,7 @@ Release Date: 2018-6-4
 ### Insights
 
 
-+ [Tips For Applying To Data Science Jobs](https://robinsones.github.io/Tips-for-Applying-to-Data-Science-Jobs/)
++ [Advice For Applying To Data Science Jobs](http://hookedondata.org/Advice-for-Applying-to-Data-Science-Jobs/)
 
 
 + [The Power of Standards and Consistency](https://rud.is/b/2018/05/26/the-power-of-standards-and-consistency/)
@@ -74,8 +74,6 @@ Release Date: 2018-6-4
 
 
 + [Plot Pie Charts of Tuna Landed Catch Composition on a Map in R](http://jethroemmanuel.netlify.com/2018/05/30/plot-pie-chart-tuna-landed-catch-map-in-r/)
-
-+ [Harry Potter and rankings with comperank](http://www.questionflow.org/2018/05/31/harry-potter-and-rankings-with-comperank/)
 
 
 ###  R in Academia
@@ -138,8 +136,6 @@ Release Date: 2018-6-4
 
 + [Testing R web app autoSmry against several movie plot lines, a novel plot, and a couple of websites.](https://www.brucemeng.ca/post/autosmry-test/)
 
-+ [An introduction to popular recommender systems in 2018](https://tryolabs.com/blog/introduction-to-recommender-systems/)
-
 + [How to rank the 32 teams in the 2018 FIFA World Cup with R and the 'elo' package](https://edomt.github.io/Elo-R-WorldCup/)
 
 + [Data pseudonymization in R](https://www.lillemets.ee/data_pseudonymization_in_r.html)
@@ -164,8 +160,6 @@ Release Date: 2018-6-4
 + [simpler SQL with dplyr ](https://www.johnmackintosh.com/2018-06-01-dplyr-for-the-win/)
 
 + [Talking about clinical significance](http://www.win-vector.com/blog/2018/06/talking-about-clinical-significance/)
-
-+ [StatCheck the Game](http://blog.revolutionanalytics.com/2018/06/statcheck-the-game.html)
 
 + [Three Ways of Visualizing a Graph on a Map](https://datascience.blog.wzb.eu/2018/05/31/three-ways-of-visualizing-a-graph-on-a-map/)
 
