@@ -80,6 +80,8 @@ Release Date: 2018-6-4
 
 + [Animating a Monte Carlo Simulation](https://roh.engineering/post/animating-a-monte-carlo-simulation/)
 
++ [The Potential Dangers of Using 'Depends'](https://github.com/leeper/Depends)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 
