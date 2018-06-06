@@ -20,6 +20,7 @@ Release Date: 2018-6-4
 **CRAN**
 
 
+* [`ssh`](https://cran.r-project.org/web/packages/ssh/vignettes/intro.html), Secure Shell (SSH) Client for R.
 
 
 **BioC**
