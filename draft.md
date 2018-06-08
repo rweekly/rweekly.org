@@ -28,7 +28,7 @@ Release Date: 2018-6-4
 
 **GitHub or Bitbucket**
 
-
+* [`blogyaml`](https://github.com/ropenscilabs/blogyaml), batch edit tags of Markdown based blog posts.
 
 
 ### Package Releases
