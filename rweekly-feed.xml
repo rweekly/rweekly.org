@@ -23,7 +23,7 @@ layout: null
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">
    &lt;p&gt;Hello and welcome to this new issue!&lt;/p&gt;
-   &lt;p&gt;&lt;a href=&quot;{{ site.url }}{{ site.baseurl }}{{ post.url }}&quot;&gt;  🔗 Read this issue on RWeekly.org &lt;/a&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;a href=&quot;{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rbloggers&amp;utm_campaign={{ post.url }}&quot;&gt;  🔗 Read this issue on RWeekly.org &lt;/a&gt;&lt;/p&gt;
    {{ post.excerpt | xml_escape }}
   &lt;img src=&quot;https://web.rweekly.org/js/index.php?idsite=1&amp;rec=1&quot; style=&quot;border:0&quot; alt=&quot;&quot; /&gt;
    </content>
