@@ -9,9 +9,15 @@ Release Date: 2018-6-4
 
 ###  Highlight
 
++ [Unconf18 projects](https://ropensci.org/blog/2018/06/08/unconf_recap_4/) - [1](https://ropensci.org/blog/2018/06/07/unconf_recap_1/), [2](https://ropensci.org/blog/2018/06/07/unconf_recap_2/), [3](https://ropensci.org/blog/2018/06/07/unconf_recap_3/), [4](https://ropensci.org/blog/2018/06/07/unconf_recap_4/)
 
++ [On conduct and diversity in the R Community](https://www.r-consortium.org/announcement/2018/06/07/on-conduct-and-diversity-in-the-r-community)
 
++ [.rprofile: Julia Silge](https://ropensci.org/blog/2018/06/08/rprofile-julia-silge/)
 
++ [conflicted](https://www.tidyverse.org/articles/2018/06/conflicted/) - a new approach to resolving ambiguity
+
++ [Dockerise and deploy your own R Archive Repo](https://rtask.thinkr.fr/blog/dockerise-and-deploy-your-own-r-archive-repo/)
 
 ###  New Packages
 
@@ -21,24 +27,26 @@ Release Date: 2018-6-4
 
 + [conflicted](https://www.tidyverse.org/articles/2018/06/conflicted/) - a new approach to resolving ambiguity
 
-* [`ssh`](https://cran.r-project.org/web/packages/ssh/vignettes/intro.html), Secure Shell (SSH) Client for R.
+* [ssh](https://cran.r-project.org/web/packages/ssh/vignettes/intro.html) - Secure Shell (SSH) Client for R.
 
-+ [New R package xplain: Providing interactive interpretations and explanations of statistical results](https://topics-in-r.blogspot.com/2018/05/new-r-package-xplain-providing.html)
++ [xplain](https://topics-in-r.blogspot.com/2018/05/new-r-package-xplain-providing.html) - Interactive interpretations and explanations of statistical results
 
 **BioC**
 
 
 **GitHub or Bitbucket**
 
-* [`blogyaml`](https://github.com/ropenscilabs/blogyaml), batch edit tags of Markdown based blog posts.
+* [blogyaml](https://github.com/ropenscilabs/blogyaml) - batch edit tags of Markdown based blog posts.
 
-+ [rqdatatable: rquery Powered by data.table](http://www.win-vector.com/blog/2018/06/rqdatatable-rquery-powered-by-data-table/)
++ [rqdatatable](http://www.win-vector.com/blog/2018/06/rqdatatable-rquery-powered-by-data-table/) - rquery Powered by data.table
 
 ### Package Releases
 
-+ [huxtable 4.0.0 is out](https://hughjonesd.github.io/huxtable/)
++ [huxtable](https://hughjonesd.github.io/huxtable/) -  creating HTML and LaTeX tables
 
-+ [pinp 0.0.5: Accomodate pandoc 2.*](http://dirk.eddelbuettel.com/blog/2018/06/08#pinp_0.0.5)
++ [pinp 0.0.5](http://dirk.eddelbuettel.com/blog/2018/06/08#pinp_0.0.5) - Accomodate pandoc 2.*
+
+![pinp 0.0.5](https://raw.githubusercontent.com/rweekly/image/master/2018/pinp.png)
 
 + [Microsoft R Open 3.5.0 now available](http://blog.revolutionanalytics.com/2018/06/microsoft-r-open-350-now-available.html)
 
@@ -57,9 +65,11 @@ Release Date: 2018-6-4
 
 + [Fair is foul, and foul is fair: a tidytext sentiment analysis of Shakespeare's tragedies](https://peerchristensen.netlify.com/post/fair-is-foul-and-foul-is-fair-a-tidytext-entiment-analysis-of-shakespeare-s-tragedies/)
 
+![Fair is foul](https://raw.githubusercontent.com/rweekly/image/master/2018/book-18.png)
 
 + [Hello, Dorling! (Creating Dorling Cartograms from R Spatial Objects + Introducing Prism Skeleton)](https://rud.is/b/2018/06/03/hello-dorling-creating-dorling-cartograms-from-r-spatial-objects-introducing-prism-skeleton/)
 
+![Hello, Dorling!](https://raw.githubusercontent.com/rweekly/image/master/2018/dorling.png)
 
 + [Hand-crafted curation: meta-#SoDS18](https://maraaverick.rbind.io/2018/06/meta-sods18-a-call-to-curation/)
 
@@ -67,6 +77,8 @@ Release Date: 2018-6-4
 + [One Year Anniversary](https://jessesadler.com/post/one-year-reflections/)
 
 + [Making World Tile Grid-Grids](https://rud.is/b/2018/06/07/making-world-tile-grid-grids/)
+
+![Making World Tile Grid-Grids](https://raw.githubusercontent.com/rweekly/image/master/2018/chart2-1.png)
 
 + [Estimating mortality rates in Puerto Rico after hurricane Maria using newly released official death counts](https://simplystatistics.org/2018/06/08/a-first-look-at-recently-released-official-puerto-rico-death-count-data/)
 
@@ -108,9 +120,15 @@ Release Date: 2018-6-4
 
 + [Animating a Monte Carlo Simulation](https://roh.engineering/post/animating-a-monte-carlo-simulation/)
 
+![Animating a Monte Carlo Simulation](https://raw.githubusercontent.com/rweekly/image/master/2018/monte.gif)
+
 + [The Potential Dangers of Using 'Depends'](https://github.com/leeper/Depends)
 
 + [R interface to the Discogs API](https://ewen.io/2018/06/07/discogger-day-one/)
+
+![R interface to the Discogs API](https://cdn.rawgit.com/rweekly/image/master/2018/discogger.svg)
+
+<!--more-->
 
 + [Authorship Attribution with Widyr and Tidytext](http://kanishka.xyz/2018/my-first-few-open-source-contributions-authorship-attribution-of-the-federalist-papers/)
 
