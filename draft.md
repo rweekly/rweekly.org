@@ -52,7 +52,7 @@ Release Date: 2018-6-18
 
 ###  Videos and Podcasts
 
-
++ [DataFramed episode 26 with Jenny Bryan](https://www.datacamp.com/community/podcast/spreadsheets-data-science)
 
 
 ### Gist & Cookbook
