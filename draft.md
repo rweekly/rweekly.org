@@ -1,14 +1,13 @@
 ---
 layout: draft
-title: R Weekly 2018-23
+title: R Weekly 2018-25
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2018-6-4
+Release Date: 2018-6-18
 
 ###  Highlight
-
 
 
 
@@ -20,15 +19,12 @@ Release Date: 2018-6-4
 **CRAN**
 
 
-* [`ssh`](https://cran.r-project.org/web/packages/ssh/vignettes/intro.html), Secure Shell (SSH) Client for R.
-
 
 **BioC**
 
 
 **GitHub or Bitbucket**
 
-* [`blogyaml`](https://github.com/ropenscilabs/blogyaml), batch edit tags of Markdown based blog posts.
 
 
 ### Package Releases
@@ -37,7 +33,6 @@ Release Date: 2018-6-4
 
 
 ### Insights
-
 
 
 
@@ -56,10 +51,9 @@ Release Date: 2018-6-4
 
 + [Bootstrapping and Permutation Testing: A Shiny App](https://mattkmiecik.com/post-Bootstrapping-and-Permutation-Testing-Shiny-App.html)
 
-
 ###  Videos and Podcasts
 
-
++ [DataFramed episode 26 with Jenny Bryan](https://www.datacamp.com/community/podcast/spreadsheets-data-science)
 
 
 ### Gist & Cookbook
@@ -70,18 +64,13 @@ Release Date: 2018-6-4
 ###  R in Organizations
 
 
-
 ### R Internationally
-
-+ [Webスクレーピングから可視化まで、Tidyverseパッケージで探索データ解析（EDA）!](https://ryo-n7.github.io/2018-06-07-global-peace-index-JP/)
 
 
 
 ###  Tutorials
 
-+ [Animating a Monte Carlo Simulation](https://roh.engineering/post/animating-a-monte-carlo-simulation/)
 
-+ [The Potential Dangers of Using 'Depends'](https://github.com/leeper/Depends)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
