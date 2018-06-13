@@ -18,7 +18,7 @@ Release Date: 2018-6-18
 
 **CRAN**
 
-
++ [Package {inplace}: In-place Operators for R](https://cran.r-project.org/package=inplace)
 
 **BioC**
 
@@ -69,7 +69,7 @@ Release Date: 2018-6-18
 
 ###  Tutorials
 
-
++ [Why loops are slow in R](https://privefl.github.io/blog/why-loops-are-slow-in-r/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
