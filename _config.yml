@@ -22,8 +22,8 @@ sass:
 # About/contact
 author:
   name:              R Weekly
-  url:               
-  email:             
+  url:
+  email:
 
 # Custom vars
 version:             2.0.0
@@ -42,3 +42,5 @@ pages_list:
   About: '/about'
   All: '/archive'
   Draft: '/draft'
+
+excerpt_separator: <!--more-->

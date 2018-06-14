@@ -23,7 +23,7 @@ R Weekly @
 
 [Mastodon](https://mastodon.social/@rweekly), [Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org)
 
-[WeChat](/wechat.html), [dev.to()](https://dev.to/rweekly), [LinkedIn](https://www.linkedin.com/company/rweekly)
+[WeChat](/wechat.html), [LinkedIn](https://www.linkedin.com/company/rweekly), [dev.to()](https://dev.to/rweekly), [R-bloggers](https://www.r-bloggers.com)
 
 [Support with Patreon](https://www.patreon.com/rweekly)
 
