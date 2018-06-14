@@ -45,6 +45,8 @@ Release Date: 2018-6-18
 
 ###  R in Academia
 
++ [Data + Art STEAM Project: Initial Results](https://www.littlemissdata.com/blog/steam-data-art1)
+
 
 
 ###  Resources
