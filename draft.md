@@ -76,6 +76,8 @@ Release Date: 2018-6-18
 
 + [Animating mode variability with tidyverse and tweenr](http://www.questionflow.org/2018/06/14/animating-mode-variability-with-tidyverse-and-tweenr/)
 
+![Animating mode variability with tidyverse and tweenr](https://raw.githubusercontent.com/rweekly/image/master/2018/mode-variability.png)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 
