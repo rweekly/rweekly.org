@@ -51,6 +51,7 @@ Release Date: 2018-6-18
 
 ###  Resources
 
++ [Bootstrapping and Permutation Testing: A Shiny App](https://mattkmiecik.com/post-Bootstrapping-and-Permutation-Testing-Shiny-App.html)
 
 ###  Videos and Podcasts
 
