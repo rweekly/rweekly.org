@@ -73,6 +73,8 @@ Release Date: 2018-6-18
 
 + [Why loops are slow in R](https://privefl.github.io/blog/why-loops-are-slow-in-r/)
 
++ [Animating mode variability with tidyverse and tweenr](http://www.questionflow.org/2018/06/14/animating-mode-variability-with-tidyverse-and-tweenr/)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 
