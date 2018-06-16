@@ -49,6 +49,8 @@ ouR data generation
 
 + [People vs. Institutions in Data Analysis](https://simplystatistics.org/2018/06/15/people-vs-institutions-in-data-analysis/)
 
++ [Drinking from the Firehose: using R to keep up with current ML Research - part 1 ](https://www.eokodie.com/blog/drinking-from-the-firehose-using-r-to-keep-up-with-current-ml-research---part-1/)
+
 
 ### R in the Real World
 
@@ -91,6 +93,8 @@ ouR data generation
 + [A newcomer's (angry) guide to R.](http://arrgh.tim-smith.us/)
 
 + [Bootstrapping and Permutation Testing: A Shiny App](https://mattkmiecik.com/post-Bootstrapping-and-Permutation-Testing-Shiny-App.html)
+
++ [Colours & Impact: Resources for Data Visualization with a splash of R](https://www.eokodie.com/blog/colours--impact-resources-for-data-visualization-with-a-splash-of-r/)
 
 ###  Videos and Podcasts
 
