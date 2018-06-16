@@ -47,6 +47,9 @@ ouR data generation
 
 + [R Consortium is soliciting your feedback on R package best practices](https://www.r-consortium.org/uncategorized/2018/06/12/r-consortium-is-soliciting-your-feedback-on-r-package-best-practices)
 
++ [People vs. Institutions in Data Analysis](https://simplystatistics.org/2018/06/15/people-vs-institutions-in-data-analysis/)
+
+
 ### R in the Real World
 
 + [Simple audio classification with Keras](https://tensorflow.rstudio.com/blog/simple-audio-classification-keras.html)
@@ -58,6 +61,7 @@ ouR data generation
 
 + [Using magick, tidyverse and rvest to animate changes in football kits](https://guyabel.com/post/football-kits/)
 
++ [A World Cup 2018 primer, with graphs!](https://austinwehrwein.com/data-visualization/world-cup/)
 
 + [German news media on Twitter. Analysing unique tweets that containing news links.](https://franziloew.github.io/news_tweets/rtweets)
 
@@ -118,6 +122,7 @@ ouR data generation
 
 + [Step-by-step tidy and minimal approach to processing nested JSON data fetched with query URLs directly grabbed from a dashboard via DOM inspector](https://ellocke.github.io/post/r-fetching-json-data-on-the-github-to-gitlab-exodus-from-june-2018/)
 
++ [Interpreting machine learning models with the lime package for R](http://blog.revolutionanalytics.com/2018/06/lime-package.html)
 
 + [Getting data from pdfs using the pdftools package](http://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
 
@@ -133,6 +138,8 @@ ouR data generation
 
 + [Detecting unconscious bias in models, with R](http://blog.revolutionanalytics.com/2018/06/understanding-bias.html)
 
++ [Build httr Functions Automagically from Manual Browser Requests with the middlechild Package](https://rud.is/b/2018/06/15/build-httr-functions-automagically-from-manual-browser-requests-with-the-middlechild-package/)
+
 + [Anomaly Detection in R](https://r-posts.com/anomaly-detection-in-r/)
 
 + [Statistics Sunday: Creating Wordclouds](http://www.deeplytrivial.com/2018/06/statistics-sunday-creating-wordclouds.html)
@@ -140,6 +147,8 @@ ouR data generation
 + [When “learning Python” Becomes “practicing R” (Spoiler)](https://freakonometrics.hypotheses.org/52439)
 
 + [Getting data from pdfs using the pdftools package](http://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
+
++ [R Tip: Be Wary of "…"](http://www.win-vector.com/blog/2018/06/r-tip-be-wary-of/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
