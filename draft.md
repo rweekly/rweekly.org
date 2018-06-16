@@ -79,6 +79,8 @@ ouR data generation
 
 + [Beautiful Visualizations in R](http://www.deeplytrivial.com/2018/06/beautiful-visualizations-in-r.html)
 
++ [Retracing Prenatal Testing Algorithms](http://staff.math.su.se/hoehle/blog/2018/06/14/prc.html)
+
 
 ###  R in Academia
 
@@ -131,8 +133,6 @@ ouR data generation
 + [Late anniversary edition redux: conditional vs marginal models for clustered data](https://www.rdatagen.net/post/mixed-effect-models-vs-gee/)
 
 + [Principal Component Analysis](https://mvaugoyeau.netlify.com/post/principal-component-analysis/)
-
-+ [Retracing Prenatal Testing Algorithms](http://staff.math.su.se/hoehle/blog/2018/06/14/prc.html)
 
 + [Detecting unconscious bias in models, with R](http://blog.revolutionanalytics.com/2018/06/understanding-bias.html)
 
