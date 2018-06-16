@@ -128,8 +128,6 @@ ouR data generation
 
 + [R Tip: use isTRUE()](http://www.win-vector.com/blog/2018/06/r-tip-use-istrue/)
 
-+ [Thoughts on the International Congress of Actuaries 2018](http://ronaldrichman.co.za/2018/06/11/thoughts-on-the-international-congress-of-actuaries-2018/)
-
 + [Late anniversary edition redux: conditional vs marginal models for clustered data](https://www.rdatagen.net/post/mixed-effect-models-vs-gee/)
 
 + [Principal Component Analysis](https://mvaugoyeau.netlify.com/post/principal-component-analysis/)
