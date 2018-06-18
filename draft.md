@@ -9,8 +9,13 @@ Release Date: 2018-6-18
 
 ###  Highlight
 
++ [R Consortium is soliciting your feedback on R package best practices](https://www.r-consortium.org/uncategorized/2018/06/12/r-consortium-is-soliciting-your-feedback-on-r-package-best-practices)
 
++ [Data + Art STEAM Project: Initial Results](https://www.littlemissdata.com/blog/steam-data-art1)
 
++ [A newcomer's (angry) guide to R.](http://arrgh.tim-smith.us/)
+
++ [Getting data from pdfs using the pdftools package](http://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
 
 ###  New Packages
 
@@ -33,17 +38,13 @@ Release Date: 2018-6-18
 
 + [rcheology](https://github.com/hughjonesd/rcheology) - data on functions in base packages for previous versions of R - now includes data for R 3.5.0.
 
-+ [Minor updates for ggseas and Tcomp R packages](http://freerangestats.info/blog/2018/06/15/ggseas-and-tcomp-update)
++ [ggseas](http://freerangestats.info/blog/2018/06/15/ggseas-and-tcomp-update) - 'stats' for Seasonal Adjustment on the Fly with 'ggplot2'
+
 
 
 ### Insights
 
-+ [An ode to King James](https://simplystatistics.org/2018/06/10/an-ode-to-king-james/)
-
 + [R 3.5.0 on Debian and Ubuntu: An Update](http://dirk.eddelbuettel.com/blog/2018/06/11#r_3_5_0_deb_update)
-
-+ [People vs. Institutions in Data Analysis](https://simplystatistics.org/2018/06/15/people-vs-institutions-in-data-analysis/)
-ouR data generation
 
 + [R Consortium is soliciting your feedback on R package best practices](https://www.r-consortium.org/uncategorized/2018/06/12/r-consortium-is-soliciting-your-feedback-on-r-package-best-practices)
 
@@ -54,14 +55,16 @@ ouR data generation
 
 + [Simple audio classification with Keras](https://tensorflow.rstudio.com/blog/simple-audio-classification-keras.html)
 
+![Simple audio classification with Keras](https://upload.wikimedia.org/wikipedia/commons/6/61/FFT-Time-Frequency-View.png)
+
 + [Birding Game of Thrones (by ear): an RShiny app for people who like identifying birds by ear and need an excuse to watch (or rewatch) Game of Thrones. ](https://cbalantic.shinyapps.io/birding-got/)
 
 + [Exploring the Isle of Man TT using R](http://dm13450.github.io/2018/06/12/Isle-of-Man-TT.html)
 
++ [An ode to King James](https://simplystatistics.org/2018/06/10/an-ode-to-king-james/)
 
 + [Using magick, tidyverse and rvest to animate changes in football kits](https://guyabel.com/post/football-kits/)
 
-+ [A World Cup 2018 primer, with graphs!](https://austinwehrwein.com/data-visualization/world-cup/)
 
 + [German news media on Twitter. Analysing unique tweets that containing news links.](https://franziloew.github.io/news_tweets/rtweets)
 
@@ -77,6 +80,10 @@ ouR data generation
 
 + [Working with Your Facebook Data in R](http://www.deeplytrivial.com/2018/06/working-with-your-facebook-data-in-r.html)
 
++ [A World Cup 2018 primer, with graphs!](https://austinwehrwein.com/data-visualization/world-cup/)
+
+![A World Cup 2018 primer, with graphs!](https://austinwehrwein.com/data-visualization/world-cup_files/figure-html/unnamed-chunk-3-1.png)
+
 + [Beautiful Visualizations in R](http://www.deeplytrivial.com/2018/06/beautiful-visualizations-in-r.html)
 
 + [Retracing Prenatal Testing Algorithms](http://staff.math.su.se/hoehle/blog/2018/06/14/prc.html)
@@ -86,7 +93,7 @@ ouR data generation
 
 + [Data + Art STEAM Project: Initial Results](https://www.littlemissdata.com/blog/steam-data-art1)
 
-
+![Data + Art STEAM Project: Initial Results](https://static1.squarespace.com/static/58eef8846a4963e429687a4d/t/5b210938aa4a9940a90e81b0/1528891720603/multiple?format=2500w)
 
 ###  Resources
 
@@ -116,10 +123,6 @@ ouR data generation
 
 + [Why loops are slow in R](https://privefl.github.io/blog/why-loops-are-slow-in-r/)
 
-+ [Animating mode variability with tidyverse and tweenr](http://www.questionflow.org/2018/06/14/animating-mode-variability-with-tidyverse-and-tweenr/)
-
-![Animating mode variability with tidyverse and tweenr](https://raw.githubusercontent.com/rweekly/image/master/2018/mode-variability.png)
-
 + [Semantic Search in R: Latent Semantic Analysis](http://annamarbut.blogspot.com/2018/06/semantic-search-in-r-latent-semantic.html)
 
 + [Step-by-step tidy and minimal approach to processing nested JSON data fetched with query URLs directly grabbed from a dashboard via DOM inspector](https://ellocke.github.io/post/r-fetching-json-data-on-the-github-to-gitlab-exodus-from-june-2018/)
@@ -129,6 +132,10 @@ ouR data generation
 + [Getting data from pdfs using the pdftools package](http://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
 
 + [R Tip: use isTRUE()](http://www.win-vector.com/blog/2018/06/r-tip-use-istrue/)
+
++ [Animating mode variability with tidyverse and tweenr](http://www.questionflow.org/2018/06/14/animating-mode-variability-with-tidyverse-and-tweenr/)
+
+![Animating mode variability with tidyverse and tweenr](https://raw.githubusercontent.com/rweekly/image/master/2018/mode-variability.png)
 
 + [Late anniversary edition redux: conditional vs marginal models for clustered data](https://www.rdatagen.net/post/mixed-effect-models-vs-gee/)
 
