@@ -32,6 +32,9 @@ Release Date: 2018-6-18
 
 **GitHub or Bitbucket**
 
++ [Simplify your `rmarkdown` workflow using the *reportfactory*](https://github.com/reconhub/reportfactory)
+
+![reportfactory workflow](https://raw.githubusercontent.com/reconhub/reportfactory/master/artwork/workflow.png =800x)
 
 
 ### Package Releases
@@ -104,6 +107,10 @@ Release Date: 2018-6-18
 ###  Videos and Podcasts
 
 + [DataFramed episode 26 with Jenny Bryan](https://www.datacamp.com/community/podcast/spreadsheets-data-science)
+
++ RECON R tips are [online](https://www.repidemicsconsortium.org/resources/); latest post is on [anonymising linelists](https://www.youtube.com/embed/1Zx0aQNxatY) data during epidemics
+
+
 
 
 ### Gist & Cookbook
