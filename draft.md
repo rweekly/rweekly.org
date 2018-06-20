@@ -108,11 +108,7 @@ Release Date: 2018-6-18
 
 + [DataFramed episode 26 with Jenny Bryan](https://www.datacamp.com/community/podcast/spreadsheets-data-science)
 
-+ RECON R tips are [online](https://www.repidemicsconsortium.org/resources/); latest post is on annonymising linelists of epidemics:
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Zx0aQNxatY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
++ RECON R tips are [online](https://www.repidemicsconsortium.org/resources/); latest post is on [anonymising linelists](https://www.youtube.com/embed/1Zx0aQNxatY) data during epidemics
 
 
 
