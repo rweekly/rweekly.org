@@ -35,6 +35,7 @@ Release Date: 2018-6-18
 
 ### Insights
 
++ [Drinking from the Firehose: using R to keep up with current ML and AI research](https://www.eokodie.com/blog/drinking-from-the-firehose-using-r-to-keep-up-with-current-ml-research---part-1/)
 
 
 
@@ -49,6 +50,7 @@ Release Date: 2018-6-18
 
 ###  Resources
 
++ [Colours & Impact: Resources for Data Visualization with a splash of R](https://www.eokodie.com/blog/colours--impact-resources-for-data-visualization-with-a-splash-of-r/)
 
 
 ###  Videos and Podcasts
