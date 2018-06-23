@@ -49,6 +49,7 @@ Release Date: 2018-6-18
 
 ###  Resources
 
++ Launched [R for Operations Research](https://www.r-orms.org/) - tutorials and articles around mixed integer linear programming and R. Open to contributions on [Github](https://github.com/dirkschumacher/r-orms).
 
 
 ###  Videos and Podcasts
