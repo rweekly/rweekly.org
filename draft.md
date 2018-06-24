@@ -44,6 +44,8 @@ Release Date: 2018-6-18
 
 + [Neural networks are essentially polynomial regression](https://matloff.wordpress.com/2018/06/20/neural-networks-are-essentially-polynomial-regression/)
 
++ [future.apply - Parallelize Any Base R Apply Function](https://www.jottr.org/2018/06/23/future.apply_1.0.0/) 
+
 ### R in the Real World
 
 + [Really not a fish? Scraping my mathematical family tree](https://masalmon.eu/2018/06/18/mathtree/)
