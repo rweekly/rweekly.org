@@ -34,6 +34,8 @@ Release Date: 2018-6-18
 
 + [RStudio Connect v1.6.4](https://blog.rstudio.com/2018/06/19/rstudio-connect-v1-6-4/)
 
++ [future.apply 1.0.0](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures (a milestone release)
+
 ### Insights
 
 + [Drinking from the Firehose: using R to keep up with current ML and AI research](https://www.eokodie.com/blog/drinking-from-the-firehose-using-r-to-keep-up-with-current-ml-research---part-1/)
