@@ -27,9 +27,13 @@ Release Date: 2018-07-02
 
 
 
++ [future.apply 1.0.0](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures (a milestone release)
+
 ### Insights
 
 
+
++ [future.apply - Parallelize Any Base R Apply Function](https://www.jottr.org/2018/06/23/future.apply_1.0.0/) 
 
 ### R in the Real World
 
