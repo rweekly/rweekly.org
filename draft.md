@@ -16,6 +16,8 @@ Release Date: 2018-07-02
 
 **CRAN**
 
++ [cattonum](https://bfgray3.github.io/cattonum-announcement.html) - a tidy one-stop shop for categorical encodings
+
 **BioC**
 
 
