@@ -48,7 +48,7 @@ Release Date: 2018-07-02
 
 ###  Resources
 
-
++ [(Unit) Testing Shiny apps using testthat](https://blog.daqana.com/en/unit-testing-shiny-apps-using-testthat/)
 
 
 ###  Videos and Podcasts
