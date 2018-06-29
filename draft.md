@@ -71,6 +71,8 @@ Release Date: 2018-07-02
 ###  Tutorials
 + [RNN vs. Dense neural networks for time-series](https://www.brucemeng.ca/post/rnn-vs-dense-neural-networks-for-time-series/) 
 
++ [Visualizing the World Cup with R! Part 1: Recreating goals with ggsoccer and ggplot2](https://ryo-n7.github.io/2018-06-29-visualize-worldcup/)
+![](https://i.imgur.com/zzEA72k.png)
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 
