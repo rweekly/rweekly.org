@@ -69,7 +69,7 @@ Release Date: 2018-07-02
 
 
 ###  Tutorials
-
++ [RNN vs. Dense neural networks for time-series](https://www.brucemeng.ca/post/rnn-vs-dense-neural-networks-for-time-series/) 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
