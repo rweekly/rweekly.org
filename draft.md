@@ -75,6 +75,7 @@ Release Date: 2018-07-02
 ![](https://i.imgur.com/zzEA72k.png)
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
++ [Visualizing crochet circles / hexagons Part 2](http://www.data-chips.com/2018/06/13/crocheting-plotting-hexagons-vs-circles/)
 
 ###  R Project Updates
 
