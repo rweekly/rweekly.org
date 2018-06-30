@@ -124,6 +124,7 @@ Release Date: 2018-07-02
 + [Visualizing the World Cup with R! Part 1: Recreating goals with ggsoccer and ggplot2](https://ryo-n7.github.io/2018-06-29-visualize-worldcup/)
 ![](https://i.imgur.com/zzEA72k.png)
 
++ [Visualizing crochet circles / hexagons Part 2](http://www.data-chips.com/2018/06/13/crocheting-plotting-hexagons-vs-circles/)
 
 + [HTML Widgets for Non-HTML Output Formats](https://yihui.name/en/2018/06/html-widgets-non-html/)
 
