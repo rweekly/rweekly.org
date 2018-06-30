@@ -115,6 +115,8 @@ Release Date: 2018-07-02
 
 ###  Tutorials
 
++ [Speed Up Shiny Coding with Data](https://roh.engineering/post/speeding-up-shiny-coding-with-data/)
+
 + [Beeswarms instead of histograms](https://aghaynes.wordpress.com/2018/06/28/beeswarms-instead-of-histograms/)
 
 ![Beeswarms instead of histograms](https://aghaynes.files.wordpress.com/2018/06/beeswarm.png)
