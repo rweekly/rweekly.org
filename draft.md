@@ -46,6 +46,9 @@ Release Date: 2018-07-02
 + [Shiny 1.1.0: Scaling Shiny with async](https://blog.rstudio.com/2018/06/26/shiny-1-1-0/)
 
 
++ [styler 1.0.2](https://github.com/r-lib/styler/releases)
+
+
 ### Insights
 
 + [The Role of Resources in Data Analysis](https://simplystatistics.org/2018/06/18/the-role-of-resources-in-data-analysis/)
