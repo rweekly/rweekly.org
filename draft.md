@@ -30,6 +30,9 @@ Release Date: 2018-07-09
 
 
 
++ [styler 1.0.2](https://github.com/r-lib/styler/releases)
+
+
 ### Insights
 
 
