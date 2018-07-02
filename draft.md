@@ -66,6 +66,8 @@ Release Date: 2018-07-09
 
 ###  Tutorials
 
++ [Speed Up Shiny Coding with Data](https://roh.engineering/post/speeding-up-shiny-coding-with-data/)
+
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
