@@ -9,6 +9,9 @@ Release Date: 2018-07-02
 
 ###  Highlight
 
++ [future.apply 1.0.0](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures (a milestone release)
+
++ [The rewrite of the Advanced R functions chapter](https://adv-r.hadley.nz/functions.html)
 
 ###  New Packages
 
@@ -25,25 +28,27 @@ Release Date: 2018-07-02
 
 + [Rayshader](http://www.tylermw.com/making-beautiful-maps/) - Draining Lake Mead: Making Beautiful Maps
 
+![Rayshader](https://www.tylermw.com/wp-content/uploads/2018/06/allannoweb.jpg)
+
 **BioC**
 
 
 **GitHub or Bitbucket**
 
-+ [modelDown: a website generator for your predictive models](http://smarterpoland.pl/index.php/2018/06/modeldown-a-website-generator-for-your-predictive-models/)
++ [modelDown](http://smarterpoland.pl/index.php/2018/06/modeldown-a-website-generator-for-your-predictive-models/) - a website generator for your predictive models
 
 + [paletteer](https://github.com/EmilHvitfeldt/paletteer) - Collection of most color palettes in a single R package
 
+![paletteer](https://github.com/EmilHvitfeldt/paletteer/raw/master/man/figures/logo.png)
 
 ### Package Releases
 
-+ [RSAGA 1.0.0](http://r-spatial.org//r/2018/06/20/RSAGA-1.0.0.html)
++ [RSAGA 1.0.0](http://r-spatial.org//r/2018/06/20/RSAGA-1.0.0.html) - an interface between R and the open-source geographic information system SAGA
 
 
 + [future.apply 1.0.0](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures (a milestone release)
 
-
-+ [Shiny 1.1.0: Scaling Shiny with async](https://blog.rstudio.com/2018/06/26/shiny-1-1-0/)
++ [Shiny 1.1.0](https://blog.rstudio.com/2018/06/26/shiny-1-1-0/) - Scaling Shiny with async
 
 
 ### Insights
@@ -57,21 +62,22 @@ Release Date: 2018-07-02
 
 + [Creativity in Data Analysis](https://simplystatistics.org/2018/06/26/creativity/)
 
-
 + [Seriously, Put Your Work Online: A Cautionary Tale](https://jenthompson.me/2018/06/23/work-online-cautionary/)
 
 ### R in the Real World
 
 + [Demography simulations](http://freerangestats.info/blog/2018/06/26/fertility-rate)
 
-+ [HOW TO MAP PUBLIC DEBT DATA WITH GGPLOT2](https://www.sharpsightlabs.com/blog/map-public-debt-ggplot2/)
++ [How to Map Public Debt Data with ggplot2](https://www.sharpsightlabs.com/blog/map-public-debt-ggplot2/)
 
-+ [MAPPING THE BEST STATES FOR BUSINESS](https://www.sharpsightlabs.com/blog/map-best-states-business/)
++ [Mapping the Best States for Business](https://www.sharpsightlabs.com/blog/map-best-states-business/)
 
 + [Cultural Differences in Map Data Visualization](https://simplystatistics.org/2018/06/30/cultural-data-viz/)
 
 
-+ [Global Migration, animated with R](http://blog.revolutionanalytics.com/2018/06/global-migration-animated-with-r.html)
++ [Deep Learning for Time Series Forecasting: Predicting Sunspot Frequency with Keras](https://tensorflow.rstudio.com/blog/sunspots-lstm.html)
+
+![Deep Learning for Time Series Forecasting: Predicting Sunspot Frequency with Keras](https://tensorflow.rstudio.com/blog/images/sunspots/backtested_test.png)
 
 + [Storrrify #satRdayCDF 2018](https://masalmon.eu/2018/06/26/storrrify-satrdaycdf-2018/)
 
@@ -79,11 +85,11 @@ Release Date: 2018-07-02
 
 + [The Financial Times and BBC use R for publication graphics](http://blog.revolutionanalytics.com/2018/06/ft-bbc-uses-r.html)
 
-+ [GAME OF FRIENDSHIP PARADOX](https://freakonometrics.hypotheses.org/53310)
++ [Global Migration, animated with R](http://blog.revolutionanalytics.com/2018/06/global-migration-animated-with-r.html)
 
-+ [Deep Learning for Time Series Forecasting: Predicting Sunspot Frequency with Keras](https://tensorflow.rstudio.com/blog/sunspots-lstm.html)
+![Global Migration, animated with R](https://revolution-computing.typepad.com/.a/6a010534b1db25970b022ad39d03c1200b-800wi)
 
-![Deep Learning for Time Series Forecasting: Predicting Sunspot Frequency with Keras](https://tensorflow.rstudio.com/blog/images/sunspots/backtested_test.png)
++ [Game of Friendship Paradox](https://freakonometrics.hypotheses.org/53310)
 
 ###  R in Academia
 
@@ -121,9 +127,6 @@ Release Date: 2018-07-02
 
 + [RNN vs. Dense neural networks for time-series](https://www.brucemeng.ca/post/rnn-vs-dense-neural-networks-for-time-series/)
 
-+ [Visualizing the World Cup with R! Part 1: Recreating goals with ggsoccer and ggplot2](https://ryo-n7.github.io/2018-06-29-visualize-worldcup/)
-![](https://i.imgur.com/zzEA72k.png)
-
 + [Visualizing crochet circles / hexagons Part 2](http://www.data-chips.com/2018/06/13/crocheting-plotting-hexagons-vs-circles/)
 
 + [HTML Widgets for Non-HTML Output Formats](https://yihui.name/en/2018/06/html-widgets-non-html/)
@@ -136,7 +139,7 @@ Release Date: 2018-07-02
 
 + [Code for Workshop: Introduction to Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
 
-+ [Delayed Future(Slides from eRum 2018)(https://www.jottr.org/2018/06/18/future-erum2018-slides/)
++ [Delayed Future (Slides from eRum 2018)](https://www.jottr.org/2018/06/18/future-erum2018-slides/)
 
 + [Simple Bootstrap and Simulation Approaches to Quantifying Reliability of High-Dimensional Feature Selection](http://fharrell.com/talk/jsm2018/)
 
@@ -149,6 +152,10 @@ Release Date: 2018-07-02
 + [Text-to-speech with R](https://shirinsplayground.netlify.com/2018/06/text_to_speech_r/)
 
 + [Data wrangling operations with quantities](http://r-spatial.org//r/2018/06/27/wrangling-quantities.html)
+
++ [Visualizing the World Cup with R! Part 1: Recreating goals with ggsoccer and ggplot2](https://ryo-n7.github.io/2018-06-29-visualize-worldcup/)
+
+![Visualizing the World Cup with R! Part 1: Recreating goals with ggsoccer and ggplot2](https://i.imgur.com/zzEA72k.png)
 
 + [Time after time: calculating the autocorrelation function for uneven or grouped time series](https://aosmith.rbind.io/2018/06/27/uneven-group-autocorrelation/)
 
