@@ -41,7 +41,7 @@ Release Date: 2018-07-09
 
 ### R in the Real World
 
-
++ [Elo and EloBeta models in snooker](http://www.questionflow.org/2018/07/03/elo-and-elobeta-models-in-snooker/)
 
 
 ###  R in Academia
