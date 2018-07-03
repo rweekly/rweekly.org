@@ -35,7 +35,7 @@ Release Date: 2018-07-09
 
 ### Insights
 
-
++ [One year as a subscriber to Stack Overflow](https://privefl.github.io/blog/one-year-as-a-subscriber-to-stack-overflow/)
 
 ### R in the Real World
 
