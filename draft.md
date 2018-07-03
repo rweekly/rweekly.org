@@ -71,6 +71,10 @@ Release Date: 2018-07-09
 
 ###  Tutorials
 
++ [Factfulness: Building Gapminder Income Mountains with `tidyverse` and moving them with `gganimate`](http://staff.math.su.se/hoehle/blog/2018/07/02/factfulness.html)
+
+![](http://staff.math.su.se/hoehle/blog/figure/source/2018-07-02-factfulness/ARTISTICMOUNTAINPLOT-1.png)
+
 + [Speed Up Shiny Coding with Data](https://roh.engineering/post/speeding-up-shiny-coding-with-data/)
 
 
