@@ -32,6 +32,8 @@ Release Date: 2018-07-09
 
 + [styler 1.0.2](https://github.com/r-lib/styler/releases)
 
++ [tikzDevice 0.12](https://cran.r-project.org/package=tikzDevice) - R Graphics Output in LaTeX Format has a [new home](https://blog.daqana.com/en/tikzdevice-has-a-new-home/)
+
 
 ### Insights
 
