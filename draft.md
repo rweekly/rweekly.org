@@ -41,7 +41,7 @@ Release Date: 2018-07-09
 
 ### R in the Real World
 
-
++ [Markov-chaining my PhD thesis](https://www.rostrum.blog/2018/06/30/markov-chain-phd/) - Build your own thesis with a Markov chain that generates text snippets of jargon about rotting leaves
 
 
 ###  R in Academia
