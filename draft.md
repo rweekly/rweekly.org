@@ -67,7 +67,7 @@ Release Date: 2018-07-09
 
 ### R Internationally
 
-
++ [Faire des cartogrammes avec R](https://rgeomatic.hypotheses.org/1361)
 
 ###  Tutorials
 
