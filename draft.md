@@ -77,9 +77,11 @@ Release Date: 2018-07-09
 
 + [Speed Up Shiny Coding with Data](https://roh.engineering/post/speeding-up-shiny-coding-with-data/)
 
-
-
 + [Switching to blogdown, Netlify and Travis](https://lorenzwalthert.netlify.com/posts/getting-up-and-running-with-blogdown-netlify-and-travis/)
+
++ [Visualizing the World Cup with R: Part 2 - How the Group Tables Evolved During the Final Matchday!](https://ryo-n7.github.io/2018-07-05-visualize-worldcup-part-2/)
+
+![](https://i.imgur.com/FlntjgH.png)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
