@@ -41,7 +41,7 @@ Release Date: 2018-07-09
 
 ### R in the Real World
 
-
++ [Recreating (more) data visualizations from the book “Knowledge is Beautiful”: Part III](https://medium.com/@MattOldach_65321/recreating-more-data-visualizations-from-the-book-knowledge-is-beautiful-part-iii-5fd393b4c548)
 
 
 ###  R in Academia
