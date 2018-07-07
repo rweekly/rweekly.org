@@ -42,6 +42,12 @@ Release Date: 2018-07-09
 ### R in the Real World
 
 
++ [Markov-chaining my PhD thesis](https://www.rostrum.blog/2018/06/30/markov-chain-phd/) - Build your own thesis with a Markov chain that generates text snippets of jargon about rotting leaves
+
+
++ [Elo and EloBeta models in snooker](http://www.questionflow.org/2018/07/03/elo-and-elobeta-models-in-snooker/)
+
+
 
 
 ###  R in Academia
@@ -67,7 +73,7 @@ Release Date: 2018-07-09
 
 ### R Internationally
 
-
++ [Faire des cartogrammes avec R](https://rgeomatic.hypotheses.org/1361)
 
 ###  Tutorials
 
@@ -79,9 +85,11 @@ Release Date: 2018-07-09
 
 + [Switching to blogdown, Netlify and Travis](https://lorenzwalthert.netlify.com/posts/getting-up-and-running-with-blogdown-netlify-and-travis/)
 
+
 + [Visualizing the World Cup with R: Part 2 - How the Group Tables Evolved During the Final Matchday!](https://ryo-n7.github.io/2018-07-05-visualize-worldcup-part-2/)
 
 ![](https://i.imgur.com/FlntjgH.png)
+
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
