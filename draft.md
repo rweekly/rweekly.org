@@ -113,9 +113,7 @@ The annual useR! conference is the main meeting of the international R user and 
 + [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />
 Buenos Aires, Argentina.
 
-+ [Upcoming R Community Events (week of 2018-06-18)](https://community.rstudio.com/t/upcoming-r-community-events-week-of-2018-06-18/9871)
-
-[This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
