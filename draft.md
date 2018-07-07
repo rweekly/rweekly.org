@@ -27,6 +27,8 @@ Release Date: 2018-07-09
 
 ### Package Releases
 
++ [ggplot2 3.0.0](https://cran.r-project.org/web/packages/ggplot2/index.html) - Create Elegant Data Visualisations Using the Grammar of Graphics
+
 + [styler 1.0.2](https://github.com/r-lib/styler/releases)
 
 + [tikzDevice 0.12](https://cran.r-project.org/package=tikzDevice) - R Graphics Output in LaTeX Format has a [new home](https://blog.daqana.com/en/tikzdevice-has-a-new-home/)
