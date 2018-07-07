@@ -16,7 +16,7 @@ Release Date: 2018-07-09
 
 **CRAN**
 
-
++ [packagefinder](https://topics-in-r.blogspot.com/2018/07/new-package-packagefinder.html) - Search for packages from the R console
 
 **BioC**
 
@@ -27,17 +27,27 @@ Release Date: 2018-07-09
 
 ### Package Releases
 
-
-
-
 + [styler 1.0.2](https://github.com/r-lib/styler/releases)
 
 + [tikzDevice 0.12](https://cran.r-project.org/package=tikzDevice) - R Graphics Output in LaTeX Format has a [new home](https://blog.daqana.com/en/tikzdevice-has-a-new-home/)
 
++ [nanotime 0.2.1](http://dirk.eddelbuettel.com/blog/2018/07/01#nanotime_0.2.1)
+
++ [seplyr 0.5.8](http://www.win-vector.com/blog/2018/07/seplyr-0-5-8-now-available-on-cran/)
+
++ [anytime 0.3.1](http://dirk.eddelbuettel.com/blog/2018/07/03#anytime_0.3.1)
 
 ### Insights
 
 + [One year as a subscriber to Stack Overflow](https://privefl.github.io/blog/one-year-as-a-subscriber-to-stack-overflow/)
+
++ [What Should be Done When Data Have Creators?](https://simplystatistics.org/2018/07/06/data-creators/)
+
+
++ [Current Challenges and Opportunities in Clinical Prediction Modeling](http://fharrell.com/talk/memtab18/)
+
++ [Once in a Blue Moon, I Reached "Issue Zero" in a Github Repo](https://yihui.name/en/2018/07/issue-zero/)
+
 
 ### R in the Real World
 
@@ -49,6 +59,14 @@ Release Date: 2018-07-09
 + [Elo and EloBeta models in snooker](http://www.questionflow.org/2018/07/03/elo-and-elobeta-models-in-snooker/)
 
 ![Elo and EloBeta models in snooker](https://raw.githubusercontent.com/echasnovski/questionflow-site/0435820dde9ca4ea667f8e5c0d0d01e93df01d07/static/post/2018-07-03-elo-and-elobeta-models-in-snooker_files/figure-html/rating-evolution_top16_hidden-1.png)
+
+
++ [Visualizing macOS App Usage with a Little Help from osqueryr & mactheknife](https://rud.is/b/2018/07/06/visualizing-macos-app-usage/)
+
+
++ [Life (expectancy), animated](https://nowosad.github.io/post/life-expectancy-animated/)
+
++ [Spend on petrol by income](http://freerangestats.info/blog/2018/07/01/petrol-spend)
 
 ###  R in Academia
 
@@ -69,6 +87,7 @@ Release Date: 2018-07-09
 ###  R in Organizations
 
 
++ [Why R Conference](https://mlr-org.github.io/whyr-conference/)
 
 
 ### R Internationally
@@ -76,6 +95,12 @@ Release Date: 2018-07-09
 + [Faire des cartogrammes avec R](https://rgeomatic.hypotheses.org/1361)
 
 ###  Tutorials
+
++ [Marginal Effects for Regression Models in R](https://strengejacke.wordpress.com/2018/07/03/marginal-effects-for-regression-models-in-r-rstats-dataviz/)
+
++ [Handling Outliers with R](https://madstatbr.wordpress.com/2018/07/02/handling-outliers-with-r/)
+
++ [Missing data imputation and instrumental variables regression: the tidy approach](http://www.brodrigues.co/blog/2018-07-01-tidy_ive/)
 
 + [Factfulness: Building Gapminder Income Mountains with `tidyverse` and moving them with `gganimate`](http://staff.math.su.se/hoehle/blog/2018/07/02/factfulness.html)
 
@@ -85,10 +110,43 @@ Release Date: 2018-07-09
 
 + [Switching to blogdown, Netlify and Travis](https://lorenzwalthert.netlify.com/posts/getting-up-and-running-with-blogdown-netlify-and-travis/)
 
-
 + [Visualizing the World Cup with R: Part 2 - How the Group Tables Evolved During the Final Matchday!](https://ryo-n7.github.io/2018-07-05-visualize-worldcup-part-2/)
 
 ![](https://i.imgur.com/FlntjgH.png)
+
++ [Introducing kapow: an explosive but maybe irresponsible way to assign variables from objects](http://daranzolin.github.io/2018-06-30-kapow-assignment/)
+
++ [Missing data imputation and instrumental variables regression: the tidy approach](http://www.brodrigues.co/blog/2018-07-01-tidy_ive/)
+
++ [Update on Polynomial Regression in Lieu of Neural Nets](https://matloff.wordpress.com/2018/07/01/update-on-polynomial-regression-in-lieu-of-neural-nets/)
+
++ [Freeing PDF Data to Account for the Unaccounted](https://rud.is/b/2018/07/02/freeing-pdf-data-to-account-for-the-unaccounted/)
+
++ [Plotmath fractals](https://coolbutuseless.github.io/2018/07/02/plotmath-fractals/)
+
++ [Factfulness: Building Gapminder Income Mountains](http://staff.math.su.se/hoehle/blog/2018/07/02/factfulness.html)
+
++ [Plotmath fractals 2](https://coolbutuseless.github.io/2018/07/03/plotmath-fractals-2/)
+
++ [Elo and EloBeta models in snooker](http://www.questionflow.org/2018/07/03/elo-and-elobeta-models-in-snooker/)
+
++ [Red Flags In Data Science Interviews](https://robinsones.github.io/Red-Flags-in-Data-Science-Interviews/)
+
++ [Text fractals - sierpinski](https://coolbutuseless.github.io/2018/07/04/text-fractals---sierpinski/)
+
++ [Tidily evaluated ggplot2](https://www.johnmackintosh.com/2018-07-04-tidily-evaluated-ggplot2/)
+
++ [More tidy evaluation with ggplot2](https://www.johnmackintosh.com/2018-07-04-more-tidy-evaluation-with-ggplot2/)
+
++ [Fractals with matrices - sierpinski carpet](https://coolbutuseless.github.io/2018/07/05/fractals-with-matrices---sierpinski-carpet/)
+
++ [Exploring ways to address gaps in maternal-child health research](https://ropensci.org/blog/2018/07/05/mchtoolbox/)
+
++ [seven digit addition](https://xianblog.wordpress.com/2018/07/06/seven-digit-addition/)
+
++ [Hilbert Curves](https://coolbutuseless.github.io/2018/07/06/hilbert-curves/)
+
++ [Barnsley Ferns (fractal)](https://coolbutuseless.github.io/2018/07/07/barnsley-ferns-fractal/)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
@@ -135,4 +193,10 @@ Tokyo, Japan.
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">👌 Dead-simple 3D surface plotting in the next version of rayshader! Apply your hillshade (or any image) to a 3D surface map. Video preview with rayshader&#39;s built-in palettes. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br><br>Code:<br><br>elmat %&gt;%<br>  sphere_shade() %&gt;% <br>  add_shadow(ray_shade(elmat)) %&gt;% <br>  plot_3d(elmat) <a href="https://t.co/FCKQ9OSKpj">pic.twitter.com/FCKQ9OSKpj</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href="https://twitter.com/tylermorganwall/status/1013760588307095552?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I love the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community.<br>Someone is like, &quot;oh hey peeps, I saw a big need for this mundane but difficult task that I infrequently do, so I created a package that will literally scrape the last bits of peanut butter out of the jar for you. It&#39;s called pbplyr.&quot;<br>What a tribe.</p>&mdash; Frank Elavsky ᴰᵃᵗᵃ ᵂᶦᶻᵃʳᵈ (@Frankly_Data) <a href="https://twitter.com/Frankly_Data/status/1014189095294291968?ref_src=twsrc%5Etfw">July 3, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bubble-grid-map of regional population change in Europe 2012 to 2017. Blue regions grow, red regions loose population. Sized by absolute number. HowTo: <a href="https://t.co/fScKDPrl4H">https://t.co/fScKDPrl4H</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/viz?src=hash&amp;ref_src=twsrc%5Etfw">#viz</a> <a href="https://t.co/EpJy1kickh">pic.twitter.com/EpJy1kickh</a></p>&mdash; Jonas Schöley (@jschoeley) <a href="https://twitter.com/jschoeley/status/1013668629236379648?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
 
