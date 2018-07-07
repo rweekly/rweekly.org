@@ -78,9 +78,6 @@ Release Date: 2018-07-09
 + [Speed Up Shiny Coding with Data](https://roh.engineering/post/speeding-up-shiny-coding-with-data/)
 
 
-
-+ [Switching to blogdown, Netlify and Travis](https://lorenzwalthert.netlify.com/posts/getting-up-and-running-with-blogdown-netlify-and-travis/)
-
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
