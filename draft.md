@@ -41,7 +41,13 @@ Release Date: 2018-07-09
 
 ### R in the Real World
 
+
 + [Markov-chaining my PhD thesis](https://www.rostrum.blog/2018/06/30/markov-chain-phd/) - Build your own thesis with a Markov chain that generates text snippets of jargon about rotting leaves
+
+
++ [Elo and EloBeta models in snooker](http://www.questionflow.org/2018/07/03/elo-and-elobeta-models-in-snooker/)
+
+
 
 
 ###  R in Academia
@@ -67,7 +73,7 @@ Release Date: 2018-07-09
 
 ### R Internationally
 
-
++ [Faire des cartogrammes avec R](https://rgeomatic.hypotheses.org/1361)
 
 ###  Tutorials
 
@@ -77,9 +83,6 @@ Release Date: 2018-07-09
 
 + [Speed Up Shiny Coding with Data](https://roh.engineering/post/speeding-up-shiny-coding-with-data/)
 
-
-
-+ [Switching to blogdown, Netlify and Travis](https://lorenzwalthert.netlify.com/posts/getting-up-and-running-with-blogdown-netlify-and-travis/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
