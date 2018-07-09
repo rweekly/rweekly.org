@@ -18,6 +18,8 @@ Release Date: 2018-07-09
 
 + [packagefinder](https://topics-in-r.blogspot.com/2018/07/new-package-packagefinder.html) - Search for packages from the R console
 
+![packagefinder](https://raw.githubusercontent.com/rweekly/image/master/2018/pkgfinder.png)
+
 **BioC**
 
 
@@ -55,16 +57,17 @@ Release Date: 2018-07-09
 
 + [Recreating (more) data visualizations from the book “Knowledge is Beautiful”: Part III](https://medium.com/@MattOldach_65321/recreating-more-data-visualizations-from-the-book-knowledge-is-beautiful-part-iii-5fd393b4c548)
 
-+ [Markov-chaining my PhD thesis](https://www.rostrum.blog/2018/06/30/markov-chain-phd/) - Build your own thesis with a Markov chain that generates text snippets of jargon about rotting leaves
+![Recreating (more) data visualizations from the book “Knowledge is Beautiful”: Part III](https://raw.githubusercontent.com/rweekly/image/master/2018/livelong.jpeg)
 
++ [Markov-chaining my PhD thesis](https://www.rostrum.blog/2018/06/30/markov-chain-phd/) - Build your own thesis with a Markov chain that generates text snippets of jargon about rotting leaves
 
 + [Elo and EloBeta models in snooker](http://www.questionflow.org/2018/07/03/elo-and-elobeta-models-in-snooker/)
 
 ![Elo and EloBeta models in snooker](https://raw.githubusercontent.com/echasnovski/questionflow-site/0435820dde9ca4ea667f8e5c0d0d01e93df01d07/static/post/2018-07-03-elo-and-elobeta-models-in-snooker_files/figure-html/rating-evolution_top16_hidden-1.png)
 
-
 + [Visualizing macOS App Usage with a Little Help from osqueryr & mactheknife](https://rud.is/b/2018/07/06/visualizing-macos-app-usage/)
 
+![Visualizing macOS App Usage with a Little Help from osqueryr & mactheknife](https://raw.githubusercontent.com/rweekly/image/master/2018/app-lod-tree-1.png)
 
 + [Life (expectancy), animated](https://nowosad.github.io/post/life-expectancy-animated/)
 
@@ -96,6 +99,8 @@ Release Date: 2018-07-09
 
 + [Faire des cartogrammes avec R](https://rgeomatic.hypotheses.org/1361)
 
+![Faire des cartogrammes avec R](https://raw.githubusercontent.com/rweekly/image/master/2018/map6.png)
+
 ###  Tutorials
 
 + [Marginal Effects for Regression Models in R](https://strengejacke.wordpress.com/2018/07/03/marginal-effects-for-regression-models-in-r-rstats-dataviz/)
@@ -104,17 +109,13 @@ Release Date: 2018-07-09
 
 + [Missing data imputation and instrumental variables regression: the tidy approach](http://www.brodrigues.co/blog/2018-07-01-tidy_ive/)
 
-+ [Factfulness: Building Gapminder Income Mountains with `tidyverse` and moving them with `gganimate`](http://staff.math.su.se/hoehle/blog/2018/07/02/factfulness.html)
++ [Factfulness: Building Gapminder Income Mountains](http://staff.math.su.se/hoehle/blog/2018/07/02/factfulness.html)
 
-![](http://staff.math.su.se/hoehle/blog/figure/source/2018-07-02-factfulness/ARTISTICMOUNTAINPLOT-1.png)
+![Factfulness: Building Gapminder Income Mountains](https://raw.githubusercontent.com/rweekly/image/master/2018/moving-mountains.gif)
 
 + [Speed Up Shiny Coding with Data](https://roh.engineering/post/speeding-up-shiny-coding-with-data/)
 
 + [Switching to blogdown, Netlify and Travis](https://lorenzwalthert.netlify.com/posts/getting-up-and-running-with-blogdown-netlify-and-travis/)
-
-+ [Visualizing the World Cup with R: Part 2 - How the Group Tables Evolved During the Final Matchday!](https://ryo-n7.github.io/2018-07-05-visualize-worldcup-part-2/)
-
-![](https://i.imgur.com/FlntjgH.png)
 
 + [Introducing kapow: an explosive but maybe irresponsible way to assign variables from objects](http://daranzolin.github.io/2018-06-30-kapow-assignment/)
 
@@ -124,29 +125,23 @@ Release Date: 2018-07-09
 
 + [Freeing PDF Data to Account for the Unaccounted](https://rud.is/b/2018/07/02/freeing-pdf-data-to-account-for-the-unaccounted/)
 
-+ [Plotmath fractals](https://coolbutuseless.github.io/2018/07/02/plotmath-fractals/)
-
-+ [Factfulness: Building Gapminder Income Mountains](http://staff.math.su.se/hoehle/blog/2018/07/02/factfulness.html)
-
-+ [Plotmath fractals 2](https://coolbutuseless.github.io/2018/07/03/plotmath-fractals-2/)
-
 + [Elo and EloBeta models in snooker](http://www.questionflow.org/2018/07/03/elo-and-elobeta-models-in-snooker/)
 
 + [Red Flags In Data Science Interviews](https://robinsones.github.io/Red-Flags-in-Data-Science-Interviews/)
 
-+ [Text fractals - sierpinski](https://coolbutuseless.github.io/2018/07/04/text-fractals---sierpinski/)
-
 + [Tidily evaluated ggplot2](https://www.johnmackintosh.com/2018-07-04-tidily-evaluated-ggplot2/)
 
 + [More tidy evaluation with ggplot2](https://www.johnmackintosh.com/2018-07-04-more-tidy-evaluation-with-ggplot2/)
+
++ [Visualizing the World Cup with R: Part 2 - How the Group Tables Evolved During the Final Matchday!](https://ryo-n7.github.io/2018-07-05-visualize-worldcup-part-2/)
+
+![Visualizing the World Cup with R: Part 2 - How the Group Tables Evolved During the Final Matchday!](https://i.imgur.com/FlntjgH.png)
 
 + [Fractals with matrices - sierpinski carpet](https://coolbutuseless.github.io/2018/07/05/fractals-with-matrices---sierpinski-carpet/)
 
 + [Exploring ways to address gaps in maternal-child health research](https://ropensci.org/blog/2018/07/05/mchtoolbox/)
 
 + [seven digit addition](https://xianblog.wordpress.com/2018/07/06/seven-digit-addition/)
-
-+ [Hilbert Curves](https://coolbutuseless.github.io/2018/07/06/hilbert-curves/)
 
 + [Barnsley Ferns (fractal)](https://coolbutuseless.github.io/2018/07/07/barnsley-ferns-fractal/)
 
@@ -189,8 +184,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
-+ [Tokyo.R #71](https://tokyor.connpass.com/event/92522/) **July 15**<br />
-Tokyo, Japan.
++ [Tokyo.R #71](https://tokyor.connpass.com/event/92522/) **July 15**<br /> Tokyo, Japan.
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
