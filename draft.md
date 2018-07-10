@@ -30,7 +30,7 @@ Release Date: 2018-07-16
 
 ### Insights
 
-
++ [The Ten Commandments for a well-formatted database](https://rtask.thinkr.fr/blog/the-ten-commandments-for-a-well-formatted-database/)
 
 ### R in the Real World
 
@@ -64,7 +64,7 @@ Release Date: 2018-07-16
 
 ###  Tutorials
 
-
++ [Happy dev with {purrr}](https://colinfay.me/happy-dev-purrr/)
 
 
 
@@ -80,9 +80,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />
-Rennes - Agrocampus
 
 + [useR! 2018](https://user2018.r-project.org/) **July 10** <br />
 The annual useR! conference is the main meeting of the international R user and developer community.
