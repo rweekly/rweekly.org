@@ -65,7 +65,7 @@ Release Date: 2018-07-16
 ###  Tutorials
 
 + [Happy dev with {purrr}](https://colinfay.me/happy-dev-purrr/)
-
++ [DockeR for the UseR](https://github.com/noamross/nyhackr-docker-talk) - Slides, Code, and Resources from a talk at nyhackr.org
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
