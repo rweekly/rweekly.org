@@ -51,6 +51,7 @@ Release Date: 2018-07-16
 
 ###  Videos and Podcasts
 
++ [SuperDataScience171](https://soundcloud.com/superdatascience/sds-171-deep-dive-into-r-programming-r-studio): Deep dive into R Programming & R Studio. In this episode, Kirill chatted with the Director of Solutions Engineering for RStudio, Nathan Stephens about analytics infrastructure & how this can be used in the data lab and the production environment.
 
 
 ### Gist & Cookbook
