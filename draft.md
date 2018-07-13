@@ -75,6 +75,8 @@ Release Date: 2018-07-16
 
 + [DockeR for the UseR](https://github.com/noamross/nyhackr-docker-talk) - Slides, Code, and Resources from a talk at nyhackr.org
 
++ [Shaded contour lines or Tanaka method with R](https://rgeomatic.hypotheses.org/1536)
+
 + [Image Manipulation for Machine Learning in R](https://heartbeat.fritz.ai/image-manipulation-for-machine-learning-in-r-ff2b92069fef)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
