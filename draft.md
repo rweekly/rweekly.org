@@ -65,7 +65,6 @@ Release Date: 2018-07-16
 ###  Tutorials
 
 + [Happy dev with {purrr}](https://colinfay.me/happy-dev-purrr/)
-
 + [DockeR for the UseR](https://github.com/noamross/nyhackr-docker-talk) - Slides, Code, and Resources from a talk at nyhackr.org
 
 + [Shaded contour lines or Tanaka method with R](https://rgeomatic.hypotheses.org/1536)
