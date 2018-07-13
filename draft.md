@@ -26,11 +26,16 @@ Release Date: 2018-07-16
 
 ### Package Releases
 
-
++ [phylogram: dendrograms for evolutionary analysis](https://ropensci.org/technotes/2018/07/12/phylogram/)
+![](https://d33wubrfki0l68.cloudfront.net/c8a2a94543807bb2faf0583ce46ddd297e5a22bb/aab46/img/blog-images/2018-07-12-phylogram/unnamed-chunk-8-1.png)
 
 ### Insights
 
 + [The Ten Commandments for a well-formatted database](https://rtask.thinkr.fr/blog/the-ten-commandments-for-a-well-formatted-database/)
+
++ [World Income, Inequality and Murder](http://staff.math.su.se/hoehle/blog/2018/07/09/gini.html)
+
++ [[ggplot2] Welcome viridis !](https://rtask.thinkr.fr/blog/ggplot2-welcome-viridis/)
 
 ### R in the Real World
 
@@ -60,14 +65,19 @@ Release Date: 2018-07-16
 
 ### R Internationally
 
++ [ANOVA à un facteur : quand les hypothèses ne sont pas satisfaites](https://statistique-et-logiciel-r.com/anova-a-un-facteur-quand-les-hypotheses-ne-sont-pas-satisfaites/?platform=hootsuite)
 
++ [Quand un langage de Data Science se met à faire du web](https://www.youtube.com/watch?v=8aRmY3A6raU)
 
 ###  Tutorials
 
 + [Happy dev with {purrr}](https://colinfay.me/happy-dev-purrr/)
+
 + [DockeR for the UseR](https://github.com/noamross/nyhackr-docker-talk) - Slides, Code, and Resources from a talk at nyhackr.org
 
 + [Shaded contour lines or Tanaka method with R](https://rgeomatic.hypotheses.org/1536)
+
++ [Image Manipulation for Machine Learning in R](https://heartbeat.fritz.ai/image-manipulation-for-machine-learning-in-r-ff2b92069fef)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
