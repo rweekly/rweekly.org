@@ -37,6 +37,19 @@ Release Date: 2018-07-16
 + [ggspatial 1.0.0](https://github.com/paleolimbot/ggspatial) - A ggplot2 R extension for plotting Spatial* objects
 
 
++ [sitmo 2.0.0](http://thecoatlessprofessor.com/software-releases/sitmo-v2.0.0-released/) - Header-only suite of Parallel Pseudo Random Number Generators (PPRNGs)
+
+
++ [searcher 0.3.0](http://thecoatlessprofessor.com/software-releases/searcher-v0.0.3-released/) - a search interface to look up terms on search engines and development websites from _R_.
+
+![Example `searcher` usage](https://i.imgur.com/Zq2rg6G.gif)
+
+
++ [cetcolor 0.2.0](http://thecoatlessprofessor.com/software-releases/cetcolor-v0.2.0-released-cet-perceptually-uniform-color-maps-with-support-for-colour-blind-users-and-short-names/) - Perceptually Uniform Color Maps with Support for Colour Blind Users and Short Names
+
+![cetcolor's 56 colour maps](https://raw.githubusercontent.com/coatless/cetcolor/da9c81f0254f6d4f4fe714c21da80a57bc46e806/tools/colordemo-1.png)
+
+
 ### Insights
 
 + [Announcing the R Markdown Book](https://blog.rstudio.com/2018/07/13/announcing-the-r-markdown-book/)
