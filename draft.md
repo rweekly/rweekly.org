@@ -16,6 +16,11 @@ Release Date: 2018-07-16
 
 **CRAN**
 
++ [muHVT](https://cran.r-project.org/web/packages/muHVT/index.html) - Constructing Hierarchical Voronoi Tessellations and Overlay Heatmap for Data Analysis
+
++ [phylogram](https://ropensci.org/technotes/2018/07/12/phylogram/) - dendrograms for evolutionary analysis
+
+![phylogram: dendrograms for evolutionary analysis](https://d33wubrfki0l68.cloudfront.net/c8a2a94543807bb2faf0583ce46ddd297e5a22bb/aab46/img/blog-images/2018-07-12-phylogram/unnamed-chunk-8-1.png)
 
 **BioC**
 
@@ -26,10 +31,15 @@ Release Date: 2018-07-16
 
 ### Package Releases
 
-+ [phylogram: dendrograms for evolutionary analysis](https://ropensci.org/technotes/2018/07/12/phylogram/)
-![](https://d33wubrfki0l68.cloudfront.net/c8a2a94543807bb2faf0583ce46ddd297e5a22bb/aab46/img/blog-images/2018-07-12-phylogram/unnamed-chunk-8-1.png)
++ [R 3.5.1 update now available ](http://blog.revolutionanalytics.com/2018/07/r-351-update-now-available-.html)
+
+
++ [ggspatial 1.0.0](https://github.com/paleolimbot/ggspatial) - A ggplot2 R extension for plotting Spatial* objects
+
 
 ### Insights
+
++ [Announcing the R Markdown Book](https://blog.rstudio.com/2018/07/13/announcing-the-r-markdown-book/)
 
 + [The Ten Commandments for a well-formatted database](https://rtask.thinkr.fr/blog/the-ten-commandments-for-a-well-formatted-database/)
 
@@ -37,9 +47,11 @@ Release Date: 2018-07-16
 
 + [[ggplot2] Welcome viridis !](https://rtask.thinkr.fr/blog/ggplot2-welcome-viridis/)
 
++ [Teaching R to New Users - From tapply to the Tidyverse](https://simplystatistics.org/2018/07/12/use-r-keynote-2018/)
+
 ### R in the Real World
 
-
++ [Challenges visualising climate extremes with Leaflet](https://medium.com/@rensa/challenges-visualising-climate-extremes-with-leaflet-7a407162d75f)
 
 
 ###  R in Academia
@@ -47,6 +59,8 @@ Release Date: 2018-07-16
 
 
 ###  Resources
+
++ [In case you missed it: June 2018 roundup](http://blog.revolutionanalytics.com/2018/07/in-case-you-missed-it-june-2018-roundup.html)
 
 
 ###  Videos and Podcasts
@@ -62,6 +76,8 @@ Release Date: 2018-07-16
 ###  R in Organizations
 
 
+
++ [HavanaR Workshop 2018](http://forwards.github.io/blog/2018/07/07/havanar/)
 
 
 ### R Internationally
@@ -79,6 +95,51 @@ Release Date: 2018-07-16
 + [Shaded contour lines or Tanaka method with R](https://rgeomatic.hypotheses.org/1536)
 
 + [Image Manipulation for Machine Learning in R](https://heartbeat.fritz.ai/image-manipulation-for-machine-learning-in-r-ff2b92069fef)
+
++ [Communicating with UDP Sockets from R](http://unconj.ca/blog/udp-sockets-in-r.html)
+
++ [Zomato in New Delhi and K-means](https://pradeepadhokshaja.wordpress.com/2018/06/25/zomato-in-new-delhi-and-k-means/)
+
+
++ [One Little Thing: Embed a File in the HTML Output of R Markdown](https://yihui.name/en/2018/07/embed-file/)
+
++ [Do You Have to Use FontAwesome or Other Libraries for Web Symbols?](https://yihui.name/en/2018/07/character-entity/)
+
++ [Only One Person Can Help You with That](https://yihui.name/en/2018/07/single-driver/)
+
++ [R Markdown: The Definitive Guide](https://yihui.name/en/2018/07/r-markdown-book/)
+
++ [The User-Developer Spectrum in the R Ecosystem](https://yihui.name/en/2018/07/user-developer/)
+
+
++ [Setting up RStudio Server, Shiny Server and PostgreSQL](http://freerangestats.info/blog/2018/07/07/twitter-monitor)
+
+
++ [Dealing with heteroskedasticity; regression with robust standard errors using R](http://www.brodrigues.co/blog/2018-07-08-rob_stderr/)
+
++ [Speed up your R Work](http://www.win-vector.com/blog/2018/07/speed-up-your-r-work/)
+
++ [a thread to bin them all [puzzle]](https://xianblog.wordpress.com/2018/07/09/a-thread-to-bin-them-all-puzzle/)
+
++ [Read data with multiple header rows into R](https://alison.rbind.io/post/read-multiple-header-rows/)
+
++ [Ikeda map (fractal)](https://coolbutuseless.github.io/2018/07/09/ikeda-map-fractal/)
+
++ [World Income, Inequality and Murder](http://staff.math.su.se/hoehle/blog/2018/07/09/gini.html)
+
++ [The Ten Commandments for a well-formatted database](https://rtask.thinkr.fr/blog/the-ten-commandments-for-a-well-formatted-database/)
+
++ [How the odds ratio confounds: a brief study in a few colorful figures](https://www.rdatagen.net/post/log-odds/)
+
++ [[ggplot2] Welcome viridis !]
+(https://rtask.thinkr.fr/blog/ggplot2-welcome-viridis/)
+
++ [New open data sets from Microsoft Research](http://blog.revolutionanalytics.com/2018/07/msr-open-data.html)
+
++ [LIBD rstats club remote useR!2018 notes](http://feedproxy.google.com/~r/LIBDrstats/~3/eVTz72Mu1ok/)
+
++ [Because it's Friday: Language and Thought](http://blog.revolutionanalytics.com/2018/07/because-its-friday-language-and-thought.html)
+
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -120,4 +181,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">People often ask why dplyr &amp; tibble don&#39;t support row names. I&#39;ve (finally) written up my reasons at <a href="https://t.co/UmZjaSk7UX">https://t.co/UmZjaSk7UX</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> (photo credit: <a href="https://twitter.com/hspter?ref_src=twsrc%5Etfw">@hspter</a>) <a href="https://t.co/IVbaVmKhYp">pic.twitter.com/IVbaVmKhYp</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1017562721456275456?ref_src=twsrc%5Etfw">July 13, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">super useful <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> thing i realized today:<br><br>if you--like me, a Fool--accidentally print some huge output to your console instead of assigning it to an object, you can run `mything &lt;- .Last.value` to avoid re-running your script. RT to save a life*<br><br>*(a few minutes, probably)</p>&mdash; Brooke Watson (@brookLYNevery1) <a href="https://twitter.com/brookLYNevery1/status/1017179442274275335?ref_src=twsrc%5Etfw">July 11, 2018</a></blockquote>
 
