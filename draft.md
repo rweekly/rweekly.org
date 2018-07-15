@@ -144,8 +144,7 @@ Release Date: 2018-07-16
 
 + [How the odds ratio confounds: a brief study in a few colorful figures](https://www.rdatagen.net/post/log-odds/)
 
-+ [[ggplot2] Welcome viridis !]
-(https://rtask.thinkr.fr/blog/ggplot2-welcome-viridis/)
++ [ggplot2 Welcome viridis!](https://rtask.thinkr.fr/blog/ggplot2-welcome-viridis/)
 
 + [New open data sets from Microsoft Research](http://blog.revolutionanalytics.com/2018/07/msr-open-data.html)
 
