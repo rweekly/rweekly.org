@@ -36,18 +36,15 @@ Release Date: 2018-07-16
 
 + [ggspatial 1.0.0](https://github.com/paleolimbot/ggspatial) - A ggplot2 R extension for plotting Spatial* objects
 
-
 + [sitmo 2.0.0](http://thecoatlessprofessor.com/software-releases/sitmo-v2.0.0-released/) - Header-only suite of Parallel Pseudo Random Number Generators (PPRNGs)
-
 
 + [searcher 0.3.0](http://thecoatlessprofessor.com/software-releases/searcher-v0.0.3-released/) - a search interface to look up terms on search engines and development websites from _R_.
 
-![Example `searcher` usage](https://i.imgur.com/Zq2rg6G.gif)
-
+![Example `searcher` usage](https://raw.githubusercontent.com/rweekly/image/master/2018/searchr.gif)
 
 + [cetcolor 0.2.0](http://thecoatlessprofessor.com/software-releases/cetcolor-v0.2.0-released-cet-perceptually-uniform-color-maps-with-support-for-colour-blind-users-and-short-names/) - Perceptually Uniform Color Maps with Support for Colour Blind Users and Short Names
 
-![cetcolor's 56 colour maps](https://raw.githubusercontent.com/coatless/cetcolor/da9c81f0254f6d4f4fe714c21da80a57bc46e806/tools/colordemo-1.png)
+![cetcolor's 56 colour maps](https://raw.githubusercontent.com/rweekly/image/master/2018/colordemo-1.png)
 
 
 ### Insights
@@ -56,9 +53,7 @@ Release Date: 2018-07-16
 
 + [The Ten Commandments for a well-formatted database](https://rtask.thinkr.fr/blog/the-ten-commandments-for-a-well-formatted-database/)
 
-+ [World Income, Inequality and Murder](http://staff.math.su.se/hoehle/blog/2018/07/09/gini.html)
-
-+ [[ggplot2] Welcome viridis !](https://rtask.thinkr.fr/blog/ggplot2-welcome-viridis/)
++ [ggplot2 Welcome viridis !](https://rtask.thinkr.fr/blog/ggplot2-welcome-viridis/)
 
 + [Teaching R to New Users - From tapply to the Tidyverse](https://simplystatistics.org/2018/07/12/use-r-keynote-2018/)
 
@@ -66,6 +61,9 @@ Release Date: 2018-07-16
 
 + [Challenges visualising climate extremes with Leaflet](https://medium.com/@rensa/challenges-visualising-climate-extremes-with-leaflet-7a407162d75f)
 
++ [World Income, Inequality and Murder](http://staff.math.su.se/hoehle/blog/2018/07/09/gini.html)
+
+![World Income, Inequality and Murder](https://raw.githubusercontent.com/rweekly/image/master/2018/MURDERGINIPLOT.png)
 
 ###  R in Academia
 
@@ -78,7 +76,7 @@ Release Date: 2018-07-16
 
 ###  Videos and Podcasts
 
-+ [SuperDataScience171](https://soundcloud.com/superdatascience/sds-171-deep-dive-into-r-programming-r-studio): Deep dive into R Programming & R Studio. In this episode, Kirill chatted with the Director of Solutions Engineering for RStudio, Nathan Stephens about analytics infrastructure & how this can be used in the data lab and the production environment.
++ [SuperDataScience171](https://soundcloud.com/superdatascience/sds-171-deep-dive-into-r-programming-r-studio) - Deep dive into R Programming & R Studio. In this episode, Kirill chatted with the Director of Solutions Engineering for RStudio, Nathan Stephens about analytics infrastructure & how this can be used in the data lab and the production environment.
 
 
 ### Gist & Cookbook
@@ -88,10 +86,7 @@ Release Date: 2018-07-16
 
 ###  R in Organizations
 
-
-
 + [HavanaR Workshop 2018](http://forwards.github.io/blog/2018/07/07/havanar/)
-
 
 ### R Internationally
 
@@ -109,10 +104,13 @@ Release Date: 2018-07-16
 
 + [Image Manipulation for Machine Learning in R](https://heartbeat.fritz.ai/image-manipulation-for-machine-learning-in-r-ff2b92069fef)
 
++ [How the odds ratio confounds: a brief study in a few colorful figures](https://www.rdatagen.net/post/log-odds/)
+
+![How the odds ratio confounds: a brief study in a few colorful figures](https://www.rdatagen.net/post/2018-07-10-odds-ratio_files/figure-html/unnamed-chunk-5-1.png)
+
 + [Communicating with UDP Sockets from R](http://unconj.ca/blog/udp-sockets-in-r.html)
 
 + [Zomato in New Delhi and K-means](https://pradeepadhokshaja.wordpress.com/2018/06/25/zomato-in-new-delhi-and-k-means/)
-
 
 + [One Little Thing: Embed a File in the HTML Output of R Markdown](https://yihui.name/en/2018/07/embed-file/)
 
@@ -138,19 +136,13 @@ Release Date: 2018-07-16
 
 + [Ikeda map (fractal)](https://coolbutuseless.github.io/2018/07/09/ikeda-map-fractal/)
 
-+ [World Income, Inequality and Murder](http://staff.math.su.se/hoehle/blog/2018/07/09/gini.html)
+![Ikeda map (fractal)](https://coolbutuseless.github.io/post/2018-07-08-ikeda-map_files/figure-html/unnamed-chunk-1-1.png)
 
 + [The Ten Commandments for a well-formatted database](https://rtask.thinkr.fr/blog/the-ten-commandments-for-a-well-formatted-database/)
 
-+ [How the odds ratio confounds: a brief study in a few colorful figures](https://www.rdatagen.net/post/log-odds/)
-
-+ [ggplot2 Welcome viridis!](https://rtask.thinkr.fr/blog/ggplot2-welcome-viridis/)
-
 + [New open data sets from Microsoft Research](http://blog.revolutionanalytics.com/2018/07/msr-open-data.html)
 
-+ [LIBD rstats club remote useR!2018 notes](http://feedproxy.google.com/~r/LIBDrstats/~3/eVTz72Mu1ok/)
-
-+ [Because it's Friday: Language and Thought](http://blog.revolutionanalytics.com/2018/07/because-its-friday-language-and-thought.html)
++ [LIBD rstats club remote useR!2018 notes](http://research.libd.org/rstatsclub/2018/07/13/libd-rstats-club-remote-user-2018-notes/)
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
