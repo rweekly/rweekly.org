@@ -45,6 +45,7 @@ Release Date: 2018-07-16
 
 ###  Resources
 
++ [Why I rarely use `apply`](https://privefl.github.io/blog/why-i-rarely-use-apply/)
 
 
 
