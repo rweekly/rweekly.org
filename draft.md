@@ -89,6 +89,9 @@ Events in 3 Months:
 + [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />
 Buenos Aires, Argentina.
 
++ [Econometrics and Statistics using R](http://gades-training.com/en/cursos/Econometrics-and-Statistics-Using-R) **Sept 10-14** <br />
+Lisbon, Portugal.
+
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
