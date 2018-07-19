@@ -51,7 +51,8 @@ Release Date: 2018-07-16
 
 ###  Videos and Podcasts
 
-
++ [Recipes for Data Processing - Part 1 - Max Kuhn](https://www.youtube.com/watch?v=JacpQdj1Vfc)
++ [Recipes for Data Processing - Part 2 - Max Kuhn](https://www.youtube.com/watch?v=ss-pIcwOUFo)
 
 ### Gist & Cookbook
 
