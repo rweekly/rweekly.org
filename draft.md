@@ -18,6 +18,7 @@ Release Date: 2018-07-16
 
 **CRAN**
 
++ [Stickylabeller](https://rensa.co/projects/stickylabeller/) - easily include summary statistics and even automatically number/letter your facets for use in papers and reports
 
 
 **BioC**
@@ -37,6 +38,10 @@ Release Date: 2018-07-16
 
 ### R in the Real World
 
+
++ [This post talks about using Random Forests to model the Number of Votes a Zomato restaurant gets.](https://pradeepadhokshaja.wordpress.com/2018/07/01/zomato-predicting-the-number-of-votes-for-new-delhi-restaurants/)
+
++ [Recreating (more) data visualizations from the book “Knowledge is Beautiful”: Part IV](https://towardsdatascience.com/recreating-more-data-visualizations-from-the-book-knowledge-is-beautiful-part-iv-686938a84c9e)
 
 
 ###  R in Academia
@@ -70,6 +75,8 @@ Release Date: 2018-07-16
 
 + [Automated Text Feature Engineering using textfeatures in R](https://datascienceplus.com/automated-text-feature-engineering-using-textfeatures-in-r/)
 
++ [Introducing the monitoring and evaluation bullet chart ](https://www.amitkohli.com/introducing-the-monitoring-and-evaluation-bullet-chart/)
+
 
 
 
@@ -85,6 +92,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
 
 + [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />
 Buenos Aires, Argentina.
@@ -108,7 +116,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
-
++ [Econometrics and Statistics using R](http://gades-training.com/r-training/) - Econometrics and Statistics usin R is organized in 5 training days that will provide you a full set of tools and techniques that any modern applied researcher needs to know. 10-14 September - Lisbon, Portugal
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
