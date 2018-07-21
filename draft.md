@@ -40,6 +40,9 @@ Release Date: 2018-07-16
 
 + [nanotime 0.2.2](http://dirk.eddelbuettel.com/blog/2018/07/18#nanotime_0.2.2)
 
++ [R.devices 2.16.0](https://cran.r-project.org/package=R.devices) - Unified Handling of Graphics Devices
+
+
 ### Insights
 
 + [Highlights from the useR! 2018 conference in Brisbane](http://blog.revolutionanalytics.com/2018/07/user-2018-recap.html)
