@@ -47,6 +47,8 @@ Release Date: 2018-07-16
 
 + [Highlights from the useR! 2018 conference in Brisbane](http://blog.revolutionanalytics.com/2018/07/user-2018-recap.html)
 
++ [R.devices - Into the Void](https://www.jottr.org/2018/07/21/suppressgraphics/)
+
 
 ### R in the Real World
 
