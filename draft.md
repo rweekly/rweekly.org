@@ -68,7 +68,7 @@ Release Date: 2018-07-16
 
 ###  Tutorials
 
-
++ [Automated Text Feature Engineering using textfeatures in R](https://datascienceplus.com/automated-text-feature-engineering-using-textfeatures-in-r/)
 
 
 
