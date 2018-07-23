@@ -10,7 +10,11 @@ Release Date: 2018-07-16
 ###  Highlight
 
 
++ [Twitter Coverage of the useR Conference 2018](https://github.com/neilfws/Twitter/blob/master/user2018/code/R/user2018.md)
 
++ [UseR! 2018 Videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos)
+
++ [Highlights from the useR! 2018 conference in Brisbane](http://blog.revolutionanalytics.com/2018/07/user-2018-recap.html)
 
 ###  New Packages
 
@@ -31,6 +35,8 @@ Release Date: 2018-07-16
 ### Package Releases
 
 + [plotly 4.8.0](https://blog.cpsievert.me/2018/07/18/plotly-4-8-0-now-on-cran/) - Create Interactive Web Graphics via 'plotly.js'
+
+![plotly 4.8.0](https://github.com/rweekly/image/blob/master/2018/plotly2.gif)
 
 + [fst 0.8.0](http://blog.fstpackage.org/2018/01/fst_0.8.0/) - Lightning fast serialization of data frames using the fst package
 
@@ -106,7 +112,7 @@ Release Date: 2018-07-16
 
 + [Introduction to mapping with {sf} & Co.](https://statnmap.com/2018-07-14-introduction-to-mapping-with-sf-and-co/)
 
-![Introduction to mapping with {sf} & Co.](https://statnmap.com/post/2018-07-14-introduction-to-mapping-with-sf-and-co/tmap-1.jpeg)
+![Introduction to mapping with {sf} & Co.](https://raw.githubusercontent.com/rweekly/image/master/2018/tmap-1.jpeg)
 
 + [Automated Text Feature Engineering using textfeatures in R](https://datascienceplus.com/automated-text-feature-engineering-using-textfeatures-in-r/)
 
@@ -115,7 +121,7 @@ Release Date: 2018-07-16
 
 + [Introducing the monitoring and evaluation bullet chart ](https://www.amitkohli.com/introducing-the-monitoring-and-evaluation-bullet-chart/)
 
-+ [FROM DATA TO VIZ FIND THE GRAPHIC YOU NEED](https://www.r-graph-gallery.com/from-data-to-viz-find-the-graphic-you-need/)
++ [From Data to Viz Find the Graphic You Need](https://www.r-graph-gallery.com/from-data-to-viz-find-the-graphic-you-need/)
 
 + [Hamiltonian tails](https://xianblog.wordpress.com/2018/07/17/hamiltonian-tails/)
 
@@ -139,13 +145,13 @@ Release Date: 2018-07-16
 
 + [🎨 Palettes - Archer poster edition](https://maraaverick.rbind.io/2018/07/palettes-archer-poster-edition/)
 
+![Palettes - Archer poster edition](https://raw.githubusercontent.com/rweekly/image/master/2018/pals-all-1.png)
+
 + [Creating legends when aesthetics are constants in ggplot2](https://aosmith.rbind.io/2018/07/19/legends-constants-for-aesthetics-in-ggplot2/)
 
 + [Learn to R blog series - Operators and Objects](https://itsalocke.com/blog/learn-to-r-blog-series---operators-and-objects/)
 
 + [Randomize by, or within, cluster?](https://www.rdatagen.net/post/by-vs-within/)
-
-+ [stickylabeller](https://rensa.co/projects/stickylabeller/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
