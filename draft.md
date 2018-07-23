@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2018-29
+title: R Weekly 2018-30
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -45,6 +45,9 @@ Release Date: 2018-07-16
 + [pinp 0.0.6: Two new options](http://dirk.eddelbuettel.com/blog/2018/07/17#pinp_0.0.6)
 
 + [nanotime 0.2.2](http://dirk.eddelbuettel.com/blog/2018/07/18#nanotime_0.2.2)
+
++ [R.devices 2.16.0](https://cran.r-project.org/package=R.devices) - Unified Handling of Graphics Devices
+
 
 ### Insights
 
