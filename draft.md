@@ -28,9 +28,12 @@ Release Date: 2018-07-30
 
 ### Package Releases
 
++ [future 1.9.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone.  A major milestone release: Standard output is now relayed back to the master R session.
+
 
 ### Insights
 
++ [future 1.9.0 - Output from The Future](https://www.jottr.org/2018/07/23/output-from-the-future/)
 
 + [R.devices - Into the Void](https://www.jottr.org/2018/07/21/suppressgraphics/)
 
