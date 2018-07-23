@@ -80,6 +80,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [SatRday](https://amsterdam2018.satrdays.org/) **Aug 31-Sept 1**<br />
+Amsterdam, the Netherlands.
 
 + [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />
 Buenos Aires, Argentina.
