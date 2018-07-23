@@ -32,6 +32,8 @@ Release Date: 2018-07-30
 ### Insights
 
 
++ [R.devices - Into the Void](https://www.jottr.org/2018/07/21/suppressgraphics/)
+
 
 ### R in the Real World
 
