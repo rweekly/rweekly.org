@@ -69,6 +69,8 @@ Release Date: 2018-07-30
 
 ###  Tutorials
 
++ [Animating the Goals of the World Cup with R: Comparing the old vs. new gganimate & tweenr API!](https://ryo-n7.github.io/2018-07-24-visualize-worldcup-part-3/)
+![](https://i.imgur.com/ceSA3YB.gif)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
