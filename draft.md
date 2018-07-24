@@ -37,6 +37,9 @@ Release Date: 2018-07-30
 
 ### R in the Real World
 
++ [autoSmry update 1 now live - autoSmry is a R tool I created that tries to find the most important sentences in an article](https://www.brucemeng.ca/project/autosmry/)
+
+![autoSmry update 1 now live](https://www.brucemeng.ca/img/autosmry.update.1/autosmry.update.1.canada.gif)
 
 ###  R in Academia
 
