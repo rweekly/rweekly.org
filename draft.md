@@ -17,7 +17,7 @@ Release Date: 2018-07-30
 
 **CRAN**
 
-
++ [fpeek](https://cran.r-project.org/package=fpeek): Check Text Files Content at a Glance
 
 **BioC**
 
@@ -33,6 +33,8 @@ Release Date: 2018-07-30
 
 
 + [R.devices - Into the Void](https://www.jottr.org/2018/07/21/suppressgraphics/)
+
++ [Whether to use a data frame in R?](https://privefl.github.io/blog/whether-to-use-a-data-frame-in-r/)
 
 
 ### R in the Real World
