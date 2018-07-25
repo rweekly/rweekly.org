@@ -36,6 +36,9 @@ Release Date: 2018-07-30
 
 ### R in the Real World
 
++ [autoSmry update 1 now live - autoSmry is a R tool I created that tries to find the most important sentences in an article](https://www.brucemeng.ca/project/autosmry/)
+
+![autoSmry update 1 now live](https://www.brucemeng.ca/img/autosmry.update.1/autosmry.update.1.canada.gif)
 
 ###  R in Academia
 
@@ -69,6 +72,10 @@ Release Date: 2018-07-30
 
 + [R.devices - Into the Void](https://www.jottr.org/2018/07/21/suppressgraphics/)
 
++ [Animating the Goals of the World Cup with R: Comparing the old vs. new gganimate & tweenr API!](https://ryo-n7.github.io/2018-07-24-visualize-worldcup-part-3/)
+![](https://i.imgur.com/ceSA3YB.gif)
+
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -82,6 +89,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [SatRday](https://amsterdam2018.satrdays.org/) **Aug 31-Sept 1**<br />
+Amsterdam, the Netherlands.
 
 + [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />
 Buenos Aires, Argentina.
