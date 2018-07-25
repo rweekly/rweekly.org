@@ -33,10 +33,6 @@ Release Date: 2018-07-30
 
 ### Insights
 
-+ [future 1.9.0 - Output from The Future](https://www.jottr.org/2018/07/23/output-from-the-future/)
-
-+ [R.devices - Into the Void](https://www.jottr.org/2018/07/21/suppressgraphics/)
-
 
 ### R in the Real World
 
@@ -69,6 +65,9 @@ Release Date: 2018-07-30
 
 ###  Tutorials
 
++ [future 1.9.0 - Output from The Future](https://www.jottr.org/2018/07/23/output-from-the-future/)
+
++ [R.devices - Into the Void](https://www.jottr.org/2018/07/21/suppressgraphics/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
