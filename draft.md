@@ -17,6 +17,7 @@ Release Date: 2018-07-30
 
 **CRAN**
 
++ [tiobeindexr](https://cran.r-project.org/web/packages/tiobeindexr/index.html) - Get latest 'TIOBE' Programming Index Tables. The 'TIOBE' Programming Community index is an indicator of the popularity of programming languages.
 
 
 **BioC**
