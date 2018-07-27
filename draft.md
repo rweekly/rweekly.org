@@ -34,8 +34,6 @@ Release Date: 2018-07-30
 
 + [R.devices - Into the Void](https://www.jottr.org/2018/07/21/suppressgraphics/)
 
-+ [Whether to use a data frame in R?](https://privefl.github.io/blog/whether-to-use-a-data-frame-in-r/)
-
 
 ### R in the Real World
 
@@ -73,6 +71,8 @@ Release Date: 2018-07-30
 
 + [Animating the Goals of the World Cup with R: Comparing the old vs. new gganimate & tweenr API!](https://ryo-n7.github.io/2018-07-24-visualize-worldcup-part-3/)
 ![](https://i.imgur.com/ceSA3YB.gif)
+
++ [Whether to use a data frame in R?](https://privefl.github.io/blog/whether-to-use-a-data-frame-in-r/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
