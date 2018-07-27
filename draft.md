@@ -17,7 +17,7 @@ Release Date: 2018-07-30
 
 **CRAN**
 
-
++ [fpeek](https://cran.r-project.org/package=fpeek): Check Text Files Content at a Glance
 
 **BioC**
 
@@ -75,10 +75,11 @@ Release Date: 2018-07-30
 + [Animating the Goals of the World Cup with R: Comparing the old vs. new gganimate & tweenr API!](https://ryo-n7.github.io/2018-07-24-visualize-worldcup-part-3/)
 ![](https://i.imgur.com/ceSA3YB.gif)
 
++ [Whether to use a data frame in R?](https://privefl.github.io/blog/whether-to-use-a-data-frame-in-r/)
+
 + [Make better maps in R with vector tiles](https://www.dshkol.com/2018/better-maps-with-vector-tiles/)
 
 ![](https://i.imgur.com/bYLZKdI.png?1)
-
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
