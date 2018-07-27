@@ -28,11 +28,10 @@ Release Date: 2018-07-30
 
 ### Package Releases
 
++ [future 1.9.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone.  A major milestone release: Standard output is now relayed back to the master R session.
+
 
 ### Insights
-
-
-+ [R.devices - Into the Void](https://www.jottr.org/2018/07/21/suppressgraphics/)
 
 
 ### R in the Real World
@@ -68,6 +67,10 @@ Release Date: 2018-07-30
 
 
 ###  Tutorials
+
++ [future 1.9.0 - Output from The Future](https://www.jottr.org/2018/07/23/output-from-the-future/)
+
++ [R.devices - Into the Void](https://www.jottr.org/2018/07/21/suppressgraphics/)
 
 + [Animating the Goals of the World Cup with R: Comparing the old vs. new gganimate & tweenr API!](https://ryo-n7.github.io/2018-07-24-visualize-worldcup-part-3/)
 ![](https://i.imgur.com/ceSA3YB.gif)
