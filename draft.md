@@ -19,6 +19,8 @@ Release Date: 2018-07-30
 
 + [fpeek](https://cran.r-project.org/package=fpeek): Check Text Files Content at a Glance
 
++ [Gifski](https://ropensci.org/technotes/2018/07/23/gifski-release/) - the fastest GIF encoder in the universe
+
 **BioC**
 
 
@@ -30,15 +32,48 @@ Release Date: 2018-07-30
 
 + [future 1.9.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone.  A major milestone release: Standard output is now relayed back to the master R session.
 
++ [Rcpp 0.12.18: Another batch of updates](http://dirk.eddelbuettel.com/blog/2018/07/23#rcpp_0.12.18)
+
 
 ### Insights
 
++ [The Revamped bookdown.org Website](https://blog.rstudio.com/2018/07/25/revamped-bookdown-org/)
+
++ [Where to get help with your R question?](https://masalmon.eu/2018/07/22/wheretogethelp/)
+
++ [rOpenSci Educators Collaborative: What Educational Resources Work Well and Why?](https://ropensci.org/blog/2018/07/25/educollab-resources/)
+
+
++ [rOpenSci Educators Collaborative: What Are The Challenges When Teaching Science With R?](https://ropensci.org/blog/2018/07/24/educollab-challenges/)
+
+
+###  R in Organizations
+
++ [rOpenSci Educators Collaborative: How Can We Develop a Community of Innovative R Educators?](https://ropensci.org/blog/2018/07/26/educollab-community/)
+
++ [Interview R/Medicine 2018 conference organizer Micheal Kane](https://www.r-consortium.org/blog/2018/07/23/interview-r-medicine-2018-conference-organizer-micheal-kane)
+
++ [Hacking our way through UpSetR](http://research.libd.org/rstatsclub/2018/07/27/hacking-our-way-through-upsetr/)
+
++ [LIBD rstats club remote useR!2018 notes](http://research.libd.org/rstatsclub/2018/07/13/libd-rstats-club-remote-user-2018-notes/)
+
++ [Should R Consortium Recommend CII Best Practices Badge for R Packages: Latest Survey Results](https://www.r-consortium.org/blog/2018/07/26/should-r-consortium-recommend-cii-best-practices-badge-for-r-packages-latest-survey-results)
+
++ [Announcing the 1st Bookdown Contest](https://blog.rstudio.com/2018/07/27/first-bookdown-contest/)
+
++ [No worries! Afterthoughts from UseR 2018](http://smarterpoland.pl/index.php/2018/07/no-worries-afterthoughts-from-user-2018/)
 
 ### R in the Real World
 
 + [autoSmry update 1 now live - autoSmry is a R tool I created that tries to find the most important sentences in an article](https://www.brucemeng.ca/project/autosmry/)
 
 ![autoSmry update 1 now live](https://www.brucemeng.ca/img/autosmry.update.1/autosmry.update.1.canada.gif)
+
++ [Using satellite temperature data from the University of Alabama in Huntsville to look at global temperatures over the last 40 years.](https://www.davidkane.info/post/june-2018-global-temperature/)
+
++ [Really old R](https://medium.com/@davidhughjones/really-old-r-6d37549d1a88)
+
++ [A post comparing the use of bubble grids and choropleths for visual encoding of geo-spatial data (using the sf functionality of ggplot2 v3!).](https://tonyelhabr.rbind.io/posts/bubble-grid-texas-high-school/)
 
 ###  R in Academia
 
@@ -55,10 +90,6 @@ Release Date: 2018-07-30
 
 ### Gist & Cookbook
 
-
-
-
-###  R in Organizations
 
 
 
@@ -80,6 +111,50 @@ Release Date: 2018-07-30
 + [Make better maps in R with vector tiles](https://www.dshkol.com/2018/better-maps-with-vector-tiles/)
 
 ![](https://i.imgur.com/bYLZKdI.png?1)
+
+
++ [External presentation goal](https://uncmbbtrivia.netlify.com/post/2018/07/22/external-presentation-goal/)
+
++ [Comments on data analysis workflow](https://uncmbbtrivia.netlify.com/post/2018/07/22/comments-on-data-analysis-workflow/)
+
++ [AI, Machine Learning and Data Science Roundup: July 2018](http://blog.revolutionanalytics.com/2018/07/ai-roundup-july-2018.html)
+
++ [Amazon's Hanging Cable Problem (Golden Gate Edition)](http://staff.math.su.se/hoehle/blog/2018/07/23/cable.html)
+
++ [The Best Way to Support LaTeX Math in Markdown with MathJax](https://yihui.name/en/2018/07/latex-math-markdown/)
+
++ [A quick tour of AI services in Azure](http://blog.revolutionanalytics.com/2018/07/a-quick-tour-of-ai-services-in-azure.html)
+
++ [Shortest unique prefix - it's a builtin function](https://coolbutuseless.github.io/2018/07/24/shortest-unique-prefix---its-a-builtin-function/)
+
++ [Animating the Goals of the World Cup: Comparing the old vs. new gganimate and tweenr API!](http://Ryo-N7.github.io/2018-07-24-visualize-worldcup-part-3/)
+
++ [Slowly but Steadily, They Started to Help Me Answer Questions](https://yihui.name/en/2018/07/help-answer-questions/)
+
++ [Thoughts on writing "AI in Actuarial Science"](http://ronaldrichman.co.za/2018/07/25/thoughts-on-writing-ai-in-actuarial-science/)
+
++ [Thoughts on writing "AI in Actuarial Science"](http://ronaldrichman.co.za/2018/07/25/thoughts-on-writing-ai-in-actuarial-science/)
+
++ [How to use rquery with Apache Spark on Databricks](http://www.win-vector.com/blog/2018/07/how-to-use-rquery-with-apache-spark-on-databricks/)
+
++ [Partitioning the Variation in Data](https://simplystatistics.org/2018/07/23/partitioning-the-variation-in-data/)
+
++ [My old coding products](https://uncmbbtrivia.netlify.com/post/2018/07/27/my-old-coding-products/)
+
++ [unpipe - rewriting an expression without the pipes](https://coolbutuseless.github.io/2018/07/26/unpipe---rewriting-an-expression-without-the-pipes/)
+
++ [Arthur blinked, Ford shrugs, but Zaphod leapt; text as graph](https://blog.rmhogervorst.nl/blog/2018/07/24/arthur-blinked-ford-shrugs-displaying-words-as-graph/)
+
++ [Using themes in ggplot2](https://www.statworx.com/de/blog/using-themes-in-ggplot2/)
+
++ [Maps with inlmisc](https://owi.usgs.gov/blog/inlmiscmaps/)
+
++ [Machine Learning Results in R: one plot to rule them all! (Part 2 – Regression Models)](https://datascienceplus.com/machine-learning-results-in-r-one-plot-to-rule-them-all-part-2-regression-models/)
+
++ [REST APIs and Plumber](https://rviews.rstudio.com/2018/07/23/rest-apis-and-plumber/)
+
+
++ [Real-time data visualization using R and data extracting from SQL Server](https://tomaztsql.wordpress.com/2018/07/23/real-time-data-visualization-using-r-and-data-extracting-from-sql-server/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -124,4 +199,10 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Truth <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/2YNApUZtCu">pic.twitter.com/2YNApUZtCu</a></p>&mdash; Sam Williams (@_sam_williams_) <a href="https://twitter.com/_sam_williams_/status/1022748404693254145?ref_src=twsrc%5Etfw">July 27, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Had no idea that you could pull a Google map in one line of code and use ggplot2 to add layers to it until <a href="https://twitter.com/LittleMissData?ref_src=twsrc%5Etfw">@LittleMissData</a> just blew my mind. 💯 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/41E4Gf2rDY">pic.twitter.com/41E4Gf2rDY</a></p>&mdash; Caitlin Hudon👩🏼‍💻 (@beeonaposy) <a href="https://twitter.com/beeonaposy/status/1022287006876033024?ref_src=twsrc%5Etfw">July 26, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1/4<br>“So that plot is an—“ <br>“Yep, elevation map.” <br>“And this plot is also a—“ <br>“Yep, also an elevation map.” <br>“So are you seriously telling me you turned all these plots into—“ <br>“Elevation maps. It’s elevation maps all the way down.”<br><br>Preview: 3D ggplots w/🕶️<a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> 😉<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/9boxiRzOzr">pic.twitter.com/9boxiRzOzr</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href="https://twitter.com/tylermorganwall/status/1021360873045209088?ref_src=twsrc%5Etfw">July 23, 2018</a></blockquote>
 
