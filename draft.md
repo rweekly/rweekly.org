@@ -21,6 +21,8 @@ Release Date: 2018-07-30
 
 + [Gifski](https://ropensci.org/technotes/2018/07/23/gifski-release/) - the fastest GIF encoder in the universe
 
++ [cleandata](https://cran.r-project.org/package=cleandata) - Collection of functions to Inspect, Impute, and Encode Data
+
 **BioC**
 
 
