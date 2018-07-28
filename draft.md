@@ -77,6 +77,10 @@ Release Date: 2018-07-30
 
 + [Whether to use a data frame in R?](https://privefl.github.io/blog/whether-to-use-a-data-frame-in-r/)
 
++ [Make better maps in R with vector tiles](https://www.dshkol.com/2018/better-maps-with-vector-tiles/)
+
+![](https://i.imgur.com/bYLZKdI.png?1)
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
