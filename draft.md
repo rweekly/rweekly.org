@@ -133,8 +133,6 @@ Release Date: 2018-07-30
 
 + [Thoughts on writing "AI in Actuarial Science"](http://ronaldrichman.co.za/2018/07/25/thoughts-on-writing-ai-in-actuarial-science/)
 
-+ [Thoughts on writing "AI in Actuarial Science"](http://ronaldrichman.co.za/2018/07/25/thoughts-on-writing-ai-in-actuarial-science/)
-
 + [How to use rquery with Apache Spark on Databricks](http://www.win-vector.com/blog/2018/07/how-to-use-rquery-with-apache-spark-on-databricks/)
 
 + [Partitioning the Variation in Data](https://simplystatistics.org/2018/07/23/partitioning-the-variation-in-data/)
