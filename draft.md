@@ -17,6 +17,8 @@ Release Date: 2018-08-06
 
 **CRAN**
 
++ [bigreadr](https://cran.r-project.org/package=bigreadr): Read large text files by splitting them in smaller parts.
+
 
 **BioC**
 
