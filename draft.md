@@ -9,7 +9,13 @@ Release Date: 2018-07-30
 
 ###  Highlight
 
++ [Gifski](https://ropensci.org/technotes/2018/07/23/gifski-release/) - the fastest GIF encoder in the universe
 
++ [Where to get help with your R question?](https://masalmon.eu/2018/07/22/wheretogethelp/)
+
++ [rOpenSci Educators Collaborative: What Educational Resources Work Well and Why?](https://ropensci.org/blog/2018/07/25/educollab-resources/)
+
++ [Should R Consortium Recommend CII Best Practices Badge for R Packages: Latest Survey Results](https://www.r-consortium.org/blog/2018/07/26/should-r-consortium-recommend-cii-best-practices-badge-for-r-packages-latest-survey-results)
 
 ###  New Packages
 
@@ -20,6 +26,8 @@ Release Date: 2018-07-30
 + [fpeek](https://cran.r-project.org/package=fpeek): Check Text Files Content at a Glance
 
 + [Gifski](https://ropensci.org/technotes/2018/07/23/gifski-release/) - the fastest GIF encoder in the universe
+
+![Gifski](https://raw.githubusercontent.com/rweekly/image/master/2018/Uwz4Fyi.gif)
 
 **BioC**
 
@@ -46,10 +54,10 @@ Release Date: 2018-07-30
 
 + [rOpenSci Educators Collaborative: What Are The Challenges When Teaching Science With R?](https://ropensci.org/blog/2018/07/24/educollab-challenges/)
 
++ [rOpenSci Educators Collaborative: How Can We Develop a Community of Innovative R Educators?](https://ropensci.org/blog/2018/07/26/educollab-community/)
 
 ###  R in Organizations
 
-+ [rOpenSci Educators Collaborative: How Can We Develop a Community of Innovative R Educators?](https://ropensci.org/blog/2018/07/26/educollab-community/)
 
 + [Interview R/Medicine 2018 conference organizer Micheal Kane](https://www.r-consortium.org/blog/2018/07/23/interview-r-medicine-2018-conference-organizer-micheal-kane)
 
@@ -67,13 +75,15 @@ Release Date: 2018-07-30
 
 + [autoSmry update 1 now live - autoSmry is a R tool I created that tries to find the most important sentences in an article](https://www.brucemeng.ca/project/autosmry/)
 
-![autoSmry update 1 now live](https://www.brucemeng.ca/img/autosmry.update.1/autosmry.update.1.canada.gif)
+![autoSmry update 1 now live](https://raw.githubusercontent.com/rweekly/image/master/2018/wiki.auto.PNG)
 
 + [Using satellite temperature data from the University of Alabama in Huntsville to look at global temperatures over the last 40 years.](https://www.davidkane.info/post/june-2018-global-temperature/)
 
 + [Really old R](https://medium.com/@davidhughjones/really-old-r-6d37549d1a88)
 
 + [A post comparing the use of bubble grids and choropleths for visual encoding of geo-spatial data (using the sf functionality of ggplot2 v3!).](https://tonyelhabr.rbind.io/posts/bubble-grid-texas-high-school/)
+
+![A post comparing the use of bubble grids](https://raw.githubusercontent.com/rweekly/image/master/2018/viz_schools_grid.png)
 
 ###  R in Academia
 
@@ -104,14 +114,10 @@ Release Date: 2018-07-30
 + [R.devices - Into the Void](https://www.jottr.org/2018/07/21/suppressgraphics/)
 
 + [Animating the Goals of the World Cup with R: Comparing the old vs. new gganimate & tweenr API!](https://ryo-n7.github.io/2018-07-24-visualize-worldcup-part-3/)
-![](https://i.imgur.com/ceSA3YB.gif)
+
+![Animating the Goals of the World Cup with R: Comparing the old vs. new gganimate & tweenr API!](https://raw.githubusercontent.com/rweekly/image/master/2018/ceSA3YB.gif)
 
 + [Whether to use a data frame in R?](https://privefl.github.io/blog/whether-to-use-a-data-frame-in-r/)
-
-+ [Make better maps in R with vector tiles](https://www.dshkol.com/2018/better-maps-with-vector-tiles/)
-
-![](https://i.imgur.com/bYLZKdI.png?1)
-
 
 + [External presentation goal](https://uncmbbtrivia.netlify.com/post/2018/07/22/external-presentation-goal/)
 
@@ -126,6 +132,11 @@ Release Date: 2018-07-30
 + [A quick tour of AI services in Azure](http://blog.revolutionanalytics.com/2018/07/a-quick-tour-of-ai-services-in-azure.html)
 
 + [Shortest unique prefix - it's a builtin function](https://coolbutuseless.github.io/2018/07/24/shortest-unique-prefix---its-a-builtin-function/)
+
++ [Make better maps in R with vector tiles](https://www.dshkol.com/2018/better-maps-with-vector-tiles/)
+
+![Make better maps in R with vector tiles](https://raw.githubusercontent.com/rweekly/image/master/2018/bYLZKdI.png)
+
 
 + [Animating the Goals of the World Cup: Comparing the old vs. new gganimate and tweenr API!](http://Ryo-N7.github.io/2018-07-24-visualize-worldcup-part-3/)
 
