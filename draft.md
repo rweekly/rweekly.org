@@ -1,14 +1,13 @@
 ---
 layout: draft
-title: R Weekly 2018-25
+title: R Weekly 2018-32
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2018-6-18
+Release Date: 2018-08-06
 
 ###  Highlight
-
 
 
 
@@ -18,7 +17,8 @@ Release Date: 2018-6-18
 
 **CRAN**
 
-+ [Package {inplace}: In-place Operators for R](https://cran.r-project.org/package=inplace)
++ [bigreadr](https://cran.r-project.org/package=bigreadr): Read large text files by splitting them in smaller parts.
+
 
 **BioC**
 
@@ -30,9 +30,12 @@ Release Date: 2018-6-18
 ### Package Releases
 
 
-
-
 ### Insights
+
+
+
+
+###  R in Organizations
 
 
 
@@ -42,27 +45,22 @@ Release Date: 2018-6-18
 
 
 
-
 ###  R in Academia
-
-+ [Data + Art STEAM Project: Initial Results](https://www.littlemissdata.com/blog/steam-data-art1)
 
 
 
 ###  Resources
 
 
+
+
 ###  Videos and Podcasts
 
-+ [DataFramed episode 26 with Jenny Bryan](https://www.datacamp.com/community/podcast/spreadsheets-data-science)
 
 
 ### Gist & Cookbook
 
 
-
-
-###  R in Organizations
 
 
 ### R Internationally
@@ -71,10 +69,11 @@ Release Date: 2018-6-18
 
 ###  Tutorials
 
-+ [Why loops are slow in R](https://privefl.github.io/blog/why-loops-are-slow-in-r/)
+
+
+
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
-
 
 ###  R Project Updates
 
@@ -87,16 +86,16 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [7eme Rencontres R](https://r2018-rennes.sciencesconf.org/)  **July 5 & 6** <br />
-Rennes - Agrocampus
-
-+ [useR! 2018](https://user2018.r-project.org/) **July 10** <br />
-The annual useR! conference is the main meeting of the international R user and developer community.
++ [SatRday](https://amsterdam2018.satrdays.org/) **Aug 31-Sept 1**<br />
+Amsterdam, the Netherlands.
 
 + [LatinR 2018](http://latin-r.com/) **Sept 4-5** <br />
 Buenos Aires, Argentina.
 
-[This week's local R-User and applied stats events (week of 2018-06-04)](https://community.rstudio.com/t/upcoming-r-community-events-week-of-2018-06-04/9079)
++ [Econometrics and Statistics using R](http://gades-training.com/en/cursos/Econometrics-and-Statistics-Using-R) **Sept 10-14** <br />
+Lisbon, Portugal.
+
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
@@ -111,6 +110,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
 ###  Call for Participation
+
+
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
