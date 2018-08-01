@@ -69,7 +69,7 @@ Release Date: 2018-08-06
 
 ###  Tutorials
 
-
++ [Data Highlight the Old School and New School Way](https://www.littlemissdata.com/blog/highlight): How to feature a subset of your data while still visualizing with respect to the full distribution.  Data highlighting the old school way (layering) and the new school way (gghighlight). 
 
 
 
