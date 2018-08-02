@@ -71,6 +71,7 @@ Release Date: 2018-08-06
 
 + [Data Highlight the Old School and New School Way](https://www.littlemissdata.com/blog/highlight): How to feature a subset of your data with respect to the full distribution.  Data highlighting the old school way (layering) and the new school way (gghighlight). 
 
+[Zooming into GWAS summary statistics](https://sinarueeger.github.io/2018/07/30/locuszoomplot/): How to annotate and visualise summary statistics from genome-wide association studies using the R-package `biomaRt`. 
 
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
