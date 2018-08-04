@@ -107,6 +107,10 @@ Release Date: 2018-08-06
 
 + [A package for dimensionality reduction of large data](https://ropensci.org/blog/2018/08/01/umapr/)
 
++ [Zooming into GWAS summary statistics](https://sinarueeger.github.io/2018/07/30/locuszoomplot/): How to annotate and visualise summary statistics from genome-wide association studies using the R-package `biomaRt`.
+
++ [A quick intro and tutorial and a cool (I think) social network analysis model for influence](https://jrosen48.github.io/blog/social-network-analysis-model-for-influence/): Influence models are just regression.
+
 + [A glass shattering book draw with gganimate](https://itsalocke.com/blog/a-glass-shattering-book-draw-with-gganimate/)
 
 + [A quick introduction and tutorial on a cool social network analysis model for influence](https://jrosen48.github.io/blog/social-network-analysis-model-for-influence/)
