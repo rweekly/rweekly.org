@@ -35,7 +35,6 @@ Release Date: 2018-08-06
 
 ### Insights
 
-
 + [How Should I Organize My R Research Projects?](https://ntguardian.wordpress.com/2018/08/02/how-should-i-organize-my-r-research-projects/)
 
 + [Beyond Basic R - Introduction and Best Practices](https://owi.usgs.gov/blog/intro-best-practices/)
@@ -90,6 +89,8 @@ Release Date: 2018-08-06
 
 
 ###  Tutorials
+
++ [When interaction is not interaction: confounding and measurement error](https://malco.io/2018/08/04/interaction-confounding/) - Mismeasuring variables and their covariates can sometimes make it appear as if there's interaction between them when there is not.
 
 + [Making static and dynamic maps using inlmisc](https://owi.usgs.gov/blog/inlmiscmaps/) - an R package developed by researchers at the United States Geological Survey (USGS) Idaho National Laboratory (INL) Project Office
 
