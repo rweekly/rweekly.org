@@ -19,6 +19,7 @@ Release Date: 2018-08-06
 
 + [bigreadr](https://cran.r-project.org/package=bigreadr): Read large text files by splitting them in smaller parts.
 
++ [June 2018: Top 40 New Packages](https://rviews.rstudio.com/2018/07/29/june-2018-top-40-new-packages/)
 
 **BioC**
 
@@ -33,17 +34,34 @@ Release Date: 2018-08-06
 ### Insights
 
 
++ [How Should I Organize My R Research Projects?](https://ntguardian.wordpress.com/2018/08/02/how-should-i-organize-my-r-research-projects/)
 
++ [Beyond Basic R - Introduction and Best Practices](https://owi.usgs.gov/blog/intro-best-practices/)
 
 ###  R in Organizations
 
 
++ [A Certification for R Package Quality](http://blog.revolutionanalytics.com/2018/07/cii-certification-for-r-packages.html)
 
++ [rstudio::conf 2019 is open for registration!](https://blog.rstudio.com/2018/07/31/rstudio-conf-2019-is-open-for-registration/)
+
++ [R Generation: 25 Years of R](http://blog.revolutionanalytics.com/2018/08/r-generation.html)
+
++ [The program for uRos2018 is online](http://www.markvanderloo.eu/yaRb/2018/08/03/the-program-for-uros2018-is-onlline/)
+
++ [Thanks, NVIDIA](http://andrewgelman.com/2018/08/01/thanks-nvidia/)
 
 ### R in the Real World
 
++ [Data Journalism with R at one of the most important German newspapers](https://github.com/sueddeutsche/rladies-presentation/blob/master/rladies-presentation-brunner-schories.pdf)
 
++ [Using satellite temperature data from the University of Alabama in Huntsville to look at global temperatures over the last 40 years.](https://www.davidkane.info/post/june-2018-global-temperature/)
 
++ [ggplot "Doodling" with HIBP Breaches](https://rud.is/b/2018/07/29/ggplot-doodling-with-hibp-breaches/)
+
++ [Business confidence and economic growth](http://freerangestats.info/blog/2018/08/01/business-expectations)
+
++ [Playing with the Fitbit API in R](https://obrl-soil.github.io/fitbit-api-r/)
 
 ###  R in Academia
 
@@ -69,12 +87,48 @@ Release Date: 2018-08-06
 
 ###  Tutorials
 
-+ [Data Highlight the Old School and New School Way](https://www.littlemissdata.com/blog/highlight): How to feature a subset of your data with respect to the full distribution.  Data highlighting the old school way (layering) and the new school way (gghighlight). 
++ [Making static and dynamic maps using inlmisc](https://owi.usgs.gov/blog/inlmiscmaps/) - an R package developed by researchers at the United States Geological Survey (USGS) Idaho National Laboratory (INL) Project Office
 
-[Zooming into GWAS summary statistics](https://sinarueeger.github.io/2018/07/30/locuszoomplot/): How to annotate and visualise summary statistics from genome-wide association studies using the R-package `biomaRt`. 
++ [Data Highlight the Old School and New School Way](https://www.littlemissdata.com/blog/highlight): How to feature a subset of your data with respect to the full distribution.  Data highlighting the old school way (layering) and the new school way (gghighlight).
 
+[Zooming into GWAS summary statistics](https://sinarueeger.github.io/2018/07/30/locuszoomplot/): How to annotate and visualise summary statistics from genome-wide association studies using the R-package `biomaRt`.
 
-<!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
++ [Create a cheap, disposable supercomputer with R, DigitalOcean, Docker, and future / furrr](https://www.andrewheiss.com/blog/2018/07/30/disposable-supercomputer-future/)
+
++ [Encoding and Rendering Grade 1 Braille](https://coolbutuseless.github.io/2018/07/31/encoding-and-rendering-grade-1-braille/)
+
++ [Highlighting with ggplot2: The Old School and New School Way](https://www.littlemissdata.com/blog/highlight)
+
++ [Judging Freehand Circle Drawing Competitions](http://staff.math.su.se/hoehle/blog/2018/07/31/circle.html)
+
++ [About lazy evaluation](https://colinfay.me/lazyeval/)
+
++ [ALLSTATisticians in decline? A polite look at ALLSTAT email Archives](https://masalmon.eu/2018/07/31/alldatascience/)
+
++ [A package for dimensionality reduction of large data](https://ropensci.org/blog/2018/08/01/umapr/)
+
++ [A glass shattering book draw with gganimate](https://itsalocke.com/blog/a-glass-shattering-book-draw-with-gganimate/)
+
++ [A quick introduction and tutorial on a cool social network analysis model for influence](https://jrosen48.github.io/blog/social-network-analysis-model-for-influence/)
+
++ [Video: How to run R and Python in SQL Server from a Jupyter notebook](http://blog.revolutionanalytics.com/2018/08/r-python-in-sql-server.html)
+
++ [Solving Statistical Computing Problems with SQL](https://yihui.name/en/2018/07/sql-stats-computing/)
+
++ [The Cool Hacker Emi Tanaka](https://yihui.name/en/2018/07/emi-tanaka/)
+
++ [Two of My Use Cases of Lazy Evaluation](https://yihui.name/en/2018/07/lazy-evaluation/)
+
++ [Saving ts objects as csv files](https://robjhyndman.com/hyndsight/ts2csv/)
+
++ [Exploratory Data Analysis in R (introduction)](https://blog.datascienceheroes.com/exploratory-data-analysis-in-r-intro/)
+
++ [Statistics Sunday: More Text Analysis - Term Frequency and Inverse Document Frequency](http://www.deeplytrivial.com/2018/07/statistics-sunday-more-text-analysis.html)
+
++ [Tuning xgboost in R: Part II](https://insightr.wordpress.com/2018/07/28/tuning-xgboost-in-r-part-ii/)
+
+<!--<div class="post-more-begi
+n"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
@@ -117,4 +171,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">TIL — You can add tabs in your RMarkdown document by adding `{.tabset}` in your header. All sub-headers will then appear in a tab instead of alone 😎<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/RMarkdown?src=hash&amp;ref_src=twsrc%5Etfw">#RMarkdown</a> <a href="https://t.co/4xPEHPph6h">pic.twitter.com/4xPEHPph6h</a></p>&mdash; Colin Fay 🤘 (@_ColinFay) <a href="https://twitter.com/_ColinFay/status/1024610845366599680?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I try to write low dependency <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> pkgs, but this is only possible b/c R has so much built-in: stats, string manip, low/high level graphics, etc.  And it is stable over time; a bedrock to build on.  Me when I think about it: 🤯.<br><br>Thank you R-Core!</p>&mdash; BrodieG (@BrodieGaslam) <a href="https://twitter.com/BrodieGaslam/status/1024277658966937600?ref_src=twsrc%5Etfw">July 31, 2018</a></blockquote>
 
