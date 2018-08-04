@@ -53,6 +53,8 @@ Release Date: 2018-08-06
 
 ### R in the Real World
 
++ [ALLSTATisticians in decline? A polite look at ALLSTAT email Archives](https://masalmon.eu/2018/07/31/alldatascience/)
+
 + [Data Journalism with R at one of the most important German newspapers](https://github.com/sueddeutsche/rladies-presentation/blob/master/rladies-presentation-brunner-schories.pdf)
 
 + [Using satellite temperature data from the University of Alabama in Huntsville to look at global temperatures over the last 40 years.](https://www.davidkane.info/post/june-2018-global-temperature/)
@@ -89,8 +91,6 @@ Release Date: 2018-08-06
 
 + [Making static and dynamic maps using inlmisc](https://owi.usgs.gov/blog/inlmiscmaps/) - an R package developed by researchers at the United States Geological Survey (USGS) Idaho National Laboratory (INL) Project Office
 
-+ [Data Highlight the Old School and New School Way](https://www.littlemissdata.com/blog/highlight): How to feature a subset of your data with respect to the full distribution.  Data highlighting the old school way (layering) and the new school way (gghighlight).
-
 [Zooming into GWAS summary statistics](https://sinarueeger.github.io/2018/07/30/locuszoomplot/): How to annotate and visualise summary statistics from genome-wide association studies using the R-package `biomaRt`.
 
 + [Create a cheap, disposable supercomputer with R, DigitalOcean, Docker, and future / furrr](https://www.andrewheiss.com/blog/2018/07/30/disposable-supercomputer-future/)
@@ -103,13 +103,10 @@ Release Date: 2018-08-06
 
 + [About lazy evaluation](https://colinfay.me/lazyeval/)
 
-+ [ALLSTATisticians in decline? A polite look at ALLSTAT email Archives](https://masalmon.eu/2018/07/31/alldatascience/)
 
 + [A package for dimensionality reduction of large data](https://ropensci.org/blog/2018/08/01/umapr/)
 
 + [Zooming into GWAS summary statistics](https://sinarueeger.github.io/2018/07/30/locuszoomplot/): How to annotate and visualise summary statistics from genome-wide association studies using the R-package `biomaRt`.
-
-+ [A quick intro and tutorial and a cool (I think) social network analysis model for influence](https://jrosen48.github.io/blog/social-network-analysis-model-for-influence/): Influence models are just regression.
 
 + [A glass shattering book draw with gganimate](https://itsalocke.com/blog/a-glass-shattering-book-draw-with-gganimate/)
 
