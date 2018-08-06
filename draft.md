@@ -9,6 +9,9 @@ Release Date: 2018-08-06
 
 ###  Highlight
 
++ [Beyond Basic R - Introduction and Best Practices](https://owi.usgs.gov/blog/intro-best-practices/)
+
++ [R Generation: 25 Years of R](http://blog.revolutionanalytics.com/2018/08/r-generation.html)
 
 
 ###  New Packages
@@ -21,7 +24,14 @@ Release Date: 2018-08-06
 
 + [June 2018: Top 40 New Packages](https://rviews.rstudio.com/2018/07/29/june-2018-top-40-new-packages/)
 
+![rtrek](https://raw.githubusercontent.com/rweekly/image/master/2018/rtrek.png)
+
 + [cleandata](https://cran.r-project.org/package=cleandata) - Collection of functions to Inspect, Impute, and Encode Data
+
+
++ [umapr](https://ropensci.org/blog/2018/08/01/umapr/) - A package for dimensionality reduction of large data
+
+![A package for dimensionality reduction of large data](https://raw.githubusercontent.com/rweekly/image/master/2018/dedup.png)
 
 **BioC**
 
@@ -57,11 +67,15 @@ Release Date: 2018-08-06
 
 + [ALLSTATisticians in decline? A polite look at ALLSTAT email Archives](https://masalmon.eu/2018/07/31/alldatascience/)
 
+![ALLSTATisticians in decline? A polite look at ALLSTAT email Archives](https://raw.githubusercontent.com/rweekly/image/master/2018/maillist.png)
+
 + [Data Journalism with R at one of the most important German newspapers](https://github.com/sueddeutsche/rladies-presentation/blob/master/rladies-presentation-brunner-schories.pdf)
 
 + [Using satellite temperature data from the University of Alabama in Huntsville to look at global temperatures over the last 40 years.](https://www.davidkane.info/post/june-2018-global-temperature/)
 
 + [ggplot "Doodling" with HIBP Breaches](https://rud.is/b/2018/07/29/ggplot-doodling-with-hibp-breaches/)
+
+![ggplot "Doodling" with HIBP Breaches](https://raw.githubusercontent.com/rweekly/image/master/2018/hibp-lines.png)
 
 + [Business confidence and economic growth](http://freerangestats.info/blog/2018/08/01/business-expectations)
 
@@ -93,8 +107,6 @@ Release Date: 2018-08-06
 
 + [Making static and dynamic maps using inlmisc](https://owi.usgs.gov/blog/inlmiscmaps/) - an R package developed by researchers at the United States Geological Survey (USGS) Idaho National Laboratory (INL) Project Office
 
-[Zooming into GWAS summary statistics](https://sinarueeger.github.io/2018/07/30/locuszoomplot/): How to annotate and visualise summary statistics from genome-wide association studies using the R-package `biomaRt`.
-
 + [Create a cheap, disposable supercomputer with R, DigitalOcean, Docker, and future / furrr](https://www.andrewheiss.com/blog/2018/07/30/disposable-supercomputer-future/)
 
 + [Encoding and Rendering Grade 1 Braille](https://coolbutuseless.github.io/2018/07/31/encoding-and-rendering-grade-1-braille/)
@@ -105,10 +117,9 @@ Release Date: 2018-08-06
 
 + [About lazy evaluation](https://colinfay.me/lazyeval/)
 
-
-+ [A package for dimensionality reduction of large data](https://ropensci.org/blog/2018/08/01/umapr/)
-
 + [Zooming into GWAS summary statistics](https://sinarueeger.github.io/2018/07/30/locuszoomplot/): How to annotate and visualise summary statistics from genome-wide association studies using the R-package `biomaRt`.
+
+![Zooming into GWAS summary statistics](https://raw.githubusercontent.com/rweekly/image/master/2018/genes.png)
 
 + [A glass shattering book draw with gganimate](https://itsalocke.com/blog/a-glass-shattering-book-draw-with-gganimate/)
 
@@ -125,8 +136,6 @@ Release Date: 2018-08-06
 + [Saving ts objects as csv files](https://robjhyndman.com/hyndsight/ts2csv/)
 
 + [Exploratory Data Analysis in R (introduction)](https://blog.datascienceheroes.com/exploratory-data-analysis-in-r-intro/)
-
-+ [Statistics Sunday: More Text Analysis - Term Frequency and Inverse Document Frequency](http://www.deeplytrivial.com/2018/07/statistics-sunday-more-text-analysis.html)
 
 + [Tuning xgboost in R: Part II](https://insightr.wordpress.com/2018/07/28/tuning-xgboost-in-r-part-ii/)
 
