@@ -23,7 +23,7 @@ Release Date: 2018-08-13
 
 
 **GitHub or Bitbucket**
-
++ [causalpie](https://github.com/malcolmbarrett/causalpie) - An R Package for easily creating and visualizing sufficient-component causal models
 
 
 ### Package Releases
