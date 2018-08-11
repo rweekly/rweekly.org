@@ -23,11 +23,15 @@ Release Date: 2018-08-13
 
 
 **GitHub or Bitbucket**
+
 + [causalpie](https://github.com/malcolmbarrett/causalpie) - An R Package for easily creating and visualizing sufficient-component causal models
 
 
 ### Package Releases
 
++ [fitur 0.6.0 Release](https://roh.engineering/post/fitur-0-6-0-release/)
+
++ [RQuantLib 0.4.5: Windows is back, and small updates](http://dirk.eddelbuettel.com/blog/2018/08/10#rquantlib_0.4.5)
 
 ### Insights
 
@@ -35,11 +39,29 @@ Release Date: 2018-08-13
 
 ###  R in Organizations
 
++ [rstudio::conf(2019) diversity scholarships](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/)
+
++ [August 2018 ISC Call for Proposals](https://www.r-consortium.org/announcement/2018/08/07/august-2018-isc-call-for-proposals)
 
 
 ### R in the Real World
 
++ [The Trillion Dollar Question](https://simplystatistics.org/2018/08/09/the-trillion-dollar-question/)
 
+
++ [Redmonk Language Rankings, June 2018](http://blog.revolutionanalytics.com/2018/08/redmonk-language-rankings-june-2018.html)
+
++ [IEEE Language Rankings 2018](http://blog.revolutionanalytics.com/2018/08/ieee-language-rankings-2018.html)
+
++ [Wrangling Wikileaks DMs](https://colinfay.me/wikileaks/)
+
++ [Digging into mbox details: A tale of tm & reticulate](https://rud.is/b/2018/08/04/digging-into-mbox-details-a-tale-of-tm-reticulate/)
+
++ [Time to Accept It: publishing in the Journal of Statistical Software](https://ntguardian.wordpress.com/2018/08/05/time-to-accept-it-publishing-in-the-journal-of-statistical-software/)
+
++ [Write a Book with bookdown and Publish with Chapman & Hall](https://yihui.name/en/2018/08/bookdown-crc/)
+
++ [Reflections on 25+ Years of "50 Years of Data Science"](https://yihui.name/en/2018/08/25-years-of-data-science/)
 
 
 ###  R in Academia
@@ -47,6 +69,8 @@ Release Date: 2018-08-13
 
 
 ###  Resources
+
++ [In case you missed it: July 2018 roundup](http://blog.revolutionanalytics.com/2018/08/in-case-you-missed-it-july-2018-roundup.html)
 
 
 
@@ -66,6 +90,39 @@ Release Date: 2018-08-13
 
 ###  Tutorials
 
++ [Everything I know about R subsetting](https://hughjonesd.github.io/subsetting.html)
+
+
++ [ggplot2 stat_summary problem](https://coolbutuseless.github.io/2018/08/06/ggplot2-stat_summary-problem/)
+
+
++ [Collecting Expressions in R](http://www.win-vector.com/blog/2018/08/collecting-expressions-in-r/)
+
++ [Home sweet dome](https://uncmbbtrivia.netlify.com/post/2018/08/05/home-sweet-dome/)
+
+
++ [Guidelines For Ab Testing](https://robinsones.github.io/Guidelines-for-AB-Testing/)
+
++ [Meta-packages, nails in CRAN's coffin](http://www.win-vector.com/blog/2018/08/meta-packages-nails-in-crans-coffin/)
+
++ [Extracting and Processing eBird Data](https://ropensci.org/blog/2018/08/07/auk/)
+
++ [What they forgot to teach you about R](https://blog.rstudio.com/2018/08/07/what-they-forgot-to-teach-you-about-r/)
+
++ [phylotaR: Retrieve Orthologous Sequences from GenBank](https://ropensci.org/technotes/2018/08/08/phylotar/)
+
+
++ [MODIStsp approved on rOpenSci!](https://lbusett.netlify.com/post/modistsp-approved-on-ropensci/)
+
++ [Leading indicators of economic growth by @ellis2013nz](http://freerangestats.info/blog/2018/08/10/leading-indicators)
+
++ [Installation of R 3.5 on Ubuntu 18.04 LTS and tips for spatial packages](https://rtask.thinkr.fr/blog/installation-of-r-3-5-on-ubuntu-18-04-lts-and-tips-for-spatial-packages/)
+
+
++ [Because it's Friday: A data center under the sea](http://blog.revolutionanalytics.com/2018/08/because-its-friday-a-turbine-under-the-sea.html)
+
+
++ [Double Negatives](https://yihui.name/en/2018/08/double-negatives/)
 
 
 
