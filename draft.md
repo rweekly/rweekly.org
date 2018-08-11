@@ -17,7 +17,9 @@ Release Date: 2018-08-13
 
 **CRAN**
 
++ [GeomMLBStadiums](https://github.com/bdilday/GeomMLBStadiums) - Geoms to draw MLB stadiums in ggplot2
 
+![GeomMLBStadiums](https://raw.githubusercontent.com/bdilday/GeomMLBStadiums/ff99230441837d2cc6f1d55c01e284d7c53106a9/README_files/figure-markdown_github/unnamed-chunk-15-1.png)
 
 **BioC**
 
@@ -33,9 +35,12 @@ Release Date: 2018-08-13
 
 + [RQuantLib 0.4.5: Windows is back, and small updates](http://dirk.eddelbuettel.com/blog/2018/08/10#rquantlib_0.4.5)
 
++ [scales 1.0.0](https://www.tidyverse.org/articles/2018/08/scales-1-0-0/) - Scale Functions for Visualization
+
+
 ### Insights
 
-
++ [The best books on Computer Science for Data Scientists recommended by Hadley Wickham](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
 
 ###  R in Organizations
 
@@ -62,6 +67,8 @@ Release Date: 2018-08-13
 + [Write a Book with bookdown and Publish with Chapman & Hall](https://yihui.name/en/2018/08/bookdown-crc/)
 
 + [Reflections on 25+ Years of "50 Years of Data Science"](https://yihui.name/en/2018/08/25-years-of-data-science/)
+
++ [Hotels vs Airbnb - Barcelona case study (proof of concept)](https://nycdatascience.com/blog/student-works/web-scraping/hotels-vs-airbnb-barcelona-case-study-proof-of-concept/)
 
 
 ###  R in Academia
@@ -118,9 +125,11 @@ Release Date: 2018-08-13
 
 + [Installation of R 3.5 on Ubuntu 18.04 LTS and tips for spatial packages](https://rtask.thinkr.fr/blog/installation-of-r-3-5-on-ubuntu-18-04-lts-and-tips-for-spatial-packages/)
 
++ [Beyond Basic R - Plotting with ggplot2 and Multiple Plots in One Figure](https://owi.usgs.gov/blog/beyond-basic-plotting/)
 
 + [Because it's Friday: A data center under the sea](http://blog.revolutionanalytics.com/2018/08/because-its-friday-a-turbine-under-the-sea.html)
 
++ [How to (quickly) enrich a map with natural and anthropic details](http://www.francescobailo.net/2018/08/how-to-quickly-enrich-a-map-with-natural-and-anthropic-details/)
 
 + [Double Negatives](https://yihui.name/en/2018/08/double-negatives/)
 
@@ -170,4 +179,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Made this with mapdeck while working on some project. Thought sharing a video is more compelling than sharing an image. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/8vB5fY2ZNW">pic.twitter.com/8vB5fY2ZNW</a></p>&mdash; Samuel Wong (@SamueL_WonG_) <a href="https://twitter.com/SamueL_WonG_/status/1025763225277612032?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Visualize the vertical change of your 🚴‍♀️ bike/running routes with 🕶️<a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a>! Proof of concept: <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/tkNt7S4WSw">pic.twitter.com/tkNt7S4WSw</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href="https://twitter.com/tylermorganwall/status/1024996007094968320?ref_src=twsrc%5Etfw">August 2, 2018</a></blockquote>
 
