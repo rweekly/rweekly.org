@@ -9,7 +9,11 @@ Release Date: 2018-08-13
 
 ###  Highlight
 
++ [rstudio::conf(2019) diversity scholarships](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/)
 
++ [The best books on Computer Science for Data Scientists recommended by Hadley Wickham](https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/)
+
++ [scales 1.0.0](https://www.tidyverse.org/articles/2018/08/scales-1-0-0/) - Scale Functions for Visualization
 
 ###  New Packages
 
@@ -31,9 +35,10 @@ Release Date: 2018-08-13
 
 ### Package Releases
 
-+ [fitur 0.6.0 Release](https://roh.engineering/post/fitur-0-6-0-release/)
++ [fitur 0.6.0](https://roh.engineering/post/fitur-0-6-0-release/) - Fit Univariate Distributions
 
-+ [RQuantLib 0.4.5: Windows is back, and small updates](http://dirk.eddelbuettel.com/blog/2018/08/10#rquantlib_0.4.5)
+
++ [RQuantLib 0.4.5](http://dirk.eddelbuettel.com/blog/2018/08/10#rquantlib_0.4.5) -  Windows is back, and small updates
 
 + [scales 1.0.0](https://www.tidyverse.org/articles/2018/08/scales-1-0-0/) - Scale Functions for Visualization
 
@@ -58,6 +63,8 @@ Release Date: 2018-08-13
 
 + [IEEE Language Rankings 2018](http://blog.revolutionanalytics.com/2018/08/ieee-language-rankings-2018.html)
 
+![IEEE Language Rankings 2018](https://revolution-computing.typepad.com/.a/6a010534b1db25970b022ad3a6d422200b-800wi)
+
 + [Wrangling Wikileaks DMs](https://colinfay.me/wikileaks/)
 
 + [Digging into mbox details: A tale of tm & reticulate](https://rud.is/b/2018/08/04/digging-into-mbox-details-a-tale-of-tm-reticulate/)
@@ -70,6 +77,7 @@ Release Date: 2018-08-13
 
 + [Hotels vs Airbnb - Barcelona case study (proof of concept)](https://nycdatascience.com/blog/student-works/web-scraping/hotels-vs-airbnb-barcelona-case-study-proof-of-concept/)
 
+![Hotels vs Airbnb - Barcelona case study (proof of concept)](https://nycdatascience.com/blog/wp-content/uploads/2018/08/main_picture.png)
 
 ###  R in Academia
 
@@ -107,21 +115,23 @@ Release Date: 2018-08-13
 
 + [Home sweet dome](https://uncmbbtrivia.netlify.com/post/2018/08/05/home-sweet-dome/)
 
-
 + [Guidelines For Ab Testing](https://robinsones.github.io/Guidelines-for-AB-Testing/)
 
 + [Meta-packages, nails in CRAN's coffin](http://www.win-vector.com/blog/2018/08/meta-packages-nails-in-crans-coffin/)
 
 + [Extracting and Processing eBird Data](https://ropensci.org/blog/2018/08/07/auk/)
 
+![Extracting and Processing eBird Data](https://d33wubrfki0l68.cloudfront.net/765ae7917c7fdabc2b1905148756b679de1692c0/cd89a/img/blog-images/2018-08-07-auk/loc-map-1.png)
+
 + [What they forgot to teach you about R](https://blog.rstudio.com/2018/08/07/what-they-forgot-to-teach-you-about-r/)
 
 + [phylotaR: Retrieve Orthologous Sequences from GenBank](https://ropensci.org/technotes/2018/08/08/phylotar/)
 
-
 + [MODIStsp approved on rOpenSci!](https://lbusett.netlify.com/post/modistsp-approved-on-ropensci/)
 
-+ [Leading indicators of economic growth by @ellis2013nz](http://freerangestats.info/blog/2018/08/10/leading-indicators)
++ [Leading indicators of economic growth](http://freerangestats.info/blog/2018/08/10/leading-indicators)
+
+![Leading indicators of economic growth](https://cdn.rawgit.com/rweekly/image/95658f59/2018/0128-pairs.png)
 
 + [Installation of R 3.5 on Ubuntu 18.04 LTS and tips for spatial packages](https://rtask.thinkr.fr/blog/installation-of-r-3-5-on-ubuntu-18-04-lts-and-tips-for-spatial-packages/)
 
