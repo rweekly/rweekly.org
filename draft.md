@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2018-33
+title: R Weekly 2018-34
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2018-08-13
+Release Date: 2018-08-20
 
 ###  Highlight
 
