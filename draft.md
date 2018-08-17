@@ -23,7 +23,7 @@ Release Date: 2018-08-20
 
 **GitHub or Bitbucket**
 
-
++ [Make R speak](http://blog.revolutionanalytics.com/2018/08/make-r-speak.html)
 
 
 ### Package Releases
@@ -40,7 +40,7 @@ Release Date: 2018-08-20
 
 ### R in the Real World
 
-
++ [Stories from YouTube Trend Video](https://nycdatascience.com/blog/student-works/stories-from-youtube-trend-video/)
 
 ###  R in Academia
 
@@ -48,7 +48,7 @@ Release Date: 2018-08-20
 
 ###  Resources
 
-
++ [Using Docker containers in R](https://speakerdeck.com/mtoto/using-docker-containers-in-r)
 
 
 ###  Videos and Podcasts
@@ -66,7 +66,17 @@ Release Date: 2018-08-20
 
 ###  Tutorials
 
++ [Decouple Code and Output in xaringan slides](https://www.garrickadenbuie.com/blog/2018/08/16/decouple-code-and-output-in-xaringan-slides/)
 
++ [Create GIFs with gifski in knitr Documents](https://yihui.name/en/2018/08/gifski-knitr/) 
+
++ [Beyond Basic R - Mapping](https://owi.usgs.gov/blog/beyond-basic-mapping/)
+
++ [Remaking ‘Luminance-gradient-dependent lightness illusion’ with R](https://rtask.thinkr.fr/blog/luminance-gradient-dependent-lightness-illusion/)
+
+<img src="https://rtask.thinkr.fr/wp-content/uploads/lightness_illustion.gif" alt="" width="300" height="300"></div>
+
++ [R on Kubernetes - serverless Shiny, R APIs and scheduled scripts](http://code.markedmondson.me/r-on-kubernetes-serverless-shiny-r-apis-and-scheduled-scripts/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
