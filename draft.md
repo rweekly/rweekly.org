@@ -29,6 +29,14 @@ Release Date: 2018-08-20
 ### Package Releases
 
 
++ [Microsoft R Open 3.5.1 now available](http://blog.revolutionanalytics.com/2018/08/mro-351-now-available.html)
+
++ [Updates to the sergeant (Apache Drill connector) Package & a look at Apache Drill 1.14.0 release](https://rud.is/b/2018/08/16/updates-to-the-sergeant-apache-drill-connector-package-apache-drill-1-14-0-release/)
+
+
++ [Mongolite 2.0: GridFS, connection pooling, and more](https://ropensci.org/technotes/2018/08/14/mongolite-20/)
+
++ [RcppArmadillo 0.9.100.5.0](http://dirk.eddelbuettel.com/blog/2018/08/17#rcpparmadillo_0.9.100.5.0)
 
 ### Insights
 
@@ -36,11 +44,19 @@ Release Date: 2018-08-20
 
 ###  R in Organizations
 
++ [What's new with R Consortium funded projects in Q2 2018](https://www.r-consortium.org/blog/2018/08/13/whats-new-with-r-consortium-funded-projects-in-q1-2018-2)
 
++ [R/Medicine Conference](https://blog.rstudio.com/2018/08/13/r-medicine-conference/)
+
++ [TokyoR #71](https://rviews.rstudio.com/2018/08/15/tokyor-71/)
 
 ### R in the Real World
 
 + [Stories from YouTube Trend Video](https://nycdatascience.com/blog/student-works/stories-from-youtube-trend-video/)
+
++ [rstudio::conf diversity scholarships for the worth!](https://d4tagirl.com/2018/08/rstudio-conf-diversity-scholarships-for-the-worth)
+
++ [Talking Google Analytics dashboards via R, Shiny and Text-to-Speech APIs](http://code.markedmondson.me/talking-google-analytics-dashboards)
 
 ###  R in Academia
 
@@ -50,6 +66,7 @@ Release Date: 2018-08-20
 
 + [Using Docker containers in R](https://speakerdeck.com/mtoto/using-docker-containers-in-r)
 
++ [AI, Machine Learning and Data Science Roundup: August 2018](http://blog.revolutionanalytics.com/2018/08/ai-roundup-august-2018.html)
 
 ###  Videos and Podcasts
 
@@ -68,7 +85,7 @@ Release Date: 2018-08-20
 
 + [Decouple Code and Output in xaringan slides](https://www.garrickadenbuie.com/blog/2018/08/16/decouple-code-and-output-in-xaringan-slides/)
 
-+ [Create GIFs with gifski in knitr Documents](https://yihui.name/en/2018/08/gifski-knitr/) 
++ [Create GIFs with gifski in knitr Documents](https://yihui.name/en/2018/08/gifski-knitr/)
 
 + [Beyond Basic R - Mapping](https://owi.usgs.gov/blog/beyond-basic-mapping/)
 
@@ -77,6 +94,51 @@ Release Date: 2018-08-20
 <img src="https://rtask.thinkr.fr/wp-content/uploads/lightness_illustion.gif" alt="" width="300" height="300"></div>
 
 + [R on Kubernetes - serverless Shiny, R APIs and scheduled scripts](http://code.markedmondson.me/r-on-kubernetes-serverless-shiny-r-apis-and-scheduled-scripts/)
+
+
++ [Exploring Seinfeld Dialogues using tidytext ](https://pradeepadhokshaja.wordpress.com/2018/08/06/looking-at-seinfeld-dialogues-using-tidytext/)
+
++ [3 strategies to parallelize R code on Kubernetes.](http://tamaszilagyi.com/blog/parallelizing-r-code-on-kubernetes/)
+
+
++ [Animating common data wrangling approaches using gganimate](https://luisdva.github.io/rstats/animate-untangle/)
+
++ [Topic Modelling of Trustpilot Reviews with tidytext](https://peerchristensen.netlify.com/post/topic-modelling-of-trustpilot-reviews-with-r-and-tidytext/)
+
++ [Get Started with landscapemetrics](https://r-spatialecology.github.io/landscapemetrics/articles/getstarted.html)
+
++ [Deep dive into ggplot2's boxplots](https://owi.usgs.gov/blog/boxplots/)
+
++ [Topic Modelling of Trustpilot Reviews with tidytext](https://peerchristensen.netlify.com/post/topic-modelling-of-trustpilot-reviews-with-r-and-tidytext/)
+
++ [Mid Table Mediocrity ](https://www.johnmackintosh.com/2018-08-11-mid-table-mediocrity/)
+
++ [gganimate with sprites](https://coolbutuseless.github.io/2018/08/13/gganimate-with-sprites/)
+
++ [Evaluating Olive McBride with the Arkham Horror LCG Chaos Bag Simulator in R](https://ntguardian.wordpress.com/2018/08/13/evaluating-olive-mcbride-arkham-horror-lcg-chaos-bag-simulator-r/)
+
++ [In-brief: splashr update + High Performance Scraping with splashr, furrr & TeamHG-Memex's Aquarium](https://rud.is/b/2018/08/13/in-brief-splashr-update-high-performance-scraping-with-splashr-furrr-teamhg-memexs-aquarium/)
+
++ [Where to go observe birds in Radolfzell? An answer with R and open data](https://ropensci.org/blog/2018/08/14/where-to-bird/)
+
++ [data.table is Really Good at Sorting](http://www.win-vector.com/blog/2018/08/data-table-is-really-good-at-sorting/)
+
++ [Time series intervention analysis with fuel prices](http://freerangestats.info/blog/2018/08/14/fuel-prices)
+
++ [Multivariate ordinal categorical data generation](https://www.rdatagen.net/post/multivariate-ordinal-categorical-data-generation/)
+
++ [Announcing Practical Data Science with R, 2nd Edition](http://www.win-vector.com/blog/2018/08/announcing-practical-data-science-with-r-2nd-edition/)
+
++ [The Law and Order of Data Science](https://simplystatistics.org/2018/08/15/the-law-and-order-of-data-science/)
+
++ [Remaking 'Luminance-gradient-dependent lightness illusion' with R](https://rtask.thinkr.fr/blog/luminance-gradient-dependent-lightness-illusion/)
+
++ [CII Best Practices Badge for R Packages – responding to concerns](https://www.r-consortium.org/r-consortium-project/2018/08/16/cii-best-practices-badge-for-r-packages-responding-to-concerns)
+
++ [Relative risk ratios and odds ratios by @ellis2013nz](http://freerangestats.info/blog/2018/08/17/risk-ratios)
+
++ [Create GIFs with gifski in knitr Documents](https://yihui.name/en/2018/08/gifski-knitr/)
+
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
