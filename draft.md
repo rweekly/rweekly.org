@@ -10,6 +10,44 @@ Release Date: 2018-08-20
 ###  Highlight
 
 
++ [CII Best Practices Badge for R Packages – responding to concerns](https://www.r-consortium.org/r-consortium-project/2018/08/16/cii-best-practices-badge-for-r-packages-responding-to-concerns)
+
++ [R/Medicine Conference](https://blog.rstudio.com/2018/08/13/r-medicine-conference/)
+
+
+### Insights
+
+
+
+###  R in Organizations
+
++ [What's new with R Consortium funded projects in Q2 2018](https://www.r-consortium.org/blog/2018/08/13/whats-new-with-r-consortium-funded-projects-in-q1-2018-2)
+
++ [R/Medicine Conference](https://blog.rstudio.com/2018/08/13/r-medicine-conference/)
+
+![R/Medicine Conference](https://raw.githubusercontent.com/carneybill/images/master/genome-viewer.png)
+
++ [TokyoR #71](https://rviews.rstudio.com/2018/08/15/tokyor-71/)
+
+### R in the Real World
+
++ [Stories from YouTube Trend Video](https://nycdatascience.com/blog/student-works/stories-from-youtube-trend-video/)
+
++ [rstudio::conf diversity scholarships for the worth!](https://d4tagirl.com/2018/08/rstudio-conf-diversity-scholarships-for-the-worth)
+
+![rstudio::conf diversity scholarships for the worth!](https://d4tagirl.com/figure/source/rstudio-conf-diversity-scholarships-for-the-worth/2018-08-16-rstudio-conf-diversity-scholarships-for-the-worth/rladies.JPG)
+
++ [Talking Google Analytics dashboards via R, Shiny and Text-to-Speech APIs](http://code.markedmondson.me/talking-google-analytics-dashboards)
+
+###  R in Academia
+
+
+
+###  Resources
+
++ [Using Docker containers in R](https://speakerdeck.com/mtoto/using-docker-containers-in-r)
+
++ [AI, Machine Learning and Data Science Roundup: August 2018](http://blog.revolutionanalytics.com/2018/08/ai-roundup-august-2018.html)
 
 ###  New Packages
 
@@ -23,50 +61,19 @@ Release Date: 2018-08-20
 
 **GitHub or Bitbucket**
 
-+ [Make R speak](http://blog.revolutionanalytics.com/2018/08/make-r-speak.html)
++ [mscstts](http://blog.revolutionanalytics.com/2018/08/make-r-speak.html) - Make R speak
 
 
 ### Package Releases
 
++ [Microsoft R Open 3.5.1](http://blog.revolutionanalytics.com/2018/08/mro-351-now-available.html)
 
-+ [Microsoft R Open 3.5.1 now available](http://blog.revolutionanalytics.com/2018/08/mro-351-now-available.html)
++ [sergeant 1.14.0](https://rud.is/b/2018/08/16/updates-to-the-sergeant-apache-drill-connector-package-apache-drill-1-14-0-release/) - Apache Drill connector Package
 
-+ [Updates to the sergeant (Apache Drill connector) Package & a look at Apache Drill 1.14.0 release](https://rud.is/b/2018/08/16/updates-to-the-sergeant-apache-drill-connector-package-apache-drill-1-14-0-release/)
++ [Mongolite 2.0](https://ropensci.org/technotes/2018/08/14/mongolite-20/) - GridFS, connection pooling, and more
 
++ [RcppArmadillo 0.9.100.5.0](http://dirk.eddelbuettel.com/blog/2018/08/17#rcpparmadillo_0.9.100.5.0) - an interface from R to and from Armadillo
 
-+ [Mongolite 2.0: GridFS, connection pooling, and more](https://ropensci.org/technotes/2018/08/14/mongolite-20/)
-
-+ [RcppArmadillo 0.9.100.5.0](http://dirk.eddelbuettel.com/blog/2018/08/17#rcpparmadillo_0.9.100.5.0)
-
-### Insights
-
-
-
-###  R in Organizations
-
-+ [What's new with R Consortium funded projects in Q2 2018](https://www.r-consortium.org/blog/2018/08/13/whats-new-with-r-consortium-funded-projects-in-q1-2018-2)
-
-+ [R/Medicine Conference](https://blog.rstudio.com/2018/08/13/r-medicine-conference/)
-
-+ [TokyoR #71](https://rviews.rstudio.com/2018/08/15/tokyor-71/)
-
-### R in the Real World
-
-+ [Stories from YouTube Trend Video](https://nycdatascience.com/blog/student-works/stories-from-youtube-trend-video/)
-
-+ [rstudio::conf diversity scholarships for the worth!](https://d4tagirl.com/2018/08/rstudio-conf-diversity-scholarships-for-the-worth)
-
-+ [Talking Google Analytics dashboards via R, Shiny and Text-to-Speech APIs](http://code.markedmondson.me/talking-google-analytics-dashboards)
-
-###  R in Academia
-
-
-
-###  Resources
-
-+ [Using Docker containers in R](https://speakerdeck.com/mtoto/using-docker-containers-in-r)
-
-+ [AI, Machine Learning and Data Science Roundup: August 2018](http://blog.revolutionanalytics.com/2018/08/ai-roundup-august-2018.html)
 
 ###  Videos and Podcasts
 
@@ -91,12 +98,14 @@ Release Date: 2018-08-20
 
 + [Remaking ‘Luminance-gradient-dependent lightness illusion’ with R](https://rtask.thinkr.fr/blog/luminance-gradient-dependent-lightness-illusion/)
 
-<img src="https://rtask.thinkr.fr/wp-content/uploads/lightness_illustion.gif" alt="" width="300" height="300"></div>
+<img src="https://rtask.thinkr.fr/wp-content/uploads/lightness_illustion.gif" alt="" width="300" height="300" />
 
 + [R on Kubernetes - serverless Shiny, R APIs and scheduled scripts](http://code.markedmondson.me/r-on-kubernetes-serverless-shiny-r-apis-and-scheduled-scripts/)
 
 
 + [Exploring Seinfeld Dialogues using tidytext ](https://pradeepadhokshaja.wordpress.com/2018/08/06/looking-at-seinfeld-dialogues-using-tidytext/)
+
+![Exploring Seinfeld Dialogues using tidytext](https://raw.githubusercontent.com/adhok/Exploratory-Data-Analysis-of-Seinfeld-Dialogues-using-Tidytext/master/test.gif)
 
 + [3 strategies to parallelize R code on Kubernetes.](http://tamaszilagyi.com/blog/parallelizing-r-code-on-kubernetes/)
 
@@ -109,11 +118,15 @@ Release Date: 2018-08-20
 
 + [Deep dive into ggplot2's boxplots](https://owi.usgs.gov/blog/boxplots/)
 
+![Deep dive into ggplot2's boxplots](https://owi.usgs.gov/blog/static/boxplots/chlorideWithLegend-1.png)
+
 + [Topic Modelling of Trustpilot Reviews with tidytext](https://peerchristensen.netlify.com/post/topic-modelling-of-trustpilot-reviews-with-r-and-tidytext/)
 
-+ [Mid Table Mediocrity ](https://www.johnmackintosh.com/2018-08-11-mid-table-mediocrity/)
++ [Mid Table Mediocrity](https://www.johnmackintosh.com/2018-08-11-mid-table-mediocrity/)
 
 + [gganimate with sprites](https://coolbutuseless.github.io/2018/08/13/gganimate-with-sprites/)
+
+![gganimate with sprites](https://coolbutuseless.github.io/post/2018-08-13-gganimate-sprites_files/figure-html/unnamed-chunk-4-1.png)
 
 + [Evaluating Olive McBride with the Arkham Horror LCG Chaos Bag Simulator in R](https://ntguardian.wordpress.com/2018/08/13/evaluating-olive-mcbride-arkham-horror-lcg-chaos-bag-simulator-r/)
 
@@ -135,7 +148,7 @@ Release Date: 2018-08-20
 
 + [CII Best Practices Badge for R Packages – responding to concerns](https://www.r-consortium.org/r-consortium-project/2018/08/16/cii-best-practices-badge-for-r-packages-responding-to-concerns)
 
-+ [Relative risk ratios and odds ratios by @ellis2013nz](http://freerangestats.info/blog/2018/08/17/risk-ratios)
++ [Relative risk ratios and odds ratios](http://freerangestats.info/blog/2018/08/17/risk-ratios)
 
 + [Create GIFs with gifski in knitr Documents](https://yihui.name/en/2018/08/gifski-knitr/)
 
