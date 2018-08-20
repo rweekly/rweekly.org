@@ -47,7 +47,7 @@ Release Date: 2018-08-27
 
 ### Package Releases
 
-
++ [bigstatsr](https://github.com/privefl/bigstatsr) - Parallelized statistical tools with big matrices stored on disk
 
 ###  Videos and Podcasts
 
