@@ -43,6 +43,7 @@ Release Date: 2018-08-27
 
 **GitHub or Bitbucket**
 
++ [bigdfr](https://github.com/privefl/bigdfr) - R package to operate with data frames stored on disk
 
 ### Package Releases
 
