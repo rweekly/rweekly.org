@@ -13,6 +13,7 @@ Release Date: 2018-08-27
 
 ### Insights
 
++ [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
 
 + [Constructing a Data Analysis](https://simplystatistics.org/2018/08/24/constructing-a-data-analysis/)
 
@@ -80,7 +81,7 @@ Release Date: 2018-08-27
 
 ###  Videos and Podcasts
 
-
++ [R tip: Animations in R](https://www.infoworld.com/video/89987/r-tip-animations-in-r)
 
 ### Gist & Cookbook
 
@@ -189,4 +190,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Today&#39;s episode of &quot;fun and games with gganimate&quot; is a two-dimensional brownian bridge simulation! I am just amazed at how simple everything is with this package <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/thomasp85?ref_src=twsrc%5Etfw">@thomasp85</a> <a href="https://t.co/eQsQp6Arv8">pic.twitter.com/eQsQp6Arv8</a></p>&mdash; Danielle Navarro (@djnavarro) <a href="https://twitter.com/djnavarro/status/1033100989912440832?ref_src=twsrc%5Etfw">August 24, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">DO THIS NOW (if you care about reproducibility) <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/LbXgi2UYFA">https://t.co/LbXgi2UYFA</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1032665959734108160?ref_src=twsrc%5Etfw">August 23, 2018</a></blockquote>
 
