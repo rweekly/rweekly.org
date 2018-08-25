@@ -114,8 +114,6 @@ Release Date: 2018-08-27
 
 + [Transformers, glue!](http://www.questionflow.org/2018/08/21/transformers-glue/)
 
-+ [R tip: Use Radix Sort](http://www.win-vector.com/blog/2018/08/r-tip-use-radix-sort/)
-
 + [riddles on a line](https://xianblog.wordpress.com/2018/08/22/riddles-on-a-line/)
 
 + [rgbif: seven years of GBIF in R](https://ropensci.org/technotes/2018/08/22/rgbif-seven-years/)
