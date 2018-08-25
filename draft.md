@@ -16,6 +16,8 @@ Release Date: 2018-08-27
 
 + [Constructing a Data Analysis](https://simplystatistics.org/2018/08/24/constructing-a-data-analysis/)
 
++ [How to self-publish a book](https://blog.datascienceheroes.com/how-to-self-publish-a-book/)
+
 ###  R in Organizations
 
 
@@ -33,6 +35,8 @@ Release Date: 2018-08-27
 
 + [Friday #rstats twofer: Finding macOS 32-bit apps & Processing Data from System Commands](https://rud.is/b/2018/08/24/friday-rstats-twofer-finding-macos-32-bit-apps-processing-data-from-system-commands/)
 
++ [Analysis of Los Angeles Crime with R](https://datascienceplus.com/analysis-of-los-angeles-crime-with-r/)
+
 ###  R in Academia
 
 
@@ -41,6 +45,8 @@ Release Date: 2018-08-27
 
 
 + [plotly-book](http://plotly-book.cpsievert.me/)
+
++ [Materials for Teaching Applied Statistics](https://ntguardian.wordpress.com/2018/08/20/materials-for-teaching-applied-statistics/)
 
 ###  New Packages
 
@@ -87,7 +93,7 @@ Release Date: 2018-08-27
 
 ###  Tutorials
 
-
++ [Beyond Basic R - Version Control with Git](https://owi.usgs.gov/blog/beyond-basic-git/)
 
 + [How to make your ggplot2 graphics look nicer, with minimal effort.](https://www.jumpingrivers.com/blog/styling-ggplot2-r-graphics/)
 
@@ -119,6 +125,8 @@ Release Date: 2018-08-27
 
 + [Timings of a Grouped Rank Filter Task](http://www.win-vector.com/blog/2018/08/timings-of-a-grouped-rank-filter-task/)
 
++ [Exploring correlations in R with corrr](https://drsimonj.svbtle.com/exploring-correlations-in-r-with-corrr)
+
 + [Learning Analytic Administration through a Sandbox](https://rviews.rstudio.com/2018/08/23/learning-analytic-administration-through-a-sandbox/)
 
 + [Video: Azure Machine Learning in plain English](http://blog.revolutionanalytics.com/2018/08/aml-video.html)
@@ -133,8 +141,9 @@ Release Date: 2018-08-27
 
 + [Because it's Friday: One Million Integers](http://blog.revolutionanalytics.com/2018/08/one-million-integers.html)
 
++ [CodeR: an LSTM that writes R Code](https://www.statworx.com/de/blog/coder-an-lstm-that-writes-r-code/)
 
-
++ [Transformers, glue!](http://www.questionflow.org/2018/08/21/transformers-glue/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
