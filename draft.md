@@ -79,6 +79,11 @@ Release Date: 2018-08-27
 
 + [littler 0.3.4: More updated examples](http://dirk.eddelbuettel.com/blog/2018/08/24#littler-0.3.4)
 
++ [startup 0.11.0](https://cran.r-project.org/package=startup) - Friendly R Startup Configuration
+
++ [globals 0.12.2](https://cran.r-project.org/package=globals) - Identify Global Objects in R Expressions
+
+
 ###  Videos and Podcasts
 
 + [R tip: Animations in R](https://www.infoworld.com/video/89987/r-tip-animations-in-r)
