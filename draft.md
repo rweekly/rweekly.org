@@ -83,6 +83,8 @@ Release Date: 2018-08-27
 
 + [globals 0.12.2](https://cran.r-project.org/package=globals) - Identify Global Objects in R Expressions
 
++ [future.apply 1.0.1](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures
+
 
 ###  Videos and Podcasts
 
