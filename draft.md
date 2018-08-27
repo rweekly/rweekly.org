@@ -9,6 +9,9 @@ Release Date: 2018-08-27
 
 ###  Highlight
 
++ [rstudio::conf(2019) contributed talks & e-posters](https://blog.rstudio.com/2018/08/20/rstudio-conf-2019-contributed-talks-eposters/)
+
++ [plotly-book](http://plotly-book.cpsievert.me/)
 
 
 ### Insights
@@ -28,9 +31,12 @@ Release Date: 2018-08-27
 
 + [Facebook Advertising Case-study: Dog Food and Manhood](https://rickpackblog.wordpress.com/2018/08/20/facebook-advertising-case-study-dog-food-and-manhood/)
 
+![Facebook Advertising Case-study: Dog Food and Manhood](https://rickpackblog.files.wordpress.com/2018/08/shr_dma_results_august1.png?w=1512)
+
 + [R made its first appearance at Fenway Park in 2007. ](https://www.davidkane.info/post/the-first-appearence-of-r-in-fenway-park-was-in-2007/)
 
 + [Estonian Parliament Session Attendance/Absence](http://www.reigo.eu/2018/08/estonian-parliament-session-attendance/)
+
 
 + [What birds are observed near Radolfzell? Bird occurrence data in R](https://ropensci.org/blog/2018/08/21/birds-radolfzell/)
 
@@ -55,7 +61,7 @@ Release Date: 2018-08-27
 
 **CRAN**
 
-+ [CRAN release of the shinyFeedback R package](https://www.tychobra.com/posts/2018_08_21_shinfeedback_release/)
++ [shinyFeedback](https://www.tychobra.com/posts/2018_08_21_shinfeedback_release/) - Makes it easy to display useful feedback notifications in Shiny apps
 
 **BioC**
 
@@ -66,27 +72,25 @@ Release Date: 2018-08-27
 
 ### Package Releases
 
-+ [bigstatsr](https://github.com/privefl/bigstatsr) - Parallelized statistical tools with big matrices stored on disk
-
-
-+ [rfoaas 2.0.0: Updated and extended](http://dirk.eddelbuettel.com/blog/2018/08/20#rfoaas_2.0.0)
-
-
-+ [digest 0.6.16](http://dirk.eddelbuettel.com/blog/2018/08/22#digest_0.6.16)
-
-
-+ [pdfsearch v0.3.0](https://brandonlebeau.org/2018/08/22/pdfsearch-0-3-0/)
-
-+ [littler 0.3.4: More updated examples](http://dirk.eddelbuettel.com/blog/2018/08/24#littler-0.3.4)
-
 + [startup 0.11.0](https://cran.r-project.org/package=startup) - Friendly R Startup Configuration
 
 + [globals 0.12.2](https://cran.r-project.org/package=globals) - Identify Global Objects in R Expressions
+
++ [rfoaas 2.0.0](http://dirk.eddelbuettel.com/blog/2018/08/20#rfoaas_2.0.0) - R interface to FOAAS service.
+
++ [digest 0.6.16](http://dirk.eddelbuettel.com/blog/2018/08/22#digest_0.6.16) - digest provides `hash' function summaries for GNU R objects.
+
+
++ [pdfsearch v0.3.0](https://brandonlebeau.org/2018/08/22/pdfsearch-0-3-0/) - Search Tools for PDF Files
+
++ [littler 0.3.4](http://dirk.eddelbuettel.com/blog/2018/08/24#littler-0.3.4) - littler provides the r program, a simplified command-line interface for GNU R.
 
 
 ###  Videos and Podcasts
 
 + [R tip: Animations in R](https://www.infoworld.com/video/89987/r-tip-animations-in-r)
+
++ [Azure Machine Learning in plain English](http://blog.revolutionanalytics.com/2018/08/aml-video.html)
 
 ### Gist & Cookbook
 
@@ -101,39 +105,35 @@ Release Date: 2018-08-27
 
 + [Beyond Basic R - Version Control with Git](https://owi.usgs.gov/blog/beyond-basic-git/)
 
-+ [How to make your ggplot2 graphics look nicer, with minimal effort.](https://www.jumpingrivers.com/blog/styling-ggplot2-r-graphics/)
++ [How to make your ggplot2 graphics look nicer, with minimal effort](https://www.jumpingrivers.com/blog/styling-ggplot2-r-graphics/)
 
+![How to make your ggplot2 graphics look nicer, with minimal effort](https://www.jumpingrivers.com/wp-content/uploads/2018/08/blog-2018-ggplot2-unnamed-chunk-8-1.png)
 
 + [modelgrid - a framework for creating, managing and training multiple models](http://smaakage85.netlify.com/2018/07/14/modelgrid-a-framework-for-creating-managing-and-training-multiple-models/)
 
 
 + [Introducing the ggbrain R-package for brain segmentations](https://drmowinckels.io/blog/introducing-the-ggbrain-r-package-for-brain-segmentations/)
 
-
+![Introducing the ggbrain R-package for brain segmentations](https://drmowinckels.io/blog/2018-08-24-introducing-the-ggbrain-r-package-for-brain-segmentations_files/figure-html/unnamed-chunk-5-2.png)
 
 + [Materials for Teaching Applied Statistics](https://ntguardian.wordpress.com/2018/08/20/materials-for-teaching-applied-statistics/)
 
 + [Automating exploratory plots with ggplot2 and purrr](https://aosmith.rbind.io/2018/08/20/automating-exploratory-plots/)
 
-+ [Slides from my SAP webinar: Explaining Keras Image Classification Models with LIME](https://shirinsplayground.netlify.com/2018/08/sap_webinar_slides/)
-
 + [Transformers, glue!](http://www.questionflow.org/2018/08/21/transformers-glue/)
 
-+ [riddles on a line](https://xianblog.wordpress.com/2018/08/22/riddles-on-a-line/)
 
 + [rgbif: seven years of GBIF in R](https://ropensci.org/technotes/2018/08/22/rgbif-seven-years/)
 
 + [R Tip: Consider radix Sort](http://www.win-vector.com/blog/2018/08/r-tip-use-radix-sort/)
 
-+ [Using gganimate to illustrate the luminance illusion](http://blog.revolutionanalytics.com/2018/08/luminance-illusion.html)
-
 + [Timings of a Grouped Rank Filter Task](http://www.win-vector.com/blog/2018/08/timings-of-a-grouped-rank-filter-task/)
 
 + [Exploring correlations in R with corrr](https://drsimonj.svbtle.com/exploring-correlations-in-r-with-corrr)
 
-+ [Learning Analytic Administration through a Sandbox](https://rviews.rstudio.com/2018/08/23/learning-analytic-administration-through-a-sandbox/)
+![Exploring correlations in R with corrr](https://svbtleusercontent.com/rhRX4PHzybDmmtXi2tfwYY0xspap_retina.png)
 
-+ [Video: Azure Machine Learning in plain English](http://blog.revolutionanalytics.com/2018/08/aml-video.html)
++ [Learning Analytic Administration through a Sandbox](https://rviews.rstudio.com/2018/08/23/learning-analytic-administration-through-a-sandbox/)
 
 + [Introducing 'gepetto' — a Splash-like REST API to Headless Chrome](https://rud.is/b/2018/08/23/introducing-gepetto-a-splash-like-rest-api-to-headless-chrome/)
 
@@ -143,11 +143,12 @@ Release Date: 2018-08-27
 
 + [The Chartmaker Directory: Data visualizations in every tool](http://blog.revolutionanalytics.com/2018/08/chartmaker-directory.html)
 
+![The Chartmaker Directory: Data visualizations in every tool](https://revolution-computing.typepad.com/.a/6a010534b1db25970b022ad365a8c1200c-800wi)
+
 + [Because it's Friday: One Million Integers](http://blog.revolutionanalytics.com/2018/08/one-million-integers.html)
 
 + [CodeR: an LSTM that writes R Code](https://www.statworx.com/de/blog/coder-an-lstm-that-writes-r-code/)
 
-+ [Transformers, glue!](http://www.questionflow.org/2018/08/21/transformers-glue/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
