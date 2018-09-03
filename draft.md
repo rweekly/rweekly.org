@@ -9,10 +9,12 @@ Release Date: 2018-09-03
 
 ###  Highlight
 
++ [Slack and Plumber, Part One](https://rviews.rstudio.com/2018/08/30/slack-and-plumber-part-one/)
 
-
++ [New York R 2018](https://www.rstats.nyc/2018/)
 
 ### Insights
+
 
 
 ###  R in Organizations
@@ -27,6 +29,7 @@ Release Date: 2018-09-03
 
 + [Rents in Melbourne](http://freerangestats.info/blog/2018/08/31/melbourne-rents)
 
+![Rents in Melbourne](https://raw.githubusercontent.com/rweekly/image/master/2018/0123-all-medians-melbourne-2-3.png)
 
 ###  R in Academia
 
@@ -43,6 +46,8 @@ Release Date: 2018-09-03
 **CRAN**
 
 + [July 2018: Top 40 New Packages](https://rviews.rstudio.com/2018/08/27/july-2018-top-40-new-packages/)
+
+![](https://rviews.rstudio.com/post/2018-08-21-July-Top40_files/makeParallel.png)
 
 
 **BioC**
@@ -73,11 +78,14 @@ Release Date: 2018-09-03
 
 ###  Tutorials
 
-
 + [Simplify comparative bar charts with compareBars](https://daranzolin.github.io/2018-08-25-compareBars/)
 
 + [Why There is No importFrom() Function in R](http://unconj.ca/blog/why-there-is-no-importfrom-in-r.html)
 
+
++ [Simplifying World Tile Grid Creation with geom_wtg()](https://rud.is/b/2018/08/27/simplifying-world-tile-grid-creation-with-geom_wtg/)
+
+![Simplifying World Tile Grid Creation with geom_wtg()](https://i1.wp.com/rud.is/b/wp-content/uploads/2018/08/le-wtg-02.png)
 
 + [What, No Parentheses?](https://matloff.wordpress.com/2018/08/24/what-no-parentheses/)
 
@@ -88,15 +96,13 @@ Release Date: 2018-09-03
 
 + [GNU Make for Data Analysis Workflow Management](https://uncmbbtrivia.netlify.com/post/2018/08/26/gnu-make-for-workflow-manager/)
 
-
-+ [Simplifying World Tile Grid Creation with geom_wtg()](https://rud.is/b/2018/08/27/simplifying-world-tile-grid-creation-with-geom_wtg/)
-
-
 + [The power of stepped-wedge designs](https://www.rdatagen.net/post/alternatives-to-stepped-wedge-designs/)
 
 + [Survival Analysis in R](http://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html)
 
 + [Moving beyond pattern-based analysis: Additional applications of GeoPAT 2](https://nowosad.github.io/post/geopat-2-extend/)
+
+![Moving beyond pattern-based analysis: Additional applications of GeoPAT 2](https://nowosad.github.io/post/2018-08-28-geopat-2-extend_files/extend02.png)
 
 + [What's this bird? Classify old natural history drawings with R](https://ropensci.org/blog/2018/08/28/birds-ocr/)
 
@@ -111,6 +117,8 @@ Release Date: 2018-09-03
 + [R Tip: Put Your Values in Columns](http://www.win-vector.com/blog/2018/08/r-tip-put-your-values-in-columns/)
 
 + [Slack and Plumber, Part One](https://rviews.rstudio.com/2018/08/30/slack-and-plumber-part-one/)
+
+![Slack and Plumber, Part One](https://rviews.rstudio.com/post/2018-08-15-blair-plumber-slack-files/slash-command-preview.png)
 
 + [Tips for analyzing Excel data in R ](http://blog.revolutionanalytics.com/2018/08/how-to-use-r-with-excel.html)
 
