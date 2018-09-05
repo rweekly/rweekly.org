@@ -30,6 +30,7 @@ Release Date: 2018-09-10
 
 ###  Resources
 
++ [The Nasa Datnauts Experience!](https://www.littlemissdata.com/blog/nasadatanauts)
 
 
 ###  New Packages
