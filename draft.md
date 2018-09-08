@@ -17,7 +17,7 @@ Release Date: 2018-09-10
 
 ###  R in Organizations
 
-
++ [Save the date: tidyverse developer day](https://www.tidyverse.org/articles/2018/08/tidyverse-developer-day/)
 
 ### R in the Real World
 
@@ -56,6 +56,7 @@ Release Date: 2018-09-10
 
 + [fitur 0.6.1 Release](https://roh.engineering/post/fitur-0-6-1-release/)
 
++ [processx 3.2.0](https://www.tidyverse.org/articles/2018/09/processx-3.2.0/)
 
 ###  Videos and Podcasts
 
