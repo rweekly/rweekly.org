@@ -9,7 +9,9 @@ Release Date: 2018-09-10
 
 ###  Highlight
 
++ [Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](http://varianceexplained.org/r/op-ed-text-analysis/)
 
++ [How to Build a Shiny "Truck"!](https://rviews.rstudio.com/2018/09/04/how-to-build-shiny-trucks-not-shiny-cars/)
 
 ### Insights
 
@@ -27,6 +29,8 @@ Release Date: 2018-09-10
 + [Tweetable Mathematical Art With R](https://fronkonstin.com/2018/09/06/tweetable-mathematical-art-with-r/)
 
 + [Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](http://varianceexplained.org/r/op-ed-text-analysis/)
+
+![Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](https://raw.githubusercontent.com/rweekly/image/master/2018/trump-0910.png)
 
 ###  R in Academia
 
@@ -77,6 +81,8 @@ Release Date: 2018-09-10
 
 + [Custom themes in ggplot2](https://www.statworx.com/de/blog/custom-themes-in-ggplot2/)
 
+![Custom themes in ggplot2](https://www.statworx.com/wp-content/uploads/customized-theme.png)
+
 + [Shiny Gadget: Fit Distributions](https://roh.engineering/post/shiny-gadget-fit-distributions/)
 
 
@@ -84,9 +90,13 @@ Release Date: 2018-09-10
 
 + [What are these birds? Complement occurrence data with taxonomy and traits information](https://ropensci.org/blog/2018/09/04/birds-taxo-traits/)
 
+![What are these birds? Complement occurrence data with taxonomy and traits information](https://d33wubrfki0l68.cloudfront.net/360d92990c04cca9e188a3b82aa059eff1908a52/7f5cc/img/blog-images/2018-09-04-birds-taxo-traits/unnamed-chunk-9-1.png)
+
 + [bits and bit reversal](https://coolbutuseless.github.io/2018/09/04/bits-and-bit-reversal/)
 
 + [How to Build a Shiny "Truck"!](https://rviews.rstudio.com/2018/09/04/how-to-build-shiny-trucks-not-shiny-cars/)
+
+![How to Build a Shiny "Truck"](https://rviews.rstudio.com/post/2018-08-28-wolf-trucks_files/apps.png)
 
 + [Book review: SQL Server 2017 Machine Learning Services with R](http://blog.revolutionanalytics.com/2018/09/sql-server-2017-book-review.html)
 
@@ -113,14 +123,25 @@ n"></div><div class="post-more-end"></div>-->
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ As an experimental feature, when codeloadNamespace fails because the requested package is not available the error is initially signaled with a `retry_loadNamespace` restart available. This allows a calling handler to try to install the package and continue.
 
++ `var(f)` and hence `sd(f)` now give an error for `factor` arguments; they gave a warning since R 3.2.3, PR#16564.
 
++ `next(n)` now also works for larger `n` and no longer loops infinitely for e.g, `n <- 214e7`.
+
++ Many package not found errors are now signaled as errors of class `packageNotFoundError`.
+
++ Fork cluster could hang due to a race condition in cluster initialization (`makeCluster()`).
+
++ `.Deprecated` now signals a warning of class `deprecatedWarning`, and `.Defunct` now signals an error of class `defunctError`.
+
++ New functions `errorCondition` and `warningCondition` provide a convenient way to create structured error and warning objects.
+
++ On Windows, `socketSelect` would hang with more than 64 sockets, and hence `parallel::clusterApplyLB` would hang with more than 64 workers.
 
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-
 
 + [Econometrics and Statistics using R](http://gades-training.com/en/cursos/Econometrics-and-Statistics-Using-R) **Sept 10-14** <br />
 Lisbon, Portugal.
