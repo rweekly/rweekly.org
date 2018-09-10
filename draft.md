@@ -24,7 +24,6 @@ Release Date: 2018-09-17
 
 
 
-
 ###  R in Academia
 
 
@@ -65,7 +64,7 @@ Release Date: 2018-09-17
 
 ###  Tutorials
 
-
++ [Using R in a free hosted environment with IBM Watson Studio](https://www.littlemissdata.com/blog/watsonstudio) 
 
 
 
