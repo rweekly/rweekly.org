@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2018-37
+title: R Weekly 2018-38
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2018-09-10
+Release Date: 2018-09-17
 
 ###  Highlight
 
@@ -20,6 +20,7 @@ Release Date: 2018-09-10
 
 
 ### R in the Real World
+
 
 
 
@@ -67,6 +68,9 @@ Release Date: 2018-09-10
 
 
 
+
+
+
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
 
@@ -75,13 +79,9 @@ n"></div><div class="post-more-end"></div>-->
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 
-
-
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-
 
 + [Econometrics and Statistics using R](http://gades-training.com/en/cursos/Econometrics-and-Statistics-Using-R) **Sept 10-14** <br />
 Lisbon, Portugal.
