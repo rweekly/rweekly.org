@@ -13,7 +13,7 @@ Release Date: 2018-09-17
 
 ### Insights
 
-
++ [The First Notebook War](https://yihui.name/en/2018/09/notebook-war/)
 
 ###  R in Organizations
 
@@ -21,7 +21,7 @@ Release Date: 2018-09-17
 
 ### R in the Real World
 
-
++ [The Evolution of Data Literacy at the U.S. Department of Energy + Finding Power Grid Cyber Attacks in a Data Haystack](https://rud.is/b/2018/09/12/the-evolution-of-data-literacy-at-the-u-s-department-of-energy-finding-power-grid-cyber-attacks-in-a-data-haystack/)
 
 
 ###  R in Academia
@@ -30,7 +30,7 @@ Release Date: 2018-09-17
 
 ###  Resources
 
-
++ [Code for Workshop: Introduction to Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
 
 ###  New Packages
 
@@ -51,7 +51,7 @@ Release Date: 2018-09-17
 
 ###  Videos and Podcasts
 
-
++ [Video: R and Python in in Azure HDInsight](http://blog.revolutionanalytics.com/2018/09/r-python-azure-hdinsight.html)
 
 ### Gist & Cookbook
 
@@ -60,13 +60,18 @@ Release Date: 2018-09-17
 
 ### R Internationally
 
++ [Utiliser des pipes pour enchaîner des instructions](http://perso.ens-lyon.fr/lise.vaudor/utiliser-des-pipes-pour-enchainer-des-instructions/)
 
+
+<img src="http://perso.ens-lyon.fr/lise.vaudor/Rfigures/Piping/piping_piped.jpg" width="200"></img>
 
 ###  Tutorials
 
 + [Using R in a free hosted environment with IBM Watson Studio](https://www.littlemissdata.com/blog/watsonstudio) 
 
++ [Going from a human readable Excel file to a machine-readable csv with {tidyxl}](http://www.brodrigues.co/blog/2018-09-11-human_to_machine/)
 
++ [sabre: Or How to Compare Two Maps?](https://nowosad.github.io/post/sabre-bp/)
 
 
 <!--<div class="post-more-begi
