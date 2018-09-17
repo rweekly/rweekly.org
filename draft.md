@@ -15,6 +15,8 @@ Release Date: 2018-09-17
 
 + [The R Infrastructure - How we build stuff by Jeroen Ooms](https://jeroen.github.io/uros2018/)
 
+![The R Infrastructure - How we build stuff by Jeroen Ooms](https://raw.githubusercontent.com/rweekly/image/master/2018/r-base.png)
+
 + [The First Notebook War](https://yihui.name/en/2018/09/notebook-war/)
 
 
@@ -30,15 +32,21 @@ Release Date: 2018-09-17
 
 ### R in the Real World
 
++ [All the Badges One Can Earn: Parsing Badges of CRAN Packages READMEs](https://ropensci.org/technotes/2018/09/10/github-badges/)
+
+![All the Badges One Can Earn: Parsing Badges of CRAN Packages READMEs](https://raw.githubusercontent.com/rweekly/image/master/2018/github-repos.png)
+
 + [The Evolution of Data Literacy at the U.S. Department of Energy + Finding Power Grid Cyber Attacks in a Data Haystack](https://rud.is/b/2018/09/12/the-evolution-of-data-literacy-at-the-u-s-department-of-energy-finding-power-grid-cyber-attacks-in-a-data-haystack/)
 
 + [Identifying the author behind New York Time’s op-ed from inside the Trump White House](https://github.com/mkearney/resist_oped)
+
+![Identifying the author behind New York Time’s op-ed from inside the Trump White House](https://raw.githubusercontent.com/rweekly/image/master/2018/text-simi.png)
 
 + [How many deaths were caused by the hurricane in Puerto Rico?](http://blog.revolutionanalytics.com/2018/09/mortality-in-puerto-rico.html)
 
 + [Who wrote that anonymous NYT op-ed? Text similarity analyses with R](http://blog.revolutionanalytics.com/2018/09/anonymous-nyt-op-ed.html)
 
-+ [Network visualization of football transfers using the 'visNetwork' package](https://rcrastinate.blogspot.com/2018/09/network-visualization-of-football.html)
++ [sabre: Or How to Compare Two Maps?](https://nowosad.github.io/post/sabre-bp/)
 
 ###  R in Academia
 
@@ -59,6 +67,7 @@ Release Date: 2018-09-17
 
 + [gganatogram](https://github.com/jespermaag/gganatogram) - Create anatograms using ggplot2
 
+![gganatogram](https://raw.githubusercontent.com/rweekly/image/master/2018/organPlot-1.png)
 
 **BioC**
 
@@ -69,11 +78,11 @@ Release Date: 2018-09-17
 ### Package Releases
 
 
-+ [digest 0.6.17](http://dirk.eddelbuettel.com/blog/2018/09/12#digest_0.6.17)
++ [digest 0.6.17](http://dirk.eddelbuettel.com/blog/2018/09/12#digest_0.6.17) - creates hash digests of arbitrary R objects
 
-+ [wrapr 1.6.2](http://www.win-vector.com/blog/2018/09/announcing-wrapr-1-6-2/)
++ [wrapr 1.6.2](http://www.win-vector.com/blog/2018/09/announcing-wrapr-1-6-2/) - Wrap R Tools for Debugging and Parametric Programming
 
-+ [AsioHeaders 1.12.1-1](http://dirk.eddelbuettel.com/blog/2018/09/10#asioheaders_1.12.1-1)
++ [AsioHeaders 1.12.1-1](http://dirk.eddelbuettel.com/blog/2018/09/10#asioheaders_1.12.1-1) - cross-platform C++ library for network and low-level I/O programming
 
 
 ###  Videos and Podcasts
@@ -89,8 +98,7 @@ Release Date: 2018-09-17
 
 + [Utiliser des pipes pour enchaîner des instructions](http://perso.ens-lyon.fr/lise.vaudor/utiliser-des-pipes-pour-enchainer-des-instructions/)
 
-
-<img src="http://perso.ens-lyon.fr/lise.vaudor/Rfigures/Piping/piping_piped.jpg" width="200"></img>
+<img src="http://perso.ens-lyon.fr/lise.vaudor/Rfigures/Piping/piping_piped.jpg" width="200"/>
 
 ###  Tutorials
 
@@ -98,11 +106,11 @@ Release Date: 2018-09-17
 
 + [Going from a human readable Excel file to a machine-readable csv with {tidyxl}](http://www.brodrigues.co/blog/2018-09-11-human_to_machine/)
 
-+ [sabre: Or How to Compare Two Maps?](https://nowosad.github.io/post/sabre-bp/)
-
-
-
 + [R Tip: Give data.table a Try](http://www.win-vector.com/blog/2018/09/r-tip-give-data-table-a-try/)
+
++ [Network visualization of football transfers using the 'visNetwork' package](https://rcrastinate.blogspot.com/2018/09/network-visualization-of-football.html)
+
+![Network visualization of football transfers using the 'visNetwork' package](https://raw.githubusercontent.com/rweekly/image/master/2018/transfer-graph.png)
 
 + [The year of the GNU+Linux desktop is upon us: using user ratings of Steam Play compatibility to play around with regex and the tidyverse](http://www.brodrigues.co/blog/2018-09-08-steam_linux/)
 
@@ -113,18 +121,13 @@ Release Date: 2018-09-17
 + [A stricter %in%](https://coolbutuseless.github.io/2018/09/07/a-stricter-in/)
 
 
-+ [All the Badges One Can Earn: Parsing Badges of CRAN Packages READMEs](https://ropensci.org/technotes/2018/09/10/github-badges/)
-
 + [Naïve Numerical Sums in R](https://ntguardian.wordpress.com/2018/09/10/naive-numerical-sums-in-r/)
-
-+ [Use purrr to feed four cats](https://blog.rmhogervorst.nl/blog/2018/09/10/use-purrr-to-feed-four-cats/)
 
 + [A Quick Appreciation of the R transform Function](http://www.win-vector.com/blog/2018/09/a-quick-appreciation-of-the-r-transform-function/)
 
-+ [sabre: or how to compare two maps?](https://nowosad.github.io/post/sabre-bp/)
++ [GDP Data via API](https://rviews.rstudio.com/2018/09/12/gdp-via-api/)
 
-+ [riddles on a line [#2]](https://xianblog.wordpress.com/2018/09/11/riddles-on-a-line-2/)
-
+![GDP Data via API](https://raw.githubusercontent.com/rweekly/image/master/2018/gdp-1.png)
 
 + [What have these birds been studied for? Querying science outputs with R](https://ropensci.org/blog/2018/09/11/birds-science/)
 
@@ -139,16 +142,9 @@ Release Date: 2018-09-17
 
 + [The Evolution of Data Literacy at the U.S. Department of Energy + Finding Power Grid Cyber Attacks in a Data Haystack](https://rud.is/b/2018/09/12/the-evolution-of-data-literacy-at-the-u-s-department-of-energy-finding-power-grid-cyber-attacks-in-a-data-haystack/)
 
-+ [GDP Data via API](https://rviews.rstudio.com/2018/09/12/gdp-via-api/)
-
 + [If not Notebooks, then what? Look to Literate Programming](http://blog.revolutionanalytics.com/2018/09/notebooks-literate-programming.html)
 
-+ [interactive ggplot with tooltip using plotly](https://blog.rmhogervorst.nl/blog/2018/09/13/interactive-ggplot-with-tooltip-using-plotly/)
-
 + [R Gene Regulatory Interaction Formulator For Inquiring Networks](http://lcolladotor.github.io/2018/09/13/r-gene-regulatory-interaction-formulator-for-inquiring-networks/)
-
-
-
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
@@ -156,6 +152,20 @@ n"></div><div class="post-more-end"></div>-->
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
++ Buffering is disabled for `file()` connections to irregular files (like sockets), as well as `fifo()` and `pipe()` connections. Fixes PR#17470, reported by Chris Culnane.
+
++ Analogously, the tools-internal function called from `R CMD check` gets a `warnOption = 1` argument and uses the larger of that and `getOption("warn")`, also allowing to be run with increased warning level.
+
++ `getOption()` is more efficient notably for the rare case when called with two arguments, from several contributors in PR#17394.
+
++ `tools`' `vignetteDepends()` has been deprecated (it called a function deprecated since Feb 2016), partly replaced by newly exported `vignetteInfo()`.
+
++ Experimentally, setting environment variable `_R_CHECK_LENGTH_1_LOGIC2_` will lead to warnings (or errors if the variable is set to a `true` value) when `&&` or `||` encounter and use arguments of length more than one.
+
++ Added `"lines"` and `"chars"` coordinate systems to `grconvertX()` and `grconvertY()`.
+
++ `S3method()` directives in `NAMESPACE` can now also be used to perform _delayed_ S3 method registration.
 
 
 ###  Upcoming Events in 3 Months
