@@ -37,6 +37,7 @@ Release Date: 2018-09-24
 
 **CRAN**
 
++ [roperators](https://cran.r-project.org/web/packages/roperators/index.html) - Provides additional string arithmetic, reassignment operators, logical operators to write cleaner R code
 
 
 **BioC**
