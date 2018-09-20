@@ -63,6 +63,7 @@ Release Date: 2018-09-24
 
 ###  Tutorials
 
++ [Become a Better R Programmer with the Awesome ‘lobstr’ Package](https://medium.com/analytics-vidhya/become-a-better-r-programmer-with-the-awesome-lobstr-package-af97fcd22602)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
