@@ -20,6 +20,7 @@ Release Date: 2018-09-24
 
 ### R in the Real World
 
++ [Snakes in a Package: combining Python and R with reticulate](https://www.mango-solutions.com/blog/snakes-in-a-package-combining-python-and-r-with-reticulate)
 
 
 ###  R in Academia
