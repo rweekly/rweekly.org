@@ -65,6 +65,8 @@ Release Date: 2018-09-24
 
 + [Become a Better R Programmer with the Awesome ‘lobstr’ Package](https://medium.com/analytics-vidhya/become-a-better-r-programmer-with-the-awesome-lobstr-package-af97fcd22602)
 
++ [Snakes in a Package: combining Python and R with reticulate](https://www.mango-solutions.com/blog/snakes-in-a-package-combining-python-and-r-with-reticulate)
+
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
 
