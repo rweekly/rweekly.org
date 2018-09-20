@@ -47,7 +47,7 @@ Release Date: 2018-09-24
 
 ### Package Releases
 
-
++ [udpipe version 0.7 for Natural Language Processing (#NLP) alongside #tidytext, #quanteda, #tm](http://bnosac.be/index.php/blog/81-udpipe-version-0-7-for-natural-language-processing-nlp-alongside-tidytext-quanteda-tm) 
 
 ###  Videos and Podcasts
 
