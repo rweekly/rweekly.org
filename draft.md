@@ -13,14 +13,44 @@ Release Date: 2018-09-24
 
 ### Insights
 
++ [Am I crazy for loving R as a general-purpose high-level language?](https://www.reddit.com/r/rstats/comments/9hviwd/am_i_crazy_for_loving_r_as_a_generalpurpose/)
+
++ [The actual tidyverse](http://giorasimchoni.com/2018/09/17/2018-09-17-the-actual-tidyverse/) - Scraping over 1000 R Blog Posts to Visualize How People Actually Use the Tidyverse Functions
+
++ [3 reasons to not write that new code, and how I failed at it.](https://jozefhajnala.gitlab.io/r/r904-dont-write-that-code/)
+
++ [Data visualisation pitfalls: how to avoid barbarplots ?](https://rtask.thinkr.fr/blog/data-visualisation-pitfalls-how-to-avoid-barbarplots/)
+
++ [Labelling dataviz](https://mikewk.com/post/2018-09-20-labelling-dataviz/)
+
+![Labelling dataviz](https://mikewk.com/post/img/tick-marks-final.png)
+
+
++ [How to Avoid For Loop in R](https://statcompute.wordpress.com/2018/09/15/how-to-avoid-for-loop-in-r/)
 
 ###  R in Organizations
 
++ [Chat with the rOpenSci team at upcoming meetings](https://ropensci.org/blog/2018/09/21/ropensci-at-meetings/)
 
 
 ### R in the Real World
 
++ [Evaluation of an R script created in 2000. ](https://www.jumpingrivers.com/blog/r-from-the-turn-of-the-century/)
 
+
++ [Access the Internet Archive Advanced Search/Scrape API with wayback (+ links to a new vignette & pkgdown site)](https://rud.is/b/2018/09/17/access-the-internet-archive-advanced-search-scrape-api-with-wayback-a-links-to-a-new-vignette-pkgdown-site/)
+
++ [Musings on Statistical Models vs. Machine Learning in Health Research](http://fharrell.com/talk/mlhealth/)
+
++ [Taking a Tour of the Pirate Ship 'GitHub DMCA' with R](https://rud.is/b/2018/09/19/taking-a-tour-of-the-pirate-ship-github-dmca-with-r/)
+
++ [A Follow-Up Post on My Early Career Crisis Post (Finally)](https://yihui.name/en/2018/09/career-crisis-follow-up/)
+
++ [Applications of R presented at EARL London 2018](http://blog.revolutionanalytics.com/2018/09/earl-london-2018.html)
+
++ [Differences in Word Use Across Music Genres in Pitchfork Album Reviews](https://methodmatters.blogspot.com/2018/09/differences-in-word-use-across-music.html)
+
+![Differences in Word Use Across Music Genres in Pitchfork Album Reviews](https://3.bp.blogspot.com/-NzNaelyOIPk/WqBHFzHGMoI/AAAAAAAAAbM/9x4Ef_N1yl4MuqneW9OCgj1Z76xT_cG9wCLcBGAs/s1600/comp_cloud_genre_blog.png)
 
 ###  R in Academia
 
@@ -29,6 +59,9 @@ Release Date: 2018-09-24
 ###  Resources
 
 
++ [Shiny App, video, code, and model description using Machine Learning to predict payments on insurance claims](https://www.tychobra.com/posts/claims-ml/)
+
++ [AI, Machine Learning and Data Science Roundup: September 2018](http://blog.revolutionanalytics.com/2018/09/ai-roundup-september-2018.html)
 
 
 ###  New Packages
@@ -37,7 +70,11 @@ Release Date: 2018-09-24
 
 **CRAN**
 
++ [binb 0.0.1: binb is not Beamer](http://dirk.eddelbuettel.com/blog/2018/09/19#binb_0.0.1)
 
++ [Radix for R Markdown](https://blog.rstudio.com/2018/09/19/radix-for-r-markdown/) - A new R Markdown format optimized for scientific and technical communication
+
+![Radix for R Markdown](https://d33wubrfki0l68.cloudfront.net/5348bf6dff2d38c059dcc9c98c7b7fb82ef9880c/0d3f7/images/2018-09-17-radix-fullscreen-layout.png)
 
 **BioC**
 
@@ -47,11 +84,13 @@ Release Date: 2018-09-24
 
 ### Package Releases
 
-+ [udpipe version 0.7 for Natural Language Processing (#NLP) alongside #tidytext, #quanteda, #tm](http://bnosac.be/index.php/blog/81-udpipe-version-0-7-for-natural-language-processing-nlp-alongside-tidytext-quanteda-tm) 
++ [udpipe version 0.7 for Natural Language Processing (#NLP) alongside #tidytext, #quanteda, #tm](http://bnosac.be/index.php/blog/81-udpipe-version-0-7-for-natural-language-processing-nlp-alongside-tidytext-quanteda-tm)
+
++ [RStudio Connect 1.6.8 - Emails, APIs, and Titles](https://blog.rstudio.com/2018/09/20/rstudio-connect-1-6-8-emails-apis-and-titles/)
 
 ###  Videos and Podcasts
 
-
++ [The design of everyday functions -  Hadley Wickham](https://www.youtube.com/watch?v=fTwh9mE8jLQ)
 
 ### Gist & Cookbook
 
@@ -60,12 +99,59 @@ Release Date: 2018-09-24
 
 ### R Internationally
 
++ [Múltiples escalas de colores en ggplot2](https://eliocamp.github.io/codigo-r/2018/09/multiples-escalas-colores-ggplot2/)
+
 
 ###  Tutorials
 
 + [Become a Better R Programmer with the Awesome ‘lobstr’ Package](https://medium.com/analytics-vidhya/become-a-better-r-programmer-with-the-awesome-lobstr-package-af97fcd22602)
 
 + [Snakes in a Package: combining Python and R with reticulate](https://www.mango-solutions.com/blog/snakes-in-a-package-combining-python-and-r-with-reticulate)
+
+
++ [Better R Code with wrapr Dot Arrow](http://www.win-vector.com/blog/2018/09/better-r-code-with-wrapr-dot-arrow/)
+
++ [On "Competition" in the R Ecosystem](http://www.win-vector.com/blog/2018/09/on-competition-in-the-r-ecosystem/)
+
++ [Parameterizing with bquote](http://www.win-vector.com/blog/2018/09/parameterizing-with-bquote/)
+
++ [Intersection of multiple vectors](https://coolbutuseless.github.io/2018/09/17/intersection-of-multiple-vectors/)
+
+
++ [Dot-Pipe Paper Accepted by the R Journal!!!](http://www.win-vector.com/blog/2018/09/dot-pipe-paper-accepted-by-the-r-journal/)
+
++ [Building Reproducible Data Packages with DataPackageR](https://ropensci.org/blog/2018/09/18/datapackager/)
+
+
++ [Not Hotdog: A shiny app using the Custom Vision API](http://blog.revolutionanalytics.com/2018/09/not-hotdog-a-shiny-app-using-the-custom-vision-api.html)
+
++ [Multiple color (and fill) scales with ggplot2](https://eliocamp.github.io/codigo-r/2018/09/multiple-color-fill-scales-ggplot2/)
+
+
++ [Introducing debkeepr](https://jessesadler.com/post/debkeepr-intro/)
+
+
++ [Not Hotdog: A Shiny app using the Custom Vision API](http://blog.revolutionanalytics.com/2018/09/not-hotdog-a-shiny-app-using-the-custom-vision-api.html)
+
++ [How to Put All Your Code in the Appendix in R Markdown](https://yihui.name/en/2018/09/code-appendix/)
+
+
++ [The log-0 problem: analysis strategies and options for choosing c in log(y + c) ](https://aosmith.rbind.io/2018/09/19/the-log-0-problem/)
+
+
++ [Find all sequences of a given length with the given sum](https://coolbutuseless.github.io/2018/09/20/find-all-sequences-of-a-given-length-with-the-given-sum/)
+
+
++ [Shiny application in production with ShinyProxy, Docker and Debian](https://rtask.thinkr.fr/blog/shiny-application-in-production-with-shinyproxy-docker-and-debian/)
+
+
++ [Interactive plots in Shiny](https://rviews.rstudio.com/2018/09/20/shiny-r2d3/)
+
+
++ [Using a Column as a Column Index](http://www.win-vector.com/blog/2018/09/using-a-column-as-a-column-index/)
+
+
++ [Timing Column Indexing in R](http://www.win-vector.com/blog/2018/09/timing-column-indexing-in-r/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
