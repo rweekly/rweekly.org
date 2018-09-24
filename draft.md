@@ -9,6 +9,11 @@ Release Date: 2018-09-24
 
 ###  Highlight
 
++ [Radix for R Markdown](https://blog.rstudio.com/2018/09/19/radix-for-r-markdown/) - A new R Markdown format optimized for scientific and technical communication
+
++ [The actual tidyverse](http://giorasimchoni.com/2018/09/17/2018-09-17-the-actual-tidyverse/) - Scraping over 1000 R Blog Posts to Visualize How People Actually Use the Tidyverse Functions
+
++ [The design of everyday functions -  Hadley Wickham](https://www.youtube.com/watch?v=fTwh9mE8jLQ)
 
 
 ### Insights
@@ -160,6 +165,23 @@ n"></div><div class="post-more-end"></div>-->
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ `sQuote()` and `dQuote()` get an explicit `q` argument with obvious default instead of using `getOption("fancyQuotes")` implicitly and unconditionally.
+
++ `lm.influence()`, `influence.measures()`, `rstudent()` etc now work (more) correctly for multivariate models (`"mlm"`), thanks to (anonymous) stackoverflow remarks.
+
++ `sample.int(2.9, *, replace=TRUE)` again behaves as documented and as in R < 3.0.0, namely identically to `sample.int(2, ..)`.
+
++ `download.file(*, method = "curl", cacheOK = FALSE)` should work now on Windows, thanks to Kevin Ushey's patch in PR#17323.
+
++ Fixes to `convertColor()` for chromatic adaptation; thanks to Brodie Gaslam PR#17473.
+
++ `nextn(n)` now also works for larger `n` and no longer loops infinitely for e.g, `n <- 214e7`.
+
++ In `.col(dim)` and `.row(dim)`, `dim` now may also be an integer valued `"double"`.
+
++ `cooks.distance()` and `rstandard()` now work correctly for multivariate models (`"mlm"`).
+
++ `polym()` and corresponding `lm()` prediction now also work for a boundary "vector" case fixing PR#17474, reported by Alexandre Courtiol.
 
 
 
@@ -190,4 +212,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tip of the day:<br><br>There is a shortcut in <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> that will open up a keyboard shortcut quick reference sheet to see all available shortcuts!!!<br><br>Windows: Alt + Shift + K<br>Mac: Option + Shift + K <a href="https://t.co/PHMP5pJfqu">pic.twitter.com/PHMP5pJfqu</a></p>&mdash; Dana Linnell Wanzer, MA (@danawanzer) <a href="https://twitter.com/danawanzer/status/1043541685911748609?ref_src=twsrc%5Etfw">September 22, 2018</a></blockquote>
 
