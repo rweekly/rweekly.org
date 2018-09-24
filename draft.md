@@ -28,7 +28,7 @@ Release Date: 2018-09-24
 
 + [Labelling dataviz](https://mikewk.com/post/2018-09-20-labelling-dataviz/)
 
-![Labelling dataviz](https://mikewk.com/post/img/tick-marks-final.png)
+![Labelling dataviz](https://raw.githubusercontent.com/rweekly/image/master/2018-8/tick-marks-final.png)
 
 
 + [How to Avoid For Loop in R](https://statcompute.wordpress.com/2018/09/15/how-to-avoid-for-loop-in-r/)
@@ -45,6 +45,11 @@ Release Date: 2018-09-24
 
 + [Access the Internet Archive Advanced Search/Scrape API with wayback (+ links to a new vignette & pkgdown site)](https://rud.is/b/2018/09/17/access-the-internet-archive-advanced-search-scrape-api-with-wayback-a-links-to-a-new-vignette-pkgdown-site/)
 
+
++ [Differences in Word Use Across Music Genres in Pitchfork Album Reviews](https://methodmatters.blogspot.com/2018/09/differences-in-word-use-across-music.html)
+
+![Differences in Word Use Across Music Genres in Pitchfork Album Reviews](https://raw.githubusercontent.com/rweekly/image/master/2018-8/comp_cloud_genre_blog.png)
+
 + [Musings on Statistical Models vs. Machine Learning in Health Research](http://fharrell.com/talk/mlhealth/)
 
 + [Taking a Tour of the Pirate Ship 'GitHub DMCA' with R](https://rud.is/b/2018/09/19/taking-a-tour-of-the-pirate-ship-github-dmca-with-r/)
@@ -53,9 +58,6 @@ Release Date: 2018-09-24
 
 + [Applications of R presented at EARL London 2018](http://blog.revolutionanalytics.com/2018/09/earl-london-2018.html)
 
-+ [Differences in Word Use Across Music Genres in Pitchfork Album Reviews](https://methodmatters.blogspot.com/2018/09/differences-in-word-use-across-music.html)
-
-![Differences in Word Use Across Music Genres in Pitchfork Album Reviews](https://3.bp.blogspot.com/-NzNaelyOIPk/WqBHFzHGMoI/AAAAAAAAAbM/9x4Ef_N1yl4MuqneW9OCgj1Z76xT_cG9wCLcBGAs/s1600/comp_cloud_genre_blog.png)
 
 ###  R in Academia
 
@@ -89,9 +91,9 @@ Release Date: 2018-09-24
 
 ### Package Releases
 
-+ [udpipe version 0.7 for Natural Language Processing (#NLP) alongside #tidytext, #quanteda, #tm](http://bnosac.be/index.php/blog/81-udpipe-version-0-7-for-natural-language-processing-nlp-alongside-tidytext-quanteda-tm)
++ [udpipe 0.7](http://bnosac.be/index.php/blog/81-udpipe-version-0-7-for-natural-language-processing-nlp-alongside-tidytext-quanteda-tm) - Natural Language Processing alongside tidytext, quanteda, tm
 
-+ [RStudio Connect 1.6.8 - Emails, APIs, and Titles](https://blog.rstudio.com/2018/09/20/rstudio-connect-1-6-8-emails-apis-and-titles/)
++ [RStudio Connect 1.6.8](https://blog.rstudio.com/2018/09/20/rstudio-connect-1-6-8-emails-apis-and-titles/)  - Emails, APIs, and Titles
 
 ###  Videos and Podcasts
 
@@ -123,8 +125,6 @@ Release Date: 2018-09-24
 + [Intersection of multiple vectors](https://coolbutuseless.github.io/2018/09/17/intersection-of-multiple-vectors/)
 
 
-+ [Dot-Pipe Paper Accepted by the R Journal!!!](http://www.win-vector.com/blog/2018/09/dot-pipe-paper-accepted-by-the-r-journal/)
-
 + [Building Reproducible Data Packages with DataPackageR](https://ropensci.org/blog/2018/09/18/datapackager/)
 
 
@@ -132,11 +132,9 @@ Release Date: 2018-09-24
 
 + [Multiple color (and fill) scales with ggplot2](https://eliocamp.github.io/codigo-r/2018/09/multiple-color-fill-scales-ggplot2/)
 
+![Multiple color (and fill) scales with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2018-8/color-ggplot-2.png)
 
 + [Introducing debkeepr](https://jessesadler.com/post/debkeepr-intro/)
-
-
-+ [Not Hotdog: A Shiny app using the Custom Vision API](http://blog.revolutionanalytics.com/2018/09/not-hotdog-a-shiny-app-using-the-custom-vision-api.html)
 
 + [How to Put All Your Code in the Appendix in R Markdown](https://yihui.name/en/2018/09/code-appendix/)
 
@@ -152,6 +150,7 @@ Release Date: 2018-09-24
 
 + [Interactive plots in Shiny](https://rviews.rstudio.com/2018/09/20/shiny-r2d3/)
 
+![Interactive plots in Shiny](https://raw.githubusercontent.com/rweekly/image/master/2018-8/shiny-plot.png)
 
 + [Using a Column as a Column Index](http://www.win-vector.com/blog/2018/09/using-a-column-as-a-column-index/)
 
