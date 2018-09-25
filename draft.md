@@ -30,8 +30,6 @@ Release Date: 2018-09-24
 
 ###  Resources
 
-+ [The Nasa Datnauts Experience!](https://www.littlemissdata.com/blog/nasadatanauts)
-
 
 
 
@@ -67,7 +65,9 @@ Release Date: 2018-09-24
 
 ###  Tutorials
 
-
++ [Give your tables some style with the formattable package!](https://www.littlemissdata.com/blog/prettytables)
+ 
+ ![Preview](https://github.com/lgellis/MiscTutorial/blob/master/Austin/formattable.gif)
 
 
 
