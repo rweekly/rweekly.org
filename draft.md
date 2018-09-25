@@ -33,7 +33,6 @@ Release Date: 2018-09-24
 
 
 
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -66,7 +65,9 @@ Release Date: 2018-09-24
 
 ###  Tutorials
 
-
++ [Give your tables some style with the formattable package!](https://www.littlemissdata.com/blog/prettytables)
+ 
+ ![Preview](https://github.com/lgellis/MiscTutorial/blob/master/Austin/formattable.gif)
 
 
 
