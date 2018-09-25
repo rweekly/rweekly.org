@@ -24,13 +24,14 @@ Release Date: 2018-09-24
 
 
 
+
 ###  R in Academia
 
 
 
 ###  Resources
 
-
++ [Bootstrapping and Permutation Testing: A Shiny Dashboard](https://mattkmiecik.shinyapps.io/boot-perm-dash/)
 
 
 
