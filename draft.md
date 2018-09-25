@@ -1,27 +1,26 @@
 ---
 layout: draft
-title: R Weekly 2018-38
+title: R Weekly 2018-40
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2018-09-17
+Release Date: 2018-09-24
 
 ###  Highlight
+
 
 
 
 ### Insights
 
 
-
 ###  R in Organizations
 
++ [Chat with the rOpenSci team at upcoming meetings](https://ropensci.org/blog/2018/09/21/ropensci-at-meetings/)
 
 
 ### R in the Real World
-
-
 
 
 
@@ -32,6 +31,8 @@ Release Date: 2018-09-17
 ###  Resources
 
 + [The Nasa Datnauts Experience!](https://www.littlemissdata.com/blog/nasadatanauts)
+
+
 
 
 ###  New Packages
@@ -50,7 +51,6 @@ Release Date: 2018-09-17
 ### Package Releases
 
 
-
 ###  Videos and Podcasts
 
 
@@ -61,6 +61,7 @@ Release Date: 2018-09-17
 
 
 ### R Internationally
+
 
 
 
@@ -79,12 +80,15 @@ n"></div><div class="post-more-end"></div>-->
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 
+
+
+
+
+
+
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [Econometrics and Statistics using R](http://gades-training.com/en/cursos/Econometrics-and-Statistics-Using-R) **Sept 10-14** <br />
-Lisbon, Portugal.
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
