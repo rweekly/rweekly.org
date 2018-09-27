@@ -14,6 +14,7 @@ Release Date: 2018-09-24
 
 ### Insights
 
++ [Why do we use arrow as an assignment operator?](https://colinfay.me/r-assignment/)
 
 ###  R in Organizations
 
@@ -33,6 +34,7 @@ Release Date: 2018-09-24
 
 + [Bootstrapping and Permutation Testing: A Shiny Dashboard](https://mattkmiecik.shinyapps.io/boot-perm-dash/)
 
++ [R developer's guide to Azure](http://blog.revolutionanalytics.com/2018/09/r-developers-guide-to-azure.html)
 
 ###  New Packages
 
@@ -70,8 +72,11 @@ Release Date: 2018-09-24
  
  ![Preview](https://github.com/lgellis/MiscTutorial/blob/master/Austin/formattable.gif)
 
++ [Going Down to South Park—Text Analysis with R](https://academy.vertabelo.com/blog/south-park-text-data-analysis-with-r/)
 
++ [Tuning a data preprocessing pipeline with recipes and modelgrid](http://smaakage85.netlify.com/2018/09/24/tuning-a-data-preprocessing-pipeline-with-recipes-and-modelgrid/)
 
++ [What Are We Plotting, What Are We Animating](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
