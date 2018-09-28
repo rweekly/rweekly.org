@@ -51,6 +51,9 @@ Release Date: 2018-09-24
 
 ### Package Releases
 
++ [getTBinR 0.5.5](https://www.samabbott.co.uk/post/gettbinr-5-5/) - 2017 TB data now available.
+
+![getTBinR 2017 TB storyboard](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-5-5.png)
 
 ###  Videos and Podcasts
 
