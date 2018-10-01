@@ -9,14 +9,14 @@ Release Date: 2018-09-24
 
 ###  Highlight
 
-
-
-
-### Insights
++ [What Are We Plotting, What Are We Animating](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)
 
 + [Why do we use arrow as an assignment operator?](https://colinfay.me/r-assignment/)
 
-+ [What Are We Plotting, What Are We Animating](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)
++ [Fall 2018: ISC Call for Proposals](https://www.r-consortium.org/announcement/2018/09/25/fall-2018-isc-call-for-proposals)
+
++ [Give your tables some style with the formattable package!](https://www.littlemissdata.com/blog/prettytables)
+
 
 ###  R in Organizations
 
@@ -37,6 +37,12 @@ Release Date: 2018-09-24
 
 + [Sri Lanka visitor arrivals](http://freerangestats.info/blog/2018/09/26/sri-lanka-arrivals)
 
+### Insights
+
++ [What Are We Plotting, What Are We Animating](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)
+
++ [Why do we use arrow as an assignment operator?](https://colinfay.me/r-assignment/)
+
 ###  R in Academia
 
 
@@ -48,6 +54,8 @@ Release Date: 2018-09-24
 + [R developer's guide to Azure](http://blog.revolutionanalytics.com/2018/09/r-developers-guide-to-azure.html)
 
 + [August 2018: Top 40 New Packages](https://rviews.rstudio.com/2018/09/26/august-2018-top-40-new-packages/)
+
+![August 2018: Top 40 New Packages](https://user-images.githubusercontent.com/7472151/46283563-4ef9bc80-c5a7-11e8-982c-5b1d7d81fc86.gif)
 
 ###  New Packages
 
@@ -65,11 +73,15 @@ Release Date: 2018-09-24
 
 + [ggtextures](https://github.com/clauswilke/ggtextures) - Drawing textured rectangles and bars with ggplot
 
+![ggtextures](https://user-images.githubusercontent.com/7472151/46283536-38ebfc00-c5a7-11e8-8ded-1bad1c659a82.png)
 
 ### Package Releases
 
 + [binb 0.0.2: Now with presento](http://dirk.eddelbuettel.com/blog/2018/09/27#binb_0.0.2)
 
++ [getTBinR 0.5.5](https://www.samabbott.co.uk/post/gettbinr-5-5/) - Get WHO Tuberculosis Data, 2017 TB data now available.
+
+![getTBinR 0.5.5](https://user-images.githubusercontent.com/7472151/46283476-0f32d500-c5a7-11e8-8d8e-613d084b7efa.png)
 
 ###  Videos and Podcasts
 
@@ -89,7 +101,7 @@ Release Date: 2018-09-24
 
 + [Give your tables some style with the formattable package!](https://www.littlemissdata.com/blog/prettytables)
 
-![Preview](https://github.com/lgellis/MiscTutorial/blob/master/Austin/formattable.gif)
+![Preview](https://raw.githubusercontent.com/lgellis/MiscTutorial/master/Austin/formattable.gif)
 
 + [Going Down to South Park—Text Analysis with R](https://academy.vertabelo.com/blog/south-park-text-data-analysis-with-r/)
 
@@ -111,13 +123,12 @@ Release Date: 2018-09-24
 
 + [A Better Example of the Confused By The Environment Issue](http://www.win-vector.com/blog/2018/09/a-better-example-of-the-confused-by-the-environment-issue/)
 
-+ [R developer's guide to Azure](http://blog.revolutionanalytics.com/2018/09/r-developers-guide-to-azure.html)
-
 + [Nonograms in R - 'nonogram' package](https://coolbutuseless.github.io/2018/09/26/nonograms-in-r---nonogram-package/)
 
 
 + [3-D shadow maps in R: the rayshader package](http://blog.revolutionanalytics.com/2018/09/raytracer.html)
 
+![3-D shadow maps in R: the rayshader package](https://revolution-computing.typepad.com/.a/6a010534b1db25970b022ad3945527200d-800wi)
 
 + [Creating nonograms with 'nonogram' and 'magick' packages](https://coolbutuseless.github.io/2018/09/27/creating-nonograms-with-nonogram-and-magick-packages/)
 
@@ -128,8 +139,6 @@ Release Date: 2018-09-24
 + [Combining data in R: the skill of merging, joining, and stacking](https://datascienceplus.com/combining-data-in-r-the-skill-of-merging-joining-and-stacking/)
 
 + [More health economics in R](http://statistica.it/gianluca/post/2018-09-23-more-health-economics-in-r/)
-
-+ [Create stylish tables in R using formattable](https://www.littlemissdata.com/blog/prettytables)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
