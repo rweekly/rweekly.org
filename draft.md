@@ -69,6 +69,8 @@ Release Date: 2018-10-08
 
 ###  Tutorials
 
++ [Visualizing the Weather in Japan: A Sweltering Summer Story!](https://ryo-n7.github.io/2018-10-04-visualize-weather-in-japan/)
+![](https://i.imgur.com/3nEmchc.png)
 
 
 
