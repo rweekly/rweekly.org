@@ -129,7 +129,6 @@ Release Date: 2018-10-08
 
 + [Translating drawings into formulas, building a shiny app for it, and NOT using Deep Learning.](http://giorasimchoni.com/2018/09/28/2018-09-28-for-mulan/)
 
-+ [4 ways to be more productive, using RStudio's terminal](https://jozefhajnala.gitlab.io/r/r905-rstudio-terminal/)
 
 + [Deep Learning for Time Series Forecasting: Predicting Sunspot Frequency with Keras](https://tensorflow.rstudio.com/blog/sunspots-lstm.html)
 
