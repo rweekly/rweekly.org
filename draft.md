@@ -47,6 +47,8 @@ Release Date: 2018-10-08
 
 + [My Journey into Data Science](https://theartandscienceofdata.wordpress.com/2018/01/07/my-journey-into-data-science/)
 
++ [The "Gold Standard" of Data Science Project Management](https://towardsdatascience.com/the-gold-standard-of-data-science-project-management-13d68c9e85d6)
+
 ###  R in Academia
 
 
