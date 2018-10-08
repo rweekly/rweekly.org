@@ -9,8 +9,18 @@ Release Date: 2018-10-08
 
 ###  Highlight
 
++ [The av Package: Production Quality Video in R](https://ropensci.org/technotes/2018/10/06/av-release/)
 
+<video width="100%" controls="">
+<source src="https://jeroen.github.io/videos/smooth.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
++ [r2d3](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/) - R Interface to D3 Visualizations
+
+![R Interface to D3 Visualizations](https://raw.githubusercontent.com/rweekly/image/master/2018/r2d3.gif)
+
++ [RStudio 1.2 Preview: SQL Integration](https://blog.rstudio.com/2018/10/02/rstudio-1-2-preview-sql/)
 
 ###  R in Organizations
 
@@ -19,7 +29,9 @@ Release Date: 2018-10-08
 
 ### R in the Real World
 
-+ [Rent-scraping: How I saved money using R](http://embracingtherandom.com/r/web-scraping/rent-scraping/)
++ [Visualizing the Weather in Japan: A Sweltering Summer Story!](https://ryo-n7.github.io/2018-10-04-visualize-weather-in-japan/)
+
+![Visualizing the Weather in Japan: A Sweltering Summer Story!](https://i.imgur.com/3nEmchc.png)
 
 + [Spookify: Halloween Name Generation in R](https://masalmon.eu/2018/10/05/spookify/)
 
@@ -28,10 +40,14 @@ Release Date: 2018-10-08
 
 + [Automate away the boring parts of organising (journal club) meetings using R and Google Sheets](https://www.granvillematheson.com/post/reminder-bot/)
 
-
 + [Why Equity Requires Looking Beyond Averages: A Look at Minneapolis Public Schools](https://ivelasq.rbind.io/blog/why-disaggregate-data/)
 
 + [Scraping twitter data to visualize trending tweets in Kuala Lumpur](https://duttashi.github.io/blog/scraping-twitter-data-to-analyse-trends-in-KL/)
+
+
++ [Rent-scraping: How I saved money using R](http://embracingtherandom.com/r/web-scraping/rent-scraping/)
+
+![Rent-scraping: How I saved money using R](https://raw.githubusercontent.com/rweekly/image/master/2018/rolling_rent.png)
 
 
 
@@ -65,27 +81,25 @@ Release Date: 2018-10-08
 
 **CRAN**
 
-+ [r2d3 - R Interface to D3 Visualizations](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/)
++ [r2d3](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/) - R Interface to D3 Visualizations
 
-+ [outcomerate: Transparent Communication of Quality in Social Surveys](https://ropensci.org/blog/2018/10/02/outcomerate/)
++ [outcomerate](https://ropensci.org/blog/2018/10/02/outcomerate/) - Transparent Communication of Quality in Social Surveys
 
-+ [The av Package: Production Quality Video in R](https://ropensci.org/technotes/2018/10/06/av-release/)
++ [av](https://ropensci.org/technotes/2018/10/06/av-release/) - Production Quality Video in R
 
-+ [tinkr: editing Markdown documents using XML tools](https://ropensci.org/technotes/2018/10/01/tinkr/)
++ [tinkr](https://ropensci.org/technotes/2018/10/01/tinkr/) - editing Markdown documents using XML tools
 
 **BioC**
 
 
 **GitHub or Bitbucket**
 
-
-
-+ [An RStudio Addin to convert text cases to lower, upper, snake, and camel cases.](https://github.com/strboul/caseconverter)
++ [caseconverter](https://github.com/strboul/caseconverter) - RStudio Addin to convert text cases to lower, upper, snake, and camel cases
 
 
 ### Package Releases
 
-+ [RStudio 1.2 Preview: SQL Integration](https://blog.rstudio.com/2018/10/02/rstudio-1-2-preview-sql/)
++ [RStudio 1.2 Preview](https://blog.rstudio.com/2018/10/02/rstudio-1-2-preview-sql/) - SQL Integration
 
 + [MLflow v0.7.0](https://databricks.com/blog/2018/10/03/mlflow-v0-7-0-features-new-r-api-by-rstudio.html) - Features R API by RStudio. Log, track, tune, and annotate your model.
 
@@ -97,9 +111,9 @@ Release Date: 2018-10-08
 + [nanotime 0.2.3](http://dirk.eddelbuettel.com/blog/2018/09/30#nanotime_0.2.3)
 
 
-+ [Rcpp 0.12.19: And more updates](http://dirk.eddelbuettel.com/blog/2018/10/01#rcpp_0.12.19)
++ [Rcpp 0.12.19](http://dirk.eddelbuettel.com/blog/2018/10/01#rcpp_0.12.19) - Seamless R and C++ Integration
 
-+ [littler 0.3.5: Other kids broke my toys](http://dirk.eddelbuettel.com/blog/2018/10/04#littler-0.3.5)
++ [littler 0.3.5](http://dirk.eddelbuettel.com/blog/2018/10/04#littler-0.3.5) - Other kids broke my toys
 
 ###  Videos and Podcasts
 
@@ -119,6 +133,7 @@ Release Date: 2018-10-08
 
 + [How Big Should the Control Group Be in a Randomized Field Experiment?](https://mark-white-ctlg.squarespace.com/blog/control-size)
 
+![How Big Should the Control Group Be in a Randomized Field Experiment?](https://raw.githubusercontent.com/rweekly/image/master/2018/control.png)
 
 + [Host your own Shiny Server on Azure](http://myyearindata.com/2018/running-your-own-shiny-server-on-azure/)
 
@@ -134,7 +149,6 @@ Release Date: 2018-10-08
 
 + [4 ways to be more productive, using RStudio's terminal](https://jozefhajnala.gitlab.io/r/r905-rstudio-terminal/)
 
-+ [Short and sweet: temperature variability with ggridges 📦](https://austinwehrwein.com/data-visualization/weather/)
 
 + [How to Build a Logistic Regression Model from Scratch in R](http://theautomatic.net/2018/10/02/how-to-build-a-logistic-regression-model-from-scratch-in-r/)
 
@@ -151,6 +165,10 @@ Release Date: 2018-10-08
 
 + [Manifold Visualization: Second Example](https://matloff.wordpress.com/2018/10/01/manifold-visualization-second-example/)
 
++ [Short and sweet: temperature variability with ggridges 📦](https://austinwehrwein.com/data-visualization/weather/)
+
+![Short and sweet: temperature variability with ggridges 📦](https://raw.githubusercontent.com/rweekly/image/master/2018/temp-weather.png)
+
 + [Using LZ4 and Zstandard to compress files with saveRDS()](https://coolbutuseless.github.io/2018/10/02/using-lz4-and-zstandard-to-compress-files-with-saverds/)
 
 
@@ -158,10 +176,6 @@ Release Date: 2018-10-08
 + [A Tale of Two Shiny Apps: Google Auth & ShinyProxy](https://rtask.thinkr.fr/blog/a-tale-of-two-shiny-apps-google-auth-shinyproxy/)
 
 + [Introduction to Geospatial Analysis in R](https://roh.engineering/post/introduction-to-geospatial-analysis-in-r/)
-
-+ [Visualizing the Weather in Japan: A Sweltering Summer Story!](http://Ryo-N7.github.io/2018-10-04-visualize-weather-in-japan/)
-
-
 
 + [Adding strings in R](https://jcarroll.com.au/2018/10/06/adding-strings-in-r/)
 
