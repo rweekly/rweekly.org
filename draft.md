@@ -23,6 +23,8 @@ Release Date: 2018-10-15
 
 
 
++ [The "Gold Standard" of Data Science Project Management](https://towardsdatascience.com/the-gold-standard-of-data-science-project-management-13d68c9e85d6)
+
 ###  R in Academia
 
 
