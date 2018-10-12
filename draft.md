@@ -69,7 +69,7 @@ Release Date: 2018-10-15
 
 ###  Tutorials
 
-
+[The "Gold Standard" for Data Science Management](https://towardsdatascience.com/the-gold-standard-of-data-science-project-management-13d68c9e85d6)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
