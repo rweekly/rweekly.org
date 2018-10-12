@@ -69,7 +69,7 @@ Release Date: 2018-10-15
 
 ###  Tutorials
 
-
++ [unlist](http://niemannross.com/link/unlist) - at LinkedIn Learning, R for Data Science: Lunchbreak Lessons
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
