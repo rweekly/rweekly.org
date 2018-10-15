@@ -13,6 +13,8 @@ Release Date: 2018-10-22
 
 ### Insights
 
++ [Tidying workflows in R](https://sinarueeger.github.io/2018/10/09/workflow/)
+
 
 
 
@@ -66,8 +68,6 @@ Release Date: 2018-10-22
 
 
 ###  Tutorials
-
-+ [Tidying workflows in R](https://sinarueeger.github.io/2018/10/09/workflow/)
 
 
 <!--<div class="post-more-begi
