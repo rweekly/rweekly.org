@@ -9,15 +9,16 @@ Release Date: 2018-10-15
 
 ###  Highlight
 
++ [RStudio 1.2 Preview](https://blog.rstudio.com/2018/10/11/rstudio-1-2-preview-cpp/) - [C/C++ and Rcpp](https://blog.rstudio.com/2018/10/11/rstudio-1-2-preview-cpp/) and [Reticulated Python](https://blog.rstudio.com/2018/10/09/rstudio-1-2-preview-reticulated-python/)
 
++ [Distinguish yourself in CRAN person() with ORCID](https://ropensci.org/technotes/2018/10/08/orcid/)
 
++ [What's new with R Consortium funded projects in Q3 2018](https://www.r-consortium.org/blog/2018/10/09/whats-new-with-r-consortium-funded-projects-in-q3-2018)
 
 ### Insights
 
 
 + [Distinguish yourself in CRAN person() with ORCID](https://ropensci.org/technotes/2018/10/08/orcid/)
-
-
 
 + [How R gets built on Windows](http://blog.revolutionanalytics.com/2018/10/how-r-gets-built-on-windows.html)
 
@@ -25,8 +26,11 @@ Release Date: 2018-10-15
 
 + [RStudio 1.2 Preview: Reticulated Python](https://blog.rstudio.com/2018/10/09/rstudio-1-2-preview-reticulated-python/)
 
-+ [faster](https://medium.com/graalvm/faster-r-with-fastr-4b8db0e0dceb)
+![RStudio 1.2 Preview: Reticulated Python](https://raw.githubusercontent.com/rweekly/image/master/2018/code_completion.png)
 
++ [faster](https://medium.com/graalvm/faster-r-with-fastr-4b8db0e0dceb) - Faster R with FastR
+
+![faster](https://raw.githubusercontent.com/rweekly/image/master/2018/fastr.png)
 
 + [The "Gold Standard" of Data Science Project Management](https://towardsdatascience.com/the-gold-standard-of-data-science-project-management-13d68c9e85d6)
 
@@ -57,13 +61,23 @@ Release Date: 2018-10-15
 
 + [The Economist's Big Mac Index is calculated with R](http://blog.revolutionanalytics.com/2018/10/big-mac-index.html)
 
+![The Economist's Big Mac Index is calculated with R](https://raw.githubusercontent.com/rweekly/image/master/2018/bigmac.png)
+
 + [Modeling airbnb prices](https://www.mango-solutions.com/blog/modeling-airbnb-prices)
 
 + [Gender Analysis of the Pokémon Universe](http://felixluginbuhl.com/pokemon/)
 
+![Gender Analysis of the Pokémon Universe](https://raw.githubusercontent.com/rweekly/image/master/2018/chart_pokemon.png)
+
 + [GitHub Streak: Round Five](http://dirk.eddelbuettel.com/blog/2018/10/12#github_oct2017_oct2018)
 
+![GitHub Streak: Round Five](https://raw.githubusercontent.com/rweekly/image/master/2018/2018_strike.png)
+
 + [From 0 to 5: our journey of building an R-package ecosystem](https://blog.craftlab.hu/from-0-to-5-our-journey-of-building-an-r-package-ecosystem-ec257818e425?gi=4b85d97967f9)
+
++ [Understanding the limitations of group-level inequality data](http://freerangestats.info/blog/2018/10/07/inequality-groups)
+
++ [The economic consequences of MOOCs](https://simplystatistics.org/2018/10/08/the-economic-consequences-of-moocs/)
 
 ###  R in Academia
 
@@ -83,10 +97,7 @@ Release Date: 2018-10-15
 **CRAN**
 
 
-+ [Announcing MCHT: A Package for Bootstrap and Monte Carlo Hypothesis Testing](https://ntguardian.wordpress.com/2018/10/08/announcing-mcht-package-bootstrap-monte-carlo-hypothesis-testing/)
-
-
-+ [Introducing the memoisetools package](https://coolbutuseless.github.io/2018/10/08/introducing-the-memoisetools-package/)
++ [MCHT](https://ntguardian.wordpress.com/2018/10/08/announcing-mcht-package-bootstrap-monte-carlo-hypothesis-testing/) - A Package for Bootstrap and Monte Carlo Hypothesis Testing
 
 
 **BioC**
@@ -95,17 +106,19 @@ Release Date: 2018-10-15
 **GitHub or Bitbucket**
 
 
++ [memoisetools](https://coolbutuseless.github.io/2018/10/08/introducing-the-memoisetools-package/) - additional caches and helper functions to work alongside the memoise package
+
+
 
 
 ### Package Releases
 
 
-+ [RcppCCTZ 0.2.4](http://dirk.eddelbuettel.com/blog/2018/10/06#rcppcctz_0.2.4)
++ [RcppCCTZ 0.2.4](http://dirk.eddelbuettel.com/blog/2018/10/06#rcppcctz_0.2.4) - Library for translating between absolute and civil times using the rules of a time zone.
 
++ [digest 0.6.18](http://dirk.eddelbuettel.com/blog/2018/10/10#digest_0.6.18) - digest creates hash digests of arbitrary R objects
 
-+ [digest 0.6.18](http://dirk.eddelbuettel.com/blog/2018/10/10#digest_0.6.18)
-
-+ [binb 0.0.3: Now with Monash](http://dirk.eddelbuettel.com/blog/2018/10/12#binb_0.0.3)
++ [binb 0.0.3: Now with Monash](http://dirk.eddelbuettel.com/blog/2018/10/12#binb_0.0.3) - A collection of 'LaTeX' styles using 'Beamer'
 
 
 ###  Videos and Podcasts
@@ -136,21 +149,18 @@ Release Date: 2018-10-15
 
 + [Quick Significance Calculations for A/B Tests in R](http://www.win-vector.com/blog/2018/10/quick-significance-calculations-for-a-b-tests-in-r/)
 
-+ [Understanding the limitations of group-level inequality data](http://freerangestats.info/blog/2018/10/07/inequality-groups)
-
 
 + [Running the Same Task in Python and R](http://www.win-vector.com/blog/2018/10/running-the-same-task-in-python-and-r/)
 
 + [Processing complicated package outputs](https://itsalocke.com/blog/processing-complicated-package-outputs/)
 
 
-+ [Writing a function which respects dplyr::group_by()](https://coolbutuseless.github.io/2018/10/09/writing-a-function-which-respects-dplyrgroup_by/)
-
-
-+ [The economic consequences of MOOCs](https://simplystatistics.org/2018/10/08/the-economic-consequences-of-moocs/)
-
-
 + [The world (population) is changing](https://nowosad.github.io/post/world-pop-change/)
+
+![The world (population) is changing](https://raw.githubusercontent.com/rweekly/image/master/2018/world_carto1.png)
+
+
++ [Writing a function which respects dplyr::group_by()](https://coolbutuseless.github.io/2018/10/09/writing-a-function-which-respects-dplyrgroup_by/)
 
 + [Parsing Metadata with R - A Package Story](https://ropensci.org/blog/2018/10/09/jstor/)
 
