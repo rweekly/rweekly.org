@@ -2,7 +2,7 @@
 
 The draft post is in https://github.com/rweekly/rweekly.org/blob/gh-pages/draft.md
 
-Put new updates to the draft post.
+Put new updates to the draft post. Add links to the bottom of each section.
 
 Separate each item with a blank line. This layout will have a better view on most RSS readers.
 
