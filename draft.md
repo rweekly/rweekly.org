@@ -9,26 +9,29 @@ Release Date: 2018-10-22
 
 ###  Highlight
 
++ [Rmd Files will No Longer be Rendered as Markdown on Github](https://yihui.name/en/2018/10/rmd-github/)
+
++ [Conditions of Length Greater Than One](https://developer.r-project.org/Blog/public/2018/10/12/conditions-of-length-greater-than-one/)
+
++ [Highlights from the R-Ladies Melbourne second anniversary event](https://rladies-melbourne-tips.netlify.com/)
 
 
 ### Insights
 
 + [ALTREP and C++](https://purrple.cat/blog/2018/10/14/altrep-and-cpp/)
 
-+ [Rmd Files will No Longer be Rendered as Markdown on Github](https://yihui.name/en/2018/10/rmd-github/)
-
-
 + [Tidying workflows in R](https://sinarueeger.github.io/2018/10/09/workflow/)
 
-+ [Tomas Kalibera: Conditions of Length Greater Than One](https://developer.r-project.org/Blog/public/2018/10/12/conditions-of-length-greater-than-one/)
++ [Conditions of Length Greater Than One](https://developer.r-project.org/Blog/public/2018/10/12/conditions-of-length-greater-than-one/)
 
-+ [Tomas Kalibera: Maximum Number of DLLs](https://developer.r-project.org/Blog/public/2018/03/23/maximum-number-of-dlls/index.html)
++ [Maximum Number of DLLs](https://developer.r-project.org/Blog/public/2018/03/23/maximum-number-of-dlls/index.html)
 
 
 + [The best data science books: interview with Roger Peng, founder of the Coursera R & Data Science specialization](https://fivebooks.com/best-books/data-science-roger-peng/)
 
-
 + [RStudio 1.2 Preview: Stan](https://blog.rstudio.com/2018/10/16/rstudio-1-2-preview-stan/)
+
++ [Rmd Files will No Longer be Rendered as Markdown on Github](https://yihui.name/en/2018/10/rmd-github/)
 
 # R in the Real World
 
@@ -44,18 +47,15 @@ Release Date: 2018-10-22
 
 + [Finding correlations between music chords and lyrics of thousands of Rock songs with sparse canonical correlation analysis](http://giorasimchoni.com/2018/10/11/2018-10-06-a-million-bright-ambassadors-of-morning/)
 
-
-
 + [Insights into the world of competitive swimming from an early age, through the lens of a summer league.](https://www.nitingupta.com/posts/a-deep-dive-in-analyzing-swimming-data/)
 
 + [A Brief History of My Life (on Twitter)](http://daranzolin.github.io/2018-10-14-twitter-life/)
 
 ###  R in Organizations
 
-
 + [Progress on driving diversity standards in the R community – an update on RCDI-WG](https://www.r-consortium.org/blog/2018/10/16/progress-on-driving-diversity-standards-in-the-r-community-an-update-on-rcdi-wg)
 
-+ [Here you can find tweets and code highlights from the R-Ladies Melbourne second anniversary event! The event was called 'How R you?' and different members from our community shared code and presented their R tip at the event. All their code is available here!](https://rladies-melbourne-tips.netlify.com/)
++ [Highlights from the R-Ladies Melbourne second anniversary event](https://rladies-melbourne-tips.netlify.com/)
 
 + [Announcing RStudio Package Manager ](https://blog.rstudio.com/2018/10/17/announcing-rstudio-package-manager/)
 
@@ -74,10 +74,7 @@ Release Date: 2018-10-22
 
 **CRAN**
 
-
 + [RcppNLoptExample 0.0.1: Use NLopt from C/C++](http://dirk.eddelbuettel.com/blog/2018/10/13#rcppnloptexample_0.0.1)
-
-
 
 **BioC**
 
