@@ -31,6 +31,8 @@ Release Date: 2018-10-22
 
 + [RStudio 1.2 Preview: Stan](https://blog.rstudio.com/2018/10/16/rstudio-1-2-preview-stan/)
 
+![RStudio 1.2 Preview: Stan](https://raw.githubusercontent.com/rweekly/image/master/2018/stan-rstudio.png)
+
 + [Rmd Files will No Longer be Rendered as Markdown on Github](https://yihui.name/en/2018/10/rmd-github/)
 
 # R in the Real World
@@ -48,6 +50,8 @@ Release Date: 2018-10-22
 + [Finding correlations between music chords and lyrics of thousands of Rock songs with sparse canonical correlation analysis](http://giorasimchoni.com/2018/10/11/2018-10-06-a-million-bright-ambassadors-of-morning/)
 
 + [Insights into the world of competitive swimming from an early age, through the lens of a summer league.](https://www.nitingupta.com/posts/a-deep-dive-in-analyzing-swimming-data/)
+
+![Insights into the world of competitive swimming from an early age, through the lens of a summer league.](https://raw.githubusercontent.com/rweekly/image/master/2018/mean_swim_times_usa_swimming-1.png)
 
 + [A Brief History of My Life (on Twitter)](http://daranzolin.github.io/2018-10-14-twitter-life/)
 
@@ -86,9 +90,9 @@ Release Date: 2018-10-22
 
 ### Package Releases
 
-+ [DataExplorer v0.7](http://boxuancui.github.io/DataExplorer)
++ [DataExplorer v0.7](http://boxuancui.github.io/DataExplorer) - R package to simplify Exploratory Data Analysis
 
-+ [RcppCCTZ 0.2.5](http://dirk.eddelbuettel.com/blog/2018/10/14#rcppcctz_0.2.5)
++ [RcppCCTZ 0.2.5](http://dirk.eddelbuettel.com/blog/2018/10/14#rcppcctz_0.2.5) - Translating between absolute and civil times using the rules of a time zone
 
 + [future 1.10.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone - now with enhanced control over globals, better MPI support, and more
 
@@ -116,19 +120,20 @@ Release Date: 2018-10-22
 
 + [September 2018: Top 40 New Packages](https://rviews.rstudio.com/2018/10/08/september-2018-top-40-new-packages/)
 
-+ [Introduction to the causal_forest function from the grf package, as well as a demystified introduction to heterogenous treatment effects models, with an emphasis on practicality.](https://www.markhw.com/blog/causalforestintro)
++ [Explicitly Optimizing on Causal Effects via the Causal Random Forest: A Practical Introduction and Tutorial](https://www.markhw.com/blog/causalforestintro)
 
 + [Cannabis Curve with ggplot2](https://chichacha.netlify.com/2018/10/17/cannibus-curve-with-ggplot2/)
+
+![Cannabis Curve with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2018/polar_to_cartesian-1.png)
 
 + [Quote While the Promise Is Hot!; a tip for using tidyeval](https://yutani.rbind.io/post/quote-while-the-promise-is-hot/)
 
 
 + [Even more images as x-axis labels](https://jcarroll.com.au/2018/10/16/even-more-images-as-x-axis-labels/)
 
+![Even more images as x-axis labels](https://raw.githubusercontent.com/rweekly/image/master/2018/annotation-1021.png)
+
 + [Voice Control your Shiny Apps](https://www.jumpingrivers.com/blog/voice-control-your-shiny-apps/)
-
-
-+ [Slides from my talk at the R-Ladies Meetup about Interpretable Deep Learning with R, Keras and LIME](https://shirinsplayground.netlify.com/2018/10/rladieslondon_slides/)
 
 
 + [How to import a directory of csvs at once with base R and data.table. Can you guess which way is the fastest?](https://jozefhajnala.gitlab.io/r/r005-import-csvs/)
@@ -141,7 +146,6 @@ Release Date: 2018-10-22
 
 + [A small logical change with big impact](http://blog.revolutionanalytics.com/2018/10/a-small-logical-change-with-big-impact.html)
 
-+ [Slides from my m-cubed talk about Explaining complex machine learning models with LIME](https://shirinsplayground.netlify.com/2018/10/mcubed_slides/)
 
 + [Quasiquotation in R via bquote()](http://www.win-vector.com/blog/2018/10/quasiquotation-in-r-via-bquote/)
 
@@ -153,6 +157,8 @@ Release Date: 2018-10-22
 
 
 + [Statistically Efficient Ways to Quantify Added Predictive Value of New Measurements](http://fharrell.com/post/addvalue/)
+
+![Statistically Efficient Ways to Quantify Added Predictive Value of New Measurements](https://raw.githubusercontent.com/rweekly/image/master/2018/vsage-1.png)
 
 + [Explicitly Optimizing on Causal Effects via the Causal Random Forest: A Practical Introduction and Tutorial](https://www.markhw.com/blog/causalforestintro)
 
