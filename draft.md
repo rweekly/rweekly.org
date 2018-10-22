@@ -96,6 +96,8 @@ Release Date: 2018-10-22
 
 + [RcppCCTZ 0.2.5](http://dirk.eddelbuettel.com/blog/2018/10/14#rcppcctz_0.2.5)
 
++ [future 1.10.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone - now with enhanced control over globals, better MPI support, and more
+
 ###  Videos and Podcasts
 
 + [SatRday talks recordings](https://longhowlam.wordpress.com/2018/10/17/satrday-talks-recordings/)
