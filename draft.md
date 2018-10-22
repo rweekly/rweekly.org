@@ -57,8 +57,7 @@ Release Date: 2018-10-22
 
 + [Here you can find tweets and code highlights from the R-Ladies Melbourne second anniversary event! The event was called 'How R you?' and different members from our community shared code and presented their R tip at the event. All their code is available here!](https://rladies-melbourne-tips.netlify.com/)
 
-
-
++ [Announcing RStudio Package Manager ](https://blog.rstudio.com/2018/10/17/announcing-rstudio-package-manager/)
 
 ###  R in Academia
 
@@ -78,8 +77,6 @@ Release Date: 2018-10-22
 
 + [RcppNLoptExample 0.0.1: Use NLopt from C/C++](http://dirk.eddelbuettel.com/blog/2018/10/13#rcppnloptexample_0.0.1)
 
-
-+ [Announcing RStudio Package Manager ](https://blog.rstudio.com/2018/10/17/announcing-rstudio-package-manager/)
 
 
 **BioC**
