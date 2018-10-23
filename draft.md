@@ -45,7 +45,7 @@ Release Date: 2018-10-29
 
 **GitHub or Bitbucket**
 
-
++ [precisely](https://github.com/malcolmbarrett/precisely) - An R package for estimating sample size based on precision.
 
 
 ### Package Releases
