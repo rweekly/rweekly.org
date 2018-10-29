@@ -9,8 +9,9 @@ Release Date: 2018-10-29
 
 ###  Highlight
 
++ [Drawing beautiful maps programmatically with R, sf and ggplot2](https://www.r-spatial.org//r/2018/10/25/ggplot2-sf.html)
 
-
++ [Community Call - Working with images in R](https://ropensci.org/blog/2018/10/24/commcall-nov2018/)
 
 ### Insights
 
@@ -25,6 +26,9 @@ Release Date: 2018-10-29
 
 
 + [RStudio 1.2 Preview: Plumber Integration](https://blog.rstudio.com/2018/10/23/rstudio-1-2-preview-plumber-integration/)
+
+![RStudio 1.2 Preview: Plumber Integration](https://raw.githubusercontent.com/rweekly/image/master/2018/swagger_overview.png)
+
 
 ### R in the Real World
 
@@ -67,12 +71,13 @@ Release Date: 2018-10-29
 
 + [precisely](https://github.com/malcolmbarrett/precisely) - An R package for estimating sample size based on precision.
 
+![precisely](https://raw.githubusercontent.com/rweekly/image/master/2018/precisely-1.png)
 
 ### Package Releases
 
-+ [RApiDatetime 0.0.4: Updates and Extensions](http://dirk.eddelbuettel.com/blog/2018/10/21#rapidatetime_0.0.4)
++ [RApiDatetime 0.0.4](http://dirk.eddelbuettel.com/blog/2018/10/21#rapidatetime_0.0.4) - Updates and Extensions
 
-+ [RcppTOML 0.1.4: Now with TOML v0.5.0](http://dirk.eddelbuettel.com/blog/2018/10/23#rcpptoml_0.1.4)
++ [RcppTOML 0.1.4](http://dirk.eddelbuettel.com/blog/2018/10/23#rcpptoml_0.1.4) - Now with TOML v0.5.0
 
 
 
@@ -97,6 +102,8 @@ Release Date: 2018-10-29
 + [Combining the best of R (magick) and Python (OpenCV) in the new RStudio to detect and average the faces of women on the cover of Vogue](http://giorasimchoni.com/2018/10/24/2018-10-24-source-a-python-there-s-nothing-to-it-vogue/)
 
 + [A new word cloud geom for ggplot2.](https://lepennec.github.io/ggwordcloud/)
+
+![A new word cloud geom for ggplot2.](https://raw.githubusercontent.com/rweekly/image/master/2018/ggwordcloud.png)
 
 + [Understanding the Dplyr Package in R](http://factual.ng/blog/2018/10/23/understanding-the-dplyr-package-in-r/)
 
