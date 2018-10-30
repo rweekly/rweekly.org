@@ -19,6 +19,7 @@ Release Date: 2018-11-05
 
 ### R in the Real World
 
++ [RConsortium — Building an R Certification](https://rtask.thinkr.fr/blog/rconsortium-building-an-r-certification/)
 
 ###  R in Organizations
 
@@ -44,7 +45,7 @@ Release Date: 2018-11-05
 
 **GitHub or Bitbucket**
 
-
++ [shinipsum — Lorem-Ipsum-like Helpers for fast Shiny Prototyping](https://github.com/ThinkR-open/shinipsum)
 
 ### Package Releases
 
@@ -62,17 +63,17 @@ Release Date: 2018-11-05
 
 ### R Internationally
 
++ [Análise do discurso dos candidatos, Fernando Haddad e Jair Bolsonaro](https://education.meumesmo.com.br/analise-do-discurso-dos-candidatos-fernando-haddad-e-jair-bolsonaro/)
 
-
++ [Manuel d’analyse spatiale — Théorie et mise en oeuvre pratique avec R](https://www.insee.fr/fr/information/3635442)
 
 ###  Tutorials
 
++ [Visualising scheduled tasks on Windows with R](https://medium.com/@benmoretti/visualising-scheduled-tasks-on-windows-with-r-4829249623e7)
 
++ [Celebrate Halloween with Creepy Computer Games in R](https://lucidmanager.org/creepy-computer-games-in-r/)
 
-
-
-
-
++ [How to perform merges (joins) on two or more data frames with base R, tidyverse and data.table](https://jozefhajnala.gitlab.io/r/r006-merge/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
