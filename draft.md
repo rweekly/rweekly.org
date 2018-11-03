@@ -38,7 +38,9 @@ Release Date: 2018-11-05
 
 **CRAN**
 
++ [crfsuite for natural language processing](http://bnosac.be/index.php/blog/83-crfsuite-for-natural-language-processing)
 
+![crfsuite app](https://raw.githubusercontent.com/bnosac/crfsuite/master/vignettes/app-screenshot.png)
 
 **BioC**
 
