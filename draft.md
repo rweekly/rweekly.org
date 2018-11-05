@@ -9,12 +9,20 @@ Release Date: 2018-11-05
 
 ###  Highlight
 
++ [What R version do you really need for a package?](https://www.jumpingrivers.com/blog/what-r-version-do-you-really-need-for-a-package/)
+
+
++ [Communicating results with R Markdown](https://rviews.rstudio.com/2018/11/01/r-markdown-a-better-approach/)
+
+
++ [RConsortium — Building an R Certification](https://rtask.thinkr.fr/blog/rconsortium-building-an-r-certification/)
 
 
 ### Insights
 
 + [RStudio IDE Custom Theme Support](https://blog.rstudio.com/2018/10/29/rstudio-ide-custom-theme-support/)
 
+![RStudio IDE Custom Theme Support](https://raw.githubusercontent.com/rweekly/image/master/2018/2018-10-29-candy-brights.png)
 
 + [Thoughts on the NHS-R conference](https://www.johnmackintosh.com/2018-10-31-thoughts-on-the-nhs-r-conference/)
 
@@ -30,6 +38,8 @@ Release Date: 2018-11-05
 ### R in the Real World
 
 + [Election Hacking: Exploring 10 Million Tweets from the Russian Internet Research Agency Dataset](https://ellocke.github.io/post/election-hacking-exploring-2-million-tweets-from-the-russian-internet-research-agency-dataset-pt-1/)
+
+![Election Hacking: Exploring 10 Million Tweets from the Russian Internet Research Agency Dataset](https://raw.githubusercontent.com/rweekly/image/master/2018/IRA_Tweets_Dates.png)
 
 + [RConsortium — Building an R Certification](https://rtask.thinkr.fr/blog/rconsortium-building-an-r-certification/)
 
@@ -108,18 +118,18 @@ Release Date: 2018-11-05
 
 + [Visualising scheduled tasks on Windows with R](https://medium.com/@benmoretti/visualising-scheduled-tasks-on-windows-with-r-4829249623e7)
 
-+ [Celebrate Halloween with Creepy Computer Games in R](https://lucidmanager.org/creepy-computer-games-in-r/)
-
 + [How to perform merges (joins) on two or more data frames with base R, tidyverse and data.table](https://jozefhajnala.gitlab.io/r/r006-merge/)
 
+
++ [Communicating results with R Markdown](https://rviews.rstudio.com/2018/11/01/r-markdown-a-better-approach/)
+
+![Communicating results with R Markdown]](https://raw.githubusercontent.com/rweekly/image/master/2018/r4ds-com.png)
 
 + [alternatives to bar charts for multiple observations](https://luisdva.github.io/rstats/barplot-nonsense/)
 
 + [Use the collateral package 📦 to automatically map complex operations safely or quietly, and quickly see the captured side effects!](https://rensa.co/projects/collateral/)
 
 + [Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document](https://joshuamrosenberg.com/blog/creating-a-cv-while-using-blogdown-pdf-html-and-word-doc-oh-my/)
-
-+ [How to perform merges (joins) on two or more data frames with base R, tidyverse and data.table](https://jozefhajnala.gitlab.io/r/r006-merge/)
 
 
 + [Scatterplot matrices (pair plots) with cdata and ggplot2](http://www.win-vector.com/blog/2018/10/scatterplot-matrices-pair-plots-with-cdata-and-ggplot2/)
@@ -147,13 +157,15 @@ Release Date: 2018-11-05
 
 + [Use Pseudo-Aggregators to Add Safety Checks to Your Data-Wrangling Workflow](http://www.win-vector.com/blog/2018/10/use-pseudo-aggregators-to-add-safety-checks-to-your-data-wrangling-workflow/)
 
++ [How to Create a Correlation Matrix in R](https://www.displayr.com/how-to-create-a-correlation-matrix-in-r/?utm_medium=Feed&utm_source=Syndication)
+
+![How to Create a Correlation Matrix in R](https://raw.githubusercontent.com/rweekly/image/master/2018/corrplot-2018.png)
+
 + [namer, Automatic Labelling of R Markdown Chunks](https://itsalocke.com/blog/namer-automatic-labelling-of-r-markdown-chunks/)
 
 + [facet_inception()](https://coolbutuseless.github.io/2018/10/31/facet_inception/)
 
 + [Spooky! Gravedigger in R](https://blog.revolutionanalytics.com/2018/10/gravedigger-in-r.html)
-
-+ [Communicating results with R Markdown](https://rviews.rstudio.com/2018/11/01/r-markdown-a-better-approach/)
 
 + [Automated Email Reports with R](https://blog.journeyofanalytics.com/automated-email-reports-with-r/)
 
@@ -161,11 +173,7 @@ Release Date: 2018-11-05
 
 + [Feature Selection with the Boruta Algorithm](http://gradientmetrics.com/feature-selection-with-the-boruta-algorithm)
 
-+ [How to perform merges (joins) on two or more data frames with base R, tidyverse and data.table](https://jozefhajnala.gitlab.io/r/r006-merge/)
-
 + [The blocks and rows theory of data shaping](http://www.win-vector.com/blog/2018/11/the-blocks-and-rows-theory-of-data-shaping/)
-
-+ [How to Create a Correlation Matrix in R](https://www.displayr.com/how-to-create-a-correlation-matrix-in-r/?utm_medium=Feed&utm_source=Syndication)
 
 + [collateral](https://rensa.co/projects/collateral/)
 
