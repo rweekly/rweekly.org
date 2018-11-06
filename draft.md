@@ -67,6 +67,7 @@ Release Date: 2018-11-12
 
 
 + [How to Highlight 3D Brain Regions in R](https://towardsdatascience.com/how-to-highlight-3d-brain-regions-2e6c15a35574)
+![](https://cdn-images-1.medium.com/max/716/1*O_A5iw2_diaJXXehO6-PWA.png)
 
 + [Why should I use the here package when I'm already using projects?](https://malco.io/2018/11/05/why-should-i-use-the-here-package/)
 
