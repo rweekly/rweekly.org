@@ -17,7 +17,7 @@ Release Date: 2018-11-12
 
 ### R in the Real World
 
-+[The Gamification Of Fitbit: How an API Provided the Next Level of tRaining](https://moldach.github.io/fitbit-project/)
++ [The Gamification Of Fitbit: How an API Provided the Next Level of tRaining](https://moldach.github.io/fitbit-project/)
 
 
 ###  R in Organizations
