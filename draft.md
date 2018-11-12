@@ -24,6 +24,8 @@ Release Date: 2018-11-12
 
 + [In-database xgboost predictions with R](https://rviews.rstudio.com/2018/11/07/in-database-xgboost-predictions-with-r/)
 
+![In-database xgboost predictions with R](https://rviews.rstudio.com/post/2018-11-05-Roland-xgboost_files/xgboost_workflows.PNG)
+
 + [The Two Surprisingly Hard Things about the Otherwise Simple Markdown](https://yihui.name/en/2018/11/hard-markdown/)
 
 + [My Biggest Regret in the knitr Package](https://yihui.name/en/2018/11/biggest-regret-knitr/)
