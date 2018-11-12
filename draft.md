@@ -50,7 +50,9 @@ Release Date: 2018-11-12
 
 + [Analyzing NetHack data, part 2: What players kill the most](http://www.brodrigues.co/blog/2018-11-10-nethack_analysis_part2/)
 
++ [Voronoi Diagram with ggvoronoi Package with Train Station Data](https://chichacha.netlify.com/2018/11/10/voronoi-diagram-with-ggvoronoi-package-with-train-station-data/)
 
+![Voronoi Diagram with ggvoronoi Package with Train Station Data](https://chichacha.netlify.com/post/2018-11-10-voronoi-diagram-with-ggvoronoi-package-with-train-station-data_files/figure-html/voronoi_japan-1.png)
 
 ###  R in Organizations
 
@@ -108,7 +110,8 @@ Release Date: 2018-11-12
 
 
 + [How to Highlight 3D Brain Regions in R](https://towardsdatascience.com/how-to-highlight-3d-brain-regions-2e6c15a35574)
-![](https://cdn-images-1.medium.com/max/716/1*O_A5iw2_diaJXXehO6-PWA.png)
+
+![How to Highlight 3D Brain Regions in R](https://cdn-images-1.medium.com/max/716/1*O_A5iw2_diaJXXehO6-PWA.png)
 
 + [Why should I use the here package when I'm already using projects?](https://malco.io/2018/11/05/why-should-i-use-the-here-package/)
 
@@ -116,14 +119,14 @@ Release Date: 2018-11-12
 
 ![Exploring Models with lime](https://www.nielsenmark.us/post/2018-11-09-exploring-models-with-lime_files/figure-html/unnamed-chunk-1-3.png)
 
-
++ [R can API and So Can You!](https://medium.com/@heathernolis/r-can-api-c184951a24a3)
 
 + [R tip: Make Your Results Clear with sigr](http://www.win-vector.com/blog/2018/11/r-tip-make-your-results-clear-with-sigr/)
 
 + [New FSA Authors](http://derekogle.com/fishR/2018-11-04-New-FSA-Authors)
 
 
-
++ [Integrating R and Telegram](https://blog.datascienceheroes.com/get-notify-when-an-r-script-finishes-on-telegram/)
 
 + [Beyond Univariate, Single-Sample Data with MCHT](https://ntguardian.wordpress.com/2018/11/05/beyond-univariate-single-sample-data-mcht/)
 
@@ -146,6 +149,10 @@ Release Date: 2018-11-12
 
 + [A knot of threads: from CSHL to LCG-UNAM to Aldo Barrientos to diversity scholarship opportunities](https://lcolladotor.github.io/2018/11/06/a-knot-of-threads-from-cshl-to-lcg-unam-to-aldo-barrientos-to-diversity-scholarship-opportunities/)
 
+
++ [Image segmentation based on Superpixels and Clustering](https://mlampros.github.io/mlampros.github.io/2018/11/09/Image_Segmentation_Superpixels_Clustering/)
+
+![Image segmentation based on Superpixels and Clustering](https://mlampros.github.io/images/im_masks.png)
 
 + [threed - 3d object transform library](https://coolbutuseless.github.io/2018/11/08/threed-3d-object-transform-library/)
 
@@ -193,4 +200,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I made a firework with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> and gganimate! But the accidents along the way are at least as interesting as the final result. (1/n) <a href="https://t.co/cmxVyX7EU0">pic.twitter.com/cmxVyX7EU0</a></p>&mdash; Edward Visel (@alistaire) <a href="https://twitter.com/alistaire/status/1061661956292165633?ref_src=twsrc%5Etfw">November 11, 2018</a></blockquote>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">*Sees colleague importing data into R* <br><br>my brain:<br><br>don&#39;t say it <br>don&#39;t say it<br>don&#39;t say it <br>don&#39;t say it <br>don&#39;t say it<br>don&#39;t say it <br>don&#39;t say it <br>don&#39;t say it <br>don&#39;t say it<br><br>me: You really should use read *underscore* csv from the readr package in the tidyverse! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Sean Kr🦃ss (@seankross) <a href="https://twitter.com/seankross/status/1061693726290931712?ref_src=twsrc%5Etfw">November 11, 2018</a></blockquote>
 
