@@ -36,12 +36,17 @@ Release Date: 2018-11-12
 ### R in the Real World
 
 
+
++ [The Gamification Of Fitbit: How an API Provided the Next Level of tRaining](https://moldach.github.io/fitbit-project/)
+
+
 + [Escaping the macOS 10.14 (Mojave) Filesystem Sandbox with R / RStudio](https://rud.is/b/2018/11/09/escaping-the-macos-10-14-mojave-sandbox-with-r-rstudio/)
 
 + [Linear Programming in R ](https://meysubb.github.io/sports%20analytics/2018/11/11/Mid_Major_Stock_Exchange/)
 
 
 + [T-mobile uses R for Customer Service AI](https://blog.revolutionanalytics.com/2018/11/t-mobile-uses-r.html)
+
 
 
 + [Working with US Census Data in R](https://blog.revolutionanalytics.com/2018/11/working-with-us-census-data-in-r.html)
