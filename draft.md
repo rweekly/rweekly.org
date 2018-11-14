@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2018-40
+title: R Weekly 2018-47
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2018-09-24
+Release Date: 2018-11-19
 
 ###  Highlight
 
@@ -15,12 +15,12 @@ Release Date: 2018-09-24
 ### Insights
 
 
-###  R in Organizations
-
-+ [Chat with the rOpenSci team at upcoming meetings](https://ropensci.org/blog/2018/09/21/ropensci-at-meetings/)
-
 
 ### R in the Real World
+
+
+
+###  R in Organizations
 
 
 
@@ -32,12 +32,12 @@ Release Date: 2018-09-24
 
 
 
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
+
 
 
 **BioC**
@@ -47,6 +47,7 @@ Release Date: 2018-09-24
 
 
 ### Package Releases
+
 
 
 ###  Videos and Podcasts
@@ -62,14 +63,7 @@ Release Date: 2018-09-24
 
 
 
-
 ###  Tutorials
-
-+ [Give your tables some style with the formattable package!](https://www.littlemissdata.com/blog/prettytables)
- 
- ![Preview](https://github.com/lgellis/MiscTutorial/blob/master/Austin/formattable.gif)
-
-
 
 
 <!--<div class="post-more-begi
@@ -80,15 +74,12 @@ n"></div><div class="post-more-end"></div>-->
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 
-
-
-
-
-
-
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
+
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
