@@ -20,7 +20,7 @@ Release Date: 2018-11-19
 
 Teaching Toronto elementary school students about data analysis: [Data + Art STEAM Project](https://www.littlemissdata.com/blog/steam-data-art2)
 
-![Data + Art STEAM Project](https://github.com/lgellis/STEM/blob/master/DATA-ART-1/Symbols/Data%20%2B%20Art%20Steam%20Project.png "Data + Art STEAM Project")
+![Data + Art STEAM Project](https://github.com/lgellis/STEM/blob/master/DATA-ART-1/Symbols/Data%2BArt.png "Data + Art STEAM Project")
 
 
 
