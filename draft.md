@@ -16,7 +16,9 @@ Release Date: 2018-11-19
 
 
 
-### R in the Real World
+### R in the Real World  
+
++[Surf Check - Automating Weather Forecast Emails in R](https://deanmarchiori.github.io/posts/2018/11/automated-surf-forecasts/)  
 
 
 
