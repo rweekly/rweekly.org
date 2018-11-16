@@ -14,11 +14,11 @@ Release Date: 2018-11-19
 
 ### Insights
 
-
++ [Rcpp now used by 1500 CRAN packages](http://dirk.eddelbuettel.com/blog/2018/11/15/#rcpp_1500_packages) 
 
 ### R in the Real World  
 
-+[Surf Check - Automating Weather Forecast Emails in R](https://deanmarchiori.github.io/posts/2018/11/automated-surf-forecasts/)  
++ [Surf Check - Automating Weather Forecast Emails in R](https://deanmarchiori.github.io/posts/2018/11/automated-surf-forecasts/)  
 
 
 
@@ -32,7 +32,7 @@ Release Date: 2018-11-19
 
 ###  Resources
 
-
++ [tidyevaluation with rlang](https://github.com/rstudio/cheatsheets/blob/master/tidyeval.pdf)
 
 ###  New Packages
 
@@ -67,6 +67,13 @@ Release Date: 2018-11-19
 
 ###  Tutorials
 
++ [Easy time-series prediction with R: a tutorial with air traffic data from Lux Airport](https://www.brodrigues.co/blog/2018-11-14-luxairport/)
+
++ [Interchanging RMarkdown and "spinnable" R](https://webbedfeet.netlify.com/post/interchanging-rmarkdown-and-spinnable-r/)
+
++ [How to get Twitter data with rtweet in R](http://www.storybench.org/get-twitter-data-rtweet-r/)
+
++ [Installing RStudio & Shiny Servers](https://datawookie.netlify.com/blog/2018/11/installing-rstudio--shiny-servers/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
