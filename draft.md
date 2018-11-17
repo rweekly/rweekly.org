@@ -20,6 +20,10 @@ Release Date: 2018-11-19
 
 + [Surf Check - Automating Weather Forecast Emails in R](https://deanmarchiori.github.io/posts/2018/11/automated-surf-forecasts/)  
 
+Teaching Toronto elementary school students about data analysis: [Data + Art STEAM Project](https://www.littlemissdata.com/blog/steam-data-art2)
+
+![Data + Art STEAM Project](https://github.com/lgellis/STEM/blob/master/DATA-ART-1/Symbols/Data%2BArt.png "Data + Art STEAM Project")
+
 
 
 ###  R in Organizations
