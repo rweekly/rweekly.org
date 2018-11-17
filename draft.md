@@ -24,7 +24,9 @@ Release Date: 2018-11-19
 
 ![Data + Art STEAM Project](https://github.com/lgellis/STEM/blob/master/DATA-ART-1/Symbols/Data%2BArt.png "Data + Art STEAM Project")
 
++ [Security issues with installing bioconductor](https://www.jumpingrivers.com/blog/security-r-hacking-bioconductor/)
 
++ [Getting Census data from multiple years using tidycensus and purrr](https://mattherman.info/blog/tidycensus-mult-year/)
 
 ###  R in Organizations
 
@@ -78,6 +80,16 @@ Release Date: 2018-11-19
 + [How to get Twitter data with rtweet in R](http://www.storybench.org/get-twitter-data-rtweet-r/)
 
 + [Installing RStudio & Shiny Servers](https://datawookie.netlify.com/blog/2018/11/installing-rstudio--shiny-servers/)
+
++ [Quoting in R](http://www.win-vector.com/blog/2018/11/quoting-in-r/)
+
+
++ [The vtreat data preparation system](https://cran.r-project.org/web/packages/vtreat/vignettes/vtreat_article.pdf)
+
+
++ [Reporting data in big tables with huxtable 4.3.0](https://hughjonesd.github.io/reporting-data-with-huxtable-4.3.0.html)
+
++ [How to de-Bias Standard Deviation Estimates](http://www.win-vector.com/blog/2018/11/how-to-de-bias-standard-deviation-estimates/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
