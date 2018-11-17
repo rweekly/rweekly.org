@@ -14,13 +14,13 @@ Release Date: 2018-11-19
 
 ### Insights
 
-+ [Rcpp now used by 1500 CRAN packages](http://dirk.eddelbuettel.com/blog/2018/11/15/#rcpp_1500_packages) 
++ [Rcpp now used by 1500 CRAN packages](http://dirk.eddelbuettel.com/blog/2018/11/15/#rcpp_1500_packages)
 
-### R in the Real World  
+### R in the Real World
 
-+ [Surf Check - Automating Weather Forecast Emails in R](https://deanmarchiori.github.io/posts/2018/11/automated-surf-forecasts/)  
++ [Surf Check - Automating Weather Forecast Emails in R](https://deanmarchiori.github.io/posts/2018/11/automated-surf-forecasts/)
 
-Teaching Toronto elementary school students about data analysis: [Data + Art STEAM Project](https://www.littlemissdata.com/blog/steam-data-art2)
++ [Teaching Toronto elementary school students about data analysis: Data + Art STEAM Project](https://www.littlemissdata.com/blog/steam-data-art2)
 
 ![Data + Art STEAM Project](https://github.com/lgellis/STEM/blob/master/DATA-ART-1/Symbols/Data%2BArt.png "Data + Art STEAM Project")
 
