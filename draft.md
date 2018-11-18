@@ -100,6 +100,10 @@ Release Date: 2018-11-19
 
 ###  Tutorials
 
++ [Rayshading With Base R](https://www.brodieg.com/2018/10/23/do-not-shade-r/)
+
+![Compare base R render with Rayshader render](https://www.brodieg.com/images/do-not-shade-r-vs-rayshader.jpg)
+
 + [Easy time-series prediction with R: a tutorial with air traffic data from Lux Airport](https://www.brodrigues.co/blog/2018-11-14-luxairport/)
 
 + [Interchanging RMarkdown and "spinnable" R](https://webbedfeet.netlify.com/post/interchanging-rmarkdown-and-spinnable-r/)
