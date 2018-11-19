@@ -127,6 +127,8 @@ Release Date: 2018-11-19
 
 + [threed - drawing a cube in ggplot2](https://coolbutuseless.github.io/2018/11/12/threed-drawing-a-cube-in-ggplot2/)
 
+![threed - drawing a cube in ggplot2](https://coolbutuseless.github.io/post/2018-11-12-drawing-a-cube-with-ggplot2-threed_files/figure-html/unnamed-chunk-11-1.png)
+
 + [Time Series and MCHT](https://ntguardian.wordpress.com/2018/11/12/time-series-and-mcht/)
 
 
@@ -148,9 +150,6 @@ Release Date: 2018-11-19
 + [More on Bias Corrected Standard Deviation Estimates](http://www.win-vector.com/blog/2018/11/more-on-bias-corrected-standard-deviation-estimates/)
 
 + [Searching for the optimal hyper-parameters of an ARIMA model in parallel: the tidy gridsearch approach](http://www.brodrigues.co/blog/2018-11-15-tidy_gridsearch/)
-
-+ [Quoting in R](http://www.win-vector.com/blog/2018/11/quoting-in-r/)
-
 
 + [Using a genetic algorithm for the hyperparameter optimization of a SARIMA model](http://www.brodrigues.co/blog/2018-11-16-rgenoud_arima/)
 
