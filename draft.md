@@ -10,6 +10,10 @@ Release Date: 2018-11-19
 ###  Highlight
 
 
++ [Use GitHub Vulnerability Alerts to Keep Users of Your R Packages Safe](https://rud.is/b/2018/11/14/use-github-vulnerability-alerts-to-keep-users-of-your-r-packages-safe/)
+
++ [Make Beautiful Tables with the Formattable Package](https://www.displayr.com/formattable/?utm_medium=Feed&utm_source=Syndication)
+
 
 
 ### Insights
@@ -26,7 +30,7 @@ Release Date: 2018-11-19
 
 + [Teaching Toronto elementary school students about data analysis: Data + Art STEAM Project](https://www.littlemissdata.com/blog/steam-data-art2)
 
-![Data + Art STEAM Project](https://github.com/lgellis/STEM/blob/master/DATA-ART-1/Symbols/Data%2BArt.png "Data + Art STEAM Project")
+![Data + Art STEAM Project](https://raw.githubusercontent.com/lgellis/STEM/master/DATA-ART-1/Symbols/Data%2BArt.png)
 
 + [Security issues with installing bioconductor](https://www.jumpingrivers.com/blog/security-r-hacking-bioconductor/)
 
@@ -34,19 +38,25 @@ Release Date: 2018-11-19
 
 + [Rcpp now used by 1500 CRAN packages](http://dirk.eddelbuettel.com/blog/2018/11/15#rcpp_1500_packages)
 
-+ [UTILIZING K-MEANS TO EXTRACT COLOURS FROM YOUR FAVOURITE IMAGES](https://chichacha.netlify.com/2018/11/12/utilizing-k-means-to-extract-colours-from-your-favourite-images/)
++ [Utilizing K-means to Extract Colours from Your Favourite Images](https://chichacha.netlify.com/2018/11/12/utilizing-k-means-to-extract-colours-from-your-favourite-images/)
+
+![Utilizing K-means to Extract Colours from Your Favourite Images](https://chichacha.netlify.com/post/2018-11-12-utilizing-k-means-to-extract-colours-from-your-favourite-images_files/figure-html/treemap_clustered_colour-1.png)
 
 + [A Mathematician's Perspective on Topological Data Analysis and R](https://rviews.rstudio.com/2018/11/14/a-mathematician-s-perspective-on-topological-data-analysis-and-r/)
 
-+ [DIMENSIONALITY REDUCTION METHODS USING FIFA 18 PLAYER DATA](http://blog.schochastics.net/post/dimensionality-reduction-methods/)
++ [Dimensionality Reduction Methods Using Fifa 18 Player Data ](http://blog.schochastics.net/post/dimensionality-reduction-methods/)
 
 + [Make Beautiful Tables with the Formattable Package](https://www.displayr.com/formattable/?utm_medium=Feed&utm_source=Syndication)
+
+![Make Beautiful Tables with the Formattable Package](https://www.displayr.com/wp-content/uploads/2018/11/finalhtmlwidgettable.png)
 
 ###  R in Organizations
 
 + [Report from the Enterprise Applications of the R Language conference   ](https://blog.revolutionanalytics.com/2018/11/report-from-earl-seattle.html)
 
 + [The Antarctic/Southern Ocean rOpenSci community](https://ropensci.org/blog/2018/11/13/antarctic/)
+
+![The Antarctic/Southern Ocean rOpenSci community](https://d33wubrfki0l68.cloudfront.net/c645c67223fd244aa3f8e0942ff9179a13583134/606d1/img/blog-images/2018-11-13-antarctic/antanym2-1.png)
 
 ###  R in Academia
 
@@ -59,7 +69,7 @@ Release Date: 2018-11-19
 
 + [In case you missed it: October 2018 roundup](https://blog.revolutionanalytics.com/2018/11/in-case-you-missed-it-october-2018-roundup.html)
 
-+ [Tidy Evaluation with rlang Cheat Sheet](https://www.rstudio.com/resources/cheatsheets/)
++ [The vtreat data preparation system](https://cran.r-project.org/web/packages/vtreat/vignettes/vtreat_article.pdf)
 
 ###  New Packages
 
@@ -110,10 +120,6 @@ Release Date: 2018-11-19
 
 + [Quoting in R](http://www.win-vector.com/blog/2018/11/quoting-in-r/)
 
-
-+ [The vtreat data preparation system](https://cran.r-project.org/web/packages/vtreat/vignettes/vtreat_article.pdf)
-
-
 + [Reporting data in big tables with huxtable 4.3.0](https://hughjonesd.github.io/reporting-data-with-huxtable-4.3.0.html)
 
 + [How to de-Bias Standard Deviation Estimates](http://www.win-vector.com/blog/2018/11/how-to-de-bias-standard-deviation-estimates/)
@@ -122,8 +128,6 @@ Release Date: 2018-11-19
 + [threed - drawing a cube in ggplot2](https://coolbutuseless.github.io/2018/11/12/threed-drawing-a-cube-in-ggplot2/)
 
 + [Time Series and MCHT](https://ntguardian.wordpress.com/2018/11/12/time-series-and-mcht/)
-
-+ [How to de-Bias Standard Deviation Estimates](http://www.win-vector.com/blog/2018/11/how-to-de-bias-standard-deviation-estimates/)
 
 
 + [Asking for help is challenging but is typically worth it](http://feedproxy.google.com/~r/FellgernonBit-rstats/~3/rstVxZu9uIo/)
@@ -135,10 +139,9 @@ Release Date: 2018-11-19
 
 + [AI for Good: slides and notebooks from the ODSC workshop](https://blog.revolutionanalytics.com/2018/11/workshop-ai-for-good.html)
 
-+ [TWIMLAI European Online Meetup about Trust in Predictions of ML Models](https://shirinsplayground.netlify.com/2018/11/twimlai_meetup/)
-
 + [Easy time-series prediction with R: a tutorial with air traffic data from Lux Airport](http://www.brodrigues.co/blog/2018-11-14-luxairport/)
 
+![Easy time-series prediction with R: a tutorial with air traffic data from Lux Airport](https://d33wubrfki0l68.cloudfront.net/15299edc1d4e154b17b2504667cea8a7d18b414c/5dff2/blog/2018-11-14-luxairport_files/figure-html/unnamed-chunk-24-1.png)
 
 + [A Mathematician's Perspective on Topological Data Analysis and R](https://rviews.rstudio.com/2018/11/14/a-mathematician-s-perspective-on-topological-data-analysis-and-r/)
 
