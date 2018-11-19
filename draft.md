@@ -66,7 +66,9 @@ Release Date: 2018-11-26
 
 ###  Tutorials
 
++ [Rayshading With Base R](https://www.brodieg.com/2018/10/23/do-not-shade-r/)
 
+![Compare base R render with Rayshader render](https://www.brodieg.com/images/do-not-shade-r-vs-rayshader.jpg)
 
 
 <!--<div class="post-more-begi
