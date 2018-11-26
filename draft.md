@@ -10,6 +10,9 @@ Release Date: 2018-11-26
 ###  Highlight
 
 
++ [RStudio 1.2 Preview: The Little Things](https://blog.rstudio.com/2018/11/19/rstudio-1-2-preview-the-little-things/)
+
++ [ozunconf18](https://github.com/ropensci/ozunconf18/blob/master/content/projects.md) - R OpenSci ozunconference 2018 Projects
 
 
 ### Insights
@@ -25,15 +28,14 @@ Release Date: 2018-11-26
 
 ### R in the Real World
 
-+ [EARL conference recap: Seattle 2018](https://bayesball.blogspot.com/2018/11/earl-conference-recap-seattle-2018.html)
-
-
 + [The Distribution of Time Between Recessions: Revisited (with MCHT)](https://ntguardian.wordpress.com/2018/11/19/distribution-time-between-recessions-revisited-mcht/)
 
 + [Tweeting wikidata info](https://blog.rmhogervorst.nl/blog/2018/11/19/tweeting-wikidata-info/)
 
 
 + [Hacking Bioconductor](https://www.jumpingrivers.com/blog/security-r-hacking-bioconductor/)
+
+![Hacking Bioconductor](https://raw.githubusercontent.com/rweekly/image/master/2018/blog-security.png)
 
 ###  R in Organizations
 
@@ -59,16 +61,13 @@ Release Date: 2018-11-26
 
 **CRAN**
 
-+ [rsppfp](https://melvidoni.github.io/rsppfp/)
++ [rsppfp](https://melvidoni.github.io/rsppfp/) - Implements different algorithms for transforming graphs in the Shortest Path Problem with Forbidden Paths
 
++ [RFishBC](http://derekogle.com/fishR/2018-11-22-RFishBC-Release) - Back-Calculation of Fish Length
 
-+ [RFishBC CRAN Release](http://derekogle.com/fishR/2018-11-22-RFishBC-Release)
++ [grrr](https://coolbutuseless.github.io/2018/11/20/grrr-a-package-for-changing-default-function-arguments/)  - Package for changing default function arguments
 
-+ [OpenCPU 2.1 Release: Scalable R Apps and Services](https://www.opencpu.org/posts/opencpu-201/)
-
-+ [grrr - a package for changing default function arguments](https://coolbutuseless.github.io/2018/11/20/grrr-a-package-for-changing-default-function-arguments/)
-
-+ [RStudio Addin to Insert Markdown Citations](https://github.com/crsh/citr)
++ [citr](https://github.com/crsh/citr) - RStudio Addin to Insert Markdown Citations
 
 **BioC**
 
@@ -77,17 +76,17 @@ Release Date: 2018-11-26
 
 + [generativeart](https://github.com/cutterkom/generativeart) - Generative Art
 
+![generativeart](https://raw.githubusercontent.com/rweekly/image/master/2018/generativeart.png)
+
 + [vitae](https://github.com/ropenscilabs/vitae) - R Markdown Résumé/CV templates
 
-+ [A Chrome Remote Interface written in R](https://github.com/RLesur/crrri)
++ [crrri](https://github.com/RLesur/crrri) - A Chrome Remote Interface written in R
 
 ### Package Releases
 
++ [OpenCPU 2.1](https://www.opencpu.org/posts/opencpu-201/) - Scalable R Apps and Services
 
-
-+ [RcppMsgPack 0.2.3](http://dirk.eddelbuettel.com/blog/2018/11/18#rcppmsgpack_0.2.3)
-
-
++ [RcppMsgPack 0.2.3](http://dirk.eddelbuettel.com/blog/2018/11/18#rcppmsgpack_0.2.3) - MsgPack Headers for R
 
 ###  Videos and Podcasts
 
@@ -108,7 +107,7 @@ Release Date: 2018-11-26
 
 + [Rayshading With Base R](https://www.brodieg.com/2018/10/23/do-not-shade-r/)
 
-![Compare base R render with Rayshader render](https://www.brodieg.com/images/do-not-shade-r-vs-rayshader.jpg)
+![Compare base R render with Rayshader render](https://raw.githubusercontent.com/rweekly/image/master/2018/do-not-shade-shadows.png)
 
 + [Security issues with installing bioconductor](https://www.jumpingrivers.com/blog/security-r-hacking-bioconductor/)
 
@@ -122,12 +121,14 @@ Release Date: 2018-11-26
 
 + [A more systematic look at suppressed data](http://freerangestats.info/blog/2018/11/18/suppressed-data-2)
 
-+ [Many Factor Models](https://rviews.rstudio.com/2018/11/19/many-factor-models/)
+![A more systematic look at suppressed data](https://raw.githubusercontent.com/rweekly/image/master/2018/suppressed.png)
 
-+ [Cognitive Services in Containers](https://blog.revolutionanalytics.com/2018/11/cognitive-services-updates.html)
++ [Many Factor Models](https://rviews.rstudio.com/2018/11/19/many-factor-models/)
 
 
 + [Generating data to explore the myriad causal effects that can be estimated in observational data analysis](https://www.rdatagen.net/post/generating-data-to-explore-the-myriad-causal-effects/)
+
+![Generating data to explore the myriad causal effects that can be estimated in observational data analysis](https://raw.githubusercontent.com/rweekly/image/master/2018/myriad.png)
 
 + [The best way to visit Luxembourguish castles is doing data science + combinatorial optimization](http://www.brodrigues.co/blog/2018-11-21-lux_castle/)
 
