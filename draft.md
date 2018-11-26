@@ -87,6 +87,7 @@ Release Date: 2018-11-26
 
 + [RcppMsgPack 0.2.3](http://dirk.eddelbuettel.com/blog/2018/11/18#rcppmsgpack_0.2.3)
 
++ [styler 1.1.0](https://lorenzwalthert.netlify.com/posts/styler-v1.1.0)
 
 
 ###  Videos and Podcasts
