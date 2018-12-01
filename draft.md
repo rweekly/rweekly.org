@@ -136,6 +136,8 @@ Release Date: 2018-12-02
 
 + [Sleek & Shiny](http://statistica.it/gianluca/post/2018-07-16-sleek-shiny/)
 
++ [generic functions and methods. A simple introduction.](http://josiahparry.com/post/function-methods/#the-default-method)
+
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
 
