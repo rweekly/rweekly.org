@@ -241,10 +241,10 @@ document.getElementById('origin-status').addEventListener("click",originMode);
 Podcast Corner. Status: <a id="pod-corner-status" href="#">On</a>
 
 <script>
-if (localStorage.getItem("feature-podcast-corner") === 'false'){
-    document.getElementById('pod-corner-status').innerText = " Off ";
-} else {
+if (localStorage.getItem("feature-podcast-corner") === 'true'){
     document.getElementById('pod-corner-status').innerText = " On ";
+} else {
+    document.getElementById('pod-corner-status').innerText = " Off ";
 }
 
 function pod_corner_feature(e){
