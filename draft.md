@@ -47,7 +47,7 @@ Release Date: 2018-12-02
 **GitHub or Bitbucket**
 
 
-### Package Releases
+### Updated Packages
 
 + [styler 1.1.0](https://lorenzwalthert.netlify.com/posts/styler-v1.1)
 
