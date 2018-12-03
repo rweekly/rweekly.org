@@ -9,7 +9,11 @@ Release Date: 2018-12-02
 
 ###  Highlight
 
++ [Community Call Summary - Code Review in the Lab](https://ropensci.org/blog/2018/11/29/codereview/)
 
++ [parsnip](https://www.tidyverse.org/articles/2018/11/parsnip-0-0-1/)
+
++ [A tutorial on tidy cross-validation with R](http://www.brodrigues.co/blog/2018-11-25-tidy_cv/)
 
 ### Insights
 
@@ -19,21 +23,31 @@ Release Date: 2018-12-02
 
 + [The Case Against Precision as a Model Selection Criterion](https://www.datascienceblog.net/post/machine-learning/specificity-vs-precision/)
 
+![The Case Against Precision as a Model Selection Criterion](https://raw.githubusercontent.com/rweekly/image/master/2018/precision.png)
+
 + [Faster garbage collection in pqR](https://radfordneal.wordpress.com/2018/11/29/faster-garbage-collection-in-pqr/)
 
 ### R in the Real World
 
 + [Co-localization analysis of fluorescence microscopy images](https://ropensci.org/blog/2018/11/27/colocr/)
 
+![Co-localization analysis of fluorescence microscopy images](https://raw.githubusercontent.com/rweekly/image/master/2018/colo.png)
+
 + [plotting traditional colours of japan](https://chichacha.netlify.com/2018/11/29/plotting-traditional-colours-of-japan/)
+
+![plotting traditional colours of japan](https://raw.githubusercontent.com/rweekly/image/master/2018/japan-color.png)
 
 + [How Do We Judge a Probabilistic Model? Or, How Did FiveThirtyEight Do in Forecasting the 2018 Midterms?](https://www.markhw.com/blog/fivethirtyeight-midterms)
 
 + [Number of births in the twentieth century](http://freerangestats.info/blog/2018/12/01/number-births)
 
+![Number of births in the twentieth century](https://raw.githubusercontent.com/rweekly/image/master/2018/people-source.png)
+
 + [Holiday Designs in R and Using R in Industry](https://rladies-baltimore.github.io/post/using-r-in-industry/)
 
 + [NYC buses: Cubist regression with more predictors](https://datascienceplus.com/nyc-buses-cubist-regression-with-more-predictors/)
+
+![NYC buses: Cubist regression with more predictors](https://raw.githubusercontent.com/rweekly/image/master/2018/cubist.png)
 
 ###  R in Organizations
 
@@ -80,6 +94,8 @@ Release Date: 2018-12-02
 + [RQuantLib 0.4.6: Updated upstream, and calls for help](http://dirk.eddelbuettel.com/blog/2018/11/25#rquantlib_0.4.6)
 
 + [tidymodels package updates](https://www.tidyverse.org/articles/2018/11/tidymodels-update-nov-18/)
+
+![tidymodels package updates](https://raw.githubusercontent.com/rweekly/image/master/2018/tidym.png)
 
 ###  Videos and Podcasts
 
