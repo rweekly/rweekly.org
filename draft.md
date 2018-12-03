@@ -77,6 +77,8 @@ Release Date: 2018-12-09
 
 
 
++ [generic functions and methods. A simple introduction.](http://josiahparry.com/post/function-methods/#the-default-method)
+
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
 
