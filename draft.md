@@ -12,7 +12,9 @@ Release Date: 2018-12-09
 
 
 ### Insights
++ [JapanR Conference 2018 Round-up!](https://ryo-n7.github.io/2018-12-06-japanr-conference-roundup-blog-post/)
 
+![](https://i.imgur.com/YZXPElx.png)
 
 
 
@@ -67,7 +69,6 @@ Release Date: 2018-12-09
 
 
 ### R Internationally
-
 
 
 ###  Tutorials
