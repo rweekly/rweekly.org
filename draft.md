@@ -70,7 +70,7 @@ Release Date: 2018-12-09
 + [Duke's SSRI Lab has been developing a free 7-part DataCamp series on Causal Inference with R.](https://www.datacamp.com/community/open-courses/causal-inference-with-r-introduction) - [Part 1](https://www.datacamp.com/community/open-courses/causal-inference-with-r-introduction) and [Part 2](https://www.datacamp.com/community/open-courses/causal-inference-with-r-experiments) and [Part 3](https://www.datacamp.com/community/open-courses/causal-inference-with-r-regression)
 
 
-+ [One Recipe Step to Rule Them All](http://smaakage85.netlify.com/index.html)
++ [One Recipe Step to Rule Them All](http://smaakage85.netlify.com/2018/12/03/one-recipe-step-to-rule-them-all/)
 
 ###  New Packages
 
