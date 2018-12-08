@@ -12,10 +12,15 @@ Release Date: 2018-12-09
 
 
 ### Insights
+
 + [JapanR Conference 2018 Round-up!](https://ryo-n7.github.io/2018-12-06-japanr-conference-roundup-blog-post/)
 
-![](https://i.imgur.com/YZXPElx.png)
+![JapanR Conference 2018 Round-up](https://i.imgur.com/YZXPElx.png)
 
++ [condition control: I just want that message once](https://recology.info/2018/12/condition-control/)
+
+
++ [Gender Diversity in the R and Python Communities](https://blog.revolutionanalytics.com/2018/12/women-and-r.html)
 
 
 ### R in the Real World
@@ -23,18 +28,34 @@ Release Date: 2018-12-09
 
 + [Deep learning in satellite imagery](https://appsilon.com/deep-learning-in-satellite-imagery/)
 
++ [Number of births in the twentieth century ](http://freerangestats.info/blog/2018/12/01/number-births)
+
++ [Who is doing more with less? A look into Premier League performance and market value.](https://austinwehrwein.com/data-visualization/eplmarket/)
 
 + [Ages of New Zealand Prime Ministers in an XKCD graph](http://david.frigge.nz/posts/2018-11-leader-age/)
 
 
 + [Porting my blog to use the new radix package](http://david.frigge.nz/posts/2018-11-radixical-blogging/)
 
++ [Solving #AdventOfCode day 1 and 2 with R](https://colinfay.me/advent-code-1-2/)
+
++ [Solving #AdventOfCode day 3 and 4 with R](https://colinfay.me/advent-code-3-4/)
+
++ [A Holiday RStudio Theme](https://www.garrickadenbuie.com/blog/2018/12/05/holiday-rstudio-theme/)
+
++ [Statistics in Glaucoma: Part I](https://rviews.rstudio.com/2018/12/03/statistics-in-glaucoma-part-i/) - [Part I](https://rviews.rstudio.com/2018/12/03/statistics-in-glaucoma-part-i/) and [Part II](https://rviews.rstudio.com/2018/12/07/statistics-in-glaucoma-part-ii/)
+
++ [Making a Profit with Henry Wan in Arkham Horror: The Card Game](https://ntguardian.wordpress.com/2018/12/03/making-profit-henry-wan-arkham-horror/)
 
 ###  R in Organizations
 
 
 + [R community update: announcing useR Delhi December meetup and CFP](https://techandmortals.wordpress.com/2018/12/07/r-community-update-announcing-user-delhi-december-meetup-and-cfp/)
 
+
++ [AzureVM: managing virtual machines in Azure](https://blog.revolutionanalytics.com/2018/12/azurevm.html)
+
++ [Community Call - Governance strategies for open source research software projects](https://ropensci.org/blog/2018/12/05/commcall-dec2018/)
 
 ###  R in Academia
 
@@ -67,6 +88,11 @@ Release Date: 2018-12-09
 
 
 + [Parser for ArchieML: Structured text, for an unstructured world, with Google Docs support!](https://github.com/noamross/rchie)
+
+
+
+
++ [phon - a package for rhymes etc](https://coolbutuseless.github.io/2018/12/03/phon-a-package-for-rhymes-etc/)
 
 ### Updated Packages
 
@@ -112,6 +138,35 @@ Release Date: 2018-12-09
 + [How to create a heatmap - step by step-](http://www.thinkingondata.com/how-to-create-a-heatmap/)
 
 + [Introduction to chartbookR](https://kilianreber.netlify.com/post/chartbookr_introduction/)
+
++ [Simulating dinosaur populations, with R](https://blog.revolutionanalytics.com/2018/11/jurassic-park.html)
+
++ [Because it's Friday: If planets were as close as the moon](https://blog.revolutionanalytics.com/2018/11/because-its-friday-if-planets-were.html)
+
+
++ [What hyper-parameters are, and what to do with them; an illustration with ridge regression](http://www.brodrigues.co/blog/2018-12-02-hyper-parameters/)
+
+
++ [Make your own ggclock](https://www.wjakethompson.com/post/ggclock/)
+
++ [restez: Query GenBank locally](https://ropensci.org/technotes/2018/12/03/restez/)
+
+
++ [Animate Xaringan Slide Transitions](https://www.garrickadenbuie.com/blog/2018/12/03/animate-xaringan-slide-transitions/)
+
+
++ [Very Non-Standard Calling in R](http://www.win-vector.com/blog/2018/12/very-non-standard-calling-in-r/)
+
+
++ [Detecting spatiotemporal groups in relocation data with spatsoc](https://ropensci.org/blog/2018/12/04/spatsoc/)
+
+
++ [Running an R script on heroku](https://blog.rmhogervorst.nl/blog/2018/12/06/running-an-r-script-on-heroku/)
+
+
++ [rnoaa: new data sources and NCDC units](https://ropensci.org/technotes/2018/12/04/rnoaa-update/)
+
+
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
