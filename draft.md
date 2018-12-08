@@ -121,8 +121,6 @@ Release Date: 2018-12-09
 
 + [Tweaking colours with the shades package](http://hughjonesd.github.io/tweaking-colours-with-the-shades-package.html)
 
-+ [One Recipe Step to Rule Them All](http://smaakage85.netlify.com/2018/12/03/one-recipe-step-to-rule-them-all/)
-
 + [DBnomics R client, a tutorial](https://macro.nomics.world/article/2018-11/rdbnomics-tutorial/)
 
 + [Simple functions that allow correct display of references in tables in RMarkdown documents](https://yetanotherrblog.netlify.com/2018/12/references-in-latex-table/)
@@ -146,8 +144,6 @@ Release Date: 2018-12-09
 
 + [What hyper-parameters are, and what to do with them; an illustration with ridge regression](http://www.brodrigues.co/blog/2018-12-02-hyper-parameters/)
 
-
-+ [Make your own ggclock](https://www.wjakethompson.com/post/ggclock/)
 
 + [restez: Query GenBank locally](https://ropensci.org/technotes/2018/12/03/restez/)
 
