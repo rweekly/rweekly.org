@@ -19,11 +19,19 @@ Release Date: 2018-12-09
 ### R in the Real World
 
 
++ [Deep learning in satellite imagery](https://appsilon.com/deep-learning-in-satellite-imagery/)
 
+
++ [Ages of New Zealand Prime Ministers in an XKCD graph](http://david.frigge.nz/posts/2018-11-leader-age/)
+
+
++ [Porting my blog to use the new radix package](http://david.frigge.nz/posts/2018-11-radixical-blogging/)
 
 
 ###  R in Organizations
 
+
++ [R community update: announcing useR Delhi December meetup and CFP](https://techandmortals.wordpress.com/2018/12/07/r-community-update-announcing-user-delhi-december-meetup-and-cfp/)
 
 
 ###  R in Academia
@@ -34,6 +42,10 @@ Release Date: 2018-12-09
 
 
 
++ [Duke's SSRI Lab has been developing a free 7-part DataCamp series on Causal Inference with R.](https://www.datacamp.com/community/open-courses/causal-inference-with-r-introduction) - [Part 1](https://www.datacamp.com/community/open-courses/causal-inference-with-r-introduction) and [Part 2](https://www.datacamp.com/community/open-courses/causal-inference-with-r-experiments) and [Part 3](https://www.datacamp.com/community/open-courses/causal-inference-with-r-regression)
+
+
++ [One Recipe Step to Rule Them All](http://smaakage85.netlify.com/index.html)
 
 ###  New Packages
 
@@ -49,6 +61,10 @@ Release Date: 2018-12-09
 
 **GitHub or Bitbucket**
 
++ [Make your own ggplot2-themed clock. The ggclock!](https://www.wjakethompson.com/post/ggclock/)
+
+
++ [Parser for ArchieML: Structured text, for an unstructured world, with Google Docs support!](https://github.com/noamross/rchie)
 
 ### Updated Packages
 
@@ -73,11 +89,28 @@ Release Date: 2018-12-09
 ###  Tutorials
 
 
-
-
-
-
 + [generic functions and methods. A simple introduction.](http://josiahparry.com/post/function-methods/#the-default-method)
+
+
++ [Tweaking colours with the shades package](http://hughjonesd.github.io/tweaking-colours-with-the-shades-package.html)
+
++ [One Recipe Step to Rule Them All](http://smaakage85.netlify.com/2018/12/03/one-recipe-step-to-rule-them-all/)
+
++ [DBnomics R client, a tutorial](https://macro.nomics.world/article/2018-11/rdbnomics-tutorial/)
+
++ [Simple functions that allow correct display of references in tables in RMarkdown documents](https://yetanotherrblog.netlify.com/2018/12/references-in-latex-table/)
+
++ [How to improve your visualizations in R ](http://www.thinkingondata.com/6-tips-to-make-your-visualizations-look-professional/)
+
+
++ [How to test any hypothesis with the infer package](https://www.andrewheiss.com/blog/2018/12/05/test-any-hypothesis/)
+
++ [4 ways to be more productive, using RStudio's terminal](https://jozefhajnala.gitlab.io/r/r007-string-manipulation/)
+
+
++ [How to create a heatmap - step by step-](http://www.thinkingondata.com/how-to-create-a-heatmap/)
+
++ [Introduction to chartbookR](https://kilianreber.netlify.com/post/chartbookr_introduction/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
