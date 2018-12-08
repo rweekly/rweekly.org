@@ -13,6 +13,8 @@ Release Date: 2018-12-09
 
 ### Insights
 
++ [Learning R Survey](https://docs.google.com/forms/d/e/1FAIpQLSdpVwD40YlEg2EOGfm5950pxp9lsuYhWGOBiNYqIAVEuHFZFg/viewform)
+
 + [JapanR Conference 2018 Round-up!](https://ryo-n7.github.io/2018-12-06-japanr-conference-roundup-blog-post/)
 
 ![JapanR Conference 2018 Round-up](https://i.imgur.com/YZXPElx.png)
@@ -90,15 +92,13 @@ Release Date: 2018-12-09
 + [Parser for ArchieML: Structured text, for an unstructured world, with Google Docs support!](https://github.com/noamross/rchie)
 
 
-
-
 + [phon - a package for rhymes etc](https://coolbutuseless.github.io/2018/12/03/phon-a-package-for-rhymes-etc/)
 
 ### Updated Packages
 
++ [vitae](https://ropenscilabs.github.io/vitae/articles/extending.html) - Creating vitae templates
 
-
-
++ [jsonlite](https://cran.r-project.org/web/packages/jsonlite/) - A Robust, High Performance JSON Parser and Generator for R
 
 
 ###  Videos and Podcasts
@@ -204,4 +204,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How do you welcome newcomers into a community? One thing we do at <a href="https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw">#RLadies</a> Chicago is R Tours! Each Meetup, one organizer gets beginners set up with <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@RStudio</a> and shows them some <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> basics. It&#39;s a way to make our Meetup accessible to all <a href="https://t.co/Jclla8Zj4L">https://t.co/Jclla8Zj4L</a> <a href="https://t.co/svI7yXMVRh">pic.twitter.com/svI7yXMVRh</a></p>&mdash; R-Ladies Chicago (@RLadiesChicago) <a href="https://twitter.com/RLadiesChicago/status/1071129665815891969?ref_src=twsrc%5Etfw">December 7, 2018</a></blockquote>
 
