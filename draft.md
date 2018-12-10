@@ -1,14 +1,13 @@
 ---
 layout: draft
-title: R Weekly 2018-47
+title: R Weekly 2018-51
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2018-11-19
+Release Date: 2018-12-16
 
 ###  Highlight
-
 
 
 
@@ -50,7 +49,8 @@ Teaching Toronto elementary school students about data analysis: [Data + Art STE
 **GitHub or Bitbucket**
 
 
-### Package Releases
+
+### Updated Packages
 
 
 
@@ -64,7 +64,6 @@ Teaching Toronto elementary school students about data analysis: [Data + Art STE
 
 
 ### R Internationally
-
 
 
 ###  Tutorials
