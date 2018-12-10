@@ -13,9 +13,10 @@ Release Date: 2018-12-16
 
 ### Insights
 
-
++ [How to solve a business problem using data.](https://www.littlemissdata.com/blog/businessproblem) A step by step approach to breaking down your business problem into a less intimidating data problem.
 
 ### R in the Real World
+
 
 
 
@@ -63,6 +64,8 @@ Release Date: 2018-12-16
 
 
 ###  Tutorials
+
++ [Updated: ggmap tutorial](https://www.littlemissdata.com/blog/maps). A ggmap tutorial has been updated to show solutions for issues related to the changes in Google Maps Static API access behavior.
 
 
 <!--<div class="post-more-begi
