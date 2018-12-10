@@ -9,15 +9,14 @@ Release Date: 2018-12-09
 
 ###  Highlight
 
++ [Learning R Survey](https://docs.google.com/forms/d/e/1FAIpQLSdpVwD40YlEg2EOGfm5950pxp9lsuYhWGOBiNYqIAVEuHFZFg/viewform)
+
++ [vitae](https://ropenscilabs.github.io/vitae/articles/extending.html) - Creating vitae templates
 
 
 ### Insights
 
 + [Learning R Survey](https://docs.google.com/forms/d/e/1FAIpQLSdpVwD40YlEg2EOGfm5950pxp9lsuYhWGOBiNYqIAVEuHFZFg/viewform)
-
-+ [JapanR Conference 2018 Round-up!](https://ryo-n7.github.io/2018-12-06-japanr-conference-roundup-blog-post/)
-
-![JapanR Conference 2018 Round-up](https://i.imgur.com/YZXPElx.png)
 
 + [condition control: I just want that message once](https://recology.info/2018/12/condition-control/)
 
@@ -27,25 +26,26 @@ Release Date: 2018-12-09
 
 ### R in the Real World
 
-
-+ [Deep learning in satellite imagery](https://appsilon.com/deep-learning-in-satellite-imagery/)
-
 + [Number of births in the twentieth century ](http://freerangestats.info/blog/2018/12/01/number-births)
 
 + [Who is doing more with less? A look into Premier League performance and market value.](https://austinwehrwein.com/data-visualization/eplmarket/)
 
+![Who is doing more with less? A look into Premier League performance and market value.](https://raw.githubusercontent.com/rweekly/image/master/2018/epl.png)
+
 + [Ages of New Zealand Prime Ministers in an XKCD graph](http://david.frigge.nz/posts/2018-11-leader-age/)
 
+![Ages of New Zealand Prime Ministers in an XKCD graph](https://raw.githubusercontent.com/rweekly/image/master/2018/nzpm-1.png)
 
 + [Porting my blog to use the new radix package](http://david.frigge.nz/posts/2018-11-radixical-blogging/)
 
-+ [Solving #AdventOfCode day 1 and 2 with R](https://colinfay.me/advent-code-1-2/)
++ [Solving #AdventOfCode with R](https://colinfay.me/advent-code-1-2/) - [day 1-2](https://colinfay.me/advent-code-1-2/) and [day 3-4](https://colinfay.me/advent-code-3-4/)
 
-+ [Solving #AdventOfCode day 3 and 4 with R](https://colinfay.me/advent-code-3-4/)
 
 + [A Holiday RStudio Theme](https://www.garrickadenbuie.com/blog/2018/12/05/holiday-rstudio-theme/)
 
 + [Statistics in Glaucoma: Part I](https://rviews.rstudio.com/2018/12/03/statistics-in-glaucoma-part-i/) - [Part I](https://rviews.rstudio.com/2018/12/03/statistics-in-glaucoma-part-i/) and [Part II](https://rviews.rstudio.com/2018/12/07/statistics-in-glaucoma-part-ii/)
+
+![Statistics in Glaucoma: Part I](https://raw.githubusercontent.com/rweekly/image/master/2018/glau.png)
 
 + [Making a Profit with Henry Wan in Arkham Horror: The Card Game](https://ntguardian.wordpress.com/2018/12/03/making-profit-henry-wan-arkham-horror/)
 
@@ -65,10 +65,11 @@ Release Date: 2018-12-09
 
 ###  Resources
 
++ [JapanR Conference 2018 Round-up!](https://ryo-n7.github.io/2018-12-06-japanr-conference-roundup-blog-post/)
 
+![JapanR Conference 2018 Round-up](https://raw.githubusercontent.com/rweekly/image/master/2018/YZXPElx.png)
 
 + [Duke's SSRI Lab has been developing a free 7-part DataCamp series on Causal Inference with R.](https://www.datacamp.com/community/open-courses/causal-inference-with-r-introduction) - [Part 1](https://www.datacamp.com/community/open-courses/causal-inference-with-r-introduction) and [Part 2](https://www.datacamp.com/community/open-courses/causal-inference-with-r-experiments) and [Part 3](https://www.datacamp.com/community/open-courses/causal-inference-with-r-regression)
-
 
 + [One Recipe Step to Rule Them All](http://smaakage85.netlify.com/2018/12/03/one-recipe-step-to-rule-them-all/)
 
@@ -77,7 +78,6 @@ Release Date: 2018-12-09
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
-
 
 
 
@@ -121,14 +121,13 @@ Release Date: 2018-12-09
 
 + [Tweaking colours with the shades package](http://hughjonesd.github.io/tweaking-colours-with-the-shades-package.html)
 
+![Tweaking colours with the shades package](https://raw.githubusercontent.com/rweekly/image/master/2018/shade.png)
+
 + [DBnomics R client, a tutorial](https://macro.nomics.world/article/2018-11/rdbnomics-tutorial/)
 
 + [Simple functions that allow correct display of references in tables in RMarkdown documents](https://yetanotherrblog.netlify.com/2018/12/references-in-latex-table/)
 
 + [How to improve your visualizations in R ](http://www.thinkingondata.com/6-tips-to-make-your-visualizations-look-professional/)
-
-
-+ [How to test any hypothesis with the infer package](https://www.andrewheiss.com/blog/2018/12/05/test-any-hypothesis/)
 
 + [4 ways to be more productive, using RStudio's terminal](https://jozefhajnala.gitlab.io/r/r007-string-manipulation/)
 
@@ -140,6 +139,11 @@ Release Date: 2018-12-09
 + [Simulating dinosaur populations, with R](https://blog.revolutionanalytics.com/2018/11/jurassic-park.html)
 
 + [Because it's Friday: If planets were as close as the moon](https://blog.revolutionanalytics.com/2018/11/because-its-friday-if-planets-were.html)
+
+
++ [How to test any hypothesis with the infer package](https://www.andrewheiss.com/blog/2018/12/05/test-any-hypothesis/)
+
+![How to test any hypothesis with the infer package](https://raw.githubusercontent.com/rweekly/image/master/2018/diff-ridges.png)
 
 
 + [What hyper-parameters are, and what to do with them; an illustration with ridge regression](http://www.brodrigues.co/blog/2018-12-02-hyper-parameters/)
