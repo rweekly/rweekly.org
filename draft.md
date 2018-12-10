@@ -65,7 +65,7 @@ Release Date: 2018-12-16
 
 ###  Tutorials
 
-+ [Updated: ggmap tutorial](https://www.littlemissdata.com/blog/maps) The ggmap tutorial has been updated to show solutions for issues related to the changes in Google Maps Static API access behavior.
++ [Updated: ggmap tutorial](https://www.littlemissdata.com/blog/maps). The ggmap tutorial has been updated to show solutions for issues related to the changes in Google Maps Static API access behavior.
 
 
 <!--<div class="post-more-begi
