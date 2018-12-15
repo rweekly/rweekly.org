@@ -32,6 +32,10 @@ Release Date: 2018-12-16
 
 + [Rsampling Fama French](https://rviews.rstudio.com/2018/12/13/rsampling-fama-french/)
 
++ [My Physiological Response to my PhD Defence: Acute and Chronic](https://www.granvillematheson.com/post/self-portrait/) - a.k.a. A dataviz self-portrait, and an introduction to rwithings
+
++ [Draw maps like paintings](https://statnmap.com/2018-04-18-draw-maps-like-paintings/)
+
 ###  R in Organizations
 
 
@@ -186,4 +190,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Turns out it is possible to write a full <a href="https://twitter.com/hashtag/3D?src=hash&amp;ref_src=twsrc%5Etfw">#3D</a> rendering pipeline using base <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> only.<br><br>1/n <a href="https://t.co/c4yw79KNwb">pic.twitter.com/c4yw79KNwb</a></p>&mdash; BrodieG (@BrodieGaslam) <a href="https://twitter.com/BrodieGaslam/status/1073589705332219904?ref_src=twsrc%5Etfw">December 14, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Of all the excellent, easy ways to quickly summarize a dataframe in <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a>,<br> view(dfSummary(data)) is my favorite. It&#39;s in the summarytools package. <a href="https://t.co/XAyh99TaAt">https://t.co/XAyh99TaAt</a> <a href="https://t.co/BaqZvUIFNS">pic.twitter.com/BaqZvUIFNS</a></p>&mdash; Darren L Dahly (@statsepi) <a href="https://twitter.com/statsepi/status/1073182494009249793?ref_src=twsrc%5Etfw">December 13, 2018</a></blockquote>
 
