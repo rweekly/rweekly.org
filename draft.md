@@ -36,6 +36,8 @@ Release Date: 2018-12-16
 
 + [Draw maps like paintings](https://statnmap.com/2018-04-18-draw-maps-like-paintings/)
 
++ [Visualizing Hurricane Data with Shiny](https://nycdatascience.com/blog/student-works/visualizing-hurricane-data-with-shiny/)
+
 ###  R in Organizations
 
 
@@ -133,6 +135,13 @@ Release Date: 2018-12-16
 
 + [Quality Surrogate Variable Analysis ](http://research.libd.org/rstatsclub/2018/12/11/quality-surrogate-variable-analysis/)
 
++ [Intuition for principal component analysis (PCA)](http://blog.ephorie.de/intuition-for-principal-component-analysis-pca)
+
++ [Confidence intervals for GLMs](https://www.fromthebottomoftheheap.net/2018/12/10/confidence-intervals-for-glms/)
+
++ [GEOCOMPUTATION WITH R - THE AFTERWORD](https://nowosad.github.io/post/geocomputation-with-r-the-afterword/)
+
++ [Automatic Dashboard visualizations with Time series visualizations in R](https://datascienceplus.com/automatic-dashboard-visualizations-with-time-series-visualizations-in-r/)
 
 + [Code for case study - Customer Churn with Keras/TensorFlow and H2O](https://shirinsplayground.netlify.com/2018/12/customer_churn_code/)
 
