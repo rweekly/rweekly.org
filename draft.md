@@ -68,6 +68,13 @@ Release Date: 2018-12-16
 
 ###  Tutorials
 
++ [A New Stereoscopic Mount
+  Spectacular](https://www.brodieg.com/2018/12/12/three-d-pipeline/): We
+  implement a 3D pipeline using base R functionality only, and use it to
+  generate analygraphs and stereograms of the much beloved `volcano`.
+
+![Volcano Analygraph](https://github.com/brodieG/shadow/blob/master/figure/unnamed-chunk-2-1.png)
+
 + [Updated: ggmap tutorial](https://www.littlemissdata.com/blog/maps). A ggmap tutorial has been updated to show solutions for issues related to the changes in Google Maps Static API access behavior.
 
 
