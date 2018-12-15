@@ -17,7 +17,7 @@ Release Date: 2018-12-16
 
 ### R in the Real World
 
-
++ [Optimizing Wedding Reception Seating Charts](https://aldee153.github.io/2018-11-21-optimizing-wedding-seats/)
 
 
 ###  R in Organizations
@@ -45,6 +45,9 @@ Release Date: 2018-12-16
 
 **GitHub or Bitbucket**
 
++ [Rlandsat](https://blog.socialcops.com/technology/data-science/announcing-rlandsat-landsat-8-data/)
+
++ [understatran](https://ewen.io/2018/12/10/understatr) - R package to make getting tidy data from understat simple and fast
 
 
 ### Updated Packages
@@ -66,6 +69,9 @@ Release Date: 2018-12-16
 ###  Tutorials
 
 + [Updated: ggmap tutorial](https://www.littlemissdata.com/blog/maps). A ggmap tutorial has been updated to show solutions for issues related to the changes in Google Maps Static API access behavior.
+
+
++ [Principle Component Analysis and K-Means Clustering](https://annamarbut.blogspot.com/2018/12/submitter-segmentation.html)
 
 
 <!--<div class="post-more-begi
