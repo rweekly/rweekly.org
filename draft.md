@@ -64,7 +64,7 @@ Release Date: 2018-12-24
 
 ###  Tutorials
 
-
++ [Functional Programming helpers from purrr and friends, part 1 | Rowwise operations](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-1-rowwise-operations/)
 
 
 <!--<div class="post-more-begi
