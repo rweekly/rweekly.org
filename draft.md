@@ -9,28 +9,37 @@ Release Date: 2018-12-24
 
 ###  Highlight
 
++ [tidyverse and r-lib: a year in review](https://www.tidyverse.org/articles/2018/12/tidyverse-and-r-lib-year-in-review/)
 
++ [Word associations from the Small World of Words](https://juliasilge.com/blog/word-associations/)
+
++ [R 3.5.2](https://blog.revolutionanalytics.com/2018/12/r-352-announcement.html)
 
 ### Insights
 
 
 + [Advent of Code: Most Popular Languages](https://masalmon.eu/2018/12/15/adventofcode/)
 
+![Advent of Code: Most Popular Languages](https://raw.githubusercontent.com/rweekly/image/master/2018/adventofcode.png)
+
 + [rcites - The story behind the package](https://ropensci.org/blog/2018/12/18/accessing-cites-data/)
 
 + [Thoughts on the M4 Conference](http://ronaldrichman.co.za/2018/12/17/thoughts-on-the-m4-conference/)
 
 
++ [tidyverse and r-lib: a year in review](https://www.tidyverse.org/articles/2018/12/tidyverse-and-r-lib-year-in-review/)
 
 ### R in the Real World
 
 + [Clustering Bruce Springsteen albums with spotifyr](https://peerchristensen.netlify.com/post/clustering-springsteen-albums-with-spotifyr/)
 
+![Clustering Bruce Springsteen albums with spotifyr](https://raw.githubusercontent.com/rweekly/image/master/2018/cluster.png)
 
 + [How to realise plots and wordclouds on the bibliographic references gathered during my PhD thesis.](https://marionlouveaux.fr/blog/bibliography-analysis/)
 
 + [Word associations from the Small World of Words](https://juliasilge.com/blog/word-associations/)
 
+![Word associations from the Small World of Words](https://raw.githubusercontent.com/rweekly/image/master/2018/word-12.png)
 
 + [Analysing and plotting my heart rate and sleep patterns in the days before, during and after my PhD defence](https://www.granvillematheson.com/post/self-portrait/)
 
@@ -62,6 +71,8 @@ Release Date: 2018-12-24
 
 + [November 2018: "Top 40" New Packages](https://rviews.rstudio.com/2018/12/21/november-2018-top-40-new-packages/)
 
+![November 2018: "Top 40" New Packages](https://raw.githubusercontent.com/rweekly/image/master/2018/nov-new-pkg.gif)
+
 + [AzureStor: an R package for working with Azure storage](https://blog.revolutionanalytics.com/2018/12/azurestor.html)
 
 **BioC**
@@ -74,17 +85,16 @@ Release Date: 2018-12-24
 
 + [BH 1.69.0-0 pre-releases and three required changes](http://dirk.eddelbuettel.com/blog/2018/12/19#bh_1.69.0-0_prerelease)
 
-+ [linl 0.0.3: Micro release](http://dirk.eddelbuettel.com/blog/2018/12/15#linl_0.0.3)
++ [linl 0.0.3](http://dirk.eddelbuettel.com/blog/2018/12/15#linl_0.0.3) - A LaTeX Letter class for rmarkdown
 
-+ [Spelling 2.0: Improved Markdown and RStudio Support](https://ropensci.org/technotes/2018/12/20/spelling-20/)
++ [Spelling 2.0](https://ropensci.org/technotes/2018/12/20/spelling-20/) - Improved Markdown and RStudio Support
 
 + [lobstr 1.0.0](https://www.tidyverse.org/articles/2018/12/lobstr/) - Visualising R data structures with trees
 
-+ [readxl 1.2.0](https://www.tidyverse.org/articles/2018/12/readxl-1-2-0/)
++ [readxl 1.2.0](https://www.tidyverse.org/articles/2018/12/readxl-1-2-0/) - The readxl package makes it easy to get data out of Excel and into R
 
-+ [httr 1.4.0](https://www.tidyverse.org/articles/2018/12/httr-1-4-0/)
++ [httr 1.4.0](https://www.tidyverse.org/articles/2018/12/httr-1-4-0/) - A wrapper for the curl package, customised to the demands of modern web APIs
 
-+ [tidyverse and r-lib: a year in review](https://www.tidyverse.org/articles/2018/12/tidyverse-and-r-lib-year-in-review/)
 
 ###  Videos and Podcasts
 
@@ -100,7 +110,7 @@ Release Date: 2018-12-24
 
 ###  Tutorials
 
-+ [Functional Programming helpers from purrr and friends, part 1 | Rowwise operations](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-1-rowwise-operations/)
++ [Functional Programming helpers from purrr and friends, part 1](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-1-rowwise-operations/)
 
 + [How to parameterise a prior when all you know is the mean and one other percentile.](https://nacnudus.github.io/duncangarmonsway/posts/2018-12-14-choose-a-priors-parameters/)
 
@@ -117,9 +127,7 @@ Release Date: 2018-12-24
 + [What Does R Value?](https://unconj.ca/blog/what-does-r-value.html)
 
 
-+ [Manipulate dates easily with {lubridate}](http://www.brodrigues.co/blog/2018-12-15-lubridate_africa/)
-
-
++ [Manipulate dates easily with lubridate](http://www.brodrigues.co/blog/2018-12-15-lubridate_africa/)
 
 + [Quoting Concatenate](http://www.win-vector.com/blog/2018/12/quoting-concatenate/)
 
@@ -141,6 +149,7 @@ Release Date: 2018-12-24
 
 + [h3jsr: Probably should have learned more JavaScript instead >.>](https://obrl-soil.github.io/h3jsr-announcement/)
 
+![h3jsr: Probably should have learned more JavaScript instead >.>](https://raw.githubusercontent.com/rweekly/image/master/2018/h3jsr.png)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
