@@ -15,14 +15,36 @@ Release Date: 2018-12-31
 
 
 
++ [My #Best9of2018 tweets](https://masalmon.eu/2018/12/28/best9of2018/)
+
++ [On Marketing (on Social Media)](https://yihui.name/en/2018/12/social-media-marketing/)
+
++ [On Disagreement](https://yihui.name/en/2018/12/on-disagreement/)
+
 
 ### R in the Real World
 
++ [Clustering the Bible](http://blog.ephorie.de/clustering-the-bible)
 
++ [Using emojis as scatterplot points](https://statisticaloddsandends.wordpress.com/2018/12/28/using-emojis-as-scatterplot-points/)
+
+
++ [Tidy text, parts of speech, and unique words in the Bible](https://www.andrewheiss.com/blog/2018/12/26/tidytext-pos-john/)
+
++ [How to realise plots and wordclouds on the bibliographic references gathered during my PhD thesis](https://marionlouveaux.fr/blog/bibliography-analysis/)
+
+
++ [Use R and parts-of-speech tagging to explore the Qur'an in Arabic](https://www.andrewheiss.com/blog/2018/12/28/tidytext-pos-arabic/)
+
++ [Rolling Origins and Fama French](https://rviews.rstudio.com/2018/12/26/rolling-origins-and-fama-french/)
+
++ [Certifiably Gone Phishing](https://rud.is/b/2018/12/23/certifiably-gone-phishing/)
 
 
 ###  R in Organizations
 
+
++ [Building an Rstats Workstation](http://www.samabbott.co.uk/post/building-an-rstats-workstation/)
 
 
 ###  R in Academia
@@ -39,20 +61,25 @@ Release Date: 2018-12-31
 
 **CRAN**
 
++ [textrecipes 0.0.1](https://www.tidyverse.org/articles/2018/12/textrecipes-0-0-1/) - Extra recipes for Text Processing
 
 **BioC**
 
 
 **GitHub or Bitbucket**
 
++ [vroom](https://github.com/jimhester/vroom#readme) - An experiment with lazily reading indexed files
+
++ [📖 An R package for the complete text of the Qur'an](https://github.com/andrewheiss/quRan)
 
 ### Updated Packages
 
 
++ [readr 1.3.1](https://www.tidyverse.org/articles/2018/12/readr-1-3-1/)
 
 ###  Videos and Podcasts
 
-
++ [Cracking into the Meat of R with lobstr: Console Visualisations that Explain How Stuff Works](https://www.youtube.com/watch?v=rPMK4yRqlvU&feature=youtu.be)
 
 ### Gist & Cookbook
 
@@ -64,6 +91,36 @@ Release Date: 2018-12-31
 
 ###  Tutorials
 
++ [Part 4: Why does bias occur in optimism corrected bootstrapping?](https://intobioinformatics.wordpress.com/2018/12/28/part-4-more-bias-and-why-does-bias-occur-in-optimism-corrected-bootstrapping/)
+
++ [Survey Raking: An Illustration](https://datawookie.netlify.com/blog/2018/12/survey-raking-an-illustration/)
+
++ [Optimism corrected bootstrapping: a problematic method](https://intobioinformatics.wordpress.com/2018/12/25/optimism-corrected-bootstrapping-a-problematic-method/)
+
++ [How to parameterise a prior when all you know is the mean and one other percentile](https://nacnudus.github.io/duncangarmonsway/posts/2018-12-14-choose-a-priors-parameters/)
+
++ [5 amazing free tools that can help with publishing R results and blogging](https://jozefhajnala.gitlab.io/r/r907-christmas-praise/)
+
++ [Simulating Persian Monarchs gameplay](http://freerangestats.info/blog/2018/12/23/persian-monarchs)
+
++ [spice rap, rap splice](https://purrple.cat/blog/2018/12/22/spice-rap-rap-splice/)
+
+
++ [Objects types and some useful R functions for beginners](http://www.brodrigues.co/blog/2018-12-24-modern_objects/)
+
++ [R 101](http://research.libd.org/rstatsclub/2018/12/24/r_101/)
+
++ [Text classification with tidy data principles](https://juliasilge.com/blog/tidy-text-classification/)
+
+
++ [Some fun with {gganimate}](http://www.brodrigues.co/blog/2018-12-27-fun_gganimate/)
+
+
++ [Statistical Assessments of AUC](https://statcompute.wordpress.com/2018/12/25/statistical-assessments-of-auc/)
+
++ [The Need for Speed Part 2: C++ vs. Fortran vs. C](https://www.avrahamadler.com/2018/12/23/the-need-for-speed-part-2-c-vs-fortran-vs-c/)
+
++ [Finally, You Can Plot H2O Decision Trees in R](https://novyden.blogspot.com/2018/12/finally-you-can-plot-h2o-decision-trees.html)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
@@ -101,4 +158,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">An <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/blogdown?src=hash&amp;ref_src=twsrc%5Etfw">#blogdown</a> file hierarchy cheatsheet:<br><br>├─ archetypes &lt;- edit me! <br>├─ config.toml &lt;- edit me! <br>├─ content &lt;- edit me! <br>├─ data &lt;- edit me! <br>├─ layouts &lt;- edit me! <br>├─ public &lt;- ignore me!<br>├─ static &lt;- use me! (png/pdf/csv/xls)<br>├─ themes &lt;- don&#39;t touch! <a href="https://t.co/gvVA703Lwa">pic.twitter.com/gvVA703Lwa</a></p>&mdash; Alison Hill (@apreshill) <a href="https://twitter.com/apreshill/status/1078494406301212672?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
 
