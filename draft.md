@@ -9,11 +9,12 @@ Release Date: 2018-12-31
 
 ###  Highlight
 
++ [vroom](https://github.com/jimhester/vroom#readme) - An experiment with lazily reading indexed files
+
++ [Text classification with tidy data principles](https://juliasilge.com/blog/tidy-text-classification/)
 
 
 ### Insights
-
-
 
 + [My #Best9of2018 tweets](https://masalmon.eu/2018/12/28/best9of2018/)
 
@@ -26,7 +27,7 @@ Release Date: 2018-12-31
 
 + [Clustering the Bible](http://blog.ephorie.de/clustering-the-bible)
 
-+ [Using emojis as scatterplot points](https://statisticaloddsandends.wordpress.com/2018/12/28/using-emojis-as-scatterplot-points/)
+![Clustering the Bible](https://github.com/rweekly/image/raw/master/2018/372px-Relationship_between_synoptic_gospels-en.svg_.png)
 
 
 + [Tidy text, parts of speech, and unique words in the Bible](https://www.andrewheiss.com/blog/2018/12/26/tidytext-pos-john/)
@@ -40,6 +41,11 @@ Release Date: 2018-12-31
 
 + [Certifiably Gone Phishing](https://rud.is/b/2018/12/23/certifiably-gone-phishing/)
 
+
++ [The Need for Speed Part 2: C++ vs. Fortran vs. C](https://www.avrahamadler.com/2018/12/23/the-need-for-speed-part-2-c-vs-fortran-vs-c/)
+
+
+![The Need for Speed Part 2: C++ vs. Fortran vs. C](https://github.com/rweekly/image/raw/master/2018/cpp1831.png)
 
 ###  R in Organizations
 
@@ -70,12 +76,11 @@ Release Date: 2018-12-31
 
 + [vroom](https://github.com/jimhester/vroom#readme) - An experiment with lazily reading indexed files
 
-+ [📖 An R package for the complete text of the Qur'an](https://github.com/andrewheiss/quRan)
++ [quRan](https://github.com/andrewheiss/quRan) - An R package for the complete text of the Qur'an
 
 ### Updated Packages
 
-
-+ [readr 1.3.1](https://www.tidyverse.org/articles/2018/12/readr-1-3-1/)
++ [readr 1.3.1](https://www.tidyverse.org/articles/2018/12/readr-1-3-1/) - Read Rectangular Text Data
 
 ###  Videos and Podcasts
 
@@ -94,6 +99,10 @@ Release Date: 2018-12-31
 + [Part 4: Why does bias occur in optimism corrected bootstrapping?](https://intobioinformatics.wordpress.com/2018/12/28/part-4-more-bias-and-why-does-bias-occur-in-optimism-corrected-bootstrapping/)
 
 + [Survey Raking: An Illustration](https://datawookie.netlify.com/blog/2018/12/survey-raking-an-illustration/)
+
++ [Using emojis as scatterplot points](https://statisticaloddsandends.wordpress.com/2018/12/28/using-emojis-as-scatterplot-points/)
+
+![Using emojis as scatterplot points](https://github.com/rweekly/image/raw/master/2018/geom_emoji3.png)
 
 + [Optimism corrected bootstrapping: a problematic method](https://intobioinformatics.wordpress.com/2018/12/25/optimism-corrected-bootstrapping-a-problematic-method/)
 
@@ -115,10 +124,9 @@ Release Date: 2018-12-31
 
 + [Some fun with {gganimate}](http://www.brodrigues.co/blog/2018-12-27-fun_gganimate/)
 
+![Some fun with {gganimate}](https://github.com/rweekly/image/raw/master/2018/wiid_gganimate_gif.gif)
 
 + [Statistical Assessments of AUC](https://statcompute.wordpress.com/2018/12/25/statistical-assessments-of-auc/)
-
-+ [The Need for Speed Part 2: C++ vs. Fortran vs. C](https://www.avrahamadler.com/2018/12/23/the-need-for-speed-part-2-c-vs-fortran-vs-c/)
 
 + [Finally, You Can Plot H2O Decision Trees in R](https://novyden.blogspot.com/2018/12/finally-you-can-plot-h2o-decision-trees.html)
 
