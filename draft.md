@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2018-53
+title: R Weekly 2019-01
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2018-12-31
+Release Date: 2019-01-07
 
 ###  Highlight
 
