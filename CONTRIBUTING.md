@@ -91,6 +91,9 @@ You can use jsdelivr CDN, for example, `https://cdn.jsdelivr.net/gh/<usr_name>/<
  
 - `https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/01/your_image_name`
 - <https://cdn.jsdelivr.net/gh/rweekly/misc@master/logo/rweekly_logo_no_background.png>
+- <https://cdn.jsdelivr.net/gh/rweekly/misc@master/logo/>  # get a directory listing
+
+for more info, please see <https://github.com/jsdelivr/jsdelivr#github> & <https://www.jsdelivr.com/features>.
 
 For new images that will show in R Weekly issues, it is recommended to use https://raw.githubusercontent.com/ domain. And R Weekly Live only accepts https://raw.githubusercontent.com/ domain images.
 
