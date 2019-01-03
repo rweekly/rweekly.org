@@ -85,11 +85,12 @@ Use https://validator.w3.org/checklink to check dead links. Release the frozen p
 
 Don't put images in the main repo, and this rule will keep the main repo size small and easy to clone.
 
-R Weekly always uses HTTPS. To fix mixed content warning for images that are using HTTP, ask the copyright holder of the image for permission and put an copy of the image in rweekly/image repo.
+R Weekly always uses HTTPS. To fix mixed content warning for images that are using HTTP, ask the copyright holder of the image for permission and put an copy of the image in [rweekly/image](https://github.com/rweekly/image/tree/master/2019) repo.
 
-Don't Use RawGit as CDN.
-
-RawGit will no longer cache images. See https://twitter.com/rawgit/status/836744103190638592 .
+You can use jsdelivr CDN, for example, `https://cdn.jsdelivr.net/gh/<usr_name>/<repo_name>@<branch_name>/path/to/file.name`
+ 
+- `https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/01/your_image_name`
+- <https://cdn.jsdelivr.net/gh/rweekly/misc@master/logo/rweekly_logo_no_background.png>
 
 For new images that will show in R Weekly issues, it is recommended to use https://raw.githubusercontent.com/ domain. And R Weekly Live only accepts https://raw.githubusercontent.com/ domain images.
 
