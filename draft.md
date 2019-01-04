@@ -71,6 +71,8 @@ Release Date: 2019-01-07
 
 + [Example adding Firebase authentication to a Shiny application](https://https://www.tychobra.com/posts/2019-01-03-firebasse-auth-wtih-shiny/)
 
++ [Composition & Pointfree - FP with purrr and friends](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-2-composition/)
+
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
