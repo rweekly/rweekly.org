@@ -19,6 +19,9 @@ Release Date: 2019-01-07
 ### R in the Real World
 
 
++ [Survey Raking: An Illustration](https://datawookie.netlify.com/blog/2018/12/survey-raking-an-illustration/)
+
++ [Are men and women tweeted equal? a corpus linguistic approach in R](https://peerchristensen.netlify.com/post/what-twitter-says-about-men-and-women-a-corpus-linguistic-approach-in-r/)
 
 
 ###  R in Organizations
@@ -39,7 +42,7 @@ Release Date: 2019-01-07
 
 **CRAN**
 
-
++ [nycgeo](https://nycgeo.mattherman.info) - New package for NYC spatial data
 
 **BioC**
 
@@ -66,6 +69,7 @@ Release Date: 2019-01-07
 
 ###  Tutorials
 
++ [Example adding Firebase authentication to a Shiny application](https://https://www.tychobra.com/posts/2019-01-03-firebasse-auth-wtih-shiny/)
 
 
 <!--<div class="post-more-begi
