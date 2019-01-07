@@ -23,6 +23,8 @@ Release Date: 2019-01-07
 
 + [Here's why 2019 is a great year to start with R](https://jozefhajnala.gitlab.io/r/r908-10-year-old-code/) - A story of 10 year old R code then and now
 
++ [R or Python? Why not both? Using Anaconda Python within R with {reticulate}](https://www.brodrigues.co/blog/2018-12-30-reticulate/)
+
 ### R in the Real World
 
 + [Exploring 2018 R-bloggers & R Weekly Posts with Feedly & the 'seymour' package](https://rud.is/b/2018/12/31/exploring-2018-r-bloggers-r-weekly-posts-with-feedly-the-seymour-package/)
