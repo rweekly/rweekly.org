@@ -9,17 +9,24 @@ Release Date: 2019-01-07
 
 ###  Highlight
 
++ [pagedown](https://pagedown.rbind.io/) - Create Paged HTML Documents for Printing from R Markdown
 
++ [R or Python? Why not both? Using Anaconda Python within R with {reticulate}](https://www.brodrigues.co/blog/2018-12-30-reticulate/)
 
++ [gganimate has transitioned to a state of release](https://www.data-imaginist.com/2019/gganimate-has-transitioned-to-a-state-of-release/)
 
 ### Insights
 
 
 + [Your and my 2019 R goals](https://masalmon.eu/2019/01/01/r-goals/)
 
+![Your and my 2019 R goals](https://raw.githubusercontent.com/rweekly/image/master/2019/01/lollipop-201901.png)
+
 + [Entering and Exiting 2018](https://www.data-imaginist.com/2019/entering-and-exiting-2018/)
 
 + [2018 through {cranlogs}](https://colinfay.me/12-months-cranlogs/)
+
+![2018 through {cranlogs}](https://raw.githubusercontent.com/rweekly/image/master/2019/01/ccranlogs2018.png)
 
 + [Here's why 2019 is a great year to start with R](https://jozefhajnala.gitlab.io/r/r908-10-year-old-code/) - A story of 10 year old R code then and now
 
@@ -43,7 +50,6 @@ Release Date: 2019-01-07
 
 + [gganimation for the nation](https://www.johnmackintosh.com/2019-01-06-gganimation-for-the-nation/)
 
-+ [slga: soils data for the people](https://obrl-soil.github.io/slga-announcement/)
 
 + [2018: Not so bad for running](http://dirk.eddelbuettel.com/blog/2018/12/31#2018_strava_stats)
 
@@ -79,7 +85,13 @@ Release Date: 2019-01-07
 
 + [nycgeo](https://nycgeo.mattherman.info) - New package for NYC spatial data
 
-+ [Introducing RcppDynProg](http://www.win-vector.com/blog/2018/12/introducing-rcppdynprog/)
+![nycgeo](https://raw.githubusercontent.com/rweekly/image/master/2019/01/nycgeo.png)
+
++ [RcppDynProg](http://www.win-vector.com/blog/2018/12/introducing-rcppdynprog/) - table-based dynamic programming
+
++ [slga](https://obrl-soil.github.io/slga-announcement/) - soils data for the people
+
+![slga](https://raw.githubusercontent.com/rweekly/image/master/2019/01/clayplot.png)
 
 **BioC**
 
@@ -92,8 +104,9 @@ Release Date: 2019-01-07
 
 + [Apache Drill 1.15.0 + sergeant 0.8.0 = pcapng Support, Proper Column Types & Mounds of New Metadata](https://rud.is/b/2019/01/02/apache-drill-1-15-0-sergeant-0-8-0-pcapng-support-proper-column-types-mounds-of-new-metadata/)
 
-
 + [vdiffr 0.3.0](https://github.com/lionel-/vdiffr) - Visual unit tests for R plots
+
+![vdiffr 0.3.0](https://raw.githubusercontent.com/rweekly/image/master/2019/01/rstudio-vdiffr.png)
 
 + [haven 2.0.0](https://haven.tidyverse.org/) - read and write various data formats used by other statistical packages
 
@@ -126,8 +139,6 @@ Release Date: 2019-01-07
 
 + [gganimate has transitioned to a state of release](https://www.data-imaginist.com/2019/gganimate-has-transitioned-to-a-state-of-release/)
 
-+ [Adding Firebase Authentication to Shiny](https://www.tychobra.com/posts/2019-01-03-firebasse-auth-wtih-shiny/)
-
 + [End of 2018 Thoughts](https://r-tastic.co.uk/post/end-of-2018-thoughts/)
 
 + [x-mas tRees with gganimate, ggplot, plotly and friends](http://smarterpoland.pl/index.php/2019/01/x-mas-trees-with-gganimate-ggplot-plotly-and-friends/)
@@ -136,18 +147,13 @@ Release Date: 2019-01-07
 
 + ['data:' Scraping & Chart Reproduction : Arrows of Environmental Destruction](https://rud.is/b/2019/01/03/data-scraping-chart-reproduction-arrows-of-environmental-destruction/)
 
+!['data:' Scraping & Chart Reproduction : Arrows of Environmental Destruction](https://raw.githubusercontent.com/rweekly/image/master/2019/01/arrow-chart-makeover.png)
 
 + [Advances in time series forecasting – M4 and what it means for insurance](http://ronaldrichman.co.za/2018/12/31/advances-in-time-series-forecasting-m4-and-what-it-means-for-insurance/)
-
 
 + [Metamerismo estadístico](https://eliocamp.github.io/codigo-r/2019/01/metamerismo-estad%C3%ADstico/)
 
 + [What does it mean to write "vectorized" code in R?](http://www.win-vector.com/blog/2019/01/what-does-it-mean-to-write-vectorized-code-in-r/)
-
-+ [Purr yourself into a math genius](http://staff.math.su.se/hoehle/blog/2019/01/04/mathgenius.html)
-
-+ [What does it mean to write "vectorized" code in R?](http://www.win-vector.com/blog/2019/01/what-does-it-mean-to-write-vectorized-code-in-r/)
-
 
 + [Regression Modeling Strategies](http://fharrell.com/talk/rmscsp/)
 
