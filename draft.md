@@ -22,7 +22,7 @@ Release Date: 2019-01-14
 
 ###  R in Organizations
 
-
++ [Announcing the 1st Shiny Contest](https://blog.rstudio.com/2019/01/07/first-shiny-contest/)
 
 ###  R in Academia
 
@@ -65,6 +65,7 @@ Release Date: 2019-01-14
 ###  Tutorials
 
 
++ [Getting started with TensorFlow Probability from R](https://blogs.rstudio.com/tensorflow/posts/2019-01-08-getting-started-with-tf-probability/)
 
 
 <!--<div class="post-more-begi
