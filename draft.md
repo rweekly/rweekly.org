@@ -48,6 +48,14 @@ Release Date: 2019-01-14
 
 ### Updated Packages
 
++ [doFuture](https://cran.r-project.org/package=doFuture) 0.7.0 - A Universal Foreach Parallel Adapter using the Future API of the 'future' Package ([blog post](https://www.jottr.org/2019/01/07/maintenance-updates-of-future-backends-and-dofuture/))
+
++ [future.batchtools](https://cran.r-project.org/package=future.batchtools) 0.7.2 - A Future API for Parallel and Distributed Processing using 'batchtools' (see above 'blog post')
+
++ [future.BatchJobs](https://cran.r-project.org/package=future.BatchJobs) 0.16.1 - A Future API for Parallel and Distributed Processing using 'BatchJobs' (see above 'blog post')
+
++ [future.callr](https://cran.r-project.org/package=future.callr) 0.4.0 - A Future API for Parallel Processing using 'callr' (see above 'blog post')
+
 
 
 ###  Videos and Podcasts
