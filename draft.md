@@ -22,7 +22,7 @@ Release Date: 2019-01-14
 
 ###  R in Organizations
 
-+ [Announcing the 1st Shiny Contest](https://blog.rstudio.com/2019/01/07/first-shiny-contest/)
+
 
 ###  R in Academia
 
@@ -99,7 +99,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
-
++ [Announcing the 1st Shiny Contest](https://blog.rstudio.com/2019/01/07/first-shiny-contest/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
