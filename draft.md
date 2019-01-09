@@ -38,6 +38,7 @@ Release Date: 2019-01-14
 
 **CRAN**
 
++ [vitae](https://blog.mitchelloharawild.com/blog/vitae/) - Automate your CV with vitae
 
 **BioC**
 
