@@ -44,7 +44,7 @@ Release Date: 2019-01-14
 
 **GitHub or Bitbucket**
 
-
++ [posterdown](https://github.com/brentthorne/posterdown) - Use RMarkdown to generate Latex PDF Conference Posters
 
 ### Updated Packages
 
