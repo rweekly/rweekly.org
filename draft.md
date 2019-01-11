@@ -79,7 +79,10 @@ Release Date: 2019-01-14
 + [Visualizing the Asian Cup with R!](https://ryo-n7.github.io/2019-01-11-visualize-asian-cup/)
 ![](https://i.imgur.com/F5TOJQP.png)
 
-+[Going Off the Map: Exploring purrr's Other Functions](https://hookedondata.org/going-off-the-map/)
++ [Going Off the Map: Exploring purrr's Other Functions](https://hookedondata.org/going-off-the-map/)
+
++ [Parallelize a For-Loop by Rewriting it as an Lapply Call](https://www.jottr.org/2019/01/11/parallelize-a-for-loop-by-rewriting-it-as-an-lapply-call/)
+
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
