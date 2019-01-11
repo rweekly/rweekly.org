@@ -76,6 +76,10 @@ Release Date: 2019-01-14
 
 + [Getting started with TensorFlow Probability from R](https://blogs.rstudio.com/tensorflow/posts/2019-01-08-getting-started-with-tf-probability/)
 
++ [Visualizing the Asian Cup with R!](https://ryo-n7.github.io/2019-01-11-visualize-asian-cup/)
+![](https://i.imgur.com/F5TOJQP.png)
+
++[Going Off the Map: Exploring purrr's Other Functions](https://hookedondata.org/going-off-the-map/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
