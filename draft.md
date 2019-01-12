@@ -27,18 +27,9 @@ Release Date: 2019-01-14
 + [Updated Review: jamovi User Interface to R](http://r4stats.com/2019/01/09/updated-review-jamovi/)
 
 
-### R in the Real World
-
-
-
 ###  R in Organizations
 
 + [Alternative approaches to scaling Shiny with RStudio Shiny Server, ShinyProxy or custom architecture.](https://appsilon.com/alternatives-to-scaling-shiny/)
-
-
-###  R in Academia
-
-
 
 ###  Resources
 
@@ -61,9 +52,6 @@ Release Date: 2019-01-14
 + [wdpar: Interface to the World Database on Protected Areas](https://cran.r-project.org/web/packages/wdpar/index.html)
 
 + [tor: Import Multiple Files From a Single Directory at Once](https://cran.r-project.org/web/packages/wdpar/index.html) 
-
-
-**BioC**
 
 
 **GitHub or Bitbucket**
@@ -96,16 +84,6 @@ Release Date: 2019-01-14
 + [pinp 0.0.7: More small YAML options](http://dirk.eddelbuettel.com/blog/2019/01/11/#pinp_0.0.7)
 
 + [haven 2.0.0](https://www.tidyverse.org/articles/2019/01/haven-2-0-0/)
-
-
-###  Videos and Podcasts
-
-
-
-### Gist & Cookbook
-
-
-
 
 ### R Internationally
 
@@ -175,14 +153,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
-
-### Datasets
-
-
-
-
-### Jobs
-
 
 
 
