@@ -26,6 +26,11 @@ Release Date: 2019-01-14
 
 + [Updated Review: jamovi User Interface to R](http://r4stats.com/2019/01/09/updated-review-jamovi/)
 
++ [Making R code over 100 times faster: An example](https://ssds.stanford.edu/making-r-code-over-100-times-faster-example)
+
++ [French Baccalaureate Results](https://nycdatascience.com/blog/r/french-baccalaureate-results/]
+
+
 
 ###  R in Organizations
 
