@@ -24,6 +24,8 @@ Release Date: 2019-01-14
 
 + [R Tip: Use seqi() For Indexes](http://www.win-vector.com/blog/2019/01/r-tip-use-seqi-for-indexes/)
 
++ [Updated Review: jamovi User Interface to R](http://r4stats.com/2019/01/09/updated-review-jamovi/)
+
 
 ### R in the Real World
 
@@ -42,7 +44,7 @@ Release Date: 2019-01-14
 
 + [An Introduction to Docker for R Users](https://colinfay.me/docker-r-reproducibility/)
 
-+[An R course for marketing students](https://bookdown.org/content/1340/)
++ [An R course for marketing students](https://bookdown.org/content/1340/)
 
 
 ###  New Packages
@@ -137,7 +139,11 @@ Release Date: 2019-01-14
 
 + [A Tip to Debug ggplot2](https://yutani.rbind.io/post/a-tip-to-debug-ggplot2/) 
 
++ [Linguistic Signals of Album Quality: A Predictive Analysis of Pitchfork Review Scores Using Quanteda]
 
+![](https://1.bp.blogspot.com/-o-IpnxzwS0w/W542K9dxBTI/AAAAAAAAAcI/hbc4-wh0gN8k3dnHlL_aIS7h4kVhq_CtwCLcBGAs/s1600/top_features.png)
+
++ [10 years of playback history on Last.FM: "Just sit back and listen"](http://rcrastinate.blogspot.com/2019/01/10-years-of-playback-history-on-lastfm.html)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
