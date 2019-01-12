@@ -87,6 +87,8 @@ Release Date: 2019-01-14
 
 + [Waffle Geoms & Other Miscellaneous In-Development Package Updates](https://rud.is/b/2019/01/10/waffle-geoms-other-miscellaneous-in-development-package-updates/)
 
++ [pinp 0.0.7: More small YAML options](http://dirk.eddelbuettel.com/blog/2019/01/11/#pinp_0.0.7)
+
 
 ###  Videos and Podcasts
 
