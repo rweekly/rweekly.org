@@ -72,6 +72,10 @@ Release Date: 2019-01-14
 
 + [The csv files of Destatis, the Federal Statistical Office of Germany, don't comply with common standards if a tidy, ready-to-use machine-readable dataset. This package helps to jump start the data analysis by assuming time-consuming cleaning tasks.](https://github.com/cutterkom/destatiscleanr)
 
++ [leafgl — An R package for fast web gl rendering of features on leaflet maps](https://github.com/r-spatial/leafgl)
+
+![](https://raw.githubusercontent.com/r-spatial/leafgl/master/readme_figs/pts_blue.png)
+
 
 ### Updated Packages
 
@@ -91,6 +95,8 @@ Release Date: 2019-01-14
 
 + [pinp 0.0.7: More small YAML options](http://dirk.eddelbuettel.com/blog/2019/01/11/#pinp_0.0.7)
 
++ [haven 2.0.0](https://www.tidyverse.org/articles/2019/01/haven-2-0-0/)
+
 
 ###  Videos and Podcasts
 
@@ -103,6 +109,11 @@ Release Date: 2019-01-14
 
 ### R Internationally
 
++ [Introducción a los Modelos de Regresión en R](https://medium.com/datos-y-ciencia/introducci%C3%B3n-a-los-modelos-de-regresi%C3%B3n-en-r-6ef5a4c47a8f)
+
++ [Los bucles de la familia apply](https://guamandseduardo.rbind.io/post/familia-apply/)
+
++ [Gérer les dates et les heures avec le package lubridate](https://statistique-et-logiciel-r.com/gerer-les-dates-et-les-heures-avec-le-package-lubridate/)
 
 ###  Tutorials
 
@@ -157,8 +168,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
++ [satRday Paris - 23rd february](https://paris2019.satrdays.org/)
 
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
@@ -181,4 +193,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">‼️‼️ LOOK WHAT&#39;S COMING TO RAYSHADER! I took this video last night. Intrigued? Excited? Want to learn more? Be the first to preview the new features coming in the next few months to <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> at my RStudio::conf talk next week!<br><br>📅⏰ Thursday at 4:24 PM<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a> <a href="https://t.co/qFxcc77aKv">pic.twitter.com/qFxcc77aKv</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href="https://twitter.com/tylermorganwall/status/1083707650792189953?ref_src=twsrc%5Etfw">January 11, 2019</a></blockquote>
+
 
