@@ -33,8 +33,6 @@ Release Date: 2019-01-14
 
 + [Alternative approaches to scaling Shiny with RStudio Shiny Server, ShinyProxy or custom architecture.](https://appsilon.com/alternatives-to-scaling-shiny/)
 
-![](https://appsilon.com/assets/uploads/2018/12/Scaling-Shiny-1.png)
-
 
 ###  R in Academia
 
