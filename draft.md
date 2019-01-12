@@ -20,7 +20,7 @@ Release Date: 2019-01-14
 
 + [Who is the greatest finisher in soccer?](https://blog.revolutionanalytics.com/2019/01/best-finishers-in-football.html) 
 
-+[Friday follow-up: inspiration for an interactive look at unemployment](https://austinwehrwein.com/data-visualization/unemployment/)
++ [Friday follow-up: inspiration for an interactive look at unemployment](https://austinwehrwein.com/data-visualization/unemployment/)
 
 + [R Tip: Use seqi() For Indexes](http://www.win-vector.com/blog/2019/01/r-tip-use-seqi-for-indexes/)
 
@@ -31,7 +31,9 @@ Release Date: 2019-01-14
 
 ###  R in Organizations
 
-+ [The article compares different technologies to scale R Shiny Apps, technologies used: ShinyProxy, Shiny Server Open Source & Pro and solution based Docker and Load Balancer.](https://appsilon.com/alternatives-to-scaling-shiny/)
++ [Alternative approaches to scaling Shiny with RStudio Shiny Server, ShinyProxy or custom architecture.](https://appsilon.com/alternatives-to-scaling-shiny/)
+
+![](https://appsilon.com/assets/uploads/2018/12/Scaling-Shiny-1.png)
 
 
 ###  R in Academia
@@ -59,7 +61,6 @@ Release Date: 2019-01-14
 + [wdpar: Interface to the World Database on Protected Areas](https://cran.r-project.org/web/packages/wdpar/index.html)
 
 + [tor: Import Multiple Files From a Single Directory at Once](https://cran.r-project.org/web/packages/wdpar/index.html) 
-
 
 
 **BioC**
@@ -107,6 +108,7 @@ Release Date: 2019-01-14
 + [Getting started with TensorFlow Probability from R](https://blogs.rstudio.com/tensorflow/posts/2019-01-08-getting-started-with-tf-probability/)
 
 + [Visualizing the Asian Cup with R!](https://ryo-n7.github.io/2019-01-11-visualize-asian-cup/)
+
 ![](https://i.imgur.com/F5TOJQP.png)
 
 + [Going Off the Map: Exploring purrr's Other Functions](https://hookedondata.org/going-off-the-map/)
@@ -119,9 +121,13 @@ Release Date: 2019-01-14
 
 + [Optimise your new year diet with >8000 scraped food nutrition and prices, crosstalk and plotly (renders slowly, lots of interactive data, best on a laptop or desktop)](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-07-food-nutrition-and-price/)
 
+![](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-07-food-nutrition-and-price/2019-01-07-food-nutrition-and-price_files/figure-html5/price-1.png)
+
 + [Map GOOGLE PHOTOS on google maps using leaflet.](https://dataplayground.netlify.com/blog/google-photos-mapping/)
 
 + [gganimation for the nation](https://www.johnmackintosh.com/2019-01-06-gganimation-for-the-nation/) 
+
+![](https://www.johnmackintosh.com/img/newgganimate.gif)
 
 + [Generating sample donors & gift data for nonprofits](https://austinwehrwein.com/tutorials/gifttable/)
 
