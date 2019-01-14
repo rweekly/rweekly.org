@@ -77,6 +77,11 @@ Release Date: 2019-01-14
 
 + [destatiscleanr](https://github.com/cutterkom/destatiscleanr) - Imports and cleans data from official German statistical offices to jump-start the data analysis
 
++ [pointdexter](https://cenuno.github.io/pointdexter/) - Labels longitudinal and latitudinal coordinates located inside a polygon
+
+<a href="https://cenuno.github.io/pointdexter/">
+<img src="https://github.com/cenuno/pointdexter/raw/master/man/figures/logo.png" align="middle" width="200"/>
+</a>
 
 
 ### Updated Packages
