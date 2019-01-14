@@ -14,11 +14,11 @@ Release Date: 2019-01-14
 ### Insights
 
 
-+ [Timing the Same Algorithm in R, Python, and C++](http://www.win-vector.com/blog/2019/01/timing-of-the-same-algorithm-in-r-python-and-c/) 
++ [Timing the Same Algorithm in R, Python, and C++](http://www.win-vector.com/blog/2019/01/timing-of-the-same-algorithm-in-r-python-and-c/)
 
 + [An even better rOpenSci website with Hugo](https://ropensci.org/technotes/2019/01/09/hugo/)
 
-+ [Who is the greatest finisher in soccer?](https://blog.revolutionanalytics.com/2019/01/best-finishers-in-football.html) 
++ [Who is the greatest finisher in soccer?](https://blog.revolutionanalytics.com/2019/01/best-finishers-in-football.html)
 
 + [Friday follow-up: inspiration for an interactive look at unemployment](https://austinwehrwein.com/data-visualization/unemployment/)
 
@@ -30,7 +30,13 @@ Release Date: 2019-01-14
 
 + [French Baccalaureate Results](https://nycdatascience.com/blog/r/french-baccalaureate-results/]
 
++ [Exploring the hidden beauty of multiplication tables with R](https://solmos.netlify.com/post/2018-11-06-multiplication-table/multiplication-table-with-r/)
 
+
++ [Optimise your new year diet with >8000 scraped food nutrition and prices, crosstalk and plotly (renders slowly, lots of interactive data, best on a laptop or desktop)](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-07-food-nutrition-and-price/)
+
+
++ [Map GOOGLE PHOTOS on google maps using leaflet](https://dataplayground.netlify.com/blog/google-photos-mapping/)
 
 ###  R in Organizations
 
@@ -52,11 +58,11 @@ Release Date: 2019-01-14
 
 + [vitae](https://blog.mitchelloharawild.com/blog/vitae/) - Automate your CV with vitae
 
-+ [AzureR packages now on CRAN](https://blog.revolutionanalytics.com/2019/01/azurer-packages-now-on-cran.html) 
++ [AzureR packages now on CRAN](https://blog.revolutionanalytics.com/2019/01/azurer-packages-now-on-cran.html)
 
 + [wdpar: Interface to the World Database on Protected Areas](https://cran.r-project.org/web/packages/wdpar/index.html)
 
-+ [tor: Import Multiple Files From a Single Directory at Once](https://cran.r-project.org/web/packages/wdpar/index.html) 
++ [tor: Import Multiple Files From a Single Directory at Once](https://cran.r-project.org/web/packages/wdpar/index.html)
 
 
 **GitHub or Bitbucket**
@@ -68,6 +74,9 @@ Release Date: 2019-01-14
 + [leafgl — An R package for fast web gl rendering of features on leaflet maps](https://github.com/r-spatial/leafgl)
 
 ![](https://raw.githubusercontent.com/r-spatial/leafgl/master/readme_figs/pts_blue.png)
+
++ [destatiscleanr](https://github.com/cutterkom/destatiscleanr) - Imports and cleans data from official German statistical offices to jump-start the data analysis
+
 
 
 ### Updated Packages
@@ -121,7 +130,7 @@ Release Date: 2019-01-14
 
 + [Map GOOGLE PHOTOS on google maps using leaflet.](https://dataplayground.netlify.com/blog/google-photos-mapping/)
 
-+ [gganimation for the nation](https://www.johnmackintosh.com/2019-01-06-gganimation-for-the-nation/) 
++ [gganimation for the nation](https://www.johnmackintosh.com/2019-01-06-gganimation-for-the-nation/)
 
 ![](https://www.johnmackintosh.com/img/newgganimate.gif)
 
@@ -131,7 +140,7 @@ Release Date: 2019-01-14
 
 + [Add a static pdf vignette to an R package](http://www.markvanderloo.eu/yaRb/2019/01/11/add-a-static-pdf-vignette-to-an-r-package/)
 
-+ [A Tip to Debug ggplot2](https://yutani.rbind.io/post/a-tip-to-debug-ggplot2/) 
++ [A Tip to Debug ggplot2](https://yutani.rbind.io/post/a-tip-to-debug-ggplot2/)
 
 + [Linguistic Signals of Album Quality: A Predictive Analysis of Pitchfork Review Scores Using Quanteda]
 
@@ -165,6 +174,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 + [Announcing the 1st Shiny Contest](https://blog.rstudio.com/2019/01/07/first-shiny-contest/)
 
++ [Women's Package Development Workshop](https://forwards.github.io/edu/chicago/) - by R-Ladies Chicago and Forwards: Curious about package development, but not sure where to start? This workshop is for you! Run by R-Ladies Chicago, the goal of this workshop is to empower you to start contributing back to the R ecosystem with package development. Applications are now open! Deadline: 1/15/19 for out-of-town attendees, 2/2/19 for Chicago-based attendees.
+
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
@@ -172,3 +183,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">‼️‼️ LOOK WHAT&#39;S COMING TO RAYSHADER! I took this video last night. Intrigued? Excited? Want to learn more? Be the first to preview the new features coming in the next few months to <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> at my RStudio::conf talk next week!<br><br>📅⏰ Thursday at 4:24 PM<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a> <a href="https://t.co/qFxcc77aKv">pic.twitter.com/qFxcc77aKv</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href="https://twitter.com/tylermorganwall/status/1083707650792189953?ref_src=twsrc%5Etfw">January 11, 2019</a></blockquote>
 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Procrastination achievement of late afternoon: automatically add letter labels before your facet labels in <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> for helping to make publication ready plots. Works with different numbers of facets automatically. Gist here: <a href="https://t.co/khPimunxpw">https://t.co/khPimunxpw</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/ECRchat?src=hash&amp;ref_src=twsrc%5Etfw">#ECRchat</a> <a href="https://t.co/aBGrMuiZvG">pic.twitter.com/aBGrMuiZvG</a></p>&mdash; Daniel Padfield (@padpadpadpad) <a href="https://twitter.com/padpadpadpad/status/1082686437793894400?ref_src=twsrc%5Etfw">January 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
