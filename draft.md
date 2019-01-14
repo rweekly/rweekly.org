@@ -38,6 +38,10 @@ Release Date: 2019-01-14
 
 + [Map GOOGLE PHOTOS on google maps using leaflet](https://dataplayground.netlify.com/blog/google-photos-mapping/)
 
++ [You did a sentiment analysis with tidytext but you forgot to do dependency parsing to answer WHY is something positive/negative](http://www.bnosac.be/index.php/blog/85-you-did-a-sentiment-analysis-with-tidytext-but-you-forgot-to-do-dependency-parsing-to-answer-why-is-something-positive-negative)
+
+![](http://www.bnosac.be/images/bnosac/blog/sentiment-and-dependency-parsing.png)
+
 ###  R in Organizations
 
 + [Alternative approaches to scaling Shiny with RStudio Shiny Server, ShinyProxy or custom architecture.](https://appsilon.com/alternatives-to-scaling-shiny/)
