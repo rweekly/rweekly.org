@@ -28,7 +28,7 @@ Release Date: 2019-01-14
 
 + [Making R code over 100 times faster: An example](https://ssds.stanford.edu/making-r-code-over-100-times-faster-example)
 
-+ [French Baccalaureate Results](https://nycdatascience.com/blog/r/french-baccalaureate-results/]
++ [French Baccalaureate Results](https://nycdatascience.com/blog/r/french-baccalaureate-results/)
 
 + [Exploring the hidden beauty of multiplication tables with R](https://solmos.netlify.com/post/2018-11-06-multiplication-table/multiplication-table-with-r/)
 
