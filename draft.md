@@ -67,7 +67,7 @@ Release Date: 2019-01-21
 
 ###  Tutorials
 
-
++ [it’s not the maths, it’s the code - how testing has changed my workflow](http://cantabile.rbind.io/posts/2019-01-05-its-not-not-the-math-its-the-code/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
