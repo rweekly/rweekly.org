@@ -51,6 +51,7 @@ Release Date: 2019-01-21
 
 ### Updated Packages
 
+* [future.apply](https://cran.r-project.org/package=future.apply) 1.1.0 - Apply Function to Elements in Parallel using Futures
 
 
 ###  Videos and Podcasts
