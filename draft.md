@@ -51,6 +51,7 @@ Release Date: 2019-01-21
 
 ### Updated Packages
 
+* [future.apply](https://cran.r-project.org/package=future.apply) 1.1.0 - Apply Function to Elements in Parallel using Futures
 
 
 ###  Videos and Podcasts
@@ -81,7 +82,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [satRday Paris - 23rd february](https://paris2019.satrdays.org/)
++ [satRday Paris - 23rd February](https://paris2019.satrdays.org/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
