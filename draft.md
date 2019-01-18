@@ -19,6 +19,7 @@ Release Date: 2019-01-21
 
 ### R in the Real World
 
++ [Some perspectives on Xochitl Torres Small's win in CD NM-02](https://www.jtimm.net/2019/01/17/xochitl-torres-small-win-2018/)
 
 
 ###  R in Organizations
