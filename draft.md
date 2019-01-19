@@ -21,6 +21,15 @@ Release Date: 2019-01-21
 
 + [Some perspectives on Xochitl Torres Small's win in CD NM-02](https://www.jtimm.net/2019/01/17/xochitl-torres-small-win-2018/)
 
++ [🖊 R Coding Style Guide](http://irudnyts.github.io//r-coding-style-guide/)
+
++ [Calibrating soccer odds using the caret package ](http://dm13450.github.io/2019/01/10/Odds-and-Winning.html)
+
++ [Text network analysis of Twitter data on the day of the Colombian peace agreement referendum (plebiscito).  ](https://juanitorduz.github.io/text-mining-networks-and-visualization-plebiscito-tweets/)
+
++ [Generate satellite imagery in R](https://appsilon.com/satellite-imagery-generation-with-gans/)
+
++ [Exploring the hidden beauty of multiplication tables with R](https://solmos.netlify.com/post/2018-11-06-multiplication-table/multiplication-table-with-r/)
 
 ###  R in Organizations
 
