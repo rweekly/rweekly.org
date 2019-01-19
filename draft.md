@@ -71,6 +71,10 @@ Release Date: 2019-01-21
 
 + [it’s not the maths, it’s the code - how testing has changed my workflow](http://cantabile.rbind.io/posts/2019-01-05-its-not-not-the-math-its-the-code/)
 
++ [Walkthrough on how to query and visualise OpenStreetMap data on interactive historical maps using osmdata, tidyverse packages and Leaflet.](https://mhermans.net/post/mapping-leuvense-gangen/)
+
++ [Which planet is closest to Earth?](https://flother.is/2019/which-planet-is-closest-to-earth/)
+
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
 
