@@ -19,14 +19,17 @@ Release Date: 2019-01-21
 
 + [The Tentpoles of Data Science](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
 
-+ [RStudio::conf 2019 - The Unreasonable Effectiveness of Public Work](https://www.dropbox.com/s/jk7216yr30ztpdp/DavidRobinson-RStudio-2019.pdf?dl=0)
++ [The Unreasonable Effectiveness of Public Work](https://www.dropbox.com/s/jk7216yr30ztpdp/DavidRobinson-RStudio-2019.pdf?dl=0)
 
 ![](https://i.imgur.com/5eRwbiI.png)
 
 + [A guide to making your data analysis more reproducible](http://inundata.org/talks/rstd19/#/)
 
-+ [RStudio::conf 2019 - Our Colour of Magic: The open sourcery of fantastic R packages](https://docs.google.com/presentation/d/1iUz3A_xHIzeFIzOQ_JQLdGPbC82qcDEDSqvjIBiP1a8/edit#slide=id.p)
++ [Our Colour of Magic: The open sourcery of fantastic R packages](https://docs.google.com/presentation/d/1iUz3A_xHIzeFIzOQ_JQLdGPbC82qcDEDSqvjIBiP1a8/edit#slide=id.p)
 
++ [Visualizing uncertainty with hypothetical outcome plots (HOPs)](https://docs.google.com/presentation/d/1zMuBSADaxdFnosOPWJNA10DaxGEheW6gDxqEPYAuado/edit#slide=id.p1)
+
++ [it depends: a dialog about dependencies](https://speakerdeck.com/jimhester/it-depends)
 
 + [FEELING THE RSTUDIO::CONF ❤️](https://juliasilge.com/blog/rstudio-conf-2019/)
 
@@ -44,31 +47,33 @@ Release Date: 2019-01-21
 
 + [Exploring the hidden beauty of multiplication tables with R](https://solmos.netlify.com/post/2018-11-06-multiplication-table/multiplication-table-with-r/)
 
-+ [RStudio::conf 2019 - Using R to Analyze Economic and Housing Market Trends](http://lenkiefer.com/2019/01/15/rstudioconf-poster/)
++ [Using R to Analyze Economic and Housing Market Trends](http://lenkiefer.com/2019/01/15/rstudioconf-poster/)
 
 + [An Introduction to Docker for R Users](https://colinfay.me/docker-r-reproducibility/)
 
 ###  R in Organizations
 
-+ [RStudio::conf 2019 - Push straight to prod: API development with R and Tensorflow at T-Mobile](https://nolisllc.com/assets/presentations/r-tensorflow-api.pdf)
++ [Push straight to prod: API development with R and Tensorflow at T-Mobile](https://nolisllc.com/assets/presentations/r-tensorflow-api.pdf)
 
-+ [RStudio::conf 2019 - Empowering a data team with RStudio addins](http://bit.ly/rstudioaddin19)
++ [Empowering a data team with RStudio addins](http://bit.ly/rstudioaddin19)
 
-+ [RStudio::conf 2019 - Data science as a team sport](https://github.com/angelabassa/rstudioconf-2019)
++ [Data science as a team sport](https://github.com/angelabassa/rstudioconf-2019)
 
-+ [RStudio::conf 2019 - Cultivating creativity in data work](https://www.slideshare.net/mobile/hilaryparker/rstudioconf2019l)
++ [Cultivating creativity in data work](https://www.slideshare.net/mobile/hilaryparker/rstudioconf2019l)
 
-+ [RStudio::conf 2019 - Putting empathy in action: Building a `community of practice' for analytics in a global corporation](https://cerebralmastication.com/prez/rstudio_conf_2019_main.html)
++ [Putting empathy in action: Building a `community of practice' for analytics in a global corporation](https://cerebralmastication.com/prez/rstudio_conf_2019_main.html)
+
++ [Building an A/B Testing Analytics system with R and Shiny!](https://www.slideshare.net/secret/Ba52FYuH2FoWE)
 
 ###  R in Academia
 
-+ [RStudio::conf 2019 - Teaching data science with puzzles](https://github.com/isteves/ds-puzzles)
++ [Teaching data science with puzzles](https://github.com/isteves/ds-puzzles)
 
-+ [RStudio::conf 2019 - Introductory statistics with R: Easing the transition to software for beginner students](http://calpoly.edu/~kbodwin/RStudio_2019.html)
++ [Introductory statistics with R: Easing the transition to software for beginner students](http://calpoly.edu/~kbodwin/RStudio_2019.html)
 
-+ [RStudio::conf 2019 - Teaching R using inclusive pedagogy: Practices and lessons learned from over 700 Carpentries workshops](https://docs.google.com/presentation/d/1yZTOcm0hO3sq8nz24luNoxL2Tk4IWfwoeYSXa09-zB8/edit#slide=id.g4d9835a148_0_218)
++ [Teaching R using inclusive pedagogy: Practices and lessons learned from over 700 Carpentries workshops](https://docs.google.com/presentation/d/1yZTOcm0hO3sq8nz24luNoxL2Tk4IWfwoeYSXa09-zB8/edit#slide=id.g4d9835a148_0_218)
 
-+ [RStudio::conf 2019 - The next million R users](https://github.com/rstudio/learning-r-survey/blob/master/slides/Next-Million-R-Users.pdf)
++ [The next million R users](https://github.com/rstudio/learning-r-survey/blob/master/slides/Next-Million-R-Users.pdf)
 
 
 ###  Resources
@@ -138,6 +143,10 @@ Release Date: 2019-01-21
 
 + [Going Off the Map: Exploring purrr's Other Functions](https://hookedondata.org/going-off-the-map/)
 
++ [Box plots: a case study in debugging and perseverance](https://github.com/karawoo/2019-01-17-rstudioconf/blob/master/woo_rstudioconf_2019.pdf)
+
++ [Working with Categorical Data in R without Losing your Mind](http://www.amelia.mn/WranglingCats.pdf)
+
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
 
@@ -180,3 +189,10 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Haven&#39;t seen this <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> mission before:<br><br>Equip everyone, regardless of means, to participate in a global economy that rewards data literacy.<a href="https://twitter.com/cdhowe?ref_src=twsrc%5Etfw">@cdhowe</a> talking about this big goal. <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a> <a href="https://t.co/7QkqQQWYrP">pic.twitter.com/7QkqQQWYrP</a></p>&mdash; Amelia McNamara (@AmeliaMN) <a href="https://twitter.com/AmeliaMN/status/1086350680313470977?ref_src=twsrc%5Etfw">January 18, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> president <a href="https://twitter.com/tareefk?ref_src=twsrc%5Etfw">@tareefk</a> waxing poetic about open source, reproducibility, and the Prime Directive. <a href="https://twitter.com/hashtag/RStudioConf?src=hash&amp;ref_src=twsrc%5Etfw">#RStudioConf</a> <a href="https://t.co/oiRIQiajwq">pic.twitter.com/oiRIQiajwq</a></p>&mdash; Brooke Watson (@brookLYNevery1) <a href="https://twitter.com/brookLYNevery1/status/1085924976925032448?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
