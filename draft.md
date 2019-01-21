@@ -17,6 +17,19 @@ Release Date: 2019-01-21
 
 ![](http://www.bnosac.be/images/bnosac/blog/sentiment-and-dependency-parsing.png)
 
++ [The Tentpoles of Data Science](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
+
++ [RStudio::conf 2019 - The Unreasonable Effectiveness of Public Work](https://www.dropbox.com/s/jk7216yr30ztpdp/DavidRobinson-RStudio-2019.pdf?dl=0)
+
+![](https://i.imgur.com/5eRwbiI.png)
+
++ [A guide to making your data analysis more reproducible](http://inundata.org/talks/rstd19/#/)
+
++ [RStudio::conf 2019 - Our Colour of Magic: The open sourcery of fantastic R packages](https://docs.google.com/presentation/d/1iUz3A_xHIzeFIzOQ_JQLdGPbC82qcDEDSqvjIBiP1a8/edit#slide=id.p)
+
+
++ [FEELING THE RSTUDIO::CONF ❤️](https://juliasilge.com/blog/rstudio-conf-2019/)
+
 ### R in the Real World
 
 + [Some perspectives on Xochitl Torres Small's win in CD NM-02](https://www.jtimm.net/2019/01/17/xochitl-torres-small-win-2018/)
@@ -31,16 +44,38 @@ Release Date: 2019-01-21
 
 + [Exploring the hidden beauty of multiplication tables with R](https://solmos.netlify.com/post/2018-11-06-multiplication-table/multiplication-table-with-r/)
 
++ [RStudio::conf 2019 - Using R to Analyze Economic and Housing Market Trends](http://lenkiefer.com/2019/01/15/rstudioconf-poster/)
+
++ [An Introduction to Docker for R Users](https://colinfay.me/docker-r-reproducibility/)
+
 ###  R in Organizations
 
++ [RStudio::conf 2019 - Push straight to prod: API development with R and Tensorflow at T-Mobile](https://nolisllc.com/assets/presentations/r-tensorflow-api.pdf)
 
++ [RStudio::conf 2019 - Empowering a data team with RStudio addins](http://bit.ly/rstudioaddin19)
+
++ [RStudio::conf 2019 - Data science as a team sport](https://github.com/angelabassa/rstudioconf-2019)
+
++ [RStudio::conf 2019 - Cultivating creativity in data work](https://www.slideshare.net/mobile/hilaryparker/rstudioconf2019l)
+
++ [RStudio::conf 2019 - Putting empathy in action: Building a `community of practice' for analytics in a global corporation](https://cerebralmastication.com/prez/rstudio_conf_2019_main.html)
 
 ###  R in Academia
 
++ [RStudio::conf 2019 - Teaching data science with puzzles](https://github.com/isteves/ds-puzzles)
+
++ [RStudio::conf 2019 - Introductory statistics with R: Easing the transition to software for beginner students](http://calpoly.edu/~kbodwin/RStudio_2019.html)
+
++ [RStudio::conf 2019 - Teaching R using inclusive pedagogy: Practices and lessons learned from over 700 Carpentries workshops](https://docs.google.com/presentation/d/1yZTOcm0hO3sq8nz24luNoxL2Tk4IWfwoeYSXa09-zB8/edit#slide=id.g4d9835a148_0_218)
+
++ [RStudio::conf 2019 - The next million R users](https://github.com/rstudio/learning-r-survey/blob/master/slides/Next-Million-R-Users.pdf)
 
 
 ###  Resources
-
+* [RStudio Conf 2019 Slides - Karl Broman](https://github.com/kbroman/RStudioConf2019Slides)
+  - Contains workshop materials and presentation slides for RStudio Conf
+  
+  
 
 
 ###  New Packages
@@ -48,6 +83,11 @@ Release Date: 2019-01-21
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
+* [testextra](https://CRAN.R-project.org/package=testextra)
+
+* [foto](https://github.com/khufkens/foto)
+
+* [ggdark](https://cran.r-project.org/web/packages/ggdark/index.html)
 
 
 
@@ -56,21 +96,39 @@ Release Date: 2019-01-21
 
 
 **GitHub or Bitbucket**
+* [Sydney xaringan theme](https://github.com/garthtarr/sydney_xaringan): A new theme for xaringan
 
+* [itdepends](https://github.com/jimhester/itdepends): Weigh a package based on it's number of dependencies, time to install and other factors.
 
+* [pkg](https://github.com/r-lib/pkg): previously pkgman
+
+* [https://github.com/samhforbes/PupillometryR](https://github.com/samhforbes/PupillometryR) An R package for preparing and analysing pupillometry data
 
 ### Updated Packages
 
 * [future.apply](https://cran.r-project.org/package=future.apply) 1.1.0 - Apply Function to Elements in Parallel using Futures
 
+* [forecast](https://cran.r-project.org/web/packages/forecast/index.html)
 
-###  Videos and Podcasts
+* [openssl](https://cran.r-project.org/web/packages/openssl/index.html)
 
+* [diffobj](https://github.com/brodieG/diffobj)
 
+* [memor](https://cran.r-project.org/web/packages/memor/index.html)
 
-### Gist & Cookbook
+* [kableExtra](https://cran.r-project.org/web/packages/kableExtra/index.html)
 
+* [pdftools](https://cran.r-project.org/web/packages/pdfrools/index.html)
 
+* [particles](https://cran.r-project.org/web/packages/particles/index.html)
+
+* [rcrossref](https://cran.r-project.org/web/packages/rcrossref/index.html)
+
+* [colorspace](https://cran.r-project.org/web/packages/colorspace/index.html)
+
+* [data.table](https://cran.r-project.org/web/packages/data.table/index.html)
+
+* [babynames](https://cran.r-project.org/web/packages/babynames/index.html)
 
 ### R Internationally
 
@@ -83,6 +141,10 @@ Release Date: 2019-01-21
 + [Walkthrough on how to query and visualise OpenStreetMap data on interactive historical maps using osmdata, tidyverse packages and Leaflet.](https://mhermans.net/post/mapping-leuvense-gangen/)
 
 + [Which planet is closest to Earth?](https://flother.is/2019/which-planet-is-closest-to-earth/)
+
++ [Create R Markdown reports and presentations even better with these 3 practical tips](https://jozefhajnala.gitlab.io/r/r909-rmarkdown-tips/)
+
++ [Going Off the Map: Exploring purrr's Other Functions](https://hookedondata.org/going-off-the-map/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
@@ -102,6 +164,8 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
++ [Boston UseR Meetup](https://www.meetup.com/Boston-useR/events/257897151/)
+
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
@@ -111,6 +175,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
+* [MetaLab - Stanford University](https://docs.google.com/document/d/1jlYl13DgiSVF4E3LyQ-m7fHEV2s8elMnGojbXsRSsV8/edit)
 
 
 
