@@ -72,7 +72,7 @@ Release Date: 2019-01-21
 
 
 ###  Resources
-* [RStudio Conf 2019 Slides - Karl Broman](https://github.com/kbroman/RStudioConf2019Slides)
++ [RStudio Conf 2019 Slides - Karl Broman](https://github.com/kbroman/RStudioConf2019Slides)
   - Contains workshop materials and presentation slides for RStudio Conf
   
   
@@ -83,47 +83,47 @@ Release Date: 2019-01-21
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
-* [testextra](https://CRAN.R-project.org/package=testextra)
++ [testextra](https://CRAN.R-project.org/package=testextra)
 
-* [foto](https://github.com/khufkens/foto)
++ [foto](https://github.com/khufkens/foto)
 
-* [ggdark](https://cran.r-project.org/web/packages/ggdark/index.html)
++ [ggdark](https://cran.r-project.org/web/packages/ggdark/index.html)
 
 
 **GitHub or Bitbucket**
-* [Sydney xaringan theme](https://github.com/garthtarr/sydney_xaringan): A new theme for xaringan
++ [Sydney xaringan theme](https://github.com/garthtarr/sydney_xaringan): A new theme for xaringan
 
-* [itdepends](https://github.com/jimhester/itdepends): Weigh a package based on it's number of dependencies, time to install and other factors.
++ [itdepends](https://github.com/jimhester/itdepends): Weigh a package based on it's number of dependencies, time to install and other factors.
 
-* [pkg](https://github.com/r-lib/pkg): previously pkgman
++ [pkg](https://github.com/r-lib/pkg): previously pkgman
 
-* [https://github.com/samhforbes/PupillometryR](https://github.com/samhforbes/PupillometryR) An R package for preparing and analysing pupillometry data
++ [https://github.com/samhforbes/PupillometryR](https://github.com/samhforbes/PupillometryR) An R package for preparing and analysing pupillometry data
 
 ### Updated Packages
 
-* [future.apply](https://cran.r-project.org/package=future.apply) 1.1.0 - Apply Function to Elements in Parallel using Futures
++ [future.apply](https://cran.r-project.org/package=future.apply) 1.1.0 - Apply Function to Elements in Parallel using Futures
 
-* [forecast](https://cran.r-project.org/web/packages/forecast/index.html)
++ [forecast](https://cran.r-project.org/web/packages/forecast/index.html)
 
-* [openssl](https://cran.r-project.org/web/packages/openssl/index.html)
++ [openssl](https://cran.r-project.org/web/packages/openssl/index.html)
 
-* [diffobj](https://github.com/brodieG/diffobj)
++ [diffobj](https://github.com/brodieG/diffobj)
 
-* [memor](https://cran.r-project.org/web/packages/memor/index.html)
++ [memor](https://cran.r-project.org/web/packages/memor/index.html)
 
-* [kableExtra](https://cran.r-project.org/web/packages/kableExtra/index.html)
++ [kableExtra](https://cran.r-project.org/web/packages/kableExtra/index.html)
 
-* [pdftools](https://cran.r-project.org/web/packages/pdfrools/index.html)
++ [pdftools](https://cran.r-project.org/web/packages/pdfrools/index.html)
 
-* [particles](https://cran.r-project.org/web/packages/particles/index.html)
++ [particles](https://cran.r-project.org/web/packages/particles/index.html)
 
-* [rcrossref](https://cran.r-project.org/web/packages/rcrossref/index.html)
++ [rcrossref](https://cran.r-project.org/web/packages/rcrossref/index.html)
 
-* [colorspace](https://cran.r-project.org/web/packages/colorspace/index.html)
++ [colorspace](https://cran.r-project.org/web/packages/colorspace/index.html)
 
-* [data.table](https://cran.r-project.org/web/packages/data.table/index.html)
++ [data.table](https://cran.r-project.org/web/packages/data.table/index.html)
 
-* [babynames](https://cran.r-project.org/web/packages/babynames/index.html)
++ [babynames](https://cran.r-project.org/web/packages/babynames/index.html)
 
 
 ###  Tutorials
@@ -167,7 +167,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-* [MetaLab - Stanford University](https://docs.google.com/document/d/1jlYl13DgiSVF4E3LyQ-m7fHEV2s8elMnGojbXsRSsV8/edit)
++ [MetaLab - Stanford University](https://docs.google.com/document/d/1jlYl13DgiSVF4E3LyQ-m7fHEV2s8elMnGojbXsRSsV8/edit)
 
 
 
