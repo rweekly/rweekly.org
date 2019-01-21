@@ -31,6 +31,8 @@ Release Date: 2019-01-21
 
 + [it depends: a dialog about dependencies](https://speakerdeck.com/jimhester/it-depends)
 
+
+
 + [FEELING THE RSTUDIO::CONF ❤️](https://juliasilge.com/blog/rstudio-conf-2019/)
 
 ### R in the Real World
@@ -147,6 +149,8 @@ Release Date: 2019-01-21
 
 + [Working with Categorical Data in R without Losing your Mind](http://www.amelia.mn/WranglingCats.pdf)
 
++ [Effective use of Shiny modules](https://rpodcast.github.io/rsconf-2019/#1)
+
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
 
@@ -168,10 +172,6 @@ Events in 3 Months:
 + [Boston UseR Meetup](https://www.meetup.com/Boston-useR/events/257897151/)
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
-
-### Datasets
-
-
 
 
 ### Jobs
