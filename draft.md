@@ -90,11 +90,6 @@ Release Date: 2019-01-21
 * [ggdark](https://cran.r-project.org/web/packages/ggdark/index.html)
 
 
-
-**BioC**
-
-
-
 **GitHub or Bitbucket**
 * [Sydney xaringan theme](https://github.com/garthtarr/sydney_xaringan): A new theme for xaringan
 
@@ -129,9 +124,6 @@ Release Date: 2019-01-21
 * [data.table](https://cran.r-project.org/web/packages/data.table/index.html)
 
 * [babynames](https://cran.r-project.org/web/packages/babynames/index.html)
-
-### R Internationally
-
 
 
 ###  Tutorials
