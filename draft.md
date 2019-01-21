@@ -29,6 +29,8 @@ Release Date: 2019-01-28
 
 ###  Resources
 
++ [R Studio Conf 2019 - Easing your FOMO with R Resources](https://www.littlemissdata.com/blog/rstudioconf2019)
+
 
 
 ###  New Packages
