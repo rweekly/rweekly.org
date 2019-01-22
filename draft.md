@@ -51,7 +51,7 @@ Release Date: 2019-01-28
 
 ### Updated Packages
 
-
+* [future](https://cran.r-project.org/package=future) 1.11.0 - Unified Parallel and Distributed Processing in R for Everyone
 
 
 ###  Videos and Podcasts
