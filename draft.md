@@ -53,6 +53,9 @@ Release Date: 2019-01-28
 
 * [future](https://cran.r-project.org/package=future) 1.11.0 - Unified Parallel and Distributed Processing in R for Everyone
 
+* [getTBinR](https://www.samabbott.co.uk/post/gettbinr-5-7/) - Get WHO Tuberculosis Data (now with country TB level reports).
+
+![Render a Country Specific Tuberculosis Report](https://www.samabbott.co.uk/img/getTBinR/release-5-7.png)
 
 ###  Videos and Podcasts
 
