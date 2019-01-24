@@ -59,7 +59,7 @@ Release Date: 2019-01-28
 
 ###  Videos and Podcasts
 
-
+* [R-Podcast episode 26: The podcast trifecta](https://r-podcast.org/26): In this special episode, Eric is joined by podcast hosts Hilary Parker ([Not So Standard Deviations](http://nssdeviations.com/)) and Nick Tierney ([Credibly Curious](https://soundcloud.com/crediblycurious)) to discuss their impressions of `rstudio::conf` 2019 and thoughts on the future of R.  Plus Eric shares his insights from the excellent Advanced R Markdown workshop.
 
 ### Gist & Cookbook
 
