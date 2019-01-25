@@ -12,8 +12,8 @@ Release Date: 2019-01-28
 
 
 ### Insights
-
-
++ [My Tidyverse Developers Day and RStudio::Conf Reflections!](https://ryo-n7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/)
+<img src = "https://i.imgur.com/YSND5RZ.jpg" height = "200" />
 
 ### R in the Real World
 
@@ -71,7 +71,9 @@ Release Date: 2019-01-28
 
 ###  Tutorials
 
++ [gather() and spread() explained by gt](https://yutani.rbind.io/post/gather-and-spread-explained-by-gt/)
 
++ [Climate change: Modeling 140+ years of temperature data with tsibble and fable](http://rethinking.rbind.io/2019/01/21/140-years/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
