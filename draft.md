@@ -12,15 +12,46 @@ Release Date: 2019-01-28
 
 
 ### Insights
+
++ [rstudio::conf 2019 Videos](https://resources.rstudio.com/rstudio-conf-2019)
+
++ [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/)
+
++ [Back from rstudio::conf 2019](https://yihui.name/en/2019/01/rstudio-conf/)
+
++ [R Conference Costs v2.0](https://www.jumpingrivers.com/blog/r-conference-costs-v2-0/)
+
+
++ [satRdays Newcastle 2019 Conference is Here!](https://www.jumpingrivers.com/blog/satrdays-newcastle-2019-conference/)
+
+
++ [Feeling the rstudio::conf ❤️](https://juliasilge.com/blog/rstudio-conf-2019/)
+
++ [RSTUDIO::CONF 2019 roundup](https://www.mango-solutions.com/blog/rstudioconf-2019)
+
 + [My Tidyverse Developers Day and RStudio::Conf Reflections!](https://ryo-n7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/)
+
 <img src = "https://i.imgur.com/YSND5RZ.jpg" height = "200" />
+
 
 ### R in the Real World
 
++ [Calibrating soccer odds using the caret package ](http://dm13450.github.io/2019/01/10/Odds-and-Winning.html)
 
++ [Text network analysis of Twitter data on the day of the Colombian peace agreement referendum (plebiscito).  ](https://juanitorduz.github.io/text-mining-networks-and-visualization-plebiscito-tweets/)
+
++ [Which planet is closest to Earth?](https://flother.is/2019/which-planet-is-closest-to-earth/)
+
++ [Walkthrough on how to query and visualise OpenStreetMap data on interactive historical maps using osmdata, tidyverse packages and Leaflet.](https://mhermans.net/post/mapping-leuvense-gangen/)
+
++ [In thy foul throat thou liest--Playing BS without Lying](http://daranzolin.github.io/2019-01-19-bs-simulation/)
+
++ [R Studio Conf 2019 - Easing your FOMO with R Resources](https://www.littlemissdata.com/blog/rstudioconf2019)
 
 ###  R in Organizations
 
+
++ [Summer Internships 2019](https://blog.rstudio.com/2019/01/18/summer-internships-2019/)
 
 
 ###  R in Academia
@@ -47,6 +78,9 @@ Release Date: 2019-01-28
 
 **GitHub or Bitbucket**
 
++ [stringfix](https://guillaumepressiat.github.io//blog/2019/01/stringfix) - string manipulation in a %>% way
+
++ [isoband](https://github.com/clauswilke/isoband) - R package to generate contour lines and polygons
 
 
 ### Updated Packages
@@ -57,9 +91,12 @@ Release Date: 2019-01-28
 
 ![Render a country specific Tuberculosis report](https://www.samabbott.co.uk/img/getTBinR/release-5-7.png)
 
+
++ [hrbrthemes 0.6.0 on CRAN + Other In-Development Package News](https://rud.is/b/2019/01/21/hrbrthemes-0-6-0-on-cran-other-in-development-package-news/)
+
 ###  Videos and Podcasts
 
-* [R-Podcast episode 26: The podcast trifecta](https://r-podcast.org/26): In this special episode, Eric is joined by podcast hosts Hilary Parker ([Not So Standard Deviations](http://nssdeviations.com/)) and Nick Tierney ([Credibly Curious](https://soundcloud.com/crediblycurious)) to discuss their impressions of `rstudio::conf` 2019 and thoughts on the future of R.  Plus Eric shares his insights from the excellent Advanced R Markdown workshop.
++ [R-Podcast episode 26: The podcast trifecta](https://r-podcast.org/26): In this special episode, Eric is joined by podcast hosts Hilary Parker ([Not So Standard Deviations](http://nssdeviations.com/)) and Nick Tierney ([Credibly Curious](https://soundcloud.com/crediblycurious)) to discuss their impressions of `rstudio::conf` 2019 and thoughts on the future of R.  Plus Eric shares his insights from the excellent Advanced R Markdown workshop.
 
 ### Gist & Cookbook
 
@@ -71,9 +108,65 @@ Release Date: 2019-01-28
 
 ###  Tutorials
 
+
++ [Quick Hit: Automating Production Graphics Uploads in R Markdown Documents with googledrive](https://rud.is/b/2019/01/24/quick-hit-automating-production-graphics-uploads-in-r-markdown-documents-with-googledrive/)
+
+
 + [gather() and spread() explained by gt](https://yutani.rbind.io/post/gather-and-spread-explained-by-gt/)
 
 + [Climate change: Modeling 140+ years of temperature data with tsibble and fable](http://rethinking.rbind.io/2019/01/21/140-years/)
+
+
++ [An article on Generative Adversarial Networks (GANs) and how to use them to generate satellite imagery in R. #rstats #DeepLearning #machinelearning #satellite](https://appsilon.com/satellite-imagery-generation-with-gans/)
+
++ [Exploring the hidden beauty of multiplication tables with R](https://solmos.netlify.com/post/2018-11-06-multiplication-table/multiplication-table-with-r/)
+
++ [ggstraw::geom_straw() is a custom ggplot2 geom for showing deviations from expected values, e.g. actual vs scheduled departure times.](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-25-a-custom-ggplot2-geom-for-deviations/)
+
+
++ [Create R Markdown reports and presentations even better with these 3 practical tips](https://jozefhajnala.gitlab.io/r/r909-rmarkdown-tips/)
+
++ [Fully General Record Transforms with cdata](http://www.win-vector.com/blog/2019/01/fully-general-record-transforms-with-cdata/)
+
+
+
++ [GeoPAT2: Entropy calculations for local landscapes](https://nowosad.github.io/post/geopat-2-ent/)
+
+
++ [wateRinfo - Downloading tidal data to understand the behaviour of a migrating eel](https://ropensci.org/blog/2019/01/22/waterinfo-tidal-eel/)
+
++ [Correlated longitudinal data with varying time intervals](https://www.rdatagen.net/post/correlated-longitudinal-data-with-varying-time-intervals/)
+
++ [Tibbles, checking examples, & character encodings](https://www.fromthebottomoftheheap.net/2019/01/22/using-tibbles-and-example-checking/)
+
++ [RStudio Server on Azure](https://blog.revolutionanalytics.com/2019/01/rstudio-server-on-azure.html)
+
++ [How to prepare data for NLP (text classification) with Keras and TensorFlow](https://shirinsplayground.netlify.com/2019/01/text_classification_keras_data_prep/)
+
+
++ [more concentration, everywhere](https://xianblog.wordpress.com/2019/01/25/more-concentration-everywhere/)
+
++ [My #TidyverseDevDay and #RStudioConf 2019 Reflections!](http://Ryo-N7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/)
+
+
++ [Docker Images for R: r-base versus r-apt](https://datawookie.netlify.com/blog/2019/01/docker-images-for-r-r-base-versus-r-apt/)
+
+
++ [Using Word Similarity Graphs to Explore Themes in Text: A Tutorial](https://www.markhw.com/blog/word-similarity-graphs)
+
++ [Factor Analysis in R with Psych Package: Measuring Consumer Involvement](https://lucidmanager.org/measuring-consumer-involvement/)
+
++ [GEOPAT2: ENTROPY CALCULATIONS FOR LOCAL LANDSCAPES](https://nowosad.github.io/post/geopat-2-ent/)
+
++ [Data exploration with alluvial plots - An introduction to easyalluvial](https://www.datisticsblog.com/2018/10/intro_easyalluvial/)
+
++ [Right Now It’s KDA…Asset Allocation.](https://quantstrattrader.wordpress.com/2019/01/24/right-now-its-kda-asset-allocation/)
+
++ [Quick Hit: Automating Production Graphics Uploads in R Markdown Documents with googledrive](https://rud.is/b/2019/01/24/quick-hit-automating-production-graphics-uploads-in-r-markdown-documents-with-googledrive/)
+
++ [What’s the deal with wind chill?](http://www.decisionsciencenews.com/2019/01/22/whats-the-deal-with-wind-chill/)
+
++ [wateRinfo - Downloading tidal data to understand the behaviour of a migrating eel](https://ropensci.org/blog/2019/01/22/waterinfo-tidal-eel/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
@@ -112,3 +205,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Streaming arduino sensor signals right into <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a>! I wonder if there is really anything <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> can’t do 😎😎😎 <a href="https://t.co/nT6q6TT6xc">pic.twitter.com/nT6q6TT6xc</a></p>&mdash; Hao Zhu (@haozhu233) <a href="https://twitter.com/haozhu233/status/1088851449096880128?ref_src=twsrc%5Etfw">January 25, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My daughter wants to be <a href="https://twitter.com/RLadiesGlobal?ref_src=twsrc%5Etfw">@RLadiesGlobal</a>. She’s 9. Tonight we made mermaid tail scales. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/TBGLtV41sL">pic.twitter.com/TBGLtV41sL</a></p>&mdash; Jeremy Allen (@jeremy_data) <a href="https://twitter.com/jeremy_data/status/1088254525197103104?ref_src=twsrc%5Etfw">January 24, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
