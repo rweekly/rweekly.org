@@ -9,44 +9,59 @@ Release Date: 2019-01-28
 
 ###  Highlight
 
-
-
-### Insights
-
 + [rstudio::conf 2019 Videos](https://resources.rstudio.com/rstudio-conf-2019)
 
 + [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/)
+
++ [R-Podcast episode 26: The podcast trifecta](https://r-podcast.org/26) - Eric is joined by podcast hosts Hilary Parker and Nick Tierney to discuss their impressions of `rstudio::conf` 2019 and thoughts on the future of R.  Plus Eric shares his insights from the excellent Advanced R Markdown workshop.
+
+### Insights
+
++ [Quick Hit: Automating Production Graphics Uploads in R Markdown Documents with googledrive](https://rud.is/b/2019/01/24/quick-hit-automating-production-graphics-uploads-in-r-markdown-documents-with-googledrive/)
 
 + [Back from rstudio::conf 2019](https://yihui.name/en/2019/01/rstudio-conf/)
 
 + [R Conference Costs v2.0](https://www.jumpingrivers.com/blog/r-conference-costs-v2-0/)
 
+![R Conference Costs v2.0](https://raw.githubusercontent.com/rweekly/image/master/2019/conference_costs.jpg)
 
 + [satRdays Newcastle 2019 Conference is Here!](https://www.jumpingrivers.com/blog/satrdays-newcastle-2019-conference/)
 
 
 + [Feeling the rstudio::conf ❤️](https://juliasilge.com/blog/rstudio-conf-2019/)
 
-+ [RSTUDIO::CONF 2019 roundup](https://www.mango-solutions.com/blog/rstudioconf-2019)
++ [rstudio::conf 2019 roundup](https://www.mango-solutions.com/blog/rstudioconf-2019)
 
 + [My Tidyverse Developers Day and RStudio::Conf Reflections!](https://ryo-n7.github.io/2019-01-25-tidyversedevday-rstudioconf-reflections/)
 
 <img src = "https://i.imgur.com/YSND5RZ.jpg" height = "200" />
 
 
++ [rstudio::conf 2019 Videos](https://resources.rstudio.com/rstudio-conf-2019)
+
++ [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/)
+
 ### R in the Real World
+
+
++ [Which planet is closest to Earth?](https://flother.is/2019/which-planet-is-closest-to-earth/)
+
+![Which planet is closest to Earth?](https://raw.githubusercontent.com/rweekly/image/master/2019/mercury-venus-mars_hu71ea7f907329fb627f401ee3f34bdd2c_184862_1216x0_resize_lanczos_2.png)
 
 + [Calibrating soccer odds using the caret package ](http://dm13450.github.io/2019/01/10/Odds-and-Winning.html)
 
 + [Text network analysis of Twitter data on the day of the Colombian peace agreement referendum (plebiscito).  ](https://juanitorduz.github.io/text-mining-networks-and-visualization-plebiscito-tweets/)
-
-+ [Which planet is closest to Earth?](https://flother.is/2019/which-planet-is-closest-to-earth/)
 
 + [Walkthrough on how to query and visualise OpenStreetMap data on interactive historical maps using osmdata, tidyverse packages and Leaflet.](https://mhermans.net/post/mapping-leuvense-gangen/)
 
 + [In thy foul throat thou liest--Playing BS without Lying](http://daranzolin.github.io/2019-01-19-bs-simulation/)
 
 + [R Studio Conf 2019 - Easing your FOMO with R Resources](https://www.littlemissdata.com/blog/rstudioconf2019)
+
+
++ [Climate change: Modeling 140+ years of temperature data with tsibble and fable](http://rethinking.rbind.io/2019/01/21/140-years/)
+
+![Climate change: Modeling 140+ years of temperature data with tsibble and fable](https://raw.githubusercontent.com/rweekly/image/master/2019/fable2-1-140-year.png)
 
 ###  R in Organizations
 
@@ -109,20 +124,19 @@ Release Date: 2019-01-28
 ###  Tutorials
 
 
-+ [Quick Hit: Automating Production Graphics Uploads in R Markdown Documents with googledrive](https://rud.is/b/2019/01/24/quick-hit-automating-production-graphics-uploads-in-r-markdown-documents-with-googledrive/)
-
-
 + [gather() and spread() explained by gt](https://yutani.rbind.io/post/gather-and-spread-explained-by-gt/)
-
-+ [Climate change: Modeling 140+ years of temperature data with tsibble and fable](http://rethinking.rbind.io/2019/01/21/140-years/)
 
 
 + [An article on Generative Adversarial Networks (GANs) and how to use them to generate satellite imagery in R. #rstats #DeepLearning #machinelearning #satellite](https://appsilon.com/satellite-imagery-generation-with-gans/)
 
 + [Exploring the hidden beauty of multiplication tables with R](https://solmos.netlify.com/post/2018-11-06-multiplication-table/multiplication-table-with-r/)
 
+![Exploring the hidden beauty of multiplication table](https://raw.githubusercontent.com/rweekly/image/master/2019/multiple_tables.png)
+
+
 + [ggstraw::geom_straw() is a custom ggplot2 geom for showing deviations from expected values, e.g. actual vs scheduled departure times.](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-25-a-custom-ggplot2-geom-for-deviations/)
 
+![ggstraw::geom_straw() is a custom ggplot2 geom for showing deviations](https://raw.githubusercontent.com/rweekly/image/master/2019/timetable-plot-ggplot2.png)
 
 + [Create R Markdown reports and presentations even better with these 3 practical tips](https://jozefhajnala.gitlab.io/r/r909-rmarkdown-tips/)
 
@@ -132,8 +146,11 @@ Release Date: 2019-01-28
 
 + [GeoPAT2: Entropy calculations for local landscapes](https://nowosad.github.io/post/geopat-2-ent/)
 
+![GeoPAT2: Entropy calculations](https://raw.githubusercontent.com/rweekly/image/master/2019/geopat.png)
 
 + [wateRinfo - Downloading tidal data to understand the behaviour of a migrating eel](https://ropensci.org/blog/2019/01/22/waterinfo-tidal-eel/)
+
+![wateRinfo](https://raw.githubusercontent.com/rweekly/image/master/2019/waterinfo.png)
 
 + [Correlated longitudinal data with varying time intervals](https://www.rdatagen.net/post/correlated-longitudinal-data-with-varying-time-intervals/)
 
@@ -156,9 +173,10 @@ Release Date: 2019-01-28
 
 + [Factor Analysis in R with Psych Package: Measuring Consumer Involvement](https://lucidmanager.org/measuring-consumer-involvement/)
 
-+ [GEOPAT2: ENTROPY CALCULATIONS FOR LOCAL LANDSCAPES](https://nowosad.github.io/post/geopat-2-ent/)
 
 + [Data exploration with alluvial plots - An introduction to easyalluvial](https://www.datisticsblog.com/2018/10/intro_easyalluvial/)
+
+![Data exploration with alluvial plots - An introduction to easyalluvial](https://raw.githubusercontent.com/rweekly/image/master/2019/easyallu.png)
 
 + [Right Now It’s KDA…Asset Allocation.](https://quantstrattrader.wordpress.com/2019/01/24/right-now-its-kda-asset-allocation/)
 
@@ -166,7 +184,7 @@ Release Date: 2019-01-28
 
 + [What’s the deal with wind chill?](http://www.decisionsciencenews.com/2019/01/22/whats-the-deal-with-wind-chill/)
 
-+ [wateRinfo - Downloading tidal data to understand the behaviour of a migrating eel](https://ropensci.org/blog/2019/01/22/waterinfo-tidal-eel/)
+
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
