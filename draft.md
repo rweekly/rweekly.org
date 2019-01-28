@@ -45,7 +45,7 @@ Release Date: 2019-02-04
 
 **CRAN**
 
-
++ [ruimtehol: Neural Text Modelling with R package ruimtehol](http://bnosac.be/index.php/blog/86-neural-text-modelling-with-r-package-ruimtehol)
 
 **BioC**
 
