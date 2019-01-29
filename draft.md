@@ -22,7 +22,7 @@ Release Date: 2019-02-04
 ### R in the Real World
 
 
-
++ [Text classification in R using keras and udpipe based workflow](http://www.jla-data.net/eng/vocabulary-based-text-classification/)
 
 
 
