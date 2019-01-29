@@ -93,6 +93,8 @@ Events in 3 Months:
 
 + [satRday Paris - 23rd February](https://paris2019.satrdays.org/)
 
++ [satRday Johannesburg - 6th April](https://joburg2019.satrdays.org/)
+
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
@@ -111,7 +113,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
-
++ [satRday Johannesburg - Call for papers](https://www.papercall.io/satrday-johannesburg-2019)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
