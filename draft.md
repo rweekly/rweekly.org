@@ -17,6 +17,7 @@ Release Date: 2019-02-04
 
 
 
++ [Summarizing rstudio::conf 2019 Summaries with Tidy Text Techniques](https://tonyelhabr.rbind.io/post/rstudio-conf-2019-summary/)
 
 ### R in the Real World
 
