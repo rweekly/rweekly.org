@@ -37,6 +37,7 @@ Release Date: 2019-02-04
 
 ###  Resources
 
++ [R-Miss-Tastic: A resource website on missing data](https://rmisstastic.netlify.com/)
 
 
 
@@ -75,8 +76,9 @@ Release Date: 2019-02-04
 
 ###  Tutorials
 
++ [Comparing free geocoding engines](http://www.adelieresources.com/2019/01/comparing-free-geocoding-engines/)
 
-
++ [Half a dozen frequentist and Bayesian ways to measure the difference in means in two groups](https://www.andrewheiss.com/blog/2019/01/29/diff-means-half-dozen-ways/)
 
 
 <!--<div class="post-more-begi
