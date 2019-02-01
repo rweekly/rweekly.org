@@ -75,6 +75,7 @@ Release Date: 2019-02-04
 
 ###  Tutorials
 
++ [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92)
 
 
 
