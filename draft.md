@@ -78,6 +78,8 @@ Release Date: 2019-02-04
 
 + [Comparing free geocoding engines](http://www.adelieresources.com/2019/01/comparing-free-geocoding-engines/)
 
++ [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92)
+
 + [Half a dozen frequentist and Bayesian ways to measure the difference in means in two groups](https://www.andrewheiss.com/blog/2019/01/29/diff-means-half-dozen-ways/)
 
 
