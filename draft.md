@@ -65,6 +65,8 @@ Release Date: 2019-02-04
 
 + [readsdmx](https://github.com/mdequeljoe/readsdmx) - read SDMX data into dataframe objects
 
++ [vegawidget](https://vegawidget.github.io/vegawidget) - render Vega-Lite and Vega specifications as htmlwidgets
+
 **BioC**
 
 
