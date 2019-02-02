@@ -21,6 +21,7 @@ Release Date: 2019-02-04
 
 ### R in the Real World
 
++ [Connecting Arduino Chips with R](https://zhuhao.org/post/connect-arduino-chips-with-r/)
 
 + [Using Data Science to read 10 years of Luxembourguish newspapers from the 19th century](https://www.brodrigues.co/blog/2019-01-31-newspapers_shiny_app/)
 
@@ -71,6 +72,9 @@ Release Date: 2019-02-04
 + [politicaldata](https://github.com/elliottmorris/politicaldata) - acquiring and analyzing political data
 
 + [tidylog](https://github.com/elbersb/tidylog) - feedback for basic dplyr operations
+
++ [arduinor](https://github.com/r-arduino/arduinor) - An easy way to get arduino data into R
+
 
 ### Updated Packages
 
