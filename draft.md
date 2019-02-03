@@ -15,6 +15,8 @@ Release Date: 2019-02-04
 
 + [Time Travel with RStudio Package Manager 1.0.4](https://blog.rstudio.com/2019/01/30/time-travel-with-rstudio-package-manager-1-0-4/)
 
+![RStudio Package Manager](https://raw.githubusercontent.com/rweekly/image/master/2019/rspm-104-calendar.png)
+
 + [Summarizing rstudio::conf 2019 Summaries with Tidy Text Techniques](https://tonyelhabr.rbind.io/post/rstudio-conf-2019-summary/)
 
 + [Book review: Beyond Spreadsheets with R](https://shirinsplayground.netlify.com/2019/01/review_beyond_spreadsheets_with_r/)
@@ -25,11 +27,11 @@ Release Date: 2019-02-04
 
 ### R in the Real World
 
-+ [Connecting Arduino Chips with R](https://zhuhao.org/post/connect-arduino-chips-with-r/)
-
 + [Using Data Science to read 10 years of Luxembourguish newspapers from the 19th century](https://www.brodrigues.co/blog/2019-01-31-newspapers_shiny_app/)
 
 + [Graphing My Daily Phone Use](https://blog.rmhogervorst.nl/blog/2019/01/28/graphing-my-daily-phone-use/)
+
+![Graphing My Daily Phone Use](https://raw.githubusercontent.com/rweekly/image/master/2019/screenlook_overlay.png)
 
 + [Text classification in R using keras and udpipe based workflow](http://www.jla-data.net/eng/vocabulary-based-text-classification/)
 
@@ -38,6 +40,10 @@ Release Date: 2019-02-04
 + [The dominance of running backs for Wisconsin football explored using rvest and ggplot2](https://www.mikelee.co/posts/2019-01-28-wisconsin-rushing-history/)
 
 + [Introduction to Quanteda for Semantic network analysis.](http://chainsawriot.com/mannheim/2019/01/25/quanteda.html)
+
++ [Connecting Arduino Chips with R](https://zhuhao.org/post/connect-arduino-chips-with-r/)
+
+![Connecting Arduino Chips with R](https://raw.githubusercontent.com/rweekly/image/master/2019/ar_plotter.png)
 
 ###  R in Organizations
 
@@ -64,11 +70,15 @@ Release Date: 2019-02-04
 
 + [ruimtehol](http://bnosac.be/index.php/blog/86-neural-text-modelling-with-r-package-ruimtehol) - Neural Text Modelling with R package ruimtehol
 
-+ [recogeo](http://www.francescobailo.net/2019/02/recogeo-a-new-r-package-to-reconcile-changing-geographies-boundaries-and-corresponding-variables/) - reconcile changing geographies boundaries (and corresponding variables)
+![ruimtehol](https://raw.githubusercontent.com/rweekly/image/master/2019/logo-ruimtehol.png)
 
 + [readsdmx](https://github.com/mdequeljoe/readsdmx) - read SDMX data into dataframe objects
 
 + [vegawidget](https://vegawidget.github.io/vegawidget) - render Vega-Lite and Vega specifications as htmlwidgets
+
++ [recogeo](http://www.francescobailo.net/2019/02/recogeo-a-new-r-package-to-reconcile-changing-geographies-boundaries-and-corresponding-variables/) - reconcile changing geographies boundaries (and corresponding variables)
+
+![recogeo](https://raw.githubusercontent.com/rweekly/image/master/2019/francescco.png)
 
 
 **GitHub or Bitbucket**
@@ -97,27 +107,23 @@ Release Date: 2019-02-04
 
 + [Never faff with trailing pipes again %>%](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-31-add-nowt-to-your-tidy-pipelines/)
 
-+ [Learn how to run standard t-tests, simulations, and Bayesian difference in means tests with R and Stan](https://www.andrewheiss.com/blog/2019/01/29/diff-means-half-dozen-ways/)
++ [Half a dozen frequentist and Bayesian ways to measure the difference in means in two groups](https://www.andrewheiss.com/blog/2019/01/29/diff-means-half-dozen-ways/)
 
-+ [Enhancing gather() and spread() by Using "Bundled" data.frames](https://yutani.rbind.io/post/enhancing-gather-and-spread-by-using-bundled-data-frames/)
-
-![Bundled gather and spread](https://d33wubrfki0l68.cloudfront.net/20c7c1b86f8a60c48e922ab29d03d2b426eafb5f/6d109/images/2019-02-03-multi-gather.jpg)
+![Comedies get higher ratings than action movies](https://raw.githubusercontent.com/rweekly/image/master/2019/diff-mean.png)
 
 + [Comparing free geocoding engines](http://www.adelieresources.com/2019/01/comparing-free-geocoding-engines/)
 
-+ [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92)
-
-+ [How to leverage AWS, H2O and purrr in R to build analytical pipelines](https://www.daeconomist.com/post/2019-01-25-partiii/) -  In the previous posts I looked at starting up the environment through the EC2 dashboard on AWS' website. The other aspect we looked at, in Part II, was how we can use purrr to train models using H2O's awesome api.
-
-+ [Half a dozen frequentist and Bayesian ways to measure the difference in means in two groups](https://www.andrewheiss.com/blog/2019/01/29/diff-means-half-dozen-ways/)
-
-![Do comedies get higher ratings than action movies?](https://www.andrewheiss.com/files/images/half-dozen-ways/eda-plots-1.png)
++ [How to leverage AWS, H2O and purrr in R to build analytical pipelines](https://www.daeconomist.com/post/2019-01-25-partiii/)
 
 + [Start and Pause in a Streaming Plot using plotly](https://zhuhao.org/post/start-and-pause-in-a-streaming-plot-using-plotly/)
 
 + [Tips on designing hex stickers for #rstats packages](https://zhuhao.org/post/tips-on-designing-a-hex-sticker-for-rstats-packages/)
 
 + [What the world agrees with](http://freerangestats.info/blog/2019/01/26/world-agreeing)
+
++ [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92)
+
+![10 Tips for Choosing the Optimal Number of Clusters](https://raw.githubusercontent.com/rweekly/image/master/2019/optim-cluster.png)
 
 + [Building Big Shiny Apps — A Workflow 1/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-1/)
 
@@ -139,6 +145,8 @@ Release Date: 2019-02-04
 
 + [Fast Static Maps Built with R](https://rud.is/b/2019/01/30/fast-static-maps-built-with-r/)
 
+![Fast Static Maps Built with R](https://raw.githubusercontent.com/rweekly/image/master/2019/fast-static.png)
+
 + [missing digit in a 114 digit number (a Riddler's riddle)](https://xianblog.wordpress.com/2019/01/31/missing-digit-in-a-114-digit-number-a-riddlers-riddle/)
 
 + [Computational Bayesian Statistics (book review)](https://xianblog.wordpress.com/2019/02/01/computational-bayesian-statistics-book-review/)
@@ -150,6 +158,11 @@ Release Date: 2019-02-04
 + [Visualize geographical areas around points of interest with leaflet](https://mvaugoyeau.netlify.com/post/where-i-live/)
 
 + [Benchmarking an Rstats workstation on realistic workloads - using xgboost via h2o](http://www.samabbott.co.uk/post/benchmarking-workstation-xgboost/)
+
++ [Enhancing gather() and spread() by Using "Bundled" data.frames](https://yutani.rbind.io/post/enhancing-gather-and-spread-by-using-bundled-data-frames/)
+
+![Bundled gather and spread](https://d33wubrfki0l68.cloudfront.net/20c7c1b86f8a60c48e922ab29d03d2b426eafb5f/6d109/images/2019-02-03-multi-gather.jpg)
+
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
@@ -166,6 +179,8 @@ Events in 3 Months:
 + [satRday Paris - 23rd February](https://paris2019.satrdays.org/)
 
 + [satRday Johannesburg - 6th April](https://joburg2019.satrdays.org/)
+
+![satRday Johannesburg](https://pbs.twimg.com/media/Dxl6CuBWsAAgHWh.png)
 
 + [satRday Newcastle - 6th April](https://newcastle2019.satrdays.org/)
 
