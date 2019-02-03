@@ -116,7 +116,7 @@ Release Date: 2019-02-04
 ###  Tutorials
 
 
-+ [Quick Hit: Using seymour to Subscribe to your Git[la|hu]b Repo Issues in Feedly](https://rud.is/b/2019/01/30/quick-hit-using-seymour-to-subscribe-to-your-gitlahub-repo-issues-in-feedly/)
++ [Quick Hit: Using seymour to Subscribe to your Repo Issues in Feedly](https://rud.is/b/2019/01/30/quick-hit-using-seymour-to-subscribe-to-your-gitlahub-repo-issues-in-feedly/)
 
 
 + [Never faff with trailing pipes again %>%](https://nacnudus.github.io/duncangarmonsway/posts/2019-01-31-add-nowt-to-your-tidy-pipelines/)
