@@ -78,6 +78,10 @@ Release Date: 2019-02-04
 
 + [recogeo](http://www.francescobailo.net/2019/02/recogeo-a-new-r-package-to-reconcile-changing-geographies-boundaries-and-corresponding-variables/) - reconcile changing geographies boundaries (and corresponding variables)
 
++ [readsdmx](https://github.com/mdequeljoe/readsdmx) - read SDMX data into dataframe objects
+
++ [vegawidget](https://vegawidget.github.io/vegawidget) - render Vega-Lite and Vega specifications as htmlwidgets
+
 **BioC**
 
 
