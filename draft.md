@@ -16,6 +16,7 @@ Release Date: 2019-02-04
 
 + [Time Travel with RStudio Package Manager 1.0.4](https://blog.rstudio.com/2019/01/30/time-travel-with-rstudio-package-manager-1-0-4/)
 
+![RStudio Package Manager](https://raw.githubusercontent.com/rweekly/image/master/2019/rspm-104-calendar.png)
 
 + [Summarizing rstudio::conf 2019 Summaries with Tidy Text Techniques](https://tonyelhabr.rbind.io/post/rstudio-conf-2019-summary/)
 
@@ -26,11 +27,14 @@ Release Date: 2019-02-04
 
 + [Connecting Arduino Chips with R](https://zhuhao.org/post/connect-arduino-chips-with-r/)
 
+![Connecting Arduino Chips with R](https://raw.githubusercontent.com/rweekly/image/master/2019/ar_plotter.png)
+
 + [Using Data Science to read 10 years of Luxembourguish newspapers from the 19th century](https://www.brodrigues.co/blog/2019-01-31-newspapers_shiny_app/)
 
 
 + [Graphing My Daily Phone Use](https://blog.rmhogervorst.nl/blog/2019/01/28/graphing-my-daily-phone-use/)
 
+![Graphing My Daily Phone Use](https://raw.githubusercontent.com/rweekly/image/master/2019/screenlook_overlay.png)
 
 + [Text classification in R using keras and udpipe based workflow](http://www.jla-data.net/eng/vocabulary-based-text-classification/)
 
@@ -76,7 +80,11 @@ Release Date: 2019-02-04
 
 + [ruimtehol](http://bnosac.be/index.php/blog/86-neural-text-modelling-with-r-package-ruimtehol) - Neural Text Modelling with R package ruimtehol
 
+![ruimtehol](https://raw.githubusercontent.com/rweekly/image/master/2019/logo-ruimtehol.png)
+
 + [recogeo](http://www.francescobailo.net/2019/02/recogeo-a-new-r-package-to-reconcile-changing-geographies-boundaries-and-corresponding-variables/) - reconcile changing geographies boundaries (and corresponding variables)
+
+![recogeo](https://raw.githubusercontent.com/rweekly/image/master/2019/francescco.png)
 
 + [readsdmx](https://github.com/mdequeljoe/readsdmx) - read SDMX data into dataframe objects
 
@@ -123,19 +131,16 @@ Release Date: 2019-02-04
 
 + [Learn how to run standard t-tests, simulations, and Bayesian difference in means tests with R and Stan](https://www.andrewheiss.com/blog/2019/01/29/diff-means-half-dozen-ways/)
 
-
+![Learn how to run standard t-tests, simulations, and Bayesian difference in means tests with R and Stan](https://raw.githubusercontent.com/rweekly/image/master/2019/diff-mean.png)
 
 
 + [Comparing free geocoding engines](http://www.adelieresources.com/2019/01/comparing-free-geocoding-engines/)
 
 + [10 Tips for Choosing the Optimal Number of Clusters](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92)
 
+![10 Tips for Choosing the Optimal Number of Clusters](https://raw.githubusercontent.com/rweekly/image/master/2019/optim-cluster.png)
+
 + [How to leverage AWS, H2O and purrr in R to build analytical pipelines](https://www.daeconomist.com/post/2019-01-25-partiii/) -  In the previous posts I looked at starting up the environment through the EC2 dashboard on AWS' website. The other aspect we looked at, in Part II, was how we can use purrr to train models using H2O's awesome api.
-
-
-+ [Half a dozen frequentist and Bayesian ways to measure the difference in means in two groups](https://www.andrewheiss.com/blog/2019/01/29/diff-means-half-dozen-ways/)
-
-
 
 + [Start and Pause in a Streaming Plot using plotly](https://zhuhao.org/post/start-and-pause-in-a-streaming-plot-using-plotly/)
 
@@ -168,6 +173,8 @@ Release Date: 2019-02-04
 + [Interleaving vectors and matrices - part 2](https://coolbutuseless.github.io/2019/01/30/interleaving-vectors-and-matrices-part-2/)
 
 + [Fast Static Maps Built with R](https://rud.is/b/2019/01/30/fast-static-maps-built-with-r/)
+
+![Fast Static Maps Built with R](https://raw.githubusercontent.com/rweekly/image/master/2019/fast-static.png)
 
 + [missing digit in a 114 digit number [a Riddler's riddle]](https://xianblog.wordpress.com/2019/01/31/missing-digit-in-a-114-digit-number-a-riddlers-riddle/)
 
