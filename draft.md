@@ -29,7 +29,7 @@ Release Date: 2019-02-11
 
 ###  Resources
 
-
++ [What They Forgot to Teach You About R - Jennifer Bryan, Jim Hester](https://whattheyforgot.org/)
 
 ###  New Packages
 
