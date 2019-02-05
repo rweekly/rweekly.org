@@ -85,6 +85,8 @@ Events in 3 Months:
 
 + [satRday Newcastle - 6th April](https://newcastle2019.satrdays.org/)
 
++ [satRday Los Angeles - 6th April](https://losangeles2019.satrdays.org/)
+
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
