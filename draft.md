@@ -31,6 +31,8 @@ Release Date: 2019-02-11
 
 + [What They Forgot to Teach You About R - Jennifer Bryan, Jim Hester](https://whattheyforgot.org/)
 
++ [An Overview of the NLP ecosystem in R](http://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -65,7 +67,8 @@ Release Date: 2019-02-11
 
 ###  Tutorials
 
-
++ [Enhancing gather() and spread() by Using "Bundled" data.frames](https://yutani.rbind.io/post/enhancing-gather-and-spread-by-using-bundled-data-frames/)
+![](https://d33wubrfki0l68.cloudfront.net/20c7c1b86f8a60c48e922ab29d03d2b426eafb5f/6d109/images/2019-02-03-multi-gather.jpg)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
