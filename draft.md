@@ -13,6 +13,7 @@ Release Date: 2019-02-11
 
 ### Insights
 
++ [How Do You Tell What Packages To Trust?](https://notstatschat.rbind.io/2019/02/04/how-do-you-tell-what-packages-to-trust/)
 
 
 ### R in the Real World
