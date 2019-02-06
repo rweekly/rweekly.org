@@ -65,7 +65,9 @@ Release Date: 2019-02-11
 
 ###  Tutorials
 
+* [Benchmarking an Rstats workstation - using benchmarkme](https://www.samabbott.co.uk/post/benchmarking-workstation-benchmarkme/)
 
+![Performance benchmarks by core - programming](https://www.samabbott.co.uk/img/2019-02-05-benchmarking-workstation-benchmarkme/cover_img.png)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
