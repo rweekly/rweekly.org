@@ -34,8 +34,6 @@ Release Date: 2019-02-11
 
 + [An Overview of the NLP ecosystem in R](http://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
 
-+ [purrr 0.3.0](https://www.tidyverse.org/articles/2019/02/purrr-0-3-0/)
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -54,6 +52,7 @@ Release Date: 2019-02-11
 
 ### Updated Packages
 
++ [purrr 0.3.0](https://www.tidyverse.org/articles/2019/02/purrr-0-3-0/)
 
 
 ###  Videos and Podcasts
@@ -69,6 +68,10 @@ Release Date: 2019-02-11
 
 
 ###  Tutorials
+
+* [Benchmarking an Rstats workstation - using benchmarkme](https://www.samabbott.co.uk/post/benchmarking-workstation-benchmarkme/)
+
+![Performance benchmarks by core - programming](https://www.samabbott.co.uk/img/2019-02-05-benchmarking-workstation-benchmarkme/cover_img.png)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
