@@ -13,6 +13,7 @@ Release Date: 2019-02-11
 
 ### Insights
 
++ [How Do You Tell What Packages To Trust?](https://notstatschat.rbind.io/2019/02/04/how-do-you-tell-what-packages-to-trust/)
 
 
 ### R in the Real World
@@ -30,6 +31,8 @@ Release Date: 2019-02-11
 ###  Resources
 
 + [What They Forgot to Teach You About R - Jennifer Bryan, Jim Hester](https://whattheyforgot.org/)
+
++ [An Overview of the NLP ecosystem in R](http://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
 
 ###  New Packages
 
@@ -49,6 +52,7 @@ Release Date: 2019-02-11
 
 ### Updated Packages
 
++ [purrr 0.3.0](https://www.tidyverse.org/articles/2019/02/purrr-0-3-0/)
 
 
 ###  Videos and Podcasts
