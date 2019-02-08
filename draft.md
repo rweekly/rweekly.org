@@ -34,6 +34,8 @@ Release Date: 2019-02-11
 
 + [An Overview of the NLP ecosystem in R](http://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
 
++ [rstudio::conf 2019 Workshop materials now available](https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -61,7 +63,7 @@ Release Date: 2019-02-11
 
 ### Gist & Cookbook
 
-
++ [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 
 ### R Internationally
 
