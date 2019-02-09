@@ -13,16 +13,40 @@ Release Date: 2019-02-11
 
 ### Insights
 
++ [The tidyverse style guide](https://style.tidyverse.org/)
+
 + [How Do You Tell What Packages To Trust?](https://notstatschat.rbind.io/2019/02/04/how-do-you-tell-what-packages-to-trust/)
+
++ [Organizing R Research Projects: CPAT, A Case Study](https://ntguardian.wordpress.com/2019/02/04/organizing-r-research-projects-cpat-case-study/)
 
 
 ### R in the Real World
 
++ [R for Political Data Science Week 5: The Ideological Diversity of the American Electorate](https://www.thecrosstab.com/2019/02/01/distribution_of_voters/)
 
++ [Send UDP Probes (with payloads) and Receive/Process Responses in R](https://rud.is/b/2019/02/03/send-udp-probes-with-payloads-and-receive-process-responses-in-r/)
+
++ [Zipf’s law is an empirical law that states that many different datasets found in nature can be described using Zipf’s distribution.](https://appsilon.com/investigating-words-distribution-with-r-zipfs-law/)
+
+
++ [Multiple Data (Time Series) Streams Clustering](https://petolau.github.io/Multiple-data-streams-clustering-in-r/)
+
+
++ [A package to download, import and tidy time series data from the Australian Bureau of Statistics](http://mattcowgill.com/2019/02/02/a-new-tool-to-make-it-easier-to-work-with-abs-data/)
+
+
+
++ [Developing a package to analyze data of the hospital morbidity survey](https://rafaelmenmell.netlify.com/2018/10/20/developing-a-package-to-analyze-data-of-the-hospital-morbidity-survey/)
+
++ [Retail Data Visualization with R and Shiny](https://nycdatascience.com/blog/r/retail-data-visualization-with-r-and-shiny/)
+
++ [Building Our Own Open Source Supercomputer with R and AWS](https://janlauge.github.io/2019/building-our-own-open-source-supercomputer-with-R/)
 
 ###  R in Organizations
 
++ [RC RUGS 2019 Is Up and Running](https://www.r-consortium.org/uncategorized/2019/02/04/rc-rugs-2019-is-up-and-running)
 
++ [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 
 ###  R in Academia
 
@@ -30,11 +54,16 @@ Release Date: 2019-02-11
 
 ###  Resources
 
+
+
++ [rstudio::conf 2019 Workshop materials now available](https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/)
+
+
 + [What They Forgot to Teach You About R - Jennifer Bryan, Jim Hester](https://whattheyforgot.org/)
 
 + [An Overview of the NLP ecosystem in R](http://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
 
-+ [rstudio::conf 2019 Workshop materials now available](https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/)
++ [An overview of the NLP ecosystem in R (#nlproc #textasdata)](https://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
 
 ###  New Packages
 
@@ -42,7 +71,11 @@ Release Date: 2019-02-11
 
 **CRAN**
 
++ [tsfeatures](https://pkg.robjhyndman.com/tsfeatures/index.html) - provides methods for extracting various features from time series data.
 
++ [readabs ](https://CRAN.R-project.org/package=readabs) - Download, import, and tidy time series data from the Australian Bureau of Statistics
+
++ [olsrr](https://blog.aravindhebbali.com/2019/02/07/introducing-olsrr/) -  a set of tools for improved output from linear regression models, designed keeping in mind beginner/intermediate R users.
 
 **BioC**
 
@@ -50,9 +83,13 @@ Release Date: 2019-02-11
 
 **GitHub or Bitbucket**
 
++ [whiteboxR](https://github.com/giswqs/whiteboxR) - whitebox R package for geospatial analysis, which is an R frontend of a stand-alone executable command-line program called WhiteboxTools
 
++ [Access Shutterstock API from R](https://github.com/strboul/shutterstock-r)
 
 ### Updated Packages
+
++ [V8 2.0](https://cran.r-project.org/web/packages/V8/) -  Embedded JavaScript Engine for R
 
 + [purrr 0.3.0](https://www.tidyverse.org/articles/2019/02/purrr-0-3-0/)
 
@@ -75,9 +112,41 @@ Release Date: 2019-02-11
 
 ###  Tutorials
 
++ [Audio classification with Keras: Looking closer at the non-deep learning parts](https://blogs.rstudio.com/tensorflow/posts/2019-02-07-audio-background/)
+
++ [Enhancing gather() and spread() by Using "Bundled" data.frames](https://yutani.rbind.io/post/enhancing-gather-and-spread-by-using-bundled-data-frames/)
+
 * [Benchmarking an Rstats workstation - using benchmarkme](https://www.samabbott.co.uk/post/benchmarking-workstation-benchmarkme/)
 
 ![Performance benchmarks by core - programming](https://www.samabbott.co.uk/img/2019-02-05-benchmarking-workstation-benchmarkme/cover_img.png)
+
+
++ [Introduction to Object Oriented Programming using S3 classes. German language. Make R play Rock - Paper - Scissors with user defined output (print method).](https://statistik-dresden.de/archives/15281)
+
+
++ [Solving Ordinary Least Squares Regression Using Matrix Algebra in R](https://ekarinpongpipat.com/blog_solving_ols_regression_using_matrix_algebra.html)
+
++ [Function Objects and Pipelines in R](http://www.win-vector.com/blog/2019/02/function-objects-and-pipelines-in-r/)
+
+
++ [How to urn inconsistently multi-headered excel data into a tidy data frame in R.](https://paul.rbind.io/2019/02/01/tidying-multi-header-excel-data-with-r/)
+
++ [A little trick for debugging Shiny](https://rtask.thinkr.fr/blog/a-little-trick-for-debugging-shiny/)
+
++ [The power of tapping into your community for support](http://lcolladotor.github.io/2019/02/03/the-power-of-tapping-into-your-community-for-support/)
+
++ [8 out of 10 cats does countdown](https://coolbutuseless.github.io/2019/02/04/8-out-of-10-cats-does-countdown/)
+
+
+
++ [Using the uniform sum distribution to introduce probability](https://www.rdatagen.net/post/a-fun-example-to-explore-probability/)
+
++ [Benchmarking an Rstats workstation - using benchmarkme](http://www.samabbott.co.uk/post/benchmarking-workstation-benchmarkme/)
+
++ [PDSwR2: New Chapters!](http://www.win-vector.com/blog/2019/02/pdswr2-new-chapters/)
+
+
++ [trailing commas](https://recology.info/2019/02/trailing-commas/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
@@ -121,3 +190,11 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finally out! Excited to announce my new book on statistical learning with <a href="https://twitter.com/kaneplusplus?ref_src=twsrc%5Etfw">@kaneplusplus</a> and Bryan Lewis on <a href="https://twitter.com/CRCPress?ref_src=twsrc%5Etfw">@CRCPress</a>. Code, data, and sample chapters available at <a href="https://t.co/iGSWS77oXy">https://t.co/iGSWS77oXy</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/ihAAcK5kmd">pic.twitter.com/ihAAcK5kmd</a></p>&mdash; Taylor Arnold (@statsmaths) <a href="https://twitter.com/statsmaths/status/1093870728745758720?ref_src=twsrc%5Etfw">February 8, 2019</a></blockquote>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When you read 2017 a scientific paper and everyone is cited except the authors of the free software used to do the research 😢 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/0RCWOIlJrp">pic.twitter.com/0RCWOIlJrp</a></p>&mdash; Mark van der Loo (@markvdloo) <a href="https://twitter.com/markvdloo/status/1093148088523505664?ref_src=twsrc%5Etfw">February 6, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Introducing pupR: Your Daily Dose of Doggo! Do you like dogs? Do you like R? Then you’ll love this function. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/dogs?src=hash&amp;ref_src=twsrc%5Etfw">#dogs</a> <a href="https://t.co/k3bW7RKAtP">pic.twitter.com/k3bW7RKAtP</a></p>&mdash; Melissa Innerst (@mathematicalm3l) <a href="https://twitter.com/mathematicalm3l/status/1090720774464421889?ref_src=twsrc%5Etfw">January 30, 2019</a></blockquote>
+
