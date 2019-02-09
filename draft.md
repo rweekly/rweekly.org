@@ -56,6 +56,10 @@ Release Date: 2019-02-11
 
 + [purrr 0.3.0](https://www.tidyverse.org/articles/2019/02/purrr-0-3-0/)
 
++ [cartography 2.2.0](https://rgeomatic.hypotheses.org/1729)
+
+![cartography vignette extract](https://raw.githubusercontent.com/riatelab/cartography/master/img/cartography-vignette.png)
+
 
 ###  Videos and Podcasts
 
