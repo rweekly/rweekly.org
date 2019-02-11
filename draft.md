@@ -9,6 +9,9 @@ Release Date: 2019-02-11
 
 ###  Highlight
 
++ [rstudio::conf 2019 Workshop materials now available](https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/)
+
++ [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 
 
 ### Insights
@@ -20,9 +23,18 @@ Release Date: 2019-02-11
 + [Organizing R Research Projects: CPAT, A Case Study](https://ntguardian.wordpress.com/2019/02/04/organizing-r-research-projects-cpat-case-study/)
 
 
+###  Resources
+
++ [rstudio::conf 2019 Workshop materials now available](https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/)
+
++ [What They Forgot to Teach You About R - Jennifer Bryan, Jim Hester](https://whattheyforgot.org/)
+
++ [An Overview of the NLP ecosystem in R](http://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
+
+
 ### R in the Real World
 
-+ [R for Political Data Science Week 5: The Ideological Diversity of the American Electorate](https://www.thecrosstab.com/2019/02/01/distribution_of_voters/)
++ [Just How Liberal Are the 2020 Democratic Candidates?](https://www.thecrosstab.com/2019/02/08/how-liberal-2020-dems/)
 
 + [Send UDP Probes (with payloads) and Receive/Process Responses in R](https://rud.is/b/2019/02/03/send-udp-probes-with-payloads-and-receive-process-responses-in-r/)
 
@@ -31,12 +43,15 @@ Release Date: 2019-02-11
 
 + [Multiple Data (Time Series) Streams Clustering](https://petolau.github.io/Multiple-data-streams-clustering-in-r/)
 
+![Multiple Data (Time Series) Streams Clustering](https://raw.githubusercontent.com/rweekly/image/master/2019/clustering-in-.gif)
 
 + [A package to download, import and tidy time series data from the Australian Bureau of Statistics](http://mattcowgill.com/2019/02/02/a-new-tool-to-make-it-easier-to-work-with-abs-data/)
 
 
 
 + [Developing a package to analyze data of the hospital morbidity survey](https://rafaelmenmell.netlify.com/2018/10/20/developing-a-package-to-analyze-data-of-the-hospital-morbidity-survey/)
+
+![Developing a package to analyze data of the hospital morbidity survey](https://raw.githubusercontent.com/rweekly/image/master/2019/hospital.png)
 
 + [Retail Data Visualization with R and Shiny](https://nycdatascience.com/blog/r/retail-data-visualization-with-r-and-shiny/)
 
@@ -48,22 +63,11 @@ Release Date: 2019-02-11
 
 + [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 
+![BBC Visual and Data Journalism cookbook for R graphics](https://raw.githubusercontent.com/rweekly/image/master/2019/bbc-cook.png)
+
 ###  R in Academia
 
 
-
-###  Resources
-
-
-
-+ [rstudio::conf 2019 Workshop materials now available](https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/)
-
-
-+ [What They Forgot to Teach You About R - Jennifer Bryan, Jim Hester](https://whattheyforgot.org/)
-
-+ [An Overview of the NLP ecosystem in R](http://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
-
-+ [An overview of the NLP ecosystem in R (#nlproc #textasdata)](https://www.bnosac.be/index.php/blog/87-an-overview-of-the-nlp-ecosystem-in-r-nlproc-textasdata)
 
 ###  New Packages
 
@@ -85,7 +89,7 @@ Release Date: 2019-02-11
 
 + [whiteboxR](https://github.com/giswqs/whiteboxR) - whitebox R package for geospatial analysis, which is an R frontend of a stand-alone executable command-line program called WhiteboxTools
 
-+ [Access Shutterstock API from R](https://github.com/strboul/shutterstock-r)
++ [shutterstock-r](https://github.com/strboul/shutterstock-r) - Access Shutterstock API from R
 
 ### Updated Packages
 
@@ -95,7 +99,7 @@ Release Date: 2019-02-11
 
 + [cartography 2.2.0](https://rgeomatic.hypotheses.org/1729)
 
-![cartography vignette extract](https://raw.githubusercontent.com/riatelab/cartography/master/img/cartography-vignette.png)
+![cartography vignette extract](https://raw.githubusercontent.com/rweekly/image/master/2019/cartography-vignette.png)
 
 
 ###  Videos and Podcasts
@@ -116,9 +120,9 @@ Release Date: 2019-02-11
 
 + [Enhancing gather() and spread() by Using "Bundled" data.frames](https://yutani.rbind.io/post/enhancing-gather-and-spread-by-using-bundled-data-frames/)
 
-* [Benchmarking an Rstats workstation - using benchmarkme](https://www.samabbott.co.uk/post/benchmarking-workstation-benchmarkme/)
++ [Benchmarking an Rstats workstation - using benchmarkme](https://www.samabbott.co.uk/post/benchmarking-workstation-benchmarkme/)
 
-![Performance benchmarks by core - programming](https://www.samabbott.co.uk/img/2019-02-05-benchmarking-workstation-benchmarkme/cover_img.png)
+![Performance benchmarks by core - programming](https://raw.githubusercontent.com/rweekly/image/master/2019/bench-work.png)
 
 
 + [Introduction to Object Oriented Programming using S3 classes. German language. Make R play Rock - Paper - Scissors with user defined output (print method).](https://statistik-dresden.de/archives/15281)
@@ -133,7 +137,7 @@ Release Date: 2019-02-11
 
 + [A little trick for debugging Shiny](https://rtask.thinkr.fr/blog/a-little-trick-for-debugging-shiny/)
 
-+ [The power of tapping into your community for support](http://lcolladotor.github.io/2019/02/03/the-power-of-tapping-into-your-community-for-support/)
++ [The power of tapping into your community for support](https://lcolladotor.github.io/2019/02/03/the-power-of-tapping-into-your-community-for-support/)
 
 + [8 out of 10 cats does countdown](https://coolbutuseless.github.io/2019/02/04/8-out-of-10-cats-does-countdown/)
 
@@ -141,7 +145,6 @@ Release Date: 2019-02-11
 
 + [Using the uniform sum distribution to introduce probability](https://www.rdatagen.net/post/a-fun-example-to-explore-probability/)
 
-+ [Benchmarking an Rstats workstation - using benchmarkme](http://www.samabbott.co.uk/post/benchmarking-workstation-benchmarkme/)
 
 + [PDSwR2: New Chapters!](http://www.win-vector.com/blog/2019/02/pdswr2-new-chapters/)
 
