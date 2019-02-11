@@ -16,7 +16,8 @@ Release Date: 2019-02-18
 
 
 ###  Resources
-
+[VapoRwave: Featuring three vaporwave `ggplot2` themes and 13 (lucky) color palettes 🏂 ](https://github.com/moldach/vapoRwave)
+<img src="https://i.gifer.com/embedded/download/7pe6.gif" />
 
 
 
