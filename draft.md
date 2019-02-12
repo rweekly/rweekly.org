@@ -16,7 +16,8 @@ Release Date: 2019-02-18
 
 
 ###  Resources
-
++ [VapoRwave 📦: Featuring three vaporwave `ggplot2` themes and 13 (lucky) color palettes 🏂 ](https://github.com/moldach/vapoRwave)
+![](https://i.ibb.co/x7v3PFV/check.png)
 
 
 
@@ -67,7 +68,7 @@ Release Date: 2019-02-18
 
 
 ###  Tutorials
-
++ [Web Scraping 🕸️🤖 Google Sheets with RSelenium](https://towardsdatascience.com/web-scraping-google-sheets-with-rselenium-9001eda399b0)
 
 
 <!--<div class="post-more-begi
