@@ -69,7 +69,7 @@ Release Date: 2019-02-18
 
 ###  Tutorials
 + [Web Scraping 🕸️🤖 Google Sheets with RSelenium](https://towardsdatascience.com/web-scraping-google-sheets-with-rselenium-9001eda399b0)
-
++ [Coupling Web scraping with Functional Programming in R for scale](https://towardsdatascience.com/coupling-web-scraping-with-functional-programming-in-r-for-scale-1bc4509eef29)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
