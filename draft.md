@@ -17,7 +17,9 @@ Release Date: 2019-02-18
 
 ###  Resources
 
++ [The `ggplot2` flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
 
+![ggplot2 flipbook screenshot](https://raw.githubusercontent.com/rweekly/image/master/2019/ggplot2-flipbook.png)
 
 ### R in the Real World
 
@@ -66,6 +68,7 @@ Release Date: 2019-02-18
 
 
 ###  Tutorials
+
 + [Web Scraping 🕸️🤖 Google Sheets with RSelenium](https://towardsdatascience.com/web-scraping-google-sheets-with-rselenium-9001eda399b0)
 
 + [Writing Text in Minecraft with R](https://kbroman.org/blog/2019/02/11/writing_text_in_minecraft_with_r/)
