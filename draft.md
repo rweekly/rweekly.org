@@ -57,6 +57,8 @@ Release Date: 2019-02-18
 
 + [VapoRwave 📦: Featuring three vaporwave `ggplot2` themes and 13 (lucky) color palettes 🏂 ](https://github.com/moldach/vapoRwave)
 
++ [`ghactions`](https://github.com/maxheld83/ghactions), GitHub actions for R and accompanying R package.
+
 **CRAN**
 
 
