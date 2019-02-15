@@ -74,7 +74,8 @@ Release Date: 2019-02-18
 
 + [Visualizing Brooklyn Nine-Nine with R!](https://ryo-n7.github.io/2019-02-15-visualize-brooklyn-nine-nine/)
 
-![](https://i.imgur.com/aXFSqzJ.png)
++ [Coupling Web scraping with Functional Programming in R for scale](https://towardsdatascience.com/coupling-web-scraping-with-functional-programming-in-r-for-scale-1bc4509eef29)
+
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
