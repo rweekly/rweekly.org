@@ -85,8 +85,9 @@ Release Date: 2019-02-18
 
 + [Coupling Web scraping with Functional Programming in R for scale](https://towardsdatascience.com/coupling-web-scraping-with-functional-programming-in-r-for-scale-1bc4509eef29)
 
++ [Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](http://laderast.github.io/2019/02/12/package-building-description-namespace/)
 
-<!--<div class="post-more-begi
+<!--div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -132,4 +133,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Roses are red,<br>Iris data forgettable.<br>Objects of type closure,<br>Are not subsettable<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> valentine</p>&mdash; Danielle Navarro (@djnavarro) <a href="https://twitter.com/djnavarro/status/1095638129812205568?ref_src=twsrc%5Etfw">13 de febrer de 2019</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> R-hub is on Twitter now! 👋<br><br>Stay tuned for further updates, we&#39;ll soon launch a docs website and a blog! 🎇<br><br>In the meantime find<br>🔗 our 📦builder <a href="https://t.co/QG8jwaCoto">https://t.co/QG8jwaCoto</a><br>🔗 our Github organization <a href="https://t.co/tR4d94ZHSj">https://t.co/tR4d94ZHSj</a></p>&mdash; R-hub (@rhub_) <a href="https://twitter.com/rhub_/status/1095649725188055040?ref_src=twsrc%5Etfw">13 de febrer de 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Are you an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> user in Africa? Do you want to be updated on R-related activities and help promote R in Africa? Sign up on this form! <a href="https://twitter.com/hashtag/africaR?src=hash&amp;ref_src=twsrc%5Etfw">#africaR</a> <a href="https://t.co/Qztgzc9lzb">https://t.co/Qztgzc9lzb</a></p>&mdash; Shel 🇰🇪 (@Shel_Kariuki) <a href="https://twitter.com/Shel_Kariuki/status/1096270026917769216?ref_src=twsrc%5Etfw">15 de febrer de 2019</a></blockquote>
+
 
