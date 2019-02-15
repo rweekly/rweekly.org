@@ -63,7 +63,9 @@ Release Date: 2019-02-18
 
 
 
-**+ [`olsrr`](https://blog.aravindhebbali.com/2019/02/07/introducing-olsrr/), a set of tools for improved output from linear regression models, designed keeping in mind beginner/intermediate R users.BioC**
++ [`olsrr`](https://blog.aravindhebbali.com/2019/02/07/introducing-olsrr/), a set of tools for improved output from linear regression models, designed keeping in mind beginner/intermediate R users.
+
+**BioC**
 
 
 
