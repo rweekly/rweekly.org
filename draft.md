@@ -21,6 +21,10 @@ Release Date: 2019-02-18
 
 ![ggplot2 flipbook screenshot](https://raw.githubusercontent.com/rweekly/image/master/2019/ggplot2-flipbook.png)
 
++ [`ggplot2` extensions gallery](https://www.ggplot2-exts.org/gallery/)
+
++ [R for Journalism :: Journalism with R](https://learn.r-journalism.com/en/)
+
 ### R in the Real World
 
 + [What Do Freelance Writers Make?](http://www.storybench.org/what-do-freelance-writers-make/)
@@ -53,11 +57,11 @@ Release Date: 2019-02-18
 
 ### Updated Packages
 
++ [`staplr`](https://pridiltal.github.io/staplr/), toolkit to manipulate PDF files.
 
++ [`vcr`](https://cran.rstudio.com/web/packages/vcr/) - Record test suite 'HTTP' requests and replays them during future runs.
 
-##+ [`staplr`](https://pridiltal.github.io/staplr/), toolkit to manipulate PDF files.
-
-+ [`vcr`](https://cran.rstudio.com/web/packages/vcr/) - Record test suite 'HTTP' requests and replays them during future runs.#  Videos and Podcasts
+###  Videos and Podcasts
 
 
 
