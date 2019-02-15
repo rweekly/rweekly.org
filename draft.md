@@ -23,9 +23,7 @@ Release Date: 2019-02-18
 
 ### R in the Real World
 
-
-
-
++ [What Do Freelance Writers Make?](http://www.storybench.org/what-do-freelance-writers-make/)
 
 ###  R in Organizations
 
@@ -70,6 +68,13 @@ Release Date: 2019-02-18
 ###  Tutorials
 + [Web Scraping 🕸️🤖 Google Sheets with RSelenium](https://towardsdatascience.com/web-scraping-google-sheets-with-rselenium-9001eda399b0)
 
++ [Writing Text in Minecraft with R](https://kbroman.org/blog/2019/02/11/writing_text_in_minecraft_with_r/)
+
++ [Liverpool is the Most Popular City in the World (relative to use as password per inhabitant)](http://www.sastibe.de/2019/02/liverpool-is-the-most-popular-city-in-the-world-relative-to-use-as-password-per-inhabitant/)
+
++ [Visualizing Brooklyn Nine-Nine with R!](https://ryo-n7.github.io/2019-02-15-visualize-brooklyn-nine-nine/)
+
+![](https://i.imgur.com/aXFSqzJ.png)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
