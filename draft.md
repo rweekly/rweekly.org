@@ -16,8 +16,6 @@ Release Date: 2019-02-18
 
 
 ###  Resources
-+ [VapoRwave 📦: Featuring three vaporwave `ggplot2` themes and 13 (lucky) color palettes 🏂 ](https://github.com/moldach/vapoRwave)
-![](https://i.ibb.co/x7v3PFV/check.png)
 
 
 
@@ -36,6 +34,8 @@ Release Date: 2019-02-18
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+
++ [VapoRwave 📦: Featuring three vaporwave `ggplot2` themes and 13 (lucky) color palettes 🏂 ](https://github.com/moldach/vapoRwave)
 
 **CRAN**
 
