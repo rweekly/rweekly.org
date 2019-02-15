@@ -23,12 +23,17 @@ Release Date: 2019-02-18
 
 + [`ggplot2` extensions gallery](https://www.ggplot2-exts.org/gallery/)
 
-+ [R for Journalism :: Journalism with R](https://learn.r-journalism.com/en/)
++ [R for Journalism](https://learn.r-journalism.com/en/)
+
++ [R for Political Data](https://www.thecrosstab.com/categories/r-for-political-data/)
 
 ### R in the Real World
 
 + [What Do Freelance Writers Make?](http://www.storybench.org/what-do-freelance-writers-make/)
 
++ [Trump tweet time](https://apps.garrickadenbuie.coma/trump-tweet-time/)
+
++ [How did Axios rectangle Trump's PDF schedule? A try with R](https://masalmon.eu/2019/02/11/trump-schedule/)
 ###  R in Organizations
 
 
@@ -74,6 +79,8 @@ Release Date: 2019-02-18
 
 
 ###  Tutorials
+
++ [Inserting “Edit on GitHub” Buttons in a Single R Markdown Document](https://liao961120.github.io/2019/02/10/rmd_edit_btn.html)
 
 + [Web Scraping 🕸️🤖 Google Sheets with RSelenium](https://towardsdatascience.com/web-scraping-google-sheets-with-rselenium-9001eda399b0)
 
