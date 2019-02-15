@@ -13,7 +13,7 @@ Release Date: 2019-02-18
 
 ### Insights
 
-
++ ["Correlation is not causation". So what is?](https://iyarlin.github.io/2019/02/08/correlation-is-not-causation-so-what-is/)
 
 ###  Resources
 
