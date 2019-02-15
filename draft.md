@@ -15,6 +15,10 @@ Release Date: 2019-02-18
 
 + ["Correlation is not causation". So what is?](https://iyarlin.github.io/2019/02/08/correlation-is-not-causation-so-what-is/)
 
++ [Community Call Follow-up - Governance of Open Source Research Software Organizationss](https://ropensci.org/blog/2019/02/12/governance/)
+
++ [Most popular machine learning R packages – part 2](https://eranraviv.com/most-popular-machine-learning-r-packages-part-2/)
+
 ###  Resources
 
 + [The `ggplot2` flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
@@ -34,6 +38,11 @@ Release Date: 2019-02-18
 + [Trump tweet time](https://apps.garrickadenbuie.coma/trump-tweet-time/)
 
 + [How did Axios rectangle Trump's PDF schedule? A try with R](https://masalmon.eu/2019/02/11/trump-schedule/)
+
++ [Liverpool is the Most Popular City in the World (relative to use as password per inhabitant)](http://www.sastibe.de/2019/02/liverpool-is-the-most-popular-city-in-the-world-relative-to-use-as-password-per-inhabitant/)
+
++ [Text mining the EU withdrawal bill Hansard II](https://www.mattchaib.com/post/2019/02/11/text-mining-the-eu-withdrawal-bill-hansard-ii/)
+
 ###  R in Organizations
 
 
@@ -52,7 +61,7 @@ Release Date: 2019-02-18
 
 
 
-**BioC**
+**+ [`olsrr`](https://blog.aravindhebbali.com/2019/02/07/introducing-olsrr/), a set of tools for improved output from linear regression models, designed keeping in mind beginner/intermediate R users.BioC**
 
 
 
@@ -65,6 +74,8 @@ Release Date: 2019-02-18
 + [`staplr`](https://pridiltal.github.io/staplr/), toolkit to manipulate PDF files.
 
 + [`vcr`](https://cran.rstudio.com/web/packages/vcr/) - Record test suite 'HTTP' requests and replays them during future runs.
+
++ [A Major Upgrade of the `V8`s package](https://ropensci.org/technotes/2019/02/11/v8-20/)
 
 ###  Videos and Podcasts
 
@@ -86,13 +97,17 @@ Release Date: 2019-02-18
 
 + [Writing Text in Minecraft with R](https://kbroman.org/blog/2019/02/11/writing_text_in_minecraft_with_r/)
 
-+ [Liverpool is the Most Popular City in the World (relative to use as password per inhabitant)](http://www.sastibe.de/2019/02/liverpool-is-the-most-popular-city-in-the-world-relative-to-use-as-password-per-inhabitant/)
-
-+ [Visualizing Brooklyn Nine-Nine with R!](https://ryo-n7.github.io/2019-02-15-visualize-brooklyn-nine-nine/)
++ [Livualizing Brooklyn Nine-Nine with R!](https://ryo-n7.github.io/2019-02-15-visualize-brooklyn-nine-nine/)
 
 + [Coupling Web scraping with Functional Programming in R for scale](https://towardsdatascience.com/coupling-web-scraping-with-functional-programming-in-r-for-scale-1bc4509eef29)
 
 + [Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](http://laderast.github.io/2019/02/12/package-building-description-namespace/)
+
++ [`cdata` Control Table Keys](http://www.win-vector.com/blog/2019/02/cdata-control-table-keys/)
+
++ [Quick Hit: Speeding Up a Slow/Mundane Task with a Little `Rcpp`](https://rud.is/b/2019/02/09/quick-hit-speeding-up-a-slow-mundane-task-with-a-little-rcpp/)
+
++ [Investigating words distribution with R – Zipf’s law](https://appsilon.com/investigating-words-distribution-with-r-zipfs-law/)
 
 <!--div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
