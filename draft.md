@@ -23,7 +23,7 @@ Release Date: 2019-02-18
 
 + [The `ggplot2` flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
 
-![ggplot2 flipbook screenshot](https://raw.githubusercontent.com/rweekly/image/master/2019/ggplot2-flipbook.png)
+![ggplot2 flipbook screenshot](https://raw.githubusercontent.com/rweekly/image/master/2019/ggplot2-flipbook.gif)
 
 + [`ggplot2` extensions gallery](https://www.ggplot2-exts.org/gallery/)
 
