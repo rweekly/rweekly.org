@@ -101,8 +101,6 @@ Release Date: 2019-02-18
 
 + [A Major Upgrade of the `V8`s package](https://ropensci.org/technotes/2019/02/11/v8-20/)
 
-+ [Support for hOCR and Tesseract 4 in R](https://ropensci.org/technotes/2018/02/14/tesseract-18/)
-
 + [tidygraph 1.1 – A tidy hope](https://www.data-imaginist.com/2018/tidygraph-1-1-a-tidy-hope/)
 
 + [BH 1.66.0-1](http://dirk.eddelbuettel.com/blog/2018/02/13#bh_1.66.0-1)
