@@ -131,8 +131,6 @@ Release Date: 2019-02-18
 
 + [Writing Text in Minecraft with R](https://kbroman.org/blog/2019/02/11/writing_text_in_minecraft_with_r/)
 
-+ [Visualizing Brooklyn Nine-Nine with R!](https://ryo-n7.github.io/2019-02-15-visualize-brooklyn-nine-nine/)
-
 + [Coupling Web scraping with Functional Programming in R for scale](https://towardsdatascience.com/coupling-web-scraping-with-functional-programming-in-r-for-scale-1bc4509eef29)
 
 + [Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](http://laderast.github.io/2019/02/12/package-building-description-namespace/)
