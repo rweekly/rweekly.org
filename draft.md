@@ -107,6 +107,8 @@ Release Date: 2019-02-18
 
 ###  Videos and Podcasts
 
++ [NSSD Episode 74 - I Draw the Line at Fans](http://nssdeviations.com/74-i-draw-the-line-at-fans): Hilary and Roger discuss Roger's foray into cloud computing and how they determine whether they can trust an algorithm or R package. Also, a bonus discussion of the state of data science as a field.
++ [R-Podcast Episode 27 - Get the {gt} Tables!](https://r-podcast.org/27): Eric shares a behind-the-scenes look at his `rstudio::conf` 2019 presentation about Shiny modules, and talks to RStudio software engineer Rich Iannone about his journey from atmospheric science to creating the `DiagrammeR` and `gt` packages.
 + [Another R-Podcast with Eric Nantz (Yihui Xie)](https://yihui.name/en/2018/02/r-podcast/)
 
 ### Gist & Cookbook
