@@ -107,7 +107,7 @@ Release Date: 2019-02-18
 
 ###  Videos and Podcasts
 
-+ [Another R-Podcast with Eric Nantz](https://yihui.name/en/2018/02/r-podcast/)
++ [Another R-Podcast with Eric Nantz (Yihui Xie)](https://yihui.name/en/2018/02/r-podcast/)
 
 ### Gist & Cookbook
 
