@@ -37,8 +37,6 @@ Release Date: 2019-02-18
 
 + [R for Political Data](https://www.thecrosstab.com/categories/r-for-political-data/)
 
-+ [AI, Machine Learning and Data Science Roundup: February 2019](https://blog.revolutionanalytics.com/2019/02/airoundup-february-2019.html)
-
 ### R in the Real World
 
 + [How did Axios rectangle Trump's PDF schedule? A try with R](https://masalmon.eu/2019/02/11/trump-schedule/)
@@ -56,10 +54,6 @@ Release Date: 2019-02-18
 + [R for Political Data Science Week 7: The 2020 Twitter Primary](https://www.thecrosstab.com/2019/02/15/2020-twitter-primary/)
 
 + [Visualizing Brooklyn Nine-Nine with R!](http://Ryo-N7.github.io/2019-02-15-visualize-brooklyn-nine-nine/)
-
-+ [Connecting R and arduino wirelessly through websockets](https://zhuhao.org/post/connecting-r-and-arduino-through-websockets/)
-
-+ [The relationship between sociodemographic characteristics and electoral vote results - part 2 : get census data and plot the results](https://www.simoncoulombe.com/2018/02/12/the-relationship-between-sociodemographic-characteristics-and-electoral-vote-results---part-2--get-census-data-and-plot-the-results/)
 
 ###  R in Organizations
 
@@ -88,6 +82,8 @@ Release Date: 2019-02-18
 + [`olsrr`](https://blog.aravindhebbali.com/2019/02/07/introducing-olsrr/), a set of tools for improved output from linear regression models, designed keeping in mind beginner/intermediate R users.
 
 + [Introducing tidyLPA (an R package for carrying out Latent Profile Analysis)](https://jrosen48.github.io/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/)
+
++ [Using the ropendata R Package to Access Petabytes of Free Internet Telemetry Data from Rapid7](https://rud.is/b/2019/02/14/using-the-ropendata-r-package-to-access-petabytes-of-free-internet-telemetry-data-from-rapid7/)
 
 **BioC**
 
@@ -151,8 +147,6 @@ Release Date: 2019-02-18
 
 + [Is 10,000 Cells Big?](http://www.win-vector.com/blog/2018/02/is-10000-cells-big/)
 
-+ [Using the ropendata R Package to Access Petabytes of Free Internet Telemetry Data from Rapid7](https://rud.is/b/2019/02/14/using-the-ropendata-r-package-to-access-petabytes-of-free-internet-telemetry-data-from-rapid7/)
-
 + [Evaluating R code from potentially malicious sources - part 1](https://coolbutuseless.bitbucket.io/2018/02/10/evaluating-r-code-from-potentially-malicious-sources/); [part 2](https://coolbutuseless.bitbucket.io/2018/02/11/evaluating-r-code-from-potentially-malicious-sources-part-2/), [part 3](https://coolbutuseless.bitbucket.io/2018/02/12/part-3-evaluating-r-code-from-potentially-malicious-sources/), [part 4](https://coolbutuseless.bitbucket.io/2018/02/13/evaluating-r-code-from-potentially-malicious-sources-part-4/).
 
 + [A Shiny app for your perfect circle](http://staff.math.su.se/hoehle/blog/2019/02/15/shinycircle.html)
@@ -168,6 +162,10 @@ Release Date: 2019-02-18
 + [Supervised vs. Unsupervised Learning: Exploring Brexit with PLS and PCA](http://feedproxy.google.com/~r/ciflikli/~3/a0rznSVTxOk/)
 
 + [Population growth and Doubling times with tidyverse](http://kanishka.xyz/2018/population-growth-and-doubling-times-with-tidyverse/)
+
++ [The relationship between sociodemographic characteristics and electoral vote results - part 2 : get census data and plot the results](https://www.simoncoulombe.com/2018/02/12/the-relationship-between-sociodemographic-characteristics-and-electoral-vote-results---part-2--get-census-data-and-plot-the-results/)
+
++ [Connecting R and arduino wirelessly through websockets](https://zhuhao.org/post/connecting-r-and-arduino-through-websockets/)
 
 <!--div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
