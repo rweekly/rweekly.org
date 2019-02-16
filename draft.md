@@ -15,9 +15,14 @@ Release Date: 2019-02-18
 
 + ["Correlation is not causation". So what is?](https://iyarlin.github.io/2019/02/08/correlation-is-not-causation-so-what-is/)
 
-+ [Community Call Follow-up - Governance of Open Source Research Software Organizationss](https://ropensci.org/blog/2019/02/12/governance/)
 
 + [Most popular machine learning R packages – part 2](https://eranraviv.com/most-popular-machine-learning-r-packages-part-2/)
+
++ [Quick Hit: Speeding Up a Slow/Mundane Task with a Little Rcpp](https://rud.is/b/2019/02/09/quick-hit-speeding-up-a-slow-mundane-task-with-a-little-rcpp/)
+
++ [Staged Install](https://developer.r-project.org/Blog/public/2019/02/14/staged-install/)
+
++ [A Major Upgrade of the V8 package](https://ropensci.org/technotes/2019/02/11/v8-20/)
 
 ###  Resources
 
@@ -31,7 +36,11 @@ Release Date: 2019-02-18
 
 + [R for Political Data](https://www.thecrosstab.com/categories/r-for-political-data/)
 
++ [AI, Machine Learning and Data Science Roundup: February 2019](https://blog.revolutionanalytics.com/2019/02/airoundup-february-2019.html)
+
 ### R in the Real World
+
++ [How did Axios rectangle Trump's PDF schedule? A try with R](https://masalmon.eu/2019/02/11/trump-schedule/)
 
 + [What Do Freelance Writers Make?](http://www.storybench.org/what-do-freelance-writers-make/)
 
@@ -43,9 +52,18 @@ Release Date: 2019-02-18
 
 + [Text mining the EU withdrawal bill Hansard II](https://www.mattchaib.com/post/2019/02/11/text-mining-the-eu-withdrawal-bill-hansard-ii/)
 
++ [R for Political Data Science Week 7: The 2020 Twitter Primary](https://www.thecrosstab.com/2019/02/15/2020-twitter-primary/)
+
++ [Visualizing Brooklyn Nine-Nine with R!](http://Ryo-N7.github.io/2019-02-15-visualize-brooklyn-nine-nine/)
+
++ [Connecting R and arduino wirelessly through websockets](https://zhuhao.org/post/connecting-r-and-arduino-through-websockets/)
+
 ###  R in Organizations
 
++ [Try out RStudio Connect on Your Desktop for Free](https://blog.rstudio.com/2019/02/13/try-out-rstudio-connect-on-your-desktop/)
 
+
++ [Community Call Follow-up - Governance of Open Source Research Software Organizationss](https://ropensci.org/blog/2019/02/12/governance/)
 
 ###  R in Academia
 
@@ -112,6 +130,24 @@ Release Date: 2019-02-18
 + [Quick Hit: Speeding Up a Slow/Mundane Task with a Little `Rcpp`](https://rud.is/b/2019/02/09/quick-hit-speeding-up-a-slow-mundane-task-with-a-little-rcpp/)
 
 + [Investigating words distribution with R – Zipf’s law](https://appsilon.com/investigating-words-distribution-with-r-zipfs-law/)
+
++ [8 out of 10 cats does countdown - part 2](https://coolbutuseless.github.io/2019/02/11/8-out-of-10-cats-does-countdown-part-2/)
+
+
++ [cdata Control Table Keys](http://www.win-vector.com/blog/2019/02/cdata-control-table-keys/)
+
++ [object of type 'closure' is not(?) subsettable](https://coolbutuseless.github.io/2019/02/12/object-of-type-closure-is-not-subsettable/)
+
++ [PDSwR2 Free Excerpt and New Discount Code](http://www.win-vector.com/blog/2019/02/pdswr2-free-excerpt-and-new-discount-code/)
+
++ [Using the ropendata R Package to Access Petabytes of Free Internet Telemetry Data from Rapid7](https://rud.is/b/2019/02/14/using-the-ropendata-r-package-to-access-petabytes-of-free-internet-telemetry-data-from-rapid7/)
+
+
++ [A Shiny app for your perfect circle](http://staff.math.su.se/hoehle/blog/2019/02/15/shinycircle.html)
+
++ [Anatomy of a logistic growth curve](https://tjmahr.github.io/anatomy-of-a-logistic-growth-curve/)
+
+
 
 <!--div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
