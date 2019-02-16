@@ -99,7 +99,7 @@ Release Date: 2019-02-18
 
 + [`vcr`](https://github.com/ropensci/vcr/releases/tag/v0.2.6) - Record test suite 'HTTP' requests and replays them during future runs.
 
-+ [A Major Upgrade of the `V8`s package](https://ropensci.org/technotes/2019/02/11/v8-20/)
++ [A Major Upgrade of the `V8` package](https://ropensci.org/technotes/2019/02/11/v8-20/)
 
 + [tidygraph 1.1 – A tidy hope](https://www.data-imaginist.com/2018/tidygraph-1-1-a-tidy-hope/)
 
