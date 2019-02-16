@@ -19,11 +19,9 @@ Release Date: 2019-02-18
 
 + [Deep learning at rstudio::conf 2018](https://rviews.rstudio.com/2018/02/14/deep-learning-rstudio-conf-2018/)
 
-+ [Quick Hit: Speeding Up a Slow/Mundane Task with a Little Rcpp](https://rud.is/b/2019/02/09/quick-hit-speeding-up-a-slow-mundane-task-with-a-little-rcpp/)
-
-+ [A Major Upgrade of the V8 package](https://ropensci.org/technotes/2019/02/11/v8-20/)
-
 + [Mastering your day as a programmer](https://lorenzwalthert.netlify.com/post/mastering-your-day-as-a-programmer-2/)
+
++ [We Want to be Playing with a Moderate Number of Powerful Blocks](http://www.win-vector.com/blog/2018/02/we-want-to-be-playing-with-a-moderate-number-of-powerful-blocks/)
 
 ###  Resources
 
@@ -87,6 +85,8 @@ Release Date: 2019-02-18
 
 + [`olsrr`](https://blog.aravindhebbali.com/2019/02/07/introducing-olsrr/), a set of tools for improved output from linear regression models, designed keeping in mind beginner/intermediate R users.
 
++ [Introducing tidyLPA (an R package for carrying out Latent Profile Analysis)](https://jrosen48.github.io/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/)
+
 **BioC**
 
 
@@ -144,6 +144,8 @@ Release Date: 2019-02-18
 + [8 out of 10 cats does countdown - part 2](https://coolbutuseless.github.io/2019/02/11/8-out-of-10-cats-does-countdown-part-2/)
 
 + [object of type 'closure' is not(?) subsettable](https://coolbutuseless.github.io/2019/02/12/object-of-type-closure-is-not-subsettable/)
+
++ [chull()](https://coolbutuseless.bitbucket.io/2018/02/15/chull/)
 
 + [Is 10,000 Cells Big?](http://www.win-vector.com/blog/2018/02/is-10000-cells-big/)
 
