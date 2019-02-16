@@ -144,11 +144,15 @@ Release Date: 2019-02-18
 
 + [Using the ropendata R Package to Access Petabytes of Free Internet Telemetry Data from Rapid7](https://rud.is/b/2019/02/14/using-the-ropendata-r-package-to-access-petabytes-of-free-internet-telemetry-data-from-rapid7/)
 
++ [Evaluating R code from potentially malicious sources - part 1](https://coolbutuseless.bitbucket.io/2018/02/10/evaluating-r-code-from-potentially-malicious-sources/); [part 2](https://coolbutuseless.bitbucket.io/2018/02/11/evaluating-r-code-from-potentially-malicious-sources-part-2/), [part 3](https://coolbutuseless.bitbucket.io/2018/02/12/part-3-evaluating-r-code-from-potentially-malicious-sources/)
 
 + [A Shiny app for your perfect circle](http://staff.math.su.se/hoehle/blog/2019/02/15/shinycircle.html)
 
 + [Anatomy of a logistic growth curve](https://tjmahr.github.io/anatomy-of-a-logistic-growth-curve/)
 
++ [tfestimators - Package: Embeddings for Categorical Variables](http://flovv.github.io/Embeddings_with_tf/)
+
++ [Predicting job search by training a random forest on an unbalanced dataset](https://www.brodrigues.co/blog/2018-02-11-census-random_forest/)
 
 
 <!--div class="post-more-begi
@@ -156,7 +160,9 @@ n"></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+Updates from [R Core](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
+`R CMD check` has more comprehensive checks on the `data` directory and the functioning of `data()` in a package. 
 
 
 ###  Upcoming Events in 3 Months
@@ -178,12 +184,6 @@ Events in 3 Months:
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
-
-
-
-
-### Jobs
-
 
 
 
