@@ -27,6 +27,8 @@ Release Date: 2019-02-18
 
 + [Community Call Follow-up - Governance of Open Source Research Software Organizations](https://ropensci.org/blog/2019/02/12/governance/)
 
++ [Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](http://laderast.github.io/2019/02/12/package-building-description-namespace/)
+
 ###  Resources
 
 + [The `ggplot2` flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
@@ -128,8 +130,6 @@ Release Date: 2019-02-18
 + [Writing Text in Minecraft with R](https://kbroman.org/blog/2019/02/11/writing_text_in_minecraft_with_r/)
 
 + [Coupling Web scraping with Functional Programming in R for scale](https://towardsdatascience.com/coupling-web-scraping-with-functional-programming-in-r-for-scale-1bc4509eef29)
-
-+ [Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](http://laderast.github.io/2019/02/12/package-building-description-namespace/)
 
 + [`cdata` Control Table Keys](http://www.win-vector.com/blog/2019/02/cdata-control-table-keys/)
 
