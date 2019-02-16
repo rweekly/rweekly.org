@@ -57,8 +57,6 @@ Release Date: 2019-02-18
 
 ###  R in Organizations
 
-+ [Try out RStudio Connect on Your Desktop for Free](https://blog.rstudio.com/2019/02/13/try-out-rstudio-connect-on-your-desktop/)
-
 + [Community Call Follow-up - Governance of Open Source Research Software Organizationss](https://ropensci.org/blog/2019/02/12/governance/)
 
 + [What does Microsoft do with R?](http://blog.revolutionanalytics.com/2018/02/what-does-microsoft-do-with-r.html)
@@ -97,7 +95,7 @@ Release Date: 2019-02-18
 
 + [`staplr`](https://pridiltal.github.io/staplr/), toolkit to manipulate PDF files.
 
-+ [`vcr`](https://cran.rstudio.com/web/packages/vcr/) - Record test suite 'HTTP' requests and replays them during future runs.
++ [`vcr`](https://github.com/ropensci/vcr/releases/tag/v0.2.6) - Record test suite 'HTTP' requests and replays them during future runs.
 
 + [A Major Upgrade of the `V8`s package](https://ropensci.org/technotes/2019/02/11/v8-20/)
 
