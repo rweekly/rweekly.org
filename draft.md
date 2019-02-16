@@ -25,8 +25,6 @@ Release Date: 2019-02-18
 
 + [Data Science Education: Some Thoughts](http://www.dsup.org/blog/data-science-education-some-thoughts/)
 
-+ [Community Call Follow-up - Governance of Open Source Research Software Organizations](https://ropensci.org/blog/2019/02/12/governance/)
-
 + [Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](http://laderast.github.io/2019/02/12/package-building-description-namespace/)
 
 ###  Resources
