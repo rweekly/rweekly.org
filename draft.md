@@ -15,12 +15,11 @@ Release Date: 2019-02-18
 
 + ["Correlation is not causation". So what is?](https://iyarlin.github.io/2019/02/08/correlation-is-not-causation-so-what-is/)
 
-
 + [Most popular machine learning R packages – part 2](https://eranraviv.com/most-popular-machine-learning-r-packages-part-2/)
 
-+ [Quick Hit: Speeding Up a Slow/Mundane Task with a Little Rcpp](https://rud.is/b/2019/02/09/quick-hit-speeding-up-a-slow-mundane-task-with-a-little-rcpp/)
++ [Deep learning at rstudio::conf 2018](https://rviews.rstudio.com/2018/02/14/deep-learning-rstudio-conf-2018/)
 
-+ [Staged Install](https://developer.r-project.org/Blog/public/2019/02/14/staged-install/)
++ [Quick Hit: Speeding Up a Slow/Mundane Task with a Little Rcpp](https://rud.is/b/2019/02/09/quick-hit-speeding-up-a-slow-mundane-task-with-a-little-rcpp/)
 
 + [A Major Upgrade of the V8 package](https://ropensci.org/technotes/2019/02/11/v8-20/)
 
@@ -60,12 +59,15 @@ Release Date: 2019-02-18
 
 + [Connecting R and arduino wirelessly through websockets](https://zhuhao.org/post/connecting-r-and-arduino-through-websockets/)
 
++ [The relationship between sociodemographic characteristics and electoral vote results - part 2 : get census data and plot the results](https://www.simoncoulombe.com/2018/02/12/the-relationship-between-sociodemographic-characteristics-and-electoral-vote-results---part-2--get-census-data-and-plot-the-results/)
+
 ###  R in Organizations
 
 + [Try out RStudio Connect on Your Desktop for Free](https://blog.rstudio.com/2019/02/13/try-out-rstudio-connect-on-your-desktop/)
 
-
 + [Community Call Follow-up - Governance of Open Source Research Software Organizationss](https://ropensci.org/blog/2019/02/12/governance/)
+
++ [What does Microsoft do with R?](http://blog.revolutionanalytics.com/2018/02/what-does-microsoft-do-with-r.html)
 
 ###  R in Academia
 
@@ -81,7 +83,7 @@ Release Date: 2019-02-18
 
 **CRAN**
 
-
++ [shinyalert: Easily create pretty popup messages (modals) in Shiny](https://deanattali.com/blog/shinyalert-package/)
 
 + [`olsrr`](https://blog.aravindhebbali.com/2019/02/07/introducing-olsrr/), a set of tools for improved output from linear regression models, designed keeping in mind beginner/intermediate R users.
 
@@ -101,9 +103,15 @@ Release Date: 2019-02-18
 
 + [A Major Upgrade of the `V8`s package](https://ropensci.org/technotes/2019/02/11/v8-20/)
 
++ [Support for hOCR and Tesseract 4 in R](https://ropensci.org/technotes/2018/02/14/tesseract-18/)
+
++ [tidygraph 1.1 – A tidy hope](https://www.data-imaginist.com/2018/tidygraph-1-1-a-tidy-hope/)
+
++ [BH 1.66.0-1](http://dirk.eddelbuettel.com/blog/2018/02/13#bh_1.66.0-1)
+
 ###  Videos and Podcasts
 
-
++ [Tidy evaluation in 5 mins](https://www.youtube.com/watch?v=nERXS3ssntw)
 
 ### Gist & Cookbook
 
@@ -135,16 +143,13 @@ Release Date: 2019-02-18
 
 + [8 out of 10 cats does countdown - part 2](https://coolbutuseless.github.io/2019/02/11/8-out-of-10-cats-does-countdown-part-2/)
 
-
-+ [cdata Control Table Keys](http://www.win-vector.com/blog/2019/02/cdata-control-table-keys/)
-
 + [object of type 'closure' is not(?) subsettable](https://coolbutuseless.github.io/2019/02/12/object-of-type-closure-is-not-subsettable/)
 
-+ [PDSwR2 Free Excerpt and New Discount Code](http://www.win-vector.com/blog/2019/02/pdswr2-free-excerpt-and-new-discount-code/)
++ [Is 10,000 Cells Big?](http://www.win-vector.com/blog/2018/02/is-10000-cells-big/)
 
 + [Using the ropendata R Package to Access Petabytes of Free Internet Telemetry Data from Rapid7](https://rud.is/b/2019/02/14/using-the-ropendata-r-package-to-access-petabytes-of-free-internet-telemetry-data-from-rapid7/)
 
-+ [Evaluating R code from potentially malicious sources - part 1](https://coolbutuseless.bitbucket.io/2018/02/10/evaluating-r-code-from-potentially-malicious-sources/); [part 2](https://coolbutuseless.bitbucket.io/2018/02/11/evaluating-r-code-from-potentially-malicious-sources-part-2/), [part 3](https://coolbutuseless.bitbucket.io/2018/02/12/part-3-evaluating-r-code-from-potentially-malicious-sources/)
++ [Evaluating R code from potentially malicious sources - part 1](https://coolbutuseless.bitbucket.io/2018/02/10/evaluating-r-code-from-potentially-malicious-sources/); [part 2](https://coolbutuseless.bitbucket.io/2018/02/11/evaluating-r-code-from-potentially-malicious-sources-part-2/), [part 3](https://coolbutuseless.bitbucket.io/2018/02/12/part-3-evaluating-r-code-from-potentially-malicious-sources/), [part 4](https://coolbutuseless.bitbucket.io/2018/02/13/evaluating-r-code-from-potentially-malicious-sources-part-4/).
 
 + [A Shiny app for your perfect circle](http://staff.math.su.se/hoehle/blog/2019/02/15/shinycircle.html)
 
@@ -154,6 +159,9 @@ Release Date: 2019-02-18
 
 + [Predicting job search by training a random forest on an unbalanced dataset](https://www.brodrigues.co/blog/2018-02-11-census-random_forest/)
 
++ [Supervised vs. Unsupervised Learning: Exploring Brexit with PLS and PCA](http://feedproxy.google.com/~r/ciflikli/~3/a0rznSVTxOk/)
+
++ [Population growth and Doubling times with tidyverse](http://kanishka.xyz/2018/population-growth-and-doubling-times-with-tidyverse/)
 
 <!--div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
@@ -162,10 +170,14 @@ n"></div><div class="post-more-end"></div>-->
 
 Updates from [R Core](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-`R CMD check` has more comprehensive checks on the `data` directory and the functioning of `data()` in a package. 
++ [Staged Install](https://developer.r-project.org/Blog/public/2019/02/14/staged-install/)
+
++ `R CMD check` has more comprehensive checks on the `data` directory and the functioning of `data()` in a package. 
 
 
 ###  Upcoming Events in 3 Months
+
++ [Diversity scholarships for upcoming R conferences](http://blog.revolutionanalytics.com/2018/02/diversity-scholarships.html)
 
 Events in 3 Months:
 
@@ -183,7 +195,9 @@ Events in 3 Months:
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
-### Datasets
+### Jobs
+
++ [Summer interns](https://blog.rstudio.com/2018/02/12/summer-interns/)
 
 
 
