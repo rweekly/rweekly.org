@@ -23,6 +23,8 @@ Release Date: 2019-02-18
 
 + [We Want to be Playing with a Moderate Number of Powerful Blocks](http://www.win-vector.com/blog/2018/02/we-want-to-be-playing-with-a-moderate-number-of-powerful-blocks/)
 
++ [Data Science Education: Some Thoughts](http://www.dsup.org/blog/data-science-education-some-thoughts/)
+
 ###  Resources
 
 + [The `ggplot2` flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
@@ -111,7 +113,6 @@ Release Date: 2019-02-18
 
 ###  Videos and Podcasts
 
-+ [Tidy evaluation in 5 mins](https://www.youtube.com/watch?v=nERXS3ssntw)
 
 ### Gist & Cookbook
 
@@ -147,6 +148,8 @@ Release Date: 2019-02-18
 
 + [chull()](https://coolbutuseless.bitbucket.io/2018/02/15/chull/)
 
++ [convex hulls part 2](https://coolbutuseless.bitbucket.io/2018/02/16/convex-hulls-part-2/)
+
 + [Is 10,000 Cells Big?](http://www.win-vector.com/blog/2018/02/is-10000-cells-big/)
 
 + [Using the ropendata R Package to Access Petabytes of Free Internet Telemetry Data from Rapid7](https://rud.is/b/2019/02/14/using-the-ropendata-r-package-to-access-petabytes-of-free-internet-telemetry-data-from-rapid7/)
@@ -158,6 +161,8 @@ Release Date: 2019-02-18
 + [Anatomy of a logistic growth curve](https://tjmahr.github.io/anatomy-of-a-logistic-growth-curve/)
 
 + [tfestimators - Package: Embeddings for Categorical Variables](http://flovv.github.io/Embeddings_with_tf/)
+
++ [Importing 30GB of data in R with sparklyr](http://www.brodrigues.co/blog/2018-02-16-importing_30gb_of_data/)
 
 + [Predicting job search by training a random forest on an unbalanced dataset](https://www.brodrigues.co/blog/2018-02-11-census-random_forest/)
 
