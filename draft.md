@@ -24,6 +24,8 @@ Release Date: 2019-02-18
 
 + [A Major Upgrade of the V8 package](https://ropensci.org/technotes/2019/02/11/v8-20/)
 
++ [Mastering your day as a programmer](https://lorenzwalthert.netlify.com/post/mastering-your-day-as-a-programmer-2/)
+
 ###  Resources
 
 + [The `ggplot2` flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
