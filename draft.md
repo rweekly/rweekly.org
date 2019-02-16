@@ -201,7 +201,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-+ [Summer interns](https://blog.rstudio.com/2018/02/12/summer-interns/)
++ [RStudio Summer interns](https://blog.rstudio.com/2018/02/12/summer-interns/)
 
 
 
