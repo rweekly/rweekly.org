@@ -100,6 +100,18 @@ Release Date: 2019-02-18
 
 + [`leiden`](https://cran.r-project.org/package=leiden): Implementation of the 'Python leidenalg' Module
 
++ [`metaMix`](https://cran.r-project.org/package=metaMix): Bayesian Mixture Analysis for Metagenomic Community Profiling
+
++ [`rrum`](https://cran.r-project.org/package=rrum): Bayesian Estimation of the Reduced Reparameterized Unified Modelwith Gibbs Sampling
+
++ [`uclust`](https://cran.r-project.org/package=uclust): Clustering and Classification Inference with U-Statistics
+
++ [`rPACI`](https://cran.r-project.org/package=rPACI): Placido Analysis of Corneal Irregularity
+
++ [`HRW`](https://cran.r-project.org/package=HRW): Datasets, Functions and Scripts for Semiparametric Regression Supporting Harezlak, Ruppert & Wand (2018)
+
++ [`Ropj`](https://cran.r-project.org/package=Ropj): Import Origin(R) Project Files
+
 **BioC**
 
 
