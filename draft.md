@@ -7,8 +7,16 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2019-02-18
 
-###  Highlight
+###  Highlights
 
+
++ [The `ggplot2` flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
+
+![ggplot2 flipbook screenshot](https://cdn.jsdelivr.net/gh/rweekly/image/2019/ggplot2-flipbook.gif)
+
++ [Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](http://laderast.github.io/2019/02/12/package-building-description-namespace/)
+
+![diagram from Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](https://cdn.jsdelivr.net/gh/rweekly/image/2019/description.png)
 
 
 ### Insights
@@ -19,13 +27,7 @@ Release Date: 2019-02-18
 
 + [Mastering your day as a programmer](https://lorenzwalthert.netlify.com/post/mastering-your-day-as-a-programmer-2/)
 
-+ [Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](http://laderast.github.io/2019/02/12/package-building-description-namespace/)
-
 ###  Resources
-
-+ [The `ggplot2` flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
-
-![ggplot2 flipbook screenshot](https://cdn.jsdelivr.net/gh/rweekly/image/2019/ggplot2-flipbook.gif)
 
 + [`ggplot2` extensions gallery](https://www.ggplot2-exts.org/gallery/)
 
