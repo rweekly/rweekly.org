@@ -18,7 +18,6 @@ Release Date: 2019-02-18
 
 ![diagram from Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](https://cdn.jsdelivr.net/gh/rweekly/image/2019/description.png)
 
-
 ### Insights
 
 + ["Correlation is not causation". So what is?](https://iyarlin.github.io/2019/02/08/correlation-is-not-causation-so-what-is/)
@@ -37,11 +36,11 @@ Release Date: 2019-02-18
 
 ### R in the Real World
 
-+ [How did Axios rectangle Trump's PDF schedule? A try with R](https://masalmon.eu/2019/02/11/trump-schedule/)
-
 + [What Do Freelance Writers Make?](http://www.storybench.org/what-do-freelance-writers-make/)
 
 + [Trump tweet time](https://apps.garrickadenbuie.coma/trump-tweet-time/)
+
+![Trump tweet time app screenshot](https://cdn.jsdelivr.net/gh/rweekly/image/2019/trumptweettime.jpg)
 
 + [How did Axios rectangle Trump's PDF schedule? A try with R](https://masalmon.eu/2019/02/11/trump-schedule/)
 
@@ -56,6 +55,8 @@ Release Date: 2019-02-18
 + [Use algebra and calculus with R and yacas to find Chidi's optimal level of pizza and frozen yogurt consumption](https://www.andrewheiss.com/blog/2019/02/16/algebra-calculus-r-yacas/)
 
 + [H-indexes of CRAN package maintainers. Search your own.](https://nacnudus.github.io/duncangarmonsway/posts/2019-02-08-cran-h-index/)
+
+![Figure from "H-indexes of CRAN package maintainers. Search your own."](https://cdn.jsdelivr.net/gh/rweekly/image/2019/hindex.png)
 
 ###  R in Organizations
 
@@ -143,6 +144,8 @@ Release Date: 2019-02-18
 + [`VapoRwave`](https://github.com/moldach/vapoRwave): Featuring three vaporwave `ggplot2` themes and 13 (lucky) color palettes 🏂 
 
 + [`ghactions`](https://github.com/maxheld83/ghactions), GitHub actions for R and accompanying R package.
+
+![flowchart from ghactions README](https://cdn.jsdelivr.net/gh/rweekly/image/2019/ghactions.gif)
 
 + [`cbrt`](http://users.metu.edu.tr/etaymaz/cbrt-2019.html), provides functions for finding, and downloading data from the Central Bank of the Republic of Turkey's database (more than 22,000 time series variables on Turkish economy).
 
