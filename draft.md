@@ -112,6 +112,27 @@ Release Date: 2019-02-18
 
 + [`Ropj`](https://cran.r-project.org/package=Ropj): Import Origin(R) Project Files
 
++ [`cgwtools`](https://cran.r-project.org/package=cgwtools): Miscellaneous Tools
+
++ [`rosr`](https://cran.r-project.org/package=rosr): Create Reproducible Research Projects
+
++ [`ptmixed`](https://cran.r-project.org/package=ptmixed): Poisson-Tweedie Generalized Linear Mixed Model
+
++ [`Claddis`](https://cran.r-project.org/package=Claddis): Measuring Morphological Diversity and Evolutionary Tempo
+
++ [`seedwater`](https://cran.r-project.org/package=seedwater): Models for Drying and Soaking Kinetics of Seeds
+
++ [`EGRETci`](https://cran.r-project.org/package=EGRETci): Exploration and Graphics for RivEr Trends Confidence Intervals
+
++ [`rcitoid`](https://cran.r-project.org/package=rcitoid): Client for 'Citoid'
+
++ [`tidystopwords`](https://cran.r-project.org/package=tidystopwords): Customizable Lists of Stopwords in 53 Languages
+
++ [`fxtract`](https://cran.r-project.org/package=fxtract): Feature Extraction from Grouped Data
+
++ [`ICD10gm`](https://cran.r-project.org/package=ICD10gm): Metadata Processing for the German Modification of the ICD-10Coding System
+
+
 **BioC**
 
 
@@ -179,7 +200,7 @@ Updates from [R Core](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 + [Staged Install](https://developer.r-project.org/Blog/public/2019/02/14/staged-install/)
 
-+ `R CMD check` has more comprehensive checks on the `data` directory and the functioning of `data()` in a package. 
++ `R CMD check` has more comprehensive checks on the `data` directory and the functioning of `data() in a package. 
 
 
 ###  Upcoming Events in 3 Months
