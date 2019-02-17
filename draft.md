@@ -70,10 +70,6 @@ Release Date: 2019-02-18
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [`VapoRwave`](https://github.com/moldach/vapoRwave): Featuring three vaporwave `ggplot2` themes and 13 (lucky) color palettes 🏂 
-
-+ [`ghactions`](https://github.com/maxheld83/ghactions), GitHub actions for R and accompanying R package.
-
 **CRAN**
 
 + [`shinyalert`: Easily create pretty popup messages (modals) in Shiny](https://deanattali.com/blog/shinyalert-package/)
@@ -143,6 +139,10 @@ Release Date: 2019-02-18
 + [`mlbgameday`](https://cran.r-project.org/package=mlbgameday): Tools to Gather Data from Major League Baseball Advanced Media
 
 **GitHub or Bitbucket**
+
++ [`VapoRwave`](https://github.com/moldach/vapoRwave): Featuring three vaporwave `ggplot2` themes and 13 (lucky) color palettes 🏂 
+
++ [`ghactions`](https://github.com/maxheld83/ghactions), GitHub actions for R and accompanying R package.
 
 + [`cbrt`](http://users.metu.edu.tr/etaymaz/cbrt-2019.html), provides functions for finding, and downloading data from the Central Bank of the Republic of Turkey's database (more than 22,000 time series variables on Turkish economy).
 
