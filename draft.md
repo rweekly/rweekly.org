@@ -132,6 +132,10 @@ Release Date: 2019-02-18
 
 + [`ICD10gm`](https://cran.r-project.org/package=ICD10gm): Metadata Processing for the German Modification of the ICD-10Coding System
 
++ [`mRMRe`](https://cran.r-project.org/package=mRMRe): Parallelized Minimum Redundancy, Maximum Relevance (mRMR)Ensemble Feature Selection
+
++ [`mlbgameday`](https://cran.r-project.org/package=mlbgameday): Tools to Gather Data from Major League Baseball Advanced Media
+
 
 **BioC**
 
@@ -190,6 +194,11 @@ Release Date: 2019-02-18
 + [tfestimators - Package: Embeddings for Categorical Variables](http://flovv.github.io/Embeddings_with_tf/)
 
 + [Connecting R and arduino wirelessly through websockets](https://zhuhao.org/post/connecting-r-and-arduino-through-websockets/)
+
++ [Verbose data.table and uncovering hidden cedta's data table awareness decisions](https://jozefhajnala.gitlab.io/r/r911-datatable-cedta/)
+
++ [Query Generation in R](http://www.win-vector.com/blog/2019/02/query-generation-in-r/)
+
 
 <!--div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
