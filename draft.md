@@ -78,7 +78,27 @@ Release Date: 2019-02-18
 
 + [Using the ropendata R Package to Access Petabytes of Free Internet Telemetry Data from Rapid7](https://rud.is/b/2019/02/14/using-the-ropendata-r-package-to-access-petabytes-of-free-internet-telemetry-data-from-rapid7/)  
 
-+ [Announcing the First Release of noaaoceans](https://www.seanwarlick.com/post/release-of-noaaoceans/)
++ [Announcing the First Release of `noaaoceans`](https://www.seanwarlick.com/post/release-of-noaaoceans/)
+
++ [`sdpt3r`](https://cran.r-project.org/package=sdpt3r): Semi-Definite Quadratic Linear Programming Solver
+
++ [`sparsenet`](https://cran.r-project.org/package=sparsenet): Fit Sparse Linear Regression Models via Nonconvex Optimization
+
++ [`calendar`](https://cran.r-project.org/package=calendar): Create, Read, Write, and Work with 'iCalander' Files, Calendarsand Scheduling Data
+
++ [`TmCalculator`](https://cran.r-project.org/package=TmCalculator): Melting Temperature of Nucleic Acid Sequences
+
++ [`Rfssa`](https://cran.r-project.org/package=Rfssa): Functional Singular Spectrum Analysis
+
++ [`expSBM`](https://cran.r-project.org/package=expSBM): An Exponential Stochastic Block Model for Interaction Lengths
+
++ [`IrregLong`](https://cran.r-project.org/package=IrregLong): Analysis of Longitudinal Data with Irregular Observation Times
+
++ [`CB2`](https://cran.r-project.org/package=CB2): CRISPR Pooled Screen Analysis using Beta-Binomial Test
+
++ [`matsindf`](https://cran.r-project.org/package=matsindf): Matrices in data frames
+
++ [`leiden`](https://cran.r-project.org/package=leiden): Implementation of the 'Python leidenalg' Module
 
 **BioC**
 
