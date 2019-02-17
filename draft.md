@@ -181,8 +181,6 @@ Updates from [R Core](https://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ###  Upcoming Events in 3 Months
 
-+ [Diversity scholarships for upcoming R conferences](http://blog.revolutionanalytics.com/2018/02/diversity-scholarships.html)
-
 Events in 3 Months:
 
 + [satRday Paris - 23rd February](https://paris2019.satrdays.org/)
