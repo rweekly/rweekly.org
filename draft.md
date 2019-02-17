@@ -19,8 +19,6 @@ Release Date: 2019-02-18
 
 + [Mastering your day as a programmer](https://lorenzwalthert.netlify.com/post/mastering-your-day-as-a-programmer-2/)
 
-+ [Data Science Education: Some Thoughts](http://www.dsup.org/blog/data-science-education-some-thoughts/)
-
 + [Package Building: How `DESCRIPTION`, `NAMESPACE`, `roxygen`, and `devtools::document` work together](http://laderast.github.io/2019/02/12/package-building-description-namespace/)
 
 ###  Resources
@@ -101,6 +99,7 @@ Release Date: 2019-02-18
 ###  Videos and Podcasts
 
 + [NSSD Episode 74 - I Draw the Line at Fans](http://nssdeviations.com/74-i-draw-the-line-at-fans): Hilary and Roger discuss Roger's foray into cloud computing and how they determine whether they can trust an algorithm or R package. Also, a bonus discussion of the state of data science as a field.
+
 + [R-Podcast Episode 27 - Get the {gt} Tables!](https://r-podcast.org/27): Eric shares a behind-the-scenes look at his `rstudio::conf` 2019 presentation about Shiny modules, and talks to RStudio software engineer Rich Iannone about his journey from atmospheric science to creating the `DiagrammeR` and `gt` packages.
 
 ### Gist & Cookbook
@@ -136,8 +135,6 @@ Release Date: 2019-02-18
 + [Anatomy of a logistic growth curve](https://tjmahr.github.io/anatomy-of-a-logistic-growth-curve/)
 
 + [tfestimators - Package: Embeddings for Categorical Variables](http://flovv.github.io/Embeddings_with_tf/)
-
-+ [Supervised vs. Unsupervised Learning: Exploring Brexit with PLS and PCA](http://feedproxy.google.com/~r/ciflikli/~3/a0rznSVTxOk/)
 
 + [Connecting R and arduino wirelessly through websockets](https://zhuhao.org/post/connecting-r-and-arduino-through-websockets/)
 
