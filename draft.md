@@ -17,8 +17,6 @@ Release Date: 2019-02-18
 
 + [Most popular machine learning R packages – part 2](https://eranraviv.com/most-popular-machine-learning-r-packages-part-2/)
 
-+ [Deep learning at rstudio::conf 2018](https://rviews.rstudio.com/2018/02/14/deep-learning-rstudio-conf-2018/)
-
 + [Mastering your day as a programmer](https://lorenzwalthert.netlify.com/post/mastering-your-day-as-a-programmer-2/)
 
 + [We Want to be Playing with a Moderate Number of Powerful Blocks](http://www.win-vector.com/blog/2018/02/we-want-to-be-playing-with-a-moderate-number-of-powerful-blocks/)
@@ -199,7 +197,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-+ [RStudio Summer interns](https://blog.rstudio.com/2018/02/12/summer-interns/)
++ [RStudio Summer interns, application deadline 02/22](https://blog.rstudio.com/2019/01/18/summer-internships-2019/)
 
 
 
