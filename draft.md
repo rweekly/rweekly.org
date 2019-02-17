@@ -83,7 +83,9 @@ Release Date: 2019-02-18
 
 + [Introducing tidyLPA (an R package for carrying out Latent Profile Analysis)](https://jrosen48.github.io/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/)
 
-+ [Using the ropendata R Package to Access Petabytes of Free Internet Telemetry Data from Rapid7](https://rud.is/b/2019/02/14/using-the-ropendata-r-package-to-access-petabytes-of-free-internet-telemetry-data-from-rapid7/)
++ [Using the ropendata R Package to Access Petabytes of Free Internet Telemetry Data from Rapid7](https://rud.is/b/2019/02/14/using-the-ropendata-r-package-to-access-petabytes-of-free-internet-telemetry-data-from-rapid7/)  
+
++ [Announcing the First Release of noaaoceans](https://www.seanwarlick.com/post/release-of-noaaoceans/)
 
 **BioC**
 
