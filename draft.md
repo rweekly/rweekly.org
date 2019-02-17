@@ -51,6 +51,10 @@ Release Date: 2019-02-18
 
 + [Visualizing Brooklyn Nine-Nine with R!](http://Ryo-N7.github.io/2019-02-15-visualize-brooklyn-nine-nine/)
 
++ [Use algebra and calculus with R and yacas to find Chidi's optimal level of pizza and frozen yogurt consumption](https://www.andrewheiss.com/blog/2019/02/16/algebra-calculus-r-yacas/)
+
++ [H-indexes of CRAN package maintainers. Search your own.](https://nacnudus.github.io/duncangarmonsway/posts/2019-02-08-cran-h-index/)
+
 ###  R in Organizations
 
 + [Community Call Follow-up - Governance of Open Source Research Software Organizationss](https://ropensci.org/blog/2019/02/12/governance/)
@@ -136,13 +140,9 @@ Release Date: 2019-02-18
 
 + [`mlbgameday`](https://cran.r-project.org/package=mlbgameday): Tools to Gather Data from Major League Baseball Advanced Media
 
-
-**BioC**
-
-
-
 **GitHub or Bitbucket**
 
++ [`cbrt`](http://users.metu.edu.tr/etaymaz/cbrt-2019.html), provides functions for finding, and downloading data from the Central Bank of the Republic of Turkey's database (more than 22,000 time series variables on Turkish economy).
 
 
 ### Updated Packages
@@ -158,14 +158,6 @@ Release Date: 2019-02-18
 + [NSSD Episode 74 - I Draw the Line at Fans](http://nssdeviations.com/74-i-draw-the-line-at-fans): Hilary and Roger discuss Roger's foray into cloud computing and how they determine whether they can trust an algorithm or R package. Also, a bonus discussion of the state of data science as a field.
 
 + [R-Podcast Episode 27 - Get the {gt} Tables!](https://r-podcast.org/27): Eric shares a behind-the-scenes look at his `rstudio::conf` 2019 presentation about Shiny modules, and talks to RStudio software engineer Rich Iannone about his journey from atmospheric science to creating the `DiagrammeR` and `gt` packages.
-
-### Gist & Cookbook
-
-
-
-### R Internationally
-
-
 
 ###  Tutorials
 
@@ -199,6 +191,9 @@ Release Date: 2019-02-18
 
 + [Query Generation in R](http://www.win-vector.com/blog/2019/02/query-generation-in-r/)
 
++ [Excel email address cleaner & aggregator in R (#readxl, #openxlsx)](https://rickpackblog.wordpress.com/2019/02/14/excel-email-cleaner-aggregator-r-script-readxl-stringr/)
+
++ [Meetup API tracking in R (Part 1) - Analytics>Forward in RTP, NC](https://rickpackblog.wordpress.com/2019/02/13/analyticsforward-2019-meetup-api-tracking-in-r-pt-1/)
 
 <!--div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
