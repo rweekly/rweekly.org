@@ -13,11 +13,18 @@ Release Date: 2018-02-25
 
 ### Insights
 
++ [Absolutely No Warranty](https://notstatschat.rbind.io/2019/02/18/absolutely-no-warranty/)
 
 
 ### R in the Real World
 
++ [Visualize Language Loss in Taiwan: Create an “Age-Sex Pyramid of Language” with ggplot2](https://liao961120.github.io/2019/02/17/visualize-language-loss.html)
 
++ [Where are the places with the best (and the worst) weather in the United States](https://taraskaduk.com/2019/02/18/weather/)
+
++ [discog-purrr](https://sharla.party/posts/discog-purrr/)
+
++ [An Empirical Analysis of RuPaul's Drag Race Contestants](http://svmiller.com/blog/2019/02/dragracer-rupauls-drag-race-analysis/)
 
 ###  R in Organizations
 
@@ -65,6 +72,9 @@ Release Date: 2018-02-25
 
 ###  Tutorials
 
++ [Announcing "Just Three Things"](https://www.njtierney.com/post/2019/02/18/announcing-jtt/)
+
++ [omg binder!](https://kbroman.org/blog/2019/02/18/omg_binder/)
 
 
 <!--<div class="post-more-begi
