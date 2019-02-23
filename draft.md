@@ -71,7 +71,7 @@ Release Date: 2018-02-25
 
 + [sen2r](https://luigi.ranghetti.info/post/sen2r-released/) - R toolbox to find, download and preprocess Sentinel-2 data
 
-
++ [CBRT](http://users.metu.edu.tr/etaymaz/cbrt-2019.html) - Easy access to the CBRT database, provides functions for finding, and downloading more than 22,000 time series from the Central Bank of the Republic of Turkey's database.
 
 **BioC**
 
@@ -81,8 +81,6 @@ Release Date: 2018-02-25
 
 
 + [Package for deep feature extraction from images and natural language text](https://github.com/basilica-ai/basilica-R-client)
-
-+ [provides functions for finding, and downloading data from the Central Bank of the Republic of Turkey's database (more than 22,000 time series variables on Turkish economy).](http://users.metu.edu.tr/etaymaz/cbrt-2019.html)
 
 + [Encryptr](https://www.datasurg.net/2019/02/21/encryptr-package-easily-encrypt-and-decrypt-columns-of-sensitive-data/) - easily encrypt and decrypt columns of sensitive data
 
@@ -95,7 +93,7 @@ Release Date: 2018-02-25
 
 + [RVowpalWabbit 0.0.13](http://dirk.eddelbuettel.com/blog/2019/02/22#rvowpalwabbit_0.0.13)
 
-+ [babynames](http://hadley.github.io/babynames/)
++ [babynames](http://hadley.github.io/babynames/) - For each year from 1880 to 2017, the number of children of each sex given each name.
 
 ###  Videos and Podcasts
 
@@ -119,7 +117,7 @@ Release Date: 2018-02-25
 
 + [omg binder!](https://kbroman.org/blog/2019/02/18/omg_binder/)
 
-+ [Finding Economic Articles](http://skranz.github.io/r/2019/02/21/FindingEconomicArticles.html)
++ [Finding Economic Articles with Data](http://skranz.github.io/r/2019/02/21/FindingEconomicArticles.html)
 
 + [An introduction to Text Analysis with tidytext, where we analyse the State of the Union Address speeches from three different Presidents!](https://markrstevenson.com/blog/wXMUdQCIfHqwTzrnProy)
 
