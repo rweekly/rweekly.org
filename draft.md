@@ -170,6 +170,8 @@ Release Date: 2018-02-25
 
 + [Cloudy with a chance of Caffeinated Query Orchestration – New rJava Wrappers for AWS Athena SDK for Java](https://rud.is/b/2019/02/22/cloudy-with-a-chance-of-caffeinated-query-orchestration-new-rjava-wrappers-for-aws-athena-sdk-for-java/)
 
++ [Animate intermediate results of your algorithm](https://smorbieu.gitlab.io/animate-intermediate-results-of-your-algorithm/)
+
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
