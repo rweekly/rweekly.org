@@ -22,12 +22,15 @@ Release Date: 2018-02-25
 
 + [Open letter to journal editors: dynamite plots must die](https://simplystatistics.org/2019/02/21/dynamite-plots-must-die/)
 
+![Open letter to journal editor](https://cdn.jsdelivr.net/gh/rweekly/image/2019/ridge-plots-with-data-1-dynam.png)
 
 + [Notes on porting Ruby to R](https://recology.info/2019/02/ruby-ports-to-r/)
 
 + [Conquering Caffeinated Amazon Athena with the metis Trio of Packages](https://rud.is/b/2019/02/17/conquering-caffeinated-amazon-athena-with-the-metis-trio-of-packages/)
 
 + [The Ultimate Infinite Moon Reader for xaringan Slides](https://yihui.name/en/2019/02/ultimate-inf-mr/)
+
+![The Ultimate Infinite](https://cdn.jsdelivr.net/gh/rweekly/image/2019/inf-mr.gif)
 
 
 ### R in the Real World
@@ -36,15 +39,22 @@ Release Date: 2018-02-25
 
 + [Where are the places with the best (and the worst) weather in the United States](https://taraskaduk.com/2019/02/18/weather/)
 
+![Where are the places](https://cdn.jsdelivr.net/gh/rweekly/image/2019/weather-19.png)
+
 + [discog-purrr](https://sharla.party/posts/discog-purrr/)
 
 + [An Empirical Analysis of RuPaul's Drag Race Contestants](http://svmiller.com/blog/2019/02/dragracer-rupauls-drag-race-analysis/)
 
 + [R for Political Data Science Week 8: Four Parties in America? Probably Not Anytime Soon.](https://www.thecrosstab.com/2019/02/22/four-parties/)
 
+
+![R for Political Data Science ](https://cdn.jsdelivr.net/gh/rweekly/image/2019/four-part.png)
+
 + [Seasonality in NZ voting preference?](http://freerangestats.info/blog/2019/02/20/voting-seasonality)
 
 + [LEGO mosaics, Part 3(D)](http://www.ryantimpe.com/post/lego-mosaic3/)
+
+![LEGO mosaics](https://cdn.jsdelivr.net/gh/rweekly/image/2019/lego.png)
 
 + [Visualisation of Squiggle Tipsters](https://analysisofafl.netlify.com/fitzroy/2018-05-18-visualisation-of-squiggle-tipsters/)
 
@@ -62,6 +72,7 @@ Release Date: 2018-02-25
 
 + [H-indexes of CRAN package maintainers. Search your own.](https://nacnudus.github.io/duncangarmonsway/posts/2019-02-08-cran-h-index/)
 
+![H-indexes of CRAN package mainta](https://cdn.jsdelivr.net/gh/rweekly/image/2019/h-index.png)
 
 ###  New Packages
 
@@ -113,6 +124,9 @@ Release Date: 2018-02-25
 
 + [How to generate and plot the mysterious Recamán sequence with R](https://solmos.netlify.com/post/2019-02-20-la-secuencia-de-recaman/la-secuencia-de-recaman/)
 
+
+![How to generate and plot the](https://cdn.jsdelivr.net/gh/rweekly/image/2019/Recaman.png)
+
 + [Announcing "Just Three Things"](https://www.njtierney.com/post/2019/02/18/announcing-jtt/)
 
 + [omg binder!](https://kbroman.org/blog/2019/02/18/omg_binder/)
@@ -128,6 +142,8 @@ Release Date: 2018-02-25
 + [Descriptive/Summary Statistics with descriptr](https://blog.rsquaredacademy.com/introducing-descriptr/)
 
 + [Use algebra and calculus with R and yacas to find Chidi's optimal level of pizza and frozen yogurt consumption](https://www.andrewheiss.com/blog/2019/02/16/algebra-calculus-r-yacas/)
+
+![Use algebra and calculus with R and yacas to ](https://cdn.jsdelivr.net/gh/rweekly/image/2019/yacas.png)
 
 + [Excel email address cleaner & aggregator in R (#readxl, #openxlsx)](https://rickpackblog.wordpress.com/2019/02/14/excel-email-cleaner-aggregator-r-script-readxl-stringr/)
 
