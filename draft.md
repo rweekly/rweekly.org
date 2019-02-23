@@ -13,7 +13,21 @@ Release Date: 2018-02-25
 
 ### Insights
 
++ [forcats::fct_match](https://jcarroll.com.au/2019/02/22/forcatsfct_match/)
+
 + [Absolutely No Warranty](https://notstatschat.rbind.io/2019/02/18/absolutely-no-warranty/)
+
++ [Interview with Stephanie Hicks](https://simplystatistics.org/2019/02/18/interview-with-stephanie-hicks/)
+
+
++ [Open letter to journal editors: dynamite plots must die](https://simplystatistics.org/2019/02/21/dynamite-plots-must-die/)
+
+
++ [Notes on porting Ruby to R](https://recology.info/2019/02/ruby-ports-to-r/)
+
++ [Conquering Caffeinated Amazon Athena with the metis Trio of Packages](https://rud.is/b/2019/02/17/conquering-caffeinated-amazon-athena-with-the-metis-trio-of-packages/)
+
++ [The Ultimate Infinite Moon Reader for xaringan Slides](https://yihui.name/en/2019/02/ultimate-inf-mr/)
 
 
 ### R in the Real World
@@ -26,9 +40,19 @@ Release Date: 2018-02-25
 
 + [An Empirical Analysis of RuPaul's Drag Race Contestants](http://svmiller.com/blog/2019/02/dragracer-rupauls-drag-race-analysis/)
 
++ [R for Political Data Science Week 8: Four Parties in America? Probably Not Anytime Soon.](https://www.thecrosstab.com/2019/02/22/four-parties/)
+
++ [Seasonality in NZ voting preference?](http://freerangestats.info/blog/2019/02/20/voting-seasonality)
+
++ [LEGO mosaics, Part 3(D)](http://www.ryantimpe.com/post/lego-mosaic3/)
+
++ [Visualisation of Squiggle Tipsters](https://analysisofafl.netlify.com/fitzroy/2018-05-18-visualisation-of-squiggle-tipsters/)
+
++ [“Correlation is not causation”. So what is?](https://iyarlin.github.io/2019/02/08/correlation-is-not-causation-so-what-is/)
+
 ###  R in Organizations
 
-
++ [Meetup API tracking in R - Analytics>Forward in RTP, NC](https://rickpackblog.wordpress.com/2019/02/13/analyticsforward-2019-meetup-api-tracking-in-r-pt-1/) - [Part 1](https://rickpackblog.wordpress.com/2019/02/13/analyticsforward-2019-meetup-api-tracking-in-r-pt-1/) and [Part 2](http://bit.ly/2GBTPjA)
 
 ###  R in Academia
 
@@ -36,6 +60,7 @@ Release Date: 2018-02-25
 
 ###  Resources
 
++ [H-indexes of CRAN package maintainers. Search your own.](https://nacnudus.github.io/duncangarmonsway/posts/2019-02-08-cran-h-index/)
 
 
 ###  New Packages
@@ -43,6 +68,8 @@ Release Date: 2018-02-25
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
+
++ [sen2r](https://luigi.ranghetti.info/post/sen2r-released/) - R toolbox to find, download and preprocess Sentinel-2 data
 
 
 
@@ -53,18 +80,30 @@ Release Date: 2018-02-25
 **GitHub or Bitbucket**
 
 
++ [Package for deep feature extraction from images and natural language text](https://github.com/basilica-ai/basilica-R-client)
+
++ [provides functions for finding, and downloading data from the Central Bank of the Republic of Turkey's database (more than 22,000 time series variables on Turkish economy).](http://users.metu.edu.tr/etaymaz/cbrt-2019.html)
+
++ [Encryptr](https://www.datasurg.net/2019/02/21/encryptr-package-easily-encrypt-and-decrypt-columns-of-sensitive-data/) - easily encrypt and decrypt columns of sensitive data
 
 ### Updated Packages
 
 
++ [ssh](https://ropensci.org/technotes/2019/02/22/ssh-04/)
+
++ [Rblpapi 0.3.9](http://dirk.eddelbuettel.com/blog/2019/02/21#rblpapi_0.3.9)
+
++ [RVowpalWabbit 0.0.13](http://dirk.eddelbuettel.com/blog/2019/02/22#rvowpalwabbit_0.0.13)
+
++ [babynames](http://hadley.github.io/babynames/)
 
 ###  Videos and Podcasts
 
-
++ [Tidy Tuesday screencast: tidying and analyzing US PhDs in R](https://www.youtube.com/watch?v=KzRP40PzopY)
 
 ### Gist & Cookbook
 
-
++ [classify](https://lucy.shinyapps.io/classify/) - Help us classify functions from data analysis R scripts into categories
 
 ### R Internationally
 
@@ -72,9 +111,50 @@ Release Date: 2018-02-25
 
 ###  Tutorials
 
++ [Running your R script in Docker](https://www.statworx.com/de/blog/running-your-r-script-in-docker/)
+
++ [How to generate and plot the mysterious Recamán sequence with R](https://solmos.netlify.com/post/2019-02-20-la-secuencia-de-recaman/la-secuencia-de-recaman/)
+
 + [Announcing "Just Three Things"](https://www.njtierney.com/post/2019/02/18/announcing-jtt/)
 
 + [omg binder!](https://kbroman.org/blog/2019/02/18/omg_binder/)
+
++ [Finding Economic Articles](http://skranz.github.io/r/2019/02/21/FindingEconomicArticles.html)
+
++ [An introduction to Text Analysis with tidytext, where we analyse the State of the Union Address speeches from three different Presidents!](https://markrstevenson.com/blog/wXMUdQCIfHqwTzrnProy)
+
++ [Vivid: Toward A Next Generation Statistical User Interface](http://blog.fellstat.com/?p=432)
+
++ [Shiny App to access NOAA data](https://r-video-tutorial.blogspot.com/2019/02/shiny-app-to-access-noaa-data.html)
+
++ [Descriptive/Summary Statistics with descriptr](https://blog.rsquaredacademy.com/introducing-descriptr/)
+
++ [Use algebra and calculus with R and yacas to find Chidi's optimal level of pizza and frozen yogurt consumption](https://www.andrewheiss.com/blog/2019/02/16/algebra-calculus-r-yacas/)
+
++ [Excel email address cleaner & aggregator in R (#readxl, #openxlsx)](https://rickpackblog.wordpress.com/2019/02/14/excel-email-cleaner-aggregator-r-script-readxl-stringr/)
+
++ [Verbose data.table and uncovering hidden cedta's data table awareness decisions](https://jozefhajnala.gitlab.io/r/r911-datatable-cedta/)
+
++ [Query Generation in R](http://www.win-vector.com/blog/2019/02/query-generation-in-r/)
+
++ [A Spoonful of Hugo](https://alison.rbind.io/post/2019-02-21-hugo-page-bundles/) - [Page Bundles](https://alison.rbind.io/post/2019-02-21-hugo-page-bundles/), [The netlify.toml File](https://alison.rbind.io/post/2019-02-19-hugo-netlify-toml/), [Archetypes](https://alison.rbind.io/post/2019-02-19-hugo-archetypes/)
+
++ [Getting Started With rquery](http://www.win-vector.com/blog/2019/02/getting-started-with-rquery/)
+
++ [In Dev: WiGLE Your Way Into A Hotspot with wiglr](https://rud.is/b/2019/02/18/in-dev-wigle-your-way-into-a-hotspot-with-wiglr/)
+
+
++ [Playing With Pipe Notations](http://www.win-vector.com/blog/2019/02/naming-pipes/)
+
+
++ [I Just Wanted The Data : Turning Tableau & Tidyverse Tears Into Smiles with Base R (An Encoding Detective Story)](https://rud.is/b/2019/02/20/i-just-wanted-the-data-turning-tableau-tidyverse-tears-into-smiles-with-base-r-an-encoding-detective-story/)
+
+
++ [Setting Up Raspberry Pi Temperature/Humidity Sensors for Data Analysis in R](https://roh.engineering/post/setting-up-raspberry-pi-temperature-humidity-sensors-for-data-analysis-in-r/)
+
++ [Developments in AzureR](https://blog.revolutionanalytics.com/2019/02/developments-in-azurer.html)
+
++ [Cloudy with a chance of Caffeinated Query Orchestration – New rJava Wrappers for AWS Athena SDK for Java](https://rud.is/b/2019/02/22/cloudy-with-a-chance-of-caffeinated-query-orchestration-new-rjava-wrappers-for-aws-athena-sdk-for-java/)
 
 
 <!--<div class="post-more-begi
@@ -114,7 +194,14 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
++ [call for sessions and labs at Bay2sC0mp²⁰](https://xianblog.wordpress.com/2019/02/22/call-for-sessions-and-labs-at-bay2sc0mp/)
+
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">THIS IS SO COOL!!!<br><br>Instantaneous <a href="https://twitter.com/hashtag/xaringan?src=hash&amp;ref_src=twsrc%5Etfw">#xaringan</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> slide previews! 🤩 <a href="https://twitter.com/xieyihui?ref_src=twsrc%5Etfw">@xieyihui</a>, you rock! <a href="https://t.co/MEGhQCuq7e">https://t.co/MEGhQCuq7e</a> <a href="https://t.co/yYG5zIRM0C">pic.twitter.com/yYG5zIRM0C</a></p>&mdash; Garrick Aden-Buie (@grrrck) <a href="https://twitter.com/grrrck/status/1098650588169019393?ref_src=twsrc%5Etfw">February 21, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Added a Workflow section to our <a href="https://twitter.com/hashtag/tensorflow?src=hash&amp;ref_src=twsrc%5Etfw">#tensorflow</a> with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> repo: <a href="https://t.co/nT2NnevgMm">https://t.co/nT2NnevgMm</a> It uses <a href="https://twitter.com/wmlandau?ref_src=twsrc%5Etfw">@wmlandau</a> awesome drake package to prepare, run and visualize the plan. Outstanding work Willl!! <a href="https://t.co/YGphATxVdO">https://t.co/YGphATxVdO</a> <a href="https://t.co/SWofnrjike">https://t.co/SWofnrjike</a> <a href="https://t.co/G9mftzoXsB">pic.twitter.com/G9mftzoXsB</a></p>&mdash; Edgar Ruiz (@theotheredgar) <a href="https://twitter.com/theotheredgar/status/1098718797886865408?ref_src=twsrc%5Etfw">February 21, 2019</a></blockquote>
+
