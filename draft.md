@@ -58,7 +58,9 @@ Release Date: 2018-03-04
 
 ###  Videos and Podcasts
 
++ [Not So Strandard Deviations: 75 - Data Science Lite](http://nssdeviations.com/75-data-science-lite)
 
++ [Data Skeptic: Text mining in R](https://dataskeptic.com/blog/episodes/2019/text-mining-in-r)
 
 
 ### Gist & Cookbook
