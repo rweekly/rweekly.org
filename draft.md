@@ -74,6 +74,7 @@ Release Date: 2018-03-04
 
 
 + [Let's get Lego'd!](https://www.littlemissdata.com/blog/rlego)
++ [Interactively run R in Jupyter notebooks on the web using Binder](https://github.com/matthewfeickert/R-in-Jupyter-with-Binder)
 
 
 <!--<div class="post-more-begi
@@ -119,4 +120,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
 
