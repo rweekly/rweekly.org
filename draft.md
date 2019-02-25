@@ -73,6 +73,7 @@ Release Date: 2018-03-04
 ###  Tutorials
 
 
++ [Let's get Lego'd!](https://www.littlemissdata.com/blog/rlego)
 
 
 <!--<div class="post-more-begi
