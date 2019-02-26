@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2019-00
+title: R Weekly 2019-09
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
