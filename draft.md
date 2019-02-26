@@ -78,6 +78,8 @@ Release Date: 2018-03-04
 + [Let's get Lego'd!](https://www.littlemissdata.com/blog/rlego)
 + [Interactively run R in Jupyter notebooks on the web using Binder](https://github.com/matthewfeickert/R-in-Jupyter-with-Binder)
 
++ [Animate intermediate results of your algorithm](https://smorbieu.gitlab.io/animate-intermediate-results-of-your-algorithm/)
+
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
