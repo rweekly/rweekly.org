@@ -62,6 +62,8 @@ Release Date: 2018-03-04
 
 + [Data Skeptic: Text mining in R](https://dataskeptic.com/blog/episodes/2019/text-mining-in-r)
 
++ [R-Podcast Episode 28 - Tidymodels with Max Kuhn](https://r-podcast.org/28): Eric is joined by RStudio software engineer Max Kuhn to discuss the state of the Tidymodels ecosystem and ideas for how life sciences can utilize R effectively.
+
 
 ### Gist & Cookbook
 
