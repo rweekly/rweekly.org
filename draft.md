@@ -61,6 +61,9 @@ Release Date: 2018-03-04
 
 + [stats19: a package for road safety research](https://ropensci.org/blog/2019/02/26/stats19/)
 
++ [ggplot2 meets W.E.B. Du Bois: Visualizing 1900s Black American life in R](https://www.statswithmatt.com/post/ggplot2-meets-w-e-b-du-bois/)
+
++ [President's Day (As in: What does President Trump do with his day?)](https://www.garrickadenbuie.com/blog/2019/02/27/presidents-day/)
 
 ###  R in Organizations
 
@@ -149,6 +152,8 @@ Release Date: 2018-03-04
 + [Introducing Rank Data Analysis with Arkham Horror Data](https://ntguardian.wordpress.com/2019/02/25/introducing-rank-data-analysis-with-arkham-horror-data/)
 
 + [A example in causal inference designed to frustrate: an estimate pretty much guaranteed to be biased](https://www.rdatagen.net/post/dags-colliders-and-an-example-of-variance-bias-tradeoff/)
+
++ [A first look at mapping and splitting in dplyr](https://www.johnmackintosh.com/2019-02-28-first-look-at-mapping-and-splitting-in-dplyr/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
