@@ -20,6 +20,9 @@ Release Date: 2018-03-04
 
 
 
++ [R Journal publication journey ](https://eranraviv.com/forecast-combinations-in-r-using-the-forecastcomb-package/)
+
+
 
 ###  R in Organizations
 
@@ -78,10 +81,13 @@ Release Date: 2018-03-04
 
 
 + [Let's get Lego'd!](https://www.littlemissdata.com/blog/rlego)
+
 + [Interactively run R in Jupyter notebooks on the web using Binder](https://github.com/matthewfeickert/R-in-Jupyter-with-Binder)
 
 + [Animate intermediate results of your algorithm](https://smorbieu.gitlab.io/animate-intermediate-results-of-your-algorithm/)
 
+
++ [Improve your R animations by implementing pause frames for emphasis](https://www.mikelee.co/posts/2019-02-23-creating-pauses-in-r-animations/)
 
 <!--<div class="post-more-begi
 n"></div><div class="post-more-end"></div>-->
