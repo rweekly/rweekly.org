@@ -16,7 +16,7 @@ Release Date: 2018-03-04
 
 + [This weekend project shows step by step how to use a small dataset to implement a chord diagram using the Viridis palette.](http://www.thinkingondata.com/portfolio/nobel-prize-awards-by-gender-using-chord-diagram/)
 
-![](http://www.thinkingondata.com/wp-content/uploads/2019/02/First_try.png)
+  ![](https://raw.githubusercontent.com/rweekly/image/master/2019/First_try.png)
 
 + [RVowpalWabbit 0.0.13: Keeping CRAN happy](http://dirk.eddelbuettel.com/blog/2019/02/22#rvowpalwabbit_0.0.13)
 
@@ -26,7 +26,7 @@ Release Date: 2018-03-04
 
 + [More on Macros in R](http://www.win-vector.com/blog/2019/02/more-on-macros-in-r/)
 
-![](https://i2.wp.com/www.win-vector.com/blog/wp-content/uploads/2019/02/D0FD431X0AI4pM8.jpg?zoom=1)
+![](https://raw.githubusercontent.com/rweekly/image/master/2019/interpolation.jpg)
 
 + [Read all about it! Navigating the R Package Universe](https://juliasilge.com/blog/r-journal-navigating/)
 
@@ -42,7 +42,7 @@ Release Date: 2018-03-04
 
 + [A wee look at group_map and group_split in dplyr](https://www.johnmackintosh.com/2019-02-28-first-look-at-mapping-and-splitting-in-dplyr/)
 
-+ [Bayesian state space modelling of the Australian 2019 election by @ellis2013nz](http://freerangestats.info/blog/2019/03/02/aust-election-1)
++ [Bayesian state space modelling of the Australian 2019 election](http://freerangestats.info/blog/2019/03/02/aust-election-1)
 
 + [it depends: a dialogue about dependencies](https://speakerdeck.com/jimhester/it-depends)
 
