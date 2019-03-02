@@ -14,6 +14,10 @@ Release Date: 2018-03-04
 
 ### Insights
 
++ [This weekend project shows step by step how to use a small dataset to implement a chord diagram using the Viridis palette.](http://www.thinkingondata.com/portfolio/nobel-prize-awards-by-gender-using-chord-diagram/)
+
+![](http://www.thinkingondata.com/wp-content/uploads/2019/02/First_try.png)
+
 + [RVowpalWabbit 0.0.13: Keeping CRAN happy](http://dirk.eddelbuettel.com/blog/2019/02/22#rvowpalwabbit_0.0.13)
 
 + [RcppStreams 0.1.3: Keeping CRAN happy](http://dirk.eddelbuettel.com/blog/2019/02/25#rcppstreams_0.1.3)
@@ -21,6 +25,8 @@ Release Date: 2018-03-04
 + [Cloudy with a chance of Caffeinated Query Orchestration – New rJava Wrappers for AWS Athena SDK for Java](https://rud.is/b/2019/02/22/cloudy-with-a-chance-of-caffeinated-query-orchestration-new-rjava-wrappers-for-aws-athena-sdk-for-java/)
 
 + [More on Macros in R](http://www.win-vector.com/blog/2019/02/more-on-macros-in-r/)
+
+![](https://i2.wp.com/www.win-vector.com/blog/wp-content/uploads/2019/02/D0FD431X0AI4pM8.jpg?zoom=1)
 
 + [Read all about it! Navigating the R Package Universe](https://juliasilge.com/blog/r-journal-navigating/)
 
@@ -36,17 +42,7 @@ Release Date: 2018-03-04
 
 + [A wee look at group_map and group_split in dplyr](https://www.johnmackintosh.com/2019-02-28-first-look-at-mapping-and-splitting-in-dplyr/)
 
-+ [Binning Data in a Database](http://www.win-vector.com/blog/2019/02/binning-data-in-a-database/)
-
-+ [RStudio Instructor Training](https://blog.rstudio.com/2019/02/28/rstudio-instructor-training/)
-
-+ [An architecture for real-time scoring with R](https://blog.revolutionanalytics.com/2019/03/real-time-scoring-with-r.html)
-
-+ [R for Political Data Science Week 9: The "Strongest" Democrats and Republicans (That Ran for Office in 2018)](https://www.thecrosstab.com/2019/03/01/2018-vs-pertisanship/)
-
 + [Bayesian state space modelling of the Australian 2019 election by @ellis2013nz](http://freerangestats.info/blog/2019/03/02/aust-election-1)
-
-+ [Mapping and Visualising Cholera Data](http://spatial.ly/2019/03/mapping-and-visualising-cholera-data/)
 
 + [it depends: a dialogue about dependencies](https://speakerdeck.com/jimhester/it-depends)
 
@@ -55,7 +51,6 @@ Release Date: 2018-03-04
 + [The secret lives of R objects](https://www.brodieg.com/2019/02/18/an-unofficial-reference-for-internal-inspect/)
 
 
-+ [This weekend project shows step by step how to use a small dataset to implement a chord diagram using the Viridis palette.](http://www.thinkingondata.com/portfolio/nobel-prize-awards-by-gender-using-chord-diagram/)
 
 ### R in the Real World
 
