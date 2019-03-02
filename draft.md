@@ -55,6 +55,8 @@ Release Date: 2018-03-04
 + [The secret lives of R objects](https://www.brodieg.com/2019/02/18/an-unofficial-reference-for-internal-inspect/)
 
 
++ [This weekend project shows step by step how to use a small dataset to implement a chord diagram using the Viridis palette.](http://www.thinkingondata.com/portfolio/nobel-prize-awards-by-gender-using-chord-diagram/)
+
 ### R in the Real World
 
 
@@ -110,6 +112,7 @@ Release Date: 2018-03-04
 
 + [whereami Reliably return location where command is called from in R](https://github.com/yonicd/whereami)
 
++ [gpt2samples Access generated sample texts from Open AI's GPT-2 language model as tidy data frames](https://github.com/kanishkamisra/gpt2samples)
 
 ### Updated Packages
 
