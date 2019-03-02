@@ -88,17 +88,15 @@ Release Date: 2018-03-04
 
 **CRAN**
 
-+ [stats19 Work with Open Road Traffic Casualty Data from Great Britain](https://cran.r-project.org/package=stats19)
++ [stats19: Work with Open Road Traffic Casualty Data from Great Britain](https://cran.r-project.org/package=stats19)
 
-+ [handlr   Convert Among Citation Formats](https://cran.r-project.org/package=handlr)
++ [handlr: Convert Among Citation Formats](https://cran.r-project.org/package=handlr)
 
-+ [officer   Manipulation of Microsoft Word and PowerPoint Documents](https://cran.r-project.org/package=officer)
++ [RichR: Enrichment for Diseases in a Set of Genes](https://cran.r-project.org/package=RichR)
 
-+ [RichR   Enrichment for Diseases in a Set of Genes](https://cran.r-project.org/package=RichR)
++ [shinyEventLogger: Logging Events in Shiny Apps](https://cran.r-project.org/package=shinyEventLogger)
 
-+ [shinyEventLogger   Logging Events in Shiny Apps](https://cran.r-project.org/package=shinyEventLogger)
-
-+ [volleystat   Detailed Statistics on Volleyball Matches](https://cran.r-project.org/package=volleystat)
++ [volleystat: Detailed Statistics on Volleyball Matches](https://cran.r-project.org/package=volleystat)
 
 
 **BioC**
@@ -116,6 +114,7 @@ Release Date: 2018-03-04
 
 ### Updated Packages
 
++ [officer: Manipulation of Microsoft Word and PowerPoint Documents](https://cran.r-project.org/package=officer)
 
 
 
@@ -210,3 +209,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 💻<br><br>What others should I request?</p>&mdash; Angela Li (@CivicAngela) <a href="https://twitter.com/CivicAngela/status/1101567447377821698?ref_src=twsrc%5Etfw">March 1, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Ok <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> folks, what are your favorite funny, silly, lighthearted R projects?</p>&mdash; Kara Woo (@kara_woo) <a href="https://twitter.com/kara_woo/status/1100908125396193281?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
