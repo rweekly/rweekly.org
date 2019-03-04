@@ -14,6 +14,7 @@ Release Date: 2018-03-04
 
 ### Insights
 
+
 + [How to use a small dataset to implement a chord diagram using the Viridis palette.](http://www.thinkingondata.com/portfolio/nobel-prize-awards-by-gender-using-chord-diagram/)
 
   ![](https://raw.githubusercontent.com/rweekly/image/master/2019/First_try.png)
@@ -62,19 +63,10 @@ Release Date: 2018-03-04
 + [stats19: a package for road safety research](https://ropensci.org/blog/2019/02/26/stats19/)
 
 
-###  R in Organizations
-
-
-
-
 ###  R in Academia
 
 
 + [handlr: convert among citation formats](https://ropensci.org/technotes/2019/02/27/handlr-release/)
-
-
-###  Resources
-
 
 
 ###  New Packages
@@ -94,10 +86,6 @@ Release Date: 2018-03-04
 + [volleystat: Detailed Statistics on Volleyball Matches](https://cran.r-project.org/package=volleystat)
 
 
-**BioC**
-
-
-
 **GitHub or Bitbucket**
 
 
@@ -107,13 +95,15 @@ Release Date: 2018-03-04
 
 + [gpt2samples Access generated sample texts from Open AI's GPT-2 language model as tidy data frames](https://github.com/kanishkamisra/gpt2samples)
 
+
 ### Updated Packages
+
 
 + [officer: Manipulation of Microsoft Word and PowerPoint Documents](https://cran.r-project.org/package=officer)
 
 
-
 ###  Videos and Podcasts
+
 
 + [Not So Strandard Deviations: 75 - Data Science Lite](http://nssdeviations.com/75-data-science-lite)
 
@@ -122,11 +112,6 @@ Release Date: 2018-03-04
 + [R-Podcast Episode 28 - Tidymodels with Max Kuhn](https://r-podcast.org/28): Eric is joined by RStudio software engineer Max Kuhn to discuss the state of the Tidymodels ecosystem and ideas for how life sciences can utilize R effectively.
 
 + [rstudio::conf 2019 Workshop materials now available](https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/)
-
-
-### Gist & Cookbook
-
-
 
 
 ### R Internationally
@@ -150,9 +135,12 @@ Release Date: 2018-03-04
 
 + [A example in causal inference designed to frustrate: an estimate pretty much guaranteed to be biased](https://www.rdatagen.net/post/dags-colliders-and-an-example-of-variance-bias-tradeoff/)
 
+
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
+
 ###  R Project Updates
+
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
@@ -175,16 +163,6 @@ Events in 3 Months:
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
-### Datasets
-
-
-
-
-### Jobs
-
-
-
-
 ###  Call for Participation
 
 + [ISC Call for Proposals](https://www.r-consortium.org/blog/2019/02/26/isc-call-for-proposals)
@@ -195,7 +173,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
+
 ###  Quotes of the Week
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m adding <a href="https://twitter.com/Mapbox?ref_src=twsrc%5Etfw">@Mapbox</a>  vector tiles to <a href="https://twitter.com/hashtag/mapdeck?src=hash&amp;ref_src=twsrc%5Etfw">#mapdeck</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> . <br><br>It&#39;s early days, so let me know any comments, suggestions, recommendations, requests, contributions etc. on the github page <a href="https://t.co/oUdioWiTlw">https://t.co/oUdioWiTlw</a> <a href="https://t.co/JxEFdwVoXl">pic.twitter.com/JxEFdwVoXl</a></p>&mdash; Symbolix (@symbolixAU) <a href="https://twitter.com/symbolixAU/status/1100864458002333696?ref_src=twsrc%5Etfw">February 27, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
