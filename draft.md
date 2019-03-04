@@ -14,7 +14,7 @@ Release Date: 2018-03-04
 
 ### Insights
 
-+ [This weekend project shows step by step how to use a small dataset to implement a chord diagram using the Viridis palette.](http://www.thinkingondata.com/portfolio/nobel-prize-awards-by-gender-using-chord-diagram/)
++ [How to use a small dataset to implement a chord diagram using the Viridis palette.](http://www.thinkingondata.com/portfolio/nobel-prize-awards-by-gender-using-chord-diagram/)
 
   ![](https://raw.githubusercontent.com/rweekly/image/master/2019/First_try.png)
 
