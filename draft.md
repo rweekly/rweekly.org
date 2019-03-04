@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2019-09
+title: R Weekly 2019-09 Lego, group_split
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -10,6 +10,12 @@ Release Date: 2018-03-04
 
 ###  Highlight
 
+
++ [rstudio::conf 2019 Workshop materials now available](https://blog.rstudio.com/2019/02/06/rstudio-conf-2019-workshops/)
+
++ [Let's get Lego'd!](https://www.littlemissdata.com/blog/rlego)
+
++ [A wee look at group_map and group_split in dplyr](https://www.johnmackintosh.com/2019-02-28-first-look-at-mapping-and-splitting-in-dplyr/)
 
 
 ### Insights
