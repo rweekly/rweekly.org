@@ -12,7 +12,8 @@ Release Date: 2019-00-00
 
 
 ### Insights
-
+* [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
+![R GIF](http://g.recordit.co/JGiwsAbnLs.gif)
 
 
 ### R in the Real World
