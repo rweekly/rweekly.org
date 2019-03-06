@@ -65,6 +65,8 @@ Release Date: 2019-00-00
 
 ###  Tutorials
 
++ [Create Desktop Notifications from R](https://towardsdatascience.com/create-desktop-notifications-from-r-7aeefa90d649)
+
 
 
 <!--<div class="post-more-begi
