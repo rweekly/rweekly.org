@@ -15,10 +15,14 @@ Release Date: 2019-00-00
 * [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
 ![R GIF](http://g.recordit.co/JGiwsAbnLs.gif)
 
++ [76th Tokyo.R Users Meetup Roundup!](https://ryo-n7.github.io/2019-03-07-tokyoR-76-roundup/)
+
 
 ### R in the Real World
 
+* [Building a Shiny App to Show the Impact of Vaccines](http://sandsynligvis.dk/2019/03/06/building-a-shiny-app-to-show-the-impact-of-vaccines/)
 
+* [Displaying Bus Punctuality](https://notstatschat.rbind.io/2019/03/01/displaying-bus-punctuality/)
 
 ###  R in Organizations
 
@@ -68,6 +72,9 @@ Release Date: 2019-00-00
 
 + [Create Desktop Notifications from R](https://towardsdatascience.com/create-desktop-notifications-from-r-7aeefa90d649)
 
++ [Graph Analysis Using the Tidyverse](https://rviews.rstudio.com/2019/03/06/intro-to-graph-analysis/)
+
++ [Clustering the Pharmaceutical Industry Stocks](https://toscano84.github.io/2019/03/clustering-the-pharmaceutical-industry-stocks/)
 
 
 <!--<div class="post-more-begi
