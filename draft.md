@@ -89,7 +89,11 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [satRday Paris - 23rd february](https://paris2019.satrdays.org/)
++ [satRday Johannesburg - 6th April](https://joburg2019.satrdays.org/)
+
++ [satRday Newcastle - 6th April](https://newcastle2019.satrdays.org/)
+
++ [satRday Los Angeles - 6th April](https://losangeles2019.satrdays.org/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -109,6 +113,11 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
++ [ISC Call for Proposals](https://www.r-consortium.org/blog/2019/02/26/isc-call-for-proposals)
+
++ [call for sessions and labs at Bay2sC0mp²⁰](https://xianblog.wordpress.com/2019/02/22/call-for-sessions-and-labs-at-bay2sc0mp/)
+
++ [CDSBMexico: remember to apply for BioC2019 travel scholarships](http://feedproxy.google.com/~r/FellgernonBit-rstats/~3/XBRV1ziVO58/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
