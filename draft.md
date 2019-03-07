@@ -34,6 +34,7 @@ Release Date: 2019-00-00
 
 ###  Resources
 
+- Henrik Bengtsson's [SatRday Paris 2019 Slides on Futures](https://www.jottr.org/2019/03/07/future-satrdayparis2019-slides/)
 
 
 ###  New Packages
@@ -42,6 +43,7 @@ Release Date: 2019-00-00
 
 **CRAN**
 
+- [future.apply 1.2.0](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures. Now with `future_by()`.
 
 
 **BioC**
