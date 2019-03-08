@@ -43,8 +43,6 @@ Release Date: 2019-00-00
 
 **CRAN**
 
-- [future.apply 1.2.0](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures. Now with `future_by()`.
-
 
 **BioC**
 
@@ -56,6 +54,9 @@ Release Date: 2019-00-00
 
 ### Updated Packages
 
+- [future 1.12.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone.
+
+- [future.apply 1.2.0](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures. Now with `future_by()`.
 
 
 ###  Videos and Podcasts
