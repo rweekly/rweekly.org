@@ -62,10 +62,23 @@ Release Date: 2019-03-11
 
 + [Call for Proposals for satRday Chicago 2019 now open through March 23! Visit our site for more information: chicago2019.satrdays.org](https://sessionize.com/satrday-chicago-2019/)
 
-
++ [See you in Barcelona this summer](https://ikashnitsky.github.io/2019/barcelona-summer-school-of-demography/)
 
 + [Building tidy tools workshop](https://blog.rstudio.com/2019/03/08/building-tidy-tools-workshop/)
 
++ [Dataiku with RStudio integration](https://longhowlam.wordpress.com/2019/03/06/dataiku-with-rstudio-integration/)
+
++ [At the end of the rainbow](https://eeecon.uibk.ac.at/~zeileis/news/endrainbow/)
+
++ [Classification of historical newspapers content: a tutorial combining R, bash and Vowpal Wabbit, part 1](https://www.brodrigues.co/blog/2019-03-03-historical_vowpal/)
+
++ [POWERBALL DEMYSTIFIED](https://sciprincess.wordpress.com/2019/03/01/2396/)
+
++ [A BRIEF HISTORY OF CLINICAL TRIALS](https://sciprincess.wordpress.com/2019/03/01/a-brief-history-of-clinical-trials/)
+
++ [R's S3 generic-function object-oriented system](https://jasminedaly.com/2018-02-23-s3-generic-function-oo/)
+
++ [WHAT IS LOGISTIC IN THE LOGISTIC REGRESSION?](https://sciprincess.wordpress.com/2019/03/01/what-is-logistic-in-the-logistic-regression/)
 
 ###  R in Academia
 
@@ -82,6 +95,9 @@ Release Date: 2019-03-11
 
 **CRAN**
 
++ [postmastr](https://slu-opengis.github.io/postmastr/) - The goal of postmastr is to provide consistent, tidy parsing of street address data.
+
++ [toxEval](https://cran.r-project.org/web/packages/toxEval/index.html) - Exploring Biological Relevance of Environmental Chemistry Observations
 
 **BioC**
 
@@ -132,11 +148,18 @@ Release Date: 2019-03-11
 
 + [Improve your R animations by implementing pause frames for emphasis](https://www.mikelee.co/posts/2019-02-23-creating-pauses-in-r-animations/)
 
++ [Using parameters in Rmarkdown](https://nsaunders.wordpress.com/2019/03/04/using-parameters-in-rmarkdown/)
 
++ [2019-01 A Geometry Engine Interface for ‘grid’](https://stattech.wordpress.fos.auckland.ac.nz/2019/03/04/2019-01-a-geometry-engine-interface-for-grid/)
+
++ [shapper is on CRAN, it’s an R wrapper over SHAP explainer for black-box models](http://smarterpoland.pl/index.php/2019/03/shapper-is-on-cran-its-an-r-wrapper-over-shap-explainer-for-black-box-models/)
 
 
 + [An architecture for real-time scoring with R](https://blog.revolutionanalytics.com/2019/03/real-time-scoring-with-r.html)
 
++ [Some R Packages for ROC Curves](https://rviews.rstudio.com/2019/03/01/some-r-packages-for-roc-curves/)
+
++ [Run Remote R Scripts with Mobile Device using E-mail Triggers](https://r-bar.net/r-scripts-mobile-device-email-triggers/)
 
 + [How the Victorians Mapped London's Cholera](http://spatial.ly/2019/03/mapping-and-visualising-cholera-data/)
 
@@ -230,3 +253,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m a huge fan of upset plots for displaying set patterns but get some pushback from collaborators due to its unfamiliar-ness. To combat this I made an interactive version which has helped people understand and trust the method. Thanks to r2d3 it was a breeze  <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/KNFIo7dYCf">pic.twitter.com/KNFIo7dYCf</a></p>&mdash; Nick Strayer (@NicholasStrayer) <a href="https://twitter.com/NicholasStrayer/status/1104080160960204800?ref_src=twsrc%5Etfw">March 8, 2019</a></blockquote>
+
