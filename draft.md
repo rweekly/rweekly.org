@@ -22,7 +22,22 @@ Release Date: 2019-00-00
 
 * [Building a Shiny App to Show the Impact of Vaccines](http://sandsynligvis.dk/2019/03/06/building-a-shiny-app-to-show-the-impact-of-vaccines/)
 
+
+
++ [R Journal publication journey ](https://eranraviv.com/forecast-combinations-in-r-using-the-forecastcomb-package/)
+
++ [R at scale on the Google Cloud Platform](https://code.markedmondson.me/r-at-scale-on-google-cloud-platform/)
+
++ [stats19: a package for road safety research](https://ropensci.org/blog/2019/02/26/stats19/)
+
++ [ggplot2 meets W.E.B. Du Bois: Visualizing 1900s Black American life in R](https://www.statswithmatt.com/post/ggplot2-meets-w-e-b-du-bois/)
+
++ [President's Day (As in: What does President Trump do with his day?)](https://www.garrickadenbuie.com/blog/2019/02/27/presidents-day/)
+
+
 * [Displaying Bus Punctuality](https://notstatschat.rbind.io/2019/03/01/displaying-bus-punctuality/)
+
+
 
 ###  R in Organizations
 
@@ -80,8 +95,16 @@ Release Date: 2019-00-00
 + [Clustering the Pharmaceutical Industry Stocks](https://toscano84.github.io/2019/03/clustering-the-pharmaceutical-industry-stocks/)
 
 
+
+
++ [A first look at mapping and splitting in dplyr](https://www.johnmackintosh.com/2019-02-28-first-look-at-mapping-and-splitting-in-dplyr/)
+
+<!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
+
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
+
 
 ###  R Project Updates
 
