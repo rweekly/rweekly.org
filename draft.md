@@ -5,14 +5,16 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-00-00
+Release Date: 2019-03-11
 
 ###  Highlight
 
 
 
 ### Insights
-* [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
+
++ [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
+
 ![R GIF](http://g.recordit.co/JGiwsAbnLs.gif)
 
 + [76th Tokyo.R Users Meetup Roundup!](https://ryo-n7.github.io/2019-03-07-tokyoR-76-roundup/)
@@ -20,7 +22,7 @@ Release Date: 2019-00-00
 
 ### R in the Real World
 
-* [Building a Shiny App to Show the Impact of Vaccines](http://sandsynligvis.dk/2019/03/06/building-a-shiny-app-to-show-the-impact-of-vaccines/)
++ [Building a Shiny App to Show the Impact of Vaccines](http://sandsynligvis.dk/2019/03/06/building-a-shiny-app-to-show-the-impact-of-vaccines/)
 
 
 
@@ -49,7 +51,7 @@ Release Date: 2019-00-00
 
 ###  Resources
 
-- Henrik Bengtsson's [SatRday Paris 2019 Slides on Futures](https://www.jottr.org/2019/03/07/future-satrdayparis2019-slides/)
++ [SatRday Paris 2019 Slides on Futures by Henrik Bengtsson](https://www.jottr.org/2019/03/07/future-satrdayparis2019-slides/)
 
 
 ###  New Packages
@@ -95,16 +97,9 @@ Release Date: 2019-00-00
 + [Clustering the Pharmaceutical Industry Stocks](https://toscano84.github.io/2019/03/clustering-the-pharmaceutical-industry-stocks/)
 
 
-
-
 + [A first look at mapping and splitting in dplyr](https://www.johnmackintosh.com/2019-02-28-first-look-at-mapping-and-splitting-in-dplyr/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
-
-
-<!--<div class="post-more-begi
-n></div><div class="post-more-end"></div>-->
-
 
 ###  R Project Updates
 
