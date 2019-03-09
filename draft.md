@@ -13,6 +13,10 @@ Release Date: 2019-03-11
 
 ### Insights
 
+
++ [R Journal publication journey ](https://eranraviv.com/forecast-combinations-in-r-using-the-forecastcomb-package/)
+
+
 + [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
 
 ![R GIF](http://g.recordit.co/JGiwsAbnLs.gif)
@@ -20,10 +24,13 @@ Release Date: 2019-03-11
 + [76th Tokyo.R Users Meetup Roundup!](https://ryo-n7.github.io/2019-03-07-tokyoR-76-roundup/)
 
 
+
 ### R in the Real World
 
 + [Building a Shiny App to Show the Impact of Vaccines](http://sandsynligvis.dk/2019/03/06/building-a-shiny-app-to-show-the-impact-of-vaccines/)
 
+
++ [CRAN Mirror "Security"](https://rud.is/b/2019/03/03/cran-mirror-security/)
 
 
 + [R Journal publication journey ](https://eranraviv.com/forecast-combinations-in-r-using-the-forecastcomb-package/)
@@ -37,12 +44,27 @@ Release Date: 2019-03-11
 + [President's Day (As in: What does President Trump do with his day?)](https://www.garrickadenbuie.com/blog/2019/02/27/presidents-day/)
 
 
-* [Displaying Bus Punctuality](https://notstatschat.rbind.io/2019/03/01/displaying-bus-punctuality/)
++ [Mapping and Visualising Cholera Data](http://spatial.ly/2019/03/mapping-and-visualising-cholera-data/)
+
++ [Bayesian state space modelling of the Australian 2019 election](http://freerangestats.info/blog/2019/03/02/aust-election-1)
+
+
++ [Displaying Bus Punctuality](https://notstatschat.rbind.io/2019/03/01/displaying-bus-punctuality/)
 
 
 
 ###  R in Organizations
 
++ [SatRday Paris: Build interactive waffle plots](https://rtask.thinkr.fr/blog/satrday-paris-build-interactive-waffle-plots/)
+
+
++ [R Consortium Welcomes Genentech as Gold Member](https://www.r-consortium.org/announcement/2019/03/07/r-consortium-welcomes-genentech-as-gold-member)
+
++ [Call for Proposals for satRday Chicago 2019 now open through March 23! Visit our site for more information: chicago2019.satrdays.org](https://sessionize.com/satrday-chicago-2019/)
+
+
+
++ [Building tidy tools workshop](https://blog.rstudio.com/2019/03/08/building-tidy-tools-workshop/)
 
 
 ###  R in Academia
@@ -71,10 +93,16 @@ Release Date: 2019-03-11
 
 ### Updated Packages
 
-- [future 1.12.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone.
++ [future 1.12.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone.
 
-- [future.apply 1.2.0](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures. Now with `future_by()`.
++ [future.apply 1.2.0](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures. Now with `future_by()`.
 
++ [gower 0.2.0 is on CRAN](http://www.markvanderloo.eu/yaRb/2019/03/07/gower-0-2-0-is-on-cran/)
+
+
++ [RcppArmadillo 0.9.200.7.1](http://dirk.eddelbuettel.com/blog/2019/03/08#rcpparmadillo_0.9.200.7.1)
+
++ [RInside 0.2.15](http://dirk.eddelbuettel.com/blog/2019/03/06#rinside_0.2.15)
 
 ###  Videos and Podcasts
 
@@ -98,6 +126,65 @@ Release Date: 2019-03-11
 
 
 + [A first look at mapping and splitting in dplyr](https://www.johnmackintosh.com/2019-02-28-first-look-at-mapping-and-splitting-in-dplyr/)
+
++ [Getting Help in R](https://blog.rsquaredacademy.com/getting-help-in-r-updated/)
+
+
++ [Improve your R animations by implementing pause frames for emphasis](https://www.mikelee.co/posts/2019-02-23-creating-pauses-in-r-animations/)
+
+
+
+
++ [An architecture for real-time scoring with R](https://blog.revolutionanalytics.com/2019/03/real-time-scoring-with-r.html)
+
+
++ [How the Victorians Mapped London's Cholera](http://spatial.ly/2019/03/mapping-and-visualising-cholera-data/)
+
++ [Creating blazing fast pivot tables from R with data.table - now with subtotals using grouping sets](https://jozefhajnala.gitlab.io/r/r912-datatable-grouping-sets/)
+
++ [rquery Substitution](http://www.win-vector.com/blog/2019/03/rquery-substitution/)
+
++ [Converting an image to an excel spreadsheet](https://coolbutuseless.github.io/2019/03/03/converting-an-image-to-an-excel-spreadsheet/)
+
+
++ [Exceptions in control flow in R](https://recology.info/2019/03/control-flow-exceptions/)
+
+
++ [Building Big Shiny Apps — A Workflow 2/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-2/)
+
++ [A Spoonful of Hugo: Troubleshooting Your Build](https://alison.rbind.io/post/2019-03-04-hugo-troubleshooting/)
+
+
++ [Style knitr Code Output Appearance in HTML with Custom CSS Classes](https://www.garrickadenbuie.com/blog/knitr-custom-class-output/)
+
+
++ [Head's Up! Roll Your Own HTTP Headers Investigations with the 'hdrs' Package](https://rud.is/b/2019/03/05/heads-up-roll-your-own-http-headers-investigations-with-the-hdrs-package/)
+
+
++ [Lots of zeros or too many zeros?: Thinking about zero-inflation in count data](https://aosmith.rbind.io/2019/03/06/lots-of-zeros/)
+
+
+
++ [Starting With Data Science: A Rigorous Hands-On Introduction to Data Science for Software Engineers](http://www.win-vector.com/blog/2019/03/starting-with-data-science-a-rigorous-hands-on-introduction-to-data-science-for-engineers/)
+
+
++ [Custom axis breaks on facetted ggplot](https://coolbutuseless.github.io/2019/03/07/custom-axis-breaks-on-facetted-ggplot/)
+
++ [Efficient landscape metrics calculations for buffers around sampling points](https://nowosad.github.io/post/lsm-bp1/)
+
+
++ [The ggforce Awakens (again)](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/)
+
++ [Lots of zeros or too many zeros?: Thinking about zero inflation in count data](https://aosmith.rbind.io/2019/03/06/lots-of-zeros/)
+
+
++ [Quick post - detect and fix this ggplot2 antipattern](https://blog.rmhogervorst.nl/blog/2019/03/07/quick-post-detect-this-ggplot2-antipattern/)
+
+
++ [Where to find the worst weather in the US](https://blog.revolutionanalytics.com/2019/03/best-and-worst-weather.html)
+
+
++ [image2xlsx package: Converting an image to an excel spreadsheet](https://coolbutuseless.github.io/2019/03/09/image2xlsx-package-converting-an-image-to-an-excel-spreadsheet/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
