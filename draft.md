@@ -34,6 +34,7 @@ Release Date: 2019-00-00
 
 ###  Resources
 
+- Henrik Bengtsson's [SatRday Paris 2019 Slides on Futures](https://www.jottr.org/2019/03/07/future-satrdayparis2019-slides/)
 
 
 ###  New Packages
@@ -41,7 +42,6 @@ Release Date: 2019-00-00
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
-
 
 
 **BioC**
@@ -54,6 +54,9 @@ Release Date: 2019-00-00
 
 ### Updated Packages
 
+- [future 1.12.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone.
+
+- [future.apply 1.2.0](https://cran.r-project.org/package=future.apply) - Apply Function to Elements in Parallel using Futures. Now with `future_by()`.
 
 
 ###  Videos and Podcasts
