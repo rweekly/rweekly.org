@@ -9,17 +9,17 @@ Release Date: 2019-03-11
 
 ###  Highlight
 
++ [Exceptions in control flow in R](https://recology.info/2019/03/control-flow-exceptions/)
 
++ [A Spoonful of Hugo: Troubleshooting Your Build](https://alison.rbind.io/post/2019-03-04-hugo-troubleshooting/)
+
++ [The ggforce Awakens (again)](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/)
 
 ### Insights
 
 
 + [R Journal publication journey ](https://eranraviv.com/forecast-combinations-in-r-using-the-forecastcomb-package/)
 
-
-+ [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
-
-![R GIF](http://g.recordit.co/JGiwsAbnLs.gif)
 
 + [76th Tokyo.R Users Meetup Roundup!](https://ryo-n7.github.io/2019-03-07-tokyoR-76-roundup/)
 
@@ -89,6 +89,10 @@ Release Date: 2019-03-11
 + [SatRday Paris 2019 Slides on Futures by Henrik Bengtsson](https://www.jottr.org/2019/03/07/future-satrdayparis2019-slides/)
 
 
++ [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
+
+![R GIF](http://g.recordit.co/JGiwsAbnLs.gif)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -98,6 +102,9 @@ Release Date: 2019-03-11
 + [postmastr](https://slu-opengis.github.io/postmastr/) - The goal of postmastr is to provide consistent, tidy parsing of street address data.
 
 + [toxEval](https://cran.r-project.org/web/packages/toxEval/index.html) - Exploring Biological Relevance of Environmental Chemistry Observations
+
++ [tidylog](https://cran.r-project.org/web/packages/tidylog/index.html) - Logging for 'dplyr' Functions
+
 
 **BioC**
 
