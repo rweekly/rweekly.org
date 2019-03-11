@@ -43,15 +43,17 @@ Release Date: 2019-03-11
 
 + [President's Day (As in: What does President Trump do with his day?)](https://www.garrickadenbuie.com/blog/2019/02/27/presidents-day/)
 
+![President's Day](https://raw.githubusercontent.com/rweekly/image/master/2019/presidents-day.png)
 
 + [Mapping and Visualising Cholera Data](http://spatial.ly/2019/03/mapping-and-visualising-cholera-data/)
 
 + [Bayesian state space modelling of the Australian 2019 election](http://freerangestats.info/blog/2019/03/02/aust-election-1)
 
+![Bayesian state space modelling of the Australian 2019 election](https://raw.githubusercontent.com/rweekly/image/master/2019/aust-ele.png)
 
 + [Displaying Bus Punctuality](https://notstatschat.rbind.io/2019/03/01/displaying-bus-punctuality/)
 
-
+![Displaying Bus Punctuality](https://raw.githubusercontent.com/rweekly/image/master/2019/bus-punctuality.png)
 
 ###  R in Organizations
 
@@ -70,11 +72,11 @@ Release Date: 2019-03-11
 
 + [At the end of the rainbow](https://eeecon.uibk.ac.at/~zeileis/news/endrainbow/)
 
+![At the end of the rainbow](https://raw.githubusercontent.com/rweekly/image/master/2019/influenza-inferno.png)
+
+
 + [Classification of historical newspapers content: a tutorial combining R, bash and Vowpal Wabbit, part 1](https://www.brodrigues.co/blog/2019-03-03-historical_vowpal/)
 
-+ [POWERBALL DEMYSTIFIED](https://sciprincess.wordpress.com/2019/03/01/2396/)
-
-+ [A BRIEF HISTORY OF CLINICAL TRIALS](https://sciprincess.wordpress.com/2019/03/01/a-brief-history-of-clinical-trials/)
 
 + [R's S3 generic-function object-oriented system](https://jasminedaly.com/2018-02-23-s3-generic-function-oo/)
 
@@ -91,7 +93,7 @@ Release Date: 2019-03-11
 
 + [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
 
-![R GIF](http://g.recordit.co/JGiwsAbnLs.gif)
+![R GIF](https://raw.githubusercontent.com/rweekly/image/master/2019/record-19.gif)
 
 ###  New Packages
 
@@ -145,8 +147,11 @@ Release Date: 2019-03-11
 
 + [Graph Analysis Using the Tidyverse](https://rviews.rstudio.com/2019/03/06/intro-to-graph-analysis/)
 
+![Graph Analysis Using the Tidyverse](https://raw.githubusercontent.com/rweekly/image/master/2019/gggraph.png)
+
 + [Clustering the Pharmaceutical Industry Stocks](https://toscano84.github.io/2019/03/clustering-the-pharmaceutical-industry-stocks/)
 
+![Clustering the Pharmaceutical Industry Stocks](https://raw.githubusercontent.com/rweekly/image/master/2019/pharm.png)
 
 + [A first look at mapping and splitting in dplyr](https://www.johnmackintosh.com/2019-02-28-first-look-at-mapping-and-splitting-in-dplyr/)
 
@@ -157,7 +162,7 @@ Release Date: 2019-03-11
 
 + [Using parameters in Rmarkdown](https://nsaunders.wordpress.com/2019/03/04/using-parameters-in-rmarkdown/)
 
-+ [2019-01 A Geometry Engine Interface for ‘grid’](https://stattech.wordpress.fos.auckland.ac.nz/2019/03/04/2019-01-a-geometry-engine-interface-for-grid/)
++ [2019-01 A Geometry Engine Interface for ‘grid’](https://www.stat.auckland.ac.nz/~paul/Reports/Geometry/gridgeometry/gridgeometry.html)
 
 + [shapper is on CRAN, it’s an R wrapper over SHAP explainer for black-box models](http://smarterpoland.pl/index.php/2019/03/shapper-is-on-cran-its-an-r-wrapper-over-shap-explainer-for-black-box-models/)
 
@@ -166,9 +171,11 @@ Release Date: 2019-03-11
 
 + [Some R Packages for ROC Curves](https://rviews.rstudio.com/2019/03/01/some-r-packages-for-roc-curves/)
 
+![Some R Packages for ROC Curves](https://raw.githubusercontent.com/rweekly/image/master/2019/rocs.png)
+
 + [Run Remote R Scripts with Mobile Device using E-mail Triggers](https://r-bar.net/r-scripts-mobile-device-email-triggers/)
 
-+ [How the Victorians Mapped London's Cholera](http://spatial.ly/2019/03/mapping-and-visualising-cholera-data/)
+![Remote R Scripts](https://raw.githubusercontent.com/rweekly/image/master/2019/ProcessFlow.gif)
 
 + [Creating blazing fast pivot tables from R with data.table - now with subtotals using grouping sets](https://jozefhajnala.gitlab.io/r/r912-datatable-grouping-sets/)
 
@@ -202,8 +209,11 @@ Release Date: 2019-03-11
 
 + [Efficient landscape metrics calculations for buffers around sampling points](https://nowosad.github.io/post/lsm-bp1/)
 
+![Efficient landscape metrics calculations for buffers around sampling points](https://raw.githubusercontent.com/rweekly/image/master/2019/metric.png)
 
 + [The ggforce Awakens (again)](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/)
+
+![The ggforce Awakens](https://raw.githubusercontent.com/rweekly/image/master/2019/ggforce.png)
 
 + [Lots of zeros or too many zeros?: Thinking about zero inflation in count data](https://aosmith.rbind.io/2019/03/06/lots-of-zeros/)
 
@@ -213,8 +223,6 @@ Release Date: 2019-03-11
 
 + [Where to find the worst weather in the US](https://blog.revolutionanalytics.com/2019/03/best-and-worst-weather.html)
 
-
-+ [image2xlsx package: Converting an image to an excel spreadsheet](https://coolbutuseless.github.io/2019/03/09/image2xlsx-package-converting-an-image-to-an-excel-spreadsheet/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
