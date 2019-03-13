@@ -18,6 +18,10 @@ Release Date: 2019-03-18
 
 ### R in the Real World
 
++ [Exploring 11 Years of Chicago Blackhawk’s Data using Principal Components Analysis](https://mattkmiecik.com/post-Exploring-11-Years-of-Chicago-Blackhawks-Data-using-Principal-Components-Analysis.html)
+
+![](https://mattkmiecik.com/post-Exploring-11-Years-of-Chicago-Blackhawks-Data-using-Principal-Components-Analysis_files/figure-html/unnamed-chunk-19-1.png)
+
 
 
 ###  R in Organizations
