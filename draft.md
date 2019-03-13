@@ -13,12 +13,14 @@ Release Date: 2019-03-18
 
 ### Insights
 
-
+* [Anonymous Functions in R (Part 1)](https://coolbutuseless.github.io/2019/03/13/anonymous-functions-in-r-part-1/)
 
 
 ### R in the Real World
 
-
+* [Plotting Manager Elo Ratings by Club (Part 1)](https://otstats.github.io/2019-03-12-plot-manager-elo-part-1/)
+* [A Football Auto-Encoder with Keras](http://dm13450.github.io/2019/03/08/Football-Autoencoder.html)
+* [Exploring Swings in Australian Federal Elections](http://freerangestats.info/blog/2019/03/11/aust-election-2-swings)
 
 ###  R in Organizations
 
