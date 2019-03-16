@@ -1,0 +1,33 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>{{ site.title }}</title>
+ <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
+ <link href="{{ site.url }}{{ site.baseurl }}/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>https://rweekly.org/</id>
+ <author>
+   <name>R Weekly</name>
+   <email>mail@rweekly.org</email>
+ </author>
+
+ {% for post in site.posts limit:5 %}
+ <entry>
+   <title>{{ post.title | xml_escape }}</title>
+   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rbloggers&amp;utm_campaign={{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>{{ site.url }}{{ post.id }}</id>
+   <content type="html">
+   &lt;p&gt;Hello and welcome to this new issue!&lt;/p&gt;
+   &lt;p&gt;&lt;a href=&quot;{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rbloggers&amp;utm_campaign={{ post.url }}&quot;&gt;  🔗 Read this issue on RWeekly.org &lt;/a&gt;&lt;/p&gt;
+   {{ post.excerpt | xml_escape }}
+  &lt;img src=&quot;https://web.rweekly.org/js/index.php?idsite=1&amp;rec=1&quot; style=&quot;border:0&quot; alt=&quot;&quot; /&gt;
+   </content>
+ </entry>
+ {% endfor %}
+
+</feed>

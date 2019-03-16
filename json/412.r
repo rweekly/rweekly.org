@@ -273,7 +273,7 @@
     "title": "magick",
     "href": "https://github.com/ropensci/magick",
     "des": " - Advanced Image-Processing in R.",
-    "img": "https://cdn.rawgit.com/jeroenooms/magick/master/img/Rlogo-banana.gif"
+    "img": "https://cdn.rawgit.com/jeroen/magick/master/img/Rlogo-banana.gif"
   },
   {
     "title": "timevis",

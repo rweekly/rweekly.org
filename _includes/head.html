@@ -4,24 +4,38 @@
   <link rel="manifest" href="/manifest.json">
   <!-- <link rel="stylesheet" href="{{ site.baseurl }}/styles.css"> -->
   <style type="text/css">
+
+    {% include pure.min.css %}
+
     {% capture include_to_scssify %}
-    
+
     {% include styles.scss %}
-    
+
     {% endcapture %}
-    
+
     {{ include_to_scssify | scssify }}
+
+    {% include jquery-ui.min.css %}
+
+    {% include toc.css %}
+
+    {% include podcast.css %}
+
   </style>
+  <!--/*include nprogress.css*/-->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/icons/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/icons/favicon-32x32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/icons/favicon-16x16.png" sizes="16x16">
   <link rel="mask-icon" href="{{ site.baseurl }}/images/icons/safari-pinned-tab.svg" color="#191d1f">
   <meta name="theme-color" content="#ffffff">
   <link rel="shortcut icon" href="{{ site.baseurl }}/images/icons/favicon.ico">
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml"> 
-  
+
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+  <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ site.baseurl }}/feed.json">
+  <link rel="alternate" type="application/atom+xml" title="R Weekly Podcast" href="/podcast.xml">
+
   {% seo %}
-  
+
   <meta property="og:image" content="https://rweekly.org/public/facebook.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="RWeekly.org - {{ page.title }}" /> {% if page.title == "Home" %}
@@ -29,10 +43,86 @@
   <meta name="twitter:description" content="{{ page.description }}" /> {% endif %}
   <meta name="twitter:image" content="https://rweekly.org/public/logo.png" />
   <script>
+function show_btn_more(a){
+    console.log("over");
+    console.log(a);
+    a.parentElement.previousElementSibling.classList.add("show-post-more");
+    a.classList.add('btn-hovered');
+    _paq.push(['trackEvent', 'read-more', 1]);
+}
+
+function pas(a){
+  console.log(a.parentNode.innerText);
+  _paq.push(['trackEvent', 'goto-patreon', a.parentNode.innerText]);
+}
+var allptext = [
+  '<a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Enjoy R Weekly! Support us with Patreon! 💞</a>',
+  '<a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Your support will keep R Weekly team moving! 💡</a>',
+  '<a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Your support will keep R Weekly team moving! 💖</a>',
+]
+
+function getRandomInt(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+
+function random_patreon(){
+  return allptext[getRandomInt(0,allptext.length)];
+}
+
+function rweekly_patreon_support(){
+  var all_support = document.querySelectorAll('.support-rweekly');
+  for(var ii=0;ii!=all_support.length; ii++){
+    if(!all_support[ii].classList.contains('added-rweekly-patreon')){
+      all_support[ii].innerHTML = random_patreon();
+      all_support[ii].classList.add('added-rweekly-patreon');
+      all_support[ii].classList.remove('hide-support');
+    }
+  }
+}
+
+function gen_read_more_btn(){
+  all_post = document.querySelectorAll('.post');
+  for(var ii =0;ii!=all_post.length;ii++){
+      var cpost = all_post[ii];
+      try{
+          if(!cpost.classList.contains('added-more-btn') && cpost.querySelector(".post-more-end") !== null && cpost.querySelector(".post-more-begin") !== null){
+              var all_end = cpost.querySelectorAll('.post-more-end');
+              var all_start = cpost.querySelectorAll('.post-more-begin');
+              var max_all = all_end.length > all_start.length?all_start.length : all_end.length;
+              for(var jj=0; jj!=max_all;jj++){
+                // create button
+                var pelt = document.createElement('p');
+                pelt.innerHTML = '<button class="pure-button post-more-btn" onmouseover="show_btn_more(this)">More</button>';
+                var more_end = all_end[jj];
+                more_end.parentNode.insertBefore(pelt, more_end.nextSibling);
+                _paq.push(['trackEvent', 'setup-more', 1]);
+                // create range
+                var range = document.createRange();
+                range.setStartBefore(all_start[jj]);
+                range.setEndAfter(all_end[jj]);
+                pdiv = document.createElement('div');
+                pdiv.classList.add('post-more');
+                range.surroundContents(pdiv);
+                cpost.classList.add('added-more-btn');
+              }
+          }
+      }catch(err){
+          console.log(err);
+      }
+  }
+}
     // external
     var shortregex = /^((www)|(blog))\./
+
+    var a_g = false;
+
     function add_external_links() {
+      gen_read_more_btn();
+      rweekly_patreon_support()
       var links = document.querySelectorAll(".post a");
+
       for (var i = 0, linksLength = links.length; i < linksLength; i++) {
         if (links[i].hostname != window.location.hostname && !links[i].classList.contains("externalLink")) {
           var targetlink = links[i];
@@ -41,7 +131,7 @@
           var newNode = document.createElement('text');
           newNode.className += "tooltiptext";
           shorturl = targetlink.hostname.replace(shortregex,"")
-          newNode.innerHTML = '&nbsp;(&nbsp;' + shorturl +'&nbsp;)&nbsp;'; 
+          newNode.innerHTML = '&nbsp;(&nbsp;' + shorturl +'&nbsp;)&nbsp;';
           var parentelt = targetlink.parentElement;
           if (!parentelt.classList.contains("added-hostname")){
               parentelt.classList.add("added-hostname");
@@ -54,17 +144,105 @@
           targetlink.appendChild(newspan);
         }
       }
-    }
+
+      if (localStorage.getItem("feature-like")  == 'true' || typeof rweekly_is_live !== "undefined"){
+        if(a_g ===false){
+            a_g = document.createElement('a');
+            a_g.href = '#';
+
+            var img_g = document.createElement('img');
+            var text_g = document.createElement('text');
+            img_g.src = '/public/up.svg';
+            img_g.alt = "Like!";
+            img_g.style = "";
+            img_g.classList.add('upvote');
+            text_g.innerText = ' Like ';
+            text_g.classList.add("hidetext");
+            text_g.classList.add("liketext");
+
+            a_g.appendChild(img_g);
+            a_g.appendChild(text_g);
+        }
+        var links = document.querySelectorAll(".post li");
+        for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+          if (!links[i].classList.contains("added-up")) {
+            links[i].classList.add("added-up");
+            current_p = links[i].querySelector("p");
+            if(current_p){
+
+              current_a = current_p.querySelector('a');
+
+
+              if (current_a){
+                var a_g_clone = a_g.cloneNode(true);
+                current_p.appendChild(a_g_clone);
+
+                if(localStorage.getItem("like-"+current_a.href)){
+                    var upvote_item = a_g_clone.querySelector('.upvote');
+                    upvote_item.classList.remove('upvote');
+                    upvote_item.classList.add('upvote-click');
+                    // a_g_clone.querySelector('text').classList.remove("hidetext");
+                }
+
+                current_a.addEventListener("mousedown", function(){
+                  var upvote_item = this.querySelector('.upvote');
+                  if(upvote_item){
+                    upvote_item.classList.remove('upvote');
+                    upvote_item.classList.add('upvote-click');
+                  }
+                }.bind(a_g_clone));
+
+                a_g_clone.setAttribute("id-href", current_a.href);
+                a_g_clone.setAttribute("id-text", current_a.innerText);
+                a_g_clone.setAttribute("id-host", current_a.hostname);
+
+                a_g_clone.addEventListener("click",function(e){
+                  e.preventDefault();
+                  if(!localStorage.getItem("like-"+ this.getAttribute("id-href"))){
+                    _paq.push(['trackEvent', 'Like', this.getAttribute("id-href"), this.getAttribute("id-text")]);
+
+                    var now_date = new Date();
+
+                    var like_value = { title:this.getAttribute("id-text"), host: this.getAttribute("id-host"),time: now_date.getTime(), date: now_date.toLocaleDateString()};
+
+                    localStorage.setItem("like-"+ this.getAttribute("id-href"), JSON.stringify(like_value));
+
+                    this.querySelector('text').classList.remove("hidetext");
+
+                  } else {
+                    localStorage.removeItem("like-"+ this.getAttribute("id-href"));
+                    var upvote_item = this.querySelector('.upvote-click');
+                    upvote_item.classList.remove('upvote-click');
+                    upvote_item.classList.add('upvote');
+                    this.querySelector('text').classList.add("hidetext");
+                  }
+                }.bind(a_g_clone));
+
+              } // if (current_a)
+            } // if(current_p)
+          } // if (!links[i].classList.contains("added-up")) {
+        } // for (var i = 0, linksLength = links.length; i < linksLength; i++)
+
+      } //if (localStorage.getItem("feature-like")){
+
+    } // function add_external_links()
+
     setInterval(add_external_links, 1000);
   </script>
   <script type="text/javascript">
     var _paq = _paq || [];
     _paq.push(['setCustomVariable', 1, "Night", localStorage.getItem('night'), "page"]);
     _paq.push(['setCustomVariable', 2, "Origin", localStorage.getItem('origin'), "page"]);
+    _paq.push(['setCustomVariable', 3, "Like", localStorage.getItem('feature-like'), "page"]);
+    _paq.push(['setCustomVariable', 4, "TOC", localStorage.getItem('feature-toc'), "page"]);
+    _paq.push(['setCustomVariable', 5, "URL", document.domain, "page"]);
     _paq.push(['trackPageView']);
+    _paq.push(['enableJSErrorTracking']);
     _paq.push(['enableLinkTracking', true]);
     _paq.push(['enableHeartBeatTimer']);
     _paq.push(['trackAllContentImpressions']);
+    _paq.push(["setDomains", ["rweekly.org", "www.rweekly.org"]]);
+    _paq.push(['setCookieDomain', "*.rweekly.org"]);
     (function () {
       var u = "//web.rweekly.org/";
       _paq.push(['setTrackerUrl', u + 'js/index.php']);
@@ -85,6 +263,7 @@
   <!--DNS Prefetch-->
   <link rel="dns-prefetch" href="//www.rstudio.com">
   <link rel="dns-prefetch" href="//github.com">
+  <link rel="dns-prefetch" href="//live.rweekly.org">
   <link rel="dns-prefetch" href="http://blog.revolutionanalytics.com">
   <link rel="dns-prefetch" href="//blog.rstudio.org">
   <script>
@@ -99,34 +278,39 @@
         _paq.push(['trackEvent', 'set-nightmode', 'true']);
       }
     }
-    if (localStorage.getItem('night') === 'true') {
-      document.addEventListener("DOMContentLoaded", function () {
-        document.body.classList.add('night');
-      });
-    }
-    function originMode() {
-      if (localStorage.getItem('origin') === 'true') {
-        localStorage.setItem('origin', 'false');
-        document.body.classList.remove('show-origin');
-        document.body.classList.add('hide-origin');
-        _paq.push(['trackEvent', 'set-origin', 'false']);
-      } else if (localStorage.getItem('origin') === 'false') {
-        localStorage.setItem('origin', 'true');
-        document.body.classList.add('show-origin');
-        document.body.classList.remove('hide-origin');
-        _paq.push(['trackEvent', 'set-origin', 'true']);
-      } else {
-        localStorage.setItem('origin', 'false');
-        document.body.classList.add('hide-origin');
-        document.body.classList.remove('show-origin');
-        _paq.push(['trackEvent', 'set-origin', 'false']);
+    document.addEventListener("DOMContentLoaded",function(){
+      if (localStorage.getItem('feature-toc') === 'false') {
+          document.body.classList.add('no-feature-toc');
       }
-    }
-    if (localStorage.getItem('origin') == 'false') {
-      document.addEventListener("DOMContentLoaded", function () {
-        document.body.classList.remove('show-origin');
-        document.body.classList.add('hide-origin');
-      });
-    }
+      if (localStorage.getItem('night') === 'true') {
+          document.body.classList.add('night');
+      }
+      if (localStorage.getItem('origin') == 'false') {
+          document.body.classList.remove('show-origin');
+          document.body.classList.add('hide-origin');
+      }
+      if (localStorage.getItem("feature-like") === 'true'){
+          document.body.classList.remove('no-feature-like');
+      }
+      if (localStorage.getItem("feature-podcast-corner") === 'true'){
+          document.body.classList.remove('no-feature-podcast-corner');
+      }
+
+      if (localStorage.getItem("feature-support") === 'false'){
+          document.body.classList.add('no-support-rweekly');
+          _paq.push(['trackEvent', 'no-support-rweekly', true]);
+      }
+      try{
+          var xlanguage = window.navigator.userLanguage || window.navigator.language;
+          var zhpat = /(zh)|(cn)/i;
+          if(zhpat.test(xlanguage)){
+              document.body.classList.add("weibo-show");
+          }
+      }catch(err){
+          console.log(err);
+      }
+
+    });
+
   </script>
 </head>

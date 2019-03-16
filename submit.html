@@ -1,0 +1,164 @@
+---
+layout: purecss-page
+title: Submit
+---
+
+<script>
+var global_notdone = false;
+</script>
+
+<div class="post">
+{% raw %}
+
+<form id="submit-form-1" class="pure-form">
+
+    <fieldset class="pure-group">
+        <input id="submit-url-1" type="url" value='https://' required style="width: 90%" class="pure-input-1 submit-form-90 " placeholder="URL" text="https://">
+        <textarea id="submit-desc-1" required style="width: 90%" class="pure-input-1 submit-form-90 " placeholder="short description"></textarea>
+        <input id="submit-email-1" style="width: 90%" class="pure-input-1 submit-form-90" placeholder="contact">
+    </fieldset>
+
+    <button id="link-submit" style="margin:0 0 0 0 ;width: 44.5%; display: inline-block;" type="submit" class="pure-button pure-input-1-2 pure-button-primary">Submit</button>
+    <form style="display: inline-block;"><button id="list-links" style="width: 44.5%; display: inline-block;" class="pure-button pure-input-1-2 pure-button">Latest</button></form>
+
+</form>
+
+<p></p>
+
+<p>💡 Please link back <a href="https://rweekly.org">https://rweekly.org</a> on your blog.</p>
+
+<p>You can submit links or feeds for blog posts and podcasts. Use <a href="https://validator.w3.org/feed/">W3C Feed Validation</a> Service to checks the syntax of Atom or RSS feeds.</p>.
+
+<div style="margin-top: 20px;" id="app"></div>
+
+<h3>Submit with R</h3>
+
+<div style="width:90%" class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">rweekly</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">url</span><span class="p">,</span><span class="n">text</span><span class="p">,</span><span class="n">contact</span><span class="p">){</span><span class="n">a</span><span class="o">=</span><span class="n">URLencode</span><span class="p">;</span><span class="n">readLines</span><span class="p">(</span><span class="n">url</span><span class="p">(</span><span class="w">
+</span><span class="n">sprintf</span><span class="p">(</span><span class="s2">"https://api.rweekly.org/submit?url=%s&amp;desc=%s&amp;email=%s"</span><span class="p">,</span><span class="w">
+</span><span class="n">a</span><span class="p">(</span><span class="n">url</span><span class="p">),</span><span class="n">a</span><span class="p">(</span><span class="n">text</span><span class="p">),</span><span class="n">a</span><span class="p">(</span><span class="n">contact</span><span class="p">))))}</span><span class="w">
+</span></code></pre>
+
+
+
+</div>
+
+<p></p>
+
+<div style="display: none;" id="dialog-1" title="Submission Status">
+  <p></p>
+</div>
+
+<p></p>
+
+<p></p>
+
+<p>You can submit posts by creating pull requests on GitHub. <a href="https://github.com/rweekly/rweekly.org">https://github.com/rweekly/rweekly.org</a></p>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById( "submit-form-1" ).addEventListener( "submit", function(e) {
+    e.preventDefault();
+    var final_url = "https://api.rweekly.org/submit?url=" + encodeURIComponent(document.getElementById('submit-url-1').value) + '&desc=' + encodeURIComponent(document.getElementById('submit-desc-1').value) + '&email=' + encodeURIComponent(document.getElementById('submit-email').value);
+    console.log(final_url);
+    var xhr = new XMLHttpRequest();
+    var time_xhr = (new Date()).getTime();
+    xhr.open("GET", final_url);
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState == 4 && ( xhr.status == 200 || xhr.status == 304 )) {
+            var xhr_res = JSON.parse(xhr.responseText);
+            if (xhr_res.hasOwnProperty('error')){
+                document.getElementById('dialog-1').firstElementChild.innerHTML = 'Error: ' + xhr_res.error + '. See you tomorrow!';
+                _paq.push(['trackEvent', "submit-link", "error", xhr_res.error, (new Date()).getTime() - time_xhr]);
+            } else {
+                _paq.push(['trackEvent', "submit-link", "done", xhr_res.url, (new Date()).getTime() - time_xhr]);
+                var words;
+                if(xhr_res > 1){
+                    words = 'links';
+                }else{
+                    words = 'link';
+                }
+
+                document.getElementById('dialog-1').firstElementChild.innerHTML = 'Thanks! You submited ' + xhr_res.num_today + ' ' + words + ' today.';
+                document.getElementById('submit-url-1').value = 'https://'
+                document.getElementById('submit-desc-1').value = ''
+            }
+            $( "#dialog-1" ).dialog({
+                show: {
+                    effect: "fade",
+                    duration: 300
+                },
+                hide: {
+                    effect: "fade",
+                    duration: 300
+                }
+            });
+        }
+    }
+    xhr.send();
+    _paq.push(['trackEvent', "submit-link", "begin", document.getElementById('submit-url-1').value]);
+    });
+
+    document.getElementById( "list-links" ).addEventListener( "click", function(e) {
+    e.preventDefault();
+    var xhr = new XMLHttpRequest();
+    var time_xhr = (new Date()).getTime();
+    xhr.open("GET","https://api.rweekly.org/list-latest-links");
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState == 4 && ( xhr.status == 200 || xhr.status == 304 )) {
+
+            var links_array = JSON.parse(xhr.responseText);
+            if (links_array.hasOwnProperty('error')){
+                links_array = [{DESC: 'Sorry, there is no updates.', REALTIME: new Date(), URL: '#' }];
+            }
+
+            var new_ul = document.createElement('ul');
+            for(var ii = 0; ii< links_array.length; ii++){
+                var new_li = document.createElement('li');
+                var new_p = document.createElement('p');
+                var new_a = document.createElement('a');
+
+                new_a.innerText = (new Date(links_array[ii].REALTIME)).toLocaleString() + ' - ' + links_array[ii].DESC;
+                new_a.href = links_array[ii].URL;
+                new_p.appendChild(new_a);
+                new_li.appendChild(new_p);
+                new_ul.appendChild(new_li);
+            }
+            var lists_app = document.getElementById('app');
+            lists_app.innerHTML = '';
+            lists_app.appendChild(new_ul);
+            _paq.push(['trackEvent', "list-latest-links", "done", (new Date()).getTime() - time_xhr]);
+        }
+      };
+
+    xhr.send();
+    _paq.push(['trackEvent', "list-latest-links", "begin"]);
+    });
+});
+
+// Vue.config.devtools = true;
+
+</script>
+
+
+
+{% endraw %}
+
+</div>
+
+
+
+<h1 class="page-title">More on R Weekly</h1>
+
+<h3 id="r-conferences--meetups">R conferences &amp; meetups</h3>
+
+<p><a href="https://conf.rweekly.org">https://conf.rweekly.org</a></p>
+
+<p>A collection of presentation slides/materials released on various R conferences and meetups.</p>
+
+<h3 id="blog">Blog</h3>
+
+<p><a href="https://blog.rweekly.org">https://blog.rweekly.org</a></p>
+
+<p>Updates and changes on R Weekly.</p>
+
+

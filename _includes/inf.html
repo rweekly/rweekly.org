@@ -1,26 +1,29 @@
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script src="/public/jscroll.min.js" charset="utf-8"></script>
+<script async src="/public/jscroll.min.js" charset="utf-8"></script>
 <script type="text/javascript">
-// content selector is used to extract the additional items 
-var repat = new RegExp("https?://");
-$('.content').jscroll({
-    loadingHtml: "<small>Next Issue ... </small>",
-    contentSelector: '#posts-content',
-    nextSelector: '#next-page',
-    loadingFunction: function(){
-      var new_page = $('#next-page')[0].href.replace(/(https:\/\/)|(http:\/\/)|(\/index.html)/g, '');
-      var xhr = new XMLHttpRequest();
-      xhr.open("GET","https://page.rweekly.org/?page="+ new_page);
-      xhr.send();
-      _paq.push(['trackEvent', "jscroll", "new page", new_page]);
-    },
-    callback: function(){
-      jQuery.scrollDepth.reset();
-      add_external_links();
-    },
-    padding: 20
-});
+
+performance = window.performance || window.mozPerformance || window.msPerformance || window.webkitPerformance || performance || undefined;
+
+if (performance.timing){
+
+  window.addEventListener('DOMContentLoaded', function ()
+  {
+    setTimeout(function(){
+      var loading_time = performance.timing.domContentLoadedEventEnd - performance.timing.navigationStart;
+      _paq.push(['trackEvent', 'DomTime', 'Start', loading_time/1000]);
+      }, 100);
+  });
+
+  window.addEventListener('load', function ()
+  {
+    setTimeout(function(){
+      var loading_time = performance.timing.loadEventEnd - performance.timing.navigationStart;
+      
+      _paq.push(['trackEvent', 'DomTime', 'End', loading_time/1000]);
+    }, 100);
+  });
+}
 
 WebFontConfig = {
   custom: {
@@ -56,3 +59,61 @@ WebFontConfig = {
 }
 
 </style>
+
+<style>
+img.emoji {
+   height: 1em;
+   width: 1em;
+   margin: 0 .05em 0 .1em;
+   vertical-align: -0.1em;
+}
+</style>
+
+<script>
+{% include twemoji.min.js %}
+
+document.addEventListener("DOMContentLoaded", function(){
+  twemoji.parse(document.body,
+  {
+    folder: 'svg',
+    ext: '.svg'
+  });
+});
+
+// include nprogress.min.js
+
+function getScrollPercent() {
+    var h = document.documentElement, 
+        b = document.body,
+        st = 'scrollTop',
+        sh = 'scrollHeight';
+    return (h[st]||b[st]) / ((h[sh]||b[sh]) - h.clientHeight);
+}
+
+if (typeof global_notdone === 'undefined') {
+    var global_notdone = true;
+}
+
+// if(global_notdone){
+//   NProgress.configure({ trickle: false, showSpinner: false, minimum: 0.01 });
+
+//   NProgress.start();
+// }
+
+// function update_nprogress(){
+//   var perc = getScrollPercent()
+//   if(perc > 0.98 && global_notdone){
+//     NProgress.done();
+//     global_notdone = false;
+//   }
+//   if(global_notdone){
+//       NProgress.set(getScrollPercent())
+//   }
+// }
+
+// if(global_notdone){
+//   document.addEventListener("scroll", update_nprogress);
+//   document.addEventListener("touchmove", update_nprogress);
+// }
+
+</script>

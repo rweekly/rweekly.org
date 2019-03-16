@@ -1,0 +1,102 @@
+---
+layout: page
+title: Like
+---
+
+<script>
+var global_notdone = false;
+</script>
+
+<style>
+body.no-feature-like .upvote-click{
+    display: initial;
+}
+
+body.no-feature-like .like-beta {
+    display: initial;
+}
+body.no-feature-like .liketext {
+    display: initial;
+}
+
+body.no-feature-like .hidetext {
+    display: none;
+}
+</style>
+<div class="post">
+{% raw %}
+
+<div id="app">
+  <div class="like-table" v-for="item in like_date">
+    <h3 v-bind:id="item.date">{{ item.date }}</h3>
+    <ul class="ul-no-liketext" style="list-style: none; padding-left: 0px;">
+    <li v-for="link in item.links">
+        <p>
+            <a v-bind:href="link.href">{{ link.title }}</a>
+        </p>
+    </li>
+    </ul>
+  </div>
+</div>
+
+<script src="/public/vue.min.js"></script>
+
+<script>
+var rweekly_is_live = true;
+
+var sortable = [];
+var likeregex = /^like-/;
+var like_date = {};
+
+for (var i = 0; i < localStorage.length; i++) {
+    var item_key = localStorage.key(i);
+    if(item_key.match(likeregex)){
+        var item_value = JSON.parse(localStorage.getItem(item_key));
+        item_value['href'] = item_key.replace(likeregex,'');
+
+        if (Array.isArray(like_date[item_value.date])){
+            like_date[item_value.date].push(item_value);
+        } else {
+            like_date[item_value.date] = [];
+            like_date[item_value.date].push(item_value);
+        }
+    };
+}
+
+for(var i in like_date){
+    sortable.push([i,new Date(i)]);
+}
+
+sortable.sort(function(a, b) {
+    return b[1] - a[1];
+})
+
+var like_array = [];
+
+for (var i = 0; i < sortable.length; i++) {
+    like_array.push({date: sortable[i][0], links: like_date[sortable[i][0]]});
+}
+
+Vue.config.devtools = true;
+var app = new Vue({
+  el: '#app',
+  data: {
+    like_date: like_array
+  }
+})
+
+</script>
+
+{% endraw %}
+
+</div>
+
+<p>
+    <a id="backup" href="#">JSON</a>
+</p>
+
+<script>
+var backup_a = document.getElementById('backup');
+backup_a.href = 'data:text/plain;charset=utf-8,' + encodeURIComponent(JSON.stringify(like_array));
+backup_a.setAttribute('download', (new Date()).toString() + '.json' );
+</script>

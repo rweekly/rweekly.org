@@ -5,7 +5,7 @@
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 0.5rem;
 }
 
 .masthead-title {
@@ -22,4 +22,10 @@
     font-weight: 400;
     opacity: .5;
   }
+}
+
+.default-links a{
+    font-size: 15px;
+    color: #515151;
+    font-weight: normal;
 }

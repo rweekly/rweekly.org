@@ -1,0 +1,42 @@
+---
+layout: null
+---
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "{{ site.title | xml_escape }}",
+    "home_page_url": "{{ "/" | absolute_url }}",
+    "feed_url": "{{ "/feed.json" | absolute_url }}",
+    "description": {{ site.description | jsonify }},
+    "icon": "{{ "/apple-touch-icon.png" | absolute_url }}",
+    "favicon": "{{ "/favicon.ico" | absolute_url }}",
+    "expired": false,
+    "items": [
+    {% for post in site.posts limit:36 %}
+    {% assign y = '<img src="https://web.rweekly.org/js/index.php?idsite=1&rec=1" style="border:0" alt="" />' %}
+    {% assign z = post.content | append: y %}
+        {
+            "id": "{{ post.url | absolute_url | sha1 }}",
+            "title": {{ post.title | jsonify }},
+            "summary": {{ post.seo_description | jsonify }},
+            "content_text": {{ z | strip_html | strip_newlines | jsonify }},
+            "content_html": {{ z | strip_newlines | jsonify }},
+            "url": "{{ post.url | absolute_url }}",
+            {% if post.image.size > 1 %}"image": "{{ post.image }}",{% endif %}
+            {% if post.link.size > 1 %}"external_url": "{{ post.link }}",{% endif %}
+            {% if post.banner.size > 1 %}"banner_image": "{{ post.banner }}",{% endif %}
+            {% if post.tags.size > 1 %}"tags": {{ post.tags | jsonify }},{% endif %}
+            {% if post.enclosure.size > 1 %}"attachments": [
+            {
+              "url": "{{ post.enclosure }}",
+              "mime_type": "{{ post.enclosure_type }}",
+              "size_in_bytes": "{{ post.enclosure_lenght }}"
+            },{% endif %}
+            "date_published": "{{ post.date | date_to_xmlschema }}",
+            "date_modified": "{{ post.date | date_to_xmlschema }}",
+            "author": {
+                "name": "{{ post.author }}"
+            }
+        }{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+    ]
+}

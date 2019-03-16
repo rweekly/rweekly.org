@@ -5,17 +5,18 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-		<title>{{ site.name }}</title>
+		<title>R Weekly</title>
 		<description>{{ site.description }}</description>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-		{% for post in  site.posts %}
+		{% for post in  site.posts limit:40 %}
   		<item>
           {% capture abspath %}{{ site.url }}{{ post.url }}/../figure/{% endcapture %}
-				<title>{{ post.title }}</title>
+				<title>{{ post.title | xml_escape }}</title>
 				<description>
+				&lt;p&gt;Hello and welcome to this new issue!&lt;/p&gt;
 				{{ post.content | xml_escape | replace: '../figure/', abspath }}
-				&lt;img src=&quot;https://web.rweekly.org/piwik.php?idsite=1&amp;rec=1&quot; style=&quot;border:0&quot; alt=&quot;&quot; /&gt;
+				&lt;img src=&quot;https://web.rweekly.org/js/index.php?idsite=1&amp;rec=1&quot; style=&quot;border:0&quot; alt=&quot;&quot; /&gt;
 				</description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>{{ site.url }}/{{ post.url }}</link>

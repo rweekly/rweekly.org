@@ -2,15 +2,16 @@
 permalink:           /:title.html
 
 # Setup
-title:               RWeekly.org - Weekly Updates from the R Community
+title:               RWeekly.org - Blogs to Learn R from the Community
 url:                 https://rweekly.org
 paginate:            1
 baseurl:             ""
 nav-baseurl:         "https://rweekly.org"
 ampdir: amp
-description: Get the latest updates and blog posts about the statistical programming R language.
+description: Learn R, R tutorials, R resources, blog posts and the latest updates about the statistical programming R language.
 post_max: 396+24
 
+incremental: false
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -21,8 +22,8 @@ sass:
 # About/contact
 author:
   name:              R Weekly
-  url:               
-  email:             
+  url:
+  email:
 
 # Custom vars
 version:             2.0.0
@@ -37,8 +38,9 @@ gems:
   - jemoji
   - jekyll-seo-tag
 
-pages_list:       
-  Feed: '/atom.xml'
-  About: '/about.html'
-  Archive: '/archive.html'
-  Draft: '/draft.html'
+pages_list:
+  About: '/about'
+  All: '/archive'
+  Draft: '/draft'
+
+excerpt_separator: <!--more-->

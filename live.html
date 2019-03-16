@@ -1,0 +1,404 @@
+---
+layout: vue-inline-page
+title: Live Updates and Bloggers from Data Science Community
+---
+
+<script>
+var global_notdone = false;
+</script>
+
+<style>
+.inner-app-hide{
+    display: none;
+}
+
+.long-ds{
+    display: none;
+}
+
+.inner-text{
+    font-size: 16px;
+    display: inline;
+}
+
+.podcast{
+    display: none;
+}
+
+.tocify {
+    display: none;
+}
+.container {
+    max-width: 38rem;
+    padding-left:  1.5em;
+    padding-right: 1.5rem;
+    margin-left:  auto;
+    margin-right: auto;
+}
+.post a:visited{
+    color: #999;
+}
+
+.post-hide-ds .is-ds{
+    display: none
+}
+
+@media (min-width: 650px){
+    .masthead{
+        position: fixed;
+        background-color: white;
+        opacity: 0.9;
+        width: 100%;
+        z-index: 10;
+        -webkit-box-shadow: 0px 0px 8px 8px white;
+        box-shadow: 0px 0px 8px 8px white;
+
+        padding-bottom: 0.4rem;
+    }
+    #main-article{
+        padding-top: 90px;
+    }
+    .long-ds{
+        display: inline;
+    }
+    .short-ds{
+        display: none;
+    }
+}
+
+
+.title-inline{
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.weibo-hide{
+    display:none;
+}
+
+body.no-feature-like .upvote-click{
+    display: initial;
+}
+
+body.no-feature-like .like-beta {
+    display: initial;
+}
+body.no-feature-like .liketext {
+    display: initial;
+}
+
+body.no-feature-like .hidetext {
+    display: none;
+}
+
+body.night .masthead{
+    background-color: #262626;
+    box-shadow: 0px 0px 8px 8px #262626;
+}
+
+body.night .masthead-title a {
+    color: #cbcbcb;
+}
+
+</style>
+
+{% raw %}
+
+<div id="main-post" class="post">
+
+<div id="latest-app" class="inner-app-hide">
+
+<p class="added-hostname">
+    <a href="https://feedburner.google.com/fb/a/mailverify?uri=rweekly-live&amp;loc=en_US" id="mail-status" target="_blank" class="externalLink">
+        <svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg" style="margin-right: 8px;height: 25px;width: 25px;padding-top: 5px;margin-bottom: -4;">
+            <path style="fill:grey;" d="M1664 1504v-768q-32 36-69 66-268 206-426 338-51 43-83 67t-86.5 48.5-102.5 24.5h-2q-48 0-102.5-24.5t-86.5-48.5-83-67q-158-132-426-338-37-30-69-66v768q0 13 9.5 22.5t22.5 9.5h1472q13 0 22.5-9.5t9.5-22.5zm0-1051v-24.5l-.5-13-3-12.5-5.5-9-9-7.5-14-2.5h-1472q-13 0-22.5 9.5t-9.5 22.5q0 168 147 284 193 152 401 317 6 5 35 29.5t46 37.5 44.5 31.5 50.5 27.5 43 9h2q20 0 43-9t50.5-27.5 44.5-31.5 46-37.5 35-29.5q208-165 401-317 54-43 100.5-115.5t46.5-131.5zm128-37v1088q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-1088q0-66 47-113t113-47h1472q66 0 113 47t47 113z"></path>
+        </svg>
+    </a>
+
+    <a href="https://feeds.feedburner.com/rweekly-live" id="rss-status" target="_blank" class="externalLink">
+        <svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg" style="margin-right: 8px; height: 25px; width: 25px; padding-top: 5px; margin-bottom: -4px;">
+            <path d="M576 1344q0 80-56 136t-136 56-136-56-56-136 56-136 136-56 136 56 56 136zm512 123q2 28-17 48-18 21-47 21h-135q-25 0-43-16.5t-20-41.5q-22-229-184.5-391.5t-391.5-184.5q-25-2-41.5-20t-16.5-43v-135q0-29 21-47 17-17 43-17h5q160 13 306 80.5t259 181.5q114 113 181.5 259t80.5 306zm512 2q2 27-18 47-18 20-46 20h-143q-26 0-44.5-17.5t-19.5-42.5q-12-215-101-408.5t-231.5-336-336-231.5-408.5-102q-25-1-42.5-19.5t-17.5-43.5v-143q0-28 20-46 18-18 44-18h3q262 13 501.5 120t425.5 294q187 186 294 425.5t120 501.5z"
+                style="fill:grey;"></path>
+        </svg>
+    </a>
+    <a href="/feedlist.html" target="_blank" class="externalLink">
+        <svg style="margin-right: 8px; height: 25px; width: 25px; padding-top: 5px; margin-bottom: -4px;" width="20" height="20"
+            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <path style="fill:grey;" d="M96 96c0 26.51-21.49 48-48 48S0 122.51 0 96s21.49-48 48-48 48 21.49 48 48zM48 208c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zm0 160c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zm96-236h352c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H144c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h352c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H144c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h352c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H144c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"></path>
+        </svg>
+    </a> Updated: {{ readable_date }}&nbsp;&nbsp;
+    <span class="short-ds">Show DS</span>
+    <span class="long-ds">Show More</span>:
+    <a href="#" id="ds-status">&nbsp;yes</a>
+</p>
+
+  <div class="like-table" v-for="item in post_date.obj">
+    <h3 v-bind:id="item.date">{{ item.date }}</h3>
+    <div v-for="link in item.links" class="" >
+        <ul v-bind:class="is_ds(link.I)">
+        <li>
+            <p class="added-hostname" v-if="link.N !== undefined">
+                <a class="externalLink" target="_blank" rel="nofollow noopener" v-bind:href="link.U">{{ is_pkg(link.U) }}{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a>  - {{ link.N }} <span  style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
+            </p>
+            <p  class="added-hostname" v-else>
+                <a  class="externalLink" target="_blank"   rel="nofollow noopener" v-bind:href="link.U">{{ is_pkg(link.U) }}{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a><span style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
+            </p>
+        </li>
+        </ul>
+        <p v-bind:class="is_ds(link.I)" v-if="link.P !== undefined">
+            <img v-bind:src="link.P" v-bind:alt="link.T"/>
+        </p>
+    </div>
+  </div>
+</div>
+
+<div id="app" class="inner-app-hide">
+  <div id="inner-app" class="like-table" v-for="item in post_date">
+    <h3 v-bind:id="item.date">{{ item.date }}</h3>
+    <div v-for="link in item.links" class="" >
+        <ul v-bind:class="is_ds(link.I)">
+        <li>
+            <p class="added-hostname" v-if="link.N !== undefined">
+                <a class="externalLink" target="_blank" rel="nofollow noopener" v-bind:href="link.U">{{ is_pkg(link.U) }}{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a>  - {{ link.N }} <span  style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
+            </p>
+            <p  class="added-hostname" v-else>
+                <a  class="externalLink" target="_blank"   rel="nofollow noopener" v-bind:href="link.U">{{ is_pkg(link.U) }}{{ link.T }} <span class="spantext">{{ get_host(link.U) }}</span></a><span style="color:#999;" class="tooltiptext"><br/>(&nbsp;{{ get_host(link.U) }}&nbsp;)&nbsp;</span>
+            </p>
+        </li>
+        </ul>
+        <p v-bind:class="is_ds(link.I)" v-if="link.P !== undefined">
+            <img v-bind:src="link.P" v-bind:alt="link.T"/>
+        </p>
+    </div>
+  </div>
+</div>
+
+<p id="next-text" class="inner-app-hide">next ...<p>
+
+</div>
+
+<script>
+var rweekly_is_live = true;
+
+function ds_feature(e){
+    e.preventDefault();
+    if (localStorage.getItem("feature-ds") === 'false'){
+        try{
+            localStorage.setItem("feature-ds", true);
+        }catch(err1){
+            console.log(err1)
+        }
+        _paq.push(['trackEvent', 'set-ds', 'true']);
+        document.getElementById('ds-status').innerText = " yes ";
+        document.getElementById('main-post').classList.remove('post-hide-ds');
+        document.getElementById('mail-status').href = "https://feedburner.google.com/fb/a/mailverify?uri=rweekly-live&amp;loc=en_US";
+        document.getElementById('rss-status').href = "https://feeds.feedburner.com/rweekly-live";
+    } else {
+        try{
+            localStorage.setItem("feature-ds", false);
+        }catch(err1){
+            console.log(err1)
+        }
+        _paq.push(['trackEvent', 'set-ds', 'false']);
+        document.getElementById('ds-status').innerText = " no ";
+        document.getElementById('main-post').classList.add('post-hide-ds');
+        document.getElementById('mail-status').href = "https://feedburner.google.com/fb/a/mailverify?uri=rweeklylive&amp;loc=en_US";
+        document.getElementById('rss-status').href = "https://feeds.feedburner.com/rweeklylive";
+    }
+}
+
+function is_ds(value){
+    if(value === 1){
+        return "is-ds";
+    }
+    return "not-ds";
+}
+
+function get_host(text){
+    var aurl = document.createElement('a');
+    aurl.href = text;
+    return aurl.host;
+}
+
+var weekday = new Array(7);
+weekday[0] =  "Sunday";
+weekday[1] = "Monday";
+weekday[2] = "Tuesday";
+weekday[3] = "Wednesday";
+weekday[4] = "Thursday";
+weekday[5] = "Friday";
+weekday[6] = "Saturday";
+
+function get_date(){
+    var date_var = new Date();
+    return date_var.getFullYear() + '-' + (date_var.getMonth()+1) + '-' + date_var.getDate() + " " + weekday[date_var.getDay()];
+}
+
+var post_data = [];
+var latest_data = {};
+
+
+// Vue.config.devtools = true;
+
+function is_pkg(url){
+    if (get_host(url) === "cran.r-project.org"){
+        return "📦 ";
+    }else{
+        return "";
+    }
+}
+
+var latest_app = new Vue({
+  el: '#latest-app',
+  data: {
+    post_date: latest_data
+  },
+   computed: {
+    // a computed getter
+    readable_date: function () {
+      // `this` points to the vm instance
+      if(this.post_date.update === "loading latest updates"){
+          return "loading latest updates";
+      }
+      return moment(this.post_date.update).twitterLong();
+    }
+  }
+});
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    post_date: post_data
+  }
+});
+
+function load_latest(){
+
+    var xhr = new XMLHttpRequest();
+
+    xhr.open("GET","https://live.rweekly.org/latest.json");
+    xhr.onreadystatechange = function() {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+        try{
+            localStorage.setItem("live-latest", xhr.responseText);
+        }catch(err2){
+            console.log(err2);
+        }
+
+        var myArr = JSON.parse(xhr.responseText);
+
+        // force DOM update
+        latest_app.post_date = [];
+        latest_app.post_date = myArr;
+        document.getElementById('latest-app').classList.remove('inner-app-hide');
+
+        setTimeout(function(){
+        twemoji.parse(document.body,
+        {
+            folder: 'svg',
+            ext: '.svg'
+        });
+        }, 500);
+
+        // add_external_links();
+    }
+    };
+    xhr.send();
+}
+
+
+document.addEventListener('DOMContentLoaded', function(){
+    var local_cache = localStorage.getItem("live-latest");
+
+    if(local_cache !== null){
+        var todo_data = JSON.parse(local_cache);
+        todo_data.update = "loading latest updates";
+        // force DOM update
+        latest_app.post_date = [];
+        latest_app.post_date = todo_data;
+        document.getElementById('latest-app').classList.remove('inner-app-hide');
+    }
+
+    load_latest();
+    document.getElementById('ds-status').addEventListener("click",ds_feature);
+    if (localStorage.getItem("feature-ds") === 'false'){
+        document.getElementById('ds-status').innerText = " no ";
+        document.getElementById('main-post').classList.add('post-hide-ds');
+        document.getElementById('mail-status').href = "https://feedburner.google.com/fb/a/mailverify?uri=rweeklylive&amp;loc=en_US";
+    } else {
+        document.getElementById('ds-status').innerText = " yes ";
+        document.getElementById('main-post').classList.remove('post-hide-ds');
+        document.getElementById('mail-status').href = "https://feedburner.google.com/fb/a/mailverify?uri=rweekly-live&amp;loc=en_US";
+    }
+    try{
+        var xlanguage = window.navigator.userLanguage || window.navigator.language;
+        var zhpat = /(zh)|(cn)/i;
+        if(zhpat.test(xlanguage)){
+            document.querySelector(".weibo-hide").classList.remove("weibo-hide");
+        }
+    }catch(err){
+        console.log(err);
+    }
+});
+
+setInterval(load_latest, 30000);
+
+function format_a_date(now_date){
+  return now_date.getFullYear()+ '-' + (now_date.getMonth()+1) + '-' + now_date.getDate();
+}
+
+function format_year_month(now_date){
+  return now_date.getFullYear()+ '-' + (now_date.getMonth()+1);
+}
+
+var curr = format_year_month(new Date());
+
+curr = format_year_month(moment(curr,"YYYY-MM").subtract(1,"months").toDate());
+
+var next_status = false;
+
+function scroll_loading(){
+   if(next_status === false && ((window.scrollY + window.innerHeight + 400) >= document.body.offsetHeight) ) {
+            next_status = true;
+            document.getElementById('next-text').classList.remove('inner-app-hide');
+
+            var xhr = new XMLHttpRequest();
+            console.log(curr);
+            xhr.open("GET","https://live.rweekly.org/"+ curr+".json");
+            xhr.onreadystatechange = function() {
+            if (xhr.readyState == 4 && xhr.status == 200) {
+                var myArr = (JSON.parse(xhr.responseText)).obj;
+                for(var ii =0; ii!= myArr.length; ii++){
+                    app.post_date.push(myArr[ii]);
+                }
+                next_status = false;
+                document.getElementById('app').classList.remove('inner-app-hide');
+                document.getElementById('next-text').classList.add('inner-app-hide');
+
+                setTimeout(function(){
+                twemoji.parse(document.body,
+                {
+                    folder: 'svg',
+                    ext: '.svg'
+                });
+                }, 500);
+
+            }else if (xhr.readyState == 4){
+                next_status = false;
+                document.getElementById('next-text').classList.add('inner-app-hide');
+            }
+            };
+            xhr.send();
+            _paq.push(['trackEvent', "live-new-page", "new page", format_year_month(new Date(curr))]);
+            curr = format_year_month(moment(curr,"YYYY-MM").subtract(1,"months").toDate());
+   }
+}
+
+window.addEventListener("touchmove",scroll_loading);
+window.addEventListener("scroll",scroll_loading);
+
+</script>
+
+
+{% endraw %}
+
