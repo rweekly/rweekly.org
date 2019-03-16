@@ -45,6 +45,8 @@ Release Date: 2019-03-18
 
 + [Mixing Up Your Office March Madness Competition](https://nielsenmark.us/2019/03/14/mixing-up-march-madness/)
 
++ [What If Each State Allocated Their Electoral College Votes Proportionally?](https://www.thecrosstab.com/2019/03/08/electoral-college-proportional/)
+
 ###  R in Organizations
 
 + [2019 Update One: R Consortium and ISC Announce the Newest Funded Projects for the R Community](https://www.r-consortium.org/blog/2019/03/12/2019-update-one-r-consortium-and-isc-announce-the-newest-funded-projects-for-the-r-community)
@@ -68,11 +70,14 @@ Release Date: 2019-03-18
 
 + [yum](https://cran.r-project.org/package=yum) - Utilities to Extract and Process YAML Fragments
 
++ [rbin](https://blog.rsquaredacademy.com/binning-data-with-rbin/) - a set of tools for binning/discretization of data
+
+
 **GitHub or Bitbucket**
 
 + [footrulr](https://github.com/kanishkamisra/footrulr) - Compare sentences using Machine Translation and Text Summarization evaluation metrics
 
-+ [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse 
++ [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse
 
 + [Anonymous Functions in R - Part 3: Introducing the 'anon' package](https://coolbutuseless.github.io/2019/03/14/anonymous-functions-in-r-part-3-introducing-the-anon-package/)`
 
@@ -96,6 +101,11 @@ Release Date: 2019-03-18
 + [Unit Tests in R](http://www.win-vector.com/blog/2019/03/unit-tests-in-r/)
 
 + [Wrangling Content Security Policies in R](https://rud.is/b/2019/03/10/wrangling-content-security-policies-in-r/)
+
++ [Math, code, concepts: A third road to deep learning](https://blogs.rstudio.com/tensorflow/posts/2019-03-15-concepts-way-to-dl/)
+
++ [A case study for Branch Network Optimization, using R as a GIS tool.](https://www.jla-data.net/eng/branch-network-optimization-in-r/index.html)
+
 
 + [Data Manipulation Corner Cases](http://www.win-vector.com/blog/2019/03/data-manipulation-corner-cases/)
 
