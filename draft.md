@@ -13,12 +13,21 @@ Release Date: 2019-03-18
 
 ### Insights
 
++ [R 3.5.3 now available](https://blog.revolutionanalytics.com/2019/03/r-353-now-available.html)
+
 + [Anonymous Functions in R (Part 1)](https://coolbutuseless.github.io/2019/03/13/anonymous-functions-in-r-part-1/)
 
++ [10 things R can do that might surprise you](https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/)
+
++ [#20: Dependencies. Now with badges!](http://dirk.eddelbuettel.com/blog/2019/03/14#020_dependency_badges)
+
++ [RStudio 1.2 Preview: Jobs](https://blog.rstudio.com/2019/03/14/rstudio-1-2-jobs/)
+
++ [#chirunconf](https://sharla.party/posts/chirunconf/)
 
 ### R in the Real World
 
-
++ [Collecting Content Security Policy Violation Reports in S3 ('Effortlessly'/'Freely')](https://rud.is/b/2019/03/14/collecting-content-security-policy-violation-reports-in-s3-effortlessly-freely/)
 
 + [Plotting Manager Elo Ratings by Club (Part 1)](https://otstats.github.io/2019-03-12-plot-manager-elo-part-1/)
 
@@ -26,25 +35,23 @@ Release Date: 2019-03-18
 
 + [Exploring Swings in Australian Federal Elections](http://freerangestats.info/blog/2019/03/11/aust-election-2-swings)
 
-
 + [Exploring 11 Years of Chicago Blackhawk’s Data using Principal Components Analysis](https://mattkmiecik.com/post-Exploring-11-Years-of-Chicago-Blackhawks-Data-using-Principal-Components-Analysis.html)
 
 ![](https://mattkmiecik.com/post-Exploring-11-Years-of-Chicago-Blackhawks-Data-using-Principal-Components-Analysis_files/figure-html/unnamed-chunk-19-1.png)
 
++ [A case where prospective matching may limit bias in a randomized trial](https://www.rdatagen.net/post/a-case-where-prospecitve-matching-may-limit-bias/)
 
++ [World population growth through time](https://nowosad.github.io/post/world-pop-change2/)
 
++ [Mixing Up Your Office March Madness Competition](https://nielsenmark.us/2019/03/14/mixing-up-march-madness/)
 
 ###  R in Organizations
 
-
-
-
-###  R in Academia
-
-
++ [2019 Update One: R Consortium and ISC Announce the Newest Funded Projects for the R Community](https://www.r-consortium.org/blog/2019/03/12/2019-update-one-r-consortium-and-isc-announce-the-newest-funded-projects-for-the-r-community)
 
 ###  Resources
 
++ [Unconference Toolbox](https://github.com/unconf-toolbox) - Just about everything you need to host your own unconference. Created at the 2019 Chicago R Unconference
 
 
 ###  New Packages
@@ -53,37 +60,50 @@ Release Date: 2019-03-18
 
 **CRAN**
 
++ [ggasym](https://jhrcook.github.io/ggasym/) - Asymmetric Matrix Plotting in 'ggplot2'
 
++ [leafpm](https://cran.r-project.org/package=leafpm) - Leaflet Map Plugin for Drawing and Editing
 
-**BioC**
++ [waiter](https://cran.r-project.org/package=waiter) - Loading Screen for 'Shiny'
 
-
++ [yum](https://cran.r-project.org/package=yum) - Utilities to Extract and Process YAML Fragments
 
 **GitHub or Bitbucket**
 
++ [footrulr](https://github.com/kanishkamisra/footrulr) - Compare sentences using Machine Translation and Text Summarization evaluation metrics
 
++ [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse 
+
++ [Anonymous Functions in R - Part 3: Introducing the 'anon' package](https://coolbutuseless.github.io/2019/03/14/anonymous-functions-in-r-part-3-introducing-the-anon-package/)`
+
++ [rlangtip](https://github.com/revodavid/rlangtip) - R package to generate a helpful tip about R
 
 ### Updated Packages
 
++ [sparklyr](https://blog.rstudio.com/2019/03/15/sparklyr-1-0/) 1.0: Apache Arrow, XGBoost, Broom and TFRecords]
 
 
 ###  Videos and Podcasts
 
++ [Credibly Curious Episode 7 (Moving)](https://soundcloud.com/crediblycurious/episode-7-moving) - Nick and Saskia discuss moving, RStudio Conference, hexbin plots and the scales package
 
-
-### Gist & Cookbook
-
-
-
-### R Internationally
-
-
++ [Not So Standard Deviations Episode 76 (Barely a Data Scientist)](http://nssdeviations.com/76-barely-a-data-scientist) - Hilary and Roger discuss the other jobs of the data scientist, using notebooks, Getting Things Done (on paper), keeping packages on CRAN, and the Women in Data Science Conference.
 
 ###  Tutorials
 
++ [gt_examples](https://frm1789.github.io/gt_examples/) - This is a small list with 25 visualizations using the `gt` package
 
++ [Unit Tests in R](http://www.win-vector.com/blog/2019/03/unit-tests-in-r/)
 
++ [Wrangling Content Security Policies in R](https://rud.is/b/2019/03/10/wrangling-content-security-policies-in-r/)
 
++ [Data Manipulation Corner Cases](http://www.win-vector.com/blog/2019/03/data-manipulation-corner-cases/)
+
++ [Create interactive ggplot2 graphs with plotly](https://www.littlemissdata.com/blog/interactiveplots)`
+
++ [group_split/map/modify() in dplyr 0.8.1 (still in development)](https://coolbutuseless.github.io/2019/03/15/group_split-map-modify-in-dplyr-0.8.1-still-in-development/)
+
++ [Software Dependencies and Risk](http://www.win-vector.com/blog/2019/03/software-dependencies-and-risk/)
 
 <!--<div class="post-more-begin"></div><div class="post-more-end"></div>-->
 
@@ -102,28 +122,22 @@ Events in 3 Months:
 
 + [satRday Los Angeles - 6th April](https://losangeles2019.satrdays.org/)
 
++ [The Uncoast Unconference - 14th to 16th April](http://uuconf.rbind.io/)
+
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
-### Datasets
-
-
-
-
-### Jobs
-
-
-
-
 ###  Call for Participation
 
++ [satRday Chicago - 27th April](https://chicago2019.satrdays.org/)
 
-
++ [Community Call - Research Applications of rOpenSci Taxonomy and Biodiversity Tools](https://ropensci.org/blog/2019/03/11/commcall-mar2019/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The 2nd day of <a href="https://twitter.com/hashtag/chirunconf?src=hash&amp;ref_src=twsrc%5Etfw">#chirunconf</a> was filled w/ progress on many pkgs/issues. <br><br>People:<br>✅ completed their 1st PR<br>✅ made their 1st R pkg<br>✅ created their 1st Shiny app<br><br>But to me the best part was the people. We laughed. We ate. We learned. We rejoiced in the R culture and community! <a href="https://t.co/kXHDawQm41">pic.twitter.com/kXHDawQm41</a></p>&mdash; Joshua Goldberg (@GoldbergData) <a href="https://twitter.com/GoldbergData/status/1105175443865567232?ref_src=twsrc%5Etfw">March 11, 2019</a></blockquote>
