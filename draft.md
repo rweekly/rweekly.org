@@ -64,6 +64,8 @@ Release Date: 2019-03-18
 
 + [ggasym](https://jhrcook.github.io/ggasym/) - Asymmetric Matrix Plotting in 'ggplot2'
 
+![ggasym](https://raw.githubusercontent.com/rweekly/image/master/2019/11/ggasym_example.png)
+
 + [leafpm](https://cran.r-project.org/package=leafpm) - Leaflet Map Plugin for Drawing and Editing
 
 + [waiter](https://cran.r-project.org/package=waiter) - Loading Screen for 'Shiny'
