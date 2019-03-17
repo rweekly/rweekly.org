@@ -43,6 +43,8 @@ Release Date: 2019-03-18
 
 + [World population growth through time](https://nowosad.github.io/post/world-pop-change2/)
 
+![World population growth through time](https://raw.githubusercontent.com/rweekly/image/master/2019/11/worlds_animate.gif)
+
 + [Mixing Up Your Office March Madness Competition](https://nielsenmark.us/2019/03/14/mixing-up-march-madness/)
 
 + [What If Each State Allocated Their Electoral College Votes Proportionally?](https://www.thecrosstab.com/2019/03/08/electoral-college-proportional/)
