@@ -112,6 +112,7 @@ Release Date: 2019-03-18
 
 + [A case study for Branch Network Optimization, using R as a GIS tool.](https://www.jla-data.net/eng/branch-network-optimization-in-r/index.html)
 
+![A case study for Branch Network Optimization, using R as a GIS tool.](https://raw.githubusercontent.com/rweekly/image/master/2019/11/allocate-data-to-grid-3.png)
 
 + [Data Manipulation Corner Cases](http://www.win-vector.com/blog/2019/03/data-manipulation-corner-cases/)
 
