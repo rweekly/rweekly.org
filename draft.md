@@ -79,6 +79,8 @@ Release Date: 2019-03-18
 
 + [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse
 
+![brickr](https://raw.githubusercontent.com/rweekly/image/master/2019/11/brickr.gif)
+
 + [Anonymous Functions in R - Part 3: Introducing the 'anon' package](https://coolbutuseless.github.io/2019/03/14/anonymous-functions-in-r-part-3-introducing-the-anon-package/)`
 
 + [rlangtip](https://github.com/revodavid/rlangtip) - R package to generate a helpful tip about R
