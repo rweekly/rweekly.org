@@ -91,6 +91,8 @@ Release Date: 2019-03-18
 
 ### Updated Packages
 
++ [doFuture](https://cran.r-project.org/package=doFuture) 0.8.0: A Universal Foreach Parallel Adapter using the Future API of the 'future' Package
+
 + [sparklyr](https://blog.rstudio.com/2019/03/15/sparklyr-1-0/) 1.0: Apache Arrow, XGBoost, Broom and TFRecords]
 
 
