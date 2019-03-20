@@ -50,6 +50,13 @@ Release Date: 2019-03-25
 
 ### Updated Packages
 
++ [sparklyr](https://blog.rstudio.com/2019/03/15/sparklyr-1-0/) 1.0: Apache Arrow, XGBoost, Broom and TFRecords]
++ [`pointdexter`](https://github.com/cenuno/pointdexter/issues/2) 0.1.1 - Labels longitudinal and latitudinal coordinates located inside a polygon
+
+<a href="https://cenuno.github.io/pointdexter/">
+<img src="https://github.com/cenuno/pointdexter/raw/master/man/figures/logo.png" align="middle" width="200"/>
+</a>
+
 
 
 + [doFuture](https://cran.r-project.org/package=doFuture) 0.8.0: A Universal Foreach Parallel Adapter using the Future API of the 'future' Package
