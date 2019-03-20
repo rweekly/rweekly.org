@@ -14,11 +14,12 @@ Release Date: 2019-03-25
 
 ### Insights
 
++ [Code and Data in a large Machine Learning project](https://edwinth.github.io/multiperson-project/)
 
 
 ### R in the Real World
 
-
++ [That's Not My Name!](http://adfi.gitlab.io/2019/03/15/thats-not-my-name/)
 
 ###  R in Organizations
 
@@ -78,7 +79,13 @@ Release Date: 2019-03-25
 
 ###  Tutorials
 
++ [hrsample package and database](http://harry.ahlas.com/2019/03/17/hrsample-database/index.html)
 
++ [Access the free economic database DBnomics with R ](https://macro.nomics.world/article/2019-03/rdbnomics-tutorial/)
+
++ [A Blogdown New Post Workflow with Github and Netlify](https://www.garrickadenbuie.com/blog/blogdown-netlify-new-post-workflow/)
+
++ [Pivoting data frames just got easier thanks to `pivot_wide()` and `pivot_long()`](https://www.brodrigues.co/blog/2019-03-20-pivot/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
