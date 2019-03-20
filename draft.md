@@ -52,6 +52,11 @@ Release Date: 2019-03-25
 
 
 
++ [doFuture](https://cran.r-project.org/package=doFuture) 0.8.0: A Universal Foreach Parallel Adapter using the Future API of the 'future' Package
+
+
+
+
 ###  Videos and Podcasts
 
 
