@@ -114,6 +114,7 @@ Garrick Aden-Buie
 
 ###  Videos and Podcasts
 
++ [R-Podcast Episode 29 (Chicago R Unconference)](https://r-podcast.org/29): Eric visits the first-ever Chicago R Unconference and recaps the excellent projects and shares his perspective as a first-time unconference attendee.
 
 
 ### Gist & Cookbook
