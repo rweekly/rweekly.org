@@ -16,6 +16,7 @@ Release Date: 2019-03-25
 
 + [Code and Data in a large Machine Learning project](https://edwinth.github.io/multiperson-project/)
 
++ [Pivoting in tidyr](https://tidyr.tidyverse.org/dev/articles/pivot.html)
 
 
 + [Understanding the complexity of TED talks using readability formulas calculated using koRpus](https://www.granvillematheson.com/post/tedreadability/)
@@ -33,6 +34,7 @@ Release Date: 2019-03-25
 
 + [AnalizaR Datos Políticos: libro online y gratuito sobre el uso de R y el tidyverse en ciencia política. Pensado para estudiantes y profesionales de Latinoamérica.](https://arcruz0.github.io/libroadp/)
 
++ [Texas Housing Prices:  flatly theme](https://elastic-lovelace-155848.netlify.com/gallery/themes/flatly.html)
 
 + [generativeart Crochet Patterns: This code combines Crochets patterns from @aschinchon/fronkonstin with the R-package generativeart. ](https://github.com/cutterkom/generativeart-crochet-patterns)
 
@@ -56,6 +58,8 @@ Release Date: 2019-03-25
 
 + [AI, Machine Learning and Data Science Roundup: March 2019](https://blog.revolutionanalytics.com/2019/03/airoundup-march-2019.html)
 
++ [ gganimate ](https://mitchelloharawild.com/wombat-gganimate/#1) - The grammar of animation
+
 
 ###  New Packages
 
@@ -63,7 +67,8 @@ Release Date: 2019-03-25
 
 **CRAN**
 
-
++ [ggpomological ](https://www.garrickadenbuie.com/project/ggpomological/) - A Pomological ggplot2 Theme
+Garrick Aden-Buie
 
 **BioC**
 
@@ -77,6 +82,8 @@ Release Date: 2019-03-25
 + [ggecho](https://coolbutuseless.github.io/2019/03/22/ggecho-an-experimental-ggplot-stat-for-blurring-elements/)  - an experimental ggplot stat for blurring elements
 
 + [renv](https://github.com/rstudio/renv) - Project environments for R.
+
++ [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and #tidyverse
 
 
 ### Updated Packages
@@ -121,6 +128,9 @@ Release Date: 2019-03-25
 
 + [Intro to Heroku with R/Python](https://meysubb.github.io/sports%20analytics/2019/03/14/Heroku/)
 
++ [Pivoting data frames just got easier thanks to `pivot_wide()` and `pivot_long()`](https://www.brodrigues.co/blog/2019-03-20-pivot/)
+
++ [Access the free economic database DBnomics with R](https://macro.nomics.world/article/2019-03/rdbnomics-tutorial/)
 
 + [hrsample package and database](http://harry.ahlas.com/2019/03/17/hrsample-database/index.html)
 
@@ -221,3 +231,10 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Please help me figure out good names for the new pivot verbs in tidyr by filling out this (very short!) survey: <a href="https://t.co/cJ0GM1VZ1H">https://t.co/cJ0GM1VZ1H</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1109132826631421952?ref_src=twsrc%5Etfw">March 22, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">{brickr} updated so it&#39;s easier to program your own 3D models. Even better... you can now do machine learning with LEGO &amp; <a href="https://twitter.com/hashtag/brickr?src=hash&amp;ref_src=twsrc%5Etfw">#brickr</a>. Here&#39;s a random forest model! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> <a href="https://t.co/vBK0A70PTl">https://t.co/vBK0A70PTl</a> <a href="https://t.co/Mi31sYX3F8">pic.twitter.com/Mi31sYX3F8</a></p>&mdash; Ryan Timpe 🦖📊 (@ryantimpe) <a href="https://twitter.com/ryantimpe/status/1109086865167171584?ref_src=twsrc%5Etfw">March 22, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hey there <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> folks, everybody makes mistakes and R is not famous for its clear error messages... So I&#39;ve started a little package to help with that: <a href="https://t.co/boy2S3VuYR">https://t.co/boy2S3VuYR</a><br>Feel free to add your own errors and messages! <a href="https://t.co/auh5OUTbuP">https://t.co/auh5OUTbuP</a> <a href="https://t.co/xVMKAoDjOW">pic.twitter.com/xVMKAoDjOW</a></p>&mdash; Colin Fay 🤘 (@_ColinFay) <a href="https://twitter.com/_ColinFay/status/1108753502547910656?ref_src=twsrc%5Etfw">March 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
