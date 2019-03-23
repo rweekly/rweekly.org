@@ -164,19 +164,11 @@ Release Date: 2019-03-25
 
 + [Code and Data in a large Machine Learning project](https://edwinth.github.io/multiperson-project/)
 
-
-
 + [text mining, apis, and parsing api logs](https://recology.info/2019/03/apis-text-mining-logs/)
-
-
 
 + [Support Rotary to Support our World](http://www.win-vector.com/blog/2019/03/support-rotary-to-support-our-world/)
 
-
-
 + [Why we Did Not Name the cdata Transforms wide/tall/long/short](http://www.win-vector.com/blog/2019/03/why-we-did-not-name-the-cdata-transforms-wide-tall-long-short/)
-
-
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
