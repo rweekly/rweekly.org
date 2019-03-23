@@ -18,6 +18,8 @@ Release Date: 2019-03-25
 
 
 
++ [Understanding the complexity of TED talks using readability formulas calculated using koRpus](https://www.granvillematheson.com/post/tedreadability/)
+
 
 + [Copyright in Closed-Source R Packages: The Right Way](https://unconj.ca/blog/copyright-in-closed-source-r-packages-the-right-way.html)
 
@@ -35,6 +37,11 @@ Release Date: 2019-03-25
 + [generativeart Crochet Patterns: This code combines Crochets patterns from @aschinchon/fronkonstin with the R-package generativeart. ](https://github.com/cutterkom/generativeart-crochet-patterns)
 
 + [AFL teams Elo ratings and footy-tipping](http://freerangestats.info/blog/2019/03/23/afl-elo)
+
+
++ [World Bank Women in Parliament Data: Tidyverse Case Study - A short guide showcasing dplyr, tidyr & ggplot in action.](https://github.com/saghirb/WiP-tidyverse)
+
+
 
 ###  R in Organizations
 
@@ -68,6 +75,8 @@ Release Date: 2019-03-25
 
 
 + [ggecho](https://coolbutuseless.github.io/2019/03/22/ggecho-an-experimental-ggplot-stat-for-blurring-elements/)  - an experimental ggplot stat for blurring elements
+
++ [renv](https://github.com/rstudio/renv) - Project environments for R.
 
 
 ### Updated Packages
