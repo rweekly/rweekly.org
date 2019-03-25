@@ -67,7 +67,7 @@ Release Date: 2019-04-01
 
 ###  Tutorials
 
-
++ [Function factories, partial application & quasiquotation - FP with purrr & friends part 3](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-3/)
 
 
 <!--<div class="post-more-begi
