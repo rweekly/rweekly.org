@@ -50,7 +50,7 @@ Release Date: 2019-04-01
 
 **GitHub or Bitbucket**
 
-
+- [Human Face Detection with R](http://www.bnosac.be/index.php/blog/89-human-face-detection-with-r) ![](https://raw.githubusercontent.com/bnosac/image/master/image.libfacedetection/inst/images/libfacedetection-example.gif)
 
 ### Updated Packages
 
