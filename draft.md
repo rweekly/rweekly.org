@@ -11,6 +11,14 @@ Release Date: 2019-03-25
 ###  Highlight
 
 
++ [Pivoting in tidyr](https://tidyr.tidyverse.org/dev/articles/pivot.html)
+
++ [R data.table case study (tutorial) for World Bank "Women in Parliament" data.](https://github.com/saghirb/WiP-rdatatable)
+
+###  Videos and Podcasts
+
++ [R-Podcast Episode 29 (Chicago R Unconference)](https://r-podcast.org/29): Eric visits the first-ever Chicago R Unconference and recaps the excellent projects and shares his perspective as a first-time unconference attendee.
+
 
 ### Insights
 
@@ -25,6 +33,7 @@ Release Date: 2019-03-25
 + [Copyright in Closed-Source R Packages: The Right Way](https://unconj.ca/blog/copyright-in-closed-source-r-packages-the-right-way.html)
 
 
+
 ### R in the Real World
 
 + [That's Not My Name!](http://adfi.gitlab.io/2019/03/15/thats-not-my-name/)
@@ -32,18 +41,15 @@ Release Date: 2019-03-25
 + [R data.table case study (tutorial) for World Bank "Women in Parliament" data.](https://github.com/saghirb/WiP-rdatatable)
 
 
-+ [AnalizaR Datos Políticos: libro online y gratuito sobre el uso de R y el tidyverse en ciencia política. Pensado para estudiantes y profesionales de Latinoamérica.](https://arcruz0.github.io/libroadp/)
-
 + [Texas Housing Prices:  flatly theme](https://elastic-lovelace-155848.netlify.com/gallery/themes/flatly.html)
 
 + [generativeart Crochet Patterns: This code combines Crochets patterns from @aschinchon/fronkonstin with the R-package generativeart. ](https://github.com/cutterkom/generativeart-crochet-patterns)
 
+![generativeart Crochet Patterns: This code combines Crochets patterns from @aschinchon/fronkonstin with the R-package generativeart. ](https://raw.githubusercontent.com/rweekly/image/master/2019/generated-art.png)
+
 + [AFL teams Elo ratings and footy-tipping](http://freerangestats.info/blog/2019/03/23/afl-elo)
 
-
-+ [World Bank Women in Parliament Data: Tidyverse Case Study - A short guide showcasing dplyr, tidyr & ggplot in action.](https://github.com/saghirb/WiP-tidyverse)
-
-
+![AFL teams Elo ratings and footy-tipping](https://raw.githubusercontent.com/rweekly/image/master/2019/afl.png)
 
 ###  R in Organizations
 
@@ -70,14 +76,13 @@ Release Date: 2019-03-25
 + [ggpomological ](https://www.garrickadenbuie.com/project/ggpomological/) - A Pomological ggplot2 Theme
 Garrick Aden-Buie
 
+![ggpomological](https://raw.githubusercontent.com/rweekly/image/master/2019/ggpomological.png)
+
 **BioC**
 
 
 
 **GitHub or Bitbucket**
-
-+ [New package for building 3D LEGO models using R.](https://github.com/ryantimpe/brickr)
-
 
 + [ggecho](https://coolbutuseless.github.io/2019/03/22/ggecho-an-experimental-ggplot-stat-for-blurring-elements/)  - an experimental ggplot stat for blurring elements
 
@@ -85,36 +90,25 @@ Garrick Aden-Buie
 
 + [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and #tidyverse
 
+![brickr](https://raw.githubusercontent.com/rweekly/image/master/2019/bricks_6-1.png)
 
 ### Updated Packages
 
++ [pointdexter 0.1.1](https://github.com/cenuno/pointdexter) - Labels longitudinal and latitudinal coordinates located inside a polygon
 
-+ [pointdexter  0.1.1](https://github.com/cenuno/pointdexter/issues/2) - Labels longitudinal and latitudinal coordinates located inside a polygon
+<img src="https://raw.githubusercontent.com/rweekly/image/master/2019/pointdex.png" align="middle" width="200"/>
 
-
-<a href="https://cenuno.github.io/pointdexter/">
-<img src="https://github.com/cenuno/pointdexter/raw/master/man/figures/logo.png" align="middle" width="200"/>
-</a>
-
-+ [RcppArmadillo 0.9.300.2.0](http://dirk.eddelbuettel.com/blog/2019/03/22#rcpparmadillo_0.9.300.2.0)
-
-
-+ [Rcpp 1.0.1: Updates](http://dirk.eddelbuettel.com/blog/2019/03/17#rcpp_1.0.1)
-
-
-+ [RQuantLib 0.4.8: Small updates](http://dirk.eddelbuettel.com/blog/2019/03/17#rquantlib_0.4.8)
 
 + [doFuture  0.8.0](https://cran.r-project.org/package=doFuture) - A Universal Foreach Parallel Adapter using the Future API of the 'future' Package
 
 + [RStudio Connect 1.7.2](https://blog.rstudio.com/2019/03/22/announcing-rstudio-connect-1-7-2/)
 
++ [RcppArmadillo 0.9.300.2.0](http://dirk.eddelbuettel.com/blog/2019/03/22#rcpparmadillo_0.9.300.2.0)
 
-+ [awtools](https://austinwehrwein.com/data-visualization/awtoolsdisaster/) - Visualizing Natural Disaster Cost
++ [Rcpp 1.0.1](http://dirk.eddelbuettel.com/blog/2019/03/17#rcpp_1.0.1)
 
 
-###  Videos and Podcasts
-
-+ [R-Podcast Episode 29 (Chicago R Unconference)](https://r-podcast.org/29): Eric visits the first-ever Chicago R Unconference and recaps the excellent projects and shares his perspective as a first-time unconference attendee.
++ [RQuantLib 0.4.8](http://dirk.eddelbuettel.com/blog/2019/03/17#rquantlib_0.4.8)
 
 
 ### Gist & Cookbook
@@ -124,8 +118,14 @@ Garrick Aden-Buie
 ### R Internationally
 
 
++ [AnalizaR Datos Políticos: libro online y gratuito sobre el uso de R y el tidyverse en ciencia política. Pensado para estudiantes y profesionales de Latinoamérica.](https://arcruz0.github.io/libroadp/)
+
 
 ###  Tutorials
+
+
++ [Assumptions Matter More Than Dependencies](https://rud.is/b/2019/03/19/assumptions-matter-more-than-dependencies/)
+
 
 + [Intro to Heroku with R/Python](https://meysubb.github.io/sports%20analytics/2019/03/14/Heroku/)
 
@@ -135,11 +135,6 @@ Garrick Aden-Buie
 
 + [hrsample package and database](http://harry.ahlas.com/2019/03/17/hrsample-database/index.html)
 
-+ [Access the free economic database DBnomics with R ](https://macro.nomics.world/article/2019-03/rdbnomics-tutorial/)
-
-+ [A Blogdown New Post Workflow with Github and Netlify](https://www.garrickadenbuie.com/blog/blogdown-netlify-new-post-workflow/)
-
-+ [Pivoting data frames just got easier thanks to `pivot_wide()` and `pivot_long()`](https://www.brodrigues.co/blog/2019-03-20-pivot/)
 
 + [The new Jobs pane in the RStudio 1.2 Preview lets you run your R scripts in the background.](https://blog.rstudio.com/2019/03/14/rstudio-1-2-jobs/)
 
@@ -167,26 +162,20 @@ Garrick Aden-Buie
 + [drake transformed](https://ropensci.org/technotes/2019/03/18/drake-700/)
 
 
-+ [Assumptions Matter More Than Dependencies](https://rud.is/b/2019/03/19/assumptions-matter-more-than-dependencies/)
++ [awtools](https://austinwehrwein.com/data-visualization/awtoolsdisaster/) - Visualizing Natural Disaster Cost
+
+![awtools](https://raw.githubusercontent.com/rweekly/image/master/2019/awtools.png)
 
 + [Introducing the analemmatic Package for Creating Analemmatic Sundials](https://coolbutuseless.github.io/2019/03/19/introducing-the-analemmatic-package-for-creating-analemmatic-sundials/)
 
 + [geom_blurry() - proof of concept](https://coolbutuseless.github.io/2019/03/19/geom_blurry-proof-of-concept/)
 
 
-+ [Tidyverse users: gather/spread are on the way out](http://www.win-vector.com/blog/2019/03/tidyverse-users-gather-spread-are-on-the-way-out/)
-
-
-+ [Managing Search Path Conflicts](http://feeds.feedburner.com/Blog/public/2019/03/19/managing-search-path-conflicts/)
-
-
-+ [Some interesting new articles](http://ronaldrichman.co.za/2019/03/20/some-interesting-new-articles/)
-
 + [Code and Data in a large Machine Learning project](https://edwinth.github.io/multiperson-project/)
 
 + [text mining, apis, and parsing api logs](https://recology.info/2019/03/apis-text-mining-logs/)
 
-+ [Support Rotary to Support our World](http://www.win-vector.com/blog/2019/03/support-rotary-to-support-our-world/)
+
 
 + [Why we Did Not Name the cdata Transforms wide/tall/long/short](http://www.win-vector.com/blog/2019/03/why-we-did-not-name-the-cdata-transforms-wide-tall-long-short/)
 
