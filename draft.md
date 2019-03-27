@@ -54,6 +54,8 @@ Release Date: 2019-04-01
 
 - [Human Face Detection with R](http://www.bnosac.be/index.php/blog/89-human-face-detection-with-r) ![](https://raw.githubusercontent.com/bnosac/image/master/image.libfacedetection/inst/images/libfacedetection-example.gif)
 
+- [dundermifflin](https://github.com/tbradley1013/dundermifflin)
+
 ### Updated Packages
 
 
@@ -71,6 +73,9 @@ Release Date: 2019-04-01
 
 + [Function factories, partial application & quasiquotation - FP with purrr & friends part 3](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-3/)
 
++ [Get the Office Quotes in R with the dundermifflin Package](https://tbradley1013.github.io/2019/03/25/office-quotes-in-r-dundermifflin-package/)
+
++ [How to create GPS heatmaps in ggplot](https://dailydatatipsforsportscience.com/2019/03/26/how-to-create-gps-heatmaps-in-ggplot/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
