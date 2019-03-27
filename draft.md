@@ -19,6 +19,8 @@ Release Date: 2019-04-01
 
 ### Insights
 
++ [R package developers, why should you care about R-hub?](https://blog.r-hub.io/2019/03/26/why-care/)
+
 
 ### R in the Real World
 
