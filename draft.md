@@ -53,9 +53,11 @@ Release Date: 2019-04-01
 
 **GitHub or Bitbucket**
 
-- [Human Face Detection with R](http://www.bnosac.be/index.php/blog/89-human-face-detection-with-r) ![](https://raw.githubusercontent.com/bnosac/image/master/image.libfacedetection/inst/images/libfacedetection-example.gif)
++ [Human Face Detection with R](http://www.bnosac.be/index.php/blog/89-human-face-detection-with-r)
 
-- [dundermifflin](https://github.com/tbradley1013/dundermifflin)
+![](https://raw.githubusercontent.com/rweekly/image/master/2019/face.png)
+
++ [dundermifflin](https://github.com/tbradley1013/dundermifflin)
 
 ### Updated Packages
 
@@ -81,8 +83,9 @@ Release Date: 2019-04-01
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
-+ [Image-grid with Ninjutsu CSS theme in Xaringan](https://moldach.github.io/post/ninjutsu/) 
-![](https://media.giphy.com/media/4EFfHjHbgUnhzeZtg0/giphy.gif)
++ [Image-grid with Ninjutsu CSS theme in Xaringan](https://moldach.github.io/post/ninjutsu/)
+
+
 
 ###  R Project Updates
 
