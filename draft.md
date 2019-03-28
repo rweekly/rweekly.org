@@ -81,6 +81,9 @@ Release Date: 2019-04-01
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
++ [Image-grid with Ninjutsu CSS theme in Xaringan](https://moldach.github.io/post/ninjutsu/) 
+![](https://media.giphy.com/media/4EFfHjHbgUnhzeZtg0/giphy.gif)
+
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
