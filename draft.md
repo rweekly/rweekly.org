@@ -104,6 +104,8 @@ Events in 3 Months:
 
 + [The Uncoast Unconference - 14th to 16th April](http://uuconf.rbind.io/)
 
++ [Tokyo.R #77 - 13th April](https://tokyor.connpass.com/event/125793/)
+
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
