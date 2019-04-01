@@ -10,7 +10,11 @@ Release Date: 2019-04-01
 
 ###  Highlight
 
++ [R package developers, why should you care about R-hub?](https://blog.r-hub.io/2019/03/26/why-care/)
 
++ [CII Best Practices – R Package Leaderboard](https://www.r-consortium.org/blog/2019/03/27/cii-best-practices-r-package-leaderboard)
+
++ [Use of C++ in Packages](https://developer.r-project.org/Blog/public/2019/03/28/use-of-c---in-packages/)
 
 
 ###  Videos and Podcasts
@@ -38,6 +42,8 @@ Release Date: 2019-04-01
 
 + [#21: A Third and Final (?) Post on Stripping R Libraries](http://dirk.eddelbuettel.com/blog/2019/03/27#021_stripping_take_three)
 
+![#21: A Third and Final (?) Post on Stripping R Libraries](https://raw.githubusercontent.com/rweekly/image/master/2019/impactOfStripping.png)
+
 ### R in the Real World
 
 + [Rome Was Not Built In A Day But widgetcard Was!](https://rud.is/b/2019/03/26/rome-was-not-built-in-a-day-but-widgetcard-was/)
@@ -49,7 +55,7 @@ Release Date: 2019-04-01
 
 + [ELK+R Stack](https://paoloeusebi.blog/2019/01/24/elkr-stack/)
 
-+ [SHINY VS. DASH: A SIDE-BY-SIDE COMPARISON](https://www.rkingdc.com/blog/2019/3/6/shiny-vs-dash-a-side-by-side-comparison?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Blog-RKingDataConsulting+%28R+Blog+-+R.+King+Data+Consulting%29)
++ [Shiny VS. Dash: A Side-by-side Comparison](https://www.rkingdc.com/blog/2019/3/6/shiny-vs-dash-a-side-by-side-comparison?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Blog-RKingDataConsulting+%28R+Blog+-+R.+King+Data+Consulting%29)
 
 + [Super Dark IDE Theme, R-Studio, Inverted Color](https://r-bar.net/super-dark-ide-theme-inverted-color/)
 
@@ -61,6 +67,7 @@ Release Date: 2019-04-01
 ###  R in Organizations
 
 
++ [Summer Interns 2019](https://blog.rstudio.com/2019/03/25/summer-interns-2019/)
 
 ###  R in Academia
 
@@ -69,7 +76,6 @@ Release Date: 2019-04-01
 ###  Resources
 
 
-+ [Summer Interns 2019](https://blog.rstudio.com/2019/03/25/summer-interns-2019/)
 
 
 ###  New Packages
@@ -82,12 +88,12 @@ Release Date: 2019-04-01
 
 + [February 2019: “Top 40” New CRAN Packages](https://rviews.rstudio.com/2019/03/26/february-2019-top-40-new-cran-packages/)
 
+
 **BioC**
 
 
 
 **GitHub or Bitbucket**
-
 
 + [ggdebug - a package for debugging ggplot stats](https://coolbutuseless.github.io/2019/03/26/ggdebug-a-package-for-debugging-ggplot-stats/)
 
@@ -99,10 +105,11 @@ Release Date: 2019-04-01
 
 + [gglabeller](https://github.com/AliciaSchep/gglabeller) - Shiny gadget for labeling points on ggplot
 
+![gglabeller](https://raw.githubusercontent.com/rweekly/image/master/2019/label.png)
 
 ### Updated Packages
 
-+ [drat 0.1.5: New release](http://dirk.eddelbuettel.com/blog/2019/03/28#drat_0.1.5)
++ [drat 0.1.5](http://dirk.eddelbuettel.com/blog/2019/03/28#drat_0.1.5) - Drat R Archive Template
 
 
 ### Gist & Cookbook
@@ -116,13 +123,12 @@ What is faster than a for loop in R (almost any alternative) and faster than a v
 
 ###  Tutorials
 
-+ [WHAT IT THE INTERPRETATION OF THE DIAGONAL FOR A ROC CURVE](https://freakonometrics.hypotheses.org/58031)
++ [What It the Interpretation of the Diagonal for a ROC Curve](https://freakonometrics.hypotheses.org/58031)
 
 + [Use RStudio Server in a Virtual Environment with Docker in Minutes!](https://telethonkids.wordpress.com/2019/03/26/use-rstudio-server-in-a-virtual-environment-with-docker-in-minutes/)
 
 + [Function factories, partial application & quasiquotation - FP with purrr & friends part 3](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-3/)
 
-+ [Get the Office Quotes in R with the dundermifflin Package](https://tbradley1013.github.io/2019/03/25/office-quotes-in-r-dundermifflin-package/)
 
 + [How to create GPS heatmaps in ggplot](https://dailydatatipsforsportscience.com/2019/03/26/how-to-create-gps-heatmaps-in-ggplot/)
 
@@ -151,6 +157,8 @@ What is faster than a for loop in R (almost any alternative) and faster than a v
 
 + [Exercise in data wrangling and plot building by analyzing your Apple Health data in R](https://taraskaduk.com/2019/03/23/apple-health/)
 
+![Exercise in data wrangling and plot building by analyzing your Apple Health data in R](https://raw.githubusercontent.com/rweekly/image/master/2019/daily.png)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
@@ -163,6 +171,7 @@ n></div><div class="post-more-end"></div>-->
 
 + [Assessing Heterogeneity of Treatment Effect, Estimating Patient-Specific Efficacy, and Studying Variation in Odds ratios, Risk Ratios, and Risk Differences](http://fharrell.com/post/varyor/)
 
+![Assessing Heterogeneity of Treatment Effect](https://raw.githubusercontent.com/rweekly/image/master/2019/risk-control.png)
 
 + [Getting started with emmeans](https://aosmith.rbind.io/2019/03/25/getting-started-with-emmeans/)
 
