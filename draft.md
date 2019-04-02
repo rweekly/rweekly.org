@@ -19,13 +19,13 @@ Release Date: 2019-04-08
 
 ### Insights
 
-
++ [HCL-Based Color Palettes in grDevices](https://developer.r-project.org/Blog/public/2019/04/01/hcl-based-color-palettes-in-grdevices/index.html)
 
 
 
 ### R in the Real World
 
-
++ ['Speaking as a...': An Inquiry into Twitter Identities and Mansplaining](https://daranzolin.github.io/2019-03-29-twitter-identities/)
 
 
 ###  R in Organizations
@@ -48,8 +48,6 @@ Release Date: 2019-04-08
 **CRAN**
 
 
-
-
 **BioC**
 
 
@@ -61,6 +59,7 @@ Release Date: 2019-04-08
 
 ### Updated Packages
 
++ [mapedit 0.5.0](https://cran.r-project.org/web/packages/mapedit/index.html)
 
 ### Gist & Cookbook
 
@@ -72,6 +71,11 @@ Release Date: 2019-04-08
 
 ###  Tutorials
 
++ [Scatter plots, best fit lines (and regression to the mean)](https://www.stevejburr.com/post/scatter-plots-and-best-fit-lines/)
+
++ [usethis for reporting](https://sharla.party/posts/usethis-for-reporting/)
+
++ [mapedit 0.5.0 and leaflet.pm](https://www.r-spatial.org/r/2019/03/31/mapedit_leafpm.html)
 
 ###  R Project Updates
 
