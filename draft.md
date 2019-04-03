@@ -77,6 +77,9 @@ Release Date: 2019-04-08
 
 + [mapedit 0.5.0 and leaflet.pm](https://www.r-spatial.org/r/2019/03/31/mapedit_leafpm.html)
 
++ [I Hate Mondays! Execute .First() from .Rprofile on first login of the (Mon)day only](https://moldach.github.io/post/rprofile/)
+![](https://ibb.co/55HMQL6)
+
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
