@@ -80,6 +80,8 @@ Release Date: 2019-04-08
 + [I Hate Mondays! Execute .First() from .Rprofile on first login of the (Mon)day only](https://moldach.github.io/post/rprofile/)
 ![](https://i.ibb.co/CnG1jQz/fig1.png)
 
++ [Create Trending Animated Bar Charts using R](https://towardsdatascience.com/create-animated-bar-charts-using-r-31d09e5841da)
+
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
