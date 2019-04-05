@@ -54,7 +54,8 @@ Release Date: 2019-04-08
 
 **GitHub or Bitbucket**
 
-
++ [popcircle](https://github.com/rCarto/popcircle)  
+![popcircle](https://raw.githubusercontent.com/rCarto/popcircle/master/img/smallpop.png)
 
 
 ### Updated Packages
