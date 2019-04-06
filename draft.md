@@ -51,6 +51,9 @@ Release Date: 2019-04-08
 + [CDSB Workshop 2019: How to Build and Create Tidy Tools](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/)
 
 
++ [A set of shiny apps for interactive data analysis and teaching. ](https://blog.rsquaredacademy.com/shiny-apps/)
+
+
 
 ###  New Packages
 
@@ -108,6 +111,8 @@ Release Date: 2019-04-08
 + [Don’t forget the “utils” package in R](https://theautomatic.net/2019/04/03/dont-forget-the-utils-package-in-r/)
 
 + [Euler Problem 1 In R](https://alastairrushworth.github.io/Euler-problem-1-in-R)
+
++ [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 
 ###  R Project Updates
 
