@@ -28,6 +28,15 @@ Release Date: 2019-04-08
 + ['Speaking as a...': An Inquiry into Twitter Identities and Mansplaining](https://daranzolin.github.io/2019-03-29-twitter-identities/)
 
 
++ [Exploration of Foreign Direct Investment of Nepal](https://anjesh.github.io/doi/01-fdi-data_exploration.html)
+
++ [Calculating the distance to the sea in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/)
+
+
++ [Kaggle survey 2018: Maps of programming languages used and repartition of reproducibility issues](https://statnmap.com/2019-03-20-kaggle-survey-2018-maps-of-languages-used-and-repartition-of-reproducibility-issues/)
+
++ [An inquiry into Twitter identities and mansplaining](https://daranzolin.github.io/2019-03-29-twitter-identities/)
+
 ###  R in Organizations
 
 
@@ -39,6 +48,8 @@ Release Date: 2019-04-08
 ###  Resources
 
 
++ [CDSB Workshop 2019: How to Build and Create Tidy Tools](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/)
+
 
 
 ###  New Packages
@@ -48,13 +59,16 @@ Release Date: 2019-04-08
 **CRAN**
 
 
++ [Progress Bars for Downloads in 'shiny' Apps](https://cran.r-project.org/web/packages/shinyhttr)
+
+
 **BioC**
 
 
 
 **GitHub or Bitbucket**
 
-+ [popcircle](https://github.com/rCarto/popcircle)  
++ [popcircle](https://github.com/rCarto/popcircle)
 ![popcircle](https://raw.githubusercontent.com/rCarto/popcircle/master/img/smallpop.png)
 
 
@@ -82,6 +96,18 @@ Release Date: 2019-04-08
 ![](https://i.ibb.co/CnG1jQz/fig1.png)
 
 + [Create Trending Animated Bar Charts using R](https://towardsdatascience.com/create-animated-bar-charts-using-r-31d09e5841da)
+
++ [A unified syntax for accessing models' information](https://easystats.github.io/blog/posts/insight_presentation/)
+
++ [Making Sense of Simulation Models with Metamodels Part 1 - Low-Order Polynomials with Arena and R](https://www.pedronl.com/post/making-sense-of-models-with-metamodels-low-order-polynomialss-with-arena-and-r/)
+
++ [Structure plots with ggplot2 ](https://luisdva.github.io/rstats/model-cluster-plots/)
+
++ [Where to find Sports data?](https://github.com/meysubb/Sports_Data_Reference)
+
++ [Don’t forget the “utils” package in R](https://theautomatic.net/2019/04/03/dont-forget-the-utils-package-in-r/)
+
++ [Euler Problem 1 In R](https://alastairrushworth.github.io/Euler-problem-1-in-R)
 
 ###  R Project Updates
 
