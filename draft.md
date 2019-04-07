@@ -10,7 +10,13 @@ Release Date: 2019-04-08
 
 ###  Highlight
 
++ [Winners of the 1st Shiny Contest](https://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/)
 
++ [usethis for reporting](https://sharla.party/posts/usethis-for-reporting/)
+
++ [Red/Blue Analglyphs with ggplot2 and ggthreed](https://coolbutuseless.github.io/2019/04/02/red-blue-analglyphs-with-ggplot2-and-ggthreed/)
+
++ [opencv   Bindings to 'OpenCV' Computer Vision Library](https://cran.r-project.org/package=opencv)
 
 
 ###  Videos and Podcasts
@@ -75,6 +81,8 @@ Release Date: 2019-04-08
 + [Interview with Abhi Datta](https://simplystatistics.org/2019/04/01/interview-with-abhi-datta/)
 
 + [R Markdown in Vim](https://uncmbbtrivia.netlify.com/post/2019/04/05/r-markdown-revisited/)
+
++ [Where to find Sports data?](https://github.com/meysubb/Sports_Data_Reference)
 
 ###  New Packages
 
