@@ -13,11 +13,13 @@ Release Date: 2019-04-15
 
 ### Insights
 
-
++ [On Meeting Data Journalists (R Views)](https://rviews.rstudio.com/2019/04/08/some-impressions-from-ire-car-2019/)
 
 ### R in the Real World
 
++ [Twitter #rstats activity](https://coolbutuseless.github.io/2019/04/09/twitter-rstats-activity/)
 
++ [Exploring Career Progression of Current Premier League Players](https://wiscostret.wordpress.com/2019/03/28/pl-career-progression/)
 
 ###  R in Organizations
 
@@ -38,7 +40,6 @@ Release Date: 2019-04-15
 **CRAN**
 
 
-
 **BioC**
 
 
@@ -49,6 +50,7 @@ Release Date: 2019-04-15
 
 ### Updated Packages
 
++ [usethis 1.5.0](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/)
 
 
 ###  Videos and Podcasts
@@ -65,6 +67,7 @@ Release Date: 2019-04-15
 
 ###  Tutorials
 
++ [When Charts are Integrated in the Web Page](http://jkunst.com/blog/posts/2019-04-08-when-charts-are-integrated-in-the-web-page/)
 
 
 <!--<div class="post-more-begi
