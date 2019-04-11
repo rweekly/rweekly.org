@@ -15,6 +15,10 @@ Release Date: 2019-04-15
 
 + [On Meeting Data Journalists (R Views)](https://rviews.rstudio.com/2019/04/08/some-impressions-from-ire-car-2019/)
 
++ [How to get help with R package development? R-package-devel and beyond](https://blog.r-hub.io/2019/04/11/r-package-devel/)
+
++ [R-Ladies Global's disapproval of DataCamp](https://blog.rladies.org/post/statement-about-datacamp/)
+
 ### R in the Real World
 
 + [Twitter #rstats activity](https://coolbutuseless.github.io/2019/04/09/twitter-rstats-activity/)
