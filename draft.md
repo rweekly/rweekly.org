@@ -21,6 +21,8 @@ Release Date: 2019-04-15
 
 + [Exploring Career Progression of Current Premier League Players](https://wiscostret.wordpress.com/2019/03/28/pl-career-progression/)
 
++ [The trendiest baby names in Poland](https://olgamie.github.io/2019/04/10/the-trendiest-baby-names-in-poland/)
+
 ###  R in Organizations
 
 
