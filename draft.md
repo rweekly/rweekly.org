@@ -43,8 +43,6 @@ Release Date: 2019-04-15
 
 ###  Resources
 
-+ [A set of shiny apps for interactive data analysis and teaching. ](https://blog.rsquaredacademy.com/shiny-apps/)
-
 
 
 ###  New Packages
@@ -81,13 +79,7 @@ Release Date: 2019-04-15
 
 ###  Tutorials
 
-
-
 + [When Charts are Integrated in the Web Page](http://jkunst.com/blog/posts/2019-04-08-when-charts-are-integrated-in-the-web-page/)
-
-
-+ [Practical Introduction to Web Scraping in R](https://blog.rsquaredacademy.com/web-scraping/)
-
 
 
 + [Sending Telegram notifications from R scripts](https://eugejoh.netlify.com/post/tg-notifications-r/)
