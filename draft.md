@@ -33,6 +33,8 @@ Release Date: 2019-04-15
 
 + [The trendiest baby names in Poland](https://olgamie.github.io/2019/04/10/the-trendiest-baby-names-in-poland/)
 
++ [Is the U.S. Housing Recovery Over? Housing Fluctuations Across Time and Frequencies](http://lenkiefer.com/2019/04/11/is-the-u-s-housing-recovery-over-housing-fluctuations-across-time-and-frequencies/)
+
 ###  R in Organizations
 
 
