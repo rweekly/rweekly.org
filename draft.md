@@ -13,9 +13,19 @@ Release Date: 2019-04-15
 
 ### Insights
 
+
+
 + [On Meeting Data Journalists (R Views)](https://rviews.rstudio.com/2019/04/08/some-impressions-from-ire-car-2019/)
 
+
++ [A short piece about how the role of women and other underrepresented folks in creating a welcoming environment for all new R users, including straight white males like me.](https://rfortherestofus.com/2019/04/curb-cuts-universal-design-welcoming-r-community/)
+
+
++ [This is a short description about my experience at R Unconference Chicago. ](http://www.thinkingondata.com/my-experience-at-r-unconference-chicago-2019/)
+
+
 ### R in the Real World
+
 
 + [Twitter #rstats activity](https://coolbutuseless.github.io/2019/04/09/twitter-rstats-activity/)
 
@@ -32,6 +42,8 @@ Release Date: 2019-04-15
 
 
 ###  Resources
+
++ [A set of shiny apps for interactive data analysis and teaching. ](https://blog.rsquaredacademy.com/shiny-apps/)
 
 
 
@@ -69,7 +81,30 @@ Release Date: 2019-04-15
 
 ###  Tutorials
 
+
+
 + [When Charts are Integrated in the Web Page](http://jkunst.com/blog/posts/2019-04-08-when-charts-are-integrated-in-the-web-page/)
+
+
++ [Practical Introduction to Web Scraping in R](https://blog.rsquaredacademy.com/web-scraping/)
+
+
+
++ [Sending Telegram notifications from R scripts](https://eugejoh.netlify.com/post/tg-notifications-r/)
+
+
++ [Understanding the spectral theorem for matrices using R](https://juanitorduz.github.io/the-spectral-theorem-for-matrices/)
+
++ [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
+
+
++ [Render mesh3d objects with rayshader and rayrender](https://statnmap.com/2019-04-02-mesh3d-rayshader-and-rayrender/)
+
++ [Accessing OpenStreetMap data with R](https://dominicroye.github.io/en/2018/accessing-openstreetmap-data-with-r/)
+
++ [Access to climate reanalysis data from R](https://dominicroye.github.io/en/2018/access-to-climate-reanalysis-data-from-r/)
+
++ [How to create 'Warming Stripes' in R](https://dominicroye.github.io/en/2018/how-to-create-warming-stripes-in-r/)
 
 
 <!--<div class="post-more-begi
