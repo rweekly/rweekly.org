@@ -43,6 +43,8 @@ Release Date: 2019-04-15
 
 + [Is the U.S. Housing Recovery Over? Housing Fluctuations Across Time and Frequencies](http://lenkiefer.com/2019/04/11/is-the-u-s-housing-recovery-over-housing-fluctuations-across-time-and-frequencies/)
 
++ [Lost In [SQL] Translation: Charting d[b]plyr Mapped SQL Function Support Across All Backends](https://rud.is/b/2019/04/10/lost-in-sql-translation-charting-dbplyr-mapped-sql-function-support-across-all-backends/)
+
 ###  R in Organizations
 
 
@@ -53,7 +55,9 @@ Release Date: 2019-04-15
 
 ###  Resources
 
++ [R Markdown - Florian Privé & Julyan Arbel](https://privefl.github.io/R-presentation/rmarkdown#1)
 
++ [R Podcast - resources](https://r-podcast.org/resources/)
 
 ###  New Packages
 
@@ -61,6 +65,7 @@ Release Date: 2019-04-15
 
 **CRAN**
 
++ [getCRUCLdata: Use and Explore 'CRU' 'CL' v. 2.0 Climatology Elements](https://cran.r-project.org/web/packages/getCRUCLdata/index.html)
 
 **BioC**
 
@@ -68,7 +73,7 @@ Release Date: 2019-04-15
 
 **GitHub or Bitbucket**
 
-
++ [Introducing the 'foist' package for fast output of images](https://coolbutuseless.github.io/2019/04/11/introducing-the-foist-package-for-fast-output-of-images/)
 
 ### Updated Packages
 
@@ -78,10 +83,14 @@ Release Date: 2019-04-15
 
 + [rhub 1.1.1 is on CRAN!](https://blog.r-hub.io/2019/04/08/rhub-1.1.1/)
 
++ [plotly 4.9.0 now on CRAN](https://blog.cpsievert.me/2019/04/11/plotly-4-9-0-now-on-cran/)
+
 
 ###  Videos and Podcasts
 
 + [Community Call - Security for R](https://ropensci.org/blog/2019/04/09/commcall-may2019/)
+
++ [RStats tip #1: avoid dots in names](https://www.youtube.com/watch?v=IoWDQ6rx6yA)
 
 ### Gist & Cookbook
 
@@ -124,6 +133,10 @@ reanalysis data from R](https://dominicroye.github.io/en/2018/access-to-climate-
 + [How to model with gradient boosting machine in R]http://www.storybench.org/tidytuesday-bike-rentals-part-2-modeling-with-gradient-boosting-machine/(http://www.storybench.org/tidytuesday-bike-rentals-part-2-modeling-with-gradient-boosting-machine/)
 
 + [How to Create GPS Heatmaps in ggplot2](https://link.medium.com/YpaLsaKLPV)
+
++ [Using svglite with web fonts](http://freerangestats.info/blog/2019/04/07/fonts-and-stuff)
+
++ [Faster code with Rcpp](https://mikewk.com/post/2019-04-10-faster-code-with-rcpp/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
