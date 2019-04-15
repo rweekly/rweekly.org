@@ -7,13 +7,20 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2019-04-15
 
+This week release was curated by [Colin Fay](https://twitter.com/_colinfay), with help from the RWeekly team members and contributors.
+
 ###  Highlight
 
++ [How to get help with R package development? R-package-devel and beyond](https://blog.r-hub.io/2019/04/11/r-package-devel/)
+
++ [On Meeting Data Journalists (R Views)](https://rviews.rstudio.com/2019/04/08/some-impressions-from-ire-car-2019/)
+
++ [Curb Cuts, Universal Design, and the Creation of a Welcoming R Community](https://rfortherestofus.com/2019/04/curb-cuts-universal-design-welcoming-r-community/)
+
++ [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 
 
 ### Insights
-
-
 
 + [On Meeting Data Journalists (R Views)](https://rviews.rstudio.com/2019/04/08/some-impressions-from-ire-car-2019/)
 
@@ -31,6 +38,27 @@ Release Date: 2019-04-15
 
 + [Curb Cuts, Universal Design, and the Creation of a Welcoming R Community](https://rfortherestofus.com/2019/04/curb-cuts-universal-design-welcoming-r-community/)
 
+### Datacamp
+
++ [A note to our community](https://www.datacamp.com/community/blog/note-to-our-community)
+
++ [R-Ladies Global's disapproval of DataCamp](https://blog.rladies.org/post/statement-about-datacamp/)
+
++ [DataCamp Sponsorship of satRday Events](https://satrdays.org/blog/2019/04/14/datacamp-sponsorship/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you think <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> deserves credit for a public post that they did not discipline an executive for sexual misconduct, consider that they put this code in the HTML, so no search engines would index it. I don&#39;t see it anywhere else on their blog. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datasci?src=hash&amp;ref_src=twsrc%5Etfw">#datasci</a> <a href="https://twitter.com/hashtag/metoo?src=hash&amp;ref_src=twsrc%5Etfw">#metoo</a> <a href="https://t.co/xbQoSaQl5J">pic.twitter.com/xbQoSaQl5J</a></p>&mdash; Noam Ross (@noamross) <a href="https://twitter.com/noamross/status/1116709899159916544?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote> 
+
++ [Don’t Take My DataCamp Course, There Must be Consequences for Sexual Assault](https://noamross.github.io/datacamp-sexual-assault/)
+
++ [A Note to Our Community On How To Hide Your Content From Search Engines](https://rud.is/b/2019/04/12/a-note-to-our-community-on-how-to-hide-your-content-from-search-engines/)
+
++ [A note to our community on building trust](https://dhavide.github.io/a-note-to-our-commuity-on-building-trust.html)
+
++ [The Worst Behavior](http://third-bit.com/2019/04/05/the-worst-behavior.html)
+
++ [Datacamp took 521 days to announce an unwanted physical contact (Harassment) event](https://www.reddit.com/r/rstats/comments/barrcd/datacamp_took_521_days_to_announce_an_unwanted/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An open invite to all <a href="https://twitter.com/hashtag/datacamp?src=hash&amp;ref_src=twsrc%5Etfw">#datacamp</a> instructors (and others willing to help): If you have (or know of) open source blogs/vignettes/materials that can stand in for particular DC courses/content, please post them in this thread. I’ll aggregate and make a GitHub repo. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a></p>&mdash; Chris Engelhardt (@EngelhardtCR) <a href="https://twitter.com/EngelhardtCR/status/1116743032492253185?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote> 
 
 ### R in the Real World
 
@@ -44,9 +72,6 @@ Release Date: 2019-04-15
 + [Is the U.S. Housing Recovery Over? Housing Fluctuations Across Time and Frequencies](http://lenkiefer.com/2019/04/11/is-the-u-s-housing-recovery-over-housing-fluctuations-across-time-and-frequencies/)
 
 + [Lost In [SQL] Translation: Charting d[b]plyr Mapped SQL Function Support Across All Backends](https://rud.is/b/2019/04/10/lost-in-sql-translation-charting-dbplyr-mapped-sql-function-support-across-all-backends/)
-
-###  R in Organizations
-
 
 
 ###  R in Academia
@@ -67,9 +92,6 @@ Release Date: 2019-04-15
 
 + [getCRUCLdata: Use and Explore 'CRU' 'CL' v. 2.0 Climatology Elements](https://cran.r-project.org/web/packages/getCRUCLdata/index.html)
 
-**BioC**
-
-
 
 **GitHub or Bitbucket**
 
@@ -79,7 +101,7 @@ Release Date: 2019-04-15
 
 + [usethis 1.5.0](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/)
 
-+ [attempt 0.3.0](https://cran.r-project.org/web/packages/attempt/index.html)
++ [attempt 0.3.0](https://colinfay.me/attempt-0-3-0/)
 
 + [rhub 1.1.1 is on CRAN!](https://blog.r-hub.io/2019/04/08/rhub-1.1.1/)
 
@@ -96,17 +118,12 @@ Release Date: 2019-04-15
 
 + [WIP - Building Big Shiny Apps - A Workflow](https://thinkr-open.github.io/building-shiny-apps-workflow/)
 
-### R Internationally
-
-
 
 ###  Tutorials
 
 + [When Charts are Integrated in the Web Page](http://jkunst.com/blog/posts/2019-04-08-when-charts-are-integrated-in-the-web-page/)
 
-
 + [Sending Telegram notifications from R scripts](https://eugejoh.netlify.com/post/tg-notifications-r/)
-
 
 + [Understanding the spectral theorem for matrices using R](https://juanitorduz.github.io/the-spectral-theorem-for-matrices/)
 
@@ -158,14 +175,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
-
-### Datasets
-
-
-
-
-### Jobs
-
 
 
 
