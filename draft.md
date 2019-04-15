@@ -7,6 +7,8 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2019-04-22
 
+This week release was curated by [](), with help from the RWeekly team members and contributors. 
+
 ###  Highlight
 
 
