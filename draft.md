@@ -51,6 +51,7 @@ This week release was curated by [](), with help from the RWeekly team members a
 
 ### Updated Packages
 
++ [rversions 1.1.0 is on CRAN!](https://blog.r-hub.io/2019/04/15/rversions-1-1-0/)
 
 
 ###  Videos and Podcasts
