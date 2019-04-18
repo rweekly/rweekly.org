@@ -15,7 +15,9 @@ This week release was curated by [](), with help from the RWeekly team members a
 
 ### Insights
 
++ [What Docs When](http://third-bit.com/2019/04/16/what-docs-when.html)
 
++ [Setting up RStudio Server on a Cloud for Collaboration and Reproducibility ](https://rviews.rstudio.com/2019/04/17/setting-up-rstudio-server-on-a-cloud-with-linux/)
 
 ### R in the Real World
 
@@ -47,6 +49,7 @@ This week release was curated by [](), with help from the RWeekly team members a
 
 **GitHub or Bitbucket**
 
++ [gganonymize](https://github.com/EmilHvitfeldt/gganonymize)
 
 
 ### Updated Packages
@@ -68,7 +71,7 @@ This week release was curated by [](), with help from the RWeekly team members a
 
 ###  Tutorials
 
-
++ [Implementing the Super Learner with tidymodels](https://www.alexpghayes.com/blog/implementing-the-super-learner-with-tidymodels/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
