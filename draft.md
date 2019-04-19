@@ -19,6 +19,10 @@ This week release was curated by [](), with help from the RWeekly team members a
 
 + [Setting up RStudio Server on a Cloud for Collaboration and Reproducibility ](https://rviews.rstudio.com/2019/04/17/setting-up-rstudio-server-on-a-cloud-with-linux/)
 
++ [RStudio Package Manager 1.0.8 - System Requirements](https://blog.rstudio.com/2019/04/18/rstudio-package-manager-1-0-8-system-requirements/)
+
++ [Common PROTECT Errors - The R Blog](https://developer.r-project.org/Blog/public/2019/04/18/common-protect-errors/)
+
 ### R in the Real World
 
 
@@ -73,6 +77,10 @@ This week release was curated by [](), with help from the RWeekly team members a
 
 + [Implementing the Super Learner with tidymodels](https://www.alexpghayes.com/blog/implementing-the-super-learner-with-tidymodels/)
 
++ [Docker and Packrat](https://www.joelnitta.com/post/docker-and-packrat/)
+
++ [Number Lines in Code Blocks with RMarkdown](https://blog.atusy.net/submodules/rmd-line-num/index.html)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
@@ -97,7 +105,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
 
-
++ [The Redacted Mueller Report](https://github.com/gadenbuie/mueller-report)
 
 
 ### Jobs
