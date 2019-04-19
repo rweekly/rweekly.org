@@ -7,7 +7,7 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2019-04-22
 
-This week release was curated by [](), with help from the RWeekly team members and contributors. 
+Optional: This week release was curated by ..., with help from the R Weekly team members and contributors.
 
 ###  Highlight
 
@@ -71,7 +71,9 @@ This week release was curated by [](), with help from the RWeekly team members a
 
 ### R Internationally
 
++ [the Spanish R Users conference](http://r-es.org/XIjuR/) - XI Jornadas de usuarios de R. 14 Nov 2019, Madrid Spain.
 
++ [China-R Beijing](https://cosx.org/2019/03/12th-china-r-beijing-announcement/)  24 May - 26 May
 
 ###  Tutorials
 
@@ -93,9 +95,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [The Uncoast Unconference - 14th to 16th April](http://uuconf.rbind.io/)
-
-+ [Tokyo.R #77 - 13th April](https://tokyor.connpass.com/event/125793/)
++ [China-R Beijing May 24 - May 26](https://cosx.org/2019/03/12th-china-r-beijing-announcement/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
