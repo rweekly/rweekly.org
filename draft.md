@@ -95,7 +95,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [China-R Beijing May 24 - May 26](https://cosx.org/2019/03/12th-china-r-beijing-announcement/)
++ [China-R Beijing 24 May - 26 May](https://cosx.org/2019/03/12th-china-r-beijing-announcement/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
