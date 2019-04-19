@@ -27,6 +27,8 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 
 
++ [Exploratory data analysis using mock draft data from the 2018 NFL Draft.](https://benjaminrobinson.github.io/2019/04/15/2019-04-15-grinding-the-mocks-the-signal-and-the-noise/)
+
 ###  R in Organizations
 
 
@@ -37,6 +39,7 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 ###  Resources
 
++ [Features Engineering Art using R](https://www.slideshare.net/MohammedFCIS/features-engineering-art-using-r)
 
 
 ###  New Packages
@@ -45,7 +48,7 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 **CRAN**
 
-
++ [dbparser](https://dainanahan.github.io/dbparser/index.html) - dbparser: 'DrugBank' Database XML Parser
 
 **BioC**
 
