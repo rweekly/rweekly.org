@@ -23,6 +23,8 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Common PROTECT Errors - The R Blog](https://developer.r-project.org/Blog/public/2019/04/18/common-protect-errors/)
 
++ [Technical Debt in Data Science](https://blog.shotwell.ca/posts/2019-04-19-technical-debt-in-data-science/)
+
 ### DataCamp
 
 > For context, see last week [issue](https://rweekly.org/2019-15#datacamp)
