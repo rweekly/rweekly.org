@@ -23,6 +23,18 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Common PROTECT Errors - The R Blog](https://developer.r-project.org/Blog/public/2019/04/18/common-protect-errors/)
 
+### DataCamp
+
+> For context, see last week [issue](https://rweekly.org/2019-15#datacamp)
+
++ [An Exchange with DataCamp](http://third-bit.com/2019/04/15/an-exchange-with-datacamp.html)
+
++ [Boycott DataCamp](https://ironholds.org/datacamp/)
+
++ [Writing a Letter to DataCamp](https://juliasilge.com/blog/datacamp-misconduct/)
+
++ [R community blasts DataCamp response to exec's 'inappropriate behavior'](https://www.computerworld.com/article/3389684/r-community-blasts-datacamp-response-to-execs-inappropriate-behavior.html)
+
 ### R in the Real World
 
 
