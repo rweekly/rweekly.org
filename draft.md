@@ -19,6 +19,29 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Setting up RStudio Server on a Cloud for Collaboration and Reproducibility ](https://rviews.rstudio.com/2019/04/17/setting-up-rstudio-server-on-a-cloud-with-linux/)
 
+
++ [Exploring R Packages - plyr](https://www.radmuzom.com/2018/12/05/exploring-r-packages-plyr/)
+
++ [Download and Email reports in R Shiny app](http://www.stencilled.me/post/2019-04-14-downloadshiny/)
+
++ [Edit datatables in R shiny app](http://www.stencilled.me/post/2019-04-18-editable/)
+
++ [A Detailed Guide to Plotting Line Graphs in R using ggplot geom_line](https://michaeltoth.me/a-detailed-guide-to-plotting-line-graphs-in-r-using-ggplot-geom_line.html)
+
++ [Bayesian Survival Analysis with Data Augmentation](https://stablemarkets.netlify.com/post/post1/bayesian-survival-analysis-with-data-augmentation/)
+
++ [Calculating the distance to the sea in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/)
+
++ [How to create 'Warming Stripes' in R](https://dominicroye.github.io/en/2018/how-to-create-warming-stripes-in-r/)
+
+![How to create 'Warming Stripes' in R](https://dominicroye.github.io/post/en/2018-12-05-how-to-create-warming-stripes-in-r/index.en_files/figure-html/unnamed-chunk-8-1.png)
+
++ [Understanding Bayesian Inference with a simple example in R!](https://allthiswasfield.blogspot.com/2019/04/understanding-bayesian-inference-with.html)
+
++ [Access to climate reanalysis data from R](https://dominicroye.github.io/en/2018/access-to-climate-reanalysis-data-from-r/)
+
++ [Accessing OpenStreetMap data with R](https://dominicroye.github.io/en/2018/accessing-openstreetmap-data-with-r/)
+
 + [RStudio Package Manager 1.0.8 - System Requirements](https://blog.rstudio.com/2019/04/18/rstudio-package-manager-1-0-8-system-requirements/)
 
 + [Common PROTECT Errors - The R Blog](https://developer.r-project.org/Blog/public/2019/04/18/common-protect-errors/)
@@ -118,6 +141,7 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Setting up RStudio Server on a Cloud for Collaboration and Reproducibility](https://rviews.rstudio.com/2019/04/17/setting-up-rstudio-server-on-a-cloud-with-linux/)
 
++ [Going back to the basics: the correlation coefficient](https://www.statforbiology.com/2019/stat_general_correlation_alookat/)
 
 + [Implementing the Super Learner with tidymodels](https://www.alexpghayes.com/blog/implementing-the-super-learner-with-tidymodels/)
 
