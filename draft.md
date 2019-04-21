@@ -100,6 +100,8 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Number Lines in Code Blocks with RMarkdown](https://blog.atusy.net/submodules/rmd-line-num/index.html)
 
++ [Tidy correlation tests in R](https://dominicroye.github.io/en/2019/tidy-correlation-tests-in-r/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
