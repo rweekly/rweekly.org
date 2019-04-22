@@ -33,6 +33,8 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Before you take my DataCamp course please consider this info](https://shirinsplayground.netlify.com/2019/04/consider_data_camp/)
 
++ [Standing with our Code of Conduct](https://carpentries.org/blog/2019/04/datacamp-response/)
+
 ### Insights
 
 + [What Docs When](http://third-bit.com/2019/04/16/what-docs-when.html)
@@ -225,4 +227,3 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Did u know that we can make memes in R ? What a 😅 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/lQ6De0qS6L">pic.twitter.com/lQ6De0qS6L</a></p>&mdash; Nur Azmi Prasetyo (@Nurazmip98) <a href="https://twitter.com/Nurazmip98/status/1119253228103712768?ref_src=twsrc%5Etfw">April 19, 2019</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">One of my favorite <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> shortcuts: Ctrl+I.  If your code is misaligned/messy for whatever reason, RStudio will clean it right up for you.  <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/BzPaPhP9Zl">pic.twitter.com/BzPaPhP9Zl</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1117801495884386304?ref_src=twsrc%5Etfw">April 15, 2019</a></blockquote>
-
