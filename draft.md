@@ -11,17 +11,13 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 ###  Highlight
 
-
-
-### Insights
-
-+ [What Docs When](http://third-bit.com/2019/04/16/what-docs-when.html)
-
-
 + [Common PROTECT Errors - The R Blog](https://developer.r-project.org/Blog/public/2019/04/18/common-protect-errors/)
 
-+ [Technical Debt in Data Science](https://blog.shotwell.ca/posts/2019-04-19-technical-debt-in-data-science/)
++ [Advanced R Solutions](https://advanced-r-solutions.rbind.io/)
 
++ [Accessing OpenStreetMap data with R](https://dominicroye.github.io/en/2018/accessing-openstreetmap-data-with-r/)
+
++ [Docker and Packrat](https://www.joelnitta.com/post/docker-and-packrat/)
 
 ### DataCamp
 
@@ -36,6 +32,15 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 + [R community blasts DataCamp response to exec's 'inappropriate behavior'](https://www.computerworld.com/article/3389684/r-community-blasts-datacamp-response-to-execs-inappropriate-behavior.html)
 
 + [Before you take my DataCamp course please consider this info](https://shirinsplayground.netlify.com/2019/04/consider_data_camp/)
+
+### Insights
+
++ [What Docs When](http://third-bit.com/2019/04/16/what-docs-when.html)
+
++ [Common PROTECT Errors - The R Blog](https://developer.r-project.org/Blog/public/2019/04/18/common-protect-errors/)
+
++ [Technical Debt in Data Science](https://blog.shotwell.ca/posts/2019-04-19-technical-debt-in-data-science/)
+
 
 ### R in the Real World
 
@@ -65,6 +70,8 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Advanced R Solutions](https://advanced-r-solutions.rbind.io/)
 
+![Advanced R Solutions](https://advanced-r-solutions.rbind.io/images/advrs_cover.png)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -80,20 +87,24 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 **GitHub or Bitbucket**
 
-+ [gganonymize](https://github.com/EmilHvitfeldt/gganonymize)
++ [gganonymize](https://github.com/EmilHvitfeldt/gganonymize) - Anonymize the labels and text in a ggplot2
+
 
 + [rray](https://github.com/DavisVaughan/rray) - Simple Arrays and Matrices
 
 
 ### Updated Packages
 
-+ [rversions 1.1.0 is on CRAN!](https://blog.r-hub.io/2019/04/15/rversions-1-1-0/)
++ [rversions 1.1.0](https://blog.r-hub.io/2019/04/15/rversions-1-1-0/) - Query 'R' Versions, Including 'r-release' and 'r-oldrel'
 
-+ [attempt 0.3.0](https://colinfay.me/attempt-0-3-0/)
++ [attempt 0.3.0](https://colinfay.me/attempt-0-3-0/) - Easy Condition Handling
 
-+ [tint 0.1.2](http://dirk.eddelbuettel.com/blog/2019/04/19#tint_0.1.2) - Some cleanups
++ [tint 0.1.2](http://dirk.eddelbuettel.com/blog/2019/04/19#tint_0.1.2) - A 'tufte'-alike style for 'rmarkdown'.
 
 + [plotly 4.9.0](https://blog.cpsievert.me/2019/04/11/plotly-4-9-0-now-on-cran/)
+
+<iframe src="https://player.vimeo.com/video/329850403?title=0&byline=0&portrait=0" width="640" height="586" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/329850403">sunburst</a> from <a href="https://vimeo.com/cpsievert">Carson Sievert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ###  Videos and Podcasts
 
@@ -111,6 +122,11 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 ###  Tutorials
 
+
++ [How to create 'Warming Stripes' in R](https://dominicroye.github.io/en/2018/how-to-create-warming-stripes-in-r/)
+
+![How to create 'Warming Stripes' in R](https://raw.githubusercontent.com/rweekly/image/master/2019/warm-stripe.png)
+
 + [Setting up RStudio Server on a Cloud for Collaboration and Reproducibility](https://rviews.rstudio.com/2019/04/17/setting-up-rstudio-server-on-a-cloud-with-linux/)
 
 + [Going back to the basics: the correlation coefficient](https://www.statforbiology.com/2019/stat_general_correlation_alookat/)
@@ -123,11 +139,6 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Tidy correlation tests in R](https://dominicroye.github.io/en/2019/tidy-correlation-tests-in-r/)
 
-+ [RStudio Package Manager 1.0.8 - System Requirements](https://blog.rstudio.com/2019/04/18/rstudio-package-manager-1-0-8-system-requirements/)
-
-
-+ [Setting up RStudio Server on a Cloud for Collaboration and Reproducibility ](https://rviews.rstudio.com/2019/04/17/setting-up-rstudio-server-on-a-cloud-with-linux/)
-
 
 + [Exploring R Packages - plyr](https://www.radmuzom.com/2018/12/05/exploring-r-packages-plyr/)
 
@@ -139,17 +150,17 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Bayesian Survival Analysis with Data Augmentation](https://stablemarkets.netlify.com/post/post1/bayesian-survival-analysis-with-data-augmentation/)
 
+![Bayesian Survival Analysis with Data Augmentation](https://raw.githubusercontent.com/rweekly/image/master/2019/bay-sur.png)
+
 + [Calculating the distance to the sea in R](https://dominicroye.github.io/en/2019/calculating-the-distance-to-the-sea-in-r/)
-
-+ [How to create 'Warming Stripes' in R](https://dominicroye.github.io/en/2018/how-to-create-warming-stripes-in-r/)
-
-![How to create 'Warming Stripes' in R](https://dominicroye.github.io/post/en/2018-12-05-how-to-create-warming-stripes-in-r/index.en_files/figure-html/unnamed-chunk-8-1.png)
 
 + [Understanding Bayesian Inference with a simple example in R!](https://allthiswasfield.blogspot.com/2019/04/understanding-bayesian-inference-with.html)
 
 + [Access to climate reanalysis data from R](https://dominicroye.github.io/en/2018/access-to-climate-reanalysis-data-from-r/)
 
 + [Accessing OpenStreetMap data with R](https://dominicroye.github.io/en/2018/accessing-openstreetmap-data-with-r/)
+
+![Accessing OpenStreetMap data with R](https://raw.githubusercontent.com/rweekly/image/master/2019/open-map.png)
 
 + [RStudio Package Manager 1.0.8 - System Requirements](https://blog.rstudio.com/2019/04/18/rstudio-package-manager-1-0-8-system-requirements/)
 
