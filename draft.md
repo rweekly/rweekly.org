@@ -17,15 +17,16 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 ### Insights
 
++ [Reproducible Environments (R Views)](https://rviews.rstudio.com/2019/04/22/reproducible-environments/)
 
 
 ### R in the Real World
 
-
++ [Familiarisation with the Australian Election Study](http://freerangestats.info/blog/2019/04/22/AES-intro)
 
 ###  Resources
 
-
++ [Rachael Tatman's R Tutorials (Kaggle)](https://www.kaggle.com/rtatman/rachael-s-r-tutorials)
 
 ###  R in Organizations
 
@@ -50,10 +51,11 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 **GitHub or Bitbucket**
 
 
-
 ### Updated Packages
 
++ [corrr 0.3.2](https://cran.r-project.org/web/packages/corrr/index.html)
 
++ [janitor 1.2.0](https://cran.r-project.org/web/packages/janitor/index.html)
 
 ###  Videos and Podcasts
 
@@ -69,6 +71,11 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 ###  Tutorials
 
++ [Game of Thrones: Animating the Shifting of Affiliations](http://jkunst.com/blog/posts/2019-04-23-got-animating-the-shifting-of-affiliations/)
+
++ [Scrollytell in Shiny](https://john-coene.com/post/scrollytell/)
+
++ [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
 
 
 <!--<div class="post-more-begi
