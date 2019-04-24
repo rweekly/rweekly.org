@@ -29,6 +29,8 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Rachael Tatman's R Tutorials (Kaggle)](https://www.kaggle.com/rtatman/rachael-s-r-tutorials)
 
+* [Using ccache to speed up R package checks on Travis CI](https://pjs-web.de/post/using-ccache-to-speed-up-r-package-checks-on-travis-ci/)
+
 ###  R in Organizations
 
 
