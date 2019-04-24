@@ -19,6 +19,7 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Reproducible Environments (R Views)](https://rviews.rstudio.com/2019/04/22/reproducible-environments/)
 
++ [77th TokyoR User Meetup Roundup!](https://ryo-n7.github.io/2019-04-24-tokyoR-77/)
 
 ### R in the Real World
 
