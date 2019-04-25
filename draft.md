@@ -78,6 +78,7 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
 
+* [Using ccache to speed up R package checks on Travis CI](https://pjs-web.de/post/using-ccache-to-speed-up-r-package-checks-on-travis-ci/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
