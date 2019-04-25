@@ -21,6 +21,8 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [77th TokyoR User Meetup Roundup!](https://ryo-n7.github.io/2019-04-24-tokyoR-77/)
 
++ [How to handle CRAN checks with help from R-hub](https://blog.r-hub.io/2019/04/25/r-devel-linux-x86-64-debian-clang/)
+
 ### R in the Real World
 
 + [Familiarisation with the Australian Election Study](http://freerangestats.info/blog/2019/04/22/AES-intro)
