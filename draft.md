@@ -13,8 +13,6 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 
 
-+ [Standing with our Code of Conduct](https://carpentries.org/blog/2019/04/datacamp-response/)
-
 ### Insights
 
 + [Reproducible Environments (R Views)](https://rviews.rstudio.com/2019/04/22/reproducible-environments/)
