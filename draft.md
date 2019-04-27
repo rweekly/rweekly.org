@@ -33,6 +33,7 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Data-driven design in Curious City: In, Out, Above, Beyond Saint Paul](http://www.katiejolly.io/blog/2019-04-25/data-driven-design)
 
++ [Identifying regional differences of Perinatal Mental Health indicators in the UK with R](https://towardsdatascience.com/identifying-regional-differences-in-perinatal-mental-health-indicators-in-the-uk-with-r-1e8a8f1e7fb0)
 
 + [Happy EasteR! Let's find some eggs...](https://modelplot.github.io/HappyEasteR.html)
 
