@@ -99,6 +99,7 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 ###  Videos and Podcasts
 
++ [Shiny Developer Series Episode 0: Launch!](https://shinydevseries.com/post/ep0) - In this episode, host Eric Nantz shares his journey with Shiny and plans for future content, along with a demo of the `shinyhelper` package to enhance in-app documentation with markdown.
 
 
 ### Gist & Cookbook
