@@ -58,6 +58,8 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [janitor 1.2.0](https://cran.r-project.org/web/packages/janitor/index.html)
 
++ [mlr 2.14.0](https://cran.r-project.org/web/packages/mlr/index.html)
+
 ###  Videos and Podcasts
 
 
