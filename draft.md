@@ -21,13 +21,43 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [How to handle CRAN checks with help from R-hub](https://blog.r-hub.io/2019/04/25/r-devel-linux-x86-64-debian-clang/)
 
++ [DataCamp CEO steps down indefinitely in wake of 'inappropriate behavior'](https://www.computerworld.com/article/3390739/datacamp-ceo-steps-down-indefinitely-in-wake-of-inappropriate-behavior.html)
+
++ [Three things to know beyond base R](https://mikewk.com/post/2019-04-23-three-things-to-know-beyond-base-r/)
+
 ### R in the Real World
 
 + [Familiarisation with the Australian Election Study](http://freerangestats.info/blog/2019/04/22/AES-intro)
 
++ [Where do immigrants live in Montréal and Québec City?](https://www.simoncoulombe.com/2019/04/montreal-melting-pot/)
+
++ [Data-driven design in Curious City: In, Out, Above, Beyond Saint Paul](http://www.katiejolly.io/blog/2019-04-25/data-driven-design)
+
+
++ [Happy EasteR! Let's find some eggs...](https://modelplot.github.io/HappyEasteR.html)
+
++ [Visualizing your favourite song?](http://www.stencilled.me/post/2018-10-02-song-wave/)
+
++ [Companies Are Demanding Model Interpretability. Here’s How to Do It Right.](https://www.remixinstitute.com/blog/companies-are-demanding-model-interpretability-heres-how-to-do-it-right/)
+
++ [How to easily automate R analysis, modeling and development work using CI/CD, with working examples](https://jozef.io/r106-r-package-gitlab-ci/)
+
++ [30 years of financial compensation between federal states of Germany in animated chart, using new gganimate API and bounce effects. German article, R code and data provided.](https://statistik-dresden.de/archives/15373)
+
 ###  Resources
 
 + [Rachael Tatman's R Tutorials (Kaggle)](https://www.kaggle.com/rtatman/rachael-s-r-tutorials)
+
+
++ [AI, Machine Learning and Data Science Roundup: April 2019](https://blog.revolutionanalytics.com/2019/04/airoundup-april-2019.html)
+
++ [A light touch introductory workshop to ggplot2 for beginners. Complete with presentation, exercises and solutions.](https://github.com/saghirb/ggplot2-Intro-Workshop)
+
+
++ [A Few Old Books](https://rviews.rstudio.com/2019/04/25/a-few-old-books/)
+
+
++ [R in Production](https://speakerdeck.com/colinfay/r-in-production)
 
 ###  R in Organizations
 
@@ -43,6 +73,7 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 **CRAN**
 
++ [March 2019: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2019/04/26/march-2019-top-40-new-cran-packages/)
 
 
 **BioC**
@@ -50,6 +81,8 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 
 **GitHub or Bitbucket**
+
++ [Introducing the ggreverse package for turning ggplots back in to code](https://coolbutuseless.github.io/2019/04/26/introducing-the-ggreverse-package-for-turning-ggplots-back-in-to-code/)
 
 
 ### Updated Packages
@@ -59,6 +92,10 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 + [janitor 1.2.0](https://cran.r-project.org/web/packages/janitor/index.html)
 
 + [mlr 2.14.0](https://cran.r-project.org/web/packages/mlr/index.html)
+
++ [Shiny v1.3.2](https://blog.rstudio.com/2019/04/26/shiny-1-3-2/)
+
++ [modelplotr v1.0](https://modelplot.github.io/intro_modelplotr.html) - Visualize the Business Value of your Predictive Models
 
 ###  Videos and Podcasts
 
@@ -81,6 +118,48 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 + [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
 
 * [Using ccache to speed up R package checks on Travis CI](https://pjs-web.de/post/using-ccache-to-speed-up-r-package-checks-on-travis-ci/)
+
++ [The Easiest Way to Create Thresholds and Improve Your Classification Model](https://www.remixinstitute.com/blog/the-easiest-way-to-create-thresholds-and-improve-your-classification-model/)
+
++ [Create R Markdown reports and presentations even better with these 3 practical tips](https://jozef.io/r909-rmarkdown-tips/)
+
++ [Describe and understand Bayesian models and posteriors using bayestestR](https://easystats.github.io/blog/posts/bayestestr_presentation/)
+
++ [Reproducible Environments](https://rviews.rstudio.com/2019/04/22/reproducible-environments/)
+
++ [Practical Data Science with R Book Update (April 2019)](http://www.win-vector.com/blog/2019/04/practical-data-science-with-r-book-update-april-2019/)
+
+
++ [GIF image writing in pure R](https://coolbutuseless.github.io/2019/04/23/gif-image-writing-in-pure-r/)
+
++ [Embedding subplots in ggplot2 graphics](https://aosmith.rbind.io/2019/04/22/embedding-subplots/)
+
++ [Using R/exams for Written Exams in Finance Classes](http://www.R-exams.org/general/tamiu_finance/)
+
+
++ [Join, split, and compress PDF files with pdftools](https://ropensci.org/technotes/2019/04/24/pdftools-22/)
+
+
++ [conditionz: control how many times conditions are thrown](https://ropensci.org/technotes/2019/04/24/conditionz/)
+
++ [Industry publications – Sigma/Lloyd's](http://ronaldrichman.co.za/2019/04/24/industry-publications-sigma-lloyds/)
+
++ [montreal_melting_pot](https://www.simoncoulombe.com/2019/04/montreal-melting-pot/)
+
++ [A Short R Package Review: RQDA](https://martinctc.github.io/blog/a-short-r-package-review-rqda/)
+
++ [Using data.table with magrittr pipes: best of both worlds](https://martinctc.github.io/blog/using-data.table-with-magrittr-pipes-best-of-both-worlds/)
+
+
++ [Creating blazing fast pivot tables from R with data.table - now with subtotals using grouping sets](https://jozef.io/r912-datatable-grouping-sets/)
+
++ [DALEX for keras and parsnip](http://smarterpoland.pl/index.php/2019/04/dalex-for-keras-and-parsnip/)
+
++ [Every possible scatterplot from a data.frame (32 thousand plots of mtcars`)](https://coolbutuseless.github.io/2019/04/25/every-possible-scatterplot-from-a-data.frame-32-thousand-plots-of-mtcars/)`
+
++ [Styling DataTables](http://www.stencilled.me/post/2019-04-20-stylingdt/)
+
++ [Reverse engineer the ggplot call from a ggplot object](https://coolbutuseless.github.io/2019/04/26/reverse-engineer-the-ggplot-call-from-a-ggplot-object/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
@@ -118,4 +197,10 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> 3.6.0 &quot;Planting of a Tree&quot; is released (source version)</p>&mdash; Peter Dalgaard (@pdalgd) <a href="https://twitter.com/pdalgd/status/1121684354797752322?ref_src=twsrc%5Etfw">April 26, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New cheatsheet today! Use <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> and <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> together with <a href="https://twitter.com/hashtag/reticulate?src=hash&amp;ref_src=twsrc%5Etfw">#reticulate</a>! Available at <a href="https://t.co/OZVUTm5lDl">https://t.co/OZVUTm5lDl</a> <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> <a href="https://t.co/RUlXozso7U">pic.twitter.com/RUlXozso7U</a></p>&mdash; Garrett Grolemund (@StatGarrett) <a href="https://twitter.com/StatGarrett/status/1121877687092617216?ref_src=twsrc%5Etfw">April 26, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🤓 So many handy details covered in <a href="https://twitter.com/ClausWilke?ref_src=twsrc%5Etfw">@ClausWilke</a>&#39;s new book.<br>📖 &quot;Fundamentals of Data Visualization&quot; <br>🆓 online: <a href="https://t.co/zYvbBoaBJI">https://t.co/zYvbBoaBJI</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a><br>📊 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> source code: <a href="https://t.co/l8X7uIxaJt">https://t.co/l8X7uIxaJt</a> (book language-agnostic) <a href="https://t.co/Z5HNbMIyYg">pic.twitter.com/Z5HNbMIyYg</a></p>&mdash; Mara Averick (@dataandme) <a href="https://twitter.com/dataandme/status/1120311808873717760?ref_src=twsrc%5Etfw">April 22, 2019</a></blockquote>
 
