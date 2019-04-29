@@ -11,9 +11,26 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 ###  Highlight
 
++ [DataCamp CEO steps down indefinitely in wake of 'inappropriate behavior'](https://www.computerworld.com/article/3390739/datacamp-ceo-steps-down-indefinitely-in-wake-of-inappropriate-behavior.html)
+
++ [Reproducible Environments (R Views)](https://rviews.rstudio.com/2019/04/22/reproducible-environments/)
+
++ [R in Production](https://speakerdeck.com/colinfay/r-in-production)
+
++ [Shiny v1.3.2](https://blog.rstudio.com/2019/04/26/shiny-1-3-2/) - Visually debug your reactivity issues
+
+
+###  Videos and Podcasts
+
++ [Shiny Developer Series Episode 0: Launch!](https://shinydevseries.com/post/ep0) - In this episode, host Eric Nantz shares his journey with Shiny and plans for future content, along with a demo of the `shinyhelper` package to enhance in-app documentation with markdown.
+
 
 
 ### Insights
+
++ [Three things to know beyond base R](https://mikewk.com/post/2019-04-23-three-things-to-know-beyond-base-r/)
+
+![Three things to know beyond base R](https://raw.githubusercontent.com/rweekly/image/master/2019/download-counts.png)
 
 + [Reproducible Environments (R Views)](https://rviews.rstudio.com/2019/04/22/reproducible-environments/)
 
@@ -23,17 +40,17 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [DataCamp CEO steps down indefinitely in wake of 'inappropriate behavior'](https://www.computerworld.com/article/3390739/datacamp-ceo-steps-down-indefinitely-in-wake-of-inappropriate-behavior.html)
 
-+ [Three things to know beyond base R](https://mikewk.com/post/2019-04-23-three-things-to-know-beyond-base-r/)
 
 ### R in the Real World
 
-+ [Familiarisation with the Australian Election Study](http://freerangestats.info/blog/2019/04/22/AES-intro)
 
 + [Where do immigrants live in Montréal and Québec City?](https://www.simoncoulombe.com/2019/04/montreal-melting-pot/)
 
 + [Data-driven design in Curious City: In, Out, Above, Beyond Saint Paul](http://www.katiejolly.io/blog/2019-04-25/data-driven-design)
 
 + [Identifying regional differences of Perinatal Mental Health indicators in the UK with R](https://towardsdatascience.com/identifying-regional-differences-in-perinatal-mental-health-indicators-in-the-uk-with-r-1e8a8f1e7fb0)
+
+![Identifying regional differences of Perinatal Mental Health indicators in the UK with R](https://raw.githubusercontent.com/rweekly/image/master/2019/brit-map.png)
 
 + [Happy EasteR! Let's find some eggs...](https://modelplot.github.io/HappyEasteR.html)
 
@@ -43,7 +60,9 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [How to easily automate R analysis, modeling and development work using CI/CD, with working examples](https://jozef.io/r106-r-package-gitlab-ci/)
 
-+ [30 years of financial compensation between federal states of Germany in animated chart, using new gganimate API and bounce effects. German article, R code and data provided.](https://statistik-dresden.de/archives/15373)
++ [Familiarisation with the Australian Election Study](http://freerangestats.info/blog/2019/04/22/AES-intro)
+
+![Familiarisation with the Australian Election Study](https://raw.githubusercontent.com/rweekly/image/master/2019/elect.png)
 
 ###  Resources
 
@@ -83,31 +102,31 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 **GitHub or Bitbucket**
 
-+ [Introducing the ggreverse package for turning ggplots back in to code](https://coolbutuseless.github.io/2019/04/26/introducing-the-ggreverse-package-for-turning-ggplots-back-in-to-code/)
++ [ggreverse](https://coolbutuseless.github.io/2019/04/26/introducing-the-ggreverse-package-for-turning-ggplots-back-in-to-code/) - turning ggplots back in to code
 
 
 ### Updated Packages
 
-+ [corrr 0.3.2](https://cran.r-project.org/web/packages/corrr/index.html)
++ [corrr 0.3.2](https://cran.r-project.org/web/packages/corrr/index.html) -  Correlations in R
 
-+ [janitor 1.2.0](https://cran.r-project.org/web/packages/janitor/index.html)
++ [janitor 1.2.0](https://cran.r-project.org/web/packages/janitor/index.html) - Simple Tools for Examining and Cleaning Dirty Data
 
-+ [mlr 2.14.0](https://cran.r-project.org/web/packages/mlr/index.html)
 
-+ [Shiny v1.3.2](https://blog.rstudio.com/2019/04/26/shiny-1-3-2/)
++ [mlr 2.14.0](https://cran.r-project.org/web/packages/mlr/index.html) - Machine Learning in R
+
++ [Shiny v1.3.2](https://blog.rstudio.com/2019/04/26/shiny-1-3-2/) - Visually debug your reactivity issues
+
+![Shiny v1.3.2](https://raw.githubusercontent.com/rweekly/image/master/2019/2019-04-26-shiny-1-3-2-pythagoras.gif)
 
 + [modelplotr v1.0](https://modelplot.github.io/intro_modelplotr.html) - Visualize the Business Value of your Predictive Models
-
-###  Videos and Podcasts
-
-+ [Shiny Developer Series Episode 0: Launch!](https://shinydevseries.com/post/ep0) - In this episode, host Eric Nantz shares his journey with Shiny and plans for future content, along with a demo of the `shinyhelper` package to enhance in-app documentation with markdown.
-
 
 ### Gist & Cookbook
 
 
 
 ### R Internationally
+
++ [30 years of financial compensation between federal states of Germany in animated chart, using new gganimate API and bounce effects. German article, R code and data provided.](https://statistik-dresden.de/archives/15373)
 
 
 
@@ -119,9 +138,11 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
 
-* [Using ccache to speed up R package checks on Travis CI](https://pjs-web.de/post/using-ccache-to-speed-up-r-package-checks-on-travis-ci/)
++ [Using ccache to speed up R package checks on Travis CI](https://pjs-web.de/post/using-ccache-to-speed-up-r-package-checks-on-travis-ci/)
 
 + [The Easiest Way to Create Thresholds and Improve Your Classification Model](https://www.remixinstitute.com/blog/the-easiest-way-to-create-thresholds-and-improve-your-classification-model/)
+
+![The Easiest Way to Create Thresholds and Improve Your Classification Model](https://raw.githubusercontent.com/rweekly/image/master/2019/classification-models-probability-threshold-3D-chart-remix-institute-remixautoml-remyx-courses.png)
 
 + [Create R Markdown reports and presentations even better with these 3 practical tips](https://jozef.io/r909-rmarkdown-tips/)
 
@@ -157,11 +178,11 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [DALEX for keras and parsnip](http://smarterpoland.pl/index.php/2019/04/dalex-for-keras-and-parsnip/)
 
-+ [Every possible scatterplot from a data.frame (32 thousand plots of mtcars`)](https://coolbutuseless.github.io/2019/04/25/every-possible-scatterplot-from-a-data.frame-32-thousand-plots-of-mtcars/)`
++ [Every possible scatterplot from a data.frame (32 thousand plots of mtcars)](https://coolbutuseless.github.io/2019/04/25/every-possible-scatterplot-from-a-data.frame-32-thousand-plots-of-mtcars/)
 
 + [Styling DataTables](http://www.stencilled.me/post/2019-04-20-stylingdt/)
 
-+ [Reverse engineer the ggplot call from a ggplot object](https://coolbutuseless.github.io/2019/04/26/reverse-engineer-the-ggplot-call-from-a-ggplot-object/)
+
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
