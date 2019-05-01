@@ -63,7 +63,7 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 ### Updated Packages
 
-
++ [osrm](https://rgeomatic.hypotheses.org/1798)
 
 
 ### Gist & Cookbook
