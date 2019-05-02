@@ -77,7 +77,9 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 ###  Tutorials
 
++ [Dog Breed Popularity Chart](https://luisdva.github.io/rstats/dog-popularity/)
 
++ [Introducing 'devout': AN ascii graphics output device](https://coolbutuseless.github.io/2019/05/01/introducing-devout-an-ascii-graphics-output-device/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
