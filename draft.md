@@ -52,7 +52,7 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 **CRAN**
 
-
++ [Relaunching the qualtRics package](https://juliasilge.com/blog/qualtrics-relaunch/)
 
 
 **BioC**
@@ -103,9 +103,6 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 + [Introducing AzureGraph: an interface to Microsoft Graph](https://blog.revolutionanalytics.com/2019/04/introducing-azuregraph-an-interface-to-microsoft-graph.html)
 
 + [Set Analysis: A face off between Venn diagrams and UpSet plots](https://www.littlemissdata.com/blog/set-analysis)
-
-+ [Relaunching the qualtRics package](https://juliasilge.com/blog/qualtrics-relaunch/)
-
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
