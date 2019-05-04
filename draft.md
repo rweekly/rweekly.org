@@ -16,7 +16,7 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 ###  Videos and Podcasts
 
-
++ [Shiny Developer Series Episode 1](https://shinydevseries.com/ep1) - In this special RStudio Community webinar recording, Eric and Curtis Kephart are joined by Winston Chang to discuss the past and future of Shiny, along with Winston's recommendations on how software design principles can greatly enhance developing complex Shiny applications.
 
 
 ### Insights
