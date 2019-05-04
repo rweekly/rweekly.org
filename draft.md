@@ -21,7 +21,7 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 ### Insights
 
-
++ [RMarkdown Driven Development](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/)
 
 
 ### R in the Real World
