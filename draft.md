@@ -13,22 +13,23 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 
 
-
-###  Videos and Podcasts
-
-+ [Shiny Developer Series Episode 1](https://shinydevseries.com/ep1) - In this special RStudio Community webinar recording, Eric and Curtis Kephart are joined by Winston Chang to discuss the past and future of Shiny, along with Winston's recommendations on how software design principles can greatly enhance developing complex Shiny applications.
-
-
 ### Insights
+
++ [Naming Software Packages with Common Words](https://yihui.name/en/2019/04/naming-common-words/)
 
 + [RMarkdown Driven Development](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/)
 
++ [Generative and Analytical Models for Data Analysis](https://simplystatistics.org/2019/04/29/generative-and-analytical-models-for-data-analysis/)
+
++ [August 12, 1991 Review of S-PLUS Statistical Software](https://yihui.name/en/2019/05/review-of-s-plus/)
 
 ### R in the Real World
 
++ [Analysing the HIV pandemic, Part 1: HIV in sub-Sahara Africa](https://rviews.rstudio.com/2019/04/30/analysing-hiv-pandemic-part-1/)
 
++ [Quebec floodable areas could use an update...](https://www.simoncoulombe.com/2019/04/quebec-floodable/)
 
-
++ [What is the scope of NEON lakes data?](https://jsta.rbind.io/blog/what-is-the-scope-of-neon-lakes-data/)
 
 ###  Resources
 
@@ -37,7 +38,9 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 ###  R in Organizations
 
++ [RStudio 1.2 Released](https://blog.rstudio.com/2019/04/30/rstudio-1-2-release/)
 
++ [Availability of Microsoft R Open 3.5.2 and 3.5.3](https://blog.revolutionanalytics.com/2019/05/availability-of-microsoft-r-open-352-and-353.html)
 
 ###  R in Academia
 
@@ -58,13 +61,23 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 **GitHub or Bitbucket**
 
++ [runcharter](https://www.johnmackintosh.com/2019-04-30-runcharter/)
 
-
++ [devout - an ascii graphics output device](https://coolbutuseless.github.io/2019/05/01/introducing-devout-an-ascii-graphics-output-device/)
 
 ### Updated Packages
 
 + [osrm](https://rgeomatic.hypotheses.org/1798)
 
++ [serrsBayes](https://mattstats.wordpress.com/2019/05/01/serrsbayes-0-4-0/)
+
++ [RcppArmadillo](http://dirk.eddelbuettel.com/blog/2019/04/29#rcpparmadillo_0.9.400.2.0)
+
++ [dbplyr](https://www.tidyverse.org/articles/2019/04/dbplyr-1-4-0/)
+
+###  Videos and Podcasts
+
++ [Shiny Developer Series Episode 1](https://shinydevseries.com/ep1) - In this special RStudio Community webinar recording, Eric and Curtis Kephart are joined by Winston Chang to discuss the past and future of Shiny, along with Winston's recommendations on how software design principles can greatly enhance developing complex Shiny applications.
 
 ### Gist & Cookbook
 
@@ -79,7 +92,20 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Dog Breed Popularity Chart](https://luisdva.github.io/rstats/dog-popularity/)
 
-+ [Introducing 'devout': AN ascii graphics output device](https://coolbutuseless.github.io/2019/05/01/introducing-devout-an-ascii-graphics-output-device/)
++ [Interact with PostGIS from R](https://rtask.thinkr.fr/blog/interact-with-postgis-from-r-with-dbi-and-sf/)
+
++ [How I Put Logos on ggplot2 Figures](https://www.markhw.com/blog/logos)
+
++ [Drawing Fractals with grid graphics - part 2](https://coolbutuseless.github.io/2019/04/29/drawing-fractals-with-grid-graphics-part-2/)
+
++ [Building a Shiny App as a Package](https://rtask.thinkr.fr/blog/building-a-shiny-app-as-a-package/)
+
++ [Introducing AzureGraph: an interface to Microsoft Graph](https://blog.revolutionanalytics.com/2019/04/introducing-azuregraph-an-interface-to-microsoft-graph.html)
+
++ [Set Analysis: A face off between Venn diagrams and UpSet plots](https://www.littlemissdata.com/blog/set-analysis)
+
++ [Relaunching the qualtRics package](https://juliasilge.com/blog/qualtrics-relaunch/)
+
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
@@ -117,4 +143,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a>: datapasta is SO COOL! Easily copy data from excel (or even html tables from the web) &amp; paste in R as fully-formatted dataframes!<br><br>1. install.packages(&quot;datapasta&quot;)<br>2. Set a useful keyboard paste shortcut<a href="https://t.co/hq9mHtRj5B">https://t.co/hq9mHtRj5B</a><br><br>With thanks to <a href="https://twitter.com/FaustoBustos?ref_src=twsrc%5Etfw">@FaustoBustos</a> :)<a href="https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw">#phdchat</a> <a href="https://t.co/OqzHHZGsd0">pic.twitter.com/OqzHHZGsd0</a></p>&mdash; Guy Prochilo 🏳️‍🌈 (@GuyProchilo) <a href="https://twitter.com/GuyProchilo/status/1122651785011789824?ref_src=twsrc%5Etfw">April 29, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Ok <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> twitter, which one of you was spotted on 95 near philly yesterday? <a href="https://t.co/VM7jcIrJ4p">pic.twitter.com/VM7jcIrJ4p</a></p>&mdash; Alice Walsh PhD (@alicenotalice) <a href="https://twitter.com/alicenotalice/status/1123205439586480129?ref_src=twsrc%5Etfw">April 30, 2019</a></blockquote>
 
