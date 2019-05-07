@@ -17,7 +17,9 @@ Release Date: 2019-05-13
 
 ### R in the Real World
 
++ [Get me to the church on time: Proving to the vicar that I'd attended church often enough to marry at church, using Google location data.](https://nacnudus.github.io/duncangarmonsway/posts/2019-04-22-get-me-to-the-church-on-time-with-r-spatial)
 
++ [Data-driven design in Curious City: In, Out, Above, Beyond Saint Paul](http://www.katiejolly.io/blog/2019-04-25/data-driven-design)
 
 ###  R in Organizations
 
@@ -65,6 +67,9 @@ Release Date: 2019-05-13
 
 ###  Tutorials
 
++ [Learn about the R package we use internally at Auth0 for ETL / Data analysis. How we use it for data warehousing, analyzing data and making it available for other teams.](https://auth0.com/blog/rauth0-internal-r-package-open-source/)
+
++ [Practical Introduction to Market Basket Analysis - Asociation Rules](https://blog.rsquaredacademy.com/market-basket-analysis-in-r/)
 
 
 <!--<div class="post-more-begi
