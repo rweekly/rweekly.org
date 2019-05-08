@@ -21,6 +21,8 @@ Release Date: 2019-05-13
 
 + [Data-driven design in Curious City: In, Out, Above, Beyond Saint Paul](http://www.katiejolly.io/blog/2019-04-25/data-driven-design)
 
++ [Parental leave across OECD countries available to mothers](https://olgamie.github.io/2019/05/03/parental-leave-across-oecd-countries/)
+
 ###  R in Organizations
 
 
