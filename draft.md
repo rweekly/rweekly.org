@@ -51,6 +51,11 @@ Release Date: 2019-05-13
 
 ### Updated Packages
 
+* [future](https://cran.r-project.org/package=future) 1.13.0 - Unified Parallel and Distributed Processing in R for Everyone
+
+* [future.batchtools](https://cran.r-project.org/package=future.batchtools) 0.8.0 - A Future API for Parallel and Distributed Processing using 'batchtools'
+
+* [PSCBS](https://cran.r-project.org/package=PSCBS) 0.65.0 - Analysis of Parent-Specific DNA Copy Numbers
 
 
 ###  Videos and Podcasts
