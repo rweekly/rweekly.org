@@ -21,6 +21,8 @@ Release Date: 2019-05-13
 
 + [Data-driven design in Curious City: In, Out, Above, Beyond Saint Paul](http://www.katiejolly.io/blog/2019-04-25/data-driven-design)
 
++ [Get Me to Church on Time with R Spatial](https://nacnudus.github.io/duncangarmonsway/posts/2019-04-22-get-me-to-the-church-on-time-with-r-spatial/)
+
 ###  R in Organizations
 
 
@@ -31,7 +33,9 @@ Release Date: 2019-05-13
 
 ###  Resources
 
++ [satRdays Chicago 2019 slides](https://github.com/satRdays/chicago2019-slides)
 
++ [Network Visualization workshop - David Schoch](http://talks.schochastics.net/netViz/slides.html)
 
 ###  New Packages
 
@@ -39,7 +43,9 @@ Release Date: 2019-05-13
 
 **CRAN**
 
++ [jpndistrict 0.3.3](https://cran.r-project.org/web/packages/jpndistrict/index.html)
 
++ [vroom 1.0.0](https://www.tidyverse.org/articles/2019/05/vroom-1-0-0/)
 
 **BioC**
 
@@ -76,6 +82,9 @@ Release Date: 2019-05-13
 
 + [Practical Introduction to Market Basket Analysis - Asociation Rules](https://blog.rsquaredacademy.com/market-basket-analysis-in-r/)
 
++ [Customising ggplot2 graphics](https://davidsmale.netlify.com/portfolio/customising-ggplot2-graphics/)
+
++ [Tadpoles on Tensorflow: Hierarchical partial pooling with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2019-05-06-tadpoles-on-tensorflow/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
