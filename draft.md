@@ -66,6 +66,7 @@ Release Date: 2019-05-13
 
 ###  Videos and Podcasts
 
++ [R-Podcast Episode 30: Origins and Future of RStudio with Tareef Kawaf](https://r-podcast.org/30) - Eric is joined by RStudio's president Tareef Kawaf to discuss his journey to RStudio, building a robust organization structure, and how an open-core model drives RStudio’s vision for the present and future.
 
 
 ### Gist & Cookbook
