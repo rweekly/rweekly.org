@@ -21,8 +21,6 @@ Release Date: 2019-05-13
 
 + [Analysing the HIV pandemic, Part 2: Drug resistance testing](https://rviews.rstudio.com/2019/05/07/pipeline-for-analysing-hiv-part-2/)
 
-+ [x13binary 1.1.39-2](http://dirk.eddelbuettel.com/blog/2019/05/07#x13binary_1.1.39-2)
-
 + [Introducing RStudio Server Pro 1.2 - New Features, Packaging, and Pricing](https://blog.rstudio.com/2019/05/09/introducing-rstudio-server-pro-1-2/)
 
 + [Introducing RStudio Team](https://blog.rstudio.com/2019/05/09/introducing-rstudio-team/)
@@ -41,14 +39,6 @@ Release Date: 2019-05-13
 
 + [Get Me to Church on Time with R Spatial](https://nacnudus.github.io/duncangarmonsway/posts/2019-04-22-get-me-to-the-church-on-time-with-r-spatial/)
 
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
-
 ###  Resources
 
 + [satRdays Chicago 2019 slides](https://github.com/satRdays/chicago2019-slides)
@@ -56,7 +46,6 @@ Release Date: 2019-05-13
 + [Network Visualization workshop - David Schoch](http://talks.schochastics.net/netViz/slides.html)
 
 + [Free online r course](https://matloff.wordpress.com/2019/05/04/free-online-r-course/)
-
 
 ###  New Packages
 
@@ -70,10 +59,6 @@ Release Date: 2019-05-13
 
 + [vroom 1.0.0](https://www.tidyverse.org/articles/2019/05/vroom-1-0-0/)
 
-**BioC**
-
-
-
 **GitHub or Bitbucket**
 
 + [Introducing 'asciicast' - some utilities for the asciicinema animation format](https://coolbutuseless.github.io/2019/05/05/introducing-asciicast-some-utilities-for-the-asciicinema-animation-format/)
@@ -81,6 +66,8 @@ Release Date: 2019-05-13
 ### Updated Packages
 
 + [RcppArmadillo 0.9.400.3.0](http://dirk.eddelbuettel.com/blog/2019/05/11#rcpparmadillo_0.9.400.3.0)
+
++ [x13binary 1.1.39-2](http://dirk.eddelbuettel.com/blog/2019/05/07#x13binary_1.1.39-2)
 
 + [future](https://cran.r-project.org/package=future) 1.13.0 - Unified Parallel and Distributed Processing in R for Everyone
 
@@ -96,13 +83,9 @@ Release Date: 2019-05-13
 
 + [batchscr - Batch Script Helpers](https://cran.r-project.org/package=batchscr)
 
-+ [ensemblepp - Ensemble Postprocessing Data Sets](https://cran.r-project.org/package=ensemblepp)
-
 + [todor - Find All TODO Comments and More](https://cran.r-project.org/package=todor)
 
 + [RVenn - Set Operations for Many Sets](https://cran.r-project.org/package=RVenn)
-
-+ [arse - Area of Resilience to Stress Event](https://cran.r-project.org/package=arse)
 
 + [paws - Amazon Web Services Software Development Kit](https://cran.r-project.org/package=paws)
 
@@ -120,15 +103,6 @@ Release Date: 2019-05-13
 
 + [R-Podcast Episode 30: Origins and Future of RStudio with Tareef Kawaf](https://r-podcast.org/30) - Eric is joined by RStudio's president Tareef Kawaf to discuss his journey to RStudio, building a robust organization structure, and how an open-core model drives RStudio’s vision for the present and future.
 
-
-### Gist & Cookbook
-
-
-
-### R Internationally
-
-
-
 ###  Tutorials
 
 + [Learn about the R package we use internally at Auth0 for ETL / Data analysis. How we use it for data warehousing, analyzing data and making it available for other teams.](https://auth0.com/blog/rauth0-internal-r-package-open-source/)
@@ -138,6 +112,10 @@ Release Date: 2019-05-13
 + [Customising ggplot2 graphics](https://davidsmale.netlify.com/portfolio/customising-ggplot2-graphics/)
 
 + [Tadpoles on Tensorflow: Hierarchical partial pooling with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2019-05-06-tadpoles-on-tensorflow/)
+
+## Datasets
+
++ [ensemblepp - Ensemble Postprocessing Data Sets](https://cran.r-project.org/package=ensemblepp)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
