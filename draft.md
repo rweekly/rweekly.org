@@ -37,7 +37,13 @@ Release Date: 2019-05-13
 
 + [Data-driven design in Curious City: In, Out, Above, Beyond Saint Paul](http://www.katiejolly.io/blog/2019-04-25/data-driven-design)
 
-+ [Get Me to Church on Time with R Spatial](https://nacnudus.github.io/duncangarmonsway/posts/2019-04-22-get-me-to-the-church-on-time-with-r-spatial/)
++ [Machine Learning with a Heart](https://gbganalyst.github.io/Predicting-Heart-Disease/Heart_disease.html)
+
++ [Taking a Peek at Personal Hiking Data](https://ivelasq.rbind.io/blog/average-hike/)
+
++ [How to visualize data with more than 2 dimensiones: some basic concepts and examples](http://www.thinkingondata.com/5-basic-questions-and-answers-about-high-dimensional-data/)
+
++ [My experience at R UnConference Chicago](http://www.thinkingondata.com/my-experience-at-r-unconference-chicago-2019/)
 
 ###  Resources
 
