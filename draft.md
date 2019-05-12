@@ -15,9 +15,13 @@ Release Date: 2019-05-13
 
 + [Speedmining the Cubing Community with dbplyr](http://staff.math.su.se/hoehle/blog/2019/05/06/wcamining.html)
 
+![Speedmining the Cubing Community with dbplyr](https://raw.githubusercontent.com/rweekly/image/master/2019-05-13/TRAJPLOT-1.png?raw=true)
+
 + [a perfectly normally distributed sample](https://xianblog.wordpress.com/2019/05/09/a-perfectly-normally-distributed-sample/)
 
 + [:timer_clock: countdown](https://www.garrickadenbuie.com/project/countdown/)
+
+![countdown](https://raw.githubusercontent.com/rweekly/image/master/2019-05-13/giphy.gif?raw=true)
 
 + [Analysing the HIV pandemic, Part 2: Drug resistance testing](https://rviews.rstudio.com/2019/05/07/pipeline-for-analysing-hiv-part-2/)
 
@@ -65,7 +69,9 @@ Release Date: 2019-05-13
 
 + [vroom 1.0.0](https://www.tidyverse.org/articles/2019/05/vroom-1-0-0/)
 
-**GitHub or Bitbucket**
+**![vroom 1.0.0](https://raw.githubusercontent.com/rweekly/image/master/2019-05-13/benchmark_plot-1.png?raw=true)
+
+GitHub or Bitbucket**
 
 + [Introducing 'asciicast' - some utilities for the asciicinema animation format](https://coolbutuseless.github.io/2019/05/05/introducing-asciicast-some-utilities-for-the-asciicinema-animation-format/)
 
@@ -117,7 +123,9 @@ Release Date: 2019-05-13
 
 + [Customising ggplot2 graphics](https://davidsmale.netlify.com/portfolio/customising-ggplot2-graphics/)
 
-+ [Tadpoles on Tensorflow: Hierarchical partial pooling with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2019-05-06-tadpoles-on-tensorflow/)
++ ![Customising ggplot2 graphics](https://github.com/rweekly/image/blob/master/2019-05-13/plot_new-1.png?raw=true)
+
+[Tadpoles on Tensorflow: Hierarchical partial pooling with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2019-05-06-tadpoles-on-tensorflow/)
 
 ## Datasets
 
@@ -127,7 +135,7 @@ Release Date: 2019-05-13
 
 ###  R Project Updates
 
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS)
 
 + [What's new in R 3.6.0](https://blog.revolutionanalytics.com/2019/05/whats-new-in-r-360.html)
 
