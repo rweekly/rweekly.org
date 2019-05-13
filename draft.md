@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2019-19
+title: R Weekly 2019-19 R 3.6.0, countdown, R-Podcast
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -9,7 +9,11 @@ Release Date: 2019-05-13
 
 ###  Highlight
 
++ [What's new in R 3.6.0](https://blog.revolutionanalytics.com/2019/05/whats-new-in-r-360.html)
 
++ [:timer_clock: countdown](https://www.garrickadenbuie.com/project/countdown/)
+
++ [R-Podcast Episode 30: Origins and Future of RStudio with Tareef Kawaf](https://r-podcast.org/30) - Eric is joined by RStudio's president Tareef Kawaf to discuss his journey to RStudio, building a robust organization structure, and how an open-core model drives RStudio’s vision for the present and future.
 
 ### Insights
 
@@ -61,6 +65,7 @@ Release Date: 2019-05-13
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+
 **CRAN**
 
 + [{attachment} is on CRAN !](https://rtask.thinkr.fr/blog/attachment-is-on-cran/)
@@ -69,9 +74,10 @@ Release Date: 2019-05-13
 
 + [vroom 1.0.0](https://www.tidyverse.org/articles/2019/05/vroom-1-0-0/)
 
-**![vroom 1.0.0](https://raw.githubusercontent.com/rweekly/image/master/2019-05-13/benchmark_plot-1.png?raw=true)
+![vroom 1.0.0](https://raw.githubusercontent.com/rweekly/image/master/2019-05-13/benchmark_plot-1.png?raw=true)
 
-GitHub or Bitbucket**
+
+**GitHub or Bitbucket**
 
 + [Introducing 'asciicast' - some utilities for the asciicinema animation format](https://coolbutuseless.github.io/2019/05/05/introducing-asciicast-some-utilities-for-the-asciicinema-animation-format/)
 
@@ -123,9 +129,9 @@ GitHub or Bitbucket**
 
 + [Customising ggplot2 graphics](https://davidsmale.netlify.com/portfolio/customising-ggplot2-graphics/)
 
-+ ![Customising ggplot2 graphics](https://github.com/rweekly/image/blob/master/2019-05-13/plot_new-1.png?raw=true)
+![Customising ggplot2 graphics](https://github.com/rweekly/image/blob/master/2019-05-13/plot_new-1.png?raw=true)
 
-[Tadpoles on Tensorflow: Hierarchical partial pooling with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2019-05-06-tadpoles-on-tensorflow/)
++ [Tadpoles on Tensorflow: Hierarchical partial pooling with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2019-05-06-tadpoles-on-tensorflow/)
 
 ## Datasets
 
