@@ -107,6 +107,10 @@ Release Date: 2019-05-20
 
 + [Timing Working With a Row or a Column from a data.frame](http://www.win-vector.com/blog/2019/05/timing-working-with-a-row-or-a-column-from-a-data-frame/)
 
++ [Introducing {tvthemes}: ggplot2 palettes and themes from your favorite TV shows!](https://ryo-n7.github.io/2019-05-16-introducing-tvthemes-package/)
+
++ [do_if: if statements with a %>% workflow!](http://www.favstats.eu/post/do_if/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
