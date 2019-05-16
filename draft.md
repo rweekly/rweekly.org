@@ -13,9 +13,12 @@ Release Date: 2019-05-20
 
 ### Insights
 
-
++ [A Multimillion-Dollar Startup Hid A Sexual Harassment Incident By Its CEO — Then A Community of Outsiders Dragged It Into the Light](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup)
 
 ### R in the Real World
+
++ [A Shiny App to explore my NYT Crossword solving statistics](https://aschep.shinyapps.io/crosswordapp/)
+
 
 
 
@@ -41,7 +44,7 @@ Release Date: 2019-05-20
 
 **BioC**
 
-
++ [`g2r`](https://g2r.dev/), grammar of graphics for interactive visualisations
 
 **GitHub or Bitbucket**
 
