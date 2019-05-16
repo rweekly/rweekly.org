@@ -46,6 +46,8 @@ Release Date: 2019-05-20
 
 **BioC**
 
++ [`redoc`](https://noamross.github.io/redoc/), reversible reproducible documents
+
 + [`g2r`](https://g2r.dev/), grammar of graphics for interactive visualisations
 
 **GitHub or Bitbucket**
