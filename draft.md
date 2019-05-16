@@ -36,6 +36,8 @@ Release Date: 2019-05-20
 
 + [POWER to the People](https://ropensci.org/blog/2019/05/14/nasapower/)
 
++ [Putting the R into Reproducible Research (slidedeck)](https://annakrystalli.me/talks/r-in-repro-research.html#1)
+
 ###  Resources
 
 + [New `stringr` vignette comparing base string functions to their stringr equivalents](https://stringr.tidyverse.org/articles/from-base.html)
@@ -47,6 +49,7 @@ Release Date: 2019-05-20
 + [Interactive web-based data visualization with R, plotly, and shiny (book)](https://plotly-r.com/)
 
 + [Cheatsheet for `tsbox`, a time series toolkit](https://github.com/rstudio/cheatsheets/raw/master/tsbox.pdf)
+
 
 ###  New Packages
 
