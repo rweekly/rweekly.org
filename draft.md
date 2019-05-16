@@ -46,6 +46,8 @@ Release Date: 2019-05-20
 
 + [Interactive web-based data visualization with R, plotly, and shiny (book)](https://plotly-r.com/)
 
++ [Cheatsheet for `tsbox`, a time series toolkit](https://github.com/rstudio/cheatsheets/raw/master/tsbox.pdf)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -87,7 +89,9 @@ Release Date: 2019-05-20
 
 ###  Tutorials
 
++ [The Secret of Landusia: A Text Adventure in the R Language](https://lucidmanager.org/text-adventure/)
 
++ [The small multiples plot: how to combine ggplot2 plots with one shared axis](https://aosmith.rbind.io/2019/05/13/small-multiples-plot/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
