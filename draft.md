@@ -38,6 +38,8 @@ Release Date: 2019-05-20
 
 + [`drakeplanner`](https://github.com/wlandau/drakeplanner), a web app to create new drake projects
 
++ [Working with data in elite sport](https://jacquietran.github.io/2019_may_rladies_akl/R/#1)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -48,13 +50,13 @@ Release Date: 2019-05-20
 
 **BioC**
 
+**GitHub or Bitbucket**
+
 + [`redoc`](https://noamross.github.io/redoc/), reversible reproducible documents
 
 + [`g2r`](https://g2r.dev/), grammar of graphics for interactive visualisations
 
-**GitHub or Bitbucket**
-
-
++ [`distributions`](https://alexpghayes.github.io/distributions/), Probability Distributions as S3 Objects
 
 ### Updated Packages
 
@@ -89,7 +91,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [satRday Paris - 23rd february](https://paris2019.satrdays.org/)
++ [satRday Berlin Diversity Scholarship](https://berlin2019.satrdays.org/scholarships/). Apply no later than Monday 27th May, 2019. Conference June 15th, 2019.
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
