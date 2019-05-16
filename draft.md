@@ -30,11 +30,11 @@ Release Date: 2019-05-20
 
 ###  R in Organizations
 
-
++ [rOpenSci Dev Guide 0.2.0: Updates Inside and Out](https://ropensci.org/blog/2019/05/16/dev-guide-update/)
 
 ###  R in Academia
 
-
++ [POWER to the People](https://ropensci.org/blog/2019/05/14/nasapower/)
 
 ###  Resources
 
@@ -54,8 +54,6 @@ Release Date: 2019-05-20
 
 **CRAN**
 
-
-
 **BioC**
 
 **GitHub or Bitbucket**
@@ -74,6 +72,9 @@ Release Date: 2019-05-20
 
 + [`vroom` 1.0.1](http://vroom.r-lib.org/news/index.html#vroom-1-0-1), Read and Write Rectangular Text Data Quickly
 
++ [RcppAnnoy 0.0.12](http://dirk.eddelbuettel.com/blog/2019/05/12#rcppannoy_0.0.12)
+
++ [Quick Hit: Updates to QuickLookR and {rdatainfo}](https://rud.is/b/2019/05/12/quick-hit-updates-to-quicklookr-and-rdatainfo/)
 
 ###  Videos and Podcasts
 
@@ -93,12 +94,22 @@ Release Date: 2019-05-20
 
 + [The small multiples plot: how to combine ggplot2 plots with one shared axis](https://aosmith.rbind.io/2019/05/13/small-multiples-plot/)
 
++ [Virtual Morel Foraging with R](https://rviews.rstudio.com/2019/05/13/virtual-morel-foraging-with-r/)
+
++ [an attempt at code golf](https://xianblog.wordpress.com/2019/05/15/an-attempt-at-code-golf/)
+
++ [House effects, herding, and the last few days before the election by @ellis2013nz](http://freerangestats.info/blog/2019/05/15/polls-misc)
+
++ [Timing Working With a Row or a Column from a data.frame](http://www.win-vector.com/blog/2019/05/timing-working-with-a-row-or-a-column-from-a-data-frame/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
++ [GFortran Issues with LAPACK](https://developer.r-project.org/Blog/public/2019/05/15/gfortran-issues-with-lapack/)
 
 
 ###  Upcoming Events in 3 Months
@@ -124,7 +135,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
 ###  Call for Participation
-
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
