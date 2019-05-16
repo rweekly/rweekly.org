@@ -69,6 +69,8 @@ Release Date: 2019-05-20
 
 + [`fastmap`](https://r-lib.github.io/fastmap/), fast implementation of a key-value store
 
++ [`tvthemes`](https://github.com/Ryo-N7/tvthemes), `ggplot2` themes and palettes based on popular TV shows 
+
 ### Updated Packages
 
 + [`diffobj` 0.2.3](https://github.com/brodieG/diffobj), Compare R Objects with a Diff 
