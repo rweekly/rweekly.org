@@ -42,7 +42,9 @@ Release Date: 2019-05-20
 
 + [`drakeplanner`](https://github.com/wlandau/drakeplanner), a web app to create new drake projects
 
-+ [Working with data in elite sport](https://jacquietran.github.io/2019_may_rladies_akl/R/#1)
++ [Working with data in elite sport (workshop slides)](https://jacquietran.github.io/2019_may_rladies_akl/R/#1)
+
++ [Interactive web-based data visualization with R, plotly, and shiny (book)](https://plotly-r.com/)
 
 ###  New Packages
 
