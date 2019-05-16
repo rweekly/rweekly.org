@@ -15,6 +15,8 @@ Release Date: 2019-05-20
 
 + [A Multimillion-Dollar Startup Hid A Sexual Harassment Incident By Its CEO — Then A Community of Outsiders Dragged It Into the Light](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup)
 
++ [Read the R source!](https://blog.r-hub.io/2019/05/14/read-the-source/)
+
 ### R in the Real World
 
 + [A Shiny App to explore my NYT Crossword solving statistics](https://aschep.shinyapps.io/crosswordapp/)
@@ -32,7 +34,7 @@ Release Date: 2019-05-20
 
 ###  Resources
 
-
++ [New `stringr` vignette comparing base string functions to their stringr equivalents](https://stringr.tidyverse.org/articles/from-base.html)
 
 ###  New Packages
 
@@ -52,6 +54,7 @@ Release Date: 2019-05-20
 
 ### Updated Packages
 
++ [`diffobj` 0.2.3](https://github.com/brodieG/diffobj), Compare R Objects with a Diff 
 
 
 ###  Videos and Podcasts
