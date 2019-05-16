@@ -111,6 +111,8 @@ Release Date: 2019-05-20
 
 + [do_if: if statements with a %>% workflow!](http://www.favstats.eu/post/do_if/)
 
++ [Vignette: Scraping Amazon Reviews in R](https://martinctc.github.io/blog/vignette-scraping-amazon-reviews-in-r/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
