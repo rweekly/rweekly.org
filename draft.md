@@ -60,7 +60,7 @@ Release Date: 2019-05-20
 
 **GitHub or Bitbucket**
 
-+ [`redoc`](https://noamross.github.io/redoc/), reversible reproducible documents
++ [`redoc`](https://noamross.github.io/redoc/), reversible reproducible documents. redoc is a package to enable a collaboration via a two-way R Markdown-Microsoft Word workflow. Includes support for diffing, Critic Markup/track changes, and RStudio Add-ins.
 
 + [`g2r`](https://g2r.dev/), grammar of graphics for interactive visualisations
 
