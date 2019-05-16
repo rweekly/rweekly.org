@@ -36,6 +36,8 @@ Release Date: 2019-05-20
 
 + [New `stringr` vignette comparing base string functions to their stringr equivalents](https://stringr.tidyverse.org/articles/from-base.html)
 
++ [`drakeplanner`](https://github.com/wlandau/drakeplanner), a web app to create new drake projects
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
