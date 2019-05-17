@@ -87,6 +87,8 @@ Release Date: 2019-05-20
 
 + [Quick Hit: Updates to QuickLookR and {rdatainfo}](https://rud.is/b/2019/05/12/quick-hit-updates-to-quicklookr-and-rdatainfo/)
 
++ [dqrng 0.2.1](https://stubner.me/post/2019/dqrng-v0-2-1/)
+
 ###  Videos and Podcasts
 
 
