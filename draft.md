@@ -50,6 +50,8 @@ Release Date: 2019-05-20
 
 + [Cheatsheet for `tsbox`, a time series toolkit](https://github.com/rstudio/cheatsheets/raw/master/tsbox.pdf)
 
++ [SatRday LA 2019 Slides on Futures](https://www.jottr.org/2019/05/16/future-satrdayla2019-slides/)
+
 
 ###  New Packages
 
@@ -71,7 +73,7 @@ Release Date: 2019-05-20
 
 + [`fastmap`](https://r-lib.github.io/fastmap/), fast implementation of a key-value store
 
-+ [`tvthemes`](https://github.com/Ryo-N7/tvthemes), `ggplot2` themes and palettes based on popular TV shows 
++ [Introducing {tvthemes}: ggplot2 palettes and themes from your favorite TV shows!](https://ryo-n7.github.io/2019-05-16-introducing-tvthemes-package/)
 
 ### Updated Packages
 
@@ -109,11 +111,11 @@ Release Date: 2019-05-20
 
 + [Timing Working With a Row or a Column from a data.frame](http://www.win-vector.com/blog/2019/05/timing-working-with-a-row-or-a-column-from-a-data-frame/)
 
-+ [Introducing {tvthemes}: ggplot2 palettes and themes from your favorite TV shows!](https://ryo-n7.github.io/2019-05-16-introducing-tvthemes-package/)
-
 + [do_if: if statements with a %>% workflow!](http://www.favstats.eu/post/do_if/)
 
 + [Vignette: Scraping Amazon Reviews in R](https://martinctc.github.io/blog/vignette-scraping-amazon-reviews-in-r/)
+
++ [Analysing the HIV pandemic, Part 3: Genetic diversity](https://rviews.rstudio.com/2019/05/16/pipeline-for-analysing-hiv-part-3/)`
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
@@ -156,4 +158,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">The moment I realized, my PhD mates included this huuuuuge R into my PhD hat! Just love it! They know me so well ;) <a href="https://twitter.com/hashtag/phdlife?src=hash&amp;ref_src=twsrc%5Etfw">#phdlife</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/SRVxS9a6YU">pic.twitter.com/SRVxS9a6YU</a></p>&mdash; Maja Ilić (@MajaIlicZg) <a href="https://twitter.com/MajaIlicZg/status/1127932778429997058?ref_src=twsrc%5Etfw">13 de maig de 2019</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Question for <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> users: what was (or is) the trickiest part for you about learning ggplot? What did you find unintuitive or hard to understand/remember? For teachers: what ggplot concepts do your students struggle with?</p>&mdash; Will Chase (@W_R_Chase) <a href="https://twitter.com/W_R_Chase/status/1127952758877802497?ref_src=twsrc%5Etfw">13 de maig de 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">If you happen to use <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> at the terminal, you&#39;ll find the rdoc package a big life improvement: <a href="https://t.co/9CtcRlHWvN">https://t.co/9CtcRlHWvN</a> <a href="https://t.co/KHm8vBdY0P">pic.twitter.com/KHm8vBdY0P</a></p>&mdash; Gábor Csárdi (@GaborCsardi) <a href="https://twitter.com/GaborCsardi/status/1129006862953791489?ref_src=twsrc%5Etfw">16 de maig de 2019</a></blockquote>
+
 
