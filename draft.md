@@ -121,6 +121,8 @@ Release Date: 2019-05-20
 
 + [Four ways to reverse a string in R](https://theautomatic.net/2019/05/17/four-ways-to-reverse-a-string-in-r/)
 
++ [The Evolution of a ggplot (Ep. 1)](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
