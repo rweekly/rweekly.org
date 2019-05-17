@@ -117,6 +117,8 @@ Release Date: 2019-05-20
 
 + [Analysing the HIV pandemic, Part 3: Genetic diversity](https://rviews.rstudio.com/2019/05/16/pipeline-for-analysing-hiv-part-3/)`
 
++ [Four ways to reverse a string in R](https://theautomatic.net/2019/05/17/four-ways-to-reverse-a-string-in-r/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
