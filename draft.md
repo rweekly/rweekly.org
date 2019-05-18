@@ -83,11 +83,13 @@ Release Date: 2019-05-20
 
 + [`vroom` 1.0.1](http://vroom.r-lib.org/news/index.html#vroom-1-0-1), Read and Write Rectangular Text Data Quickly
 
-+ [RcppAnnoy 0.0.12](http://dirk.eddelbuettel.com/blog/2019/05/12#rcppannoy_0.0.12)
++ [`RcppAnnoy` 0.0.12](http://dirk.eddelbuettel.com/blog/2019/05/12#rcppannoy_0.0.12)
 
 + [Quick Hit: Updates to QuickLookR and {rdatainfo}](https://rud.is/b/2019/05/12/quick-hit-updates-to-quicklookr-and-rdatainfo/)
 
-+ [dqrng 0.2.1](https://stubner.me/post/2019/dqrng-v0-2-1/)
++ [`dqrng` 0.2.1](https://stubner.me/post/2019/dqrng-v0-2-1/)
+
++ [`dplyr` 0.8.1](https://www.tidyverse.org/articles/2019/05/dplyr-0-8-1/)
 
 ###  Videos and Podcasts
 
