@@ -113,6 +113,8 @@ Release Date: 2019-05-20
 
 + [The small multiples plot: how to combine ggplot2 plots with one shared axis](https://aosmith.rbind.io/2019/05/13/small-multiples-plot/)
 
+![The small multiples plot: how to combine ggplot2 plots with one shared axis](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/multiple-plots.png)
+
 + [Virtual Morel Foraging with R](https://rviews.rstudio.com/2019/05/13/virtual-morel-foraging-with-r/)
 
 + [an attempt at code golf](https://xianblog.wordpress.com/2019/05/15/an-attempt-at-code-golf/)
