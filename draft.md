@@ -187,6 +187,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">Question for <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> users: what was (or is) the trickiest part for you about learning ggplot? What did you find unintuitive or hard to understand/remember? For teachers: what ggplot concepts do your students struggle with?</p>&mdash; Will Chase (@W_R_Chase) <a href="https://twitter.com/W_R_Chase/status/1127952758877802497?ref_src=twsrc%5Etfw">13 de maig de 2019</a></blockquote>
 
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="en" dir="ltr">If you happen to use <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> at the terminal, you&#39;ll find the rdoc package a big life improvement: <a href="https://t.co/9CtcRlHWvN">https://t.co/9CtcRlHWvN</a> <a href="https://t.co/KHm8vBdY0P">pic.twitter.com/KHm8vBdY0P</a></p>&mdash; Gábor Csárdi (@GaborCsardi) <a href="https://twitter.com/GaborCsardi/status/1129006862953791489?ref_src=twsrc%5Etfw">16 de maig de 2019</a></blockquote>
-
 
