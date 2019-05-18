@@ -32,6 +32,8 @@ Release Date: 2019-05-20
 
 + [rOpenSci Dev Guide 0.2.0: Updates Inside and Out](https://ropensci.org/blog/2019/05/16/dev-guide-update/)
 
+![cover of rOpenSci dev guide, showing a package production line with small humans discussing, examining and promoting packages](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/ropensci_dev_guide_cover.png)
+
 ###  R in Academia
 
 + [POWER to the People](https://ropensci.org/blog/2019/05/14/nasapower/)
