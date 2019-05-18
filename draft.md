@@ -81,6 +81,8 @@ Release Date: 2019-05-20
 
 + [Introducing {tvthemes}: ggplot2 palettes and themes from your favorite TV shows!](https://ryo-n7.github.io/2019-05-16-introducing-tvthemes-package/)
 
+![Parks and recreation theme from tvthemes](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/tv-themes.png)
+
 ### Updated Packages
 
 + [`diffobj` 0.2.3](https://github.com/brodieG/diffobj), Compare R Objects with a Diff 
