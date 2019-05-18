@@ -65,7 +65,7 @@ Release Date: 2019-05-20
 
 + [`vaultr`](https://reside-ic.github.io/blog/vaultr-1.0.2/) for storing and interacting with secrets and sensitive data using HashiCorp's Vault
 
-+[`rdoc`](https://github.com/mdequeljoe/rdoc) colourised R docs in the terminal
++ [`rdoc`](https://github.com/mdequeljoe/rdoc) colourised R docs in the terminal
 
 **BioC**
 
