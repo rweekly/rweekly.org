@@ -42,6 +42,8 @@ Release Date: 2019-05-20
 
 + [New `stringr` vignette comparing base string functions to their stringr equivalents](https://stringr.tidyverse.org/articles/from-base.html)
 
++ [New `tidyr` vignette about rectangling including the new functions `unnest_longer()`, `unnest_wider()`, `unnest_auto()`, and `hoist()`](https://tidyr.tidyverse.org/dev/articles/rectangle.html)
+
 + [`drakeplanner`](https://github.com/wlandau/drakeplanner), a web app to create new drake projects
 
 + [Working with data in elite sport (workshop slides)](https://jacquietran.github.io/2019_may_rladies_akl/R/#1)
