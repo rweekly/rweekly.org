@@ -69,6 +69,8 @@ Release Date: 2019-05-20
 
 + [`rdoc`](https://github.com/mdequeljoe/rdoc) colourised R docs in the terminal
 
+![screenshot of use of rdoc, colourised R docs in the terminal](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/rdoc.jpg)
+
 **BioC**
 
 **GitHub or Bitbucket**
