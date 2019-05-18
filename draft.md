@@ -52,6 +52,8 @@ Release Date: 2019-05-20
 
 + [SatRday LA 2019 Slides on Futures](https://www.jottr.org/2019/05/16/future-satrdayla2019-slides/)
 
++ [Data and code page on Alex Albright's website](https://thelittledataset.com/data_code/). Features data/code for replicating & building on articles about everything from Oscars speeches to names of cats/dogs. Also features a smorgasbord of resources regarding R, websites, CVs, etc. 
+
 
 ###  New Packages
 
