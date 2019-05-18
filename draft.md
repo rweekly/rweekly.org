@@ -131,7 +131,7 @@ Release Date: 2019-05-20
 
 + [The Evolution of a ggplot (Ep. 1)](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
 
-![The Evolution of a ggplot (Ep. 1)](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/evol-ggplot-1.gif)
+![The Evolution of a ggplot (Ep. 1)](https://cdn.jsdelivr.net/gh/rweekly/image/master/2019-05-20/evol-ggplot-1.gif)
 
 + [Australian Federal Election Forecasts 2019](http://freerangestats.info/elections/oz/index.html)
 
