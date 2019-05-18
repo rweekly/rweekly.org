@@ -141,6 +141,8 @@ Events in 3 Months:
 
 + [satRday Berlin Diversity Scholarship](https://berlin2019.satrdays.org/scholarships/). Apply no later than Monday 27th May, 2019. Conference June 15th, 2019.
 
++ [May 25th: 78th Tokyo.R Users Meetup](https://tokyor.connpass.com/event/130254/)
+
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
