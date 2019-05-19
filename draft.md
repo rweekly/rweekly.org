@@ -143,6 +143,8 @@ Release Date: 2019-05-20
 
 + [Popular Letters in Baby Names, Animated](https://www.garrickadenbuie.com/blog/popular-letters-in-babynames/)
 
++ [Fun with Statistics - Is Usain Bolt really the fastest man on earth?](https://radmuzom.com/2019/05/18/fun-with-statistics-is-usain-bolt-really-the-fastest-man-on-earth/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
