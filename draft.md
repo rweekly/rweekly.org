@@ -9,7 +9,11 @@ Release Date: 2019-05-20
 
 ###  Highlight
 
++ [New `stringr` vignette comparing base string functions to their stringr equivalents](https://stringr.tidyverse.org/articles/from-base.html)
 
++ [Putting the R into Reproducible Research (slidedeck)](https://annakrystalli.me/talks/r-in-repro-research.html#1)
+
++ [`redoc`](https://noamross.github.io/redoc/), reversible reproducible documents. redoc is a package to enable a collaboration via a two-way R Markdown-Microsoft Word workflow. Includes support for diffing, Critic Markup/track changes, and RStudio Add-ins.
 
 ### Insights
 
@@ -71,8 +75,6 @@ Release Date: 2019-05-20
 
 ![screenshot of use of rdoc, colourised R docs in the terminal](https://raw.githubusercontent.com/rweekly/image/master/2019-05-20/rdoc.jpg)
 
-**BioC**
-
 **GitHub or Bitbucket**
 
 + [`redoc`](https://noamross.github.io/redoc/), reversible reproducible documents. redoc is a package to enable a collaboration via a two-way R Markdown-Microsoft Word workflow. Includes support for diffing, Critic Markup/track changes, and RStudio Add-ins.
@@ -100,17 +102,6 @@ Release Date: 2019-05-20
 + [`dqrng` 0.2.1](https://stubner.me/post/2019/dqrng-v0-2-1/)
 
 + [`dplyr` 0.8.1](https://www.tidyverse.org/articles/2019/05/dplyr-0-8-1/)
-
-###  Videos and Podcasts
-
-
-
-### Gist & Cookbook
-
-
-
-### R Internationally
-
 
 
 ###  Tutorials
@@ -174,15 +165,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
-
-### Datasets
-
-
-
-
-### Jobs
-
-
 
 
 ###  Call for Participation
