@@ -145,6 +145,8 @@ Release Date: 2019-05-20
 
 + [Fun with Statistics - Is Usain Bolt really the fastest man on earth?](https://radmuzom.com/2019/05/18/fun-with-statistics-is-usain-bolt-really-the-fastest-man-on-earth/)
 
++ [Debug your R package on CircleCI via Docker or SSH](https://blog.jdblischak.com/posts/debug-circleci/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
