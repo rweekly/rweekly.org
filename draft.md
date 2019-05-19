@@ -149,6 +149,8 @@ Release Date: 2019-05-20
 
 + [Debug your R package on CircleCI via Docker or SSH](https://blog.jdblischak.com/posts/debug-circleci/)
 
++ [Mapping Tornado Alley with R](https://rud.is/b/2019/05/18/mapping-tornado-alley-with-r/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
