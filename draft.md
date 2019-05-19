@@ -141,6 +141,8 @@ Release Date: 2019-05-20
 
 + [Australian Federal Election Forecasts 2019](http://freerangestats.info/elections/oz/index.html)
 
++ [Polls v results by @ellis2013nz](http://freerangestats.info/blog/2019/05/19/polls-v-results)
+
 + [Popular Letters in Baby Names, Animated](https://www.garrickadenbuie.com/blog/popular-letters-in-babynames/)
 
 + [Fun with Statistics - Is Usain Bolt really the fastest man on earth?](https://radmuzom.com/2019/05/18/fun-with-statistics-is-usain-bolt-really-the-fastest-man-on-earth/)
