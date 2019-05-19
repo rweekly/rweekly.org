@@ -142,6 +142,8 @@ Release Date: 2019-05-20
 
 + [Mapping Tornado Alley with R](https://rud.is/b/2019/05/18/mapping-tornado-alley-with-r/)
 
++ [Vignette: Scraping Amazon Reviews in R](https://martinctc.github.io/blog/vignette-scraping-amazon-reviews-in-r/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
