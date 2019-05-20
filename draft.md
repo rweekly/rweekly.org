@@ -29,7 +29,7 @@ Release Date: 2019-05-27
 
 ###  Resources
 
-
+- [Headless Chrome Automation with R](https://speakerdeck.com/rlesur/headless-chrome-automation-with-r-the-crrri-package) --- The {crrri} package by Christophe Dervieux and Romain Lesur 
 
 ###  New Packages
 
