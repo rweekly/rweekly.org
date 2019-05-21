@@ -37,6 +37,7 @@ Release Date: 2019-05-27
 
 **CRAN**
 
+* [partition 0.1.0](https://malco.io/2019/05/20/introducing-the-partition-package/): A fast and flexible framework for data reduction
 
 [`dde`](https://reside-ic.github.io/blog/dde-1.0.0/) for integrating delay differential equations
 
