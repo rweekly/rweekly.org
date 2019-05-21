@@ -38,6 +38,7 @@ Release Date: 2019-05-27
 **CRAN**
 
 
+[`dde`](https://reside-ic.github.io/blog/dde-1.0.0/) for integrating delay differential equations
 
 **BioC**
 
