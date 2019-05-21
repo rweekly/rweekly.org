@@ -13,6 +13,8 @@ Release Date: 2019-05-27
 
 ### Insights
 
++ [A noLD platform on R-hub package builder](https://blog.r-hub.io/2019/05/21/nold/)
+
 
 
 ### R in the Real World
