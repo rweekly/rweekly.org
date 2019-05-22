@@ -32,6 +32,7 @@ Release Date: 2019-05-27
 ###  Resources
 
 - [Headless Chrome Automation with R](https://speakerdeck.com/rlesur/headless-chrome-automation-with-r-the-crrri-package) --- The slides for the talk at @uRosconf on Headless Chrome Automation for The {crrri} package by Christophe Dervieux and Romain Lesur
+- [R Text Data Compilation](https://github.com/EmilHvitfeldt/R-text-data) --- List of textual data sources to be used for text mining in R.
 
 ###  New Packages
 
