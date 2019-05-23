@@ -112,3 +112,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This patch to <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>-devel by <a href="https://twitter.com/LukeTierney4?ref_src=twsrc%5Etfw">@LukeTierney4</a> makes me very happy, thank you! 🎉 <br><br>Thanks also to <a href="https://twitter.com/HeathrTurnr?ref_src=twsrc%5Etfw">@HeathrTurnr</a> for encouraging me, and explaining me how, to post to R-devel. 💜 <a href="https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw">#rladies</a> <a href="https://t.co/du9cxtpJ0i">https://t.co/du9cxtpJ0i</a></p>&mdash; Maëlle Salmon 🐟 (@ma_salmon) <a href="https://twitter.com/ma_salmon/status/1130842995375214592?ref_src=twsrc%5Etfw">May 21, 2019</a></blockquote>
