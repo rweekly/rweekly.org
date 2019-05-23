@@ -70,7 +70,7 @@ Release Date: 2019-05-27
 
 ###  Tutorials
 
-
++ [Center continuous palettes in ggplot2](https://www.hvitfeldt.me/blog/center-continuous-palettes-in-ggplot2/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
