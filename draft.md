@@ -72,6 +72,8 @@ Release Date: 2019-05-27
 
 + [Center continuous palettes in ggplot2](https://www.hvitfeldt.me/blog/center-continuous-palettes-in-ggplot2/)
 
++ [Vignette: a 'Copy & Paste' R workflow for word clouds](https://martinctc.github.io/blog/Copy-and-paste_wordclouds_in_R/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
