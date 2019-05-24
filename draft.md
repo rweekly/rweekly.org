@@ -54,6 +54,10 @@ Release Date: 2019-05-27
 
 ### Updated Packages
 
++ [getTBinR 0.6.0 now on CRAN - from 80 Tuberculosis variables to more than 450!](https://www.samabbott.co.uk/post/gettbinr-6-0/)
+
+![Global Tuberculosis incidence rates](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-6-0.png)
+
 
 
 ###  Videos and Podcasts
