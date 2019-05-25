@@ -106,6 +106,8 @@ Release Date: 2019-05-27
 
 + [Create a CLI for R with npm](https://colinfay.me/create-r-cli-npm/)
 
++ [Vignette: a 'Copy & Paste' R workflow for word clouds](https://martinctc.github.io/blog/Copy-and-paste_wordclouds_in_R/)
+
 + [Part 2: Simple EDA in R with inspectdf](https://www.littlemissdata.com/blog/inspectdf)
 
 + [Timing hash functions with the bench package](https://www.jumpingrivers.com/blog/digest-timings-bench-package/)
