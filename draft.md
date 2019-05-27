@@ -17,6 +17,9 @@ Release Date: 2019-05-27
 
 + [From RTFM to ITFM (Improve The Fine Manual)](https://yihui.name/en/2019/05/rtfm-or-itfm/)
 
++ [Run R startup files once per hour, day, week, ...](https://www.jottr.org/2019/05/26/startup-sometimes/)
+
+
 ### R in the Real World
 
 + [What is the probability that in a box of a dozen donuts picked from 14 flavors there's no more than 3 flavors in the box?](https://ntguardian.wordpress.com/2019/05/20/probability-box-dozen-donuts-no-more-than-3-flavors-in-the-box/)
@@ -77,6 +80,8 @@ Release Date: 2019-05-27
 
 
 ### Updated Packages
+
++ [startup](https://cran.r-project.org/package=startup) 0.12.0 - Friendly R Startup Configuration
 
 + [getTBinR 0.6.0 now on CRAN - from 80 Tuberculosis variables to more than 450!](https://www.samabbott.co.uk/post/gettbinr-6-0/)
 
