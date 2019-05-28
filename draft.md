@@ -15,6 +15,9 @@ Release Date: 2019-06-03
 
 
 
++ [Run R startup files once per hour, day, week, ...](https://www.jottr.org/2019/05/26/startup-sometimes/)
+
+
 ### R in the Real World
 
 
@@ -49,6 +52,7 @@ Release Date: 2019-06-03
 
 ### Updated Packages
 
++ [startup](https://cran.r-project.org/package=startup) 0.12.0 - Friendly R Startup Configuration
 
 
 ###  Videos and Podcasts
