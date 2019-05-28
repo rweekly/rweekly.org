@@ -25,7 +25,7 @@ Release Date: 2019-06-03
 
 ###  R in Academia
 
-
++ [Hierarchical generalized additive models in ecology: an introduction with **mgcv**](https://peerj.com/articles/6876/) - A deep dive into fitting nonlinear models where relationships between predictors and outcomes can vary by group.
 
 ###  Resources
 
@@ -64,7 +64,6 @@ Release Date: 2019-06-03
 
 
 ###  Tutorials
-
 
 
 <!--<div class="post-more-begi
