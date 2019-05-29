@@ -96,6 +96,8 @@ Events in 3 Months:
 
 + [satRday Berlin, June 15th](https://berlin2019.satrdays.org)
 
++ [TokyoR #79, June 29th](https://tokyor.connpass.com/)
+
 + [useR2019](http://www.user2019.fr/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
