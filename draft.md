@@ -13,14 +13,15 @@ Release Date: 2019-06-03
 
 ### Insights
 
-
++ [Being a package maintainer or: The social contract](https://www.ottlngr.de/post/being-a-package-maintainer/)
 
 + [Run R startup files once per hour, day, week, ...](https://www.jottr.org/2019/05/26/startup-sometimes/)
 
++ [How to keep up with CRAN policies and processes?](https://blog.r-hub.io/2019/05/29/keep-up-with-cran/)
 
 ### R in the Real World
 
-
++ [What pieces do chess grandmasters move, and when?](https://statmodeling.stat.columbia.edu/2019/05/28/pieces-chess-grandmasters-move/)
 
 ###  R in Organizations
 
@@ -40,7 +41,7 @@ Release Date: 2019-06-03
 
 **CRAN**
 
-
++ [trendyy: A package for querying Google Trends](http://josiahparry.com/post/2019-05-25-introducing-trendyy/)
 
 **BioC**
 
@@ -48,7 +49,11 @@ Release Date: 2019-06-03
 
 **GitHub or Bitbucket**
 
++ [felp: An R package to display source and help of a function simultaneously](https://github.com/atusy/felp)
 
++ [emayili: Sending Email from R](https://datawookie.netlify.com/blog/2019/05/emayili-sending-email-from-r/)
+
++ [annotater: Annotate package load calls in strings and R scripts](https://github.com/luisDVA/annotater)
 
 ### Updated Packages
 
@@ -69,6 +74,11 @@ Release Date: 2019-06-03
 
 ###  Tutorials
 
++ [#Tidytuesday: Global plastic waste management](https://alyssamvanderbeek.netlify.com/post/tidytuesday-global-plastic-waste-management/)
+
++ [Custom profiler in R!](https://www.hvitfeldt.me/blog/custom-profiler-in-r/)
+
++ [Exploring R code interactively](https://jozef.io/r916-exploring-r-code-interactively/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
