@@ -19,6 +19,8 @@ Release Date: 2019-06-03
 
 + [How to keep up with CRAN policies and processes?](https://blog.r-hub.io/2019/05/29/keep-up-with-cran/)
 
++ [78th TokyoR Meetup Roundup!](https://ryo-n7.github.io/2019-05-31-tokyoR-78-roundup/)
+
 ### R in the Real World
 
 + [What pieces do chess grandmasters move, and when?](https://statmodeling.stat.columbia.edu/2019/05/28/pieces-chess-grandmasters-move/)
