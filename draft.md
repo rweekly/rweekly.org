@@ -33,7 +33,7 @@ Release Date: 2019-06-03
 
 ###  Resources
 
-
++ [Generalized Additive Models in R: A Free, Interactive Course using **mgcv**](https://noamross.github.io/gams-in-r-course/)
 
 ###  New Packages
 
@@ -79,8 +79,6 @@ Release Date: 2019-06-03
 + [Custom profiler in R!](https://www.hvitfeldt.me/blog/custom-profiler-in-r/)
 
 + [Exploring R code interactively](https://jozef.io/r916-exploring-r-code-interactively/)
-
-+ [Generalized Additive Models in R: A Free, Interactive Course using **mgcv**](https://noamross.github.io/gams-in-r-course/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
