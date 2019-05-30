@@ -80,6 +80,8 @@ Release Date: 2019-06-03
 
 + [Exploring R code interactively](https://jozef.io/r916-exploring-r-code-interactively/)
 
++ [Generalized Additive Models in R: A Free, Interactive Course using **mgcv**](https://noamross.github.io/gams-in-r-course/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
