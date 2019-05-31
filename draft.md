@@ -35,7 +35,7 @@ Release Date: 2019-06-03
 
 ###  Resources
 
-
++ [Generalized Additive Models in R: A Free, Interactive Course using **mgcv**](https://noamross.github.io/gams-in-r-course/)
 
 ###  New Packages
 
