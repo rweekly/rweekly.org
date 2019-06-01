@@ -21,9 +21,15 @@ Release Date: 2019-06-03
 
 + [78th TokyoR Meetup Roundup!](https://ryo-n7.github.io/2019-05-31-tokyoR-78-roundup/)
 
++ [Three reasons why I use data.table](https://www.meganstodel.com/posts/data-table/)
+
 ### R in the Real World
 
 + [What pieces do chess grandmasters move, and when?](https://statmodeling.stat.columbia.edu/2019/05/28/pieces-chess-grandmasters-move/)
+
++ [Why did the golden age of The Simpsons end? redux - celebrity cameos](http://www.nathancunn.com/2019-05-30-simpsons-cameos/)
+
++ [Star Wars Fandom Survey, Part 2: The Three Major Types of Star Wars Fans](https://www.markhw.com/blog/sw-survey-pt2)
 
 ###  R in Organizations
 
@@ -81,6 +87,10 @@ Release Date: 2019-06-03
 + [Custom profiler in R!](https://www.hvitfeldt.me/blog/custom-profiler-in-r/)
 
 + [Exploring R code interactively](https://jozef.io/r916-exploring-r-code-interactively/)
+
++ [Use R and gganimate to make an animated map of European students and their year-abroad.](https://medium.com/@mueller.johannes.j/use-r-and-gganimate-to-make-an-animated-map-of-european-students-and-their-year-abroad-517ad75dca06)
+
++ [Make a {brickr} soccer player!](https://www.rostrum.blog/2019/05/31/brickr-soccer/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
