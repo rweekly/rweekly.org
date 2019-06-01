@@ -23,6 +23,8 @@ Release Date: 2019-06-03
 
 + [Three reasons why I use data.table](https://www.meganstodel.com/posts/data-table/)
 
++ [Type stable estimation](https://www.alexpghayes.com/blog/type-stable-estimation/)
+
 ### R in the Real World
 
 + [What pieces do chess grandmasters move, and when?](https://statmodeling.stat.columbia.edu/2019/05/28/pieces-chess-grandmasters-move/)
@@ -42,6 +44,12 @@ Release Date: 2019-06-03
 ###  Resources
 
 + [Generalized Additive Models in R: A Free, Interactive Course using **mgcv**](https://noamross.github.io/gams-in-r-course/)
+
++ [Data Rectangling Resource Roundup](https://luisdva.github.io/rectangling/)
+
++ [Making interactive leaflet maps with R (Slides)](https://pakillo.github.io/r-leaflet-maps/r-leaflet-maps-slides.html#1)
+
++ [Getting Started with Git and GitHub for R Users](https://github.com/saghirb/Getting-Started-with-Git-and-GitHub-for-R-Users)
 
 ###  New Packages
 
@@ -91,6 +99,10 @@ Release Date: 2019-06-03
 + [Use R and gganimate to make an animated map of European students and their year-abroad.](https://medium.com/@mueller.johannes.j/use-r-and-gganimate-to-make-an-animated-map-of-european-students-and-their-year-abroad-517ad75dca06)
 
 + [Make a {brickr} soccer player!](https://www.rostrum.blog/2019/05/31/brickr-soccer/)
+
++ [An Introduction to Modelling Soccer Matches in R (part 1)](http://www.robert-hickman.eu/post/dixon_coles_1/)
+
++ [Introduction to Funnel Plots](https://nhsrcommunity.com/blog/introduction-to-funnel-plots/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
