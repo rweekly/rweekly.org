@@ -25,6 +25,8 @@ Release Date: 2019-06-03
 
 + [Type stable estimation](https://www.alexpghayes.com/blog/type-stable-estimation/)
 
++ [Top 40 new CRAN packages (April 2019)](https://rviews.rstudio.com/2019/05/30/april-2019-top-40-new-cran-packages/)
+
 ### R in the Real World
 
 + [What pieces do chess grandmasters move, and when?](https://statmodeling.stat.columbia.edu/2019/05/28/pieces-chess-grandmasters-move/)
@@ -58,6 +60,12 @@ Release Date: 2019-06-03
 **CRAN**
 
 + [trendyy: A package for querying Google Trends](http://josiahparry.com/post/2019-05-25-introducing-trendyy/)
+
++ [see: Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'](https://cran.r-project.org/web/packages/see/index.html)
+
++ [datos: Provides a Spanish translated version of datasets such as 'airlines', 'airports', 'babynames', 'Batting', 'diamonds', 'faithful', 'flights', 'gapminder', etc.](https://cran.r-project.org/web/packages/datos/index.html)
+
++ [ggResidpanel: Panels and Interactive Versions of Diagnostic Plots using 'ggplot2'](https://cran.r-project.org/web/packages/ggResidpanel/index.html)
 
 **BioC**
 
