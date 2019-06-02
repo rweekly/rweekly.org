@@ -112,6 +112,10 @@ Release Date: 2019-06-03
 
 + [Introduction to Funnel Plots](https://nhsrcommunity.com/blog/introduction-to-funnel-plots/)
 
++ [Automate Your KPI Forecasts With Only 1 Line Of R Code Using AutoTS](https://www.remixinstitute.com/blog/automate-your-kpi-forecasts-with-only-1-line-of-r-code-using-autots) - AutoTS from RemixAutoML automates your forecasts so you can stop wasting your precious time updating some newb's Excel forecast spreadsheet
+
+![RemixAutoML's AutoTS forecast for weekly Walmart store sales](https://i2.wp.com/www.remixinstitute.com/wp-content/uploads/walmart-weekly-store-sales-forecast-autots-remixautoml.png?w=1057&ssl=1)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
