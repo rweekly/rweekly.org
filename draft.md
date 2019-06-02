@@ -101,6 +101,8 @@ This week release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo),
 
 + [Use R and gganimate to make an animated map of European students and their year-abroad.](https://medium.com/@mueller.johannes.j/use-r-and-gganimate-to-make-an-animated-map-of-european-students-and-their-year-abroad-517ad75dca06)
 
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-22/europe-student-map.gif)
+
 + [Make a {brickr} soccer player!](https://www.rostrum.blog/2019/05/31/brickr-soccer/)
 
 + [An Introduction to Modelling Soccer Matches in R (part 1)](http://www.robert-hickman.eu/post/dixon_coles_1/)
