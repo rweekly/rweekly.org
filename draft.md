@@ -39,7 +39,11 @@ This week release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo),
 
 + [Why did the golden age of The Simpsons end? redux - celebrity cameos](http://www.nathancunn.com/2019-05-30-simpsons-cameos/)
 
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-22/simpsons.png)
+
 + [Star Wars Fandom Survey, Part 2: The Three Major Types of Star Wars Fans](https://www.markhw.com/blog/sw-survey-pt2)
+
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-22/starwars-survey.png)
 
 ###  R in Academia
 
@@ -62,6 +66,8 @@ This week release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo),
 **CRAN**
 
 + [trendyy: A package for querying Google Trends](http://josiahparry.com/post/2019-05-25-introducing-trendyy/)
+
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-22/google-trend-pkg.png)
 
 + [see: Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'](https://cran.r-project.org/web/packages/see/index.html)
 
@@ -101,7 +107,9 @@ This week release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo),
 
 + [Introduction to Funnel Plots](https://nhsrcommunity.com/blog/introduction-to-funnel-plots/)
 
-+ [Automate Your KPI Forecasts With Only 1 Line Of R Code Using AutoTS](https://www.remixinstitute.com/blog/automate-your-kpi-forecasts-with-only-1-line-of-r-code-using-autots) - AutoTS from RemixAutoML automates your forecasts so you can stop wasting your precious time updating some newb's Excel forecast spreadsheet
++ [Automate Your KPI Forecasts With Only 1 Line Of R Code Using AutoTS](https://www.remixinstitute.com/blog/automate-your-kpi-forecasts-with-only-1-line-of-r-code-using-autots)
+
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-22/walmart-forecast.png)
 
 + [R Rainbows: Making a Pride Flag in R](http://www.benjaminackerman.com/post/2019-06-01-r_pride_flag/)
 
