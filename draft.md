@@ -7,9 +7,15 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2019-06-03
 
+This week release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the RWeekly team members and contributors.
+
 ###  Highlight
 
++ [How to keep up with CRAN policies and processes?](https://blog.r-hub.io/2019/05/29/keep-up-with-cran/)
 
++ [Being a package maintainer or: The social contract](https://www.ottlngr.de/post/being-a-package-maintainer/)
+
++ [Generalized Additive Models in R: A Free, Interactive Course using **mgcv**](https://noamross.github.io/gams-in-r-course/)
 
 ### Insights
 
@@ -34,10 +40,6 @@ Release Date: 2019-06-03
 + [Why did the golden age of The Simpsons end? redux - celebrity cameos](http://www.nathancunn.com/2019-05-30-simpsons-cameos/)
 
 + [Star Wars Fandom Survey, Part 2: The Three Major Types of Star Wars Fans](https://www.markhw.com/blog/sw-survey-pt2)
-
-###  R in Organizations
-
-
 
 ###  R in Academia
 
@@ -67,10 +69,6 @@ Release Date: 2019-06-03
 
 + [ggResidpanel: Panels and Interactive Versions of Diagnostic Plots using 'ggplot2'](https://cran.r-project.org/web/packages/ggResidpanel/index.html)
 
-**BioC**
-
-
-
 **GitHub or Bitbucket**
 
 + [felp: An R package to display source and help of a function simultaneously](https://github.com/atusy/felp)
@@ -83,18 +81,9 @@ Release Date: 2019-06-03
 
 + [startup](https://cran.r-project.org/package=startup) 0.12.0 - Friendly R Startup Configuration
 
-
 ###  Videos and Podcasts
 
-
-
-### Gist & Cookbook
-
-
-
-### R Internationally
-
-
++ [Tidy Tuesday screencast: predicting wine ratings (David Robinson)](https://www.youtube.com/watch?v=AQzZNIyjyWM)
 
 ###  Tutorials
 
@@ -114,7 +103,7 @@ Release Date: 2019-06-03
 
 + [Automate Your KPI Forecasts With Only 1 Line Of R Code Using AutoTS](https://www.remixinstitute.com/blog/automate-your-kpi-forecasts-with-only-1-line-of-r-code-using-autots) - AutoTS from RemixAutoML automates your forecasts so you can stop wasting your precious time updating some newb's Excel forecast spreadsheet
 
-![RemixAutoML's AutoTS forecast for weekly Walmart store sales](https://i2.wp.com/www.remixinstitute.com/wp-content/uploads/walmart-weekly-store-sales-forecast-autots-remixautoml.png?w=1057&ssl=1)
++ [R Rainbows: Making a Pride Flag in R](http://www.benjaminackerman.com/post/2019-06-01-r_pride_flag/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
@@ -122,7 +111,6 @@ n></div><div class="post-more-end"></div>-->
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
 
 ###  Upcoming Events in 3 Months
 
@@ -142,19 +130,19 @@ Events in 3 Months:
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
-### Datasets
-
-
-
-
-### Jobs
-
-
-
-
 ###  Call for Participation
-
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">🏳️‍🌈HAPPY PRIDE MONTH! 🏳️‍🌈Fun fact: I made my rainbow Twitter banner using R! Here&#39;s the code I wrote to make it - let&#39;s paint the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> Twitter feed rainbow! 🥳 <a href="https://twitter.com/R_LGBTQ?ref_src=twsrc%5Etfw">@R_LGBTQ</a> <a href="https://t.co/S8FIFgviJu">https://t.co/S8FIFgviJu</a> <a href="https://t.co/lyZKKNz5zf">pic.twitter.com/lyZKKNz5zf</a></p>&mdash; Ben Ackerman (@backerman150) <a href="https://twitter.com/backerman150/status/1134907423423160321?ref_src=twsrc%5Etfw">June 1, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">In this week&#39;s <a href="https://twitter.com/hashtag/tidytuesday?src=hash&amp;ref_src=twsrc%5Etfw">#tidytuesday</a> screencast, I use linear models and lasso regression to predict wine ratings based on price, country, &amp; description🍷<br><br>This was a fun example of using tidytext + glmnet together, as well as interpreting models with broom <a href="https://t.co/XdnIUptOt9">https://t.co/XdnIUptOt9</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/zeN2aYiEkq">pic.twitter.com/zeN2aYiEkq</a></p>&mdash; David Robinson (@drob) <a href="https://twitter.com/drob/status/1134443337275052032?ref_src=twsrc%5Etfw">May 31, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">ggplot() + geom_antman() 🐜🐜🐜<br><br>(Almost done generating figures for the blog post releasing <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a>&#39;s 3D ggplots <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>) <a href="https://t.co/a7UOaYLIyY">pic.twitter.com/a7UOaYLIyY</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href="https://twitter.com/tylermorganwall/status/1134069089087950848?ref_src=twsrc%5Etfw">May 30, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
