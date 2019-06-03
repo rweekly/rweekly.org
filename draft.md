@@ -1,63 +1,35 @@
 ---
 layout: draft
-title: R Weekly 2019-22
+title: R Weekly 2019-23
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-06-03
-
-This week release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the RWeekly team members and contributors.
+Release Date: 2019-06-10
 
 ###  Highlight
 
-+ [How to keep up with CRAN policies and processes?](https://blog.r-hub.io/2019/05/29/keep-up-with-cran/)
 
-+ [Being a package maintainer or: The social contract](https://www.ottlngr.de/post/being-a-package-maintainer/)
-
-+ [Generalized Additive Models in R: A Free, Interactive Course using **mgcv**](https://noamross.github.io/gams-in-r-course/)
 
 ### Insights
 
-+ [Being a package maintainer or: The social contract](https://www.ottlngr.de/post/being-a-package-maintainer/)
 
-+ [Run R startup files once per hour, day, week, ...](https://www.jottr.org/2019/05/26/startup-sometimes/)
-
-+ [How to keep up with CRAN policies and processes?](https://blog.r-hub.io/2019/05/29/keep-up-with-cran/)
-
-+ [78th TokyoR Meetup Roundup!](https://ryo-n7.github.io/2019-05-31-tokyoR-78-roundup/)
-
-+ [Three reasons why I use data.table](https://www.meganstodel.com/posts/data-table/)
-
-+ [Type stable estimation](https://www.alexpghayes.com/blog/type-stable-estimation/)
-
-+ [Top 40 new CRAN packages (April 2019)](https://rviews.rstudio.com/2019/05/30/april-2019-top-40-new-cran-packages/)
 
 ### R in the Real World
 
-+ [What pieces do chess grandmasters move, and when?](https://statmodeling.stat.columbia.edu/2019/05/28/pieces-chess-grandmasters-move/)
 
-+ [Why did the golden age of The Simpsons end? redux - celebrity cameos](http://www.nathancunn.com/2019-05-30-simpsons-cameos/)
 
-![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-22/simpsons.png)
+###  R in Organizations
 
-+ [Star Wars Fandom Survey, Part 2: The Three Major Types of Star Wars Fans](https://www.markhw.com/blog/sw-survey-pt2)
 
-![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-22/starwars-survey.png)
 
 ###  R in Academia
 
-+ [Hierarchical generalized additive models in ecology: an introduction with **mgcv**](https://peerj.com/articles/6876/) - A deep dive into fitting nonlinear models where relationships between predictors and outcomes can vary by group.
+
 
 ###  Resources
 
-+ [Generalized Additive Models in R: A Free, Interactive Course using **mgcv**](https://noamross.github.io/gams-in-r-course/)
 
-+ [Data Rectangling Resource Roundup](https://luisdva.github.io/rectangling/)
-
-+ [Making interactive leaflet maps with R (Slides)](https://pakillo.github.io/r-leaflet-maps/r-leaflet-maps-slides.html#1)
-
-+ [Getting Started with Git and GitHub for R Users](https://github.com/saghirb/Getting-Started-with-Git-and-GitHub-for-R-Users)
 
 ###  New Packages
 
@@ -65,55 +37,35 @@ This week release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo),
 
 **CRAN**
 
-+ [trendyy: A package for querying Google Trends](http://josiahparry.com/post/2019-05-25-introducing-trendyy/)
 
-![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-22/google-trend-pkg.png)
 
-+ [see: Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'](https://cran.r-project.org/web/packages/see/index.html)
+**BioC**
 
-+ [datos: Provides a Spanish translated version of datasets such as 'airlines', 'airports', 'babynames', 'Batting', 'diamonds', 'faithful', 'flights', 'gapminder', etc.](https://cran.r-project.org/web/packages/datos/index.html)
 
-+ [ggResidpanel: Panels and Interactive Versions of Diagnostic Plots using 'ggplot2'](https://cran.r-project.org/web/packages/ggResidpanel/index.html)
 
 **GitHub or Bitbucket**
 
-+ [felp: An R package to display source and help of a function simultaneously](https://github.com/atusy/felp)
 
-+ [emayili: Sending Email from R](https://datawookie.netlify.com/blog/2019/05/emayili-sending-email-from-r/)
-
-+ [annotater: Annotate package load calls in strings and R scripts](https://github.com/luisDVA/annotater)
 
 ### Updated Packages
 
-+ [startup](https://cran.r-project.org/package=startup) 0.12.0 - Friendly R Startup Configuration
+
 
 ###  Videos and Podcasts
 
-+ [Tidy Tuesday screencast: predicting wine ratings (David Robinson)](https://www.youtube.com/watch?v=AQzZNIyjyWM)
+
+
+### Gist & Cookbook
+
+
+
+### R Internationally
+
+
 
 ###  Tutorials
 
-+ [#Tidytuesday: Global plastic waste management](https://alyssamvanderbeek.netlify.com/post/tidytuesday-global-plastic-waste-management/)
 
-+ [Custom profiler in R!](https://www.hvitfeldt.me/blog/custom-profiler-in-r/)
-
-+ [Exploring R code interactively](https://jozef.io/r916-exploring-r-code-interactively/)
-
-+ [Use R and gganimate to make an animated map of European students and their year-abroad.](https://medium.com/@mueller.johannes.j/use-r-and-gganimate-to-make-an-animated-map-of-european-students-and-their-year-abroad-517ad75dca06)
-
-![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-22/europe-student-map.gif)
-
-+ [Make a {brickr} soccer player!](https://www.rostrum.blog/2019/05/31/brickr-soccer/)
-
-+ [An Introduction to Modelling Soccer Matches in R (part 1)](http://www.robert-hickman.eu/post/dixon_coles_1/)
-
-+ [Introduction to Funnel Plots](https://nhsrcommunity.com/blog/introduction-to-funnel-plots/)
-
-+ [Automate Your KPI Forecasts With Only 1 Line Of R Code Using AutoTS](https://www.remixinstitute.com/blog/automate-your-kpi-forecasts-with-only-1-line-of-r-code-using-autots)
-
-![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-22/walmart-forecast.png)
-
-+ [R Rainbows: Making a Pride Flag in R](http://www.benjaminackerman.com/post/2019-06-01-r_pride_flag/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
@@ -121,6 +73,7 @@ n></div><div class="post-more-end"></div>-->
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
 
 ###  Upcoming Events in 3 Months
 
@@ -138,21 +91,19 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-More past events at [R conferences & meetups](https://conf.rweekly.org).
+### Datasets
+
+
+
+
+### Jobs
+
+
+
 
 ###  Call for Participation
+
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">🏳️‍🌈HAPPY PRIDE MONTH! 🏳️‍🌈Fun fact: I made my rainbow Twitter banner using R! Here&#39;s the code I wrote to make it - let&#39;s paint the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> Twitter feed rainbow! 🥳 <a href="https://twitter.com/R_LGBTQ?ref_src=twsrc%5Etfw">@R_LGBTQ</a> <a href="https://t.co/S8FIFgviJu">https://t.co/S8FIFgviJu</a> <a href="https://t.co/lyZKKNz5zf">pic.twitter.com/lyZKKNz5zf</a></p>&mdash; Ben Ackerman (@backerman150) <a href="https://twitter.com/backerman150/status/1134907423423160321?ref_src=twsrc%5Etfw">June 1, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">In this week&#39;s <a href="https://twitter.com/hashtag/tidytuesday?src=hash&amp;ref_src=twsrc%5Etfw">#tidytuesday</a> screencast, I use linear models and lasso regression to predict wine ratings based on price, country, &amp; description🍷<br><br>This was a fun example of using tidytext + glmnet together, as well as interpreting models with broom <a href="https://t.co/XdnIUptOt9">https://t.co/XdnIUptOt9</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/zeN2aYiEkq">pic.twitter.com/zeN2aYiEkq</a></p>&mdash; David Robinson (@drob) <a href="https://twitter.com/drob/status/1134443337275052032?ref_src=twsrc%5Etfw">May 31, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">ggplot() + geom_antman() 🐜🐜🐜<br><br>(Almost done generating figures for the blog post releasing <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a>&#39;s 3D ggplots <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>) <a href="https://t.co/a7UOaYLIyY">pic.twitter.com/a7UOaYLIyY</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href="https://twitter.com/tylermorganwall/status/1134069089087950848?ref_src=twsrc%5Etfw">May 30, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
