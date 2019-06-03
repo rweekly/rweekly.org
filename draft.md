@@ -79,8 +79,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [Rstudio & ThinkR roadshow – June 6 – Paris](https://rtask.thinkr.fr/blog/rstudio-thinkr-roadshow-june-6-paris)
-
 + [satRday Berlin, June 15th](https://berlin2019.satrdays.org)
 
 + [TokyoR #79, June 29th](https://tokyor.connpass.com/)
