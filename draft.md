@@ -13,6 +13,8 @@ Release Date: 2019-06-10
 
 ### Insights
 
++ [Using `ggplot2` in packages (`ggplot2` vignette)](https://ggplot2.tidyverse.org/dev/articles/ggplot2-in-packages.html)
+
 
 
 ### R in the Real World
