@@ -95,6 +95,8 @@ Release Date: 2019-06-10
 
 + [Using cosine similarity to find matching documents: a tutorial using Seneca's letters to his friend Lucilius](https://www.brodrigues.co/blog/2019-06-04-cosine_sim/)
 
++ [Mapping Acid Mothers Temple tours with Org, R and Geonames](https://www.miskatonic.org/amt/)
+
 
 
 
