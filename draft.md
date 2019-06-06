@@ -87,6 +87,7 @@ Release Date: 2019-06-10
 
 ###  Tutorials
 
++ [Step-by-step examples of building publication-quality figures in ggplot2](https://github.com/clauswilke/practical_ggplot2)
 
 + [What is graphical inference? How to justify a hunch using the nullabor package](http://www.thinkingondata.com/what-is-graphical-inference/)
 
