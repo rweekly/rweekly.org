@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2019-22
+title: R Weekly 2019-23
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-06-03
+Release Date: 2019-06-10
 
 ###  Highlight
 
@@ -13,9 +13,8 @@ Release Date: 2019-06-03
 
 ### Insights
 
++ [Using `ggplot2` in packages (`ggplot2` vignette)](https://ggplot2.tidyverse.org/dev/articles/ggplot2-in-packages.html)
 
-
-+ [Run R startup files once per hour, day, week, ...](https://www.jottr.org/2019/05/26/startup-sometimes/)
 
 
 ### R in the Real World
@@ -28,7 +27,7 @@ Release Date: 2019-06-03
 
 ###  R in Academia
 
-+ [Hierarchical generalized additive models in ecology: an introduction with **mgcv**](https://peerj.com/articles/6876/) - A deep dive into fitting nonlinear models where relationships between predictors and outcomes can vary by group.
+
 
 ###  Resources
 
@@ -52,7 +51,6 @@ Release Date: 2019-06-03
 
 ### Updated Packages
 
-+ [startup](https://cran.r-project.org/package=startup) 0.12.0 - Friendly R Startup Configuration
 
 
 ###  Videos and Podcasts
@@ -70,6 +68,7 @@ Release Date: 2019-06-03
 ###  Tutorials
 
 
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
@@ -82,17 +81,15 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [Rstudio & ThinkR roadshow – June 6 – Paris](https://rtask.thinkr.fr/blog/rstudio-thinkr-roadshow-june-6-paris)
-
 + [satRday Berlin, June 15th](https://berlin2019.satrdays.org)
+
++ [TokyoR #79, June 29th](https://tokyor.connpass.com/)
 
 + [useR2019](http://www.user2019.fr/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
 
