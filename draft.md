@@ -20,6 +20,12 @@ Release Date: 2019-06-10
 ### R in the Real World
 
 
++ [Analyzing the Open Science MOOC Twitter community](https://www.dataplanes.org/notes/2019/06/03/openscience-follower-analysis)
+
+
++ [College Baseball Shiny App](https://meysubb.shinyapps.io/cws-d1/)
+
++ [Simulating Emotions during a Basketball Game - Just a Feeling in the Crowd](https://willhipson.netlify.com/post/basketball_sim/basketball_sim/)
 
 ###  R in Organizations
 
@@ -30,6 +36,9 @@ Release Date: 2019-06-10
 
 
 ###  Resources
+
+
++ [A practical extension of introductory statistics typically taught in psychology into the general linear model (GLM)](https://ekarinpongpipat.com/practical-ext-of-intro-stats-in-psy-using-R/)
 
 
 
@@ -55,6 +64,7 @@ Release Date: 2019-06-10
 
 ###  Videos and Podcasts
 
++ [How to send email directly from your R script with Gmail and the gmailr package](https://www.infoworld.com/article/3398701/how-to-send-email-from-r-and-gmail.html)
 
 
 ### Gist & Cookbook
@@ -67,6 +77,14 @@ Release Date: 2019-06-10
 
 ###  Tutorials
 
+
++ [What is graphical inference? How to justify a hunch using the nullabor package](http://www.thinkingondata.com/what-is-graphical-inference/)
+
+
++ [Linear algebra in R](https://datascienceplus.com/linear-algebra-in-r/)
+
+
++ [Three reasons why I use data.table](https://www.meganstodel.com/posts/data-table/)
 
 
 <!--<div class="post-more-begi
