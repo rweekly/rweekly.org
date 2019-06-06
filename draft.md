@@ -27,6 +27,10 @@ Release Date: 2019-06-10
 
 + [Simulating Emotions during a Basketball Game - Just a Feeling in the Crowd](https://willhipson.netlify.com/post/basketball_sim/basketball_sim/)
 
++ [Hybrid Machine Learning Forecasts for the 2019 FIFA Women's World Cup](https://eeecon.uibk.ac.at/~zeileis/news/fifawomen2019/)
+
++ ['What is my package?' Shiny app game: Find the good package for as much R functions as possible in 40 seconds !](https://gabrielledevaux.shinyapps.io/whatismypackage/)
+
 ###  R in Organizations
 
 
@@ -40,7 +44,13 @@ Release Date: 2019-06-10
 
 + [A practical extension of introductory statistics typically taught in psychology into the general linear model (GLM)](https://ekarinpongpipat.com/practical-ext-of-intro-stats-in-psy-using-R/)
 
++ [Mixed models with R](https://m-clark.github.io/mixed-models-with-R/)
 
++ [Step-by-step examples of building publication-quality figures in ggplot2 from 'Fundamentals of Data Visualization' by Claus Wilke](https://github.com/clauswilke/practical_ggplot2)
+
++ [SatRday Newcastle 2019 presentation videos](https://www.youtube.com/playlist?list=PLQRHxIa9tfRtnjJ8Z97EPJOvPweHtDvAj)
+
++ [R you ready to make charts? by Will Chase (Philly dataviz meetup)](https://www.williamrchase.com/slides/ggplot_intro.html#1)
 
 ###  New Packages
 
@@ -80,11 +90,12 @@ Release Date: 2019-06-10
 
 + [What is graphical inference? How to justify a hunch using the nullabor package](http://www.thinkingondata.com/what-is-graphical-inference/)
 
-
 + [Linear algebra in R](https://datascienceplus.com/linear-algebra-in-r/)
 
 
-+ [Three reasons why I use data.table](https://www.meganstodel.com/posts/data-table/)
++ [Using cosine similarity to find matching documents: a tutorial using Seneca's letters to his friend Lucilius](https://www.brodrigues.co/blog/2019-06-04-cosine_sim/)
+
+
 
 
 <!--<div class="post-more-begi
