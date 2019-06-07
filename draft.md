@@ -19,9 +19,11 @@ Release Date: 2019-06-10
 
 ### R in the Real World
 
++ [Analyzing the Open Science Twitter community](https://www.dataplanes.org/notes/2019/06/03/openscience-follower-analysis)
+
++ [Analyzing the #We2 social movement using Twitter data and R](https://correlaid.org/blog/we2-twitter-analysis/)
 
 + [Analyzing the Open Science MOOC Twitter community](https://www.dataplanes.org/notes/2019/06/03/openscience-follower-analysis)
-
 
 + [College Baseball Shiny App](https://meysubb.shinyapps.io/cws-d1/)
 
