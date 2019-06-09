@@ -10,20 +10,21 @@ Release Date: 2019-06-10
 
 ###  Highlight
 
++ [Analyzing the Open Science Twitter community](https://www.dataplanes.org/notes/2019/06/03/openscience-follower-analysis)
++ [Simulating Emotions during a Basketball Game - Just a Feeling in the Crowd](https://willhipson.netlify.com/post/basketball_sim/basketball_sim/)
++ [Mapping Acid Mothers Temple tours with Org, R and Geonames](https://www.miskatonic.org/amt/)
 
 ### Insights
 
 + [Using `ggplot2` in packages (`ggplot2` vignette)](https://ggplot2.tidyverse.org/dev/articles/ggplot2-in-packages.html)
 
-
-
 ### R in the Real World
 
 + [A practical extension of introductory statistics typically taught in psychology into the general linear model (GLM)](https://ekarinpongpipat.com/practical-ext-of-intro-stats-in-psy-using-R/)
 
-![](https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/23/Simulating-Emotions.gif)
-
 + [Analyzing the Open Science Twitter community](https://www.dataplanes.org/notes/2019/06/03/openscience-follower-analysis)
+
+![](https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/23/ropensci-word-cloud.png)
 
 + [Analyzing the #We2 social movement using Twitter data and R](https://correlaid.org/blog/we2-twitter-analysis/)
 
@@ -32,6 +33,8 @@ Release Date: 2019-06-10
 + [College Baseball Shiny App](https://meysubb.shinyapps.io/cws-d1/)
 
 + [Simulating Emotions during a Basketball Game - Just a Feeling in the Crowd](https://willhipson.netlify.com/post/basketball_sim/basketball_sim/)
+
+![](https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/23/Simulating-Emotions.gif)
 
 + [Hybrid Machine Learning Forecasts for the 2019 FIFA Women's World Cup](https://eeecon.uibk.ac.at/~zeileis/news/fifawomen2019/)
 
@@ -55,15 +58,12 @@ Release Date: 2019-06-10
 
 ###  R in Academia
 
-
 + [Access Publisher Copyright & Self-Archiving Policies via the 'SHERPA/RoMEO' API](https://ropensci.org/blog/2019/06/04/rromeo/)
 
 + [Introducing the new rOpenSci docs server](https://ropensci.org/technotes/2019/06/07/ropensci-docs/)
 
+
 ###  Resources
-
-
-
 
 + [Mixed models with R](https://m-clark.github.io/mixed-models-with-R/)
 
@@ -130,7 +130,6 @@ Release Date: 2019-06-10
 
 + [Linear algebra in R](https://datascienceplus.com/linear-algebra-in-r/)
 
-
 + [Using cosine similarity to find matching documents: a tutorial using Seneca's letters to his friend Lucilius](https://www.brodrigues.co/blog/2019-06-04-cosine_sim/)
 
 + [Mapping Acid Mothers Temple tours with Org, R and Geonames](https://www.miskatonic.org/amt/)
@@ -138,6 +137,7 @@ Release Date: 2019-06-10
 + [Introducing DeclareDesign, a Platform for Research Design](https://rviews.rstudio.com/2019/06/04/introducing-declaredesign/)
 
 + [Make Multi-point "dumbbell" Plots in ggplot2](https://rud.is/b/2019/06/06/make-multi-point-dumbbell-plots-in-ggplot2/)
+  
 ![](https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/23/dumbbel-plot.png)
 
 <!--<div class="post-more-begi
@@ -147,6 +147,12 @@ n></div><div class="post-more-end"></div>-->
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+
+- `as.data.frame()` treats 1D arrays the same as vectors, <a href="https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=17570">PR#17570</a>.
+- `R CMD config` knows the values of `AR` and `RANLIB`, often set for LTO builds.
+- `runmed(x, *)` when `x` contains missing values now works for `algorithm="Stuetzle"`, also based on `smoothEnds(y)` working with NA's, and no longer segfaults for the `"Turlach"` algorithm; reported by Hilmar Berger.
+- `vcov(glm(&lt;quasi&gt;), dispersion = *)` works correctly again, fixing<a href="https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=17571">PR#17571</a> thanks to Pavel Krivitsky.
+- `stopifnot()` gets new argument `exprObject` to allow an R object of class `expression` (or other ‘language’) to work more consistently, thanks to suggestions by Suharto Anggono.
 
 ###  Upcoming Events in 3 Months
 
@@ -165,11 +171,7 @@ Events in 3 Months:
 ### Datasets
 
 
-
-
 ### Jobs
-
-
 
 
 ###  Call for Participation
@@ -178,3 +180,4 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
