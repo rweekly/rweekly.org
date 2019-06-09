@@ -10,17 +10,21 @@ Release Date: 2019-06-10
 
 ###  Highlight
 
++ [Analyzing the Open Science Twitter community](https://www.dataplanes.org/notes/2019/06/03/openscience-follower-analysis)
++ [Simulating Emotions during a Basketball Game - Just a Feeling in the Crowd](https://willhipson.netlify.com/post/basketball_sim/basketball_sim/)
++ [Mapping Acid Mothers Temple tours with Org, R and Geonames](https://www.miskatonic.org/amt/)
 
 ### Insights
 
 + [Using `ggplot2` in packages (`ggplot2` vignette)](https://ggplot2.tidyverse.org/dev/articles/ggplot2-in-packages.html)
-
 
 ### R in the Real World
 
 + [A practical extension of introductory statistics typically taught in psychology into the general linear model (GLM)](https://ekarinpongpipat.com/practical-ext-of-intro-stats-in-psy-using-R/)
 
 + [Analyzing the Open Science Twitter community](https://www.dataplanes.org/notes/2019/06/03/openscience-follower-analysis)
+
+![](https://cdn.jsdelivr.net/gh/rweekly/image@master/2019/23/ropensci-word-cloud.png)
 
 + [Analyzing the #We2 social movement using Twitter data and R](https://correlaid.org/blog/we2-twitter-analysis/)
 
@@ -125,7 +129,6 @@ Release Date: 2019-06-10
 + [What is graphical inference? How to justify a hunch using the nullabor package](http://www.thinkingondata.com/what-is-graphical-inference/)
 
 + [Linear algebra in R](https://datascienceplus.com/linear-algebra-in-r/)
-
 
 + [Using cosine similarity to find matching documents: a tutorial using Seneca's letters to his friend Lucilius](https://www.brodrigues.co/blog/2019-06-04-cosine_sim/)
 
