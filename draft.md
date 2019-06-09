@@ -145,6 +145,12 @@ n></div><div class="post-more-end"></div>-->
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 
+- `as.data.frame()` treats 1D arrays the same as vectors, <a href="https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=17570">PR#17570</a>.
+- `R CMD config` knows the values of `AR` and `RANLIB`, often set for LTO builds.
+- `runmed(x, *)` when `x` contains missing values now works for `algorithm="Stuetzle"`, also based on `smoothEnds(y)` working with NA's, and no longer segfaults for the `"Turlach"` algorithm; reported by Hilmar Berger.
+- `vcov(glm(&lt;quasi&gt;), dispersion = *)` works correctly again, fixing<a href="https://bugs.r-project.org/bugzilla3/show_bug.cgi?id=17571">PR#17571</a> thanks to Pavel Krivitsky.
+- `stopifnot()` gets new argument `exprObject` to allow an R object of class `expression` (or other ‘language’) to work more consistently, thanks to suggestions by Suharto Anggono.
+
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
