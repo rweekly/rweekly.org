@@ -21,7 +21,7 @@ Release Date: 2019-06-17
 
 ###  R in Organizations
 
-
++ [CDSB Workshop 2019: How to Build and Create Tidy Tools](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/)
 
 ###  R in Academia
 
