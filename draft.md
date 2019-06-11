@@ -21,7 +21,6 @@ Release Date: 2019-06-17
 
 ###  R in Organizations
 
-+ [CDSB Workshop 2019: How to Build and Create Tidy Tools](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/)
 
 ###  R in Academia
 
@@ -78,6 +77,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [Mexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools
 
 + [satRday Berlin, June 15th](https://berlin2019.satrdays.org)
 
