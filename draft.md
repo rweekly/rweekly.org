@@ -64,7 +64,7 @@ Release Date: 2019-06-17
 
 ###  Tutorials
 
-
++[Working with SPSS labels in R](https://martinctc.github.io/blog/working-with-spss-labels-in-r/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
