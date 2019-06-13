@@ -28,7 +28,7 @@ Release Date: 2019-06-17
 
 ###  Resources
 
-
++ [Summer of blogdown: a 4-day workshop series on the blogdown R package, from the folks at RStudio Education](https://summer-of-blogdown.netlify.com/)
 
 ###  New Packages
 
