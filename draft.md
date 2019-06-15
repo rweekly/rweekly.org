@@ -44,7 +44,7 @@ Release Date: 2019-06-17
 
 **GitHub or Bitbucket**
 
-
++ [corporaexplorer: An R package for dynamic exploration of text collections](https://github.com/kgjerde/corporaexplorer). There is also a [paper](https://joss.theoj.org/papers/10.21105/joss.01342) in *Journal of Open Source Software*.
 
 ### Updated Packages
 
