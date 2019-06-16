@@ -15,14 +15,44 @@ Release Date: 2019-06-17
 
 + [Overview of the CRAN checks API](https://blog.r-hub.io/2019/06/10/cran-checks-api/)
 
++ [#22: Using Rocker and PPAs for Fun and Profit](http://dirk.eddelbuettel.com/blog/2019/06/09#022_rocker_and_ppas)
+
+
++ [reticulate, virtualenv, and Python in Linux](https://rviews.rstudio.com/2019/06/10/reticulate-virtualenv-and-python-in-linux/)
+
+
++ [Taking over maintenance of a software package](https://ropensci.org/blog/2019/06/12/taking-over-maint/)
+
++ [Testing statistical software](https://www.alexpghayes.com/blog/testing-statistical-software/)
+
++ [Using the recipes package for easy pre-processing](http://www.rebeccabarter.com/blog/2019-06-06_pre_processing/)
+
 ### R in the Real World
+
++ [Wrapping Up Exploration of John Deere's MowerPlus Database](https://rud.is/b/2019/06/09/wrapping-up-exploration-of-john-deeres-mowerplus-database/)
 
 + [Using tidyverse tools with Pew Research Center survey data!](https://medium.com/pew-research-center-decoded/using-tidyverse-tools-with-pew-research-center-survey-data-in-r-bdfe61de0909)
 
 + [An Analysis of The Gender Wage Gap In Australia](https://theambitiouseconomist.com/an-analysis-of-the-gender-wage-gap-in-australia/)
 
++ [Exploring European Parliament election results in Italy through animated cartograms](https://medium.com/european-data-journalism-network/european-elections-2019-and-italys-varying-size-fb4ed07d4ff6)
+
+
++ [Does "Sell in May, Go Away" really work?](https://theautomatic.net/2019/06/11/does-sell-in-may-go-away-really-work/)
+
+
++ [Makeover Jumbalaya: Beating Dumbbells into Slopegraphs Whilst Orchestrating EtherCalc](https://rud.is/b/2019/06/11/makeover-jumbalaya-beating-dumbbells-into-slopegraphs-whilst-orchestrating-ethercalc/)
+
+
++ [Makeover Jambalaya: Beating Dumbbells into Slopegraphs Whilst Orchestrating EtherCalc](https://rud.is/b/2019/06/11/makeover-jumbalaya-beating-dumbbells-into-slopegraphs-whilst-orchestrating-ethercalc/)
 
 ###  R in Organizations
+
++ [First Two Weeks this Summer at RStudio](https://jcahoon.netlify.com/post/2019/06/16/first-two-weeks-this-summer-at-rstudio/)
+
++ [Community Call - Involving Multilingual Communities](https://ropensci.org/blog/2019/06/13/commcall-jun2019/)
+
++ [Insurance Data Science Conference – 2019](http://ronaldrichman.co.za/2019/06/13/insurance-data-science-conference-2019/)
 
 
 ###  R in Academia
@@ -39,7 +69,7 @@ Release Date: 2019-06-17
 
 **CRAN**
 
-
++ [tsibbledata](https://www.mitchelloharawild.com/blog/tsibbledata/) - a diverse collection of datasets for learning how to work with tidy time series data
 
 **BioC**
 
@@ -47,17 +77,32 @@ Release Date: 2019-06-17
 
 **GitHub or Bitbucket**
 
-+ [corporaexplorer: An R package for dynamic exploration of text collections](https://github.com/kgjerde/corporaexplorer). There is also a [paper](https://joss.theoj.org/papers/10.21105/joss.01342) in *Journal of Open Source Software*.
++ [corporaexplorer](https://github.com/kgjerde/corporaexplorer) - Dynamic exploration of text collections. [paper](https://joss.theoj.org/papers/10.21105/joss.01342)
 
-+ [gbfetch: Download DNA sequences from GenBank directly into R](https://github.com/joelnitta/gbfetch)
++ [gbfetch](https://github.com/joelnitta/gbfetch) - Download DNA sequences from GenBank directly into R
+
+
++ [ethercalc](https://rud.is/b/2019/06/15/introducing-the-ethercalc-package/)
+
+
 
 ### Updated Packages
 
 
++ [littler 0.3.8](http://dirk.eddelbuettel.com/blog/2019/06/09#littler-0.3.8) - Several nice new features
+
++ [tidytext 0.2.1](https://juliasilge.com/blog/sentiment-lexicons/)
+
++ [RStudio Connect 1.7.4.2](https://blog.rstudio.com/2019/06/13/rstudio-connect-1-7-4-2-important-security-patch/) - Important Security Patch
+
+
++ [simglm 0.7.4](https://brandonlebeau.org/2019/06/11/simglm-0-7-4/) - Tidy Simulation
+
++ [padr 0.5.0](https://edwinth.github.io/blog/padr-v-0-5-0/)
 
 ###  Videos and Podcasts
 
-
++ [A Gentle Introduction to Tidy Statistics in R](https://resources.rstudio.com/webinars/a-gentle-introduction-to-tidy-statistics-in-r)
 
 ### Gist & Cookbook
 
@@ -69,14 +114,46 @@ Release Date: 2019-06-17
 
 ###  Tutorials
 
++ [A tutorial on how to draw dendrograms with ggplot2.](https://atrebas.github.io/post/2019-06-08-lightweight-dendrograms/)
+
++ [satRday Berlin 2019: Remedies for Severe Class Imbalance](https://juanitorduz.github.io/class_imbalance/)
+
++ [Trying out blogdown](https://desireedeleon.netlify.com/post/2019/trying-out-blogdown/)
+
 + [Working with SPSS labels in R](https://martinctc.github.io/blog/working-with-spss-labels-in-r/)
+
++ [R vs. Python](https://matloff.wordpress.com/2019/06/12/r-vs-python/)
+
++ [Stabilising transformations: how do I present my results?](https://www.statforbiology.com/2019/stat_general_reportingresults/)
+
++ [#rstats adventures in the land of @rstudio shiny (apps)](http://www.christopherlortie.info/adventures-in-the-land-of-rstudio-shiny-apps/)
+
++ [Polygon plotting in R](http://www.theanalyticslab.nl/polygon-plotting-in-r/)
 
 + [Don't get too excited - it might just be regression to the mean](https://www.rdatagen.net/post/regression-to-the-mean/)
 
-+ [
-The power of three: purrr-poseful iteration in R with map, pmap and imap](https://www.zevross.com/blog/2019/06/11/the-power-of-three-purrr-poseful-iteration-in-r-with-map-pmap-and-imap/)
++ [The power of three: purrr-poseful iteration in R with map, pmap and imap](https://www.zevross.com/blog/2019/06/11/the-power-of-three-purrr-poseful-iteration-in-r-with-map-pmap-and-imap/)
 
 + [Identifying and labeling boxplot outliers in R](https://www.dsquintana.blog/labeling-boxplot-outliers/)
+
+
++ [Estimating Rates using Probability Theory: Chalk Talk](http://www.win-vector.com/blog/2019/06/estimating-rates-using-probability-theory-chalk-talk/)
+
+
++ [another attempt at code golf](https://xianblog.wordpress.com/2019/06/12/another-attempt-at-code-golf/)
+
+
++ [Equal Size kmeans](https://rviews.rstudio.com/2019/06/13/equal-size-kmeans/)
+
+
+
++ [Fun with R and the Noops](http://blog.revolutionanalytics.com/2019/06/noops-and-r.html)
+
++ [Exploring Categorical Data With Inspectdf](https://alastairrushworth.github.io/Exploring-categorical-data-with-inspectdf/)
+
+
++ [What does it look like at the top of the world?](https://www.simoncoulombe.com/2019/06/top-of-the-world/)
+
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
@@ -89,8 +166,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [satRday Berlin, June 15th](https://berlin2019.satrdays.org)
 
 + [TokyoR #79, June 29th](https://tokyor.connpass.com/event/135622/)
 
@@ -121,5 +196,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Dear R community, we are getting you a 📘 with <a href="https://twitter.com/OReillyMedia?ref_src=twsrc%5Etfw">@OReillyMedia</a> to learn large-scale <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> and <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a>  using <a href="https://twitter.com/hashtag/ApacheSpark?src=hash&amp;ref_src=twsrc%5Etfw">#ApacheSpark</a> with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>! -- Currently on pre-sale 🎉, early preview next and scheduled to be published later in the year: <a href="https://t.co/Avq479dC0y">https://t.co/Avq479dC0y</a> <a href="https://t.co/9YB5u4YXgA">pic.twitter.com/9YB5u4YXgA</a></p>&mdash; Javier Luraschi (@javierluraschi) <a href="https://twitter.com/javierluraschi/status/1139258531918467072?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Something pretty made with R.<br>by <a href="https://twitter.com/aschinchon?ref_src=twsrc%5Etfw">@aschinchon</a><br><br>Phyllotaxis By Shiny<br>Made with ggplot2 &amp; <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br>⠀<br>Learn more at <a href="https://t.co/jGeNZ7s1RT">https://t.co/jGeNZ7s1RT</a><br>Repo: <a href="https://t.co/4hxCgETqx8">https://t.co/4hxCgETqx8</a> <a href="https://t.co/aObGD7cj2p">pic.twitter.com/aObGD7cj2p</a></p>&mdash; RStudio (@rstudio) <a href="https://twitter.com/rstudio/status/1140156562343911424?ref_src=twsrc%5Etfw">June 16, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Save the date! <a href="https://twitter.com/hashtag/useR2020?src=hash&amp;ref_src=twsrc%5Etfw">#useR2020</a> will be in <a href="https://twitter.com/hashtag/StLouis?src=hash&amp;ref_src=twsrc%5Etfw">#StLouis</a> from July 7 through July 11 at the <a href="https://twitter.com/MarriottStLouis?ref_src=twsrc%5Etfw">@MarriottStLouis</a>. We are so excited to welcome the <a href="https://twitter.com/_R_Foundation?ref_src=twsrc%5Etfw">@_R_Foundation</a> and the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community to the Gateway City! <a href="https://t.co/bACJsjZhv1">pic.twitter.com/bACJsjZhv1</a></p>&mdash; useR! 2020 (@useR2020stl) <a href="https://twitter.com/useR2020stl/status/1139556597741629440?ref_src=twsrc%5Etfw">June 14, 2019</a></blockquote>
 
