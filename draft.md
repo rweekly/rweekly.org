@@ -44,8 +44,6 @@ Release Date: 2019-06-17
 + [Makeover Jumbalaya: Beating Dumbbells into Slopegraphs Whilst Orchestrating EtherCalc](https://rud.is/b/2019/06/11/makeover-jumbalaya-beating-dumbbells-into-slopegraphs-whilst-orchestrating-ethercalc/)
 
 
-+ [Makeover Jambalaya: Beating Dumbbells into Slopegraphs Whilst Orchestrating EtherCalc](https://rud.is/b/2019/06/11/makeover-jumbalaya-beating-dumbbells-into-slopegraphs-whilst-orchestrating-ethercalc/)
-
 ###  R in Organizations
 
 + [First Two Weeks this Summer at RStudio](https://jcahoon.netlify.com/post/2019/06/16/first-two-weeks-this-summer-at-rstudio/)
@@ -70,6 +68,8 @@ Release Date: 2019-06-17
 **CRAN**
 
 + [tsibbledata](https://www.mitchelloharawild.com/blog/tsibbledata/) - a diverse collection of datasets for learning how to work with tidy time series data
+
++ [modelDown is now on CRAN!](http://smarterpoland.pl/index.php/2019/06/modeldown-is-now-on-cran/)
 
 **BioC**
 
@@ -154,6 +154,9 @@ Release Date: 2019-06-17
 
 + [What does it look like at the top of the world?](https://www.simoncoulombe.com/2019/06/top-of-the-world/)
 
++ [Simulating genetic data with R: an example with deleterious variants (and a pun)](https://onunicornsandgenes.blog/2019/06/16/simulating-genetic-data-with-r-an-example-with-deleterious-variants-and-a-pun/)
+
++ [Interactive Network Visualization with R](https://www.statworx.com/de/blog/interactive-network-visualization-with-r/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
