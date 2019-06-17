@@ -15,8 +15,6 @@ Release Date: 2019-06-17
 
 + [Overview of the CRAN checks API](https://blog.r-hub.io/2019/06/10/cran-checks-api/)
 
-+ [#22: Using Rocker and PPAs for Fun and Profit](http://dirk.eddelbuettel.com/blog/2019/06/09#022_rocker_and_ppas)
-
 
 + [reticulate, virtualenv, and Python in Linux](https://rviews.rstudio.com/2019/06/10/reticulate-virtualenv-and-python-in-linux/)
 
@@ -31,18 +29,24 @@ Release Date: 2019-06-17
 
 + [Wrapping Up Exploration of John Deere's MowerPlus Database](https://rud.is/b/2019/06/09/wrapping-up-exploration-of-john-deeres-mowerplus-database/)
 
+![Wrapping Up Exploration of John Deere's MowerPlus Database](https://raw.githubusercontent.com/rweekly/image/master/2019/mow-speed.png)
+
 + [Using tidyverse tools with Pew Research Center survey data!](https://medium.com/pew-research-center-decoded/using-tidyverse-tools-with-pew-research-center-survey-data-in-r-bdfe61de0909)
 
 + [An Analysis of The Gender Wage Gap In Australia](https://theambitiouseconomist.com/an-analysis-of-the-gender-wage-gap-in-australia/)
 
+![An Analysis of The Gender Wage Gap In Australia](https://raw.githubusercontent.com/rweekly/image/master/2019/nopadding3.png)
+
 + [Exploring European Parliament election results in Italy through animated cartograms](https://medium.com/european-data-journalism-network/european-elections-2019-and-italys-varying-size-fb4ed07d4ff6)
 
+![Exploring European Parliament](https://raw.githubusercontent.com/rweekly/image/master/2019/vote.png)
 
 + [Does "Sell in May, Go Away" really work?](https://theautomatic.net/2019/06/11/does-sell-in-may-go-away-really-work/)
 
 
 + [Makeover Jumbalaya: Beating Dumbbells into Slopegraphs Whilst Orchestrating EtherCalc](https://rud.is/b/2019/06/11/makeover-jumbalaya-beating-dumbbells-into-slopegraphs-whilst-orchestrating-ethercalc/)
 
+![Makeover Jumbalaya](https://raw.githubusercontent.com/rweekly/image/master/2019/slope-04.png)
 
 + [Makeover Jambalaya: Beating Dumbbells into Slopegraphs Whilst Orchestrating EtherCalc](https://rud.is/b/2019/06/11/makeover-jumbalaya-beating-dumbbells-into-slopegraphs-whilst-orchestrating-ethercalc/)
 
@@ -104,6 +108,9 @@ Release Date: 2019-06-17
 
 + [A Gentle Introduction to Tidy Statistics in R](https://resources.rstudio.com/webinars/a-gentle-introduction-to-tidy-statistics-in-r)
 
+
++ [#22: Using Rocker and PPAs for Fun and Profit](http://dirk.eddelbuettel.com/blog/2019/06/09#022_rocker_and_ppas)
+
 ### Gist & Cookbook
 
 
@@ -115,6 +122,8 @@ Release Date: 2019-06-17
 ###  Tutorials
 
 + [A tutorial on how to draw dendrograms with ggplot2.](https://atrebas.github.io/post/2019-06-08-lightweight-dendrograms/)
+
+![dendrograms](https://raw.githubusercontent.com/rweekly/image/master/2019/dend.png)
 
 + [satRday Berlin 2019: Remedies for Severe Class Imbalance](https://juanitorduz.github.io/class_imbalance/)
 
@@ -129,6 +138,8 @@ Release Date: 2019-06-17
 + [#rstats adventures in the land of @rstudio shiny (apps)](http://www.christopherlortie.info/adventures-in-the-land-of-rstudio-shiny-apps/)
 
 + [Polygon plotting in R](http://www.theanalyticslab.nl/polygon-plotting-in-r/)
+
+![Polygon plotting in R](https://raw.githubusercontent.com/rweekly/image/master/2019/polygon_plot_utrecht.png)
 
 + [Don't get too excited - it might just be regression to the mean](https://www.rdatagen.net/post/regression-to-the-mean/)
 
@@ -151,6 +162,7 @@ Release Date: 2019-06-17
 
 + [Exploring Categorical Data With Inspectdf](https://alastairrushworth.github.io/Exploring-categorical-data-with-inspectdf/)
 
+![Exploring Categorical Data With Inspectdf](https://raw.githubusercontent.com/rweekly/image/master/2019/inspectdf.png)
 
 + [What does it look like at the top of the world?](https://www.simoncoulombe.com/2019/06/top-of-the-world/)
 
