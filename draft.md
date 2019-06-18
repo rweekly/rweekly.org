@@ -17,7 +17,9 @@ Release Date: 2019-06-24
 
 ### R in the Real World
 
++ [Visualizing the Copa América: Historical Records, Squad Profiles, and Player Profiles with xG statistics!](https://ryo-n7.github.io/2019-06-18-visualize-copa-america/)
 
+![](https://i.imgur.com/Elzd0Sc.png)
 
 ###  R in Organizations
 
@@ -45,7 +47,7 @@ Release Date: 2019-06-24
 
 **GitHub or Bitbucket**
 
-
+- [bbcharts: An interface to the Billboards Top Charts](https://github.com/josiahparry/bbcharts)
 
 ### Updated Packages
 
@@ -65,7 +67,7 @@ Release Date: 2019-06-24
 
 ###  Tutorials
 
-
++ [Changing Glyph in legend in ggplot2](https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
