@@ -31,6 +31,7 @@ Release Date: 2019-06-24
 
 ###  Resources
 
++ [The Promise and Perils of Packaging Your Processes (slides)](https://khailper.github.io/process_packaging_pres/#1)
 
 
 ###  New Packages
