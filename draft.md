@@ -13,6 +13,27 @@ Release Date: 2019-06-24
 
 ### Insights
 
++ [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
+
++ [The joy of functional programming](https://speakerdeck.com/hadley/the-joy-of-functional-programming)
+
++ [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
+
++ [A Guide to R for Excel Users](https://rfortherestofus.com/2019/06/a-guide-to-r-for-excel-users/)
+
++ [Calculating and visualizing error bars for within-subjects designs](https://www.niklasjohannes.com/post/calculating-and-visualizing-error-bars-for-within-subjects-designs/)
+
++ [Plotting mixture models, part 2: sum of gaussians](https://dozenoaks.twelvetreeslab.co.uk/2019/06/sum-of-gaussians/)
+
++ [Solving Ordinary Least Squares (OLS) Regression using Gradient Descent](https://ekarinpongpipat.com/blog_solving_ols_regression_using_gradient_descent.html)
+
++ [Why I migrated from Excel to R](https://outsiderdata.netlify.com/post/why-i-migrated-from-excel-to-r/)
+
++ [SQL Server Database connections in R](https://mainard.co.uk/post/database-connections-in-r/)
+
++ [SQL 101 in R](https://teachdatascience.com/sql/)
+
+
 
 
 ### R in the Real World
@@ -21,17 +42,23 @@ Release Date: 2019-06-24
 
 ![](https://i.imgur.com/Elzd0Sc.png)
 
++ [THE 10 TYPES OF BEATLES SONG](https://joshua-feldman.github.io/blog/the-10-types-of-beatles-song/)
+
+
 ###  R in Organizations
 
++ [Videos of NYR 2019](https://www.rstats.nyc/2019/nyr/)
 
 
 ###  R in Academia
 
-
+[Teaching replication in archaeology](https://github.com/benmarwick/teaching-replication-in-archaeology)
 
 ###  Resources
 
 + [The Promise and Perils of Packaging Your Processes (slides)](https://khailper.github.io/process_packaging_pres/#1)
+
++ [Introducing tsibbledata](https://www.mitchelloharawild.com/blog/tsibbledata/)
 
 
 ###  New Packages
@@ -40,15 +67,24 @@ Release Date: 2019-06-24
 
 **CRAN**
 
+- [git2rdata: Store and Retrieve Data.frames in a Git Repository](https://CRAN.R-project.org/package=git2rdata)
 
+- [basetheme: Themes for Base Graphics Plots](https://CRAN.R-project.org/package=basetheme)
 
-**BioC**
-
+- [tsibbledata: Diverse Datasets for 'tsibble'](https://CRAN.R-project.org/package=tsibbledata)
 
 
 **GitHub or Bitbucket**
 
 - [bbcharts: An interface to the Billboards Top Charts](https://github.com/josiahparry/bbcharts)
+
+- [holepunch: Make your R project Binder ready](https://github.com/karthik/holepunch)
+
+- [sortable: R htmlwidget for Sortable.js](https://github.com/rstudio/sortable)
+
+- [learndrake: An R package that teaches drake](https://github.com/wlandau/learndrake)
+
+- [bcdata: An R package for searching & retrieving data from the B.C. Data Catalogue](https://github.com/bcgov/bcdata)
 
 ### Updated Packages
 
@@ -56,7 +92,7 @@ Release Date: 2019-06-24
 
 ###  Videos and Podcasts
 
-
++ [Noam Ross - Reproducibility in an Office World: Tools for Crossing the Abyss](https://www.youtube.com/watch?v=sNLNTbiFsmE)
 
 ### Gist & Cookbook
 
@@ -109,3 +145,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here&#39;s a fun <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> design pattern I&#39;ve become more and more fond of: use magrittr&#39;s %T&gt;% tee operator to keep returning the original value in the chain of functions so you can do multiple things at once, like saving a ggplot in multiple formats <a href="https://t.co/yUF1WKEtjP">pic.twitter.com/yUF1WKEtjP</a></p>&mdash; Andrew Heiss, PhD (@andrewheiss) <a href="https://twitter.com/andrewheiss/status/1141853448591200256?ref_src=twsrc%5Etfw">June 20, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
