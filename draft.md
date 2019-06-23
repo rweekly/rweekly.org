@@ -52,13 +52,17 @@ Release Date: 2019-06-24
 
 ###  R in Academia
 
-[Teaching replication in archaeology](https://github.com/benmarwick/teaching-replication-in-archaeology)
++ [Teaching replication in archaeology](https://github.com/benmarwick/teaching-replication-in-archaeology)
+
++ [Code repository and raw data for Ebihara et al. 2019. "Growth Dynamics of the Independent Gametophytes of Pleurorosiopsis makinoi (Polypodiaceae)" Bulletin of the National Science Museum Series B (Botany) 45:77-86.](https://github.com/joelnitta/pleurosoriopsis)
 
 ###  Resources
 
 + [The Promise and Perils of Packaging Your Processes (slides)](https://khailper.github.io/process_packaging_pres/#1)
 
 + [Introducing tsibbledata](https://www.mitchelloharawild.com/blog/tsibbledata/)
+
++ [Free R (Shiny app): A collection of books about the R programming language and Data Science, that you can read for free!](https://committedtotape.shinyapps.io/freeR/)
 
 
 ###  New Packages
@@ -105,6 +109,8 @@ Release Date: 2019-06-24
 ###  Tutorials
 
 + [Changing Glyph in legend in ggplot2](https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/)
+
++ [A Printable Custom Weekly Planner with ggplot2](https://www.garrickadenbuie.com/blog/ggplot2-weekly-planner/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
