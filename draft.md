@@ -8,7 +8,11 @@ image: https://rweekly.org/public/facebook.png
 Release Date: 2019-06-24
 
 ###  Highlight
++ [The joy of functional programming](https://speakerdeck.com/hadley/the-joy-of-functional-programming)
 
++ [Videos of NYR 2019](https://www.rstats.nyc/2019/nyr/)
+
++ [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
 
 
 ### Insights
