@@ -13,6 +13,7 @@ Release Date: 2019-07-01
 
 ### Insights
 
++ [The Psychology of Flame Wars, re: dplyr vs. data.table debate](https://edwinth.github.io/blog/flamewars/)
 
 
 ### R in the Real World
