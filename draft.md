@@ -66,6 +66,10 @@ Release Date: 2019-07-01
 
 ###  Tutorials
 
++ [Build Thousands of Automated Demand Forecasts in 15 Minutes Using AutoCatBoostCARMA in R](https://www.remixinstitute.com/blog/automated-demand-forecasts-using-autocatboostcarma-in-r)
+
+<img src="https://i0.wp.com/www.remixinstitute.com/wp-content/uploads/asphalt-automotive-blacktop-2127733.jpg?w=1920&ssl=1" width="500"></img>
+
 
 
 <!--<div class="post-more-begi
