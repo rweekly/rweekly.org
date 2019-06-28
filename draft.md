@@ -18,7 +18,9 @@ Release Date: 2019-07-01
 
 ### R in the Real World
 
++ [Using AWK and R to parse 25tb](https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/)
 
++ [The Nelson Siegel Model and P2P Bonds: Financial Models using R](http://dm13450.github.io/2019/06/19/NelsonSeigelRateSetter.htmlhttps://)
 
 ###  R in Organizations
 
@@ -30,6 +32,7 @@ Release Date: 2019-07-01
 
 ###  Resources
 
++ [Introduction to R Markdown (slides and workshop materials)](https://github.com/saghirb/Rmarkdown-Intro-Workshop)
 
 
 ###  New Packages
@@ -70,6 +73,14 @@ Release Date: 2019-07-01
 
 <img src="https://i0.wp.com/www.remixinstitute.com/wp-content/uploads/asphalt-automotive-blacktop-2127733.jpg?w=1920&ssl=1" width="500"></img>
 
+
++ [Changing Glyph in legend in ggplot2](https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/)
+
+
++ [For and Against data.table](https://unconj.ca/blog/for-and-against-data-table.html)
+
+
++ [The Distribution of the Sample Maximum - application to hiring](https://eranraviv.com/distribution-sample-maximum/)
 
 
 <!--<div class="post-more-begi
