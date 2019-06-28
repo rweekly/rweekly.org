@@ -49,7 +49,7 @@ Release Date: 2019-07-01
 
 **GitHub or Bitbucket**
 
-
++ [pbjob: Run R Scripts and Jobs with Pushbullet Alerts](https://github.com/noamross/pbjob/)
 
 ### Updated Packages
 
