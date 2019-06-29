@@ -49,11 +49,11 @@ Release Date: 2019-07-01
 
 **GitHub or Bitbucket**
 
-
++ [pbjob: Run R Scripts and Jobs with Pushbullet Alerts](https://github.com/noamross/pbjob/)
 
 ### Updated Packages
 
-
++ [RcppArrayFire v0.1.0](https://stubner.me/post/2019/rcpparrayfire-v0-1-0-sparse-matrices-and-support-for-macos/): Support for sparse matrices and Mac OS
 
 ###  Videos and Podcasts
 
@@ -78,6 +78,8 @@ Release Date: 2019-07-01
 
 
 + [The Distribution of the Sample Maximum - application to hiring](https://eranraviv.com/distribution-sample-maximum/)
+
++ [Vignette: Write & Read Multiple Excel files with purrr](https://martinctc.github.io/blog/vignette-write-&-read-multiple-excel-files-with-purrr/)
 
 
 <!--<div class="post-more-begi
