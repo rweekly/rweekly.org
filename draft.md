@@ -36,6 +36,8 @@ Release Date: 2019-07-01
 
 + [On TIOBE Index](https://yihui.name/en/2019/06/tiobe-index/)
 
++ [Text Parsing and Text Analysis of a Periodic Report (with R)](https://tonyelhabr.rbind.io/post/text-parsing-analysis-periodic-report/)
+
 
 ###  R in Organizations
 
