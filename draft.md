@@ -53,7 +53,7 @@ Release Date: 2019-07-01
 
 ### Updated Packages
 
-
++ [RcppArrayFire v0.1.0](https://stubner.me/post/2019/rcpparrayfire-v0-1-0-sparse-matrices-and-support-for-macos/): Support for sparse matrices and Mac OS
 
 ###  Videos and Podcasts
 
