@@ -77,9 +77,6 @@ Release Date: 2019-07-01
 + [Changing Glyph in legend in ggplot2](https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/)
 
 
-+ [For and Against data.table](https://unconj.ca/blog/for-and-against-data-table.html)
-
-
 + [The Distribution of the Sample Maximum - application to hiring](https://eranraviv.com/distribution-sample-maximum/)
 
 
