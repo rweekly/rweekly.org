@@ -82,6 +82,8 @@ Release Date: 2019-07-01
 
 + [The Distribution of the Sample Maximum - application to hiring](https://eranraviv.com/distribution-sample-maximum/)
 
++ [Vignette: Write & Read Multiple Excel files with purrr](https://martinctc.github.io/blog/vignette-write-&-read-multiple-excel-files-with-purrr/)
+
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
