@@ -36,6 +36,8 @@ Release Date: 2019-07-01
 
 + [On TIOBE Index](https://yihui.name/en/2019/06/tiobe-index/)
 
++ [Text Parsing and Text Analysis of a Periodic Report (with R)](https://tonyelhabr.rbind.io/post/text-parsing-analysis-periodic-report/)
+
 
 ###  R in Organizations
 
@@ -168,6 +170,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 Events in 3 Months:
 
 + [useR2019](http://www.user2019.fr/)
+
++ [TokyoR #80, July 27](https://tokyor.connpass.com/)
 
 + [Mexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools
 
