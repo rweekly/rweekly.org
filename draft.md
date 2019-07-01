@@ -72,6 +72,8 @@ Release Date: 2019-07-08
 
 ###  Tutorials
 
++ [How to make stunning 3D Plots for better storytelling?](https://towardsdatascience.com/how-to-make-stunning-3d-plots-for-better-storytelling-5c93aec80503)
+
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
