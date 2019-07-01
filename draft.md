@@ -76,6 +76,9 @@ Release Date: 2019-07-08
 
 + [How to make stunning 3D Plots for better storytelling?](https://towardsdatascience.com/how-to-make-stunning-3d-plots-for-better-storytelling-5c93aec80503)
 
++ [Build Thousands of Automated Demand Forecasts in 15 Minutes Using AutoCatBoostCARMA in R](https://www.remixinstitute.com/blog/automated-demand-forecasts-using-autocatboostcarma-in-r)
+
+<img src="https://i1.wp.com/www.remixinstitute.com/wp-content/uploads/asphalt-automotive-blacktop-2127733.jpg?w=1920&ssl=1" width="500"></img>
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
