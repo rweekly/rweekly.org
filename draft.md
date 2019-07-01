@@ -13,20 +13,24 @@ Release Date: 2019-07-01
 
 ### Insights
 
-+ [The Psychology of Flame Wars, re: dplyr vs. data.table debate](https://edwinth.github.io/blog/flamewars/)
++ [Create Easy to Follow Technical Tutorials](https://www.littlemissdata.com/blog/technical-tutorials)
+
 
 + [Stata 16, as seen from R](https://f.briatte.org/r/stata-16-as-seen-from-r)
 
 + [data.table is Much Better Than You Have Been Told](http://www.win-vector.com/blog/2019/06/data-table-is-much-better-than-you-have-been-told/)
 
-+ [Create Easy to Follow Technical Tutorials](https://www.littlemissdata.com/blog/technical-tutorials)
-
++ [The Psychology of Flame Wars, re: dplyr vs. data.table debate](https://edwinth.github.io/blog/flamewars/)
 
 ### R in the Real World
 
++ [Text Parsing and Text Analysis of a Periodic Report (with R)](https://tonyelhabr.rbind.io/post/text-parsing-analysis-periodic-report/)
+
+![Text Parsing and Text Analysis of a Periodic Report (with R)](https://raw.githubusercontent.com/rweekly/image/master/2019/viz_sents_section_sim.png)
+
 + [Using AWK and R to parse 25tb](https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/)
 
-+ [The Nelson Siegel Model and P2P Bonds: Financial Models using R](http://dm13450.github.io/2019/06/19/NelsonSeigelRateSetter.htmlhttps://)
++ [The Nelson Siegel Model and P2P Bonds: Financial Models using R](http://dm13450.github.io/2019/06/19/NelsonSeigelRateSetter.html)
 
 + [Causation doesn’t imply Correlation either](http://blog.ephorie.de/causation-doesnt-imply-correlation-either)
 
@@ -35,8 +39,6 @@ Release Date: 2019-07-01
 
 
 + [On TIOBE Index](https://yihui.name/en/2019/06/tiobe-index/)
-
-+ [Text Parsing and Text Analysis of a Periodic Report (with R)](https://tonyelhabr.rbind.io/post/text-parsing-analysis-periodic-report/)
 
 
 ###  R in Organizations
@@ -63,6 +65,7 @@ Release Date: 2019-07-01
 
 + [May 2019: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2019/06/25/may-2019-top-40-new-cran-packages/)
 
+![May 2019: "Top 40" New CRAN Packages](https://raw.githubusercontent.com/rweekly/image/master/2019/radarBoxplot.png)
 
 **BioC**
 
@@ -78,9 +81,9 @@ Release Date: 2019-07-01
 
 + [rlang 0.4.0](https://www.tidyverse.org/articles/2019/06/rlang-0-4-0/) - curly-curly, a new operator to make it easier to create #rstats functions around #tidyverse pipelines.
 
-+ [RcppArrayFire v0.1.0](https://stubner.me/post/2019/rcpparrayfire-v0-1-0-sparse-matrices-and-support-for-macos/): Support for sparse matrices and Mac OS
++ [RcppArrayFire v0.1.0](https://stubner.me/post/2019/rcpparrayfire-v0-1-0-sparse-matrices-and-support-for-macos/) - Support for sparse matrices and Mac OS
 
-+ [MODIStsp 1.3.9](https://lbusett.netlify.com/post/modistsp-v-1-3-9-is-out/)
++ [MODIStsp 1.3.9](https://lbusett.netlify.com/post/modistsp-v-1-3-9-is-out/) - A Tool for Automating Download and Preprocessing of MODIS Land Products Data
 
 + [RStudio Connect 1.7.6](https://blog.rstudio.com/2019/06/24/rstudio-connect-1-7-6/) -  Publish Git-backed Content
 
@@ -102,15 +105,11 @@ Release Date: 2019-07-01
 
 ###  Tutorials
 
-+ [Build Thousands of Automated Demand Forecasts in 15 Minutes Using AutoCatBoostCARMA in R](https://www.remixinstitute.com/blog/automated-demand-forecasts-using-autocatboostcarma-in-r)
-
-<img src="https://i0.wp.com/www.remixinstitute.com/wp-content/uploads/asphalt-automotive-blacktop-2127733.jpg?w=1920&ssl=1" width="500"></img>
-
-+ [INFORMATION THEORY PROVIDES A CONSISTENT FRAMEWORK FOR THE ANALYSIS OF SPATIAL PATTERNS](https://nowosad.github.io/post/ent-bp1/)
++ [Information Theory Provides a Consistent Framework for the Analysis of Spatial Patterns](https://nowosad.github.io/post/ent-bp1/)
 
 + [A Model and Simulation of Emotion Dynamics](https://willhipson.netlify.com/post/emotion-simulation1/emotion_sim/)
 
-![A Model and Simulation of Emotion Dynamics](https://willhipson.netlify.com/post/emotion-simulation1/Emotion_Simulation_files/figure-html/unnamed-chunk-9-1.gif)
+![A Model and Simulation of Emotion Dynamics](https://raw.githubusercontent.com/rweekly/image/master/2019/dynamic.gif)
 
 + [Changing Glyph in legend in ggplot2](https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/)
 
@@ -122,7 +121,8 @@ Release Date: 2019-07-01
 
 + [How data.table's fread can save you a lot of time and memory, and take input from shell commands](https://jozef.io/r917-fread-comparisons/)
 
-+ [Automated demand forecasts using autocatboostcarma in r](https://www.remixinstitute.com/blog/automated-demand-forecasts-using-autocatboostcarma-in-r/)
+<!-- + [Automated demand forecasts using autocatboostcarma in r](https://www.remixinstitute.com/blog/automated-demand-forecasts-using-autocatboostcarma-in-r/) -->
+<!-- 404 error -->
 
 + [My Free Online Tutorial on R](https://matloff.wordpress.com/2019/06/23/my-free-online-tutorial-on-r/)
 
@@ -131,7 +131,7 @@ Release Date: 2019-07-01
 
 + [Stacked Waterfall Graphs in R](https://www.stomperusa.com/2019/06/22/stacked-waterfall-graphs-in-r/)
 
-![Stacked Waterfall Graphs in R](https://www.stomperusa.com/post/2019-06-22-stacked-waterfall-graphs-in-r_files/figure-html/unnamed-chunk-10-1.png)
+![Stacked Waterfall Graphs in R](https://raw.githubusercontent.com/rweekly/image/master/2019/flow2.png)
 
 + [Many similar models - Part 1: How to make a function for model fitting](https://aosmith.rbind.io/2019/06/24/function-for-model-fitting/)
 
@@ -149,7 +149,6 @@ Release Date: 2019-07-01
 
 + [shinyApp(), runApp(), shinyAppDir(), and a fourth option](https://rtask.thinkr.fr/blog/shinyapp-runapp-shinyappdir-difference/)
 
-+ [Too important to leave to the data scientists](http://freerangestats.info/blog/2019/06/28/too-important-for-data-scientists)
 
 + [New Versions of R GUIs: BlueSky, JASP, jamovi](http://r4stats.com/2019/06/18/new-versions-of-r-guis/)
 
