@@ -22,6 +22,8 @@ Release Date: 2019-07-08
 
 
 
++ [Text Parsing and Text Analysis of a Periodic Report (with R)](https://tonyelhabr.rbind.io/post/text-parsing-analysis-periodic-report/)
+
 
 ###  R in Organizations
 
