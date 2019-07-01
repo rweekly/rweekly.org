@@ -117,7 +117,7 @@ Release Date: 2019-07-01
 
 + [The Distribution of the Sample Maximum - application to hiring](https://eranraviv.com/distribution-sample-maximum/)
 
-+ [Vignette: Write & Read Multiple Excel files with purrr](https://martinctc.github.io/blog/vignette-write-&-read-multiple-excel-files-with-purrr/)
++ [Vignette: Write & Read Multiple Excel files with purrr](https://martinctc.github.io/blog/vignette-write-and-read-multiple-excel-files-with-purrr/)
 
 + [How data.table's fread can save you a lot of time and memory, and take input from shell commands](https://jozef.io/r917-fread-comparisons/)
 
