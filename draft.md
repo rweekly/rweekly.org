@@ -95,6 +95,8 @@ Events in 3 Months:
 
 + [Mexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools
 
++ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D
+
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
