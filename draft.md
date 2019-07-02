@@ -27,7 +27,9 @@ Release Date: 2019-07-08
 
 ###  R in Organizations
 
++ [BioC2019 Notes](https://docs.google.com/document/d/1ylziUypDwwuKKC3J5_6KaW-OJVxs_gu1x6LjJOQ6olk/edit#heading=h.37s3ufw76jth)
 
++ [BiocWorkshops2019](https://github.com/Bioconductor/BiocWorkshops2019)
 
 ###  R in Academia
 
@@ -78,7 +80,6 @@ Release Date: 2019-07-08
 
 + [Build Thousands of Automated Demand Forecasts in 15 Minutes Using AutoCatBoostCARMA in R](https://www.remixinstitute.com/blog/automated-demand-forecasts-using-autocatboostcarma-in-r)
 
-<img src="https://i1.wp.com/www.remixinstitute.com/wp-content/uploads/asphalt-automotive-blacktop-2127733.jpg?w=1920&ssl=1" width="500"></img>
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
