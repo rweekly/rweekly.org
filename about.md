@@ -15,7 +15,7 @@ Mail R Weekly - mail at rweekly.org
 
 Team Members (alphabet order)
 
-[Bruce Zhao](https://github.com/BruceZhaoR), [Colin Fay](https://github.com/ColinFay), [Eric Nantz](https://github.com/thercast), [Hao Zhu](https://github.com/haozhu233), [Jasmine Dumas](https://github.com/jasduma), [Jon Calder](https://github.com/jonmcalder), [Jonathan Carroll](https://github.com/jonocarroll), [Kun Ren](https://github.com/renkun-ken), [Maëlle Salmon](https://github.com/maelle), [Ryo Nakagawara](https://github.com/Ryo-N7), [Tracy Shen](https://github.com/tbs17/), [Wolfram Qin](https://github.com/qinwf)
+[Bruce Zhao](https://github.com/BruceZhaoR), [Colin Fay](https://github.com/ColinFay), [Eric Nantz](https://github.com/thercast), [Hao Zhu](https://github.com/haozhu233), [Jon Calder](https://github.com/jonmcalder), [Jonathan Carroll](https://github.com/jonocarroll), [Maëlle Salmon](https://github.com/maelle), [Ryo Nakagawara](https://github.com/Ryo-N7), [Wolfram Qin](https://github.com/qinwf)
 
 ## Social Medias
 
