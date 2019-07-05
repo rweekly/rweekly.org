@@ -19,6 +19,9 @@ Release Date: 2019-07-08
 ### R in the Real World
 
 
++ [Celebrating £1.4bn for the Global Fund - Trying out gganimate on Tuberculosis data from getTBinR](https://www.samabbott.co.uk/post/tb-gifs/) 
+
+![Storyboard GIF of TB incidence rates](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-gif.gif)
 
 
 
