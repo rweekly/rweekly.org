@@ -13,7 +13,7 @@ Release Date: 2019-07-08
 
 ### Insights
 
-
++ [A Short Essay on Duplicated R Artefacts](https://martinctc.github.io/blog/a-short-essay-on-duplicated-r-artefacts/)
 
 
 ### R in the Real World
