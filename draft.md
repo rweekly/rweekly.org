@@ -13,19 +13,21 @@ Release Date: 2019-07-08
 
 ### Insights
 
++ [79th TokyoR Meetup: {tidyr} 1.0.0, RAW image processing, and more!](https://ryo-n7.github.io/2019-07-05-tokyoR-79-roundup/)
 
-
++ [Imagine Your Data Before You Collect It - R Views](https://rviews.rstudio.com/2019/07/01/imagine-your-data-before-you-collect-it/)
 
 ### R in the Real World
-
 
 + [Celebrating £1.4bn for the Global Fund - Trying out gganimate on Tuberculosis data from getTBinR](https://www.samabbott.co.uk/post/tb-gifs/) 
 
 ![Storyboard GIF of TB incidence rates](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-gif.gif)
 
-
-
 + [Text Parsing and Text Analysis of a Periodic Report (with R)](https://tonyelhabr.rbind.io/post/text-parsing-analysis-periodic-report/)
+
++ [Optimal Transport on Large Networks: A Practitioner Guide](https://optimalnetwork.github.io/)
+
+![](https://f.hypotheses.org/wp-content/blogs.dir/253/files/2019/07/RankingMaternityWards.png)
 
 
 ###  R in Organizations
@@ -58,7 +60,7 @@ Release Date: 2019-07-08
 
 **GitHub or Bitbucket**
 
-
++ [twittercache: Robust sampling of a Twitter network](https://github.com/alexpghayes/twittercache)
 
 
 ### Updated Packages
@@ -83,6 +85,11 @@ Release Date: 2019-07-08
 
 + [Build Thousands of Automated Demand Forecasts in 15 Minutes Using AutoCatBoostCARMA in R](https://www.remixinstitute.com/blog/automated-demand-forecasts-using-autocatboostcarma-in-r)
 
++ [Reordering and facetting for ggplot2!](https://juliasilge.com/blog/reorder-within/)
+
++ [How to pick a random number from 1-10](https://torvaney.github.io/projects/human-rng)
+
++ [Experimentation with Unsupervised Learning](https://r-house.netlify.com/2019/07/04/experimentation-with-unsupervised-learning/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
