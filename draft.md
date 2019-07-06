@@ -13,9 +13,12 @@ Release Date: 2019-07-08
 
 ### Insights
 
++ [A Short Essay on Duplicated R Artefacts](https://martinctc.github.io/blog/a-short-essay-on-duplicated-r-artefacts/)
+
 + [79th TokyoR Meetup: {tidyr} 1.0.0, RAW image processing, and more!](https://ryo-n7.github.io/2019-07-05-tokyoR-79-roundup/)
 
 + [Imagine Your Data Before You Collect It - R Views](https://rviews.rstudio.com/2019/07/01/imagine-your-data-before-you-collect-it/)
+
 
 ### R in the Real World
 
