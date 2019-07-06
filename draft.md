@@ -32,6 +32,8 @@ Release Date: 2019-07-08
 
 ![](https://f.hypotheses.org/wp-content/blogs.dir/253/files/2019/07/RankingMaternityWards.png)
 
++ [Comrades Marathon (2019) Splits](https://datawookie.netlify.com/blog/2019/07/comrades-marathon-2019-splits/)
+
 
 ###  R in Organizations
 
@@ -39,13 +41,15 @@ Release Date: 2019-07-08
 
 + [BiocWorkshops2019](https://github.com/Bioconductor/BiocWorkshops2019)
 
++ [Updates on Microsoft's R Roadmap in Azure](https://blog.revolutionanalytics.com/2019/07/azure-r-roadmap.html)
+
 ###  R in Academia
 
 
 
 ###  Resources
 
-
++ [Prob/Stat for Data Sci: Math + R + Data](https://matloff.wordpress.com/2019/06/30/prob-stat-for-data-sci-math-r-data/)
 
 
 ###  New Packages
@@ -54,8 +58,9 @@ Release Date: 2019-07-08
 
 **CRAN**
 
++ [jSDM: Joint Species Distribution Models in a hierarchical Bayesian framework](https://ecology.ghislainv.fr/jSDM/index.html)
 
-
++ [economiccomplexity   Methods Used in the Economic Complexity Literature](https://cran.r-project.org/package=economiccomplexity)
 
 **BioC**
 
@@ -68,7 +73,11 @@ Release Date: 2019-07-08
 
 ### Updated Packages
 
++ [odin: ODE Generation and Integration](https://cran.r-project.org/package=odin)
 
++ [NNLM: Fast and Versatile Non-Negative Matrix Factorization](https://cran.r-project.org/package=NNLM)
+
++ [factorMerger: The Merging Path Plot](https://cran.r-project.org/package=factorMerger)
 
 ###  Videos and Podcasts
 
@@ -93,6 +102,12 @@ Release Date: 2019-07-08
 + [How to pick a random number from 1-10](https://torvaney.github.io/projects/human-rng)
 
 + [Experimentation with Unsupervised Learning](https://r-house.netlify.com/2019/07/04/experimentation-with-unsupervised-learning/)
+
++ [Make Refreshing Segmented Column Charts with {ggchicklet}](https://rud.is/b/2019/06/30/make-refreshing-segmented-column-charts-with-ggchicklet/)
+
++ [Replicating a Linear Model](http://www.win-vector.com/blog/2019/07/replicating-a-linear-model/)
+
++ [Communication between modules and its whims](https://rtask.thinkr.fr/blog/communication-between-modules-and-its-whims/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
