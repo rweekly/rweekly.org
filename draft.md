@@ -19,6 +19,10 @@ Release Date: 2019-07-08
 
 + [Imagine Your Data Before You Collect It - R Views](https://rviews.rstudio.com/2019/07/01/imagine-your-data-before-you-collect-it/)
 
++ [Why I Love data.table](https://eliocamp.github.io/codigo-r/en/2019/07/why-i-love-data-table/)
+
++ [{glue} magic: Part 1](https://www.njtierney.com/post/2019/07/07/glue-magic-p1/)
+
 
 ### R in the Real World
 
@@ -33,6 +37,8 @@ Release Date: 2019-07-08
 ![](https://f.hypotheses.org/wp-content/blogs.dir/253/files/2019/07/RankingMaternityWards.png)
 
 + [Comrades Marathon (2019) Splits](https://datawookie.netlify.com/blog/2019/07/comrades-marathon-2019-splits/)
+
++ [Exploring {gt} with useR! 2019 Schedule](citizen-statistician.org/2019/07/exploring-gt-with-user-2019-schedule/)
 
 
 ###  R in Organizations
@@ -51,6 +57,7 @@ Release Date: 2019-07-08
 
 + [Prob/Stat for Data Sci: Math + R + Data](https://matloff.wordpress.com/2019/06/30/prob-stat-for-data-sci-math-r-data/)
 
++ [useR! 2019 Schedule! (Made with {gt} & {flexdashboard})](https://connect.rstudioservices.com/content/331/user2019-schedule.html)
 
 ###  New Packages
 
@@ -110,6 +117,10 @@ Release Date: 2019-07-08
 + [Communication between modules and its whims](https://rtask.thinkr.fr/blog/communication-between-modules-and-its-whims/)
 
 + [Making a Cheat Sheet with Rmarkdown](https://tonyelhabr.rbind.io/post/cheat-sheet-rmarkdown/)
+
++ [Curly Curly: How to pass bare variable arguments to things?](https://www.njtierney.com/post/2019/07/06/jq-bare-vars/)
+
++ [Exploring The Guardian's "The Knowledge" Football Trivia (June 2019)](http://www.robert-hickman.eu/post/guardian_knowledge_june/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
