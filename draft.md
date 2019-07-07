@@ -109,6 +109,8 @@ Release Date: 2019-07-08
 
 + [Communication between modules and its whims](https://rtask.thinkr.fr/blog/communication-between-modules-and-its-whims/)
 
++ [Making a Cheat Sheet with Rmarkdown](https://tonyelhabr.rbind.io/post/cheat-sheet-rmarkdown/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
