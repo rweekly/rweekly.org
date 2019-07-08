@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2019-27
+title: R Weekly 2019-28
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-07-08
+Release Date: 2019-07-15
 
 ###  Highlight
 
@@ -15,28 +15,19 @@ Release Date: 2019-07-08
 
 
 
-
 ### R in the Real World
 
 
 
-
-
-+ [Text Parsing and Text Analysis of a Periodic Report (with R)](https://tonyelhabr.rbind.io/post/text-parsing-analysis-periodic-report/)
-
-
 ###  R in Organizations
 
-+ [BioC2019 Notes](https://docs.google.com/document/d/1ylziUypDwwuKKC3J5_6KaW-OJVxs_gu1x6LjJOQ6olk/edit#heading=h.37s3ufw76jth)
 
-+ [BiocWorkshops2019](https://github.com/Bioconductor/BiocWorkshops2019)
 
 ###  R in Academia
 
 
 
 ###  Resources
-
 
 
 
@@ -48,13 +39,11 @@ Release Date: 2019-07-08
 
 
 
-
 **BioC**
 
 
 
 **GitHub or Bitbucket**
-
 
 
 
@@ -76,9 +65,6 @@ Release Date: 2019-07-08
 
 ###  Tutorials
 
-+ [How to make stunning 3D Plots for better storytelling?](https://towardsdatascience.com/how-to-make-stunning-3d-plots-for-better-storytelling-5c93aec80503)
-
-+ [Build Thousands of Automated Demand Forecasts in 15 Minutes Using AutoCatBoostCARMA in R](https://www.remixinstitute.com/blog/automated-demand-forecasts-using-autocatboostcarma-in-r)
 
 
 <!--<div class="post-more-begi
@@ -92,8 +78,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [useR2019](http://www.user2019.fr/)
 
 + [TokyoR #80, July 27](https://tokyor.connpass.com/)
 
