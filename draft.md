@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2019-27
+title: R Weekly 2019-28
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-07-08
+Release Date: 2019-07-15
 
 ###  Highlight
 
@@ -13,41 +13,15 @@ Release Date: 2019-07-08
 
 ### Insights
 
-+ [A Short Essay on Duplicated R Artefacts](https://martinctc.github.io/blog/a-short-essay-on-duplicated-r-artefacts/)
-
-+ [79th TokyoR Meetup: {tidyr} 1.0.0, RAW image processing, and more!](https://ryo-n7.github.io/2019-07-05-tokyoR-79-roundup/)
-
-+ [Imagine Your Data Before You Collect It - R Views](https://rviews.rstudio.com/2019/07/01/imagine-your-data-before-you-collect-it/)
-
-+ [Why I Love data.table](https://eliocamp.github.io/codigo-r/en/2019/07/why-i-love-data-table/)
-
-+ [{glue} magic: Part 1](https://www.njtierney.com/post/2019/07/07/glue-magic-p1/)
 
 
 ### R in the Real World
 
-+ [Celebrating £1.4bn for the Global Fund - Trying out gganimate on Tuberculosis data from getTBinR](https://www.samabbott.co.uk/post/tb-gifs/) 
-
-![Storyboard GIF of TB incidence rates](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-gif.gif)
-
-+ [Text Parsing and Text Analysis of a Periodic Report (with R)](https://tonyelhabr.rbind.io/post/text-parsing-analysis-periodic-report/)
-
-+ [Optimal Transport on Large Networks: A Practitioner Guide](https://optimalnetwork.github.io/)
-
-![](https://f.hypotheses.org/wp-content/blogs.dir/253/files/2019/07/RankingMaternityWards.png)
-
-+ [Comrades Marathon (2019) Splits](https://datawookie.netlify.com/blog/2019/07/comrades-marathon-2019-splits/)
-
-+ [Exploring {gt} with useR! 2019 Schedule](citizen-statistician.org/2019/07/exploring-gt-with-user-2019-schedule/)
 
 
 ###  R in Organizations
 
-+ [BioC2019 Notes](https://docs.google.com/document/d/1ylziUypDwwuKKC3J5_6KaW-OJVxs_gu1x6LjJOQ6olk/edit#heading=h.37s3ufw76jth)
 
-+ [BiocWorkshops2019](https://github.com/Bioconductor/BiocWorkshops2019)
-
-+ [Updates on Microsoft's R Roadmap in Azure](https://blog.revolutionanalytics.com/2019/07/azure-r-roadmap.html)
 
 ###  R in Academia
 
@@ -55,9 +29,7 @@ Release Date: 2019-07-08
 
 ###  Resources
 
-+ [Prob/Stat for Data Sci: Math + R + Data](https://matloff.wordpress.com/2019/06/30/prob-stat-for-data-sci-math-r-data/)
 
-+ [useR! 2019 Schedule! (Made with {gt} & {flexdashboard})](https://connect.rstudioservices.com/content/331/user2019-schedule.html)
 
 ###  New Packages
 
@@ -65,9 +37,7 @@ Release Date: 2019-07-08
 
 **CRAN**
 
-+ [jSDM: Joint Species Distribution Models in a hierarchical Bayesian framework](https://ecology.ghislainv.fr/jSDM/index.html)
 
-+ [economiccomplexity   Methods Used in the Economic Complexity Literature](https://cran.r-project.org/package=economiccomplexity)
 
 **BioC**
 
@@ -75,16 +45,11 @@ Release Date: 2019-07-08
 
 **GitHub or Bitbucket**
 
-+ [twittercache: Robust sampling of a Twitter network](https://github.com/alexpghayes/twittercache)
 
 
 ### Updated Packages
 
-+ [odin: ODE Generation and Integration](https://cran.r-project.org/package=odin)
 
-+ [NNLM: Fast and Versatile Non-Negative Matrix Factorization](https://cran.r-project.org/package=NNLM)
-
-+ [factorMerger: The Merging Path Plot](https://cran.r-project.org/package=factorMerger)
 
 ###  Videos and Podcasts
 
@@ -100,27 +65,7 @@ Release Date: 2019-07-08
 
 ###  Tutorials
 
-+ [How to make stunning 3D Plots for better storytelling?](https://towardsdatascience.com/how-to-make-stunning-3d-plots-for-better-storytelling-5c93aec80503)
 
-+ [Build Thousands of Automated Demand Forecasts in 15 Minutes Using AutoCatBoostCARMA in R](https://www.remixinstitute.com/blog/automated-demand-forecasts-using-autocatboostcarma-in-r)
-
-+ [Reordering and facetting for ggplot2!](https://juliasilge.com/blog/reorder-within/)
-
-+ [How to pick a random number from 1-10](https://torvaney.github.io/projects/human-rng)
-
-+ [Experimentation with Unsupervised Learning](https://r-house.netlify.com/2019/07/04/experimentation-with-unsupervised-learning/)
-
-+ [Make Refreshing Segmented Column Charts with {ggchicklet}](https://rud.is/b/2019/06/30/make-refreshing-segmented-column-charts-with-ggchicklet/)
-
-+ [Replicating a Linear Model](http://www.win-vector.com/blog/2019/07/replicating-a-linear-model/)
-
-+ [Communication between modules and its whims](https://rtask.thinkr.fr/blog/communication-between-modules-and-its-whims/)
-
-+ [Making a Cheat Sheet with Rmarkdown](https://tonyelhabr.rbind.io/post/cheat-sheet-rmarkdown/)
-
-+ [Curly Curly: How to pass bare variable arguments to things?](https://www.njtierney.com/post/2019/07/06/jq-bare-vars/)
-
-+ [Exploring The Guardian's "The Knowledge" Football Trivia (June 2019)](http://www.robert-hickman.eu/post/guardian_knowledge_june/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
@@ -133,8 +78,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [useR2019](http://www.user2019.fr/)
 
 + [TokyoR #80, July 27](https://tokyor.connpass.com/)
 
