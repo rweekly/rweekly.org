@@ -49,7 +49,7 @@ Release Date: 2019-07-15
 
 ### Updated Packages
 
-
++ [swephR v0.2.1](https://stubner.me/2019/07/swephr-v0-2-1/) - all the features from [v0.2.0](https://stubner.me/2019/07/swephr-v0-2-0/) without the UBSAN-bug
 
 ###  Videos and Podcasts
 
