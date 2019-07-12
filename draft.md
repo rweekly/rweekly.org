@@ -30,7 +30,7 @@ Release Date: 2019-07-15
     + [Headless Chrome Automation with R: About the crrri package](https://cderv.gitlab.io/user2019-crrri/#1)
     + [Visualising high-dimensional data: New developments of the tourr package using Shiny and plotly](https://uschilaa.github.io/useR2019/#1)
     + [Visualizing Huge Amounts of Fleet Data using Shiny and Leaflet](https://github.com/wittmaan/UseR2019/blob/master/slides/slides_wittmann_20190619.pdf)
-    + [colorspace: A Toolbox for Manipulating and Assessing Color Palettes](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://eeecon.uibk.ac.at/~zeileis/papers/useR-2019.pdf)
+    + [colorspace: A Toolbox for Manipulating and Assessing Color Palettes](https://eeecon.uibk.ac.at/~zeileis/papers/useR-2019.pdf)
     + [vegawidget: Composing and Rendering Interactive Vega(-Lite) Charts](https://vegawidget.rbind.io/posts/2019-07-10-user-2019-presentation/)
     + [auth0: Secure authentication in Shiny Apps](https://github.com/jtrecenti/slides/blob/master/20190620_auth0/index.pdf)
     + [{ropsec: a package for easing operations security for the R user}](https://speakerdeck.com/czeildi/ropsec-a-package-for-easing-operations-security-for-the-r-user)
