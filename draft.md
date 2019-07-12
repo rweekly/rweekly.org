@@ -70,6 +70,7 @@ Release Date: 2019-07-15
     + [HTTP Requests For R Users and Package Developers](https://scotttalks.info/user-http/#/intro)
     + [Creating privacy protecting density maps: sdcSpatial](https://github.com/edwindj/sdcSpatial/raw/master/useR2019/presentation.pdf)
     + [goodpractice - A Tool for Good Package Development](https://mangothecat.github.io/goodpractice/index.html)
+    + [Flexible futures for fable functionality](https://slides.mitchelloharawild.com/user2019/)
 
 + [useR! 2019 and R for French users](https://f.briatte.org/r/user-2019-and-r-for-french-users)
 + [Chat with rOpenSci Contributors at useR!2019](https://ropensci.org/blog/2019/07/08/user2019/)
