@@ -18,6 +18,7 @@ Release Date: 2019-07-15
 + [Keynote presentation recordings](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=user2019)
 + Presentation slides:
     + [R for better science in less time](https://github.com/jules32/useR-2019-keynote?files=1)
+    + [Shiny's Holy Grail: Interactivity with reproducibility](https://github.com/jcheng5/shinymeta-user2019-talk)
     + [The "Rmd first" method: when projects start with documentation](https://github.com/statnmap/prez/blob/master/2019-07_useR_Toulouse.pdf)
     + [Insights from the recent R community development and growth in Latin America](https://lacion.rbind.io/talk/2019_user/)
     + [Reproducible data science to inform outbreak response](https://docs.google.com/presentation/d/1yjEideF-YcNerme6O-GQ3ZSAJQ51ZpBdAZTYpeYx8AY/edit#slide=id.p)
@@ -58,18 +59,48 @@ Release Date: 2019-07-15
     + [Get up to speed with Bayesian data analysis in R](https://docs.google.com/presentation/d/1Lv5_IBi_PXbtp8FbA8-qBI0PwJAvPlP9OZ-6t6l6gwM/edit#slide=id.p)
     + [Visualisation of open-ended interviews through qualitative coding and cognitive mapping](https://frdvnw.gitlab.io/user2019/)
     + [A missing value tour in R](http://juliejosse.com/wp-content/uploads/2019/07/useRjosse_2019.pdf)
+    + [Art of the Feature Toggle: Patterns for maintaining and improving Shiny applications over time](https://speakerdeck.com/kellobri/art-of-the-feature-toggle)
+    + [Bridging agent-based modelling and R with nlrx: simulating pedestrian's long-term exposure to air pollution](https://github.com/mrsensible/user2019)
+    + [PEREpigenomics: a shiny app to visualize Roadmap Epigenomics data](https://gdevailly.github.io/devailly_perepigenomics_useR2019/devailly_PEREpigenomics_useR.html#1)
+    + [You don't need Spark for this - larger-than-RAM data manipulation with disk.frame](https://www.beautiful.ai/player/-LjSuALfOEI8eYcGj_SD/diskframe-useR-2019)
+    + [Teaching data science with puzzles](https://github.com/isteves/ds-puzzles)
+    + [Data Science in a Box](https://speakerdeck.com/minecr/data-science-in-a-box)
+    + [Data for all: Empowering teams with scalable Shiny application](https://www.slideshare.net/RuanPearceAuthers/data-for-all-empowering-teams-with-scalable-shiny-applications-user-2019)
+    + [HTTP Requests For R Users and Package Developers](https://scotttalks.info/user-http/#/intro)
+    + [Creating privacy protecting density maps: sdcSpatial](https://github.com/edwindj/sdcSpatial/raw/master/useR2019/presentation.pdf)
+    + [goodpractice - A Tool for Good Package Development](https://mangothecat.github.io/goodpractice/index.html)
+
++ [useR! 2019 and R for French users](https://f.briatte.org/r/user-2019-and-r-for-french-users)
++ [Chat with rOpenSci Contributors at useR!2019](https://ropensci.org/blog/2019/07/08/user2019/)
+
 
 ### Insights
 
-
++ [Twitter influencers for #useR2019](https://johnguerra.co/viz/influentials/story/?hashtag=useR2019)
++ [Programming Over lm() in R](http://www.win-vector.com/blog/2019/07/programming-over-lm-in-r/)
++ [Link Functions versus Data Transforms](http://www.win-vector.com/blog/2019/07/link-functions-versus-data-transforms/)
++ [Thoughts on Animation and Movement in Data Visualization](http://daranzolin.github.io/2019-07-07-animation-thoughts/)
++ [Le Monde puzzle [#1105]](https://xianblog.wordpress.com/2019/07/08/le-monde-puzzle-1105/)
++ [Introducing tidylo](https://juliasilge.com/blog/introducing-tidylo/)
++ [CRAN Release of R/exams 2.3-3 and 2.3-4](http://www.R-exams.org/general/cran_release_234/)
++ [R/exams @ useR! 2019](http://www.R-exams.org/general/user2019/)
++ [Dividend Sleuthing with R](https://rviews.rstudio.com/2019/07/09/dividend-sleuthing-with-r/)
++ [CRAN does not validate R packages!](https://xianblog.wordpress.com/2019/07/10/cran-does-not-validate-r-packages/)
++ [Stress Testing Dynamic R/exams Exercises](http://www.R-exams.org/tutorials/stresstest/)
++ [R 3.6.1 is now available](https://blog.revolutionanalytics.com/2019/07/r-361-is-now-available.html)
++ [Rmd first: When development starts with documentation](https://rtask.thinkr.fr/blog/rmd-first-when-development-starts-with-documentation/)
++ [Common Ensemble Models can be Biased](http://www.win-vector.com/blog/2019/07/common-ensemble-models-can-be-biased/)
++ [S4: a short guide for the perplexed](https://stuartlee.org/post/content/post/2019-07-09-s4-a-short-guide-for-perplexed/)
++ [match.arg: a weird function that can help you write better functions](https://alistaire.rbind.io/blog/match.arg/)
++ [swephR package updated on CRAN ](https://stubner.me/2019/07/swephr-v0-2-0/)
 
 ### R in the Real World
 
-
++ [Visualize monthly precipitation anomalies](https://dominicroye.github.io/en/2019/visualize-monthly-precipitation-anomalies/)
 
 ###  R in Organizations
 
-
++ [Community Call - Reproducible Research with R](https://ropensci.org/blog/2019/07/11/commcall-jul2019/)
 
 ###  R in Academia
 
@@ -86,18 +117,30 @@ Release Date: 2019-07-15
 **CRAN**
 
 
-
 **BioC**
 
 
 
 **GitHub or Bitbucket**
 
++ [inferregex](https://github.com/daranzolin/inferregex) - Infer the (regex) of a string
++ [holepunch](https://karthik.github.io/holepunch/) - Configure Your R Project for 'binderhub'
++ [rscodio](https://github.com/anthonynorth/rscodeio) - An RStudio theme inspired by Visual Studio Code
++ [r-devel-archive](https://github.com/MichaelChirico/r-devel-archive) - Plaintext back-up of r-devel archives
++ [mapscanner](https://github.com/mpadge/mapscanner) - Off the wall application of medical image registration package to automate spatial feature parsing on hand annotated maps
 
 
 ### Updated Packages
 
 + [swephR v0.2.1](https://stubner.me/2019/07/swephr-v0-2-1/) - all the features from [v0.2.0](https://stubner.me/2019/07/swephr-v0-2-0/) without the UBSAN-bug
++ [altair v3.1.1](https://cran.r-project.org/package=altair) - Interface to 'Altair'
++ [DramaAnalysis v3.0.0](https://cran.r-project.org/package=DramaAnalysis) - Analysis of Dramatic Texts
++ [ulid v0.3.0](https://cran.r-project.org/package=ulid) - Generate Universally Unique Lexicographically Sortable Identifiers
++ [babelwhale v1.0.0](https://cran.r-project.org/package=babelwhale) - Talking to 'Docker' and 'Singularity' Containers
++ [rLandsat v0.1.1](https://cran.r-project.org/package=rLandsat) - Landsat Data Complete Download Process
++ [bomrang v0.6.0](https://cran.r-project.org/web/packages/bomrang/index.html) - Australian Government Bureau of Meteorology ('BOM') Data Client
+
+
 
 ###  Videos and Podcasts
 
@@ -109,7 +152,7 @@ Release Date: 2019-07-15
 
 ### R Internationally
 
-
++ [(in Spanish) Using machine learning (DBSCAN) to identify urban activity centers](https://bitsandbricks.github.io/post/dbscan-machine-learning-para-detectar-centros-de-actividad-urbana/)
 
 ###  Tutorials
 
@@ -149,8 +192,12 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
-
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you&#39;re stuck at home with a bad case of <a href="https://twitter.com/hashtag/UseR2019?src=hash&amp;ref_src=twsrc%5Etfw">#UseR2019</a> FOMO (like me!) you can use this Shiny dashboard I made to keep up with the online conversation! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> 🥐🦄📊<a href="https://t.co/YbHyJtHY7U">https://t.co/YbHyJtHY7U</a></p>&mdash; Garrick Aden-Buie (@grrrck) <a href="https://twitter.com/grrrck/status/1148323716574654464?ref_src=twsrc%5Etfw">July 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">a &lt;- factor(c(&quot;character&quot;, &quot;in&quot;, &quot;the&quot;, &quot;streets&quot;))<br>b &lt;- factor(c(&quot;integer&quot;, &quot;in&quot;, &quot;the&quot;, &#39;sheets&#39;))<br>c(a, b)<br>#&gt; [1] 1 2 4 3 2 1 4 3<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1148495372530212866?ref_src=twsrc%5Etfw">July 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Memes really need signatures. What genius did this? <a href="https://t.co/tWtL7wYTPx">pic.twitter.com/tWtL7wYTPx</a></p>&mdash; Peter Shirley (@Peter_shirley) <a href="https://twitter.com/Peter_shirley/status/1147273341461356544?ref_src=twsrc%5Etfw">July 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
