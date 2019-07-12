@@ -158,9 +158,9 @@ Release Date: 2019-07-15
 ###  Tutorials
 
 + [Numerical integration over an infinite interval in Rcpp (part 2)](https://stubner.me/2019/07/numerical-integration-in-rcpp-part-2/) - A general and user friendly solution. 
-
-<+ [Automatic and Explainable Machine Learning with H2O in R](https://github.com/woobe/useR2019_h2o_tutorial)
-+ [Package Development tutorial for useR! 2019 Toulouse](https://github.com/jennybc/pkg-dev-tutorial)!+ [Hacking RStudio - Advanced Use of your Favorite IDE](https://github.com/ColinFay/user2019workshop)
++ [Automatic and Explainable Machine Learning with H2O in R](https://github.com/woobe/useR2019_h2o_tutorial)
++ [Package Development tutorial for useR! 2019 Toulouse](https://github.com/jennybc/pkg-dev-tutorial)
++ [Hacking RStudio - Advanced Use of your Favorite IDE](https://github.com/ColinFay/user2019workshop)
 + [Visualising High-Dimensional Data](https://github.com/dicook/useR2019_highd_vis)
 + [Extending R with C++](http://dirk.eddelbuettel.com/papers/useR2019_rcpp_tutorial.pdf)
 + [CVXR: An R Package for Disciplined Convex Optimization](https://github.com/bnaras/cvxr_tutorial)
@@ -176,7 +176,7 @@ Release Date: 2019-07-15
 + [Docker for Data Science: R, ShinyProxy and more](https://github.com/openanalytics/useR-2019-docker-for-data-science)
 + [R/exams: A One-For-All Exams Generator](http://www.r-exams.org/general/user2019/)
 
---<div class="post-more-begin></div><div class="post-more-end"></div>-->
+<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
