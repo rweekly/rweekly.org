@@ -15,6 +15,7 @@ Release Date: 2019-07-15
 ### useR 2019
 
 + [Talk schedule](http://www.user2019.fr/talk_schedule/)
++ [Aligned schedule with materials (updating)](https://github.com/sowla/useR2019-materials)
 + [Keynote presentation recordings](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=user2019)
 + Presentation slides:
     + [R for better science in less time](https://github.com/jules32/useR-2019-keynote?files=1)
@@ -158,7 +159,24 @@ Release Date: 2019-07-15
 
 + [Numerical integration over an infinite interval in Rcpp (part 2)](https://stubner.me/2019/07/numerical-integration-in-rcpp-part-2/) - A general and user friendly solution. 
 
-<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+<+ [Automatic and Explainable Machine Learning with H2O in R](https://github.com/woobe/useR2019_h2o_tutorial)
++ [Package Development tutorial for useR! 2019 Toulouse](https://github.com/jennybc/pkg-dev-tutorial)!+ [Hacking RStudio - Advanced Use of your Favorite IDE](https://github.com/ColinFay/user2019workshop)
++ [Visualising High-Dimensional Data](https://github.com/dicook/useR2019_highd_vis)
++ [Extending R with C++](http://dirk.eddelbuettel.com/papers/useR2019_rcpp_tutorial.pdf)
++ [CVXR: An R Package for Disciplined Convex Optimization](https://github.com/bnaras/cvxr_tutorial)
++ [Getting the most out of Git](https://www.jumpingrivers.com/t/2019-user-git/)
++ [Generalized Nonlinear Models](https://github.com/hturner/gnm-half-day-course)
++ [Spatial and Spatiotemporal Data Analysis in R](https://github.com/edzer/User2019)
++ [Watch me: introduction to social media analytics](https://github.com/mariaprokofieva/useR2019_tutorial)
++ [Keeping an exotic pet in your home! Taming Python to live in RStudio because sometimes the best language is both!](https://github.com/3mmaRand/useR2019_tutorial)
++ [bnlearn: Practical Bayesian Networks in R](http://www.bnlearn.com/examples/conf-useR19.tar.gz)
++ [Transformation Models](http://ctm.r-forge.r-project.org/docs/useR2019_transformation_models.zip)
++ [Statistical Data Cleaning using R](https://github.com/data-cleaning/useR2019_tutorial)
++ [Design For Humans! A Toolkit For Creating Intuitive Modeling Packages](https://github.com/DavisVaughan/2019-useR-workshop-design-for-humans)
++ [Docker for Data Science: R, ShinyProxy and more](https://github.com/openanalytics/useR-2019-docker-for-data-science)
++ [R/exams: A One-For-All Exams Generator](http://www.r-exams.org/general/user2019/)
+
+--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
