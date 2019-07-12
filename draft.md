@@ -65,7 +65,7 @@ Release Date: 2019-07-15
 
 ###  Tutorials
 
-
++ [Numerical integration over an infinite interval in Rcpp (part 2)](https://stubner.me/2019/07/numerical-integration-in-rcpp-part-2/) - A general and user friendly solution. 
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
