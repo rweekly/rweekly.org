@@ -99,12 +99,17 @@ Release Date: 2019-07-15
 
 + [Visualize monthly precipitation anomalies](https://dominicroye.github.io/en/2019/visualize-monthly-precipitation-anomalies/)
 
++ [Are first impressions more important than last for TV shows?](http://www.nathancunn.com/2019-07-12-last-impressions/)
+
 ###  R in Organizations
 
 + [Community Call - Reproducible Research with R](https://ropensci.org/blog/2019/07/11/commcall-jul2019/)
 
 ###  R in Academia
 
++ [A Computational Analysis of the Dynamics of R Style Based on 94 Million Lines of Code from All CRAN Packages in the Past 20 Years. (Paper presented at the useR! 2019 conference, Toulouse, France.) - Yen, C.Y., Chang, M.H.W., Chan, C.H. (2019)](https://github.com/chainsawriot/rstyle)
+
+![](https://raw.githubusercontent.com/chainsawriot/rstyle/master/user2019_poster.png)
 
 
 ###  Resources
@@ -175,6 +180,7 @@ Release Date: 2019-07-15
 + [Design For Humans! A Toolkit For Creating Intuitive Modeling Packages](https://github.com/DavisVaughan/2019-useR-workshop-design-for-humans)
 + [Docker for Data Science: R, ShinyProxy and more](https://github.com/openanalytics/useR-2019-docker-for-data-science)
 + [R/exams: A One-For-All Exams Generator](http://www.r-exams.org/general/user2019/)
++ [Lego World Map with {rayshader}](https://arthurwelle.github.io/RayshaderWalkthrough/index.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
