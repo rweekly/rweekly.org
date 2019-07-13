@@ -83,6 +83,7 @@ particular order:
 + [Flexible futures for fable functionality](https://slides.mitchelloharawild.com/user2019/)
 + [Making sense of CRAN: Package and collaboration networks](http://ikosmidis.com/files/ikosmidis_cranly_user2019/)
 + [Future: Simple Parallel and Distributed Processing in R](https://www.jottr.org/2019/07/12/future-user2019-slides/)
++ [pak – a fresh approach to package installation](https://github.com/gaborcsardi/pak-talk)
 
 </details>
 
