@@ -23,7 +23,9 @@ Release Date: 2019-07-15
 + [Chat with rOpenSci Contributors at useR!2019](https://ropensci.org/blog/2019/07/08/user2019/)
 
 <details>
-   <summary>Expand for links to presentation slides:</summary>
+   <summary>
+      Expand for links to presentation slides:
+   </summary>
 
 The following is a non-comprehensive list of useR2019 presentation slides in no 
 particular order:
