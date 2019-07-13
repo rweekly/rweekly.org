@@ -72,6 +72,7 @@ Release Date: 2019-07-15
     + [HTTP Requests For R Users and Package Developers](https://scotttalks.info/user-http/#/intro)
     + [Creating privacy protecting density maps: sdcSpatial](https://github.com/edwindj/sdcSpatial/raw/master/useR2019/presentation.pdf)
     + [goodpractice - A Tool for Good Package Development](https://mangothecat.github.io/goodpractice/index.html)
+    + [Flexible futures for fable functionality](https://slides.mitchelloharawild.com/user2019/)
     + [Making sense of CRAN: Package and collaboration networks](http://ikosmidis.com/files/ikosmidis_cranly_user2019/)
     + [Future: Simple Parallel and Distributed Processing in R](https://www.jottr.org/2019/07/12/future-user2019-slides/)
 
