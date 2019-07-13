@@ -23,70 +23,66 @@ Release Date: 2019-07-15
 + [Chat with rOpenSci Contributors at useR!2019](https://ropensci.org/blog/2019/07/08/user2019/)
 
 <details>
-   <summary>
-      Expand here for links to presentation slides:
-   </summary>
-
-The following is a non-comprehensive list of useR2019 presentation slides in no 
-particular order:
-
-+ [R for better science in less time](https://github.com/jules32/useR-2019-keynote?files=1)
-+ [Shiny's Holy Grail: Interactivity with reproducibility](https://github.com/jcheng5/shinymeta-user2019-talk)
-+ [The "Rmd first" method: when projects start with documentation](https://github.com/statnmap/prez/blob/master/2019-07_useR_Toulouse.pdf)
-+ [Insights from the recent R community development and growth in Latin America](https://lacion.rbind.io/talk/2019_user/)
-+ [Reproducible data science to inform outbreak response](https://docs.google.com/presentation/d/1yjEideF-YcNerme6O-GQ3ZSAJQ51ZpBdAZTYpeYx8AY/edit#slide=id.p)
-+ [mlr3: Modern machine learning in RModern machine learning in R](https://github.com/mlr-org/mlr-outreach/blob/master/2019_useR/mlr3-useR-2019.pdf)
-+ [mlr3pipelines: Machine Learning Pipelines as Graphs](https://github.com/mlr-org/mlr-outreach/blob/master/2019_useR/mlr3pipelines-useR-2019.pdf)
-+ [Reusing Tidyverse code](https://speakerdeck.com/lionelhenry/reusing-tidyverse-code)
-+ [Rethinking Arrays in R](https://speakerdeck.com/davisvaughan/user-2019-rray)
-+ [Thematic Maps with cartography](https://rcarto.github.io/user2019/#1)
-+ [Headless Chrome Automation with R: About the crrri package](https://cderv.gitlab.io/user2019-crrri/#1)
-+ [Visualising high-dimensional data: New developments of the tourr package using Shiny and plotly](https://uschilaa.github.io/useR2019/#1)
-+ [Visualizing Huge Amounts of Fleet Data using Shiny and Leaflet](https://github.com/wittmaan/UseR2019/blob/master/slides/slides_wittmann_20190619.pdf)
-+ [colorspace: A Toolbox for Manipulating and Assessing Color Palettes](https://eeecon.uibk.ac.at/~zeileis/papers/useR-2019.pdf)
-+ [vegawidget: Composing and Rendering Interactive Vega(-Lite) Charts](https://vegawidget.rbind.io/posts/2019-07-10-user-2019-presentation/)
-+ [auth0: Secure authentication in Shiny Apps](https://github.com/jtrecenti/slides/blob/master/20190620_auth0/index.pdf)
-+ [{ropsec: a package for easing operations security for the R user}](https://speakerdeck.com/czeildi/ropsec-a-package-for-easing-operations-security-for-the-r-user)
-+ [Dealing with the change of administrative divisions over time with R](https://antuki.github.io/slides/20190710_userToulouse/20190710_userToulouse.html#1)
-+ [How a non-profit uses R in its daily operations](https://docs.google.com/presentation/d/e/2PACX-1vT46Ht1ytAUxiX40Lw-viuX7Du15VtkB8UXLhwE8RwBIi1k-AuFhLEzZEPlVbOKt43ifMD5MCZOAhh5/pub?start=false&loop=false&delayms=60000&slide=id.p)
-+ [RJDemetra: an R interface to JDemetra+](https://aqlt.github.io/slides/2019%20-%2007%20-%20useR!%202019/rjdemetra.pdf)
-+ [AfricaR Initiative](https://github.com/Shelmith-Kariuki/Presentations/blob/master/AfricaR_UseR!2019.pdf)
-+ [iSEE: interactive and reproducible exploration and visualization of genomics data](https://federicomarini.github.io/useR2019/#1)
-+ [n() cool #dplyr things](https://speakerdeck.com/romainfrancois/n-cool-number-dplyr-things)
-+ [Building and BenchmarkingAutoML Systems](https://github.com/h2oai/h2o-meetups/blob/master/2019_07_11_UseR_Toulouse_AutoMLBenchmark/automl_benchmarking_UseR_july2019.pdf)
-+ [DRY out your workflow with usethis](https://github.com/jennybc/2019-07_useR-toulouse-usethis/blob/master/DRY-out-workflow-usethis.pdf)
-+ [How to win friends & write an open-source book](https://geocompr.github.io/user_19/presentation/#1)
-+ [A feast of time series tools](https://robjhyndman.com/seminars/isf-feasts/)
-+ [multiDA and genDA Discriminant Analysis Methods for Large Scale and Complex Datasets](https://sarahromanes.github.io/talks/useR2019/index.html#1)
-+ [A DevOps process for deploying R to production](https://github.com/revodavid/RMLops/blob/master/user2019slides.pdf)
-+ [Authentication and authorization in plumber with the sealr package](https://frie.codes/user2019_slides/#1)
-+ [vroom: life's too short to read slow](https://speakerdeck.com/jimhester/vroom)
-+ [{polite}: Web etiquette for R users](https://github.com/dmi3kno/user19-polite/blob/master/useR19%20-%20polite.pdf)
-+ [Analysing Results From Monte Carlo Simulation Studies](https://github.com/ellessenne/rsimsum/blob/master/inst/Talks/ag-useR-2019.pdf)
-+ [Advancing data analytics for field epidemiologists using R](https://docs.google.com/presentation/d/1OeyEBEH9IHXtFtExiXk-JMxLsYWoNtQCRqh2YkpcnkM/mobilepresent?slide=id.p)
-+ [Discovering the cause: Tools for structure learning in R](https://github.com/annennenne/causalDisco/tree/master/slides)
-+ [How Bioconductor advances science and contributes to R](https://docs.google.com/presentation/d/e/2PACX-1vQnSGdSu3iSrVTZadiuOEXXrnikX7qS_A4NBHDbNxVMojPy69zu_dLwWH5pjAb1chY4Jz5n74y72Q4z/pub?start=false&loop=false&delayms=3000&slide=id.p)
-+ [Contributing to the R ecosystem: where should I start?](https://speakerdeck.com/colinfay/contributing-to-the-r-ecosystem)
-+ [Visualizing multivariate linear models in R](http://datavis.ca/papers/useR2019-2x2.pdf)
-+ [ghclassan: R package for managing classes with GitHub](https://github.com/rundel/Presentations/blob/master/UseR2019/UseR2019.pdf)
-+ [Get up to speed with Bayesian data analysis in R](https://docs.google.com/presentation/d/1Lv5_IBi_PXbtp8FbA8-qBI0PwJAvPlP9OZ-6t6l6gwM/edit#slide=id.p)
-+ [Visualisation of open-ended interviews through qualitative coding and cognitive mapping](https://frdvnw.gitlab.io/user2019/)
-+ [A missing value tour in R](http://juliejosse.com/wp-content/uploads/2019/07/useRjosse_2019.pdf)
-+ [Art of the Feature Toggle: Patterns for maintaining and improving Shiny applications over time](https://speakerdeck.com/kellobri/art-of-the-feature-toggle)
-+ [Bridging agent-based modelling and R with nlrx: simulating pedestrian's long-term exposure to air pollution](https://github.com/mrsensible/user2019)
-+ [PEREpigenomics: a shiny app to visualize Roadmap Epigenomics data](https://gdevailly.github.io/devailly_perepigenomics_useR2019/devailly_PEREpigenomics_useR.html#1)
-+ [You don't need Spark for this - larger-than-RAM data manipulation with disk.frame](https://www.beautiful.ai/player/-LjSuALfOEI8eYcGj_SD/diskframe-useR-2019)
-+ [Teaching data science with puzzles](https://github.com/isteves/ds-puzzles)
-+ [Data Science in a Box](https://speakerdeck.com/minecr/data-science-in-a-box)
-+ [Data for all: Empowering teams with scalable Shiny application](https://www.slideshare.net/RuanPearceAuthers/data-for-all-empowering-teams-with-scalable-shiny-applications-user-2019)
-+ [HTTP Requests For R Users and Package Developers](https://scotttalks.info/user-http/#/intro)
-+ [Creating privacy protecting density maps: sdcSpatial](https://github.com/edwindj/sdcSpatial/raw/master/useR2019/presentation.pdf)
-+ [goodpractice - A Tool for Good Package Development](https://mangothecat.github.io/goodpractice/index.html)
-+ [Flexible futures for fable functionality](https://slides.mitchelloharawild.com/user2019/)
-+ [Making sense of CRAN: Package and collaboration networks](http://ikosmidis.com/files/ikosmidis_cranly_user2019/)
-+ [Future: Simple Parallel and Distributed Processing in R](https://www.jottr.org/2019/07/12/future-user2019-slides/)
-+ [pak – a fresh approach to package installation](https://github.com/gaborcsardi/pak-talk)
-
+<p><summary> Expand here for links to presentation slides: </summary></p>
+<p>The following is a non-comprehensive list of useR2019 presentation slides in no particular order:</p>
+<ul>
+<li><a href="https://github.com/jules32/useR-2019-keynote?files=1">R for better science in less time</a></li>
+<li><a href="https://github.com/jcheng5/shinymeta-user2019-talk">Shiny’s Holy Grail: Interactivity with reproducibility</a></li>
+<li><a href="https://github.com/statnmap/prez/blob/master/2019-07_useR_Toulouse.pdf">The “Rmd first” method: when projects start with documentation</a></li>
+<li><a href="https://lacion.rbind.io/talk/2019_user/">Insights from the recent R community development and growth in Latin America</a></li>
+<li><a href="https://docs.google.com/presentation/d/1yjEideF-YcNerme6O-GQ3ZSAJQ51ZpBdAZTYpeYx8AY/edit#slide=id.p">Reproducible data science to inform outbreak response</a></li>
+<li><a href="https://github.com/mlr-org/mlr-outreach/blob/master/2019_useR/mlr3-useR-2019.pdf">mlr3: Modern machine learning in RModern machine learning in R</a></li>
+<li><a href="https://github.com/mlr-org/mlr-outreach/blob/master/2019_useR/mlr3pipelines-useR-2019.pdf">mlr3pipelines: Machine Learning Pipelines as Graphs</a></li>
+<li><a href="https://speakerdeck.com/lionelhenry/reusing-tidyverse-code">Reusing Tidyverse code</a></li>
+<li><a href="https://speakerdeck.com/davisvaughan/user-2019-rray">Rethinking Arrays in R</a></li>
+<li><a href="https://rcarto.github.io/user2019/#1">Thematic Maps with cartography</a></li>
+<li><a href="https://cderv.gitlab.io/user2019-crrri/#1">Headless Chrome Automation with R: About the crrri package</a></li>
+<li><a href="https://uschilaa.github.io/useR2019/#1">Visualising high-dimensional data: New developments of the tourr package using Shiny and plotly</a></li>
+<li><a href="https://github.com/wittmaan/UseR2019/blob/master/slides/slides_wittmann_20190619.pdf">Visualizing Huge Amounts of Fleet Data using Shiny and Leaflet</a></li>
+<li><a href="https://eeecon.uibk.ac.at/~zeileis/papers/useR-2019.pdf">colorspace: A Toolbox for Manipulating and Assessing Color Palettes</a></li>
+<li><a href="https://vegawidget.rbind.io/posts/2019-07-10-user-2019-presentation/">vegawidget: Composing and Rendering Interactive Vega(-Lite) Charts</a></li>
+<li><a href="https://github.com/jtrecenti/slides/blob/master/20190620_auth0/index.pdf">auth0: Secure authentication in Shiny Apps</a></li>
+<li><a href="https://speakerdeck.com/czeildi/ropsec-a-package-for-easing-operations-security-for-the-r-user">{ropsec: a package for easing operations security for the R user}</a></li>
+<li><a href="https://antuki.github.io/slides/20190710_userToulouse/20190710_userToulouse.html#1">Dealing with the change of administrative divisions over time with R</a></li>
+<li><a href="https://docs.google.com/presentation/d/e/2PACX-1vT46Ht1ytAUxiX40Lw-viuX7Du15VtkB8UXLhwE8RwBIi1k-AuFhLEzZEPlVbOKt43ifMD5MCZOAhh5/pub?start=false&amp;loop=false&amp;delayms=60000&amp;slide=id.p">How a non-profit uses R in its daily operations</a></li>
+<li><a href="https://aqlt.github.io/slides/2019%20-%2007%20-%20useR!%202019/rjdemetra.pdf">RJDemetra: an R interface to JDemetra+</a></li>
+<li><a href="https://github.com/Shelmith-Kariuki/Presentations/blob/master/AfricaR_UseR!2019.pdf">AfricaR Initiative</a></li>
+<li><a href="https://federicomarini.github.io/useR2019/#1">iSEE: interactive and reproducible exploration and visualization of genomics data</a></li>
+<li><a href="https://speakerdeck.com/romainfrancois/n-cool-number-dplyr-things">n() cool #dplyr things</a></li>
+<li><a href="https://github.com/h2oai/h2o-meetups/blob/master/2019_07_11_UseR_Toulouse_AutoMLBenchmark/automl_benchmarking_UseR_july2019.pdf">Building and BenchmarkingAutoML Systems</a></li>
+<li><a href="https://github.com/jennybc/2019-07_useR-toulouse-usethis/blob/master/DRY-out-workflow-usethis.pdf">DRY out your workflow with usethis</a></li>
+<li><a href="https://geocompr.github.io/user_19/presentation/#1">How to win friends &amp; write an open-source book</a></li>
+<li><a href="https://robjhyndman.com/seminars/isf-feasts/">A feast of time series tools</a></li>
+<li><a href="https://sarahromanes.github.io/talks/useR2019/index.html#1">multiDA and genDA Discriminant Analysis Methods for Large Scale and Complex Datasets</a></li>
+<li><a href="https://github.com/revodavid/RMLops/blob/master/user2019slides.pdf">A DevOps process for deploying R to production</a></li>
+<li><a href="https://frie.codes/user2019_slides/#1">Authentication and authorization in plumber with the sealr package</a></li>
+<li><a href="https://speakerdeck.com/jimhester/vroom">vroom: life’s too short to read slow</a></li>
+<li><a href="https://github.com/dmi3kno/user19-polite/blob/master/useR19%20-%20polite.pdf">{polite}: Web etiquette for R users</a></li>
+<li><a href="https://github.com/ellessenne/rsimsum/blob/master/inst/Talks/ag-useR-2019.pdf">Analysing Results From Monte Carlo Simulation Studies</a></li>
+<li><a href="https://docs.google.com/presentation/d/1OeyEBEH9IHXtFtExiXk-JMxLsYWoNtQCRqh2YkpcnkM/mobilepresent?slide=id.p">Advancing data analytics for field epidemiologists using R</a></li>
+<li><a href="https://github.com/annennenne/causalDisco/tree/master/slides">Discovering the cause: Tools for structure learning in R</a></li>
+<li><a href="https://docs.google.com/presentation/d/e/2PACX-1vQnSGdSu3iSrVTZadiuOEXXrnikX7qS_A4NBHDbNxVMojPy69zu_dLwWH5pjAb1chY4Jz5n74y72Q4z/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p">How Bioconductor advances science and contributes to R</a></li>
+<li><a href="https://speakerdeck.com/colinfay/contributing-to-the-r-ecosystem">Contributing to the R ecosystem: where should I start?</a></li>
+<li><a href="http://datavis.ca/papers/useR2019-2x2.pdf">Visualizing multivariate linear models in R</a></li>
+<li><a href="https://github.com/rundel/Presentations/blob/master/UseR2019/UseR2019.pdf">ghclassan: R package for managing classes with GitHub</a></li>
+<li><a href="https://docs.google.com/presentation/d/1Lv5_IBi_PXbtp8FbA8-qBI0PwJAvPlP9OZ-6t6l6gwM/edit#slide=id.p">Get up to speed with Bayesian data analysis in R</a></li>
+<li><a href="https://frdvnw.gitlab.io/user2019/">Visualisation of open-ended interviews through qualitative coding and cognitive mapping</a></li>
+<li><a href="http://juliejosse.com/wp-content/uploads/2019/07/useRjosse_2019.pdf">A missing value tour in R</a></li>
+<li><a href="https://speakerdeck.com/kellobri/art-of-the-feature-toggle">Art of the Feature Toggle: Patterns for maintaining and improving Shiny applications over time</a></li>
+<li><a href="https://github.com/mrsensible/user2019">Bridging agent-based modelling and R with nlrx: simulating pedestrian’s long-term exposure to air pollution</a></li>
+<li><a href="https://gdevailly.github.io/devailly_perepigenomics_useR2019/devailly_PEREpigenomics_useR.html#1">PEREpigenomics: a shiny app to visualize Roadmap Epigenomics data</a></li>
+<li><a href="https://www.beautiful.ai/player/-LjSuALfOEI8eYcGj_SD/diskframe-useR-2019">You don’t need Spark for this - larger-than-RAM data manipulation with disk.frame</a></li>
+<li><a href="https://github.com/isteves/ds-puzzles">Teaching data science with puzzles</a></li>
+<li><a href="https://speakerdeck.com/minecr/data-science-in-a-box">Data Science in a Box</a></li>
+<li><a href="https://www.slideshare.net/RuanPearceAuthers/data-for-all-empowering-teams-with-scalable-shiny-applications-user-2019">Data for all: Empowering teams with scalable Shiny application</a></li>
+<li><a href="https://scotttalks.info/user-http/#/intro">HTTP Requests For R Users and Package Developers</a></li>
+<li><a href="https://github.com/edwindj/sdcSpatial/raw/master/useR2019/presentation.pdf">Creating privacy protecting density maps: sdcSpatial</a></li>
+<li><a href="https://mangothecat.github.io/goodpractice/index.html">goodpractice - A Tool for Good Package Development</a></li>
+<li><a href="https://slides.mitchelloharawild.com/user2019/">Flexible futures for fable functionality</a></li>
+<li><a href="http://ikosmidis.com/files/ikosmidis_cranly_user2019/">Making sense of CRAN: Package and collaboration networks</a></li>
+<li><a href="https://www.jottr.org/2019/07/12/future-user2019-slides/">Future: Simple Parallel and Distributed Processing in R</a></li>
+<li><a href="https://github.com/gaborcsardi/pak-talk">pak – a fresh approach to package installation</a></li>
+</ul>
 </details>
 
 ### Insights
