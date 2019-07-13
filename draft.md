@@ -24,7 +24,7 @@ Release Date: 2019-07-15
 
 <details>
    <summary>
-      Expand for links to presentation slides:
+      Expand here for links to presentation slides:
    </summary>
 
 The following is a non-comprehensive list of useR2019 presentation slides in no 
