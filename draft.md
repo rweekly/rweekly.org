@@ -14,6 +14,8 @@ Release Date: 2019-07-15
 
 ### useR 2019
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-07-15/user2019.png)
+
 + [Talk schedule](http://www.user2019.fr/talk_schedule/)
 + [Aligned schedule with materials (updating)](https://github.com/sowla/useR2019-materials)
 + [Keynote presentation recordings](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=user2019)
@@ -78,6 +80,7 @@ particular order:
 + [HTTP Requests For R Users and Package Developers](https://scotttalks.info/user-http/#/intro)
 + [Creating privacy protecting density maps: sdcSpatial](https://github.com/edwindj/sdcSpatial/raw/master/useR2019/presentation.pdf)
 + [goodpractice - A Tool for Good Package Development](https://mangothecat.github.io/goodpractice/index.html)
++ [Flexible futures for fable functionality](https://slides.mitchelloharawild.com/user2019/)
 + [Making sense of CRAN: Package and collaboration networks](http://ikosmidis.com/files/ikosmidis_cranly_user2019/)
 + [Future: Simple Parallel and Distributed Processing in R](https://www.jottr.org/2019/07/12/future-user2019-slides/)
 
@@ -117,7 +120,7 @@ particular order:
 
 + [A Computational Analysis of the Dynamics of R Style Based on 94 Million Lines of Code from All CRAN Packages in the Past 20 Years. (Paper presented at the useR! 2019 conference, Toulouse, France.) - Yen, C.Y., Chang, M.H.W., Chan, C.H. (2019)](https://github.com/chainsawriot/rstyle)
 
-![](https://raw.githubusercontent.com/chainsawriot/rstyle/master/user2019_poster.png)
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-07-15/styledifferences.png)
 
 
 ###  Resources
