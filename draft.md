@@ -98,6 +98,9 @@ Release Date: 2019-07-15
 + [Programming Over lm() in R](http://www.win-vector.com/blog/2019/07/programming-over-lm-in-r/)
 + [Link Functions versus Data Transforms](http://www.win-vector.com/blog/2019/07/link-functions-versus-data-transforms/)
 + [Thoughts on Animation and Movement in Data Visualization](http://daranzolin.github.io/2019-07-07-animation-thoughts/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-07-15/d3rain.gif)
+
 + [Le Monde puzzle [#1105]](https://xianblog.wordpress.com/2019/07/08/le-monde-puzzle-1105/)
 + [Introducing tidylo](https://juliasilge.com/blog/introducing-tidylo/)
 + [CRAN Release of R/exams 2.3-3 and 2.3-4](http://www.R-exams.org/general/cran_release_234/)
@@ -109,6 +112,9 @@ Release Date: 2019-07-15
 + [Rmd first: When development starts with documentation](https://rtask.thinkr.fr/blog/rmd-first-when-development-starts-with-documentation/)
 + [Common Ensemble Models can be Biased](http://www.win-vector.com/blog/2019/07/common-ensemble-models-can-be-biased/)
 + [S4: a short guide for the perplexed](https://stuartlee.org/post/content/post/2019-07-09-s4-a-short-guide-for-perplexed/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-07-15/turtle.gif)
+
 + [match.arg: a weird function that can help you write better functions](https://alistaire.rbind.io/blog/match.arg/)
 + [swephR package updated on CRAN ](https://stubner.me/2019/07/swephr-v0-2-0/)
 
