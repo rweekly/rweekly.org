@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2019-28 useR edition
+title: R Weekly 2019-28 useR2019 edition
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -9,7 +9,7 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 Release Date: 2019-07-15
 
-###  Highlight
+###  Highlight - useR Resources
 
 + [Talk schedule](http://www.user2019.fr/talk_schedule/)
 + [Aligned schedule with materials (updating)](https://github.com/sowla/useR2019-materials)
