@@ -11,6 +11,9 @@ Release Date: 2019-07-15
 
 ###  Highlight
 
++ [Talk schedule](http://www.user2019.fr/talk_schedule/)
++ [Aligned schedule with materials (updating)](https://github.com/sowla/useR2019-materials)
++ [Keynote presentation recordings](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/search?query=user2019)
 
 ### useR 2019
 
@@ -82,6 +85,10 @@ Release Date: 2019-07-15
 <li><a href="http://ikosmidis.com/files/ikosmidis_cranly_user2019/">Making sense of CRAN: Package and collaboration networks</a></li>
 <li><a href="https://www.jottr.org/2019/07/12/future-user2019-slides/">Future: Simple Parallel and Distributed Processing in R</a></li>
 <li><a href="https://github.com/gaborcsardi/pak-talk">pak – a fresh approach to package installation</a></li>
+<li><a href="https://docs.google.com/presentation/d/1jfo_CvTmLf-PtKq2uS5-biklXJRe5hVnhzUjtWTQI3Y/edit#slide=id.gc6f919934_0_0">R4DS Online Learning Community: How can we help?</a></li>
+<li><a href="https://www.jumpingrivers.com/t/2019-user-security/#1">Security and R: It’s secure - we’re the problem</a></li>
+<li><a href="https://richfitz.github.io/files/fitzjohn-odin.pdf">Describing and solving differential equations with a new domain specific language, odin</a></li>
+<li><a href="https://raw.githubusercontent.com/wiki/Rdatatable/data.table/talks/useR2019_Arun.pdf">The #rdatatable package for fast, flexible and memory efficient data wrangling</a></li>
 </ul>
 </details>
 
