@@ -129,20 +129,9 @@ Release Date: 2019-07-15
 ![](https://raw.githubusercontent.com/rweekly/image/master/2019-07-15/styledifferences.png)
 
 
-###  Resources
-
-
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
-**CRAN**
-
-
-**BioC**
-
-
 
 **GitHub or Bitbucket**
 
@@ -162,15 +151,6 @@ Release Date: 2019-07-15
 + [babelwhale v1.0.0](https://cran.r-project.org/package=babelwhale) - Talking to 'Docker' and 'Singularity' Containers
 + [rLandsat v0.1.1](https://cran.r-project.org/package=rLandsat) - Landsat Data Complete Download Process
 + [bomrang v0.6.0](https://cran.r-project.org/web/packages/bomrang/index.html) - Australian Government Bureau of Meteorology ('BOM') Data Client
-
-
-
-###  Videos and Podcasts
-
-
-
-### Gist & Cookbook
-
 
 
 ### R Internationally
@@ -222,13 +202,6 @@ Events in 3 Months:
 
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
-
-
-### Datasets
-
-### Jobs
-
-
 
 
 ###  Call for Participation
