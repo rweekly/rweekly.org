@@ -79,13 +79,11 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [Rstudio & ThinkR roadshow – June 6 – Paris](https://rtask.thinkr.fr/blog/rstudio-thinkr-roadshow-june-6-paris)
++ [TokyoR #80, July 27](https://tokyor.connpass.com/)
 
-+ [satRday Berlin, June 15th](https://berlin2019.satrdays.org)
++ [Mexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools
 
-+ [TokyoR #79, June 29th](https://tokyor.connpass.com/)
-
-+ [useR2019](http://www.user2019.fr/)
++ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
