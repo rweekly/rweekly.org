@@ -65,7 +65,7 @@ Release Date: 2019-07-22
 
 ###  Tutorials
 
-
++ [Amuse-bouches from useR!2019](https://sinarueeger.github.io/post/amuse-bouches-from-user-2019/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
