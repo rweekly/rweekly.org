@@ -30,17 +30,16 @@
   global.toolbox.router.get(/live\.rweekly\.org\//, global.toolbox.networkFirst, {});
 
   global.toolbox.precache(['/live', '/about',"/page2/index.html", "/archive"]);
-  // global.toolbox.options.cache.maxAgeSeconds = 60 * 15;
-  
-  // Request the resource from both the cache and the network in parallel. 
-  // Respond with whichever returns first. Usually this will be the cached 
-  // version, if there is one. On the one hand this strategy will always make a 
-  // network request, even if the resource is cached. On the other hand, 
-  // if/when the network request completes the cache is updated, so that future 
+  global.toolbox.options.cache.maxAgeSeconds = 60 * 60 * 24 * 10;
+
+  // Request the resource from both the cache and the network in parallel.
+  // Respond with whichever returns first. Usually this will be the cached
+  // version, if there is one. On the one hand this strategy will always make a
+  // network request, even if the resource is cached. On the other hand,
+  // if/when the network request completes the cache is updated, so that future
   // cache reads will be more up-to-date.
-  global.toolbox.router.default = global.toolbox.fastest;
-  global.toolbox.cache.maxEntries = 2000;
-  
+  global.toolbox.router.default = global.toolbox.networkFirst;
+
   // Boilerplate to ensure our service worker takes control of the page as soon
   // as possible.
   global.addEventListener('install',

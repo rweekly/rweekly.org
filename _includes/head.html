@@ -6,13 +6,13 @@
   <style type="text/css">
 
     {% include pure.min.css %}
-    
+
     {% capture include_to_scssify %}
-    
+
     {% include styles.scss %}
-    
+
     {% endcapture %}
-    
+
     {{ include_to_scssify | scssify }}
 
     {% include jquery-ui.min.css %}
@@ -29,13 +29,13 @@
   <link rel="mask-icon" href="{{ site.baseurl }}/images/icons/safari-pinned-tab.svg" color="#191d1f">
   <meta name="theme-color" content="#ffffff">
   <link rel="shortcut icon" href="{{ site.baseurl }}/images/icons/favicon.ico">
-  
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml"> 
-  <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ site.baseurl }}/feed.json"> 
+
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+  <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ site.baseurl }}/feed.json">
   <link rel="alternate" type="application/atom+xml" title="R Weekly Podcast" href="/podcast.xml">
 
   {% seo %}
-  
+
   <meta property="og:image" content="https://rweekly.org/public/facebook.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="RWeekly.org - {{ page.title }}" /> {% if page.title == "Home" %}
@@ -131,7 +131,7 @@ function gen_read_more_btn(){
           var newNode = document.createElement('text');
           newNode.className += "tooltiptext";
           shorturl = targetlink.hostname.replace(shortregex,"")
-          newNode.innerHTML = '&nbsp;(&nbsp;' + shorturl +'&nbsp;)&nbsp;'; 
+          newNode.innerHTML = '&nbsp;(&nbsp;' + shorturl +'&nbsp;)&nbsp;';
           var parentelt = targetlink.parentElement;
           if (!parentelt.classList.contains("added-hostname")){
               parentelt.classList.add("added-hostname");
@@ -204,7 +204,7 @@ function gen_read_more_btn(){
                     var now_date = new Date();
 
                     var like_value = { title:this.getAttribute("id-text"), host: this.getAttribute("id-host"),time: now_date.getTime(), date: now_date.toLocaleDateString()};
-                    
+
                     localStorage.setItem("like-"+ this.getAttribute("id-href"), JSON.stringify(like_value));
 
                     this.querySelector('text').classList.remove("hidetext");
@@ -221,7 +221,7 @@ function gen_read_more_btn(){
               } // if (current_a)
             } // if(current_p)
           } // if (!links[i].classList.contains("added-up")) {
-        } // for (var i = 0, linksLength = links.length; i < linksLength; i++) 
+        } // for (var i = 0, linksLength = links.length; i < linksLength; i++)
 
       } //if (localStorage.getItem("feature-like")){
 
@@ -292,8 +292,8 @@ function gen_read_more_btn(){
       if (localStorage.getItem("feature-like") === 'true'){
           document.body.classList.remove('no-feature-like');
       }
-      if (localStorage.getItem("feature-podcast-corner") === 'false'){
-          document.body.classList.add('no-feature-podcast-corner');
+      if (localStorage.getItem("feature-podcast-corner") === 'true'){
+          document.body.classList.remove('no-feature-podcast-corner');
       }
 
       if (localStorage.getItem("feature-support") === 'false'){

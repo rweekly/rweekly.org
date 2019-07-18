@@ -2,8 +2,8 @@
 <html lang="en">
 
   {% include head.html %}
-  
-  <body class="show-origin no-feature-like">
+
+  <body class="show-origin no-feature-like no-feature-podcast-corner">
 
     <div id="toc"></div>
     <!--/.well -->
@@ -43,7 +43,7 @@
         {% capture footer-md %}{% include footer.md %}{% endcapture %}
         {{ footer-md | markdownify }}
         <small>
-          &copy; 2016-2017 RWeekly.org &nbsp;
+          &copy; 2016-2019 RWeekly.org &nbsp;
         </small>
       </footer>
     </div>
@@ -101,32 +101,32 @@
         }
       }
     };
-  
+
   add_external_links();
-console.log(`%c               ..     .                 
-            .?????.+++++                
-        ?8.  .???   +++.  ~+.           
-       . .. ..... ... .. +.. .          
-      ?... .+.. . 88  ...?......        
-      .?. .+++=.      ..???. .++        
-       .   +~+,         ..?.  +,        
-         ...  ,              8. .       
-        ??II..,          .:88888        
-        .III  ,            .888.        
-        ?..I  ,         +  .....        
-        +. ...$     ... ...++ .         
-        +++..8$.,  ????. .++++.         
-       .++.  8O8O  .?,?.  ++=.          
-         .. .+.           I             
-        +...+++...:==~...I.             
-       .+. .+++. ,.===. .II.            
-       .+  .+.~    ..= ..I.7            
-          =+  ,        +,    .7.        
-       ..????.,       .+++..7777        
-         ???? ,        ..+  .777        
-        ..... ,          .  .. .        
-        +.. ..             :+....=      
-        .,...               .+...       
+console.log(`%c               ..     .
+            .?????.+++++
+        ?8.  .???   +++.  ~+.
+       . .. ..... ... .. +.. .
+      ?... .+.. . 88  ...?......
+      .?. .+++=.      ..???. .++
+       .   +~+,         ..?.  +,
+         ...  ,              8. .
+        ??II..,          .:88888
+        .III  ,            .888.
+        ?..I  ,         +  .....
+        +. ...$     ... ...++ .
+        +++..8$.,  ????. .++++.
+       .++.  8O8O  .?,?.  ++=.
+         .. .+.           I
+        +...+++...:==~...I.
+       .+. .+++. ,.===. .II.
+       .+  .+.~    ..= ..I.7
+          =+  ,        +,    .7.
+       ..????.,       .+++..7777
+         ???? ,        ..+  .777
+        ..... ,          .  .. .
+        +.. ..             :+....=
+        .,...               .+...
 
 Join us! https://rweekly.org/about.html `, "font-family:monospace")
 
@@ -141,7 +141,7 @@ Join us! https://rweekly.org/about.html `, "font-family:monospace")
     }
 
     </script>
-  
+
   {% include inf.html %}
   {% include totop.html %}
 
