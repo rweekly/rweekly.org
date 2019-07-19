@@ -13,14 +13,25 @@ Release Date: 2019-07-22
 
 ### Insights
 
++ [Back from useR! 2019](https://colinfay.me/back-from-toulouse/)
+
++ [Romain Lesur: The Most Wonderful Collaborator I Have Ever Worked With](https://yihui.name/en/2019/07/romain-lesur/)
 
 
 ### R in the Real World
 
 
++ [Twitter coverage of the useR! 2019 conference](https://nsaunders.wordpress.com/2019/07/15/twitter-coverage-of-the-user-2019-conference/)
 
 ###  R in Organizations
 
++ [rstudio::conf(2020) is open for registration!](https://blog.rstudio.com/2019/07/15/rstudio-conf-2020/)
+
++ [RStudio Trainer Directory Launches](https://blog.rstudio.com/2019/07/18/rstudio-trainer-directory-launches/)
+
++ [rOpenSci Announces $678K Award from the Sloan Foundation to Expand Software Peer Review](https://ropensci.org/blog/2019/07/15/expanding-software-review/)
+
++ [rOpenSci Hiring for New Position in Statistical Software Testing and Peer Review](https://ropensci.org/blog/2019/07/18/ropensci-hiring/)
 
 
 ###  R in Academia
@@ -29,7 +40,7 @@ Release Date: 2019-07-22
 
 ###  Resources
 
-
++ [⚡️ Spatial Optimization with OSRM and R](https://github.com/MeganBeckett/presentations/tree/master/useR_2019)
 
 ###  New Packages
 
@@ -37,7 +48,9 @@ Release Date: 2019-07-22
 
 **CRAN**
 
++ [modelsummary](https://github.com/vincentarelbundock/modelsummary) - Beautiful, customizable, publication-ready model summaries in R.
 
+![modelsummary](https://i.imgur.com/1u9hgm2.png)
 
 **BioC**
 
@@ -49,11 +62,11 @@ Release Date: 2019-07-22
 
 ### Updated Packages
 
-
++ [corrr 0.4.0](https://tidymodels.github.io/corrr/) - corrr is a package for exploring correlations in R
 
 ###  Videos and Podcasts
 
-
++ [Shiny in production: Principles, practices, and tools by Joe Cheng](https://resources.rstudio.com/rstudio-conf-2019/shiny-in-production-principles-practices-and-tools-joe-cheng?utm_content=bufferbf93f&utm_medium=social&utm_source=twitter&utm_campaign=buffer)
 
 ### Gist & Cookbook
 
@@ -66,6 +79,49 @@ Release Date: 2019-07-22
 ###  Tutorials
 
 + [Amuse-bouches from useR!2019](https://sinarueeger.github.io/post/amuse-bouches-from-user-2019/)
+
++ [How to Use R in AWS Lambda](http://enhancedatascience.com/2019/07/09/how-to-use-r-in-aws-lambda/)
+
++ [Bayesian Estimation of Multinomial Parameter Ratios](https://www.landonlehman.com/post/bayesian-estimation-of-multinomial-parameter-ratios/)
+
++ [Writing Functions in R: Example One](https://mathewanalytics.com/2019/07/14/writing-functions-in-r-example-one/)
+
++ [Simulating Data in R: Examples in Writing Modular Code](https://www.markhw.com/blog/modular-sims)
+
++ [ggparty: Graphic Partying](https://cran.r-project.org/web/packages/ggparty/vignettes/ggparty-graphic-partying.html)
+
++ [Some Details on Running xgboost](http://www.win-vector.com/blog/2019/07/some-details-on-running-xgboost/)
+
+
++ [Recreating 'Unknown Pleasures' graphic](https://datawookie.netlify.com/blog/2019/07/recreating-unknown-pleasures-graphic/)
+
+
++ [Quick Hit: A Different (Diminutive) Look At Distributions With {ggeconodist}](https://rud.is/b/2019/07/15/quick-hit-a-different-diminutive-look-at-distributions-with-ggeconodist/)
+
++ [Aggregating spatial data with the grainchanger package](https://ropensci.org/blog/2019/07/16/grainchanger/)
+
++ [An Ad-hoc Method for Calibrating Uncalibrated Models](http://www.win-vector.com/blog/2019/07/an-ad-hoc-method-for-calibrating-uncalibrated-models-2/)
+
+
++ [Three Strategies for Working with Big Data in R](https://rviews.rstudio.com/2019/07/17/3-big-data-strategies-for-r/)
+
++ [Processing satellite image collections in R with the gdalcubes package](https://www.r-spatial.org//r/2019/07/18/gdalcubes1.html)
+
++ [Shiny Modules](https://www.inwt-statistics.com/read-blog/shiny-modules.html)
+
++ [Using random bits to generate random numbers](https://coolbutuseless.github.io/2019/07/19/using-random-bits-to-generate-random-numbers/)
+
++ [eRum2020 IN MILAN](https://mirai-solutions.ch/news/2019/07/16/erum2020-announcement/)
+
++ [Is Scholarly Use of R Beating SPSS Already?](http://r4stats.com/2019/07/15/is-scholarly-use-of-r-use-beating-spss-already/)
+
++ [SQL Server Database connections in R](https://nhsrcommunity.com/blog/sql-server-database-connections-in-r/)
+
++ [Excel to R, Part 1 - The 10X Productivity Boost](https://www.business-science.io/business/2019/02/20/excel-to-r-part-1.html)
+
++ [A/B Testing with Machine Learning - A Step-by-Step Tutorial](https://www.business-science.io/business/2019/03/11/ab-testing-machine-learning.html)
+
++ [Yet Another R Package for General Regression Neural Network](https://statcompute.wordpress.com/2019/07/14/yet-another-r-package-for-general-regression-neural-network/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
@@ -95,6 +151,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
 
+
+
 ### Jobs
 
 
@@ -106,3 +164,10 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">By using the autoplot() function from the &quot;ggfortify&quot; package I can check assumptions for linear models:<br>-Q-Q plot: normality<br>-Residuals vs Fitted: linear relationship<br>-Scale-Location: homogeneity of the variance <br>-Residuals vs Leverage/Cook&#39;s distance: influential cases<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/GksKYXYVfg">pic.twitter.com/GksKYXYVfg</a></p>&mdash; Romain Lefèvre 🐾 (@lefevreromain_) <a href="https://twitter.com/lefevreromain_/status/1150445843461414912?ref_src=twsrc%5Etfw">July 14, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For so long I have been waiting for a package like this!<br><br>Finally, a <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a>-friendly way to make clearly structured and highly customizable visualizations for tree-objects in `ggparty` package! 📊📈💅🙌🥳<a href="https://t.co/FaEemLTiIQ">https://t.co/FaEemLTiIQ</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> <a href="https://t.co/5GcT4ax8l9">pic.twitter.com/5GcT4ax8l9</a></p>&mdash; Indrajeet Patil (@patilindrajeets) <a href="https://twitter.com/patilindrajeets/status/1151826079478403072?ref_src=twsrc%5Etfw">July 18, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Your underrated <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package today is &quot;ids&quot; by <a href="https://twitter.com/rgfitzjohn?ref_src=twsrc%5Etfw">@rgfitzjohn</a> which allows you to create unique identifiers quickly and easily <a href="https://t.co/nVTmFOM2DF">https://t.co/nVTmFOM2DF</a><br><br>like here, i create a list of &quot;adjective_animal&quot; names to support an anonymous selection process <a href="https://t.co/wabRIJiZWh">pic.twitter.com/wabRIJiZWh</a></p>&mdash; Andr(é|ew) MacDonald (@polesasunder) <a href="https://twitter.com/polesasunder/status/1151436678453714944?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote>
+
