@@ -27,6 +27,8 @@ Release Date: 2019-07-22
 
 + [ghidoRah the three headed monsteR](https://www.reddit.com/r/rstats/comments/ceu9j4/ghidorah_the_three_headed_monster/)
 
++ [St. Paul park users love to bike, but not to fish!](https://www.katiejolly.io/blog/2019-07-17/saint-paul-parks)
+
 ###  R in Organizations
 
 + [rstudio::conf(2020) is open for registration!](https://blog.rstudio.com/2019/07/15/rstudio-conf-2020/)
@@ -40,11 +42,13 @@ Release Date: 2019-07-22
 
 ###  R in Academia
 
-
-
 ###  Resources
 
 + [⚡️ Spatial Optimization with OSRM and R](https://github.com/MeganBeckett/presentations/tree/master/useR_2019)
+
++ [Reproducible Workflow for Cartography: Multi-Representations of Migrants Deaths in the Mediterranean Sea - T. Girarud & N. Lambert (ICC 2019)](https://riatelab.github.io/icc2019/#1)
+
++ [My Shiny Portfolio](https://davidsmale.netlify.com/shiny-portfolio/)
 
 ###  New Packages
 
@@ -135,6 +139,10 @@ Release Date: 2019-07-22
 + [A/B Testing with Machine Learning - A Step-by-Step Tutorial](https://www.business-science.io/business/2019/03/11/ab-testing-machine-learning.html)
 
 + [Yet Another R Package for General Regression Neural Network](https://statcompute.wordpress.com/2019/07/14/yet-another-r-package-for-general-regression-neural-network/)
+
++ [{polite} - Be Nice on the Web](https://www.ddrive.no/post/be-nice-on-the-web/)
+
++ [Time series forecast cross-validation](http://freerangestats.info/blog/2019/07/20/time-series-cv)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
