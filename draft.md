@@ -17,11 +17,15 @@ Release Date: 2019-07-22
 
 + [Romain Lesur: The Most Wonderful Collaborator I Have Ever Worked With](https://yihui.name/en/2019/07/romain-lesur/)
 
++ [Watch keynote presentations from the useR!2019 conference](https://blog.revolutionanalytics.com/2019/07/user2019-keynotes.html)
 
 ### R in the Real World
 
++ [An R Users Guide to JSM 2019](https://rviews.rstudio.com/2019/07/19/an-r-users-guide-to-jsm-2019/)
 
 + [Twitter coverage of the useR! 2019 conference](https://nsaunders.wordpress.com/2019/07/15/twitter-coverage-of-the-user-2019-conference/)
+
++ [ghidoRah the three headed monsteR](https://www.reddit.com/r/rstats/comments/ceu9j4/ghidorah_the_three_headed_monster/)
 
 ###  R in Organizations
 
@@ -86,6 +90,8 @@ Release Date: 2019-07-22
 
 + [Writing Functions in R: Example One](https://mathewanalytics.com/2019/07/14/writing-functions-in-r-example-one/)
 
++ [How to make 3D Plots in R (from 2D Plots of ggplot2)](https://datascienceplus.com/how-to-make-3d-plots-in-r-from-2d-plots-of-ggplot2/)
+
 + [Simulating Data in R: Examples in Writing Modular Code](https://www.markhw.com/blog/modular-sims)
 
 + [ggparty: Graphic Partying](https://cran.r-project.org/web/packages/ggparty/vignettes/ggparty-graphic-partying.html)
@@ -102,6 +108,13 @@ Release Date: 2019-07-22
 
 + [An Ad-hoc Method for Calibrating Uncalibrated Models](http://www.win-vector.com/blog/2019/07/an-ad-hoc-method-for-calibrating-uncalibrated-models-2/)
 
++ [Optimising your R code – a guided example](https://www.statworx.com/ch/blog/optimising-your-r-code-a-guided-example/)
+
++ [What NOT to do when building a shiny app (lessons learned the hard way)](https://adisarid.github.io/post/2019-07-03-shiny_app_lessons/)
+
++ [Dotplot – the single most useful yet largely neglected dataviz type](https://ikashnitsky.github.io/2019/dotplot/)
+
+![Dotplot – the single most useful yet largely neglected dataviz type](https://ikashnitsky.github.io/images/190719/one-figure.png)
 
 + [Three Strategies for Working with Big Data in R](https://rviews.rstudio.com/2019/07/17/3-big-data-strategies-for-r/)
 
