@@ -19,6 +19,8 @@ Release Date: 2019-07-22
 
 + [Watch keynote presentations from the useR!2019 conference](https://blog.revolutionanalytics.com/2019/07/user2019-keynotes.html)
 
++ [My useR! 2019 Highlights & Experience: Shiny, R Community, {packages}, and more!](https://ryo-n7.github.io/2019-07-21-user2019-reflections/)
+
 ### R in the Real World
 
 + [An R Users Guide to JSM 2019](https://rviews.rstudio.com/2019/07/19/an-r-users-guide-to-jsm-2019/)
