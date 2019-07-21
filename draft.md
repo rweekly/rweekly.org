@@ -144,6 +144,8 @@ Release Date: 2019-07-22
 
 + [Time series forecast cross-validation](http://freerangestats.info/blog/2019/07/20/time-series-cv)
 
++ [Generating a Gallery of Visualizations for a Static Website (using R)](https://tonyelhabr.rbind.io/post/gallery-visualizations/)
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
