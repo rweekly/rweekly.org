@@ -9,27 +9,33 @@ Release Date: 2019-07-22
 
 ###  Highlight
 
++ [modelsummary](https://github.com/vincentarelbundock/modelsummary) - Beautiful, customizable, publication-ready model summaries in R.
 
++ [Watch keynote presentations from the useR!2019 conference](https://blog.revolutionanalytics.com/2019/07/user2019-keynotes.html)
+
++ [Dotplot – the single most useful yet largely neglected dataviz type](https://ikashnitsky.github.io/2019/dotplot/)
 
 ### Insights
+
++ [My useR! 2019 Highlights & Experience: Shiny, R Community, {packages}, and more!](https://ryo-n7.github.io/2019-07-21-user2019-reflections/)
 
 + [Back from useR! 2019](https://colinfay.me/back-from-toulouse/)
 
 + [Romain Lesur: The Most Wonderful Collaborator I Have Ever Worked With](https://yihui.name/en/2019/07/romain-lesur/)
 
-+ [Watch keynote presentations from the useR!2019 conference](https://blog.revolutionanalytics.com/2019/07/user2019-keynotes.html)
-
-+ [My useR! 2019 Highlights & Experience: Shiny, R Community, {packages}, and more!](https://ryo-n7.github.io/2019-07-21-user2019-reflections/)
++ [An R Users Guide to JSM 2019](https://rviews.rstudio.com/2019/07/19/an-r-users-guide-to-jsm-2019/)
 
 ### R in the Real World
-
-+ [An R Users Guide to JSM 2019](https://rviews.rstudio.com/2019/07/19/an-r-users-guide-to-jsm-2019/)
 
 + [Twitter coverage of the useR! 2019 conference](https://nsaunders.wordpress.com/2019/07/15/twitter-coverage-of-the-user-2019-conference/)
 
 + [ghidoRah the three headed monsteR](https://www.reddit.com/r/rstats/comments/ceu9j4/ghidorah_the_three_headed_monster/)
 
+![ghidoRah the three headed monsteR](https://raw.githubusercontent.com/rweekly/image/master/2019/three-head.png)
+
 + [St. Paul park users love to bike, but not to fish!](https://www.katiejolly.io/blog/2019-07-17/saint-paul-parks)
+
+![St. Paul park users love to bike, but not to fish!](https://raw.githubusercontent.com/rweekly/image/master/2019/sanit.png)
 
 ###  R in Organizations
 
@@ -44,7 +50,9 @@ Release Date: 2019-07-22
 
 ###  R in Academia
 
+
 ###  Resources
+
 
 + [⚡️ Spatial Optimization with OSRM and R](https://github.com/MeganBeckett/presentations/tree/master/useR_2019)
 
@@ -60,7 +68,7 @@ Release Date: 2019-07-22
 
 + [modelsummary](https://github.com/vincentarelbundock/modelsummary) - Beautiful, customizable, publication-ready model summaries in R.
 
-![modelsummary](https://i.imgur.com/1u9hgm2.png)
+![modelsummary](https://raw.githubusercontent.com/rweekly/image/master/2019/modelsum.png)
 
 **BioC**
 
@@ -74,7 +82,12 @@ Release Date: 2019-07-22
 
 + [corrr 0.4.0](https://tidymodels.github.io/corrr/) - corrr is a package for exploring correlations in R
 
+![corrr 0.4.0](https://raw.githubusercontent.com/rweekly/image/master/2019/to-cor-df.png)
+
 ###  Videos and Podcasts
+
++ [Watch keynote presentations from the useR!2019 conference](https://blog.revolutionanalytics.com/2019/07/user2019-keynotes.html)
+
 
 + [Shiny in production: Principles, practices, and tools by Joe Cheng](https://resources.rstudio.com/rstudio-conf-2019/shiny-in-production-principles-practices-and-tools-joe-cheng?utm_content=bufferbf93f&utm_medium=social&utm_source=twitter&utm_campaign=buffer)
 
@@ -102,6 +115,8 @@ Release Date: 2019-07-22
 
 + [ggparty: Graphic Partying](https://cran.r-project.org/web/packages/ggparty/vignettes/ggparty-graphic-partying.html)
 
+![ggparty: Graphic Partying](https://raw.githubusercontent.com/rweekly/image/master/2019/party.png)
+
 + [Some Details on Running xgboost](http://www.win-vector.com/blog/2019/07/some-details-on-running-xgboost/)
 
 
@@ -110,7 +125,8 @@ Release Date: 2019-07-22
 
 + [Quick Hit: A Different (Diminutive) Look At Distributions With {ggeconodist}](https://rud.is/b/2019/07/15/quick-hit-a-different-diminutive-look-at-distributions-with-ggeconodist/)
 
-+ [Aggregating spatial data with the grainchanger package](https://ropensci.org/blog/2019/07/16/grainchanger/)
+![Quick Hit: A Different (Diminutive) Look At Distributions With {ggeconodist}](https://raw.githubusercontent.com/rweekly/image/master/2019/ggeco.png)
+
 
 + [An Ad-hoc Method for Calibrating Uncalibrated Models](http://www.win-vector.com/blog/2019/07/an-ad-hoc-method-for-calibrating-uncalibrated-models-2/)
 
@@ -120,11 +136,13 @@ Release Date: 2019-07-22
 
 + [Dotplot – the single most useful yet largely neglected dataviz type](https://ikashnitsky.github.io/2019/dotplot/)
 
-![Dotplot – the single most useful yet largely neglected dataviz type](https://ikashnitsky.github.io/images/190719/one-figure.png)
+![Dotplot – the single most useful yet largely neglected dataviz type](https://raw.githubusercontent.com/rweekly/image/master/2019/dotplot.png)
 
 + [Three Strategies for Working with Big Data in R](https://rviews.rstudio.com/2019/07/17/3-big-data-strategies-for-r/)
 
 + [Processing satellite image collections in R with the gdalcubes package](https://www.r-spatial.org//r/2019/07/18/gdalcubes1.html)
+
+![https://www.r-spatial.org//r/2019/07/18/gdalcubes1.html](https://raw.githubusercontent.com/rweekly/image/master/2019/gdalcubes4-1.png)
 
 + [Shiny Modules](https://www.inwt-statistics.com/read-blog/shiny-modules.html)
 
@@ -137,6 +155,10 @@ Release Date: 2019-07-22
 + [SQL Server Database connections in R](https://nhsrcommunity.com/blog/sql-server-database-connections-in-r/)
 
 + [Excel to R, Part 1 - The 10X Productivity Boost](https://www.business-science.io/business/2019/02/20/excel-to-r-part-1.html)
+
++ [Aggregating spatial data with the grainchanger package](https://ropensci.org/blog/2019/07/16/grainchanger/)
+
+![Aggregating spatial data with the grainchanger package](https://raw.githubusercontent.com/rweekly/image/master/2019/graincha.png)
 
 + [A/B Testing with Machine Learning - A Step-by-Step Tutorial](https://www.business-science.io/business/2019/03/11/ab-testing-machine-learning.html)
 
