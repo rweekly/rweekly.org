@@ -16,6 +16,10 @@ Release Date: 2019-07-29
 
 + [useR!2019 Quizz: Test your knowledge of base R and ThinkR](https://rtask.thinkr.fr/blog/user2019-quizz-test-your-knowledge-of-base-r-and-thinkr/)
 
++ [dependency parsing with udpipe](http://bnosac.be/index.php/blog/93-dependency-parsing-with-udpipe)
+
+![dependency parsing with udpipe](https://user-images.githubusercontent.com/1710810/61828961-2e695e80-ae68-11e9-81ef-5bf2ecf6a0f2.png)
+
 ### R in the Real World
 
 + [Machine learning models grow more powerful every week, but they all share the exact same dependency: data quality.  Here are some data verification tips, tricks, and case studies.](https://appsilon.com/data-quality/)
@@ -71,6 +75,7 @@ Release Date: 2019-07-29
 
 + [Rcpp 1.0.2: Small Polish](http://dirk.eddelbuettel.com/blog/2019/07/25#rcpp_1.0.2)
 
++ [update of udpipe](http://bnosac.be/index.php/blog/92-update-of-udpipe)
 
 ###  Videos and Podcasts
 
