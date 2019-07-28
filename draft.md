@@ -6,13 +6,6 @@ image: https://rweekly.org/public/facebook.png
 ---
 
 Release Date: 2019-07-29
-<<<<<<< HEAD
-=======
-
-###  Highlight
-
->>>>>>> 977587622dc375d36e019403080d285ccd153760
-
 
 
 ### Insights
@@ -39,15 +32,11 @@ Release Date: 2019-07-29
 
 + [CPAT and the Rényi-Type Statistic; End-of-Sample Change Point Detection in R](https://ntguardian.wordpress.com/2019/07/24/cpat-renyi-type-statistic-end-of-sample-change-point-detection-r/)
 
-<<<<<<< HEAD
 + ["Real life" DAG simulation using the simMixedDAG package](https://iyarlin.github.io/2019/07/23/mixed_dag_simulation_using_simmixeddag_package/)
 
-=======
->>>>>>> 977587622dc375d36e019403080d285ccd153760
 ###  Resources
 
 + [June 2019 "Top 40" R Packages](https://rviews.rstudio.com/2019/07/24/june-2019-top-40-r-packages/)
-
 
 ###  New Packages
 
@@ -59,12 +48,7 @@ Release Date: 2019-07-29
 
 + [gitlink - Add 'Git' Links to Your Web Based Assets](https://cran.r-project.org/package=gitlink)
 
-<<<<<<< HEAD
 + [tidymargins - Tidy Marginal Functions](https://cran.r-project.org/package=tidymargins)
-=======
-
-**BioC**
->>>>>>> 977587622dc375d36e019403080d285ccd153760
 
 + [cvGEE - Cross-Validated Predictions from GEE](https://cran.r-project.org/package=cvGEE)
 
@@ -145,13 +129,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
 
-<<<<<<< HEAD
 + [lyft level 5 autonomous vehicles data set](https://level5.lyft.com/dataset/)
 
 + [eia - API Wrapper for 'US Energy Information Administration' Open Data](https://cran.r-project.org/package=eia)
-=======
-
->>>>>>> 977587622dc375d36e019403080d285ccd153760
 
 ### Jobs
 
@@ -168,6 +148,3 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <<<<<<< HEAD
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> internship update 🥁 Linear Models! 📈 My <a href="https://twitter.com/hashtag/Tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#Tidyverse</a> inspired blocks based coding language can import CSVs, transform data with <a href="https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw">#dplyr</a> verbs, and now graph + stats! 💪 [Using <a href="https://twitter.com/ashleydavis75?ref_src=twsrc%5Etfw">@ashleydavis75</a>&#39;s <a href="https://twitter.com/hashtag/dataforge?src=hash&amp;ref_src=twsrc%5Etfw">#dataforge</a>, <a href="https://twitter.com/vega_vis?ref_src=twsrc%5Etfw">@vega_vis</a>, and my own <a href="https://twitter.com/hashtag/JavaScript?src=hash&amp;ref_src=twsrc%5Etfw">#JavaScript</a> magic 🦄] <a href="https://t.co/dia4gnKMNf">pic.twitter.com/dia4gnKMNf</a></p>&mdash; Maya Gans (@Mayacelium) <a href="https://twitter.com/Mayacelium/status/1153455719384936449?ref_src=twsrc%5Etfw">July 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-
-=======
->>>>>>> 977587622dc375d36e019403080d285ccd153760
