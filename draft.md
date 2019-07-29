@@ -1,44 +1,36 @@
 ---
 layout: draft
-title: R Weekly 2019-30
+title: R Weekly 2019-31
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-07-29
+Release Date: 2019-08-05
+
+
+###  Highlight
+
 
 
 ### Insights
 
-+ [BeautifulSoup vs. Rvest](https://theautomatic.net/2019/07/23/beautifulsoup-vs-rvest/)
 
-+ [The data deluge means no reasonable expectation of privacy - now what?](https://simplystatistics.org/2019/07/23/the-data-deluge-means-no-reasonable-expectation-of-privacy-no-what/)
-
-+ [useR!2019 Quiz: Test your knowledge of base R and ThinkR](https://rtask.thinkr.fr/blog/user2019-quizz-test-your-knowledge-of-base-r-and-thinkr/)
-
-![thinkr-quiz](https://raw.githubusercontent.com/rweekly/image/master/2019/30/thinkr-quiz.png)
 
 ### R in the Real World
 
-+ [Machine learning models grow more powerful every week, but they all share the exact same dependency: data quality.  Here are some data verification tips, tricks, and case studies.](https://appsilon.com/data-quality/)
 
 
 ###  R in Organizations
 
-+ [A new, straightforward, and  solid way to run R on AWS Lambda](http://enhancedatascience.com/2019/07/09/how-to-use-r-in-aws-lambda/)
-
-+ [Using environment variables and parametrized builds for automating R applications with Jenkins](https://jozef.io/r918-jenkins-pipelines/)
 
 
 ###  R in Academia
 
-+ [CPAT and the Rényi-Type Statistic; End-of-Sample Change Point Detection in R](https://ntguardian.wordpress.com/2019/07/24/cpat-renyi-type-statistic-end-of-sample-change-point-detection-r/)
 
-+ ["Real life" DAG simulation using the simMixedDAG package](https://iyarlin.github.io/2019/07/23/mixed_dag_simulation_using_simmixeddag_package/)
 
 ###  Resources
 
-+ [June 2019 "Top 40" R Packages](https://rviews.rstudio.com/2019/07/24/june-2019-top-40-r-packages/)
+
 
 ###  New Packages
 
@@ -46,62 +38,35 @@ Release Date: 2019-07-29
 
 **CRAN**
 
-+ [graph4lg - Build Graphs for Landscape Genetics Analysis](https://cran.r-project.org/package=graph4lg)
 
-+ [gitlink - Add 'Git' Links to Your Web Based Assets](https://cran.r-project.org/package=gitlink)
 
-+ [tidymargins - Tidy Marginal Functions](https://cran.r-project.org/package=tidymargins)
+**BioC**
 
-+ [cvGEE - Cross-Validated Predictions from GEE](https://cran.r-project.org/package=cvGEE)
 
-+ [imgpalr - Create Color Palettes from Images](https://cran.r-project.org/package=imgpalr)
-
-+ [trustedtimestamping - Create Trusted Timestamps of Datasets and Files](https://cran.r-project.org/package=trustedtimestamping)
 
 **GitHub or Bitbucket**
 
-+ [Introducing the `exhibitionist` package for annotating sequences](https://coolbutuseless.github.io/2019/07/24/introducing-the-exhibitionist-package-for-annotating-sequences/)
-
-![annotate](https://raw.githubusercontent.com/rweekly/image/master/2019/30/annotate.png)
-
-+ [ymlthis - write YAML for R Markdown, bookdown, blogdown, and more](https://github.com/r-lib/ymlthis)
 
 
 ### Updated Packages
 
-+ [Two New Testing-themed Addins + One New and One Updated CRAN Package](https://rud.is/b/2019/07/27/two-new-testing-themed-addins-one-new-and-one-updated-cran-package/)
-
-+ [RPushbullet 0.3.2](http://dirk.eddelbuettel.com/blog/2019/07/21#rpushbullet_0.3.2)
-
-+ [Rcpp 1.0.2: Small Polish](http://dirk.eddelbuettel.com/blog/2019/07/25#rcpp_1.0.2)
 
 
 ###  Videos and Podcasts
 
-+ [Shiny Developer Series screencast: Hands-on with `golem`](https://shinydevseries.com/post/golem-demo/) - In this screencast, Colin Fay demonstrates how to create a new Shiny application from scratch with `{golem}`! 
-
-+ [SatRDay Paris 2019 videos](https://www.youtube.com/playlist?list=PLDMpPFwvU_SwdIRsFLuQ1iLOef6hwSv2H)
 
 
 ### Gist & Cookbook
 
-+ [Collapsible code output for `xaringan`](https://gist.github.com/emitanaka/eaa258bb8471c041797ff377704c8505)
+
+
+### R Internationally
+
+
 
 ###  Tutorials
 
-+ [Can `{drake}` RAP?](https://www.rostrum.blog/2019/07/23/can-drake-rap/)
 
-+ [Many similar models - Part 2: Automate model fitting with purrr::map() loops](https://aosmith.rbind.io/2019/07/22/automate-model-fitting-with-loops/)
-
-+ [Generate custom Excel workbooks from Shiny](https://www.tychobra.com/posts/2019_07_22_excel_report_generation/)
-
-+ [A metaanalysis of truthtelling experiments with some nice Shiny apps](http://www.preferencesfortruthtelling.com/)
-
-+ [Talk at Wits – 18/7/2019](http://ronaldrichman.co.za/2019/07/21/talk-at-wits/)
-
-+ [Faster Gridding in R](http://tkelly.org/2019/07/faster-gridding-in-r/)
-
-![Faster Gridding in R](https://raw.githubusercontent.com/rweekly/image/master/2019/30/faster-gridding.png)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
@@ -130,12 +95,8 @@ Events in 3 Months:
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
-
 ### Datasets
 
-+ [lyft level 5 autonomous vehicles data set](https://level5.lyft.com/dataset/)
-
-+ [eia - API Wrapper for 'US Energy Information Administration' Open Data](https://cran.r-project.org/package=eia)
 
 ### Jobs
 
@@ -148,6 +109,3 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> internship update 🥁 Linear Models! 📈 My <a href="https://twitter.com/hashtag/Tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#Tidyverse</a> inspired blocks based coding language can import CSVs, transform data with <a href="https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw">#dplyr</a> verbs, and now graph + stats! 💪 [Using <a href="https://twitter.com/ashleydavis75?ref_src=twsrc%5Etfw">@ashleydavis75</a>&#39;s <a href="https://twitter.com/hashtag/dataforge?src=hash&amp;ref_src=twsrc%5Etfw">#dataforge</a>, <a href="https://twitter.com/vega_vis?ref_src=twsrc%5Etfw">@vega_vis</a>, and my own <a href="https://twitter.com/hashtag/JavaScript?src=hash&amp;ref_src=twsrc%5Etfw">#JavaScript</a> magic 🦄] <a href="https://t.co/dia4gnKMNf">pic.twitter.com/dia4gnKMNf</a></p>&mdash; Maya Gans (@Mayacelium) <a href="https://twitter.com/Mayacelium/status/1153455719384936449?ref_src=twsrc%5Etfw">July 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
