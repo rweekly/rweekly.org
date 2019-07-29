@@ -145,6 +145,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
-<<<<<<< HEAD
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> internship update 🥁 Linear Models! 📈 My <a href="https://twitter.com/hashtag/Tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#Tidyverse</a> inspired blocks based coding language can import CSVs, transform data with <a href="https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw">#dplyr</a> verbs, and now graph + stats! 💪 [Using <a href="https://twitter.com/ashleydavis75?ref_src=twsrc%5Etfw">@ashleydavis75</a>&#39;s <a href="https://twitter.com/hashtag/dataforge?src=hash&amp;ref_src=twsrc%5Etfw">#dataforge</a>, <a href="https://twitter.com/vega_vis?ref_src=twsrc%5Etfw">@vega_vis</a>, and my own <a href="https://twitter.com/hashtag/JavaScript?src=hash&amp;ref_src=twsrc%5Etfw">#JavaScript</a> magic 🦄] <a href="https://t.co/dia4gnKMNf">pic.twitter.com/dia4gnKMNf</a></p>&mdash; Maya Gans (@Mayacelium) <a href="https://twitter.com/Mayacelium/status/1153455719384936449?ref_src=twsrc%5Etfw">July 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
