@@ -14,7 +14,9 @@ Release Date: 2019-07-29
 
 + [The data deluge means no reasonable expectation of privacy - now what?](https://simplystatistics.org/2019/07/23/the-data-deluge-means-no-reasonable-expectation-of-privacy-no-what/)
 
-+ [useR!2019 Quizz: Test your knowledge of base R and ThinkR](https://rtask.thinkr.fr/blog/user2019-quizz-test-your-knowledge-of-base-r-and-thinkr/)
++ [useR!2019 Quiz: Test your knowledge of base R and ThinkR](https://rtask.thinkr.fr/blog/user2019-quizz-test-your-knowledge-of-base-r-and-thinkr/)
+
+![thinkr-quiz](https://raw.githubusercontent.com/rweekly/image/master/2019/30/thinkr-quiz.png)
 
 ### R in the Real World
 
@@ -60,6 +62,8 @@ Release Date: 2019-07-29
 
 + [Introducing the `exhibitionist` package for annotating sequences](https://coolbutuseless.github.io/2019/07/24/introducing-the-exhibitionist-package-for-annotating-sequences/)
 
+![annotate](https://raw.githubusercontent.com/rweekly/image/master/2019/30/annotate.png)
+
 + [ymlthis - write YAML for R Markdown, bookdown, blogdown, and more](https://github.com/r-lib/ymlthis)
 
 
@@ -97,7 +101,7 @@ Release Date: 2019-07-29
 
 + [Faster Gridding in R](http://tkelly.org/2019/07/faster-gridding-in-r/)
 
-
+![Faster Gridding in R](https://raw.githubusercontent.com/rweekly/image/master/2019/30/faster-gridding.png)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
