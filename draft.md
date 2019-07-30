@@ -71,7 +71,7 @@ Release Date: 2019-08-05
 
 ###  Tutorials
 
-
+[Beyond Plot Labels: Hacking gganimate's Frame Variables](https://data-chronicler.netlify.com/2019/07/24/2019-07-24-beyond-plot-labels-hacking-gganimate-s-frame-variables/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
