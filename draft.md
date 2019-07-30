@@ -16,6 +16,10 @@ Release Date: 2019-08-05
 
 
 
++ [dependency parsing with udpipe](http://bnosac.be/index.php/blog/93-dependency-parsing-with-udpipe)
+
+![dependency parsing with udpipe](https://user-images.githubusercontent.com/1710810/61828961-2e695e80-ae68-11e9-81ef-5bf2ecf6a0f2.png)
+
 ### R in the Real World
 
 
@@ -51,6 +55,7 @@ Release Date: 2019-08-05
 ### Updated Packages
 
 
++ [update of udpipe](http://bnosac.be/index.php/blog/92-update-of-udpipe)
 
 ###  Videos and Podcasts
 
