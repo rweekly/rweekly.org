@@ -29,6 +29,8 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 + [Rachael Tatman's R Tutorials (Kaggle)](https://www.kaggle.com/rtatman/rachael-s-r-tutorials)
 
++ [mlr3 (Machine Learning in R) - Initial release](https://mlr-org.com/docs/mlr3-0-1-0/)
+
 ###  R in Organizations
 
 
@@ -43,7 +45,9 @@ Optional: This week release was curated by ..., with help from the R Weekly team
 
 **CRAN**
 
-
++ [mlr3 0.1.1](https://cran.r-project.org/web/packages/mlr3/index.html)
++ [mlr3misc 0.1.1](https://cran.r-project.org/web/packages/mlr3misc/index.html)
++ [paradox 0.1.0](https://cran.r-project.org/web/packages/paradox/index.html)
 
 **BioC**
 
