@@ -71,7 +71,8 @@ Release Date: 2019-08-05
 
 ###  Tutorials
 
-[Beyond Plot Labels: Hacking gganimate's Frame Variables](https://data-chronicler.netlify.com/2019/07/24/2019-07-24-beyond-plot-labels-hacking-gganimate-s-frame-variables/)
++ [Beyond Plot Labels: Hacking gganimate's Frame Variables](https://data-chronicler.netlify.com/2019/07/24/2019-07-24-beyond-plot-labels-hacking-gganimate-s-frame-variables/)
++ [How to embed Excel-like Spreadsheet Table in RMarkdown](https://www.programmingwithr.com/how-to-embed-excel-like-spreadsheet-table-in-rmarkdown/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
