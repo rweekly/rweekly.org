@@ -47,6 +47,9 @@ Release Date: 2019-08-05
 + [mlr3 0.1.1](https://cran.r-project.org/web/packages/mlr3/index.html)
 + [mlr3misc 0.1.1](https://cran.r-project.org/web/packages/mlr3misc/index.html)
 + [paradox 0.1.0](https://cran.r-project.org/web/packages/paradox/index.html)
++ [idmodelr - Infectious Disease Model Library and Utilities](https://cran.r-project.org/package=idmodelr)
+![idmodelr - Infectious Disease Model Library and Utilities](https://raw.githubusercontent.com/seabbs/idmodelr/master/man/figures/unnamed-chunk-13-1.png)
+
 
 **BioC**
 
