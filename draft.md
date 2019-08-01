@@ -42,7 +42,9 @@ Release Date: 2019-08-05
 
 **CRAN**
 
++ [idmodelr - Infectious Disease Model Library and Utilities](https://cran.r-project.org/package=idmodelr)
 
+![idmodelr - Infectious Disease Model Library and Utilities](https://raw.githubusercontent.com/seabbs/idmodelr/master/man/figures/unnamed-chunk-13-1.png)
 
 **BioC**
 
