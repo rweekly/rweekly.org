@@ -24,6 +24,8 @@ Release Date: 2019-08-05
 
 
 
++ [mlr3 (Machine Learning in R) - Initial release](https://mlr-org.com/docs/mlr3-0-1-0/)
+
 ###  R in Organizations
 
 
@@ -42,7 +44,9 @@ Release Date: 2019-08-05
 
 **CRAN**
 
-
++ [mlr3 0.1.1](https://cran.r-project.org/web/packages/mlr3/index.html)
++ [mlr3misc 0.1.1](https://cran.r-project.org/web/packages/mlr3misc/index.html)
++ [paradox 0.1.0](https://cran.r-project.org/web/packages/paradox/index.html)
 
 **BioC**
 
