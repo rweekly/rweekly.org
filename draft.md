@@ -103,6 +103,8 @@ Release Date: 2019-08-05
 
 + [stop() - breathe - recover(): Debugging Techniques in R!](https://www.youtube.com/watch?v=M5n_2jmdJ_8)
 
++ [R-Podcast Episode 31 - Data Science Education with R](https://r-podcast.org/31): Eric shares insights gained from the JSM 2019 conference and is joined by RStudio's education team members Alison Hill & Mine Cetinkaya-Rundel to discuss new ideas for teaching data science effectively, as well as how tools like R-Markdown are opening many new possibilities for both students and teachers.
+
 ###  Tutorials
 
 + [Beyond Plot Labels: Hacking {gganimate}'s Frame Variables](https://data-chronicler.netlify.com/2019/07/24/2019-07-24-beyond-plot-labels-hacking-gganimate-s-frame-variables/)
