@@ -16,17 +16,15 @@ Release Date: 2019-08-05
 
 + [dependency parsing with {udpipe}](http://bnosac.be/index.php/blog/93-dependency-parsing-with-udpipe)
 
-![dependency parsing with {udpipe}](https://user-images.githubusercontent.com/1710810/61828961-2e695e80-ae68-11e9-81ef-5bf2ecf6a0f2.png)
-
-+ [Data Chats: An Interview with Avision Ho](https://martinctc.github.io/blog/data-chats-an-interview-with-avision-ho/)
+![dependency parsing with udpipe](https://user-images.githubusercontent.com/1710810/61828961-2e695e80-ae68-11e9-81ef-5bf2ecf6a0f2.png)
 
 + [80th TokyoR Meetup Roundup: Econometrics vs. ML, Python with R, & Translating tidyverse.org into Japanese!](https://ryo-n7.github.io/2019-08-02-tokyoR-80-roundup/)
 
 + [Rmd first: When development starts with documentation](https://rtask.thinkr.fr/when-development-starts-with-documentation/)
 
-### R in the Real World
++ [Data Chats: An Interview with Avision Ho](https://martinctc.github.io/blog/data-chats-an-interview-with-avision-ho/)
 
-+ [{mlr3} (Machine Learning in R) - Initial release](https://mlr-org.com/docs/mlr3-0-1-0/)
+### R in the Real World
 
 + [Burden of roof: revisiting housing costs with {tidycensus}](https://austinwehrwein.com/data-visualization/housing/)
 
@@ -34,19 +32,27 @@ Release Date: 2019-08-05
 
 ![]()
 
++ [All Road Lead to Rome](https://datawookie.netlify.com/blog/2019/07/all-road-lead-to-rome/)
+
++ [Visualizing Locke and Mill: A {tidytext} analysis](https://sethdobson.netlify.com/2019/07/24/visualizing-locke-and-mill-a-tidytext-analysis/)
+
+![]()
+
 ###  R in Organizations
 
-
++ [{mlr3} (Machine Learning in R) - Initial release](https://mlr-org.com/docs/mlr3-0-1-0/)
 
 ###  R in Academia
 
-+ [Robust statistical methods: a primer for clinical psychology and experimental psychopathology researchers - Field, A. P., Professor, & Wilcox, R. R. (2017).](https://osf.io/v3nz4/)
++ [Robust statistical methods: a primer for clinical psychology and experimental psychopathology researchers - Field, A. P., & Wilcox, R. R. (2017).](https://osf.io/v3nz4/)
 
 + [Simulating pluralism: the language of democracy in hegemonic authoritarianism - Maerz, S. F. (2019)](https://www.tandfonline.com/doi/full/10.1080/2474736X.2019.1605834)
 
++ [{revtools}: An R package to support article screening for evidence synthesis - Westgate, M. J. (2019)](https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.1374)
+
 ###  Resources
 
-
++ [Shiny app: Teaching sampling from distributions with R](http://shiny.psy.gla.ac.uk/debruine/simulate/)
 
 ###  New Packages
 
@@ -54,20 +60,20 @@ Release Date: 2019-08-05
 
 **CRAN**
 
-+ [{mlr3 0.1.1}](https://cran.r-project.org/web/packages/mlr3/index.html)
++ [{mlr3 0.1.1}: Efficient, Object-oriented Programming on the Building Blocks of Machine Learning](https://cran.r-project.org/web/packages/mlr3/index.html)
 
-+ [{mlr3misc 0.1.1}](https://cran.r-project.org/web/packages/mlr3misc/index.html)
++ [{mlr3misc 0.1.1}: Helper Functions for {mlr3}](https://cran.r-project.org/web/packages/mlr3misc/index.html)
 
-+ [{paradox 0.1.0}](https://cran.r-project.org/web/packages/paradox/index.html)
++ [{paradox 0.1.0}: Define and Work with Parameter Spaces for Complex Algorithms](https://cran.r-project.org/web/packages/paradox/index.html)
 
-+ [{idmodelr 0.3.0} - Infectious Disease Model Library and Utilities](https://cran.r-project.org/package=idmodelr)
++ [{idmodelr 0.3.0}: Infectious Disease Model Library and Utilities](https://cran.r-project.org/package=idmodelr)
 ![idmodelr - Infectious Disease Model Library and Utilities](https://raw.githubusercontent.com/seabbs/idmodelr/master/man/figures/unnamed-chunk-13-1.png)
 
-+ [{gitignore 0.1.3}](https://github.com/ropensci/gitignore)
++ [{gitignore 0.1.3}: Provides a simple R Interface to the gitignore.io API](https://github.com/ropensci/gitignore)
 
-+ [{imgpalr 0.2.1](https://github.com/leonawicz/imgpalr)
++ [{apexcharter 0.1.1}: htmlwidget for apexcharts.js](https://github.com/dreamRs/apexcharter)
 
-+ [{apexcharter 0.1.1}](https://github.com/dreamRs/apexcharter)
++ [{stplanr}: Sustainable Transport Planning with R](https://cran.r-project.org/web/packages/stplanr/index.html)
 
 **GitHub or Bitbucket**
 
@@ -93,27 +99,13 @@ Release Date: 2019-08-05
 
 + [stop() - breathe - recover(): Debugging Techniques in R!](https://www.youtube.com/watch?v=M5n_2jmdJ_8)
 
-### Gist & Cookbook
-
-
-
-### R Internationally
-
-
-
 ###  Tutorials
 
-+ [Beyond Plot Labels: Hacking gganimate's Frame Variables](https://data-chronicler.netlify.com/2019/07/24/2019-07-24-beyond-plot-labels-hacking-gganimate-s-frame-variables/)
++ [Beyond Plot Labels: Hacking {gganimate}'s Frame Variables](https://data-chronicler.netlify.com/2019/07/24/2019-07-24-beyond-plot-labels-hacking-gganimate-s-frame-variables/)
 
 + [How to embed Excel-like Spreadsheet Table in RMarkdown](https://www.programmingwithr.com/how-to-embed-excel-like-spreadsheet-table-in-rmarkdown/)
 
 + [Validating Type I and II Errors in A/B Tests in R](https://rviews.rstudio.com/2019/07/31/validating-type-i-and-ii-errors-in-a-b-tests-in-r/)
-
-+ [Miracles with {magick} and {bunny}](https://www.ddrive.no/post/miracles-with-magick-and-bunny/)
-
-+ [All Road Lead to Rome](https://datawookie.netlify.com/blog/2019/07/all-road-lead-to-rome/)
-
-+ [Beyond Plot Labels: Hacking {gganimate}'s Frame Variables](https://data-chronicler.netlify.com/2019/07/24/2019-07-24-beyond-plot-labels-hacking-gganimate-s-frame-variables/)
 
 + [Introducing the {funneljoin} package](https://hookedondata.org/introducing-the-funneljoin-package/)
 
@@ -121,11 +113,11 @@ Release Date: 2019-08-05
 
 ![]()
 
-+ [Visualizing Locke and Mill: a tidytext analysis](https://sethdobson.netlify.com/2019/07/24/visualizing-locke-and-mill-a-tidytext-analysis/)
-
-![]()
++ [Miracles with {magick} and {bunny}](https://www.ddrive.no/post/miracles-with-magick-and-bunny/)
 
 + [From H2O to POJO Models: Getting Started with a Minimal Example](https://www.onceupondata.com/2019/07/13/h2o-pojo-models/)
+
++ [Textures and geometric shapes (12 Months of aRt, July)](https://www.williamrchase.com/post/textures-and-geometric-shapes-12-months-of-art-july/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
@@ -156,11 +148,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
 
-
-### Jobs
-
-
-
++ ["Women in Parliament" data set](https://github.com/saghirb/Women-in-Parliament-Hex-Sticker)
 
 ###  Call for Participation
 
@@ -168,3 +156,10 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m so excited to see my friend and colleague <a href="https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw">@hadleywickham</a> honored with the 2019 COPSS award at <a href="https://twitter.com/hashtag/JSM2019?src=hash&amp;ref_src=twsrc%5Etfw">#JSM2019</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> 👏👏👏 <a href="https://t.co/sqc2nBqoXt">pic.twitter.com/sqc2nBqoXt</a></p>&mdash; Jenny Bryan (@JennyBryan) <a href="https://twitter.com/JennyBryan/status/1156704920495513600?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is wild. Solomon Kurz has “ported” <a href="https://twitter.com/rlmcelreath?ref_src=twsrc%5Etfw">@rlmcelreath</a> _Statistical Rethinking_ to use brms &amp; Tidyverse. And made the ported book open source. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/NcklzifvDH">https://t.co/NcklzifvDH</a> Statistical Rethinking with brms, ggplot2, and the tidyverse - bookdown</p>&mdash; JD Long (@CMastication) <a href="https://twitter.com/CMastication/status/1155451998373896192?ref_src=twsrc%5Etfw">July 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Windows <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> users: did you know make screenshots directly from R on Windows using image_read(&quot;screenshot:&quot;) in the magick package? Make them extra fancy with the new image_shadow() function. <a href="https://t.co/ZxakavszRL">pic.twitter.com/ZxakavszRL</a></p>&mdash; Jeroen Ooms (@opencpu) <a href="https://twitter.com/opencpu/status/1155078546102083584?ref_src=twsrc%5Etfw">July 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
