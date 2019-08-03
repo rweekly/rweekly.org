@@ -14,13 +14,15 @@ Release Date: 2019-08-05
 
 ### Insights
 
++ [Rmd first: When development starts with documentation](https://rtask.thinkr.fr/when-development-starts-with-documentation/)
+
 + [dependency parsing with {udpipe}](http://bnosac.be/index.php/blog/93-dependency-parsing-with-udpipe)
 
 ![dependency parsing with udpipe](https://user-images.githubusercontent.com/1710810/61828961-2e695e80-ae68-11e9-81ef-5bf2ecf6a0f2.png)
 
 + [80th TokyoR Meetup Roundup: Econometrics vs. ML, Python with R, & Translating tidyverse.org into Japanese!](https://ryo-n7.github.io/2019-08-02-tokyoR-80-roundup/)
 
-+ [Rmd first: When development starts with documentation](https://rtask.thinkr.fr/when-development-starts-with-documentation/)
++ [Rant about Dependencies: Reflection on #tinyverse vs #tidyverse and #rstats vs #python](https://www.ddrive.no/post/rant-about-dependencies/)
 
 + [Data Chats: An Interview with Avision Ho](https://martinctc.github.io/blog/data-chats-an-interview-with-avision-ho/)
 
