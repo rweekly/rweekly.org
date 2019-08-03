@@ -26,6 +26,8 @@ Release Date: 2019-08-05
 
 ### R in the Real World
 
++ [The Use of Political Ads on Facebook in the Run-up to the European Parliament Elections 2019 in Austria](http://rpubs.com/zoowalk/FB_EP2019)
+
 + [Burden of roof: revisiting housing costs with {tidycensus}](https://austinwehrwein.com/data-visualization/housing/)
 
 + [Estimating important things with public data](http://www.datalorax.com/post/estimating-important-things-with-public-data/)
