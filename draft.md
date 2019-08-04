@@ -18,7 +18,7 @@ Release Date: 2019-08-05
 
 + [dependency parsing with {udpipe}](http://bnosac.be/index.php/blog/93-dependency-parsing-with-udpipe)
 
-![dependency parsing with udpipe](https://raw.githubusercontent.com/rweekly/image/master/2019-08-05/udpipe1.png/)
+![dependency parsing with udpipe](https://raw.githubusercontent.com/rweekly/image/master/2019-08-05/udpipe1.png)
 
 + [80th TokyoR Meetup Roundup: Econometrics vs. ML, Python with R, & Translating tidyverse.org into Japanese!](https://ryo-n7.github.io/2019-08-02-tokyoR-80-roundup/)
 
