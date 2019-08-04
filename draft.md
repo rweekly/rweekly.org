@@ -18,7 +18,7 @@ Release Date: 2019-08-05
 
 + [dependency parsing with {udpipe}](http://bnosac.be/index.php/blog/93-dependency-parsing-with-udpipe)
 
-![dependency parsing with udpipe](https://user-images.githubusercontent.com/1710810/61828961-2e695e80-ae68-11e9-81ef-5bf2ecf6a0f2.png)
+![dependency parsing with udpipe](https://raw.githubusercontent.com/rweekly/image/master/2019-08-05/udpipe1.png/)
 
 + [80th TokyoR Meetup Roundup: Econometrics vs. ML, Python with R, & Translating tidyverse.org into Japanese!](https://ryo-n7.github.io/2019-08-02-tokyoR-80-roundup/)
 
@@ -30,17 +30,17 @@ Release Date: 2019-08-05
 
 + [The Use of Political Ads on Facebook in the Run-up to the European Parliament Elections 2019 in Austria](http://rpubs.com/zoowalk/FB_EP2019)
 
+![fbaustria](https://raw.githubusercontent.com/rweekly/image/master/2019-08-05/FBaustria.png)
+
 + [Burden of roof: revisiting housing costs with {tidycensus}](https://austinwehrwein.com/data-visualization/housing/)
 
 + [Estimating important things with public data](http://www.datalorax.com/post/estimating-important-things-with-public-data/)
-
-![]()
 
 + [All Road Lead to Rome](https://datawookie.netlify.com/blog/2019/07/all-road-lead-to-rome/)
 
 + [Visualizing Locke and Mill: A {tidytext} analysis](https://sethdobson.netlify.com/2019/07/24/visualizing-locke-and-mill-a-tidytext-analysis/)
 
-![]()
+![lockemill](https://raw.githubusercontent.com/rweekly/image/master/2019-08-05/jsmill-locke.png)
 
 ###  R in Organizations
 
@@ -71,7 +71,7 @@ Release Date: 2019-08-05
 + [{paradox 0.1.0}: Define and Work with Parameter Spaces for Complex Algorithms](https://cran.r-project.org/web/packages/paradox/index.html)
 
 + [{idmodelr 0.3.0}: Infectious Disease Model Library and Utilities](https://cran.r-project.org/package=idmodelr)
-![idmodelr - Infectious Disease Model Library and Utilities](https://raw.githubusercontent.com/seabbs/idmodelr/master/man/figures/unnamed-chunk-13-1.png)
+![idmodelr - Infectious Disease Model Library and Utilities](https://raw.githubusercontent.com/rweekly/image/master/2019-08-05/idmodelr.png/)
 
 + [{gitignore 0.1.3}: Provides a simple R Interface to the gitignore.io API](https://github.com/ropensci/gitignore)
 
@@ -116,8 +116,7 @@ Release Date: 2019-08-05
 + [Introducing the {funneljoin} package](https://hookedondata.org/introducing-the-funneljoin-package/)
 
 + [A History of Polar Area / Coxcomb / Rose charts & how to make them in R's {ggplot2}](https://www.sportschord.com/post/polar_area_charts_tutorial)
-
-![]()
+![radarplot](https://raw.githubusercontent.com/rweekly/image/master/2019-08-05/radarplot.png)
 
 + [Miracles with {magick} and {bunny}](https://www.ddrive.no/post/miracles-with-magick-and-bunny/)
 
