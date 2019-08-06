@@ -45,7 +45,7 @@ Release Date: 2019-08-12
 
 **GitHub or Bitbucket**
 
-
++ [{pdqr}: Create, transform, and summarize custom random variables with distribution functions (analogues of `p*()`, `d*()`, `q*()`, and `r*()` functions from base R)](https://github.com/echasnovski/pdqr)
 
 ### Updated Packages
 
@@ -65,7 +65,9 @@ Release Date: 2019-08-12
 
 ###  Tutorials
 
++ [Announcing pdqr: package for working with custom distribution functions](http://www.questionflow.org/2019/08/01/announcing-pdqr/)
 
++ [Arguments of stats::density(): Anamated illustrations of how arguments affect output of `stats::density()`](http://www.questionflow.org/2019/08/06/arguments-of-stats-density/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
