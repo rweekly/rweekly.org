@@ -49,6 +49,8 @@ Release Date: 2019-08-12
 
 ### Updated Packages
 
+[{mlr 2.15.0}](https://mlr.mlr-org.com/)
+
 
 
 ###  Videos and Podcasts
