@@ -65,6 +65,8 @@ Release Date: 2019-08-12
 
 ###  Tutorials
 
++ [Beginners Cookbook for Interactive Visualization in R with highcharter](https://www.programmingwithr.com/beginners-cookbook-for-interactive-visualization-in-r-with-highcharter/)
+
 
 
 <!--<div class="post-more-begi
