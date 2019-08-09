@@ -29,7 +29,7 @@ Release Date: 2019-08-12
 
 ###  Resources
 
-
++ [Shiny app: Open Trade Statistics](https://github.com/tradestatistics/visualization-with-shiny)
 
 ###  New Packages
 
@@ -37,7 +37,7 @@ Release Date: 2019-08-12
 
 **CRAN**
 
-
++ [{arrow}: Apache Arrow R Package](http://arrow.apache.org/blog/2019/08/08/r-package-on-cran/)
 
 **BioC**
 
@@ -45,15 +45,17 @@ Release Date: 2019-08-12
 
 **GitHub or Bitbucket**
 
++ [{ggtext}: Improved text rendering support for {ggplot2}](https://github.com/clauswilke/ggtext)
 
++ [{roxytest}: Inline tests with roxygen and testthat.](https://github.com/mikldk/roxytest)
 
 ### Updated Packages
 
-
++ [{ggforce 0.3.0}](https://www.data-imaginist.com/2019/a-flurry-of-facets/)
 
 ###  Videos and Podcasts
 
-
++ [Interview with Joe Cheng - useR! 2019](https://www.youtube.com/watch?v=elG0gvnaSIs&feature=youtu.be)
 
 ### Gist & Cookbook
 
@@ -61,12 +63,11 @@ Release Date: 2019-08-12
 
 ### R Internationally
 
-
-
 ###  Tutorials
 
++ [Automatic {testthat} test skeletons with new R package {roxytest} extending {roxygen2}](https://mikl.dk/post/2019-roxytest/)
 
-
++ [{gganimate} your hex!](https://www.ddrive.no/post/gganimate-your-hex/)
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
@@ -86,6 +87,8 @@ Events in 3 Months:
 + [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)
 
 + [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D
+
++ [rOpenSci OzUnconf (Sydney, Australia), December 11 - 13 2019](https://ozunconf19.ropensci.org/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
