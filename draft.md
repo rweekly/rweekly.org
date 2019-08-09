@@ -51,7 +51,7 @@ Release Date: 2019-08-12
 
 ### Updated Packages
 
-+ [{ggforce 0.3.0}](https://www.data-imaginist.com/2019/a-flurry-of-facets/)
++ [{ggforce 0.3.0}: A Flurry of Facets](https://www.data-imaginist.com/2019/a-flurry-of-facets/)
 
 ###  Videos and Podcasts
 
