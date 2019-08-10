@@ -55,6 +55,8 @@ Release Date: 2019-08-12
 
 + [{ggforce 0.3.0}: A Flurry of Facets](https://www.data-imaginist.com/2019/a-flurry-of-facets/)
 
++ [{mlr 2.15.0}](https://mlr.mlr-org.com/)
+
 ###  Videos and Podcasts
 
 + [Interview with Joe Cheng - useR! 2019](https://www.youtube.com/watch?v=elG0gvnaSIs&feature=youtu.be)
