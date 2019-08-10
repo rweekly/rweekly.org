@@ -49,6 +49,8 @@ Release Date: 2019-08-12
 
 + [{roxytest}: Inline tests with roxygen and testthat.](https://github.com/mikldk/roxytest)
 
++ [{opendatatoronto}: Access the Toronto Open Data Portal API](https://github.com/sharlagelfand/opendatatoronto)
+
 ### Updated Packages
 
 + [{ggforce 0.3.0}: A Flurry of Facets](https://www.data-imaginist.com/2019/a-flurry-of-facets/)
