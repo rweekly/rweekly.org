@@ -67,6 +67,8 @@ Release Date: 2019-08-12
 
 ###  Tutorials
 
++ [Beginners Cookbook for Interactive Visualization in R with highcharter](https://www.programmingwithr.com/beginners-cookbook-for-interactive-visualization-in-r-with-highcharter/)
+
 + [Automatic {testthat} test skeletons with new R package {roxytest} extending {roxygen2}](https://mikl.dk/post/2019-roxytest/)
 
 + [{gganimate} your hex!](https://www.ddrive.no/post/gganimate-your-hex/)
