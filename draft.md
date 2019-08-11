@@ -15,11 +15,20 @@ Release Date: 2019-08-12
 
 + [Remember the change in the sample() function of R 3.6.0](https://f.briatte.org/r/change-in-sample-function-r-3-6-0)
 
++ [Reduce the size of model objects saved to disk](https://jcahoon.netlify.com/post/2019/08/08/model-butcher/)
 
 ### R in the Real World
 
 + [The Shiny Developer Series](https://blog.rstudio.com/2019/08/05/the-shiny-developer-series/)
 
++ [Using parallelization, multiple git repositories and setting permissions when automating R applications with Jenkins](https://jozef.io/r919-jenkins-pipelines-parallel/)
+
+
++ [Creating Excel Workbooks with multiple sheets in R](https://finderding.com/creating-excel-workbooks-with-multiple-sheets-in-r/)
+
++ [How to generate meaningful fake data for learning, experimentation and teaching](https://www.programmingwithr.com/how-to-generate-meaningful-fake-data-for-learning-experimentation-and-teaching/)
+
++ [A Flurry of Facets](https://www.data-imaginist.com/2019/a-flurry-of-facets/)
 
 ###  R in Organizations
 
@@ -77,6 +86,10 @@ Release Date: 2019-08-12
 
 + [Bayesian Thinking Podcast](https://fharrell.com/talk/pspodcastbayes/)
 
+
+
++ [Keeping up with Tidyverse Functions using Tidy Tuesday Screencasts](http://www.notesofdabbler.com/2019/08/06/tidyscreencastfuncs/)
+
 ### Gist & Cookbook
 
 
@@ -87,6 +100,7 @@ Release Date: 2019-08-12
 
 ###  Tutorials
 
++ [tibble subsetting and subassignment](https://tibble.tidyverse.org/dev/articles/subassign.html)
 
 + [First part of a series on how I setup this RStudio distill themed blog with Netlify](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/)
 
@@ -136,6 +150,24 @@ Release Date: 2019-08-12
 
 + [Authorship classification with tidymodels and textrecipes](https://www.hvitfeldt.me/blog/authorship-classification-with-tidymodels-and-textrecipes/)
 
++ [R Markdown Workshop](https://www.cillianmchugh.com/rblog/rmarkdown-workshop)
+
++ [Interactive Visualization in R with apexcharter](https://www.programmingwithr.com/interactive-visualization-in-r-with-apexcharter/)
+
++ [Finding duplicates in data frame across columns and replacing them with unique values using R](https://tomaztsql.wordpress.com/2019/08/05/finding-duplicates-in-data-frame-across-columns-and-replacing-them-with-unique-values-using-r/)
+
++ [How to make Square (Pie) Charts for Infographics in R](https://www.programmingwithr.com/how-to-make-square-pie-charts-for-infographics-in-r/)
+
+
++ [Causal inference with DAGs in R](https://paoloeusebi.blog/2019/08/06/causal-inference-with-dags-in-r/)
+
++ [Check your (Mixed) Model for Multicollinearity with 'performance'](https://easystats.github.io/blog/posts/performance_check_collinearity/)
+
++ [Shapiro-Wilk Test for Normality in R](https://jointhedatathread.com/2019/08/08/shapiro-wilk-test-for-normality-in-r/)
+
++ [Beginners Cookbook for Interactive Visualization in R with highcharter](https://www.programmingwithr.com/beginners-cookbook-for-interactive-visualization-in-r-with-highcharter/)
+
++ [Speeding up Bayesian sampling with map_rect](https://www.briancallander.com/posts/map_rect/speeding_up_bayesian_sampling_with_map_rect.html)
 
 
 <!--<div class="post-more-begi
@@ -181,3 +213,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">R Assignment Alignment Chart <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br><br>(building in my own opinion regarding `=` 😁) <a href="https://t.co/BXfGMJfkcU">pic.twitter.com/BXfGMJfkcU</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href="https://twitter.com/tylermorganwall/status/1160273084517158912?ref_src=twsrc%5Etfw">August 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">R is quickly becoming the tool of choice for data analysis in science. Lists of excellent resources to learn <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> have been compiled in multiple places (I will mention here the amazing work of <a href="https://twitter.com/djnavarro?ref_src=twsrc%5Etfw">@djnavarro</a> <a href="https://twitter.com/MattCrump_?ref_src=twsrc%5Etfw">@MattCrump_</a> and of course <a href="https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw">@hadleywickham</a> , links below) 1/6</p>&mdash; David Moreau (@davidwmoreau) <a href="https://twitter.com/davidwmoreau/status/1158181303226781696?ref_src=twsrc%5Etfw">August 5, 2019</a></blockquote>
