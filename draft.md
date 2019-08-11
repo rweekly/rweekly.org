@@ -45,11 +45,17 @@ Release Date: 2019-08-12
 
 **GitHub or Bitbucket**
 
+
+
++ [{pdqr}: Create, transform, and summarize custom random variables with distribution functions (analogues of `p*()`, `d*()`, `q*()`, and `r*()` functions from base R)](https://github.com/echasnovski/pdqr)
+
+
 + [{ggtext}: Improved text rendering support for {ggplot2}](https://github.com/clauswilke/ggtext)
 
 + [{roxytest}: Inline tests with roxygen and testthat.](https://github.com/mikldk/roxytest)
 
 + [{opendatatoronto}: Access the Toronto Open Data Portal API](https://github.com/sharlagelfand/opendatatoronto)
+
 
 ### Updated Packages
 
@@ -69,11 +75,21 @@ Release Date: 2019-08-12
 
 ###  Tutorials
 
+
 + [Beginners Cookbook for Interactive Visualization in R with highcharter](https://www.programmingwithr.com/beginners-cookbook-for-interactive-visualization-in-r-with-highcharter/)
 
 + [Automatic {testthat} test skeletons with new R package {roxytest} extending {roxygen2}](https://mikl.dk/post/2019-roxytest/)
 
+
+
 + [{gganimate} your hex!](https://www.ddrive.no/post/gganimate-your-hex/)
+
+
++ [Announcing pdqr: package for working with custom distribution functions](http://www.questionflow.org/2019/08/01/announcing-pdqr/)
+
++ [Arguments of stats::density(): Anamated illustrations of how arguments affect output of `stats::density()`](http://www.questionflow.org/2019/08/06/arguments-of-stats-density/)
+
+
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
 
