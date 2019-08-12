@@ -30,6 +30,11 @@ Release Date: 2019-08-12
 
 + [A Flurry of Facets](https://www.data-imaginist.com/2019/a-flurry-of-facets/)
 
+![A Flurry of Facets](https://www.data-imaginist.com/assets/images/ggforce_logo_small.png)
+
++ [Authorship classification with tidymodels and textrecipes](https://www.hvitfeldt.me/blog/authorship-classification-with-tidymodels-and-textrecipes/)
+
+
 ###  R in Organizations
 
 + [Community Call - Reproducible Workflows at Scale with drake](https://ropensci.org/blog/2019/08/08/commcall-sep2019/)
@@ -44,6 +49,9 @@ Release Date: 2019-08-12
 ###  Resources
 
 + [Shiny app: Open Trade Statistics](https://github.com/tradestatistics/visualization-with-shiny)
+
++ [R Markdown Workshop](https://www.cillianmchugh.com/rblog/rmarkdown-workshop)
+
 
 ###  New Packages
 
@@ -66,9 +74,14 @@ Release Date: 2019-08-12
 
 + [{ggtext}: Improved text rendering support for {ggplot2}](https://github.com/clauswilke/ggtext)
 
+![Improved text rendering support](https://raw.githubusercontent.com/clauswilke/ggtext/9a92b12ecc62988838185c2a788d9751f27b48b6/man/figures/README-unnamed-chunk-5-1.png)
+
 + [{roxytest}: Inline tests with roxygen and testthat.](https://github.com/mikldk/roxytest)
 
 + [{opendatatoronto}: Access the Toronto Open Data Portal API](https://github.com/sharlagelfand/opendatatoronto)
+
+
++ [{lofi}: Low-fidelity/Low-bit data representations](https://coolbutuseless.github.io/2019/08/06/introducing-the-lofi-package-for-low-fidelity-low-bit-data-representations/)`
 
 
 ### Updated Packages
@@ -90,6 +103,8 @@ Release Date: 2019-08-12
 
 + [Keeping up with Tidyverse Functions using Tidy Tuesday Screencasts](http://www.notesofdabbler.com/2019/08/06/tidyscreencastfuncs/)
 
+![Keeping up with Tidyverse Functions using Tidy Tuesday Screencasts](https://raw.githubusercontent.com/notesofdabbler/blog_notesofdabbler/master/popularTidyVerseFuncs/figure/libcntplt-1.png)
+
 ### Gist & Cookbook
 
 
@@ -106,7 +121,8 @@ Release Date: 2019-08-12
 
 + [In search of the perfect partial plot](https://sethdobson.netlify.com/2019/08/08/in-search-of-the-perfect-partial-plot/)
 
-+ [Causal inference with DAGs in R](https://paoloeusebi.blog/2019/08/06/causal-inference-with-dags-in-r/)
+![In search of the perfect partial plot](https://sethdobson.netlify.com/post/2019-08-08-in-search-of-the-perfect-partial-plot_files/figure-html/unnamed-chunk-6-1.png)
+
 
 + [Beginners Cookbook for Interactive Visualization in R with highcharter](https://www.programmingwithr.com/beginners-cookbook-for-interactive-visualization-in-r-with-highcharter/)
 
@@ -117,6 +133,8 @@ Release Date: 2019-08-12
 
 + [{gganimate} your hex!](https://www.ddrive.no/post/gganimate-your-hex/)
 
+![{gganimate} your hex!](https://www.ddrive.no/post/2019-08-06-gganimate-your-hex_files/animated_card.gif)
+
 
 + [Announcing pdqr: package for working with custom distribution functions](http://www.questionflow.org/2019/08/01/announcing-pdqr/)
 
@@ -125,11 +143,9 @@ Release Date: 2019-08-12
 
 + [#23: Debugging with Docker and Rocker – A Concrete Example helping on macOS](http://dirk.eddelbuettel.com/blog/2019/08/05#023_rocker_debug_example)
 
++ [Causal inference with DAGs in R](https://paoloeusebi.blog/2019/08/06/causal-inference-with-dags-in-r/)
 
-+ [Lord Kelvin, Data Scientist](http://www.win-vector.com/blog/2019/08/lord-kelvin-data-scientist/)
-
-
-+ [Florence Nightingale, Data Scientist](http://www.win-vector.com/blog/2019/08/florence-nightingale-data-scientist/)
+![Causal inference with DAGs in R](https://paoloeusebi.files.wordpress.com/2019/08/ggdag2.png)
 
 + [Returning to Tides](http://www.win-vector.com/blog/2019/08/returning-to-tides/)
 
@@ -139,18 +155,7 @@ Release Date: 2019-08-12
 + [The Colors of xcolor](https://www.garrickadenbuie.com/blog/colors-of-xcolor/)
 
 
-+ [Using parallelization, multiple git repositories and setting permissions when automating R applications with Jenkins](https://jozef.io/r919-jenkins-pipelines-parallel/)
-
-
-+ [Introducing the lofi package for low-fidelity/low-bit data representations](https://coolbutuseless.github.io/2019/08/06/introducing-the-lofi-package-for-low-fidelity-low-bit-data-representations/)`
-
-
 + [A Flurry of Facets](https://www.data-imaginist.com/2019/a-flurry-of-facets/)
-
-
-+ [Authorship classification with tidymodels and textrecipes](https://www.hvitfeldt.me/blog/authorship-classification-with-tidymodels-and-textrecipes/)
-
-+ [R Markdown Workshop](https://www.cillianmchugh.com/rblog/rmarkdown-workshop)
 
 + [Interactive Visualization in R with apexcharter](https://www.programmingwithr.com/interactive-visualization-in-r-with-apexcharter/)
 
@@ -158,8 +163,6 @@ Release Date: 2019-08-12
 
 + [How to make Square (Pie) Charts for Infographics in R](https://www.programmingwithr.com/how-to-make-square-pie-charts-for-infographics-in-r/)
 
-
-+ [Causal inference with DAGs in R](https://paoloeusebi.blog/2019/08/06/causal-inference-with-dags-in-r/)
 
 + [Check your (Mixed) Model for Multicollinearity with 'performance'](https://easystats.github.io/blog/posts/performance_check_collinearity/)
 
