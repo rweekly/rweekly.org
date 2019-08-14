@@ -67,7 +67,7 @@ Release Date: 2019-08-19
 ###  Tutorials
 
 
-
++ [Caret vs. tidymodels - comparing the old and new](https://konradsemsch.netlify.com/2019/08/caret-vs-tidymodels-comparing-the-old-and-new/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
