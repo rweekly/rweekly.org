@@ -21,9 +21,15 @@ Release Date: 2019-08-19
 
 + [Prepping data for #rstats #tidyverse and a priori planning](http://www.christopherlortie.info/prepping-data-for-rstats-tidyverse-and-a-priori-planning/)
 
++ [R Community Explorer](https://www.r-consortium.org/blog/2019/08/12/r-community-explorer)
+
++ [Themes to Improve Your ggplot Figures](https://rfortherestofus.com/2019/08/themes-to-improve-your-ggplot-figures/)
+
 ### R in the Real World
 
++ [Cyclists – London Ride 100 – Analysis for riders and clubs using Shiny/R](https://nk761.wordpress.com/2019/08/13/cyclists-london-ride-100-analysis-for-riders-and-clubs-using-shiny-r/)
 
++ [Using Data to Uncover the Smog: Jakarta Air Quality, 2016–2019](https://medium.com/numera-loka/using-data-to-uncover-the-smog-jakarta-air-quality-2016-2019-d3f7eb708f04)
 
 
 ###  R in Organizations
@@ -45,6 +51,7 @@ Release Date: 2019-08-19
 
 **CRAN**
 
++ [golem: A Framework for Robust Shiny Applications](https://CRAN.R-project.org/package=golem )
 
 **BioC**
 
@@ -52,7 +59,9 @@ Release Date: 2019-08-19
 
 **GitHub or Bitbucket**
 
++ [objectremover RStudio Addin](https://alan-y.netlify.com/post/objectremover-rstudio-addin/)
 
++ [Introducing the `minipdf` package for writing raw PDFs](https://coolbutuseless.github.io/2019/08/14/introducing-the-minipdf-package-for-writing-raw-pdfs/)
 
 ### Updated Packages
 
@@ -68,7 +77,7 @@ Release Date: 2019-08-19
 
 ### R Internationally
 
-
++ [R est un logiciel libre et n’est livré avec ABSOLUMENT AUCUNE GARANTIE.](https://thinkr.fr/r-est-un-logiciel-libre-et-nest-livre-avec-absolument-aucune-garantie/)
 
 ###  Tutorials
 
@@ -79,6 +88,18 @@ Release Date: 2019-08-19
 + [First part of a series on how I setup this RStudio distill themed blog with Netlify](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/)
 
 + [Quick exploration of dagitty and ggdag packages for using DAGs in causal analyses.](https://paoloeusebi.blog/2019/08/06/causal-inference-with-dags-in-r/)
+
++ [How to Automate EDA with DataExplorer in R](https://www.programmingwithr.com/how-to-automate-eda-with-dataexplorer-in-r/)
+
++ [Plumber Logging](https://rviews.rstudio.com/2019/08/13/plumber-logging/)
+
++ [Local randomness in R](http://www.questionflow.org/2019/08/13/local-randomness-in-r/)
+
++ [Synthesizing population time-series data from the USA Long Term Ecological Research Network](https://ropensci.org/blog/2019/08/13/popler/)
+
++ [{ggtext} for images as x-axis labels](https://jcarroll.com.au/2019/08/13/ggtext-for-images-as-x-axis-labels/)
+
++ [TEXT-MINING TO CREATE A WORD CLOUD REPRESENTATIVE OF A PDF FILE]()
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -123,3 +144,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i&#39;m now convinced that every project should be a standalone <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package and that every single cleaning and analysis step should be a function with tests to ensure they work exactly as expected how do i reign in my too much gene</p>&mdash; Sharla Gelfand (@sharlagelfand) <a href="https://twitter.com/sharlagelfand/status/1161706647036866565?ref_src=twsrc%5Etfw">August 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
