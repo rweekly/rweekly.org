@@ -39,7 +39,7 @@ Release Date: 2019-08-19
 
 ###  R in Academia
 
-
++ [Six Reasons to Consider Using R in Psychological Research](https://psyarxiv.com/8mb6d/)
 
 ###  Resources
 
@@ -63,6 +63,8 @@ Release Date: 2019-08-19
 
 + [Introducing the `minipdf` package for writing raw PDFs](https://coolbutuseless.github.io/2019/08/14/introducing-the-minipdf-package-for-writing-raw-pdfs/)
 
++ [report — Automated reporting of statistical models in R](https://github.com/easystats/report)
+
 ### Updated Packages
 
 
@@ -71,9 +73,11 @@ Release Date: 2019-08-19
 
 + [Episode 4: The RinteRface packages for production-ready Shiny UI](https://shinydevseries.com/post/episode-4-rinterface/)
 
++ [How to make a reproducible version of your R analysis that can be run in a web browser](https://www.youtube.com/watch?v=wSkheV-Uqq4&feature=youtu.be)
+
 ### Gist & Cookbook
 
-
++ [Teacups, Giraffes, and Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)
 
 ### R Internationally
 
@@ -99,7 +103,9 @@ Release Date: 2019-08-19
 
 + [{ggtext} for images as x-axis labels](https://jcarroll.com.au/2019/08/13/ggtext-for-images-as-x-axis-labels/)
 
-+ [TEXT-MINING TO CREATE A WORD CLOUD REPRESENTATIVE OF A PDF FILE]()
++ [Big Data: Wrangling 4.6M Rows with dtplyr (the NEW data.table backend for dplyr)](https://www.business-science.io/code-tools/2019/08/15/big-data-dtplyr.html)
+
++ [Using parallelization, multiple git repositories and setting permissions when automating R applications with Jenkins](https://jozef.io/r919-jenkins-pipelines-parallel/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
