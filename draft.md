@@ -13,7 +13,13 @@ Release Date: 2019-08-19
 
 ### Insights
 
++ [Can we use a neural network to generate R Shiny code?  Let's find out! ](https://https://appsilon.com/generate-shiny-code-with-rnn/)
 
++ [In search of the perfect partial dependence plot for Random Forests ](https://sethdobson.netlify.com/2019/08/08/in-search-of-the-perfect-partial-plot/)
+
++ [2 Months in 2 Minutes – rOpenSci News, August 2019](https://www.r-bloggers.com/2-months-in-2-minutes-ropensci-news-august-2019/)
+
++ [Prepping data for #rstats #tidyverse and a priori planning](http://www.christopherlortie.info/prepping-data-for-rstats-tidyverse-and-a-priori-planning/)
 
 ### R in the Real World
 
@@ -31,7 +37,7 @@ Release Date: 2019-08-19
 
 ###  Resources
 
-
++ [Insurance Data Science : Text](https://freakonometrics.hypotheses.org/58281)
 
 ###  New Packages
 
@@ -54,7 +60,7 @@ Release Date: 2019-08-19
 
 ###  Videos and Podcasts
 
-
++ [Episode 4: The RinteRface packages for production-ready Shiny UI](https://shinydevseries.com/post/episode-4-rinterface/)
 
 ### Gist & Cookbook
 
@@ -66,11 +72,15 @@ Release Date: 2019-08-19
 
 ###  Tutorials
 
++ [How to generate meaningful fake data for learning, experimentation and teaching](https://www.programmingwithr.com/how-to-generate-meaningful-fake-data-for-learning-experimentation-and-teaching/)
 
 + [Caret vs. tidymodels - comparing the old and new](https://konradsemsch.netlify.com/2019/08/caret-vs-tidymodels-comparing-the-old-and-new/)
 
-<!--<div class="post-more-begi
-n></div><div class="post-more-end"></div>-->
++ [First part of a series on how I setup this RStudio distill themed blog with Netlify](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/)
+
++ [Quick exploration of dagitty and ggdag packages for using DAGs in causal analyses.](https://paoloeusebi.blog/2019/08/06/causal-inference-with-dags-in-r/)
+
+<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
