@@ -25,16 +25,13 @@ Release Date: 2019-08-19
 
 + [Themes to Improve Your ggplot Figures](https://rfortherestofus.com/2019/08/themes-to-improve-your-ggplot-figures/)
 
++ [Really Large Numbers in R](http://theautomatic.net/2019/08/16/really-large-numbers-in-r/)
+
 ### R in the Real World
 
 + [Cyclists – London Ride 100 – Analysis for riders and clubs using Shiny/R](https://nk761.wordpress.com/2019/08/13/cyclists-london-ride-100-analysis-for-riders-and-clubs-using-shiny-r/)
 
 + [Using Data to Uncover the Smog: Jakarta Air Quality, 2016–2019](https://medium.com/numera-loka/using-data-to-uncover-the-smog-jakarta-air-quality-2016-2019-d3f7eb708f04)
-
-
-###  R in Organizations
-
-
 
 
 ###  R in Academia
@@ -51,11 +48,7 @@ Release Date: 2019-08-19
 
 **CRAN**
 
-+ [golem: A Framework for Robust Shiny Applications](https://CRAN.R-project.org/package=golem )
-
-**BioC**
-
-
++ [golem: A Framework for Robust Shiny Applications](https://CRAN.R-project.org/package=golem)
 
 **GitHub or Bitbucket**
 
@@ -69,9 +62,7 @@ Release Date: 2019-08-19
 
 + [{unglue}: Extract matched substrings using a pattern, similar to what {glue} does in reverse](https://github.com/moodymudskipper/unglue)
 
-### Updated Packages
-
-
++ [statsExpressions: Expressions with statistical details](https://indrajeetpatil.github.io/statsExpressions/)
 
 ###  Videos and Podcasts
 
@@ -82,6 +73,8 @@ Release Date: 2019-08-19
 ### Gist & Cookbook
 
 + [Teacups, Giraffes, and Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)
+
++ [Modern R with the tidyverse](https://leanpub.com/modern_tidyverse)
 
 ### R Internationally
 
@@ -113,6 +106,8 @@ Release Date: 2019-08-19
 
 + [Exploring Bob Ross Paintings!](https://hookedondata.org/exploring-bob-ross-paintings/)
 
++ [Converting lines in an svg image to csv](http://shape-of-code.coding-guidelines.com/2019/08/16/converting-lines-in-an-svg-image-to-csv/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -142,13 +137,6 @@ Events in 3 Months:
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
 
 
@@ -157,3 +145,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">i&#39;m now convinced that every project should be a standalone <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package and that every single cleaning and analysis step should be a function with tests to ensure they work exactly as expected how do i reign in my too much gene</p>&mdash; Sharla Gelfand (@sharlagelfand) <a href="https://twitter.com/sharlagelfand/status/1161706647036866565?ref_src=twsrc%5Etfw">August 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited to announce my next book project: mastering shiny, <a href="https://t.co/0mhQs57TDp">https://t.co/0mhQs57TDp</a>. I didn’t write shiny, but I’m having fun writing about it! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1161404141396250624?ref_src=twsrc%5Etfw">August 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
