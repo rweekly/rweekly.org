@@ -108,6 +108,8 @@ Release Date: 2019-08-19
 
 + [Converting lines in an svg image to csv](http://shape-of-code.coding-guidelines.com/2019/08/16/converting-lines-in-an-svg-image-to-csv/)
 
++ [Custom Discrete Color Scales for {ggplot2}](https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
