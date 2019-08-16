@@ -65,6 +65,10 @@ Release Date: 2019-08-19
 
 + [report — Automated reporting of statistical models in R](https://github.com/easystats/report)
 
++ [{ggtext}: Improved text rendering support for {ggplot2}](https://github.com/clauswilke/ggtext)
+
++ [{unglue}: Extract matched substrings using a pattern, similar to what {glue} does in reverse](https://github.com/moodymudskipper/unglue)
+
 ### Updated Packages
 
 
@@ -106,6 +110,8 @@ Release Date: 2019-08-19
 + [Big Data: Wrangling 4.6M Rows with dtplyr (the NEW data.table backend for dplyr)](https://www.business-science.io/code-tools/2019/08/15/big-data-dtplyr.html)
 
 + [Using parallelization, multiple git repositories and setting permissions when automating R applications with Jenkins](https://jozef.io/r919-jenkins-pipelines-parallel/)
+
++ [Exploring Bob Ross Paintings!](https://hookedondata.org/exploring-bob-ross-paintings/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
