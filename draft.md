@@ -9,6 +9,11 @@ Release Date: 2019-08-19
 
 ###  Highlight
 
++ [golem: A Framework for Robust Shiny Applications](https://CRAN.R-project.org/package=golem)
+
++ [Episode 4: The RinteRface packages for production-ready Shiny UI](https://shinydevseries.com/post/episode-4-rinterface/)
+
++ [Teacups, Giraffes, and Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)
 
 
 ### Insights
@@ -23,6 +28,8 @@ Release Date: 2019-08-19
 
 + [R Community Explorer](https://www.r-consortium.org/blog/2019/08/12/r-community-explorer)
 
+<img src = "https://github.com/rweekly/image/raw/master/2019/33/rviews_rladies.png" width = "600px">
+
 + [Themes to Improve Your ggplot Figures](https://rfortherestofus.com/2019/08/themes-to-improve-your-ggplot-figures/)
 
 + [Really Large Numbers in R](http://theautomatic.net/2019/08/16/really-large-numbers-in-r/)
@@ -30,6 +37,8 @@ Release Date: 2019-08-19
 ### R in the Real World
 
 + [Cyclists – London Ride 100 – Analysis for riders and clubs using Shiny/R](https://nk761.wordpress.com/2019/08/13/cyclists-london-ride-100-analysis-for-riders-and-clubs-using-shiny-r/)
+
+<img src = "https://github.com/rweekly/image/raw/master/2019/33/startvsfinish-no-filters.png" width = "600px">
 
 + [Using Data to Uncover the Smog: Jakarta Air Quality, 2016–2019](https://medium.com/numera-loka/using-data-to-uncover-the-smog-jakarta-air-quality-2016-2019-d3f7eb708f04)
 
@@ -60,6 +69,9 @@ Release Date: 2019-08-19
 
 + [{ggtext}: Improved text rendering support for {ggplot2}](https://github.com/clauswilke/ggtext)
 
+<img src = "https://github.com/rweekly/image/raw/master/2019/33/ggtext.png" width = "600px">
+
+
 + [{unglue}: Extract matched substrings using a pattern, similar to what {glue} does in reverse](https://github.com/moodymudskipper/unglue)
 
 + [statsExpressions: Expressions with statistical details](https://indrajeetpatil.github.io/statsExpressions/)
@@ -73,6 +85,8 @@ Release Date: 2019-08-19
 ### Gist & Cookbook
 
 + [Teacups, Giraffes, and Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)
+
+<img src = "https://github.com/rweekly/image/raw/master/2019/33/Landing1.jpg" width = "600px">
 
 + [Modern R with the tidyverse](https://leanpub.com/modern_tidyverse)
 
@@ -106,6 +120,8 @@ Release Date: 2019-08-19
 
 + [Exploring Bob Ross Paintings!](https://hookedondata.org/exploring-bob-ross-paintings/)
 
+<img src = "https://github.com/rweekly/image/raw/master/2019/33/bob-ross.png" width = "600px">
+
 + [Converting lines in an svg image to csv](http://shape-of-code.coding-guidelines.com/2019/08/16/converting-lines-in-an-svg-image-to-csv/)
 
 + [Custom Discrete Color Scales for {ggplot2}](https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/)
@@ -128,6 +144,8 @@ Events in 3 Months:
 + [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)
 
 + [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D
+
++ [Why R? 2019 Conference - Warsaw 26-29 September 2019](http://whyr.pl/2019/)
 
 + [rOpenSci OzUnconf (Sydney, Australia), December 11 - 13 2019](https://ozunconf19.ropensci.org/)
 
