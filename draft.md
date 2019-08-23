@@ -17,7 +17,7 @@ Release Date: 2019-08-26
 
 + [PassSonar: Visualizing Player Interactions in Soccer Analytics](https://medium.com/nightingale/passsonar-visualizing-player-interactions-in-soccer-analytics-7708e1d94afc)
 
-+[LondonR: Hadley Wickham & tidyverse's greatest hits](https://martinctc.github.io/blog/londonr-hadley-wickham-and-tidyverse-greatest-hits/)
++ [LondonR: Hadley Wickham & tidyverse's greatest hits](https://martinctc.github.io/blog/londonr-hadley-wickham-and-tidyverse-greatest-hits/)
 
 ### R in the Real World
 
@@ -33,7 +33,7 @@ Release Date: 2019-08-26
 
 ###  Resources
 
-
++ [Elevated blood lead level test results (St. Louis, MO) visualizations](https://github.com/slu-soc1120/STL_HEALTH_Lead)
 
 ###  New Packages
 
@@ -41,7 +41,9 @@ Release Date: 2019-08-26
 
 **CRAN**
 
++ [{clean}: cleaning and checking data columns in a fast and easy way!](https://github.com/msberends/clean)
 
++ [{tidycells}: Read Tabular Data from Diverse Sources and Easily Make Them Tidy!](https://github.com/r-rudra/tidycells)
 
 **BioC**
 
@@ -49,11 +51,9 @@ Release Date: 2019-08-26
 
 **GitHub or Bitbucket**
 
-
-
 ### Updated Packages
 
-
++ [{googledrive 1.0.0}](https://www.tidyverse.org/articles/2019/08/googledrive-1-0-0/)
 
 ###  Videos and Podcasts
 
@@ -70,6 +70,8 @@ Release Date: 2019-08-26
 ###  Tutorials
 
 + [Visualizing Soccer with StatsBomb Data and R, Part 1: Simple xG and Pass Partner Plots!](https://ryo-n7.github.io/2019-08-21-visualize-soccer-statsbomb-part-1/)
+
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-08-26/soccer-summary1.png)
 
 + [Fun with progress bars: Fish, daggers and the Star Wars trench run](http://gradientdescending.com/fun-with-progress-bars-fish-daggers-and-the-star-wars-trench-run/)
 
