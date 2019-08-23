@@ -17,6 +17,8 @@ Release Date: 2019-08-26
 
 + [PassSonar: Visualizing Player Interactions in Soccer Analytics](https://medium.com/nightingale/passsonar-visualizing-player-interactions-in-soccer-analytics-7708e1d94afc)
 
++[LondonR: Hadley Wickham & tidyverse's greatest hits](https://martinctc.github.io/blog/londonr-hadley-wickham-and-tidyverse-greatest-hits/)
+
 ### R in the Real World
 
 
