@@ -50,6 +50,8 @@ Release Date: 2019-08-26
 
 + [Elevated blood lead level test results (St. Louis, MO) visualizations](https://github.com/slu-soc1120/STL_HEALTH_Lead)
 
++ [ggplot2 book 3nd edition](https://ggplot2-book.org)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -82,6 +84,9 @@ Release Date: 2019-08-26
 + [{RSwitch} 1.3.0](https://rud.is/b/2019/08/23/improvements-to-rswitch-in-v1-3-0/)
 
 + [{RcppExamples} 0.1.9](http://dirk.eddelbuettel.com/blog/2019/08/24#rcppexamples_0.1.9)
+
++ [{clean} 1.1.0 Fast and Easy Data Cleaning
+](https://msberends.github.io/clean/)
 
 ###  Videos and Podcasts
 
@@ -195,3 +200,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Added an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> pep talk to my syllabus to assuage fears <a href="https://t.co/EciFlMuUza">pic.twitter.com/EciFlMuUza</a></p>&mdash; Andrew Heiss, PhD (@andrewheiss) <a href="https://twitter.com/andrewheiss/status/1165310391750189063?ref_src=twsrc%5Etfw">August 24, 2019</a></blockquote>
+
+ <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
