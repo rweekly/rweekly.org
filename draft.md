@@ -38,6 +38,9 @@ Release Date: 2019-08-26
 
 + [Introducing Open Forensic Science in R](https://ropensci.org/blog/2019/08/20/forensic-science/)
 
++ [Organize Why R? 2019 pre-meeting in your city](http://r-addict.com/2019/08/23/WhyR-2019-Premeetings.html)
+
+![Organize Why R? 2019 pre-meeting in your city](http://r-addict.com/images/fulls/whyr2019/europa_whyr2019_berlin_small.jpg)
 
 ###  R in Academia
 
@@ -57,6 +60,9 @@ Release Date: 2019-08-26
 
 + [{tidycells}: Read Tabular Data from Diverse Sources and Easily Make Them Tidy!](https://github.com/r-rudra/tidycells)
 
++ [{gargle}: The goal of gargle is to take some of the agonizing pain out of working with Google APIs](https://www.tidyverse.org/articles/2019/08/gargle-hello-world/)
+
++ [{ragg}: AGG library for R](https://ragg.r-lib.org/)
 
 **BioC**
 
@@ -102,11 +108,17 @@ Release Date: 2019-08-26
 
 + [ggplot visualization of conditional inference trees](https://luisdva.github.io/rstats/plotting-recursive-partitioning-trees/)
 
++ [Visualizing the relationship between multiple variables](https://statisticaloddsandends.wordpress.com/2019/08/24/visualizing-the-relationship-between-multiple-variables/)
 
 + [Tutorial on processing volcano video data using the imagefx package.  ](https://cran.r-project.org/web/packages/imagefx/vignettes/extract_volcano_plume_tutorial.html)
 
++ [Spurious correlations and random walks](https://fabiandablander.com/r/Spurious-Correlation.html)
+
++ [Geographic projections and transformations](https://geocompr.github.io/post/2019/crs-projections-transformations/)
+
 + [Changing the variable inside an R formula](https://statisticaloddsandends.wordpress.com/2019/08/24/changing-the-variable-inside-an-r-formula/)
 
++ [Where do p-values come from? Fundamental concepts and simulation approach](https://alemorales.info/post/introduction-sampling-distribution/)
 
 + [Modern Reporting or R with Dash.](https://moderndata.plot.ly/modern-reporting-for-r-with-dash/)
 
@@ -121,6 +133,9 @@ Release Date: 2019-08-26
 
 + [How to get an AUC confidence interval](https://theautomatic.net/2019/08/20/how-to-get-an-auc-confidence-interval/)
 
++ [How to Use CSS to Style Your R Shiny Projects](https://appsilon.com/howto-css-and-shiny/)
+
++ [Notes on Becoming an RStudio Certified Trainer](https://arilamstein.com/blog/2019/08/20/notes-on-becoming-an-rstudio-certified-trainer/)
 
 + [Modern reporting for R with Dash](https://moderndata.plot.ly/modern-reporting-for-r-with-dash/)
 
