@@ -21,10 +21,22 @@ Release Date: 2019-08-26
 
 ### R in the Real World
 
++ [Generating Oxford Comma triples, and sequenced BibTeX entries using the Tidyverse](https://www.shamindras.com/posts/2019-07-15-shrotriya2019tidyfunpt1/)
+
+
++ [Visualizing Soccer with StatsBomb Data and R, Part 1: Simple xG and Pass Partner Plots!](http://Ryo-N7.github.io/2019-08-21-visualize-soccer-statsbomb-part-1/)
+
+
++ [Rcpp now used by 1750 CRAN packages](http://dirk.eddelbuettel.com/blog/2019/08/21#rcpp_1750_packages)
+
 
 
 ###  R in Organizations
 
++ [$50,000 in New Grants Approved](https://www.r-consortium.org/blog/2019/08/23/50000-in-new-grants-approved)
+
+
++ [Introducing Open Forensic Science in R](https://ropensci.org/blog/2019/08/20/forensic-science/)
 
 
 ###  R in Academia
@@ -45,15 +57,25 @@ Release Date: 2019-08-26
 
 + [{tidycells}: Read Tabular Data from Diverse Sources and Easily Make Them Tidy!](https://github.com/r-rudra/tidycells)
 
+
 **BioC**
 
 
 
 **GitHub or Bitbucket**
 
++ [{pinpoint}: Interactively explore and compare a distribution of numeric points](https://github.com/daranzolin/pinpoint)
+
 ### Updated Packages
 
 + [{googledrive 1.0.0}](https://www.tidyverse.org/articles/2019/08/googledrive-1-0-0/)
+
+
++ [{RcppQuantuccia} 0.0.3](http://dirk.eddelbuettel.com/blog/2019/08/19#rcppquantuccia_0.0.3)
+
++ [{RSwitch} 1.3.0](https://rud.is/b/2019/08/23/improvements-to-rswitch-in-v1-3-0/)
+
++ [{RcppExamples} 0.1.9](http://dirk.eddelbuettel.com/blog/2019/08/24#rcppexamples_0.1.9)
 
 ###  Videos and Podcasts
 
@@ -74,6 +96,48 @@ Release Date: 2019-08-26
 ![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-08-26/soccer-summary1.png)
 
 + [Fun with progress bars: Fish, daggers and the Star Wars trench run](http://gradientdescending.com/fun-with-progress-bars-fish-daggers-and-the-star-wars-trench-run/)
+
+
++ [A New Website by Noam Ross](https://www.noamross.net/2019/08/09/a-new-website/)
+
++ [ggplot visualization of conditional inference trees](https://luisdva.github.io/rstats/plotting-recursive-partitioning-trees/)
+
+
++ [Tutorial on processing volcano video data using the imagefx package.  ](https://cran.r-project.org/web/packages/imagefx/vignettes/extract_volcano_plume_tutorial.html)
+
++ [Changing the variable inside an R formula](https://statisticaloddsandends.wordpress.com/2019/08/24/changing-the-variable-inside-an-r-formula/)
+
+
++ [Modern Reporting or R with Dash.](https://moderndata.plot.ly/modern-reporting-for-r-with-dash/)
+
++ [How to setup a blog using the distill RStudio package](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/)
+
++ [Detecting outlier samples in PCA](https://privefl.github.io/blog/detecting-outlier-samples-in-pca/)
+
++ [Missing Values In Dataframes With Inspecdf](https://alastairrushworth.github.io/Missing-values-in-dataframes-with-inspecdf/)
+
++ [Dash with golem: First contact](https://rtask.thinkr.fr/dash-with-golem-the-beginning/)
+
+
++ [How to get an AUC confidence interval](https://theautomatic.net/2019/08/20/how-to-get-an-auc-confidence-interval/)
+
+
++ [Modern reporting for R with Dash](https://moderndata.plot.ly/modern-reporting-for-r-with-dash/)
+
+
+
++ [Quick Hit: A new 64-bit Swift 5 RSwitch App](https://rud.is/b/2019/08/22/quick-hit-a-new-64-bit-swift-5-rswitch-app/)
+
++ [Eliminating Tail Calls in Python Using Exceptions](http://www.win-vector.com/blog/2019/08/eliminating-tail-calls-in-python-using-exceptions/)
+
+
+
++ [Polyglot FizzBuzz in R (Plus: "Why Can't Johnny Code?")](https://rud.is/b/2019/08/23/polyglot-fizzbuzz-in-r-plus-why-cant-johnny-code/)
+
+
++ [Inferring a continuous distribution from binned data](http://freerangestats.info/blog/2019/08/25/fitting-bins)
+
+
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
