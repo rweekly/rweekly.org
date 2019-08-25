@@ -85,8 +85,7 @@ Release Date: 2019-08-26
 
 + [{RcppExamples} 0.1.9](http://dirk.eddelbuettel.com/blog/2019/08/24#rcppexamples_0.1.9)
 
-+ [{clean} 1.1.0 Fast and Easy Data Cleaning
-](https://msberends.github.io/clean/)
++ [{clean} 1.1.0 Fast and Easy Data Cleaning](https://msberends.github.io/clean/)
 
 ###  Videos and Podcasts
 
@@ -104,7 +103,10 @@ Release Date: 2019-08-26
 
 + [Visualizing Soccer with StatsBomb Data and R, Part 1: Simple xG and Pass Partner Plots!](https://ryo-n7.github.io/2019-08-21-visualize-soccer-statsbomb-part-1/)
 
+
 ![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-08-26/soccer-summary1.png)
+
++ [Learn to purrr](http://www.rebeccabarter.com/blog/2019-08-19_purrr/)
 
 + [Fun with progress bars: Fish, daggers and the Star Wars trench run](http://gradientdescending.com/fun-with-progress-bars-fish-daggers-and-the-star-wars-trench-run/)
 
