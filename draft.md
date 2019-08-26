@@ -9,7 +9,13 @@ Release Date: 2019-08-26
 
 ###  Highlight
 
++ [LondonR: Hadley Wickham & tidyverse's greatest hits](https://martinctc.github.io/blog/londonr-hadley-wickham-and-tidyverse-greatest-hits/)
 
++ [What Types Should You Have on Your Pokémon Team? Efficient Simulation with Matrices in R!](https://hookedondata.org/pokemon-type-combinations/)
+
++ [$50,000 in New Grants Approved](https://www.r-consortium.org/blog/2019/08/23/50000-in-new-grants-approved)
+
++ [{gargle}: The goal of gargle is to take some of the agonizing pain out of working with Google APIs](https://www.tidyverse.org/articles/2019/08/gargle-hello-world/)
 
 ### Insights
 
@@ -17,19 +23,22 @@ Release Date: 2019-08-26
 
 + [PassSonar: Visualizing Player Interactions in Soccer Analytics](https://medium.com/nightingale/passsonar-visualizing-player-interactions-in-soccer-analytics-7708e1d94afc)
 
+![PassSonar: Visualizing Player Interactions in Soccer Analytics](https://raw.githubusercontent.com/rweekly/image/master/2019/34/medium-night.png)
+
 + [LondonR: Hadley Wickham & tidyverse's greatest hits](https://martinctc.github.io/blog/londonr-hadley-wickham-and-tidyverse-greatest-hits/)
 
 ### R in the Real World
 
++ [Visualizing Soccer with StatsBomb Data and R, Part 1: Simple xG and Pass Partner Plots!](https://ryo-n7.github.io/2019-08-21-visualize-soccer-statsbomb-part-1/)
+
+![Visualizing Soccer with StatsBomb Data and R, Part 1: Simple xG and Pass Partner Plots!](https://raw.githubusercontent.com/rweekly/image/master/2019/34/soccer-statsbomb.png)
+
 + [Generating Oxford Comma triples, and sequenced BibTeX entries using the Tidyverse](https://www.shamindras.com/posts/2019-07-15-shrotriya2019tidyfunpt1/)
-
-
-+ [Visualizing Soccer with StatsBomb Data and R, Part 1: Simple xG and Pass Partner Plots!](http://Ryo-N7.github.io/2019-08-21-visualize-soccer-statsbomb-part-1/)
 
 
 + [Rcpp now used by 1750 CRAN packages](http://dirk.eddelbuettel.com/blog/2019/08/21#rcpp_1750_packages)
 
-
+![Rcpp now used by 1750 CRAN packages](https://raw.githubusercontent.com/rweekly/image/master/2019/34/rcpp-1750.png)
 
 ###  R in Organizations
 
@@ -40,7 +49,7 @@ Release Date: 2019-08-26
 
 + [Organize Why R? 2019 pre-meeting in your city](http://r-addict.com/2019/08/23/WhyR-2019-Premeetings.html)
 
-![Organize Why R? 2019 pre-meeting in your city](http://r-addict.com/images/fulls/whyr2019/europa_whyr2019_berlin_small.jpg)
+![Organize Why R? 2019 pre-meeting in your city](https://raw.githubusercontent.com/rweekly/image/master/2019/34/whyr.png)
 
 ###  R in Academia
 
@@ -74,6 +83,8 @@ Release Date: 2019-08-26
 
 + [{pinpoint}: Interactively explore and compare a distribution of numeric points](https://github.com/daranzolin/pinpoint)
 
+![{pinpoint}: Interactively explore and compare a distribution of numeric points](https://raw.githubusercontent.com/rweekly/image/master/2019/34/pinpoint.gif)
+
 ### Updated Packages
 
 + [{googledrive 1.0.0}](https://www.tidyverse.org/articles/2019/08/googledrive-1-0-0/)
@@ -101,10 +112,6 @@ Release Date: 2019-08-26
 
 ###  Tutorials
 
-+ [Visualizing Soccer with StatsBomb Data and R, Part 1: Simple xG and Pass Partner Plots!](https://ryo-n7.github.io/2019-08-21-visualize-soccer-statsbomb-part-1/)
-
-
-![](https://cdn.jsdelivr.net/gh/rweekly/image/2019-08-26/soccer-summary1.png)
 
 + [Learn to purrr](http://www.rebeccabarter.com/blog/2019-08-19_purrr/)
 
@@ -119,6 +126,8 @@ Release Date: 2019-08-26
 
 + [Tutorial on processing volcano video data using the imagefx package.  ](https://cran.r-project.org/web/packages/imagefx/vignettes/extract_volcano_plume_tutorial.html)
 
+![Tutorial on processing volcano video data using the imagefx package. ](https://raw.githubusercontent.com/rweekly/image/master/2019/34/volcano.png)
+
 + [Spurious correlations and random walks](https://fabiandablander.com/r/Spurious-Correlation.html)
 
 + [Geographic projections and transformations](https://geocompr.github.io/post/2019/crs-projections-transformations/)
@@ -129,11 +138,12 @@ Release Date: 2019-08-26
 
 + [Modern Reporting or R with Dash.](https://moderndata.plot.ly/modern-reporting-for-r-with-dash/)
 
+![Modern Reporting or R with Dash.](https://raw.githubusercontent.com/rweekly/image/master/2019/34/plot_dash.gif)
+
 + [How to setup a blog using the distill RStudio package](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/)
 
 + [Detecting outlier samples in PCA](https://privefl.github.io/blog/detecting-outlier-samples-in-pca/)
 
-+ [Missing Values In Dataframes With Inspecdf](https://alastairrushworth.github.io/Missing-values-in-dataframes-with-inspecdf/)
 
 + [Dash with golem: First contact](https://rtask.thinkr.fr/dash-with-golem-the-beginning/)
 
@@ -143,9 +153,6 @@ Release Date: 2019-08-26
 + [How to Use CSS to Style Your R Shiny Projects](https://appsilon.com/howto-css-and-shiny/)
 
 + [Notes on Becoming an RStudio Certified Trainer](https://arilamstein.com/blog/2019/08/20/notes-on-becoming-an-rstudio-certified-trainer/)
-
-+ [Modern reporting for R with Dash](https://moderndata.plot.ly/modern-reporting-for-r-with-dash/)
-
 
 
 + [Quick Hit: A new 64-bit Swift 5 RSwitch App](https://rud.is/b/2019/08/22/quick-hit-a-new-64-bit-swift-5-rswitch-app/)
