@@ -67,6 +67,7 @@ Release Date: 2019-09-02
 
 ###  Tutorials
 
++ [Combining the power of R and Python with reticulate](https://www.programmingwithr.com/combining-the-power-of-r-and-python-with-reticulate/)
 
 
 <!--<div class="post-more-begi
