@@ -18,7 +18,9 @@ Release Date: 2019-09-02
 
 ### R in the Real World
 
++ [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat)
 
+![]()
 
 ###  R in Organizations
 
@@ -26,11 +28,15 @@ Release Date: 2019-09-02
 
 ###  R in Academia
 
++ [Studying Politics on and with Wikipedia Workshop - Denis Cohen, Nick Baumann, & Simon Munzert](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/studying-politics-wikipedia/)
 
++ [nflWAR: a reproducible method for offensive player evaluation in football- Yurko, R., Ventura, S. & Horowitz, M. (2019). nflWAR: a reproducible method for offensive player evaluation in football. Journal of Quantitative Analysis in Sports, 15(3), pp. 163-183.](https://www.degruyter.com/view/j/jqas.2019.15.issue-3/jqas-2018-0010/jqas-2018-0010.xml)
+
+![]()
 
 ###  Resources
 
-
++ [#TidyTuesday Shiny App](https://nsgrantham.shinyapps.io/tidytuesdayrocks/)
 
 
 ###  New Packages
@@ -51,24 +57,38 @@ Release Date: 2019-09-02
 
 ### Updated Packages
 
++ [{gmailr 1.0.0}](https://www.tidyverse.org/articles/2019/08/gmailr-1-0-0/)
 
++ [{ggstatsplot 0.1.1}](https://cran.r-project.org/web/packages/ggstatsplot/news/news.html)
+
++ [{textdata 0.3.0}](https://github.com/emilhvitfeldt/textdata)
+
++ [{covr 3.3.1}](https://github.com/r-lib/covr/releases/tag/v3.3.1)
+
++ [{lumberjack 1.0.1}](https://cran.r-project.org/web/packages/lumberjack/index.html)
 
 ###  Videos and Podcasts
 
++ [#TidyTuesday Screencast: The Simpsons guest stars - David Robinson](https://t.co/Zw763ENYOq?amp=1)
 
++ [The TidyTuesday Podcast (Episode 1): The Simpsons data set](https://tidytuesday.fireside.fm/1)
 
 ### Gist & Cookbook
 
-
++ [Tom’s Cookbook for Better Viz: How to improve your {nflscrapR} graphics](https://jthomasmock.github.io/nfl_plotting_cookbook/)
 
 ### R Internationally
 
-
++ [(Japanese) Rでtweetをテキストマイニング：ワードクラウドと共起ネットワーク](https://www.medi-08-data-06.work/entry/text_mining)
 
 ###  Tutorials
 
 + [Combining the power of R and Python with reticulate](https://www.programmingwithr.com/combining-the-power-of-r-and-python-with-reticulate/)
 
++ [Flipbook: Simpsons’ Guest Appearances are Growing
+(Adaptation of Gil Henriques’ Simpsons Plot), by Evangeline Reynolds](https://evamaerey.github.io/tidytuesday_walk_through/simpsons.html#1)
+
++ [Messi and Barcelona Dataviz Walkthrough: Scoring Involvement, Goal Sequences, Evolving Pass Networks and more](https://wiscostret.wordpress.com/2019/08/25/messi-and-barcelona-dataviz-walkthrough/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
