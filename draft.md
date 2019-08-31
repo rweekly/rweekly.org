@@ -20,7 +20,7 @@ Release Date: 2019-09-02
 
 + [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-09-02/nytmap.png)
 
 ###  R in Organizations
 
@@ -32,7 +32,7 @@ Release Date: 2019-09-02
 
 + [nflWAR: a reproducible method for offensive player evaluation in football- Yurko, R., Ventura, S. & Horowitz, M. (2019). nflWAR: a reproducible method for offensive player evaluation in football. Journal of Quantitative Analysis in Sports, 15(3), pp. 163-183.](https://www.degruyter.com/view/j/jqas.2019.15.issue-3/jqas-2018-0010/jqas-2018-0010.xml)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-09-02/nflscrapr.jpg)
 
 ###  Resources
 
