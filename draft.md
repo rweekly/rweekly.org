@@ -9,7 +9,13 @@ Release Date: 2019-09-02
 
 ###  Highlight
 
++ [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat)
 
++ [{feasts}: Feature extraction and statistics for time series](https://www.mitchelloharawild.com/blog/feasts/)
+
++ [#TidyTuesday Screencast: The Simpsons guest stars - David Robinson](https://t.co/Zw763ENYOq?amp=1)
+
++ [R Consortium Community Grants and Sponsorships Top USD $1,000,000](https://www.r-consortium.org/announcement/2019/08/28/r-consortium-community-grants-and-sponsorships-top-usd-1000000)
 
 ### Insights
 
@@ -34,11 +40,15 @@ Release Date: 2019-09-02
 
 + [A tutorial for tidying UK Office for National Statistics data files for use in R](http://lesscrime.info/post/cleaning-ons-data/)
 
-+ [Bigram Analysis of Democratic Debates](https://rlang.io/bigram-analysis-of-democratic-debates/)
-
 + [How tennis has changed over time](https://rafaelmenmell.netlify.com/2019/08/28/how-tennis-has-changed-over-time/)
 
+![How tennis has changed over time](https://raw.githubusercontent.com/rweekly/image/master/2019/35/tennis.png)
+
++ [Bigram Analysis of Democratic Debates](https://rlang.io/bigram-analysis-of-democratic-debates/)
+
 + [Building a Recommender System with Beer Data](https://datadiarist.github.io/post/building-a-recommendation-system-with-beer-data/)
+
+![Building a Recommender System with Beer Data](https://raw.githubusercontent.com/rweekly/image/master/2019/35/beer.png)
 
 ###  R in Organizations
 
@@ -53,7 +63,7 @@ Release Date: 2019-09-02
 
 + [nflWAR: a reproducible method for offensive player evaluation in football- Yurko, R., Ventura, S. & Horowitz, M. (2019). nflWAR: a reproducible method for offensive player evaluation in football. Journal of Quantitative Analysis in Sports, 15(3), pp. 163-183.](https://www.degruyter.com/view/j/jqas.2019.15.issue-3/jqas-2018-0010/jqas-2018-0010.xml)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-09-02/nflscrapr.jpg)
+![nflWAR](https://raw.githubusercontent.com/rweekly/image/master/2019-09-02/nflscrapr.jpg)
 
 ###  Resources
 
@@ -73,13 +83,11 @@ Release Date: 2019-09-02
 
 + [{ggrapid}: Create neat & complete ggplot visualizations with as little code as possible](https://konradsemsch.netlify.com/2019/08/2019-08-29-ggrapid-create-neat-and-complete-ggplot-visualizations-with-as-little-code-as-possible/#disqus_thread)
 
-+ [{RecodeReorder}: RStudio addin for interactively renaming, collapsing and reordering factor levels](https://milosvilotic.netlify.com/post/recode-reorder-rstudio-addin/)
-
-+ [{Polished}: adds modern authentication to Shiny](https://www.tychobra.com/posts/2019_08_27_announcing_polished/)
-
 + [{santoku}: versatile cutting tool for R](https://hughjonesd.github.io/santoku/)
 
 + [{feasts}: Feature extraction and statistics for time series](https://www.mitchelloharawild.com/blog/feasts/)
+
+![{feasts}: Feature extraction and statistics for time series](https://raw.githubusercontent.com/rweekly/image/master/2019/35/features-plot-feats.png)
 
 **BioC**
 
@@ -87,6 +95,9 @@ Release Date: 2019-09-02
 
 **GitHub or Bitbucket**
 
++ [{RecodeReorder}: RStudio addin for interactively renaming, collapsing and reordering factor levels](https://milosvilotic.netlify.com/post/recode-reorder-rstudio-addin/)
+
++ [{Polished}: adds modern authentication to Shiny](https://www.tychobra.com/posts/2019_08_27_announcing_polished/)
 
 
 ### Updated Packages
@@ -111,7 +122,7 @@ Release Date: 2019-09-02
 
 ###  Videos and Podcasts
 
-+ [#TidyTuesday Screencast: The Simpsons guest stars - David Robinson](https://t.co/Zw763ENYOq?amp=1)
++ [#TidyTuesday Screencast: The Simpsons guest stars - David Robinson](https://www.youtube.com/watch?v=EYuuAGDeGrQ)
 
 + [The TidyTuesday Podcast (Episode 1): The Simpsons data set](https://tidytuesday.fireside.fm/1)
 
@@ -120,6 +131,8 @@ Release Date: 2019-09-02
 ### Gist & Cookbook
 
 + [Tom’s Cookbook for Better Viz: How to improve your {nflscrapR} graphics](https://jthomasmock.github.io/nfl_plotting_cookbook/)
+
+![Tom’s Cookbook for Better Viz: How to improve your {nflscrapR} graphics](https://raw.githubusercontent.com/rweekly/image/master/2019/35/nfl-plot.png)
 
 ### R Internationally
 
@@ -134,10 +147,12 @@ Release Date: 2019-09-02
 
 + [Messi and Barcelona Dataviz Walkthrough: Scoring Involvement, Goal Sequences, Evolving Pass Networks and more](https://wiscostret.wordpress.com/2019/08/25/messi-and-barcelona-dataviz-walkthrough/)
 
-
-
 + [Practice using lubridate... THEATRICALLY](https://juliasilge.com/blog/lubridate-london-stage/)
 
+
++ [You can replicate almost any plot with R](https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/)
+
+![You can replicate almost any plot with R](https://raw.githubusercontent.com/rweekly/image/master/2019/35/replicate.png)
 
 
 + [Introducing data_algebra](http://www.win-vector.com/blog/2019/08/introducing-data_algebra/)
@@ -154,7 +169,6 @@ Release Date: 2019-09-02
 
 + [R, Docker and Checkpoint: A Route to Reproducibility](https://datawookie.netlify.com/blog/2019/08/r-docker-and-checkpoint-a-route-to-reproducibility/)
 
-+ [You can replicate almost any plot with R](https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/)
 
 + [Explaining Predictions: Random Forest Post-hoc Analysis (randomForestExplainer package)](https://notast.netlify.com/post/explaining-predictions-random-forest-post-hoc-analysis-randomforestexplainer-package/)
 
