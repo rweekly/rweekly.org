@@ -1,76 +1,38 @@
 ---
 layout: draft
-title: R Weekly 2019-35
+title: R Weekly 2019-36
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-09-02
+Release Date: 2019-09-09
 
 ###  Highlight
 
-+ [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat)
 
-+ [{feasts}: Feature extraction and statistics for time series](https://www.mitchelloharawild.com/blog/feasts/)
 
-+ [#TidyTuesday Screencast: The Simpsons guest stars - David Robinson](https://t.co/Zw763ENYOq?amp=1)
-
-+ [R Consortium Community Grants and Sponsorships Top USD $1,000,000](https://www.r-consortium.org/announcement/2019/08/28/r-consortium-community-grants-and-sponsorships-top-usd-1000000)
 
 ### Insights
 
 
-+ [Using rOpenSci Software Peer Review Guidelines for Teaching](https://ropensci.org/blog/2019/08/27/software-peer-review-guidelines-for-teaching/)
 
-
-+ [It is Time for CRAN to Ban Package Ads](http://www.win-vector.com/blog/2019/08/it-is-time-for-cran-to-ban-package-ads/)
-
-+ [Why R?](http://www.win-vector.com/blog/2019/08/why-r/)
-
-+ [So, how come we can use TensorFlow from R?](https://blogs.rstudio.com/tensorflow/posts/2019-08-29-using-tf-from-r/)
 
 
 ### R in the Real World
 
-+ [NYT-style urban heat island maps](https://www.katiejolly.io/blog/2019-08-28/nyt-urban-heat)
 
-![NYT-style urban heat island maps](https://raw.githubusercontent.com/rweekly/image/master/2019-09-02/nytmap.png)
-
-+ [Geographic projections and transformations](https://geocompr.github.io/post/2019/crs-projections-transformations/)
-
-+ [A tutorial for tidying UK Office for National Statistics data files for use in R](http://lesscrime.info/post/cleaning-ons-data/)
-
-+ [How tennis has changed over time](https://rafaelmenmell.netlify.com/2019/08/28/how-tennis-has-changed-over-time/)
-
-![How tennis has changed over time](https://raw.githubusercontent.com/rweekly/image/master/2019/35/tennis.png)
-
-+ [Bigram Analysis of Democratic Debates](https://rlang.io/bigram-analysis-of-democratic-debates/)
-
-+ [Building a Recommender System with Beer Data](https://datadiarist.github.io/post/building-a-recommendation-system-with-beer-data/)
-
-![Building a Recommender System with Beer Data](https://raw.githubusercontent.com/rweekly/image/master/2019/35/beer.png)
 
 ###  R in Organizations
 
-+ [rstudio::conf(2020) Diversity and international scholarships](https://blog.rstudio.com/2019/08/30/diversity-scholarships/)
 
-+ [R Consortium Community Grants and Sponsorships Top USD $1,000,000](https://www.r-consortium.org/announcement/2019/08/28/r-consortium-community-grants-and-sponsorships-top-usd-1000000)
 
 
 ###  R in Academia
 
-+ [Studying Politics on and with Wikipedia Workshop - Denis Cohen, Nick Baumann, & Simon Munzert](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/studying-politics-wikipedia/)
 
-+ [nflWAR: a reproducible method for offensive player evaluation in football- Yurko, R., Ventura, S. & Horowitz, M. (2019). nflWAR: a reproducible method for offensive player evaluation in football. Journal of Quantitative Analysis in Sports, 15(3), pp. 163-183.](https://www.degruyter.com/view/j/jqas.2019.15.issue-3/jqas-2018-0010/jqas-2018-0010.xml)
-
-![nflWAR](https://raw.githubusercontent.com/rweekly/image/master/2019-09-02/nflscrapr.jpg)
 
 ###  Resources
 
-+ [#TidyTuesday Shiny App](https://nsgrantham.shinyapps.io/tidytuesdayrocks/)
-
-
-+ [R Journal July Issue](https://matloff.wordpress.com/2019/08/26/r-journal-july-issue/)
 
 
 ###  New Packages
@@ -79,15 +41,8 @@ Release Date: 2019-09-02
 
 **CRAN**
 
-+ [July 2019 "Top 40" R Packages](https://rviews.rstudio.com/2019/08/29/july-2019-top-40-r-packages/)
 
-+ [{ggrapid}: Create neat & complete ggplot visualizations with as little code as possible](https://konradsemsch.netlify.com/2019/08/2019-08-29-ggrapid-create-neat-and-complete-ggplot-visualizations-with-as-little-code-as-possible/#disqus_thread)
 
-+ [{santoku}: versatile cutting tool for R](https://hughjonesd.github.io/santoku/)
-
-+ [{feasts}: Feature extraction and statistics for time series](https://www.mitchelloharawild.com/blog/feasts/)
-
-![{feasts}: Feature extraction and statistics for time series](https://raw.githubusercontent.com/rweekly/image/master/2019/35/features-plot-feats.png)
 
 **BioC**
 
@@ -95,84 +50,32 @@ Release Date: 2019-09-02
 
 **GitHub or Bitbucket**
 
-+ [{RecodeReorder}: RStudio addin for interactively renaming, collapsing and reordering factor levels](https://milosvilotic.netlify.com/post/recode-reorder-rstudio-addin/)
-
-+ [{Polished}: adds modern authentication to Shiny](https://www.tychobra.com/posts/2019_08_27_announcing_polished/)
 
 
 ### Updated Packages
 
-+ [{gmailr 1.0.0}](https://www.tidyverse.org/articles/2019/08/gmailr-1-0-0/)
-
-+ [{ggstatsplot 0.1.1}](https://cran.r-project.org/web/packages/ggstatsplot/news/news.html)
-
-+ [{textdata 0.3.0}](https://github.com/emilhvitfeldt/textdata)
-
-+ [{covr 3.3.1}](https://github.com/r-lib/covr/releases/tag/v3.3.1)
-
-+ [{lumberjack 1.0.1}](https://cran.r-project.org/web/packages/lumberjack/index.html)
-
-+ [{anytime 0.3.6}](http://dirk.eddelbuettel.com/blog/2019/08/29#anytime_0.3.6)
-
-+ [{regtools}](https://matloff.wordpress.com/2019/08/25/new-version-of-regtools-package/)
 
 
-+ [{RSwitch 1.4.0}](https://rud.is/b/2019/08/26/rswitch-1-4-0-released/)
+
 
 
 ###  Videos and Podcasts
 
-+ [#TidyTuesday Screencast: The Simpsons guest stars - David Robinson](https://www.youtube.com/watch?v=EYuuAGDeGrQ)
 
-+ [The TidyTuesday Podcast (Episode 1): The Simpsons data set](https://tidytuesday.fireside.fm/1)
-
-+ [So You Want to Start a Podcast](https://simplystatistics.org/2019/08/27/so-you-want-to-start-a-podcast/)
 
 ### Gist & Cookbook
 
-+ [Tom’s Cookbook for Better Viz: How to improve your {nflscrapR} graphics](https://jthomasmock.github.io/nfl_plotting_cookbook/)
 
-![Tom’s Cookbook for Better Viz: How to improve your {nflscrapR} graphics](https://raw.githubusercontent.com/rweekly/image/master/2019/35/nfl-plot.png)
 
 ### R Internationally
 
-+ [(Japanese) Rでtweetをテキストマイニング：ワードクラウドと共起ネットワーク](https://www.medi-08-data-06.work/entry/text_mining)
+
 
 ###  Tutorials
 
-+ [Combining the power of R and Python with reticulate](https://www.programmingwithr.com/combining-the-power-of-r-and-python-with-reticulate/)
-
-+ [Flipbook: Simpsons’ Guest Appearances are Growing
-(Adaptation of Gil Henriques’ Simpsons Plot), by Evangeline Reynolds](https://evamaerey.github.io/tidytuesday_walk_through/simpsons.html#1)
-
-+ [Messi and Barcelona Dataviz Walkthrough: Scoring Involvement, Goal Sequences, Evolving Pass Networks and more](https://wiscostret.wordpress.com/2019/08/25/messi-and-barcelona-dataviz-walkthrough/)
-
-+ [Practice using lubridate... THEATRICALLY](https://juliasilge.com/blog/lubridate-london-stage/)
 
 
-+ [You can replicate almost any plot with R](https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/)
 
-![You can replicate almost any plot with R](https://raw.githubusercontent.com/rweekly/image/master/2019/35/replicate.png)
-
-
-+ [Introducing data_algebra](http://www.win-vector.com/blog/2019/08/introducing-data_algebra/)
-
-+ [Visualizing the relationship between multiple variables](https://statisticaloddsandends.wordpress.com/2019/08/24/visualizing-the-relationship-between-multiple-variables/)
-
-+ [Maximum likelihood estimation from scratch](https://alemorales.info/post/mle-nonlinear/)
-
-+ [RMarkdown Template that Manages Academic Affiliations – docx or PDF output](http://labrtorian.com/2019/08/26/rmarkdown-template-that-manages-academic-affiliations/)
-
-+ [CASA summer school on geographic data](https://www.robinlovelace.net/2019/08/28/casa-summer-school-on-geographic-data/)
-
-+ [Securing Shiny apps with AWS Cognito authentication](https://adisarid.github.io/post/2019-08-10-cognito-shiny-authentication/)
-
-+ [R, Docker and Checkpoint: A Route to Reproducibility](https://datawookie.netlify.com/blog/2019/08/r-docker-and-checkpoint-a-route-to-reproducibility/)
-
-
-+ [Explaining Predictions: Random Forest Post-hoc Analysis (randomForestExplainer package)](https://notast.netlify.com/post/explaining-predictions-random-forest-post-hoc-analysis-randomforestexplainer-package/)
-
-+ [Tidy time series data using tsibbles](https://robjhyndman.com/hyndsight/tsibbles/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
