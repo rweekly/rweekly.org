@@ -54,6 +54,9 @@ Release Date: 2019-09-09
 
 ### Updated Packages
 
++ [getTBinR - more tuberculosis data, ggplot2 best practices and bug fixes](https://www.samabbott.co.uk/post/gettbinr-7-0/)
+
+![getTBinR - more tuberculosis data, ggplot2 best practices and bug fixes](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-7-0.png)
 
 
 
