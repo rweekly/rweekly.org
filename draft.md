@@ -14,9 +14,7 @@ Release Date: 2019-09-09
 
 ### Insights
 
-
-
-
++ [Data Chats: From Physics student to Data Science Consultant](https://martinctc.github.io/blog/data-chats-from-physics-student-to-data-science-consultant/)
 
 ### R in the Real World
 
