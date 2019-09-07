@@ -14,8 +14,9 @@ Release Date: 2019-09-09
 
 ### Insights
 
-+ [A shallow benchmark of R data frame export/import methods ](https://data.nozav.org/post/2019-r-data-frame-benchmark/)
++ [Data Chats: From Physics student to Data Science Consultant](https://martinctc.github.io/blog/data-chats-from-physics-student-to-data-science-consultant/)
 
++ [A shallow benchmark of R data frame export/import methods ](https://data.nozav.org/post/2019-r-data-frame-benchmark/)
 
 ### R in the Real World
 
