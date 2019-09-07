@@ -19,7 +19,9 @@ Release Date: 2019-09-09
 
 ### R in the Real World
 
++ [Simulating the Rugby World Cup 2019 Japan in R](http://statsonthe.cloud/2019/09/06/simulating-the-rugby-world-cup-2019-japan-in-r/)
 
++ [Public Data Dive: Canada's Elections](https://fishandwhistle.net/post/2019/public-data-dive-elections-canada/)
 
 ###  R in Organizations
 
@@ -42,7 +44,7 @@ Release Date: 2019-09-09
 
 + [{ggpointdensity 0.1.0}: A cross between a scatter plot and a 2D density plot](https://github.com/LKremer/ggpointdensity)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/geom_pointdensity2.png)
 
 + [{distributions3 0.1.1}: Provides a generic function interface to probability distributions](https://www.alexpghayes.com/blog/announcing-the-distributions3-package/)
 
@@ -62,6 +64,7 @@ Release Date: 2019-09-09
 
 + [{ghibli 0.3.0}](https://ewenme.github.io/ghibli/)
 
++ [{bench 1.0.4}](http://bench.r-lib.org/)
 
 ###  Videos and Podcasts
 
@@ -85,7 +88,7 @@ Release Date: 2019-09-09
 
 + [{tvthemes 1.0.0} is on CRAN: Code improvements, Kim Possible, Stannis Baratheon, Hilda palettes/themes, and more!](https://ryo-n7.github.io/2019-09-06-tvthemes-CRAN-announcement/)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/tvthemes_v1plot2.png)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
