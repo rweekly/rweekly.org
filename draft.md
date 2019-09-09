@@ -1,6 +1,6 @@
 ---
+title: "R Weekly 2019-36"
 layout: draft
-title: R Weekly 2019-36
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -24,15 +24,6 @@ Release Date: 2019-09-09
 
 + [Public Data Dive: Canada's Elections](https://fishandwhistle.net/post/2019/public-data-dive-elections-canada/)
 
-###  R in Organizations
-
-
-
-
-###  R in Academia
-
-
-
 ###  Resources
 
 + [A curated list of RStudio themes found on Github](https://github.com/mkearney/rstudiothemes)
@@ -45,15 +36,13 @@ Release Date: 2019-09-09
 
 + [{ggpointdensity 0.1.0}: A cross between a scatter plot and a 2D density plot](https://github.com/LKremer/ggpointdensity)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/geom_pointdensity2.png)
+![{ggpointdensity 0.1.0}: A cross between a scatter plot and a 2D density plot](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/geom_pointdensity2.png)
 
 + [{distributions3 0.1.1}: Provides a generic function interface to probability distributions](https://www.alexpghayes.com/blog/announcing-the-distributions3-package/)
 
 + [{tvthemes 1.0.0}: TV Show Themes and Color Palettes for 'ggplot2' Graphics](https://cran.r-project.org/package=tvthemes)
 
-**BioC**
-
-
++ [{ggraph 2.0.0}: An extension of ggplot2 that implements an extended grammar for relational data](https://www.data-imaginist.com/2019/1-giraffe-2-giraffe-go/)
 
 **GitHub or Bitbucket**
 
@@ -63,7 +52,7 @@ Release Date: 2019-09-09
 
 + [getTBinR - more tuberculosis data, ggplot2 best practices and bug fixes](https://www.samabbott.co.uk/post/gettbinr-7-0/)
 
-![getTBinR - more tuberculosis data, ggplot2 best practices and bug fixes](https://raw.githubusercontent.com/seabbs/seabbs.github.io/sources/static/img/getTBinR/storyboard-7-0.png)
+![getTBinR - more tuberculosis data, ggplot2 best practices and bug fixes](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/storyboard-7-0.png)
 
 + [{GSODR 2.0.0}](https://docs.ropensci.org/GSODR/index.html)
 
@@ -74,10 +63,6 @@ Release Date: 2019-09-09
 ###  Videos and Podcasts
 
 + [#TidyTuesday Podcast #2: Moore's Law](https://tidytuesday.fireside.fm/2)
-
-### Gist & Cookbook
-
-
 
 ### R Internationally
 
@@ -93,7 +78,23 @@ Release Date: 2019-09-09
 
 + [{tvthemes 1.0.0} is on CRAN: Code improvements, Kim Possible, Stannis Baratheon, Hilda palettes/themes, and more!](https://ryo-n7.github.io/2019-09-06-tvthemes-CRAN-announcement/)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/tvthemes_v1plot2.png)
+![{tvthemes 1.0.0} is on CRAN: Code improvements, Kim Possible, Stannis Baratheon, Hilda palettes/themes, and more!](https://raw.githubusercontent.com/rweekly/image/master/2019-09-09/tvthemes_v1plot2.png)
+
++ [UCSCXenaTools: Retrieve Gene Expression and Clinical Information from UCSC Xena for Survival Analysis](https://ropensci.org/technotes/2019/09/06/ucscxenatools-surv/)
+
++ [Dygraphs](https://nhsrcommunity.com/blog/dygraphs/)
+
++ [Create an Icon Map in R with ggmap and ggimage](https://www.littlemissdata.com/blog/iconmap)
+
++ [Advanced Data Reshaping in Python and R](http://www.win-vector.com/blog/2019/09/advanced-data-reshaping-in-python-and-r/)
+
++ [Exploratory Data Analysis with Tables](https://dentaldatascience.org/post/eda-with-tables/)
+
++ [Poisson point processes, mass shootings and clumping](http://freerangestats.info/blog/2019/09/07/mass-shootings-oz)
+
++ [One week as a Shiny dev, seen through Google search](https://colinfay.me/one-week-shiny-gogole-search/)
+
++ [R for Clinical Trial Reporting](https://fharrell.com/talk/rmedicine19/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
@@ -124,18 +125,14 @@ Events in 3 Months:
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
-
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
-
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
++ [Deadline extended for rstudio::conf(2020) abstract submissions](https://blog.rstudio.com/2019/09/06/rstudio-conf-2020-submission-deadline-extended/)
+
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Summer day probability (maximum temperature &gt; 25ºC) through the year in <a href="https://twitter.com/hashtag/Australia?src=hash&amp;ref_src=twsrc%5Etfw">#Australia</a>. <a href="https://twitter.com/BOM_au?ref_src=twsrc%5Etfw">@BOM_au</a><br> <br> <a href="https://twitter.com/hashtag/summerday?src=hash&amp;ref_src=twsrc%5Etfw">#summerday</a> <a href="https://twitter.com/hashtag/climate?src=hash&amp;ref_src=twsrc%5Etfw">#climate</a> <a href="https://twitter.com/hashtag/weather?src=hash&amp;ref_src=twsrc%5Etfw">#weather</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/DGoP04EpgW">pic.twitter.com/DGoP04EpgW</a></p>&mdash; Dominic Royé (@dr_xeo) <a href="https://twitter.com/dr_xeo/status/1169275402017280000?ref_src=twsrc%5Etfw">September 4, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A New Vision of the World Population in a Borderless World <a href="https://twitter.com/hashtag/cartography?src=hash&amp;ref_src=twsrc%5Etfw">#cartography</a> <a href="https://twitter.com/hashtag/NoBorders?src=hash&amp;ref_src=twsrc%5Etfw">#NoBorders</a> <a href="https://twitter.com/hashtag/neocarto?src=hash&amp;ref_src=twsrc%5Etfw">#neocarto</a> <a href="https://twitter.com/hashtag/D3js?src=hash&amp;ref_src=twsrc%5Etfw">#D3js</a> <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a><a href="https://t.co/j1MJAAn2ob">https://t.co/j1MJAAn2ob</a> <a href="https://t.co/tSXUWX6jNZ">pic.twitter.com/tSXUWX6jNZ</a></p>&mdash; Cartographe encarté (@nico_lambert) <a href="https://twitter.com/nico_lambert/status/1169243421866975233?ref_src=twsrc%5Etfw">September 4, 2019</a></blockquote>
