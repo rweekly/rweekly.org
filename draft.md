@@ -37,7 +37,9 @@ Release Date: 2019-00-00
 
 **CRAN**
 
+[{corporaexplorer 0.6.2}: A 'Shiny' App for Exploration of Text Collections](https://github.com/kgjerde/corporaexplorer)
 
+![{corporaexplorer 0.6.2}: A 'Shiny' App for Exploration of Text Collections](https://raw.githubusercontent.com/kgjerde/corporaexplorer/master/man/figures/readme_illustration.png)
 
 **BioC**
 
