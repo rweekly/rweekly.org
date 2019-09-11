@@ -65,7 +65,7 @@ Release Date: 2019-00-00
 
 ###  Tutorials
 
-
++ [First World Problems: Very long RMarkdown documents](https://martinctc.github.io/blog/first-world-problems-very-long-rmarkdown-documents/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
