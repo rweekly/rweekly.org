@@ -32,7 +32,8 @@ Release Date: 2019-00-00
 
 ###  Resources
 
-
++ [A Graphical Introduction to tidyr's `pivot_*()`](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star)
+![]()
 
 ###  New Packages
 
