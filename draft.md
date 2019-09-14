@@ -88,7 +88,8 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 ### R in the Real World
 
 + [Was Trump confused by rainbow color map?](https://eeecon.uibk.ac.at/~zeileis/news/dorian_rainbow/)
-![]()
+
+![Was Trump confused by rainbow color map?](https://raw.githubusercontent.com/rweekly/image/master/2019-09-16/dorian-hclrainbow.png)
 
 + [My data science job hunt!](https://mdneuzerling.com/post/my-data-science-job-hunt/)
 
@@ -97,9 +98,6 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 + [The Repetitions Eliminator R Library “mmetrics”](https://engineering.linecorp.com/en/blog/the-repetitions-eliminator-r-library-mmetrics/)
 
 ###  Resources
-
-+ [A Graphical Introduction to tidyr's `pivot_*()`](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star)
-![]()
 
 + [An opinionated selection of books](https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/)
 
@@ -157,6 +155,8 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [A DevOps Process for Deploying R to Production](https://blog.revolutionanalytics.com/2019/09/devops-and-r.html)
 
++ [A Graphical Introduction to tidyr's `pivot_*()`](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star)
+
 ###  Tutorials
 
 + [First World Problems: Very long RMarkdown documents](https://martinctc.github.io/blog/first-world-problems-very-long-rmarkdown-documents/)
@@ -177,8 +177,7 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [How to setup a blog using the distill RStudio package](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/)
 
-
-+ PowerPoint report generation with Shiny](https://www.tychobra.com/posts/2019_07_29_ppt_report_generation/)
++ [PowerPoint report generation with Shiny](https://www.tychobra.com/posts/2019_07_29_ppt_report_generation/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
