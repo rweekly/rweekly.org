@@ -19,7 +19,7 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 ![Built-in colour names in R](https://raw.githubusercontent.com/rweekly/image/master/2019-09-16/ggforceExperiment-2.png)
 
-+ [pins: Pin, Discover and Share Resources](https://blog.rstudio.com/2019/09/09/pin-discover-and-share-resources/)
++ [{pins}: Pin, Discover and Share Resources](https://blog.rstudio.com/2019/09/09/pin-discover-and-share-resources/)
 
 + [R Community Explorer – R User Groups](https://www.r-consortium.org/blog/2019/09/09/r-community-explorer-r-user-groups)
 
@@ -71,7 +71,7 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [Quick exploration of dagitty and ggdag packages for using DAGs in causal analyses.](https://paoloeusebi.blog/2019/08/06/causal-inference-with-dags-in-r/)
 
-+ [Bootstrapping lowess (not loess :) with the tidyverse.](https://www.landonlehman.com/post/bootstrapping-lowess/)
++ [Bootstrapping lowess (not loess :) with the tidyverse](https://www.landonlehman.com/post/bootstrapping-lowess/)
 
 + [Visualizing Locke and Mill: a tidytext analysis](https://sethdobson.netlify.com/2019/07/24/visualizing-locke-and-mill-a-tidytext-analysis/)
 
@@ -139,7 +139,7 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [{shinysense} 0.2.0: Easier method for getting up and running with basic demos](https://github.com/nstrayer/shinysense)
 
-+ [{mmetrics} 0.3.0: Easy Computation of Marketing Metrics with Different Analysis Axis.](https://y-bar.github.io/mmetrics/)
++ [{mmetrics} 0.3.0: Easy Computation of Marketing Metrics with Different Analysis Axis](https://y-bar.github.io/mmetrics/)
 
 + [{pinp} 0.0.8: Bugfix](http://dirk.eddelbuettel.com/blog/2019/09/08#pinp_0.0.8)
 
@@ -179,6 +179,8 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [PowerPoint report generation with Shiny](https://www.tychobra.com/posts/2019_07_29_ppt_report_generation/)
 
++ [Overriding RStudio's startup hook inside Rprofile](https://thecoatlessprofessor.com/programming/r/overriding-rstudios-startup-hook-inside-rprofile/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -210,6 +212,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The videos from <a href="https://twitter.com/hashtag/useR2019?src=hash&amp;ref_src=twsrc%5Etfw">#useR2019</a> conference are NOW on the <a href="https://twitter.com/RConsortium?ref_src=twsrc%5Etfw">@RConsortium</a> <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@Youtube</a> channel! <a href="https://t.co/MlkEaMrj5Q">https://t.co/MlkEaMrj5Q</a><br>The talks, the plenary sessions, the lightning talks... at your own pace.<br>Enjoy ! <a href="https://t.co/hbXvHOsGlF">pic.twitter.com/hbXvHOsGlF</a></p>&mdash; useR! 2019 (@UseR2019_Conf) <a href="https://twitter.com/UseR2019_Conf/status/1167525447694991360?ref_src=twsrc%5Etfw">August 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is how I explain the &#39;pipe&#39; to <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> newbies... <a href="https://t.co/VdAFTLzijy">pic.twitter.com/VdAFTLzijy</a></p>&mdash; We are R-Ladies (@WeAreRLadies) <a href="https://twitter.com/WeAreRLadies/status/1172576445794803713?ref_src=twsrc%5Etfw">September 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
