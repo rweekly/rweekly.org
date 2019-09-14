@@ -169,15 +169,16 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [Text yourself from #rstats](https://richpauloo.github.io/2019-09-11-Using-Twilio-to-text-myself-after-long-running-jobs/)
 
-+ [Getting or calculating the values from an underlying raster using stars and sf](https://luisdva.github.io/rstats/GIS-with-R/)
-
-+ [How to setup a blog using the distill RStudio package](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/)
-
 + [Processing volcano video data using the imagefx package](https://cran.r-project.org/web/packages/imagefx/vignettes/extract_volcano_plume_tutorial.html)
 
 ![Processing volcano video data using the imagefx package](https://raw.githubusercontent.com/rweekly/image/master/2019-09-16/download.png)
 
-+ [PowerPoint report generation with Shiny](https://www.tychobra.com/posts/2019_07_29_ppt_report_generation/)
++ [Getting or calculating the values from an underlying raster using stars and sf](https://luisdva.github.io/rstats/GIS-with-R/)
+
++ [How to setup a blog using the distill RStudio package](https://www.shamindras.com/posts/2019-07-11-shrotriya2019distillpt1/)
+
+
++ PowerPoint report generation with Shiny](https://www.tychobra.com/posts/2019_07_29_ppt_report_generation/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
