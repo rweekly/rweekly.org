@@ -17,11 +17,14 @@ Release Date: 2019-00-00
 
 ### R in the Real World
 
++ [Was Trump confused by rainbow color map?](https://eeecon.uibk.ac.at/~zeileis/news/dorian_rainbow/)
+![]()
 
++ [My data science job hunt!](https://mdneuzerling.com/post/my-data-science-job-hunt/)
 
 ###  R in Organizations
 
-
++ [The Repetitions Eliminator R Library “mmetrics”](https://engineering.linecorp.com/en/blog/the-repetitions-eliminator-r-library-mmetrics/)
 
 ###  R in Academia
 
@@ -37,9 +40,11 @@ Release Date: 2019-00-00
 
 **CRAN**
 
-[{corporaexplorer 0.6.2}: A 'Shiny' App for Exploration of Text Collections](https://CRAN.R-project.org/package=corporaexplorer)
++ [{corporaexplorer 0.6.2}: A 'Shiny' App for Exploration of Text Collections](https://CRAN.R-project.org/package=corporaexplorer)
 
 ![{corporaexplorer 0.6.2}: A 'Shiny' App for Exploration of Text Collections](https://raw.githubusercontent.com/kgjerde/corporaexplorer/master/man/figures/readme_illustration.png)
+
++ [{mmetrics}: Easy Computation of Marketing Metrics with Different Analysis Axis.](https://y-bar.github.io/mmetrics/)
 
 **BioC**
 
@@ -47,11 +52,11 @@ Release Date: 2019-00-00
 
 **GitHub or Bitbucket**
 
-
++ [{minicss}: To programatically create CSS styles and style sheets from within R](https://github.com/coolbutuseless/minicss)
 
 ### Updated Packages
 
-
++ [{tidyr 1.0.0}: new pivot and nest functions](https://www.tidyverse.org/articles/2019/09/tidyr-1-0-0/)
 
 ###  Videos and Podcasts
 
@@ -68,6 +73,15 @@ Release Date: 2019-00-00
 ###  Tutorials
 
 + [First World Problems: Very long RMarkdown documents](https://martinctc.github.io/blog/first-world-problems-very-long-rmarkdown-documents/)
+
++ [Built-in Colour Names in R](https://chichacha.netlify.com/2019/09/08/mysterious-colour-names-in-r/)
+![]()
+
++ [Introducing the `minicss` package for creating CSS styles and stylesheets in R](https://coolbutuseless.github.io/2019/09/11/introducing-the-minicss-package-for-creating-css-styles-and-stylesheets-in-r/)
+
++ [First World Problems: Very long RMarkdown documents](https://martinctc.github.io/blog/first-world-problems-very-long-rmarkdown-documents/)
+
++ [TidyBlocks Framework](https://maya.rbind.io/post/2019/tidyblocks-framework/)
 
 <!--<div class="post-more-begi
 n></div><div class="post-more-end"></div>-->
