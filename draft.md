@@ -1,7 +1,7 @@
 ---
 layout: draft
-title: R Weekly 2019-37
-description: Draft of the R Weekly
+title: R Weekly 2019-37 colors, TidyBlocks, Texting
+description: Weekly News in the R Community.
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -11,7 +11,11 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 ###  Highlight
 
++ [Built-in colour names in R](https://chichacha.netlify.com/2019/09/08/mysterious-colour-names-in-r/)
 
++ [TidyBlocks Framework](https://maya.rbind.io/post/2019/tidyblocks-framework/)
+
++ [Text yourself from #rstats](https://richpauloo.github.io/2019-09-11-Using-Twilio-to-text-myself-after-long-running-jobs/)
 
 ### Insights
 
@@ -43,9 +47,7 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [Comparing Auckland’s Population with Maps](https://david.frigge.nz/posts/2019-08-auckland/)
 
-+ [Building a Recommender System with Beer Data](https://datadiarist.github.io/post/building-a-recommendation-system-with-beer-data/)
-
-![Building a Recommender System with Beer Data](https://raw.githubusercontent.com/rweekly/image/master/2019-09-16/beersofamerica.jpg)
+![Comparing Auckland’s Population with Maps](https://raw.githubusercontent.com/rweekly/image/master/2019-09-16/ggpretty-1.png)
 
 + [A tutorial for tidying UK Office for National Statistics data files for use in R](http://lesscrime.info/post/cleaning-ons-data/)
 
@@ -72,8 +74,6 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 + [Quick exploration of dagitty and ggdag packages for using DAGs in causal analyses.](https://paoloeusebi.blog/2019/08/06/causal-inference-with-dags-in-r/)
 
 + [Bootstrapping lowess (not loess :) with the tidyverse](https://www.landonlehman.com/post/bootstrapping-lowess/)
-
-+ [Visualizing Locke and Mill: a tidytext analysis](https://sethdobson.netlify.com/2019/07/24/visualizing-locke-and-mill-a-tidytext-analysis/)
 
 + [RSwitch 1.5.0 Release Now Also Corrals RStudio Server Connections](https://rud.is/b/2019/09/14/rswitch-1-5-0-release-now-also-corrals-rstudio-server-connections/)
 
