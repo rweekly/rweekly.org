@@ -17,6 +17,9 @@ Release Date: 2019-00-00
 
 ### R in the Real World
 
++ [Why Machine Learning Is More Practical Than Econometrics In the Real World](https://www.remixinstitute.com/blog/why-machine-learning-is-more-practical-than-time-series-in-the-real-world)
+
+![30- Period Ahead Forecast Model Counts by Rank (based on lowest MAE)](https://i0.wp.com/www.remixinstitute.com/wp-content/uploads/30-period-ahead-model-win-counts-remixautoml.png?w=817&ssl=1)
 
 
 ###  R in Organizations
