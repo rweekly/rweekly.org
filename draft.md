@@ -37,6 +37,7 @@ Release Date: 2019-00-00
 
 **CRAN**
 
+- [ggdag 0.2.0: Tidy causal DAGs in ggplot2](https://malco.io/2019/09/17/tidy-causal-dags-with-ggdag-0-2-0/)
 
 
 **BioC**
