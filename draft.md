@@ -22,6 +22,7 @@ Release Date: 2019-00-00
 ![30- Period Ahead Forecast Model Counts by Rank (based on lowest MAE)](https://i0.wp.com/www.remixinstitute.com/wp-content/uploads/30-period-ahead-model-win-counts-remixautoml.png?w=817&ssl=1)
 
 
+
 ###  R in Organizations
 
 
@@ -32,6 +33,7 @@ Release Date: 2019-00-00
 
 ###  Resources
 
++ [Functional Programming + Iterative Web Scraping in R](https://www.programmingwithr.com/functional-programming-iterative-web-scraping-in-r/)
 
 
 ###  New Packages
