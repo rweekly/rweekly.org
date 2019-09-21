@@ -22,9 +22,15 @@ Release Date: 2019-00-00
 ![30- Period Ahead Forecast Model Counts by Rank (based on lowest MAE)](https://i0.wp.com/www.remixinstitute.com/wp-content/uploads/30-period-ahead-model-win-counts-remixautoml.png?w=817&ssl=1)
 
 
++ [Finding the Modal School District: Inspired by NPR Planet Money's Modal American Analysis](https://ivelasq.rbind.io/blog/modal-district/)
+
++ [Text yourself from #rstats](https://richpauloo.github.io/2019-09-11-Using-Twilio-to-text-myself-after-long-running-jobs/)
+
 
 ###  R in Organizations
 
+
++ [citecorp: working with open citations](https://ropensci.org/technotes/2019/09/17/citecorp/)
 
 
 ###  R in Academia
@@ -35,6 +41,9 @@ Release Date: 2019-00-00
 
 + [Functional Programming + Iterative Web Scraping in R](https://www.programmingwithr.com/functional-programming-iterative-web-scraping-in-r/)
 
++ [Disseminating Research in the 21st Century](http://www.shinydata.org/demo/)
+
+
 
 ###  New Packages
 
@@ -44,6 +53,7 @@ Release Date: 2019-00-00
 
 - [ggdag 0.2.0: Tidy causal DAGs in ggplot2](https://malco.io/2019/09/17/tidy-causal-dags-with-ggdag-0-2-0/)
 
++ [Introducing the minizdog` package for creating zdog 3d illustrations in R](https://coolbutuseless.github.io/2019/09/17/introducing-the-minizdog-package-for-creating-zdog-3d-illustrations-in-r/)`
 
 **BioC**
 
@@ -55,7 +65,16 @@ Release Date: 2019-00-00
 
 ### Updated Packages
 
++ [pinp 0.0.9](http://dirk.eddelbuettel.com/blog/2019/09/15#pinp_0.0.9)
 
+
++ [RStudio Server Pro 1.2](https://blog.rstudio.com/2019/09/19/rstudio-1-2-5-release/)
+
++ [digest 0.6.21](http://dirk.eddelbuettel.com/blog/2019/09/20#digest_0.6.21)
+
++ [RSwitch 1.5.1](https://rud.is/b/2019/09/21/rswitch-1-5-1-released/)
+
++ [minihtml](https://coolbutuseless.github.io/2019/09/19/introducing-the-minihtml-package-for-creating-html-documents-in-r/)`
 
 ###  Videos and Podcasts
 
@@ -70,6 +89,21 @@ Release Date: 2019-00-00
 
 
 ###  Tutorials
+
++ [Understanding Variance Explained in PCA](https://eranraviv.com/understanding-variance-explained-in-pca/)
+
+
++ [ICC Bot comes online](https://tjmahr.github.io/iccbot-comes-online/)
+
+
++ [Practical Data Science with R update](http://www.win-vector.com/blog/2019/09/practical-data-science-with-r-update/)
+
+
++ [Obtaining tokens with AzureAuth inside a Shiny app](https://blog.revolutionanalytics.com/2019/09/azureauth-shiny.html)
+
+
+
++ [The Advantages of Record Transform Specifications](http://www.win-vector.com/blog/2019/09/the-advantages-of-record-transform-specifications/)
 
 
 
