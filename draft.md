@@ -40,7 +40,6 @@ Release Date: 2019-00-00
 
 + [GEO2RNAseq: An easy-to-use R pipeline for complete pre-processing of RNA-seq data](https://www.biorxiv.org/content/10.1101/771063v1.full)
 
-
 ###  Resources
 
 + [Functional Programming + Iterative Web Scraping in R](https://www.programmingwithr.com/functional-programming-iterative-web-scraping-in-r/)
@@ -65,7 +64,7 @@ Release Date: 2019-00-00
 
 **CRAN**
 
-+ [ggdag: Tidy causal DAGs in ggplot2](https://malco.io/2019/09/17/tidy-causal-dags-with-ggdag-0-2-0/)
++ [{ggdag 0.2.0}: Tidy causal DAGs in ggplot2](https://malco.io/2019/09/17/tidy-causal-dags-with-ggdag-0-2-0/)
 
 + [Introducing the minizdog` package for creating zdog 3d illustrations in R](https://coolbutuseless.github.io/2019/09/17/introducing-the-minizdog-package-for-creating-zdog-3d-illustrations-in-r/)`
 
@@ -79,6 +78,9 @@ Release Date: 2019-00-00
 
 + [RVerbalExpressions](https://rverbalexpressions.netlify.com/index.html)
 
++ [{prismatic}: provide color manipulation tools in R](https://github.com/EmilHvitfeldt/prismatic)
+
++ [{globe4r}: Interactive globes for R via globe.gl.](https://github.com/JohnCoene/globe4r)
 
 
 ### Updated Packages
@@ -86,7 +88,6 @@ Release Date: 2019-00-00
 + [tidyr 1.0.0](https://www.tidyverse.org/articles/2019/09/tidyr-1-0-0/)
 
 + [pinp 0.0.9](http://dirk.eddelbuettel.com/blog/2019/09/15#pinp_0.0.9)
-
 
 + [RStudio Server Pro 1.2](https://blog.rstudio.com/2019/09/19/rstudio-1-2-5-release/)
 
@@ -98,7 +99,7 @@ Release Date: 2019-00-00
 
 ###  Videos and Podcasts
 
-
++ [TidyTuesday Podcast #4](https://www.tidytuesday.com/4)
 
 ### Gist & Cookbook
 
@@ -106,7 +107,7 @@ Release Date: 2019-00-00
 
 ### R Internationally
 
-
++ [(Japanese) Change the number of diagrams dynamically with Shiny!](https://blog.atusy.net/2019/08/09/shiny-dynamic-numer-of-plots/)
 
 ###  Tutorials
 
@@ -123,8 +124,6 @@ Release Date: 2019-00-00
 
 
 + [Obtaining tokens with AzureAuth inside a Shiny app](https://blog.revolutionanalytics.com/2019/09/azureauth-shiny.html)
-
-
 
 + [The Advantages of Record Transform Specifications](http://www.win-vector.com/blog/2019/09/the-advantages-of-record-transform-specifications/)
 
@@ -143,6 +142,10 @@ Release Date: 2019-00-00
 + [Retrieving google drive item shares and permissions (in R)](https://adisarid.github.io/post/2019-09-17-google_drive_dir_structure_permissions/)
 
 + [Fast data exploration for predictive modeling](https://blog.datascienceheroes.com/fast-data-exploration-for-predictive-modeling/)
+
++ [Extracting raster values into polygon attributes using R](https://luisdva.github.io/rstats/GIS-with-R/)
+
+![mesoam-raster]()
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
