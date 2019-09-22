@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2019-00
+title: R Weekly 2019-38
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-00-00
+Release Date: 2019-09-23
 
 ###  Highlight
 
@@ -145,7 +145,7 @@ Release Date: 2019-00-00
 
 + [Extracting raster values into polygon attributes using R](https://luisdva.github.io/rstats/GIS-with-R/)
 
-![mesoam-raster]()
+![mesoam-raster](https://raw.githubusercontent.com/rweekly/image/master/2019-38/mesoam.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
