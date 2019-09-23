@@ -9,7 +9,11 @@ Release Date: 2019-09-23
 
 ###  Highlight
 
++ [{tidyr} 1.0.0](https://www.tidyverse.org/articles/2019/09/tidyr-1-0-0/)
 
++ [Accelerate your plots with ggforce](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/)
+
++ [{practicalgg}: Practical ggplot2](https://wilkelab.org/practicalgg/)
 
 ### Insights
 
@@ -30,6 +34,8 @@ Release Date: 2019-09-23
 
 + [Feature-based time series analysis](https://robjhyndman.com/hyndsight/fbtsa/)
 
+![Feature-based time series analysis](https://raw.githubusercontent.com/rweekly/image/master/2019/fbtsa.png)
+
 ###  R in Organizations
 
 
@@ -48,6 +54,8 @@ Release Date: 2019-09-23
 
 + [Doing Meta-Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
 
+![Doing Meta-Analysis in R](https://raw.githubusercontent.com/rweekly/image/master/2019/forest-plot.png)
+
 + [Shiny-Apps-for-Education](https://github.com/kbodwin/Shiny-Apps-for-Education)
 
 + [Create or transform variables](https://dplyr.tidyverse.org/reference/mutate.html)
@@ -55,6 +63,8 @@ Release Date: 2019-09-23
 + [A Graphical Introduction to tidyr's pivot_*()](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star)
 
 + [tidyexplain](https://github.com/gadenbuie/tidyexplain)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2019/tidyr-spread-gather.gif)
 
 + [Reproducible Research Workflows with Snakemake and R](https://lachlandeer.github.io/snakemake-econ-r-tutorial/)
 
@@ -64,9 +74,9 @@ Release Date: 2019-09-23
 
 **CRAN**
 
-+ [{ggdag 0.2.0}: Tidy causal DAGs in ggplot2](https://malco.io/2019/09/17/tidy-causal-dags-with-ggdag-0-2-0/)
++ [{ggdag}: Tidy causal DAGs in ggplot2](https://malco.io/2019/09/17/tidy-causal-dags-with-ggdag-0-2-0/)
 
-+ [Introducing the minizdog` package for creating zdog 3d illustrations in R](https://coolbutuseless.github.io/2019/09/17/introducing-the-minizdog-package-for-creating-zdog-3d-illustrations-in-r/)`
++ [{minizdog}: creating zdog 3d illustrations in R](https://coolbutuseless.github.io/2019/09/17/introducing-the-minizdog-package-for-creating-zdog-3d-illustrations-in-r/)`
 
 **BioC**
 
@@ -74,13 +84,17 @@ Release Date: 2019-09-23
 
 **GitHub or Bitbucket**
 
-+ [practicalgg: Practical ggplot2](https://wilkelab.org/practicalgg/)
++ [{practicalgg}: Practical ggplot2](https://wilkelab.org/practicalgg/)
 
-+ [RVerbalExpressions](https://rverbalexpressions.netlify.com/index.html)
++ [{RVerbalExpressions}: make it easier to construct regular expressions using grammar and functionality](https://rverbalexpressions.netlify.com/index.html)
 
 + [{prismatic}: provide color manipulation tools in R](https://github.com/EmilHvitfeldt/prismatic)
 
+![{prismatic}: provide color manipulation tools in R](https://raw.githubusercontent.com/rweekly/image/master/2019/prismatic.png)
+
 + [{globe4r}: Interactive globes for R via globe.gl.](https://github.com/JohnCoene/globe4r)
+
++ [{minihtml}: creating HTML documents in R](https://coolbutuseless.github.io/2019/09/19/introducing-the-minihtml-package-for-creating-html-documents-in-r/)
 
 
 ### Updated Packages
@@ -95,7 +109,6 @@ Release Date: 2019-09-23
 
 + [RSwitch 1.5.1](https://rud.is/b/2019/09/21/rswitch-1-5-1-released/)
 
-+ [minihtml](https://coolbutuseless.github.io/2019/09/19/introducing-the-minihtml-package-for-creating-html-documents-in-r/)`
 
 ###  Videos and Podcasts
 
@@ -119,6 +132,7 @@ Release Date: 2019-09-23
 
 + [ICC Bot comes online](https://tjmahr.github.io/iccbot-comes-online/)
 
+![ICC Bot comes online](https://raw.githubusercontent.com/rweekly/image/master/2019/icc-bot-shot-optimized.png)
 
 + [Practical Data Science with R update](http://www.win-vector.com/blog/2019/09/practical-data-science-with-r-update/)
 
@@ -138,6 +152,8 @@ Release Date: 2019-09-23
 + [Functional Programming + Iterative Web Scraping in R](https://www.programmingwithr.com/functional-programming-iterative-web-scraping-in-r/)
 
 + [Accelerate your plots with ggforce](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/)
+
+![Accelerate your plots with ggforce](https://raw.githubusercontent.com/rweekly/image/master/2019/ggforce.png)
 
 + [Retrieving google drive item shares and permissions (in R)](https://adisarid.github.io/post/2019-09-17-google_drive_dir_structure_permissions/)
 
