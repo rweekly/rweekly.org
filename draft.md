@@ -64,7 +64,7 @@ Release Date: 2019-09-23
 
 + [tidyexplain](https://github.com/gadenbuie/tidyexplain)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2019/tidyr-spread-gather.gif)
+![tidyexplain](https://raw.githubusercontent.com/rweekly/image/master/2019/tidyr-spread-gather.gif)
 
 + [Reproducible Research Workflows with Snakemake and R](https://lachlandeer.github.io/snakemake-econ-r-tutorial/)
 
