@@ -17,7 +17,7 @@ Release Date: 2019-09-30
 
 ### R in the Real World
 
-
++ [Biking in snow (smartwatch data)](https://jechave.com/post/biking-in-snow/) - (jechave.com)
 
 
 
