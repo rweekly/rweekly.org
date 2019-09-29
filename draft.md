@@ -13,26 +13,39 @@ Release Date: 2019-09-30
 
 ### Insights
 
-
++ [Why Do We Plot Predictions on the x-axis?](http://www.win-vector.com/blog/2019/09/why-do-we-plot-predictions-on-the-x-axis/)
 
 ### R in the Real World
 
 + [Biking in snow (smartwatch data)](https://jechave.com/post/biking-in-snow/) - (jechave.com)
 
++ [Who owns Montreal?](https://www.simoncoulombe.com/2019/09/who-owns-montreal/)
 
++ [Interactive globes for R, seamlessly integrated with shiny.](https://globe4r.john-coene.com/)
+
++ [100% Stacked Chicklets](https://rud.is/b/2019/09/27/100-stacked-chicklets/)
+
++ [Customer segmentation for R users](https://appsilon.com/customer-segmentation-leads-to-goodies)
 
 ###  R in Organizations
 
++ [Super solutions for Shiny architecture 1 of 5 - using session data](https://appsilon.com/super-solutions-for-shiny-architecture-1-of-5-using-session-data/)
 
++ [RSwitch 1.5.1 Released](https://rud.is/b/2019/09/21/rswitch-1-5-1-released/)
 
 ###  R in Academia
 
-
++ [poor statistics](https://xianblog.wordpress.com/2019/09/24/poor-statistics/)
 
 ###  Resources
 
++ [(Re)Launching my supervised machine learning course](https://juliasilge.com/blog/supervised-ml-course/)
 
++ [JavaScript const in R](https://colinfay.me/js-const-r/)
 
++ [More exploratory plots with ggplot2 and purrr: Adding conditional elements](https://aosmith.rbind.io/2019/09/27/more-exploratory-plots/)
+
++ [Understanding variance explained in PCA](https://eranraviv.com/understanding-variance-explained-in-pca/)
 
 ###  New Packages
 
@@ -40,30 +53,38 @@ Release Date: 2019-09-30
 
 **CRAN**
 
++ [stationaRy Detailed Meteorological Data from Stations All Over the World](https://cran.r-project.org/package=stationaRy)
 
++ [timeperiodsR   Simple Definition Of Time Intervals](https://cran.r-project.org/package=timeperiodsR)
 
++ [gghalves   Compose Half-Half Plots Using Your Favourite Geoms](https://cran.r-project.org/package=gghalves)
 
-**BioC**
++ [CamelUp   CamelUp Board Game as a Teaching Aid for Introductory Statistics](https://cran.r-project.org/package=CamelUp)
 
++ [fairness   Algorithmic Fairness Metrics](https://cran.r-project.org/package=fairness)
 
 
 **GitHub or Bitbucket**
 
-
-
-
++ [Introducing the hershey` package - raw data for the Hershey Vector Fonts](https://coolbutuseless.github.io/2019/09/24/introducing-the-hershey-package-raw-data-for-the-hershey-vector-fonts/)`
 
 ### Updated Packages
 
++ [Updates to the rOpenSci image suite: magick, tesseract, and av](https://ropensci.org/technotes/2019/09/27/ropensci-docs/)
 
++ [RcppAnnoy 0.0.13](http://dirk.eddelbuettel.com/blog/2019/09/23#rcppannoy_0.0.13)
 
 ###  Videos and Podcasts
 
++ [Community call: Reproducible workflows at scale with drake](https://ropensci.org/commcalls/2019-09-24)
 
++ [Tidy Tuesday epsisode 5 - School Diversity](https://www.tidytuesday.com/5)
+
++ [RStats tip #3 use pipe connections](https://www.jimhester.com/post/2019-09-26-pipe-connections)
 
 ### Gist & Cookbook
 
-
++ [xaringan-line-focus](https://pkg.garrickadenbuie.com/xaringan-line-focus/#1)
 
 ### R Internationally
 
@@ -71,14 +92,17 @@ Release Date: 2019-09-30
 
 ###  Tutorials
 
++ [Drake, Docker, and Gitlab-CI](https://www.noamross.net/2019/09/24/drake-docker-and-gitlab-ci/)
 
++ [A tutorial for a more convincing Leaflet visualizations from R - customizing markers, icons, color scales & HTML popups.](https://www.jla-data.net/eng/leaflet-in-r-tips-and-tricks/index.html)
 
-
-
++ [Spatial networks in R with sf and tidygraph](https://www.r-spatial.org//r/2019/09/26/spatial-networks.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
+
++ [GFortran Issues with LAPACK II](https://developer.r-project.org/Blog/public/2019/09/25/gfortran-issues-with-lapack-ii/)
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
@@ -86,10 +110,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [R/Pharma Conference 2019, August 21 - 23](http://rinpharma.com/)
-
-+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
