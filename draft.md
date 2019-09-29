@@ -45,7 +45,7 @@ Release Date: 2019-09-30
 
 + [More exploratory plots with ggplot2 and purrr: Adding conditional elements](https://aosmith.rbind.io/2019/09/27/more-exploratory-plots/)
 
-+ [Understanding variance explained in PCA](https://eranraviv.com/understanding-variance-explained-in-pca/)
++ [RStudio education website](https://education.rstudio.com/blog/2019/09/welcome)
 
 ###  New Packages
 
@@ -68,6 +68,9 @@ Release Date: 2019-09-30
 
 + [Introducing the hershey` package - raw data for the Hershey Vector Fonts](https://coolbutuseless.github.io/2019/09/24/introducing-the-hershey-package-raw-data-for-the-hershey-vector-fonts/)`
 
++ [fledge - Streamline the process of versioning R packages and updating NEWS](https://github.com/krlmlr/fledge)
+
++ [applicable - Quantify extrapolation of new samples given a training set](https://github.com/tidymodels/applicable)
 ### Updated Packages
 
 + [Updates to the rOpenSci image suite: magick, tesseract, and av](https://ropensci.org/technotes/2019/09/27/ropensci-docs/)
@@ -132,3 +135,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The first hint that the next major release will be R v4.0.0<a href="https://t.co/zn1iivJSUB">https://t.co/zn1iivJSUB</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/8wEZgURp7a">pic.twitter.com/8wEZgURp7a</a></p>&mdash; Henrik Bengtsson (@henrikbengtsson) <a href="https://twitter.com/henrikbengtsson/status/1177703775558983680?ref_src=twsrc%5Etfw">September 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
