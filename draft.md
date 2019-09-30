@@ -27,6 +27,10 @@ Release Date: 2019-09-30
 
 + [Customer segmentation for R users](https://appsilon.com/customer-segmentation-leads-to-goodies)
 
++ [Business AI for SMBs - Building Amazon-style Product Recommenders using RemixAutoML](https://www.remixinstitute.com/blog/business-ai-for-small-to-medium-sized-businesses-with-remixautoml)
+
+![](https://i2.wp.com/www.remixinstitute.com/wp-content/uploads/technology-companies-rd-expenditures-2017-remix-institute.png?w=1536&ssl=1)
+
 ###  R in Organizations
 
 + [Super solutions for Shiny architecture 1 of 5 - using session data](https://appsilon.com/super-solutions-for-shiny-architecture-1-of-5-using-session-data/)
