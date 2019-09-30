@@ -55,34 +55,34 @@ Release Date: 2019-09-30
 
 **CRAN**
 
-+ [stationaRy Detailed Meteorological Data from Stations All Over the World](https://cran.r-project.org/package=stationaRy)
++ [{stationaRy}: Detailed Meteorological Data from Stations All Over the World](https://cran.r-project.org/package=stationaRy)
 
-+ [timeperiodsR   Simple Definition Of Time Intervals](https://cran.r-project.org/package=timeperiodsR)
++ [{timeperiodsR}: Simple Definition Of Time Intervals](https://cran.r-project.org/package=timeperiodsR)
 
-+ [gghalves   Compose Half-Half Plots Using Your Favourite Geoms](https://cran.r-project.org/package=gghalves)
++ [{gghalves}: Compose Half-Half Plots Using Your Favourite Geoms](https://cran.r-project.org/package=gghalves)
 
 ![gghalves](https://raw.githubusercontent.com/rweekly/image/master/2019/gghalves-resized.png)
 
-+ [CamelUp   CamelUp Board Game as a Teaching Aid for Introductory Statistics](https://cran.r-project.org/package=CamelUp)
++ [{CamelUp}: CamelUp Board Game as a Teaching Aid for Introductory Statistics](https://cran.r-project.org/package=CamelUp)
 
-+ [fairness   Algorithmic Fairness Metrics](https://cran.r-project.org/package=fairness)
++ [{fairness}: Algorithmic Fairness Metrics](https://cran.r-project.org/package=fairness)
 
 
 **GitHub or Bitbucket**
 
-+ [Introducing the hershey` package - raw data for the Hershey Vector Fonts](https://coolbutuseless.github.io/2019/09/24/introducing-the-hershey-package-raw-data-for-the-hershey-vector-fonts/)`
++ [Introducing the {hershey} package - raw data for the Hershey Vector Fonts](https://coolbutuseless.github.io/2019/09/24/introducing-the-hershey-package-raw-data-for-the-hershey-vector-fonts/)`
 
-+ [fledge - Streamline the process of versioning R packages and updating NEWS](https://github.com/krlmlr/fledge)
++ [{fledge}: Streamline the process of versioning R packages and updating NEWS](https://github.com/krlmlr/fledge)
 
-+ [applicable - Quantify extrapolation of new samples given a training set](https://github.com/tidymodels/applicable)
++ [{applicable}: Quantify extrapolation of new samples given a training set](https://github.com/tidymodels/applicable)
 
 ### Updated Packages
 
-+ [Updates to the rOpenSci image suite: magick, tesseract, and av](https://ropensci.org/technotes/2019/09/27/ropensci-docs/)
++ [Updates to the rOpenSci image suite: {magick}, {tesseract}, and {av}](https://ropensci.org/technotes/2019/09/27/ropensci-docs/)
 
 ![rOpenSci image suite updates](https://raw.githubusercontent.com/rweekly/image/master/2019/channels.png)
 
-+ [RcppAnnoy 0.0.13](http://dirk.eddelbuettel.com/blog/2019/09/23#rcppannoy_0.0.13)
++ [{RcppAnnoy} 0.0.13](http://dirk.eddelbuettel.com/blog/2019/09/23#rcppannoy_0.0.13)
 
 ###  Videos and Podcasts
 
