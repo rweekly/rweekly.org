@@ -25,6 +25,8 @@ Release Date: 2019-09-30
 
 + [100% Stacked Chicklets](https://rud.is/b/2019/09/27/100-stacked-chicklets/)
 
+![stacked chicklets](https://raw.githubusercontent.com/rweekly/image/master/2019/dmarc-final-01-resized.png)
+
 + [Customer segmentation for R users](https://appsilon.com/customer-segmentation-leads-to-goodies)
 
 ###  R in Organizations
@@ -59,6 +61,8 @@ Release Date: 2019-09-30
 
 + [gghalves   Compose Half-Half Plots Using Your Favourite Geoms](https://cran.r-project.org/package=gghalves)
 
+![gghalves](https://raw.githubusercontent.com/rweekly/image/master/2019/gghalves-resized.png)
+
 + [CamelUp   CamelUp Board Game as a Teaching Aid for Introductory Statistics](https://cran.r-project.org/package=CamelUp)
 
 + [fairness   Algorithmic Fairness Metrics](https://cran.r-project.org/package=fairness)
@@ -71,9 +75,12 @@ Release Date: 2019-09-30
 + [fledge - Streamline the process of versioning R packages and updating NEWS](https://github.com/krlmlr/fledge)
 
 + [applicable - Quantify extrapolation of new samples given a training set](https://github.com/tidymodels/applicable)
+
 ### Updated Packages
 
 + [Updates to the rOpenSci image suite: magick, tesseract, and av](https://ropensci.org/technotes/2019/09/27/ropensci-docs/)
+
+![rOpenSci image suite updates](https://raw.githubusercontent.com/rweekly/image/master/2019/channels.png)
 
 + [RcppAnnoy 0.0.13](http://dirk.eddelbuettel.com/blog/2019/09/23#rcppannoy_0.0.13)
 
@@ -89,10 +96,6 @@ Release Date: 2019-09-30
 
 + [xaringan-line-focus](https://pkg.garrickadenbuie.com/xaringan-line-focus/#1)
 
-### R Internationally
-
-
-
 ###  Tutorials
 
 + [Drake, Docker, and Gitlab-CI](https://www.noamross.net/2019/09/24/drake-docker-and-gitlab-ci/)
@@ -100,6 +103,8 @@ Release Date: 2019-09-30
 + [A tutorial for a more convincing Leaflet visualizations from R - customizing markers, icons, color scales & HTML popups.](https://www.jla-data.net/eng/leaflet-in-r-tips-and-tricks/index.html)
 
 + [Spatial networks in R with sf and tidygraph](https://www.r-spatial.org//r/2019/09/26/spatial-networks.html)
+
+![spatial networks](https://raw.githubusercontent.com/rweekly/image/master/2019/spatial.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -120,14 +125,6 @@ Events in 3 Months:
 
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
-
-
-### Datasets
-
-### Jobs
-
-
-
 
 ###  Call for Participation
 
