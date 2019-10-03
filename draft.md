@@ -17,6 +17,9 @@ Release Date: 2019-10-07
 
 ### R in the Real World
 
++ [Business AI for SMBs - Building Amazon-style Product Recommenders using RemixAutoML](https://www.remixinstitute.com/blog/business-ai-for-small-to-medium-sized-businesses-with-remixautoml)
+
+![](https://i2.wp.com/www.remixinstitute.com/wp-content/uploads/technology-companies-rd-expenditures-2017-remix-institute.png?w=1536&ssl=1)
 
 
 ###  R in Organizations
