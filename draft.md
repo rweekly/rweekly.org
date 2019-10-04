@@ -93,6 +93,8 @@ Release Date: 2019-10-07
 
 + [`theme_inari()`](http://lenkiefer.com/2019/09/23/theme-inari/)
 
++ [Tutorial about XYZ](http://yourwebsiteurl.com/blogpost)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
