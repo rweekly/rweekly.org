@@ -93,6 +93,8 @@ Release Date: 2019-10-07
 
 + [`theme_inari()`](http://lenkiefer.com/2019/09/23/theme-inari/)
 
++ [Cox PH with Time varying Covariate, Part I](https://www.leynu.com/post/2019-09-28-surv-time-varying/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
