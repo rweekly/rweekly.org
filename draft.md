@@ -21,6 +21,8 @@ Release Date: 2019-10-07
 
 ![](https://i2.wp.com/www.remixinstitute.com/wp-content/uploads/technology-companies-rd-expenditures-2017-remix-institute.png?w=1536&ssl=1)
 
++ [Mapping the Underlying Social Structure of Reddit](https://datadiarist.github.io/post/mapping-the-underlying-social-structure-of-reddit/)
+
 
 ###  R in Organizations
 
@@ -32,7 +34,8 @@ Release Date: 2019-10-07
 
 ###  Resources
 
-
++ [{ggplot2} theme for Breast Cancer Awareness: `theme_bc_aware`](https://github.com/louisahsmith/theme_bc_aware)
+![]()
 
 ###  New Packages
 
@@ -40,6 +43,7 @@ Release Date: 2019-10-07
 
 **CRAN**
 
++ [{signs 0.1.0}: Provides convenience functions to replace hyphen-minuses (ASCII 45) with proper minus signs (Unicode character 2212)](https://cran.r-project.org/package=signs)
 
 
 **BioC**
@@ -48,15 +52,25 @@ Release Date: 2019-10-07
 
 **GitHub or Bitbucket**
 
++ [{tune}: facilitate the tuning of hyper-parameters in the tidymodels packages](https://github.com/tidymodels/tune)
 
++ [{fastpipe}: fast alternative to {magrittr} pipes](https://github.com/moodymudskipper/fastpipe)
 
 ### Updated Packages
 
++ [{geohashTools 0.3.0}](https://github.com/MichaelChirico/geohashTools)
 
++ [{data.table 1.12.4}](https://cran.r-project.org/package=data.table)
+
++ [{tensorflow 2.0.0}](https://cran.r-project.org/package=tensorflow)
+
++ [{lintr 2.0.0}](https://www.jimhester.com/post/lintr-2-0-0/)
 
 ###  Videos and Podcasts
 
++ [#TidyTuesday Podcast #6: School Diversity Data](https://www.tidytuesday.com/6)
 
++ [#TidyTuesday Screecast: Analyzing pizza ratings](https://www.youtube.com/watch?v=Mkac8DHScps)
 
 ### Gist & Cookbook
 
@@ -68,7 +82,16 @@ Release Date: 2019-10-07
 
 ###  Tutorials
 
++ [insights from the RMarkdown whisperer](http://jenrichmond.rbind.io/post/insights-from-the-markdown-whisperer/)
 
++ [Flow fields (12 Months of aRt, September)](https://www.williamrchase.com/post/flow-fields-12-months-of-art-september/)
+![]()
+
++ [Manipulating colors with {prismatic}](https://www.hvitfeldt.me/blog/manipulating-colors-with-prismatic/)
+
++ [Goodbye, Disqus! Hello, Utterances!](https://masalmon.eu/2019/10/02/disqus/)
+
++ [`theme_inari()`](http://lenkiefer.com/2019/09/23/theme-inari/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -80,6 +103,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [Tokyo.R #82, October 26](https://tokyor.connpass.com/)
 
 + [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
 
