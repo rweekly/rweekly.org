@@ -13,6 +13,9 @@ Release Date: 2019-10-07
 
 ### Insights
 
++ [EARL London 2019 Conference Recap](https://appsilon.com/earl-london-2019-conference-recap/)
+
++ [Why R? Warsaw 2019 Recap](https://appsilon.com/why-r-warsaw-2019-recap/)
 
 
 ### R in the Real World
@@ -45,11 +48,6 @@ Release Date: 2019-10-07
 
 + [{signs 0.1.0}: Provides convenience functions to replace hyphen-minuses (ASCII 45) with proper minus signs (Unicode character 2212)](https://cran.r-project.org/package=signs)
 
-
-**BioC**
-
-
-
 **GitHub or Bitbucket**
 
 + [{tune}: facilitate the tuning of hyper-parameters in the tidymodels packages](https://github.com/tidymodels/tune)
@@ -66,11 +64,15 @@ Release Date: 2019-10-07
 
 + [{lintr 2.0.0}](https://www.jimhester.com/post/lintr-2-0-0/)
 
++ [{geospark}](https://cran.r-project.org/package=geospark)
+
 ###  Videos and Podcasts
 
 + [#TidyTuesday Podcast #6: School Diversity Data](https://www.tidytuesday.com/6)
 
 + [#TidyTuesday Screecast: Analyzing pizza ratings](https://www.youtube.com/watch?v=Mkac8DHScps)
+
++ [Intro to GeoSpatial Data in Spark](https://www.youtube.com/watch?v=qgCAqL6uKRA)
 
 ### Gist & Cookbook
 
@@ -82,7 +84,7 @@ Release Date: 2019-10-07
 
 ###  Tutorials
 
-+ [insights from the RMarkdown whisperer](http://jenrichmond.rbind.io/post/insights-from-the-markdown-whisperer/)
++ [Insights from the RMarkdown whisperer](http://jenrichmond.rbind.io/post/insights-from-the-markdown-whisperer/)
 
 + [Flow fields (12 Months of aRt, September)](https://www.williamrchase.com/post/flow-fields-12-months-of-art-september/)
 ![]()
@@ -94,6 +96,8 @@ Release Date: 2019-10-07
 + [`theme_inari()`](http://lenkiefer.com/2019/09/23/theme-inari/)
 
 + [Cox PH with Time varying Covariate, Part I](https://www.leynu.com/post/2019-09-28-surv-time-varying/)
+
++ [A short introduction to {drake}](https://data.nozav.org/post/2019-a-short-introduction-to-drake/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
