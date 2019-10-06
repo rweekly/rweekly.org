@@ -34,7 +34,7 @@ Release Date: 2019-10-07
 ###  Resources
 
 + [{ggplot2} theme for Breast Cancer Awareness: `theme_bc_aware`](https://github.com/louisahsmith/theme_bc_aware)
-![]()
+![theme_bc_ware](https://raw.githubusercontent.com/rweekly/image/master/2019-10-07/breastcancertheme.png)
 
 + [Material for COMBINE NSW Workshop on R Markdown](https://github.com/emitanaka/combine2019)
 
@@ -62,6 +62,8 @@ Release Date: 2019-10-07
 
 + [{data.table 1.12.4}](https://cran.r-project.org/package=data.table)
 
+![datatablenafill](https://raw.githubusercontent.com/rweekly/image/master/2019-10-07/datatablenafill.png)
+
 + [{tensorflow 2.0.0}](https://cran.r-project.org/package=tensorflow)
 
 + [{lintr 2.0.0}](https://www.jimhester.com/post/lintr-2-0-0/)
@@ -72,6 +74,8 @@ Release Date: 2019-10-07
 
 + [#TidyTuesday Podcast #6: School Diversity Data](https://www.tidytuesday.com/6)
 
+![tidytuesdaypod](https://raw.githubusercontent.com/rweekly/image/master/2019-10-07/tidytuespod.png)
+
 + [#TidyTuesday Screecast: Analyzing pizza ratings](https://www.youtube.com/watch?v=Mkac8DHScps)
 
 + [Intro to GeoSpatial Data in Spark](https://www.youtube.com/watch?v=qgCAqL6uKRA)
@@ -81,7 +85,7 @@ Release Date: 2019-10-07
 + [Insights from the RMarkdown whisperer](http://jenrichmond.rbind.io/post/insights-from-the-markdown-whisperer/)
 
 + [Flow fields (12 Months of aRt, September)](https://www.williamrchase.com/post/flow-fields-12-months-of-art-september/)
-![]()
+![september aRt](https://raw.githubusercontent.com/rweekly/image/master/2019-10-07/septArt.png)
 
 + [Manipulating colors with {prismatic}](https://www.hvitfeldt.me/blog/manipulating-colors-with-prismatic/)
 
