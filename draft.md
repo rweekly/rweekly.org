@@ -20,20 +20,16 @@ Release Date: 2019-10-07
 
 ### R in the Real World
 
-+ [Business AI for SMBs - Building Amazon-style Product Recommenders using RemixAutoML](https://www.remixinstitute.com/blog/business-ai-for-small-to-medium-sized-businesses-with-remixautoml)
-
-![](https://i2.wp.com/www.remixinstitute.com/wp-content/uploads/technology-companies-rd-expenditures-2017-remix-institute.png?w=1536&ssl=1)
-
 + [Mapping the Underlying Social Structure of Reddit](https://datadiarist.github.io/post/mapping-the-underlying-social-structure-of-reddit/)
+
++ [A Guide to Getting International Statistics into R](https://erikgahner.dk/2019/a-guide-to-getting-international-statistics-into-r/)
 
 
 ###  R in Organizations
 
++ [Business AI for SMBs - Building Amazon-style Product Recommenders using RemixAutoML](https://www.remixinstitute.com/blog/business-ai-for-small-to-medium-sized-businesses-with-remixautoml)
 
-
-###  R in Academia
-
-
+![](https://i2.wp.com/www.remixinstitute.com/wp-content/uploads/technology-companies-rd-expenditures-2017-remix-institute.png?w=1536&ssl=1)
 
 ###  Resources
 
@@ -73,14 +69,6 @@ Release Date: 2019-10-07
 + [#TidyTuesday Screecast: Analyzing pizza ratings](https://www.youtube.com/watch?v=Mkac8DHScps)
 
 + [Intro to GeoSpatial Data in Spark](https://www.youtube.com/watch?v=qgCAqL6uKRA)
-
-### Gist & Cookbook
-
-
-
-### R Internationally
-
-
 
 ###  Tutorials
 
@@ -124,14 +112,6 @@ Events in 3 Months:
 
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
-
-
-### Datasets
-
-### Jobs
-
-
-
 
 ###  Call for Participation
 
