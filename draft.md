@@ -36,6 +36,8 @@ Release Date: 2019-10-07
 + [{ggplot2} theme for Breast Cancer Awareness: `theme_bc_aware`](https://github.com/louisahsmith/theme_bc_aware)
 ![]()
 
++ [Material for COMBINE NSW Workshop on R Markdown](https://github.com/emitanaka/combine2019)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -44,11 +46,15 @@ Release Date: 2019-10-07
 
 + [{signs 0.1.0}: Provides convenience functions to replace hyphen-minuses (ASCII 45) with proper minus signs (Unicode character 2212)](https://cran.r-project.org/package=signs)
 
++ [{fable}: Forecasting models for tidy time series](https://cran.r-project.org/package=fable)
+
 **GitHub or Bitbucket**
 
 + [{tune}: facilitate the tuning of hyper-parameters in the tidymodels packages](https://github.com/tidymodels/tune)
 
 + [{fastpipe}: fast alternative to {magrittr} pipes](https://github.com/moodymudskipper/fastpipe)
+
++ [{almanac}: Implements a 'grammar of schedules', providing the fundamental building blocks to construct recurrence rules that identify “events” such as weekends or holidays](https://github.com/DavisVaughan/almanac)
 
 ### Updated Packages
 
@@ -60,7 +66,7 @@ Release Date: 2019-10-07
 
 + [{lintr 2.0.0}](https://www.jimhester.com/post/lintr-2-0-0/)
 
-+ [{geospark}](https://cran.r-project.org/package=geospark)
++ [{geospark 0.2.1}](https://cran.r-project.org/package=geospark)
 
 ###  Videos and Podcasts
 
@@ -86,6 +92,12 @@ Release Date: 2019-10-07
 + [Cox PH with Time varying Covariate, Part I](https://www.leynu.com/post/2019-09-28-surv-time-varying/)
 
 + [A short introduction to {drake}](https://data.nozav.org/post/2019-a-short-introduction-to-drake/)
+
++ [Building Regularized Logistic Regressions from Scratch with Computational Graphs in R](https://nanx.me/blog/post/cgraph-logreg/)
+
++ [Split-apply-combine for Maximum Likelihood Estimation of a linear model](https://www.brodrigues.co/blog/2019-10-05-parallel_maxlik/)
+
++ [Introducing {fable}: Forecasting models for tidy time series](https://blog.mitchelloharawild.com/blog/fable/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -119,3 +131,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For those who use <a href="https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw">#dplyr</a> but don&#39;t master it yet, we&#39;ve just created for you the ultimate guide to the 1 tibble case in a single cheat sheet. Feedback appreciated!<br>Source = <a href="https://t.co/ucFHHFtCqV">https://t.co/ucFHHFtCqV</a><a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br>Many tanks to Colin Vullioud for helping! <a href="https://t.co/WISUiG4oST">pic.twitter.com/WISUiG4oST</a></p>&mdash; R Data Berlin (@rdataberlin) <a href="https://twitter.com/rdataberlin/status/1177640285477703680?ref_src=twsrc%5Etfw">September 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Learned last week from the man himself (JJ Allaire) that you can execute Python scripts in RStudio and it just *knows* <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> (the first reticulate command auto-ran) <a href="https://t.co/WdX8Evzqwg">pic.twitter.com/WdX8Evzqwg</a></p>&mdash; Hilary Parker (@hspter) <a href="https://twitter.com/hspter/status/1178799955999281152?ref_src=twsrc%5Etfw">September 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ever want to join a list of dataframes together (with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>) in one fell swoop? try purrr::reduce(list_of_dfs, full_join, by = &quot;id_column_name&quot;)<br><br>honestly, when this worked, i nearly cried</p>&mdash; renata gerecke (@renatagerecke) <a href="https://twitter.com/renatagerecke/status/1179161290662653958?ref_src=twsrc%5Etfw">October 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
