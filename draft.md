@@ -11,7 +11,7 @@ Release Date: 2019-10-07
 
 + [Introducing {fable}: Forecasting models for tidy time series](https://blog.mitchelloharawild.com/blog/fable/)
 
-+ [{lintr 2.0.0}](https://www.jimhester.com/post/lintr-2-0-0/)
++ [{lintr 2.0.0}: Checks adherence to a given style, looks for syntax errors and possible semantic errors](https://www.jimhester.com/post/lintr-2-0-0/)
 
 + [{almanac}: Implements a 'grammar of schedules', providing the fundamental building blocks to construct recurrence rules that identify “events” such as weekends or holidays](https://github.com/DavisVaughan/almanac)
 
@@ -70,7 +70,7 @@ Release Date: 2019-10-07
 
 + [{tensorflow 2.0.0}](https://cran.r-project.org/package=tensorflow)
 
-+ [{lintr 2.0.0}](https://www.jimhester.com/post/lintr-2-0-0/)
++ [{lintr 2.0.0}: Checks adherence to a given style, looks for syntax errors and possible semantic errors](https://www.jimhester.com/post/lintr-2-0-0/)
 
 + [{geospark 0.2.1}](https://cran.r-project.org/package=geospark)
 
