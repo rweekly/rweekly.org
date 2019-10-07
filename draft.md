@@ -7,6 +7,8 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2019-10-07
 
+This week's release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the RWeekly team members and contributors.
+
 ###  Highlight
 
 + [Introducing {fable}: Forecasting models for tidy time series](https://blog.mitchelloharawild.com/blog/fable/)
@@ -82,7 +84,7 @@ Release Date: 2019-10-07
 
 + [#TidyTuesday Podcast #6: School Diversity Data](https://www.tidytuesday.com/6)
 
-![tidytuesdaypod](https://raw.githubusercontent.com/rweekly/image/master/2019-10-07/tidytuespod.png)
+![tidytuesdaypod](https://raw.githubusercontent.com/rweekly/image/master/2019-10-07/tidytuespod.jpg)
 
 + [#TidyTuesday Screecast: Analyzing pizza ratings](https://www.youtube.com/watch?v=Mkac8DHScps)
 
