@@ -70,6 +70,10 @@ Release Date: 2019-10-07
 
 + [{geospark 0.2.1}](https://cran.r-project.org/package=geospark)
 
++ [{countup}: counter for RMarkdown & Shiny](https://github.com/JohnCoene/countup)
+
++ [{lorem}: Quickly generate lorem ipsum placeholder text](https://github.com/gadenbuie/lorem)
+
 ###  Videos and Podcasts
 
 + [#TidyTuesday Podcast #6: School Diversity Data](https://www.tidytuesday.com/6)
