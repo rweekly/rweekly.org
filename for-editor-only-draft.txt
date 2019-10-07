@@ -78,11 +78,13 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [ToMexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools
++ [Tokyo.R #82, October 26](https://tokyor.connpass.com/)
 
-+ [R/Pharma Conference 2019, August 21 - 23](http://rinpharma.com/)
++ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
 
-+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D
++ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/) 
+
++ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
