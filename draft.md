@@ -9,7 +9,11 @@ Release Date: 2019-10-07
 
 ###  Highlight
 
++ [Introducing {fable}: Forecasting models for tidy time series](https://blog.mitchelloharawild.com/blog/fable/)
 
++ [{lintr 2.0.0}](https://www.jimhester.com/post/lintr-2-0-0/)
+
++ [{almanac}: Implements a 'grammar of schedules', providing the fundamental building blocks to construct recurrence rules that identify “events” such as weekends or holidays](https://github.com/DavisVaughan/almanac)
 
 ### Insights
 
