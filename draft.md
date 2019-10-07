@@ -1,35 +1,48 @@
 ---
 layout: draft
-title: R Weekly 2019-32
+title: R Weekly 2019-40
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-08-12
+Release Date: 2019-10-07
+
+This week's release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the RWeekly team members and contributors.
 
 ###  Highlight
 
++ [Introducing {fable}: Forecasting models for tidy time series](https://blog.mitchelloharawild.com/blog/fable/)
 
++ [{lintr 2.0.0}: Checks adherence to a given style, looks for syntax errors and possible semantic errors](https://www.jimhester.com/post/lintr-2-0-0/)
+
++ [{almanac}: Implements a 'grammar of schedules', providing the fundamental building blocks to construct recurrence rules that identify “events” such as weekends or holidays](https://github.com/DavisVaughan/almanac)
 
 ### Insights
 
++ [EARL London 2019 Conference Recap](https://appsilon.com/earl-london-2019-conference-recap/)
+
++ [Why R? Warsaw 2019 Recap](https://appsilon.com/why-r-warsaw-2019-recap/)
 
 
 ### R in the Real World
 
++ [Mapping the Underlying Social Structure of Reddit](https://datadiarist.github.io/post/mapping-the-underlying-social-structure-of-reddit/)
+
++ [A Guide to Getting International Statistics into R](https://erikgahner.dk/2019/a-guide-to-getting-international-statistics-into-r/)
 
 
 ###  R in Organizations
 
++ [Business AI for SMBs - Building Amazon-style Product Recommenders using RemixAutoML](https://www.remixinstitute.com/blog/business-ai-for-small-to-medium-sized-businesses-with-remixautoml)
 
-
-###  R in Academia
-
-
+![](https://i2.wp.com/www.remixinstitute.com/wp-content/uploads/technology-companies-rd-expenditures-2017-remix-institute.png?w=1536&ssl=1)
 
 ###  Resources
 
++ [{ggplot2} theme for Breast Cancer Awareness: `theme_bc_aware`](https://github.com/louisahsmith/theme_bc_aware)
+![theme_bc_ware](https://raw.githubusercontent.com/rweekly/image/master/2019-10-07/breastcancertheme.png)
 
++ [Material for COMBINE NSW Workshop on R Markdown](https://github.com/emitanaka/combine2019)
 
 ###  New Packages
 
@@ -37,38 +50,70 @@ Release Date: 2019-08-12
 
 **CRAN**
 
++ [{signs 0.1.0}: Provides convenience functions to replace hyphen-minuses (ASCII 45) with proper minus signs (Unicode character 2212)](https://cran.r-project.org/package=signs)
 
-
-**BioC**
-
-
++ [{fable}: Forecasting models for tidy time series](https://cran.r-project.org/package=fable)
 
 **GitHub or Bitbucket**
 
++ [{tune}: facilitate the tuning of hyper-parameters in the tidymodels packages](https://github.com/tidymodels/tune)
 
++ [{fastpipe}: fast alternative to {magrittr} pipes](https://github.com/moodymudskipper/fastpipe)
+
++ [{almanac}: Implements a 'grammar of schedules', providing the fundamental building blocks to construct recurrence rules that identify “events” such as weekends or holidays](https://github.com/DavisVaughan/almanac)
 
 ### Updated Packages
 
++ [{geohashTools 0.3.0}](https://github.com/MichaelChirico/geohashTools)
 
++ [{data.table 1.12.4}](https://cran.r-project.org/package=data.table)
+
+![datatablenafill](https://raw.githubusercontent.com/rweekly/image/master/2019-10-07/datatablenafill.png)
+
++ [{tensorflow 2.0.0}](https://cran.r-project.org/package=tensorflow)
+
++ [{lintr 2.0.0}: Checks adherence to a given style, looks for syntax errors and possible semantic errors](https://www.jimhester.com/post/lintr-2-0-0/)
+
++ [{geospark 0.2.1}](https://cran.r-project.org/package=geospark)
+
++ [{countup}: counter for RMarkdown & Shiny](https://github.com/JohnCoene/countup)
+
++ [{lorem}: Quickly generate lorem ipsum placeholder text](https://github.com/gadenbuie/lorem)
 
 ###  Videos and Podcasts
 
++ [#TidyTuesday Podcast #6: School Diversity Data](https://www.tidytuesday.com/6)
 
+![tidytuesdaypod](https://raw.githubusercontent.com/rweekly/image/master/2019-10-07/tidytuespod.jpg)
 
-### Gist & Cookbook
++ [#TidyTuesday Screecast: Analyzing pizza ratings](https://www.youtube.com/watch?v=Mkac8DHScps)
 
-
-
-### R Internationally
-
-
++ [Intro to GeoSpatial Data in Spark](https://www.youtube.com/watch?v=qgCAqL6uKRA)
 
 ###  Tutorials
 
++ [Insights from the RMarkdown whisperer](http://jenrichmond.rbind.io/post/insights-from-the-markdown-whisperer/)
 
++ [Flow fields (12 Months of aRt, September)](https://www.williamrchase.com/post/flow-fields-12-months-of-art-september/)
+![september aRt](https://raw.githubusercontent.com/rweekly/image/master/2019-10-07/septArt.png)
 
-<!--<div class="post-more-begi
-n></div><div class="post-more-end"></div>-->
++ [Manipulating colors with {prismatic}](https://www.hvitfeldt.me/blog/manipulating-colors-with-prismatic/)
+
++ [Goodbye, Disqus! Hello, Utterances!](https://masalmon.eu/2019/10/02/disqus/)
+
++ [`theme_inari()`](http://lenkiefer.com/2019/09/23/theme-inari/)
+
++ [Cox PH with Time varying Covariate, Part I](https://www.leynu.com/post/2019-09-28-surv-time-varying/)
+
++ [A short introduction to {drake}](https://data.nozav.org/post/2019-a-short-introduction-to-drake/)
+
++ [Building Regularized Logistic Regressions from Scratch with Computational Graphs in R](https://nanx.me/blog/post/cgraph-logreg/)
+
++ [Split-apply-combine for Maximum Likelihood Estimation of a linear model](https://www.brodrigues.co/blog/2019-10-05-parallel_maxlik/)
+
++ [Introducing {fable}: Forecasting models for tidy time series](https://blog.mitchelloharawild.com/blog/fable/)
+
+<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
@@ -79,13 +124,13 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [Mexico CDSB Workshop 2019, July 29 - August 2](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/) - How to Build and Create Tidy Tools
++ [Tokyo.R #82, October 26](https://tokyor.connpass.com/)
 
-+ [R/Pharma Conference 2019, August 21 - 23](http://rinpharma.com/)
++ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
 
-+ [R/Medicine 2019, September 12 - 14](https://r-medicine.com/)
++ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/) 
 
-+ [LatinR 2019, Santiago de Chile, September 25 - 27](http://latin-r.com) - Latinamerican Conference About the Use of R in R&D
++ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -94,17 +139,15 @@ Events in 3 Months:
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
-
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For those who use <a href="https://twitter.com/hashtag/dplyr?src=hash&amp;ref_src=twsrc%5Etfw">#dplyr</a> but don&#39;t master it yet, we&#39;ve just created for you the ultimate guide to the 1 tibble case in a single cheat sheet. Feedback appreciated!<br>Source = <a href="https://t.co/ucFHHFtCqV">https://t.co/ucFHHFtCqV</a><a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br>Many tanks to Colin Vullioud for helping! <a href="https://t.co/WISUiG4oST">pic.twitter.com/WISUiG4oST</a></p>&mdash; R Data Berlin (@rdataberlin) <a href="https://twitter.com/rdataberlin/status/1177640285477703680?ref_src=twsrc%5Etfw">September 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Learned last week from the man himself (JJ Allaire) that you can execute Python scripts in RStudio and it just *knows* <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> (the first reticulate command auto-ran) <a href="https://t.co/WdX8Evzqwg">pic.twitter.com/WdX8Evzqwg</a></p>&mdash; Hilary Parker (@hspter) <a href="https://twitter.com/hspter/status/1178799955999281152?ref_src=twsrc%5Etfw">September 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ever want to join a list of dataframes together (with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>) in one fell swoop? try purrr::reduce(list_of_dfs, full_join, by = &quot;id_column_name&quot;)<br><br>honestly, when this worked, i nearly cried</p>&mdash; renata gerecke (@renatagerecke) <a href="https://twitter.com/renatagerecke/status/1179161290662653958?ref_src=twsrc%5Etfw">October 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
