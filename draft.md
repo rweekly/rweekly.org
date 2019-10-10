@@ -28,7 +28,7 @@ Release Date: 2019-10-14
 
 
 ###  Resources
-
+[Committing to Good Git Practices](https://data-chronicler.netlify.com/2019/10/09/2019-10-09-committing-to-good-git-practices/)
 
 
 ###  New Packages
