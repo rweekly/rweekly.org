@@ -64,7 +64,7 @@ Release Date: 2019-10-14
 
 
 ###  Tutorials
-
+[Committing to Good Git Practices](https://data-chronicler.netlify.com/2019/10/09/2019-10-09-committing-to-good-git-practices/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
