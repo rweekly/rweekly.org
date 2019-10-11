@@ -13,11 +13,17 @@ Release Date: 2019-10-14
 
 ### Insights
 
++ [Reflections on building my first few R packages](https://mainard.co.uk/post/reflections-on-building-my-first-few-r-packages/)
 
++ [rOpenSci: cran checks API, an update](https://ropensci.org/technotes/2019/10/09/cran-checks-api-update/)
+
++ [Comparing Efficiency and Speed of `data.table`: Adding variables, filtering rows, and summarizing by group](https://tysonbarrett.com//jekyll/update/2019/10/06/datatable_memory/)
 
 ### R in the Real World
 
++ [Twitter's Feelings About Programming Languages](https://www.garrickadenbuie.com/blog/tweet-poll-programming-languages/)
 
+![]()
 
 ###  R in Organizations
 
@@ -45,10 +51,21 @@ Release Date: 2019-10-14
 
 **GitHub or Bitbucket**
 
++ [{marker}: Highlight text in Shiny with markjs](https://github.com/JohnCoene/marker)
 
++ [{svgpatternusgs}: Provides SVG patterns from the United States Geological Survey (USGS)](https://github.com/coolbutuseless/svgpatternusgs)
+
++ [{g3r}: 3D, Virtual and Augmented Reality Maps](https://github.com/JohnCoene/g3r)
+
++ [{devoutsvg}: Bespoke SVG graphics output device with pattern fill support](https://github.com/coolbutuseless/devoutsvg)
 
 ### Updated Packages
 
++ [{protolite 2.0}: Pure C++ implementations for reading and writing several common data formats based on Google protocol-buffers](https://cran.r-project.org/package=protolite)
+
++ [{rayrender}](https://cran.r-project.org/package=rayrender)
+
++ [{silicate}: Generate common data forms for complex data suitable for conversions and transmission by decomposition as paths or primitives](https://cran.r-project.org/package=silicate)
 
 
 ###  Videos and Podcasts
@@ -65,7 +82,7 @@ Release Date: 2019-10-14
 
 ###  Tutorials
 
-
++ [Building Interactive World Maps in Shiny](https://rviews.rstudio.com/2019/10/09/building-interactive-world-maps-in-shiny/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
