@@ -19,6 +19,8 @@ Release Date: 2019-10-14
 
 + [Comparing Efficiency and Speed of `data.table`: Adding variables, filtering rows, and summarizing by group](https://tysonbarrett.com//jekyll/update/2019/10/06/datatable_memory/)
 
++ [Tomas Kalibera, Luke Tierney: R Can Use Your Help: Reviewing Bug Reports](https://developer.r-project.org/Blog/public/2019/10/09/r-can-use-your-help-reviewing-bug-reports/index.html)
+
 ### R in the Real World
 
 + [Twitter's Feelings About Programming Languages](https://www.garrickadenbuie.com/blog/tweet-poll-programming-languages/)
