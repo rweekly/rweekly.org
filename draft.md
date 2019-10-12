@@ -21,11 +21,15 @@ Release Date: 2019-10-14
 
 + [Tomas Kalibera, Luke Tierney: R Can Use Your Help: Reviewing Bug Reports](https://developer.r-project.org/Blog/public/2019/10/09/r-can-use-your-help-reviewing-bug-reports/index.html)
 
++ [r-bugs :: object_size](https://jcarroll.com.au/2019/10/12/r-bugs-file-info-object-size/)
+
 ### R in the Real World
 
 + [Twitter's Feelings About Programming Languages](https://www.garrickadenbuie.com/blog/tweet-poll-programming-languages/)
 
 ![]()
+
++ [Twitter data analysis in R](https://poissonisfish.com/2019/10/09/twitter-data-analysis-in-r/)
 
 ###  R in Organizations
 
@@ -45,7 +49,7 @@ Release Date: 2019-10-14
 
 **CRAN**
 
-
++ [{fgdr 1.0.0}: Read and Parse for Fundamental Geo-Spatial Data (FGD)](https://cran.r-project.org/package=fgdr)
 
 **BioC**
 
@@ -54,6 +58,8 @@ Release Date: 2019-10-14
 **GitHub or Bitbucket**
 
 + [{marker}: Highlight text in Shiny with markjs](https://github.com/JohnCoene/marker)
+
+![]()
 
 + [{svgpatternusgs}: Provides SVG patterns from the United States Geological Survey (USGS)](https://github.com/coolbutuseless/svgpatternusgs)
 
@@ -72,7 +78,7 @@ Release Date: 2019-10-14
 
 ###  Videos and Podcasts
 
-
++ [#TidyTuesday Podcast #7: Pizza Party](https://www.tidytuesday.com/7)
 
 ### Gist & Cookbook
 
@@ -85,6 +91,12 @@ Release Date: 2019-10-14
 ###  Tutorials
 
 + [Building Interactive World Maps in Shiny](https://rviews.rstudio.com/2019/10/09/building-interactive-world-maps-in-shiny/)
+
++ [ggplot2tutor: Powerlifting - How age affects squat performance](https://ggplot2tutor.com/powerlifting/squats/)
+
+![]()
+
++ [Individuals are not small groups, I: Simpson's paradox](https://solomonkurz.netlify.com/post/individuals-are-not-small-groups-i-simpson-s-paradox/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
