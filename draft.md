@@ -21,32 +21,39 @@ Release Date: 2019-10-14
 
 + [Comparing Efficiency and Speed of `data.table`: Adding variables, filtering rows, and summarizing by group](https://tysonbarrett.com//jekyll/update/2019/10/06/datatable_memory/)
 
-+ [Tomas Kalibera, Luke Tierney: R Can Use Your Help: Reviewing Bug Reports](https://developer.r-project.org/Blog/public/2019/10/09/r-can-use-your-help-reviewing-bug-reports/index.html)
 
 + [r-bugs :: object_size](https://jcarroll.com.au/2019/10/12/r-bugs-file-info-object-size/)
 
 + [Modern Data Science with R: A review](https://ekonometrics.blogspot.com/2019/05/modern-data-science-with-r-review.html)
 
+![Modern Data Science with R: A review](https://raw.githubusercontent.com/rweekly/image/master/2019/41/book-cover.jpg)
+
 ### R in the Real World
 
 + [Twitter's Feelings About Programming Languages](https://www.garrickadenbuie.com/blog/tweet-poll-programming-languages/)
 
-+ [Building a data-driven CV with R](https://livefreeordichotomize.com/2019/09/04/building_a_data_driven_cv_with_r/)
+![Twitter's Feelings About Programming Languages](https://raw.githubusercontent.com/rweekly/image/master/2019/41/votes-used-difficult-wide-1.png)
+
 
 + [Breast cancer awareness!](https://www.leynu.com/post/2019-10-10-breast_cancer_nordic/)
 
 + [Wikipedia Page View Statistics Late 2007 and Beyond](https://petermeissner.de/blog/2019/10/09/wikipediatrend-v2.1.4/)
 
-+ [Building Interactive World Maps in Shiny](https://rviews.rstudio.com/2019/10/09/building-interactive-world-maps-in-shiny/)
++ [Building a data-driven CV with R](https://livefreeordichotomize.com/2019/09/04/building_a_data_driven_cv_with_r/)
+
+![Building a data-driven CV with R](https://raw.githubusercontent.com/rweekly/image/master/2019/41/resume.png)
+
 
 + [Twitter data analysis in R](https://poissonisfish.com/2019/10/09/twitter-data-analysis-in-r/)
-
-+ [AI for Engineers](http://www.win-vector.com/blog/2019/10/ai-for-engineers/)
 
 
 + [Opioid prescribing habits in Texas](https://juliasilge.com/blog/texas-opioids/)
 
+![Opioid prescribing habits in Texas](https://raw.githubusercontent.com/rweekly/image/master/2019/41/texas.png)
+
 + [GitHub Streak: Round Six](http://dirk.eddelbuettel.com/blog/2019/10/12#github_oct2018_oct2019)
+
+![GitHub Streak: Round Six](https://raw.githubusercontent.com/rweekly/image/master/2019/41/github_oct2018_oct2019.png)
 
 ###  R in Organizations
 
@@ -74,6 +81,8 @@ Release Date: 2019-10-14
 
 + [{fgdr 1.0.0}: Read and Parse for Fundamental Geo-Spatial Data (FGD)](https://cran.r-project.org/package=fgdr)
 
+![fgdr](https://raw.githubusercontent.com/rweekly/image/master/2019/41/fgdr.png)
+
 + [RcppArmadillo 0.9.800.1.0](http://dirk.eddelbuettel.com/blog/2019/10/09#rcpparmadillo_0.9.800.1.0)
 
 **BioC**
@@ -84,15 +93,19 @@ Release Date: 2019-10-14
 
 + [{marker}: Highlight text in Shiny with markjs](https://github.com/JohnCoene/marker)
 
+![{marker}: Highlight text in Shiny with markjs](https://raw.githubusercontent.com/rweekly/image/master/2019/41/marker.gif)
+
 + [{svgpatternusgs}: Provides SVG patterns from the United States Geological Survey (USGS)](https://github.com/coolbutuseless/svgpatternusgs)
+
+![svgpatternusgs](https://raw.githubusercontent.com/rweekly/image/master/2019/41/usgs-sample.png)
 
 + [{g3r}: 3D, Virtual and Augmented Reality Maps](https://github.com/JohnCoene/g3r)
 
 + [{devoutsvg}: Bespoke SVG graphics output device with pattern fill support](https://github.com/coolbutuseless/devoutsvg)
 
-+ [{devoutverse}: a collection of non-standard graphics output devices for RStats](https://coolbutuseless.github.io/2019/10/08/the-devoutverse-a-collection-of-non-standard-graphics-output-devices-for-rstats/)
++ [{devoutverse}: a collection of non-standard graphics output devices](https://coolbutuseless.github.io/2019/10/08/the-devoutverse-a-collection-of-non-standard-graphics-output-devices-for-rstats/)
 
-+ [The {miniverse} - a collection of document creation packages for RStats](https://coolbutuseless.github.io/2019/10/09/the-miniverse-a-collection-of-document-creation-packages-for-rstats/)
++ [The {miniverse} - a collection of document creation packages](https://coolbutuseless.github.io/2019/10/09/the-miniverse-a-collection-of-document-creation-packages-for-rstats/)
 
 
 ### Updated Packages
@@ -124,7 +137,8 @@ Release Date: 2019-10-14
 
 + [Building Interactive World Maps in Shiny](https://rviews.rstudio.com/2019/10/09/building-interactive-world-maps-in-shiny/)
 
-+ [ggplot2tutor: Powerlifting - How age affects squat performance](https://ggplot2tutor.com/powerlifting/squats/)
+![Building Interactive World Maps in Shiny](https://raw.githubusercontent.com/rweekly/image/master/2019/41/gap.png)
+
 
 + [Individuals are not small groups, I: Simpson's paradox](https://solomonkurz.netlify.com/post/individuals-are-not-small-groups-i-simpson-s-paradox/)
 
@@ -138,9 +152,15 @@ Release Date: 2019-10-14
 
 + [Using Spark from R for performance with arbitrary code - Part 3 - Using R to construct SQL queries and let Spark execute them](https://jozef.io/r203-spark-r-sql/)
 
++ [ggplot2tutor: Powerlifting - How age affects squat performance](https://ggplot2tutor.com/powerlifting/squats/)
+
+![ggplot2tutor: Powerlifting - How age affects squat performance](https://raw.githubusercontent.com/rweekly/image/master/2019/41/squats.png)
+
 + [Loading packages efficiently](https://thewoodpeckr.wordpress.com/2019/10/12/loading-packages-efficiently/)
 
 + [Exploring Highcharts in R](https://towardsdatascience.com/exploring-highcharts-in-r-f754143efda7)
+
+![Exploring Highcharts in R](https://raw.githubusercontent.com/rweekly/image/master/2019/41/highchart.jpeg)
 
 + [updated aupolitics project to work with s3 instead of db](https://levashov.biz/updated-aupolitics-project-to-work-with-s3-instead-of-db/)
 
@@ -150,6 +170,8 @@ Release Date: 2019-10-14
 
 + [Spatial networks in R with sf and tidygraph](https://www.r-spatial.org//r/2019/09/26/spatial-networks.html)
 
+![Spatial networks in R with sf and tidygraph](https://raw.githubusercontent.com/rweekly/image/master/2019/41/spatial-network.png)
+
 + [Rename Columns](https://finderding.com/rename-columns-r/?utm_source=rss&utm_medium=rss&utm_campaign=rename-columns-r)
 
 + [Gosset part 2: small sample statistics](https://blog.rmhogervorst.nl/blog/2019/10/11/gosset-part-2-small-sample-statistics/)
@@ -157,6 +179,8 @@ Release Date: 2019-10-14
 + [Shiny Tip: Choose Where to Run App with an Option](https://www.garrickadenbuie.com/blog/shiny-tip-option-where-to-run/)
 
 + [Mediation, confounding, and measurement error](https://rpsychologist.com/mediation-confounding-ME)
+
+![Mediation, confounding, and measurement error](https://raw.githubusercontent.com/rweekly/image/master/2019/41/confounding.png)
 
 + [A full RStudio Server setup for Data Science in 5 minutes](https://pacha.hk/blog/2019/10/05/a-full-rstudio-server-setup-for-data-science-in-5-minutes/)
 
