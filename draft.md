@@ -13,6 +13,8 @@ Release Date: 2019-10-14
 
 ### Insights
 
++ [R Can Use Your Help: Reviewing Bug Reports](https://developer.r-project.org/Blog/public/2019/10/09/r-can-use-your-help-reviewing-bug-reports/)
+
 + [Reflections on building my first few R packages](https://mainard.co.uk/post/reflections-on-building-my-first-few-r-packages/)
 
 + [rOpenSci: cran checks API, an update](https://ropensci.org/technotes/2019/10/09/cran-checks-api-update/)
@@ -23,17 +25,32 @@ Release Date: 2019-10-14
 
 + [r-bugs :: object_size](https://jcarroll.com.au/2019/10/12/r-bugs-file-info-object-size/)
 
++ [Modern Data Science with R: A review](https://ekonometrics.blogspot.com/2019/05/modern-data-science-with-r-review.html)
+
 ### R in the Real World
 
 + [Twitter's Feelings About Programming Languages](https://www.garrickadenbuie.com/blog/tweet-poll-programming-languages/)
 
-![]()
++ [Building a data-driven CV with R](https://livefreeordichotomize.com/2019/09/04/building_a_data_driven_cv_with_r/)
+
++ [Breast cancer awareness!](https://www.leynu.com/post/2019-10-10-breast_cancer_nordic/)
+
++ [Wikipedia Page View Statistics Late 2007 and Beyond](https://petermeissner.de/blog/2019/10/09/wikipediatrend-v2.1.4/)
+
++ [Building Interactive World Maps in Shiny](https://rviews.rstudio.com/2019/10/09/building-interactive-world-maps-in-shiny/)
 
 + [Twitter data analysis in R](https://poissonisfish.com/2019/10/09/twitter-data-analysis-in-r/)
 
++ [AI for Engineers](http://www.win-vector.com/blog/2019/10/ai-for-engineers/)
+
+
++ [Opioid prescribing habits in Texas](https://juliasilge.com/blog/texas-opioids/)
+
++ [GitHub Streak: Round Six](http://dirk.eddelbuettel.com/blog/2019/10/12#github_oct2018_oct2019)
+
 ###  R in Organizations
 
-
++ [Why R? Warsaw 2019 Recap](https://appsilon.com/why-r-warsaw-2019-recap/)
 
 ###  R in Academia
 
@@ -41,7 +58,13 @@ Release Date: 2019-10-14
 
 ###  Resources
 
++ [AI, Machine Learning and Data Science Roundup: September/October 2019](https://blog.revolutionanalytics.com/2019/10/airoundup-october-2019.html)
 
++ [rOpenSci Dev Guide 0.3.0: Updates](https://ropensci.org/blog/2019/10/08/dev-guide-update-fall19/)
+
++ [List-columns in data.table: Nesting and unnesting data tables and vectors](https://psyarxiv.com/u8ekc/)
+
++ [Mastering Shiny](https://mastering-shiny.org/) - The first five chapters of https://mastering-shiny.org are basically complete
 
 ###  New Packages
 
@@ -51,6 +74,8 @@ Release Date: 2019-10-14
 
 + [{fgdr 1.0.0}: Read and Parse for Fundamental Geo-Spatial Data (FGD)](https://cran.r-project.org/package=fgdr)
 
++ [RcppArmadillo 0.9.800.1.0](http://dirk.eddelbuettel.com/blog/2019/10/09#rcpparmadillo_0.9.800.1.0)
+
 **BioC**
 
 
@@ -59,13 +84,16 @@ Release Date: 2019-10-14
 
 + [{marker}: Highlight text in Shiny with markjs](https://github.com/JohnCoene/marker)
 
-![]()
-
 + [{svgpatternusgs}: Provides SVG patterns from the United States Geological Survey (USGS)](https://github.com/coolbutuseless/svgpatternusgs)
 
 + [{g3r}: 3D, Virtual and Augmented Reality Maps](https://github.com/JohnCoene/g3r)
 
 + [{devoutsvg}: Bespoke SVG graphics output device with pattern fill support](https://github.com/coolbutuseless/devoutsvg)
+
++ [{devoutverse}: a collection of non-standard graphics output devices for RStats](https://coolbutuseless.github.io/2019/10/08/the-devoutverse-a-collection-of-non-standard-graphics-output-devices-for-rstats/)
+
++ [The {miniverse} - a collection of document creation packages for RStats](https://coolbutuseless.github.io/2019/10/09/the-miniverse-a-collection-of-document-creation-packages-for-rstats/)
+
 
 ### Updated Packages
 
@@ -80,11 +108,15 @@ Release Date: 2019-10-14
 
 + [#TidyTuesday Podcast #7: Pizza Party](https://www.tidytuesday.com/7)
 
++ [Statistics Sunday: Mixed Effects Meta-Analysis](http://www.deeplytrivial.com/2018/07/statistics-sunday-mixed-effects-meta.html)
+
 ### Gist & Cookbook
 
 
 
 ### R Internationally
+
++ [Lo que aprendí en LatinR 2019](https://eliocamp.github.io/codigo-r/2019/10/lo-que-aprend%C3%AD-en-latinr-2019/)
 
 
 
@@ -94,9 +126,41 @@ Release Date: 2019-10-14
 
 + [ggplot2tutor: Powerlifting - How age affects squat performance](https://ggplot2tutor.com/powerlifting/squats/)
 
-![]()
-
 + [Individuals are not small groups, I: Simpson's paradox](https://solomonkurz.netlify.com/post/individuals-are-not-small-groups-i-simpson-s-paradox/)
+
++ [Cluster multiple time series using K-means](https://www.brodrigues.co/blog/2019-10-12-cluster_ts/)
+
++ [Using R: When weird errors occur in packages that used to work, check that you’re not feeding them a tibble](https://onunicornsandgenes.blog/2019/10/06/using-r-when-weird-errors-occur-in-packages-that-used-to-work-check-that-youre-not-feeding-them-a-tibble/)
+
++ [Deploying a Dash Application to Operationalize Machine Learning Models](https://moderndata.plot.ly/part-ii-deploying-a-dash-application-to-operationalize-machine-learning-models/)
+
++ [cran checks API: an update](https://ropensci.org/technotes/2019/10/09/cran-checks-api-update/)
+
++ [Using Spark from R for performance with arbitrary code - Part 3 - Using R to construct SQL queries and let Spark execute them](https://jozef.io/r203-spark-r-sql/)
+
++ [Loading packages efficiently](https://thewoodpeckr.wordpress.com/2019/10/12/loading-packages-efficiently/)
+
++ [Exploring Highcharts in R](https://towardsdatascience.com/exploring-highcharts-in-r-f754143efda7)
+
++ [updated aupolitics project to work with s3 instead of db](https://levashov.biz/updated-aupolitics-project-to-work-with-s3-instead-of-db/)
+
++ [Explaining Predictions: Boosted Trees Post-hoc Analysis (Xgboost)](https://notast.netlify.com/post/explaining-predictions-boosted-trees-post-hoc-analysis-xgboost/)
+
++ [DFIR Redefined Part 3: visNetwork for Network Data](https://holisticinfosec.io/post/visnetwork/)
+
++ [Spatial networks in R with sf and tidygraph](https://www.r-spatial.org//r/2019/09/26/spatial-networks.html)
+
++ [Rename Columns](https://finderding.com/rename-columns-r/?utm_source=rss&utm_medium=rss&utm_campaign=rename-columns-r)
+
++ [Gosset part 2: small sample statistics](https://blog.rmhogervorst.nl/blog/2019/10/11/gosset-part-2-small-sample-statistics/)
+
++ [Shiny Tip: Choose Where to Run App with an Option](https://www.garrickadenbuie.com/blog/shiny-tip-option-where-to-run/)
+
++ [Mediation, confounding, and measurement error](https://rpsychologist.com/mediation-confounding-ME)
+
++ [A full RStudio Server setup for Data Science in 5 minutes](https://pacha.hk/blog/2019/10/05/a-full-rstudio-server-setup-for-data-science-in-5-minutes/)
+
++ [Data Pivoting with tidyr](https://blog.methodsconsultants.com/posts/data-pivoting-with-tidyr/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -113,7 +177,7 @@ Events in 3 Months:
 
 + [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
 
-+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/) 
++ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)
 
 + [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
 
@@ -126,6 +190,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
 
++ [NHS-R Community datasets package released](https://nhsrcommunity.com/blog/nhs-r-community-datasets-package-released/)
+
 ### Jobs
 
 
@@ -137,3 +203,12 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An Rstudio shortcut everybody should know is Alt + Shift to create a multiline cursor. Huge time saver for code formatting! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/s9EQMRk8kT">pic.twitter.com/s9EQMRk8kT</a></p>&mdash; Edwin Thoen (@edwin_thoen) <a href="https://twitter.com/edwin_thoen/status/1182563623077584896?ref_src=twsrc%5Etfw">October 11, 2019</a></blockquote>
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a>: Repeated measures ANOVA is traditionally a horrible nightmare in R. The `afex` package changes this. Easily specify a rm-model that gives identical results to SPSS using `afex::aov_car`. Automatically applies the GG correction. <br><br>install.packages(&quot;afex&quot;)<a href="https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw">#phdchat</a> <a href="https://t.co/aUPwoVSvcQ">pic.twitter.com/aUPwoVSvcQ</a></p>&mdash; Guy Prochilo 🏳️‍🌈 (@GuyProchilo) <a href="https://twitter.com/GuyProchilo/status/1183156454649421824?ref_src=twsrc%5Etfw">October 12, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Does anyone else have an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> thing (or things) they have to Google literally every time, even though they use it a lot? 🙃 🙃 🙃 I probably use this at least once a month and it still won&#39;t stick <a href="https://t.co/nWpJfbnfne">pic.twitter.com/nWpJfbnfne</a></p>&mdash; Emma Vitz (@EmmaVitz) <a href="https://twitter.com/EmmaVitz/status/1182787224066150400?ref_src=twsrc%5Etfw">October 11, 2019</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
