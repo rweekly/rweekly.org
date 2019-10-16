@@ -37,6 +37,7 @@ Release Date: 2019-10-21
 
 **CRAN**
 
++ [Introducing ymlthis: a toolkit for working with YAML](https://malco.io/2019/10/10/introducing-ymlthis/)
 
 
 **BioC**
