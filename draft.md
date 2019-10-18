@@ -37,6 +37,9 @@ Release Date: 2019-10-21
 
 **CRAN**
 
+[{orderly 1.0.1}: A lightweight but powerful reproducible reporting framework](https://reside-ic.github.io/blog/orderly-1.0.1-released-to-cran/)
+
+
 
 
 **BioC**
