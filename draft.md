@@ -15,9 +15,23 @@ Release Date: 2019-10-21
 
 + [My First R Package (Part 1)](https://qualityandinnovation.com/2019/10/13/my-first-r-package-part-1/)
 
++ [2 Months in 2 Minutes - rOpenSci News, October 2019](https://ropensci.org/blog/2019/10/17/news-oct2019/)
+
++ [Easy introduction to Offensive Programming](https://neonira.github.io/zop2)
+
++ [Strange Attractors: an R experiment about maths, recursivity and creative coding](https://codingclubuc3m.rbind.io/post/2019-10-15/)
+
++ [What are Your Use Cases for rOpenSci Tools and Resources?](https://ropensci.org/blog/2019/10/15/use-cases/)
+
 ### R in the Real World
 
 + [Where are we going? A look at the U.S. Men's National Soccer Team](https://austinwehrwein.com/post/usmnt/)
+
++ [Productionizing Shiny and Plumber with Pins](https://rviews.rstudio.com/2019/10/17/deploying-data-with-pins/)
+
++ [Private Security and the Pareto Principle](https://datawookie.netlify.com/blog/2019/10/private-security-and-the-pareto-principle/)
+
++ [Finding free science books from Springer](http://blog.ephorie.de/finding-free-science-books-from-springer)
 
 ###  R in Organizations
 
@@ -40,6 +54,11 @@ Release Date: 2019-10-21
 
 + [{orderly 1.0.1}: A lightweight but powerful reproducible reporting framework](https://reside-ic.github.io/blog/orderly-1.0.1-released-to-cran/)
 
++ [bigparallelr: Easy Parallel Tools](https://cran.r-project.org/web/packages/bigparallelr/index.html)
+
++ [govdown: GOV.UK Style Templates for R Markdown](https://cran.r-project.org/web/packages/govdown/index.html)
+
++ [miniparquet: Read Parquet Files](https://cran.r-project.org/web/packages/miniparquet/index.html)
 
 **BioC**
 
@@ -47,7 +66,7 @@ Release Date: 2019-10-21
 
 **GitHub or Bitbucket**
 
-
++ [A golem App for #TidyTuesday, 2019-10-15](https://github.com/ColinFay/tidytuesday201942)
 
 
 ### Updated Packages
@@ -58,7 +77,7 @@ Release Date: 2019-10-21
 
 ###  Videos and Podcasts
 
-
++ [89 - Everyone Has a Life](http://nssdeviations.com/89-everyone-has-a-life)
 
 ### Gist & Cookbook
 
@@ -84,6 +103,22 @@ Release Date: 2019-10-21
 + [xaringan Tip: Add A Logo to All of Your Slides](https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/)
 
 + [Settlers of Catan in R](https://www.therplayground.com/post/settlers-of-catan-in-r)
+
++ [SQL Server Schemas & R Tip](https://roh.engineering/post/sql-server-r-tip/)
+
++ [rBokeh – Don't be stopped by missing arguments!](https://www.statworx.com/de/blog/rbokeh-dont-be-stopped-by-missing-arguments/)
+
++ [Advancing Text Mining with R and quanteda](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/advancing-text-mining/)
+
++ [Map coloring: the color scale styles available in the tmap package](https://geocompr.github.io/post/2019/tmap-color-scales/)
+
++ [Using bwimge R package to describe patterns in images of natural structures](https://r-posts.com/using-bwimge-r-package-to-describe-patterns-in-images-of-natural-structures/)
+
++ [Super Solutions for Shiny Apps #4 of 5: Using R6 Classes](https://appsilon.com/super-solutions-for-shiny-apps-using-r6-classes/?nabe=5807278576631808:0&utm_referrer=https%3A%2F%2Fwww.r-bloggers.com%2Fsuper-solutions-for-shiny-apps-4-of-5-using-r6-classes%2F)
+
++ [Selection bias, death, and dying](https://www.rdatagen.net/post/selection-bias-death-and-dying/)
+
++ [Follow moving particle trajectory over raster with {rayshader}](https://statnmap.com/2019-10-06-follow-moving-particle-trajectory-on-raster-with-rayshader/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -117,7 +152,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-
++ [Job: Junior Systems Administrator (with a focus on R/Python)](https://www.jumpingrivers.com/blog/job-junior-systems-administrator-with-a-focus-on-r-python/)
 
 
 ###  Call for Participation
@@ -126,4 +161,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+
 
