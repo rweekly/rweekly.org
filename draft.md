@@ -13,10 +13,11 @@ Release Date: 2019-10-21
 
 ### Insights
 
++ [My First R Package (Part 1)](https://qualityandinnovation.com/2019/10/13/my-first-r-package-part-1/)
 
 ### R in the Real World
 
-
++ [Where are we going? A look at the U.S. Men's National Soccer Team](https://austinwehrwein.com/post/usmnt/)
 
 ###  R in Organizations
 
@@ -27,7 +28,7 @@ Release Date: 2019-10-21
 
 ###  Resources
 
-
++ [locus-pocus: A small shiny app that lets you visualise your area in 3 dimensions (webgl, VR, AR)](https://locus-pocus.io/)
 
 ###  New Packages
 
@@ -51,8 +52,9 @@ Release Date: 2019-10-21
 
 ### Updated Packages
 
++ [{shiny 1.4.0}](https://blog.rstudio.com/2019/10/15/shiny-1-4-0/)
 
-
++ [{covr 3.3.2}](https://cran.r-project.org/package=covr)
 
 ###  Videos and Podcasts
 
@@ -71,7 +73,17 @@ Release Date: 2019-10-21
 
 + [Vignette: Google Trends with the gtrendsR package](https://martinctc.github.io/blog/vignette-google-trends-with-gtrendsr/)
 
++ [Formatted spreadsheets in R](https://luisdva.github.io/rstats/annotate-mf/)
 
+![]()
+
++ [Map coloring: the color scale styles available in the tmap package](https://geocompr.github.io/post/2019/tmap-color-scales/)
+
+![]()
+
++ [xaringan Tip: Add A Logo to All of Your Slides](https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/)
+
++ [Settlers of Catan in R](https://www.therplayground.com/post/settlers-of-catan-in-r)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
