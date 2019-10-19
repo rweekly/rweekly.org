@@ -37,9 +37,9 @@ Release Date: 2019-10-21
 
 **CRAN**
 
-[{orderly 1.0.1}: A lightweight but powerful reproducible reporting framework](https://reside-ic.github.io/blog/orderly-1.0.1-released-to-cran/)
++ [Introducing ymlthis: a toolkit for working with YAML](https://malco.io/2019/10/10/introducing-ymlthis/)
 
-
++ [{orderly 1.0.1}: A lightweight but powerful reproducible reporting framework](https://reside-ic.github.io/blog/orderly-1.0.1-released-to-cran/)
 
 
 **BioC**
