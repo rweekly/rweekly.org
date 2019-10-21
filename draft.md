@@ -9,7 +9,11 @@ Release Date: 2019-10-21
 
 ###  Highlight
 
++ [A golem App for #TidyTuesday, 2019-10-15](https://github.com/ColinFay/tidytuesday201942)
 
++ [My First R Package (Part 1)](https://qualityandinnovation.com/2019/10/13/my-first-r-package-part-1/)
+
++ [Productionizing Shiny and Plumber with Pins](https://rviews.rstudio.com/2019/10/17/deploying-data-with-pins/)
 
 ### Insights
 
@@ -20,6 +24,8 @@ Release Date: 2019-10-21
 + [Easy introduction to Offensive Programming](https://neonira.github.io/zop2)
 
 + [Strange Attractors: an R experiment about maths, recursivity and creative coding](https://codingclubuc3m.rbind.io/post/2019-10-15/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-42/attractor.png)
 
 + [What are Your Use Cases for rOpenSci Tools and Resources?](https://ropensci.org/blog/2019/10/15/use-cases/)
 
@@ -32,13 +38,6 @@ Release Date: 2019-10-21
 + [Private Security and the Pareto Principle](https://datawookie.netlify.com/blog/2019/10/private-security-and-the-pareto-principle/)
 
 + [Finding free science books from Springer](http://blog.ephorie.de/finding-free-science-books-from-springer)
-
-###  R in Organizations
-
-
-###  R in Academia
-
-
 
 ###  Resources
 
@@ -60,10 +59,6 @@ Release Date: 2019-10-21
 
 + [miniparquet: Read Parquet Files](https://cran.r-project.org/web/packages/miniparquet/index.html)
 
-**BioC**
-
-
-
 **GitHub or Bitbucket**
 
 + [A golem App for #TidyTuesday, 2019-10-15](https://github.com/ColinFay/tidytuesday201942)
@@ -79,26 +74,17 @@ Release Date: 2019-10-21
 
 + [89 - Everyone Has a Life](http://nssdeviations.com/89-everyone-has-a-life)
 
-### Gist & Cookbook
-
-
-
-### R Internationally
-
-
-
-
 ###  Tutorials
 
 + [Vignette: Google Trends with the gtrendsR package](https://martinctc.github.io/blog/vignette-google-trends-with-gtrendsr/)
 
 + [Formatted spreadsheets in R](https://luisdva.github.io/rstats/annotate-mf/)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-42/dogtest.png)
 
 + [Map coloring: the color scale styles available in the tmap package](https://geocompr.github.io/post/2019/tmap-color-scales/)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-42/map.png)
 
 + [xaringan Tip: Add A Logo to All of Your Slides](https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/)
 
@@ -146,10 +132,6 @@ Events in 3 Months:
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
-### Datasets
-
-
-
 ### Jobs
 
 + [Job: Junior Systems Administrator (with a focus on R/Python)](https://www.jumpingrivers.com/blog/job-junior-systems-administrator-with-a-focus-on-r-python/)
@@ -159,8 +141,3 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
-
-###  Quotes of the Week
-
-
-
