@@ -1,47 +1,35 @@
 ---
 layout: draft
-title: R Weekly 2019-42
+title: R Weekly 2019-43
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-10-21
+Release Date: 2019-10-29
 
 ###  Highlight
 
-+ [A golem App for #TidyTuesday, 2019-10-15](https://github.com/ColinFay/tidytuesday201942)
 
-+ [My First R Package (Part 1)](https://qualityandinnovation.com/2019/10/13/my-first-r-package-part-1/)
-
-+ [Productionizing Shiny and Plumber with Pins](https://rviews.rstudio.com/2019/10/17/deploying-data-with-pins/)
 
 ### Insights
 
-+ [My First R Package (Part 1)](https://qualityandinnovation.com/2019/10/13/my-first-r-package-part-1/)
 
-+ [2 Months in 2 Minutes - rOpenSci News, October 2019](https://ropensci.org/blog/2019/10/17/news-oct2019/)
-
-+ [Easy introduction to Offensive Programming](https://neonira.github.io/zop2)
-
-+ [Strange Attractors: an R experiment about maths, recursivity and creative coding](https://codingclubuc3m.rbind.io/post/2019-10-15/)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-42/attractor.png)
-
-+ [What are Your Use Cases for rOpenSci Tools and Resources?](https://ropensci.org/blog/2019/10/15/use-cases/)
 
 ### R in the Real World
 
-+ [Where are we going? A look at the U.S. Men's National Soccer Team](https://austinwehrwein.com/post/usmnt/)
 
-+ [Productionizing Shiny and Plumber with Pins](https://rviews.rstudio.com/2019/10/17/deploying-data-with-pins/)
 
-+ [Private Security and the Pareto Principle](https://datawookie.netlify.com/blog/2019/10/private-security-and-the-pareto-principle/)
+###  R in Organizations
 
-+ [Finding free science books from Springer](http://blog.ephorie.de/finding-free-science-books-from-springer)
+
+
+###  R in Academia
+
+
 
 ###  Resources
 
-+ [locus-pocus: A small shiny app that lets you visualise your area in 3 dimensions (webgl, VR, AR)](https://locus-pocus.io/)
+
 
 ###  New Packages
 
@@ -49,62 +37,35 @@ Release Date: 2019-10-21
 
 **CRAN**
 
-+ [Introducing ymlthis: a toolkit for working with YAML](https://malco.io/2019/10/10/introducing-ymlthis/)
 
-+ [{orderly 1.0.1}: A lightweight but powerful reproducible reporting framework](https://reside-ic.github.io/blog/orderly-1.0.1-released-to-cran/)
 
-+ [bigparallelr: Easy Parallel Tools](https://cran.r-project.org/web/packages/bigparallelr/index.html)
+**BioC**
 
-+ [govdown: GOV.UK Style Templates for R Markdown](https://cran.r-project.org/web/packages/govdown/index.html)
 
-+ [miniparquet: Read Parquet Files](https://cran.r-project.org/web/packages/miniparquet/index.html)
 
 **GitHub or Bitbucket**
 
-+ [A golem App for #TidyTuesday, 2019-10-15](https://github.com/ColinFay/tidytuesday201942)
 
 
 ### Updated Packages
 
-+ [{shiny 1.4.0}](https://blog.rstudio.com/2019/10/15/shiny-1-4-0/)
 
-+ [{covr 3.3.2}](https://cran.r-project.org/package=covr)
 
 ###  Videos and Podcasts
 
-+ [89 - Everyone Has a Life](http://nssdeviations.com/89-everyone-has-a-life)
+
+
+### Gist & Cookbook
+
+
+
+### R Internationally
+
+
 
 ###  Tutorials
 
-+ [Vignette: Google Trends with the gtrendsR package](https://martinctc.github.io/blog/vignette-google-trends-with-gtrendsr/)
 
-+ [Formatted spreadsheets in R](https://luisdva.github.io/rstats/annotate-mf/)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-42/dogtest.png)
-
-+ [Map coloring: the color scale styles available in the tmap package](https://geocompr.github.io/post/2019/tmap-color-scales/)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2019-42/map.png)
-
-+ [xaringan Tip: Add A Logo to All of Your Slides](https://www.garrickadenbuie.com/blog/xaringan-tip-logo-all-slides/)
-
-+ [Settlers of Catan in R](https://www.therplayground.com/post/settlers-of-catan-in-r)
-
-+ [SQL Server Schemas & R Tip](https://roh.engineering/post/sql-server-r-tip/)
-
-+ [rBokeh – Don't be stopped by missing arguments!](https://www.statworx.com/de/blog/rbokeh-dont-be-stopped-by-missing-arguments/)
-
-+ [Advancing Text Mining with R and quanteda](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/advancing-text-mining/)
-
-+ [Map coloring: the color scale styles available in the tmap package](https://geocompr.github.io/post/2019/tmap-color-scales/)
-
-+ [Using bwimge R package to describe patterns in images of natural structures](https://r-posts.com/using-bwimge-r-package-to-describe-patterns-in-images-of-natural-structures/)
-
-+ [Super Solutions for Shiny Apps #4 of 5: Using R6 Classes](https://appsilon.com/super-solutions-for-shiny-apps-using-r6-classes/?nabe=5807278576631808:0&utm_referrer=https%3A%2F%2Fwww.r-bloggers.com%2Fsuper-solutions-for-shiny-apps-4-of-5-using-r6-classes%2F)
-
-+ [Selection bias, death, and dying](https://www.rdatagen.net/post/selection-bias-death-and-dying/)
-
-+ [Follow moving particle trajectory over raster with {rayshader}](https://statnmap.com/2019-10-06-follow-moving-particle-trajectory-on-raster-with-rayshader/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -121,7 +82,7 @@ Events in 3 Months:
 
 + [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
 
-+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)
++ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/) 
 
 + [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
 
@@ -132,12 +93,17 @@ Events in 3 Months:
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
+
+### Datasets
+
 ### Jobs
 
-+ [Job: Junior Systems Administrator (with a focus on R/Python)](https://www.jumpingrivers.com/blog/job-junior-systems-administrator-with-a-focus-on-r-python/)
+
 
 
 ###  Call for Participation
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
+
+###  Quotes of the Week
