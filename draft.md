@@ -29,7 +29,7 @@ Release Date: 2019-10-29
 
 ###  Resources
 
-
++ [Intro to {bulletchartr} (Tokyo.R #82, Oct. 26, 2019)](http://rpubs.com/Ryo-N7/bulletchartr-tokyor82)
 
 ###  New Packages
 
@@ -77,8 +77,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [Tokyo.R #82, October 26](https://tokyor.connpass.com/)
 
 + [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
 
