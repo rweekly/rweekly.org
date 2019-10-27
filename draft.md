@@ -14,13 +14,27 @@ Release Date: 2019-10-29
 ### Insights
 
 
++ [Why do we need to teach](https://aebou.rbind.io/posts/2019/10/why-do-we-need-to-teach/)
+
 
 ### R in the Real World
 
++ [12 Months of restaurants](https://jechave.com/post/12-months-of-restaurants/)
 
++ [R is overtaking Python in microbes analysis](https://aebou.rbind.io/posts/2019/10/r-is-overtaking-python-in-microbes-analysis/)
+
++ [Downloading Fitbit Data Histories with R](https://methodmatters.github.io/downloading-fitbit-data-histories-with-r/)
+
++ [Justice reactions to deviant ingroup members: Ingroup identity threat motivates utilitarian punishments](https://socialpsychologyproject749274586.wordpress.com/)
+
++ [A Tale of Two (Small Belgian) Cities with Open Data: Official Crime Statistics and Self-Reported Feelings of Safety in Leuven and Vilvoorde](https://methodmatters.github.io/a-tale-of-two-small-belgian-cities-with/)
+
+
++ [Building a Corporate R Package for Pleasure and Profit](https://technistema.com/posts/building-a-corporate-r-package-for-pleasure-and-profit/)
 
 ###  R in Organizations
 
++ [NHS Number Validation](https://nhsrcommunity.com/blog/nhs-number-validation/)
 
 
 ###  R in Academia
@@ -31,12 +45,30 @@ Release Date: 2019-10-29
 
 + [Intro to {bulletchartr} (Tokyo.R #82, Oct. 26, 2019)](http://rpubs.com/Ryo-N7/bulletchartr-tokyor82)
 
++ [What can social media do for academic and professional statisticians?](https://emitanaka.org/slides/ISIWSC2019/#1)
+
++ [Successful Integration of Data Science in Undergraduate Biostatistics Courses Using Cognitive Load Theory](https://www.lifescied.org/doi/full/10.1187/cbe.19-02-0041)
+
++ [Mastering Apache Spark with R](https://therinspark.com/intro.html)
+
++ [Agile Data Science with R](https://edwinth.github.io/ADSwR/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
 
+
++ [{varycoef}: R Package to Model Spatially Varying Coefficients](http://user.math.uzh.ch/dambon/blogs/varycoef_release.html)
+
++ [{fastrtext}: 'fastText' Wrapper for Text Classification and WordRepresentation](https://cran.r-project.org/package=fastrtext)
+
++ [{renv}: Project Environments](https://cran.r-project.org/package=renv)
+
++ [{fresh}: Fresh shiny themes](https://github.com/dreamRs/fresh)
+
+![Fresh shiny themes](https://raw.githubusercontent.com/dreamRs/fresh/master/man/figures/shinydashboard-custom.png)
 
 
 **BioC**
@@ -45,11 +77,27 @@ Release Date: 2019-10-29
 
 **GitHub or Bitbucket**
 
++ [{rmangal}: making ecological networks easily accessible](https://ropensci.org/blog/2019/10/21/rmangal/)
 
++ [{nationalparkcolors}: R package for color themes inspired by national parks](https://github.com/katiejolly/nationalparkcolors)
+
++ [{WhiteboxTools}: an advanced geospatial data analysis platform ](https://giswqs.github.io/whitebox-frontends/)
+
++ [deleting_facebook](https://github.com/AmeliaMN/deleting_facebook) - Documentation of what I'm doing to prepare to delete Facebook account
 
 ### Updated Packages
 
++ [{RcppGSL 0.3.7}](http://dirk.eddelbuettel.com/blog/2019/10/20#rcppgsl_0.3.7)
 
++ [{digest} 0.6.22: More goodies!](http://dirk.eddelbuettel.com/blog/2019/10/21#digest_0.6.22)
+
++ [{pkgKitten} 0.1.5: Creating R Packages that purr](http://dirk.eddelbuettel.com/blog/2019/10/22#pkgKitten_0.1.5)
+
++ [{RStudio Professional Drivers} 1.6.0](https://blog.rstudio.com/2019/10/24/pro-drivers-1-6-0-release/)
+
++ [{dang} 0.0.11: 'Dang' Associated New Goodies](http://dirk.eddelbuettel.com/blog/2019/10/24#dang_0.0.11)
+
++ [{tidybayes} 1.1.0: Bayesian analysis + tidy data + geoms](https://github.com/mjskay/tidybayes)
 
 ###  Videos and Podcasts
 
@@ -65,7 +113,33 @@ Release Date: 2019-10-29
 
 ###  Tutorials
 
++ [Testing the tune package from tidymodels - analysing the relationship between the upsampling ratio and model performance](https://konradsemsch.netlify.com/2019/10/testing-the-tune-package-from-tidymodels-analysing-the-relationship-between-the-upsampling-ratio-and-model-performance/)
 
++ [Tidyverse Fun - Part 1](https://www.shamindras.com/posts/2019-07-15-shrotriya2019tidyfunpt1/)
+
++ [Pivoting tidily](https://www.fromthebottomoftheheap.net/2019/10/25/pivoting-tidily/)
+
++ [New Introduction to rquery](http://www.win-vector.com/blog/2019/10/new-introduction-to-rquery/)
+
++ [The right perspective](https://ozagordi.rbind.io/post/2019/10/27/the-rigth-perspective/)
+
++ [Data Frames as Vectors of Rows](https://blog.davisvaughan.com/2019/10/16/data-frames-as-vectors-of-rows/)
+
++ [A Comprehensive Introduction to Command Line for R Users](https://blog.rsquaredacademy.com/command-line-basics-for-r-users/)
+
++ [Gold-Mining Week 8 (2019)](https://fantasyfootballanalytics.net/2019/10/gold-mining-week-8-2019.html)
+
++ [cheatR: an R package for catching cheaters](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/)
+
++ [Access the free economic database DBnomics with R](https://macro.cepremap.fr/article/2019-10/rdbnomics-tutorial/)
+
++ [(Much) faster unnesting with data.table](https://www.johannesbgruber.eu/post/a-faster-unnest/)
+
++ [Avoiding embarrassment by testing data assumptions with expectdata](https://dgarmat.github.io/Testing-Data-Assumptions-With-Expectdata/)
+
++ [SQL Server Schemas & R Tip](https://roh.engineering/post/sql-server-r-tip/)
+
++ [10 Steps to Better Graphs in R](https://michaeltoth.me/10-steps-to-better-graphs-in-r.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -80,7 +154,7 @@ Events in 3 Months:
 
 + [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
 
-+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/) 
++ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)
 
 + [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
 
@@ -105,3 +179,13 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My first attempt to make zine-like handouts to help students learn R. Inspired by <a href="https://twitter.com/b0rk?ref_src=twsrc%5Etfw">@b0rk</a> <a href="https://t.co/f5L6j6VFh5">pic.twitter.com/f5L6j6VFh5</a></p>&mdash; Daniel Brady (@DanTBrady) <a href="https://twitter.com/DanTBrady/status/1188122032409665536?ref_src=twsrc%5Etfw">October 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks to maggritr, wbstats and gganimate it is possible to create Hans Rosler&#39;s famous bubble chart in a single <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> command. Find me another language that can do this? (BTW here&#39;s my code <a href="https://t.co/gmafusMYqh">https://t.co/gmafusMYqh</a>) <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/analytics?src=hash&amp;ref_src=twsrc%5Etfw">#analytics</a> <a href="https://twitter.com/hashtag/r4ds?src=hash&amp;ref_src=twsrc%5Etfw">#r4ds</a> <a href="https://t.co/1zKhZl46dW">pic.twitter.com/1zKhZl46dW</a></p>&mdash; Keith McNulty (@dr_keithmcnulty) <a href="https://twitter.com/dr_keithmcnulty/status/1187149459588812800?ref_src=twsrc%5Etfw">October 23, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was asked to contribute a dataviz something or other for an upcoming college Parents Weekend event, and so here is Dogs of New York, the Feed Your NYC Stereotypes Poster. <a href="https://t.co/Mz2jfEqvQL">pic.twitter.com/Mz2jfEqvQL</a></p>&mdash; Kieran Healy (@kjhealy) <a href="https://twitter.com/kjhealy/status/1186727986109792257?ref_src=twsrc%5Etfw">October 22, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The remarkable rise in life expectancy, 1900-2016, split by continent. <a href="https://twitter.com/hashtag/GoodNewsGraphs?src=hash&amp;ref_src=twsrc%5Etfw">#GoodNewsGraphs</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/gk6TUztEr4">pic.twitter.com/gk6TUztEr4</a></p>&mdash; Todd R. Jones (@toddrjones) <a href="https://twitter.com/toddrjones/status/1185652167232966656?ref_src=twsrc%5Etfw">October 19, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When your <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> scripts runs without errors at your first attempt <a href="https://t.co/LnYpPOGKgG">pic.twitter.com/LnYpPOGKgG</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1185669553185067008?ref_src=twsrc%5Etfw">October 19, 2019</a></blockquote>
