@@ -14,10 +14,11 @@ Release Date: 2019-10-29
 ### Insights
 
 
-+ [Why do we need to teach](https://aebou.rbind.io/posts/2019/10/why-do-we-need-to-teach/)
 
 
 ### R in the Real World
+
++ [Why do we need to teach](https://aebou.rbind.io/posts/2019/10/why-do-we-need-to-teach/)
 
 + [12 Months of restaurants](https://jechave.com/post/12-months-of-restaurants/)
 
@@ -29,12 +30,12 @@ Release Date: 2019-10-29
 
 + [A Tale of Two (Small Belgian) Cities with Open Data: Official Crime Statistics and Self-Reported Feelings of Safety in Leuven and Vilvoorde](https://methodmatters.github.io/a-tale-of-two-small-belgian-cities-with/)
 
+![A Tale of Two ](https://raw.githubusercontent.com/rweekly/image/master/2019/tale-of.png)
 
 + [Building a Corporate R Package for Pleasure and Profit](https://technistema.com/posts/building-a-corporate-r-package-for-pleasure-and-profit/)
 
 ###  R in Organizations
 
-+ [NHS Number Validation](https://nhsrcommunity.com/blog/nhs-number-validation/)
 
 
 ###  R in Academia
@@ -48,6 +49,8 @@ Release Date: 2019-10-29
 + [What can social media do for academic and professional statisticians?](https://emitanaka.org/slides/ISIWSC2019/#1)
 
 + [Successful Integration of Data Science in Undergraduate Biostatistics Courses Using Cognitive Load Theory](https://www.lifescied.org/doi/full/10.1187/cbe.19-02-0041)
+
+![Successful Integra](https://raw.githubusercontent.com/rweekly/image/master/2019/cbe.19.png)
 
 + [Mastering Apache Spark with R](https://therinspark.com/intro.html)
 
@@ -81,6 +84,8 @@ Release Date: 2019-10-29
 
 + [{nationalparkcolors}: R package for color themes inspired by national parks](https://github.com/katiejolly/nationalparkcolors)
 
+![nationalparkcolors](https://raw.githubusercontent.com/katiejolly/nationalparkcolors/master/man/figures/README-unnamed-chunk-6-1.png)
+
 + [{WhiteboxTools}: an advanced geospatial data analysis platform ](https://giswqs.github.io/whitebox-frontends/)
 
 + [deleting_facebook](https://github.com/AmeliaMN/deleting_facebook) - Documentation of what I'm doing to prepare to delete Facebook account
@@ -94,6 +99,8 @@ Release Date: 2019-10-29
 + [{pkgKitten} 0.1.5: Creating R Packages that purr](http://dirk.eddelbuettel.com/blog/2019/10/22#pkgKitten_0.1.5)
 
 + [{RStudio Professional Drivers} 1.6.0](https://blog.rstudio.com/2019/10/24/pro-drivers-1-6-0-release/)
+
+![RStudio Professional Drivers](https://raw.githubusercontent.com/rweekly/image/master/2019/odbc-data-connectors-white.png)
 
 + [{dang} 0.0.11: 'Dang' Associated New Goodies](http://dirk.eddelbuettel.com/blog/2019/10/24#dang_0.0.11)
 
@@ -128,6 +135,8 @@ Release Date: 2019-10-29
 + [A Comprehensive Introduction to Command Line for R Users](https://blog.rsquaredacademy.com/command-line-basics-for-r-users/)
 
 + [Gold-Mining Week 8 (2019)](https://fantasyfootballanalytics.net/2019/10/gold-mining-week-8-2019.html)
+
+![Gold-Mining Week 8 (2019)](https://raw.githubusercontent.com/rweekly/image/master/2019/gold-mine.png)
 
 + [cheatR: an R package for catching cheaters](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/)
 
