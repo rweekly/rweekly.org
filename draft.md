@@ -53,7 +53,7 @@ Release Date: 2019-11-04
 
 ### Updated Packages
 
-
++ [{workflowr 1.5.0}](https://github.com/jdblischak/workflowr/releases/tag/v1.5.0)
 
 
 ###  Videos and Podcasts
