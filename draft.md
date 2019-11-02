@@ -13,45 +13,24 @@ Release Date: 2019-11-04
 
 ### Insights
 
-+ [R as a First Programming Language](https://seankross.com/2019/10/27/R-as-a-First-Programming-Language.html)
++ [opendatatoronto 0.1.0 is on CRAN!](https://sharla.party/post/opendatatoronto-cran/)
 
 + [Mocking is catching](https://blog.r-hub.io/2019/10/29/mocking/)
 
 + [Reducing frictions in writing with R Markdown for html and pdf](https://blog.earo.me/2019/10/26/reduce-frictions-rmd/)
 
-+ [Mocking is catching](https://blog.r-hub.io/2019/10/29/mocking/)
++ [Are We in Kansas Anymore? Judging the State of Hollywood Film with Data from Wikipedia](https://datadiarist.github.io/post/are-we-in-kansas-anymore/)
 
+![]()
 
 ### R in the Real World
 
 
-+ [Spelunking macOS 'ScreenTime' App Usage with R](https://rud.is/b/2019/10/28/spelunking-macos-screentime-app-usage-with-r/)
 
-![Spelunking macOS 'ScreenTime' App Usage with R](https://i0.wp.com/rud.is/b/wp-content/uploads/2019/10/when-used.png?w=1560&ssl=1)
-
-
-
-+ [Rugby World Cup Standings](https://david.frigge.nz/posts/2019-10-rugby-world-cup/)
-
-
-+ [Calculating (Twitter) Vocabulary Breadth of U.S. Presidential Candidates Using TTR](https://gilliganondata.github.io/twitter-ttr/twitter-ttr-refined.nb.html)
-
-+ [United we Stand?](https://citizendatascientist.github.io/posts/2019-08-04-united-we-stand/)
-
-+ [Race for  a family](https://www.simoncoulombe.com/2019/10/race-for-a-family/)
-
-+ [Guilford Registered Voters: An R Sampler](https://www.johngoldin.com/post/geotagging_voters/)
-
-+ [12 Months of restaurants](https://jechave.com/post/12-months-of-restaurants/)
-
-+ [dogs of new york](https://kieranhealy.org/blog/archives/2019/10/28/dogs-of-new-york/)
 
 ###  R in Organizations
 
 
-+ [81st TokyoR Meetup Roundup: A Special Session in {Shiny}!](http://Ryo-N7.github.io/2019-10-30-tokyoR-81-roundup/)
-
-+ [Working with New Haven Area Census Data Using R](https://www.johngoldin.com/post/new-haven-census-and-r/)
 
 ###  R in Academia
 
@@ -69,12 +48,7 @@ Release Date: 2019-11-04
 **CRAN**
 
 
-+ [opendatatoronto 0.1.0 ](https://sharla.party/post/opendatatoronto-cran/)
 
-+ [Sept 2019: "Top 40" New R Packages](https://rviews.rstudio.com/2019/10/29/sept-2019-top-40-new-r-packages/)
-
-
-+ [{connections 0.1.0}: Integrate DBI-compliant packages with the RStudio IDE’s Connection Pane](https://github.com/edgararuiz/connections)
 
 **BioC**
 
@@ -82,28 +56,21 @@ Release Date: 2019-11-04
 
 **GitHub or Bitbucket**
 
++ [{connections 0.1.0}: Integrate DBI-compliant packages with the RStudio IDE’s Connection Pane](https://github.com/edgararuiz/connections)
+
 + [{MapPalettes 0.0.2}: A set of nifty palettes and functions for maps designed by the DiSARM team at UCSF](https://github.com/disarm-platform/MapPalettes)
 
 + [{unnestIfElse 0.1.0}: RStudio Addin to quickly and roughly convert nested ifelse() statements to dplyr::case_when()](https://github.com/erictleung/unnestIfElse)
-
-+ [{connections 0.1.0}](https://edgararuiz.github.io/connections/)
-
-+ [{conflicted}: The goal of conflicted is to provide an alternative conflict resolution strategy](https://github.com/r-lib/conflicted)
 
 ### Updated Packages
 
 + [{workflowr 1.5.0}](https://github.com/jdblischak/workflowr/releases/tag/v1.5.0)
 
-
-+ [{AzureRMR 2.3.0}](https://blog.revolutionanalytics.com/2019/11/azurermr-230-now-on-cran.html)
-
-
++ [{TSstudio 0.1.5}](https://cran.r-project.org/package=TSstudio)
 
 ###  Videos and Podcasts
 
-
-+ [Forecast Combination talk](https://eranraviv.com/forecast-combination-talk/)
-
++ [MLverse: Discover and Share datasets with pins](https://www.youtube.com/watch?v=dJSfqpNBsO4)
 
 ### Gist & Cookbook
 
@@ -117,23 +84,7 @@ Release Date: 2019-11-04
 
 + [Why should I use the here package when I'm already using projects?](https://malco.io/2018/11/05/why-should-i-use-the-here-package-when-i-m-already-using-projects/)
 
-+ [An Amazon SDK for R!?](https://dyfanjones.me/post/an-amazon-sdk-for-r/)
 
-+ [shortened iterations [code golf]](https://xianblog.wordpress.com/2019/10/29/shortened-iterations-code-golf/)
-
-+ [(Re)introducing skimr v2 - A year in the life of an open source R project](https://ropensci.org/blog/2019/10/29/skimrv2/)
-
-+ [Testing the tune package from tidymodels - analysing the relationship between the upsampling ratio and model performance](https://konradsemsch.netlify.com/2019/10/testing-the-tune-package-from-tidymodels-analysing-the-relationship-between-the-upsampling-ratio-and-model-performance/)
-
-+ [A brief primer on Variational Inference](https://fabiandablander.com/r/Variational-Inference.html)
-
-+ [Offensive Programming in action (part III)](https://neonira.github.io/zop3)
-
-+ [shinymeta — a revolution for reproducibility](https://mail-wolf.de/?p=4407)
-
-+ [New Introduction to the data_algebra](http://www.win-vector.com/blog/2019/10/new-introduction-to-the-data_algebra/)
-
-+ [Tutorial: plotting maps of Spain with ggplot2](https://github.com/aaumaitre/maps_Spain/blob/master/README.md)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -176,8 +127,3 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some advice on managing your online presence if you&#39;re applying for a job or scholarship, based on my experiences reviewing rstudio::conf scholarship applications (results out soon):</p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1189971594778681344?ref_src=twsrc%5Etfw">October 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">PCA of cocktail statistics using data from <a href="https://twitter.com/CookingIssues?ref_src=twsrc%5Etfw">@CookingIssues</a>&#39;s book &quot;Liquid Intelligence.&quot; Solid circle size is sugar content, hollow acid. <a href="https://t.co/B9BwCjzF3R">pic.twitter.com/B9BwCjzF3R</a></p>&mdash; Harold Pimentel (@hjpimentel) <a href="https://twitter.com/hjpimentel/status/915728234783817728?ref_src=twsrc%5Etfw">October 4, 2017</a></blockquote>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of my fave/most frequently used <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> commands:<br><br>options(scipen = 999)<br><br>turns off scientific notation in R, aka turns 5.3e-2 to 0.053 😇🙏🏻</p>&mdash; Dr. Gavin Jones (@ecologyofgavin) <a href="https://twitter.com/ecologyofgavin/status/1188865515059585025?ref_src=twsrc%5Etfw">October 28, 2019</a></blockquote>
