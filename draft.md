@@ -13,8 +13,11 @@ Release Date: 2019-11-04
 
 ### Insights
 
++ [opendatatoronto 0.1.0 is on CRAN!](https://sharla.party/post/opendatatoronto-cran/)
 
++ [Mocking is catching](https://blog.r-hub.io/2019/10/29/mocking/)
 
++ [Reducing frictions in writing with R Markdown for html and pdf](https://blog.earo.me/2019/10/26/reduce-frictions-rmd/)
 
 ### R in the Real World
 
@@ -49,7 +52,11 @@ Release Date: 2019-11-04
 
 **GitHub or Bitbucket**
 
++ [{connections 0.1.0}: Integrate DBI-compliant packages with the RStudio IDE’s Connection Pane](https://github.com/edgararuiz/connections)
 
++ [{MapPalettes 0.0.2}: A set of nifty palettes and functions for maps designed by the DiSARM team at UCSF](https://github.com/disarm-platform/MapPalettes)
+
++ [{unnestIfElse 0.1.0}: RStudio Addin to quickly and roughly convert nested ifelse() statements to dplyr::case_when()](https://github.com/erictleung/unnestIfElse)
 
 ### Updated Packages
 
@@ -86,6 +93,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 Events in 3 Months:
 
 + [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
+
++ [Japan.R 2019, December 7](https://japanr.connpass.com/event/154070/)
 
 + [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)
 
