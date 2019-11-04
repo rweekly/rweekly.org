@@ -9,6 +9,11 @@ Release Date: 2019-11-04
 
 ###  Highlight
 
++ [Mocking is catching](https://blog.r-hub.io/2019/10/29/mocking/)
+
++ [(Re)introducing skimr v2 - A year in the life of an open source R project](https://ropensci.org/blog/2019/10/29/skimrv2/)
+
++ [shinymeta — a revolution for reproducibility](https://mail-wolf.de/?p=4407)
 
 
 ### Insights
@@ -19,7 +24,6 @@ Release Date: 2019-11-04
 
 + [Reducing frictions in writing with R Markdown for html and pdf](https://blog.earo.me/2019/10/26/reduce-frictions-rmd/)
 
-+ [opendatatoronto 0.1.0 is on CRAN!](https://sharla.party/post/opendatatoronto-cran/)
 
 + [Are We in Kansas Anymore? Judging the State of Hollywood Film with Data from Wikipedia](https://datadiarist.github.io/post/are-we-in-kansas-anymore/)
 
@@ -41,11 +45,15 @@ Release Date: 2019-11-04
 
 + [Race for  a family](https://www.simoncoulombe.com/2019/10/race-for-a-family/)
 
+![Race for  a family](https://raw.githubusercontent.com/rweekly/image/master/2019/rate-in-que.gif)
+
 + [Guilford Registered Voters: An R Sampler](https://www.johngoldin.com/post/geotagging_voters/)
 
 + [12 Months of restaurants](https://jechave.com/post/12-months-of-restaurants/)
 
 + [dogs of new york](https://kieranhealy.org/blog/archives/2019/10/28/dogs-of-new-york/)
+
+![dogs of new york](https://raw.githubusercontent.com/rweekly/image/master/2019/dog-new.png)
 
 ###  R in Organizations
 
@@ -53,6 +61,8 @@ Release Date: 2019-11-04
 + [81st TokyoR Meetup Roundup: A Special Session in {Shiny}!](http://Ryo-N7.github.io/2019-10-30-tokyoR-81-roundup/)
 
 + [Working with New Haven Area Census Data Using R](https://www.johngoldin.com/post/new-haven-census-and-r/)
+
+![Working with New Haven Area Census Data Using R](https://raw.githubusercontent.com/rweekly/image/master/2019/new-haven.png)
 
 ###  R in Academia
 
@@ -74,6 +84,8 @@ Release Date: 2019-11-04
 
 + [Sept 2019: "Top 40" New R Packages](https://rviews.rstudio.com/2019/10/29/sept-2019-top-40-new-r-packages/)
 
++ [{connections 0.1.0}](https://edgararuiz.github.io/connections/)
+
 **BioC**
 
 
@@ -84,7 +96,6 @@ Release Date: 2019-11-04
 
 + [{unnestIfElse 0.1.0}: RStudio Addin to quickly and roughly convert nested ifelse() statements to dplyr::case_when()](https://github.com/erictleung/unnestIfElse)
 
-+ [{connections 0.1.0}](https://edgararuiz.github.io/connections/)
 
 + [{conflicted}: The goal of conflicted is to provide an alternative conflict resolution strategy](https://github.com/r-lib/conflicted)
 
@@ -121,6 +132,11 @@ Release Date: 2019-11-04
 
 + [(Re)introducing skimr v2 - A year in the life of an open source R project](https://ropensci.org/blog/2019/10/29/skimrv2/)
 
++ [Tutorial: plotting maps of Spain with ggplot2](https://github.com/aaumaitre/maps_Spain/blob/master/README.md)
+
+![Tutorial: plotting maps of Spain with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019/mapsSpain.png)
+
+
 + [Testing the tune package from tidymodels - analysing the relationship between the upsampling ratio and model performance](https://konradsemsch.netlify.com/2019/10/testing-the-tune-package-from-tidymodels-analysing-the-relationship-between-the-upsampling-ratio-and-model-performance/)
 
 + [A brief primer on Variational Inference](https://fabiandablander.com/r/Variational-Inference.html)
@@ -131,7 +147,6 @@ Release Date: 2019-11-04
 
 + [New Introduction to the data_algebra](http://www.win-vector.com/blog/2019/10/new-introduction-to-the-data_algebra/)
 
-+ [Tutorial: plotting maps of Spain with ggplot2](https://github.com/aaumaitre/maps_Spain/blob/master/README.md)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
