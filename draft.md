@@ -19,43 +19,30 @@ Release Date: 2019-11-11
 
 ### R in the Real World
 
-
-
-
++ [Exploring Switzerland Official Data](http://felixluginbuhl.com/swiss-data/)
 
 ###  R in Organizations
 
 
 
-
 ###  R in Academia
 
-
++ [tidync: scientific array data from NetCDF in R](https://ropensci.org/blog/2019/11/05/tidync/)
++ [rOpenSci Announces a New Award From The Gordon and Betty Moore Foundation to Improve the Scientific Package Ecosystem for R](https://ropensci.org/blog/2019/11/06/scientific-package-ecosystem/)
 
 ###  Resources
 
-
-
-
-###  New Packages
-
-<p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
-**CRAN**
-
-
-
-
-**BioC**
-
-
-
-**GitHub or Bitbucket**
-
++ [Another Book on Data Science - Learn R and Python in Parallel](https://anotherbookondatascience.com)
 
 ### Updated Packages
 
-
++ [{tvthemes 1.1.0} is on CRAN: Creating a {pkgdown} website, Gravity Falls palette, and more!](http://Ryo-N7.github.io/2019-11-04-tvthemes-1.1.0-announcement/)
++ [renv: Project Environments for R](https://blog.rstudio.com/2019/11/06/renv-project-environments-for-r/)
++ [Package Manager 1.1.0 - No Interruptions](https://blog.rstudio.com/2019/11/07/package-manager-v1-1-no-interruptions/)
++ [Rcpp 1.0.3: More Spit and Polish](http://dirk.eddelbuettel.com/blog/2019/11/09#rcpp_1.0.3)
++ [styler 1.2.0](https://www.tidyverse.org/blog/2019/11/styler-1-2-0/)
++ [testthat 2.3.0](https://www.tidyverse.org/blog/2019/11/testthat-2-3-0/)
++ [haven 2.2.0](https://www.tidyverse.org/blog/2019/11/haven-2-2-0/)
 
 ###  Videos and Podcasts
 
@@ -71,6 +58,12 @@ Release Date: 2019-11-11
 
 ###  Tutorials
 
++ [XML: The Recursive Programming Workout](https://www.garrickadenbuie.com/blog/recursive-xml-workout/)
++ [Installing Prophet on CentOS](https://datawookie.netlify.com/blog/2019/11/installing-prophet-on-centos/)
++ [New R Support in Azure Machine Learning](https://blog.revolutionanalytics.com/2019/11/r-in-azure-machine-learning.html)
++ [30 days building maps (1) - ggplot2](https://statnmap.com/2019-11-08-30daymapchallenge-building-maps-1/)
++ [A small simple random sample will often be better than a huge not-so-random one by @ellis2013nz](http://freerangestats.info/blog/2019/11/09/sampling-from-urns)
++ [Using R to analyze and visualize tweets from SACNAS](https://www.raynamharris.com/blog/sacnas_rtweet/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -91,6 +84,8 @@ Events in 3 Months:
 + [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)
 
 + [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
+
++ [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -116,4 +111,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> guitar chord chart/fretboard diagrams in your R markdown document. <a href="https://t.co/zOgzftbqmT">https://t.co/zOgzftbqmT</a> (Would be nice if Twitter&#39;s image preview didn&#39;t cut off the actual code; it&#39;s there.) <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/kL5ZT9YpMH">pic.twitter.com/kL5ZT9YpMH</a></p>&mdash; Matthew Leonawicz (@leonawicz) <a href="https://twitter.com/leonawicz/status/1191954792668704768?ref_src=twsrc%5Etfw">November 6, 2019</a></blockquote>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was trying to explain to novices what <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> {magrittr} pipe does and all I could think of is these two examples <a href="https://t.co/53Vxgtxh62">pic.twitter.com/53Vxgtxh62</a></p>&mdash; Deemah 🇺🇦 🇳🇴 🇸🇪 (@dmi3k) <a href="https://twitter.com/dmi3k/status/1191824875842879489?ref_src=twsrc%5Etfw">November 5, 2019</a></blockquote>
