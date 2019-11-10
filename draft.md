@@ -43,6 +43,7 @@ Release Date: 2019-11-11
 + [styler 1.2.0](https://www.tidyverse.org/blog/2019/11/styler-1-2-0/)
 + [testthat 2.3.0](https://www.tidyverse.org/blog/2019/11/testthat-2-3-0/)
 + [haven 2.2.0](https://www.tidyverse.org/blog/2019/11/haven-2-2-0/)
++ [future 1.15.0 - Lazy Futures are Now Launched if Queried](https://www.jottr.org/2019/11/09/resolved-launches-lazy-futures/)
 
 ###  Videos and Podcasts
 
