@@ -21,7 +21,7 @@ append_versions <- function(items, versions) {
   package_text <- items[package_names]
   package_text <- stringr::str_replace_all(package_text, "\\s\\s+", " ")
   new_package_text <- stringr::str_replace(package_text, "\\+ \\[(\\w+)", paste0("+ [{\\1} ", latest_version, ":"))
-  sort(new_package_text)
+  paste(sort(unique(new_package_text)), collapse = "\n")
 }
 
 ## this function is designed to work on 'clean' Rmd 
@@ -47,9 +47,9 @@ process_versions <- function(text = rstudioapi::getSourceEditorContext()$selecti
   message("DONE!")
   message("")
   message("New packages:")
-  print(append_versions(cran_packages, new))
+  cat(append_versions(cran_packages, new))
   message(" ")
   message("Updated packages:")
-  print(append_versions(cran_packages, updated))
+  cat(append_versions(cran_packages, updated))
   
 }
