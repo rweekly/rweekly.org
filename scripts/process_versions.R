@@ -1,5 +1,5 @@
 library(stringr)
-library(versions)
+library(pkgsearch) ## https://github.com/r-hub/pkgsearch
 library(rstudioapi)
 
 split_text_into_items <- function(text) {
@@ -17,7 +17,7 @@ extract_package_names <- function(item) {
 
 append_versions <- function(items, versions) {
   package_names <- names(versions)
-  latest_version <- sapply(versions, function(x) x$version[[1]])
+  latest_version <- sapply(versions, function(x) as.character(max(package_version(x$Version))))
   package_text <- items[package_names]
   package_text <- stringr::str_replace_all(package_text, "\\s\\s+", " ")
   new_package_text <- stringr::str_replace(package_text, "\\+ \\[(\\w+)", paste0("+ [{\\1} ", latest_version, ":"))
@@ -31,15 +31,11 @@ append_versions <- function(items, versions) {
 ## CRAN packages
 process_versions <- function(text = rstudioapi::getSourceEditorContext()$selection[[1]]$text) {
   
-  if (!requireNamespace("versions")) {
-    stop("Please install the {versions} package")
-  }
- 
   items <- split_text_into_items(text)
   cran_items <- find_cran_links(items)
-  cran_packages <- extract_package_name(cran_items)
+  cran_packages <- extract_package_names(cran_items)
   message("Identifying versions... this make take a while...")
-  versions <- versions::available.versions(names(cran_packages))
+  versions <- sapply(names(cran_packages), pkgsearch::cran_package_history)
   is.new <- lapply(versions, nrow) == 1L
   new <- versions[is.new]
   updated <- versions[!is.new]
