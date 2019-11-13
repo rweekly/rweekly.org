@@ -37,7 +37,7 @@ Release Date: 2019-11-18
 
 **CRAN**
 
-
++ [pdqr: Work with Custom Distribution Functions](https://echasnovski.github.io/pdqr/)
 
 **BioC**
 
@@ -65,7 +65,7 @@ Release Date: 2019-11-18
 
 ###  Tutorials
 
-
++ [Statistical uncertainty with R and pdqr](http://www.questionflow.org/2019/11/11/statistical-uncertainty-with-r-and-pdqr/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
