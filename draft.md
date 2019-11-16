@@ -13,11 +13,13 @@ Release Date: 2019-11-18
 
 ### Insights
 
-
++ [My R Journey: Jon Harmon](https://rfortherestofus.com/2019/11/my-r-journey-jon-harmon/)
 
 ### R in the Real World
 
++ [Area Under Curve of Daily Temperature Oscillation as a Temperature Unpleasantness Index](https://taraskaduk.com/2019/11/11/tui/)
 
++ [How news media are setting the 2020 election agenda: Chasing daily controversies, often burying policy](http://www.storybench.org/how-news-media-are-setting-the-2020-election-agenda-chasing-daily-controversies-often-burying-policy/)
 
 ###  R in Organizations
 
@@ -25,11 +27,11 @@ Release Date: 2019-11-18
 
 ###  R in Academia
 
-
++ [Advances in Machine Learning for the Behavioral Sciences - Kliegr, T., Bahník, Š., & Fürnkranz, J. (2019). Advances in Machine Learning for the Behavioral Sciences. American Behavioral Scientist. https://doi.org/10.1177/0002764219859639](https://arxiv.org/pdf/1911.03249.pdf)
 
 ###  Resources
 
-
++ [{kakashi} theme for {xaringan} slides](https://github.com/malcolmbarrett/kakashi)
 
 ###  New Packages
 
@@ -45,11 +47,12 @@ Release Date: 2019-11-18
 
 **GitHub or Bitbucket**
 
++ [{colRoz}: A colour palette for the land down under](https://github.com/jacintak/colRoz)
 
 
 ### Updated Packages
 
-
++ [{roxygen2 7.0.0}](https://www.tidyverse.org/blog/2019/11/roxygen2-7-0-0/)
 
 ###  Videos and Podcasts
 
@@ -66,6 +69,12 @@ Release Date: 2019-11-18
 ###  Tutorials
 
 + [Statistical uncertainty with R and pdqr](http://www.questionflow.org/2019/11/11/statistical-uncertainty-with-r-and-pdqr/)
+
++ [#30DayMapChallenge: 30 days building maps (2) - tmap](https://statnmap.com/2019-11-15-30daymapchallenge-building-maps-2-tmap/)
+
++ [Soviet Space Dogs (Part 2): A walk through of {ggplot2} annotation using {ggforce} & {ggtext}](https://davidsmale.netlify.com/portfolio/soviet-space-dogs-part-2/)
+
++ [Using reticulate with arcpy on a Windows machine](https://www.zevross.com/blog/2019/11/12/using-reticulate-with-arcpy-on-a-windows-machine/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
