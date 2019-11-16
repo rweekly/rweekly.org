@@ -76,6 +76,8 @@ Release Date: 2019-11-18
 
 + [Using reticulate with arcpy on a Windows machine](https://www.zevross.com/blog/2019/11/12/using-reticulate-with-arcpy-on-a-windows-machine/)
 
++ [Tweets from Chile using {rtweet} and {wordcloud2}](https://www.leynu.com/tweets-chiledesperto-renunciapinera/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
