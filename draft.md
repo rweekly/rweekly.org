@@ -9,27 +9,13 @@ Release Date: 2019-11-18
 
 ###  Highlight
 
-+ [Rcpp 1.0.3: More Spit and Polish](http://dirk.eddelbuettel.com/blog/2019/11/09#rcpp_1.0.3)
 + [future 1.15.0 - Lazy Futures are Now Launched if Queried](https://www.jottr.org/2019/11/09/resolved-launches-lazy-futures/)
-+ [Scraping Machinery Parts](https://datawookie.netlify.com/blog/2019/11/scraping-machinery-parts/)
 + [Statistical uncertainty with R and pdqr](http://www.questionflow.org/2019/11/11/statistical-uncertainty-with-r-and-pdqr/)
-+ [R Weekly 2019-45 {renv}, {tvthemes}](https://rweekly.org/2019-45.html)
 + [An API for @racently](https://datawookie.netlify.com/blog/2019/11/an-api-for-racently/)
-+ [RcppAnnoy 0.0.14](http://dirk.eddelbuettel.com/blog/2019/11/12#rcppannoy_0.0.14)
-+ [Azure AI and Machine Learning talk series](https://blog.revolutionanalytics.com/2019/11/azure-ai-and-machine-learning-talk-series.html)
-+ [Community Call - Last Night, Testing Saved my Life](https://ropensci.org/blog/2019/11/12/commcall-dec2019/)
-+ [AzureR updates: AzureStor, AzureVM, AzureGraph, AzureContainers](https://blog.revolutionanalytics.com/2019/11/azurer-updates.html)
 + [When Cross-Validation is More Powerful than Regularization](http://www.win-vector.com/blog/2019/11/when-cross-validation-is-more-powerful-than-regularization/)
-+ [Durban EDGE DataQuest](https://datawookie.netlify.com/blog/2019/11/durban-edge-dataquest/)
-+ [Data-Driven Tracking and Discovery of R Consortium Activities](https://www.r-consortium.org/blog/2019/11/14/data-driven-tracking-and-discovery-of-r-consortium-activities)
 + [workloopR: Analysis of work loops and other data from muscle physiology experiments in R](https://ropensci.org/technotes/2019/11/14/workloopr-release/)
 + [#30DayMapChallenge: 30 days building maps (2) - tmap](https://statnmap.com/2019-11-15-30daymapchallenge-building-maps-2-tmap/)
-+ [azuremlsdk   Interface to the 'Azure Machine Learning' 'SDK'](https://cran.r-project.org/package=azuremlsdk)
-+ [The NHS-R Conference 2019](https://nhsrcommunity.com/blog/the-nhs-r-conference-2019/)
-+ [Practical Data Science with R, 2nd Edition, IS OUT!!!!!!!](http://www.win-vector.com/blog/2019/11/practical-data-science-with-r-2nd-edition-is-out/)
-+ [A recap of the GenRes Bridge conference. Bringing Data Science and AI to people who are on the front lines of genetic resources conservation and biodiversity. AI for Good. ](https://appsilon.com/ai-4-good-data-science-for-biodiversity/)
-+ [Tutorial in French: "How to turn multiple R scripts into a proper R package"](https://thinkr.fr/transformer-plusieurs-scripts-eparpilles-en-beau-package-r/)
-+ [Using tidyverse, tidycensus, suncalc, gganimate, etc. to see how sunset times are distributed across the population of (most of) the US. ](https://twitter.com/JustTheSpring/status/1193655008635449344)
+
 + [A Shiny App visualising the CRAN Dependency graph](https://shiny.john-coene.com/cran)
 + [An htmlwidget to visualise large monopartite graphs.](https://grapher.network/)
 + [An Autoconf Primer for R Package Authors](https://https://unconj.ca/blog/an-autoconf-primer-for-r-package-authors.html)
@@ -71,10 +57,7 @@ Release Date: 2019-11-18
 
 
 
-
-
-
-
++ [Scraping Machinery Parts](https://datawookie.netlify.com/blog/2019/11/scraping-machinery-parts/)
 
 ### Insights
 
@@ -88,6 +71,7 @@ Release Date: 2019-11-18
 
 ###  R in Organizations
 
++ [The NHS-R Conference 2019](https://nhsrcommunity.com/blog/the-nhs-r-conference-2019/)
 
 
 ###  R in Academia
@@ -97,6 +81,7 @@ Release Date: 2019-11-18
 ###  Resources
 
 + [{kakashi} theme for {xaringan} slides](https://github.com/malcolmbarrett/kakashi)
++ [Practical Data Science with R, 2nd Edition, IS OUT!!!!!!!](http://www.win-vector.com/blog/2019/11/practical-data-science-with-r-2nd-edition-is-out/)
 
 ###  New Packages
 
@@ -121,7 +106,6 @@ Release Date: 2019-11-18
 + [{tidydice} 0.0.3: Simulates Dice Rolls and Coin Flips](https://cran.r-project.org/package=tidydice)
 + [{wiesbaden} 1.2.0: Access Databases from the Federal Statistical Office of Germany](https://cran.r-project.org/package=wiesbaden) 
 
-
 **BioC**
 
 
@@ -129,15 +113,17 @@ Release Date: 2019-11-18
 **GitHub or Bitbucket**
 
 + [{colRoz}: A colour palette for the land down under](https://github.com/jacintak/colRoz)
++ [workloopR: Analysis of work loops and other data from muscle physiology experiments in R](https://ropensci.org/technotes/2019/11/14/workloopr-release/)
 
 
 ### Updated Packages
 
++ [{Rcpp} 1.0.3: More Spit and Polish](http://dirk.eddelbuettel.com/blog/2019/11/09#rcpp_1.0.3)
++ [{RcppAnnoy} 0.0.14](http://dirk.eddelbuettel.com/blog/2019/11/12#rcppannoy_0.0.14)
++ [AzureR updates: AzureStor, AzureVM, AzureGraph, AzureContainers](https://blog.revolutionanalytics.com/2019/11/azurer-updates.html)
 + [{roxygen2 7.0.0}](https://www.tidyverse.org/blog/2019/11/roxygen2-7-0-0/)
-
-
-[{badger} 0.0.7: Badge for R Package](https://cran.r-project.org/package=badger)
-+ [{bujar} 0.2.7: Buckley-James Regression for Survival Data with High-DimensionalCo variates](https://cran.r-project.org/package=bujar)
++ [{badger} 0.0.7: Badge for R Package](https://cran.r-project.org/package=badger)
++ [{bujar} 0.2.7: Buckley-James Regression for Survival Data with High-Dimensional Covariates](https://cran.r-project.org/package=bujar)
 + [{dlstats} 0.1.3: Download Stats of R Packages](https://cran.r-project.org/package=dlstats)
 + [{dti} 1.4.3: Analysis of Diffusion Weighted Imaging (DWI) Data](https://cran.r-project.org/package=dti)
 + [{exPrior} 1.0.1: Prior Distributions Using a Bayesian Hierarchical Framework](https://cran.r-project.org/package=exPrior)
@@ -146,19 +132,19 @@ Release Date: 2019-11-18
 + [{patternplot} 0.3.1: Versatile Pie Charts, Ring Charts, Bar Charts and Box Plotsusing Patterns, Colors and Images](https://cran.r-project.org/package=patternplot)
 + [{RAINBOWR} 0.1.14: Genome-Wide Association Study with SNP-Set Methods](https://cran.r-project.org/package=RAINBOWR)
 
+###  Videos and Podcasts
 
-
-#  Videos and Podcasts
-
++ [Azure AI and Machine Learning talk series](https://blog.revolutionanalytics.com/2019/11/azure-ai-and-machine-learning-talk-series.html)
 
 
 ### Gist & Cookbook
 
 
 
-### R Internationally
++ [Using tidyverse, tidycensus, suncalc, gganimate, etc. to see how sunset times are distributed across the population of (most of) the US.](https://gist.github.com/jonspring/78b2124cf9daa351de98b5e031473585)
+(refer: https://twitter.com/JustTheSpring/status/1193655008635449344))### R Internationally
 
-
++ [(French) "How to turn multiple R scripts into a proper R package"](https://thinkr.fr/transformer-plusieurs-scripts-eparpilles-en-beau-package-r/)
 
 ###  Tutorials
 
@@ -176,6 +162,7 @@ Release Date: 2019-11-18
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ [Data-Driven Tracking and Discovery of R Consortium Activities](https://www.r-consortium.org/blog/2019/11/14/data-driven-tracking-and-discovery-of-r-consortium-activities)
 
 ###  Upcoming Events in 3 Months
 
@@ -206,6 +193,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
++ [Community Call - Last Night, Testing Saved my Life](https://ropensci.org/blog/2019/11/12/commcall-dec2019/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
