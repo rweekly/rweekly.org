@@ -12,24 +12,32 @@ Release Date: 2019-11-18
 
 ### Insights
 
++ [An Autoconf Primer for R Package Authors](https://unconj.ca/blog/an-autoconf-primer-for-r-package-authors.html)
+
+![An Autoconf Primer for R Package Authors](https://raw.githubusercontent.com/rweekly/image/master/2019-11-18/autoconf.png)
+
 + [future 1.15.0 - Lazy Futures are Now Launched if Queried](https://www.jottr.org/2019/11/09/resolved-launches-lazy-futures/)
 + [Statistical uncertainty with R and pdqr](http://www.questionflow.org/2019/11/11/statistical-uncertainty-with-r-and-pdqr/)
 + [An API for @racently](https://datawookie.netlify.com/blog/2019/11/an-api-for-racently/)
 + [When Cross-Validation is More Powerful than Regularization](http://www.win-vector.com/blog/2019/11/when-cross-validation-is-more-powerful-than-regularization/)
 + [workloopR: Analysis of work loops and other data from muscle physiology experiments in R](https://ropensci.org/technotes/2019/11/14/workloopr-release/)
 + [#30DayMapChallenge: 30 days building maps (2) - tmap](https://statnmap.com/2019-11-15-30daymapchallenge-building-maps-2-tmap/)
-+ [A Shiny App visualising the CRAN Dependency graph](https://shiny.john-coene.com/cran)
 + [An htmlwidget to visualise large monopartite graphs.](https://grapher.network/)
-+ [An Autoconf Primer for R Package Authors](https://unconj.ca/blog/an-autoconf-primer-for-r-package-authors.html)
 + [Visualize urban growth in Spain](https://dominicroye.github.io/en/2019/visualize-urban-growth/)
-+ [Rugby World Cup history with ggalluvial](https://david.frigge.nz/posts/2019-10-rugby-world-cup/)
 + [Calculating (Twitter) Vocabulary Breadth of U.S. Presidential Candidates Using Type-Token Ratio (TTR)](https://gilliganondata.github.io/twitter-ttr/twitter-ttr-refined.nb.html)
++ [A Shiny App visualising the CRAN Dependency graph](https://shiny.john-coene.com/cran)
+
+![A Shiny App visualising the CRAN Dependency graph](https://raw.githubusercontent.com/rweekly/image/master/2019-11-18/cran_dependency_graph.png)
+
 + [Analyzing restaurants visited last 12 months](https://jechave.com/post/12-months-of-restaurants/)
 + [Testing the tune package from tidymodels](https://konradsemsch.netlify.com/2019/10/testing-the-tune-package-from-tidymodels-analysing-the-relationship-between-the-upsampling-ratio-and-model-performance/)
 + [Best practices for setting automated test architecture for Shiny apps](https://appsilon.com/super-solutions-for-shiny-architecture-5-automated-tests/)
 + [Generating Oxford Comma triples and generating sequentially numbered BibTeX entries](https://www.shamindras.com/posts/2019-07-15-shrotriya2019tidyfunpt1/)
 + [space = "free" or how to fix your facet (width)](https://mattherman.info/blog/fix-facet-width/)
 + [Import and work with formatted spreadsheet data](https://luisdva.github.io/rstats/annotate-mf/)
+
+![Import and work with formatted spreadsheet data](https://raw.githubusercontent.com/rweekly/image/master/2019-11-18/tidy_spreadsheets.png)
+
 + [For advanced R Shiny applications, R6 classes help you organize your code.](https://appsilon.com/super-solutions-for-shiny-apps-using-r6-classes/)
 + [Breast cancer awareness campaign with Swedish incidence and mortality data.](https://www.leynu.com/breast-cancer-awareness/)
 + [Softcoding Constants in the App](https://appsilon.com/super-solutions-for-shiny-architecture-3-5-softcoding-constants-in-the-app/)
@@ -37,6 +45,10 @@ Release Date: 2019-11-18
 + [Exploring highcharts in R ](https://towardsdatascience.com/exploring-highcharts-in-r-f754143efda7)
 + [Javascript is your friend](https://appsilon.com/super-solutions-for-shiny-architecture-2-javascript-is-your-friend/)
 + [Mapping the underlying social structure of Reddit](http://datadiarist.github.io/post/mapping-the-underlying-social-structure-of-reddit/)
++ [Rugby World Cup history with ggalluvial](https://david.frigge.nz/posts/2019-10-rugby-world-cup/)
+
+![Rugby World Cup history with ggalluvial](https://raw.githubusercontent.com/rweekly/image/master/2019-11-18/rugby.png)
+
 + [Using session data](https://appsilon.com/super-solutions-for-shiny-architecture-1-of-5-using-session-data/)
 + [Understanding the concept of variance explained.](https://eranraviv.com/understanding-variance-explained-in-pca/)
 + [My R Journey: Jon Harmon](https://rfortherestofus.com/2019/11/my-r-journey-jon-harmon/)
@@ -116,7 +128,7 @@ Release Date: 2019-11-18
 ### Gist & Cookbook
 
 + [Using tidyverse, tidycensus, suncalc, gganimate, etc. to see how sunset times are distributed across the population of (most of) the US.](https://gist.github.com/jonspring/78b2124cf9daa351de98b5e031473585)
-(refer: https://twitter.com/JustTheSpring/status/1193655008635449344))
+(based on [this tweet](https://twitter.com/JustTheSpring/status/1193655008635449344))
 
 ### R Internationally
 
@@ -130,8 +142,9 @@ Release Date: 2019-11-18
 + [Soviet Space Dogs (Part 2): A walk through of {ggplot2} annotation using {ggforce} & {ggtext}](https://davidsmale.netlify.com/portfolio/soviet-space-dogs-part-2/)
 + [Using reticulate with arcpy on a Windows machine](https://www.zevross.com/blog/2019/11/12/using-reticulate-with-arcpy-on-a-windows-machine/)
 + [A more convincing Leaflet visualizations from R - customizing markers, icons, color scales & HTML popups.](https://www.jla-data.net/eng/leaflet-in-r-tips-and-tricks/index.html)
-
 + [Tweets from Chile using {rtweet} and {wordcloud2}](https://www.leynu.com/tweets-chiledesperto-renunciapinera/)
+
+![Tweets from Chile using {rtweet} and {wordcloud2}](https://raw.githubusercontent.com/rweekly/image/master/2019-11-18/chile.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
