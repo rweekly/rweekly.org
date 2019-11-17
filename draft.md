@@ -25,21 +25,20 @@ Release Date: 2019-11-18
 + [Rugby World Cup history with ggalluvial](https://david.frigge.nz/posts/2019-10-rugby-world-cup/)
 + [Calculating (Twitter) Vocabulary Breadth of U.S. Presidential Candidates Using Type-Token Ratio (TTR)](https://gilliganondata.github.io/twitter-ttr/twitter-ttr-refined.nb.html)
 + [Analyzing restaurants visited last 12 months](https://jechave.com/post/12-months-of-restaurants/)
-+ [Testing the tune package from tidymodels - analysing the relationship between the upsampling ratio and model performance](https://konradsemsch.netlify.com/2019/10/testing-the-tune-package-from-tidymodels-analysing-the-relationship-between-the-upsampling-ratio-and-model-performance/)
-+ [Describes the best practices for setting automated test architecture for Shiny apps. Automate and test early and often with unit tests, user interface tests, and performance tests.](https://appsilon.com/super-solutions-for-shiny-architecture-5-automated-tests/)
-+ [First part in a series of doing useful tasks with the Tidyverse. This time generating Oxford Comma triples and generating sequentially numbered BibTeX entries](https://www.shamindras.com/posts/2019-07-15-shrotriya2019tidyfunpt1/)
++ [Testing the tune package from tidymodels](https://konradsemsch.netlify.com/2019/10/testing-the-tune-package-from-tidymodels-analysing-the-relationship-between-the-upsampling-ratio-and-model-performance/)
++ [Best practices for setting automated test architecture for Shiny apps](https://appsilon.com/super-solutions-for-shiny-architecture-5-automated-tests/)
++ [Generating Oxford Comma triples and generating sequentially numbered BibTeX entries](https://www.shamindras.com/posts/2019-07-15-shrotriya2019tidyfunpt1/)
 + [space = "free" or how to fix your facet (width)](https://mattherman.info/blog/fix-facet-width/)
 + [Import and work with formatted spreadsheet data](https://luisdva.github.io/rstats/annotate-mf/)
-+ [For advanced R Shiny applications, R6 classes help you organize your code. The Hows and Whys of using object-oriented programming (OOP) in Shiny applications...](https://appsilon.com/super-solutions-for-shiny-apps-using-r6-classes/)
-+ [My contribution to the breast cancer awareness campaign with Swedish incidence and mortality data.](https://www.leynu.com/breast-cancer-awareness/)
++ [For advanced R Shiny applications, R6 classes help you organize your code.](https://appsilon.com/super-solutions-for-shiny-apps-using-r6-classes/)
++ [Breast cancer awareness campaign with Swedish incidence and mortality data.](https://www.leynu.com/breast-cancer-awareness/)
 + [Softcoding Constants in the App](https://appsilon.com/super-solutions-for-shiny-architecture-3-5-softcoding-constants-in-the-app/)
 + [Follow a spatial particle over a raster map in 3D using rayshader](https://statnmap.com/2019-10-06-follow-moving-particle-trajectory-on-raster-with-rayshader/)
 + [Exploring highcharts in R ](https://towardsdatascience.com/exploring-highcharts-in-r-f754143efda7)
-+ [You start in Shiny apps because it is easy, efficient and doesn't require any javascript or html experience. After a few projects, you realise that you are missing sth to build fast/wow apps. You need javascript. How to start mixing them?](https://appsilon.com/super-solutions-for-shiny-architecture-2-javascript-is-your-friend/)
-+ [In this post, I convert a month's (May 2013) worth of Reddit submissions into a network of Reddit communities, using Sparklyr and data from the Pushshift Reddit Repository.](http://datadiarist.github.io/post/mapping-the-underlying-social-structure-of-reddit/)
-+ [Learn how to use the session argument as a global list for passing parameters between the modules in advanced Shiny apps to simplify the objects’ flow in code. Session can help you organize the app content and simplify the objects flow logic. It is faster than managing all of the dependencies between modules manually.](https://appsilon.com/super-solutions-for-shiny-architecture-1-of-5-using-session-data/)
-+ [A tutorial for a more convincing Leaflet visualizations from R - customizing markers, icons, color scales & HTML popups.](https://www.jla-data.net/eng/leaflet-in-r-tips-and-tricks/index.html)
-+ [This post is about understanding the concept of variance explained.](https://eranraviv.com/understanding-variance-explained-in-pca/)
++ [Javascript is your friend](https://appsilon.com/super-solutions-for-shiny-architecture-2-javascript-is-your-friend/)
++ [Mapping the underlying social structure of Reddit](http://datadiarist.github.io/post/mapping-the-underlying-social-structure-of-reddit/)
++ [Using session data](https://appsilon.com/super-solutions-for-shiny-architecture-1-of-5-using-session-data/)
++ [Understanding the concept of variance explained.](https://eranraviv.com/understanding-variance-explained-in-pca/)
 + [My R Journey: Jon Harmon](https://rfortherestofus.com/2019/11/my-r-journey-jon-harmon/)
 
 + [Scraping Machinery Parts](https://datawookie.netlify.com/blog/2019/11/scraping-machinery-parts/)
@@ -55,7 +54,7 @@ Release Date: 2019-11-18
 
 ###  R in Academia
 
-+ [Advances in Machine Learning for the Behavioral Sciences - Kliegr, T., Bahník, Š., & Fürnkranz, J. (2019). Advances in Machine Learning for the Behavioral Sciences. American Behavioral Scientist. https://doi.org/10.1177/0002764219859639](https://arxiv.org/pdf/1911.03249.pdf)
++ [Advances in Machine Learning for the Behavioral Sciences](https://arxiv.org/pdf/1911.03249.pdf) Kliegr, T., Bahník, Š., & Fürnkranz, J. (2019). Advances in Machine Learning for the Behavioral Sciences. American Behavioral Scientist. https://doi.org/10.1177/0002764219859639
 + [List-columns in {data.table}: Nesting and unnesting data tables and vectors](https://psyarxiv.com/u8ekc/)
 
 ###  Resources
@@ -130,6 +129,7 @@ Release Date: 2019-11-18
 + [#30DayMapChallenge: 30 days building maps (2) - tmap](https://statnmap.com/2019-11-15-30daymapchallenge-building-maps-2-tmap/)
 + [Soviet Space Dogs (Part 2): A walk through of {ggplot2} annotation using {ggforce} & {ggtext}](https://davidsmale.netlify.com/portfolio/soviet-space-dogs-part-2/)
 + [Using reticulate with arcpy on a Windows machine](https://www.zevross.com/blog/2019/11/12/using-reticulate-with-arcpy-on-a-windows-machine/)
++ [A more convincing Leaflet visualizations from R - customizing markers, icons, color scales & HTML popups.](https://www.jla-data.net/eng/leaflet-in-r-tips-and-tricks/index.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
