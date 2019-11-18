@@ -1,23 +1,27 @@
 ---
-layout: draft
-title: R Weekly 2019-46
-description: Draft of the R Weekly
+title: R Weekly 2019-46 Autoconf, {tune}, {leaflet}
+description: Weekly News in the R Community.
 image: https://rweekly.org/public/facebook.png
 ---
 
 Release Date: 2019-11-18
 
+This week’s release was curated by [Jonathan Carroll](https://twitter.com/carroll_jono), with help from the RWeekly team members and contributors.
+
 ###  Highlight
 
++ [An Autoconf Primer for R Package Authors](https://unconj.ca/blog/an-autoconf-primer-for-r-package-authors.html)
++ [Testing the tune package from tidymodels](https://konradsemsch.netlify.com/2019/10/testing-the-tune-package-from-tidymodels-analysing-the-relationship-between-the-upsampling-ratio-and-model-performance/)
++ [A more convincing Leaflet visualizations from R - customizing markers, icons, color scales & HTML popups.](https://www.jla-data.net/eng/leaflet-in-r-tips-and-tricks/index.html)
 
 ### Insights
 
++ [future 1.15.0 - Lazy Futures are Now Launched if Queried](https://www.jottr.org/2019/11/09/resolved-launches-lazy-futures/)
++ [Statistical uncertainty with R and pdqr](http://www.questionflow.org/2019/11/11/statistical-uncertainty-with-r-and-pdqr/)
 + [An Autoconf Primer for R Package Authors](https://unconj.ca/blog/an-autoconf-primer-for-r-package-authors.html)
 
 ![An Autoconf Primer for R Package Authors](https://raw.githubusercontent.com/rweekly/image/master/2019-11-18/autoconf.png)
 
-+ [future 1.15.0 - Lazy Futures are Now Launched if Queried](https://www.jottr.org/2019/11/09/resolved-launches-lazy-futures/)
-+ [Statistical uncertainty with R and pdqr](http://www.questionflow.org/2019/11/11/statistical-uncertainty-with-r-and-pdqr/)
 + [An API for @racently](https://datawookie.netlify.com/blog/2019/11/an-api-for-racently/)
 + [When Cross-Validation is More Powerful than Regularization](http://www.win-vector.com/blog/2019/11/when-cross-validation-is-more-powerful-than-regularization/)
 + [workloopR: Analysis of work loops and other data from muscle physiology experiments in R](https://ropensci.org/technotes/2019/11/14/workloopr-release/)
@@ -52,8 +56,6 @@ Release Date: 2019-11-18
 + [Using session data](https://appsilon.com/super-solutions-for-shiny-architecture-1-of-5-using-session-data/)
 + [Understanding the concept of variance explained.](https://eranraviv.com/understanding-variance-explained-in-pca/)
 + [My R Journey: Jon Harmon](https://rfortherestofus.com/2019/11/my-r-journey-jon-harmon/)
-
-+ [Scraping Machinery Parts](https://datawookie.netlify.com/blog/2019/11/scraping-machinery-parts/)
 
 ### R in the Real World
 
@@ -103,13 +105,14 @@ Release Date: 2019-11-18
 + [{colRoz}: A colour palette for the land down under](https://github.com/jacintak/colRoz)
 + [{workloopR}: Analysis of work loops and other data from muscle physiology experiments in R](https://ropensci.org/technotes/2019/11/14/workloopr-release/)
 + [{globe4r}: Interactive globes for R, seamlessly integrated with shiny.](https://globe4r.john-coene.com/)
++ [{tune}: Tidy Tuning Tools](https://tidymodels.github.io/tune/)
 
 ### Updated Packages
 
 + [{Rcpp} 1.0.3: More Spit and Polish](http://dirk.eddelbuettel.com/blog/2019/11/09#rcpp_1.0.3)
 + [{RcppAnnoy} 0.0.14](http://dirk.eddelbuettel.com/blog/2019/11/12#rcppannoy_0.0.14)
 + [AzureR updates: AzureStor, AzureVM, AzureGraph, AzureContainers](https://blog.revolutionanalytics.com/2019/11/azurer-updates.html)
-+ [{roxygen2 7.0.0}](https://www.tidyverse.org/blog/2019/11/roxygen2-7-0-0/)
++ [{roxygen2} 7.0.0](https://www.tidyverse.org/blog/2019/11/roxygen2-7-0-0/)
 + [{badger} 0.0.7: Badge for R Package](https://cran.r-project.org/package=badger)
 + [{bujar} 0.2.7: Buckley-James Regression for Survival Data with High-Dimensional Covariates](https://cran.r-project.org/package=bujar)
 + [{dlstats} 0.1.3: Download Stats of R Packages](https://cran.r-project.org/package=dlstats)
@@ -138,7 +141,6 @@ Release Date: 2019-11-18
 ###  Tutorials
 
 + [Statistical uncertainty with R and pdqr](http://www.questionflow.org/2019/11/11/statistical-uncertainty-with-r-and-pdqr/)
-+ [#30DayMapChallenge: 30 days building maps (2) - tmap](https://statnmap.com/2019-11-15-30daymapchallenge-building-maps-2-tmap/)
 + [Soviet Space Dogs (Part 2): A walk through of {ggplot2} annotation using {ggforce} & {ggtext}](https://davidsmale.netlify.com/portfolio/soviet-space-dogs-part-2/)
 + [Using reticulate with arcpy on a Windows machine](https://www.zevross.com/blog/2019/11/12/using-reticulate-with-arcpy-on-a-windows-machine/)
 + [A more convincing Leaflet visualizations from R - customizing markers, icons, color scales & HTML popups.](https://www.jla-data.net/eng/leaflet-in-r-tips-and-tricks/index.html)
