@@ -17,7 +17,7 @@ Release Date: 2019-11-25
 
 ### R in the Real World
 
-
++ [Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](https://ryo-n7.github.io/2019-11-21-visualize-EPL-part-1/)
 
 ###  R in Organizations
 
