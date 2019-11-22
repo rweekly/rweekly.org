@@ -23,10 +23,14 @@ Release Date: 2019-11-25
 
 + [With the right tools, it is possible to use R with seventh-grade students](https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/)
 
++ [Notes on the RStudio Instructor Training Experience](https://laderast.github.io/2019/11/15/my-experience-with-rstudio-instructor-training/)
+
 
 ### R in the Real World
 
 + [Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](https://ryo-n7.github.io/2019-11-21-visualize-EPL-part-1/)
+
++ [Streetmaps: Create a streetmap of your favorite city with ggplot2 and powerpoint](https://ggplot2tutor.com/streetmaps/streetmaps/)
 
 ###  R in Organizations
 
@@ -39,7 +43,7 @@ Release Date: 2019-11-25
 
 ###  Resources
 
-
++ [Exploratory Data Analysis with R Workshop (@University of Milan)](https://github.com/othomantegazza/eda-class)
 
 ###  New Packages
 
@@ -58,6 +62,12 @@ Release Date: 2019-11-25
 + [tdor: data package for Transgender Day of Remembrance](https://github.com/CaRdiffR/tdor)
 
 + [`curlparse`: Parse URLs with libcurl ](https://github.com/hrbrmstr/curlparse)
+
++ [{cicerone}: Provides an easy API to create guided tours for Shiny applications using driver.js.](https://github.com/JohnCoene/cicerone)
+
++ [{Giftmap}: A very simple package with just one function for creating maps suitable for gifting](https://github.com/lina2497/Giftmap)
+
++ [{ggtailwind}: Package for applying Tailwind CSS default colours to ggplot2 visualations](https://github.com/willcanniford/ggtailwind)
 
 + # Updated Packages
 
@@ -94,6 +104,9 @@ Release Date: 2019-11-25
 + [step_shadow_missing - implementing a custom {recipes} step to account for missing data patterns](https://konradsemsch.netlify.com/2019/11/step-shadow-missing-implementing-a-custom-recipes-step-to-account-for-missing-data-patterns/)
 
 + [Usotting GAMM results with ggplot2](https://drmowinckels.io/blog/plotting-gamm-results-with-ggplot2/)
+
++ [Racing Bar Charts and Some data.table Munging](http://www.robert-hickman.eu/post/racing_bar_charts/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
