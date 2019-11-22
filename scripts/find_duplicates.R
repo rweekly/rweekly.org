@@ -6,6 +6,7 @@ library("magrittr")
 get_links <- function(path){
   path %>%
     readLines() %>%
+    .[1:which(grepl("Upcoming Events", .))] %>%
     commonmark::markdown_xml() %>%
     xml2::read_xml() %>%
     xml2::xml_ns_strip() %>%
