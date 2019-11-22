@@ -1,11 +1,8 @@
-old_posts <- fs::dir_ls("_posts")
-old_posts <- old_posts[(length(old_posts) - 20):length(old_posts)]
-
 library("magrittr")
 
 get_links <- function(path){
   path %>%
-    readLines() %>%
+    readLines(warn = FALSE) %>%
     .[1:which(grepl("Upcoming Events", .))] %>%
     commonmark::markdown_xml() %>%
     xml2::read_xml() %>%
@@ -14,7 +11,25 @@ get_links <- function(path){
     xml2::xml_attr("destination")
 }
 
-old_links <- unlist(purrr::map(old_posts, get_links))
+get_dups <- function(rweekly_path = getwd()){
+  old_posts <- fs::dir_ls(file.path(
+    rweekly_path,"_posts"))
+  
+  old_posts <- old_posts[(length(old_posts) - 20):length(old_posts)]
+  
+  
+  old_links <- unlist(purrr::map(old_posts, get_links))
+  
+  thisweek <- get_links(file.path(rweekly_path,
+                                  "draft.md"))
+  dups <- thisweek[thisweek %in% old_links]
+  dups <- dups[dups != "http://developer.r-project.org/blosxom.cgi/R-devel/NEWS"]
 
-thisweek <- get_links("draft.md")
-thisweek[thisweek %in% old_links]
+  if (length(dups) == 0) {
+    message("No duplicate links, well done! :-)")
+  } else {
+    return(dups)
+  }
+  
+}
+
