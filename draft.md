@@ -90,8 +90,6 @@ Release Date: 2019-11-25
 
 + [#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://statnmap.com/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere/)
 
-+ [Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](http://Ryo-N7.github.io/2019-11-21-visualize-EPL-part-1/)
-
 + [Rammstein vs. Lacrimosa](https://eliocamp.github.io/codigo-r/2019/11/rammstein-vs-lacrimosa/)
 
 + [Galton's board all askew](https://xianblog.wordpress.com/2019/11/19/galtons-board-all-askew/)
