@@ -19,13 +19,13 @@ Release Date: 2019-11-25
 
 + [dplyr::ungroup() - forget me not. Part 2.](https://coolbutuseless.github.io/2019/11/20/dplyrungroup-forget-me-not.-part-2./)
 
++ [Experiments in transforming Excel into R](https://reside-ic.github.io/blog/experiments-in-transforming-excel-into-r/)
+
 ### R in the Real World
 
 + [Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](https://ryo-n7.github.io/2019-11-21-visualize-EPL-part-1/)
 
 ###  R in Organizations
-
-###  R in Industry
 
 + [Our first artist in residence: Allison Horst!](https://blog.rstudio.com/2019/11/18/artist-in-residence/)
 + [R Consortium Infrastructure Steering Committee Chair Wins 2019 COPSS Presidents' Award](https://www.r-consortium.org/blog/2019/11/18/r-consortium-infrastructure-steering-committee-chair-wins-2019-copss-presidents-award)
@@ -52,13 +52,13 @@ Release Date: 2019-11-25
 
 **GitHub or Bitbucket**
 
-
++ [`curlparse`: Parse URLs with libcurl ](https://github.com/hrbrmstr/curlparse)
 
 ### Updated Packages
 
++ [ttdo 0.0.4: Extension](http://dirk.eddelbuettel.com/blog/2019/11/18#ttdo_0.0.4)
 
-
-+ [ttdo 0.0.4: Extension](http://dirk.eddelbuettel.com/blog/2019/11/18#ttdo_0.0.4)###  Videos and Podcasts
+###  Videos and Podcasts
 
 
 
@@ -68,21 +68,26 @@ Release Date: 2019-11-25
 
 ### R Internationally
 
++ [进化树和基因组结构](https://guangchuangyu.github.io/2019/11/geom-motif/)
+
++ [拼图？我掐指一算，发现事情没那么简单！](https://guangchuangyu.github.io/2019/11/xlim2-ylim2/)
 
 
-+ [进化树和基因组结构](https://guangchuangyu.github.io/2019/11/geom-motif/)##+ [拼图？我掐指一算，发现事情没那么简单！](https://guangchuangyu.github.io/2019/11/xlim2-ylim2/)
++ [cowplot是旧爱，patchwork乃新欢](https://guangchuangyu.github.io/2019/11/patchwork/)
 
-#  Tutorials
+###  Tutorials
 
-
++ [#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://statnmap.com/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere/)
 
 + [Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](http://Ryo-N7.github.io/2019-11-21-visualize-EPL-part-1/)
 
 + [Rammstein vs. Lacrimosa](https://eliocamp.github.io/codigo-r/2019/11/rammstein-vs-lacrimosa/)
 
-+ [Galton's board all askew](https://xianblog.wordpress.com/2019/11/19/galtons-board-all-askew/)<!+ [Can I do that? Inspiration from Flowing Data](https://austinwehrwein.com/data-visualization/salaries/)
++ [Galton's board all askew](https://xianblog.wordpress.com/2019/11/19/galtons-board-all-askew/)
 
---<div class="post-more-begin></div><div class="post-more-end"></div>-->
++ [Can I do that? Inspiration from Flowing Data](https://austinwehrwein.com/data-visualization/salaries/)
+
+<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
@@ -125,3 +130,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Incase you missed it - we&#39;ve released our call for <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> abstracts for <a href="https://twitter.com/hashtag/useR2020?src=hash&amp;ref_src=twsrc%5Etfw">#useR2020</a>. Please consider submitting a talk lighting talk, and poster. Student and first-time submissions are welcome and encouraged! <a href="https://t.co/mM3cZqMlEf">https://t.co/mM3cZqMlEf</a></p>&mdash; useR! 2020 (@useR2020stl) <a href="https://twitter.com/useR2020stl/status/1197640442491416581?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are partnering with <a href="https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw">#RLadies</a> to support <a href="https://twitter.com/hashtag/useR2020?src=hash&amp;ref_src=twsrc%5Etfw">#useR2020</a> submissions from members of underrepresented genders in the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community (including but not limited cis/trans women, trans men, non-binary, genderqueer, agender). Please submit your work! Details are 👇 <a href="https://t.co/SuN7T3PQE1">https://t.co/SuN7T3PQE1</a></p>&mdash; useR! 2020 (@useR2020stl) <a href="https://twitter.com/useR2020stl/status/1197641554116141056?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote>
