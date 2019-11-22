@@ -98,7 +98,7 @@ Release Date: 2019-11-25
 
 + [step_shadow_missing - implementing a custom {recipes} step to account for missing data patterns](https://konradsemsch.netlify.com/2019/11/step-shadow-missing-implementing-a-custom-recipes-step-to-account-for-missing-data-patterns/)
 
-+ [Ading tidyverse, tidycensus, suncalc, gganimate, etc. to see how sunset times are distributed across the population of (most of) the US. ](https://twitter.com/JustTheSpring/status/1193655008635449344)
++ [Using tidyverse, tidycensus, suncalc, gganimate, etc. to see how sunset times are distributed across the population of (most of) the US. ](https://gist.github.com/jonspring/78b2124cf9daa351de98b5e031473585)
 
 + [Plotting GAMM results with ggplot2](https://drmowinckels.io/blog/plotting-gamm-results-with-ggplot2/)
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
