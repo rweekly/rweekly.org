@@ -81,9 +81,7 @@ Release Date: 2019-11-25
 
 + [cowplot是旧爱，patchwork乃新欢](https://guangchuangyu.github.io/2019/11/patchwork/)
 
-+ [Tutorial in French: "How to turn multiple R scripts into a proper R package"](https://thinkr.fr/transformer-plusieurs-scripts-eparpilles-en-beau-package-r/)
-
-###  Tutorials
++ #  Tutorials
 
 + [#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://statnmap.com/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere/)
 
