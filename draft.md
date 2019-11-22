@@ -13,7 +13,11 @@ Release Date: 2019-11-25
 
 ### Insights
 
++ [A New palette() for R](https://developer.r-project.org/Blog/public/2019/11/21/a-new-palette-for-r/index.html)
 
++ [dplyr::ungroup() - forget me not](https://coolbutuseless.github.io/2019/11/19/dplyrungroup-forget-me-not/)
+
++ [dplyr::ungroup() - forget me not. Part 2.](https://coolbutuseless.github.io/2019/11/20/dplyrungroup-forget-me-not.-part-2./)
 
 ### R in the Real World
 
@@ -21,7 +25,10 @@ Release Date: 2019-11-25
 
 ###  R in Organizations
 
+###  R in Industry
 
++ [Our first artist in residence: Allison Horst!](https://blog.rstudio.com/2019/11/18/artist-in-residence/)
++ [R Consortium Infrastructure Steering Committee Chair Wins 2019 COPSS Presidents' Award](https://www.r-consortium.org/blog/2019/11/18/r-consortium-infrastructure-steering-committee-chair-wins-2019-copss-presidents-award)
 
 ###  R in Academia
 
@@ -51,7 +58,7 @@ Release Date: 2019-11-25
 
 
 
-###  Videos and Podcasts
++ [ttdo 0.0.4: Extension](http://dirk.eddelbuettel.com/blog/2019/11/18#ttdo_0.0.4)###  Videos and Podcasts
 
 
 
@@ -63,11 +70,19 @@ Release Date: 2019-11-25
 
 
 
-###  Tutorials
++ [进化树和基因组结构](https://guangchuangyu.github.io/2019/11/geom-motif/)##+ [拼图？我掐指一算，发现事情没那么简单！](https://guangchuangyu.github.io/2019/11/xlim2-ylim2/)
+
+#  Tutorials
 
 
 
-<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
++ [Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](http://Ryo-N7.github.io/2019-11-21-visualize-EPL-part-1/)
+
++ [Rammstein vs. Lacrimosa](https://eliocamp.github.io/codigo-r/2019/11/rammstein-vs-lacrimosa/)
+
++ [Galton's board all askew](https://xianblog.wordpress.com/2019/11/19/galtons-board-all-askew/)<!+ [Can I do that? Inspiration from Flowing Data](https://austinwehrwein.com/data-visualization/salaries/)
+
+--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
