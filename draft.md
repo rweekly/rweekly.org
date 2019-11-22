@@ -21,6 +21,11 @@ Release Date: 2019-11-25
 
 + [Experiments in transforming Excel into R](https://reside-ic.github.io/blog/experiments-in-transforming-excel-into-r/)
 
++ [With the right tools, it is possible to use R with seventh-grade students](https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/)
+
++ [A Shiny App visualising the CRAN Dependency graph](https://shiny.john-coene.com/cran)
+
+
 ### R in the Real World
 
 + [Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](https://ryo-n7.github.io/2019-11-21-visualize-EPL-part-1/)
@@ -54,13 +59,16 @@ Release Date: 2019-11-25
 
 + [`curlparse`: Parse URLs with libcurl ](https://github.com/hrbrmstr/curlparse)
 
-### Updated Packages
+##+ [An htmlwidget to visualise large monopartite graphs.](https://grapher.network/)
+# Updated Packages
 
 + [ttdo 0.0.4: Extension](http://dirk.eddelbuettel.com/blog/2019/11/18#ttdo_0.0.4)
 
++ [skimr 2.0: Compact and Flexible Summaries of Data](https://cran.r-project.org/web/packages/skimr/index.html)
+
 ###  Videos and Podcasts
 
-
++ [Introduction au package {golem} (in French)](https://www.youtube.com/watch?v=6qI4NzxlAFU)
 
 ### Gist & Cookbook
 
@@ -72,10 +80,11 @@ Release Date: 2019-11-25
 
 + [拼图？我掐指一算，发现事情没那么简单！](https://guangchuangyu.github.io/2019/11/xlim2-ylim2/)
 
-
 + [cowplot是旧爱，patchwork乃新欢](https://guangchuangyu.github.io/2019/11/patchwork/)
 
-###  Tutorials
+##+ [Tutorial in French: "How to turn multiple R scripts into a proper R package"](https://thinkr.fr/transformer-plusieurs-scripts-eparpilles-en-beau-package-r/)
+
+#  Tutorials
 
 + [#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://statnmap.com/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere/)
 
@@ -87,7 +96,12 @@ Release Date: 2019-11-25
 
 + [Can I do that? Inspiration from Flowing Data](https://austinwehrwein.com/data-visualization/salaries/)
 
-<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
++ [step_shadow_missing - implementing a custom {recipes} step to account for missing data patterns](https://konradsemsch.netlify.com/2019/11/step-shadow-missing-implementing-a-custom-recipes-step-to-account-for-missing-data-patterns/)
+
++ [Adventures in Optical Character Recognition (OCR): Recommendations for Paper Loving Organizations ](https://appsilon.com/adventures-in-optical-character-recognition-ocr/)
+<!
++ [Using tidyverse, tidycensus, suncalc, gganimate, etc. to see how sunset times are distributed across the population of (most of) the US. ](https://twitter.com/JustTheSpring/status/1193655008635449344)
+--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
@@ -97,6 +111,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [rOpenSci community call: Community Call: Last Night, Testing Saved my Life, December 5](https://ropensci.org/commcalls/2019-12-05/)
 
 + [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
 
