@@ -23,8 +23,6 @@ Release Date: 2019-11-25
 
 + [With the right tools, it is possible to use R with seventh-grade students](https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/)
 
-+ [A Shiny App visualising the CRAN Dependency graph](https://shiny.john-coene.com/cran)
-
 
 ### R in the Real World
 
@@ -61,8 +59,7 @@ Release Date: 2019-11-25
 
 + [`curlparse`: Parse URLs with libcurl ](https://github.com/hrbrmstr/curlparse)
 
-+ [An htmlwidget to visualise large monopartite graphs.](https://grapher.network/)
-### Updated Packages
++ # Updated Packages
 
 + [ttdo 0.0.4: Extension](http://dirk.eddelbuettel.com/blog/2019/11/18#ttdo_0.0.4)
 
