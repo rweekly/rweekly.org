@@ -22,6 +22,13 @@ get_dups <- function(rweekly_path = getwd()){
   
   thisweek <- get_links(file.path(rweekly_path,
                                   "draft.md"))
+  current_dups <- thisweek[duplicated(thisweek)]
+  if (length(current_dups)) {
+    message("Duplicates found in current week:")
+    cat(paste0(current_dups, collapse = "\n"))
+    cat("\n")
+  }
+  
   dups <- thisweek[thisweek %in% old_links]
   dups <- dups[dups != "http://developer.r-project.org/blosxom.cgi/R-devel/NEWS"]
 
@@ -32,4 +39,3 @@ get_dups <- function(rweekly_path = getwd()){
   }
   
 }
-
