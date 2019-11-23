@@ -23,9 +23,6 @@ Release Date: 2019-11-25
 
 + [With the right tools, it is possible to use R with seventh-grade students](https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/)
 
-+ [Notes on the RStudio Instructor Training Experience](https://laderast.github.io/2019/11/15/my-experience-with-rstudio-instructor-training/)
-
-
 ### R in the Real World
 
 + [Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](https://ryo-n7.github.io/2019-11-21-visualize-EPL-part-1/)
