@@ -69,11 +69,13 @@ Release Date: 2019-11-25
 
 + [{ggtailwind}: Package for applying Tailwind CSS default colours to ggplot2 visualations](https://github.com/willcanniford/ggtailwind)
 
-+ # Updated Packages
+## Updated Packages
 
 + [ttdo 0.0.4: Extension](http://dirk.eddelbuettel.com/blog/2019/11/18#ttdo_0.0.4)
 
 + [skimr 2.0: Compact and Flexible Summaries of Data](https://cran.r-project.org/web/packages/skimr/index.html)
+
++ [boxr 0.3.5: Interface to the Box file-service](https://r-box.github.io/boxr)
 
 ###  Videos and Podcasts
 
