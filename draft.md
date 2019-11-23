@@ -102,6 +102,7 @@ Release Date: 2019-11-25
 
 + ![#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere_header.jpg)
 
+
 [Rammstein vs. Lacrimosa](https://eliocamp.github.io/codigo-r/2019/11/rammstein-vs-lacrimosa/)
 
 + [Galton's board all askew](https://xianblog.wordpress.com/2019/11/19/galtons-board-all-askew/)
