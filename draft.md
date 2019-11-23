@@ -111,7 +111,7 @@ Release Date: 2019-11-25
 
 + [step_shadow_missing - implementing a custom {recipes} step to account for missing data patterns](https://konradsemsch.netlify.com/2019/11/step-shadow-missing-implementing-a-custom-recipes-step-to-account-for-missing-data-patterns/)
 
-+ [UsPlting GAMM results with ggplot2](https://drmowinckels.io/blog/plotting-gamm-results-with-ggplot2/)
++ [Plotting GAMM results with ggplot2](https://drmowinckels.io/blog/plotting-gamm-results-with-ggplot2/)
 
 + ![Plotting GAMM results with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/gamm-plot.png)
 
