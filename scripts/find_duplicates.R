@@ -34,7 +34,7 @@ get_dups <- function(rweekly_path = getwd()){
   dups <- setdiff(dups, acceptable_dups)
 
   if (length(dups) == 0) {
-    message("No duplicate links, well done! :-)")
+    message("No remaining duplicate links, well done! :-)")
   } else {
     return(dups)
   }
