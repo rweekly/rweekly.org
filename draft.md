@@ -64,7 +64,7 @@ Release Date: 2019-11-25
 
 + [{Giftmap}: A very simple package with just one function for creating maps suitable for gifting](https://github.com/lina2497/Giftmap)
 
-+ [{ggtailwind}: Package for applying Tailwind CSS default colours to ggplot2 visualations](https://github.com/willcanniford/ggtailwind)
++ [{ggtailwind}: Package for applying Tailwind CSS default colours to ggplot2 visualizations](https://github.com/willcanniford/ggtailwind)
 
 ## Updated Packages
 
