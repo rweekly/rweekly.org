@@ -1,5 +1,10 @@
 library("magrittr")
 
+acceptable_dups <- function() {
+  c("http://developer.r-project.org/blosxom.cgi/R-devel/NEWS")
+}
+
+
 get_links <- function(path){
   path %>%
     readLines(warn = FALSE) %>%
@@ -30,11 +35,10 @@ get_dups <- function(rweekly_path = getwd()){
   }
   
   dups <- thisweek[thisweek %in% old_links]
-  acceptable_dups <- c("http://developer.r-project.org/blosxom.cgi/R-devel/NEWS")
-  dups <- setdiff(dups, acceptable_dups)
+  dups <- setdiff(dups, acceptable_dups())
 
   if (length(dups) == 0) {
-    message("No remaining duplicate links, well done! :-)")
+    message("No duplicate links, well done! :-)")
   } else {
     return(dups)
   }
