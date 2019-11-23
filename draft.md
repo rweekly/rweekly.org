@@ -15,6 +15,8 @@ Release Date: 2019-11-25
 
 + [A New palette() for R](https://developer.r-project.org/Blog/public/2019/11/21/a-new-palette-for-r/index.html)
 
+![A New palette() for R](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/palette.png)
+
 + [dplyr::ungroup() - forget me not: Part 1](https://coolbutuseless.github.io/2019/11/19/dplyrungroup-forget-me-not/), [Part 2](https://coolbutuseless.github.io/2019/11/20/dplyrungroup-forget-me-not.-part-2./), [Part 3.](https://coolbutuseless.github.io/2019/11/22/dplyrungroup-forget-me-not.-part-3./).
 
 + [Experiments in transforming Excel into R](https://reside-ic.github.io/blog/experiments-in-transforming-excel-into-r/)
@@ -28,6 +30,8 @@ Release Date: 2019-11-25
 ### R in the Real World
 
 + [Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](https://ryo-n7.github.io/2019-11-21-visualize-EPL-part-1/)
+
+![Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/LivMan_match12_summary_plot.png)
 
 + [Streetmaps: Create a streetmap of your favorite city with ggplot2 and powerpoint](https://ggplot2tutor.com/streetmaps/streetmaps/)
 
@@ -96,7 +100,9 @@ Release Date: 2019-11-25
 
 + [#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://statnmap.com/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere/)
 
-+ [Rammstein vs. Lacrimosa](https://eliocamp.github.io/codigo-r/2019/11/rammstein-vs-lacrimosa/)
++ ![#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere_header.jpg)
+
+[Rammstein vs. Lacrimosa](https://eliocamp.github.io/codigo-r/2019/11/rammstein-vs-lacrimosa/)
 
 + [Galton's board all askew](https://xianblog.wordpress.com/2019/11/19/galtons-board-all-askew/)
 
@@ -106,7 +112,9 @@ Release Date: 2019-11-25
 
 + [UsPlting GAMM results with ggplot2](https://drmowinckels.io/blog/plotting-gamm-results-with-ggplot2/)
 
-+ [Racing Bar Charts and Some data.table Munging](http://www.robert-hickman.eu/post/racing_bar_charts/)
++ ![Plotting GAMM results with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/gamm-plot.png)
+
+[Racing Bar Charts and Some data.table Munging](http://www.robert-hickman.eu/post/racing_bar_charts/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
