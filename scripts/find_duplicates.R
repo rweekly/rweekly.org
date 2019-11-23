@@ -30,7 +30,8 @@ get_dups <- function(rweekly_path = getwd()){
   }
   
   dups <- thisweek[thisweek %in% old_links]
-  dups <- dups[dups != "http://developer.r-project.org/blosxom.cgi/R-devel/NEWS"]
+  acceptable_dups <- c("http://developer.r-project.org/blosxom.cgi/R-devel/NEWS")
+  dups <- setdiff(dups, acceptable_dups)
 
   if (length(dups) == 0) {
     message("No duplicate links, well done! :-)")
