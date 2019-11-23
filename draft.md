@@ -15,13 +15,15 @@ Release Date: 2019-11-25
 
 + [A New palette() for R](https://developer.r-project.org/Blog/public/2019/11/21/a-new-palette-for-r/index.html)
 
-+ [dplyr::ungroup() - forget me not](https://coolbutuseless.github.io/2019/11/19/dplyrungroup-forget-me-not/)
-
-+ [dplyr::ungroup() - forget me not. Part 2.](https://coolbutuseless.github.io/2019/11/20/dplyrungroup-forget-me-not.-part-2./)
++ [dplyr::ungroup() - forget me not: Part 1](https://coolbutuseless.github.io/2019/11/19/dplyrungroup-forget-me-not/), [Part 2](https://coolbutuseless.github.io/2019/11/20/dplyrungroup-forget-me-not.-part-2./), [Part 3.](https://coolbutuseless.github.io/2019/11/22/dplyrungroup-forget-me-not.-part-3./).
 
 + [Experiments in transforming Excel into R](https://reside-ic.github.io/blog/experiments-in-transforming-excel-into-r/)
 
 + [With the right tools, it is possible to use R with seventh-grade students](https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/)
+
++ [XI Conference of R Users (Madrid, Spain, Nov 14-16) Welcomes Over 200 Attendees](https://www.r-consortium.org/blog/2019/11/22/xi-conference-of-r-users-madrid-spain-nov-14-16-welcomes-over-200-attendees)
+
++ [A new kid on the NHS-R block](https://nhsrcommunity.com/blog/a-new-kid-on-the-nhs-r-block/)
 
 ### R in the Real World
 
@@ -102,7 +104,7 @@ Release Date: 2019-11-25
 
 + [step_shadow_missing - implementing a custom {recipes} step to account for missing data patterns](https://konradsemsch.netlify.com/2019/11/step-shadow-missing-implementing-a-custom-recipes-step-to-account-for-missing-data-patterns/)
 
-+ [Usotting GAMM results with ggplot2](https://drmowinckels.io/blog/plotting-gamm-results-with-ggplot2/)
++ [UsPlting GAMM results with ggplot2](https://drmowinckels.io/blog/plotting-gamm-results-with-ggplot2/)
 
 + [Racing Bar Charts and Some data.table Munging](http://www.robert-hickman.eu/post/racing_bar_charts/)
 
