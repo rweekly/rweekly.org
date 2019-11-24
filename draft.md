@@ -40,6 +40,7 @@ Release Date: 2019-11-25
 ###  R in Organizations
 
 + [Our first artist in residence: Allison Horst!](https://blog.rstudio.com/2019/11/18/artist-in-residence/)
+
 + [R Consortium Infrastructure Steering Committee Chair Wins 2019 COPSS Presidents' Award](https://www.r-consortium.org/blog/2019/11/18/r-consortium-infrastructure-steering-committee-chair-wins-2019-copss-presidents-award)
 
 ###  R in Academia
@@ -64,9 +65,9 @@ Release Date: 2019-11-25
 
 **GitHub or Bitbucket**
 
-+ [tdor: data package for Transgender Day of Remembrance](https://github.com/CaRdiffR/tdor)
++ [{tdor}: data package for Transgender Day of Remembrance](https://github.com/CaRdiffR/tdor)
 
-+ [`curlparse`: Parse URLs with libcurl ](https://github.com/hrbrmstr/curlparse)
++ [{curlparse}: Parse URLs with libcurl ](https://github.com/hrbrmstr/curlparse)
 
 + [{cicerone}: Provides an easy API to create guided tours for Shiny applications using driver.js.](https://github.com/JohnCoene/cicerone)
 
@@ -98,12 +99,11 @@ Release Date: 2019-11-25
 
 + [cowplot是旧爱，patchwork乃新欢](https://guangchuangyu.github.io/2019/11/patchwork/)
 
-+ #  Tutorials
+###  Tutorials
 
 + [#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://statnmap.com/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere/)
 
-+ ![#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere_header.jpg)
-
+![#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere_header.jpg)
 
 [Rammstein vs. Lacrimosa](https://eliocamp.github.io/codigo-r/2019/11/rammstein-vs-lacrimosa/)
 
@@ -113,9 +113,9 @@ Release Date: 2019-11-25
 
 + [step_shadow_missing - implementing a custom {recipes} step to account for missing data patterns](https://konradsemsch.netlify.com/2019/11/step-shadow-missing-implementing-a-custom-recipes-step-to-account-for-missing-data-patterns/)
 
-+ [UsPlting GAMM results with ggplot2](https://drmowinckels.io/blog/plotting-gamm-results-with-ggplot2/)
++ [Plotting GAMM results with ggplot2](https://drmowinckels.io/blog/plotting-gamm-results-with-ggplot2/)
 
-+ ![Plotting GAMM results with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/gamm-plot.png)
+![Plotting GAMM results with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/gamm-plot.png)
 
 [Racing Bar Charts and Some data.table Munging](http://www.robert-hickman.eu/post/racing_bar_charts/)
 
