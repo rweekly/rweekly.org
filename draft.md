@@ -9,13 +9,16 @@ Release Date: 2019-11-25
 
 ###  Highlight
 
-
-
-### Insights
-
 + [A New palette() for R](https://developer.r-project.org/Blog/public/2019/11/21/a-new-palette-for-r/index.html)
 
 ![A New palette() for R](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/palette.png)
+
++ [Our first artist in residence: Allison Horst!](https://blog.rstudio.com/2019/11/18/artist-in-residence/)
+
++ [{curlparse}: Parse URLs with libcurl ](https://github.com/hrbrmstr/curlparse)
+
+
+### Insights
 
 + [dplyr::ungroup() - forget me not: Part 1](https://coolbutuseless.github.io/2019/11/19/dplyrungroup-forget-me-not/), [Part 2](https://coolbutuseless.github.io/2019/11/20/dplyrungroup-forget-me-not.-part-2./), [Part 3.](https://coolbutuseless.github.io/2019/11/22/dplyrungroup-forget-me-not.-part-3./).
 
@@ -29,6 +32,8 @@ Release Date: 2019-11-25
 
 + [A new kid on the NHS-R block](https://nhsrcommunity.com/blog/a-new-kid-on-the-nhs-r-block/)
 
++ [Shiny Dev, Software Release Cycles, Rayshader](https://moldach.github.io/project/shiny-dev-software-release-cycles-rayshader/)
+
 ### R in the Real World
 
 + [Visualizing the Premier League So Far, Part 1: Overview with xPts Tables and xG Plots](https://ryo-n7.github.io/2019-11-21-visualize-EPL-part-1/)
@@ -39,17 +44,15 @@ Release Date: 2019-11-25
 
 ###  R in Organizations
 
-+ [Our first artist in residence: Allison Horst!](https://blog.rstudio.com/2019/11/18/artist-in-residence/)
-
 + [R Consortium Infrastructure Steering Committee Chair Wins 2019 COPSS Presidents' Award](https://www.r-consortium.org/blog/2019/11/18/r-consortium-infrastructure-steering-committee-chair-wins-2019-copss-presidents-award)
-
-###  R in Academia
-
-
 
 ###  Resources
 
 + [Exploratory Data Analysis with R Workshop (@University of Milan)](https://github.com/othomantegazza/eda-class)
+
++ [R for better science with less time](https://openscapes.github.io/slides/betterscience/socalR#1)
+
++ [Designing ggplots: making clear figures that communicate](https://designing-ggplots.netlify.com/)
 
 ###  New Packages
 
@@ -57,23 +60,19 @@ Release Date: 2019-11-25
 
 **CRAN**
 
++ [lightr: Read Spectrometric Data and Metadata](https://cran.r-project.org/package=lightr)
 
-
-**BioC**
-
-
++ [uchardet: The Universal Character Encoding Detector](https://cran.r-project.org/package=uchardet)
 
 **GitHub or Bitbucket**
 
-+ [{tdor}: data package for Transgender Day of Remembrance](https://github.com/CaRdiffR/tdor)
++ [tdor: data package for Transgender Day of Remembrance](https://github.com/CaRdiffR/tdor)
 
-+ [{curlparse}: Parse URLs with libcurl ](https://github.com/hrbrmstr/curlparse)
++ [cicerone: Provides an easy API to create guided tours for Shiny applications using driver.js.](https://github.com/JohnCoene/cicerone)
 
-+ [{cicerone}: Provides an easy API to create guided tours for Shiny applications using driver.js.](https://github.com/JohnCoene/cicerone)
++ [Giftmap: A very simple package with just one function for creating maps suitable for gifting](https://github.com/lina2497/Giftmap)
 
-+ [{Giftmap}: A very simple package with just one function for creating maps suitable for gifting](https://github.com/lina2497/Giftmap)
-
-+ [{ggtailwind}: Package for applying Tailwind CSS default colours to ggplot2 visualizations](https://github.com/willcanniford/ggtailwind)
++ [ggtailwind: Package for applying Tailwind CSS default colours to ggplot2 visualizations](https://github.com/willcanniford/ggtailwind)
 
 ## Updated Packages
 
@@ -81,16 +80,13 @@ Release Date: 2019-11-25
 
 + [skimr 2.0: Compact and Flexible Summaries of Data](https://cran.r-project.org/web/packages/skimr/index.html)
 
-+ [bodigest 0.6.23: More sha1 refinements](http://dirk.eddelbuettel.com/blog/2019/11/23#digest_0.6.23)
-+ [xr 0.3.5: Interface to the Box file-service](https://r-box.github.io/boxr)
++ [digest 0.6.23: More sha1 refinements](http://dirk.eddelbuettel.com/blog/2019/11/23#digest_0.6.23)
+
++ [boxr 0.3.5: Interface to the Box file-service](https://r-box.github.io/boxr)
 
 ###  Videos and Podcasts
 
 + [Introduction au package {golem} (in French)](https://www.youtube.com/watch?v=6qI4NzxlAFU)
-
-### Gist & Cookbook
-
-
 
 ### R Internationally
 
@@ -106,7 +102,7 @@ Release Date: 2019-11-25
 
 ![#30DayMapChallenge: 30 days building maps (3) - Earth is spherical](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/2019-11-22-30daymapchallenge-building-maps-3-earth-is-sphere_header.jpg)
 
-[Rammstein vs. Lacrimosa](https://eliocamp.github.io/codigo-r/2019/11/rammstein-vs-lacrimosa/)
++ [Rammstein vs. Lacrimosa](https://eliocamp.github.io/codigo-r/2019/11/rammstein-vs-lacrimosa/)
 
 + [Galton's board all askew](https://xianblog.wordpress.com/2019/11/19/galtons-board-all-askew/)
 
@@ -118,7 +114,7 @@ Release Date: 2019-11-25
 
 ![Plotting GAMM results with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/gamm-plot.png)
 
-[Racing Bar Charts and Some data.table Munging](http://www.robert-hickman.eu/post/racing_bar_charts/)
++ [Racing Bar Charts and Some data.table Munging](http://www.robert-hickman.eu/post/racing_bar_charts/)
 
 + [Visualising the evolution of the world development indicators during the past decade with R Shiny](https://towardsdatascience.com/the-decade-in-review-with-r-shiny-ea57f8fa5e0e)
 
@@ -126,14 +122,9 @@ Release Date: 2019-11-25
 
 + [Animated violation maps of Bratislava. Animated maps using open data, gganimate, ggmap in R.](https://petolau.github.io/Dangerous-streets-of-Bratislava-animated-maps-using-opendata/)
 
-<!+ [Cost-benefit analysis in R by @ellis2013nz](http://freerangestats.info/blog/2019/11/24/cost-benefit-analysis)
++ [Cost-benefit analysis in R by @ellis2013nz](http://freerangestats.info/blog/2019/11/24/cost-benefit-analysis)
 
---<div class="post-more-begin></div><div class="post-more-end"></div>-->
-
-###  R Project Updates
-
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
+<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  Upcoming Events in 3 Months
 
@@ -159,14 +150,6 @@ Events in 3 Months:
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
-
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
 
 
@@ -177,3 +160,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Incase you missed it - we&#39;ve released our call for <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> abstracts for <a href="https://twitter.com/hashtag/useR2020?src=hash&amp;ref_src=twsrc%5Etfw">#useR2020</a>. Please consider submitting a talk lighting talk, and poster. Student and first-time submissions are welcome and encouraged! <a href="https://t.co/mM3cZqMlEf">https://t.co/mM3cZqMlEf</a></p>&mdash; useR! 2020 (@useR2020stl) <a href="https://twitter.com/useR2020stl/status/1197640442491416581?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are partnering with <a href="https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw">#RLadies</a> to support <a href="https://twitter.com/hashtag/useR2020?src=hash&amp;ref_src=twsrc%5Etfw">#useR2020</a> submissions from members of underrepresented genders in the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community (including but not limited cis/trans women, trans men, non-binary, genderqueer, agender). Please submit your work! Details are 👇 <a href="https://t.co/SuN7T3PQE1">https://t.co/SuN7T3PQE1</a></p>&mdash; useR! 2020 (@useR2020stl) <a href="https://twitter.com/useR2020stl/status/1197641554116141056?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some Thanksgiving <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> doodles 🦃 <a href="https://t.co/aKiKUL3vqR">pic.twitter.com/aKiKUL3vqR</a></p>&mdash; Chelsea Parlett-Pelleriti (@ChelseaParlett) <a href="https://twitter.com/ChelseaParlett/status/1198340399934271489?ref_src=twsrc%5Etfw">November 23, 2019</a></blockquote>
