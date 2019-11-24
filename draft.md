@@ -81,7 +81,8 @@ Release Date: 2019-11-25
 
 + [skimr 2.0: Compact and Flexible Summaries of Data](https://cran.r-project.org/web/packages/skimr/index.html)
 
-+ [boxr 0.3.5: Interface to the Box file-service](https://r-box.github.io/boxr)
++ [bodigest 0.6.23: More sha1 refinements](http://dirk.eddelbuettel.com/blog/2019/11/23#digest_0.6.23)
++ [xr 0.3.5: Interface to the Box file-service](https://r-box.github.io/boxr)
 
 ###  Videos and Podcasts
 
@@ -125,7 +126,9 @@ Release Date: 2019-11-25
 
 + [Animated violation maps of Bratislava. Animated maps using open data, gganimate, ggmap in R.](https://petolau.github.io/Dangerous-streets-of-Bratislava-animated-maps-using-opendata/)
 
-<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+<!+ [Cost-benefit analysis in R by @ellis2013nz](http://freerangestats.info/blog/2019/11/24/cost-benefit-analysis)
+
+--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
