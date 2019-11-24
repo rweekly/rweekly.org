@@ -23,6 +23,8 @@ Release Date: 2019-11-25
 
 + [With the right tools, it is possible to use R with seventh-grade students](https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/)
 
++ [SatRday Cardiff recap](https://appsilon.com/satrday-cardiff-2019-recap/)
+
 + [XI Conference of R Users (Madrid, Spain, Nov 14-16) Welcomes Over 200 Attendees](https://www.r-consortium.org/blog/2019/11/22/xi-conference-of-r-users-madrid-spain-nov-14-16-welcomes-over-200-attendees)
 
 + [A new kid on the NHS-R block](https://nhsrcommunity.com/blog/a-new-kid-on-the-nhs-r-block/)
@@ -116,6 +118,12 @@ Release Date: 2019-11-25
 + ![Plotting GAMM results with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019-11-25/gamm-plot.png)
 
 [Racing Bar Charts and Some data.table Munging](http://www.robert-hickman.eu/post/racing_bar_charts/)
+
++ [Visualising the evolution of the world development indicators during the past decade with R Shiny](https://towardsdatascience.com/the-decade-in-review-with-r-shiny-ea57f8fa5e0e)
+
++ [A new option to display Census API calls from {tidycensus}](https://mattherman.info/blog/tidycensus-show-call/)
+
++ [Animated violation maps of Bratislava. Animated maps using open data, gganimate, ggmap in R.](https://petolau.github.io/Dangerous-streets-of-Bratislava-animated-maps-using-opendata/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
