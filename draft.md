@@ -20,7 +20,7 @@ Release Date: 2019-11-25
 
 ### Insights
 
-+ [dplyr::ungroup() - forget me not: Part 1](https://coolbutuseless.github.io/2019/11/19/dplyrungroup-forget-me-not/), [Part 2](https://coolbutuseless.github.io/2019/11/20/dplyrungroup-forget-me-not.-part-2./), [Part 3.](https://coolbutuseless.github.io/2019/11/22/dplyrungroup-forget-me-not.-part-3./).
++ [dplyr::ungroup() - forget me not: Part 1](https://coolbutuseless.github.io/2019/11/19/dplyrungroup-forget-me-not/), [Part 2](https://coolbutuseless.github.io/2019/11/20/dplyrungroup-forget-me-not.-part-2./), [Part 3](https://coolbutuseless.github.io/2019/11/22/dplyrungroup-forget-me-not.-part-3./).
 
 + [Experiments in transforming Excel into R](https://reside-ic.github.io/blog/experiments-in-transforming-excel-into-r/)
 
