@@ -13,7 +13,7 @@ Release Date: 2019-12-02
 
 ### Insights
 
-
++ [Writing Proprietary R Packages](https://unconj.ca/blog/writing-proprietary-r-packages.html)
 
 ### R in the Real World
 
