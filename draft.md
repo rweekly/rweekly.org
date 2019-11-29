@@ -13,15 +13,17 @@ Release Date: 2019-12-02
 
 ### Insights
 
-
++ [The state of R in Africa](https://rforwards-auto.github.io/blog/2019/11/15/the-state-of-r-in-africa/)
 
 ### R in the Real World
+
++ [Visualizing the Premier League So Far, Part 2: Stats from Open Play and Set Pieces](https://ryo-n7.github.io/2019-11-28-visualize-EPL-part-2/)
 
 
 
 ###  R in Organizations
 
-
++ [A pivotal change to Software Carpentry](https://www.rostrum.blog/2019/11/27/pivot/)
 
 ###  R in Academia
 
@@ -29,7 +31,11 @@ Release Date: 2019-12-02
 
 ###  Resources
 
++ [Designing ggplots: making clear figures that communicate (SoCal R Meetup Workshop)](https://designing-ggplots.netlify.com/#1)
 
++ [2019 R Package Advent Calendar](https://www.hvitfeldt.me/packagecalendar/2019/)
+
++ [Basic play-by-play sequence overview for NFL games](https://github.com/wiscostret/nflpbpseq/blob/master/nflpbpseqviz.md)
 
 ###  New Packages
 
@@ -65,7 +71,9 @@ Release Date: 2019-12-02
 
 ###  Tutorials
 
++ [Easy US Maps in R - Thanksgiving Edition](https://www.littlemissdata.com/blog/usmap)
 
++ [R-inforcement Learning Part One- Tic Tac Toe](https://www.robert-hickman.eu/post/r-inforcement_learning_one/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
