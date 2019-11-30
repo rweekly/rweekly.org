@@ -33,10 +33,6 @@ Release Date: 2019-12-02
 
 + [A pivotal change to Software Carpentry](https://www.rostrum.blog/2019/11/27/pivot/)
 
-### R in Academia
-
-+ [R-inforcement Learning Part One- Tic Tac Toe](https://www.robert-hickman.eu/post/r-inforcement_learning_one/)
-
 ###  Resources
 
 + [2019 R Package Advent Calendar](https://www.hvitfeldt.me/packagecalendar/2019/)
