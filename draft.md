@@ -25,8 +25,6 @@ Release Date: 2019-12-02
 
 + [AI, Machine Learning and Data Science Roundup: November 2019](https://blog.revolutionanalytics.com/2019/11/airoundup-november-2019.html)
 
-+ [Easy US Maps in R - Thanksgiving Edition](https://www.littlemissdata.com/blog/usmap)
-
 + [Getting started with Keras from R - the 2020 edition](https://blogs.rstudio.com/tensorflow/posts/2019-11-27-gettingstarted-2020/)
 
 ###  R in Organizations
@@ -49,6 +47,8 @@ Release Date: 2019-12-02
 
 + [shinyMobile   Mobile Ready 'shiny' Apps with Standalone Capabilities](https://cran.r-project.org/package=shinyMobile)
 
+![shinymobile](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/shinyMobile.png)
+
 + [polite   Be Nice on the Web](https://cran.r-project.org/package=polite)
 
 + [gluedown   Wrap Vectors in Markdown Formatting](https://cran.r-project.org/package=gluedown)
@@ -59,6 +59,8 @@ Release Date: 2019-12-02
 **GitHub or Bitbucket**
 
 + [`{vov}`: vov.css animations for shiny](https://github.com/tyluRp/vov)
+
+![vov](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/vov_demo.gif)
 
 + [`{wisegroup}`: Never be burned by forgetting to `ungroup()` again](https://github.com/MilesMcBain/wisegroup)
 
@@ -80,11 +82,15 @@ Release Date: 2019-12-02
 
 + [Easy US Maps in R - Thanksgiving Edition](https://www.littlemissdata.com/blog/usmap)
 
+![map](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/thanksgiving.png)
+
 + [R-inforcement Learning Part One- Tic Tac Toe](https://www.robert-hickman.eu/post/r-inforcement_learning_one/)
 
 + [Search and discover CRAN packages with pkgsearch!](https://blog.r-hub.io/2019/11/26/pkgsearch/)
 
 + [Another mixed effects model visualization](https://tjmahr.github.io/another-mixed-effects-model-visualization/)
+
+![mixed](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/mixed_effects_model.png)
 
 + [Introduction to workloopR: an R package for the analysis of data from muscle physiology experiments](https://docs.ropensci.org/workloopR/articles/Introduction-to-workloopR.html)
 
