@@ -19,7 +19,7 @@ Release Date: 2019-12-02
 
 + [Visualizing the Premier League So Far, Part 2: Stats from Open Play and Set Pieces](https://ryo-n7.github.io/2019-11-28-visualize-EPL-part-2/)
 
-
+![EPL2](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/xG_setpieceAT_top7_plot.png)
 
 ###  R in Organizations
 
