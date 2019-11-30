@@ -39,8 +39,6 @@ Release Date: 2019-12-02
 
 ###  Resources
 
-+ [Designing ggplots: making clear figures that communicate (SoCal R Meetup Workshop)](https://designing-ggplots.netlify.com/#1)
-
 + [2019 R Package Advent Calendar](https://www.hvitfeldt.me/packagecalendar/2019/)
 
 + [Basic play-by-play sequence overview for NFL games](https://github.com/wiscostret/nflpbpseq/blob/master/nflpbpseqviz.md)
