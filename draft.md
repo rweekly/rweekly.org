@@ -68,8 +68,6 @@ Release Date: 2019-12-02
 
 ### Updated Packages
 
-+ [{skimr} 2.0: Compact and Flexible Summaries of Data](https://cran.r-project.org/web/packages/skimr/index.html)
-
 + [{pins} 0.3: Azure, GCloud, and S3](http://pins.rstudio.com/blog/posts/pins-0-3-0)
 
 ###  Videos and Podcasts
