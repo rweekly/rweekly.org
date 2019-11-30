@@ -15,6 +15,8 @@ Release Date: 2019-12-02
 
 + [The state of R in Africa](https://rforwards-auto.github.io/blog/2019/11/15/the-state-of-r-in-africa/)
 
+![EPL2](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/africaR.png)
+
 ### R in the Real World
 
 + [Visualizing the Premier League So Far, Part 2: Stats from Open Play and Set Pieces](https://ryo-n7.github.io/2019-11-28-visualize-EPL-part-2/)
