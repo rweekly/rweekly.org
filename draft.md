@@ -23,13 +23,19 @@ Release Date: 2019-12-02
 
 ![EPL2](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/xG_setpieceAT_top7_plot.png)
 
++ [AI, Machine Learning and Data Science Roundup: November 2019](https://blog.revolutionanalytics.com/2019/11/airoundup-november-2019.html)
+
++ [Easy US Maps in R - Thanksgiving Edition](https://www.littlemissdata.com/blog/usmap)
+
++ [Getting started with Keras from R - the 2020 edition](https://blogs.rstudio.com/tensorflow/posts/2019-11-27-gettingstarted-2020/)
+
 ###  R in Organizations
 
 + [A pivotal change to Software Carpentry](https://www.rostrum.blog/2019/11/27/pivot/)
 
-###  R in Academia
+### R in Academia
 
-
++ [R-inforcement Learning Part One- Tic Tac Toe](https://www.robert-hickman.eu/post/r-inforcement_learning_one/)
 
 ###  Resources
 
@@ -39,43 +45,58 @@ Release Date: 2019-12-02
 
 + [Basic play-by-play sequence overview for NFL games](https://github.com/wiscostret/nflpbpseq/blob/master/nflpbpseqviz.md)
 
++ [JavaScript 4 Shiny - Field Notes](https://connect.thinkr.fr/js4shinyfieldnotes/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
 
++ [shinyMobile   Mobile Ready 'shiny' Apps with Standalone Capabilities](https://cran.r-project.org/package=shinyMobile)
 
++ [polite   Be Nice on the Web](https://cran.r-project.org/package=polite)
 
-**BioC**
++ [gluedown   Wrap Vectors in Markdown Formatting](https://cran.r-project.org/package=gluedown)
 
++ [fitzRoy   Easily Scrape and Process AFL Data](https://cran.r-project.org/package=fitzRoy)
 
 
 **GitHub or Bitbucket**
 
++ [`{vov}`: vov.css animations for shiny](https://github.com/tyluRp/vov)
 
++ [`{wisegroup}`: Never be burned by forgetting to `ungroup()` again](https://github.com/MilesMcBain/wisegroup)
 
 ### Updated Packages
 
++ [{skimr} 2.0: Compact and Flexible Summaries of Data](https://cran.r-project.org/web/packages/skimr/index.html)
 
++ [{pins} 0.3: Azure, GCloud, and S3](http://pins.rstudio.com/blog/posts/pins-0-3-0)
 
 ###  Videos and Podcasts
 
++ [Shiny Developer Series Episode 7](https://shinydevseries.com/ep7) - Eric & Curtis chat with Victor Perrier & Fanny Meyer of [dreamRs](https://www.dreamrs.fr/) to discuss the powerful `{shinyWidgets}` package for enhancing Shiny user interfaces, the origins of [dreamRs](https://www.dreamrs.fr/), and more demos of their excellent packages.
 
++ [15 Tips on Making Better Use of R Markdown](https://www.youtube.com/watch?v=L5yTrtRdeCI&feature=youtu.be)
 
-### Gist & Cookbook
++ [Not So Standard Deviations Episode 92: Hilary Comes to Town](http://nssdeviations.com/92-hilary-comes-to-town) - Hilary and Roger record in person for the third time ever to discuss the changing nature of data science and its role in various industries, the use of QA in data science product development, and lots of other stuff.
 
-
-
-### R Internationally
-
-
++ [Practical Data Science with R, 2nd Edition: Introduction Video](http://www.win-vector.com/blog/2019/11/practical-data-science-with-r-2nd-edition-introduction-video/)
 
 ###  Tutorials
 
 + [Easy US Maps in R - Thanksgiving Edition](https://www.littlemissdata.com/blog/usmap)
 
 + [R-inforcement Learning Part One- Tic Tac Toe](https://www.robert-hickman.eu/post/r-inforcement_learning_one/)
+
++ [Search and discover CRAN packages with pkgsearch!](https://blog.r-hub.io/2019/11/26/pkgsearch/)
+
++ [Another mixed effects model visualization](https://tjmahr.github.io/another-mixed-effects-model-visualization/)
+
++ [Introduction to workloopR: an R package for the analysis of data from muscle physiology experiments](https://docs.ropensci.org/workloopR/articles/Introduction-to-workloopR.html)
+
++ [Refactoring Tests](https://www.hvitfeldt.me/blog/refactoring-tests/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -100,6 +121,8 @@ Events in 3 Months:
 
 + [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
 
++ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/)
+
 + [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
@@ -108,17 +131,11 @@ Events in 3 Months:
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
-
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Waaaaaa Jackson Kwok just gave an incredible preso jam packed with interactive vis coded in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tranpiled to JS feat live coding INCREDIBLE. <a href="https://twitter.com/hashtag/wombat2019?src=hash&amp;ref_src=twsrc%5Etfw">#wombat2019</a> <a href="https://t.co/qDmOBJDcK4">pic.twitter.com/qDmOBJDcK4</a></p>&mdash; Miles McBain (@MilesMcBain) <a href="https://twitter.com/MilesMcBain/status/1200294568551317504?ref_src=twsrc%5Etfw">November 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
