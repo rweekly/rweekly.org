@@ -1,13 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2019-48
+title: R Weekly 2019-49
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-12-02
-
-This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast), with help from the RWeekly team members and contributors.
+Release Date: 2019-12-09
 
 ###  Highlight
 
@@ -15,31 +13,23 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast),
 
 ### Insights
 
-+ [The state of R in Africa](https://rforwards-auto.github.io/blog/2019/11/15/the-state-of-r-in-africa/)
 
-![EPL2](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/africaR.png)
 
 ### R in the Real World
 
-+ [Visualizing the Premier League So Far, Part 2: Stats from Open Play and Set Pieces](https://ryo-n7.github.io/2019-11-28-visualize-EPL-part-2/)
 
-![EPL2](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/xG_setpieceAT_top7_plot.png)
-
-+ [AI, Machine Learning and Data Science Roundup: November 2019](https://blog.revolutionanalytics.com/2019/11/airoundup-november-2019.html)
-
-+ [Getting started with Keras from R - the 2020 edition](https://blogs.rstudio.com/tensorflow/posts/2019-11-27-gettingstarted-2020/)
 
 ###  R in Organizations
 
-+ [A pivotal change to Software Carpentry](https://www.rostrum.blog/2019/11/27/pivot/)
+
+
+###  R in Academia
+
+
 
 ###  Resources
 
-+ [2019 R Package Advent Calendar](https://www.hvitfeldt.me/packagecalendar/2019/)
 
-+ [Basic play-by-play sequence overview for NFL games](https://github.com/wiscostret/nflpbpseq/blob/master/nflpbpseqviz.md)
-
-+ [JavaScript 4 Shiny - Field Notes](https://connect.thinkr.fr/js4shinyfieldnotes/)
 
 ###  New Packages
 
@@ -47,56 +37,35 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast),
 
 **CRAN**
 
-+ [shinyMobile   Mobile Ready 'shiny' Apps with Standalone Capabilities](https://cran.r-project.org/package=shinyMobile)
 
-![shinymobile](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/shinyMobile.png)
 
-+ [polite   Be Nice on the Web](https://cran.r-project.org/package=polite)
+**BioC**
 
-+ [gluedown   Wrap Vectors in Markdown Formatting](https://cran.r-project.org/package=gluedown)
-
-+ [fitzRoy   Easily Scrape and Process AFL Data](https://cran.r-project.org/package=fitzRoy)
 
 
 **GitHub or Bitbucket**
 
-+ [`{vov}`: vov.css animations for shiny](https://github.com/tyluRp/vov)
 
-![vov](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/vov_demo.gif)
-
-+ [`{wisegroup}`: Never be burned by forgetting to `ungroup()` again](https://github.com/MilesMcBain/wisegroup)
 
 ### Updated Packages
 
-+ [{pins} 0.3: Azure, GCloud, and S3](http://pins.rstudio.com/blog/posts/pins-0-3-0)
+
 
 ###  Videos and Podcasts
 
-+ [Shiny Developer Series Episode 7](https://shinydevseries.com/ep7) - Eric & Curtis chat with Victor Perrier & Fanny Meyer of [dreamRs](https://www.dreamrs.fr/) to discuss the powerful `{shinyWidgets}` package for enhancing Shiny user interfaces, the origins of [dreamRs](https://www.dreamrs.fr/), and more demos of their excellent packages.
 
-+ [15 Tips on Making Better Use of R Markdown](https://www.youtube.com/watch?v=L5yTrtRdeCI&feature=youtu.be)
 
-+ [Not So Standard Deviations Episode 92: Hilary Comes to Town](http://nssdeviations.com/92-hilary-comes-to-town) - Hilary and Roger record in person for the third time ever to discuss the changing nature of data science and its role in various industries, the use of QA in data science product development, and lots of other stuff.
+### Gist & Cookbook
 
-+ [Practical Data Science with R, 2nd Edition: Introduction Video](http://www.win-vector.com/blog/2019/11/practical-data-science-with-r-2nd-edition-introduction-video/)
+
+
+### R Internationally
+
+
 
 ###  Tutorials
 
-+ [Easy US Maps in R - Thanksgiving Edition](https://www.littlemissdata.com/blog/usmap)
 
-![map](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/thanksgiving.png)
-
-+ [R-inforcement Learning Part One- Tic Tac Toe](https://www.robert-hickman.eu/post/r-inforcement_learning_one/)
-
-+ [Search and discover CRAN packages with pkgsearch!](https://blog.r-hub.io/2019/11/26/pkgsearch/)
-
-+ [Another mixed effects model visualization](https://tjmahr.github.io/another-mixed-effects-model-visualization/)
-
-![mixed](https://raw.githubusercontent.com/rweekly/image/master/2019-12-02/mixed_effects_model.png)
-
-+ [Introduction to workloopR: an R package for the analysis of data from muscle physiology experiments](https://docs.ropensci.org/workloopR/articles/Introduction-to-workloopR.html)
-
-+ [Refactoring Tests](https://www.hvitfeldt.me/blog/refactoring-tests/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -108,14 +77,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [YerOpenSci community call: Community Call: Last Night, Testing Saved my Life, December 5](https://ropensci.org/commcalls/2019-12-05/)
-
-+ [s We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
-
-+ [BioC Asia, December 5-6](https://bioconductor.github.io/BiocAsia/)
-
-+ [Japan.R 2019, December 7](https://japanr.connpass.com/event/154070/)
 
 + [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)
 
@@ -131,11 +92,17 @@ Events in 3 Months:
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
+
+### Datasets
+
+### Jobs
+
+
+
+
 ###  Call for Participation
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Waaaaaa Jackson Kwok just gave an incredible preso jam packed with interactive vis coded in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tranpiled to JS feat live coding INCREDIBLE. <a href="https://twitter.com/hashtag/wombat2019?src=hash&amp;ref_src=twsrc%5Etfw">#wombat2019</a> <a href="https://t.co/qDmOBJDcK4">pic.twitter.com/qDmOBJDcK4</a></p>&mdash; Miles McBain (@MilesMcBain) <a href="https://twitter.com/MilesMcBain/status/1200294568551317504?ref_src=twsrc%5Etfw">November 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
