@@ -7,6 +7,8 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2019-12-02
 
+This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast), with help from the RWeekly team members and contributors.
+
 ###  Highlight
 
 
