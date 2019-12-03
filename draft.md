@@ -51,7 +51,7 @@ Release Date: 2019-12-09
 
 [{corporaexplorer 0.8.0}: A 'Shiny' App for Exploration of Text Collections](https://cran.r-project.org/package=corporaexplorer).
 Now includes demo apps for exloring [Jane Austen's novels](https://kgjerde.github.io/corporaexplorer/articles/jane_austen.html)
-and the [State of the Union Addresses](https://kgjerde.github.io/corporaexplorer/articles/sotu.html).
+and [the State of the Union addresses](https://kgjerde.github.io/corporaexplorer/articles/sotu.html).
 
 
 ###  Videos and Podcasts
