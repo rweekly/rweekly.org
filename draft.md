@@ -32,7 +32,7 @@ Release Date: 2019-12-09
 
 ###  Resources
 
-
++ [Designing ggplots: making clear figures that communicate](https://malco.io/talk/designing-ggplots/)
 
 ###  New Packages
 
@@ -79,7 +79,6 @@ Release Date: 2019-12-09
 + [How to Draw Maps with Hatching Lines in R](https://flowingdata.com/2019/12/02/how-to-draw-maps-with-hatching-lines-in-r/)
 
 + [`dtplyr` and `tidyfast` are teaming up (well, at least in this blog post)](https://tysonbarrett.com//jekyll/update/2019/12/03/workflow_dtplyr_tidyfast/)
-
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
