@@ -31,6 +31,10 @@ Release Date: 2019-12-09
 
 + [Designing ggplots: making clear figures that communicate](https://malco.io/talk/designing-ggplots/)
 
++ [The 25 days of chRistmas: an R advent calendaR](https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar)
+
++ [2019 R Package Advent Calendar](https://www.hvitfeldt.me/packagecalendar/2019/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -75,6 +79,8 @@ Release Date: 2019-12-09
 
 + [R Package for @racently](https://datawookie.netlify.com/blog/2019/12/r-package-for-racently/)
 
++ [How to reorder arrange bars with in each Facet of ggplot](https://www.programmingwithr.com/how-to-reorder-arrange-bars-with-in-each-facet-of-ggplot/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -108,3 +114,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Knowing so little never felt so fun. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/Y51lLVeuCD">pic.twitter.com/Y51lLVeuCD</a></p>&mdash; Allison Horst (@allison_horst) <a href="https://twitter.com/allison_horst/status/1202229050284003328?ref_src=twsrc%5Etfw">December 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">{drake} 7.8.0 is on CRAN.<br>Dynamic branching, the most powerful new feature added this year: <a href="https://t.co/T9CZMDOSgK">https://t.co/T9CZMDOSgK</a><br>Culminates 2 years of community brainstorming: <a href="https://t.co/PJbBdgKk5Q">https://t.co/PJbBdgKk5Q</a>, <a href="https://t.co/eFFffEjwLI">https://t.co/eFFffEjwLI</a>, <a href="https://t.co/e9gGCwSiAx">https://t.co/e9gGCwSiAx</a><a href="https://twitter.com/rOpenSci?ref_src=twsrc%5Etfw">@rOpenSci</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/tyHufsmepd">pic.twitter.com/tyHufsmepd</a></p>&mdash; Will Landau (@wmlandau) <a href="https://twitter.com/wmlandau/status/1202947858170814465?ref_src=twsrc%5Etfw">December 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here it is! The R advent calendaR 🎁<br><br>Start learning R tomorrow and by Christmas you will know the basics!<a href="https://t.co/NC6mgeAUST">https://t.co/NC6mgeAUST</a><br><br>meRRy chRistmas eveRyone! 🎄☺️🎀<a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/RadventcalendaR?src=hash&amp;ref_src=twsrc%5Etfw">#RadventcalendaR</a> <a href="https://twitter.com/hashtag/25daysofR?src=hash&amp;ref_src=twsrc%5Etfw">#25daysofR</a> <a href="https://t.co/16LYx0QyxZ">pic.twitter.com/16LYx0QyxZ</a></p>&mdash; Kiirsti Owen (@KiirstiO) <a href="https://twitter.com/KiirstiO/status/1200810834555015169?ref_src=twsrc%5Etfw">November 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
