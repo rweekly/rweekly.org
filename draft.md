@@ -112,7 +112,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-
++ [Research Software Engineer, EcoHealth Alliance, New York, NY](https://www.ecohealthalliance.org/career/research-software-engineer)
 
 
 ###  Call for Participation
