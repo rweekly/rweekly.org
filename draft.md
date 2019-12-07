@@ -13,11 +13,13 @@ Release Date: 2019-12-09
 
 ### Insights
 
++ [Evaluation of the new palette() for R](https://nowosad.github.io/post/cbc-bp1/)
 
++ [The Rt of good package READMEs](https://blog.r-hub.io/2019/12/03/readmes/)
 
 ### R in the Real World
 
-
++ [Advent Calendar of Football Trivia Analyses](https://www.robert-hickman.eu/post/advent_calendar_trivia/)
 
 ###  R in Organizations
 
@@ -37,6 +39,7 @@ Release Date: 2019-12-09
 
 **CRAN**
 
++ [{patchwork 1.0.0}: The Composer of ggplots](https://www.data-imaginist.com/2019/patch-it-up-and-send-it-out/)
 
 
 **BioC**
@@ -45,11 +48,13 @@ Release Date: 2019-12-09
 
 **GitHub or Bitbucket**
 
++ [{gggibbous 0.1.0}: Moon charts, a pie chart alternative, for ggplot2 ](https://github.com/mnbram/gggibbous)
 
++ [{rradar 0.2.0}: Animate NOAA NWSRadar Images by Station Id](https://github.com/hrbrmstr/rradar)
 
 ### Updated Packages
 
-
++ [{odbc 1.2.0}](https://www.tidyverse.org/blog/2019/12/odbc-1-2-0/)
 
 ###  Videos and Podcasts
 
@@ -65,7 +70,11 @@ Release Date: 2019-12-09
 
 ###  Tutorials
 
++ [WhatsApp Radar Chart: Create a radar chart to visualize your friends posting behavior on WhatsApp](https://ggplot2tutor.com/radar-chart/radar-chart-whatsapp/)
 
++ [How to Draw Maps with Hatching Lines in R](https://flowingdata.com/2019/12/02/how-to-draw-maps-with-hatching-lines-in-r/)
+
++ [`dtplyr` and `tidyfast` are teaming up (well, at least in this blog post)](https://tysonbarrett.com//jekyll/update/2019/12/03/workflow_dtplyr_tidyfast/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
