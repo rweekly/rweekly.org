@@ -21,6 +21,7 @@ Release Date: 2019-12-09
 
 + [Advent Calendar of Football Trivia Analyses](https://www.robert-hickman.eu/post/advent_calendar_trivia/)
 
+
 ###  R in Organizations
 
 
@@ -54,7 +55,10 @@ Release Date: 2019-12-09
 
 ### Updated Packages
 
++ [{corporaexplorer 0.8.0}: A 'Shiny' App for Exploration of Text Collections](https://cran.r-project.org/package=corporaexplorer).
+
 + [{odbc 1.2.0}](https://www.tidyverse.org/blog/2019/12/odbc-1-2-0/)
+
 
 ###  Videos and Podcasts
 
@@ -75,6 +79,8 @@ Release Date: 2019-12-09
 + [How to Draw Maps with Hatching Lines in R](https://flowingdata.com/2019/12/02/how-to-draw-maps-with-hatching-lines-in-r/)
 
 + [`dtplyr` and `tidyfast` are teaming up (well, at least in this blog post)](https://tysonbarrett.com//jekyll/update/2019/12/03/workflow_dtplyr_tidyfast/)
+
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
