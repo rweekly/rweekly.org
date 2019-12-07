@@ -64,7 +64,7 @@ Release Date: 2019-12-09
 
 
 ###  Tutorials
-
++ [Designing ggplots: making clear figures that communicate](https://malco.io/talk/designing-ggplots/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
