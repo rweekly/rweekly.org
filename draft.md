@@ -9,7 +9,11 @@ Release Date: 2019-12-09
 
 ###  Highlight
 
++ [The 25 days of chRistmas: an R advent calendaR](https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar)
 
++ [{patchwork 1.0.0}: The Composer of ggplots](https://www.data-imaginist.com/2019/patch-it-up-and-send-it-out/)
+
++ [The Rt of good package READMEs](https://blog.r-hub.io/2019/12/03/readmes/)
 
 ### Insights
 
