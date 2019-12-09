@@ -7,6 +7,8 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2019-12-09
 
+This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the RWeekly team members and contributors.
+
 ###  Highlight
 
 + [The 25 days of chRistmas: an R advent calendaR](https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar)
@@ -19,6 +21,8 @@ Release Date: 2019-12-09
 
 + [Evaluation of the new palette() for R](https://nowosad.github.io/post/cbc-bp1/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/new-color-pal.png)
+
 + [The Rt of good package READMEs](https://blog.r-hub.io/2019/12/03/readmes/)
 
 + [Managing dependencies in packages](https://irudnyts.github.io//managing-dependencies-in-packages/)
@@ -30,6 +34,10 @@ Release Date: 2019-12-09
 + [Advent Calendar of Football Trivia Analyses](https://www.robert-hickman.eu/post/advent_calendar_trivia/)
 
 + [The significance of experience on the salary in Sweden, a comparison between different occupational groups](http://mikaellundqvist.rbind.io/2019/12/02/the-significance-of-experience-on-the-salary-in-sweden-a-comparison-between-different-occupational-groups/)
+
++ [NHSRdatasets meets runcharter](https://johnmackintosh.com/2019-12-03-Plotting-NHSRDatasets-with-runcharter/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/nhsr-runcharter.png)
 
 ###  Resources
 
@@ -51,9 +59,13 @@ Release Date: 2019-12-09
 
 + [{ggplotlyExtra 0.0.1}: Convenience functions for smooth conversion from 'ggplot' to 'plotly'](https://cran.r-project.org/package=ggplotlyExtra)
 
++ [{tidygapminder 0.1.0}: Easily import and tidy data sheets retrieved from Gapminder data web tools](https://cran.r-project.org/package=tidygapminder)
+
 **GitHub or Bitbucket**
 
 + [{gggibbous 0.1.0}: Moon charts, a pie chart alternative, for ggplot2 ](https://github.com/mnbram/gggibbous)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/gggibbous.png)
 
 + [{rradar 0.2.0}: Animate NOAA NWSRadar Images by Station Id](https://github.com/hrbrmstr/rradar)
 
@@ -61,19 +73,23 @@ Release Date: 2019-12-09
 
 + [{corporaexplorer 0.8.0}: A 'Shiny' App for Exploration of Text Collections](https://cran.r-project.org/package=corporaexplorer).
 
-+ [{odbc 1.2.0}](https://www.tidyverse.org/blog/2019/12/odbc-1-2-0/)
++ [{odbc 1.2.0}: A DBI-compatible interface to ODBC databases.](https://www.tidyverse.org/blog/2019/12/odbc-1-2-0/)
 
-+ [{learnr 0.10.0}](https://blog.rstudio.com/2019/12/02/learnr-0-10-0/)
++ [{learnr 0.10.0}: Create interactive tutorials using R Markdown.](https://blog.rstudio.com/2019/12/02/learnr-0-10-0/)
 
-+ [{leaftime 0.1.2}](https://cran.r-project.org/package=leaftime)
++ [{leaftime 0.1.2}: Use the 'leaflet-timeline' plugin with a leaflet widget](https://cran.r-project.org/package=leaftime)
 
-+ [{blastula 0.3.1}](https://cran.r-project.org/package=blastula)
++ [{blastula 0.3.1}: Easily Send HTML Email Messages](https://cran.r-project.org/package=blastula)
+
++ [{GENEAsphere 1.5.1}: Visualisation of Raw or Segmented Accelerometer Data](https://cran.r-project.org/package=GENEAsphere)
 
 ###  Tutorials
 
 + [WhatsApp Radar Chart: Create a radar chart to visualize your friends posting behavior on WhatsApp](https://ggplot2tutor.com/radar-chart/radar-chart-whatsapp/)
 
 + [How to Draw Maps with Hatching Lines in R](https://flowingdata.com/2019/12/02/how-to-draw-maps-with-hatching-lines-in-r/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/hatching-lines-and-albers-projection.png)
 
 + [`dtplyr` and `tidyfast` are teaming up (well, at least in this blog post)](https://tysonbarrett.com//jekyll/update/2019/12/03/workflow_dtplyr_tidyfast/)
 
@@ -84,6 +100,12 @@ Release Date: 2019-12-09
 + [R Package for @racently](https://datawookie.netlify.com/blog/2019/12/r-package-for-racently/)
 
 + [How to reorder arrange bars with in each Facet of ggplot](https://www.programmingwithr.com/how-to-reorder-arrange-bars-with-in-each-facet-of-ggplot/)
+
++ [Introduction to {eurolig}: Analyzing play-by-play and shot location data from the Euroleague](https://solmos.netlify.com/post/2019-11-28-introduction-to-eurolig/introduction-to-eurolig/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2019-12-09/eurolig-shotchart.png)
+
+[Counting Arguments in the Tidyverse](https://www.jumpingrivers.com/blog/counting-arguments-in-the-tidyverse/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
