@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2019-50
+title: R Weekly 2019-50 R 3.6.2, vscode-R, Internal
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -9,12 +9,13 @@ Release Date: 2019-12-16
 
 ###  Highlight
 
-
-
-### Insights
-
 + [R 3.6.2 is out, and a preview of R 4.0.0](https://blog.revolutionanalytics.com/2019/12/preview-of-r-400.html)
 
++ [Internal functions in R packages](https://blog.r-hub.io/2019/12/12/internal-functions/)
+
++ [vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code
+
+### Insights
 
 + [Advent of Code 2019-08 with R & JavaScript](https://colinfay.me/aoc-2019-08/)
 
@@ -26,6 +27,8 @@ Release Date: 2019-12-16
 
 + [Writing Proprietary R Packages](https://unconj.ca/blog/writing-proprietary-r-packages.html)
 
++ [R 3.6.2 is out, and a preview of R 4.0.0](https://blog.revolutionanalytics.com/2019/12/preview-of-r-400.html)
+
 ### R in the Real World
 
 + [Mid Table Mediocrity - Visualising potential winners in the Scottish Championship](https://johnmackintosh.com/2018-08-11-mid-table-mediocrity/)
@@ -33,7 +36,7 @@ Release Date: 2019-12-16
 + [front-line house democrats: a quick guide](https://www.jtimm.net/2019/12/13/frontline-democrats/)
 
 
-![front-line house democrats: a quick guide](https://d33wubrfki0l68.cloudfront.net/409152c8c9d21b4fe0d3ceb8c92ce4b1b25d8625/92a45/post/2019-12-09-frontline-democrats_files/figure-html/unnamed-chunk-3-1.png)
+![front-line house democrats: a quick guide](https://raw.githubusercontent.com/rweekly/image/master/2019/trump.png)
 
 + [Repeated measures can improve estimation when we only care about a single endpoint](https://www.rdatagen.net/post/using-repeated-measures-might-improve-effect-estimation-even-when-single-endpoint-is-the-focus/)
 
@@ -96,7 +99,7 @@ Release Date: 2019-12-16
 
 + [vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code
 
-![vscode-R](https://github.com/Ikuyadeu/vscode-R/raw/master/images/feature.png)
+![vscode-R](https://raw.githubusercontent.com/rweekly/image/master/2019/vscode-r.png)
 
 + [RDieHarder 0.2.1](http://dirk.eddelbuettel.com/blog/2019/12/07#rdieharder_0.2.1)
 
@@ -116,21 +119,19 @@ Release Date: 2019-12-16
 
 + [An analysis of grape harvest employment in France, made with R, ggplot2 and gganimate. In French](https://tvroylandt.netlify.com/post/vendanges/)
 
-![An analysis of grape harvest employment in France, made with R, ggplot2 and gganimate.](https://tvroylandt.netlify.com/post/2019-12-10-vendanges_files/figure-html/saisonnalite_geo-1.gif)
+![An analysis of grape harvest employment in France, made with R, ggplot2 and gganimate.](https://raw.githubusercontent.com/rweekly/image/master/2019/french-map.gif)
 
 ###  Tutorials
 
 + [Shiny splash screen using modules and shinyjs](https://www.radmuzom.com/2019/12/11/shiny-splash-screen-using-modules-and-shinyjs/)
 
-+ [data.table by a dummy](https://johnmackintosh.com/2019-06-30-datatable-by-a-dummy/)
-
 + [Confidence and prediction intervals explained... (with a Shiny app!)](https://adisarid.github.io/post/2019-12-13-confidence_prediction_intervals_explained/)
+
+![Confidence and prediction intervals explained... (with a Shiny ap](https://raw.githubusercontent.com/rweekly/image/master/2019/prediction.png)
 
 + [How to Read & Write SPSS Files in R Statistical Environment](https://www.marsja.se/how-to-read-write-spss-files-in-the-r-statistical-environment/)
 
 + [Structured Errors in Plumber APIs](https://unconj.ca/blog/structured-errors-in-plumber-apis.html)
-
-+ [dplyr::ungroup() - forget me not. Part 4.](https://coolbutuseless.github.io/2019/12/06/dplyrungroup-forget-me-not.-part-4./)
 
 + [A Collection of Benchmarks in R](https://www.statworx.com/de/blog/a-collection-of-benchmarks-in-r/)
 
@@ -138,7 +139,7 @@ Release Date: 2019-12-16
 
 + [A Comparative Review of the R AnalyticFlow GUI for R](http://r4stats.com/2019/12/09/r-analyticflow/)
 
-+ [ANALYZING RELATIONAL CONTRACTS WITH R: PART I](https://skranz.github.io//r/2019/12/10/RelationalContractsBlog1.html)
++ [Analyzing Relational Contracts with R: Part I](https://skranz.github.io//r/2019/12/10/RelationalContractsBlog1.html)
 
 + [Training courses in San Francisco](https://www.jumpingrivers.com/blog/r-training-courses-san-francisco/)
 
@@ -147,6 +148,8 @@ Release Date: 2019-12-16
 + [Building a statistical model for field goal kicker accuracy](https://jacob-long.com/post/kickers-methods-notes/)
 
 + [Inset maps with ggplot2](https://geocompr.github.io/post/2019/ggplot2-inset-maps/)
+
+![Inset maps with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2019/insert-map.png)
 
 + [Why I don’t use the Tidyverse](https://blog.ephorie.de/why-i-dont-use-the-tidyverse)
 
