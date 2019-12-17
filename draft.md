@@ -68,7 +68,7 @@ Release Date: 2019-12-23
 
 ###  Tutorials
 
-
++ [Completeing zeroes and dates in R charts](https://www.miskatonic.org/2019/12/16/completing-dates-in-r/) (miskatonic.org)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
