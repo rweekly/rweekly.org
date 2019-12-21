@@ -33,7 +33,7 @@ Release Date: 2019-12-23
 
 ###  Resources
 
-
+[Using the rco package to optimise R code](https://oliverfogelin.github.io/rco-Package/)
 
 ###  New Packages
 
