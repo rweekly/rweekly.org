@@ -24,6 +24,8 @@ Release Date: 2019-12-23
 
 + [R vs. Python: What's the best language for Data Science?](https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/)
 
++ [Gabriela de Queiroz steps down from the R-Ladies Global Leadership Team](https://blog.rladies.org/post/gdq-departure/)
+
 ### R in the Real World
 
 + [Most Recurring Word on each Country's Wikipedia Page](http://felixluginbuhl.com/leaflet-map/)
@@ -36,6 +38,10 @@ Release Date: 2019-12-23
 + [Christmas Gifting with R](https://myfanwy.github.io/Blog/2019/12/17/Christmas-Gifting-With-R.html)
 
 + [Are We in Kansas Anymore? Judging the State of Hollywood Film with Data from Wikipedia](https://datadiarist.github.io/post/are-we-in-kansas-anymore/)
+
++ [Print Beautiful City Street Maps with R](https://taraskaduk.com/2019/12/20/print-maps/)
+
+![]()
 
 <!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->
 
@@ -54,7 +60,7 @@ Release Date: 2019-12-23
 
 ###  Resources
 
-[Using the rco package to optimise R code](https://oliverfogelin.github.io/rco-Package/)
++ [Using the rco package to optimise R code](https://oliverfogelin.github.io/rco-Package/)
 
 ###  New Packages
 
@@ -75,6 +81,7 @@ Release Date: 2019-12-23
 
 **GitHub or Bitbucket**
 
++ [{claremontrun 0.1.0}: Data package that provides data from the Claremont Run project. This project collects data on Chris Claremont’s iconic run on Uncanny X-Men.](https://github.com/malcolmbarrett/claremontrun)
 
 ### Updated Packages
 
@@ -93,7 +100,9 @@ Release Date: 2019-12-23
 
 ###  Videos and Podcasts
 
++ [Intro to {nflscrapR} in the Tidyverse (Live Coding Screencast!)](https://www.youtube.com/watch?v=30RerZLFgUQ)
 
++ [Letter To A Young Maintainer - Hadley Wickham (@Monktoberfest)](https://www.youtube.com/watch?v=1K7u5hkciLI&feature=emb_logo)
 
 ### Gist & Cookbook
 
@@ -101,17 +110,15 @@ Release Date: 2019-12-23
 
 ### R Internationally
 
++ [(Japanese) Exporting R graphs and tables to PowerPoint, Excel, and Word](http://kato-kohaku-0.hatenablog.com/entry/2019/12/19/222429)
 
++ [(Japanese) Using R and 3D printers to create a scaled model of Mount Yatsugatake](https://blog.hoxo-m.com/entry/2019/12/19/080000)
 
 ###  Tutorials
 
 + [New rquery Vignette: Working with Many Columns](http://www.win-vector.com/blog/2019/12/new-rquery-vignette-working-with-many-columns/)
 
-
-
-
 + [Better SQL Generation via the data_algebra](http://www.win-vector.com/blog/2019/12/better-sql-generation-via-the-data_algebra/)
-
 
 + [Quickly Create (Mostly) Responsive HTML Columns With {htmltools}](https://rud.is/b/2019/12/18/quickly-create-mostly-responsive-html-columns-with-htmltools/)
 
