@@ -28,7 +28,14 @@ Release Date: 2019-12-23
 
 + [Most Recurring Word on each Country's Wikipedia Page](http://felixluginbuhl.com/leaflet-map/)
 
++ [EXPLORING EU WIDE DATA ON NEW CAR REGISTRATIONS AND CO2 EFFICIENCY](https://skranz.github.io//r/2019/12/17/EU_Cars_CO2.html)
 
++ [Collecting and Analyzing Twitter Data Using R](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/collecting-and-analyzing-twitter-using-r.knit/)
+
+
++ [Christmas Gifting with R](https://myfanwy.github.io/Blog/2019/12/17/Christmas-Gifting-With-R.html)
+
++ [Are We in Kansas Anymore? Judging the State of Hollywood Film with Data from Wikipedia](https://datadiarist.github.io/post/are-we-in-kansas-anymore/)
 
 <!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->
 
@@ -47,13 +54,19 @@ Release Date: 2019-12-23
 
 ###  Resources
 
-
+[Using the rco package to optimise R code](https://oliverfogelin.github.io/rco-Package/)
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
+
++ [November 2019: "Top 40" New R Packages](https://rviews.rstudio.com/2019/12/20/november-2019-top-40-new-r-packages/)
+
+
++ [hardhat 0.1.0](https://www.tidyverse.org/blog/2019/12/hardhat-0-1-0/)
+
 
 
 **BioC**
@@ -63,9 +76,10 @@ Release Date: 2019-12-23
 **GitHub or Bitbucket**
 
 
-
-
 ### Updated Packages
+
+[mlr 2.16.0: Machine Learning in R (mlr.mlr-org.com)](https://mlr.mlr-org.com/news/news-2.16.html)
+
 
 
 + [BH 1.72.0-2 on CRAN](http://dirk.eddelbuettel.com/blog/2019/12/17#bh_1.72.0-2)
@@ -91,7 +105,6 @@ Release Date: 2019-12-23
 
 ###  Tutorials
 
-
 + [New rquery Vignette: Working with Many Columns](http://www.win-vector.com/blog/2019/12/new-rquery-vignette-working-with-many-columns/)
 
 
@@ -102,15 +115,41 @@ Release Date: 2019-12-23
 
 + [Quickly Create (Mostly) Responsive HTML Columns With {htmltools}](https://rud.is/b/2019/12/18/quickly-create-mostly-responsive-html-columns-with-htmltools/)
 
++ [Comparison of indices of significance in the Bayesian framework](https://easystats.github.io/blog/posts/bayestestr_evidence_ani/)
+
++ [Shiny Apps: Development and Deployment](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/shiny-apps/)
+
++ [Painting Santa with Letters](https://blog.ephorie.de/painting-santa-with-letters)
+
++ [Speeding up R Plotly web apps - R x Javascript part I](https://www.timlrx.com/2019/12/17/speeding-up-r-plotly-webapps-r-x-javascript-part-i/)
+
++ [Converting LOBSTER demo R code into Python](http://www.thertrader.com/2019/12/18/converting-lobster-demo-r-code-into-python/)
+
++ [Herds of statistical models](https://codingclubuc3m.rbind.io/post/2019-12-17/)
+
 + [an arithmetic mean identity](https://xianblog.wordpress.com/2019/12/19/an-arithmetic-mean-identity/)
 
++ [Using R: Animal model with hglm and Stan (with Cholesky trick)](https://onunicornsandgenes.blog/2019/12/19/using-r-animal-model-with-hglm-and-stan-with-cholesky-trick/)
+
++ [Base Graphics – The “Drunk Uncle”  of R ?](https://rollingyours.wordpress.com/2019/12/19/base-graphics-the-drunk-uncle-of-r/)
 
 + [We cleaned our website URLs with R!](https://ropensci.org/technotes/2019/12/19/urls-tidying/)
 
++ [Locating parts of a string with `stringr`](https://cimentadaj.github.io/blog/2019-12-08-locating-parts-of-a-string-with-stringr/locating-parts-of-a-string-with-stringr/)
 
++ ["trimmer" - trim an R object](http://smaakage85.netlify.com/2019/12/19/trimmer-trim-an-r-object/)
 
 + [SKEWed perceptions](https://osm.netlify.com/post/skew-1/)
 
++ [Why R? 2019 Conference - Summary](http://r-addict.com/2019/12/19/WhyR-2019-Summary.html)
+
++ [Completeing zeroes and dates in R charts](https://www.miskatonic.org/2019/12/16/completing-dates-in-r/) (miskatonic.org)
+
++ [10 Levels of ggplot2: From Basic to Beautiful](https://medium.com/compassred-data-blog/10-levels-of-ggplot2-from-basic-to-beautiful-5ce3c4e7624f)
+
++ [How I built an interactive Shiny dashboard in 2 days without any experience in R](https://appsilon.com/how-i-built-an-interactive-shiny-dashboard-in-2-days-without-any-experience-in-r/)
+
++ [Merging rows in R](https://luisdva.github.io/rstats/merge-rows/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -151,3 +190,6 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I found a really cool tool for drawing diagrams! It&#39;s called {nomnoml}. It&#39;s super easy and intuitive to use, looks pretty, has an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package by <a href="https://twitter.com/javierluraschi?ref_src=twsrc%5Etfw">@javierluraschi</a> (<a href="https://t.co/F4YLxhSMnL">https://t.co/F4YLxhSMnL</a>) and even a live code editor here: <a href="https://t.co/yALBw6PflJ">https://t.co/yALBw6PflJ</a>. <a href="https://t.co/P67HKd2AEO">pic.twitter.com/P67HKd2AEO</a></p>&mdash; Fabio Votta📊🦉 (@favstats) <a href="https://twitter.com/favstats/status/1206887355329777666?ref_src=twsrc%5Etfw">December 17, 2019</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
