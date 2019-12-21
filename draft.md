@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2019-48
+title: R Weekly 2019-50 R 3.6.2, vscode-R, Internal
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-12-02
+Release Date: 2019-12-23
 
 ###  Highlight
 
@@ -19,7 +19,11 @@ Release Date: 2019-12-02
 
 
 
+
+<!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->
+
 ###  R in Organizations
+
 
 
 
@@ -38,7 +42,6 @@ Release Date: 2019-12-02
 **CRAN**
 
 
-
 **BioC**
 
 
@@ -47,9 +50,12 @@ Release Date: 2019-12-02
 
 
 
+
 ### Updated Packages
 
 [mlr 2.16.0: Machine Learning in R (mlr.mlr-org.com)](https://mlr.mlr-org.com/news/news-2.16.html)
+
+
 
 ###  Videos and Podcasts
 
@@ -65,7 +71,7 @@ Release Date: 2019-12-02
 
 ###  Tutorials
 
-
++ [Completeing zeroes and dates in R charts](https://www.miskatonic.org/2019/12/16/completing-dates-in-r/) (miskatonic.org)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -78,28 +84,21 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [YerOpenSci community call: Community Call: Last Night, Testing Saved my Life, December 5](https://ropensci.org/commcalls/2019-12-05/)
-
-+ [s We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
-
-+ [BioC Asia, December 5-6](https://bioconductor.github.io/BiocAsia/)
-
-+ [Japan.R 2019, December 7](https://japanr.connpass.com/event/154070/)
-
-+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/)
-
 + [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
+
++ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/)
 
 + [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
-+ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-More past events at [R conferences & meetups](https://conf.rweekly.org).
++ [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
 ### Datasets
+
++ [networkdata](https://github.com/schochastics/networkdata) - R package containing several network datasets
+
 
 ### Jobs
 
@@ -112,3 +111,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
