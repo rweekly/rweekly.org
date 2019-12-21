@@ -15,8 +15,18 @@ Release Date: 2019-12-23
 
 
 
++ [R-hub usage in a few figures](https://blog.r-hub.io/2019/12/19/r-hub-usage/)
+
+
+
++ [Thanks for Reviewing Bug Reports](https://developer.r-project.org/Blog/public/2019/12/16/thanks-for-reviewing-bug-reports/)
+
+
++ [R vs. Python: What's the best language for Data Science?](https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/)
+
 ### R in the Real World
 
++ [Most Recurring Word on each Country's Wikipedia Page](http://felixluginbuhl.com/leaflet-map/)
 
 
 
@@ -24,6 +34,10 @@ Release Date: 2019-12-23
 
 ###  R in Organizations
 
++ [NHS-R Community Conference II](https://nhsrcommunity.com/blog/nhs-r-community-conference-ii/)
+
+
++ [2 Months in 2 Minutes - rOpenSci News, December 2019](https://ropensci.org/blog/2019/12/20/news-dec2019/)
 
 
 
@@ -54,6 +68,15 @@ Release Date: 2019-12-23
 ### Updated Packages
 
 
++ [BH 1.72.0-2 on CRAN](http://dirk.eddelbuettel.com/blog/2019/12/17#bh_1.72.0-2)
+
++ [Paletteer version 1.0.0](https://www.hvitfeldt.me/blog/paletteer-version-1-0-0/)
+
++ [RSAGA 1.0.0](https://www.r-spatial.org//r/2019/12/20/RSAGA-1.0.0.html)
+
++ [reticulate 1.14](https://blog.rstudio.com/2019/12/20/reticulate-1-14/)
+
+
 ###  Videos and Podcasts
 
 
@@ -68,6 +91,25 @@ Release Date: 2019-12-23
 
 ###  Tutorials
 
+
++ [New rquery Vignette: Working with Many Columns](http://www.win-vector.com/blog/2019/12/new-rquery-vignette-working-with-many-columns/)
+
+
+
+
++ [Better SQL Generation via the data_algebra](http://www.win-vector.com/blog/2019/12/better-sql-generation-via-the-data_algebra/)
+
+
++ [Quickly Create (Mostly) Responsive HTML Columns With {htmltools}](https://rud.is/b/2019/12/18/quickly-create-mostly-responsive-html-columns-with-htmltools/)
+
++ [an arithmetic mean identity](https://xianblog.wordpress.com/2019/12/19/an-arithmetic-mean-identity/)
+
+
++ [We cleaned our website URLs with R!](https://ropensci.org/technotes/2019/12/19/urls-tidying/)
+
+
+
++ [SKEWed perceptions](https://osm.netlify.com/post/skew-1/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
