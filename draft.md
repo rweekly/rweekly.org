@@ -53,6 +53,9 @@ Release Date: 2019-12-23
 
 ### Updated Packages
 
+[mlr 2.16.0: Machine Learning in R (mlr.mlr-org.com)](https://mlr.mlr-org.com/news/news-2.16.html)
+
+
 
 ###  Videos and Podcasts
 
