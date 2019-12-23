@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2019-50 R 3.6.2, vscode-R, Internal
+title: R Weekly 2019-51
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -9,26 +9,31 @@ Release Date: 2019-12-23
 
 ###  Highlight
 
++ [R-hub usage in a few figures](https://blog.r-hub.io/2019/12/19/r-hub-usage/)
+
+
++ [reticulate 1.14](https://blog.rstudio.com/2019/12/20/reticulate-1-14/) - a comprehensive set of tools for interoperability between Python and R
 
 
 ### Insights
 
-
-
-+ [R-hub usage in a few figures](https://blog.r-hub.io/2019/12/19/r-hub-usage/)
-
-
++ [R vs. Python: What's the best language for Data Science?](https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/)
 
 + [Thanks for Reviewing Bug Reports](https://developer.r-project.org/Blog/public/2019/12/16/thanks-for-reviewing-bug-reports/)
 
+![Thanks for Reviewing Bug Reports](https://raw.githubusercontent.com/rweekly/image/master/2019/bug-report-cran.png)
 
-+ [R vs. Python: What's the best language for Data Science?](https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/)
++ [R-hub usage in a few figures](https://blog.r-hub.io/2019/12/19/r-hub-usage/)
+
+![R-hub usage in a few figures](https://raw.githubusercontent.com/rweekly/image/master/2019/rhub-week.png)
 
 ### R in the Real World
 
 + [Most Recurring Word on each Country's Wikipedia Page](http://felixluginbuhl.com/leaflet-map/)
 
-+ [EXPLORING EU WIDE DATA ON NEW CAR REGISTRATIONS AND CO2 EFFICIENCY](https://skranz.github.io//r/2019/12/17/EU_Cars_CO2.html)
+![Most Recurring Word on each Country's Wikipedia Page](https://raw.githubusercontent.com/rweekly/image/master/2019/print-maps.png)
+
++ [Exploring Eu Wide Data on New Car Registrations and Co2 Efficiency](https://skranz.github.io//r/2019/12/17/EU_Cars_CO2.html)
 
 + [Collecting and Analyzing Twitter Data Using R](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/collecting-and-analyzing-twitter-using-r.knit/)
 
@@ -54,7 +59,7 @@ Release Date: 2019-12-23
 
 ###  Resources
 
-[Using the rco package to optimise R code](https://oliverfogelin.github.io/rco-Package/)
+
 
 ###  New Packages
 
@@ -78,13 +83,11 @@ Release Date: 2019-12-23
 
 ### Updated Packages
 
-[mlr 2.16.0: Machine Learning in R (mlr.mlr-org.com)](https://mlr.mlr-org.com/news/news-2.16.html)
++ [BH 1.72.0-2](http://dirk.eddelbuettel.com/blog/2019/12/17#bh_1.72.0-2)
 
++ [Paletteer 1.0.0](https://www.hvitfeldt.me/blog/paletteer-version-1-0-0/)
 
-
-+ [BH 1.72.0-2 on CRAN](http://dirk.eddelbuettel.com/blog/2019/12/17#bh_1.72.0-2)
-
-+ [Paletteer version 1.0.0](https://www.hvitfeldt.me/blog/paletteer-version-1-0-0/)
+![Paletteer 1.0.0](https://raw.githubusercontent.com/rweekly/image/master/2019/prismatic1.png)
 
 + [RSAGA 1.0.0](https://www.r-spatial.org//r/2019/12/20/RSAGA-1.0.0.html)
 
@@ -93,7 +96,7 @@ Release Date: 2019-12-23
 
 ###  Videos and Podcasts
 
-
++ [Letter To A Young Maintainer](https://www.youtube.com/watch?v=1K7u5hkciLI&feature=emb_logo)
 
 ### Gist & Cookbook
 
@@ -107,6 +110,7 @@ Release Date: 2019-12-23
 
 + [New rquery Vignette: Working with Many Columns](http://www.win-vector.com/blog/2019/12/new-rquery-vignette-working-with-many-columns/)
 
+[Using the rco package to optimise R code](https://oliverfogelin.github.io/rco-Package/)
 
 
 
@@ -116,6 +120,8 @@ Release Date: 2019-12-23
 + [Quickly Create (Mostly) Responsive HTML Columns With {htmltools}](https://rud.is/b/2019/12/18/quickly-create-mostly-responsive-html-columns-with-htmltools/)
 
 + [Comparison of indices of significance in the Bayesian framework](https://easystats.github.io/blog/posts/bayestestr_evidence_ani/)
+
+![Comparison of indices of significance in the Bayesian framework](https://raw.githubusercontent.com/rweekly/image/master/2019/evidence_accumulation.gif)
 
 + [Shiny Apps: Development and Deployment](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/shiny-apps/)
 
@@ -146,6 +152,8 @@ Release Date: 2019-12-23
 + [Completeing zeroes and dates in R charts](https://www.miskatonic.org/2019/12/16/completing-dates-in-r/) (miskatonic.org)
 
 + [10 Levels of ggplot2: From Basic to Beautiful](https://medium.com/compassred-data-blog/10-levels-of-ggplot2-from-basic-to-beautiful-5ce3c4e7624f)
+
+![10 Levels of ggplot2: From Basic to Beautiful](https://raw.githubusercontent.com/rweekly/image/master/2019/ten-levels.png)
 
 + [How I built an interactive Shiny dashboard in 2 days without any experience in R](https://appsilon.com/how-i-built-an-interactive-shiny-dashboard-in-2-days-without-any-experience-in-r/)
 
