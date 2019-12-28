@@ -68,6 +68,8 @@ Release Date: 2019-12-30
 
 + ['dockr': easy containerization for R](http://smaakage85.netlify.com/2019/12/21/dockr-easy-containerization-for-r/)
 
++ [tfhub: R interface to TensorFlow Hub](https://blogs.rstudio.com/tensorflow/posts/2019-12-18-tfhub-0.7.0/)
+
 **BioC**
 
 
