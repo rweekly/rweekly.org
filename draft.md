@@ -66,7 +66,7 @@ Release Date: 2019-12-30
 
 ###  Tutorials
 
-
++ [Vignette: Downloadable tables in RMarkdown with the DT package](https://martinctc.github.io/blog/vignette-downloadable-tables-in-rmarkdown-with-the-dt-package/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
