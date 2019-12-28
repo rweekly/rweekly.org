@@ -13,16 +13,37 @@ Release Date: 2019-12-30
 
 ### Insights
 
++ [Writing R in VSCode: A Fresh Start](https://renkun.me/2019/12/11/writing-r-in-vscode-a-fresh-start/)
 
++ [Writing R in VSCode: Interacting with an R session](https://renkun.me/2019/12/26/writing-r-in-vscode-interacting-with-an-r-session/)
+
++ [Analysing large data on your laptop with a database and R](http://freerangestats.info/blog/2019/12/22/nyc-taxis-sql)
+
++ [Packages that Sparked Joy in 2019](https://www.rostrum.blog/2019/12/27/pkgs-2019/)
 
 ### R in the Real World
 
++ [The 'largest stock profit or loss' puzzle: efficient computation in R](http://varianceexplained.org/r/stock-changes/)
+
++ [Using #rstats to Help Santa Deliver Presents This Christmas!](https://rud.is/b/2019/12/23/using-rstats-to-help-santa-deliver-presents-this-christmas/)
+
++ [May the XAI be with you!](https://medium.com/@ModelOriented/may-the-xai-be-with-you-6ea82d5b4fcc)
+
++ [The significance of education on the salary in Sweden, a comparison between different occupational groups](http://mikaellundqvist.rbind.io/2019/12/21/the-significance-of-education-on-the-salary-in-sweden-a-comparison-between-different-occupational-groups/)
+
++ [Using R to Analyze Fargo Crime Data](https://technistema.com/posts/using-r-to-analyze-fargo-crime-data/)
+
++ [4 great free tools that can make your R work more efficient, reproducible and robust](https://jozef.io/r920-christmas-praise-2019/)
 
 <!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->
 
 ###  R in Organizations
 
++ [mlr wins Open Source Machine Learning Software Award](https://mlr-org.com/docs/mlr-wins-open-source-machine-learning-software-award/)
 
++ [Want to Intern with rOpenSci’s Community Manager?](https://ropensci.org/blog/2019/12/23/community-intern/)
+
++ [Thank You, 2019](https://ropensci.org/blog/2019/12/23/thankyou/)
 
 ###  R in Academia
 
@@ -30,6 +51,11 @@ Release Date: 2019-12-30
 
 ###  Resources
 
++ [VSCode vs. RStudio​](https://1drv.ms/p/s!Aiu8ihXBTRNkuC_pYGrWKm3IwaZn)
+
++ [An R-based guide to working with ACS/PUMS data](https://github.com/jaytimm/working_with_census_microdata)
+
++ [hexmake](http://connect.thinkr.fr/hexmake/) - Build your own hex sticker
 
 
 ###  New Packages
@@ -38,8 +64,9 @@ Release Date: 2019-12-30
 
 **CRAN**
 
++ [supreme](https://github.com/strboul/supreme) - supreme is a modeling tool helping you better structure Shiny applications developed with modules
 
-
++ ['dockr': easy containerization for R](http://smaakage85.netlify.com/2019/12/21/dockr-easy-containerization-for-r/)
 
 **BioC**
 
@@ -66,7 +93,41 @@ Release Date: 2019-12-30
 
 ###  Tutorials
 
++ [How to use hierarchical cluster analysis on time series data](https://www.storybench.org/how-to-use-hierarchical-cluster-analysis-on-time-series-data/)
+
 + [Vignette: Downloadable tables in RMarkdown with the DT package](https://martinctc.github.io/blog/vignette-downloadable-tables-in-rmarkdown-with-the-dt-package/)
+
++ [Explore Your Data with ExPanD](https://joachim-gassen.github.io/2019/12/explore-your-data-with-expand/)
+
++ [Introducing the bSims R package for simulating bird point counts](https://peter.solymos.org/code/2019/12/22/bsims-package.html)
+
++ [Gold-Mining Week 16 (2019)](https://fantasyfootballanalytics.net/2019/12/gold-mining-week-16-2019.html)
+
++ [Using R and H2O Isolation Forest anomaly detection for data quality, further analysis.](https://laranikalranalytics.blogspot.com/2019/12/using-r-and-h2o-isolation-forest.html)
+
++ [Data Visualization in R vs. Python](https://www.inwt-statistics.com/read-blog/data-visualization-R-versus-python.html)
+
++ [Getting a grip on using BibTeX with R Markdown documents](https://joshuamrosenberg.com/post/2019/12/22/using-bibtex-with-r-markdown/)
+
++ [Short Attention Span Theatre: Reproducing Axios’ “1 Big Thing” Google Trends 2019 News In Review with {ggplot2}](https://rud.is/b/2019/12/27/short-attention-span-theatre-reproducing-axios-1-big-thing-google-trends-2019-news-in-review-with-ggplot2/)
+
++ [Getting started with h2o4gpu](https://www.daeconomist.com/post/2019-12-26-h2o4gpu/)
+
++ [YAP: Yet Another Probabilistic Neural Network](https://statcompute.wordpress.com/2019/12/25/yap-yet-another-probabilistic-neural-network/)
+
++ [Happy Holidays 2019](https://www.littlemissdata.com/blog/happy-holidays-2019)
+
++ [What's in a package?](https://r-house.netlify.com/2019/12/25/whats-in-a-package/)
+
++ [Vignette: Downloadable tables in RMarkdown with the DT package](https://martinctc.github.io/blog/vignette-downloadable-tables-in-rmarkdown-with-the-dt-package/)
+
++ [A Richer Category for Data Wrangling](http://www.win-vector.com/blog/2019/12/a-richer-category-for-data-wrangling/)
+
++ [Learning to Teach Machines to Learn](https://alison.rbind.io/post/2019-12-23-learning-to-teach-machines-to-learn/)
+
++ [Want to Intern with rOpenSci's Community Manager?](https://ropensci.org/blog/2019/12/23/community-intern/)
+
++ [postdoc in Bayesian machine learning in Berlin [reposted]](https://xianblog.wordpress.com/2019/12/24/postdoc-in-bayesian-machine-learning-in-berlin-reposted/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -80,8 +141,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
-
 + [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/)
 
 + [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)
@@ -93,12 +152,11 @@ Events in 3 Months:
 
 ### Datasets
 
-+ [networkdata](https://github.com/schochastics/networkdata) - R package containing several network datasets
 
 
 ### Jobs
 
-
++ [postdoc in Bayesian machine learning in Berlin](https://xianblog.wordpress.com/2019/12/24/postdoc-in-bayesian-machine-learning-in-berlin-reposted/)
 
 
 ###  Call for Participation
@@ -108,3 +166,10 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
+> I love Mondays because that's the day I get the R weekly newsletter.
+
+From an R Weekly reader.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just used the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package `purrr` to read in 53 individual csv files and combine them all easy peasy. I&#39;ve used this approach before, and it never ceases to make me smile. 5 years ago I would have combined them all by hand in Excel. My how far I&#39;ve come. <a href="https://t.co/JFR7fHVJwe">pic.twitter.com/JFR7fHVJwe</a></p>&mdash; Chris Prener (@chrisprener) <a href="https://twitter.com/chrisprener/status/1208040162187448322?ref_src=twsrc%5Etfw">December 20, 2019</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
