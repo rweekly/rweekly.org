@@ -21,6 +21,8 @@ Release Date: 2019-12-30
 
 + [Packages that Sparked Joy in 2019](https://www.rostrum.blog/2019/12/27/pkgs-2019/)
 
++ [Introducing the schrute package the entire transcripts from The Office TV show](https://technistema.com/posts/introducing-the-schrute-package-the-entire-transcripts-from-the-office/)
+
 ### R in the Real World
 
 + [The 'largest stock profit or loss' puzzle: efficient computation in R](http://varianceexplained.org/r/stock-changes/)
