@@ -37,6 +37,8 @@ Release Date: 2019-12-30
 
 + [4 great free tools that can make your R work more efficient, reproducible and robust](https://jozef.io/r920-christmas-praise-2019/)
 
++ [A Bayesian Approach to Ranking English Premier League Teams (using R)](https://tonyelhabr.rbind.io/post/bayesian-statistics-english-premier-league/)
+
 <!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->
 
 ###  R in Organizations
