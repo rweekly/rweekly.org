@@ -17,15 +17,23 @@ Release Date: 2019-12-30
 
 + [Writing R in VSCode: Interacting with an R session](https://renkun.me/2019/12/26/writing-r-in-vscode-interacting-with-an-r-session/)
 
+![Writing R in VSCode: Interacting with an R session](https://raw.githubusercontent.com/rweekly/image/master/2019/shiny-vscode.png)
+
 + [Analysing large data on your laptop with a database and R](http://freerangestats.info/blog/2019/12/22/nyc-taxis-sql)
+
+![Analysing large data on your laptop with a database and R](https://raw.githubusercontent.com/rweekly/image/master/2019/nyu.png)
 
 + [Packages that Sparked Joy in 2019](https://www.rostrum.blog/2019/12/27/pkgs-2019/)
 
 + [Introducing the schrute package the entire transcripts from The Office TV show](https://technistema.com/posts/introducing-the-schrute-package-the-entire-transcripts-from-the-office/)
 
+![Introducing the schrute package the entire transcripts from The Office TV show](https://raw.githubusercontent.com/rweekly/image/master/2019/office.png)
+
 ### R in the Real World
 
 + [The 'largest stock profit or loss' puzzle: efficient computation in R](http://varianceexplained.org/r/stock-changes/)
+
+![The 'largest stock profit or loss' puzzle: efficient computation in R](https://raw.githubusercontent.com/rweekly/image/master/2019/profit.png)
 
 + [Using #rstats to Help Santa Deliver Presents This Christmas!](https://rud.is/b/2019/12/23/using-rstats-to-help-santa-deliver-presents-this-christmas/)
 
@@ -34,6 +42,8 @@ Release Date: 2019-12-30
 + [The significance of education on the salary in Sweden, a comparison between different occupational groups](http://mikaellundqvist.rbind.io/2019/12/21/the-significance-of-education-on-the-salary-in-sweden-a-comparison-between-different-occupational-groups/)
 
 + [Using R to Analyze Fargo Crime Data](https://technistema.com/posts/using-r-to-analyze-fargo-crime-data/)
+
+![Using R to Analyze Fargo Crime Data](https://raw.githubusercontent.com/rweekly/image/master/2019/fargo.png)
 
 + [4 great free tools that can make your R work more efficient, reproducible and robust](https://jozef.io/r920-christmas-praise-2019/)
 
@@ -68,9 +78,9 @@ Release Date: 2019-12-30
 
 + [supreme](https://github.com/strboul/supreme) - supreme is a modeling tool helping you better structure Shiny applications developed with modules
 
-+ ['dockr': easy containerization for R](http://smaakage85.netlify.com/2019/12/21/dockr-easy-containerization-for-r/)
++ [dockr](http://smaakage85.netlify.com/2019/12/21/dockr-easy-containerization-for-r/) - easy containerization for R
 
-+ [tfhub: R interface to TensorFlow Hub](https://blogs.rstudio.com/tensorflow/posts/2019-12-18-tfhub-0.7.0/)
++ [tfhub](https://blogs.rstudio.com/tensorflow/posts/2019-12-18-tfhub-0.7.0/) - R interface to TensorFlow Hub
 
 **BioC**
 
@@ -105,6 +115,8 @@ Release Date: 2019-12-30
 
 + [Introducing the bSims R package for simulating bird point counts](https://peter.solymos.org/code/2019/12/22/bsims-package.html)
 
+![Introducing the bSims R package for simulating bird point counts](https://raw.githubusercontent.com/rweekly/image/master/2019/bSims-intro.png)
+
 + [Gold-Mining Week 16 (2019)](https://fantasyfootballanalytics.net/2019/12/gold-mining-week-16-2019.html)
 
 + [Using R and H2O Isolation Forest anomaly detection for data quality, further analysis.](https://laranikalranalytics.blogspot.com/2019/12/using-r-and-h2o-isolation-forest.html)
@@ -115,6 +127,8 @@ Release Date: 2019-12-30
 
 + [Short Attention Span Theatre: Reproducing Axios’ “1 Big Thing” Google Trends 2019 News In Review with {ggplot2}](https://rud.is/b/2019/12/27/short-attention-span-theatre-reproducing-axios-1-big-thing-google-trends-2019-news-in-review-with-ggplot2/)
 
+![Short Attention Span Theatre: Reproducing Axios’ “1 Big Thing” Google Trends 2019 News In Review with](https://raw.githubusercontent.com/rweekly/image/master/2019/1-big-thing.png)
+
 + [Getting started with h2o4gpu](https://www.daeconomist.com/post/2019-12-26-h2o4gpu/)
 
 + [YAP: Yet Another Probabilistic Neural Network](https://statcompute.wordpress.com/2019/12/25/yap-yet-another-probabilistic-neural-network/)
@@ -123,15 +137,11 @@ Release Date: 2019-12-30
 
 + [What's in a package?](https://r-house.netlify.com/2019/12/25/whats-in-a-package/)
 
-+ [Vignette: Downloadable tables in RMarkdown with the DT package](https://martinctc.github.io/blog/vignette-downloadable-tables-in-rmarkdown-with-the-dt-package/)
-
 + [A Richer Category for Data Wrangling](http://www.win-vector.com/blog/2019/12/a-richer-category-for-data-wrangling/)
 
 + [Learning to Teach Machines to Learn](https://alison.rbind.io/post/2019-12-23-learning-to-teach-machines-to-learn/)
 
 + [Want to Intern with rOpenSci's Community Manager?](https://ropensci.org/blog/2019/12/23/community-intern/)
-
-+ [postdoc in Bayesian machine learning in Berlin [reposted]](https://xianblog.wordpress.com/2019/12/24/postdoc-in-bayesian-machine-learning-in-berlin-reposted/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
