@@ -20,6 +20,8 @@ Release Date: 2020-01-06
 
 <!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->
 
++ [A Bayesian Approach to Ranking English Premier League Teams (using R)](https://tonyelhabr.rbind.io/post/bayesian-statistics-english-premier-league/)
+
 ###  R in Organizations
 
 
