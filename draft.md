@@ -31,6 +31,8 @@ Release Date: 2020-01-06
 
 <!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->
 
++ [Understanding + classifying song genres using Spotify audio features](https://www.kaylinpavlik.com/classifying-songs-genres/)
+
 ###  R in Organizations
 
 
