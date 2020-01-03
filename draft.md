@@ -13,10 +13,21 @@ Release Date: 2020-01-06
 
 ### Insights
 
++ [Packages that Sparked Joy in 2019](https://www.rostrum.blog/2019/12/27/pkgs-2019/)
 
++ [dbplyr : A Path to More Inclusive Data Transformations at the ACLU](https://medium.com/aclu-tech-analytics/dbplyr-a-path-to-more-inclusive-data-transformations-at-the-aclu-5e6af21f4042)
+
++ [Best TidyTuesday 2019](https://cedricscherer.netlify.com/2019/12/30/best-tidytuesday-2019/)
+
++ [Why I use R](https://blog.shotwell.ca/posts/why_i_use_r/)
 
 ### R in the Real World
 
++ [Modeling salary and gender in the tech industry](https://juliasilge.com/blog/salary-gender/)
+
++ [Access Chez Scheme documentation from the REPL](https://www.travishinkelman.com/post/access-chez-scheme-documentation-from-repl/)
+
++ [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
 
 <!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->
 
@@ -48,7 +59,7 @@ Release Date: 2020-01-06
 
 ### Updated Packages
 
-
++ [{waiter 0.1.0}](https://waiter.john-coene.com/#/)
 
 ###  Videos and Podcasts
 
@@ -64,8 +75,13 @@ Release Date: 2020-01-06
 
 ###  Tutorials
 
++ [A Bayesian Approach to Ranking English Premier League Teams (using R)](https://tonyelhabr.rbind.io/post/bayesian-statistics-english-premier-league/)
 
++ [Visualizing Daniel Johnston's Music](https://davidsmale.netlify.com/portfolio/daniel-johnston/)
 
++ [Route mapping from GPS files](https://www.meganstodel.com/posts/route-mapping-app/)
+
++ [Create a dynamic dashboard with R, flexdashboard, and Shiny](https://www.andrewheiss.com/blog/2020/01/01/flexdashboard-dynamic-data/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
