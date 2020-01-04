@@ -30,7 +30,11 @@ Release Date: 2020-01-06
 
 + [Understanding + classifying genres using Spotify audio features](https://www.kaylinpavlik.com/classifying-songs-genres/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-06/audio-feature-density.png)
+
 + [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-06/emoji-plot.png)
 
 + [A Bayesian Approach to Ranking English Premier League Teams (using R)](https://tonyelhabr.rbind.io/post/bayesian-statistics-english-premier-league/)
 
@@ -81,6 +85,8 @@ Release Date: 2020-01-06
 ###  Tutorials
 
 + [Visualizing Daniel Johnston's Music](https://davidsmale.netlify.com/portfolio/daniel-johnston/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-06/daniel-johnston.png)
 
 + [Route mapping from GPS files](https://www.meganstodel.com/posts/route-mapping-app/)
 
