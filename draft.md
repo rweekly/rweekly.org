@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2019-52
+title: R Weekly 2020-01
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-12-30
+Release Date: 2020-01-06
 
 ###  Highlight
 
@@ -13,29 +13,23 @@ Release Date: 2019-12-30
 
 ### Insights
 
-+ [Writing R in VSCode: A Fresh Start](https://renkun.me/2019/12/11/writing-r-in-vscode-a-fresh-start/)
-
-+ [Writing R in VSCode: Interacting with an R session](https://renkun.me/2019/12/26/writing-r-in-vscode-interacting-with-an-r-session/)
-
-+ [Analysing large data on your laptop with a database and R](http://freerangestats.info/blog/2019/12/22/nyc-taxis-sql)
-
 + [Packages that Sparked Joy in 2019](https://www.rostrum.blog/2019/12/27/pkgs-2019/)
 
-+ [Introducing the schrute package the entire transcripts from The Office TV show](https://technistema.com/posts/introducing-the-schrute-package-the-entire-transcripts-from-the-office/)
++ [dbplyr : A Path to More Inclusive Data Transformations at the ACLU](https://medium.com/aclu-tech-analytics/dbplyr-a-path-to-more-inclusive-data-transformations-at-the-aclu-5e6af21f4042)
+
++ [Best TidyTuesday 2019](https://cedricscherer.netlify.com/2019/12/30/best-tidytuesday-2019/)
+
++ [Why I use R](https://blog.shotwell.ca/posts/why_i_use_r/)
 
 ### R in the Real World
 
-+ [The 'largest stock profit or loss' puzzle: efficient computation in R](http://varianceexplained.org/r/stock-changes/)
++ [Modeling salary and gender in the tech industry](https://juliasilge.com/blog/salary-gender/)
 
-+ [Using #rstats to Help Santa Deliver Presents This Christmas!](https://rud.is/b/2019/12/23/using-rstats-to-help-santa-deliver-presents-this-christmas/)
++ [Access Chez Scheme documentation from the REPL](https://www.travishinkelman.com/post/access-chez-scheme-documentation-from-repl/)
 
-+ [May the XAI be with you!](https://medium.com/@ModelOriented/may-the-xai-be-with-you-6ea82d5b4fcc)
++ [Understanding + classifying genres using Spotify audio features](https://www.kaylinpavlik.com/classifying-songs-genres/)
 
-+ [The significance of education on the salary in Sweden, a comparison between different occupational groups](http://mikaellundqvist.rbind.io/2019/12/21/the-significance-of-education-on-the-salary-in-sweden-a-comparison-between-different-occupational-groups/)
-
-+ [Using R to Analyze Fargo Crime Data](https://technistema.com/posts/using-r-to-analyze-fargo-crime-data/)
-
-+ [4 great free tools that can make your R work more efficient, reproducible and robust](https://jozef.io/r920-christmas-praise-2019/)
++ [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
 
 + [A Bayesian Approach to Ranking English Premier League Teams (using R)](https://tonyelhabr.rbind.io/post/bayesian-statistics-english-premier-league/)
 
@@ -43,11 +37,6 @@ Release Date: 2019-12-30
 
 ###  R in Organizations
 
-+ [mlr wins Open Source Machine Learning Software Award](https://mlr-org.com/docs/mlr-wins-open-source-machine-learning-software-award/)
-
-+ [Want to Intern with rOpenSci’s Community Manager?](https://ropensci.org/blog/2019/12/23/community-intern/)
-
-+ [Thank You, 2019](https://ropensci.org/blog/2019/12/23/thankyou/)
 
 ###  R in Academia
 
@@ -55,11 +44,6 @@ Release Date: 2019-12-30
 
 ###  Resources
 
-+ [VSCode vs. RStudio​](https://1drv.ms/p/s!Aiu8ihXBTRNkuC_pYGrWKm3IwaZn)
-
-+ [An R-based guide to working with ACS/PUMS data](https://github.com/jaytimm/working_with_census_microdata)
-
-+ [hexmake](http://connect.thinkr.fr/hexmake/) - Build your own hex sticker
 
 
 ###  New Packages
@@ -68,11 +52,7 @@ Release Date: 2019-12-30
 
 **CRAN**
 
-+ [supreme](https://github.com/strboul/supreme) - supreme is a modeling tool helping you better structure Shiny applications developed with modules
 
-+ ['dockr': easy containerization for R](http://smaakage85.netlify.com/2019/12/21/dockr-easy-containerization-for-r/)
-
-+ [tfhub: R interface to TensorFlow Hub](https://blogs.rstudio.com/tensorflow/posts/2019-12-18-tfhub-0.7.0/)
 
 **BioC**
 
@@ -83,7 +63,7 @@ Release Date: 2019-12-30
 
 ### Updated Packages
 
-
++ [{waiter 0.1.0}](https://waiter.john-coene.com/#/)
 
 ###  Videos and Podcasts
 
@@ -99,42 +79,11 @@ Release Date: 2019-12-30
 
 ###  Tutorials
 
-+ [How to use hierarchical cluster analysis on time series data](https://www.storybench.org/how-to-use-hierarchical-cluster-analysis-on-time-series-data/)
++ [Visualizing Daniel Johnston's Music](https://davidsmale.netlify.com/portfolio/daniel-johnston/)
 
-+ [Vignette: Downloadable tables in RMarkdown with the DT package](https://martinctc.github.io/blog/vignette-downloadable-tables-in-rmarkdown-with-the-dt-package/)
++ [Route mapping from GPS files](https://www.meganstodel.com/posts/route-mapping-app/)
 
-+ [Explore Your Data with ExPanD](https://joachim-gassen.github.io/2019/12/explore-your-data-with-expand/)
-
-+ [Introducing the bSims R package for simulating bird point counts](https://peter.solymos.org/code/2019/12/22/bsims-package.html)
-
-+ [Gold-Mining Week 16 (2019)](https://fantasyfootballanalytics.net/2019/12/gold-mining-week-16-2019.html)
-
-+ [Using R and H2O Isolation Forest anomaly detection for data quality, further analysis.](https://laranikalranalytics.blogspot.com/2019/12/using-r-and-h2o-isolation-forest.html)
-
-+ [Data Visualization in R vs. Python](https://www.inwt-statistics.com/read-blog/data-visualization-R-versus-python.html)
-
-+ [Getting a grip on using BibTeX with R Markdown documents](https://joshuamrosenberg.com/post/2019/12/22/using-bibtex-with-r-markdown/)
-
-+ [Short Attention Span Theatre: Reproducing Axios’ “1 Big Thing” Google Trends 2019 News In Review with {ggplot2}](https://rud.is/b/2019/12/27/short-attention-span-theatre-reproducing-axios-1-big-thing-google-trends-2019-news-in-review-with-ggplot2/)
-
-+ [Getting started with h2o4gpu](https://www.daeconomist.com/post/2019-12-26-h2o4gpu/)
-
-+ [YAP: Yet Another Probabilistic Neural Network](https://statcompute.wordpress.com/2019/12/25/yap-yet-another-probabilistic-neural-network/)
-
-+ [Happy Holidays 2019](https://www.littlemissdata.com/blog/happy-holidays-2019)
-
-+ [What's in a package?](https://r-house.netlify.com/2019/12/25/whats-in-a-package/)
-
-+ [Vignette: Downloadable tables in RMarkdown with the DT package](https://martinctc.github.io/blog/vignette-downloadable-tables-in-rmarkdown-with-the-dt-package/)
-
-+ [A Richer Category for Data Wrangling](http://www.win-vector.com/blog/2019/12/a-richer-category-for-data-wrangling/)
-
-+ [Learning to Teach Machines to Learn](https://alison.rbind.io/post/2019-12-23-learning-to-teach-machines-to-learn/)
-
-+ [Want to Intern with rOpenSci's Community Manager?](https://ropensci.org/blog/2019/12/23/community-intern/)
-
-+ [postdoc in Bayesian machine learning in Berlin [reposted]](https://xianblog.wordpress.com/2019/12/24/postdoc-in-bayesian-machine-learning-in-berlin-reposted/)
-
++ [Create a dynamic dashboard with R, flexdashboard, and Shiny](https://www.andrewheiss.com/blog/2020/01/01/flexdashboard-dynamic-data/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -162,7 +111,7 @@ Events in 3 Months:
 
 ### Jobs
 
-+ [postdoc in Bayesian machine learning in Berlin](https://xianblog.wordpress.com/2019/12/24/postdoc-in-bayesian-machine-learning-in-berlin-reposted/)
+
 
 
 ###  Call for Participation
@@ -172,10 +121,4 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
-> I love Mondays because that's the day I get the R weekly newsletter.
 
-From an R Weekly reader.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just used the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package `purrr` to read in 53 individual csv files and combine them all easy peasy. I&#39;ve used this approach before, and it never ceases to make me smile. 5 years ago I would have combined them all by hand in Excel. My how far I&#39;ve come. <a href="https://t.co/JFR7fHVJwe">pic.twitter.com/JFR7fHVJwe</a></p>&mdash; Chris Prener (@chrisprener) <a href="https://twitter.com/chrisprener/status/1208040162187448322?ref_src=twsrc%5Etfw">December 20, 2019</a></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
