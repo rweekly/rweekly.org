@@ -12,6 +12,7 @@ Release Date: 2020-01-06
 
 
 ### Insights
+* [Object Dectection](https://heartbeat.fritz.ai/object-detection-in-just-3-lines-of-r-code-using-tiny-yolo-b5a16e50e8a0) using YOLO.
 
 + [Packages that Sparked Joy in 2019](https://www.rostrum.blog/2019/12/27/pkgs-2019/)
 
