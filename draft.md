@@ -27,6 +27,8 @@ Release Date: 2020-01-06
 
 + [Access Chez Scheme documentation from the REPL](https://www.travishinkelman.com/post/access-chez-scheme-documentation-from-repl/)
 
++ [Understanding + classifying genres using Spotify audio features](https://www.kaylinpavlik.com/classifying-songs-genres/)
+
 + [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
 
 <!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->
