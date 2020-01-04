@@ -31,6 +31,8 @@ Release Date: 2020-01-06
 
 + [Real Emojis in ggplot2](https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/)
 
++ [A Bayesian Approach to Ranking English Premier League Teams (using R)](https://tonyelhabr.rbind.io/post/bayesian-statistics-english-premier-league/)
+
 <!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->
 
 ###  R in Organizations
@@ -77,8 +79,6 @@ Release Date: 2020-01-06
 
 ###  Tutorials
 
-+ [A Bayesian Approach to Ranking English Premier League Teams (using R)](https://tonyelhabr.rbind.io/post/bayesian-statistics-english-premier-league/)
-
 + [Visualizing Daniel Johnston's Music](https://davidsmale.netlify.com/portfolio/daniel-johnston/)
 
 + [Route mapping from GPS files](https://www.meganstodel.com/posts/route-mapping-app/)
@@ -120,4 +120,5 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
 
