@@ -87,6 +87,7 @@ Release Date: 2020-01-06
 
 ### R Internationally
 
++ [Créer des applications Shiny avec {golem}](https://speakerdeck.com/colinfay/creer-des-applications-shiny-avec-golem) 🇫🇷 
 
 ###  Tutorials
 
