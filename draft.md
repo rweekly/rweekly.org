@@ -12,6 +12,7 @@ Release Date: 2020-01-06
 
 
 ### Insights
+
 * [Object Dectection](https://heartbeat.fritz.ai/object-detection-in-just-3-lines-of-r-code-using-tiny-yolo-b5a16e50e8a0) using YOLO.
 
 + [Packages that Sparked Joy in 2019](https://www.rostrum.blog/2019/12/27/pkgs-2019/)
@@ -21,6 +22,10 @@ Release Date: 2020-01-06
 + [Best TidyTuesday 2019](https://cedricscherer.netlify.com/2019/12/30/best-tidytuesday-2019/)
 
 + [Why I use R](https://blog.shotwell.ca/posts/why_i_use_r/)
+
++ [Can Genealogical data be tidy?](https://r-house.netlify.com/2019/12/30/can-genealogical-data-be-tidy/)
+
++ [Kaggle User Survey Dashboard— 2019](https://towardsdatascience.com/kaggle-user-survey-2019-326e187ff207)
 
 ### R in the Real World
 
@@ -38,6 +43,8 @@ Release Date: 2020-01-06
 
 + [A Bayesian Approach to Ranking English Premier League Teams (using R)](https://tonyelhabr.rbind.io/post/bayesian-statistics-english-premier-league/)
 
++ [Analyzing My 2019 GitHub Usage in R](https://tbradley1013.github.io/2020/01/02/analyzing-my-2019-github-usage-in-r/)
+
 <!-- + [MERRY CRISPMAS - a festive, data-driven short story](https://merry-crispmas.netlify.com/) -->
 
 ###  R in Organizations
@@ -49,19 +56,11 @@ Release Date: 2020-01-06
 
 ###  Resources
 
-
++ [In Review: Your 2019 on Twitter](https://gadenbuie.shinyapps.io/tweets-of-2019/)
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
-**CRAN**
-
-
-
-**BioC**
-
-
 
 **GitHub or Bitbucket**
 
@@ -70,14 +69,21 @@ Release Date: 2020-01-06
 
 + [{waiter 0.1.0}](https://waiter.john-coene.com/#/)
 
++ [{encryptedRmd} — Password protected markdown html reports in R using libsodium](https://github.com/dirkschumacher/encryptedRmd)
+
++ [{details} — Create Details HTML Tag for Markdown and Package Documentation](https://yonicd.github.io/details/index.html)
+
 ###  Videos and Podcasts
 
++ [96 - R in 10 Years](http://nssdeviations.com/96-r-in-10-years)
 
-
++ [How to write an R package](https://www.infoworld.com/article/3346261/how-to-write-an-r-package.html)
 
 ### Gist & Cookbook
 
++ [Releasing and open-sourcing the Using Spark from R for performance with arbitrary code series](https://jozef.io/r206-spark-r-releasing-bookdown/)
 
++ [Shiny Production with AWS](https://business-science.github.io/shiny-production-with-aws-book/)
 
 ### R Internationally
 
@@ -91,6 +97,20 @@ Release Date: 2020-01-06
 + [Route mapping from GPS files](https://www.meganstodel.com/posts/route-mapping-app/)
 
 + [Create a dynamic dashboard with R, flexdashboard, and Shiny](https://www.andrewheiss.com/blog/2020/01/01/flexdashboard-dynamic-data/)
+
++ [Playing with post-hoc power with R – why we shouldn’t do it](https://talesofr.wordpress.com/2020/01/04/playing-with-post-hoc-power-with-r-why-we-shouldnt-do-it/)
+
++ [The birthday paradox puzzle: tidy simulation in R](http://varianceexplained.org/r/birthday-problem/)
+
+![birthday-problem](http://varianceexplained.org/figs/2020-01-03-birthday-problem/graph_groups-1.png)
+
++ [Writing Frictionless R Package Wrappers — Introduction](https://rud.is/b/2020/01/01/writing-frictionless-r-package-wrappers-introduction/)
+
++ [Writing Frictionless R Package Wrappers — Building A Basic R Package](https://rud.is/b/2020/01/03/writing-frictionless-r-package-wrappers-building-a-basic-r-package/)
+
++ [mapply and Map in R](http://theautomatic.net/2019/12/30/mapply-and-map-in-r/)
+
++ [How to make any plot look better](https://ggplot2tor.com/make_any_plot_look_better/make_any_plot_look_better/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -112,15 +132,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
-### Datasets
-
-
-
-### Jobs
-
-
-
-
 ###  Call for Participation
 
 
@@ -128,4 +139,4 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So, what are your 2020 <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> goals?</p>&mdash; Colin Fay 🤘 (@_ColinFay) <a href="https://twitter.com/_ColinFay/status/1212341627081105408?ref_src=twsrc%5Etfw">January 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
