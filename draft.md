@@ -47,7 +47,7 @@ Release Date: 2020-01-13
 
 **GitHub or Bitbucket**
 
-
++ [`browse`](https://github.com/tmastny/browse), Navigate and generate links to remote files 
 
 ### Updated Packages
 
