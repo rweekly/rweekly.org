@@ -17,6 +17,8 @@ Release Date: 2020-01-13
 
 ### R in the Real World
 
++ [Quick Time Series Analysis of the CCI30 Cryptocurrency Index](https://www.remixinstitute.com/blog/quick-time-series-analysis-of-the-cci30-crypto-index)
+
 
 
 ###  R in Organizations
