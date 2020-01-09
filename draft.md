@@ -31,7 +31,7 @@ Release Date: 2020-01-13
 
 ###  Resources
 
-
++ [Open materials for teaching reproducible research by the psyTeachR team at the University of Glasgow School of Psychology.](https://psyteachr.github.io/)
 
 ###  New Packages
 
@@ -101,7 +101,15 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
++ [Forwards Southern Africa Project 2020](https://www.crowdfunder.co.uk/forwards-southern-africa-project-2020#): Help us put on R workshops and meetups in Southern Africa to support the development of the local R community.  (crowdfunding)
+
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When CRAN opens the doors after the holidays ...<br><br>155 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> packages in the &#39;pretest&#39; stage right now <a href="https://t.co/on2A7L0im1">pic.twitter.com/on2A7L0im1</a></p>&mdash; Henrik Bengtsson (@henrikbengtsson) <a href="https://twitter.com/henrikbengtsson/status/1214563967101616130?ref_src=twsrc%5Etfw">January 7, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Words of wisdom from <a href="https://twitter.com/allison_horst?ref_src=twsrc%5Etfw">@allison_horst</a> to her data analysis class this quarter: You don&#39;t need to be a mechanic to drive a car safely, and you don&#39;t need to be a computer scientist or developer to use R safely. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/tidytuesday?src=hash&amp;ref_src=twsrc%5Etfw">#tidytuesday</a></p>&mdash; Amelia Ritger (@ameliaritger) <a href="https://twitter.com/ameliaritger/status/1214682596182904832?ref_src=twsrc%5Etfw">January 7, 2020</a></blockquote> 
+
+
