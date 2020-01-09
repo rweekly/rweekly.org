@@ -64,7 +64,7 @@ Release Date: 2020-01-13
 
 
 ###  Tutorials
-
++ [Building Color Palette Proofs of Concept with purrr and ggplot2](https://data-chronicler.netlify.com/2020/01/08/2019-12-30-building-color-palette-proof-of-concepts-with-purrr-and-ggplot2/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
