@@ -47,7 +47,9 @@ Release Date: 2020-01-13
 
 **GitHub or Bitbucket**
 
-+ [`browse`](https://github.com/tmastny/browse), Navigate and generate links to remote files 
++ [`browse`](https://github.com/tmastny/browse), Navigate and generate links to remote files
+
++ [`ravelRy`](https://github.com/walkerkq/ravelRy), an interface to the Ravelry API
 
 ### Updated Packages
 
