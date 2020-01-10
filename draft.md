@@ -76,11 +76,13 @@ Release Date: 2020-01-13
 
 + [Données manquantes – causes, identification et imputation](https://thinkr.fr/donnees-manquantes-causes-identification-et-imputation/)
 
++ [Sneak peek of {ggplot2 3.3.0} (Japanese)](https://notchained.hatenablog.com/entry/2020/01/07/222536)
+
 ###  Tutorials
 
 + [Building Color Palette Proofs of Concept with purrr and ggplot2](https://data-chronicler.netlify.com/2020/01/08/2019-12-30-building-color-palette-proof-of-concepts-with-purrr-and-ggplot2/)
 
-+ [Use {patchwork} and R Markdown for multi-image slide layouts in PowerPoint](https://mattherman.info/blog/ppt-patchwork/)s
++ [Use {patchwork} and R Markdown for multi-image slide layouts in PowerPoint](https://mattherman.info/blog/ppt-patchwork/)
 
 + [Exploring the Curse of Dimensionality - Part I.](https://juanitorduz.github.io/exploring-the-curse-of-dimensionality-part-i./)
 
