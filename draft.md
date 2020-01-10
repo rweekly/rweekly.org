@@ -54,6 +54,10 @@ Release Date: 2020-01-13
 
 + [`sessionDiffo`, Compare `sessionInfo`s in a smooth way](https://federicomarini.github.io/sessionDiffo)
 
++ [`tweetbotornot2`, Detect Twitter Bots – Accurate AND Fast!](https://github.com/mkearney/tweetbotornot2)
+
++ [`slackteams`, Manage and Interact with multiple Slack teams in R](https://yonicd.github.io/slackteams/)
+
 ### Updated Packages
 
 + [`tidylog`](https://elbersb.com/public/posts/tidylog100/), feedback for dplyr and tidyr commands
