@@ -64,7 +64,7 @@ Release Date: 2020-01-13
 
 ### R Internationally
 
-
++ [Données manquantes – causes, identification et imputation](https://thinkr.fr/donnees-manquantes-causes-identification-et-imputation/)
 
 ###  Tutorials
 
@@ -73,6 +73,9 @@ Release Date: 2020-01-13
 + [Use {patchwork} and R Markdown for multi-image slide layouts in PowerPoint](https://mattherman.info/blog/ppt-patchwork/)s
 
 + [Exploring the Curse of Dimensionality - Part I.](https://juanitorduz.github.io/exploring-the-curse-of-dimensionality-part-i./)
+
++ [How to use your Garmin watch to tell your team you’re going for a run](https://colinfay.me/api-call-garmin-watch/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -83,6 +86,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [`{golem}` live coding - 2020-01-13 21.00 Paris time](https://thinkr-open.github.io/golemstream/)
 
 + [Tokhinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/)
 
