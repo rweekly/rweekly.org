@@ -50,8 +50,6 @@ Release Date: 2020-01-13
 
 + [`ravelRy`, an interface to the Ravelry API](https://github.com/walkerkq/ravelRy)
 
-+ [`encryptedRmd`, assword protected markdown html reports in R using libsodium ](https://github.com/dirkschumacher/encryptedRmd)
-
 + [`sessionDiffo`, Compare `sessionInfo`s in a smooth way](https://federicomarini.github.io/sessionDiffo)
 
 + [`tweetbotornot2`, Detect Twitter Bots – Accurate AND Fast!](https://github.com/mkearney/tweetbotornot2)
