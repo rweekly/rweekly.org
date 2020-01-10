@@ -15,6 +15,8 @@ Release Date: 2020-01-13
 
 + [From Shock to Competence: How Not to Panic When You Receive E-mail from CRAN about Failed Checks](https://blog.r-hub.io/2020/01/08/cran-error/)
 
++ [Building a Data Science Workstation: An opinionated walkthrough on choosing optimal computer parts for working in R](https://www.brucemeng.ca/post/building-a-ds-workstation/)
+
 ### R in the Real World
 
 + [Quick Time Series Analysis of the CCI30 Cryptocurrency Index](https://www.remixinstitute.com/blog/quick-time-series-analysis-of-the-cci30-crypto-index)
