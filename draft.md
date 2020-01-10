@@ -46,11 +46,7 @@ Release Date: 2020-01-13
 
 **GitHub or Bitbucket**
 
-+ [`browse`](https://github.com/tmastny/browse), Navigate and generate links to remote files
-
-+ [`ravelRy`](https://github.com/walkerkq/ravelRy), an interface to the Ravelry API
-
-### Updated Packages
++ [`browse`](, Navigate and generate links to remote fileshttps://github.com/tmastny/browse), + [`ravelRy`](, an interface to the Ravelry APIhttps://github.com/walkerkq/ravelRy), ### Updated Packages
 
 + [`tidylog`](https://elbersb.com/public/posts/tidylog100/), feedback for dplyr and tidyr commands
 
