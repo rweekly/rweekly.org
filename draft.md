@@ -50,6 +50,10 @@ Release Date: 2020-01-13
 
 + [`ravelRy`, an interface to the Ravelry API](https://github.com/walkerkq/ravelRy)
 
++ [`encryptedRmd`, assword protected markdown html reports in R using libsodium ](https://github.com/dirkschumacher/encryptedRmd)
+
++ [`sessionDiffo`, Compare `sessionInfo`s in a smooth way](https://federicomarini.github.io/sessionDiffo)
+
 ### Updated Packages
 
 + [`tidylog`](https://elbersb.com/public/posts/tidylog100/), feedback for dplyr and tidyr commands
@@ -98,6 +102,8 @@ Events in 3 Months:
 + [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/)
 
 + [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)
+
++ [satRday Newcastle upon Tyne, April the 4th](https://newcastle2020.satrdays.org/), Call for speakers for #satRdayNCL closes 31st Jan.
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
