@@ -19,7 +19,7 @@ Release Date: 2020-01-13
 
 + [Quick Time Series Analysis of the CCI30 Cryptocurrency Index](https://www.remixinstitute.com/blog/quick-time-series-analysis-of-the-cci30-crypto-index)
 
-
++ [Twitter in collage: a year in the life of a freshman Congresswoman](https://www.jtimm.net/2020/01/05/2020-01-01a-year-in-twitter-photos/)
 
 ###  R in Organizations
 
@@ -40,7 +40,6 @@ Release Date: 2020-01-13
 **CRAN**
 
 
-
 **BioC**
 
 
@@ -53,7 +52,7 @@ Release Date: 2020-01-13
 
 ### Updated Packages
 
-
++ [`tidylog`](https://elbersb.com/public/posts/tidylog100/), feedback for dplyr and tidyr commands
 
 ###  Videos and Podcasts
 
@@ -68,9 +67,12 @@ Release Date: 2020-01-13
 
 
 ###  Tutorials
+
 + [Building Color Palette Proofs of Concept with purrr and ggplot2](https://data-chronicler.netlify.com/2020/01/08/2019-12-30-building-color-palette-proof-of-concepts-with-purrr-and-ggplot2/)
 
++ [Use {patchwork} and R Markdown for multi-image slide layouts in PowerPoint](https://mattherman.info/blog/ppt-patchwork/)s
 
++ [Exploring the Curse of Dimensionality - Part I.](https://juanitorduz.github.io/exploring-the-curse-of-dimensionality-part-i./)
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
