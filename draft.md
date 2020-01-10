@@ -64,7 +64,7 @@ Release Date: 2020-01-13
 
 ### R Internationally
 
-
++ [Données manquantes – causes, identification et imputation](https://thinkr.fr/donnees-manquantes-causes-identification-et-imputation/)
 
 ###  Tutorials
 
@@ -76,6 +76,7 @@ Release Date: 2020-01-13
 
 + [Daily Volumes, Holidays and BLS Reports](https://rviews.rstudio.com/2020/01/06/daily-volumes-holidays-and-bls-reports/)
 
++ [How to use your Garmin watch to tell your team you’re going for a run](https://colinfay.me/api-call-garmin-watch/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -88,7 +89,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ + [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/)
++ [`{golem}` live coding - 2020-01-13 21.00 Paris time](https://thinkr-open.github.io/golemstream/)
+
++ [Thinking about rstudio::conf 2020? See the full conference schedule!](https://blog.rstudio.com/2019/11/25/thinking-about-rstudio-conf-2020-see-the-full-conference-schedule/)
 
 + [Tidyverse Dev Day, January 31](https://www.tidyverse.org/blog/2019/11/tidyverse-dev-day-2020/)
 
