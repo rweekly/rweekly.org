@@ -15,6 +15,8 @@ Release Date: 2020-01-13
 
 + [From Shock to Competence: How Not to Panic When You Receive E-mail from CRAN about Failed Checks](https://blog.r-hub.io/2020/01/08/cran-error/)
 
++ [Overfitting: a guided tour](https://www.alexpghayes.com/blog/overfitting-a-guided-tour/)
+
 ### R in the Real World
 
 + [Quick Time Series Analysis of the CCI30 Cryptocurrency Index](https://www.remixinstitute.com/blog/quick-time-series-analysis-of-the-cci30-crypto-index)
@@ -24,6 +26,8 @@ Release Date: 2020-01-13
 + [The 'Spelling Bee Honeycomb' puzzle: efficient computation in R](http://varianceexplained.org/r/honeycomb-puzzle/)
 
 + [How to use your Garmin watch to tell your team you’re going for a run](https://colinfay.me/api-call-garmin-watch/)
+
++ [Counting Days in Canada: Using ggmap to track time spent in Canada](https://theaknowles.com/post/canada-days-counter/)
 
 ###  R in Organizations
 
@@ -113,6 +117,10 @@ Release Date: 2020-01-13
 + [Complex coloring and contour levels](https://a-blog-from-sydney.blogspot.com/2020/01/complex-coloring-and-contour-levels.html)
 
 + [Visual Testing for Graphics in R](https://www.stat.auckland.ac.nz/~paul/Reports/QA/gdiff/gdiff.html)
+
++ [Exploring tidyr pivot_longer function on water chemistry data.](https://waterdata.usgs.gov/blog/pivot/)
+
++ [Efficient iterations in R](https://towardsdatascience.com/iterate-your-r-code-efficiently-3c621998eaea)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
