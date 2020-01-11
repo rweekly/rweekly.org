@@ -21,6 +21,10 @@ Release Date: 2020-01-13
 
 + [Twitter in collage: a year in the life of a freshman Congresswoman](https://www.jtimm.net/2020/01/05/2020-01-01a-year-in-twitter-photos/)
 
++ [The 'Spelling Bee Honeycomb' puzzle: efficient computation in R](http://varianceexplained.org/r/honeycomb-puzzle/)
+
++ [How to use your Garmin watch to tell your team you’re going for a run](https://colinfay.me/api-call-garmin-watch/)
+
 ###  R in Organizations
 
 
@@ -56,6 +60,10 @@ Release Date: 2020-01-13
 
 + [`slackteams`, Manage and Interact with multiple Slack teams in R](https://yonicd.github.io/slackteams/)
 
++ [`glueformula`, simply build regression formulas from vectors with variable names](http://skranz.github.io//r/2020/01/09/glueformula.html)
+
++ [`podlover`, Get and analyze download stats from the Wordpress podcasting add-on "Podlove Publisher" ](https://github.com/lordyo/podlover)
+
 ### Updated Packages
 
 + [`tidylog`](https://elbersb.com/public/posts/tidylog100/), feedback for dplyr and tidyr commands
@@ -86,7 +94,17 @@ Release Date: 2020-01-13
 
 + [Daily Volumes, Holidays and BLS Reports](https://rviews.rstudio.com/2020/01/06/daily-volumes-holidays-and-bls-reports/)
 
-+ [How to use your Garmin watch to tell your team you’re going for a run](https://colinfay.me/api-call-garmin-watch/)
++ [Vignette: Podlover – A Package to Analyze Podcasting Data](https://r-posts.com/vignette-podlover-a-package-to-analyze-podcasting-data/)
+
++ [Psst, don't tell anybody: The World is getting more rational!](https://blog.ephorie.de/psst-dont-tell-anybody-the-world-is-getting-more-rational)
+
++ [How to create Bar Race Animation Charts in R](https://www.programmingwithr.com/how-to-create-animated-bar-race-charts-in-r/)
+
++ [Working with Windows  CMD system commands in R](https://tomaztsql.wordpress.com/2020/01/06/working-with-system-commands-in-r/)
+
++ [Complex coloring and contour levels](https://a-blog-from-sydney.blogspot.com/2020/01/complex-coloring-and-contour-levels.html)
+
++ [Visual Testing for Graphics in R](https://www.stat.auckland.ac.nz/~paul/Reports/QA/gdiff/gdiff.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
