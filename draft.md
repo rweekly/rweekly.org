@@ -52,6 +52,8 @@ Release Date: 2020-01-13
 
 + [`browse`, Navigate and generate links to remote files](https://github.com/tmastny/browse)
 
+![browse, Navigate and generate links to remote files](https://raw.githubusercontent.com/rweekly/image/master/2020-01-13/browse.gif)
+
 + [`ravelRy`, an interface to the Ravelry API](https://github.com/walkerkq/ravelRy)
 
 + [`sessionDiffo`, Compare `sessionInfo`s in a smooth way](https://federicomarini.github.io/sessionDiffo)
@@ -84,6 +86,8 @@ Release Date: 2020-01-13
 
 + [Données manquantes – causes, identification et imputation](https://thinkr.fr/donnees-manquantes-causes-identification-et-imputation/)
 
+![Données manquantes – causes, identification et imputation](https://raw.githubusercontent.com/rweekly/image/master/2020-01-13/art01-missingdata-5-1.png)
+
 + [Sneak peek of {ggplot2 3.3.0} (Japanese)](https://notchained.hatenablog.com/entry/2020/01/07/222536)
 
 ###  Tutorials
@@ -99,6 +103,8 @@ Release Date: 2020-01-13
 + [Vignette: Podlover – A Package to Analyze Podcasting Data](https://r-posts.com/vignette-podlover-a-package-to-analyze-podcasting-data/)
 
 + [Psst, don't tell anybody: The World is getting more rational!](https://blog.ephorie.de/psst-dont-tell-anybody-the-world-is-getting-more-rational)
+
+![Psst, don't tell anybody: The World is getting more rational!](https://raw.githubusercontent.com/rweekly/image/master/2020-01-13/gtrends-840x600.png)
 
 + [How to create Bar Race Animation Charts in R](https://www.programmingwithr.com/how-to-create-animated-bar-race-charts-in-r/)
 
