@@ -108,6 +108,8 @@ Release Date: 2020-01-13
 
 + [Psst, don't tell anybody: The World is getting more rational!](https://blog.ephorie.de/psst-dont-tell-anybody-the-world-is-getting-more-rational)
 
++ [How to approach Hypothesis Testing](https://medium.com/analytics-vidhya/how-to-approach-hypothesis-testing-6257d03bcfee)
+
 ![Psst, don't tell anybody: The World is getting more rational!](https://raw.githubusercontent.com/rweekly/image/master/2020-01-13/gtrends-840x600.png)
 
 + [How to create Bar Race Animation Charts in R](https://www.programmingwithr.com/how-to-create-animated-bar-race-charts-in-r/)
