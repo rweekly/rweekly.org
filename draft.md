@@ -13,7 +13,7 @@ Release Date: 2019-01-20
 
 ### Insights
 
-
++ [Debugging and Fixing CRAN's 'Additional Checks' errors ](https://reside-ic.github.io/blog/debugging-and-fixing-crans-additional-checks-errors/)
 
 ### R in the Real World
 
@@ -36,6 +36,8 @@ Release Date: 2019-01-20
 
 + [Biomedical Data Science Textbook Available](http://r4stats.com/2020/01/13/biomedical-data-science-textbook/)
 
++ [R Markdown and Bookdown for Academic Writing in R](http://rpubs.com/thealk/academic-writing)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -47,6 +49,8 @@ Release Date: 2019-01-20
 **GitHub or Bitbucket**
 
 + [cicerone - Provide guided tours of Shiny apps.](https://cicerone.john-coene.com/)
+
++ [lemis - R package providing access to data on wildlife imports into the United States ](https://github.com/ecohealthalliance/lemis/)
 
 
 ### Updated Packages
@@ -96,6 +100,7 @@ Release Date: 2019-01-20
 + [Feller's coin tossing puzzle: tidy simulation in R](http://varianceexplained.org/r/feller-coins/)
 
 + [Skew who?](https://osm.netlify.com/post/skew-who/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
