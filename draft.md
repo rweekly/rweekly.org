@@ -31,12 +31,15 @@ Release Date: 2019-01-20
 
 + [On the conjugate function](https://freakonometrics.hypotheses.org/58979)
 
++ [RNA Velocity Analysis (In Situ) - Tutorial and Tips](https://jef.works/blog/2020/01/14/rna_velocity_analysis_tutorial_tips/)
 
 ###  Resources
 
 + [Biomedical Data Science Textbook Available](http://r4stats.com/2020/01/13/biomedical-data-science-textbook/)
 
 + [R Markdown and Bookdown for Academic Writing in R](http://rpubs.com/thealk/academic-writing)
+
++ ["Tidy data" chapter of "R for Data Science" now using `tidyr::pivot_wider()` and `tidyr::pivot_longer()`](https://r4ds.had.co.nz/tidy-data.html)
 
 ###  New Packages
 
