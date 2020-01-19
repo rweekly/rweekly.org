@@ -41,6 +41,11 @@ Release Date: 2019-01-20
 
 + ["Tidy data" chapter of "R for Data Science" now using `tidyr::pivot_wider()` and `tidyr::pivot_longer()`](https://r4ds.had.co.nz/tidy-data.html)
 
++ [Introduction to R](https://github.com/kristineccles/Introduction_to_R) - This repository contains the documentation, background material, scripts, and data for a tutorial on the Introduction to R. This introductory workshop is greared towards people with a interest/ background in geography and environmental science.
+
+
++ [David Robinson Screencast Annotations](https://docs.google.com/spreadsheets/d/1pjj_G9ncJZPGTYPkR1BYwzA6bhJoeTfY2fJeGKSbOKM/edit#gid=444382177)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -55,6 +60,14 @@ Release Date: 2019-01-20
 
 + [lemis - R package providing access to data on wildlife imports into the United States ](https://github.com/ecohealthalliance/lemis/)
 
++ [ddd](https://github.com/karthik/ddd) - A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility.
+
++ [ggridges](https://wilkelab.org/ggridges/) - Ridgeline plots in ggplot2
+
++ [ggrough](https://xvrdm.github.io/ggrough/) - ggrough is an R package that converts your ggplot2 plots to rough/sketchy charts, using the excellent javascript roughjs library.
+
+![ggrough](https://raw.githubusercontent.com/xvrdm/ggrough/master/man/figures/homepage_eg.png)
+
 
 ### Updated Packages
 
@@ -67,6 +80,7 @@ Release Date: 2019-01-20
 + [pointblank 0.3](https://randr.rocks/post/pointblank-0-3/)
 
 + [queryparser 0.2.0](https://github.com/ianmcook/queryparser)
+
 
 ###  Videos and Podcasts
 
@@ -81,6 +95,8 @@ Release Date: 2019-01-20
 + [How to get the Légion d'honneur in 10 steps](https://tvroylandt.netlify.com/post/legion-honneur/)
 
 ###  Tutorials
+
++ [Introducing googleCloudRunner - serverless R on Google Cloud Platform](https://code.markedmondson.me/googleCloudRunner-intro/)
 
 + [How to reverse engineer a heat map into its underlying values](http://r-posts.com/how-to-reverse-engineer-a-heat-map-into-its-underlying-values/)
 
@@ -104,6 +120,7 @@ Release Date: 2019-01-20
 
 + [Skew who?](https://osm.netlify.com/post/skew-who/)
 
++ [santoku - a visual introduction](https://rpubs.com/dash2/santoku)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
