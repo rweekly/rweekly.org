@@ -21,6 +21,8 @@ Release Date: 2019-01-20
 
 + [Mapping World Languages' Difficulty Relative to English](https://educators-r-learners.netlify.com/post/mapping-language-difficulty-relative-to-english/)
 
+![Mapping World Languages' Difficulty Relative to English](https://raw.githubusercontent.com/rweekly/image/master/2020-01-20/world_difficulty.png)
+
 + [Record Dec temperature and snow in Scotland](https://scottishsnow.wordpress.com/2020/01/13/record-dec-temperature-and-snow-in-scotland/)
 
 ###  R in Organizations
@@ -34,6 +36,8 @@ Release Date: 2019-01-20
 + [On the conjugate function](https://freakonometrics.hypotheses.org/58979)
 
 + [RNA Velocity Analysis (In Situ) - Tutorial and Tips](https://jef.works/blog/2020/01/14/rna_velocity_analysis_tutorial_tips/)
+
+![RNA Velocity Analysis (In Situ) - Tutorial and Tips](https://raw.githubusercontent.com/rweekly/image/master/2020-01-20/velocity-cluster3-1.png)
 
 ###  Resources
 
@@ -108,6 +112,8 @@ Release Date: 2019-01-20
 
 + [No Framework, No Problem! Structuring your project folder and creating custom Shiny components](https://rviews.rstudio.com/2020/01/13/no-framework-no-problem-structuring-your-project-folder-and-creating-custom-shiny-components/)
 
+![No Framework, No Problem! Structuring your project folder and creating custom Shiny components](https://raw.githubusercontent.com/rweekly/image/master/2020-01-20/dashboard.png)
+
 + [OMG O2G!](https://osm.netlify.com/post/o2g-1/)
 
 + [How to import Python classes into R](https://theautomatic.net/2020/01/14/how-to-import-python-classes-into-r/)
@@ -123,6 +129,8 @@ Release Date: 2019-01-20
 + [Skew who?](https://osm.netlify.com/post/skew-who/)
 
 + [santoku - a visual introduction](https://rpubs.com/dash2/santoku)
+
+![santoku - a visual introduction](https://raw.githubusercontent.com/rweekly/image/master/2020-01-20/santoku.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -174,3 +182,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A thread of classifiers learning a decision rule. Dashed line is optimal boundary. Animations with <a href="https://twitter.com/hashtag/gganimate?src=hash&amp;ref_src=twsrc%5Etfw">#gganimate</a> by <a href="https://twitter.com/thomasp85?ref_src=twsrc%5Etfw">@thomasp85</a> and <a href="https://twitter.com/drob?ref_src=twsrc%5Etfw">@drob</a>. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br><br>Logistic regression {stats::glm} with each class having normally distributed features. (1/n) <a href="https://t.co/kKmqdO2zGy">pic.twitter.com/kKmqdO2zGy</a></p>&mdash; Ryan Holbrook (@ryanpholbrook) <a href="https://twitter.com/ryanpholbrook/status/1218526167961088000?ref_src=twsrc%5Etfw">January 18, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited to say that <a href="https://twitter.com/hashtag/spotifyr?src=hash&amp;ref_src=twsrc%5Etfw">#spotifyr</a> has officially made its way into the <a href="https://twitter.com/Spotify?ref_src=twsrc%5Etfw">@Spotify</a> app! This week we launched an A/B test featuring data pulled straight from <a href="https://twitter.com/hashtag/spotifyr?src=hash&amp;ref_src=twsrc%5Etfw">#spotifyr</a> <a href="https://t.co/9xuCsSA6zj">https://t.co/9xuCsSA6zj</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a></p>&mdash; Charlie Thompson (@_RCharlie) <a href="https://twitter.com/_RCharlie/status/1218252005136850955?ref_src=twsrc%5Etfw">January 17, 2020</a></blockquote>
