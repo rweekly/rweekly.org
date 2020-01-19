@@ -15,6 +15,8 @@ Release Date: 2019-01-20
 
 + [Debugging and Fixing CRAN's 'Additional Checks' errors ](https://reside-ic.github.io/blog/debugging-and-fixing-crans-additional-checks-errors/)
 
++ [A Journey into a Team's Workflows](https://www.onceupondata.com/2020/01/18/data-projects-workflows/)
+
 ### R in the Real World
 
 + [Mapping World Languages' Difficulty Relative to English](https://educators-r-learners.netlify.com/post/mapping-language-difficulty-relative-to-english/)
@@ -160,6 +162,10 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
 ###  Call for Participation
+
++ [eRum 2020 call for speakers (ends 29 Jan 2020)](https://sessionize.com/erum2020/)
+
++ [useR! 2020 European Hub, call for tutorials (ends February 16th, 2020)](https://user2020muc.r-project.org/news/2020/01/13/tutorial-submission/)
 
 + [EARL London 2020 call for abstracts](https://www.mango-solutions.com/earl-london-2020-call-for-abstracts/)
 
