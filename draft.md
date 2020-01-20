@@ -13,6 +13,9 @@ Release Date: 2020-01-27
 
 ### Insights
 
++ [How To Say No To Useless Data Science Projects And Start Working On What You Want](https://www.remixinstitute.com/blog/how-to-say-no-to-projects)
+
+![Six Sigma PICK Chart](https://i2.wp.com/www.remixinstitute.com/wp-content/uploads/PICK-Chart-six-sigma-remix-institute.jpg?w=1280&ssl=1)
 
 
 ### R in the Real World
