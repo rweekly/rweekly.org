@@ -1,29 +1,23 @@
 ---
 layout: draft
-title: R Weekly 2020-03
+title: R Weekly 2020-04
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-01-20
+Release Date: 2020-01-27
 
-###  Highlights
+###  Highlight
 
 
 
 ### Insights
 
-+ [Debugging and Fixing CRAN's 'Additional Checks' errors ](https://reside-ic.github.io/blog/debugging-and-fixing-crans-additional-checks-errors/)
 
-+ [A Journey into a Team's Workflows](https://www.onceupondata.com/2020/01/18/data-projects-workflows/)
 
 ### R in the Real World
 
-+ [Mapping World Languages' Difficulty Relative to English](https://educators-r-learners.netlify.com/post/mapping-language-difficulty-relative-to-english/)
 
-![Mapping World Languages' Difficulty Relative to English](https://raw.githubusercontent.com/rweekly/image/master/2020-01-20/world_difficulty.png)
-
-+ [Record Dec temperature and snow in Scotland](https://scottishsnow.wordpress.com/2020/01/13/record-dec-temperature-and-snow-in-scotland/)
 
 ###  R in Organizations
 
@@ -31,26 +25,11 @@ Release Date: 2019-01-20
 
 ###  R in Academia
 
-+ [On Cochran Theorem (and Orthogonal Projections)](https://freakonometrics.hypotheses.org/59040)
 
-+ [On the conjugate function](https://freakonometrics.hypotheses.org/58979)
-
-+ [RNA Velocity Analysis (In Situ) - Tutorial and Tips](https://jef.works/blog/2020/01/14/rna_velocity_analysis_tutorial_tips/)
-
-![RNA Velocity Analysis (In Situ) - Tutorial and Tips](https://raw.githubusercontent.com/rweekly/image/master/2020-01-20/velocity-cluster3-1.png)
 
 ###  Resources
 
-+ [Biomedical Data Science Textbook Available](http://r4stats.com/2020/01/13/biomedical-data-science-textbook/)
 
-+ [R Markdown and Bookdown for Academic Writing in R](http://rpubs.com/thealk/academic-writing)
-
-+ ["Tidy data" chapter of "R for Data Science" now using `tidyr::pivot_wider()` and `tidyr::pivot_longer()`](https://r4ds.had.co.nz/tidy-data.html)
-
-+ [Introduction to R](https://github.com/kristineccles/Introduction_to_R) - This repository contains the documentation, background material, scripts, and data for a tutorial on the Introduction to R. This introductory workshop is greared towards people with a interest/ background in geography and environmental science.
-
-
-+ [David Robinson Screencast Annotations](https://docs.google.com/spreadsheets/d/1pjj_G9ncJZPGTYPkR1BYwzA6bhJoeTfY2fJeGKSbOKM/edit#gid=444382177)
 
 ###  New Packages
 
@@ -58,39 +37,23 @@ Release Date: 2019-01-20
 
 **CRAN**
 
-+ [nse2r - Fetch data from National Stock Exchange, India](https://blog.rsquaredacademy.com/nse2r-fetch-data-from-nse/)
+
+
+**BioC**
+
+
 
 **GitHub or Bitbucket**
 
-+ [cicerone - Provide guided tours of Shiny apps.](https://cicerone.john-coene.com/)
-
-+ [lemis - R package providing access to data on wildlife imports into the United States ](https://github.com/ecohealthalliance/lemis/)
-
-+ [ddd](https://github.com/karthik/ddd) - A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility.
-
-+ [ggridges](https://wilkelab.org/ggridges/) - Ridgeline plots in ggplot2
-
-+ [ggrough](https://xvrdm.github.io/ggrough/) - ggrough is an R package that converts your ggplot2 plots to rough/sketchy charts, using the excellent javascript roughjs library.
-
-![ggrough](https://raw.githubusercontent.com/xvrdm/ggrough/master/man/figures/homepage_eg.png)
 
 
 ### Updated Packages
 
-+ [datapasta 3.1.0: Datapasta in the cloud](https://milesmcbain.github.io/datapasta/articles/datapasta-in-the-cloud.html)
-
-+ [RQuantLib 0.4.11: More polish](http://dirk.eddelbuettel.com/blog/2020/01/15#rquantlib_0.4.11)
-
-+ [RcppRedis 0.1.10: Switch to tinytest](http://dirk.eddelbuettel.com/blog/2020/01/16#rcppredis_0.1.10)
-
-+ [pointblank 0.3](https://randr.rocks/post/pointblank-0-3/)
-
-+ [queryparser 0.2.0](https://github.com/ianmcook/queryparser)
 
 
 ###  Videos and Podcasts
 
-+ [Not So Standard Deviations: Don't Do What You Like](http://nssdeviations.com/97-dont-do-what-you-like)
+
 
 ### Gist & Cookbook
 
@@ -98,41 +61,15 @@ Release Date: 2019-01-20
 
 ### R Internationally
 
-+ [How to get the Légion d'honneur in 10 steps](https://tvroylandt.netlify.com/post/legion-honneur/)
+
 
 ###  Tutorials
 
-+ [Introducing googleCloudRunner - serverless R on Google Cloud Platform](https://code.markedmondson.me/googleCloudRunner-intro/)
 
-+ [How to reverse engineer a heat map into its underlying values](http://r-posts.com/how-to-reverse-engineer-a-heat-map-into-its-underlying-values/)
-
-+ [Sudoku game with R](https://tomaztsql.wordpress.com/2020/01/13/sudoku-game-with-r/)
-
-+ [Convert Apple Card PDF Statements to Tidy Data (i.e. for CSV/Excel/database export)](https://rud.is/b/2020/01/13/convert-apple-card-pdf-statements-to-tidy-data-i-e-for-csv-excel-database-export/)
-
-+ [No Framework, No Problem! Structuring your project folder and creating custom Shiny components](https://rviews.rstudio.com/2020/01/13/no-framework-no-problem-structuring-your-project-folder-and-creating-custom-shiny-components/)
-
-![No Framework, No Problem! Structuring your project folder and creating custom Shiny components](https://raw.githubusercontent.com/rweekly/image/master/2020-01-20/dashboard.png)
-
-+ [OMG O2G!](https://osm.netlify.com/post/o2g-1/)
-
-+ [How to import Python classes into R](https://theautomatic.net/2020/01/14/how-to-import-python-classes-into-r/)
-
-+ [Business Case Analysis with R (Guest Post)](https://blog.ephorie.de/business-case-analysis-with-r)
-
-+ [Exploring the tightened EU CO2 emission standards for cars in 2020](http://skranz.github.io//r/2020/01/14/eu_cars_co2_2.html)
-
-+ [Customising your Rprofile](https://www.jumpingrivers.com/blog/customising-your-rprofile/)
-
-+ [Feller's coin tossing puzzle: tidy simulation in R](http://varianceexplained.org/r/feller-coins/)
-
-+ [Skew who?](https://osm.netlify.com/post/skew-who/)
-
-+ [santoku - a visual introduction](https://rpubs.com/dash2/santoku)
-
-![santoku - a visual introduction](https://raw.githubusercontent.com/rweekly/image/master/2020-01-20/santoku.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+
+
 
 ###  R Project Updates
 
@@ -161,28 +98,17 @@ Events in 3 Months:
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
-
-### Datasets
+## Datasets
 
 ### Jobs
 
-[Data Scientist position at RStudio](https://hire.withgoogle.com/public/jobs/rstudiocom/view/P_AAAAAACAAJZEFtwl7GyX-U)
+
 
 
 ###  Call for Participation
 
-+ [eRum 2020 call for speakers (ends 29 Jan 2020)](https://sessionize.com/erum2020/)
-
-+ [useR! 2020 European Hub, call for tutorials (ends February 16th, 2020)](https://user2020muc.r-project.org/news/2020/01/13/tutorial-submission/)
-
-+ [EARL London 2020 call for abstracts](https://www.mango-solutions.com/earl-london-2020-call-for-abstracts/)
-
-+ [satRday Johannesburg 2020 call for papers](https://joburg2020.satrdays.org/#callforpapers)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A thread of classifiers learning a decision rule. Dashed line is optimal boundary. Animations with <a href="https://twitter.com/hashtag/gganimate?src=hash&amp;ref_src=twsrc%5Etfw">#gganimate</a> by <a href="https://twitter.com/thomasp85?ref_src=twsrc%5Etfw">@thomasp85</a> and <a href="https://twitter.com/drob?ref_src=twsrc%5Etfw">@drob</a>. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br><br>Logistic regression {stats::glm} with each class having normally distributed features. (1/n) <a href="https://t.co/kKmqdO2zGy">pic.twitter.com/kKmqdO2zGy</a></p>&mdash; Ryan Holbrook (@ryanpholbrook) <a href="https://twitter.com/ryanpholbrook/status/1218526167961088000?ref_src=twsrc%5Etfw">January 18, 2020</a></blockquote>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited to say that <a href="https://twitter.com/hashtag/spotifyr?src=hash&amp;ref_src=twsrc%5Etfw">#spotifyr</a> has officially made its way into the <a href="https://twitter.com/Spotify?ref_src=twsrc%5Etfw">@Spotify</a> app! This week we launched an A/B test featuring data pulled straight from <a href="https://twitter.com/hashtag/spotifyr?src=hash&amp;ref_src=twsrc%5Etfw">#spotifyr</a> <a href="https://t.co/9xuCsSA6zj">https://t.co/9xuCsSA6zj</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a></p>&mdash; Charlie Thompson (@_RCharlie) <a href="https://twitter.com/_RCharlie/status/1218252005136850955?ref_src=twsrc%5Etfw">January 17, 2020</a></blockquote>
