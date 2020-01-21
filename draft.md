@@ -112,3 +112,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
++ "The whole problem with Artificial Inteligence is that bad models are so certain of themselves and good models are full of doubts"
+                                                                                                             
+
