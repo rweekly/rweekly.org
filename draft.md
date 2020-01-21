@@ -100,6 +100,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ## Datasets
 
++ [Aviation Safety](https://www.kaggle.com/dhruvagg/aviation-safety)
+
 ### Jobs
 
 
