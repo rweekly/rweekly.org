@@ -67,6 +67,7 @@ Release Date: 2020-01-27
 
 + [Embedding Matrix on Tabular Data](https://medium.com/odscjournal/using-an-embedding-matrix-on-tabular-data-in-r-903d5b61c100)
 
++ [Deep Learning using Keras and Tensorflow](https://towardsdatascience.com/how-to-implement-deep-learning-in-r-using-keras-and-tensorflow-82d135ae4889)
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 
