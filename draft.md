@@ -67,6 +67,8 @@ Release Date: 2020-01-27
 
 + [Embedding Matrix on Tabular Data](https://medium.com/odscjournal/using-an-embedding-matrix-on-tabular-data-in-r-903d5b61c100)
 
++ [Factors](https://medium.com/@ODSC/factors-in-r-6746d3402b36)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 
