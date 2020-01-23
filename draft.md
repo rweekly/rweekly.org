@@ -67,7 +67,7 @@ Release Date: 2020-01-27
 
 + [Embedding Matrix on Tabular Data](https://medium.com/odscjournal/using-an-embedding-matrix-on-tabular-data-in-r-903d5b61c100)
 
-+ [RStudio Projects and Working Directories: A Beginner's Guide](https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner's-guide/)
++ [RStudio Projects and Working Directories: A Beginner's Guide](https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner%27s-guide/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
