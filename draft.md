@@ -37,6 +37,8 @@ Release Date: 2020-01-27
 
 **CRAN**
 
++ [heddlr - Bring a functional programming mindset to R Markdown document generation](https://mikemahoney218.github.io/heddlr/articles/modular-reporting-with-heddlr.html)
+
 
 
 **BioC**
