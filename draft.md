@@ -37,6 +37,8 @@ Release Date: 2020-01-27
 
 **CRAN**
 
++ [heddlr - Bring a functional programming mindset to R Markdown document generation](https://mikemahoney218.github.io/heddlr/articles/modular-reporting-with-heddlr.html)
+
 
 
 **BioC**
@@ -68,6 +70,9 @@ Release Date: 2020-01-27
 + [Embedding Matrix on Tabular Data](https://medium.com/odscjournal/using-an-embedding-matrix-on-tabular-data-in-r-903d5b61c100)
 
 + [Factors](https://medium.com/@ODSC/factors-in-r-6746d3402b36)
+
++ [RStudio Projects and Working Directories: A Beginner's Guide](https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner%27s-guide/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
