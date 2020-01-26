@@ -18,14 +18,11 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 + [Geographic distance](https://dominicroye.github.io/en/2019/geographic-distance/)
 
-<!-- img -->
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/geographic_dist.png)
 
 + [Easily align ggplot2 titles, subtitles, and footnotes](https://www.mikelee.co/posts/2020-01-21-left-align-ggplot2-titles-subtitles-and-footnotes/)
 + [Create a second legend to bookend the top and bottom of a plot in ggplot2](https://www.mikelee.co/posts/2020-01-21-creating-duplicate-legends/)
 + [Three vectorised simulation approaches to the “Monty Hall Problem” using base R, data.table and tidyverse.](https://github.com/saghirb/Monty_Hall_Vectorised_Simulations_R)
-
-<!-- img -->
-
 + [Shiny dashboards using the googleAnalyticsR package!](https://medium.com/compassred-data-blog/google-analytics-dashboards-in-r-shiny-fc8e0ebcef2c)
 + [Exploring the Curse of Dimensionality - Part II.](https://juanitorduz.github.io/exploring-the-curse-of-dimensionality-part-ii./)
 + [December 2019: "Top 40" New R Packages](https://rviews.rstudio.com/2020/01/20/december-2019-top-40-new-r-packages/)
@@ -37,7 +34,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [RStudio Projects and Working Directories: A Beginner's Guide](https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner's-guide/)
 + [How to calculate landscape metrics for local landscapes?](https://nowosad.github.io/post/lsm-bp2/)
 
-<!-- img -->
+![landscapemetrics](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/lsm.png)
 
 + [A brief account (via simulation) of the ROC (and its AUC)](https://www.rdatagen.net/post/a-simple-explanation-of-what-the-roc-and-auc-represent/)
 + [Calculating the Required Sample Size for a Binomial Test in R](http://www.sastibe.de/2020/01/sample_size_r/)
@@ -59,7 +56,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [{heddlr} 0.5.0: Bring a functional programming mindset to R Markdown document generation](https://mikemahoney218.github.io/heddlr/articles/modular-reporting-with-heddlr.html)
 + [{gridtext} 0.1.0: Improved Text Rendering Support for 'Grid' Graphics](https://cran.r-project.org/package=gridtext)
 
-<!-- img -->
+![gridtext](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/gridtext.png)
 
 + [{santoku} 0.3.0: A Versatile Cutting Tool](https://cran.r-project.org/package=santoku)
 + [{round} 0.12-1: Rounding to Decimal Digits](https://cran.r-project.org/package=round)
@@ -83,14 +80,15 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [{dtplyr} 1.0.1; Data Table BackEnd for 'dplyr'](https://cran.r-project.org/package=dtplyr)
 + [{janitor} 1.2.1: Simple Tools for Examining and Cleaning Dirty Data](https://cran.r-project.org/package=janitor)
 + [{c14bazAAR} 1.2.0: Download and Prepare C14 Dates from Different Source Databases](https://cran.r-project.org/package=c14bazAAR)
+
+![c14bazAAR](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/c14bazAAR.png)
+
 + [{threejs} 0.3.3: Interactive 3D Scatter Plots, Networks and Globes](https://cran.r-project.org/package=threejs)
 + [{survey} 3.37: Analysis of Complex Survey Samples](https://cran.r-project.org/package=survey)
 + [{RcppArmadillo} 0.9.800.4.0: 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra Library](http://dirk.eddelbuettel.com/blog/2020/01/24#rcpparmadillo_0.9.800.4.0)
 + [{anytime} 0.3.7: Anything to 'POSIXct' or 'Date' Converter](http://dirk.eddelbuettel.com/blog/2020/01/20#anytime_0.3.7)
 + [{RPushbullet} 0.3.3: R Interface to the Pushbullet Messaging Service](http://dirk.eddelbuettel.com/blog/2020/01/19#rpushbullet_0.3.3)
 + [{RStudio Connect} 1.8.0](https://blog.rstudio.com/2020/01/22/rstudio-connect-1-8-0/)
-
-<!-- img -->
 
 ### R Internationally
 
