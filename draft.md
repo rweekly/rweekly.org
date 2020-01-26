@@ -82,17 +82,17 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [{gh} 1.1.0: 'GitHub' 'API'](https://cran.r-project.org/package=gh)
 + [{dtplyr} 1.0.1; Data Table BackEnd for 'dplyr'](https://cran.r-project.org/package=dtplyr)
 + [{janitor} 1.2.1: Simple Tools for Examining and Cleaning Dirty Data](https://cran.r-project.org/package=janitor)
++ [{c14bazAAR} 1.2.0: Download and Prepare C14 Dates from Different Source Databases](https://cran.r-project.org/package=c14bazAAR)
 + [{threejs} 0.3.3: Interactive 3D Scatter Plots, Networks and Globes](https://cran.r-project.org/package=threejs)
 + [{survey} 3.37: Analysis of Complex Survey Samples](https://cran.r-project.org/package=survey)
 + [{RcppArmadillo} 0.9.800.4.0: 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra Library](http://dirk.eddelbuettel.com/blog/2020/01/24#rcpparmadillo_0.9.800.4.0)
 + [{anytime} 0.3.7: Anything to 'POSIXct' or 'Date' Converter](http://dirk.eddelbuettel.com/blog/2020/01/20#anytime_0.3.7)
 + [{RPushbullet} 0.3.3: R Interface to the Pushbullet Messaging Service](http://dirk.eddelbuettel.com/blog/2020/01/19#rpushbullet_0.3.3)
-+ [{RStudio Connect} 1.8.0: https://blog.rstudio.com/2020/01/22/rstudio-connect-1-8-0/)
++ [{RStudio Connect} 1.8.0](https://blog.rstudio.com/2020/01/22/rstudio-connect-1-8-0/)
 
-#+ [{c14bazAAR} 1.2.0: Download and Prepare C14 Dates from Different Source Databases](https://cran.r-project.org/package=c14bazAAR)
-#<!-- img -->
+<!-- img -->
 
-# R Internationally
+### R Internationally
 
 + [German blog article: Why and when to create your own R package. Reasons and situations to create your own R package. Advantages of R packages over functions in scripts. ](https://statistik-dresden.de/archives/15904)
 
