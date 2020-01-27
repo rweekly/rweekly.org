@@ -1,7 +1,6 @@
 ---
-layout: draft
-title: R Weekly 2020-04
-description: Draft of the R Weekly
+title: R Weekly 2020-04 Geographic distance, mutable feeling objects, Github Actions
+description: Weekly News in the R Community.
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -11,15 +10,16 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 ###  Highlight
 
-
-
-### Insights
-
-
 + [Geographic distance](https://dominicroye.github.io/en/2019/geographic-distance/)
 
 ![](https://raw.githubusercontent.com/rweekly/image/master/2020-01-27/geographic_dist.png)
 
++ [Objects that feel mutable in R](https://blog.r-hub.io/2020/01/22/mutable-api/)
++ [Deploy your bookdown project to Netlify with Github Actions](https://www.hvitfeldt.me/blog/bookdown-netlify-github-actions/)
+
+### Insights
+
++ [Geographic distance](https://dominicroye.github.io/en/2019/geographic-distance/)
 + [Easily align ggplot2 titles, subtitles, and footnotes](https://www.mikelee.co/posts/2020-01-21-left-align-ggplot2-titles-subtitles-and-footnotes/)
 + [Create a second legend to bookend the top and bottom of a plot in ggplot2](https://www.mikelee.co/posts/2020-01-21-creating-duplicate-legends/)
 + [Three vectorised simulation approaches to the “Monty Hall Problem” using base R, data.table and tidyverse.](https://github.com/saghirb/Monty_Hall_Vectorised_Simulations_R)
