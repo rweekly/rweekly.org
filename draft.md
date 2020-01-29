@@ -60,7 +60,7 @@ Release Date: 2019-02-03
 
 
 ### R Internationally
-
++[번역: 초보자를 위한 RStudio 의 프로젝트 와 작업 디렉토리](https://chukycheese.github.io/data%20science/rstudio-project-and-working-directories/)
 
 
 ###  Tutorials
