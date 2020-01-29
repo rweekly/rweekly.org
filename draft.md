@@ -25,7 +25,9 @@ Release Date: 2019-02-03
 
 ###  R in Academia
 
++ [The transmissibility of novel Coronavirus in the early stages of the 2019-20 outbreak in Wuhan: Exploring initial point-source exposure sizes and durations using scenario analysis](https://epiforecasts.io/WuhanSeedingVsTransmission/articles/output.html)
 
+![](https://raw.githubusercontent.com/epiforecasts/WuhanSeedingVsTransmission/master/vignettes/figures/density-r-plot-1.png)
 
 ###  Resources
 
