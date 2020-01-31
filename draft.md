@@ -17,7 +17,9 @@ Release Date: 2019-02-03
 
 ### R in the Real World
 
++ [Scraping the Sugarcoat: Webscraping Rubik's Cube Competition Results!](http://staff.math.su.se/hoehle/blog/2020/01/22/wcascrape.html)
 
++ [Dynamic discrete choice models, reinforcement learning and Harold, part 1](https://www.brodrigues.co/blog/2020-01-26-harold/)
 
 ###  R in Organizations
 
@@ -25,11 +27,11 @@ Release Date: 2019-02-03
 
 ###  R in Academia
 
-
++ [The Rockerverse: Packages and Applications for Containerization with R - Daniel Nüst, Dirk Eddelbuettel, Dom Bennett, et al.](https://arxiv.org/abs/2001.10641)
 
 ###  Resources
 
-
++ [RStudio::Conf 2020 Slides](https://github.com/EmilHvitfeldt/RStudioConf2020Slides)
 
 ###  New Packages
 
@@ -65,7 +67,7 @@ Release Date: 2019-02-03
 
 ###  Tutorials
 
-
++ [Programming with data.table](https://johnmackintosh.com/2020-01-27-flexible-datatable-functions/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
