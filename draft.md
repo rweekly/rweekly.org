@@ -37,6 +37,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast),
 
 + [Scraping the Sugarcoat: Webscraping Rubik's Cube Competition Results!](http://staff.math.su.se/hoehle/blog/2020/01/22/wcascrape.html)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-03/SENIORTRAJ-1.png)
+
 + [Dynamic discrete choice models, reinforcement learning and Harold, part 1](https://www.brodrigues.co/blog/2020-01-26-harold/)
 
 + [Does Australia need More Fires (but the Right Kind)? A Multi-Agent Simulation](https://blog.ephorie.de/does-australia-need-more-fires-but-the-right-kind-a-multi-agent-simulation)
@@ -74,6 +76,7 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast),
 
 + [An Intuitive Look at Binomial Probability in a Bayesian Context](https://willhipson.netlify.com/post/bayesian_intro/binomial_gold/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-03/unnamed-chunk-10-1.gif)
 
 ###  Resources
 
@@ -112,6 +115,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast),
 
 + [tidymodules: An object-oriented approach to Shiny modules](https://opensource.nibr.com/tidymodules/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-03/ports_intro.png)
+
 + [rco: Make Your R Code Run Faster Today!](https://r-posts.com/rco-make-your-r-code-run-faster-today/)
 
 + [bootstraplib: Tools for styling shiny and rmarkdown from R via Boostrap (3 or 4) Sass](https://rstudio.github.io/bootstraplib/)
@@ -130,10 +135,6 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast),
 ###  Videos and Podcasts
 
 + [Residual Snippets: An informal and free-flowing audio series about R, data science, and the world of open-source](https://rpodcast.shinyapps.io/rsnippets)
-
-
-### Gist & Cookbook
-
 
 
 ### R Internationally
@@ -165,11 +166,15 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast),
 
 + [Create a Notebook to Explore Country-Level CO2 Emissions With a Few Clicks](https://joachim-gassen.github.io/2020/01/create-a-notebook-to-explore-country-level-co2-emissions-with-a-few-clicks/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-03/scatterAnimate-1.gif)
+
 + [Shiny CRUD](https://www.tychobra.com/posts/2020-01-29-shiny-crud-traditional/)
 
 + [Beginners guide to Bubble Map with Shiny](https://r-posts.com/beginners-guide-to-bubble-map-with-shiny/)
 
 + [Monsters](https://fronkonstin.com/2020/02/01/monsters/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-03/frankenstein.png)
 
 + [An efficient way to install and load R packages](https://www.statsandr.com/blog/an-efficient-way-to-install-and-load-r-packages/)
 
@@ -202,11 +207,9 @@ Events in 3 Months:
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
-### Datasets
-
 ### Jobs
 
-
++ [Wanted: weirdos with good communication skills](https://www.mango-solutions.com/wanted-weirdos-with-good-communication-skills/)
 
 
 ###  Call for Participation
