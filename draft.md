@@ -102,7 +102,7 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast),
 
 **CRAN**
 
-+ [ggeasy: Easy accesst to `ggplot2` commands](https://cran.r-project.org/web/packages/ggeasy/index.html)
++ [ggeasy: Easy access to `ggplot2` commands](https://cran.r-project.org/web/packages/ggeasy/index.html)
 
 + [wrapr 1.9.6 is now up on CRAN](http://www.win-vector.com/blog/2020/01/wrapr-1-9-6-is-now-up-on-cran/)
 
