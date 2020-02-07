@@ -39,6 +39,7 @@ Release Date: 2020-02-10
 
 **CRAN**
 
++ [rawKS: Easily Get True-Positive Rate and False-Positive Rate and KS Statistic](https://cran.r-project.org/package=rawKS)
 
 
 **BioC**
