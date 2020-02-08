@@ -57,7 +57,7 @@ Release Date: 2020-02-10
 
 **CRAN**
 
-
+[{add2ggplot}: Add to 'ggplot2'](https://cran.r-project.org/package=add2ggplot)
 
 **BioC**
 
