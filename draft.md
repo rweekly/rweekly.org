@@ -15,7 +15,15 @@ Release Date: 2020-02-10
 
 ### Insights
 
++ [Back from rstudio::conf(2020) - My talk, Q&A's, and other conference experiences - Yihui Xie](https://yihui.org/en/2020/02/rstudio-conf-2020/)
 
++ [RStudio Conference 2020](https://www.openscapes.org/blog/2020/02/04/rstudioconf-2020/)
+
++ [Some Upcoming 2020 R Conferences](https://rviews.rstudio.com/2020/02/05/some-2020-r-conferences/)
+
++ [The Fun of Building Things and the Challenge of Learning - the rOpenSci OzUnconf 2019](https://ropensci.org/blog/2020/02/05/ozunconf19/)
+
++ [Integrating R & Python into a Data Science program](https://ubc-mds.github.io/2020-02-03-teach-python-and-r/)
 
 ### R in the Real World
 
@@ -31,7 +39,11 @@ Release Date: 2020-02-10
 
 ###  Resources
 
++ [Visualising The G/Food Place](https://github.com/mine-cetinkaya-rundel/the-food-place)
 
+![]()
+
++ [Coronavirus Tracking dashboard](https://github.com/JohnCoene/coronavirus)
 
 ###  New Packages
 
@@ -47,7 +59,7 @@ Release Date: 2020-02-10
 
 **GitHub or Bitbucket**
 
-
++ [{colormind}: Generate Color Palettes With AI](https://github.com/dmi3kno/colormind)
 
 ### Updated Packages
 
@@ -55,11 +67,13 @@ Release Date: 2020-02-10
 
 ###  Videos and Podcasts
 
-+ [R-Podcast Episode 32](https://r-podcast.org/32) - Eric shares his perspective on RStudio's move to become a PBC and talks with software engineer Kevin Ushey on his adventures with developing the RStudio IDE and dependency management with `{packrat}` and `{renv}`
++ [R-Podcast: Episode 32](https://r-podcast.org/32) - Eric shares his perspective on RStudio's move to become a PBC and talks with software engineer Kevin Ushey on his adventures with developing the RStudio IDE and dependency management with `{packrat}` and `{renv}`
 
-+ [NSSD 100 Live from RStudio Conf 2020](http://nssdeviations.com/100-live-from-rstudio-conf-2020) - In this episode Hilary and Roger discuss how ideas evolve over time and use examples from this podcast to illustrate their views on data analysis and design thinking.
++ [NSSD 100: Live from RStudio Conf 2020](http://nssdeviations.com/100-live-from-rstudio-conf-2020) - In this episode Hilary and Roger discuss how ideas evolve over time and use examples from this podcast to illustrate their views on data analysis and design thinking.
 
 + [#DataFemme Episode 11 - Some Unfiltered Musings from RStudioConf](https://www.dikayodata.com/datafemme/some-unfiltered-musings-from-rstudioconf)
+
++ [Predictive modeling in R with tidymodels and NFL attendance (TidyTuesday) - Julia Silge](https://www.youtube.com/watch?v=LPptRkGoYMg)
 
 ### Gist & Cookbook
 
@@ -71,7 +85,19 @@ Release Date: 2020-02-10
 
 ###  Tutorials
 
++ [TidyTuesday & {tidymodels}](https://juliasilge.com/blog/intro-tidymodels/)
 
++ [Writing a recursive function in R - or, tweets on tweets](https://joshuamrosenberg.com/post/2020/02/07/writing-a-recursive-function-in-r/)
+
++ [5 useful R tips from rstudio::conf(2020) - tidy eval, piping, conflicts, bar charts and colors](http://www.rebeccabarter.com/blog/2020-02-05_rstudio_conf/)
+
++ [Align multiple ggplot2 plots by axis](https://divingintogeneticsandgenomics.rbind.io/post/align-multiple-ggplot2-plots-by-axis/)
+
++ [Introduction to the {tidymodels} Machine Learning Ecosystem](https://dnield.com/posts/tidymodels-intro/)
+
++ [LP and Tidy Data Principles (Part 1)](https://pacha.dev/blog/2020/02/04/lp-and-tidy-data-principles-part-1/)
+
++ [Working with audio in R using av](https://ropensci.org/technotes/2020/02/03/av-audio/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
