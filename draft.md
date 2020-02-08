@@ -19,6 +19,8 @@ Release Date: 2020-02-10
 
 + [RStudio Conference 2020](https://www.openscapes.org/blog/2020/02/04/rstudioconf-2020/)
 
++ [Some lessons from rstudio::conf](https://thewoodpeckr.wordpress.com/2020/02/03/some-lessons-from-rstudioconf/)
+
 + [Some Upcoming 2020 R Conferences](https://rviews.rstudio.com/2020/02/05/some-2020-r-conferences/)
 
 + [The Fun of Building Things and the Challenge of Learning - the rOpenSci OzUnconf 2019](https://ropensci.org/blog/2020/02/05/ozunconf19/)
@@ -27,15 +29,13 @@ Release Date: 2020-02-10
 
 ### R in the Real World
 
++ [SHARPEn your portfolio](https://osm.netlify.com/post/sharpen-your-portfolio/)
 
++ [Comparing Ensembl GTF and cDNA](https://fromsystosys.netlify.com/2020/02/07/comparing-ensembl-gtf-and-cdna/)
 
-###  R in Organizations
++ [Calculate all the CVs of all the QC Levels of all the Methods of all the Instruments at all the Sites all at once … with Sunquest LIS and dplyr](http://labrtorian.com/2020/02/04/calculate-all-the-cvs-of-all-the-qc-levels-of-all-the-methods-of-all-the-instruments-at-all-the-sites-all-at-once-with-sunquest-lis-and-dplyr/)
 
-
-
-###  R in Academia
-
-
++ [Lewis Carroll's proposed rules for tennis tournaments](http://freerangestats.info/blog/2020/02/01/tennis-carroll)
 
 ###  Resources
 
@@ -44,6 +44,12 @@ Release Date: 2020-02-10
 ![]()
 
 + [Coronavirus Tracking dashboard](https://github.com/JohnCoene/coronavirus)
+
++ [Links to slides for rstudio::conf 2020](https://github.com/EmilHvitfeldt/RStudioConf2020Slides)
+
++ [Hacking Germany’s Official Statistics with {datenguideR}](https://dg-berlinr.netlify.com/#1)
+
++ [Statistical Modeling of High Dimensional Counts](https://mikelove.github.io/counts-model/)
 
 ###  New Packages
 
@@ -61,6 +67,14 @@ Release Date: 2020-02-10
 
 + [{colormind}: Generate Color Palettes With AI](https://github.com/dmi3kno/colormind)
 
++ [{shredder}: API that incites exploration and iteration of rstan simulation objects](https://github.com/metrumresearchgroup/shredder)
+
++ [{lcars}: Provides Shiny widgets and Shiny UI theme that support an LCARS aesthetic for Shiny apps](https://github.com/leonawicz/lcars)
+
+![]()
+
++ [{nCov2019}: Query information of Wuhan coronavirus infected stats](https://github.com/GuangchuangYu/nCov2019)
+
 ### Updated Packages
 
 
@@ -74,14 +88,6 @@ Release Date: 2020-02-10
 + [#DataFemme Episode 11 - Some Unfiltered Musings from RStudioConf](https://www.dikayodata.com/datafemme/some-unfiltered-musings-from-rstudioconf)
 
 + [Predictive modeling in R with tidymodels and NFL attendance (TidyTuesday) - Julia Silge](https://www.youtube.com/watch?v=LPptRkGoYMg)
-
-### Gist & Cookbook
-
-
-
-### R Internationally
-
-
 
 ###  Tutorials
 
@@ -98,6 +104,8 @@ Release Date: 2020-02-10
 + [LP and Tidy Data Principles (Part 1)](https://pacha.dev/blog/2020/02/04/lp-and-tidy-data-principles-part-1/)
 
 + [Working with audio in R using av](https://ropensci.org/technotes/2020/02/03/av-audio/)
+
++ [A guide to encoding categorical features using R](https://www.radmuzom.com/2020/02/02/a-guide-to-encoding-categorical-features-using-r/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -127,7 +135,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-
++ [Strategy & Development Intern - Chicago Cubs](https://my1060wd.wd5.myworkdayjobs.com/Opportunity_Jobs/job/Chicago-Illinois/Strategy---Development-Intern_R000291)
 
 
 ###  Call for Participation
@@ -136,3 +144,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For those who have been doing <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> for a while; what would you wish you understood better/knew how to do? <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Thomas Lin Pedersen (@thomasp85) <a href="https://twitter.com/thomasp85/status/1224961885730230272?ref_src=twsrc%5Etfw">February 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">wowwww ok TIL there is an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> function to *uncount* data - have count data but want the raw data back? tidyr::uncount() to the rescue 🤯 <a href="https://t.co/PN9fVIe1bl">pic.twitter.com/PN9fVIe1bl</a></p>&mdash; Sharla Gelfand (@sharlagelfand) <a href="https://twitter.com/sharlagelfand/status/1224876298289500163?ref_src=twsrc%5Etfw">February 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The dm package from <a href="https://twitter.com/krlmlr?ref_src=twsrc%5Etfw">@krlmlr</a> provides a grammar of joined tables: you can filter, mutate, or select on particular variables within a combined set of tables (local or remote) and the changes propagate through 🤯🎉<a href="https://t.co/ID1ITZ7BHM">https://t.co/ID1ITZ7BHM</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/rstatsnyc?src=hash&amp;ref_src=twsrc%5Etfw">#rstatsnyc</a> <a href="https://t.co/nhQ2DIMCE1">pic.twitter.com/nhQ2DIMCE1</a></p>&mdash; David Robinson (@drob) <a href="https://twitter.com/drob/status/1224851726068527106?ref_src=twsrc%5Etfw">February 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
