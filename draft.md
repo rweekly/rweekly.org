@@ -55,7 +55,11 @@ Release Date: 2020-02-10
 
 ###  Videos and Podcasts
 
++ [R-Podcast Episode 32](https://r-podcast.org/32) - Eric shares his perspective on RStudio's move to become a PBC and talks with software engineer Kevin Ushey on his adventures with developing the RStudio IDE and dependency management with `{packrat}` and `{renv}`
 
++ [NSSD 100 Live from RStudio Conf 2020](http://nssdeviations.com/100-live-from-rstudio-conf-2020) - In this episode Hilary and Roger discuss how ideas evolve over time and use examples from this podcast to illustrate their views on data analysis and design thinking.
+
++ [#DataFemme Episode 11 - Some Unfiltered Musings from RStudioConf](https://www.dikayodata.com/datafemme/some-unfiltered-musings-from-rstudioconf)
 
 ### Gist & Cookbook
 
