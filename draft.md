@@ -57,12 +57,9 @@ Release Date: 2020-02-10
 
 **CRAN**
 
++ [{add2ggplot}: Add to 'ggplot2'](https://cran.r-project.org/package=add2ggplot)
+
 + [{rawKS}: Easily Get True-Positive Rate and False-Positive Rate and KS Statistic](https://cran.r-project.org/package=rawKS)
-
-
-**BioC**
-
-
 
 **GitHub or Bitbucket**
 
