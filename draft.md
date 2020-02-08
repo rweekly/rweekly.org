@@ -120,6 +120,8 @@ Events in 3 Months:
 
 + [Intro to R for Plant Pathologists, Feb 19](https://www.magnetmail.net/actions/email_web_version.cfm?ep=kUHipYu2XwcnrCj7ebWre0AVOBNGoDD0anGnwmZigCUHX4T3iSGhDaGnyJ3rZ219g9uzGDG1iMQiR1pKzFt8S91VX_UCd9DL_zqcT8r_DObD5yFyDg6XsFyP7Bo6a-aw)
 
++ [TokyoR #84: February 29, 2020](https://tokyor.connpass.com/)
+
 + [satRday Johannesburg 2020](https://joburg2020.satrdays.org/)
 
 + [satRday Newcastle upon Tyne, April the 4th](https://newcastle2020.satrdays.org/), Call for speakers for #satRdayNCL closes 31st Jan.
