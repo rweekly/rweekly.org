@@ -7,11 +7,13 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2020-02-10
 
-
-
 ###  Highlight
 
++ [Back from rstudio::conf(2020) - My talk, Q&A's, and other conference experiences - Yihui Xie](https://yihui.org/en/2020/02/rstudio-conf-2020/)
 
++ [Coronavirus Tracking dashboard](https://github.com/JohnCoene/coronavirus)
+
++ [{lcars}: Provides Shiny widgets and Shiny UI theme that support an LCARS aesthetic for Shiny apps](https://github.com/leonawicz/lcars)
 
 ### Insights
 
@@ -41,15 +43,17 @@ Release Date: 2020-02-10
 
 + [Visualising The G/Food Place](https://github.com/mine-cetinkaya-rundel/the-food-place)
 
-![]()
-
-+ [Coronavirus Tracking dashboard](https://github.com/JohnCoene/coronavirus)
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-10/thefoodplace.jpg)
 
 + [Links to slides for rstudio::conf 2020](https://github.com/EmilHvitfeldt/RStudioConf2020Slides)
 
 + [Hacking Germany’s Official Statistics with {datenguideR}](https://dg-berlinr.netlify.com/#1)
 
 + [Statistical Modeling of High Dimensional Counts](https://mikelove.github.io/counts-model/)
+
++ [Coronavirus Tracking dashboard](https://github.com/JohnCoene/coronavirus)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-10/coronavirusshiny.jpg)
 
 ###  New Packages
 
@@ -69,7 +73,7 @@ Release Date: 2020-02-10
 
 + [{lcars}: Provides Shiny widgets and Shiny UI theme that support an LCARS aesthetic for Shiny apps](https://github.com/leonawicz/lcars)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-10/lcars.png)
 
 + [{nCov2019}: Query information of Wuhan coronavirus infected stats](https://github.com/GuangchuangYu/nCov2019)
 
@@ -96,6 +100,8 @@ Release Date: 2020-02-10
 + [5 useful R tips from rstudio::conf(2020) - tidy eval, piping, conflicts, bar charts and colors](http://www.rebeccabarter.com/blog/2020-02-05_rstudio_conf/)
 
 + [Align multiple ggplot2 plots by axis](https://divingintogeneticsandgenomics.rbind.io/post/align-multiple-ggplot2-plots-by-axis/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-10/align-axis.png)
 
 + [Introduction to the {tidymodels} Machine Learning Ecosystem](https://dnield.com/posts/tidymodels-intro/)
 
