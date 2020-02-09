@@ -79,7 +79,7 @@ Release Date: 2020-02-10
 
 ### Updated Packages
 
-
++ [{corporaexplorer 0.8.1.1}: A 'Shiny' App for Dynamic Exploration of Text Collections](https://cran.r-project.org/package=corporaexplorer)
 
 ###  Videos and Podcasts
 
