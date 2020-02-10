@@ -67,6 +67,8 @@ Release Date: 2020-02-10
 
 + [{rawKS}: Easily Get True-Positive Rate and False-Positive Rate and KS Statistic](https://cran.r-project.org/package=rawKS)
 
++ [{carbonate}: Create beautiful images of source code using 'carbon.js'](https://cran.r-project.org/package=carbonate)
+
 **GitHub or Bitbucket**
 
 + [{colormind}: Generate Color Palettes With AI](https://github.com/dmi3kno/colormind)
@@ -112,6 +114,8 @@ Release Date: 2020-02-10
 + [Working with audio in R using av](https://ropensci.org/technotes/2020/02/03/av-audio/)
 
 + [A guide to encoding categorical features using R](https://www.radmuzom.com/2020/02/02/a-guide-to-encoding-categorical-features-using-r/)
+
++ [Prying “.R” Script Files Away from Xcode (et al) on macOS](https://rud.is/b/2020/02/06/prying-r-script-files-away-from-xcode-et-al-on-macos/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
