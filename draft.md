@@ -55,6 +55,8 @@ Release Date: 2020-02-10
 
 ![](https://raw.githubusercontent.com/rweekly/image/master/2020-02-10/coronavirusshiny.jpg)
 
++ [Debugging your R code with the browser() function and a second pipe operator](https://www.youtube.com/watch?v=ATIl_JlM9ko)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
