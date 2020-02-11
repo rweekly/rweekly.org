@@ -15,7 +15,8 @@ Release Date: 2020-02-17
 
 
 
-### R in the Real World
+### R in the Real World  
++ [Making wall art with OpenStreetMap data using `{osmdata}` and `{ggplot2)`](https://github.com/deanmarchiori/culburra)   
 
 
 
