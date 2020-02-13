@@ -13,7 +13,7 @@ Release Date: 2020-02-17
 
 ### Insights
 
-
++ [Simulating football games in R using xG values](https://statnamara.wordpress.com/2020/02/11/simulating-football-games-in-r-using-xg/)
 
 ### R in the Real World
 
@@ -33,7 +33,7 @@ Release Date: 2020-02-17
 
 ###  Resources
 
-
++ [Walkthrough: deploy a pkgdown site from Travis](https://gist.github.com/gaborcsardi/68960fb01bec74d89611bb9c2b0b7e5a)
 
 ###  New Packages
 
@@ -41,7 +41,7 @@ Release Date: 2020-02-17
 
 **CRAN**
 
-
++ [{unheadr 0.2.0}: Handle Data with Messy Header Rows and Broken Values](https://cran.r-project.org/package=unheadr)
 
 **BioC**
 
@@ -49,7 +49,11 @@ Release Date: 2020-02-17
 
 **GitHub or Bitbucket**
 
++ [{crsuggest}: Get appropriate CRS suggestions for your spatial data in R](https://github.com/walkerke/crsuggest)
 
++ [{ggblur}: Blurry Point Geom for ggplot2](https://coolbutuseless.github.io/2020/02/11/introducing-the-ggblur-package/)
+
++ [{odds}: On Disk Data Storage for Cross-Session Access in R](https://github.com/ColinFay/odds)
 
 ### Updated Packages
 
@@ -57,7 +61,9 @@ Release Date: 2020-02-17
 
 ###  Videos and Podcasts
 
++ [#TidyTuesday: Modeling hotel bookings in R using tidymodels and recipes](https://www.youtube.com/watch?v=dbXDkEEuvCU)
 
++ [Debugging your R code with the browser() function and a second pipe operator](https://www.youtube.com/watch?v=ATIl_JlM9ko)
 
 ### Gist & Cookbook
 
@@ -65,7 +71,7 @@ Release Date: 2020-02-17
 
 ### R Internationally
 
-
++ [Obteniendo la certificación de RStudio. Un camino compartido.](https://yabellini.netlify.com/post/rstudiocertification/)
 
 ###  Tutorials
 
@@ -86,6 +92,8 @@ Events in 3 Months:
 + [Intro to R for Plant Pathologists, Feb 19](https://www.magnetmail.net/actions/email_web_version.cfm?ep=kUHipYu2XwcnrCj7ebWre0AVOBNGoDD0anGnwmZigCUHX4T3iSGhDaGnyJ3rZ219g9uzGDG1iMQiR1pKzFt8S91VX_UCd9DL_zqcT8r_DObD5yFyDg6XsFyP7Bo6a-aw)
 
 + [TokyoR #84: February 29, 2020](https://tokyor.connpass.com/)
+
++ [Time-to-Event Analytics: Probabilistic Programming with R and Stan (Malmö, Sweden), March 31](https://www.meetup.com/Skane-R-User-Group/events/268627833/)
 
 + [satRday Johannesburg 2020](https://joburg2020.satrdays.org/)
 
