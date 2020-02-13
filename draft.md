@@ -16,7 +16,11 @@ Release Date: 2020-02-17
 
 
 ### R in the Real World
+
 [A short history of me at rstudio::conf 2020](https://samalbers.science/2020/02/09/a-short-history-of-me-at-rstudio-conf-2020/)
+
++ [Making wall art with OpenStreetMap data using `{osmdata}` and `{ggplot2)`](https://github.com/deanmarchiori/culburra)   
+
 
 
 ###  R in Organizations
