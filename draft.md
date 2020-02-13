@@ -69,6 +69,8 @@ Release Date: 2020-02-17
 
 ###  Tutorials
 
++ [Shiny: Add/Removing Modules Dynamically](https://roh.engineering/post/shiny-add-removing-modules-dynamically/)
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
