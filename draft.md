@@ -15,6 +15,8 @@ Release Date: 2020-02-17
 
 + [Simulating football games in R using xG values](https://statnamara.wordpress.com/2020/02/11/simulating-football-games-in-r-using-xg/)
 
++ [My RStudio::Conf 2020 / TidyDevDay Roundup & Reflections! Shiny Contest, {renv}, Debugging, RStudio 1.3, {ggtext}, and more!](https://ryo-n7.github.io/2020-02-12-rstudioconf-tidydevday-reflections/)
+
 ### R in the Real World
 
 [A short history of me at rstudio::conf 2020](https://samalbers.science/2020/02/09/a-short-history-of-me-at-rstudio-conf-2020/)
