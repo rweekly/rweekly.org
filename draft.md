@@ -51,6 +51,8 @@ Release Date: 2020-02-17
 
 **GitHub or Bitbucket**
 
++ [{golgotha}: Contextualised Embeddings and Language Modelling using BERT and Friends using R](https://github.com/bnosac/golgotha)
+
 + [{crsuggest}: Get appropriate CRS suggestions for your spatial data in R](https://github.com/walkerke/crsuggest)
 
 + [{ggblur}: Blurry Point Geom for ggplot2](https://coolbutuseless.github.io/2020/02/11/introducing-the-ggblur-package/)
