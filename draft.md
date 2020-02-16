@@ -63,8 +63,6 @@ Release Date: 2020-02-17
 
 **CRAN**
 
-+ [lcars](https://github.com/leonawicz/lcars) - LCARS aesthetic for Shiny
-
 + [themis](https://www.tidyverse.org/blog/2020/02/themis-0-1-0/) - implements a collection of new steps for the recipes package to deal with unbalanced data
 
 + [{unheadr 0.2.0}: Handle Data with Messy Header Rows and Broken Values](https://cran.r-project.org/package=unheadr)
@@ -113,8 +111,6 @@ Release Date: 2020-02-17
 
 + [#TidyTuesday: Modeling hotel bookings in R using tidymodels and recipes](https://www.youtube.com/watch?v=dbXDkEEuvCU)
 
-+ [Debugging your R code with the browser() function and a second pipe operator](https://www.youtube.com/watch?v=ATIl_JlM9ko)
-
 + [Tutorial: Create and Customize a Simple Shiny Dashboard](https://www.youtube.com/watch?v=41jmGq7ALMY&feature=emb_title)
 
 + [New improved cdata instructional video](http://www.win-vector.com/blog/2020/02/new-improved-cdata-instructional-video/)
@@ -151,8 +147,6 @@ Release Date: 2020-02-17
 + [%$% : upping your pipe game](https://thewoodpeckr.wordpress.com/2020/02/10/upping-your-pipe-game/)
 
 + [The One Question you should ask your Partner before Marrying!](https://blog.ephorie.de/the-one-question-you-should-ask-your-partner-before-marrying)
-
-+ [Introducing the {ggblur} package](https://coolbutuseless.github.io/2020/02/11/introducing-the-ggblur-package/)
 
 + [Upcoming webinars](https://www.mango-solutions.com/upcoming-webinars/)
 
@@ -200,8 +194,6 @@ Release Date: 2020-02-17
 
 
 + [Book release - Analyzing Financial and Economic Data with R (2º edition)](http://www.msperlin.com/blog/post/2020-01-15-afedr-ed2-announcement/)
-
-+ [Shiny: Add/Removing Modules Dynamically](https://roh.engineering/post/shiny-add-removing-modules-dynamically/)
 
 + [cran2copr: RPM repos with 15k binary R packages](https://www.enchufa2.es/archives/cran2copr-rpm-repos-with-15k-binary-r-packages.html)
 
