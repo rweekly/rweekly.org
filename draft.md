@@ -34,6 +34,8 @@ Release Date: 2020-02-24
 
 ###  Resources
 
++ [Basics & Cheatsheets](https://medium.com/@moorissa/the-best-resources-for-r-programming-37dbc94e0de6)
+
 
 
 ###  New Packages
