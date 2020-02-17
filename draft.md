@@ -45,13 +45,20 @@ Release Date: 2020-02-17
 
 + [Recreate a FiveThirtyEight Chicklet Stacked Bar Chart in ggplot2](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
 
-+ [Making wall art with OpenStreetMap data using `{osmdata}` and `{ggplot2)`](https://github.com/deanmarchiori/culburra)
+![Recreate a FiveThirtyEight Chicklet Stacked Bar Chart in ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2020/chicklet538.png)
+
 
 + [Using Machine Learning Techniques to Explain Employee Promotion Process](https://www.factual.ng/machine_learning_employee_promotion.html)
 
 + [Where America is most American](https://github.com/jaytimm/some_technical_notes/blob/master/notes/America_american.md)
 
 + [Machine Learning (XGBoost) Time-Series Classification Trading Strategy](https://lf0.com/post/xgboost-time-series-classification-trading-strategy/xgboost-time-series-quant-trading-strategy/)
+
+![Machine Learning (XGBoost) Time-Series Classification Trading Strategy](https://raw.githubusercontent.com/rweekly/image/master/2020/xgboost-time.png)
+
++ [Making wall art with OpenStreetMap data using `{osmdata}` and `{ggplot2)`](https://github.com/deanmarchiori/culburra)
+
+![Making wall art with OpenStreetMap data using `{osmdata}` and `{ggplot2)`](https://raw.githubusercontent.com/rweekly/image/master/2020/culburra.png)
 
 ###  R in Organizations
 
@@ -76,11 +83,11 @@ Release Date: 2020-02-17
 
 + [themis](https://www.tidyverse.org/blog/2020/02/themis-0-1-0/) - implements a collection of new steps for the recipes package to deal with unbalanced data
 
-+ [{unheadr 0.2.0}: Handle Data with Messy Header Rows and Broken Values](https://cran.r-project.org/package=unheadr)
++ [unheadr](https://cran.r-project.org/package=unheadr) - Handle Data with Messy Header Rows and Broken Values
 
-+ [slider 0.1.0](https://www.tidyverse.org/blog/2020/02/slider-0-1-0/) - slider provides a family of general purpose sliding window functions
++ [slider](https://www.tidyverse.org/blog/2020/02/slider-0-1-0/) - slider provides a family of general purpose sliding window functions
 
-+ [RcppSimdJson 0.0.1 now on CRAN!](http://dirk.eddelbuettel.com/blog/2020/02/13#rcppsimdjson_0.0.1)
++ [RcppSimdJson](http://dirk.eddelbuettel.com/blog/2020/02/13#rcppsimdjson_0.0.1) - Rcpp Bindings for the simdjson Header Library
 
 
 **BioC**
@@ -97,23 +104,26 @@ Release Date: 2020-02-17
 
 + [{ggblur}: Blurry Point Geom for ggplot2](https://coolbutuseless.github.io/2020/02/11/introducing-the-ggblur-package/)
 
+![Blurry Point Geom for ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2020/blur.png)
+
 + [{odds}: On Disk Data Storage for Cross-Session Access in R](https://github.com/ColinFay/odds)
 
 ### Updated Packages
 
-+ [Changes in the foreach package](https://blog.revolutionanalytics.com/2020/02/changes-in-the-foreach-package.html)
++ [foreach 1.4.8](https://blog.revolutionanalytics.com/2020/02/changes-in-the-foreach-package.html)
 
 + [RStudio 1.3 Preview: Real Time Spellchecking](https://blog.rstudio.com/2020/02/11/rstudio-1-3-preview-real-time-spellchecking/)
 
+![RStudio 1.3 Preview: Real Time Spellchecking](https://raw.githubusercontent.com/rweekly/image/master/2020/spellcheck_options.png)
 
-+ [RProtoBuf 0.4.15: One fix, some updates, depcrecation coming](http://dirk.eddelbuettel.com/blog/2020/02/08#rprotobuf_0.4.15)
++ [RProtoBuf 0.4.15](http://dirk.eddelbuettel.com/blog/2020/02/08#rprotobuf_0.4.15) - One fix, some updates, depcrecation coming
 
-+ [fuzzySim updated to 3.0 on CRAN!](https://modtools.wordpress.com/2020/02/11/fuzzysim-updated-to-3-0-on-cran/)
++ [fuzzySim 3.0](https://modtools.wordpress.com/2020/02/11/fuzzysim-updated-to-3-0-on-cran/)
 
 
 + [RcppArmadillo 0.9.850.1.0](http://dirk.eddelbuettel.com/blog/2020/02/09#rcpparmadillo_0.9.850.1.0)
 
-+ [vtreat 1.5.2?](http://www.win-vector.com/blog/2020/02/what-is-new-for-vtreat-1-5-2/)
++ [vtreat 1.5.2](http://www.win-vector.com/blog/2020/02/what-is-new-for-vtreat-1-5-2/)
 
 
 
@@ -134,9 +144,6 @@ Release Date: 2020-02-17
 + [Shiny: Add/Removing Modules Dynamically](https://roh.engineering/post/shiny-add-removing-modules-dynamically/)
 
 + [A Bayesian Estimate of BackBlaze's Hard Drive Failure Rates](https://unconj.ca/blog/tags/r.html)
-
-
-+ [The Importance of Communication for Analysis / Data Science](https://www.mango-solutions.com/the-importance-of-communication-for-analysis-data-science/)
 
 
 + [tempdisagg: converting quarterly time series to daily](https://usefulr.wordpress.com/2020/02/10/tempdisagg-converting-quarterly-time-series-to-daily/)
@@ -163,11 +170,7 @@ Release Date: 2020-02-17
 
 + [NHSRdatasets meets runcharter](https://nhsrcommunity.com/blog/nhsrdatasets-meets-runcharter/)
 
-
-+ [digest 0.6.24: Some more refinements](http://dirk.eddelbuettel.com/blog/2020/02/12#digest_0.6.24)
-
-+ [Learning from our search history](http://feeds.feedburner.com/2020/02/12/learning-from-our-search-history/)
-
+![NHSRdatasets meets runcharter](https://raw.githubusercontent.com/rweekly/image/master/2020/20191203-runcharter.png)
 
 + [taxadb: A High-Performance Local Taxonomic Database Interface](https://ropensci.org/blog/2020/02/13/taxadb/)
 
@@ -176,7 +179,6 @@ Release Date: 2020-02-17
 + [My mental model of how alpha works is wrong](https://coolbutuseless.github.io/2020/02/14/my-mental-model-of-how-alpha-works-is-wrong/)
 
 + [Photo Mosaics in R](https://rviews.rstudio.com/2020/02/13/photo-mosaics-in-r/)
-12:30
 
 
 + [Dude: Where are my Cats?  RStudio::Conf 2020](https://www.mango-solutions.com/dude-where-are-my-cats-rstudioconf-2020/)
@@ -193,8 +195,6 @@ Release Date: 2020-02-17
 
 + [Using R: from plyr to purrr, part 0 out of however many](https://onunicornsandgenes.blog/2020/02/11/using-r-from-plyr-to-purrr-part-0-out-of-however-many/)
 
-
-
 + [Book release - Analyzing Financial and Economic Data with R (2º edition)](http://www.msperlin.com/blog/post/2020-01-15-afedr-ed2-announcement/)
 
 + [cran2copr: RPM repos with 15k binary R packages](https://www.enchufa2.es/archives/cran2copr-rpm-repos-with-15k-binary-r-packages.html)
@@ -209,8 +209,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [Intro to R for Plant Pathologists, Feb 19](https://www.magnetmail.net/actions/email_web_version.cfm?ep=kUHipYu2XwcnrCj7ebWre0AVOBNGoDD0anGnwmZigCUHX4T3iSGhDaGnyJ3rZ219g9uzGDG1iMQiR1pKzFt8S91VX_UCd9DL_zqcT8r_DObD5yFyDg6XsFyP7Bo6a-aw)
 
 + [TokyoR #84: February 29, 2020](https://tokyor.connpass.com/)
 
@@ -229,9 +227,11 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
 
+
+
 ### Jobs
 
-+ [Strategy & Development Intern - Chicago Cubs](https://my1060wd.wd5.myworkdayjobs.com/Opportunity_Jobs/job/Chicago-Illinois/Strategy---Development-Intern_R000291)
+
 
 
 ###  Call for Participation
