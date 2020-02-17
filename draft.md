@@ -9,30 +9,41 @@ Release Date: 2020-02-17
 
 ###  Highlight
 
-
-
-### Insights
-
 + [Code generation in R packages](https://blog.r-hub.io/2020/02/10/code-generation/)
 
 
 + [My RStudio::Conf 2020 / TidyDevDay Roundup & Reflections!](http://Ryo-N7.github.io/2020-02-12-rstudioconf-tidydevday-reflections/)
 
+###  Videos and Podcasts
+
++ [rstudio::conf 2020 Videos](https://resources.rstudio.com/rstudio-conf-2020)
+
++ [#TidyTuesday: Modeling hotel bookings in R using tidymodels and recipes](https://www.youtube.com/watch?v=dbXDkEEuvCU)
+
++ [Tutorial: Create and Customize a Simple Shiny Dashboard](https://www.youtube.com/watch?v=41jmGq7ALMY&feature=emb_title)
+
++ [New improved cdata instructional video](http://www.win-vector.com/blog/2020/02/new-improved-cdata-instructional-video/)
+
+### Insights
+
+
 + [Tidy eval now supports glue strings](https://www.tidyverse.org/blog/2020/02/glue-strings-and-tidy-eval/)
 
 + [Simulating football games in R using xG values](https://statnamara.wordpress.com/2020/02/11/simulating-football-games-in-r-using-xg/)
 
-+ [My RStudio::Conf 2020 / TidyDevDay Roundup & Reflections! Shiny Contest, {renv}, Debugging, RStudio 1.3, {ggtext}, and more!](https://ryo-n7.github.io/2020-02-12-rstudioconf-tidydevday-reflections/)
 
 + [Factor Modeling in R](https://lf0.com/post/factor-modeling-for-portfolio-optimisation/factor-modeling-portfolio-optimisation/)
 
 + [Towards open health analytics: our guide to sharing code safely on GitHub](https://nhsrcommunity.com/blog/towards-open-health-analytics-our-guide-to-sharing-code-safely-on-github/)
 
++ [My RStudio::Conf 2020 / TidyDevDay Roundup & Reflections! Shiny Contest, {renv}, Debugging, RStudio 1.3, {ggtext}, and more!](https://ryo-n7.github.io/2020-02-12-rstudioconf-tidydevday-reflections/)
+
+
++ [A short history of me at rstudio::conf 2020](https://samalbers.science/2020/02/09/a-short-history-of-me-at-rstudio-conf-2020/)
+
 ### R in the Real World
 
 + [Recreate a FiveThirtyEight Chicklet Stacked Bar Chart in ggplot2](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
-
-+ [A short history of me at rstudio::conf 2020](https://samalbers.science/2020/02/09/a-short-history-of-me-at-rstudio-conf-2020/)
 
 + [Making wall art with OpenStreetMap data using `{osmdata}` and `{ggplot2)`](https://github.com/deanmarchiori/culburra)
 
@@ -105,15 +116,6 @@ Release Date: 2020-02-17
 + [vtreat 1.5.2?](http://www.win-vector.com/blog/2020/02/what-is-new-for-vtreat-1-5-2/)
 
 
-###  Videos and Podcasts
-
-+ [rstudio::conf 2020](https://resources.rstudio.com/rstudio-conf-2020)
-
-+ [#TidyTuesday: Modeling hotel bookings in R using tidymodels and recipes](https://www.youtube.com/watch?v=dbXDkEEuvCU)
-
-+ [Tutorial: Create and Customize a Simple Shiny Dashboard](https://www.youtube.com/watch?v=41jmGq7ALMY&feature=emb_title)
-
-+ [New improved cdata instructional video](http://www.win-vector.com/blog/2020/02/new-improved-cdata-instructional-video/)
 
 ### Gist & Cookbook
 
