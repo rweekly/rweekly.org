@@ -161,7 +161,7 @@ Release Date: 2020-02-17
 
 + [#TidyTuesday hotel bookings and recipes](https://juliasilge.com/blog/hotels-recipes/)
 
-+ [What R` you? (R matrixes and R arrays in python)](https://notast.netlify.com/post/what-r-you-r-matrixes-and-r-arrays-in-python/)`
++ [What R you? (R matrixes and R arrays in python)](https://notast.netlify.com/post/what-r-you-r-matrixes-and-r-arrays-in-python/)
 
 + [Monitoring for Changes in Distribution with Resampling Tests](http://www.win-vector.com/blog/2020/02/monitoring-for-changes-in-distribution-with-resampling-tests/)
 
