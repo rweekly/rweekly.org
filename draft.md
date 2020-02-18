@@ -1,50 +1,31 @@
 ---
 layout: draft
-title: R Weekly 2020-07
+title: R Weekly 2020-08
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-02-17
+Release Date: 2020-02-24
 
 ###  Highlight
 
 
 
+###  Videos and Podcasts
+
+
 ### Insights
 
-+ [Code generation in R packages](https://blog.r-hub.io/2020/02/10/code-generation/)
 
 
-+ [My RStudio::Conf 2020 / TidyDevDay Roundup & Reflections!](http://Ryo-N7.github.io/2020-02-12-rstudioconf-tidydevday-reflections/)
 
-+ [Tidy eval now supports glue strings](https://www.tidyverse.org/blog/2020/02/glue-strings-and-tidy-eval/)
 
-+ [Simulating football games in R using xG values](https://statnamara.wordpress.com/2020/02/11/simulating-football-games-in-r-using-xg/)
-
-+ [My RStudio::Conf 2020 / TidyDevDay Roundup & Reflections! Shiny Contest, {renv}, Debugging, RStudio 1.3, {ggtext}, and more!](https://ryo-n7.github.io/2020-02-12-rstudioconf-tidydevday-reflections/)
-
-+ [Factor Modeling in R](https://lf0.com/post/factor-modeling-for-portfolio-optimisation/factor-modeling-portfolio-optimisation/)
-
-+ [Towards open health analytics: our guide to sharing code safely on GitHub](https://nhsrcommunity.com/blog/towards-open-health-analytics-our-guide-to-sharing-code-safely-on-github/)
 
 ### R in the Real World
 
-+ [Recreate a FiveThirtyEight Chicklet Stacked Bar Chart in ggplot2](https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/)
-
-+ [A short history of me at rstudio::conf 2020](https://samalbers.science/2020/02/09/a-short-history-of-me-at-rstudio-conf-2020/)
-
-+ [Making wall art with OpenStreetMap data using `{osmdata}` and `{ggplot2)`](https://github.com/deanmarchiori/culburra)
-
-+ [Using Machine Learning Techniques to Explain Employee Promotion Process](https://www.factual.ng/machine_learning_employee_promotion.html)
-
-+ [Where America is most American](https://github.com/jaytimm/some_technical_notes/blob/master/notes/America_american.md)
-
-+ [Machine Learning (XGBoost) Time-Series Classification Trading Strategy](https://lf0.com/post/xgboost-time-series-classification-trading-strategy/xgboost-time-series-quant-trading-strategy/)
 
 ###  R in Organizations
 
-+ [Shiny Contest 2020 is here!](https://blog.rstudio.com/2020/02/12/shiny-contest-2020-is-here/)
 
 
 ###  R in Academia
@@ -53,9 +34,7 @@ Release Date: 2020-02-17
 
 ###  Resources
 
-+ [Walkthrough: deploy a pkgdown site from Travis](https://gist.github.com/gaborcsardi/68960fb01bec74d89611bb9c2b0b7e5a)
 
-+ [How R can be interfaced with C++ via the Rcpp package](https://mfasiolo.github.io/sc2-2019/)
 
 ###  New Packages
 
@@ -63,15 +42,7 @@ Release Date: 2020-02-17
 
 **CRAN**
 
-+ [lcars](https://github.com/leonawicz/lcars) - LCARS aesthetic for Shiny
 
-+ [themis](https://www.tidyverse.org/blog/2020/02/themis-0-1-0/) - implements a collection of new steps for the recipes package to deal with unbalanced data
-
-+ [{unheadr 0.2.0}: Handle Data with Messy Header Rows and Broken Values](https://cran.r-project.org/package=unheadr)
-
-+ [slider 0.1.0](https://www.tidyverse.org/blog/2020/02/slider-0-1-0/) - slider provides a family of general purpose sliding window functions
-
-+ [RcppSimdJson 0.0.1 now on CRAN!](http://dirk.eddelbuettel.com/blog/2020/02/13#rcppsimdjson_0.0.1)
 
 
 **BioC**
@@ -80,62 +51,16 @@ Release Date: 2020-02-17
 
 **GitHub or Bitbucket**
 
-+ [Pagedown SGDF](https://github.com/tvroylandt/sgdf_pagedown)
-
-+ [{golgotha}: Contextualised Embeddings and Language Modelling using BERT and Friends using R](https://github.com/bnosac/golgotha)
-
-+ [{crsuggest}: Get appropriate CRS suggestions for your spatial data in R](https://github.com/walkerke/crsuggest)
-
-+ [{ggblur}: Blurry Point Geom for ggplot2](https://coolbutuseless.github.io/2020/02/11/introducing-the-ggblur-package/)
-
-+ [{odds}: On Disk Data Storage for Cross-Session Access in R](https://github.com/ColinFay/odds)
 
 ### Updated Packages
 
-+ [Changes in the foreach package](https://blog.revolutionanalytics.com/2020/02/changes-in-the-foreach-package.html)
 
-+ [RStudio 1.3 Preview: Real Time Spellchecking](https://blog.rstudio.com/2020/02/11/rstudio-1-3-preview-real-time-spellchecking/)
-
-
-+ [RProtoBuf 0.4.15: One fix, some updates, depcrecation coming](http://dirk.eddelbuettel.com/blog/2020/02/08#rprotobuf_0.4.15)
-
-+ [fuzzySim updated to 3.0 on CRAN!](https://modtools.wordpress.com/2020/02/11/fuzzysim-updated-to-3-0-on-cran/)
-
-
-+ [RcppArmadillo 0.9.850.1.0](http://dirk.eddelbuettel.com/blog/2020/02/09#rcpparmadillo_0.9.850.1.0)
-
-+ [vtreat 1.5.2?](http://www.win-vector.com/blog/2020/02/what-is-new-for-vtreat-1-5-2/)
-
-
-###  Videos and Podcasts
-
-+ [rstudio::conf 2020](https://resources.rstudio.com/rstudio-conf-2020)
-
-+ [#TidyTuesday: Modeling hotel bookings in R using tidymodels and recipes](https://www.youtube.com/watch?v=dbXDkEEuvCU)
-
-+ [Debugging your R code with the browser() function and a second pipe operator](https://www.youtube.com/watch?v=ATIl_JlM9ko)
-
-+ [Tutorial: Create and Customize a Simple Shiny Dashboard](https://www.youtube.com/watch?v=41jmGq7ALMY&feature=emb_title)
-
-+ [New improved cdata instructional video](http://www.win-vector.com/blog/2020/02/new-improved-cdata-instructional-video/)
 
 ### Gist & Cookbook
 
 
 
 ### R Internationally
-
-+ [Obteniendo la certificación de RStudio. Un camino compartido.](https://yabellini.netlify.com/post/rstudiocertification/)
-
-###  Tutorials
-
-+ [An R Package to Explore the Novel Coronavirus](https://towardsdatascience.com/an-r-package-to-explore-the-novel-coronavirus-590055738ad6)
-
-+ [Using RStudio to explore data in MariaDB](https://sebastianrothbucher.github.io/sql/databases/r/rstudio/edi/analysis/explore/mariadb/2020/02/08/rstudio-sql-eda.html)
-
-+ [Shiny: Add/Removing Modules Dynamically](https://roh.engineering/post/shiny-add-removing-modules-dynamically/)
-
-+ [A Bayesian Estimate of BackBlaze's Hard Drive Failure Rates](https://unconj.ca/blog/tags/r.html)
 
 
 + [The Importance of Communication for Analysis / Data Science](https://www.mango-solutions.com/the-importance-of-communication-for-analysis-data-science/)
@@ -197,13 +122,11 @@ Release Date: 2020-02-17
 
 + [Using R: from plyr to purrr, part 0 out of however many](https://onunicornsandgenes.blog/2020/02/11/using-r-from-plyr-to-purrr-part-0-out-of-however-many/)
 
+###  Tutorials
 
 
-+ [Book release - Analyzing Financial and Economic Data with R (2º edition)](http://www.msperlin.com/blog/post/2020-01-15-afedr-ed2-announcement/)
 
-+ [Shiny: Add/Removing Modules Dynamically](https://roh.engineering/post/shiny-add-removing-modules-dynamically/)
 
-+ [cran2copr: RPM repos with 15k binary R packages](https://www.enchufa2.es/archives/cran2copr-rpm-repos-with-15k-binary-r-packages.html)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -215,8 +138,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [Intro to R for Plant Pathologists, Feb 19](https://www.magnetmail.net/actions/email_web_version.cfm?ep=kUHipYu2XwcnrCj7ebWre0AVOBNGoDD0anGnwmZigCUHX4T3iSGhDaGnyJ3rZ219g9uzGDG1iMQiR1pKzFt8S91VX_UCd9DL_zqcT8r_DObD5yFyDg6XsFyP7Bo6a-aw)
 
 + [TokyoR #84: February 29, 2020](https://tokyor.connpass.com/)
 
@@ -235,9 +156,11 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
 
+
+
 ### Jobs
 
-+ [Strategy & Development Intern - Chicago Cubs](https://my1060wd.wd5.myworkdayjobs.com/Opportunity_Jobs/job/Chicago-Illinois/Strategy---Development-Intern_R000291)
+
 
 
 ###  Call for Participation
@@ -247,6 +170,3 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some personal stats since I started grad school 4.5 years ago: <br><br>Papers published: 2<br>Citations: 2<br><br>Data sets released: 15<br>Downloads: ~3300<br>Citations: 7<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> packages: 5<br>Downloads: ~130k<br><br>Unfortunately, I think most academics stop reading after the first line.</p>&mdash; Jacob Kaplan (@JacobKaplan19) <a href="https://twitter.com/JacobKaplan19/status/1226732254828924933?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> custom <a href="https://twitter.com/hashtag/shiny?src=hash&amp;ref_src=twsrc%5Etfw">#shiny</a> input binding saga continues! I thought using an SVG as an input was exciting, well that was just JS -&gt; R. Now I used R -&gt; JS to bind the values from a data frame to the colors of the SVG! FULL CIRCLE BABY! [Shout out <a href="https://twitter.com/grrrck?ref_src=twsrc%5Etfw">@grrrck</a>&#39;s <a href="https://twitter.com/hashtag/JS4Shiny?src=hash&amp;ref_src=twsrc%5Etfw">#JS4Shiny</a> workshop 🥰] <a href="https://t.co/Is2XtjWGNO">pic.twitter.com/Is2XtjWGNO</a></p>&mdash; Maya Gans (@Mayacelium) <a href="https://twitter.com/Mayacelium/status/1228348680215777281?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
