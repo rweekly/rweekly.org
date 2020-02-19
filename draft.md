@@ -41,9 +41,7 @@ Release Date: 2020-02-24
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
-
-
-
++ [osfr](https://github.com/ropensci/osfr) - provides a suite of functions for interacting with the Open Science Framework. 
 
 **BioC**
 
@@ -57,7 +55,7 @@ Release Date: 2020-02-24
 
 
 
-### Gist & Cookbook
++ [arrow 0.16](https://arrow.apache.org/)### Gist & Cookbook
 
 
 
