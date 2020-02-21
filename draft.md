@@ -34,6 +34,8 @@ Release Date: 2020-02-24
 
 ###  Resources
 
++ [Basics & Cheatsheets](https://medium.com/@moorissa/the-best-resources-for-r-programming-37dbc94e0de6)
+
 
 
 ###  New Packages
@@ -53,8 +55,6 @@ Release Date: 2020-02-24
 + [nakedpipe](https://github.com/moodymudskipper/nakedpipe) - Pipe multiple calls without repeating the pipe syoperator
 
 ### Updated Packages
-
-
 
 + [arrow 0.16](https://arrow.apache.org/)
 
