@@ -13,6 +13,7 @@ Release Date: 2020-02-24
 
 ###  Videos and Podcasts
 
++ [Explore complex objects with the str() function](https://www.youtube.com/watch?v=fGMFc60eb5k)
 
 ### Insights
 
@@ -30,13 +31,14 @@ Release Date: 2020-02-24
 
 ###  R in Academia
 
++ [Saul, B., & Hudgens, M. (2020). The Calculus of M-Estimation in R with geex. Journal of Statistical Software, 92(2), 1 - 15.](https://www.jstatsoft.org/article/view/v092i02)
 
-
++ [Lang, M. N., Schlosser, L., Hothorn, T., Mayr, G. J., Stauffer, R., & Zeileis, A. (2020). Circular Regression Trees and Forests with an Application to Probabilistic Wind Direction Forecasting. arXiv preprint arXiv:2001.00412.](https://eeecon.uibk.ac.at/~zeileis/news/circtree/)
 ###  Resources
 
 + [Basics & Cheatsheets](https://medium.com/@moorissa/the-best-resources-for-r-programming-37dbc94e0de6)
 
-
++ [Patterns in research and data sharing for the study of form and function in caviomorph rodents: Interactive Web App](https://luisdva.shinyapps.io/caviomorph_ecomorphology_resources_app/)
 
 ###  New Packages
 
@@ -55,15 +57,21 @@ Release Date: 2020-02-24
 
 + [nakedpipe](https://github.com/moodymudskipper/nakedpipe) - Pipe multiple calls without repeating the pipe syoperator
 
-
 + [{dmc}](https://github.com/sharlagelfand/dmc) - Convert Colour to DMC Embroidery Floss and Back
 
++ [{templar}: Template and autogeneration for common documents](https://github.com/kbodwin/templar)
+
++ [{ggannotate}: Interactively annotate ggplots](https://github.com/MattCowgill/ggannotate)
 
 ### Updated Packages
 
 + [arrow 0.16](https://arrow.apache.org/)
 
-+ [lint 2.0.1](https://github.com/jimhester/lintr/blob/master/NEWS.md)
++ [lintr 2.0.1](https://github.com/jimhester/lintr/blob/master/NEWS.md)
+
++ [{devtools 2.2.2}](https://devtools.r-lib.org/news/index.html#devtools-2-2-2)
+
++ [{gghighlight 0.2.0}](https://cran.r-project.org/package=gghighlight)
 
 ### Gist & Cookbook
 
@@ -76,9 +84,9 @@ Release Date: 2020-02-24
 
 + [comparing two data frames: one #rstats, many ways!](https://sharla.party/post/comparing-two-dfs/)
 
++ [gghighlight 0.2.0](https://yutani.rbind.io/post/gghighlight-0-2-0/)
 
-
-
++ [Disintegration, part 2 (12 Months of aRt, November)](https://www.williamrchase.com/post/disintegration-part-2-12-months-of-art-november/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
