@@ -52,15 +52,20 @@ Release Date: 2020-02-24
 **GitHub or Bitbucket**
 
 + [demodebates2020](https://github.com/favstats/demdebates2020) - Transcripts of democractic debates for 2020 presedential election. 
+
 + [nakedpipe](https://github.com/moodymudskipper/nakedpipe) - Pipe multiple calls without repeating the pipe syoperator
+
 
 + [{dmc}](https://github.com/sharlagelfand/dmc) - Convert Colour to DMC Embroidery Floss and Back
 
+
 ### Updated Packages
 
++ [arrow 0.16](https://arrow.apache.org/)
 
++ [lint 2.0.1](https://github.com/jimhester/lintr/blob/master/NEWS.md)
 
-+ [arrow 0.16](https://arrow.apache.org/)### Gist & Cookbook
+### Gist & Cookbook
 
 
 
