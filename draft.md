@@ -52,7 +52,12 @@ Release Date: 2020-02-24
 **GitHub or Bitbucket**
 
 + [demodebates2020](https://github.com/favstats/demdebates2020) - Transcripts of democractic debates for 2020 presedential election. 
+
 + [nakedpipe](https://github.com/moodymudskipper/nakedpipe) - Pipe multiple calls without repeating the pipe syoperator
+
+
++ [{dmc}](https://github.com/sharlagelfand/dmc) - Convert Colour to DMC Embroidery Floss and Back
+
 
 ### Updated Packages
 
@@ -68,6 +73,8 @@ Release Date: 2020-02-24
 
 
 ###  Tutorials
+
++ [comparing two data frames: one #rstats, many ways!](https://sharla.party/post/comparing-two-dfs/)
 
 
 
