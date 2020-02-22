@@ -35,9 +35,6 @@ Release Date: 2020-02-24
 
 + [The significance of the sector on the salary in Sweden, a comparison between different occupational groups](http://mikaellundqvist.rbind.io/2020/02/19/the-significance-of-the-sector-on-the-salary-in-sweden-a-comparison-between-different-occupational-groups/)
 
-+ [The significance of the sector on the salary in Sweden, a comparison between different occupational groups](http://mikaellundqvist.rbind.io/2020/02/19/the-significance-of-the-sector-on-the-salary-in-sweden-a-comparison-between-different-occupational-groups/)
-
-
 ###  R in Organizations
 
 
@@ -163,8 +160,6 @@ Release Date: 2020-02-24
 
 
 + [Debugging: Signals and Subprocesses](https://blog.r-hub.io/2020/02/20/processx-blocked-sigchld/)
-
-+ [Circular regression trees and forests](https://eeecon.uibk.ac.at/~zeileis/news/circtree/)
 
 + [Testing for a causal effect (with 2 time series)](https://freakonometrics.hypotheses.org/59985)
 
