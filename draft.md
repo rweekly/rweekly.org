@@ -87,6 +87,8 @@ Release Date: 2020-02-24
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+* [Kurt Hornik: stringsAsFactors](https://developer.r-project.org/Blog/public/2020/02/16/stringsasfactors/)
+
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
