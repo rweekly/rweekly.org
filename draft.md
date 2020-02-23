@@ -23,7 +23,7 @@ Release Date: 2020-02-24
 
 + [2 Months in 2 Minutes - rOpenSci News, February 2020](https://ropensci.org/blog/2020/02/20/news-feb2020/)
 
-
++ [R is turning 20 years old next Saturday. Here is how much bigger, stronger and faster it got over the years](https://jozef.io/r921-happy-birthday-r/)
 
 
 
@@ -176,6 +176,8 @@ Release Date: 2020-02-24
 
 
 + [DALEX v 1.0 and the Explanatory Model Analysis](https://medium.com/@ModelOriented/dalex-v-1-0-and-the-explanatory-model-analysis-419585a4ba91?source=rss-57dd112ef71e------2)
+
++ [10 Tips To Souping Up Rmarkdown](https://ryanpeek.github.io/2020-02-20-10-tips-to-souping-up-rmarkdown/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
