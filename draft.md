@@ -104,6 +104,8 @@ Release Date: 2020-02-24
 
 + [{gghighlight 0.2.0}](https://cran.r-project.org/package=gghighlight)
 
++ [dbparser 1.1.0](https://cran.r-project.org/web/packages/dbparser/index.html)
+
 ### Gist & Cookbook
 
 
