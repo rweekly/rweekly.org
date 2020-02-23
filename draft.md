@@ -104,6 +104,8 @@ Release Date: 2020-02-24
 
 + [{gghighlight 0.2.0}](https://cran.r-project.org/package=gghighlight)
 
++ [{searcher 0.0.5}](https://thecoatlessprofessor.com/software-releases/searcher/searcher-v0.0.5-released-search-twitter-and-search-experience-customizations/)
+
 ### Gist & Cookbook
 
 
