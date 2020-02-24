@@ -9,7 +9,10 @@ Release Date: 2020-02-24
 
 ###  Highlight
 
++ [rOpenSci's Leadership in #rstats Culture](https://ropensci.org/blog/2020/02/21/ropensci-leadership/)
 
+
++ [Debugging: Signals and Subprocesses](https://blog.r-hub.io/2020/02/20/processx-blocked-sigchld/)
 
 ###  Videos and Podcasts
 
@@ -20,8 +23,6 @@ Release Date: 2020-02-24
 
 ### Insights
 
-
-+ [2 Months in 2 Minutes - rOpenSci News, February 2020](https://ropensci.org/blog/2020/02/20/news-feb2020/)
 
 
 
@@ -35,6 +36,11 @@ Release Date: 2020-02-24
 
 + [The significance of the sector on the salary in Sweden, a comparison between different occupational groups](http://mikaellundqvist.rbind.io/2020/02/19/the-significance-of-the-sector-on-the-salary-in-sweden-a-comparison-between-different-occupational-groups/)
 
+
++ [Movers & Shakers: trying to make sense of Fantasy Premier League data](https://austinwehrwein.com/post/fpl/)
+
+![Movers & Shakers: trying to make sense of Fantasy Premier League data](https://raw.githubusercontent.com/rweekly/image/master/2020/fpl.png)
+
 ###  R in Organizations
 
 
@@ -42,6 +48,9 @@ Release Date: 2020-02-24
 
 
 + [rOpenSci's Leadership in #rstats Culture](https://ropensci.org/blog/2020/02/21/ropensci-leadership/)
+
++ [2 Months in 2 Minutes - rOpenSci News, February 2020](https://ropensci.org/blog/2020/02/20/news-feb2020/)
+
 
 ###  R in Academia
 
@@ -101,6 +110,8 @@ Release Date: 2020-02-24
 
 + [{gghighlight 0.2.0}](https://cran.r-project.org/package=gghighlight)
 
+![gghighlight 0.2.0](https://raw.githubusercontent.com/rweekly/image/master/2020/README-gghighlight-simple-1.png)
+
 ### Gist & Cookbook
 
 
@@ -112,13 +123,15 @@ Release Date: 2020-02-24
 
 + [comparing two data frames: one #rstats, many ways!](https://sharla.party/post/comparing-two-dfs/)
 
-+ [gghighlight 0.2.0](https://yutani.rbind.io/post/gghighlight-0-2-0/)
-
 + [R, Public Health and Politics](https://rviews.rstudio.com/2020/02/19/r-public-health-and-politics/)
 
 + [Disintegration, part 2 (12 Months of aRt, November)](https://www.williamrchase.com/post/disintegration-part-2-12-months-of-art-november/)
 
+![Disintegration](https://raw.githubusercontent.com/rweekly/image/master/2020/artno.png)
+
 + [Spatial predictions with GAMs and rasters](http://www.seascapemodels.org/rstats/2020/02/19/spatial-gam-predictions.html#)
+
+![Spatial predictions with GAMs and rasters](https://raw.githubusercontent.com/rweekly/image/master/2020/spatial-gam.png)
 
 + [relgam: Fitting reluctant generalized additive models](https://statisticaloddsandends.wordpress.com/2020/02/22/relgam-fitting-reluctant-generalized-additive-models/)
 
@@ -129,7 +142,6 @@ Release Date: 2020-02-24
 + [dataviz workshop at rstudio::conf](https://kieranhealy.org/blog/archives/2020/02/18/dataviz-workshop-at-rstudioconf/)
 
 + [Screen like RStudio Project](https://uncmbbtrivia.netlify.com/post/2020/02/16/screen-like-rstudio-project/)
-
 
 + [Creating MS Word reports using the officer package](https://sciprincess.wordpress.com/2020/02/17/creating-ms-word-reports-using-the-officer-package/)
 
@@ -142,6 +154,8 @@ Release Date: 2020-02-24
 
 + [How is information gain calculated?](http://theautomatic.net/2020/02/18/how-is-information-gain-calculated/)
 
++ [Introduction to gghighlight 0.2.0 ](https://yutani.rbind.io/post/gghighlight-0-2-0/)
+
 + [What and who is IT community? What does it take to be part?](https://tomaztsql.wordpress.com/2020/02/18/what-and-who-is-it-community-what-does-it-take-to-be-part/)
 
 + [RStudio 1.3 Preview: Configuration and Settings](https://blog.rstudio.com/2020/02/18/rstudio-1-3-preview-configuration/)
@@ -149,6 +163,10 @@ Release Date: 2020-02-24
 + [Getting started in R markdown](https://www.statsandr.com/blog/getting-started-in-r-markdown/)
 
 + [Get Better: R for absolute beginners](https://quantixed.org/2020/02/18/get-better-r-for-absolute-beginners/)
+
++ [DALEX v 1.0 and the Explanatory Model Analysis](https://medium.com/@ModelOriented/dalex-v-1-0-and-the-explanatory-model-analysis-419585a4ba91?source=rss-57dd112ef71e------2)
+
+![DALEX v 1.0 and the Explanatory Model Analysis](https://raw.githubusercontent.com/rweekly/image/master/2020/dalex.png)
 
 + [Quantile Regression (home made, part 2)](https://freakonometrics.hypotheses.org/59875)
 
@@ -167,10 +185,6 @@ Release Date: 2020-02-24
 
 + [Create a specific feed in your Jekyll blog](https://thierrymoudiki.github.io/blog/2020/02/21/misc/create-feed-jekyll-blog)
 
-+ [Movers & Shakers: trying to make sense of Fantasy Premier League data](https://austinwehrwein.com/post/fpl/)
-
-
-+ [DALEX v 1.0 and the Explanatory Model Analysis](https://medium.com/@ModelOriented/dalex-v-1-0-and-the-explanatory-model-analysis-419585a4ba91?source=rss-57dd112ef71e------2)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
