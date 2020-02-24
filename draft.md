@@ -57,6 +57,8 @@ Release Date: 2020-03-02
 
 + [dbparser 1.1.0](https://cran.r-project.org/web/packages/dbparser/index.html)
 
++ [{searcher 0.0.5}](https://thecoatlessprofessor.com/software-releases/searcher/searcher-v0.0.5-released-search-twitter-and-search-experience-customizations/)
+
 ### Gist & Cookbook
 
 
@@ -108,4 +110,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
 
