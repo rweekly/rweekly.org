@@ -55,6 +55,8 @@ Release Date: 2020-03-02
 
 
 
++ [dbparser 1.1.0](https://cran.r-project.org/web/packages/dbparser/index.html)
+
 ### Gist & Cookbook
 
 
