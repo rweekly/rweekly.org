@@ -14,18 +14,6 @@ Release Date: 2020-02-24
 
 + [Debugging: Signals and Subprocesses](https://blog.r-hub.io/2020/02/20/processx-blocked-sigchld/)
 
-###  Videos and Podcasts
-
-+ [Explore complex objects with the str() function](https://www.youtube.com/watch?v=fGMFc60eb5k)
-
-
-+ [Our first ever NHS-R webinar!](https://nhsrcommunity.com/blog/our-first-ever-nhs-r-webinar/)
-
-### Insights
-
-
-
-
 
 
 ### R in the Real World
@@ -36,6 +24,8 @@ Release Date: 2020-02-24
 
 + [The significance of the sector on the salary in Sweden, a comparison between different occupational groups](http://mikaellundqvist.rbind.io/2020/02/19/the-significance-of-the-sector-on-the-salary-in-sweden-a-comparison-between-different-occupational-groups/)
 
+
++ [R is turning 20 years old next Saturday. Here is how much bigger, stronger and faster it got over the years](https://jozef.io/r921-happy-birthday-r/)
 
 + [Movers & Shakers: trying to make sense of Fantasy Premier League data](https://austinwehrwein.com/post/fpl/)
 
@@ -50,6 +40,16 @@ Release Date: 2020-02-24
 + [rOpenSci's Leadership in #rstats Culture](https://ropensci.org/blog/2020/02/21/ropensci-leadership/)
 
 + [2 Months in 2 Minutes - rOpenSci News, February 2020](https://ropensci.org/blog/2020/02/20/news-feb2020/)
+
+###  Videos and Podcasts
+
++ [Explore complex objects with the str() function](https://www.youtube.com/watch?v=fGMFc60eb5k)
+
+
++ [Our first ever NHS-R webinar!](https://nhsrcommunity.com/blog/our-first-ever-nhs-r-webinar/)
+
+### Insights
+
 
 
 ###  R in Academia
@@ -185,6 +185,8 @@ Release Date: 2020-02-24
 
 + [Create a specific feed in your Jekyll blog](https://thierrymoudiki.github.io/blog/2020/02/21/misc/create-feed-jekyll-blog)
 
+
++ [10 Tips To Souping Up Rmarkdown](https://ryanpeek.github.io/2020-02-20-10-tips-to-souping-up-rmarkdown/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
