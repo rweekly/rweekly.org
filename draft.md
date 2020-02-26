@@ -105,7 +105,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Jobs
 
-
++ [R Studio Internships](https://rstudio.com/about/job-posting/?gh_jid=4019930003)
 
 
 ###  Call for Participation
