@@ -60,6 +60,8 @@ Release Date: 2020-02-24
 
 + [lint 2.0.1](https://github.com/jimhester/lintr/blob/master/NEWS.md)
 
++ [qualtRics](https://github.com/ropensci/qualtRics)
+
 ### Gist & Cookbook
 
 
