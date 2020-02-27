@@ -1,22 +1,13 @@
 ---
 layout: draft
-title: R Weekly 2020-08
+title: R Weekly 2020-09
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-02-24
+Release Date: 2020-03-02
 
 ###  Highlight
-
-
-
-###  Videos and Podcasts
-
-
-### Insights
-
-
 
 
 
@@ -24,17 +15,23 @@ Release Date: 2020-02-24
 ### R in the Real World
 
 
+
 ###  R in Organizations
+
+
+
+###  Videos and Podcasts
+
+
+
+### Insights
 
 
 
 ###  R in Academia
 
 
-
 ###  Resources
-
-+ [Basics & Cheatsheets](https://medium.com/@moorissa/the-best-resources-for-r-programming-37dbc94e0de6)
 
 
 
@@ -43,18 +40,24 @@ Release Date: 2020-02-24
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
-+ [osfr](https://github.com/ropensci/osfr) - provides a suite of functions for interacting with the Open Science Framework. 
+
+
 
 **BioC**
 
 
 
-**GitHub or Bitbucket**
+**GitHub or Bitbucket*
 
 + [demodebates2020](https://github.com/favstats/demdebates2020) - Transcripts of democractic debates for 2020 presedential election. 
 + [nakedpipe](https://github.com/moodymudskipper/nakedpipe) - Pipe multiple calls without repeating the pipe syoperator
 
 ### Updated Packages
+
+
++ [dbparser 1.1.0](https://cran.r-project.org/web/packages/dbparser/index.html)
+
++ [{searcher 0.0.5}](https://thecoatlessprofessor.com/software-releases/searcher/searcher-v0.0.5-released-search-twitter-and-search-experience-customizations/)
 
 + [arrow 0.16](https://arrow.apache.org/)
 
@@ -72,21 +75,18 @@ Release Date: 2020-02-24
 ###  Tutorials
 
 
-
-
-
-
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+* [Kurt Hornik: stringsAsFactors](https://developer.r-project.org/Blog/public/2020/02/16/stringsasfactors/)
+
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
 
-+ [TokyoR #84: February 29, 2020](https://tokyor.connpass.com/)
 
 + [Time-to-Event Analytics: Probabilistic Programming with R and Stan (Malmö, Sweden), March 31](https://www.meetup.com/Skane-R-User-Group/events/268627833/)
 
@@ -116,4 +116,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
 
