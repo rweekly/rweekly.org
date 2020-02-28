@@ -15,6 +15,7 @@ Release Date: 2020-03-02
 ### R in the Real World
 
 + [A few examples of how you can use R & Docker for data science, from running a simple script to making reports with RMarkdown with a command line interface.](https://www.robertmylesmcdonnell.com/content/posts/docker/) 
+
 An extremely thorough introduction into a difficult but valuable technique to learn
 
 + [BMI has an expectations management problem](http://freerangestats.info/blog/2020/02/23/bmi)
@@ -29,6 +30,7 @@ An extremely thorough introduction into a difficult but valuable technique to le
 + [What does your ‘Minimally Viable Data Scientist’ look like?](https://www.mango-solutions.com/what-does-your-minimally-viable-data-scientist-look-like/)
 
 + [Data Science Radar: How to Identify World-Class Data Science Capabilities](https://www.mango-solutions.com/data-science-radar-how-to-identify-world-class-data-science-capabilities/)
+
 A two-part post that I found helpful in stating clearly what nebulous data-science-esque job ads are asking for
 
 
@@ -44,6 +46,7 @@ A two-part post that I found helpful in stating clearly what nebulous data-scien
 ### Insights
 
 + [R is turning 20 years old next Saturday. Here is how much bigger, stronger and faster it got over the years](https://jozef.io/r921-happy-birthday-r/)
+
 Coming up to the 4th anniversary of using R, I enjoy reading about the history of the language that I did not experience. This post does this well, balancing the changes in the language itself, and the usage of R over the past 20 years since its 1.0.0 release
 
 + [R Robustreg Package Downloads](https://blog.alpha-analysis.com/2020/02/r-robustreg-package-downloads.html)
@@ -55,6 +58,7 @@ Coming up to the 4th anniversary of using R, I enjoy reading about the history o
 + [My First Uncoast Unconference in 2019](https://yihui.org/en/2020/02/uncoast-unconf/)
 
 + [Developing a complex R Shiny app – the good, the bad and the ugly](https://datascience.blog.wzb.eu/2020/02/27/developing-a-complex-r-shiny-app/)
+
 Most blogs on RWeekly so the development of code towards a final goal so I enjoyed this one that mostly focused on the human side of building a Shiny app. As a result, the app itself also seems extremely well designed for human users
 
 ###  R in Academia
@@ -103,19 +107,23 @@ Most blogs on RWeekly so the development of code towards a final goal so I enjoy
 + [https://www.robertmylesmcdonnell.com/content/posts/showcolours/](https://www.robertmylesmcdonnell.com/content/posts/showcolours/)
 
 + [Visualizing the Bayesian workflow in R](https://www.monicaalexander.com/posts/2020-28-02-bayes_viz/)
+
 Incredibly clearly explained and visualised post on Bayesian technqieus using both brms and Stan
 
 + [Use regression, inverse probability weighting, and matching to close confounding backdoors and find causation in observational data](https://www.andrewheiss.com/blog/2020/02/25/closing-backdoors-dags/)
+
 Another comprehensive guide to lesser-explained techniques, this time in understanding causal effects
 
 + [In this notebook run Monte Carlo simulations to estimate the volume of the d-dimensional ball.](https://juanitorduz.github.io/vol_d_ball/)
 
 + [A curated list of awesome ggplot2 tutorials, packages etc. ](https://github.com/erikgahner/awesome-ggplot2)
+
 Possibly the most complete guide to geoms there is. Extremely extensive and well organised
 
 + [BIMI Up, Scotty! A look at Brand Indicators for Message Identification (BIMI) Adoption with R and the Alexa Top 1m](https://rud.is/b/2020/02/21/bimi-up-scotty-a-look-at-brand-indicators-for-message-identification-bimi-adoption-with-r-and-the-alexa-top-1m/)
 
 + [Synthetic micro-datasets: a promising middle ground between data privacy and data analysis](https://www.brodrigues.co/blog/2020-02-23-synthpop/)
+
 A really neat solution especially of use to people wanting to blog about their work but limited by privacy concerns
 
 + [Le Monde puzzle #1132](https://xianblog.wordpress.com/2020/02/24/le-monde-puzzle-1132/)
@@ -133,7 +141,7 @@ A really neat solution especially of use to people wanting to blog about their w
 + [A New Baby Boom Poster](https://kieranhealy.org/blog/archives/2020/02/26/a-new-baby-boom-poster/)
 
 + [Take a Sad Script & Make it Better: Tidymodels Edition](https://alison.rbind.io/post/2020-02-27-better-tidymodels/)
-Really coneatxamples showing different approaches (and pitfalls) to the same problem coupled with a dazzling array of penguin gifs
+Really neat examples showing different approaches (and pitfalls) to the same problem coupled with a dazzling array of penguin gifs
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
