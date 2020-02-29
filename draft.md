@@ -24,6 +24,8 @@ An extremely thorough introduction into a difficult but valuable technique to le
 
 + [Book slides - Analyzing Financial and Economic Data with R](https://www.msperlin.com/blog/post/2020-02-25-afedr-ed2-slides-available/)
 
++ [Dealing with pressure(s) (FA Women's Super League data)](http://geommark.space/dealing-with-pressures/)
+
 
 ###  R in Organizations
 
@@ -65,6 +67,9 @@ Most blogs on RWeekly so the development of code towards a final goal so I enjoy
 
 + [chain of lynx and drove of hares](https://xianblog.wordpress.com/2020/02/27/chain-of-lynx-and-drove-of-hares/)
 
++ [Peña, D., Smucler, E., & Yohai, V. (2020). gdpc: An R Package for Generalized Dynamic Principal Components. Journal of Statistical Software, 92(Code Snippet 2), 1 - 23. doi:http://dx.doi.org/10.18637/jss.v092.c02](https://www.jstatsoft.org/article/view/v092c02)
+
++ [Dahl, D. (2020). Integration of R and Scala Using rscala. Journal of Statistical Software, 92(4), 1 - 18. doi:http://dx.doi.org/10.18637/jss.v092.i04](https://www.jstatsoft.org/article/view/v092i04)
 
 ###  New Packages
 
@@ -88,8 +93,6 @@ Most blogs on RWeekly so the development of code towards a final goal so I enjoy
 
 + [A new geom for ggplot, geom_bump shows rank over time](https://github.com/davidsjoberg/ggbump)
 
-+ [qualtRics](https://github.com/ropensci/qualtRics)
-
 ### Updated Packages
 
 + [The next package release into AWS Athena](https://dyfanjones.me/post/the-next-package-release-into-aws-athena/)
@@ -102,6 +105,7 @@ Most blogs on RWeekly so the development of code towards a final goal so I enjoy
 
 + [{searcher 0.0.5}](https://thecoatlessprofessor.com/software-releases/searcher/searcher-v0.0.5-released-search-twitter-and-search-experience-customizations/)
 
++ [{qualtRics 3.1.2}](https://github.com/ropensci/qualtRics)
 
 ###  Tutorials
 
@@ -143,6 +147,10 @@ A really neat solution especially of use to people wanting to blog about their w
 
 + [Take a Sad Script & Make it Better: Tidymodels Edition](https://alison.rbind.io/post/2020-02-27-better-tidymodels/)
 Really neat examples showing different approaches (and pitfalls) to the same problem coupled with a dazzling array of penguin gifs
+
+### International R
+
+[Probabilidades de pasar la fase de grupos en Copa Libertadores 2020](http://datofutbol.cl/libertadores-2020/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
