@@ -9,7 +9,11 @@ Release Date: 2020-03-02
 
 ###  Highlight
 
++ [A curated list of awesome ggplot2 tutorials, packages etc. ](https://github.com/erikgahner/awesome-ggplot2)
 
++ [Use regression, inverse probability weighting, and matching to close confounding backdoors and find causation in observational data](https://www.andrewheiss.com/blog/2020/02/25/closing-backdoors-dags/)
+
++ [A few examples of how you can use R & Docker for data science, from running a simple script to making reports with RMarkdown with a command line interface.](https://www.robertmylesmcdonnell.com/content/posts/docker/) 
 
 
 ### R in the Real World
@@ -19,6 +23,9 @@ Release Date: 2020-03-02
 An extremely thorough introduction into a difficult but valuable technique to learn
 
 + [BMI has an expectations management problem](http://freerangestats.info/blog/2020/02/23/bmi)
+
+![BMI vs Height for Ethnicities in the US](https://raw.githubusercontent.com/rweekly/image/master/2020-03-02/img_1_bmi_processed.png)
+
 
 + [The significance of the sector on the salary in Sweden, a comparison between different occupational groups, part 2](http://mikaellundqvist.rbind.io/2020/02/23/the-significance-of-the-sector-on-the-salary-in-sweden-a-comparison-between-different-occupational-groups-part-2/)
 
@@ -121,7 +128,9 @@ Another comprehensive guide to lesser-explained techniques, this time in underst
 
 + [In this notebook run Monte Carlo simulations to estimate the volume of the d-dimensional ball.](https://juanitorduz.github.io/vol_d_ball/)
 
-+ [A curated list of awesome ggplot2 tutorials, packages etc. ](https://github.com/erikgahner/awesome-ggplot2)
++ ![Estimating the volume of a d-dimensional ball](https://raw.githubusercontent.com/rweekly/image/master/2020-03-02/img_2_ball_processed.png)
+
+[A curated list of awesome ggplot2 tutorials, packages etc. ](https://github.com/erikgahner/awesome-ggplot2)
 
 Possibly the most complete guide to geoms there is. Extremely extensive and well organised
 
@@ -145,7 +154,9 @@ A really neat solution especially of use to people wanting to blog about their w
 
 + [A New Baby Boom Poster](https://kieranhealy.org/blog/archives/2020/02/26/a-new-baby-boom-poster/)
 
-+ [Take a Sad Script & Make it Better: Tidymodels Edition](https://alison.rbind.io/post/2020-02-27-better-tidymodels/)
++ ![Visualising the Baby Boom](https://raw.githubusercontent.com/rweekly/image/master/2020-03-02/img_3_babies_processed.png)
+
+[Take a Sad Script & Make it Better: Tidymodels Edition](https://alison.rbind.io/post/2020-02-27-better-tidymodels/)
 Really neat examples showing different approaches (and pitfalls) to the same problem coupled with a dazzling array of penguin gifs
 
 ### International R
