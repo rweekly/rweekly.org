@@ -27,16 +27,17 @@ Release Date: 2020-00-00
 
 + [A SHINY QUIZ APP ABOUT THE RUSSIAN INFLUENCE CAMPAIGN BEFORE THE 2016 US ELECTIONS](http://skranz.github.io//r/2020/03/05/fbiraquiz.html)
 
-###  R in Organizations
++ [Predicting the video game hype train - Playing around with Naïve Bayesian Learning](https://rcrastinate.rbind.io/post/naive-bayesian-learning-video-games/)
 
-
-
-###  R in Academia
-
-
++ [COVID-19 epidemiology with R](https://rviews.rstudio.com/2020/03/05/covid-19-epidemiology-with-r/)
 
 ###  Resources
 
++ [Twitter for R programmers](https://www.t4rstats.com/)
+
++ [Source code chapter of ‘evidence-based software engineering’ reworked](http://shape-of-code.coding-guidelines.com/2020/02/29/source-code-chapter-of-evidence-based-software-engineering-reworked/)
+
++ [OpenIntro Labs - tidyverse](https://github.com/openintrostat/oilabs-tidy)
 
 
 ###  New Packages
@@ -51,8 +52,7 @@ Release Date: 2020-00-00
 
 + [The probabilities implied by bookmaker odds: Introducing the ‘implied’ package](http://opisthokonta.net/?p=1797)
 
-**BioC**
-
++ [lillies: Estimation of Life Years Lost](https://cran.r-project.org/web/packages/lillies/index.html)
 
 
 **GitHub or Bitbucket**
@@ -61,6 +61,8 @@ Release Date: 2020-00-00
 
 + [tsmp v0.4.8 release – Introducing the Matrix Profile API](https://r-posts.com/tsmp-v0-4-8-release-introducing-the-matrix-profile-api/)
 
++ [A geom for ggplot to create bump plots](https://github.com/davidsjoberg/ggbump)
+
 ### Updated Packages
 
 + [RcppSimdJson 0.0.3: Second Update!](http://dirk.eddelbuettel.com/blog/2020/03/04/#rcppsimdjson_0.0.3)
@@ -68,14 +70,6 @@ Release Date: 2020-00-00
 ###  Videos and Podcasts
 
 + [CelebRation 2020](https://www.youtube.com/channel/UCqEdfW-1KUn_QQyQogxqLeA/)
-
-### Gist & Cookbook
-
-+ [Twitter for R programmers](https://www.t4rstats.com/)
-
-+ [Source code chapter of ‘evidence-based software engineering’ reworked](http://shape-of-code.coding-guidelines.com/2020/02/29/source-code-chapter-of-evidence-based-software-engineering-reworked/)
-
-+ [OpenIntro Labs - tidyverse](https://github.com/openintrostat/oilabs-tidy)
 
 ### R Internationally
 
@@ -131,12 +125,6 @@ Events in 3 Months:
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
-### Datasets
-
-### Jobs
-
-
-
 
 ###  Call for Participation
 
@@ -146,3 +134,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Happy 20th birthday to R! Some might say you&#39;re a niche language focused solely on data and have little to no utility beyond that domain, but others see the (pathtraced bouncing LEGO brick) potential within 😀<br><br>Video rendered entirely in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> using the <a href="https://twitter.com/hashtag/rayrender?src=hash&amp;ref_src=twsrc%5Etfw">#rayrender</a> package <a href="https://t.co/dmSkqYLJJt">pic.twitter.com/dmSkqYLJJt</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href="https://twitter.com/tylermorganwall/status/1233841641254862848?ref_src=twsrc%5Etfw">February 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> project of the day : make R code chunks interactive in html output from a <a href="https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw">#rmarkdown</a> file. <br>Next try: integrate with <a href="https://twitter.com/hashtag/bookdown?src=hash&amp;ref_src=twsrc%5Etfw">#bookdown</a> for interactive example chunks. Quick Demo doc: <a href="https://t.co/th95VxJ9QY">https://t.co/th95VxJ9QY</a><br>What do you think about this small example ? Is this of any interest ? <a href="https://t.co/NyjlnVeqU2">pic.twitter.com/NyjlnVeqU2</a></p>&mdash; Christophe Dervieux (@chrisderv) <a href="https://twitter.com/chrisderv/status/1235668163741839373?ref_src=twsrc%5Etfw">March 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
