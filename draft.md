@@ -23,6 +23,10 @@ Release Date: 2020-00-00
 
 + [2020 Democratic Primaries](https://austinwehrwein.com/dnc2020/)
 
++ [Decision Boundary for a Series of Machine Learning Models](https://lf0.com/post/machine-learning-boundary-conditions/machine-learning-boundary-conditions/)
+
+
+
 ### R in the Real World
 
 + [A SHINY QUIZ APP ABOUT THE RUSSIAN INFLUENCE CAMPAIGN BEFORE THE 2016 US ELECTIONS](http://skranz.github.io//r/2020/03/05/fbiraquiz.html)
@@ -30,6 +34,12 @@ Release Date: 2020-00-00
 + [Predicting the video game hype train - Playing around with Naïve Bayesian Learning](https://rcrastinate.rbind.io/post/naive-bayesian-learning-video-games/)
 
 + [COVID-19 epidemiology with R](https://rviews.rstudio.com/2020/03/05/covid-19-epidemiology-with-r/)
+
++ [When does "garbage time" in an start in an NBA game? ](https://jtcies.com/2020/03/when-does-garbage-time-start/)
+
++ [Modeling roll call voting behavior in the US House](https://www.jtimm.net/2020/02/11/modeling-roll-call-voting-behavior/)
+
+
 
 ###  Resources
 
@@ -57,7 +67,7 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-+ [rud.is](https://rud.is/b/2020/03/04/catchpole-redux-and-hashing-files-websites-with-ssdeepr/)
++ [{catchpole} Redux and Hashing Files & Websites with {ssdeepr}](https://rud.is/b/2020/03/04/catchpole-redux-and-hashing-files-websites-with-ssdeepr/)
 
 + [tsmp v0.4.8 release – Introducing the Matrix Profile API](https://r-posts.com/tsmp-v0-4-8-release-introducing-the-matrix-profile-api/)
 
@@ -81,9 +91,9 @@ Release Date: 2020-00-00
 
 + [Bayes’ theorem in three panels](https://www.tjmahr.com/bayes-theorem-in-three-panels/)
 
-+ [Fabio Marroni's Blog](https://fabiomarroni.wordpress.com/2020/03/04/nice-tables-in-r/)
++ [Nice tables in R](https://fabiomarroni.wordpress.com/2020/03/04/nice-tables-in-r/)
 
-+ [François Husson](https://francoishusson.wordpress.com/2020/03/04/all-you-need-to-know-on-corespondence-analysis/)
++ [All you need to know on Correspondence Analysis](https://francoishusson.wordpress.com/2020/03/04/all-you-need-to-know-on-corespondence-analysis/)
 
 + [Patchwork R package goes nerd viral](https://www.littlemissdata.com/blog/patchwork)
 
@@ -96,6 +106,13 @@ Release Date: 2020-00-00
 + [R tips and tricks – Paste a plot from R to a word file](https://eranraviv.com/r-tips-and-tricks-paste-a-plot-from-r-to-a-word-file/)
 
 + [R data.table symbols and operators you should know](https://www.infoworld.com/article/3530348/r-datatable-symbols-and-operators-you-should-know.html)
+
++ [How to generate, play and solve Sudoku puzzles in R](https://medium.com/@tumuhimbisemoses/how-to-generate-play-and-solve-sudoku-puzzles-in-r-26761b056fe4)
+
++ [Use of the .data and .env Pronouns to Disambiguate Your Tidyverse Code](https://tinyheero.github.io/2020/03/01/use-data-env-pronouns-tidyverse.htmlhttps://)
+
++ [Good-looking problems: customise your Shiny disconnected screen and error messages.](https://sever.john-coene.com/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -127,6 +144,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
 ###  Call for Participation
+
++ [Call for papers open for SatRday Santiago de Compostela 2020](https://compostela2020.satrdays.org)
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
