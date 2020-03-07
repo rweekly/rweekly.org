@@ -109,7 +109,7 @@ Release Date: 2020-00-00
 
 + [How to generate, play and solve Sudoku puzzles in R](https://medium.com/@tumuhimbisemoses/how-to-generate-play-and-solve-sudoku-puzzles-in-r-26761b056fe4)
 
-+ [Use of the .data and .env Pronouns to Disambiguate Your Tidyverse Code](https://tinyheero.github.io/2020/03/01/use-data-env-pronouns-tidyverse.htmlhttps://)
++ [Use of the .data and .env Pronouns to Disambiguate Your Tidyverse Code](https://tinyheero.github.io/2020/03/01/use-data-env-pronouns-tidyverse.html)
 
 + [Good-looking problems: customise your Shiny disconnected screen and error messages.](https://sever.john-coene.com/)
 
