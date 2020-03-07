@@ -137,7 +137,9 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-+ [satRday Neuchâtel 2020](https://neuchatel2020.satrdays.org/)
++ [satRday Neuchâtel 2020 will be REMOTE](https://neuchatel2020.satrdays.org/)
+
+![satRday Neuchâtel 2020 will be REMOTE](https://twitter.com/satRdayNeuCH/status/1234880042817204225)
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
