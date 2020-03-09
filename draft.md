@@ -49,6 +49,7 @@ Release Date: 2020-00-00
 
 + [OpenIntro Labs - tidyverse](https://github.com/openintrostat/oilabs-tidy)
 
++ [Using R and Tableau](https://www.tableau.com/learn/whitepapers/using-r-and-tableau)
 
 ###  New Packages
 
