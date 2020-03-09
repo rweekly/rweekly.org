@@ -9,7 +9,7 @@ Release Date: 2020-00-00
 
 ###  Highlight
 
-
++ [What's next for the popular programming language R?](https://qz.com/1661487/hadley-wickham-on-the-future-of-r-python-and-the-tidyverse/)
 
 ### Insights
 
