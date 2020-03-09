@@ -73,6 +73,8 @@ Release Date: 2020-00-00
 
 + [A geom for ggplot to create bump plots](https://github.com/davidsjoberg/ggbump)
 
++ [AutoML in R](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
+
 ### Updated Packages
 
 + [RcppSimdJson 0.0.3: Second Update!](http://dirk.eddelbuettel.com/blog/2020/03/04/#rcppsimdjson_0.0.3)
