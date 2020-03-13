@@ -45,6 +45,8 @@ Release Date: 2019-00-00
 
 + [AsioHeaders 1.12.2-1](http://dirk.eddelbuettel.com/blog/2020/03/11#asioheaders_1.12.2-1)
 
++ [RInside 0.2.16](http://dirk.eddelbuettel.com/blog/2020/03/12#rinside_0.2.16)
+
 **BioC**
 
 
@@ -95,6 +97,11 @@ Release Date: 2019-00-00
 
 + [one or two?](https://xianblog.wordpress.com/2020/03/12/one-or-two/)
 
++ [Keep Calm and Use vtreat (in R and in Python)](http://www.win-vector.com/blog/2020/03/keep-calm-and-use-vtreat-in-r-and-in-python/)
+
++ [Automate the Creation of an API Wrapper package by Scraping its Online Documentation](https://colinfay.me/fun-from-api-doc/)
+
++ [Supercharge your GitHub Actions Experience with tic](https://ropensci.org/technotes/2020/03/13/tic-ghactions/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
