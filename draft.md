@@ -40,7 +40,17 @@ Release Date: 2019-00-00
 
 ###  Resources
 
++ [R-Ladies Meetups Materials. This Shiny App was generated for the celebration of International Women's Day 2020.](https://yabellini.shinyapps.io/RLadiesLesson/)
+
 + [A hackathon-in-a-box / "cookbook" to help build an R package with custom RMarkdown themes and ggplot2 themes & palettes. ](https://github.com/emilyriederer/Rtistic)
+
++ [Will Landau's Bash functions](https://github.com/wlandau/dotfiles/blob/master/dotfiles/.bash_r)
+
++ [Zen and the Art of R Package development](https://zenartofrpkgs.netlify.com/#1)
+
++ ['prod' is not a four-letter word: how to confidently send R into production](https://speakerdeck.com/colinfay/keynote-prod-is-not-a-four-letter-word)
+
++ [(Re)building the R Bootcamp and generating R tutorials](https://education.rstudio.com/blog/2020/03/r-bootcamp/)
 
 ###  New Packages
 
@@ -48,15 +58,7 @@ Release Date: 2019-00-00
 
 **CRAN**
 
-+ [roxygen2 7.1.0: a handful of bug fixes + more support knitr-style execution of R code within docs](https://www.tidyverse.org/blog/2020/03/roxygen2-7-1-0/)
-
-+ [cyphr 1.1.0: work with encrypted data from #rstats easily and collaboratively - no major new features but lots of little things that smooth over some rough edges](https://reside-ic.github.io/blog/cyphr-1.1.0/)
-
-+ [RcppAnnoy 0.0.16](http://dirk.eddelbuettel.com/blog/2020/03/08#rcppannoy_0.0.16)
-
-+ [AsioHeaders 1.12.2-1](http://dirk.eddelbuettel.com/blog/2020/03/11#asioheaders_1.12.2-1)
-
-+ [RInside 0.2.16](http://dirk.eddelbuettel.com/blog/2020/03/12#rinside_0.2.16)
++ [NobBS: Nowcasting by Bayesian Smoothing](https://cran.r-project.org/web/packages/NobBS/index.html)
 
 **BioC**
 
@@ -68,6 +70,15 @@ Release Date: 2019-00-00
 
 ### Updated Packages
 
++ [roxygen2 7.1.0: a handful of bug fixes + more support knitr-style execution of R code within docs](https://www.tidyverse.org/blog/2020/03/roxygen2-7-1-0/)
+
++ [cyphr 1.1.0: work with encrypted data from #rstats easily and collaboratively - no major new features but lots of little things that smooth over some rough edges](https://reside-ic.github.io/blog/cyphr-1.1.0/)
+
++ [RcppAnnoy 0.0.16](http://dirk.eddelbuettel.com/blog/2020/03/08#rcppannoy_0.0.16)
+
++ [AsioHeaders 1.12.2-1](http://dirk.eddelbuettel.com/blog/2020/03/11#asioheaders_1.12.2-1)
+
++ [RInside 0.2.16](http://dirk.eddelbuettel.com/blog/2020/03/12#rinside_0.2.16)
 
 
 ###  Videos and Podcasts
@@ -120,6 +131,8 @@ Release Date: 2019-00-00
 
 + [Take a Sad Script & Make it Better: Tidymodels Edition](https://alison.rbind.io/post/2020-02-27-better-tidymodels/#tidymodels-101)
 
++ [Exploring tidymodels With Hockey Data](https://meghan.rbind.io/post/tidymodels-intro/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -157,3 +170,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> 4.0.0 has been scheduled for April 24. Details, including nickname, on <a href="https://t.co/R4UDX97PPY">https://t.co/R4UDX97PPY</a><br><br>Some irregularity may occur due to COVID-19 lockdown in Denmark.</p>&mdash; Peter Dalgaard (@pdalgd) <a href="https://twitter.com/pdalgd/status/1238084185698578440?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are pleased to announce that the useR! 2021conference will take place in Zurich, Switzerland on 6-9 July 2021. Follow <a href="https://twitter.com/useR2021zrh?ref_src=twsrc%5Etfw">@useR2021zrh</a> for news and updates.<a href="https://t.co/MkMatMGRTW">https://t.co/MkMatMGRTW</a></p>&mdash; The R Foundation (@_R_Foundation) <a href="https://twitter.com/_R_Foundation/status/1236949847627923457?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In light of developments surrounding the global spread of the COVID-19 virus we have decided to postpone the <a href="https://twitter.com/hashtag/uRos2020?src=hash&amp;ref_src=twsrc%5Etfw">#uRos2020</a> conference to 2-4 December. Tutorial sessions and UNCONFuRos will take place on 30 November-1 December. More information via <a href="https://t.co/d9ARy9yq9y">https://t.co/d9ARy9yq9y</a>. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; uRos (@uRosconf) <a href="https://twitter.com/uRosconf/status/1237001680127918083?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote>
