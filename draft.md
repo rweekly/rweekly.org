@@ -13,7 +13,7 @@ Release Date: 2019-00-00
 
 ### Insights
 
-
++ [From Bioconductor users to developers: our first community submission](https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/#.XmG5-5NKj_Q)
 
 ### R in the Real World
 
@@ -45,7 +45,9 @@ Release Date: 2019-00-00
 
 **GitHub or Bitbucket**
 
++ [`texttych`, Create interactive text parallels](https://github.com/daranzolin/textych)
 
++ [`onetime`, Run R code just once per user.](https://github.com/hughjonesd/onetime)
 
 ### Updated Packages
 
@@ -53,7 +55,7 @@ Release Date: 2019-00-00
 
 ###  Videos and Podcasts
 
-
++ [Video Tutorial: Create and Customize a Simple Shiny Dashboard](https://appsilon.com/video-tutorial-create-and-customize-a-simple-shiny-dashboard/)
 
 ### Gist & Cookbook
 
@@ -78,15 +80,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [Tokyo.R #82, October 26](https://tokyor.connpass.com/)
-
-+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
-
-+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/) 
-
-+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
-
-+ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
++ [rOpenSci Community Call: Maintaining an R package](https://ropensci.org/commcalls/2020-03-18/) (online)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
