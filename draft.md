@@ -26,6 +26,10 @@ Release Date: 2019-00-00
 
 + [dplyr 1.0.0 is coming soon](https://www.tidyverse.org/blog/2020/03/dplyr-1-0-0-is-coming-soon/)
 
++ [(Re)building the R Bootcamp and generating R tutorials](https://education.rstudio.com/blog/2020/03/r-bootcamp/)
+
++ [What I didn’t expect to learn at satRday](https://hendrikvanb.gitlab.io/2020/03/what_i_didnt_expect_to_learn_at_satrday/)
+
 ### R in the Real World
 
 
@@ -50,7 +54,7 @@ Release Date: 2019-00-00
 
 + ['prod' is not a four-letter word: how to confidently send R into production](https://speakerdeck.com/colinfay/keynote-prod-is-not-a-four-letter-word)
 
-+ [(Re)building the R Bootcamp and generating R tutorials](https://education.rstudio.com/blog/2020/03/r-bootcamp/)
++ [afrimapr: Creating reusable R building blocks for mapping data in Africa in 2020](https://figshare.com/articles/afrimapr_Creating_reusable_R_building_blocks_for_mapping_data_in_Africa_in_2020/11949087/2)
 
 ###  New Packages
 
