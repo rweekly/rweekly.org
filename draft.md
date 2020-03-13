@@ -56,6 +56,10 @@ Release Date: 2019-00-00
 
 + [afrimapr: Creating reusable R building blocks for mapping data in Africa in 2020](https://figshare.com/articles/afrimapr_Creating_reusable_R_building_blocks_for_mapping_data_in_Africa_in_2020/11949087/2)
 
++ [{purrr} beyond map(): my talk at satRday Joburg 2020](https://hendrikvanb.gitlab.io/2020/03/purrr_beyond_map/)
+
++ [Presentations for satRday Joburg, held on 7th March 2020.](https://github.com/jonmcalder/satRday-JHB-2020)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
