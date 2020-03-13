@@ -13,11 +13,14 @@ Release Date: 2019-00-00
 
 ### Insights
 
-+ [March 2020 ISC call for proposals – Now Open!](https://www.r-consortium.org/blog/2020/03/11/march-2020-isc-call-for-proposals)
 
 + [From Bioconductor users to developers: our first community submission](https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/#.XmG5-5NKj_Q)
 
 + [R 3.6.3 is available, marking the 20th anniversary of R 1.0.0](https://blog.revolutionanalytics.com/2020/03/r-363-is-now-avail.html)
+
++ [Persistent config and data for R packages](https://blog.r-hub.io/2020/03/12/user-preferences/)
+
++ [What I've learnt about making an R package](https://mdneuzerling.com/post/what-ive-learnt-about-making-an-r-package/)
 
 ### R in the Real World
 
@@ -33,7 +36,7 @@ Release Date: 2019-00-00
 
 ###  Resources
 
-
++ [A hackathon-in-a-box / "cookbook" to help build an R package with custom RMarkdown themes and ggplot2 themes & palettes. ](https://github.com/emilyriederer/Rtistic)
 
 ###  New Packages
 
@@ -54,8 +57,6 @@ Release Date: 2019-00-00
 **GitHub or Bitbucket**
 
 + [`texttych`, Create interactive text parallels](https://github.com/daranzolin/textych)
-
-+ [`onetime`, Run R code just once per user.](https://github.com/hughjonesd/onetime)
 
 ### Updated Packages
 
@@ -103,6 +104,8 @@ Release Date: 2019-00-00
 
 + [Supercharge your GitHub Actions Experience with tic](https://ropensci.org/technotes/2020/03/13/tic-ghactions/)
 
++ [Take a Sad Script & Make it Better: Tidymodels Edition](https://alison.rbind.io/post/2020-02-27-better-tidymodels/#tidymodels-101)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -131,7 +134,10 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
++ [March 2020 ISC call for proposals – Now Open!](https://www.r-consortium.org/blog/2020/03/11/march-2020-isc-call-for-proposals)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> 4.0.0 has been scheduled for April 24. Details, including nickname, on <a href="https://t.co/R4UDX97PPY">https://t.co/R4UDX97PPY</a><br><br>Some irregularity may occur due to COVID-19 lockdown in Denmark.</p>&mdash; Peter Dalgaard (@pdalgd) <a href="https://twitter.com/pdalgd/status/1238084185698578440?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> 
