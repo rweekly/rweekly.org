@@ -80,7 +80,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [rOpenSci Community Call: Maintaining an R package](https://ropensci.org/commcalls/2020-03-18/) (online)
++ March 18, 2020, 9AM PDT [rOpenSci Community Call: Maintaining an R package](https://ropensci.org/commcalls/2020-03-18/) (online)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
