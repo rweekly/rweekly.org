@@ -22,6 +22,8 @@ Release Date: 2019-00-00
 
 + [What I've learnt about making an R package](https://mdneuzerling.com/post/what-ive-learnt-about-making-an-r-package/)
 
++ [Where to publish your Shiny App?](https://florencia.netlify.com/2020/03/where-to-publish-your-shinyapp.en-us/)
+
 ### R in the Real World
 
 
@@ -44,6 +46,10 @@ Release Date: 2019-00-00
 
 **CRAN**
 
++ [roxygen2 7.1.0: a handful of bug fixes + more support knitr-style execution of R code within docs](https://www.tidyverse.org/blog/2020/03/roxygen2-7-1-0/)
+
++ [cyphr 1.1.0: work with encrypted data from #rstats easily and collaboratively - no major new features but lots of little things that smooth over some rough edges](https://reside-ic.github.io/blog/cyphr-1.1.0/)
+
 + [RcppAnnoy 0.0.16](http://dirk.eddelbuettel.com/blog/2020/03/08#rcppannoy_0.0.16)
 
 + [AsioHeaders 1.12.2-1](http://dirk.eddelbuettel.com/blog/2020/03/11#asioheaders_1.12.2-1)
@@ -64,6 +70,8 @@ Release Date: 2019-00-00
 
 ###  Videos and Podcasts
 
++ [Shiny Developer Series Episode 9: Shiny Dev Center & Education with Mine Çetinkaya-Rundel](https://shinydevseries.com/post/episode-9-shinyedu/)
+
 + [Preprocessing and resampling using #TidyTuesday college data](https://juliasilge.com/blog/tuition-resampling/)
 
 + [Video Tutorial: Create and Customize a Simple Shiny Dashboard](https://appsilon.com/video-tutorial-create-and-customize-a-simple-shiny-dashboard/)
@@ -75,6 +83,8 @@ Release Date: 2019-00-00
 ### R Internationally
 
 + [新冠全球历史数据](https://guangchuangyu.github.io/2020/03/ncov-global-data/)
+
++ [Jamais sans ces packages!](http://perso.ens-lyon.fr/lise.vaudor/jamais-sans-ces-packages/)
 
 ###  Tutorials
 
