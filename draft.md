@@ -13,7 +13,11 @@ Release Date: 2019-00-00
 
 ### Insights
 
++ [March 2020 ISC call for proposals – Now Open!](https://www.r-consortium.org/blog/2020/03/11/march-2020-isc-call-for-proposals)
+
 + [From Bioconductor users to developers: our first community submission](https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/#.XmG5-5NKj_Q)
+
++ [R 3.6.3 is available, marking the 20th anniversary of R 1.0.0](https://blog.revolutionanalytics.com/2020/03/r-363-is-now-avail.html)
 
 ### R in the Real World
 
@@ -37,7 +41,9 @@ Release Date: 2019-00-00
 
 **CRAN**
 
++ [RcppAnnoy 0.0.16](http://dirk.eddelbuettel.com/blog/2020/03/08#rcppannoy_0.0.16)
 
++ [AsioHeaders 1.12.2-1](http://dirk.eddelbuettel.com/blog/2020/03/11#asioheaders_1.12.2-1)
 
 **BioC**
 
@@ -55,6 +61,8 @@ Release Date: 2019-00-00
 
 ###  Videos and Podcasts
 
++ [Preprocessing and resampling using #TidyTuesday college data](https://juliasilge.com/blog/tuition-resampling/)
+
 + [Video Tutorial: Create and Customize a Simple Shiny Dashboard](https://appsilon.com/video-tutorial-create-and-customize-a-simple-shiny-dashboard/)
 
 ### Gist & Cookbook
@@ -63,10 +71,29 @@ Release Date: 2019-00-00
 
 ### R Internationally
 
-
++ [新冠全球历史数据](https://guangchuangyu.github.io/2020/03/ncov-global-data/)
 
 ###  Tutorials
 
++ [isEven without modulo](https://jcarroll.com.au/2020/03/09/iseven-without-modulo/)
+
++ [Retail Data: Scraping & API](https://datawookie.netlify.com/blog/2020/03/retail-data-scraping-api/)
+
++ [All you need to know to analyse a survey with MCA …](https://francoishusson.wordpress.com/2020/03/09/all-you-need-to-know-on-multiple-correspondence-analysis/)
+
++ [All you need to know on clustering with Factoshiny…](https://francoishusson.wordpress.com/2020/03/12/all-you-need-to-know-on-clustering-with-factoshiny/)
+
++ [Mapping access to services to estimate community resilience – Edina geoforum](https://scottishsnow.wordpress.com/2020/03/09/community-resilience-edina-geoforum/)
+
++ [Coronavirus data analysis with R, tidyverse and ggplot2](https://rdatamining.wordpress.com/2020/03/10/coronavirus-data-analysis-with-r-tidyverse-and-ggplot2/)
+
++ [Comparing Machine Learning Algorithms for Predicting Clothing Classes: Part 3](https://rviews.rstudio.com/2020/03/10/comparing-machine-learning-algorithms-for-predicting-clothing-classes-part-3/)
+
++ [Explainability of {tidymodels} models with {iml}](http://www.brodrigues.co/blog/2020-03-10-exp_tidymodels/)
+
++ [Cross-Methods are a Leak/Variance Trade-Off](http://www.win-vector.com/blog/2020/03/cross-methods-are-a-leak-variance-trade-off/)
+
++ [one or two?](https://xianblog.wordpress.com/2020/03/12/one-or-two/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
