@@ -24,6 +24,8 @@ Release Date: 2019-00-00
 
 + [Where to publish your Shiny App?](https://florencia.netlify.com/2020/03/where-to-publish-your-shinyapp.en-us/)
 
++ [dplyr 1.0.0 is coming soon](https://www.tidyverse.org/blog/2020/03/dplyr-1-0-0-is-coming-soon/)
+
 ### R in the Real World
 
 
@@ -69,6 +71,8 @@ Release Date: 2019-00-00
 
 
 ###  Videos and Podcasts
+
++ [Heather Turner: Moving Forwards Greater Equity and Inclusion in the R Community @ CelebRation 2020](https://www.youtube.com/watch?v=BbpkKzz71EY)
 
 + [Shiny Developer Series Episode 9: Shiny Dev Center & Education with Mine Çetinkaya-Rundel](https://shinydevseries.com/post/episode-9-shinyedu/)
 
@@ -151,3 +155,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> 4.0.0 has been scheduled for April 24. Details, including nickname, on <a href="https://t.co/R4UDX97PPY">https://t.co/R4UDX97PPY</a><br><br>Some irregularity may occur due to COVID-19 lockdown in Denmark.</p>&mdash; Peter Dalgaard (@pdalgd) <a href="https://twitter.com/pdalgd/status/1238084185698578440?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are pleased to announce that the useR! 2021conference will take place in Zurich, Switzerland on 6-9 July 2021. Follow <a href="https://twitter.com/useR2021zrh?ref_src=twsrc%5Etfw">@useR2021zrh</a> for news and updates.<a href="https://t.co/MkMatMGRTW">https://t.co/MkMatMGRTW</a></p>&mdash; The R Foundation (@_R_Foundation) <a href="https://twitter.com/_R_Foundation/status/1236949847627923457?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> 
