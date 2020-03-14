@@ -38,8 +38,6 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [SPC Charting in R](https://nhsrcommunity.com/blog/spc-charting-in-r/)
 
-+ [Plot outliers and their values](https://modtools.wordpress.com/2020/03/13/plot-outliers-and-their-values/)
-
 ### R in the Real World
 
 
@@ -152,6 +150,12 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 + [Take a Sad Script & Make it Better: Tidymodels Edition](https://alison.rbind.io/post/2020-02-27-better-tidymodels/#tidymodels-101)
 
 + [Exploring tidymodels With Hockey Data](https://meghan.rbind.io/post/tidymodels-intro/)
+
++ [Plot outliers and their values](https://modtools.wordpress.com/2020/03/13/plot-outliers-and-their-values/)
+
++ [Rebalancing ruminations](https://osm.netlify.com/post/rebalancing-ruminations/)
+
++ [A deep dive into glmnet: type.gaussian](https://statisticaloddsandends.wordpress.com/2020/03/13/a-deep-dive-into-glmnet-type-gaussian/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
