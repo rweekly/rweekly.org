@@ -1,13 +1,15 @@
 ---
 layout: draft
-title: R Weekly 2019-00
+title: R Weekly 2020-11
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-00-00
+Release Date: 2020-03-16
 
-###  Highlight
+This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_salmon), with help from the R Weekly team members and contributors.
+
+###  Highlights
 
 
 
@@ -43,6 +45,8 @@ Release Date: 2019-00-00
 
 
 ###  Resources
+
+![Screenshot of the Shiny app helping search through R-Ladies Meetups Materials](https://raw.githubusercontent.com/rweekly/image/master/2020-03-16/rladiesshiny.png)
 
 + [R-Ladies Meetups Materials. This Shiny App was generated for the celebration of International Women's Day 2020.](https://yabellini.shinyapps.io/RLadiesLesson/)
 
@@ -134,6 +138,8 @@ Release Date: 2019-00-00
 + [Automate the Creation of an API Wrapper package by Scraping its Online Documentation](https://colinfay.me/fun-from-api-doc/)
 
 + [Supercharge your GitHub Actions Experience with tic](https://ropensci.org/technotes/2020/03/13/tic-ghactions/)
+
+![A plot from Take a Sad Script & Make it Better: Tidymodels Edition](https://raw.githubusercontent.com/rweekly/image/master/2020-03-16/tidymodels.png)
 
 + [Take a Sad Script & Make it Better: Tidymodels Edition](https://alison.rbind.io/post/2020-02-27-better-tidymodels/#tidymodels-101)
 
