@@ -19,16 +19,11 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 ### Insights
 
-
-+ [From Bioconductor users to developers: our first community submission](https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/#.XmG5-5NKj_Q)
-
 + [R 3.6.3 is available, marking the 20th anniversary of R 1.0.0](https://blog.revolutionanalytics.com/2020/03/r-363-is-now-avail.html)
 
 + [Persistent config and data for R packages](https://blog.r-hub.io/2020/03/12/user-preferences/)
 
 + [What I've learnt about making an R package](https://mdneuzerling.com/post/what-ive-learnt-about-making-an-r-package/)
-
-+ [Where to publish your Shiny App?](https://florencia.netlify.com/2020/03/where-to-publish-your-shinyapp.en-us/)
 
 + [dplyr 1.0.0 is coming soon](https://www.tidyverse.org/blog/2020/03/dplyr-1-0-0-is-coming-soon/)
 
@@ -40,15 +35,24 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 ### R in the Real World
 
++ [afrimapr: Creating reusable R building blocks for mapping data in Africa in 2020](https://figshare.com/articles/afrimapr_Creating_reusable_R_building_blocks_for_mapping_data_in_Africa_in_2020/11949087/2)
+
++ [Mapping access to services to estimate community resilience – Edina geoforum](https://scottishsnow.wordpress.com/2020/03/09/community-resilience-edina-geoforum/)
+
++ [Exploring tidymodels With Hockey Data](https://meghan.rbind.io/post/tidymodels-intro/)
 
 
 ###  R in Organizations
 
++ ['prod' is not a four-letter word: how to confidently send R into production](https://speakerdeck.com/colinfay/keynote-prod-is-not-a-four-letter-word)
 
++ [A hackathon-in-a-box / "cookbook" to help build an R package with custom RMarkdown themes and ggplot2 themes & palettes. ](https://github.com/emilyriederer/Rtistic)
 
 ###  R in Academia
 
++ [From Bioconductor users to developers: our first community submission](https://comunidadbioinfo.github.io/post/from-bioconductor-users-to-developers-our-first-community-submission/#.XmG5-5NKj_Q)
 
++ [Where to publish your Shiny App?](https://florencia.netlify.com/2020/03/where-to-publish-your-shinyapp.en-us/)
 
 ###  Resources
 
@@ -56,15 +60,9 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [R-Ladies Meetups Materials. This Shiny App was generated for the celebration of International Women's Day 2020.](https://yabellini.shinyapps.io/RLadiesLesson/)
 
-+ [A hackathon-in-a-box / "cookbook" to help build an R package with custom RMarkdown themes and ggplot2 themes & palettes. ](https://github.com/emilyriederer/Rtistic)
-
 + [Will Landau's Bash functions](https://github.com/wlandau/dotfiles/blob/master/dotfiles/.bash_r)
 
 + [Zen and the Art of R Package development](https://zenartofrpkgs.netlify.com/#1)
-
-+ ['prod' is not a four-letter word: how to confidently send R into production](https://speakerdeck.com/colinfay/keynote-prod-is-not-a-four-letter-word)
-
-+ [afrimapr: Creating reusable R building blocks for mapping data in Africa in 2020](https://figshare.com/articles/afrimapr_Creating_reusable_R_building_blocks_for_mapping_data_in_Africa_in_2020/11949087/2)
 
 + [{purrr} beyond map(): my talk at satRday Joburg 2020](https://hendrikvanb.gitlab.io/2020/03/purrr_beyond_map/)
 
@@ -129,8 +127,6 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [All you need to know on clustering with Factoshiny…](https://francoishusson.wordpress.com/2020/03/12/all-you-need-to-know-on-clustering-with-factoshiny/)
 
-+ [Mapping access to services to estimate community resilience – Edina geoforum](https://scottishsnow.wordpress.com/2020/03/09/community-resilience-edina-geoforum/)
-
 + [Comparing Machine Learning Algorithms for Predicting Clothing Classes: Part 3](https://rviews.rstudio.com/2020/03/10/comparing-machine-learning-algorithms-for-predicting-clothing-classes-part-3/)
 
 + [Explainability of {tidymodels} models with {iml}](http://www.brodrigues.co/blog/2020-03-10-exp_tidymodels/)
@@ -148,8 +144,6 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 ![A plot from Take a Sad Script & Make it Better: Tidymodels Edition](https://raw.githubusercontent.com/rweekly/image/master/2020-03-16/tidymodels.png)
 
 + [Take a Sad Script & Make it Better: Tidymodels Edition](https://alison.rbind.io/post/2020-02-27-better-tidymodels/#tidymodels-101)
-
-+ [Exploring tidymodels With Hockey Data](https://meghan.rbind.io/post/tidymodels-intro/)
 
 + [Plot outliers and their values](https://modtools.wordpress.com/2020/03/13/plot-outliers-and-their-values/)
 
