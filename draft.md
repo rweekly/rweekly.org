@@ -113,8 +113,6 @@ Release Date: 2019-00-00
 
 + [isEven without modulo](https://jcarroll.com.au/2020/03/09/iseven-without-modulo/)
 
-+ [Retail Data: Scraping & API](https://datawookie.netlify.com/blog/2020/03/retail-data-scraping-api/)
-
 + [All you need to know to analyse a survey with MCA …](https://francoishusson.wordpress.com/2020/03/09/all-you-need-to-know-on-multiple-correspondence-analysis/)
 
 + [All you need to know on clustering with Factoshiny…](https://francoishusson.wordpress.com/2020/03/12/all-you-need-to-know-on-clustering-with-factoshiny/)
