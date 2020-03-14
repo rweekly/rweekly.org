@@ -11,7 +11,11 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 ###  Highlights
 
+### March 2020 ISC call for proposals
 
+> "The March 2020 ISC Call for Proposals is now open. Once again, we are looking for ambitious projects that will contribute to the infrastructure of the R ecosystem and benefit large sections of the R community.  Our goal is to stimulate creativity and help you turn good ideas into tangible benefits. " **The deadline for submitting a proposal is midnight, April 2, 2020.**
+
++ [March 2020 ISC call for proposals – Now Open!](https://www.r-consortium.org/blog/2020/03/11/march-2020-isc-call-for-proposals)
 
 ### Insights
 
@@ -31,6 +35,10 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 + [(Re)building the R Bootcamp and generating R tutorials](https://education.rstudio.com/blog/2020/03/r-bootcamp/)
 
 + [What I didn’t expect to learn at satRday](https://hendrikvanb.gitlab.io/2020/03/what_i_didnt_expect_to_learn_at_satrday/)
+
++ [SPC Charting in R](https://nhsrcommunity.com/blog/spc-charting-in-r/)
+
++ [Plot outliers and their values](https://modtools.wordpress.com/2020/03/13/plot-outliers-and-their-values/)
 
 ### R in the Real World
 
@@ -103,6 +111,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Video Tutorial: Create and Customize a Simple Shiny Dashboard](https://appsilon.com/video-tutorial-create-and-customize-a-simple-shiny-dashboard/)
 
++ [Auto-magic Package Development](https://resources.rstudio.com/rstudio-conf-2020/auto-magic-package-development-alicia-schep)
+
 ### Gist & Cookbook
 
 
@@ -122,8 +132,6 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 + [All you need to know on clustering with Factoshiny…](https://francoishusson.wordpress.com/2020/03/12/all-you-need-to-know-on-clustering-with-factoshiny/)
 
 + [Mapping access to services to estimate community resilience – Edina geoforum](https://scottishsnow.wordpress.com/2020/03/09/community-resilience-edina-geoforum/)
-
-+ [Coronavirus data analysis with R, tidyverse and ggplot2](https://rdatamining.wordpress.com/2020/03/10/coronavirus-data-analysis-with-r-tidyverse-and-ggplot2/)
 
 + [Comparing Machine Learning Algorithms for Predicting Clothing Classes: Part 3](https://rviews.rstudio.com/2020/03/10/comparing-machine-learning-algorithms-for-predicting-clothing-classes-part-3/)
 
@@ -173,8 +181,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Call for Participation
 
-+ [March 2020 ISC call for proposals – Now Open!](https://www.r-consortium.org/blog/2020/03/11/march-2020-isc-call-for-proposals)
-
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
@@ -184,3 +190,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are pleased to announce that the useR! 2021conference will take place in Zurich, Switzerland on 6-9 July 2021. Follow <a href="https://twitter.com/useR2021zrh?ref_src=twsrc%5Etfw">@useR2021zrh</a> for news and updates.<a href="https://t.co/MkMatMGRTW">https://t.co/MkMatMGRTW</a></p>&mdash; The R Foundation (@_R_Foundation) <a href="https://twitter.com/_R_Foundation/status/1236949847627923457?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In light of developments surrounding the global spread of the COVID-19 virus we have decided to postpone the <a href="https://twitter.com/hashtag/uRos2020?src=hash&amp;ref_src=twsrc%5Etfw">#uRos2020</a> conference to 2-4 December. Tutorial sessions and UNCONFuRos will take place on 30 November-1 December. More information via <a href="https://t.co/d9ARy9yq9y">https://t.co/d9ARy9yq9y</a>. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; uRos (@uRosconf) <a href="https://twitter.com/uRosconf/status/1237001680127918083?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Submissions to JOSS are suspended for 30 days to provide relief to authors, editors, and reviewers dealing with the effects of the COVID-19 pandemic. We plan periodic updates here on our submission status as we reassess the situation. Thanks for your understanding ❤️<a href="https://twitter.com/hashtag/JOSS_theOJ?src=hash&amp;ref_src=twsrc%5Etfw">#JOSS_theOJ</a> <a href="https://t.co/VsOrMYr7C1">pic.twitter.com/VsOrMYr7C1</a></p>&mdash; JOSS (@JOSS_TheOJ) <a href="https://twitter.com/JOSS_TheOJ/status/1238430728343433222?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote> 
