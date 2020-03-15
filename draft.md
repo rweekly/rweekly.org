@@ -41,6 +41,9 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Exploring tidymodels With Hockey Data](https://meghan.rbind.io/post/tidymodels-intro/)
 
++ [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/) **Disclaimer: This simulation is for research and educational purposes only and is not intended to be a tool for decision-making. There are many uncertainties and debates about the details of COVID-19 infection and transmission and there are many limitations to this simple model.**
+
++ [Retail Data: R Package](https://datawookie.netlify.com/blog/2020/03/retail-data-how-not-to-get-screwed-on-valentines-day/)
 
 ###  R in Organizations
 
@@ -84,6 +87,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [`texttych`, Create interactive text parallels](https://github.com/daranzolin/textych)
 
++ [`examstats`, Understand Exam Results ](https://github.com/nxskok/examstats)
+
 ### Updated Packages
 
 + [roxygen2 7.1.0: a handful of bug fixes + more support knitr-style execution of R code within docs](https://www.tidyverse.org/blog/2020/03/roxygen2-7-1-0/)
@@ -96,6 +101,7 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [RInside 0.2.16](http://dirk.eddelbuettel.com/blog/2020/03/12#rinside_0.2.16)
 
++ [RcppAPT 0.0.6](http://dirk.eddelbuettel.com/blog/2020/03/14#rcppapt_0.0.6)
 
 ###  Videos and Podcasts
 
@@ -137,6 +143,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Keep Calm and Use vtreat (in R and in Python)](http://www.win-vector.com/blog/2020/03/keep-calm-and-use-vtreat-in-r-and-in-python/)
 
++ [Use the Same Cross-Plan Between Steps](http://www.win-vector.com/blog/2020/03/use-the-same-cross-plan-between-steps/)
+
 + [Automate the Creation of an API Wrapper package by Scraping its Online Documentation](https://colinfay.me/fun-from-api-doc/)
 
 + [Supercharge your GitHub Actions Experience with tic](https://ropensci.org/technotes/2020/03/13/tic-ghactions/)
@@ -150,6 +158,10 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 + [Rebalancing ruminations](https://osm.netlify.com/post/rebalancing-ruminations/)
 
 + [A deep dive into glmnet: type.gaussian](https://statisticaloddsandends.wordpress.com/2020/03/13/a-deep-dive-into-glmnet-type-gaussian/)
+
++ [Making beautiful bar charts with ggplot2](https://cameronpatrick.com/post/2020/03/beautiful-bar-charts-ggplot/)
+
++ [Animating U.S. Population Distributions](https://kieranhealy.org/blog/archives/2020/03/14/animating-u.s.-population-distributions/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
