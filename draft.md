@@ -69,6 +69,11 @@ Release Date: 2020-03-23
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
+
+![NC counties and buffers](https://www.jla-data.net/ENG/2020-02-12-spatial-aggregation_files/figure-html/prusecik-buffers-raw-1.png)
+
+[Spatial Aggregation](https://www.jla-data.net/eng/spatial-aggregation/) - three approaches: based on buffers, voronoi polygons and equal distance grid cells
+
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
