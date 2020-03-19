@@ -65,7 +65,7 @@ Release Date: 2020-03-23
 
 ###  Tutorials
 
-
+[styler 1.3.0: Faster styling and ignore some lines](https://lorenzwalthert.netlify.com/post/styler-1-3-0/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
