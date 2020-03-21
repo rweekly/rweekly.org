@@ -79,6 +79,9 @@ Release Date: 2020-03-23
 
 + [All you need to know on Multiple Factor Analysis …](https://francoishusson.wordpress.com/2020/03/16/all-you-need-to-know-on-multiple-factor-analysis/)
 
++ [Recordings from SatRday Neuchâtel (remote)](https://www.youtube.com/channel/UC7VV1Ix1-8jncW7hTRZ50bg)
+
+
 ### Gist & Cookbook
 
 
@@ -86,6 +89,8 @@ Release Date: 2020-03-23
 ### R Internationally
 
 + [Community of Bioinformatics Software Developers (CDSB): The story of a diversity and outreach hotspot in Mexico that hopes to empower local R developers](https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico)
+
++ [Organising a SatRday remotely - SatRday Neuchâtel's experience & tips](https://docs.google.com/document/d/1ZXmwVibQKtfCY_HiB49-OhQL-yKhUS9YD9yeMQZH88E/edit#)
 
 ###  Tutorials
 
@@ -118,6 +123,8 @@ Release Date: 2020-03-23
 + [How to create decorators in R](https://theautomatic.net/2020/03/17/how-to-create-decorators-in-r/)
 
 + [Word Rank Slope Charts](https://www.hvitfeldt.me/blog/word-rank-slope-charts/)
+
++ [Tutorial about XYZ](http://yourwebsiteurl.com/blogpost)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
