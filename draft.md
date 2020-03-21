@@ -124,8 +124,6 @@ Release Date: 2020-03-23
 
 + [Word Rank Slope Charts](https://www.hvitfeldt.me/blog/word-rank-slope-charts/)
 
-+ [Tutorial about XYZ](http://yourwebsiteurl.com/blogpost)
-
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
