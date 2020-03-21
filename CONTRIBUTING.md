@@ -22,39 +22,39 @@ In order to post more relevant content under each section, members/contributors 
 
 ## Tutorials
 
-R tutorials for how to use certain packages and tools (usually code is embedded)
+R tutorials for how to use certain packages and tools (usually code is embedded).
 
 ## Insights
 
-Articles that talks about R and data science in general(usually no code embedded)
+Articles that talks about R and data science in general (usually no code embedded).
 
 ## R in the Real World
 
-Analyses that use R to analyze real-world data sets
+Analyses that use R to analyze real-world data sets.
 
 ## R in Organization
 
-R use cases/events that showcase how organizations are utilizing or integrating to R
+R use cases/events that showcase how organizations are utilizing or integrating to R.
 
 ## R in Academia
 
-R use cases that showcase how Academia is utilizing R
+R use cases that showcase how Academia is utilizing R.
 
 ## International R
 
-Non-English R related content
+Non-English R related content.
 
 ## Videos and Podcasts
 
-Videos and Podcasts about R
+Videos and Podcasts about R.
 
 ## Resources
 
-Long posts, websites, books, slides, list, cheat sheets, or other learning resources in general that are more officially aggregated as a guide material
+Long posts, websites, books, slides, list, cheat sheets, or other learning resources in general that are more officially aggregated as a guide material.
 
 ## Jobs
 
-R Jobs
+R Jobs.
 
 ## New Packages and Tools
 
@@ -62,7 +62,7 @@ New packages and tools that are created or published in the past 2 weeks.
 
 ## New Releases
 
-New releases (i.e. recent version updates) of pre-existing tools and packages for R
+New releases (i.e. recent version updates) of pre-existing tools and packages for R.
 
 ## Call for Participation
 
@@ -77,7 +77,6 @@ Events can also be in Call for Participation section.
 # Freeze
 
 The draft post will be frozen on Sunday according to GMT+00:00, and the new items will be added to a new draft post. Editors of R Weekly can read and find bugs in the frozen post, which will be release on the next day.
-Release
 
 Use https://validator.w3.org/checklink to check dead links. Release the frozen post as weekly update every Monday according to GMT+00:00.
 

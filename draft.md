@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2019-40
+title: R Weekly 2020-12
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-10-07
+Release Date: 2020-03-23
 
 ###  Highlight
 
@@ -17,25 +17,33 @@ Release Date: 2019-10-07
 
 ### R in the Real World
 
-+ [Business AI for SMBs - Building Amazon-style Product Recommenders using RemixAutoML](https://www.remixinstitute.com/blog/business-ai-for-small-to-medium-sized-businesses-with-remixautoml)
++ [A look at past bear markets and implications for the future](https://databasedinvesting.blogspot.com/2020/03/a-look-at-past-bear-markets-and.html)
 
-![](https://i2.wp.com/www.remixinstitute.com/wp-content/uploads/technology-companies-rd-expenditures-2017-remix-institute.png?w=1536&ssl=1)
++ [Stock market crisis: is there a tennis ball effect?](https://firstdifferences.com/2020/03/16/stock-market-crisis-is-there-a-tennis-ball-effect/)
 
-+ [Mapping the Underlying Social Structure of Reddit](https://datadiarist.github.io/post/mapping-the-underlying-social-structure-of-reddit/)
++ [COVID-19 cumulative observed case fatality rate over time by @ellis2013nz](http://freerangestats.info/blog/2020/03/17/covid19-cfr)
 
++ [Simulating COVID-19 interventions with R](https://rviews.rstudio.com/2020/03/19/simulating-covid-19-interventions-with-r/)
+
++ [Domestic data science – energy use](https://scottishsnow.wordpress.com/2020/03/20/domestic-ds-energy-use/)
+
++ [COVID-19: The Case of Germany](https://blog.ephorie.de/covid-19-the-case-of-germany)
+
++ [Flatten the COVID-19 curve](http://staff.math.su.se/hoehle/blog/2020/03/16/flatteningthecurve.html)
 
 ###  R in Organizations
 
++ [RStudio 1.3 Preview: The Little Things](https://blog.rstudio.com/2020/03/17/rstudio-1-3-the-little-things/)
 
++ [Code live from RStudio, and share it with the World in real time](https://bitsandbricks.github.io/post/code-live-from-rstudio-and-share-it-with-the-world-in-real-time/)
 
 ###  R in Academia
 
-
++ [When you want more than a chi-squared test, consider a measure of association for contingency tables](https://www.rdatagen.net/post/when-a-chi-squared-statistic-is-not-enough-a-measure-of-association-for-contingency-tables/)
 
 ###  Resources
 
-+ [{ggplot2} theme for Breast Cancer Awareness: `theme_bc_aware`](https://github.com/louisahsmith/theme_bc_aware)
-![]()
++ [R spatial follows GDAL and PROJ development](https://www.r-spatial.org//r/2020/03/17/wkt.html)
 
 ###  New Packages
 
@@ -43,8 +51,7 @@ Release Date: 2019-10-07
 
 **CRAN**
 
-+ [{signs 0.1.0}: Provides convenience functions to replace hyphen-minuses (ASCII 45) with proper minus signs (Unicode character 2212)](https://cran.r-project.org/package=signs)
-
++ [parzer: Parse Messy Geographic Coordinates](https://ropensci.org/technotes/2020/03/19/parzer/)
 
 **BioC**
 
@@ -52,25 +59,25 @@ Release Date: 2019-10-07
 
 **GitHub or Bitbucket**
 
-+ [{tune}: facilitate the tuning of hyper-parameters in the tidymodels packages](https://github.com/tidymodels/tune)
++ [{espnscrapeR}: Collect or scrape QBR, NFL standings, and stats from ESPN.](https://jthomasmock.github.io/espnscrapeR/)
 
-+ [{fastpipe}: fast alternative to {magrittr} pipes](https://github.com/moodymudskipper/fastpipe)
++ [{uscenpops}: Provides a single dataset of censal and intercensal population estimates for the United States by year of age and sex, for every year from 1900 to 2019.](https://kieranhealy.org/blog/archives/2020/03/15/u.s.-census-counts-data/)
 
 ### Updated Packages
 
-+ [{geohashTools 0.3.0}](https://github.com/MichaelChirico/geohashTools)
++ [Introducing bwsTools: A Package for Case 1 Best-Worst Scaling (MaxDiff) Designs](https://www.markhw.com/blog/bwstools-intro)
 
-+ [{data.table 1.12.4}](https://cran.r-project.org/package=data.table)
++ [Rcpp 1.0.4: Lots of goodies](http://dirk.eddelbuettel.com/blog/2020/03/17#rcpp_1.0.4)
 
-+ [{tensorflow 2.0.0}](https://cran.r-project.org/package=tensorflow)
++ [RProtoBuf 0.4.16: Now with JSON](http://dirk.eddelbuettel.com/blog/2020/03/19#rprotobuf_0.4.16)
 
-+ [{lintr 2.0.0}](https://www.jimhester.com/post/lintr-2-0-0/)
++ [RcppCCTZ 0.2.7](http://dirk.eddelbuettel.com/blog/2020/03/18#rcppcctz_0.2.7)
 
 ###  Videos and Podcasts
 
-+ [#TidyTuesday Podcast #6: School Diversity Data](https://www.tidytuesday.com/6)
++ [#TidyTuesday Screencast: Creating an R data package (cord19) in RStudio](https://www.youtube.com/watch?v=F4oUJp76KUY)
 
-+ [#TidyTuesday Screecast: Analyzing pizza ratings](https://www.youtube.com/watch?v=Mkac8DHScps)
++ [All you need to know on Multiple Factor Analysis …](https://francoishusson.wordpress.com/2020/03/16/all-you-need-to-know-on-multiple-factor-analysis/)
 
 ### Gist & Cookbook
 
@@ -78,20 +85,39 @@ Release Date: 2019-10-07
 
 ### R Internationally
 
-
++ [Community of Bioinformatics Software Developers (CDSB): The story of a diversity and outreach hotspot in Mexico that hopes to empower local R developers](https://www.r-consortium.org/blog/2020/03/18/cdsb-diversity-and-outreach-hotspot-in-mexico)
 
 ###  Tutorials
 
-+ [insights from the RMarkdown whisperer](http://jenrichmond.rbind.io/post/insights-from-the-markdown-whisperer/)
++ [styler 1.3.0: Faster styling and ignore some lines](https://lorenzwalthert.netlify.com/post/styler-1-3-0/)
 
-+ [Flow fields (12 Months of aRt, September)](https://www.williamrchase.com/post/flow-fields-12-months-of-art-september/)
-![]()
++ [Tidying formatted spreadsheets with unheadr](https://luisdva.github.io/rstats/unheadr-cat/)
 
-+ [Manipulating colors with {prismatic}](https://www.hvitfeldt.me/blog/manipulating-colors-with-prismatic/)
++ [#tidytuesday: Part-of-Speech and textrecipes with The Office](https://www.hvitfeldt.me/blog/tidytuesday-pos-textrecipes-the-office/)
 
-+ [Goodbye, Disqus! Hello, Utterances!](https://masalmon.eu/2019/10/02/disqus/)
+![NC counties and buffers](https://www.jla-data.net/ENG/2020-02-12-spatial-aggregation_files/figure-html/prusecik-buffers-raw-1.png)
 
-+ [`theme_inari()`](http://lenkiefer.com/2019/09/23/theme-inari/)
++ [Spatial Aggregation](https://www.jla-data.net/eng/spatial-aggregation/) - three approaches: based on buffers, voronoi polygons and equal distance grid cells
+
++ [LASSO regression using tidymodels and #TidyTuesday data for The Office](https://juliasilge.com/blog/lasso-the-office/)
+
++ [Modeling pandemics (1)](https://freakonometrics.hypotheses.org/60482)
+
++ [Extended floating point precision in R with Rmpfr](https://statisticaloddsandends.wordpress.com/2020/03/19/extended-floating-point-precision-in-r-with-rmpfr/)
+
++ [How to do a t-test or ANOVA for more than one variable at once in R and communicate the results in a better way](https://www.statsandr.com/blog/how-to-do-a-t-test-or-anova-for-many-variables-at-once-in-r-and-communicate-the-results-in-a-better-way/)
+
++ [On model specification, identification, degrees of freedom and regularization](https://thierrymoudiki.github.io/blog/2020/03/20/r/misc/esgtoolkit-2)
+
++ [OncoTree Tidygraph](https://joshuacook.netlify.com/post/tidygraph-oncotree/)
+
++ [Using stm to Investigate if Stemming is Appropriate](https://www.hvitfeldt.me/blog/stm-stemming/)
+
++ [Outlier Days with R and Python](https://rviews.rstudio.com/2020/03/16/outlier-days-with-r-and-python/)
+
++ [How to create decorators in R](https://theautomatic.net/2020/03/17/how-to-create-decorators-in-r/)
+
++ [Word Rank Slope Charts](https://www.hvitfeldt.me/blog/word-rank-slope-charts/)
 
 + [Tutorial about XYZ](http://yourwebsiteurl.com/blogpost)
 
@@ -101,25 +127,16 @@ Release Date: 2019-10-07
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ [Socket Connections Update](https://developer.r-project.org/Blog/public/2020/03/17/socket-connections-update/)
 
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
 
-+ [Tokyo.R #82, October 26](https://tokyor.connpass.com/)
-
-+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
-
-+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/) 
-
-+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
-
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-
-More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 
 ### Datasets
