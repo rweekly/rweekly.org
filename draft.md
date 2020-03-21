@@ -89,7 +89,7 @@ Release Date: 2020-03-23
 
 ###  Tutorials
 
-[styler 1.3.0: Faster styling and ignore some lines](https://lorenzwalthert.netlify.com/post/styler-1-3-0/)
++ [styler 1.3.0: Faster styling and ignore some lines](https://lorenzwalthert.netlify.com/post/styler-1-3-0/)
 
 + [Tidying formatted spreadsheets with unheadr](https://luisdva.github.io/rstats/unheadr-cat/)
 
@@ -97,7 +97,7 @@ Release Date: 2020-03-23
 
 ![NC counties and buffers](https://www.jla-data.net/ENG/2020-02-12-spatial-aggregation_files/figure-html/prusecik-buffers-raw-1.png)
 
-[Spatial Aggregation](https://www.jla-data.net/eng/spatial-aggregation/) - three approaches: based on buffers, voronoi polygons and equal distance grid cells
++ [Spatial Aggregation](https://www.jla-data.net/eng/spatial-aggregation/) - three approaches: based on buffers, voronoi polygons and equal distance grid cells
 
 + [LASSO regression using tidymodels and #TidyTuesday data for The Office](https://juliasilge.com/blog/lasso-the-office/)
 
