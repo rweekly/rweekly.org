@@ -45,7 +45,9 @@ Release Date: 2020-03-23
 
 **GitHub or Bitbucket**
 
++ [{espnscrapeR}: Collect or scrape QBR, NFL standings, and stats from ESPN.](https://jthomasmock.github.io/espnscrapeR/)
 
++ [{uscenpops}: Provides a single dataset of censal and intercensal population estimates for the United States by year of age and sex, for every year from 1900 to 2019.](https://kieranhealy.org/blog/archives/2020/03/15/u.s.-census-counts-data/)
 
 ### Updated Packages
 
@@ -53,7 +55,7 @@ Release Date: 2020-03-23
 
 ###  Videos and Podcasts
 
-
++ [#TidyTuesday Screencast: Creating an R data package (cord19) in RStudio](https://www.youtube.com/watch?v=F4oUJp76KUY)
 
 ### Gist & Cookbook
 
@@ -66,6 +68,10 @@ Release Date: 2020-03-23
 ###  Tutorials
 
 [styler 1.3.0: Faster styling and ignore some lines](https://lorenzwalthert.netlify.com/post/styler-1-3-0/)
+
++ [Tidying formatted spreadsheets with unheadr](https://luisdva.github.io/rstats/unheadr-cat/)
+
++ [#tidytuesday: Part-of-Speech and textrecipes with The Office](https://www.hvitfeldt.me/blog/tidytuesday-pos-textrecipes-the-office/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
