@@ -124,6 +124,8 @@ Release Date: 2020-03-23
 
 + [Word Rank Slope Charts](https://www.hvitfeldt.me/blog/word-rank-slope-charts/)
 
++ [How-to do analysis X with package {xyz}](https://www.astridmueller.github.io/posts/analysis_x.md)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
