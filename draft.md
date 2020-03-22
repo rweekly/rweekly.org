@@ -55,8 +55,6 @@ Release Date: 2020-03-23
 
 **BioC**
 
-
-
 **GitHub or Bitbucket**
 
 + [{espnscrapeR}: Collect or scrape QBR, NFL standings, and stats from ESPN.](https://jthomasmock.github.io/espnscrapeR/)
