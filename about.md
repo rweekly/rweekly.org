@@ -23,6 +23,8 @@ R Weekly @
 
 [Mastodon](https://mastodon.social/@rweekly), [Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org)
 
+[YouTube Channel](https://www.youtube.com/channel/UCVRffxCKJd2qQ6gDcoMPxJQ)
+
 [LinkedIn](https://www.linkedin.com/company/rweekly), [dev.to()](https://dev.to/rweekly)
 
 [Support with Patreon](https://www.patreon.com/rweekly)
