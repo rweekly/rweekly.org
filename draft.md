@@ -62,7 +62,7 @@ Release Date: 2020-03-30
 
 ###  Tutorials
 
-
++ [How to Connect RStudio with Git (Github) for Cloning and Pushing Repo](https://www.youtube.com/watch?v=lXwH2R4n3RQ)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
