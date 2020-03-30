@@ -1,6 +1,5 @@
 ---
-layout: draft
-title: R Weekly 2020-13
+title: R Weekly 2020-13 Faster installation, {baRcodeR}, {languageserversetup}
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -11,6 +10,11 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 ###  Highlight
 
++ [Faster R package installation](https://www.jumpingrivers.com/blog/faster-r-package-installation-rstudio/)
+
++ [baRcodeR now on rOpenSci + online barcode PDF generation](https://www.yihanwu.ca/post/barcoder-0-1-5-now-released-online-barcode-pdf-generation/)
+
++ [Setting up R with Visual Studio Code quickly and easily with the languageserversetup package](https://jozef.io/r300-language-server-setup/)
 
 ### Insights
 
@@ -36,6 +40,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [How to create a simple Coronavirus dashboard specific to your country in R](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/)
 + [Tidying the John Hopkins Covid-19 data](https://joachim-gassen.github.io/2020/03/tidying-the-john-hopkins-covid-19-data/)
 + [Tidying the new Johns Hopkins Covid-19 time-series datasets](https://joachim-gassen.github.io/2020/03/tidying-the-new-johns-hopkins-covid-19-datasests/)
+
+![JHUCOVID19](https://raw.githubusercontent.com/rweekly/image/master/2020-03-30/VisualizeCovid19Spread.png)
+
 + [COVID-19 Data and Prediction for Michigan](https://iamnagdev.com/2020/03/26/covid-19-data-and-prediction-for-michigan/)
 + [Merge Covid-19 Data with Governmental Interventions Data](https://joachim-gassen.github.io/2020/03/merge-covid-19-data-with-governmental-interventions-data/)
 + [A COVID Small Multiple](https://kieranhealy.org/blog/archives/2020/03/27/a-covid-small-multiple/)
@@ -43,6 +50,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 ### R in the Real World
 
 + [Watercolors with the stepping stone cellular automaton](https://github.com/aschinchon/watercolors)[https://fronkonstin.com/2020/03/26/watercolors/](https://fronkonstin.com/2020/03/26/watercolors/)
+
+![Watercolors](https://raw.githubusercontent.com/rweekly/image/master/2020-03-30/watercolors.png)
+
 + [Mean expectations](https://osm.netlify.com/post/mean-expectations/)
 
 ###  Resources
@@ -112,7 +122,10 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 + [Tuning random forest hyperparameters with #TidyTuesday trees data](https://juliasilge.com/blog/sf-trees-random-tuning/)
 + [Setting up R with Visual Studio Code quickly and easily with the languageserversetup package](https://jozef.io/r300-language-server-setup/)
-+ [Tweedie vs Poisson * Gamma](https://www.simoncoulombe.com/2020/03/tweedie-vs-poisson-gamma/)
++ 
+![languageserversetup](https://raw.githubusercontent.com/rweekly/image/master/2020-03-30/languageserversetup.gif)
+
+[Tweedie vs Poisson * Gamma](https://www.simoncoulombe.com/2020/03/tweedie-vs-poisson-gamma/)
 + [Comparing Machine Learning Algorithms for Predicting Clothing Classes: Part 4](https://rviews.rstudio.com/2020/03/24/comparing-machine-learning-algorithms-for-predicting-clothing-classes-part-4/)
 + [Time series cross-validation using crossval](https://thierrymoudiki.github.io/blog/2020/03/27/r/misc/crossval-2)
 + [Simulating your Model Training for Robust ML Models](https://iamnagdev.com/2020/03/27/simulating-your-model-training-for-robust-ml-models/)
