@@ -353,7 +353,7 @@ function format_year_month(now_date){
 
 var curr = format_year_month(new Date());
 
-curr = format_year_month(moment(curr,"YYYY-MM").subtract(1,"months").toDate());
+curr = moment().startOf('month').subtract(1,"months").format(moment.HTML5_FMT.MONTH);
 
 var next_status = false;
 
@@ -390,7 +390,7 @@ function scroll_loading(){
             };
             xhr.send();
             _paq.push(['trackEvent', "live-new-page", "new page", format_year_month(new Date(curr))]);
-            curr = format_year_month(moment(curr,"YYYY-MM").subtract(1,"months").toDate());
+            curr = moment(curr,"YYYY-MM").subtract(1,"months").format(moment.HTML5_FMT.MONTH);
    }
 }
 
