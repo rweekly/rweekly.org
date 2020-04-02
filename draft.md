@@ -33,6 +33,8 @@ Release Date: 2019-04-06
 
 ###  New Packages
 
+* [ggpattern: pattern & image fills for ggplot geoms](https://github.com/coolbutuseless/ggpattern/)
+
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
