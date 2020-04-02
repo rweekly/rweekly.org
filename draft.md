@@ -13,7 +13,9 @@ Release Date: 2019-04-06
 
 ### Insights
 
+#### COVID-19
 
+* [It's fun to look at the Y A C M (Yet Another COVID Model)](https://medianwatch.netlify.com/post/covid-uncertainty/)
 
 ### R in the Real World
 
