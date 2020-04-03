@@ -13,6 +13,8 @@ Release Date: 2019-04-06
 
 ### Insights
 
++ [R Journal new issue](https://journal.r-project.org/archive/2019-2/)
+
 #### COVID-19
 
 * [It's fun to look at the Y A C M (Yet Another COVID Model)](https://medianwatch.netlify.com/post/covid-uncertainty/)
@@ -31,7 +33,7 @@ Release Date: 2019-04-06
 
 ###  Resources
 
-
++ [Obtain & wrangle OpenAQ data with R: ropenaq and beyond](https://masalmon.eu/talks/2020-03-31-ropenaq/)
 
 ###  New Packages
 
