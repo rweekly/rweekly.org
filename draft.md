@@ -21,7 +21,9 @@ Release Date: 2019-04-06
 
 ### R in the Real World
 
++ ["Flank Attacks Visualisation" Using StatsBomb Open Data](https://npranav10.github.io/blog/entries-into-final-third.html)
 
+![]()
 
 ###  R in Organizations
 
@@ -43,7 +45,7 @@ Release Date: 2019-04-06
 
 **CRAN**
 
-
++ [{simhelpers 0.1.0}: Helper package to assist in running simulation studies](https://meghapsimatrix.github.io/simhelpers/index.html)
 
 **BioC**
 
@@ -51,7 +53,9 @@ Release Date: 2019-04-06
 
 **GitHub or Bitbucket**
 
++ [{ggcute}: A collection of cute things to use with ggplot2.](https://github.com/sharlagelfand/ggcute)
 
++ [{flagon}: A package of just flag images in PNG and SVG format](https://coolbutuseless.github.io/2020/04/03/introducing-flagon-a-package-of-just-flag-images-in-png-and-svg-format/)
 
 ### Updated Packages
 
@@ -67,11 +71,13 @@ Release Date: 2019-04-06
 
 ### R Internationally
 
-
++ [[Japanese] データフレームの変数に日本語ラベルを付けたいとき](http://ill-identified.hatenablog.com/entry/2020/03/30/013939)
 
 ###  Tutorials
 
++ [How to efficiently calculate pairwise overlaps of many sets: An example of progressively optimizing the speed of a function](https://blog.jdblischak.com/posts/pairwise-overlaps/)
 
++ [Five Minute Football Trivia - Trans-Europe Express](https://www.robert-hickman.eu/post/five_min_trivia_kraftwerk/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
