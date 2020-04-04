@@ -27,7 +27,6 @@ Release Date: 2020-04-06
 
 + [Can unbalanced randomization improve power?](https://www.rdatagen.net/post/can-unbalanced-randomization-improve-power/)
 
-
 + [Contagiousness of COVID-19 Part I: Improvements of Mathematical Fitting (Guest Post)](https://blog.ephorie.de/contagiousness-of-covid-19-part-i-improvements-of-mathematical-fitting-guest-post)
 
 + [COVID-19 in Belgium](https://www.statsandr.com/blog/covid-19-in-belgium/)
@@ -49,8 +48,6 @@ Release Date: 2020-04-06
 ###  R in Organizations
 
 + [Close Encounters of the R Kind](https://rviews.rstudio.com/2020/03/31/close-encounters-of-the-r-kind/)
-
-
 
 
 
@@ -79,6 +76,8 @@ Release Date: 2020-04-06
 **CRAN**
 
 + [{simhelpers 0.1.0}: Helper package to assist in running simulation studies](https://meghapsimatrix.github.io/simhelpers/index.html)
+
++ [{cratography 2.4.0}](https://rgeomatic.hypotheses.org/1989)
 
 **BioC**
 
