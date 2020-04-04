@@ -155,14 +155,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [Tokyo.R #82, October 26](https://tokyor.connpass.com/)
-
-+ [Yes We Cran: A conference on R packages and their applications, December 6-8](https://www.thinksisu.org/event/yeswecran/)
-
-+ [rOpenSci OzUnconf, December 11-13](https://ozunconf19.ropensci.org/) 
-
-+ [R @ ISSA, December 26](https://r-iisa2019.rbind.io/)
-
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
