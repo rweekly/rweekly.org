@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2019-14
+title: R Weekly 2020-14
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2019-04-06
+Release Date: 2020-04-06
 
 ###  Highlight
 
