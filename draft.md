@@ -17,9 +17,13 @@ Release Date: 2020-04-06
 
 + [Using R to tap into the genius & Spotify API to discern trends in BTS's new album and visualise it using the 'ggplot2' & 'highcharter' packages](https://link.medium.com/ZLHoOcRMm5)
 
+![spotifymood](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/spotify_mood2.png)
+
 #### COVID-19
 
 * [It's fun to look at the Y A C M (Yet Another COVID Model)](https://medianwatch.netlify.com/post/covid-uncertainty/)
+
+![yacm](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/yacm2.png)
 
 + [COVID-19 shiny / plotly dashboard](https://mail-wolf.de/?p=4632)
 
@@ -38,6 +42,8 @@ Release Date: 2020-04-06
 ### R in the Real World
 
 + ["Flank Attacks Visualisation" Using StatsBomb Open Data](https://npranav10.github.io/blog/entries-into-final-third.html)
+
+![flank](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/flank_attacks2.png)
 
 + [AutoML Frameworks in R & Python](https://iamnagdev.com/2020/04/01/automl-frameworks-in-r-python/)
 
@@ -71,6 +77,8 @@ Release Date: 2020-04-06
 
 * [ggpattern: pattern & image fills for ggplot geoms](https://github.com/coolbutuseless/ggpattern/)
 
+![ggpattern](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/ggpattern_bob2.jpg)
+
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
@@ -79,6 +87,8 @@ Release Date: 2020-04-06
 
 + [{cratography 2.4.0}](https://rgeomatic.hypotheses.org/1989)
 
+![cartography](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/cartography_package.png)
+
 **BioC**
 
 
@@ -86,6 +96,8 @@ Release Date: 2020-04-06
 **GitHub or Bitbucket**
 
 + [{ggcute}: A collection of cute things to use with ggplot2.](https://github.com/sharlagelfand/ggcute)
+
+![ggcute](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/ggcute2.png)
 
 + [{flagon}: A package of just flag images in PNG and SVG format](https://coolbutuseless.github.io/2020/04/03/introducing-flagon-a-package-of-just-flag-images-in-png-and-svg-format/)
 
@@ -128,6 +140,8 @@ Release Date: 2020-04-06
 + [Bootstrap resampling with #TidyTuesday beer production data](https://juliasilge.com/blog/beer-production/)
 
 + [Visualizing decision tree partition and decision boundaries](https://paulvanderlaken.com/2020/03/31/visualizing-decision-tree-partition-and-decision-boundaries/)
+
+![decision](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/decision_viz.png)
 
 + [What is a dgCMatrix object made of? (sparse matrix format in R)](https://statisticaloddsandends.wordpress.com/2020/03/31/what-is-a-dgcmatrix-object-made-of-sparse-matrix-format-in-r/)
 
