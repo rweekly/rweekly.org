@@ -148,6 +148,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [C is for coalesce](http://www.deeplytrivial.com/2020/04/c-is-for-coalesce.html)
 
++ [Mining Google Archive Search Data with R](https://towardsdatascience.com/mining-google-archive-search-data-with-r-51f4f76c2d21)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
