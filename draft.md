@@ -7,6 +7,8 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2020-04-06
 
+This week’s release was curated by [Eric Nantz](https://twitter.com/thercast), with help from the RWeekly team members and contributors.
+
 ###  Highlight
 
 
@@ -89,9 +91,6 @@ Release Date: 2020-04-06
 
 ![cartography](https://raw.githubusercontent.com/rweekly/image/master/2020-04-06/cartography_package.png)
 
-**BioC**
-
-
 
 **GitHub or Bitbucket**
 
@@ -113,18 +112,11 @@ Release Date: 2020-04-06
 + [foreach 1.5.0 now available on CRAN](https://blog.revolutionanalytics.com/2020/03/foreach-150-released.html)
 
 
-
-
 ###  Videos and Podcasts
 
 + [Introductory videos for Explanatory Model Analysis with R](https://medium.com/@ModelOriented/introductory-videos-for-explanatory-model-analysis-with-r-9215fdecbd34?source=rss-57dd112ef71e------2)
 
 + [Plotting anything with ggplot2 workshop part 2](https://www.youtube.com/watch?v=0m4yywqNPVY)
-
-
-
-### Gist & Cookbook
-
 
 
 ### R Internationally
@@ -174,13 +166,6 @@ Events in 3 Months:
 
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
-
-
-### Datasets
-
-### Jobs
-
-
 
 
 ###  Call for Participation
