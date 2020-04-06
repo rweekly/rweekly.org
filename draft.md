@@ -137,8 +137,7 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [What is a dgCMatrix object made of? (sparse matrix format in R)](https://statisticaloddsandends.wordpress.com/2020/03/31/what-is-a-dgcmatrix-object-made-of-sparse-matrix-format-in-r/)
 
-+ [A simple way to show stack trace on error in R
-](https://renkun.me/2020/03/31/a-simple-way-to-show-stack-trace-on-error-in-r/) 
++ [A simple way to show stack trace on error in R](https://renkun.me/2020/03/31/a-simple-way-to-show-stack-trace-on-error-in-r/) 
 
 + [R Tip: How To Look Up Matrix Values Quickly](http://www.win-vector.com/blog/2020/03/r-tip-how-to-look-up-matrix-values-quickly/)
 
