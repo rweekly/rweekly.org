@@ -67,7 +67,9 @@ Release Date: 2020-04-13
 
 ###  Tutorials
 
++ [Getting started in R markdown](https://towardsdatascience.com/getting-started-in-r-markdown-2d3de636bde3)
 
++ [Many ways of reading data into R - 1](https://medium.com/analytics-vidhya/many-ways-of-reading-data-into-r-1-52b02825cb27)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
