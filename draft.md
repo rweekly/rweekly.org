@@ -31,6 +31,8 @@ Release Date: 2020-04-13
 
 
 
++ [R programming in the Windows Subsystem for Linux](https://blog.jdblischak.com/posts/wsl-r/) - A comprehensive guide to setup an R development environment for Ubuntu running in the Windows Subsystem for Linux (WSL)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
