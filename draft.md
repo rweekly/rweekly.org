@@ -13,11 +13,21 @@ Release Date: 2020-04-13
 
 ### Insights
 
-
++ [Dataviz and the 20th Anniversary of R, an Interview With Hadley Wickham](https://medium.com/nightingale/dataviz-and-the-20th-anniversary-of-r-an-interview-with-hadley-wickham-ea245078fc8a)
 
 ### R in the Real World
 
++ [Repaying Tom Nook with {R6}](https://www.rostrum.blog/2020/04/04/repaying-tom-nook-with-r6/)
 
+### COVID-19
+
++ [How to make that crazy Fox News y axis chart with ggplot2 and scales](http://freerangestats.info/blog/2020/04/06/crazy-fox-y-axis)
+
++ [(Japanese) COVID-19 Tokyo Daily De-facto Population](https://github.com/yutannihilation/covid19-tokyo-daily-de-facto-population)
+
++ [Number of COVID-19 Infections by Prefecture (Japan)](https://github.com/uribo/japan-covid19)
+
++ [COVID-19 USA State-Level Policy Data](https://github.com/tgerke/covid-policy)
 
 ###  R in Organizations
 
@@ -47,11 +57,17 @@ Release Date: 2020-04-13
 
 **GitHub or Bitbucket**
 
++ [{ggCyberPunk}: Cyberpunk themed geoms for ggplot2](https://github.com/delabj/ggCyberPunk)
 
++ [{tabularmaps}: Tabular maps with R](https://github.com/uribo/tabularmaps)
+
++ [{ggpacman 0.1.0}: A `ggplot2` and `gganimate` Version of Pac-Man](https://github.com/mcanouil/ggpacman)
 
 ### Updated Packages
 
++ [{fs 1.4.1}](https://cran.r-project.org/package=fs)
 
++ [{glue 1.4.0}](https://cran.r-project.org/package=glue)
 
 ###  Videos and Podcasts
 
@@ -70,6 +86,8 @@ Release Date: 2020-04-13
 + [Getting started in R markdown](https://towardsdatascience.com/getting-started-in-r-markdown-2d3de636bde3)
 
 + [Many ways of reading data into R - 1](https://medium.com/analytics-vidhya/many-ways-of-reading-data-into-r-1-52b02825cb27)
+
++ [Getting started in R with StatsBomb Data](https://biscuitchaserfc.blogspot.com/2020/03/getting-started-in-r-with-statsbomb-data.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
