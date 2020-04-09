@@ -89,6 +89,8 @@ Release Date: 2020-04-13
 
 + [Getting started in R with StatsBomb Data](https://biscuitchaserfc.blogspot.com/2020/03/getting-started-in-r-with-statsbomb-data.html)
 
++ [Tips and tricks in RStudio and R Markdown](https://towardsdatascience.com/tips-and-tricks-in-rstudio-and-r-markdown-7a464508b0c?gi=454efec6855a)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
