@@ -49,6 +49,7 @@ Release Date: 2020-04-13
 
 **CRAN**
 
++ [gt](https://cran.r-project.org/web/packages/gt/index.html)
 
 
 **BioC**
