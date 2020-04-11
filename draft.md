@@ -89,6 +89,8 @@ Release Date: 2020-04-13
 
 + [Getting started in R with StatsBomb Data](https://biscuitchaserfc.blogspot.com/2020/03/getting-started-in-r-with-statsbomb-data.html)
 
++ [Data cleaning with Kamehamehas in R](https://martinctc.github.io/blog/data-cleaning-with-kamehamehas-in-r/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
