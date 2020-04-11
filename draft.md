@@ -11,7 +11,6 @@ Release Date: 2020-04-13
 
 
 
-
 ### Insights
 
 + [Dataviz and the 20th Anniversary of R, an Interview With Hadley Wickham](https://medium.com/nightingale/dataviz-and-the-20th-anniversary-of-r-an-interview-with-hadley-wickham-ea245078fc8a)
