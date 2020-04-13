@@ -17,7 +17,7 @@ Release Date: 2020-00-00
 
 ### R in the Real World
 
-
++ [Biterm topic modelling for short texts](http://bnosac.be/index.php/blog/98-biterm-topic-modelling-for-short-texts)
 
 ###  R in Organizations
 
