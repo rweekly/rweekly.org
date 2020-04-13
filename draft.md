@@ -13,7 +13,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [{gt 0.2.0}: Easily generate information-rich, publication-quality tables from R](https://blog.rstudio.com/2020/04/08/great-looking-tables-gt-0-2/)
 
-+ [dplyr 1.0.0: working within rows](https://www.tidyverse.org/blog/2020/04/dplyr-1-0-0-rowwise/)
++ [{dplyr 1.0.0}: working within rows](https://www.tidyverse.org/blog/2020/04/dplyr-1-0-0-rowwise/)
 
 + [{ggpacman 0.1.0}: A `ggplot2` and `gganimate` Version of Pac-Man](https://github.com/mcanouil/ggpacman)
 
@@ -25,7 +25,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [Retries in API packages and reinventing the wheel](https://blog.r-hub.io/2020/04/07/retry-wheel/)
 
-+ [dplyr 1.0.0: working within rows](https://www.tidyverse.org/blog/2020/04/dplyr-1-0-0-rowwise/)
++ [{dplyr 1.0.0}: working within rows](https://www.tidyverse.org/blog/2020/04/dplyr-1-0-0-rowwise/)
 
 + [10 Things We Learned in Creating the Blog Guide with bookdown](https://ropensci.org/blog/2020/04/07/bookdown-learnings/)
 
@@ -47,7 +47,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [COVID-19 USA State-Level Policy Data](https://github.com/tgerke/covid-policy)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-04-13/stay-at-home.png)
 
 + [Scraping Google Covid-19 community movement data from PDF figures](https://joachim-gassen.github.io/2020/04/scrape-google-covid19-cmr-data/)
 
@@ -73,7 +73,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [{ggpacman 0.1.0}: A `ggplot2` and `gganimate` Version of Pac-Man](https://github.com/mcanouil/ggpacman)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-04-13/ggpacman.png)
 
 + [{jpcovid19}: Utilities to clean and visualize Japan COVID-19 data](https://github.com/tokyor/jpcovid19)
 
@@ -81,7 +81,9 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [{coronaobj}: Generate customized, scientifically accurate 3D models of SARS CoV-2](https://github.com/tylermorganwall/coronaobj)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-04-13/corona-obj.png)
+
++ [{flametree}: Generative artwork that looks a bit like trees](https://github.com/djnavarro/flametree/)
 
 ### Updated Packages
 
@@ -119,7 +121,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [Getting started in R with StatsBomb Data](https://biscuitchaserfc.blogspot.com/2020/03/getting-started-in-r-with-statsbomb-data.html)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-04-13/statsbombtutorial.png)
 
 + [Data cleaning with Kamehamehas in R](https://martinctc.github.io/blog/data-cleaning-with-kamehamehas-in-r/)
 
@@ -139,18 +141,17 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [May 23rd, 85th (Virtual/Online) TokyoR Meetup](https://tokyor.connpass.com/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-
 More past events at [R conferences & meetups](https://conf.rweekly.org).
-
 
 ### Datasets
 
