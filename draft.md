@@ -90,9 +90,13 @@ Release Date: 2020-04-13
 
 + [{exams 2.3.6}](http://www.r-exams.org/general/cran_release_236/)
 
++ [{effectsize 0.3.0}](https://easystats.github.io/effectsize/)
+
 ###  Videos and Podcasts
 
 + [Robust estimation with tidymodels bootstrap resampling](https://www.youtube.com/watch?v=7LGR1sEUXoI)
+
++ [aRt programming: A series of videos describing how to create a new generative art system in R](https://www.youtube.com/playlist?list=PLRPB0ZzEYegNYW3ksiK3dvd6S4HMfKj1n)
 
 ### R Internationally
 
@@ -146,4 +150,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Students struggle with install vs library every semester, and keep including their install code in the RMarkdown report. Hope this meme might help in the future <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/I8xg053y0x">pic.twitter.com/I8xg053y0x</a></p>&mdash; Dianne Cook (@visnut) <a href="https://twitter.com/visnut/status/1248087845589274624?ref_src=twsrc%5Etfw">April 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">📦gghighlight📦is a delight. Thank you <a href="https://twitter.com/yutannihilat_en?ref_src=twsrc%5Etfw">@yutannihilat_en</a> 🥳🎉!!! <br><br>Check out some cool added features in gghighlight 0.2.0: <a href="https://t.co/YV1BrVYPR6">https://t.co/YV1BrVYPR6</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/dIANwfOZsn">pic.twitter.com/dIANwfOZsn</a></p>&mdash; Allison Horst (@allison_horst) <a href="https://twitter.com/allison_horst/status/1248765119334498305?ref_src=twsrc%5Etfw">April 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pssssttt..... hey kids.... wanna learn some Advanced Statistical Computing with R?<a href="https://twitter.com/hglanz?ref_src=twsrc%5Etfw">@hglanz</a> and I are making our course materials public. We&#39;d like to invite you to follow along with our superstar Cal Poly students over the next 9 weeks:<a href="https://t.co/zpIsYMDYHu">https://t.co/zpIsYMDYHu</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Kelly Bodwin (@KellyBodwin) <a href="https://twitter.com/KellyBodwin/status/1247268845208784896?ref_src=twsrc%5Etfw">April 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
