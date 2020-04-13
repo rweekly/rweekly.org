@@ -108,6 +108,8 @@ Release Date: 2020-04-13
 
 ![]()
 
++ [Data cleaning with Kamehamehas in R](https://martinctc.github.io/blog/data-cleaning-with-kamehamehas-in-r/)
+
 + [Visualize climate anomalies](https://dominicroye.github.io/en/2020/visualize-climate-anomalies/)
 
 + [H is for {haven}](http://www.deeplytrivial.com/2020/04/h-is-for-haven.html)
