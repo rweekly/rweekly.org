@@ -65,6 +65,7 @@ Release Date: 2020-00-00
 ###  Tutorials
 
 + [Biterm topic modelling for short texts](http://bnosac.be/index.php/blog/98-biterm-topic-modelling-for-short-texts)
+![Biterm topic modelling for short texts](https://user-images.githubusercontent.com/1710810/79218514-d688e280-7e50-11ea-86ad-4fdb86a1a7cc.png)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
