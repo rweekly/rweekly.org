@@ -73,6 +73,7 @@ Release Date: 2020-00-00
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ [Paul Murrell, Thomas Lin Pedersen: Changes to 'grid' units](https://developer.r-project.org/Blog/public/2020/04/13/changes-to-grid-units/)
 
 ###  Upcoming Events in 3 Months
 
