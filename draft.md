@@ -13,10 +13,13 @@ Release Date: 2020-00-00
 
 ### Insights
 
-
++ [Dr. Julia Silge InteRview](https://pacha.dev/blog/2020/04/14/dr.-julia-silge-interview/)
 
 ### R in the Real World
 
++ [Fitting your own football xG model](http://datofutbol.cl/xg-model/)
+
+![]()
 
 ###  R in Organizations
 
@@ -28,7 +31,9 @@ Release Date: 2020-00-00
 
 ###  Resources
 
++ [](https://evamaerey.github.io/flipbooks/ggpattern/ggpattern#1)
 
+![]()
 
 ###  New Packages
 
@@ -48,11 +53,15 @@ Release Date: 2020-00-00
 
 ### Updated Packages
 
-
++ [{geniusr 1.2.0}](https://ewenme.github.io/geniusr/)
 
 ###  Videos and Podcasts
 
++ [Principal component analysis for hip hop songs with tidymodels](https://www.youtube.com/watch?v=OvgzIx5mDNM)
 
++ [R Tutorial - Creating Enhanced Bar charts in ggplot and RStudio](https://www.youtube.com/watch?v=2GNvivXfTbU)
+
++ [Turning numeric into single-choice exercises with R/exams](https://www.youtube.com/watch?v=yj43hvj3lp8)
 
 ### Gist & Cookbook
 
@@ -66,6 +75,11 @@ Release Date: 2020-00-00
 
 + [Biterm topic modelling for short texts](http://bnosac.be/index.php/blog/98-biterm-topic-modelling-for-short-texts)
 
++ [The 'spam comments' puzzle: tidy simulation of stochastic processes in R](http://varianceexplained.org/r/spam-simulation/)
+
++ [Tidymodels: tidy machine learning in R](http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/)
+
++ [Calibrating time zones: an early bird or a night owl?](https://blog.earo.me/2020/04/05/calibrate-tzones/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
