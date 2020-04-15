@@ -21,6 +21,10 @@ Release Date: 2020-00-00
 
 ![]()
 
+### COVID19
+
++ [OZCoViz: An Australian focus with an international perspective](https://cbdrh.github.io/ozcoviz/)
+
 ###  R in Organizations
 
 
@@ -31,7 +35,9 @@ Release Date: 2020-00-00
 
 ###  Resources
 
-+ [](https://evamaerey.github.io/flipbooks/ggpattern/ggpattern#1)
++ [{ggpattern} An exploration with {flipbookr} and {xaringan}](https://evamaerey.github.io/flipbooks/ggpattern/ggpattern#1)
+
++ [Forecasting Best Practices, from Microsoft](https://blog.revolutionanalytics.com/2020/04/forecasting-best-practices-from-microsoft.html)
 
 ![]()
 
@@ -80,6 +86,8 @@ Release Date: 2020-00-00
 + [Tidymodels: tidy machine learning in R](http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/)
 
 + [Calibrating time zones: an early bird or a night owl?](https://blog.earo.me/2020/04/05/calibrate-tzones/)
+
++ [Supercharing RStudio](https://www.notion.so/Supercharging-RStudio-3d17d0b4642f43cb871227460d7b74b7)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
