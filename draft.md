@@ -14,6 +14,7 @@ Release Date: 2020-00-00
 ### Insights
 
 + [Dr. Julia Silge InteRview](https://pacha.dev/blog/2020/04/14/dr.-julia-silge-interview/)
++ [The Seven Key Things You Need To Know About dplyr 1.0.0](https://towardsdatascience.com/what-you-need-to-know-about-the-new-dplyr-1-0-0-7eaaaf6d78ac)
 
 ### R in the Real World
 
@@ -38,6 +39,8 @@ Release Date: 2020-00-00
 + [{ggpattern} An exploration with {flipbookr} and {xaringan}](https://evamaerey.github.io/flipbooks/ggpattern/ggpattern#1)
 
 + [Forecasting Best Practices, from Microsoft](https://blog.revolutionanalytics.com/2020/04/forecasting-best-practices-from-microsoft.html)
+
++ [Hosting a Virtual useR Meetup - R Consortium](https://www.r-consortium.org/blog/2020/04/13/hosting-a-virtual-user-meetup)
 
 ![]()
 
@@ -72,7 +75,6 @@ Release Date: 2020-00-00
 ### Gist & Cookbook
 
 
-
 ### R Internationally
 
 
@@ -88,6 +90,8 @@ Release Date: 2020-00-00
 + [Calibrating time zones: an early bird or a night owl?](https://blog.earo.me/2020/04/05/calibrate-tzones/)
 
 + [Supercharing RStudio](https://www.notion.so/Supercharging-RStudio-3d17d0b4642f43cb871227460d7b74b7)
+
++ [Functional Programming for Artists and Scientists](https://djnavarro.github.io/robust-tools/functionality)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
