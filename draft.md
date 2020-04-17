@@ -68,6 +68,8 @@ Release Date: 2020-00-00
 
 + [{ghibli 0.3.2}](https://ewenme.github.io/ghibli/)
 
++ [{dodgr 0.2.6}](https://cran.r-project.org/package=dodgr)
+
 ###  Videos and Podcasts
 
 + [Principal component analysis for hip hop songs with tidymodels](https://www.youtube.com/watch?v=OvgzIx5mDNM)
@@ -75,6 +77,8 @@ Release Date: 2020-00-00
 + [R Tutorial - Creating Enhanced Bar charts in ggplot and RStudio](https://www.youtube.com/watch?v=2GNvivXfTbU)
 
 + [Turning numeric into single-choice exercises with R/exams](https://www.youtube.com/watch?v=yj43hvj3lp8)
+
++ [Sentiment Analysis in R with {sentimentr} that handles Negation and other Valence Shifters](https://www.youtube.com/watch?v=eQU8Zd1B9tM)
 
 ### Gist & Cookbook
 
