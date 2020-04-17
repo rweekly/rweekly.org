@@ -58,11 +58,15 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
++ [{fawkes 0.1.0}: Provides an R API to control the AxiDraw pen plotter](https://fawkes.data-imaginist.com/)
 
++ [{colorscale 0.1.0}: Create a Color Scale from a Single Color](https://github.com/dreamRs/colorscale)
 
 ### Updated Packages
 
 + [{geniusr 1.2.0}](https://ewenme.github.io/geniusr/)
+
++ [{ghibli 0.3.2}](https://ewenme.github.io/ghibli/)
 
 ###  Videos and Podcasts
 
