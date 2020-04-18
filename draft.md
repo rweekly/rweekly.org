@@ -84,7 +84,9 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
++ [{fawkes 0.1.0}: Provides an R API to control the AxiDraw pen plotter](https://fawkes.data-imaginist.com/)
 
++ [{colorscale 0.1.0}: Create a Color Scale from a Single Color](https://github.com/dreamRs/colorscale)
 
 ### Updated Packages
 
@@ -95,6 +97,10 @@ Release Date: 2020-00-00
 + [gettz 0.0.4](http://dirk.eddelbuettel.com/blog/2020/04/14#gettz_0.0.4)
 
 + [RcppArmadillo 0.9.860.2.0](http://dirk.eddelbuettel.com/blog/2020/04/14#rcpparmadillo_0.9.860.2.0)
+
++ [{ghibli 0.3.2}](https://ewenme.github.io/ghibli/)
+
++ [{dodgr 0.2.6}](https://cran.r-project.org/package=dodgr)
 
 ###  Videos and Podcasts
 
@@ -110,7 +116,7 @@ Release Date: 2020-00-00
 
 + [PCA and the #TidyTuesday best hip hop songs ever](https://juliasilge.com/blog/best-hip-hop/)
 
-+ [Sentiment Analysis in R with {sentimentr} that handles Negation (Valence Shifters)](https://www.programmingwithr.com/sentiment-analysis-in-r-with-sentimentr-that-handles-negation-valence-shifters/)
++ [Sentiment Analysis in R with {sentimentr} that handles Negation and other Valence Shifters](https://www.youtube.com/watch?v=eQU8Zd1B9tM)
 
 ### Gist & Cookbook
 
