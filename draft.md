@@ -120,6 +120,9 @@ Release Date: 2020-00-00
 
 ### Gist & Cookbook
 
++ [A few highlights on women Hip Hop artists - TidyTuesday 2010/16](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/script.R)
+
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2020-04-20/johnmutiso-hiphophistory.jpeg)
 
 ### R Internationally
 
