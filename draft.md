@@ -1,15 +1,21 @@
 ---
 layout: draft
-title: R Weekly 2020-00
-description: Draft of the R Weekly
+title: R Weekly 2020-16 R package checks with Github Actions + Docker, An exploration of {ggpattern}, Fiting your own football xG model 
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-00-00
+Release Date: 2020-04-20
+
+This week’s release was curated by [Miles McBain](https://twitter.com/milesmcbain), with help from the RWeekly team members and contributors.
 
 ###  Highlight
 
++ [Automating R package checks across platforms with GitHub Actions and Docker in a portable way](https://jozef.io/r922-github-actions-r-packages/)
 
++ [{ggpattern} An exploration with {flipbookr} and {xaringan}](https://evamaerey.github.io/flipbooks/ggpattern/ggpattern#1)
+
++ [Fitting your own football xG model](http://datofutbol.cl/xg-model/)
 
 ### Insights
 
@@ -127,7 +133,7 @@ Release Date: 2020-00-00
 
 + [Calibrating time zones: an early bird or a night owl?](https://blog.earo.me/2020/04/05/calibrate-tzones/)
 
-+ [Supercharing RStudio](https://www.notion.so/Supercharging-RStudio-3d17d0b4642f43cb871227460d7b74b7)
++ [Supercharging RStudio](https://www.notion.so/Supercharging-RStudio-3d17d0b4642f43cb871227460d7b74b7)
 
 + [Functional Programming for Artists and Scientists](https://djnavarro.github.io/robust-tools/functionality)
 
