@@ -35,6 +35,8 @@ Release Date: 2020-00-00
 
 + [Automating R package checks across platforms with GitHub Actions and Docker in a portable way](https://jozef.io/r922-github-actions-r-packages/)
 
++ [Learning Data Science: Understanding ROC Curves](https://blog.ephorie.de/learning-data-science-understanding-roc-curves)
+
 ### R in the Real World
 
 + [Fitting your own football xG model](http://datofutbol.cl/xg-model/)
