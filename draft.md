@@ -106,8 +106,6 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
-+ [Principal component analysis for hip hop songs with tidymodels](https://www.youtube.com/watch?v=OvgzIx5mDNM)
-
 + [R Tutorial - Creating Enhanced Bar charts in ggplot and RStudio](https://www.youtube.com/watch?v=2GNvivXfTbU)
 
 + [Turning numeric into single-choice exercises with R/exams](https://www.youtube.com/watch?v=yj43hvj3lp8)
