@@ -21,13 +21,13 @@ Release Date: 2020-00-00
 
 + [Saving R Graphics across OSs](https://www.jumpingrivers.com/blog/r-graphics-cairo-png-pdf-saving/)
 
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2020-04-20/jumping_rivers_OS_plots.png)
+
 + [Setting the Graphics Device in a RMarkdown Document](https://www.jumpingrivers.com/blog/r-knitr-markdown-png-pdf-graphics/)
 
 + [2020-02  The Agony and the Ecstacy: Adding LuaTeX support to 'dvir'](https://stattech.wordpress.fos.auckland.ac.nz/2020/04/16/2020-02-the-agony-and-the-ecstacy-adding-luatex-support-to-dvir/)
 
 + [Effective Visualizations for Credible, Data-Driven Decision Making](https://blog.rstudio.com/2020/04/16/effective-visualizations-for-credible-data-driven-decision-making/)
-
-+ [Upset Plots](https://kieranhealy.org/blog/archives/2020/04/16/upset-plots/)
 
 + [Examining Aphex Twin's Eclectic Discography With the Spotify API and Generalized Variance](https://www.markhw.com/blog/aphextwin)
 
@@ -39,15 +39,19 @@ Release Date: 2020-00-00
 
 + [Some basics and intuition behind GAN’s in R and Python](http://gradientdescending.com/some-basics-and-intuition-behind-gans-in-r-and-python)
 
-### R in the Real World
++ [Upset Plots](https://kieranhealy.org/blog/archives/2020/04/16/upset-plots/)
 
-+ [Fitting your own football xG model](http://datofutbol.cl/xg-model/)
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2020-04-20/kjhealy-covid-upset-plot-1.png)
+
+### R in the Real World
 
 + [Extracting eBird Data from a Polygon](https://ropensci.org/technotes/2020/04/16/ebird-polygon/)
 
 + [State Unemployment Claims](https://rviews.rstudio.com/2020/04/16/state-unemployment-claims/)
 
-![]()
++ [Fitting your own football xG model](http://datofutbol.cl/xg-model/)
+
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2020-04-20/datofutbol_cl_XG_plot2.png)
 
 ### COVID19
 
@@ -56,14 +60,6 @@ Release Date: 2020-00-00
 + [Effective reproduction number estimation](http://staff.math.su.se/hoehle/blog/2020/04/15/effectiveR0.html)
 
 + [RStudio and COVID-19](https://blog.rstudio.com/2020/04/17/rstudio-and-covid-19/)
-
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
 
 ###  Resources
 
@@ -75,18 +71,9 @@ Release Date: 2020-00-00
 
 + [rOpenSci Dev Guide 0.4.0: Updates](https://ropensci.org/blog/2020/04/14/devguide-release/)
 
-![]()
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
-**CRAN**
-
-
-**BioC**
-
-
 
 **GitHub or Bitbucket**
 
@@ -130,10 +117,6 @@ Release Date: 2020-00-00
 
 ![](https://cdn.jsdelivr.net/gh/rweekly/image/2020-04-20/johnmutiso-hiphophistory.jpeg)
 
-### R Internationally
-
-
-
 ###  Tutorials
 
 + [Biterm topic modelling for short texts](http://bnosac.be/index.php/blog/98-biterm-topic-modelling-for-short-texts)
@@ -173,19 +156,9 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-
 More past events at [R conferences & meetups](https://conf.rweekly.org).
 
-
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
-
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
