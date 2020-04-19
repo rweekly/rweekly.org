@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2020-16 R package checks with Github Actions + Docker, An exploration of {ggpattern}, Fiting your own football xG model 
+title: R Weekly 2020-16 R package checks with Github Actions + Docker, An exploration of {ggpattern}, Fitting your own football xG model 
 description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
