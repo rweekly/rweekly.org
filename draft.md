@@ -37,6 +37,8 @@ Release Date: 2020-00-00
 
 + [Learning Data Science: Understanding ROC Curves](https://blog.ephorie.de/learning-data-science-understanding-roc-curves)
 
++ [Some basics and intuition behind GAN’s in R and Python](http://gradientdescending.com/some-basics-and-intuition-behind-gans-in-r-and-python)
+
 ### R in the Real World
 
 + [Fitting your own football xG model](http://datofutbol.cl/xg-model/)
