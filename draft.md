@@ -33,6 +33,8 @@ Release Date: 2020-00-00
 
 + [Pragmatic prediction intervals from a quasi-likelihood GLM by @ellis2013nz](http://freerangestats.info/blog/2020/04/18/pred-interval-from-log-linear)
 
++ [Automating R package checks across platforms with GitHub Actions and Docker in a portable way](https://jozef.io/r922-github-actions-r-packages/)
+
 ### R in the Real World
 
 + [Fitting your own football xG model](http://datofutbol.cl/xg-model/)
@@ -118,6 +120,8 @@ Release Date: 2020-00-00
 
 + [Sentiment Analysis in R with {sentimentr} that handles Negation and other Valence Shifters](https://www.youtube.com/watch?v=eQU8Zd1B9tM)
 
++ [How to make Powepoint Slides PPT using RStudio in 2020](https://www.programmingwithr.com/how-to-make-powepoint-slides-ppt-using-rstudio-in-2020/)
+
 ### Gist & Cookbook
 
 + [A few highlights on women Hip Hop artists - TidyTuesday 2010/16](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/script.R)
@@ -145,6 +149,8 @@ Release Date: 2020-00-00
 + [Juxtapose ML models in the Arena. Let the most credible one win!](https://medium.com/@ModelOriented/juxtapose-ml-models-in-the-arena-let-the-most-credible-one-win-fe75e395acf0?source=rss-57dd112ef71e------2)
 
 + [Linear model, xgboost and randomForest cross-validation using crossval::crossval_ml](https://thierrymoudiki.github.io/blog/2020/04/17/r/misc/crossval-3)
+
++ [nimbleEcology: custom NIMBLE distributions for ecologists](https://r-nimble.org/nimbleecology-custom-nimble-distributions-for-ecologists)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
