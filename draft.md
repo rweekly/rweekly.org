@@ -124,7 +124,7 @@ Release Date: 2020-00-00
 
 ### Gist & Cookbook
 
-+ [A few highlights on women Hip Hop artists - TidyTuesday 2010/16](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/script.R)
++ [HipHop History - Hits of All Time - TidyTuesday 2010/16](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/script.R)
 
 ![](https://cdn.jsdelivr.net/gh/rweekly/image/2020-04-20/johnmutiso-hiphophistory.jpeg)
 
@@ -165,8 +165,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 Events in 3 Months:
 
 
-++ [May 23rd, 85th (Virtual/Online) TokyoR Meetup](https://tokyor.connpass.com/)
- [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
++ [May 23rd, 85th (Virtual/Online) TokyoR Meetup](https://tokyor.connpass.com/)
+
++ [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
