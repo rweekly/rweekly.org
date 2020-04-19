@@ -190,3 +190,10 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Data Scientist fighting messy data, 2020, colorized <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br><br>Thanks to <a href="https://twitter.com/favstats?ref_src=twsrc%5Etfw">@favstats</a> for giving me the idea and motivation to finish this. :) <a href="https://t.co/guGpFFtF5V">pic.twitter.com/guGpFFtF5V</a></p>&mdash; Vivi (@ViviFabrien) <a href="https://twitter.com/ViviFabrien/status/1251482525706457088?ref_src=twsrc%5Etfw">April 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think my favourite thing about making my art code available is that I get to see all the gorgeous things people make with it 😍 <a href="https://t.co/sOyeZ4n0mT">https://t.co/sOyeZ4n0mT</a></p>&mdash; Danielle Navarro (@djnavarro) <a href="https://twitter.com/djnavarro/status/1250163947153420288?ref_src=twsrc%5Etfw">April 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Friendly reminder to myself that janitor::clean_names() exists and is awesome. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/bRnKfcYiRT">pic.twitter.com/bRnKfcYiRT</a></p>&mdash; Tyler Clavelle (@tclavL) <a href="https://twitter.com/tclavL/status/1249847357337985025?ref_src=twsrc%5Etfw">April 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
