@@ -109,8 +109,6 @@ This week’s release was curated by [Miles McBain](https://twitter.com/milesmcb
 
 + [#25: Test, test, test, … those R 4.0.0 binaries with Ubuntu 20.04 and Rocker](http://dirk.eddelbuettel.com/blog/2020/04/12#025_rocker_r_4_0_0_testing_Ubuntu_20_04)
 
-+ [Android Smartphone Analysis in R Code + Video](https://www.programmingwithr.com/android-smartphone-analysis-in-r-code-video/)
-
 + [PCA and the #TidyTuesday best hip hop songs ever](https://juliasilge.com/blog/best-hip-hop/)
 
 + [Sentiment Analysis in R with {sentimentr} that handles Negation and other Valence Shifters](https://www.youtube.com/watch?v=eQU8Zd1B9tM)
