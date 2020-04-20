@@ -65,7 +65,9 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Pathtracing Neon Landscapes in R](https://www.tylermw.com/pathtracing-neon-landscapes-in-r/)
 
++ [How to Run Python's Scikit-Learn in R in 5 minutes](https://www.business-science.io/learn-r/2020/04/20/setup-python-in-r-with-rmarkdown.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
