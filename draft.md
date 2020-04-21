@@ -19,6 +19,8 @@ Release Date: 2020-00-00
 
 + [Papers Please! 'Wide Open Spaces A statistical technique for measuring space creation in professional soccer' pt 1](https://www.robert-hickman.eu/post/fall_back_in_to_space/)
 
++ [Use R & GitHub as a Workout planner](https://colinfay.me/r-git-workout-planner/)
+
 ### COVID19
 
 + [COVID-19: Analyze Mobility Trends with R](https://blog.ephorie.de/covid-19-analyze-mobility-trends-with-r)
@@ -30,6 +32,7 @@ Release Date: 2020-00-00
 
 ###  R in Academia
 
++ [Applied Longitudinal Data Analysis in brms and the tidyverse](https://bookdown.org/content/4253/)
 
 
 ###  Resources
@@ -63,6 +66,8 @@ Release Date: 2020-00-00
 
 + [TidyX Episode 6: Exploring BBC Critic rankings Rap Music + Analyzing 2019 NWSL data with {nwslR}](https://www.youtube.com/watch?v=XKjhws2ryFw)
 
++ [Easy ggplot2 Theme Customization with {ggeasy}](https://www.youtube.com/watch?time_continue=1&v=iAH1GJoBZmI&feature=emb_logo)
+
 ### Gist & Cookbook
 
 + [GDPR Violations - Tidy Tuesday - 2020, Week 17](https://github.com/abichat/tidytuesday/blob/master/scripts/script_2020-04-21.R)
@@ -78,6 +83,8 @@ Release Date: 2020-00-00
 + [How to Run Python's Scikit-Learn in R in 5 minutes](https://www.business-science.io/learn-r/2020/04/20/setup-python-in-r-with-rmarkdown.html)
 
 + [No excuse not to be a Bayesian anymore](https://www.brodrigues.co/blog/2020-04-20-no_excuse/)
+
++ [How to check if groceries are in stock and automatically buy them with R](http://theautomatic.net/2020/04/21/make-your-amazon-purchases-with-r/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -102,6 +109,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ### Datasets
 
++ [Financial datasets provided by Marcelo S. Perlin](https://www.msperlin.com/blog/data/data/)
+
 ### Jobs
 
 
@@ -113,3 +122,7 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Need something to read while in quarantine? <br><br>A lot of tutorials, articles, and function references are now at <a href="https://t.co/ybDlBsD9IA">https://t.co/ybDlBsD9IA</a>.<a href="https://t.co/YyzmRIH4hX">https://t.co/YyzmRIH4hX</a><a href="https://twitter.com/apreshill?ref_src=twsrc%5Etfw">@apreshill</a> is the MVP; we could not have done it without her. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Max Kuhn (@topepos) <a href="https://twitter.com/topepos/status/1252552821108588544?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
