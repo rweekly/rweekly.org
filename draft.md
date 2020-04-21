@@ -13,11 +13,13 @@ Release Date: 2020-00-00
 
 ### Insights
 
-
++ [Automatic Code Cleaning in R with Rclean](https://ropensci.org/blog/2020/04/21/rclean/)
 
 ### R in the Real World
 
 + [Papers Please! 'Wide Open Spaces A statistical technique for measuring space creation in professional soccer' pt 1](https://www.robert-hickman.eu/post/fall_back_in_to_space/)
+
+### COVID19
 
 + [COVID-19: Analyze Mobility Trends with R](https://blog.ephorie.de/covid-19-analyze-mobility-trends-with-r)
 
@@ -48,20 +50,22 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-+ [{dplyr-cli}](https://github.com/coolbutuseless/dplyr-cli)
++ [{dplyr-cli}: Manipulate CSV files on the command line using dplyr](https://github.com/coolbutuseless/dplyr-cli)
 
 
 ### Updated Packages
 
-+ [{gratia 0.3.2} (Github)](https://github.com/gavinsimpson/gratia)
++ [{gratia} 0.3.2 (Github): ggplot-based graphics and useful functions for GAMs fitted using the mgcv package](https://github.com/gavinsimpson/gratia)
+
++ [{dm} 0.1.1.9006 (Github): Tools for working with multiple related tables, stored as data frames or in a relational database](https://github.com/krlmlr/dm)
 
 ###  Videos and Podcasts
 
-+ [TidyX Episode 6](https://www.youtube.com/watch?v=XKjhws2ryFw)
++ [TidyX Episode 6: Exploring BBC Critic rankings Rap Music + Analyzing 2019 NWSL data with {nwslR}](https://www.youtube.com/watch?v=XKjhws2ryFw)
 
 ### Gist & Cookbook
 
-
++ [GDPR Violations - Tidy Tuesday - 2020, Week 17](https://github.com/abichat/tidytuesday/blob/master/scripts/script_2020-04-21.R)
 
 ### R Internationally
 
