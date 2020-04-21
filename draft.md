@@ -45,6 +45,7 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
++ [{dplyr-cli}](https://github.com/coolbutuseless/dplyr-cli)
 
 
 ### Updated Packages
@@ -68,6 +69,8 @@ Release Date: 2020-00-00
 + [Pathtracing Neon Landscapes in R](https://www.tylermw.com/pathtracing-neon-landscapes-in-r/)
 
 + [How to Run Python's Scikit-Learn in R in 5 minutes](https://www.business-science.io/learn-r/2020/04/20/setup-python-in-r-with-rmarkdown.html)
+
++ [No excuse not to be a Bayesian anymore](https://www.brodrigues.co/blog/2020-04-20-no_excuse/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
