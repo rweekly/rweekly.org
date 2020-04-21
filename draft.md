@@ -29,6 +29,8 @@ Release Date: 2020-00-00
 
 + [Announcing tidymodels.org](https://www.tidyverse.org/blog/2020/04/tidymodels-org/)
 
++ [The Case for tidymodels](https://rviews.rstudio.com/2020/04/21/the-case-for-tidymodels/)
+
 
 ###  R in Academia
 
