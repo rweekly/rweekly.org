@@ -17,10 +17,13 @@ Release Date: 2020-00-00
 
 ### R in the Real World
 
++ [Papers Please! 'Wide Open Spaces A statistical technique for measuring space creation in professional soccer' pt 1](https://www.robert-hickman.eu/post/fall_back_in_to_space/)
 
++ [COVID-19: Analyze Mobility Trends with R](https://blog.ephorie.de/covid-19-analyze-mobility-trends-with-r)
 
 ###  R in Organizations
 
++ [Announcing tidymodels.org](https://www.tidyverse.org/blog/2020/04/tidymodels-org/)
 
 
 ###  R in Academia
@@ -50,11 +53,11 @@ Release Date: 2020-00-00
 
 ### Updated Packages
 
-
++ [{gratia 0.3.2} (Github)](https://github.com/gavinsimpson/gratia)
 
 ###  Videos and Podcasts
 
-
++ [TidyX Episode 6](https://www.youtube.com/watch?v=XKjhws2ryFw)
 
 ### Gist & Cookbook
 
