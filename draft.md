@@ -57,6 +57,7 @@ Release Date: 2020-00-00
 
 + [{dplyr-cli}: Manipulate CSV files on the command line using dplyr](https://github.com/coolbutuseless/dplyr-cli)
 
++ [{minidrawio}: Create simple draw.io documents from R](https://github.com/coolbutuseless/minidrawio)
 
 ### Updated Packages
 
@@ -74,7 +75,9 @@ Release Date: 2020-00-00
 
 ### Gist & Cookbook
 
-+ [GDPR Violations - Tidy Tuesday - 2020, Week 17](https://github.com/abichat/tidytuesday/blob/master/scripts/script_2020-04-21.R)
++ [GDPR Violations - Tidy Tuesday - 2020, Week 17 - Antoine Bichat](https://github.com/abichat/tidytuesday/blob/master/scripts/script_2020-04-21.R)
+
++ [GDPR Violations - Tidy Tuesday - 2020, Week 17 - Georgios Karamanis](https://github.com/gkaramanis/tidytuesday/tree/master/2020-week17)
 
 ### R Internationally
 
