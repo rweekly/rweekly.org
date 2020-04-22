@@ -70,6 +70,8 @@ Release Date: 2020-00-00
 
 + [Easy ggplot2 Theme Customization with {ggeasy}](https://www.youtube.com/watch?time_continue=1&v=iAH1GJoBZmI&feature=emb_logo)
 
++ [Tidy Tuesday live screencast: Analyzing GDPR violations in R](https://www.youtube.com/watch?v=EVvnnWKO_4w)
+
 ### Gist & Cookbook
 
 + [GDPR Violations - Tidy Tuesday - 2020, Week 17](https://github.com/abichat/tidytuesday/blob/master/scripts/script_2020-04-21.R)
