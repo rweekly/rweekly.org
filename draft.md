@@ -127,6 +127,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve got 99 problems and other people’s choices about data formatting are most of them</p>&mdash; Garrick (@grrrck) <a href="https://twitter.com/grrrck/status/1252704601024999437?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Need something to read while in quarantine? <br><br>A lot of tutorials, articles, and function references are now at <a href="https://t.co/ybDlBsD9IA">https://t.co/ybDlBsD9IA</a>.<a href="https://t.co/YyzmRIH4hX">https://t.co/YyzmRIH4hX</a><a href="https://twitter.com/apreshill?ref_src=twsrc%5Etfw">@apreshill</a> is the MVP; we could not have done it without her. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Max Kuhn (@topepos) <a href="https://twitter.com/topepos/status/1252552821108588544?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
