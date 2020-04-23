@@ -36,6 +36,7 @@ Release Date: 2020-00-00
 
 + [Applied Longitudinal Data Analysis in brms and the tidyverse](https://bookdown.org/content/4253/)
 
++ [What Panel Data Is Really All About](http://www.robertkubinec.com/post/fixed_effects/)
 
 ###  Resources
 
@@ -73,11 +74,15 @@ Release Date: 2020-00-00
 
 + [Tidy Tuesday live screencast: Analyzing GDPR violations in R](https://www.youtube.com/watch?v=EVvnnWKO_4w)
 
++ [Advanced R Book Club: Chapter 3: Vectors (2020-04-16)](https://www.youtube.com/watch?v=pQ-xDAPEQaw)
+
 ### Gist & Cookbook
 
 + [GDPR Violations - Tidy Tuesday - 2020, Week 17 - Antoine Bichat](https://github.com/abichat/tidytuesday/blob/master/scripts/script_2020-04-21.R)
 
 + [GDPR Violations - Tidy Tuesday - 2020, Week 17 - Georgios Karamanis](https://github.com/gkaramanis/tidytuesday/tree/master/2020-week17)
+
++ [The City of Lights](https://github.com/khufkens/city_of_lights)
 
 ### R Internationally
 
@@ -131,6 +136,8 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve got 99 problems and other people’s choices about data formatting are most of them</p>&mdash; Garrick (@grrrck) <a href="https://twitter.com/grrrck/status/1252704601024999437?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tidy R makes learning HARDER for non-coders. Consider an example.<br><br>mtcars %&gt;% <br> group_by(cyl) %&gt;% <br> summarise(mpg.mean = mean(mpg))<br><br>but in awk it&#39;s<br><br>awk -F, &#39;NR&gt;1{mpg[$3]+=$2;len[$3]++}BEGIN{print &quot;cyl\tmpg.mean&quot;}END{for (i in mpg) print i, mpg[i]/len[i]}&#39; OFS=&#39;\t&#39; mtcars.txt</p>&mdash; Jonathan Carroll (@carroll_jono) <a href="https://twitter.com/carroll_jono/status/1159266829098815489?ref_src=twsrc%5Etfw">August 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Need something to read while in quarantine? <br><br>A lot of tutorials, articles, and function references are now at <a href="https://t.co/ybDlBsD9IA">https://t.co/ybDlBsD9IA</a>.<a href="https://t.co/YyzmRIH4hX">https://t.co/YyzmRIH4hX</a><a href="https://twitter.com/apreshill?ref_src=twsrc%5Etfw">@apreshill</a> is the MVP; we could not have done it without her. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Max Kuhn (@topepos) <a href="https://twitter.com/topepos/status/1252552821108588544?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
