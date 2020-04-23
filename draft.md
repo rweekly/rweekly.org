@@ -62,6 +62,8 @@ Release Date: 2020-00-00
 
 ### Updated Packages
 
++ [{poorman} 0.1.11 (CRAN): A simple replication of key 'dplyr' verbs using only base R](https://cran.r-project.org/web/packages/poorman/index.html)
+
 + [{gratia} 0.3.2 (Github): ggplot-based graphics and useful functions for GAMs fitted using the mgcv package](https://github.com/gavinsimpson/gratia)
 
 + [{dm} 0.1.1.9006 (Github): Tools for working with multiple related tables, stored as data frames or in a relational database](https://github.com/krlmlr/dm)
