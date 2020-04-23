@@ -82,6 +82,8 @@ Release Date: 2020-00-00
 
 + [GDPR Violations - Tidy Tuesday - 2020, Week 17 - Georgios Karamanis](https://github.com/gkaramanis/tidytuesday/tree/master/2020-week17)
 
++ [GDPR Violations - Tidy Tuesday - 2020, Week 17 - John Mutiso](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2017/script.R)
+
 + [The City of Lights](https://github.com/khufkens/city_of_lights)
 
 ### R Internationally
