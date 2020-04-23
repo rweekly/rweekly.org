@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2020-00
+title: R Weekly 2020-17
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-00-00
+Release Date: 2020-04-27
 
 ###  Highlight
 
@@ -21,6 +21,8 @@ Release Date: 2020-00-00
 
 + [Use R & GitHub as a Workout planner](https://colinfay.me/r-git-workout-planner/)
 
++ [Calculating lake outlets using R](https://fishandwhistle.net/post/2020/calculating-lake-outlets-using-r/)
+
 ### COVID19
 
 + [COVID-19: Analyze Mobility Trends with R](https://blog.ephorie.de/covid-19-analyze-mobility-trends-with-r)
@@ -30,6 +32,8 @@ Release Date: 2020-00-00
 + [Announcing tidymodels.org](https://www.tidyverse.org/blog/2020/04/tidymodels-org/)
 
 + [The Case for tidymodels](https://rviews.rstudio.com/2020/04/21/the-case-for-tidymodels/)
+
++ [Miscellaneous Wisdom about R Markdown & Hugo Gained from Work on our Website](https://ropensci.org/technotes/2020/04/23/rmd-learnings/)
 
 
 ###  R in Academia
