@@ -56,7 +56,7 @@ Release Date: 2020-04-27
 
 **CRAN**
 
-+ [{fisuhalize} 0.2.0: Implementation of color palettes based on fish species](https://cran.r-project.org/web/packages/fishualize/index.html)
++ [{fishualize} 0.2.0: Implementation of color palettes based on fish species](https://cran.r-project.org/web/packages/fishualize/index.html)
 
 **BioC**
 
