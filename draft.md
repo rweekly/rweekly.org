@@ -56,7 +56,7 @@ Release Date: 2020-04-27
 
 **CRAN**
 
-
++ [{fisuhalize} 0.2.0: Implementation of color palettes based on fish species](https://cran.r-project.org/web/packages/fishualize/index.html)
 
 **BioC**
 
@@ -86,15 +86,11 @@ Release Date: 2020-04-27
 
 + [Tidy Tuesday live screencast: Analyzing GDPR violations in R](https://www.youtube.com/watch?v=EVvnnWKO_4w)
 
-+ [Advanced R Book Club: Chapter 3: Vectors (2020-04-16)](https://www.youtube.com/watch?v=pQ-xDAPEQaw)
++ Advanced R Book Club: [Chapter 3: Vectors (2020-04-16)](https://www.youtube.com/watch?v=pQ-xDAPEQaw), [Chapter 4: Subsetting (2020-04-23)](https://www.youtube.com/watch?v=eLMpCc0t1cg)
 
 ### Gist & Cookbook
 
-+ [GDPR Violations - Tidy Tuesday - 2020, Week 17 - Antoine Bichat](https://github.com/abichat/tidytuesday/blob/master/scripts/script_2020-04-21.R)
-
-+ [GDPR Violations - Tidy Tuesday - 2020, Week 17 - Georgios Karamanis](https://github.com/gkaramanis/tidytuesday/tree/master/2020-week17)
-
-+ [GDPR Violations - Tidy Tuesday - 2020, Week 17 - John Mutiso](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2017/script.R)
++ GDPR Violations - Tidy Tuesday - 2020, Week 17 - [Antoine Bichat](https://github.com/abichat/tidytuesday/blob/master/scripts/script_2020-04-21.R), [Georgios Karamanis](https://github.com/gkaramanis/tidytuesday/tree/master/2020-week17), [John Mutiso](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2017/script.R)
 
 + [The City of Lights](https://github.com/khufkens/city_of_lights)
 
@@ -119,8 +115,6 @@ Release Date: 2020-04-27
 + [Lubridate/ggplot date helpers](https://scottishsnow.wordpress.com/2020/04/24/lubridate-ggplot-date-helpers/)
 
 + [Turning your ggplot2 code into a function](https://thomas-neitmann.netlify.app/posts/turning-your-ggplot2-code-into-a-function/)
-
-+ [No excuse not to be a Bayesian anymore](https://www.brodrigues.co/blog/2020-04-20-no_excuse/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
