@@ -70,6 +70,8 @@ Release Date: 2020-04-27
 
 + [{devoutdrawio}: R graphics device to output to draw.io XML vector format](https://github.com/coolbutuseless/devoutdrawio)
 
++ [{flair}: Decorate your R code](https://github.com/kbodwin/flair)
+
 ### Updated Packages
 
 + [{poorman} 0.1.11 (CRAN): A simple replication of key 'dplyr' verbs using only base R](https://cran.r-project.org/web/packages/poorman/index.html)
@@ -153,10 +155,9 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">happy stringsAsFactors = hell no day</p>&mdash; Sharla Gelfand (@sharlagelfand) <a href="https://twitter.com/sharlagelfand/status/1253715120590553090?ref_src=twsrc%5Etfw">April 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve got 99 problems and other people’s choices about data formatting are most of them</p>&mdash; Garrick (@grrrck) <a href="https://twitter.com/grrrck/status/1252704601024999437?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tidy R makes learning HARDER for non-coders. Consider an example.<br><br>mtcars %&gt;% <br> group_by(cyl) %&gt;% <br> summarise(mpg.mean = mean(mpg))<br><br>but in awk it&#39;s<br><br>awk -F, &#39;NR&gt;1{mpg[$3]+=$2;len[$3]++}BEGIN{print &quot;cyl\tmpg.mean&quot;}END{for (i in mpg) print i, mpg[i]/len[i]}&#39; OFS=&#39;\t&#39; mtcars.txt</p>&mdash; Jonathan Carroll (@carroll_jono) <a href="https://twitter.com/carroll_jono/status/1159266829098815489?ref_src=twsrc%5Etfw">August 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Need something to read while in quarantine? <br><br>A lot of tutorials, articles, and function references are now at <a href="https://t.co/ybDlBsD9IA">https://t.co/ybDlBsD9IA</a>.<a href="https://t.co/YyzmRIH4hX">https://t.co/YyzmRIH4hX</a><a href="https://twitter.com/apreshill?ref_src=twsrc%5Etfw">@apreshill</a> is the MVP; we could not have done it without her. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Max Kuhn (@topepos) <a href="https://twitter.com/topepos/status/1252552821108588544?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
