@@ -31,7 +31,7 @@ github:
   repo:              https://github.com/rweekly/rweekly.org
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-sitemap
