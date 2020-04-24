@@ -64,6 +64,8 @@ Release Date: 2020-04-27
 
 + [{minidrawio}: Create simple draw.io documents from R](https://github.com/coolbutuseless/minidrawio)
 
++ [{devoutdrawio}: R graphics device to output to draw.io XML vector format](https://github.com/coolbutuseless/devoutdrawio)
+
 ### Updated Packages
 
 + [{poorman} 0.1.11 (CRAN): A simple replication of key 'dplyr' verbs using only base R](https://cran.r-project.org/web/packages/poorman/index.html)
