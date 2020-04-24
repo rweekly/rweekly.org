@@ -15,6 +15,10 @@ Release Date: 2020-04-27
 
 + [Automatic Code Cleaning in R with Rclean](https://ropensci.org/blog/2020/04/21/rclean/)
 
++ [A case against pipes in R and what to do instead](http://www.seascapemodels.org/rstats/2020/04/21/a-case-against-pipes.html)
+
++ [Why Is It Called That Way?! – Origin and Meaning of R Package Names](https://www.statworx.com/ch/blog/why-is-it-called-that-way-origin-and-meaning-of-r-package-names/)
+
 ### R in the Real World
 
 + [Papers Please! 'Wide Open Spaces A statistical technique for measuring space creation in professional soccer' pt 1](https://www.robert-hickman.eu/post/fall_back_in_to_space/)
@@ -44,7 +48,7 @@ Release Date: 2020-04-27
 
 ###  Resources
 
-
++ [Updated Favorite Data Visualizations - Len Kiefer](http://lenkiefer.com/2020/04/20/updated-favorite-data-visualizations/)
 
 ###  New Packages
 
@@ -60,7 +64,7 @@ Release Date: 2020-04-27
 
 **GitHub or Bitbucket**
 
-+ [{dplyr-cli}: Manipulate CSV files on the command line using dplyr](https://github.com/coolbutuseless/dplyr-cli)
++ [{dplyr-cli}: Manipulate CSV files on the command line using dplyr](https://coolbutuseless.github.io/2020/04/20/manipulate-csv-files-on-the-command-line-with-dplyr-cli/)
 
 + [{minidrawio}: Create simple draw.io documents from R](https://github.com/coolbutuseless/minidrawio)
 
@@ -96,7 +100,11 @@ Release Date: 2020-04-27
 
 ### R Internationally
 
++ [(Japanese) R MarkdownでKaTeXを使う](https://blog.atusy.net/2020/04/23/katex-in-html-doc/)
 
++ [(Japanese) {tabularmaps}: カラム地図で行政区の大まかな配置を可視化する](https://uribo.hatenablog.com/entry/2020/04/22/174802)
+
++ [(Japanese) ポアソン混合モデルの変分推論【緑ベイズ入門のノート】](https://www.anarchive-beta.com/entry/2020/04/23/171354)
 
 ###  Tutorials
 
@@ -107,6 +115,12 @@ Release Date: 2020-04-27
 + [No excuse not to be a Bayesian anymore](https://www.brodrigues.co/blog/2020-04-20-no_excuse/)
 
 + [How to check if groceries are in stock and automatically buy them with R](http://theautomatic.net/2020/04/21/make-your-amazon-purchases-with-r/)
+
++ [Lubridate/ggplot date helpers](https://scottishsnow.wordpress.com/2020/04/24/lubridate-ggplot-date-helpers/)
+
++ [Turning your ggplot2 code into a function](https://thomas-neitmann.netlify.app/posts/turning-your-ggplot2-code-into-a-function/)
+
++ [No excuse not to be a Bayesian anymore](https://www.brodrigues.co/blog/2020-04-20-no_excuse/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
