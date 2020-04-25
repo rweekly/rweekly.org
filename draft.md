@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: R Weekly 2020-17
-description: Draft of the R Weekly
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -18,6 +18,12 @@ Release Date: 2020-04-27
 + [A case against pipes in R and what to do instead](http://www.seascapemodels.org/rstats/2020/04/21/a-case-against-pipes.html)
 
 + [Why Is It Called That Way?! – Origin and Meaning of R Package Names](https://www.statworx.com/ch/blog/why-is-it-called-that-way-origin-and-meaning-of-r-package-names/)
+
++ [Encoding your categorical variables based on the response variable and correlations](https://thierrymoudiki.github.io/blog/2020/04/24/python/r/misc/target-encoder-correlation)
+
++ [Getting to the Right Question](https://blog.rstudio.com/2020/04/22/getting-to-the-right-question/)
+
++ [Recent changes in R spatial and how to be ready for them](https://geocompr.github.io/post/2020/whyr_webinar004/)
 
 ### R in the Real World
 
@@ -49,6 +55,8 @@ Release Date: 2020-04-27
 ###  Resources
 
 + [Updated Favorite Data Visualizations - Len Kiefer](http://lenkiefer.com/2020/04/20/updated-favorite-data-visualizations/)
+
++ [Free Springer Books during COVID19](https://paulvanderlaken.com/2020/04/24/free-springer-books-computer-science-covid19/)
 
 ###  New Packages
 
@@ -106,6 +114,8 @@ Release Date: 2020-04-27
 
 ###  Tutorials
 
++ [Modeling #TidyTuesday GDPR violations with tidymodels](https://juliasilge.com/blog/gdpr-violations/)
+
 + [Pathtracing Neon Landscapes in R](https://www.tylermw.com/pathtracing-neon-landscapes-in-r/)
 
 + [How to Run Python's Scikit-Learn in R in 5 minutes](https://www.business-science.io/learn-r/2020/04/20/setup-python-in-r-with-rmarkdown.html)
@@ -117,6 +127,12 @@ Release Date: 2020-04-27
 + [Lubridate/ggplot date helpers](https://scottishsnow.wordpress.com/2020/04/24/lubridate-ggplot-date-helpers/)
 
 + [Turning your ggplot2 code into a function](https://thomas-neitmann.netlify.app/posts/turning-your-ggplot2-code-into-a-function/)
+
++ [How to do Excel VLOOKUP in R (using left_join, merge)](https://www.programmingwithr.com/how-to-do-excel-vlookup-in-r-using-left-join-merge/)
+
++ [How to showcase CSS+JS+HTML snippets with Hugo?](https://masalmon.eu/2020/04/21/css-snippet/)
+
++ [Using tmux to work with multiple R sessions in VSCode](https://renkun.me/2020/04/14/writing-r-in-vscode-working-with-multiple-r-sessions/) - 4/19/2020
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
