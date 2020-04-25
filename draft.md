@@ -33,6 +33,8 @@ Release Date: 2020-04-27
 
 + [Calculating lake outlets using R](https://fishandwhistle.net/post/2020/calculating-lake-outlets-using-r/)
 
++ [Understanding sriking performance (with the ufc.stats package)])http://tamaszilagyi.com/ufc.stats//articles/2020-04-15-striking.html)
+
 ### COVID19
 
 + [COVID-19: Analyze Mobility Trends with R](https://blog.ephorie.de/covid-19-analyze-mobility-trends-with-r)
@@ -76,7 +78,8 @@ Release Date: 2020-04-27
 
 + [{minidrawio}: Create simple draw.io documents from R](https://github.com/coolbutuseless/minidrawio)
 
-+ [{devoutdrawio}: R graphics device to output to draw.io XML vector format](https://github.com/coolbutuseless/devoutdrawio)
++ [{devoutdrawio}]: R graphics device to output to draw.io XML vector format](https://github.com/coolbutuseless/devoutdrawio) and [an introductory post](https://coolbutuseless.github.io/2020/04/23/introducing-devoutdrawio-a-graphics-device-which-outputs-to-draw.io-format/)
+
 
 + [{flair}: Decorate your R code](https://github.com/kbodwin/flair)
 
@@ -111,6 +114,8 @@ Release Date: 2020-04-27
 + [(Japanese) {tabularmaps}: カラム地図で行政区の大まかな配置を可視化する](https://uribo.hatenablog.com/entry/2020/04/22/174802)
 
 + [(Japanese) ポアソン混合モデルの変分推論【緑ベイズ入門のノート】](https://www.anarchive-beta.com/entry/2020/04/23/171354)
+
++ [(German) How to create an R package in RStudio in 2 minutes](https://statistik-dresden.de/archives/15972)
 
 ###  Tutorials
 
