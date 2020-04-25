@@ -13,6 +13,8 @@ Release Date: 2020-04-27
 
 ### Insights
 
++ [R 4.0.0 is released](https://stat.ethz.ch/pipermail/r-announce/2020/000653.html)
+
 + [Automatic Code Cleaning in R with Rclean](https://ropensci.org/blog/2020/04/21/rclean/)
 
 + [A case against pipes in R and what to do instead](http://www.seascapemodels.org/rstats/2020/04/21/a-case-against-pipes.html)
