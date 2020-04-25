@@ -27,4 +27,51 @@ layout: default
 </aside>
 {% endif %}
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div id="preview-content" style="display: none;"></div>
+<script>
+function onHostClick(evt) {
+  console.log(evt.dataset.desc);
+  $('#preview-content').text(evt.dataset.desc);
+  $('#preview-content').dialog({
+    width: "80%",
+    maxWidth: 600,
+    maxHeight: 600,
+  });
+}
+
+document.addEventListener("DOMContentLoaded", function(){
+    setTimeout(function () {
+      $.ajax({
+        dataType: "json",
+        url: "https://live.rweekly.org/draft.json",
+        success: function (data) {
+          console.log(data);
+          if (typeof data === 'object') {
+            $('.added-hostname').each(function (index, elt) {
+              const href = $('a', elt).attr('href');
+              if (data[href]) {
+                $('.tooltiptext', elt).attr('data-desc', data[href]);
+                $('a', elt).attr('data-desc', data[href]);
+                $('.tooltiptext', elt).attr('onclick', 'onHostClick(this)');
+
+                $('a', elt).tooltip(
+                  {
+                    items: '[data-desc]',
+                    content: function () {
+                      var element = $(this);
+                      return '<div class="link-desc">' + element.attr("data-desc") + '</div>';
+                    },
+                    position: {
+                      collision: "none",
+                    }
+                  }
+                );
+              }
+            });
+          }
+        }
+      });
+    }, 3000);
+  });
+</script>
