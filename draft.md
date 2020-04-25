@@ -35,7 +35,7 @@ Release Date: 2020-04-27
 
 + [Calculating lake outlets using R](https://fishandwhistle.net/post/2020/calculating-lake-outlets-using-r/)
 
-+ [Understanding sriking performance (with the ufc.stats package)])http://tamaszilagyi.com/ufc.stats//articles/2020-04-15-striking.html)
++ [Understanding sriking performance (with the ufc.stats package])http://tamaszilagyi.com/ufc.stats//articles/2020-04-15-striking.html)
 
 ### COVID19
 
