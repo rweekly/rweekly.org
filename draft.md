@@ -35,7 +35,7 @@ Release Date: 2020-04-27
 
 + [Calculating lake outlets using R](https://fishandwhistle.net/post/2020/calculating-lake-outlets-using-r/)
 
-+ [Understanding sriking performance (with the ufc.stats package])http://tamaszilagyi.com/ufc.stats//articles/2020-04-15-striking.html)
++ [Understanding sriking performance (with the ufc.stats package)]http://tamaszilagyi.com/ufc.stats//articles/2020-04-15-striking.html)
 
 ### COVID19
 
@@ -80,7 +80,7 @@ Release Date: 2020-04-27
 
 + [{minidrawio}: Create simple draw.io documents from R](https://github.com/coolbutuseless/minidrawio)
 
-+ [{devoutdrawio}]: R graphics device to output to draw.io XML vector format](https://github.com/coolbutuseless/devoutdrawio) and [an introductory post](https://coolbutuseless.github.io/2020/04/23/introducing-devoutdrawio-a-graphics-device-which-outputs-to-draw.io-format/)
++ [{devoutdrawio}: R graphics device to output to draw.io XML vector format](https://github.com/coolbutuseless/devoutdrawio) and [an introductory post](https://coolbutuseless.github.io/2020/04/23/introducing-devoutdrawio-a-graphics-device-which-outputs-to-draw.io-format/)
 
 
 + [{flair}: Decorate your R code](https://github.com/kbodwin/flair)
