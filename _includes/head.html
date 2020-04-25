@@ -21,6 +21,18 @@
 
     {% include podcast.css %}
 
+    .ui-tooltip {
+      width: 100%;
+      max-width: 500px;
+    }
+    .night .ui-tooltip, .night #preview-content {
+      background-color:rgb(38,38,38);
+      color: white;
+    }
+    .link-desc, #preview-content {
+      word-wrap: break-word;
+      white-space: break-spaces;
+    }
   </style>
   <!--/*include nprogress.css*/-->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/icons/apple-touch-icon.png">
