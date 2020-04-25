@@ -7,13 +7,12 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2020-04-27
 
+This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr), with help from the RWeekly team members and contributors.
+
 ###  Highlight
 
 
-
 ### Insights
-
-+ [R 4.0.0 is released](https://stat.ethz.ch/pipermail/r-announce/2020/000653.html)
 
 + [Automatic Code Cleaning in R with Rclean](https://ropensci.org/blog/2020/04/21/rclean/)
 
@@ -47,6 +46,8 @@ Release Date: 2020-04-27
 
 ###  R in Organizations
 
++ [R 4.0.0 is released](https://stat.ethz.ch/pipermail/r-announce/2020/000653.html)
+
 + [Announcing tidymodels.org](https://www.tidyverse.org/blog/2020/04/tidymodels-org/)
 
 + [The Case for tidymodels](https://rviews.rstudio.com/2020/04/21/the-case-for-tidymodels/)
@@ -72,33 +73,33 @@ Release Date: 2020-04-27
 
 **CRAN**
 
-+ [{fishualize} 0.2.0: Implementation of color palettes based on fish species](https://cran.r-project.org/web/packages/fishualize/index.html)
++ [{flair}: Decorate your R code](https://kbodwin.github.io/flair/index.html)
 
-**BioC**
-
-
+![flair](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/flair-example.PNG)
 
 **GitHub or Bitbucket**
 
 + [{dplyr-cli}: Manipulate CSV files on the command line using dplyr](https://coolbutuseless.github.io/2020/04/20/manipulate-csv-files-on-the-command-line-with-dplyr-cli/)
 
-+ [{minidrawio}: Create simple draw.io documents from R](https://github.com/coolbutuseless/minidrawio)
++ [{minidrawio}: Create simple draw.io documents from R](https://coolbutuseless.github.io/2020/04/22/introducing-minidrawio-create-simple-draw.io-documents-in-r/)
 
-+ [{devoutdrawio}: R graphics device to output to draw.io XML vector format](https://github.com/coolbutuseless/devoutdrawio) and [an introductory post](https://coolbutuseless.github.io/2020/04/23/introducing-devoutdrawio-a-graphics-device-which-outputs-to-draw.io-format/)
++ [{devoutdrawio}: R graphics device to output to draw.io XML vector format](https://coolbutuseless.github.io/2020/04/23/introducing-devoutdrawio-a-graphics-device-which-outputs-to-draw.io-format/)
 
 ![devoutdrawio](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/devoutdrawio-mikefc-1251473911361011712.jpg)
 
-+ [{flair}: Decorate your R code](https://github.com/kbodwin/flair)
-
-![flair](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/flair-example.PNG)
++ [{carbonace}: Convert ace editor to high resolution images to share](https://github.com/yonicd/carbonace)
 
 ### Updated Packages
+
++ [{DALEX} 1.2.1 (CRAN): moDel Agnostic Language for Exploration and eXplanation](https://cran.r-project.org/web/packages/DALEX/index.html)
+
++ [{pkgbuild} 1.0.7 (CRAN0: Find Tools Needed to Build R Packages](https://cran.r-project.org/web/packages/pkgbuild/index.html)
 
 + [{poorman} 0.1.11 (CRAN): A simple replication of key 'dplyr' verbs using only base R](https://cran.r-project.org/web/packages/poorman/index.html)
 
 + [{gratia} 0.3.2 (Github): ggplot-based graphics and useful functions for GAMs fitted using the mgcv package](https://github.com/gavinsimpson/gratia)
 
-+ [{dm} 0.1.1.9006 (Github): Tools for working with multiple related tables, stored as data frames or in a relational database](https://github.com/krlmlr/dm)
++ [{xml2} 1.3.2 (CRAN): Parse XML](https://cran.r-project.org/web/packages/xml2/index.html)
 
 ###  Videos and Podcasts
 
@@ -110,11 +111,15 @@ Release Date: 2020-04-27
 
 + Advanced R Book Club: [Chapter 3: Vectors (2020-04-16)](https://www.youtube.com/watch?v=pQ-xDAPEQaw), [Chapter 4: Subsetting (2020-04-23)](https://www.youtube.com/watch?v=eLMpCc0t1cg)
 
++ [Noam Ross: R, Coronavirus, and Pandemic Prevention](https://www.youtube.com/watch?v=5UXbfs5xIq0)
+
 ### Gist & Cookbook
 
 + GDPR Violations - Tidy Tuesday - 2020, Week 17 - [Antoine Bichat](https://github.com/abichat/tidytuesday/blob/master/scripts/script_2020-04-21.R), [Georgios Karamanis](https://github.com/gkaramanis/tidytuesday/tree/master/2020-week17), [John Mutiso](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2017/script.R)
 
 + [The City of Lights](https://github.com/khufkens/city_of_lights)
+
++ [Historical men's FIFA ranking R Shiny app](https://github.com/Dato-Futbol/fifa-ranking)
 
 ### R Internationally
 
@@ -148,7 +153,7 @@ Release Date: 2020-04-27
 
 + [How to showcase CSS+JS+HTML snippets with Hugo?](https://masalmon.eu/2020/04/21/css-snippet/)
 
-+ [Using tmux to work with multiple R sessions in VSCode](https://renkun.me/2020/04/14/writing-r-in-vscode-working-with-multiple-r-sessions/) - 4/19/2020
++ [Using tmux to work with multiple R sessions in VSCode](https://renkun.me/2020/04/14/writing-r-in-vscode-working-with-multiple-r-sessions/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
