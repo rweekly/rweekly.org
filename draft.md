@@ -31,11 +31,15 @@ Release Date: 2020-04-27
 
 + [Papers Please! 'Wide Open Spaces A statistical technique for measuring space creation in professional soccer' pt 1](https://www.robert-hickman.eu/post/fall_back_in_to_space/)
 
+![pitch-control](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/pitch-control.png)
+
 + [Use R & GitHub as a Workout planner](https://colinfay.me/r-git-workout-planner/)
 
 + [Calculating lake outlets using R](https://fishandwhistle.net/post/2020/calculating-lake-outlets-using-r/)
 
-+ [Understanding sriking performance (with the ufc.stats package)]http://tamaszilagyi.com/ufc.stats//articles/2020-04-15-striking.html)
++ [Understanding sriking performance (with the ufc.stats package)](http://tamaszilagyi.com/ufc.stats//articles/2020-04-15-striking.html)
+
+![ufc-stats-dumbell](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/ufc-stats-dumbell.png)
 
 ### COVID19
 
@@ -82,8 +86,11 @@ Release Date: 2020-04-27
 
 + [{devoutdrawio}: R graphics device to output to draw.io XML vector format](https://github.com/coolbutuseless/devoutdrawio) and [an introductory post](https://coolbutuseless.github.io/2020/04/23/introducing-devoutdrawio-a-graphics-device-which-outputs-to-draw.io-format/)
 
+![devoutdrawio](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/devoutdrawio-mikefc-1251473911361011712.jpg)
 
 + [{flair}: Decorate your R code](https://github.com/kbodwin/flair)
+
+![flair](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/flair-example.PNG)
 
 ### Updated Packages
 
@@ -124,6 +131,8 @@ Release Date: 2020-04-27
 + [Modeling #TidyTuesday GDPR violations with tidymodels](https://juliasilge.com/blog/gdpr-violations/)
 
 + [Pathtracing Neon Landscapes in R](https://www.tylermw.com/pathtracing-neon-landscapes-in-r/)
+
+![pathtracing-neon-landscapes](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/pathtracing-neon-landscapes.png)
 
 + [How to Run Python's Scikit-Learn in R in 5 minutes](https://www.business-science.io/learn-r/2020/04/20/setup-python-in-r-with-rmarkdown.html)
 
