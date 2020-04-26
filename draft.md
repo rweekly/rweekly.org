@@ -14,7 +14,11 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ### Insights
 
-+ [Automatic Code Cleaning in R with Rclean](https://ropensci.org/blog/2020/04/21/rclean/)
++ [R 4.0.0 is released](https://stat.ethz.ch/pipermail/r-announce/2020/000653.html)
+
++ [Announcing tidymodels.org](https://www.tidyverse.org/blog/2020/04/tidymodels-org/)
+
++ [The Case for tidymodels](https://rviews.rstudio.com/2020/04/21/the-case-for-tidymodels/)
 
 + [A case against pipes in R and what to do instead](http://www.seascapemodels.org/rstats/2020/04/21/a-case-against-pipes.html)
 
@@ -32,6 +36,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ![pitch-control](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/pitch-control.png)
 
++ [An Introduction to Modelling Soccer Matches in R (part 2)](https://www.robert-hickman.eu/post/dixon_coles_2/)
+
 + [Use R & GitHub as a Workout planner](https://colinfay.me/r-git-workout-planner/)
 
 + [Calculating lake outlets using R](https://fishandwhistle.net/post/2020/calculating-lake-outlets-using-r/)
@@ -44,16 +50,9 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [COVID-19: Analyze Mobility Trends with R](https://blog.ephorie.de/covid-19-analyze-mobility-trends-with-r)
 
-###  R in Organizations
++ [Apple's COVID Mobility Data](https://kieranhealy.org/blog/archives/2020/04/23/apples-covid-mobility-data/)
 
-+ [R 4.0.0 is released](https://stat.ethz.ch/pipermail/r-announce/2020/000653.html)
-
-+ [Announcing tidymodels.org](https://www.tidyverse.org/blog/2020/04/tidymodels-org/)
-
-+ [The Case for tidymodels](https://rviews.rstudio.com/2020/04/21/the-case-for-tidymodels/)
-
-+ [Miscellaneous Wisdom about R Markdown & Hugo Gained from Work on our Website](https://ropensci.org/technotes/2020/04/23/rmd-learnings/)
-
+![apple-covid-mobility](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/apple-covid-mobility.png)
 
 ###  R in Academia
 
@@ -133,15 +132,20 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ###  Tutorials
 
++ [Miscellaneous Wisdom about R Markdown & Hugo Gained from Work on our Website](https://ropensci.org/technotes/2020/04/23/rmd-learnings/)
+
++ [Automatic Code Cleaning in R with Rclean](https://ropensci.org/blog/2020/04/21/rclean/)
+
 + [Modeling #TidyTuesday GDPR violations with tidymodels](https://juliasilge.com/blog/gdpr-violations/)
 
 + [Pathtracing Neon Landscapes in R](https://www.tylermw.com/pathtracing-neon-landscapes-in-r/)
 
 ![pathtracing-neon-landscapes](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/pathtracing-neon-landscapes.png)
 
++ [No excuse not to be a Bayesian anymore](https://www.brodrigues.co/blog/2020-04-20-no_excuse/)
+
 + [How to Run Python's Scikit-Learn in R in 5 minutes](https://www.business-science.io/learn-r/2020/04/20/setup-python-in-r-with-rmarkdown.html)
 
-+ [No excuse not to be a Bayesian anymore](https://www.brodrigues.co/blog/2020-04-20-no_excuse/)
 
 + [How to check if groceries are in stock and automatically buy them with R](http://theautomatic.net/2020/04/21/make-your-amazon-purchases-with-r/)
 
@@ -155,12 +159,13 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Using tmux to work with multiple R sessions in VSCode](https://renkun.me/2020/04/14/writing-r-in-vscode-working-with-multiple-r-sessions/)
 
++ [Riddler: Can You Solve The Chess Mystery?](https://joshuacook.netlify.app/post/riddler-chess-mystery/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS)
 
 ###  Upcoming Events in 3 Months
 
@@ -181,9 +186,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 + [Financial datasets provided by Marcelo S. Perlin](https://www.msperlin.com/blog/data/data/)
 
 ### Jobs
-
-
-
 
 ###  Call for Participation
 
