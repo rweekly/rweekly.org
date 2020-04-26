@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2020-17
+title: R Weekly 2020-17: R 4.0 release, {flair 0.0.2}
 description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
@@ -13,7 +13,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [R 4.0.0 is released](https://stat.ethz.ch/pipermail/r-announce/2020/000653.html)
 
-+ [{flair}: Decorate your R code](https://kbodwin.github.io/flair/index.html)
++ [{flair} 0.0.2 (CRAN): Decorate your R code](https://kbodwin.github.io/flair/index.html)
 
 ![flair](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/flair-example.PNG)
 
@@ -79,8 +79,6 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 **GitHub or Bitbucket**
 
-+ [{flair}: Decorate your R code](https://kbodwin.github.io/flair/index.html)
-
 + [{dplyr-cli}: Manipulate CSV files on the command line using dplyr](https://coolbutuseless.github.io/2020/04/20/manipulate-csv-files-on-the-command-line-with-dplyr-cli/)
 
 + [{minidrawio}: Create simple draw.io documents from R](https://coolbutuseless.github.io/2020/04/22/introducing-minidrawio-create-simple-draw.io-documents-in-r/)
@@ -92,6 +90,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 + [{carbonace}: Convert ace editor to high resolution images to share](https://github.com/yonicd/carbonace)
 
 ### Updated Packages
+
++ [{flair} 0.0.2 (CRAN): Decorate your R code](https://kbodwin.github.io/flair/index.html)
 
 + [{DALEX} 1.2.1 (CRAN): moDel Agnostic Language for Exploration and eXplanation](https://cran.r-project.org/web/packages/DALEX/index.html)
 
