@@ -56,17 +56,18 @@
   <meta name="twitter:description" content="{{ page.description }}" /> {% endif %}
   <meta name="twitter:image" content="https://rweekly.org/public/logo.png" />
   <script>
+var _paq = _paq || [];
 function show_btn_more(a){
     console.log("over");
     console.log(a);
     a.parentElement.previousElementSibling.classList.add("show-post-more");
     a.classList.add('btn-hovered');
-    _paq.push(['trackEvent', 'read-more', 1]);
+    // _paq.push(['trackEvent', 'read-more', 1]);
 }
 
 function pas(a){
   console.log(a.parentNode.innerText);
-  _paq.push(['trackEvent', 'goto-patreon', a.parentNode.innerText]);
+  // _paq.push(['trackEvent', 'goto-patreon', a.parentNode.innerText]);
 }
 var allptext = [
   '<a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">Enjoy R Weekly! Support us with Patreon! 💞</a>',
@@ -110,7 +111,7 @@ function gen_read_more_btn(){
                 pelt.innerHTML = '<button class="pure-button post-more-btn" onmouseover="show_btn_more(this)">More</button>';
                 var more_end = all_end[jj];
                 more_end.parentNode.insertBefore(pelt, more_end.nextSibling);
-                _paq.push(['trackEvent', 'setup-more', 1]);
+                // _paq.push(['trackEvent', 'setup-more', 1]);
                 // create range
                 var range = document.createRange();
                 range.setStartBefore(all_start[jj]);
@@ -212,7 +213,7 @@ function gen_read_more_btn(){
                 a_g_clone.addEventListener("click",function(e){
                   e.preventDefault();
                   if(!localStorage.getItem("like-"+ this.getAttribute("id-href"))){
-                    _paq.push(['trackEvent', 'Like', this.getAttribute("id-href"), this.getAttribute("id-text")]);
+                    // _paq.push(['trackEvent', 'Like', this.getAttribute("id-href"), this.getAttribute("id-text")]);
 
                     var now_date = new Date();
 
@@ -242,7 +243,8 @@ function gen_read_more_btn(){
 
     setInterval(add_external_links, 1000);
   </script>
-  <script type="text/javascript">
+
+  <!-- <script type="text/javascript">
     var _paq = _paq || [];
     _paq.push(['setCustomVariable', 1, "Night", localStorage.getItem('night'), "page"]);
     _paq.push(['setCustomVariable', 2, "Origin", localStorage.getItem('origin'), "page"]);
@@ -272,7 +274,8 @@ function gen_read_more_btn(){
   </script>
   <noscript>
     <p><img src="//web.rweekly.org/js/index.php?idsite=1" style="border:0;" alt="" /></p>
-  </noscript>
+  </noscript> -->
+
   <!--DNS Prefetch-->
   <link rel="dns-prefetch" href="//www.rstudio.com">
   <link rel="dns-prefetch" href="//github.com">
@@ -284,11 +287,11 @@ function gen_read_more_btn(){
       if (localStorage.getItem('night') === 'true') {
         localStorage.setItem('night', 'false');
         document.body.classList.remove('night');
-        _paq.push(['trackEvent', 'set-nightmode', 'false']);
+        // _paq.push(['trackEvent', 'set-nightmode', 'false']);
       } else {
         localStorage.setItem('night', 'true');
         document.body.classList.add('night');
-        _paq.push(['trackEvent', 'set-nightmode', 'true']);
+        // _paq.push(['trackEvent', 'set-nightmode', 'true']);
       }
     }
     document.addEventListener("DOMContentLoaded",function(){
@@ -311,7 +314,7 @@ function gen_read_more_btn(){
 
       if (localStorage.getItem("feature-support") === 'false'){
           document.body.classList.add('no-support-rweekly');
-          _paq.push(['trackEvent', 'no-support-rweekly', true]);
+          // _paq.push(['trackEvent', 'no-support-rweekly', true]);
       }
       try{
           var xlanguage = window.navigator.userLanguage || window.navigator.language;

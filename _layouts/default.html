@@ -8,11 +8,11 @@
     <div id="toc"></div>
     <!--/.well -->
 
-    <div id="podcast" class="podcast">
+    <!-- <div id="podcast" class="podcast">
       <div class="podcast-title"><strong>RWeekly Podcast</strong></div>
       <iframe id="ytplayer" type="text/html" class="podcast-player"
       src="https://www.youtube.com/embed/videoseries?list=PLGxFMt5POda38NafNl6GR3ydh-WXjPV3k&showinfo=0"></iframe>
-    </div>
+    </div> -->
 
   {% include github-corner.html %}
 
@@ -52,23 +52,23 @@
     <script>
     {% include readable-number.js %}
 
-    page_view = document.getElementById("page_view");
-    var xhr = new XMLHttpRequest();
-    xhr.open("GET","https://page.rweekly.org/?page="+document.location.host + document.location.pathname);
-    if (page_view){
-      xhr.onreadystatechange = function() {
-        if (xhr.readyState == 4 && xhr.status == 200) {
-            var ns = new NumberStrings();
-            var myArr = JSON.parse(xhr.responseText);
-            if (myArr.hit < 1000){
-              page_view.innerHTML = myArr.hit + " views" ;
-            } else {
-              page_view.innerHTML = ns.getDecimal(myArr.hit).toFixed(2) + " " + ns.getName(myArr.hit) + " views" ;
-            }
-        }
-      };
-    }
-    xhr.send();
+    // page_view = document.getElementById("page_view");
+    // var xhr = new XMLHttpRequest();
+    // xhr.open("GET","https://page.rweekly.org/?page="+document.location.host + document.location.pathname);
+    // if (page_view){
+    //   xhr.onreadystatechange = function() {
+    //     if (xhr.readyState == 4 && xhr.status == 200) {
+    //         var ns = new NumberStrings();
+    //         var myArr = JSON.parse(xhr.responseText);
+    //         if (myArr.hit < 1000){
+    //           page_view.innerHTML = myArr.hit + " views" ;
+    //         } else {
+    //           page_view.innerHTML = ns.getDecimal(myArr.hit).toFixed(2) + " " + ns.getName(myArr.hit) + " views" ;
+    //         }
+    //     }
+    //   };
+    // }
+    // xhr.send();
 
     var anchorForId = function (id) {
       var anchor = document.createElement("a");
