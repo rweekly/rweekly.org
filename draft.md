@@ -11,6 +11,11 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ###  Highlight
 
++ [R 4.0.0 is released](https://stat.ethz.ch/pipermail/r-announce/2020/000653.html)
+
++ [{flair}: Decorate your R code](https://kbodwin.github.io/flair/index.html)
+
+![flair](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/flair-example.PNG)
 
 ### Insights
 
@@ -72,11 +77,9 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 **CRAN**
 
-+ [{flair}: Decorate your R code](https://kbodwin.github.io/flair/index.html)
-
-![flair](https://raw.githubusercontent.com/rweekly/image/master/2020-04-27/flair-example.PNG)
-
 **GitHub or Bitbucket**
+
++ [{flair}: Decorate your R code](https://kbodwin.github.io/flair/index.html)
 
 + [{dplyr-cli}: Manipulate CSV files on the command line using dplyr](https://coolbutuseless.github.io/2020/04/20/manipulate-csv-files-on-the-command-line-with-dplyr-cli/)
 
@@ -92,7 +95,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [{DALEX} 1.2.1 (CRAN): moDel Agnostic Language for Exploration and eXplanation](https://cran.r-project.org/web/packages/DALEX/index.html)
 
-+ [{pkgbuild} 1.0.7 (CRAN0: Find Tools Needed to Build R Packages](https://cran.r-project.org/web/packages/pkgbuild/index.html)
++ [{pkgbuild} 1.0.7 (CRAN): Find Tools Needed to Build R Packages](https://cran.r-project.org/web/packages/pkgbuild/index.html)
 
 + [{poorman} 0.1.11 (CRAN): A simple replication of key 'dplyr' verbs using only base R](https://cran.r-project.org/web/packages/poorman/index.html)
 
