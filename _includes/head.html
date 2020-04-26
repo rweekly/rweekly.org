@@ -3,6 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="manifest" href="/manifest.json">
   <!-- <link rel="stylesheet" href="{{ site.baseurl }}/styles.css"> -->
+  {% include jquery.html %}
   <style type="text/css">
 
     {% include pure.min.css %}
@@ -29,7 +30,7 @@
       background-color:rgb(38,38,38);
       color: white;
     }
-    .link-desc, #preview-content {
+    .link-desc, #preview-content, .ui-dialog-content {
       word-wrap: break-word;
       white-space: break-spaces;
     }

@@ -2,20 +2,68 @@
 layout: default
 ---
 
-<article id='posts-content' class="post">
+<article id='posts-content' class="post post-detail-{{ page.id | replace: '/', '' }}">
   <h1 class="post-title">{{ page.title }}</h1>
   <p class="added-hostname"><time style="display: inline;margin-right: 15px;" datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
   {% include social-button.html %}
   </p>
-  
+
   <form class="filter-box">
   <input name="query" placeholder="type to filter" class="input-box title-filter">
   </form>
   {{ content }}
+
+  <div id="dialog-{{ page.id | replace: '/', '' }}" style="display:none;"></div>
+
+  <script class="inf-detail">
+    function onHostClick{{ page.id | replace: '/', '' | replace: '-', '_' }}(evt) {
+      console.log(evt.dataset.desc);
+      $("#dialog-{{ page.id | replace: '/', '' }}").text(evt.dataset.desc);
+      $("#dialog-{{ page.id | replace: '/', '' }}").dialog({
+        width: "80%",
+        maxWidth: 600,
+        maxHeight: 600,
+      });
+    }
+
+    setTimeout(function () {
+      $.ajax({
+        dataType: "json",
+        url: "https://live.rweekly.org/post-{{page.id | replace: '/', ''}}.json",
+        success: function (data) {
+          console.log(data);
+          if (typeof data === 'object') {
+            $(".post-detail-{{page.id | replace: '/', ''}} .added-hostname").each(function (index, elt) {
+              const href = $('a', elt).attr('href');
+              if (data[href]) {
+                $('.tooltiptext', elt).attr('data-desc', data[href]);
+                $('a', elt).attr('data-desc', data[href]);
+                $('.tooltiptext', elt).attr('onclick', "onHostClick{{ page.id | replace: '/', '' | replace: '-', '_' }}(this)");
+
+                $('a', elt).tooltip(
+                  {
+                    items: '[data-desc]',
+                    content: function () {
+                      var element = $(this);
+                      return '<div class="link-desc">' + element.attr("data-desc") + '</div>';
+                    },
+                    position: {
+                      collision: "none",
+                    }
+                  }
+                );
+              }
+            });
+          }
+        }
+      });
+    }, 1000);
+  </script>
+
   <!--<p><small id="page_view">&nbsp;</small></p>-->
   <div class="pagination">
   {% if page.previous.url %}
-  
+
   <a id="next-page" class="pagination-item older" href="{{ page.previous.url }}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>

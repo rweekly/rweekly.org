@@ -78,14 +78,14 @@ title: Home
 
 <div id="posts-content" class="posts">
   {% for post in paginator.posts %}
-  <article class="post">
+  <article class="post post-detail-{{ post.id | replace: '/', '' }}">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
 
-<p class="added-hostname"><time style="display: inline;margin-right: 15px;" datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time> 
+<p class="added-hostname"><time style="display: inline;margin-right: 15px;" datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 {% include social-button.html %}
 </p>
 
@@ -94,6 +94,54 @@ title: Home
     </form>
     {{ post.content }}
     <!--<p><small id="page_view">&nbsp;</small></p>-->
+    <div id="dialog-{{ post.id | replace: '/', '' }}" style="display:none;"></div>
+
+    <script class="inf-detail">
+      console.log("loading page {{ post.id | replace: '/', '' | replace: '-', '_' }}");
+
+      function onHostClick{{ post.id | replace: '/', '' | replace: '-', '_' }}(evt) {
+        console.log(evt.dataset.desc);
+        $("#dialog-{{ post.id | replace: '/', '' }}").text(evt.dataset.desc);
+        $("#dialog-{{ post.id | replace: '/', '' }}").dialog({
+          width: "80%",
+          maxWidth: 600,
+          maxHeight: 600,
+        });
+      }
+
+      setTimeout(function () {
+        $.ajax({
+          dataType: "json",
+          url: "https://live.rweekly.org/post-{{post.id | replace: '/', ''}}.json",
+          success: function (data) {
+            console.log(data);
+            if (typeof data === 'object') {
+              $(".post-detail-{{post.id | replace: '/', ''}} .added-hostname").each(function (index, elt) {
+                const href = $('a', elt).attr('href');
+                if (data[href]) {
+                  $('.tooltiptext', elt).attr('data-desc', data[href]);
+                  $('a', elt).attr('data-desc', data[href]);
+                  $('.tooltiptext', elt).attr('onclick', "onHostClick{{ post.id | replace: '/', '' | replace: '-', '_' }}(this)");
+
+                  $('a', elt).tooltip(
+                    {
+                      items: '[data-desc]',
+                      content: function () {
+                        var element = $(this);
+                        return '<div class="link-desc">' + element.attr("data-desc") + '</div>';
+                      },
+                      position: {
+                        collision: "none",
+                      }
+                    }
+                  );
+                }
+              });
+            }
+          }
+        });
+      }, 1000);
+    </script>
   </article>
   {% endfor %}
 
