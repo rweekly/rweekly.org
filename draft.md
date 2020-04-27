@@ -17,7 +17,10 @@ Release Date: 2020-00-00
 
 ### R in the Real World
 
-
+- [Analysing Twitter data with R: Part 1 - Collecting Twitter statuses related to a scientific conference
+](https://marionlouveaux.fr/blog/twitter-analysis-part1/)  
+- [Analysing Twitter data with R: Part 2 - Exploring user profiles and relationships](https://marionlouveaux.fr/blog/twitter-analysis-part2/)
+- [Analysing Twitter data with R: Part 3 - Exploring tweets content](https://marionlouveaux.fr/blog/2020-04-18_analysing-twitter-data-with-r-part3/)
 
 ###  R in Organizations
 
@@ -61,7 +64,9 @@ Release Date: 2020-00-00
 
 ### R Internationally
 
-
+- [(French) L’étude des consommations alimentaires INCA3 et le package inca3](https://thinkr.fr/etude-consommations-alimentaires-inca3-et-package/)
+- [(French) Tables of functions correspondance between SAS and R](https://thinkr.fr/sas2r-episode-2-operateurs-et-fonctions-de-base/)
+- [(French) Human Talks - Comment déployer une application R shiny en production](https://www.youtube.com/watch?v=v3wTCo5pvcQ&feature=youtu.be&t=3434)
 
 ###  Tutorials
 
