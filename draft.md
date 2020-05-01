@@ -75,15 +75,13 @@ Release Date: 2020-05-04
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [ggbump](https://github.com/davidsjoberg/ggbump)
++ [ggsmethods: an R package for Public Health Scotland](https://nhsrcommunity.com/blog/phsmethods-an-r-package-for-public-health-scotland/)
 
-+ [phsmethods: an R package for Public Health Scotland](https://nhsrcommunity.com/blog/phsmethods-an-r-package-for-public-health-scotland/)
-
-**+ [chessR](https://jaseziv.github.io/chessR/articles/using_chessR_package.html)
++ [chessR](https://jaseziv.github.io/chessR/articles/using_chessR_package.html)
 
 + [pika](https://github.com/mrc-ide/pika)
 
-CRAN**
+**CRAN**
 
 
 
@@ -119,7 +117,7 @@ CRAN**
 
 ### R Internationally
 
-+ [German blnguage blog post: How to create an R package in RStudio in 2 minutes. Covers RStudio projects, basic file structure of a package, the hello() function, and the help file for it.](https://statistik-dresden.de/archives/15972)
++ [Analysing Twitter data with R: Part 3 - Exploring tweets content](https://marionlouveaux.fr/blog/2020-04-18_analysing-twitter-data-with-r-part3/)
 
 ###  Tutorials
 
