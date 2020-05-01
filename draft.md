@@ -19,6 +19,7 @@ Release Date: 2020-05-04
 
 + [How sports scientists can use ggplot2 in R to make better visualisations](https://www.mitchhenderson.org/2020/04/how-sports-scientists-can-use-ggplot2-in-r-to-make-better-visualisations/)
 
++ [Benefits of a function-based diet (The {drake} post)](https://milesmcbain.xyz/the-drake-post/)
 
 ###  R in Organizations
 
