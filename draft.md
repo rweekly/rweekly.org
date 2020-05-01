@@ -79,7 +79,11 @@ Release Date: 2020-05-04
 
 + [phsmethods: an R package for Public Health Scotland](https://nhsrcommunity.com/blog/phsmethods-an-r-package-for-public-health-scotland/)
 
-**CRAN**
+**+ [chessR](https://jaseziv.github.io/chessR/articles/using_chessR_package.html)
+
++ [pika](https://github.com/mrc-ide/pika)
+
+CRAN**
 
 
 
