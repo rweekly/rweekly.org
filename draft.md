@@ -75,7 +75,7 @@ Release Date: 2020-05-04
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [ggsmethods: an R package for Public Health Scotland](https://nhsrcommunity.com/blog/phsmethods-an-r-package-for-public-health-scotland/)
++ [phsmethods: an R package for Public Health Scotland](https://nhsrcommunity.com/blog/phsmethods-an-r-package-for-public-health-scotland/)
 
 + [chessR](https://jaseziv.github.io/chessR/articles/using_chessR_package.html)
 
@@ -100,7 +100,7 @@ Release Date: 2020-05-04
 + [Bioconductor 3.11 Released](https://bioconductor.org/news/bioc_3_11_release/)
 
 
-+ [fishualize 0.2.0](https://nschiett.github.io/fishualize/index.html)
++[fishualize 0.2.0](https://nschiett.github.io/fishualize/index.html)
 
 + [ggplot_theme_Publication](https://github.com/koundy/ggplot_theme_Publication)
 
@@ -109,7 +109,9 @@ Release Date: 2020-05-04
 
 + [Automated Programmatic Website Screenshots in R with {webshot}](https://www.programmingwithr.com/automated-programmatic-website-screenshots-in-r-with-webshot-video-tutorial/)
 
-+ [Distributed Deep Learning with TensorFlow and R](https://www.youtube.com/watch?v=DQyLTlD1IBc&feature=youtu.be)##+ [NSSD 106 - Podcasts are a Process](http://nssdeviations.com/106-podcasts-are-a-process)
++ [Distributed Deep Learning with TensorFlow and R](https://www.youtube.com/watch?v=DQyLTlD1IBc&feature=youtu.be)
+
++ [NSSD 106 - Podcasts are a Process](http://nssdeviations.com/106-podcasts-are-a-process)
 
 # Gist & Cookbook
 
