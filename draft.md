@@ -99,7 +99,7 @@ Release Date: 2020-05-04
 
 ###  Tutorials
 
-
++ [Vignette: Simulating a minimal SPSS dataset from R](https://martinctc.github.io/blog/vignette-simulating-a-minimal-spss-dataset-from-r/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
