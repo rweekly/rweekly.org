@@ -93,7 +93,7 @@ Release Date: 2020-05-04
 
 ### Updated Packages
 
-+ [](shinyFeedback 0.2.0 CRAN Releasehttps://www.tychobra.com/posts/2020-04-28-shinyfeedback-0.2.0-on-cran/)
++ [shinyFeedback 0.2.0 CRAN](Releasehttps://www.tychobra.com/posts/2020-04-28-shinyfeedback-0.2.0-on-cran/)
 
 + [Bioconductor 3.11 Released](https://bioconductor.org/news/bioc_3_11_release/)
 
