@@ -119,9 +119,7 @@ CRAN**
 
 ### R Internationally
 
-+ [German blog post: How to document functions in your own R packages. Creating help files using roxygen2 and RStudio.](https://statistik-dresden.de/archives/16054)
-
-+ [German language blog post: How to create an R package in RStudio in 2 minutes. Covers RStudio projects, basic file structure of a package, the hello() function, and the help file for it.](https://statistik-dresden.de/archives/15972)
++ [German blnguage blog post: How to create an R package in RStudio in 2 minutes. Covers RStudio projects, basic file structure of a package, the hello() function, and the help file for it.](https://statistik-dresden.de/archives/15972)
 
 ###  Tutorials
 
