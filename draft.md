@@ -52,12 +52,32 @@ Release Date: 2020-05-04
 
 + [Three Useful Endpoints for Any Plumber API](https://unconj.ca/blog/three-useful-endpoints-for-any-plumber-api.html)
 
++ [Animations in the time of Coronavirus](https://heads0rtai1s.github.io/2020/04/30/animate-map-covid/)
+
++ [Dynamic display of data with animated plots](https://thenode.biologists.com/dynamic-display-of-data-with-animated-plots/research/)
+
++ [Shot Maps In R using StatsBomb Data](https://biscuitchaserfc.blogspot.com/2020/05/shot-maps-in-r-using-statsbomb-data.html)
+
++ [Citizen Statistician is back!](http://www.citizen-statistician.org/2020/05/citizen-statistician-is-back/)
+
++ [A package to download free Springer books during Covid-19 quarantine](https://www.statsandr.com/blog/a-package-to-download-free-springer-books-during-covid-19-quarantine/)
+
++ [Rendering your README with GitHub Actions](https://fromthebottomoftheheap.net/2020/04/30/rendering-your-readme-with-github-actions/)
+
++ [Statistical Rethinking: Week 2](https://david-salazar.github.io/2020/04/28/statistical-rethinking-week-2/)
+
++ [Analyzing the 2020 Democratic Presidential Debates - Part 2](https://mcnakhaee.com/post/2020-03-08-analayzing-the-2020-democratic-presidential-debates-part-2/)
+
++ [Z is for Additional Axes](http://www.deeplytrivial.com/2020/04/z-is-for-additional-axes.html)
+
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 + [ggbump](https://github.com/davidsjoberg/ggbump)
+
++ [phsmethods: an R package for Public Health Scotland](https://nhsrcommunity.com/blog/phsmethods-an-r-package-for-public-health-scotland/)
 
 **CRAN**
 
@@ -78,12 +98,14 @@ Release Date: 2020-05-04
 + [Bioconductor 3.11 Released](https://bioconductor.org/news/bioc_3_11_release/)
 
 
-#+ [fishualize 0.2.0](https://nschiett.github.io/fishualize/index.html)
++ [fishualize 0.2.0](https://nschiett.github.io/fishualize/index.html)
+
++ [ggplot_theme_Publication](https://github.com/koundy/ggplot_theme_Publication)
 
 
 ##  Videos and Podcasts
 
-
++ [Automated Programmatic Website Screenshots in R with {webshot}](https://www.programmingwithr.com/automated-programmatic-website-screenshots-in-r-with-webshot-video-tutorial/)
 
 + [Distributed Deep Learning with TensorFlow and R](https://www.youtube.com/watch?v=DQyLTlD1IBc&feature=youtu.be)##+ [NSSD 106 - Podcasts are a Process](http://nssdeviations.com/106-podcasts-are-a-process)
 
