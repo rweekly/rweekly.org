@@ -17,9 +17,13 @@ Release Date: 2020-05-04
 
 ### R in the Real World
 
++ [Shot Maps In R using StatsBomb Data](https://biscuitchaserfc.blogspot.com/2020/05/shot-maps-in-r-using-statsbomb-data.html)
+
 + [How sports scientists can use ggplot2 in R to make better visualisations](https://www.mitchhenderson.org/2020/04/how-sports-scientists-can-use-ggplot2-in-r-to-make-better-visualisations/)
 
 + [Benefits of a function-based diet (The {drake} post)](https://milesmcbain.xyz/the-drake-post/)
+
++ [Analyzing the 2020 Democratic Presidential Debates - Part 2](https://mcnakhaee.com/post/2020-03-08-analayzing-the-2020-democratic-presidential-debates-part-2/)
 
 ###  R in Organizations
 
@@ -27,14 +31,16 @@ Release Date: 2020-05-04
 
 ###  R in Academia
 
++ [Analysing Twitter data with R: Part 1](https://marionlouveaux.fr/blog/twitter-analysis-part1/), [Part 2](https://marionlouveaux.fr/blog/twitter-analysis-part2/), [Part 3](https://marionlouveaux.fr/blog/2020-04-18_analysing-twitter-data-with-r-part3/)
 
 
 ###  Resources
+
++ [What do the mtcars actually look like?](https://www.robertmylesmcdonnell.com/content/posts/mtcars/)
+
 + [lmSubsets: Exact variable-subset selection in linear regression](https://eeecon.uibk.ac.at/~zeileis/news/lmsubsets/)
 
 + [Visualising Multilevel Networks with graphlayouts](http://blog.schochastics.net/post/visualizing-multilevel-networks-with-graphlayouts/)
-
-+ [A Step-by-Step Guide to Making 3D Maps with Satellite Imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
 
 + [4 for 4.0.0 – Four Useful New Features in R 4.0.0](https://detroitdatalab.com/2020/04/28/4-for-4-0-0-four-useful-new-features-in-r-4-0-0/)
 
@@ -56,8 +62,6 @@ Release Date: 2020-05-04
 
 + [Dynamic display of data with animated plots](https://thenode.biologists.com/dynamic-display-of-data-with-animated-plots/research/)
 
-+ [Shot Maps In R using StatsBomb Data](https://biscuitchaserfc.blogspot.com/2020/05/shot-maps-in-r-using-statsbomb-data.html)
-
 + [Citizen Statistician is back!](http://www.citizen-statistician.org/2020/05/citizen-statistician-is-back/)
 
 + [A package to download free Springer books during Covid-19 quarantine](https://www.statsandr.com/blog/a-package-to-download-free-springer-books-during-covid-19-quarantine/)
@@ -66,10 +70,11 @@ Release Date: 2020-05-04
 
 + [Statistical Rethinking: Week 2](https://david-salazar.github.io/2020/04/28/statistical-rethinking-week-2/)
 
-+ [Analyzing the 2020 Democratic Presidential Debates - Part 2](https://mcnakhaee.com/post/2020-03-08-analayzing-the-2020-democratic-presidential-debates-part-2/)
-
 + [Z is for Additional Axes](http://www.deeplytrivial.com/2020/04/z-is-for-additional-axes.html)
 
++ [UTF-8 Support on Windows](https://developer.r-project.org/Blog/public/2020/05/02/utf-8-support-on-windows/)
+
++ [Riddler: Can You Flip Your Way To Freedom?](https://joshuacook.netlify.app/post/riddler-flip-to-freedom/)
 
 ###  New Packages
 
@@ -80,6 +85,8 @@ Release Date: 2020-05-04
 + [chessR](https://jaseziv.github.io/chessR/articles/using_chessR_package.html)
 
 + [pika](https://github.com/mrc-ide/pika)
+
++ [terrainmeshr](https://github.com/tylermorganwall/terrainmeshr)
 
 **CRAN**
 
@@ -99,8 +106,7 @@ Release Date: 2020-05-04
 
 + [Bioconductor 3.11 Released](https://bioconductor.org/news/bioc_3_11_release/)
 
-
-+[fishualize 0.2.0](https://nschiett.github.io/fishualize/index.html)
++ [fishualize 0.2.0](https://nschiett.github.io/fishualize/index.html)
 
 + [ggplot_theme_Publication](https://github.com/koundy/ggplot_theme_Publication)
 
@@ -113,19 +119,18 @@ Release Date: 2020-05-04
 
 + [NSSD 106 - Podcasts are a Process](http://nssdeviations.com/106-podcasts-are-a-process)
 
-# Gist & Cookbook
-
-
 
 ### R Internationally
-
-+ [Analysing Twitter data with R: Part 3 - Exploring tweets content](https://marionlouveaux.fr/blog/2020-04-18_analysing-twitter-data-with-r-part3/)
 
 ###  Tutorials
 
 + [Vignette: Simulating a minimal SPSS dataset from R](https://martinctc.github.io/blog/vignette-simulating-a-minimal-spss-dataset-from-r/)
 
-<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
++ [A Step-by-Step Guide to Making 3D Maps with Satellite Imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
+
+<!+ [Make A Shortcut for Anything in RStudio with shtrcts](https://www.garrickadenbuie.com/blog/shrtcts/)
+
+--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
