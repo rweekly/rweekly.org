@@ -9,11 +9,11 @@ Release Date: 2020-05-04
 
 ###  Highlight
 
++ [A Step-by-Step Guide to Making 3D Maps with Satellite Imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
 
++ [Benefits of a function-based diet (The {drake} post)](https://milesmcbain.xyz/the-drake-post/)
 
-### Insights
-
-
++ [dplyr 1.0.0 for package developers](https://www.tidyverse.org/blog/2020/04/dplyr-1-0-0-package-dev/)
 
 ### R in the Real World
 
@@ -21,13 +21,11 @@ Release Date: 2020-05-04
 
 + [How sports scientists can use ggplot2 in R to make better visualisations](https://www.mitchhenderson.org/2020/04/how-sports-scientists-can-use-ggplot2-in-r-to-make-better-visualisations/)
 
-+ [Benefits of a function-based diet (The {drake} post)](https://milesmcbain.xyz/the-drake-post/)
-
 + [Analyzing the 2020 Democratic Presidential Debates - Part 2](https://mcnakhaee.com/post/2020-03-08-analayzing-the-2020-democratic-presidential-debates-part-2/)
 
 ###  R in Organizations
 
-
++ [Benefits of a function-based diet (The {drake} post)](https://milesmcbain.xyz/the-drake-post/)
 
 ###  R in Academia
 
@@ -36,11 +34,11 @@ Release Date: 2020-05-04
 
 ###  Resources
 
++ [Statistics Sunday: My 2019 Reading](http://www.deeplytrivial.com/2020/05/statistics-sunday-my-2019-reading.html?fbclid=IwAR07E1FpA-YkpTKdhBshRvnADwICMBoyuo6s4AGq8S96xD8V6f_rFjC8MfM)
+
+![mtcars](https://raw.githubusercontent.com/rweekly/image/master/2020-05-04/mtcars_plot2.png)
+
 + [What do the mtcars actually look like?](https://www.robertmylesmcdonnell.com/content/posts/mtcars/)
-
-+ [lmSubsets: Exact variable-subset selection in linear regression](https://eeecon.uibk.ac.at/~zeileis/news/lmsubsets/)
-
-+ [Visualising Multilevel Networks with graphlayouts](http://blog.schochastics.net/post/visualizing-multilevel-networks-with-graphlayouts/)
 
 + [4 for 4.0.0 – Four Useful New Features in R 4.0.0](https://detroitdatalab.com/2020/04/28/4-for-4-0-0-four-useful-new-features-in-r-4-0-0/)
 
@@ -60,21 +58,23 @@ Release Date: 2020-05-04
 
 + [Animations in the time of Coronavirus](https://heads0rtai1s.github.io/2020/04/30/animate-map-covid/)
 
-+ [Dynamic display of data with animated plots](https://thenode.biologists.com/dynamic-display-of-data-with-animated-plots/research/)
-
 + [Citizen Statistician is back!](http://www.citizen-statistician.org/2020/05/citizen-statistician-is-back/)
 
 + [A package to download free Springer books during Covid-19 quarantine](https://www.statsandr.com/blog/a-package-to-download-free-springer-books-during-covid-19-quarantine/)
 
-+ [Rendering your README with GitHub Actions](https://fromthebottomoftheheap.net/2020/04/30/rendering-your-readme-with-github-actions/)
-
 + [Statistical Rethinking: Week 2](https://david-salazar.github.io/2020/04/28/statistical-rethinking-week-2/)
+
+![linear regression](https://raw.githubusercontent.com/rweekly/image/master/2020-05-04/lm_plot3_scaled.png)
+
++ [lmSubsets: Exact variable-subset selection in linear regression](https://eeecon.uibk.ac.at/~zeileis/news/lmsubsets/)
 
 + [Z is for Additional Axes](http://www.deeplytrivial.com/2020/04/z-is-for-additional-axes.html)
 
 + [UTF-8 Support on Windows](https://developer.r-project.org/Blog/public/2020/05/02/utf-8-support-on-windows/)
 
 + [Riddler: Can You Flip Your Way To Freedom?](https://joshuacook.netlify.app/post/riddler-flip-to-freedom/)
+
++ [Le Monde puzzle #1141](https://xianblog.wordpress.com/2020/05/04/le-monde-puzzle-1141/?fbclid=IwAR2ButdBJGjV4GEKDc1suKe1Zvi40Xj-Qq4DHejZUTQyNdChCk3A21UJIMk)
 
 ###  New Packages
 
@@ -90,28 +90,27 @@ Release Date: 2020-05-04
 
 **CRAN**
 
-
-
 **BioC**
 
-
++ [Bioconductor 3.11 Released](https://bioconductor.org/news/bioc_3_11_release/)
 
 **GitHub or Bitbucket**
-
 
 
 ### Updated Packages
 
 + [shinyFeedback 0.2.0 CRAN](Releasehttps://www.tychobra.com/posts/2020-04-28-shinyfeedback-0.2.0-on-cran/)
 
-+ [Bioconductor 3.11 Released](https://bioconductor.org/news/bioc_3_11_release/)
-
 + [fishualize 0.2.0](https://nschiett.github.io/fishualize/index.html)
 
 + [ggplot_theme_Publication](https://github.com/koundy/ggplot_theme_Publication)
 
++ [Revitalizing R package yorkr](https://gigadom.in/2020/05/03/revitalizing-r-package-yorkr/?fbclid=IwAR2lbw0NAacBFYkR7y6KUqGwAaNOzpHH9hl_D1xcyEqZn_XVcdhHO05D52w)
+
 
 ##  Videos and Podcasts
+
++ [#0: Introducing T^4: Tips, Tricks, Tools, and Toys](http://dirk.eddelbuettel.com/blog/)
 
 + [Automated Programmatic Website Screenshots in R with {webshot}](https://www.programmingwithr.com/automated-programmatic-website-screenshots-in-r-with-webshot-video-tutorial/)
 
@@ -120,11 +119,20 @@ Release Date: 2020-05-04
 + [NSSD 106 - Podcasts are a Process](http://nssdeviations.com/106-podcasts-are-a-process)
 
 
-### R Internationally
-
 ###  Tutorials
 
++ [Rendering your README with GitHub Actions](https://fromthebottomoftheheap.net/2020/04/30/rendering-your-readme-with-github-actions/)
+
++ [Dynamic display of data with animated plots](https://thenode.biologists.com/dynamic-display-of-data-with-animated-plots/research/)
+
++ [Visualising Multilevel Networks with graphlayouts](http://blog.schochastics.net/post/visualizing-multilevel-networks-with-graphlayouts/)
+
++ [Installation of R 4.0 on Ubuntu 20.04 LTS and tips for spatial packages](https://rtask.thinkr.fr/installation-of-r-4-0-on-ubuntu-20-04-lts-and-tips-for-spatial-packages/?fbclid=IwAR1I1ffWPDdAIRUafc-FZD6OBlRmWmTPckkP9zq5MgTeZGz-V0WVkt-1Tkc)
+
 + [Vignette: Simulating a minimal SPSS dataset from R](https://martinctc.github.io/blog/vignette-simulating-a-minimal-spss-dataset-from-r/)
+
+
+!rayshader](https://raw.githubusercontent.com/rweekly/image/master/2020-05-04/rayshader_plot1_scaled.png)
 
 + [A Step-by-Step Guide to Making 3D Maps with Satellite Imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
 
@@ -141,6 +149,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [May 23rd, 85th (Virtual/Online) TokyoR Meetup](https://tokyor.connpass.com/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -148,16 +157,6 @@ Events in 3 Months:
 
 
 More past events at [R conferences & meetups](https://conf.rweekly.org).
-
-
-### Datasets
-
-### Jobs
-
-
-
-
-###  Call for Participation
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
