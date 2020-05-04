@@ -28,7 +28,7 @@ Release Date: 2020-00-00
 
 
 ###  Resources
-
++ [Introducing squashinformr: Scrape SquashInfo for data on the Professional Squash Association World Tour and other squash tournaments](https://needleinthehay.ca/introducing-squashinformr/)
 
 
 ###  New Packages
@@ -36,6 +36,7 @@ Release Date: 2020-00-00
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
++ [squashinformr](https://github.com/HaydenMacDonald/squashinformr)
 
 
 
