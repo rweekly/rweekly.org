@@ -29,7 +29,7 @@ Release Date: 2020-00-00
 
 ###  Resources
 
-
+- [Survival Analysis in R](https://www.geeksforgeeks.org/survival-analysis-in-r/)
 
 ###  New Packages
 
