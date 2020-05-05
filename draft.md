@@ -37,6 +37,9 @@ Release Date: 2020-00-00
 
 **CRAN**
 
++ [{textplot}: Text Plots](https://CRAN.R-project.org/package=textplot)
+
+- ![](https://user-images.githubusercontent.com/1710810/80954815-64c40900-8dfe-11ea-849f-ef8569609929.gif) 
 
 
 **BioC**
