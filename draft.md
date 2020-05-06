@@ -9,6 +9,9 @@ Release Date: 2020-00-00
 
 ###  Highlight
 
+[!R logos representing standard and non-standard evaluation](https://www.brodieg.com/post/2020-02-13-on-nse_files/images/two-small.jpg)
+
++ [Standard and Non Standard Evaluation](https://www.brodieg.com/2020/05/05/on-nse/) - An attempt at demystifying R's evaluation mechanics.
 
 
 ### Insights
