@@ -36,7 +36,11 @@ Release Date: 2020-00-00
 
 
 ###  Resources
+
++ [Survival Analysis in R](https://www.geeksforgeeks.org/survival-analysis-in-r/)
+
 + [Introducing squashinformr: Scrape SquashInfo for data on the Professional Squash Association World Tour and other squash tournaments](https://needleinthehay.ca/introducing-squashinformr/)
+
 
 
 ###  New Packages
@@ -159,5 +163,4 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">More <a href="https://twitter.com/hashtag/mathsart?src=hash&amp;ref_src=twsrc%5Etfw">#mathsart</a> I&#39;ve done whilst playing around with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> programming language <a href="https://t.co/FgZbCvOdXf">pic.twitter.com/FgZbCvOdXf</a></p>&mdash; Ravi Subramanian (@RaviSubbie) <a href="https://twitter.com/RaviSubbie/status/1258675324856012805?ref_src=twsrc%5Etfw">May 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
