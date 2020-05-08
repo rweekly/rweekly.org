@@ -61,13 +61,15 @@ Release Date: 2020-00-00
 
 + [{minifyr} - Wrapper around node-minify NodeJS module](https://github.com/ColinFay/minifyr)
 
++ [Introducing 'arcadefont' - an oldschool arcade vector font (Happy Star Wars Day)](https://coolbutuseless.github.io/2020/05/04/introducing-arcadefont-an-oldschool-arcade-vector-font-happy-star-wars-day/)
+
 ### Updated Packages
 
 + [dplyr 1.0.0: last minute additions](https://www.tidyverse.org/blog/2020/05/dplyr-1-0-0-last-minute-additions/)
 
 ###  Videos and Podcasts
 
-
++ [Sentiment analysis with tidymodels and #TidyTuesday Animal Crossing reviews](https://juliasilge.com/blog/animal-crossing/)
 
 ### Gist & Cookbook
 
@@ -122,7 +124,9 @@ Events in 3 Months:
 
 + [Join the 'BiocCheck-a-thon' May 18 - 22, 2020](https://github.com/Bioconductor/BiocCheck/wiki)
 
- + [e-Rum2020 - 17th-20th June 2020](https://2020.erum.io/)
++ [Rcpp Virtual Talk on June 5](http://dirk.eddelbuettel.com/blog/2020/05/07/#rcpp_announce_talk_20200605)
+
++ [e-Rum2020 - 17th-20th June 2020](https://2020.erum.io/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
