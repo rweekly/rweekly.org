@@ -25,6 +25,8 @@ Release Date: 2020-00-00
 
 + [Wrangling Unruly Data: The Bane of Every Data Science Team](https://blog.rstudio.com/2020/05/05/wrangling-unruly-data/)
 
++ [Satellite Image Analysis with fast.ai and PyTorch for Disaster Recovery](https://appsilon.com/satellite-image-analysis-with-fast-ai-for-disaster-recovery/)
+
 ###  R in Organizations
 
 
@@ -44,6 +46,8 @@ Release Date: 2020-00-00
 **CRAN**
 
 + [sparklyr 1.2: Foreach, Spark 3.0 and Databricks Connect](https://blog.rstudio.com/2020/05/06/sparklyr-1-2/)
+
++ [New CRAN release of shinyFeedback package](https://www.tychobra.com/posts/2020-04-28-shinyfeedback-0.2.0-on-cran/)
 
 **BioC**
 
@@ -90,6 +94,18 @@ Release Date: 2020-00-00
 + [Updating packages on a drat repo](https://alan-y.netlify.app/post/updating-packages-on-a-drat-repo/)
 
 + [Securing and monitoring ShinyProxy deployment of R Shiny apps](https://www.databentobox.com/2020/05/03/secure-shinyproxy/)
+
++ [Is it possible to build a functioning video game in R Shiny? Let's find out.](https://appsilon.com/is-it-possible-to-build-a-video-game-in-r-shiny/)
+
++ [COVID-19 Risk Heat Maps with Location Data, Apache Arrow, Markov Chain Modeling, and R Shiny](https://appsilon.com/covid-19-risk-heat-maps-with-location-data-apache-arrow-markov-chain-modeling-and-r-shiny/)
+
++ [Introduction to web scraping with R. A step-by-step tutorial on how to extract data from the web using Rvest and Rcrawler. ](https://www.scrapingbee.com/blog/web-scraping-r/)
+
++ [Auditable database storage with Shiny](https://www.tychobra.com/posts/2020-05-06-shiny-crud-auditable/)
+
++ [Guide to Making 3D Maps with Satellite Imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
+
++ [Using R to create and query SQLite databases large amounts of NFL data](https://themockup.netlify.app/posts/2019-04-28-nflfastr-dbplyr-rsqlite/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
