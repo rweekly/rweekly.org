@@ -46,7 +46,14 @@ Release Date: 2020-00-00
 **CRAN**
 + [squashinformr](https://github.com/HaydenMacDonald/squashinformr)
 
+
++ [{textplot}: Text Plots](https://CRAN.R-project.org/package=textplot)
+
+![](https://user-images.githubusercontent.com/1710810/80954815-64c40900-8dfe-11ea-849f-ef8569609929.gif) 
+
+
 + [sparklyr 1.2: Foreach, Spark 3.0 and Databricks Connect](https://blog.rstudio.com/2020/05/06/sparklyr-1-2/)
+
 
 + [New CRAN release of shinyFeedback package](https://www.tychobra.com/posts/2020-04-28-shinyfeedback-0.2.0-on-cran/)
 
@@ -150,8 +157,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">More <a href="https://twitter.com/hashtag/mathsart?src=hash&amp;ref_src=twsrc%5Etfw">#mathsart</a> I&#39;ve done whilst playing around with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> programming language <a href="https://t.co/FgZbCvOdXf">pic.twitter.com/FgZbCvOdXf</a></p>&mdash; Ravi Subramanian (@RaviSubbie) <a href="https://twitter.com/RaviSubbie/status/1258675324856012805?ref_src=twsrc%5Etfw">May 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
