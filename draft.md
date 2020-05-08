@@ -59,6 +59,8 @@ Release Date: 2020-00-00
 
 + [Fashion a pattern out of chaos.](https://github.com/daranzolin/barah)
 
++ [{minifyr} - Wrapper around node-minify NodeJS module](https://github.com/ColinFay/minifyr)
+
 ### Updated Packages
 
 + [dplyr 1.0.0: last minute additions](https://www.tidyverse.org/blog/2020/05/dplyr-1-0-0-last-minute-additions/)
