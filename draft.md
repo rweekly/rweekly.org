@@ -27,6 +27,12 @@ Release Date: 2020-00-00
 
 + [Satellite Image Analysis with fast.ai and PyTorch for Disaster Recovery](https://appsilon.com/satellite-image-analysis-with-fast-ai-for-disaster-recovery/)
 
++ [High latitude maps in R. Example with seal observations.](https://luisdva.github.io/rstats/seal-maps/)
+
+![]()
+
++ [Goals Added: The Art of the Wheel](https://www.americansocceranalysis.com/home/2020/5/5/the-art-of-the-wheel)
+
 ###  R in Organizations
 
 
@@ -58,8 +64,9 @@ Release Date: 2020-00-00
 
 + [sparklyr 1.2: Foreach, Spark 3.0 and Databricks Connect](https://blog.rstudio.com/2020/05/06/sparklyr-1-2/)
 
-
 + [New CRAN release of shinyFeedback package](https://www.tychobra.com/posts/2020-04-28-shinyfeedback-0.2.0-on-cran/)
+
++ [{kuniezu 0.1.0}: Data set on Japan's national geography. Provides tools for efficient processing and visualization of unique coordinate systems.](https://cran.r-project.org/package=kuniezu)
 
 **BioC**
 
@@ -74,6 +81,8 @@ Release Date: 2020-00-00
 + [{minifyr} - Wrapper around node-minify NodeJS module](https://github.com/ColinFay/minifyr)
 
 + [Introducing 'arcadefont' - an oldschool arcade vector font (Happy Star Wars Day)](https://coolbutuseless.github.io/2020/05/04/introducing-arcadefont-an-oldschool-arcade-vector-font-happy-star-wars-day/)
+
++ [{starbility 0.0.0.9000}: Create Coefficient Stability Plot Under Combinations of Controls](https://github.com/AakaashRao/starbility)
 
 ### Updated Packages
 
@@ -92,6 +101,10 @@ Release Date: 2020-00-00
 + [Rédiger avec bookdown : pourquoi ? comment ?](https://thinkr.fr/rediger-avec-bookdown-pourquoi-comment/)
 
 + [Prédire le nombre de morts, suite](https://freakonometrics.hypotheses.org/60913)
+
++ [{kuniezu}: 日本の国土地理を扱いやすくするRパッケージをCRANに登録しました](https://uribo.hatenablog.com/entry/2020/05/09/072135)
+
++ Lobby en el Senado [Parte 1: extracción de los registros de audiencias](https://rivaquiroga.cl/post/2020/05/scraping-audiencias-senado-parte-1/), [Parte 2: exploración de los registros de audiencias](https://rivaquiroga.cl/post/2020/05/scraping-audiencias-senado-parte-2/)
 
 ###  Tutorials
 
@@ -122,6 +135,10 @@ Release Date: 2020-00-00
 + [Guide to Making 3D Maps with Satellite Imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/)
 
 + [Using R to create and query SQLite databases large amounts of NFL data](https://themockup.netlify.app/posts/2019-04-28-nflfastr-dbplyr-rsqlite/)
+
++ [Flipping your Way to Freedom](https://skewedpositive.com/post/flipping-your-way-to-freedom/)
+
++ [Flipping tibbles for many models: Pivoting data from wide to long to run many models at once](https://themockup.netlify.app/posts/2020-05-01-tidy-long-models/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
