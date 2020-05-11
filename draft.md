@@ -68,6 +68,10 @@ Release Date: 2020-00-00
 
 + [{kuniezu 0.1.0}: Data set on Japan's national geography. Provides tools for efficient processing and visualization of unique coordinate systems.](https://cran.r-project.org/package=kuniezu)
 
++ [encryptedRmd: Encrypt Html Reports Using 'Libsodium'](https://CRAN.R-project.org/package=encryptedRmd)
+
++ [listcomp: List Comprehensions](https://CRAN.R-project.org/package=listcomp)
+
 **BioC**
 
 
