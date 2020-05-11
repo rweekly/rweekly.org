@@ -47,7 +47,7 @@ Release Date: 2020-00-00
 
 + [Introducing squashinformr: Scrape SquashInfo for data on the Professional Squash Association World Tour and other squash tournaments](https://needleinthehay.ca/introducing-squashinformr/)
 
-
++ [Debugging in R Programming](https://www.geeksforgeeks.org/debugging-in-r-programming/amp/)
 
 ###  New Packages
 
