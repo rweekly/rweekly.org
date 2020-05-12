@@ -53,7 +53,7 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
-
++ [Build automation in R with the {drake} package](https://www.youtube.com/watch?v=yNHwM3N8bAQ)
 
 ### Gist & Cookbook
 
@@ -65,7 +65,7 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
-
++ [Fetch API Results from the Browser and send them to Shiny](https://colinfay.me/api-from-client-shiny/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
