@@ -29,7 +29,7 @@ Release Date: 2020-00-00
 
 ###  Resources
 
-
++ [Debugging in R programming](https://www.geeksforgeeks.org/debugging-in-r-programming/)
 
 ###  New Packages
 
