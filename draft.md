@@ -91,7 +91,9 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [curlup 2020: 5 years of libcurl bindings for R](https://www.youtube.com/watch?v=jGv5pugYpN0)
 
-+ [#1 T^4: Adding Some Color to the Shell](http://dirk.eddelbuettel.com/blog/2020/05/10#001_shell_colors)### Gist & Cookbook
++ [T^4: Adding Some Color to the Shell](http://dirk.eddelbuettel.com/blog/2020/05/10#001_shell_colors)
+
+### Gist & Cookbook
 
 
 
