@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2020-00
+title: R Weekly 2020-20
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-00-00
+Release Date: 2020-05-18
 
 ###  Highlight
 
@@ -37,7 +37,7 @@ Release Date: 2020-00-00
 
 **CRAN**
 
-
++ [Creating a Package for U.S. School District Shapefiles](https://ivelasq.rbind.io/blog/leaid-shapefiles/)
 
 **BioC**
 
