@@ -43,6 +43,12 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Research compendia enable code review during peer review (slidedeck)](https://codecheck.org.uk/slides/2020-05_ReproHack.html#1)
 
++ [ggplot theme tester](https://github.com/martinctc/ggplot_theme_tester)
+
++ [ggplot2 Theme Elements Demonstration](https://henrywang.nl/ggplot2-theme-elements-demonstration/)
+
+![]()
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -50,6 +56,10 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 **CRAN**
 
 + [presser - Lightweight Web Server for Testing](https://r-lib.github.io/presser/)
+
++ [{airt 0.1.0}: Evaluation of Algorithm Collections Using Item Response Theory](https://cran.r-project.org/package=airt)
+
++ [{gfonts 0.1.1}: Offline Google Fonts for rmarkdown and shiny](https://cran.r-project.org/package=gfonts)
 
 **BioC**
 
@@ -64,6 +74,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 + [Introducing the 'defaultlist' package - R list objects with a user-defined default value.](https://coolbutuseless.github.io/2020/05/13/introducing-the-defaultlist-package-r-list-objects-with-a-user-defined-default-value./)
 
 + [Introducing the Pokedex package!](https://dev.to/daveparr/introducing-the-pokedex-package-5416)
+
++ [{epoxy}: String Interpolation for 'R Markdown' Documents ](https://github.com/gadenbuie/epoxy)
 
 ### Updated Packages
 
@@ -136,6 +148,16 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 + [RXSpreadsheet: a new library for editing spreadsheets with Shiny](http://r-posts.com/rxspreadsheet-a-new-library-for-editing-spreadsheets-with-shiny/)
 
 + [A look at when some probability distributions look normal "enough" for a statistical test.](https://data-and-the-world.onrender.com/posts/looking-normally-distributed/)
+
++ [Intro to {polite} Web Scraping of Soccer Data with R!](https://ryo-n7.github.io/2020-05-14-webscrape-soccer-data-with-R/)
+
++ [Building R 4+ for Windows with OpenBLAS](https://www.avrahamadler.com/2020/05/12/building-r-4-for-windows-with-openblas/)
+
++ [QB Salaries vs Playoff Appearances](https://themockup.blog/posts/2020-05-13-qb-salaries-vs-playoff-appearances/)
+
++ [Textrecipes series: lexicons](https://www.hvitfeldt.me/blog/textrecipes-series-lexicon/)
+
++ [Querying across files with Apache Drill](https://alistaire.rbind.io/blog/querying-across-files-with-apache-drill/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
