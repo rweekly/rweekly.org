@@ -7,6 +7,8 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2020-05-18
 
+This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_salmon), with help from the RWeekly team members and contributors.
+
 ###  Highlight
 
 
@@ -37,13 +39,14 @@ Release Date: 2020-05-18
 
 **CRAN**
 
-+ [Creating a Package for U.S. School District Shapefiles](https://ivelasq.rbind.io/blog/leaid-shapefiles/)
 
 **BioC**
 
 
 
 **GitHub or Bitbucket**
+
++ [Creating a Package for U.S. School District Shapefiles](https://ivelasq.rbind.io/blog/leaid-shapefiles/)
 
 + [New Package, Pinboardr](https://blog.rmhogervorst.nl/blog/2020/05/11/new-package-pinboardr/)
 
@@ -56,6 +59,8 @@ Release Date: 2020-05-18
 + [modelStudio and The Grammar of Interactive Explanatory Model Analysis](https://medium.com/@ModelOriented/modelstudio-and-the-grammar-of-interactive-explanatory-model-analysis-5d274ab2d822?source=rss-57dd112ef71e------2)
 
 + [{tidycovid19}: New data and documentation](https://joachim-gassen.github.io/2020/05/tidycovid19-new-data-and-doc/)
+
++ [The Covid19R Project](http://imachordata.com/2020/05/07/the-covid19r-project/)
 
 + [MODIStsp v. 1.4.0 is out !](https://lbusett.netlify.com/post/modistsp-v-1-4-0-is-out/)
 
@@ -71,7 +76,7 @@ Release Date: 2020-05-18
 
 ### R Internationally
 
-
++ [German blog post: How to document functions in your own R package using roxygen2. R Code, screenshots, examples included.](https://statistik-dresden.de/archives/16054)
 
 ###  Tutorials
 
@@ -94,6 +99,8 @@ Release Date: 2020-05-18
 + [One-proportion and goodness of fit test (in R and by hand)](https://www.statsandr.com/blog/one-proportion-and-goodness-of-fit-test-in-r-and-by-hand/)
 
 + [Create and deploy a Custom Vision predictive service in R with AzureVision](https://blog.revolutionanalytics.com/2020/05/azurevision.html)
+
++ [Making pretty tables with gt](https://hfshr.netlify.app/posts/2020-05-02-pretty-tables-with-gt/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
