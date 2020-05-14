@@ -37,6 +37,10 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Shiny app that takes a Twitter handle as input and generates tweets that mimic the speech patterns of that handle](https://github.com/serrat839/mRkov_shiny)
 
++ [Finding the essential R packages using the pagerank algorithm](https://blog.revolutionanalytics.com/2014/12/a-reproducible-r-example-finding-the-most-popular-packages-using-the-pagerank-algorithm.html)
+
++ [Materials for Dr Andrew Heiss' Data Visualization course](https://datavizm20.classes.andrewheiss.com/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -73,6 +77,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Summer school registration opened and bootnet version 1.4 on CRAN](http://psychonetrics.org/2020/05/13/bootnet-version-1-4/)
 
++ [googlesheets4 0.2.0](https://www.tidyverse.org/blog/2020/05/googlesheets4-0-2-0/)
+
 ###  Videos and Podcasts
 
 + [Reports to impress your boss! Rmarkdown magic - R-Ladies Oslo](https://www.youtube.com/watch), [slides](https://github.com/rladies/meetup-presentations_oslo)
@@ -80,6 +86,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 + [Multinomial classification with tidymodels and #TidyTuesday volcano eruptions](https://juliasilge.com/blog/multinomial-volcano-eruptions/)
 
 + [Build automation in R with the {drake} package](https://www.youtube.com/watch?v=yNHwM3N8bAQ)
+
++ [curlup 2020: 5 years of libcurl bindings for R](https://www.youtube.com/watch)
 
 + [#1 T^4: Adding Some Color to the Shell](http://dirk.eddelbuettel.com/blog/2020/05/10#001_shell_colors)### Gist & Cookbook
 
