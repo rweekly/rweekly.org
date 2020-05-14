@@ -7,7 +7,7 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2020-05-18
 
-This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_salmon), with help from the RWeekly team members and contributors.
+This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_salmon), with help from the R Weekly team members and contributors.
 
 ###  Highlight
 
@@ -31,7 +31,11 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 ###  Resources
 
++ [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/) **The old link is no longer safe to visit.**
+
 + [Debugging in R programming](https://www.geeksforgeeks.org/debugging-in-r-programming/)
+
++ [Shiny app that takes a Twitter handle as input and generates tweets that mimic the speech patterns of that handle](https://github.com/serrat839/mRkov_shiny)
 
 ###  New Packages
 
@@ -39,6 +43,7 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 **CRAN**
 
++ [presser - Lightweight Web Server for Testing](https://r-lib.github.io/presser/)
 
 **BioC**
 
