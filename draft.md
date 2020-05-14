@@ -23,7 +23,7 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 ###  R in Organizations
 
-
++ [Migrating from Trello to Airtable: Working with JSON Data in R](https://silvia.rbind.io/2020-05-12-trello-to-airtable/)
 
 ###  R in Academia
 
@@ -57,6 +57,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Introducing the 'defaultlist' package - R list objects with a user-defined default value.](https://coolbutuseless.github.io/2020/05/13/introducing-the-defaultlist-package-r-list-objects-with-a-user-defined-default-value./)
 
++ [Introducing the Pokedex package!](https://dev.to/daveparr/introducing-the-pokedex-package-5416)
+
 ### Updated Packages
 
 + [ttdo 0.0.5: Reflect tinytest update](http://dirk.eddelbuettel.com/blog/2020/05/09#ttdo_0.0.5)
@@ -73,7 +75,9 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 ###  Videos and Podcasts
 
-+ [Reports to impress your boss! Rmarkdown magic - R-Ladies Oslo](https://www.youtube.com/watch)
++ [Reports to impress your boss! Rmarkdown magic - R-Ladies Oslo](https://www.youtube.com/watch), [slides](https://github.com/rladies/meetup-presentations_oslo)
+
++ [Multinomial classification with tidymodels and #TidyTuesday volcano eruptions](https://juliasilge.com/blog/multinomial-volcano-eruptions/)
 
 + [Build automation in R with the {drake} package](https://www.youtube.com/watch?v=yNHwM3N8bAQ)
 
