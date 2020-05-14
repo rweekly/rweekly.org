@@ -41,6 +41,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Materials for Dr Andrew Heiss' Data Visualization course](https://datavizm20.classes.andrewheiss.com/)
 
++ [Research compendia enable code review during peer review (slidedeck)](https://codecheck.org.uk/slides/2020-05_ReproHack.html#1)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
