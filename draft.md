@@ -79,6 +79,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [googlesheets4 0.2.0](https://www.tidyverse.org/blog/2020/05/googlesheets4-0-2-0/)
 
++ [Announcing xaringanthemer v0.3.0!](https://www.garrickadenbuie.com/blog/xaringanthemer-v0-3-0/)
+
 ###  Videos and Podcasts
 
 + [Reports to impress your boss! Rmarkdown magic - R-Ladies Oslo](https://www.youtube.com/watch), [slides](https://github.com/rladies/meetup-presentations_oslo)
