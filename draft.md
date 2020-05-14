@@ -73,6 +73,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 ###  Videos and Podcasts
 
++ [Reports to impress your boss! Rmarkdown magic - R-Ladies Oslo](https://www.youtube.com/watch)
+
 + [Build automation in R with the {drake} package](https://www.youtube.com/watch?v=yNHwM3N8bAQ)
 
 + [#1 T^4: Adding Some Color to the Shell](http://dirk.eddelbuettel.com/blog/2020/05/10#001_shell_colors)### Gist & Cookbook
@@ -140,3 +142,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">R-Ladies Global now has a Youtube channel! 📽️<br><br>Thanks to <a href="https://twitter.com/DrMowinckels?ref_src=twsrc%5Etfw">@DrMowinckels</a> for her work!<a href="https://t.co/QtoueUa5aa">https://t.co/QtoueUa5aa</a><br><br>The channel will feature videos from R-Ladies events around the world, &amp; might even have some live streamed events!<br><br>Subscribe and have fun learning/watching!<a href="https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw">#RLadies</a> <a href="https://t.co/DNDOBFnd4P">pic.twitter.com/DNDOBFnd4P</a></p>&mdash; R-Ladies Global (@RLadiesGlobal) <a href="https://twitter.com/RLadiesGlobal/status/1260550793482174466?ref_src=twsrc%5Etfw">May 13, 2020</a></blockquote> 
