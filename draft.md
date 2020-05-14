@@ -25,7 +25,7 @@ Release Date: 2020-00-00
 
 ###  R in Academia
 
-
++ [Summative Online Exams with R/exams and OpenOLAT](http://www.R-exams.org/tutorials/openolat_exam/)
 
 ###  Resources
 
@@ -45,17 +45,27 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
++ [New Package, Pinboardr](https://blog.rmhogervorst.nl/blog/2020/05/11/new-package-pinboardr/)
 
++ [Introducing the 'defaultlist' package - R list objects with a user-defined default value.](https://coolbutuseless.github.io/2020/05/13/introducing-the-defaultlist-package-r-list-objects-with-a-user-defined-default-value./)
 
 ### Updated Packages
 
++ [ttdo 0.0.5: Reflect tinytest update](http://dirk.eddelbuettel.com/blog/2020/05/09#ttdo_0.0.5)
 
++ [modelStudio and The Grammar of Interactive Explanatory Model Analysis](https://medium.com/@ModelOriented/modelstudio-and-the-grammar-of-interactive-explanatory-model-analysis-5d274ab2d822?source=rss-57dd112ef71e------2)
+
++ [{tidycovid19}: New data and documentation](https://joachim-gassen.github.io/2020/05/tidycovid19-new-data-and-doc/)
+
++ [MODIStsp v. 1.4.0 is out !](https://lbusett.netlify.com/post/modistsp-v-1-4-0-is-out/)
+
++ [Summer school registration opened and bootnet version 1.4 on CRAN](http://psychonetrics.org/2020/05/13/bootnet-version-1-4/)
 
 ###  Videos and Podcasts
 
 + [Build automation in R with the {drake} package](https://www.youtube.com/watch?v=yNHwM3N8bAQ)
 
-### Gist & Cookbook
++ [#1 T^4: Adding Some Color to the Shell](http://dirk.eddelbuettel.com/blog/2020/05/10#001_shell_colors)### Gist & Cookbook
 
 
 
@@ -66,6 +76,24 @@ Release Date: 2020-00-00
 ###  Tutorials
 
 + [Fetch API Results from the Browser and send them to Shiny](https://colinfay.me/api-from-client-shiny/)
+
++ [yorkr rocks women's One Day International (ODI) and International T20!!](https://gigadom.in/2020/05/09/yorkr-rocks-womens-one-day-international-odi-and-international-t20/)
+
++ [Counting and Visualizing CRAN Downloads with packageRank (with Caveats!)](https://blog.r-hub.io/2020/05/11/packagerank-intro/)
+
++ [defaultlist - an R list with a default value - take 1](https://coolbutuseless.github.io/2020/05/11/defaultlist-an-r-list-with-a-default-value/), [take 2](https://coolbutuseless.github.io/2020/05/12/defaultlist-an-r-list-with-a-user-defined-default-value.-take-2/)
+
++ [A small gotcha when comparing lists using testthat](https://statisticaloddsandends.wordpress.com/2020/05/11/a-small-gotcha-when-comparing-lists-using-testthat/)
+
++ [How to schedule R scripts](http://theautomatic.net/2020/05/12/how-to-schedule-r-scripts/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-schedule-r-scripts)
+
++ [To stratify or not to stratify? It might not actually matter](https://www.rdatagen.net/post/to-stratify-or-not-to-stratify/)
+
++ [Say It Ain't So: using Weezer album cover colours in R](https://quantixed.org/2020/05/12/say-it-aint-so-using-weezer-album-cover-colours-in-r/)
+
++ [One-proportion and goodness of fit test (in R and by hand)](https://www.statsandr.com/blog/one-proportion-and-goodness-of-fit-test-in-r-and-by-hand/)
+
++ [Create and deploy a Custom Vision predictive service in R with AzureVision](https://blog.revolutionanalytics.com/2020/05/azurevision.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
