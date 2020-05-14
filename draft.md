@@ -19,7 +19,7 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 ### R in the Real World
 
-
++ [springerQuarantineBooksR: Download all books made available by Springer during the COVID-19 quarantine!](http://r-posts.com/springerquarantinebooksr-download-all-books-made-available-by-springer-during-the-covid-19-quarantine/)
 
 ###  R in Organizations
 
@@ -103,6 +103,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [German blog post: How to document functions in your own R package using roxygen2. R Code, screenshots, examples included.](https://statistik-dresden.de/archives/16054)
 
++ [Real-time estimation of the effective reproduction number of COVID-19 in Japan](https://github.com/contactmodel/COVID19-Japan-Reff)
+
 ###  Tutorials
 
 + [Fetch API Results from the Browser and send them to Shiny](https://colinfay.me/api-from-client-shiny/)
@@ -126,6 +128,14 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 + [Create and deploy a Custom Vision predictive service in R with AzureVision](https://blog.revolutionanalytics.com/2020/05/azurevision.html)
 
 + [Making pretty tables with gt](https://hfshr.netlify.app/posts/2020-05-02-pretty-tables-with-gt/)
+
++ [MultiNav: anomaly detection and interactive visualization with multivariate data.](http://r-posts.com/multinav-anomaly-detection-and-interactive-visualization-with-multivariate-data/)
+
++ [How to measure movies vocabulary and display results in nice tables using tidytext and gt packages. Movies text analysis. Part 2.](http://r-posts.com/how-to-measure-movies-vocabulary-and-display-results-in-nice-tables-using-tidytext-and-gt-packages-movies-text-analysis-part-2/)
+
++ [RXSpreadsheet: a new library for editing spreadsheets with Shiny](http://r-posts.com/rxspreadsheet-a-new-library-for-editing-spreadsheets-with-shiny/)
+
++ [A look at when some probability distributions look normal "enough" for a statistical test.](https://data-and-the-world.onrender.com/posts/looking-normally-distributed/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
