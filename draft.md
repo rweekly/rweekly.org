@@ -77,6 +77,10 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [{epoxy}: String Interpolation for 'R Markdown' Documents ](https://github.com/gadenbuie/epoxy)
 
++ [{spikemap} : Maps Made of Spikes](https://github.com/rCarto/spikemap)
+
+<img src = "https://raw.githubusercontent.com/rCarto/spikemap/master/img/spiky.png" width = "500px" align = "center">
+
 ### Updated Packages
 
 + [ttdo 0.0.5: Reflect tinytest update](http://dirk.eddelbuettel.com/blog/2020/05/09#ttdo_0.0.5)
