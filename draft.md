@@ -103,7 +103,7 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 ###  Videos and Podcasts
 
-+ [Reports to impress your boss! Rmarkdown magic - R-Ladies Oslo](https://www.youtube.com/watch), [slides](https://github.com/rladies/meetup-presentations_oslo)
++ [Reports to impress your boss! Rmarkdown magic - R-Ladies Oslo](https://www.youtube.com/watch?v=Xn5AmUf7gDQ), [slides](https://github.com/rladies/meetup-presentations_oslo)
 
 + [Multinomial classification with tidymodels and #TidyTuesday volcano eruptions](https://juliasilge.com/blog/multinomial-volcano-eruptions/)
 
