@@ -43,6 +43,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Shiny app that takes a Twitter handle as input and generates tweets that mimic the speech patterns of that handle](https://github.com/serrat839/mRkov_shiny)
 
+![Screenshot of a Shiny app that takes a Twitter handle as input and generates tweets that mimic the speech patterns of that handle](https://raw.githubusercontent.com/rweekly/image/master/2020-05-18/shinyapp.PNG)
+
 + [Finding the essential R packages using the pagerank algorithm](https://blog.revolutionanalytics.com/2014/12/a-reproducible-r-example-finding-the-most-popular-packages-using-the-pagerank-algorithm.html)
 
 + [Materials for Dr Andrew Heiss' Data Visualization course](https://datavizm20.classes.andrewheiss.com/)
@@ -81,7 +83,9 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [An R Package for Geneset Enrichment Workflows](https://github.com/montilab/hypeR)
 
-+ [{spikemap} : Maps Made of Spikes](https://github.com/rCarto/spikemap)
++ [spikemap : Maps Made of Spikes](https://github.com/rCarto/spikemap)
+
+![spikemap : Maps Made of Spikes](https://raw.githubusercontent.com/rweekly/image/master/2020-05-18/spiky.PNG)
 
 ### Updated Packages
 
@@ -100,6 +104,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 + [googlesheets4 0.2.0](https://www.tidyverse.org/blog/2020/05/googlesheets4-0-2-0/)
 
 + [Announcing xaringanthemer v0.3.0!](https://www.garrickadenbuie.com/blog/xaringanthemer-v0-3-0/)
+
+![xaringanthemer logo](https://raw.githubusercontent.com/rweekly/image/master/2020-05-18/xaringanthemerlogoo.png
 
 ###  Videos and Podcasts
 
