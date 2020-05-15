@@ -85,7 +85,7 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [spikemap : Maps Made of Spikes](https://github.com/rCarto/spikemap)
 
-![spikemap : Maps Made of Spikes](https://raw.githubusercontent.com/rweekly/image/master/2020-05-18/spiky.PNG)
+![spikemap : Maps Made of Spikes](https://raw.githubusercontent.com/rweekly/image/master/2020-05-18/spiky.png)
 
 ### Updated Packages
 
@@ -105,7 +105,7 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Announcing xaringanthemer v0.3.0!](https://www.garrickadenbuie.com/blog/xaringanthemer-v0-3-0/)
 
-![xaringanthemer logo](https://raw.githubusercontent.com/rweekly/image/master/2020-05-18/xaringanthemerlogoo.png
+![xaringanthemer logo](https://raw.githubusercontent.com/rweekly/image/master/2020-05-18/xaringanthemerlogoo.png)
 
 ###  Videos and Podcasts
 
@@ -185,6 +185,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 
 ###  Upcoming Events in 3 Months
+
++ [e-RUM, 17th-20th June](https://2020.erum.io/), [virtual conference](https://2020.erum.io/#erumgoesvirtual)
 
 Events in 3 Months:
 
