@@ -72,7 +72,11 @@ Talk with us on [Twitter](https://twitter.com/rweekly_org) or [Google Groups](ht
 
 Are you passionate about sharing content from the R community? After creating at least 10 pull requests, fill [https://docs.google.com/forms/d/e/1FAIpQLSet2Tq_mWWOVsKWxGOSoUg8DzCPlW2-nxIFOSkkRvlUFxQFLw/viewform) to join our team!
 
-Each weekly contains at most 3 highlight posts. When there are special events, eg. UseR!, we can have more highlight posts. Members of the R Weekly will vote for at most three posts on the R Weekly Slack channel every Saturday. If you do not want to recommend any post, you can skip the vote. There is a handy shiny widget rweekly/rweekly-highlights to generate poll for Slack.
+Responsabilities of editors
+
+* [Handle a release every few weeks](https://github.com/rweekly/rweekly.org/wiki/Release-Editor-FAQ). We agree on the schedule and swap weeks as needed.
+
+* Vote on the highlight on Saturdays, which can be skipped when you have no time or no opinion. Each release contains at most 3 highlight posts in general. Editors will vote for at most three posts on the R Weekly Slack channel every Saturday. If you do not want to recommend any post, you can skip the vote. 
 
 A member will receive a notice about his/her inactive status for two months in the organization. A member will leave R Weekly organization if the inactive status passes 75 days.
 
