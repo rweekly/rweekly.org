@@ -4,7 +4,7 @@
 
 R weekly provides weekly updates from the R community. You are welcome to contribute as long as you follow [our code of conduct](CODE_OF_CONDUCT.md) and [our contributing guide](CONTRIBUTING.md).
 
-## How to have (my) content featured in R Weekly?
+## How to have (my) content shared by R Weekly?
 
 We're all about spreading content about R, be it blog posts, tutorials, screencasts, slidedecks, etc. 
 Please help us!
