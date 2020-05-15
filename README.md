@@ -24,7 +24,7 @@ What rules are there?
 
 * We don't need a full content RSS feed since we'll only use links and titles. 
 
-### On off sharing
+### One off sharing
 
 **What?**
 
