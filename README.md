@@ -50,6 +50,16 @@ It's best to submit links between Monday and Friday, because we pick links for o
 The issue is frozen on Sundays.
 No time is indicated because it depends on the timezone & time availabilities of the volunteer editor in charge of the release.
 
+## Where does the content come from?
+
+For nitty-gritty details see [the process release editors follow](https://github.com/rweekly/rweekly.org/wiki/Release-Editor-FAQ).
+
+* From RSS feeds
+
+* From links contributed by the community via PRs or [https://rweekly.org/submit](https://rweekly.org/submit). 
+
+* From editors', in particular the editor in charge of the release that week, looking over their own Twitter likes, feed readers etc. But really, if you can and are aware of R Weekly, it's better to proactively submit your content (or content by someone else and that you found great!) rather than to hope we'll have seen it. We miss cool stuff all the time despite our best efforts!
+
 ## Communication
 
 ### Talk with us!
