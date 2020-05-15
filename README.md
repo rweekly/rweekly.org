@@ -76,12 +76,5 @@ Each weekly contains at most 3 highlight posts. When there are special events, e
 
 A member will receive a notice about his/her inactive status for two months in the organization. A member will leave R Weekly organization if the inactive status passes 75 days.
 
-### Some admin details
-
-GitLab: https://gitlab.com/groups/rweekly
-
-Admin: https://rssadmin.rweekly.org
-
-rweekly-highlights: https://github.com/rweekly/rweekly-highlights
 
 Thanks for reading!
