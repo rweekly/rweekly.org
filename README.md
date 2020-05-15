@@ -39,7 +39,7 @@ We check for duplicates over the last issues.
 
 We prefer PRs because they're more transparent and make the workflow smoother for us (merging a PR vs copy-pasting from the form output) but if you're afraid of GitHub use the form... or open a PR anyway, we'll teach you!
 
-**[Contribute to R-Weekly via Pull Requests: short screencast created by Sina Rueger demonstrating how you can contribute a new link to the R-Weekly issue via a GitHub pull request](https://www.youtube.com/watch?v=oNcW5xeV1bw)**
+**[Contribute to R-Weekly via Pull Requests: short screencast created by Sina Rüeger demonstrating how you can contribute a new link to the R-Weekly issue via a GitHub pull request](https://www.youtube.com/watch?v=oNcW5xeV1bw)**
 
 * Submit your links or feeds for R Weekly posts and podcasts via going to [https://rweekly.org/submit](https://rweekly.org/submit). 
 
