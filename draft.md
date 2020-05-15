@@ -81,6 +81,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [An R Package for Geneset Enrichment Workflows](https://github.com/montilab/hypeR)
 
++ [{spikemap} : Maps Made of Spikes](https://github.com/rCarto/spikemap)
+
 ### Updated Packages
 
 + [ttdo 0.0.5: Reflect tinytest update](http://dirk.eddelbuettel.com/blog/2020/05/09#ttdo_0.0.5)
