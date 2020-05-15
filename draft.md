@@ -25,6 +25,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Migrating from Trello to Airtable: Working with JSON Data in R](https://silvia.rbind.io/2020-05-12-trello-to-airtable/)
 
++ [Using {drake} for Machine Learning](https://edwinth.github.io/blog/drake-ml/)
+
 ###  R in Academia
 
 + [Summative Online Exams with R/exams and OpenOLAT](http://www.R-exams.org/tutorials/openolat_exam/)
@@ -32,6 +34,10 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 ###  Resources
 
 + [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/) **The old link is no longer safe to visit.**
+
++ [ggplot theme tester](https://github.com/martinctc/ggplot_theme_tester)
+
++ [ggplot2 Theme Elements Demonstration](https://henrywang.nl/ggplot2-theme-elements-demonstration/)
 
 + [Debugging in R programming](https://www.geeksforgeeks.org/debugging-in-r-programming/)
 
@@ -43,11 +49,7 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Research compendia enable code review during peer review (slidedeck)](https://codecheck.org.uk/slides/2020-05_ReproHack.html#1)
 
-+ [ggplot theme tester](https://github.com/martinctc/ggplot_theme_tester)
-
-+ [ggplot2 Theme Elements Demonstration](https://henrywang.nl/ggplot2-theme-elements-demonstration/)
-
-![]()
++ [An approachable introduction to linear mixed effects modeling with implementation in R](https://psyarxiv.com/9vghm/)
 
 ###  New Packages
 
@@ -75,7 +77,9 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Introducing the Pokedex package!](https://dev.to/daveparr/introducing-the-pokedex-package-5416)
 
-+ [{epoxy}: String Interpolation for 'R Markdown' Documents ](https://github.com/gadenbuie/epoxy)
++ [epoxy: String Interpolation for 'R Markdown' Documents ](https://github.com/gadenbuie/epoxy)
+
++ [An R Package for Geneset Enrichment Workflows](https://github.com/montilab/hypeR)
 
 ### Updated Packages
 
@@ -83,7 +87,7 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [modelStudio and The Grammar of Interactive Explanatory Model Analysis](https://medium.com/@ModelOriented/modelstudio-and-the-grammar-of-interactive-explanatory-model-analysis-5d274ab2d822?source=rss-57dd112ef71e------2)
 
-+ [{tidycovid19}: New data and documentation](https://joachim-gassen.github.io/2020/05/tidycovid19-new-data-and-doc/)
++ [tidycovid19: New data and documentation](https://joachim-gassen.github.io/2020/05/tidycovid19-new-data-and-doc/)
 
 + [The Covid19R Project](http://imachordata.com/2020/05/07/the-covid19r-project/)
 
@@ -159,6 +163,12 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Querying across files with Apache Drill](https://alistaire.rbind.io/blog/querying-across-files-with-apache-drill/)
 
++ [Hacking deep learning: model inversion attack by example](https://blogs.rstudio.com/tensorflow/posts/2020-05-15-model-inversion-attacks)
+
++ [Checking your R package on Solaris](https://blog.r-hub.io/2020/05/14/checking-your-r-package-on-solaris/)
+
++ [glmnet v4.0: generalizing the family parameter](https://statisticaloddsandends.wordpress.com/2020/05/14/glmnet-v4-0-generalizing-the-family-parameter/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -193,4 +203,6 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">R-Ladies Global now has a Youtube channel! 📽️<br><br>Thanks to <a href="https://twitter.com/DrMowinckels?ref_src=twsrc%5Etfw">@DrMowinckels</a> for her work!<a href="https://t.co/QtoueUa5aa">https://t.co/QtoueUa5aa</a><br><br>The channel will feature videos from R-Ladies events around the world, &amp; might even have some live streamed events!<br><br>Subscribe and have fun learning/watching!<a href="https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw">#RLadies</a> <a href="https://t.co/DNDOBFnd4P">pic.twitter.com/DNDOBFnd4P</a></p>&mdash; R-Ladies Global (@RLadiesGlobal) <a href="https://twitter.com/RLadiesGlobal/status/1260550793482174466?ref_src=twsrc%5Etfw">May 13, 2020</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">R-Ladies Global now has a Youtube channel! 📽️<br><br>Thanks to <a href="https://twitter.com/DrMowinckels?ref_src=twsrc%5Etfw">@DrMowinckels</a> for her work!<a href="https://t.co/QtoueUa5aa">https://t.co/QtoueUa5aa</a><br><br>The channel will feature videos from R-Ladies events around the world, &amp; might even have some live streamed events!<br><br>Subscribe and have fun learning/watching!<a href="https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw">#RLadies</a> <a href="https://t.co/DNDOBFnd4P">pic.twitter.com/DNDOBFnd4P</a></p>&mdash; R-Ladies Global (@RLadiesGlobal) <a href="https://twitter.com/RLadiesGlobal/status/1260550793482174466?ref_src=twsrc%5Etfw">May 13, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">R Markdown and data validation are both really great things. Why not have them both together?! New in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> {pointblank} is a workflow that allows for nice and easy data validation in reproducible documents. Many more details here: <a href="https://t.co/jkmLzk0IHx">https://t.co/jkmLzk0IHx</a>. <a href="https://t.co/E60e4SqR87">pic.twitter.com/E60e4SqR87</a></p>&mdash; Richard Iannone (@riannone) <a href="https://twitter.com/riannone/status/1260960023464816640?ref_src=twsrc%5Etfw">May 14, 2020</a></blockquote>
