@@ -6,7 +6,7 @@ R weekly provides weekly updates from the R community. You are welcome to contri
 
 ## How to have (my) content shared by R Weekly?
 
-We're all about spreading content about R, be it blog posts, tutorials, screencasts, slidedecks, etc. 
+We're all about spreading content about R, be it blog posts, tutorials, screencasts, slidedecks, etc.
 Please help us!
 
 **In general for feeds and one time sharing we prefer https over http.**
@@ -22,7 +22,7 @@ What rules are there?
 
 *  Please💡 Use [W3C Feed Validation](https://validator.w3.org/feed/) Service to checks the syntax of Atom or RSS feeds.
 
-* We don't need a full content RSS feed since we'll only use links and titles. 
+* We don't need a full content RSS feed since we'll only use links and titles.
 
 ### One off sharing
 
@@ -41,7 +41,7 @@ We prefer PRs because they're more transparent and make the workflow smoother fo
 
 **[Contribute to R-Weekly via Pull Requests: short screencast created by Sina Rüeger demonstrating how you can contribute a new link to the R-Weekly issue via a GitHub pull request](https://www.youtube.com/watch?v=oNcW5xeV1bw)**
 
-* Submit your links or feeds for R Weekly posts and podcasts via going to [https://rweekly.org/submit](https://rweekly.org/submit). 
+* Submit your links or feeds for R Weekly posts and podcasts via going to [https://rweekly.org/submit](https://rweekly.org/submit).
 
 
 **When?**
@@ -56,7 +56,7 @@ For nitty-gritty details see [the process release editors follow](https://github
 
 * From RSS feeds
 
-* From links contributed by the community via PRs or [https://rweekly.org/submit](https://rweekly.org/submit). 
+* From links contributed by the community via PRs or [https://rweekly.org/submit](https://rweekly.org/submit).
 
 * From editors', in particular the editor in charge of the release that week, looking over their own Twitter likes, feed readers etc. But really, if you can and are aware of R Weekly, it's better to proactively submit your content (or content by someone else and that you found great!) rather than to hope we'll have seen it. We miss cool stuff all the time despite our best efforts!
 
@@ -64,9 +64,9 @@ For nitty-gritty details see [the process release editors follow](https://github
 
 ### Talk with us!
 
-Have a question or great idea about this website? 
+Have a question or great idea about this website?
 
-Talk with us on [Twitter](https://twitter.com/rweekly_org) or [Google Groups](https://groups.google.com/forum/#!forum/rweekly) or [via opening an issue](https://github.com/rweekly/rweekly.org/issues/new).
+Talk with us on [Twitter](https://twitter.com/rweekly_org) or [an GitHub issue](https://github.com/rweekly/rweekly.org/issues/new).
 
 ### Join us!
 
@@ -76,9 +76,12 @@ Responsabilities of editors
 
 * [Handle a release every few weeks](https://github.com/rweekly/rweekly.org/wiki/Release-Editor-FAQ). We agree on the schedule and swap weeks as needed.
 
-* Vote on the highlight on Saturdays, which can be skipped when you have no time or no opinion. Each release contains at most 3 highlight posts in general. Editors will vote for at most three posts on the R Weekly Slack channel every Saturday. If you do not want to recommend any post, you can skip the vote. 
+* Vote on the highlight on Saturdays, which can be skipped when you have no time or no opinion. Each release contains at most 3 highlight posts in general. Editors will vote for at most three posts on the R Weekly Slack channel every Saturday. If you do not want to recommend any post, you can skip the vote.
 
 A member will receive a notice about his/her inactive status for two months in the organization. A member will leave R Weekly organization if the inactive status passes 75 days.
 
+## Support with Patreon
+
+[Donate to R Weekly with Patreon](https://www.patreon.com/rweekly)
 
 Thanks for reading!
