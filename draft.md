@@ -9,7 +9,7 @@ Release Date: 2020-05-18
 
 This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_salmon), with help from the R Weekly team members and contributors.
 
-+ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org/tree/maelle-patch-1#how-to-have-my-content-shared-by-r-weekly)
++ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org/tree/master#how-to-have-my-content-shared-by-r-weekly)
 
 ###  Highlight
 
