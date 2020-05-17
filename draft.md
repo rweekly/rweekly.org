@@ -201,11 +201,6 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
-###  R Project Updates
-
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
-
 ###  Upcoming Events in 3 Months
 
 + [e-RUM, 17th-20th June](https://2020.erum.io/), [virtual conference](https://2020.erum.io/#erumgoesvirtual). [Registration open, for free](https://www.eventbrite.it/e/e-rum2020-tickets-104546978828)
