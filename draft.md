@@ -17,7 +17,9 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 ### Insights
 
++ [Updates to ragg and systemfonts](https://www.tidyverse.org/blog/2020/05/updates-to-ragg-and-systemfonts/)
 
++ [Accessible Data Science for the Blind Using R](https://jooyoungseo.com/post/ds4blind/)
 
 ### R in the Real World
 
@@ -51,6 +53,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [Materials for Dr Andrew Heiss' Data Visualization course](https://datavizm20.classes.andrewheiss.com/)
 
++ [Learn tidymodels with my supervised machine learning course](https://juliasilge.com/blog/tidymodels-ml-course/)
+
 + [Research compendia enable code review during peer review (slidedeck)](https://codecheck.org.uk/slides/2020-05_ReproHack.html#1)
 
 + [An approachable introduction to linear mixed effects modeling with implementation in R](https://psyarxiv.com/9vghm/)
@@ -70,10 +74,6 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 + [encryptedRmd: Encrypt Html Reports Using 'Libsodium'](https://CRAN.R-project.org/package=encryptedRmd)
 
 + [listcomp: List Comprehensions](https://CRAN.R-project.org/package=listcomp)
-
-**BioC**
-
-
 
 **GitHub or Bitbucket**
 
@@ -113,6 +113,8 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 ![xaringanthemer logo](https://raw.githubusercontent.com/rweekly/image/master/2020-05-18/xaringanthemerlogoo.png)
 
++ [R doesn't need to throttle AWS Athena anymore](https://dyfanjones.me/post/r-doesnt-need-to-throttle-aws-athena-anymore/)
+
 ###  Videos and Podcasts
 
 + [Reports to impress your boss! Rmarkdown magic - R-Ladies Oslo](https://www.youtube.com/watch?v=Xn5AmUf7gDQ), [slides](https://github.com/rladies/meetup-presentations_oslo)
@@ -125,21 +127,23 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [T^4: Adding Some Color to the Shell](http://dirk.eddelbuettel.com/blog/2020/05/10#001_shell_colors)
 
-### Gist & Cookbook
-
-
-
 ### R Internationally
 
 + [German blog post: How to document functions in your own R package using roxygen2. R Code, screenshots, examples included.](https://statistik-dresden.de/archives/16054)
 
 + [Real-time estimation of the effective reproduction number of COVID-19 in Japan](https://github.com/contactmodel/COVID19-Japan-Reff)
 
++ [Generando tutoriales interactivos con el paquete learnr](https://yabellini.netlify.app/es/post/tutorialesconlearnr/)
+
++ [Installation de R 4.0 sur Ubuntu 20.04 LTS et astuces pour les packages de cartographie](https://rtask.thinkr.fr/fr/installation-de-r-4-0-sur-ubuntu-20-04-lts-et-astuces-pour-les-packages-de-cartographie/)
+
 ###  Tutorials
 
 + [Fetch API Results from the Browser and send them to Shiny](https://colinfay.me/api-from-client-shiny/)
 
 + [yorkr rocks women's One Day International (ODI) and International T20!!](https://gigadom.in/2020/05/09/yorkr-rocks-womens-one-day-international-odi-and-international-t20/)
+
++ [It’s a wrap! yorkr wraps up BBL, NTB, PSL and WBB!!!](https://gigadom.in/2020/05/16/its-a-wrap-yorkr-wraps-up-bbl-ntb-psl-and-wbb/)
 
 + [Counting and Visualizing CRAN Downloads with packageRank (with Caveats!)](https://blog.r-hub.io/2020/05/11/packagerank-intro/)
 
@@ -183,6 +187,18 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [glmnet v4.0: generalizing the family parameter](https://statisticaloddsandends.wordpress.com/2020/05/14/glmnet-v4-0-generalizing-the-family-parameter/)
 
++ [Incidence of COVID-19 in Texas after adjusting for test positivity by @ellis2013nz](http://freerangestats.info/blog/2020/05/17/covid-texas-incidence)
+
++ [Simulating Coronavirus Outbreak in Cities with Origin-Destination Matrix and SEIR Model](https://www.databentobox.com/2020/03/28/covid19_city_sim_seir/)
+
++ [Find most retweeted tweets of the #rspatial bot](https://statnmap.com/2020-05-10-find-most-retweeted-tweets-of-the-rspatial-bot/)
+
++ [Implied risk premia](https://osm.netlify.com/post/implied-risk-premia/)
+
++ [An Analysis of New Jersey's Opioid Pill Supply](https://svitkin.rbind.io/2020/05/on-new-jerseys-opioid-problem/) 
+
++ [The post emphasizes the important difference of between low and high dimension distance metric choices .](https://eranraviv.com/curse-dimensionality-part-4-distance-metrics/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -192,25 +208,13 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ###  Upcoming Events in 3 Months
 
-+ [e-RUM, 17th-20th June](https://2020.erum.io/), [virtual conference](https://2020.erum.io/#erumgoesvirtual)
++ [e-RUM, 17th-20th June](https://2020.erum.io/), [virtual conference](https://2020.erum.io/#erumgoesvirtual). [Registration open, for free](https://www.eventbrite.it/e/e-rum2020-tickets-104546978828)
 
 Events in 3 Months:
-
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-
-More past events at [R conferences & meetups](https://conf.rweekly.org).
-
-
-### Datasets
-
-### Jobs
-
-
-
 
 ###  Call for Participation
 
@@ -222,3 +226,5 @@ More past events at [R conferences & meetups](https://conf.rweekly.org).
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">R-Ladies Global now has a Youtube channel! 📽️<br><br>Thanks to <a href="https://twitter.com/DrMowinckels?ref_src=twsrc%5Etfw">@DrMowinckels</a> for her work!<a href="https://t.co/QtoueUa5aa">https://t.co/QtoueUa5aa</a><br><br>The channel will feature videos from R-Ladies events around the world, &amp; might even have some live streamed events!<br><br>Subscribe and have fun learning/watching!<a href="https://twitter.com/hashtag/RLadies?src=hash&amp;ref_src=twsrc%5Etfw">#RLadies</a> <a href="https://t.co/DNDOBFnd4P">pic.twitter.com/DNDOBFnd4P</a></p>&mdash; R-Ladies Global (@RLadiesGlobal) <a href="https://twitter.com/RLadiesGlobal/status/1260550793482174466?ref_src=twsrc%5Etfw">May 13, 2020</a></blockquote>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">R Markdown and data validation are both really great things. Why not have them both together?! New in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> {pointblank} is a workflow that allows for nice and easy data validation in reproducible documents. Many more details here: <a href="https://t.co/jkmLzk0IHx">https://t.co/jkmLzk0IHx</a>. <a href="https://t.co/E60e4SqR87">pic.twitter.com/E60e4SqR87</a></p>&mdash; Richard Iannone (@riannone) <a href="https://twitter.com/riannone/status/1260960023464816640?ref_src=twsrc%5Etfw">May 14, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Recurring gripe: every so often I check citations on my <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> packages. Results are always appalling (e.g. {ecmwfr} 11K downloads, 0 citations). So, I&#39;ll stress this again until researchers get it in their thick skull. Properly cite the software you use! <a href="https://twitter.com/hashtag/AcademicTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#AcademicTwitter</a> 1/ <a href="https://t.co/iZGtjgvLF5">pic.twitter.com/iZGtjgvLF5</a></p>&mdash; Koen Hufkens, PhD (@koen_hufkens) <a href="https://twitter.com/koen_hufkens/status/1261270236520689664?ref_src=twsrc%5Etfw">May 15, 2020</a></blockquote>
