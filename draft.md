@@ -67,6 +67,10 @@ This week’s release was curated by [Maëlle Salmon](https://twitter.com/ma_sal
 
 + [{gfonts 0.1.1}: Offline Google Fonts for rmarkdown and shiny](https://cran.r-project.org/package=gfonts)
 
++ [encryptedRmd: Encrypt Html Reports Using 'Libsodium'](https://CRAN.R-project.org/package=encryptedRmd)
+
++ [listcomp: List Comprehensions](https://CRAN.R-project.org/package=listcomp)
+
 **BioC**
 
 
