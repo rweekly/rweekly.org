@@ -68,7 +68,7 @@ Release Date: 2020-05-25
 
 ###  Tutorials
 
-
++ [Migrating Themes and Overhauling the Rest (Hugo, blogdown)](https://blog.jemu.name/2020/05/migrating-themes-and-overhauling-the-rest)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
