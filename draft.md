@@ -40,7 +40,7 @@ Release Date: 2020-05-25
 
 **CRAN**
 
-
++ [openmetrics: An Opinionated Prometheus Client for R](https://unconj.ca/blog/introducing-openmetrics-for-r.html)
 
 **BioC**
 
