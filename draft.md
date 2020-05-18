@@ -24,7 +24,7 @@ Release Date: 2020-05-25
 
 ###  R in Organizations
 
-
++ [projmgr: Managing the human dependencies of your project](https://emilyriederer.netlify.app/post/projmgr/)
 
 ###  R in Academia
 
@@ -32,7 +32,7 @@ Release Date: 2020-05-25
 
 ###  Resources
 
-
++ [The meta-concepts of data analysis, workflows and projects in R.](https://github.com/deanmarchiori/analysis-flow)
 
 ###  New Packages
 
