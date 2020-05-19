@@ -32,7 +32,7 @@ Release Date: 2020-05-25
 
 ###  Resources
 
-+ [ANOVA Test in R programming](https://www.geeksforgeeks.org/anova-test-in-r-programming/)
+
 
 ###  New Packages
 
@@ -68,7 +68,7 @@ Release Date: 2020-05-25
 
 ###  Tutorials
 
-
++ [ANOVA Test in R programming](https://www.geeksforgeeks.org/anova-test-in-r-programming/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
