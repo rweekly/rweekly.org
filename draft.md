@@ -28,7 +28,7 @@ Release Date: 2020-05-25
 
 ###  R in Academia
 
-
++ [Reproducible Research Data & Project Management in R](https://annakrystalli.me/rrresearchACCE20/)
 
 ###  Resources
 
