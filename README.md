@@ -16,6 +16,8 @@ Please help us!
 Submit your blog RSS feed via [https://rweekly.org/submit](https://rweekly.org/submit).
 If your blog doesn't have an RSS feed yet, look up for resources / help for doing it, it's worth it!
 
+https://rweekly.org/feedlist.html is the list of feeds for R Weekly Live 
+
 What rules are there?
 
 * The RSS feed has to be mainly related to R, so if your content mixes R and baking posts please create a specific R feed. Now, if there's one off topic post once in a while, it's fine, we'll remove it from the release.
