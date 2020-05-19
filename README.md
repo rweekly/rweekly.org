@@ -16,6 +16,8 @@ Please help us!
 Submit your blog RSS feed via [https://rweekly.org/submit](https://rweekly.org/submit).
 If your blog doesn't have an RSS feed yet, look up for resources / help for doing it, it's worth it!
 
+https://rweekly.org/feedlist.html is the list of feeds for R Weekly Live 
+
 What rules are there?
 
 * The RSS feed has to be mainly related to R, so if your content mixes R and baking posts please create a specific R feed. Now, if there's one off topic post once in a while, it's fine, we'll remove it from the release.
@@ -70,7 +72,7 @@ Talk with us on [Twitter](https://twitter.com/rweekly_org) or [an GitHub issue](
 
 ### Join us!
 
-Are you passionate about sharing content from the R community? After creating at least 10 pull requests, fill [https://docs.google.com/forms/d/e/1FAIpQLSet2Tq_mWWOVsKWxGOSoUg8DzCPlW2-nxIFOSkkRvlUFxQFLw/viewform) to join our team!
+Are you passionate about sharing content from the R community? After creating at least 10 pull requests, [fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSet2Tq_mWWOVsKWxGOSoUg8DzCPlW2-nxIFOSkkRvlUFxQFLw/viewform) to join our team!
 
 Responsabilities of editors
 

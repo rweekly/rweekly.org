@@ -174,11 +174,11 @@ Thanks for reading!
 ## More on R Weekly
 
 
-### R conferences & meetups
+<!-- ### R conferences & meetups
 
 <a href="https://conf.rweekly.org">https://conf.rweekly.org</a>
 
-A collection of presentation slides/materials released on various R conferences and meetups.
+A collection of presentation slides/materials released on various R conferences and meetups. -->
 
 ### Blog
 

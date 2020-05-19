@@ -24,15 +24,15 @@ Release Date: 2020-05-25
 
 ###  R in Organizations
 
-
++ [projmgr: Managing the human dependencies of your project](https://emilyriederer.netlify.app/post/projmgr/)
 
 ###  R in Academia
 
-
++ [Reproducible Research Data & Project Management in R](https://annakrystalli.me/rrresearchACCE20/)
 
 ###  Resources
 
-
++ [The meta-concepts of data analysis, workflows and projects in R.](https://github.com/deanmarchiori/analysis-flow)
 
 ###  New Packages
 
@@ -40,7 +40,7 @@ Release Date: 2020-05-25
 
 **CRAN**
 
-
++ [openmetrics: An Opinionated Prometheus Client for R](https://unconj.ca/blog/introducing-openmetrics-for-r.html)
 
 **BioC**
 
@@ -70,6 +70,10 @@ Release Date: 2020-05-25
 
 + [ANOVA Test in R programming](https://www.geeksforgeeks.org/anova-test-in-r-programming/)
 
++ [Migrating Themes and Overhauling the Rest (Hugo, blogdown)](https://blog.jemu.name/2020/05/migrating-themes-and-overhauling-the-rest)
+
+
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -88,7 +92,7 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 
-More past events at [R conferences & meetups](https://conf.rweekly.org).
+<!-- More past events at [R conferences & meetups](https://conf.rweekly.org). -->
 
 
 ### Datasets
