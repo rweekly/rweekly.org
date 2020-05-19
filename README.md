@@ -72,7 +72,7 @@ Talk with us on [Twitter](https://twitter.com/rweekly_org) or [an GitHub issue](
 
 ### Join us!
 
-Are you passionate about sharing content from the R community? After creating at least 10 pull requests, fill [https://docs.google.com/forms/d/e/1FAIpQLSet2Tq_mWWOVsKWxGOSoUg8DzCPlW2-nxIFOSkkRvlUFxQFLw/viewform) to join our team!
+Are you passionate about sharing content from the R community? After creating at least 10 pull requests, [fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSet2Tq_mWWOVsKWxGOSoUg8DzCPlW2-nxIFOSkkRvlUFxQFLw/viewform) to join our team!
 
 Responsabilities of editors
 
