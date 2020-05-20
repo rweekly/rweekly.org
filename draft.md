@@ -72,6 +72,8 @@ Release Date: 2020-05-25
 
 + [Migrating Themes and Overhauling the Rest (Hugo, blogdown)](https://blog.jemu.name/2020/05/migrating-themes-and-overhauling-the-rest)
 
++ [Using ggplot2 package in R programming](https://www.geeksforgeeks.org/using-ggplot2-package-in-r-programming/)
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
