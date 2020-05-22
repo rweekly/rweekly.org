@@ -16,7 +16,7 @@ Release Date: 2020-05-25
 
 ### Insights
 
-
++ [Web Scraping in the Statistics and Data Science Curriculum: Challenges and Opportunities](https://github.com/mdogucu/web-scrape)
 
 ### R in the Real World
 
