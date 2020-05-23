@@ -56,7 +56,7 @@ Release Date: 2020-05-25
 
 ###  Videos and Podcasts
 
-
++ [TidyX Screencast](https://bit.ly/TidyX_Playlist): Hosted by [Ellis Hughes](https://twitter.com/ellis_hughes) and [Patrick Ward](https://twitter.com/OSPpatrick), TidyX has the goal to explain how common concepts in R work. Each week we go through and explain a set of code, usually a visualization from a #TidyTuesday submission. We then show how the same technique can be applied to a new dataset and explore additional ways to look at the data. 
 
 ### Gist & Cookbook
 
