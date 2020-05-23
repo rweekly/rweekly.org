@@ -38,6 +38,8 @@ Release Date: 2020-05-25
 
 + [When Field or Lab Work is not an Option - Leveraging Open Data Resources for Remote Research](https://ropensci.org/blog/2020/05/19/covid-19-open-data/)
 
++ [How to Make a Reproducible Paper - slides](https://https://bit.ly/repro_vid), [code](https://github.com/ablucher/Workshop_ReproduciblePaper)
+
 ###  Resources
 
 + [The meta-concepts of data analysis, workflows and projects in R.](https://github.com/deanmarchiori/analysis-flow)
@@ -45,6 +47,12 @@ Release Date: 2020-05-25
 + [An R View into Epidemiology](https://rviews.rstudio.com/2020/05/20/some-r-resources-for-epidemiology/)
 
 + [R as GIS for Economists](https://tmieno2.github.io/R-as-GIS-for-Economists/)
+
++ [From R to Gatsby](https://www.robertmylesmcdonnell.com/content/posts/rtogatsby/)
+
++ [How to publish a blog post on Wordpress using Rmarkdown](https://tobiasdienlin.com/2019/03/08/how-to-publish-a-blog-post-on-wordpress-using-rmarkdown/)
+
++ [Posting from .Rmd to dev.to](https://dev.to/daveparr/posting-from-rmd-to-dev-to-5gld)
 
 ###  New Packages
 
@@ -121,6 +129,10 @@ Release Date: 2020-05-25
 + [New function to flatten spreadsheet cell formatting into usable character strings.](https://luisdva.github.io/rstats/spreadsheets-mf/)
 
 + [Nullable Optional Arguments in Rcpp functions](https://gallery.rcpp.org//articles/optional-null-function-arguments/)
+
++ [Bold indicates negative](https://luisdva.github.io/rstats/spreadsheets-mf/)
+
++ [Packaging interactive tutorials](https://yabellini.netlify.app/post/packagingtutorials/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
