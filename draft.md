@@ -30,7 +30,7 @@ Release Date: 2020-05-25
 
 ###  R in Organizations
 
-+ [projmgr: Managing the human dependencies of your project](https://emilyriederer.netlify.app/post/projmgr/)
++ [{projmgr}: Managing the human dependencies of your project](https://emilyriederer.netlify.app/post/projmgr/)
 
 ###  R in Academia
 
@@ -104,7 +104,7 @@ Release Date: 2020-05-25
 
 + [Big Data 7: yorkr waltzes with Apache NiFi](https://gigadom.in/2020/05/23/big-data-7-yorkr-waltzes-with-apache-nifi/)
 
-+ [Ordering bars within their clumps in a bar chart by @ellis2013nz](http://freerangestats.info/blog/2020/05/23/ordering-in-bar-charts)
++ [Ordering bars within their clumps in a bar chart](http://freerangestats.info/blog/2020/05/23/ordering-in-bar-charts)
 
 + [Using XGBoost with Tidymodels](https://tychobra.com/posts/2020-05-19-xgboost-with-tidymodels/)
 
@@ -129,8 +129,6 @@ Release Date: 2020-05-25
 + [New function to flatten spreadsheet cell formatting into usable character strings.](https://luisdva.github.io/rstats/spreadsheets-mf/)
 
 + [Nullable Optional Arguments in Rcpp functions](https://gallery.rcpp.org//articles/optional-null-function-arguments/)
-
-+ [Bold indicates negative](https://luisdva.github.io/rstats/spreadsheets-mf/)
 
 + [Packaging interactive tutorials](https://yabellini.netlify.app/post/packagingtutorials/)
 
