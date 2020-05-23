@@ -52,9 +52,9 @@ Release Date: 2020-05-25
 
 **CRAN**
 
-+ [openmetrics: An Opinionated Prometheus Client for R](https://unconj.ca/blog/introducing-openmetrics-for-r.html)
++ [{openmetrics}: An Opinionated Prometheus Client for R](https://unconj.ca/blog/introducing-openmetrics-for-r.html)
 
-+ [rules 0.0.1](https://www.tidyverse.org/blog/2020/05/rules-0-0-1/)
++ [{rules 0.0.1}](https://www.tidyverse.org/blog/2020/05/rules-0-0-1/)
 
 **BioC**
 
@@ -62,19 +62,19 @@ Release Date: 2020-05-25
 
 **GitHub or Bitbucket**
 
-+ [datadrivencv: An R package for building your CV with data](http://nickstrayer.me/datadrivencv/)
++ [{datadrivencv}: An R package for building your CV with data](http://nickstrayer.me/datadrivencv/)
 
-+ [shadr: GLSL shaders in R](https://github.com/tylermorganwall/shadr)
++ [{shadr}: GLSL shaders in R](https://github.com/tylermorganwall/shadr)
 
 ### Updated Packages
 
-+ [{ggcharts 0.2.0} is on CRAN](https://thomasadventure.blog/posts/ggcharts-0-2-0-is-on-cran/)                   
++ [{ggcharts 0.2.0}](https://thomasadventure.blog/posts/ggcharts-0-2-0-is-on-cran/)
 
-+ [RcppArmadillo 0.9.880.1.0](http://dirk.eddelbuettel.com/blog/2020/05/17#rcpparmadillo_0.9.880.1.0)
++ [{RcppArmadillo 0.9.880.1.0}](http://dirk.eddelbuettel.com/blog/2020/05/17#rcpparmadillo_0.9.880.1.0)
 
 ###  Videos and Podcasts
 
-+ [TidyX Screencast](https://bit.ly/TidyX_Playlist): Hosted by [Ellis Hughes](https://twitter.com/ellis_hughes) and [Patrick Ward](https://twitter.com/OSPpatrick), TidyX has the goal to explain how common concepts in R work. Each week we go through and explain a set of code, usually a visualization from a #TidyTuesday submission. We then show how the same technique can be applied to a new dataset and explore additional ways to look at the data.
++ [TidyX Screencast - #TidyTuesday Code Explained](https://bit.ly/TidyX_Playlist)
 
 + [GGplot - Compound Interest With Data Science And R](https://youtu.be/_SNj0KuBYLU)
 
