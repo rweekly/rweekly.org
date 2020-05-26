@@ -16,7 +16,7 @@ Release Date: 2020-06-01
 
 ### Insights
 
-
+[Pixelate to communicate:  visualising uncertainty in maps of disease risk and other spatial continua](https://arxiv.org/abs/2005.11993)
 
 ### R in the Real World
 
