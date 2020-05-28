@@ -40,7 +40,7 @@ Release Date: 2020-06-01
 
 **CRAN**
 
-
++ [{strand}: A Framework for Investment Strategy Simulation](https://CRAN.R-project.org/package=strand)
 
 **BioC**
 
