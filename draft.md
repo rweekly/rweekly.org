@@ -52,7 +52,7 @@ Release Date: 2020-06-01
 
 ### Updated Packages
 
-
++ [{bitmexr 0.3.0}](https://hfshr.netlify.app/posts/2020-05-25-bitmexr-updates/)
 
 ###  Videos and Podcasts
 
