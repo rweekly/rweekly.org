@@ -91,6 +91,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [{bitmexr} 0.3.0](https://hfshr.netlify.app/posts/2020-05-25-bitmexr-updates/)
 + [tidyr 1.1.0](https://www.tidyverse.org/blog/2020/05/tidyr-1.1.0/)
 + [{reactable} 2.0.0](https://glin.github.io/reactable/articles/examples.html#cross-widget-interactions) Now with cross-widget interactions
++ [{reactable} 0.2.0](https://cran.r-project.org/package=reactable)
 + [{strand} 0.1.3](https://CRAN.R-project.org/package=strand): A Framework for Investment Strategy Simulation
 + [{timetk} 2.0.0](https://cran.r-project.org/package=timetk)
 + [{rmarkdown} 2.2](https://cran.r-project.org/package=rmarkdown)
@@ -114,7 +115,6 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [{trelliscopejs} 0.2.5](https://cran.r-project.org/package=trelliscopejs)
 + [{survminer} 0.4.7](https://cran.r-project.org/package=survminer)
 + [{rgdal} 1.5-8](https://cran.r-project.org/package=rgdal)
-+ [{reactable} 0.2.0](https://cran.r-project.org/package=reactable)
 + [{reticulate} 1.16](https://cran.r-project.org/package=reticulate)
 + [{dbplyr} 1.4.4](https://cran.r-project.org/package=dbplyr)
 + [{brms} 2.13.0](https://cran.r-project.org/package=brms)
