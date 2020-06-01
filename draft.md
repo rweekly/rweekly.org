@@ -1,7 +1,6 @@
 ---
-layout: draft
-title: R Weekly 2020-22
-description: Draft of the R Weekly
+title: R Weekly 2020-22 Teaching R Markdown, SVG graphics, parsing JSON
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -13,25 +12,27 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 ###  Highlight
 
++ [Superior svg graphics rendering in R, and why it matters](https://ropensci.org/technotes/2020/05/28/rsvg2/)
++ [Easily parsing JSON in R with jsonlite and purrr](https://themockup.blog/posts/2020-05-22-parsing-json-in-r-with-jsonlite/)
++ [How I Teach R Markdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
 
 
 ### Insights
 
-+ [What It Takes to Tidy Census Data](https://ivelasq.rbind.io/blog/tidying-census-data/)
-+ [How I Teach R Markdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
-+ [Easy PixelCNN with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2020-05-29-pixelcnn)
 + [My Favorite dplyr 1.0.0 Features](https://www.tychobra.com/posts/2020-05-27-new-dplyr-features/)
++ [What It Takes to Tidy Census Data](https://ivelasq.rbind.io/blog/tidying-census-data/)
++ [Easy PixelCNN with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2020-05-29-pixelcnn)
++ [Easily parsing JSON in R with jsonlite and purrr](https://themockup.blog/posts/2020-05-22-parsing-json-in-r-with-jsonlite/)
 + [covid19 & some computational-corpus linguistics](https://jtimm.net/2020/05/26/corp-comp-ling-covid19/)
-+ [caracas: Computer Algebra in R via SymPy](https://mikl.dk/post/2020-caracas_v101/)
 + [Superior svg graphics rendering in R, and why it matters](https://ropensci.org/technotes/2020/05/28/rsvg2/)
 + [🎤The Tidyvision Song Contest](https://lapsedgeographer.london/2020-05/tidyvision/)
-+ [{almanac} 0.1.0](https://blog.davisvaughan.com/2020/05/27/almanac-0-1-0/)
-+ [Easily parsing JSON in R with jsonlite and purrr](https://themockup.blog/posts/2020-05-22-parsing-json-in-r-with-jsonlite/)
 
+![tidyvision song contest](https://raw.githubusercontent.com/rweekly/image/master/2020-06-01/eurovision_winning_scores.png)
 
-
-
++ [How I Teach R Markdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
++ [caracas: Computer Algebra in R via SymPy](https://mikl.dk/post/2020-caracas_v101/)
 + [Syntax Highlighting in Blogdown; a very specific solution](https://venciso.netlify.com/2020/05/syntax-highlighting-blogdown/)
++ [{almanac} 0.1.0](https://blog.davisvaughan.com/2020/05/27/almanac-0-1-0/)
 + [Mad methods](https://osm.netlify.com/post/mad-methods/)
 + [Testing R on Emulated Platforms](https://developer.r-project.org/Blog/public/2020/05/29/testing-r-on-emulated-platforms/)
 + [How to distribute data with your R package](https://blog.r-hub.io/2020/05/29/distribute-data/)
@@ -41,6 +42,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [Tidymodels and XGBoost; a few learnings](https://venciso.netlify.com/2020/05/tidymodels-xgboost/)
 + [PCA and UMAP with tidymodels and #TidyTuesday cocktail recipes](https://juliasilge.com/blog/cocktail-recipes-umap/)
 + [Polygons to hexagons](http://r.iresmi.net/2020/05/26/polygons-to-hexagons/)
+
+![polygons to hexagons](https://raw.githubusercontent.com/rweekly/image/master/2020-06-01/covid_hex_fr.png)
+
 + [Learning Statistics: Randomness is a Strange Beast](https://blog.ephorie.de/learning-statistics-randomness-is-a-strange-beast)
 + [Dummy variables in R](https://mikl.dk/post/2020-dummy-variables-in-r/)
 + [How to Create Dummy Variables in R (with Examples)](https://www.marsja.se/create-dummy-variables-in-r/?utm_source=rss&utm_medium=rss&utm_campaign=create-dummy-variables-in-r)
@@ -79,6 +83,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [{nhlapi} 0.1.2](https://cran.r-project.org/package=nhlapi): A Minimum-Dependency 'R' Interface to the 'NHL' API
 + [{applicable} 0.0.1](https://cran.r-project.org/package=applicable): A Compilation of Applicability Domain Methods
 + [{upsetjs} 1.0.2](https://cran.r-project.org/package=upsetjs): 'HTMLWidget' Wrapper of 'UpSet.s' for Exploring Large Set Intersections
+
+![upsetjs](https://raw.githubusercontent.com/rweekly/image/master/2020-06-01/upset.png)
+
 + [{sketcher} 0.1.3](https://cran.r-project.org/package=sketcher): Pencil Sketch Effect
 + [{BOJ} 0.2.2](https://cran.r-project.org/package=BOJ): Interface to Bank of Japan Statistics
 + [{ROpenCVLite} 0.4.430](https://cran.r-project.org/package=ROpenCVLite): Install 'OpenCV'
@@ -91,6 +98,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [{bitmexr} 0.3.0](https://hfshr.netlify.app/posts/2020-05-25-bitmexr-updates/)
 + [tidyr 1.1.0](https://www.tidyverse.org/blog/2020/05/tidyr-1.1.0/)
 + [{reactable} 2.0.0](https://glin.github.io/reactable/articles/examples.html#cross-widget-interactions) Now with cross-widget interactions
+
+![reactable](https://raw.githubusercontent.com/rweekly/image/master/2020-06-01/ezgif-2-f7b67cf195ad.gif)
+
 + [{reactable} 0.2.0](https://cran.r-project.org/package=reactable)
 + [{strand} 0.1.3](https://CRAN.R-project.org/package=strand): A Framework for Investment Strategy Simulation
 + [{timetk} 2.0.0](https://cran.r-project.org/package=timetk)
@@ -130,6 +140,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 + [A minimal reprex for a shiny app](https://www.youtube.com/watch?v=9w8ANOAlWy4)
 + [PCA and UMAP with tidymodels and #TidyTuesday cocktail recipes](https://juliasilge.com/blog/cocktail-recipes-umap/)
+
+![umap tidymodels](https://raw.githubusercontent.com/rweekly/image/master/2020-06-01/umap.png)
+
 + [20 tidy tuesday cocktails](https://www.youtube.com/watch?v=kHFmtKCI_F4)
 + [#3 T^4: Customizing The Shell](http://dirk.eddelbuettel.com/blog/2020/05/24#003_shell_customization)
 
