@@ -12,9 +12,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 ###  Highlight
 
++ [How I Teach R Markdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
 + [Superior svg graphics rendering in R, and why it matters](https://ropensci.org/technotes/2020/05/28/rsvg2/)
 + [Easily parsing JSON in R with jsonlite and purrr](https://themockup.blog/posts/2020-05-22-parsing-json-in-r-with-jsonlite/)
-+ [How I Teach R Markdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
 
 ### Insights
 
