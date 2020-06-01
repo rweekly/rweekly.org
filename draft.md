@@ -16,7 +16,6 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [Easily parsing JSON in R with jsonlite and purrr](https://themockup.blog/posts/2020-05-22-parsing-json-in-r-with-jsonlite/)
 + [How I Teach R Markdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
 
-
 ### Insights
 
 + [My Favorite dplyr 1.0.0 Features](https://www.tychobra.com/posts/2020-05-27-new-dplyr-features/)
@@ -39,12 +38,12 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [AdaOpt classification on MNIST handwritten digits (without preprocessing)](https://thierrymoudiki.github.io/blog/2020/05/29/python/r/adaopt-classifier-3)
 + [April 2020: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2020/05/28/april-2020-top-40-new-cran-packages/)
 + [Correlation coefficient and correlation test in R](https://www.statsandr.com/blog/correlation-coefficient-and-correlation-test-in-r/)
-+ [Tidymodels and XGBoost; a few learnings](https://venciso.netlify.com/2020/05/tidymodels-xgboost/)
-+ [PCA and UMAP with tidymodels and #TidyTuesday cocktail recipes](https://juliasilge.com/blog/cocktail-recipes-umap/)
 + [Polygons to hexagons](http://r.iresmi.net/2020/05/26/polygons-to-hexagons/)
 
 ![polygons to hexagons](https://raw.githubusercontent.com/rweekly/image/master/2020-06-01/covid_hex_fr.png)
-
++
+ [Tidymodels and XGBoost; a few learnings](https://venciso.netlify.com/2020/05/tidymodels-xgboost/)
++ [PCA and UMAP with tidymodels and #TidyTuesday cocktail recipes](https://juliasilge.com/blog/cocktail-recipes-umap/)
 + [Learning Statistics: Randomness is a Strange Beast](https://blog.ephorie.de/learning-statistics-randomness-is-a-strange-beast)
 + [Dummy variables in R](https://mikl.dk/post/2020-dummy-variables-in-r/)
 + [How to Create Dummy Variables in R (with Examples)](https://www.marsja.se/create-dummy-variables-in-r/?utm_source=rss&utm_medium=rss&utm_campaign=create-dummy-variables-in-r)
@@ -52,6 +51,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [Considering the number of categories in an ordinal outcome](https://www.rdatagen.net/post/the-advantage-of-increasing-the-number-of-categories-in-an-ordinal-outcome/)
 + [Introducing the hacksaw package](http://daranzolin.github.io/2020-05-25-introducing-hacksaw/)
 + [Brief overview of the tidymodels workflow using bayesian optimisation](https://hfshr.netlify.app/posts/2020-05-23-tidymodel-notes/)
++ [{reactable} 2.0.0](https://glin.github.io/reactable/articles/examples.html#cross-widget-interactions) Now with cross-widget interactions
+
+![reactable](https://raw.githubusercontent.com/rweekly/image/master/2020-06-01/ezgif-2-f7b67cf195ad.gif)
 
 ### R in the Real World
 
@@ -96,13 +98,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [{NIMBLE} 0.9.1](https://r-nimble.org/version-0-9-1-of-nimble-released)
 + [{RcppSimdJson} 0.0.5](http://dirk.eddelbuettel.com/blog/2020/05/23#rcppsimdjson_0.0.5): Updated Upstream
 + [{bitmexr} 0.3.0](https://hfshr.netlify.app/posts/2020-05-25-bitmexr-updates/)
-+ [tidyr 1.1.0](https://www.tidyverse.org/blog/2020/05/tidyr-1.1.0/)
-+ [{reactable} 2.0.0](https://glin.github.io/reactable/articles/examples.html#cross-widget-interactions) Now with cross-widget interactions
-
-![reactable](https://raw.githubusercontent.com/rweekly/image/master/2020-06-01/ezgif-2-f7b67cf195ad.gif)
-
++ [{tidyr} 1.1.0](https://www.tidyverse.org/blog/2020/05/tidyr-1.1.0/)
 + [{reactable} 0.2.0](https://cran.r-project.org/package=reactable)
-+ [{strand} 0.1.3](https://CRAN.R-project.org/package=strand): A Framework for Investment Strategy Simulation
++ [{strand} 0.1.3](https://CRAN.R-project.org/package=strand)
 + [{timetk} 2.0.0](https://cran.r-project.org/package=timetk)
 + [{rmarkdown} 2.2](https://cran.r-project.org/package=rmarkdown)
 + [{ukpolice} 0.2.1](https://cran.r-project.org/package=ukpolice)
