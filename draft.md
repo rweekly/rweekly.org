@@ -68,6 +68,7 @@ Release Date: 2020-06-08
 
 ###  Tutorials
 
++ [Working with Excel files in R programming](https://www.geeksforgeeks.org/working-with-excel-files-in-r-programming/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
