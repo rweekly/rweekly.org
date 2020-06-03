@@ -70,6 +70,8 @@ Release Date: 2020-06-08
 
 + [Working with Excel files in R programming](https://www.geeksforgeeks.org/working-with-excel-files-in-r-programming/)
 
++ [Principal Component Analysis with R programming](https://www.geeksforgeeks.org/principal-component-analysis-with-r-programming/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
