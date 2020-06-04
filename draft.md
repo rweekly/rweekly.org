@@ -70,6 +70,8 @@ Release Date: 2020-06-08
 
 + [Working with Excel files in R programming](https://www.geeksforgeeks.org/working-with-excel-files-in-r-programming/)
 
++ [How to create an R package, easy mode](https://www.amitkohli.com/2020/01/07/2020-01-07-how-to-create-an-r-package-my-way/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
