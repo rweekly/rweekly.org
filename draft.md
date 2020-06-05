@@ -72,6 +72,7 @@ Release Date: 2020-06-08
 
 + [How to create an R package, easy mode](https://www.amitkohli.com/2020/01/07/2020-01-07-how-to-create-an-r-package-my-way/)
 
++ [Fast RMarkdown theming with `thematic` and `bootstraplib`](https://www.tillac-data.com/2020-fast-rmd-theming-with-thematic-and-bootstraplib/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
