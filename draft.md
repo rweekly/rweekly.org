@@ -72,6 +72,8 @@ Release Date: 2020-06-08
 
 + [Principal Component Analysis with R programming](https://www.geeksforgeeks.org/principal-component-analysis-with-r-programming/)
 
++ [How to create an R package, easy mode](https://www.amitkohli.com/2020/01/07/2020-01-07-how-to-create-an-r-package-my-way/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
