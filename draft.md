@@ -11,6 +11,11 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast),
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
+### Black Lives Matter Support
+
++ [So you work in tech and want to support Black Lives Matter](https://dev.to/rctatman/so-you-work-in-tech-and-want-to-support-black-lives-matter-410m)
+
++ [#BlackLivesMatter: A joint statement by Forwards and R-Ladies](https://blog.rladies.org/post/blm/)
 
 ###  Highlight
 
@@ -43,6 +48,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/theRcast),
 ###  Resources
 
 + [Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui)
+
+![shinyimage](https://raw.githubusercontent.com/rweekly/image/master/2020-06-08/bs4Dash-fresh.png)
 
 + [Optimal workflows for package vignettes](https://blog.r-hub.io/2020/06/03/vignettes/)
 
@@ -110,6 +117,8 @@ Intersections
 ###  Videos and Podcasts
 
 + [T^4 #4: Introducing Byobu](http://dirk.eddelbuettel.com/blog/2020/05/31#004_byobu_intro)
+
++ [Why R? Understanding Word Embeddings](https://www.youtube.com/watch?v=ke03DGvT8uU&feature=youtu.be)
 
 ### Gist & Cookbook
 
