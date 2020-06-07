@@ -96,6 +96,8 @@ Intersections
 
 + [instaloadeR: R Wrapper for instaloader Python module to scrape instragram data](https://github.com/favstats/instaloadeR)
 
++ [logician: Prolog-style Logic Programming in R](https://github.com/dirkschumacher/logician)
+
 ### Updated Packages
 
 + [littler 0.3.10: Some more updates](http://dirk.eddelbuettel.com/blog/2020/06/03#littler-0.3.10)
