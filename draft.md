@@ -1,11 +1,9 @@
 ---
 layout: draft
-title: R Weekly 2020-22
+title: R Weekly 2020-24
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
-
-Release Date: 2020-06-01
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
@@ -36,11 +34,15 @@ Release Date: 2020-06-01
 
 ###  New Packages
 
++ [ganttrify](https://github.com/giocomai/ganttrify/) - A package and shiny app to facilitate the creation of nice-looking Gantt charts, commonly used in project proposals and project management.
+
+![A screenshot of ganttrify's shiny app](https://raw.githubusercontent.com/giocomai/ganttrify/master/man/figures/shiny_ganttrify_screenshot.png)
+
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
 
-+ [{strand}: A Framework for Investment Strategy Simulation](https://CRAN.R-project.org/package=strand)
+
 
 **BioC**
 
@@ -48,7 +50,7 @@ Release Date: 2020-06-01
 
 **GitHub or Bitbucket**
 
-
++ [logician: Prolog-style Logic Programming in R](https://github.com/dirkschumacher/logician)
 
 ### Updated Packages
 
