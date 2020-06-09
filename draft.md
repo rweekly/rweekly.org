@@ -46,7 +46,7 @@ image: https://rweekly.org/public/facebook.png
 
 **GitHub or Bitbucket**
 
-
++ [logician: Prolog-style Logic Programming in R](https://github.com/dirkschumacher/logician)
 
 ### Updated Packages
 
