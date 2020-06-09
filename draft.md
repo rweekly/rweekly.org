@@ -34,6 +34,10 @@ image: https://rweekly.org/public/facebook.png
 
 ###  New Packages
 
++ [ganttrify](https://github.com/giocomai/ganttrify/) - A package and shiny app to facilitate the creation of nice-looking Gantt charts, commonly used in project proposals and project management.
+
+![A screenshot of ganttrify's shiny app](https://raw.githubusercontent.com/giocomai/ganttrify/master/man/figures/shiny_ganttrify_screenshot.png)
+
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
