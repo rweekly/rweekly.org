@@ -58,6 +58,7 @@ image: https://rweekly.org/public/facebook.png
 
 ###  Videos and Podcasts
 
++ [Research Software Engineering (much of it in R) in the fight against COVID-19](https://us-rse.org/rse-stories/2020/richard-fitzjohn/)
 
 
 ### Gist & Cookbook
