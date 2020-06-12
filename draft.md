@@ -30,7 +30,7 @@ image: https://rweekly.org/public/facebook.png
 
 ###  Resources
 
-
+* [Chopping dates with santoku 0.4.0](http://hughjonesd.github.io/chopping-dates-with-santoku.html)
 
 ###  New Packages
 
