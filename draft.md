@@ -18,7 +18,7 @@ image: https://rweekly.org/public/facebook.png
 
 ### R in the Real World
 
-
++ [Shiny app to model nonpharmaceutical interventions, e.g. PPE, on COVID-19 in Iowa](covid-19.public-health.uiowa.edu)
 
 ###  R in Organizations
 
