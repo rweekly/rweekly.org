@@ -14,7 +14,7 @@ image: https://rweekly.org/public/facebook.png
 
 ### Insights
 
-
++ [AfricaR, MiR Community, and R-Ladies Global work together to bring useR! 2020 tutorials to the whole R community](https://africa-r.org/post/user2020/)
 
 ### R in the Real World
 
@@ -29,6 +29,8 @@ image: https://rweekly.org/public/facebook.png
 
 
 ###  Resources
+
++ [Registration form for MiR ("Minorities in R") slack workspace as a member or ally](https://docs.google.com/forms/d/1x3eFj0syKeFkEQVg1XNSDOFlbOCkIDseKxKeC8or1-U/viewform?edit_requested=true). MiR Community serves to bring together underrepresented minorities who use R within industry and academia.
 
 * [Chopping dates with santoku 0.4.0](http://hughjonesd.github.io/chopping-dates-with-santoku.html)
 
