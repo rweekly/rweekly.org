@@ -32,7 +32,6 @@ image: https://rweekly.org/public/facebook.png
 
 + [Registration form for MiR ("Minorities in R") slack workspace as a member or ally](https://docs.google.com/forms/d/1x3eFj0syKeFkEQVg1XNSDOFlbOCkIDseKxKeC8or1-U/viewform?edit_requested=true). MiR Community serves to bring together underrepresented minorities who use R within industry and academia.
 
-* [Chopping dates with santoku 0.4.0](http://hughjonesd.github.io/chopping-dates-with-santoku.html)
 
 ###  New Packages
 
