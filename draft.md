@@ -18,7 +18,7 @@ image: https://rweekly.org/public/facebook.png
 
 ### R in the Real World
 
-
++ [Shiny app to model nonpharmaceutical interventions, e.g. PPE, on COVID-19 in Iowa](covid-19.public-health.uiowa.edu)
 
 ###  R in Organizations
 
@@ -31,6 +31,8 @@ image: https://rweekly.org/public/facebook.png
 ###  Resources
 
 + [Registration form for MiR ("Minorities in R") slack workspace as a member or ally](https://docs.google.com/forms/d/1x3eFj0syKeFkEQVg1XNSDOFlbOCkIDseKxKeC8or1-U/viewform?edit_requested=true). MiR Community serves to bring together underrepresented minorities who use R within industry and academia.
+
+* [Chopping dates with santoku 0.4.0](http://hughjonesd.github.io/chopping-dates-with-santoku.html)
 
 ###  New Packages
 
@@ -70,6 +72,7 @@ image: https://rweekly.org/public/facebook.png
 
 ###  Tutorials
 
++ [Exploring xgboost models with {fastshap} in R](https://hfshr.netlify.app/posts/2020-06-07-variable-inportance-with-fastshap/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
