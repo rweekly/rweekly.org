@@ -40,6 +40,8 @@ image: https://rweekly.org/public/facebook.png
 
 ![A screenshot of ganttrify's shiny app](https://raw.githubusercontent.com/giocomai/ganttrify/master/man/figures/shiny_ganttrify_screenshot.png)
 
++ [rrapply](https://jorischau.github.io/rrapply/) - An extended version of base-R's `rapply`-function with several added features useful for nested list recursion.
+
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
@@ -74,6 +76,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [Exploring xgboost models with {fastshap} in R](https://hfshr.netlify.app/posts/2020-06-07-variable-inportance-with-fastshap/)
 
++ [Efficient list recursion with rrapply](https://jorischau.github.io/rrapply/articles/articles/when-to-use-rrapply.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
