@@ -70,6 +70,7 @@ image: https://rweekly.org/public/facebook.png
 
 ###  Tutorials
 
++ [Exploring xgboost models with {fastshap} in R](https://hfshr.netlify.app/posts/2020-06-07-variable-inportance-with-fastshap/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
