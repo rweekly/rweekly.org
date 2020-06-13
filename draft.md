@@ -48,6 +48,8 @@ image: https://rweekly.org/public/facebook.png
 
 + [Registration form for MiR ("Minorities in R") slack workspace as a member or ally](https://docs.google.com/forms/d/1x3eFj0syKeFkEQVg1XNSDOFlbOCkIDseKxKeC8or1-U/viewform?edit_requested=true). MiR Community serves to bring together underrepresented minorities who use R within industry and academia.
 
++ [Interactive tutorial version of "R basics: a practical introduction to R" workshop](https://ariel.rbind.io/workshop/rbasics/#interactive-tutorials)
+
 + [Market Analysis Course (Interactive, Free, and with a lot of R)](http://skranz.github.io//r/2020/06/10/MarketAnalysis.html)
 
 ###  New Packages
