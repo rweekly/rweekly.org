@@ -58,6 +58,8 @@ image: https://rweekly.org/public/facebook.png
 
 ![A screenshot of ganttrify's shiny app](https://raw.githubusercontent.com/giocomai/ganttrify/master/man/figures/shiny_ganttrify_screenshot.png)
 
++ [rrapply](https://jorischau.github.io/rrapply/) - An extended version of base-R's `rapply`-function with several added features useful for nested list recursion.
+
 + [El Greco color palette for R](https://www.markuslang.org/blog/archives/2020/06/09/el-greco-color-palette-for-r/)
 
 ![]()
@@ -111,6 +113,8 @@ image: https://rweekly.org/public/facebook.png
 ###  Tutorials
 
 + [Exploring xgboost models with {fastshap} in R](https://hfshr.netlify.app/posts/2020-06-07-variable-inportance-with-fastshap/)
+
++ [Efficient list recursion with rrapply](https://jorischau.github.io/rrapply/articles/articles/when-to-use-rrapply.html)
 
 + [Installation of R 4.0 on Ubuntu 20.04 LTS and tips for spatial packages](https://rtask.thinkr.fr/installation-of-r-4-0-on-ubuntu-20-04-lts-and-tips-for-spatial-packages/)
 
