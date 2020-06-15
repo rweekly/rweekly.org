@@ -7,10 +7,15 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
+This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the RWeekly team members and contributors.
 
 ###  Highlight
 
++ [AfricaR, MiR Community, and R-Ladies Global work together to bring useR! 2020 tutorials to the whole R community](https://africa-r.org/post/user2020/)
 
++ [the seven living generations in america](https://jtimm.net/2020/06/10/american-generations/)
+
++ [Let's move on from iris](https://www.garrickadenbuie.com/blog/lets-move-on-from-iris/)
 
 ### Insights
 
@@ -32,13 +37,13 @@ image: https://rweekly.org/public/facebook.png
 
 + [Code for a dynamic multilevel Bayesian model to predict US presidential elections (The Economist). Written in R and Stan.](https://github.com/TheEconomist/us-potus-model)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-06-15/2016-dem-plot.png)
 
 + [Interactive exploration of COVID-19 exit strategies](https://fabiandablander.com/r/Covid-Exit.html)
 
 + [the seven living generations in america](https://jtimm.net/2020/06/10/american-generations/)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-06-15/amgen-plot.png)
 
 ###  Resources
 
@@ -60,7 +65,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [El Greco color palette for R](https://www.markuslang.org/blog/archives/2020/06/09/el-greco-color-palette-for-r/)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-06-15/elgreco-pal.png)
 
 + [Evolve new colour palettes in R with evoPalette](http://gradientdescending.com/evolve-new-colour-palettes-in-r-with-evopalette/)
 
@@ -229,5 +234,3 @@ Events in 3 Months:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was today years old when I realised that by using four hashes at the start and at the end of the line you can create code sections. Forever gone are the days of frantic scrolling <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/mIXCMRZgXj">pic.twitter.com/mIXCMRZgXj</a></p>&mdash; Karolina Urbanska (@karo_urb) <a href="https://twitter.com/karo_urb/status/1271061743360528384?ref_src=twsrc%5Etfw">June 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi <a href="https://twitter.com/RStatsJobs?ref_src=twsrc%5Etfw">@RStatsJobs</a> , I&#39;m here to make your life easier🛀. Yup, I&#39;m you, but in bot form🤖.<br>I&#39;m going to retweet and report on available <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> related positions.<br>I would really appreciate your RT✌️<a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> <a href="https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw">@hadleywickham</a> <a href="https://twitter.com/juliasilge?ref_src=twsrc%5Etfw">@juliasilge</a> <a href="https://twitter.com/ledell?ref_src=twsrc%5Etfw">@ledell</a> <a href="https://twitter.com/visnut?ref_src=twsrc%5Etfw">@visnut</a> <a href="https://twitter.com/JennyBryan?ref_src=twsrc%5Etfw">@JennyBryan</a> <a href="https://twitter.com/RLadiesGlobal?ref_src=twsrc%5Etfw">@RLadiesGlobal</a></p>&mdash; RStatsJobsBot (@RStatsJobsBot) <a href="https://twitter.com/RStatsJobsBot/status/1271897810191990785?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
