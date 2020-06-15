@@ -26,7 +26,7 @@ image: https://rweekly.org/public/facebook.png
 
 ### R in the Real World
 
-+ [Shiny app to model nonpharmaceutical interventions, e.g. PPE, on COVID-19 in Iowa](covid-19.public-health.uiowa.edu)
++ [Shiny app to model nonpharmaceutical interventions, e.g. PPE, on COVID-19 in Iowa](https://covid-19.public-health.uiowa.edu)
 
 + [Portfolio simulations](https://osm.netlify.com/post/portfolio-simulations/)
 
