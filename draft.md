@@ -70,6 +70,7 @@ image: https://rweekly.org/public/facebook.png
 
 **CRAN**
 
++ [{precommit}: pre-commit hooks for R](https://lorenzwalthert.netlify.app/post/pre-commit-hooks-for-r/)
 
 
 **BioC**
