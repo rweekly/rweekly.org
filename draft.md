@@ -30,19 +30,15 @@ image: https://rweekly.org/public/facebook.png
 
 + [Portfolio simulations](https://osm.netlify.com/post/portfolio-simulations/)
 
++ [Code for a dynamic multilevel Bayesian model to predict US presidential elections (The Economist). Written in R and Stan.](https://github.com/TheEconomist/us-potus-model)
+
+![]()
+
 + [Interactive exploration of COVID-19 exit strategies](https://fabiandablander.com/r/Covid-Exit.html)
 
 + [the seven living generations in america](https://jtimm.net/2020/06/10/american-generations/)
 
 ![]()
-
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
 
 ###  Resources
 
@@ -51,6 +47,8 @@ image: https://rweekly.org/public/facebook.png
 + [Interactive tutorial version of "R basics: a practical introduction to R" workshop](https://ariel.rbind.io/workshop/rbasics/#interactive-tutorials)
 
 + [Market Analysis Course (Interactive, Free, and with a lot of R)](http://skranz.github.io//r/2020/06/10/MarketAnalysis.html)
+
++ [cranalerts: Get email alerts when a CRAN package gets updated](https://github.com/daattali/cranalerts)
 
 ###  New Packages
 
@@ -66,22 +64,49 @@ image: https://rweekly.org/public/facebook.png
 
 + [Evolve new colour palettes in R with evoPalette](http://gradientdescending.com/evolve-new-colour-palettes-in-r-with-evopalette/)
 
++ [{whiteboxR}: R frontend of a stand-alone executable command-line program called WhiteboxTools](https://github.com/giswqs/whiteboxR)
+
++ [{robservable}: Use Observable notebooks (or part of them) as htmlwidgets in R](https://github.com/juba/robservable)
+
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
 
 + [{precommit}: pre-commit hooks for R](https://lorenzwalthert.netlify.app/post/pre-commit-hooks-for-r/)
 
++ [{readsdr}: Translate Models from System Dynamics Software into 'R'](https://cran.r-project.org/package=readsdr/)
 
-**BioC**
++ [{datos} 0.3.0](https://cran.r-project.org/package=datos): Traduce al Español Varios Conjuntos de Datos de Práctica
 
++ [{gretlR} 0.1.0](https://cran.r-project.org/package=gretlR): Knit-Engine for 'Gretl'
 
++ [{gpindex} 0.1.1](https://cran.r-project.org/package=gpindex): Generalized Price and Quantity Indexes
+
++ [{ggdist} 2.1.1](https://cran.r-project.org/package=ggdist): Visualizations of Distributions and Uncertainty
+
++ [{asciichartr} 0.1.0](https://cran.r-project.org/package=asciichartr): Lightweight ASCII Line Graphs
+
++ [{AATtools} 0.0.1](https://cran.r-project.org/package=AATtools): Reliability and Scoring Routines for the Approach-Avoidance Task
+
++ [{tidygeoRSS} 0.0.1](https://cran.r-project.org/package=tidygeoRSS): Tidy GeoRSS
+
++ [{semnova} 0.1-5](https://cran.r-project.org/package=semnova): Latent Repeated Measures ANOVA
+
++ [{scoringutils} 0.1.0](https://cran.r-project.org/package=scoringutils): Utilities for Scoring and Assessing Predictions
+
++ [{Relectoral} 0.1.0](https://cran.r-project.org/package=Relectoral): Electoral Analysis
 
 **GitHub or Bitbucket**
 
 + [{logician}: Prolog-style Logic Programming in R](https://github.com/dirkschumacher/logician)
 
 + [{nakedpipe}: Pipe Into a Sequence of Calls Without Repeating the Pipe Symbol](https://github.com/moodymudskipper/nakedpipe)
+
++ [{ssrn}: Scan Statistics for Railway Network](https://github.com/uribo/ssrn)
+
+* [{vdemdata}: Load, explore and work with the most recent V-Dem (Varieties of Democracy) dataset](https://github.com/vdeminstitute/vdemdata)
+
++ [{mapboxapi}: R interface to Mapbox web services](https://github.com/walkerke/mapboxapi)
 
 ### Updated Packages
 
@@ -95,6 +120,35 @@ image: https://rweekly.org/public/facebook.png
 
 + [Version 0.1.4 of nnlib2Rcpp: a(nother) R package for Neural Networks](http://r-posts.com/version-0-1-4-of-nnlib2rcpp-another-r-package-for-neural-networks/)
 
++ [{infer 0.5.2}](https://cran.r-project.org/package=infer/)
+
++ [{ggfittext} 0.9.0](https://cran.r-project.org/package=ggfittext): Fit Text Inside a Box in 'ggplot2'
+
++ [{circlize} 0.4.10](https://cran.r-project.org/package=circlize): Circular Visualization
+
++ [{rayimage} 0.3.0](https://cran.r-project.org/package=rayimage): Image Processing for Simulated Cameras
+
+Studies
++ [{immunarch} 0.6.5](https://cran.r-project.org/package=immunarch): Bioinformatics Analysis of T-Cell and B-Cell Immune Repertoires
+
++ [{gwsem} 2.0.5](https://cran.r-project.org/package=gwsem): Genome-Wide Structural Equation Modeling
+
++ [{smoothedLasso} 1.3](https://cran.r-project.org/package=smoothedLasso): Smoothed LASSO Regression via Nesterov Smoothing
+
++ [{lpSolveAPI} 5.5.2.0-17.7](https://cran.r-project.org/package=lpSolveAPI): R Interface to 'lp_solve' Version 5.5.2.0
+
++ [{locStra} 1.4](https://cran.r-project.org/package=locStra): Fast Implementation of (Local) Population Stratification Methods
+
++ [{gRain} 1.3-5](https://cran.r-project.org/package=gRain): Graphical Independence Networks
+
++ [{xgboost} 1.1.1.1](https://cran.r-project.org/package=xgboost): Extreme Gradient Boosting
+
++ [{wikifacts} 0.3.0](https://cran.r-project.org/package=wikifacts): Generates Facts Sourced from the Wikipedia Main Page
+
++ [{gtsummary} 1.3.2](https://cran.r-project.org/package=gtsummary): Presentation-Ready Data Summary and Analytic Result Tables
+
++ [{salesforcer} 0.1.4](https://cran.r-project.org/package=salesforcer): An Implementation of 'Salesforce' APIs Using Tidy Principles
+
 ###  Videos and Podcasts
 
 + [Rcpp Webinar Recording Available](http://dirk.eddelbuettel.com/blog/2020/06/09#rcpp_webinar_june2020)
@@ -103,13 +157,9 @@ image: https://rweekly.org/public/facebook.png
 
 + [T^4 #5: More About Byobu](http://dirk.eddelbuettel.com/blog/2020/06/07#005_more_byobu)
 
-### Gist & Cookbook
-
-
-
 ### R Internationally
 
-
++ [R Markdownで出力結果を隠せるようにしてみた (minidownパッケージ)](https://blog.atusy.net/2020/06/14/minidown-with-result-folding/)
 
 ###  Tutorials
 
@@ -162,16 +212,11 @@ Events in 3 Months:
 
 + [e-RUM, 17th-20th June](https://2020.erum.io/), [virtual conference](https://2020.erum.io/#erumgoesvirtual). [Registration open, for free](https://www.eventbrite.it/e/e-rum2020-tickets-104546978828)
 
++ [86th TokyoR (Virtual) Meetup: June 27, 2020](https://tokyor.connpass.com/event/178741/)
+
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-
-### Datasets
-
-### Jobs
-
-
 
 
 ###  Call for Participation
@@ -180,3 +225,9 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was today years old when I realised that by using four hashes at the start and at the end of the line you can create code sections. Forever gone are the days of frantic scrolling <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/mIXCMRZgXj">pic.twitter.com/mIXCMRZgXj</a></p>&mdash; Karolina Urbanska (@karo_urb) <a href="https://twitter.com/karo_urb/status/1271061743360528384?ref_src=twsrc%5Etfw">June 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi <a href="https://twitter.com/RStatsJobs?ref_src=twsrc%5Etfw">@RStatsJobs</a> , I&#39;m here to make your life easier🛀. Yup, I&#39;m you, but in bot form🤖.<br>I&#39;m going to retweet and report on available <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> related positions.<br>I would really appreciate your RT✌️<a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> <a href="https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw">@hadleywickham</a> <a href="https://twitter.com/juliasilge?ref_src=twsrc%5Etfw">@juliasilge</a> <a href="https://twitter.com/ledell?ref_src=twsrc%5Etfw">@ledell</a> <a href="https://twitter.com/visnut?ref_src=twsrc%5Etfw">@visnut</a> <a href="https://twitter.com/JennyBryan?ref_src=twsrc%5Etfw">@JennyBryan</a> <a href="https://twitter.com/RLadiesGlobal?ref_src=twsrc%5Etfw">@RLadiesGlobal</a></p>&mdash; RStatsJobsBot (@RStatsJobsBot) <a href="https://twitter.com/RStatsJobsBot/status/1271897810191990785?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
