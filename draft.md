@@ -16,6 +16,17 @@ Release Date: 2020-00-00
 
 ### Insights
 
++ [Just Quickly: Removing Sawtooth Patterns in Line Graphs](https://www.njtierney.com/post/2020/06/14/jq-sawtooth/)
+
++ [Rcpp 1.0.5 in two+ weeks: Please help test](http://dirk.eddelbuettel.com/blog/2020/06/15#rcpp_1.0.5_testing)
+
++ [Logging in R: Why, When, and How](https://mathewanalytics.com/logging-in-r-why-when-and-how/)
+
++ [Searching a first name for a child](https://mvaugoyeau.netlify.com/post/first-name-search/)
+
++ [How does the pipe operator actually work?](https://thomasadventure.blog/posts/how-does-the-pipe-operator-actually-work/)
+
++ [overlap, overstreched](https://xianblog.wordpress.com/2020/06/15/overlap-overstreched/)
 
 
 ### R in the Real World
@@ -48,14 +59,17 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
++ [{lz4lite} - extremely fast compression with LZ4](https://coolbutuseless.github.io/2020/06/16/introducing-lz4lite-extremely-fast-compression-with-lz4/)
 
 
 ### Updated Packages
 
++ [RVowpalWabbit 0.0.14: More Keeping CRAN happy](http://dirk.eddelbuettel.com/blog/2020/06/14#rvowpalwabbit_0.0.14)
 
 
 ###  Videos and Podcasts
 
++ [ggplot2 Text Customization with ggtext | Data Visualization in R](https://www.programmingwithr.com/ggplot2-text-customization-with-ggtext-data-visualization-in-r/)
 
 
 ### Gist & Cookbook
@@ -68,7 +82,9 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Using the geofacet package to spatially arrange plots](http://r.iresmi.net/2020/06/15/using-the-geofacet-package-to-spatially-arrange-plots/)
 
++ [New NIMBLE cheatsheat available](https://r-nimble.org/new-nimble-cheatsheat-available)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -94,6 +110,7 @@ Events in 3 Months:
 
 ### Jobs
 
++ [From R Epidemics Consortium – RECON COVID-19 challenge  – Two Paid Consultant Positions Available](https://www.r-consortium.org/blog/2020/06/15/from-r-epidemics-consortium-recon-covid-19-challenge-two-paid-consultant-positions-available)
 
 
 
