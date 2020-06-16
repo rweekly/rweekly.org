@@ -69,7 +69,7 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
-+ [ggplot2 Text Customization with ggtext | Data Visualization in R](https://www.programmingwithr.com/ggplot2-text-customization-with-ggtext-data-visualization-in-r/)
++ [ggplot2 Text Customization with ggtext - Data Visualization in R](https://www.programmingwithr.com/ggplot2-text-customization-with-ggtext-data-visualization-in-r/)
 
 
 ### Gist & Cookbook
