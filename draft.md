@@ -31,6 +31,8 @@ Release Date: 2020-00-00
 
 ### R in the Real World
 
++ [Scheduling, Logging, and Visualizing SpeedTest Data](https://gilliganondata.netlify.app/post/scheduling-logging-and-visualizing-speedtest-data/)
+
 
 
 ###  R in Organizations
