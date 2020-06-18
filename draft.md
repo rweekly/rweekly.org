@@ -61,6 +61,8 @@ Release Date: 2020-00-00
 
 + [{lz4lite} - extremely fast compression with LZ4](https://coolbutuseless.github.io/2020/06/16/introducing-lz4lite-extremely-fast-compression-with-lz4/)
 
++ [Introducing hordes, a module that makes R available from NodeJS.](https://colinfay.me/hello-hordes/)
+
 
 ### Updated Packages
 
