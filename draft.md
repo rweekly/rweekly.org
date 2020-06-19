@@ -28,10 +28,14 @@ Release Date: 2020-00-00
 
 + [overlap, overstreched](https://xianblog.wordpress.com/2020/06/15/overlap-overstreched/)
 
++ [NWSL Mini-Previews: OL Reign, Portland Thorns, and Utah Royals FC](https://www.americansocceranalysis.com/home/2020/6/16/nwsl-mini-previews-ol-reign-portland-thorns-and-utah-royals-fc)
+
 
 ### R in the Real World
 
++ [Visualizing COVID cases in Belgium](https://bluegreen.ai/post/covid-cases-belgium/)
 
++ [Searching a first name for a child](https://mvaugoyeau.netlify.app/post/first-name-search/)
 
 ###  R in Organizations
 
@@ -87,6 +91,8 @@ Release Date: 2020-00-00
 + [Using the geofacet package to spatially arrange plots](http://r.iresmi.net/2020/06/15/using-the-geofacet-package-to-spatially-arrange-plots/)
 
 + [New NIMBLE cheatsheat available](https://r-nimble.org/new-nimble-cheatsheat-available)
+
++ [ {tidybayes} AND {ggdist} 2.1.1](https://blog.mjskay.com/2020/06/14/tidybayes-ggdist/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
