@@ -42,11 +42,14 @@ Release Date: 2020-00-00
 
 + [David Robinson’s R Programming Screencasts](https://paulvanderlaken.com/2020/06/16/david-robinsons-r-programming-screencasts/)
 
+
 ### R in the Real World
 
 + [Visualizing COVID cases in Belgium](https://bluegreen.ai/post/covid-cases-belgium/)
 
 + [Searching a first name for a child](https://mvaugoyeau.netlify.app/post/first-name-search/)
+
++ [ Bayesian Portfolio Optimization: a use case for RStan ](https://davidrmh.github.io/writing/bayesian_port_opt/bayesian_port.html)
 
 ###  R in Organizations
 
@@ -57,6 +60,8 @@ Release Date: 2020-00-00
 + [Critique of “Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period” — Part 2: Proxies for incidence of coronaviruses](https://radfordneal.wordpress.com/2020/06/17/critique-of-projecting-the-transmission-dynamics-of-sars-cov-2-through-the-postpandemic-period-part-2-proxies-for-incidence-of-coronaviruses/)
 
 + [Visualising the COVID-19 Pandemic](https://fabiandablander.com/r/Covid-Overview.html)
+
++ [Represent: geographical breakdown of a virtual seminar series](https://quantixed.org/2020/06/19/represent-geographical-breakdown-of-a-virtual-seminar-series/)
 
 ###  Resources
 
@@ -77,9 +82,9 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-+ [{lz4lite} - extremely fast compression with LZ4](https://coolbutuseless.github.io/2020/06/16/introducing-lz4lite-extremely-fast-compression-with-lz4/)
++ [{zstdlite} - fast, configurable, in-memory compression of numeric vectors with Zstandard](https://coolbutuseless.github.io/2020/06/19/introducing-zstdlite-fast-configurable-in-memory-compression-of-numeric-vectors-with-zstandard/)
 
-+ [Introducing hordes, a module that makes R available from NodeJS.](https://colinfay.me/hello-hordes/)
++ [hordes, a module that makes R available from NodeJS.](https://colinfay.me/hello-hordes/)
 
 + [Take a {ghdump} to download GitHub repos](https://www.rostrum.blog/2020/06/14/ghdump/)
 
