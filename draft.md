@@ -76,6 +76,9 @@ Release Date: 2020-00-00
 
 + [{mdthemes} is on CRAN: markdown powered themes for {ggplot2}](https://thomasadventure.blog/posts/mdthemes-is-on-cran-markdown-powered-themes-for-ggplot2/)
 
+![An example mdtheme plot with italics and bold in titles](https://cdn.jsdelivr.net/gh/rweekly/image/2020-06-22/mdthemes.png)
+
+
 **BioC**
 
 
