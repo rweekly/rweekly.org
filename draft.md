@@ -42,6 +42,7 @@ Release Date: 2020-00-00
 
 + [David Robinson’s R Programming Screencasts](https://paulvanderlaken.com/2020/06/16/david-robinsons-r-programming-screencasts/)
 
++ [Neat and tidy data exploration with list-columns and purrr](https://www.painblogr.org/2020-06-19-purring-through-exploratory-analyses) - 6/21/2020
 
 ### R in the Real World
 
@@ -49,7 +50,7 @@ Release Date: 2020-00-00
 
 + [Searching a first name for a child](https://mvaugoyeau.netlify.app/post/first-name-search/)
 
-+ [ Bayesian Portfolio Optimization: a use case for RStan ](https://davidrmh.github.io/writing/bayesian_port_opt/bayesian_port.html)
++ [Bayesian Portfolio Optimization: a use case for RStan](https://davidrmh.github.io/writing/bayesian_port_opt/bayesian_port.html)
 
 ###  R in Organizations
 
@@ -66,7 +67,6 @@ Release Date: 2020-00-00
 ###  Resources
 
 + [A very short introduction to Tidyverse](https://dominicroye.github.io/en/2020/a-very-short-introduction-to-tidyverse/)
-
 
 ###  New Packages
 
@@ -110,7 +110,7 @@ Release Date: 2020-00-00
 
 ### R Internationally
 
-
++ [Midi Player with R - Part 2 (French)](https://www.davidsolito.com/post/midiplayer-avec-r-part-2/)
 
 ###  Tutorials
 
@@ -119,6 +119,8 @@ Release Date: 2020-00-00
 + [New NIMBLE cheatsheat available](https://r-nimble.org/new-nimble-cheatsheat-available)
 
 + [ {tidybayes} AND {ggdist} 2.1.1](https://blog.mjskay.com/2020/06/14/tidybayes-ggdist/)
+
++ [Tidy Workflow with MplusAutomation](https://garberadamc.github.io/project-site/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -156,3 +158,5 @@ Events in 3 Months:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I realize I&#39;m probably the last horse crossing the finish line here but... can we talk about with() and pipe-unfriendly functions???<br><br>mtcars %&gt;%<br> with(lm(mpg ~ hp)) %&gt;%<br> summary()<br><br>Soooo satisfying! 🤩<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Kelly Bodwin (@KellyBodwin) <a href="https://twitter.com/KellyBodwin/status/1272730871561244675?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Inspired by <a href="https://twitter.com/_ColinFay?ref_src=twsrc%5Etfw">@_ColinFay</a>, I made a 30-day workout <a href="https://twitter.com/hashtag/shiny?src=hash&amp;ref_src=twsrc%5Etfw">#shiny</a> app based on my <a href="https://twitter.com/orangetheory?ref_src=twsrc%5Etfw">@orangetheory</a> workout logs posted on <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a>. <br>- 📱shinyMobile: Shiny package using <a href="https://twitter.com/hashtag/Framework7?src=hash&amp;ref_src=twsrc%5Etfw">#Framework7</a> by <a href="https://twitter.com/divadnojnarg?ref_src=twsrc%5Etfw">@divadnojnarg</a> <br>- 📊echarts4r: interactive <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> package by <a href="https://twitter.com/jdatap?ref_src=twsrc%5Etfw">@jdatap</a> <br>- ⏲️waiter: Loading screens by <a href="https://twitter.com/jdatap?ref_src=twsrc%5Etfw">@jdatap</a> <a href="https://t.co/Mmem49nzmt">pic.twitter.com/Mmem49nzmt</a></p>&mdash; Zhi Yang, PhD (@zhiiiyang) <a href="https://twitter.com/zhiiiyang/status/1273861829039550465?ref_src=twsrc%5Etfw">June 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a>,<a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://twitter.com/hashtag/rspatial?src=hash&amp;ref_src=twsrc%5Etfw">#rspatial</a> twitter. Want to quickly get colors for your plots and maps? I use palette_explorer() by Martijn Tennekes. With this function you call an awesome shiny app that lets you choose colors for different cases and provides the corresponding code. Outtake: <a href="https://t.co/9RkdI8CKb7">pic.twitter.com/9RkdI8CKb7</a></p>&mdash; Tobias Stalder (@toeb18) <a href="https://twitter.com/toeb18/status/1272986868976685056?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
