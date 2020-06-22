@@ -78,10 +78,90 @@ Release Date: 2020-00-00
 
 ![An example mdtheme plot with italics and bold in titles](https://cdn.jsdelivr.net/gh/rweekly/image/2020-06-22/mdthemes.png)
 
++ [{glmm} 1.4.2](https://cran.r-project.org/package=glmm): Generalized Linear Mixed Models via Monte Carlo Likelihood Approximation
++ [{FDboost} 0.3-3](https://cran.r-project.org/package=FDboost): Boosting Functional Regression Models
 
-**BioC**
++ [{gemtc} 0.8-5](https://cran.r-project.org/package=gemtc): Network Meta-Analysis Using Bayesian Methods
 
++ [{gRim} 0.2.3](https://cran.r-project.org/package=gRim): Graphical Interaction Models
 
++ [{Gammareg} 3.0](https://cran.r-project.org/package=Gammareg): Classic Gamma Regression: Joint Modeling of Mean and Shape Parameters
++ [{define} 0.2.9](https://cran.r-project.org/package=define): Create FDA-Style Data and Program Definitions
+
++ [{cutpointr} 1.0.32](https://cran.r-project.org/package=cutpointr): Determine and Evaluate Optimal Cutpoints in Binary Classification Tasks
+
++ [{BGVAR} 2.0.0](https://cran.r-project.org/package=BGVAR): Bayesian Global Vector Autoregressions
+
++ [{tilemaps} 0.1.0](https://cran.r-project.org/package=tilemaps): Generate Tile Maps
+
++ [{revulyticsR} 0.0.1](https://cran.r-project.org/package=revulyticsR): Connect to Your 'Revulytics' Data
+
++ [{doc2concrete} 0.4.6](https://cran.r-project.org/package=doc2concrete): Measuring Concreteness in Natural Language
+
++ [{rLFT} 1.0.0](https://cran.r-project.org/package=rLFT): Processing Linear Features
+
++ [{RcmdrPlugin.BWS1} 0.1-2](https://cran.r-project.org/package=RcmdrPlugin.BWS1): R Commander Plug-in for Case 1 (Object Case) Best-Worst Scaling
+
++ [{frechet} 0.1.0](https://cran.r-project.org/package=frechet): Statistical Analysis for Random Objects and Non-Euclidean Data
+
++ [{CFilt} 0.1.0](https://cran.r-project.org/package=CFilt): Collaborative Filtering by Reference Classes
+
++ [{anomalize} 0.2.1](https://cran.r-project.org/package=anomalize): Tidy Anomaly Detection
+
++ [{JMcmprsk} 0.9.8](https://cran.r-project.org/package=JMcmprsk): Joint Models for Longitudinal and Competing Risks Data
+
++ [{sigmajs} 0.1.5](https://cran.r-project.org/package=sigmajs): Interface to 'Sigma.js' Graph Visualization Library
+
++ [{yamlet} 0.4.8](https://cran.r-project.org/package=yamlet): Versatile Curation of Table Metadata
+
++ [{regress} 1.3-21](https://cran.r-project.org/package=regress): Gaussian Linear Models with Linear Covariance Structure
+
++ [{rbi.helpers} 0.3.2](https://cran.r-project.org/package=rbi.helpers): 'RBi' Helper Functions
+
++ [{spinifex} 0.2.0](https://cran.r-project.org/package=spinifex): Manual Tours, Manual Control of Dynamic Projections of Numeric Multivariate Data
++ [{selac} 1.7.5](https://cran.r-project.org/package=selac): Selection Models for Amino Acid and/or Codon Evolution
+
++ [{adjclust} 0.5.99](https://cran.r-project.org/package=adjclust): Adjacency-Constrained Clustering of a Block-Diagonal Similarity Matrix
+
++ [{treeheatr} 0.1.0](https://cran.r-project.org/package=treeheatr): Heatmap-Integrated Decision Tree Visualizations
+
++ [{WEGE} 0.1.0](https://cran.r-project.org/package=WEGE): A Metric to Rank Locations for Biodiversity Conservation
+
++ [{loon.ggplot} 1.0.0](https://cran.r-project.org/package=loon.ggplot): Making 'ggplot2' Plots Interactive with 'loon' and Vice Versa
+
++ [{ggrastr} 0.1.9](https://cran.r-project.org/package=ggrastr): Raster Layers for 'ggplot2'
+
++ [{bibliometrix} 3.0.2](https://cran.r-project.org/package=bibliometrix): Comprehensive Science Mapping Analysis
+
++ [{VFP} 1.3](https://cran.r-project.org/package=VFP): Variance Function Program
+
++ [{STB} 0.6.4](https://cran.r-project.org/package=STB): Simultaneous Tolerance Bounds
+
++ [{GomoGomonoMi} 0.1.0](https://cran.r-project.org/package=GomoGomonoMi): Animate Text using the 'Animate.css' Library
+
++ [{geodrawr} 1.0.1](https://cran.r-project.org/package=geodrawr): Making Geospatial Objects
+
++ [{extras} 0.0.1](https://cran.r-project.org/package=extras): Helper Functions for Bayesian Analyses
+
++ [{DysPIAData} 0.1.1](https://cran.r-project.org/package=DysPIAData): Background and Pathway Data Used in 'DysPIA'
+
++ [{bcfrailph} 0.1.0](https://cran.r-project.org/package=bcfrailph): Semiparametric Bivariate Correlated Frailty Model
+
++ [{SMDIC} 0.1.1](https://cran.r-project.org/package=SMDIC): Identification of Somatic Mutation-Driven Immune Cells
+
++ [{RSBJson} 1.1.2](https://cran.r-project.org/package=RSBJson): Handle R Requests from R Service Bus Applications with JSON Payloads
+
++ [{docinfeR} 2020.1.0](https://cran.r-project.org/package=docinfeR): Automatic Reporter for Inference Analysis
+
++ [{docdescriptR} 2020.1.0](https://cran.r-project.org/package=docdescriptR): Automatic Reporter for Descriptive Analysis
+
++ [{quint} 2.1.0](https://cran.r-project.org/package=quint): Qualitative Interaction Trees
+
++ [{huxtable} 5.0.0](https://cran.r-project.org/package=huxtable): Easily Create and Style Tables for LaTeX, HTML and Other Formats
+
++ [{brm} 1.1.1](https://cran.r-project.org/package=brm): Binary Regression Model
+
++ [{mds} 0.3.2](https://cran.r-project.org/package=mds): Medical Devices Surveillance
 
 **GitHub or Bitbucket**
 
