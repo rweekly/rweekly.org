@@ -20,6 +20,8 @@ This week’s release was curated by [Miles McBain](https://twitter.com/milesmcb
 
 + [Just Quickly: Removing Sawtooth Patterns in Line Graphs](https://www.njtierney.com/post/2020/06/14/jq-sawtooth/)
 
+![A ggplot with count on y, year on x, showing sharp yearly oscillation](https://cdn.jsdelivr.net/gh/rweekly/image/2020-06-22/sawtooth.png)
+
 + [Rcpp 1.0.5 in two+ weeks: Please help test](http://dirk.eddelbuettel.com/blog/2020/06/15#rcpp_1.0.5_testing)
 
 + [Logging in R: Why, When, and How](https://mathewanalytics.com/logging-in-r-why-when-and-how/)
@@ -46,6 +48,8 @@ This week’s release was curated by [Miles McBain](https://twitter.com/milesmcb
 
 + [Neat and tidy data exploration with list-columns and purrr](https://www.painblogr.org/2020-06-19-purring-through-exploratory-analyses) - 6/21/2020
 
+![Some dataframe columns being nested using tidyr, with picture of a vice tool, and the words 'cram it in!'](https://cdn.jsdelivr.net/gh/rweekly/image/2020-06-22/cram_it.png)
+
 ### R in the Real World
 
 + [Visualizing COVID cases in Belgium](https://bluegreen.ai/post/covid-cases-belgium/)
@@ -53,9 +57,6 @@ This week’s release was curated by [Miles McBain](https://twitter.com/milesmcb
 + [Searching a first name for a child](https://mvaugoyeau.netlify.app/post/first-name-search/)
 
 + [Bayesian Portfolio Optimization: a use case for RStan](https://davidrmh.github.io/writing/bayesian_port_opt/bayesian_port.html)
-
-###  R in Organizations
-
 
 
 ###  R in Academia
@@ -187,11 +188,15 @@ This week’s release was curated by [Miles McBain](https://twitter.com/milesmcb
 
 + [Impute missing data for #TidyTuesday voyages of captive Africans with tidymodels](https://juliasilge.com/blog/captive-africans-voyages/)
 
+![A ggplot histogram of slave liberations, with year on the x axis and 'Number of liberated individuals' on the y axis](https://cdn.jsdelivr.net/gh/rweekly/image/2020-06-22/liberated.png)
+
 + [Catch up on e-RUM 2020 on YouTube](https://www.youtube.com/channel/UCDOoQShiQHE7_C-wuLqFJ7w)
 
 ### R Internationally
 
 + [Midi Player with R - Part 2 (French)](https://www.davidsolito.com/post/midiplayer-avec-r-part-2/)
+
+![A ggplot of note durations, with duration start/end on the x axis and note name on the y axis](https://cdn.jsdelivr.net/gh/rweekly/image/2020-06-22/midi_player.png)
 
 ###  Tutorials
 
@@ -216,13 +221,9 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-
-### Datasets
-
 ### Jobs
 
 + [From R Epidemics Consortium – RECON COVID-19 challenge  – Two Paid Consultant Positions Available](https://www.r-consortium.org/blog/2020/06/15/from-r-epidemics-consortium-recon-covid-19-challenge-two-paid-consultant-positions-available)
-
 
 ###  Call for Participation
 
