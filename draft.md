@@ -14,7 +14,11 @@ This week’s release was curated by [Miles McBain](https://twitter.com/milesmcb
 
 ###  Highlight
 
++ [Using httpgd in VSCode: A web-based SVG graphics device](https://renkun.me/2020/06/16/using-httpgd-in-vscode-a-web-based-svg-graphics-device/)
 
++ [{mdthemes} is on CRAN: markdown powered themes for {ggplot2}](https://thomasadventure.blog/posts/mdthemes-is-on-cran-markdown-powered-themes-for-ggplot2/)
+
++ [Midi Player with R - Part 2 (French)](https://www.davidsolito.com/post/midiplayer-avec-r-part-2/)
 
 ### Insights
 
