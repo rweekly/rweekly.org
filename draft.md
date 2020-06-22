@@ -5,7 +5,9 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-00-00
+Release Date: 2020-06-22
+
+This week’s release was curated by [Miles McBain](https://twitter.com/milesmcbain), with help from the RWeekly team members and contributors.
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
@@ -177,8 +179,6 @@ Release Date: 2020-00-00
 
 + [shinymobile 0.7.0](https://rinterface.github.io/shinyMobile/news/index.html)
 
-
-
 ###  Videos and Podcasts
 
 + [ggplot2 Text Customization with ggtext - Data Visualization in R](https://www.programmingwithr.com/ggplot2-text-customization-with-ggtext-data-visualization-in-r/)
@@ -187,9 +187,7 @@ Release Date: 2020-00-00
 
 + [Impute missing data for #TidyTuesday voyages of captive Africans with tidymodels](https://juliasilge.com/blog/captive-africans-voyages/)
 
-### Gist & Cookbook
-
-
++ [Catch up on e-RUM 2020 on YouTube](https://www.youtube.com/channel/UCDOoQShiQHE7_C-wuLqFJ7w)
 
 ### R Internationally
 
@@ -207,16 +205,10 @@ Release Date: 2020-00-00
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
-###  R Project Updates
-
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
 
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [e-RUM, 17th-20th June](https://2020.erum.io/), [virtual conference](https://2020.erum.io/#erumgoesvirtual). [Registration open, for free](https://www.eventbrite.it/e/e-rum2020-tickets-104546978828)
 
 + [86th TokyoR (Virtual) Meetup: June 27, 2020](https://tokyor.connpass.com/event/178741/)
 
