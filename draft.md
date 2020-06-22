@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: R Weekly 2020-00
-description: Draft of the R Weekly
+description: Web SVG graphics device, markdown powered ggplot themes, playing Midi
 image: https://rweekly.org/public/facebook.png
 ---
 
