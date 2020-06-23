@@ -17,6 +17,7 @@ Release Date: 2020-00-00
 ### Insights
 
 
++ [Plotting heatmaps from big matrices in R](https://gdevailly.netlify.app/post/plotting-big-matrices-in-r/)
 
 ### R in the Real World
 
@@ -67,7 +68,7 @@ Release Date: 2020-00-00
 
 ### R Internationally
 
-
++ [Créer des Heatmaps à partir de grosses matrices en R](https://bioinfo-fr.net/creer-des-heatmaps-a-partir-de-grosses-matrices-en-r)
 
 ###  Tutorials
 
