@@ -48,6 +48,7 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
++ [goodpress](https://maelle.github.io/goodpress/): Write to WordPress, from R Markdown, with a modern stack.
 
 
 ### Updated Packages
