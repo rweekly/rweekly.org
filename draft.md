@@ -72,7 +72,9 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
-
++ [K-NN Classifier in R programming](https://www.geeksforgeeks.org/k-nn-classifier-in-r-programming/)
++ [Naive Bayes Classifier in R programming](https://www.geeksforgeeks.org/naive-bayes-classifier-in-r-programming/)
++ [Association Rule Mining in R programming](https://www.geeksforgeeks.org/association-rule-mining-in-r-programming/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
