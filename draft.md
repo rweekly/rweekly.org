@@ -1,9 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2020-24
+title: R Weekly 2020-00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
+
+Release Date: 2020-00-00
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
@@ -15,8 +17,11 @@ image: https://rweekly.org/public/facebook.png
 ### Insights
 
 
++ [Plotting heatmaps from big matrices in R](https://gdevailly.netlify.app/post/plotting-big-matrices-in-r/)
 
 ### R in the Real World
+
++ [Scheduling, Logging, and Visualizing SpeedTest Data](https://gilliganondata.netlify.app/post/scheduling-logging-and-visualizing-speedtest-data/)
 
 
 
@@ -34,10 +39,6 @@ image: https://rweekly.org/public/facebook.png
 
 ###  New Packages
 
-+ [ganttrify](https://github.com/giocomai/ganttrify/) - A package and shiny app to facilitate the creation of nice-looking Gantt charts, commonly used in project proposals and project management.
-
-![A screenshot of ganttrify's shiny app](https://raw.githubusercontent.com/giocomai/ganttrify/master/man/figures/shiny_ganttrify_screenshot.png)
-
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
@@ -50,7 +51,8 @@ image: https://rweekly.org/public/facebook.png
 
 **GitHub or Bitbucket**
 
-+ [logician: Prolog-style Logic Programming in R](https://github.com/dirkschumacher/logician)
++ [goodpress](https://maelle.github.io/goodpress/): Write to WordPress, from R Markdown, with a modern stack.
+
 
 ### Updated Packages
 
@@ -66,7 +68,7 @@ image: https://rweekly.org/public/facebook.png
 
 ### R Internationally
 
-
++ [Créer des Heatmaps à partir de grosses matrices en R](https://bioinfo-fr.net/creer-des-heatmaps-a-partir-de-grosses-matrices-en-r)
 
 ###  Tutorials
 
@@ -83,7 +85,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [e-RUM, 17th-20th June](https://2020.erum.io/), [virtual conference](https://2020.erum.io/#erumgoesvirtual). [Registration open, for free](https://www.eventbrite.it/e/e-rum2020-tickets-104546978828)
++ [86th TokyoR (Virtual) Meetup: June 27, 2020](https://tokyor.connpass.com/event/178741/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
