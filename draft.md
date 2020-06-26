@@ -19,6 +19,8 @@ Release Date: 2020-00-00
 
 + [Plotting heatmaps from big matrices in R](https://gdevailly.netlify.app/post/plotting-big-matrices-in-r/)
 
++ [{nakedpipe}: An alternative to using {magrittr}'s %>%](https://hfshr.netlify.app/posts/2020-06-21-penguins-and-nakedpipes/)
+
 ### R in the Real World
 
 + [Scheduling, Logging, and Visualizing SpeedTest Data](https://gilliganondata.netlify.app/post/scheduling-logging-and-visualizing-speedtest-data/)
