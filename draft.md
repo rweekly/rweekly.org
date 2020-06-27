@@ -9,6 +9,7 @@ Release Date: 2020-06-28
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
+This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr), with help from the RWeekly team members and contributors.
 
 ###  Highlight
 
@@ -20,11 +21,19 @@ Release Date: 2020-06-28
 
 ### R in the Real World
 
++ [PCA with Age of Empires II data](https://luisdva.github.io/rstats/aoe-PCA/)
+
+![pca-age-of-empires-2](https://raw.githubusercontent.com/rweekly/image/master/020-06-28/globpca.png)
+
++ [Performance Anxiety (Portfolio Analysis)](https://osm.netlify.com/post/performance-anxiety/)
+
++ [Processing NECTA Results in R](https://semba-blog.netlify.app/06/14/2020/processing-necta-results-in-r/)
+
 + [Flying Saucers and Bright Lights: A Data Visualization](http://www.deeplytrivial.com/2020/06/flying-saucers-and-bright-lights-data.html)
 
 + [Netflix vs Disney+. Who has more fresh titles?](https://r-posts.com/netflix-vs-disney-who-has-more-fresh-titles/)
 
-+ [PCA with Age of Empires II data](https://luisdva.github.io/rstats/aoe-PCA/)
++ [Finding Economic Articles with Data (2nd Update)](http://skranz.github.io//r/2020/06/25/FindingEconomicArticles3.html)
 
 ###  R in Organizations
 
@@ -38,17 +47,23 @@ Release Date: 2020-06-28
 
 + [New paper in Social Forces: Training Regimes and Skill Formation in France and Germany An Analysis of Change Between 1970 and 2010](http://elbersb.de/public/posts/france-germany/)
 
++ [Deep attractors: Where deep learning meets chaos](https://blogs.rstudio.com/tensorflow/posts/2020-06-24-deep-attractors)
+
+![deep-attractors-fnn](https://raw.githubusercontent.com/rweekly/image/master/020-06-28/fnn.png)
+
 ###  Resources
 
 + [Shiny app showing how much funding goes to police relative n Toronto](https://sharlagelfand.shinyapps.io/torontopolicebudget/) + (code)[https://github.com/sharlagelfand/torontopolicebudget]
-
-+ [Shiny app for auto-generating workout plans and extracting statistics from Orange Theory workout screenshots](https://zhiyang.shinyapps.io/otworkout/_w_51bf565f/) + (code)[https://github.com/zhiiiyang/OTworkout)
 
 + [May 2020: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2020/06/24/may-2020-top-40-new-cran-packages/)
 
 + [Tidy Workflow with MplusAutomation](https://garberadamc.github.io/project-site/)
 
 + [Visualizing covariance, variance, standard deviation, correlation](https://evamaerey.github.io/statistics/covariance_correlation.html#1)
+
+![varaince-visualization](https://raw.githubusercontent.com/rweekly/image/master/020-06-28/variance_steps_user_7_output-1.png)
+
++ [Analysis of Factorial Designs foR Psychologists](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists)
 
 ###  New Packages
 
@@ -88,29 +103,24 @@ Release Date: 2020-06-28
 
 + [Not So Standard Deviations Podcast Episode 109: Still Working From Home](https://www.youtube.com/watch?v=nOGY1PGgv3c)
 
-### Gist & Cookbook
-
-
 
 ### R Internationally
 
 + [Plotting heatmaps from big matrices in R (French)](https://bioinfo-fr.net/creer-des-heatmaps-a-partir-de-grosses-matrices-en-r)
 
+![heatmaps-big-matrices-pdf](https://raw.githubusercontent.com/rweekly/image/master/020-06-28/hm1_pdf.png)
+
 ###  Tutorials
 
-+ [https://mdneuzerling.com/post/upgrade-your-workflow-with-drake/](https://mdneuzerling.com/post/upgrade-your-workflow-with-drake/)
++ [Scheduling, Logging, and Visualizing SpeedTest Data](https://gilliganondata.netlify.app/post/scheduling-logging-and-visualizing-speedtest-data/)
+
+![logging-speedtest-shiny](https://raw.githubusercontent.com/rweekly/image/master/020-06-28/sniny-download.png)
 
 + [How to visualise the power of each effect in a meta-analysis](https://www.dsquintana.blog/meta-analysis-power-plot/)
-
-+ [Deep attractors: Where deep learning meets chaos](https://blogs.rstudio.com/tensorflow/posts/2020-06-24-deep-attractors)
 
 + [Consider a permutation test for a small pilot study](https://www.rdatagen.net/post/permutation-test-for-a-covid-19-pilot-nursing-home-study/)
 
 + [Speeding up your Continuous Integration Builds](https://www.jumpingrivers.com/blog/r-packages-travis-github-actions-rstudio/)
-
-+ [Performance Anxiety (Portfolio Analysis)](https://osm.netlify.com/post/performance-anxiety/)
-
-+ [Finding Economic Articles with Data (2nd Update)](http://skranz.github.io//r/2020/06/25/FindingEconomicArticles3.html)
 
 + [Estimating Group Differences in Network Models using Moderation](http://jmbh.github.io//Groupdifferences-via-Moderation/)
 
@@ -118,32 +128,18 @@ Release Date: 2020-06-28
 
 + [{nakedpipe}: An alternative to using {magrittr}'s %>%](https://hfshr.netlify.app/posts/2020-06-21-penguins-and-nakedpipes/)
 
-+ [Scheduling, Logging, and Visualizing SpeedTest Data](https://gilliganondata.netlify.app/post/scheduling-logging-and-visualizing-speedtest-data/)
-
-+ [Processing NECTA Results in R](https://semba-blog.netlify.app/06/14/2020/processing-necta-results-in-r/)
-
 + [23 RStudio Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/)
 
 + [Gradient shading with ggplot2](https://lenkiefer.com/2020/06/25/gradient-shading-with-ggplot2/)
-
-+ [PCA with Age of Empires II data](https://luisdva.github.io/rstats/aoe-PCA/)
-
-![]()
 
 + [Upgrade your workflow with drake](https://mdneuzerling.com/post/upgrade-your-workflow-with-drake/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
-###  R Project Updates
-
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
 
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [86th TokyoR (Virtual) Meetup: June 27, 2020](https://tokyor.connpass.com/event/178741/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -166,5 +162,5 @@ Events in 3 Months:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Me programming in R: I am so stupid. <br><br>Me ten minutes/days/weeks later: I am a genius. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Christina Knudson, PhD (@canoodleson) <a href="https://twitter.com/canoodleson/status/1274425536148844548?ref_src=twsrc%5Etfw">June 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">⭐️One of the best new RStudio features<br><br>The daily version of <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> IDE for <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> has a &quot;Command palette&quot; that lets us access features from a single place, similar to the one in VS Code.<br><br>imo this is the best UX feature since the Terminal was introduced. <a href="https://t.co/xOoTqGZYXo">pic.twitter.com/xOoTqGZYXo</a></p>&mdash; Jozef Hajnala (@jozefhajnala) <a href="https://twitter.com/jozefhajnala/status/1276236972613197824?ref_src=twsrc%5Etfw">June 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
