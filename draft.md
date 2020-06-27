@@ -48,6 +48,8 @@ Release Date: 2020-06-28
 
 + [Tidy Workflow with MplusAutomation](https://garberadamc.github.io/project-site/)
 
++ [Visualizing covariance, variance, standard deviation, correlation](https://evamaerey.github.io/statistics/covariance_correlation.html#1)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -65,6 +67,7 @@ Release Date: 2020-06-28
 
 + [goodpress](https://maelle.github.io/goodpress/): Write to WordPress, from R Markdown, with a modern stack.
 
++ [{thank}: Give thanks to the people](https://github.com/jimhester/thank)
 
 ### Updated Packages
 
@@ -120,6 +123,14 @@ Release Date: 2020-06-28
 + [Processing NECTA Results in R](https://semba-blog.netlify.app/06/14/2020/processing-necta-results-in-r/)
 
 + [23 RStudio Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/)
+
++ [Gradient shading with ggplot2](https://lenkiefer.com/2020/06/25/gradient-shading-with-ggplot2/)
+
++ [PCA with Age of Empires II data](https://luisdva.github.io/rstats/aoe-PCA/)
+
+![]()
+
++ [Upgrade your workflow with drake](https://mdneuzerling.com/post/upgrade-your-workflow-with-drake/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
