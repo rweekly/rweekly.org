@@ -23,7 +23,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [PCA with Age of Empires II data](https://luisdva.github.io/rstats/aoe-PCA/)
 
-![pca-age-of-empires-2](https://raw.githubusercontent.com/rweekly/image/master/020-06-28/globpca.png)
+![pca-age-of-empires-2](https://github.com/rweekly/image/blob/master/2020-06-28/globpca.png)
 
 + [Performance Anxiety (Portfolio Analysis)](https://osm.netlify.com/post/performance-anxiety/)
 
@@ -49,7 +49,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Deep attractors: Where deep learning meets chaos](https://blogs.rstudio.com/tensorflow/posts/2020-06-24-deep-attractors)
 
-![deep-attractors-fnn](https://raw.githubusercontent.com/rweekly/image/master/020-06-28/fnn.png)
+![deep-attractors-fnn](https://github.com/rweekly/image/blob/master/2020-06-28/fnn.png)
 
 ###  Resources
 
@@ -61,7 +61,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Visualizing covariance, variance, standard deviation, correlation](https://evamaerey.github.io/statistics/covariance_correlation.html#1)
 
-![varaince-visualization](https://raw.githubusercontent.com/rweekly/image/master/020-06-28/variance_steps_user_7_output-1.png)
+![varaince-visualization](https://github.com/rweekly/image/blob/master/2020-06-28/variance_steps_user_7_output-1.png)
 
 + [Analysis of Factorial Designs foR Psychologists](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists)
 
@@ -108,13 +108,13 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Plotting heatmaps from big matrices in R (French)](https://bioinfo-fr.net/creer-des-heatmaps-a-partir-de-grosses-matrices-en-r)
 
-![heatmaps-big-matrices-pdf](https://raw.githubusercontent.com/rweekly/image/master/020-06-28/hm1_pdf.png)
+![heatmaps-big-matrices-pdf](https://github.com/rweekly/image/blob/master/2020-06-28/hm1_pdf.png)
 
 ###  Tutorials
 
 + [Scheduling, Logging, and Visualizing SpeedTest Data](https://gilliganondata.netlify.app/post/scheduling-logging-and-visualizing-speedtest-data/)
 
-![logging-speedtest-shiny](https://raw.githubusercontent.com/rweekly/image/master/020-06-28/sniny-download.png)
+![logging-speedtest-shiny](https://github.com/rweekly/image/blob/master/2020-06-28/shiny-download.png)
 
 + [How to visualise the power of each effect in a meta-analysis](https://www.dsquintana.blog/meta-analysis-power-plot/)
 
