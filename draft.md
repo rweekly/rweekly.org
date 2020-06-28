@@ -142,6 +142,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ![heatmaps-big-matrices-pdf](https://raw.githubusercontent.com/rweekly/image/master/2020-06-28/hm1_pdf.png)
 
++ [ggplot2 で地図を描くとき sf 以外のオブジェクトも簡単に扱えるようになったので試してください (Japanese)](https://notchained.hatenablog.com/entry/2020/06/28/171014)
+
 ###  Tutorials
 
 + [Scheduling, Logging, and Visualizing SpeedTest Data](https://gilliganondata.netlify.app/post/scheduling-logging-and-visualizing-speedtest-data/)
