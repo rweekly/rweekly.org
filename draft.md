@@ -84,6 +84,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [{thank}: Give thanks to the people](https://github.com/jimhester/thank)
 
++ [{roughnet}: Using the java script library rough.js to draw sketchy, hand-drawn-like networks.](https://github.com/schochastics/roughnet)
+
 ### Updated Packages
 
 + [{recipes} 0.1.13](https://www.tidyverse.org/blog/2020/06/recipes-0-1-13/): An alternative method for creating and preprocessing design matrices that can be used for modeling or visualization
