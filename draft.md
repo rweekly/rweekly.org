@@ -13,11 +13,19 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ###  Highlight
 
++ [Scheduling, Logging, and Visualizing SpeedTest Data](https://gilliganondata.netlify.app/post/scheduling-logging-and-visualizing-speedtest-data/)
+
++ [R Communities in South Africa](https://www.r-consortium.org/blog/2020/06/23/r-communities-in-south-africa)
+
++ [Deep attractors: Where deep learning meets chaos](https://blogs.rstudio.com/tensorflow/posts/2020-06-24-deep-attractors)
+
 ### Insights
 
 + [R 4.0.2 now available](https://blog.revolutionanalytics.com/2020/06/r-402-now-available.html)
 
 + [Does your Data Science Team Deliver Durable Value?](https://blog.rstudio.com/2020/06/24/delivering-durable-value/)
+
++ [R Blogging on a Chromebook](https://seth-dobson.github.io/r-blogging-on-a-chromebook/)
 
 ### R in the Real World
 
@@ -34,6 +42,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 + [Netflix vs Disney+. Who has more fresh titles?](https://r-posts.com/netflix-vs-disney-who-has-more-fresh-titles/)
 
 + [Finding Economic Articles with Data (2nd Update)](http://skranz.github.io//r/2020/06/25/FindingEconomicArticles3.html)
+
++ [Fatal Shootings by U.S. Police Since 2015](https://isabella-b.com/blog/us-fatal-shootings-police/)
 
 ###  R in Organizations
 
@@ -65,35 +75,54 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Analysis of Factorial Designs foR Psychologists](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists)
 
++ [Intro to Hugo: The Masterchef of Layouts](https://timmastny.rbind.io/blog/intro-hugo-blogdown-chef/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
 
-+ [pointblank v0.4](https://randr.rocks/post/pointblank-0-4/)
-
-
-**BioC**
-
-
++ [{pointblank} 0.0.4](https://randr.rocks/post/pointblank-0-4/)
++ [{tidytuesdayR} 1.0.0](https://cran.r-project.org/package=tidytuesdayR): Access the Weekly 'TidyTuesday' Project Dataset
++ [{grobblR} 0.1.0](https://cran.r-project.org/package=grobblR): Creating Flexible, Reproducible 'PDF' Reports
++ [{tidySEM} 0.1.2](https://cran.r-project.org/package=tidySEM): Tidy Structural Equation Modeling
++ [{sever} 0.0.4](https://cran.r-project.org/package=sever): Customise 'Shiny' Disconnected Screens and Error Messages
++ [{colorDF} 0.1.0](https://cran.r-project.org/package=colorDF): Colorful Data Frames in R Terminal
++ [{epca} 1.0.0](https://cran.r-project.org/package=epca): Exploratory Principal Component Analysis
++ [{bayesbr} 0.0.0.1](https://cran.r-project.org/package=bayesbr): Beta Regression on a Bayesian Model
++ [{scrollrevealR} 0.1.0](https://cran.r-project.org/package=scrollrevealR): Animate 'shiny' Elements when They Scroll into View using the
+'scrollrevealjs' Library
++ [{mailtoR} 0.1.0](https://cran.r-project.org/package=mailtoR): Creates a Friendly User Interface for Emails Sending in 'shiny'
++ [{hmclearn} 0.0.3](https://cran.r-project.org/package=hmclearn): Fit Statistical Models Using Hamiltonian Monte Carlo
++ [{r2shortcode} 0.1](https://cran.r-project.org/package=r2shortcode): Shorten Package Function Names
++ [{panelr} 0.7.3](https://cran.r-project.org/package=panelr): Regression Models and Utilities for Repeated Measures and Panel
++ [{pdfminer} 1.0](https://cran.r-project.org/package=pdfminer): Read Portable Document Format (PDF) Files
++ [{modeltime} 0.0.1](https://cran.r-project.org/package=modeltime): The Tidymodels Extension for Time Series Modeling
 
 **GitHub or Bitbucket**
 
 + [goodpress](https://maelle.github.io/goodpress/): Write to WordPress, from R Markdown, with a modern stack.
-
 + [{thank}: Give thanks to the people](https://github.com/jimhester/thank)
-
 + [{roughnet}: Using the java script library rough.js to draw sketchy, hand-drawn-like networks.](https://github.com/schochastics/roughnet)
 
 ### Updated Packages
 
-+ [{recipes} 0.1.13](https://www.tidyverse.org/blog/2020/06/recipes-0-1-13/): An alternative method for creating and preprocessing design matrices that can be used for modeling or visualization
-
 + [{RcppSimdJson 0.0.6}(http://dirk.eddelbuettel.com/blog/2020/06/25#rcppsimdjson_0.0.6): Rcpp Bindings for the simdjson Header Library
-
-+ [{RcppGSL} 0.3.8])(http://dirk.eddelbuettel.com/blog/2020/06/21#rcppgsl_0.3.8): An interface from R to the vector and matrix classes of the GNU GSL
-
++ [{RcppGSL} 0.3.8](http://dirk.eddelbuettel.com/blog/2020/06/21#rcppgsl_0.3.8): An interface from R to the vector and matrix classes of the GNU GSL
++ [{littler} 0.3.11](http://dirk.eddelbuettel.com/blog/2020/06/26#littler-0.3.11): A simplified command-line interface for GNU R.
++ [{vdiffr} 0.3.2](https://cran.r-project.org/package=vdiffr): Visual Regression Testing and Graphical Diffing
++ [{ggiraph} 0.7.0](https://cran.r-project.org/package=ggiraph): Make 'ggplot2' Graphics Interactive
++ [{roxygen2} 7.1.1](https://cran.r-project.org/package=roxygen2): In-Line Documentation for R
++ [{robotstxt} 0.7.7](https://cran.r-project.org/package=robotstxt): A 'robots.txt' Parser and 'Webbot'/'Spider'/'Crawler'
++ [{ggpubr} 0.4.0](https://cran.r-project.org/package=ggpubr): 'ggplot2' Based Publication Ready Plots
++ [{inspectdf} 0.0.8](https://cran.r-project.org/package=inspectdf): Inspection, Comparison and Visualisation of Data Frames
++ [{flexdashboard} 0.5.2](https://cran.r-project.org/package=flexdashboard): R Markdown Format for Flexible Dashboards
++ [{DT} 0.14](https://cran.r-project.org/package=DT): A Wrapper of the JavaScript Library 'DataTables'
++ [{bookdown} 0.20](https://cran.r-project.org/package=bookdown): Authoring Books and Technical Documents with R Markdown
++ [{geojson} 0.3.4](https://cran.r-project.org/package=geojson): Classes for 'GeoJSON'
++ [{blogdown} 0.20](https://cran.r-project.org/package=blogdown): Create Blogs and Websites with R Markdown
++ [{shiny} 1.5.0](https://cran.r-project.org/package=shiny): Web Application Framework for R
 
 ###  Videos and Podcasts
 
@@ -104,7 +133,6 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 + [TidyX Episode 15: Juneteenth and Census Tables](https://www.youtube.com/watch?v=fnvetzLIuB4&t=121s)
 
 + [Not So Standard Deviations Podcast Episode 109: Still Working From Home](https://www.youtube.com/watch?v=nOGY1PGgv3c)
-
 
 ### R Internationally
 
@@ -128,13 +156,17 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Color Bars](https://quantixed.org/2020/06/23/color-bars/)
 
-+ [{nakedpipe}: An alternative to using {magrittr}'s %>%](https://hfshr.netlify.app/posts/2020-06-21-penguins-and-nakedpipes/)
++ [Penguins and nakedpipes](https://hfshr.netlify.app/posts/2020-06-21-penguins-and-nakedpipes/)
 
 + [23 RStudio Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/)
 
 + [Gradient shading with ggplot2](https://lenkiefer.com/2020/06/25/gradient-shading-with-ggplot2/)
 
 + [Upgrade your workflow with drake](https://mdneuzerling.com/post/upgrade-your-workflow-with-drake/)
+
++ [Riddler: Can You Just Keep Turning?](https://joshuacook.netlify.app/post/riddler-just-keep-turning/)
+
++ [The mr_uplift package in R: A Practitioners Guide to Trade-Offs in Uplift Models](https://scweiss.blogspot.com/2020/06/the-mruplift-package-in-r-practitioners.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -148,15 +180,7 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
-
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
