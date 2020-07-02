@@ -68,6 +68,7 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [word2vec in R](https://www.bnosac.be/index.php/blog/100-word2vec-in-R)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
