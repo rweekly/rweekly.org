@@ -42,6 +42,9 @@ Release Date: 2020-00-00
 
 **CRAN**
 
++ [{flightplot} 0.1.0](https://cran.r-project.org/package=flightplot): Plot airplane flight paths on maps
+
+
 
 
 **BioC**
