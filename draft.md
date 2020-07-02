@@ -32,7 +32,9 @@ Release Date: 2020-00-00
 
 ###  Resources
 
++ [ggplot2 Theme Elements Reference Sheet](https://isabella-b.com/blog/ggplot2-theme-elements-reference/)
 
+![]()
 
 ###  New Packages
 
@@ -48,11 +50,19 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
++ [{terse}: Terse output for nested lists and data.frames](https://coolbutuseless.github.io/2020/07/01/introducing-terse-a-package-for-compact-output-of-lists-and-data.frames/)
 
++ [{rollR}: R package inspired from RPGs to make all sorts of dice rolls](https://github.com/Felixmil/rollR)
+
++ [{ptvapi}: Unofficial R wrapper for the Public Transport Victoria (PTV) timetable API](https://github.com/mdneuzerling/ptvapi/)
+
++ [{AfricaCountryBins}: Create bined heatmaps of the countries in Africa](https://github.com/delabj/AfricaCountryBins)
+
++ [{pelotonR}: Provide users with simple access to the Peloton API through R](https://lgellis.github.io/pelotonR/)
 
 ### Updated Packages
 
-
++ [{actel}: Standardised analysis of acoustic telemetry data from fish moving through receiver arrays ](https://github.com/hugomflavio/actel)
 
 ###  Videos and Podcasts
 
@@ -69,6 +79,12 @@ Release Date: 2020-00-00
 ###  Tutorials
 
 + [word2vec in R](https://www.bnosac.be/index.php/blog/100-word2vec-in-R)
+
++ [Charting the CMV Awareness Gap](https://seth-dobson.github.io/charting-the-cmv-awareness-gap/)
+
++ [MLOps with GitHub Actions and R](https://mdneuzerling.com/post/mlops-with-github-actions-and-r/)
+
++ [valueBoxes and Sparklines](http://jkunst.com/blog/posts/2020-06-26-valuebox-and-sparklines/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
