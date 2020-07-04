@@ -7,7 +7,7 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2020-00-00
 
-+ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
++ How to have (my) content shared by R Weekly?https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly
 
 
 ###  Highlight
@@ -81,8 +81,6 @@ Release Date: 2020-00-00
 + [A Social Network Simulation In The Tidyverse](https://www.statworx.com/de/blog/a-social-network-simulation-in-the-tidyverse/)
 
 + [ggplot2: Box Plots](https://blog.rsquaredacademy.com/ggplot2-box-plots/)
-
-+ [R tips and tricks: On-screen colors](https://eranraviv.com/r-tips-tricks-screen-colors/)
 
 
 ###  New Packages
