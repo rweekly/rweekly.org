@@ -62,11 +62,13 @@ Release Date: 2020-00-00
 
 + [Power Analysis by Data Simulation in R - Part I: Theoretical introduction to simulation](https://julianquandt.com/post/power-analysis-by-data-simulation-in-r-part-i/)
 
++ [Power Analysis by Data Simulation in R - Part II](https://julianquandt.com/post/power-analysis-by-data-simulation-in-r-part-ii/)
+
++ [Power Analysis by Data Simulation in R - Part III](https://julianquandt.com/post/power-analysis-by-data-simulation-in-r-part-iii/)
+
 + [Using Pyomo from R through the magic of Reticulate](http://www.notesofdabbler.com/2020/07/01/rpyomo/)
 
 + [A Social Network Simulation In The Tidyverse](https://www.statworx.com/de/blog/a-social-network-simulation-in-the-tidyverse/)
-
-+ [Analysing IPL matches using Cricsheet data - Part 1](https://www.radmuzom.com/2018/01/01/analysing-ipl-matches-using-cricsheet-data-part-1/)
 
 + [ggplot2: Box Plots](https://blog.rsquaredacademy.com/ggplot2-box-plots/)
 
@@ -90,21 +92,19 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-+ + [{simplefortran}: small demo package for calling other languages from R:](https://github.com/coolbutuseless/simplefortran)
++ [{simplefortran}: small demo package for calling other languages from R:](https://github.com/coolbutuseless/simplefortran)
 
-[{t{mlsauce}: Miscellaneous Statistical/Machine learning stuff.](https://thierrymoudiki.github.io/blog/2020/07/03/misc/mlsauce-new?fbclid=IwAR0uDHLoGAh7Mor0r_rEdslcRt43d2G8VcVKEL9kT-ce4QYA8SgMvwdRNq8)
++ [{mlsauce}: Miscellaneous Statistical/Machine learning stuff.](https://thierrymoudiki.github.io/blog/2020/07/03/misc/mlsauce-new?fbclid=IwAR0uDHLoGAh7Mor0r_rEdslcRt43d2G8VcVKEL9kT-ce4QYA8SgMvwdRNq8)
 
-+ [eroughnet}: Using the java script library rough.js to draw sketchy, hand-drawn-like networks](https://github.com/schochastics/roughnet)
++ [{roughnet}: Using the java script library rough.js to draw sketchy, hand-drawn-like networks](https://github.com/schochastics/roughnet)
 
-+ [{rse}: Terse output for nested lists and data.frames](https://coolbutuseless.github.io/2020/07/01/introducing-terse-a-package-for-compact-output-of-lists-and-data.frames/)
++ [{terse}: Terse output for nested lists and data.frames](https://coolbutuseless.github.io/2020/07/01/introducing-terse-a-package-for-compact-output-of-lists-and-data.frames/)
 
 + [{rollR}: R package inspired from RPGs to make all sorts of dice rolls](https://github.com/Felixmil/rollR)
 
 + [{ptvapi}: Unofficial R wrapper for the Public Transport Victoria (PTV) timetable API](https://github.com/mdneuzerling/ptvapi/)
 
 + [{AfricaCountryBins}: Create bined heatmaps of the countries in Africa](https://github.com/delabj/AfricaCountryBins)
-
-+ [{grobblR}](: create flexible, reproducible PDF reports comprised of aesthetically pleasing tables, images, plots and/or texthttps://github.com/calvinmfloyd/grobblR)
 
 + [{pelotonR}: Provide users with simple access to the Peloton API through R](https://lgellis.github.io/pelotonR/)
 
@@ -116,9 +116,9 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
-+ [EaNeural Networks using Tensorflow via Keras in R - Video](http://r-addict.com/2020/06/29/Keras-Video.html)
++ [Neural Networks using Tensorflow via Keras in R - Video](http://r-addict.com/2020/06/29/Keras-Video.html)
 
-+ [siest ever authentication and user admin for shiny](https://www.tychobra.com/posts/2020-06-30-introducing-polished-tech/)
++ [Easiest ever authentication and user admin for shiny](https://www.tychobra.com/posts/2020-06-30-introducing-polished-tech/)
 
 + [110 - Who Needs Data?](http://nssdeviations.com/)
 
@@ -132,12 +132,6 @@ Release Date: 2020-00-00
 
 
 ###  Tutorials
-
-+ [Learn R the Right Way in 5 Steps](https://www.dataquest.io/blog/learn-r-for-data-science/)
-
-+ [R Functions Tutorial: Writing, Scoping, Vectorizing, and More!](https://www.dataquest.io/blog/r-functions-tutorial/)
-
-+ [How to Use If-Else Statements and Loops in R](https://www.dataquest.io/blog/control-structures-in-r-using-loops-and-if-else-statements/)
 
 + [A bootstrap example on how to create a paid data science app (DSaaS) with Shiny, Paddle, Firebase and Cloud Functions](https://code.markedmondson.me/datascience-aas/)
 
