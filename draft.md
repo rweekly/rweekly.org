@@ -20,6 +20,11 @@ Release Date: 2020-00-00
 
 ### R in the Real World
 
++ [Future-Proofing Your Data Science Team](https://blog.rstudio.com/2020/06/30/future-proofing-your-data-science-team/)
+
++ [LTV prediction for a recurring subscription with R](https://www.analyzecore.com/2018/09/19/ltv-prediction-for-a-recurring-subscription-with-r/)
+
++ [Time Series Analysis: Forecasting Sales Data with Autoregressive (AR) Models](https://blog.ephorie.de/time-series-analysis-forecasting-sales-data-with-autoregressive-ar-models)
 
 
 ###  R in Organizations
@@ -28,13 +33,45 @@ Release Date: 2020-00-00
 
 ###  R in Academia
 
++ [My Physiological Response to my PhD Defence: Acute and Chronic](https://www.granvillematheson.com/post/self-portrait/)
+
++ [Open-Source Authorship of Data Science in Education Using R](https://rviews.rstudio.com/2020/07/01/open-source-authorship-of-data-science-in-education-using-r/)
 
 
 ###  Resources
 
-+ [ggplot2 Theme Elements Reference Sheet](https://isabella-b.com/blog/ggplot2-theme-elements-reference/)
++ [Estimating Runtime for an R script](https://lgreski.github.io/dsdepot/2020/07/01/estimating-R-script-runtime.html)
 
-![]()
++ [PUZZLING REGRESSION ANATOMY](http://skranz.github.io//r/2020/07/01/PuzzlingRegressionAnatomy.html)
+
++ [R Objects, S Objects, and Lexical Scoping](https://lgreski.github.io/dsdepot/2020/06/28/rObjectsSObjectsAndScoping.html)
+
++ [The Bechdel test and the X-Mansion with tidymodels and #TidyTuesday](https://juliasilge.com/blog/uncanny-xmen/)
+
++ [IMPRESSIONS FROM e-Rum2020](https://mirai-solutions.ch/news/2020/06/30/erum2020-impressions/)
+
++ [Le Monde puzzle #1149](https://xianblog.wordpress.com/2020/07/01/le-monde-puzzle-1149/)
+
++ [one bridge further](https://xianblog.wordpress.com/2020/06/30/43135/)
+
++ [Simulating Spectroscopic Data Part 1](https://chemospec.org/2020/06/28/p15/)
+
++ [Tip (4), Variable Explorer for both R and Python in RStudio](https://costaleconomist.blogspot.com/2020/07/tip-4-variable-explorer-for-both-r-and.html)
+
++ [Announcing Public Package Manager and v1.1.6](https://blog.rstudio.com/2020/07/01/announcing-public-package-manager/)
+
++ [Power Analysis by Data Simulation in R - Part I: Theoretical introduction to simulation](https://julianquandt.com/post/power-analysis-by-data-simulation-in-r-part-i/)
+
++ [Using Pyomo from R through the magic of Reticulate](http://www.notesofdabbler.com/2020/07/01/rpyomo/)
+
++ [A Social Network Simulation In The Tidyverse](https://www.statworx.com/de/blog/a-social-network-simulation-in-the-tidyverse/)
+
++ [Analysing IPL matches using Cricsheet data - Part 1](https://www.radmuzom.com/2018/01/01/analysing-ipl-matches-using-cricsheet-data-part-1/)
+
++ [ggplot2: Box Plots](https://blog.rsquaredacademy.com/ggplot2-box-plots/)
+
++ [R tips and tricks: On-screen colors](https://eranraviv.com/r-tips-tricks-screen-colors/)
+
 
 ###  New Packages
 
@@ -53,7 +90,9 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-+ [{terse}: Terse output for nested lists and data.frames](https://coolbutuseless.github.io/2020/07/01/introducing-terse-a-package-for-compact-output-of-lists-and-data.frames/)
++ [{teroughnet}: Using the java script library rough.js to draw sketchy, hand-drawn-like networks](https://github.com/schochastics/roughnet)
+
++ [{rse}: Terse output for nested lists and data.frames](https://coolbutuseless.github.io/2020/07/01/introducing-terse-a-package-for-compact-output-of-lists-and-data.frames/)
 
 + [{rollR}: R package inspired from RPGs to make all sorts of dice rolls](https://github.com/Felixmil/rollR)
 
@@ -61,14 +100,23 @@ Release Date: 2020-00-00
 
 + [{AfricaCountryBins}: Create bined heatmaps of the countries in Africa](https://github.com/delabj/AfricaCountryBins)
 
++ [{grobblR}](: create flexible, reproducible PDF reports comprised of aesthetically pleasing tables, images, plots and/or texthttps://github.com/calvinmfloyd/grobblR)
+
 + [{pelotonR}: Provide users with simple access to the Peloton API through R](https://lgellis.github.io/pelotonR/)
 
 ### Updated Packages
 
 + [{actel}: Standardised analysis of acoustic telemetry data from fish moving through receiver arrays ](https://github.com/hugomflavio/actel)
 
++ [poorman: Version 0.2.1 Release](https://nathaneastwood.github.io/2020/07/01/poorman-version-0.2.1-release/)
+
 ###  Videos and Podcasts
 
++ [EaNeural Networks using Tensorflow via Keras in R - Video](http://r-addict.com/2020/06/29/Keras-Video.html)
+
++ [siest ever authentication and user admin for shiny](https://www.tychobra.com/posts/2020-06-30-introducing-polished-tech/)
+
++ [110 - Who Needs Data?](http://nssdeviations.com/)
 
 
 ### Gist & Cookbook
@@ -81,13 +129,17 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Learn R the Right Way in 5 Steps](https://www.dataquest.io/blog/learn-r-for-data-science/)
+
++ [R Functions Tutorial: Writing, Scoping, Vectorizing, and More!](https://www.dataquest.io/blog/r-functions-tutorial/)
+
++ [How to Use If-Else Statements and Loops in R](https://www.dataquest.io/blog/control-structures-in-r-using-loops-and-if-else-statements/)
+
++ [A bootstrap example on how to create a paid data science app (DSaaS) with Shiny, Paddle, Firebase and Cloud Functions](https://code.markedmondson.me/datascience-aas/)
+
++ [12 R Markdown Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/r-markdown-tips-tricks-and-shortcuts/)
+
 + [word2vec in R](https://www.bnosac.be/index.php/blog/100-word2vec-in-R)
-
-+ [Charting the CMV Awareness Gap](https://seth-dobson.github.io/charting-the-cmv-awareness-gap/)
-
-+ [MLOps with GitHub Actions and R](https://mdneuzerling.com/post/mlops-with-github-actions-and-r/)
-
-+ [valueBoxes and Sparklines](http://jkunst.com/blog/posts/2020-06-26-valuebox-and-sparklines/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -121,3 +173,9 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A short thread of <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> resources I have made freely available online! First off, an introductory textbook on statistics with R pitched at beginners focusing on base R rather than tidyverse tools. <a href="https://t.co/gQPX26lRrB">https://t.co/gQPX26lRrB</a></p>&mdash; Danielle Navarro (@djnavarro) <a href="https://twitter.com/djnavarro/status/1278470778879569920?ref_src=twsrc%5Etfw">July 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">sometimes you just need the comforting warm embrace of rstudio <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/8bygY4vAYI">pic.twitter.com/8bygY4vAYI</a></p>&mdash; Mandy Norrbo (@MandyNorrbo) <a href="https://twitter.com/MandyNorrbo/status/1278655165407649798?ref_src=twsrc%5Etfw">July 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📈This chart is my only response everytime I see someone claiming &quot;no one&quot; uses R<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> <a href="https://t.co/jzvsNxvByj">pic.twitter.com/jzvsNxvByj</a></p>&mdash; Jozef Hajnala (@jozefhajnala) <a href="https://twitter.com/jozefhajnala/status/1278769817303027715?ref_src=twsrc%5Etfw">July 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
