@@ -90,7 +90,11 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-+ [{teroughnet}: Using the java script library rough.js to draw sketchy, hand-drawn-like networks](https://github.com/schochastics/roughnet)
++ + [{simplefortran}: small demo package for calling other languages from R:](https://github.com/coolbutuseless/simplefortran)
+
+[{t{mlsauce}: Miscellaneous Statistical/Machine learning stuff.](https://thierrymoudiki.github.io/blog/2020/07/03/misc/mlsauce-new?fbclid=IwAR0uDHLoGAh7Mor0r_rEdslcRt43d2G8VcVKEL9kT-ce4QYA8SgMvwdRNq8)
+
++ [eroughnet}: Using the java script library rough.js to draw sketchy, hand-drawn-like networks](https://github.com/schochastics/roughnet)
 
 + [{rse}: Terse output for nested lists and data.frames](https://coolbutuseless.github.io/2020/07/01/introducing-terse-a-package-for-compact-output-of-lists-and-data.frames/)
 
