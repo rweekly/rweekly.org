@@ -29,7 +29,11 @@ Release Date: 2020-00-00
 
 ###  R in Organizations
 
++ [HYPERAUTOMATION – THE KEY TO COMPETITIVE ADVANTAGE](https://www.mango-solutions.com/hyperautomation-the-key-to-competitive-advantage/)
 
++ [Tidymodels Internship](https://education.rstudio.com/blog/2020/06/tidymodels-internship/)
+
++ [Accessibility Internship](https://education.rstudio.com/blog/2020/07/a11y-midterm/)
 
 ###  R in Academia
 
@@ -39,6 +43,12 @@ Release Date: 2020-00-00
 
 
 ###  Resources
+
++ [Visualizing Principal Components for Images](https://www.iamnagdev.com/?p=879)
+
++ [Working with Spreadsheets](https://education.rstudio.com/blog/2020/06/working-with-spreadsheets/)
+
++ [Twitter's Favorite Lesser Known Packages](http://eringrand.github.io/fave_r_functions/)
 
 + [Estimating Runtime for an R script](https://lgreski.github.io/dsdepot/2020/07/01/estimating-R-script-runtime.html)
 
@@ -92,13 +102,13 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-+ [{simplefortran}: small demo package for calling other languages from R:](https://github.com/coolbutuseless/simplefortran)
++ [{sisimplec, simplecall, simplercpp}: demo packages incorporating C code](https://coolbutuseless.github.io/2020/06/30/simplec-simplecall-simplercpp-demo-packages-incorporating-c-code/)
+
++ [{mplefortran}: small demo package for calling other languages from R:](https://github.com/coolbutuseless/simplefortran)
 
 + [{mlsauce}: Miscellaneous Statistical/Machine learning stuff.](https://thierrymoudiki.github.io/blog/2020/07/03/misc/mlsauce-new?fbclid=IwAR0uDHLoGAh7Mor0r_rEdslcRt43d2G8VcVKEL9kT-ce4QYA8SgMvwdRNq8)
 
-+ [{roughnet}: Using the java script library rough.js to draw sketchy, hand-drawn-like networks](https://github.com/schochastics/roughnet)
-
-+ [{terse}: Terse output for nested lists and data.frames](https://coolbutuseless.github.io/2020/07/01/introducing-terse-a-package-for-compact-output-of-lists-and-data.frames/)
++ [{rorse}: Terse output for nested lists and data.frames](https://coolbutuseless.github.io/2020/07/01/introducing-terse-a-package-for-compact-output-of-lists-and-data.frames/)
 
 + [{rollR}: R package inspired from RPGs to make all sorts of dice rolls](https://github.com/Felixmil/rollR)
 
@@ -133,11 +143,11 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
-+ [A bootstrap example on how to create a paid data science app (DSaaS) with Shiny, Paddle, Firebase and Cloud Functions](https://code.markedmondson.me/datascience-aas/)
++ + [Learning learnr](https://education.rstudio.com/blog/2020/07/learning-learnr/)
 
-+ [12 R Markdown Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/r-markdown-tips-tricks-and-shortcuts/)
+[A bootstrap example on how to create a paid data science app (DSaaS) with Shiny, Paddle, Firebase and Cloud Functions](https://code.markedmondson.me/datascience-aas/)
 
-+ [word2vec in R](https://www.bnosac.be/index.php/blog/100-word2vec-in-R)
++ [12rd2vec in R](https://www.bnosac.be/index.php/blog/100-word2vec-in-R)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -161,7 +171,6 @@ Events in 3 Months:
 ### Datasets
 
 ### Jobs
-
 
 
 
