@@ -68,6 +68,8 @@ Release Date: 2020-00-00
 
 + [The Bechdel test and the X-Mansion with tidymodels and #TidyTuesday](https://juliasilge.com/blog/uncanny-xmen/)
 
+![bayesian takes on Dr Silge's analysis](https://raw.githubusercontent.com/rweekly/image/master/2020-07-03/xmen_plot_scaled.png)
+
 + [Uncanny X-Men: Bayesian take on Dr. Silge’s analysis](https://joshuacook.netlify.app/post/uncanny-x-men-bayesian-analysis/)
 
 + [Le Monde puzzle #1149](https://xianblog.wordpress.com/2020/07/01/le-monde-puzzle-1149/)
@@ -103,7 +105,9 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-+ [{nhlapi}: Exploring and plotting positional ice hockey data](https://jozef.io/r400-nhlapi-positional-data/)
++ ![nhlapi shot chart](https://raw.githubusercontent.com/rweekly/image/master/2020-07-03/ice_hockey_scaled.png)
+
+[{nhlapi}: Exploring and plotting positional ice hockey data](https://jozef.io/r400-nhlapi-positional-data/)
 
 + [{sisimplec, simplecall, simplercpp}: demo packages incorporating C code](https://coolbutuseless.github.io/2020/06/30/simplec-simplecall-simplercpp-demo-packages-incorporating-c-code/)
 
@@ -139,7 +143,9 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
-+ [A short blog post / tutorial on how to make Goldsberry-style NBA Shot Charts in R](https://www.owenlhjphillips.com/new-blog/2020/6/25/how-to-make-nba-shots-charts-in-r)
++ ![Goldsberry-style NBA Shot Charts](https://raw.githubusercontent.com/rweekly/image/master/2020-07-03/basketball_scaled.png)
+
+[A short blog post / tutorial on how to make Goldsberry-style NBA Shot Charts in R](https://www.owenlhjphillips.com/new-blog/2020/6/25/how-to-make-nba-shots-charts-in-r)
 
 + [Learning learnr](https://education.rstudio.com/blog/2020/07/learning-learnr/)
 
