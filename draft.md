@@ -12,10 +12,22 @@ Release Date: 2020-00-00
 
 ###  Highlight
 
++ [My Physiological Response to my PhD Defence: Acute and Chronic](https://www.granvillematheson.com/post/self-portrait/)
+
++ [Twitter's Favorite Lesser Known Packages](http://eringrand.github.io/fave_r_functions/)
+
++ [IMPRESSIONS FROM e-Rum2020](https://mirai-solutions.ch/news/2020/06/30/erum2020-impressions/)
 
 
 ### Insights
 
++ [IMPRESSIONS FROM e-Rum2020](https://mirai-solutions.ch/news/2020/06/30/erum2020-impressions/)
+
++ [e-Rum 2020 Slides on Progressr](https://www.jottr.org/2020/07/04/progressr-erum2020-slides/)
+
++ [Twitter's Favorite Lesser Known Packages](http://eringrand.github.io/fave_r_functions/)
+
++ [Rcpp now used by 2000 CRAN packages–and one in eight!](http://dirk.eddelbuettel.com/blog/2020/07/04/#rcpp_2000_packages)
 
 
 ### R in the Real World
@@ -44,11 +56,9 @@ Release Date: 2020-00-00
 
 ###  Resources
 
-+ [Visualizing Principal Components for Images](https://www.iamnagdev.com/?p=879)
++ [R + Python = Rython](https://eranraviv.com/r-python-rython/)
 
 + [Working with Spreadsheets](https://education.rstudio.com/blog/2020/06/working-with-spreadsheets/)
-
-+ [Twitter's Favorite Lesser Known Packages](http://eringrand.github.io/fave_r_functions/)
 
 + [Estimating Runtime for an R script](https://lgreski.github.io/dsdepot/2020/07/01/estimating-R-script-runtime.html)
 
@@ -58,7 +68,7 @@ Release Date: 2020-00-00
 
 + [The Bechdel test and the X-Mansion with tidymodels and #TidyTuesday](https://juliasilge.com/blog/uncanny-xmen/)
 
-+ [IMPRESSIONS FROM e-Rum2020](https://mirai-solutions.ch/news/2020/06/30/erum2020-impressions/)
++ [Uncanny X-Men: Bayesian take on Dr. Silge’s analysis](https://joshuacook.netlify.app/post/uncanny-x-men-bayesian-analysis/)
 
 + [Le Monde puzzle #1149](https://xianblog.wordpress.com/2020/07/01/le-monde-puzzle-1149/)
 
@@ -76,12 +86,11 @@ Release Date: 2020-00-00
 
 + [Power Analysis by Data Simulation in R - Part III](https://julianquandt.com/post/power-analysis-by-data-simulation-in-r-part-iii/)
 
-+ [Using Pyomo from R through the magic of Reticulate](http://www.notesofdabbler.com/2020/07/01/rpyomo/)
-
 + [A Social Network Simulation In The Tidyverse](https://www.statworx.com/de/blog/a-social-network-simulation-in-the-tidyverse/)
 
-+ [ggplot2: Box Plots](https://blog.rsquaredacademy.com/ggplot2-box-plots/)
++ [interactive spark-line, -bar, and -point charts for R and Shiny](https://timelyportfolio.github.io/dataui/articles/dataui_replicate_examples.html)
 
++ [Learning enough front-end development to be dangerous: cranitup and hansolo](http://chainsawriot.com/mannheim/2020/06/27/cranitup.html)
 
 ###  New Packages
 
@@ -92,13 +101,9 @@ Release Date: 2020-00-00
 + [{flightplot} 0.1.0](https://cran.r-project.org/package=flightplot): Plot airplane flight paths on maps
 
 
-
-
-**BioC**
-
-
-
 **GitHub or Bitbucket**
+
++ [{nhlapi}: Exploring and plotting positional ice hockey data](https://jozef.io/r400-nhlapi-positional-data/)
 
 + [{sisimplec, simplecall, simplercpp}: demo packages incorporating C code](https://coolbutuseless.github.io/2020/06/30/simplec-simplecall-simplercpp-demo-packages-incorporating-c-code/)
 
@@ -131,22 +136,24 @@ Release Date: 2020-00-00
 + [110 - Who Needs Data?](http://nssdeviations.com/)
 
 
-### Gist & Cookbook
-
-
-
-### R Internationally
-
-
 
 ###  Tutorials
 
-+ + [Learning learnr](https://education.rstudio.com/blog/2020/07/learning-learnr/)
++ [A short blog post / tutorial on how to make Goldsberry-style NBA Shot Charts in R](https://www.owenlhjphillips.com/new-blog/2020/6/25/how-to-make-nba-shots-charts-in-r)
+
++ [Learning learnr](https://education.rstudio.com/blog/2020/07/learning-learnr/)
 
 [A bootstrap example on how to create a paid data science app (DSaaS) with Shiny, Paddle, Firebase and Cloud Functions](https://code.markedmondson.me/datascience-aas/)
 
 + [12rd2vec in R](https://www.bnosac.be/index.php/blog/100-word2vec-in-R)
 
++ [Using Pyomo from R through the magic of Reticulate](http://www.notesofdabbler.com/2020/07/01/rpyomo/)
+
++ [Visualizing Principal Components for Images](https://www.iamnagdev.com/?p=879)
+
++ [ggplot2: Box Plots](https://blog.rsquaredacademy.com/ggplot2-box-plots/)
+
++ [A introduction to creat RTF documents using huxtables in Rmarkdown](https://www.bioinfo-scrounger.com/archives/Using-huxtables/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -164,11 +171,6 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-
-### Datasets
-
-### Jobs
 
 
 
