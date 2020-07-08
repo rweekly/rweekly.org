@@ -68,7 +68,7 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
-
++ [Search your tweets with an automatic pipeline](https://www.tillac-data.com/2020-search-your-tweets-with-an-automatic-pipeline/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
