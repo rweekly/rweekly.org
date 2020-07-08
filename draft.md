@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2020-23
+title: R Weekly 2020-00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-06-08
+Release Date: 2020-00-00
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
@@ -68,13 +68,6 @@ Release Date: 2020-06-08
 
 ###  Tutorials
 
-+ [Working with Excel files in R programming](https://www.geeksforgeeks.org/working-with-excel-files-in-r-programming/)
-
-+ [Principal Component Analysis with R programming](https://www.geeksforgeeks.org/principal-component-analysis-with-r-programming/)
-
-+ [Fast RMarkdown theming with `thematic` and `bootstraplib`](https://www.tillac-data.com/2020-fast-rmd-theming-with-thematic-and-bootstraplib/)
-
-+ [How to create an R package, easy mode](https://www.amitkohli.com/2020/01/07/2020-01-07-how-to-create-an-r-package-my-way/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
