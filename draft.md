@@ -16,7 +16,15 @@ Release Date: 2020-00-00
 
 ### Insights
 
++ [Is catboost the best gradient boosting R package?](http://philipppro.github.io/catboost_better_than_the_rest/)
 
++ [Fun with Docker](https://kgilds.rbind.io/post/fun-with-docker/)
+
++ [The quality of R's Random Number Generators](https://coolbutuseless.github.io/2020/07/07/the-quality-of-rs-random-number-generators/)
+
++ [Rcpp now used by 2000 CRAN packages–and one in eight!](http://dirk.eddelbuettel.com/blog/2020/07/04/#rcpp_2000_packages)
+
++ [Experiences Building a Production Shiny App for Mobile](https://www.tychobra.com/posts/2020-07-07-production-shiny-mobile/)
 
 ### R in the Real World
 
@@ -40,7 +48,11 @@ Release Date: 2020-00-00
 
 **CRAN**
 
++ [Pointers/shortcuts in R with the ‘pointr’ package](https://topics-in-r.blogspot.com/2020/07/pointersshortcuts-in-r-with-pointr.html)
 
++ [Expand broom::tidy() output for categorical parameter estimates](https://guyabel.com/post/tidycat/)
+
++ [Rcpp 1.0.5: Several Updates](http://dirk.eddelbuettel.com/blog/2020/07/06/#rcpp_1.0.5)
 
 **BioC**
 
@@ -60,15 +72,23 @@ Release Date: 2020-00-00
 
 ### Gist & Cookbook
 
-
++ [e-Rum 2020 Slides on Progressr](https://www.jottr.org/2020/07/04/progressr-erum2020-slides/)
 
 ### R Internationally
 
-
++ [Du Deuxième Effet Kiss-cool (Régression Multiple, Scoring Et Évaluation)](https://freakonometrics.hypotheses.org/61090)
 
 ###  Tutorials
 
++ [Controlling legend appearance in ggplot2 with override.aes](https://aosmith.rbind.io/2020/07/09/ggplot2-override-aes/)
 
++ [Getting Started with R Markdown — Guide and Cheatsheet](https://www.dataquest.io/blog/r-markdown-guide-cheatsheet/)
+
++ [R Package Integration with Modern Reusable C++ Code Using Rcpp](https://rviews.rstudio.com/2020/07/08/r-package-integration-with-modern-reusable-c-code-using-rcpp/)
+
++ [Formatting With ggtext Example](https://data-and-the-world.onrender.com/posts/ggtext-formatting-example/)
+
++ [The Mandelbrot Set](http://www.theresearchkitchen.com/archives/1239)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
