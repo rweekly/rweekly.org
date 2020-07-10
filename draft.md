@@ -56,7 +56,7 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
-
++ [Shiny Developer Series Episode 10: The importance of user experience with John (JP) Coene](https://shinydevseries.com/post/episode-10-coene/)
 
 ### Gist & Cookbook
 
