@@ -28,7 +28,7 @@ Release Date: 2020-00-00
 
 ### R in the Real World
 
-
++ [How I Taught Scientific Blogging with R Markdown, Online](https://masalmon.eu/2020/07/08/rmd-blogging-course/)
 
 ###  R in Organizations
 
@@ -127,6 +127,12 @@ Release Date: 2020-00-00
 + [A Feature Preprocessing Workflow](https://seth-dobson.github.io/a-feature-preprocessing-workflow/)
 
 + [Across (dplyr 1.0.0): applying dplyr functions simultaneously across multiple columns](http://www.rebeccabarter.com/blog/2020-07-09-across/)
+
++ [Writing Functions to Automate Repetitive Plotting Tasks in ggplot2](https://dataenthusiast.ca/?p=1224)
+
++ [Hierarchical clustering in R: Tutorial](https://https://www.geeksforgeeks.org/hierarchical-clustering-in-r-programming/)
+
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
