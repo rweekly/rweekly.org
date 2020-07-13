@@ -12,6 +12,11 @@ Release Date: 2020-00-00
 
 ###  Highlight
 
++ [Shiny Developer Series Episode 10: The importance of user experience with John (JP) Coene](https://shinydevseries.com/post/episode-10-coene/)
+
++ [Across (dplyr 1.0.0): applying dplyr functions simultaneously across multiple columns](http://www.rebeccabarter.com/blog/2020-07-09-across/)
+
++ [A better way to manage your Github personal access tokens](https://ropensci.org/technotes/2020/07/07/github-pat/)
 
 
 ### Insights
@@ -29,6 +34,8 @@ Release Date: 2020-00-00
 ### R in the Real World
 
 + [How I Taught Scientific Blogging with R Markdown, Online](https://masalmon.eu/2020/07/08/rmd-blogging-course/)
+
++ [Spotify Cross-Playlist Predictions, Part 1](https://data-and-the-world.onrender.com/posts/spotify-cross-playlist-predictions-one/)
 
 ###  R in Organizations
 
@@ -55,6 +62,10 @@ Release Date: 2020-00-00
 + [Rcpp 1.0.5: Several Updates](http://dirk.eddelbuettel.com/blog/2020/07/06/#rcpp_1.0.5)
 
 + [A better way to manage your Github personal access tokens](https://ropensci.org/technotes/2020/07/07/github-pat/)
+
++ [drat 0.1.7: New functionality](http://dirk.eddelbuettel.com/blog/2020/07/11/#drat_0.1.7)
+
++ [future and future.apply - Some Recent Improvements](https://www.jottr.org/2020/07/11/future-future.apply-recent-improvements/)
 
 **BioC**
 
@@ -132,7 +143,9 @@ Release Date: 2020-00-00
 
 + [Hierarchical clustering in R: Tutorial](https://https://www.geeksforgeeks.org/hierarchical-clustering-in-r-programming/)
 
++ [Automatically Build Data Tables from US Census Survey!](https://curious-joe.net/post/automatically-build-data-tables-from-us-census-survey/)
 
++ [Basic data analysis with palmerpenguins](https://r-posts.com/basic-data-analysis-with-palmerpenguins/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
