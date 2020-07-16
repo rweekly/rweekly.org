@@ -17,11 +17,8 @@ Release Date: 2020-00-00
 ### Insights
 
 
-+ [Plotting heatmaps from big matrices in R](https://gdevailly.netlify.app/post/plotting-big-matrices-in-r/)
 
 ### R in the Real World
-
-+ [Scheduling, Logging, and Visualizing SpeedTest Data](https://gilliganondata.netlify.app/post/scheduling-logging-and-visualizing-speedtest-data/)
 
 
 
@@ -45,13 +42,14 @@ Release Date: 2020-00-00
 
 
 
++ [tidytuesdayR v1.0.1: Download and work with the TidyTuesday Data without leaving your console](https://github.com/thebioengineer/tidytuesdayR)
+
 **BioC**
 
 
 
 **GitHub or Bitbucket**
 
-+ [goodpress](https://maelle.github.io/goodpress/): Write to WordPress, from R Markdown, with a modern stack.
 
 
 ### Updated Packages
@@ -68,11 +66,11 @@ Release Date: 2020-00-00
 
 ### R Internationally
 
-+ [Créer des Heatmaps à partir de grosses matrices en R](https://bioinfo-fr.net/creer-des-heatmaps-a-partir-de-grosses-matrices-en-r)
+
 
 ###  Tutorials
 
-
++ [Search your tweets with an automatic pipeline](https://www.tillac-data.com/2020-search-your-tweets-with-an-automatic-pipeline/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -85,7 +83,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [86th TokyoR (Virtual) Meetup: June 27, 2020](https://tokyor.connpass.com/event/178741/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
