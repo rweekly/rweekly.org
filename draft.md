@@ -42,6 +42,8 @@ Release Date: 2020-00-00
 
 
 
++ [tidytuesdayR v1.0.1: Download and work with the TidyTuesday Data without leaving your console](https://github.com/thebioengineer/tidytuesdayR)
+
 **BioC**
 
 
