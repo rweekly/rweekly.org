@@ -16,7 +16,7 @@ Release Date: 2020-00-00
 
 ### Insights
 
-
++ [Build with R, deploy with Python (without leaving RStudio!)](https://hfshr.netlify.app/posts/2020-07-14-deploy-model/)
 
 ### R in the Real World
 
