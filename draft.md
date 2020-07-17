@@ -16,11 +16,19 @@ Release Date: 2020-00-00
 
 ### Insights
 
++ [Interoperability: Getting the Most Out of Your Analytic Investments](https://blog.rstudio.com/2020/07/15/interoperability-maximize-analytic-investments/)
+
 + [Build with R, deploy with Python (without leaving RStudio!)](https://hfshr.netlify.app/posts/2020-07-14-deploy-model/)
+
++ [Forecasting R (Virtual) Workshop – the pupil’s perspective](https://nhsrcommunity.com/blog/forecasting-r-virtual-workshop-the-pupils-perspective/)
+
++ [Winners of the 2nd Annual Shiny Contest](https://blog.rstudio.com/2020/07/13/winners-of-the-2nd-shiny-contest/)
+
++ [R Posts You Might Have Missed!](https://alastairrushworth.github.io/R-Posts-You-Might-Have-Missed!/)
 
 ### R in the Real World
 
-
++ [Estimating expected win percentage for the current NBA season](https://jtcies.com/2020/07/how-would-the-nba-season-have-finished/)
 
 ###  R in Organizations
 
@@ -28,11 +36,13 @@ Release Date: 2020-00-00
 
 ###  R in Academia
 
-
++ [A brief paper about the usage of R language as a tool for Biometeorological research](https://www.mdpi.com/2073-4433/11/7/682)
 
 ###  Resources
 
++ [Maintaining an R Package - Community Call Summary](https://ropensci.org/blog/2020/07/14/commcall-maintaining-pkg/)
 
++ [A ggplot2 grammar guide](https://evamaerey.github.io/ggplot2_grammar_guide/about)
 
 ###  New Packages
 
@@ -40,9 +50,13 @@ Release Date: 2020-00-00
 
 **CRAN**
 
++ [{Tidygeocoder} 1.0:](https://jessecambon.github.io/2020/07/15/tidygeocoder-1-0-0.html)
 
++ [{tidytuesdayR} 1.0.1: Download and work with the TidyTuesday Data without leaving your console](https://github.com/thebioengineer/tidytuesdayR)
 
-+ [tidytuesdayR v1.0.1: Download and work with the TidyTuesday Data without leaving your console](https://github.com/thebioengineer/tidytuesdayR)
++ [{frak}: A julia set fractal generator](https://coolbutuseless.github.io/2020/07/16/introducing-frak-a-julia-set-fractal-generator/)
+
++ [{displease}: A package for non-linear numeric inteprolation](https://coolbutuseless.github.io/2020/07/14/introducing-displease-a-package-for-non-linear-numeric-inteprolation/)
 
 **BioC**
 
@@ -50,11 +64,25 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
++ [{darklyplot}: Dark themed time series plots](http://lenkiefer.com/2020/07/03/using-darklyplot/)
 
++ [{clickrup}: Interacting with the ClickUp v2 API from R](https://github.com/psolymos/clickrup)
 
 ### Updated Packages
 
++ [{broom} 0.7.0: Summarize statistical model objects in tidy tibbles](https://www.tidyverse.org/blog/2020/07/broom-0-7-0/)
 
++ [{sparklyr} 1.3: Higher-order Functions, Avro and Custom Serializers](https://blog.rstudio.com/2020/07/16/sparklyr-1-3/)
+
++ [{stringdist} 0.9.6: Approximate String Matching, Fuzzy Text Search, and String Distance Functions](http://www.markvanderloo.eu/yaRb/2020/07/16/stringdist-0-9-6-on-cran-new-features/)
+
++ [{tune} 0.1.1: A tidy interface for optimizing model tuning parameters](https://www.tidyverse.org/blog/2020/07/tune-0-1-1/)
+
++ [{readODS} 1.7: Read and write OpenDocument Spreadsheet files](http://chainsawriot.com/mannheim/2020/07/12/readODS.html)
+
++ [{nnetsauce} 0.5: Randomized neural networks on GPU](https://thierrymoudiki.github.io/blog/2020/07/17/python/r/quasirandomizednn/nnetsauce-new-version)
+
++ [{RcppArmadillo} 0.9.900.2.0: A C++ template library for linear algebra](http://dirk.eddelbuettel.com/blog/2020/07/17#rcpparmadillo_0.9.900.2.0)
 
 ###  Videos and Podcasts
 
@@ -72,12 +100,37 @@ Release Date: 2020-00-00
 
 + [Search your tweets with an automatic pipeline](https://www.tillac-data.com/2020-search-your-tweets-with-an-automatic-pipeline/)
 
++ [Bagging with tidymodels and #TidyTuesday astronaut missions](https://juliasilge.com/blog/astronaut-missions-bagging/)
+
++ [Comparing Variable Importance Functions (For Modeling)](https://tonyelhabr.rbind.io/post/variable-importance-compare/)
+
++ [clientsdb - A docker image with clients comments](https://colinfay.me/clients-db/)
+
++ [CRAN Checks API News: Documentation, Notifications, and More](https://ropensci.org/technotes/2020/07/16/cran-checks-docs-notifications/)
+
++ [Teaching the Tidyverse in 2020 - Part 1: Getting Started](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-1-getting-started/)
+
++ [Teaching the Tidyverse in 2020 - Part 2: Data Visualisation](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-2-data-visualisation/)
+
++ [R Package Integration with Modern Reusable C++ Code Using Rcpp - Part 2](https://rviews.rstudio.com/2020/07/14/r-package-integration-with-modern-reusable-c-code-using-rcpp-part-2/)
+
++ [{hexmake} is one of the 5 Grand Prizes of the 2020 Shiny Contest](https://colinfay.me/hexmake-shiny-contest/)
+
++ [Doing Maths Symbolically: R as a Computer Algebra System (CAS)](https://blog.ephorie.de/doing-maths-symbolically-r-as-a-computer-algebra-system-cas)
+
++ [Regression discontinuity model for TV series](https://freakonometrics.hypotheses.org/61131)
+
++ [Creating custom neural networks with nnlib2Rcpp](https://r-posts.com/creating-custom-neural-networks-with-nnlib2rcpp/)
+
++ [RTutor: Quantifying Social Spillovers in Movie Ticket Sales](http://skranz.github.io//r/2020/07/14/RTutor-Movies.html)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ [Catching up with R Graphics](https://stattech.wordpress.fos.auckland.ac.nz/2020/07/14/2020-04-catching-up-with-r-graphics/)
 
 ###  Upcoming Events in 3 Months
 
@@ -98,6 +151,7 @@ Events in 3 Months:
 
 ###  Call for Participation
 
++ [rstudio::global() call for talks](https://blog.rstudio.com/2020/07/17/rstudio-global-call-for-talks/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
