@@ -140,7 +140,7 @@ Release Date: 2020-00-00
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-+ [Catching up with R Graphics](https://stattech.wordpress.fos.auckland.ac.nz/2020/07/14/2020-04-catching-up-with-r-graphics/)
++ [Catching up with R Graphics](https://www.stat.auckland.ac.nz/~paul/Reports/GraphicsEngine/definitions/definitions.html)
 
 ###  Upcoming Events in 3 Months
 
