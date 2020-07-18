@@ -30,6 +30,8 @@ Release Date: 2020-00-00
 
 + [Estimating expected win percentage for the current NBA season](https://jtcies.com/2020/07/how-would-the-nba-season-have-finished/)
 
++ [Defensive Interactions From Tracking Data](https://thecomeonman.github.io/DefensiveInteractionsFromTrackingData/), [code](https://github.com/thecomeonman/DefensiveInteractionsFromTrackingData/)
+
 ###  R in Organizations
 
 
@@ -44,6 +46,8 @@ Release Date: 2020-00-00
 
 + [A ggplot2 grammar guide](https://evamaerey.github.io/ggplot2_grammar_guide/about)
 
++ [How to write your own R package and publish it on CRAN](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -57,6 +61,8 @@ Release Date: 2020-00-00
 + [{frak}: A julia set fractal generator](https://coolbutuseless.github.io/2020/07/16/introducing-frak-a-julia-set-fractal-generator/)
 
 + [{displease}: A package for non-linear numeric inteprolation](https://coolbutuseless.github.io/2020/07/14/introducing-displease-a-package-for-non-linear-numeric-inteprolation/)
+
++ [{oxcovid19}: An R API to the Oxford COVID-19 Database](https://cran.r-project.org/web/packages/oxcovid19/index.html)
 
 **BioC**
 
@@ -86,7 +92,11 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
++ [Introduction to {caladown}](https://www.youtube.com/watch?v=HtQhG80MKQE), [docs](https://caladown.djnavarro.net/)
 
++ [Avoid Dashboard Fatigue](https://rstudio.com/resources/webinars/avoid-dashboard-fatigue/), [resources](https://github.com/rstudio/beyond-dashboard-fatigue)
+
++ [useR! 2020 Tutorial: Seamless R and C++ Integration with Rcpp](https://www.youtube.com/watch?v=57H34Njrns4), [slides](https://dirk.eddelbuettel.com/papers/useR2020_rcpp_tutorial.pdf)
 
 ### Gist & Cookbook
 
