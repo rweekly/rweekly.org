@@ -136,6 +136,8 @@ Release Date: 2020-00-00
 
 + [RTutor: Quantifying Social Spillovers in Movie Ticket Sales](http://skranz.github.io//r/2020/07/14/RTutor-Movies.html)
 
++ [Tidy analysis of cocktails - Part II - Exploratory k-means clustering](https://www.martincadek.com/posts/tidy-analysis-cocktails-part-ii/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
