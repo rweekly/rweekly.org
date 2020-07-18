@@ -32,6 +32,8 @@ Release Date: 2020-00-00
 
 + [Defensive Interactions From Tracking Data](https://thecomeonman.github.io/DefensiveInteractionsFromTrackingData/), [code](https://github.com/thecomeonman/DefensiveInteractionsFromTrackingData/)
 
++ [Doing More With StatsBomb Data in R](https://statsbomb.com/2020/07/doing-more-with-statsbomb-data-in-r/)
+
 ###  R in Organizations
 
 
