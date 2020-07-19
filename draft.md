@@ -32,10 +32,11 @@ Release Date: 2020-00-00
 
 + [Defensive Interactions From Tracking Data](https://thecomeonman.github.io/DefensiveInteractionsFromTrackingData/), [code](https://github.com/thecomeonman/DefensiveInteractionsFromTrackingData/)
 
+![Defensive Interactions From Tracking Data](https://raw.githubusercontent.com/rweekly/image/master/2020-07-20/player_interactions.png)
+
 + [Doing More With StatsBomb Data in R](https://statsbomb.com/2020/07/doing-more-with-statsbomb-data-in-r/)
 
 ###  R in Organizations
-
 
 + [CRAN Checks API News: Documentation, Notifications, and More](https://ropensci.org/technotes/2020/07/16/cran-checks-docs-notifications/)
 
@@ -58,6 +59,8 @@ Release Date: 2020-00-00
 **CRAN**
 
 + [{Tidygeocoder} 1.0:](https://jessecambon.github.io/2020/07/15/tidygeocoder-1-0-0.html)
+
+![{Tidygeocoder} 1.0](https://raw.githubusercontent.com/rweekly/image/master/2020-07-20/stadium_locations.png)
 
 + [{tidytuesdayR} 1.0.1: Download and work with the TidyTuesday Data without leaving your console](https://github.com/thebioengineer/tidytuesdayR)
 
@@ -115,13 +118,13 @@ Release Date: 2020-00-00
 
 + [Bagging with tidymodels and #TidyTuesday astronaut missions](https://juliasilge.com/blog/astronaut-missions-bagging/)
 
+![Bagging with tidymodels and #TidyTuesday astronaut missions](https://raw.githubusercontent.com/rweekly/image/master/2020-07-20/mission_duration.png)
+
 + [Comparing Variable Importance Functions (For Modeling)](https://tonyelhabr.rbind.io/post/variable-importance-compare/)
 
 + [clientsdb - A docker image with clients comments](https://colinfay.me/clients-db/)
 
-
 + [Teaching the Tidyverse in 2020](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-1-getting-started/) - [Part 1: Getting Started](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-1-getting-started/), [Part 2: Data Visualisation](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-2-data-visualisation/)
-
 
 + [R Package Integration with Modern Reusable C++ Code Using Rcpp - Part 2](https://rviews.rstudio.com/2020/07/14/r-package-integration-with-modern-reusable-c-code-using-rcpp-part-2/)
 
@@ -170,6 +173,8 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🎉🎉🎉 I&#39;m excited to introduce &quot;a ggplot2 grammar guide&quot;. Here is part of the **visual table of contents** (viztoc). You can click through to get at-your-own-pace guidance from *flipbooks* showing code-output plot evolution! More in 🧵 1/<a href="https://t.co/XCBwKTLfJo">https://t.co/XCBwKTLfJo</a> <a href="https://t.co/j4l9KK8QAw">pic.twitter.com/j4l9KK8QAw</a></p>&mdash; Gina Reynolds (@EvaMaeRey) <a href="https://twitter.com/EvaMaeRey/status/1280719013102796800?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">dplyr::case_when() &quot;allows you to vectorise multiple if_else() statements&quot;. It&#39;s awesome &amp; friendly. See examples: <a href="https://t.co/XBpnTQzDro">https://t.co/XBpnTQzDro</a><br><br>🐲👾🦑 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/Oo7r57fTBQ">pic.twitter.com/Oo7r57fTBQ</a></p>&mdash; Allison Horst (@allison_horst) <a href="https://twitter.com/allison_horst/status/1282785610273447936?ref_src=twsrc%5Etfw">July 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I wrote a vignette explaining how you, dear friends can use my <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package darklyplot to make beautiful graphs.<br><br>just in time for the holiday weekend here in the U.S.<a href="https://t.co/on3tu5lcHR">https://t.co/on3tu5lcHR</a></p>&mdash; 📈 𝙻𝚎𝚗 𝙺𝚒𝚎𝚏𝚎𝚛 📊 (@lenkiefer) <a href="https://twitter.com/lenkiefer/status/1279182403232305152?ref_src=twsrc%5Etfw">July 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My partner, who has no experience with R, finds the word &quot;ggplot&quot; so hilarious that he&#39;s now taken to randomly saying it to my 4-month-old and 2-year-old and they all crack up. This is a metaphor of some sort but I&#39;m too tired to figure it out. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Erica Hsiung Wojcik (@ewojcik) <a href="https://twitter.com/ewojcik/status/1284123156869976064?ref_src=twsrc%5Etfw">July 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> meets homeschool.. Ellie missed her multiplication rainbow from school so we made one together using ggplot. Code is here <a href="https://t.co/jJZl83JHRS">https://t.co/jJZl83JHRS</a>. It would be cool to see any other educational posters or wallcharts poeple have made with R. <a href="https://t.co/0K4MNQFibY">pic.twitter.com/0K4MNQFibY</a></p>&mdash; George Savva (@georgemsavva) <a href="https://twitter.com/georgemsavva/status/1283486875429240832?ref_src=twsrc%5Etfw">July 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
