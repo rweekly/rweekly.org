@@ -37,6 +37,7 @@ Release Date: 2020-00-00
 ###  R in Organizations
 
 
++ [CRAN Checks API News: Documentation, Notifications, and More](https://ropensci.org/technotes/2020/07/16/cran-checks-docs-notifications/)
 
 ###  R in Academia
 
@@ -118,11 +119,9 @@ Release Date: 2020-00-00
 
 + [clientsdb - A docker image with clients comments](https://colinfay.me/clients-db/)
 
-+ [CRAN Checks API News: Documentation, Notifications, and More](https://ropensci.org/technotes/2020/07/16/cran-checks-docs-notifications/)
 
-+ [Teaching the Tidyverse in 2020 - Part 1: Getting Started](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-1-getting-started/)
++ [Teaching the Tidyverse in 2020](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-1-getting-started/) - [Part 1: Getting Started](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-1-getting-started/), [Part 2: Data Visualisation](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-2-data-visualisation/)
 
-+ [Teaching the Tidyverse in 2020 - Part 2: Data Visualisation](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-2-data-visualisation/)
 
 + [R Package Integration with Modern Reusable C++ Code Using Rcpp - Part 2](https://rviews.rstudio.com/2020/07/14/r-package-integration-with-modern-reusable-c-code-using-rcpp-part-2/)
 
@@ -170,3 +169,7 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🎉🎉🎉 I&#39;m excited to introduce &quot;a ggplot2 grammar guide&quot;. Here is part of the **visual table of contents** (viztoc). You can click through to get at-your-own-pace guidance from *flipbooks* showing code-output plot evolution! More in 🧵 1/<a href="https://t.co/XCBwKTLfJo">https://t.co/XCBwKTLfJo</a> <a href="https://t.co/j4l9KK8QAw">pic.twitter.com/j4l9KK8QAw</a></p>&mdash; Gina Reynolds (@EvaMaeRey) <a href="https://twitter.com/EvaMaeRey/status/1280719013102796800?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I wrote a vignette explaining how you, dear friends can use my <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package darklyplot to make beautiful graphs.<br><br>just in time for the holiday weekend here in the U.S.<a href="https://t.co/on3tu5lcHR">https://t.co/on3tu5lcHR</a></p>&mdash; 📈 𝙻𝚎𝚗 𝙺𝚒𝚎𝚏𝚎𝚛 📊 (@lenkiefer) <a href="https://twitter.com/lenkiefer/status/1279182403232305152?ref_src=twsrc%5Etfw">July 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
