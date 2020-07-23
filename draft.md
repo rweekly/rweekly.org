@@ -20,7 +20,7 @@ Release Date: 2020-00-00
 
 ### R in the Real World
 
-
+- [Will walk for food: exploring Singapore's hawker food density with R](https://www.dshkol.com/post/will-walk-for-food-exploring-singapore-hawker-centre-density/)
 
 ###  R in Organizations
 
