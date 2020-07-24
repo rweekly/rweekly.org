@@ -58,7 +58,9 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 **CRAN**
 
++ [{palmerpenguins} 0.1.0](https://cran.r-project.org/package=palmerpenguins): Palmer Archipelago (Antarctica) Penguin Data
 
++ [{shinydisconnect} 0.1.0](https://cran.r-project.org/package=shinydisconnect): Show a Nice Message When a 'Shiny' App Disconnects or Errors
 
 **BioC**
 
@@ -88,7 +90,7 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 ### R Internationally
 
-
++ [{PortalHacienda} 0.1.4](https://cran.r-project.org/package=PortalHacienda): Acceder Con R a Los Datos Del Portal De Hacienda
 
 ###  Tutorials
 
