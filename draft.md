@@ -18,7 +18,7 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 ### Insights
 
-
++ [Learning enough elisp development to be dangerous: ess_rproj](http://chainsawriot.com/mannheim/2020/07/19/elisp.html)
 
 ### R in the Real World
 
@@ -31,6 +31,8 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 ###  R in Organizations
 
 + [4 Tips to Make Your Shiny Dashboard Faster](https://blog.rstudio.com/2020/07/21/4-tips-to-make-your-shiny-dashboard-faster/)
+
++ [Learn best practices for setting up a data science team and kicking off a data analytics project – remote or otherwise.](https://appsilon.com/remote-data-science-team-best-practices-scrum-github-and-docker/)
 
 ###  R in Academia
 
