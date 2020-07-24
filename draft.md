@@ -134,8 +134,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [rstudio::global call for talks until August the 14th](https://blog.rstudio.com/2020/07/17/rstudio-global-call-for-talks/)
-
 + [Beyond Case Counts: Making COVID-19 Clinical Data Available and Useful - Thurs, August 13th, 9am PDT/12pm EDT/18:00 CEST ](https://www.r-consortium.org/blog/2020/07/23/beyond-case-counts-making-covid-19-clinical-data-available-and-useful)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
@@ -152,7 +150,7 @@ Events in 3 Months:
 
 ###  Call for Participation
 
-+ [rstudio::global() call for talks](https://blog.rstudio.com/2020/07/17/rstudio-global-call-for-talks/)
++ [rstudio::global() call for talks until August the 14th](https://blog.rstudio.com/2020/07/17/rstudio-global-call-for-talks/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
