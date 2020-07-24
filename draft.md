@@ -28,7 +28,6 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 ### R in the Real World
 
-+ [Beyond Case Counts: Making COVID-19 Clinical Data Available and Useful](https://www.r-consortium.org/blog/2020/07/23/beyond-case-counts-making-covid-19-clinical-data-available-and-useful)
 
 + [Estimating the risks of partying during a pandemic](https://fabiandablander.com/r/Corona-Party.html)
 
@@ -130,6 +129,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 Events in 3 Months:
 
 + [rstudio::global call for talks until August the 14th](https://blog.rstudio.com/2020/07/17/rstudio-global-call-for-talks/)
+
++ [Beyond Case Counts: Making COVID-19 Clinical Data Available and Useful - Thurs, August 13th, 9am PDT/12pm EDT/18:00 CEST ](https://www.r-consortium.org/blog/2020/07/23/beyond-case-counts-making-covid-19-clinical-data-available-and-useful)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
