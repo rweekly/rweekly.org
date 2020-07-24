@@ -18,7 +18,13 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 ### Insights
 
++ [Why do I choose a community developer role over a software developer role in the R community?](http://lacion.rbind.io/post/why-community-work/)
+
 + [Learning enough elisp development to be dangerous: ess_rproj](http://chainsawriot.com/mannheim/2020/07/19/elisp.html)
+
++ [Data science workflows](https://mdneuzerling.com/post/data-science-workflows/)
+
++ [Yanina Bellini Saibene´s Presentation Script for the panel “Supporting diversity in the R community (R forwards panel)”](https://yabellini.netlify.app/talk/user2020breakoutsessiondiversity/)
 
 ### R in the Real World
 
@@ -27,6 +33,8 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 + [Estimating the risks of partying during a pandemic](https://fabiandablander.com/r/Corona-Party.html)
 
 - [Will walk for food: exploring Singapore's hawker food density with R](https://www.dshkol.com/post/will-walk-for-food-exploring-singapore-hawker-centre-density/)
+
++ [Baby sleep: the first six months](https://www.kaylinpavlik.com/baby-sleep/)
 
 ###  R in Organizations
 
@@ -42,7 +50,7 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 ###  Resources
 
-
++ [A mirror of R svn-trunk for tracking changes and testing patches using GitHub actions.](https://github.com/r-devel/r-svn#readme)
 
 ###  New Packages
 
@@ -58,7 +66,7 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 **GitHub or Bitbucket**
 
-
++ [ shiny386](https://rinterface.github.io/shiny386/index.html), that provides an old school Bootstrap 4 template for Shiny. It is built on top of the Bootstrap 386 HTML template.
 
 ### Updated Packages
 
@@ -68,9 +76,15 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 + [Video: Debugging JavaScript You Wrote in R](https://www.garrickadenbuie.com/blog/video-debug-js-from-r/)
 
++ [useR! 2020: Breakout session - Supporting diversity in the R community (R forwards panel)](https://www.youtube.com/watch?v=gDO1OphmF5Q&feature=youtu.be)
+
++ [Why Social Workers Need Data Science (G. Griffin), useR! 2020 lightning talk](https://www.youtube.com/watch?v=orLyTf5fk4U&t=170s)
+
 ### Gist & Cookbook
 
++ [tidytuesday map using the waffle package and inset plots](https://github.com/mcsiple/tidytuesday/blob/master/30_RSPCA.R)
 
++ [tidytuesday re-creation of the "RSPCA report on animal outcomes from our shelters, care and adoption centres"](https://github.com/sharlagelfand/tidytuesday/blob/main/2020/2020-07-21/report.Rmd)
 
 ### R Internationally
 
@@ -98,6 +112,8 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 + [Le Monde puzzle [#1152]](https://xianblog.wordpress.com/2020/07/20/le-monde-puzzle-1152/)
 
++ [5 steps to change GitHub default branch from master to main](https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -107,8 +123,11 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ###  Upcoming Events in 3 Months
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">MiR Community is excited to offer a coupon code for <a href="https://twitter.com/hashtag/useRs?src=hash&amp;ref_src=twsrc%5Etfw">#useRs</a> who identify as underrepresented minority R users to R/Medicine! Reg is only $10 and includes an Intro to R Workshop led by <a href="https://twitter.com/StephanKadauke?ref_src=twsrc%5Etfw">@StephanKadauke</a>, certified <a href="https://twitter.com/RStudioEDU?ref_src=twsrc%5Etfw">@RStudioEDU</a> instructor. <a href="https://t.co/TnwzVEO2AN">https://t.co/TnwzVEO2AN</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> 1/2 <a href="https://t.co/EdgaY9WYV7">https://t.co/EdgaY9WYV7</a></p>&mdash; Mi_R (@miR_community) <a href="https://twitter.com/miR_community/status/1285977214383796224?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote> 
+
 Events in 3 Months:
 
++ [rstudio::global call for talks until August the 14th](https://blog.rstudio.com/2020/07/17/rstudio-global-call-for-talks/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -129,3 +148,6 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What should be added to <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> next? Wrong answers only.</p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href="https://twitter.com/tylermorganwall/status/1286020857580728321?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote>
+
