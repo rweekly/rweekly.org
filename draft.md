@@ -33,6 +33,8 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 - [Will walk for food: exploring Singapore's hawker food density with R](https://www.dshkol.com/post/will-walk-for-food-exploring-singapore-hawker-centre-density/)
 
+![Figure from Baby sleep: the first six months, Kaylin Pavlik](https://raw.githubusercontent.com/rweekly/image/master/2020-07-27/baby-sleep-kaylin-pavlik.png)
+
 + [Baby sleep: the first six months](https://www.kaylinpavlik.com/baby-sleep/)
 
 ###  R in Organizations
@@ -83,7 +85,11 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 ### Gist & Cookbook
 
+![tidytuesday map using the waffle package and inset plots, Margaret Siple](https://raw.githubusercontent.com/rweekly/image/master/2020-07-27/tidytuesday-margaret-siple.jpeg)
+
 + [tidytuesday map using the waffle package and inset plots](https://github.com/mcsiple/tidytuesday/blob/master/30_RSPCA.R)
+
+![screenshot fromtidytuesday re-creation of the "RSPCA report on animal outcomes from our shelters, care and adoption centres", Sharla Gelfand](https://raw.githubusercontent.com/rweekly/image/master/2020-07-27/tidytuesday-sharla-gelfand.png)
 
 + [tidytuesday re-creation of the "RSPCA report on animal outcomes from our shelters, care and adoption centres"](https://github.com/sharlagelfand/tidytuesday/blob/main/2020/2020-07-21/report.Rmd)
 
