@@ -63,6 +63,8 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 + [{shinydisconnect} 0.1.0](https://cran.r-project.org/package=shinydisconnect): Show a Nice Message When a 'Shiny' App Disconnects or Errors
 
++ [{covidregionaldata} 0.5.0](https://epiforecasts.io/covidregionaldata/): Subnational Data for the Covid-19 Outbreak
+
 **BioC**
 
 
@@ -70,6 +72,9 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 **GitHub or Bitbucket**
 
 + [ shiny386](https://rinterface.github.io/shiny386/index.html), that provides an old school Bootstrap 4 template for Shiny. It is built on top of the Bootstrap 386 HTML template.
+
++ [{EpiNow2} 1.0.0](https://epiforecasts.io/EpiNow2/): Estimate real-time case counts and the time-varying reproduction number (Rt).
+
 
 ### Updated Packages
 
