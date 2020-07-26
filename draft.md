@@ -26,6 +26,10 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 + [Yanina Bellini Saibene´s Presentation Script for the panel “Supporting diversity in the R community (R forwards panel)”](https://yabellini.netlify.app/talk/user2020breakoutsessiondiversity/)
 
++ [Introducing {dittodb}](https://jonkeane.com/blog/introducing_dittodb/)
+
++ [Supervised Machine Learning for Text Analysis in R](https://juliasilge.com/blog/smltar-announce/)
+
 ### R in the Real World
 
 
@@ -63,17 +67,9 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 + [{shinydisconnect} 0.1.0](https://cran.r-project.org/package=shinydisconnect): Show a Nice Message When a 'Shiny' App Disconnects or Errors
 
-**BioC**
-
-
-
 **GitHub or Bitbucket**
 
 + [ shiny386](https://rinterface.github.io/shiny386/index.html), that provides an old school Bootstrap 4 template for Shiny. It is built on top of the Bootstrap 386 HTML template.
-
-### Updated Packages
-
-
 
 ###  Videos and Podcasts
 
@@ -82,6 +78,8 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 + [useR! 2020: Breakout session - Supporting diversity in the R community (R forwards panel)](https://www.youtube.com/watch?v=gDO1OphmF5Q&feature=youtu.be)
 
 + [Why Social Workers Need Data Science (G. Griffin), useR! 2020 lightning talk](https://www.youtube.com/watch?v=orLyTf5fk4U&t=170s)
+
++ [R-Ladies Tbilisi (თბილისი): Elvira Nassirova "Life of a data analyst. Gender gap in Kazakh wages"](https://www.youtube.com/watch?v=xIeGQvUS1ps&feature=youtu.be)
 
 ### Gist & Cookbook
 
@@ -121,11 +119,17 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 + [5 steps to change GitHub default branch from master to main](https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/)
 
++ [Quantifying uncertainty around the short MLB season](https://jtcies.com/2020/07/quantifying-uncertainty-around-the-short-mlb-season/)
+
++ [River flow directions](https://dominicroye.github.io/en/2020/river-flow-directions/) 
+
++ [Building Complex SQL Queries with R](https://daranzolin.github.io/2020-07-24-building-sql-queries/)
+
++ [Tidyverse Basics: Load and Clean Data with R tidyverse Tools](https://www.dataquest.io/blog/load-clean-data-r-tidyverse/)
+
++ [Weighting on a friend](https://osm.netlify.com/post/weighting-on-a-friend/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
-
-###  R Project Updates
-
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 
 ###  Upcoming Events in 3 Months
@@ -139,14 +143,6 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-
-### Datasets
-
-### Jobs
-
-
-
 
 ###  Call for Participation
 
