@@ -30,6 +30,8 @@ This week's release was curated by [Maëlle Salmon](https://twitter.com/ma_salmo
 
 + [Supervised Machine Learning for Text Analysis in R](https://juliasilge.com/blog/smltar-announce/)
 
++ [Project as an R package: An okay idea](https://milesmcbain.xyz/an-okay-idea/)
+
 ### R in the Real World
 
 
@@ -158,3 +160,4 @@ Events in 3 Months:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What should be added to <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> next? Wrong answers only.</p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href="https://twitter.com/tylermorganwall/status/1286020857580728321?ref_src=twsrc%5Etfw">July 22, 2020</a></blockquote>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every time I teach experienced R programmers traceback(), debug(), browser(), etc. I feel a bit like I&#39;m granting a superpower and it&#39;s really fun 😊</p>&mdash; Kara Woo (@kara_woo) <a href="https://twitter.com/kara_woo/status/1286767656524058624?ref_src=twsrc%5Etfw">July 24, 2020</a></blockquote> 
