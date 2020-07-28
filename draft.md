@@ -86,6 +86,8 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
++ [Why R? 2020 (Remote 24-27 Sept) Conference](http://2020.whyr.pl/)
+
 
 ### Datasets
 
@@ -97,6 +99,7 @@ Events in 3 Months:
 ###  Call for Participation
 
 + [rstudio::global() call for talks until August the 14th](https://blog.rstudio.com/2020/07/17/rstudio-global-call-for-talks/)
++ [Why R? 2020 (Remote 24-27 Sept) registration - 2020.whyr.pl](http://whyr.pl/foundation/2020/WhyR-2020-Going-Remote/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
