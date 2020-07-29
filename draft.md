@@ -32,7 +32,7 @@ Release Date: 2020-08-03
 
 ###  Resources
 
-
++ [How I share knowledge around R Markdown](https://themockup.blog/posts/2020-07-25-meta-rmarkdown/)
 
 ###  New Packages
 
@@ -48,7 +48,11 @@ Release Date: 2020-08-03
 
 **GitHub or Bitbucket**
 
++ [{ggkeyboard}: Make a keyboard using ggplot2.](https://github.com/sharlagelfand/ggkeyboard)
 
++ [{corrmorant}: R package for flexible correlation matrices based on ggplot2](https://github.com/r-link/corrmorant)
+
++ [{highlighter}: A simple shiny app for highlighting text](https://github.com/r4fun/highlighter)
 
 ### Updated Packages
 
@@ -64,11 +68,17 @@ Release Date: 2020-08-03
 
 ### R Internationally
 
-
++ [(Japanese) CRANを見据えるならパッケージの機能が最小限の内に送ってしまえ](https://blog.atusy.net/2020/07/27/creating-package/)
 
 ###  Tutorials
 
++ [Data cleaning and exploration with data.table](https://www.meganstodel.com/posts/using-data-table/)
 
++ [Can I host my R packages on npm? (Spoiler: yes)](https://colinfay.me/r-package-npm/)
+
++ [Journey through DB Connect installation hell](https://irene.rbind.io/post/db-connect-install/)
+
++ [2020 La Liga Table](https://otstats.github.io/r/la-liga-table/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
