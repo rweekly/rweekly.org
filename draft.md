@@ -60,11 +60,13 @@ Release Date: 2020-00-00
 **GitHub or Bitbucket**
 
 + [{lz4lite} - extremely fast compression with LZ4](https://coolbutuseless.github.io/2020/06/16/introducing-lz4lite-extremely-fast-compression-with-lz4/)
++ [{fabricerin}: Taking notes / drawing within RMarkdown documents and Shiny apps](https://ihaddadenfodil.com/post/taking-notes-in-rmarkdown-using-the-fabricerin-package/)
 
 
 ### Updated Packages
 
-+ [RVowpalWabbit 0.0.14: More Keeping CRAN happy](http://dirk.eddelbuettel.com/blog/2020/06/14#rvowpalwabbit_0.0.14)
++ [RVowpalWabbit 0.0.14: More Keeping CRAN happy](http://dirk.eddelbuettel.com/blog/2020/06/14#rvowpalwabbit_0.0.14) 
++ [bubblyr 0.1.2: Beautiful Bubbles in Shiny and RMarkdown Backgrounds](https://github.com/feddelegrand7/bubblyr)
 
 
 ###  Videos and Podcasts
