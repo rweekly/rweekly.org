@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2020-00
+title: R Weekly 2020-31
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-00-00
+Release Date: 2020-08-03
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
@@ -16,17 +16,6 @@ Release Date: 2020-00-00
 
 ### Insights
 
-+ [Just Quickly: Removing Sawtooth Patterns in Line Graphs](https://www.njtierney.com/post/2020/06/14/jq-sawtooth/)
-
-+ [Rcpp 1.0.5 in two+ weeks: Please help test](http://dirk.eddelbuettel.com/blog/2020/06/15#rcpp_1.0.5_testing)
-
-+ [Logging in R: Why, When, and How](https://mathewanalytics.com/logging-in-r-why-when-and-how/)
-
-+ [Searching a first name for a child](https://mvaugoyeau.netlify.com/post/first-name-search/)
-
-+ [How does the pipe operator actually work?](https://thomasadventure.blog/posts/how-does-the-pipe-operator-actually-work/)
-
-+ [overlap, overstreched](https://xianblog.wordpress.com/2020/06/15/overlap-overstreched/)
 
 
 ### R in the Real World
@@ -43,7 +32,7 @@ Release Date: 2020-00-00
 
 ###  Resources
 
-
++ [How I share knowledge around R Markdown](https://themockup.blog/posts/2020-07-25-meta-rmarkdown/)
 
 ###  New Packages
 
@@ -61,7 +50,11 @@ Release Date: 2020-00-00
 
 + [{lz4lite} - extremely fast compression with LZ4](https://coolbutuseless.github.io/2020/06/16/introducing-lz4lite-extremely-fast-compression-with-lz4/)
 + [{fabricerin}: Taking notes / drawing within RMarkdown documents and Shiny apps](https://ihaddadenfodil.com/post/taking-notes-in-rmarkdown-using-the-fabricerin-package/)
++ [{ggkeyboard}: Make a keyboard using ggplot2.](https://github.com/sharlagelfand/ggkeyboard)
 
++ [{corrmorant}: R package for flexible correlation matrices based on ggplot2](https://github.com/r-link/corrmorant)
+
++ [{highlighter}: A simple shiny app for highlighting text](https://github.com/r4fun/highlighter)
 
 ### Updated Packages
 
@@ -71,7 +64,6 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
-+ [ggplot2 Text Customization with ggtext - Data Visualization in R](https://www.programmingwithr.com/ggplot2-text-customization-with-ggtext-data-visualization-in-r/)
 
 
 ### Gist & Cookbook
@@ -80,13 +72,17 @@ Release Date: 2020-00-00
 
 ### R Internationally
 
-
++ [(Japanese) CRANを見据えるならパッケージの機能が最小限の内に送ってしまえ](https://blog.atusy.net/2020/07/27/creating-package/)
 
 ###  Tutorials
 
-+ [Using the geofacet package to spatially arrange plots](http://r.iresmi.net/2020/06/15/using-the-geofacet-package-to-spatially-arrange-plots/)
++ [Data cleaning and exploration with data.table](https://www.meganstodel.com/posts/using-data-table/)
 
-+ [New NIMBLE cheatsheat available](https://r-nimble.org/new-nimble-cheatsheat-available)
++ [Can I host my R packages on npm? (Spoiler: yes)](https://colinfay.me/r-package-npm/)
+
++ [Journey through DB Connect installation hell](https://irene.rbind.io/post/db-connect-install/)
+
++ [2020 La Liga Table](https://otstats.github.io/r/la-liga-table/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -99,25 +95,25 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [e-RUM, 17th-20th June](https://2020.erum.io/), [virtual conference](https://2020.erum.io/#erumgoesvirtual). [Registration open, for free](https://www.eventbrite.it/e/e-rum2020-tickets-104546978828)
-
-+ [86th TokyoR (Virtual) Meetup: June 27, 2020](https://tokyor.connpass.com/event/178741/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
+
++ [Why R? 2020 (Remote 24-27 Sept) Conference](http://2020.whyr.pl/)
 
 
 ### Datasets
 
 ### Jobs
 
-+ [From R Epidemics Consortium – RECON COVID-19 challenge  – Two Paid Consultant Positions Available](https://www.r-consortium.org/blog/2020/06/15/from-r-epidemics-consortium-recon-covid-19-challenge-two-paid-consultant-positions-available)
 
 
 
 ###  Call for Participation
 
++ [rstudio::global() call for talks until August the 14th](https://blog.rstudio.com/2020/07/17/rstudio-global-call-for-talks/)
++ [Why R? 2020 (Remote 24-27 Sept) registration - 2020.whyr.pl](http://whyr.pl/foundation/2020/WhyR-2020-Going-Remote/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
