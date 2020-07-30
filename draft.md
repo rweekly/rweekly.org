@@ -48,6 +48,8 @@ Release Date: 2020-08-03
 
 **GitHub or Bitbucket**
 
++ [{lz4lite} - extremely fast compression with LZ4](https://coolbutuseless.github.io/2020/06/16/introducing-lz4lite-extremely-fast-compression-with-lz4/)
++ [{fabricerin}: Taking notes / drawing within RMarkdown documents and Shiny apps](https://ihaddadenfodil.com/post/taking-notes-in-rmarkdown-using-the-fabricerin-package/)
 + [{ggkeyboard}: Make a keyboard using ggplot2.](https://github.com/sharlagelfand/ggkeyboard)
 
 + [{corrmorant}: R package for flexible correlation matrices based on ggplot2](https://github.com/r-link/corrmorant)
@@ -56,6 +58,8 @@ Release Date: 2020-08-03
 
 ### Updated Packages
 
++ [RVowpalWabbit 0.0.14: More Keeping CRAN happy](http://dirk.eddelbuettel.com/blog/2020/06/14#rvowpalwabbit_0.0.14) 
++ [bubblyr 0.1.2: Beautiful Bubbles in Shiny and RMarkdown Backgrounds](https://github.com/feddelegrand7/bubblyr)
 
 
 ###  Videos and Podcasts
