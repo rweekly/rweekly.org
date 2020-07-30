@@ -40,6 +40,7 @@ Release Date: 2020-08-03
 
 **CRAN**
 
++ [{fec16} - Data Package for the 2016 United States Federal Elections](https://github.com/baumer-lab/fec16)
 
 
 **BioC**
