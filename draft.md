@@ -15,7 +15,7 @@ Release Date: 2020-08-03
 
 
 ### Insights
-
++ [What if exploring data in R is just one line of code?](https://rolkra.github.io/start-to-explore/)
 
 
 ### R in the Real World
