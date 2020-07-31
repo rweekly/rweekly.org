@@ -64,7 +64,7 @@ Release Date: 2020-08-03
 
 ###  Videos and Podcasts
 
-
++ [R Programming for Beginners | Functions!](https://www.youtube.com/watch?v=pXA350-o0v8)
 
 ### Gist & Cookbook
 
