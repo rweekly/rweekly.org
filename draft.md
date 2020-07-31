@@ -133,6 +133,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [How to create PowerPoint reports with R](https://theautomatic.net/2020/07/28/how-to-create-powerpoint-reports-with-r/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-powerpoint-reports-with-r)
 + [Building A Neural Net from Scratch Using R - Part 2](https://rviews.rstudio.com/2020/07/24/building-a-neural-net-from-scratch-using-r-part-2/)
 + [DBScan Clustering in R: Tutorial](https://geeksforgeeks.org/dbscan-clustering-in-r-programming/)
++ [Testing interactive functions](https://debruine.github.io/posts/interactive-test/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
