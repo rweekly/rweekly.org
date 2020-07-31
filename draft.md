@@ -50,6 +50,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 ###  Resources
 
 + [`ggplot2` aesthetics cheat sheet](https://drive.google.com/file/d/1Dvul1p6TYH6gWJzZRwpE0YX1dO0hDF-b/view)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-31/ggplot2aes.png)
+
 + [Epidemiological analysis with R](https://dentaldatascience.org/post/epidemiological-analysis-with-r/)
 
 ###  New Packages
