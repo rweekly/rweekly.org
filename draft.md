@@ -34,7 +34,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [evaluating vector space models with word analogies](https://jtimm.net/2020/07/26/evaluating-vector-space-models-with-word-analogies/)
 + [Aligning the Dots On COVID Prison Waffles](https://rud.is/b/2020/07/24/aligning-the-dots-on-covid-prison-waffles/)
 + [Building Complex SQL Queries with R](http://daranzolin.github.io/2020-07-24-building-sql-queries/)
-+ [Interrupted times series analysis of gabapentinoid prescriptions in England using piecewise regression.](https://https://www.painblogr.org/2020-07-03-piecewise-regression)
++ [Interrupted times series analysis of gabapentinoid prescriptions in England using piecewise regression.](https://www.painblogr.org/2020-07-03-piecewise-regression)
 + [12 R Markdown Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/r-markdown-tips-tricks-and-shortcuts/)
 + [A beginner's guide to Shiny modules](https://emilyriederer.netlify.app/post/shiny-modules/) 
 + [Dark Mode and more improvements to CRAN as a userscript](https://github.com/chainsawriot/cranitup)
@@ -60,8 +60,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 **CRAN**
 
-+ [{palmerpenguins} 0.1.0](https://cran.r-project.org/package=palmerpenguins)
-+ [{assertive.reflection} 0.0-5](https://cran.r-project.org/package=assertive.reflection): Assertions for Checking the State of R
++ [{pasertive.reflection} 0.0-5](https://cran.r-project.org/package=assertive.reflection): Assertions for Checking the State of R
 + [{bsub} 1.0.0](https://cran.r-project.org/package=bsub): Submitter and Monitor of the 'LSF Cluster'
 + [{faq} 0.1.0](https://cran.r-project.org/package=faq): Create FAQ Page
 + [{AEenrich} 1.0.0](https://cran.r-project.org/package=AEenrich): Adverse Event Enrichment Tests
