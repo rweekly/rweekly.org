@@ -17,6 +17,8 @@ Release Date: 2020-08-03
 ### Insights
 + [What if exploring data in R is just one line of code?](https://rolkra.github.io/start-to-explore/)
 
++ [Windows/UTF-8 Build of R and CRAN Packages](https://developer.r-project.org/Blog/public/2020/07/30/windows/utf-8-build-of-r-and-cran-packages/)
+
 
 ### R in the Real World
 
