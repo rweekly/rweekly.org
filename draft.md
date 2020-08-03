@@ -1,7 +1,6 @@
 ---
-layout: draft
-title: R Weekly 2020-31
-description: Draft of the R Weekly
+title: R Weekly 2020-31 shiny modules, exploring data, rstudio::global()
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -11,10 +10,11 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-
 ###  Highlight
 
-
++ [A beginner's guide to Shiny modules](https://emilyriederer.netlify.app/post/shiny-modules/) 
++ [What if exploring data in R is just one line of code?](https://rolkra.github.io/start-to-explore/)
++ [rstudio::global() call for talks until August the 14th](https://blog.rstudio.com/2020/07/17/rstudio-global-call-for-talks/)
 
 ### Insights
 
@@ -22,6 +22,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [Windows/UTF-8 Build of R and CRAN Packages](https://developer.r-project.org/Blog/public/2020/07/30/windows/utf-8-build-of-r-and-cran-packages/)
 + [Parallelized sampling using exponential variates](https://blogs.rstudio.com/tensorflow/posts/2020-07-29-parallelized-sampling)
 + [{shinydisconnect}: Show a nice message when a Shiny app disconnects or errors](https://deanattali.com/blog/shinydisconnect-package/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-08-03/disconnect.png)
+
 + [Create a publication-ready correlation matrix, with significance levels, in R](https://paulvanderlaken.com/2020/07/28/publication-ready-correlation-matrix-significance-r/)
 + [Network Analysis: Who is the Most Important Influencer?](https://blog.ephorie.de/network-analysis-who-is-the-most-important-influencer)
 + [3 Wild-Caught R and Python Applications](https://blog.rstudio.com/2020/07/28/practical-interoperability/)
@@ -31,6 +34,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [Get started with tidymodels and #TidyTuesday Palmer Penguins](https://juliasilge.com/blog/palmer-penguins/)
 + [Release the penguins](https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/)
 + [Raybonsai: Generate Procedural 3D Trees in R](https://www.tylermw.com/raybonsai-generate-procedural-3d-trees-in-r/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-08-03/raybonsai.png)
+
 + [evaluating vector space models with word analogies](https://jtimm.net/2020/07/26/evaluating-vector-space-models-with-word-analogies/)
 + [Aligning the Dots On COVID Prison Waffles](https://rud.is/b/2020/07/24/aligning-the-dots-on-covid-prison-waffles/)
 + [Building Complex SQL Queries with R](http://daranzolin.github.io/2020-07-24-building-sql-queries/)
@@ -40,6 +46,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [Dark Mode and more improvements to CRAN as a userscript](https://github.com/chainsawriot/cranitup)
 + [A dashboard of secured shiny apps.](https://www.tychobra.com/posts/2020-07-17-a-dashboard-of-polished-shiny-apps/)
 + [What if exploring data in R is just one line of code?](https://rolkra.github.io/start-to-explore/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-08-03/explore.png)
+
 + [{fabricerin}: Taking notes / drawing within RMarkdown documents and Shiny apps](https://ihaddadenfodil.com/post/taking-notes-in-rmarkdown-using-the-fabricerin-package/)
 + [Can I host my R packages on npm? (Spoiler: yes)](https://colinfay.me/r-package-npm/)
 
@@ -51,7 +60,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 + [`ggplot2` aesthetics cheat sheet](https://drive.google.com/file/d/1Dvul1p6TYH6gWJzZRwpE0YX1dO0hDF-b/view)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2020-31/ggplot2aes.png)
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-08-03/ggplot2aes.png)
 
 + [Epidemiological analysis with R](https://dentaldatascience.org/post/epidemiological-analysis-with-r/)
 
@@ -63,7 +72,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 **CRAN**
 
-+ [{pasertive.reflection} 0.0-5](https://cran.r-project.org/package=assertive.reflection): Assertions for Checking the State of R
++ [{assertive.reflection} 0.0-5](https://cran.r-project.org/package=assertive.reflection): Assertions for Checking the State of R
 + [{bsub} 1.0.0](https://cran.r-project.org/package=bsub): Submitter and Monitor of the 'LSF Cluster'
 + [{faq} 0.1.0](https://cran.r-project.org/package=faq): Create FAQ Page
 + [{AEenrich} 1.0.0](https://cran.r-project.org/package=AEenrich): Adverse Event Enrichment Tests
