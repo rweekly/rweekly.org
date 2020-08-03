@@ -68,6 +68,7 @@ Release Date: 2020-08-10
 
 ###  Tutorials
 
++ [Getting Started with the Tidyverse: Tutorials/Workshop Materials](https://github.com/nuitrcs/r-tidyverse)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
