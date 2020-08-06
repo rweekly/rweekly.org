@@ -16,6 +16,7 @@ Release Date: 2020-08-10
 
 ### Insights
 
++ [Building a python package: Reflections from an R user](https://hfshr.netlify.app/posts/2020-08-02-python-package/)
 
 
 ### R in the Real World
