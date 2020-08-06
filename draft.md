@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2020-00
+title: R Weekly 2020-32
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-00-00
+Release Date: 2020-08-10
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
@@ -42,8 +42,6 @@ Release Date: 2020-00-00
 
 
 
-+ [tidytuesdayR v1.0.1: Download and work with the TidyTuesday Data without leaving your console](https://github.com/thebioengineer/tidytuesdayR)
-
 **BioC**
 
 
@@ -70,7 +68,7 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
-+ [Search your tweets with an automatic pipeline](https://www.tillac-data.com/2020-search-your-tweets-with-an-automatic-pipeline/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -99,6 +97,8 @@ Events in 3 Months:
 ###  Call for Participation
 
 
-<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
+<+ [rstudio::global() call for talks until August the 14th](https://blog.rstudio.com/2020/07/17/rstudio-global-call-for-talks/)
+
+ class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
