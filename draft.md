@@ -40,6 +40,7 @@ Release Date: 2020-08-10
 
 **CRAN**
 
+[{qpmadr} 0.1.0](https://CRAN.R-project.org/package=qpmadr): Efficient quadratic programming solver with linear inequality, equality and box constraints
 
 
 **BioC**
