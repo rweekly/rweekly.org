@@ -7,6 +7,9 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2020-08-10
 
+This week’s release was curated by [Eric Nantz](https://twitter.com/thercast), with help from the RWeekly team members and contributors.
+
+
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 
@@ -16,15 +19,25 @@ Release Date: 2020-08-10
 
 ### Insights
 
++ [Will Netflix Renew the Show?](https://www.iamnagdev.com/?p=898)
+
 
 
 ### R in the Real World
 
++ [A hurdle model for COVID-19 infections in nursing homes](https://www.rdatagen.net/post/a-hurdle-model-for-covid-19-infections-in-nursing-homes-sample-size-considerations/)
 
++ [Another Prediction for the FIFA World Cup 2018](https://www.mango-solutions.com/another-prediction-for-2018-fifa-world-cup/)
+
++ [Predicting pneumonia outcomes: EDA part 1](https://notast.netlify.com/post/predicting-pneumonia-outcomes-eda-part-1/)
 
 ###  R in Organizations
 
++ [Newly certified instructors in July 2020](https://education.rstudio.com/blog/2020/08/july-2020-instructors/)
 
++ [R GUI Update: BlueSky User’s Guide, New Features](http://r4stats.com/2020/08/03/r-gui-update-bluesky-users-guide-new-features/)
+
++ [Shiny on Google Cloud Run - Scale-to-Zero R Web Apps](https://code.markedmondson.me/shiny-cloudrun/) 
 
 ###  R in Academia
 
@@ -32,7 +45,9 @@ Release Date: 2020-08-10
 
 ###  Resources
 
++ [OSF: A Project Management Service Built for Research](https://ropensci.org/blog/2020/08/04/osf/)
 
++ [A guide for helping R programmers get involved in the wonderful Twitter community!](https://www.t4rstats.com/)
 
 ###  New Packages
 
@@ -40,8 +55,35 @@ Release Date: 2020-08-10
 
 **CRAN**
 
-[{qpmadr} 0.1.0](https://CRAN.R-project.org/package=qpmadr): Efficient quadratic programming solver with linear inequality, equality and box constraints
++ [{qpmadr} 0.1.0](https://CRAN.R-project.org/package=qpmadr): Efficient quadratic programming solver with linear inequality, equality and box constraints
 
++ [{fabricerin} 0.1.1](https://cran.r-project.org/package=fabricerin): Create Easily Canvas in 'shiny' and 'RMarkdown' Documents
+
++ [{tboot} 0.2.0](https://cran.r-project.org/package=tboot): Tilted Bootstrap
+
++ [{chunkhooks} 0.0.1](https://cran.r-project.org/package=chunkhooks): Chunk Hooks for 'R Markdown'
+
++ [{eyeRead} 0.0.4](https://cran.r-project.org/package=eyeRead): Prepare/Analyse Eye Tracking Data for Reading
+
++ [{mosqcontrol} 0.1.0](https://cran.r-project.org/package=mosqcontrol): Mosquito Control Resource Optimization
+
++ [{starschemar} 1.0.0](https://cran.r-project.org/package=starschemar): Obtaining Star Schemas from Flat Tables
+
++ [{torch} 0.0.1](https://cran.r-project.org/package=torch): Tensors and Neural Networks with 'GPU' Acceleration
+
++ [{maketools} 1.0.0](https://cran.r-project.org/package=maketools): Exploring and Testing the Toolchain and System Libraries
+
++ [{rdrop2} 0.8.2.1](https://cran.r-project.org/package=rdrop2): Programmatic Interface to the 'Dropbox' API
+
++ [{gkgraphR} 1.0.1](https://cran.r-project.org/package=gkgraphR): Accessing the Official 'Google Knowledge Graph' API
+
++ [{tabularmaps} 0.1.0](https://cran.r-project.org/package=tabularmaps): Create Tile-Grid Geographical Maps
+
++ [{NBShiny3} 0.1.0](https://cran.r-project.org/package=NBShiny3): Interactive Document for Working with Naive Bayes Classification
+
++ [{KMunicate} 0.0.2](https://cran.r-project.org/package=KMunicate): KMunicate-Style Kaplan–Meier Plots
+
++ [{bspm} 0.3.4](https://cran.r-project.org/package=bspm): Bridge to System Package Manager
 
 **BioC**
 
@@ -49,14 +91,53 @@ Release Date: 2020-08-10
 
 **GitHub or Bitbucket**
 
++ [`packer` - An opinionated framework for using JavaScript with R](https://packer.john-coene.com/)
+
++ [`flow` - Visualize as flow diagrams the logic of functions, expressions, or scripts and ease debugging](https://github.com/moodymudskipper/flow)
+
++ [`ggkeyboard` - Make a keyboard using ggplot2](https://github.com/sharlagelfand/ggkeyboard)
+
++ [`shinykeyboard` - R package to create an on-screen keyboard as a custom Shiny input binding](https://github.com/willdebras/shinykeyboard)
+
++ [Introducing 'spng' - In-memory decoding of PNG images](https://coolbutuseless.github.io/2020/08/05/introducing-spng-in-memory-decoding-of-png-images/)
+
++ [Introducing 'pixelweaver' - Convert arrays/matrices to packed ARGB32 colour format](https://coolbutuseless.github.io/2020/08/03/introducing-pixelweaver-convert-arrays/matrices-to-packed-argb32-colour-format/)
+
++ [`flashCard` - Create flash cards for Shiny applications](https://github.com/jienagu/flashCard)
+
++ [`linne` - Write CSS in R](https://linne.john-coene.com/)
 
 
 ### Updated Packages
 
++ [nanotime 0.3.0: Yuge New Features!](http://dirk.eddelbuettel.com/blog/2020/08/06#nanotime_0.3.0)
 
++ [RcppCCTZ 0.2.8: Minor API Extension](http://dirk.eddelbuettel.com/blog/2020/08/04#rcppcctz_0.2.8)
+
++ [{tidyHeatmap} 1.1.4](https://cran.r-project.org/package=tidyHeatmap): A Tidy Implementation of Heatmap
+
++ [{shinybrms} 1.3.0](https://cran.r-project.org/package=shinybrms): Graphical User Interface ('Shiny' App) for Package 'brms'
+
++ [{ipaddress} 0.4.0](https://cran.r-project.org/package=ipaddress): Tidy IP Addresses
+
++ [{DT} 0.15](https://cran.r-project.org/package=DT): A Wrapper of the JavaScript Library 'DataTables'
+
++ [{paws} 0.1.9](https://cran.r-project.org/package=paws): Amazon Web Services Software Development Kit
+
++ [{neo4jshell} 0.1.1](https://cran.r-project.org/package=neo4jshell): Querying and Managing 'Neo4J' Databases in 'R'
+
++ [{vov} 0.1.1](https://cran.r-project.org/package=vov): CSS Animations for 'shiny' Elements
+
++ [{modelsummary} 0.5.1](https://cran.r-project.org/package=modelsummary): Summary Tables and Plots for Statistical Models and Data:
+Beautiful, Customizable, and Publication-Ready
+
++ [{brickr} 0.3.5](https://cran.r-project.org/package=brickr): Emulate LEGO Bricks in 2D and 3D
+
++ [{rayshader} 0.19.2](https://cran.r-project.org/package=rayshader): Create Maps and Visualize Data in 2D and 3D
 
 ###  Videos and Podcasts
 
++ [TidyX Episode 21: The Birds](https://www.youtube.com/watch?v=8yxLtsvOqDw)
 
 
 ### Gist & Cookbook
@@ -71,6 +152,21 @@ Release Date: 2020-08-10
 
 + [Getting Started with the Tidyverse: Tutorials/Workshop Materials](https://github.com/nuitrcs/r-tidyverse)
 
++ [Quick Hit: Comparison of “Whole File Reading” Methods](https://rud.is/b/2020/08/07/quick-hit-comparison-of-whole-file-reading-methods/)
+
++ [Basic manipulation of GIF frames with magick](https://statisticaloddsandends.wordpress.com/2020/08/06/basic-manipulation-of-gif-frames-with-magick/)
+
++ [Tutorial: Getting Started with R and RStudio](https://www.dataquest.io/blog/tutorial-getting-started-with-r-and-rstudio/)
+
++ [Image contours in R](https://statisticaloddsandends.wordpress.com/2020/08/05/image-contours-in-r/)
+
++ [finding contour lines](https://www.bnosac.be/index.php/blog/101-finding-contour-lines) 
+
++ [Intersecting consecutive pairs of list elements in R, an example with NBA data](https://luisdva.github.io/rstats/playoff/) 
+
++ [Creating R Packages with devtools](https://keithmcnulty.github.io/r_package_training/index.html#1)
+
++ [Hugo Academic Source Links](https://benjamin-wolfe.netlify.app/post/2020-07-31-hugo-academic-source-links/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -83,6 +179,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [Join us at R/Medicine – Aug 27-29, 2020](https://www.r-consortium.org/blog/2020/08/06/join-us-at-r-medicine-aug-27-29-2020)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -90,6 +187,10 @@ Events in 3 Months:
 
 
 ### Datasets
+
++ [{ukpolice} 0.2.2](https://cran.r-project.org/package=ukpolice): Download Data on UK Police and Crime
+
++ [{climate} 0.9.8](https://cran.r-project.org/package=climate): Interface to Download Meteorological (and Hydrological) Datasets
 
 ### Jobs
 
@@ -100,6 +201,8 @@ Events in 3 Months:
 
 
 <+ [rstudio::global() call for talks until August the 14th](https://blog.rstudio.com/2020/07/17/rstudio-global-call-for-talks/)
+
++ [10 reasons why you should submit an abstract for EARL](https://www.mango-solutions.com/10-reasons-why-you-should-submit-an-abstract-for-earl/)
 
  class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
