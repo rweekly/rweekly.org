@@ -21,7 +21,7 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [Will Netflix Renew the Show?](https://www.iamnagdev.com/?p=898)
 
-
++ [87th TokyoR Meetup Roundup: {data.table}, Bioconductor, & more!](https://ryo-n7.github.io/2020-08-03-tokyoR-87-roundup/)
 
 ### R in the Real World
 
