@@ -15,7 +15,11 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 ###  Highlight
 
++ [`shinykeyboard` - R package to create an on-screen keyboard as a custom Shiny input binding](https://github.com/willdebras/shinykeyboard)
 
++ [TidyX Episode 21: The Birds](https://www.youtube.com/watch?v=8yxLtsvOqDw)
+
++ [A guide for helping R programmers get involved in the wonderful Twitter community!](https://www.t4rstats.com/)
 
 ### Insights
 
@@ -38,10 +42,6 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 + [R GUI Update: BlueSky User’s Guide, New Features](http://r4stats.com/2020/08/03/r-gui-update-bluesky-users-guide-new-features/)
 
 + [Shiny on Google Cloud Run - Scale-to-Zero R Web Apps](https://code.markedmondson.me/shiny-cloudrun/) 
-
-###  R in Academia
-
-
 
 ###  Resources
 
@@ -83,11 +83,9 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [{KMunicate} 0.0.2](https://cran.r-project.org/package=KMunicate): KMunicate-Style Kaplan–Meier Plots
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-08-10/kmunicate.png)
+
 + [{bspm} 0.3.4](https://cran.r-project.org/package=bspm): Bridge to System Package Manager
-
-**BioC**
-
-
 
 **GitHub or Bitbucket**
 
@@ -95,7 +93,7 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [`flow` - Visualize as flow diagrams the logic of functions, expressions, or scripts and ease debugging](https://github.com/moodymudskipper/flow)
 
-+ [`ggkeyboard` - Make a keyboard using ggplot2](https://github.com/sharlagelfand/ggkeyboard)
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-08-10/flow_full.png)
 
 + [`shinykeyboard` - R package to create an on-screen keyboard as a custom Shiny input binding](https://github.com/willdebras/shinykeyboard)
 
@@ -104,6 +102,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 + [Introducing 'pixelweaver' - Convert arrays/matrices to packed ARGB32 colour format](https://coolbutuseless.github.io/2020/08/03/introducing-pixelweaver-convert-arrays/matrices-to-packed-argb32-colour-format/)
 
 + [`flashCard` - Create flash cards for Shiny applications](https://github.com/jienagu/flashCard)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-08-10/flashCard.gif)
 
 + [`linne` - Write CSS in R](https://linne.john-coene.com/)
 
@@ -139,15 +139,6 @@ Beautiful, Customizable, and Publication-Ready
 
 + [TidyX Episode 21: The Birds](https://www.youtube.com/watch?v=8yxLtsvOqDw)
 
-
-### Gist & Cookbook
-
-
-
-### R Internationally
-
-
-
 ###  Tutorials
 
 + [Getting Started with the Tidyverse: Tutorials/Workshop Materials](https://github.com/nuitrcs/r-tidyverse)
@@ -155,6 +146,8 @@ Beautiful, Customizable, and Publication-Ready
 + [Quick Hit: Comparison of “Whole File Reading” Methods](https://rud.is/b/2020/08/07/quick-hit-comparison-of-whole-file-reading-methods/)
 
 + [Basic manipulation of GIF frames with magick](https://statisticaloddsandends.wordpress.com/2020/08/06/basic-manipulation-of-gif-frames-with-magick/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-08-10/lebronr.gif)
 
 + [Tutorial: Getting Started with R and RStudio](https://www.dataquest.io/blog/tutorial-getting-started-with-r-and-rstudio/)
 
@@ -192,10 +185,6 @@ Events in 3 Months:
 
 + [{climate} 0.9.8](https://cran.r-project.org/package=climate): Interface to Download Meteorological (and Hydrological) Datasets
 
-### Jobs
-
-
-
 
 ###  Call for Participation
 
@@ -207,3 +196,9 @@ Events in 3 Months:
  class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is a huge announcement that hasn&#39;t gotten much attention yet. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> users will finally be able to get their bar graphs with hatching:<br>Gradient fill, pattern fill, masks, and clipping paths in the R graphics engine. <a href="https://t.co/8KPDsPVFUv">https://t.co/8KPDsPVFUv</a> <a href="https://t.co/snDKSiBmlQ">pic.twitter.com/snDKSiBmlQ</a></p>&mdash; Claus Wilke (@ClausWilke) <a href="https://twitter.com/ClausWilke/status/1291466981691002891?ref_src=twsrc%5Etfw">August 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">M secret debugging technique in <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a>: automatically search for the error on <a href="https://twitter.com/hashtag/stackoverflow?src=hash&amp;ref_src=twsrc%5Etfw">#stackoverflow</a>. Hacker level over 9000 😂 <a href="https://t.co/0C79j9iRU9">pic.twitter.com/0C79j9iRU9</a></p>&mdash; Thomas Neitmann (@thomas_neitmann) <a href="https://twitter.com/thomas_neitmann/status/1292179350926786565?ref_src=twsrc%5Etfw">August 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sidetracked by <a href="https://twitter.com/JonTheGeek?ref_src=twsrc%5Etfw">@JonTheGeek</a> - animated hex with movement from a 2d physics simulation.<br><br>* Orchestrated in <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <br>* Sim in Chipmunk2d<br>* Image rendering in CairoGraphics <a href="https://t.co/gSfTIOFqQR">pic.twitter.com/gSfTIOFqQR</a></p>&mdash; mikefc (@coolbutuseless) <a href="https://twitter.com/coolbutuseless/status/1292357126862639106?ref_src=twsrc%5Etfw">August 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
