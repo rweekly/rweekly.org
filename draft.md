@@ -14,11 +14,15 @@ image: https://rweekly.org/public/facebook.png
 
 ### Insights
 
++ [On Quosures](https://www.brodieg.com/2020/08/11/quosures/)
 
++ [Summer 2020 Data Science Internship (Praxis Funded!)](https://mariumtapal.rbind.io/blog/summer_internship_2020/)
 
 ### R in the Real World
 
++ [A visualization exploring types of comic transitions as described in Scott McCloud's "Understanding Comics". ](https://github.com/sharlagelfand/understanding-comics)
 
+![]()
 
 ###  R in Organizations
 
@@ -26,11 +30,11 @@ image: https://rweekly.org/public/facebook.png
 
 ###  R in Academia
 
-
++ [H. Bengtsson, A Unifying Framework for Parallel and Distributed Processing in R using Futures, arXiv:2008.00553, 2020](https://github.com/HenrikBengtsson/article-bengtsson-future)
 
 ###  Resources
 
-
++ [R with (x) => x + 1 anonymous functions](https://github.com/andycraig/r-anonymous-functions)
 
 ###  New Packages
 
@@ -46,15 +50,19 @@ image: https://rweekly.org/public/facebook.png
 
 **GitHub or Bitbucket**
 
++ [{soilpalettes}: R color palettes inspired by soil profiles](https://github.com/kaizadp/soilpalettes)
 
++ [{lineR}: lineR package offers a function to send Line notifications using LINE Notify API.](https://github.com/koki25ando/lineR)
 
 ### Updated Packages
 
++ [{pointblank} 0.5.0: Validation of local and remote data tables ](https://cran.r-project.org/package=pointblank)
 
++ [{mapview} 2.9.0](https://cran.r-project.org/package=mapview)
 
 ###  Videos and Podcasts
 
-
++ [Build a predictive text model for Avatar: The Last Airbender with tidymodels](https://www.youtube.com/watch?v=wd4MZHx9F9Y)
 
 ### Gist & Cookbook
 
@@ -66,7 +74,19 @@ image: https://rweekly.org/public/facebook.png
 
 ###  Tutorials
 
++ [How to make web-ready US county-level maps](https://asmae-toumi.netlify.app/posts/2020-08-10-how-to-make-web-ready-us-county-level-maps/)
 
++ [Build a #TidyTuesday predictive text model for The Last Airbender](https://juliasilge.com/blog/last-airbender/)
+
++ [Solving small data problems with data.table](https://johnmackintosh.net/blog/2020-08-11-quick-hit/)
+
++ [Textrecipes series: Pretrained Word Embedding](https://www.hvitfeldt.me/blog/textrecipes-series-pretrained-word-embeddings/)
+
++ [Testing interactive functions](https://debruine.github.io/posts/interactive-test/)
+
++ [xG Model - Design and Implementation with R Tidymodels](https://www.thesignificantgame.com/portfolio/expected-goals-model-with-tidymodels/)
+
++ [Quick GitHub Actions for your R package](https://www.rostrum.blog/2020/08/09/ghactions-pkgs/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
