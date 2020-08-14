@@ -22,6 +22,8 @@ image: https://rweekly.org/public/facebook.png
 
 + [A visualization exploring types of comic transitions as described in Scott McCloud's "Understanding Comics". ](https://github.com/sharlagelfand/understanding-comics)
 
++ [Making iterative one-pagers using R](https://www.ncdemography.org/2020/08/10/making-iterative-one-pagers-using-r/)
+
 ![]()
 
 ###  R in Organizations
