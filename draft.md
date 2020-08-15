@@ -18,15 +18,22 @@ image: https://rweekly.org/public/facebook.png
 
 + [Summer 2020 Data Science Internship (Praxis Funded!)](https://mariumtapal.rbind.io/blog/summer_internship_2020/)
 
++ [How to Deliver Maximum Value Using R & Python ](https://blog.rstudio.com/2020/08/13/how-to-deliver-maximum-value-using-r-python/)
+
+
 ### R in the Real World
 
 + [A visualization exploring types of comic transitions as described in Scott McCloud's "Understanding Comics". ](https://github.com/sharlagelfand/understanding-comics)
 
 ![]()
 
-###  R in Organizations
++ [The language of rules: textual complexity in banking reforms](https://bankunderground.co.uk/2020/08/13/the-language-of-rules-textual-complexity-in-banking-reforms/)
 
++ [Monitor COVID-19 at the COVID-19 Forecast Hub](https://rviews.rstudio.com/2020/08/10/us-covid-19-forecasts/)
 
++ [Trail running : is it worth starting?](http://r.iresmi.net/2020/08/10/trail-running-is-it-worth-starting/)
+
++ [Mortgage calculator in R Shiny](https://www.statsandr.com/blog/mortgage-calculator-r-shiny/)
 
 ###  R in Academia
 
@@ -42,11 +49,24 @@ image: https://rweekly.org/public/facebook.png
 
 **CRAN**
 
++ [{geometries} 0.1.0](https://cran.r-project.org/package=geometries): Convert Between R Objects and Geometric Structures
 
++ [{rdomains} 0.1.9](https://cran.r-project.org/package=rdomains): Get the Category of Content Hosted by a Domain
 
-**BioC**
++ [{graph3d} 0.1.0](https://cran.r-project.org/package=graph3d): A Wrapper of the JavaScript Library 'vis-graph3d'
 
++ [{DataEditR} 0.0.5](https://cran.r-project.org/package=DataEditR): An Interactive Editor for Viewing, Entering & Editing Data
 
++ [{dashPivottable} 0.0.2-1](https://cran.r-project.org/package=dashPivottable): Interactive React-Based Pivot Tables for Dash
+
++ [{geos} 0.0.1](https://cran.r-project.org/package=geos): Open Source Geometry Engine ('GEOS') R API
+
++ [{flashCard} 0.1.0](https://cran.r-project.org/package=flashCard): Create a Flash Card
+
++ [{bsem} 1.0.0](https://cran.r-project.org/package=bsem): Bayesian Structural Equation Models
+
++ [{met} 0.1.0](https://cran.r-project.org/package=met): Evaluating and Improving Matched Samples in Observational
+Studies
 
 **GitHub or Bitbucket**
 
@@ -54,29 +74,57 @@ image: https://rweekly.org/public/facebook.png
 
 + [{lineR}: lineR package offers a function to send Line notifications using LINE Notify API.](https://github.com/koki25ando/lineR)
 
+
+
 ### Updated Packages
 
 + [{pointblank} 0.5.0: Validation of local and remote data tables ](https://cran.r-project.org/package=pointblank)
 
 + [{mapview} 2.9.0](https://cran.r-project.org/package=mapview)
 
++ [RcppSimdJson 0.1.1: More Features](http://dirk.eddelbuettel.com/blog/2020/08/11#rcppsimdjson_0.1.1)
+
++ [{wikisourcer} 0.1.5](https://cran.r-project.org/package=wikisourcer): Download Public Domain Works from Wikisource
+
++ [{fabricerin} 0.1.2](https://cran.r-project.org/package=fabricerin): Create Easily Canvas in 'shiny' and 'RMarkdown' Documents
+
++ [{oxcovid19} 0.1.1](https://cran.r-project.org/package=oxcovid19): An R API to the Oxford COVID-19 Database
+
++ [{MonetDB.R} 2.0.0](https://cran.r-project.org/package=MonetDB.R): Connect MonetDB to R
+
++ [{ezplot} 0.6.2](https://cran.r-project.org/package=ezplot): Functions for Common Chart Types
+
++ [{showtext} 0.9](https://cran.r-project.org/package=showtext): Using Fonts More Easily in R Graphs
+
++ [{rqdatatable} 1.2.8](https://cran.r-project.org/package=rqdatatable): 'rquery' for 'data.table'
+
++ [{JuliaConnectoR} 0.6.1](https://cran.r-project.org/package=JuliaConnectoR): A Functionally Oriented Interface for Integrating 'Julia' with R
+
++ [{skedastic} 1.0.0](https://cran.r-project.org/package=skedastic): Heteroskedasticity Diagnostics for Linear Regression Models
+
++ [{cpp11} 0.2.1](https://cran.r-project.org/package=cpp11): A C++11 Interface for R's C Interface
+
++ [{ggalluvial} 0.12.1](https://cran.r-project.org/package=ggalluvial): Alluvial Plots in 'ggplot2'
+
++ [{tidytable} 0.5.4](https://cran.r-project.org/package=tidytable): Tidy Interface to 'data.table'
+
+
+
 ###  Videos and Podcasts
 
 + [Build a predictive text model for Avatar: The Last Airbender with tidymodels](https://www.youtube.com/watch?v=wd4MZHx9F9Y)
 
-### Gist & Cookbook
-
-
-
 ### R Internationally
 
-
++ [(French) Télécharger les issues Gitlab ou Github et faire un rapport résumé de vos commits](https://rtask.thinkr.fr/fr/telecharger-les-issues-gitlab-ou-github-et-faire-un-rapport-resume-de-vos-commits/)
 
 ###  Tutorials
 
 + [How to make web-ready US county-level maps](https://asmae-toumi.netlify.app/posts/2020-08-10-how-to-make-web-ready-us-county-level-maps/)
 
 + [Build a #TidyTuesday predictive text model for The Last Airbender](https://juliasilge.com/blog/last-airbender/)
+
+![]()
 
 + [Solving small data problems with data.table](https://johnmackintosh.net/blog/2020-08-11-quick-hit/)
 
@@ -86,14 +134,31 @@ image: https://rweekly.org/public/facebook.png
 
 + [xG Model - Design and Implementation with R Tidymodels](https://www.thesignificantgame.com/portfolio/expected-goals-model-with-tidymodels/)
 
+![]()
+
 + [Quick GitHub Actions for your R package](https://www.rostrum.blog/2020/08/09/ghactions-pkgs/)
+
++ [Analyzing data on remote servers using Spacemacs and ESS](https://solmos.netlify.app/post/2020-07-06-emacs-for-statisticians/emacs-for-statisticians/)
+
++ [Geocoding An Intersection with Open Street Map data](https://www.yihanwu.ca/post/geocoding-an-intersection-with-open-street-map-data/)
+
++ [Transform a folder as git project synchronized on Github or Gitlab](https://rtask.thinkr.fr/transform-a-folder-as-git-project-synchronized-on-github-or-gitlab/)
+
++ [TV Shows on the "Big 3" Streaming Services](http://www.deeplytrivial.com/2020/08/tv-shows-on-big-3-streaming-services.html)
+
++ [Outliers detection in R](https://www.statsandr.com/blog/outliers-detection-in-r/)
+
++ [{shinycssloaders} v1.0: You can now use your own image, plus 3 years' worth of new features!](https://deanattali.com/blog/shinycssloaders-v1.0/)
+
++ [Annotating SPC plots using annotate with ggplot](https://nhsrcommunity.com/blog/annotating-spc-plots-using-annotate-with-ggplot/)
+
++ [Sharing pictures from holidays in the Canadian Rockies (with R)](https://freakonometrics.hypotheses.org/61212)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
 
 ###  Upcoming Events in 3 Months
 
@@ -106,17 +171,19 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
-
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I saw the fascinating bar chart portrait by <a href="https://twitter.com/ElanaEllesce?ref_src=twsrc%5Etfw">@ElanaEllesce</a> at <a href="https://t.co/MpPZfkxEL4">https://t.co/MpPZfkxEL4</a> and recreated it with magick and ggplot. Code coming soon!<a href="https://twitter.com/hashtag/aRt?src=hash&amp;ref_src=twsrc%5Etfw">#aRt</a> <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://t.co/7M9kuLcnEi">pic.twitter.com/7M9kuLcnEi</a></p>&mdash; Georgios Karamanis (@geokaramanis) <a href="https://twitter.com/geokaramanis/status/1294141970445553664?ref_src=twsrc%5Etfw">August 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">After more than 2 years, there will soon be a new release of the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> 📦 for running purrr in parallel - furrr!<br><br>There are a ton of bug fixes, a new future_walk() function, a whopping 5 new vignettes, and, most importantly, a hex sticker by Dan Kuhn!<a href="https://t.co/qsNodmEk1J">https://t.co/qsNodmEk1J</a> <a href="https://t.co/45VZSv0yVG">pic.twitter.com/45VZSv0yVG</a></p>&mdash; Davis Vaughan (@dvaughan32) <a href="https://twitter.com/dvaughan32/status/1294331442714021888?ref_src=twsrc%5Etfw">August 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m chuffed to announce the release of my first open source <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package! 🥳🎉🍾<br><br>stringr . plus is a collection of helpful string functions that aren&#39;t included in stringr:<a href="https://t.co/7uFGNs0jN9">https://t.co/7uFGNs0jN9</a> <a href="https://t.co/adpfOu0qNY">pic.twitter.com/adpfOu0qNY</a></p>&mdash; John Cassil (@johncassil) <a href="https://twitter.com/johncassil/status/1294039483415957509?ref_src=twsrc%5Etfw">August 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you&#39;ve been thinking about submitting to rstudio::global() but haven&#39;t quite found the time: good news! We&#39;ve extended the deadline to submit by two weeks — <a href="https://t.co/OJUgzgqqEj">https://t.co/OJUgzgqqEj</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1294041487638962187?ref_src=twsrc%5Etfw">August 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 
