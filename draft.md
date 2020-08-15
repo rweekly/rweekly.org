@@ -74,7 +74,7 @@ Studies
 
 + [{lineR}: lineR package offers a function to send Line notifications using LINE Notify API.](https://github.com/koki25ando/lineR)
 
-
++ [{stringr.plus} 0.1.0: string functions that are "too specific for stringr" for Hadley Wickham](https://github.com/johncassil/stringr.plus)
 
 ### Updated Packages
 
