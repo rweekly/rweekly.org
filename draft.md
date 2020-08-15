@@ -25,6 +25,8 @@ image: https://rweekly.org/public/facebook.png
 
 + [A visualization exploring types of comic transitions as described in Scott McCloud's "Understanding Comics". ](https://github.com/sharlagelfand/understanding-comics)
 
++ [Making iterative one-pagers using R](https://www.ncdemography.org/2020/08/10/making-iterative-one-pagers-using-r/)
+
 ![]()
 
 + [The language of rules: textual complexity in banking reforms](https://bankunderground.co.uk/2020/08/13/the-language-of-rules-textual-complexity-in-banking-reforms/)
