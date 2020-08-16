@@ -7,10 +7,11 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
+This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the RWeekly team members and contributors.
 
 ###  Highlight
 
-
++ [A visualization exploring types of comic transitions as described in Scott McCloud's "Understanding Comics". ](https://github.com/sharlagelfand/understanding-comics)
 
 ### Insights
 
@@ -25,9 +26,9 @@ image: https://rweekly.org/public/facebook.png
 
 + [A visualization exploring types of comic transitions as described in Scott McCloud's "Understanding Comics". ](https://github.com/sharlagelfand/understanding-comics)
 
-+ [Making iterative one-pagers using R](https://www.ncdemography.org/2020/08/10/making-iterative-one-pagers-using-r/)
-
 ![]()
+
++ [Making iterative one-pagers using R](https://www.ncdemography.org/2020/08/10/making-iterative-one-pagers-using-r/)
 
 + [The language of rules: textual complexity in banking reforms](https://bankunderground.co.uk/2020/08/13/the-language-of-rules-textual-complexity-in-banking-reforms/)
 
@@ -44,6 +45,12 @@ image: https://rweekly.org/public/facebook.png
 ###  Resources
 
 + [R with (x) => x + 1 anonymous functions](https://github.com/andycraig/r-anonymous-functions)
+
++ [RStats NYC 2020 Conference Website](https://rstats.ai/nyr/)
+
++ [Football related community resources](https://thecomeonman.github.io/)
+
++ [Create your own FBref scatter plot (Shiny app)](https://shinynew.robinkoetsier.nl/FBrefApp/)
 
 ###  New Packages
 
@@ -73,6 +80,8 @@ Studies
 **GitHub or Bitbucket**
 
 + [{soilpalettes}: R color palettes inspired by soil profiles](https://github.com/kaizadp/soilpalettes)
+
+![]()
 
 + [{lineR}: lineR package offers a function to send Line notifications using LINE Notify API.](https://github.com/koki25ando/lineR)
 
@@ -109,8 +118,6 @@ Studies
 + [{ggalluvial} 0.12.1](https://cran.r-project.org/package=ggalluvial): Alluvial Plots in 'ggplot2'
 
 + [{tidytable} 0.5.4](https://cran.r-project.org/package=tidytable): Tidy Interface to 'data.table'
-
-
 
 ###  Videos and Podcasts
 
