@@ -26,7 +26,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [A visualization exploring types of comic transitions as described in Scott McCloud's "Understanding Comics". ](https://github.com/sharlagelfand/understanding-comics)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-08-17/sharla-comic.png)
 
 + [Making iterative one-pagers using R](https://www.ncdemography.org/2020/08/10/making-iterative-one-pagers-using-r/)
 
@@ -81,7 +81,7 @@ Studies
 
 + [{soilpalettes}: R color palettes inspired by soil profiles](https://github.com/kaizadp/soilpalettes)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-08-17/soil-palette.png)
 
 + [{lineR}: lineR package offers a function to send Line notifications using LINE Notify API.](https://github.com/koki25ando/lineR)
 
@@ -133,7 +133,7 @@ Studies
 
 + [Build a #TidyTuesday predictive text model for The Last Airbender](https://juliasilge.com/blog/last-airbender/)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-08-17/avatar-plot.png)
 
 + [Solving small data problems with data.table](https://johnmackintosh.net/blog/2020-08-11-quick-hit/)
 
@@ -142,8 +142,6 @@ Studies
 + [Testing interactive functions](https://debruine.github.io/posts/interactive-test/)
 
 + [xG Model - Design and Implementation with R Tidymodels](https://www.thesignificantgame.com/portfolio/expected-goals-model-with-tidymodels/)
-
-![]()
 
 + [Quick GitHub Actions for your R package](https://www.rostrum.blog/2020/08/09/ghactions-pkgs/)
 
@@ -174,6 +172,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 Events in 3 Months:
 
 + [Join us at R/Medicine – Aug 27-29, 2020](https://www.r-consortium.org/blog/2020/08/06/join-us-at-r-medicine-aug-27-29-2020)
+
++ [88th TokyoR Virtual Meetup - September 19th, 2020](https://tokyor.connpass.com/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
