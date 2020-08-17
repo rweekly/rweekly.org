@@ -79,19 +79,21 @@ Studies
 
 **GitHub or Bitbucket**
 
-+ [{soilpalettes}: R color palettes inspired by soil profiles](https://github.com/kaizadp/soilpalettes)
++ [{soilpalettes}](https://github.com/kaizadp/soilpalettes): R color palettes inspired by soil profiles
 
 ![](https://raw.githubusercontent.com/rweekly/image/master/2020-08-17/soil-palette.png)
 
-+ [{lineR}: lineR package offers a function to send Line notifications using LINE Notify API.](https://github.com/koki25ando/lineR)
++ [{lineR}](https://github.com/koki25ando/lineR): lineR package offers a function to send Line notifications using LINE Notify API.
 
-+ [{stringr.plus} 0.1.0: string functions that are "too specific for stringr" for Hadley Wickham](https://github.com/johncassil/stringr.plus)
++ [{stringr.plus} 0.1.0](https://github.com/johncassil/stringr.plus): string functions that are "too specific for stringr" for Hadley Wickham
+
++ [{parameterpal} 0.0.1](https://github.com/softloud/parameterpal): Intepretable parameters for the beta distribution
 
 ### Updated Packages
 
 + [{pointblank} 0.5.0: Validation of local and remote data tables ](https://cran.r-project.org/package=pointblank)
 
-+ [{mapview} 2.9.0](https://cran.r-project.org/package=mapview)
++ [{mapview} 2.9.0](https://cran.r-project.org/package=mapview): Interactive Viewing of Spatial Data in R
 
 + [RcppSimdJson 0.1.1: More Features](http://dirk.eddelbuettel.com/blog/2020/08/11#rcppsimdjson_0.1.1)
 
@@ -119,9 +121,15 @@ Studies
 
 + [{tidytable} 0.5.4](https://cran.r-project.org/package=tidytable): Tidy Interface to 'data.table'
 
++ [{vroom} 1.3.0](https://vroom.r-lib.org/index.html): The fastest delimited reader for R
+
++ [{furrr}: 0.1.0](https://davisvaughan.github.io/furrr/index.html)
+
 ###  Videos and Podcasts
 
 + [Build a predictive text model for Avatar: The Last Airbender with tidymodels](https://www.youtube.com/watch?v=wd4MZHx9F9Y)
+
++ [TidyX Episode 23: Mailbag and Expected Wins](https://www.youtube.com/watch?v=6qjUvHZmj94)
 
 ### R Internationally
 
@@ -160,6 +168,8 @@ Studies
 + [Annotating SPC plots using annotate with ggplot](https://nhsrcommunity.com/blog/annotating-spc-plots-using-annotate-with-ggplot/)
 
 + [Sharing pictures from holidays in the Canadian Rockies (with R)](https://freakonometrics.hypotheses.org/61212)
+
++ [A guide to retrieval and processing of data from relational database systems using Apache Spark and JDBC with R and sparklyr](https://jozef.io/r925-spark-jdbc-loading-data/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
