@@ -48,7 +48,7 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-
++ [{tinieR} 0.1.0](https://github.com/jmablog/tinieR): Shrink image filesizes with TinyPNG.com's API
 
 ### Updated Packages
 
