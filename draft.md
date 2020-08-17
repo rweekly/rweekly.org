@@ -171,6 +171,8 @@ Studies
 
 + [A guide to retrieval and processing of data from relational database systems using Apache Spark and JDBC with R and sparklyr](https://jozef.io/r925-spark-jdbc-loading-data/)
 
++ [Running RStudio Server via Ubuntu 20 on Windows 10](https://jmgirard.com/rstudio-wsl2/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
