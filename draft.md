@@ -13,6 +13,10 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [A visualization exploring types of comic transitions as described in Scott McCloud's "Understanding Comics". ](https://github.com/sharlagelfand/understanding-comics)
 
++ [{showtext} 0.9](https://cran.r-project.org/package=showtext): Using Fonts More Easily in R Graphs
+
++ [{shinycssloaders} v1.0: You can now use your own image, plus 3 years' worth of new features!](https://deanattali.com/blog/shinycssloaders-v1.0/)
+
 ### Insights
 
 + [On Quosures](https://www.brodieg.com/2020/08/11/quosures/)
@@ -20,7 +24,6 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 + [Summer 2020 Data Science Internship (Praxis Funded!)](https://mariumtapal.rbind.io/blog/summer_internship_2020/)
 
 + [How to Deliver Maximum Value Using R & Python ](https://blog.rstudio.com/2020/08/13/how-to-deliver-maximum-value-using-r-python/)
-
 
 ### R in the Real World
 
