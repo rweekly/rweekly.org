@@ -56,7 +56,7 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
-
++ [Shiny Developer Series Episode 11](https://shinydevseries.com/post/episode-11-sidi/) - Eric Nantz is joined by package author and Shiny enthusiast Yoni Sidi to discuss the impact of Shiny in life sciences, origins of `{ggedit}`, and more.
 
 ### Gist & Cookbook
 
