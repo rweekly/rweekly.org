@@ -73,6 +73,7 @@ Release Date: 2020-00-00
 
 ### Gist & Cookbook
 
+[2019 NFL Team Ratings](https://kcuilla.netlify.app/post/2019-nfl-team-ratings/)
 
 
 ### R Internationally
@@ -103,6 +104,8 @@ Events in 3 Months:
 + [Join us at R/Medicine – Aug 27-29, 2020](https://www.r-consortium.org/blog/2020/08/06/join-us-at-r-medicine-aug-27-29-2020)
 
 + [88th TokyoR Virtual Meetup - September 19th, 2020](https://tokyor.connpass.com/)
+
++ [VirtuEARL – EARL Conference online - October 2020](https://www.mango-solutions.com/virtuearl-earl-conference-online-2020/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
