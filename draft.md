@@ -24,9 +24,11 @@ Release Date: 2020-00-00
 + [Taking Control of Plot Scaling](https://www.tidyverse.org/blog/2020/08/taking-control-of-plot-scaling/)
 + [Boundary corrected kernel density](https://eranraviv.com/boundary-corrected-kernel-density/)
 + [Make R Shiny Dashboards Faster with updateInput, CSS, and JavaScript](https://appsilon.com/r-shiny-faster-updateinput-css-javascript/)
++ [Lines of best fit](http://freerangestats.info/blog/2020/08/23/highered-ols)
 + [Generating data from a truncated distribution](https://www.rdatagen.net/post/generating-data-from-a-truncated-distribution/)
 
 ![Truncated normal distributions. No truncation, left truncation, left and right truncation.](https://cdn.jsdelivr.net/gh/rweekly/image/2020-08-24/truncation.png)
+
 
 ### R in the Real World
 
@@ -41,6 +43,7 @@ Release Date: 2020-00-00
 ###  Resources
 
 + [More sample exams](https://education.rstudio.com/blog/2020/08/more-example-exams/)
++ [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/)
 
 
 ###  New Packages
@@ -152,8 +155,15 @@ or Commercial Software
 + [R Package Integration with Modern Reusable C++ Code Using Rcpp - Part 4](https://rviews.rstudio.com/2020/08/18/r-package-integration-with-modern-reusable-c-code-using-rcpp-part-4/)
 + [Spreadsheet workflows in R](https://education.rstudio.com/blog/2020/08/spreadsheets-using-r/)
 + [How to Extract Time from Datetime in R – with Examples](https://www.marsja.se/how-to-extract-time-from-datetime-in-r-with-examples/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-extract-time-from-datetime-in-r-with-examples)
++ [Deepfake detection challenge from R](https://blogs.rstudio.com/ai/posts/2020-08-18-deepfake/)
++ [Shiny in Production: App and Database Syncing](https://roh.engineering/post/shiny-in-production-app-and-database-syncing/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+
+
+###  R Project Updates
+
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS)
 
 
 ###  Upcoming Events in 3 Months
@@ -170,6 +180,9 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
+### Jobs
+
++ [Job Opportunities: Data Scientist and Engineer](https://www.jumpingrivers.com/blog/job-opportunities-data-scientist-and-engineer/)
 
 ###  Call for Participation
 
