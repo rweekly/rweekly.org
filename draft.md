@@ -44,7 +44,7 @@ Release Date: 2020-00-00
 
 + [More sample exams](https://education.rstudio.com/blog/2020/08/more-example-exams/)
 + [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/)
-
++ [Awesome R Learning Resources](https://github.com/iamericfletcher/r-learning-resources)
 
 ###  New Packages
 
