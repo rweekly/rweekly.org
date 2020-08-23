@@ -1,11 +1,13 @@
 ---
 layout: draft
-title: R Weekly 2020-00
+title: R Weekly 2020-34
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-00-00
+Release Date: 2020-08-24
+
+This week’s release was curated by [Miles McBain](https://twitter.com/milesmcbain), with help from the RWeekly team members and contributors.
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
