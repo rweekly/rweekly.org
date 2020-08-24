@@ -1,6 +1,5 @@
 ---
-layout: draft
-title: R Weekly 2020-34
+title: R Weekly 2020-34 Best OS for R, lines of best fit, truncated distributions
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -14,19 +13,32 @@ This week’s release was curated by [Miles McBain](https://twitter.com/milesmcb
 
 ###  Highlight
 
++ [Best OS for R users](https://www.jimhester.com/post/2020-08-20-best-os-for-r/)
 
++ [Lines of best fit](http://freerangestats.info/blog/2020/08/23/highered-ols)
+
++ [Generating data from a truncated distribution](https://www.rdatagen.net/post/generating-data-from-a-truncated-distribution/)
 
 ### Insights
 
 + [Why Package & Environment Management is Critical for Serious Data Science](https://blog.rstudio.com/2020/08/20/why-package-environment-management-is-critical-for-serious-data-science/)
+
 + [Simulate! Simulate! - Part 4: A binomial generalized linear mixed model](https://aosmith.rbind.io/2020/08/20/simulate-binomial-glmm/)
+
 + [Benford’s Law: Applying to Existing Data](https://www.iamnagdev.com/?p=926)
+
 + [Best OS for R users](https://www.jimhester.com/post/2020-08-20-best-os-for-r/)
+
 + [Developing dittodb](https://ropensci.org/blog/2020/08/18/dev-dittodb/)
+
 + [Taking Control of Plot Scaling](https://www.tidyverse.org/blog/2020/08/taking-control-of-plot-scaling/)
+
 + [Boundary corrected kernel density](https://eranraviv.com/boundary-corrected-kernel-density/)
+
 + [Make R Shiny Dashboards Faster with updateInput, CSS, and JavaScript](https://appsilon.com/r-shiny-faster-updateinput-css-javascript/)
+
 + [Lines of best fit](http://freerangestats.info/blog/2020/08/23/highered-ols)
+
 + [Generating data from a truncated distribution](https://www.rdatagen.net/post/generating-data-from-a-truncated-distribution/)
 
 ![Truncated normal distributions. No truncation, left truncation, left and right truncation.](https://cdn.jsdelivr.net/gh/rweekly/image/2020-08-24/truncation.png)
