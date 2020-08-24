@@ -48,6 +48,7 @@ This week’s release was curated by [Miles McBain](https://twitter.com/milesmcb
 
 + [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/)
 
++ [Awesome R Learning Resources](https://github.com/iamericfletcher/r-learning-resources)
 
 ###  New Packages
 
