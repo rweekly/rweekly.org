@@ -16,11 +16,13 @@ Release Date: 2020-00-00
 
 ### Insights
 
++ [magrittr 2.0 is coming soon](https://www.tidyverse.org/blog/2020/08/magrittr-2-0/)
 
++ [MLOPS with R and GitHub Actions](https://blog.revolutionanalytics.com/2020/08/mlops-with-r-and-github-actions.html)
 
 ### R in the Real World
 
-
++ [Factor analysis for player similarity](https://eoin-obrien.com/2020/08/24/factor-analysis-for-player-similarity/)
 
 ###  R in Organizations
 
@@ -32,7 +34,7 @@ Release Date: 2020-00-00
 
 ###  Resources
 
-
++ [(Shiny app) Soccer player similarity with factor analysis](https://eoinobrien.shinyapps.io/factoranalysis/)
 
 ###  New Packages
 
@@ -68,7 +70,11 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Being Trendy, Learning Svelte](https://maya.rbind.io/post/2020/being-trendy-learning-svelte/)
 
++ [JavaScript for the R package developer](https://blog.r-hub.io/2020/08/25/js-r/)
+
++ [How to create an API for your R code](https://theautomatic.net/2020/08/17/how-to-create-an-api-for-your-r-code/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
