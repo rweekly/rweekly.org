@@ -24,8 +24,6 @@ Release Date: 2020-00-00
 
 + [xG Model - Accuracy and Goodness-Of-Fit](https://www.thesignificantgame.com/portfolio/xg-model-accuracy-and-goodness-of-fit/)
 
-+ [2019 NFL Team Ratings](https://kcuilla.netlify.app/post/2019-nfl-team-ratings/)
-
 ###  R in Organizations
 
 
@@ -77,8 +75,6 @@ Release Date: 2020-00-00
 + [Being Trendy, Learning Svelte](https://maya.rbind.io/post/2020/being-trendy-learning-svelte/)
 
 + [JavaScript for the R package developer](https://blog.r-hub.io/2020/08/25/js-r/)
-
-+ [How to create an API for your R code](https://theautomatic.net/2020/08/17/how-to-create-an-api-for-your-r-code/)
 
 + [Factor analysis for player similarity](https://eoin-obrien.com/2020/08/24/factor-analysis-for-player-similarity/)
 
