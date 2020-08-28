@@ -22,7 +22,9 @@ Release Date: 2020-00-00
 
 ### R in the Real World
 
-+ [Factor analysis for player similarity](https://eoin-obrien.com/2020/08/24/factor-analysis-for-player-similarity/)
++ [xG Model - Accuracy and Goodness-Of-Fit](https://www.thesignificantgame.com/portfolio/xg-model-accuracy-and-goodness-of-fit/)
+
++ [2019 NFL Team Ratings](https://kcuilla.netlify.app/post/2019-nfl-team-ratings/)
 
 ###  R in Organizations
 
@@ -50,7 +52,9 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
++ [{friends}: The Entire Transcript from Friends in Tidy Format](https://github.com/EmilHvitfeldt/friends)
 
+![]()
 
 ### Updated Packages
 
@@ -58,7 +62,7 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
-
++ [What is Shiny? - Building a Shiny App Part 1](https://www.youtube.com/watch?v=Cy1YxhZd910)
 
 ### Gist & Cookbook
 
@@ -75,6 +79,9 @@ Release Date: 2020-00-00
 + [JavaScript for the R package developer](https://blog.r-hub.io/2020/08/25/js-r/)
 
 + [How to create an API for your R code](https://theautomatic.net/2020/08/17/how-to-create-an-api-for-your-r-code/)
+
++ [Factor analysis for player similarity](https://eoin-obrien.com/2020/08/24/factor-analysis-for-player-similarity/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
