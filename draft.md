@@ -73,7 +73,6 @@ Release Date: 2020-00-00
 
 + [{soccerAnimate}: An R package to create 2D animations of soccer tracking data](https://www.datofutbol.cl/soccer-animate-r-package/)
 
-![]()
 
 ### Updated Packages
 
@@ -104,9 +103,9 @@ Release Date: 2020-00-00
 
 + [Being Trendy, Learning Svelte](https://maya.rbind.io/post/2020/being-trendy-learning-svelte/)
 
-+ [JavaScript for the R package developer](https://blog.r-hub.io/2020/08/25/js-r/)
-
 + [D3 to R to D3](https://maya.rbind.io/post/2020/d3-to-r-to-d3/)
+
++ [JavaScript for the R package developer](https://blog.r-hub.io/2020/08/25/js-r/)
 
 + [Factor analysis for player similarity](https://eoin-obrien.com/2020/08/24/factor-analysis-for-player-similarity/)
 
