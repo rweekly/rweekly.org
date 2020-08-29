@@ -44,14 +44,6 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ![heatmap contouring total team salary of NBA teams by year ranked relative to the league](https://raw.githubusercontent.com/rweekly/image/master/2020-08-31/heatmap.png)
 
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
-
 ###  Resources
 
 + [(Shiny app) Soccer player similarity with factor analysis](https://eoinobrien.shinyapps.io/factoranalysis/)
@@ -66,7 +58,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [How most statistical tests are linear models](https://paulvanderlaken.com/2020/08/25/how-most-statistical-tests-are-linear-models/)
 
-![cheat sheet of common statistical tests for linear models](https://raw.githubusercontent.com/rweekly/image/master/2020-08-31/liinear_tests_cheat_sheet1.png)
+![cheat sheet of common statistical tests for linear models](https://raw.githubusercontent.com/rweekly/image/master/2020-08-31/linear_tests_cheat_sheet1.png)
 
 ###  New Packages
 
