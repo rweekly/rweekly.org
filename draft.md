@@ -1,18 +1,22 @@
 ---
 layout: draft
-title: R Weekly 2020-00
+title: R Weekly 2020-35 Updated magritter pipe, d3 and R,
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-00-00
+Release Date: 2020-08-30
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
+
+This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr), with help from the RWeekly team members and contributors.
 
 
 ###  Highlight
 
++ [magrittr 2.0 is coming soon](https://www.tidyverse.org/blog/2020/08/magrittr-2-0/)
 
++ [D3 to R to D3](https://maya.rbind.io/post/2020/d3-to-r-to-d3/)
 
 ### Insights
 
@@ -34,6 +38,12 @@ Release Date: 2020-00-00
 
 + [Pittsburgh City Boundary Model Leaflet Map](https://ctompkins.netlify.app/post/model-results-leaflet-map/)
 
++ [Time series cross validation of effective reproduction number nowcasts by @ellis2013nz](https://freerangestats.info/blog/2020/08/29/reff-cv)
+
++ [NBA salaries](https://statisticaloddsandends.wordpress.com/2020/08/29/nba-salaries/)
+
+![heatmap contouring total team salary of NBA teams by year ranked relative to the league](https://raw.githubusercontent.com/rweekly/image/master/2020-08-31/heatmap.png)
+
 ###  R in Organizations
 
 
@@ -52,7 +62,11 @@ Release Date: 2020-00-00
 
 + [Data Science in a Box](https://datasciencebox.org/)
 
++ [#29: Easy, Reliable, Fast Linux CRAN Binaries via BSPM](https://dirk.eddelbuettel.com/blog/2020/08/26/#029_introducing_bspm)
+
 + [How most statistical tests are linear models](https://paulvanderlaken.com/2020/08/25/how-most-statistical-tests-are-linear-models/)
+
+![cheat sheet of common statistical tests for linear models](https://raw.githubusercontent.com/rweekly/image/master/2020-08-31/liinear_tests_cheat_sheet1.png)
 
 ###  New Packages
 
@@ -60,23 +74,44 @@ Release Date: 2020-00-00
 
 **CRAN**
 
-+ [{andurinha} v0.0.2: Make Spectroscopic Data Processing Easier](https://cran.r-project.org/web/packages/andurinha/index.html)
-
-
-**BioC**
-
-
++ [{survxai} 0.2.2](https://cran.r-project.org/package=survxai): Visualization of the Local and Global Survival Model Explanations
++ [{amber} 1.0.3](https://cran.r-project.org/package=amber): Automated Model Benchmarking R Package
++ [{staplr} 3.1.0](https://cran.r-project.org/package=staplr): A Toolkit for PDF Files
++ [{rmdwc} 0.1.1](https://cran.r-project.org/package=rmdwc): Count Words, Chars and Non-Whitespace Chars in R Markdown Docs
++ [{equatiomatic} 0.1.0](https://cran.r-project.org/package=equatiomatic): Transform Models into 'LaTeX' Equations
++ [{geofabrik} 0.1.0](https://cran.r-project.org/package=geofabrik): Downloading Open Street Map Data
++ [{zdeskR} 0.0.1](https://cran.r-project.org/package=zdeskR): Connect to Your 'Zendesk' Data
++ [{sparklyr.flint} 0.1.1](https://cran.r-project.org/package=sparklyr.flint): Sparklyr Extension for 'Flint'
++ [{ngramr} 1.7.2](https://cran.r-project.org/package=ngramr): Retrieve and Plot Google n-Gram Data
++ [{independence} 1.0](https://cran.r-project.org/package=independence): Fast Rank-Based Independence Testing
++ [{diffcor} 0.3.0](https://cran.r-project.org/package=diffcor): Fisher's z-Tests Concerning Difference of Correlations
++ [{mlr3fselect} 0.2.0](https://cran.r-project.org/package=mlr3fselect): Feature Selection for 'mlr3'
 
 **GitHub or Bitbucket**
 
 + [{friends}: The Entire Transcript from Friends in Tidy Format](https://github.com/EmilHvitfeldt/friends)
-
 + [{soccerAnimate}: An R package to create 2D animations of soccer tracking data](https://www.datofutbol.cl/soccer-animate-r-package/)
 
+![GIF of continuous Voronoi tesselations of soccer players moving on the pitch created using the soccerAnimate package](https://raw.githubusercontent.com/rweekly/image/master/2020-08-31/example_C.gif)
 
 ### Updated Packages
 
-
++ [{vctrs} 0.3.4](https://cran.r-project.org/package=vctrs): Vector Helpers
++ [{renv} 0.12.0](https://cran.r-project.org/package=renv): Project Environments
++ [{arrow} 1.0.1](https://cran.r-project.org/package=arrow): Integration to 'Apache' 'Arrow'
++ [{kableExtra} 1.2.1](https://cran.r-project.org/package=kableExtra): Construct Complex Table with 'kable' and Pipe Syntax
++ [{gtsummary} 1.3.4](https://cran.r-project.org/package=gtsummary): Presentation-Ready Data Summary and Analytic Result Tables
++ [{feasts} 0.1.5](https://cran.r-project.org/package=feasts): Feature Extraction and Statistics for Time Series
++ [{glue} 1.4.2](https://cran.r-project.org/package=glue): Interpreted String Literals
++ [{tidyr} 1.1.2](https://cran.r-project.org/package=tidyr): Tidy Messy Data
++ [{RMariaDB} 1.0.10](https://cran.r-project.org/package=RMariaDB): Database Interface and 'MariaDB' Driver
++ [{ggnewscale} 0.4.3](https://cran.r-project.org/package=ggnewscale): Multiple Fill and Colour Scales in 'ggplot2'
++ [{anytime} 0.3.9](https://cran.r-project.org/package=anytime): Anything to 'POSIXct' or 'Date' Converter
++ [{fst} 0.9.4](https://cran.r-project.org/package=fst): Lightning Fast Serialization of Data Frames
++ [{writexl} 1.3.1](https://cran.r-project.org/package=writexl): Export Data Frames to Excel 'xlsx' Format
++ [{dashboardthemes} 1.1.3](https://cran.r-project.org/package=dashboardthemes): Customise the Appearance of 'shinydashboard' Applications using
+Themes
++ [{compareDF} 2.3.0](https://cran.r-project.org/package=compareDF): Do a Git Style Diff of the Rows Between Two Dataframes with Similar Structure
 
 ###  Videos and Podcasts
 
@@ -88,9 +123,7 @@ Release Date: 2020-00-00
 
 + [R Weekly Highlights: Issue 2020-34 Highlights](https://fireside.fm/s/87RSVeFz+nFZt9fzl)
 
-### Gist & Cookbook
-
-
++ [How to make a reproducible version of your R analysis that can be run in a web browser](https://www.youtube.com/watch?v=wSkheV-Uqq4&feature=youtu.be) with the [`{holepunch}` package](https://github.com/karthik/holepunch)
 
 ### R Internationally
 
@@ -98,6 +131,9 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Heatmaps in ggplot2](https://themockup.blog/posts/2020-08-28-heatmaps-in-ggplot2/)
+
+![heatmap contouring the difference in the passing profiles of Mahomes vs Roders in American football](https://raw.githubusercontent.com/rweekly/image/master/2020-08-31/compare_qb_plot-1.png)
 
 + [Detecting Security Vulnerabilities in R Packages](https://www.jumpingrivers.com/blog/r-package-vulnerabilities-security/)
 
@@ -113,6 +149,8 @@ Release Date: 2020-00-00
 
 + [Sourcing data from S3 with drake](https://mdneuzerling.com/post/sourcing-data-from-s3-with-drake/)
 
+![diagram of drake r package to amazon S3 upload](https://raw.githubusercontent.com/rweekly/image/master/2020-08-31/drake-etag.png)
+
 + [How to Use Lightgbm with Tidymodels](https://blog.rmhogervorst.nl/blog/2020/08/27/how-to-use-lightgbm-with-tidymodels-framework/)
 
 + [Computing Odds Ratios from Mixed Graphical Models](http://jmbh.github.io//ORs-in-MGMs/)
@@ -120,7 +158,6 @@ Release Date: 2020-00-00
 + [How to choose a bivariate color palette?](https://nowosad.github.io/post/cbc-bp2/)
 
 + [Scientific Name Parsing: rgnparser and namext](https://ropensci.org/technotes/2020/08/25/scientific-name-parsing/)
-
 
 + [Run-Length Encoding and The Problem of NAs](https://coolbutuseless.github.io/2020/08/26/run-length-encoding-and-the-problem-of-nas/)
 
@@ -155,10 +192,6 @@ Events in 3 Months:
 ### Datasets
 
 + [Some Data Packages](https://kieranhealy.org/blog/archives/2020/08/25/some-data-packages/) (for teaching)
-
-### Jobs
-
-
 
 
 ###  Call for Participation
