@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2020-35 Updated magritter pipe, d3 and R,
+title: R Weekly 2020-35 Updated magritter pipe, Big Book of R, R + d3
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -15,6 +15,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 ###  Highlight
 
 + [magrittr 2.0 is coming soon](https://www.tidyverse.org/blog/2020/08/magrittr-2-0/)
+
++ [Big Book of R](https://www.bigbookofr.com/)
 
 + [D3 to R to D3](https://maya.rbind.io/post/2020/d3-to-r-to-d3/)
 
