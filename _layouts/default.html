@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
-{% include head.html %}
+  {% include head.html %}
 
-<body class="show-origin no-feature-like no-feature-podcast-corner">
+  <body class="show-origin no-feature-like no-feature-podcast-corner">
 
-  <div id="toc"></div>
-  <!--/.well -->
+    <div id="toc"></div>
+    <!--/.well -->
 
-  <!-- <div id="podcast" class="podcast">
+    <!-- <div id="podcast" class="podcast">
       <div class="podcast-title"><strong>RWeekly Podcast</strong></div>
       <iframe id="ytplayer" type="text/html" class="podcast-player"
       src="https://www.youtube.com/embed/videoseries?list=PLGxFMt5POda38NafNl6GR3ydh-WXjPV3k&showinfo=0"></iframe>
@@ -16,44 +16,41 @@
 
   {% include github-corner.html %}
 
-  <div class="container content">
-    <header class="masthead">
-      <h3 class="masthead-title default-links">
-        <a href="{{ site.baseurl }}/" title="Home"
-          style="padding: 0 9px 0 0;font-weight: bold; opacity: 1;">RWeekly.org</a>
-        <a href="https://rweekly.fireside.fm/" style="padding: 0 9px 0 0;color:#2a7ae2;">Podcast</a>
-        <a href="/live" style="padding: 0 9px 0 0;color:#2a7ae2;">Live</a>
-        <a href="https://feedburner.google.com/fb/a/mailverify?uri=rweekly&amp;loc=en_US" target="_blank"
-          onclick="_paq.push(['trackEvent', 'Mail', '1']);" style="padding: 0 9px 0 0;color:#2a7ae2;">Mail</a>
-        <a href="/atom.xml" style="padding: 0 9px 0 0;color:#2a7ae2;">Feed</a>
-        <!-- <a href="https://conf.rweekly.org" style = "padding: 0 9px 0 0;">Conf</a> -->
-        {% for page in site.pages_list %}
-        <a href="{{ page[1]  }}" style="padding: 0 9px 0 0;">{{ page[0] }}</a>
-        {% endfor %}
-        <span class="like-beta"><a href="/like" style="padding: 0 9px 0 0;">Like</a></span>
-        <a href="/submit" style="padding: 0 9px 0 0;">Submit</a>
-        <a href="#" onclick="nightMode();" style="padding: 0 9px 0 0;">Night</a>
+    <div class="container content">
+      <header class="masthead">
+        <h3 class="masthead-title default-links">
+          <a href="{{ site.baseurl }}/" title="Home" style="padding: 0 9px 0 0;font-weight: bold; opacity: 1;">RWeekly.org</a>
+          <a href="/live" style = "padding: 0 9px 0 0;color:#2a7ae2;">Live</a>
+          <a href="https://feedburner.google.com/fb/a/mailverify?uri=rweekly&amp;loc=en_US" target="_blank" onclick="_paq.push(['trackEvent', 'Mail', '1']);" style = "padding: 0 9px 0 0;color:#2a7ae2;">Mail</a>
+          <a href="/atom.xml" style = "padding: 0 9px 0 0;color:#2a7ae2;">Feed</a>
+          <!-- <a href="https://conf.rweekly.org" style = "padding: 0 9px 0 0;">Conf</a> -->
+          {% for page in site.pages_list %}
+              <a href="{{ page[1]  }}" style = "padding: 0 9px 0 0;">{{ page[0] }}</a>
+          {% endfor %}
+          <span class="like-beta"><a href="/like" style = "padding: 0 9px 0 0;">Like</a></span>
+          <a href="/submit" style = "padding: 0 9px 0 0;">Submit</a>
+          <a href="#" onclick="nightMode();" style = "padding: 0 9px 0 0;">Night</a>
 
-      </h3>
+        </h3>
       <!--&nbsp;&nbsp;&nbsp;-->
-    </header>
+      </header>
 
-    <main>
-      {{ content }}
-    </main>
+      <main>
+        {{ content }}
+      </main>
 
-    <footer class="footer">
-      {% capture footer-md %}{% include footer.md %}{% endcapture %}
-      {{ footer-md | markdownify }}
-      <small>
-        &copy; 2016-2019 RWeekly.org &nbsp;
-      </small>
-    </footer>
-  </div>
+      <footer class="footer">
+        {% capture footer-md %}{% include footer.md %}{% endcapture %}
+        {{ footer-md | markdownify }}
+        <small>
+          &copy; 2016-2019 RWeekly.org &nbsp;
+        </small>
+      </footer>
+    </div>
 
 
-  <script>
-    {% include readable - number.js %}
+    <script>
+    {% include readable-number.js %}
 
     // page_view = document.getElementById("page_view");
     // var xhr = new XMLHttpRequest();
@@ -76,10 +73,10 @@
     var anchorForId = function (id) {
       var anchor = document.createElement("a");
       anchor.className = "header-link";
-      anchor.href = "#" + id;
+      anchor.href      = "#" + id;
       anchor.innerHTML = "<i class=\"fa fa-link\"></i>";
       return anchor;
-    };
+	  };
 
     var linkifyAnchors = function (level, containingElement) {
       var headers = containingElement.getElementsByTagName("h" + level);
@@ -105,8 +102,8 @@
       }
     };
 
-    add_external_links();
-    console.log(`%c               ..     .
+  add_external_links();
+console.log(`%c               ..     .
             .?????.+++++
         ?8.  .???   +++.  ~+.
        . .. ..... ... .. +.. .
@@ -132,13 +129,12 @@
         .,...               .+...
 
 Join us! https://rweekly.org/about.html `, "font-family:monospace")
-  </script>
+    </script>
 
   {% include inf.html %}
   {% include totop.html %}
 
   {% include filter.html %}
 
-</body>
-
+  </body>
 </html>
