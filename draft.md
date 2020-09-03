@@ -15,7 +15,7 @@ Release Date: 2020-00-00
 
 
 ### Insights
-
++ [Never trust an average!](https://rolkra.github.io/never-trust-an-average/)
 
 
 ### R in the Real World
