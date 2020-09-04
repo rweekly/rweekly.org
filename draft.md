@@ -15,6 +15,9 @@ Release Date: 2020-00-00
 
 
 ### Insights
+
++ [Plinko Statistics: Insights from the Bean Machine](https://www.tylermw.com/plinko-statistics-insights-from-the-bean-machine/)
+
 + [Using dplyr::filter when the condition is a string](https://statisticaloddsandends.wordpress.com/2020/09/03/using-dplyrfilter-when-the-condition-is-a-string/)
 
 + [Avoid Apply() Function In Large Datasets](https://predictivehacks.com/avoid-apply-function-in-large-datasets/)
@@ -48,6 +51,8 @@ Release Date: 2020-00-00
 
 + [September 2020 ISC Call for Proposals – Now Open!](https://www.r-consortium.org/blog/2020/09/01/september-2020-isc-call-for-proposals-now-open)
 
++ [Newly certified instructors in August 2020](https://education.rstudio.com/blog/2020/08/august-2020-instructors/)
+
 
 ###  R in Academia
 
@@ -56,6 +61,12 @@ Release Date: 2020-00-00
 
 
 ###  Resources
+
++ [From R Hub – JavaScript for the R package developer](https://www.r-consortium.org/blog/2020/08/30/from-r-hub-javascript-for-the-r-package-developer)
+
++ [Sharing Your xaringan Slides](https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/)
+
++ ['Looping' and 'Branching' with Pipes](http://daranzolin.github.io/2020-09-03-looping-branching-pipes/)
 
 + [Interview Questions About Stats And Probabilities](https://predictivehacks.com/interview-questions-about-stats-and-probabilities/)
 
@@ -90,6 +101,14 @@ Release Date: 2020-00-00
 
 + [Numerical Partial Derivative Estimation – the {NNS} package](https://r-posts.com/numerical-partial-derivative-estimation/)
 
++ [RcppArmadillo 0.9.900.3.0](http://dirk.eddelbuettel.com/blog/2020/09/03#rcpparmadillo_0.9.900.3.0)
+
++ [RcppCCTZ 0.2.9: API Header Added](http://dirk.eddelbuettel.com/blog/2020/08/30#rcppcctz_0.2.9)
+
++ [RcppSMC 0.2.2: Small updates](http://dirk.eddelbuettel.com/blog/2020/08/30#rcppsmc_0.2.2)
+
++ [Introducing 'insitu' - functions for in-place modification](https://coolbutuseless.github.io/2020/09/03/introducing-insitu-functions-for-in-place-modification/)
+
 
 ###  Videos and Podcasts
 
@@ -105,6 +124,9 @@ Release Date: 2020-00-00
 
 
 ###  Tutorials
+
++ [Handling errors using purrr's possibly() and safely()](https://aosmith.rbind.io/2020/08/31/handling-errors/)
+
 + [Data Visualization in R with ggplot2: A Beginner Tutorial](https://www.dataquest.io/blog/data-visualization-in-r-with-ggplot2-a-beginner-tutorial/)
 
 + [Time Series in 5-Minutes, Part 5: Anomaly Detection](https://www.business-science.io/code-tools/2020/09/02/five-minute-time-series-anomaly-detection.html)
