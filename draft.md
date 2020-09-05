@@ -74,7 +74,7 @@ Release Date: 2020-00-00
 
 + [https://amitlevinson.com/post/printing-survey-table/](https://amitlevinson.com/post/printing-survey-table/)
 
-+ [https://aliarsalankazmi.github.io/blog_DA/posts/r/2020/09/03/pdp-xgboost-tidymodels.html](https://aliarsalankazmi.github.io/blog_DA/posts/r/2020/09/03/pdp-xgboost-tidymodels.html)
++ [Partial dependence plots for tidymodels-based xgboost](https://aliarsalankazmi.github.io/blog_DA/posts/r/2020/09/03/pdp-xgboost-tidymodels.html)
 
 + [How to Clean Data: {janitor} Package](https://www.exploringdata.org/post/how-to-clean-data-janitor-package/)
 
