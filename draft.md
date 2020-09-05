@@ -72,7 +72,7 @@ Release Date: 2020-00-00
 
 + [R treasures: modifyList()](https://petermeissner.de/blog/2020/09/03/utils-treasures-moifyList/)
 
-+ [https://amitlevinson.com/post/printing-survey-table/](https://amitlevinson.com/post/printing-survey-table/)
++ [Survey categorical variables with KableExtra](https://amitlevinson.com/post/printing-survey-table/)
 
 + [Partial dependence plots for tidymodels-based xgboost](https://aliarsalankazmi.github.io/blog_DA/posts/r/2020/09/03/pdp-xgboost-tidymodels.html)
 
