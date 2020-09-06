@@ -36,6 +36,8 @@ Release Date: 2020-00-00
 
 + [Simulations Comparing Interaction for Adjusted Risk Ratios versus Adjusted Odds Ratios](https://r-posts.com/simulations-comparing-interaction-for-adjusted-risk-ratios-versus-adjusted-odds-ratios/)
 
++ [A Shiny App on Hong Kong District Councillors](https://martinctc.github.io/blog/a-shiny-app-on-hong-kong-district-councillors/)
+
 ### R in the Real World
 
 + [Task 1 - Retail Strategy and Analytics](https://shrishtivaish-rblogs.netlify.app/2020/08/task-1-retail-strategy-and-analytics/)
