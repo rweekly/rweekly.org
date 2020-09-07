@@ -9,14 +9,22 @@ Release Date: 2020-00-00
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
+This week’s release was curated by [Robert Hickman](https://twitter.com/robwhickman), with help from the RWeekly team members and contributors.
+
 
 ###  Highlight
 
++ [State of R packages in your library](https://blog.r-hub.io/2020/09/03/keep.source/)
 
++ [Plinko Statistics: Insights from the Bean Machine](https://www.tylermw.com/plinko-statistics-insights-from-the-bean-machine/)
+
++ [Handling errors using purrr's possibly() and safely()](https://aosmith.rbind.io/2020/08/31/handling-errors/)
 
 ### Insights
 
-+ [Plinko Statistics: Insights from the Bean Machine](https://www.tylermw.com/plinko-statistics-insights-from-the-bean-machine/)
++ [Gotta go fast with "{tidytable}"](http://www.brodrigues.co/blog/2020-09-05-tidytable/)
+
++ [Mixture distributions and reporting times for Covid-19 deaths in Florida by @ellis2013nz](http://freerangestats.info/blog/2020/09/06/mixture-distributions)
 
 + [Using dplyr::filter when the condition is a string](https://statisticaloddsandends.wordpress.com/2020/09/03/using-dplyrfilter-when-the-condition-is-a-string/)
 
@@ -35,6 +43,8 @@ Release Date: 2020-00-00
 + [An Intersting Aspect of the Omitted Variable Bias](http://skranz.github.io//r/2020/08/31/ovb.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+skranz_R+%28Economics+and+R+%28R+Posts%29%29)
 
 + [Simulations Comparing Interaction for Adjusted Risk Ratios versus Adjusted Odds Ratios](https://r-posts.com/simulations-comparing-interaction-for-adjusted-risk-ratios-versus-adjusted-odds-ratios/)
+
++ [Plinko Statistics: Insights from the Bean Machine](https://www.tylermw.com/plinko-statistics-insights-from-the-bean-machine/)
 
 ### R in the Real World
 
@@ -62,6 +72,10 @@ Release Date: 2020-00-00
 
 ###  Resources
 
++ [3 Fun Shiny Apps for Your Long Labor Day Weekend](https://blog.rstudio.com/2020/09/04/3-fun-shiny-apps-for-your-long-labor-day-weekend/)
+
++ [Even easier-to-use R package for school district shape files](https://ivelasq.rbind.io/blog/leaidr2/) - 02/09/2020
+
 + [From R Hub – JavaScript for the R package developer](https://www.r-consortium.org/blog/2020/08/30/from-r-hub-javascript-for-the-r-package-developer)
 
 + [Sharing Your xaringan Slides](https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/)
@@ -85,19 +99,19 @@ Release Date: 2020-00-00
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-**CRAN**
-
-
-
-**BioC**
-
-
 
 **GitHub or Bitbucket**
 
++ [Easy email invites for your Shiny app users ](https://www.tychobra.com/posts/2020-08-26-polished-email-templates/)
+
++ [Back next week, and a few announcements](https://thierrymoudiki.github.io/blog/2020/09/04/misc/python/quasirandomizednn/nnetsauce)
 
 
 ### Updated Packages
+
++ [modelsummary 0.6.0 is out!](https://vincentarelbundock.github.io/modelsummary/)
+
++ [Appsilon has created an R package to offload long running calculations so that the UI of Shiny apps can remain responsive.](https://appsilon.com/shiny-worker-package/) - 27/08/2020
 
 + [Numerical Partial Derivative Estimation – the {NNS} package](https://r-posts.com/numerical-partial-derivative-estimation/)
 
@@ -125,7 +139,9 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
-+ [Handling errors using purrr's possibly() and safely()](https://aosmith.rbind.io/2020/08/31/handling-errors/)
++ [Correcting for confounded variables with GLMs](http://www.seascapemodels.org/rstats/2020/09/04/correcting-with-glms.html)
+
++ [Hierarchical Clustering in R](http://iamhamid.com/post/hierarchical_clustering_tutorial/) - 27/08/2020
 
 + [Data Visualization in R with ggplot2: A Beginner Tutorial](https://www.dataquest.io/blog/data-visualization-in-r-with-ggplot2-a-beginner-tutorial/)
 
@@ -143,6 +159,8 @@ Release Date: 2020-00-00
 
 + [Easiest flowcharts eveR?](http://gforge.se/2020/08/easy-flowchart/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+G-forgeR+%28G-Forge+%C2%BB+R%29)
 
++ [Handling errors using purrr's possibly() and safely()](https://aosmith.rbind.io/2020/08/31/handling-errors/)
+
 + [Data manipulation in r using data frames - an extensive article of basics part2 - aggregation and sorting](https://www.dataenq.com/2020/08/Data-manipulation-r-data-frames-aggregation-sorting.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dataenqfeed+%28dataENQ%29)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -156,13 +174,14 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [88th TokyoR Virtual Meetup - September 19th, 2020](https://tokyor.connpass.com/)
+
++ [VirtuEARL – EARL Conference online - October 2020](https://www.mango-solutions.com/virtuearl-earl-conference-online-2020/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-
-### Datasets
 
 ### Jobs
 
@@ -176,3 +195,9 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Who&#39;s excited for LEGO brick 3D bar charts in ggplot? 🙋‍♂️<br><br>Seeing how many data viz rules I can break before getting banned from <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> twitter. <a href="https://t.co/ALZskJL61R">pic.twitter.com/ALZskJL61R</a></p>&mdash; Ryan Timpe 🏳️‍🌈🦕 (@ryantimpe) <a href="https://twitter.com/ryantimpe/status/1301603480646365189?ref_src=twsrc%5Etfw">September 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">OUT or notOUT? Wanna find OUT? checkOUT our latest OUTlier detection paper: &quot;Anomaly Detection in High Dimensional Data&quot;, now online @ JCGS: <a href="https://t.co/GkiZGwpZ4E">https://t.co/GkiZGwpZ4E</a>. Co-authored with my awesome supervisors <a href="https://twitter.com/robjhyndman?ref_src=twsrc%5Etfw">@robjhyndman</a> &amp; Kate Smith-Miles. Companion <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> 📦 stray is on CRAN 🐶 <a href="https://t.co/du6PfbVxHH">pic.twitter.com/du6PfbVxHH</a></p>&mdash; Priyanga Dilini Talagala (@pridiltal) <a href="https://twitter.com/pridiltal/status/1300645048850153473?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well this was a new R warning message for me; I guess my data are just too perfect! <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/Nonsense?src=hash&amp;ref_src=twsrc%5Etfw">#Nonsense</a> <a href="https://t.co/MbDv2oqsg7">pic.twitter.com/MbDv2oqsg7</a></p>&mdash; Lydia Hopper (@LydiaMHopper) <a href="https://twitter.com/LydiaMHopper/status/1300883157970046976?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
