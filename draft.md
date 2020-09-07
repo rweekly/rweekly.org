@@ -32,6 +32,8 @@ This week’s release was curated by [Robert Hickman](https://twitter.com/robwhi
 
 + [State of R packages in your library](https://blog.r-hub.io/2020/09/03/keep.source/)
 
+![Train and analyze many models for #TidyTuesday crop yields](https://raw.githubusercontent.com/rweekly/image/master/2020-09-07/crops_resized.png)
+
 + [Train and analyze many models for #TidyTuesday crop yields](https://juliasilge.com/blog/crop-yields/)
 
 + [An Example Where Square Loss of a Sigmoid Prediction is not Convex in the Parameters](https://win-vector.com/2020/09/01/an-example-where-square-loss-of-a-sigmoid-prediction-is-not-convex-in-the-parameters/)
@@ -149,6 +151,8 @@ This week’s release was curated by [Robert Hickman](https://twitter.com/robwhi
 
 + [Time Series in 5-Minutes, Part 5: Anomaly Detection](https://www.business-science.io/code-tools/2020/09/02/five-minute-time-series-anomaly-detection.html)
 
+![Bootstrap confidence intervals and confidence distritbutions - application on X-men data using ggdist](https://raw.githubusercontent.com/rweekly/image/master/2020-09-07/xmen_resized.jpeg)
+
 + [Bootstrap confidence intervals and confidence distritbutions - application on X-men data using ggdist](https://aliarsalankazmi.github.io/blog_DA/posts/r/2020/09/01/confidence-distribution-bootstrap.html)
 
 + [Web Scraping with rvest: Exploring Sports Industry Jobs](https://www.bradcongelio.com/web-scraping-with-rvest-exploring-sports-industry-jobs/)
@@ -156,6 +160,8 @@ This week’s release was curated by [Robert Hickman](https://twitter.com/robwhi
 + [Quick Tips for Data Cleaning in R](https://www.exploringdata.org/post/quick-tips-for-data-cleaning-in-r/)
 
 + [NLP: preparing data](https://www.theanalyticslab.nl/nlpblogs_0_preparing_restaurant_review_data_for_nlp_and_predictive_modeling/)
+
+![An introduction to weather forecasting with deep learning](https://raw.githubusercontent.com/rweekly/image/master/2020-09-07/weather_resized.png)
 
 + [An introduction to weather forecasting with deep learning](https://blogs.rstudio.com/ai/posts/2020-09-01-weather-prediction/)
 
