@@ -46,6 +46,8 @@ This week’s release was curated by [Robert Hickman](https://twitter.com/robwhi
 
 + [Plinko Statistics: Insights from the Bean Machine](https://www.tylermw.com/plinko-statistics-insights-from-the-bean-machine/)
 
++ [A Shiny App on Hong Kong District Councillors](https://martinctc.github.io/blog/a-shiny-app-on-hong-kong-district-councillors/)
+
 ### R in the Real World
 
 + [Task 1 - Retail Strategy and Analytics](https://shrishtivaish-rblogs.netlify.app/2020/08/task-1-retail-strategy-and-analytics/)
