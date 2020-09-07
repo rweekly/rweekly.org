@@ -133,14 +133,6 @@ This week’s release was curated by [Robert Hickman](https://twitter.com/robwhi
 + [Why R? Webinar - Reproducible research with workflowr](http://r-addict.com/2020/09/01/WhyR-workflowr.html)
 
 
-### Gist & Cookbook
-
-
-
-### R Internationally
-
-
-
 ###  Tutorials
 
 + [Correcting for confounded variables with GLMs](http://www.seascapemodels.org/rstats/2020/09/04/correcting-with-glms.html)
