@@ -52,8 +52,6 @@ image: https://rweekly.org/public/facebook.png
                                                    
 ### Updated Packages
                                                    
-+ [{modelsummary} 0.6.0](https://vincentarelbundock.github.io/modelsummary/)   
-
 + [{weathercan} 0.4.0](https://github.com/ropensci/weathercan)
                                                    
 ###  Videos and Podcasts
