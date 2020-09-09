@@ -28,7 +28,7 @@ image: https://rweekly.org/public/facebook.png
                                                  
 ###  R in Academia
                                                  
-                                                 
++ [belg: A Tool for Calculating Boltzmann Entropy of Landscape Gradients (Jakub Nowosad and Peichao Gao)](https://www.mdpi.com/1099-4300/22/9/937)                                                 
                                                  
 ###  Resources
                                                  
@@ -85,6 +85,8 @@ image: https://rweekly.org/public/facebook.png
 + [Medium Data and Production API Pipeline](https://josiahparry.com/post/gzip-api/)
 
 + [Beyond gifs](https://blog.k2h.se/post/beyond-gifs/)
+
++ [How to use R to remove audiobooks from your Spotify liked songs](https://frie.codes/using-r-to-remove-audiobooks-from-spotify/)
                                                  
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
