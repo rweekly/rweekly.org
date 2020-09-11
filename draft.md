@@ -133,6 +133,8 @@ image: https://rweekly.org/public/facebook.png
 + [Easy email invites for your Shiny app users ](https://www.tychobra.com/posts/2020-08-26-polished-email-templates/)
 
 + [Date-time Conversion in R with format and strptime](https://statnmap.com/2020-09-10-date-time-conversion-in-r-with-format-and-strptime/)
+
++ [R Base Gems](https://ihaddadenfodil.com/post/r-base-gems/#)
                                                  
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
