@@ -24,7 +24,7 @@ image: https://rweekly.org/public/facebook.png
                                                  
 ###  R in Organizations
                                                  
-                                                 
++ [Debunking R and Python Myths: Answering Your Questions](https://blog.rstudio.com/2020/09/10/dispelling-r-and-python-myths-qanda/)                                               
                                                  
 ###  R in Academia
                                                  
@@ -48,23 +48,49 @@ image: https://rweekly.org/public/facebook.png
                                                    
 **GitHub or Bitbucket**
                                                    
-+ [{impliedgui}: Graphical user interface (GUI) for the implied package. The goal is to make it easier to convert bookmaker odds to proper probabilities.](https://github.com/opisthokonta/impliedgui)                                                   
++ [{impliedgui}: Graphical user interface (GUI) for the implied package. The goal is to make it easier to convert bookmaker odds to proper probabilities.](https://github.com/opisthokonta/impliedgui)     
+
++ [Introducing 'snowcrash' - a package to encode arbitrary R objects into image representations](https://coolbutuseless.github.io/2020/09/11/introducing-snowcrash-a-package-to-encode-arbitrary-r-objects-into-image-representations/)
+
++ [Gotta go fast with "{tidytable}"](https://www.brodrigues.co/blog/2020-09-05-tidytable/)
+
++ [Long running calculations can freeze the UI of Shiny dashboards until the calculations are complete. Appsilon has created an R package to offload long running calculations so that the UI of Shiny apps can remain responsive.](https://appsilon.com/shiny-worker-package/)
+
++ [tidykids is a data package for R that provides information on state-by-state spending on kids](https://jrosen48.github.io/tidykids/)
+
++ [lofi](https://github.com/coolbutuseless/lofi)
                                                    
 ### Updated Packages
                                                    
 + [{weathercan} 0.4.0](https://github.com/ropensci/weathercan)
+
++ [inline 0.3.16: Now with system2()](http://dirk.eddelbuettel.com/blog/2020/09/06/#inline-0.3.16)
                                                    
 ###  Videos and Podcasts
                                                    
-                                                   
-                                                   
++ [114 - We Need TikTok Help](https://nssdeviations.com/114-we-need-tiktok-help)
+
++ [R-Ladies Melbourne - August 2020 - Danyang Dai - A Better Wayof Communicating with Data](https://www.youtube.com/watch)
+
++ [Episode 12: Barret Schloerke Part 1 (reactlog)](https://shinydevseries.com/post/episode-12-barrett1/)
+
 ### Gist & Cookbook
                                                  
-                                                 
++ [From Data to Deliverables with R](https://medium.com/@ManningBooks/from-data-to-deliverables-with-r-7a331cfc5583)    
+
++ [An overview of testing in R](https://speakerdeck.com/colinfay/an-overview-of-testing-in-r)
+
++ [Shiny Solutions](https://education.rstudio.com/blog/2020/09/shiny-solutions/)
+
+### Shiny Apps
+
++ [A Shiny app on Hong Kong District Councillors](https://martinctc.github.io/blog/a-shiny-app-on-hong-kong-district-councillors/)
+
++ [Baby Weight Shiny app](https://shirinsplayground.netlify.app/2020/09/baby_weight_app/)
                                                  
 ### R Internationally
                                                  
-                                                 
++ [Cartographie interactive avec R… la suite !](https://thinkr.fr/cartographie-interactive-avec-r-la-suite/)    
                                                  
 ###  Tutorials
                                                  
@@ -87,6 +113,26 @@ image: https://rweekly.org/public/facebook.png
 + [Beyond gifs](https://blog.k2h.se/post/beyond-gifs/)
 
 + [How to use R to remove audiobooks from your Spotify liked songs](https://frie.codes/using-r-to-remove-audiobooks-from-spotify/)
+
++ [Simulating paths from a random walk](https://statisticaloddsandends.wordpress.com/2020/09/10/simulating-paths-from-a-random-walk/)
+
++ [Fake Data with R](https://rviews.rstudio.com/2020/09/09/fake-data-with-r/)
+
++ [Getting Tabular Data Through JavaScript in Compiled R Markdown Documents](https://yongfu.name/2020/09/09/getable.html)
+
++ [Introduction to Stan in R](https://blog.methodsconsultants.com/posts/introduction-to-stan-in-r/)
+
++ [Column Names as Contracts](https://emilyriederer.netlify.app/post/column-name-contracts/)
+
++ [R Internet: Yet Another Way To Send Emails On Windows](https://petermeissner.de/blog/2020/09/07/web-send-mail-windows/)
+
++ [The one with the most words](https://medium.com/@mugecetinkaya/the-one-with-the-most-words-6da6b5e7f51c)
+
++ [Hierarchical Clustering in R](http://iamhamid.com/post/hierarchical_clustering_tutorial/)
+
++ [Easy email invites for your Shiny app users ](https://www.tychobra.com/posts/2020-08-26-polished-email-templates/)
+
++ [Date-time Conversion in R with format and strptime](https://statnmap.com/2020-09-10-date-time-conversion-in-r-with-format-and-strptime/)
                                                  
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -100,6 +146,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 Events in 3 Months:
 
 + [88th TokyoR Virtual Meetup - September 19th, 2020](https://tokyor.connpass.com/)
+
++ [Why R? 2020 (Remote) - September 24-27](https://2020.whyr.pl/)
 
 + [VirtuEARL – EARL Conference online - October 2020](https://www.mango-solutions.com/virtuearl-earl-conference-online-2020/)
 
@@ -121,5 +169,9 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Are you a runner, into R, and on Strava? <br><br>I just opened a Club on <a href="https://twitter.com/Strava?ref_src=twsrc%5Etfw">@Strava</a> so that we can create a worldwide group of <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> athletes :) <br><br>Join, and invite your fellow R-friends<a href="https://t.co/q7PzzrNkmz">https://t.co/q7PzzrNkmz</a></p>&mdash; Colin Fay 🤘 (@_ColinFay) <a href="https://twitter.com/_ColinFay/status/1303039318425047041?ref_src=twsrc%5Etfw">September 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was today years old when I discovered that Ctrl+Alt+K finds and selects all instances of the word under the cursor on the page in the <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> IDE. (This is undocumented in the shortcuts page, for some reason!) <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/rstudiotips?ref_src=twsrc%5Etfw">@rstudiotips</a> <a href="https://twitter.com/R4DScommunity?ref_src=twsrc%5Etfw">@R4DScommunity</a> <a href="https://t.co/GiFGo54MzU">pic.twitter.com/GiFGo54MzU</a></p>&mdash; Tan (@_TanHo) <a href="https://twitter.com/_TanHo/status/1303304208695930880?ref_src=twsrc%5Etfw">September 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
