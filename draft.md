@@ -72,7 +72,7 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 ![Sending Emails Should Be Easier in RMarkdown](https://ihaddadenfodil.com/post/sending-emails-should-be-easier-in-rmarkdown/)
-
+![It's a Bird, It's a Plane ... It's a ggforce function](https://ihaddadenfodil.com/post/it-s-a-bird-it-s-a-plane-it-s-a-ggforce-function/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
