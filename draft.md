@@ -16,11 +16,19 @@ Release Date: 2020-00-00
 
 ### Insights
 
++ [First Impressions of Julia from an R User](https://mdneuzerling.com/post/first-impressions-of-julia-from-an-r-user/)
 
++ [Writing a blogdown post for the ages](https://clauswilke.com/blog/2020/09/08/a-blogdown-post-for-the-ages/)
+
++ [Some more notes about using Rust code in R packages](https://yutani.rbind.io/post/some-more-notes-about-using-rust-code-in-r-packages/)
+
++ [Fake Data with R](https://rviews.rstudio.com/2020/09/09/fake-data-with-r/)
 
 ### R in the Real World
 
++ [A statistical analysis of a managers' sartorial and tactical choices.](https://www.robbiestats.com/post/a-statistical-analysis-of-a-managers-sartorial-and-tactical-choices/)
 
++ [Estimating Run/Pass Tendencies with tidyModels and nflfastR](https://www.opensourcefootball.com/posts/2020-09-07-estimating-runpass-tendencies-with-tidymodels-and-nflfastr/)
 
 ###  R in Organizations
 
@@ -49,14 +57,21 @@ Release Date: 2020-00-00
 **GitHub or Bitbucket**
 
 
-
 ### Updated Packages
 
++ [{collapse}: Advanced and Fast Data Transformation in R](https://github.com/SebKrantz/collapse)
 
++ [{htmldf}: Simple scraping and tidy webpage summaries](https://github.com/alastairrushworth/htmldf)
+
++ [{plumber} 1.0.0: Turn your R code into a web API.](https://www.rplumber.io/news/#plumber-1-0-0)
+
++ [{pkgdown} 1.6.0: Generate static html documentation for an R package](https://www.tidyverse.org/blog/2020/09/pkgdown-1-6-0/)
+
++ [{cfbscrapr} 1.0.2: A scraping and aggregating package using the CollegeFootballData API](https://saiemgilani.github.io/cfbscrapR/news/index.html#cfbscrapr-1-0-2)
 
 ###  Videos and Podcasts
 
-
++ [Shiny Developer Series: Episode 13: Inside Plumber 1.0 (Barret Schloerke Part 2)](https://shinydevseries.com/post/episode-13-barrett2/)
 
 ### Gist & Cookbook
 
@@ -64,14 +79,21 @@ Release Date: 2020-00-00
 
 ### Shiny Apps
 
-
++ [Barcelona passing network analysis](https://eoinobrien.shinyapps.io/passingnetworks/)
 
 ### R Internationally
 
++ [(Japanese) データ分析をちゃんと管理しよう with R 【フォルダ構成編】](https://socinuit.hatenablog.com/entry/2020/09/16/123811)
 
++ [(Japanese) 医療統計で必要なtable1、集計からofficeに貼り付けるまでをgtsummaryパッケージで一気に行う](http://www.restorative-pt.tokyo/archives/gtsummary_table1.html)
+
++ [(Japanese) データ要約ガチ勢のためのgtsummaryで表を書こう](https://qiita.com/yanami/items/117851de49024f5980d0)
 
 ###  Tutorials
-![Sending Emails Should Be Easier in RMarkdown](https://ihaddadenfodil.com/post/sending-emails-should-be-easier-in-rmarkdown/)
+
++ [Sending Emails Should Be Easier in RMarkdown](https://ihaddadenfodil.com/post/sending-emails-should-be-easier-in-rmarkdown/)
+
++ [R Colors in CSS for R Markdown HTML Documents](https://www.garrickadenbuie.com/blog/r-colors-css/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -88,6 +110,8 @@ Events in 3 Months:
 + [88th TokyoR Virtual Meetup - September 19th, 2020](https://tokyor.connpass.com/)
 
 + [Why R? 2020 (Remote) - September 24-27](https://2020.whyr.pl/)
+
++ [Announcing the 2020 RStudio Table Contest!](https://blog.rstudio.com/2020/09/15/announcing-the-2020-rstudio-table-contest/)
 
 + [VirtuEARL – EARL Conference online - October 2020](https://www.mango-solutions.com/virtuearl-earl-conference-online-2020/)
 
