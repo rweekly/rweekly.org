@@ -72,6 +72,7 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 ![Sending Emails Should Be Easier in RMarkdown](https://ihaddadenfodil.com/post/sending-emails-should-be-easier-in-rmarkdown/)
+![Let's {explore} count-data!](https://rolkra.github.io/explore-count-data/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
