@@ -95,6 +95,7 @@ Release Date: 2020-00-00
 
 + [R Colors in CSS for R Markdown HTML Documents](https://www.garrickadenbuie.com/blog/r-colors-css/)
 
++ [It's a Bird, It's a Plane ... It's a ggforce function](https://ihaddadenfodil.com/post/it-s-a-bird-it-s-a-plane-it-s-a-ggforce-function/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
