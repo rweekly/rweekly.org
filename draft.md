@@ -97,6 +97,8 @@ Release Date: 2020-00-00
 
 + [It's a Bird, It's a Plane ... It's a ggforce function](https://ihaddadenfodil.com/post/it-s-a-bird-it-s-a-plane-it-s-a-ggforce-function/)
 
++ [Using Census Microdata and R to Analyze High Speed Internet Access](https://www.natekratzer.com/post/internet_census_microdata/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
