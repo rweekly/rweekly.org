@@ -16,11 +16,13 @@ Release Date: 2020-00-00
 
 ### Insights
 
-
++ [Data Latam: A community of data practitioners](https://education.rstudio.com/blog/2020/09/data-latam/)
 
 ### R in the Real World
 
++ [A Twitter bot with {rtweet} and GitHub Actions](https://www.rostrum.blog/2020/09/21/londonmapbot/)
 
++ [Mean rolling correlation of XLF constituents](https://blog.fosstrading.com/2020/09/xlf-rolling-mean-correlation.html)
 
 ###  R in Organizations
 
@@ -28,11 +30,15 @@ Release Date: 2020-00-00
 
 ###  R in Academia
 
-
++ [Theußl, S., Schwendinger, F., & Hornik, K. (2020). ROI: An Extensible R Optimization Infrastructure. Journal of Statistical Software, 94(15), 1 - 64. doi:http://dx.doi.org/10.18637/jss.v094.i15](https://www.jstatsoft.org/article/view/v094i15)
 
 ###  Resources
 
++ [R code to to build your own (soccer/football) player similarity model based on Factor analysis](https://github.com/EoinOBrien94/FactorAnalysis)
 
++ [Visualizing PFR and NGS data from the NFL](https://gist.github.com/jthomasmock/6be2b7ae28bf676c124a76a3b473be92)
+
++ [Sport, Data & R - Alice Sweeting, PhD. (R-Ladies Melbourne, Sept. 2020)](https://sportstatisticsrsweet.github.io/RLadiesMelbourneTalk/Slides#1)
 
 ###  New Packages
 
@@ -42,21 +48,29 @@ Release Date: 2020-00-00
 
 + [{hermiter} 1.0.0](https://CRAN.R-project.org/package=hermiter): Efficient Online (Sequential) and Batch Estimation of PDF, CDF and Quantiles
 
++ [{calendR} 1.1.0](https://github.com/R-CoderDotCom/calendR): Ready to print calendars with ggplot2
+
 **BioC**
 
 
 
 **GitHub or Bitbucket**
 
-
++ [{treedata.table}](https://ropensci.org/blog/2020/09/22/treedata.table/): An R package for manipulating phylogenetic data with data.table
 
 ### Updated Packages
 
++ [{checkhelper}: A package to help deal with devtools::check outputs](https://github.com/ThinkR-open/checkhelper)
 
++ [{future 1.19.1} - Making Sure Proper Random Numbers are Produced in Parallel Processing](https://www.jottr.org/2020/09/22/push-for-statical-sound-rng/)
+
++ [{shinydashboardPlus 2.0.0}: extensions for shinydashboard](https://rinterface.github.io/shinydashboardPlus/articles/shinydashboardPlus.html#what-changes-in-v2-0-0)
 
 ###  Videos and Podcasts
 
++ [Tidy Tuesday live screencast: Analyzing Himalayan climbers in R](https://www.youtube.com/watch?v=WT7FMn-_jPY)
 
++ [TidyX Episode 28](https://www.youtube.com/watch?v=dQd89Rk5q1E)
 
 ### Gist & Cookbook
 
@@ -68,11 +82,31 @@ Release Date: 2020-00-00
 
 ### R Internationally
 
++ [(Japanese) Start SalesForce with R - Tokyo.R #88](https://speakerdeck.com/bk_18/start-salesforce-with-r)
 
++ [(Japanese) Narrative of [iris] - Tokyo.R #88](https://speakerdeck.com/kilometer/narrative-of-iris)
 
 ###  Tutorials
 
++ [Running an R Script on a Schedule: Gitlab](https://blog.rmhogervorst.nl/blog/2020/09/24/running-an-r-script-on-a-schedule-gitlab/)
 
++ [Handle class imbalance in #TidyTuesday climbing expedition data with tidymodels](https://juliasilge.com/blog/himalayan-climbing/)
+
++ [S3 Classes and {vctrs} to Create a Soccer Pitch Control Model](https://tonyelhabr.rbind.io/post/soccer-pitch-control-r/)
+
+![]()
+
++ [Exploring the gt (Grammar Of Tables) Package in R](https://towardsdatascience.com/exploring-the-gt-grammar-of-tables-package-in-r-7fff9d0b40cd)
+
++ [A Calendar in Your R Console](https://www.garrickadenbuie.com/blog/r-console-calendar/)
+
++ [Grid (12 Months of aRt, December)](https://www.williamrchase.com/post/grid-12-months-of-art-december/)
+
+![]()
+
++ [Extracting colors from images with the {colorfindr} package](https://github.com/annahensch/R-tutorials/blob/master/ggplot-on-fire.md)
+
++ [The Raspberry Pi 4B as a shiny server](https://www.brodrigues.co/blog/2020-09-20-shiny_raspberry/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -109,3 +143,7 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> tip: Use a &#39;system()&#39; call to output a compact calendar for the month/year - I use this all the time to plan without having to leave R :)<br><br>i.e. system(&#39;cal 2020&#39;) <a href="https://t.co/67UePG4fVz">pic.twitter.com/67UePG4fVz</a></p>&mdash; mikefc (@coolbutuseless) <a href="https://twitter.com/coolbutuseless/status/1308163906674790402?ref_src=twsrc%5Etfw">September 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
