@@ -40,7 +40,7 @@ Release Date: 2020-00-00
 
 **CRAN**
 
-
++ [{hermiter} 1.0.0](https://CRAN.R-project.org/package=hermiter): Efficient Online (Sequential) and Batch Estimation of PDF, CDF and Quantiles
 
 **BioC**
 
