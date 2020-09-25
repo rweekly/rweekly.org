@@ -1,11 +1,11 @@
 ---
 layout: draft
-title: R Weekly 2020-00
+title: R Weekly 2020-39
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-00-00
+Release Date: 2020-09-27
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
@@ -17,6 +17,10 @@ Release Date: 2020-00-00
 ### Insights
 
 + [Data Latam: A community of data practitioners](https://education.rstudio.com/blog/2020/09/data-latam/)
+
++ [Using R on Google Colab with {tidyverse} - Video](https://www.programmingwithr.com/using-r-on-google-colab-with-tidyverse-video/)
+
++ [Detect When the Random Number Generator Was Used](https://www.jottr.org/2020/09/21/detect-when-the-random-number-generator-was-used/)
 
 ### R in the Real World
 
@@ -66,6 +70,8 @@ Release Date: 2020-00-00
 
 + [{shinydashboardPlus 2.0.0}: extensions for shinydashboard](https://rinterface.github.io/shinydashboardPlus/articles/shinydashboardPlus.html#what-changes-in-v2-0-0)
 
++ [{shinydashboardPlus{} 2.0.0](https://rinterface.github.io/shinydashboardPlus/articles/shinydashboardPlus.html) [tweet](https://twitter.com/868665666/status/1308038431214309376)
+
 ###  Videos and Podcasts
 
 + [Tidy Tuesday live screencast: Analyzing Himalayan climbers in R](https://www.youtube.com/watch?v=WT7FMn-_jPY)
@@ -94,19 +100,27 @@ Release Date: 2020-00-00
 
 + [S3 Classes and {vctrs} to Create a Soccer Pitch Control Model](https://tonyelhabr.rbind.io/post/soccer-pitch-control-r/)
 
-![]()
-
 + [Exploring the gt (Grammar Of Tables) Package in R](https://towardsdatascience.com/exploring-the-gt-grammar-of-tables-package-in-r-7fff9d0b40cd)
 
 + [A Calendar in Your R Console](https://www.garrickadenbuie.com/blog/r-console-calendar/)
 
 + [Grid (12 Months of aRt, December)](https://www.williamrchase.com/post/grid-12-months-of-art-december/)
 
-![]()
-
 + [Extracting colors from images with the {colorfindr} package](https://github.com/annahensch/R-tutorials/blob/master/ggplot-on-fire.md)
 
 + [The Raspberry Pi 4B as a shiny server](https://www.brodrigues.co/blog/2020-09-20-shiny_raspberry/)
+
++ [US Excess Mortality](https://kieranhealy.org/blog/archives/2020/09/24/us-excess-mortality/)
+
++ [Running an R Script on a Schedule: Gitlab](https://blog.rmhogervorst.nl/blog/2020/09/24/running-an-r-script-on-a-schedule-gitlab/)
+
++ [Running an R Script on a Schedule: Gh-Actions](https://blog.rmhogervorst.nl/blog/2020/09/24/running-an-r-script-on-a-schedule-gh-actions/)
+
++ [Handle class imbalance in #TidyTuesday climbing expedition data with tidymodels](https://juliasilge.com/blog/himalayan-climbing/)
+
++ [What's the upper limit on serialization speed in R?](https://coolbutuseless.github.io/2020/09/22/whats-the-upper-limit-on-serialization-speed-in-r/)
+
++ [Exporting editable ggplot graphics to PowerPoint with officer and purrr](https://www.pipinghotdata.com/posts/2020-09-22-exporting-editable-ggplot-graphics-to-powerpoint-with-officer-and-purrr)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
