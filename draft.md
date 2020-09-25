@@ -64,13 +64,18 @@ Release Date: 2020-09-27
 
 + [{hermiter} 1.0.0](https://CRAN.R-project.org/package=hermiter): Efficient Online (Sequential) and Batch Estimation of PDF, CDF and Quantiles
 
-+ [{calendR} 1.1.0](https://github.com/R-CoderDotCom/calendR): Ready to print calendars with ggplot2
++ [{gitear} 1.0.0](https://cran.r-project.org/package=gitear): Client to the 'gitea' API
+
++ [{ggip} 0.1.0](https://cran.r-project.org/package=ggip): Data Visualization for IP Addresses and Networks
+
++ [{omxr} 0.3.3](https://cran.r-project.org/package=omxr): Read and Write Open Matrix Files
+
 
 **BioC**
 
-
-
 **GitHub or Bitbucket**
+
++ [{calendR} 1.1.0](https://github.com/R-CoderDotCom/calendR): Ready to print calendars with ggplot2
 
 ### Updated Packages
 
