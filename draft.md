@@ -149,6 +149,7 @@ Release Date: 2020-09-27
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ [The release of 4.0.3 ("Bunny-Wunnies Freak Out") is scheduled for Saturday 2020-10-10. Release candidate tarballs will be made available during the week up to the release. ](https://developer.r-project.org/)
 
 ###  Upcoming Events in 3 Months
 
