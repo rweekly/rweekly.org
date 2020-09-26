@@ -18,8 +18,6 @@ Release Date: 2020-09-27
 
 + [Data Latam: A community of data practitioners](https://education.rstudio.com/blog/2020/09/data-latam/)
 
-+ [Using R on Google Colab with {tidyverse} - Video](https://www.programmingwithr.com/using-r-on-google-colab-with-tidyverse-video/)
-
 + [Detect When the Random Number Generator Was Used](https://www.jottr.org/2020/09/21/detect-when-the-random-number-generator-was-used/)
 
 + [August 2020: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2020/09/22/august-2020-top-40-new-cran-packages/)
@@ -38,13 +36,19 @@ Release Date: 2020-09-27
 
 + [The treedata.table Package](https://ropensci.org/blog/2020/09/22/treedata.table/)
 
+![Six panel figure showing comparisons of benchmark data for different phylogenetic data processing workflows](https://raw.githubusercontent.com/rweekly/image/master/2020-09-28/treedatatable.png)
+
 + [Theußl, S., Schwendinger, F., & Hornik, K. (2020). ROI: An Extensible R Optimization Infrastructure. Journal of Statistical Software, 94(15), 1 - 64. doi:http://dx.doi.org/10.18637/jss.v094.i15](https://www.jstatsoft.org/article/view/v094i15)
 
 ### Teaching (with) R
 
+![Laptop screen and mobile device feature R-exams](https://raw.githubusercontent.com/rweekly/image/master/2020-09-28/rexams.png)
+
 + [R/exams for Distance Learning: Resources and Experiences](http://www.R-exams.org/general/distancelearning/)
 
-+ [As we know that R provides multiple operators for subsetting and each of those has their nuances. To highlight those nuances, I have prepared a short quiz on subsetting in R. This quiz for prepared using learnr package and tests users knowledge on subsetting, while also providing explaination to some of the not so obvious questions.](https://monty.shinyapps.io/subsetting/)
+![Screenshot of a quiz about subsetting in R](https://raw.githubusercontent.com/rweekly/image/master/2020-09-28/quizz.png)
+
++ [short quiz on subsetting in R, with learnr.](https://monty.shinyapps.io/subsetting/)
 
 ###  Resources
 
@@ -65,6 +69,8 @@ Release Date: 2020-09-27
 + [{hermiter} 1.0.0](https://CRAN.R-project.org/package=hermiter): Efficient Online (Sequential) and Batch Estimation of PDF, CDF and Quantiles
 
 + [{gitear} 1.0.0](https://cran.r-project.org/package=gitear): Client to the 'gitea' API
+
+![Visualization of IP addresses prepared with ggip](https://raw.githubusercontent.com/rweekly/image/master/2020-09-28/ggip.png)
 
 + [{ggip} 0.1.0](https://cran.r-project.org/package=ggip): Data Visualization for IP Addresses and Networks
 
@@ -93,12 +99,15 @@ Release Date: 2020-09-27
 
 + [TidyX Episode 28](https://www.youtube.com/watch?v=dQd89Rk5q1E)
 
++ [Using R on Google Colab with {tidyverse} - Video](https://www.programmingwithr.com/using-r-on-google-colab-with-tidyverse-video/)
 
 ### Gist & Cookbook
 
 
 
 ### Shiny Apps
+
+![Screenshot of the accessibility assessment of a Shiny app by shinya11y](https://raw.githubusercontent.com/rweekly/image/master/2020-09-28/accessibility.png)
 
 + [accessibility (a11y) tooling for shiny](https://github.com/ewenme/shinya11y)
 
@@ -154,8 +163,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [Why R? 2020 (Remote) - September 24-27](https://2020.whyr.pl/)
 
 + [Announcing the 2020 RStudio Table Contest!](https://blog.rstudio.com/2020/09/15/announcing-the-2020-rstudio-table-contest/)
 
