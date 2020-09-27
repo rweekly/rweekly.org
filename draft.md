@@ -83,6 +83,8 @@ Release Date: 2020-09-27
 
 + [{calendR} 1.1.0](https://github.com/R-CoderDotCom/calendR): Ready to print calendars with ggplot2
 
++ [{rintimg} 0.1.0](https://github.com/feddelegrand7/rintimg): View an image in full screen by clicking on it
+
 ### Updated Packages
 
 + [{checkhelper}: A package to help deal with devtools::check outputs](https://github.com/ThinkR-open/checkhelper)
@@ -151,6 +153,8 @@ Release Date: 2020-09-27
 + [Exporting editable ggplot graphics to PowerPoint with officer and purrr](https://www.pipinghotdata.com/posts/2020-09-22-exporting-editable-ggplot-graphics-to-powerpoint-with-officer-and-purrr)
 
 + [Spectral clustering tutorial](https://eranraviv.com/understanding-spectral-clustering/)
+
++ [Introducing the rintimg Package. Click on an Image and See it on Full Screen](https://ihaddadenfodil.com/post/introducing-the-rintimg-package-click-on-an-image-and-see-it-on-full-screen/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
