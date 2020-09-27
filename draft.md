@@ -10,9 +10,11 @@ Release Date: 2020-09-27
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 
-###  Highlight
+###  Highlights
 
++ [{shinydashboardPlus 2.0.0}: extensions for shinydashboard](https://rinterface.github.io/shinydashboardPlus/articles/shinydashboardPlus.html#what-changes-in-v2-0-0)
 
++ [A Calendar in Your R Console](https://www.garrickadenbuie.com/blog/r-console-calendar/)
 
 ### Insights
 
@@ -21,6 +23,8 @@ Release Date: 2020-09-27
 + [Detect When the Random Number Generator Was Used](https://www.jottr.org/2020/09/21/detect-when-the-random-number-generator-was-used/)
 
 + [August 2020: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2020/09/22/august-2020-top-40-new-cran-packages/)
+
++ [#30: Easy, Reliable, Fast and Portable Linux and macOS Continuous Integration](http://dirk.eddelbuettel.com/blog/2020/09/26#030_bspm_for_ci)
 
 ### R in the Real World
 
@@ -76,9 +80,7 @@ Release Date: 2020-09-27
 
 + [{omxr} 0.3.3](https://cran.r-project.org/package=omxr): Read and Write Open Matrix Files
 
-
-**BioC**
-
++ [{htmldf} 0.1.0](https://cran.r-project.org/package=htmldf): Simple Scraping and Tidy Webpage Summaries
 **GitHub or Bitbucket**
 
 + [{calendR} 1.1.0](https://github.com/R-CoderDotCom/calendR): Ready to print calendars with ggplot2
@@ -91,7 +93,7 @@ Release Date: 2020-09-27
 
 + [{future 1.19.1} - Making Sure Proper Random Numbers are Produced in Parallel Processing](https://www.jottr.org/2020/09/22/push-for-statical-sound-rng/)
 
-
++ [New nnetsauce](https://thierrymoudiki.github.io/blog/2020/09/25/misc/quasirandomizednn/nnetsauce-new)
 
 + [RcppSpdlog 0.0.2: New upstream, awesome new stopwatch](http://dirk.eddelbuettel.com/blog/2020/09/20#rcppspdlog_0.0.2)
 
@@ -105,9 +107,9 @@ Release Date: 2020-09-27
 
 ### Gist & Cookbook
 
++ [Writing conundrums](https://osm.netlify.com/post/writing-conundrums/)
 
-
-### Shiny Apps
+### The Shiny Corner
 
 ![Screenshot of the accessibility assessment of a Shiny app by shinya11y](https://raw.githubusercontent.com/rweekly/image/master/2020-09-28/accessibility.png)
 
@@ -144,17 +146,25 @@ Release Date: 2020-09-27
 
 + [US Excess Mortality](https://kieranhealy.org/blog/archives/2020/09/24/us-excess-mortality/)
 
-+ [Running an R Script on a Schedule: Gitlab](https://blog.rmhogervorst.nl/blog/2020/09/24/running-an-r-script-on-a-schedule-gitlab/); [GitHub Actions](https://blog.rmhogervorst.nl/blog/2020/09/24/running-an-r-script-on-a-schedule-gh-actions/); [Heroku](https://blog.rmhogervorst.nl/blog/2020/09/21/running-an-r-script-on-a-schedule-heroku/)
++ [National Weekly Death Rates](https://kieranhealy.org/blog/archives/2020/09/26/national-weekly-death-rates/)
+
++ [Running an R Script on a Schedule: Overview](https://blog.rmhogervorst.nl/blog/2020/09/26/running-an-r-script-on-a-schedule-overview/); [Gitlab](https://blog.rmhogervorst.nl/blog/2020/09/24/running-an-r-script-on-a-schedule-gitlab/); [GitHub Actions](https://blog.rmhogervorst.nl/blog/2020/09/24/running-an-r-script-on-a-schedule-gh-actions/); [Heroku](https://blog.rmhogervorst.nl/blog/2020/09/21/running-an-r-script-on-a-schedule-heroku/)
 
 + [What's the upper limit on serialization speed in R?](https://coolbutuseless.github.io/2020/09/22/whats-the-upper-limit-on-serialization-speed-in-r/)
 
 + [xxhashlite - hash arbitrary R objects as fast as possible](https://coolbutuseless.github.io/2020/09/22/xxhashlite-hash-arbitrary-r-objects-as-fast-as-possible/)
+
++ [Introducing the {triangular} package for decomposing complex polygons to triangles](https://coolbutuseless.github.io/2020/09/26/introducing-the-triangular-package-for-decomposing-complex-polygons-to-triangles/)
 
 + [Exporting editable ggplot graphics to PowerPoint with officer and purrr](https://www.pipinghotdata.com/posts/2020-09-22-exporting-editable-ggplot-graphics-to-powerpoint-with-officer-and-purrr)
 
 + [Spectral clustering tutorial](https://eranraviv.com/understanding-spectral-clustering/)
 
 + [Introducing the rintimg Package. Click on an Image and See it on Full Screen](https://ihaddadenfodil.com/post/introducing-the-rintimg-package-click-on-an-image-and-see-it-on-full-screen/)
+
++ [Free text in surveys - important issues in the 2017 New Zealand Election Study by @ellis2013nz](http://freerangestats.info/blog/2020/09/26/nzes-issues)
+
++ [Le Monde puzzle [#1155]](https://xianblog.wordpress.com/2020/09/26/le-monde-puzzle-1155/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -167,6 +177,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [Free workshop on Deep Learning with Keras and TensorFlow  - Thursday, 8th of October (13:00 UTC / 15:00 CEST)](https://shirinsplayground.netlify.app/2020/09/keras_workshop_user20/)
 
 + [Announcing the 2020 RStudio Table Contest!](https://blog.rstudio.com/2020/09/15/announcing-the-2020-rstudio-table-contest/)
 
