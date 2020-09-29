@@ -14,6 +14,8 @@ Release Date: 2020-10-06
 
 ### Insights
 
++ [Using redo to manage R data analysis workflow](http://karolis.koncevicius.lt/posts/using_redo_to_manage_r_data_analysis_workflow/)
+
 ### R in the Real World
 
 ###  R in Organizations
