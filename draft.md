@@ -56,6 +56,7 @@ Release Date: 2020-10-06
 
 ###  Tutorials
 
++ [Demystifying stat_ layers in {ggplot2}](https://yjunechoe.github.io/posts/2020-09-26-demystifying-stat-layers-ggplot2/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
