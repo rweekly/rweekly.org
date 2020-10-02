@@ -61,6 +61,9 @@ Release Date: 2020-10-06
 
 + [Demystifying stat_ layers in {ggplot2}](https://yjunechoe.github.io/posts/2020-09-26-demystifying-stat-layers-ggplot2/)
 
++ [Road Routing in R](https://www.jla-data.net/eng/routing-in-r-context/)
+Comparing three popular routing APIs & their respective R packages: {osrm}, {mapboxapi} and {hereR}.
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
