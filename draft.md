@@ -26,6 +26,9 @@ Release Date: 2020-10-06
 
 ###  Resources
 
++ [Introducing the creature package. Interactive Animations in Rmd Documents and Shiny Apps](https://ihaddadenfodil.com/post/introducing-the-creature-package-interactive-animations-in-rmd-documents-and-shiny-apps/)
+
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -40,7 +43,7 @@ Release Date: 2020-10-06
 
 **GitHub or Bitbucket**
 
-
++ [creature](https://ihaddadenfodil.com/post/introducing-the-creature-package-interactive-animations-in-rmd-documents-and-shiny-apps)
 
 ### Updated Packages
 
