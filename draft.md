@@ -35,7 +35,7 @@ Release Date: 2020-10-06
 
 **CRAN**
 
-
++ [{mapchina}: Geospatial shapefile (vector data) of China administrative divisions to the county/district-level](https://github.com/xmc811/mapchina)
 
 **BioC**
 
