@@ -21,9 +21,9 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [Le Monde puzzle #1157](https://xianblog.wordpress.com/2020/10/01/le-monde-puzzle-1157/)
 
-+ [New Polished Feature - User Roles](https://www.tychobra.com/posts/2020-09-30-polished-roles/) *
++ [New Polished Feature - User Roles](https://www.tychobra.com/posts/2020-09-30-polished-roles/)
 
-+ [RStudio v1.4 Preview: Visual Markdown Editing](https://blog.rstudio.com/2020/09/30/rstudio-v1-4-preview-visual-markdown-editing/) * 
++ [RStudio v1.4 Preview: Visual Markdown Editing](https://blog.rstudio.com/2020/09/30/rstudio-v1-4-preview-visual-markdown-editing/)
 
 + [sparklyr 1.4: Weighted Sampling, Tidyr Verbs, Robust Scaler, RAPIDS, and more](https://blogs.rstudio.com/tensorflow/posts/2020-09-30-sparklyr-1.4.0-released)
 
@@ -31,11 +31,11 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [Introducing torch for R](https://blog.rstudio.com/2020/09/29/torch/)
 
-+ [usemodels 0.0.1](https://www.tidyverse.org/blog/2020/09/usemodels-0-0-1/)
++ [{usemodels} 0.0.1](https://www.tidyverse.org/blog/2020/09/usemodels-0-0-1/)
 
 + [Permuted block randomization using simstudy](https://www.rdatagen.net/post/permuted-block-randomization-using-simstudy/)
 
-+ [mapping congressional roll calls](https://jtimm.net/2020/09/28/mapping-congressional-roll-calls/) *
++ [Mapping congressional roll calls](https://jtimm.net/2020/09/28/mapping-congressional-roll-calls/)
 
 + [How to deliver learnr tutorials in a package](https://education.rstudio.com/blog/2020/09/delivering-learnr-tutorials-in-a-package/)
 
@@ -212,7 +212,7 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [Time Series Forecasting: KNN vs. ARIMA](https://datageeek.wordpress.com/2020/09/29/time-series-forecasting-knn-vs-arima/)
 
-+ [usemodels 0.0.1](https://www.tidyverse.org/blog/2020/09/usemodels-0-0-1/)
++ [{usemodels} 0.0.1](https://www.tidyverse.org/blog/2020/09/usemodels-0-0-1/)
 
 + [How to Generate a Sequence of Numbers in R with :, seq() and rep()](https://www.marsja.se/how-to-generate-a-sequence-of-numbers-in-r-with-seq-and-rep/)
 
@@ -262,3 +262,9 @@ will keep R Weekly team moving! 💡
 </p>
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My new favorite teaching tool in R is the fabricerin package. Thank you <a href="https://twitter.com/moh_fodil?ref_src=twsrc%5Etfw">@moh_fodil</a>. <a href="https://t.co/gRl0VX4kQZ">pic.twitter.com/gRl0VX4kQZ</a></p>&mdash; Mine Dogucu (@MineDogucu) <a href="https://twitter.com/MineDogucu/status/1311904293474037762?ref_src=twsrc%5Etfw">October 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you have a list of author names and need their ORCiDs? New function in scienceverse (check alt text for the code).<a href="https://t.co/bUZZdlVpWR">https://t.co/bUZZdlVpWR</a> <a href="https://t.co/sKzgBDugcj">pic.twitter.com/sKzgBDugcj</a></p>&mdash; Lisa DeBruine 🏳️‍🌈 (@LisaDeBruine) <a href="https://twitter.com/LisaDeBruine/status/1311426008193654785?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Multiple source columns - work on <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> scripts side-by-side!<br><br>(Note you can set as many columns as you like!) <a href="https://t.co/w8KPaCHIN3">pic.twitter.com/w8KPaCHIN3</a></p>&mdash; Tom Mock (@thomas_mock) <a href="https://twitter.com/thomas_mock/status/1311311080266883079?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
