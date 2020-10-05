@@ -27,6 +27,10 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [sparklyr 1.4: Weighted Sampling, Tidyr Verbs, Robust Scaler, RAPIDS, and more](https://blogs.rstudio.com/tensorflow/posts/2020-09-30-sparklyr-1.4.0-released)
 
++ [Mapping congressional roll calls](https://jtimm.net/2020/09/28/mapping-congressional-roll-calls/)
+
+![Mapping congressional roll calls](https://raw.githubusercontent.com/rweekly/image/master/2020-10-05/congressional_600.png)
+
 + [Rectifying Hand-Drawn Marks on Maps With the mapscanner Package](https://ropensci.org/blog/2020/09/29/mapscanner/)
 
 + [Introducing torch for R](https://blog.rstudio.com/2020/09/29/torch/)
@@ -35,9 +39,9 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [Permuted block randomization using simstudy](https://www.rdatagen.net/post/permuted-block-randomization-using-simstudy/)
 
-+ [Mapping congressional roll calls](https://jtimm.net/2020/09/28/mapping-congressional-roll-calls/)
-
 + [How to deliver learnr tutorials in a package](https://education.rstudio.com/blog/2020/09/delivering-learnr-tutorials-in-a-package/)
+
+![How to deliver learnr tutorials in a package](https://raw.githubusercontent.com/rweekly/image/master/2020-10-05/pkg-illo_600.jpg)
 
 + [Building apps with {shinipsum} and {golem}](http://www.brodrigues.co/blog/2020-09-27-golemdemo/)
 
@@ -71,6 +75,8 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 + [{usemodels} 0.0.1](https://www.tidyverse.org/blog/2020/09/usemodels-0-0-1/): Boilerplate Code for 'Tidymodels' Analyses
 
 + [{mapchina} 0.1.0](https://github.com/xmc811/mapchina): Geospatial shapefile (vector data) of China administrative divisions to the county/district-level
+
+![{mapchina} 0.1.0](https://raw.githubusercontent.com/rweekly/image/master/2020-10-05/plot_6_600.jpg)
 
 + [{pkgKitten} 0.2.0](http://dirk.eddelbuettel.com/blog/2020/09/27#pkgKitten_0.2.0): Now with tinytest and new docs
 
