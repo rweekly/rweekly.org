@@ -1,5 +1,4 @@
 ---
-layout: draft
 title: R Weekly 2020-40
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
@@ -12,6 +11,12 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 ### Highlights
+
++ [How to deliver learnr tutorials in a package](https://education.rstudio.com/blog/2020/09/delivering-learnr-tutorials-in-a-package/)
+
++ [RStudio v1.4 Preview: Visual Markdown Editing](https://blog.rstudio.com/2020/09/30/rstudio-v1-4-preview-visual-markdown-editing/)
+
++ [Demystifying stat\_ layers in {ggplot2}](https://yjunechoe.github.io/posts/2020-09-26-demystifying-stat-layers-ggplot2/)
 
 ### Insights
 
