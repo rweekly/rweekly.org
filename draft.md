@@ -1,5 +1,5 @@
 ---
-title: R Weekly 2020-40 learnr tutorials, visual markdown editing, stat\_layers
+title: R Weekly 2020-40 learnr tutorials, visual markdown editing, stat_layers
 description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
