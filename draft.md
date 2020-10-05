@@ -54,6 +54,16 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [A map of commuter patterns in the U.S. northeast using Flowmap.blue.](https://ctompkins.netlify.app/post/mapping-boswash-commuter-patterns/)
 
++ ["package 'foo' is not available" - What to do when R tells you it can't install a package](https://deanattali.com/blog/packageunavailable/)
+
++ [Switch BLAS/LAPACK without leaving your R session](https://www.enchufa2.es/archives/switch-blas-lapack-without-leaving-your-r-session.html)
+
++ [Forecasting lung disease progression](https://thierrymoudiki.github.io/blog/2020/10/02/misc/r/osic-kaggle)
+
++ [metallicaRt](http://johnmackintosh.com/2020-10-02-metallicart/)
+
++ [Walk the Walk](https://kieranhealy.org/blog/archives/2020/10/01/walk-the-walk/)
+
 ### Teaching (with) R
 
 + [How to deliver learnr tutorials in a package](https://education.rstudio.com/blog/2020/09/delivering-learnr-tutorials-in-a-package/)
@@ -63,6 +73,8 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 + [Introducing the creature package. Interactive Animations in Rmd Documents and Shiny Apps](https://ihaddadenfodil.com/post/introducing-the-creature-package-interactive-animations-in-rmd-documents-and-shiny-apps/)
 
 + [US lawmakers on Twitter: a collection of resources](https://github.com/jaytimm/twitter-and-us-lawmakers)
+
++ [Sample Shiny exam](https://education.rstudio.com/blog/2020/10/example-shiny-exam/)
 
 ### New Packages
 
@@ -120,6 +132,8 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 + [{meta} 4.15-0](https://cran.r-project.org/package=meta): General Package for Meta-Analysis
 
 + [{h2o} 3.30.1.3](https://cran.r-project.org/package=h2o): R Interface for the 'H2O' Scalable Machine Learning Platform
+
++ [{pinp} 0.0.10](http://dirk.eddelbuettel.com/blog/2020/10/03#pinp_0.0.10): More Tweaks
 
 + [{covid19.analytics} 2.0](https://cran.r-project.org/package=covid19.analytics): Load and Analyze Live Data from the CoViD-19 Pandemic
 
