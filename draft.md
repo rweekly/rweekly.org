@@ -81,7 +81,7 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [{mapchina} 0.1.0](https://github.com/xmc811/mapchina): Geospatial shapefile (vector data) of China administrative divisions to the county/district-level
 
-![{mapchina} 0.1.0](https://raw.githubusercontent.com/rweekly/image/master/2020-10-05/plot_6_600.jpg)
+![{mapchina} 0.1.0](https://raw.githubusercontent.com/rweekly/image/master/2020-10-05/plot_6_600.png)
 
 + [{pkgKitten} 0.2.0](http://dirk.eddelbuettel.com/blog/2020/09/27#pkgKitten_0.2.0): Now with tinytest and new docs
 
