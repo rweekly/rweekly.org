@@ -16,13 +16,17 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 + [RStudio v1.4 Preview: Visual Markdown Editing](https://blog.rstudio.com/2020/09/30/rstudio-v1-4-preview-visual-markdown-editing/)
 
-+ [Demystifying stat\_ layers in {ggplot2}](https://yjunechoe.github.io/posts/2020-09-26-demystifying-stat-layers-ggplot2/)
++ [Demystifying stat\_layers in {ggplot2}](https://yjunechoe.github.io/posts/2020-09-26-demystifying-stat-layers-ggplot2/)
 
 ### Insights
 
 + [Using redo to manage R data analysis workflow](http://karolis.koncevicius.lt/posts/using_redo_to_manage_r_data_analysis_workflow/)
 
 + [Getting familiar with torch tensors](https://blogs.rstudio.com/tensorflow/posts/2020-10-01-torch-network-from-scratch)
+
++ [Mapping congressional roll calls](https://jtimm.net/2020/09/28/mapping-congressional-roll-calls/)
+
+![Mapping congressional roll calls](https://raw.githubusercontent.com/rweekly/image/master/2020-10-05/congressional_600.png)
 
 + [Le Monde puzzle #1157](https://xianblog.wordpress.com/2020/10/01/le-monde-puzzle-1157/)
 
@@ -31,10 +35,6 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 + [RStudio v1.4 Preview: Visual Markdown Editing](https://blog.rstudio.com/2020/09/30/rstudio-v1-4-preview-visual-markdown-editing/)
 
 + [sparklyr 1.4: Weighted Sampling, Tidyr Verbs, Robust Scaler, RAPIDS, and more](https://blogs.rstudio.com/tensorflow/posts/2020-09-30-sparklyr-1.4.0-released)
-
-+ [Mapping congressional roll calls](https://jtimm.net/2020/09/28/mapping-congressional-roll-calls/)
-
-![Mapping congressional roll calls](https://raw.githubusercontent.com/rweekly/image/master/2020-10-05/congressional_600.png)
 
 + [Rectifying Hand-Drawn Marks on Maps With the mapscanner Package](https://ropensci.org/blog/2020/09/29/mapscanner/)
 
@@ -217,7 +217,7 @@ This week's release was curated by [Jonathan Carroll](https://twitter.com/carrol
 
 ### Tutorials
 
-+ [Demystifying stat\_ layers in {ggplot2}](https://yjunechoe.github.io/posts/2020-09-26-demystifying-stat-layers-ggplot2/)
++ [Demystifying stat\_layers in {ggplot2}](https://yjunechoe.github.io/posts/2020-09-26-demystifying-stat-layers-ggplot2/)
 
 + [Road Routing in R](https://www.jla-data.net/eng/routing-in-r-context/) Comparing three popular routing APIs & their respective R packages: {osrm}, {mapboxapi} and {hereR}.
 
