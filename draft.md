@@ -1,6 +1,6 @@
 ---
-title: R Weekly 2020-40
-description: Draft of the R Weekly
+title: R Weekly 2020-40 learnr tutorials, visual markdown editing, stat\_layers
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -8,7 +8,7 @@ Release Date: 2020-10-05
 
 This week's release was curated by [Jonathan Carroll](https://twitter.com/carroll_jono), with help from the RWeekly team members and contributors.
 
-[How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
++ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 ### Highlights
 
