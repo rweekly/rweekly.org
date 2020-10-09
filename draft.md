@@ -66,51 +66,92 @@ Release Date: 2020-10-12
 **CRAN**
 
 + [{SSHAARP} 1.0.1](https://cran.r-project.org/package=SSHAARP): Searching Shared HLA Amino Acid Residue Prevalence
+
 + [{T4transport} 0.1.0](https://cran.r-project.org/package=T4transport): Tools for Computational Optimal Transport
+
 + [{gglm} 0.1.0](https://cran.r-project.org/package=gglm): Grammar of Graphics for Linear Model Diagnostic Plots
+
 + [{AirSensor} 1.0.2](https://cran.r-project.org/package=AirSensor): Process and Display Data from Air Quality Sensors
+
 + [{spDates} 1.0](https://cran.r-project.org/package=spDates): Analysis of Spatial Gradients in Radiocarbon Dates
+
 + [{quickerstats} 0.0.1](https://cran.r-project.org/package=quickerstats): An 'R' Client for the 'USDA NASS Quick Stats API'
+
 + [{MSGARCHelm} 0.1.0](https://cran.r-project.org/package=MSGARCHelm): Hybridization of MS-GARCH and ELM Model
+
 + [{dCUR} 1.0.0](https://cran.r-project.org/package=dCUR): Dimension Reduction with Dynamic CUR
+
 + [{EHR} 0.3-1](https://cran.r-project.org/package=EHR): Electronic Health Record (EHR) Data Processing and Analysis Tool
+
 + [{LDheatmap} 1.0-4](https://cran.r-project.org/package=LDheatmap): Graphical Display of Pairwise Linkage Disequilibria Between SNPs
+
 + [{sketch} 1.0.3](https://cran.r-project.org/package=sketch): Interactive Sketches
+
 + [{BIGDAWG} 2.3.1](https://cran.r-project.org/package=BIGDAWG): Case-Control Analysis of Multi-Allelic Loci
+
 + [{TVMM} 3.2](https://cran.r-project.org/package=TVMM): Multivariate Tests for the Vector of Means
+
 + [{skynet} 1.4.0](https://cran.r-project.org/package=skynet): Generates Networks from BTS Data
+
 + [{modeltime.ensemble} 0.2.0](https://cran.r-project.org/package=modeltime.ensemble): Ensemble Algorithms for Time Series Forecasting with Modeltime
+
 + [{hdiVAR} 1.0.1](https://cran.r-project.org/package=hdiVAR): Statistical Inference for Noisy Vector Autoregression
+
 + [{fanovaGraph} 1.5](https://cran.r-project.org/package=fanovaGraph): Building Kriging Models from FANOVA Graphs
+
 + [{satin} 1.0](https://cran.r-project.org/package=satin): Visualisation and Analysis of Ocean Data Derived from Satellites
+
 + [{quantdr} 1.0.0](https://cran.r-project.org/package=quantdr): Dimension Reduction Techniques for Conditional Quantiles
+
 + [{PVplr} 0.1.0](https://cran.r-project.org/package=PVplr): Performance Loss Rate Analysis Pipeline
+
 + [{Momocs} 1.3.2](https://cran.r-project.org/package=Momocs): Morphometrics using R
+
 + [{sivs} 0.2.2](https://cran.r-project.org/package=sivs): Seed Independent Variable Selection
+
 + [{occCite} 0.3.0](https://cran.r-project.org/package=occCite): Querying and Managing Large Biodiversity Occurrence Datasets
+
 + [{cmsafvis} 1.0.0](https://cran.r-project.org/package=cmsafvis): Visualize CM SAF NetCDF Data
+
 + [{suppdata} 1.1-4](https://cran.r-project.org/package=suppdata): Downloading Supplementary Data from Published Manuscripts
+
 + [{blink} 1.1.0](https://cran.r-project.org/package=blink): Record Linkage for Empirically Motivated Priors
+
 + [{treeducken} 1.0.0](https://cran.r-project.org/package=treeducken): Nested Phylogenetic Tree Simulator
+
 + [{FunWithNumbers} 1.0](https://cran.r-project.org/package=FunWithNumbers): Fun with Fractions and Number Sequences
+
 + [{CNAIM} 1.0.0](https://cran.r-project.org/package=CNAIM): Common Network Asset Indices Methodology (CNAIM)
+
 + [{winch} 0.0.1](https://cran.r-project.org/package=winch): Portable Native and Joint Stack Traces
+
 + [{REPPlabShiny} 0.4.0](https://cran.r-project.org/package=REPPlabShiny): 'REPPlab' via a Shiny Application
+
 + [{pvldcurve} 1.2.6](https://cran.r-project.org/package=pvldcurve): Simplifies the Analysis of Pressure Volume and Leaf Drying
 Curves
+
 + [{mapboxapi} 0.2](https://cran.r-project.org/package=mapboxapi): R Interface to 'Mapbox' Web Services
+
 + [{animalEKF} 1.1](https://cran.r-project.org/package=animalEKF): Extended Kalman Filters for Animal Movement
+
 + [{PairViz} 1.3.4](https://cran.r-project.org/package=PairViz): Visualization using Graph Traversal
+
 + [{gmGeostats} 0.10-7](https://cran.r-project.org/package=gmGeostats): Geostatistics for Compositional Analysis
+
 + [{zenplots} 1.0.2](https://cran.r-project.org/package=zenplots): Zigzag Expanded Navigation Plots
+
 + [{priceR} 0.1.5](https://cran.r-project.org/package=priceR): Economics and Pricing Tools
+
 + [{collidr} 0.1.3](https://cran.r-project.org/package=collidr): Check for Namespace Collisions Across Packages and Functions on
 CRAN
+
 + [{concreg} 0.7](https://cran.r-project.org/package=concreg): Concordance Regression
+
 + [{tsibbletalk} 0.1.0](https://cran.r-project.org/package=tsibbletalk): Interactive Graphics for Tsibble Objects
+
 + [{stfit} 0.99.8](https://cran.r-project.org/package=stfit): Spatio-Temporal Functional Imputation Tool
-+ [{pmlbr} 0.2.0](https://cran.r-project.org/package=pmlbr): Interface to the Penn Machine Learning Benchmarks Data
-Repository
+
++ [{pmlbr} 0.2.0](https://cran.r-project.org/package=pmlbr): Interface to the Penn Machine Learning Benchmarks Data Repository
 
 **BioC**
 
