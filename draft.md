@@ -20,8 +20,6 @@ Release Date: 2020-10-12
 
 + [The day after](https://johnmackintosh.net/blog/2020-10-06-the-day-after/)
 
-+ [RStudio v1.4 Preview: Visual Markdown Editing](https://blog.rstudio.com/2020/09/30/rstudio-v1-4-preview-visual-markdown-editing/)
-
 ### R in the Real World
 
 
