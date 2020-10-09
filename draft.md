@@ -183,11 +183,7 @@ CRAN
 
 + [{callr} 3.5.0](https://cran.r-project.org/package=callr): Call R from R
 
-+ [{modeltime} 0.2.1](https://cran.r-project.org/package=modeltime): The Tidymodels Extension for Time Series Modeling
-
 + [{analogsea} 0.9.0](https://cran.r-project.org/package=analogsea): Interface to 'Digital Ocean'
-
-+ [{brms} 2.14.0](https://cran.r-project.org/package=brms): Bayesian Regression Models using 'Stan'
 
 + [{waldo} 0.2.1](https://cran.r-project.org/package=waldo): Find Differences Between R Objects
 
@@ -202,8 +198,6 @@ CRAN
 + [{Tplyr} 0.1.3](https://cran.r-project.org/package=Tplyr): A Grammar of Clinical Data Summary
 
 + [{tinytest} 1.2.3](https://cran.r-project.org/package=tinytest): Lightweight and Feature Complete Unit Testing Framework
-
-+ [{tsibble} 0.9.3](https://cran.r-project.org/package=tsibble): Tidy Temporal Data Frames and Tools
 
 + [{bigrquery} 1.3.2](https://cran.r-project.org/package=bigrquery): An Interface to Google's 'BigQuery' 'API'
 
@@ -242,10 +236,6 @@ CRAN
 
 
 ###  Tutorials
-
-+ ['package 'foo' is not available' - What to do when R tells you it can't install a package](https://deanattali.com/blog/packageunavailable/)
-
-+ [How to use %in% in R: 7 Example Uses of the Operator](https://www.marsja.se/how-to-use-in-in-r/)
 
 + [Building a (Hockey) Shot-Plotting App in Shiny](https://hockey-graphs.com/2020/10/01/building-a-shot-plotting-app-in-shiny/)
 
