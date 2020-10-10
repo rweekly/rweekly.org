@@ -147,8 +147,6 @@ CRAN
 
 + [{concreg} 0.7](https://cran.r-project.org/package=concreg): Concordance Regression
 
-+ [{tsibbletalk} 0.1.0](https://cran.r-project.org/package=tsibbletalk): Interactive Graphics for Tsibble Objects
-
 + [{stfit} 0.99.8](https://cran.r-project.org/package=stfit): Spatio-Temporal Functional Imputation Tool
 
 + [{pmlbr} 0.2.0](https://cran.r-project.org/package=pmlbr): Interface to the Penn Machine Learning Benchmarks Data Repository
@@ -223,7 +221,7 @@ CRAN
 
 ### Gist & Cookbook
 
-
++ [Side-by-side input widgets in Shiny](https://gist.github.com/aagarw30/bb5ce42ebc7a60302a50bb7ddcf113af)
 
 ### Shiny Apps
 
@@ -262,6 +260,8 @@ CRAN
 + [Tutorial on how to build a random forest model using ranger and DALEX as a first baseline in analysis. ](https://olgamie.github.io/2020/09/30/building-first-baseline-with-random-forest-using-ranger-and-dalex/)
 
 + [An R Pipeline for XGBoost Part I](http://www.orrymr.com/2020/10/an-r-pipeline-for-xgboost-and-a-discussion-about-hyperparameters-part-i/)
+
++ [Hosting a {plumber} API with Kubernetes](https://mdneuzerling.com/post/hosting-a-plumber-api-with-kubernetes/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
