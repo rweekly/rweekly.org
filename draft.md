@@ -226,21 +226,23 @@ CRAN
 
 + [{shinyML} 1.0.0](https://cran.r-project.org/package=shinyML): Compare Supervised Machine Learning Models Using Shiny App
 
++ [Building a (Hockey) Shot-Plotting App in Shiny](https://hockey-graphs.com/2020/10/01/building-a-shot-plotting-app-in-shiny/)
+
++ [I Generated a Sample Survey Product with Shiny](https://mpawliwlevac.netlify.app/post/i-generated-a-sample-survey-product/)
+
 ### R Internationally
 
 
 
 ###  Tutorials
 
-+ [Building a (Hockey) Shot-Plotting App in Shiny](https://hockey-graphs.com/2020/10/01/building-a-shot-plotting-app-in-shiny/)
+
 
 + [Diagonal gridlines in 2 ways](https://www.statsandsnakeoil.com/2020/10/07/diagonal-gridlines/)
 
 ![]()
 
 + [Expected Goals - Overachieving or just lucky?](https://dm13450.github.io/2020/09/11/ExpGoals.html)
-
-+ [I Generated a Sample Survey Product with Shiny](https://mpawliwlevac.netlify.app/post/i-generated-a-sample-survey-product/)
 
 + [Spatial Data Analysis Using Artificial Neural Networks Part 1](https://r-posts.com/spatial-data-analysis-using-artificial-neural-networks-part-1/)
 
