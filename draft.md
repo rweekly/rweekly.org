@@ -211,8 +211,6 @@ CRAN
 
 ###  Videos and Podcasts
 
-+ [#TidyTuesday: Tune and choose hyperparameters for modeling NCAA women's tournament seeds](https://www.youtube.com/watch?v=krw7OkUCk84)
-
 + [Sentiment Analysis in R with Custom Lexicon Dictionary using tidytext](https://www.programmingwithr.com/sentiment-analysis-in-r-with-custom-lexicon-dictionary-using-tidytext/)
 
 + [Shiny Developer Series Episode 14 - Shining a Light on {learnr}](https://shinydevseries.com/post/episode-14-barrett3/)
