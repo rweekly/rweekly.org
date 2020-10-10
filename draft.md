@@ -149,7 +149,6 @@ CRAN
 
 + [{stfit} 0.99.8](https://cran.r-project.org/package=stfit): Spatio-Temporal Functional Imputation Tool
 
-+ [{pmlbr} 0.2.0](https://cran.r-project.org/package=pmlbr): Interface to the Penn Machine Learning Benchmarks Data Repository
 
 **BioC**
 
@@ -281,6 +280,8 @@ Events in 3 Months:
 ### Datasets
 
 + [Downloading food web databases and deriving basic structural metrics](https://geekcologist.wordpress.com/2020/10/08/downloading-food-web-databases-and-deriving-basic-structural-metrics/)
+
++ [{pmlbr} 0.2.0](https://cran.r-project.org/package=pmlbr): Interface to the Penn Machine Learning Benchmarks Data Repository
 
 ### Jobs
 
