@@ -7,11 +7,18 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2020-10-12
 
+This week's release was curated by [Eric Nantz](https://twitter.com/theRcast), with help from the RWeekly team members and contributors.
+
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 
 ###  Highlight
 
++ [Picking and researching blog topics about R package development](https://blog.r-hub.io/2020/10/09/topic-research/)
+
++ [Hacktober? Any Month is a Good Month to Contribute to rOpenSci](https://ropensci.org/blog/2020/10/06/hacktober2020/)
+
++ [Shiny Developer Series Episode 14 - Shining a Light on {learnr}](https://shinydevseries.com/post/episode-14-barrett3/)
 
 
 ### Insights
@@ -86,6 +93,8 @@ Release Date: 2020-10-12
 + [{LDheatmap} 1.0-4](https://cran.r-project.org/package=LDheatmap): Graphical Display of Pairwise Linkage Disequilibria Between SNPs
 
 + [{sketch} 1.0.3](https://cran.r-project.org/package=sketch): Interactive Sketches
+
+![sketch](https://raw.githubusercontent.com/rweekly/image/master/2020-10-12/demo_3.gif)
 
 + [{BIGDAWG} 2.3.1](https://cran.r-project.org/package=BIGDAWG): Case-Control Analysis of Multi-Allelic Loci
 
@@ -162,6 +171,8 @@ CRAN
 
 + [Introducing devoutrgl - a 3d graphics device targetting rgl](https://coolbutuseless.github.io/2020/10/06/introducing-devoutrgl-a-3d-graphics-device-targetting-rgl/)
 
+![devoutrgl](https://raw.githubusercontent.com/rweekly/image/master/2020-10-12/polygon-with-hole.gif)
+
 ### Updated Packages
 
 + [{readr} 1.4.0](https://www.tidyverse.org/blog/2020/10/readr-1-4-0/)
@@ -202,7 +213,7 @@ CRAN
 
 + [{ggspectra} 0.3.7](https://cran.r-project.org/package=ggspectra): Extensions to 'ggplot2' for Radiation Spectra
 
-![](https://docs.r4photobiology.info/ggspectra/)
+![ggspectra](https://raw.githubusercontent.com/rweekly/image/master/2020-10-12/README-example1-1.png)
 
 + [{htmlwidgets} 1.5.2](https://cran.r-project.org/package=htmlwidgets): HTML Widgets for R
 
@@ -228,21 +239,18 @@ CRAN
 
 + [Building a (Hockey) Shot-Plotting App in Shiny](https://hockey-graphs.com/2020/10/01/building-a-shot-plotting-app-in-shiny/)
 
+![shot-map](https://raw.githubusercontent.com/rweekly/image/master/2020-10-12/shot-map.gif)
+
 + [I Generated a Sample Survey Product with Shiny](https://mpawliwlevac.netlify.app/post/i-generated-a-sample-survey-product/)
-
-### R Internationally
-
 
 
 ###  Tutorials
 
-
-
 + [Diagonal gridlines in 2 ways](https://www.statsandsnakeoil.com/2020/10/07/diagonal-gridlines/)
 
-![]()
-
 + [Expected Goals - Overachieving or just lucky?](https://dm13450.github.io/2020/09/11/ExpGoals.html)
+
+![expectedgoals](https://raw.githubusercontent.com/rweekly/image/master/2020-10-12/expected_goals.png)
 
 + [Spatial Data Analysis Using Artificial Neural Networks Part 1](https://r-posts.com/spatial-data-analysis-using-artificial-neural-networks-part-1/)
 
@@ -284,10 +292,6 @@ Events in 3 Months:
 + [Downloading food web databases and deriving basic structural metrics](https://geekcologist.wordpress.com/2020/10/08/downloading-food-web-databases-and-deriving-basic-structural-metrics/)
 
 + [{pmlbr} 0.2.0](https://cran.r-project.org/package=pmlbr): Interface to the Penn Machine Learning Benchmarks Data Repository
-
-### Jobs
-
-
 
 
 ###  Call for Participation
