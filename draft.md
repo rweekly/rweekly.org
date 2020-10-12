@@ -85,6 +85,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [SatRday Columbus - Free virtual conference on November 14](https://columbus2020.satrdays.org/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
