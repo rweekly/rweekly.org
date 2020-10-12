@@ -250,7 +250,7 @@ CRAN
 
 + [Expected Goals - Overachieving or just lucky?](https://dm13450.github.io/2020/09/11/ExpGoals.html)
 
-![expectedgoals](https://raw.githubusercontent.com/rweekly/image/master/2020-10-12/expected_goals.png)
+![expectedgoals](https://raw.githubusercontent.com/rweekly/image/master/2020-10-12/expected_goals_resized.png)
 
 + [Spatial Data Analysis Using Artificial Neural Networks Part 1](https://r-posts.com/spatial-data-analysis-using-artificial-neural-networks-part-1/)
 
