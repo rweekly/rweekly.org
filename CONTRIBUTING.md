@@ -24,6 +24,10 @@ In order to post more relevant content under each section, members/contributors 
 
 R tutorials for how to use certain packages and tools (usually code is embedded).
 
++ [Quantile Regression in R](https://geeksforgeeks.org/quantile-regression-in-r-programming/amp/)
+
++ [LOOCV (Leave One Out Cross-Validation) in R Programming](https://www.geeksforgeeks.org/loocvleave-one-out-cross-validation-in-r-programming/amp/)
+
 ## Insights
 
 Articles that talks about R and data science in general (usually no code embedded).
