@@ -52,7 +52,7 @@ Release Date: 2020-10-19
 
 ### Updated Packages
 
-
++ [{rrapply} 1.2.0](https://cran.r-project.org/package=rrapply): Revisiting Base rapply()
 
 ###  Videos and Podcasts
 
@@ -72,7 +72,7 @@ Release Date: 2020-10-19
 
 ###  Tutorials
 
-
++ [Recursive apply for call and expression objects](https://jorischau.github.io/rrapply/articles/articles/3-calls-and-expressions.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
