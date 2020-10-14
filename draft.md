@@ -53,6 +53,9 @@ Release Date: 2020-10-19
 ### Updated Packages
 
 + [{rrapply} 1.2.0](https://cran.r-project.org/package=rrapply): Revisiting Base rapply()
++ [{udpipe} 0.8.4-1](https://cran.r-project.org/package=udpipe): Blogplost 'udpipe R package updated'(http://bnosac.be/index.php/blog/102-udpipe-r-package-updated)
+![example](https://pbs.twimg.com/media/EkO_FRTVkAga7UU?format=jpg&name=large)
+
 
 ###  Videos and Podcasts
 
