@@ -40,7 +40,9 @@ Release Date: 2020-10-19
 
 **CRAN**
 
++ [{giscoR} 0.1.0](https://cran.r-project.org/package=giscoR): Download Geospatial Data from GISCO - Eurostat on several resolutions and projections.
 
+![{giscoR} 0.1.0](https://raw.githubusercontent.com/dieghernan/giscoR/master/man/figures/README-example-1.png)
 
 **BioC**
 
