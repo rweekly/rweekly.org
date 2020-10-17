@@ -40,7 +40,9 @@ Release Date: 2020-10-19
 
 **CRAN**
 
++ [{giscoR} 0.1.0](https://cran.r-project.org/package=giscoR): Download Geospatial Data from GISCO - Eurostat on several resolutions and projections.
 
+![{giscoR} 0.1.0](https://raw.githubusercontent.com/dieghernan/giscoR/master/man/figures/README-example-1.png)
 
 **BioC**
 
@@ -50,11 +52,15 @@ Release Date: 2020-10-19
 
 + [{flipdownr} 0.1.0](https://github.com/feddelegrand7/flipdownr): Create a Countdown object within your RMarkdown documents and Shiny application.
 
++ [{terrainr}: Retrieve Data from the 'USGS' National Map and Transform it for '3D' Landscape Visualizations](https://mikemahoney218.github.io/terrainr/)
 
 
 ### Updated Packages
 
 + [{rrapply} 1.2.0](https://cran.r-project.org/package=rrapply): Revisiting Base rapply()
++ [{udpipe} 0.8.4-1](https://cran.r-project.org/package=udpipe): Blogplost 'udpipe R package updated'(http://bnosac.be/index.php/blog/102-udpipe-r-package-updated)
+![example](https://pbs.twimg.com/media/EkO_FRTVkAga7UU?format=jpg&name=large)
+
 
 ###  Videos and Podcasts
 
@@ -75,6 +81,7 @@ Release Date: 2020-10-19
 ###  Tutorials
 
 + [Recursive apply for call and expression objects](https://jorischau.github.io/rrapply/articles/articles/3-calls-and-expressions.html)
++ [R Markdown: Automatically render output on saving file](https://blog.achintyarao.in/post/r-markdown-automatically-render-output/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
