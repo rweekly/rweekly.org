@@ -32,7 +32,7 @@ Release Date: 2020-10-19
 
 ###  Resources
 
-
+[Introducing the flipdownr package. Create a CountDown in Rmarkdown Documents and Shiny Apps](https://ihaddadenfodil.com/post/introducing-the-flipdownr-package-create-a-countdown-in-rmarkdown-documents-and-shiny-apps/)
 
 ###  New Packages
 
@@ -49,6 +49,9 @@ Release Date: 2020-10-19
 
 
 **GitHub or Bitbucket**
+
++ [{flipdownr} 0.1.0](https://github.com/feddelegrand7/flipdownr): Create a Countdown object within your RMarkdown documents and Shiny application.
+
 + [{terrainr}: Retrieve Data from the 'USGS' National Map and Transform it for '3D' Landscape Visualizations](https://mikemahoney218.github.io/terrainr/)
 
 
