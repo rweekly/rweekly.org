@@ -76,6 +76,7 @@ Release Date: 2020-10-19
 ###  Tutorials
 
 + [Recursive apply for call and expression objects](https://jorischau.github.io/rrapply/articles/articles/3-calls-and-expressions.html)
++ [R Markdown: Automatically render output on saving file](https://blog.achintyarao.in/post/r-markdown-automatically-render-output/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
