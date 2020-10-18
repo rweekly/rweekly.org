@@ -16,7 +16,15 @@ Release Date: 2020-10-19
 
 ### Insights
 
++ [R 4.0.3 now available](https://blog.revolutionanalytics.com/2020/10/r-403-now-available.html)
 
++ [Submitting R package to CRAN](https://thierrymoudiki.github.io/blog/2020/10/16/r/esgtoolkit-new-cran)
+
++ [RStudio v1.4 Preview: Command Palette](https://blog.rstudio.com/2020/10/14/rstudio-v1-4-preview-command-palette/)
+
++ [2 Months in 2 Minutes - rOpenSci News, October 2020](https://ropensci.org/blog/2020/10/15/news-oct2020/)
+
++ [My year in R](https://amitlevinson.com/post/my-year-in-r/)
 
 ### R in the Real World
 
@@ -24,11 +32,17 @@ Release Date: 2020-10-19
 
 + [Decomposition and Smoothing with data.table, reticulate, and spatstat](https://tonyelhabr.rbind.io/post/decomposition-smoothing-soccer/)
 
-![]()
-
 + [World Cup Birthday Problem](https://jamescurley.blog/posts/2020-10-13-world-cup-birthday-problem/)
 
++ [Scoring doesn’t Stop? Looking at the trend of high scoring games in the EPL](https://jamescurley.blog/posts/2020-10-17-scoring-doesnt-stop/)
+
 + [Climate animation of maximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/)
+
+![]()
+
++ [Covidpreprints.com: Automating Website Updates with the europepmc and rAltmetric Packages](https://ropensci.org/blog/2020/10/13/covidpreprints/)
+
++ [How to: Download and Animate Polar Ice Data in R with Rayrender](https://www.tylermw.com/polar-ice-data-in-r-with-rayrender/)
 
 ![]()
 
@@ -46,11 +60,23 @@ Release Date: 2020-10-19
 
 ![{giscoR} 0.1.0](https://raw.githubusercontent.com/dieghernan/giscoR/master/man/figures/README-example-1.png)
 
++ [{qqr} 0.0.1](https://cran.r-project.org/package=qqr): Data from Brazilian Soccer Championship.
+
++ [{survivalmodels} 0.1.0](https://cran.r-project.org/package=survivalmodels): Models for Survival Analysis.
+
++ [{shinypanel} 0.1.2](https://cran.r-project.org/package=shinypanel): Shiny Control Panel.
+
++ [{anscombiser} 1.0.0](https://cran.r-project.org/package=anscombiser): Create Datasets with Identical Summary Statistics.
+
++ [{gsisdecoder} 0.0.1](https://cran.r-project.org/package=gsisdecoder): High Efficient Functions to Decode NFL Player IDs.
+
++ [{cdcfluview} 0.9.2](https://rud.is/b/2020/10/13/short-sweet-cdcfluview-0-9-2-is-on-its-way-to-cran-mirrors/): R package to Retrieve U.S. Flu Season Data from the CDC FluView Portal (WHO & ILINet).
+
 **GitHub or Bitbucket**
 
 + [{flipdownr} 0.1.0](https://github.com/feddelegrand7/flipdownr): Create a Countdown object within your RMarkdown documents and Shiny application.
 
-+ [{terrainr}](https://mikemahoney218.github.io/terrainr/): Retrieve Data from the 'USGS' National Map and Transform it for '3D' Landscape Visualizations
++ [{terrainr}](https://mikemahoney218.github.io/terrainr/): Retrieve Data from the 'USGS' National Map and Transform it for '3D' Landscape Visualizations.
 
 + [{typed}](https://github.com/moodymudskipper/typed): Experiment on static typing in R.
 
@@ -62,7 +88,11 @@ Release Date: 2020-10-19
 
 + [{rockthemes}](https://github.com/johnmackintosh/rockthemes): This is a collection of colour palettes based on classic rock album covers.
 
-+ [Introducing the flipdownr package. Create a CountDown in Rmarkdown Documents and Shiny Apps](https://ihaddadenfodil.com/post/introducing-the-flipdownr-package-create-a-countdown-in-rmarkdown-documents-and-shiny-apps/)
++ [{flipdownr}](https://ihaddadenfodil.com/post/introducing-the-flipdownr-package-create-a-countdown-in-rmarkdown-documents-and-shiny-apps/): Create a CountDown in Rmarkdown Documents and Shiny Apps.
+
++ [{tidyCpp} 0.0.1](http://dirk.eddelbuettel.com/blog/2020/10/13#tidycpp_0.0.1): Tidy C++ wrapping of the C API for R. 
+
++ [{purler}](https://coolbutuseless.github.io/2020/10/14/introducing-purler-fast-run-length-encoding-with-data.frame-output/): fast run-length encoding with data.frame output.
 
 ### Updated Packages
 
@@ -77,7 +107,35 @@ Release Date: 2020-10-19
 
 + [{r2mlm}](https://github.com/mkshaw/r2mlm): R-Squared Measures for Multilevel Models.
 
-+ [{brms} 2.14.0](https://github.com/paul-buerkner/brms/): R package for Bayesian generalized multivariate non-linear multilevel models using Stan 
++ [{brms} 2.14.0](https://github.com/paul-buerkner/brms/): R package for Bayesian generalized multivariate non-linear multilevel models using Stan.
+
++ [{tidyBF} 0.4.0.9000](https://github.com/IndrajeetPatil/tidyBF): Tidy wrapper around `BayesFactor` R package.
+
++ [{politeness} 0.7.0](https://cran.r-project.org/package=politeness): Detecting Politeness Features in Text.
+
++ [{openSTARS} 1.2.2](https://cran.r-project.org/package=openSTARS): An Open Source Implementation of the 'ArcGIS' Toolbox 'STARS'.
+
++ [{rqdatatable} 1.2.9](https://cran.r-project.org/package=rqdatatable): 'rquery' for 'data.table'.
+
++ [{h2o} 3.32.0.1](https://cran.r-project.org/package=h2o): R Interface for the 'H2O' Scalable Machine Learning Platform.
+
++ [{magick} 2.5.0](https://cran.r-project.org/package=magick): Advanced Graphics and Image-Processing in R.
+
++ [{checkdown} 0.0.6](https://cran.r-project.org/package=checkdown): Check-Fields and Check-Boxes for 'rmarkdown'.
+
++ [{gganimate} 1.0.7](https://cran.r-project.org/package=gganimate): A Grammar of Animated Graphics.
+
++ [{censusapi} 0.7.1](https://cran.r-project.org/package=censusapi): Retrieve Data from the Census APIs.
+
++ [{e1071} 1.7-4](https://cran.r-project.org/package=e1071): Misc Functions of the Department of Statistics, Probability Theory Group (Formerly: E1071), TU Wien.
+
++ [{DT} 0.16](https://cran.r-project.org/package=DT): A Wrapper of the JavaScript Library 'DataTables'.
+
++ [{pagedown} 0.12](https://cran.r-project.org/package=pagedown): Paginate the HTML Output of R Markdown with CSS for Print.
+
++ [{NIMBLE} 0.10.0](https://r-nimble.org/version-0-10-0-of-nimble-released): The base NIMBLE package for R.
+
++ [{dang} 0.0.12](http://dirk.eddelbuettel.com/blog/2020/10/14#dang_0.0.12):  A collection of utility functions for R.
 
 ###  Videos and Podcasts
 
@@ -103,6 +161,28 @@ Release Date: 2020-10-19
 
 + [Feature Engineering with Sliding Windows and Lagged Inputs](https://www.bryanshalloway.com/2020/10/12/window-functions-for-resampling/)
 
++ [sparklyr.flint 0.2: ASOF Joins, OLS Regression, and additional summarizers](https://blogs.rstudio.com/tensorflow/posts/2020-10-12-sparklyr-flint-0.2.0-released)
+
++ [ANOVA in R](https://www.statsandr.com/blog/anova-in-r/)
+
++ [Finding the Dimensions of `secdatabase.com` from 2010-2020 - Part 2](https://www.redwallanalytics.com/2020/10/12/finding-the-dimensions-of-secdatabase-com-from-2010-2020-part-2/)
+
++ [Display Pretty R tables in GitHub](https://www.littlemissdata.com/blog/pretty-r-tables-in-github)
+
++ [simstudy just got a little more dynamic: version 0.2.1](https://www.rdatagen.net/post/simstudy-just-got-a-little-more-dynamic-version-0-2-0/)
+
++ [Finding the Shortest Path with Dijkstra’s Algorithm](https://blog.ephorie.de/finding-the-shortest-path-with-dijkstras-algorithm)
+
++ [Predicting class membership for the #TidyTuesday Datasaurus Dozen ](https://juliasilge.com/blog/datasaurus-multiclass/)
+
++ [Spatial Data Analysis Using Artificial Neural Networks, Part 2](https://r-posts.com/spatial-data-analysis-using-artificial-neural-networks-part-2/)
+
++ [Fermat’s Riddle](https://xianblog.wordpress.com/2020/10/16/fermats-riddler/)
+
++ [Little useless-useful R function](https://tomaztsql.wordpress.com/2020/10/17/little-useless-useful-r-function/)
+
++ [R: Add a Column to Dataframe Based on Other Columns with dplyr](https://www.marsja.se/r-add-column-to-dataframe-based-on-other-columns-conditions-dplyr/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -115,6 +195,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 Events in 3 Months:
 
 + [SatRday Columbus - Free virtual conference on November 14](https://columbus2020.satrdays.org/)
+
++ [rstudio::global (2021)](https://blog.rstudio.com/2020/10/16/rstudio-global-2021/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -136,5 +218,7 @@ Events in 3 Months:
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">late night <a href="https://twitter.com/hashtag/tidytuesday?src=hash&amp;ref_src=twsrc%5Etfw">#tidytuesday</a> submission..i just couldn&#39;t wrap my head around the fact that indeed, those points really &quot;end up&quot; with the same mean and standard deviation. so i plotted it to convince myself. :) <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/ggplot?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot</a> <a href="https://t.co/O2IoSPmCou">pic.twitter.com/O2IoSPmCou</a></p>&mdash; Frie (@ameisen_strasse) <a href="https://twitter.com/ameisen_strasse/status/1316133566972125186?ref_src=twsrc%5Etfw">October 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is cool <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>! str_replace() takes a `pattern` to find in text and a `replacement` that it puts in place of the found text. But give `replacement` a function and str_replace() applies the function to each match!<br><br>Ex: turn &quot;1/2&quot; into a decimal by evaluating -&gt; &quot;0.5&quot; <a href="https://t.co/ehkGunTmpH">pic.twitter.com/ehkGunTmpH</a></p>&mdash; Garrick Aden-Buie (@grrrck) <a href="https://twitter.com/grrrck/status/1317540828580106240?ref_src=twsrc%5Etfw">October 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
