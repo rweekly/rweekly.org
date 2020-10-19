@@ -7,8 +7,9 @@ image: https://rweekly.org/public/facebook.png
 
 Release Date: 2020-10-19
 
-+ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
+This week's release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the RWeekly team members and contributors.
 
++ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 ###  Highlight
 
@@ -44,13 +45,13 @@ Release Date: 2020-10-19
 
 + [Climate animation of maximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-10-19/climateeuro.png)
 
 + [Covidpreprints.com: Automating Website Updates with the europepmc and rAltmetric Packages](https://ropensci.org/blog/2020/10/13/covidpreprints/)
 
 + [How to: Download and Animate Polar Ice Data in R with Rayrender](https://www.tylermw.com/polar-ice-data-in-r-with-rayrender/)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-10-12/icepolarrayrender.png)
 
 ###  Resources
 
@@ -64,7 +65,7 @@ Release Date: 2020-10-19
 
 + [{giscoR} 0.1.0](https://cran.r-project.org/package=giscoR): Download Geospatial Data from GISCO - Eurostat on several resolutions and projections.
 
-![{giscoR} 0.1.0](https://raw.githubusercontent.com/dieghernan/giscoR/master/man/figures/README-example-1.png)
+![{giscoR} 0.1.0](https://raw.githubusercontent.com/rweekly/image/master/2020-10-12/giscor.png)
 
 + [{qqr} 0.0.1](https://cran.r-project.org/package=qqr): Data from Brazilian Soccer Championship.
 
@@ -90,7 +91,7 @@ Release Date: 2020-10-19
 
 + [{geomlime}](https://github.com/coolbutuseless/geomlime): Provides a bloody geom_lime() function for ggplot because of all the zarking times I frakking type geom_lime() instead of geom_line(). 
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2020-10-12/geomlime.png)
 
 + [{rockthemes}](https://github.com/johnmackintosh/rockthemes): This is a collection of colour palettes based on classic rock album covers.
 
@@ -107,7 +108,8 @@ Release Date: 2020-10-19
 + [{rrapply} 1.2.0](https://cran.r-project.org/package=rrapply): Revisiting Base rapply().
 
 + [{udpipe} 0.8.4-1](https://cran.r-project.org/package=udpipe): 
-![example](https://pbs.twimg.com/media/EkO_FRTVkAga7UU?format=jpg&name=large)
+
+![example](https://raw.githubusercontent.com/rweekly/image/master/2020-10-12/udpipe.png)
 
 + [{echarts4r} 0.3.3](https://github.com/JohnCoene/echarts4r): ECharts 4 for R.
 
@@ -195,7 +197,7 @@ Release Date: 2020-10-19
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
-### R Internationally
+### International R
 
 + [(Japanese) R MarkdownでHTML出力時に見出しのURLを簡単に取得できるようにした](https://blog.atusy.net/2020/10/18/rmd-anchor-sections/)
 
