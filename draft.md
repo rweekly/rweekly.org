@@ -12,7 +12,11 @@ Release Date: 2020-10-19
 
 ###  Highlight
 
++ [Climate animation of maximum temperatures](https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/)
 
++ [Decomposition and Smoothing with data.table, reticulate, and spatstat](https://tonyelhabr.rbind.io/post/decomposition-smoothing-soccer/)
+
++ [Raspberry Pi E-Paper Dashboard with R](https://blog.schochastics.net/post/raspberry-pi-e-paper-dashboard-with-r/)
 
 ### Insights
 
@@ -21,6 +25,8 @@ Release Date: 2020-10-19
 + [Submitting R package to CRAN](https://thierrymoudiki.github.io/blog/2020/10/16/r/esgtoolkit-new-cran)
 
 + [RStudio v1.4 Preview: Command Palette](https://blog.rstudio.com/2020/10/14/rstudio-v1-4-preview-command-palette/)
+
++ [rstudio::global (2021)](https://blog.rstudio.com/2020/10/16/rstudio-global-2021/)
 
 + [2 Months in 2 Minutes - rOpenSci News, October 2020](https://ropensci.org/blog/2020/10/15/news-oct2020/)
 
@@ -93,6 +99,8 @@ Release Date: 2020-10-19
 + [{tidyCpp} 0.0.1](http://dirk.eddelbuettel.com/blog/2020/10/13#tidycpp_0.0.1): Tidy C++ wrapping of the C API for R. 
 
 + [{purler}](https://coolbutuseless.github.io/2020/10/14/introducing-purler-fast-run-length-encoding-with-data.frame-output/): fast run-length encoding with data.frame output.
+
++ [{Manu}](https://github.com/G-Thomson/Manu/): This function returns colour palettes derived from birds native to New Zealand.
 
 ### Updated Packages
 
@@ -185,6 +193,10 @@ Release Date: 2020-10-19
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
+### R Internationally
+
++ [(Japanese) R MarkdownでHTML出力時に見出しのURLを簡単に取得できるようにした](https://blog.atusy.net/2020/10/18/rmd-anchor-sections/)
+
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
@@ -216,6 +228,8 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m gonna start a thread on what I hope will be helpful R tips to wrangle this huge NFL Big Data Bowl data. If you&#39;re an advanced R programmer, this is probably not for you but feel free to correct me if I made a mistake or offer better alternatives</p>&mdash; Asmae Toumi (@asmae_toumi) <a href="https://twitter.com/asmae_toumi/status/1317510643369598981?ref_src=twsrc%5Etfw">October 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">late night <a href="https://twitter.com/hashtag/tidytuesday?src=hash&amp;ref_src=twsrc%5Etfw">#tidytuesday</a> submission..i just couldn&#39;t wrap my head around the fact that indeed, those points really &quot;end up&quot; with the same mean and standard deviation. so i plotted it to convince myself. :) <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/ggplot?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot</a> <a href="https://t.co/O2IoSPmCou">pic.twitter.com/O2IoSPmCou</a></p>&mdash; Frie (@ameisen_strasse) <a href="https://twitter.com/ameisen_strasse/status/1316133566972125186?ref_src=twsrc%5Etfw">October 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
