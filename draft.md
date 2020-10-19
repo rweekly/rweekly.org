@@ -151,6 +151,8 @@ Release Date: 2020-10-19
 
 + [Predict class membership for the Datasaurus Dozen with tidymodels](https://www.youtube.com/watch?v=QhAPA_X-ilA)
 
++ [TidyX Episode 32](https://www.youtube.com/watch?v=c7dZqyhd4a4)
+
 ### Shiny Apps
 
 + [Player ProfileR: Create your own beeswarm plots for any stat you want for players in Europe’s top 5 football leagues](https://eoinobrien.shinyapps.io/playerprofiler/)
@@ -205,6 +207,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [Nairobi R: Data Visualization in R online workshop. Oct. 31](https://www.eventbrite.co.uk/e/data-visualization-in-r-tickets-125336233047)
 
 + [SatRday Columbus - Free virtual conference on November 14](https://columbus2020.satrdays.org/)
 
