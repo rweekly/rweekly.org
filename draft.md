@@ -82,6 +82,8 @@ Release Date: 2020-00-00
 
 + [ConTESSA: A Shiny App to Help Quantify Contact Tracing Efficacy](https://iddynamicsjhu.shinyapps.io/contessa/)
 
++ [dinnR: Help you plan a week of grocery for your vegan dinners](https://koderkow.shinyapps.io/dinnR/)
+
 ### R Internationally
 
 
