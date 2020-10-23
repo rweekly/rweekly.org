@@ -86,6 +86,7 @@ Release Date: 2020-00-00
 
 ### R Internationally
 
++ [Procédures d’installation : R > 4.0.0 et RStudio](https://thinkr.fr/procedures-installation-r-rstudio/)
 
 
 ###  Tutorials
