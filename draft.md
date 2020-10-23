@@ -18,6 +18,18 @@ Release Date: 2020-00-00
 
 + [rOpenSci Dev Guide 0.5.0: Updates](https://ropensci.org/blog/2020/10/22/devguide-0.5.0/)
 
++ [“You Are Here”: Understanding How GPS Works](https://blog.ephorie.de/you-are-here-understanding-how-gps-works)
+
++ [Little useless-useful R function – DataFrame Maker](https://tomaztsql.wordpress.com/2020/10/20/little-useless-useful-r-function-dataframe-maker/)
+
++ [Why you should use vapply in R](https://theautomatic.net/2020/10/20/why-you-should-use-vapply-in-r/?utm_source=rss&utm_medium=rss&utm_campaign=why-you-should-use-vapply-in-r)
+
++ [Attributes in R](https://statisticaloddsandends.wordpress.com/2020/10/19/attributes-in-r/)
+
++ [How many is too many? A look at goals in the Premier League](https://austinwehrwein.com/data-visualization/goalsforeveryone/)
+
++ [Adding RStudio Addins to VSCode](https://www.milesmcbain.com/posts/adding-addins-to-vscode/)
+
 ### R in the Real World
 
 + [Reproduce economic indicators from ‘The Economist’](https://macro.cepremap.fr/article/2020-10/economic-indicators/)
@@ -38,6 +50,8 @@ Release Date: 2020-00-00
 
 + [R Programming for Beginners / The Ultimate Guide to GGPLOT2: Scatter Plots](https://www.youtube.com/watch?v=rlAwRBXq0J4)
 
++ [The Good, the Bad and the Ugly: how (not) to visualize data](https://shirinsplayground.netlify.com/2020/10/goodbadugly/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -52,7 +66,7 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-
++ [rockthemes](http://johnmackintosh.com/2020-10-18-rockthemes/)
 
 ### Updated Packages
 
@@ -64,6 +78,14 @@ Release Date: 2020-00-00
 
 + [{recipes} 0.1.14](https://www.tidyverse.org/blog/2020/10/recipes-0-1-14/): 
 
++ [RcppZiggurat 0.1.6](http://dirk.eddelbuettel.com/blog/2020/10/21#rcppziggurat_0.1.6)
+
++ [RStudio 1.4 Preview: Multiple Source Columns](https://blog.rstudio.com/2020/10/21/rstudio-1-4-preview-multiple-source-columns/)
+
++ [RcppArmadillo 0.10.1.0.0](http://dirk.eddelbuettel.com/blog/2020/10/20#rcpparmadillo_0.10.1.0.0)
+
++ [digest 0.6.26: Blake3 and Tuning](http://dirk.eddelbuettel.com/blog/2020/10/17#digest_0.6.26)
+
 ###  Videos and Podcasts
 
 + [TidyX Episode 32](https://www.youtube.com/watch?v=c7dZqyhd4a4)
@@ -72,11 +94,15 @@ Release Date: 2020-00-00
 
 + [ConTESSA: A Shiny App to Help Quantify Contact Tracing Efficacy (Presentation)](https://www.youtube.com/watch?v=b1EiyWtgiu0)
 
++ [Video + code from workshop on Deep Learning with Keras and TensorFlow](https://shirinsplayground.netlify.com/2020/10/keras_workshop_user20/)
+
 ### Gist & Cookbook
 
 
 
 ### Shiny Apps
+
++ [Turn a shiny application into a tablet or desktop app](https://www.mango-solutions.com/turn-shiny-application-into-a-tablet-or-desktop-app/)
 
 + [{cranstars}: A shiny app that shows CRAN downloads & github stars statistics, made with the {golem} framework ](https://shahreyar-abeer.shinyapps.io/cranstars/)
 
@@ -91,11 +117,18 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
-+ [Before I Sleep: Adding RStudio Addins to VSCode](https://www.milesmcbain.com/posts/adding-addins-to-vscode/)
 
 + [Personal Art Map with R](http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r/)
 
 + [Playing with {ggplot2} extensions](https://lopierra.rbind.io/post/patchwork_ggtext/)
+
++ [parking riddle](https://xianblog.wordpress.com/2020/10/23/parking-riddle/)
+
++ [Searching medRxiv and bioRxiv Preprint Data](https://ropensci.org/blog/2020/10/20/searching-medrxivr-and-biorxiv-preprint-data/)
+
++ [Reproduce economic indicators from ‘The Economist’](/article/2020-10/economic-indicators/)
+
++ [Classifying images with torch](https://blogs.rstudio.com/tensorflow/posts/2020-10-19-torch-image-classification)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -128,6 +161,7 @@ Events in 3 Months:
 
 ###  Call for Participation
 
++ [NHS-R Book Club](https://nhsrcommunity.com/blog/nhs-r-book-club/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
