@@ -16,11 +16,15 @@ Release Date: 2020-00-00
 
 ### Insights
 
-
++ [rOpenSci Dev Guide 0.5.0: Updates](https://ropensci.org/blog/2020/10/22/devguide-0.5.0/)
 
 ### R in the Real World
 
++ [Reproduce economic indicators from ‘The Economist’](https://macro.cepremap.fr/article/2020-10/economic-indicators/)
 
++ [Flood mapping and rapid impact assessment in Niamey](https://www.ahmadoudicko.com/posts/2020/09/flood-mapping-and-rapid-impact-assessment-in-niamey/)
+
++ [First Look at SkillCorner's Open Source Tracking Dataset](https://www.thesignificantgame.com/portfolio/first-look-at-skillcorner-s-free-tracking-dataset/)
 
 ###  R in Organizations
 
@@ -32,7 +36,7 @@ Release Date: 2020-00-00
 
 ###  Resources
 
-
++ [R Programming for Beginners / The Ultimate Guide to GGPLOT2: Scatter Plots](https://www.youtube.com/watch?v=rlAwRBXq0J4)
 
 ###  New Packages
 
@@ -52,11 +56,21 @@ Release Date: 2020-00-00
 
 ### Updated Packages
 
++ [{simstudy}](https://github.com/kgoldfeld/simstudy): Illuminating research methods through data generation
 
++ [{data.table} 1.13.2](https://cran.r-project.org/package=data.table)
+
++ [{furrr} 0.2.0](https://www.tidyverse.org/blog/2020/10/furrr-0-2-0/)
+
++ [{recipes} 0.1.14](https://www.tidyverse.org/blog/2020/10/recipes-0-1-14/): 
 
 ###  Videos and Podcasts
 
++ [TidyX Episode 32](https://www.youtube.com/watch?v=c7dZqyhd4a4)
 
++ [How to Scrape Word Documents with R](https://www.youtube.com/watch?v=JXHVJCg10_c)
+
++ [ConTESSA: A Shiny App to Help Quantify Contact Tracing Efficacy (Presentation)](https://www.youtube.com/watch?v=b1EiyWtgiu0)
 
 ### Gist & Cookbook
 
@@ -64,7 +78,9 @@ Release Date: 2020-00-00
 
 ### Shiny Apps
 
++ [{cranstars}: A shiny app that shows CRAN downloads & github stars statistics, made with the {golem} framework ](https://shahreyar-abeer.shinyapps.io/cranstars/)
 
++ [ConTESSA: A Shiny App to Help Quantify Contact Tracing Efficacy](https://iddynamicsjhu.shinyapps.io/contessa/)
 
 ### R Internationally
 
@@ -72,7 +88,11 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Before I Sleep: Adding RStudio Addins to VSCode](https://www.milesmcbain.com/posts/adding-addins-to-vscode/)
 
++ [Personal Art Map with R](http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r/)
+
++ [Playing with {ggplot2} extensions](https://lopierra.rbind.io/post/patchwork_ggtext/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
