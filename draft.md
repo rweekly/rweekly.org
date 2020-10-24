@@ -16,6 +16,11 @@ Release Date: 2020-00-00
 
 ### Insights
 
+
++ [Reproducible Work in R: Using MRAN and Docker](https://rsangole.netlify.app/post/2020/10/10/reproducible-work-in-r/)
+
++ [The Evolution of Distributed Programming in R](https://www.mango-solutions.com/the-evolution-of-distributed-programming-in-r/)
+
 + [rOpenSci Dev Guide 0.5.0: Updates](https://ropensci.org/blog/2020/10/22/devguide-0.5.0/)
 
 + [“You Are Here”: Understanding How GPS Works](https://blog.ephorie.de/you-are-here-understanding-how-gps-works)
@@ -29,6 +34,16 @@ Release Date: 2020-00-00
 + [How many is too many? A look at goals in the Premier League](https://austinwehrwein.com/data-visualization/goalsforeveryone/)
 
 + [Adding RStudio Addins to VSCode](https://www.milesmcbain.com/posts/adding-addins-to-vscode/)
+
++ [Rolling Averages with {slider} and Covid Data](https://www.njtierney.com/post/2020/10/20/roll-avg-covid/)
+
++ [Sept 2020: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2020/10/23/sept-2020-top-40-new-cran-packages/)
+
++ [The Case for a Data Science Lab](https://www.mango-solutions.com/the-case-for-a-data-science-lab/)
+
++ [Approaches to Time Series Data with Weak Seasonality](https://datageeek.wordpress.com/2020/10/23/approaches-to-time-series-data-with-weak-seasonality/)
+
++ [Correlation and correlation structure (4) – asymmetric correlations of equity portfolios](https://eranraviv.com/correlation-correlation-structure-4-asymmetric-correlations-equity-portfolios/)
 
 ### R in the Real World
 
@@ -51,6 +66,8 @@ Release Date: 2020-00-00
 + [R Programming for Beginners / The Ultimate Guide to GGPLOT2: Scatter Plots](https://www.youtube.com/watch?v=rlAwRBXq0J4)
 
 + [The Good, the Bad and the Ugly: how (not) to visualize data](https://shirinsplayground.netlify.com/2020/10/goodbadugly/)
+
++ [Statology: R-Guides](https://www.statology.org/)
 
 ###  New Packages
 
@@ -85,6 +102,8 @@ Release Date: 2020-00-00
 + [RcppArmadillo 0.10.1.0.0](http://dirk.eddelbuettel.com/blog/2020/10/20#rcpparmadillo_0.10.1.0.0)
 
 + [digest 0.6.26: Blake3 and Tuning](http://dirk.eddelbuettel.com/blog/2020/10/17#digest_0.6.26)
+
++ [RcppSpdlog 0.0.3: New features and much more docs](http://dirk.eddelbuettel.com/blog/2020/10/23#rcppspdlog_0.0.3)
 
 ###  Videos and Podcasts
 
