@@ -47,7 +47,6 @@ Release Date: 2020-00-00
 
 + [Text mining the 2020 Fed Beige Book](http://lenkiefer.com/2020/10/22/text-mining-the-2020-fed-beige-book/)
 
-+ [Personal Art Map with R](http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r/)
 
 ### R in the Real World
 
@@ -56,14 +55,6 @@ Release Date: 2020-00-00
 + [Flood mapping and rapid impact assessment in Niamey](https://www.ahmadoudicko.com/posts/2020/09/flood-mapping-and-rapid-impact-assessment-in-niamey/)
 
 + [First Look at SkillCorner's Open Source Tracking Dataset](https://www.thesignificantgame.com/portfolio/first-look-at-skillcorner-s-free-tracking-dataset/)
-
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
 
 ###  Resources
 
@@ -230,7 +221,6 @@ Release Date: 2020-00-00
 + [RcppSpdlog 0.0.3: New features and much more docs](http://dirk.eddelbuettel.com/blog/2020/10/23#rcppspdlog_0.0.3)
 
 
-
 ###  Videos and Podcasts
 
 + [TidyX Episode 32](https://www.youtube.com/watch?v=c7dZqyhd4a4)
@@ -240,9 +230,6 @@ Release Date: 2020-00-00
 + [ConTESSA: A Shiny App to Help Quantify Contact Tracing Efficacy (Presentation)](https://www.youtube.com/watch?v=b1EiyWtgiu0)
 
 + [Video + code from workshop on Deep Learning with Keras and TensorFlow](https://shirinsplayground.netlify.com/2020/10/keras_workshop_user20/)
-
-### Gist & Cookbook
-
 
 
 ### Shiny Apps
@@ -295,9 +282,6 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-
-### Jobs
 
 
 ###  Call for Participation
