@@ -75,7 +75,125 @@ Release Date: 2020-00-00
 
 **CRAN**
 
++ [{visualpred} 0.1.0](https://cran.r-project.org/package=visualpred): Visualization 2D of Binary Classification Models
 
++ [{Snake} 1.0](https://cran.r-project.org/package=Snake): Game of Snake
+
++ [{MGDrivE2} 1.0.1](https://cran.r-project.org/package=MGDrivE2): Mosquito Gene Drive Explorer 2
+
++ [{hetu} 1.0.1](https://cran.r-project.org/package=hetu): Structural Handling of Finnish Personal Identity Numbers
+
++ [{flipdownr} 0.1.0](https://cran.r-project.org/package=flipdownr): Implement a Countdown in 'RMarkdown' Documents and 'shiny' Applications
++ [{APML} 0.0.1](https://cran.r-project.org/package=APML): An Approach for Machine-Learning Modelling
+
++ [{healthfinance} 0.1.0](https://cran.r-project.org/package=healthfinance): Financial Projections and Planning for Health Care Practices
+
++ [{drought} 1.0](https://cran.r-project.org/package=drought): Statistical Modeling and Assessment of Drought
+
++ [{assert} 1.0.0](https://cran.r-project.org/package=assert): Validate Function Arguments
+
++ [{anovir} 0.1.0](https://cran.r-project.org/package=anovir): Analysis of Virulence
+
++ [{acled.api} 1.0.7](https://cran.r-project.org/package=acled.api): Automated Retrieval of ACLED Conflict Event Data
+
++ [{MPGE} 1.0.0](https://cran.r-project.org/package=MPGE): A Two-Step Approach to Testing Overall Effect of Gene-Environment Interaction for Multiple Phenotypes
++ [{EnvExpInd} 0.1.0](https://cran.r-project.org/package=EnvExpInd): Environmental Exposure on the Individual Level
+
++ [{scoringTools} 0.1.0](https://cran.r-project.org/package=scoringTools): Credit Scoring Tools
+
++ [{deepredeff} 0.1.0](https://cran.r-project.org/package=deepredeff): Deep Learning Prediction of Effectors
+
++ [{labstatR} 1.0.11](https://cran.r-project.org/package=labstatR): Libreria Del Laboratorio Di Statistica Con R
+
++ [{eefAnalytics} 1.0.8](https://cran.r-project.org/package=eefAnalytics): Robust Analytical Methods for Evaluating Educational Interventions using Randomised Controlled Trials Designs
+
++ [{abn} 2.3-0](https://cran.r-project.org/package=abn): Modelling Multivariate Data with Additive Bayesian Networks
+
++ [{not} 1.2](https://cran.r-project.org/package=not): Narrowest-Over-Threshold Change-Point Detection
+
++ [{klsh} 0.1.0](https://cran.r-project.org/package=klsh): Blocking for Record Linkage
+
++ [{comsimitv} 0.1.4](https://cran.r-project.org/package=comsimitv): Flexible Framework for Simulating Community Assembly
+
++ [{BlackCarbon} 0.1.0](https://cran.r-project.org/package=BlackCarbon): Processing Raw Black Carbon Concentration
+
++ [{aceEditor} 0.1.0](https://cran.r-project.org/package=aceEditor): The 'Ace' Editor as a HTML Widget
+
++ [{wsjplot} 0.1.0](https://cran.r-project.org/package=wsjplot): Style Time Series Plots Like the Wall Street Journal
+
++ [{thorn} 0.1.0](https://cran.r-project.org/package=thorn): 'HTMLwidgets' Displaying Some 'WebGL' Shaders
+
++ [{smd} 0.6.6](https://cran.r-project.org/package=smd): Compute Standardized Mean Differences
+
++ [{mbmixture} 0.2-5](https://cran.r-project.org/package=mbmixture): Microbiome Mixture Analysis
+
++ [{inti} 0.1.0](https://cran.r-project.org/package=inti): Tools and Statistical Procedures in Plant Science
+
++ [{gaussplotR} 0.1.4](https://cran.r-project.org/package=gaussplotR): Predict and Plot 2D Gaussians
+
++ [{findInFiles} 0.1.1](https://cran.r-project.org/package=findInFiles): Find Pattern in Files
+
++ [{bggAnalytics} 0.1.1](https://cran.r-project.org/package=bggAnalytics): BoardGameGeek's Board Game Data Analysis Tools
+
++ [{restaurant} 0.1.0](https://cran.r-project.org/package=restaurant): Restaurant Data for Entity Resolution
+
++ [{PAMmisc} 1.6.3](https://cran.r-project.org/package=PAMmisc): Miscellaneous Functions for Passive Acoustic Analysis
+
++ [{cd} 0.1.0](https://cran.r-project.org/package=cd): CD Data for Entity Resolution
+
++ [{biogrowth} 0.1.0](https://cran.r-project.org/package=biogrowth): Modelling of Microbial Growth
+
++ [{asymptor} 0.2](https://cran.r-project.org/package=asymptor): Estimate Asymptomatic Cases via Capture/Recapture Methods
+
++ [{ripserr} 0.1.1](https://cran.r-project.org/package=ripserr): Calculate Persistent Homology with Ripser-Based Engines
+
++ [{animint2} 2020.9.18](https://cran.r-project.org/package=animint2): Animated Interactive Grammar of Graphics
+
++ [{r5r} 0.2-0](https://cran.r-project.org/package=r5r): Rapid Realistic Routing with 'R5'
+
++ [{singcar} 0.1.0](https://cran.r-project.org/package=singcar): Comparing Single Cases to Small Samples
+
++ [{parallelly} 1.20.0](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
+
++ [{packer} 0.0.6](https://cran.r-project.org/package=packer): An Opinionated Framework for Using 'JavaScript'
+
++ [{SimSurvNMarker} 0.1.1](https://cran.r-project.org/package=SimSurvNMarker): Simulate Survival Time and Markers
+
++ [{PortalHacienda} 0.1.5](https://cran.r-project.org/package=PortalHacienda): Acceder Con R a Los Datos Del Portal De Hacienda
+
++ [{MixSIAR} 3.1.12](https://cran.r-project.org/package=MixSIAR): Bayesian Mixing Models in R
+
++ [{eicm} 1.0.1](https://cran.r-project.org/package=eicm): Explicit Interaction Community Models
+
++ [{YPmodel} 1.4](https://cran.r-project.org/package=YPmodel): The Short-Term and Long-Term Hazard Ratio Model for Survival Data
+
++ [{tablaxlsx} 1.2.4](https://cran.r-project.org/package=tablaxlsx): Write Formatted Tables in Excel Workbooks
+
++ [{semantic.dashboard} 0.1.8](https://cran.r-project.org/package=semantic.dashboard): Dashboard with Fomantic UI Support for Shiny
+
++ [{nlnet} 1.4](https://cran.r-project.org/package=nlnet): Nonlinear Network, Clustering, and Variable Selection Based on DCOL
+
++ [{icesTAF} 3.6.0](https://cran.r-project.org/package=icesTAF): Functions to Support the ICES Transparent Assessment Framework
+
++ [{i2dash} 0.2.2](https://cran.r-project.org/package=i2dash): Iterative and Interactive Dashboards
+
++ [{tidycwl} 1.0.5](https://cran.r-project.org/package=tidycwl): Tidy Common Workflow Language Tools and Workflows
+
++ [{superpc} 1.12](https://cran.r-project.org/package=superpc): Supervised Principal Components
+
++ [{PressPurt} 1.0.2](https://cran.r-project.org/package=PressPurt): Indeterminacy of Networks via Press Perturbations
+
++ [{growthcurver} 0.3.1](https://cran.r-project.org/package=growthcurver): Simple Metrics to Summarize Growth Curves
+
++ [{trending} 0.0.1.0](https://cran.r-project.org/package=trending): Model Temporal Trends
+
++ [{LimnoPalettes} 0.1.0](https://cran.r-project.org/package=LimnoPalettes): A Limnology Themed Palette Generator
+
++ [{BET} 0.1.0](https://cran.r-project.org/package=BET): Binary Expansion Testing
+
++ [{keys} 0.1.0](https://cran.r-project.org/package=keys): Keyboard Shortcuts for 'shiny'
+
++ [{rock} 0.1.1](https://cran.r-project.org/package=rock): Reproducible Open Coding Kit
 
 **BioC**
 
@@ -104,6 +222,8 @@ Release Date: 2020-00-00
 + [digest 0.6.26: Blake3 and Tuning](http://dirk.eddelbuettel.com/blog/2020/10/17#digest_0.6.26)
 
 + [RcppSpdlog 0.0.3: New features and much more docs](http://dirk.eddelbuettel.com/blog/2020/10/23#rcppspdlog_0.0.3)
+
+
 
 ###  Videos and Podcasts
 
