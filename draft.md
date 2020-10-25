@@ -258,9 +258,9 @@ Release Date: 2020-00-00
 
 + [Searching medRxiv and bioRxiv Preprint Data](https://ropensci.org/blog/2020/10/20/searching-medrxivr-and-biorxiv-preprint-data/)
 
-+ [Reproduce economic indicators from ‘The Economist’](/article/2020-10/economic-indicators/)
-
 + [Classifying images with torch](https://blogs.rstudio.com/tensorflow/posts/2020-10-19-torch-image-classification)
+
++ [Little useless-useful R function – R-jobs title generator](https://tomaztsql.wordpress.com/2020/10/24/little-useless-useful-r-function-r-jobs-title-generator/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
