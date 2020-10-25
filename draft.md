@@ -45,6 +45,10 @@ Release Date: 2020-00-00
 
 + [Correlation and correlation structure (4) – asymmetric correlations of equity portfolios](https://eranraviv.com/correlation-correlation-structure-4-asymmetric-correlations-equity-portfolios/)
 
++ [Text mining the 2020 Fed Beige Book](http://lenkiefer.com/2020/10/22/text-mining-the-2020-fed-beige-book/)
+
++ [Personal Art Map with R](http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r/)
+
 ### R in the Real World
 
 + [Reproduce economic indicators from ‘The Economist’](https://macro.cepremap.fr/article/2020-10/economic-indicators/)
@@ -68,6 +72,8 @@ Release Date: 2020-00-00
 + [The Good, the Bad and the Ugly: how (not) to visualize data](https://shirinsplayground.netlify.com/2020/10/goodbadugly/)
 
 + [Statology: R-Guides](https://www.statology.org/)
+
++ [Mixed Models With R: Bayesian Approaches](https://m-clark.github.io/mixed-models-with-R/bayesian.html)
 
 ###  New Packages
 
@@ -291,11 +297,7 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 
-### Datasets
-
 ### Jobs
-
-
 
 
 ###  Call for Participation
@@ -305,3 +307,9 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/Jaguar?src=hash&amp;ref_src=twsrc%5Etfw">#Jaguar</a> has lost at least 20% of its home range in <a href="https://twitter.com/hashtag/Pantanal?src=hash&amp;ref_src=twsrc%5Etfw">#Pantanal</a> biome, which has been burned more and more. The animation below was made using <a href="https://twitter.com/hashtag/moveVis?src=hash&amp;ref_src=twsrc%5Etfw">#moveVis</a> and shows some Jaguars moving in an area which was burned a lot this year. That&#39;s sad! <a href="https://t.co/0QT9D8AHN9">pic.twitter.com/0QT9D8AHN9</a></p>&mdash; We are R-Ladies (@WeAreRLadies) <a href="https://twitter.com/WeAreRLadies/status/1319416328382500864?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My girlfriend baked an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> cake for my birthday and it&#39;s like the best 👌😍👍 <a href="https://t.co/skSfwsQYTm">pic.twitter.com/skSfwsQYTm</a></p>&mdash; Fabio Votta📊🦉 (@favstats) <a href="https://twitter.com/favstats/status/1319767401332953089?ref_src=twsrc%5Etfw">October 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today&#39;s <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> FYI: function overwrite only happens the first time you load a package<br><br>select(sleep, ID) # select not found<br><br>library(dplyr)<br>select(sleep, ID) # OK now<br><br>library(MASS)<br>select(sleep, ID) # error<br><br>library(dplyr)<br>select(sleep, ID) # still error</p>&mdash; Lisa DeBruine 🏳️‍🌈 (@LisaDeBruine) <a href="https://twitter.com/LisaDeBruine/status/1318499224804331521?ref_src=twsrc%5Etfw">October 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
