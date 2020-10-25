@@ -53,6 +53,8 @@ Release Date: 2020-00-00
 
 + [Flood mapping and rapid impact assessment in Niamey](https://www.ahmadoudicko.com/posts/2020/09/flood-mapping-and-rapid-impact-assessment-in-niamey/)
 
+![A map of desert terrain showing a blue area corresponding to flooding](https://cdn.jsdelivr.net/gh/rweekly/image/2020-10-26/read_flood-1.png)
+
 + [First Look at SkillCorner's Open Source Tracking Dataset](https://www.thesignificantgame.com/portfolio/first-look-at-skillcorner-s-free-tracking-dataset/)
 
 ###  Resources
@@ -60,6 +62,9 @@ Release Date: 2020-00-00
 + [R Programming for Beginners / The Ultimate Guide to GGPLOT2: Scatter Plots](https://www.youtube.com/watch?v=rlAwRBXq0J4)
 
 + [The Good, the Bad and the Ugly: how (not) to visualize data](https://shirinsplayground.netlify.com/2020/10/goodbadugly/)
+
+![A radar chart of comparing male and female features of penguins](https://cdn.jsdelivr.net/gh/rweekly/image/2020-10-26/penguins-shirrin.png)
+
 
 + [Statology: R-Guides](https://www.statology.org/)
 
@@ -251,6 +256,8 @@ Release Date: 2020-00-00
 
 + [Personal Art Map with R](http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r/)
 
+![A thematic map with black terrain, yellow water, and red traces](https://cdn.jsdelivr.net/gh/rweekly/image/2020-10-26/personal_art_map.png)
+
 + [parking riddle](https://xianblog.wordpress.com/2020/10/23/parking-riddle/)
 
 + [Searching medRxiv and bioRxiv Preprint Data](https://ropensci.org/blog/2020/10/20/searching-medrxivr-and-biorxiv-preprint-data/)
@@ -262,6 +269,8 @@ Release Date: 2020-00-00
 + [Little useless-useful R function – DataFrame Maker](https://tomaztsql.wordpress.com/2020/10/20/little-useless-useful-r-function-dataframe-maker/)
 
 + [Playing with {ggplot2} extensions](https://lopierra.rbind.io/post/patchwork_ggtext/)
+
+![A combination barbell and bar plot entitled: Diversity in Department Leadership vs Overall.](https://cdn.jsdelivr.net/gh/rweekly/image/2020-10-26/ggplot2_extensions.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
