@@ -25,7 +25,6 @@ Release Date: 2020-00-00
 
 + [“You Are Here”: Understanding How GPS Works](https://blog.ephorie.de/you-are-here-understanding-how-gps-works)
 
-+ [Little useless-useful R function – DataFrame Maker](https://tomaztsql.wordpress.com/2020/10/20/little-useless-useful-r-function-dataframe-maker/)
 
 + [Why you should use vapply in R](https://theautomatic.net/2020/10/20/why-you-should-use-vapply-in-r/?utm_source=rss&utm_medium=rss&utm_campaign=why-you-should-use-vapply-in-r)
 
@@ -252,8 +251,6 @@ Release Date: 2020-00-00
 
 + [Personal Art Map with R](http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r/)
 
-+ [Playing with {ggplot2} extensions](https://lopierra.rbind.io/post/patchwork_ggtext/)
-
 + [parking riddle](https://xianblog.wordpress.com/2020/10/23/parking-riddle/)
 
 + [Searching medRxiv and bioRxiv Preprint Data](https://ropensci.org/blog/2020/10/20/searching-medrxivr-and-biorxiv-preprint-data/)
@@ -261,6 +258,10 @@ Release Date: 2020-00-00
 + [Classifying images with torch](https://blogs.rstudio.com/tensorflow/posts/2020-10-19-torch-image-classification)
 
 + [Little useless-useful R function – R-jobs title generator](https://tomaztsql.wordpress.com/2020/10/24/little-useless-useful-r-function-r-jobs-title-generator/)
+
++ [Little useless-useful R function – DataFrame Maker](https://tomaztsql.wordpress.com/2020/10/20/little-useless-useful-r-function-dataframe-maker/)
+
++ [Playing with {ggplot2} extensions](https://lopierra.rbind.io/post/patchwork_ggtext/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
