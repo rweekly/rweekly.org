@@ -16,7 +16,7 @@ Release Date: 2020-00-00
 
 ### Insights
 
-
++ [Determining system dependencies for R projects](https://mdneuzerling.com/post/determining-system-dependencies-for-r-projects/)
 
 ### R in the Real World
 
@@ -28,11 +28,15 @@ Release Date: 2020-00-00
 
 ###  R in Academia
 
-
++ [ Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre
+Thomas Myles Ashhurst, Felix Marsh-Wakefield, Givanna Haryono Putri, Alanna Gabrielle Spiteri, Diana Shinko, Mark Norman Read, Adrian Lloyd Smith, Nicholas Jonathan Cole King
+bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1)
 
 ###  Resources
 
++ [Leveling Up With the Tidyverse (And Hockey Data) - Meghan Hall, Carnegie Mellon Sports Analytics Conference (Presentation Slides)](https://meghan.rbind.io/slides/hall_cmsac.html#1)
 
++ [Leveling Up With the Tidyverse (And Hockey Data) (R code)](https://github.com/meghall06/personal-website/blob/master/static/CMSAC_code.R)
 
 ###  New Packages
 
@@ -48,7 +52,9 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
++ [{betweenthepipes}](https://github.com/meghall06/betweenthepipes): This package hosts tutorials (created with the learnr package) and sample data sets that are designed to facilitate learning the tidyverse with hockey data.
 
++ [{Spectre}](https://github.com/ImmuneDynamics/Spectre): A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
 
 ### Updated Packages
 
@@ -56,7 +62,7 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
-
++ [TidyX Episode 33](https://www.youtube.com/watch?v=j0gj438orbs)
 
 ### Gist & Cookbook
 
@@ -72,7 +78,7 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
-
++ [Getting started with network plots](https://johnmackintosh.net/blog/2020-10-25-network-plots/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -86,6 +92,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 Events in 3 Months:
 
 + [Nairobi R: Data Visualization in R online workshop. Oct. 31](https://www.eventbrite.co.uk/e/data-visualization-in-r-tickets-125336233047)
+
++ [R-Ladies Tunis: Data Visualization for Machine Learning Practioners - Julia Silge, November 7](https://www.meetup.com/rladies-tunis/events/274142166/)
 
 + [SatRday Columbus - Free virtual conference on November 14](https://columbus2020.satrdays.org/)
 
