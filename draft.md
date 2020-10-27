@@ -56,9 +56,11 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [{Spectre}](https://github.com/ImmuneDynamics/Spectre): A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
 
++ [{squashinformr} v0.1.4](https://github.com/HaydenMacDonald/squashinformr): Scrape [SquashInfo](http://www.squashinfo.com) for data on the Professional Squash Association World Tour and other squash events.
+
 ### Updated Packages
 
-
++ [{squashinformr} v0.1.4](https://cran.r-project.org/web/packages/squashinformr/index.html): Scrape [SquashInfo](http://www.squashinfo.com) for data on the Professional Squash Association World Tour and other squash events.
 
 ###  Videos and Podcasts
 
