@@ -18,6 +18,8 @@ Release Date: 2020-00-00
 
 + [Determining system dependencies for R projects](https://mdneuzerling.com/post/determining-system-dependencies-for-r-projects/)
 
++ [Let’s stop doubly-screwing data science learners](https://milesmcbain.micro.blog/2020/10/28/lets-stop-doublyscrewing.html)
+
 ### R in the Real World
 
 
@@ -56,9 +58,13 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [{Spectre}](https://github.com/ImmuneDynamics/Spectre): A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
 
-### Updated Packages
++ [{gg_field}](https://github.com/mlfurman3/gg_field):  ggplot2 version of NFL field.
 
 + [{patrick} 0.0.3](https://cran.r-project.org/web/packages/patrick/index.html): An extension of the 'testthat' package that lets you add parameters to your unit tests. Parameterized unit tests are often easier to read and more reliable, since they follow the DNRY (do not repeat yourself) rule.
+
+### Updated Packages
+
++ [{lubridateExtras}](https://github.com/ellisvalentiner/lubridateExtras):  Convenience Functions for Manipulating Datetimes.
 
 ###  Videos and Podcasts
 
@@ -79,6 +85,8 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 ###  Tutorials
 
 + [Getting started with network plots](https://johnmackintosh.net/blog/2020-10-25-network-plots/)
+
++ [Visualising GPX hiking data and photos with leaflet](https://marionlouveaux.fr/blog/gpx-tracks-and-leaflet-interactive-map/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
