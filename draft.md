@@ -46,6 +46,7 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 **CRAN**
 
++ [{starwarsdb}](https://cran.r-project.org/web/packages/starwarsdb/index.html): Relational Data from the 'Star Wars' API for Learning and Teaching. Includes local tables and a database version using DuckDB.
 
 
 **BioC**
