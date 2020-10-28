@@ -60,9 +60,9 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [{gg_field}](https://github.com/mlfurman3/gg_field):  ggplot2 version of NFL field.
 
-![]()
-
 ### Updated Packages
+
++ [{patrick} 0.0.3](https://cran.r-project.org/web/packages/patrick/index.html): An extension of the 'testthat' package that lets you add parameters to your unit tests. Parameterized unit tests are often easier to read and more reliable, since they follow the DNRY (do not repeat yourself) rule.
 
 + [{lubridateExtras}](https://github.com/ellisvalentiner/lubridateExtras):  Convenience Functions for Manipulating Datetimes.
 
