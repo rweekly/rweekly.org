@@ -123,6 +123,7 @@ Events in 3 Months:
 
 ###  Call for Participation
 
++ ['R Journal' Reviewer Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSf8EmpF85ASWqPHXqV0vdQd-GHhNBaAZZEYf4qxO3gTl-eGyA/viewform)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
