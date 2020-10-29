@@ -63,6 +63,8 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [{gg_field}](https://github.com/mlfurman3/gg_field):  ggplot2 version of NFL field.
 
++ [{poweRof10}](https://github.com/hfshr/poweRof10): Tools to access data from athletics rankings website www.thepowerof10.info
+
 ### Updated Packages
 
 + [{squashinformr} v0.1.4](https://cran.r-project.org/web/packages/squashinformr/index.html): Scrape [SquashInfo](http://www.squashinfo.com) for data on the Professional Squash Association World Tour and other squash events.
