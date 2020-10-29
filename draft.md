@@ -40,6 +40,8 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [Leveling Up With the Tidyverse (And Hockey Data) (R code)](https://github.com/meghall06/personal-website/blob/master/static/CMSAC_code.R)
 
++ [The ultimate R data.table cheat sheet](https://www.infoworld.com/article/3575086/the-ultimate-r-datatable-cheat-sheet.html)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -90,6 +92,8 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 + [Getting started with network plots](https://johnmackintosh.net/blog/2020-10-25-network-plots/)
 
 + [Visualising GPX hiking data and photos with leaflet](https://marionlouveaux.fr/blog/gpx-tracks-and-leaflet-interactive-map/)
+
++ [How to generate reports from a Shiny app](https://resources.symbolix.com.au/2020/10/28/downloadable-reports-shiny/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
