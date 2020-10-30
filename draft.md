@@ -81,6 +81,8 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [{lubridateExtras}](https://github.com/ellisvalentiner/lubridateExtras):  Convenience Functions for Manipulating Datetimes.
 
++ [{ICON} v0.4.0](https://CRAN.R-project.org/package=ICON): data package containing 1,075 complex networks from the [Colorado Index of Complex Networks](https://icon.colorado.edu).
+
 ###  Videos and Podcasts
 
 + [TidyX Episode 33](https://www.youtube.com/watch?v=j0gj438orbs)
