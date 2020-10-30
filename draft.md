@@ -126,7 +126,7 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [A Gentle Introduction to Tidy Model Stacking](https://blog.simonpcouch.com/blog/gentle-intro-stacks/)
 
-+ [Getting started with network plots](https://johnmackintosh.net/blog/2020-10-25-network-plots
++ [Getting started with network plots](https://johnmackintosh.net/blog/2020-10-25-network-plots)
 
 <!--![johnmackintosh-20201025.png]()-->
 
@@ -146,9 +146,9 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [Using the Mapbox API and Tidycensus to analyze major commuter routes in Pittsburgh](https://ctompkins.netlify.app/post/ac-driving-commuter-routes/)
 
-+ [A guide to accessing & analyzing open source American political data using R.](https://github.com/jaytimm/American-political-data-and-R)
++ [A guide to accessing & analyzing open source American political data using R](https://github.com/jaytimm/American-political-data-and-R)
 
-+ [Making a poster (with {magick}) to remind everyone of social distance courtesy on Halloween](https://bioscience.netlify.app/2020/10/24/halloween-covid-poster/) - 10/24/2020
++ [Making a poster (with {magick}) to remind everyone of social distance courtesy on Halloween](https://bioscience.netlify.app/2020/10/24/halloween-covid-poster/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
