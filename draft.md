@@ -44,6 +44,8 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [correlaid-tidytuesday: Repository for collecting analyses and results for tidytuesday from CorrelAid members](https://tidytuesday.correlaid.org/2020-10-27/)
 
++ [Date Night: using lubridate to work with dates in R (Slides)- Jenny Richmond (R-Ladies Sydney)](https://jenrichmond.github.io/slides/lubridate.html#1)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -89,6 +91,8 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 ###  Videos and Podcasts
 
 + [TidyX Episode 33](https://www.youtube.com/watch?v=j0gj438orbs)
+
++ [Date Night: using lubridate to work with dates in R (Video)- Jenny Richmond (R-Ladies Sydney)](https://www.youtube.com/watch?v=B765xONVhjY)
 
 ### Gist & Cookbook
 
