@@ -24,6 +24,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [The Central Limit Theorem (CLT): From Perfect Symmetry to the Normal Distribution](https://blog.ephorie.de/the-central-limit-theorem-clt-from-perfect-symmetry-to-the-normal-distribution)
 
++ [Should You Use an Assignment as Part of Your Hiring Process for a Data Scientist?](https://www.bryanshalloway.com/2020/10/27/should-you-use-an-assignment-or-exercise-as-part-of-your-hiring-process-for-a-data-scientist/)
 
 ### R in the Real World
 
@@ -115,7 +116,7 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 ### Shiny Apps
 
-
++ [Explore the {biogrowth} package, a package for modelling of microbial growth under isothermal and dynamic conditions](https://foodmicrowur.shinyapps.io/biogrowth/)
 
 ### R Internationally
 
@@ -123,9 +124,13 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 ###  Tutorials
 
++ [A Gentle Introduction to Tidy Model Stacking](https://blog.simonpcouch.com/blog/gentle-intro-stacks/)
+
 + [Getting started with network plots](https://johnmackintosh.net/blog/2020-10-25-network-plots
 
 <!--![johnmackintosh-20201025.png]()-->
+
++ [Using Github Actions and Data Version Control for ModelOps in R](https://loppsided.blog/posts/2020-10-26-tidymodels-dvc-mashup/)
 
 + [Visualising GPX hiking data and photos with leaflet](https://marionlouveaux.fr/blog/gpx-tracks-and-leaflet-interactive-map/)
 
@@ -138,6 +143,13 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 + [A refined brute force method to inform simulation of ordinal response data](https://www.rdatagen.net/post/can-empirical-mean-and-variance-data-inform-simulation-of-ordinal-response-variables/)
 
 <!--![rdatagen-20201027.png]()-->
+
++ [Using the Mapbox API and Tidycensus to analyze major commuter routes in Pittsburgh](https://ctompkins.netlify.app/post/ac-driving-commuter-routes/)
+
++ [A guide to accessing & analyzing open source American political data using R.](https://github.com/jaytimm/American-political-data-and-R)
+
++ [Making a poster (with {magick}) to remind everyone of social distance courtesy on Halloween](https://bioscience.netlify.app/2020/10/24/halloween-covid-poster/) - 10/24/2020
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -180,3 +192,5 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I want to hear your SpOoOky data stories! 🎃<br><br>Please share a tweet-length story (or two) of the scariest data monsters you&#39;ve mashed 👇</p>&mdash; Caitlin Boo-don 👻 (@beeonaposy) <a href="https://twitter.com/beeonaposy/status/1320836125053825031?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
