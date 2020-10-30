@@ -67,11 +67,14 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [{gg_field}](https://github.com/mlfurman3/gg_field):  ggplot2 version of NFL field.
 
++ [{poweRof10}](https://github.com/hfshr/poweRof10): Tools to access data from athletics rankings website www.thepowerof10.info
+
 + [{epifitter}](https://github.com/AlvesKS/epifitter/):  An R package for analysis and simulation of plant disease progress curves.
 
 + [{emphatic}](https://github.com/coolbutuseless/emphatic): Augments the output of data.frames and matrices in R by adding user-defined ANSI highlighting.
 
 + [{report}](https://github.com/easystats/report): Automated reporting of objects in R.
+
 
 ### Updated Packages
 
