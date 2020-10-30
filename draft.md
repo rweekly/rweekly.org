@@ -1,13 +1,15 @@
 ---
 layout: draft
-title: R Weekly 2020-00
+title: R Weekly 2020-44
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-00-00
+Release Date: 2020-11-01
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
+
+This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr), with help from the RWeekly team members and contributors.
 
 
 ###  Highlight
@@ -20,13 +22,16 @@ Release Date: 2020-00-00
 
 + [Let’s stop doubly-screwing data science learners](https://milesmcbain.micro.blog/2020/10/28/lets-stop-doublyscrewing.html)
 
++ [The Central Limit Theorem (CLT): From Perfect Symmetry to the Normal Distribution](https://blog.ephorie.de/the-central-limit-theorem-clt-from-perfect-symmetry-to-the-normal-distribution)
+
+
 ### R in the Real World
 
 
 
 ###  R in Organizations
 
-
++ [Announcing a new NHS-R + Hexitime partnership](https://nhsrcommunity.com/blog/announcing-a-new-nhs-r-hexitime-partnership/)
 
 ###  R in Academia
 
@@ -40,11 +45,17 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [Leveling Up With the Tidyverse (And Hockey Data) (R code)](https://github.com/meghall06/personal-website/blob/master/static/CMSAC_code.R)
 
++ [{gg_field}](https://github.com/mlfurman3/gg_field):  ggplot2 version of NFL field (script, not a package)
+
 + [The ultimate R data.table cheat sheet](https://www.infoworld.com/article/3575086/the-ultimate-r-datatable-cheat-sheet.html)
 
 + [correlaid-tidytuesday: Repository for collecting analyses and results for tidytuesday from CorrelAid members](https://tidytuesday.correlaid.org/2020-10-27/)
 
 + [Date Night: using lubridate to work with dates in R (Slides)- Jenny Richmond (R-Ladies Sydney)](https://jenrichmond.github.io/slides/lubridate.html#1)
+
++ [Modify RStudio prompt to show current git branch](https://rtask.thinkr.fr/modify-rstudio-prompt-to-show-current-git-branch/)
+
++ [Little useless-useful R function – Full moon finder](https://tomaztsql.wordpress.com/2020/10/30/little-useless-useful-r-function-full-moon-finder/)
 
 ###  New Packages
 
@@ -67,15 +78,17 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [{Spectre}](https://github.com/ImmuneDynamics/Spectre): A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
 
-+ [{gg_field}](https://github.com/mlfurman3/gg_field):  ggplot2 version of NFL field.
-
 + [{poweRof10}](https://github.com/hfshr/poweRof10): Tools to access data from athletics rankings website www.thepowerof10.info
 
 + [{epifitter}](https://github.com/AlvesKS/epifitter/):  An R package for analysis and simulation of plant disease progress curves.
 
 + [{emphatic}](https://github.com/coolbutuseless/emphatic): Augments the output of data.frames and matrices in R by adding user-defined ANSI highlighting.
 
+<!--[](emphatic.gif)-->
+
 + [{report}](https://github.com/easystats/report): Automated reporting of objects in R.
+
++ [{OregonTrail}](https://github.com/tslumley/OregonTrail): Port of the 1978 'Oregon Trail' history game
 
 
 ### Updated Packages
@@ -110,13 +123,21 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 ###  Tutorials
 
-+ [Getting started with network plots](https://johnmackintosh.net/blog/2020-10-25-network-plots/)
++ [Getting started with network plots](https://johnmackintosh.net/blog/2020-10-25-network-plots
+
+<!--![johnmackintosh-20201025.png]()-->
 
 + [Visualising GPX hiking data and photos with leaflet](https://marionlouveaux.fr/blog/gpx-tracks-and-leaflet-interactive-map/)
 
 + [How to generate reports from a Shiny app](https://resources.symbolix.com.au/2020/10/28/downloadable-reports-shiny/)
 
 + [Tune and interpret decision trees for #TidyTuesday wind turbines](https://juliasilge.com/blog/wind-turbine/)
+
++ [Kernel of error](https://osm.netlify.com/post/kernel-error/)
+
++ [A refined brute force method to inform simulation of ordinal response data](https://www.rdatagen.net/post/can-empirical-mean-and-variance-data-inform-simulation-of-ordinal-response-variables/)
+
+<!--![rdatagen-20201027.png]()-->
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -129,9 +150,13 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [Nairobi R: Data Visualization in R online workshop. Oct. 31](https://www.eventbrite.co.uk/e/data-visualization-in-r-tickets-125336233047)
-
 + [R-Ladies Tunis: Data Visualization for Machine Learning Practioners - Julia Silge, November 7](https://www.meetup.com/rladies-tunis/events/274142166/)
+
++ [Brazilian Conference on Data Journalism and Digital Methods – Coda.Br 2020, November 2 - 7, 2020](https://www.r-consortium.org/blog/2020/10/28/register-now-brazilian-conference-on-data-journalism-and-digital-methods-coda-br-2020)
+
++ [DN Unlimited 2020: Europe’s largest data science gathering, November 18 – 20 (online)](https://r-posts.com/dn-unlimited-2020-europes-largest-data-science-gathering-nov-18-20-online/)
+
++ [R workshops in Brisbane Feb. 5 and 12, 2021](http://www.seascapemodels.org/rstats/2020/10/26/R-courses-Brisbane.html)
 
 + [SatRday Columbus - Free virtual conference on November 14](https://columbus2020.satrdays.org/)
 
