@@ -94,6 +94,8 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [Date Night: using lubridate to work with dates in R (Video)- Jenny Richmond (R-Ladies Sydney)](https://www.youtube.com/watch?v=B765xONVhjY)
 
++ [Prettier R Graphs and Documents with {showtext}+{prettydoc} (Video)- Yixuan Qiu (Greater Cleveland R Group)](https://youtu.be/D6dLm6Dx70g)
+
 ### Gist & Cookbook
 
 
