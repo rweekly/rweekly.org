@@ -42,6 +42,8 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 + [The ultimate R data.table cheat sheet](https://www.infoworld.com/article/3575086/the-ultimate-r-datatable-cheat-sheet.html)
 
++ [correlaid-tidytuesday: Repository for collecting analyses and results for tidytuesday from CorrelAid members](https://tidytuesday.correlaid.org/2020-10-27/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -49,6 +51,8 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 **CRAN**
 
 + [{starwarsdb}](https://cran.r-project.org/web/packages/starwarsdb/index.html): Relational Data from the 'Star Wars' API for Learning and Teaching. Includes local tables and a database version using DuckDB.
+
++ [{torchvision}](https://cran.r-project.org/package=torchvision): Provides access to datasets, models and preprocessing facilities for deep learning with images.
 
 
 **BioC**
@@ -62,6 +66,12 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 + [{Spectre}](https://github.com/ImmuneDynamics/Spectre): A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
 
 + [{gg_field}](https://github.com/mlfurman3/gg_field):  ggplot2 version of NFL field.
+
++ [{epifitter}](https://github.com/AlvesKS/epifitter/):  An R package for analysis and simulation of plant disease progress curves.
+
++ [{emphatic}](https://github.com/coolbutuseless/emphatic): Augments the output of data.frames and matrices in R by adding user-defined ANSI highlighting.
+
++ [{report}](https://github.com/easystats/report): Automated reporting of objects in R.
 
 ### Updated Packages
 
@@ -94,6 +104,8 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 + [Visualising GPX hiking data and photos with leaflet](https://marionlouveaux.fr/blog/gpx-tracks-and-leaflet-interactive-map/)
 
 + [How to generate reports from a Shiny app](https://resources.symbolix.com.au/2020/10/28/downloadable-reports-shiny/)
+
++ [Tune and interpret decision trees for #TidyTuesday wind turbines](https://juliasilge.com/blog/wind-turbine/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
