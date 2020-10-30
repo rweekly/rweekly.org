@@ -182,9 +182,6 @@ Events in 3 Months:
 
 ### Jobs
 
-
-
-
 ###  Call for Participation
 
 + ['R Journal' Reviewer Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSf8EmpF85ASWqPHXqV0vdQd-GHhNBaAZZEYf4qxO3gTl-eGyA/viewform)
