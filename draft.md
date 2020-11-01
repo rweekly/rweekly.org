@@ -182,8 +182,6 @@ Utilities
 
 + [Making a poster (with {magick}) to remind everyone of social distance courtesy on Halloween](https://bioscience.netlify.app/2020/10/24/halloween-covid-poster/)
 
-+ [Playing with {ggplot2} extensions](https://lopierra.rbind.io/post/patchwork_ggtext/)
-
 + [Mixed models in R: a primer](https://arbor-analytics.com/post/mixed-models-a-primer/)
 
 + [Your Lopsided Model is Out to Get You](https://win-vector.com/2020/10/26/your-lopsided-model-is-out-to-get-you/)
