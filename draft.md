@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2020-44
+title: R Weekly 2020-44 {emphatic}, American political data, data science teaching
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -14,7 +14,11 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ###  Highlight
 
++ [{emphatic}](https://github.com/coolbutuseless/emphatic): Augments the output of data.frames and matrices in R by adding user-defined ANSI highlighting.
 
++ [A guide to accessing & analyzing open source American political data using R](https://github.com/jaytimm/American-political-data-and-R)
+
++ [Let’s stop doubly-screwing data science learners](https://milesmcbain.micro.blog/2020/10/28/lets-stop-doublyscrewing.html)
 
 ### Insights
 
@@ -22,13 +26,26 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Let’s stop doubly-screwing data science learners](https://milesmcbain.micro.blog/2020/10/28/lets-stop-doublyscrewing.html)
 
-+ [The Central Limit Theorem (CLT): From Perfect Symmetry to the Normal Distribution](https://blog.ephorie.de/the-central-limit-theorem-clt-from-perfect-symmetry-to-the-normal-distribution)
-
 + [Should You Use an Assignment as Part of Your Hiring Process for a Data Scientist?](https://www.bryanshalloway.com/2020/10/27/should-you-use-an-assignment-or-exercise-as-part-of-your-hiring-process-for-a-data-scientist/)
+
+
 
 ### R in the Real World
 
 
++ [A guide to accessing & analyzing open source American political data using R](https://github.com/jaytimm/American-political-data-and-R)
+
++ [Leveling Up With the Tidyverse (And Hockey Data) - Meghan Hall, Carnegie Mellon Sports Analytics Conference (Presentation Slides)](https://meghan.rbind.io/slides/hall_cmsac.html#1)
+
++ [Intro to {tidymodels} with {nflfastR} - Tom Mock, Carnegie Mellon Sports Analytics Conference (Presentation Slides)](https://cmsac-tidymodels.netlify.app/#1)
+
++ [Using the Mapbox API and Tidycensus to analyze major commuter routes in Pittsburgh](https://ctompkins.netlify.app/post/ac-driving-commuter-routes/)
+
++ [US house prices accelerate](http://lenkiefer.com/2020/10/27/us-house-prices-accelerate/)
+
++ [Tensor-Based Anomaly Detection in Multivariate Spatio-Temporal Data](https://prital.netlify.app/talks/isf2020/isf2020#1)
+
++ [EDA of my reading activity on Goodreads using the tidyverse ecosystem](https://pritesh-shrivastava.github.io/blog/2020/10/26/goodreads-books-analysis)
 
 ###  R in Organizations
 
@@ -36,17 +53,11 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ###  R in Academia
 
-+ [ Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre
-Thomas Myles Ashhurst, Felix Marsh-Wakefield, Givanna Haryono Putri, Alanna Gabrielle Spiteri, Diana Shinko, Mark Norman Read, Adrian Lloyd Smith, Nicholas Jonathan Cole King
-bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1)
++ [Integration, exploration, and analysis of high-dimensional single-cell cytometry data using Spectre](https://www.biorxiv.org/content/10.1101/2020.10.22.349563v1)
 
 ###  Resources
 
-+ [Leveling Up With the Tidyverse (And Hockey Data) - Meghan Hall, Carnegie Mellon Sports Analytics Conference (Presentation Slides)](https://meghan.rbind.io/slides/hall_cmsac.html#1)
-
-+ [Leveling Up With the Tidyverse (And Hockey Data) (R code)](https://github.com/meghall06/personal-website/blob/master/static/CMSAC_code.R)
-
-+ [{gg_field}](https://github.com/mlfurman3/gg_field):  ggplot2 version of NFL field (script, not a package)
++ [{gg_field} ggplot2 version of NFL field (script, not a package) for](https://github.com/mlfurman3/gg_field):  
 
 + [The ultimate R data.table cheat sheet](https://www.infoworld.com/article/3575086/the-ultimate-r-datatable-cheat-sheet.html)
 
@@ -65,50 +76,73 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 **CRAN**
 
 + [{starwarsdb}](https://cran.r-project.org/web/packages/starwarsdb/index.html): Relational Data from the 'Star Wars' API for Learning and Teaching. Includes local tables and a database version using DuckDB.
-
 + [{torchvision}](https://cran.r-project.org/package=torchvision): Provides access to datasets, models and preprocessing facilities for deep learning with images.
-
-
-**BioC**
-
-
++ [{shinyscreenshot} 0.1.0](https://cran.r-project.org/package=shinyscreenshot): Capture Screenshots of Entire Pages or Parts of Pages in 'Shiny'
++ [{groundhog} 1.0.0](https://cran.r-project.org/package=groundhog): Reproducible Scripts via Version-Specific Package Loading
++ [{oskeyring} 0.1.0](https://cran.r-project.org/package=oskeyring): Raw System Credential Store Access from R
++ [{nlstac} 0.1.0](https://cran.r-project.org/package=nlstac): An R Package for Fitting Separable Nonlinear Models
++ [{xmlconvert} 0.1.0](https://cran.r-project.org/package=xmlconvert): Comfortably Converting XML Documents to Dataframes and Vice Versa
++ [{PDE} 1.0.2](https://cran.r-project.org/package=PDE): Extract Sentences and Tables from PDFs with User Interface
++ [{deepgp} 0.1.0](https://cran.r-project.org/package=deepgp): Sequential Design for Deep Gaussian Processes using MCMC
++ [{ts.extend} 0.1.0](https://cran.r-project.org/package=ts.extend): Stationary Gaussian ARMA Processes and OtherTime-Series
+Utilities
++ [{fflr} 0.3.10](https://cran.r-project.org/package=fflr): Collect ESPN Fantasy Football Data
++ [{cspp} 0.3.0](https://cran.r-project.org/package=cspp): A Tool for the Correlates of State Policy Project Data
++ [{tsensembler} 0.1.0](https://cran.r-project.org/package=tsensembler): Dynamic Ensembles for Time Series Forecasting
++ [{sugarbag} 0.1.3](https://cran.r-project.org/package=sugarbag): Create Tessellated Hexagon Maps
++ [{bccp} 0.1.0](https://cran.r-project.org/package=bccp): Bias Correction under Censoring Plan
++ [{DIDmultiplegt} 0.1.0](https://cran.r-project.org/package=DIDmultiplegt): Estimation in DID with Multiple Groups and Periods
++ [{swissdd} 1.0.4](https://cran.r-project.org/package=swissdd): Get Swiss Federal and Cantonal Vote Results from Opendata.swiss
++ [{PRIMME} 3.1-3](https://cran.r-project.org/package=PRIMME): Eigenvalues and Singular Values and Vectors from Large Matrices
 
 **GitHub or Bitbucket**
-
-+ [{betweenthepipes}](https://github.com/meghall06/betweenthepipes): This package hosts tutorials (created with the learnr package) and sample data sets that are designed to facilitate learning the tidyverse with hockey data.
-
-+ [{Spectre}](https://github.com/ImmuneDynamics/Spectre): A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
-
-+ [{poweRof10}](https://github.com/hfshr/poweRof10): Tools to access data from athletics rankings website www.thepowerof10.info
-
-+ [{epifitter}](https://github.com/AlvesKS/epifitter/):  An R package for analysis and simulation of plant disease progress curves.
 
 + [{emphatic}](https://github.com/coolbutuseless/emphatic): Augments the output of data.frames and matrices in R by adding user-defined ANSI highlighting.
 
 <!--[](emphatic.gif)-->
 
-+ [{report}](https://github.com/easystats/report): Automated reporting of objects in R.
++ [{betweenthepipes}](https://github.com/meghall06/betweenthepipes): This package hosts tutorials (created with the learnr package) and sample data sets that are designed to facilitate learning the tidyverse with hockey data.
++ [{Spectre}](https://github.com/ImmuneDynamics/Spectre): A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
++ [{poweRof10}](https://github.com/hfshr/poweRof10): Tools to access data from athletics rankings website www.thepowerof10.info
++ [{epifitter}](https://github.com/AlvesKS/epifitter/):  An R package for analysis and simulation of plant disease progress curves.
 
++ [{report}](https://github.com/easystats/report): Automated reporting of objects in R.
 + [{OregonTrail}](https://github.com/tslumley/OregonTrail): Port of the 1978 'Oregon Trail' history game
 
 
 ### Updated Packages
 
 + [{squashinformr} v0.1.4](https://cran.r-project.org/web/packages/squashinformr/index.html): Scrape [SquashInfo](http://www.squashinfo.com) for data on the Professional Squash Association World Tour and other squash events.
-
 + [{patrick} 0.0.3](https://cran.r-project.org/web/packages/patrick/index.html): An extension of the 'testthat' package that lets you add parameters to your unit tests. Parameterized unit tests are often easier to read and more reliable, since they follow the DNRY (do not repeat yourself) rule.
-
 + [{lubridateExtras}](https://github.com/ellisvalentiner/lubridateExtras):  Convenience Functions for Manipulating Datetimes.
-
 + [{ICON} v0.4.0](https://CRAN.R-project.org/package=ICON): data package containing 1,075 complex networks from the [Colorado Index of Complex Networks](https://icon.colorado.edu).
++ [{officer} 0.3.15](https://cran.r-project.org/package=officer): Manipulation of Microsoft Word and PowerPoint Documents
++ [{googlePolylines} 0.8.1](https://cran.r-project.org/package=googlePolylines): Encoding Coordinates into 'Google' Polylines
++ [{gotop} 0.1.2](https://cran.r-project.org/package=gotop): Scroll Back to Top Icon in 'rmarkdown' and 'shiny'
++ [{gginference} 0.1.3](https://cran.r-project.org/package=gginference): Visualise the Results of Inferential Statistics using 'ggplot2'
++ [{sfheaders} 0.3.0](https://cran.r-project.org/package=sfheaders): Converts Between R Objects and Simple Feature Objects
++ [{testthat} 3.0.0](https://cran.r-project.org/package=testthat): Unit Testing for R
++ [{ggdist} 2.3.0](https://cran.r-project.org/package=ggdist): Visualizations of Distributions and Uncertainty
++ [{tufte} 0.8](https://cran.r-project.org/package=tufte): Tufte's Styles for R Markdown Documents
++ [{xfun} 0.19](https://cran.r-project.org/package=xfun): Miscellaneous Functions by 'Yihui Xie'
++ [{distr6} 1.4.5](https://cran.r-project.org/package=distr6): The Complete R6 Probability Distributions Interface
++ [{tidyBF} 0.4.0](https://cran.r-project.org/package=tidyBF): Tidy Wrapper for 'BayesFactor' Package
++ [{Hmsc} 3.0-9](https://cran.r-project.org/package=Hmsc): Hierarchical Model of Species Communities
++ [{sjPlot} 2.8.6](https://cran.r-project.org/package=sjPlot): Data Visualization for Statistics in Social Science
++ [{modeltime} 0.3.0](https://cran.r-project.org/package=modeltime): The Tidymodels Extension for Time Series Modeling
++ [{quantreg} 5.75](https://cran.r-project.org/package=quantreg): Quantile Regression
++ [{huxtable} 5.1.1](https://cran.r-project.org/package=huxtable): Easily Create and Style Tables for LaTeX, HTML and Other Formats
++ [{drake} 7.12.7](https://cran.r-project.org/package=drake): A Pipeline Toolkit for Reproducible Computation at Scale
++ [{odbc} 1.3.0](https://cran.r-project.org/package=odbc): Connect to ODBC Compatible Databases (using the DBI Interface)
+
 
 ###  Videos and Podcasts
 
-+ [TidyX Episode 33](https://www.youtube.com/watch?v=j0gj438orbs)
++ [TidyX Episode 33: Beer and State Maps (Reviewing work by Richard Bamattre)](https://www.youtube.com/watch?v=j0gj438orbs)
 
-+ [Date Night: using lubridate to work with dates in R (Video)- Jenny Richmond (R-Ladies Sydney)](https://www.youtube.com/watch?v=B765xONVhjY)
++ [Date Night: Using {lubridate} to work with dates in R - Jenny Richmond (R-Ladies Sydney)](https://www.youtube.com/watch?v=B765xONVhjY)
 
-+ [Prettier R Graphs and Documents with {showtext}+{prettydoc} (Video)- Yixuan Qiu (Greater Cleveland R Group)](https://youtu.be/D6dLm6Dx70g)
++ [Prettier R Graphs and Documents with {showtext}+{prettydoc} - Yixuan Qiu (Greater Cleveland R Group)](https://youtu.be/D6dLm6Dx70g)
 
 ### Gist & Cookbook
 
@@ -120,7 +154,9 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 ### R Internationally
 
++ [Como votaram os senadores em 2019 (Portuguese)](https://www.tiagoms.com/post/senado/)
 
++ [Combinando Algoritmo Genético e Simulação em R! (Portuguese)](https://icaroagostino.github.io/post/sbo/)
 
 ###  Tutorials
 
@@ -144,12 +180,15 @@ bioRxiv 2020.10.22.349563; doi: https://doi.org/10.1101/2020.10.22.349563](https
 
 <!--![rdatagen-20201027.png]()-->
 
-+ [Using the Mapbox API and Tidycensus to analyze major commuter routes in Pittsburgh](https://ctompkins.netlify.app/post/ac-driving-commuter-routes/)
-
-+ [A guide to accessing & analyzing open source American political data using R](https://github.com/jaytimm/American-political-data-and-R)
-
 + [Making a poster (with {magick}) to remind everyone of social distance courtesy on Halloween](https://bioscience.netlify.app/2020/10/24/halloween-covid-poster/)
 
++ [Playing with {ggplot2} extensions](https://lopierra.rbind.io/post/patchwork_ggtext/)
+
++ [Mixed models in R: a primer](https://arbor-analytics.com/post/mixed-models-a-primer/)
+
++ [Your Lopsided Model is Out to Get You](https://win-vector.com/2020/10/26/your-lopsided-model-is-out-to-get-you/)
+
++ [The Central Limit Theorem (CLT): From Perfect Symmetry to the Normal Distribution](https://blog.ephorie.de/the-central-limit-theorem-clt-from-perfect-symmetry-to-the-normal-distribution)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
