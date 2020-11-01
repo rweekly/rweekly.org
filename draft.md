@@ -28,12 +28,13 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Should You Use an Assignment as Part of Your Hiring Process for a Data Scientist?](https://www.bryanshalloway.com/2020/10/27/should-you-use-an-assignment-or-exercise-as-part-of-your-hiring-process-for-a-data-scientist/)
 
-
++ [{testthat} 3.0.0 Release](https://www.tidyverse.org/blog/2020/10/testthat-3-0-0/)
 
 ### R in the Real World
 
-
 + [A guide to accessing & analyzing open source American political data using R](https://github.com/jaytimm/American-political-data-and-R)
+
+![Histograms of Age Distribution of American Political Party Voters](https://cdn.jsdelivr.net/gh/rweekly/image/2020-11-01/american-political-data-r-20201028.png)
 
 + [Leveling Up With the Tidyverse (And Hockey Data) - Meghan Hall, Carnegie Mellon Sports Analytics Conference (Presentation Slides)](https://meghan.rbind.io/slides/hall_cmsac.html#1)
 
@@ -41,11 +42,13 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Using the Mapbox API and Tidycensus to analyze major commuter routes in Pittsburgh](https://ctompkins.netlify.app/post/ac-driving-commuter-routes/)
 
-+ [US house prices accelerate](http://lenkiefer.com/2020/10/27/us-house-prices-accelerate/)
-
 + [Tensor-Based Anomaly Detection in Multivariate Spatio-Temporal Data](https://prital.netlify.app/talks/isf2020/isf2020#1)
 
 + [EDA of my reading activity on Goodreads using the tidyverse ecosystem](https://pritesh-shrivastava.github.io/blog/2020/10/26/goodreads-books-analysis)
+
++ [US house prices accelerate](http://lenkiefer.com/2020/10/27/us-house-prices-accelerate/)
+
+![Regional trend charts of house price trends in the US](https://cdn.jsdelivr.net/gh/rweekly/image/2020-11-01/lenkeifer-20201027.png)
 
 ###  R in Organizations
 
@@ -75,6 +78,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 **CRAN**
 
++ [{linne} 0.0.2](https://cran.r-project.org/package=linne): Convenient 'CSS'
 + [{starwarsdb}](https://cran.r-project.org/web/packages/starwarsdb/index.html): Relational Data from the 'Star Wars' API for Learning and Teaching. Includes local tables and a database version using DuckDB.
 + [{torchvision}](https://cran.r-project.org/package=torchvision): Provides access to datasets, models and preprocessing facilities for deep learning with images.
 + [{shinyscreenshot} 0.1.0](https://cran.r-project.org/package=shinyscreenshot): Capture Screenshots of Entire Pages or Parts of Pages in 'Shiny'
@@ -99,7 +103,7 @@ Utilities
 
 + [{emphatic}](https://github.com/coolbutuseless/emphatic): Augments the output of data.frames and matrices in R by adding user-defined ANSI highlighting.
 
-<!--[](emphatic.gif)-->
+![Emphatic package applied to add color to volcano table](https://cdn.jsdelivr.net/gh/rweekly/image/2020-11-01/emphatic-volcano.png)
 
 + [{betweenthepipes}](https://github.com/meghall06/betweenthepipes): This package hosts tutorials (created with the learnr package) and sample data sets that are designed to facilitate learning the tidyverse with hockey data.
 + [{Spectre}](https://github.com/ImmuneDynamics/Spectre): A computational toolkit in R for the integration, exploration, and analysis of high-dimensional single-cell cytometry data.
@@ -144,10 +148,6 @@ Utilities
 
 + [Prettier R Graphs and Documents with {showtext}+{prettydoc} - Yixuan Qiu (Greater Cleveland R Group)](https://youtu.be/D6dLm6Dx70g)
 
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [Explore the {biogrowth} package, a package for modelling of microbial growth under isothermal and dynamic conditions](https://foodmicrowur.shinyapps.io/biogrowth/)
@@ -164,7 +164,7 @@ Utilities
 
 + [Getting started with network plots](https://johnmackintosh.net/blog/2020-10-25-network-plots)
 
-<!--![johnmackintosh-20201025.png]()-->
+![Example network plot made with R](https://cdn.jsdelivr.net/gh/rweekly/image/2020-11-01/johnmackintosh-20201025.png)
 
 + [Using Github Actions and Data Version Control for ModelOps in R](https://loppsided.blog/posts/2020-10-26-tidymodels-dvc-mashup/)
 
@@ -178,7 +178,7 @@ Utilities
 
 + [A refined brute force method to inform simulation of ordinal response data](https://www.rdatagen.net/post/can-empirical-mean-and-variance-data-inform-simulation-of-ordinal-response-variables/)
 
-<!--![rdatagen-20201027.png]()-->
+![Scatter plot of mean and standard deviation of simulated data for emulating ordinal data](https://cdn.jsdelivr.net/gh/rweekly/image/2020-11-01/rdatagen-20201027.png)
 
 + [Making a poster (with {magick}) to remind everyone of social distance courtesy on Halloween](https://bioscience.netlify.app/2020/10/24/halloween-covid-poster/)
 
@@ -217,9 +217,6 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-### Datasets
-
-### Jobs
 
 ###  Call for Participation
 
@@ -230,3 +227,7 @@ Events in 3 Months:
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I want to hear your SpOoOky data stories! 🎃<br><br>Please share a tweet-length story (or two) of the scariest data monsters you&#39;ve mashed 👇</p>&mdash; Caitlin Boo-don 👻 (@beeonaposy) <a href="https://twitter.com/beeonaposy/status/1320836125053825031?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">so I&#39;m working on a project to showcase to beginners why <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> is fun and legitimately this could take weeks because there are SO MANY GOOD THINGS! <br><br>but if you could *only* give three reasons//examples why R is fun, what would they be?</p>&mdash; Jesse Mostipak (@kierisi) <a href="https://twitter.com/kierisi/status/1318949147932807172?ref_src=twsrc%5Etfw">October 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I want to use the <a href="https://twitter.com/hashtag/30daymapchallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30daymapchallenge</a> to play around with some interactive map viz in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>.<br>Results will be posted here: 🎉 <a href="https://t.co/cYDWHu6eG4">https://t.co/cYDWHu6eG4</a><br><br>Day 1 (Points): All +80.000 registered cars in XHain mapped onto the streets <a href="https://twitter.com/hashtag/mapdeck?src=hash&amp;ref_src=twsrc%5Etfw">#mapdeck</a><a href="https://t.co/0dY2peWr8r">https://t.co/0dY2peWr8r</a> <a href="https://t.co/W76dSYIXpf">pic.twitter.com/W76dSYIXpf</a></p>&mdash; Alexandra Kapp (@lxndrkp) <a href="https://twitter.com/lxndrkp/status/1322836184821833728?ref_src=twsrc%5Etfw">November 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
