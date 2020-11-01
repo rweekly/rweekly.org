@@ -60,7 +60,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ###  Resources
 
-+ [{gg_field} ggplot2 version of NFL field (script, not a package) for](https://github.com/mlfurman3/gg_field):  
++ [{gg_field}: ggplot2 version of an NFL field (script)](https://github.com/mlfurman3/gg_field):  
 
 + [The ultimate R data.table cheat sheet](https://www.infoworld.com/article/3575086/the-ultimate-r-datatable-cheat-sheet.html)
 
