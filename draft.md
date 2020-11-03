@@ -32,7 +32,7 @@ Release Date: 2020-00-00
 
 ###  Resources
 
-
++ ["Become an R Package Developer!", Materials for R-Ladies Bergen meetup](https://new-r-dev.netlify.app/)
 
 ###  New Packages
 
