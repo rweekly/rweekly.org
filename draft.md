@@ -80,6 +80,10 @@ Release Date: 2020-00-00
 
 + [Parsing Forsyth Edwards Notation for Chess in RStats](https://coolbutuseless.github.io/2020/11/05/parsing-forsyth-edwards-notation-for-chess-in-rstats/)
 
++ [My R Table Competition 2020 Submission: xG Timeline Table for Soccer/Football with {gt}!](https://ryo-n7.github.io/2020-11-02-xG-timeline-table-competition-tutorial/)
+
++ [R & Python Rosetta Stone: EDA with dplyr vs pandas](https://heads0rtai1s.github.io/2020/11/05/r-python-dplyr-pandas/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
