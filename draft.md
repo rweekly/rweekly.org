@@ -16,14 +16,41 @@ Release Date: 2020-00-00
 
 ### Insights
 
++ [Will R Work on Apple Silicon?](https://developer.r-project.org/Blog/public/2020/11/02/will-r-work-on-apple-silicon/)
 
++ [ Defending the indefensible](https://johnmackintosh.net/blog/2020-11-02-indefensible/)
+
++ [Why RStudio Supports Python for Data Science](https://blog.rstudio.com/2020/10/30/why-rstudio-supports-python/)
+
++ [How isolate() can bite you in the butt](https://deanattali.com/blog/debuggingwithdean2/)
+
++ [time-lining the Trump presidency](https://jtimm.net/2020/11/06/time-lining-trump-presidency/)
+
++ [Single-source publishing for R users](https://masalmon.eu/2020/11/06/single-source-publishing-r/)
+
++ [Continental or Domestic? Detailing England's most successful clubs](https://austinwehrwein.com/data-visualization/winningestteams/)
+
++ [asymmetric information](https://xianblog.wordpress.com/2020/11/04/asymmetric-information/)
+
++ [sampling w/o replacement except when replacing](https://xianblog.wordpress.com/2020/11/03/sampling-w-o-replacement-except-when-replacing/)
+
++ [Knight's Tour Problem](https://coolbutuseless.github.io/2020/11/03/knights-tour-problem/)
+
++ [8 Queens Chess Problem](https://coolbutuseless.github.io/2020/11/02/8-queens-chess-problem/)
+
++ [PredictIt vs Five Thirty Eight: An explanation of the differences between prediction markets and polling models](https://scweiss.blogspot.com/2020/11/predictit-vs-five-thirty-eight-can.html)
 
 ### R in the Real World
 
++ [Different Maps, Same Data](https://jcheshire.com/resources/different-maps-same-data/)
 
++ [Financial Engineering: Static Replication of any Payoff Function](https://blog.ephorie.de/financial-engineering-static-replication-of-any-payoff-function)
+
++ [A live election-night prediction model using The Economist's pre-election forecast](https://gist.github.com/elliottmorris/c70fd4d32049c9986a45e2dfc07fb4f0)
 
 ###  R in Organizations
 
++ [It's time to retire the "data scientist" label](http://www.brodrigues.co/blog/2020-11-05-retire_data_science/)
 
 
 ###  R in Academia
@@ -34,13 +61,33 @@ Release Date: 2020-00-00
 
 + ["Become an R Package Developer!", Materials for R-Ladies Bergen meetup](https://new-r-dev.netlify.app/)
 
++ [Using VisiumExperiment at spatialLIBD package](http://LieberInstitute.github.io/rstatsclub/2020/11/06/using-visiumexperiment-at-spatiallibd-package/)
+
++ [A Chess Engine  in RStats (Proof-of-Concept using Stockfish)](https://coolbutuseless.github.io/2020/11/05/a-chess-engine-in-rstats-proof-of-concept-using-stockfish/)
+
++ [Little useless-useful R functions – Wacky Password generator](https://tomaztsql.wordpress.com/2020/11/06/little-useless-useful-r-functions-wacky-password-generator/)
+
++ [RStudio 1.4 Preview: Rainbow Parentheses](https://blog.rstudio.com/2020/11/04/rstudio-1-4-preview-rainbow-parentheses/)
+
++ [torch for tabular data](https://blogs.rstudio.com/tensorflow/posts/2020-11-03-torch-tabular)
+
++ [Cleaning up my R packages and config files](http://feedproxy.google.com/~r/FellgernonBit-rstats/~3/5lYxyLZ-LLQ/)
+
++ [Little useless-useful R functions – R Lorem Ipsum](https://tomaztsql.wordpress.com/2020/11/02/little-useless-useful-r-functions-r-lorem-ipsum/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
 
++ [future 1.20.1 - The Future Just Got a Bit Brighter](https://www.jottr.org/2020/11/06/future-1.20.1-the-future-just-got-a-bit-brighter/)
 
++ [{shinyscreenshot}: Finally, an easy way to take screenshots in Shiny apps!](https://deanattali.com/blog/shinyscreenshot-release/)
+
++ [dbplyr 2.0.0](https://www.tidyverse.org/blog/2020/11/dbplyr-2-0-0/)
+
++ [RcppSimdJson 0.1.2: New Upstream, New Utilities](http://dirk.eddelbuettel.com/blog/2020/11/02#rcppsimdjson_0.1.3)
 
 **BioC**
 
@@ -48,15 +95,17 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-
++ [{sfarrow}](https://github.com/wcjochem/sfarrow): Experimental R package for reading/writing `sf` objects from/to parquet files with `arrow`. 
 
 ### Updated Packages
 
-
++ [{typed}](https://github.com/moodymudskipper/typed/): Static Typing for R
 
 ###  Videos and Podcasts
 
++ [Debugging with Dean (in R) #2 - How isolate() can bite you in the butt!](https://www.youtube.com/watch?v=tMW_haGB2rY)
 
++ [R para visualizar datos deportivos espaciales](https://www.youtube.com/watch?v=KFCj4TL7hio)
 
 ### Gist & Cookbook
 
@@ -72,7 +121,23 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Biologically Plausible Fake Survival Data](https://rviews.rstudio.com/2020/11/02/simulating-biologically-plausible-survival-data/)
 
++ [Statistical/Machine Learning explainability using Kernel Ridge Regression surrogates](https://thierrymoudiki.github.io/blog/2020/11/06/explainableml/r/misc/xai-krr-surrogate)
+
++ [Parsing Forsyth Edwards Notation for Chess in RStats](https://coolbutuseless.github.io/2020/11/05/parsing-forsyth-edwards-notation-for-chess-in-rstats/)
+
++ [Parsing Chess PGN files in RStats](https://coolbutuseless.github.io/2020/11/04/parsing-chess-pgn-files-in-rstats/)
+
++ [My R Table Competition 2020 Submission: xG Timeline Table for Soccer/Football with {gt}!](https://ryo-n7.github.io/2020-11-02-xG-timeline-table-competition-tutorial/)
+
++ [R & Python Rosetta Stone: EDA with dplyr vs pandas](https://heads0rtai1s.github.io/2020/11/05/r-python-dplyr-pandas/)
+
++ [Trust the Future](https://www.jottr.org/2020/11/04/trust-the-future/)
+
++ [How to Rename Factor Levels in R using levels() and dplyr](https://www.marsja.se/how-to-rename-factor-levels-in-r-dplyr/)
+
++ [How is the F-statistic computed in anova() when there are multiple models?](https://statisticaloddsandends.wordpress.com/2020/11/03/how-is-the-f-statistic-computed-in-anova-when-there-are-multiple-models/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
