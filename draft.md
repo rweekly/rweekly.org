@@ -59,6 +59,8 @@ Release Date: 2020-00-00
 
 ###  Resources
 
++ ["Become an R Package Developer!", Materials for R-Ladies Bergen meetup](https://new-r-dev.netlify.app/)
+
 + [Using VisiumExperiment at spatialLIBD package](http://LieberInstitute.github.io/rstatsclub/2020/11/06/using-visiumexperiment-at-spatiallibd-package/)
 
 + [A Chess Engine  in RStats (Proof-of-Concept using Stockfish)](https://coolbutuseless.github.io/2020/11/05/a-chess-engine-in-rstats-proof-of-concept-using-stockfish/)
