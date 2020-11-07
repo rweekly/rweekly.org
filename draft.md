@@ -18,7 +18,7 @@ Release Date: 2020-00-00
 
 + [Will R Work on Apple Silicon?](https://developer.r-project.org/Blog/public/2020/11/02/will-r-work-on-apple-silicon/)
 
-+ [ Defending the indefensible](https://johnmackintosh.net/blog/2020-11-02-indefensible/)
++ [Defending the indefensible](https://johnmackintosh.net/blog/2020-11-02-indefensible/)
 
 + [Why RStudio Supports Python for Data Science](https://blog.rstudio.com/2020/10/30/why-rstudio-supports-python/)
 
@@ -81,13 +81,9 @@ Release Date: 2020-00-00
 
 **CRAN**
 
-+ [future 1.20.1 - The Future Just Got a Bit Brighter](https://www.jottr.org/2020/11/06/future-1.20.1-the-future-just-got-a-bit-brighter/)
 
 + [{shinyscreenshot}: Finally, an easy way to take screenshots in Shiny apps!](https://deanattali.com/blog/shinyscreenshot-release/)
 
-+ [dbplyr 2.0.0](https://www.tidyverse.org/blog/2020/11/dbplyr-2-0-0/)
-
-+ [RcppSimdJson 0.1.2: New Upstream, New Utilities](http://dirk.eddelbuettel.com/blog/2020/11/02#rcppsimdjson_0.1.3)
 
 **BioC**
 
@@ -95,11 +91,17 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-+ [{sfarrow}](https://github.com/wcjochem/sfarrow): Experimental R package for reading/writing `sf` objects from/to parquet files with `arrow`. 
++ [{sfarrow}](https://github.com/wcjochem/sfarrow) 
 
 ### Updated Packages
 
 + [{typed}](https://github.com/moodymudskipper/typed/): Static Typing for R
+
++ [{future} 1.20.1 - The Future Just Got a Bit Brighter](https://www.jottr.org/2020/11/06/future-1.20.1-the-future-just-got-a-bit-brighter/)
+
++ [{dbplyr} 2.0.0](https://www.tidyverse.org/blog/2020/11/dbplyr-2-0-0/)
+
++ [{RcppSimdJson} 0.1.2: New Upstream, New Utilities](http://dirk.eddelbuettel.com/blog/2020/11/02#rcppsimdjson_0.1.3)
 
 ###  Videos and Podcasts
 
@@ -150,6 +152,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [DN Unlimited 2020: Europe’s largest data science gathering | Nov 18 – 20 online](https://r-posts.com/dn-unlimited-2020-europes-largest-data-science-gathering-nov-18-20-online/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
