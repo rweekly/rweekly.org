@@ -8,6 +8,7 @@ image: https://rweekly.org/public/facebook.png
 Release Date: 2020-00-00
 
 
++ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 ###  Highlight
 
