@@ -38,6 +38,8 @@ Release Date: 2020-00-00
 
 + [sampling w/o replacement except when replacing](https://xianblog.wordpress.com/2020/11/03/sampling-w-o-replacement-except-when-replacing/)
 
+![Knight's Tour Problem](https://raw.githubusercontent.com/rweekly/image/master/2020-11-09/knightstour.png)
+
 + [Knight's Tour Problem](https://coolbutuseless.github.io/2020/11/03/knights-tour-problem/)
 
 + [8 Queens Chess Problem](https://coolbutuseless.github.io/2020/11/02/8-queens-chess-problem/)
@@ -49,6 +51,8 @@ Release Date: 2020-00-00
 + [M5 Competition Virtual Awards Ceremony](https://rsangole.netlify.app/post/2020/10/29/m5-competition-notes/)
 
 ### R in the Real World
+
+![Different Maps, Same Data](https://raw.githubusercontent.com/rweekly/image/master/2020-11-09/differentmaps.png)
 
 + [Different Maps, Same Data](https://jcheshire.com/resources/different-maps-same-data/)
 
@@ -113,13 +117,6 @@ Release Date: 2020-00-00
 
 + [R para visualizar datos deportivos espaciales](https://www.youtube.com/watch?v=KFCj4TL7hio)
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
 
 ### R Internationally
 
@@ -136,6 +133,8 @@ Release Date: 2020-00-00
 + [Parsing Forsyth Edwards Notation for Chess in RStats](https://coolbutuseless.github.io/2020/11/05/parsing-forsyth-edwards-notation-for-chess-in-rstats/)
 
 + [Parsing Chess PGN files in RStats](https://coolbutuseless.github.io/2020/11/04/parsing-chess-pgn-files-in-rstats/)
+
+![My R Table Competition 2020 Submission](https://raw.githubusercontent.com/rweekly/image/master/2020-11-09/ryotable.png)
 
 + [My R Table Competition 2020 Submission: xG Timeline Table for Soccer/Football with {gt}!](https://ryo-n7.github.io/2020-11-02-xG-timeline-table-competition-tutorial/)
 
