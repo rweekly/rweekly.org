@@ -12,7 +12,11 @@ Release Date: 2020-00-00
 
 ###  Highlight
 
++ [Single-source publishing for R users](https://masalmon.eu/2020/11/06/single-source-publishing-r/)
 
++ [Using VisiumExperiment at spatialLIBD package](http://LieberInstitute.github.io/rstatsclub/2020/11/06/using-visiumexperiment-at-spatiallibd-package/)
+
++ [RStudio 1.4 Preview: Rainbow Parentheses](https://blog.rstudio.com/2020/11/04/rstudio-1-4-preview-rainbow-parentheses/)
 
 ### Insights
 
@@ -40,6 +44,10 @@ Release Date: 2020-00-00
 
 + [PredictIt vs Five Thirty Eight: An explanation of the differences between prediction markets and polling models](https://scweiss.blogspot.com/2020/11/predictit-vs-five-thirty-eight-can.html)
 
++ [Using rvest and stringr to generate a dataframe of UK Government COVID19 Press Briefings](https://www.danielbraby.com/blog/webscraping/)
+
++ [M5 Competition Virtual Awards Ceremony](https://rsangole.netlify.app/post/2020/10/29/m5-competition-notes/)
+
 ### R in the Real World
 
 + [Different Maps, Same Data](https://jcheshire.com/resources/different-maps-same-data/)
@@ -51,10 +59,6 @@ Release Date: 2020-00-00
 ###  R in Organizations
 
 + [It's time to retire the "data scientist" label](http://www.brodrigues.co/blog/2020-11-05-retire_data_science/)
-
-
-###  R in Academia
-
 
 
 ###  Resources
@@ -119,7 +123,9 @@ Release Date: 2020-00-00
 
 ### R Internationally
 
++ [Tutorial on how to create interactive tables for HTML reports and web pages](https://thinkr.fr/tableaux-interactifs-avec-r-pour-shiny-et-vos-pages-web/)
 
++ [Tutorial in French on how to create static tables for PDF reports in R](https://thinkr.fr/les-tableaux-statiques-pour-vos-rapports-en-r/)
 
 ###  Tutorials
 
