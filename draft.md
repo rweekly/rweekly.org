@@ -72,6 +72,7 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Comparing Common Operations in dplyr and data.table](https://martinctc.github.io/blog/comparing-common-operations-in-dplyr-and-data.table/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
