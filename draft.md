@@ -24,6 +24,8 @@ Release Date: 2020-00-00
 
 + [Code Is Poetry, but GIFs Are Divine: Writing Effective Technical Instruction](https://georgejmount.com/code-is-poetry-gifs-are-divine/)
 
++ [Installing V8 is now even easier](https://ropensci.org/technotes/2020/11/12/installing-v8/)
+
 ### R in the Real World
 
 + [NHS-R Community – Computer Vision Classification – How it can aid clinicians – Malaria cell case study with R](https://hutsons-hacks.info/nhs-r-community-lightening-talk-computer-vision-classification-how-it-can-aid-clinicians-malaria-cell-case-study-with-r)
@@ -66,6 +68,7 @@ Release Date: 2020-00-00
 
 + [lmDiallel: a new R package to fit diallel models. Introduction](https://www.statforbiology.com/2020/stat_met_diallel1/)
 
++ [{washoku}](https://github.com/uribo/washoku): Extra 'recipes' for Japanese Text, Date and Address Processing.
 
 ### Updated Packages
 
@@ -75,6 +78,8 @@ Release Date: 2020-00-00
 
 + [Why R Webinar - R on AWS](http://r-addict.com/2020/11/09/R-on-AWS.html)
 
++ [Tidy Tuesday live screencast: Analyzing historical phones in R](https://www.youtube.com/watch?v=pJPqAIb8MKA)
+
 ### Gist & Cookbook
 
 + [Evidence-based software engineering: book released](http://shape-of-code.coding-guidelines.com/2020/11/08/evidence-based-software-engineering-book-released/)
@@ -82,6 +87,10 @@ Release Date: 2020-00-00
 ### Shiny Apps
 
 + [The Appsilon shiny.semantic PoContest](https://blog.rstudio.com/2020/11/10/the-appsilon-shiny-semantic-pocontest/)
+
++ ["My Little Crony": A visualization of the connections between Tory politicians and companies being awarded government contracts during the pandemic, based on reporting by openDemocracy, Byline Times, and more.](https://sophieehill.shinyapps.io/my-little-crony/)
+
++ [Data visualisation of the Public Development Banks’ (PDBs) database.](https://afdshiny.shinyapps.io/developmentbanksdatabase/)
 
 ### R Internationally
 
@@ -110,6 +119,10 @@ Release Date: 2020-00-00
 + [YAPOEH! (Yet another post on error handling)](https://adisarid.github.io/post/yet-another-post-on-error-handling/)
 
 + [Converting XML data to R dataframes with xmlconvert](https://topics-in-r.blogspot.com/2020/11/converting-xml-data-to-r-dataframes.html)
+
++ [Kepa R-izabalaga and Edou-R-d Mendy: an intro to football stats, FBref, and coding in R](https://geommark.space/kepa-r-izabalaga-and-edou-r-d-mendy-an-intro-to-football-stats-fbref-and-coding-in-r/)
+
++ [Insetting a new patchwork version](https://www.data-imaginist.com/2020/insetting-a-new-patchwork-version/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
