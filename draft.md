@@ -91,6 +91,8 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Comparing Common Operations in dplyr and data.table](https://martinctc.github.io/blog/comparing-common-operations-in-dplyr-and-data.table/)
+
 + [How to develop inside a Docker container to ease collaboration?](https://rtask.thinkr.fr/how-to-develop-inside-a-docker-container-to-ease-collaboration/)
 
 + [Little useless-useful R functions – Play rock-paper-scissors with your R engine](https://tomaztsql.wordpress.com/2020/11/13/little-useless-useful-r-functions-play-rock-paper-scissors-with-your-r-engine/)
