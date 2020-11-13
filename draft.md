@@ -74,6 +74,8 @@ Release Date: 2020-00-00
 
 + [Insetting a new patchwork version](https://www.data-imaginist.com/2020/insetting-a-new-patchwork-version/)
 
++ [corporaexplorer: A Shiny app/R package for dynamic exploration of text collections](https://kgjerde.github.io/corporaexplorer/)
+
 ###  Videos and Podcasts
 
 + [Why R Webinar - R on AWS](http://r-addict.com/2020/11/09/R-on-AWS.html)
@@ -91,6 +93,8 @@ Release Date: 2020-00-00
 + ["My Little Crony": A visualization of the connections between Tory politicians and companies being awarded government contracts during the pandemic, based on reporting by openDemocracy, Byline Times, and more.](https://sophieehill.shinyapps.io/my-little-crony/)
 
 + [Data visualisation of the Public Development Banks’ (PDBs) database.](https://afdshiny.shinyapps.io/developmentbanksdatabase/)
+
++ [corporaexplorer: A Shiny app/R package for dynamic exploration of text collections](https://kgjerde.github.io/corporaexplorer/)
 
 ### R Internationally
 
