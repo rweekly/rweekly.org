@@ -40,6 +40,9 @@ Release Date: 2020-00-00
 
 **CRAN**
 
++ [maptiles](https://rgeomatic.hypotheses.org/2032)
+<!-- suggested image: https://github.com/riatelab/maptiles/blob/main/man/figures/README-front.png-->
+
 
 
 **BioC**
