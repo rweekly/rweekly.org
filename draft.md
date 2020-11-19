@@ -32,7 +32,7 @@ Release Date: 2020-00-00
 
 ###  Resources
 
-
++ [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources)
 
 ###  New Packages
 
