@@ -63,7 +63,7 @@ Release Date: 2020-00-00
 
 
 ### Shiny Apps
-
++ [Music collaboration discovery](https://svitkin.rbind.io/2020/11/on-those-weird-split-eps/)
 
 
 ### R Internationally
