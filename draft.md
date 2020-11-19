@@ -72,7 +72,7 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
-
++ [Bayesian networks and sports injuries with {bnlearn}](https://www.hfshr.xyz/posts/2020-11-01-bayesian-networks-with-bnlearn/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
