@@ -16,7 +16,7 @@ Release Date: 2020-00-00
 
 ### Insights
 
-
++ [NHS-R 2020 Week Long Conference](https://hutsons-hacks.info/nhs-r-2020-annual-conference)
 
 ### R in the Real World
 
@@ -48,7 +48,7 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-
++ [{ggmacc}](https://github.com/aj-sykes92/ggmacc): R package repository for building marginal abatement cost curves with ggplot2. 
 
 ### Updated Packages
 
@@ -72,7 +72,11 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Animating Expected Possession Value in the NBA: Part 2](https://insidethetv.rbind.io/post/epv-the-epilogue/)
 
+![](gif)
+
++ [Textrecipes Version 0.4.0](https://www.hvitfeldt.me/blog/textrecipes-version-0-4-0/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
