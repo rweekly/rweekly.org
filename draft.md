@@ -32,6 +32,7 @@ Release Date: 2020-00-00
 
 ###  Resources
 
++ [shinysnip a VSCode Extension for Shiny Code Snippets](https://marketplace.visualstudio.com/items?itemName=Mohamed-El-Fodil-Ihaddaden.shinysnip)
 
 
 ###  New Packages
@@ -64,7 +65,7 @@ Release Date: 2020-00-00
 
 ### Shiny Apps
 
-
++ [shinysnip a VSCode Extension for Shiny Code Snippets](https://marketplace.visualstudio.com/items?itemName=Mohamed-El-Fodil-Ihaddaden.shinysnip)
 
 ### R Internationally
 
