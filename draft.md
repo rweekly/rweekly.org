@@ -34,6 +34,8 @@ Release Date: 2020-00-00
 
 ###  Resources
 
++ [shinysnip a VSCode Extension for Shiny Code Snippets](https://marketplace.visualstudio.com/items?itemName=Mohamed-El-Fodil-Ihaddaden.shinysnip)
+
 + [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources)
 
 ###  New Packages
@@ -70,10 +72,11 @@ Release Date: 2020-00-00
 
 
 ### Shiny Apps
+
 + [Music collaboration discovery](https://svitkin.rbind.io/2020/11/on-those-weird-split-eps/)
 
-
 + [corporaexplorer: A Shiny app/R package for dynamic exploration of text collections](https://kgjerde.github.io/corporaexplorer/)
+
 
 ### R Internationally
 
