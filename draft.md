@@ -115,6 +115,8 @@ Release Date: 2020-00-00
 
 + [TidyX: Episode 36 - Plotly Animations](https://www.youtube.com/watch?v=t45_7oUlX6M)
 
++ [Shiny Developer Series Episode 16: Jiena McLellan](https://shinydevseries.com/ep16)
+
 ### Gist & Cookbook
 
 ### Shiny Apps
