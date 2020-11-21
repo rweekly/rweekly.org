@@ -56,6 +56,8 @@ Release Date: 2020-00-00
 
 
 
++ [corporaexplorer: A Shiny app/R package for dynamic exploration of text collections](https://kgjerde.github.io/corporaexplorer/)
+
 ###  Videos and Podcasts
 
 
@@ -67,6 +69,8 @@ Release Date: 2020-00-00
 ### Shiny Apps
 
 
+
++ [corporaexplorer: A Shiny app/R package for dynamic exploration of text collections](https://kgjerde.github.io/corporaexplorer/)
 
 ### R Internationally
 
