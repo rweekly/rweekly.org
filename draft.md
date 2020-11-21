@@ -22,6 +22,8 @@ Release Date: 2020-00-00
 
 + [Applying PCA to fictional character personalities](https://www.alexcookson.com/post/2020-11-19-applying-pca-to-fictional-character-personalities/)
 
+![](PCA)
+
 ###  R in Organizations
 
 
