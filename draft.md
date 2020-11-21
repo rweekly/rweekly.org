@@ -81,6 +81,8 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Bayesian networks and sports injuries with {bnlearn}](https://www.hfshr.xyz/posts/2020-11-01-bayesian-networks-with-bnlearn/)
+
 + [Animating Expected Possession Value in the NBA: Part 2](https://insidethetv.rbind.io/post/epv-the-epilogue/)
 
 ![](gif)
