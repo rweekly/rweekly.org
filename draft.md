@@ -20,7 +20,9 @@ Release Date: 2020-00-00
 
 ### R in the Real World
 
++ [Applying PCA to fictional character personalities](https://www.alexcookson.com/post/2020-11-19-applying-pca-to-fictional-character-personalities/)
 
+![](PCA)
 
 ###  R in Organizations
 
@@ -34,12 +36,16 @@ Release Date: 2020-00-00
 
 + [shinysnip a VSCode Extension for Shiny Code Snippets](https://marketplace.visualstudio.com/items?itemName=Mohamed-El-Fodil-Ihaddaden.shinysnip)
 
++ [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources)
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
+
++ [maptiles](https://rgeomatic.hypotheses.org/2032)
+<!-- suggested image: https://github.com/riatelab/maptiles/blob/main/man/figures/README-front.png-->
 
 
 
@@ -55,6 +61,8 @@ Release Date: 2020-00-00
 
 
 
++ [corporaexplorer: A Shiny app/R package for dynamic exploration of text collections](https://kgjerde.github.io/corporaexplorer/)
+
 ###  Videos and Podcasts
 
 
@@ -65,13 +73,18 @@ Release Date: 2020-00-00
 
 ### Shiny Apps
 
-+ [shinysnip a VSCode Extension for Shiny Code Snippets](https://marketplace.visualstudio.com/items?itemName=Mohamed-El-Fodil-Ihaddaden.shinysnip)
++ [Music collaboration discovery](https://svitkin.rbind.io/2020/11/on-those-weird-split-eps/)
+
++ [corporaexplorer: A Shiny app/R package for dynamic exploration of text collections](https://kgjerde.github.io/corporaexplorer/)
+
 
 ### R Internationally
 
 
 
 ###  Tutorials
+
++ [Bayesian networks and sports injuries with {bnlearn}](https://www.hfshr.xyz/posts/2020-11-01-bayesian-networks-with-bnlearn/)
 
 + [Animating Expected Possession Value in the NBA: Part 2](https://insidethetv.rbind.io/post/epv-the-epilogue/)
 
