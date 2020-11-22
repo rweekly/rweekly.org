@@ -159,6 +159,8 @@ Release Date: 2020-00-00
 
 + [Le Monde puzzle [\#1164]](https://xianblog.wordpress.com/2020/11/16/le-monde-puzzle-1164/)
 
++ [Graphical User Interfaces were a mistake but you can still make things right](https://www.brodrigues.co/blog/2020-11-21-guis_mistake/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
