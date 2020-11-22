@@ -79,6 +79,8 @@ Release Date: 2020-00-00
 
 + [{cinaR} 0.1.0](https://cran.r-project.org/package=cinaR): A Computational Pipeline for Bulk 'ATAC-Seq' Profiles
 
++ [{driveR} 0.2.0](https://cran.r-project.org/package=driveR): Prioritizing Cancer Driver Genes Using Genomics Data
+
 **BioC**
 
 **GitHub or Bitbucket**
@@ -108,6 +110,8 @@ Release Date: 2020-00-00
 + [{rprojroot} 2.0.2](https://cran.r-project.org/package=rprojroot): Finding Files in Project Subdirectories
 
 + [{constants} 1.0.0](https://www.enchufa2.es/archives/constants-update-to-2018-codata-values.html): Reference on Constants, Units and Uncertainty - Update to 2018 CODATA values
+
++ [{pathfindR} 1.6.0](https://cran.r-project.org/package=pathfindR): Enrichment Analysis Utilizing Active Subnetworks
 
 ### Videos and Podcasts
 
