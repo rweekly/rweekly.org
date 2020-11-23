@@ -63,7 +63,7 @@ Release Date: 2020-00-00
 
 
 ### Shiny Apps
-
+* [Make your day with a quick quote from _Wikiquotes—Quote of The Day_ ](https://harshvardhan.shinyapps.io/quotes_generator/)
 
 
 ### R Internationally
