@@ -31,6 +31,8 @@ Release Date: 2020-00-00
 
 + [\#BlackInDataWeek 2020](https://education.rstudio.com/blog/2020/11/blackindataweek/)
 
+![COVID-19 Posts: A Public Dataset Containing 400+ COVID-19 Blog Posts](https://raw.githubusercontent.com/rweekly/image/master/2020-11-23/covid19-blog-posts.png)
+
 + [COVID-19 Posts: A Public Dataset Containing 400+ COVID-19 Blog Posts](https://r-posts.com/covid-19-posts-a-public-dataset-containing-400-covid-19-blog-posts/)
 
 ### R in the Real World
@@ -65,7 +67,7 @@ Release Date: 2020-00-00
 
 **CRAN**
 
-+ [{maptiles} 0.1.1](https://rgeomatic.hypotheses.org/2032): Download and Display Map Tiles <!-- suggested image: https://github.com/riatelab/maptiles/blob/main/man/figures/README-front.png-->
++ [{maptiles} 0.1.1](https://rgeomatic.hypotheses.org/2032): Download and Display Map Tiles
 
 + [{trendeval} 0.0.1](https://cran.r-project.org/package=trendeval): Evaluate Trending Models
 
@@ -77,11 +79,11 @@ Release Date: 2020-00-00
 
 + [{lazysf} 0.1.0](https://cran.r-project.org/package=lazysf): Delayed Read for 'GDAL' Vector Data Sources
 
+![{cinaR} 0.1.0](https://raw.githubusercontent.com/rweekly/image/master/2020-11-23/cinaR.png)
+
 + [{cinaR} 0.1.0](https://cran.r-project.org/package=cinaR): A Computational Pipeline for Bulk 'ATAC-Seq' Profiles
 
 + [{driveR} 0.2.0](https://cran.r-project.org/package=driveR): Prioritizing Cancer Driver Genes Using Genomics Data
-
-**BioC**
 
 **GitHub or Bitbucket**
 
@@ -121,21 +123,17 @@ Release Date: 2020-00-00
 
 + [Shiny Developer Series Episode 16: Jiena McLellan](https://shinydevseries.com/ep16)
 
-### Gist & Cookbook
-
 ### Shiny Apps
 
 + [Music collaboration discovery](https://svitkin.rbind.io/2020/11/on-those-weird-split-eps/)
 
 + [corporaexplorer: A Shiny app/R package for dynamic exploration of text collections](https://kgjerde.github.io/corporaexplorer/)
 
+![How California Uses Shiny in Production to Fight COVID-19](https://raw.githubusercontent.com/rweekly/image/master/2020-11-23/california-covid19-shiny.png)
+
 + [How California Uses Shiny in Production to Fight COVID-19](https://blog.rstudio.com/2020/11/19/using-shiny-in-production-to-monitor-covid-19/)
 
-### R Internationally
-
 ### Tutorials
-
-+ [Bayesian networks and sports injuries with {bnlearn}](https://www.hfshr.xyz/posts/2020-11-01-bayesian-networks-with-bnlearn/)
 
 + [Animating Expected Possession Value in the NBA: Part 2](https://insidethetv.rbind.io/post/epv-the-epilogue/)
 
@@ -151,6 +149,10 @@ Release Date: 2020-00-00
 
 + [Helper code and files for your testthat tests](https://blog.r-hub.io/2020/11/18/testthat-utility-belt/)
 
+![Bayesian networks and sports injuries with {bnlearn}](https://raw.githubusercontent.com/rweekly/image/master/2020-11-23/bayesian-networks.png)
+
++ [Bayesian networks and sports injuries with {bnlearn}](https://www.hfshr.xyz/posts/2020-11-01-bayesian-networks-with-bnlearn/)
+
 + [Demo: Rendering Images in Polygons with {ggplot2} and {ggpattern}](https://coolbutuseless.github.io/2020/11/18/demo-rendering-images-in-polygons-with-ggplot2-and-ggpattern/)
 
 + [How to Catch a Thief: Unmasking Madoff's Ponzi Scheme with Benford's Law](https://blog.ephorie.de/how-to-catch-a-thief-unmasking-madoffs-ponzi-scheme-with-benfords-law)
@@ -160,8 +162,6 @@ Release Date: 2020-00-00
 + [Create a map of a country with the neighbouring countries and an inset map](https://aebou.rbind.io/posts/2020/11/create-a-map-of-a-country-with-the-neighbouring-countries-and-an-inset-map/)
 
 + [Animated map of ships, 1750-1799](https://www.simoncoulombe.com/2020/11/animated-ships/)
-
-+ [Le Monde puzzle [\#1164]](https://xianblog.wordpress.com/2020/11/16/le-monde-puzzle-1164/)
 
 + [Graphical User Interfaces were a mistake but you can still make things right](https://www.brodrigues.co/blog/2020-11-21-guis_mistake/)
 
@@ -179,10 +179,6 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-### Datasets
-
-### Jobs
-
 ### Call for Participation
 
 + [Join Us Dec 10 at the COVID-19 Data Forum: Using Mobility Data To Forecast COVID-19 Cases](https://www.r-consortium.org/blog/2020/11/18/join-us-dec-10-at-the-covid-19-data-forum-using-mobility-data-to-forecast-covid-19-cases)
@@ -196,3 +192,7 @@ Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" 
 </p>
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you know that this map is made 100% with R? <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/Rspatial?src=hash&amp;ref_src=twsrc%5Etfw">#Rspatial</a> <a href="https://t.co/U4ZrjVb1jY">https://t.co/U4ZrjVb1jY</a> <a href="https://t.co/dNtJ705WvF">pic.twitter.com/dNtJ705WvF</a></p>&mdash; neocarto (@neocartocnrs) <a href="https://twitter.com/neocartocnrs/status/1329700151959674881?ref_src=twsrc%5Etfw">November 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think there is nothing more ignored than <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> warning messages. <a href="https://t.co/rqYtHMyTUN">pic.twitter.com/rqYtHMyTUN</a></p>&mdash; Data Science Question A Day (@data_question) <a href="https://twitter.com/data_question/status/1328346236747870208?ref_src=twsrc%5Etfw">November 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
