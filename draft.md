@@ -72,7 +72,7 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
-
++ [Your first R package in 1 hour](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
