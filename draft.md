@@ -56,7 +56,9 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
++ ["Your first R package in 1 hour: Tools that make R package development easy", R-Ladies Philly with Shannon Pileggi](https://www.youtube.com/watch?v=xcXzaEmZ-m4&feature=youtu.be)
 
++ ["Become an R-package developer!", R-Ladies Bergen with Maëlle Salmon](https://www.youtube.com/watch?v=ZX0iI_P__ic)
 
 ### Gist & Cookbook
 
