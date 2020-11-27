@@ -121,6 +121,8 @@ Release Date: 2020-00-00
 
 + [Continuous integration for R projects: from Travis CI to GitHub actions step by step](https://insileco.github.io/2020/11/24/continuous-integration-for-r-projects-from-travis-ci-to-github-actions-step-by-step/)
 
++ [Use case from "Engineering Production-Grade Shiny Apps" - Building an App, from Start to Finish](https://engineering-shiny.org/use-case-building-an-app-from-start-to-finish.html)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
