@@ -20,8 +20,7 @@ Release Date: 2020-00-00
 
 + [Reduced Service Mode for R-Ladies Global](https://blog.rladies.org/post/reduced-service-note/)
 
-+ [Least squares as springs
-Physics intuition for regression](https://joshualoftus.com/post/2020-11-23-least-squares-as-springs/least-squares-as-springs/)
++ [Least squares as springs- Physics intuition for regression](https://joshualoftus.com/post/2020-11-23-least-squares-as-springs/least-squares-as-springs/)
 
 ### R in the Real World
 
