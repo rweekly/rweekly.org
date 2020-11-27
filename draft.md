@@ -28,6 +28,8 @@ Release Date: 2020-00-00
 
 + [To peek or not to peek after 32 cases? Exploring that question in Biontech/Pfizer's vaccine trial](http://skranz.github.io//r/2020/11/24/CovidVaccineToPeekOrNotToPeek.html)
 
++ [Exploring My Spotify Listening](https://www.harsh17.in/blog/exploring-my-spotify-listening)
+
 ###  R in Organizations
 
 + [#4 Automated installation of R web server for Shiny and RStudio with Docker Compose](https://www.rinproduction.com/en/posts/004-r-web-server-with-docker/)
@@ -56,7 +58,7 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-
++ [convo](https://emilyriederer.github.io/convo/), Enables conversations and contracts through controlled vocabulary naming conventions
 
 ### Updated Packages
 
