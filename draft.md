@@ -119,6 +119,8 @@ Release Date: 2020-00-00
 
 + [A gentle introduction: R in Digital Signal Processing](https://rpubs.com/eR_ic/dspr)
 
++ [Continuous integration for R projects: from Travis CI to GitHub actions step by step](https://insileco.github.io/2020/11/24/continuous-integration-for-r-projects-from-travis-ci-to-github-actions-step-by-step/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
