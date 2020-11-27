@@ -71,7 +71,7 @@ Release Date: 2020-00-00
 
 ### R Internationally
 
-
++ {[propre.rpls](https://gitlab.com/rdes_dreal/propre.rpls)}, le package pour réaliser les publications sur le parc locatif social en France, premier livrable de la démarche PROPRE (PROcessus de Publications REproductibles).
 
 ###  Tutorials
 
