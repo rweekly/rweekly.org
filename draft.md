@@ -16,7 +16,9 @@ Release Date: 2020-00-00
 
 ### Insights
 
++ [It Doesn't Just Happen (useR! 2021)](https://user2021.r-project.org/blog/2020/11/19/group-by-a-journey-through-a-wonderful-tech-community/)
 
++ [Reduced Service Mode for R-Ladies Global](https://blog.rladies.org/post/reduced-service-note/)
 
 ### R in the Real World
 
@@ -40,6 +42,8 @@ Release Date: 2020-00-00
 
 + [Online Tests for TestVision with R/exams](http://www.R-exams.org/tutorials/exams2testvision/)
 
++ [Implementing version control with Git and GitHub as a learning objective in statistics and data science courses](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1848485)
+
 ###  Resources
 
 
@@ -59,6 +63,8 @@ Release Date: 2020-00-00
 **GitHub or Bitbucket**
 
 + [convo](https://emilyriederer.github.io/convo/), Enables conversations and contracts through controlled vocabulary naming conventions
+
++ [postcards](https://github.com/seankross/postcards), Create simple, beautiful personal websites and landing pages using only R Markdown.
 
 ### Updated Packages
 
@@ -139,7 +145,12 @@ Events in 3 Months:
 
 ###  Call for Participation
 
++ [You can help with BrailleR development](https://github.com/ajrgodfrey/BrailleR#you-can-help)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m working with these folks on the accessibility of the conference, the website, and related materials. Please give us your feedback and let us know how we can do better. <a href="https://t.co/CTr7u00bqv">https://t.co/CTr7u00bqv</a></p>&mdash; Liz Hare PhD STILL at home (@DogGeneticsLLC) <a href="https://twitter.com/DogGeneticsLLC/status/1331765566143598594?ref_src=twsrc%5Etfw">November 26, 2020</a></blockquote> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don&#39;t gather() and spread()</p>&mdash; Romain François 👨‍👧‍👧 (@romain_francois) <a href="https://twitter.com/romain_francois/status/1331597821980659713?ref_src=twsrc%5Etfw">November 25, 2020</a></blockquote>
