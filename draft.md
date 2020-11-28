@@ -149,6 +149,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [The Wild World of Data Repositories, rOpenSci community call, Wednesday, 16 December 2020 18:00 UTC](https://ropensci.org/commcalls/dec2020-datarepos/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
