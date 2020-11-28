@@ -18,7 +18,13 @@ Release Date: 2020-00-00
 
 + [It Doesn't Just Happen (useR! 2021)](https://user2021.r-project.org/blog/2020/11/19/group-by-a-journey-through-a-wonderful-tech-community/)
 
+![useR! 2021 Margot the Marmot](https://raw.githubusercontent.com/rweekly/image/master/2020-11-30/margot-mir.png)
+
++ [Welcome Margot, the Marmot! (useR! 2021)](https://user2021.r-project.org/blog/2020/11/26/welcome-margot-the-marmot/)
+
 + [Reduced Service Mode for R-Ladies Global](https://blog.rladies.org/post/reduced-service-note/)
+
+![R plot showing least squatres as springs](https://raw.githubusercontent.com/rweekly/image/master/2020-11-30/least-squares.png)
 
 + [Least squares as springs- Physics intuition for regression](https://joshualoftus.com/post/2020-11-23-least-squares-as-springs/least-squares-as-springs/)
 
@@ -64,7 +70,11 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
+![convo logo](https://raw.githubusercontent.com/rweekly/image/master/2020-11-30/convo.png)
+
 + [convo](https://emilyriederer.github.io/convo/), Enables conversations and contracts through controlled vocabulary naming conventions
+
+![Screenshot of a webpage created with the postcards package](https://raw.githubusercontent.com/rweekly/image/master/2020-11-30/jolla-blue-preview.png)
 
 + [postcards](https://github.com/seankross/postcards), Create simple, beautiful personal websites and landing pages using only R Markdown.
 
@@ -77,6 +87,9 @@ Release Date: 2020-00-00
 + [magrittr 2.0 is here!](https://www.tidyverse.org/blog/2020/11/magrittr-2-0-is-here/)
 
 + [2020-05  Adding TikZ support to ‘dvir’](https://stattech.wordpress.fos.auckland.ac.nz/2020/11/25/2020-05-adding-tikz-support-to-dvir/)
+
+
+![pointblank logo](https://raw.githubusercontent.com/rweekly/image/master/2020-11-30/pointblank.png)
 
 + [pointblank v0.6](https://randr.rocks/post/pointblank-0-6/)
 
