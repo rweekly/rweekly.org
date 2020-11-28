@@ -18,7 +18,7 @@ Release Date: 2020-00-00
 
 + [It Doesn't Just Happen (useR! 2021)](https://user2021.r-project.org/blog/2020/11/19/group-by-a-journey-through-a-wonderful-tech-community/)
 
-![useR! 2021 Margot the Marmot](https://raw.githubusercontent.com/rweekly/image/master/2020-11-30/margot-mir.png)
+![useR! 2021 Margot the Marmot](https://raw.githubusercontent.com/rweekly/image/master/2020-11-30/marmot-mir.png)
 
 + [Welcome Margot, the Marmot! (useR! 2021)](https://user2021.r-project.org/blog/2020/11/26/welcome-margot-the-marmot/)
 
