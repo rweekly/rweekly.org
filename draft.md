@@ -72,7 +72,9 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Creation of a custom visual CV by ggplot hacking](http://adomingues.github.io/2020/11/25/visual-cv/) 
 
+![A visual CV](http://adomingues.github.io/assets/img/visual_cv.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
