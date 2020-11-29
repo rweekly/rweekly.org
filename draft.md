@@ -179,6 +179,8 @@ Partitions
 
 + [postcards](https://github.com/seankross/postcards), Create simple, beautiful personal websites and landing pages using only R Markdown.
 
++ [docsifier](https://github.com/etiennebacher/docsifier), Use docsify.js and Markdown files to create the documentation for your R package.
+
 ### Updated Packages
 
 + [Sparse data structures in tidymodels](https://www.tidyverse.org/blog/2020/11/tidymodels-sparse-support/)
