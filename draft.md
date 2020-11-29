@@ -239,6 +239,8 @@ Partitions
 
 + [Use case from "Engineering Production-Grade Shiny Apps" - Building an App, from Start to Finish](https://engineering-shiny.org/use-case-building-an-app-from-start-to-finish.html)
 
++ [Generalized nonlinear models in nnetsauce](https://thierrymoudiki.github.io/blog/2020/11/28/explainableml/python/glms)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
