@@ -40,7 +40,7 @@ Release Date: 2020-00-00
 
 **CRAN**
 
-
++ [{mapSpain} 0.1.1](https://cran.r-project.org/package=mapSpain): Administrative Boundaries of Spain at several levels (CCAA, Provinces, Municipalities). It also provides a 'leaflet' plugin and the ability of downloading and processing static tiles.
 
 **BioC**
 
