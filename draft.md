@@ -78,6 +78,8 @@ Release Date: 2020-00-00
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
++ [When one model is not enough: Stacking models with {stacks}](https://www.hfshr.xyz/posts/2020-11-30-model-stacking/)
+
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
