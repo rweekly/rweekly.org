@@ -16,23 +16,23 @@ Release Date: 2020-12-07
 
 ### Insights
 
-+ [Compare two languages in R Markdown documents](https://www.etiennebacher.com/post/code-two-columns-blogdown/code-two-columns-blogdown/) *
++ [Compare two languages in R Markdown documents](https://www.etiennebacher.com/post/code-two-columns-blogdown/code-two-columns-blogdown/)
 
-+ [A NOTE on URL checks of your R package](https://blog.r-hub.io/2020/12/01/url-checks/) *
++ [A NOTE on URL checks of your R package](https://blog.r-hub.io/2020/12/01/url-checks/)
 
-+ [A extended version of "A ggplot2 Tutorial for Beautiful Plotting"](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) *
++ [An extended version of "A ggplot2 Tutorial for Beautiful Plotting"](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 
 + [Why complex models are data-hungry?](https://eranraviv.com/complex-models-data-hungry/)
 
-+ [Shifting political winds](https://ctompkins.netlify.app/post/shifting_political_winds/) *
++ [Shifting political winds](https://ctompkins.netlify.app/post/shifting_political_winds/)
 
 + [Covid-19 Trends in the Netherlands](https://mcnakhaee.com/post/2020-11-04-covid-19-trends-in-the-netherlands/)
 
-+ [A brief introduction to the basics of R's static code analysis](https://renkun.me/2020/11/08/using-parse-data-to-analyze-r-code/) *
++ [A brief introduction to the basics of R's static code analysis](https://renkun.me/2020/11/08/using-parse-data-to-analyze-r-code/)
 
-+ [A quick guide on how to read and analyze Oura Ring data in R](https://measuredme.com/post/loading-oura-ring-data-in-r/) *
++ [A quick guide on how to read and analyze Oura Ring data in R](https://measuredme.com/post/loading-oura-ring-data-in-r/)
 
-+ [a collection of us political data](https://github.com/jaytimm/uspols)
++ [A collection of US political data](https://github.com/jaytimm/uspols)
 
 ### R in the Real World
 
@@ -140,7 +140,7 @@ Release Date: 2020-12-07
 
 ###  Tutorials
 
-+ [Creation of a custom visual CV by ggplot hacking](http://adomingues.github.io/2020/11/25/visual-cv/) *
++ [Creation of a custom visual CV by ggplot hacking](http://adomingues.github.io/2020/11/25/visual-cv/)
 
 ![A visual CV](http://adomingues.github.io/assets/img/visual_cv.png)
 
