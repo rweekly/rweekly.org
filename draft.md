@@ -62,6 +62,8 @@ Release Date: 2020-00-00
 
 + [ggpattern Package in R (5 Examples) | Draw ggplot2 Plots with Textures | Barplot, Density & Boxplot](https://www.youtube.com/watch?v=aKZ1I1xsoQg)
 
++ [Shiny Developer Series episode 17: Dean Attali](https://shinydevseries.com/ep17)
+
 ### Gist & Cookbook
 
 
