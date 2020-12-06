@@ -16,6 +16,8 @@ Release Date: 2020-00-00
 
 ### Insights
 
++ [Compare two languages in R Markdown documents](https://www.etiennebacher.com/post/code-two-columns-blogdown/code-two-columns-blogdown/)
+
 + [A NOTE on URL checks of your R package](https://blog.r-hub.io/2020/12/01/url-checks/)
 
 ### R in the Real World
