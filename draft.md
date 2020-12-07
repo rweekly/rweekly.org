@@ -72,7 +72,7 @@ Release Date: 2020-12-14
 
 ###  Tutorials
 
-
++ [Using cbsodataR to plot total deaths per week in the Netherlands from 1995 to 2020 (OC from reddit)](https://www.data-fred.com/post/2020/cbsodatar-reddit/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
