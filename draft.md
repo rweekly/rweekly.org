@@ -12,7 +12,7 @@ Release Date: 2020-12-07
 
 + [An extended version of "A ggplot2 Tutorial for Beautiful Plotting"](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 
-+ [A brief introduction to the basics of R's static code analysis](https://renkun.me/2020/11/08/using-parse-data-to-analyze-r-code/)
++ [Using parse data to analyze R code](https://renkun.me/2020/11/08/using-parse-data-to-analyze-r-code/)
 
 + [Creation of a custom visual CV by ggplot hacking](http://adomingues.github.io/2020/11/25/visual-cv/)
 
@@ -32,9 +32,9 @@ Release Date: 2020-12-07
 
 + [Covid-19 Trends in the Netherlands](https://mcnakhaee.com/post/2020-11-04-covid-19-trends-in-the-netherlands/)
 
-+ [A brief introduction to the basics of R's static code analysis](https://renkun.me/2020/11/08/using-parse-data-to-analyze-r-code/)
++ [Using parse data to analyze R code](https://renkun.me/2020/11/08/using-parse-data-to-analyze-r-code/)
 
-+ [A quick guide on how to read and analyze Oura Ring data in R](https://measuredme.com/post/loading-oura-ring-data-in-r/)
++ [Loading Oura ring data in R](https://measuredme.com/post/loading-oura-ring-data-in-r/)
 
 + [A collection of US political data](https://github.com/jaytimm/uspols)
 
@@ -138,9 +138,9 @@ Release Date: 2020-12-07
 
 + [Get started with random forest tuning and tidymodels using IKEA price data](https://www.youtube.com/watch?v=BgWCuyrwD1s)
 
-+ [TidyX Episode 38 ](https://www.youtube.com/watch?v=KI09FByaGWQ)
++ [TidyX Episode 38](https://www.youtube.com/watch?v=KI09FByaGWQ)
 
-+ [ggpattern Package in R (5 Examples) | Draw ggplot2 Plots with Textures | Barplot, Density & Boxplot](https://www.youtube.com/watch?v=aKZ1I1xsoQg)
++ [ggpattern Package in R (5 Examples) ; Draw ggplot2 Plots with Textures ; Barplot, Density & Boxplot](https://www.youtube.com/watch?v=aKZ1I1xsoQg)
 
 + [Shiny Developer Series episode 17: Dean Attali](https://shinydevseries.com/ep17)
 
