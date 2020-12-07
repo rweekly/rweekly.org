@@ -1,7 +1,6 @@
 ---
-layout: draft
-title: R Weekly 2020-49
-description: Draft of the R Weekly
+title: R Weekly 2020-49 ggplot2, static code analysis, visual CV
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -9,10 +8,13 @@ Release Date: 2020-12-07
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-
 ###  Highlight
 
++ [An extended version of "A ggplot2 Tutorial for Beautiful Plotting"](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 
++ [A brief introduction to the basics of R's static code analysis](https://renkun.me/2020/11/08/using-parse-data-to-analyze-r-code/)
+
++ [Creation of a custom visual CV by ggplot hacking](http://adomingues.github.io/2020/11/25/visual-cv/)
 
 ### Insights
 
@@ -21,6 +23,8 @@ Release Date: 2020-12-07
 + [A NOTE on URL checks of your R package](https://blog.r-hub.io/2020/12/01/url-checks/)
 
 + [An extended version of "A ggplot2 Tutorial for Beautiful Plotting"](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+
+![beautiful ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2020-12-07/overview_600.png)
 
 + [Why complex models are data-hungry?](https://eranraviv.com/complex-models-data-hungry/)
 
@@ -45,8 +49,6 @@ Release Date: 2020-12-07
 **CRAN**
 
 + [{mapSpain} 0.1.1](https://cran.r-project.org/package=mapSpain): Administrative Boundaries of Spain at several levels (CCAA, Provinces, Municipalities). It also provides a 'leaflet' plugin and the ability of downloading and processing static tiles.
-
-+ [{ExPanDaR} 0.5.2](https://cran.r-project.org/package=ExPanDaR): Explore Your Data Interactively
 
 + [{shinydlplot} 0.1.3](https://cran.r-project.org/package=shinydlplot): Add a Download Button to a 'shiny' Plot or 'plotly'
 
@@ -73,6 +75,10 @@ Release Date: 2020-12-07
 + [{convo} 0.0.0.9000](https://emilyriederer.github.io/convo): Enables conversations and contracts through controlled vocabulary naming conventions
 
 ### Updated Packages
+
++ [{ExPanDaR} 0.5.2](https://cran.r-project.org/package=ExPanDaR): Explore Your Data Interactively
+
+![ExPanD](https://raw.githubusercontent.com/rweekly/image/master/2020-12-07/ExPanD_simple_03_600.jpg)
 
 + [{googleAuthR} 1.3.1](https://cran.r-project.org/package=googleAuthR): Authenticate and Create Google APIs
 
@@ -142,7 +148,7 @@ Release Date: 2020-12-07
 
 + [Creation of a custom visual CV by ggplot hacking](http://adomingues.github.io/2020/11/25/visual-cv/)
 
-![A visual CV](http://adomingues.github.io/assets/img/visual_cv.png)
+![A visual CV](https://raw.githubusercontent.com/rweekly/image/master/2020-12-07/visual_cv_600.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -156,7 +162,6 @@ Release Date: 2020-12-07
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
@@ -167,16 +172,7 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
-
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
@@ -185,3 +181,5 @@ Events in 3 Months:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> community, really? It&#39;s been like 5 hours now and no one noticed the big news? 😛<a href="https://t.co/c4OXTO0WCw">https://t.co/c4OXTO0WCw</a><br><br>Thank you <a href="https://twitter.com/LukeTierney4?ref_src=twsrc%5Etfw">@LukeTierney4</a> <a href="https://twitter.com/_lionelhenry?ref_src=twsrc%5Etfw">@_lionelhenry</a> <a href="https://twitter.com/jimhester_?ref_src=twsrc%5Etfw">@jimhester_</a> (who else?)<a href="https://twitter.com/hashtag/pipypipy?src=hash&amp;ref_src=twsrc%5Etfw">#pipypipy</a> <a href="https://t.co/5P9QPe1H8a">pic.twitter.com/5P9QPe1H8a</a></p>&mdash; Henrik Bengtsson (@henrikbengtsson) <a href="https://twitter.com/henrikbengtsson/status/1334703130378788866?ref_src=twsrc%5Etfw">December 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Help me out please <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>: When you first learned R, what was your main motivation to do so?</p>&mdash; David Keyes (@dgkeyes) <a href="https://twitter.com/dgkeyes/status/1334497828534710274?ref_src=twsrc%5Etfw">December 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New _major_ feature release for {svgchop}, which you can use to approximate SVGs as polygons in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>.<a href="https://t.co/SI13cpJNDf">https://t.co/SI13cpJNDf</a><br><br>Now supports all path commands, most elements, transforms, clip-paths, and more.<br><br>1/5 <a href="https://t.co/tfQDZcovLU">pic.twitter.com/tfQDZcovLU</a></p>&mdash; BrodieG (@BrodieGaslam) <a href="https://twitter.com/BrodieGaslam/status/1332322321646964737?ref_src=twsrc%5Etfw">November 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
