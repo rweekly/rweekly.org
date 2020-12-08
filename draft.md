@@ -53,7 +53,7 @@ Release Date: 2020-12-14
 ### Updated Packages
 
 + [`validate` version 1.0.1](https://cran.r-project.org/package=validate) has been released, together with a brand new 
-  [Data Validation Cookbook](https://data-cleaning.github.io/validate/). See [here](http://www.markvanderloo.eu/yaRb/2020/12/08/validate-1-0-1-new-features-and-a-cookbook/) for release notes.
+  [Data Validation Cookbook](https://data-cleaning.github.io/validate/). See [release notes](http://www.markvanderloo.eu/yaRb/2020/12/08/validate-1-0-1-new-features-and-a-cookbook/).
 
 ###  Videos and Podcasts
 
