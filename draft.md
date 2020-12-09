@@ -65,7 +65,9 @@ Release Date: 2020-12-14
 
 ### Shiny Apps
 
++ [Least squares as springs, the Shiny App](https://github.com/Enchufa2/ls-springs)
 
+![pca](https://raw.githubusercontent.com/Enchufa2/ls-springs/main/pca.gif)
 
 ### R Internationally
 
