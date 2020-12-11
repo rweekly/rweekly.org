@@ -69,6 +69,8 @@ Release Date: 2020-12-14
   
 + [{flexo}](https://github.com/coolbutuseless/flexo): Simple lex/parse tools in R 
 
++ [{terrainr}](https://github.com/mikemahoney218/terrainr): Retrieve Data from the USGS National Map and Transform it for 3D Landscape Visualizations. Version 0.2.0 released on GitHub -- new features to visualize vector geodata, better sf integration, [and more!](https://github.com/mikemahoney218/terrainr/blob/v0.2.0/NEWS.md)
+
 ###  Videos and Podcasts
 
 + [How to migrate from TravisCI to GitHub Actions for R packages](https://www.youtube.com/watch?v=K4x-uqLl_m4)
