@@ -37,7 +37,7 @@ Release Date: 2020-12-14
 
 + [OneR in Medical Research: Finding Leading Symptoms, Main Predictors and Cut-Off Points](https://blog.ephorie.de/oner-in-medical-research-finding-leading-symptoms-main-predictors-and-cut-off-points)
 
-+ [Comparing 1st and 2nd lockdown using electricity consumption in France](/article/2020-12/electricity-conso-france/)
++ [Comparing 1st and 2nd lockdown using electricity consumption in France](https://macro.cepremap.fr/article/2020-12/electricity-conso-france/)
 
 
 ###  R in Academia
