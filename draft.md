@@ -110,25 +110,15 @@ Release Date: 2020-12-14
 
 + [Granger-causality without assuming linear regression, enhancements to generalCorr package](https://r-posts.com/granger-causality-without-assuming-linear-regression-enhancements-to-generalcorr-package/)
 
-+ [{data.table} 1.13.4](https://cran.r-project.org/package=data.table): Extension of `data.frame`
-
 + [{progressr} 0.7.0](https://cran.r-project.org/package=progressr): An Inclusive, Unifying API for Progress Updates
 
-+ [{htmlwidgets} 1.5.3](https://cran.r-project.org/package=htmlwidgets): HTML Widgets for R
-
 + [{d3Tree} 0.2.2](https://cran.r-project.org/package=d3Tree): Create Interactive Collapsible Trees with the JavaScript 'D3' Library
-
-+ [{nlme} 3.1-151](https://cran.r-project.org/package=nlme): Linear and Nonlinear Mixed Effects Models
 
 + [{usethis} 2.0.0](https://cran.r-project.org/package=usethis): Automate Package and Project Setup
 
 + [{future} 1.21.0](https://cran.r-project.org/package=future): Unified Parallel and Distributed Processing in R for Everyone
 
 + [{encryptedRmd} 0.2.1](https://cran.r-project.org/package=encryptedRmd): Encrypt Html Reports Using 'Libsodium'
-
-+ [{webmockr} 0.7.4](https://cran.r-project.org/package=webmockr): Stubbing and Setting Expectations on 'HTTP' Requests
-
-+ [{listdown} 0.4.1](https://cran.r-project.org/package=listdown): Create R Markdown from Lists
 
 + [{mlr3} 0.9.0](https://cran.r-project.org/package=mlr3): Machine Learning in R - Next Generation
 
@@ -159,8 +149,6 @@ Release Date: 2020-12-14
 
 ###  Tutorials
 
-+ [The Data Validation Cookbook](https://data-cleaning.github.io/validate/) A complete guide to data validation with [validate](https://cran.r-project.org/package=validate), with many worked examples.
-
 + [Using {pocketapi} to Understand My Reading Behavior](https://alletsee.net/blog/using-pocketapi-to-understand-my-reading-behavior/)
 
 + [Using cbsodataR to plot total deaths per week in the Netherlands from 1995 to 2020 (OC from reddit)](https://www.data-fred.com/post/2020/cbsodatar-reddit/)
@@ -186,8 +174,6 @@ Release Date: 2020-12-14
 + [How to Rename Column (or Columns) in R with dplyr](https://www.marsja.se/how-to-rename-column-or-columns-in-r-with-dplyr/)
 
 + [Rank IPL batsmen and bowlers post IPL 2020](https://gigadom.in/2020/12/10/rank-ipl-batsmen-and-bowlers-post-ipl-2020/)
-
-+ [Storytime preparedness with av](https://masalmon.eu/2020/12/10/av-storytime/)
 
 + [Accessing GrahpQL from R](https://ropensci.org/blog/2020/12/08/accessing-grahpql-in-r/)
 
