@@ -124,6 +124,12 @@ Release Date: 2020-12-14
 
 + [{terrainr}](https://github.com/mikemahoney218/terrainr): Retrieve Data from the USGS National Map and Transform it for 3D Landscape Visualizations. Version 0.2.0 released on GitHub -- new features to visualize vector geodata, better sf integration, [and more!](https://github.com/mikemahoney218/terrainr/blob/v0.2.0/NEWS.md)
 
++ [{parallelly} 1.22.0](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
+
++ [{doFuture} 0.11.0](https://cran.r-project.org/package=doFuture): A Universal Foreach Parallel Adapter using the Future API of the 'future' Package
+
+
+
 ###  Videos and Podcasts
 
 + [How to migrate from TravisCI to GitHub Actions for R packages](https://www.youtube.com/watch?v=K4x-uqLl_m4)
