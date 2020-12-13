@@ -23,7 +23,11 @@ Release Date: 2020-12-14
 
 + [Exploring NHL Stanley Cup Champion's Points Percentage In Four GGPlots](https://jlaw.netlify.app/2020/12/01/exploring-nhl-stanley-cup-champion-s-points-percentage-in-four-ggplots/)
 
+![nhlplots](https://raw.githubusercontent.com/rweekly/image/master/2020-12-14/hist_with_images-1.png)
+
 + [Bullet Chart Variants in R](https://themockup.blog/posts/2020-11-29-bullet-chart-variants-in-r/)
+
+![Bullet Chart example](https://raw.githubusercontent.com/rweekly/image/master/2020-12-14/combo_plot.png)
 
 + [Batting Visualizations for Nine Sluggers](https://baseballwithr.wordpress.com/2020/12/07/batting-visualizations-for-nine-sluggers/)
 
@@ -86,6 +90,8 @@ Release Date: 2020-12-14
 
 + [{ComplexUpset} 0.7.3](https://cran.r-project.org/package=ComplexUpset): Create Complex UpSet Plots Using 'ggplot2' Components
 
+![ComplexUpset](https://raw.githubusercontent.com/rweekly/image/master/2020-12-14/Examples_R_27_0.png)
+
 + [{savonliquide} 0.1.0](https://cran.r-project.org/package=savonliquide): Check for Color Contrast Accessibility
 
 
@@ -103,7 +109,10 @@ Release Date: 2020-12-14
 + [{corrr} 0.4.3](https://www.tidyverse.org/blog/2020/12/corrr-0-4-3/)
   
 + [{ggstream}](https://github.com/davidsjoberg/ggstream): A package to make streamplots 
-  
+
+![ggstream plot](https://raw.githubusercontent.com/rweekly/image/master/2020-12-14/README-pressure-1.png)
+
+
 + [{data.table}](https://github.com/Rdatatable/data.table) 1.13.4: Extension of `data.frame`
 
 + [RcppSpdlog 0.0.4: New upstream](http://dirk.eddelbuettel.com/blog/2020/12/11#rcppspdlog_0.0.4)
@@ -123,6 +132,8 @@ Release Date: 2020-12-14
 + [{mlr3} 0.9.0](https://cran.r-project.org/package=mlr3): Machine Learning in R - Next Generation
 
 + [{terrainr}](https://github.com/mikemahoney218/terrainr): Retrieve Data from the USGS National Map and Transform it for 3D Landscape Visualizations. Version 0.2.0 released on GitHub -- new features to visualize vector geodata, better sf integration, [and more!](https://github.com/mikemahoney218/terrainr/blob/v0.2.0/NEWS.md)
+
+![terrainplot](https://raw.githubusercontent.com/rweekly/image/master/2020-12-14/naip.png)
 
 ###  Videos and Podcasts
 
