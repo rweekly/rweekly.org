@@ -45,7 +45,6 @@ Release Date: 2020-12-21
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
-
 + [{postcards}](https://cran.r-project.org/package=postcards) 0.1.0: Create simple, beautiful personal websites and landing pages using only R Markdown. 
 
 + [{potential}](https://cran.r-project.org/package=potential) 0.1.0: Implementation of the Potential Model
@@ -61,6 +60,9 @@ Release Date: 2020-12-21
 + [{tabnet}](https://github.com/mlverse/tabnet/):  An R implementation of TabNet 
 
 ### Updated Packages
+
++ [{tinytest}](https://cran.r-project.org/package=tinytest) 1.2.4: light weight, dependency free unit testing.
+  ![screenshot of tinytest, testing tinytest](https://pbs.twimg.com/media/Epdn3eSXIAAW8W0?format=png&name=small)
 
 + [{nomnoml}](https://cran.r-project.org/package=nomnoml) 0.2.3: A tool for drawing sassy 'UML' diagrams based on a simple syntax.
 
