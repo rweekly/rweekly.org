@@ -74,6 +74,8 @@ Release Date: 2020-12-21
 
 + [Summary Song #6 - Tidyverse](https://www.youtube.com/watch?v=p8Py9C8iq2s)
 
++ [Shiny Developer Series: Fully containerized dev environment with Docker, RStudio, and VS-Code](https://youtu.be/4wRiPG9LM3o)
+
 ### Gist & Cookbook
 
 
