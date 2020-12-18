@@ -60,6 +60,8 @@ Release Date: 2020-12-21
 
 + [{tabnet}](https://github.com/mlverse/tabnet/):  An R implementation of TabNet 
 
++ [{proceduralnames}](https://github.com/mikemahoney218/proceduralnames): Several Methods for Procedural Name Generation
+
 ### Updated Packages
 
 + [{nomnoml}](https://cran.r-project.org/package=nomnoml) 0.2.3: A tool for drawing sassy 'UML' diagrams based on a simple syntax.
