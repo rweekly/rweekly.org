@@ -47,6 +47,8 @@ Release Date: 2020-12-21
 
 + [{potential}](https://cran.r-project.org/package=potential) 0.1.0: Implementation of the Potential Model
 
++ [{shinyfullscreen}](https://cran.r-project.org/package=shinyfullscreen) 1.0.0: Put any HTML elements in fullscreen in Shiny apps.
+
 **BioC**
 
 
@@ -57,7 +59,10 @@ Release Date: 2020-12-21
 
 + [{tabnet}](https://github.com/mlverse/tabnet/):  An R implementation of TabNet 
 
++ [{prompter}](https://github.com/etiennebacher/prompter): Implementation of "Hint.css" to create tooltips in Shiny apps.
+
 + [{proceduralnames}](https://github.com/mikemahoney218/proceduralnames): Several Methods for Procedural Name Generation
+
 
 ### Updated Packages
 
