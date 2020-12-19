@@ -35,9 +35,7 @@ Release Date: 2020-12-21
 ###  Resources
 
 + [A Swiss version of the famous visualization «Land doesn't vote. People do.»](https://github.com/zumbov2/votemapswitzerland)
-
-![]()
-
++ [How to set library path on a {parallel} R cluster](https://www.markvanderloo.eu/yaRb/2020/12/17/how-to-set-library-path-on-a-parallel-r-cluster/)
 + [What's new in {dbplyr} 2.0.0](https://www.dropbox.com/s/s1o70fzrkgaxmwf/maverick_gbug-lightning-dbplyr-2.pdf?dl=0)
 
 ###  New Packages
