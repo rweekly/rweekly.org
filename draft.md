@@ -35,9 +35,7 @@ Release Date: 2020-12-21
 ###  Resources
 
 + [A Swiss version of the famous visualization «Land doesn't vote. People do.»](https://github.com/zumbov2/votemapswitzerland)
-
-![]()
-
++ [How to set library path on a {parallel} R cluster](https://www.markvanderloo.eu/yaRb/2020/12/17/how-to-set-library-path-on-a-parallel-r-cluster/)
 + [What's new in {dbplyr} 2.0.0](https://www.dropbox.com/s/s1o70fzrkgaxmwf/maverick_gbug-lightning-dbplyr-2.pdf?dl=0)
 
 ###  New Packages
@@ -45,7 +43,6 @@ Release Date: 2020-12-21
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
-
 + [{postcards}](https://cran.r-project.org/package=postcards) 0.1.0: Create simple, beautiful personal websites and landing pages using only R Markdown. 
 
 + [{potential}](https://cran.r-project.org/package=potential) 0.1.0: Implementation of the Potential Model
@@ -64,7 +61,13 @@ Release Date: 2020-12-21
 
 + [{prompter}](https://github.com/etiennebacher/prompter): Implementation of "Hint.css" to create tooltips in Shiny apps.
 
++ [{proceduralnames}](https://github.com/mikemahoney218/proceduralnames): Several Methods for Procedural Name Generation
+
+
 ### Updated Packages
+
++ [{tinytest}](https://cran.r-project.org/package=tinytest) 1.2.4: light weight, dependency free unit testing.
+  ![screenshot of tinytest, testing tinytest](https://pbs.twimg.com/media/Epdn3eSXIAAW8W0?format=png&name=small)
 
 + [{nomnoml}](https://cran.r-project.org/package=nomnoml) 0.2.3: A tool for drawing sassy 'UML' diagrams based on a simple syntax.
 
@@ -77,6 +80,8 @@ Release Date: 2020-12-21
 + [Tidy Tuesday live screencast: Analyzing Ninja Warrior in R](https://www.youtube.com/watch?v=4AhXvMsCooM)
 
 + [Summary Song #6 - Tidyverse](https://www.youtube.com/watch?v=p8Py9C8iq2s)
+
++ [Shiny Developer Series: Fully containerized dev environment with Docker, RStudio, and VS-Code](https://youtu.be/4wRiPG9LM3o)
 
 ### Gist & Cookbook
 
@@ -91,6 +96,7 @@ Release Date: 2020-12-21
 ### R Internationally
 
 + [(Japanese) Tidymodelsで使えるモデルの紹介とモデルの追加方法](https://blog.atusy.net/2020/12/13/add-parsnip-model/)
++ [(Arabic) أهمية تعلم لغة البرمجة آر وكيفية تثبيتها على جهازك – R programming language](https://e3arabi.com/%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9/%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%85-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A2%D8%B1-%D9%88%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA/)
 
 ###  Tutorials
 
