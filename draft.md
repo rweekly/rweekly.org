@@ -89,6 +89,7 @@ Release Date: 2020-12-21
 ### R Internationally
 
 + [(Japanese) Tidymodelsで使えるモデルの紹介とモデルの追加方法](https://blog.atusy.net/2020/12/13/add-parsnip-model/)
++ [(Arabic) أهمية تعلم لغة البرمجة آر وكيفية تثبيتها على جهازك – R programming language](https://e3arabi.com/%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9/%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%85-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A2%D8%B1-%D9%88%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA/)
 
 ###  Tutorials
 
