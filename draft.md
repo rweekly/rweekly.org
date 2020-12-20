@@ -46,6 +46,8 @@ Release Date: 2020-12-21
 
 + [Reproducible road safety research with R](https://www.racfoundation.org/research/safety/reproducible-road-safety-research-with-r)
 
++ [R Discord Server](https://discord.gg/xKC9zEYsZP)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
