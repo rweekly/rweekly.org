@@ -46,6 +46,8 @@ Release Date: 2020-12-21
 
 + [Reproducible road safety research with R](https://www.racfoundation.org/research/safety/reproducible-road-safety-research-with-r)
 
++ [doc2vec in R](http://bnosac.be/index.php/blog/103-doc2vec-in-r)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
