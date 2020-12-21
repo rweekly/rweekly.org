@@ -49,7 +49,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [A Swiss version of the famous visualization «Land doesn't vote. People do.»](https://github.com/zumbov2/votemapswitzerland)
 
-![Swiss-electorate-map](https://cdn.jsdelivr.net/gh/rweekly/image/2020-51/swiss-map.png)
+![Swiss-electorate-map](https://cdn.jsdelivr.net/gh/rweekly/image/2020-51/swiss-vote.png)
 
 + [How to set library path on a {parallel} R cluster](https://www.markvanderloo.eu/yaRb/2020/12/17/how-to-set-library-path-on-a-parallel-r-cluster/)
 
@@ -68,7 +68,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 **CRAN**
 + [{postcards}](https://cran.r-project.org/package=postcards) 0.1.0: Create simple, beautiful personal websites and landing pages using only R Markdown. 
 
-![postcards-example](https://cdn.jsdelivr.net/gh/rweekly/image/2020-51/jolla-blue-preview.png)
+![postcards-example](https://cdn.jsdelivr.net/gh/rweekly/image/2020-51/postcard-guo.png)
 
 + [{potential}](https://cran.r-project.org/package=potential) 0.1.0: Implementation of the Potential Model.
 
@@ -177,7 +177,7 @@ Research
 
 + [10 years of brick-built LEGO Christmas Trees](https://www.ryantimpe.com/post/legochristmas1/)
 
-![lego-christmas-tree](https://cdn.jsdelivr.net/gh/rweekly/image/2020-51/tree_distribution.png)
+![lego-christmas-tree](https://cdn.jsdelivr.net/gh/rweekly/image/2020-51/legotree.png)
 
 + [The targetopia: An R package ecosystem for democratized reproducible pipelines at scale](https://wlandau.github.io/posts/2020-12-14-targetopia/)
 
