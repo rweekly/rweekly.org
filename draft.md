@@ -17,7 +17,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [Extracting JSON data from websites and public APIs with R](https://themockup.blog/posts/2020-12-13-extracting-json-from-websites-and-public-apis-with-r/)
 
-+ [{ggrepel}](https://cran.r-project.org/package=ggrepel): Automatically Position Non-Overlapping Text Labels with 'ggplot2'.
++ [{ggrepel}](https://cran.r-project.org/package=ggrepel) 0.9.0: Automatically Position Non-Overlapping Text Labels with 'ggplot2'.
 
 ### Insights
 
@@ -210,8 +210,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ [Fully containerized R dev environment with Docker, RStudio, and VS-Code (December 18, 2020)](https://www.youtube.com/watch?v=4wRiPG9LM3o)
 
 + [RStudio::Global (January 21, 2020)](https://global.rstudio.com/student/catalog)
 
