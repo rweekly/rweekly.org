@@ -46,7 +46,10 @@ Release Date: 2020-12-21
 
 + [Reproducible road safety research with R](https://www.racfoundation.org/research/safety/reproducible-road-safety-research-with-r)
 
++ [doc2vec in R](http://bnosac.be/index.php/blog/103-doc2vec-in-r)
+
 + [R Discord Server](https://discord.gg/xKC9zEYsZP)
+
 
 ###  New Packages
 
