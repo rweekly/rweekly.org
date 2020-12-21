@@ -22,11 +22,19 @@ Release Date: 2020-12-21
 
 + [The New Base Pipe](https://michaelbarrowman.co.uk/post/the-new-base-pipe/)
 
++ [My Keynote 'Future' Presentation at the European Bioconductor Meeting 2020](https://www.jottr.org/2020/12/19/future-eurobioc2020-slides/)
+
++ [Building capacities to teach data science in Latin America](https://education.rstudio.com/blog/2020/12/metadocencia/)
+
++ [R Consortium Providing Financial Support to COVID-19 Data Hub Platform](https://www.r-consortium.org/blog/2020/12/14/r-consortium-providing-financial-support-to-covid-19-data-hub-platform)
+
 ### R in the Real World
 
 + [Does home-court advantage in the NBA matter?](https://tlfvincent.github.io//2020/12/06/nba-home-court-advantage/)
 
 + [Digging into BVB Dortmund Football Club's Tweets with R](https://soroosj.netlify.app/2020/12/12/twitter/)
+
++ [Cross National Death Rates](https://kieranhealy.org/blog/archives/2020/12/18/cross-national-death-rates/)
 
 ###  R in Organizations
 
@@ -61,6 +69,16 @@ Release Date: 2020-12-21
 + [{potential}](https://cran.r-project.org/package=potential) 0.1.0: Implementation of the Potential Model.
 
 + [{shinyfullscreen}](https://cran.r-project.org/package=shinyfullscreen) 1.0.0: Put any HTML elements in fullscreen in Shiny apps.
+
++ [{readrba}](https://cran.r-project.org/package=readrba) 0.1.0: Download tidy data from the Reserve Bank of Australia.
+
++ [{shinyfullscreen} 1.0.0](https://cran.r-project.org/package=shinyfullscreen): Display 'HTML' Elements on Full Screen in 'Shiny' Apps.
+
++ [{brolgar} 0.1.0](https://cran.r-project.org/package=brolgar): Browse Over Longitudinal Data Graphically and Analytically in R.
+
++ [{dataReporter} 1.0.0](https://cran.r-project.org/package=dataReporter): Reproducible Data Screening Checks and Report of Possible Errors.
+
++ [{webfakes} 1.1.1](https://cran.r-project.org/package=webfakes): Fake Web Apps for HTTP Testing
 
 **GitHub or Bitbucket**
 
@@ -98,6 +116,23 @@ Release Date: 2020-12-21
 
 + [{ggrepel}](https://cran.r-project.org/package=ggrepel): Automatically Position Non-Overlapping Text Labels with 'ggplot2'.
 
++ [{tvthemes} 1.1.1](https://cran.r-project.org/package=tvthemes): TV Show Themes and Color Palettes for 'ggplot2' Graphics
+
++ [{plotly} 4.9.2.2](https://cran.r-project.org/package=plotly): Create Interactive Web Graphics via 'plotly.js'
+
++ [{ggstance} 0.3.5](https://cran.r-project.org/package=ggstance): Horizontal 'ggplot2' Components
+
++ [{ggtext} 0.1.1](https://cran.r-project.org/package=ggtext): Improved Text Rendering Support for 'ggplot2'
+
++ [{bfsMaps} 0.9.6](https://cran.r-project.org/package=bfsMaps): Plot Maps from Switzerland by Swiss Federal Statistical Office
+
++ [{broom} 0.7.3](https://cran.r-project.org/package=broom): Convert Statistical Objects into Tidy Tibbles
+
++ [{psych} 2.0.12](https://cran.r-project.org/package=psych): Procedures for Psychological, Psychometric, and Personality
+Research
+
++ [{rmarkdown} 2.6](https://cran.r-project.org/package=rmarkdown): Dynamic Documents for R
+
 ###  Videos and Podcasts
 
 + [Tidy Tuesday live screencast: Analyzing Ninja Warrior in R](https://www.youtube.com/watch?v=4AhXvMsCooM)
@@ -111,6 +146,8 @@ Release Date: 2020-12-21
 + [R-Ladies Baltimore | Create and share reproducible code with workflowr | Naidoo, Fabris-Rotelli](https://www.youtube.com/watch?v=xY0jLTWMHkI)
 
 + [Hadley Wickham Visits R4DS #2 (2020-12-16)](https://www.youtube.com/watch?v=bq2kHz569mA)
+
++ [Don't write loops in R (part 2) with purrr::reduce](https://www.youtube.com/watch?v=vxaKamox_CQ)
 
 ### Gist & Cookbook
 
@@ -129,6 +166,8 @@ Release Date: 2020-12-21
 + [(Japanese) Visual Studio Codeを使ったR言語開発環境の利用ガイド (応用編)](https://qiita.com/Ikuyadeu/items/ac8f0852a953829151dd)
 
 + [(Arabic) أهمية تعلم لغة البرمجة آر وكيفية تثبيتها على جهازك – R programming language](https://e3arabi.com/%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9/%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%85-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A2%D8%B1-%D9%88%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA/)
+
++ [(German) R-Code parallelisieren mit parallel::clusterApply()](https://youtu.be/RyZJpLy0lMA) 
 
 ###  Tutorials
 
@@ -149,6 +188,16 @@ Release Date: 2020-12-21
 + [Convolutional LSTM for spatial forecasting](https://blogs.rstudio.com/ai/posts/2020-12-17-torch-convlstm/)
 
 + [Using the tidyverse with Databases - Part I](https://sciencificity-blog.netlify.app/posts/2020-12-12-using-the-tidyverse-with-databases/)
+
++ [Performance comparison of dummy-var creation methods - Part 2](https://rsangole.netlify.app/post/2020/12/16/perf-benchmarking-dummy-variables-part-ii/) 
+
++ [Azure Functions with R and plumber](https://blog.revolutionanalytics.com/2020/12/azure-functions-with-r.html)
+
++ [Using Scheme from R via Guile and Rcpp](https://gallery.rcpp.org//articles/guile-via-rcpp/)
+
++ [Upcoming changes to tidytext: threat of COLLAPSE](https://juliasilge.com/blog/tidytext-collapse-change/)
+
++ [sparklyr 1.5: better dplyr interface, more sdf_* functions, and RDS-based serialization routines](https://blogs.rstudio.com/tensorflow/posts/2020-12-14-sparklyr-1.5.0-released)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
