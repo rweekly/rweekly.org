@@ -9,6 +9,8 @@ Release Date: 2020-12-21
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
+This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the RWeekly team members and contributors.
+
 ###  Highlight
 
 + [The targetopia: An R package ecosystem for democratized reproducible pipelines at scale](https://wlandau.github.io/posts/2020-12-14-targetopia/)
@@ -47,7 +49,7 @@ Release Date: 2020-12-21
 
 + [A Swiss version of the famous visualization «Land doesn't vote. People do.»](https://github.com/zumbov2/votemapswitzerland)
 
-![Swiss-electorate-map](https://cdn.jsdelivr.net/gh/rweekly/image/master/2020-51/swiss-map.png)
+![Swiss-electorate-map](https://cdn.jsdelivr.net/gh/rweekly/image/2020-51/swiss-map.png)
 
 + [How to set library path on a {parallel} R cluster](https://www.markvanderloo.eu/yaRb/2020/12/17/how-to-set-library-path-on-a-parallel-r-cluster/)
 
@@ -66,7 +68,7 @@ Release Date: 2020-12-21
 **CRAN**
 + [{postcards}](https://cran.r-project.org/package=postcards) 0.1.0: Create simple, beautiful personal websites and landing pages using only R Markdown. 
 
-![postcards-example](https://cdn.jsdelivr.net/gh/rweekly/image/master/2020-51/jolla-blue-preview.png)
+![postcards-example](https://cdn.jsdelivr.net/gh/rweekly/image/2020-51/jolla-blue-preview.png)
 
 + [{potential}](https://cran.r-project.org/package=potential) 0.1.0: Implementation of the Potential Model.
 
@@ -98,12 +100,11 @@ Release Date: 2020-12-21
 
 + [{cjpowR}](https://github.com/m-freitag/cjpowR):  A Priori Power Analyses for Conjoint Experiments.
 
-
 ### Updated Packages
 
 + [{tinytest}](https://cran.r-project.org/package=tinytest) 1.2.4: light weight, dependency free unit testing.
   
-![screenshot of tinytest, testing tinytest](https://cdn.jsdelivr.net/gh/rweekly/image/master/2020-51/tinytest.png)
+![screenshot of tinytest, testing tinytest](https://cdn.jsdelivr.net/gh/rweekly/image/2020-51/tinytest.png)
 
 + [{nomnoml}](https://cran.r-project.org/package=nomnoml) 0.2.3: A tool for drawing sassy 'UML' diagrams based on a simple syntax.
 
@@ -176,7 +177,7 @@ Research
 
 + [10 years of brick-built LEGO Christmas Trees](https://www.ryantimpe.com/post/legochristmas1/)
 
-![lego-christmas-tree](https://cdn.jsdelivr.net/gh/rweekly/image/master/2020-51/tree_distribution.png)
+![lego-christmas-tree](https://cdn.jsdelivr.net/gh/rweekly/image/2020-51/tree_distribution.png)
 
 + [The targetopia: An R package ecosystem for democratized reproducible pipelines at scale](https://wlandau.github.io/posts/2020-12-14-targetopia/)
 
@@ -206,7 +207,6 @@ Research
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
@@ -218,7 +218,6 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
 
 ###  Call for Participation
 
