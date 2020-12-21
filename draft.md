@@ -47,6 +47,8 @@ Release Date: 2020-12-21
 
 + [A Swiss version of the famous visualization «Land doesn't vote. People do.»](https://github.com/zumbov2/votemapswitzerland)
 
+![Swiss-electorate-map](https://cdn.jsdelivr.net/gh/rweekly/image/master/2020-51/swiss-map.png)
+
 + [How to set library path on a {parallel} R cluster](https://www.markvanderloo.eu/yaRb/2020/12/17/how-to-set-library-path-on-a-parallel-r-cluster/)
 
 + [What's new in {dbplyr} 2.0.0](https://www.dropbox.com/s/s1o70fzrkgaxmwf/maverick_gbug-lightning-dbplyr-2.pdf?dl=0)
@@ -57,7 +59,6 @@ Release Date: 2020-12-21
 
 + [R Discord Server](https://discord.gg/xKC9zEYsZP)
 
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -65,7 +66,7 @@ Release Date: 2020-12-21
 **CRAN**
 + [{postcards}](https://cran.r-project.org/package=postcards) 0.1.0: Create simple, beautiful personal websites and landing pages using only R Markdown. 
 
-![]()
+![postcards-example](https://cdn.jsdelivr.net/gh/rweekly/image/master/2020-51/jolla-blue-preview.png)
 
 + [{potential}](https://cran.r-project.org/package=potential) 0.1.0: Implementation of the Potential Model.
 
@@ -101,7 +102,8 @@ Release Date: 2020-12-21
 ### Updated Packages
 
 + [{tinytest}](https://cran.r-project.org/package=tinytest) 1.2.4: light weight, dependency free unit testing.
-  ![screenshot of tinytest, testing tinytest](https://pbs.twimg.com/media/Epdn3eSXIAAW8W0?format=png&name=small)
+  
+![screenshot of tinytest, testing tinytest](https://cdn.jsdelivr.net/gh/rweekly/image/master/2020-51/tinytest.png)
 
 + [{nomnoml}](https://cran.r-project.org/package=nomnoml) 0.2.3: A tool for drawing sassy 'UML' diagrams based on a simple syntax.
 
@@ -152,10 +154,6 @@ Research
 
 + [Finding a Fatal Bug in {shiny}'s observeEvent() [Part 1]](https://www.youtube.com/watch?v=sEf5ay1yVeQ)
 
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [Kick Out Tracking: Where do catch-and-shoot threes come from?](https://crumpledpaperjumper.shinyapps.io/PassTo3/)
@@ -178,7 +176,7 @@ Research
 
 + [10 years of brick-built LEGO Christmas Trees](https://www.ryantimpe.com/post/legochristmas1/)
 
-![]()
+![lego-christmas-tree](https://cdn.jsdelivr.net/gh/rweekly/image/master/2020-51/tree_distribution.png)
 
 + [The targetopia: An R package ecosystem for democratized reproducible pipelines at scale](https://wlandau.github.io/posts/2020-12-14-targetopia/)
 
@@ -222,15 +220,7 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
-
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
