@@ -9,10 +9,13 @@ Release Date: 2020-12-21
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-
 ###  Highlight
 
++ [The targetopia: An R package ecosystem for democratized reproducible pipelines at scale](https://wlandau.github.io/posts/2020-12-14-targetopia/)
 
++ [Extracting JSON data from websites and public APIs with R](https://themockup.blog/posts/2020-12-13-extracting-json-from-websites-and-public-apis-with-r/)
+
++ [{ggrepel}](https://cran.r-project.org/package=ggrepel): Automatically Position Non-Overlapping Text Labels with 'ggplot2'.
 
 ### Insights
 
@@ -35,10 +38,6 @@ Release Date: 2020-12-21
 + [Digging into BVB Dortmund Football Club's Tweets with R](https://soroosj.netlify.app/2020/12/12/twitter/)
 
 + [Cross National Death Rates](https://kieranhealy.org/blog/archives/2020/12/18/cross-national-death-rates/)
-
-###  R in Organizations
-
-
 
 ###  R in Academia
 
@@ -65,6 +64,8 @@ Release Date: 2020-12-21
 
 **CRAN**
 + [{postcards}](https://cran.r-project.org/package=postcards) 0.1.0: Create simple, beautiful personal websites and landing pages using only R Markdown. 
+
+![]()
 
 + [{potential}](https://cran.r-project.org/package=potential) 0.1.0: Implementation of the Potential Model.
 
@@ -149,6 +150,8 @@ Research
 
 + [Don't write loops in R (part 2) with purrr::reduce](https://www.youtube.com/watch?v=vxaKamox_CQ)
 
++ [Finding a Fatal Bug in {shiny}'s observeEvent() [Part 1]](https://www.youtube.com/watch?v=sEf5ay1yVeQ)
+
 ### Gist & Cookbook
 
 
@@ -156,8 +159,6 @@ Research
 ### Shiny Apps
 
 + [Kick Out Tracking: Where do catch-and-shoot threes come from?](https://crumpledpaperjumper.shinyapps.io/PassTo3/)
-
-![]()
 
 ### R Internationally
 
@@ -176,6 +177,8 @@ Research
 + [{torch} 0.2.0 - Initial JIT support and many bug fixes](https://blogs.rstudio.com/ai/posts/2020-12-15-torch-0.2.0-released/)
 
 + [10 years of brick-built LEGO Christmas Trees](https://www.ryantimpe.com/post/legochristmas1/)
+
+![]()
 
 + [The targetopia: An R package ecosystem for democratized reproducible pipelines at scale](https://wlandau.github.io/posts/2020-12-14-targetopia/)
 
