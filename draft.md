@@ -76,29 +76,29 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [{readrba}](https://cran.r-project.org/package=readrba) 0.1.0: Download tidy data from the Reserve Bank of Australia.
 
-+ [{shinyfullscreen} 1.0.0](https://cran.r-project.org/package=shinyfullscreen): Display 'HTML' Elements on Full Screen in 'Shiny' Apps.
++ [{shinyfullscreen}](https://cran.r-project.org/package=shinyfullscreen) 1.0.0: Display 'HTML' Elements on Full Screen in 'Shiny' Apps.
 
-+ [{brolgar} 0.1.0](https://cran.r-project.org/package=brolgar): Browse Over Longitudinal Data Graphically and Analytically in R.
++ [{brolgar}](https://cran.r-project.org/package=brolgar) 0.1.0: Browse Over Longitudinal Data Graphically and Analytically in R.
 
-+ [{dataReporter} 1.0.0](https://cran.r-project.org/package=dataReporter): Reproducible Data Screening Checks and Report of Possible Errors.
++ [{dataReporter}](https://cran.r-project.org/package=dataReporter) 1.0.0]: Reproducible Data Screening Checks and Report of Possible Errors.
 
-+ [{webfakes} 1.1.1](https://cran.r-project.org/package=webfakes): Fake Web Apps for HTTP Testing
++ [{webfakes}](https://cran.r-project.org/package=webfakes) 1.1.1: Fake Web Apps for HTTP Testing
 
 **GitHub or Bitbucket**
 
-+ [{ggambit}](https://github.com/cj-holmes/ggambit): Visualise FEN chess positions with ggplot2.
++ [{ggambit}](https://github.com/cj-holmes/ggambit) 0.1.0: Visualise FEN chess positions with ggplot2.
 
-+ [{tabnet}](https://github.com/mlverse/tabnet/):  An R implementation of TabNet.
++ [{tabnet}](https://github.com/mlverse/tabnet/) 0.0.1: An R implementation of TabNet.
 
-+ [{prompter}](https://github.com/etiennebacher/prompter): Implementation of "Hint.css" to create tooltips in Shiny apps.
++ [{prompter}](https://github.com/etiennebacher/prompter) 0.0.0.9000: Implementation of "Hint.css" to create tooltips in Shiny apps.
 
-+ [{proceduralnames}](https://github.com/mikemahoney218/proceduralnames): Several Methods for Procedural Name Generation.
++ [{proceduralnames}](https://github.com/mikemahoney218/proceduralnames) 0.1.0: Several Methods for Procedural Name Generation.
 
 + [{edgebundle}](https://github.com/schochastics/edgebundle) 0.0.1.9000: R package implementing edge bundling algorithms.
 
-+ [{stockfish}](https://github.com/curso-r/stockfish): An R package to analyze chess games with the Stockfish engine.
++ [{stockfish}](https://github.com/curso-r/stockfish) 0.1.0.9000: An R package to analyze chess games with the Stockfish engine.
 
-+ [{cjpowR}](https://github.com/m-freitag/cjpowR):  A Priori Power Analyses for Conjoint Experiments.
++ [{cjpowR}](https://github.com/m-freitag/cjpowR) 1.0.0:  A Priori Power Analyses for Conjoint Experiments.
 
 ### Updated Packages
 
@@ -112,30 +112,30 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [{DataEditR}](https://cran.r-project.org/package=DataEditR) 0.0.9: An Interactive Editor for Viewing, Entering, Filtering & Editing Data.
 
-+ [{sfnetworks}](https://github.com/luukvdmeer/sfnetworks): Tidy Geospatial Networks in R.
++ [{sfnetworks}](https://github.com/luukvdmeer/sfnetworks) 0.4.0: Tidy Geospatial Networks in R.
 
-+ [{osrm}](https://cran.r-project.org/package=osrm): Interface Between R and the OpenStreetMap-Based Routing Service OSRM.
++ [{osrm}](https://cran.r-project.org/package=osrm) 3.4.0: Interface Between R and the OpenStreetMap-Based Routing Service OSRM.
 
-+ [{testthat}](https://cran.r-project.org/package=testthat): Unit Testing for R.
++ [{testthat}](https://cran.r-project.org/package=testthat) 3.0.1: Unit Testing for R.
 
-+ [{ggrepel}](https://cran.r-project.org/package=ggrepel): Automatically Position Non-Overlapping Text Labels with 'ggplot2'.
++ [{ggrepel}](https://cran.r-project.org/package=ggrepel) 0.9.0: Automatically Position Non-Overlapping Text Labels with 'ggplot2'.
 
-+ [{tvthemes} 1.1.1](https://cran.r-project.org/package=tvthemes): TV Show Themes and Color Palettes for 'ggplot2' Graphics
++ [{tvthemes}](https://cran.r-project.org/package=tvthemes) 1.1.1: TV Show Themes and Color Palettes for 'ggplot2' Graphics
 
-+ [{plotly} 4.9.2.2](https://cran.r-project.org/package=plotly): Create Interactive Web Graphics via 'plotly.js'
++ [{plotly}](https://cran.r-project.org/package=plotly) 4.9.2.2: Create Interactive Web Graphics via 'plotly.js'
 
-+ [{ggstance} 0.3.5](https://cran.r-project.org/package=ggstance): Horizontal 'ggplot2' Components
++ [{ggstance}](https://cran.r-project.org/package=ggstance) 0.3.5: Horizontal 'ggplot2' Components
 
-+ [{ggtext} 0.1.1](https://cran.r-project.org/package=ggtext): Improved Text Rendering Support for 'ggplot2'
++ [{ggtext}](https://cran.r-project.org/package=ggtext) 0.1.1: Improved Text Rendering Support for 'ggplot2'
 
-+ [{bfsMaps} 0.9.6](https://cran.r-project.org/package=bfsMaps): Plot Maps from Switzerland by Swiss Federal Statistical Office
++ [{bfsMaps}](https://cran.r-project.org/package=bfsMaps) 0.9.6: Plot Maps from Switzerland by Swiss Federal Statistical Office
 
-+ [{broom} 0.7.3](https://cran.r-project.org/package=broom): Convert Statistical Objects into Tidy Tibbles
++ [{broom}](https://cran.r-project.org/package=broom) 0.7.3: Convert Statistical Objects into Tidy Tibbles
 
-+ [{psych} 2.0.12](https://cran.r-project.org/package=psych): Procedures for Psychological, Psychometric, and Personality
++ [{psych}](https://cran.r-project.org/package=psych) 2.0.12: Procedures for Psychological, Psychometric, and Personality
 Research
 
-+ [{rmarkdown} 2.6](https://cran.r-project.org/package=rmarkdown): Dynamic Documents for R
++ [{rmarkdown}](https://cran.r-project.org/package=rmarkdown) 2.6: Dynamic Documents for R
 
 ###  Videos and Podcasts
 
