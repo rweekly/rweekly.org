@@ -56,7 +56,7 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
-
++ [Shiny Developer Series Episode 18: Tanya Cashorali](https://youtu.be/LjN1khZrppo)
 
 ### Gist & Cookbook
 
