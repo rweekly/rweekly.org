@@ -47,7 +47,7 @@ Release Date: 2020-00-00
 
 
 **GitHub or Bitbucket**
-
+[{Peak-Engines}](https://github.com/rnburn/peak-engines) 0.2.8: Efficiently tune hyperparameters for GLMs to optimize leave-one-out cross-validation.
 
 
 ### Updated Packages
