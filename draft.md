@@ -23,6 +23,8 @@ Release Date: 2020-00-00
 
 + [Top 10 tips to make your R package even more awesome](https://martinctc.github.io/blog/make-package-even-more-awesome/)
 
++ [Top 10 tips to make your R package even more awesome](https://martinctc.github.io/blog/make-package-even-more-awesome/)
+
 ### R in the Real World
 
 + [Shiny in production for commercial clients by @ellis2013nz](http://freerangestats.info/blog/2020/12/21/rmit-dashboard)
@@ -41,6 +43,8 @@ Release Date: 2020-00-00
 
 + [November: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2020/12/22/november-top-40-new-cran-packages/)
 
+
++ [A Collection of Simple R Shortcuts](http://karolis.koncevicius.lt/posts/collection_of_simple_r_shortcuts/)
 
 ###  New Packages
 
@@ -71,7 +75,11 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-[{Peak-Engines}](https://github.com/rnburn/peak-engines) 0.2.8: Efficiently tune hyperparameters for GLMs to optimize leave-one-out cross-validation.
+[{Peak-Engines}](https://github.com/rnburn/peak-engines): Efficiently tune hyperparameters for GLMs to optimize leave-one-out cross-validation.
+
++ [{cyberpunk}](https://github.com/r-coderdotcom/cyberpunk): A function to create cyberpunk-style graphs with R based on ggplot2
+
+
 
 
 ### Updated Packages
@@ -93,9 +101,17 @@ Release Date: 2020-00-00
 
 + [Shiny Developer Series Episode 18: Tanya Cashorali](https://youtu.be/LjN1khZrppo)
 
-+ [Loops have a bad reputation in R for being slow. In many cases, loops can be avoided using vectorized functions or apply functions like lapply or the map family of functions from the purrr package. However, if you encounter R code that runs too slowly because of loops and you find it hard to rewrite the code to avoid loops, a quicker, yet powerful approach may be to make the loops run in parallel. We can do that using the foreach package by Michelle Wallig and Steve Weston.](https://youtu.be/0P5On0GJf14)
++ [Why R 2020 Discussion Panel - Statistical Misconceptions](http://whyr.pl//foundation/2020/Stats_Panel/)
 
-+ [The {purrr} package contains many useful functions that allow you to use functional programming in R. In this video, I'll be showing how to use reduce() to avoid writing slow and clunky loops. I'm also showing you the map2 function, as a bonus.](https://www.youtube.com/watch?v=vxaKamox_CQ)
++ [Why R 2020 Discussion Panel - Performance in R](http://whyr.pl/foundation/2020/Performance_Panel/)
+
++ [Why R 2020 Discussion Panel - Bioinformatics](http://whyr.pl/foundation/2020/Bio_Panel/)
+
++ [Why R 2020 Discussion Panel - Geospatial](http://whyr.pl/foundation/2020/Geo_Panel/)
+
++ [Introducing foreach package by Michelle Wallig and Steve Weston.](https://youtu.be/0P5On0GJf14)
+
++ [The {purrr} package contains many useful functions that allow you to use functional programming in R](https://www.youtube.com/watch?v=vxaKamox_CQ)
 
 ### Gist & Cookbook
 
@@ -113,11 +129,12 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [A guide for reproducible data analysis in Macedonian](https://www.discindo.org/post/2020-12-25-a-guide-for-reproducible-data-analysis-in-macedonian/)
+
 + [Using raster maths to calculate global aridity and changes in aridity over time in parts of Southern Africa.](https://www.painblogr.org/2020-12-15-climate-change)
 
 + [#6 How to install an R package (basics)](https://www.rinproduction.com/en/posts/006-install-an-r-package/)
 
-+ [Top 10 tips to make your R package even more awesome](https://martinctc.github.io/blog/make-package-even-more-awesome/)
 
 + [Writing Retro Games that run in the R Console](https://rolkra.github.io/R-Console-Gaming/)
 
