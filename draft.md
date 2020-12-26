@@ -73,6 +73,7 @@ Release Date: 2020-00-00
 ###  Tutorials
 
 + [Top 10 tips to make your R package even more awesome](https://martinctc.github.io/blog/make-package-even-more-awesome/)
++ [Writing Retro Games that run in the R Console](https://rolkra.github.io/R-Console-Gaming/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
