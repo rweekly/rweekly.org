@@ -17,13 +17,20 @@ Release Date: 2020-00-00
 ### Insights
 
 
++ [Latest News from the R Markdown Family](https://blog.rstudio.com/2020/12/21/rmd-news/)
+
++ [Winners of the 2020 RStudio Table Contest](https://blog.rstudio.com/2020/12/23/winners-of-the-2020-rstudio-table-contest/)
+
++ [Top 10 tips to make your R package even more awesome](https://martinctc.github.io/blog/make-package-even-more-awesome/)
 
 ### R in the Real World
 
++ [Shiny in production for commercial clients by @ellis2013nz](http://freerangestats.info/blog/2020/12/21/rmit-dashboard)
 
 
 ###  R in Organizations
 
++ [Newly certified instructors in December 2020](https://education.rstudio.com/blog/2020/12/november-2020-instructors/)
 
 
 ###  R in Academia
@@ -32,6 +39,7 @@ Release Date: 2020-00-00
 
 ###  Resources
 
++ [November: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2020/12/22/november-top-40-new-cran-packages/)
 
 
 ###  New Packages
@@ -40,6 +48,21 @@ Release Date: 2020-00-00
 
 **CRAN**
 
++ [{envi} ](https://cran.r-project.org/package=envi): Environmental Interpolation using Spatial Kernel Density Estimation
+
++ [{peruse} ](https://cran.r-project.org/package=peruse):  Sequence and Wide Data Iteration
+
++ [{erratum} ](https://cran.r-project.org/package=erratum): Handle Error and Warning Messages
+
++ [{CoMiRe} ](https://cran.r-project.org/package=CoMiRe): Convex Mixture Regression
+
++ [{rzentra} ](https://cran.r-project.org/package=rzentra):  Client for the 'ZENTRA Cloud' API
+
++ [{rfieldclimate} ](https://cran.r-project.org/package=rfieldclimate): Client for the 'FieldClimate' API
+
++ [{promethee123} ](https://cran.r-project.org/package=promethee123): PROMETHEE I, II, and III Methods
+
++ [{peacesciencer} ](https://cran.r-project.org/package=peacesciencer): Various Tools and Data for Quantitative Peace Science
 
 
 **BioC**
@@ -47,16 +70,32 @@ Release Date: 2020-00-00
 
 
 **GitHub or Bitbucket**
+
 [{Peak-Engines}](https://github.com/rnburn/peak-engines) 0.2.8: Efficiently tune hyperparameters for GLMs to optimize leave-one-out cross-validation.
 
 
 ### Updated Packages
 
 
++ [{foreign} 0.8-80](https://cran.r-project.org/package=foreign): Read Data Stored by 'Minitab', 'S', 'SAS', 'SPSS', 'Stata',
+'Systat', 'Weka', 'dBase'
+
++ [{bcv} 1.0.1](https://cran.r-project.org/package=bcv): Cross-Validation for the SVD (Bi-Cross-Validation)
+
++ [{Matrix} 1.2-18](https://cran.r-project.org/package=Matrix): Sparse and Dense Matrix Classes and Methods
+
++ [{mstrio} 11.2.2.1](https://cran.r-project.org/package=mstrio): Interface for 'MicroStrategy' REST API
+
++ [{plotly} 4.9.2.2](https://cran.r-project.org/package=plotly): Create Interactive Web Graphics via 'plotly.js'
+
 
 ###  Videos and Podcasts
 
 + [Shiny Developer Series Episode 18: Tanya Cashorali](https://youtu.be/LjN1khZrppo)
+
++ [Loops have a bad reputation in R for being slow. In many cases, loops can be avoided using vectorized functions or apply functions like lapply or the map family of functions from the purrr package. However, if you encounter R code that runs too slowly because of loops and you find it hard to rewrite the code to avoid loops, a quicker, yet powerful approach may be to make the loops run in parallel. We can do that using the foreach package by Michelle Wallig and Steve Weston.](https://youtu.be/0P5On0GJf14)
+
++ [The {purrr} package contains many useful functions that allow you to use functional programming in R. In this video, I'll be showing how to use reduce() to avoid writing slow and clunky loops. I'm also showing you the map2 function, as a bonus.](https://www.youtube.com/watch?v=vxaKamox_CQ)
 
 ### Gist & Cookbook
 
@@ -69,12 +108,50 @@ Release Date: 2020-00-00
 ### R Internationally
 
 
++ [(German) Schleifen parallelisieren in R mit foreach Running loops in parallel using the foreach construct.](https://youtu.be/xrfW-p0aJ4Q)
+
 
 ###  Tutorials
 
++ [Using raster maths to calculate global aridity and changes in aridity over time in parts of Southern Africa.](https://www.painblogr.org/2020-12-15-climate-change)
+
++ [#6 How to install an R package (basics)](https://www.rinproduction.com/en/posts/006-install-an-r-package/)
+
 + [Top 10 tips to make your R package even more awesome](https://martinctc.github.io/blog/make-package-even-more-awesome/)
+
 + [Writing Retro Games that run in the R Console](https://rolkra.github.io/R-Console-Gaming/)
 
++ [Playing with Roman numerals](http://r.iresmi.net/2020/12/25/playing-with-roman-numerals/)
+
++ [Covid-19 shinyapp](http://r-posts.com/covid-19-shinyapp/)
+
++ [Little useless-useful R functions – Word scrambler](https://tomaztsql.wordpress.com/2020/12/24/little-useless-useful-r-functions-word-scrambler/)
+
++ [Plotting from the command line — a new version of ‘graph’](https://radfordneal.wordpress.com/2020/12/22/plotting-from-the-command-line-a-new-version-of-graph/)
+
++ [Leveraging labelled data in R](https://www.pipinghotdata.com/posts/2020-12-23-leveraging-labelled-data-in-r)
+
++ [Exploring US COVID-19 Cases and Deaths](https://blog.rstudio.com/2020/12/23/exploring-us-covid-19-cases/)
+
++ [A shiny app for exploratory data analysis](https://statisticaloddsandends.wordpress.com/2020/12/22/a-shiny-app-for-exploratory-data-analysis/)
+
++ [2020-06  Letting Go of Type 1 Fonts](https://stattech.wordpress.fos.auckland.ac.nz/2020/12/23/2020-06-letting-go-of-type-1-fonts/)
+
++ [GooglyPlusPlus 2020!!](https://gigadom.in/2020/12/22/googlyplusplus-2020/)
+
++ [Learning R: Christmas Coding Challenge](https://blog.ephorie.de/learning-r-christmas-coding-challenge)
+
+
++ [M-F-E-O: postcards + distill](https://alison.rbind.io/post/2020-12-22-postcards-distill/)
+
+
++ [Phonetic Fieldwork and Experiments with the phonfieldwork Package for R](https://ropensci.org/blog/2020/12/22/phonfieldwork-phonetic-fieldwork-and-experiments/)
+
++ [Constrained randomization to evaulate the vaccine rollout in nursing homes](https://www.rdatagen.net/post/2020-12-22-constrained-randomization-to-evaulate-the-vaccine-rollout-in-nursing-homes/)
+
++ [Did the P-51 Mustang Defeat the Luftwaffe?](https://scweiss.blogspot.com/2020/12/did-p-51-mustang-defeat-luftwaffe.html)
+
++ [API client design: how to deal with lots of parameters?](https://recology.info/2020/12/api-client-params/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -107,3 +184,7 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Found the physical location for some R enthusiasts <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://t.co/D4FpLaQCC9">pic.twitter.com/D4FpLaQCC9</a></p>&mdash; Laura Bucci 🎄🦭 (@BucciSays) <a href="https://twitter.com/BucciSays/status/1342193042841866241?ref_src=twsrc%5Etfw">December 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>&#39;s tip of the day: <br><br>In <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> it&#39;s possible to visualize the variables&#39; distribution inside the View pane. <a href="https://t.co/vHh0J12nJi">pic.twitter.com/vHh0J12nJi</a></p>&mdash; Ihaddaden M. EL Fodil, Ph.D (@moh_fodil) <a href="https://twitter.com/moh_fodil/status/1342218268715712520?ref_src=twsrc%5Etfw">December 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
