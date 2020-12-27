@@ -9,30 +9,61 @@ Release Date: 2020-00-00
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
+This week’s release was curated by Wolfram King, with help from the R Weekly team members and contributors.
 
 ###  Highlight
-
-
-
-### Insights
-
 
 + [Latest News from the R Markdown Family](https://blog.rstudio.com/2020/12/21/rmd-news/)
 
 + [Winners of the 2020 RStudio Table Contest](https://blog.rstudio.com/2020/12/23/winners-of-the-2020-rstudio-table-contest/)
 
-+ [Top 10 tips to make your R package even more awesome](https://martinctc.github.io/blog/make-package-even-more-awesome/)
+###  Videos and Podcasts
+
++ [Shiny Developer Series Episode 18: Tanya Cashorali](https://youtu.be/LjN1khZrppo)  - How Shiny has brought significant value to projects of all scales with the founder of TCB Analytics Tanya Cashorali! Hands-on demonstrations of applications Tanya built to achieve rapid prototypes and production-level dashboards ready for customers across a wide range of industries. We also hear Tanya's advice on development techniques and which skills she recommends developers level up with.
+
++ [Why R 2020 Discussion Panel - Statistical Misconceptions](http://whyr.pl//foundation/2020/Stats_Panel/)
+
++ [Why R 2020 Discussion Panel - Performance in R](http://whyr.pl/foundation/2020/Performance_Panel/)
+
+![Why R 2020 Discussion Panel - Performance in R](https://raw.githubusercontent.com/rweekly/image/master/2020/performance.png)
+
++ [Why R 2020 Discussion Panel - Bioinformatics](http://whyr.pl/foundation/2020/Bio_Panel/)
+
++ [Why R 2020 Discussion Panel - Geospatial](http://whyr.pl/foundation/2020/Geo_Panel/)
+
++ [Running loops in parallel in R using foreach](https://youtu.be/0P5On0GJf14)
+
++ [Don't write loops in R (part 2) with purrr::reduce](https://www.youtube.com/watch?v=vxaKamox_CQ)
+
+### Insights
+
++ [Winners of the 2020 RStudio Table Contest](https://blog.rstudio.com/2020/12/23/winners-of-the-2020-rstudio-table-contest/)
+
+![Winners of the 2020 RStudio Table Contest](https://raw.githubusercontent.com/rweekly/image/master/2020/table-contest.png)
 
 + [Top 10 tips to make your R package even more awesome](https://martinctc.github.io/blog/make-package-even-more-awesome/)
+
 
 ### R in the Real World
 
-+ [Shiny in production for commercial clients by @ellis2013nz](http://freerangestats.info/blog/2020/12/21/rmit-dashboard)
++ [Shiny in production for commercial clients](http://freerangestats.info/blog/2020/12/21/rmit-dashboard)
 
++ [Covid-19 shinyapp](http://r-posts.com/covid-19-shinyapp/)
+
++ [Exploring US COVID-19 Cases and Deaths](https://blog.rstudio.com/2020/12/23/exploring-us-covid-19-cases/)
+
+
++ [Did the P-51 Mustang Defeat the Luftwaffe?](https://scweiss.blogspot.com/2020/12/did-p-51-mustang-defeat-luftwaffe.html)
+
+![Did the P-51 Mustang Defeat the Luftwaffe?](https://raw.githubusercontent.com/rweekly/image/master/2020/p51.png)
 
 ###  R in Organizations
 
 + [Newly certified instructors in December 2020](https://education.rstudio.com/blog/2020/12/november-2020-instructors/)
+
+![Newly certified instructors in December 2020](https://raw.githubusercontent.com/rweekly/image/master/2020/codebreaker.png)
+
++ [Latest News from the R Markdown Family](https://blog.rstudio.com/2020/12/21/rmd-news/)
 
 
 ###  R in Academia
@@ -43,7 +74,6 @@ Release Date: 2020-00-00
 
 + [November: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2020/12/22/november-top-40-new-cran-packages/)
 
-
 + [A Collection of Simple R Shortcuts](http://karolis.koncevicius.lt/posts/collection_of_simple_r_shortcuts/)
 
 ###  New Packages
@@ -52,21 +82,21 @@ Release Date: 2020-00-00
 
 **CRAN**
 
-+ [{envi} ](https://cran.r-project.org/package=envi): Environmental Interpolation using Spatial Kernel Density Estimation
++ [{envi}](https://cran.r-project.org/package=envi): Environmental Interpolation using Spatial Kernel Density Estimation
 
-+ [{peruse} ](https://cran.r-project.org/package=peruse):  Sequence and Wide Data Iteration
++ [{peruse}](https://cran.r-project.org/package=peruse):  Sequence and Wide Data Iteration
 
-+ [{erratum} ](https://cran.r-project.org/package=erratum): Handle Error and Warning Messages
++ [{erratum}](https://cran.r-project.org/package=erratum): Handle Error and Warning Messages
 
-+ [{CoMiRe} ](https://cran.r-project.org/package=CoMiRe): Convex Mixture Regression
++ [{CoMiRe}](https://cran.r-project.org/package=CoMiRe): Convex Mixture Regression
 
-+ [{rzentra} ](https://cran.r-project.org/package=rzentra):  Client for the 'ZENTRA Cloud' API
++ [{rzentra}](https://cran.r-project.org/package=rzentra):  Client for the 'ZENTRA Cloud' API
 
 + [{rfieldclimate} ](https://cran.r-project.org/package=rfieldclimate): Client for the 'FieldClimate' API
 
-+ [{promethee123} ](https://cran.r-project.org/package=promethee123): PROMETHEE I, II, and III Methods
++ [{promethee123}](https://cran.r-project.org/package=promethee123): PROMETHEE I, II, and III Methods
 
-+ [{peacesciencer} ](https://cran.r-project.org/package=peacesciencer): Various Tools and Data for Quantitative Peace Science
++ [{peacesciencer}](https://cran.r-project.org/package=peacesciencer): Various Tools and Data for Quantitative Peace Science
 
 
 **BioC**
@@ -75,12 +105,11 @@ Release Date: 2020-00-00
 
 **GitHub or Bitbucket**
 
-[{Peak-Engines}](https://github.com/rnburn/peak-engines): Efficiently tune hyperparameters for GLMs to optimize leave-one-out cross-validation.
++ [{Peak-Engines}](https://github.com/rnburn/peak-engines): Efficiently tune hyperparameters for GLMs to optimize leave-one-out cross-validation.
 
 + [{cyberpunk}](https://github.com/r-coderdotcom/cyberpunk): A function to create cyberpunk-style graphs with R based on ggplot2
 
-
-
+![cyberpunk](https://raw.githubusercontent.com/rweekly/image/master/2020/cyber-punk.png)
 
 ### Updated Packages
 
@@ -96,22 +125,6 @@ Release Date: 2020-00-00
 
 + [{plotly} 4.9.2.2](https://cran.r-project.org/package=plotly): Create Interactive Web Graphics via 'plotly.js'
 
-
-###  Videos and Podcasts
-
-+ [Shiny Developer Series Episode 18: Tanya Cashorali](https://youtu.be/LjN1khZrppo)
-
-+ [Why R 2020 Discussion Panel - Statistical Misconceptions](http://whyr.pl//foundation/2020/Stats_Panel/)
-
-+ [Why R 2020 Discussion Panel - Performance in R](http://whyr.pl/foundation/2020/Performance_Panel/)
-
-+ [Why R 2020 Discussion Panel - Bioinformatics](http://whyr.pl/foundation/2020/Bio_Panel/)
-
-+ [Why R 2020 Discussion Panel - Geospatial](http://whyr.pl/foundation/2020/Geo_Panel/)
-
-+ [Introducing foreach package by Michelle Wallig and Steve Weston.](https://youtu.be/0P5On0GJf14)
-
-+ [The {purrr} package contains many useful functions that allow you to use functional programming in R](https://www.youtube.com/watch?v=vxaKamox_CQ)
 
 ### Gist & Cookbook
 
@@ -133,6 +146,8 @@ Release Date: 2020-00-00
 
 + [Using raster maths to calculate global aridity and changes in aridity over time in parts of Southern Africa.](https://www.painblogr.org/2020-12-15-climate-change)
 
+![Using raster maths to calculate global aridity and changes in aridity over time in parts of Southern Africa.](https://raw.githubusercontent.com/rweekly/image/master/2020/raster-data.png)
+
 + [#6 How to install an R package (basics)](https://www.rinproduction.com/en/posts/006-install-an-r-package/)
 
 
@@ -140,7 +155,6 @@ Release Date: 2020-00-00
 
 + [Playing with Roman numerals](http://r.iresmi.net/2020/12/25/playing-with-roman-numerals/)
 
-+ [Covid-19 shinyapp](http://r-posts.com/covid-19-shinyapp/)
 
 + [Little useless-useful R functions – Word scrambler](https://tomaztsql.wordpress.com/2020/12/24/little-useless-useful-r-functions-word-scrambler/)
 
@@ -148,7 +162,11 @@ Release Date: 2020-00-00
 
 + [Leveraging labelled data in R](https://www.pipinghotdata.com/posts/2020-12-23-leveraging-labelled-data-in-r)
 
-+ [Exploring US COVID-19 Cases and Deaths](https://blog.rstudio.com/2020/12/23/exploring-us-covid-19-cases/)
+
++ [M-F-E-O: postcards + distill](https://alison.rbind.io/post/2020-12-22-postcards-distill/) - Create simple, beautiful personal websites and landing pages using only R Markdown
+
+![M-F-E-O: postcards + distill](https://raw.githubusercontent.com/rweekly/image/master/2020/postcard.png)
+
 
 + [A shiny app for exploratory data analysis](https://statisticaloddsandends.wordpress.com/2020/12/22/a-shiny-app-for-exploratory-data-analysis/)
 
@@ -158,15 +176,9 @@ Release Date: 2020-00-00
 
 + [Learning R: Christmas Coding Challenge](https://blog.ephorie.de/learning-r-christmas-coding-challenge)
 
-
-+ [M-F-E-O: postcards + distill](https://alison.rbind.io/post/2020-12-22-postcards-distill/)
-
-
 + [Phonetic Fieldwork and Experiments with the phonfieldwork Package for R](https://ropensci.org/blog/2020/12/22/phonfieldwork-phonetic-fieldwork-and-experiments/)
 
 + [Constrained randomization to evaulate the vaccine rollout in nursing homes](https://www.rdatagen.net/post/2020-12-22-constrained-randomization-to-evaulate-the-vaccine-rollout-in-nursing-homes/)
-
-+ [Did the P-51 Mustang Defeat the Luftwaffe?](https://scweiss.blogspot.com/2020/12/did-p-51-mustang-defeat-luftwaffe.html)
 
 + [API client design: how to deal with lots of parameters?](https://recology.info/2020/12/api-client-params/)
 
