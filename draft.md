@@ -114,6 +114,10 @@ This week’s release was curated by Wolfram King, with help from the R Weekly t
 ### Updated Packages
 
 
++ [{plotly} 4.9.2.2](https://cran.r-project.org/package=plotly): Create Interactive Web Graphics via 'plotly.js'
+
+![{plotly} 4.9.2.2](https://raw.githubusercontent.com/rweekly/image/master/2020/plotly.png)
+
 + [{foreign} 0.8-80](https://cran.r-project.org/package=foreign): Read Data Stored by 'Minitab', 'S', 'SAS', 'SPSS', 'Stata',
 'Systat', 'Weka', 'dBase'
 
@@ -122,9 +126,6 @@ This week’s release was curated by Wolfram King, with help from the R Weekly t
 + [{Matrix} 1.2-18](https://cran.r-project.org/package=Matrix): Sparse and Dense Matrix Classes and Methods
 
 + [{mstrio} 11.2.2.1](https://cran.r-project.org/package=mstrio): Interface for 'MicroStrategy' REST API
-
-+ [{plotly} 4.9.2.2](https://cran.r-project.org/package=plotly): Create Interactive Web Graphics via 'plotly.js'
-
 
 ### Gist & Cookbook
 
