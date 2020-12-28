@@ -32,6 +32,8 @@ Release Date: 2020-00-00
 
 ###  Resources
 
+- [Data Science Course in a Box](https://datasciencebox.org/)
+
 
 
 ###  New Packages
