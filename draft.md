@@ -16,6 +16,7 @@ Release Date: 2020-00-00
 
 ### Insights
 
++ [How has Covid-19 affected athletics performances in the UK?](https://www.hfshr.xyz/posts/2020-12-26-powerof10-covid/)
 
 
 ### R in the Real World
