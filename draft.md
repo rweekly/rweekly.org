@@ -32,6 +32,8 @@ Release Date: 2020-00-00
 
 ###  Resources
 
+- [Data Science Course in a Box](https://datasciencebox.org/)
+
 
 
 ###  New Packages
@@ -40,7 +42,7 @@ Release Date: 2020-00-00
 
 **CRAN**
 
-+ [{mapSpain} 0.1.1](https://cran.r-project.org/package=mapSpain): Administrative Boundaries of Spain at several levels (CCAA, Provinces, Municipalities). It also provides a 'leaflet' plugin and the ability of downloading and processing static tiles.
+
 
 **BioC**
 
@@ -72,9 +74,7 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
-+ [Creation of a custom visual CV by ggplot hacking](http://adomingues.github.io/2020/11/25/visual-cv/) 
 
-![A visual CV](http://adomingues.github.io/assets/img/visual_cv.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -87,7 +87,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [The Wild World of Data Repositories, rOpenSci community call, Wednesday, 16 December 2020 18:00 UTC](https://ropensci.org/commcalls/dec2020-datarepos/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
