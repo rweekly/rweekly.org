@@ -59,6 +59,7 @@ Release Date: 2020-00-00
 
 ###  Videos and Podcasts
 
+* [SatRday Columbus 2020 (playlist on YouTube)](https://bit.ly/satRdayColumbus2020)
 
 
 ### Gist & Cookbook
