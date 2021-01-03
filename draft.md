@@ -44,7 +44,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [A version of the famous visualization - Land doesn't vote, people do](https://github.com/zumbov2/votemapswitzerland)
 
-![A version of the famous visualization - Land doesn't vote, people do](https://cdn.jsdelivr.net/gh/zumbov2/votemapswitzerland@raw/main/animation2.gif)
+![A version of the famous visualization - Land doesn't vote, people do](https://cdn.jsdelivr.net/gh/zumbov2/votemapswitzerland@main/animation2.gif)
 
 + [Meet the LEGO Art Mosaic Generator](https://joachim-gassen.github.io/2021/01/meet-lamg/)
 
