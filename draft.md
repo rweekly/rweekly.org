@@ -19,18 +19,22 @@ image: https://rweekly.org/public/facebook.png
 
 + [How has Covid-19 affected athletics performances in the UK?](https://www.hfshr.xyz/posts/2020-12-26-powerof10-covid/)
 
+![How has Covid-19 affected athletics performances in the UK?](https://raw.githubusercontent.com/rweekly/image/master/2021/W01/elite-performances-1.png)
+
 + [Up & running with blogdown in 2021](https://alison.rbind.io/post/new-year-new-blogdown/)
+
+![Up & running with blogdown in 2021](https://raw.githubusercontent.com/rweekly/image/master/2021/W01/blogdown.png)
 
 
 + [A year in review](http://www.brodrigues.co/blog/2020-12-30-year_review/)
 
 + [The making of that title race chart](https://austinwehrwein.com/data-visualization/makingoftitlerace/)
 
+![The making of that title race chart](https://raw.githubusercontent.com/rweekly/image/master/2021/W01/titlerace.png)
+
 + [2020 recap, Gradient Boosting, Generalized Linear Models, AdaOpt with nnetsauce and mlsauce](https://thierrymoudiki.github.io/blog/2020/12/29/python/r/misc/recap-2020-highlights)
 
 + [Correlation Analysis in R, Part 1: Basic Theory](https://dataenthusiast.ca/2021/correlation-analysis-in-r-part-1-basic-theory/)
-
-+ [Fast functions with pipes](https://www.seascapemodels.org/rstats/2020/12/29/pipe-functions.html)
 
 + [R Shiny {Golem} - Development to Production - Overview](https://www.stoltzmanconsulting.com/blog/2020/12/30/r-shiny-golem-development-to-production-overview)
 
@@ -40,7 +44,11 @@ image: https://rweekly.org/public/facebook.png
 
 + [A version of the famous visualization - Land doesn't vote, people do](https://github.com/zumbov2/votemapswitzerland)
 
+![A version of the famous visualization - Land doesn't vote, people do](https://cdn.jsdelivr.net/gh/zumbov2/votemapswitzerland@raw/main/animation2.gif)
+
 + [Meet the LEGO Art Mosaic Generator](https://joachim-gassen.github.io/2021/01/meet-lamg/)
+
+![Meet the LEGO Art Mosaic Generator](https://raw.githubusercontent.com/rweekly/image/master/2021/W01/lamg.png)
 
 + [Summarise the 2020 with R and rgl](https://medium.com/responsibleml/summarise-the-2020-with-r-and-rgl-6a0fd60d6dd4)
 
@@ -51,6 +59,8 @@ image: https://rweekly.org/public/facebook.png
 + [A Taste of GitHub Actions with an Automated Plot](https://amitlevinson.com/blog/automated-plot-with-github-actions/)
 
 + [Neighborhoods: Experimenting with Cyclic Cellular Automata](https://fronkonstin.com/2021/01/02/neighborhoods-experimenting-with-cyclic-cellular-automata/)
+
+![Neighborhoods: Experimenting with Cyclic Cellular Automata](https://raw.githubusercontent.com/rweekly/image/master/2021/W01/neigh.png)
 
 + [RObservations #6- #TidyTuesday – Analyzing data on the Australian Bush Fires](https://bensstats.wordpress.com/2021/01/01/robservations-6-tidytuesday-analyzing-data-on-the-australian-bush-fires/)
 
@@ -74,7 +84,7 @@ image: https://rweekly.org/public/facebook.png
 
 ###  Resources
 
-- [Data Science Course in a Box](https://datasciencebox.org/)
++ [Data Science Course in a Box](https://datasciencebox.org/) - The core content of the course focuses on data acquisition and wrangling, exploratory data analysis, data visualization, inference, modelling, and effective communication of results.
 
 
 
@@ -111,6 +121,7 @@ image: https://rweekly.org/public/facebook.png
 
 * [SatRday Columbus 2020 (playlist on YouTube)](https://bit.ly/satRdayColumbus2020)
 
++ [Running R Code in Parallel: What if run times differ? clusterApplyLB](https://youtu.be/7FF3qDkMTOM)
 
 ### Gist & Cookbook
 
@@ -128,7 +139,6 @@ image: https://rweekly.org/public/facebook.png
 
 + [abs and relu are not Mercer Kernels](https://win-vector.com/2020/12/25/abs-and-relu-are-not-mercer-kernels/)
 
-+ [Running R Code in Parallel: What if run times differ? clusterApplyLB](https://youtu.be/7FF3qDkMTOM)
 
 + [How to use $ (dollar sign) in R: 6 Examples – list & dataframe](https://www.marsja.se/how-to-use-dollar-sign-in-r-examples-list-dataframe/)
 
@@ -141,6 +151,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [Age Stratified All-Cause and COVID-19 Associated Mortality](http://staff.math.su.se/hoehle/blog/2020/12/28/mort.html)
 
+![Age Stratified All-Cause and COVID-19 Associated Mortality](https://raw.githubusercontent.com/rweekly/image/master/2021/W01/mort.png)
 
 + [Unbreak your blogdown site](https://alison.rbind.io/post/2020-12-27-blogdown-checks/)
 
@@ -155,9 +166,13 @@ image: https://rweekly.org/public/facebook.png
 
 + [Introduction to USgas Package](https://ramikrispin.github.io/2020/12/intro-to-usgas/)
 
+![Introduction to USgas Package](https://raw.githubusercontent.com/rweekly/image/master/2021/W01/usgas.png)
+
 + [Plotting Time Series in R](https://www.business-science.io/code-tools/2020/12/30/ggplot-theme.html)
 
 + [Geo maps with R and Leaflet](https://appsilon.com/leaflet-geomaps/)
+
+![Geo maps with R and Leaflet](https://raw.githubusercontent.com/rweekly/image/master/2021/W01/geomap.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
