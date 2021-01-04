@@ -63,7 +63,7 @@ image: https://rweekly.org/public/facebook.png
 
 ### Shiny Apps
 
-
+- 2020 in Headlines: [app](https://minecr.shinyapps.io/2020-in-headlines/) [blog post](https://mugecetinkaya.medium.com/this-is-how-you-create-a-one-year-long-newspaper-8a3088e2b050)
 
 ### R Internationally
 
