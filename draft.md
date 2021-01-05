@@ -39,6 +39,7 @@ image: https://rweekly.org/public/facebook.png
 
 **CRAN**
 
++ [proceduralnames](cran.r-project.org/package=proceduralnames): A small, dependency-free way to generate random names.
 
 
 **BioC**
