@@ -36,6 +36,7 @@ image: https://rweekly.org/public/facebook.png
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+
 + [{footprint} 0.1](https://cran.r-project.org/package=footprint): Calculate Air Travel Emissions
 + [{SAMGEP} 0.1.0-1](https://cran.r-project.org/package=SAMGEP): A Semi-Supervised Method for Prediction of Phenotype Event Times
 + [{ProSGPV} 0.1.0](https://cran.r-project.org/package=ProSGPV): Penalized Regression with Second-Generation P-Values
