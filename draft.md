@@ -19,7 +19,7 @@ image: https://rweekly.org/public/facebook.png
 
 ### R in the Real World
 
-
++ [Predicting the outcome of the English Premier League by using Monte Carlo Method (in R)](https://kristfmenyhrt.medium.com/predicting-the-outcome-of-the-english-premier-league-by-using-monte-carlo-method-in-r-638fbc90fd37)
 
 ###  R in Organizations
 
@@ -286,7 +286,7 @@ Regression
 + [{extRatum} 1.0.2](https://cran.r-project.org/package=extRatum): Summary Statistics for Geospatial Features
 + [{tapkee} 1.2](https://cran.r-project.org/package=tapkee): Wrapper for 'tapkee' Dimension Reduction Library
 + [{shipunov} 1.13](https://cran.r-project.org/package=shipunov): Miscellaneous Functions from Alexey Shipunov
-
++ [{ggeasy} 0.1.3](https://cran.r-project.org/package=ggeasy): Easy Access to 'ggplot2' Commands
 
 **BioC**
 
@@ -294,7 +294,9 @@ Regression
 
 **GitHub or Bitbucket**
 
++ [{gibboda}](https://github.com/bryandmartin/gibboda):  Gender Isn't Binary But Other Data Are.
 
++ [{vegadown}](https://github.com/vegawidget/vegadown/): 'knitr' Engine to Render 'YAML' and 'JSON' into 'Vega'.
 
 ### Updated Packages
 
@@ -302,7 +304,7 @@ Regression
 
 ###  Videos and Podcasts
 
-
++ [How to run 100 regressions without loops in R](https://www.youtube.com/watch?v=vtxb1j0aqJM)
 
 ### Gist & Cookbook
 
@@ -312,13 +314,17 @@ Regression
 
 - 2020 in Headlines: [app](https://minecr.shinyapps.io/2020-in-headlines/) [blog post](https://mugecetinkaya.medium.com/this-is-how-you-create-a-one-year-long-newspaper-8a3088e2b050)
 
++ [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library): Relevant research in the soccer analytics space.
+
++ [In Review: Your 2020 on Twitter](https://gadenbuie.shinyapps.io/tweets-of-the-year/)
+
 ### R Internationally
 
-
++ [(Japanese) "polite"で守るWebスクレイピングのエチケット](https://watagusa.hatenablog.com/entry/2021/01/01/183001)
 
 ###  Tutorials
 
-
++ [Rtini Part II: Vectorize the Absolute $#!+ Out of This](https://www.brodieg.com/2021/01/04/mesh-red-vec/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
