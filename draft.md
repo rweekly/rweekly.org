@@ -8,6 +8,11 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
+This week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.
+
+### Random links:
+
+
 
 ###  Highlight
 
@@ -15,40 +20,103 @@ image: https://rweekly.org/public/facebook.png
 
 ### Insights
 
-
++ [Using the bootstrap for bias reduction](http://elbersb.de/public/posts/bootstrap-bias/)
++ [rOpenSci 2020 Code of Conduct Transparency Report](https://ropensci.org/blog/2021/01/07/transparency2020/)
++ [rOpenSci Code of Conduct Annual Review](https://ropensci.org/blog/2021/01/07/conduct2021/)
++ [COVID-19 Data: The Long Run](https://rviews.rstudio.com/2021/01/06/covid-19-data-the-long-run/)
+<!-- photo -->
++ [Lilliefors, Kolmogorov-Smirnov and cross-validation](https://freakonometrics.hypotheses.org/61664)
++ [Coming soon: effortlessly generate ordinal data without assuming proportional odds](https://www.rdatagen.net/post/2021-01-05-coming-soon-new-feature-to-easily-generate-cumulative-odds-without-proportionality-assumption/)
++ [Bringing R to Swift on macOS](https://rud.is/b/2021/01/04/bringing-r-to-swift-on-macos/)
+<!-- Highlight -->
++ [Most popular posts for 2020](https://eranraviv.com/popular-posts-2020/)
 
 ### R in the Real World
 
 + [Predicting the outcome of the English Premier League by using Monte Carlo Method (in R)](https://kristfmenyhrt.medium.com/predicting-the-outcome-of-the-english-premier-league-by-using-monte-carlo-method-in-r-638fbc90fd37)
++ [IMDb datasets: 3 centuries of movie rankings visualized](https://novyden.blogspot.com/2021/01/imdb-datasets-3-centuries-of-movie.html)
++ [Exploring the game “First Orchard” with simulation in R](https://statisticaloddsandends.wordpress.com/2021/01/06/exploring-the-game-first-orchard-with-simulation-in-r/)
++ [F1 2020 Season Review](https://theparttimeanalyst.com/2021/01/04/f1-2020-season-review/)
++ [Predicting injuries for Chicago traffic crashes](https://juliasilge.com/blog/chicago-traffic-model/)
+<!-- Highlight -->
 
 ###  R in Organizations
 
-
++ [Professional Financial Reports with RMarkdown](https://technistema.com/posts/professional-financial-reports-with-rmarkdown/)
 
 ###  R in Academia
 
++ [Finding Economic Articles with Data and Specific Empirical Methods](http://skranz.github.io//r/2021/01/05/FindingEconomicArticles4.html)
 
+###  Tutorials
+
++ [Rtini Part II: Vectorize the Absolute $#!+ Out of This](https://www.brodieg.com/2021/01/04/mesh-red-vec/)
++ [Automatic Rendering of a Plot with GitHub Actions](https://amitlevinson.com/blog/automated-plot-with-github-actions/)
+<!-- Highlight -->
++ [Safety Checking Locally Installed Package URLs](https://rud.is/b/2021/01/08/safety-checking-locally-installed-package-urls/)
++ [Portable Continuous Integration using r-ci](http://dirk.eddelbuettel.com/blog/2021/01/07#032_portable_ci_with_r-ci)
++ [Smoothing isn’t Always Safe](https://win-vector.com/2021/01/07/smoothing-isnt-always-safe/)
++ [Isovists using uniform ray casting in R](http://r-posts.com/isovists-using-uniform-ray-casting-in-r/)
++ [Custom Google Analytics Dashboards with R: Building The Dashboard](https://blog.rstudio.com/2021/01/06/google-analytics-part2/)
++ [The Nature of Overfitting](https://win-vector.com/2021/01/04/the-nature-of-overfitting/)
++ [Little useless-useful R functions – Playing stack of cards](https://tomaztsql.wordpress.com/2021/01/03/little-useless-useful-r-functions-playing-stack-of-cards/)
++ [Little useless-useful R functions – Mathematical puzzle of Four fours](https://tomaztsql.wordpress.com/2021/01/07/little-useless-useful-r-functions-mathematical-puzzle-of-four-fours/)
++ [Tutorial: Adding Open Street Map Data to Rayshader Maps in R](https://www.tylermw.com/adding-open-street-map-data-to-rayshader-maps-in-r/)
+<!-- Highlight + photo -->
++ [Create a simple R data package during a coffee break in 7 steps](https://petrkajzar.eu/en/2021/data-rpkg.html)
+<!-- Highlight -->
 
 ###  Resources
 
++ [future.BatchJobs - End-of-Life Announcement](https://www.jottr.org/2021/01/08/future.batchjobs-end-of-life-announcement/)
 
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+**CRAN**
+
++ [{APCI} 0.1.0](https://cran.r-project.org/package=APCI): A New Age-Period-Cohort Model for Describing and Investigating
+Inter-Cohort Differences and Life Course Dynamics
++ [{tabulator} 1.0.0](https://cran.r-project.org/package=tabulator): Efficient Tabulation with Stata-Like Output
++ [{tablet} 0.2.0](https://cran.r-project.org/package=tablet): Tabulate Descriptive Statistics in Multiple Formats
++ [{read.gt3x} 1.0.1](https://cran.r-project.org/package=read.gt3x): Parse 'Actigraph' 'GT3X'/'GT3X+' 'Accelerometer' Data
++ [{matrixdist} 1.0](https://cran.r-project.org/package=matrixdist): Statistics for Matrix Distributions
++ [{mactivate} 0.6.4](https://cran.r-project.org/package=mactivate): Multiplicative Activation
++ [{RandomForestsGLS} 0.1.0](https://cran.r-project.org/package=RandomForestsGLS): Random Forests for Dependent Data
++ [{KPC} 0.1.0](https://cran.r-project.org/package=KPC): Kernel Partial Correlation Coefficient
++ [{GBcurves} 0.1.0](https://cran.r-project.org/package=GBcurves): Yield Curves of Brazil, China, and Russia
++ [{eatRep} 0.13.4](https://cran.r-project.org/package=eatRep): Educational Assessment Tools for Replication Methods
++ [{CauchyCP} 0.1.0](https://cran.r-project.org/package=CauchyCP): Powerful Test for Survival Data under Non-Proportional Hazards
++ [{vimpclust} 0.1.0](https://cran.r-project.org/package=vimpclust): Variable Importance in Clustering
++ [{sfcr} 0.1.1](https://cran.r-project.org/package=sfcr): Simulate Stock-Flow Consistent Models
++ [{mgss} 1.0](https://cran.r-project.org/package=mgss): A Matrix-Free Multigrid Preconditioner for Spline Smoothing
++ [{cragg} 0.0.1](https://cran.r-project.org/package=cragg): Tests for Weak Instruments in R
++ [{Rcurvep} 1.2.0](https://cran.r-project.org/package=Rcurvep): Concentration-Response Data Analysis using Curvep
++ [{peopleanalyticsdata} 0.1.0](https://cran.r-project.org/package=peopleanalyticsdata): Data Sets for Keith McNulty's Handbook of Regression Modeling in
+People Analytics
++ [{VARMER} 0.1.0](https://cran.r-project.org/package=VARMER): Variational Merging
++ [{PEACH} 0.1.1](https://cran.r-project.org/package=PEACH): Pareto Enrichment Analysis for Combining Heterogeneous Datasets
++ [{nbapalettes} 0.1.0](https://cran.r-project.org/package=nbapalettes): An NBA Jersey Palette Generator
++ [{PheNorm} 0.1.0](https://cran.r-project.org/package=PheNorm): Unsupervised Gold-Standard Label Free Phenotyping Algorithm for
+EHR Data
++ [{nmm} 0.9](https://cran.r-project.org/package=nmm): Nonlinear Multivariate Models
++ [{ccid} 1.0.0](https://cran.r-project.org/package=ccid): Cross-Covariance Isolate Detect: a New Change-Point Method for
+Estimating Dynamic Functional Connectivity
++ [{UPG} 0.2.2](https://cran.r-project.org/package=UPG): Efficient Bayesian Models for Binary and Categorical Data
 + [{footprint} 0.1](https://cran.r-project.org/package=footprint): Calculate Air Travel Emissions
 + [{SAMGEP} 0.1.0-1](https://cran.r-project.org/package=SAMGEP): A Semi-Supervised Method for Prediction of Phenotype Event Times
 + [{ProSGPV} 0.1.0](https://cran.r-project.org/package=ProSGPV): Penalized Regression with Second-Generation P-Values
 + [{noisyr} 0.1.0](https://cran.r-project.org/package=noisyr): Noise Quantification in High Throughput Sequencing Output
 + [{braidReports} 0.5.4](https://cran.r-project.org/package=braidReports): Visualize Combined Action Response Surfaces and Report BRAID
 Analyses
-+ [{excelstrippr} 0.1.1](https://cran.r-project.org/package=excelstrippr): Extracts Tabular Data from Excel Reports
++ [{excelstrippr} 0.1.2](https://cran.r-project.org/package=excelstrippr): Extracts Tabular Data from Excel Reports
 + [{WSGeometry} 1.0](https://cran.r-project.org/package=WSGeometry): Compute Wasserstein Barycenters, Geodesics, PCA and Distances
-+ [{proceduralnames} 0.1.0](https://cran.r-project.org/package=proceduralnames): Several Methods for Procedural Name Generation
++ [{proceduralnames} 0.1.1](https://cran.r-project.org/package=proceduralnames): Several Methods for Procedural Name Generation
 + [{ggmulti} 0.1.0](https://cran.r-project.org/package=ggmulti): High Dimensional Data Visualization
 + [{FuzzyQ} 0.1.0](https://cran.r-project.org/package=FuzzyQ): Fuzzy Quantification of Common and Rare Species
-+ [{disastr.api} 1.0.2](https://cran.r-project.org/package=disastr.api): Automated Retrieval of Disaster Event Data
++ [{disastr.api} 1.0.3](https://cran.r-project.org/package=disastr.api): Wrapper for the UN OCHA ReliefWeb Disaster Events API
 + [{BED} 1.4.3](https://cran.r-project.org/package=BED): Biological Entity Dictionary (BED)
 + [{arabic2kansuji} 0.1.0](https://cran.r-project.org/package=arabic2kansuji): Convert Arabic Numerals to Kansuji
 + [{pkgnews} 0.0.1](https://cran.r-project.org/package=pkgnews): Retrieve R Package News Files
@@ -56,14 +124,54 @@ Analyses
 + [{Crossover} 0.1-19](https://cran.r-project.org/package=Crossover): Analysis and Search of Crossover Designs
 + [{fdm2id} 0.9.5](https://cran.r-project.org/package=fdm2id): Data Mining and R Programming for Beginners
 
-**CRAN**
 
-+ [{valaddin} 1.0.0](https://cran.r-project.org/package=valaddin): Functional Input Validation
-+ [{stratamatch} 0.1.5](https://cran.r-project.org/package=stratamatch): Stratification and Matching for Large Observational Data Sets
-+ [{ProjectTemplate} 0.9.3](https://cran.r-project.org/package=ProjectTemplate): Automates the Creation of New Statistical Analysis Projects
-+ [{profileModel} 0.6.0](https://cran.r-project.org/package=profileModel): Profiling Inference Functions for Various Model Classes
-+ [{nofrills} 0.3.0](https://cran.r-project.org/package=nofrills): Low-Cost Anonymous Functions
-+ [{momentuHMM} 1.5.1](https://cran.r-project.org/package=momentuHMM): Maximum Likelihood Analysis of Animal Movement Behavior Using
+**BioC**
+
+
+
+**GitHub or Bitbucket**
+
++ [{gibboda}](https://github.com/bryandmartin/gibboda):  Gender Isn't Binary But Other Data Are.
++ [{vegadown}](https://github.com/vegawidget/vegadown/): 'knitr' Engine to Render 'YAML' and 'JSON' into 'Vega'.
++ [{quicknews}](https://github.com/jaytimm/quicknews): Some R-functions for navigating the online news landscape.]
+
+
+### Updated Packages
++ [{fastai} 2.0.2](https://cran.r-project.org/package=fastai): Interface to 'fastai'
++ [{fabricatr} 0.12.0](https://cran.r-project.org/package=fabricatr): Imagine Your Data Before You Collect It
++ [{Directional} 4.6](https://cran.r-project.org/package=Directional): A Collection of R Functions for Directional Data Analysis
++ [{Ball} 1.3.10](https://cran.r-project.org/package=Ball): Statistical Inference and Sure Independence Screening via Ball
+Statistics
++ [{TSPred} 5.0](https://cran.r-project.org/package=TSPred): Functions for Benchmarking Time Series Prediction
++ [{renv} 0.12.5](https://cran.r-project.org/package=renv): Project Environments
++ [{pcalg} 2.7-1](https://cran.r-project.org/package=pcalg): Methods for Graphical Models and Causal Inference
++ [{iCAMP} 1.3.4](https://cran.r-project.org/package=iCAMP): Infer Community Assembly Mechanisms by Phylogenetic-Bin-Based
+Null Model Analysis
++ [{highfrequency} 0.8.0](https://cran.r-project.org/package=highfrequency): Tools for Highfrequency Data Analysis
++ [{blogdown} 1.0](https://cran.r-project.org/package=blogdown): Create Blogs and Websites with R Markdown
++ [{vizdraws} 1.1](https://cran.r-project.org/package=vizdraws): Visualize Draws from the Prior and Posterior Distributions
++ [{vimp} 2.1.6](https://cran.r-project.org/package=vimp): Perform Inference on Algorithm-Agnostic Variable Importance
++ [{tsvr} 1.0.2](https://cran.r-project.org/package=tsvr): Timescale-Specific Variance Ratio for Use in Community Ecology
++ [{MXM} 1.5.0](https://cran.r-project.org/package=MXM): Feature Selection (Including Multiple Solutions) and Bayesian
+Networks
++ [{MSEtool} 3.0.0](https://cran.r-project.org/package=MSEtool): Management Strategy Evaluation Toolkit
++ [{ipmisc} 5.0.2](https://cran.r-project.org/package=ipmisc): Miscellaneous Functions for Data Cleaning and Analysis
++ [{SampleSize4ClinicalTrials} 0.2.3](https://cran.r-project.org/package=SampleSize4ClinicalTrials): Sample Size Calculation for the Comparison of Means or
+Proportions in Phase III Clinical Trials
++ [{moderndive} 0.5.1](https://cran.r-project.org/package=moderndive): Tidyverse-Friendly Introductory Linear Regression
++ [{BayesPostEst} 0.3.1](https://cran.r-project.org/package=BayesPostEst): Generate Postestimation Quantities for Bayesian MCMC Estimation
++ [{BayesSPsurv} 0.1.2](https://cran.r-project.org/package=BayesSPsurv): Bayesian Spatial Split Population Survival Model
++ [{poismf} 0.2.7](https://cran.r-project.org/package=poismf): Factorization of Sparse Counts Matrices Through Poisson
+Likelihood
++ [{MarketMatching} 1.2.0](https://cran.r-project.org/package=MarketMatching): Market Matching and Causal Impact Inference
++ [{gtsummary} 1.3.6](https://cran.r-project.org/package=gtsummary): Presentation-Ready Data Summary and Analytic Result Tables
++ [{elevatr} 0.3.3](https://cran.r-project.org/package=elevatr): Access Elevation Data from Various APIs
++ [{valaddin} 1.0.1](https://cran.r-project.org/package=valaddin): Functional Input Validation
++ [{stratamatch} 0.1.6](https://cran.r-project.org/package=stratamatch): Stratification and Matching for Large Observational Data Sets
++ [{ProjectTemplate} 0.10.0](https://cran.r-project.org/package=ProjectTemplate): Automates the Creation of New Statistical Analysis Projects
++ [{profileModel} 0.6.1](https://cran.r-project.org/package=profileModel): Profiling Inference Functions for Various Model Classes
++ [{nofrills} 0.3.1](https://cran.r-project.org/package=nofrills): Low-Cost Anonymous Functions
++ [{momentuHMM} 1.5.2](https://cran.r-project.org/package=momentuHMM): Maximum Likelihood Analysis of Animal Movement Behavior Using
 Multivariate Hidden Markov Models
 + [{fflr} 0.3.15](https://cran.r-project.org/package=fflr): Collect ESPN Fantasy Football Data
 + [{ufs} 0.4.1](https://cran.r-project.org/package=ufs): Quantitative Analysis Made Accessible
@@ -135,7 +243,7 @@ Discrete Event Models
 + [{scdhlm} 0.5.2](https://cran.r-project.org/package=scdhlm): Estimating Hierarchical Linear Models for Single-Case Designs
 + [{pubmed.mineR} 1.0.17](https://cran.r-project.org/package=pubmed.mineR): Text Mining of PubMed Abstracts
 + [{sen2r} 1.4.0](https://cran.r-project.org/package=sen2r): Find, Download and Process Sentinel-2 Data
-+ [{renv} 0.12.4](https://cran.r-project.org/package=renv): Project Environments
++ [{renv} 0.12.5](https://cran.r-project.org/package=renv): Project Environments
 + [{pmc} 1.0.4](https://cran.r-project.org/package=pmc): Phylogenetic Monte Carlo
 + [{modelStudio} 2.1.1](https://cran.r-project.org/package=modelStudio): Interactive Studio for Explanatory Model Analysis
 + [{MCMCglmm} 2.30](https://cran.r-project.org/package=MCMCglmm): MCMC Generalised Linear Mixed Models
@@ -261,52 +369,16 @@ Similar Structure
 Trees
 + [{xfun} 0.20](https://cran.r-project.org/package=xfun): Miscellaneous Functions by 'Yihui Xie'
 + [{tools4uplift} 1.0.0](https://cran.r-project.org/package=tools4uplift): Tools for Uplift Modeling
-+ [{sommer} 4.1.2](https://cran.r-project.org/package=sommer): Solving Mixed Model Equations in R
-+ [{SimplicialCubature} 1.3](https://cran.r-project.org/package=SimplicialCubature): Integration of Functions Over Simplices
-+ [{rvinecopulib} 0.5.5.1.1](https://cran.r-project.org/package=rvinecopulib): High Performance Algorithms for Vine Copula Modeling
-+ [{rticles} 0.18](https://cran.r-project.org/package=rticles): Article Formats for R Markdown
-+ [{rgbif} 3.4.2](https://cran.r-project.org/package=rgbif): Interface to the Global 'Biodiversity' Information Facility API
-+ [{poppr} 2.8.7](https://cran.r-project.org/package=poppr): Genetic Analysis of Populations with Mixed Reproduction
-+ [{paletteer} 1.3.0](https://cran.r-project.org/package=paletteer): Comprehensive Collection of Color Palettes
-+ [{pairwise} 0.5.0-2](https://cran.r-project.org/package=pairwise): Rasch Model Parameters by Pairwise Algorithm
-+ [{MoEClust} 1.3.3](https://cran.r-project.org/package=MoEClust): Gaussian Parsimonious Clustering Models with Covariates and a
-Noise Component
-+ [{mlr3measures} 0.3.1](https://cran.r-project.org/package=mlr3measures): Performance Measures for 'mlr3'
-+ [{micEcon} 0.6-16](https://cran.r-project.org/package=micEcon): Microeconomic Analysis and Modelling
-+ [{mdsr} 0.2.4](https://cran.r-project.org/package=mdsr): Complement to 'Modern Data Science with R'
-+ [{MDFS} 1.1.0](https://cran.r-project.org/package=MDFS): MultiDimensional Feature Selection
-+ [{fmtr} 1.4.1](https://cran.r-project.org/package=fmtr): Easily Apply Formats to Data
-+ [{equaltestMI} 0.6.1](https://cran.r-project.org/package=equaltestMI): Examine Measurement Invariance via Equivalence Testing and
-Projection Method
-+ [{DT} 0.17](https://cran.r-project.org/package=DT): A Wrapper of the JavaScript Library 'DataTables'
-+ [{dexter} 1.1.2](https://cran.r-project.org/package=dexter): Data Management and Analysis of Tests
-+ [{clusterSim} 0.49-2](https://cran.r-project.org/package=clusterSim): Searching for Optimal Clustering Procedure for a Data Set
-+ [{castor} 1.6.5](https://cran.r-project.org/package=castor): Efficient Phylogenetics on Large Trees
-+ [{bayesDP} 1.3.4](https://cran.r-project.org/package=bayesDP): Tools for the Bayesian Discount Prior Function
-+ [{actuar} 3.1-0](https://cran.r-project.org/package=actuar): Actuarial Functions and Heavy Tailed Distributions
-+ [{RobustBayesianCopas} 2.0](https://cran.r-project.org/package=RobustBayesianCopas): Robust Bayesian Copas Selection Model
-+ [{odds.n.ends} 0.1.2](https://cran.r-project.org/package=odds.n.ends): Odds Ratios, Contingency Table, and Model Significance from a
-Generalized Linear Model Object
-+ [{lawn} 0.6.0](https://cran.r-project.org/package=lawn): Client for 'Turfjs' for 'Geospatial' Analysis
-
-
-**BioC**
-
-
-
-**GitHub or Bitbucket**
-
-+ [{gibboda}](https://github.com/bryandmartin/gibboda):  Gender Isn't Binary But Other Data Are.
-
-+ [{vegadown}](https://github.com/vegawidget/vegadown/): 'knitr' Engine to Render 'YAML' and 'JSON' into 'Vega'.
-
-### Updated Packages
-
 
 
 ###  Videos and Podcasts
 
++ [Identifying Bottlenecks (slow code parts) in R using Profiling / profvis](https://youtu.be/rmnee9I2dvk)
 + [How to run 100 regressions without loops in R](https://www.youtube.com/watch?v=vtxb1j0aqJM)
++ [Daniel Aleman - The Key Metric for your Forecast is... TRUST](http://whyr.pl//foundation/2021/Daniel/)
++ [Emil Hvitfeldt - palette2vec - A new way to explore color paletttes](http://whyr.pl//foundation/2021/Emil/)
++ [Why R Webinar - Integrating Rshiny and REDCap](http://whyr.pl//foundation/2021/Christopher/)
++ [Kenneth Benoit - Why you should stop using other text mining packages and embrace quanteda](http://whyr.pl//foundation/2021/Kenneth/)
 
 ### Gist & Cookbook
 
@@ -314,25 +386,24 @@ Generalized Linear Model Object
 
 ### Shiny Apps
 
-- 2020 in Headlines: [app](https://minecr.shinyapps.io/2020-in-headlines/) [blog post](https://mugecetinkaya.medium.com/this-is-how-you-create-a-one-year-long-newspaper-8a3088e2b050)
-
++ [2020 in Headlines:app](https://minecr.shinyapps.io/2020-in-headlines/)
++ [blog post](https://mugecetinkaya.medium.com/this-is-how-you-create-a-one-year-long-newspaper-8a3088e2b050)
 + [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library): Relevant research in the soccer analytics space.
-
 + [In Review: Your 2020 on Twitter](https://gadenbuie.shinyapps.io/tweets-of-the-year/)
++ [R Shiny {golem} - Designing the UI - Part 1 - Development to Production](https://www.stoltzmanconsulting.com/blog/2021/01/06/r-shiny-golem-development-to-production-part-1)
++ [Creating a Shiny app for your stock portfolio](https://towardsdatascience.com/monitoring-stock-performance-made-easy-with-r-and-shiny-b6ab5fb02085)
 
 ### R Internationally
 
 + [(Japanese) "polite"で守るWebスクレイピングのエチケット](https://watagusa.hatenablog.com/entry/2021/01/01/183001)
 
-###  Tutorials
-
-+ [Rtini Part II: Vectorize the Absolute $#!+ Out of This](https://www.brodieg.com/2021/01/04/mesh-red-vec/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS)
++ [Last Call for the 2020 R Community Survey](https://blog.rstudio.com/2021/01/07/last-call-for-the-2020-r-community-survey/)
 
 
 ###  Upcoming Events in 3 Months
