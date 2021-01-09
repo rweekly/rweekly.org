@@ -30,6 +30,7 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 + [Bringing R to Swift on macOS](https://rud.is/b/2021/01/04/bringing-r-to-swift-on-macos/)
 <!-- Highlight -->
 + [Most popular posts for 2020](https://eranraviv.com/popular-posts-2020/)
++ [This is how you create a one year long newspaper](https://mugecetinkaya.medium.com/this-is-how-you-create-a-one-year-long-newspaper-8a3088e2b050)
 
 ### R in the Real World
 
@@ -387,7 +388,6 @@ Trees
 ### Shiny Apps
 
 + [2020 in Headlines:app](https://minecr.shinyapps.io/2020-in-headlines/)
-+ [blog post](https://mugecetinkaya.medium.com/this-is-how-you-create-a-one-year-long-newspaper-8a3088e2b050)
 + [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library): Relevant research in the soccer analytics space.
 + [In Review: Your 2020 on Twitter](https://gadenbuie.shinyapps.io/tweets-of-the-year/)
 + [R Shiny {golem} - Designing the UI - Part 1 - Development to Production](https://www.stoltzmanconsulting.com/blog/2021/01/06/r-shiny-golem-development-to-production-part-1)
@@ -412,7 +412,6 @@ Events in 3 Months:
 
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
-
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 
