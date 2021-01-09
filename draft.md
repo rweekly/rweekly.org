@@ -10,12 +10,8 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.
 
-### Random links:
-
-
 
 ###  Highlight
-
 
 
 ### Insights
@@ -24,11 +20,9 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 + [rOpenSci 2020 Code of Conduct Transparency Report](https://ropensci.org/blog/2021/01/07/transparency2020/)
 + [rOpenSci Code of Conduct Annual Review](https://ropensci.org/blog/2021/01/07/conduct2021/)
 + [COVID-19 Data: The Long Run](https://rviews.rstudio.com/2021/01/06/covid-19-data-the-long-run/)
-<!-- photo -->
-+ [Lilliefors, Kolmogorov-Smirnov and cross-validation](https://freakonometrics.hypotheses.org/61664)
++ [Lilliefors, Kolmogorov-Smirnov and cross-validation](https://freakonometrics.hypotheses.org/61664) <!-- photo -->
 + [Coming soon: effortlessly generate ordinal data without assuming proportional odds](https://www.rdatagen.net/post/2021-01-05-coming-soon-new-feature-to-easily-generate-cumulative-odds-without-proportionality-assumption/)
-+ [Bringing R to Swift on macOS](https://rud.is/b/2021/01/04/bringing-r-to-swift-on-macos/)
-<!-- Highlight -->
++ [Bringing R to Swift on macOS](https://rud.is/b/2021/01/04/bringing-r-to-swift-on-macos/) <!-- twitter -->
 + [Most popular posts for 2020](https://eranraviv.com/popular-posts-2020/)
 + [This is how you create a one year long newspaper](https://mugecetinkaya.medium.com/this-is-how-you-create-a-one-year-long-newspaper-8a3088e2b050)
 
@@ -38,8 +32,7 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 + [IMDb datasets: 3 centuries of movie rankings visualized](https://novyden.blogspot.com/2021/01/imdb-datasets-3-centuries-of-movie.html)
 + [Exploring the game “First Orchard” with simulation in R](https://statisticaloddsandends.wordpress.com/2021/01/06/exploring-the-game-first-orchard-with-simulation-in-r/)
 + [F1 2020 Season Review](https://theparttimeanalyst.com/2021/01/04/f1-2020-season-review/)
-+ [Predicting injuries for Chicago traffic crashes](https://juliasilge.com/blog/chicago-traffic-model/)
-<!-- Highlight -->
++ [Predicting injuries for Chicago traffic crashes](https://juliasilge.com/blog/chicago-traffic-model/)<!-- Highlight -->
 
 ###  R in Organizations
 
@@ -52,8 +45,7 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 ###  Tutorials
 
 + [Rtini Part II: Vectorize the Absolute $#!+ Out of This](https://www.brodieg.com/2021/01/04/mesh-red-vec/)
-+ [Automatic Rendering of a Plot with GitHub Actions](https://amitlevinson.com/blog/automated-plot-with-github-actions/)
-<!-- Highlight -->
++ [Automatic Rendering of a Plot with GitHub Actions](https://amitlevinson.com/blog/automated-plot-with-github-actions/) <!-- Highlight -->
 + [Safety Checking Locally Installed Package URLs](https://rud.is/b/2021/01/08/safety-checking-locally-installed-package-urls/)
 + [Portable Continuous Integration using r-ci](http://dirk.eddelbuettel.com/blog/2021/01/07#032_portable_ci_with_r-ci)
 + [Smoothing isn’t Always Safe](https://win-vector.com/2021/01/07/smoothing-isnt-always-safe/)
@@ -62,15 +54,12 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 + [The Nature of Overfitting](https://win-vector.com/2021/01/04/the-nature-of-overfitting/)
 + [Little useless-useful R functions – Playing stack of cards](https://tomaztsql.wordpress.com/2021/01/03/little-useless-useful-r-functions-playing-stack-of-cards/)
 + [Little useless-useful R functions – Mathematical puzzle of Four fours](https://tomaztsql.wordpress.com/2021/01/07/little-useless-useful-r-functions-mathematical-puzzle-of-four-fours/)
-+ [Tutorial: Adding Open Street Map Data to Rayshader Maps in R](https://www.tylermw.com/adding-open-street-map-data-to-rayshader-maps-in-r/)
-<!-- Highlight + photo -->
-+ [Create a simple R data package during a coffee break in 7 steps](https://petrkajzar.eu/en/2021/data-rpkg.html)
-<!-- Highlight -->
++ [Tutorial: Adding Open Street Map Data to Rayshader Maps in R](https://www.tylermw.com/adding-open-street-map-data-to-rayshader-maps-in-r/) <!-- Highlight + photo -->
++ [Create a simple R data package during a coffee break in 7 steps](https://petrkajzar.eu/en/2021/data-rpkg.html) <!-- Highlight -->
 
 ###  Resources
 
 + [future.BatchJobs - End-of-Life Announcement](https://www.jottr.org/2021/01/08/future.batchjobs-end-of-life-announcement/)
-
 
 ###  New Packages
 
@@ -126,16 +115,11 @@ Analyses
 + [{fdm2id} 0.9.5](https://cran.r-project.org/package=fdm2id): Data Mining and R Programming for Beginners
 
 
-**BioC**
-
-
-
 **GitHub or Bitbucket**
 
 + [{gibboda}](https://github.com/bryandmartin/gibboda):  Gender Isn't Binary But Other Data Are.
 + [{vegadown}](https://github.com/vegawidget/vegadown/): 'knitr' Engine to Render 'YAML' and 'JSON' into 'Vega'.
 + [{quicknews}](https://github.com/jaytimm/quicknews): Some R-functions for navigating the online news landscape.]
-
 
 ### Updated Packages
 + [{fastai} 2.0.2](https://cran.r-project.org/package=fastai): Interface to 'fastai'
@@ -381,9 +365,6 @@ Trees
 + [Why R Webinar - Integrating Rshiny and REDCap](http://whyr.pl//foundation/2021/Christopher/)
 + [Kenneth Benoit - Why you should stop using other text mining packages and embrace quanteda](http://whyr.pl//foundation/2021/Kenneth/)
 
-### Gist & Cookbook
-
-
 
 ### Shiny Apps
 
@@ -397,7 +378,6 @@ Trees
 
 + [(Japanese) "polite"で守るWebスクレイピングのエチケット](https://watagusa.hatenablog.com/entry/2021/01/01/183001)
 
-
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -410,7 +390,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS)
 
 Events in 3 Months:
 
-
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
@@ -418,8 +397,6 @@ Events in 3 Months:
 ### Datasets
 
 ### Jobs
-
-
 
 
 ###  Call for Participation
