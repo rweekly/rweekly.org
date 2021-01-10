@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2021-W00
+title: R Weekly 2021-W02
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -14,7 +14,7 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 ###  Highlight
 
 + [Automatic Rendering of a Plot with GitHub Actions](https://amitlevinson.com/blog/automated-plot-with-github-actions/)
-+ [{fastai} 2.0.2](https://cran.r-project.org/package=fastai): Interface to 'fastai'
++ [{fastai} 2.0.2](https://cran.r-project.org/package=fastai): Interface to fastai
 + [{renv} 0.12.5](https://cran.r-project.org/package=renv): Project Environments
 
 ### Insights
