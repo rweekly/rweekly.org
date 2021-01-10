@@ -482,8 +482,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS)
 
 Events in 3 Months:
 
++ [RStudio::Global (January 21, 2020)](https://global.rstudio.com/student/catalog)
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
+
 
 
 
