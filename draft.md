@@ -486,10 +486,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 
-### Datasets
-
-### Jobs
-
 
 ###  Call for Participation
 
@@ -497,3 +493,9 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Making-Of <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a> 2021/02 🚉 Global Transit-Infrastructure Costs <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/r4ds?src=hash&amp;ref_src=twsrc%5Etfw">#r4ds</a> <a href="https://t.co/28FRLNUSp5">https://t.co/28FRLNUSp5</a> <a href="https://t.co/EoY8Plil3P">pic.twitter.com/EoY8Plil3P</a></p>&mdash; Cédric Scherer (@CedScherer) <a href="https://twitter.com/CedScherer/status/1347897859639812097?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Relationship goals!<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/Rladies?src=hash&amp;ref_src=twsrc%5Etfw">#Rladies</a> <a href="https://twitter.com/hashtag/rladiestunis?src=hash&amp;ref_src=twsrc%5Etfw">#rladiestunis</a> <a href="https://t.co/Gy3gZLbQzs">pic.twitter.com/Gy3gZLbQzs</a></p>&mdash; R-Ladies Tunis (@RLadiesTunis) <a href="https://twitter.com/RLadiesTunis/status/1348254381725151232?ref_src=twsrc%5Etfw">January 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I &lt;may&gt; have gone overboard on my research getting ready to teach <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> to anthropology students <a href="https://t.co/4q7sz9Kkc8">pic.twitter.com/4q7sz9Kkc8</a></p>&mdash; Marc Kissel (@MarcKissel) <a href="https://twitter.com/MarcKissel/status/1348052347742773251?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
