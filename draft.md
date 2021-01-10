@@ -56,6 +56,7 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 + [Little useless-useful R functions – Mathematical puzzle of Four fours](https://tomaztsql.wordpress.com/2021/01/07/little-useless-useful-r-functions-mathematical-puzzle-of-four-fours/)
 + [Tutorial: Adding Open Street Map Data to Rayshader Maps in R](https://www.tylermw.com/adding-open-street-map-data-to-rayshader-maps-in-r/) <!-- Highlight + photo -->
 + [Create a simple R data package during a coffee break in 7 steps](https://petrkajzar.eu/en/2021/data-rpkg.html) <!-- Highlight -->
++ [A guide to dynamically show a light/dark plot in a website based on the user's preference, using ggplot2 and pkgdown](https://amirmasoudabdol.github.io/sfthemes/articles/dynamic_light_and_dark_plots_in_web.html)
 
 ###  Resources
 
@@ -67,6 +68,24 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 
 **CRAN**
 
++ [{knitcitations} 1.0.12](https://cran.r-project.org/package=knitcitations): Citations for 'Knitr' Markdown Files
++ [{HydroMe} 2.0-1](https://cran.r-project.org/package=HydroMe): Estimating Water Retention and Infiltration Model Parameters
+using Experimental Data
++ [{bdlp} 0.9-2](https://cran.r-project.org/package=bdlp): Transparent and Reproducible Artificial Data Generation
++ [{aptg} 0.1.1](https://cran.r-project.org/package=aptg): Automatic Phylogenetic Tree Generator
++ [{TukeyRegion} 0.1.4](https://cran.r-project.org/package=TukeyRegion): Tukey Region and Median
++ [{simPH} 1.3.13](https://cran.r-project.org/package=simPH): Simulate and Plot Estimates from Cox Proportional Hazards Models
++ [{mortyr} 0.0.2](https://cran.r-project.org/package=mortyr): Wrapper to 'The Rick and Morty' API
++ [{scrappy} 0.0.1](https://cran.r-project.org/package=scrappy): A Simple Web Scraper
++ [{msaeDB} 0.1.0](https://cran.r-project.org/package=msaeDB): Difference Benchmarking for Multivariate Small Area Estimation
++ [{metaggR} 0.1.0](https://cran.r-project.org/package=metaggR): Calculate the Knowledge-Weighted Estimate
++ [{MARSSVRhybrid} 0.1.0](https://cran.r-project.org/package=MARSSVRhybrid): MARS SVR Hybrid
++ [{geostats} 1.0](https://cran.r-project.org/package=geostats): An Introduction to Statistics for Geoscientists
++ [{ctsemOMX} 1.0.3](https://cran.r-project.org/package=ctsemOMX): Continuous Time SEM - 'OpenMx' Based Functions
++ [{covid19jp} 0.1.0](https://cran.r-project.org/package=covid19jp): Japanese Covid-19 Datasets
++ [{QuadRoot} 0.1.0](https://cran.r-project.org/package=QuadRoot): Quadratic Root for any Quadratic Equation
++ [{EMDSVRhybrid} 0.1.0](https://cran.r-project.org/package=EMDSVRhybrid): Hybrid Machine Learning Model
++ [{convergEU} 0.5.1](https://cran.r-project.org/package=convergEU): Monitoring Convergence of EU Countries
 + [{APCI} 0.1.0](https://cran.r-project.org/package=APCI): A New Age-Period-Cohort Model for Describing and Investigating
 Inter-Cohort Differences and Life Course Dynamics
 + [{tabulator} 1.0.0](https://cran.r-project.org/package=tabulator): Efficient Tabulation with Stata-Like Output
@@ -122,6 +141,76 @@ Analyses
 + [{quicknews}](https://github.com/jaytimm/quicknews): Some R-functions for navigating the online news landscape.]
 
 ### Updated Packages
++ [{rotasym} 1.0.9](https://cran.r-project.org/package=rotasym): Tests for Rotational Symmetry on the Hypersphere
++ [{flashlight} 0.7.3](https://cran.r-project.org/package=flashlight): Shed Light on Black Box Machine Learning Models
++ [{fad} 0.2-1](https://cran.r-project.org/package=fad): Factor Analysis for Data
++ [{addinslist} 0.3](https://cran.r-project.org/package=addinslist): Discover and Install Useful RStudio Addins
++ [{SphericalCubature} 1.5](https://cran.r-project.org/package=SphericalCubature): Numerical Integration over Spheres and Balls in n-Dimensions;
+Multivariate Polar Coordinates
++ [{spatialEco} 1.3-5](https://cran.r-project.org/package=spatialEco): Spatial Analysis and Modelling Utilities
++ [{shiny.semantic} 0.4.2](https://cran.r-project.org/package=shiny.semantic): Semantic UI Support for Shiny
++ [{scoringTools} 0.1.2](https://cran.r-project.org/package=scoringTools): Credit Scoring Tools
++ [{rgl} 0.104.16](https://cran.r-project.org/package=rgl): 3D Visualization Using OpenGL
++ [{RcppArmadillo} 0.10.1.2.2](https://cran.r-project.org/package=RcppArmadillo): 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra
+Library
++ [{MVar.pt} 2.1.4](https://cran.r-project.org/package=MVar.pt): Analise multivariada (brazilian portuguese)
++ [{MFAg} 1.8](https://cran.r-project.org/package=MFAg): Multiple Factor Analysis (MFA)
++ [{markovchain} 0.8.5-4](https://cran.r-project.org/package=markovchain): Easy Handling Discrete Time Markov Chains
++ [{git2r} 0.28.0](https://cran.r-project.org/package=git2r): Provides Access to Git Repositories
++ [{DMCfun} 1.3.0](https://cran.r-project.org/package=DMCfun): Diffusion Model of Conflict (DMC) in Reaction Time Tasks
++ [{ctmm} 0.6.0](https://cran.r-project.org/package=ctmm): Continuous-Time Movement Modeling
++ [{bayesplot} 1.8.0](https://cran.r-project.org/package=bayesplot): Plotting for Bayesian Models
++ [{WVPlots} 1.3.2](https://cran.r-project.org/package=WVPlots): Common Plots for Analysis
++ [{clustcurv} 2.0.1](https://cran.r-project.org/package=clustcurv): Determining Groups in Multiples Curves
++ [{tsfa} 2021.1-3](https://cran.r-project.org/package=tsfa): Time Series Factor Analysis
++ [{TestDimorph} 0.4.0](https://cran.r-project.org/package=TestDimorph): Analysis Of The Interpopulation Difference In Degree of Sexual
+Dimorphism Using Summary Statistics
++ [{Pursuit} 1.0.2](https://cran.r-project.org/package=Pursuit): Projection Pursuit
++ [{PCAmatchR} 0.3.0](https://cran.r-project.org/package=PCAmatchR): Match Cases to Controls Based on Genotype Principal Components
++ [{oysteR} 0.1.1](https://cran.r-project.org/package=oysteR): Scans R Projects for Vulnerable Third Party Dependencies
++ [{MVar} 2.1.4](https://cran.r-project.org/package=MVar): Multivariate Analysis
++ [{maximin} 1.0-4](https://cran.r-project.org/package=maximin): Space-Filling Design under Maximin Distance
++ [{kayadata} 0.5.0](https://cran.r-project.org/package=kayadata): Kaya Identity Data for Nations and Regions
++ [{ivsacim} 1.1](https://cran.r-project.org/package=ivsacim): Structural Additive Cumulative Intensity Models with IV
++ [{faoutlier} 0.7.6](https://cran.r-project.org/package=faoutlier): Influential Case Detection Methods for Factor Analysis and
+Structural Equation Models
++ [{epinetr} 0.94](https://cran.r-project.org/package=epinetr): Epistatic Network Modelling with Forward-Time Simulation
++ [{cmfrec} 2.4.2](https://cran.r-project.org/package=cmfrec): Collective Matrix Factorization for Recommender Systems
++ [{buildr} 0.1.0](https://cran.r-project.org/package=buildr): Organize & Run Build Scripts Comfortably
++ [{bcmaps} 1.0.0](https://cran.r-project.org/package=bcmaps): Map Layers and Spatial Utilities for British Columbia
++ [{ARDL} 0.1.1](https://cran.r-project.org/package=ARDL): ARDL, ECM and Bounds-Test for Cointegration
++ [{sparsestep} 1.0.1](https://cran.r-project.org/package=sparsestep): SparseStep Regression
++ [{ralger} 2.2.1](https://cran.r-project.org/package=ralger): Easy Web Scraping
++ [{plotly} 4.9.3](https://cran.r-project.org/package=plotly): Create Interactive Web Graphics via 'plotly.js'
++ [{piecepackr} 1.6.5](https://cran.r-project.org/package=piecepackr): Board Game Graphics
++ [{eye} 1.0.1](https://cran.r-project.org/package=eye): Analysis of Eye Data
++ [{SSLR} 0.9.3.1](https://cran.r-project.org/package=SSLR): Semi-Supervised Classification, Regression and Clustering
+Methods
++ [{sp} 1.4-5](https://cran.r-project.org/package=sp): Classes and Methods for Spatial Data
++ [{prettydoc} 0.4.1](https://cran.r-project.org/package=prettydoc): Creating Pretty Documents from R Markdown
++ [{GWpcor} 0.1.6](https://cran.r-project.org/package=GWpcor): Geographically Weighted Partial Correlation Coefficient
++ [{AssocTests} 1.0-1](https://cran.r-project.org/package=AssocTests): Genetic Association Studies
++ [{sysfonts} 0.8.3](https://cran.r-project.org/package=sysfonts): Loading Fonts into R
++ [{lessR} 3.9.9](https://cran.r-project.org/package=lessR): Less Code, More Results
++ [{threeBrain} 0.1.9](https://cran.r-project.org/package=threeBrain): 3D Brain Visualization
++ [{showtext} 0.9-2](https://cran.r-project.org/package=showtext): Using Fonts More Easily in R Graphs
++ [{recosystem} 0.4.4](https://cran.r-project.org/package=recosystem): Recommender System using Matrix Factorization
++ [{DirStats} 0.1.7](https://cran.r-project.org/package=DirStats): Nonparametric Methods for Directional Data
++ [{dipsaus} 0.1.2](https://cran.r-project.org/package=dipsaus): A Dipping Sauce for Data Analysis and Visualizations
++ [{adehabitatHR} 0.4.19](https://cran.r-project.org/package=adehabitatHR): Home Range Estimation
++ [{MPV} 1.56](https://cran.r-project.org/package=MPV): Data Sets from Montgomery, Peck and Vining
++ [{starsExtra} 0.2.2](https://cran.r-project.org/package=starsExtra): Miscellaneous Functions for Working with 'stars' Rasters
++ [{assignR} 2.0.0](https://cran.r-project.org/package=assignR): Infer Geographic Origin from Isotopic Data
++ [{OpenRepGrid.ic} 0.5.0](https://cran.r-project.org/package=OpenRepGrid.ic): Interpretive Clustering for Repertory Grids
++ [{swfscAirDAS} 0.2.2](https://cran.r-project.org/package=swfscAirDAS): Southwest Fisheries Science Center Aerial DAS Data Processing
++ [{arctools} 1.1.0](https://cran.r-project.org/package=arctools): Processing and Physical Activity Summaries of Minute Level
+Activity Data
++ [{imsig} 1.1.3](https://cran.r-project.org/package=imsig): Immune Cell Gene Signatures for Profiling the Microenvironment
+of Solid Tumours
++ [{sjstats} 0.18.1](https://cran.r-project.org/package=sjstats): Collection of Convenient Functions for Common Statistical
+Computations
++ [{multinma} 0.2.1](https://cran.r-project.org/package=multinma): Bayesian Network Meta-Analysis of Individual and Aggregate Data
+
 + [{fastai} 2.0.2](https://cran.r-project.org/package=fastai): Interface to 'fastai'
 + [{fabricatr} 0.12.0](https://cran.r-project.org/package=fabricatr): Imagine Your Data Before You Collect It
 + [{Directional} 4.6](https://cran.r-project.org/package=Directional): A Collection of R Functions for Directional Data Analysis
