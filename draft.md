@@ -17,7 +17,7 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 
 + [{fastai} 2.0.2](https://cran.r-project.org/package=fastai): Interface to fastai
 
-![fastai](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/fastai4.png)
+![fastai](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/fastai5.png)
 
 + [{renv} 0.12.5](https://cran.r-project.org/package=renv): Project Environments
 
