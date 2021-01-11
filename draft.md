@@ -31,6 +31,9 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 
 + [COVID-19 Data: The Long Run](https://rviews.rstudio.com/2021/01/06/covid-19-data-the-long-run/)
 
+![COVID-19 Data: The Long Run](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/covid-19.svg)
+
+
 + [Lilliefors, Kolmogorov-Smirnov and cross-validation](https://freakonometrics.hypotheses.org/61664) <!-- photo -->
 
 + [Coming soon: effortlessly generate ordinal data without assuming proportional odds](https://www.rdatagen.net/post/2021-01-05-coming-soon-new-feature-to-easily-generate-cumulative-odds-without-proportionality-assumption/)
@@ -40,6 +43,8 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 + [Most popular posts for 2020](https://eranraviv.com/popular-posts-2020/)
 
 + [This is how you create a one year long newspaper](https://mugecetinkaya.medium.com/this-is-how-you-create-a-one-year-long-newspaper-8a3088e2b050)
+
+![COVID-19 Data: The Long Run](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/create_one_year_news.png)
 
 ### R in the Real World
 
@@ -212,6 +217,9 @@ using Experimental Data
 + [{pkgnews} 0.0.1](https://cran.r-project.org/package=pkgnews): Retrieve R Package News Files
 
 + [{collapse} 1.5.0](https://cran.r-project.org/package=collapse): Advanced and Fast Data Transformation
+
+![collapse](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/collapse.png)
+
 
 + [{Crossover} 0.1-19](https://cran.r-project.org/package=Crossover): Analysis and Search of Crossover Designs
 
@@ -444,7 +452,6 @@ using Experimental Data
 + [{circlize} 0.4.12](https://cran.r-project.org/package=circlize): Circular Visualization
 
 ![circlize](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/circlize.jpeg)
-
 
 + [{segregation} 0.4.0](https://cran.r-project.org/package=segregation): Entropy-Based Segregation Indices
 
