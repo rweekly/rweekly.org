@@ -157,6 +157,11 @@ using Experimental Data
 
 + [{APCI} 0.1.0](https://cran.r-project.org/package=APCI): A New Age-Period-Cohort Model for Describing and Investigating Inter-Cohort Differences and Life Course Dynamics
 
++ [{nbapalettes} 0.1.0](https://cran.r-project.org/package=nbapalettes): An NBA Jersey Palette Generator
+
+![nbapalettes](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/nba1.png)
+![nbapalettes](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/nba2.jpg)
+
 + [{tabulator} 1.0.0](https://cran.r-project.org/package=tabulator): Efficient Tabulation with Stata-Like Output
 
 + [{tablet} 0.2.0](https://cran.r-project.org/package=tablet): Tabulate Descriptive Statistics in Multiple Formats
@@ -193,10 +198,6 @@ using Experimental Data
 
 + [{PEACH} 0.1.1](https://cran.r-project.org/package=PEACH): Pareto Enrichment Analysis for Combining Heterogeneous Datasets
 
-+ [{nbapalettes} 0.1.0](https://cran.r-project.org/package=nbapalettes): An NBA Jersey Palette Generator
-
-![nbapalettes](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/nba1.png)
-![nbapalettes](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/nba2.jpg)
 
 + [{PheNorm} 0.1.0](https://cran.r-project.org/package=PheNorm): Unsupervised Gold-Standard Label Free Phenotyping Algorithm for EHR Data
 
@@ -205,6 +206,10 @@ using Experimental Data
 + [{ccid} 1.0.0](https://cran.r-project.org/package=ccid): Cross-Covariance Isolate Detect: a New Change-Point Method for estimating Dynamic Functional Connectivity
 
 + [{UPG} 0.2.2](https://cran.r-project.org/package=UPG): Efficient Bayesian Models for Binary and Categorical Data
+
++ [{collapse} 1.5.0](https://cran.r-project.org/package=collapse): Advanced and Fast Data Transformation
+
+![collapse](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/collapse.png)
 
 + [{footprint} 0.1](https://cran.r-project.org/package=footprint): Calculate Air Travel Emissions
 
@@ -234,10 +239,6 @@ using Experimental Data
 
 + [{pkgnews} 0.0.1](https://cran.r-project.org/package=pkgnews): Retrieve R Package News Files
 
-+ [{collapse} 1.5.0](https://cran.r-project.org/package=collapse): Advanced and Fast Data Transformation
-
-![collapse](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/collapse.png)
-
 
 + [{Crossover} 0.1-19](https://cran.r-project.org/package=Crossover): Analysis and Search of Crossover Designs
 
@@ -263,6 +264,10 @@ using Experimental Data
 + [{SphericalCubature} 1.5](https://cran.r-project.org/package=SphericalCubature): Numerical Integration over Spheres and Balls in n-Dimensions; Multivariate Polar Coordinates
 
 + [{spatialEco} 1.3-5](https://cran.r-project.org/package=spatialEco): Spatial Analysis and Modelling Utilities
+
++ [{circlize} 0.4.12](https://cran.r-project.org/package=circlize): Circular Visualization
+
+![circlize](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/circlize.jpeg)
 
 + [{shiny.semantic} 0.4.2](https://cran.r-project.org/package=shiny.semantic): Semantic UI Support for Shiny
 
@@ -329,6 +334,10 @@ using Experimental Data
 
 + [{plotly} 4.9.3](https://cran.r-project.org/package=plotly): Create Interactive Web Graphics via `plotly.js`
 
++ [{treemapify} 2.5.5](https://cran.r-project.org/package=treemapify): Draw Treemaps in `ggplot2`
+
+![treemapify](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/animated_treemap.gif)
+
 + [{piecepackr} 1.6.5](https://cran.r-project.org/package=piecepackr): Board Game Graphics
 
 + [{eye} 1.0.1](https://cran.r-project.org/package=eye): Analysis of Eye Data
@@ -385,6 +394,10 @@ using Experimental Data
 
 + [{Ball} 1.3.10](https://cran.r-project.org/package=Ball): Statistical Inference and Sure Independence Screening via Ball Statistics
 
++ [{leaflet} 2.0.4.1](https://cran.r-project.org/package=leaflet): Create Interactive Web Maps with the JavaScript 'Leaflet'Library
+
+![leaflet](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/leaflet.png)
+
 + [{TSPred} 5.0](https://cran.r-project.org/package=TSPred): Functions for Benchmarking Time Series Prediction
 
 + [{renv} 0.12.5](https://cran.r-project.org/package=renv): Project Environments
@@ -431,6 +444,10 @@ using Experimental Data
 
 + [{ProjectTemplate} 0.10.0](https://cran.r-project.org/package=ProjectTemplate): Automates the Creation of New Statistical Analysis Projects
 
++ [{ggeasy} 0.1.3](https://cran.r-project.org/package=ggeasy): Easy Access to 'ggplot2' Commands
+
+![ggeasy](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/ggeasy.jpeg)
+
 + [{profileModel} 0.6.1](https://cran.r-project.org/package=profileModel): Profiling Inference Functions for Various Model Classes
 
 + [{nofrills} 0.3.1](https://cran.r-project.org/package=nofrills): Low-Cost Anonymous Functions
@@ -467,9 +484,6 @@ using Experimental Data
 
 + [{ggridges} 0.5.3](https://cran.r-project.org/package=ggridges): Ridgeline Plots in `ggplot2`
 
-+ [{circlize} 0.4.12](https://cran.r-project.org/package=circlize): Circular Visualization
-
-![circlize](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/circlize.jpeg)
 
 + [{segregation} 0.4.0](https://cran.r-project.org/package=segregation): Entropy-Based Segregation Indices
 
@@ -483,6 +497,10 @@ using Experimental Data
 
 + [{metaBMA} 0.6.6](https://cran.r-project.org/package=metaBMA): Bayesian Model Averaging for Random and Fixed Effects Meta-Analysis
 
++ [{eplusr} 0.14.0](https://cran.r-project.org/package=eplusr): A Toolkit for Using Whole Building Simulation Program 'EnergyPlus'
+
+![eplusr](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/epluser.gif)
+
 + [{TreeBUGS} 1.4.7](https://cran.r-project.org/package=TreeBUGS): Hierarchical Multinomial Processing Tree Modeling
 
 + [{pkgndep} 1.0.2](https://cran.r-project.org/package=pkgndep): Check the Heaviness of Package Dependencies
@@ -493,9 +511,6 @@ using Experimental Data
 
 + [{forestinventory} 1.0.0](https://cran.r-project.org/package=forestinventory): Design-Based Global and Small-Area Estimations for Multiphase Forest Inventories
 
-+ [{treemapify} 2.5.5](https://cran.r-project.org/package=treemapify): Draw Treemaps in `ggplot2`
-
-![treemapify](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/animated_treemap.gif)
 
 + [{sigminer} 1.2.1](https://cran.r-project.org/package=sigminer): Extract, Analyze and Visualize Mutational Signatures for Genomic Variations
 
@@ -534,6 +549,10 @@ using Experimental Data
 + [{jtools} 2.1.2](https://cran.r-project.org/package=jtools): Analysis and Presentation of Social Scientific Data
 
 + [{GRPtests} 0.1.1](https://cran.r-project.org/package=GRPtests): Goodness-of-Fit Tests in High-Dimensional GLMs
+
++ [{tidytext} 0.3.0](https://cran.r-project.org/package=tidytext): Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools
+
+![tidytext](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/tidytext.png)
 
 + [{qtl} 1.47-9](https://cran.r-project.org/package=qtl): Tools for Analyzing QTL Experiments
 
@@ -589,6 +608,10 @@ using Experimental Data
 
 + [{ConcordanceTest} 1.0.0](https://cran.r-project.org/package=ConcordanceTest): An Alternative to the Kruskal-Wallis Based on the Kendall Tau Distance
 
++ [{modelsummary} 0.6.5](https://cran.r-project.org/package=modelsummary): Summary Tables and Plots for Statistical Models and Data: Beautiful, Customizable, and Publication-Ready
+
+![modelsummary](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/modelsummary.png)
+
 + [{varTestnlme} 1.0.0](https://cran.r-project.org/package=varTestnlme): Variance Components Testing for Linear and Nonlinear Mixed Effects Models
 
 + [{statgenGxE} 1.0.4](https://cran.r-project.org/package=statgenGxE): Genotype by Environment (GxE) Analysis
@@ -639,6 +662,10 @@ using Experimental Data
 
 + [{randomLCA} 1.1-0](https://cran.r-project.org/package=randomLCA): Random Effects Latent Class Analysis
 
++ [{SHAPforxgboost} 0.1.0](https://cran.r-project.org/package=SHAPforxgboost): SHAP Plots for 'XGBoost'
+
+![SHAPforxgboost](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/SHAPforxgboost.png)
+
 + [{nngeo} 0.4.1](https://cran.r-project.org/package=nngeo): k-Nearest Neighbor Join for Spatial Data
 
 + [{corpustools} 0.4.4](https://cran.r-project.org/package=corpustools): Managing, Querying and Analyzing Tokenized Text
@@ -675,29 +702,16 @@ using Experimental Data
 
 + [{precrec} 0.12.0](https://cran.r-project.org/package=precrec): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
 
-+ [{modelsummary} 0.6.5](https://cran.r-project.org/package=modelsummary): Summary Tables and Plots for Statistical Models and Data: Beautiful, Customizable, and Publication-Ready
-
-![modelsummary](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/modelsummary.png)
 
 + [{logitnorm} 0.8.38](https://cran.r-project.org/package=logitnorm): Functions for the Logitnormal Distribution
 
 + [{llama} 0.9.4](https://cran.r-project.org/package=llama): Leveraging Learning to Automatically Manage Algorithms
 
-+ [{leaflet} 2.0.4.1](https://cran.r-project.org/package=leaflet): Create Interactive Web Maps with the JavaScript 'Leaflet'Library
-
-![leaflet](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/leaflet.png)
-
-+ [{ggeasy} 0.1.3](https://cran.r-project.org/package=ggeasy): Easy Access to 'ggplot2' Commands
-
-![Predicting the outcome of the English Premier League](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/ggeasy.jpeg)
 
 + [{fakemake} 1.10.0](https://cran.r-project.org/package=fakemake): Mock the Unix Make Utility
 
 + [{estimatr} 0.30.0](https://cran.r-project.org/package=estimatr): Fast Estimators for Design-Based Inference
 
-+ [{eplusr} 0.14.0](https://cran.r-project.org/package=eplusr): A Toolkit for Using Whole Building Simulation Program 'EnergyPlus'
-
-![eplusr](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/epluser.gif)
 
 + [{diffobj} 0.3.3](https://cran.r-project.org/package=diffobj): Diffs for R Objects
 
@@ -721,9 +735,6 @@ using Experimental Data
 
 + [{TraitStats} 1.0.1](https://cran.r-project.org/package=TraitStats): Statistical Data Analysis for Randomized Block Design Experiments
 
-+ [{SHAPforxgboost} 0.1.0](https://cran.r-project.org/package=SHAPforxgboost): SHAP Plots for 'XGBoost'
-
-![SHAPforxgboost](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/SHAPforxgboost.png)
 
 + [{sars} 1.3.2](https://cran.r-project.org/package=sars): Fit and Compare Species-Area Relationship Models Using Multimodel Inference
 
@@ -775,9 +786,6 @@ using Experimental Data
 
 + [{tsdb} 1.0-0](https://cran.r-project.org/package=tsdb): Terribly-Simple Data Base for Time Series
 
-+ [{tidytext} 0.3.0](https://cran.r-project.org/package=tidytext): Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools
-
-![tidytext](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/tidytext.png)
 
 + [{Matrix} 1.3-2](https://cran.r-project.org/package=Matrix): Sparse and Dense Matrix Classes and Methods
 
@@ -814,13 +822,13 @@ using Experimental Data
 
 ### Shiny Apps
 
-+ [2020 in Headlines:app](https://minecr.shinyapps.io/2020-in-headlines/)
-
-+ [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library): Relevant research in the soccer analytics space.
-
 + [In Review: Your 2020 on Twitter](https://gadenbuie.shinyapps.io/tweets-of-the-year/)
 
 ![In Review: Your 2020 on Twitter](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/twitter_app.png)
+
++ [2020 in Headlines:app](https://minecr.shinyapps.io/2020-in-headlines/)
+
++ [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library): Relevant research in the soccer analytics space.
 
 + [R Shiny {golem} - Designing the UI - Part 1 - Development to Production](https://www.stoltzmanconsulting.com/blog/2021/01/06/r-shiny-golem-development-to-production-part-1)
 
