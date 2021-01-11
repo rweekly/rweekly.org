@@ -60,6 +60,8 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 
 + [Predicting injuries for Chicago traffic crashes](https://juliasilge.com/blog/chicago-traffic-model/)<!-- Highlight -->
 
+![Predicting injuries for Chicago traffic crashes](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/traffic.png)
+
 ###  R in Organizations
 
 + [Professional Financial Reports with RMarkdown](https://technistema.com/posts/professional-financial-reports-with-rmarkdown/)
@@ -76,6 +78,8 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 ###  Tutorials
 
 + [Rtini Part II: Vectorize the Absolute $#!+ Out of This](https://www.brodieg.com/2021/01/04/mesh-red-vec/)
+
+![Rtini Part II: Vectorize the Absolute $#!+ Out of This](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/retni_vectorise.jpg)
 
 + [Automatic Rendering of a Plot with GitHub Actions](https://amitlevinson.com/blog/automated-plot-with-github-actions/) <!-- Highlight -->
 
@@ -558,6 +562,7 @@ using Experimental Data
 + [{pubmed.mineR} 1.0.17](https://cran.r-project.org/package=pubmed.mineR): Text Mining of PubMed Abstracts
 
 + [{sen2r} 1.4.0](https://cran.r-project.org/package=sen2r): Find, Download and Process Sentinel-2 Data
+
 + [{renv} 0.12.5](https://cran.r-project.org/package=renv): Project Environments
 
 + [{pmc} 1.0.4](https://cran.r-project.org/package=pmc): Phylogenetic Monte Carlo
@@ -772,6 +777,8 @@ using Experimental Data
 
 + [{tidytext} 0.3.0](https://cran.r-project.org/package=tidytext): Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools
 
+![tidytext](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/tidytext.png)
+
 + [{Matrix} 1.3-2](https://cran.r-project.org/package=Matrix): Sparse and Dense Matrix Classes and Methods
 
 + [{IFAA} 1.0.1](https://cran.r-project.org/package=IFAA): Robust Analysis for Absolute Abundance in Microbiome
@@ -813,9 +820,14 @@ using Experimental Data
 
 + [In Review: Your 2020 on Twitter](https://gadenbuie.shinyapps.io/tweets-of-the-year/)
 
+![In Review: Your 2020 on Twitter](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/twitter_app.png)
+
 + [R Shiny {golem} - Designing the UI - Part 1 - Development to Production](https://www.stoltzmanconsulting.com/blog/2021/01/06/r-shiny-golem-development-to-production-part-1)
 
 + [Creating a Shiny app for your stock portfolio](https://towardsdatascience.com/monitoring-stock-performance-made-easy-with-r-and-shiny-b6ab5fb02085)
+
+![Creating a Shiny app for your stock portfolio](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/stock_shiny.png)
+
 
 
 ### R Internationally
