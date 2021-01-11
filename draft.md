@@ -388,6 +388,9 @@ using Experimental Data
 
 + [{fastai} 2.0.2](https://cran.r-project.org/package=fastai): Interface to `fastai`
 
+![fastai](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/fastai3.png)
+
+
 + [{fabricatr} 0.12.0](https://cran.r-project.org/package=fabricatr): Imagine Your Data Before You Collect It
 
 + [{Directional} 4.6](https://cran.r-project.org/package=Directional): A Collection of R Functions for Directional Data Analysis
