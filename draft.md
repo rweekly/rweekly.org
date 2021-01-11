@@ -446,7 +446,7 @@ using Experimental Data
 
 + [{ggeasy} 0.1.3](https://cran.r-project.org/package=ggeasy): Easy Access to 'ggplot2' Commands
 
-![ggeasy](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/ggeasy.jpeg)
+![ggeasy](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/ggeasy.gif)
 
 + [{profileModel} 0.6.1](https://cran.r-project.org/package=profileModel): Profiling Inference Functions for Various Model Classes
 
