@@ -16,7 +16,8 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 + [Automatic Rendering of a Plot with GitHub Actions](https://amitlevinson.com/blog/automated-plot-with-github-actions/)
 
 + [{fastai} 2.0.2](https://cran.r-project.org/package=fastai): Interface to fastai
-![fastai](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/fastai3.png)
+
+![fastai](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/fastai4.png)
 
 + [{renv} 0.12.5](https://cran.r-project.org/package=renv): Project Environments
 
@@ -83,6 +84,7 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 + [Little useless-useful R functions – Mathematical puzzle of Four fours](https://tomaztsql.wordpress.com/2021/01/07/little-useless-useful-r-functions-mathematical-puzzle-of-four-fours/)
 
 + [Tutorial: Adding Open Street Map Data to Rayshader Maps in R](https://www.tylermw.com/adding-open-street-map-data-to-rayshader-maps-in-r/) <!-- Highlight + photo -->
+![Tutorial: Adding Open Street Map Data to Rayshader Maps in R](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/adding_open_street.jpg)
 
 + [Create a simple R data package during a coffee break in 7 steps](https://petrkajzar.eu/en/2021/data-rpkg.html) <!-- Highlight -->
 
@@ -257,6 +259,9 @@ using Experimental Data
 + [{ctmm} 0.6.0](https://cran.r-project.org/package=ctmm): Continuous-Time Movement Modeling
 
 + [{bayesplot} 1.8.0](https://cran.r-project.org/package=bayesplot): Plotting for Bayesian Models
+
+![bayesplot](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/bayesplot.png)
+
 
 + [{WVPlots} 1.3.2](https://cran.r-project.org/package=WVPlots): Common Plots for Analysis
 
@@ -438,6 +443,9 @@ using Experimental Data
 
 + [{circlize} 0.4.12](https://cran.r-project.org/package=circlize): Circular Visualization
 
+![circlize](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/circlize.jpeg)
+
+
 + [{segregation} 0.4.0](https://cran.r-project.org/package=segregation): Entropy-Based Segregation Indices
 
 + [{support.CEs} 0.5-0](https://cran.r-project.org/package=support.CEs): Basic Functions for Supporting an Implementation of Choice Experiments
@@ -461,6 +469,8 @@ using Experimental Data
 + [{forestinventory} 1.0.0](https://cran.r-project.org/package=forestinventory): Design-Based Global and Small-Area Estimations for Multiphase Forest Inventories
 
 + [{treemapify} 2.5.5](https://cran.r-project.org/package=treemapify): Draw Treemaps in `ggplot2`
+
+![treemapify](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/animated_treemap.gif)
 
 + [{sigminer} 1.2.1](https://cran.r-project.org/package=sigminer): Extract, Analyze and Visualize Mutational Signatures for Genomic Variations
 
