@@ -50,6 +50,8 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 
 + [Predicting the outcome of the English Premier League by using Monte Carlo Method (in R)](https://kristfmenyhrt.medium.com/predicting-the-outcome-of-the-english-premier-league-by-using-monte-carlo-method-in-r-638fbc90fd37)
 
+![Predicting the outcome of the English Premier League](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/football.png)
+
 + [IMDb datasets: 3 centuries of movie rankings visualized](https://novyden.blogspot.com/2021/01/imdb-datasets-3-centuries-of-movie.html)
 
 + [Exploring the game “First Orchard” with simulation in R](https://statisticaloddsandends.wordpress.com/2021/01/06/exploring-the-game-first-orchard-with-simulation-in-r/)
@@ -65,6 +67,8 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 ###  R in Academia
 
 + [Finding Economic Articles with Data and Specific Empirical Methods](http://skranz.github.io//r/2021/01/05/FindingEconomicArticles4.html)
+
+![Finding Economic Articles](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/economics.png)
 
 ###  Tutorials
 
@@ -82,6 +86,8 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 
 + [Custom Google Analytics Dashboards with R: Building The Dashboard](https://blog.rstudio.com/2021/01/06/google-analytics-part2/)
 
+![Custom Google Analytics Dashboards with R](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/google_analytics.jpg)
+
 + [The Nature of Overfitting](https://win-vector.com/2021/01/04/the-nature-of-overfitting/)
 
 + [Little useless-useful R functions – Playing stack of cards](https://tomaztsql.wordpress.com/2021/01/03/little-useless-useful-r-functions-playing-stack-of-cards/)
@@ -94,6 +100,8 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 + [Create a simple R data package during a coffee break in 7 steps](https://petrkajzar.eu/en/2021/data-rpkg.html) <!-- Highlight -->
 
 + [A guide to dynamically show a light/dark plot in a website based on the user's preference, using ggplot2 and pkgdown](https://amirmasoudabdol.github.io/sfthemes/articles/dynamic_light_and_dark_plots_in_web.html)
+
+![A guide to dynamically show a light/dark plot](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/dynamic-light-and-dark-static.png)
 
 ###  Resources
 
@@ -658,19 +666,27 @@ using Experimental Data
 
 + [{modelsummary} 0.6.5](https://cran.r-project.org/package=modelsummary): Summary Tables and Plots for Statistical Models and Data: Beautiful, Customizable, and Publication-Ready
 
+![modelsummary](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/modelsummary.png)
+
 + [{logitnorm} 0.8.38](https://cran.r-project.org/package=logitnorm): Functions for the Logitnormal Distribution
 
 + [{llama} 0.9.4](https://cran.r-project.org/package=llama): Leveraging Learning to Automatically Manage Algorithms
 
 + [{leaflet} 2.0.4.1](https://cran.r-project.org/package=leaflet): Create Interactive Web Maps with the JavaScript 'Leaflet'Library
 
+![leaflet](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/leaflet.png)
+
 + [{ggeasy} 0.1.3](https://cran.r-project.org/package=ggeasy): Easy Access to 'ggplot2' Commands
+
+![Predicting the outcome of the English Premier League](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/ggeasy.jpeg)
 
 + [{fakemake} 1.10.0](https://cran.r-project.org/package=fakemake): Mock the Unix Make Utility
 
 + [{estimatr} 0.30.0](https://cran.r-project.org/package=estimatr): Fast Estimators for Design-Based Inference
 
 + [{eplusr} 0.14.0](https://cran.r-project.org/package=eplusr): A Toolkit for Using Whole Building Simulation Program 'EnergyPlus'
+
+![eplusr](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/epluser.gif)
 
 + [{diffobj} 0.3.3](https://cran.r-project.org/package=diffobj): Diffs for R Objects
 
@@ -755,6 +771,8 @@ using Experimental Data
 + [{IFAA} 1.0.1](https://cran.r-project.org/package=IFAA): Robust Analysis for Absolute Abundance in Microbiome
 
 + [{gggibbous} 0.1.1](https://cran.r-project.org/package=gggibbous): Moon Charts, a Pie Chart Alternative
+
+![gggibbous](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/gggibbous.png)
 
 + [{corHMM} 2.6](https://cran.r-project.org/package=corHMM): Hidden Markov Models of Character Evolution
 
