@@ -12,7 +12,6 @@ image: https://rweekly.org/public/facebook.png
 ###  Highlight
 
 
-+ [UseR2021: Call for Tutorials](https://user2021.r-project.org/participation/call-for-tutorials/)
 
 
 
@@ -106,4 +105,3 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
