@@ -14,27 +14,42 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 ###  Highlight
 
 + [Automatic Rendering of a Plot with GitHub Actions](https://amitlevinson.com/blog/automated-plot-with-github-actions/)
+
 + [{fastai} 2.0.2](https://cran.r-project.org/package=fastai): Interface to fastai
+![fastai](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/fastai3.png)
+
 + [{renv} 0.12.5](https://cran.r-project.org/package=renv): Project Environments
 
 ### Insights
 
 + [Using the bootstrap for bias reduction](http://elbersb.de/public/posts/bootstrap-bias/)
+
 + [rOpenSci 2020 Code of Conduct Transparency Report](https://ropensci.org/blog/2021/01/07/transparency2020/)
+
 + [rOpenSci Code of Conduct Annual Review](https://ropensci.org/blog/2021/01/07/conduct2021/)
+
 + [COVID-19 Data: The Long Run](https://rviews.rstudio.com/2021/01/06/covid-19-data-the-long-run/)
+
 + [Lilliefors, Kolmogorov-Smirnov and cross-validation](https://freakonometrics.hypotheses.org/61664) <!-- photo -->
+
 + [Coming soon: effortlessly generate ordinal data without assuming proportional odds](https://www.rdatagen.net/post/2021-01-05-coming-soon-new-feature-to-easily-generate-cumulative-odds-without-proportionality-assumption/)
+
 + [Bringing R to Swift on macOS](https://rud.is/b/2021/01/04/bringing-r-to-swift-on-macos/) <!-- twitter -->
+
 + [Most popular posts for 2020](https://eranraviv.com/popular-posts-2020/)
+
 + [This is how you create a one year long newspaper](https://mugecetinkaya.medium.com/this-is-how-you-create-a-one-year-long-newspaper-8a3088e2b050)
 
 ### R in the Real World
 
 + [Predicting the outcome of the English Premier League by using Monte Carlo Method (in R)](https://kristfmenyhrt.medium.com/predicting-the-outcome-of-the-english-premier-league-by-using-monte-carlo-method-in-r-638fbc90fd37)
+
 + [IMDb datasets: 3 centuries of movie rankings visualized](https://novyden.blogspot.com/2021/01/imdb-datasets-3-centuries-of-movie.html)
+
 + [Exploring the game “First Orchard” with simulation in R](https://statisticaloddsandends.wordpress.com/2021/01/06/exploring-the-game-first-orchard-with-simulation-in-r/)
+
 + [F1 2020 Season Review](https://theparttimeanalyst.com/2021/01/04/f1-2020-season-review/)
+
 + [Predicting injuries for Chicago traffic crashes](https://juliasilge.com/blog/chicago-traffic-model/)<!-- Highlight -->
 
 ###  R in Organizations
@@ -48,17 +63,29 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 ###  Tutorials
 
 + [Rtini Part II: Vectorize the Absolute $#!+ Out of This](https://www.brodieg.com/2021/01/04/mesh-red-vec/)
+
 + [Automatic Rendering of a Plot with GitHub Actions](https://amitlevinson.com/blog/automated-plot-with-github-actions/) <!-- Highlight -->
+
 + [Safety Checking Locally Installed Package URLs](https://rud.is/b/2021/01/08/safety-checking-locally-installed-package-urls/)
+
 + [Portable Continuous Integration using r-ci](http://dirk.eddelbuettel.com/blog/2021/01/07#032_portable_ci_with_r-ci)
+
 + [Smoothing isn’t Always Safe](https://win-vector.com/2021/01/07/smoothing-isnt-always-safe/)
+
 + [Isovists using uniform ray casting in R](http://r-posts.com/isovists-using-uniform-ray-casting-in-r/)
+
 + [Custom Google Analytics Dashboards with R: Building The Dashboard](https://blog.rstudio.com/2021/01/06/google-analytics-part2/)
+
 + [The Nature of Overfitting](https://win-vector.com/2021/01/04/the-nature-of-overfitting/)
+
 + [Little useless-useful R functions – Playing stack of cards](https://tomaztsql.wordpress.com/2021/01/03/little-useless-useful-r-functions-playing-stack-of-cards/)
+
 + [Little useless-useful R functions – Mathematical puzzle of Four fours](https://tomaztsql.wordpress.com/2021/01/07/little-useless-useful-r-functions-mathematical-puzzle-of-four-fours/)
+
 + [Tutorial: Adding Open Street Map Data to Rayshader Maps in R](https://www.tylermw.com/adding-open-street-map-data-to-rayshader-maps-in-r/) <!-- Highlight + photo -->
+
 + [Create a simple R data package during a coffee break in 7 steps](https://petrkajzar.eu/en/2021/data-rpkg.html) <!-- Highlight -->
+
 + [A guide to dynamically show a light/dark plot in a website based on the user's preference, using ggplot2 and pkgdown](https://amirmasoudabdol.github.io/sfthemes/articles/dynamic_light_and_dark_plots_in_web.html)
 
 ###  Resources
@@ -72,20 +99,34 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 **CRAN**
 
 + [{knitcitations} 1.0.12](https://cran.r-project.org/package=knitcitations): Citations for 'Knitr' Markdown Files
+
 + [{HydroMe} 2.0-1](https://cran.r-project.org/package=HydroMe): Estimating Water Retention and Infiltration Model Parameters
 using Experimental Data
+
 + [{bdlp} 0.9-2](https://cran.r-project.org/package=bdlp): Transparent and Reproducible Artificial Data Generation
+
 + [{aptg} 0.1.1](https://cran.r-project.org/package=aptg): Automatic Phylogenetic Tree Generator
+
 + [{TukeyRegion} 0.1.4](https://cran.r-project.org/package=TukeyRegion): Tukey Region and Median
+
 + [{simPH} 1.3.13](https://cran.r-project.org/package=simPH): Simulate and Plot Estimates from Cox Proportional Hazards Models
+
 + [{mortyr} 0.0.2](https://cran.r-project.org/package=mortyr): Wrapper to 'The Rick and Morty' API
+
 + [{scrappy} 0.0.1](https://cran.r-project.org/package=scrappy): A Simple Web Scraper
+
 + [{msaeDB} 0.1.0](https://cran.r-project.org/package=msaeDB): Difference Benchmarking for Multivariate Small Area Estimation
+
 + [{metaggR} 0.1.0](https://cran.r-project.org/package=metaggR): Calculate the Knowledge-Weighted Estimate
+
 + [{MARSSVRhybrid} 0.1.0](https://cran.r-project.org/package=MARSSVRhybrid): MARS SVR Hybrid
+
 + [{geostats} 1.0](https://cran.r-project.org/package=geostats): An Introduction to Statistics for Geoscientists
+
 + [{ctsemOMX} 1.0.3](https://cran.r-project.org/package=ctsemOMX): Continuous Time SEM - 'OpenMx' Based Functions
+
 + [{covid19jp} 0.1.0](https://cran.r-project.org/package=covid19jp): Japanese Covid-19 Datasets
+
 + [{QuadRoot} 0.1.0](https://cran.r-project.org/package=QuadRoot): Quadratic Root for any Quadratic Equation
 + [{EMDSVRhybrid} 0.1.0](https://cran.r-project.org/package=EMDSVRhybrid): Hybrid Machine Learning Model
 + [{convergEU} 0.5.1](https://cran.r-project.org/package=convergEU): Monitoring Convergence of EU Countries
@@ -408,6 +449,7 @@ Library
 + [{TraitStats} 1.0.1](https://cran.r-project.org/package=TraitStats): Statistical Data Analysis for Randomized Block Design
 Experiments
 + [{SHAPforxgboost} 0.1.0](https://cran.r-project.org/package=SHAPforxgboost): SHAP Plots for 'XGBoost'
+![SHAPforxgboost](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/SHAPforxgboost.png)
 + [{sars} 1.3.2](https://cran.r-project.org/package=sars): Fit and Compare Species-Area Relationship Models Using
 Multimodel Inference
 + [{SARP.moodle} 0.8.6](https://cran.r-project.org/package=SARP.moodle): XML Output Functions for Easy Creation of Moodle Questions
@@ -488,7 +530,6 @@ Events in 3 Months:
 
 
 
-
 ###  Call for Participation
 
 
@@ -496,8 +537,7 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Making-Of <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a> 2021/02 🚉 Global Transit-Infrastructure Costs <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/r4ds?src=hash&amp;ref_src=twsrc%5Etfw">#r4ds</a> <a href="https://t.co/28FRLNUSp5">https://t.co/28FRLNUSp5</a> <a href="https://t.co/EoY8Plil3P">pic.twitter.com/EoY8Plil3P</a></p>&mdash; Cédric Scherer (@CedScherer) <a href="https://twitter.com/CedScherer/status/1347897859639812097?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Relationship goals!<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/Rladies?src=hash&amp;ref_src=twsrc%5Etfw">#Rladies</a> <a href="https://twitter.com/hashtag/rladiestunis?src=hash&amp;ref_src=twsrc%5Etfw">#rladiestunis</a> <a href="https://t.co/Gy3gZLbQzs">pic.twitter.com/Gy3gZLbQzs</a></p>&mdash; R-Ladies Tunis (@RLadiesTunis) <a href="https://twitter.com/RLadiesTunis/status/1348254381725151232?ref_src=twsrc%5Etfw">January 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I &lt;may&gt; have gone overboard on my research getting ready to teach <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> to anthropology students <a href="https://t.co/4q7sz9Kkc8">pic.twitter.com/4q7sz9Kkc8</a></p>&mdash; Marc Kissel (@MarcKissel) <a href="https://twitter.com/MarcKissel/status/1348052347742773251?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Relationship goals!<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/Rladies?src=hash&amp;ref_src=twsrc%5Etfw">#Rladies</a> <a href="https://twitter.com/hashtag/rladiestunis?src=hash&amp;ref_src=twsrc%5Etfw">#rladiestunis</a> <a href="https://t.co/Gy3gZLbQzs">pic.twitter.com/Gy3gZLbQzs</a></p>&mdash; R-Ladies Tunis (@RLadiesTunis) <a href="https://twitter.com/RLadiesTunis/status/1348254381725151232?ref_src=twsrc%5Etfw">January 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
