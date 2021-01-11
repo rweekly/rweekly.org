@@ -39,6 +39,7 @@ image: https://rweekly.org/public/facebook.png
 
 **CRAN**
 
++ [prompter 1.0.0](https://cran.r-project.org/web/packages/prompter/index.html): Add tooltips in shiny apps via hint.css
 
 
 **BioC**
