@@ -12,6 +12,9 @@ image: https://rweekly.org/public/facebook.png
 ###  Highlight
 
 
++ [UseR2021: Call for Tutorials](https://user2021.r-project.org/participation/call-for-tutorials/)
+
+
 
 ### Insights
 
@@ -67,6 +70,7 @@ image: https://rweekly.org/public/facebook.png
 
 
 ### R Internationally
++ [UseR2021: Call for Tutorials](https://user2021.r-project.org/participation/call-for-tutorials/)
 
 
 
