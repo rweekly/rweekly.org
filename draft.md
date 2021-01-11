@@ -64,6 +64,9 @@ This week’s release was curated by Batool Almarzouq, with help from the R Week
 
 + [Professional Financial Reports with RMarkdown](https://technistema.com/posts/professional-financial-reports-with-rmarkdown/)
 
+![Professional Financial Reports with RMarkdown](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/pro_reports.png)
+
+
 ###  R in Academia
 
 + [Finding Economic Articles with Data and Specific Empirical Methods](http://skranz.github.io//r/2021/01/05/FindingEconomicArticles4.html)
@@ -187,6 +190,9 @@ using Experimental Data
 + [{PEACH} 0.1.1](https://cran.r-project.org/package=PEACH): Pareto Enrichment Analysis for Combining Heterogeneous Datasets
 
 + [{nbapalettes} 0.1.0](https://cran.r-project.org/package=nbapalettes): An NBA Jersey Palette Generator
+
+![nbapalettes](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/nba1.png)
+![nbapalettes](https://cdn.jsdelivr.net/gh/rweekly/image/2021-1-10/nba2.jpg)
 
 + [{PheNorm} 0.1.0](https://cran.r-project.org/package=PheNorm): Unsupervised Gold-Standard Label Free Phenotyping Algorithm for EHR Data
 
