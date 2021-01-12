@@ -50,6 +50,11 @@ image: https://rweekly.org/public/facebook.png
 
 **GitHub or Bitbucket**
 
++ [{preferably} 0.3.0](https://amirmasoudabdol.github.io/preferably) : An accessible template for pkgdown websites with dynamic light/dark mode support.
+
++ [{sfthemes} 0.2.0](https://amirmasoudabdol.github.io/sfthemes) : An accessible set of ggplot2 themes and color palettes optimized for light/dark appearances, and different screen sizes.
+
+![SF Light/Dark Themes + iOS Light/Dark Color Palettes](https://raw.githubusercontent.com/amirmasoudabdol/sfthemes/main/man/figures/front-page-main.png)
 
 
 ### Updated Packages
