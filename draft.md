@@ -16,7 +16,7 @@ image: https://rweekly.org/public/facebook.png
 
 
 ### Insights
-
++ [Data science as an atomic habit](https://malco.io/2021/01/04/data-science-as-an-atomic-habit/)
 
 
 ### R in the Real World
