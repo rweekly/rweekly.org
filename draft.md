@@ -21,7 +21,11 @@ image: https://rweekly.org/public/facebook.png
 
 ### R in the Real World
 
++ [From gmailr to the Google Books API](https://www.pipinghotdata.com/posts/2021-01-11-from-gmailr-to-the-google-books-api/)
 
++ [J.League Soccer 2020 Season Review with R!](https://ryo-n7.github.io/2021-01-14-jleague-2020-season-review-with-r/)
+
+![]()
 
 ###  R in Organizations
 
@@ -50,7 +54,9 @@ image: https://rweekly.org/public/facebook.png
 
 **GitHub or Bitbucket**
 
++ [{feather}](https://github.com/shandiya/feather): Colour palettes for data visualisation, inspired by the plumage of Australian birds.
 
+![]()
 
 ### Updated Packages
 
@@ -66,7 +72,7 @@ image: https://rweekly.org/public/facebook.png
 
 ### Shiny Apps
 
-
++ [NCAA Plus Minus](https://jflancer.shinyapps.io/rapm/)
 
 ### R Internationally
 + [UseR2021: Call for Tutorials](https://user2021.r-project.org/participation/call-for-tutorials/)
