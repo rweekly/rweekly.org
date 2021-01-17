@@ -21,18 +21,21 @@ image: https://rweekly.org/public/facebook.png
 
 + [Data science as an atomic habit](https://malco.io/2021/01/04/data-science-as-an-atomic-habit/)
 
-
-+ [Fantasy Football and the Classical Scheduling Problem](https://tonyelhabr.rbind.io/post/fantasy-football-schedule-problem/)
+![Data science as an atomic habit](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/atomic.png)
 
 + [Stingy Beanie baby webscraping](https://masalmon.eu/2021/01/15/beanie-baby/)
 
 + [J.League Soccer 2020 Season Review with R!](http://Ryo-N7.github.io/2021-01-14-jleague-2020-season-review-with-r/)
+
+![J.League Soccer 2020 Season Review with R!](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/season-review.png)
 
 + [Teaching coding: What is a faded example?](https://georgejmount.com/teaching-coding-what-is-a-faded-example/)
 
 ### R in the Real World
 
 + [Non-hierarchical edge bundling in r](http://blog.schochastics.net/post/non-hierarchical-edge-bundling-in-r/)
+
+![Non-hierarchical edge bundling in r](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/edge.png)
 
 + [From gmailr to the Google Books API](https://www.pipinghotdata.com/posts/2021-01-11-from-gmailr-to-the-google-books-api/)
 
@@ -41,9 +44,19 @@ image: https://rweekly.org/public/facebook.png
 
 + [Explore art media over time in the #TidyTuesday Tate collection dataset](https://juliasilge.com/blog/tate-collection/)
 
+![Explore art media over time in the #TidyTuesday Tate collection dataset](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/tate.png)
+
 + [Visualizing geospatial data in R—Part 3: Making interactive maps with leaflet](https://www.theanalystcode.com/articles/visualizing-geospatial-data-interactive-maps-with-leaflet)
 
+![Visualizing geospatial data in R—Part 3: Making interactive maps with leaflet](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/geospa.png)
+
++ [Fantasy Football and the Classical Scheduling Problem](https://tonyelhabr.rbind.io/post/fantasy-football-schedule-problem/)
+
+![Fantasy Football and the Classical Scheduling Problem](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/football-tony.png)
+
 ###  R in Organizations
+
++ [UseR! 2021: Call for Tutorials](https://user2021.r-project.org/participation/call-for-tutorials/)
 
 
 
@@ -81,6 +94,7 @@ Mozilla's Documentation of HTML5
 
 + [{ggvenn} 0.1.8](https://cran.r-project.org/package=ggvenn): Draw Venn Diagram by 'ggplot2'
 
+![{ggvenn} 0.1.8](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/ggvenn.png)
 
 + [{resumer} 0.0.4](https://cran.r-project.org/package=resumer): Build Resumes with R
 
@@ -108,6 +122,10 @@ Mozilla's Documentation of HTML5
 
 + [{glmnet} 4.1](https://statisticaloddsandends.wordpress.com/2021/01/14/glmnet-v4-1-regularized-cox-models-for-start-stop-and-stratified-data/): Regularized Cox models for start, stop and stratified data
 
++ [{shinyWidgets} 0.5.5](https://cran.r-project.org/package=shinyWidgets): Custom Inputs Widgets for Shiny
+
+![{shinyWidgets} 0.5.5](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/widgets.gif)
+
 + [{DBI} 1.1.1](https://cran.r-project.org/package=DBI): R Database Interface
 
 + [{altair} 4.1.1](https://cran.r-project.org/package=altair): Interface to 'Altair'
@@ -118,11 +136,12 @@ Mozilla's Documentation of HTML5
 
 + [{pROC} 1.17.0.1](https://cran.r-project.org/package=pROC): Display and Analyze ROC Curves
 
-+ [{shinyWidgets} 0.5.5](https://cran.r-project.org/package=shinyWidgets): Custom Inputs Widgets for Shiny
 
 + [{ggformula} 0.10.1](https://cran.r-project.org/package=ggformula): Formula Interface to the Grammar of Graphics
 
 + [{shinytest} 1.5.0](https://cran.r-project.org/package=shinytest): Test Shiny Apps
+
+![shinytest} 1.5.0](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/shiny-test.png)
 
 + [{httpuv} 1.5.5](https://cran.r-project.org/package=httpuv): HTTP and WebSocket Server Library
 
@@ -132,6 +151,7 @@ Mozilla's Documentation of HTML5
 
 + [{Rcpp} 1.0.6](http://dirk.eddelbuettel.com/blog/2021/01/15#rcpp_1.0.6): Seamless R and C++ Integration
 
++ [{Shiny Server} 1.5.16](https://blog.rstudio.com/2021/01/13/shiny-server-1-5-16-update/): Important Security Notice
 
 ###  Videos and Podcasts
 
@@ -152,8 +172,6 @@ Mozilla's Documentation of HTML5
 + [NCAA Plus Minus](https://jflancer.shinyapps.io/rapm/)
 
 ### R Internationally
-
-+ [UseR2021: Call for Tutorials](https://user2021.r-project.org/participation/call-for-tutorials/)
 
 
 
@@ -199,8 +217,6 @@ Mozilla's Documentation of HTML5
 + [What's new with AzureR](https://blog.revolutionanalytics.com/2021/01/whats-new-with-azurer.html)
 
 + [My predictions for 2021 – Data and analytics](https://tomaztsql.wordpress.com/2021/01/13/my-predictions-for-2021-data-and-analytics/)
-
-+ [Shiny Server 1.5.16 Update](https://blog.rstudio.com/2021/01/13/shiny-server-1-5-16-update/)
 
 + [Code for the “Variable Utility is not Intrinsic” Article](https://win-vector.com/2021/01/12/code-for-the-variable-utility-is-not-intrinsic-article/)
 
