@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2021-W00
+title: R Weekly 2021-W03
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -12,7 +12,13 @@ image: https://rweekly.org/public/facebook.png
 ###  Highlight
 
 
++ [Data science as an atomic habit](https://malco.io/2021/01/04/data-science-as-an-atomic-habit/)
 
++ [J.League Soccer 2020 Season Review with R!](http://Ryo-N7.github.io/2021-01-14-jleague-2020-season-review-with-r/)
+
++ [UseR! 2021: Call for Tutorials](https://user2021.r-project.org/participation/call-for-tutorials/)
+
++ [Fantasy Football and the Classical Scheduling Problem](https://tonyelhabr.rbind.io/post/fantasy-football-schedule-problem/)
 
 
 ### Insights
@@ -51,17 +57,11 @@ image: https://rweekly.org/public/facebook.png
 
 ![Fantasy Football and the Classical Scheduling Problem](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/football-tony.png)
 
++ [The Bachelorette Eps. 9 to Finale  - The Final  - Data and Drama in R](https://www.stoltzmanconsulting.com/blog/2021/01/12/the-bachelorette-data-and-drama-in-r-final-episode)
+
 ###  R in Organizations
 
 + [UseR! 2021: Call for Tutorials](https://user2021.r-project.org/participation/call-for-tutorials/)
-
-
-
-###  R in Academia
-
-
-
-###  Resources
 
 
 
@@ -160,15 +160,10 @@ Mozilla's Documentation of HTML5
 
 + [Upcoming Why R Webinar - Why using R for analysis of the human microbiome is a good idea](http://whyr.pl//foundation/2021/Susan_Holmes/)
 
-### Gist & Cookbook
-
-
 
 ### Shiny Apps
 
 + [NCAA Plus Minus](https://jflancer.shinyapps.io/rapm/)
-
-### R Internationally
 
 
 
@@ -227,7 +222,7 @@ Mozilla's Documentation of HTML5
 
 + [Win Probability Added – Batsman Review](https://theparttimeanalyst.com/2021/01/12/win-probability-added-batsman-review/)
 
-+ [The Bachelorette Eps. 9 to Finale  - The Final  - Data and Drama in R](https://www.stoltzmanconsulting.com/blog/2021/01/12/the-bachelorette-data-and-drama-in-r-final-episode)
+![Win Probability Added – Batsman Review](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/batsman.png)
 
 + [Variable Utility is not Intrinsic](https://win-vector.com/2021/01/12/variable-utility-is-not-intrinsic/)
 
@@ -261,10 +256,6 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-
-### Datasets
-
-### Jobs
 
 
 ###  Call for Participation
