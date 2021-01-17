@@ -267,3 +267,8 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Type &quot;I love R because&quot; and let your autocomplete finish. <br><br>I&#39;ll start:<br><br>I love R because it&#39;s the only way to get to the point where you are not supposed to be. <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a></p>&mdash; Colin Fay 🤘 (@_ColinFay) <a href="https://twitter.com/_ColinFay/status/1349650386404171777?ref_src=twsrc%5Etfw">January 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/rspatial?src=hash&amp;ref_src=twsrc%5Etfw">#rspatial</a> inspired by <a href="https://t.co/di4PSmdzhy">https://t.co/di4PSmdzhy</a> it is now possible to add image &amp; graph popups as tooltips (on hover rather than click) by setting `tooltip = TRUE` in the respective functions. E.g. leafpop::addPopupGraphs(..., tooltip = TRUE)👇 <a href="https://t.co/JFpqEW5Xxy">pic.twitter.com/JFpqEW5Xxy</a></p>&mdash; TimSalabim (@TimSalabim3) <a href="https://twitter.com/TimSalabim3/status/1347865160074072064?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
