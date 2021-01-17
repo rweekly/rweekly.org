@@ -46,9 +46,6 @@ image: https://rweekly.org/public/facebook.png
 
 ![Explore art media over time in the #TidyTuesday Tate collection dataset](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/tate.png)
 
-+ [Visualizing geospatial data in R—Part 3: Making interactive maps with leaflet](https://www.theanalystcode.com/articles/visualizing-geospatial-data-interactive-maps-with-leaflet)
-
-![Visualizing geospatial data in R—Part 3: Making interactive maps with leaflet](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/geospa.png)
 
 + [Fantasy Football and the Classical Scheduling Problem](https://tonyelhabr.rbind.io/post/fantasy-football-schedule-problem/)
 
@@ -188,11 +185,17 @@ Mozilla's Documentation of HTML5
 + [Work with Databases through R's tidyverse](https://sciencificity-blog.netlify.app/posts/2020-12-20-using-the-tidyverse-with-dbs-partii/)
 
 
+
 + [The creation of ADAM – next step in statistical forecasting](https://forecasting.svetunkov.ru/en/2021/01/13/the-creation-of-adam-next-step-in-statistical-forecasting/)
 
 + [Automatically installing Shiny and RStudio server on Raspberry Pi OS with Ansible](https://andresrcs.rbind.io/2021/01/13/raspberry_pi_server/)
 
 + [How To Report The Distribution Of Attributes Per Cluster](https://predictivehacks.com/how-to-report-the-distribution-of-attributes-per-cluster/)
+
+
++ [Visualizing geospatial data in R—Part 3: Making interactive maps with leaflet](https://www.theanalystcode.com/articles/visualizing-geospatial-data-interactive-maps-with-leaflet)
+
+![Visualizing geospatial data in R—Part 3: Making interactive maps with leaflet](https://raw.githubusercontent.com/rweekly/image/master/2021/W3/geospa.png)
 
 + [A guide to dynamically show a light/dark plot in a website based on the user's preference, using ggplot2 and pkgdown](https://amirmasoudabdol.github.io/sfthemes/articles/dynamic_light_and_dark_plots_in_web.html)
 
@@ -201,6 +204,8 @@ Mozilla's Documentation of HTML5
 + [ppsr: An R implementation of the Predictive Power Score](https://paulvanderlaken.com/2021/01/12/ppsr-r-package-predictive-power-score/)
 
 + [Overcome the technical hurdles of your RStudio environment](https://www.mango-solutions.com/overcome-the-technical-hurdles-of-your-rstudio-environment/)
+
+
 
 + [Setup Visual Studio Code to run R on VSCode 2021](https://www.programmingwithr.com/setup-visual-studio-code-to-run-r-on-vscode-2021/)
 
