@@ -239,6 +239,8 @@ Plotly offers so much more than ggplotly(). In combination with crosstalk, you c
 
 + [lmDiallel: a new R package to fit diallel models. The Griffing's models (1956)](https://www.statforbiology.com/2021/stat_met_diallel_griffing/)
 
++ [Generating SQL with {dbplyr} and sqlfluff](https://emilyriederer.netlify.app/post/sql-generation/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
