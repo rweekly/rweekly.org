@@ -15,7 +15,7 @@ image: https://rweekly.org/public/facebook.png
 
 ### Insights
 
-
++ [Model averaging methods: how and why to build ensemble models](https://www.mm218.dev/posts/2021/01/model-averaging/)
 
 ### R in the Real World
 
