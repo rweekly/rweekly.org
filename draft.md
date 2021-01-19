@@ -31,7 +31,7 @@ image: https://rweekly.org/public/facebook.png
 
 ###  Resources
 
-
++ [Main terms and concepts in R](https://gitlab.com/stragu/DSH/-/blob/master/R/terminology.md)
 
 ###  New Packages
 
