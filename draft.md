@@ -47,6 +47,7 @@ image: https://rweekly.org/public/facebook.png
 
 **GitHub or Bitbucket**
 
++ [{bbb} 0.3.0](https://github.com/baslat/bbb) : Build Bounding Boxes: an R Studio addin to draw spatial bounding boxes with `leaflet`
 
 
 ### Updated Packages
