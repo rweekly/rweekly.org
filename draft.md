@@ -42,6 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 [circletyper](https://github.com/etiennebacher/circletyper): Curve text elements in Shiny applications.
 
+[leaflegend](https://github.com/tomroh/leaflegend): Provides extensions to the 'leaflet' package to customize legends with images, text styling, orientation, sizing, and symbology.
 
 **BioC**
 
