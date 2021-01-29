@@ -40,9 +40,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
-[circletyper](https://github.com/etiennebacher/circletyper): Curve text elements in Shiny applications.
 
-[leaflegend](https://github.com/tomroh/leaflegend): Provides extensions to the 'leaflet' package to customize legends with images, text styling, orientation, sizing, and symbology.
++ [circletyper](https://github.com/etiennebacher/circletyper): Curve text elements in Shiny applications.
+
++ [leaflegend](https://github.com/tomroh/leaflegend): Provides extensions to the 'leaflet' package to customize legends with images, text styling, orientation, sizing, and symbology.
 
 **BioC**
 
@@ -50,7 +51,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
+[cronologia](https://github.com/feddelegrand7/cronologia)
 
 ### Updated Packages
 
@@ -102,6 +103,7 @@ Events in 3 Months:
 
 ###  Call for Participation
 
++ [useR2021 Call for Abstracts](https://user2021.r-project.org/participation/call-for-abstracts/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
