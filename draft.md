@@ -50,7 +50,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
+[cronologia](https://github.com/feddelegrand7/cronologia)
 
 ### Updated Packages
 
@@ -70,7 +70,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
-
+[useR2021 Call for Abstracts](https://user2021.r-project.org/participation/call-for-abstracts/)
 
 ###  Tutorials
 
