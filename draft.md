@@ -23,16 +23,6 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [Top R tips and news from RStudio Global 2021](https://techexec.com.au/?p=2443)
 
-+ [Maintaining the house the tidyverse built](https://rstudio.com/resources/rstudioglobal-2021/maintaining-the-house-the-tidyverse-built/) - Hadley Wickham
-
-+ [What's new in tidymodels?](https://rstudio.com/resources/rstudioglobal-2021/whats-new-in-tidymodels/)  - Max Kuhn
-
-+ [Lifelong Learning with R Weekly](https://rstudio.com/resources/rstudioglobal-2021/lifelong-learning-with-r-weekly/)  - Wolfram King
-
-+ [Monitoring health and impact of open-source projects ](https://rstudio.com/resources/rstudioglobal-2021/monitoring-health-and-impact-of-open-source-projects/) - Jeroen Ooms
-
-+ [Making Shiny apps faster with caching](https://rstudio.com/resources/rstudioglobal-2021/making-shiny-apps-faster-with-caching/)  - Winston Chang
-
 ### Insights
 
 + [Dec 2020: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/01/29/dec-2020-top-40-new-cran-packages/)
@@ -67,9 +57,9 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 **CRAN**
 
-+ [circletyper](https://github.com/etiennebacher/circletyper): Curve text elements in Shiny applications.
++ [{circletyper} 1.0.0](https://github.com/etiennebacher/circletyper): Curve text elements in Shiny applications.
 
-+ [leaflegend](https://github.com/tomroh/leaflegend): Provides extensions to the 'leaflet' package to customize legends with images, text styling, orientation, sizing, and symbology.
++ [{leaflegend} 0.1.0](https://github.com/tomroh/leaflegend): Provides extensions to the 'leaflet' package to customize legends with images, text styling, orientation, sizing, and symbology.
 
 + [{bslib} 0.2.4](https://github.com/rstudio/bslib): Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'
 
