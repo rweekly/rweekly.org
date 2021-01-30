@@ -14,6 +14,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Highlight
 
 
+### rstudio::global(2021)
+
++ [rstudio::global 2021 talks](https://rstudio.com/resources/rstudioglobal-2021/)
+
++ [Maintaining the house the tidyverse built - Hadley Wickham](https://rstudio.com/resources/rstudioglobal-2021/maintaining-the-house-the-tidyverse-built/)
+
++ [What's new in tidymodels? - Max Kuhn](https://rstudio.com/resources/rstudioglobal-2021/whats-new-in-tidymodels/)
+
++ [Lifelong Learning with R Weekly - Wolfram King](https://rstudio.com/resources/rstudioglobal-2021/lifelong-learning-with-r-weekly/)
+
++ [Monitoring health and impact of open-source projects - Jeroen Ooms](https://rstudio.com/resources/rstudioglobal-2021/monitoring-health-and-impact-of-open-source-projects/)
+
++ [Making Shiny apps faster with caching - Winston Chang](https://rstudio.com/resources/rstudioglobal-2021/making-shiny-apps-faster-with-caching/)
 
 ### Insights
 
