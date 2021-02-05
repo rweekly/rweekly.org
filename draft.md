@@ -75,6 +75,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Tutorials
 + [Let`s grow trees - the fast way to create and visualise Decision Trees using {explore}](https://rolkra.github.io/lets-grow-trees/)
 
++ [Introduction to leaflegend: Map Symbols and Legend Styling for leaflet](https://roh.engineering/post/2021-02-04-introduction-to-leaflegend/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
