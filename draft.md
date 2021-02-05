@@ -70,7 +70,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
-
++ [Être un•e utilisateur•rice de R résilient•e (diapos)](https://rresilient.netlify.app/#/)
 
 ###  Tutorials
 + [Let`s grow trees - the fast way to create and visualise Decision Trees using {explore}](https://rolkra.github.io/lets-grow-trees/)
