@@ -19,34 +19,33 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Some thoughts on rstudio::global talks](https://rviews.rstudio.com/2021/02/04/some-thoughts-on-rstudio-global/)
 
-+ [Lists are my secret weapon for reporting stats with knitr](https://tjmahr.github.io/lists-knitr-secret-weapon/)
-
-+ [targets: Democratizing Reproducible Analysis Pipelines](https://ropensci.org/blog/2021/02/03/targets/)
-
-+ [An analysis of the CRAN submission queue](https://llrs.dev/2021/01/cran-review/)
-
-+ [Cracking and packing: a simple gerrymander simulation](https://jtimm.net/2021/02/04/gerrymander-101/)
+### R in the Real World
 
 + [Remote Pair Programming in R Using Visual Studio Code and Live Share](https://ivelasq.rbind.io/blog/vscode-live-share/)
 
-### R in the Real World
++ [Lists are my secret weapon for reporting stats with knitr](https://tjmahr.github.io/lists-knitr-secret-weapon/)
+
++ [An analysis of the CRAN submission queue](https://llrs.dev/2021/01/cran-review/)
 
 + [Visualising stock prices and volume by @ellis2013nz](http://freerangestats.info/blog/2021/02/05/stock-visualizations)
 
 + [Gunslingers and Game Managers (American football)](https://www.opensourcefootball.com/posts/2021-02-05-gunslingers-and-game-managers/)
 
++ [Word network of Bioconductor packages](https://mariadermit.netlify.app/2021-01-30-network-visualization-of-bioconductor-packages/)
+
 ###  R in Organizations
 
-+ [The 2021 RUGS Program is Live!](https://www.r-consortium.org/blog/2021/02/04/the-2021-rugs-program-is-live)
++ [targets: Democratizing Reproducible Analysis Pipelines](https://ropensci.org/blog/2021/02/03/targets/)
 
 ###  R in Academia
 
 + [Network trees: networktree 1.0.0, web page, and Psychometrika paper](https://www.zeileis.org/news/networktree100/)
 
-
 ###  Resources
 
-+ [R Epidemics Consortium’s (RECON) COVID-19 Challenge](https://www.r-consortium.org/blog/2021/02/03/use-your-r-skills-to-fight-covid-19-covid-19-challenge-funded-by-r-consortium-open-now)
++ [Learn tidytext with my new learnr course](https://juliasilge.com/blog/learn-tidytext-learnr/)
+
++ [Cracking and packing: a simple gerrymander simulation](https://jtimm.net/2021/02/04/gerrymander-101/)
 
 ###  New Packages
 
@@ -78,27 +77,33 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ### Shiny Apps
 
-+ [A dashboard for estimating house sale prices in ~Pittsburgh PA. Built with {shiny} and {tidymodels}.](https://ctompkins.netlify.app/post/house_price_estimator/)
++ [A dashboard for estimating house sale prices in Pittsburgh PA. Built with {shiny} and {tidymodels}.](https://ctompkins.netlify.app/post/house_price_estimator/)
 
 ### R Internationally
 
 + [Être un•e utilisateur•rice de R résilient•e (diapos)](https://rresilient.netlify.app/#/)
 
 ###  Tutorials
-+ [Let`s grow trees - the fast way to create and visualise Decision Trees using {explore}](https://rolkra.github.io/lets-grow-trees/)
+
++ [Star Trek: The Next Generation catchphrases](https://sharla.party/post/2021-02-02-startrek/)
+
++ [Removing image backgrounds with magick](https://themockup.blog/posts/2021-01-28-removing-image-backgrounds-with-magick/)
+
++ [Simple audio classification with torch](https://blogs.rstudio.com/tensorflow/posts/2021-02-04-simple-audio-classification-with-torch)
+
++ [Forecasting El Niño-Southern Oscillation (ENSO)](https://blogs.rstudio.com/tensorflow/posts/2021-02-02-enso-prediction)
+
++ [Let's grow trees - the fast way to create and visualise Decision Trees using {explore}](https://rolkra.github.io/lets-grow-trees/)
 
 + [Introduction to leaflegend: Map Symbols and Legend Styling for leaflet](https://roh.engineering/post/2021-02-04-introduction-to-leaflegend/)
+
 + [Amazon Athena {dbplyr} Implicit Usage of Presto Functions and Making JSON Casting Great Again](https://rud.is/b/2021/02/02/amazon-athena-dbplyr-implicit-usage-of-presto-functions-and-making-json-casting-great-again/)
 
 + [PCA as matrix approximation](https://eranraviv.com/understanding-variance-explained-in-pca-matrix-approximation/)
 
 + [Adding Football Crests to Scatter Plots in R](http://dm13450.github.io/2021/02/01/PointsToImages.html)
 
-+ [Lists are my secret weapon for reporting stats with knitr](https://tjmahr.github.io/lists-knitr-secret-weapon/)
-
 + [Partisan metrics: some notes](https://jtimm.net/2021/02/05/partisan-metrics/)
-
-+ [Simple audio classification with torch](https://blogs.rstudio.com/tensorflow/posts/2021-02-04-simple-audio-classification-with-torch)
 
 + [All You Need To Know About Merging (Joining) Datasets in R](https://thomasadventure.blog/posts/r-merging-datasets/)
 
