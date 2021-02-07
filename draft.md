@@ -13,7 +13,9 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ###  Highlight
 
++ [Shiny 1.6](https://blog.rstudio.com/2021/02/01/shiny-1-6-0/)
 
++ [Remote Pair Programming in R Using Visual Studio Code and Live Share](https://ivelasq.rbind.io/blog/vscode-live-share/)
 
 ### Insights
 
@@ -53,19 +55,34 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 **CRAN**
 
-
-
-**BioC**
-
-
-
-**GitHub or Bitbucket**
-
-
++ [{redoc} 2.0.0.49](https://cran.r-project.org/package=redoc): Generates 'Redoc' Documentation from an 'OpenAPI' Specification
++ [{rapidoc} 8.4.3](https://cran.r-project.org/package=rapidoc): Generates 'RapiDoc' Documentation from an 'OpenAPI'
+Specification
++ [{ridge} 2.9](https://cran.r-project.org/package=ridge): Ridge Regression with Automatic Selection of the Penalty
+Parameter
++ [{spatstat.linnet} 1.65-3](https://cran.r-project.org/package=spatstat.linnet): Linear Networks Functionality of the 'spatstat' Package
++ [{tarchetypes} 0.0.4](https://cran.r-project.org/package=tarchetypes): Archetypes for Targets
++ [{cronologia} 0.1.0](https://cran.r-project.org/package=cronologia): Create an HTML Vertical Timeline from a Data Frame in 'rmarkdown' and 'shiny'
++ [{motif} 0.4.1](https://cran.r-project.org/package=motif): Local Pattern Analysis
++ [{sassy} 1.0.3](https://cran.r-project.org/package=sassy): Makes 'R' Easier for 'SAS®' Programmers
++ [{hockeystick} 0.4.0](https://cran.r-project.org/package=hockeystick): Download and Visualize Essential Climate Change Data
++ [{RcppFastFloat} 0.0.1](https://cran.r-project.org/package=RcppFastFloat): 'Rcpp' Bindings for the 'fast_float' Header-Only Library for Number Parsing
 
 ### Updated Packages
 
-+ [Shiny 1.6](https://blog.rstudio.com/2021/02/01/shiny-1-6-0/)
++ [{rms} 6.1-1](https://cran.r-project.org/package=rms): Regression Modeling Strategies
++ [{feasts} 0.1.7](https://cran.r-project.org/package=feasts): Feature Extraction and Statistics for Time Series
++ [{officedown} 0.2.1](https://cran.r-project.org/package=officedown): Enhanced 'R Markdown' Format for 'Word' and 'PowerPoint'
++ [{flextable} 0.6.3](https://cran.r-project.org/package=flextable): Functions for Tabular Reporting
++ [{bipartite} 2.16](https://cran.r-project.org/package=bipartite): Visualising Bipartite Networks and Calculating Some (Ecological) Indices
++ [{rgdal} 1.5-23](https://cran.r-project.org/package=rgdal): Bindings for the 'Geospatial' Data Abstraction Library
++ [{spatstat.core} 1.65-5](https://cran.r-project.org/package=spatstat.core): Core Functionality of the 'spatstat' Package
++ [{targets} 0.1.0](https://cran.r-project.org/package=targets): Dynamic Function-Oriented 'Make'-Like Declarative Workflows
++ [{duckdb} 0.2.4](https://cran.r-project.org/package=duckdb): DBI Package for the DuckDB Database Management System
++ [{vitae} 0.4.1](https://cran.r-project.org/package=vitae): Curriculum Vitae for R Markdown
++ [{shinyWidgets} 0.5.7](https://cran.r-project.org/package=shinyWidgets): Custom Inputs Widgets for Shiny
++ [{mlr3proba} 0.3.1](https://cran.r-project.org/package=mlr3proba): Probabilistic Supervised Learning for 'mlr3'
++ [{wrapr} 2.0.7](https://cran.r-project.org/package=wrapr): Wrap R Tools for Debugging and Parametric Programming
 
 ###  Videos and Podcasts
 
@@ -113,6 +130,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Pattern-based spatial analysis in R: an introduction](https://nowosad.github.io/post/motif-bp1/)
 
++ [How to draw a map of arbitrary contiguous regions, or visualizing the spread of COVID-19 in the Greater Region](https://www.brodrigues.co/blog/2021-02-06-echarts_map/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -152,6 +171,3 @@ Events in 3 Months:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚀 Happy to release tidy.js today on npm. Inspired by the tidyverse and dplyr, tidy.js aims to bring the ergonomics of data wrangling from <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> to the js (and typescript) community.<br><br>site: <a href="https://t.co/faolPmwy8v">https://t.co/faolPmwy8v</a> (+ playground)<br>repo: <a href="https://t.co/eOJnNGelnV">https://t.co/eOJnNGelnV</a> <a href="https://t.co/cwEYCRb3JB">pic.twitter.com/cwEYCRb3JB</a></p>&mdash; Peter Beshai (@pbesh) <a href="https://twitter.com/pbesh/status/1356649637088686081?ref_src=twsrc%5Etfw">February 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">INTERPRETABILITY, ACCESSABILITY, TIDY CODE, GRAPHICS, AESTHETICS, BRANDING, COMMUNICATION, TALKING TO PEOPLE SMARTER THAN YOU , SOCIAL MEDIA IT ALL MATTERS</p>&mdash; Asmae Toumi (@asmae_toumi) <a href="https://twitter.com/asmae_toumi/status/1357721162097319938?ref_src=twsrc%5Etfw">February 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
