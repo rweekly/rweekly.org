@@ -33,6 +33,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Word network of Bioconductor packages](https://mariadermit.netlify.app/2021-01-30-network-visualization-of-bioconductor-packages/)
 
++ [Visualising the impact of the COVID-19 pandemic on healthcare through R](https://doi.org/10.3390/healthcare8040483)
+
 ###  R in Organizations
 
 + [targets: Democratizing Reproducible Analysis Pipelines](https://ropensci.org/blog/2021/02/03/targets/)
