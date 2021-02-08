@@ -10,10 +10,9 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr), with help from the RWeekly team members and contributors.
 
-
 ###  Highlight
 
-+ [Shiny 1.6](https://blog.rstudio.com/2021/02/01/shiny-1-6-0/)
++ [Shiny 1.6: Theming, Caching, Accessibility](https://blog.rstudio.com/2021/02/01/shiny-1-6-0/)
 
 + [Remote Pair Programming in R Using Visual Studio Code and Live Share](https://ivelasq.rbind.io/blog/vscode-live-share/)
 
@@ -39,7 +38,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Word network of Bioconductor packages](https://mariadermit.netlify.app/2021-01-30-network-visualization-of-bioconductor-packages/)
 
-![CRAN Queues](https://raw.githubusercontent.com/rweekly/image/master/2021/W06/bioconductor-package-title-coocurrences1.png)
+![Biocopnductor package title word co-occurences](https://raw.githubusercontent.com/rweekly/image/master/2021/W06/bioconductor-package-title-coocurrences.png)
 
 ###  R in Organizations
 
@@ -75,6 +74,8 @@ Parameter
 + [{RcppFastFloat} 0.0.1](https://cran.r-project.org/package=RcppFastFloat): 'Rcpp' Bindings for the 'fast_float' Header-Only Library for Number Parsing
 
 ### Updated Packages
+
++ [Shiny 1.6: Theming, Caching, Accessibility](https://blog.rstudio.com/2021/02/01/shiny-1-6-0/)
 
 + [{rms} 6.1-1](https://cran.r-project.org/package=rms): Regression Modeling Strategies
 + [{feasts} 0.1.7](https://cran.r-project.org/package=feasts): Feature Extraction and Statistics for Time Series
