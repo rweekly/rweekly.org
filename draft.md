@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: R Weekly 2021-W06
-description: Draft of the R Weekly
+description: Shiny update, VS Code Live Share, Lists + knitr
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -17,6 +17,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Remote Pair Programming in R Using Visual Studio Code and Live Share](https://ivelasq.rbind.io/blog/vscode-live-share/)
 
++ [Lists are my secret weapon for reporting stats with knitr](https://tjmahr.github.io/lists-knitr-secret-weapon/)
+
 ### Insights
 
 + [Some thoughts on rstudio::global talks](https://rviews.rstudio.com/2021/02/04/some-thoughts-on-rstudio-global/)
@@ -29,11 +31,15 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [An analysis of the CRAN submission queue](https://llrs.dev/2021/01/cran-review/)
 
+![CRAN Queues](https://raw.githubusercontent.com/rweekly/image/master/2021/W06/cran-queues-1.png)
+
 + [Visualising stock prices and volume by @ellis2013nz](http://freerangestats.info/blog/2021/02/05/stock-visualizations)
 
 + [Gunslingers and Game Managers (American football)](https://www.opensourcefootball.com/posts/2021-02-05-gunslingers-and-game-managers/)
 
 + [Word network of Bioconductor packages](https://mariadermit.netlify.app/2021-01-30-network-visualization-of-bioconductor-packages/)
+
+![CRAN Queues](https://raw.githubusercontent.com/rweekly/image/master/2021/W06/bioconductor-package-title-coocurrences1.png)
 
 ###  R in Organizations
 
@@ -88,13 +94,11 @@ Parameter
 
 + [How to apply check boxes, drop-down fields, and sliders to explore data without Shiny: plotly, crosstalk, and bscols()](https://youtu.be/dltr9WNselI)
 
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [A dashboard for estimating house sale prices in Pittsburgh PA. Built with {shiny} and {tidymodels}.](https://ctompkins.netlify.app/post/house_price_estimator/)
+
+![Pittsburgh house sale prices dashboard](https://raw.githubusercontent.com/rweekly/image/master/2021/W06/ctompkins-app.png)
 
 ### R Internationally
 
@@ -102,11 +106,15 @@ Parameter
 
 ###  Tutorials
 
-+ [Star Trek: The Next Generation catchphrases](https://sharla.party/post/2021-02-02-startrek/)
-
 + [Removing image backgrounds with magick](https://themockup.blog/posts/2021-01-28-removing-image-backgrounds-with-magick/)
 
+![magick transparent backgrounds](https://raw.githubusercontent.com/rweekly/image/master/2021/W06/themockup-magick-background.png)
+
++ [Star Trek: The Next Generation catchphrases](https://sharla.party/post/2021-02-02-startrek/)
+
 + [Simple audio classification with torch](https://blogs.rstudio.com/tensorflow/posts/2021-02-04-simple-audio-classification-with-torch)
+
+![audio classification alluvial](https://raw.githubusercontent.com/rweekly/image/master/2021/W06/alluvial.png)
 
 + [Forecasting El Niño-Southern Oscillation (ENSO)](https://blogs.rstudio.com/tensorflow/posts/2021-02-02-enso-prediction)
 
@@ -115,8 +123,6 @@ Parameter
 + [Introduction to leaflegend: Map Symbols and Legend Styling for leaflet](https://roh.engineering/post/2021-02-04-introduction-to-leaflegend/)
 
 + [Amazon Athena {dbplyr} Implicit Usage of Presto Functions and Making JSON Casting Great Again](https://rud.is/b/2021/02/02/amazon-athena-dbplyr-implicit-usage-of-presto-functions-and-making-json-casting-great-again/)
-
-+ [PCA as matrix approximation](https://eranraviv.com/understanding-variance-explained-in-pca-matrix-approximation/)
 
 + [Adding Football Crests to Scatter Plots in R](http://dm13450.github.io/2021/02/01/PointsToImages.html)
 
@@ -148,13 +154,9 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-
-### Datasets
-
 ### Jobs
 
 + [Data Librarian/Analyst - EcoHealth Alliance](https://www.ecohealthalliance.org/career/data-librarian)
-
 
 ###  Call for Participation
 
