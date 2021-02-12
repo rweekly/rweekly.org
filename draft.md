@@ -73,7 +73,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
+* [Spatially-constrained clustering and regionalization in R](https://www.dshkol.com/post/spatially-constrained-clustering-and-regionalization/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
