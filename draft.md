@@ -25,11 +25,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Organizations
 
-
++ [{microsoft365r}](https://blog.revolutionanalytics.com/2021/02/microsoft365r.html): R SDK for interacting with Microsoft 365 APIs .
 
 ###  R in Academia
 
-
++ [Nowosad, J. Motif: an open-source R tool for pattern-based spatial analysis. Landscape Ecol 36, 29–43 (2021). https://doi.org/10.1007/s10980-020-01135-0](https://link.springer.com/article/10.1007/s10980-020-01135-0)
 
 ###  Resources
 
@@ -41,7 +41,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{coder}](https://ropensci.org/blog/2021/02/09/coder/): Deterministic Categorization of Items Based on External Code Data.
 
 **BioC**
 
@@ -57,7 +57,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [TidyX Episode 48 | NBA Game Simulation, purrr, and base R distribution functions](https://www.youtube.com/watch?v=T7wLcVLqwoU)
 
 ### Gist & Cookbook
 
