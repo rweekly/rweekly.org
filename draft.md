@@ -59,6 +59,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [TidyX Episode 48 | NBA Game Simulation, purrr, and base R distribution functions](https://www.youtube.com/watch?v=T7wLcVLqwoU)
 
++ [Shiny Developer Series: Inside the most over-the-top Shiny apps for a virtual racing league!](https://youtu.be/1rBipvBuWL4?t=362)
+
 ### Gist & Cookbook
 
 
