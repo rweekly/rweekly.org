@@ -5,6 +5,8 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
+Release Date: 2021-02-15
+
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Jonathan Carroll](https://twitter.com/carroll_jono), with help from the R Weekly team members and contributors.
@@ -21,17 +23,26 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [Little useless-useful R functions – Use pipe %>% in ggplot2](https://tomaztsql.wordpress.com/2021/02/12/little-useless-useful-r-functions-use-pipe-in-ggplot2/)
 + [New activation functions in mlsauce’s LSBoost](https://thierrymoudiki.github.io/blog/2021/02/12/r/lsboost/explainableml/mlsauce/activation-functions-lsboost)
 + [Introducing Shiny App Stories](https://blog.rstudio.com/2021/02/12/shiny-app-stories/)
+
+![Introducing Shiny App Stories](https://raw.githubusercontent.com/rweekly/image/master/2021/W07/full_app_600.png)
+
 + [Understand your models with #TidyTuesday inequality in student debt](https://juliasilge.com/blog/student-debt/)
 + [The Comprehensive Guide to Installing R Packages from CRAN, Bioconductor, GitHub and Co.](https://thomasadventure.blog/posts/install-r-packages/)
 + [Target: monitoring a running goal in R](https://quantixed.org/2021/02/11/target-monitoring-a-running-goal-in-r/)
 + [Painful Package Management](https://blog.rstudio.com/2021/02/11/pkg-mgmt-pain/)
 + [torch, tidymodels, and high-energy physics](https://blogs.rstudio.com/tensorflow/posts/2021-02-11-tabnet)
 + [Distances to Golda Ice-Cream Locations in Israel](https://amitlevinson.com/blog/exploring-ice-cream-locations/) - see https://github.com/AmitLevinson/Datasets/tree/master/golda for scripts/data
+
+![Distances to Golda Ice-Cream Locations in Israel](https://raw.githubusercontent.com/rweekly/image/master/2021/W07/icecream_600.png)
+
 + [Microsoft365R: an R interface to the Microsoft 365 suite](https://blog.revolutionanalytics.com/2021/02/microsoft365r.html)
 + [How to be Successful! The Role of Risk-taking: A Simulation Study](https://blog.ephorie.de/how-to-be-successful-the-role-of-risk-taking-a-simulation-study)
 + [Teaching Quantitative Social Science in Times of COVID-19: How to Generate and Distribute Individualized Exams with R and RMarkdown](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/indiv-quant-exams/)
 + [coder Makes Medical Coding less Messy](https://ropensci.org/blog/2021/02/09/coder/)
 + [Little useless-useful R functions – Useless R poem for Valentine](https://tomaztsql.wordpress.com/2021/02/08/little-useless-useful-r-functions-useless-r-poem-for-valentine/)
+
+![Little useless-useful R functions – Useless R poem for Valentine](https://raw.githubusercontent.com/rweekly/image/master/2021/W07/heart_600.png)
+
 + [Distill it down](https://education.rstudio.com/blog/2021/02/distill-it-down/)
 + [Fully Native M1/Apple Silicon R Setup](https://rud.is/b/2021/02/07/fully-native-m1-apple-silicon-r-setup/)
 + [Getting a Handle on macOS App Entitlements with R](https://rud.is/b/2021/02/07/getting-a-handle-on-macos-app-entitlements-with-r/)
@@ -128,7 +139,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 ###  Videos and Podcasts
 
-+ [TidyX Episode 48 | NBA Game Simulation, purrr, and base R distribution functions](https://www.youtube.com/watch?v=T7wLcVLqwoU)
++ [TidyX Episode 48: NBA Game Simulation, purrr, and base R distribution functions](https://www.youtube.com/watch?v=T7wLcVLqwoU)
 
 + [Shiny Developer Series: Inside the most over-the-top Shiny apps for a virtual racing league!](https://youtu.be/1rBipvBuWL4?t=362)
 
@@ -139,6 +150,8 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 ###  Tutorials
 
 + [Spatially-constrained clustering and regionalization in R](https://www.dshkol.com/post/spatially-constrained-clustering-and-regionalization/)
+
+![Spatially-constrained clustering and regionalization in R](https://raw.githubusercontent.com/rweekly/image/master/2021/W07/clustering_600.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
