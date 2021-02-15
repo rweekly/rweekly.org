@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2021-W00
+title: R Weekly 2021-W07 Installing packages, distill, Shiny App Stories
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -11,41 +11,38 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 ###  Highlight
 
-
++ [The Comprehensive Guide to Installing R Packages from CRAN, Bioconductor, GitHub and Co.](https://thomasadventure.blog/posts/install-r-packages/)
++ [Distill it down](https://education.rstudio.com/blog/2021/02/distill-it-down/)
++ [Introducing Shiny App Stories](https://blog.rstudio.com/2021/02/12/shiny-app-stories/)
 
 ### Insights
 
-
 + [Some general thoughts on Partial Dependence Plots with correlated covariates](https://freakonometrics.hypotheses.org/61737)
-+ [*Little useless-useful R functions – Use pipe %>% in ggplot2](https://tomaztsql.wordpress.com/2021/02/12/little-useless-useful-r-functions-use-pipe-in-ggplot2/)
++ [Little useless-useful R functions – Use pipe %>% in ggplot2](https://tomaztsql.wordpress.com/2021/02/12/little-useless-useful-r-functions-use-pipe-in-ggplot2/)
 + [New activation functions in mlsauce’s LSBoost](https://thierrymoudiki.github.io/blog/2021/02/12/r/lsboost/explainableml/mlsauce/activation-functions-lsboost)
-+ [*Introducing Shiny App Stories](https://blog.rstudio.com/2021/02/12/shiny-app-stories/)
-+ [*Understand your models with #TidyTuesday inequality in student debt](https://juliasilge.com/blog/student-debt/)
-+ [*The Comprehensive Guide to Installing R Packages from CRAN, Bioconductor, GitHub and Co.](https://thomasadventure.blog/posts/install-r-packages/)
++ [Introducing Shiny App Stories](https://blog.rstudio.com/2021/02/12/shiny-app-stories/)
++ [Understand your models with #TidyTuesday inequality in student debt](https://juliasilge.com/blog/student-debt/)
++ [The Comprehensive Guide to Installing R Packages from CRAN, Bioconductor, GitHub and Co.](https://thomasadventure.blog/posts/install-r-packages/)
 + [Target: monitoring a running goal in R](https://quantixed.org/2021/02/11/target-monitoring-a-running-goal-in-r/)
-+ [*Painful Package Management](https://blog.rstudio.com/2021/02/11/pkg-mgmt-pain/)
-+ [*torch, tidymodels, and high-energy physics](https://blogs.rstudio.com/tensorflow/posts/2021-02-11-tabnet)
++ [Painful Package Management](https://blog.rstudio.com/2021/02/11/pkg-mgmt-pain/)
++ [torch, tidymodels, and high-energy physics](https://blogs.rstudio.com/tensorflow/posts/2021-02-11-tabnet)
 + [Distances to Golda Ice-Cream Locations in Israel](https://amitlevinson.com/blog/exploring-ice-cream-locations/) - see https://github.com/AmitLevinson/Datasets/tree/master/golda for scripts/data
-<!--+ [-----Describing categorical rasters with spatial signatures](https://nowosad.github.io/post/motif-bp2/) -->
 + [Microsoft365R: an R interface to the Microsoft 365 suite](https://blog.revolutionanalytics.com/2021/02/microsoft365r.html)
-+ [*Decoding Case Data Through the COVID-19 Data Hub](https://www.r-consortium.org/blog/2021/02/09/covid-19-data-hub)
 + [How to be Successful! The Role of Risk-taking: A Simulation Study](https://blog.ephorie.de/how-to-be-successful-the-role-of-risk-taking-a-simulation-study)
 + [Teaching Quantitative Social Science in Times of COVID-19: How to Generate and Distribute Individualized Exams with R and RMarkdown](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/indiv-quant-exams/)
 + [coder Makes Medical Coding less Messy](https://ropensci.org/blog/2021/02/09/coder/)
-+ [Upcoming Why R Webinar - Interpretation of single-cell RNA-seq trajectories](http://whyr.pl//foundation/2021/koen_berge/)
-+ [Why R Webinar: brms: Bayesian Regression Models using Stan](http://whyr.pl//foundation/2021/2021-02-22-paul/)
-+ [*Little useless-useful R functions – Useless R poem for Valentine](https://tomaztsql.wordpress.com/2021/02/08/little-useless-useful-r-functions-useless-r-poem-for-valentine/)
-+ [*Distill it down](https://education.rstudio.com/blog/2021/02/distill-it-down/)
++ [Little useless-useful R functions – Useless R poem for Valentine](https://tomaztsql.wordpress.com/2021/02/08/little-useless-useful-r-functions-useless-r-poem-for-valentine/)
++ [Distill it down](https://education.rstudio.com/blog/2021/02/distill-it-down/)
 + [Fully Native M1/Apple Silicon R Setup](https://rud.is/b/2021/02/07/fully-native-m1-apple-silicon-r-setup/)
 + [Getting a Handle on macOS App Entitlements with R](https://rud.is/b/2021/02/07/getting-a-handle-on-macos-app-entitlements-with-r/)
-+ [*It Has Always Been Wrong to Call order on a data.frame](https://win-vector.com/2021/02/07/it-has-always-been-wrong-to-call-order-on-a-data-frame/)
++ [It Has Always Been Wrong to Call order on a data.frame](https://win-vector.com/2021/02/07/it-has-always-been-wrong-to-call-order-on-a-data-frame/)
 + [Causal effect of Elon Musk tweets on Dogecoin price](https://fabiandablander.com/r/Causal-Doge.html)
 + [Understanding Variance Explained in PCA – Algebraic interpretation](https://eranraviv.com/understanding-variance-explained-in-pca-matrix-approximation/)
-+ [*Feel like the cat that got the cream with {forcats}. Tame your categorical data using the {forcats} package.](https://bit.ly/forcats-for-the-win)
++ [Feel like the cat that got the cream with {forcats}. Tame your categorical data using the {forcats} package.](https://bit.ly/forcats-for-the-win)
 
 ### R in the Real World
 
-
++ [Decoding Case Data Through the COVID-19 Data Hub](https://www.r-consortium.org/blog/2021/02/09/covid-19-data-hub)
 
 ###  R in Organizations
 
@@ -58,6 +55,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 ###  Resources
 
 + [Introductory R/exams Course by Andrew Zammit-Mangion](http://www.R-exams.org/general/andrewzm_course/)
+
 + [Using the flextable R package](https://ardata-fr.github.io/flextable-book/)
 
 ###  New Packages
@@ -67,7 +65,6 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 **CRAN**
 
 + [td 0.0.1 on CRAN: New Finance Data Package](http://dirk.eddelbuettel.com/blog/2021/02/11#td_0.0.1)
-
 + [{coder}](https://ropensci.org/blog/2021/02/09/coder/): Deterministic Categorization of Items Based on External Code Data.
 + [{visStatistics} 0.1.1](https://cran.r-project.org/package=visStatistics): Automated Visualization of Statistical Tests
 + [{ggprism} 1.0.1](https://cran.r-project.org/package=ggprism): A 'ggplot2' Extension Inspired by 'GraphPad Prism'
@@ -97,11 +94,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 ### Updated Packages
 
-
 + [RcppSimdJson 0.1.4 on CRAN: New Improvements](http://dirk.eddelbuettel.com/blog/2021/02/12#rcppsimdjson_0.1.4)
 + [RcppSMC 0.2.3 on CRAN: Updated Snapshot](http://dirk.eddelbuettel.com/blog/2021/02/10#rcppsmc_0.2.3)
 + [RcppArmadillo 0.10.2.1.0: New Upstream Release](http://dirk.eddelbuettel.com/blog/2021/02/09#rcpparmadillo_0.10.2.1.0)
-
 + [{mime} 0.10](https://cran.r-project.org/package=mime): Map Filenames to MIME Types
 + [{cachem} 1.0.4](https://cran.r-project.org/package=cachem): Cache R Objects with Automatic Pruning
 + [{RVA} 0.0.4](https://cran.r-project.org/package=RVA): RNAseq Visualization Automation
@@ -131,28 +126,19 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [{crayon} 1.4.1](https://cran.r-project.org/package=crayon): Colored Terminal Output
 + [{qs} 0.23.6](https://cran.r-project.org/package=qs): Quick Serialization of R Objects
 
-
 ###  Videos and Podcasts
 
 + [TidyX Episode 48 | NBA Game Simulation, purrr, and base R distribution functions](https://www.youtube.com/watch?v=T7wLcVLqwoU)
 
 + [Shiny Developer Series: Inside the most over-the-top Shiny apps for a virtual racing league!](https://youtu.be/1rBipvBuWL4?t=362)
 
-### Gist & Cookbook
++ [Upcoming Why R Webinar - Interpretation of single-cell RNA-seq trajectories](http://whyr.pl//foundation/2021/koen_berge/)
 
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
++ [Why R Webinar: brms: Bayesian Regression Models using Stan](http://whyr.pl//foundation/2021/2021-02-22-paul/)
 
 ###  Tutorials
 
-* [Spatially-constrained clustering and regionalization in R](https://www.dshkol.com/post/spatially-constrained-clustering-and-regionalization/)
++ [Spatially-constrained clustering and regionalization in R](https://www.dshkol.com/post/spatially-constrained-clustering-and-regionalization/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -160,23 +146,17 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-
-### Datasets
-
 ### Jobs
 
 + [Data Librarian/Analyst - EcoHealth Alliance](https://www.ecohealthalliance.org/career/data-librarian)
-
 
 ###  Call for Participation
 
