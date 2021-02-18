@@ -50,7 +50,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **GitHub or Bitbucket**
-
+  
++ [{openlibraryR} 0.0.0.9](https://github.com/walkerkq/openlibraryR): A Simple Wrapper for the Open Library API  
 
 
 ### Updated Packages
