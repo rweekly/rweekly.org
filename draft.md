@@ -71,6 +71,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
++ [Rzine](http://rzine.fr/) - Diffusion et partage de ressources sur la pratique de R en sciences humaines et sociales 
+
+<!--![Rzine logo](http://rzine.fr/img/Rzine_logo.png)-->
 
 
 ###  Tutorials
