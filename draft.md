@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Insights
-
++ [Refactoring `squashinformr`](https://needleinthehay.ca/post/refactoring-squashinformr/)
 
 
 ### R in the Real World
@@ -50,11 +50,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **GitHub or Bitbucket**  
-+ [{openlibraryR} 0.0.0.9](https://github.com/walkerkq/openlibraryR): Access Book Data via the Open Library API  
 
++ [{openlibraryR} 0.0.0.9](https://github.com/walkerkq/openlibraryR): Access Book Data via the Open Library API  
 
 ### Updated Packages
 
++ [{squashinformr} 0.2.1](https://cran.r-project.org/web/packages/squashinformr/index.html): Politely web scrape data from SquashInfo in R
 
 
 ###  Videos and Podcasts
@@ -71,6 +72,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
++ [Rzine](http://rzine.fr/) - Diffusion et partage de ressources sur la pratique de R en sciences humaines et sociales 
+
+<!--![Rzine logo](http://rzine.fr/img/Rzine_logo.png)-->
 
 
 ###  Tutorials
