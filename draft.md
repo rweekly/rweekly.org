@@ -50,10 +50,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **GitHub or Bitbucket**  
-+ [{squashinformr} 0.2.1](https://github.com/HaydenMacDonald/squashinformr): Politely web scrape data from SquashInfo in R
 
++ [{openlibraryR} 0.0.0.9](https://github.com/walkerkq/openlibraryR): Access Book Data via the Open Library API  
 
 ### Updated Packages
+
 + [{squashinformr} 0.2.1](https://cran.r-project.org/web/packages/squashinformr/index.html): Politely web scrape data from SquashInfo in R
 
 
