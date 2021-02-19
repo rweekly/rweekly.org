@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Insights
-
++ [Refactoring `squashinformr`](https://needleinthehay.ca/post/refactoring-squashinformr/)
 
 
 ### R in the Real World
@@ -49,12 +49,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
-**GitHub or Bitbucket**
-
+**GitHub or Bitbucket**  
++ [{squashinformr} 0.2.1](https://github.com/HaydenMacDonald/squashinformr): Politely web scrape data from SquashInfo in R
 
 
 ### Updated Packages
-
++ [{squashinformr} 0.2.1](https://cran.r-project.org/web/packages/squashinformr/index.html): Politely web scrape data from SquashInfo in R
 
 
 ###  Videos and Podcasts
