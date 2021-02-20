@@ -107,6 +107,8 @@ Aggregation and Prediction
 
 + [Building a blog post using {blogdown}!](https://www.twitch.tv/videos/915430514)
 
++ [How to Protect R Projects from Breaking Changes in Packages: {renv}](https://youtu.be/aA3PJArerHY)
+
 
 ### Shiny Apps
 
@@ -144,6 +146,9 @@ Aggregation and Prediction
 + [Getting Into the Rhythm of Chart Typography with {ragg} and {hrbragg} (a.k.a. It’s {ragg}-time}](https://rud.is/b/2021/02/19/getting-into-the-rhythm-of-chart-typography-with-ragg-and-hrbragg-a-k-a-its-ragg-time/)
 
 + [Little useless-useful R functions – Using L-Systems for useless writing](https://tomaztsql.wordpress.com/2021/02/17/little-useless-useful-r-functions-using-l-systems-for-useless-writing/)
+
++ [What we R about when we R about R and Arduino](https://rpubs.com/eR_ic/rduino)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
