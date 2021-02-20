@@ -178,6 +178,8 @@ Aggregation and Prediction
 
 + [Testing The Equality of Regression Coefficients](https://shouldbewriting.netlify.app/posts/2021-02-16-testing-coefficients-equality/)
 
++ [Finding Points of Interest along a route](https://www.jla-data.net/eng/finding-pois-along-a-route/) Finding route from A to B, and querying OpenStreetMap for POIs along this route. A spatial analytics use case.
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
