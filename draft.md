@@ -25,6 +25,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [One or two things I wish I had learned in school, the beginning](https://uncmbbtrivia.netlify.com/post/2021/02/19/one-or-two-things-i-wish-i-had-learned-in-school/)
 
++ [Shuffling my Spotify Liked Songs or: checking my assumptions](https://frie.codes/posts/shuffling-spotify-liked-songs-checking-assumptions/)
+
 ### R in the Real World
 
 + [First mlverse survey results – software, applications, and beyond](https://blogs.rstudio.com/tensorflow/posts/2021-02-17-survey)
@@ -32,6 +34,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 + [EU Vaccine Procurement and a Public Goods Dilemma](http://skranz.github.io//r/2021/02/15/EUVaccineDilemma.html)
 
 + [Finding similar spatial patterns](https://nowosad.github.io/post/motif-bp3/)
+
++ [Who Was The Funniest Character on Friends? Analyzing Comedy in All Friends Episodes](https://theartandscienceofdata.wordpress.com/2021/02/20/funniest-friends/)
 
 ###  R in Organizations
 
@@ -41,11 +45,18 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [why does rbinom(1,1) differ from sample(0:1,1) with the same seed?](https://xianblog.wordpress.com/2021/02/17/why-does-rbinom11-differ-from-sample011-with-the-same-seed/)
 
++ [Seeing the Impossible: Visualizing Latent Variable Models with flexplavaan](https://psyarxiv.com/qm7kj)
+
++ [Creating optimal conditions for reproducible data analysis in 𝖱
+with ‘fertile’](https://onlinelibrary.wiley.com/doi/10.1002/sta4.332#.YC6KJcfOZus.twitter)
+
 ###  Resources
 
 + [Make Your R Package Easier to Cite](https://ropensci.org/blog/2021/02/16/package-citation/)
 
 + [Selecting the correct image file type](https://www.jumpingrivers.com/blog/knitr-image-png-jpeg-svg-rmarkdown/)
+
++ [A complete guide to ggplot2 scales](https://ggplot2tor.com/scales/)
 
 ###  New Packages
 
@@ -76,6 +87,12 @@ Aggregation and Prediction
 
 + [{openlibraryR} 0.0.0.9](https://github.com/walkerkq/openlibraryR): Access Book Data via the Open Library API  
 
++ [{brickset}](https://github.com/jbryer/brickset): R package to interface with the Brickset API for getting data about LEGO.
+
++ [{ConfusionTableR} 0.1.0](https://hutsons-hacks.info/confusiontabler-a-package-to-tidy-outputs-of-confusion-matrix-objects-for-storage-in-databases): Creates varied sized data frames for trained caret models.
+
++ [{afrihealthsites} 0.1.0](https://github.com/afrimapr/afrihealthsites):  Access to geographic locations of african health sites from different sources.
+
 ### Updated Packages
 
 + [Refactoring `squashinformr`](https://needleinthehay.ca/post/refactoring-squashinformr/)
@@ -100,6 +117,12 @@ Aggregation and Prediction
 
 + [{tidySEM} 0.1.6](https://cran.r-project.org/package=tidySEM): Tidy Structural Equation Modeling
 
++ [{svglite} 2.0.0](https://www.tidyverse.org/blog/2021/02/svglite-2-0-0/):  A lightweight svg graphics device for R.
+
++ [{shinysurveys} 0.1.2](https://github.com/jdtrat/shinysurveys): Develop and deploy surveys in Shiny/R. 
+
++ [{datamods} 1.0.1](https://github.com/dreamRs/datamods):  Shiny modules to import data into an application or addin.
+
 
 ###  Videos and Podcasts
 
@@ -117,6 +140,8 @@ Aggregation and Prediction
 + [{shinysurveys} 0.1.2](https://cran.r-project.org/package=shinysurveys): Create and Deploy Surveys in 'Shiny'
 
 + [{datamods} 1.0.1](https://cran.r-project.org/package=datamods): Modules to Import and Manipulate Data in 'Shiny'
+
++ [Targets Shiny](https://wlandau.shinyapps.io/targets-shiny/): Simple prototype to help you build powerful data pipelines inside apps.
 
 
 ### R Internationally
@@ -148,6 +173,10 @@ Aggregation and Prediction
 + [Little useless-useful R functions – Using L-Systems for useless writing](https://tomaztsql.wordpress.com/2021/02/17/little-useless-useful-r-functions-using-l-systems-for-useless-writing/)
 
 + [What we R about when we R about R and Arduino](https://rpubs.com/eR_ic/rduino)
+
++ [Reintroducing myself to football analytics via understatr](https://austinwehrwein.com/tutorials/xgforeveryone/)
+
++ [Testing The Equality of Regression Coefficients](https://shouldbewriting.netlify.app/posts/2021-02-16-testing-coefficients-equality/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
