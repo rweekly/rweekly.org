@@ -215,3 +215,11 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Want to watch a yt video while coding in <a href="https://twitter.com/hashtag/Rstudio?src=hash&amp;ref_src=twsrc%5Etfw">#Rstudio</a> and don&#39;t have second screen? here is a hacky way to do it in the viewer pane (shiny app+local job) . <a href="https://t.co/mM9qt4gC8S">https://t.co/mM9qt4gC8S</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/frbGLZmz0j">pic.twitter.com/frbGLZmz0j</a></p>&mdash; David Schoch (@schochastics) <a href="https://twitter.com/schochastics/status/1363129781307330567?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> — With the latest version of {shiny} (1.6.0), you can use reactive objects straight inside an Rmd, thanks to `shiny::reactiveConsole(TRUE)` : <a href="https://t.co/7poANaMq9b">pic.twitter.com/7poANaMq9b</a></p>&mdash; Colin Fay 🤘 (@_ColinFay) <a href="https://twitter.com/_ColinFay/status/1361684790127308818?ref_src=twsrc%5Etfw">February 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">POV: rstudio watching me try and troubleshoot code <a href="https://t.co/lIdVw3bJzp">pic.twitter.com/lIdVw3bJzp</a></p>&mdash; gavin jones (@ecologyofgavin) <a href="https://twitter.com/ecologyofgavin/status/1363208944307429377?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
