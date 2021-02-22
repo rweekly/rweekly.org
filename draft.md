@@ -47,6 +47,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [Selecting the correct image file type](https://www.jumpingrivers.com/blog/knitr-image-png-jpeg-svg-rmarkdown/)
 
+![image types](https://raw.githubusercontent.com/rweekly/image/master/2021/W08/file-format-comparision-1.svg.png)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -54,6 +56,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 **CRAN**
 
 + [{reactablefmtr} 0.1.0](https://cran.r-project.org/package=reactablefmtr): Simplify Formatting of Tables Made with 'Reactable'
+
+![reactablefmtr](https://raw.githubusercontent.com/rweekly/image/master/2021/W08/data_bars_animated_demo_default.gif.png)
 
 + [{pharmaRTF} 0.1.2](https://cran.r-project.org/package=pharmaRTF): Enhanced RTF Wrapper for Use with Existing Table Packages
 
@@ -81,6 +85,8 @@ Aggregation and Prediction
 + [Refactoring `squashinformr`](https://needleinthehay.ca/post/refactoring-squashinformr/)
 
 + [{ragg} 1.1.0](https://cran.r-project.org/package=ragg): Graphic Devices Based on AGG
+
+![ragg](https://raw.githubusercontent.com/rweekly/image/master/2021/W08/README-unnamed-chunk-3-1.png)
 
 + [{crul} 1.1.0](https://cran.r-project.org/package=crul): HTTP Client
 
@@ -141,6 +147,8 @@ Aggregation and Prediction
 
 + [A Simple Ray-Tracer Written in Base R](https://coolbutuseless.github.io/2021/02/15/a-simple-ray-tracer-written-in-base-r/)
 
+![ray tracer](https://raw.githubusercontent.com/rweekly/image/master/2021/W08/example2.png)
+
 + [Visualizing the treatment effect with an ordinal outcome](https://www.rdatagen.net/post/2021-02-16-visualizing-the-treatment-effect-when-outcome-is-ordinal/)
 
 + [Getting Into the Rhythm of Chart Typography with {ragg} and {hrbragg} (a.k.a. It’s {ragg}-time}](https://rud.is/b/2021/02/19/getting-into-the-rhythm-of-chart-typography-with-ragg-and-hrbragg-a-k-a-its-ragg-time/)
@@ -149,6 +157,7 @@ Aggregation and Prediction
 
 + [What we R about when we R about R and Arduino](https://rpubs.com/eR_ic/rduino)
 
+![R and Arduino](https://raw.githubusercontent.com/rweekly/image/master/2021/W08/newplot.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
