@@ -155,6 +155,8 @@ Aggregation and Prediction
 
 + [Rzine](http://rzine.fr/) - Diffusion et partage de ressources sur la pratique de R en sciences humaines et sociales 
 
+![rzine](https://raw.githubusercontent.com/rweekly/image/master/2021/W08/Rzine_logo.png)
+
 + [Major Success! Highlights from the Brazilian Conference on Data Journalism and Digital Methods (CODA.br)](https://www.r-consortium.org/blog/2021/02/18/major-success-highlights-from-the-brazilian-conference-on-data-journalism-and-digital-methods-coda-br)
 
 + [Interview with Nontsikelelo Shongwe, Co-Organizer of the Eswatini UseR Meetup Group](https://www.r-consortium.org/blog/2021/02/16/interview-with-nontsikelelo-shongwe-co-organizer-of-the-eswatini-user-meetup-group)
