@@ -70,7 +70,7 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 ### R Internationally
 
-
++ [🇫🇷 C’est quoi, le tidyverse ?](https://thinkr.fr/c-est-quoi-le-tidyverse/)
 
 ###  Tutorials
 
