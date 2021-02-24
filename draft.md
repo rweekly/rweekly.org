@@ -41,7 +41,7 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 **CRAN**
 
-
++ [{terrainr} 0.3.1](https://cran.r-project.org/package=terrainr): Landscape Visualizations in R and 'Unity'
 
 **BioC**
 
