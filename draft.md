@@ -75,6 +75,8 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 + [GGanimating a geographic introduction](https://www.pipinghotdata.com/posts/2021-02-15-gganimating-a-geographic-introduction/)
 
++ [Finding Points of Interest along a route](https://www.jla-data.net/eng/finding-pois-along-a-route/) Finding route from A to B, and querying OpenStreetMap for POIs along this route. A spatial analytics use case.
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
