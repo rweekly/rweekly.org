@@ -23,7 +23,6 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 ### R in the Real World
 
 
-
 ###  R in Organizations
 
 
@@ -74,6 +73,7 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 ###  Tutorials
 
++ [GGanimating a geographic introduction](https://www.pipinghotdata.com/posts/2021-02-15-gganimating-a-geographic-introduction/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
