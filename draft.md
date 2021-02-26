@@ -70,6 +70,7 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 ###  Videos and Podcasts
 
 
++ [Intoduction to tidymodels (Video) - Max Kuhn (Cleveland R User Group)](https://youtu.be/kAZe9UpMx_s)
 
 ### Gist & Cookbook
 
