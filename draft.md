@@ -47,9 +47,23 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 + [{box} 1.0.0](https://github.com/klmr/box): Write reusable, composable and modular R code.
 
-**BioC**
++ [{rheroicons} 0.3.1](https://cran.r-project.org/package=rheroicons): A Zero Dependency 'SVG' Icon Library for 'Shiny'
 
++ [{sgat} 0.9](https://cran.r-project.org/package=sgat): Extract Information from Google's "Popular Times"
 
++ [{gargoyle} 0.0.1](https://cran.r-project.org/package=gargoyle): An Event-Based Mechanism for 'Shiny'
+
++ [{dumbbell} 0.1](https://cran.r-project.org/package=dumbbell): Displaying Changes Between Two Points Using Dumbbell Plots
+
++ [{SoilTaxonomy} 0.1](https://cran.r-project.org/package=SoilTaxonomy): United States Soil Taxonomy
+
++ [{tinyspotifyr} 0.2.2](https://cran.r-project.org/package=tinyspotifyr): Tinyverse R Wrapper for the 'Spotify' Web API
+
++ [{flightplanning} 0.8.4](https://cran.r-project.org/package=flightplanning): UAV Flight Planning
+
++ [{terrainr} 0.3.1](https://cran.r-project.org/package=terrainr): Landscape Visualizations in R and 'Unity'
+
++ [{fontawesome} 0.1.0](https://cran.r-project.org/package=fontawesome): Easily Work with 'Font Awesome' Icons
 
 **GitHub or Bitbucket**
 
@@ -67,9 +81,54 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 + [{pkgload} 1.2.0](https://github.com/r-lib/pkgload/): Simulate installing and loading a package.
 
++ [{tablet} 0.2.7](https://cran.r-project.org/package=tablet): Tabulate Descriptive Statistics in Multiple Formats
+
++ [{bssm} 1.1.3-2](https://cran.r-project.org/package=bssm): Bayesian Inference of Non-Linear and Non-Gaussian State Space
+Models
+
++ [{lubridate} 1.7.10](https://cran.r-project.org/package=lubridate): Make Dealing with Dates a Little Easier
+
++ [{gausscov} 0.0.13](https://cran.r-project.org/package=gausscov): The Gaussian Covariate Method for Variable Selection
+
++ [{ComplexUpset} 1.1.0](https://cran.r-project.org/package=ComplexUpset): Create Complex UpSet Plots Using 'ggplot2' Components
+
++ [{tibble} 3.1.0](https://cran.r-project.org/package=tibble): Simple Data Frames
+
++ [{ragg} 1.1.1](https://cran.r-project.org/package=ragg): Graphic Devices Based on AGG
+
++ [{renv} 0.13.0](https://cran.r-project.org/package=renv): Project Environments
+
++ [{meta} 4.17-0](https://cran.r-project.org/package=meta): General Package for Meta-Analysis
+
++ [{lime} 0.5.2](https://cran.r-project.org/package=lime): Local Interpretable Model-Agnostic Explanations
+
++ [{RcppParallel} 5.0.3](https://cran.r-project.org/package=RcppParallel): Parallel Programming Tools for 'Rcpp'
+
++ [{Hmsc} 3.0-11](https://cran.r-project.org/package=Hmsc): Hierarchical Model of Species Communities
+
++ [{ISOcodes} 2021.02.24](https://cran.r-project.org/package=ISOcodes): Selected ISO Codes
+
++ [{kokudosuuchi} 1.0.0](https://cran.r-project.org/package=kokudosuuchi): Utilities for 'Kokudo Suuchi'
+
++ [{Rdpack} 2.1.1](https://cran.r-project.org/package=Rdpack): Update and Manipulate Rd Documentation Objects
+
++ [{pkgload} 1.2.0](https://cran.r-project.org/package=pkgload): Simulate Package Installation and Attach
+
++ [{gtrendsR} 1.4.8](https://cran.r-project.org/package=gtrendsR): Perform and Display Google Trends Queries
+
++ [{ggsignif} 0.6.1](https://cran.r-project.org/package=ggsignif): Significance Brackets for 'ggplot2'
+
++ [{ggraph} 2.0.5](https://cran.r-project.org/package=ggraph): An Implementation of Grammar of Graphics for Graphs and Networks
+
++ [{WriteXLS} 6.2.0](https://cran.r-project.org/package=WriteXLS): Cross-Platform Perl Based R Function to Create Excel 2003 (XLS)
+
++ [{ggprism} 1.0.2](https://cran.r-project.org/package=ggprism): A 'ggplot2' Extension Inspired by 'GraphPad Prism'
+and Excel 2007 (XLSX) Files
+
 ###  Videos and Podcasts
 
-
++ [How to Plot Data from Databases in R Efficiently: dbplot
+Dealing with large datasets that live in a database, plotting in R can be challenging. Best practice: Do aggregations inside the database. The dbplot package can be of great help.](https://youtu.be/E7uSmD5NAww)
 
 ### Gist & Cookbook
 
