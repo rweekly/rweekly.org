@@ -10,10 +10,7 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [Ryo Nakagawara](), with help from the R Weekly team members and contributors.
 
-
-
 ###  Highlight
-
 
 
 ### Insights
@@ -22,8 +19,13 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 + [Introducing the RStudio Launcher Plugin SDK](https://blog.rstudio.com/2021/02/23/rstudio-sdk1/)
 
++ [dplyr backends: multidplyr 0.1.0, dtplyr 1.1.0, dbplyr 2.1.0](https://www.tidyverse.org/blog/2021/02/dplyr-backends/)
+
 ### R in the Real World
 
++ [Introducing JumpeR - For Track and Field Data](https://pilgrim.netlify.app/post/2021-02-22-introducing-jumper-for-track-and-field-data/)
+
++ [Macroeconomic data for France, Germany, Italy, Spain & the Euro Area](https://macro.cepremap.fr/article/2021-02/five-countries-data/)
 
 ###  R in Organizations
 
@@ -31,11 +33,17 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 ###  R in Academia
 
-
++ [Szabelska, A., Pollet, T. V., Dujols, O., Klein, R. A., & IJzerman, H. (2021, February 25). A Tutorial for Exploratory Research: An Eight-Step Approach. https://doi.org/10.31234/osf.io/cy9mz](https://psyarxiv.com/cy9mz/)
 
 ###  Resources
 
 + [SDS 375/395 Data Visualization in R (Claus Wilke)](https://wilkelab.org/SDS375/syllabus.html)
+
++ [Empirical Economics with R (Part D): Instrumental Variable Estimation and Potential Outcomes](https://skranz.github.io//r/2021/02/23/EmpEconD.html)
+
++ [Handy functions to quickly load locally stored HMD file](https://gist.github.com/ikashnitsky/0f93062f2b67eeac69949554027fa84f)
+
++ [OHSU/PSU SPH BSTA 504 Midterm Projects (using #TidyTuesday data)](https://sph-midterm-projects.netlify.app/)
 
 ###  New Packages
 
@@ -83,12 +91,7 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 + [{tablet} 0.2.7](https://cran.r-project.org/package=tablet): Tabulate Descriptive Statistics in Multiple Formats
 
-+ [{bssm} 1.1.3-2](https://cran.r-project.org/package=bssm): Bayesian Inference of Non-Linear and Non-Gaussian State Space
-Models
-
 + [{lubridate} 1.7.10](https://cran.r-project.org/package=lubridate): Make Dealing with Dates a Little Easier
-
-+ [{gausscov} 0.0.13](https://cran.r-project.org/package=gausscov): The Gaussian Covariate Method for Variable Selection
 
 + [{ComplexUpset} 1.1.0](https://cran.r-project.org/package=ComplexUpset): Create Complex UpSet Plots Using 'ggplot2' Components
 
@@ -103,8 +106,6 @@ Models
 + [{lime} 0.5.2](https://cran.r-project.org/package=lime): Local Interpretable Model-Agnostic Explanations
 
 + [{RcppParallel} 5.0.3](https://cran.r-project.org/package=RcppParallel): Parallel Programming Tools for 'Rcpp'
-
-+ [{Hmsc} 3.0-11](https://cran.r-project.org/package=Hmsc): Hierarchical Model of Species Communities
 
 + [{ISOcodes} 2021.02.24](https://cran.r-project.org/package=ISOcodes): Selected ISO Codes
 
@@ -130,9 +131,11 @@ and Excel 2007 (XLSX) Files
 + [How to Plot Data from Databases in R Efficiently: dbplot
 Dealing with large datasets that live in a database, plotting in R can be challenging. Best practice: Do aggregations inside the database. The dbplot package can be of great help.](https://youtu.be/E7uSmD5NAww)
 
-### Gist & Cookbook
++ [Explore demographic employment data with k-means](https://www.youtube.com/watch?v=opHDQzhO5Fw)
 
++ [Using Git and GitHub in R](https://www.youtube.com/watch?v=megZYkCLMA4)
 
++ [TidyModels by Max Kuhn (Cleveland R User Group)](https://www.youtube.com/watch?v=kAZe9UpMx_s)
 
 ### Shiny Apps
 
@@ -157,6 +160,12 @@ Dealing with large datasets that live in a database, plotting in R can be challe
 + [Shot Maps In R With StatsBomb Data](https://biscuitchaserfc.substack.com/p/shot-maps-in-r-with-statsbomb-data)
 
 + [#GithubSkyline but hear me out](https://www.rostrum.blog/2021/02/21/skyphone/)
+
++ [Random effects and penalized splines are the same thing](https://www.tjmahr.com/random-effects-penalized-splines-same-thing/)
+
++ [Advanced {future} and {promises} usage](https://rstudio.github.io/promises/articles/future_promise.html)
+
++ [Getting started with k-means and #TidyTuesday employment status](https://juliasilge.com/blog/kmeans-employment/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -191,3 +200,6 @@ Events in 3 Months:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">love to read in and smush 400 csv files at once <a href="https://t.co/nmeOlbUTuE">pic.twitter.com/nmeOlbUTuE</a></p>&mdash; Asmae Toumi (@asmae_toumi) <a href="https://twitter.com/asmae_toumi/status/1364407122268729347?ref_src=twsrc%5Etfw">February 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I found a tweet on Poisson regression this morning on my feed and thought it would be a good time to write a tweetorial on Poisson regression. To keep things simple, I will assume we have a count response variable Y and a single predictor variable X. Here we go! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/JaIDnwqdEs">pic.twitter.com/JaIDnwqdEs</a></p>&mdash; Isabella R. Ghement (@IsabellaGhement) <a href="https://twitter.com/IsabellaGhement/status/1363957122787024901?ref_src=twsrc%5Etfw">February 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Want to watch a yt video while coding in <a href="https://twitter.com/hashtag/Rstudio?src=hash&amp;ref_src=twsrc%5Etfw">#Rstudio</a> and don&#39;t have second screen? here is a hacky way to do it in the viewer pane (shiny app+local job) . <a href="https://t.co/mM9qt4gC8S">https://t.co/mM9qt4gC8S</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/frbGLZmz0j">pic.twitter.com/frbGLZmz0j</a></p>&mdash; David Schoch (@schochastics) <a href="https://twitter.com/schochastics/status/1363129781307330567?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
