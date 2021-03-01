@@ -32,7 +32,11 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 + [Introducing JumpeR - For Track and Field Data](https://pilgrim.netlify.app/post/2021-02-22-introducing-jumper-for-track-and-field-data/)
 
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2020-3-1/pole-vault-plot.png)
+
 + [Macroeconomic data for France, Germany, Italy, Spain & the Euro Area](https://macro.cepremap.fr/article/2021-02/five-countries-data/)
+
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2020-3-1/five-countries.png)
 
 ###  R in Academia
 
@@ -72,7 +76,11 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 + [{flightplanning} 0.8.4](https://cran.r-project.org/package=flightplanning): UAV Flight Planning.
 
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2020-3-1/UAV-flightplan.png)
+
 + [{terrainr} 0.3.1](https://cran.r-project.org/package=terrainr): Landscape Visualizations in R and 'Unity'.
+
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2020-3-1/terrainr.jpg.png)
 
 + [{fontawesome} 0.1.0](https://cran.r-project.org/package=fontawesome): Easily Work with 'Font Awesome' Icons.
 
@@ -167,6 +175,8 @@ Dealing with large datasets that live in a database, plotting in R can be challe
 + [Shot Maps In R With StatsBomb Data](https://biscuitchaserfc.substack.com/p/shot-maps-in-r-with-statsbomb-data)
 
 + [#GithubSkyline but hear me out](https://www.rostrum.blog/2021/02/21/skyphone/)
+
+![](https://cdn.jsdelivr.net/gh/rweekly/image/2020-3-1/skyline.png)
 
 + [Random effects and penalized splines are the same thing](https://www.tjmahr.com/random-effects-penalized-splines-same-thing/)
 
