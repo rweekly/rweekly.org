@@ -12,12 +12,19 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 ###  Highlight
 
++ [Random effects and penalized splines are the same thing](https://www.tjmahr.com/random-effects-penalized-splines-same-thing/)
+
++ [GGanimating a geographic introduction](https://www.pipinghotdata.com/posts/2021-02-15-gganimating-a-geographic-introduction/)
+
++ [dplyr backends: multidplyr 0.1.0, dtplyr 1.1.0, dbplyr 2.1.0](https://www.tidyverse.org/blog/2021/02/dplyr-backends/)
 
 ### Insights
 
 + [January 2020: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/02/24/january-2020-top-40-new-cran-packages/)
 
 + [Introducing the RStudio Launcher Plugin SDK](https://blog.rstudio.com/2021/02/23/rstudio-sdk1/)
+
++ [Typo-shaming my Git commits](https://www.rostrum.blog/2021/02/27/typos/)
 
 + [dplyr backends: multidplyr 0.1.0, dtplyr 1.1.0, dbplyr 2.1.0](https://www.tidyverse.org/blog/2021/02/dplyr-backends/)
 
@@ -26,10 +33,6 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 + [Introducing JumpeR - For Track and Field Data](https://pilgrim.netlify.app/post/2021-02-22-introducing-jumper-for-track-and-field-data/)
 
 + [Macroeconomic data for France, Germany, Italy, Spain & the Euro Area](https://macro.cepremap.fr/article/2021-02/five-countries-data/)
-
-###  R in Organizations
-
-
 
 ###  R in Academia
 
@@ -51,27 +54,27 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 **CRAN**
 
-+ [{terrainr} 0.3.1](https://cran.r-project.org/package=terrainr): Landscape Visualizations in R and 'Unity'
++ [{terrainr} 0.3.1](https://cran.r-project.org/package=terrainr): Landscape Visualizations in R and 'Unity'.
 
 + [{box} 1.0.0](https://github.com/klmr/box): Write reusable, composable and modular R code.
 
-+ [{rheroicons} 0.3.1](https://cran.r-project.org/package=rheroicons): A Zero Dependency 'SVG' Icon Library for 'Shiny'
++ [{rheroicons} 0.3.1](https://cran.r-project.org/package=rheroicons): A Zero Dependency 'SVG' Icon Library for 'Shiny'.
 
-+ [{sgat} 0.9](https://cran.r-project.org/package=sgat): Extract Information from Google's "Popular Times"
++ [{sgat} 0.9](https://cran.r-project.org/package=sgat): Extract Information from Google's "Popular Times".
 
-+ [{gargoyle} 0.0.1](https://cran.r-project.org/package=gargoyle): An Event-Based Mechanism for 'Shiny'
++ [{gargoyle} 0.0.1](https://cran.r-project.org/package=gargoyle): An Event-Based Mechanism for 'Shiny'.
 
-+ [{dumbbell} 0.1](https://cran.r-project.org/package=dumbbell): Displaying Changes Between Two Points Using Dumbbell Plots
++ [{dumbbell} 0.1](https://cran.r-project.org/package=dumbbell): Displaying Changes Between Two Points Using Dumbbell Plots.
 
-+ [{SoilTaxonomy} 0.1](https://cran.r-project.org/package=SoilTaxonomy): United States Soil Taxonomy
++ [{SoilTaxonomy} 0.1](https://cran.r-project.org/package=SoilTaxonomy): United States Soil Taxonomy.
 
-+ [{tinyspotifyr} 0.2.2](https://cran.r-project.org/package=tinyspotifyr): Tinyverse R Wrapper for the 'Spotify' Web API
++ [{tinyspotifyr} 0.2.2](https://cran.r-project.org/package=tinyspotifyr): Tinyverse R Wrapper for the 'Spotify' Web API.
 
-+ [{flightplanning} 0.8.4](https://cran.r-project.org/package=flightplanning): UAV Flight Planning
++ [{flightplanning} 0.8.4](https://cran.r-project.org/package=flightplanning): UAV Flight Planning.
 
-+ [{terrainr} 0.3.1](https://cran.r-project.org/package=terrainr): Landscape Visualizations in R and 'Unity'
++ [{terrainr} 0.3.1](https://cran.r-project.org/package=terrainr): Landscape Visualizations in R and 'Unity'.
 
-+ [{fontawesome} 0.1.0](https://cran.r-project.org/package=fontawesome): Easily Work with 'Font Awesome' Icons
++ [{fontawesome} 0.1.0](https://cran.r-project.org/package=fontawesome): Easily Work with 'Font Awesome' Icons.
 
 **GitHub or Bitbucket**
 
@@ -89,42 +92,44 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 + [{pkgload} 1.2.0](https://github.com/r-lib/pkgload/): Simulate installing and loading a package.
 
-+ [{tablet} 0.2.7](https://cran.r-project.org/package=tablet): Tabulate Descriptive Statistics in Multiple Formats
++ [{tablet} 0.2.7](https://cran.r-project.org/package=tablet): Tabulate Descriptive Statistics in Multiple Formats.
 
-+ [{lubridate} 1.7.10](https://cran.r-project.org/package=lubridate): Make Dealing with Dates a Little Easier
++ [{lubridate} 1.7.10](https://cran.r-project.org/package=lubridate): Make Dealing with Dates a Little Easier.
 
-+ [{ComplexUpset} 1.1.0](https://cran.r-project.org/package=ComplexUpset): Create Complex UpSet Plots Using 'ggplot2' Components
++ [{ComplexUpset} 1.1.0](https://cran.r-project.org/package=ComplexUpset): Create Complex UpSet Plots Using 'ggplot2' Components.
 
-+ [{tibble} 3.1.0](https://cran.r-project.org/package=tibble): Simple Data Frames
++ [{tibble} 3.1.0](https://cran.r-project.org/package=tibble): Simple Data Frames.
 
-+ [{ragg} 1.1.1](https://cran.r-project.org/package=ragg): Graphic Devices Based on AGG
++ [{ragg} 1.1.1](https://cran.r-project.org/package=ragg): Graphic Devices Based on AGG.
 
-+ [{renv} 0.13.0](https://cran.r-project.org/package=renv): Project Environments
++ [{renv} 0.13.0](https://cran.r-project.org/package=renv): Project Environments.
 
-+ [{meta} 4.17-0](https://cran.r-project.org/package=meta): General Package for Meta-Analysis
++ [{meta} 4.17-0](https://cran.r-project.org/package=meta): General Package for Meta-Analysis.
 
-+ [{lime} 0.5.2](https://cran.r-project.org/package=lime): Local Interpretable Model-Agnostic Explanations
++ [{lime} 0.5.2](https://cran.r-project.org/package=lime): Local Interpretable Model-Agnostic Explanations.
 
-+ [{RcppParallel} 5.0.3](https://cran.r-project.org/package=RcppParallel): Parallel Programming Tools for 'Rcpp'
++ [{RcppParallel} 5.0.3](https://cran.r-project.org/package=RcppParallel): Parallel Programming Tools for 'Rcpp'.
 
-+ [{ISOcodes} 2021.02.24](https://cran.r-project.org/package=ISOcodes): Selected ISO Codes
++ [{ISOcodes} 2021.02.24](https://cran.r-project.org/package=ISOcodes): Selected ISO Codes.
 
-+ [{kokudosuuchi} 1.0.0](https://cran.r-project.org/package=kokudosuuchi): Utilities for 'Kokudo Suuchi'
++ [{kokudosuuchi} 1.0.0](https://cran.r-project.org/package=kokudosuuchi): Utilities for 'Kokudo Suuchi'.
 
-+ [{Rdpack} 2.1.1](https://cran.r-project.org/package=Rdpack): Update and Manipulate Rd Documentation Objects
++ [{Rdpack} 2.1.1](https://cran.r-project.org/package=Rdpack): Update and Manipulate Rd Documentation Objects.
 
-+ [{pkgload} 1.2.0](https://cran.r-project.org/package=pkgload): Simulate Package Installation and Attach
++ [{pkgload} 1.2.0](https://cran.r-project.org/package=pkgload): Simulate Package Installation and Attach.
 
-+ [{gtrendsR} 1.4.8](https://cran.r-project.org/package=gtrendsR): Perform and Display Google Trends Queries
++ [{gtrendsR} 1.4.8](https://cran.r-project.org/package=gtrendsR): Perform and Display Google Trends Queries.
 
-+ [{ggsignif} 0.6.1](https://cran.r-project.org/package=ggsignif): Significance Brackets for 'ggplot2'
++ [{ggsignif} 0.6.1](https://cran.r-project.org/package=ggsignif): Significance Brackets for 'ggplot2'.
 
-+ [{ggraph} 2.0.5](https://cran.r-project.org/package=ggraph): An Implementation of Grammar of Graphics for Graphs and Networks
++ [{ggraph} 2.0.5](https://cran.r-project.org/package=ggraph): An Implementation of Grammar of Graphics for Graphs and Networks.
 
-+ [{WriteXLS} 6.2.0](https://cran.r-project.org/package=WriteXLS): Cross-Platform Perl Based R Function to Create Excel 2003 (XLS)
++ [{WriteXLS} 6.2.0](https://cran.r-project.org/package=WriteXLS): Cross-Platform Perl Based R Function to Create Excel 2003 (XLS).
 
-+ [{ggprism} 1.0.2](https://cran.r-project.org/package=ggprism): A 'ggplot2' Extension Inspired by 'GraphPad Prism'
-and Excel 2007 (XLSX) Files
++ [{ggprism} 1.0.2](https://cran.r-project.org/package=ggprism): A 'ggplot2' Extension Inspired by 'GraphPad Prism'.
+and Excel 2007 (XLSX) Files.
+
++ [{g2r} 1.0.0.9000](https://github.com/devOpifex/g2r): Grammar of graphics for interactive visualisation using G2.js.
 
 ###  Videos and Podcasts
 
@@ -141,6 +146,8 @@ Dealing with large datasets that live in a database, plotting in R can be challe
 
 + [{golem} Shiny app examples](https://github.com/ColinFay/golemexamples)
 
++ [Add POST requests to {shiny} with {brochure}](https://colinfay.me/post-request-shiny-app-brochure/)
+
 ### R Internationally
 
 + [🇫🇷 C’est quoi, le tidyverse ?](https://thinkr.fr/c-est-quoi-le-tidyverse/)
@@ -151,7 +158,7 @@ Dealing with large datasets that live in a database, plotting in R can be challe
 
 + [GGanimating a geographic introduction](https://www.pipinghotdata.com/posts/2021-02-15-gganimating-a-geographic-introduction/)
 
-+ [Finding Points of Interest along a route](https://www.jla-data.net/eng/finding-pois-along-a-route/) Finding route from A to B, and querying OpenStreetMap for POIs along this route. A spatial analytics use case.
++ [Finding route from A to B, and querying OpenStreetMap for POIs along this route. A spatial analytics use case.](https://www.jla-data.net/eng/finding-pois-along-a-route/)
 
 + [Doing Row-wise Operations the Column-wise Way With tidyr pivot_longer](https://thatdatatho.com/row-wise-operations-column-wise-way-tidyr-pivot_longer/)
 
@@ -178,21 +185,13 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [90th TokyoR Virtual Meetup](https://tokyor.connpass.com/event/204802/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
-
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
