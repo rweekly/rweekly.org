@@ -28,6 +28,8 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/@KellyBodwin
 
 + [Learning tidy eval by re-implementing dplyr](https://peng-chen.netlify.app/blog/2021-03-02-learn-tidy-eval-by-reimplementing-dplyr/)
 
++ [Afterthoughts of e-Rum2020 in The R Journal](https://mirai-solutions.ch/news/2021/03/05/eRum2020-article/)
+
 ### R in the Real World
 
 + [Bootstrap Confidence Intervals for Super Bowl Commercials](https://juliasilge.com/blog/superbowl-conf-int/)
@@ -35,6 +37,8 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/@KellyBodwin
 + *(Spanish)* [Comparing Marvel and DC Comics](https://cosmoduende.medium.com/dc-comics-vs-marvel-comics-an%C3%A1lisis-exploratorio-y-visualizaci%C3%B3n-de-datos-con-r-b0cf565e44e2)
 
 + [Covid-19 and Brazil](https://towardsdatascience.com/covid-19-and-brazil-a-tragedy-of-5570-cities-in-maps-and-graphs-84886c2154c6)
+
++ [Analyzing women's contraceptive use](https://ipums.github.io/pma-data-hub/posts/2021-02-19-analyzing-the-individual-in-context/)
 
 + <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today is World Wildlife Day &amp; this year&#39;s theme highlights the central role of forests in sustaining the livelihoods of billions of people worldwide. My map shows % of land area under trees for ex-Yugoslavia space<a href="https://twitter.com/hashtag/WorldWildlifeDay?src=hash&amp;ref_src=twsrc%5Etfw">#WorldWildlifeDay</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/bigdata?src=hash&amp;ref_src=twsrc%5Etfw">#bigdata</a> <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/maps?src=hash&amp;ref_src=twsrc%5Etfw">#maps</a> <a href="https://t.co/Fu0CNGaFLJ">pic.twitter.com/Fu0CNGaFLJ</a></p>&mdash; Milos Popovic/Милош Поповић (@milos_agathon) <a href="https://twitter.com/milos_agathon/status/1367100867946635266?ref_src=twsrc%5Etfw">March 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -55,13 +59,47 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/@KellyBodwin
 
 + (workshop materials) [Data.table workshop at EcoDataScience](https://github.com/eco-data-science/dt-workshop)
 
++ (template gallery) [{rticles} templates for journal publications](https://eddelbuettel.github.io/rticles-gallery/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
 
-+ [{ppsr}](https://cran.r-project.org/web/packages/ppsr/index.html)
++ [{appler} 0.1.0](https://cran.r-project.org/package=appler): 'Apple App Store' and 'iTunes' Data Extraction
+
++ [{basifoR} 0.3](https://cran.r-project.org/package=basifoR): Retrieval and Processing of the Spanish National Forest
+Inventory
+
++ [{bdots} 1.0.0](https://cran.r-project.org/package=bdots): Bootstrapped Differences of Time Series
+
++ [{dadjokeapi} 1.0.2](https://cran.r-project.org/package=dadjokeapi): Return a Random Dad Joke
+
++ [{drawer} 0.1.0](https://cran.r-project.org/package=drawer): An Interactive HTML Image Editing Tool
+
++ [{EasyDescribe} 0.1.0](https://cran.r-project.org/package=EasyDescribe): A Convenient Way of Descriptive Statistics
+
++ [{HyperG} 1.0.0](https://cran.r-project.org/package=HyperG): Hypergraphs in R
+
++ [{mapsf} 0.1.1](https://cran.r-project.org/package=mapsf): Thematic Cartography
+
++ [{ondisc} 1.0.0](https://cran.r-project.org/package=ondisc): Fast, Universal, and Intuitive Computing on Large-Scale
+Single-Cell Data
+
++ [{opitools} 1.0.2](https://cran.r-project.org/package=opitools): A Tool for Analyzing Opinions in a Text Document
+
++ [{ppsr 0.0.2}](https://cran.r-project.org/web/packages/ppsr/index.html): Computing the Predictive Power Score
+
++ [{prompt} 1.0.0](https://cran.r-project.org/package=prompt): Dynamic 'R' Prompt
+
++ [{sfaR} 0.0.91](https://cran.r-project.org/package=sfaR): Stochastic Frontier Analysis using R
+
++ [{smmR} 1.0.0](https://cran.r-project.org/package=smmR): Simulation, Estimation and Reliability of Semi-Markov Models
+
++ [{statgenHTP} 1.0.0](https://cran.r-project.org/package=statgenHTP): High Throughput Phenotyping (HTP) Data Analysis
+
++ [{urlchecker} 1.0.0](https://cran.r-project.org/package=urlchecker): Run CRAN URL Checks from Older R Versions
 
 **BioC**
 
@@ -71,9 +109,43 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/@KellyBodwin
 
 + [{bird_colours} - bird inspired palettes](https://github.com/ChrisWoodsSays/bird_colours)
 
++ [{splash} - for h2o MOJO files](https://github.com/ML4LHS/splash)
+
 ### Updated Packages
 
++ [{blogdown} 1.2](https://cran.r-project.org/package=blogdown): Create Blogs and Websites with R Markdown
 
++ [{drawsample} 1.0.0](https://cran.r-project.org/package=drawsample): Draw Samples with the Desired Properties from a Data Set
+
++ [{evclust} 2.0.0](https://cran.r-project.org/package=evclust): Evidential Clustering
+
++ [{farver} 2.1.0](https://cran.r-project.org/package=farver): High Performance Colour Space Manipulation
+
++ [{googlesheets4} 0.3.0](https://cran.r-project.org/package=googlesheets4): Access Google Sheets using the Sheets API V4
+
++ [{ggforce} 0.3.3](https://cran.r-project.org/package=ggforce): Accelerating 'ggplot2'
+
++ [{ggfx}](https://ggfx.data-imaginist.com/reference/raster_placement.html): Updated raster placement
+
++ [{ggVennDiagram} 0.5.0](https://cran.r-project.org/package=ggVennDiagram): A 'ggplot2' Implement of Venn Diagram
+
++ [{Hmisc} 4.5-0](https://cran.r-project.org/package=Hmisc): Harrell Miscellaneous
+
++ [{logger} 0.2.0](https://cran.r-project.org/package=logger): A Lightweight, Modern and Flexible Logging Utility
+
++ [{mlr3} 0.11.0](https://cran.r-project.org/package=mlr3): Updated with book draft
+
++ [{ShinyQuickStarter} 2.0.0](https://cran.r-project.org/package=ShinyQuickStarter): 'RStudio' Addin for Building Shiny Apps per Drag & Drop
+
++ [{slackr} 2.2.0](https://cran.r-project.org/package=slackr): Send Messages, Images, R Objects and Files to 'Slack'
+Channels/Users
+
++ [{tinytex} 0.30](https://cran.r-project.org/package=tinytex): Helper Functions to Install and Maintain TeX Live, and Compile
+LaTeX Documents
+
++ [{xaringan} 0.20](https://cran.r-project.org/package=xaringan): Presentation Ninja
+
++ [{xaringanthemer} 0.3.3](https://cran.r-project.org/package=xaringanthemer): Custom 'xaringan' CSS Themes
 
 ###  Videos and Podcasts
 
@@ -83,9 +155,12 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/@KellyBodwin
 
 + ["In the Beginning was R Markdown" - Toronto Conference on Reproducibility Keynote Address](https://youtu.be/ANH2tv2vkew)
 
++ [A quick tour of RStudio 1.4](https://www.youtube.com/watch?v=SdMPh5uphO0&ab_channel=RStudio)
+
 + [Mini-demo: CSS and R Markdown](https://twitter.com/i/status/1367410694426152960)
 
 + [Mini-demo: set a password in R Markdown](https://twitter.com/i/status/1367112528002650113)
+
 
 ### Gist & Cookbook
 
@@ -96,6 +171,8 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/@KellyBodwin
 + *(Spanish)* [Covid graphics](http://vizcovid.ccam.uesc.br:3838/vizcovid/oth/)
 
 + [Search NICAR tweets](http://apps.machlis.com/shiny/nicar21/)
+
++ [Hypothesis testing tutorial](https://keith-mcnulty.shinyapps.io/hyptesting/)
 
 ### R Internationally
 
@@ -121,6 +198,8 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/@KellyBodwin
 
  + [Tile maps in R](https://digital.ebp.ch/2021/03/02/tilemaps-in-r/)
 
+ + *(French)* [Working with Git in RStudio](https://thinkr.fr/travailler-avec-git-via-rstudio-et-versionner-son-code/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -143,11 +222,13 @@ Events in 3 Months:
 
 + **March 5 - May 21:** [TIER Symposium on instruction in resproducible research](https://www.projecttier.org/events/conference-teaching-reproducible-methods/)
 
++ **May 26-28:** [NIMBLE virtual short course](https://r-nimble.org/nimble-virtual-short-course-may-26-28)
+
 + **June 1:** ["Introduction to R" pre-conference workshop for PuG](https://pug2021.de/en/pre-conference-workshops-2/) *(German)*
 
 + **June 1:** ["Reproducibility in R" pre-conference workshop for PuG](https://pug2021.de/en/pre-conference-workshops-2/)
 
-+  [A list of R and R-adjacent conferences in 2021](https://rviews.rstudio.com/2021/03/03/2021-r-conferences/)
++ [A list of R and R-adjacent conferences in 2021](https://rviews.rstudio.com/2021/03/03/2021-r-conferences/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -165,6 +246,8 @@ Events in 3 Months:
 + [Software Engineer, mlverse, RStudio](https://rstudio.com/about/job-posting/?gh_jid=4387949003)
 
 + [R Consortium user group and small conference support](https://t.co/9QMXSfAxPu?amp=1)
+
++ [R for the Rest of Us - Inclusivity scholarship](https://www.ai-inclusive.org/r-for-us-scholarship)
 
 ### aRt
 
