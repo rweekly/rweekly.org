@@ -43,6 +43,11 @@ This week’s release was curated by [Kelly Bodwin](), with help from the R Week
 **CRAN**
 
 
++ [mapsf](https://rgeomatic.hypotheses.org/2212) - Thematic cartography
+<!-- Suggested picture below-->
+<!-- ![mapsf package](https://raw.githubusercontent.com/rCarto/mapsf_post/main/mtq.png) -->
+
+
 
 **BioC**
 
