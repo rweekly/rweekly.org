@@ -18,11 +18,17 @@ This week’s release was curated by [Kelly Bodwin](), with help from the R Week
 
 ### Insights
 
++ [A first look at the R-universe build infrastructure](https://ropensci.org/blog/2021/03/04/r-universe-buildsystem/)
 
++ [Automating Rmarkdown Reporting](https://daranzolin.github.io/2021-03-03-automated-rmarkdown/)
+
++ [Packages Don’t Work Well for Analyses in Practice](https://rmflight.github.io/posts/2021-03-02-packages-dont-work-well-for-analyses-in-practice/)
 
 ### R in the Real World
 
++ [A tiny {shiny} flag challenge](https://www.rostrum.blog/2021/03/02/randoflag/)
 
++ [Exploring Wednesday Night Cable Ratings with OCR](https://jlaw.netlify.app/2021/03/01/exploring-wednesday-night-cable-ratings-with-ocr/)
 
 ###  R in Organizations
 
@@ -58,7 +64,11 @@ This week’s release was curated by [Kelly Bodwin](), with help from the R Week
 
 ###  Videos and Podcasts
 
++ [A quick tour of RStudio 1.4](https://www.youtube.com/watch?v=SdMPh5uphO0)
 
++ [Compute bootstrap confidence intervals for Super Bowl commercial characteristics (#TidyTuesday)](https://www.youtube.com/watch?v=joMZ5GUqqSI)
+
++ [TidyX Episode 50 | James Stein Estimates, GT tables with patchwork](https://www.youtube.com/watch?v=1WtDWE0UbQg)
 
 ### Gist & Cookbook
 
@@ -66,7 +76,7 @@ This week’s release was curated by [Kelly Bodwin](), with help from the R Week
 
 ### Shiny Apps
 
-
++ [Server(shiny)-less dashboards with R, {htmlwidgets} and {crosstalk}](https://www.brodrigues.co/blog/2021-03-02-no_shiny_dashboard/)
 
 ### R Internationally
 
@@ -74,7 +84,15 @@ This week’s release was curated by [Kelly Bodwin](), with help from the R Week
 
 ###  Tutorials
 
++ [Bootstrap confidence intervals for #TidyTuesday Super Bowl commercials](https://juliasilge.com/blog/superbowl-conf-int/)
 
++ [Data.Table – everything you need to know to get you started in R](https://hutsons-hacks.info/data-table-everything-you-need-to-know-to-get-you-started-in-r)
+
++ [Time Series Forecasting with XGBoost and Feature Importance](https://datageeek.com/2021/03/02/time-series-forecasting-with-xgboost-and-feature-importance/)
+
++ [Raster calculations on stars objects: Species richness maps from species distribution models](https://luisdva.github.io/rstats/tidy-rasters/)
+
++ [The {mapsf} package](https://rgeomatic.hypotheses.org/2212)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
