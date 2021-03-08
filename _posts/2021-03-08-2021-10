@@ -18,7 +18,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin)
 
 + [Bootstrap Confidence Intervals for Super Bowl Commercials](https://juliasilge.com/blog/superbowl-conf-int/)
 
-![Super Bowl Commercial CIs](pic)
+![Super Bowl Commercial CIs](https://raw.githubusercontent.com/rweekly/image/master/2021/W10/unnamed-chunk-8-1.png)
 
 ### Insights
 
@@ -36,7 +36,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin)
 
 + [Intuition for randomization tests](https://www.rdatagen.net/post/2021-03-02-randomization-tests/)
 
-![Randomization Results](pic)
+![Randomization Results](https://raw.githubusercontent.com/rweekly/image/master/2021/W10/distY-1.png)
 
 
 ### R in the Real World
@@ -55,7 +55,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin)
 
 + *(Spanish)* [Comparing Marvel and DC Comics](https://cosmoduende.medium.com/dc-comics-vs-marvel-comics-an%C3%A1lisis-exploratorio-y-visualizaci%C3%B3n-de-datos-con-r-b0cf565e44e2)
 
-![Character Races in Marvel and DC](pic)
+![Character Races in Marvel and DC](https://raw.githubusercontent.com/rweekly/image/master/2021/W10/races.png)
 
 
 ###  R in Organizations
@@ -215,7 +215,7 @@ LaTeX Documents
 
 + [Raster calculations on stars objects: Species richness maps from species distribution models](https://luisdva.github.io/rstats/tidy-rasters/)
 
-![species richness in Canada](pic)
+![species richness in Canada](https://raw.githubusercontent.com/rweekly/image/master/2021/W10/bbirdsrich.png)
  
  + [Clustering similar spatial patterns](https://nowosad.github.io/post/motif-bp5/)
  
@@ -229,24 +229,24 @@ LaTeX Documents
 
 + [The {mapsf} package](https://rgeomatic.hypotheses.org/2212)
 
-![mapsf example](pic)
+![mapsf example](https://raw.githubusercontent.com/rweekly/image/master/2021/W10/map11.png)
 
 ### aRt
 
 
-![Toni Emery Art]()
+![Toni Emery Art](https://raw.githubusercontent.com/rweekly/image/master/2021/W10/art1.png)
 
 by [Toni Emery](https://twitter.com/toni_emery27/status/1366876998463815689?s=20)
 
-![Brandyn Lucca Art]()
+![Brandyn Lucca Art](https://raw.githubusercontent.com/rweekly/image/master/2021/W10/art2.png)
 
 by [Brandyn Lucca](https://twitter.com/brandynlucca/status/1366991269990432769?s=20)
 
-![Georgios Karamanis Art]()
+![Georgios Karamanis Art](https://raw.githubusercontent.com/rweekly/image/master/2021/W10/art3.png)
 
 by [Georgios Karamanis](https://twitter.com/geokaramanis/status/1366330142184919041?s=20)
 
-![Danielle Navarro Art]()
+![Danielle Navarro Art](https://raw.githubusercontent.com/rweekly/image/master/2021/W10/art4.png)
 
 by [Danielle Navarro](https://twitter.com/djnavarro/status/1367212820106858496?s=20)
 
