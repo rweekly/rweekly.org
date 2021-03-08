@@ -20,21 +20,28 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin)
 
 + [Bootstrap Confidence Intervals for Super Bowl Commercials](https://juliasilge.com/blog/superbowl-conf-int/)
 
+![Super Bowl Commercial CIs](pic)
+
 ### Insights
 
 + [#TheMoment tweets](http://www.citizen-statistician.org/2021/03/themoment-tweets/) (citizen-statistician.org)
 
 + [A first look at the R-Universe Build Infrastructure](https://ropensci.org/blog/2021/03/04/r-universe-buildsystem/)
 
-+ [Intuition for randomization tests](https://www.rdatagen.net/post/2021-03-02-randomization-tests/)
-
 + [R functions I took for granted](https://maya.rbind.io/post/2021/r-functions-i-took-for-granted/)
 
 + [Afterthoughts of e-Rum2020 in The R Journal](https://mirai-solutions.ch/news/2021/03/05/eRum2020-article/)
 
-### R in the Real World
++ [Learning tidy eval by re-implementing dplyr](https://peng-chen.netlify.app/blog/2021-03-02-learn-tidy-eval-by-reimplementing-dplyr/)
 
-+ *(Spanish)* [Comparing Marvel and DC Comics](https://cosmoduende.medium.com/dc-comics-vs-marvel-comics-an%C3%A1lisis-exploratorio-y-visualizaci%C3%B3n-de-datos-con-r-b0cf565e44e2)
++ [Packages Don’t Work Well for Analyses in Practice](https://rmflight.github.io/posts/2021-03-02-packages-dont-work-well-for-analyses-in-practice/)
+
++ [Intuition for randomization tests](https://www.rdatagen.net/post/2021-03-02-randomization-tests/)
+
+![Randomization Results](pic)
+
+
+### R in the Real World
 
 + [Covid-19 and Brazil](https://towardsdatascience.com/covid-19-and-brazil-a-tragedy-of-5570-cities-in-maps-and-graphs-84886c2154c6)
 
@@ -42,24 +49,18 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin)
 
 + [Analyzing women's contraceptive use](https://ipums.github.io/pma-data-hub/posts/2021-02-19-analyzing-the-individual-in-context/)
 
++ [Exploring Wednesday Night Cable Ratings with OCR](https://jlaw.netlify.app/2021/03/01/exploring-wednesday-night-cable-ratings-with-ocr/)
+
 + <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today is World Wildlife Day &amp; this year&#39;s theme highlights the central role of forests in sustaining the livelihoods of billions of people worldwide. My map shows % of land area under trees for ex-Yugoslavia space<a href="https://twitter.com/hashtag/WorldWildlifeDay?src=hash&amp;ref_src=twsrc%5Etfw">#WorldWildlifeDay</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/bigdata?src=hash&amp;ref_src=twsrc%5Etfw">#bigdata</a> <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/maps?src=hash&amp;ref_src=twsrc%5Etfw">#maps</a> <a href="https://t.co/Fu0CNGaFLJ">pic.twitter.com/Fu0CNGaFLJ</a></p>&mdash; Milos Popovic/Милош Поповић (@milos_agathon) <a href="https://twitter.com/milos_agathon/status/1367100867946635266?ref_src=twsrc%5Etfw">March 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 + <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My <a href="https://twitter.com/BES_Move_SIG?ref_src=twsrc%5Etfw">@BES_Move_SIG</a> dynamic movement visualisation contribution. Bar-tailed godwits migration in relation to wind and snow cover. All done in <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> with <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a>. Thanks to Jesse Conklin and Phil Battley for sharing the tracks. R code: <a href="https://t.co/lNB327SSkj">https://t.co/lNB327SSkj</a> <a href="https://t.co/V8vby2N7pd">pic.twitter.com/V8vby2N7pd</a></p>&mdash; Simeon Lisovski (@S_Lisovski) <a href="https://twitter.com/S_Lisovski/status/1361039948892286979?ref_src=twsrc%5Etfw">February 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-+ [A first look at the R-universe build infrastructure](https://ropensci.org/blog/2021/03/04/r-universe-buildsystem/)
++ *(Spanish)* [Comparing Marvel and DC Comics](https://cosmoduende.medium.com/dc-comics-vs-marvel-comics-an%C3%A1lisis-exploratorio-y-visualizaci%C3%B3n-de-datos-con-r-b0cf565e44e2)
 
-+ [Automating Rmarkdown Reporting](https://daranzolin.github.io/2021-03-03-automated-rmarkdown/)
+![Character Races in Marvel and DC](pic)
 
-+ [Packages Don’t Work Well for Analyses in Practice](https://rmflight.github.io/posts/2021-03-02-packages-dont-work-well-for-analyses-in-practice/)
-
-### R in the Real World
-
-+ [A tiny {shiny} flag challenge](https://www.rostrum.blog/2021/03/02/randoflag/)
-
-+ [Exploring Wednesday Night Cable Ratings with OCR](https://jlaw.netlify.app/2021/03/01/exploring-wednesday-night-cable-ratings-with-ocr/)
 
 ###  R in Organizations
-
 
 
 ###  R in Academia
@@ -197,6 +198,8 @@ LaTeX Documents
 
 + [Server(shiny)-less dashboards with R, {htmlwidgets} and {crosstalk}](https://www.brodrigues.co/blog/2021-03-02-no_shiny_dashboard/)
 
++ [A tiny {shiny} flag challenge](https://www.rostrum.blog/2021/03/02/randoflag/)
+
 
 ### R Internationally
 
@@ -204,35 +207,51 @@ LaTeX Documents
 
 ###  Tutorials
 
- + [Data.table - Everything you need to know to get started](https://hutsons-hacks.info/data-table-everything-you-need-to-know-to-get-you-started-in-r)
+ + [Bootstrap confidence intervals for #TidyTuesday Super Bowl commercials](https://juliasilge.com/blog/superbowl-conf-int/)
 
- + [Dashboards without the need of Shiny](https://www.brodrigues.co/blog/2021-03-02-no_shiny_dashboard/)
+ + [Data.table - Everything you need to know to get started](https://hutsons-hacks.info/data-table-everything-you-need-to-know-to-get-you-started-in-r)
  
  + [Bivariate dasymetric mapping](https://dominicroye.github.io/en/2021/bivariate-dasymetric-map/)
  
  + [Automating R Markdown reporting](https://daranzolin.github.io/2021-03-03-automated-rmarkdown/)
+
++ [Raster calculations on stars objects: Species richness maps from species distribution models](https://luisdva.github.io/rstats/tidy-rasters/)
+
+![species richness in Canada](pic)
  
  + [Clustering similar spatial patterns](https://nowosad.github.io/post/motif-bp5/)
  
  + [Data exploration with {DataExplorer}](https://theautomatic.net/2021/03/03/faster-data-exploration-with-dataexplorer/?utm_source=rss&utm_medium=rss&utm_campaign=faster-data-exploration-with-dataexplorer)
- 
- + [Time series reporting with {XGBoost}](https://datageeek.com/2021/03/02/time-series-forecasting-with-xgboost-and-feature-importance/)
-
- + [Raster calculations on Stars objects](https://luisdva.github.io/rstats/tidy-rasters/)  [(Spanish version)](https://luisdva.github.io/rstats/calculos-rasters/)
 
  + [Tile maps in R](https://digital.ebp.ch/2021/03/02/tilemaps-in-r/)
 
  + *(French)* [Working with Git in RStudio](https://thinkr.fr/travailler-avec-git-via-rstudio-et-versionner-son-code/)
 
-+ [Bootstrap confidence intervals for #TidyTuesday Super Bowl commercials](https://juliasilge.com/blog/superbowl-conf-int/)
-
-+ [Data.Table – everything you need to know to get you started in R](https://hutsons-hacks.info/data-table-everything-you-need-to-know-to-get-you-started-in-r)
-
 + [Time Series Forecasting with XGBoost and Feature Importance](https://datageeek.com/2021/03/02/time-series-forecasting-with-xgboost-and-feature-importance/)
 
-+ [Raster calculations on stars objects: Species richness maps from species distribution models](https://luisdva.github.io/rstats/tidy-rasters/)
-
 + [The {mapsf} package](https://rgeomatic.hypotheses.org/2212)
+
+![mapsf example](pic)
+
+### aRt
+
+
+![Toni Emery Art]()
+
+by [Toni Emery](https://twitter.com/toni_emery27/status/1366876998463815689?s=20)
+
+![Brandyn Lucca Art]()
+
+by [Brandyn Lucca](https://twitter.com/brandynlucca/status/1366991269990432769?s=20)
+
+![Georgios Karamanis Art]()
+
+by [Georgios Karamanis](https://twitter.com/geokaramanis/status/1366330142184919041?s=20)
+
+![Danielle Navarro Art]()
+
+by [Danielle Navarro](https://twitter.com/djnavarro/status/1367212820106858496?s=20)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -282,24 +301,6 @@ Events in 3 Months:
 
 + [R for the Rest of Us - Inclusivity scholarship](https://www.ai-inclusive.org/r-for-us-scholarship)
 
-### aRt
-
-
-![](https://pbs.twimg.com/media/EvgfYIxXAAAMmqN?format=jpg&name=large)
-
-by [Tony Emery](https://twitter.com/toni_emery27)
-
-![](https://pbs.twimg.com/media/EviG8qZXMAM-a-a?format=png&name=small)
-
-by [Brandyn Lucca](https://twitter.com/brandynlucca)
-
-![](https://pbs.twimg.com/media/EvYsriUXAAI9kPH?format=png&name=small)
-
-by [Georgios Karamanis](https://twitter.com/geokaramanis/status/1366330142184919041?s=20)
-
-![](https://pbs.twimg.com/media/EvlQu5VVkAAxZiZ?format=jpg&name=4096x4096)
-
-by [Danielle Navarro](https://twitter.com/djnavarro/status/1367212820106858496?s=20)
 
 ###  Call for Participation
 
