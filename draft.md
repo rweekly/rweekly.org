@@ -34,10 +34,11 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin)
 
 ### R in the Real World
 
-
 + *(Spanish)* [Comparing Marvel and DC Comics](https://cosmoduende.medium.com/dc-comics-vs-marvel-comics-an%C3%A1lisis-exploratorio-y-visualizaci%C3%B3n-de-datos-con-r-b0cf565e44e2)
 
 + [Covid-19 and Brazil](https://towardsdatascience.com/covid-19-and-brazil-a-tragedy-of-5570-cities-in-maps-and-graphs-84886c2154c6)
+
++ [Covid-19 in Luxembourg](https://www.brodrigues.co/blog/2021-03-05-covid_lu/)
 
 + [Analyzing women's contraceptive use](https://ipums.github.io/pma-data-hub/posts/2021-02-19-analyzing-the-individual-in-context/)
 
