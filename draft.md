@@ -58,7 +58,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [Shiny Developer Series Episode 19: Climbing the Ladder of Shiny Mastery with Hadley Wickham](https://www.youtube.com/watch?v=PJsIO8C9xp0)
 
 ### Gist & Cookbook
 
