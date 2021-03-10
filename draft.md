@@ -75,6 +75,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Tutorials
 
 + [Exploring Python & R code with {reticulate} to do supervised dimensionality reduction with Random Forests (RF) and Uniform Manifold Approximation and Projection (UMAP) ](https://moldach.github.io/project/supervised-umap/)
+![transpile](https://ibb.co/HVRNNrd)
 
 ### aRt
 
