@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+- [#TheMoment tweets](http://www.citizen-statistician.org/2021/03/themoment-tweets/) (citizen-statistician.org)
 
 ### R in the Real World
 
