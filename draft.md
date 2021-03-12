@@ -43,10 +43,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 
 
-+ [mapsf](https://rgeomatic.hypotheses.org/2212) - Thematic cartography
-<!-- Suggested picture below-->
-<!-- ![mapsf package](https://raw.githubusercontent.com/rCarto/mapsf_post/main/mtq.png) -->
-
 
 
 **BioC**
@@ -75,7 +71,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
-
++ [سلسلة تحليل بيانات كورونا بإستخدام لغة الآر](https://www.youtube.com/watch?v=0AraklFDBeA&t=410s)
 
 ###  Tutorials
 
