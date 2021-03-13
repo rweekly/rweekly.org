@@ -6,7 +6,6 @@ image: https://rweekly.org/public/facebook.png
 ---
 
 
-+ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
@@ -18,7 +17,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-- [#TheMoment tweets](http://www.citizen-statistician.org/2021/03/themoment-tweets/) (citizen-statistician.org)
++ [Default knitr options and hooks](https://www.jumpingrivers.com/blog/knitr-default-options-settings-hooks/)
+
 
 ### R in the Real World
 
@@ -36,6 +36,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Resources
+
++ [Upcoming Why R Webinar - Data Optimisation Network](http://whyr.pl//foundation/2021/gaurav/)
 
 + [Exploring policy through numbers, data and visualization.](https://www.policyinnumbers.com/blog/2021/03/08/visualizing-the-proportion-of-women-in-governments-around-the-world/)
 
@@ -79,6 +81,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Creating a book manuscript using {bookdown}](https://ivelasq.rbind.io/blog/bookdown-manuscript/)
 
++ [Activate sigmoid!](https://www.optionstocksmachines.com/post/2021-03-01-neural-nets-2/activate-sigmoid/)
+
++ [Windows/UTF-8 Toolchain and CRAN Package Checks](https://developer.r-project.org/Blog/public/2021/03/12/windows/utf-8-toolchain-and-cran-package-checks/)
+
++ [BI and Open Source Data Science: Strengths and Challenges](https://blog.rstudio.com/2021/03/11/bi-and-ds2-strengths-challenges/)
+
+
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -99,6 +109,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Updated Packages
+
++ [rvest 1.0.0](https://www.tidyverse.org/blog/2021/03/rvest-1-0-0/)
 
 + [Teams support in Microsoft365R](https://blog.revolutionanalytics.com/2021/03/teams-support-in-microsoft365r.html)
 
@@ -181,7 +193,9 @@ Events in 3 Months:
 
 ### Jobs
 
++ [Technical Support Engineer](https://rstudio.com/about/job-posting/?gh_jid=4405123003)
 
++ [Job: Shiny Developer](https://www.jumpingrivers.com/blog/2021-shiny-developer-job/)
 
 
 ###  Call for Participation
@@ -190,3 +204,9 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most wonderful <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package I&#39;ve ever made for myself. <a href="https://t.co/o4C3g0Mtpj">pic.twitter.com/o4C3g0Mtpj</a></p>&mdash; jo-sigh-ughhh (@JosiahParry) <a href="https://twitter.com/JosiahParry/status/1370595896405209091?ref_src=twsrc%5Etfw">March 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is. Bathymetry of the Baltic Sea. Here it is in monochrome.<a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/RIxJnGXQ2e">https://t.co/RIxJnGXQ2e</a> <a href="https://t.co/zrG9XpjsaZ">pic.twitter.com/zrG9XpjsaZ</a></p>&mdash; flotsam (@researchremora) <a href="https://twitter.com/researchremora/status/1370394078932832256?ref_src=twsrc%5Etfw">March 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
