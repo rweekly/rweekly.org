@@ -33,7 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
++ [Análisis de Encuestas con R - Survey Analysis with R, Universidad de Salamanca](https://hungry-payne-1dcce3.netlify.app)
 
 ###  Resources
 
@@ -138,6 +138,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
++ [Análisis de Encuestas con R - Survey Analysis with R, Universidad de Salamanca](https://hungry-payne-1dcce3.netlify.app)
+
 + [سلسلة تحليل بيانات كورونا بإستخدام لغة الآر](https://www.youtube.com/watch?v=0AraklFDBeA&t=410s)
 
 ###  Tutorials
@@ -165,6 +167,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ **March 19, 26:** [Los vieRnes de maRzo](http://cursoronline.usal.es/viernes.html)
 
 + **March 17:** [Interactive maps with Leaflet](http://eco-data-science.github.io/)
 
