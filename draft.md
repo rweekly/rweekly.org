@@ -19,6 +19,21 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 
++ [SQLite is great for R and Shiny. The dbmisc package may help a bit.](http://skranz.github.io//r/2021/03/16/dbmisc.html)
+
++ [Cupid’s Arrow: How to Boost your Chances at Speed Dating!](https://blog.ephorie.de/cupids-arrow-how-to-boost-your-chances-at-speed-dating)
+
++ [Simplifying geospatial features in R with sf and rmapshaper](https://datascience.blog.wzb.eu/2021/03/15/simplifying-geospatial-features-in-r-with-sf-and-rmapshaper/)
+
++ [Framework for power analysis using simulation](https://www.rdatagen.net/post/2021-03-16-framework-for-power-analysis-using-simulation/)
+
++ [Age Bias Plots Using ggplot](http://derekogle.com/fishR/2021-03-15-AgeBiasPlots-With-ggplot)
+
++ [Estimating pi with Monte Carlo simulation](https://statisticaloddsandends.wordpress.com/2021/03/15/estimating-pi-using-the-method-of-moments/)
+
++ [From multinomial regression to binary classification on some Siamese data](https://freakonometrics.hypotheses.org/61885)
+
++ [Software licensing](https://nhsrcommunity.com/blog/software-licensing/)
 
 ### R in the Real World
 
@@ -58,7 +73,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
++ [R in Pharma X-Session Recordings](https://blog.rstudio.com/2021/03/16/r-in-pharma-with-procogia-x-session-recordings-are-now-available/)
 
++ [rstudio::global(2021) X-Session recordings](https://blog.rstudio.com/2021/03/15/mastering-shiny-with-appsilon-x-session-recordings-are-now-available/)
 
 ### Gist & Cookbook
 
@@ -66,6 +83,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
++ [Running pace calculator in R Shiny](https://statsandr.com/blog/running-pace-calculator/)
 
 
 ### R Internationally
@@ -74,6 +92,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Update to Code for case study - Customer Churn with Keras/TensorFlow and H2O](https://shirinsplayground.netlify.com/2021/03/update_customer_churn/)
+
++ [torch time series, take three: Sequence-to-sequence prediction](https://blogs.rstudio.com/tensorflow/posts/2021-03-16-forecasting-time-series-with-torch_3)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -88,6 +109,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 Events in 3 Months:
 
 + **March 5 - May 21:** [TIER Symposium on instruction in resproducible research](https://www.projecttier.org/events/conference-teaching-reproducible-methods/)
+
++ **March 22** [Why R Webinar - Analysing Political Speeches in R - some approaches](http://whyr.pl//foundation/2021/evan/)
+
++ **March 23** [LondonR March Workshop 2021](https://www.mango-solutions.com/londonr-march-workshop-2021/)
 
 + **May 3rd:** [Hackathon sponsored by NanoString Technologies](http://r-posts.com/hackathon-sponsored-by-nanostring-technologies/)
 
