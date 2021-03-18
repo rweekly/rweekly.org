@@ -85,6 +85,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Running pace calculator in R Shiny](https://statsandr.com/blog/running-pace-calculator/)
 
++ [Exploring dynamics of different SARS-CoV-2 vaccine rollout strategies](https://grenfelllab.shinyapps.io/sarscov2vaccine/)
+
 
 ### R Internationally
 
