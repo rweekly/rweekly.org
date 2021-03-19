@@ -35,6 +35,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Software licensing](https://nhsrcommunity.com/blog/software-licensing/)
 
++ [When Less is More: Data Tables That Make a Difference](https://blog.ouseful.info/2021/03/15/when-less-is-more-data-tables-that-make-a-difference/)
+
 ### R in the Real World
 
 
@@ -49,7 +51,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [Calculating a Senator's value above replacement senator (VARS), based on electoral and voting record](https://github.com/elliottmorris/us-value-above-replacement-senator)
 
++ [Pub-worthy study area map](https://rpubs.com/nmasto/740564)
+
+![Pub-worthy study area map]()
 
 ###  New Packages
 
@@ -65,11 +71,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{ascorthemes}](https://github.com/favstats/ascorthemes): Xaringan slide themes for ASCoR (University of Amsterdam) 
 
 ### Updated Packages
 
-
++ [{gghilbertstrings}: Create Hilbert curves in ggplot2](https://github.com/Sumidu/gghilbertstrings)
 
 ###  Videos and Podcasts
 
@@ -88,7 +94,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
-
++ [🍭データフレームからランダムにデータを抽出したい](https://uribo.hatenablog.com/entry/2015/10/12/164129)
 
 ###  Tutorials
 
@@ -96,6 +102,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [torch time series, take three: Sequence-to-sequence prediction](https://blogs.rstudio.com/tensorflow/posts/2021-03-16-forecasting-time-series-with-torch_3)
 
++ [Introducing 'fugly' - fast regular expression substring extraction with named capture groups](https://coolbutuseless.github.io/2021/03/19/introducing-fugly-fast-regular-expression-substring-extraction-with-named-capture-groups/)
+
++ [How to Cite R Packages Like R Markdown](https://www.njtierney.com/post/2021/03/19/cite-r-pkgs/)
+
++ [Florence Nightingale’s “rose charts” (and others) in ggplot2](https://nsaunders.wordpress.com/2021/03/16/florence-nightingales-rose-charts-and-others-in-ggplot2/)
+
++ [Age Bias Plots Using ggplot](http://derekogle.com/fishR/2021-03-15-AgeBiasPlots-With-ggplot)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
