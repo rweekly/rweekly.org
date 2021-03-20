@@ -64,8 +64,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [February 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/03/19/february-2021-top-40-new-cran-packages/)
 
-+ [Calculating a Senator's value above replacement senator (VARS), based on electoral and voting record](https://github.com/elliottmorris/us-value-above-replacement-senator)
-
 
 ###  New Packages
 
@@ -73,6 +71,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+['nestr' - an R package for building nested structures](https://github.com/emitanaka/nestr)
 
 
 **BioC**
@@ -127,6 +126,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Florence Nightingale’s “rose charts” (and others) in ggplot2](https://nsaunders.wordpress.com/2021/03/16/florence-nightingales-rose-charts-and-others-in-ggplot2/)
 
 + [Age Bias Plots Using ggplot](http://derekogle.com/fishR/2021-03-15-AgeBiasPlots-With-ggplot)
+
++ [k-Means 101: An introductory guide to k-Means clustering in R](https://shirinsplayground.netlify.com/2021/03/kmeans_101/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
