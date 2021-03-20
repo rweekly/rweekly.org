@@ -32,8 +32,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Framework for power analysis using simulation](https://www.rdatagen.net/post/2021-03-16-framework-for-power-analysis-using-simulation/)
 
-+ [Age Bias Plots Using ggplot](http://derekogle.com/fishR/2021-03-15-AgeBiasPlots-With-ggplot)
-
 + [Estimating pi with Monte Carlo simulation](https://statisticaloddsandends.wordpress.com/2021/03/15/estimating-pi-using-the-method-of-moments/)
 
 + [From multinomial regression to binary classification on some Siamese data](https://freakonometrics.hypotheses.org/61885)
@@ -45,6 +43,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ![50 Cities with most amount of pleasant days in a year](https://raw.githubusercontent.com/rweekly/image/master/2021/W12/50_most_world_1000_10_pleasant.jpg)
 
 + [How to Cite R Packages Like R Markdown](https://www.njtierney.com/post/2021/03/19/cite-r-pkgs/)
+
++ [When Less is More: Data Tables That Make a Difference](https://blog.ouseful.info/2021/03/15/when-less-is-more-data-tables-that-make-a-difference/)
 
 ### R in the Real World
 
@@ -64,6 +64,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [February 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/03/19/february-2021-top-40-new-cran-packages/)
 
++ [Calculating a Senator's value above replacement senator (VARS), based on electoral and voting record](https://github.com/elliottmorris/us-value-above-replacement-senator)
+
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -82,10 +85,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + ['twitchr' - interact with the Twitch API to extract basic public data!](https://github.com/KoderKow/twitchr)
 
++ [{ascorthemes}](https://github.com/favstats/ascorthemes): Xaringan slide themes for ASCoR (University of Amsterdam) 
+
 ### Updated Packages
 
 + [New Version of the  Package “Vecsets” is on CRAN](http://r-posts.com/new-version-of-the-package-vecsets-is-on-cran/)
 
++ [{gghilbertstrings}: Create Hilbert curves in ggplot2](https://github.com/Sumidu/gghilbertstrings)
 
 ###  Videos and Podcasts
 
@@ -106,6 +112,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Análisis de Encuestas con R - (Survey analysis with R)](https://hungry-payne-1dcce3.netlify.app/)
 
++ [🍭データフレームからランダムにデータを抽出したい](https://uribo.hatenablog.com/entry/2015/10/12/164129)
+
 ###  Tutorials
 
 + [regplane3D: Plotting 3D regression predictions in R](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/regplane3d/)
@@ -115,6 +123,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [torch time series, take three: Sequence-to-sequence prediction](https://blogs.rstudio.com/tensorflow/posts/2021-03-16-forecasting-time-series-with-torch_3)
 
 + [torch time series, final episode: Attention](https://blogs.rstudio.com/tensorflow/posts/2021-03-19-forecasting-time-series-with-torch_4)
+
++ [Florence Nightingale’s “rose charts” (and others) in ggplot2](https://nsaunders.wordpress.com/2021/03/16/florence-nightingales-rose-charts-and-others-in-ggplot2/)
+
++ [Age Bias Plots Using ggplot](http://derekogle.com/fishR/2021-03-15-AgeBiasPlots-With-ggplot)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
