@@ -18,6 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [The Rise and Fall: impact of the COVID-19 pandemic on bioRxiv preprints](https://quantixed.org/2021/03/20/the-rise-and-fall-impact-of-the-covid-19-pandemic-on-biorxiv-preprints/)
+
++ [How to treat as many files as fit on your hard disk without loops (sorta) nor running out of memory all the while being as lazy as possible](https://www.brodrigues.co/blog/2021-03-19-no_loops_tidyeval/)
+
++ [Virtual Windows machine for checking R packages](https://developer.r-project.org/Blog/public/2021/03/18/virtual-windows-machine-for-checking-r-packages/)
 
 + [SQLite is great for R and Shiny. The dbmisc package may help a bit.](http://skranz.github.io//r/2021/03/16/dbmisc.html)
 
@@ -35,6 +40,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Software licensing](https://nhsrcommunity.com/blog/software-licensing/)
 
++ [Cities with Best (and Worst) Weather, 2021 edition](https://taraskaduk.com/posts/2021-03-14-best-weather-2/)
+
+![50 Cities with most amount of pleasant days in a year](https://raw.githubusercontent.com/rweekly/image/master/2021/W12/50_most_world_1000_10_pleasant.jpg)
+
++ [How to Cite R Packages Like R Markdown](https://www.njtierney.com/post/2021/03/19/cite-r-pkgs/)
+
 ### R in the Real World
 
 
@@ -49,7 +60,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [The GT Cookbook](https://themockup.blog/static/gt-cookbook.html)
 
++ [February 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/03/19/february-2021-top-40-new-cran-packages/)
 
 ###  New Packages
 
@@ -65,10 +78,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [Introducing 'fugly' - fast regular expression substring extraction with named capture groups](https://coolbutuseless.github.io/2021/03/19/introducing-fugly-fast-regular-expression-substring-extraction-with-named-capture-groups/)
 
++ ['twitchr' - interact with the Twitch API to extract basic public data!](https://github.com/KoderKow/twitchr)
 
 ### Updated Packages
 
++ [New Version of the  Package “Vecsets” is on CRAN](http://r-posts.com/new-version-of-the-package-vecsets-is-on-cran/)
 
 
 ###  Videos and Podcasts
@@ -88,14 +104,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
-
++ [Análisis de Encuestas con R - (Survey analysis with R)](https://hungry-payne-1dcce3.netlify.app/)
 
 ###  Tutorials
+
++ [regplane3D: Plotting 3D regression predictions in R](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/regplane3d/)
 
 + [Update to Code for case study - Customer Churn with Keras/TensorFlow and H2O](https://shirinsplayground.netlify.com/2021/03/update_customer_churn/)
 
 + [torch time series, take three: Sequence-to-sequence prediction](https://blogs.rstudio.com/tensorflow/posts/2021-03-16-forecasting-time-series-with-torch_3)
 
++ [torch time series, final episode: Attention](https://blogs.rstudio.com/tensorflow/posts/2021-03-19-forecasting-time-series-with-torch_4)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -140,6 +159,7 @@ Events in 3 Months:
 
 ###  Call for Participation
 
++ [March 2021 ISC Call for Proposals – Now Open!](https://www.r-consortium.org/blog/2021/03/19/september-2020-isc-call-for-proposals-now-open-2)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
