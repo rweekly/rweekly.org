@@ -60,7 +60,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-+ [The GT Cookbook](https://themockup.blog/static/gt-cookbook.html)
 
 + [February 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/03/19/february-2021-top-40-new-cran-packages/)
 
@@ -100,7 +99,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Gist & Cookbook
 
-
++ [The GT Cookbook](https://themockup.blog/static/gt-cookbook.html)
 
 ### Shiny Apps
 
