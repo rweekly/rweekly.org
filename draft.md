@@ -103,6 +103,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [The GT Cookbook](https://themockup.blog/static/gt-cookbook.html)
 
+![An exmaple {gt} table with group headings and totals](https://raw.githubusercontent.com/rweekly/image/master/2021/W12/gt_cookbookpng)
+
 ### Shiny Apps
 
 + [Running pace calculator in R Shiny](https://statsandr.com/blog/running-pace-calculator/)
