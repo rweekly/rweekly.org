@@ -61,6 +61,8 @@ This week’s release was curated by [Miles McBain](https://twitter.com/milesmcb
 
 **CRAN**
 
++ [{r6methods} 0.1.0](https://github.com/jakubsob/r6methods): Generate get and set methods for R6 class fields.
+
 + [{pkgdepends} 0.1.0](https://cran.r-project.org/package=pkgdepends): Package Dependency Resolution and Downloads
 
 + ['nestr' - an R package for building nested structures](https://github.com/emitanaka/nestr)
