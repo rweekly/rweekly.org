@@ -47,6 +47,8 @@ This week’s release was curated by [Miles McBain](https://twitter.com/milesmcb
 
 + [When Less is More: Data Tables That Make a Difference](https://blog.ouseful.info/2021/03/15/when-less-is-more-data-tables-that-make-a-difference/)
 
++ [RSQLite concurrency issues — solution included](https://blog.r-hub.io/2021/03/13/rsqlite-parallel/)
+
 ###  Resources
 
 
