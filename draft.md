@@ -8,8 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
+This week’s release was curated by [Miles McBain](https://twitter.com/milesmcbain), with help from the R Weekly team members and contributors.
 
 
 ###  Highlight
@@ -48,18 +47,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [When Less is More: Data Tables That Make a Difference](https://blog.ouseful.info/2021/03/15/when-less-is-more-data-tables-that-make-a-difference/)
 
-### R in the Real World
-
-
-
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
-
 ###  Resources
 
 
@@ -72,12 +59,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-['nestr' - an R package for building nested structures](https://github.com/emitanaka/nestr)
++ [{pkgdepends} 0.1.0](https://cran.r-project.org/package=pkgdepends): Package Dependency Resolution and Downloads
 
++ ['nestr' - an R package for building nested structures](https://github.com/emitanaka/nestr)
 
-**BioC**
-
-
++ [{spotidy} 0.1.0](https://cran.r-project.org/package=spotidy): Providing Convenience Functions to Connect R with the Spotify
+API
 
 **GitHub or Bitbucket**
 
@@ -92,6 +79,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [New Version of the  Package “Vecsets” is on CRAN](http://r-posts.com/new-version-of-the-package-vecsets-is-on-cran/)
 
 + [{gghilbertstrings}: Create Hilbert curves in ggplot2](https://github.com/Sumidu/gghilbertstrings)
+
++ [{box} 1.0.1](https://cran.r-project.org/package=box): Write Reusable, Composable and Modular R Code
+
++ [{DALEX} 2.2.0](https://cran.r-project.org/package=DALEX): moDel Agnostic Language for Exploration and eXplanation
+
++ [{stars} 0.5-2](https://cran.r-project.org/package=stars): Spatiotemporal Arrays, Raster and Vector Data Cubes
+
++ [{sf} 0.9-8](https://cran.r-project.org/package=sf): Simple Features for R
+
++ [{ragg} 1.1.2](https://cran.r-project.org/package=ragg): Graphic Devices Based on AGG
+
++ [{odbc} 1.3.1](https://cran.r-project.org/package=odbc): Connect to ODBC Compatible Databases (using the DBI Interface)
+
++ [{duckdb} 0.2.5](https://cran.r-project.org/package=duckdb): DBI Package for the DuckDB Database Management System
+
++ [{fitzRoy} 1.0.0](https://cran.r-project.org/package=fitzRoy): Easily Scrape and Process AFL Data
 
 ###  Videos and Podcasts
 
@@ -172,13 +175,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
 
 + [March 2021 ISC Call for Proposals – Now Open!](https://www.r-consortium.org/blog/2021/03/19/september-2020-isc-call-for-proposals-now-open-2)
@@ -188,3 +184,7 @@ Events in 3 Months:
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> battles <a href="https://t.co/d7W5p1TduA">pic.twitter.com/d7W5p1TduA</a></p>&mdash; mikefc (@coolbutuseless) <a href="https://twitter.com/coolbutuseless/status/1372755287669497868?ref_src=twsrc%5Etfw">March 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 2012, a statistics professor told me not to learn R because it wouldn’t be around long. <br><br>I think about this a lot.<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Kayla Williamson (she/her) (@kaymwilliamson) <a href="https://twitter.com/kaymwilliamson/status/1372278695499501576?ref_src=twsrc%5Etfw">March 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s the third episode of SLICED, <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a> edition, tonight!!! 🔪<br><br>4⃣ four contestants (chaos!) 😈<br>2⃣ two Python 🐍 2⃣ two <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <br>1⃣ one <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a> dataset 🎮<br>1⃣ one live coding modeling challenge 📈<br><br>Check us out at 8:30PM ET! <a href="https://t.co/jMUw9e2Tyo">https://t.co/jMUw9e2Tyo</a></p>&mdash; Meg Risdal 👾 (@MeganRisdal) <a href="https://twitter.com/MeganRisdal/status/1371878251920953344?ref_src=twsrc%5Etfw">March 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
