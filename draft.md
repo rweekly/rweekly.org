@@ -30,6 +30,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Simplifying geospatial features in R with sf and rmapshaper](https://datascience.blog.wzb.eu/2021/03/15/simplifying-geospatial-features-in-r-with-sf-and-rmapshaper/)
 
+![A simplified administrative boundary overlaid on the original](https://raw.githubusercontent.com/rweekly/image/master/2021/W12/08mvsimpl_coarse_diff-1.png)
+
 + [Framework for power analysis using simulation](https://www.rdatagen.net/post/2021-03-16-framework-for-power-analysis-using-simulation/)
 
 + [Estimating pi with Monte Carlo simulation](https://statisticaloddsandends.wordpress.com/2021/03/15/estimating-pi-using-the-method-of-moments/)
