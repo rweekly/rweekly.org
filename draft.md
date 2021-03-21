@@ -66,6 +66,8 @@ This week’s release was curated by [Miles McBain](https://twitter.com/milesmcb
 + [{spotidy} 0.1.0](https://cran.r-project.org/package=spotidy): Providing Convenience Functions to Connect R with the Spotify
 API
 
++ [{sfnetworks} 0.5.0](https://cran.r-project.org/package=sfnetworks): a tidy approach to spatial network analysis.
+
 **GitHub or Bitbucket**
 
 + [Introducing 'fugly' - fast regular expression substring extraction with named capture groups](https://coolbutuseless.github.io/2021/03/19/introducing-fugly-fast-regular-expression-substring-extraction-with-named-capture-groups/)
@@ -140,6 +142,8 @@ API
 ![Age Bias Plots](https://raw.githubusercontent.com/rweekly/image/master/2021/W12/ABplot2-1.png)
 
 + [k-Means 101: An introductory guide to k-Means clustering in R](https://shirinsplayground.netlify.com/2021/03/kmeans_101/)
+
++ [Applying design guidelines to slides with {xaringanthemer}](https://www.katiejolly.io/blog/2021-03-16/designing-slides)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
