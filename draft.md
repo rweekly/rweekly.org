@@ -120,6 +120,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [regplane3D: Plotting 3D regression predictions in R](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/regplane3d/)
 
+![An annotated plot of a 3D regression](https://raw.githubusercontent.com/rweekly/image/master/2021/W12/use-regplane3D-step6-1.png)
+
 + [Update to Code for case study - Customer Churn with Keras/TensorFlow and H2O](https://shirinsplayground.netlify.com/2021/03/update_customer_churn/)
 
 + [torch time series, take three: Sequence-to-sequence prediction](https://blogs.rstudio.com/tensorflow/posts/2021-03-16-forecasting-time-series-with-torch_3)
@@ -128,7 +130,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Florence Nightingale’s “rose charts” (and others) in ggplot2](https://nsaunders.wordpress.com/2021/03/16/florence-nightingales-rose-charts-and-others-in-ggplot2/)
 
+![Rose charts approximating Nightingale's](https://raw.githubusercontent.com/rweekly/image/master/2021/W12/rose-chart-1-1.png)
+
 + [Age Bias Plots Using ggplot](http://derekogle.com/fishR/2021-03-15-AgeBiasPlots-With-ggplot)
+
+![Age Bias Plots](https://raw.githubusercontent.com/rweekly/image/master/2021/W12/ABplot2-1.png)
 
 + [k-Means 101: An introductory guide to k-Means clustering in R](https://shirinsplayground.netlify.com/2021/03/kmeans_101/)
 
