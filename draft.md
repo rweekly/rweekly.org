@@ -1,7 +1,7 @@
 ---
 layout: draft
-title: R Weekly 2021-W00
-description: Draft of the R Weekly
+title: R Weekly 2021-W12 {gt} cookbook, best weather cities, mapping over many files
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -13,9 +13,14 @@ This week’s release was curated by [Miles McBain](https://twitter.com/milesmcb
 
 ###  Highlight
 
++ [The GT Cookbook](https://themockup.blog/static/gt-cookbook.html)
 
++ [Cities with Best (and Worst) Weather, 2021 edition](https://taraskaduk.com/posts/2021-03-14-best-weather-2/)
+
++ [How to treat as many files as fit on your hard disk without loops (sorta) nor running out of memory all the while being as lazy as possible](https://www.brodrigues.co/blog/2021-03-19-no_loops_tidyeval/)
 
 ### Insights
+
 
 + [The Rise and Fall: impact of the COVID-19 pandemic on bioRxiv preprints](https://quantixed.org/2021/03/20/the-rise-and-fall-impact-of-the-covid-19-pandemic-on-biorxiv-preprints/)
 
