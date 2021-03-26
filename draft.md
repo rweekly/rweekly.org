@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Open-source contribution as a student project](http://www.citizen-statistician.org/2021/03/open-source-contribution-as-a-student-project/)
 
 
 ### R in the Real World
