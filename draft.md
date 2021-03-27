@@ -37,7 +37,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ###  Resources
 
-+ [{ggplo2} Wizardry: My Favorite Tricks and secretes for Beautiful Plots in R, Cédric Scherer](https://www.cedricscherer.com/slides/useR2021.pdf)
++ [ggplot2 Wizardry: My Favorite Tricks and secretes for Beautiful Plots in R, Cédric Scherer](https://www.cedricscherer.com/slides/useR2021.pdf)
 
 
 ###  New Packages
