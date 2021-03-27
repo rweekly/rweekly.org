@@ -59,7 +59,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [Friends of Tracking: Creating a pass flow graph in R](https://www.youtube.com/watch?v=uOE2_UIRniE)
 
 ### Gist & Cookbook
 
