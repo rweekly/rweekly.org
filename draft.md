@@ -15,7 +15,6 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 ###  Highlight
 
 
-
 ### Insights
 
 + [Open-source contribution as a student project](http://www.citizen-statistician.org/2021/03/open-source-contribution-as-a-student-project/)
@@ -30,19 +29,15 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ### R in the Real World
 
++ [Customer Churn with Keras/TensorFlow and H2O (update)](https://shirinsplayground.netlify.app/2021/03/update_customer_churn/)
 
++ [Tidytext analysis of 100DaysOfWriting](https://www.martincadek.com/posts/2021-03-21-tidytext-analysis-of-100daysofwriting/)
 
-###  R in Organizations
-
-+ [EARL abstracts: one week left to submit](https://www.mango-solutions.com/earl-abstracts-one-week-left-to-submit/)
-
-
-###  R in Academia
-
-
++ [How Popular is Your Name? Mini Data Viz Challenge in R](https://towardsdatascience.com/how-popular-is-your-name-mini-data-viz-challenge-in-r-1dc31f6a22dc)
 
 ###  Resources
 
++ [{ggplo2} Wizardry: My Favorite Tricks and secretes for Beautiful Plots in R, Cédric Scherer](https://www.cedricscherer.com/slides/useR2021.pdf)
 
 
 ###  New Packages
@@ -51,19 +46,25 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 **CRAN**
 
-
-
-**BioC**
-
-
-
-**GitHub or Bitbucket**
-
-
++ [{ferrn} 0.1.0](https://github.com/huizezhang-sherry/ferrn): Facilitate Exploration of touRR optimisatioN
++ [{jsontools} 0.1.0](https://cran.r-project.org/package=jsontools): Working with JSON Vectors
++ [{stockfish} 0.1.1](https://cran.r-project.org/package=stockfish): Analyze Chess Games with the 'Stockfish' Engine
++ [{clinspacy} 1.0.2](https://cran.r-project.org/package=clinspacy): Clinical Natural Language Processing using 'spaCy', 'scispaCy', and 'medspaCy'
++ [{plumberDeploy} 0.2.1](https://cran.r-project.org/package=plumberDeploy): Plumber Deployment
++ [{bardr} 0.0.9](https://cran.r-project.org/package=bardr): Complete Works of William Shakespeare in Tidy Format
++ [{indiedown} 0.1.1](https://cran.r-project.org/package=indiedown): Individual R Markdown Templates
 
 ### Updated Packages
 
-
++ [sparklyr 1.6: weighted quantile summaries, power iteration clustering, spark_write_rds(), and more](https://blogs.rstudio.com/tensorflow/posts/2021-03-25-sparklyr-1.6.0-released)
++ [{targets} 0.3.0](https://cran.r-project.org/package=targets): Dynamic Function-Oriented 'Make'-Like Declarative Workflows
++ [{tidyposterior} 0.1.0](https://cran.r-project.org/package=tidyposterior): Bayesian Analysis to Compare Models using Resampling Statistics
++ [{ymlthis} 0.1.4](https://cran.r-project.org/package=ymlthis): Write 'YAML' for 'R Markdown', 'bookdown', 'blogdown', and More
++ [{cricketr} 0.0.26](https://cran.r-project.org/package=cricketr): Analyze Cricketers and Cricket Teams Based on ESPN Cricinfo Statsguru
++ [{plumber} 1.1.0](https://cran.r-project.org/package=plumber): An API Generator for R
++ [{tweenr} 1.0.2](https://cran.r-project.org/package=tweenr): Interpolate Data for Smooth Animations
++ [{processx} 3.5.0](https://cran.r-project.org/package=processx): Execute and Control System Processes
++ [{nflfastR} 4.1.0](https://cran.r-project.org/package=nflfastR): Functions to Efficiently Access NFL Play by Play Data
 
 ###  Videos and Podcasts
 
@@ -78,8 +79,6 @@ Automation / File types / File sizes](https://youtu.be/qKU97mVs6nM)
 + [Fueling the virtual racing league Shiny dashboard with {reactable}](https://www.youtube.com/watch?v=Zxoa1XySaUE)
 
 + [Build ggplot2 Code with TDrag-and-Drop ({esquisse})](https://www.youtube.com/watch?v=6LV_p3Zi-LM)
-
-+ [Make PDF Data Analysis Reports with R (new Rmarkdown Visual Editor)](https://www.youtube.com/watch?v=CjS90dBrEho)
 
 
 ### Gist & Cookbook
@@ -102,6 +101,8 @@ Automation / File types / File sizes](https://youtu.be/qKU97mVs6nM)
 + [Dimensionality reduction of #TidyTuesday United Nations voting patterns](https://juliasilge.com/blog/un-voting/)
 
 + [A guide to creating a Slackbot that sends weekly updates via plumber, googleCloudRunner and Cloud Run](https://code.markedmondson.me/googleCloudRunner/articles/usecase-slackbot-google-analytics.html)
+
++ [Use GitHub actions with R Markdown and Distill](https://www.etiennebacher.com/posts/2021-03-19-use-github-actions-with-r-markdown-and-distill/)
 
 + [Why I love dplyr's across](https://willhipson.netlify.app/post/dplyr_across/dplyr_across/)
 
@@ -135,14 +136,15 @@ Events in 3 Months:
 
 + [Detailed Current Data on the Economic Impact of Covid-19](http://skranz.github.io//r/2021/03/22/tracktherecovery.html)
 
-### Jobs
-
-
-
 
 ###  Call for Participation
 
++ [EARL abstracts: one week left to submit](https://www.mango-solutions.com/earl-abstracts-one-week-left-to-submit/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally jumped into the {targets} world and holy crap where has this magic been my whole life?! Once you set up the dependencies and functions for doing stuff with other things, it *just works* and magically knows when to re-run stuff! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/0yUkhF6Ps4">pic.twitter.com/0yUkhF6Ps4</a></p>&mdash; Andrew Heiss (@andrewheiss) <a href="https://twitter.com/andrewheiss/status/1375305769697095680?ref_src=twsrc%5Etfw">March 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally jumped into the {targets} world and holy crap where has this magic been my whole life?! Once you set up the dependencies and functions for doing stuff with other things, it *just works* and magically knows when to re-run stuff! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/0yUkhF6Ps4">pic.twitter.com/0yUkhF6Ps4</a></p>&mdash; Andrew Heiss (@andrewheiss) <a href="https://twitter.com/andrewheiss/status/1375305769697095680?ref_src=twsrc%5Etfw">March 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
