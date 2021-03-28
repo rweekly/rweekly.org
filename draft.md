@@ -26,6 +26,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [BI and Data Science: Collaboration Using Data Handoffs](https://blog.rstudio.com/2021/03/25/bi-and-data-science-the-handoff/)
 
++ [Questions, answers, and reprexes](https://www.garrickadenbuie.com/blog/questions-answers-and-reprexes/)
+
 + [How flexible neural networks really are? ](https://eranraviv.com/flexible-neural-networks-really/)
 
 + [A New Coefficient of Correlation](https://eranraviv.com/correlation-and-correlation-structure-5-a-new-coefficient-correlation/)
