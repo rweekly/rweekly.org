@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: R Weekly 2021-W13
-description: Draft of the R Weekly
+description: Minard, Slackbot, ggplot2 Wizardry
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -14,6 +14,11 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ###  Highlight
 
++ ["The Minard System" in R](http://minard.schochastics.net/)
+
++ [A guide to creating a Slackbot that sends weekly updates via plumber, googleCloudRunner and Cloud Run](https://code.markedmondson.me/googleCloudRunner/articles/usecase-slackbot-google-analytics.html)
+
++ [ggplot2 Wizardry: My Favorite Tricks and secretes for Beautiful Plots in R, Cédric Scherer](https://www.cedricscherer.com/slides/useR2021.pdf)
 
 ### Insights
 
@@ -53,6 +58,10 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 + [{plumberDeploy} 0.2.1](https://cran.r-project.org/package=plumberDeploy): Plumber Deployment
 + [{bardr} 0.0.9](https://cran.r-project.org/package=bardr): Complete Works of William Shakespeare in Tidy Format
 + [{indiedown} 0.1.1](https://cran.r-project.org/package=indiedown): Individual R Markdown Templates
+
+**GitHub**
+
++ [{popthemes}](https://github.com/johnmackintosh/popthemes): Colour palettes based (mainly) on pop album covers.
 
 ### Updated Packages
 
@@ -103,6 +112,8 @@ Automation / File types / File sizes](https://youtu.be/qKU97mVs6nM)
 + [A guide to creating a Slackbot that sends weekly updates via plumber, googleCloudRunner and Cloud Run](https://code.markedmondson.me/googleCloudRunner/articles/usecase-slackbot-google-analytics.html)
 
 + [Use GitHub actions with R Markdown and Distill](https://www.etiennebacher.com/posts/2021-03-19-use-github-actions-with-r-markdown-and-distill/)
+
++ [Running background R jobs in Shiny](https://jnolis.com/blog/shiny_background_processes/)
 
 + [Why I love dplyr's across](https://willhipson.netlify.app/post/dplyr_across/dplyr_across/)
 
