@@ -76,7 +76,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 + [{tweenr} 1.0.2](https://cran.r-project.org/package=tweenr): Interpolate Data for Smooth Animations
 + [{processx} 3.5.0](https://cran.r-project.org/package=processx): Execute and Control System Processes
 + [{nflfastR} 4.1.0](https://cran.r-project.org/package=nflfastR): Functions to Efficiently Access NFL Play by Play Data
-+ [{styler} 1.4.0](https://lorenzwalthert.netlify.com/post/styler-1-4-0/): Pretty-prints R code without changing the user's formatting intent.
++ [{styler} 1.4.0](https://lorenzwalthert.netlify.com/post/styler-1-4-0/): Pretty-prints R code without changing the user's formatting intent
 
 ###  Videos and Podcasts
 
