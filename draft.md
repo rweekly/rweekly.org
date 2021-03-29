@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [🌧 klowd.cc: Accelerate your R projects in the cloud - 12 hours of free high-performance cloud computing with hosted RStudio server](https://klowd.cc/)
 
 ###  New Packages
 
