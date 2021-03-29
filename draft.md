@@ -10,8 +10,6 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr), with help from the R Weekly team members and contributors.
 
-
-
 ###  Highlight
 
 + ["The Minard System" in R](http://minard.schochastics.net/)
@@ -30,8 +28,6 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [How flexible neural networks really are? ](https://eranraviv.com/flexible-neural-networks-really/)
 
-+ [A New Coefficient of Correlation](https://eranraviv.com/correlation-and-correlation-structure-5-a-new-coefficient-correlation/)
-
 + [How much overdispersion is too much in typical GLMMs?](https://theoreticalecology.wordpress.com/2021/03/24/how-much-overdispersion-is-too-much-in-typical-glmms/)
 
 ### R in the Real World
@@ -40,12 +36,15 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Tidytext analysis of 100DaysOfWriting](https://www.martincadek.com/posts/2021-03-21-tidytext-analysis-of-100daysofwriting/)
 
+![Temporal Scatterplot for Number of Characters for Tweets for 100DaysOfWriting](https://raw.githubusercontent.com/rweekly/image/master/2021/W13/100days.png)
+
 + [How Popular is Your Name? Mini Data Viz Challenge in R](https://towardsdatascience.com/how-popular-is-your-name-mini-data-viz-challenge-in-r-1dc31f6a22dc)
 
 ###  Resources
 
 + [ggplot2 Wizardry: My Favorite Tricks and secretes for Beautiful Plots in R, Cédric Scherer](https://www.cedricscherer.com/slides/useR2021.pdf)
 
+![Title Slide of Slide Deck for ggplot2 Tricks](https://raw.githubusercontent.com/rweekly/image/master/2021/W13/ggplot2-wizardry.png)
 
 ###  New Packages
 
@@ -97,16 +96,15 @@ Automation / File types / File sizes](https://youtu.be/qKU97mVs6nM)
 
 + ["The Minard System" in R](http://minard.schochastics.net/)
 
-+ [Dataviz Nanopost: Slices of the World](https://www.tylermw.com/dataviz-nanopost-slices-of-the-world/)
+![ggplot2 Re-creation of Minard's Famous Napolean Flow Plot](https://raw.githubusercontent.com/rweekly/image/master/2021/W13/minnard.png)
 
++ [Dataviz Nanopost: Slices of the World](https://www.tylermw.com/dataviz-nanopost-slices-of-the-world/)
 
 ### Shiny Apps
 
 + [Mirai Covid-19 App is one year old](https://mirai-solutions.ch/news/2021/03/24/one-year-covid19app/)
-
-### R Internationally
-
-
++ 
++ [Exploring dynamics of different SARS-CoV-2 vaccine rollout strategies](https://grenfelllab.shinyapps.io/sarscov2vaccine/)
 
 ###  Tutorials
 
@@ -126,8 +124,6 @@ Automation / File types / File sizes](https://youtu.be/qKU97mVs6nM)
 
 + [Pseudo-Randomness: Creating Fake Noise](https://blog.ephorie.de/pseudo-randomness-creating-fake-noise)
 
-+ [Little useless-useful R functions – Letter frequency in a vector of numbers](https://tomaztsql.wordpress.com/2021/03/22/little-useless-useful-r-functions-letter-frequency-in-a-vector-of-numbers/)
-
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -139,6 +135,15 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ **May 3rd:** [Hackathon sponsored by NanoString Technologies](http://r-posts.com/hackathon-sponsored-by-nanostring-technologies/)
+
++ **May 14th:** [Time to get your Shiny on, Shiny Contest 2021 is here!](https://blog.rstudio.com/2021/03/11/time-to-shiny/)
+
++ **May 26-28:** [NIMBLE virtual short course](https://r-nimble.org/nimble-virtual-short-course-may-26-28)
+
++ **June 1:** ["Introduction to R" pre-conference workshop for PuG](https://pug2021.de/en/pre-conference-workshops-2/) *(German)*
+
++ **June 1:** ["Reproducibility in R" pre-conference workshop for PuG](https://pug2021.de/en/pre-conference-workshops-2/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -150,6 +155,7 @@ Events in 3 Months:
 
 + [Detailed Current Data on the Economic Impact of Covid-19](http://skranz.github.io//r/2021/03/22/tracktherecovery.html)
 
+![Spatial chart illustrating revenue impact of Covid-19 on small New York business](https://raw.githubusercontent.com/rweekly/image/master/2021/W13/map_small_business_ny.png)
 
 ###  Call for Participation
 
