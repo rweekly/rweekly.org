@@ -103,7 +103,7 @@ Automation / File types / File sizes](https://youtu.be/qKU97mVs6nM)
 ### Shiny Apps
 
 + [Mirai Covid-19 App is one year old](https://mirai-solutions.ch/news/2021/03/24/one-year-covid19app/)
-+ 
+
 + [Exploring dynamics of different SARS-CoV-2 vaccine rollout strategies](https://grenfelllab.shinyapps.io/sarscov2vaccine/)
 
 ###  Tutorials
