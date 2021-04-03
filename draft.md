@@ -50,7 +50,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{tarantino}](https://github.com/rexarski/tarantino): Color palettes based on Quentin Tarantino's movies.
 
 ### Updated Packages
 
