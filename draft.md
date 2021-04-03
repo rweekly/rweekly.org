@@ -59,6 +59,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Videos and Podcasts
 
 
++ [Making R Markdown work better for you (Video) - Alison Hill (Cleveland R User Group)](https://youtu.be/sxYE0BY1mdc)
 
 ### Gist & Cookbook
 
