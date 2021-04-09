@@ -64,7 +64,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-
++ [ConfusionTableR package has a new function](https://hutsons-hacks.info/confusiontabler-package-has-a-new-function)
 
 ###  Videos and Podcasts
 
@@ -86,6 +86,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Publishing and browsing articles on R-universe](https://ropensci.org/blog/2021/04/09/r-universe-articles/)
+
 + [Using Kubernetes and the Future Package to Easily Parallelize R in the Cloud](https://www.jottr.org/2021/04/08/future-and-kubernetes/)  
 
 + [Naive Bayes Classification in R](https://finnstats.com/index.php/2021/04/08/naive-bayes-classification-in-r/)
@@ -95,6 +97,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [sql-in-rmarkdown](https://sciencificity-blog.netlify.app/posts/2021-03-27-sql-in-rmarkdown/)
 
 + [A Deep Learning Classifier of New Testament Verse Authorship using the R Keras Package](https://labrtorian.com/2021/04/07/a-deep-learning-classifier-of-new-testament-verse-authorship-using-the-r-keras-package/)
+
++ [Introducing Modeltime Recursive: Tidy Autoregressive Forecasting with Lags](https://www.business-science.io/code-tools/2021/04/08/autoregressive-machine-learning.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
