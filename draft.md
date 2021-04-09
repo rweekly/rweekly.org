@@ -18,11 +18,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Meetup: Making the Shift from Excel to R: Perspectives from the back-office](https://community.rstudio.com/t/meetup-making-the-shift-from-excel-to-r-perspectives-from-the-back-office/100467)
 
++ [15 Essential packages in R for Data Science](https://finnstats.com/index.php/2021/04/07/essential-packages-in-r/)
+
++ [COVID-19 Data Forum: Data Journalism](https://rviews.rstudio.com/2021/04/06/covid-19-data-forum-data-journalism/)
 
 ### R in the Real World
 
++ [Pixar: a data story](https://towardsdatascience.com/pixar-a-data-story-a3a2cad95081)
 
++ [Ten Years vs The Spread II: Calculating publication lag times in R](https://quantixed.org/2021/04/04/ten-years-vs-the-spread-ii-calculating-publication-lag-times-in-r/)
+
++ [Over and Over: Preprint revisions on bioRxiv](https://quantixed.org/2021/04/07/over-and-over-preprint-revisions-on-biorxiv/)
 
 ###  R in Organizations
 
@@ -34,7 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [How to run R code in PyCharm?](https://finnstats.com/index.php/2021/04/05/how-to-run-r-code-in-pycharm/)
 
 ###  New Packages
 
@@ -42,7 +50,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [reprex 2.0.0](https://www.tidyverse.org/blog/2021/04/reprex-2-0-0/)
 
++ [cli - 2.4.0](https://github.com/r-lib/cli/releases/tag/v2.4.0)
 
 **BioC**
 
@@ -50,7 +60,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [Mail merge from R using markdown documents and gmail.](https://github.com/andrie/mailmerge)
 
 ### Updated Packages
 
@@ -58,7 +68,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
++ [Model Monitoring with R Markdown, pins, and RStudio Connect](https://blog.rstudio.com/2021/04/08/model-monitoring-with-r-markdown/)
 
++ [ggplot2 Bar Chart - Simple to Powerful Themes with Kaggle Notebook](https://www.programmingwithr.com/ggplot2-bar-chart-simple-to-powerful-themes-with-kaggle-notebook/)
 
 ### Gist & Cookbook
 
@@ -74,7 +86,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Using Kubernetes and the Future Package to Easily Parallelize R in the Cloud](https://www.jottr.org/2021/04/08/future-and-kubernetes/)  
 
++ [Naive Bayes Classification in R](https://finnstats.com/index.php/2021/04/08/naive-bayes-classification-in-r/)
+
++ [Repeated Measures of ANOVA in R Complete Tutorial](https://finnstats.com/index.php/2021/04/06/repeated-measures-of-anova-in-r/)
+
++ [sql-in-rmarkdown](https://sciencificity-blog.netlify.app/posts/2021-03-27-sql-in-rmarkdown/)
+
++ [A Deep Learning Classifier of New Testament Verse Authorship using the R Keras Package](https://labrtorian.com/2021/04/07/a-deep-learning-classifier-of-new-testament-verse-authorship-using-the-r-keras-package/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -86,6 +106,12 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [My Journey To Transparency And Reproducibility](https://www.meetup.com/fr-FR/R-Lille/events/277031496)
+
++ [How To Build A Package With The "Rmd First" Method](https://www.meetup.com/fr-FR/R-Lille/events/277132394)
+
++ [R in insuRance - industry meetup](https://www.meetup.com/fr-FR/RStudio-Enterprise-Community-Meetup/events/275969663/)
 
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
@@ -106,3 +132,7 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is a good time to spring clean your <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a> tokens:<br>* (re)generate to get the new format<br>* update how you make your token available to command line git and <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br><br>gh 1.2.1 (new!) supports the new token format, so update that first!<a href="https://t.co/uvl8Eo5EFx">https://t.co/uvl8Eo5EFx</a> <a href="https://t.co/QkVKDDvydS">https://t.co/QkVKDDvydS</a></p>&mdash; Jenny Bryan (@JennyBryan) <a href="https://twitter.com/JennyBryan/status/1379170241595338753?ref_src=twsrc%5Etfw">April 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
