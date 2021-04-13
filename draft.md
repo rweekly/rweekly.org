@@ -73,7 +73,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Tutorials
-
++ [Process Mining in 10 minutes with R](https://medium.com/process-mining-and-analytics/process-mining-in-10-minutes-with-r-1ab28ed74e81)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
