@@ -51,6 +51,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [{diffmatchpatch} 0.1.0](https://cran.r-project.org/package=diffmatchpatch): String Diff, Match, and Patch Utilities
 
++ [{gm} 1.0.2](https://flujoo.github.io/gm/): Generate Music Easily and Show Anywhere
+
 + [{r5r} 0.4.0](https://cran.r-project.org/package=r5r): Rapid Realistic Routing with 'R5'
 
 + [{report} 0.3.0](https://cran.r-project.org/package=report): Automated Reporting of Results and Statistical Models
