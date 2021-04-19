@@ -5,9 +5,12 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
+
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder), with help from the R Weekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+
+
 
 ###  Highlight
 
@@ -15,11 +18,7 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ### Insights
 
-+ [rOpenSci News Digest, April 2021](https://ropensci.org/blog/2021/04/16/latest-ropensci-news-digest/)
 
-+ [Latest news from the R Markdown family](https://blog.rstudio.com/2021/04/15/2021-spring-rmd-news/)
-
-+ [Impressions from New Zealand’s R Exchange](https://blog.rstudio.com/2021/04/14/impressions-from-new-zealand-s-r-exchange/)
 
 ### R in the Real World
 
@@ -35,9 +34,7 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ###  Resources
 
-+ [Announcing ‘Introductions to Emacs Speaks Statistics’](http://dirk.eddelbuettel.com/blog/2021/04/15#announcing_ess_intros)
 
-+ [R-Charts](https://r-charts.com/): A collection of charts and graphs made with the R programming language
 
 ###  New Packages
 
@@ -45,17 +42,7 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 **CRAN**
 
-+ [{cheatsheet} 0.1.0](https://technistema.com/posts/announcing-the-cheatsheet-package/): Download R Cheat Sheets Locally
 
-+ [{cxr} 1.0.0](https://cran.r-project.org/package=cxr): A Toolbox for Modelling Species Coexistence in R
-
-+ [{diffmatchpatch} 0.1.0](https://cran.r-project.org/package=diffmatchpatch): String Diff, Match, and Patch Utilities
-
-+ [{gm} 1.0.2](https://flujoo.github.io/gm/): Generate Music Easily and Show Anywhere
-
-+ [{r5r} 0.4.0](https://cran.r-project.org/package=r5r): Rapid Realistic Routing with 'R5'
-
-+ [{report} 0.3.0](https://cran.r-project.org/package=report): Automated Reporting of Results and Statistical Models
 
 **BioC**
 
@@ -64,25 +51,14 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 **GitHub or Bitbucket**
 
 
+
 ### Updated Packages
 
-+ [{clock} 0.2.0](https://cran.r-project.org/package=clock): Date-Time Types and Tools
 
-+ [{esquisse} 1.0.0](https://cran.r-project.org/package=esquisse): Explore and Visualize Your Data Interactively
-
-+ [{golem} 0.3.1](https://cran.r-project.org/package=golem): A Framework for Robust Shiny Applications
-
-+ [{idbr} 1.0](https://cran.r-project.org/package=idbr): R Interface to the US Census Bureau International Data Base API
-
-+ [{noisyr} 1.0.0](https://cran.r-project.org/package=noisyr): Noise Quantification in High Throughput Sequencing Output
-
-+ [{Microsoft365R} 2.1.0](https://blog.revolutionanalytics.com/2021/04/microsoft365r-210-with-outlook-support-now-on-cran.html): With Outlook support now on CRAN
 
 ###  Videos and Podcasts
 
-+ [Which #TidyTuesday post offices are in Hawaii?](https://juliasilge.com/blog/hawaii-post-offices/)
 
-+ [TidyX Episode 56 | MLB Pitch Classification - XGBoost](https://www.youtube.com/watch?v=avesIMF5UVg)
 
 ### Gist & Cookbook
 
@@ -90,9 +66,7 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ### Shiny Apps
 
-+ [{ggirl} 1.0.1](https://jnolis.com/blog/introducing_ggirl/): An R package that lets you make ggplots in real life
 
-+ [GooglyPlusPlus2021 with IPL 2021, as-it-happens!](https://gigadom.in/2021/04/11/googlyplusplus2021-with-ipl-2021-as-it-happens/)
 
 ### R Internationally
 
@@ -100,31 +74,7 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ###  Tutorials
 
-+ [Process Mining in 10 minutes with R](https://medium.com/process-mining-and-analytics/process-mining-in-10-minutes-with-r-1ab28ed74e81)
 
-+ [{hagr} Linnaean Classification](https://datawookie.dev/blog/2021/04/hagr-linnaean-classification/)
-
-+ [An Alternative to the Correlation Coefficient That Works For Numeric and Categorical Variables](https://rviews.rstudio.com/2021/04/15/an-alternative-to-the-correlation-coefficient-that-works-for-numeric-and-categorical-variables/)
-
-+ [How to Do the Brown-Forsythe Test in R: A Step-By-Step Example](https://www.marsja.se/how-to-do-the-brown-forsythe-test-in-r/)
-
-+ [Have you checked your features distributions lately?](https://nc233.com/2021/04/have-you-checked-your-features-distributions-lately/)
-
-+ [Backtesting Options Strategies with R](https://blog.ephorie.de/backtesting-options-strategies-with-r)
-
-+ [Quick Hit: Processing macOS Application Metadata Weirdly Fast with mdls and R](https://rud.is/b/2021/04/13/quick-hit-processing-macos-application-metadata-weirdly-fast-with-mdls-and-r/)
-
-+ [Generating random lists of names with errors to explore fuzzy word matching](https://www.rdatagen.net/post/2021-04-13-generating-random-lists-of-names-with-errors-to-explore-fuzzy-word-matching/)
-
-+ [Check ‘Developer Tools’ First To Avoid Heavy-ish Dependencies](https://rud.is/b/2021/04/12/check-developer-tools-first-to-avoid-heavy-ish-dependencies/)
-
-+ [Is the EPL getting more unequal?](https://statisticaloddsandends.wordpress.com/2021/04/12/is-the-epl-getting-more-unequal/)
-
-+ [Violation of Proportional Odds is Not Fatal](https://www.fharrell.com/post/po/)
-
-+ [Using IPUMS USA for Estimation of Population Characteristics in Various Geographic Areas](https://coreysparks.github.io/posts/2021-04-14-mapping-ipums-estimates/)
-
-+ [Formatting Migration Recall Data For Longitudinal Analysis](https://ipums.github.io/pma-data-hub/posts/2021-04-15-migration-discovery/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -137,14 +87,11 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
+
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/virtual-events.html)
 
 
 ### Datasets
-
-+ [{childdevdata} 1.1.0](https://d-score.org/childdevdata/): Milestone data from ten studies in child development
-
-+ [{VulnToolkit} 1.1.2](https://github.com/troyhill/VulnToolkit): Analysis of Tidal Datasets
 
 ### Jobs
 
@@ -153,10 +100,7 @@ Events in 3 Months:
 
 ###  Call for Participation
 
+
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In an age where virtual assistant programs have become ubiquitous, you may also wish to have one that helps you find solutions to common ggplot formatting problems.<br><br>The {gghelp} function {ggx} mimics behavior of such an assistant 📝<a href="https://t.co/6VQzRqbrgp">https://t.co/6VQzRqbrgp</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> <a href="https://t.co/esK1W6xMEj">pic.twitter.com/esK1W6xMEj</a></p>&mdash; R Function A Day (@rfunctionaday) <a href="https://twitter.com/rfunctionaday/status/1382587044560519168?ref_src=twsrc%5Etfw">April 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Slides on redundant coding.<a href="https://t.co/miqrLROikZ">https://t.co/miqrLROikZ</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/m1H34F2Zuk">pic.twitter.com/m1H34F2Zuk</a></p>&mdash; Claus Wilke (@ClausWilke) <a href="https://twitter.com/ClausWilke/status/1382451822053314562?ref_src=twsrc%5Etfw">April 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
