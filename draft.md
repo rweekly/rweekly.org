@@ -44,6 +44,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 [{lookup} 1.0](https://kwstat.github.io/lookup/): Functions similar to VLOOKUP in Excel.
 
+
 **BioC**
 
 
@@ -74,7 +75,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Visualizing Nine Years on LinkedIn using R](https://towardsdatascience.com/nine-years-on-linkedin-in-data-b34047c77223)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
