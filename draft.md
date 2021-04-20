@@ -42,7 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+[{lookup} 1.0](https://kwstat.github.io/lookup/): Functions similar to VLOOKUP in Excel.
 
 **BioC**
 
