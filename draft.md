@@ -42,7 +42,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-[{lookup} 1.0](https://kwstat.github.io/lookup/): Functions similar to VLOOKUP in Excel.
++ [{lookup} 1.0](https://kwstat.github.io/lookup/): Functions similar to VLOOKUP in Excel.
+
++ [{preferably} 0.3.0](http://preferably.amirmasoudabdol.name): A {pkgdown} accessible template with support for dynamic light/dark mode.
+
+![Preferably Light and Dark Themes](https://raw.githubusercontent.com/amirmasoudabdol/preferably/main/man/figures/comparison.png)
 
 
 **BioC**
