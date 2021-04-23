@@ -44,6 +44,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 [{lookup} 1.0](https://kwstat.github.io/lookup/): Functions similar to VLOOKUP in Excel.
 
+[{tidywikidatar} 0.2](https://edjnet.github.io/tidywikidatar/): Query 'Wikidata' with ease, get tidy data frames in response, and cache data in a local 'SQLite' database.
 
 **BioC**
 
@@ -76,6 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Tutorials
 
 + [Visualizing Nine Years on LinkedIn using R](https://towardsdatascience.com/nine-years-on-linkedin-in-data-b34047c77223)
++ [What does Wikidata know about members of the European Parliament?](https://medium.com/european-data-journalism-network/a-new-r-package-for-exploring-the-wealth-of-information-stored-by-wikidata-fe85e82b6440)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
