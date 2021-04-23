@@ -55,6 +55,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [{terrainr} 0.4.0]: Landscape Visualizations in R and 'Unity'
 
 
 ###  Videos and Podcasts
