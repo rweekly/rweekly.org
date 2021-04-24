@@ -18,6 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [March 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/04/22/march-2021-top-40-new-cran-packages/)
 + [Feature Engineering of the Gamma Region for Machine Learning Identification of Monoclonal Proteins](https://labrtorian.com/2021/04/21/feature-engineering-of-the-gamma-region-for-machine-learning-identification-of-monoclonal-proteins/)
 + [New in knitr: Improved accessibility with image alt text](https://blog.rstudio.com/2021/04/20/knitr-fig-alt/)
++ [Dockerizing and Deploying a Shiny Dashboard on Google Cloud](https://towardsdatascience.com/dockerizing-and-deploying-a-shiny-dashboard-on-google-cloud-a990ceb3c33a?sk=b9b9dfa78fef6f349851a82990662034) - 15/04/2021
++ [{PooledCohort} 0.0.1](https://cran.r-project.org/package=PooledCohort): Predict 10-Year Risk for Atherosclerotic Cardiovascular Disease
++ [{terrainr} 0.4.0: Landscape Visualizations in R and 'Unity'](https://github.com/ropensci/terrainr)
++ [What does Wikidata know about members of the European Parliament?](https://medium.com/european-data-journalism-network/a-new-r-package-for-exploring-the-wealth-of-information-stored-by-wikidata-fe85e82b6440)
+
 
 #### Draft
 
@@ -31,59 +36,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [SwimmeR goes to the Para Games and other Updates - v0.9.0](https://pilgrim.netlify.app/post/2021-04-20-swimmer-goes-to-the-para-games-and-other-updates-v-0-9-0/)
 + [Organisation of a collaborative project for PROPRE publication](https://rtask.thinkr.fr/organisation-of-a-collaborative-project-for-propre-publication/)
 + [Tidygeocoder 1.0.3](https://jessecambon.github.io/2021/04/19/tidygeocoder-1-0-3.html)
++ [{preferably} 0.3.0](https://cran.r-project.org/package=preferably): A 'pkgdown' Template
 
 
 #### Submit Links From Users
 
-+ [Cluster Analysis in R Cluster Analysis in R, when we do data analytics, there are two kinds of approaches one is supervised and another is unsupervised. Clustering is a…](https://finnstats.com/index.php/2021/04/20/cluster-analysis-in-r/) - 20/04/2021
 + [In this blog post I talk about estimating a proportion using a sample that is not representative of the population using a method called “post-stratification”.](https://www.brodrigues.co/blog/2021-04-17-post_strat/) - 19/04/2021
-+ [A new paper titled “Beta in the tails” is a showcase application for why we should focus on correlation structure rather than on average correlation. ](https://eranraviv.com/beta-in-the-tails/) - 19/04/2021
-+ [Basic Functions in R
-Basic Functions in R, in this tutorial, we are going to discuss basic statistical or user-defined functions. Functions are very useful in R for faster…](https://finnstats.com/index.php/2021/04/15/basic-functions-in-r/) - 15/04/2021
-+ [Dockerizing and Deploying a Shiny Dashboard on Google Cloud](https://towardsdatascience.com/dockerizing-and-deploying-a-shiny-dashboard-on-google-cloud-a990ceb3c33a?sk=b9b9dfa78fef6f349851a82990662034) - 15/04/2021
-+ [Dockerizing and Deploying a Shiny Dashboard on Google Cloud](https://towardsdatascience.com/dockerizing-and-deploying-a-shiny-dashboard-on-google-cloud-a990ceb3c33a?sk=b9b9dfa78fef6f349851a82990662034) - 15/04/2021
-+ [LSTM network in R, In this tutorial, we are going to discuss Recurrent Neural Networks. Recurrent Neural Networks are very useful for solving sequence of…](https://finnstats.com/index.php/2021/04/11/lstm-network-in-r/) - 12/04/2021
-+ [Mix {sql} and {r} code chunks in an RMarkdown file, and learn a bit about {tidyquery}.](https://bit.ly/sql-plus-rmd) - 07/04/2021
-+ [R in insuRance - RStudio Enterprise Meetup](https://www.meetup.com/RStudio-Enterprise-Community-Meetup/events/275969663/) - 07/04/2021
-+ [Come learn about "Processing Data at Scale with R and Pachyderm" on On April 6 2021, 8AM PST.  We'll build a fantastic visual model that calculates the fastest paths to the beach in Costa Rica for your next vacation in paradise. See you there!](https://https://zoom.us/webinar/register/2016153252882/WN_FfXjLDQzQ1yFXx9VkLGwAw) - 30/03/2021
-+ [Using {biscale}, {ggplot2}, and {patchwork} to make bivariate transit maps](https://ctompkins.netlify.app/post/bivariate_transit_map/) - 29/03/2021
-+ [tidy tools for extracting data, manipulating, reading and writing JSON vectors](https://github.com/mgirlich/jsontools) - 25/03/2021
-+ [This Data Scientist course in collaboration with IBM offers you multiple courses on Data Science to let you master skills such as data analytics, R programming, statistical computing, Machine Learning algorithms, k-means clustering, and more. It includes multiple hands-on exercises and project work in the domains of banking, finance, entertainment, etc. Intellipaat’s online Data Science courses are well recognized across 500+ employers helping you to land in your dream job](https://intellipaat.com/data-scientist-course-training/) - 24/03/2021
-+ [Why I don't use Powerpoint to present Data Analyses
-In general: HTML-based output formats. More specifically: xaringan.
-Automation / File types / File sizes](https://youtu.be/qKU97mVs6nM) - 23/03/2021
-+ [How flexible neural networks really are? ](https://eranraviv.com/flexible-neural-networks-really/) - 23/03/2021
-+ [A guide to creating a Slackbot that sends weekly updates via plumber, googleCloudRunner and Cloud Run](https://code.markedmondson.me/googleCloudRunner/articles/usecase-slackbot-google-analytics.html) - 22/03/2021
-+ [A New Coefficient of Correlation](https://eranraviv.com/correlation-and-correlation-structure-5-a-new-coefficient-correlation/) - 20/03/2021
-+ [How to use quo() and map() to loop over many files without running out of RAM](https://www.brodrigues.co/blog/2021-03-19-no_loops_tidyeval/ ) - 20/03/2021
-+ [Solved end-to-end Data Science Projects in R](https://www.dezyre.com/projects/data-science-projects/data-science-projects-in-r) - 15/03/2021
-+ [Solved end-to-end Data Science Projects in R](https://https://www.dezyre.com/projects/data-science-projects/data-science-projects-in-r) - 15/03/2021
-+ [Análisis de Encuestas con R - (Survey analysis with R)](https://hungry-payne-1dcce3.netlify.app/) - 14/03/2021
-+ [A comprehensive list of introductory machine learning tutorials with complete R codes provided in each tutorial.](https://www.statology.org/machine-learning-tutorials/) - 11/03/2021
-+ [The dplyr package is the fundamental package of the wider tidyverse in R. This article discusses in detail about the usage of dplyr package for data manipulation.](https://www.nbshare.io/notebook/27204389/How-To-Use-R-Dplyr-Package/) - 11/03/2021
-+ [Speeding up plot creation can be as simple as specifying the ragg device within ggsave!](https://youtu.be/qZeUPj1sORA) - 09/03/2021
-+ [Automate Web Scraping in R with Github Actions](https://youtu.be/N3NrWMxeeJQ) - 09/03/2021
-+ [First #30DayChartChallenge: Create 30 different charts, grouped into 5 categories, during 30 days. April 2021.](https://twitter.com/dr_xeo/status/1363522972510748672?s=20) - 08/03/2021
-+ [v0.3.0 released on Github. Adds "scribble" for drawing and writing on xaringan slides, and "search" for searching through slide text](https://pkg.garrickadenbuie.com/xaringanExtra) - 08/03/2021
-+ [The gist of this blog post can be summarised in the following sentence: lagged positive cases of the neighbouring regions of Luxembourg predict weekly positive cases in Luxembourg. But prediction is not the goal of all this, but rather, understanding.](https://www.brodrigues.co/blog/2021-03-05-covid_lu/) - 07/03/2021
-+ [Dashboards without the need of Shiny](https://www.brodrigues.co/blog/2021-03-02-no_shiny_dashboard/) - 03/03/2021
-+ [A new, promising coefficient of correlation. ](https://eranraviv.com/correlation-and-correlation-structure-5-a-new-coefficient-correlation/) - 03/03/2021
-+ [Bivariate dasymetric mapping](https://dominicroye.github.io/en/2021/bivariate-dasymetric-map/) - 03/03/2021
-+ [A career platform dedicated to the data sciences!  This includes many jobs looking for individuals proficient in R.](https://datacareers.io) - 01/03/2021
-+ [How to Plot Data from Databases in R Efficiently: dbplot
-Dealing with large datasets that live in a database, plotting in R can be challenging. Best practice: Do aggregations inside the database. The dbplot package can be of great help.](https://youtu.be/E7uSmD5NAww) - 24/02/2021
-+ [New package:
-{gtfstools} 0.1.0: General Transit Feed Specification (GTFS) Editing and Analysing Tools](https://cran.r-project.org/web/packages/gtfstools/index.html) - 23/02/2021
-+ [Enable the utterances GitHub app, for user comments, on your distill blog](https://bit.ly/utterances-distill) - 23/02/2021
-+ [This blog post is a shallow review of the tools that make it easy to author papers with R.](https://www.brodrigues.co/blog/2021-02-20-covid_paper/) - 21/02/2021
-+ [Here is the most popular post from my blog. It looks like R users find it useful.](http://datacornering.com/my-favorite-rstudio-tips-and-tricks/) - 19/02/2021
-+ [In this post, we explore the exciting possibility of using R and a microcontroller in particular Arduino, to control hardware peripherals. It demonstrates how one can set up a serial communication between RStudio IDE and the Arduino board which opens up the gateway to sending information back and forth between the two. This gentle introduction leaves the reader with the know-how of varying the brightness of multiple LEDs, rotating a servo, simple explanations on the working of the Arduino, and how to wrangle the seemingly odd serial data. It serves to establish R's place alongside microcontrollers, in IoT and controlling hardware.](https://rpubs.com/eR_ic/rduino) - 19/02/2021
-+ [How to Protect R Projects from Breaking Changes in Packages: renv A dplyr update broke interactivity in one of my dashboards. To solve this, I used renv to create a project-specific package library. ](https://youtu.be/aA3PJArerHY) - 15/02/2021
-+ [Understanding Variance Explained in PCA – Algebraic interpretation ](https://eranraviv.com/understanding-variance-explained-in-pca-matrix-approximation/) - 11/02/2021
-+ [Feel like the cat that got the cream with {forcats}. Tame your categorical data using the {forcats} package.](https://bit.ly/forcats-for-the-win) - 09/02/2021
++ [A new paper titled “Beta in the tails” is a showcase application for why we should focus on correlation structure rather than on average correlation. ](https://eraraviv.com/beta-in-the-tails/) - 19/04/2021
 
 #### CRAN New
-
 
 + [{geneExpressionFromGEO} 0.6](https://cran.r-project.org/package=geneExpressionFromGEO): Retrieves Gene Expression Dataset and Gene Symbols from GEO Code
 + [{rENA} 0.2.3](https://cran.r-project.org/package=rENA): Epistemic Network Analysis
@@ -97,7 +58,6 @@ Analysis Tools
 + [{braggR} 0.1.0](https://cran.r-project.org/package=braggR): Calculate the Revealed Aggregator of Probability Predictions
 + [{RAMClustR} 1.2.0](https://cran.r-project.org/package=RAMClustR): Mass Spectrometry Metabolomics Feature Clustering and
 Interpretation
-+ [{preferably} 0.3.0](https://cran.r-project.org/package=preferably): A 'pkgdown' Template
 + [{penalizedclr} 0.1.0](https://cran.r-project.org/package=penalizedclr): Integrative Penalized Conditional Logistic Regression
 + [{paleopop} 2.1.1](https://cran.r-project.org/package=paleopop): Pattern-Oriented Modeling Framework for Coupled Niche-Population
 Paleo-Climatic Models
@@ -138,13 +98,14 @@ Periods
 + [{TestGardener} 0.1.4](https://cran.r-project.org/package=TestGardener): Optimal Analysis of Test and Rating Scale Data
 + [{stevemisc} 1.0.0](https://cran.r-project.org/package=stevemisc): Steve's Miscellaneous Functions
 + [{SSRTcalc} 0.3.3](https://cran.r-project.org/package=SSRTcalc): Easy SSRT Calculation
++ 
 + [{sportyR} 1.0.1](https://cran.r-project.org/package=sportyR): Plot Scaled 'ggplot' Representations of Sports Playing Surfaces
++ 
 + [{HGMND} 0.1.0](https://cran.r-project.org/package=HGMND): Heterogeneous Graphical Model for Non-Negative Data
 + [{fitmix} 0.1.0](https://cran.r-project.org/package=fitmix): Finite Mixture Model Fitting of Lifespan Datasets
 + [{tidywikidatar} 0.2.0](https://cran.r-project.org/package=tidywikidatar): Explore 'Wikidata' Through Tidy Data Frames
 + [{RCSL} 0.99.95](https://cran.r-project.org/package=RCSL): Rank Constrained Similarity Learning for Single Cell RNA
 Sequencing Data
-+ [{PooledCohort} 0.0.1](https://cran.r-project.org/package=PooledCohort): Predict 10-Year Risk for Atherosclerotic Cardiovascular Disease
 + [{meerva} 0.1-1](https://cran.r-project.org/package=meerva): Analysis of Data with Measurement Error Using a Validation
 Subsample
 + [{trackter} 0.1.1](https://cran.r-project.org/package=trackter): Automated Kinematic Analysis of Image Data
@@ -171,9 +132,7 @@ Georeferenced Biological Data
 + [{joint.Cox} 3.11](https://cran.r-project.org/package=joint.Cox): Joint Frailty-Copula Models for Tumour Progression and Death in
 Meta-Analysis
 + [{influential} 2.2.1](https://cran.r-project.org/package=influential): Identification and Classification of the Most Influential Nodes
-+ [{foieGras} 0.7-5](https://cran.r-project.org/package=foieGras): Fit Continuous-Time State-Space and Latent Variable Models for
-Quality Control of Argos Satellite (and Other) Telemetry Data
-and for Estimating Movement Behaviour
++ [{foieGras} 0.7-5](https://cran.r-project.org/package=foieGras): Fit Continuous-Time State-Space and Latent Variable Models for Quality Control of Argos Satellite (and Other) Telemetry Data and for Estimating Movement Behaviour
 + [{dagR} 1.2.0](https://cran.r-project.org/package=dagR): R Functions for Directed Acyclic Graphs
 + [{bitops} 1.0-7](https://cran.r-project.org/package=bitops): Bitwise Operations
 + [{wsrf} 1.7.20](https://cran.r-project.org/package=wsrf): Weighted Subspace Random Forest for Classification
@@ -447,7 +406,7 @@ Environmental Data
 
 ### Updated Packages
 
-+ [{terrainr} 0.4.0]: Landscape Visualizations in R and 'Unity'
++ [{terrainr} 0.4.0: Landscape Visualizations in R and 'Unity'](https://github.com/ropensci/terrainr)
 
 
 ###  Videos and Podcasts
@@ -469,6 +428,7 @@ Environmental Data
 ###  Tutorials
 
 + [Visualizing Nine Years on LinkedIn using R](https://towardsdatascience.com/nine-years-on-linkedin-in-data-b34047c77223)
+
 + [What does Wikidata know about members of the European Parliament?](https://medium.com/european-data-journalism-network/a-new-r-package-for-exploring-the-wealth-of-information-stored-by-wikidata-fe85e82b6440)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
