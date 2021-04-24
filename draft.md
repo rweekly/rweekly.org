@@ -19,8 +19,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Feature Engineering of the Gamma Region for Machine Learning Identification of Monoclonal Proteins](https://labrtorian.com/2021/04/21/feature-engineering-of-the-gamma-region-for-machine-learning-identification-of-monoclonal-proteins/)
 + [New in knitr: Improved accessibility with image alt text](https://blog.rstudio.com/2021/04/20/knitr-fig-alt/)
 
-
-
 #### Draft
 
 + [What is the Tukey loss function?](https://statisticaloddsandends.wordpress.com/2021/04/23/what-is-the-tukey-loss-function/)
@@ -34,37 +32,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Organisation of a collaborative project for PROPRE publication](https://rtask.thinkr.fr/organisation-of-a-collaborative-project-for-propre-publication/)
 + [Tidygeocoder 1.0.3](https://jessecambon.github.io/2021/04/19/tidygeocoder-1-0-3.html)
 
-#### Submit Feed From Users
-
-+ [Statistical Methods Using R](https://finnstats.com/index.php/category/data-analysis-in-r/feed/) - 12/04/2021
-+ [Currently, R Weekly links to "This week’s local R-User and applied stats events ( community.rstudio.com )" at https://community.rstudio.com/c/irl/18
-
-We do plan to restart this, but not for a few months. 
-
-Could you remove this bullet from events? ](https://rweekly.org) - 07/04/2021
-+ [Another R Blog - Nuno Moniz](https://www.dcc.fc.up.pt/~nmoniz/categories/r/blog.xml) - 07/04/2021
-+ [Data Analysis in R Blogs](https://finnstats.com/index.php/category/data-analysis-in-r/feed/) - 05/04/2021
-+ [Personal blog with posts about R.](https://mcguinlu.netlify.app/post/index.xml) - 24/03/2021
-+ [Exploring policy through numbers, data and visualization.](https://www.policyinnumbers.com/categories/rstats/index.xml) - 11/03/2021
-+ [nbshare.io - R notebooks](https://www.nbshare.io/feeds/rss/r.xml) - 24/02/2021
-+ [Collection of posts on using R for research](https://mcguinlu.netlify.app/index.xml) - 15/02/2021
-+ [Jumping River RSS feed
-
-We've just changed to hugo and it's hard keeping track of what has changed](https://www.jumpingrivers.com/blog/index.xml) - 08/02/2021
 
 #### Submit Links From Users
 
-+ [Cluster Analysis in R
-
-Cluster Analysis in R, when we do data analytics, there are two kinds of approaches one is supervised and another is unsupervised. Clustering is a…](https://finnstats.com/index.php/2021/04/20/cluster-analysis-in-r/) - 20/04/2021
++ [Cluster Analysis in R Cluster Analysis in R, when we do data analytics, there are two kinds of approaches one is supervised and another is unsupervised. Clustering is a…](https://finnstats.com/index.php/2021/04/20/cluster-analysis-in-r/) - 20/04/2021
 + [In this blog post I talk about estimating a proportion using a sample that is not representative of the population using a method called “post-stratification”.](https://www.brodrigues.co/blog/2021-04-17-post_strat/) - 19/04/2021
 + [A new paper titled “Beta in the tails” is a showcase application for why we should focus on correlation structure rather than on average correlation. ](https://eranraviv.com/beta-in-the-tails/) - 19/04/2021
 + [Basic Functions in R
 Basic Functions in R, in this tutorial, we are going to discuss basic statistical or user-defined functions. Functions are very useful in R for faster…](https://finnstats.com/index.php/2021/04/15/basic-functions-in-r/) - 15/04/2021
 + [Dockerizing and Deploying a Shiny Dashboard on Google Cloud](https://towardsdatascience.com/dockerizing-and-deploying-a-shiny-dashboard-on-google-cloud-a990ceb3c33a?sk=b9b9dfa78fef6f349851a82990662034) - 15/04/2021
 + [Dockerizing and Deploying a Shiny Dashboard on Google Cloud](https://towardsdatascience.com/dockerizing-and-deploying-a-shiny-dashboard-on-google-cloud-a990ceb3c33a?sk=b9b9dfa78fef6f349851a82990662034) - 15/04/2021
-+ [
-LSTM network in R, In this tutorial, we are going to discuss Recurrent Neural Networks. Recurrent Neural Networks are very useful for solving sequence of…](https://finnstats.com/index.php/2021/04/11/lstm-network-in-r/) - 12/04/2021
++ [LSTM network in R, In this tutorial, we are going to discuss Recurrent Neural Networks. Recurrent Neural Networks are very useful for solving sequence of…](https://finnstats.com/index.php/2021/04/11/lstm-network-in-r/) - 12/04/2021
 + [Mix {sql} and {r} code chunks in an RMarkdown file, and learn a bit about {tidyquery}.](https://bit.ly/sql-plus-rmd) - 07/04/2021
 + [R in insuRance - RStudio Enterprise Meetup](https://www.meetup.com/RStudio-Enterprise-Community-Meetup/events/275969663/) - 07/04/2021
 + [Come learn about "Processing Data at Scale with R and Pachyderm" on On April 6 2021, 8AM PST.  We'll build a fantastic visual model that calculates the fastest paths to the beach in Costa Rica for your next vacation in paradise. See you there!](https://https://zoom.us/webinar/register/2016153252882/WN_FfXjLDQzQ1yFXx9VkLGwAw) - 30/03/2021
@@ -100,9 +78,7 @@ Dealing with large datasets that live in a database, plotting in R can be challe
 + [This blog post is a shallow review of the tools that make it easy to author papers with R.](https://www.brodrigues.co/blog/2021-02-20-covid_paper/) - 21/02/2021
 + [Here is the most popular post from my blog. It looks like R users find it useful.](http://datacornering.com/my-favorite-rstudio-tips-and-tricks/) - 19/02/2021
 + [In this post, we explore the exciting possibility of using R and a microcontroller in particular Arduino, to control hardware peripherals. It demonstrates how one can set up a serial communication between RStudio IDE and the Arduino board which opens up the gateway to sending information back and forth between the two. This gentle introduction leaves the reader with the know-how of varying the brightness of multiple LEDs, rotating a servo, simple explanations on the working of the Arduino, and how to wrangle the seemingly odd serial data. It serves to establish R's place alongside microcontrollers, in IoT and controlling hardware.](https://rpubs.com/eR_ic/rduino) - 19/02/2021
-+ [How to Protect R Projects from Breaking Changes in Packages: renv
-
-A dplyr update broke interactivity in one of my dashboards. To solve this, I used renv to create a project-specific package library. ](https://youtu.be/aA3PJArerHY) - 15/02/2021
++ [How to Protect R Projects from Breaking Changes in Packages: renv A dplyr update broke interactivity in one of my dashboards. To solve this, I used renv to create a project-specific package library. ](https://youtu.be/aA3PJArerHY) - 15/02/2021
 + [Understanding Variance Explained in PCA – Algebraic interpretation ](https://eranraviv.com/understanding-variance-explained-in-pca-matrix-approximation/) - 11/02/2021
 + [Feel like the cat that got the cream with {forcats}. Tame your categorical data using the {forcats} package.](https://bit.ly/forcats-for-the-win) - 09/02/2021
 
