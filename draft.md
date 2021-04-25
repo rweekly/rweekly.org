@@ -23,9 +23,6 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 ### Insights
 
-+ [haven 2.4.0](https://www.tidyverse.org/blog/2021/04/haven-2-4-0/)
-
-+ [recipes 0.1.16](https://www.tidyverse.org/blog/2021/04/recipes-0-1-16/)
 
 + [March 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/04/22/march-2021-top-40-new-cran-packages/)
 
@@ -43,14 +40,18 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [Tidygeocoder 1.0.3 new features](https://jessecambon.github.io/2021/04/19/tidygeocoder-1-0-3.html)
 
++ [New in haven 2.4.0](https://www.tidyverse.org/blog/2021/04/haven-2-4-0/)
+
++ [New in recipes 0.1.16](https://www.tidyverse.org/blog/2021/04/recipes-0-1-16/)
+
 
 ### R in the Real World
-
-+ [FPL Point Projection in R – Part 2](https://theparttimeanalyst.com/2021/04/22/fpl-point-projection-in-r-part-2/)
 
 + [Can we rely on synthetic data to overcome data governance issue in healthcare?](https://nhsrcommunity.com/blog/can-we-rely-on-synthetic-data-to-overcome-data-governance-issue-in-healthcare/)
 
 + [Recidivism: Identifying the Most Important Predictors for Re-offending with OneR](https://blog.ephorie.de/recidivism-identifying-the-most-important-predictors-for-re-offending-with-oner)
+
++ [FPL Point Projection in R – Part 2](https://theparttimeanalyst.com/2021/04/22/fpl-point-projection-in-r-part-2/)
 
 
 ###  R in Organizations
@@ -80,13 +81,7 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [{PooledCohort} 0.0.1](https://cran.r-project.org/package=PooledCohort): Predict 10-Year Risk for Atherosclerotic Cardiovascular Disease
 
-+ [{rcolors} 0.1.0](https://cran.r-project.org/package=rcolors): 270 'NCL' Color Tables in R Language
-
-+ [{ptspotter} 1.0](https://cran.r-project.org/package=ptspotter): Helper Functions for Use with "ProjectTemplate"
-
 + [{circle} 0.7.1](https://cran.r-project.org/package=circle): R Client Package for Circle CI
-
-+ [{gapmap} 0.1.0](https://cran.r-project.org/package=gapmap): Drawing Gapped Cluster Heatmap with 'ggplot2'
 
 + [{sportyR} 1.0.1](https://cran.r-project.org/package=sportyR): Plot Scaled 'ggplot' Representations of Sports Playing Surfaces
 
