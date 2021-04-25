@@ -106,14 +106,6 @@ Social Security Administration Data
 + [{rPanglaoDB} 0.2.0](https://cran.r-project.org/package=rPanglaoDB): Download and Merge Single-Cell RNA-Seq Data from the PanglaoDB
 Database
 
-+ [{rgl} 0.106.8](https://cran.r-project.org/package=rgl): 3D Visualization Using OpenGL
-
-+ [{meme} 0.2.3](https://cran.r-project.org/package=meme): Create Meme
-
-+ [{dlstats} 0.1.4](https://cran.r-project.org/package=dlstats): Download Stats of R Packages
-
-+ [{V8} 3.4.1](https://cran.r-project.org/package=V8): Embedded JavaScript and WebAssembly Engine for R
-
 + [{cronologia} 0.2.0](https://cran.r-project.org/package=cronologia): Create an HTML Vertical Timeline from a Data Frame in
 'rmarkdown' and 'shiny'
 
@@ -130,7 +122,15 @@ Database
 
 ###  Videos and Podcasts
 
++ [Fun with R — Lightning Talks — R-Ladies East Lansing & Chicago](https://www.youtube.com/watch?v=TKTC-tY87lg)
 
++ [R package development — Maelle Salmon — R-Ladies East Lansing & Chicago](https://www.youtube.com/watch?v=IlWMkz769B4)
+
++ [Writing R Functions — Stephanie Kirmer — R-Ladies Chicago & East Lansing](https://www.youtube.com/watch?v=TCIMT6l53tQ)
+
++ [Data Science in Education Using R Book Club Chapter 13](https://www.youtube.com/watch?v=mkw55WuyP9w)
+
++ [Claus Wilke- The extendr project: Integrating R and Rust](https://www.youtube.com/watch?v=EX7YG2pmcC8)
 
 ### Gist & Cookbook
 
