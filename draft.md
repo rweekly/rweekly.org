@@ -12,29 +12,6 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 
 
-#### Draft
-
-+ [What is the Tukey loss function?](https://statisticaloddsandends.wordpress.com/2021/04/23/what-is-the-tukey-loss-function/)
-+ [Short-circuit evaluation of boolean operations in R       ](https://r-critique.com/short-circuit-evaluation)
-+ [drat 0.2.0: Now with ‘docs/’](http://dirk.eddelbuettel.com/blog/2021/04/22#drat_0.2.0)
-+ [FPL Point Projection in R – Part 2](https://theparttimeanalyst.com/2021/04/22/fpl-point-projection-in-r-part-2/)
-+ [Can we rely on synthetic data to overcome data governance issue in healthcare?](https://nhsrcommunity.com/blog/can-we-rely-on-synthetic-data-to-overcome-data-governance-issue-in-healthcare/)
-+ [Rblpapi 0.3.11: Several Updates](http://dirk.eddelbuettel.com/blog/2021/04/20#rblpapi_0.3.11)
-+ [Recidivism: Identifying the Most Important Predictors for Re-offending with OneR](https://blog.ephorie.de/recidivism-identifying-the-most-important-predictors-for-re-offending-with-oner)
-+ [SwimmeR goes to the Para Games and other Updates - v0.9.0](https://pilgrim.netlify.app/post/2021-04-20-swimmer-goes-to-the-para-games-and-other-updates-v-0-9-0/)
-+ [Organisation of a collaborative project for PROPRE publication](https://rtask.thinkr.fr/organisation-of-a-collaborative-project-for-propre-publication/)
-+ [Tidygeocoder 1.0.3](https://jessecambon.github.io/2021/04/19/tidygeocoder-1-0-3.html)
-+ [{preferably} 0.3.0](https://cran.r-project.org/package=preferably): A 'pkgdown' Template
-
-
-#### Submit Links From Users
-
-+ [In this blog post I talk about estimating a proportion using a sample that is not representative of the population using a method called “post-stratification”.](https://www.brodrigues.co/blog/2021-04-17-post_strat/) - 19/04/2021
-+ [A new paper titled “Beta in the tails” is a showcase application for why we should focus on correlation structure rather than on average correlation. ](https://eraraviv.com/beta-in-the-tails/) - 19/04/2021
-
-
-
-
 ###  Highlight
 
 + [What does Wikidata know about members of the European Parliament?](https://medium.com/european-data-journalism-network/a-new-r-package-for-exploring-the-wealth-of-information-stored-by-wikidata-fe85e82b6440)
@@ -42,7 +19,6 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 + [New in knitr: Improved accessibility with image alt text](https://blog.rstudio.com/2021/04/20/knitr-fig-alt/)
 
 + [March 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/04/22/march-2021-top-40-new-cran-packages/)
-
 
 
 ### Insights
@@ -55,10 +31,26 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [New in knitr: Improved accessibility with image alt text](https://blog.rstudio.com/2021/04/20/knitr-fig-alt/)
 
++ [What is the Tukey loss function?](https://statisticaloddsandends.wordpress.com/2021/04/23/what-is-the-tukey-loss-function/)
+
++ [Short-circuit evaluation of boolean operations in R       ](https://r-critique.com/short-circuit-evaluation)
+
++ [drat 0.2.0: Now with ‘docs/’](http://dirk.eddelbuettel.com/blog/2021/04/22#drat_0.2.0)
+
++ [Rblpapi 0.3.11: Several Updates](http://dirk.eddelbuettel.com/blog/2021/04/20#rblpapi_0.3.11)
+
++ [SwimmeR goes to the Para Games and other Updates - v0.9.0](https://pilgrim.netlify.app/post/2021-04-20-swimmer-goes-to-the-para-games-and-other-updates-v-0-9-0/)
+
++ [Tidygeocoder 1.0.3 new features](https://jessecambon.github.io/2021/04/19/tidygeocoder-1-0-3.html)
 
 
 ### R in the Real World
 
++ [FPL Point Projection in R – Part 2](https://theparttimeanalyst.com/2021/04/22/fpl-point-projection-in-r-part-2/)
+
++ [Can we rely on synthetic data to overcome data governance issue in healthcare?](https://nhsrcommunity.com/blog/can-we-rely-on-synthetic-data-to-overcome-data-governance-issue-in-healthcare/)
+
++ [Recidivism: Identifying the Most Important Predictors for Re-offending with OneR](https://blog.ephorie.de/recidivism-identifying-the-most-important-predictors-for-re-offending-with-oner)
 
 
 ###  R in Organizations
@@ -166,6 +158,9 @@ Database
 + [Visualizing Nine Years on LinkedIn using R](https://towardsdatascience.com/nine-years-on-linkedin-in-data-b34047c77223)
 
 + [What does Wikidata know about members of the European Parliament?](https://medium.com/european-data-journalism-network/a-new-r-package-for-exploring-the-wealth-of-information-stored-by-wikidata-fe85e82b6440)
+
++ [Dealing with non-representative samples with post-stratification](https://www.brodrigues.co/blog/2021-04-17-post_strat/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
