@@ -360,6 +360,11 @@ Environmental Data
 
 ###  Highlight
 
++ [What does Wikidata know about members of the European Parliament?](https://medium.com/european-data-journalism-network/a-new-r-package-for-exploring-the-wealth-of-information-stored-by-wikidata-fe85e82b6440)
+
++ [New in knitr: Improved accessibility with image alt text](https://blog.rstudio.com/2021/04/20/knitr-fig-alt/)
+
++ [March 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/04/22/march-2021-top-40-new-cran-packages/)
 
 
 ### Insights
