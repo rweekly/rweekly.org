@@ -54,17 +54,9 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 + [FPL Point Projection in R – Part 2](https://theparttimeanalyst.com/2021/04/22/fpl-point-projection-in-r-part-2/)
 
 
-###  R in Organizations
-
-
-
 ###  R in Academia
 
 + [Feature Engineering of the Gamma Region for Machine Learning Identification of Monoclonal Proteins](https://labrtorian.com/2021/04/21/feature-engineering-of-the-gamma-region-for-machine-learning-identification-of-monoclonal-proteins/)
-
-
-###  Resources
-
 
 
 ###  New Packages
@@ -132,17 +124,6 @@ Database
 
 + [Claus Wilke- The extendr project: Integrating R and Rust](https://www.youtube.com/watch?v=EX7YG2pmcC8)
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ###  Tutorials
 
@@ -172,16 +153,15 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/virtual-events.html)
 
 
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Because I&#39;m completely ridiculous, the process of trying to sort baby clothes in our dresser came to its natural conclusion: creating a Shiny app to help us keep track of what baby clothes we have, filterable by age and type. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/hOnoVJz2xj">pic.twitter.com/hOnoVJz2xj</a></p>&mdash; Isaac Maddow-Zimet (@Imaddowzimet) <a href="https://twitter.com/Imaddowzimet/status/1383820788692701198?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ggiraph + shiny is fantastic!<br>~30 lines of code.<a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/cEsK4PFROx">pic.twitter.com/cEsK4PFROx</a></p>&mdash; Claus Wilke (@ClausWilke) <a href="https://twitter.com/ClausWilke/status/1384586078288416768?ref_src=twsrc%5Etfw">April 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
