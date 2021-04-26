@@ -26,7 +26,11 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [March 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/04/22/march-2021-top-40-new-cran-packages/)
 
+![March 2021: "Top 40" New CRAN Packages](https://raw.githubusercontent.com/rweekly/image/master/2021-04-24/NEW-cran.gif.png)
+
 + [New in knitr: Improved accessibility with image alt text](https://blog.rstudio.com/2021/04/20/knitr-fig-alt/)
+
+![New in knitr: Improved accessibility with image alt text](https://raw.githubusercontent.com/rweekly/image/master/2021-04-24/kniter_access.png)
 
 + [What is the Tukey loss function?](https://statisticaloddsandends.wordpress.com/2021/04/23/what-is-the-tukey-loss-function/)
 
@@ -69,13 +73,15 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [{preferably} 0.3.0](http://preferably.amirmasoudabdol.name): A {pkgdown} accessible template with support for dynamic light/dark mode.
 
-![Preferably Light and Dark Themes](https://raw.githubusercontent.com/amirmasoudabdol/preferably/main/man/figures/comparison.png)
+![Preferably Light and Dark Themes](https://raw.githubusercontent.com/rweekly/image/master/2021-04-24/comparison.png)
 
 + [{PooledCohort} 0.0.1](https://cran.r-project.org/package=PooledCohort): Predict 10-Year Risk for Atherosclerotic Cardiovascular Disease
 
 + [{circle} 0.7.1](https://cran.r-project.org/package=circle): R Client Package for Circle CI
 
 + [{sportyR} 1.0.1](https://cran.r-project.org/package=sportyR): Plot Scaled 'ggplot' Representations of Sports Playing Surfaces
+
+![Plot Scaled 'ggplot' Representations of Sports Playing Surfaces](https://raw.githubusercontent.com/rweekly/image/master/2021-04-24/plot-spoty-pkg.png)
 
 + [{tidywikidatar} 0.2.0](https://edjnet.github.io/tidywikidatar/): Query 'Wikidata' with ease, get tidy data frames in response, and cache data in a local 'SQLite' database.
 
@@ -95,13 +101,18 @@ Social Security Administration Data
 
 + [{fontawesome} 0.2.1](https://cran.r-project.org/package=fontawesome): Easily Work with 'Font Awesome' Icons
 
-+ [{rPanglaoDB} 0.2.0](https://cran.r-project.org/package=rPanglaoDB): Download and Merge Single-Cell RNA-Seq Data from the PanglaoDB
-Database
++ [{rPanglaoDB} 0.2.0](https://cran.r-project.org/package=rPanglaoDB): Download and Merge Single-Cell RNA-Seq Data from the PanglaoDB Database
+
+![Download and Merge Single-Cell RNA-Seq Data from the PanglaoDB Database](https://raw.githubusercontent.com/rweekly/image/master/2021-04-24/rpangolo.png)
 
 + [{cronologia} 0.2.0](https://cran.r-project.org/package=cronologia): Create an HTML Vertical Timeline from a Data Frame in
 'rmarkdown' and 'shiny'
 
+![Create an HTML Vertical Timeline from a Data Frame in 'rmarkdown' and 'shiny'](https://raw.githubusercontent.com/rweekly/image/master/2021-04-24/crono-pkg.gif.png)
+
 + [{drake} 7.13.2](https://cran.r-project.org/package=drake): A Pipeline Toolkit for Reproducible Computation at Scale
+
+![A Pipeline Toolkit for Reproducible Computation at Scale](https://raw.githubusercontent.com/rweekly/image/master/2021-04-24/dark.svg.png)
 
 + [{ggplotify} 0.0.6](https://cran.r-project.org/package=ggplotify): Convert Plot to 'grob' or 'ggplot' Object
 
