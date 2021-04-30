@@ -55,7 +55,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-
+* [{mcmcensemble} 3.0.0](https://cran.r-project.org/package=mcmcensemble): Ensemble Sampler for Affine-Invariant MCMC. Changes for the 3.0.0 are summarised in the related [blog post](https://bisaloo.github.io/mcmcensemble/articles/blog/blog_v3.html)
 
 ###  Videos and Podcasts
 
