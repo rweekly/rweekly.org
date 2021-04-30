@@ -26,6 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Organizations
 
++ [Shipping Application Logs from RStudio Connect](https://unconj.ca/blog/shipping-application-logs-from-rsconnect.html)
 
 
 ###  R in Academia
