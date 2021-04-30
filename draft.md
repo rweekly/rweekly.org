@@ -75,6 +75,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [How to Analyze and Visualize Oktoberfest Data Using R and ggplot2 and How to Predict Price Information](https://towardsdatascience.com/the-radical-rise-of-oktoberfest-beer-prices-created-a-90-million-euro-business-261da252c827)
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
