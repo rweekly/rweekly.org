@@ -18,11 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [blogdown updates prompted a website overhaul: These are my notes](https://solomonkurz.netlify.app/post/2021-05-03-blogdown-updates-prompted-a-website-overhaul-these-are-my-notes/)
 
 ### R in the Real World
 
-
++ [Exploring the Star Wars "Prequel Renaissance" Using tidymodels and workflowsets](https://www.markhw.com/blog/prequel-renaissance)
 
 ###  R in Organizations
 
@@ -51,11 +51,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{job}](https://github.com/lindeloev/job): Free Your R Console
 
 ### Updated Packages
 
 * [{mcmcensemble} 3.0.0](https://cran.r-project.org/package=mcmcensemble): Ensemble Sampler for Affine-Invariant MCMC. Changes for the 3.0.0 are summarised in the related [blog post](https://bisaloo.github.io/mcmcensemble/articles/blog/blog_v3.html)
+
++ [{shinydashboardPlus} 2.0.1](https://cran.r-project.org/package=shinydashboardPlus): Add More 'AdminLTE2' Components to 'shinydashboard'
 
 ###  Videos and Podcasts
 
@@ -77,7 +79,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to Analyze and Visualize Oktoberfest Data Using R and ggplot2 and How to Predict Price Information](https://towardsdatascience.com/the-radical-rise-of-oktoberfest-beer-prices-created-a-90-million-euro-business-261da252c827)
 
++ [Soccer Percentile Radars/Pizza's Tutorial](https://www.gettingbluefingers.com/tutorials/RadarPizzaChart)
 
++ [Effect sizes for experimental trials analyzed with multilevel growth models: Two of two](https://solomonkurz.netlify.app/post/2021-04-22-effect-sizes-for-experimental-trials-analyzed-with-multilevel-growth-models-two-of-two/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
