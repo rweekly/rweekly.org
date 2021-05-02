@@ -51,14 +51,6 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 + [Shipping Application Logs from RStudio Connect](https://unconj.ca/blog/shipping-application-logs-from-rsconnect.html)
 
-###  R in Academia
-
-
-
-###  Resources
-
-
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -124,18 +116,6 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [Zoom talk on “Version control and git for beginners” from the Grenoble (FR) R user group](https://r-posts.com/zoom-talk-on-version-control-and-git-for-beginners-from-the-grenoble-fr-r-user-group/)
 
 + [ggplot2: From Bad Pie Charts to Polished Bars & Animation - Step by Step.](https://youtu.be/Jsz5rgWkiNA)
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ###  Tutorials
 
