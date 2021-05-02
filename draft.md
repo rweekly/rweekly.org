@@ -27,20 +27,39 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 ### Insights
 
 + [blogdown updates prompted a website overhaul: These are my notes](https://solomonkurz.netlify.app/post/2021-05-03-blogdown-updates-prompted-a-website-overhaul-these-are-my-notes/)
-+ [one-way random walks](https://xianblog.wordpress.com/2021/05/02/one-way-random-walks/)
-+ [parallelly 1.25.0: availableCores(omit=n) and, finally, built-in SSH support for MS Windows 10 users](https://www.jottr.org/2021/04/30/parallelly-1.25.0/)
+
++ [One-way random walks](https://xianblog.wordpress.com/2021/05/02/one-way-random-walks/)
+
++ [parallelly 1.25.0](https://www.jottr.org/2021/04/30/parallelly-1.25.0/)
+
 + [R tips and tricks – readClipboard](https://eranraviv.com/r-tips-tricks-readclipboard/)
+
 + [The Solution to my Viral Coin Tossing Poll](https://blog.ephorie.de/the-solution-to-my-viral-coin-tossing-poll)
+
 + [How to plot XGBoost trees in R](https://theautomatic.net/2021/04/28/how-to-plot-xgboost-trees-in-r/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-plot-xgboost-trees-in-r)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2021/W18/xgboost-plot-tree-2_600.png)
+
 + [Prep a CSV from an Otter.AI transcript exported as a plain text file](http://joshuamrosenberg.com/post/2021/04/28/prep-a-csv-from-an-otter-ai-transcript-exported-as-a-plain-text-file/)
+
 + [Estimate change in #TidyTuesday CEO departures with bootstrap resampling](https://juliasilge.com/blog/ceo-departures/)
-+ [Set Up Your Package to Foster a Community - Community Call Summary](https://ropensci.org/blog/2021/04/28/commcall-pkg-community/)
+
 + [R Can Use Your Help: Testing R Before Release](https://developer.r-project.org/Blog/public/2021/04/28/r-can-use-your-help-testing-r-before-release/)
+
 + [R Count the Number of Occurrences in a Column using dplyr](https://www.marsja.se/r-count-the-number-of-occurrences-in-a-column-using-dplyr/)
+
 + [Using SQL for R data.frames with sqldf](https://tomaztsql.wordpress.com/2021/04/27/using-sql-for-r-data-frames-with-sqldf/)
+
++ [Set Up Your Package to Foster a Community - Community Call Summary](https://ropensci.org/blog/2021/04/28/commcall-pkg-community/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2021/W18/summary_maelle_600.png)
+
 + [Writing unit tests in R](https://r-critique.com/writing-unit-tests-in-r)
+
 + [The 2021 USMS ePostal Championship Results, Working Up Data for a Shiny App](https://pilgrim.netlify.app/post/2021-04-21-the-2021-usms-epostal-championship-results/)
+
 + [torch for optimization](https://blogs.rstudio.com/tensorflow/posts/2021-04-22-torch-for-optimization)
+
 + [The Good, the Bad and the Ugly: how to visualize Machine Learning data](https://shirinsplayground.netlify.app/2021/04/goodbadugly_ml/)
 
 ### R in the Real World
@@ -123,6 +142,8 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 + [Soccer Percentile Radars/Pizza's Tutorial](https://www.gettingbluefingers.com/tutorials/RadarPizzaChart)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2021/W18/third-2_600.png)
+
 + [Effect sizes for experimental trials analyzed with multilevel growth models: Two of two](https://solomonkurz.netlify.app/post/2021-04-22-effect-sizes-for-experimental-trials-analyzed-with-multilevel-growth-models-two-of-two/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -149,4 +170,8 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Introducing {burglr}, copy functions from other packages without adding them as dependencies.<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/hLJr2YgLOx">pic.twitter.com/hLJr2YgLOx</a></p>&mdash; Antoine Fabri (@antoine_fabri) <a href="https://twitter.com/antoine_fabri/status/1387578154814955526?ref_src=twsrc%5Etfw">April 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m excited to announce <a href="https://t.co/0fdElQt5Ni">https://t.co/0fdElQt5Ni</a><br><br>The site lets you:<br><br>• Browse the contents and git history of all <a href="https://twitter.com/Bioconductor?ref_src=twsrc%5Etfw">@Bioconductor</a> software packages <br>• Search for across all software packages at once, and filter results by file names, types, or packages <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Mike Smith (@grimbough) <a href="https://twitter.com/grimbough/status/1387386008799518724?ref_src=twsrc%5Etfw">April 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mastering Shiny has just gone into production🎉, so now&#39;s a great to pre-order if you want a physical copy! <a href="https://t.co/r5BnEMiOBd">https://t.co/r5BnEMiOBd</a> (Or continue to read online for free at <a href="https://t.co/aby9kfwmQu">https://t.co/aby9kfwmQu</a>) <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/PKNvsIHFxJ">pic.twitter.com/PKNvsIHFxJ</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1387819502948306944?ref_src=twsrc%5Etfw">April 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
