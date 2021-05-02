@@ -1,24 +1,47 @@
 ----
 layout: draft
-title: R Weekly 2021-W00
+title: R Weekly 2021-W18
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
+Release Date: 2021-05-03
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
-
+This week’s release was curated by [Jonathan Carroll](https://twitter.com/carroll_jono), with help from the R Weekly team members and contributors.
 
 ###  Highlight
 
-
++ [blogdown updates prompted a website overhaul: These are my notes](https://solomonkurz.netlify.app/post/2021-05-03-blogdown-updates-prompted-a-website-overhaul-these-are-my-notes/)
++ [The Solution to my Viral Coin Tossing Poll](https://blog.ephorie.de/the-solution-to-my-viral-coin-tossing-poll)
++ [Set Up Your Package to Foster a Community - Community Call Summary](https://ropensci.org/blog/2021/04/28/commcall-pkg-community/)
++ [R Can Use Your Help: Testing R Before Release](https://developer.r-project.org/Blog/public/2021/04/28/r-can-use-your-help-testing-r-before-release/)
++ [R Count the Number of Occurrences in a Column using dplyr](https://www.marsja.se/r-count-the-number-of-occurrences-in-a-column-using-dplyr/)
++ [Writing unit tests in R](https://r-critique.com/writing-unit-tests-in-r)
++ [ggplot2: From Bad Pie Charts to Polished Bars & Animation - Step by Step.](https://youtu.be/Jsz5rgWkiNA)
++ [An interface to subnational and national level COVID-19 data.](https://epiforecasts.io/covidregionaldata/index.html)
++ [Soccer Percentile Radars/Pizza's Tutorial](https://www.gettingbluefingers.com/tutorials/RadarPizzaChart)
++ [{job}](https://github.com/lindeloev/job): Free Your R Console
 
 ### Insights
 
 + [blogdown updates prompted a website overhaul: These are my notes](https://solomonkurz.netlify.app/post/2021-05-03-blogdown-updates-prompted-a-website-overhaul-these-are-my-notes/)
++ [one-way random walks](https://xianblog.wordpress.com/2021/05/02/one-way-random-walks/)
++ [parallelly 1.25.0: availableCores(omit=n) and, finally, built-in SSH support for MS Windows 10 users](https://www.jottr.org/2021/04/30/parallelly-1.25.0/)
++ [R tips and tricks – readClipboard](https://eranraviv.com/r-tips-tricks-readclipboard/)
++ [The Solution to my Viral Coin Tossing Poll](https://blog.ephorie.de/the-solution-to-my-viral-coin-tossing-poll)
++ [How to plot XGBoost trees in R](https://theautomatic.net/2021/04/28/how-to-plot-xgboost-trees-in-r/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-plot-xgboost-trees-in-r)
++ [Prep a CSV from an Otter.AI transcript exported as a plain text file](http://joshuamrosenberg.com/post/2021/04/28/prep-a-csv-from-an-otter-ai-transcript-exported-as-a-plain-text-file/)
++ [Estimate change in #TidyTuesday CEO departures with bootstrap resampling](https://juliasilge.com/blog/ceo-departures/)
++ [Set Up Your Package to Foster a Community - Community Call Summary](https://ropensci.org/blog/2021/04/28/commcall-pkg-community/)
++ [R Can Use Your Help: Testing R Before Release](https://developer.r-project.org/Blog/public/2021/04/28/r-can-use-your-help-testing-r-before-release/)
++ [R Count the Number of Occurrences in a Column using dplyr](https://www.marsja.se/r-count-the-number-of-occurrences-in-a-column-using-dplyr/)
++ [Using SQL for R data.frames with sqldf](https://tomaztsql.wordpress.com/2021/04/27/using-sql-for-r-data-frames-with-sqldf/)
++ [Writing unit tests in R](https://r-critique.com/writing-unit-tests-in-r)
++ [The 2021 USMS ePostal Championship Results, Working Up Data for a Shiny App](https://pilgrim.netlify.app/post/2021-04-21-the-2021-usms-epostal-championship-results/)
++ [torch for optimization](https://blogs.rstudio.com/tensorflow/posts/2021-04-22-torch-for-optimization)
++ [The Good, the Bad and the Ugly: how to visualize Machine Learning data](https://shirinsplayground.netlify.app/2021/04/goodbadugly_ml/)
 
 ### R in the Real World
 
@@ -28,26 +51,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Shipping Application Logs from RStudio Connect](https://unconj.ca/blog/shipping-application-logs-from-rsconnect.html)
 
-
-###  R in Academia
-
-
-
-###  Resources
-
-
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
 
-
-
-**BioC**
-
-
++ [{juicr} 0.1](https://cran.r-project.org/package=juicr): Automated and Manual Extraction of Numerical Data from Scientific Images
++ [{leafdown} 1.0.0](https://cran.r-project.org/package=leafdown): Provides Drill Down Functionality for 'leaflet' Choropleths
++ [{rtern} 0.1.1](https://cran.r-project.org/package=rtern): A Ternary Conditional Operator for R
++ [{prenoms} 0.0.1](https://cran.r-project.org/package=prenoms): Names Given to Babies in Quebec Between 1980 and 2020
++ [{flametree} 0.1.2](https://cran.r-project.org/package=flametree): Generate Random Tree-Like Images
++ [{safejoin} 0.1.0](https://cran.r-project.org/package=safejoin): Perform "Safe" Table Joins
 
 **GitHub or Bitbucket**
 
@@ -56,24 +71,51 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 * [{mcmcensemble} 3.0.0](https://cran.r-project.org/package=mcmcensemble): Ensemble Sampler for Affine-Invariant MCMC. Changes for the 3.0.0 are summarised in the related [blog post](https://bisaloo.github.io/mcmcensemble/articles/blog/blog_v3.html)
-
 + [{shinydashboardPlus} 2.0.1](https://cran.r-project.org/package=shinydashboardPlus): Add More 'AdminLTE2' Components to 'shinydashboard'
++ [Version 0.11.0 of NIMBLE released](https://r-nimble.org/version-0-11-0-of-nimble-released)
++ [{covidregionaldata}](https://epiforecasts.io/covidregionaldata/index.html): An interface to subnational and national level COVID-19 data
++ [{targets} 0.4.2](https://cran.r-project.org/package=targets): Dynamic Function-Oriented 'Make'-Like Declarative Workflows
++ [{unitizer} 1.4.14](https://cran.r-project.org/package=unitizer): Interactive R Unit Tests
++ [{rasterVis} 0.50.2](https://cran.r-project.org/package=rasterVis): Visualization Methods for Raster Data
++ [{phonenumber} 0.2.3](https://cran.r-project.org/package=phonenumber): Convert Letters to Numbers and Back as on a Telephone Keypad
++ [{huxtable} 5.3.0](https://cran.r-project.org/package=huxtable): Easily Create and Style Tables for LaTeX, HTML and Other Formats
++ [{journalabbr} 0.3.0](https://cran.r-project.org/package=journalabbr): Journal Abbreviations for BibTeX Documents
++ [{dqrng} 0.3.0](https://cran.r-project.org/package=dqrng): Fast Pseudo Random Number Generators
++ [{V8} 3.4.2](https://cran.r-project.org/package=V8): Embedded JavaScript and WebAssembly Engine for R
++ [{rlang} 0.4.11](https://cran.r-project.org/package=rlang): Functions for Base Types and Core R and 'Tidyverse' Features
++ [{R.cache} 0.15.0](https://cran.r-project.org/package=R.cache): Fast and Light-Weight Caching (Memoization) of Objects and Results to Speed Up Computations
++ [{parallelly} 1.25.0](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
++ [{mongolite} 2.3.1](https://cran.r-project.org/package=mongolite): Fast and Simple 'MongoDB' Client for R
++ [{simplevis} 3.0.0](https://cran.r-project.org/package=simplevis): Make 'ggplot2' and 'leaflet' Visualisation Easier
++ [{curl} 4.3.1](https://cran.r-project.org/package=curl): A Modern and Flexible Web Client for R
++ [{webfakes} 1.1.3](https://cran.r-project.org/package=webfakes): Fake Web Apps for HTTP Testing
++ [{gh} 1.3.0](https://cran.r-project.org/package=gh): 'GitHub' 'API'
++ [{emayili} 0.4.10](https://cran.r-project.org/package=emayili): Send Email Messages
++ [{tidyselect} 1.1.1](https://cran.r-project.org/package=tidyselect): Select from a Set of Strings
++ [{ggeffects} 1.1.0](https://cran.r-project.org/package=ggeffects): Create Tidy Data Frames of Marginal Effects for 'ggplot' from Model Outputs
++ [{validate} 1.0.4](https://cran.r-project.org/package=validate): Data Validation Infrastructure
++ [{ComplexUpset} 1.2.1](https://cran.r-project.org/package=ComplexUpset): Create Complex UpSet Plots Using 'ggplot2' Components
++ [{vctrs} 0.3.8](https://cran.r-project.org/package=vctrs): Vector Helpers
++ [{wikifacts} 0.4.2](https://cran.r-project.org/package=wikifacts): Get Facts and Data from Wikipedia and Wikidata
++ [{ellipsis} 0.3.2](https://cran.r-project.org/package=ellipsis): Tools for Working with ...
++ [{rJava} 1.0-4](https://cran.r-project.org/package=rJava): Low-Level R to Java Interface
++ [{rayshader} 0.24.10](https://cran.r-project.org/package=rayshader): Create Maps and Visualize Data in 2D and 3D
++ [{keyring} 1.2.0](https://cran.r-project.org/package=keyring): Access the System Credential Store from R
++ [{ggVennDiagram} 1.0.7](https://cran.r-project.org/package=ggVennDiagram): A 'ggplot2' Implement of Venn Diagram
++ [{torch} 0.3.0](https://cran.r-project.org/package=torch): Tensors and Neural Networks with 'GPU' Acceleration
++ [{scholar} 0.2.1](https://cran.r-project.org/package=scholar): Analyse Citation Data from Google Scholar
++ [{Visualize.CRAN.Downloads} 1.0.1](https://cran.r-project.org/package=Visualize.CRAN.Downloads): Visualize Downloads from 'CRAN' Packages
++ [{arrow} 4.0.0](https://cran.r-project.org/package=arrow): Integration to 'Apache' 'Arrow'
++ [{piecepackr} 1.7.2](https://cran.r-project.org/package=piecepackr): Board Game Graphics
++ [{roxut} 0.2.40](https://cran.r-project.org/package=roxut): Document Unit Tests Roxygen-Style
++ [{cli} 2.5.0](https://cran.r-project.org/package=cli): Helpers for Developing Command Line Interfaces
++ [{survival} 3.2-11](https://cran.r-project.org/package=survival): Survival Analysis
 
 ###  Videos and Podcasts
 
++ [Zoom talk on “Version control and git for beginners” from the Grenoble (FR) R user group](https://r-posts.com/zoom-talk-on-version-control-and-git-for-beginners-from-the-grenoble-fr-r-user-group/)
 
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
++ [ggplot2: From Bad Pie Charts to Polished Bars & Animation - Step by Step.](https://youtu.be/Jsz5rgWkiNA)
 
 ###  Tutorials
 
@@ -98,13 +140,6 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-
-### Datasets
-
-### Jobs
-
-
 
 
 ###  Call for Participation
