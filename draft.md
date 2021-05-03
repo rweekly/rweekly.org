@@ -82,6 +82,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [{prenoms} 0.0.1](https://cran.r-project.org/package=prenoms): Names Given to Babies in Quebec Between 1980 and 2020
 + [{flametree} 0.1.2](https://cran.r-project.org/package=flametree): Generate Random Tree-Like Images
 + [{safejoin} 0.1.0](https://cran.r-project.org/package=safejoin): Perform "Safe" Table Joins
++ [{latexdiffr} 0.1.0](https://cran.r-project.org/package=latexdiffr): Diff 'rmarkdown' Files Using the 'latexdiff' Utility
 
 **GitHub or Bitbucket**
 
