@@ -59,7 +59,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [Shiny Developer Series Episode 20: Outstanding User Interfaces with David Granjon](https://www.youtube.com/watch?v=mxvMaoXOm70)
 
 ### Gist & Cookbook
 
