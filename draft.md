@@ -15,7 +15,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
-
++ [Polished Hosting - A New Way to Deploy Shiny Apps | Tychobra](https://www.tychobra.com/posts/2021-05-04-polished-hosting/)
 
 ### Insights
 
@@ -34,7 +34,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Resources
-
 
 
 ###  New Packages
