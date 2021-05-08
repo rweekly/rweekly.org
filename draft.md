@@ -19,6 +19,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Add a Floating Table of Contents in Blogdown](https://mickael.canouil.fr/post/floating-toc-in-blogdown/)
+
 
 
 ### R in the Real World
@@ -88,10 +90,17 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
+
+Online events in 3 Months:
+
++ [A list of Online events](https://jumpingrivers.github.io/meetingsR/virtual-events.html)
+
++ [R User Groups Meetups](https://www.meetup.com/pro/r-user-groups/#events)
+
++ [R Lille Meetup: "Reproducible Computation at Scale in R with {targets}"](https://www.meetup.com/R-Lille/events/277902715/)
 
 
 ### Datasets
