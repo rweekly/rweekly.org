@@ -124,6 +124,10 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [Tidy Tuesday live screencast: Analyzing water access points in R](https://www.youtube.com/watch?v=5ub92c-5xFQ)
 
++ [Shiny Development Night! Dream Keyboard Designer #3 (AftonSteps)](https://www.twitch.tv/videos/1015177609)]
+
++ [Livecoding R/GHA: Working on some data pipelines and trade calculator maintenance (TanHo_)](https://www.twitch.tv/videos/1008701721)
+
 ### Gist & Cookbook
 
 
