@@ -63,6 +63,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [{pathviewr} 1.0.1](https://cran.r-project.org/package=pathviewr): Wrangle, Analyze, and Visualize Animal Movement Data
 
+![pathviewr image](https://raw.githubusercontent.com/rweekly/image/master/2021/W19/stim_param_angle.png)
+
 + [{covidcast} 0.4.2](https://cran.r-project.org/package=covidcast): Client for Delphi's 'COVIDcast Epidata' API
 
 + [{vetr} 0.2.13](https://cran.r-project.org/package=vetr): Trust, but Verify
@@ -77,8 +79,7 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [{visachartR} 1.0.2](https://cran.r-project.org/package=visachartR): Wrapper for 'Visa Chart Components'
 
-**BioC**
-
+![visachartR heat map](https://raw.githubusercontent.com/rweekly/image/master/2021/W19/heat-map-1.png)
 
 
 **GitHub or Bitbucket**
@@ -89,6 +90,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 ### Updated Packages
 
 + [What's New in terrainr 0.4.0?](https://ropensci.org/blog/2021/05/04/what-s-new-in-terrainr-0-4-0/)
+
+![terrainr pic](https://raw.githubusercontent.com/rweekly/image/master/2021/W19/washington.png)
 
 + [{waiter} 0.2.1](https://cran.r-project.org/package=waiter): Loading Screen for 'Shiny'
 
@@ -104,6 +107,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [{ggimg} 0.1.1](https://cran.r-project.org/package=ggimg): Graphics Layers for Plotting Image Data with 'ggplot2'
 
+![ggimg pic](https://raw.githubusercontent.com/rweekly/image/master/2021/W19/poster_rect.png)
+
 + [{opencv} 0.2.1](https://cran.r-project.org/package=opencv): Bindings to 'OpenCV' Computer Vision Library
 
 + [{future.callr} 0.6.1](https://cran.r-project.org/package=future.callr): A Future API for Parallel Processing using 'callr'
@@ -113,6 +118,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 + [{torchaudio} 0.2.0](https://cran.r-project.org/package=torchaudio): R Interface to 'pytorch''s 'torchaudio'
 
 + [{rzmq} 0.9.8](https://cran.r-project.org/package=rzmq): R Bindings for 'ZeroMQ'
+
++ [{foghorn} 1.4.0](https://cran.r-project.org/package=foghorn): Summarize CRAN Check Results in the Terminal
 
 ###  Videos and Podcasts
 
@@ -128,13 +135,14 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [Livecoding R/GHA: Working on some data pipelines and trade calculator maintenance (TanHo_)](https://www.twitch.tv/videos/1008701721)
 
-### Gist & Cookbook
-
-
 
 ### Shiny Apps
 
 + [Polished Hosting - A New Way to Deploy Shiny Apps](https://www.tychobra.com/posts/2021-05-04-polished-hosting/)
+
++ [modvizpop - R & Shiny based population PK/PD model simulator](https://github.com/PavanVaddady/modvizpop)
+
++ [A tour of Torch learnr tutorial](https://mlverse.shinyapps.io/torch-tour)
 
 ### R Internationally
 
@@ -173,19 +181,15 @@ Online events in 3 Months:
 
 + [R Lille Meetup: "Reproducible Computation at Scale in R with {targets}"](https://www.meetup.com/R-Lille/events/277902715/)
 
-+ [{foghorn} 1.4.0](https://cran.r-project.org/package=foghorn): Summarize CRAN Check Results in the Terminal
-
-
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So great for <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> to be featured in a national magazine <a href="https://t.co/gtfXosuMTZ">https://t.co/gtfXosuMTZ</a> <a href="https://t.co/faGgl5UnW2">pic.twitter.com/faGgl5UnW2</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1391482217512144896?ref_src=twsrc%5Etfw">May 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Based on the suggestion at <a href="https://t.co/smc12SFdOO">https://t.co/smc12SFdOO</a>, I am thinking about writing an <a href="https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw">#rmarkdown</a> interface to create <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> {targets} pipelines. Sketch: <a href="https://t.co/lVXvqLIGlT">https://t.co/lVXvqLIGlT</a>. Please let me know if you have <a href="https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw">#rmarkdown</a> magic to share.</p>&mdash; Will Landau (@wmlandau) <a href="https://twitter.com/wmlandau/status/1390739716006371332?ref_src=twsrc%5Etfw">May 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 The R Discord server is looking for seminar hosts! It&#39;s a great opportunity to share your work with a relevant audience (~1,400 members and growing). Interested? We&#39;d love to learn more about you and what you&#39;re up to. Comment or DM and let&#39;s chat!<a href="https://twitter.com/hashtag/r4ds?src=hash&amp;ref_src=twsrc%5Etfw">#r4ds</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/academic?src=hash&amp;ref_src=twsrc%5Etfw">#academic</a> <a href="https://t.co/egip0Lbo0m">pic.twitter.com/egip0Lbo0m</a></p>&mdash; RdiscoRdServer (@RdiscoRdServer) <a href="https://twitter.com/RdiscoRdServer/status/1390736292338675716?ref_src=twsrc%5Etfw">May 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
