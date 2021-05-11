@@ -58,7 +58,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [D3 for R users (Video) - Zaynaib (Ola) Giwa (Cleveland R User Group)](https://youtu.be/RuM24uJAJh0)
 
 ### Gist & Cookbook
 
