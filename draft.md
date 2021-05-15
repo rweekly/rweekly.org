@@ -102,6 +102,10 @@ Techniques
 
 + [Learning to use the patchwork R package (how to learn a package in general)](https://www.youtube.com/watch?v=2o1YDUKyhu0)
 
++ [Tidy Tuesday live screencast: Analyzing US broadband access in R](https://www.youtube.com/watch?v=MTBtuHxTIg8)
+
++ [TidyX Episode 59 | MLB Pitch Classification - Class Imbalance and Model Evaluation](https://www.youtube.com/watch?v=6-y1iEbDQVs)
+
 ### Gist & Cookbook
 
 
