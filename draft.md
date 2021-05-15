@@ -74,6 +74,8 @@ Techniques
 
 + [{ddplot}](https://github.com/feddelegrand7/ddplot/): Create D3 based SVG graphics easily from R.
 
++ [{rayvista}](https://github.com/h-a-graham/rayvista): A package to view a 3D scene anywhere on earth. 
+
 ### Updated Packages
 
 + [{haven} 2.4.0](https://www.tidyverse.org/blog/2021/04/haven-2-4-0/)
