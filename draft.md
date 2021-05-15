@@ -38,6 +38,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [ISLR: tidymodels labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html): This book aims to be a complement to the 1st version An Introduction to Statistical Learning book with translations of the labs into using the tidymodels set of packages.
 
++ [Short course and tutorial for survey analysis in R using the `srvyr` and `survey` packages](https://github.com/szimmer/tidy-survey-aapor-2021)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -46,8 +48,20 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{ggbreak}](https://github.com/YuLab-SMU/ggbreak): set axis breaks for ‘ggplot2’.
 
-**BioC**
++ [{parsermd} 0.1.0](https://cran.r-project.org/package=parsermd): Formal Parser and Related Tools for R Markdown Documents
 
++ [{nnspat} 0.1.0](https://cran.r-project.org/package=nnspat): Nearest Neighbor Methods for Spatial Patterns
+
++ [{gitdown} 0.1.2](https://cran.r-project.org/package=gitdown): Turn Your Git Commit Messages into a HTML Book
+
++ [{qqboxplot} 0.1.0](https://cran.r-project.org/package=qqboxplot): Implementation of the Q-Q Boxplot
+
++ [{academictwitteR} 0.1.0](https://cran.r-project.org/package=academictwitteR): Access the Twitter Academic Research Product Track V2 API
+
++ [{SportsTour} 0.1.0](https://cran.r-project.org/package=SportsTour): Display Tournament Fixtures using Knock Out and Round Robin
+Techniques
+
++ [{bayesmodels} 0.1.0](https://cran.r-project.org/package=bayesmodels): The 'Tidymodels' Extension for Bayesian Models
 
 
 **GitHub or Bitbucket**
@@ -61,6 +75,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 + [{haven} 2.4.0](https://www.tidyverse.org/blog/2021/04/haven-2-4-0/)
+
++ [{lme4} 1.1-27](https://cran.r-project.org/package=lme4): Linear Mixed-Effects Models using 'Eigen' and S4
+
++ [{rt} 1.1.0](https://cran.r-project.org/package=rt): Interface to the 'Request Tracker' API
+
++ [{huxtable} 5.4.0](https://cran.r-project.org/package=huxtable): Easily Create and Style Tables for LaTeX, HTML and Other Formats
+
++ [{eurostat} 3.7.5](https://cran.r-project.org/package=eurostat): Tools for Eurostat Open Data
+
++ [{naniar} 0.6.1](https://cran.r-project.org/package=naniar): Data Structures, Summaries, and Visualisations for Missing Data
+
++ [{bslib} 0.2.5](https://cran.r-project.org/package=bslib): Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'
+
++ [{gt} 0.3.0](https://cran.r-project.org/package=gt): Easily Create Presentation-Ready Display Tables
+
++ [{ggiraph} 0.7.9](https://cran.r-project.org/package=ggiraph): Make 'ggplot2' Graphics Interactive
 
 ###  Videos and Podcasts
 
