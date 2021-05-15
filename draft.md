@@ -20,6 +20,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Checking in with R-Ladies Taipei](https://www.r-consortium.org/blog/2021/05/14/checking-in-with-r-ladies-taipei)
 
++ [Basic FDA Descriptive Statistics with R](https://rviews.rstudio.com/2021/05/14/basic-fda-descriptive-statistics-with-r/)
+
 ### R in the Real World
 
 + [F1 Drivers Rated – Version 2](https://theparttimeanalyst.com/2021/05/11/f1-drivers-rated-version-2/)
@@ -124,6 +126,14 @@ Techniques
 
 + [Building your website using R {blogdown}](https://shilaan.netlify.app/post/building-your-website-using-r-blogdown/)
 
++ [Generalized Additive Models: Allowing for some wiggle room in your models](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/gam/)
+
++ [Replace compIntercepts() with emmeans()](http://derekogle.com/fishR/2021-05-12-compIntercepts-replacement)
+
++ [Replace compSlopes() with emtrends()](http://derekogle.com/fishR/2021-05-11-compSlopes-replacement)
+
+
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -141,6 +151,8 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [R Lille Meetup: "Reproducible Computation at Scale in R with {targets}"](https://www.meetup.com/R-Lille/events/277902715/)
+
++ [Zoom talk on “Building dashboards in R/shiny (and improve them with logs and user feedback)” from the Grenoble (FR) R user group (May 25)](https://r-posts.com/zoom-talk-on-building-dashboards-in-r-shiny-and-improve-them-with-logs-and-user-feedback-from-the-grenoble-fr-r-user-group/)
 
 
 ### Datasets
