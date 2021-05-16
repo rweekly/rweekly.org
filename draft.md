@@ -8,13 +8,16 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
+This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the R Weekly team members and contributors.
 
 
 ###  Highlight
 
++ [ISLR: tidymodels labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html): This book aims to be a complement to the 1st version An Introduction to Statistical Learning book with translations of the labs into using the tidymodels set of packages.
 
++ [Encrypt and host a knitted R Markdown file](https://www.rostrum.blog/2021/05/07/encrypted-rmd/)
+
++ [Checking in with R-Ladies Taipei](https://www.r-consortium.org/blog/2021/05/14/checking-in-with-r-ladies-taipei)
 
 ### Insights
 
@@ -25,14 +28,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 + [F1 Drivers Rated – Version 2](https://theparttimeanalyst.com/2021/05/11/f1-drivers-rated-version-2/)
-
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
 
 ###  Resources
 
@@ -48,7 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [{ggbreak}](https://github.com/YuLab-SMU/ggbreak): set axis breaks for ‘ggplot2’.
++ [{ggbreak} 0.0.2.993](https://github.com/YuLab-SMU/ggbreak): set axis breaks for ‘ggplot2’.
 
 + [{parsermd} 0.1.0](https://cran.r-project.org/package=parsermd): Formal Parser and Related Tools for R Markdown Documents
 
@@ -68,13 +63,13 @@ Techniques
 
 **GitHub or Bitbucket**
 
-+ [{strex}](https://github.com/rorynolan/strex/): Extra string manipulation functions not contained in stringr or stringi.
++ [{strex} 1.4.2](https://github.com/rorynolan/strex/): Extra string manipulation functions not contained in stringr or stringi.
 
-+ [{socialroulette}](https://staff.math.su.se/hoehle/blog/2021/05/12/socroulette.html): A package to generate social groupings.
++ [{socialroulette} 0.1.0](https://staff.math.su.se/hoehle/blog/2021/05/12/socroulette.html): A package to generate social groupings.
 
-+ [{ddplot}](https://github.com/feddelegrand7/ddplot/): Create D3 based SVG graphics easily from R.
++ [{ddplot} 0.0.1](https://github.com/feddelegrand7/ddplot/): Create D3 based SVG graphics easily from R.
 
-+ [{rayvista}](https://github.com/h-a-graham/rayvista): A package to view a 3D scene anywhere on earth. 
++ [{rayvista} 0.1.0](https://github.com/h-a-graham/rayvista): A package to view a 3D scene anywhere on earth. 
 
 + [{bingmapr} 0.1.0](https://github.com/elipousson/bingmapr): An R package for accessing the Bing Maps Static Map API.
 
@@ -98,7 +93,7 @@ Techniques
 
 + [{ggiraph} 0.7.9](https://cran.r-project.org/package=ggiraph): Make 'ggplot2' Graphics Interactive
 
-+ [{zstd}](https://github.com/coolbutuseless/zstdlite): Fast, configurable in-memory compression of R objects with zstd.
++ [{zstd} 0.2.3](https://github.com/coolbutuseless/zstdlite): Fast, configurable in-memory compression of R objects with zstd.
 
 ###  Videos and Podcasts
 
@@ -112,17 +107,9 @@ Techniques
 
 + [#rspatial workshops](https://www.youtube.com/playlist?list=PLf9p4wbX01Asvw3XG55kuHvgA4SXZvvgw)
 
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [wedding: Shiny app with custom css to prepare and manage a wedding](https://github.com/ThinkR-open/wedding)
-
-### R Internationally
-
-
 
 ###  Tutorials
 
@@ -144,19 +131,15 @@ Techniques
 
 + [Replace compSlopes() with emtrends()](http://derekogle.com/fishR/2021-05-11-compSlopes-replacement)
 
-
-
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -165,14 +148,6 @@ Events in 3 Months:
 + [R Lille Meetup: "Reproducible Computation at Scale in R with {targets}"](https://www.meetup.com/R-Lille/events/277902715/)
 
 + [Zoom talk on “Building dashboards in R/shiny (and improve them with logs and user feedback)” from the Grenoble (FR) R user group (May 25)](https://r-posts.com/zoom-talk-on-building-dashboards-in-r-shiny-and-improve-them-with-logs-and-user-feedback-from-the-grenoble-fr-r-user-group/)
-
-
-### Datasets
-
-### Jobs
-
-
-
 
 ###  Call for Participation
 
@@ -184,3 +159,5 @@ Events in 3 Months:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;d like something like this in {dplyr} <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br><br>mutate_where &lt;- function(.data, .where, ...) {<br> rows_lgl &lt;- as.logical(rlang::eval_tidy(enquo(.where), .data, parent.frame()))<br> .data[rows_lgl,] &lt;- dplyr::mutate(.data[rows_lgl,], ...)<br> .data<br>} <a href="https://t.co/iWVi6lwOvC">pic.twitter.com/iWVi6lwOvC</a></p>&mdash; Antoine Fabri (@antoine_fabri) <a href="https://twitter.com/antoine_fabri/status/1392127389195452416?ref_src=twsrc%5Etfw">May 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">where is waldo??<br><br> in my console baby, no more anti_join() for me <a href="https://t.co/FpmCIyiF2Z">pic.twitter.com/FpmCIyiF2Z</a></p>&mdash; Jeep Wrangler Owner (@asmae_toumi) <a href="https://twitter.com/asmae_toumi/status/1391749381766979585?ref_src=twsrc%5Etfw">May 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sometimes one may wish to include plots or visualizations in a table, e.g. to show the distribution of a variable.<br><br>The {spec_} function family from {kableExtra} 📦 make doing so effortless 🙌<a href="https://t.co/X4YY8Drm7C">https://t.co/X4YY8Drm7C</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> <a href="https://t.co/9HRDTxEpB8">pic.twitter.com/9HRDTxEpB8</a></p>&mdash; R Function A Day (@rfunctionaday) <a href="https://twitter.com/rfunctionaday/status/1391990981248143364?ref_src=twsrc%5Etfw">May 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
