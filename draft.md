@@ -76,6 +76,8 @@ Techniques
 
 + [{rayvista}](https://github.com/h-a-graham/rayvista): A package to view a 3D scene anywhere on earth. 
 
++ [{bingmapr} 0.1.0](https://github.com/elipousson/bingmapr): An R package for accessing the Bing Maps Static Map API.
+
 ### Updated Packages
 
 + [{haven} 2.4.0](https://www.tidyverse.org/blog/2021/04/haven-2-4-0/)
@@ -96,6 +98,8 @@ Techniques
 
 + [{ggiraph} 0.7.9](https://cran.r-project.org/package=ggiraph): Make 'ggplot2' Graphics Interactive
 
++ [{zstd}](https://github.com/coolbutuseless/zstdlite): Fast, configurable in-memory compression of R objects with zstd.
+
 ###  Videos and Podcasts
 
 + [D3 for R users (Video) - Zaynaib (Ola) Giwa (Cleveland R User Group)](https://youtu.be/RuM24uJAJh0)
@@ -105,6 +109,8 @@ Techniques
 + [Tidy Tuesday live screencast: Analyzing US broadband access in R](https://www.youtube.com/watch?v=MTBtuHxTIg8)
 
 + [TidyX Episode 59 | MLB Pitch Classification - Class Imbalance and Model Evaluation](https://www.youtube.com/watch?v=6-y1iEbDQVs)
+
++ [#rspatial workshops](https://www.youtube.com/playlist?list=PLf9p4wbX01Asvw3XG55kuHvgA4SXZvvgw)
 
 ### Gist & Cookbook
 
