@@ -131,6 +131,8 @@ Techniques
 
 + [Replace compSlopes() with emtrends()](http://derekogle.com/fishR/2021-05-11-compSlopes-replacement)
 
++ [ggplot: the placing and order of aesthetics matters](https://shouldbewriting.netlify.app/posts/2021-05-16-ggplot-where-to-aes/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
