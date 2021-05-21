@@ -18,7 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [New features in R 4.1.0](https://www.jumpingrivers.com/blog/new-features-r410-pipe-anonymous-functions/)
 
++ [There are now 3 different R pipes](https://selbydavid.com/2021/05/18/pipes/)
+
++ [Brazil’s R Community is Vibrant and Active](https://www.r-consortium.org/blog/2021/05/17/brazils-r-community-is-vibrant-and-active)
 
 ### R in the Real World
 
@@ -42,7 +46,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{ggseg} 1.6.3](https://cran.r-project.org/package=ggseg): Plotting Tool for Brain Atlases.
 
 **BioC**
 
@@ -50,11 +54,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [TidyTuesdayAltText: Alternative text for media attached to TidyTuesday tweets](https://github.com/spcanelon/TidyTuesdayAltText)
 
++ [xglue: Extended glue](https://github.com/skranz/xglue)
 
 ### Updated Packages
 
-
++ [{tidycensus}](https://github.com/walkerke/tidycensus): Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R.
 
 ###  Videos and Podcasts
 
@@ -74,7 +80,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Change multiple data frames inside a list](https://www.jeremydata.com/posts/2021-05-19-change-multiple-data-frames-inside-lists-oh-my/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
