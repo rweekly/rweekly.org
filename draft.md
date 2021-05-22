@@ -72,7 +72,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [Steam Explorer](https://eki-anjo.shinyapps.io/steam-shiny/)
 
 ### R Internationally
 
