@@ -139,13 +139,19 @@ Site
 
 ### R Internationally
 
++ [GFS Internacional Shiny App (Brazil)](https://painelgfs.tesouro.gov.br/)
 
++ [paletas colores](https://github.com/JuveCampos/codigoPaletasColores)
 
 ###  Tutorials
 
 + [Evolution of a ggplot](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
 
 + [Change multiple data frames inside a list](https://www.jeremydata.com/posts/2021-05-19-change-multiple-data-frames-inside-lists-oh-my/)
+
++ [Hex-style snowflake charts](https://thef5.substack.com/p/hex-snowflake-charts)
+
+![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01b462c5-3803-420e-afaa-36e0c041dc02_1800x1800.png)
 
 + [Securing Shiny Server with Caddy](https://hosting.analythium.io/securing-shiny-server-with-caddy/)
 
@@ -162,6 +168,10 @@ Site
 + [{tidycensus} migration flows](https://walker-data.com/tidycensus/articles/other-datasets.html#migration-flows-1)
 
 + [Chloropleths](https://milospopovic.net/neet_map/)
+
++ [10 Tips to Customize Text Color, Font, Size in ggplot2 with element_text()](https://cmdlinetips.com/2021/05/tips-to-customize-text-color-font-size-in-ggplot2-with-element_text/)
+
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -180,6 +190,8 @@ Events in 3 Months:
 + [R Lille Meetup: "Reproducible Computation at Scale in R with {targets}"](https://www.meetup.com/R-Lille/events/277902715/)
 
 + [Zoom talk on “Building dashboards in R/shiny (and improve them with logs and user feedback)” from the Grenoble (FR) R user group (May 25)](https://r-posts.com/zoom-talk-on-building-dashboards-in-r-shiny-and-improve-them-with-logs-and-user-feedback-from-the-grenoble-fr-r-user-group/)
+
++ [Learning Lab: Time Series Forecasting in Production  (May 26)](https://us02web.zoom.us/webinar/register/WN_WYGB_Gd6RTCTwkjyvRxlpQ)
 
 ### Datasets
 
