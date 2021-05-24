@@ -20,7 +20,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/kellybodwin)
 
 + [Evolution of a ggplot](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
 
-![](https://d33wubrfki0l68.cloudfront.net/f3253e5b17d321afbe9b5ded3f6a3f5ff47c000c/7980f/post/2019-05-17_evol-ggplot-1_files/figure-html/arrows-annotations-1.png)
+![](https://github.com/rweekly/image/blob/master/2021/W21/arrows-annotations-1.png?raw=true)
 
 
 
@@ -32,7 +32,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/kellybodwin)
 
 + [Brazil’s R Community is Vibrant and Active](https://www.r-consortium.org/blog/2021/05/17/brazils-r-community-is-vibrant-and-active)
 
-![](https://lh6.googleusercontent.com/JP3N0eR6Y-7UaPWEMIrv31XaUu2ReBRAJxmg4luP2z-pClbVqZ6pME78kxlkVG1askf6Qjlse13B8i6bkvkEUraqPAkyTCJrAKeP3c6GEeW37eHl59lvkRotpOhpERZnMOdS3m9K)
+![](https://github.com/rweekly/image/blob/master/2021/W21/brazil.png?raw=true)
 
 + [Random forest importance measures are NOT important](https://eranraviv.com/random-forest-importance-measures-are-not-important/)
 
@@ -64,7 +64,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/kellybodwin)
 
 + [Twitter thread on color palettes in R](https://twitter.com/moriah_taylor58/status/1395431000977649665?s=20)
 
-![](https://pbs.twimg.com/media/E12Gm_EXoAMW9cI?format=png&name=small)
+![](https://github.com/rweekly/image/blob/master/2021/W21/palettes.png?raw=true)
 
 + [renv tips](https://twitter.com/tjmahr/status/1394714953249169412?s=20)
 
@@ -112,7 +112,7 @@ Site
 
 + [equatomatic: generate equation TeX automatically](https://github.com/datalorax/equatiomatic)
 
-![](https://github.com/datalorax/equatiomatic/raw/master/man/figures/preview1.png)
+![](https://github.com/rweekly/image/blob/master/2021/W21/equatomatic.png?raw=true)
 
 + [tayloRswift: color palette based on Taylor Swift albums](https://github.com/asteves/tayloRswift)
 
@@ -128,7 +128,7 @@ Site
 
 + [{leafpop} 0.1.0](https://cran.r-project.org/package=leafpop): Include Tables, Images and Graphs in Leaflet Pop-Ups
 
-![](https://github.com/r-spatial/leafpop/raw/master/man/figures/README-graph.png)
+![](https://github.com/rweekly/image/blob/master/2021/W21/leafpop.png?raw=true)
 
 + [{pkglite} 0.2.0](https://cran.r-project.org/package=pkglite): Compact Package Representations
 
@@ -154,7 +154,7 @@ Site
 
 + [Gallery of Rtistry projects](https://ijeamaka-a.shinyapps.io/rtistry_gallery/)
 
-+ + [Steam Explorer](https://eki-anjo.shinyapps.io/steam-shiny/)
++ [Steam Explorer](https://eki-anjo.shinyapps.io/steam-shiny/)
 
 
 ### R Internationally
@@ -171,7 +171,7 @@ Site
 
 + [Hex-style snowflake charts](https://thef5.substack.com/p/hex-snowflake-charts)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01b462c5-3803-420e-afaa-36e0c041dc02_1800x1800.png)
+![](https://github.com/rweekly/image/blob/master/2021/W21/hex_bball.png?raw=true)
 
 + [Securing Shiny Server with Caddy](https://hosting.analythium.io/securing-shiny-server-with-caddy/)
 
