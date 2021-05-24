@@ -77,6 +77,8 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/kellybodwin)
 
 **CRAN**
 
++ [ichimoku 0.1.2](https://shikokuchuo.net/ichimoku/) Ichimoku Kinko Hyo cloud charts for technical analysis.
+
 + [{ggseg} 1.6.3](https://cran.r-project.org/package=ggseg): Plotting Tool for Brain Atlases.
 
 + [{spectre} 1.0.0](https://cran.r-project.org/package=spectre): Predict Regional Community Composition
@@ -151,6 +153,8 @@ Site
 + [{FielDHub} 0.1.0](https://cran.r-project.org/package=FielDHub): A Shiny App for Design of Experiments in Life Sciences
 
 + [Gallery of Rtistry projects](https://ijeamaka-a.shinyapps.io/rtistry_gallery/)
+
++ + [Steam Explorer](https://eki-anjo.shinyapps.io/steam-shiny/)
 
 
 ### R Internationally
