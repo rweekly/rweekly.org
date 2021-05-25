@@ -191,6 +191,8 @@ Site
 
 + [10 Tips to Customize Text Color, Font, Size in ggplot2 with element_text()](https://cmdlinetips.com/2021/05/tips-to-customize-text-color-font-size-in-ggplot2-with-element_text/)
 
++ [Using {tidygeocoder} to re-create the Minard's map of Napoleon in Russia](https://www.jla-data.net/eng/minard-map-tidygeocoder/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
