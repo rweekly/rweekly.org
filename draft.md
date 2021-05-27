@@ -165,6 +165,8 @@ Site
 
 ###  Tutorials
 
++ [Map Symbols and Size Legends for leaflet](https://roh.engineering/posts/2021/05/map-symbols-and-size-legends-for-leaflet/)
+
 + [Evolution of a ggplot](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
 
 + [Change multiple data frames inside a list](https://www.jeremydata.com/posts/2021-05-19-change-multiple-data-frames-inside-lists-oh-my/)
