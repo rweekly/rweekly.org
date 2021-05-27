@@ -22,7 +22,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/kellybodwin)
 
 ![](https://github.com/rweekly/image/blob/master/2021/W21/arrows-annotations-1.png?raw=true)
 
-
++ [Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)
 
 ### Insights
 
@@ -54,7 +54,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/kellybodwin)
 
 ###  R in Academia
 
-
++ [Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/), run by [David Kane](https://www.davidkane.info/), starting June 1, and lasting for four weeks. Designed for students attending under-resourced high schools, but all are welcome.
 
 ###  Resources
 
