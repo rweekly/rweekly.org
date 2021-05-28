@@ -23,7 +23,9 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
 ### R in the Real World
 
++ [Is COVID-19 Data Tampered?](https://www.harsh17.in/blog/is-covid-19-data-tampered)
 
+![](https://github.com/harshvardhaniimi/benford-covid-19/blob/d8b9a1fca731d9052bb62a8687fbaf60dfdc77e8/scripts/country.png)
 
 ###  R in Organizations
 
