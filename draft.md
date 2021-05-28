@@ -76,7 +76,12 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 ###  Tutorials
 
 
+ 
++ [Using {tidygeocoder} to re-create the Minard's map of Napoleon in Russia](https://www.jla-data.net/eng/minard-map-tidygeocoder/)
+
+ 
 + [do.call / lapply - a distinctive coding style](https://shikokuchuo.net/posts/09-docall-lapply/)
+ 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
