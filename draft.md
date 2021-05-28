@@ -20,16 +20,32 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 ### Insights
 
 
++ [Choose your own tidymodels adventure](https://www.tidyverse.org/blog/2021/05/choose-tidymodels-adventure/)
+
+
++ [Where are the industrial strength R compilers?](http://shape-of-code.coding-guidelines.com/2021/05/23/where-are-the-industrial-strength-r-compilers/)
+
++ [SlimDevOps Episode 4 - Slimming R containers with Eric Nantz ](https://www.twitch.tv/videos/1035028196)
 
 ### R in the Real World
+
++ [R-Ladies Philly – Building our Online Community During the Pandemic](https://www.r-consortium.org/blog/2021/05/27/r-ladies-philly-building-our-online-community-during-the-pandemic)
 
 + [Is COVID-19 Data Tampered?](https://www.harsh17.in/blog/is-covid-19-data-tampered)
 
 ![](https://github.com/harshvardhaniimi/benford-covid-19/blob/d8b9a1fca731d9052bb62a8687fbaf60dfdc77e8/scripts/country.png)
 
++ [Partial dependence plots with tidymodels and DALEX for #TidyTuesday Mario Kart world records](https://juliasilge.com/blog/mario-kart/)
+
++ [Changes in Apple Health Export](https://www.johngoldin.com/blog/2021-05-changes-in-apple-health-export/)
+
++ [Safe the New Internationalist's stories webscraping and word clouds to see why independent journalism is worth protecting](https://www.janknappe.com/blog/r-new-internationalist-fundraiser/)
+
 ###  R in Organizations
 
++ [Bioconductor Asia Membership Increasing Due to Going Virtual](https://www.r-consortium.org/blog/2021/05/28/bioconductor-asia-membership-increasing-due-to-going-virtual)
 
++ [(Re)Introducing the "Solutions" website](https://blog.rstudio.com/2021/05/27/re-introducing-the-solutions-website/)
 
 
 ###  R in Academia
@@ -46,6 +62,7 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
 **CRAN**
 
++ [April 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/05/25/april-2021-top-40-new-cran-packages/)
 
 
 **BioC**
@@ -58,6 +75,7 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 ### Updated Packages
 
 
++ [RcppArmadillo 0.10.5.0.0 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2021/05/23#rcpparmadillo_0.10.5.0.0)
 
 
 ###  Videos and Podcasts
@@ -77,6 +95,7 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
 ###  Tutorials
 
++ [Correlation in R ( NA friendliness, accepting matrix as input, returning p values, visualization, and Pearson vs Spearman)](https://gacatag.blogspot.com/2021/05/correlation-in-r-na-friendliness.html)
 
 + [Map Symbols and Size Legends for leaflet](https://roh.engineering/posts/2021/05/map-symbols-and-size-legends-for-leaflet/)
  
@@ -85,7 +104,60 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
  
 + [do.call / lapply - a distinctive coding style](https://shikokuchuo.net/posts/09-docall-lapply/)
- 
+
++ [Using {shiny.i18n} with {golem} for server-side translation](https://discindo.org/post/using-shiny-i18n-with-golem-for-server-side-translation/)
+
++ [File Transfer Based Publishing for Shiny Apps](https://hosting.analythium.io/file-transfer-based-publishing-for-shiny-apps/)
+
++ [Everything You Always Wanted to Know About ANOVA*](https://shouldbewriting.netlify.app/posts/2021-05-25-everything-about-anova/)
+
++ [When is it safe to plant your seedlings outside? Or: Should you consult the Saints or trust the data?](https://www.janknappe.com/blog/r-when-save-plant-seedlings-outside-ice-saints/)
+
++ [A {swiftr} Brief Interlude While Awaiting {cdcfluview} CRAN Checks](https://rud.is/b/2021/05/22/a-swiftr-brief-interlude-while-awaiting-cdcfluview-cran-checks/)
+
++ [How and When to Control for Confounders During Product Usage Analyses](https://heap.io/blog/control-for-confounders-during-product-usage-analyses) 
+
++ [datatable editor-DT package in R](https://finnstats.com/index.php/2021/05/27/datatable-editor-dt-package-in-r/) 
+
+
+
++ [A comparison of terra and raster packages](http://www.seascapemodels.org/rstats/2021/05/28/terra-raster-comparison.html)
+
++ [Using {pagedown} in Docker](https://datawookie.dev/blog/2021/05/using-pagedown-in-docker/)
+
++ [A forecasting tool (API) with examples in curl, R, Python](https://thierrymoudiki.github.io/blog/2021/05/28/python/r/misc/techtonique-apis)
+
++ [Sometimes more data can hurt!](https://iyarlin.github.io/2021/05/23/sample_wise_double_descent_results_reproduction/)
+
++ [Learning R: Creating Truth Tables](https://blog.ephorie.de/learning-r-creating-truth-tables)
+
++ [Small gotcha when using negative indexing](https://statisticaloddsandends.wordpress.com/2021/05/27/small-gotcha-when-using-negative-indexing/)
+
+
++ [Map Symbols and Size Legends for leaflet](https://roh.engineering/posts/2021/05/map-symbols-and-size-legends-for-leaflet/)
+
++ [gghalves: Make Half Boxplot | Half Dotplot Visualizations with ggplot2](https://www.business-science.io/code-tools/2021/05/25/gghalves.html)
+
++ [Towards not so ugly R code ](https://r-critique.com/towards-not-so-ugly-r-code)
+
++ [Replace filterD()](http://derekogle.com/fishR/2021-05-26-filterD-replacement)
+
++ [How to add R {magrittr}'s %>% Pipe Operator in VSCode as Keyboard Shortcut ](https://www.programmingwithr.com/how-to-add-r-magrittr-s-pipe-operator-in-vscode-as-keyboard-shortcut/)
+
++ [Introducing cvwrapr for your cross-validation needs](https://statisticaloddsandends.wordpress.com/2021/05/25/introducing-cvwrapr-for-your-cross-validation-needs/)
+
++ [Data Viz Competition: Mother & Daughter Team](https://www.littlemissdata.com/blog/wiavizcompetition)
+
++ [A shiny interface to BatchGetSymbols](https://www.msperlin.com/blog/post/2021-05-26-bgs-shiny/)
+
++ [Replace fitPlot() with ggplot](http://derekogle.com/fishR/2021-05-25-fitPlot-replacement)
+
++ [Centralizing your Analytics Infrastructure with eoda and Covestro](https://blog.rstudio.com/2021/05/25/centralizing-your-analytics-infrastructure-with-eoda-and-covestro/)
+
+
+
++ [Little useless-useful R functions – Looping through variable names and generating plots](https://tomaztsql.wordpress.com/2021/05/24/little-useless-useful-r-functions-looping-through-variable-names-and-generating-plots/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
