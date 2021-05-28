@@ -76,6 +76,8 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 ###  Tutorials
 
 
++ [Map Symbols and Size Legends for leaflet](https://roh.engineering/posts/2021/05/map-symbols-and-size-legends-for-leaflet/)
+ 
  
 + [Using {tidygeocoder} to re-create the Minard's map of Napoleon in Russia](https://www.jla-data.net/eng/minard-map-tidygeocoder/)
 
