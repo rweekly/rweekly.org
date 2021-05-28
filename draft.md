@@ -68,7 +68,7 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
 ### Shiny Apps
 
-
++ [Steam Explorer](https://eki-anjo.shinyapps.io/steam-shiny/)
 
 ### R Internationally
 
