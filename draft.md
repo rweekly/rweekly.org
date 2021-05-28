@@ -22,7 +22,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/kellybodwin)
 
 ![](https://github.com/rweekly/image/blob/master/2021/W21/arrows-annotations-1.png?raw=true)
 
-
++ [Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)
 
 ### Insights
 
@@ -54,7 +54,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/kellybodwin)
 
 ###  R in Academia
 
-
++ [Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/), run by [David Kane](https://www.davidkane.info/), starting June 1, and lasting for four weeks. Designed for students attending under-resourced high schools, but all are welcome.
 
 ###  Resources
 
@@ -164,8 +164,11 @@ Site
 + [paletas colores](https://github.com/JuveCampos/codigoPaletasColores)
 
 ###  Tutorials
-
+ 
 + [Map Symbols and Size Legends for leaflet](https://roh.engineering/posts/2021/05/map-symbols-and-size-legends-for-leaflet/)
+ 
++ [do.call / lapply - a distinctive coding style](https://shikokuchuo.net/posts/09-docall-lapply/)
+ 
 
 + [Evolution of a ggplot](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
 
