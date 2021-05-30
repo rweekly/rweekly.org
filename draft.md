@@ -114,15 +114,7 @@ Management
 
 + [Correlation in R ( NA friendliness, accepting matrix as input, returning p values, visualization, and Pearson vs Spearman)](https://gacatag.blogspot.com/2021/05/correlation-in-r-na-friendliness.html)
 
-+ [Map Symbols and Size Legends for leaflet](https://roh.engineering/posts/2021/05/map-symbols-and-size-legends-for-leaflet/)
-
-![Map Symbols and Size Legends for leaflet](https://raw.githubusercontent.com/rweekly/image/master/2021/W22/legends.png)
- 
 + [Double Machine Learning - An Easy Introduction in R](http://dm13450.github.io/2021/05/28/Double-ML.html)
- 
-+ [Using {tidygeocoder} to re-create the Minard's map of Napoleon in Russia](https://www.jla-data.net/eng/minard-map-tidygeocoder/)
-
-![Using {tidygeocoder} to re-create ](https://raw.githubusercontent.com/rweekly/image/master/2021/W22/minard.png)
 
 + [Working with files and folders in R-Ultimate Guide](https://finnstats.com/index.php/2021/05/28/working-with-files-and-folders-in-r/)
  
@@ -149,6 +141,10 @@ Management
 
 + [datatable editor-DT package in R](https://finnstats.com/index.php/2021/05/27/datatable-editor-dt-package-in-r/) 
 
+ 
++ [Using {tidygeocoder} to re-create the Minard's map of Napoleon in Russia](https://www.jla-data.net/eng/minard-map-tidygeocoder/)
+
+![Using {tidygeocoder} to re-create ](https://raw.githubusercontent.com/rweekly/image/master/2021/W22/minard.png)
 
 + [A comparison of terra and raster packages](http://www.seascapemodels.org/rstats/2021/05/28/terra-raster-comparison.html)
 
@@ -169,6 +165,10 @@ Management
 
 + [Replace filterD()](http://derekogle.com/fishR/2021-05-26-filterD-replacement)
 
++ [Map Symbols and Size Legends for leaflet](https://roh.engineering/posts/2021/05/map-symbols-and-size-legends-for-leaflet/)
+
+![Map Symbols and Size Legends for leaflet](https://raw.githubusercontent.com/rweekly/image/master/2021/W22/legends.png)
+ 
 + [How to add R {magrittr}'s %>% Pipe Operator in VSCode as Keyboard Shortcut ](https://www.programmingwithr.com/how-to-add-r-magrittr-s-pipe-operator-in-vscode-as-keyboard-shortcut/)
 
 + [Introducing cvwrapr for your cross-validation needs](https://statisticaloddsandends.wordpress.com/2021/05/25/introducing-cvwrapr-for-your-cross-validation-needs/)
