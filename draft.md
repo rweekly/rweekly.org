@@ -14,8 +14,9 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
 ###  Highlight
 
++ [Changes in Apple Health Export](https://www.johngoldin.com/blog/2021-05-changes-in-apple-health-export/)
 
-
++ [April 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/05/25/april-2021-top-40-new-cran-packages/)
 
 ### Insights
 
@@ -25,7 +26,7 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
 + [Where are the industrial strength R compilers?](http://shape-of-code.coding-guidelines.com/2021/05/23/where-are-the-industrial-strength-r-compilers/)
 
-+ [SlimDevOps Episode 4 - Slimming R containers with Eric Nantz ](https://www.twitch.tv/videos/1035028196)
+
 
 ### R in the Real World
 
@@ -33,13 +34,17 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
 + [Is COVID-19 Data Tampered?](https://www.harsh17.in/blog/is-covid-19-data-tampered)
 
-![](https://github.com/harshvardhaniimi/benford-covid-19/blob/d8b9a1fca731d9052bb62a8687fbaf60dfdc77e8/scripts/country.png)
-
-+ [Partial dependence plots with tidymodels and DALEX for #TidyTuesday Mario Kart world records](https://juliasilge.com/blog/mario-kart/)
+![](https://raw.githubusercontent.com/rweekly/image/master/2021/W22/country.png)
 
 + [Changes in Apple Health Export](https://www.johngoldin.com/blog/2021-05-changes-in-apple-health-export/)
 
+![Changes in Apple Health Export](https://raw.githubusercontent.com/rweekly/image/master/2021/W22/health.png)
+
 + [Safe the New Internationalist's stories webscraping and word clouds to see why independent journalism is worth protecting](https://www.janknappe.com/blog/r-new-internationalist-fundraiser/)
+
++ [Mario Kart 64 World Records](https://jmablog.com/post/mario-kart/)
+
++ [GooglyPlusPlus2021 is now fully interactive!!!](https://gigadom.in/2021/05/29/googlyplusplus2021-is-now-fully-interactive/)
 
 ###  R in Organizations
 
@@ -47,10 +52,13 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
 + [(Re)Introducing the "Solutions" website](https://blog.rstudio.com/2021/05/27/re-introducing-the-solutions-website/)
 
+![(Re)Introducing the "Solutions" website](https://raw.githubusercontent.com/rweekly/image/master/2021/W22/solutions-dark-mode.png)
+
++ [rOpenSci's R-universe Project](https://ropensci.org/commcalls/may2021-r-universe/)
 
 ###  R in Academia
 
-+ [Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/), run by [David Kane](https://www.davidkane.info/), starting June 1, and lasting for four weeks. Designed for students attending under-resourced high schools, but all are welcome.
++ [Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/) - starting June 1, and lasting for four weeks. Designed for students attending under-resourced high schools, but all are welcome.
 
 ###  Resources
 
@@ -64,6 +72,10 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
 + [April 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/05/25/april-2021-top-40-new-cran-packages/)
 
++ [{reproducible} 1.2.7](https://cran.r-project.org/package=reproducible): A Set of Tools that Enhance Reproducibility Beyond Package
+Management
+
++ [{ggpp} 0.4.0](https://cran.r-project.org/package=ggpp): Grammar Extensions to 'ggplot2'
 
 **BioC**
 
@@ -75,12 +87,15 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 ### Updated Packages
 
 
-+ [RcppArmadillo 0.10.5.0.0 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2021/05/23#rcpparmadillo_0.10.5.0.0)
++ [{RcppArmadillo} 0.10.5.0.0](http://dirk.eddelbuettel.com/blog/2021/05/23#rcpparmadillo_0.10.5.0.0): R and Armadillo via Rcpp
 
++ [{formatR} 1.10](https://cran.r-project.org/package=formatR): Format R Code Automatically
+
++ [{arrow} 4.0.1](https://cran.r-project.org/package=arrow): Integration to 'Apache' 'Arrow'
 
 ###  Videos and Podcasts
 
-
++ [SlimDevOps Episode 4 - Slimming R containers with Eric Nantz ](https://www.twitch.tv/videos/1035028196)
 
 ### Gist & Cookbook
 
@@ -98,10 +113,16 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 + [Correlation in R ( NA friendliness, accepting matrix as input, returning p values, visualization, and Pearson vs Spearman)](https://gacatag.blogspot.com/2021/05/correlation-in-r-na-friendliness.html)
 
 + [Map Symbols and Size Legends for leaflet](https://roh.engineering/posts/2021/05/map-symbols-and-size-legends-for-leaflet/)
+
+![Map Symbols and Size Legends for leaflet](https://raw.githubusercontent.com/rweekly/image/master/2021/W22/legends.png)
  
++ [Double Machine Learning - An Easy Introduction in R](http://dm13450.github.io/2021/05/28/Double-ML.html)
  
 + [Using {tidygeocoder} to re-create the Minard's map of Napoleon in Russia](https://www.jla-data.net/eng/minard-map-tidygeocoder/)
 
+![Using {tidygeocoder} to re-create ](https://raw.githubusercontent.com/rweekly/image/master/2021/W22/minard.png)
+
++ [Working with files and folders in R-Ultimate Guide](https://finnstats.com/index.php/2021/05/28/working-with-files-and-folders-in-r/)
  
 + [do.call / lapply - a distinctive coding style](https://shikokuchuo.net/posts/09-docall-lapply/)
 
@@ -109,16 +130,22 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
 + [File Transfer Based Publishing for Shiny Apps](https://hosting.analythium.io/file-transfer-based-publishing-for-shiny-apps/)
 
+
++ [Partial dependence plots with tidymodels and DALEX for #TidyTuesday Mario Kart world records](https://juliasilge.com/blog/mario-kart/)
+
+![Partial dependence plots with tidymodels and DALEX for #TidyTuesday Mario Kart world records](https://raw.githubusercontent.com/rweekly/image/master/2021/W22/mario.png)
+
 + [Everything You Always Wanted to Know About ANOVA*](https://shouldbewriting.netlify.app/posts/2021-05-25-everything-about-anova/)
 
 + [When is it safe to plant your seedlings outside? Or: Should you consult the Saints or trust the data?](https://www.janknappe.com/blog/r-when-save-plant-seedlings-outside-ice-saints/)
+
+![When is it safe to plant your seedlings ](https://raw.githubusercontent.com/rweekly/image/master/2021/W22/seed.jpg.png)
 
 + [A {swiftr} Brief Interlude While Awaiting {cdcfluview} CRAN Checks](https://rud.is/b/2021/05/22/a-swiftr-brief-interlude-while-awaiting-cdcfluview-cran-checks/)
 
 + [How and When to Control for Confounders During Product Usage Analyses](https://heap.io/blog/control-for-confounders-during-product-usage-analyses) 
 
 + [datatable editor-DT package in R](https://finnstats.com/index.php/2021/05/27/datatable-editor-dt-package-in-r/) 
-
 
 
 + [A comparison of terra and raster packages](http://www.seascapemodels.org/rstats/2021/05/28/terra-raster-comparison.html)
@@ -134,9 +161,7 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 + [Small gotcha when using negative indexing](https://statisticaloddsandends.wordpress.com/2021/05/27/small-gotcha-when-using-negative-indexing/)
 
 
-+ [Map Symbols and Size Legends for leaflet](https://roh.engineering/posts/2021/05/map-symbols-and-size-legends-for-leaflet/)
-
-+ [gghalves: Make Half Boxplot | Half Dotplot Visualizations with ggplot2](https://www.business-science.io/code-tools/2021/05/25/gghalves.html)
++ [gghalves: Make Half Boxplot Half Dotplot Visualizations with ggplot2](https://www.business-science.io/code-tools/2021/05/25/gghalves.html)
 
 + [Towards not so ugly R code ](https://r-critique.com/towards-not-so-ugly-r-code)
 
@@ -198,3 +223,6 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🎖 This really is such a bookmark-worthy post:<br>📊 “The Evolution of a ggplot (Ep. 1)” by <a href="https://twitter.com/CedScherer?ref_src=twsrc%5Etfw">@CedScherer</a> <a href="https://t.co/AL2AHY6FFt">https://t.co/AL2AHY6FFt</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a><br>[GIF: shows each stage of evolution of the plot] <a href="https://t.co/kxQ5R8JqfQ">pic.twitter.com/kxQ5R8JqfQ</a></p>&mdash; Mara Averick (@dataandme) <a href="https://twitter.com/dataandme/status/1397192888296120331?ref_src=twsrc%5Etfw">May 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So is using R just googling. “How to do this” and then spending 30+mins trying to adapt that code to your data?😕 <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/AcademicChatter?src=hash&amp;ref_src=twsrc%5Etfw">#AcademicChatter</a></p>&mdash; MaGatsheni🐘 (@kimistry8) <a href="https://twitter.com/kimistry8/status/1398013181700812801?ref_src=twsrc%5Etfw">May 27, 2021</a></blockquote> 
