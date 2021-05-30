@@ -77,6 +77,8 @@ Management
 
 + [{ggpp} 0.4.0](https://cran.r-project.org/package=ggpp): Grammar Extensions to 'ggplot2'
 
+![Grammar Extensions to 'ggplot2'](https://raw.githubusercontent.com/rweekly/image/master/2021/W22/ggpp.png)
+
 **BioC**
 
 
