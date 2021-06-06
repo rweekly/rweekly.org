@@ -69,8 +69,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Using {sf} to calculate catchment areas](https://nhsrcommunity.com/blog/using-sf-to-calculate-catchment-areas/)
 
 
-###  R in Organizations
-
 ###  R in Academia
 
 + [van der Loo, M. (2021). Monitoring Data in R with the lumberjack Package. Journal of Statistical Software, 98(1), 1 - 13. doi:http://dx.doi.org/10.18637/jss.v098.i01](https://www.jstatsoft.org/article/view/v098i01)
@@ -201,9 +199,15 @@ Events in 3 Months:
 
 ### Rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have revisited lighthouse data from <a href="https://twitter.com/openstreetmap?ref_src=twsrc%5Etfw">@openstreetmap</a> that I used last year in the <a href="https://twitter.com/hashtag/30DayMapChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30DayMapChallenge</a>, and now I have given it a touch of firefly cartographic style. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/rspatial?src=hash&amp;ref_src=twsrc%5Etfw">#rspatial</a> <br><br>Here more details in my recent blog post <a href="https://t.co/ntRCbzxeA0">https://t.co/ntRCbzxeA0</a> <a href="https://t.co/soIUBQCbrm">pic.twitter.com/soIUBQCbrm</a></p>&mdash; Dominic Royé (@dr_xeo) <a href="https://twitter.com/dr_xeo/status/1401128306012004358?ref_src=twsrc%5Etfw">June 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Late submission for last week&#39;s <a href="https://twitter.com/hashtag/tidytuesday?src=hash&amp;ref_src=twsrc%5Etfw">#tidytuesday</a>. Used my favorite tt of 2020 as inspiration (<a href="https://twitter.com/CedScherer?ref_src=twsrc%5Etfw">@CedScherer</a> <a href="https://t.co/QmQDat2794">https://t.co/QmQDat2794</a>) to make a Rainbow Road plot of cumulative days holding Mario Kart 64 records by players. <br><br>code: <a href="https://t.co/cBlW7TbrxU">https://t.co/cBlW7TbrxU</a><a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/A2s8sdqNja">pic.twitter.com/A2s8sdqNja</a></p>&mdash; data_warz (@TWarczak) <a href="https://twitter.com/TWarczak/status/1400292822809464837?ref_src=twsrc%5Etfw">June 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Introducing <a href="https://twitter.com/hashtag/RecreationThursday?src=hash&amp;ref_src=twsrc%5Etfw">#RecreationThursday</a>! Every two weeks, we&#39;ll be sharing a piece of art for <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> folks to recreate/remix and get those creative juices flowing🎨<br><br>🧵(thread for more info!) <a href="https://t.co/2ztqRoiZYT">pic.twitter.com/2ztqRoiZYT</a></p>&mdash; Natalie O&#39;Shea (@_natalie_oshea) <a href="https://twitter.com/_natalie_oshea/status/1400526683170541570?ref_src=twsrc%5Etfw">June 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This already been done? <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/P8CbDQICtl">pic.twitter.com/P8CbDQICtl</a></p>&mdash; Tyson Barrett ✊ (@healthandstats) <a href="https://twitter.com/healthandstats/status/1399832005768990721?ref_src=twsrc%5Etfw">June 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Where chess pieces go to die: I analyzed 15000 chess games to see where each individual piece tend to be captured. <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://t.co/qtzUbN6eZg">pic.twitter.com/qtzUbN6eZg</a></p>&mdash; Anders Sundell (@sundellviz) <a href="https://twitter.com/sundellviz/status/1399110055128145920?ref_src=twsrc%5Etfw">May 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
