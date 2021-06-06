@@ -24,7 +24,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + ['gggrid' it's g-g-great! Accessing 'grid' from 'ggplot2'](https://www.stat.auckland.ac.nz/~paul/Reports/gggrid/gggrid.html)
 
+![A gradient grob overlaid on a ggplot with {gggrid}](https://raw.githubusercontent.com/rweekly/image/master/2021/W23/gggrid.png)
+
 + [Cartography firefly in R](https://dominicroye.github.io/en/2021/firefly-cartography/)
+
+![A scatterplot map in 'firefly' style of earthquake locations](https://raw.githubusercontent.com/rweekly/image/master/2021/W23/earthquakes.png)
 
 + [How and When to Control for Confounders During Product Usage Analyses](https://heap.io/blog/control-for-confounders-during-product-usage-analyses)
 
@@ -66,8 +70,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Liverpool 20-21 EPL Performance](https://rodserr.github.io/logbook/posts/2021-05-31-liverpool-20-21-epl-performance/)
 
+![A map of football player shots on goal](https://raw.githubusercontent.com/rweekly/image/master/2021/W23/shot_map.png)
+
 + [Using {sf} to calculate catchment areas](https://nhsrcommunity.com/blog/using-sf-to-calculate-catchment-areas/)
 
+![A map of UK health facility catchment areas](https://raw.githubusercontent.com/rweekly/image/master/2021/W23/catchment_areas.png)
 
 ###  R in Academia
 
@@ -123,10 +130,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Episode 61 of TidyX Data Cleaning - Regular expressions ](https://youtu.be/4HLXfpDVb-o)
 
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [Recreating a Shiny App with Flask](https://www.jumpingrivers.com/blog/r-shiny-python-flask/)
@@ -162,6 +165,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [summarize in r, Data Summarization In R](https://finnstats.com/index.php/2021/06/01/summarize-in-r-data-summarization-in-r/)
 
 + [Custom interactive sunbursts with ggplot in R](https://www.pipinghotdata.com/posts/2021-06-01-custom-interactive-sunbursts-with-ggplot-in-r)
+
+![A 'Sunburst' plot made with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2021/W23/sunburst.png)
 
 + [ivreg: Two-stage least-squares regression with diagnostics](https://www.zeileis.org/news/ivreg/)
 
