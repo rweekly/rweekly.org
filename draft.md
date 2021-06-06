@@ -70,6 +70,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
++ [Automating business processes with R (Video) - Frans van Dunné (Cleveland R User Group)](https://youtu.be/WyUpLE8e2J4)
 
 
 ### Gist & Cookbook
