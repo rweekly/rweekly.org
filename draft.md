@@ -87,9 +87,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{sparseGAM} 1.0](https://cran.r-project.org/package=sparseGAM): Sparse Generalized Additive Models
 
-**BioC**
++ [{additive} 0.0.1](https://cran.r-project.org/package=additive): Bindings for Generalized Additive Models (GAM)
 
++ [{icecream} 0.1.1](https://cran.r-project.org/package=icecream): Print Debugging Made Sweeter
+
++ [{valse} 0.1-0](https://cran.r-project.org/package=valse): Variable Selection with Mixture of Models
+
++ [{flipbookr} 0.1.0](https://cran.r-project.org/package=flipbookr): Parses Code, Creates Partial Code Builds, Delivers Code Movie
+
++ [{sitsfeats} 0.0.1](https://cran.r-project.org/package=sitsfeats): Satellite Image Time Series Features
 
 **GitHub or Bitbucket**
 
