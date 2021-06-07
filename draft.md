@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2021-W23
+title: R Weekly 2021-W23 Reusing chunk options, VSCode 2021, hello {gggrid}
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -14,7 +14,11 @@ This week’s release was curated by [Miles McBain](https://milesmcbain.com), wi
 
 ###  Highlight
 
++ [Reusing Code Chunks and Chunk Options with knitr](https://yihui.org/en/2021/05/knitr-reuse/)
 
++ [R in 2021 with VSCode](https://datamares.netlify.app/en/post/r-vscode/)
+ 
++ ['gggrid' it's g-g-great! Accessing 'grid' from 'ggplot2'](https://www.stat.auckland.ac.nz/~paul/Reports/gggrid/gggrid.html)
 
 ### Insights
 
@@ -170,9 +174,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [R Lille Meetup: "Reproducible Computation at Scale in R with {targets}"](https://www.meetup.com/R-Lille/events/277902715/)
-
-
-### Datasets
 
 
 
