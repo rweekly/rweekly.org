@@ -1,7 +1,6 @@
 ---
-layout: draft
 title: R Weekly 2021-W23 Reusing chunk options, VSCode-R 2021, hello {gggrid}
-description: Draft of the R Weekly
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
