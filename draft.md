@@ -30,8 +30,6 @@ This week’s release was curated by [Miles McBain](https://milesmcbain.com), wi
 
 ![A scatterplot map in 'firefly' style of earthquake locations](https://raw.githubusercontent.com/rweekly/image/master/2021/W23/earthquakes.png)
 
-+ [How and When to Control for Confounders During Product Usage Analyses](https://heap.io/blog/control-for-confounders-during-product-usage-analyses)
-
 + [Cluster Meaning-Cluster or area sampling in a nutshell](https://finnstats.com/index.php/2021/06/04/cluster-meaning-cluster-analysis-in-r/)
 
 + [Building your own knitr compile farm on your Raspberry Pi with {plumber}](https://www.brodrigues.co/blog/2021-06-04-own_knit_server/)
@@ -57,10 +55,6 @@ This week’s release was curated by [Miles McBain](https://milesmcbain.com), wi
 + [Bayesian analysis of the 'Facial Feedback Hypothesis'](https://joshuacook.netlify.app/project/wagenmaker-analysis/)
 
 + [blogdown: Knit on Save, or Save on Knit?](https://yihui.org/en/2021/05/blogdown-knit-save/)
-
-+ [Mario Kart 64 World Records](https://jmablog.com/post/mario-kart/)
-
-+ [Bioconductor Asia Membership Increasing Due to Going Virtual](https://www.r-consortium.org/blog/2021/05/28/bioconductor-asia-membership-increasing-due-to-going-virtual)
 
 ### R in the Real World
 
@@ -134,8 +128,6 @@ This week’s release was curated by [Miles McBain](https://milesmcbain.com), wi
 
 + [Recreating a Shiny App with Flask](https://www.jumpingrivers.com/blog/r-shiny-python-flask/)
 
-+ [GooglyPlusPlus2021 is now fully interactive!!!](https://gigadom.in/2021/05/29/googlyplusplus2021-is-now-fully-interactive/)
-
 ### R Internationally
 
 + [Cartografía firefly (Spanish)](https://dominicroye.github.io/es/2021/cartograf%C3%ADa-firefly/)
@@ -144,19 +136,11 @@ This week’s release was curated by [Miles McBain](https://milesmcbain.com), wi
 
 ###  Tutorials
 
-+ [do.call / lapply](https://shikokuchuo.net/posts/09-docall-lapply/)
-
-+ [Map Symbols and Size Legends for leaflet](https://roh.engineering/posts/2021/05/map-symbols-and-size-legends-for-leaflet/)
-
 + [Create machine learning models: An R version](https://rpubs.com/eR_ic/exploRe)
 
 + [An ELT from scratch with {googleCloudRunner}, Docker, Google Cloud Platform and R](https://www.davidsolito.com/post/2021-05-30-an-elt-from-scratch-with-googlecloudrunner-docker-google-cloud-platform-and-r/)
 
 + [Create a cv using {datadrivencv} by Nicholas Strayer](https://bit.ly/datadrivencv)
-
-+ [datatable DT Package in R](https://finnstats.com/index.php/2021/05/27/datatable-editor-dt-package-in-r/)
-
-+ [Double Machine Learning - An Easy Introduction in R](http://dm13450.github.io/2021/05/28/Double-ML.html)
 
 + [Mind the Gap – Safely Incorporating Deep Learning Models into the Actuarial Toolkit](http://ronaldrichman.co.za/2021/06/02/mind-the-gap-safely-incorporating-deep-learning-models-into-the-actuarial-toolkit/)
 
