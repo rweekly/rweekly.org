@@ -92,6 +92,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Shiny in Production: Database Transactions](https://roh.engineering/posts/2021/06/shiny-in-production-database-transactions/)
+
 + [Everybody Loves Raymond: Running Animal Crossing Villagers through the Google Vision API](https://mdneuzerling.com/post/everybody-loves-raymond-running-animal-crossing-villagers-through-the-google-vision-api/)
 
 + [Don't forget your inits](https://solomonkurz.netlify.app/post/2021-06-05-don-t-forget-your-inits/)
