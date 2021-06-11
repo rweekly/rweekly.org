@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [Shiny Developer Series Episode 21](https://www.youtube.com/watch?v=84Vg7HKzd2E): RStudio software engineer Nick Strayer returns to share how he arrived to RStudio and motivations behind the new Shiny App Stories.
 
 ### Gist & Cookbook
 
