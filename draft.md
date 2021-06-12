@@ -52,6 +52,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Celebrating World Ocean Day rOpenSci Style](https://ropensci.org/blog/2021/06/08/world-ocean-day/)
 
++ [Texas winter storm excess deaths analysis](https://buzzfeednews.github.io/2021-05-tx-winter-storm-deaths/)
+
 ###  R in Organizations
 
 
@@ -82,6 +84,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 + [{ComplexUpset} 1.3.0](https://cran.r-project.org/package=ComplexUpset)
 
 + [{gghighlight} 0.3.2](https://cran.r-project.org/package=gghighlight)
+
++ [progressr 0.8.0: RStudio's progress bar, Shiny progress updates, and absolute progress](https://www.jottr.org/2021/06/11/progressr-0.8.0/)
 
 ###  Videos and Podcasts
 
@@ -118,7 +122,9 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Financial X-Rays: Dissect any Price Series with a simple Payoff Diagram](https://blog.ephorie.de/financial-x-rays-dissect-any-price-series-with-a-simple-payoff-diagram?utm_source=rss&utm_medium=rss&utm_campaign=financial-x-rays-dissect-any-price-series-with-a-simple-payoff-diagram)
 
-+ [progressr 0.8.0: RStudio's progress bar, Shiny progress updates, and absolute progress](https://www.jottr.org/2021/06/11/progressr-0.8.0/)
++ [Stream makes a streamplot](https://www.jessemaegan.com/blog/streamplot-walkthrough/)
+
++ [Estimating multilevel models for change in R](https://www.alexcernat.com/etimating-multilevel-models-for-change-in-r/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -130,6 +136,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [R in spoRts analytics!](https://www.meetup.com/RStudio-Enterprise-Community-Meetup/events/275970007/)
 
 + [Upcoming Webinar - Incorporating R into your Clinical Legacy Workflows](https://blog.rstudio.com/2021/06/08/incorporating-r-into-your-clinical-legacy-workflows/)
 
@@ -154,3 +162,6 @@ Events in 3 Months:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How much do you need to earn to be able to buy the average house in your region? <br>I saw an equivalent map for the US and decided to replicate it for NZ. Based on the common financial advice that you shouldn&#39;t spend more than 30% of your income on your housing. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/rspatial?src=hash&amp;ref_src=twsrc%5Etfw">#rspatial</a> <a href="https://t.co/sUvLWT2QoJ">pic.twitter.com/sUvLWT2QoJ</a></p>&mdash; Emma Vitz (@EmmaVitz) <a href="https://twitter.com/EmmaVitz/status/1402503179086950402?ref_src=twsrc%5Etfw">June 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Oh, you write R code? Well how about I follow you and like all your tweets 😤</p>&mdash; Afton Leigh Coombs (@aftonsteps) <a href="https://twitter.com/aftonsteps/status/1403363169100173312?ref_src=twsrc%5Etfw">June 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It is what it is. <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/RStudio?src=hash&amp;ref_src=twsrc%5Etfw">#RStudio</a> <a href="https://twitter.com/hashtag/poptwitter?src=hash&amp;ref_src=twsrc%5Etfw">#poptwitter</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> <a href="https://t.co/bDLSEDm2LV">pic.twitter.com/bDLSEDm2LV</a></p>&mdash; Corina McCullough Vidal, M.S. (@demography101) <a href="https://twitter.com/demography101/status/1402294683712294915?ref_src=twsrc%5Etfw">June 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
