@@ -5,16 +5,17 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr), with help from the R Weekly team members and contributors.
 
-
-
 ###  Highlight
 
++ [Everybody Loves Raymond: Running Animal Crossing Villagers through the Google Vision API](https://mdneuzerling.com/post/everybody-loves-raymond-running-animal-crossing-villagers-through-the-google-vision-api/)
 
++ [Shiny Developer Series Episode 21](https://www.youtube.com/watch?v=84Vg7HKzd2E): RStudio software engineer Nick Strayer returns to share how he arrived to RStudio and motivations behind the new Shiny App Stories.
+
++ [Shiny in Production: Database Transactions](https://roh.engineering/posts/2021/06/shiny-in-production-database-transactions/)
 
 ### Insights
 
@@ -54,38 +55,37 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Texas winter storm excess deaths analysis](https://buzzfeednews.github.io/2021-05-tx-winter-storm-deaths/)
 
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
-
-###  Resources
-
-
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
 
++ [{fitbitr} 0.1.0](https://cran.r-project.org/package=fitbitr): Interface with the 'Fitbit' API
++ [{daiR} 0.9.0](https://cran.r-project.org/package=daiR): Interface with Google Cloud Document AI API
++ [{mcboost} 0.3.0](https://cran.r-project.org/package=mcboost): Multi-Calibration Boosting
++ [{jackstraw} 1.3.1](https://cran.r-project.org/package=jackstraw): Statistical Inference for Unsupervised Learning
 
 **GitHub or Bitbucket**
 
 + [{codehover}](https://github.com/arthurwelle/codehover/): Hoverable HTML Table for Displaying Intermediary Code Results (e.g. Pipes)
-
 + [{plotme}](https://github.com/yogevherz/plotme): Human friendly interface for plots that are otherwise quite hard to create in R (e.g. sunburst)
 
 ### Updated Packages
 
 + [{ComplexUpset} 1.3.0](https://cran.r-project.org/package=ComplexUpset)
-
 + [{gghighlight} 0.3.2](https://cran.r-project.org/package=gghighlight)
-
 + [progressr 0.8.0: RStudio's progress bar, Shiny progress updates, and absolute progress](https://www.jottr.org/2021/06/11/progressr-0.8.0/)
++ [{mapsapi} 0.4.9](https://cran.r-project.org/package=mapsapi): 'sf'-Compatible Interface to 'Google Maps' APIs
++ [{themis} 0.1.4](https://cran.r-project.org/package=themis): Extra Recipes Steps for Dealing with Unbalanced Data
++ [{wrapr} 2.0.8](https://cran.r-project.org/package=wrapr): Wrap R Tools for Debugging and Parametric Programming
++ [{cdata} 1.2.0](https://cran.r-project.org/package=cdata): Fluid Data Transformations
++ [{torch} 0.4.0](https://cran.r-project.org/package=torch): Tensors and Neural Networks with 'GPU' Acceleration
++ [{mlr3data} 0.4.0](https://cran.r-project.org/package=mlr3data): Collection of Machine Learning Data Sets for 'mlr3'
++ [{radiant} 1.4.0](https://cran.r-project.org/package=radiant): Business Analytics using R and Shiny
++ [{sparklyr} 1.7.0](https://cran.r-project.org/package=sparklyr): R Interface to Apache Spark
++ [{tidyBF} 0.5.1](https://cran.r-project.org/package=tidyBF): Tidy Wrapper for 'BayesFactor' Package
++ [{ffscrapr} 1.4.3](https://cran.r-project.org/package=ffscrapr): API Client for Fantasy Football League Platforms
 
 ###  Videos and Podcasts
 
@@ -99,14 +99,6 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 ### Gist & Cookbook
 
 + [Modeling and simulation of the Euro Cup by Luke Benz](https://github.com/lbenz730/euro_cup_2021)
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ###  Tutorials
 
@@ -125,6 +117,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 + [Stream makes a streamplot](https://www.jessemaegan.com/blog/streamplot-walkthrough/)
 
 + [Estimating multilevel models for change in R](https://www.alexcernat.com/etimating-multilevel-models-for-change-in-r/)
+
++ [Hierarchical forecasting of hospital admissions](https://notast.netlify.app/post/2021-06-03-hierarchical-forecasting-of-hospital-admissions/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
