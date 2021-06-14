@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: R Weekly 2021-W24
-description: Draft of the R Weekly
+description: Google Vision API, Shiny App Stories, Shiny + DB Transactions
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -41,6 +41,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Estimating win probability from best-of-7 series is not straightforward](https://statisticaloddsandends.wordpress.com/2021/06/08/estimating-win-probability-from-best-of-7-series-is-not-straightforward/)
 
+![Illustration of how Win Probability Differences](https://raw.githubusercontent.com/rweekly/image/master/2021/W24/estimate-wp.png)
+
 + [FPL – Point Project Part 3](https://theparttimeanalyst.com/2021/06/08/fpl-point-project-part-3/)
 
 + [Return based quality factor on Warsaw Stock Exchange](https://m-dadej.github.io//blog-post-2/)
@@ -48,6 +50,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 + [Hybrid machine learning forecasts for the UEFA Euro 2020](https://www.zeileis.org/news/euro2020/)
 
 + [The evolution of squad compositions at UEFA European Championships](https://guyabel.com/post/uefa-ec-chord-diagram/)
+
+![Chord Diagram showing Euros Squad Composition](https://raw.githubusercontent.com/rweekly/image/master/2021/W24/uefa-ec-chord-diagram.png)
 
 + [Shiny in Production: Database Transactions](https://roh.engineering/posts/2021/06/shiny-in-production-database-transactions/)
 
@@ -73,9 +77,12 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ### Updated Packages
 
-+ [{ComplexUpset} 1.3.0](https://cran.r-project.org/package=ComplexUpset)
-+ [{gghighlight} 0.3.2](https://cran.r-project.org/package=gghighlight)
-+ [progressr 0.8.0: RStudio's progress bar, Shiny progress updates, and absolute progress](https://www.jottr.org/2021/06/11/progressr-0.8.0/)
++ [{ComplexUpset} 1.3.0](https://cran.r-project.org/package=ComplexUpset): Create Complex UpSet Plots Using 'ggplot2' Components
+
+![ComplexUpset package example](https://raw.githubusercontent.com/rweekly/image/master/2021/W24/complex-upset.png)
+
++ [{gghighlight} 0.3.2](https://cran.r-project.org/package=gghighlight): Highlight Lines and Points in 'ggplot2'
++ [{progressr} 0.8.0:](https://www.jottr.org/2021/06/11/progressr-0.8.0/): An Inclusive, Unifying API for Progress Updates
 + [{mapsapi} 0.4.9](https://cran.r-project.org/package=mapsapi): 'sf'-Compatible Interface to 'Google Maps' APIs
 + [{themis} 0.1.4](https://cran.r-project.org/package=themis): Extra Recipes Steps for Dealing with Unbalanced Data
 + [{wrapr} 2.0.8](https://cran.r-project.org/package=wrapr): Wrap R Tools for Debugging and Parametric Programming
@@ -102,11 +109,11 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ###  Tutorials
 
-+ [Everybody Loves Raymond: Running Animal Crossing Villagers through the Google Vision API](https://mdneuzerling.com/post/everybody-loves-raymond-running-animal-crossing-villagers-through-the-google-vision-api/)
-
 + [Don't forget your inits](https://solomonkurz.netlify.app/post/2021-06-05-don-t-forget-your-inits/)
 
-+ [Visualizing Distributions with Raincloud Plots with ggplot2](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-with-ggplot2/)
+![Charts of Bayesian trials estimation related to initial assumptions](https://raw.githubusercontent.com/rweekly/image/master/2021/W24/inits.png)
+
++ [Everybody Loves Raymond: Running Animal Crossing Villagers through the Google Vision API](https://mdneuzerling.com/post/everybody-loves-raymond-running-animal-crossing-villagers-through-the-google-vision-api/)
 
 + [Using Geospatial Data in R](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/geospatial-data/)
 
@@ -119,6 +126,11 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 + [Estimating multilevel models for change in R](https://www.alexcernat.com/etimating-multilevel-models-for-change-in-r/)
 
 + [Hierarchical forecasting of hospital admissions](https://notast.netlify.app/post/2021-06-03-hierarchical-forecasting-of-hospital-admissions/)
+
++ [Visualizing Distributions with Raincloud Plots with ggplot2](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-with-ggplot2/)
+
+![Charts of Boxplot and Raincloud](https://raw.githubusercontent.com/rweekly/image/master/2021/W24/raincloud.png)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
