@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [rstudio-themes](https://github.com/max-alletsee/rstudio-themes) - a collection of 211 user-made themes for RStudio, incl. direkt links and screenshots where available
 
 ###  New Packages
 
