@@ -56,7 +56,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{ichimoku} 0.2.0](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
 
-![](https://shikokuchuo.net/ichimoku/reference/figures/README-plot-1.png)
 
 ###  Videos and Podcasts
 
