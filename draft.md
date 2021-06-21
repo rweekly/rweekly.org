@@ -139,6 +139,10 @@ Events in 3 Months:
 
 ### Datasets
 
+### R Internationally
+
++ [البرمجة الوظيفية : سر قوة لغةالآر](https://www.arabiananalyst.com/2021/05/17/2021-05-17-functional-programming/)
+
 ### Jobs
 
 + [Senior Teaching Associate in Quantitative Methods in Archaeology and Biological Anthropology](https://www.jobs.cam.ac.uk/job/30227/)
