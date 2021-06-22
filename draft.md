@@ -55,6 +55,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
++ [A Half-hour to Learn R](http://karolis.koncevicius.lt/posts/a_half_hour_to_learn_r/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
