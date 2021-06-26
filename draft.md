@@ -101,6 +101,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+### R Internationally
+
++ [البرمجة الوظيفية : سر قوة لغة الآر](https://www.arabiananalyst.com/2021/05/17/2021-05-17-functional-programming/)
+
 
 ###  Upcoming Events in 3 Months
 
