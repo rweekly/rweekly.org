@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Analyzing your run data with R](https://www.inpredictable.com/2021/06/analyzing-your-run-data-with-r.html)
 
 ###  R in Organizations
 
