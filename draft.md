@@ -54,6 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [{wpa} 1.6.0](https://cran.r-project.org/package=wpa): Tools for Analysing and Visualising Data from Workplace Analytics 
 
 
 ###  Videos and Podcasts
