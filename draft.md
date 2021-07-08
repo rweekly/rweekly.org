@@ -59,7 +59,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [Setting the foundation for your OBS Studio setup](https://www.youtube.com/watch?v=fkvQ_lAGvFQ): Eric Nantz shares best practices and tips for setting up OBS Studio for success in producing video content showcasing R analyses.
 
 ### Gist & Cookbook
 
