@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Rcpp 1.0.7: More Updates](http://dirk.eddelbuettel.com/blog/2021/07/07#rcpp_1.0.7)
 + [sparklyr 1.7: New data sources and spark_apply() capabilities, better interfaces for sparklyr extensions, and more!](https://blogs.rstudio.com/tensorflow/posts/2021-07-06-sparklyr-1.7.0-released)
 + [Walkthrough UbiOps and Tidymodels](https://blog.rmhogervorst.nl/blog/2021/07/06/walkthrough-ubiops-and-tidymodels/)
-+ [📢 "A Quick How-To on Labelling Bar Graphs in #ggplot2" 🔗 An email request that turned into a blog post! The short tutorial shows you multiple ways how to add direct labels and how to use a custom palette. #rstats #datascience #r4ds #tidyverse (posted by @CedScherer)](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/) [tweet](https://twitter.com/3092381638/status/1412155720305414144)
++ [📢 "A Quick How-To on Labelling Bar Graphs in #ggplot2" 🔗 An email request that turned into a blog post! The short tutorial shows you multiple ways how to add direct labels and how to use a custom palette](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/) [tweet](https://twitter.com/3092381638/status/1412155720305414144)
 + [{fusen} 0.2.2](https://cran.r-project.org/package=fusen): Build a Package from Rmarkdown File
 + [{wpa} 1.6.0](https://cran.r-project.org/package=wpa): Tools for Analysing and Visualising Data from Workplace Analytics 
 + [{r02pro} 0.1](https://cran.r-project.org/package=r02pro): R Programming: Zero to Pro
