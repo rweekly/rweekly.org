@@ -42,7 +42,7 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [{fusen} 0.2.2](https://cran.r-project.org/package=fusen): Build a Package from Rmarkdown File
 
-![fusen logo which is a hexagone with package inside it](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/resise_logo.png)
+![fusen logo which is a blue hexagone with package inside it](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/logo-fusen_resized.png)
 
 + [R-Object to R-Object Hash Maps]( https://CRAN.R-project.org/package=r2r) 
 
@@ -74,7 +74,7 @@ Modeling
 
 + [{wpa} 1.6.0](https://cran.r-project.org/package=wpa): Tools for Analysing and Visualising Data from Workplace Analytics 
 
-![a gif from wpa showing some of the finctionality of wpa](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/wpa.gif)
+![a gif from wpa showing how to load the pakage and an example of how to generate prebuilt interactive HTML reports](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/wpa.gif)
 
 + [ttdo 0.0.7: Small tinytest update](http://dirk.eddelbuettel.com/blog/2021/07/06#ttdo_0.0.7)
 
@@ -99,11 +99,7 @@ Modeling
 
 + [📢 "A Quick How-To on Labelling Bar Graphs in #ggplot2" 🔗 An email request that turned into a blog post!](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/)
 
-![A plot from cedric scherer tutorial - the plot text is in german](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/csher_tutorila.png)
-
-+ [Writing reproducible manuscripts in R by Shilaan Alzahawi](https://shilaan.rbind.io/post/writing-reproducible-manuscripts-in-r/)
-
-![an image showing how yaml files are written in R Markdown](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/reproducible-tutorial.png)
+![A plot from cedric scherer tutorial - it is a bar chart which was made for kuendigung.org - sorry, I can't explain the text because it's in german but overall he used 3 different colours (yellow, purple and red to highlight the top 3 and the rest of the bars are coloured by grey - in the tutorial he explains how to create a bar plot with individual colors and add the labels within the bars](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/csher_tutorila.png)
 
 + [sparklyr 1.7: New data sources and spark_apply() capabilities, better interfaces for sparklyr extensions, and more!](https://blogs.rstudio.com/tensorflow/posts/2021-07-06-sparklyr-1.7.0-released)
 
@@ -112,6 +108,11 @@ Modeling
 + [BERT, reticulate & lexical semantics](https://jtimm.net/2021/07/09/bert-reticulate-lexical-semantics/)
 
 + [Using different fonts with ggplot2](https://statisticaloddsandends.wordpress.com/2021/07/08/using-different-fonts-with-ggplot2/)
+
++ [Writing reproducible manuscripts in R by Shilaan Alzahawi](https://shilaan.rbind.io/post/writing-reproducible-manuscripts-in-r/)
+
+![an image showing how yaml are written in R Markdown to make reproducible workflow- it describe how the title , author and other pararmeters are added - there's a video in the blog post](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/reproducible-tutorial.png)
+
 
 + [sparklyr.sedona: A sparklyr extension for analyzing geospatial data](https://blogs.rstudio.com/tensorflow/posts/2021-07-07-sparklyr-sedona)
 
@@ -150,6 +151,7 @@ Events in 3 Months:
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big thank you to the whole <a href="https://twitter.com/_useRconf?ref_src=twsrc%5Etfw">@_useRconf</a> team for a great <a href="https://twitter.com/hashtag/useR2021?src=hash&amp;ref_src=twsrc%5Etfw">#useR2021</a>!<br><br>I remember when the Zurich team had to decide whether to go hybrid (ie w/ 2 &quot;classes&quot; of participants) or fully online to turn it into the most international, diverse, and inclusive useR! ever.<br><br>And WOW they did! <a href="https://t.co/Ws5Dynlsse">pic.twitter.com/Ws5Dynlsse</a></p>&mdash; Achim Zeileis (@AchimZeileis) <a href="https://twitter.com/AchimZeileis/status/1414241171887595521?ref_src=twsrc%5Etfw">July 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/_useRconf?ref_src=twsrc%5Etfw">@_useRconf</a> <a href="https://twitter.com/hashtag/a11y?src=hash&amp;ref_src=twsrc%5Etfw">#a11y</a> the people here carefully followed the conference’s accessibility guidelines for their slides. Many of them were using rmarkdown/Xaringan for the first time!<br>Please do use their work as examples when you try to improve your presentations! <a href="https://t.co/MxJ8Wvmk6w">https://t.co/MxJ8Wvmk6w</a></p>&mdash; Liz Hare PhD @ UseR! 2021 (@DogGeneticsLLC) <a href="https://twitter.com/DogGeneticsLLC/status/1413692662285279241?ref_src=twsrc%5Etfw">July 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
