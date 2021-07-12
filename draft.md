@@ -45,6 +45,8 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [{fusen} 0.2.2](https://cran.r-project.org/package=fusen): Build a Package from Rmarkdown File
 
+![fusen logo which is a hexagone with package inside it](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/logo-fuset.png)
+
 + [R-Object to R-Object Hash Maps]( https://CRAN.R-project.org/package=r2r) 
 
 + [{r02pro} 0.1](https://cran.r-project.org/package=r02pro): R Programming: Zero to Pro
@@ -75,6 +77,8 @@ Modeling
 
 + [{wpa} 1.6.0](https://cran.r-project.org/package=wpa): Tools for Analysing and Visualising Data from Workplace Analytics 
 
+![a gif from wpa showing some of the finctionality of wpa](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/wpa.gif)
+
 + [ttdo 0.0.7: Small tinytest update](http://dirk.eddelbuettel.com/blog/2021/07/06#ttdo_0.0.7)
 
 
@@ -89,13 +93,20 @@ Modeling
 
 + [The Magical R Community Explorer](https://r-community.org/usergroups/)
 
+![The globe in the landpage of the R community shiny app](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/globe.png)
+
+
 ###  Tutorials
 
 + [Exploratory Functional PCA  with Sparse Data](https://rviews.rstudio.com/2021/07/08/exploratory-fda-with-sparse-data/)
 
 + [📢 "A Quick How-To on Labelling Bar Graphs in #ggplot2" 🔗 An email request that turned into a blog post!](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/)
 
+![A plot from cedric scherer tutorial - the plot text is in german](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/csher_tutorila.png)
+
 + [Writing reproducible manuscripts in R by Shilaan Alzahawi](https://shilaan.rbind.io/post/writing-reproducible-manuscripts-in-r/)
+
+![an image showing how yaml files are written in R Markdown](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/reproducible-tutorial.png)
 
 + [sparklyr 1.7: New data sources and spark_apply() capabilities, better interfaces for sparklyr extensions, and more!](https://blogs.rstudio.com/tensorflow/posts/2021-07-06-sparklyr-1.7.0-released)
 
