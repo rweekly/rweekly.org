@@ -43,6 +43,8 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 **CRAN**
 
++ [{fusen} 0.2.2](https://cran.r-project.org/package=fusen): Build a Package from Rmarkdown File
+
 + [R-Object to R-Object Hash Maps]( https://CRAN.R-project.org/package=r2r) 
 
 + [{r02pro} 0.1](https://cran.r-project.org/package=r02pro): R Programming: Zero to Pro
@@ -116,6 +118,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [Check out R calander in the R Community Explorer](https://r-community.org/events/calendar/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/virtual-events.html)
 
