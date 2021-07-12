@@ -42,7 +42,7 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [{fusen} 0.2.2](https://cran.r-project.org/package=fusen): Build a Package from Rmarkdown File
 
-![fusen logo which is a hexagone with package inside it](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/logo-fusen.png)
+![fusen logo which is a hexagone with package inside it](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/resise_logo.png)
 
 + [R-Object to R-Object Hash Maps]( https://CRAN.R-project.org/package=r2r) 
 
