@@ -5,7 +5,6 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Batool Almarzouq](https://github.com/BatoolMM), with help from the R Weekly team members and contributors.
@@ -15,13 +14,11 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [{fusen} 0.2.2](https://cran.r-project.org/package=fusen): Build a Package from Rmarkdown File
 
-+ [googledrive 2.0.0](https://www.tidyverse.org/blog/2021/07/googledrive-2-0-0/)
-
++ [googledrive 2.0.0](https://www.tidyverse.org/blog/2021/07/googledrive-2-0-0/) 
 
 ### Insights
 
 + [Little useless-useful R functions – Inserting variable values into strings](https://tomaztsql.wordpress.com/2021/07/09/little-useless-useful-r-functions-inserting-variable-values-into-strings/)
-
 
 ### R in the Real World
 
@@ -45,7 +42,7 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [{fusen} 0.2.2](https://cran.r-project.org/package=fusen): Build a Package from Rmarkdown File
 
-![fusen logo which is a hexagone with package inside it](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/logo-fuset.png)
+![fusen logo which is a hexagone with package inside it](https://raw.githubusercontent.com/rweekly/image/master/2021-07-12/logo-fusen.png)
 
 + [R-Object to R-Object Hash Maps]( https://CRAN.R-project.org/package=r2r) 
 
