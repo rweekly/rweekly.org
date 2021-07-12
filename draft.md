@@ -82,6 +82,8 @@ Modeling
 
 + [Setting the foundation for your OBS Studio setup](https://www.youtube.com/watch?v=fkvQ_lAGvFQ): Eric Nantz shares best practices and tips for setting up OBS Studio for success in producing video content showcasing R analyses.
 
++ [Episode 1 of three where Patrick Ward and Ellis Hughes work on parsing data out from an excel file for downstream eprocessing](https://bit.ly/TidyX_Ep64) 
+
 
 ### Shiny Apps
 
@@ -104,8 +106,6 @@ Modeling
 + [Using different fonts with ggplot2](https://statisticaloddsandends.wordpress.com/2021/07/08/using-different-fonts-with-ggplot2/)
 
 + [sparklyr.sedona: A sparklyr extension for analyzing geospatial data](https://blogs.rstudio.com/tensorflow/posts/2021-07-07-sparklyr-sedona)
-
-+ [Episode 1 of three where Patrick Ward and Ellis Hughes work on parsing data out from an excel file for downstream eprocessing](https://bit.ly/TidyX_Ep64) 
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
