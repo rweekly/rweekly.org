@@ -29,9 +29,7 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [R for Water Resources Data Science introductory and intermediate course](https://r4wrds.com/)
 
-+ [𝐈𝐧𝐭𝐫𝐨 𝐭𝐨 𝐑 course by Fabio Votta - R basics](tinyurl.com/ds3rintro1)
-
-+ [𝐈𝐧𝐭𝐫𝐨 𝐭𝐨 𝐑 course by Fabio Votta - tidyverse](inyurl.com/ds3rintro2)
++ [𝐈𝐧𝐭𝐫𝐨 𝐭𝐨 𝐑 course by Fabio Votta](https://favstats.github.io/ds3_r_intro/#1)
 
 
 ###  New Packages
