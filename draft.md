@@ -60,7 +60,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [Shiny Developer Series episode 22: A fresh coat of Shiny theming with Carson Sievert](https://www.youtube.com/watch?v=xTafvYX3zmE)
 
 ### Gist & Cookbook
 
