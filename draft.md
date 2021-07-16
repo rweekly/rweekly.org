@@ -26,6 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Organizations
 
++ [Intro to R course by Fabio Votta](https://favstats.github.io/ds3_r_intro/#1)
 
 
 ###  R in Academia
