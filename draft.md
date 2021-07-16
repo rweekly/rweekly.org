@@ -42,6 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{bcputility} 0.1.0](https://cran.r-project.org/web/packages/bcputility/index.html): Wrapper for SQL Server bcp Utility
 
 
 **BioC**
