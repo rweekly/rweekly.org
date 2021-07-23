@@ -73,7 +73,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Tutorials
-
++ [Efficient R: Performant data.frame constructors - how and when to use an alternative to as.data.frame](https://shikokuchuo.net/posts/11-dataframes/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
