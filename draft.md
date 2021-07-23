@@ -54,6 +54,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [{leaflegend} 0.4.0](https://cran.r-project.org/web/packages/leaflegend/index.html): Provides extensions to the 'leaflet' package to customize legends with images, text styling, orientation, sizing, and symbology. ( cran.r-project.org ) 
+
 
 
 ###  Videos and Podcasts
