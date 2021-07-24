@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [YARDS - Yet Again: R + Data Science](https://yards.albert-rapp.de/)
 
 ###  New Packages
 
@@ -56,6 +56,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{leaflegend} 0.4.0](https://cran.r-project.org/web/packages/leaflegend/index.html): Provides extensions to the 'leaflet' package to customize legends with images, text styling, orientation, sizing, and symbology. ( cran.r-project.org ) 
 
++ [{ichimoku} 0.3.0](https://CRAN.R-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
 
 
 ###  Videos and Podcasts
@@ -75,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Tutorials
-
++ [Efficient R: Performant data.frame constructors - how and when to use an alternative to as.data.frame](https://shikokuchuo.net/posts/11-dataframes/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
