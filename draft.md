@@ -58,8 +58,6 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 **CRAN**
 
-+ [Blog post introducing the incidence2 package which provides functions and classes to compute, handle and visualise incidence from dated events](https://https://www.reconverse.org/posts/2021-07-13-introducing-incidence2/) 
-
 + [Introducing the incidence2 package which provides functions and classes to compute, handle and visualise incidence from dated events](https://www.reconverse.org/posts/2021-07-13-introducing-incidence2/) 
 
 + [{shinyauthr} 1.0.0](https://cran.r-project.org/web/packages/shinyauthr/index.html): Add in-app user authentication to 'shiny', allowing you to secure publicly hosted apps and build dynamic user interfaces from user information
@@ -114,9 +112,7 @@ Scores
 + [{dcurves} 0.2.0](https://cran.r-project.org/package=dcurves): Decision Curve Analysis for Model Evaluation
 + [{dbMC} 1.0.0](https://cran.r-project.org/package=dbMC): Confidence Interval for Matrix Completion via De-Biased
 Estimator
-+ [{tsentiment} 0.1.1](https://cran.r-project.org/package=tsentiment): Fetching Tweet Data for Sentiment Analysis
 + [{tidylda} 0.0.1](https://cran.r-project.org/package=tidylda): Latent Dirichlet Allocation Using 'tidyverse' Conventions
-+ [{SMME} 1.0.1](https://cran.r-project.org/package=SMME): Soft Maximin Estimation for Large Scale Heterogeneous Data
 + [{Rdiagnosislist} 0.2](https://cran.r-project.org/package=Rdiagnosislist): Manipulate SNOMED CT Diagnosis Lists
 + [{cns} 0.1.0](https://cran.r-project.org/package=cns): Color Naming System
 + [{tpn} 1.0](https://cran.r-project.org/package=tpn): Truncated Positive Normal Model and Extensions
@@ -125,12 +121,10 @@ Estimator
 + [{kinematics} 1.0.0](https://cran.r-project.org/package=kinematics): Studying Sampled Trajectories
 + [{fedstatAPIr} 0.1](https://cran.r-project.org/package=fedstatAPIr): Unofficial API for Fedstat (EMISS) for Automatic and Efficient
 Data Queries
-+ [{RstoxData} 1.2.1](https://cran.r-project.org/package=RstoxData): Tools to Read and Manipulate Fisheries Data
 + [{BGVAR} 2.2.4](https://cran.r-project.org/package=BGVAR): Bayesian Global Vector Autoregressions
 + [{nhdR} 0.5.6](https://cran.r-project.org/package=nhdR): Tools for Working with the National Hydrography Dataset
 + [{CKMRpop} 0.1.3](https://cran.r-project.org/package=CKMRpop): Forward-in-Time Simulation and Tallying of Pairwise
 Relationships
-+ [{spectre} 1.0.2](https://cran.r-project.org/package=spectre): Predict Regional Community Composition
 
 
 **GitHub or Bitbucket**
@@ -168,9 +162,6 @@ Relationships
 + [{ggmulti} 1.0.4](https://cran.r-project.org/package=ggmulti): High Dimensional Data Visualization
 + [{FoReco} 0.2.1](https://cran.r-project.org/package=FoReco): Point Forecast Reconciliation
 + [{bqror} 0.1.6](https://cran.r-project.org/package=bqror): Bayesian Quantile Regression for Ordinal Models
-+ [{blogdown} 1.4](https://cran.r-project.org/package=blogdown): Create Blogs and Websites with R Markdown
-+ [{bs4Dash} 2.0.2](https://cran.r-project.org/package=bs4Dash): A 'Bootstrap 4' Version of 'shinydashboard'
-+ [{tibble} 3.1.3](https://cran.r-project.org/package=tibble): Simple Data Frames
 + [{nodbi} 0.4.3](https://cran.r-project.org/package=nodbi): 'NoSQL' Database Connector
 + [{spant} 1.14.0](https://cran.r-project.org/package=spant): MR Spectroscopy Analysis Tools
 + [{wavScalogram} 1.1.1](https://cran.r-project.org/package=wavScalogram): Wavelet Scalogram Tools for Time Series Analysis
@@ -180,16 +171,11 @@ Relationships
 + [{ggtern} 3.3.5](https://cran.r-project.org/package=ggtern): An Extension to 'ggplot2', for the Creation of Ternary Diagrams
 + [{blob} 1.2.2](https://cran.r-project.org/package=blob): A Simple S3 Class for Representing Vectors of Binary Data
 ('BLOBS')
-+ [{sovereign} 1.2.0](https://cran.r-project.org/package=sovereign): State-Dependent Empirical Analysis
 + [{leaflegend} 0.4.0](https://cran.r-project.org/package=leaflegend): Add Custom Legends to 'leaflet' Maps
 + [{ivsacim} 1.3](https://cran.r-project.org/package=ivsacim): Structural Additive Cumulative Intensity Models with IV
 + [{Rchoice} 0.3-3](https://cran.r-project.org/package=Rchoice): Discrete Choice (Binary, Poisson and Ordered) Models with Random
 Parameters
 + [{Lock5Data} 3.0.0](https://cran.r-project.org/package=Lock5Data): Datasets for "Statistics: UnLocking the Power of Data"
-+ [{geobr} 1.6.4](https://cran.r-project.org/package=geobr): Download Official Spatial Data Sets of Brazil
-+ [{rstudio.prefs} 0.1.5](https://cran.r-project.org/package=rstudio.prefs): Set 'RStudio' Preferences
-+ [{clock} 0.4.0](https://cran.r-project.org/package=clock): Date-Time Types and Tools
-+ [{starter} 0.1.5](https://cran.r-project.org/package=starter): Starter Kit for New Projects
 + [{mapping} 1.3](https://cran.r-project.org/package=mapping): Automatic Download, Linking, Manipulating Coordinates for Maps
 + [{PAFit} 1.1.0.4](https://cran.r-project.org/package=PAFit): Generative Mechanism Estimation in Temporal Complex Networks
 + [{shinyMobile} 0.9.0](https://cran.r-project.org/package=shinyMobile): Mobile Ready 'shiny' Apps with Standalone Capabilities
@@ -198,8 +184,6 @@ Parameters
 + [{workflowsets} 0.1.0](https://cran.r-project.org/package=workflowsets): Create a Collection of 'tidymodels' Workflows
 + [{sdcLog} 0.3.0](https://cran.r-project.org/package=sdcLog): Tools for Statistical Disclosure Control in Research Data
 Centers
-+ [{rasterVis} 0.50.3](https://cran.r-project.org/package=rasterVis): Visualization Methods for Raster Data
-+ [{ichimoku} 0.3.0](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
 + [{finbif} 0.6.0](https://cran.r-project.org/package=finbif): Interface for the 'Finnish Biodiversity Information Facility'
 API
 + [{VIM} 6.1.1](https://cran.r-project.org/package=VIM): Visualization and Imputation of Missing Values
@@ -219,7 +203,6 @@ Methods
 Expression Data
 + [{rgeoda} 0.0.8-3](https://cran.r-project.org/package=rgeoda): R Library for Spatial Data Analysis
 + [{PlanetNICFI} 1.0.3](https://cran.r-project.org/package=PlanetNICFI): Processing of the 'Planet NICFI' Satellite Imagery
-+ [{gitdown} 0.1.3](https://cran.r-project.org/package=gitdown): Turn Your Git Commit Messages into a HTML Book
 + [{garma} 0.9.8](https://cran.r-project.org/package=garma): Fitting and Forecasting Gegenbauer ARMA Time Series Models
 + [{dialrjars} 8.12.28](https://cran.r-project.org/package=dialrjars): Required 'libphonenumber' jars for the 'dialr' Package
 + [{RcppSpdlog} 0.0.6](https://cran.r-project.org/package=RcppSpdlog): 'spdlog' C++ Header Library for Logging
@@ -235,7 +218,6 @@ the Gram Matrix Decomposition
 + [{nmaINLA} 1.1.0](https://cran.r-project.org/package=nmaINLA): Network Meta-Analysis using Integrated Nested Laplace
 Approximations
 + [{geobr} 1.6.4](https://cran.r-project.org/package=geobr): Download Official Spatial Data Sets of Brazil
-+ [{CARlasso} 0.1.1](https://cran.r-project.org/package=CARlasso): Conditional Autoregressive LASSO
 + [{auk} 0.4.4](https://cran.r-project.org/package=auk): eBird Data Extraction and Processing in R
 + [{discrim} 0.1.3](https://cran.r-project.org/package=discrim): Model Wrappers for Discriminant Analysis
 + [{rjwsacruncher} 0.1.1](https://cran.r-project.org/package=rjwsacruncher): Interface to the 'JWSACruncher' of 'JDemetra+'
@@ -244,11 +226,9 @@ Approximations
 + [{finetune} 0.1.0](https://cran.r-project.org/package=finetune): Additional Functions for Model Tuning
 + [{disaggR} 1.0.1](https://cran.r-project.org/package=disaggR): Two-Steps Benchmarks for Time Series Disaggregation
 + [{MGBT} 1.0.7](https://cran.r-project.org/package=MGBT): Multiple Grubbs-Beck Low-Outlier Test
-+ [{googlesheets4} 1.0.0](https://cran.r-project.org/package=googlesheets4): Access Google Sheets using the Sheets API V4
 + [{targets} 0.6.0](https://cran.r-project.org/package=targets): Dynamic Function-Oriented 'Make'-Like Declarative Workflows
 + [{officer} 0.3.19](https://cran.r-project.org/package=officer): Manipulation of Microsoft Word and PowerPoint Documents
 + [{hereR} 0.7.1](https://cran.r-project.org/package=hereR): 'sf'-Based Interface to the 'HERE' REST APIs
-+ [{waiter} 0.2.3](https://cran.r-project.org/package=waiter): Loading Screen for 'Shiny'
 + [{tune} 0.1.6](https://cran.r-project.org/package=tune): Tidy Tuning Tools
 + [{ScottKnott} 1.3-0](https://cran.r-project.org/package=ScottKnott): The ScottKnott Clustering Algorithm
 + [{InterVA5} 1.1.3](https://cran.r-project.org/package=InterVA5): Replicate and Analyse 'InterVA5'
@@ -260,8 +240,6 @@ Approximations
 Models
 + [{mutualinf} 1.0.1](https://cran.r-project.org/package=mutualinf): Computation and Decomposition of the Mutual Information Index
 + [{Luminescence} 0.9.14](https://cran.r-project.org/package=Luminescence): Comprehensive Luminescence Dating Data Analysis
-+ [{vapour} 0.7.5](https://cran.r-project.org/package=vapour): Lightweight Access to the 'Geospatial Data Abstraction Library'
-('GDAL')
 + [{scoringutils} 0.1.7.2](https://cran.r-project.org/package=scoringutils): Utilities for Scoring and Assessing Predictions
 + [{parsnip} 0.1.7](https://cran.r-project.org/package=parsnip): A Common API to Modeling and Analysis Functions
 + [{matsbyname} 0.4.20](https://cran.r-project.org/package=matsbyname): An Implementation of Matrix Mathematics
@@ -271,9 +249,7 @@ Models
 + [{ggside} 0.1.2](https://cran.r-project.org/package=ggside): Side Grammar Graphics
 + [{regrrr} 0.1.2](https://cran.r-project.org/package=regrrr): Toolkit for Compiling, (Post-Hoc) Testing, and Plotting
 Regression Results
-+ [{afex} 1.0-1](https://cran.r-project.org/package=afex): Analysis of Factorial Experiments
 + [{performance} 0.7.3](https://cran.r-project.org/package=performance): Assessment of Regression Models Performance
-+ [{MultivariateAnalysis} 0.3.0](https://cran.r-project.org/package=MultivariateAnalysis): Pacote Para Analise Multivariada
 + [{clinUtils} 0.0.4](https://cran.r-project.org/package=clinUtils): General Utility Functions for Analysis of Clinical Data
 + [{isoWater} 1.0.1](https://cran.r-project.org/package=isoWater): Discovery, Retrieval, and Analysis of Water Isotope Data
 + [{paletteer} 1.4.0](https://cran.r-project.org/package=paletteer): Comprehensive Collection of Color Palettes
@@ -289,12 +265,10 @@ Activity Data
 + [{VAM} 0.5.3](https://cran.r-project.org/package=VAM): Variance-Adjusted Mahalanobis
 + [{RcppCWB} 0.4.3](https://cran.r-project.org/package=RcppCWB): 'Rcpp' Bindings for the 'Corpus Workbench' ('CWB')
 + [{jstable} 1.0.5](https://cran.r-project.org/package=jstable): Create Tables from Different Types of Regression
-+ [{ffscrapr} 1.4.4](https://cran.r-project.org/package=ffscrapr): API Client for Fantasy Football League Platforms
 + [{Temporal} 0.3.0](https://cran.r-project.org/package=Temporal): Parametric Time to Event Analysis
 + [{sivs} 0.2.5](https://cran.r-project.org/package=sivs): Stable Iterative Variable Selection
 + [{PROsetta} 0.3.2](https://cran.r-project.org/package=PROsetta): Linking Patient-Reported Outcomes Measures
 + [{IFAA} 1.0.2](https://cran.r-project.org/package=IFAA): Robust Analysis for Absolute Abundance in Microbiome
-+ [{ggside} 0.1.2](https://cran.r-project.org/package=ggside): Side Grammar Graphics
 + [{RVIpkg} 0.2.5](https://cran.r-project.org/package=RVIpkg): Regional Vulnerability Index
 + [{Numero} 1.8.2](https://cran.r-project.org/package=Numero): Statistical Framework to Define Subgroups in Complex Datasets
 + [{sbtools} 1.1.17](https://cran.r-project.org/package=sbtools): USGS ScienceBase Tools
@@ -307,7 +281,6 @@ Activity Data
 + [{DCEtool} 0.3.1](https://cran.r-project.org/package=DCEtool): Create, Survey and Analyse Discrete Choice Experiments
 + [{recometrics} 0.1.3](https://cran.r-project.org/package=recometrics): Evaluation Metrics for Implicit-Feedback Recommender Systems
 + [{funtimes} 8.0](https://cran.r-project.org/package=funtimes): Functions for Time Series Analysis
-+ [{BGVAR} 2.2.4](https://cran.r-project.org/package=BGVAR): Bayesian Global Vector Autoregressions
 + [{sdcHierarchies} 0.19.0](https://cran.r-project.org/package=sdcHierarchies): Create and (Interactively) Modify Nested Hierarchies
 + [{pkgKitten} 0.2.2](https://cran.r-project.org/package=pkgKitten): Create Simple Packages Which Do not Upset R Package Checks
 + [{vimp} 2.2.3](https://cran.r-project.org/package=vimp): Perform Inference on Algorithm-Agnostic Variable Importance
@@ -319,9 +292,7 @@ Data
 + [{bravo} 2.0.0](https://cran.r-project.org/package=bravo): Bayesian Screening and Variable Selection
 + [{blavaan} 0.3-17](https://cran.r-project.org/package=blavaan): Bayesian Latent Variable Analysis
 + [{IntCal} 0.2.1](https://cran.r-project.org/package=IntCal): Radiocarbon Calibration Curves
-+ [{elevatr} 0.4.1](https://cran.r-project.org/package=elevatr): Access Elevation Data from Various APIs
 + [{EdSurvey} 2.7.0](https://cran.r-project.org/package=EdSurvey): Analysis of NCES Education Survey and Assessment Data
-+ [{rgeoda} 0.0.8-3](https://cran.r-project.org/package=rgeoda): R Library for Spatial Data Analysis
 + [{pglm} 0.2-3](https://cran.r-project.org/package=pglm): Panel Generalized Linear Models
 + [{aldvmm} 0.8.4](https://cran.r-project.org/package=aldvmm): Adjusted Limited Dependent Variable Mixture Models
 + [{rmumps} 5.2.1-13](https://cran.r-project.org/package=rmumps): Wrapper for MUMPS Library
@@ -331,7 +302,6 @@ Survey (DHS) Data
 + [{shorts} 1.1.6](https://cran.r-project.org/package=shorts): Short Sprints
 + [{eatGADS} 0.17.0](https://cran.r-project.org/package=eatGADS): Data Management of Large Hierarchical Data
 + [{tramnet} 0.0-6](https://cran.r-project.org/package=tramnet): Penalized Transformation Models
-+ [{parallelly} 1.27.0](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
 + [{hypr} 0.2.2](https://cran.r-project.org/package=hypr): Hypothesis Matrix Translation
 + [{ggdist} 3.0.0](https://cran.r-project.org/package=ggdist): Visualizations of Distributions and Uncertainty
 + [{epiR} 2.0.31](https://cran.r-project.org/package=epiR): Tools for the Analysis of Epidemiological Data
@@ -348,8 +318,6 @@ Variations
 + [{stmgp} 1.0.4](https://cran.r-project.org/package=stmgp): Rapid and Accurate Genetic Prediction Modeling for Genome-Wide
 Association or Whole-Genome Sequencing Study Data
 + [{RMVL} 0.0.1.6](https://cran.r-project.org/package=RMVL): Mappable Vector Library for Handling Large Datasets
-+ [{tablet} 0.3.2](https://cran.r-project.org/package=tablet): Tabulate Descriptive Statistics in Multiple Formats
-+ [{matsbyname} 0.4.20](https://cran.r-project.org/package=matsbyname): An Implementation of Matrix Mathematics
 + [{agrmt} 1.42.7](https://cran.r-project.org/package=agrmt): Calculate Concentration and Dispersion in Ordered Rating Scales
 + [{RIA} 1.6.0](https://cran.r-project.org/package=RIA): Radiomics Image Analysis Toolbox for Medial Images
 + [{patentr} 0.1.2](https://cran.r-project.org/package=patentr): Access USPTO Bulk Data in Tidy Rectangular Format
@@ -358,16 +326,13 @@ Association or Whole-Genome Sequencing Study Data
 + [{comsimitv} 0.1.5](https://cran.r-project.org/package=comsimitv): Flexible Framework for Simulating Community Assembly
 + [{neatStats} 1.7.2](https://cran.r-project.org/package=neatStats): Neat and Painless Statistical Reporting
 + [{kindisperse} 0.10.1](https://cran.r-project.org/package=kindisperse): Simulate and Estimate Close-Kin Dispersal Kernels
-+ [{FSA} 0.9.1](https://cran.r-project.org/package=FSA): Simple Fisheries Stock Assessment Methods
 + [{brglm2} 0.8.0](https://cran.r-project.org/package=brglm2): Bias Reduction in Generalized Linear Models
 + [{ttdo} 0.0.8](https://cran.r-project.org/package=ttdo): Extend 'tinytest' with 'diffobj'
 + [{influential} 2.2.3](https://cran.r-project.org/package=influential): Identification and Classification of the Most Influential Nodes
 + [{plotmo} 3.6.1](https://cran.r-project.org/package=plotmo): Plot a Model's Residuals, Response, and Partial Dependence Plots
 + [{circletyper} 1.0.1](https://cran.r-project.org/package=circletyper): Curve Text Elements in 'Shiny' Using 'CircleType.js'
 + [{UCSCXenaTools} 1.4.6](https://cran.r-project.org/package=UCSCXenaTools): Download and Explore Datasets from UCSC Xena Data Hubs
-+ [{cli} 3.0.1](https://cran.r-project.org/package=cli): Helpers for Developing Command Line Interfaces
 + [{spatstat.linnet} 2.3-0](https://cran.r-project.org/package=spatstat.linnet): Linear Networks Functionality of the 'spatstat' Family
-+ [{dotwhisker} 0.7.0](https://cran.r-project.org/package=dotwhisker): Dot-and-Whisker Plots of Regression Results
 
 
 ###  Videos and Podcasts
