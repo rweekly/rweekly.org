@@ -42,7 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{bcputility} 0.1.0](https://cran.r-project.org/package=bcputility): Provides functions to utilize a command line utility that does bulk inserts and exports from SQL Server databases.
 
 **BioC**
 
