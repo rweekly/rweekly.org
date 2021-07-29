@@ -42,6 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{OmicNavigator}](https://cran.r-project.org/package=OmicNavigator): A tool for interactive exploration of the results from 'omics' experiments to facilitate novel discoveries from high-throughput biology
 
 
 **BioC**
