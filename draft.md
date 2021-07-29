@@ -30,11 +30,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
++ [pollucheck v1.0: A package to explore open-source air pollution data](https://joss.theoj.org/papers/10.21105/joss.03435)
 
 ###  Resources
 
-
++ [2020 Summer Olympics medals per million people](https://github.com/edomt/tokyo2020)
 
 ###  New Packages
 
@@ -50,7 +50,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [{ggqr}](https://github.com/coolbutuseless/ggqr): ggplot2 geom for QR codes
 
++ [{bdftools}](https://github.com/coolbutuseless/bdftools): Bitmap font tools for R
+
++ [{emoji}](https://github.com/EmilHvitfeldt/emoji): Data About Emojis
 
 ### Updated Packages
 
@@ -70,11 +74,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
++ [(Japanese) ggplot2 で日付・時刻データを扱うときは日付の型の違いに注意](https://ill-identified.hatenablog.com/entry/2021/07/23/191152)
 
++ [久々に R の ... に騙されたので結果が正しいかどうか確認しないとダメなアンチパターン集を書く](https://ill-identified.hatenablog.com/entry/2021/07/28/231922)
 
 ###  Tutorials
 
++ [One-step Bayesian imputation when you have dropout in your RCT](https://solomonkurz.netlify.app/post/2021-07-27-one-step-bayesian-imputation-when-you-have-dropout-in-your-rct/)
 
++ [Make an art gallery with {bs4cards}](https://www.rostrum.blog/2021/07/25/faxcrayon/)
+
++ [What colour is London?](https://www.rostrum.blog/2021/07/23/london-colour/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
