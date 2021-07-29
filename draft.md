@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [J.League 2021 Mid-Season Review!](https://ryo-n7.github.io/2021-07-26-jleague-2021-midseason-review/)
 
 ###  R in Organizations
 
