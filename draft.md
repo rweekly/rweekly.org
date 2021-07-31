@@ -90,8 +90,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R Project Updates
 
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
 
+Minutes from the [R Contribution Working Group July Meeting](https://github.com/forwards/rcontribution/blob/master/team_minutes/2021-07-23.md).
 
 ###  Upcoming Events in 3 Months
 
