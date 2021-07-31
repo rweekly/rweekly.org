@@ -19,6 +19,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 
++ [Is Success Luck or Hard Work?](https://albert-rapp.de/post/2021-07-26-luck-vs-skill/)
 
 ### R in the Real World
 
