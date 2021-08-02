@@ -98,6 +98,8 @@ This week’s release was curated by [Kelly Bodwin](), with help from the R Week
 
 + [Omics Playground](https://public.bigomics.ch/)
 
++ [R Shiny interface for the OANDA fxTrade API in {ichimoku}](https://shikokuchuo.net/posts/12-oanda-studio/)
+
 ### R Internationally
 
 + [(Japanese) ggplot2 で日付・時刻データを扱うときは日付の型の違いに注意](https://ill-identified.hatenablog.com/entry/2021/07/23/191152)
