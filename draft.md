@@ -14,6 +14,14 @@ This week’s release was curated by [Kelly Bodwin](), with help from the R Week
 
 ###  Highlight
 
++ [Up and running with Officedown](https://alison.rbind.io/blog/2021-07-officedown/)
+
++ [Reminder to test with a reprex to help yourself solve your problems (or get help!)](https://https://themockup.blog/posts/2021-07-28-reminder-to-test-with-a-reprex/)
+
++ [{statsExpressions} 1.2.0](https://indrajeetpatil.github.io/statsExpressions/): Add statistical detail to data frames and plots
+
+![statsExpressions hex](https://raw.githubusercontent.com/rweekly/image/blob/master/2021/W31/logo.png)
+
 
 
 ### Insights
@@ -58,6 +66,7 @@ This week’s release was curated by [Kelly Bodwin](), with help from the R Week
 
 + [{statsExpressions} 1.2.0](https://indrajeetpatil.github.io/statsExpressions/): Add statistical detail to data frames and plots
 
+
 **BioC**
 
 
@@ -82,6 +91,8 @@ This week’s release was curated by [Kelly Bodwin](), with help from the R Week
 + [{postcards}](https://github.com/seankross/postcards/)
 
 + [{tidybayes} and {ggdist}](http://blog.mjskay.com/2021/07/15/tidybayes-ggdist-3-0/)
+
+![tidybayes and ggdist](https://raw.githubusercontent.com/rweekly/image/blob/master/2021/W31/binomial_dots-1.png)
 
 
 ###  Videos and Podcasts
@@ -115,6 +126,8 @@ This week’s release was curated by [Kelly Bodwin](), with help from the R Week
 + [R Client for R-univ](https://vgherard.github.io/posts/2021-07-25-r-client-for-r-universe-apis/)
 
 + [Visualizing data with raincloud plots](https://shilaan.rbind.io/post/visualizing-data-with-raincloud-plots/)
+
+![Raincloud Plots](https://raw.githubusercontent.com/rweekly/image/blob/master/2021/W31/raincloud.jpg)
 
 + [Using tidymodels to tune xgboost](https://juliasilge.com/blog/baseball-racing/)
 
