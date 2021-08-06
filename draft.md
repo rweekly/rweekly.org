@@ -53,7 +53,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Updated Packages
-
++ [{terrainr} 0.5.0](https://cran.r-project.org/package=terrainr): Landscape Visualizations in R and Unity
 
 
 ###  Videos and Podcasts
