@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2021-W31
+title: R Weekly 2021-W32
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -19,11 +19,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 
-+ [Is Success Luck or Hard Work?](https://albert-rapp.de/post/2021-07-26-luck-vs-skill/)
 
 ### R in the Real World
 
-+ [J.League 2021 Mid-Season Review!](https://ryo-n7.github.io/2021-07-26-jleague-2021-midseason-review/)
+
 
 ###  R in Organizations
 
@@ -31,11 +30,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-+ [pollucheck v1.0: A package to explore open-source air pollution data](https://joss.theoj.org/papers/10.21105/joss.03435)
+
 
 ###  Resources
 
-+ [2020 Summer Olympics medals per million people](https://github.com/edomt/tokyo2020)
+
 
 ###  New Packages
 
@@ -45,8 +44,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{OmicNavigator}](https://cran.r-project.org/package=OmicNavigator): A tool for interactive exploration of the results from 'omics' experiments to facilitate novel discoveries from high-throughput biology
 
-
 + [{bcputility} 0.1.0](https://cran.r-project.org/package=bcputility): Provides functions to utilize a command line utility that does bulk inserts and exports from SQL Server databases.
+
 
 
 **BioC**
@@ -55,14 +54,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-+ [{ggqr}](https://github.com/coolbutuseless/ggqr): ggplot2 geom for QR codes
 
-+ [{bdftools}](https://github.com/coolbutuseless/bdftools): Bitmap font tools for R
-
-+ [{emoji}](https://github.com/EmilHvitfeldt/emoji): Data About Emojis
 
 ### Updated Packages
-
++ [{terrainr} 0.5.0](https://cran.r-project.org/package=terrainr): Landscape Visualizations in R and Unity
 
 
 ###  Videos and Podcasts
@@ -77,33 +72,27 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
++ [R Shiny interface for the OANDA fxTrade API in {ichimoku}](https://shikokuchuo.net/posts/12-oanda-studio/)
+
 ### R Internationally
 
-+ [(Japanese) ggplot2 で日付・時刻データを扱うときは日付の型の違いに注意](https://ill-identified.hatenablog.com/entry/2021/07/23/191152)
 
-+ [久々に R の ... に騙されたので結果が正しいかどうか確認しないとダメなアンチパターン集を書く](https://ill-identified.hatenablog.com/entry/2021/07/28/231922)
 
 ###  Tutorials
 
-+ [One-step Bayesian imputation when you have dropout in your RCT](https://solomonkurz.netlify.app/post/2021-07-27-one-step-bayesian-imputation-when-you-have-dropout-in-your-rct/)
 
-+ [Make an art gallery with {bs4cards}](https://www.rostrum.blog/2021/07/25/faxcrayon/)
-
-+ [What colour is London?](https://www.rostrum.blog/2021/07/23/london-colour/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS).
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-Minutes from the [R Contribution Working Group July Meeting](https://github.com/forwards/rcontribution/blob/master/team_minutes/2021-07-23.md).
 
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
 
-+ [Scaling R at GSK - The R Adoption Series](https://www.r-consortium.org/webinars)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
