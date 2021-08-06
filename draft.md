@@ -68,6 +68,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
++ [R Shiny interface for the OANDA fxTrade API in {ichimoku}](https://shikokuchuo.net/posts/12-oanda-studio/)
+
 ### R Internationally
 
 
