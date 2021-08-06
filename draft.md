@@ -42,6 +42,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{OmicNavigator}](https://cran.r-project.org/package=OmicNavigator): A tool for interactive exploration of the results from 'omics' experiments to facilitate novel discoveries from high-throughput biology
+
++ [{bcputility} 0.1.0](https://cran.r-project.org/package=bcputility): Provides functions to utilize a command line utility that does bulk inserts and exports from SQL Server databases.
+
 
 
 **BioC**
