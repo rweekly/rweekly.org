@@ -85,6 +85,8 @@ and Metro Maps.
 
 + [How I integrated TailwindCSS and RMarkdown](https://share.rfor.us/z8uOAvmn)
 
++ [Cleaning Excel Data Using R](https://www.youtube.com/watch?v=xhMNW3Y6C2Q)
+
 ### Gist & Cookbook
 
 
