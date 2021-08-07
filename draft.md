@@ -25,6 +25,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 ### R in the Real World
 
 + [Making Shiny apps mobile friendly](https://jnolis.com/blog/shiny_mobile/)
++ [A world map of all Olympics medals by place of birth of the athletes who won them through Wikipedia and Wikidata](https://github.com/EDJNet/olympics2020nuts)
 
 ###  Resources
 
