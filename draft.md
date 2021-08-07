@@ -102,8 +102,6 @@ LaTeX Documents.
 
 + [parallel grid search cross-validation using `crossvalidation`](https://thierrymoudiki.github.io/blog/2021/07/31/r/parallel-crossvalidation)
 
-+ [parallel grid search cross-validation using `crossvalidation`](https://thierrymoudiki.github.io/blog/2021/07/31/r/parallel-crossvalidation)
-
 + [Logging in R and C++ (Rcpp) code](https://r-critique.com/logging_in_r_and_cpp_code)
 
 + [Getting geo data into SQL Server using API and R](https://tomaztsql.wordpress.com/2021/08/02/getting-geo-data-into-sql-server-using-api-and-r/)
