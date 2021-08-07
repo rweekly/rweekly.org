@@ -22,6 +22,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R Views Call for Documentation](https://rviews.rstudio.com/2021/08/04/r-views-blog-contest/)
 
++ [Beginning a ggplot2 Series: Logarithmize Your Scales](https://albert-rapp.de/post/2021-08-07-a-few-ggplot-tips/)
+
 ### R in the Real World
 
 + [Making Shiny apps mobile friendly](https://jnolis.com/blog/shiny_mobile/)
