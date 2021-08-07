@@ -10,8 +10,6 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the R Weekly team members and contributors.
 
-
-
 ###  Highlight
 
 
@@ -71,11 +69,20 @@ and Metro Maps.
 
 ### Updated Packages
 
-+ [{terrainr} 0.5.0](https://cran.r-project.org/package=terrainr): Landscape Visualizations in R and Unity
++ [{terrainr} 0.5.0](https://cran.r-project.org/package=terrainr): Landscape Visualizations in R and Unity.
 
-+ [{RcppAnnoy} 0.0.19](http://dirk.eddelbuettel.com/blog/2021/07/30#rcppannoy_0.0.19)
++ [{RcppAnnoy} 0.0.19](http://dirk.eddelbuettel.com/blog/2021/07/30#rcppannoy_0.0.19): Rcpp bindings for Annoy.
 
 + [{gitlabr} 2.0.0](https://github.com/statnmap/gitlabr): Access to the 'Gitlab' API.
+
++ [{meta} 4.19-0](https://cran.r-project.org/package=meta): General Package for Meta-Analysis.
+
++ [{rmarkdown} 2.10](https://cran.r-project.org/package=rmarkdown): Dynamic Documents for R.
+
++ [{tinytex} 0.33](https://cran.r-project.org/package=tinytex): Helper Functions to Install and Maintain TeX Live, and Compile
+LaTeX Documents.
+
++ [{vroom} 1.5.4](https://cran.r-project.org/package=vroom): Read and Write Rectangular Text Data Quickly.
 
 ###  Videos and Podcasts
 
