@@ -26,6 +26,8 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [Making Shiny apps mobile friendly](https://jnolis.com/blog/shiny_mobile/)
 
++ [Building datasets of legislators using Wiki](https://dbrby.github.io/posts/2021/08/wikidata/)
+
 ###  Resources
 
 + [NCAA shot type distribution plot (recreation)](https://gist.github.com/Henryjean/874be18ff910c71510afefd559809fbf)
