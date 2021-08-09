@@ -39,7 +39,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [Olympic Wins viz](https://github.com/wurli/tidy-tuesday/blob/master/2021-07-27-olympics/2021-07-27-olympics.R)
 
-![olympics tidytuesday viz](https://cdn.jsdelivr.net/gh/rweekly/image/2020-08-09/olympics-viz.png)
+![olympics tidytuesday viz](https://cdn.jsdelivr.net/gh/rweekly/image/2021-08-09/olympics-viz.png)
 
 ###  New Packages
 
@@ -64,7 +64,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 + [{edgebundle} 0.2.0](https://cran.r-project.org/package=edgebundle): Algorithms for Bundling Edges in Networks and Visualizing Flow
 and Metro Maps.
 
-![edge bundle map](https://cdn.jsdelivr.net/gh/rweekly/image/2020-08-09/edge-bundle.PNG)
+![edge bundle map](https://cdn.jsdelivr.net/gh/rweekly/image/2021-08-09/edge-bundle.PNG)
 
 **GitHub or Bitbucket**
 
@@ -72,7 +72,7 @@ and Metro Maps.
 
 + [{dehex} 0.0.0.9000](https://github.com/matt-dray/dehex): R package: learn to assess a colour hex code by eye.
 
-![dehex ex](https://cdn.jsdelivr.net/gh/rweekly/image/2020-08-09/dehex.PNG)
+![dehex ex](https://cdn.jsdelivr.net/gh/rweekly/image/2021-08-09/dehex.PNG)
 
 + [{paint} 0.0.0.9000](https://github.com/MilesMcBain/paint): Paint the data.
 
