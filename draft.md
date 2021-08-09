@@ -43,16 +43,16 @@ This week's release was curated by [](), with help from the R Weekly team member
 **CRAN**
 
 
-
 **BioC**
 
 
 
 **GitHub or Bitbucket**
-
++ [squashinformr](https://github.com/HaydenMacDonald/squashinformr)
 
 
 ### Updated Packages
++ [squashinformr](https://cran.r-project.org/web/packages/squashinformr/index.html) - v0.2.4
 
 
 
