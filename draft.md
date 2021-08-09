@@ -12,7 +12,11 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 ###  Highlight
 
++ [Making Shiny apps mobile friendly](https://jnolis.com/blog/shiny_mobile/)
 
++ [{gitlabr} 2.0.0](https://github.com/statnmap/gitlabr): Access to the 'Gitlab' API.
+
++ [How to setup a reproducible workflow in R and Docker](https://medium.com/@rahul.sangole/reproducible-work-in-r-e7d160d5d198)
 
 ### Insights
 
@@ -25,6 +29,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 ### R in the Real World
 
 + [Making Shiny apps mobile friendly](https://jnolis.com/blog/shiny_mobile/)
+
 + [A world map of all Olympics medals by place of birth of the athletes who won them through Wikipedia and Wikidata](https://github.com/EDJNet/olympics2020nuts)
 
 + [Building datasets of legislators using Wiki](https://dbrby.github.io/posts/2021/08/wikidata/)
@@ -49,8 +54,6 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [{bigrquery} 1.4.0](https://www.tidyverse.org/blog/2021/08/bigrquery-1-4-0/): An interface to Google's BigQuery from R. 
 
-+ [{fusen} 0.2.4](https://rtask.thinkr.fr/fusen-is-now-available-on-cran/): Inflate your package from a simple flat Rmd.
-
 + [{rbokeh} 0.5.2](https://cran.r-project.org/package=rbokeh): R Interface for Bokeh.
 
 + [{mcvis} 1.0.8](https://cran.r-project.org/package=mcvis): Multi-Collinearity Visualization.
@@ -62,11 +65,15 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 + [{edgebundle} 0.2.0](https://cran.r-project.org/package=edgebundle): Algorithms for Bundling Edges in Networks and Visualizing Flow
 and Metro Maps.
 
+![edge bundle map]()
+
 **GitHub or Bitbucket**
 
 + [{opendatascot} 0.0.0.9000](https://github.com/DataScienceScotland/opendatascot):  An R package to pull data from statistics.gov.scot into R.
 
 + [{dehex} 0.0.0.9000](https://github.com/matt-dray/dehex): R package: learn to assess a colour hex code by eye.
+
+![dehex ex]()
 
 + [{paint} 0.0.0.9000](https://github.com/MilesMcBain/paint): Paint the data.
 
@@ -110,8 +117,6 @@ LaTeX Documents.
 + [Getting geo data into SQL Server using API and R](https://tomaztsql.wordpress.com/2021/08/02/getting-geo-data-into-sql-server-using-api-and-r/)
 
 + [Update Existing Shiny Apps in ShinyProxy](https://hosting.analythium.io/update-existing-shiny-apps-in-shinyproxy/)
-
-+ [%in% and %notin% operators in R](https://www.reneshbedre.com/blog/in-operator-r.html) 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
