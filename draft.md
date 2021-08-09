@@ -8,8 +8,8 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week's release was curated by [](), with help from the R Weekly team members and contributors.
 
+This week's release was curated by [](), with help from the R Weekly team members and contributors.
 
 
 ###  Highlight
@@ -95,7 +95,19 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
+### Datasets
+
+
+<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
+
+
+### Jobs
+
+
+
+
 ###  Call for Participation
+
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
