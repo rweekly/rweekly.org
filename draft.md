@@ -5,7 +5,6 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the R Weekly team members and contributors.
@@ -40,7 +39,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [Olympic Wins viz](https://github.com/wurli/tidy-tuesday/blob/master/2021-07-27-olympics/2021-07-27-olympics.R)
 
-![olympics tidytuesday viz]()
+![olympics tidytuesday viz](https://cdn.jsdelivr.net/gh/rweekly/image/2020-08-09/olympics-viz.png)
 
 ###  New Packages
 
@@ -65,7 +64,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 + [{edgebundle} 0.2.0](https://cran.r-project.org/package=edgebundle): Algorithms for Bundling Edges in Networks and Visualizing Flow
 and Metro Maps.
 
-![edge bundle map]()
+![edge bundle map](https://cdn.jsdelivr.net/gh/rweekly/image/2020-08-09/edge-bundle.PNG)
 
 **GitHub or Bitbucket**
 
@@ -73,7 +72,7 @@ and Metro Maps.
 
 + [{dehex} 0.0.0.9000](https://github.com/matt-dray/dehex): R package: learn to assess a colour hex code by eye.
 
-![dehex ex]()
+![dehex ex](https://cdn.jsdelivr.net/gh/rweekly/image/2020-08-09/dehex.PNG)
 
 + [{paint} 0.0.0.9000](https://github.com/MilesMcBain/paint): Paint the data.
 
