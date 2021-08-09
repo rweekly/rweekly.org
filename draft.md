@@ -76,6 +76,8 @@ and Metro Maps.
 
 + [{paint} 0.0.0.9000](https://github.com/MilesMcBain/paint): Paint the data.
 
++ [{bounceR} 0.0.0.9000](https://github.com/alittlefitness/bounceR): Provides a set of functions to extract the Hawkeye statistics from the ICC and BCCI webpages.
+
 ### Updated Packages
 
 + [{terrainr} 0.5.0](https://cran.r-project.org/package=terrainr): Landscape Visualizations in R and Unity.
@@ -102,6 +104,8 @@ LaTeX Documents.
 ### Shiny Apps
 
 + [R Shiny interface for the OANDA fxTrade API in {ichimoku}](https://shikokuchuo.net/posts/12-oanda-studio/)
+
++ [(Soccer) Player Replacement Shortlist Generator](https://macro-football.shinyapps.io/similarity/)
 
 ###  Tutorials
 
