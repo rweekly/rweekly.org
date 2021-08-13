@@ -22,7 +22,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ### R in the Real World
 
-
++ [$GME To The Moon: How Much of an Outlier Was Gamestop's January Rise?](https://jlaw.netlify.app/2021/08/12/gme-to-the-moon-how-unexpected-was-gamestop-s-january-stock-rally/)
 
 ###  R in Organizations
 
@@ -42,6 +42,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 **CRAN**
 
++ [{flow} 0.0.2](https://cran.r-project.org/package=flow): View and Browse Code Using Flow Diagrams.
 
 **BioC**
 
@@ -54,11 +55,11 @@ This week's release was curated by [](), with help from the R Weekly team member
 ### Updated Packages
 + [squashinformr](https://cran.r-project.org/web/packages/squashinformr/index.html) - v0.2.4
 
-
++ [{soccermatics} 0.9.5](https://github.com/JoGall/soccermatics): Visualise football (soccer) tracking and event data.
 
 ###  Videos and Podcasts
 
-
++ [TidyX Episode 70: Databases with {dbplyr}](https://www.youtube.com/watch?v=EfSwb_n9iWA)
 
 ### Gist & Cookbook
 
@@ -74,7 +75,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ###  Tutorials
 
-
++ [Well Well Well my Excel](https://johnmackintosh.net/blog/2021-08-12-well-well-well-my-excel/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
