@@ -96,6 +96,8 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
++ [discoRd Member Get-TogethR](https://twitter.com/RdiscoRdServer/status/1426231103699005443?s=20)
+
 ### Datasets
 
 
