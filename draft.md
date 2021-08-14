@@ -87,6 +87,10 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [Tune xgboost models with early stopping to predict shelter animal status](https://juliasilge.com/blog/shelter-animals/)
 
++ [Deploying {shinycal} to the world!](https://www.youtube.com/watch?v=q5SATNrTa_0)
+
++ [Cascadia R Conf 2021](https://www.youtube.com/playlist?list=PLzwtsyfF_Z4pPszfwklTD66AWUuMwS7qw)
+
 ### Gist & Cookbook
 
 
@@ -196,5 +200,8 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">✅ Achievement unlocked: 1 year&#39;s worth of <a href="https://twitter.com/rweekly_org?ref_src=twsrc%5Etfw">@rweekly_org</a> Highlights podcasts! <a href="https://t.co/sU7BxbM0FT">https://t.co/sU7BxbM0FT</a> <br>📱 Creating mobile-first <a href="https://twitter.com/hashtag/shiny?src=hash&amp;ref_src=twsrc%5Etfw">#shiny</a> apps <a href="https://twitter.com/skyetetra?ref_src=twsrc%5Etfw">@skyetetra</a><br>📦 {gitlabr} 2.0.0 <a href="https://twitter.com/StatnMap?ref_src=twsrc%5Etfw">@StatnMap</a><br>✍️ Reproducible work with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/docker?src=hash&amp;ref_src=twsrc%5Etfw">#docker</a> <a href="https://twitter.com/rsangole?ref_src=twsrc%5Etfw">@rsangole</a> <br><br>h/t <a href="https://twitter.com/R_by_Ryo?ref_src=twsrc%5Etfw">@R_by_Ryo</a> 🙏</p>&mdash; The R-Podcast (Eric) (@theRcast) <a href="https://twitter.com/theRcast/status/1425105154722959365?ref_src=twsrc%5Etfw">August 10, 2021</a></blockquote> 
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We've hit a HUGE milestone: The discoRd server has eclipsed the 2,000 member mark! What started off as a simple question on Reddit 2 years ago, has blossomed into an expansive and resource filled R programming community that we are truly proud of. Join the server here: <a href="https://discord.com/invite/FQp6ZNd">https://discord.com/invite/FQp6ZNd</a> </p>&mdash; RdiscoRdServer (@RdiscoRdServer) <a href="https://twitter.com/RdiscoRdServer/status/1425869023342956545?s=20">August 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
