@@ -115,3 +115,5 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We've hit a HUGE milestone: The discoRd server has eclipsed the 2,000 member mark! What started off as a simple question on Reddit 2 years ago, has blossomed into an expansive and resource filled R programming community that we are truly proud of. Join the server here: <a href="https://discord.com/invite/FQp6ZNd">https://discord.com/invite/FQp6ZNd</a> </p>&mdash; RdiscoRdServer (@RdiscoRdServer) <a href="https://twitter.com/RdiscoRdServer/status/1425869023342956545?s=20">August 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
