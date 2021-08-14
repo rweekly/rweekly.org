@@ -48,6 +48,8 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [Modern Statistics with R](http://www.modernstatisticswithr.com/)
 
++ [Doing Bayesian Data Analysis in brms and the tidyverse](https://bookdown.org/content/3686/)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
