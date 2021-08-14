@@ -18,28 +18,28 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ### Insights
 
+
++ [RStudio Voices - Julia Silge](https://blog.rstudio.com/2021/08/12/rstudio-voices-julia-silge/)
+
 + [A summary of some NLP workflows using R/udpipe](https://github.com/jaytimm/nlp-guide-r)  
 
-+ [Using awk and R to read many large files, an example with spatial fishing data](https://luisdva.github.io/rstats/r-awk/)
 
-+ [How to setup a local PostgreSQL Database & RStudio using Docker](https://rsangole.medium.com/docker-based-rstudio-postgresql-fbeefe8285bf?source=friends_link&sk=034c39def599f4d9ec1ee3b69921e9a7) 
-
-+ [Ellis Hughes and Patrick Ward start looking at ways to interact with databases, starting with {dbplyr} and {RSQLite}](https://bit.ly/TidyX_Ep70) 
-
-+ [Repeated Measures ANOVA using Python and R (with examples)](https://www.reneshbedre.com/blog/repeated-measure-anova.html)
-
-+ [Venn diagrams in Python and R](https://www.reneshbedre.com/blog/venn.html) 
-
-+ [%in% and %notin% operators in R](https://www.reneshbedre.com/blog/in-operator-r.html) 
++ [EARL online: Interview with Emily Riederer](https://www.mango-solutions.com/earl-online-interview-with-emily-riederer/)
 
 
 ### R in the Real World
 
 + [$GME To The Moon: How Much of an Outlier Was Gamestop's January Rise?](https://jlaw.netlify.app/2021/08/12/gme-to-the-moon-how-unexpected-was-gamestop-s-january-stock-rally/)
 
++ [How England’s complicated political geography is confusing coronavirus rules](https://jcheshire.com/spatial-analysis-2/how-englands-complicated-political-geography-is-confusing-coronavirus-rules/)
+
++ [census 2020: some quick visuals of demographic change](https://jtimm.net/2021/08/13/census-2020-some-quick-visuals/)
+
 ###  R in Organizations
 
++ [Democratizing Data with R, Python, and Slack](https://blog.rstudio.com/2021/08/10/r-in-marketing-meetup/)
 
++ [R / Medicine 2021](https://rviews.rstudio.com/2021/08/12/r-medicine-2021/)
 
 ###  R in Academia
 
@@ -74,15 +74,17 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ### Updated Packages
 
-+ [squashinformr](https://cran.r-project.org/web/packages/squashinformr/index.html) - v0.2.4
++ [squashinformr v0.2.4](https://cran.r-project.org/web/packages/squashinformr/index.html): Politely Web Scrape Data from SquashInfo
 
 + [{soccermatics} 0.9.5](https://github.com/JoGall/soccermatics): Visualise football (soccer) tracking and event data.
 
++ [nanotime 0.3.3  ](http://dirk.eddelbuettel.com/blog/2021/08/09#nanotime_0.3.3): Nanosecond Time Resolution for R
 
 
 ###  Videos and Podcasts
 
-+ [TidyX Episode 70: Databases with {dbplyr}](https://www.youtube.com/watch?v=EfSwb_n9iWA)
++ [Ellis Hughes and Patrick Ward start looking at ways to interact with databases, starting with {dbplyr} and {RSQLite}](https://www.youtube.com/watch?v=EfSwb_n9iWA) 
+
 
 ### Gist & Cookbook
 
@@ -98,36 +100,34 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ###  Tutorials
 
++ [Using awk and R to read many large files, an example with spatial fishing data](https://luisdva.github.io/rstats/r-awk/)
+
++ [How to setup a local PostgreSQL Database & RStudio using Docker](https://rsangole.medium.com/docker-based-rstudio-postgresql-fbeefe8285bf?source=friends_link&sk=034c39def599f4d9ec1ee3b69921e9a7) 
+
+
++ [Repeated Measures ANOVA using Python and R (with examples)](https://www.reneshbedre.com/blog/repeated-measure-anova.html)
+
++ [Venn diagrams in Python and R](https://www.reneshbedre.com/blog/venn.html) 
+
++ [%in% and %notin% operators in R](https://www.reneshbedre.com/blog/in-operator-r.html) 
+
 + [Well Well Well my Excel](https://johnmackintosh.net/blog/2021-08-12-well-well-well-my-excel/)
 
 + [Some Covid Donuts To End The Week](https://rud.is/b/2021/08/13/some-covid-donuts-to-end-the-week/)
 
 + [How to Calculate Mahalanobis Distance in R](https://finnstats.com/index.php/2021/08/13/how-to-calculate-mahalanobis-distance-in-r/)
 
-+ [census 2020: some quick visuals of demographic change](https://jtimm.net/2021/08/13/census-2020-some-quick-visuals/)
 
 
 + [Supervised Machine Learning for Text Analysis in R is now complete](https://juliasilge.com/blog/smltar-complete/)
 
 + [Machine Learning Strategy (Part 2)](http://philipppro.github.io/ml_strategy_2/)
 
-+ [How England’s complicated political geography is confusing coronavirus rules](https://jcheshire.com/spatial-analysis-2/how-englands-complicated-political-geography-is-confusing-coronavirus-rules/)
-
-+ [EARL competition T&Cs](https://www.mango-solutions.com/earl-competition-tcs/)
-
-+ [EARL online: Interview with Emily Riederer](https://www.mango-solutions.com/earl-online-interview-with-emily-riederer/)
-
-+ [RStudio Voices - Julia Silge](https://blog.rstudio.com/2021/08/12/rstudio-voices-julia-silge/)
-
-+ [$GME To The Moon: How Much of an Outlier Was Gamestop's January Rise?](https://jlaw.netlify.app/2021/08/12/gme-to-the-moon-how-unexpected-was-gamestop-s-january-stock-rally/)
-
-+ [R / Medicine 2021](https://rviews.rstudio.com/2021/08/12/r-medicine-2021/)
 
 + [How to Calculate Cross-Correlation in R](https://finnstats.com/index.php/2021/08/11/how-to-calculate-cross-correlation-in-r/)
 
 + [Fast(?) cubic beziers at variable resolution](https://coolbutuseless.github.io/2021/08/11/fast-cubic-beziers-at-variable-resolution/)
 
-+ [Reverting Git Commits](https://shikokuchuo.net/posts/13-reverting)
 
 + [Old 'Hood, New 'Hood](https://datawookie.dev/blog/2021/08/old-hood-new-hood/)
 
@@ -135,11 +135,9 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [How to Calculate Cosine Similarity in R](https://finnstats.com/index.php/2021/08/10/how-to-calculate-cosine-similarity-in-r/)
 
-+ [Democratizing Data with R, Python, and Slack](https://blog.rstudio.com/2021/08/10/r-in-marketing-meetup/)
 
 + [torch: Just-in-time compilation (JIT) for R-less model deployment](https://blogs.rstudio.com/tensorflow/posts/2021-08-10-jit-trace-module)
 
-+ [nanotime 0.3.3 on CRAN: Some Updates](http://dirk.eddelbuettel.com/blog/2021/08/09#nanotime_0.3.3)
 
 + [How to Create Pareto Chart in R](https://finnstats.com/index.php/2021/08/09/how-to-create-pareto-chart-in-r/)
 
