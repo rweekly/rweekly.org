@@ -26,7 +26,6 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [EARL online: Interview with Emily Riederer](https://www.mango-solutions.com/earl-online-interview-with-emily-riederer/)
 
-
 ### R in the Real World
 
 + [$GME To The Moon: How Much of an Outlier Was Gamestop's January Rise?](https://jlaw.netlify.app/2021/08/12/gme-to-the-moon-how-unexpected-was-gamestop-s-january-stock-rally/)
@@ -86,6 +85,8 @@ This week's release was curated by [](), with help from the R Weekly team member
 + [Ellis Hughes and Patrick Ward start looking at ways to interact with databases, starting with {dbplyr} and {RSQLite}](https://www.youtube.com/watch?v=EfSwb_n9iWA) 
 
 
++ [Tune xgboost models with early stopping to predict shelter animal status](https://juliasilge.com/blog/shelter-animals/)
+
 ### Gist & Cookbook
 
 
@@ -109,6 +110,10 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [Venn diagrams in Python and R](https://www.reneshbedre.com/blog/venn.html) 
 
++ [Cutting down code in dplyr and data.table](https://johnmackintosh.com/2021-08-12-dplyr-datatable-code-redux/)
+
++ [The Quickest Way to Add New Apps to ShinyProxy](https://hosting.analythium.io/the-quickest-way-to-add-new-apps-to-shinyproxy/)
+
 + [%in% and %notin% operators in R](https://www.reneshbedre.com/blog/in-operator-r.html) 
 
 + [Well Well Well my Excel](https://johnmackintosh.net/blog/2021-08-12-well-well-well-my-excel/)
@@ -117,7 +122,9 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [How to Calculate Mahalanobis Distance in R](https://finnstats.com/index.php/2021/08/13/how-to-calculate-mahalanobis-distance-in-r/)
 
++ [Fragment: Tools of Production – ggalt and encircling scatterplot points in R and Python](https://blog.ouseful.info/2021/08/13/fragment-tools-of-production-ggalt/)
 
++ [A Common Mistake in Data Analysis (in Psychology/Linguistics): Subsetting data to carry out nested analyses](https://vasishth-statistics.blogspot.com/2021/08/a-common-mistake-in-psychology-and.html) - [Part 1](https://vasishth-statistics.blogspot.com/2021/08/a-common-mistake-in-psychology-and.html), [Part 2](https://vasishth-statistics.blogspot.com/2021/08/a-common-mistake-in-psychology-and_13.html)
 
 + [Supervised Machine Learning for Text Analysis in R is now complete](https://juliasilge.com/blog/smltar-complete/)
 
