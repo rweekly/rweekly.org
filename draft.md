@@ -14,7 +14,9 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ###  Highlight
 
++ [{flow} 0.0.2](https://cran.r-project.org/package=flow): View and Browse Code Using Flow Diagrams.
 
++ [Some Covid Donuts To End The Week](https://rud.is/b/2021/08/13/some-covid-donuts-to-end-the-week/)
 
 ### Insights
 
@@ -30,9 +32,13 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [$GME To The Moon: How Much of an Outlier Was Gamestop's January Rise?](https://jlaw.netlify.app/2021/08/12/gme-to-the-moon-how-unexpected-was-gamestop-s-january-stock-rally/)
 
+![$GME To The Moon](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/gme.png)
+
 + [How England’s complicated political geography is confusing coronavirus rules](https://jcheshire.com/spatial-analysis-2/how-englands-complicated-political-geography-is-confusing-coronavirus-rules/)
 
 + [census 2020: some quick visuals of demographic change](https://jtimm.net/2021/08/13/census-2020-some-quick-visuals/)
+
+![census 2020: some quick visuals of demographic change](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/census.png)
 
 ###  R in Organizations
 
@@ -48,6 +54,8 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [Modern Statistics with R](http://www.modernstatisticswithr.com/)
 
+![Modern Statistics with R](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/mswr-cover.png)
+
 + [Doing Bayesian Data Analysis in brms and the tidyverse](https://bookdown.org/content/3686/)
 
 ###  New Packages
@@ -58,6 +66,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [{flow} 0.0.2](https://cran.r-project.org/package=flow): View and Browse Code Using Flow Diagrams.
 
+![{flow} 0.0.2](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/flow.png)
 
 + [{fastverse} 0.1.8](https://cran.r-project.org/package=fastverse): A Suite of High-Performance Packages for Statistics and Data Manipulation
 
@@ -70,14 +79,14 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 **GitHub or Bitbucket**
 
-+ [squashinformr](https://github.com/HaydenMacDonald/squashinformr)
-
 
 ### Updated Packages
 
 + [squashinformr v0.2.4](https://cran.r-project.org/web/packages/squashinformr/index.html): Politely Web Scrape Data from SquashInfo
 
 + [{soccermatics} 0.9.5](https://github.com/JoGall/soccermatics): Visualise football (soccer) tracking and event data.
+
+![{soccermatics} 0.9.5](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/soccer.png)
 
 + [nanotime 0.3.3  ](http://dirk.eddelbuettel.com/blog/2021/08/09#nanotime_0.3.3): Nanosecond Time Resolution for R
 
@@ -116,6 +125,8 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [Venn diagrams in Python and R](https://www.reneshbedre.com/blog/venn.html) 
 
+![Venn diagrams in Python and R](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/venn_two_from_r.webp.png)
+
 + [Cutting down code in dplyr and data.table](https://johnmackintosh.com/2021-08-12-dplyr-datatable-code-redux/)
 
 + [The Quickest Way to Add New Apps to ShinyProxy](https://hosting.analythium.io/the-quickest-way-to-add-new-apps-to-shinyproxy/)
@@ -126,9 +137,13 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [Some Covid Donuts To End The Week](https://rud.is/b/2021/08/13/some-covid-donuts-to-end-the-week/)
 
+![Some Covid Donuts To End The Week](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/covid-donuts-01.png)
+
 + [How to Calculate Mahalanobis Distance in R](https://finnstats.com/index.php/2021/08/13/how-to-calculate-mahalanobis-distance-in-r/)
 
 + [Fragment: Tools of Production – ggalt and encircling scatterplot points in R and Python](https://blog.ouseful.info/2021/08/13/fragment-tools-of-production-ggalt/)
+
+![Fragment: Tools of Production – ggalt and encircling scatterplot points in R and Python](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/fragment.png)
 
 + [A Common Mistake in Data Analysis (in Psychology/Linguistics): Subsetting data to carry out nested analyses](https://vasishth-statistics.blogspot.com/2021/08/a-common-mistake-in-psychology-and.html) - [Part 1](https://vasishth-statistics.blogspot.com/2021/08/a-common-mistake-in-psychology-and.html), [Part 2](https://vasishth-statistics.blogspot.com/2021/08/a-common-mistake-in-psychology-and_13.html)
 
