@@ -18,6 +18,15 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [Some Covid Donuts To End The Week](https://rud.is/b/2021/08/13/some-covid-donuts-to-end-the-week/)
 
+
+###  Resources
+
++ [Modern Statistics with R](http://www.modernstatisticswithr.com/)
+
+![Modern Statistics with R](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/mswr-cover.png)
+
++ [Doing Bayesian Data Analysis in brms and the tidyverse](https://bookdown.org/content/3686/)
+
 ### Insights
 
 
@@ -49,14 +58,6 @@ This week's release was curated by [](), with help from the R Weekly team member
 ###  R in Academia
 
 
-
-###  Resources
-
-+ [Modern Statistics with R](http://www.modernstatisticswithr.com/)
-
-![Modern Statistics with R](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/mswr-cover.png)
-
-+ [Doing Bayesian Data Analysis in brms and the tidyverse](https://bookdown.org/content/3686/)
 
 ###  New Packages
 
@@ -135,15 +136,8 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [Well Well Well my Excel](https://johnmackintosh.net/blog/2021-08-12-well-well-well-my-excel/)
 
-+ [Some Covid Donuts To End The Week](https://rud.is/b/2021/08/13/some-covid-donuts-to-end-the-week/)
-
-![Some Covid Donuts To End The Week](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/covid-donuts-01.png)
 
 + [How to Calculate Mahalanobis Distance in R](https://finnstats.com/index.php/2021/08/13/how-to-calculate-mahalanobis-distance-in-r/)
-
-+ [Fragment: Tools of Production – ggalt and encircling scatterplot points in R and Python](https://blog.ouseful.info/2021/08/13/fragment-tools-of-production-ggalt/)
-
-![Fragment: Tools of Production – ggalt and encircling scatterplot points in R and Python](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/fragment.png)
 
 + [A Common Mistake in Data Analysis (in Psychology/Linguistics): Subsetting data to carry out nested analyses](https://vasishth-statistics.blogspot.com/2021/08/a-common-mistake-in-psychology-and.html) - [Part 1](https://vasishth-statistics.blogspot.com/2021/08/a-common-mistake-in-psychology-and.html), [Part 2](https://vasishth-statistics.blogspot.com/2021/08/a-common-mistake-in-psychology-and_13.html)
 
@@ -151,6 +145,9 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [Machine Learning Strategy (Part 2)](http://philipppro.github.io/ml_strategy_2/)
 
++ [Some Covid Donuts To End The Week](https://rud.is/b/2021/08/13/some-covid-donuts-to-end-the-week/)
+
+![Some Covid Donuts To End The Week](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/covid-donuts-01.png)
 
 + [How to Calculate Cross-Correlation in R](https://finnstats.com/index.php/2021/08/11/how-to-calculate-cross-correlation-in-r/)
 
@@ -165,6 +162,10 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 
 + [torch: Just-in-time compilation (JIT) for R-less model deployment](https://blogs.rstudio.com/tensorflow/posts/2021-08-10-jit-trace-module)
+
++ [Fragment: Tools of Production – ggalt and encircling scatterplot points in R and Python](https://blog.ouseful.info/2021/08/13/fragment-tools-of-production-ggalt/)
+
+![Fragment: Tools of Production – ggalt and encircling scatterplot points in R and Python](https://raw.githubusercontent.com/rweekly/image/master/2021/W33/fragment.png)
 
 
 + [How to Create Pareto Chart in R](https://finnstats.com/index.php/2021/08/09/how-to-create-pareto-chart-in-r/)
