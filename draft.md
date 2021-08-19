@@ -50,10 +50,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{ETM}](https://github.com/bnosac/ETM):  Topic Modelling in Embedding Spaces
 
 ### Updated Packages
 
++ [{ichimoku} 1.0.0](https://CRAN.R-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
 
 
 ###  Videos and Podcasts
@@ -74,7 +75,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [ggplot tips: Assigning Labels to an Aesthetic](https://albert-rapp.de/post/2021-08-19-aesthetic-labels/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
