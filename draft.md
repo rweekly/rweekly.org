@@ -74,7 +74,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [ggplot tips: Assigning Labels to an Aesthetic](https://albert-rapp.de/post/2021-08-19-aesthetic-labels/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
