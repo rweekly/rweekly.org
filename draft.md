@@ -51,7 +51,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **GitHub or Bitbucket**
 
 + [{ETM}](https://github.com/bnosac/ETM):  Topic Modelling in Embedding Spaces
-![screenshot of ETM clusters](https://raw.githubusercontent.com/bnosac/ETM/master/tools/example-visualisation.png)
 
 ### Updated Packages
 
