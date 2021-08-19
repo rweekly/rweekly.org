@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Keep your R scripts locally sourced: A lesson from debugging](https://www.tjmahr.com/keep-it-locally-sourced/)
 
 ###  R in Organizations
 
