@@ -93,7 +93,7 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 
 + [TidyX Episode 71: Databases in R - Exploring Your Database with NBA data](https://bit.ly/TidyX_Ep71)
 
-
++ [SLICED CHAMPIONSHIP: COMPETITIVE DATA SCIENCE (S01E12)](https://www.twitch.tv/videos/1121570254)
 
 
 ### Gist & Cookbook
