@@ -36,6 +36,8 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 
 + [Posterior probability checking with rvars: a quick follow-up](https://www.rdatagen.net/post/2021-08-17-quick-follow-up-on-posterior-probability-checks-with-rvars/)
 
++ [Tired of Pie Charts !? Let’s make a Tree Map.](https://abdoulblog.netlify.app/posts/2021-08-17-treemap/)
+
 ### R in the Real World
 
 + [Keep your R scripts locally sourced: A lesson from debugging](https://www.tjmahr.com/keep-it-locally-sourced/)
@@ -88,6 +90,9 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 
 
 ###  Videos and Podcasts
+
++ [TidyX Episode 71: Databases in R - Exploring Your Database with NBA data](https://bit.ly/TidyX_Ep71)
+
 
 
 
