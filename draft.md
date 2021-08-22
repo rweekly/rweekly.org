@@ -18,6 +18,14 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 
 ### Insights
 
++ [Exploring R² and regression variance with Euler/Venn diagrams](https://www.andrewheiss.com/blog/2021/08/21/r2-euler/)
+
++ [{emayili}: Rudimentary Email Address Validation](https://datawookie.dev/blog/2021/08/emayili-rudimentary-email-address-validation/)
+
++ [The “Youth Bulge” of Afghanistan: The Hidden Force behind Political Instability](https://blog.ephorie.de/the-youth-bulge-of-afghanistan-the-hidden-force-behind-political-instability?utm_source=rss&utm_medium=rss&utm_campaign=the-youth-bulge-of-afghanistan-the-hidden-force-behind-political-instability)
+
++ [Olympics, Reaction Times, Volleyball, and a New Version of SwimmeR](https://pilgrim.netlify.app/post/2021-08-17-olympics-reaction-times-volleyball-and-a-new-version-of-swimmer/)
+
 + [Text processing and stemming for classification tasks in master data management context](https://r-posts.com/text-processing-and-stemming-for-classification-tasks-in-master-data-management-context/)
 
 + [Four (4) Different Ways to Calculate DCF Based ‘Equity Cash Flow (ECF)’ – Part 4 of 4](http://r-posts.com/four-4-different-ways-to-calculate-dcf-based-equity-cash-flow-ecf-part-4-of-4/)
@@ -78,6 +86,7 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 
 + [RcppBDT 0.2.4 on CRAN: Updates](http://dirk.eddelbuettel.com/blog/2021/08/15#rcppbdt_0.2.4)
 
+
 ###  Videos and Podcasts
 
 
@@ -106,6 +115,10 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 + [Goodness of Fit Test- Jarque-Bera Test in R](https://finnstats.com/index.php/2021/08/17/goodness-of-fit-test-jarque-bera-test-in-r/)
 
 + [How to Plot Categorical Data in R-Quick Guide](https://finnstats.com/index.php/2021/08/16/how-to-plot-categorical-data-in-r/)
+
++ [Using R and Microsoft SQL Server to run prediction model with API call](https://tomaztsql.wordpress.com/2021/08/20/using-r-and-microsoft-sql-server-to-run-prediction-model-with-api-call/)
+
++ [How Much One Shapefile Overlaps Another?](https://www.njtierney.com/post/2021/08/21/how-much-one-shapefile-overlaps-another/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -140,3 +153,4 @@ Events in 3 Months:
 ###  Quotes of the Week
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Anyone else ever tempted to leave a comment in their code saying, &quot;I know this sucks but I can&#39;t come up with anything better right now&quot;? <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Emma Vitz (@EmmaVitz) <a href="https://twitter.com/EmmaVitz/status/1427449093480095773?ref_src=twsrc%5Etfw">August 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">CONGRATULATIONS to the <a href="https://twitter.com/hashtag/SLICED?src=hash&amp;ref_src=twsrc%5Etfw">#SLICED</a> season one winner: <a href="https://twitter.com/drob?ref_src=twsrc%5Etfw">@drob</a>!!! 📊🔪 <br><br>Catch the replay of last night&#39;s action-packed showdown between <a href="https://twitter.com/drob?ref_src=twsrc%5Etfw">@drob</a> and <a href="https://twitter.com/EthanCDouglas?ref_src=twsrc%5Etfw">@EthanCDouglas</a> on Twitch: <a href="https://t.co/Uh61pGpbtW">https://t.co/Uh61pGpbtW</a><br><br>Huge thanks from me and <a href="https://twitter.com/nickwan?ref_src=twsrc%5Etfw">@nickwan</a> to all of our contestants, supporters, and viewers! <a href="https://t.co/B39G9w7bc8">pic.twitter.com/B39G9w7bc8</a></p>&mdash; Meg Risdal 👾 (@MeganRisdal) <a href="https://twitter.com/MeganRisdal/status/1428039365008060424?ref_src=twsrc%5Etfw">August 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Code review is an important part of data science <a href="https://t.co/TqAcNCyP9Y">pic.twitter.com/TqAcNCyP9Y</a></p>&mdash; Jasmine Hughes (@Jas_Hughes) <a href="https://twitter.com/Jas_Hughes/status/1428442201403449350?ref_src=twsrc%5Etfw">August 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
