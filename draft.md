@@ -22,9 +22,13 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 
 + [Exploring R² and regression variance with Euler/Venn diagrams](https://www.andrewheiss.com/blog/2021/08/21/r2-euler/)
 
+![R² Venn diagrams](https://raw.githubusercontent.com/rweekly/image/master/2021/W34/r2-venn.png)
+
 + [{emayili}: Rudimentary Email Address Validation](https://datawookie.dev/blog/2021/08/emayili-rudimentary-email-address-validation/)
 
 + [The “Youth Bulge” of Afghanistan: The Hidden Force behind Political Instability](https://blog.ephorie.de/the-youth-bulge-of-afghanistan-the-hidden-force-behind-political-instability?utm_source=rss&utm_medium=rss&utm_campaign=the-youth-bulge-of-afghanistan-the-hidden-force-behind-political-instability)
+
+![Scatter plot showing political stability vs proportion of young people](https://raw.githubusercontent.com/rweekly/image/master/2021/W34/youth-bulge.png)
 
 + [Olympics, Reaction Times, Volleyball, and a New Version of SwimmeR](https://pilgrim.netlify.app/post/2021-08-17-olympics-reaction-times-volleyball-and-a-new-version-of-swimmer/)
 
@@ -39,6 +43,8 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 + [Posterior probability checking with rvars: a quick follow-up](https://www.rdatagen.net/post/2021-08-17-quick-follow-up-on-posterior-probability-checks-with-rvars/)
 
 + [Tired of Pie Charts !? Let’s make a Tree Map.](https://abdoulblog.netlify.app/posts/2021-08-17-treemap/)
+
+![Star Trek dialogue tree map](https://raw.githubusercontent.com/rweekly/image/master/2021/W34/tree_map.png)
 
 ### R in the Real World
 
