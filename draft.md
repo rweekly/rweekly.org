@@ -88,6 +88,9 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 
 + [RcppBDT 0.2.4 on CRAN: Updates](http://dirk.eddelbuettel.com/blog/2021/08/15#rcppbdt_0.2.4)
 
++ [matrixStats 0.60.1](https://www.jottr.org/2021/08/23/matrixstats-gsoc-2021/): Consistent Support for Name Attributes via GSoC Project 
+
+
 
 ###  Videos and Podcasts
 
