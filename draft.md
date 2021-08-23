@@ -10,11 +10,13 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), with help from the R Weekly team members and contributors.
 
-
-
 ###  Highlight
 
++ [Keep your R scripts locally sourced: A lesson from debugging](https://www.tjmahr.com/keep-it-locally-sourced/)
 
++ [Exploring R² and regression variance with Euler/Venn diagrams](https://www.andrewheiss.com/blog/2021/08/21/r2-euler/)
+
++ [SLICED CHAMPIONSHIP: COMPETITIVE DATA SCIENCE (S01E12)](https://www.twitch.tv/videos/1121570254)
 
 ### Insights
 
@@ -46,14 +48,6 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 
 + [Setting up a transparent reproducible R environment with Docker + renv](https://eliocamp.github.io/codigo-r/en/2021/08/docker-renv/)
 
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
-
 ###  Resources
 
 + [RTutor: Exploring Economic Impacts of COVID-19](http://skranz.github.io//r/2021/08/18/RTutor-Covid.html)
@@ -68,11 +62,9 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 
 **CRAN**
 
++ [{docreview} 0.0.1](https://cran.r-project.org/package=docreview): Opinionated Documentation Checking
 
-
-**BioC**
-
-
++ [{hidetify} 0.0.1](https://cran.r-project.org/package=hidetify): Identify Influential Observations in High Dimension
 
 **GitHub or Bitbucket**
 
@@ -90,7 +82,9 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 
 + [matrixStats 0.60.1](https://www.jottr.org/2021/08/23/matrixstats-gsoc-2021/): Consistent Support for Name Attributes via GSoC Project 
 
++ [{ggh4x} 0.2.0](https://cran.r-project.org/package=ggh4x): Hacks for 'ggplot2'
 
++ [{mlr3spatiotempcv} 1.0.0](https://cran.r-project.org/package=mlr3spatiotempcv): Spatiotemporal Resampling Methods for 'mlr3'
 
 ###  Videos and Podcasts
 
@@ -99,17 +93,9 @@ This week’s release was curated by [Miles McBain](htttps://milesmcbain.com), w
 + [SLICED CHAMPIONSHIP: COMPETITIVE DATA SCIENCE (S01E12)](https://www.twitch.tv/videos/1121570254)
 
 
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [Using Shiny in Healthcare: Examples from the 2021 Shiny Contest](https://blog.rstudio.com/2021/08/17/using-shiny-in-healthcare/)
-
-
-### R Internationally
-
 
 
 ###  Tutorials
@@ -145,12 +131,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [8 reasons to come to EARL Conference online 2021](https://www.mango-solutions.com/8-reasons-to-come-to-earl-conference-online-2021/)
-
-### Datasets
-
-### Jobs
-
-
 
 
 ###  Call for Participation
