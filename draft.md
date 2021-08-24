@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [Installing an R Build Environment on Solaris - Run R CMD check or devtools::check() on a local Solaris VM](https://shikokuchuo.net/posts/14-r-on-solaris/)
 
 
 ###  New Packages
