@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Caching the results of functions of your R package](https://blog.r-hub.io/2021/07/30/cache/)
 
 ### R in the Real World
 
