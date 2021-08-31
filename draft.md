@@ -54,6 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [pathfindR 1.6.2](https://cran.r-project.org/package=pathfindR): Enrichment Analysis Utilizing Active Subnetworks
 
 
 ###  Videos and Podcasts
