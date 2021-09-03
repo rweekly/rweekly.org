@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [{emayili} Rudimentary Email Address Validation](https://datawookie.dev/blog/2021/08/emayili-rudimentary-email-address-validation/)
 
 ###  R in Organizations
 
@@ -70,11 +70,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
-
++ [(Japanese) Google ColabでRパッケージの再インストールを爆速にする](https://blog.atusy.net/2021/08/30/quickly-install-r-packages-on-colab/)
 
 ###  Tutorials
 
++ [The Mockup Blog: Displaying verbatim code chunks in RMarkdown and Xaringan presentations](https://themockup.blog/posts/2021-08-27-displaying-verbatim-code-chunks-in-xaringan-presentations/)
 
++ [Auto-label closing parentheses in RStudio](https://www.rostrum.blog/2021/08/31/add-biscuits/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
