@@ -50,6 +50,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [rOpenSci News Digest, August 2021](https://ropensci.org/blog/2021/08/31/ropensci-news-digest-august-2021/)
 
++ [Elegant and informative maps with tmap](https://r-tmap.github.io/tmap-book/visual-variables.html)
 
 ###  New Packages
 
@@ -71,7 +72,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{dauphin} 0.2.0](https://cran.r-project.org/package=dauphin): Compact Standard for Australian Phone Numbers
 
-+ [{bs4cards} 0.1.0](https://cran.r-project.org/package=bs4cards): Generate Bootstrap 4 Cards
++ [{bs4cards} 0.1.0](https://bs4cards.djnavarro.net/): Generate Bootstrap 4 Cards
 
 + [{REAT} 3.0.3](https://cran.r-project.org/package=REAT): Regional Economic Analysis Toolbox
 
@@ -143,6 +144,8 @@ Architecture
 + [(Japanese) Google ColabでRパッケージの再インストールを爆速にする](https://blog.atusy.net/2021/08/30/quickly-install-r-packages-on-colab/)
 
 ###  Tutorials
+
++ [A lightweight data validation ecosystem with R, GitHub, and Slack](https://emilyriederer.netlify.app/post/data-valid-lightweight/)
 
 + [Detecting time series outliers](https://robjhyndman.com/hyndsight/tsoutliers/)
 
