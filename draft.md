@@ -28,11 +28,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Covid Trajectories](https://kieranhealy.org/blog/archives/2021/09/03/covid-trajectories/)
 
+
++ [A way of creating clear, transparent, and unified data visualizations](https://medium.com/responsibleml/a-way-of-creating-clear-transparent-and-unified-data-visualizations-f166a828c715)
+
++ [R User or R Developer? Survey Results](https://mirai-solutions.ch/news/2021/09/01/panel-survey-data/)
+
 ###  R in Organizations
 
 
 + [rOpenSci docs are now built on r-universe](https://ropensci.org/blog/2021/09/03/runiverse-docs/)
 
++ [A Latin American R community for HR](https://www.r-consortium.org/blog/2021/08/30/a-latin-american-r-community-for-hr)
 
 ###  R in Academia
 
@@ -122,6 +128,8 @@ Architecture
 + [R's Internal Data Formats: .Rda, .RData, .rds: Why I prefer .rds and why NOT to rely on a workspace image](https://youtu.be/1pgrLc5FFoE) 
 
 
++ [Fit and predict with tidymodels for #TidyTuesday bird baths in Australia](https://juliasilge.com/blog/bird-baths/)
+
 ### Gist & Cookbook
 
 
@@ -135,6 +143,12 @@ Architecture
 + [(Japanese) Google ColabでRパッケージの再インストールを爆速にする](https://blog.atusy.net/2021/08/30/quickly-install-r-packages-on-colab/)
 
 ###  Tutorials
+
++ [Detecting time series outliers](https://robjhyndman.com/hyndsight/tsoutliers/)
+
++ [Basic R : Read so many CSV files](https://kiandlee.blogspot.com/2021/09/basic-r-read-so-many-csv-files.html)
+
++ [Weibull Distribution in R](https://finnstats.com/index.php/2021/09/02/plot-weibull-distribution-in-r/)
 
 + [The Mockup Blog: Displaying verbatim code chunks in RMarkdown and Xaringan presentations](https://themockup.blog/posts/2021-08-27-displaying-verbatim-code-chunks-in-xaringan-presentations/)
 
@@ -157,15 +171,17 @@ Architecture
 
 + [Do write positive code](https://r-critique.com/do-write-positive-code)
 
-+ [Fit and predict with tidymodels for #TidyTuesday bird baths in Australia](https://juliasilge.com/blog/bird-baths/)
-
 
 + [Update to a previous post: cutting multiple rasters with a multi-polygon shapefile](https://geekcologist.wordpress.com/2021/08/31/update-to-a-previous-post-cutting-multiple-rasters-with-a-multi-polygon-shapefile/)
 
 
 + [Subgroup analysis using a Bayesian hierarchical model](https://www.rdatagen.net/post/2021-08-31-subgroup-analysis-using-a-bayesian-hierarchical-model/)
 
-+ [A Latin American R community for HR](https://www.r-consortium.org/blog/2021/08/30/a-latin-american-r-community-for-hr)
++ [Comparing SQLite, DuckDB and Arrow with UN Trade Data](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
+
++ [Intro to evolutionary algorithms with R for beginners (from scratch) [PART 1]](https://www.rforecology.com/post/intro-to-evolutionary-algorithms-with-r-for-beginners-from-scratch-part-1/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rforecology+%28R+%28for+ecology%29%29)
+
++ [Bond Modified Duration in R](https://kiandlee.blogspot.com/2021/09/bond-modified-duration-in-r.html)
 
 + [Introducing {numberwang} - numbers to words and vice versa)](https://coolbutuseless.github.io/2021/08/30/introducing-numberwang-numbers-to-words-and-vice-versa/)
 
