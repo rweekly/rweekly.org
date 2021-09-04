@@ -113,6 +113,7 @@ Architecture
 
 + [{DT} 0.19](https://cran.r-project.org/package=DT): A Wrapper of the JavaScript Library 'DataTables'
 
++ [pathfindR 1.6.2](https://cran.r-project.org/package=pathfindR): Enrichment Analysis Utilizing Active Subnetworks
 
 
 ###  Videos and Podcasts
