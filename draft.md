@@ -8,15 +8,20 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by Wolfram Qin, with help from the R Weekly team members and contributors.
 
 
 
 ###  Highlight
 
++ [{gitlabr} 2.0](https://rtask.thinkr.fr/gitlabr-v2-0-is-on-cran/) - Communicate with GitLab API from R
 
++ [Elegant and informative maps with tmap](https://r-tmap.github.io/tmap-book/visual-variables.html)
+
++ [A lightweight data validation ecosystem with R, GitHub, and Slack](https://emilyriederer.netlify.app/post/data-valid-lightweight/)
 
 ### Insights
+
 
 
 ### R in the Real World
@@ -28,29 +33,40 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Covid Trajectories](https://kieranhealy.org/blog/archives/2021/09/03/covid-trajectories/)
 
+![https://kieranhealy.org/blog/archives/2021/09/03/covid-trajectories/](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/density-decile-man.png)
 
 + [A way of creating clear, transparent, and unified data visualizations](https://medium.com/responsibleml/a-way-of-creating-clear-transparent-and-unified-data-visualizations-f166a828c715)
 
 + [R User or R Developer? Survey Results](https://mirai-solutions.ch/news/2021/09/01/panel-survey-data/)
+
++ [Exploring Stock Market Listing Mortality since 1986](https://www.redwallanalytics.com/2021/08/29/exploring-stock-market-listing-mortality-since-1986/)
+
+![Exploring Stock Market Listing Mortality since 1986](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/mortality.png)
 
 ###  R in Organizations
 
 
 + [rOpenSci docs are now built on r-universe](https://ropensci.org/blog/2021/09/03/runiverse-docs/)
 
+![rOpenSci docs are now built on r-universe](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/runiverse.png)
+
 + [A Latin American R community for HR](https://www.r-consortium.org/blog/2021/08/30/a-latin-american-r-community-for-hr)
 
 ###  R in Academia
 
++ [Teaching the tidyverse in 2021](https://www.tidyverse.org/blog/2021/08/teach-tidyverse-2021/)
+
+![Teaching the tidyverse in 2021](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/tidyverse.png)
 
 
 ###  Resources
 
-+ [Teaching the tidyverse in 2021](https://www.tidyverse.org/blog/2021/08/teach-tidyverse-2021/)
 
 + [rOpenSci News Digest, August 2021](https://ropensci.org/blog/2021/08/31/ropensci-news-digest-august-2021/)
 
 + [Elegant and informative maps with tmap](https://r-tmap.github.io/tmap-book/visual-variables.html)
+
+![Elegant and informative maps with tmap](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/tmap.png)
 
 ###  New Packages
 
@@ -66,11 +82,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{ggseg} 1.6.4](https://cran.r-project.org/package=ggseg): Plotting Tool for Brain Atlases
 
+![ggseg](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/ggseg.png)
+
 + [{geodiv} 1.0.4](https://cran.r-project.org/package=geodiv): Methods for Calculating Gradient Surface Metrics
 
 + [{expands} 2.1.3](https://cran.r-project.org/package=expands): Expanding Ploidy and Allele-Frequency on Nested Subpopulations
-
-+ [{dauphin} 0.2.0](https://cran.r-project.org/package=dauphin): Compact Standard for Australian Phone Numbers
 
 + [{bs4cards} 0.1.0](https://bs4cards.djnavarro.net/): Generate Bootstrap 4 Cards
 
@@ -131,6 +147,8 @@ Architecture
 
 + [Fit and predict with tidymodels for #TidyTuesday bird baths in Australia](https://juliasilge.com/blog/bird-baths/)
 
+![Fit and predict with tidymodels for #TidyTuesday bird baths in Australia](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/bird-baths.png)
+
 ### Gist & Cookbook
 
 
@@ -147,7 +165,11 @@ Architecture
 
 + [A lightweight data validation ecosystem with R, GitHub, and Slack](https://emilyriederer.netlify.app/post/data-valid-lightweight/)
 
+![A lightweight data validation ecosystem with R, GitHub, and Slack](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/data-valid.png)
+
 + [Detecting time series outliers](https://robjhyndman.com/hyndsight/tsoutliers/)
+
+![Detecting time series outliers](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/tsoutlitne.png)
 
 + [Basic R : Read so many CSV files](https://kiandlee.blogspot.com/2021/09/basic-r-read-so-many-csv-files.html)
 
@@ -161,18 +183,13 @@ Architecture
 
 + [A Visual History of Patent Protection](https://www.markuslang.org/blog/archives/2021/09/03/a-visual-history-of-patent-protection/)
 
+![A Visual History of Patent Protection](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/patent.png)
+
 + [Create a GitHub issue from a reprex with shrtcts](https://www.garrickadenbuie.com/blog/shrtcts-reprex-to-issue/)
 
 
 + [PDF editing](https://scottishsnow.wordpress.com/2021/09/02/pdf-editing/)
 
-+ [EARL Conference online: Code of conduct](https://www.mango-solutions.com/earl-conference-online-code-of-conduct/)
-
-+ [Weibull Distribution in R](https://finnstats.com/index.php/2021/09/02/plot-weibull-distribution-in-r/)
-
-+ [R user or R Developer? The survey results](https://mirai-solutions.ch/news/2021/09/01/panel-survey-data/)
-
-+ [Do write positive code](https://r-critique.com/do-write-positive-code)
 
 
 + [Update to a previous post: cutting multiple rasters with a multi-polygon shapefile](https://geekcologist.wordpress.com/2021/08/31/update-to-a-previous-post-cutting-multiple-rasters-with-a-multi-polygon-shapefile/)
@@ -188,15 +205,10 @@ Architecture
 
 + [Introducing {numberwang} - numbers to words and vice versa)](https://coolbutuseless.github.io/2021/08/30/introducing-numberwang-numbers-to-words-and-vice-versa/)
 
-+ [RStudio Connect 2021.08.0 Python Updates](https://blog.rstudio.com/2021/08/30/rstudio-connect-2021-08-python-updates/)
-
 + [RStudio Connect 2021.08.0 Custom Branding](https://blog.rstudio.com/2021/08/30/rstudio-connect-2021-08-custom-branding/)
 
 + [Announcing Calendar Based Versioning for All Commercial RStudio Products](https://blog.rstudio.com/2021/08/30/calendar-versioning-for-commercial-rstudio-products/)
 
-+ [Exploring Stock Market Listing Mortality since 1986](https://www.redwallanalytics.com/2021/08/29/exploring-stock-market-listing-mortality-since-1986/)
-
-+ [moralizing gods drive Nature rejection](https://xianblog.wordpress.com/2021/08/29/moralizing-gods-drive-nature-rejection/)
 
 + [How to Perform Tukey HSD Test in R](https://finnstats.com/index.php/2021/08/28/how-to-perform-tukey-hsd-test-in-r/)
 
@@ -219,6 +231,7 @@ Events in 3 Months:
 
 ### Datasets
 
+
 ### Jobs
 
 
@@ -230,3 +243,5 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The pre-print version of my book &quot;Analyzing US Census Data: Methods, Maps, and Models in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>&quot; is now available to read for free online: <a href="https://t.co/48fG6HhhXE">https://t.co/48fG6HhhXE</a>. Read on in this thread for an overview of the book&#39;s content! <a href="https://t.co/US4nt1PBtB">pic.twitter.com/US4nt1PBtB</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1432357038772957189?ref_src=twsrc%5Etfw">August 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
