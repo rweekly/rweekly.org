@@ -26,7 +26,6 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
 ### R in the Real World
 
-+ [{emayili} Rudimentary Email Address Validation](https://datawookie.dev/blog/2021/08/emayili-rudimentary-email-address-validation/)
 
 + [How to confuse your shareholders by bad data visualization](https://paulvanderlaken.com/2021/08/31/how-to-confuse-your-shareholders-by-bad-data-visualization/)
 
@@ -80,15 +79,15 @@ This week’s release was curated by Wolfram Qin, with help from the R Weekly te
 
 + [{matrixdist} 1.1.3](https://cran.r-project.org/package=matrixdist): Statistics for Matrix Distributions
 
-+ [{ggseg} 1.6.4](https://cran.r-project.org/package=ggseg): Plotting Tool for Brain Atlases
-
-![ggseg](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/ggseg.png)
-
 + [{geodiv} 1.0.4](https://cran.r-project.org/package=geodiv): Methods for Calculating Gradient Surface Metrics
 
 + [{expands} 2.1.3](https://cran.r-project.org/package=expands): Expanding Ploidy and Allele-Frequency on Nested Subpopulations
 
 + [{bs4cards} 0.1.0](https://bs4cards.djnavarro.net/): Generate Bootstrap 4 Cards
+
++ [{ggseg} 1.6.4](https://cran.r-project.org/package=ggseg): Plotting Tool for Brain Atlases
+
+![ggseg](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/ggseg.png)
 
 + [{REAT} 3.0.3](https://cran.r-project.org/package=REAT): Regional Economic Analysis Toolbox
 
@@ -163,7 +162,10 @@ Architecture
 
 ###  Tutorials
 
++ [{emayili} Rudimentary Email Address Validation](https://datawookie.dev/blog/2021/08/emayili-rudimentary-email-address-validation/)
+
 + [A lightweight data validation ecosystem with R, GitHub, and Slack](https://emilyriederer.netlify.app/post/data-valid-lightweight/)
+
 
 ![A lightweight data validation ecosystem with R, GitHub, and Slack](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/data-valid.png)
 
@@ -181,9 +183,6 @@ Architecture
 
 + [A technical interview question](https://scottishsnow.wordpress.com/2021/09/03/interview-question/)
 
-+ [A Visual History of Patent Protection](https://www.markuslang.org/blog/archives/2021/09/03/a-visual-history-of-patent-protection/)
-
-![A Visual History of Patent Protection](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/patent.png)
 
 + [Create a GitHub issue from a reprex with shrtcts](https://www.garrickadenbuie.com/blog/shrtcts-reprex-to-issue/)
 
@@ -202,6 +201,10 @@ Architecture
 + [Intro to evolutionary algorithms with R for beginners (from scratch) [PART 1]](https://www.rforecology.com/post/intro-to-evolutionary-algorithms-with-r-for-beginners-from-scratch-part-1/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rforecology+%28R+%28for+ecology%29%29)
 
 + [Bond Modified Duration in R](https://kiandlee.blogspot.com/2021/09/bond-modified-duration-in-r.html)
+
++ [A Visual History of Patent Protection](https://www.markuslang.org/blog/archives/2021/09/03/a-visual-history-of-patent-protection/)
+
+![A Visual History of Patent Protection](https://raw.githubusercontent.com/rweekly/image/master/2021/W36/patent.png)
 
 + [Introducing {numberwang} - numbers to words and vice versa)](https://coolbutuseless.github.io/2021/08/30/introducing-numberwang-numbers-to-words-and-vice-versa/)
 
