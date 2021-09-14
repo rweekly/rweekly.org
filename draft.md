@@ -74,6 +74,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [ggplot-tips: Using position_stack() for Individual Positioning](https://albert-rapp.de/post/2021-09-11-position-adjustment/)
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
