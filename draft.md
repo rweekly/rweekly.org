@@ -42,7 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{r2pptx} Object Oriented R -> PowerPoint](https://cran.r-project.org/package=r2pptx): Provides a friendly, object oriented API for creating PowerPoint slide decks in R.
 
 **BioC**
 
@@ -76,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [ggplot-tips: Using position_stack() for Individual Positioning](https://albert-rapp.de/post/2021-09-11-position-adjustment/)
 
++ [Creating PowerPoint decks in R with r2pptx](https://mattle24.github.io/mattle24_blog/public/releasing-r2pptx-on-cran/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
