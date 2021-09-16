@@ -42,6 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+
 + [{r2pptx} Object Oriented R -> PowerPoint](https://cran.r-project.org/package=r2pptx): Provides a friendly, object oriented API for creating PowerPoint slide decks in R.
 
 **BioC**
