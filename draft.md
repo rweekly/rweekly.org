@@ -18,11 +18,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [LA R Expands Beyond California](https://www.r-consortium.org/blog/2021/09/15/la-r-expands-beyond-california)
 
++ [How do you use Shiny to communicate to 8 million people?](https://blog.rstudio.com/2021/09/14/how-do-you-use-shiny-to-communicate-to-8-million-people/)
+
++ [Creating Successful R User Groups in Abuja, Nigeria](https://www.r-consortium.org/blog/2021/09/16/creating-successful-r-user-groups-in-abuja-nigeria)
 
 ### R in the Real World
 
++ [Scrape clubs predictions and visualize championship winning probabilities.](https://abdoulblog.netlify.app/posts/2021-09-03-club-predictions/)
 
++ [Climate circles](https://dominicroye.github.io/en/2021/climate-circles/)
+
++ [Nonlinear Market Forecasting using ‘Stealth Curves’](https://r-posts.com/nonlinear-market-forecasting-using-stealth-curves/)
+
++ [Finding the Eras of MTV's The Challenge Through Clustering](https://jlaw.netlify.app/2021/09/15/finding-the-eras-of-mtv-s-the-challenge-through-clustering/)
+
++ [Netting income](https://www.optionstocksmachines.com/post/2021-08-18-neural-nets-5/netting-income/)
+
++ [Does 100 m equal 1 km?](http://r.iresmi.net/2021/09/16/does-100-m-equal-1-km/)
 
 ###  R in Organizations
 
@@ -30,11 +44,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
++ [RTutor: Insurance and the Church](http://skranz.github.io//r/2021/09/16/RTutor-GodInsures.html)
+
++ [The Statsomat Apps with R and Python](https://r-posts.com/the-statsomat-apps-with-r-and-python/)
 
 
 ###  Resources
 
-
++ [Download recently published book – Learn Data Science with R](http://r-posts.com/download-recently-published-book-learn-data-science-with-r/)
 
 ###  New Packages
 
@@ -42,8 +59,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
 + [{r2pptx} Object Oriented R -> PowerPoint](https://cran.r-project.org/package=r2pptx): Provides a friendly, object oriented API for creating PowerPoint slide decks in R.
+
++ [{webexercises} 1.0.0](https://cran.r-project.org/package=webexercises): Create Interactive Web Exercises in 'R Markdown' (Formerly
+'webex')
+
++ [{fsr} 1.0.0](https://cran.r-project.org/package=fsr): Handling Fuzzy Spatial Data
+
++ [{ebirdst} 0.3.2](https://cran.r-project.org/package=ebirdst): Access and Analyze eBird Status and Trends Data
+
++ [{macleish} 0.3.8](https://cran.r-project.org/package=macleish): Retrieve Data from MacLeish Field Station
 
 **BioC**
 
@@ -55,11 +80,21 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [{tidyCpp 0.0.5} More Protect’ion](http://dirk.eddelbuettel.com/blog/2021/09/17#tidycpp_0.0.5)
 
++ [{styler} 1.6.1](https://cran.r-project.org/package=styler): Non-Invasive Pretty Printing of R Code
+
++ [{shinytest} 1.5.1](https://cran.r-project.org/package=shinytest): Test Shiny Apps
+
++ [{vroom} 1.5.5](https://cran.r-project.org/package=vroom): Read and Write Rectangular Text Data Quickly
+
++ [{rmarkdown} 2.11](https://cran.r-project.org/package=rmarkdown): Dynamic Documents for R
 
 ###  Videos and Podcasts
 
++ [Creating Your Own R Package: Why and When](https://youtu.be/ctsGXwaxA1o)
 
++ [Beyond Bar and Box Plots](https://github.com/z3tt/beyond-bar-and-box-plots/blob/main/README.md)
 
 ### Gist & Cookbook
 
@@ -79,6 +114,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Creating PowerPoint decks in R with r2pptx](https://mattle24.github.io/mattle24_blog/public/releasing-r2pptx-on-cran/)
 
++ [{emayili} Rendering R Markdown](https://datawookie.dev/blog/2021/09/emayili-rendering-r-markdown/)
+
++ [Why I’m Excited to Join RStudio, Told Through a {blogdown} Metadata Project](https://ivelasq.rbind.io/blog/why-rstudio/)
+
++ [How to Use System Commands in your R Script or Package](https://ropensci.org/blog/2021/09/13/system-calls-r-package/)
+
++ [Signed and verified: signed git commits with Keybase and RStudio](https://www.garrickadenbuie.com/blog/signed-verified-git-commits-keybase-rstudio/)
+
++ [Drawing the wrong conclusion about subgroups: a comparison of Bayes and frequentist methods](https://www.rdatagen.net/post/2021-09-14-drawing-the-wrong-conclusion-a-comparison-of-bayes-and-frequentist-methods/)
+
++ [Is the Stock Market Efficient? Let your ZIP Compression Tool give an Answer!](https://blog.ephorie.de/is-the-stock-market-efficient-let-your-zip-compression-tool-give-an-answer?utm_source=rss&utm_medium=rss&utm_campaign=is-the-stock-market-efficient-let-your-zip-compression-tool-give-an-answer)
+
++ [Introducing {priorityqueue} - two simple priority queues. One written in R, the other in C](https://coolbutuseless.github.io/2021/09/14/introducing-priorityqueue-two-simple-priority-queues.-one-written-in-r-the-other-in-c/)
+
++ [Dimensionality reduction for #TidyTuesday Billboard Top 100 songs](https://juliasilge.com/blog/billboard-100/)
+
++ [Little useless-useful R functions – Useless analog and digital clocks](https://tomaztsql.wordpress.com/2021/09/16/little-useless-useful-r-functions-useless-analog-and-digital-clocks/)
+
++ [New {flexo} vignette - parsing subtitles in srt format](https://coolbutuseless.github.io/2021/09/16/new-flexo-vignette-parsing-subtitles-in-srt-format/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -91,6 +145,9 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [Fast and {furrr}-ious: real time economic monitoring using R](https://www.mango-solutions.com/fast-and-furrr-ious-real-time-economic-monitoring-using-r/)
+
++ [Register now! PSI Scientific Meeting: Generating Insights through Modern Applications of Data Visualisation](https://www.r-consortium.org/blog/2021/09/14/register-now-psi-scientific-meeting-generating-insights-through-modern-applications-of-data-visualisation)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
