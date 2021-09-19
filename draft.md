@@ -96,6 +96,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Beyond Bar and Box Plots](https://github.com/z3tt/beyond-bar-and-box-plots/blob/main/README.md)
 
++ [Creating more versatile functions using dot-dot-dot and curly-curly](https://www.youtube.com/watch?v=L_sX-sL9aWM)
+
 ### Gist & Cookbook
 
 
@@ -111,6 +113,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Tutorials
 
 + [ggplot-tips: Using position_stack() for Individual Positioning](https://albert-rapp.de/post/2021-09-11-position-adjustment/)
+
++ [Creating more versatile functions using dot-dot-dot and curly-curly](https://albert-rapp.de/post/2021-09-16-similar-data-and-list-like-columns/)
 
 + [Creating PowerPoint decks in R with r2pptx](https://mattle24.github.io/mattle24_blog/public/releasing-r2pptx-on-cran/)
 
