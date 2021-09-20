@@ -42,6 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+- [{nominatimlite} 0.1.0](https://cran.r-project.org/package=nominatimlite): Lite interface for getting data from OSM service Nominatim. Extract coordinates from addresses, find places near a set of coordinates, search for amenities and return spatial objects on 'sf' format.
 
 
 **BioC**
@@ -54,7 +55,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-
+- [{climaemet} 1.0.0](https://cran.r-project.org/package=climaemet): Tools to download the climatic data of the Spanish Meteorological Agency (AEMET) directly from R using their API.
 
 ###  Videos and Podcasts
 
