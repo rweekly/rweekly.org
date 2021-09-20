@@ -58,6 +58,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
++ [terrainr - Generating Landscape Visualizations Using R and Unity](https://www.youtube.com/watch?v=xWZ7QQMr_AQ)
 
 
 ### Gist & Cookbook
