@@ -78,6 +78,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Choice-based conjoint surveys in R with formr](https://www.jhelvy.com/posts/2021-09-18-choice-based-conjoint-surveys-in-r-with-formr/)
 
++ [How correlated are survey estimates from overlapping groups?](https://www.practicalsignificance.com/posts/how-correlated-are-survey-estimates-from-overlapping-groups/)
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
