@@ -58,6 +58,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [{climaemet} 1.0.0](https://cran.r-project.org/package=climaemet): Tools to download the climatic data of the Spanish Meteorological Agency (AEMET) directly from R using their API.
 
+- [{ichimoku} 1.2.1](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies. Updates: create cloud charts from any price series, pair with oscillators, save financial data directly from live charts powered by the OANDA fxTrade API.
+
 ###  Videos and Podcasts
 
 + [terrainr - Generating Landscape Visualizations Using R and Unity](https://www.youtube.com/watch?v=xWZ7QQMr_AQ)
