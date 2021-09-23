@@ -22,6 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
++ [Automated {drat} uploads with GitHub Actions](https://www.mm218.dev/posts/2021-09-22-automated-drat-uploads-with-github-actions/)
 
 
 ###  R in Organizations
