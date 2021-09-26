@@ -96,7 +96,7 @@ Proteomics
 
 + [Preparing for a Shiny UI/UX webinar!](https://www.youtube.com/watch?v=iKmHt-lWyX0)
 
-+ [https://www.youtube.com/watch?v=llpLZrrkG7E](https://www.youtube.com/watch?v=llpLZrrkG7E)
++ [Creating GitHub pull requests from {shinycal} (part 1)](https://www.youtube.com/watch?v=llpLZrrkG7E)
 
 + [Linking patient-reported outcomes measures with PROsetta by Ryan Honomichl](https://www.youtube.com/watch?v=dLQ02fT2s-w)
 
