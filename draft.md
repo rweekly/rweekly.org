@@ -12,17 +12,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Draft
 
-+ [Mark White's R Blog](https://www.markhw.com/blog?format=rss) 
-+ 
-+ [Plotting model-based clusters of population genetic structure  with ggplot. An example with microsatellite data and DAPC](https://luisdva.github.io/rstats/dapc-plot/) - 23/09/2021
-+ 
-+ [French shiny app describing the impact of food on the environment.](https://zloak.shinyapps.io/environnement-aliment/) - 22/09/2021
-+ 
-+ [French shiny application describing the impact of food on the environment. Using the open source data from Agribalyse.](https://zloak.shinyapps.io/impact-co2-aliments/) - 22/09/2021
-+ 
-+ [Creating Your First R Package in 2 Minutes in RStudio!](https://youtu.be/47PN2VG3RmI) - 20/09/2021
-+ 
-+ [A how-to guide for using R to design and implement choice-based conjoint surveys using formr.org](https://www.jhelvy.com/posts/2021-09-18-choice-based-conjoint-surveys-in-r-with-formr/) - 19/09/2021
+
++ [Plotting model-based clusters of population genetic structure  with ggplot. An example with microsatellite data and DAPC](https://luisdva.github.io/rstats/dapc-plot/)
+
++ [French shiny app describing the impact of food on the environment.](https://zloak.shinyapps.io/environnement-aliment/)
+
++ [French shiny application describing the impact of food on the environment. Using the open source data from Agribalyse.](https://zloak.shinyapps.io/impact-co2-aliments/)
+
++ [Creating Your First R Package in 2 Minutes in RStudio!](https://youtu.be/47PN2VG3RmI)
+ 
++ [A how-to guide for using R to design and implement choice-based conjoint surveys using formr.org](https://www.jhelvy.com/posts/2021-09-18-choice-based-conjoint-surveys-in-r-with-formr/)
 
 
 
@@ -103,6 +102,18 @@ Proteomics
 ###  Videos and Podcasts
 
 + [terrainr - Generating Landscape Visualizations Using R and Unity](https://www.youtube.com/watch?v=xWZ7QQMr_AQ)
+
++ [R for Data Science Book Club: Chapter 11: Data Import Part 1 (r4ds05)](https://www.youtube.com/watch?v=s5b_QkLSYeE)
+
++ [R packages for using Stan](https://www.youtube.com/watch?v=l9IQ5ypVAk0)
+
++ [Preparing for a Shiny UI/UX webinar!](https://www.youtube.com/watch?v=iKmHt-lWyX0)
+
++ [https://www.youtube.com/watch?v=llpLZrrkG7E](https://www.youtube.com/watch?v=llpLZrrkG7E)
+
++ [Linking patient-reported outcomes measures with PROsetta by Ryan Honomichl](https://www.youtube.com/watch?v=dLQ02fT2s-w)
+
++ [R-Ladies Coventry & Utrecht (English) - Growing into the R community - Dr Shannon Pileggi](https://www.youtube.com/watch?v=ozkJkiYxHGU)
 
 
 ### Gist & Cookbook
