@@ -10,6 +10,24 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
+### Draft
+
++ [Mark White's R Blog](https://www.markhw.com/blog?format=rss) 
++ 
++ [Plotting model-based clusters of population genetic structure  with ggplot. An example with microsatellite data and DAPC](https://luisdva.github.io/rstats/dapc-plot/) - 23/09/2021
++ 
++ [French shiny app describing the impact of food on the environment.](https://zloak.shinyapps.io/environnement-aliment/) - 22/09/2021
++ 
++ [French shiny application describing the impact of food on the environment. Using the open source data from Agribalyse.](https://zloak.shinyapps.io/impact-co2-aliments/) - 22/09/2021
++ 
++ [Creating Your First R Package in 2 Minutes in RStudio!](https://youtu.be/47PN2VG3RmI) - 20/09/2021
++ 
++ [A how-to guide for using R to design and implement choice-based conjoint surveys using formr.org](https://www.jhelvy.com/posts/2021-09-18-choice-based-conjoint-surveys-in-r-with-formr/) - 19/09/2021
+
+
+
+#### Updates
+
 
 
 ###  Highlight
@@ -48,6 +66,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [{nominatimlite} 0.1.0](https://cran.r-project.org/package=nominatimlite): Lite interface for getting data from OSM service Nominatim. Extract coordinates from addresses, find places near a set of coordinates, search for amenities and return spatial objects on 'sf' format.
 
++ [{d3po} 0.3.2](https://cran.r-project.org/package=d3po): Fast and Beautiful Interactive Visualization for 'Markdown' and
+'Shiny'
+
++ [{scRNAstat} 0.1.1](https://cran.r-project.org/package=scRNAstat): A Pipeline to Process Single Cell RNAseq Data
+
++ [{net4pg} 0.1.0](https://cran.r-project.org/package=net4pg): Handle Ambiguity of Protein Identifications from Shotgun
+Proteomics
 
 **BioC**
 
@@ -69,6 +94,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{hockeyR} 0.1.0](https://cran.r-project.org/package=hockeyR): Collect and Clean Hockey Stats.
 
++ [{aRtsy} 0.1.2](https://cran.r-project.org/package=aRtsy): Generative Art with 'ggplot2'
+
++ [{phytools} 0.7-90](https://cran.r-project.org/package=phytools): Phylogenetic Tools for Comparative Biology (and Other Things)
+
++ [{maps} 3.4.0](https://cran.r-project.org/package=maps): Draw Geographical Maps
+
 ###  Videos and Podcasts
 
 + [terrainr - Generating Landscape Visualizations Using R and Unity](https://www.youtube.com/watch?v=xWZ7QQMr_AQ)
@@ -84,7 +115,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
-
++ [مدونة متخصصة في مواضيع حول جمع وتصوير ونمذجة البيانات والتعلم الآلي](feed:https://www.arabiananalyst.com/index.xml) 
 
 ###  Tutorials
 
