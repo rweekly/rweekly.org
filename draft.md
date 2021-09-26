@@ -143,6 +143,8 @@ Events in 3 Months:
 
 + [October 2: satRday Columbus](https://columbus2021.satrdays.org/)
 
++ [November 2-4: R/Pharma 2021 ](https://rinpharma.com/post/2021-09-21-registration/)
+
 + [November 10-12: LatinR 2021](https://latin-r.com/en)
 
 + [November 24-26: The Use of R in Official Statistics](https://r-project.ro/conference2021.html)
