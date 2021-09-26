@@ -10,23 +10,6 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
-### Draft
-
-
-+ [Plotting model-based clusters of population genetic structure  with ggplot. An example with microsatellite data and DAPC](https://luisdva.github.io/rstats/dapc-plot/)
-
-+ [French shiny app describing the impact of food on the environment.](https://zloak.shinyapps.io/environnement-aliment/)
-
-+ [French shiny application describing the impact of food on the environment. Using the open source data from Agribalyse.](https://zloak.shinyapps.io/impact-co2-aliments/)
-
-+ [Creating Your First R Package in 2 Minutes in RStudio!](https://youtu.be/47PN2VG3RmI)
- 
-+ [A how-to guide for using R to design and implement choice-based conjoint surveys using formr.org](https://www.jhelvy.com/posts/2021-09-18-choice-based-conjoint-surveys-in-r-with-formr/)
-
-
-
-#### Updates
-
 
 
 ###  Highlight
@@ -51,10 +34,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
++ [Plotting model-based clusters of population genetic structure  with ggplot. An example with microsatellite data and DAPC](https://luisdva.github.io/rstats/dapc-plot/)
 
 
 ###  Resources
 
++ [Modern Statistics with R-From wrangling and exploring data to inference and predictive modelling by Måns Thulin](http://www.modernstatisticswithr.com/)
+
++ [Resources for Data Viz Accessibility](https://silvia.rbind.io/blog/2021-curated-compilations/01-data-viz-a11y/)
 
 
 ###  New Packages
@@ -115,14 +102,21 @@ Proteomics
 
 + [R-Ladies Coventry & Utrecht (English) - Growing into the R community - Dr Shannon Pileggi](https://www.youtube.com/watch?v=ozkJkiYxHGU)
 
++ [Creating Your First R Package in 2 Minutes in RStudio!](https://youtu.be/47PN2VG3RmI)
+
+
 
 ### Gist & Cookbook
+
+[Submarine Cable Map Dataviz](https://gist.github.com/tylermorganwall/b222fcebcac3de56a6e144d73d166322)
 
 
 
 ### Shiny Apps
 
++ [French shiny app describing the impact of food on the environment.](https://zloak.shinyapps.io/environnement-aliment/)
 
++ [French shiny application describing the impact of food on the environment. Using the open source data from Agribalyse.](https://zloak.shinyapps.io/impact-co2-aliments/)
 
 ### R Internationally
 
@@ -130,11 +124,13 @@ Proteomics
 
 ###  Tutorials
 
-+ [Choice-based conjoint surveys in R with formr](https://www.jhelvy.com/posts/2021-09-18-choice-based-conjoint-surveys-in-r-with-formr/)
 
 + [How correlated are survey estimates from overlapping groups?](https://www.practicalsignificance.com/posts/how-correlated-are-survey-estimates-from-overlapping-groups/)
 + [{emayili} Styling Figures](https://datawookie.dev/blog/2021/09/emayili-styling-figures/)
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+
++ [A how-to guide for using R to design and implement choice-based conjoint surveys using formr.org](https://www.jhelvy.com/posts/2021-09-18-choice-based-conjoint-surveys-in-r-with-formr/)
+
 
 ###  R Project Updates
 
@@ -169,5 +165,9 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a>! The Earth&#39;s submarine fiber optic cable network, visualized in <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> with <a href="https://twitter.com/hashtag/rayrender?src=hash&amp;ref_src=twsrc%5Etfw">#rayrender</a>. <br><br>Code:<a href="https://t.co/6tFsS4vfAK">https://t.co/6tFsS4vfAK</a><br><br>Rayrender Github:<a href="https://t.co/iB5nWhGY7l">https://t.co/iB5nWhGY7l</a> <a href="https://t.co/1FTKM0FPHr">pic.twitter.com/1FTKM0FPHr</a></p>&mdash; Tyler Morgan-Wall (@tylermorganwall) <a href="https://twitter.com/tylermorganwall/status/1440669533157556227?ref_src=twsrc%5Etfw">September 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📊🧵 Collection of tweets featuring open-access materials that I have shared over the last years: <br>Talks, seminars, blog posts, hands-on notebooks, codes, and more!<br> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> 🧙‍♂️ <a href="https://t.co/eMY2DqghNL">pic.twitter.com/eMY2DqghNL</a></p>&mdash; Cédric Scherer 💉💉 (@CedScherer) <a href="https://twitter.com/CedScherer/status/1441126976870252548?ref_src=twsrc%5Etfw">September 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Using <a href="https://twitter.com/hashtag/docker?src=hash&amp;ref_src=twsrc%5Etfw">#docker</a> with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> is a really powerful combo.<br><br>What are your favourite resources for getting started with Docker?<br><br>Here is my top 5 list: 👇 <a href="https://t.co/285Zn2pS5J">pic.twitter.com/285Zn2pS5J</a></p>&mdash; Péter Sólymos (@psolymos) <a href="https://twitter.com/psolymos/status/1440344622010548241?ref_src=twsrc%5Etfw">September 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
