@@ -5,11 +5,9 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
+This week’s release was curated by [Batool Almarzouq](https://github.com/BatoolMM), with help from the R Weekly team members and contributors.
 
 
 ###  Highlight
@@ -20,10 +18,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Resources for Data Viz Accessibility](https://silvia.rbind.io/blog/2021-curated-compilations/01-data-viz-a11y/)
 
-
 ### Insights
 
 + [Curating for @WeAreRLadies on Twitter](https://blog.rstudio.com/2021/09/23/curating-for-wearerladies-on-twitter/)
+
+![This is a table developed by Shannon Pileggi using the Google slide template from R-Ladies branding to compare between blogdown and distill. It says in the table that the learning curve for blogdown is harder and it requires hugo templating and themes unlike distill, which doesn't require either but its page layout is limited](https://raw.githubusercontent.com/rweekly/image/master/2021-09-27/we-are-rladies.png)
+
 
 ### R in the Real World
 
@@ -42,9 +42,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Resources
 
 + [Modern Statistics with R-From wrangling and exploring data to inference and predictive modelling by Måns Thulin](http://www.modernstatisticswithr.com/)
++ ![The cover of the book "Modern Statistics with R-From wrangling and exploring data to inference and predictive modelling by Måns Thulin". The book has a purple line at the top, and the title is written on a white background. There's yellow, and orange sequare boxes at the top right and the bottom left. The author name is written with an orange background at the bottom right.](https://raw.githubusercontent.com/rweekly/image/master/2021-09-27/mswr-cover-modern-stat-cover.png)
 
 + [Resources for Data Viz Accessibility](https://silvia.rbind.io/blog/2021-curated-compilations/01-data-viz-a11y/)
-
+![This shows the guidlines by Amy Cesal on how to write alt text for data visualizations. It says that alt text = "chart type of type of data where resaons for including chart and include a link to data source in the text"](https://raw.githubusercontent.com/rweekly/image/master/2021-09-27/alt-text-amy-cesal-accessibility.png)
 
 ###  New Packages
 
@@ -107,7 +108,6 @@ Proteomics
 
 [Submarine Cable Map Dataviz](https://gist.github.com/tylermorganwall/b222fcebcac3de56a6e144d73d166322)
 
-
 ### Shiny Apps
 
 + [French shiny app describing the impact of food on the environment.](https://zloak.shinyapps.io/environnement-aliment/)
@@ -122,6 +122,8 @@ Proteomics
 
 
 + [How correlated are survey estimates from overlapping groups?](https://www.practicalsignificance.com/posts/how-correlated-are-survey-estimates-from-overlapping-groups/)
+![Illustration of how survey package works. This figure shows a bar plot where x-axis is the age group, and the y axis is the vaccination rates. The plot shows that 60% of individuals of the age group of 30-50 are vaccinated, whereas 79% of individuals of 40-60 (age group) are vaccinated. Both bars colour is purple with a grey background](https://raw.githubusercontent.com/rweekly/image/master/2021-09-27/vaccination.png)
+
 + [{emayili} Styling Figures](https://datawookie.dev/blog/2021/09/emayili-styling-figures/)
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
