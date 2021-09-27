@@ -14,6 +14,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
++ [Curating for @WeAreRLadies on Twitter](https://blog.rstudio.com/2021/09/23/curating-for-wearerladies-on-twitter/)
+
++ [Creating a data pipeline with Github Actions & the {googledrive} package for the Canadian Premier League soccer data initiative!](https://ryo-n7.github.io/2021-09-23-CanPL-GoogleDrive-GithubActions-Tutorial/)
+
++ [Resources for Data Viz Accessibility](https://silvia.rbind.io/blog/2021-curated-compilations/01-data-viz-a11y/)
 
 
 ### Insights
@@ -27,9 +32,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Creating a data pipeline with Github Actions & the {googledrive} package for the Canadian Premier League soccer data initiative!](https://ryo-n7.github.io/2021-09-23-CanPL-GoogleDrive-GithubActions-Tutorial/)
 
 + [Will the next German parliament have a gigantic size? A law and coding challenge...](https://skranz.github.io/r/2021/09/24/bundestag2021.html)
-
-###  R in Organizations
-
 
 
 ###  R in Academia
@@ -59,10 +61,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{net4pg} 0.1.0](https://cran.r-project.org/package=net4pg): Handle Ambiguity of Protein Identifications from Shotgun
 Proteomics
-
-**BioC**
-
-
 
 **GitHub or Bitbucket**
 
@@ -105,11 +103,9 @@ Proteomics
 + [Creating Your First R Package in 2 Minutes in RStudio!](https://youtu.be/47PN2VG3RmI)
 
 
-
 ### Gist & Cookbook
 
 [Submarine Cable Map Dataviz](https://gist.github.com/tylermorganwall/b222fcebcac3de56a6e144d73d166322)
-
 
 
 ### Shiny Apps
@@ -120,7 +116,7 @@ Proteomics
 
 ### R Internationally
 
-+ [مدونة متخصصة في مواضيع حول جمع وتصوير ونمذجة البيانات والتعلم الآلي](feed:https://www.arabiananalyst.com/index.xml) 
+[مدونة متخصصة في مواضيع حول جمع وتصوير ونمذجة البيانات والتعلم الآلي](feed:https://www.arabiananalyst.com/index.xml) 
 
 ###  Tutorials
 
@@ -152,13 +148,6 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-
-### Datasets
-
-### Jobs
-
-
 
 
 ###  Call for Participation
