@@ -42,7 +42,7 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 ###  Resources
 
 + [Modern Statistics with R-From wrangling and exploring data to inference and predictive modelling by Måns Thulin](http://www.modernstatisticswithr.com/)
-+ ![The cover of the book "Modern Statistics with R-From wrangling and exploring data to inference and predictive modelling by Måns Thulin". The book has a purple line at the top, and the title is written on a white background. There's yellow, and orange sequare boxes at the top right and the bottom left. The author name is written with an orange background at the bottom right.](https://raw.githubusercontent.com/rweekly/image/master/2021-09-27/mswr-cover-modern-stat-cover.png)
+![The cover of the book "Modern Statistics with R-From wrangling and exploring data to inference and predictive modelling by Måns Thulin". The book has a purple line at the top, and the title is written on a white background. There's yellow, and orange sequare boxes at the top right and the bottom left. The author name is written with an orange background at the bottom right.](https://raw.githubusercontent.com/rweekly/image/master/2021-09-27/mswr-cover-modern-stat-cover.jpg)
 
 + [Resources for Data Viz Accessibility](https://silvia.rbind.io/blog/2021-curated-compilations/01-data-viz-a11y/)
 ![This shows the guidlines by Amy Cesal on how to write alt text for data visualizations. It says that alt text = "chart type of type of data where resaons for including chart and include a link to data source in the text"](https://raw.githubusercontent.com/rweekly/image/master/2021-09-27/alt-text-amy-cesal-accessibility.png)
