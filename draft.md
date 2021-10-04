@@ -5,52 +5,69 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-10-04
+Release Date: 2021-10-04
 
 This week’s release was curated by [Jonathan Carroll](https://twitter.com/carroll_jono), with help from the RWeekly team members and contributors.
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-
 ###  Highlight
 
-+ [A step-by-step article for performing ANCOVA in R](https://www.reneshbedre.com/blog/ancova.html)
 + [The Power of Parameterized Reports With Plumber](https://www.datalorax.com/post/power-parameterized-reports-plumber/)
+
 + [Plumbers, chains, and famous painters: The (updated) history of the pipe operator in R](http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/)
-+ [How to Document a Function in Your R Package](https://youtu.be/gl9fFmtXFcI)
-+ [An RStudio Table Contest for 2021](https://blog.rstudio.com/2021/09/30/rstudio-table-contest-2021/)
-+ [Introducing {cssparser} - parse CSS into R lists and apply CSS to html within R](https://coolbutuseless.github.io/2021/09/29/introducing-cssparser-parse-css-into-r-lists-and-apply-css-to-html-within-r/)
-+ [How to Use shinyMatrix and plotly Graphs as Inputs in a Shiny App](https://blog.rstudio.com/2021/09/29/how-to-use-shinymatrix-and-plotly-graphs/)
-+ [Introducing {gozer} add destruction artefacts to R objects](https://coolbutuseless.github.io/2021/09/28/introducing-gozer-add-destruction-artefacts-to-r-objects/)
+
 + [Creating a Dataset from an Image in R Markdown using reticulate](https://ivelasq.rbind.io/blog/reticulate-data-recreation/)
-+ [August 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/09/27/august-2021-top-40-new-cran-packages/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2021/W40/reticulate_600.png)
 
 
 ### Insights
 
 + [The Power of Parameterized Reports With Plumber](https://www.datalorax.com/post/power-parameterized-reports-plumber/)
+
 + [Plumbers, chains, and famous painters: The (updated) history of the pipe operator in R](http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/)
+
 + [How Tough is That Football Match?](http://dm13450.github.io/2021/09/26/Fixture-Difficulty.html)
+
 + [Use RStudio Cloud for Teaching With Caution](https://joshuamrosenberg.com/post/2021/09/14/use-rstudio-cloud-for-teaching-with-caution/)
+
 + [Running R code for all combinations of some parameters with lapply karate](http://www.seascapemodels.org/rstats/2021/10/01/lapply-karate.html)
+
 + [Solving Einstein’s Puzzle with Constraint Programming](https://blog.ephorie.de/solving-einsteins-puzzle-with-constraint-programming?utm_source=rss&utm_medium=rss&utm_campaign=solving-einsteins-puzzle-with-constraint-programming)
+
 + [F1 Strategy Analysis](https://theparttimeanalyst.com/2021/09/29/f1-strategy-analysis/)
+
 + [Introducing {cssparser} - parse CSS into R lists and apply CSS to html within R](https://coolbutuseless.github.io/2021/09/29/introducing-cssparser-parse-css-into-r-lists-and-apply-css-to-html-within-r/)
+
 + [Multiclass predictive modeling for #TidyTuesday NBER papers](https://juliasilge.com/blog/nber-papers/)
+
 + [How to Use shinyMatrix and plotly Graphs as Inputs in a Shiny App](https://blog.rstudio.com/2021/09/29/how-to-use-shinymatrix-and-plotly-graphs/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2021/W40/shinyinput_600.gif)
+
 + [Introducing {gozer} add destruction artefacts to R objects](https://coolbutuseless.github.io/2021/09/28/introducing-gozer-add-destruction-artefacts-to-r-objects/)
+
 + [Q3 2021 tidymodels roundup](https://www.tidyverse.org/blog/2021/09/tidymodels-2021-q3/)
+
 + [Creating a Dataset from an Image in R Markdown using reticulate](https://ivelasq.rbind.io/blog/reticulate-data-recreation/)
+
 + [Analyzing a factorial design by focusing on the variance of effect sizes](https://www.rdatagen.net/post/2021-09-28-analyzing-a-factorial-trial-with-a-bayesian-model/)
+
 + [Understanding the Parquet file format](https://www.jumpingrivers.com/blog/parquet-file-format-big-data-r/)
+
 + [Post election update: Will the German parliament have a gigantic size?](http://skranz.github.io//r/2021/09/27/bundestag2021_update.html)
+
 + [Using Microsoft365R with Shiny](https://blog.revolutionanalytics.com/2021/09/using-microsoft365r-with-shiny.html)
+
 + [August 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/09/27/august-2021-top-40-new-cran-packages/)
 
 
 ### R in the Real World
 
 + [The Story Behind rspatialdata](https://ropensci.org/blog/2021/09/28/rspatialdata/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2021/W40/relative-humidity-western-australia_600.jpg)
 
 
 ###  R in Organizations
@@ -63,9 +80,11 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 + [What's New on RStudio Cloud - September 2021](https://blog.rstudio.com/2021/09/28/what-s-new-on-rstudio-cloud-september-2021/)
 
+
 ###  Resources
 
 + [A Succinct Intro to R](http://r-guide.steveharoz.com/)
+
 
 ###  New Packages
 
@@ -76,6 +95,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [{GoogleImage2Array} 0.99.2](https://cran.r-project.org/package=GoogleImage2Array): Create Array Data from 2D Image Thumbnails via Google Image Search
 + [{eyetrackingR} 0.2.0](https://cran.r-project.org/package=eyetrackingR): Eye-Tracking Data Analysis
 + [{dcmodifydb} 0.1.2](https://cran.r-project.org/package=dcmodifydb): Modifying Rules on a DataBase
+
 
 ### Updated Packages
 
@@ -126,6 +146,7 @@ LaTeX Documents
 
 + [How to Import / Export SAS, SPSS, Stata Data in R: haven; Systat, WEKA: foreign](https://youtu.be/egFoDj6H9Ts)
 
+
 ###  Tutorials
 
 + [A step-by-step article for performing ANCOVA in R](https://www.reneshbedre.com/blog/ancova.html)
@@ -142,12 +163,12 @@ LaTeX Documents
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
+
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 + [September 2021 ISC Call for Proposals – Now Open!](https://www.r-consortium.org/blog/2021/10/01/september-2021-isc-call-for-proposals-now-open)
-
 
 Update from the [R Contribution Working Group](https://forwards.github.io/rcontribution/working-group) (RCWG):
 
@@ -182,6 +203,7 @@ Events in 3 Months:
 ###  Call for Participation
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
+
 
 ###  Quotes of the Week
 
