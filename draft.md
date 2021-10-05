@@ -50,6 +50,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
+ + [{rtweettree}](https://github.com/urswilke/rtweettree): Visualizes twitter interactions as tree graphs.
+
 
 
 ### Updated Packages
