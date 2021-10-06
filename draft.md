@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Did German Voters Become More Impulsive?](https://albert-rapp.de/post/2021-10-03-sonntagsfrage/)
 
 ### R in the Real World
 
