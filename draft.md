@@ -46,6 +46,12 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [{emayili} Message Integrity](https://datawookie.dev/blog/2021/10/emayili-message-integrity/)
 
++ [satRday Columbus 2021: Speaking python inside of R workflows](https://awong234.github.io/reticulate_pres/#1)
+
++ [satRday Columbus 2021: Scalable Shapley Explanations in R](https://bgreenwell.github.io/intro-fastshap/slides.html#1)
+
++ [satRday Columbus 2021: Categorical Variables with Catboost](https://jaycunningham-8451.github.io/CatBoostRTutorial/presentation.html#1)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -167,6 +173,7 @@ Arrays
 
 + [Prototyping a learning Shiny progression app with {brochure}](https://www.youtube.com/watch?v=soYZzBVTNUw)
 
++ [satRday Columbus 2021 Video](https://www.youtube.com/watch?v=5YAe-nnwn4E)
 
 ### Shiny Apps
 
