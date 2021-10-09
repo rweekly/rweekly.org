@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Eric Nantz](https://twitter.com/thercast), with help from the R Weekly team members and contributors.
 
 
 
@@ -20,11 +20,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Did German Voters Become More Impulsive?](https://albert-rapp.de/post/2021-10-03-sonntagsfrage/)
 
++ [Data Domains: Fantastic data initiatives and where to find them](https://www.mango-solutions.com/data-domains-fantastic%e2%80%afdata%e2%80%afinitiatives-and-where-to-find-them/)
+
 ### R in the Real World
 
-
++ [COVID-19: The Incredible Shrinking Boost of the Booster Shot](https://blog.ephorie.de/covid-19-the-incredible-shrinking-boost-of-the-booster-shot)
 
 ###  R in Organizations
+
++ [Teaching a Biomedical Data Science Course Using RStudio Cloud](https://blog.rstudio.com/2021/10/06/teaching-data-science-with-rstudio-cloud/)
+
++ [R in Pharma works to allow an open inclusive environment](https://www.r-consortium.org/blog/2021/10/05/r-in-pharma-works-to-allow-an-open-inclusive-environment)
 
 
 
@@ -34,7 +40,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [The ‘Engineering Production-Grade Shiny Apps’ book is available in print!](https://colinfay.me/engineering-shiny-print/)
 
++ [{emayili} Message Precedence](https://datawookie.dev/blog/2021/10/emayili-message-precedence/)
+
++ [{emayili} Message Integrity](https://datawookie.dev/blog/2021/10/emayili-message-integrity/)
 
 ###  New Packages
 
@@ -42,6 +52,33 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [validata package is released to CRAN!](https://harrison4192.github.io/validata/)
+
++ [The framecleaner R package provides a tidyverse-friendly interface for modifying data frames with a sequence of piped commands](https://harrison4192.github.io/framecleaner/)
+
++ [{switchboard} 0.1](https://cran.r-project.org/package=switchboard): An Agile Widget Engine for Real-Time, Dynamic Visualizations
+
++ [{spm2} 1.1.0](https://cran.r-project.org/package=spm2): Spatial Predictive Modeling
+
++ [{covid19br} 0.1.2](https://cran.r-project.org/package=covid19br): Brazilian COVID-19 Pandemic Data
+
++ [{presenter} 0.1.0](https://cran.r-project.org/package=presenter): Present Data with Style
+
++ [{StanMoMo} 1.0.0](https://cran.r-project.org/package=StanMoMo): Bayesian Mortality Modelling with 'Stan'
+
++ [{ggalignment} 1.0.0](https://cran.r-project.org/package=ggalignment): Plots 'D&D'-Style Alignment Charts
+
++ [{easylabel} 0.1.0](https://cran.r-project.org/package=easylabel): Interactive Scatter Plot and Volcano Plot Labels
+
++ [{fflr} 1.9.2](https://cran.r-project.org/package=fflr): Retrieve ESPN Fantasy Football Data
+
++ [{insiderTrades} 0.0.1](https://cran.r-project.org/package=insiderTrades): Tools to Download Insider Transactions and Holdings
+
++ [{gsbDesign} 1.0-2](https://cran.r-project.org/package=gsbDesign): Group Sequential Bayes Design
+
++ [{ARTofR} 0.2.3](https://cran.r-project.org/package=ARTofR): Who Ever Care About the [Art of R] Scripts?
+
++ [{hierbase} 0.0.4](https://cran.r-project.org/package=hierbase): Enabling Hierarchical Multiple Testing
 
 
 **BioC**
@@ -52,30 +89,104 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
  + [{rtweettree}](https://github.com/urswilke/rtweettree): Visualizes twitter interactions as tree graphs.
 
++ [{lambdr}](https://github.com/mdneuzerling/lambdr): Run R containers on AWS Lambda
 
++ [{ActionSquirrel}](https://github.com/matt-dray/ActionSquirrel): A squirrel game in your R console, made with {R6}
 
 ### Updated Packages
 
++ [pins 1.0.0](https://blog.rstudio.com/2021/10/04/pins-1-0-0/)
 
++ [testthat 3.1.0](https://www.tidyverse.org/blog/2021/10/testthat-3-1/)
+
++ [corels 0.0.3 on CRAN: Update](http://dirk.eddelbuettel.com/blog/2021/10/08#corels_0.0.3)
+
++ [RcppGSL 0.3.10: Small Update](http://dirk.eddelbuettel.com/blog/2021/10/07#rcppgsl_0.3.10)
+
++ [RQuantLib 0.4.14: More Calendars plus Update](http://dirk.eddelbuettel.com/blog/2021/10/06#rquantlib_0.4.14)
+
++ [littler 0.3.14: Updates](http://dirk.eddelbuettel.com/blog/2021/10/05#littler-0.3.14)
+
++ [{optparse} 1.7.1](https://cran.r-project.org/package=optparse): Command Line Option Parser
+
++ [{duckdb} 0.3.0](https://cran.r-project.org/package=duckdb): DBI Package for the DuckDB Database Management System
+
++ [{dataMaid} 1.4.1](https://cran.r-project.org/package=dataMaid): A Suite of Checks for Identification of Potential Errors in a
+Data Frame as Part of the Data Screening Process
+
++ [{prompter} 1.1.0](https://cran.r-project.org/package=prompter): Add Tooltips in 'Shiny' Apps with 'Hint.css'
+
++ [{tiledb} 0.9.7](https://cran.r-project.org/package=tiledb): Universal Storage Engine for Sparse and Dense Multidimensional
+Arrays
+
++ [{misc3d} 0.9-1](https://cran.r-project.org/package=misc3d): Miscellaneous 3D Plots
+
++ [{luz} 0.2.0](https://cran.r-project.org/package=luz): Higher Level 'API' for 'torch'
+
++ [{torchdatasets} 0.1.0](https://cran.r-project.org/package=torchdatasets): Ready to Use Extra Datasets for Torch
+
++ [{tidyRSS} 2.0.4](https://cran.r-project.org/package=tidyRSS): Tidy RSS for R
+
++ [{lubridate} 1.8.0](https://cran.r-project.org/package=lubridate): Make Dealing with Dates a Little Easier
+
++ [{flextable} 0.6.9](https://cran.r-project.org/package=flextable): Functions for Tabular Reporting
+
++ [{fivethirtyeight} 0.6.2](https://cran.r-project.org/package=fivethirtyeight): Data and Code Behind the Stories and Interactives at 'FiveThirtyEight'
+
++ [{Hmisc} 4.6-0](https://cran.r-project.org/package=Hmisc): Harrell Miscellaneous
+
++ [{googleAnalyticsR} 1.0.1](https://cran.r-project.org/package=googleAnalyticsR): Google Analytics API into R
+
++ [{sketch} 1.1.17](https://cran.r-project.org/package=sketch): Interactive Sketches
+
++ [{rmdformats} 1.0.3](https://cran.r-project.org/package=rmdformats): HTML Output Formats and Templates for 'rmarkdown' Documents
+
++ [{nflfastR} 4.3.0](https://cran.r-project.org/package=nflfastR): Functions to Efficiently Access NFL Play by Play Data
+
++ [{sendgridr} 0.3.3](https://cran.r-project.org/package=sendgridr): Mail Sender Using 'Sendgrid' Service
+
++ [{robservable} 0.2.1](https://cran.r-project.org/package=robservable): Import an Observable Notebook as HTML Widget
+
++ [{scatterD3} 1.0.1](https://cran.r-project.org/package=scatterD3): D3 JavaScript Scatterplot from R
+
++ [{MedianaDesigner} 0.4](https://cran.r-project.org/package=MedianaDesigner): Efficient Simulation-Based Power and Sample Size Calculations for a Broad Class of Late-Stage Clinical Trials
+
++ [{mazing} 1.0.5](https://cran.r-project.org/package=mazing): Utilities for Making and Plotting Mazes
+
++ [{wyz.code.offensiveProgramming} 1.1.23](https://cran.r-project.org/package=wyz.code.offensiveProgramming): Wizardry Code Offensive Programming
 
 ###  Videos and Podcasts
 
++ [How to Include Data in Your R Package](https://youtu.be/BHgNA1vJO_0)
 
++ [TidyX hosts Ellis and Patrick start a journey in Tidymodels, this week looking at linear regressions in base R and Tidymodels](https://bit.ly/TidyX_Ep77) 
 
-### Gist & Cookbook
++ [2021 New York R Conference Videos](https://www.youtube.com/playlist?list=PLlzRFZmxVl9RVwRP6WKOUXTiRMFkF2cPF) 
 
++ [Prototyping a learning Shiny progression app with {brochure}](https://www.youtube.com/watch?v=soYZzBVTNUw)
 
 
 ### Shiny Apps
 
-
++ [{shinycal}](https://rpodcast.shinyapps.io/shinycal): The interactive data science streamRs calendar!
 
 ### R Internationally
 
-
++ [R Hispano talks about the growth of local groups](https://www.r-consortium.org/blog/2021/10/04/r-hispano-talks-about-the-growth-of-local-groups)
 
 ###  Tutorials
 
++ [Data Visualization with R-Scatter plots](https://finnstats.com/index.php/2021/10/08/data-visualization-with-r-scatter-plots/)
+
++ [Pull Request Flow with usethis](https://www.garrickadenbuie.com/blog/pull-request-flow-usethis/)
+
++ [Working with Fairly Wide Data](https://datawookie.dev/blog/2021/10/working-with-fairly-wide-data/)
+
++ [Multiple linear regression made simple](https://statsandr.com/blog/multiple-linear-regression-made-simple/)
+
++ [A step-by-step article for performing MANOVA in R](https://www.reneshbedre.com/blog/manova.html)
+
++ [Learn how to automate data science processes with GitHub Actions](https://medium.datadriveninvestor.com/introducing-github-actions-for-data-scientist-part-1-a7142cc661ef)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -89,20 +200,16 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ November 2-4: [R/Pharma Conference 2021](https://rinpharma.com/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 
-### Datasets
-
-### Jobs
-
-
-
-
 ###  Call for Participation
+
++ [Take the tidymodels survey for 2022 priorities](https://www.tidyverse.org/blog/2021/10/tidymodels-2022-survey/)
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
