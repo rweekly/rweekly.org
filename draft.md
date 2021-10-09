@@ -155,6 +155,8 @@ Arrays
 
 + [{wyz.code.offensiveProgramming} 1.1.23](https://cran.r-project.org/package=wyz.code.offensiveProgramming): Wizardry Code Offensive Programming
 
++ [{torch} 0.6.0](https://cran.r-project.org/package=torch)
+
 ###  Videos and Podcasts
 
 + [How to Include Data in Your R Package](https://youtu.be/BHgNA1vJO_0)
@@ -188,6 +190,7 @@ Arrays
 
 + [Learn how to automate data science processes with GitHub Actions](https://medium.datadriveninvestor.com/introducing-github-actions-for-data-scientist-part-1-a7142cc661ef)
 
++ [Riding tables with {gt} and {gtExtras}](https://bjnnowak.netlify.app/2021/10/04/r-beautiful-tables-with-gt-and-gtextras/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -215,3 +218,7 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 1996, two academics from the University of Auckland, New Zealand, launched a new programming language.<br><br>25 years later, this language is one of the most widely used in the world.<br><br>Here&#39;s the story of R:<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/eMnNnyauZh">pic.twitter.com/eMnNnyauZh</a></p>&mdash; Yohan Iddawela (@yohaniddawela) <a href="https://twitter.com/yohaniddawela/status/1446032040206422019?ref_src=twsrc%5Etfw">October 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
