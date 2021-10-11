@@ -11,10 +11,15 @@ image: https://rweekly.org/public/facebook.png
 This week’s release was curated by [Eric Nantz](https://twitter.com/thercast), with help from the R Weekly team members and contributors.
 
 
-
 ###  Highlight
 
++ [Pull Request Flow with usethis](https://www.garrickadenbuie.com/blog/pull-request-flow-usethis/)
 
++ [2021 New York R Conference Videos](https://www.youtube.com/playlist?list=PLlzRFZmxVl9RVwRP6WKOUXTiRMFkF2cPF) 
+
++ [{ggalignment} 1.0.0](https://cran.r-project.org/package=ggalignment): Plots 'D&D'-Style Alignment Charts
+
+![ggalignment example chart](https://raw.githubusercontent.com/rweekly/image/master/2021/W41/README-example-chart-1.png)
 
 ### Insights
 
@@ -81,11 +86,6 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 + [{ARTofR} 0.2.3](https://cran.r-project.org/package=ARTofR): Who Ever Care About the [Art of R] Scripts?
 
 + [{hierbase} 0.0.4](https://cran.r-project.org/package=hierbase): Enabling Hierarchical Multiple Testing
-
-
-**BioC**
-
-
 
 **GitHub or Bitbucket**
 
