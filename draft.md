@@ -32,12 +32,6 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [R in Pharma works to allow an open inclusive environment](https://www.r-consortium.org/blog/2021/10/05/r-in-pharma-works-to-allow-an-open-inclusive-environment)
 
-
-
-###  R in Academia
-
-
-
 ###  Resources
 
 + [The ‘Engineering Production-Grade Shiny Apps’ book is available in print!](https://colinfay.me/engineering-shiny-print/)
@@ -74,6 +68,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [{ggalignment} 1.0.0](https://cran.r-project.org/package=ggalignment): Plots 'D&D'-Style Alignment Charts
 
+![ggalignment example chart](https://raw.githubusercontent.com/rweekly/image/master/2021/W41/README-example-chart-1.png)
+
 + [{easylabel} 0.1.0](https://cran.r-project.org/package=easylabel): Interactive Scatter Plot and Volcano Plot Labels
 
 + [{fflr} 1.9.2](https://cran.r-project.org/package=fflr): Retrieve ESPN Fantasy Football Data
@@ -94,6 +90,8 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 **GitHub or Bitbucket**
 
  + [{rtweettree}](https://github.com/urswilke/rtweettree): Visualizes twitter interactions as tree graphs.
+
+![rtweettree example plot](https://raw.githubusercontent.com/rweekly/image/master/2021/W41/README-autoplot-1.png)
 
 + [{lambdr}](https://github.com/mdneuzerling/lambdr): Run R containers on AWS Lambda
 
@@ -122,6 +120,8 @@ Data Frame as Part of the Data Screening Process
 
 + [{prompter} 1.1.0](https://cran.r-project.org/package=prompter): Add Tooltips in 'Shiny' Apps with 'Hint.css'
 
+![](https://raw.githubusercontent.com/etiennebacher/prompter/master/demo2.gif)
+
 + [{tiledb} 0.9.7](https://cran.r-project.org/package=tiledb): Universal Storage Engine for Sparse and Dense Multidimensional
 Arrays
 
@@ -145,6 +145,8 @@ Arrays
 
 + [{sketch} 1.1.17](https://cran.r-project.org/package=sketch): Interactive Sketches
 
+![](https://kcf-jackson.github.io/sketch-website/img/gallery/galton_board.gif)
+
 + [{rmdformats} 1.0.3](https://cran.r-project.org/package=rmdformats): HTML Output Formats and Templates for 'rmarkdown' Documents
 
 + [{nflfastR} 4.3.0](https://cran.r-project.org/package=nflfastR): Functions to Efficiently Access NFL Play by Play Data
@@ -158,6 +160,8 @@ Arrays
 + [{MedianaDesigner} 0.4](https://cran.r-project.org/package=MedianaDesigner): Efficient Simulation-Based Power and Sample Size Calculations for a Broad Class of Late-Stage Clinical Trials
 
 + [{mazing} 1.0.5](https://cran.r-project.org/package=mazing): Utilities for Making and Plotting Mazes
+
+![mazing example image](https://raw.githubusercontent.com/rweekly/image/master/2021/W41/index.png)
 
 + [{wyz.code.offensiveProgramming} 1.1.23](https://cran.r-project.org/package=wyz.code.offensiveProgramming): Wizardry Code Offensive Programming
 
@@ -228,4 +232,6 @@ Events in 3 Months:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 1996, two academics from the University of Auckland, New Zealand, launched a new programming language.<br><br>25 years later, this language is one of the most widely used in the world.<br><br>Here&#39;s the story of R:<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/eMnNnyauZh">pic.twitter.com/eMnNnyauZh</a></p>&mdash; Yohan Iddawela (@yohaniddawela) <a href="https://twitter.com/yohaniddawela/status/1446032040206422019?ref_src=twsrc%5Etfw">October 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">OK friends, here&#39;s a first pass at a Shiny tweetorial! I&#39;m assuming that you have R &amp; RStudio installed and can do some basic data analysis in R - but have little to no experience with Shiny.<br><br>This is what we&#39;ll build together by the time we hit tweet #20: <a href="https://t.co/2aT5Nhwyt6">pic.twitter.com/2aT5Nhwyt6</a></p>&mdash; Jesse Mostipak (@kierisi) <a href="https://twitter.com/kierisi/status/1446132720610983939?ref_src=twsrc%5Etfw">October 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I made a purrr pumpkin 🎃 🐈‍⬛ <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/g5BvjJWjJ7">pic.twitter.com/g5BvjJWjJ7</a></p>&mdash; Kow (@KoderKow) <a href="https://twitter.com/KoderKow/status/1446995343166504960?ref_src=twsrc%5Etfw">October 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
