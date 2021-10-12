@@ -35,7 +35,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [Benchmarking GSL nonlinear least-squares algorithms in R with {gslnls}](https://www.jchau.org/2021/10/12/gsl-nonlinear-least-squares-fitting-in-r/)
 
 ###  New Packages
 
@@ -43,7 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{gslnls} 1.0.0](https://cran.r-project.org/package=gslnls): Nonlinear least-squares optimization with the [GNU Scientific Library](https://www.gnu.org/software/gsl/) in R
 
 **BioC**
 
