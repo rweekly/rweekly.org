@@ -55,6 +55,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [{proceduralnames} 0.2.1:](https://cran.r-project.org/package=proceduralnames) Several Methods for Procedural Name Generation
 
 
 ###  Videos and Podcasts
