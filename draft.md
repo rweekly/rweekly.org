@@ -53,6 +53,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{lmForc} 0.0.1](https://cran.r-project.org/package=lmForc): R package for evaluating linear forecasting models.
 
++ [{cartogramR} 1.0-3](https://cran.r-project.org/package=cartogramR): Continuous Cartogram.
+
 **BioC**
 
 
@@ -63,14 +65,30 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-+ [{proceduralnames} 0.2.1:](https://cran.r-project.org/package=proceduralnames) Several Methods for Procedural Name Generation
++ [{proceduralnames} 0.2.1:](https://cran.r-project.org/package=proceduralnames) Several Methods for Procedural Name Generation.
 
-+ [{zonal} 0.0.1](https://github.com/mikejohnson51/zonal): Fast, accurate zonal statistics for "big" categorical and continuous data
++ [{zonal} 0.0.1](https://github.com/mikejohnson51/zonal): Fast, accurate zonal statistics for "big" categorical and continuous data.
 
++ [{nfl4th} 1.0.0](https://cran.r-project.org/package=nfl4th): Functions to Calculate Optimal Fourth Down Decisions in the
+National Football League.
+
++ [{gtsummary} 1.4.2](https://cran.r-project.org/package=gtsummary): Presentation-Ready Data Summary and Analytic Result Tables.
+
++ [{dm} 0.2.5](https://cran.r-project.org/package=dm): Relational Data Models.
+
++ [{igraph} 1.2.7](https://cran.r-project.org/package=igraph): Network Analysis and Visualization.
+
++ [{hockeyR} 0.1.1](https://cran.r-project.org/package=hockeyR): Collect and Clean Hockey Stats.
+
++ [{distill} 1.3](https://cran.r-project.org/package=distill): 'R Markdown' Format for Scientific and Technical Writing.
+
++ [{systemfonts} 1.0.3](https://cran.r-project.org/package=systemfonts): System Native Font Finding. 
 
 ###  Videos and Podcasts
 
 + [How to Document a Function in Your R Package](https://www.youtube.com/watch?v=gl9fFmtXFcI)
+
++ [Why and How to Include a Vignette in Your R Package](https://youtu.be/3N0klPMNyLY)
 
 ### Gist & Cookbook
 
@@ -99,6 +117,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Generating and customizing badges in r-universe](https://ropensci.org/blog/2021/10/14/runiverse-badges/)
 
 + [Guide through jungle of models! What’s more about the forester R package?](https://medium.com/responsibleml/guide-through-jungle-of-models-whats-more-about-the-forester-r-package-a135d1882676)
+
++ [Kruskal-Wallis test in R [with example and code]](https://www.reneshbedre.com/blog/kruskal-wallis-test.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
