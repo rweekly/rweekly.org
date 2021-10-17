@@ -21,6 +21,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Announcing New rOpenSci Software Peer Review Editors: Emily Riederer, Adam Sparks, and Jeff Hollister](https://ropensci.org/blog/2021/10/12/editors2021/)
 
++ [Introducing rpp: The long-term goal of the organisation is to add static type checking and other features to R, with zero cost at run time](https://blog.q-lang.org/posts/2021-10-13-release/)
+
 ### R in the Real World
 
 + [Fixture Difficulty and Fantasy Premier League Point Predictions](https://dm13450.github.io/2021/10/12/Fixture-Difficulty-FPL.html)
