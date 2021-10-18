@@ -74,7 +74,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ###  Tutorials
 
-
+[Getting Started with Shiny Server on AWS](https://youtu.be/JL4T0qfqY7k) - a video tutorial on getting started with Shiny Server on AWS
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
