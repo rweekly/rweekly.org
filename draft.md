@@ -5,17 +5,17 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
-
+This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the R Weekly team members and contributors.
 
 ###  Highlight
 
++ [How not to be lost with VSCode when coming from RStudio?](https://statnmap.com/2021-10-09-how-not-to-be-lost-with-vscode-when-coming-from-rstudio/)
 
++ [Introducing rpp: The long-term goal of the organisation is to add static type checking and other features to R, with zero cost at run time](https://blog.q-lang.org/posts/2021-10-13-release/)
+
++ [Fill the region between two lines in ggplot2](https://www.nsgrantham.com/fill-between-two-lines-ggplot2)
 
 ### Insights
 
@@ -23,18 +23,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Introducing rpp: The long-term goal of the organisation is to add static type checking and other features to R, with zero cost at run time](https://blog.q-lang.org/posts/2021-10-13-release/)
 
++ [Some thoughts about colors: Color spaces](https://clauswilke.com/art/post/colors-color-spaces)
+
 ### R in the Real World
 
 + [Fixture Difficulty and Fantasy Premier League Point Predictions](https://dm13450.github.io/2021/10/12/Fixture-Difficulty-FPL.html)
 
 + [RTutor: Does Bank Lending Increase Before Elections?](https://skranz.github.io//r/2021/10/12/RTutor-ElectionsAndBankLending.html)
-
-###  R in Organizations
-
-
-
-###  R in Academia
-
 
 
 ###  Resources
@@ -56,10 +51,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{lmForc} 0.0.1](https://cran.r-project.org/package=lmForc): R package for evaluating linear forecasting models.
 
 + [{cartogramR} 1.0-3](https://cran.r-project.org/package=cartogramR): Continuous Cartogram.
-
-**BioC**
-
-
 
 **GitHub or Bitbucket**
 
@@ -86,25 +77,27 @@ National Football League.
 
 + [{systemfonts} 1.0.3](https://cran.r-project.org/package=systemfonts): System Native Font Finding. 
 
++ [{tidygeocoder} 1.0.4](https://cran.r-project.org/package=tidygeocoder): Geocoding Made Easy.
+
++ [{usethis} 2.1.0](https://cran.r-project.org/package=usethis): Automate Package and Project Setup.
+
++ [{rvest} 1.0.2](https://cran.r-project.org/package=rvest): Easily Harvest (Scrape) Web Pages.
+
++ [{prismatic} 1.1.0](https://cran.r-project.org/package=prismatic): Manipulate and visualize colors in a intuitive, low-dependency and functional way.
+
 ###  Videos and Podcasts
 
 + [How to Document a Function in Your R Package](https://www.youtube.com/watch?v=gl9fFmtXFcI)
 
 + [Why and How to Include a Vignette in Your R Package](https://youtu.be/3N0klPMNyLY)
 
-### Gist & Cookbook
-
-
++ [TidyX Episode 79 | Tidymodels - Cross-Validation and Metrics](https://www.youtube.com/watch?v=TU3XAWk1tHI)
 
 ### Shiny Apps
 
 + [Find Your Proposed New Massachusetts House District](https://apps.machlis.com/shiny/ma_house_redistricting/)
 
 + [Ishihara Color Detection Test](https://phytools.shinyapps.io/ishihara/)
-
-### R Internationally
-
-
 
 ###  Tutorials
 
@@ -122,6 +115,8 @@ National Football League.
 
 + [Kruskal-Wallis test in R [with example and code]](https://www.reneshbedre.com/blog/kruskal-wallis-test.html)
 
++ [Useless animated showcase of plot() function](https://tomaztsql.wordpress.com/2021/10/18/little-useless-useful-r-functions-useless-animated-showcase-of-plot-function/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -133,19 +128,13 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [October 30: 95th Tokyo.R User Meetup](https://tokyor.connpass.com/event/225967/)
+
 + November 2-4: [R/Pharma Conference 2021](https://rinpharma.com/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-
-### Datasets
-
-### Jobs
-
-
-
 
 ###  Call for Participation
 
@@ -155,3 +144,7 @@ Events in 3 Months:
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Favorite <a href="https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw">#rmarkdown</a> trick I’ve learned recently: in your chunk options, eval does not have to equal just TRUE or FALSE. You can set it to a Boolean variable of your own creation, meaning chunks can be evaluated on a conditional basis, depending on what’s in your data 🎉</p>&mdash; Meghan Hall (@MeghanMHall) <a href="https://twitter.com/MeghanMHall/status/1448663277802692624?ref_src=twsrc%5Etfw">October 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Husband surprised me with a new license plate when he renewed our car’s registration 😆 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/HosfddRpvR">pic.twitter.com/HosfddRpvR</a></p>&mdash; Rebecca Janis (@rbjanis5) <a href="https://twitter.com/rbjanis5/status/1448673057376190469?ref_src=twsrc%5Etfw">October 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Little <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> function I use when I quickly need to open the result of various %&gt;% operations in Excel<br><br>as in : mtcars %&gt;% filter(am == 1) %&gt;% show_in_excel() <a href="https://t.co/HfJm9jOxVu">pic.twitter.com/HfJm9jOxVu</a></p>&mdash; Bruno Rodrigues (@brodriguesco) <a href="https://twitter.com/brodriguesco/status/1447468259725434886?ref_src=twsrc%5Etfw">October 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
