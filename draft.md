@@ -31,7 +31,6 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [RTutor: Does Bank Lending Increase Before Elections?](https://skranz.github.io//r/2021/10/12/RTutor-ElectionsAndBankLending.html)
 
-
 ###  Resources
 
 + [Benchmarking GSL nonlinear least-squares algorithms in R with {gslnls}](https://www.jchau.org/2021/10/12/gsl-nonlinear-least-squares-fitting-in-r/)
@@ -69,6 +68,8 @@ National Football League.
 
 + [{dm} 0.2.5](https://cran.r-project.org/package=dm): Relational Data Models.
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2021-10-18/dm-database.PNG)
+
 + [{igraph} 1.2.7](https://cran.r-project.org/package=igraph): Network Analysis and Visualization.
 
 + [{hockeyR} 0.1.1](https://cran.r-project.org/package=hockeyR): Collect and Clean Hockey Stats.
@@ -91,7 +92,7 @@ National Football League.
 
 + [Why and How to Include a Vignette in Your R Package](https://youtu.be/3N0klPMNyLY)
 
-+ [TidyX Episode 79 | Tidymodels - Cross-Validation and Metrics](https://www.youtube.com/watch?v=TU3XAWk1tHI)
++ [TidyX Episode 79: Tidymodels - Cross-Validation and Metrics](https://www.youtube.com/watch?v=TU3XAWk1tHI)
 
 ### Shiny Apps
 
@@ -103,9 +104,13 @@ National Football League.
 
 + [Your first D3 visualisation with {r2d3} and Scooby-Doo](https://www.jumpingrivers.com/blog/r-d3-intro-r2d3/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2021-10-18/ggplot-fill-ribbonize.PNG)
+
 + [How not to be lost with VSCode when coming from RStudio?](https://statnmap.com/2021-10-09-how-not-to-be-lost-with-vscode-when-coming-from-rstudio/)
 
 + [Fill the region between two lines in ggplot2](https://www.nsgrantham.com/fill-between-two-lines-ggplot2)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2021-10-18/d3-scooby.PNG)
 
 + [{emayili} Support for Gmail, SendGrid & Mailgun](https://datawookie.dev/blog/2021/10/emayili-support-for-gmail-sendgrid-mailgun/)
 
@@ -128,7 +133,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [October 30: 95th Tokyo.R User Meetup](https://tokyor.connpass.com/event/225967/)
++ October 30: [95th Tokyo.R User Meetup](https://tokyor.connpass.com/event/225967/)
 
 + November 2-4: [R/Pharma Conference 2021](https://rinpharma.com/)
 
