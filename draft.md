@@ -50,7 +50,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 **GitHub or Bitbucket**
 
-
++ [{uvvistauc} 0.4.0.9000](https://github.com/solarchemist/uvvistauc): Calculate the optical band gap of semiconductors from UV-Vis spectra using Tauc fitting.
 
 ### Updated Packages
 
