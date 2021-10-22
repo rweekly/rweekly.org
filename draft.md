@@ -54,7 +54,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ### Updated Packages
 
-
++ [{ichimoku} 1.2.4](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
 
 ###  Videos and Podcasts
 
