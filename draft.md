@@ -34,7 +34,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ###  Resources
 
-
++ [An Exploratory Introduction to Plotly](https://albert-rapp.de/post/2021-10-16-exploratory-intro-plotly/)
 
 ###  New Packages
 
@@ -58,7 +58,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ###  Videos and Podcasts
 
-
++ [An Exploratory Introduction to Plotly](https://youtu.be/rzpbQ93pmPM)
 
 ### Gist & Cookbook
 
