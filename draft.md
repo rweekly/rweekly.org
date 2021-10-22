@@ -22,7 +22,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ### R in the Real World
 
-
++ [What's the Most American of American Films? An Analysis with {gt} and {gtExtras}](https://jlaw.netlify.app/2021/10/18/what-s-the-most-american-of-american-films-an-analysis-with-gt-and-gtextras/)
 
 ###  R in Organizations
 
@@ -35,6 +35,10 @@ This week's release was curated by [](), with help from the R Weekly team member
 ###  Resources
 
 + [An Exploratory Introduction to Plotly](https://albert-rapp.de/post/2021-10-16-exploratory-intro-plotly/)
+
++ [Using R for Common Scientific Tasks](https://raw.githack.com/etmckinley/Coffey-Lab-R-Tutorial/main/R-tutorial-xaringnan.html#1)
+
++ [Notes from a data witch: Generative art resources in R](https://blog.djnavarro.net/posts/2021-10-19_rtistry-posts/)
 
 ###  New Packages
 
@@ -74,7 +78,15 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ###  Tutorials
 
-[Getting Started with Shiny Server on AWS](https://youtu.be/JL4T0qfqY7k) - a video tutorial on getting started with Shiny Server on AWS, including deploying an app, installing RStudio Server, adding a domain name, and HTTPS
++ [Getting Started with Shiny Server on AWS](https://youtu.be/JL4T0qfqY7k) - a video tutorial on getting started with Shiny Server on AWS, including deploying an app, installing RStudio Server, adding a domain name, and HTTPS
+
++ [If you fit a model with multiply imputed data, you can still plot the line.](https://solomonkurz.netlify.app/post/2021-10-21-if-you-fit-a-model-with-multiply-imputed-data-you-can-still-plot-the-line/)
+
++ [A Semi-Automated Process for Converting Slides to a Blog Post in RMarkdown](https://kaijagahm.netlify.app/posts/2021-10-14-publishing-scrollable-slides-in-rmarkdown/)
+
++ [Thinking Outside The Grid - A “bare bones” intro to Rtistry concepts in R using ggplot.](https://www.thetidytrekker.com/post/thinking-outside-the-grid)
+
++ [Estimating correlations adjusted for group membership](https://www.pipinghotdata.com/posts/2021-10-11-estimating-correlations-adjusted-for-group-membership/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
