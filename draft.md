@@ -56,6 +56,8 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [{uvvistauc} 0.4.0.9000](https://github.com/solarchemist/uvvistauc): Calculate the optical band gap of semiconductors from UV-Vis spectra using Tauc fitting.
 
++ [{ggshakeR} 0.0.0.9000](https://github.com/abhiamishra/ggshakeR): Analytics and Visualization Package for Soccer Data.
+
 ### Updated Packages
 
 + [{ichimoku} 1.2.4](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
