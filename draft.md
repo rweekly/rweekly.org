@@ -14,18 +14,22 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ###  Highlight
 
++ [Thinking Outside The Grid - A “bare bones” intro to Rtistry concepts in R using ggplot.](https://www.thetidytrekker.com/post/thinking-outside-the-grid)
 
++ [Simulating the Squid Game Bridge Scene](https://www.jhelvy.com/posts/2021-10-19-monte-carlo-bridge-game/)
+
++ [Getting Started with Shiny Server on AWS](https://youtu.be/JL4T0qfqY7k) - a video tutorial on getting started with Shiny Server on AWS, including deploying an app, installing RStudio Server, adding a domain name, and HTTPS
 
 ### Insights
-
-+ [Different types of correlation and their calculation in R](https://www.reneshbedre.com/blog/correlation-analysis-r.html)
-
-+ [VISUALLY ASSESSING THE PARALLEL TRENDS ASSUMPTION FOR DID ESTIMATION WITH CONTROL VARIABLES](http://skranz.github.io//r/2021/10/20/ParallelTrendsPlot.html)
 
 
 ### R in the Real World
 
++ [Simulating the Squid Game Bridge Scene](https://www.jhelvy.com/posts/2021-10-19-monte-carlo-bridge-game/)
+
 + [What's the Most American of American Films? An Analysis with {gt} and {gtExtras}](https://jlaw.netlify.app/2021/10/18/what-s-the-most-american-of-american-films-an-analysis-with-gt-and-gtextras/)
+
+![American Films gt table](https://raw.githubusercontent.com/rweekly/image/master/2021-10-25/american.png)
 
 + [I reverse engineered Atlas.co](https://bensstats.wordpress.com/2021/10/21/robservations-15-i-reverse-engineered-atlas-co-well-some-of-it/)
 
@@ -33,7 +37,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [A Closer Look at Vaccination Breakthroughs in Switzerland](https://mirai-solutions.ch/news/2021/10/20/covid19-vaccination-breakthroughs-switzerland/)
 
-+ [Simulating the Squid Game Bridge Scene](https://www.jhelvy.com/posts/2021-10-19-monte-carlo-bridge-game/)
+![Vaccination rates in Switzerland](https://raw.githubusercontent.com/rweekly/image/master/2021-10-25/vax_switz.png)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A population density map of long, slinky Chile. Took a bit of time to find an angle I like.<a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/ulU36V34tw">pic.twitter.com/ulU36V34tw</a></p>&mdash; flotsam (@researchremora) <a href="https://twitter.com/researchremora/status/1451918966864203782?ref_src=twsrc%5Etfw">October 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -107,19 +111,25 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ###  Tutorials
 
++ [Thinking Outside The Grid - A “bare bones” intro to Rtistry concepts in R using ggplot.](https://www.thetidytrekker.com/post/thinking-outside-the-grid)
+
 + [Getting Started with Shiny Server on AWS](https://youtu.be/JL4T0qfqY7k) - a video tutorial on getting started with Shiny Server on AWS, including deploying an app, installing RStudio Server, adding a domain name, and HTTPS
 
 + [If you fit a model with multiply imputed data, you can still plot the line.](https://solomonkurz.netlify.app/post/2021-10-21-if-you-fit-a-model-with-multiply-imputed-data-you-can-still-plot-the-line/)
 
 + [A Semi-Automated Process for Converting Slides to a Blog Post in RMarkdown](https://kaijagahm.netlify.app/posts/2021-10-14-publishing-scrollable-slides-in-rmarkdown/)
 
-+ [Thinking Outside The Grid - A “bare bones” intro to Rtistry concepts in R using ggplot.](https://www.thetidytrekker.com/post/thinking-outside-the-grid)
-
 + [Estimating correlations adjusted for group membership](https://www.pipinghotdata.com/posts/2021-10-11-estimating-correlations-adjusted-for-group-membership/)
+
+![Scatterplot with linear models by group](https://raw.githubusercontent.com/rweekly/image/master/2021-10-25/shannon_corr.png)
 
 + [Fisher's exact test in R](https://www.reneshbedre.com/blog/fisher-exact-test.html)
 
 + [Analysis of Variance in R](https://finnstats.com/index.php/2021/10/24/analysis-of-variance-in-r/)
+
++ [Different types of correlation and their calculation in R](https://www.reneshbedre.com/blog/correlation-analysis-r.html)
+
++ [Visually Assessing the Parallel Trends Assumption for DID Estimation with Control Variables](http://skranz.github.io//r/2021/10/20/ParallelTrendsPlot.html)
 
 + [Automatic Forecasting with ahead::dynrmf and Ridge regression](https://thierrymoudiki.github.io/blog/2021/10/22/r/misc/ahead-ridge)
 
