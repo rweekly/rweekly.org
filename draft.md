@@ -22,6 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
++ [Analyzing The Office's dialogues](https://daniloderosa.com/blog/theoffice/)
 
 
 ###  R in Organizations
