@@ -63,6 +63,26 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 **CRAN**
 
++ [{simplermarkdown} 0.0.2](https://cran.r-project.org/package=simplermarkdown): Simple Engine for Generating Reports using R
+
++ [{gpx} 1.0.0](https://cran.r-project.org/package=gpx): Process GPX Files into R Data Structures
+
++ [{epidemia} 1.0.0](https://cran.r-project.org/package=epidemia): Modeling of Epidemics using Hierarchical Bayesian Models
+
++ [{conText} 1.0.0](https://cran.r-project.org/package=conText): 'a la Carte' on Text (ConText) Embedding Regression
+
++ [{jenga} 1.0.0](https://cran.r-project.org/package=jenga): Fast Extrapolation of Time Features using K-Nearest Neighbors
+
++ [{scatterPlotMatrix} 0.1.0](https://cran.r-project.org/package=scatterPlotMatrix): 'Htmlwidget' for a Scatter Plot Matrix & Multiple Scatter Plot
+
++ [{pixelclasser} 1.0.0](https://cran.r-project.org/package=pixelclasser): Classifies Image Pixels by Colour
+
++ [{supercompress} 1.0](https://cran.r-project.org/package=supercompress): Supervised Compression of Big Data
+
++ [{catSplit} 0.1.0](https://cran.r-project.org/package=catSplit): Encode Categorical Variables with Split Information from CART
+
++ [{MixtureMissing} 1.0.0](https://cran.r-project.org/package=MixtureMissing): Robust Model-Based Clustering for Data Sets with Missing Values
+at Random
 
 
 **BioC**
@@ -83,6 +103,12 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [{ichimoku} 1.2.4](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
 
++ [{subtee} 1.0.0](https://cran.r-project.org/package=subtee): Subgroup Treatment Effect Estimation in Clinical Trials
+
++ [{kayadata} 1.0.0](https://cran.r-project.org/package=kayadata): Kaya Identity Data for Nations and Regions
+
++ [{echarty} 1.4.0](https://cran.r-project.org/package=echarty): Minimal R/Shiny Interface to JavaScript Library 'ECharts'
+
 ###  Videos and Podcasts
 
 + [An Exploratory Introduction to Plotly](https://youtu.be/rzpbQ93pmPM)
@@ -97,13 +123,13 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ### Shiny Apps
 
-+[ICC WC T20:Pavilion-view analytics as-it-happens!](https://gigadom.in/2021/10/18/googlyplusplus2021icc-wc-t20pavilion-view-analytics-as-it-happens/)
++ [ICC WC T20:Pavilion-view analytics as-it-happens!](https://gigadom.in/2021/10/18/googlyplusplus2021icc-wc-t20pavilion-view-analytics-as-it-happens/)
 
-
++ [{visxhclust} 1.0.0](https://cran.r-project.org/package=visxhclust): A Shiny App for Visual Exploration of Hierarchical Clustering
 
 ### R Internationally
 
-+[DataFest Tbilisi talks about AI, the need for people, and setting up teaching programs](https://www.r-consortium.org/blog/2021/10/19/datafest-tbilisi-talks-about-ai-the-need-for-people-and-setting-up-teaching-programs)
++ [DataFest Tbilisi talks about AI, the need for people, and setting up teaching programs](https://www.r-consortium.org/blog/2021/10/19/datafest-tbilisi-talks-about-ai-the-need-for-people-and-setting-up-teaching-programs)
 
 
 
@@ -119,7 +145,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [Estimating correlations adjusted for group membership](https://www.pipinghotdata.com/posts/2021-10-11-estimating-correlations-adjusted-for-group-membership/)
 
-![Scatterplot with linear models by group](https://raw.githubusercontent.com/rweekly/image/master/2021-10-25/shannon_corr.png)
+![Scatterplot with linear models by group](https://raw.githubusercontent.com/rweekly/image/master/2021-10-25/shannon_corrs.png)
 
 + [Fisher's exact test in R](https://www.reneshbedre.com/blog/fisher-exact-test.html)
 
