@@ -54,7 +54,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-
+[{logitr} 0.4.0](https://cran.r-project.org/web/packages/logitr): Fast estimation of multinomial (MNL) and mixed logit (MXL) models in R with “Preference” space or “Willingness-to-pay” (WTP) space utility
+parameterizations.
 
 ###  Videos and Podcasts
 
