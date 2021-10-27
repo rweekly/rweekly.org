@@ -82,6 +82,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Update from the [R Contribution Working Group](https://forwards.github.io/rcontribution/working-group) (RCWG) :
+
+* At the October meeting Lluís Revilla presented an analysis of R bug reports filed on bugzilla. The results, including many visualizations, are available at https://llrs.github.io/bugzilla_viz/bugRzilla_review.html and https://llrs.github.io/bugzilla_viz/
+* We discussed the possibility of holding a bug barbecue, possibly associated with a conference, to get people together to work on fixing open bugs.
+* We now have a [calendar of events](https://forwards.github.io/rcontribution/events)
+
+  See the [minutes](https://github.com/forwards/rcontribution/blob/master/team_minutes/2021-10-26.md) for full details and the [RCWG repo README](https://github.com/forwards/rcontribution) for information on how to get involved. Our next meeting will be in early December (exact date TBD -- see the event calendar).
 
 ###  Upcoming Events in 3 Months
 
