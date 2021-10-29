@@ -77,6 +77,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Analysis of Variance in R: 3 Steps](https://finnstats.com/index.php/2021/10/24/analysis-of-variance-in-r/)
 
++ [Synthesizing Temperature Measurements into Sound with python and R](https://urssblogg.netlify.app/post/2020-11-19-synthesizing-temperature-measurements-into-sound/) 
+
 ###  R in Organizations
 
 
