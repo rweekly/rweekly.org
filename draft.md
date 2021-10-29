@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [ggplot tips: Arranging Plots](https://albert-rapp.de/post/2021-10-28-extend-plot-variety/)
 
 ###  New Packages
 
