@@ -76,6 +76,8 @@ parameterizations.
 
 ###  Tutorials
 
++ [Awesome Marker Legends in Leaflet](https://roh.engineering/posts/2021/10/awesome-marker-legends-in-leaflet/)
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
