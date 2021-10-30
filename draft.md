@@ -18,11 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [TidyX learns to apply tidymodels to decision trees, tuning the parameters to select the best model](https://bit.ly/TidyX_Ep80) 
-
 + [This articles explains different types of correlation and their calculation in R](https://www.reneshbedre.com/blog/correlation-analysis-r.html) 
 
 + [A New parameterization of Correlation Matrices](https://eranraviv.com/new-parameterization-correlation-matrices/)  
+
++ [A close look at some posted trials of nimble for accelerated failure time models](https://r-nimble.org/a-close-look-at-some-posted-trials-of-nimble-for-accelerated-failure-time-models)
 
 ### R in the Real World
 
@@ -30,24 +30,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Importance of Statistical Analysis in Business](https://finnstats.com/index.php/2021/10/29/statistical-analysis-in-business/)
 
-+ ['Bring a Shiny App to production' the hands-on workshop](https://mirai-solutions.ch/news/2021/10/29/announce-shiny4-ws/)
-
-+ [Announcing RStudio on Amazon SageMaker](https://blog.rstudio.com/2021/10/29/announcing-rstudio-on-amazon-sagemaker/)
-
-+ [Awesome Marker Legends in Leaflet](https://roh.engineering/posts/2021/10/awesome-marker-legends-in-leaflet/)
-
 + [Train in R, run on Android: Image segmentation with torch](https://blogs.rstudio.com/tensorflow/posts/2021-10-29-segmentation-torch-android)
 
 + [Walmart’s 7-Year Nonlinear Market Trend using ‘Stealth Curves’](http://r-posts.com/walmarts-7-year-nonlinear-market-trend-using-stealth-curves/)
 
-+ [td 0.0.5 on CRAN: New Reference Accessors](http://dirk.eddelbuettel.com/blog/2021/10/28#td_0.0.5)
-
 + [Model Selection in R (AIC Vs BIC)](https://finnstats.com/index.php/2021/10/28/model-selection-in-r/)
 
-+ [Why R? 2021 Conference - Remote](http://whyr.pl//foundation/2021/whyr2021/)
 + [Turn an Ordered List on an HTML Page into a Collapsible FAQ List](https://yihui.org/en/2021/10/faq-list/)
-
-+ [September 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/10/28/september-2021-top-40-new-cran-packages/)
 
 + [R and Athena update](https://dyfanjones.me/post/2021-10-28-r-and-athena-update/)
 
@@ -57,15 +46,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Renaming the default branch](https://www.tidyverse.org/blog/2021/10/renaming-default-branch/)
 
-+ [RStudio at R/Pharma 2021](https://blog.rstudio.com/2021/10/27/rstudio-at-r-pharma-2021/)
-
-+ [Announcing the RStudio 2021 Communications Survey](https://blog.rstudio.com/2021/10/27/announcing-the-2021-rstudio-communications-survey/)
-
 + [Dynamic Regression with ARIMA Errors:   The Students on the Streets](https://datageeek.com/2021/10/26/dynamic-regression-with-arima-errors-the-students-on-the-streets/)
 
 + [{binance} Tracking Total Account Balance](https://datawookie.dev/blog/2021/10/binance-tracking-total-account-balance/)
-
-+ [RStudio Professional Drivers 2021.10.0](https://blog.rstudio.com/2021/10/26/pro-drivers-2021-10-0-release/)
 
 + [How Data Scientists and Security Teams Can Effectively Work Together](https://blog.rstudio.com/2021/10/26/how-data-scientists-and-security-teams-can-work-together/)
 
@@ -79,7 +62,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Organizations
 
++ [Announcing RStudio on Amazon SageMaker](https://blog.rstudio.com/2021/10/29/announcing-rstudio-on-amazon-sagemaker/)
 
++ [Announcing the RStudio 2021 Communications Survey](https://blog.rstudio.com/2021/10/27/announcing-the-2021-rstudio-communications-survey/)
+
++ [Why R? 2021 Conference - Remote](http://whyr.pl//foundation/2021/whyr2021/)
+
++ [RStudio at R/Pharma 2021](https://blog.rstudio.com/2021/10/27/rstudio-at-r-pharma-2021/)
 
 ###  R in Academia
 
@@ -94,6 +83,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
+
+
++ [September 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/10/28/september-2021-top-40-new-cran-packages/)
+
 
 + [{BrailleR} 0.32.1](https://cran.r-project.org/package=BrailleR): Improved Access for Blind Users
 
@@ -122,9 +115,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [rKenyaMemes](https://github.com/Shelmith-Kariuki/rKenyaMemes) - A package that displays different memes in RStudio
 
+
 ### Updated Packages
 
-[{logitr} 0.4.0](https://cran.r-project.org/web/packages/logitr): Fast estimation of multinomial (MNL) and mixed logit (MXL) models in R with “Preference” space or “Willingness-to-pay” (WTP) space utility
++ [RStudio Professional Drivers 2021.10.0](https://blog.rstudio.com/2021/10/26/pro-drivers-2021-10-0-release/)
+
++ [{logitr} 0.4.0](https://cran.r-project.org/web/packages/logitr): Fast estimation of multinomial (MNL) and mixed logit (MXL) models in R with “Preference” space or “Willingness-to-pay” (WTP) space utility
 parameterizations.
 
 + [{spsurvey} 5.0.0](https://CRAN.R-project.org/package=spsurvey): spsurvey provides tools for a design-based approach to statistical inference, with a focus on spatial data
@@ -164,6 +160,8 @@ parameterizations.
 ###  Videos and Podcasts
 
 
++ [TidyX learns to apply tidymodels to decision trees, tuning the parameters to select the best model](https://bit.ly/TidyX_Ep80) 
+
 
 ### Gist & Cookbook
 
@@ -181,6 +179,9 @@ parameterizations.
 
 + [Awesome Marker Legends in Leaflet](https://roh.engineering/posts/2021/10/awesome-marker-legends-in-leaflet/)
 
+
+
++ [Awesome Marker Legends in Leaflet](https://roh.engineering/posts/2021/10/awesome-marker-legends-in-leaflet/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
