@@ -28,8 +28,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Analyzing The Office's dialogues](https://daniloderosa.com/blog/theoffice/)
 
-+ [Importance of Statistical Analysis in Business](https://finnstats.com/index.php/2021/10/29/statistical-analysis-in-business/)
-
 + [Train in R, run on Android: Image segmentation with torch](https://blogs.rstudio.com/tensorflow/posts/2021-10-29-segmentation-torch-android)
 
 + [Walmart’s 7-Year Nonlinear Market Trend using ‘Stealth Curves’](http://r-posts.com/walmarts-7-year-nonlinear-market-trend-using-stealth-curves/)
@@ -39,6 +37,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Turn an Ordered List on an HTML Page into a Collapsible FAQ List](https://yihui.org/en/2021/10/faq-list/)
 
 + [R and Athena update](https://dyfanjones.me/post/2021-10-28-r-and-athena-update/)
+
++ [R : httr in R and MSXML2.ServerXMLHTTP in Excel VBA](https://kiandlee.blogspot.com/2021/10/r-httr-as-conversion-of-excel-vbas.html)
 
 + [Dynamic Regression with ARIMA Errors: The Students on the Streets](https://datageeek.com/2021/10/27/dynamic-regression-with-arima-errors-the-students-on-the-streets/)
 
@@ -177,12 +177,17 @@ parameterizations.
 
 ###  Tutorials
 
-+ [Awesome Marker Legends in Leaflet](https://roh.engineering/posts/2021/10/awesome-marker-legends-in-leaflet/)
-
-
++ [Clustering with easystats](https://easystats.github.io/parameters/articles/clustering.html)
 
 + [Awesome Marker Legends in Leaflet](https://roh.engineering/posts/2021/10/awesome-marker-legends-in-leaflet/)
 
++ [Exclusive Lasso and Group Lasso using R code](https://kiandlee.blogspot.com/2021/10/exclusive-lasso-and-group-lasso-using-r.html)
+
++ [Interpretable Segmentation of Medical Free-Text Records Based on Word Embeddings](https://medium.com/responsibleml/interpretable-segmentation-of-medical-free-text-records-based-on-word-embeddings-b414ddd0c78d)
+
++ [Awesome Marker Legends in Leaflet](https://roh.engineering/posts/2021/10/awesome-marker-legends-in-leaflet/)
+
++ [How to Start a Career as an R Shiny Developer](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -232,3 +237,7 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A population density map of long, slinky Chile. Took a bit of time to find an angle I like.<a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/ulU36V34tw">pic.twitter.com/ulU36V34tw</a></p>&mdash; flotsam (@researchremora) <a href="https://twitter.com/researchremora/status/1451918966864203782?ref_src=twsrc%5Etfw">October 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When it’s time to go home but your code isn’t done running. <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://t.co/cuhlQ8mKFF">pic.twitter.com/cuhlQ8mKFF</a></p>&mdash; Matt Cheng (@MLCheng3) <a href="https://twitter.com/MLCheng3/status/1452403381021020161?ref_src=twsrc%5Etfw">October 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
