@@ -70,8 +70,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-+ [ggplot tips: Arranging Plots](https://albert-rapp.de/post/2021-10-28-extend-plot-variety/)
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -182,7 +180,15 @@ parameterizations.
 
 ###  Tutorials
 
+
++ [ggplot tips: Arranging Plots](https://albert-rapp.de/post/2021-10-28-extend-plot-variety/)
+
 + [Clustering with easystats](https://easystats.github.io/parameters/articles/clustering.html)
+
+
++ [{binance} Tracking Total Account Balance](https://datawookie.dev/blog/2021/10/binance-tracking-total-account-balance/)
+
+![{binance} Tracking Total Account Balance](https://raw.githubusercontent.com/rweekly/image/master/2021/W44/binance.png.png)
 
 + [Awesome Marker Legends in Leaflet](https://roh.engineering/posts/2021/10/awesome-marker-legends-in-leaflet/)
 
@@ -206,10 +212,6 @@ parameterizations.
 
 + [Analysis of Variance in R: 3 Steps](https://finnstats.com/index.php/2021/10/24/analysis-of-variance-in-r/)
 
-
-+ [{binance} Tracking Total Account Balance](https://datawookie.dev/blog/2021/10/binance-tracking-total-account-balance/)
-
-![{binance} Tracking Total Account Balance](https://raw.githubusercontent.com/rweekly/image/master/2021/W44/binance.png.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
