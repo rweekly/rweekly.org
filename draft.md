@@ -14,7 +14,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
++ [Analyzing The Office's dialogues](https://daniloderosa.com/blog/theoffice/)
 
++ [Turn an Ordered List on an HTML Page into a Collapsible FAQ List](https://yihui.org/en/2021/10/faq-list/)
+
+
++ [{BrailleR} 0.32.1](https://cran.r-project.org/package=BrailleR): Improved Access for Blind Users
 
 ### Insights
 
