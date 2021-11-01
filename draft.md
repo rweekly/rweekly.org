@@ -104,6 +104,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{rStrava} 1.1.4](https://cran.r-project.org/package=rStrava): Access the 'Strava' API
 
++ [{ggokabeito} 0.1.0](https://cran.r-project.org/package=ggokabeito): Colorblind-friendly, qualitative Okabe-Ito Scales for ggplot2 and ggraph
+
++ [{tidysmd} 0.1.0](https://cran.r-project.org/package=tidysmd): Tidy Standardized Mean Differences
+
++ [{metaconfoundr} 0.1.0](https://cran.r-project.org/package=metaconfoundr): An R package for visualizing confounder control in meta-analyses
+
 
 
 **BioC**
