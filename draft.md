@@ -65,6 +65,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Analysis of Variance in R: 3 Steps](https://finnstats.com/index.php/2021/10/24/analysis-of-variance-in-r/)
 
++ [Synthesizing Temperature Measurements into Sound with python and R](https://urssblogg.netlify.app/post/2020-11-19-synthesizing-temperature-measurements-into-sound/) 
+
 ###  R in Organizations
 
 + [Announcing RStudio on Amazon SageMaker](https://blog.rstudio.com/2021/10/29/announcing-rstudio-on-amazon-sagemaker/)
@@ -108,6 +110,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{cfbfastR} 1.6.4](https://cran.r-project.org/package=cfbfastR): Functions to Access College Football Play by Play Data
 
 + [{rStrava} 1.1.4](https://cran.r-project.org/package=rStrava): Access the 'Strava' API
+
++ [{ggokabeito} 0.1.0](https://cran.r-project.org/package=ggokabeito): Colorblind-friendly, qualitative Okabe-Ito Scales for ggplot2 and ggraph
+
++ [{tidysmd} 0.1.0](https://cran.r-project.org/package=tidysmd): Tidy Standardized Mean Differences
+
++ [{metaconfoundr} 0.1.0](https://cran.r-project.org/package=metaconfoundr): An R package for visualizing confounder control in meta-analyses
 
 
 
