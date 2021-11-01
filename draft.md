@@ -16,9 +16,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Analyzing The Office's dialogues](https://daniloderosa.com/blog/theoffice/)
 
-+ [Turn an Ordered List on an HTML Page into a Collapsible FAQ List](https://yihui.org/en/2021/10/faq-list/)
-
-
 + [{BrailleR} 0.32.1](https://cran.r-project.org/package=BrailleR): Improved Access for Blind Users
 
 ### Insights
@@ -29,31 +26,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [A close look at some posted trials of nimble for accelerated failure time models](https://r-nimble.org/a-close-look-at-some-posted-trials-of-nimble-for-accelerated-failure-time-models)
 
++ [How to Start a Career as an R Shiny Developer](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/)
+
 ### R in the Real World
 
 + [Analyzing The Office's dialogues](https://daniloderosa.com/blog/theoffice/)
 
 + [Train in R, run on Android: Image segmentation with torch](https://blogs.rstudio.com/tensorflow/posts/2021-10-29-segmentation-torch-android)
 
+![Train in R, run on Android: Image segmentation with torch](https://raw.githubusercontent.com/rweekly/image/master/2021/W44/segmentation_android.png)
+
 + [Walmart’s 7-Year Nonlinear Market Trend using ‘Stealth Curves’](http://r-posts.com/walmarts-7-year-nonlinear-market-trend-using-stealth-curves/)
 
 + [Model Selection in R (AIC Vs BIC)](https://finnstats.com/index.php/2021/10/28/model-selection-in-r/)
-
-+ [Turn an Ordered List on an HTML Page into a Collapsible FAQ List](https://yihui.org/en/2021/10/faq-list/)
-
-+ [R and Athena update](https://dyfanjones.me/post/2021-10-28-r-and-athena-update/)
-
-+ [R : httr in R and MSXML2.ServerXMLHTTP in Excel VBA](https://kiandlee.blogspot.com/2021/10/r-httr-as-conversion-of-excel-vbas.html)
-
-+ [Dynamic Regression with ARIMA Errors: The Students on the Streets](https://datageeek.com/2021/10/27/dynamic-regression-with-arima-errors-the-students-on-the-streets/)
-
-+ [{binance} Dealing with Dust](https://datawookie.dev/blog/2021/10/binance-dealing-with-dust/)
-
-+ [Renaming the default branch](https://www.tidyverse.org/blog/2021/10/renaming-default-branch/)
-
-+ [Dynamic Regression with ARIMA Errors:   The Students on the Streets](https://datageeek.com/2021/10/26/dynamic-regression-with-arima-errors-the-students-on-the-streets/)
-
-+ [{binance} Tracking Total Account Balance](https://datawookie.dev/blog/2021/10/binance-tracking-total-account-balance/)
 
 + [How Data Scientists and Security Teams Can Effectively Work Together](https://blog.rstudio.com/2021/10/26/how-data-scientists-and-security-teams-can-work-together/)
 
@@ -63,9 +48,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R Accra Talks About Expanding R in Ghana](https://www.r-consortium.org/blog/2021/10/25/r-accra-talks-about-expanding-r-in-ghana)
 
-+ [Analysis of Variance in R: 3 Steps](https://finnstats.com/index.php/2021/10/24/analysis-of-variance-in-r/)
-
 + [Synthesizing Temperature Measurements into Sound with python and R](https://urssblogg.netlify.app/post/2020-11-19-synthesizing-temperature-measurements-into-sound/) 
+
+![Synthesizing Temperature Measurements into Sound with python and R](https://raw.githubusercontent.com/rweekly/image/master/2021/W44/arudo.png)
 
 ###  R in Organizations
 
@@ -94,6 +79,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [September 2021: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2021/10/28/september-2021-top-40-new-cran-packages/)
 
+![September 2021: "Top 40" New CRAN Packages](https://raw.githubusercontent.com/rweekly/image/master/2021/W44/ggHoriPlot.png)
 
 + [{BrailleR} 0.32.1](https://cran.r-project.org/package=BrailleR): Improved Access for Blind Users
 
@@ -106,6 +92,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{shinyGovstyle} 0.0.6](https://cran.r-project.org/package=shinyGovstyle): Custom Gov Style Inputs for Shiny
 
 + [{heatwaveR} 0.4.6](https://cran.r-project.org/package=heatwaveR): Detect Heatwaves and Cold-Spells
+
+![{heatwaveR} 0.4.6](https://raw.githubusercontent.com/rweekly/image/master/2021/W44/heatwaves.png)
 
 + [{cfbfastR} 1.6.4](https://cran.r-project.org/package=cfbfastR): Functions to Access College Football Play by Play Data
 
@@ -143,6 +131,8 @@ parameterizations.
 
 
 + [{td} 0.0.5](https://cran.r-project.org/package=td): Access to the 'twelvedata' Financial Data API
+
+![{td} 0.0.5](https://raw.githubusercontent.com/rweekly/image/master/2021/W44/td.png)
 
 + [{log4r} 0.4.1](https://cran.r-project.org/package=log4r): A Fast and Lightweight Logging System for R, Based on 'log4j'
 
@@ -198,9 +188,26 @@ parameterizations.
 
 + [Interpretable Segmentation of Medical Free-Text Records Based on Word Embeddings](https://medium.com/responsibleml/interpretable-segmentation-of-medical-free-text-records-based-on-word-embeddings-b414ddd0c78d)
 
-+ [Awesome Marker Legends in Leaflet](https://roh.engineering/posts/2021/10/awesome-marker-legends-in-leaflet/)
 
-+ [How to Start a Career as an R Shiny Developer](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/)
++ [Turn an Ordered List on an HTML Page into a Collapsible FAQ List](https://yihui.org/en/2021/10/faq-list/)
+
++ [R and Athena update](https://dyfanjones.me/post/2021-10-28-r-and-athena-update/)
+
++ [R : httr in R and MSXML2.ServerXMLHTTP in Excel VBA](https://kiandlee.blogspot.com/2021/10/r-httr-as-conversion-of-excel-vbas.html)
+
++ [Dynamic Regression with ARIMA Errors: The Students on the Streets](https://datageeek.com/2021/10/27/dynamic-regression-with-arima-errors-the-students-on-the-streets/)
+
++ [{binance} Dealing with Dust](https://datawookie.dev/blog/2021/10/binance-dealing-with-dust/)
+
++ [Renaming the default branch](https://www.tidyverse.org/blog/2021/10/renaming-default-branch/)
+
+
++ [Analysis of Variance in R: 3 Steps](https://finnstats.com/index.php/2021/10/24/analysis-of-variance-in-r/)
+
+
++ [{binance} Tracking Total Account Balance](https://datawookie.dev/blog/2021/10/binance-tracking-total-account-balance/)
+
+![{binance} Tracking Total Account Balance](https://raw.githubusercontent.com/rweekly/image/master/2021/W44/binance.png.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -219,8 +226,6 @@ Update from the [R Contribution Working Group](https://forwards.github.io/rcontr
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
-+ October 30: [95th Tokyo.R User Meetup](https://tokyor.connpass.com/event/225967/)
 
 + November 2-4: [R/Pharma Conference 2021](https://rinpharma.com/)
 
