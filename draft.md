@@ -32,6 +32,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Analyzing The Office's dialogues](https://daniloderosa.com/blog/theoffice/)
 
+![Analyzing The Office's dialogues](https://raw.githubusercontent.com/rweekly/image/master/2021/W44/office.png)
+
 + [Train in R, run on Android: Image segmentation with torch](https://blogs.rstudio.com/tensorflow/posts/2021-10-29-segmentation-torch-android)
 
 ![Train in R, run on Android: Image segmentation with torch](https://raw.githubusercontent.com/rweekly/image/master/2021/W44/segmentation_android.png)
