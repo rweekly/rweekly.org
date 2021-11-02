@@ -59,7 +59,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [Arranging Plots in R with patchwork and ggforce](https://www.youtube.com/watch?v=C5Ik-WkPuGQ)
 
 
 ### Gist & Cookbook
