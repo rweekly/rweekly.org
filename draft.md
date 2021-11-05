@@ -41,7 +41,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{mctq} 0.1.0](https://docs.ropensci.org/mctq/) - Tools to process the [Munich ChronoType Questionnaire](https://doi.org/10.1177/0748730402239679) (MCTQ)
 
 **BioC**
 
