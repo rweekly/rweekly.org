@@ -41,7 +41,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-[{makepipe} 0.0.4](https://cran.r-project.org/package=makepipe): Pipeline Tools Inspired by 'GNU Make'
++ [{cffr} 0.1.0](https://cran.r-project.org/package=cffr): Generate Citation File Format (cff) Metadata for R Packages
+
++ [{makepipe} 0.0.4](https://cran.r-project.org/package=makepipe): Pipeline Tools Inspired by 'GNU Make'
 
 
 **BioC**
