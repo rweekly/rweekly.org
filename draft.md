@@ -45,6 +45,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Get coordinates from fictitious maps](https://www.rostrum.blog/2021/11/04/kanto-locator/)
 
++ [Why you should read Mythical Man-Month: Useful reading for R Shiny developers](https://parmsam.medium.com/why-you-should-read-mythical-man-month-f06946e40e89)
+
++ [Why Hania Rani and Giovanni Allevi are so successful](https://danumbers.substack.com/p/why-hania-rani-and-giovanni-allevi)
+
 ### R in the Real World
 
 ###  R in Organizations
@@ -100,6 +104,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Arranging Plots in R with patchwork and ggforce](https://www.youtube.com/watch?v=C5Ik-WkPuGQ)
 
++ [TidyX Episode 81 : Tidymodels - Logistic Regression with GLM](https://bit.ly/TidyX_Ep81)
+
++ [How to set up Automated Tests for Your R Package using testthat](https://youtu.be/KbwYdRbmgbY)
 
 ### Gist & Cookbook
 
