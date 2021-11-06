@@ -41,7 +41,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-- [{cffr} 0.1.0](https://cran.r-project.org/package=cffr): Generate Citation File Format (cff) Metadata for R Packages
++ [{cffr} 0.1.0](https://cran.r-project.org/package=cffr): Generate Citation File Format (cff) Metadata for R Packages
+
++ [{makepipe} 0.0.4](https://cran.r-project.org/package=makepipe): Pipeline Tools Inspired by 'GNU Make'
 
 
 **BioC**
@@ -54,13 +56,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
+[{santoku} 0.6.0](https://cran.r-project.org/package=santoku): A Versatile Cutting Tool
+
 
 
 
 
 ###  Videos and Podcasts
 
-
++ [Arranging Plots in R with patchwork and ggforce](https://www.youtube.com/watch?v=C5Ik-WkPuGQ)
 
 
 ### Gist & Cookbook
