@@ -54,6 +54,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
+[{santoku} 0.6.0](https://cran.r-project.org/package=santoku): A Versatile Cutting Tool
+
 
 
 
