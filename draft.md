@@ -41,6 +41,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+[{makepipe} 0.0.4](https://cran.r-project.org/package=makepipe): Pipeline Tools Inspired by 'GNU Make'
 
 
 **BioC**
