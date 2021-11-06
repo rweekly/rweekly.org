@@ -39,6 +39,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+
 **CRAN**
 
 + [{mctq} 0.1.0](https://docs.ropensci.org/mctq/) - Tools to process the [Munich ChronoType Questionnaire](https://doi.org/10.1177/0748730402239679) (MCTQ)
@@ -54,6 +55,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **GitHub or Bitbucket**
+
++  [pyramidi](https://github.com/urswilke/pyramidi): Read & write midi data to / from data frames 
+
++  [ggbenjamini](https://github.com/urswilke/ggbenjamini): Generate benjamini leaves with bezier curves 
 
 
 
