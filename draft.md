@@ -43,8 +43,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [The Polarization of Death](https://kieranhealy.org/blog/archives/2021/10/30/the-polarization-of-death/)
 
-### R in the Real World
++ [Get coordinates from fictitious maps](https://www.rostrum.blog/2021/11/04/kanto-locator/)
 
+### R in the Real World
 
 ###  R in Organizations
 
