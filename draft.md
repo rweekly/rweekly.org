@@ -116,6 +116,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
++ [Understanding the variance of the sample variance](https://rappa.shinyapps.io/estimator-variance/)
 
 
 ### R Internationally
