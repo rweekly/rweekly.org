@@ -43,14 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [The Polarization of Death](https://kieranhealy.org/blog/archives/2021/10/30/the-polarization-of-death/)
 
-+ [dang 0.0.15: Small Correction](http://dirk.eddelbuettel.com/blog/2021/10/29#dang_0.0.15)
-
-+ [A close look at some posted trials of nimble for accelerated failure time models](https://r-nimble.org/a-close-look-at-some-posted-trials-of-nimble-for-accelerated-failure-time-models)
-
-
 ### R in the Real World
-
-
 
 
 ###  R in Organizations
@@ -99,6 +92,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [RDieHarder 0.2.2 on CRAN: Simpler Build, Fixes](http://dirk.eddelbuettel.com/blog/2021/11/02#rdieharder_0.2.2)
 
 + [RcppQuantuccia 0.1.0 on CRAN: Full QuantLib Business Calendar Support](http://dirk.eddelbuettel.com/blog/2021/10/30#rcppquantuccia_0.1.0)
+
++ [dang 0.0.15: Small Correction](http://dirk.eddelbuettel.com/blog/2021/10/29#dang_0.0.15)
 
 ###  Videos and Podcasts
 
