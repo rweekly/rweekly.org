@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Get coordinates from fictitious maps](https://www.rostrum.blog/2021/11/04/kanto-locator/)
 
 
 ###  R in Organizations
