@@ -63,6 +63,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
+[Swirl-Tidy](https://github.com/sysilviakim/swirl-tidy): A series of swirl lessons on how to use packages in `{tidyverse}`.
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
