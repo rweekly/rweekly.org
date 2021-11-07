@@ -51,6 +51,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
+[The Divided Kingdom: the UKs North-South divide is the most unequal in the developed world](https://nearanddistant.medium.com/the-divided-kingdom-the-uks-north-south-divide-is-the-most-unequal-in-the-developed-world-d6ca5c972943)
+
 ###  R in Organizations
 
 
