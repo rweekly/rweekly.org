@@ -90,6 +90,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [branchMover: A Shiny app for moving the default branch of your GitHub repos](https://www.garrickadenbuie.com/blog/branchmover/)
 
++ [{painbow} 1.0.0: Use XKCD's Painbow colormap with ggplot](https://github.com/steveharoz/painbow/)
+
 ### Updated Packages
 
 + [{santoku} 0.6.0](https://cran.r-project.org/package=santoku): A Versatile Cutting Tool
