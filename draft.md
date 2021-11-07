@@ -65,6 +65,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 [Swirl-Tidy](https://github.com/sysilviakim/swirl-tidy): A series of swirl lessons on how to use packages in `{tidyverse}`.
 
+[Apache Arrow R cookbook](https://t.co/dE5L3SVW34?amp=1)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -183,3 +185,6 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thinking about it, Non Standard Evaluation is really a confusing name, what is &quot;standard&quot; ? + sometimes you use NSE in order NOT to evaluate your arguments. What it really is, AFAICT, is &quot;argument capture&quot;, much less scary too IMO. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Antoine Fabri (@antoine_fabri) <a href="https://twitter.com/antoine_fabri/status/1455116137067384835?ref_src=twsrc%5Etfw">November 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📢🤓 Ever load a bunch of data frames in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> and want to look up which contain a particular variable name (or name snippet)? Check this out! <a href="https://twitter.com/hashtag/rdatarecipes?src=hash&amp;ref_src=twsrc%5Etfw">#rdatarecipes</a> 😎 <a href="https://t.co/owwgfJFISW">https://t.co/owwgfJFISW</a> <a href="https://t.co/WnNfeyIS5Z">pic.twitter.com/WnNfeyIS5Z</a></p>&mdash; Isabella Velásquez (@ivelasq3) <a href="https://twitter.com/ivelasq3/status/1456631929537802246?ref_src=twsrc%5Etfw">November 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
