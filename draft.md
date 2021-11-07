@@ -45,6 +45,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Get coordinates from fictitious maps](https://www.rostrum.blog/2021/11/04/kanto-locator/)
 
+![A map of the Pokemon trail.](https://raw.githubusercontent.com/rweekly/image/master/2021/W45/fictitious_maps.png)
+
 + [Why you should read Mythical Man-Month: Useful reading for R Shiny developers](https://parmsam.medium.com/why-you-should-read-mythical-man-month-f06946e40e89)
 
 + [Why Hania Rani and Giovanni Allevi are so successful](https://danumbers.substack.com/p/why-hania-rani-and-giovanni-allevi)
@@ -52,6 +54,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 [The Divided Kingdom: the UKs North-South divide is the most unequal in the developed world](https://nearanddistant.medium.com/the-divided-kingdom-the-uks-north-south-divide-is-the-most-unequal-in-the-developed-world-d6ca5c972943)
+
+![A choropleth showing incomes relative to national average.](https://raw.githubusercontent.com/rweekly/image/master/2021/W45/unequal_uk.png)
 
 ###  R in Organizations
 
@@ -90,7 +94,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 +  [pyramidi](https://github.com/urswilke/pyramidi): Read & write midi data to / from data frames 
 
+![MIDI note sequences plotted in ggplot2.](https://raw.githubusercontent.com/rweekly/image/master/2021/W45/pyramidi.png)
+
 +  [ggbenjamini](https://github.com/urswilke/ggbenjamini): Generate benjamini leaves with bezier curves 
+
+![A branch of generated leaves, each of varying size and shape.](https://raw.githubusercontent.com/rweekly/image/master/2021/W45/ggbenjamini.png)
 
 + [branchMover: A Shiny app for moving the default branch of your GitHub repos](https://www.garrickadenbuie.com/blog/branchmover/)
 
@@ -132,9 +140,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Spatial resampling for #TidyTuesday and the #30DayMapChallenge](https://juliasilge.com/blog/map-challenge/)
 
+![An animation of spatially clustered crossvalidation folds.](https://raw.githubusercontent.com/rweekly/image/master/2021/W45/spatial_crossvalidation.gif)
+
 + [error: No CurrentVersion entry in Software/JavaSoft registry!](https://finnstats.com/index.php/2021/11/04/error-no-currentversion-entry-in-software-javasoft-registry/)
 
 + [Bump chart of Scottish greenhouse gas emissions](https://scottishsnow.wordpress.com/2021/11/03/bump-chart-of-scottish-greenhouse-gas-emissions/)
+
+![An animation of spatially clustered crossvalidation folds.](https://raw.githubusercontent.com/rweekly/image/master/2021/W45/ghg_bump_v2.png)
 
 + [Survival Analysis in tidymodels](https://www.tidyverse.org/blog/2021/11/survival-analysis-parsnip-adjacent/)
 
@@ -188,3 +200,5 @@ Events in 3 Months:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thinking about it, Non Standard Evaluation is really a confusing name, what is &quot;standard&quot; ? + sometimes you use NSE in order NOT to evaluate your arguments. What it really is, AFAICT, is &quot;argument capture&quot;, much less scary too IMO. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Antoine Fabri (@antoine_fabri) <a href="https://twitter.com/antoine_fabri/status/1455116137067384835?ref_src=twsrc%5Etfw">November 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">📢🤓 Ever load a bunch of data frames in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> and want to look up which contain a particular variable name (or name snippet)? Check this out! <a href="https://twitter.com/hashtag/rdatarecipes?src=hash&amp;ref_src=twsrc%5Etfw">#rdatarecipes</a> 😎 <a href="https://t.co/owwgfJFISW">https://t.co/owwgfJFISW</a> <a href="https://t.co/WnNfeyIS5Z">pic.twitter.com/WnNfeyIS5Z</a></p>&mdash; Isabella Velásquez (@ivelasq3) <a href="https://twitter.com/ivelasq3/status/1456631929537802246?ref_src=twsrc%5Etfw">November 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">remember kids everything in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> is a function <a href="https://t.co/RifpqmKft7">pic.twitter.com/RifpqmKft7</a></p>&mdash; Matthew Kay (@mjskay) <a href="https://twitter.com/mjskay/status/1454952248937783304?ref_src=twsrc%5Etfw">October 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
