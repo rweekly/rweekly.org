@@ -71,6 +71,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 [Apache Arrow R cookbook](https://t.co/dE5L3SVW34?amp=1)
 
+
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -155,6 +157,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Cross Validation in R with Example](https://finnstats.com/index.php/2021/10/31/cross-validation-in-r/)
 
 + [Regression in R-Ultimate Guide](https://finnstats.com/index.php/2021/10/30/regression-in-r/)
+
++ [R Tutorial to build Beautiful Artistic Maps with OSM Data](https://www.youtube.com/watch?v=TDVXff6i3kw)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
