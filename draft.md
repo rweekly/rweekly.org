@@ -45,7 +45,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Get coordinates from fictitious maps](https://www.rostrum.blog/2021/11/04/kanto-locator/)
 
-![A map of the Pokemon trail.](https://raw.githubusercontent.com/rweekly/image/master/2021/W45/fictitious_maps.png)
+![A map of the Pokemon trail.](https://raw.githubusercontent.com/rweekly/image/master/2021/W45/fictitious_map.png)
 
 + [Why you should read Mythical Man-Month: Useful reading for R Shiny developers](https://parmsam.medium.com/why-you-should-read-mythical-man-month-f06946e40e89)
 
