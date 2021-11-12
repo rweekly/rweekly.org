@@ -42,7 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+  + [testdat 0.3.0](https://cran.r-project.org/web/packages/testdat/index.html): Data Unit Testing for R
 
 **BioC**
 
