@@ -50,7 +50,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{fidelius} 0.0.1](https://mattwarkentin.github.io/fidelius/): Secure password-protection and in-browser decryption for R Markdown/HTML documents
 
 ### Updated Packages
 
