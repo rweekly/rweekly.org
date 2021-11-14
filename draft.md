@@ -57,8 +57,6 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [testdat 0.3.0](https://cran.r-project.org/web/packages/testdat/index.html): Data Unit Testing for R
 
-+ [{painbow} 1.0.1](https://cran.r-project.org/package=painbow): Use XKCD's "Painbow" Colormap in ggplot2
-
 + [{surveil} 0.1.0](https://cran.r-project.org/package=surveil): Time Series Models for Disease Surveillance
 
 + [{seasonalityPlot} 0.99.3](https://cran.r-project.org/package=seasonalityPlot): Seasonality Variation Plots of Stock Prices and Cryptocurrencies
@@ -85,6 +83,22 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [blogdown v1.6: Support for the config/ Directory, and Improvements in install_hugo()/new_post()](https://yihui.org/en/2021/11/blogdown-v1-6/)
 
++ [{sp} 1.4-5](https://cran.r-project.org/package=sp): Classes and Methods for Spatial Data
+
++ [{sf} 1.0-3](https://cran.r-project.org/package=sf): Simple Features for R
+
++ [{readr} 2.1.0](https://cran.r-project.org/package=readr): Read Rectangular Text Data
+
++ [{keras} 2.7.0](https://cran.r-project.org/package=keras): R Interface to 'Keras'
+
++ [{tensorflow} 2.7.0](https://cran.r-project.org/package=tensorflow): R Interface to 'TensorFlow'
+
++ [{microbenchmark} 1.4.9](https://cran.r-project.org/package=microbenchmark): Accurate Timing Functions
+
++ [{xgboost} 1.5.0.1](https://cran.r-project.org/package=xgboost): Extreme Gradient Boosting
+
++ [{tibble} 3.1.6](https://cran.r-project.org/package=tibble): Simple Data Frames
+
 ###  Videos and Podcasts
 
 + [TidyX Episode 82: random forests with tidymodels](https://bit.ly/TidyX_Ep82) 
@@ -95,24 +109,16 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [R in Public Sector - A story about Reykjavík's Thermal Pools](https://www.youtube.com/watch?v=e2h-BVgY4VA)
 
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [Understanding the variance of the sample variance](https://rappa.shinyapps.io/estimator-variance/)
-
-
-### R Internationally
-
-
-
 ###  Tutorials
 
 + [Tutorial: Visualizing Saturn’s Changing Appearance from Earth in R](https://www.tylermw.com/tutorial-visualizing-saturns-appearance-from-earth-in-r/)
 
 + [Building Code Movies With flipbookr](https://blog.rstudio.com/2021/11/08/building-code-movies-with-flipbookr/)
+
++ [Parquet, SQL, DuckDB, arrow, dbplyr and R](https://www.richpauloo.com/post/parquet/)
 
 + [{binance} P2P Trades](https://datawookie.dev/blog/2021/11/binance-p2p-trades/)
 
@@ -123,11 +129,9 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -143,4 +147,4 @@ Events in 3 Months:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🦡 I think you&#39;re missing some badges, pal. I gotchu: <a href="https://t.co/LyxjK3LH8G">https://t.co/LyxjK3LH8G</a> <a href="https://t.co/KpFA2jwHZi">pic.twitter.com/KpFA2jwHZi</a></p>&mdash; Matt Dray (@mattdray) <a href="https://twitter.com/mattdray/status/1458184204861288455?ref_src=twsrc%5Etfw">November 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tip of the day: The tayloRswift package from <a href="https://twitter.com/adastephenson?ref_src=twsrc%5Etfw">@adastephenson</a> now offers a ggplot2 palette for Red (Taylor&#39;s Version)<a href="https://t.co/WhDH5dcfvA">https://t.co/WhDH5dcfvA</a> <a href="https://t.co/NPRehrUlxg">pic.twitter.com/NPRehrUlxg</a></p>&mdash; David Robinson (@drob) <a href="https://twitter.com/drob/status/1459259255312236547?ref_src=twsrc%5Etfw">November 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">These days of <a href="https://twitter.com/hashtag/COP26?src=hash&amp;ref_src=twsrc%5Etfw">#COP26</a> I was wondering how wind farms are distributed in Europe, so using data from <a href="https://twitter.com/openstreetmap?ref_src=twsrc%5Etfw">@openstreetmap</a> I made this map. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/EkuWI353cb">pic.twitter.com/EkuWI353cb</a></p>&mdash; Dr. Dominic Royé (@dr_xeo) <a href="https://twitter.com/dr_xeo/status/1459572556445401095?ref_src=twsrc%5Etfw">November 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
