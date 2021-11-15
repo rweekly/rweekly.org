@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: R Weekly 2021-W46
-description: Draft of the R Weekly
+description: Zillow, Databases, macOS M1
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -10,7 +10,11 @@ image: https://rweekly.org/public/facebook.png
 This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr), with help from the R Weekly team members and contributors.
 ###  Highlight
 
++ [Why machine learning hates vegetables (a dialogue about Zillow)](https://emilyriederer.netlify.app/post/ml-vegetables/)
 
++ [Should I Move to a Database?](https://blog.rmhogervorst.nl/blog/2021/11/08/should-i-move-to-a-database/)
+
++ [Transitioning from x86 to arm64 on macOS - experiences of an R user](https://pat-s.me/transitioning-from-x86-to-arm64-on-macos-experiences-of-an-r-user/)
 
 ### Insights
 
@@ -46,6 +50,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [A guide to modeling proportions with Bayesian beta and zero-inflated beta regression models](https://www.andrewheiss.com/blog/2021/11/08/beta-regression-guide/)
 
+![Modeling proportion of women in parliament by quota](https://raw.githubusercontent.com/rweekly/image/master/2021/W46/propfem-quota-halves-1.png)
+
 + [A guide to correctly calculating posterior predictions and average marginal effects with multilievel Bayesian models](https://www.andrewheiss.com/blog/2021/11/10/ame-bayes-re-guide/) 
 
 + [Data Integration, Manipulation and Visualization of Phylogenetic Trees](https://yulab-smu.top/treedata-book/index.html)
@@ -55,7 +61,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 **CRAN**
 
-+ [testdat 0.3.0](https://cran.r-project.org/web/packages/testdat/index.html): Data Unit Testing for R
++ [{testdat} 0.3.0](https://cran.r-project.org/web/packages/testdat/index.html): Data Unit Testing for R
 
 + [{surveil} 0.1.0](https://cran.r-project.org/package=surveil): Time Series Models for Disease Surveillance
 
@@ -66,6 +72,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 + [{hoopR} 1.5.0](https://cran.r-project.org/package=hoopR): Functions to Access Men's Basketball Play by Play Data
 
 + [{shiny.semantic} 0.4.3](https://cran.r-project.org/package=shiny.semantic): Semantic UI Support for Shiny
+
+![shiny semantic example](https://raw.githubusercontent.com/rweekly/image/master/2021/W46/shiny-semantic.png)
 
 + [{semantic.dashboard} 0.2.1](https://cran.r-project.org/package=semantic.dashboard): Dashboard with Fomantic UI Support for Shiny
 
@@ -112,9 +120,14 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 ### Shiny Apps
 
 + [Understanding the variance of the sample variance](https://rappa.shinyapps.io/estimator-variance/)
+
+![shiny app showing sample variance](https://raw.githubusercontent.com/rweekly/image/master/2021/W46/sample-variance.png)
+
 ###  Tutorials
 
 + [Tutorial: Visualizing Saturn’s Changing Appearance from Earth in R](https://www.tylermw.com/tutorial-visualizing-saturns-appearance-from-earth-in-r/)
+
+![visualizing saturn with R](https://raw.githubusercontent.com/rweekly/image/master/2021/W46/saturn.png)
 
 + [Building Code Movies With flipbookr](https://blog.rstudio.com/2021/11/08/building-code-movies-with-flipbookr/)
 
@@ -136,6 +149,13 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
+
+
+### Jobs
+
++ [Associate Principal Scientist, Statistical Programmer, Merck](https://jobs.merck.com/us/en/job/R134031/Associate-Principal-Scientist-Statistical-Programmer)
+
++ [Senior Statistical Programmer- Analysis and Reporting Standards, Innovation, Merck](https://jobs.merck.com/us/en/job/R134036/Senior-Statistical-Programmer-Analysis-and-Reporting-Standards-Innovation)
 
 ###  Call for Participation
 
