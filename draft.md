@@ -42,7 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+[{excluder} 0.3.2](https://cran.r-project.org/package=excluder): Checks for Exclusion Criteria in Online Data ( cran.r-project.org )
 
 **BioC**
 
