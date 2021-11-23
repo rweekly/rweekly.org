@@ -54,6 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [parallelly 1.29.0: New Skills and Less Communication Latency on Linux](https://www.jottr.org/2021/11/22/parallelly-1.29.0/)
 
 
 ###  Videos and Podcasts
