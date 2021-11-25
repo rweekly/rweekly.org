@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
  
 + [{r2spss} 0.2.0](https://cran.r-project.org/package=r2spss): Format R Output to Look Like SPSS
  
-[{excluder} 0.3.2](https://cran.r-project.org/package=excluder): Checks for Exclusion Criteria in Online Data  
++ [{excluder} 0.3.2](https://cran.r-project.org/package=excluder): Checks for Exclusion Criteria in Online Data  
 
 
 **BioC**
@@ -89,13 +89,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-+ [What Is New in ShinyProxy 2.6.0](https://hosting.analythium.io/what-is-new-in-shinyproxy-2-6-0/)
++ [{ShinyProxy} v2.6.0](https://hosting.analythium.io/what-is-new-in-shinyproxy-2-6-0/)
 
-+ [RcppArmadillo 0.10.7.3.0 on CRAN: Bugfix, New Features](http://dirk.eddelbuettel.com/blog/2021/11/18#rcpparmadillo_0.10.7.3.0)
++ [{RcppArmadillo} v0.10.7.3.0](http://dirk.eddelbuettel.com/blog/2021/11/18#rcpparmadillo_0.10.7.3.0) - Bugfix, New Features
 
-+ [cli 3.1.0](https://www.tidyverse.org/blog/2021/11/cli-3-1-0/)
++ [{cli} v3.1.0](https://www.tidyverse.org/blog/2021/11/cli-3-1-0/) - helps you create a consistent and convenient command line interface
 
-+ [{attachment} v0.2.4: fill the Remotes field](https://rtask.thinkr.fr/attachment-v0-2-3-fill-the-remotes-field/)
++ [{attachment} v0.2.4](https://rtask.thinkr.fr/attachment-v0-2-3-fill-the-remotes-field/) - fill the Remotes field
 
 
 ###  Videos and Podcasts
@@ -127,7 +127,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Prizes awarded during useR! 2021](https://user2021.r-project.org/blog/2021/11/18/awards/)
 
-+ [{filebin} Quick & Easy File Sharing](https://datawookie.dev/blog/2021/11/filebin-quick-easy-file-sharing/)
+
 
 + [Deploying xaringan Slides with GitHub Pages](https://rviews.rstudio.com/2021/11/18/deploying-xaringan-slides-a-ten-step-github-pages-workflow/)
 
@@ -142,19 +142,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Darwin to the Rescue: Using Phylogenetic Information to Overcome the Raunkiaeran Shortfall](https://geekcologist.wordpress.com/2021/11/17/darwin-to-the-rescue-using-phylogenetic-information-to-overcome-the-raunkiaeran-shortfall/)
 
-+ [RObservations #17: Plotting Flight Paths on Leaflet Maps](https://bensstats.wordpress.com/2021/11/16/robservations-17-plotting-flight-paths-on-leaflet-maps/)
 
 + [Creating A Custom MaxMind mmdb File For Cloud Provider Ranges](https://rud.is/b/2021/11/16/creating-a-custom-maxmind-mmdb-file-for-cloud-provider-ranges/)
 
 + [What a NHS-R Community Conference it was – simply wow!](https://nhsrcommunity.com/blog/what-a-nhs-r-community-conference-it-was-simply-wow/)
 
-+ [2021-03  Stroking and Filling Paths in R Graphics](https://stattech.wordpress.fos.auckland.ac.nz/2021/11/16/2021-03-stroking-and-filling-paths-in-r-graphics/)
-
 + [Birmingham R talks about the difficulties of socializing in an online space](https://www.r-consortium.org/blog/2021/11/15/birmingham-r-talks-about-the-difficulties-of-socializing-in-an-online-space)
 
 + [How To Augment Tableau With R & Python - A Webinar and Case Study from Sweden](https://www.rstudio.com/blog/augment-tableau-with-r-python/)
 
-+ [Tuning and interpreting LSBoost](https://thierrymoudiki.github.io/blog/2021/11/15/python/quasirandomizednn/mlsauce/tuning-explaining-lsboost)
 
 + [2021-02  Groups, Compositing Operators, and Affine Transformations in R Graphics](https://stattech.wordpress.fos.auckland.ac.nz/2021/11/15/2021-02-groups-compositing-operators-and-affine-transformations-in-r-graphics/)
 
@@ -165,11 +161,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 + [How to Calculate Jaccard Similarity in R](https://finnstats.com/index.php/2021/11/13/how-to-calculate-jaccard-similarity-in-r/)
-
-+ [Transitioning from x86 to arm64 on macOS - experiences of an R user](https://pat-s.me/transitioning-from-x86-to-arm64-on-macos-experiences-of-an-r-user/)
-
-+ [R Tutorial to build Beautiful Artistic Maps with OSM Data](https://www.youtube.com/watch?v=TDVXff6i3kw)
-
+ 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -201,3 +193,4 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Unsung heroes of base <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <br><br>* rle()<br>* adist()<br>* rep()<a href="https://twitter.com/hashtag/TossACoinToYourBaseFunc?src=hash&amp;ref_src=twsrc%5Etfw">#TossACoinToYourBaseFunc</a></p>&mdash; mikefc (@coolbutuseless) <a href="https://twitter.com/coolbutuseless/status/1461836326152536064?ref_src=twsrc%5Etfw">November 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
