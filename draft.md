@@ -19,19 +19,46 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 
++ [Transitioning from x86 to arm64 on macOS - experiences of an R user](https://pat-s.me/transitioning-from-x86-to-arm64-on-macos-experiences-of-an-r-user/)
+
+
++ [What About "..." in R Functions? Magic and Danger](https://youtu.be/D6nPJGcGRgw) 
+
++ [Learn how to detect outlier in the dataset using visual and statistical methods](https://www.reneshbedre.com/blog/find-outliers.html)
+
++ [Binary Missing Value Imputation](https://data-and-the-world.onrender.com/posts/binary-missing-imputation/)
+
++ [Walking the line between reproducibility and efficiency in R Markdown: Three methods](https://pablobernabeu.github.io/2021/walking-the-line-between-reproducibility-and-efficiency-in-r-markdown-three-methods/)
+
++ [RObservations #17: Plotting Flight Paths on Leaflet Maps](https://bensstats.wordpress.com/2021/11/16/robservations-17-plotting-flight-paths-on-leaflet-maps/)
+
+
++ [Custom syntax highlighting themes in RMarkdown (and pandoc)](https://www.tjmahr.com/custom-highlighting-pandoc-rmarkdown/)
+
++ [It’s so hard to compare the efficiency of MCMC samplers](https://statmodeling.stat.columbia.edu/2021/11/17/its-so-hard-to-compare-the-efficiency-of-mcmc-samplers/)
+
++ [How to Cite R and R Packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/)
 
 ### R in the Real World
 
++ [Running R clusters on an AMD Threadripper 3990X in Windows 11 (update)](https://lovickconsulting.com/2021/11/18/running-r-clusters-on-an-amd-threadripper-3990x-in-windows-10-2/)
 
++ [Darwin to the Rescue: Using Phylogenetic Information to Overcome the Raunkiaeran Shortfall](https://geekcologist.wordpress.com/2021/11/17/darwin-to-the-rescue-using-phylogenetic-information-to-overcome-the-raunkiaeran-shortfall/)
+
++ [How to Pick the Right Hosting Option for Your Shiny App](https://hosting.analythium.io/how-to-pick-the-right-hosting-option-for-your-shiny-app/) 
+
++ [Analysis of the R bugs database](https://llrs.dev/2021/11/bugs-in-r/)
+
++ [{filebin} Quick & Easy File Sharing](https://datawookie.dev/blog/2021/11/filebin-quick-easy-file-sharing/)
 
 ###  R in Organizations
 
-
-
 + [rOpenSci Dev Guide 0.7.0: Updates](https://ropensci.org/blog/2021/11/18/devguide-0.7.0/)
 
-
 + [Announcing the RStudio Blog’s New Vision and Design](https://www.rstudio.com/blog/announcing-the-rstudio-blog-s-new-vision-and-design/)
+
++ [Why R? 2021 Conference - Last days of Call for Papers](http://whyr.pl//foundation/2021/whyr2021-cfp-ends/)
+
 
 ###  R in Academia
 
@@ -47,7 +74,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{r2spss} 0.2.0](https://cran.r-project.org/package=r2spss): Format R Output to Look Like SPSS
 
 **BioC**
 
@@ -59,11 +86,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [What Is New in ShinyProxy 2.6.0](https://hosting.analythium.io/what-is-new-in-shinyproxy-2-6-0/)
 
 + [RcppArmadillo 0.10.7.3.0 on CRAN: Bugfix, New Features](http://dirk.eddelbuettel.com/blog/2021/11/18#rcpparmadillo_0.10.7.3.0)
 
 + [cli 3.1.0](https://www.tidyverse.org/blog/2021/11/cli-3-1-0/)
-
 
 + [{attachment} v0.2.4: fill the Remotes field](https://rtask.thinkr.fr/attachment-v0-2-3-fill-the-remotes-field/)
 
@@ -71,6 +98,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Videos and Podcasts
 
 + [R Tutorial to build Beautiful Artistic Maps with OSM Data](https://www.youtube.com/watch?v=TDVXff6i3kw)
+
++ [Creating Your Own R Package: It's easier than you may think! A Playlist. ](https://youtube.com/playlist?list=PL4ZUlAlk7Qic9a6aBIMcRs7_CLbIzCalW)
 
 
 ### Gist & Cookbook
@@ -101,11 +130,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Exploring base R plots](https://hohenfeld.is/posts/exploring-base-r-plots/)
 
++ [Shooting Stars](https://www.johnmackintosh.net/blog/2021-11-22-shooting-stars/)
+
 + [Keras for R is back!](https://blogs.rstudio.com/tensorflow/posts/2021-11-18-keras-updates)
 
 + [Homoscedasticity in Regression Analysis](https://finnstats.com/index.php/2021/11/17/homoscedasticity-in-regression-analysis/)
 
-+ [Why R? 2021 Conference - Last days of Call for Papers](http://whyr.pl//foundation/2021/whyr2021-cfp-ends/)
 
 + [Darwin to the Rescue: Using Phylogenetic Information to Overcome the Raunkiaeran Shortfall](https://geekcologist.wordpress.com/2021/11/17/darwin-to-the-rescue-using-phylogenetic-information-to-overcome-the-raunkiaeran-shortfall/)
 
@@ -114,8 +144,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Creating A Custom MaxMind mmdb File For Cloud Provider Ranges](https://rud.is/b/2021/11/16/creating-a-custom-maxmind-mmdb-file-for-cloud-provider-ranges/)
 
 + [What a NHS-R Community Conference it was – simply wow!](https://nhsrcommunity.com/blog/what-a-nhs-r-community-conference-it-was-simply-wow/)
-
-+ [How to Cite R and R Packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/)
 
 + [2021-03  Stroking and Filling Paths in R Graphics](https://stattech.wordpress.fos.auckland.ac.nz/2021/11/16/2021-03-stroking-and-filling-paths-in-r-graphics/)
 
@@ -134,8 +162,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 + [How to Calculate Jaccard Similarity in R](https://finnstats.com/index.php/2021/11/13/how-to-calculate-jaccard-similarity-in-r/)
-
-+ [Transitioning from x86 to arm64 on macOS - experiences of an R user](https://pat-s.me/transitioning-from-x86-to-arm64-on-macos-experiences-of-an-r-user/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
