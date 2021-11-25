@@ -19,6 +19,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 
++ [Analysis of the R bugs database](https://llrs.dev/2021/11/bugs-in-r/)
+
+![Analysis of the R bugs database](https://raw.githubusercontent.com/rweekly/image/master/2021/W47/bugs.png)
+
 + [Transitioning from x86 to arm64 on macOS - experiences of an R user](https://pat-s.me/transitioning-from-x86-to-arm64-on-macos-experiences-of-an-r-user/)
 
 
@@ -47,7 +51,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to Pick the Right Hosting Option for Your Shiny App](https://hosting.analythium.io/how-to-pick-the-right-hosting-option-for-your-shiny-app/) 
 
-+ [Analysis of the R bugs database](https://llrs.dev/2021/11/bugs-in-r/)
 
 + [{filebin} Quick & Easy File Sharing](https://datawookie.dev/blog/2021/11/filebin-quick-easy-file-sharing/)
 
@@ -95,6 +98,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{cli} v3.1.0](https://www.tidyverse.org/blog/2021/11/cli-3-1-0/) - helps you create a consistent and convenient command line interface
 
+![{cli} v3.1.0](https://raw.githubusercontent.com/rweekly/image/master/2021/W47/cli.png)
+
 + [{attachment} v0.2.4](https://rtask.thinkr.fr/attachment-v0-2-3-fill-the-remotes-field/) - fill the Remotes field
 
 
@@ -127,11 +132,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Prizes awarded during useR! 2021](https://user2021.r-project.org/blog/2021/11/18/awards/)
 
-
-
 + [Deploying xaringan Slides with GitHub Pages](https://rviews.rstudio.com/2021/11/18/deploying-xaringan-slides-a-ten-step-github-pages-workflow/)
 
 + [Exploring base R plots](https://hohenfeld.is/posts/exploring-base-r-plots/)
+
+![Exploring base R plots](https://raw.githubusercontent.com/rweekly/image/master/2021/W47/base-plot.png)
 
 + [Shooting Stars](https://www.johnmackintosh.net/blog/2021-11-22-shooting-stars/)
 
@@ -153,8 +158,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 + [2021-02  Groups, Compositing Operators, and Affine Transformations in R Graphics](https://stattech.wordpress.fos.auckland.ac.nz/2021/11/15/2021-02-groups-compositing-operators-and-affine-transformations-in-r-graphics/)
-
-+ [Science and Cocktails: Maps of the Invisible](https://jcheshire.com/visualisation/science-and-cocktails-maps-of-the-invisible/)
 
 
 + [A simple 2048 game engine in R](https://coolbutuseless.github.io/2021/11/14/a-simple-2048-game-engine-in-r/)
