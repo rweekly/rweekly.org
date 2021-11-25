@@ -73,8 +73,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
-
+ 
 + [{r2spss} 0.2.0](https://cran.r-project.org/package=r2spss): Format R Output to Look Like SPSS
+ 
+[{excluder} 0.3.2](https://cran.r-project.org/package=excluder): Checks for Exclusion Criteria in Online Data  
+
 
 **BioC**
 
@@ -82,7 +85,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
+ 
 
 ### Updated Packages
 
@@ -163,6 +166,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to Calculate Jaccard Similarity in R](https://finnstats.com/index.php/2021/11/13/how-to-calculate-jaccard-similarity-in-r/)
 
++ [Transitioning from x86 to arm64 on macOS - experiences of an R user](https://pat-s.me/transitioning-from-x86-to-arm64-on-macos-experiences-of-an-r-user/)
+
++ [R Tutorial to build Beautiful Artistic Maps with OSM Data](https://www.youtube.com/watch?v=TDVXff6i3kw)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -193,3 +200,4 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
