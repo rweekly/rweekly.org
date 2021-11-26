@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Colin Fay](https://colinfay.me/), with help from the R Weekly team members and contributors.
 
 
 
@@ -18,49 +18,20 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [RSS feeds of package updates in r-universe](https://ropensci.org/blog/2021/11/24/runiverse-badges/)
 
-+ [Analysis of the R bugs database](https://llrs.dev/2021/11/bugs-in-r/)
++ [Biplots are everywhere: where do they come from?](https://www.statforbiology.com/2021/stat_multivar_svd_biplots/)
 
-![Analysis of the R bugs database](https://raw.githubusercontent.com/rweekly/image/master/2021/W47/bugs.png)
++ [How I Test cffr on (about) 2,000 Packages using GitHub Actions and R-universe](https://ropensci.org/blog/2021/11/23/how-i-test-cffr/)
 
-+ [Transitioning from x86 to arm64 on macOS - experiences of an R user](https://pat-s.me/transitioning-from-x86-to-arm64-on-macos-experiences-of-an-r-user/)
-
-
-+ [What About "..." in R Functions? Magic and Danger](https://youtu.be/D6nPJGcGRgw) 
-
-+ [Learn how to detect outlier in the dataset using visual and statistical methods](https://www.reneshbedre.com/blog/find-outliers.html)
-
-+ [Binary Missing Value Imputation](https://data-and-the-world.onrender.com/posts/binary-missing-imputation/)
-
-+ [Walking the line between reproducibility and efficiency in R Markdown: Three methods](https://pablobernabeu.github.io/2021/walking-the-line-between-reproducibility-and-efficiency-in-r-markdown-three-methods/)
-
-+ [RObservations #17: Plotting Flight Paths on Leaflet Maps](https://bensstats.wordpress.com/2021/11/16/robservations-17-plotting-flight-paths-on-leaflet-maps/)
-
-
-+ [Custom syntax highlighting themes in RMarkdown (and pandoc)](https://www.tjmahr.com/custom-highlighting-pandoc-rmarkdown/)
-
-+ [It’s so hard to compare the efficiency of MCMC samplers](https://statmodeling.stat.columbia.edu/2021/11/17/its-so-hard-to-compare-the-efficiency-of-mcmc-samplers/)
-
-+ [How to Cite R and R Packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/)
++ [The design effect of a cluster randomized trial with baseline measurements](https://www.rdatagen.net/post/2021-11-23-design-effects-with-baseline-measurements/)
 
 ### R in the Real World
 
-+ [Running R clusters on an AMD Threadripper 3990X in Windows 11 (update)](https://lovickconsulting.com/2021/11/18/running-r-clusters-on-an-amd-threadripper-3990x-in-windows-10-2/)
 
-+ [Darwin to the Rescue: Using Phylogenetic Information to Overcome the Raunkiaeran Shortfall](https://geekcologist.wordpress.com/2021/11/17/darwin-to-the-rescue-using-phylogenetic-information-to-overcome-the-raunkiaeran-shortfall/)
-
-+ [How to Pick the Right Hosting Option for Your Shiny App](https://hosting.analythium.io/how-to-pick-the-right-hosting-option-for-your-shiny-app/) 
-
-
-+ [{filebin} Quick & Easy File Sharing](https://datawookie.dev/blog/2021/11/filebin-quick-easy-file-sharing/)
 
 ###  R in Organizations
 
-+ [rOpenSci Dev Guide 0.7.0: Updates](https://ropensci.org/blog/2021/11/18/devguide-0.7.0/)
-
-+ [Announcing the RStudio Blog’s New Vision and Design](https://www.rstudio.com/blog/announcing-the-rstudio-blog-s-new-vision-and-design/)
-
-+ [Why R? 2021 Conference - Last days of Call for Papers](http://whyr.pl//foundation/2021/whyr2021-cfp-ends/)
 
 
 ###  R in Academia
@@ -76,11 +47,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
- 
-+ [{r2spss} 0.2.0](https://cran.r-project.org/package=r2spss): Format R Output to Look Like SPSS
- 
-+ [{excluder} 0.3.2](https://cran.r-project.org/package=excluder): Checks for Exclusion Criteria in Online Data  
 
++ [cffr: Create a CITATION.cff File for your R Package](https://ropensci.org/blog/2021/11/23/cffr/)
+
++ [nanotime 0.3.4 on CRAN: Maintenance Update](http://dirk.eddelbuettel.com/blog/2021/11/24/#nanotime_0.3.4)
+
++ [RcppArmadillo 0.10.7.3.0 on CRAN: Bugfix, New Features](http://dirk.eddelbuettel.com/blog/2021/11/18/#rcpparmadillo_0.10.7.3.0)
+
++ [parallelly 1.29.0: New Skills and Less Communication Latency on Linux](https://www.r-craft.org/r-news/parallelly-1-29-0-new-skills-and-less-communication-latency-on-linux/)
+
++ [cusumcharter available on CRAN](https://www.johnmackintosh.net/blog/2021-11-20-cusumcharter/)
 
 **BioC**
 
@@ -88,33 +64,23 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
- 
++ [{filebin} Quick & Easy File Sharing](https://datawookie.dev/blog/2021/11/filebin-quick-easy-file-sharing/)
 
 ### Updated Packages
 
-+ [{ShinyProxy} v2.6.0](https://hosting.analythium.io/what-is-new-in-shinyproxy-2-6-0/)
-
-+ [{RcppArmadillo} v0.10.7.3.0](http://dirk.eddelbuettel.com/blog/2021/11/18#rcpparmadillo_0.10.7.3.0) - Bugfix, New Features
-
-+ [{cli} v3.1.0](https://www.tidyverse.org/blog/2021/11/cli-3-1-0/) - helps you create a consistent and convenient command line interface
-
-![{cli} v3.1.0](https://raw.githubusercontent.com/rweekly/image/master/2021/W47/cli.png)
-
-+ [{attachment} v0.2.4](https://rtask.thinkr.fr/attachment-v0-2-3-fill-the-remotes-field/) - fill the Remotes field
 
 
 ###  Videos and Podcasts
 
-+ [R Tutorial to build Beautiful Artistic Maps with OSM Data](https://www.youtube.com/watch?v=TDVXff6i3kw)
-
-+ [Creating Your Own R Package: It's easier than you may think! A Playlist. ](https://youtube.com/playlist?list=PL4ZUlAlk7Qic9a6aBIMcRs7_CLbIzCalW)
-
++ [Getting started with unit testing in R](https://www.pipinghotdata.com/posts/2021-11-23-getting-started-with-unit-testing-in-r/)
 
 ### Gist & Cookbook
 
-
++ [R Markdown Lesser-Known Tips & Tricks #1: Working in the RStudio IDE](https://www.rstudio.com/blog/r-markdown-tips-tricks-1-rstudio-ide/)
 
 ### Shiny Apps
+
++ [RTutor: What explains the employment drop in the great recession 2007-2009?](https://www.r-craft.org/r-news/rtutor-what-explains-the-employment-drop-in-the-great-recession-2007-2009/)
 
 
 
@@ -124,47 +90,26 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-+ [How to Perform Univariate Analysis in R](https://finnstats.com/index.php/2021/11/20/how-to-perform-univariate-analysis-in-r/)
++ [Publication-ready tables with flextable and own theme in R](https://michaeldismorr.netlify.app/post/publication-ready-tables-with-flextable-and-own-theme-in-r/)
 
-+ [Unit testing and continuous integration](https://personalpages.manchester.ac.uk/staff/david.selby/rthritis/2021-11-19-unittesting)
++ [Creating your google chat R bot in under 5 minutes](https://adisarid.github.io/post/creating-your-google-chat-r-bot-in-under-5-minutes/)
 
-+ [Calculate Confidence Intervals in R](https://finnstats.com/index.php/2021/11/18/calculate-confidence-intervals-in-r/)
++ [Principal Component Analysis: a brief intro for biologists](https://www.statforbiology.com/2021/stat_multivar_pca/)
 
-+ [Prizes awarded during useR! 2021](https://user2021.r-project.org/blog/2021/11/18/awards/)
++ [Likelihood Ratio Test in R with Example](https://finnstats.com/index.php/2021/11/24/likelihood-ratio-test-in-r/)
 
-+ [Deploying xaringan Slides with GitHub Pages](https://rviews.rstudio.com/2021/11/18/deploying-xaringan-slides-a-ten-step-github-pages-workflow/)
++ [Likelihood Ratio Test in R with Example](https://finnstats.com/index.php/2021/11/24/likelihood-ratio-test-in-r/)
 
-+ [Exploring base R plots](https://hohenfeld.is/posts/exploring-base-r-plots/)
++ [How to go from R to nice tables in Microsoft Word](https://www.rforecology.com/post/exporting-tables-from-r-to-microsoft-word/)
 
-![Exploring base R plots](https://raw.githubusercontent.com/rweekly/image/master/2021/W47/base-plot.png)
++ [I got my first package onto CRAN, and YOU CAN TOO](https://www.johnmackintosh.net/blog/2021-11-23-cran-success/)
 
-+ [Shooting Stars](https://www.johnmackintosh.net/blog/2021-11-22-shooting-stars/)
++ [How to Build Interactive Google Maps With R Shiny – A Complete Guide](https://appsilon.com/interactive-google-maps-with-r-shiny/)
 
-+ [Keras for R is back!](https://blogs.rstudio.com/tensorflow/posts/2021-11-18-keras-updates)
++ [How to Scrape and Store Strava Data Using R](https://rviews.rstudio.com/2021/11/22/strava-data/)
 
-+ [Homoscedasticity in Regression Analysis](https://finnstats.com/index.php/2021/11/17/homoscedasticity-in-regression-analysis/)
++ [Analysing Lichess Games with R](https://towardsdatascience.com/analysing-lichess-games-with-r-c4f8b0bc512c)
 
-
-+ [Darwin to the Rescue: Using Phylogenetic Information to Overcome the Raunkiaeran Shortfall](https://geekcologist.wordpress.com/2021/11/17/darwin-to-the-rescue-using-phylogenetic-information-to-overcome-the-raunkiaeran-shortfall/)
-
-
-+ [Creating A Custom MaxMind mmdb File For Cloud Provider Ranges](https://rud.is/b/2021/11/16/creating-a-custom-maxmind-mmdb-file-for-cloud-provider-ranges/)
-
-+ [What a NHS-R Community Conference it was – simply wow!](https://nhsrcommunity.com/blog/what-a-nhs-r-community-conference-it-was-simply-wow/)
-
-+ [Birmingham R talks about the difficulties of socializing in an online space](https://www.r-consortium.org/blog/2021/11/15/birmingham-r-talks-about-the-difficulties-of-socializing-in-an-online-space)
-
-+ [How To Augment Tableau With R & Python - A Webinar and Case Study from Sweden](https://www.rstudio.com/blog/augment-tableau-with-r-python/)
-
-
-+ [2021-02  Groups, Compositing Operators, and Affine Transformations in R Graphics](https://stattech.wordpress.fos.auckland.ac.nz/2021/11/15/2021-02-groups-compositing-operators-and-affine-transformations-in-r-graphics/)
-
-
-+ [A simple 2048 game engine in R](https://coolbutuseless.github.io/2021/11/14/a-simple-2048-game-engine-in-r/)
-
-
-+ [How to Calculate Jaccard Similarity in R](https://finnstats.com/index.php/2021/11/13/how-to-calculate-jaccard-similarity-in-r/)
- 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -191,9 +136,8 @@ Events in 3 Months:
 
 ###  Call for Participation
 
++ [Why R? Community award for Outstanding Community Leaders](https://whyr.pl//foundation/2021/community-award/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Unsung heroes of base <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <br><br>* rle()<br>* adist()<br>* rep()<a href="https://twitter.com/hashtag/TossACoinToYourBaseFunc?src=hash&amp;ref_src=twsrc%5Etfw">#TossACoinToYourBaseFunc</a></p>&mdash; mikefc (@coolbutuseless) <a href="https://twitter.com/coolbutuseless/status/1461836326152536064?ref_src=twsrc%5Etfw">November 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
