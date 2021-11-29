@@ -110,6 +110,8 @@ This week’s release was curated by [Colin Fay](https://colinfay.me/), with hel
 
 + [Analysing Lichess Games with R](https://towardsdatascience.com/analysing-lichess-games-with-r-c4f8b0bc512c)
 
++ [Making Waves in ggplot: An Rtistry Tutorial](https://www.thetidytrekker.com/post/making-waves)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
