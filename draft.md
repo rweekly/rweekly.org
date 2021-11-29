@@ -54,9 +54,12 @@ This week’s release was curated by [Colin Fay](https://colinfay.me/), with hel
 
 + [RcppArmadillo 0.10.7.3.0 on CRAN: Bugfix, New Features](http://dirk.eddelbuettel.com/blog/2021/11/18/#rcpparmadillo_0.10.7.3.0)
 
-+ [parallelly 1.29.0: New Skills and Less Communication Latency on Linux](https://www.r-craft.org/r-news/parallelly-1-29-0-new-skills-and-less-communication-latency-on-linux/)
++ [parallelly 1.29.0: New Skills and Less Communication Latency on Linux](https://www.jottr.org/2021/11/22/parallelly-1.29.0/)
 
 + [cusumcharter available on CRAN](https://www.johnmackintosh.net/blog/2021-11-20-cusumcharter/)
+
++ [future.callr 0.7.0: A Future API for Parallel Processing using 'callr'](https://cran.r-project.org/package=future.callr)
+
 
 **BioC**
 
