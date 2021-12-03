@@ -18,7 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [R has obscenely long function names](https://www.rostrum.blog/2021/11/27/long-fns/)
 
++ [{itdepends} on {lubridate} ](https://www.rostrum.blog/2021/11/27/lubridate-fns/)
 
 ### R in the Real World
 
@@ -59,7 +61,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
++ [Day 01: Postcards || rmarkdown + postcards + Netlify || #12daysofdusting](https://www.youtube.com/watch?v=-ce-T48lR8A)
 
++ [Day 02: Postcards with distill || rmarkdown + postcards + distill + Netlify || #12daysofdusting](https://www.youtube.com/watch?v=fPSWqdJr_EY)
 
 ### Gist & Cookbook
 
@@ -75,7 +79,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Understanding text size and resolution in ggplot2](https://www.christophenicault.com/post/understand_size_dimension_ggplot2/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
