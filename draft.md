@@ -75,7 +75,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Contribute to a Community of Practice Blog using Git and R](https://geospatial-community.netlify.app/post/2021-11-23-creating-a-post/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
