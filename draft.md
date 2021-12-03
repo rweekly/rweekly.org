@@ -59,7 +59,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [Data Journalism in R - De Tijd](https://rbelgium.be/2021/10/14/data-journalism-in-r-de-tijd/)
++ [The rise of R in public health research institutes](https://rbelgium.be/2021/12/03/the-rise-of-r-in-public-health-research-institutes/)
 
 ### Gist & Cookbook
 
