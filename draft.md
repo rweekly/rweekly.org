@@ -13,7 +13,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Highlight
-
++ [Next Newsletter: Five stories. Four packages. Three jargons. Two tweets. One Meme.](https://www.getrevue.co/profile/harshbutjust)
 
 
 ### Insights
@@ -21,7 +21,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### R in the Real World
-
++ [Next Newsletter: Five stories. Four packages. Three jargons. Two tweets. One Meme.](https://www.getrevue.co/profile/harshbutjust)
 
 
 ###  R in Organizations
