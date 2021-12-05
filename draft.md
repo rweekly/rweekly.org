@@ -35,7 +35,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Resources
-
+[Understanding the code used to implement the {survey} package’s recursive variance estimation for multistage samples](https://www.practicalsignificance.com/posts/understanding-the-survey-packages-recursive-algorithm/)
 
 
 ###  New Packages
