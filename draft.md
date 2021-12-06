@@ -18,11 +18,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [R has obscenely long function names](https://www.rostrum.blog/2021/11/27/long-fns/)
 
++ [{itdepends} on {lubridate} ](https://www.rostrum.blog/2021/11/27/lubridate-fns/)
 
 ### R in the Real World
 
-
++ [Upon "A Journal of the Plague Year"](https://aczepielik.github.io/en/post/upon-a-journal-of-the-plague-year/)
 
 ###  R in Organizations
 
@@ -55,12 +57,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 + [makepipe 0.1.0](https://cran.r-project.org/package=makepipe): Pipeline Tools Inspired by 'GNU Make'
++ [preferably 0.4.0](http://preferably.amirmasoudabdol.name): An Accessible 'pkgdown' Template
 
 
 ###  Videos and Podcasts
 
++ [Day 01: Postcards || rmarkdown + postcards + Netlify || #12daysofdusting](https://www.youtube.com/watch?v=-ce-T48lR8A)
+
++ [Day 02: Postcards with distill || rmarkdown + postcards + distill + Netlify || #12daysofdusting](https://www.youtube.com/watch?v=fPSWqdJr_EY)
+
 + [Data Journalism in R - De Tijd](https://rbelgium.be/2021/10/14/data-journalism-in-r-de-tijd/)
+
 + [The rise of R in public health research institutes](https://rbelgium.be/2021/12/03/the-rise-of-r-in-public-health-research-institutes/)
+
 
 ### Gist & Cookbook
 
@@ -76,7 +85,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Understanding text size and resolution in ggplot2](https://www.christophenicault.com/post/understand_size_dimension_ggplot2/)
 
++ [Contribute to a Community of Practice Blog using Git and R](https://geospatial-community.netlify.app/post/2021-11-23-creating-a-post/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
