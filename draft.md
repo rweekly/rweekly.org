@@ -57,6 +57,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 + [makepipe 0.1.0](https://cran.r-project.org/package=makepipe): Pipeline Tools Inspired by 'GNU Make'
++ [preferably 0.4.0](http://preferably.amirmasoudabdol.name): An Accessible 'pkgdown' Template
 
 
 ###  Videos and Podcasts
