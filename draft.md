@@ -100,7 +100,7 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ### Shiny Apps
 
-
++ [EvanMiya: College Basketball Advanced Analytics](https://evanmiya.com)
 
 ### R Internationally
 
