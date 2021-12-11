@@ -33,7 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Resources
-
++ [A Hiring Manager’s review of the Google Data Analytics Professional Certificate syllabus](https://oscarbaruffa.com/googledata/) - The Google Data Analytics Professional Certficiate includes R in it's syllabus. Many students have recommend it to each other, but is it any good? I've reviewed it in some detail in this post. 
 
 
 ###  New Packages
