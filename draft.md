@@ -32,12 +32,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-[Generating Pretty Instagram Quote Images in R]https://jmablog.com/post/generating-instagram-quote-images-in-r/()
-[A new function to plot convergence diagnostics from lme4::allFit()](https://pablobernabeu.github.io/2021/a-new-function-to-plot-convergence-diagnostics-from-lme4-allfit/)
++ [Generating Pretty Instagram Quote Images in R](https://jmablog.com/post/generating-instagram-quote-images-in-r/)
++ 
++ [A new function to plot convergence diagnostics from lme4::allFit()](https://pablobernabeu.github.io/2021/a-new-function-to-plot-convergence-diagnostics-from-lme4-allfit/)
 
 ### R in the Real World
 
-[The rise of R in public health research institutes](https://www.rbelgium.be/2021/12/03/the-rise-of-r-in-public-health-research-institutes/)
++ [The rise of R in public health research institutes](https://www.rbelgium.be/2021/12/03/the-rise-of-r-in-public-health-research-institutes/)
 
 
 ###  R in Organizations
@@ -84,7 +85,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-+ [6 simple Shiny things I have learned from creating a somewhat small app](https://albert-rapp.de/post/2021-11-21-a-few-learnings-from-a-simple-shiny-app/)
 + [R Shiny app for advanced college basketball analytics](https://evanmiya.com) The site features team and player impact ratings, using a hierarchical bayesian model, and has tons of goodies, like game predictions, bracketology, full team breakdowns, lineup ratings, and more. Evan has been running the site for a year and a half while finishing up my Ph.D in Statistics at Baylor University.
 
 ### R Internationally
@@ -92,6 +92,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Tutorials
++ [6 simple Shiny things I have learned from creating a somewhat small app](https://albert-rapp.de/post/2021-11-21-a-few-learnings-from-a-simple-shiny-app/)
 
 + [A tutorial to get started with shinytableau – an R package that lets you create Tableau dashboard extensions using R and R Shiny.](https://appsilon.com/r-shiny-shinytableau/)
 
