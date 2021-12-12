@@ -36,6 +36,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
++ [9 new books added to Big Book of R](https://oscarbaruffa.com/bbofr_2021-06-12/) - Every time I update Big Book of R I’m blown away by how much good stuff is out there! In this release there’s 9 new books which covers the widest range of topics of any release to date :).
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
