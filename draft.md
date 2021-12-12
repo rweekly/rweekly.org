@@ -66,6 +66,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
++ [6 simple Shiny things I have learned from creating a somewhat small app](https://albert-rapp.de/post/2021-11-21-a-few-learnings-from-a-simple-shiny-app/)
 
 
 ### R Internationally
