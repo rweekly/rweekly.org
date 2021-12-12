@@ -10,18 +10,34 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
+### Draft
 
 
 ###  Highlight
+
++ [6 simple Shiny things I have learned from creating a somewhat small app](https://albert-rapp.de/post/2021-11-21-a-few-learnings-from-a-simple-shiny-app/)
++ [9 new books added to Big Book of R](https://oscarbaruffa.com/bbofr_2021-06-12/) - Every time I update Big Book of R I’m blown away by how much good stuff is out there! In this release there’s 9 new books which covers the widest range of topics of any release to date :).
++ [R Shiny app for advanced college basketball analytics](https://evanmiya.com) The site features team and player impact ratings, using a hierarchical bayesian model, and has tons of goodies, like game predictions, bracketology, full team breakdowns, lineup ratings, and more. Evan has been running the site for a year and a half while finishing up my Ph.D in Statistics at Baylor University.
++ [A tutorial to get started with shinytableau – an R package that lets you create Tableau dashboard extensions using R and R Shiny.](https://appsilon.com/r-shiny-shinytableau/)
++ [{jagstargets} 1.0.1](https://cran.r-project.org/package=jagstargets): Targets for JAGS Workflows
++ [{recolorize} 0.1.0](https://cran.r-project.org/package=recolorize): Color-Based Image Segmentation
++ [{fledge} 0.1.0](https://cran.r-project.org/package=fledge): Smoother Change Tracking and Versioning for R Packages
++ [{imageseg} 0.4.0](https://cran.r-project.org/package=imageseg): Deep Learning Models for Image Segmentation
++ [An Introduction to packager](https://cran.r-project.org/web/packages/packager/vignettes/An_Introduction_to_packager.html)
++ [Pre-processing layers in keras: What they are and how to use them](https://blogs.rstudio.com/ai/posts/2021-12-09-keras-preprocessing-layers/)
+
+
 
 
 
 ### Insights
 
-
+[Generating Pretty Instagram Quote Images in R]https://jmablog.com/post/generating-instagram-quote-images-in-r/()
+[A new function to plot convergence diagnostics from lme4::allFit()](https://pablobernabeu.github.io/2021/a-new-function-to-plot-convergence-diagnostics-from-lme4-allfit/)
 
 ### R in the Real World
 
+[The rise of R in public health research institutes](https://www.rbelgium.be/2021/12/03/the-rise-of-r-in-public-health-research-institutes/)
 
 
 ###  R in Organizations
@@ -69,7 +85,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Shiny Apps
 
 + [6 simple Shiny things I have learned from creating a somewhat small app](https://albert-rapp.de/post/2021-11-21-a-few-learnings-from-a-simple-shiny-app/)
-
++ [R Shiny app for advanced college basketball analytics](https://evanmiya.com) The site features team and player impact ratings, using a hierarchical bayesian model, and has tons of goodies, like game predictions, bracketology, full team breakdowns, lineup ratings, and more. Evan has been running the site for a year and a half while finishing up my Ph.D in Statistics at Baylor University.
 
 ### R Internationally
 
@@ -77,7 +93,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [A tutorial to get started with shinytableau – an R package that lets you create Tableau dashboard extensions using R and R Shiny.](https://appsilon.com/r-shiny-shinytableau/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
