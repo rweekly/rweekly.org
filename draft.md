@@ -26,6 +26,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Top 21 #RStats tweets of 2021](https://oscarbaruffa.com/top21/)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As well as package stickers the RStudio swag store (<a href="https://t.co/JoQ3raQujN">https://t.co/JoQ3raQujN</a>) now includes a small supply of dplyr masks: <a href="https://t.co/9bCbbZyajr">https://t.co/9bCbbZyajr</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/nA5GHoIR8j">pic.twitter.com/nA5GHoIR8j</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1374713822980800515?ref_src=twsrc%5Etfw">March 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 + [Interactive Replication Projects? Yes, please!](https://www.getrevue.co/profile/harshbutjust/issues/interactive-replication-projects-yes-please-909157)
 
 + [The 34th post in the rambunctiously refreshing R recitations](http://dirk.eddelbuettel.com/blog/2021/12/08/#034_less_is_more)
