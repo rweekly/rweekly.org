@@ -57,7 +57,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [NHH ECS530 2021 course: Spatial data analysis (with R)](https://rsbivand.github.io/ECS530_h21/index.html)
 
-+ [9 new books added to Big Book of R](https://oscarbaruffa.com/bbofr_2021-06-12/) - Every time I update Big Book of R I’m blown away by how much good stuff is out there! In this release there’s 9 new books which covers the widest range of topics of any release to date
++ [9 new books added to Big Book of R](https://oscarbaruffa.com/bbofr_2021-06-12/) - In this release there’s 9 new books which covers the widest range of topics of any release to date.
 
 + [GWAS Catalog access with gwasrapidd](https://raw.githubusercontent.com/rstudio/cheatsheets/main/gwasrapidd.pdf)
 
