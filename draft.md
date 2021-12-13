@@ -17,7 +17,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [6 simple Shiny things I have learned from creating a somewhat small app](https://albert-rapp.de/post/2021-11-21-a-few-learnings-from-a-simple-shiny-app/)
 + [9 new books added to Big Book of R](https://oscarbaruffa.com/bbofr_2021-06-12/) - Every time I update Big Book of R I’m blown away by how much good stuff is out there! In this release there’s 9 new books which covers the widest range of topics of any release to date :).
-+ [R Shiny app for advanced college basketball analytics](https://evanmiya.com) The site features team and player impact ratings, using a hierarchical bayesian model, and has tons of goodies, like game predictions, bracketology, full team breakdowns, lineup ratings, and more. Evan has been running the site for a year and a half while finishing up my Ph.D in Statistics at Baylor University.
 + [A tutorial to get started with shinytableau – an R package that lets you create Tableau dashboard extensions using R and R Shiny.](https://appsilon.com/r-shiny-shinytableau/)
 + [{jagstargets} 1.0.1](https://cran.r-project.org/package=jagstargets): Targets for JAGS Workflows
 + [{recolorize} 0.1.0](https://cran.r-project.org/package=recolorize): Color-Based Image Segmentation
@@ -85,7 +84,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-+ [R Shiny app for advanced college basketball analytics](https://evanmiya.com) The site features team and player impact ratings, using a hierarchical bayesian model, and has tons of goodies, like game predictions, bracketology, full team breakdowns, lineup ratings, and more. Evan has been running the site for a year and a half while finishing up my Ph.D in Statistics at Baylor University.
+
 
 ### R Internationally
 
