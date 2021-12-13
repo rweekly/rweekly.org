@@ -16,24 +16,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Highlight
 
 + [6 simple Shiny things I have learned from creating a somewhat small app](https://albert-rapp.de/post/2021-11-21-a-few-learnings-from-a-simple-shiny-app/)
+
 + [9 new books added to Big Book of R](https://oscarbaruffa.com/bbofr_2021-06-12/) - Every time I update Big Book of R I’m blown away by how much good stuff is out there! In this release there’s 9 new books which covers the widest range of topics of any release to date :).
-+ [A tutorial to get started with shinytableau – an R package that lets you create Tableau dashboard extensions using R and R Shiny.](https://appsilon.com/r-shiny-shinytableau/)
-+ [{jagstargets} 1.0.1](https://cran.r-project.org/package=jagstargets): Targets for JAGS Workflows
-+ [{recolorize} 0.1.0](https://cran.r-project.org/package=recolorize): Color-Based Image Segmentation
-+ [{fledge} 0.1.0](https://cran.r-project.org/package=fledge): Smoother Change Tracking and Versioning for R Packages
-+ [{imageseg} 0.4.0](https://cran.r-project.org/package=imageseg): Deep Learning Models for Image Segmentation
-+ [An Introduction to packager](https://cran.r-project.org/web/packages/packager/vignettes/An_Introduction_to_packager.html)
-+ [Pre-processing layers in keras: What they are and how to use them](https://blogs.rstudio.com/ai/posts/2021-12-09-keras-preprocessing-layers/)
-
-
-
 
 
 ### Insights
 
 + [Generating Pretty Instagram Quote Images in R](https://jmablog.com/post/generating-instagram-quote-images-in-r/)
 + 
-+ [A new function to plot convergence diagnostics from lme4::allFit()](https://pablobernabeu.github.io/2021/a-new-function-to-plot-convergence-diagnostics-from-lme4-allfit/)
+
 
 ### R in the Real World
 
@@ -50,7 +41,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ + [An Introduction to packager](https://cran.r-project.org/web/packages/packager/vignettes/An_Introduction_to_packager.html)
 
 + [9 new books added to Big Book of R](https://oscarbaruffa.com/bbofr_2021-06-12/) - Every time I update Big Book of R I’m blown away by how much good stuff is out there! In this release there’s 9 new books which covers the widest range of topics of any release to date :).
 
@@ -60,15 +51,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
-
-**BioC**
-
++ [{jagstargets} 1.0.1](https://cran.r-project.org/package=jagstargets): Targets for JAGS Workflows
++ [{recolorize} 0.1.0](https://cran.r-project.org/package=recolorize): Color-Based Image Segmentation
++ [{fledge} 0.1.0](https://cran.r-project.org/package=fledge): Smoother Change Tracking and Versioning for R Packages
++ [{imageseg} 0.4.0](https://cran.r-project.org/package=imageseg): Deep Learning Models for Image Segmentation
 
 
 **GitHub or Bitbucket**
 
-
++ [{MetBrewer} 0.1.0](https://github.com/BlakeRMills/MetBrewer/tree/main)
 
 ### Updated Packages
 
@@ -94,6 +85,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [6 simple Shiny things I have learned from creating a somewhat small app](https://albert-rapp.de/post/2021-11-21-a-few-learnings-from-a-simple-shiny-app/)
 
 + [A tutorial to get started with shinytableau – an R package that lets you create Tableau dashboard extensions using R and R Shiny.](https://appsilon.com/r-shiny-shinytableau/)
+
++ [Pre-processing layers in keras: What they are and how to use them](https://blogs.rstudio.com/ai/posts/2021-12-09-keras-preprocessing-layers/)
+
++ [A new function to plot convergence diagnostics from lme4::allFit()](https://pablobernabeu.github.io/2021/a-new-function-to-plot-convergence-diagnostics-from-lme4-allfit/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
