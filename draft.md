@@ -102,7 +102,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [useR! 2021 Interview with the Accessibility Mention winners](https://www.youtube.com/watch?v=LjB2baxu_6Y)
 
-+ [TidyX Episode 86 | Tidymodels - Julia Silge and Tune Racing](https://www.youtube.com/watch?v=yCAZwD3r8bw)
++ [Tidymodels in TidyX Episode 86 - Julia Silge and Tune Racing](https://www.youtube.com/watch?v=yCAZwD3r8bw)
 
 + [R Consortium All Member Meeting - 2021](https://www.youtube.com/watch?v=6-VkaKrf1nc)
 
@@ -110,9 +110,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R-Ladies Freiburg - Level up your ggplot: Adding labels, arrows and other annotations](https://www.youtube.com/watch?v=If3LgW69Tx4)
 
-+ [Exploratory Data Analysi by Priyanka Gagnejas | RStudio](https://www.youtube.com/watch?v=qvFeaPRgOns)
++ [Exploratory Data Analysi by Priyanka Gagnejas - RStudio](https://www.youtube.com/watch?v=qvFeaPRgOns)
 
-+ [Data Science Hangout | Merav Yuravlivker | Data Society](https://www.youtube.com/watch?v=edF_lhoKszU)
++ [Data Science Hangout - Merav Yuravlivker - Data Society](https://www.youtube.com/watch?v=edF_lhoKszU)
 
 + [Episode 25: Colin Fay is back! by Shiny Developer Series](https://www.youtube.com/watch?v=agwgiLpiBFo)
 
@@ -122,11 +122,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Max Kuhn - What's new and upcoming with tidymodels](https://www.youtube.com/watch?v=_CCpFuGjV0Y)
 
-+ [Using RStudio on Amazon SageMaker | RStudio](https://www.youtube.com/watch?v=fmgSVRWgXDg)
++ [Using RStudio on Amazon SageMaker - RStudio](https://www.youtube.com/watch?v=fmgSVRWgXDg)
 
 ### Internationally 
 
-+ [Daniela Garcia & Julieta Nieva | R en la Administración Pública & R Markdown | RStudio](https://www.youtube.com/watch?v=vIiQJY5V__E&t=8s)
++ [Daniela Garcia & Julieta Nieva - R en la Administración Pública & R Markdown - RStudio](https://www.youtube.com/watch?v=vIiQJY5V__E&t=8s)
 
 
 ###  Tutorials
