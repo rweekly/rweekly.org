@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Batool Almarzouq](), with help from the R Weekly team members and contributors.
 
 
 ###  Highlight
@@ -26,11 +26,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Top 21 #RStats tweets of 2021](https://oscarbaruffa.com/top21/)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As well as package stickers the RStudio swag store (<a href="https://t.co/JoQ3raQujN">https://t.co/JoQ3raQujN</a>) now includes a small supply of dplyr masks: <a href="https://t.co/9bCbbZyajr">https://t.co/9bCbbZyajr</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/nA5GHoIR8j">pic.twitter.com/nA5GHoIR8j</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1374713822980800515?ref_src=twsrc%5Etfw">March 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 + [Interactive Replication Projects? Yes, please!](https://www.getrevue.co/profile/harshbutjust/issues/interactive-replication-projects-yes-please-909157)
 
+<!--[visualization of dplyr codbase using bubbles](https://raw.githubusercontent.com/rweekly/image/master/2021-12-13/replictaion.png)-->
+
 + [The 34th post in the rambunctiously refreshing R recitations](http://dirk.eddelbuettel.com/blog/2021/12/08/#034_less_is_more)
+
+![Two circles that compare between minidown (which in turn requires rmarkdown and knitr, plus their aggregate dependencies) and simplermarkdown with its sole dependency. Inside each circle are the dependencies](https://raw.githubusercontent.com/rweekly/image/master/2021-12-13/less_is_more.png)
 
 + [Rules of thumb for the design of ecological experiments](http://www.seascapemodels.org/rstats/2021/12/07/experiment-rules-of-thumb.html)
 
@@ -59,9 +61,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [NHH ECS530 2021 course: Spatial data analysis (with R)](https://rsbivand.github.io/ECS530_h21/index.html)
 
-+ [9 new books added to Big Book of R](https://oscarbaruffa.com/bbofr_2021-06-12/) - In this release there’s 9 new books which covers the widest range of topics of any release to date.
+![This is shows the dependencies for packages used in GIS. Tracking the development mailing lists of the external software communities, can be sometimes overwhelming and code tidying in external software can have unexpected consequences, breaking not sf or sp with rgdal or rgeos, but a package further downstream](https://raw.githubusercontent.com/rweekly/image/master/2021-12-13/pacakge_development.png)
 
-+ [GWAS Catalog access with gwasrapidd](https://raw.githubusercontent.com/rstudio/cheatsheets/main/gwasrapidd.pdf)
++ [9 new books added to Big Book of R](https://oscarbaruffa.com/bbofr_2021-06-12/) - In this release there’s 9 new books which covers the widest range of topics of any release to date.
 
 ###  New Packages
 
@@ -82,6 +84,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **GitHub or Bitbucket**
 
 + [{MetBrewer} 0.1.0](https://github.com/BlakeRMills/MetBrewer/tree/main)
+
+![The Palettes inspired by works at the Metropolitan Museum of Art in New York, this image shows how the 1st Palette was derived from the Adoration of the Magi from Seven Scenes from the Life of Christ, 1390, Artists Unknown, Austrian](https://raw.githubusercontent.com/rweekly/image/master/2021-12-13/colours.png)
+
 
 ### Updated Packages
 
@@ -136,6 +141,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [A tutorial to get started with shinytableau – an R package that lets you create Tableau dashboard extensions using R and R Shiny.](https://appsilon.com/r-shiny-shinytableau/)
 
 + [How to Make R Markdown Snow](https://emilyriederer.netlify.app/post/snow/)
+
+![A gif for R markdown files with snow falling](https://raw.githubusercontent.com/rweekly/image/master/2021-12-13/snow.gif)
 
 + [Pre-processing layers in keras: What they are and how to use them](https://blogs.rstudio.com/ai/posts/2021-12-09-keras-preprocessing-layers/)
 
