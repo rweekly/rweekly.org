@@ -54,6 +54,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
+**CRAN**
+
++ [parallelly 1.30.0](https://parallelly.futureverse.org/) - Enhancing the 'parallel' Package
+
 
 
 ###  Videos and Podcasts
