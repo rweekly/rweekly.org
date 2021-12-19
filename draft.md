@@ -58,6 +58,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [parallelly 1.30.0](https://parallelly.futureverse.org/) - Enhancing the 'parallel' Package
 
++ [progressr 0.10.0](https://progressr.futureverse.org/) - An Inclusive, Unifying API for Progress Updates
+
 
 
 ###  Videos and Podcasts
