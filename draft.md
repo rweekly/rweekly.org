@@ -71,7 +71,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Shiny Apps
-
++ [Visualizing letter frequencies on different keyboard layouts](https://rappa.shinyapps.io/Keyboard-App/)
 
 
 ### R Internationally
