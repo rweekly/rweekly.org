@@ -79,7 +79,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Tutorials
-
+[Making the {survey} package hundreds of times faster using {Rcpp}](https://www.practicalsignificance.com/posts/making-the-survey-package-run-100x-faster/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
