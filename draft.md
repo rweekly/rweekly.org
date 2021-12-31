@@ -80,6 +80,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [A couple of visualizations from ggforce](https://albert-rapp.de/post/2021-12-31-ggforce-examples/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
