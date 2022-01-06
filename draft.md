@@ -82,6 +82,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [A couple of visualizations from ggforce](https://albert-rapp.de/post/2021-12-31-ggforce-examples/)
 
++ [Setting up PostgreSQL and PostGIS to Run Spatial Queries in R](https://oliverstringham.com/blog/data-science-tutorials/setting-up-postgres-postgis-to-run-spatial-queries-in-r-tutorial/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
