@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+* [Future Improvements During 2021](https://www.jottr.org/2022/01/07/future-during-2021/)
 
 
 ### R in the Real World
