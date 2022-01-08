@@ -22,7 +22,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
++ [The most popular Animal Crossing villagers](https://www.rostrum.blog/2022/01/07/acnh-swipe-results/)
 
++ [Starting 2022 Off With A Fairly Complex {ggplot2} Recreation Plot](https://rud.is/b/2022/01/04/starting-2022-off-with-a-fairly-complex-ggplot2-recreation-plot/)
+
++ [J.League Soccer 2021 Season Review!](https://ryo-n7.github.io/2021-12-20-jleague-2021-endseason-review/)
+
++ [rockr: Twitter best album polls](https://github.com/MarkLaVenia/rockr)
+
++ [Your workout route (in three dimensions!)](https://www.rostrum.blog/2021/12/30/gpx3d/)
 
 ###  R in Organizations
 
@@ -50,7 +58,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{ggsvg} 0.1.2](https://github.com/coolbutuseless/ggsvg)
 
 ### Updated Packages
 
@@ -71,8 +79,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Shiny Apps
+
 + [Visualizing letter frequencies on different keyboard layouts](https://rappa.shinyapps.io/Keyboard-App/)
 
++ [Your Most Loved Tweet From 2021 (Or your last 5000 tweets)](https://nate884.shinyapps.io/Twitter2021/)
 
 ### R Internationally
 
@@ -86,6 +96,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Setting up PostgreSQL and PostGIS to Run Spatial Queries in R](https://oliverstringham.com/blog/data-science-tutorials/setting-up-postgres-postgis-to-run-spatial-queries-in-r-tutorial/)
 
++ [A package of Machine Learning datasets has arrived for R – MLDataR](https://hutsons-hacks.info/a-package-of-machine-learning-datasets-has-arrived-for-r-mldatar)
+
++ [Introducing {wordle} - a package for helping solve Wordle puzzles](https://coolbutuseless.github.io/2021/12/31/introducing-wordle-a-package-for-helping-solve-wordle-puzzles/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
