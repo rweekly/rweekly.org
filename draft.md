@@ -22,6 +22,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Using databases with Shiny](https://www.emilyriederer.com/post/shiny-db/)
 
++ [useR! information dashboard](https://www.cynkra.com/blog/2022-01-05-gsod-user-infoboard/)
+
 ### R in the Real World
 
 + [The most popular Animal Crossing villagers](https://www.rostrum.blog/2022/01/07/acnh-swipe-results/)
