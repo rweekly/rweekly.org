@@ -18,7 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [News from knitr v1.35 to v1.37: Alternative Syntax for Chunk Options, and Some New Engines](https://yihui.org/en/2022/01/knitr-news/)
 
++ [Using databases with Shiny](https://www.emilyriederer.com/post/shiny-db/)
 
 ### R in the Real World
 
