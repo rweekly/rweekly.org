@@ -132,3 +132,12 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What&#39;s the most useful function you&#39;ve ever created in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>?</p>&mdash; David Keyes (@dgkeyes) <a href="https://twitter.com/dgkeyes/status/1475891826628259842?ref_src=twsrc%5Etfw">December 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you have a slide deck on writing functions the tidyverse style (ie passing arguments to dplyr functions that accept bare inputs and writing functions that accept bare inputs) you&#39;re willing to share? <a href="https://twitter.com/jessicalavs?ref_src=twsrc%5Etfw">@jessicalavs</a> and I are presenting on the topic soon 🕺<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a></p>&mdash; Daniel Sjoberg (@statistishdan) <a href="https://twitter.com/statistishdan/status/1478176866422906881?ref_src=twsrc%5Etfw">January 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Who has made a good non-Shiny website with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> to communicate results? I know there are a ton of good personal websites made with R, but I&#39;m looking for ones that communicate results of a study etc.</p>&mdash; David Keyes (@dgkeyes) <a href="https://twitter.com/dgkeyes/status/1475558591079747588?ref_src=twsrc%5Etfw">December 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+
