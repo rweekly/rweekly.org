@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Age-Period-Cohort Analysis with APCtools](https://bauer-alex.github.io/APCtools/articles/main_functionality.html)
+
 + [News from knitr v1.35 to v1.37: Alternative Syntax for Chunk Options, and Some New Engines](https://yihui.org/en/2022/01/knitr-news/)
 
 + [Using databases with Shiny](https://www.emilyriederer.com/post/shiny-db/)
@@ -52,6 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [APCtools 1.0.1](https://github.com/bauer-alex/APCtools)
 
 
 **BioC**
