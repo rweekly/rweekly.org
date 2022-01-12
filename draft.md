@@ -22,6 +22,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Using databases with Shiny](https://www.emilyriederer.com/post/shiny-db/)
 
++ [ggplot-tips: Learning by Thieving](https://albert-rapp.de/post/2022-01-10-learning-by-thieving/)
+
+
 ### R in the Real World
 
 + [The most popular Animal Crossing villagers](https://www.rostrum.blog/2022/01/07/acnh-swipe-results/)
@@ -44,7 +47,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [Showcasing the janitor package.](https://albert-rapp.de/post/2022-01-12-janitor-showcase/)
 
 ###  New Packages
 
