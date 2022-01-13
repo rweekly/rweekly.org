@@ -40,7 +40,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
++ [terrainr: An R package for creating immersive virtual environments](https://joss.theoj.org/papers/10.21105/joss.04060)
 
 ###  Resources
 
