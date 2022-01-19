@@ -83,6 +83,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Shiny Apps
 
 + [Visualizing letter frequencies on different keyboard layouts](https://rappa.shinyapps.io/Keyboard-App/)
++ [Colorize a ggplot Voronoi interactively](https://rappa.shinyapps.io/interactive-ggplot/)
 
 + [Your Most Loved Tweet From 2021 (Or your last 5000 tweets)](https://nate884.shinyapps.io/Twitter2021/)
 
