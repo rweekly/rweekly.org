@@ -18,6 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+
++ [Future Improvements During 2021](https://www.jottr.org/2022/01/07/future-during-2021/)
+
 + [Age-Period-Cohort Analysis with APCtools](https://bauer-alex.github.io/APCtools/articles/main_functionality.html)
 
 + [News from knitr v1.35 to v1.37: Alternative Syntax for Chunk Options, and Some New Engines](https://yihui.org/en/2022/01/knitr-news/)
