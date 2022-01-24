@@ -103,6 +103,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Introducing {wordle} - a package for helping solve Wordle puzzles](https://coolbutuseless.github.io/2021/12/31/introducing-wordle-a-package-for-helping-solve-wordle-puzzles/)
 
++ [Automatic differentiation in R with Stan Math](https://www.jchau.org/2022/01/24/automatic-differentiation-in-r-with-stan-math/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
