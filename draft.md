@@ -116,6 +116,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Update from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+
+ - The R Contribution Site has moved to https://contributor.r-project.org/.
+ - Our Twitter account is now active: https://twitter.com/R_Contributors.
+ - Our repos are now part of the [R-Devel GitHub organization](https://github.com/r-devel), bringing together community resources related to the development of R. 
+ - We are planning a series of [Collaboration Campfires](https://us02web.zoom.us/meeting/register/tZ0qf-uqqjovE9RqD6hvjAIigS9nQb69WGRf) for newcomers to learn more about contributing to R and to work collaboratively on activities.
+
+Vist the [RCWG repo](https://github.com/r-devel/rcontribution) to find the minutes for further details on these and other topics we discussed, and see the repo README for information on how to get involved. Our next meeting will be Friday, February 18, 2022, 15:00-16:00 UTC.
 
 ###  Upcoming Events in 3 Months
 
