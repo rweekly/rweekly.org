@@ -18,12 +18,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Age-Period-Cohort Analysis with APCtools](https://bauer-alex.github.io/APCtools/articles/main_functionality.html)
+
 + [News from knitr v1.35 to v1.37: Alternative Syntax for Chunk Options, and Some New Engines](https://yihui.org/en/2022/01/knitr-news/)
 
 + [Using databases with Shiny](https://www.emilyriederer.com/post/shiny-db/)
 
 + [ggplot-tips: Learning by Thieving](https://albert-rapp.de/post/2022-01-10-learning-by-thieving/)
 
++ [useR! information dashboard](https://www.cynkra.com/blog/2022-01-05-gsod-user-infoboard/)
 
 ### R in the Real World
 
@@ -43,7 +46,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
++ [terrainr: An R package for creating immersive virtual environments](https://joss.theoj.org/papers/10.21105/joss.04060)
 
 ###  Resources
 
@@ -55,6 +58,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [APCtools 1.0.1](https://github.com/bauer-alex/APCtools)
 
 
 **BioC**
@@ -86,6 +90,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Shiny Apps
 
 + [Visualizing letter frequencies on different keyboard layouts](https://rappa.shinyapps.io/Keyboard-App/)
++ [Colorize a ggplot Voronoi interactively](https://rappa.shinyapps.io/interactive-ggplot/)
 
 + [Your Most Loved Tweet From 2021 (Or your last 5000 tweets)](https://nate884.shinyapps.io/Twitter2021/)
 
@@ -105,12 +110,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Introducing {wordle} - a package for helping solve Wordle puzzles](https://coolbutuseless.github.io/2021/12/31/introducing-wordle-a-package-for-helping-solve-wordle-puzzles/)
 
++ [Automatic differentiation in R with Stan Math](https://www.jchau.org/2022/01/24/automatic-differentiation-in-r-with-stan-math/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Update from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+
+ - The R Contribution Site has moved to https://contributor.r-project.org/.
+ - Our Twitter account is now active: https://twitter.com/R_Contributors.
+ - Our repos are now part of the [R-Devel GitHub organization](https://github.com/r-devel), bringing together community resources related to the development of R. 
+ - We are planning a series of [Collaboration Campfires](https://us02web.zoom.us/meeting/register/tZ0qf-uqqjovE9RqD6hvjAIigS9nQb69WGRf) for newcomers to learn more about contributing to R and to work collaboratively on activities.
+
+Vist the [RCWG repo](https://github.com/r-devel/rcontribution) to find the minutes for further details on these and other topics we discussed, and see the repo README for information on how to get involved. Our next meeting will be Friday, February 18, 2022, 15:00-16:00 UTC.
 
 ###  Upcoming Events in 3 Months
 
