@@ -24,6 +24,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Using databases with Shiny](https://www.emilyriederer.com/post/shiny-db/)
 
++ [ggplot-tips: Learning by Thieving](https://albert-rapp.de/post/2022-01-10-learning-by-thieving/)
+
 + [useR! information dashboard](https://www.cynkra.com/blog/2022-01-05-gsod-user-infoboard/)
 
 ### R in the Real World
@@ -48,7 +50,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [Showcasing the janitor package.](https://albert-rapp.de/post/2022-01-12-janitor-showcase/)
 
 ###  New Packages
 
