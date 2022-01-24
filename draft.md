@@ -18,12 +18,30 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-* [Future Improvements During 2021](https://www.jottr.org/2022/01/07/future-during-2021/)
 
++ [Future Improvements During 2021](https://www.jottr.org/2022/01/07/future-during-2021/)
+
++ [Age-Period-Cohort Analysis with APCtools](https://bauer-alex.github.io/APCtools/articles/main_functionality.html)
+
++ [News from knitr v1.35 to v1.37: Alternative Syntax for Chunk Options, and Some New Engines](https://yihui.org/en/2022/01/knitr-news/)
+
++ [Using databases with Shiny](https://www.emilyriederer.com/post/shiny-db/)
+
++ [ggplot-tips: Learning by Thieving](https://albert-rapp.de/post/2022-01-10-learning-by-thieving/)
+
++ [useR! information dashboard](https://www.cynkra.com/blog/2022-01-05-gsod-user-infoboard/)
 
 ### R in the Real World
 
++ [The most popular Animal Crossing villagers](https://www.rostrum.blog/2022/01/07/acnh-swipe-results/)
 
++ [Starting 2022 Off With A Fairly Complex {ggplot2} Recreation Plot](https://rud.is/b/2022/01/04/starting-2022-off-with-a-fairly-complex-ggplot2-recreation-plot/)
+
++ [J.League Soccer 2021 Season Review!](https://ryo-n7.github.io/2021-12-20-jleague-2021-endseason-review/)
+
++ [rockr: Twitter best album polls](https://github.com/MarkLaVenia/rockr)
+
++ [Your workout route (in three dimensions!)](https://www.rostrum.blog/2021/12/30/gpx3d/)
 
 ###  R in Organizations
 
@@ -31,11 +49,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
++ [terrainr: An R package for creating immersive virtual environments](https://joss.theoj.org/papers/10.21105/joss.04060)
 
 ###  Resources
 
-
++ [Showcasing the janitor package.](https://albert-rapp.de/post/2022-01-12-janitor-showcase/)
 
 ###  New Packages
 
@@ -43,6 +61,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [APCtools 1.0.1](https://github.com/bauer-alex/APCtools)
 
 
 **BioC**
@@ -51,7 +70,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{ggsvg} 0.1.2](https://github.com/coolbutuseless/ggsvg)
 
 ### Updated Packages
 
@@ -72,8 +91,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Shiny Apps
-+ [Visualizing letter frequencies on different keyboard layouts](https://rappa.shinyapps.io/Keyboard-App/)
 
++ [Visualizing letter frequencies on different keyboard layouts](https://rappa.shinyapps.io/Keyboard-App/)
++ [Colorize a ggplot Voronoi interactively](https://rappa.shinyapps.io/interactive-ggplot/)
+
++ [Your Most Loved Tweet From 2021 (Or your last 5000 tweets)](https://nate884.shinyapps.io/Twitter2021/)
 
 ### R Internationally
 
@@ -87,6 +109,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Setting up PostgreSQL and PostGIS to Run Spatial Queries in R](https://oliverstringham.com/blog/data-science-tutorials/setting-up-postgres-postgis-to-run-spatial-queries-in-r-tutorial/)
 
++ [A package of Machine Learning datasets has arrived for R – MLDataR](https://hutsons-hacks.info/a-package-of-machine-learning-datasets-has-arrived-for-r-mldatar)
+
++ [Introducing {wordle} - a package for helping solve Wordle puzzles](https://coolbutuseless.github.io/2021/12/31/introducing-wordle-a-package-for-helping-solve-wordle-puzzles/)
+
++ [Automatic differentiation in R with Stan Math](https://www.jchau.org/2022/01/24/automatic-differentiation-in-r-with-stan-math/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -94,6 +121,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Update from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+
+ - The R Contribution Site has moved to https://contributor.r-project.org/.
+ - Our Twitter account is now active: https://twitter.com/R_Contributors.
+ - Our repos are now part of the [R-Devel GitHub organization](https://github.com/r-devel), bringing together community resources related to the development of R. 
+ - We are planning a series of [Collaboration Campfires](https://us02web.zoom.us/meeting/register/tZ0qf-uqqjovE9RqD6hvjAIigS9nQb69WGRf) for newcomers to learn more about contributing to R and to work collaboratively on activities.
+
+Vist the [RCWG repo](https://github.com/r-devel/rcontribution) to find the minutes for further details on these and other topics we discussed, and see the repo README for information on how to get involved. Our next meeting will be Friday, February 18, 2022, 15:00-16:00 UTC.
 
 ###  Upcoming Events in 3 Months
 
@@ -118,3 +153,12 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What&#39;s the most useful function you&#39;ve ever created in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>?</p>&mdash; David Keyes (@dgkeyes) <a href="https://twitter.com/dgkeyes/status/1475891826628259842?ref_src=twsrc%5Etfw">December 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you have a slide deck on writing functions the tidyverse style (ie passing arguments to dplyr functions that accept bare inputs and writing functions that accept bare inputs) you&#39;re willing to share? <a href="https://twitter.com/jessicalavs?ref_src=twsrc%5Etfw">@jessicalavs</a> and I are presenting on the topic soon 🕺<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a></p>&mdash; Daniel Sjoberg (@statistishdan) <a href="https://twitter.com/statistishdan/status/1478176866422906881?ref_src=twsrc%5Etfw">January 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Who has made a good non-Shiny website with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> to communicate results? I know there are a ton of good personal websites made with R, but I&#39;m looking for ones that communicate results of a study etc.</p>&mdash; David Keyes (@dgkeyes) <a href="https://twitter.com/dgkeyes/status/1475558591079747588?ref_src=twsrc%5Etfw">December 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+
