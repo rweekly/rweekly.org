@@ -72,6 +72,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{ggsvg} 0.1.2](https://github.com/coolbutuseless/ggsvg)
 
++ [{unifir} 0.1.0](https://github.com/mikemahoney218/unifir/): A Unifying API for Working with Unity in R
+
 ### Updated Packages
 
 **CRAN**
