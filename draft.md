@@ -63,6 +63,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [APCtools 1.0.1](https://github.com/bauer-alex/APCtools)
 
++ [rasterpic](https://dieghernan.github.io/rasterpic/): Create Spatial Rasters from Plain Images.
 
 **BioC**
 
