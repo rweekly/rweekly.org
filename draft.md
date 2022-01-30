@@ -63,6 +63,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{nanonext} 0.1.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen), a successor to ZeroMQ
 
++ [APCtools 1.0.1](https://github.com/bauer-alex/APCtools)
+
++ [rasterpic](https://dieghernan.github.io/rasterpic/): Create Spatial Rasters from Plain Images.
+
+
 **BioC**
 
 
