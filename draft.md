@@ -152,7 +152,7 @@ Events in 3 Months:
 
 ### Jobs
 
-
++ [rOpenSci hiring a new Community Manager](https://ropensci.org/careers/community-manager-2022/)
 
 
 ###  Call for Participation
