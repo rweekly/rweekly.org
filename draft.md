@@ -18,7 +18,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
 + [Future Improvements During 2021](https://www.jottr.org/2022/01/07/future-during-2021/)
 
 + [Age-Period-Cohort Analysis with APCtools](https://bauer-alex.github.io/APCtools/articles/main_functionality.html)
@@ -31,6 +30,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [useR! information dashboard](https://www.cynkra.com/blog/2022-01-05-gsod-user-infoboard/)
 
++ [Murcia R Users Group (UMUR) in Spain Didn’t Let the Pandemic Break its Momentum](https://www.r-consortium.org/blog/2022/01/31/murcia-r-users-group-umur-in-spain-didnt-let-the-pandemic-break-its-momentum)
+
++ [Are anime titles getting longer?](https://emitanaka.org/posts/2022-01-16-anime-titles/)
+
 ### R in the Real World
 
 + [The most popular Animal Crossing villagers](https://www.rostrum.blog/2022/01/07/acnh-swipe-results/)
@@ -42,6 +45,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [rockr: Twitter best album polls](https://github.com/MarkLaVenia/rockr)
 
 + [Your workout route (in three dimensions!)](https://www.rostrum.blog/2021/12/30/gpx3d/)
+
++ [Inverness street maps](https://www.johnmackintosh.net/blog/2022-02-03-inverness-streetmap/)
 
 ###  R in Organizations
 
@@ -66,6 +71,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [APCtools 1.0.1](https://github.com/bauer-alex/APCtools)
 
 + [rasterpic](https://dieghernan.github.io/rasterpic/): Create Spatial Rasters from Plain Images.
+
++ [{itscalledsoccer} 0.1.0](https://www.americansocceranalysis.com/home/2022/2/9/introducing-itscalledsoccer): American Soccer Analysis API Client.
 
 
 **BioC**
@@ -92,7 +99,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [Making Beautiful Tables with {gt}](https://www.youtube.com/watch?v=z0UGmMOxl-c)
 
 ### Gist & Cookbook
 
@@ -122,6 +129,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Introducing {wordle} - a package for helping solve Wordle puzzles](https://coolbutuseless.github.io/2021/12/31/introducing-wordle-a-package-for-helping-solve-wordle-puzzles/)
 
 + [Automatic differentiation in R with Stan Math](https://www.jchau.org/2022/01/24/automatic-differentiation-in-r-with-stan-math/)
+
++ [How to create PowerPoint slides from R](https://www.infoworld.com/article/3648458/how-to-create-powerpoint-slides-from-r.html)
+
++ [Impress with {keypress}](https://www.rostrum.blog/2022/01/19/keypress/)
+
++ [Understanding the native R pipe |>](https://ivelasq.rbind.io/blog/understanding-the-r-pipe/)
+
++ [Identifying R Functions & Packages Used in GitHub Repos](https://www.bryanshalloway.com/2022/01/18/identifying-r-functions-packages-used-in-github-repos/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
