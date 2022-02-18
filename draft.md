@@ -66,7 +66,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [{nanonext} 0.1.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen), a successor to ZeroMQ
++ [{mirai} 0.1.0](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R
+
++ [{nanonext} 0.2.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen), a successor to ZeroMQ
 
 + [APCtools 1.0.1](https://github.com/bauer-alex/APCtools)
 
