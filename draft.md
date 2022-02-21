@@ -66,7 +66,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [{nanonext} 0.1.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen), a successor to ZeroMQ
++ [{mirai} 0.1.0](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R
+
++ [{nanonext} 0.2.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen), a successor to ZeroMQ
 
 + [APCtools 1.0.1](https://github.com/bauer-alex/APCtools)
 
@@ -95,7 +97,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [progressr 0.10.0](https://progressr.futureverse.org/) - An Inclusive, Unifying API for Progress Updates
 
-
++ [{ichimoku} 1.3.0](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
 
 ###  Videos and Podcasts
 
