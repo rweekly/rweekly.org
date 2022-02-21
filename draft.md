@@ -97,7 +97,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [progressr 0.10.0](https://progressr.futureverse.org/) - An Inclusive, Unifying API for Progress Updates
 
-
++ [{ichimoku} 1.3.0](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
 
 ###  Videos and Podcasts
 
