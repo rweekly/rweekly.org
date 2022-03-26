@@ -34,6 +34,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Are anime titles getting longer?](https://emitanaka.org/posts/2022-01-16-anime-titles/)
 
++ [Frustration-One-Year-With-R: An extremely long review of R.](https://github.com/ReeceGoding/Frustration-One-Year-With-R)
+
++ [RMarkdown is great](https://benharrap.com/post/2022-02-10-rmarkdown-is-great/)
+
++ [Murcia R Users Group (UMUR) in Spain Didn’t Let the Pandemic Break its Momentum](https://www.r-consortium.org/blog/2022/01/31/murcia-r-users-group-umur-in-spain-didnt-let-the-pandemic-break-its-momentum)
+
++ [Understanding text size and resolution in ggplot2](https://www.christophenicault.com/post/understand_size_dimension_ggplot2/)
+
 ### R in the Real World
 
 + [The most popular Animal Crossing villagers](https://www.rostrum.blog/2022/01/07/acnh-swipe-results/)
@@ -59,6 +67,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Resources
 
 + [Showcasing the janitor package.](https://albert-rapp.de/post/2022-01-12-janitor-showcase/)
+
++ [A simple R script for extracting tabular data from Oryx' excellent post detailing materiel lost by all sides in the [Russian invasion of Ukraine](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html).](https://github.com/scarnecchia/scrape_oryx)
 
 ###  New Packages
 
@@ -101,6 +111,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Making Beautiful Tables with {gt}](https://www.youtube.com/watch?v=z0UGmMOxl-c)
 
++ [File naming and folder structure - R project management series (Part II)](https://www.youtube.com/watch?v=a7lPGT2E7_E)
+
 ### Gist & Cookbook
 
 
@@ -114,7 +126,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
-
++ [zipangu v0.3.0をCRANにリリースしました](https://uribo.hatenablog.com/entry/2022/03/14/122203)
 
 ###  Tutorials
 
@@ -135,6 +147,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Impress with {keypress}](https://www.rostrum.blog/2022/01/19/keypress/)
 
 + [Understanding the native R pipe |>](https://ivelasq.rbind.io/blog/understanding-the-r-pipe/)
+
++ [Identifying R Functions & Packages Used in GitHub Repos](https://www.bryanshalloway.com/2022/01/18/identifying-r-functions-packages-used-in-github-repos/)
+
++ [R Package Install Troubleshooting](https://www.littlemissdata.com/blog/r-package-install)
+
++ [Capture errors, warnings and messages](https://www.brodrigues.co/blog/2022-03-12-purely/)
+
++ [Impress with {keypress}](https://www.rostrum.blog/2022/01/19/keypress/)
+
++ [Solving the 'preserving the sum after rounding' problem for a soccer waffle viz](https://ryo-n7.github.io/2022-01-14-preserve-sum-rounding-soccer-viz/)
+
++ [{tvthemes 1.3.0} is on CRAN: 'Steven Universe'-themed color palettes for ggplot2!](https://ryo-n7.github.io/2022-03-17-tvthemes-1.3.0-announcement/)
+
++ [pkgcheck now available as a GitHub action!](https://ropensci.org/blog/2022/02/01/pkgcheck-action/)
+
++ [Tips for building a Twitter bot with R and Github Actions](https://oscarbaruffa.com/twitterbot/)
 
 + [Identifying R Functions & Packages Used in GitHub Repos](https://www.bryanshalloway.com/2022/01/18/identifying-r-functions-packages-used-in-github-repos/)
 
