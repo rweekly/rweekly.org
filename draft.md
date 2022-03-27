@@ -129,7 +129,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-+ [Using R and Python in Google Sheets Formulas](https://towardsdatascience.com/using-r-and-python-in-google-sheets-formulas-b397b302098)
 
 + [Making the {survey} package hundreds of times faster using {Rcpp}](https://www.practicalsignificance.com/posts/making-the-survey-package-run-100x-faster/)
 
