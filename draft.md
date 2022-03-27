@@ -56,11 +56,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Inverness street maps](https://www.johnmackintosh.net/blog/2022-02-03-inverness-streetmap/)
 
-###  R in Organizations
-
-
 
 ###  R in Academia
+
++ [An anthology of experimental designs by Emi Tanaka](https://emitanaka.org/slides/toronto2022/#/title-slide)
 
 + [terrainr: An R package for creating immersive virtual environments](https://joss.theoj.org/papers/10.21105/joss.04060)
 
@@ -130,11 +129,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Using R and Python in Google Sheets Formulas](https://towardsdatascience.com/using-r-and-python-in-google-sheets-formulas-b397b302098)
+
 + [Making the {survey} package hundreds of times faster using {Rcpp}](https://www.practicalsignificance.com/posts/making-the-survey-package-run-100x-faster/)
 
 + [A couple of visualizations from ggforce](https://albert-rapp.de/post/2021-12-31-ggforce-examples/)
 
-+ [Setting up PostgreSQL and PostGIS to Run Spatial Queries in R](https://oliverstringham.com/blog/data-science-tutorials/setting-up-postgres-postgis-to-run-spatial-queries-in-r-tutorial/)
++ [Report Ready PDF tables with rmarkdown, knitr, kableExtra, and LaTeX](https://www.pipinghotdata.com/posts/2022-01-24-report-ready-pdf-tables-with-rmarkdown-knitr-kableextra-and-latex/)
 
 + [A package of Machine Learning datasets has arrived for R – MLDataR](https://hutsons-hacks.info/a-package-of-machine-learning-datasets-has-arrived-for-r-mldatar)
 
@@ -191,12 +192,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 
-### Datasets
-
-### Jobs
-
-
-
 
 ###  Call for Participation
 
@@ -205,11 +200,11 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What&#39;s the most useful function you&#39;ve ever created in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>?</p>&mdash; David Keyes (@dgkeyes) <a href="https://twitter.com/dgkeyes/status/1475891826628259842?ref_src=twsrc%5Etfw">December 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a>: Copy data from Excel and paste it into R as a dataframe or tibble using datapasta:<br><br>install.packages(&quot;datapasta&quot;) -&gt; set a useful keyboard paste shortcut<a href="https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw">#phdchat</a> <a href="https://t.co/jS7kwndF1q">pic.twitter.com/jS7kwndF1q</a></p>&mdash; Dr. Guy Prochilo 🏳️‍🌈 (@GuyProchilo) <a href="https://twitter.com/GuyProchilo/status/1506404403955310594?ref_src=twsrc%5Etfw">March 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How it feels every time my advisor tells an undergrad to come to me for help making figures in R because I&#39;m the &quot;best in the lab&quot; <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://t.co/iOoYjFstN8">pic.twitter.com/iOoYjFstN8</a></p>&mdash; Katie O&#39;Reilly (@DrKatfish) <a href="https://twitter.com/DrKatfish/status/1506049720040448002?ref_src=twsrc%5Etfw">March 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you have a slide deck on writing functions the tidyverse style (ie passing arguments to dplyr functions that accept bare inputs and writing functions that accept bare inputs) you&#39;re willing to share? <a href="https://twitter.com/jessicalavs?ref_src=twsrc%5Etfw">@jessicalavs</a> and I are presenting on the topic soon 🕺<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a></p>&mdash; Daniel Sjoberg (@statistishdan) <a href="https://twitter.com/statistishdan/status/1478176866422906881?ref_src=twsrc%5Etfw">January 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Who has made a good non-Shiny website with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> to communicate results? I know there are a ton of good personal websites made with R, but I&#39;m looking for ones that communicate results of a study etc.</p>&mdash; David Keyes (@dgkeyes) <a href="https://twitter.com/dgkeyes/status/1475558591079747588?ref_src=twsrc%5Etfw">December 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 
