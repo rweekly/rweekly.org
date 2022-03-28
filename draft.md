@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2021-W00
+title: R Weekly 2022-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -22,6 +22,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
++ [Scraping Used Boats: How to find the perfect sailing yacht](https://lukas-r.blog/posts/2022-01-10-scraping-used-boats/)
+
+
 
 
 ###  R in Organizations
@@ -30,6 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
++ [API's and parameterized reports: How to access the SimFin API for financial reporting](https://lukas-r.blog/posts/2021-12-15-apis-and-parameterized-reports/)
 
 
 ###  Resources
@@ -41,7 +45,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
-
 
 
 **BioC**
