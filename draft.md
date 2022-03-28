@@ -18,9 +18,9 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 ###  Highlight
 
-+ [Understanding the native R pipe |>](https://ivelasq.rbind.io/blog/understanding-the-r-pipe/)
++ [Understanding the native R pipe `|>`](https://ivelasq.rbind.io/blog/understanding-the-r-pipe/)
 
-+ [pkgcheck now available as a GitHub action!](https://ropensci.org/blog/2022/02/01/pkgcheck-action/))
++ [pkgcheck now available as a GitHub action!](https://ropensci.org/blog/2022/02/01/pkgcheck-action/)
 
 ### Insights
 
