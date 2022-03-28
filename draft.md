@@ -8,15 +8,19 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Ryo]() and [Batool](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Ryo](https://github.com/Ryo-N7) and [Batool](https://github.com/BatoolMM), with help from the R Weekly team members and contributors.
 
 ###  Announcement
 
-We are resuming RWeekly after three months of hiatus due to the problems we have with our infrastructure. For that reason, we apologise as we can't accept posts by RSS feed anymore. We can only accept submission through PR in our GitHub repository or using @rweekly_submit in Twitter. If you have a problem submitting any content, please don't hesitate to reach out directly to one of our team members. Thank you for being so patient! 
+We are resuming **RWeekly after three months of hiatus** :tada: due to the problems we are experiencing with our infrastructure. For that reason, we apologise as we can't accept posts by RSS feed anymore. We can only accept submission through PR in our GitHub repository or using @rweekly_submit in Twitter. 
+
+If you have a problem submitting any content, please don't hesitate to reach out directly to one of our team members. Thank you for being so patient! 
 
 ###  Highlight
 
++ [Understanding the native R pipe |>](https://ivelasq.rbind.io/blog/understanding-the-r-pipe/)
 
++ [pkgcheck now available as a GitHub action!](https://ropensci.org/blog/2022/02/01/pkgcheck-action/))
 
 ### Insights
 
