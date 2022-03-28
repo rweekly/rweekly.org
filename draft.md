@@ -38,6 +38,8 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [useR! information dashboard](https://www.cynkra.com/blog/2022-01-05-gsod-user-infoboard/)
 
+![A screenshot with useR! information dashboard which shows the globe in the main page](https://github.com/rweekly/image/blob/master/29-3-2022/user_info_board.png)
+
 + [Are anime titles getting longer?](https://emitanaka.org/posts/2022-01-16-anime-titles/)
 
 + [Frustration-One-Year-With-R: An extremely long review of R.](https://github.com/ReeceGoding/Frustration-One-Year-With-R)
@@ -50,6 +52,8 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [Understanding text size and resolution in ggplot2](https://www.christophenicault.com/post/understand_size_dimension_ggplot2/)
 
+![A complex image for the world map showing the big mac index for 10 countries with crowded text. The lesson tries to show is ggforce can be used to increase resolution of the text and make it less crowded](https://github.com/rweekly/image/blob/master/29-3-2022/text-size-resolution.png)
+
 + [Checking the inputs of your R functions](https://blog.r-hub.io/2022/03/10/input-checking/)
 
 + [Coding style, coding etiquette](https://blog.r-hub.io/2022/03/21/code-style/)
@@ -59,6 +63,8 @@ If you have a problem submitting any content, please don't hesitate to reach out
 + [Safeguards and Backups for GitHub Organizations](https://ropensci.org/blog/2022/03/22/safeguards-and-backups-for-github-organizations/)
 
 + [Searching and browsing the R universe](https://ropensci.org/blog/2022/03/23/runiverse-search/)
+
+![A screenshot for the landing page showing the new tab for R Universe](https://github.com/rweekly/image/blob/master/29-3-2022/runiverse_serach.png)
 
 + [Challenges in Package Management](https://www.rstudio.com/blog/challenges-in-package-management/)
 
@@ -74,6 +80,8 @@ If you have a problem submitting any content, please don't hesitate to reach out
 ![A plot showing COVID-19 death after and before universal adult vaccine eligibility in white, hispanic, black and asian.](https://github.com/rweekly/image/blob/master/29-3-2022/rud.png)
 
 + [J.League Soccer 2021 Season Review!](https://ryo-n7.github.io/2021-12-20-jleague-2021-endseason-review/)
+
+![A plot showing Vissel Kobe players according to their age and the percentage of minutes played in the sesson.](https://github.com/rweekly/image/blob/master/29-3-2022/ryo-league.png)
 
 + [rockr: Twitter best album polls](https://github.com/MarkLaVenia/rockr)
 
