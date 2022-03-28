@@ -44,6 +44,16 @@ We are resuming RWeekly after three months of hiatus due to the problems we have
 
 + [Understanding text size and resolution in ggplot2](https://www.christophenicault.com/post/understand_size_dimension_ggplot2/)
 
++ [Checking the inputs of your R functions](https://blog.r-hub.io/2022/03/10/input-checking/)
+
++ [Coding style, coding etiquette](https://blog.r-hub.io/2022/03/21/code-style/)
+
++ [A Journey to gghdr](https://ropensci.org/blog/2022/02/15/gghdr/)
+
++ [Safeguards and Backups for GitHub Organizations](https://ropensci.org/blog/2022/03/22/safeguards-and-backups-for-github-organizations/)
+
++ [Searching and browsing the R universe](https://ropensci.org/blog/2022/03/23/runiverse-search/)
+
 ### R in the Real World
 
 + [The most popular Animal Crossing villagers](https://www.rostrum.blog/2022/01/07/acnh-swipe-results/)
