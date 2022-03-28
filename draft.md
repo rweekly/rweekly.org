@@ -36,8 +36,6 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [useR! information dashboard](https://www.cynkra.com/blog/2022-01-05-gsod-user-infoboard/)
 
-+ [Murcia R Users Group (UMUR) in Spain Didn’t Let the Pandemic Break its Momentum](https://www.r-consortium.org/blog/2022/01/31/murcia-r-users-group-umur-in-spain-didnt-let-the-pandemic-break-its-momentum)
-
 + [Are anime titles getting longer?](https://emitanaka.org/posts/2022-01-16-anime-titles/)
 
 + [Frustration-One-Year-With-R: An extremely long review of R.](https://github.com/ReeceGoding/Frustration-One-Year-With-R)
@@ -45,6 +43,8 @@ If you have a problem submitting any content, please don't hesitate to reach out
 + [RMarkdown is great](https://benharrap.com/post/2022-02-10-rmarkdown-is-great/)
 
 + [Murcia R Users Group (UMUR) in Spain Didn’t Let the Pandemic Break its Momentum](https://www.r-consortium.org/blog/2022/01/31/murcia-r-users-group-umur-in-spain-didnt-let-the-pandemic-break-its-momentum)
+
++ [Empowering the R community in Arab-Speaking Countries](https://zenodo.org/record/6159437#.YkF26m5BxhE)
 
 + [Understanding text size and resolution in ggplot2](https://www.christophenicault.com/post/understand_size_dimension_ggplot2/)
 
@@ -91,7 +91,7 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [Handbook of Regression Modeling in People Analytics by Keith McNulty.](https://peopleanalytics-regression-book.org/)
 
-+ [A simple R script for extracting tabular data from Oryx' excellent post detailing materiel lost by all sides in the [Russian invasion of Ukraine](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html).](https://github.com/scarnecchia/scrape_oryx)
++ [A simple R script for extracting tabular data from Oryx excellent post detailing materiel lost by all sides in the - Russian invasion of Ukraine](https://github.com/scarnecchia/scrape_oryx)
 
 + [R Markdown Lesser-Known Tips & Tricks #2: Cleaning Up Your Code](https://www.rstudio.com/blog/r-markdown-tips-tricks-2-cleaning-up-your-code/)
 
@@ -110,9 +110,6 @@ If you have a problem submitting any content, please don't hesitate to reach out
 + [rasterpic](https://dieghernan.github.io/rasterpic/): Create Spatial Rasters from Plain Images.
 
 + [{itscalledsoccer} 0.1.0](https://www.americansocceranalysis.com/home/2022/2/9/introducing-itscalledsoccer): American Soccer Analysis API Client.
-
-
-**BioC**
 
 
 
@@ -146,13 +143,11 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [Intro to functional data analysis](https://www.youtube.com/watch?v=nA9fVOCD8yM)
 
-### Gist & Cookbook
-
-
 
 ### Shiny Apps
 
 + [Visualizing letter frequencies on different keyboard layouts](https://rappa.shinyapps.io/Keyboard-App/)
+
 + [Colorize a ggplot Voronoi interactively](https://rappa.shinyapps.io/interactive-ggplot/)
 
 + [Your Most Loved Tweet From 2021 (Or your last 5000 tweets)](https://nate884.shinyapps.io/Twitter2021/)
@@ -160,6 +155,8 @@ If you have a problem submitting any content, please don't hesitate to reach out
 ### R Internationally
 
 + [zipangu v0.3.0をCRANにリリースしました](https://uribo.hatenablog.com/entry/2022/03/14/122203)
+
++ [مقدمة عن مجتمع عرب آر](https://zenodo.org/record/6300827#.YkF3X25BxhE)
 
 ###  Tutorials
 
@@ -201,6 +198,8 @@ If you have a problem submitting any content, please don't hesitate to reach out
 + [Identifying R Functions & Packages Used in GitHub Repos](https://www.bryanshalloway.com/2022/01/18/identifying-r-functions-packages-used-in-github-repos/)
 
 + [Pre-processing layers in keras: What they are and how to use them](https://blogs.rstudio.com/ai/posts/2021-12-09-keras-preprocessing-layers/)
+
++ [Managing bioinformatics pipelines with R](https://www.joelnitta.com/posts/2021-11-16_r-bioinfo-flow/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
