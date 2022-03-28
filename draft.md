@@ -28,7 +28,7 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [Age-Period-Cohort Analysis with APCtools](https://bauer-alex.github.io/APCtools/articles/main_functionality.html)
 
-![An example plot from teh article showing density matrices. This plot type was referred to as ridgeline matrix when plotting multiple density plots for a metric variable. age and period are depicted on the x- and y-axis, respectively, and cohort on the diagonals](https://github.com/rweekly/image/blob/master/29-3-2022/apc_tools.png)
+![An example plot from teh article showing density matrices. This plot type was referred to as ridgeline matrix when plotting multiple density plots for a metric variable. age and period are depicted on the x- and y-axis, respectively, and cohort on the diagonals](https://raw.githubusercontent.com/rweekly/image/master/29-3-2022/apc_tools.png)
 
 + [News from knitr v1.35 to v1.37: Alternative Syntax for Chunk Options, and Some New Engines](https://yihui.org/en/2022/01/knitr-news/)
 
@@ -38,7 +38,7 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [useR! information dashboard](https://www.cynkra.com/blog/2022-01-05-gsod-user-infoboard/)
 
-![A screenshot with useR! information dashboard which shows the globe in the main page](https://github.com/rweekly/image/blob/master/29-3-2022/user_info_board.png)
+![A screenshot with useR! information dashboard which shows the globe in the main page](https://raw.githubusercontent.com/rweekly/image/master/29-3-2022/user_info_board.png)
 
 + [Are anime titles getting longer?](https://emitanaka.org/posts/2022-01-16-anime-titles/)
 
@@ -52,7 +52,7 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [Understanding text size and resolution in ggplot2](https://www.christophenicault.com/post/understand_size_dimension_ggplot2/)
 
-![A complex image for the world map showing the big mac index for 10 countries with crowded text. The lesson tries to show is ggforce can be used to increase resolution of the text and make it less crowded](https://github.com/rweekly/image/blob/master/29-3-2022/text-size-resolution.png)
+![A complex image for the world map showing the big mac index for 10 countries with crowded text. The lesson tries to show is ggforce can be used to increase resolution of the text and make it less crowded](https://raw.githubusercontent.com/rweekly/image/master/29-3-2022/text-size-resolution.png)
 
 + [Checking the inputs of your R functions](https://blog.r-hub.io/2022/03/10/input-checking/)
 
@@ -64,7 +64,7 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [Searching and browsing the R universe](https://ropensci.org/blog/2022/03/23/runiverse-search/)
 
-![A screenshot for the landing page showing the new tab for R Universe](https://github.com/rweekly/image/blob/master/29-3-2022/runiverse_serach.png)
+![A screenshot for the landing page showing the new tab for R Universe](https://raw.githubusercontent.com/rweekly/image/master/29-3-2022/runiverse_serach.png)
 
 + [Challenges in Package Management](https://www.rstudio.com/blog/challenges-in-package-management/)
 
@@ -77,11 +77,11 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [Starting 2022 Off With A Fairly Complex {ggplot2} Recreation Plot](https://rud.is/b/2022/01/04/starting-2022-off-with-a-fairly-complex-ggplot2-recreation-plot/)
 
-![A plot showing COVID-19 death after and before universal adult vaccine eligibility in white, hispanic, black and asian.](https://github.com/rweekly/image/blob/master/29-3-2022/rud.png)
+![A plot showing COVID-19 death after and before universal adult vaccine eligibility in white, hispanic, black and asian.](https://raw.githubusercontent.com/rweekly/image/master/29-3-2022/rud.png)
 
 + [J.League Soccer 2021 Season Review!](https://ryo-n7.github.io/2021-12-20-jleague-2021-endseason-review/)
 
-![A plot showing Vissel Kobe players according to their age and the percentage of minutes played in the sesson.](https://github.com/rweekly/image/blob/master/29-3-2022/ryo-league.png)
+![A plot showing Vissel Kobe players according to their age and the percentage of minutes played in the sesson.](https://raw.githubusercontent.com/rweekly/image/master/29-3-2022/ryo-league.png)
 
 + [rockr: Twitter best album polls](https://github.com/MarkLaVenia/rockr)
 
@@ -106,7 +106,7 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [R Markdown Lesser-Known Tips & Tricks #2: Cleaning Up Your Code](https://www.rstudio.com/blog/r-markdown-tips-tricks-2-cleaning-up-your-code/)
 
-![This is a gif showing how to clean up messy code with the styler addin by clicking on styler from addin menu](https://github.com/rweekly/image/blob/master/29-3-2022/gif_rmarkdown_tips.gif)
+![This is a gif showing how to clean up messy code with the styler addin by clicking on styler from addin menu](https://raw.githubusercontent.com/rweekly/image/master/29-3-2022/gif_rmarkdown_tips.gif)
 
 + [Three Videos to Supercharge Your R Skills](https://www.rstudio.com/blog/three-videos-to-supercharge-your-r-skills/)
 
@@ -177,7 +177,7 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [A couple of visualizations from ggforce](https://albert-rapp.de/post/2021-12-31-ggforce-examples/)
 
-![A voronoi diagrams which is constructed from a set of “center points” which are used to form polygons such that these fill the whole plane and each polygons consists of the points that are closest to a polygon’s center point](https://github.com/rweekly/image/blob/master/29-3-2022/ggforce.png)
+![A voronoi diagrams which is constructed from a set of “center points” which are used to form polygons such that these fill the whole plane and each polygons consists of the points that are closest to a polygon’s center point](https://raw.githubusercontent.com/rweekly/image/master/29-3-2022/ggforce.png)
 
 + [Report Ready PDF tables with rmarkdown, knitr, kableExtra, and LaTeX](https://www.pipinghotdata.com/posts/2022-01-24-report-ready-pdf-tables-with-rmarkdown-knitr-kableextra-and-latex/)
 
@@ -187,7 +187,7 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [Automatic differentiation in R with Stan Math](https://www.jchau.org/2022/01/24/automatic-differentiation-in-r-with-stan-math/)
 
-![a diagrame showing what is automatic differentiation which is an algorithmic calculation of derivatives of a function defined as a computer program by repeated application of the chain rule](https://github.com/rweekly/image/blob/master/29-3-2022/differentitaion.png)
+![a diagrame showing what is automatic differentiation which is an algorithmic calculation of derivatives of a function defined as a computer program by repeated application of the chain rule](https://raw.githubusercontent.com/rweekly/image/master/29-3-2022/differentitaion.png)
 
 + [How to create PowerPoint slides from R](https://www.infoworld.com/article/3648458/how-to-create-powerpoint-slides-from-r.html)
 
