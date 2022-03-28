@@ -44,6 +44,7 @@ We are resuming RWeekly after three months of hiatus due to the problems we have
 
 + [Understanding text size and resolution in ggplot2](https://www.christophenicault.com/post/understand_size_dimension_ggplot2/)
 
+
 + [Checking the inputs of your R functions](https://blog.r-hub.io/2022/03/10/input-checking/)
 
 + [Coding style, coding etiquette](https://blog.r-hub.io/2022/03/21/code-style/)
@@ -53,6 +54,11 @@ We are resuming RWeekly after three months of hiatus due to the problems we have
 + [Safeguards and Backups for GitHub Organizations](https://ropensci.org/blog/2022/03/22/safeguards-and-backups-for-github-organizations/)
 
 + [Searching and browsing the R universe](https://ropensci.org/blog/2022/03/23/runiverse-search/)
+
++ [Challenges in Package Management](https://www.rstudio.com/blog/challenges-in-package-management/)
+
++ [How to Win the RStudio Shiny Contest](https://www.rstudio.com/blog/how-to-win-the-rstudio-shiny-contest/)
+
 
 ### R in the Real World
 
@@ -82,6 +88,10 @@ We are resuming RWeekly after three months of hiatus due to the problems we have
 + [Handbook of Regression Modeling in People Analytics by Keith McNulty.](https://peopleanalytics-regression-book.org/)
 
 + [A simple R script for extracting tabular data from Oryx' excellent post detailing materiel lost by all sides in the [Russian invasion of Ukraine](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html).](https://github.com/scarnecchia/scrape_oryx)
+
++ [R Markdown Lesser-Known Tips & Tricks #2: Cleaning Up Your Code](https://www.rstudio.com/blog/r-markdown-tips-tricks-2-cleaning-up-your-code/)
+
++ [Three Videos to Supercharge Your R Skills](https://www.rstudio.com/blog/three-videos-to-supercharge-your-r-skills/)
 
 ###  New Packages
 
@@ -125,6 +135,12 @@ We are resuming RWeekly after three months of hiatus due to the problems we have
 + [Making Beautiful Tables with {gt}](https://www.youtube.com/watch?v=z0UGmMOxl-c)
 
 + [File naming and folder structure - R project management series (Part II)](https://www.youtube.com/watch?v=a7lPGT2E7_E)
+
++ [R for Excel Users - First Steps](https://www.youtube.com/watch?v=hyvClyUOY04)
+
++ [Professional Financial Reports with {rmarkdown}](https://www.youtube.com/watch?v=JsaGSrM8aZ0)
+
++ [Intro to functional data analysis](https://www.youtube.com/watch?v=nA9fVOCD8yM)
 
 ### Gist & Cookbook
 
@@ -180,6 +196,8 @@ We are resuming RWeekly after three months of hiatus due to the problems we have
 
 + [Identifying R Functions & Packages Used in GitHub Repos](https://www.bryanshalloway.com/2022/01/18/identifying-r-functions-packages-used-in-github-repos/)
 
++ [Pre-processing layers in keras: What they are and how to use them](https://blogs.rstudio.com/ai/posts/2021-12-09-keras-preprocessing-layers/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -204,6 +222,7 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
++ [Some R Conferences for 2022](https://rviews.rstudio.com/2022/03/15/some-r-conferences-for-2022/)
 
 
 ###  Call for Participation
@@ -218,6 +237,3 @@ Events in 3 Months:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How it feels every time my advisor tells an undergrad to come to me for help making figures in R because I&#39;m the &quot;best in the lab&quot; <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://t.co/iOoYjFstN8">pic.twitter.com/iOoYjFstN8</a></p>&mdash; Katie O&#39;Reilly (@DrKatfish) <a href="https://twitter.com/DrKatfish/status/1506049720040448002?ref_src=twsrc%5Etfw">March 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you have a slide deck on writing functions the tidyverse style (ie passing arguments to dplyr functions that accept bare inputs and writing functions that accept bare inputs) you&#39;re willing to share? <a href="https://twitter.com/jessicalavs?ref_src=twsrc%5Etfw">@jessicalavs</a> and I are presenting on the topic soon 🕺<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a></p>&mdash; Daniel Sjoberg (@statistishdan) <a href="https://twitter.com/statistishdan/status/1478176866422906881?ref_src=twsrc%5Etfw">January 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
-
