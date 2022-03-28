@@ -181,8 +181,6 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [Identifying R Functions & Packages Used in GitHub Repos](https://www.bryanshalloway.com/2022/01/18/identifying-r-functions-packages-used-in-github-repos/)
 
-+ [R Package Install Troubleshooting](https://www.littlemissdata.com/blog/r-package-install)
-
 + [Capture errors, warnings and messages](https://www.brodrigues.co/blog/2022-03-12-purely/)
 
 + [Impress with {keypress}](https://www.rostrum.blog/2022/01/19/keypress/)
