@@ -89,6 +89,8 @@ If you have a problem submitting any content, please don't hesitate to reach out
 
 + [Inverness street maps](https://www.johnmackintosh.net/blog/2022-02-03-inverness-streetmap/)
 
++ [Scraping Used Boats: How to find the perfect sailing yacht](https://lukas-r.blog/posts/2022-01-10-scraping-used-boats/)
+
 
 ###  R in Academia
 
@@ -214,6 +216,8 @@ If you have a problem submitting any content, please don't hesitate to reach out
 + [Pre-processing layers in keras: What they are and how to use them](https://blogs.rstudio.com/ai/posts/2021-12-09-keras-preprocessing-layers/)
 
 + [Managing bioinformatics pipelines with R](https://www.joelnitta.com/posts/2021-11-16_r-bioinfo-flow/)
+
++ [API's and parameterized reports: How to access the SimFin API for financial reporting](https://lukas-r.blog/posts/2021-12-15-apis-and-parameterized-reports/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
