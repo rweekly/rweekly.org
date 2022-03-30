@@ -46,7 +46,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
 **BioC**
 
 
@@ -57,7 +56,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-
++ [{mirai} 0.2.0](https://cran.r-project.org/package=mirai) Minimalist async evaluation framework for R
 
 ###  Videos and Podcasts
 
@@ -77,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [{nanonext} - How it Provides a Concurrency Framework for R](https://shikokuchuo.net/posts/17-nanonext-concurrency/) True async with automatic resolution.
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
