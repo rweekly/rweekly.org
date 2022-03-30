@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [4 ways to use colors in ggplot more efficiently](https://albert-rapp.de/post/2022-02-19-ggplot2-color-tips-from-datawrapper/)
 
 ### R in the Real World
 
@@ -38,7 +38,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [Showcasing the janitor package](https://albert-rapp.de/post/2022-01-12-janitor-showcase/)
 
 ###  New Packages
 
@@ -70,6 +70,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Shiny Apps
 
 
++ [Interactive ggplots, user feedback, and a little bit of javascript magic with Shiny](https://albert-rapp.de/post/2022-01-17-drawing-a-ggplot-interactively/)
 
 ### R Internationally
 
