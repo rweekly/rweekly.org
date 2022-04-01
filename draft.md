@@ -75,6 +75,8 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [{ggbraid} 0.1.0](https://github.com/nsgrantham/ggbraid):  Braid two lines and a ribbon in ggplot2.
 
++ [{glitter} 0.1.0](https://lvaudor.github.io/glitter/index.html): Domain-specific language (DSL) for SPARQL.
+
 ![]()
 
 ### Updated Packages
