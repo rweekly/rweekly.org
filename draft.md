@@ -85,7 +85,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [{reactablefmtr} 2.0.0](https://cran.r-project.org/package=reactablefmtr): Streamlined Table Styling and Formatting for Reactable.
 
-+ [{glitter} 0.1.0](https://github.com/lvaudor/glitter/): R package which writes SPARQL queries.
++ [{glitter} 0.1.0](https://github.com/lvaudor/glitter/): Domain-specific language (DSL) for SPARQL.
 
 ###  Videos and Podcasts
 
