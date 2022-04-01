@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [4 ways to use colors in ggplot more efficiently](https://albert-rapp.de/post/2022-02-19-ggplot2-color-tips-from-datawrapper/)
 
 ### R in the Real World
 
@@ -40,14 +40,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R in Visual Studio Code](https://code.visualstudio.com/docs/languages/r) - New R in VS Code topic on VS Code website
 
-
++ [Showcasing the janitor package](https://albert-rapp.de/post/2022-01-12-janitor-showcase/)
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
-
 
 **BioC**
 
@@ -59,7 +58,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-
++ [{mirai} 0.2.0](https://cran.r-project.org/package=mirai) Minimalist async evaluation framework for R
 
 ###  Videos and Podcasts
 
@@ -72,6 +71,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Shiny Apps
 
 
++ [Interactive ggplots, user feedback, and a little bit of javascript magic with Shiny](https://albert-rapp.de/post/2022-01-17-drawing-a-ggplot-interactively/)
 
 ### R Internationally
 
@@ -79,7 +79,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [{nanonext} - How it Provides a Concurrency Framework for R](https://shikokuchuo.net/posts/17-nanonext-concurrency/) True async with automatic resolution.
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
