@@ -46,6 +46,8 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [API's and parameterized reports: How to access the SimFin API for financial reporting](https://lukas-r.blog/posts/2021-12-15-apis-and-parameterized-reports/)
 
++ ![A Config File to Save Them: A Workflow to Use Microsoft Sharepoint and R](https://katharinabrunner.de/2022/02/r-and-microsoft-sharepoint/)
+
 ###  R in Academia
 
 + [The R Developer Community Does Have a Strong Software Engineering Culture](https://journal.r-project.org/archive/2021/RJ-2021-110/index.html): Maëlle Salmon, Karthik Ram. The R Developer Community Does Have a Strong Software Engineering Culture. The R Journal, 13(2):18-21, December 2021.
@@ -129,6 +131,8 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 + [Developer diary for {ggshakeR} 0.1.2 (a package for soccer analytics viz): Implementing Github Actions CI tools (codecov, lintr, etc.) into the workflow!](https://ryo-n7.github.io/2022-03-23-ggshakeR-0.1.2-announcement/)
 
 + [What is a horizon chart?](https://statisticaloddsandends.wordpress.com/2022/03/31/what-is-a-horizon-chart/)
+
++ ![Restart with a Fresh Timeline: A Twitter Clean-up with R and rtweet](https://katharinabrunner.de/2022/02/twitter-timeline-cleaning-with-r-rtweet/)
 
 ![]()
 
