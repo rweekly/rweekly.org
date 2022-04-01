@@ -95,6 +95,8 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
++ [R Lille - "Memory- and Computation-Efficient Statistical Tools for Big Matrices" - Florian Privé](https://www.meetup.com/R-Lille/events/284358899/)
+
 
 ### Datasets
 
