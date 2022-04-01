@@ -44,9 +44,13 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [rOpenSci News Digest, March 2022](https://ropensci.org/blog/2022/03/18/ropensci-news-digest-march-2022/)
 
++ [API's and parameterized reports: How to access the SimFin API for financial reporting](https://lukas-r.blog/posts/2021-12-15-apis-and-parameterized-reports/)
+
 ###  R in Academia
 
-+ [API's and parameterized reports: How to access the SimFin API for financial reporting](https://lukas-r.blog/posts/2021-12-15-apis-and-parameterized-reports/)
++ [The R Developer Community Does Have a Strong Software Engineering Culture](https://journal.r-project.org/archive/2021/RJ-2021-110/index.html): Maëlle Salmon, Karthik Ram. The R Developer Community Does Have a Strong Software Engineering Culture. The R Journal, 13(2):18-21, December 2021.
+
++ [We Need Trustworthy R Packages](https://journal.r-project.org/archive/2021/RJ-2021-109/index.html): William Michael Landau. We Need Trustworthy R Packages. The R Journal, 13(2):15-17, December 2021.
 
 
 ###  Resources
