@@ -11,11 +11,13 @@ library(rtweet)
 #   access_secret = "xxx"
 # )
 
+token <- readRDS("~/.rweekly_submit_token.rds")
+
 ## get @rweekly_submit mentions
-mentions <- rtweet::get_mentions(token = readRDS("~/.rweekly_submit_token.rds"))
+mentions <- rtweet::get_mentions(token = token)
 
 ## get the tweets they are in reply to
-originals <- rtweet::lookup_tweets(mentions$status_in_reply_to_status_id)
+originals <- rtweet::lookup_tweets(mentions$status_in_reply_to_status_id, token = token)
 
 ## preview
 # twitterwidget::twitterwidget(originals$status_id[1])
