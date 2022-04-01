@@ -38,6 +38,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [R in Visual Studio Code](https://code.visualstudio.com/docs/languages/r) - New R in VS Code topic on VS Code website
+
 
 
 ###  New Packages
@@ -94,8 +96,6 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-+ [R Lille - "Memory- and Computation-Efficient Statistical Tools for Big Matrices" - Florian Privé](https://www.meetup.com/R-Lille/events/284358899/)
 
 
 ### Datasets
