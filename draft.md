@@ -162,6 +162,8 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 ![]()
 
++ [Shiny Wordle Word Journey](https://www.rstudio.com/blog/shiny-wordle-journey/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -184,6 +186,8 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
+
++ [RStudio Community Monthly Events Roundup - April 2022](https://www.rstudio.com/blog/rstudio-community-monthly-events-roundup-april-2022/)
 
 
 ### Datasets
