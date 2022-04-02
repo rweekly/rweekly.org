@@ -77,6 +77,8 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 ![]()
 
++ [{chronicler} 0.1](https://www.brodrigues.co/blog/2022-04-04-chron_post/): Implementation of the logger monad in R.
+
 ### Updated Packages
 
 + [{mirai} 0.2.0](https://cran.r-project.org/package=mirai) Minimalist async evaluation framework for R.
@@ -86,6 +88,22 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 + [{reactablefmtr} 2.0.0](https://cran.r-project.org/package=reactablefmtr): Streamlined Table Styling and Formatting for Reactable.
 
 + [{glitter} 0.1.0](https://github.com/lvaudor/glitter/): Domain-specific language (DSL) for SPARQL.
+
++ [{mathpix} 0.5.0](https://cran.r-project.org/package=mathpix): Support for the 'Mathpix' API (Image to 'LaTeX').
+
++ [{dodgr} 0.2.13](https://cran.r-project.org/package=dodgr): Distances on Directed Graphs.
+
++ [{ggfun} 0.0.6](https://cran.r-project.org/package=ggfun): Miscellaneous Functions for 'ggplot2'.
+
++ [{igraph} 1.3.0](https://cran.r-project.org/package=igraph): Network Analysis and Visualization.
+
++ [{vctrs} 0.4.0](https://cran.r-project.org/package=vctrs): Vector helpers.
+
++ [{regtools} 1.7.0](https://cran.r-project.org/package=regtools): Regression and Classification Tools.
+
++ [{sinew} 0.4.0](https://cran.r-project.org/package=sinew): Package Development Documentation and Namespace Management.
+
++ [{formatR} 1.12](https://cran.r-project.org/package=formatR): Format R Code Automatically.
 
 ###  Videos and Podcasts
 
