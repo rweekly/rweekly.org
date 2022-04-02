@@ -149,6 +149,8 @@ Events in 3 Months:
 
 + [Become an R Package Developer - Become an R Package Developer](https://www.meetup.com/rladies-johannesburg/events/284974968/): April 4th
 
++ [R Lille - "Memory- and Computation-Efficient Statistical Tools for Big Matrices" - Florian Privé](https://www.meetup.com/R-Lille/events/284358899/): April 7th
+
 + [Tidy Survey Analysis in R: Workshop Series](https://www.mapor.org/2022-spring-webinar-series/): April 15th, April 22nd, April 29th
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
