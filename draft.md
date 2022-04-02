@@ -101,6 +101,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [2022 Toronto Workshop on Reproducibility - Mine Çetinkaya-Rundel](https://www.youtube.com/watch?v=6p4vOKS6Xls)
 
++ [Rich Iannone || {gt} Intendo Game Data Project Walkthrough || RStudio](https://www.youtube.com/watch?v=aPRVzk9pvno)
 
 ### Shiny Apps
 
@@ -109,6 +110,8 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 ![]()
 
 + [Interactive ggplots, user feedback, and a little bit of javascript magic with Shiny](https://albert-rapp.de/post/2022-01-17-drawing-a-ggplot-interactively/)
+
++ [Create A "Landing Page" For Your Shiny Apps](https://blog.mwavu.com/create-a-landing-page-for-your-shiny-apps)
 
 ### R Internationally
 
@@ -137,6 +140,8 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
+
++ [New features in R 4.2.0](https://www.jumpingrivers.com/blog/new-features-r420/)
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
