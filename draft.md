@@ -59,8 +59,6 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [R in Visual Studio Code](https://code.visualstudio.com/docs/languages/r) - New R in VS Code topic on VS Code website
 
-+ [Showcasing the janitor package](https://albert-rapp.de/post/2022-01-12-janitor-showcase/)
-
 + [R for Beginners](https://ashavrova.com/r-course/)
 
 
