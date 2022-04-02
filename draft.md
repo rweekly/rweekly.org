@@ -68,6 +68,13 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 **CRAN**
 
++ [{timbr} 0.1.0](https://cran.r-project.org/package=timbr): Forest Data Frames.
+
++ [{hudr} 1.0.0](https://cran.r-project.org/package=hudr): Providing Data from the US Department of Housing and Urban Development.
+
++ [{formatters} 0.2.0](https://cran.r-project.org/package=formatters): ASCII Formatting for Values and Tables.
+
++ [{re2} 0.1.2](https://cran.r-project.org/package=re2): R Interface to Google RE2 (C++) Regular Expression Library.
 
 **GitHub or Bitbucket**
 
