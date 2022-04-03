@@ -15,13 +15,14 @@ Mail R Weekly - mail at rweekly.org
 
 Team Members (alphabet order)
 
-[Bruce Zhao](https://github.com/BruceZhaoR), [Colin Fay](https://github.com/ColinFay), [Eric Nantz](https://github.com/thercast), [Hao Zhu](https://github.com/haozhu233), [Jon Calder](https://github.com/jonmcalder), [Jonathan Carroll](https://github.com/jonocarroll), [Maëlle Salmon](https://github.com/maelle), [Ryo Nakagawara](https://github.com/Ryo-N7), [Wolfram Qin](https://github.com/qinwf)
+[Batool Almarzouq](https://github.com/BatoolMM), [Colin Fay](https://github.com/ColinFay), [Eric Nantz](https://github.com/thercast), [Jon Calder](https://github.com/jonmcalder), [Jonathan Carroll](https://github.com/jonocarroll), [Kelly N. Bodwin](https://github.com/kbodwin), [Miles McBain](https://github.com/MilesMcBain), [Robert Hickman](https://github.com/RobWHickman), [Ryo Nakagawara](https://github.com/Ryo-N7), [Tony ElHabr](https://github.com/tonyelhabr), [Wolfram Qin](https://github.com/qinwf)
+
 
 ## Social Medias
 
 R Weekly @
 
-[Mastodon](https://mastodon.social/@rweekly), [Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org)
+[Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org)
 
 [YouTube Channel](https://www.youtube.com/channel/UCVRffxCKJd2qQ6gDcoMPxJQ)
 

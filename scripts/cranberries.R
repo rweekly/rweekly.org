@@ -1,3 +1,68 @@
+library(tidyRSS)
+library(pkgsearch)
+library(dplyr)
+library(lubridate)
+
+# create utility functions
+tidy_package_name <- function(item_link) {
+    pkg_tmp <- strsplit(item_link, "#")[[1]][2]
+    res <- strsplit(pkg_tmp, "_")[[1]][1]
+    return(res)
+}
+
+create_text <- function(package_version, package_name, package_title, feed_type = "new") {
+    if (feed_type == "new") {
+        placeholder <- "+ [{|package_name|} |package_version|](https://cran.r-project.org/package=|package_name|): |package_title|"
+    } else if (feed_type == "updated") {
+        placeholder <- "+ [{|package_name|} |package_version|](https://cran.r-project.org/package=|package_name|)"
+    } else {
+        stop("supplied type not recognized!", call. = FALSE)
+    }
+
+    x <- glue::glue(placeholder, .open = "|", .close = "|")
+    return(x)
+}
+
+process_cranberries <- function(feed_type, start_date, end_date = as.Date(lubridate::now())) {
+    # form the URL based on type (either "new" or "updated")
+    cb_url <- glue::glue("https://dirk.eddelbuettel.com/cranberries/cran/{feed_type}/index.rss")
+    ftype <- feed_type
+
+    # process the new packages feed
+    cb_tidy <- tidyRSS::tidyfeed(cb_url) %>%
+      mutate(feed_type = ftype) %>%
+      mutate(item_pub_date = as_date(item_pub_date)) %>%
+      select(item_title, item_link, item_description, item_pub_date, feed_type) %>%
+      distinct() %>%
+      mutate(package_name = purrr::map_chr(item_link, ~tidy_package_name(.x))) %>%
+      
+      # leverage the awesome pkgsearch package to get metadata
+      mutate(package_meta = purrr::map(package_name, ~pkgsearch::cran_package(.x)),
+             package_version = purrr::map_chr(package_meta, "Version"),
+             package_title = purrr::map_chr(package_meta, "Title"),
+             package_date = purrr::map_chr(package_meta, "Date/Publication")) %>%
+
+      filter(item_pub_date >= as.Date(start_date) & item_pub_date <= as.Date(now())) %>%
+      select(one_of(c("package_version", "package_name", "package_title", "feed_type",  "package_date"))) %>%
+      mutate(markdown_string = purrr::pmap_chr(select(., -package_date), create_text))
+
+    return(cb_tidy)
+}
+
+# obtain new packages
+cb_new_df <- process_cranberries(feed_type = "new", start_date = "2020-05-25")
+
+# print out the markdown text
+cat(cb_new_df$markdown_string, sep = "\n")
+
+# obtain updated packages
+cb_updated_df <- process_cranberries(feed_type = "updated", start_date = "2020-05-25")
+
+# print out the markdown text
+cat(cb_updated_df$markdown_string, sep = "\n")
+
+# Previous version by Jonathan Carroll
+
 cb_new <- c(
 "New package newscatcheR with initial version 0.0.1
 Package: newscatcheR

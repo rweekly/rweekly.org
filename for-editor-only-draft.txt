@@ -1,13 +1,15 @@
 ---
 layout: draft
-title: R Weekly 2020-00
+title: R Weekly 2021-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-00-00
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
+
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+
 
 
 ###  Highlight
@@ -59,6 +61,10 @@ Release Date: 2020-00-00
 
 
 ### Gist & Cookbook
+
+
+
+### Shiny Apps
 
 
 

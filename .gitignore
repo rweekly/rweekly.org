@@ -48,3 +48,9 @@ temp_json
 .jekyll-metadata
 .Rproj.user
 .RData
+.vscode/settings.json
+.devcontainer
+.renvignore
+.Rprofile
+renv/*
+renv.lock
