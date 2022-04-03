@@ -40,6 +40,8 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 ![]()
 
++ [Random Manipulation of a Random SmugMug Image: GitHub Actions, ImageMagick, rtweet, blogdown, Hugo, and more!](https://gilliganondata.com/projects/random-image-manipulation/)
+
 ###  R in Organizations
 
 + [rOpenSci News Digest, March 2022](https://ropensci.org/blog/2022/03/18/ropensci-news-digest-march-2022/)
