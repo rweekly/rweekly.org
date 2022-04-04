@@ -14,9 +14,9 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [Exemplar: a prototype R package for data validation](https://mdneuzerling.com/post/exemplar-a-prototype-r-package-for-data-validation/)
 
-+ [{chronicler} 0.1](https://www.brodrigues.co/blog/2022-04-04-chron_post/)
++ [{chronicler} 0.1](https://www.brodrigues.co/blog/2022-04-04-chron_post/): Implementation of the logger monad in R.
 
-+ [{ggbraid} 0.1.0](https://github.com/nsgrantham/ggbraid)
++ [{ggbraid} 0.1.0](https://github.com/nsgrantham/ggbraid): Braid two lines and a ribbon in ggplot2.
 
 ### Insights
 
@@ -35,6 +35,8 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 + [Scraping Used Boats: How to find the perfect sailing yacht](https://lukas-r.blog/posts/2022-01-10-scraping-used-boats/)
 
 + [Using R to detect the pressure wave from the 2022 Hunga Tonga eruption in personal weather station data](https://nsaunders.wordpress.com/2022/03/29/using-r-to-detect-the-pressure-wave-from-the-2022-hunga-tonga-eruption-in-personal-weather-station-data/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022-04-04/hunga.png)
 
 + [Interactive maps of Hastings Half Marathon](https://www.rostrum.blog/2022/03/31/hastings-half/)
 
@@ -82,7 +84,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [{parlscot} 0.0.0.9000](https://github.com/dbrby/parlscot): Fetch the Scottish Parliamentary Spoken Record.
 
-+ [{ggbraid} 0.1.0](https://github.com/nsgrantham/ggbraid):  Braid two lines and a ribbon in ggplot2.
++ [{ggbraid} 0.1.0](https://github.com/nsgrantham/ggbraid): Braid two lines and a ribbon in ggplot2.
 
 ![](https://raw.githubusercontent.com/rweekly/image/master/2022-04-04/ggbraid.png)
 
@@ -148,7 +150,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 ###  Tutorials
 
-+ [{nanonext} - How it Provides a Concurrency Framework for R](https://shikokuchuo.net/posts/17-nanonext-concurrency/) True async with automatic resolution.
++ [{nanonext} - How it Provides a Concurrency Framework for R](https://shikokuchuo.net/posts/17-nanonext-concurrency/): True async with automatic resolution.
 
 + [Exemplar: a prototype R package for data validation](https://mdneuzerling.com/post/exemplar-a-prototype-r-package-for-data-validation/)
 
