@@ -22,7 +22,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [4 ways to use colors in ggplot more efficiently](https://albert-rapp.de/post/2022-02-19-ggplot2-color-tips-from-datawrapper/)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2022-04-04/ggplot-effective.png)
 
 + [R Package Install Troubleshooting](https://www.littlemissdata.com/blog/r-package-install)
 
@@ -40,7 +40,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [Information Dependency: A visual analysis of my Google Search history](https://github.com/toebR/Own_R_Viz_Projects/tree/master/google_activity_infographic)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2022-04-04/google-search-info.png)
 
 + [Random Manipulation of a Random SmugMug Image: GitHub Actions, ImageMagick, rtweet, blogdown, Hugo, and more!](https://gilliganondata.com/projects/random-image-manipulation/)
 
@@ -84,7 +84,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [{ggbraid} 0.1.0](https://github.com/nsgrantham/ggbraid):  Braid two lines and a ribbon in ggplot2.
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2022-04-04/ggbraid.png)
 
 + [{chronicler} 0.1](https://www.brodrigues.co/blog/2022-04-04-chron_post/): Implementation of the logger monad in R.
 
@@ -158,7 +158,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [What is a horizon chart?](https://statisticaloddsandends.wordpress.com/2022/03/31/what-is-a-horizon-chart/)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2022-04-04/horizon-chart.png)
 
 + ![Restart with a Fresh Timeline: A Twitter Clean-up with R and rtweet](https://katharinabrunner.de/2022/02/twitter-timeline-cleaning-with-r-rtweet/)
 
