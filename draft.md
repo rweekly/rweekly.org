@@ -12,7 +12,11 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 ###  Highlight
 
++ [Exemplar: a prototype R package for data validation](https://mdneuzerling.com/post/exemplar-a-prototype-r-package-for-data-validation/)
 
++ [{chronicler} 0.1](https://www.brodrigues.co/blog/2022-04-04-chron_post/)
+
++ [{ggbraid} 0.1.0](https://github.com/nsgrantham/ggbraid)
 
 ### Insights
 
@@ -32,11 +36,9 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [Using R to detect the pressure wave from the 2022 Hunga Tonga eruption in personal weather station data](https://nsaunders.wordpress.com/2022/03/29/using-r-to-detect-the-pressure-wave-from-the-2022-hunga-tonga-eruption-in-personal-weather-station-data/)
 
-![]()
-
 + [Interactive maps of Hastings Half Marathon](https://www.rostrum.blog/2022/03/31/hastings-half/)
 
-+ [](https://github.com/toebR/Own_R_Viz_Projects/tree/master/google_activity_infographic)
++ [Information Dependency: A visual analysis of my Google Search history](https://github.com/toebR/Own_R_Viz_Projects/tree/master/google_activity_infographic)
 
 ![]()
 
@@ -56,13 +58,11 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [We Need Trustworthy R Packages](https://journal.r-project.org/archive/2021/RJ-2021-109/index.html): William Michael Landau. We Need Trustworthy R Packages. The R Journal, 13(2):15-17, December 2021.
 
-
 ###  Resources
 
 + [R in Visual Studio Code](https://code.visualstudio.com/docs/languages/r) - New R in VS Code topic on VS Code website
 
 + [R for Beginners](https://ashavrova.com/r-course/)
-
 
 ###  New Packages
 
@@ -134,8 +134,6 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [xG Race Shiny](https://harshkrishna.shinyapps.io/PlayerFinishingOverview/): A Shiny app that creates xG based finishing reports for soccer players using data from Understat.
 
-![]()
-
 + [Interactive ggplots, user feedback, and a little bit of javascript magic with Shiny](https://albert-rapp.de/post/2022-01-17-drawing-a-ggplot-interactively/)
 
 + [Create A "Landing Page" For Your Shiny Apps](https://blog.mwavu.com/create-a-landing-page-for-your-shiny-apps)
@@ -160,9 +158,9 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [What is a horizon chart?](https://statisticaloddsandends.wordpress.com/2022/03/31/what-is-a-horizon-chart/)
 
-+ ![Restart with a Fresh Timeline: A Twitter Clean-up with R and rtweet](https://katharinabrunner.de/2022/02/twitter-timeline-cleaning-with-r-rtweet/)
-
 ![]()
+
++ ![Restart with a Fresh Timeline: A Twitter Clean-up with R and rtweet](https://katharinabrunner.de/2022/02/twitter-timeline-cleaning-with-r-rtweet/)
 
 + [Shiny Wordle Word Journey](https://www.rstudio.com/blog/shiny-wordle-journey/)
 
@@ -172,8 +170,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [New features in R 4.2.0](https://www.jumpingrivers.com/blog/new-features-r420/)
 
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS)
 
 ###  Upcoming Events in 3 Months
 
