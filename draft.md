@@ -17,6 +17,8 @@ This week’s release was curated by [Jon Calder](), with help from the R Weekly
 
 ### Insights
 
+- [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
+
 
 
 ### R in the Real World
