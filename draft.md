@@ -18,6 +18,7 @@ This week’s release was curated by [Jon Calder](), with help from the R Weekly
 ### Insights
 
 - [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
+- [Recreating the Storytelling with Data look with ggplot](https://albert-rapp.de/post/2022-03-29-recreating-the-swd-look/)
 
 
 
@@ -75,7 +76,8 @@ This week’s release was curated by [Jon Calder](), with help from the R Weekly
 
 ###  Tutorials
 
-
+- [How to use functional programming for ggplot](https://albert-rapp.de/post/2022-03-25-functional-programming-when-geoms-are-not-vectorized/)
+- [How to use Fonts and Icons in ggplot](https://albert-rapp.de/post/2022-03-04-fonts-and-icons/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
