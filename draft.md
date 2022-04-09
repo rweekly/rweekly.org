@@ -55,11 +55,11 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [{wikipediapreview-r} 0.1.0](https://github.com/bearloga/wikipediapreview-r/): R package for using Wikipedia Preview context cards in R Markdown documents
 
-+ [{ggcalendar}](https://github.com/EvaMaeRey/ggcalendar): Create grammar of graphics calendars
++ [{ggcalendar} 0.0.0.9000](https://github.com/EvaMaeRey/ggcalendar): Create grammar of graphics calendars
 
-+ [{scattermore}](https://github.com/exaexa/scattermore): Scatterplots with More Points
++ [{scattermore} 0.8](https://github.com/exaexa/scattermore): Scatterplots with More Points
 
-+ [{loopurrr}](https://github.com/TimTeaFan/loopurrr/): Tranlate purrr iterator functions to regular for loops
++ [{loopurrr} 0.1.1](https://github.com/TimTeaFan/loopurrr/): Tranlate purrr iterator functions to regular for loops
 
 ### Updated Packages
 
@@ -81,9 +81,9 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [Extreme Rmarkdown report automation with parameters and templates](https://www.youtube.com/watch?v=mFEEkOYvAZg)
 
-+ [Programming Games with Shiny || Dragon Realm || RStudio](https://www.youtube.com/watch?v=sD39WAZo99A)
++ [Programming Games with Shiny - Dragon Realm](https://www.youtube.com/watch?v=sD39WAZo99A)
 
-+ [TidyX Episode 100 | Sampling, Simulation, and Intro to Bayes - Beta Bayes](https://www.youtube.com/watch?v=8IGoE8oVRVU)
++ [TidyX Episode 100 - Sampling, Simulation, and Intro to Bayes - Beta Bayes](https://www.youtube.com/watch?v=8IGoE8oVRVU)
 
 ### Gist & Cookbook
 
@@ -101,7 +101,7 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [How to use functional programming for ggplot](https://albert-rapp.de/post/2022-03-25-functional-programming-when-geoms-are-not-vectorized/)
 
-+ [New post: Why I like XPath, XML and HTML. ✨ Highlighting a few examples showing XPath is cool. 😎 #RStats (posted by @ma_salmon)](https://masalmon.eu/2022/04/08/xml-xpath/)
++ [Why I like XPath, XML and HTML](https://masalmon.eu/2022/04/08/xml-xpath/)
 
 + [Iterating on the GSS](https://kieranhealy.org/blog/archives/2022/04/08/iterating-on-the-gss/)
 
