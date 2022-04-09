@@ -20,7 +20,7 @@ This week’s release was curated by [Jon Calder](), with help from the R Weekly
 - [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
 - [Recreating the Storytelling with Data look with ggplot](https://albert-rapp.de/post/2022-03-29-recreating-the-swd-look/)
 
-
++ [R Users Group Seville, Spain Looks Forward to Interactive Hybrid Events in the Future](https://www.r-consortium.org/blog/2022/04/06/r-users-group-seville-spain-looks-forward-to-interactive-hybrid-events-in-the-future)
 
 ### R in the Real World
 
@@ -52,15 +52,19 @@ This week’s release was curated by [Jon Calder](), with help from the R Weekly
 
 **GitHub or Bitbucket**
 
++ [{wikipediapreview-r} 0.1.0](https://github.com/bearloga/wikipediapreview-r/): R package for using Wikipedia Preview context cards in R Markdown documents.
 
++ [{ggcalendar}](https://github.com/EvaMaeRey/ggcalendar): x and y position as days in month.
+
++ [{scattermore}](https://github.com/exaexa/scattermore)
 
 ### Updated Packages
 
-
++ [{sweater}](https://github.com/chainsawriot/sweater): Speedy Word Embedding Association Test & Extras using R.
 
 ###  Videos and Podcasts
 
-
++ [Shiny: Construindo aplicativos web interativos](https://www.youtube.com/watch?v=rie8UpCwNMM)
 
 ### Gist & Cookbook
 
