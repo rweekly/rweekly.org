@@ -61,7 +61,10 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [{loopurrr} 0.1.1](https://github.com/TimTeaFan/loopurrr/): Tranlate purrr iterator functions to regular for loops
 
+
 ### Updated Packages
+
+**CRAN**
 
 + [{sweater} 0.1.4](https://github.com/chainsawriot/sweater): Speedy Word Embedding Association Test & Extras using R
 
@@ -74,6 +77,16 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 + [{corporaexplorer} 0.8.5](https://cran.r-project.org/package=corporaexplorer): A 'Shiny' App for Exploration of Text Collections
 
 + [{emayili} 0.7.9](https://cran.r-project.org/package=emayili): Send Email Messages
+
++ [{parallelly} 1.31.0](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
+
++ [{future.callr} 0.8.0](https://cran.r-project.org/package=future.callr): A Future API for Parallel Processing using 'callr'
++ [{doFuture} 0.12.1](https://cran.r-project.org/package=doFuture): A Universal Foreach Parallel Adapter using the Future API of the 'future' Package
+
+**BioC**
+
+**GitHub**
+
 
 ### Videos and Podcasts
 
