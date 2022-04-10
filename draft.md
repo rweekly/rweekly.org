@@ -173,7 +173,7 @@ Events in 3 Months:
 
 * R Consortium [ISC Call for Proposals](https://www.r-consortium.org/blog/2022/04/01/isc-call-for-proposals-2) looking to provide grants for technical projects that will have a significant impact on the R Community. Deadline 2022-05-01
 
-* R Consortium [New R User Groups, Conferences, and Training Program](https://www.r-consortium.org/announcement/2022/04/01/announcing-the-new-r-user-groups-conferences-and-training-program)
+* R Consortium [New R User Groups, Conferences, and Training Program](https://www.r-consortium.org/announcement/2022/04/01/announcing-the-new-r-user-groups-conferences-and-training-program). Deadline 2022-09-30
 
 
 ### Datasets
