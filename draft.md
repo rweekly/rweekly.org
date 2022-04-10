@@ -136,6 +136,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [How to use Fonts and Icons in ggplot](https://albert-rapp.de/post/2022-03-04-fonts-and-icons/)
 
++ [Saving Daylight Time?](https://www.garrickadenbuie.com/blog/saving-daylight-time/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
