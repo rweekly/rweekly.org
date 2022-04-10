@@ -15,6 +15,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ### Insights
 
++ Deepayan Sarkar and Kurt Hornik, [Enhancements to HTML Documentation](https://developer.r-project.org/Blog/public/2022/04/08/enhancements-to-html-documentation/index.html), _The R Blog_, 2022-04-08
+
 + [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
 
 + [Recreating the Storytelling with Data look with ggplot](https://albert-rapp.de/post/2022-03-29-recreating-the-swd-look/)
