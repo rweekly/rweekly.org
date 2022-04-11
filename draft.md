@@ -7,7 +7,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHabr), with help from the R Weekly team members and contributors.
 
 ### Highlight
 
