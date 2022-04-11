@@ -11,25 +11,25 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ### Highlight
 
++ [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
 
++ [Recreating the Storytelling with Data look with ggplot](https://albert-rapp.de/post/2022-03-29-recreating-the-swd-look/)
+
++ [Programming Games with Shiny - Dragon Realm](https://www.youtube.com/watch?v=sD39WAZo99A)
 
 ### Insights
-
-+ Deepayan Sarkar and Kurt Hornik, [Enhancements to HTML Documentation](https://developer.r-project.org/Blog/public/2022/04/08/enhancements-to-html-documentation/index.html), _The R Blog_, 2022-04-08
 
 + [We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
 
 + [Recreating the Storytelling with Data look with ggplot](https://albert-rapp.de/post/2022-03-29-recreating-the-swd-look/)
 
-* [R Users Group Seville, Spain Looks Forward to Interactive Hybrid Events in the Future](https://www.r-consortium.org/blog/2022/04/06/r-users-group-seville-spain-looks-forward-to-interactive-hybrid-events-in-the-future)
+![Recreating the Storytelling with Data look with ggplot](https://raw.githubusercontent.com/rweekly/image/master/2022/W15/swd_look.png)
 
-### R in the Real World
+* [R Users Group Seville, Spain Looks Forward to Interactive Hybrid Events in the Future](https://www.r-consortium.org/blog/2022/04/06/r-users-group-seville-spain-looks-forward-to-interactive-hybrid-events-in-the-future)
 
 ### R in Organizations
 
 + [Make robust, modular dashboards with golem and graveler](https://www.rstudio.com/blog/make-robust-modular-dashboards-with-golem-and-graveler/)
-
-### R in Academia
 
 ### Resources
 
@@ -51,7 +51,7 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [{manydata} 0.7.3](https://cran.r-project.org/package=manydata): A Portal for Global Governance Data
 
-**BioC**
+![{manydata} 0.7.3](https://raw.githubusercontent.com/rweekly/image/master/2022/W15/manydata.png)
 
 **GitHub**
 
@@ -62,7 +62,6 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 + [{scattermore} 0.8](https://github.com/exaexa/scattermore): Scatterplots with More Points
 
 + [{loopurrr} 0.1.1](https://github.com/TimTeaFan/loopurrr/): Tranlate purrr iterator functions to regular for loops
-
 
 ### Updated Packages
 
@@ -83,12 +82,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 + [{parallelly} 1.31.0](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
 
 + [{future.callr} 0.8.0](https://cran.r-project.org/package=future.callr): A Future API for Parallel Processing using 'callr'
+
 + [{doFuture} 0.12.1](https://cran.r-project.org/package=doFuture): A Universal Foreach Parallel Adapter using the Future API of the 'future' Package
-
-**BioC**
-
-**GitHub**
-
 
 ### Videos and Podcasts
 
@@ -100,17 +95,15 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [TidyX Episode 100 - Sampling, Simulation, and Intro to Bayes - Beta Bayes](https://www.youtube.com/watch?v=8IGoE8oVRVU)
 
-### Gist & Cookbook
-
 ### Shiny Apps
 
 + [Finding Economic Articles With Data](https://skranz.github.io//r/2022/04/06/FindingEconomicArticles5.html)
 
 + [R Shiny in Government – Top 7 Dashboards You Should See](https://appsilon.com/r-shiny-in-government-examples/)
 
-+ [IPL 2022: Near real-time analytics with GooglyPlusPlus](https://gigadom.in/2022/04/03/ipl-2022-near-real-time-analytics-with-googlyplusplus/)
+![R Shiny in Government – Top 7 Dashboards You Should See](https://raw.githubusercontent.com/rweekly/image/master/2022/W15/living_costs_nz.png)
 
-### R Internationally
++ [IPL 2022: Near real-time analytics with GooglyPlusPlus](https://gigadom.in/2022/04/03/ipl-2022-near-real-time-analytics-with-googlyplusplus/)
 
 ### Tutorials
 
@@ -140,11 +133,15 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [Saving Daylight Time?](https://www.garrickadenbuie.com/blog/saving-daylight-time/)
 
+![Saving Daylight Time?](https://raw.githubusercontent.com/rweekly/image/master/2022/W15/georgia_atlanta.png)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
++ [Enhancements to HTML Documentation](https://developer.r-project.org/Blog/public/2022/04/08/enhancements-to-html-documentation/index.html)
 
 ### Upcoming Events in 3 Months
 
@@ -168,20 +165,22 @@ Events in 3 Months:
 
 + [RStudio Community Monthly Events Roundup - April 2022](https://www.rstudio.com/blog/rstudio-community-monthly-events-roundup-april-2022/)
 
-
 ### Grants & Funding
 
-* R Consortium [ISC Call for Proposals](https://www.r-consortium.org/blog/2022/04/01/isc-call-for-proposals-2) looking to provide grants for technical projects that will have a significant impact on the R Community. Deadline 2022-05-01
++ R Consortium [ISC Call for Proposals](https://www.r-consortium.org/blog/2022/04/01/isc-call-for-proposals-2) looking to provide grants for technical projects that will have a significant impact on the R Community. Deadline 2022-05-01
 
-* R Consortium [New R User Groups, Conferences, and Training Program](https://www.r-consortium.org/announcement/2022/04/01/announcing-the-new-r-user-groups-conferences-and-training-program). Deadline 2022-09-30
-
-
-### Datasets
-
-### Jobs
++ R Consortium [New R User Groups, Conferences, and Training Program](https://www.r-consortium.org/announcement/2022/04/01/announcing-the-new-r-user-groups-conferences-and-training-program). Deadline 2022-09-30
 
 ### Call for Participation
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">CRAN Task Views relaunched with many improvements! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/cran?src=hash&amp;ref_src=twsrc%5Etfw">#cran</a> <a href="https://twitter.com/_R_Foundation?ref_src=twsrc%5Etfw">@_r_foundation</a><a href="https://t.co/mYJ7UvsruE">https://t.co/mYJ7UvsruE</a><br><br>CRAN Task Views provide a means to find and install pkgs that are relevant for a certain task (e.g., &quot;MachineLearning&quot;, &quot;Optimization&quot;, &quot;Econometrics&quot;, etc.).<br><br>Thread (1/7): <a href="https://t.co/5I57Z2rev9">pic.twitter.com/5I57Z2rev9</a></p>&mdash; Achim Zeileis (@AchimZeileis) <a href="https://twitter.com/AchimZeileis/status/1510945091980038145?ref_src=twsrc%5Etfw">April 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Five quick <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tips I&#39;ve picked up in the plots I&#39;ve made for the first category of the <a href="https://twitter.com/hashtag/30DayChartChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30DayChartChallenge</a> 🧵👇<br><br>1. Need to plot a million points and ggplot() is taking too long but you want to stay within the tidyverse?<br> <br>👉 Use 📦{scattermore} with geom_scattermore() 🥳</p>&mdash; Cara Thompson (@cararthompson) <a href="https://twitter.com/cararthompson/status/1511812876016799758?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve been enjoying visualising art, literature and music recently. Here is my visual interpretation of the emotions in The Raven by Edgar Allan Poe, again using the NRC word-emotion lexicon.<br><br>Code: <a href="https://t.co/zBwjKeVr0l">https://t.co/zBwjKeVr0l</a><a href="https://twitter.com/hashtag/datavisualization?src=hash&amp;ref_src=twsrc%5Etfw">#datavisualization</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/r4ds?src=hash&amp;ref_src=twsrc%5Etfw">#r4ds</a> <a href="https://t.co/GUr6FCAAoy">pic.twitter.com/GUr6FCAAoy</a></p>&mdash; Dan (@FilmicAesthetic) <a href="https://twitter.com/FilmicAesthetic/status/1512109428690104323?ref_src=twsrc%5Etfw">April 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Check out my last tutorial on mapping rivers in R if you&#39;d like to make a similar map of European rivers! 🥳<br><br>💻<a href="https://t.co/qi2oLYSM5e">https://t.co/qi2oLYSM5e</a><a href="https://twitter.com/hashtag/rivers?src=hash&amp;ref_src=twsrc%5Etfw">#rivers</a> <a href="https://twitter.com/hashtag/africa?src=hash&amp;ref_src=twsrc%5Etfw">#africa</a> <a href="https://twitter.com/hashtag/datavisualization?src=hash&amp;ref_src=twsrc%5Etfw">#datavisualization</a> <a href="https://twitter.com/hashtag/visualization?src=hash&amp;ref_src=twsrc%5Etfw">#visualization</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> <a href="https://twitter.com/hashtag/maps?src=hash&amp;ref_src=twsrc%5Etfw">#maps</a> <a href="https://t.co/DjsZWLom5b">pic.twitter.com/DjsZWLom5b</a></p>&mdash; Milos Popovic (@milos_agathon) <a href="https://twitter.com/milos_agathon/status/1512858559511470088?ref_src=twsrc%5Etfw">April 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
