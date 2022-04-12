@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2021-W00
+title: R Weekly 2022-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -91,6 +91,8 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
+
+### Grants & Funding
 
 
 ### Datasets
