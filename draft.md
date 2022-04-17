@@ -19,7 +19,7 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 
 ### R in the Real World
 
-
++ [How to collect dataviz from Twitter into your note-taking system](https://albert-rapp.de/post/2022-04-11-get-twitter-posts-into-your-notetaking-system/)
 
 ### R in Organizations
 
@@ -117,3 +117,5 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you see a lot of great <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> on Twitter? Like in the <a href="https://twitter.com/hashtag/30DayChartChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30DayChartChallenge</a>?<br><br>And do you want to collect them straight to your Markdown note-taking system for future inspiration?<br><br>Here&#39;s how you can send the tweet link to yourself via email and let <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> do the rest. 🧵⬇️ <a href="https://t.co/2kXEwK97rm">pic.twitter.com/2kXEwK97rm</a></p>&mdash; Albert Rapp (@rappa753) <a href="https://twitter.com/rappa753/status/1514525611745812484?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
