@@ -31,7 +31,7 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 
 ### Resources
 
-
++ [The Power of Internal Packages (BostonR presentation)](https://meghan.rbind.io/talk/boston-user/)
 
 ### New Packages
 
@@ -47,13 +47,15 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 
 **GitHub or Bitbucket**
 
-
++ [{lterdatasampler} 0.1.0](https://lter.github.io/lterdatasampler/): Educational dataset examples from the Long Term Ecological Research program.
 
 ### Updated Packages
 
 + [{nanonext} 0.4.0](https://cran.r-project.org/package=nanonext) NNG (Nanomsg Next Gen) Lightweight Messaging Library.
 
 + [{mirai} 0.4.0](https://cran.r-project.org/package=mirai) Minimalist async evaluation framework for R.
+
++ [{ggsvg} 0.1.4](https://github.com/coolbutuseless/ggsvg): Use SVG images as ggplot points.
 
 ### Videos and Podcasts
 
@@ -74,6 +76,12 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 ### Tutorials
 
 + [Re-introducing mirai](https://shikokuchuo.net/posts/18-reintroducing-mirai/) - a minimalist async evaluation framework for R: concurrent code execution with maximum flexibility and automatic resolution.
+
++ [Customising pkgdown with a version selector](https://thisisnic.github.io/2022/04/15/customising-pkgdown-with-a-version-selector/)
+
++ [NBA player names in hip hop lyrics](https://luisdva.github.io/rstats/NBA-rap/)
+
++ [Building R packages](https://www.paulamoraga.com/blog/2022/04/12/2022-04-12-rpackages/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -110,7 +118,7 @@ Events in 3 Months:
 
 ### Jobs
 
-
++ [(Senior) Data Scientist - Idorsia Pharmaceuticals](https://careers.idorsia.com/job/Basel-%28Senior%29-Data-Scientist-BS/795866101/)
 
 
 ### Call for Participation
