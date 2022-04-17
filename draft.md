@@ -15,23 +15,31 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 
 ### Insights
 
++ [Why you should(n't) care about Monads if you're an R programmer](https://www.brodrigues.co/blog/2022-04-11-monads/)
 
++ [WTF is Kubernetes and Should I Care as R User?](https://blog.rmhogervorst.nl/blog/2022/04/17/wtf-is-kubernetes-and-should-i-care-as-r-user/)
+
++ [Keeping Those SSH Keys Safe](https://rud.is/b/2022/04/16/keeping-those-ssh-keys-safe/)
+
++ [R-spatial evolution: retirement of rgdal, rgeos and maptools](https://r-spatial.org//r/2022/04/12/evolution.html)
 
 ### R in the Real World
 
 + [How to collect dataviz from Twitter into your note-taking system](https://albert-rapp.de/post/2022-04-11-get-twitter-posts-into-your-notetaking-system/)
 
++ [NBA player names in hip hop lyrics](https://luisdva.github.io/rstats/NBA-rap/)
+
++ [Predicting Twenty 20 Cricket Result with Tidy Models](https://theparttimeanalyst.com/2022/04/12/predicting-twenty-20-cricket-result-with-tidy-models/)
+
 ### R in Organizations
 
-
-
-### R in Academia
-
-
++ [R-Ladies Cologne joins the family](https://cosimameyer.rbind.io/post/new-r-ladies-chapter-cologne/)
 
 ### Resources
 
 + [The Power of Internal Packages (BostonR presentation)](https://meghan.rbind.io/talk/boston-user/)
+
++ [Billionaires and Taxes: Some Visualisation on Taxes by Rich](https://www.harsh17.in/billionaires-and-taxes/)
 
 ### New Packages
 
@@ -39,47 +47,58 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 
 **CRAN**
 
-
-
-**BioC**
-
-
++ [{sftime} 0.2.0](https://r-spatial.org//r/2022/04/12/sftime-1.html): Classes and Methods for Simple Feature Objects that Have a Time Column
++ [{scales} 1.2.0](https://www.tidyverse.org/blog/2022/04/scales-1-2-0/): Graphical scales map data to aesthetics.
++ [{Matching} 4.10-2](https://cran.r-project.org/package=Matching): Multivariate and Propensity Score Matching with BalanceOptimization
++ [{clusterHD} 1.0.0](https://cran.r-project.org/package=clusterHD): Tools for Clustering High-Dimensional Data
++ [{AQEval} 0.4.5](https://cran.r-project.org/package=AQEval): Air Quality Evaluation
++ [{SoilTesting} 0.1.0](https://cran.r-project.org/package=SoilTesting): Organic Carbon and Plant Available Nutrient Contents in Soil
++ [{deforestable} 3.0.0](https://cran.r-project.org/package=deforestable): Classify RGB Images into Forest or Non-Forest
++ [{valet} 0.9.0](https://cran.r-project.org/package=valet): Provide R Client to the Bank of Canada's Valet API
++ [{spooky} 1.1.0](https://cran.r-project.org/package=spooky): Time Feature Extrapolation Using Spectral Analysis and Jack-Knife Resampling
++ [{MTS} 1.2.1](https://cran.r-project.org/package=MTS): All-Purpose Toolkit for Analyzing Multivariate Time Series (MTS) and Estimating Multivariate Volatility Models
++ [{randomGLM} 1.10-1](https://cran.r-project.org/package=randomGLM): Random General Linear Model Prediction
 
 **GitHub or Bitbucket**
 
-+ [{lterdatasampler} 0.1.0](https://lter.github.io/lterdatasampler/): Educational dataset examples from the Long Term Ecological Research program.
++ [{lterdatasampler 0.1.0}](https://lter.github.io/lterdatasampler/): Educational dataset examples from the Long Term Ecological Research program 
 
 ### Updated Packages
 
-+ [{nanonext} 0.4.0](https://cran.r-project.org/package=nanonext) NNG (Nanomsg Next Gen) Lightweight Messaging Library.
-
-+ [{mirai} 0.4.0](https://cran.r-project.org/package=mirai) Minimalist async evaluation framework for R.
-
++ [{brms 2.17.0](https://cran.r-project.org/package=brms): Fit Bayesian generalized (non-)linear multivariate multilevel models using 'Stan' for full Bayesian inference.
++ [{nanonext} 0.4.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library.
++ [{mirai} 0.4.0](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R.
 + [{ggsvg} 0.1.4](https://github.com/coolbutuseless/ggsvg): Use SVG images as ggplot points.
++ [{xgboost} 1.6.0.1](https://cran.r-project.org/package=xgboost)
++ [{bookdown} 0.26](https://cran.r-project.org/package=bookdown): Authoring Books and Technical Documents with R Markdown
++ [{zoo} 1.8-10](https://cran.r-project.org/package=zoo): S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations)
++ [{skimr} 2.1.4](https://cran.r-project.org/package=skimr): Compact and Flexible Summaries of Data
++ [{modelsummary} 0.10.0](https://cran.r-project.org/package=modelsummary): Summary Tables and Plots for Statistical Models and Data
++ [{broom} 0.8.0](https://cran.r-project.org/package=broom): Convert Statistical Objects into Tidy Tibbles
++ [{mapboxapi} 0.3.3](https://cran.r-project.org/package=mapboxapi): R Interface to 'Mapbox' Web Services
++ [{tidycensus} 1.2](https://cran.r-project.org/package=tidycensus): Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames
 
 ### Videos and Podcasts
 
-
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
++ [TidyX Episode 101 | Sampling, Simulation, and Intro to Bayes - Poisson/Gamma](https://www.youtube.com/watch?v=_eCFJaUoRms)
++ [Using Quarto for revealjs slides - Eric Nantz](https://www.youtube.com/watch?v=cW9vFhpGFgw)
++ [Shiny Developer Series Episode 31 | The Connecticut COVID-19 Test Spotter App (Part 2)](https://www.youtube.com/watch?v=GdxVtl3FwmI)
 
 ### Tutorials
 
-+ [Re-introducing mirai](https://shikokuchuo.net/posts/18-reintroducing-mirai/) - a minimalist async evaluation framework for R: concurrent code execution with maximum flexibility and automatic resolution.
-
 + [Customising pkgdown with a version selector](https://thisisnic.github.io/2022/04/15/customising-pkgdown-with-a-version-selector/)
 
-+ [NBA player names in hip hop lyrics](https://luisdva.github.io/rstats/NBA-rap/)
++ [Error chaining](https://thisisnic.github.io/2022/04/09/error-chaining/)
+
++ [A simple introduction to ggplot2 (for plotting your data!)](https://www.rforecology.com/post/a-simple-introduction-to-ggplot2/)
+
++ [Selection bias and observed values](https://jacobsimmering.com/post/selection-observed/)
+
++ [Propensity Score Matching](https://statsnotebook.io/blog/analysis/matching/)
+
++ [To impute or not: the case of an RCT with baseline and follow-up measurements](https://www.rdatagen.net/post/2022-04-12-to-impute-or-not-the-case-of-an-rct-with-baseline-and-follow-up-measurements/)
+
++ [Re-introducing mirai](https://shikokuchuo.net/posts/18-reintroducing-mirai/)
 
 + [Building R packages](https://www.paulamoraga.com/blog/2022/04/12/2022-04-12-rpackages/)
 
@@ -87,8 +106,7 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 
 ### R Project Updates
 
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS)
 
 ### Upcoming Events in 3 Months
 
@@ -114,15 +132,7 @@ Events in 3 Months:
 
 + R Consortium [New R User Groups, Conferences, and Training Program](https://www.r-consortium.org/announcement/2022/04/01/announcing-the-new-r-user-groups-conferences-and-training-program). Deadline 2022-09-30
 
-### Datasets
-
-### Jobs
-
-+ [(Senior) Data Scientist - Idorsia Pharmaceuticals](https://careers.idorsia.com/job/Basel-%28Senior%29-Data-Scientist-BS/795866101/)
-
-
 ### Call for Participation
-
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
@@ -131,3 +141,7 @@ Events in 3 Months:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you see a lot of great <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> on Twitter? Like in the <a href="https://twitter.com/hashtag/30DayChartChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30DayChartChallenge</a>?<br><br>And do you want to collect them straight to your Markdown note-taking system for future inspiration?<br><br>Here&#39;s how you can send the tweet link to yourself via email and let <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> do the rest. 🧵⬇️ <a href="https://t.co/2kXEwK97rm">pic.twitter.com/2kXEwK97rm</a></p>&mdash; Albert Rapp (@rappa753) <a href="https://twitter.com/rappa753/status/1514525611745812484?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Five quick <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tips I&#39;ve picked up in the plots I&#39;ve made for the first category of the <a href="https://twitter.com/hashtag/30DayChartChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30DayChartChallenge</a> 🧵👇<br><br>1. Need to plot a million points and ggplot() is taking too long but you want to stay within the tidyverse?<br> <br>👉 Use 📦{scattermore} with geom_scattermore() 🥳</p>&mdash; Cara Thompson (@cararthompson) <a href="https://twitter.com/cararthompson/status/1511812876016799758?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+> Oooooh the latest version (1.2) of {scales} adds support for true minus signs (− instead of -, where the − is the same width as a +)! And it puts the − on the correct side of the dollar sign! You can also automatically add +s if you want. This is so neat! [#rstats](https://twitter.com/hashtag/rstats) [#ggplot2](https://twitter.com/hashtag/ggplot2) [pic.twitter.com/28kIQDUCkK](https://t.co/28kIQDUCkK)
+> 
+> — Andrew Heiss 🇺🇦 (@andrewheiss) [April 14, 2022](https://twitter.com/andrewheiss/status/1514444374654038020)
