@@ -51,7 +51,9 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 
 ### Updated Packages
 
++ [{nanonext} 0.4.0](https://cran.r-project.org/package=nanonext) NNG (Nanomsg Next Gen) Lightweight Messaging Library.
 
++ [{mirai} 0.4.0](https://cran.r-project.org/package=mirai) Minimalist async evaluation framework for R.
 
 ### Videos and Podcasts
 
@@ -71,7 +73,7 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 
 ### Tutorials
 
-
++ [Re-introducing mirai](https://shikokuchuo.net/posts/18-reintroducing-mirai/) - a minimalist async evaluation framework for R: concurrent code execution with maximum flexibility and automatic resolution.
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
