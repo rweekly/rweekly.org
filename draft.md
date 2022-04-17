@@ -69,7 +69,6 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 + [{nanonext} 0.4.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library.
 + [{mirai} 0.4.0](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R.
 + [{ggsvg} 0.1.4](https://github.com/coolbutuseless/ggsvg): Use SVG images as ggplot points.
-+ [{xgboost} 1.6.0.1](https://cran.r-project.org/package=xgboost)
 + [{bookdown} 0.26](https://cran.r-project.org/package=bookdown): Authoring Books and Technical Documents with R Markdown
 + [{zoo} 1.8-10](https://cran.r-project.org/package=zoo): S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations)
 + [{skimr} 2.1.4](https://cran.r-project.org/package=skimr): Compact and Flexible Summaries of Data
@@ -129,8 +128,6 @@ Events in 3 Months:
 ### Grants & Funding
 
 + R Consortium [ISC Call for Proposals](https://www.r-consortium.org/blog/2022/04/01/isc-call-for-proposals-2) looking to provide grants for technical projects that will have a significant impact on the R Community. Deadline 2022-05-01
-
-+ R Consortium [New R User Groups, Conferences, and Training Program](https://www.r-consortium.org/announcement/2022/04/01/announcing-the-new-r-user-groups-conferences-and-training-program). Deadline 2022-09-30
 
 ### Call for Participation
 
