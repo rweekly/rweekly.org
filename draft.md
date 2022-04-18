@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: R Weekly 2022-W16
-description: Draft of the R Weekly
+description: r-spatial, error chaining, monads
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -11,23 +11,32 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 
 ### Highlight
 
++ [R-spatial evolution: retirement of rgdal, rgeos and maptools](https://r-spatial.org//r/2022/04/12/evolution.html)
+
++ [Error chaining](https://thisisnic.github.io/2022/04/09/error-chaining/)
+
++ [Why you should(n't) care about Monads if you're an R programmer](https://www.brodrigues.co/blog/2022-04-11-monads/)
 
 
 ### Insights
 
-+ [Why you should(n't) care about Monads if you're an R programmer](https://www.brodrigues.co/blog/2022-04-11-monads/)
++ [R-spatial evolution: retirement of rgdal, rgeos and maptools](https://r-spatial.org//r/2022/04/12/evolution.html)
 
 + [WTF is Kubernetes and Should I Care as R User?](https://blog.rmhogervorst.nl/blog/2022/04/17/wtf-is-kubernetes-and-should-i-care-as-r-user/)
 
-+ [Keeping Those SSH Keys Safe](https://rud.is/b/2022/04/16/keeping-those-ssh-keys-safe/)
-
-+ [R-spatial evolution: retirement of rgdal, rgeos and maptools](https://r-spatial.org//r/2022/04/12/evolution.html)
++ [Why you should(n't) care about Monads if you're an R programmer](https://www.brodrigues.co/blog/2022-04-11-monads/)
 
 ### R in the Real World
+
++ [Keeping Those SSH Keys Safe](https://rud.is/b/2022/04/16/keeping-those-ssh-keys-safe/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W16/ssh-key-summary-hrbrmstr.png)
 
 + [How to collect dataviz from Twitter into your note-taking system](https://albert-rapp.de/post/2022-04-11-get-twitter-posts-into-your-notetaking-system/)
 
 + [NBA player names in hip hop lyrics](https://luisdva.github.io/rstats/NBA-rap/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W16/nba-player-names-in-hip-hop-songs.png)
 
 + [Predicting Twenty 20 Cricket Result with Tidy Models](https://theparttimeanalyst.com/2022/04/12/predicting-twenty-20-cricket-result-with-tidy-models/)
 
@@ -40,6 +49,8 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 + [The Power of Internal Packages (BostonR presentation)](https://meghan.rbind.io/talk/boston-user/)
 
 + [Billionaires and Taxes: Some Visualisation on Taxes by Rich](https://www.harsh17.in/billionaires-and-taxes/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W16/taxes-v-income.png)
 
 ### New Packages
 
@@ -63,12 +74,14 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 
 + [{lterdatasampler 0.1.0}](https://lter.github.io/lterdatasampler/): Educational dataset examples from the Long Term Ecological Research program 
 
+
 ### Updated Packages
 
 + [{brms 2.17.0](https://cran.r-project.org/package=brms): Fit Bayesian generalized (non-)linear multivariate multilevel models using 'Stan' for full Bayesian inference.
 + [{nanonext} 0.4.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library.
 + [{mirai} 0.4.0](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R.
 + [{ggsvg} 0.1.4](https://github.com/coolbutuseless/ggsvg): Use SVG images as ggplot points.
++ [{xgboost} 1.6.0.1](https://cran.r-project.org/package=xgboost)
 + [{bookdown} 0.26](https://cran.r-project.org/package=bookdown): Authoring Books and Technical Documents with R Markdown
 + [{zoo} 1.8-10](https://cran.r-project.org/package=zoo): S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations)
 + [{skimr} 2.1.4](https://cran.r-project.org/package=skimr): Compact and Flexible Summaries of Data
@@ -79,9 +92,9 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 
 ### Videos and Podcasts
 
-+ [TidyX Episode 101 | Sampling, Simulation, and Intro to Bayes - Poisson/Gamma](https://www.youtube.com/watch?v=_eCFJaUoRms)
++ [TidyX Episode 101 - Sampling, Simulation, and Intro to Bayes - Poisson/Gamma](https://www.youtube.com/watch?v=_eCFJaUoRms)
 + [Using Quarto for revealjs slides - Eric Nantz](https://www.youtube.com/watch?v=cW9vFhpGFgw)
-+ [Shiny Developer Series Episode 31 | The Connecticut COVID-19 Test Spotter App (Part 2)](https://www.youtube.com/watch?v=GdxVtl3FwmI)
++ [Shiny Developer Series Episode 31 - The Connecticut COVID-19 Test Spotter App (Part 2)](https://www.youtube.com/watch?v=GdxVtl3FwmI)
 
 ### Tutorials
 
@@ -90,6 +103,8 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 + [Error chaining](https://thisisnic.github.io/2022/04/09/error-chaining/)
 
 + [A simple introduction to ggplot2 (for plotting your data!)](https://www.rforecology.com/post/a-simple-introduction-to-ggplot2/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W16/ggplot2-from-df.png)
 
 + [Selection bias and observed values](https://jacobsimmering.com/post/selection-observed/)
 
@@ -106,6 +121,7 @@ This week’s release was curated by [Tony Elhabr](https://twitter.com/TonyElHab
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS)
+
 
 ### Upcoming Events in 3 Months
 
@@ -129,6 +145,8 @@ Events in 3 Months:
 
 + R Consortium [ISC Call for Proposals](https://www.r-consortium.org/blog/2022/04/01/isc-call-for-proposals-2) looking to provide grants for technical projects that will have a significant impact on the R Community. Deadline 2022-05-01
 
++ R Consortium [New R User Groups, Conferences, and Training Program](https://www.r-consortium.org/announcement/2022/04/01/announcing-the-new-r-user-groups-conferences-and-training-program). Deadline 2022-09-30
+
 ### Call for Participation
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
@@ -139,6 +157,5 @@ Events in 3 Months:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Five quick <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tips I&#39;ve picked up in the plots I&#39;ve made for the first category of the <a href="https://twitter.com/hashtag/30DayChartChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30DayChartChallenge</a> 🧵👇<br><br>1. Need to plot a million points and ggplot() is taking too long but you want to stay within the tidyverse?<br> <br>👉 Use 📦{scattermore} with geom_scattermore() 🥳</p>&mdash; Cara Thompson (@cararthompson) <a href="https://twitter.com/cararthompson/status/1511812876016799758?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-> Oooooh the latest version (1.2) of {scales} adds support for true minus signs (− instead of -, where the − is the same width as a +)! And it puts the − on the correct side of the dollar sign! You can also automatically add +s if you want. This is so neat! [#rstats](https://twitter.com/hashtag/rstats) [#ggplot2](https://twitter.com/hashtag/ggplot2) [pic.twitter.com/28kIQDUCkK](https://t.co/28kIQDUCkK)
-> 
-> — Andrew Heiss 🇺🇦 (@andrewheiss) [April 14, 2022](https://twitter.com/andrewheiss/status/1514444374654038020)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Oooooh the latest version (1.2) of {scales} adds support for true minus signs (− instead of -, where the − is the same width as a +)! And it puts the − on the correct side of the dollar sign! You can also automatically add +s if you want. This is so neat! <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://t.co/28kIQDUCkK">pic.twitter.com/28kIQDUCkK</a></p>&mdash; Andrew Heiss 🇺🇦 (@andrewheiss) <a href="https://twitter.com/andrewheiss/status/1514444374654038020?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
