@@ -118,3 +118,4 @@ Events in 3 Months:
 
 ### Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last week, I held a short workshop teaching <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> to Economics students without prior programming experience.<br><br>Here are 6 lessons I learnt that I wish I had known in advance.</p>&mdash; Albert Rapp (@rappa753) <a href="https://twitter.com/rappa753/status/1516497080201904129?ref_src=twsrc%5Etfw">April 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
