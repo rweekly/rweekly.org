@@ -72,7 +72,7 @@ This week’s release was curated by you, with help from the R Weekly team membe
 
 ### Tutorials
 
-+ [nlmixr: Docked and loaded - nlmixr up and running with Docker](https://numetric.ai/posts/2021-11-14-nlmixr-docked-and-loaded/)
++ [nlmixr: Docked and loaded - getting nlmixr up and running with Docker](https://numetric.ai/posts/2021-11-14-nlmixr-docked-and-loaded/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
