@@ -53,6 +53,7 @@ This week’s release was curated by you, with help from the R Weekly team membe
 ### Updated Packages
 
 * [{matrixStats} 0.62.0](https://cran.r-project.org/package=matrixStats): Functions that Apply to Rows and Columns of Matrices (and to Vectors)
+* [{parallelly} 1.31.1](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
 
 ### Videos and Podcasts
 
