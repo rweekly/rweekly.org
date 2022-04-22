@@ -15,6 +15,8 @@ This week’s release was curated by you, with help from the R Weekly team membe
 
 ### Insights
 
++ [6 Lessons I learned from teaching R to non-programmers](https://albert-rapp.de/post/2022-04-15-lessons-learned-from-teaching-nonprogrammers/)
+
 
 
 ### R in the Real World
