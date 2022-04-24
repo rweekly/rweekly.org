@@ -15,6 +15,9 @@ This week’s release was curated by you, with help from the R Weekly team membe
 
 ### Insights
 
+
+* [parallelly 1.31.1: Better at Inferring Number of CPU Cores with Cgroups and Linux Containers](https://www.jottr.org/2022/04/22/parallelly-1.31.1/), JottR blog, 2022-04-22
+
 + [Editorial Challenges and Solutions in Software Peer Review](https://ropensci.org/blog/2022/04/19/software-review-editorial-challenges/)
 
 ### R in the Real World
@@ -52,8 +55,10 @@ This week’s release was curated by you, with help from the R Weekly team membe
 
 ### Updated Packages
 
-+ [{lambdr} 1.2.0](https://lambdr.mdneuzerling.com/): Create a Runtime for Serving Containerised R Functions on AWS Lambda.
 
+* [{matrixStats} 0.62.0](https://cran.r-project.org/package=matrixStats): Functions that Apply to Rows and Columns of Matrices (and to Vectors)
+* [{parallelly} 1.31.1](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
++ [{lambdr} 1.2.0](https://lambdr.mdneuzerling.com/): Create a Runtime for Serving Containerised R Functions on AWS Lambda.
 + [{ftExtra} 0.4.0](https://github.com/atusy/ftExtra/): Extensions for 'Flextable'.
 
 ### Videos and Podcasts
