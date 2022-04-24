@@ -7,7 +7,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by you, with help from the R Weekly team members and contributors.
+This week’s release was curated by [Jonathan Carroll](https://twitter.com/carroll_jono), with help from the RWeekly team members and contributors.
 
 ### Highlight
 
@@ -15,13 +15,37 @@ This week’s release was curated by you, with help from the R Weekly team membe
 
 ### Insights
 
++ [Getting started with Python using R and reticulate](https://rtichoke.netlify.app/post/getting_started_with_reticulate/)
++ [Where for (loop) ARt Thou? A loop by any other name...](https://jcarroll.com.au/2022/04/22/where-for-loop-art-thou/)
++ [RObservations #30: Fixing R’s “messy string concatenation” with a special function](https://bensstats.wordpress.com/2022/04/21/robservations-30-fixing-rs-messy-string-concatenation-with-a-special-function/)
++ [Loading a large, messy csv using data.table fread with cli tools](https://redwallanalytics.com/2022/04/21/loading-a-large-messy-csv-using-data-table-fread-with-cli-tools/)
++ [Successfully Putting Shiny in Production](https://www.rstudio.com/blog/successfully-putting-shiny-in-production/)
++ [Play & Analyse Wordle Games](https://factbased.blogspot.com/2022/04/play-analyse-wordle-games.html)
++ [Bayesian analyses made easy: GLMMs in R package brms](https://oliviergimenez.github.io/blog/glmm-brms/)
 + [6 Lessons I learned from teaching R to non-programmers](https://albert-rapp.de/post/2022-04-15-lessons-learned-from-teaching-nonprogrammers/)
-
 + [Not so standard evaluations - Getting a better understanding of the tidyeval framework](https://lukas-r.blog/posts/2022-04-20-not-so-standard-evaluations/)
++ [rOpenSci News Digest, April 2022](https://ropensci.org/blog/2022/04/22/ropensci-news-digest-april-2022/)
+
+
+
 
 * [parallelly 1.31.1: Better at Inferring Number of CPU Cores with Cgroups and Linux Containers](https://www.jottr.org/2022/04/22/parallelly-1.31.1/), JottR blog, 2022-04-22
 
 + [Editorial Challenges and Solutions in Software Peer Review](https://ropensci.org/blog/2022/04/19/software-review-editorial-challenges/)
+
++ [R torch for statistics (not just machine learning)](https://rgiordan.github.io/code/2022/04/01/rtorch_example.html)
+
++ [WTF is Kubernetes and Should I Care as R User?](https://blog.rmhogervorst.nl/blog/2022/04/17/wtf-is-kubernetes-and-should-i-care-as-r-user/)
+
++ [Iterating over the rows of a data.frame with purrr -- Part 2](https://rstats-tips.net/2022/04/22/iterating-over-the-rows-of-a-data-frame-with-purrr-part-2/)
+
++ [How to create your own functions in R - Putting the FUN in functions!](https://www.rforecology.com/post/how-to-create-your-own-function-in-r/)
+
++ [Linking R and Python to retrieve financial data and plot a candlestick](https://datascienceplus.com/linking-r-and-python-to-retrieve-financial-data-and-plot-a-candlestick/)
+
++ [Concurrent code execution with maximum flexibility and automatic resolution](https://shikokuchuo.net/posts/18-reintroducing-mirai/)
+
++ [MLDataR - Real-world Datasets for Machine Learning Applications](https://rviews.rstudio.com/2022/04/19/mldatar-real-world-datasets-for-machine-learning-applications/)
 
 ### R in the Real World
 
@@ -58,11 +82,13 @@ This week’s release was curated by you, with help from the R Weekly team membe
 
 ### Updated Packages
 
++ [{seasonal} 1.9](https://www.cynkra.com/blog/2022-04-19-seasonal-1.9/): Accessing composite output
 
 * [{matrixStats} 0.62.0](https://cran.r-project.org/package=matrixStats): Functions that Apply to Rows and Columns of Matrices (and to Vectors)
 * [{parallelly} 1.31.1](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
 + [{lambdr} 1.2.0](https://lambdr.mdneuzerling.com/): Create a Runtime for Serving Containerised R Functions on AWS Lambda.
 + [{ftExtra} 0.4.0](https://github.com/atusy/ftExtra/): Extensions for 'Flextable'.
++ [{ggtrace} 0.5.1](https://yjunechoe.github.io/ggtrace/): Programmatically explore, debug, and manipulate ggplot internals
 
 ### Videos and Podcasts
 
@@ -130,3 +156,8 @@ Events in 3 Months:
 
 ### Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s a wrap! I enjoyed a lot curating for <a href="https://twitter.com/WeAreRLadies?ref_src=twsrc%5Etfw">@WeAreRLadies</a> this week covering different topics. You may have noticed, but I highlighted some <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> pkgs made in 🇦🇺 so you can see wonderful works in this land of 🦘🐨🪃 -- I may be biased, we&#39;re a great bunch &amp; worth the visit 💼😁 <a href="https://t.co/LPj1HSovN3">https://t.co/LPj1HSovN3</a> <a href="https://t.co/SyrckDFvhN">pic.twitter.com/SyrckDFvhN</a></p>&mdash; Emi Tanaka (田中愛美) 💉💉💉 (@statsgen) <a href="https://twitter.com/statsgen/status/1517794800937824258?ref_src=twsrc%5Etfw">April 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Got 3D and music working for <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> and <a href="https://twitter.com/hashtag/raylib?src=hash&amp;ref_src=twsrc%5Etfw">#raylib</a>!<br><br>Up next: keyboard and mouse interactivity. <a href="https://t.co/GuveB0HSwX">pic.twitter.com/GuveB0HSwX</a></p>&mdash; Jeroen Janssens (@jeroenhjanssens) <a href="https://twitter.com/jeroenhjanssens/status/1516673321051602947?ref_src=twsrc%5Etfw">April 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I couldn&#39;t resist getting in on the fun, updated for R &gt;= 4.1, created using {gt}! h/t <a href="https://twitter.com/skyetetra?ref_src=twsrc%5Etfw">@skyetetra</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a> <a href="https://twitter.com/hashtag/magrittr?src=hash&amp;ref_src=twsrc%5Etfw">#magrittr</a> <a href="https://twitter.com/hashtag/alignmentchart?src=hash&amp;ref_src=twsrc%5Etfw">#alignmentchart</a> <br><br>Repo here: <a href="https://t.co/gjGWLKYYG5">https://t.co/gjGWLKYYG5</a> <a href="https://t.co/1Ez6eQKkGd">pic.twitter.com/1Ez6eQKkGd</a></p>&mdash; Isabella Velásquez (@ivelasq3) <a href="https://twitter.com/ivelasq3/status/1404947187155574787?ref_src=twsrc%5Etfw">June 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
