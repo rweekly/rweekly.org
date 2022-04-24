@@ -15,7 +15,10 @@ This week’s release was curated by you, with help from the R Weekly team membe
 
 ### Insights
 
+
 * [parallelly 1.31.1: Better at Inferring Number of CPU Cores with Cgroups and Linux Containers](https://www.jottr.org/2022/04/22/parallelly-1.31.1/), JottR blog, 2022-04-22
+
++ [Editorial Challenges and Solutions in Software Peer Review](https://ropensci.org/blog/2022/04/19/software-review-editorial-challenges/)
 
 ### R in the Real World
 
@@ -32,7 +35,7 @@ This week’s release was curated by you, with help from the R Weekly team membe
 
 ### Resources
 
-
++ [Cash Rate Scraper](https://github.com/MattCowgill/cash-rate-scraper)
 
 ### New Packages
 
@@ -48,12 +51,15 @@ This week’s release was curated by you, with help from the R Weekly team membe
 
 **GitHub or Bitbucket**
 
-
++ [{designer} 0.0.0.9000](https://github.com/ashbaldry/designer): 'Shiny' application UI drag-and-drop helper.
 
 ### Updated Packages
 
+
 * [{matrixStats} 0.62.0](https://cran.r-project.org/package=matrixStats): Functions that Apply to Rows and Columns of Matrices (and to Vectors)
 * [{parallelly} 1.31.1](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
++ [{lambdr} 1.2.0](https://lambdr.mdneuzerling.com/): Create a Runtime for Serving Containerised R Functions on AWS Lambda.
++ [{ftExtra} 0.4.0](https://github.com/atusy/ftExtra/): Extensions for 'Flextable'.
 
 ### Videos and Podcasts
 
@@ -74,6 +80,8 @@ This week’s release was curated by you, with help from the R Weekly team membe
 ### Tutorials
 
 + [nlmixr: Docked and loaded - getting nlmixr up and running with Docker](https://numetric.ai/posts/2021-11-14-nlmixr-docked-and-loaded/)
+
++ [Dealing with flaky GitHub Actions](https://epiforecasts.io/posts/2022-04-11-robust-actions/index.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -110,7 +118,7 @@ Events in 3 Months:
 
 ### Jobs
 
-
++ [Data Analyst (Part-time)](https://www.linkedin.com/jobs/view/3035960454): Upfront
 
 
 ### Call for Participation
