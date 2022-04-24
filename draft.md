@@ -15,6 +15,7 @@ This week’s release was curated by you, with help from the R Weekly team membe
 
 ### Insights
 
++ [Not so standard evaluations - Getting a better understanding of the tidyeval framework](https://lukas-r.blog/posts/2022-04-20-not-so-standard-evaluations/)
 
 * [parallelly 1.31.1: Better at Inferring Number of CPU Cores with Cgroups and Linux Containers](https://www.jottr.org/2022/04/22/parallelly-1.31.1/), JottR blog, 2022-04-22
 
