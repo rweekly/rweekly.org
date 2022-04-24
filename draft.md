@@ -86,6 +86,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 * [{matrixStats} 0.62.0](https://cran.r-project.org/package=matrixStats): Functions that Apply to Rows and Columns of Matrices (and to Vectors)
 * [{parallelly} 1.31.1](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
+* [{future} 1.25.0](https://cran.r-project.org/package=future): Unified Parallel and Distributed Processing in R for Everyone
 + [{lambdr} 1.2.0](https://lambdr.mdneuzerling.com/): Create a Runtime for Serving Containerised R Functions on AWS Lambda.
 + [{ftExtra} 0.4.0](https://github.com/atusy/ftExtra/): Extensions for 'Flextable'.
 + [{ggtrace} 0.5.1](https://yjunechoe.github.io/ggtrace/): Programmatically explore, debug, and manipulate ggplot internals
