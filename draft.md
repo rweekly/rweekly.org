@@ -90,6 +90,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [New features in {overviewR}](https://cosimameyer.rbind.io/post/new-features-in-overviewr/)
 * [parallelly 1.31.1: Better at Inferring Number of CPU Cores with Cgroups and Linux Containers](https://www.jottr.org/2022/04/22/parallelly-1.31.1/)
 * [{parallelly} 1.31.1](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
+* [{future} 1.25.0](https://cran.r-project.org/package=future): Unified Parallel and Distributed Processing in R for Everyone
 + [{lambdr} 1.2.0](https://lambdr.mdneuzerling.com/): Create a Runtime for Serving Containerised R Functions on AWS Lambda.
 + [{ftExtra} 0.4.0](https://github.com/atusy/ftExtra/): Extensions for 'Flextable'.
 + [{ggtrace} 0.5.1](https://yjunechoe.github.io/ggtrace/): Programmatically explore, debug, and manipulate ggplot internals
