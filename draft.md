@@ -11,31 +11,44 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 ### Highlight
 
++ [6 Lessons I learned from teaching R to non-programmers](https://albert-rapp.de/post/2022-04-15-lessons-learned-from-teaching-nonprogrammers/)
+
++ [Loading a large, messy csv using data.table fread with cli tools](https://redwallanalytics.com/2022/04/21/loading-a-large-messy-csv-using-data-table-fread-with-cli-tools/)
+
++ [Bayesian analyses made easy: GLMMs in R package brms](https://oliviergimenez.github.io/blog/glmm-brms/)
+
++ [Not so standard evaluations - Getting a better understanding of the tidyeval framework](https://lukas-r.blog/posts/2022-04-20-not-so-standard-evaluations/)
 
 
 ### Insights
 
-+ [Getting started with Python using R and reticulate](https://rtichoke.netlify.app/post/getting_started_with_reticulate/)
 + [Where for (loop) ARt Thou? A loop by any other name...](https://jcarroll.com.au/2022/04/22/where-for-loop-art-thou/)
+
++ [Five Minute Shiny: Skeleton Loading Screen](https://nanx.me/blog/post/shiny-loading-skeleton/)
+
++ [Getting started with Python using R and reticulate](https://rtichoke.netlify.app/post/getting_started_with_reticulate/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W17/py_notebook.png)
+
 + [RObservations #30: Fixing R’s “messy string concatenation” with a special function](https://bensstats.wordpress.com/2022/04/21/robservations-30-fixing-rs-messy-string-concatenation-with-a-special-function/)
+
 + [Loading a large, messy csv using data.table fread with cli tools](https://redwallanalytics.com/2022/04/21/loading-a-large-messy-csv-using-data-table-fread-with-cli-tools/)
-+ [Successfully Putting Shiny in Production](https://www.rstudio.com/blog/successfully-putting-shiny-in-production/)
+
 + [Play & Analyse Wordle Games](https://factbased.blogspot.com/2022/04/play-analyse-wordle-games.html)
-+ [Bayesian analyses made easy: GLMMs in R package brms](https://oliviergimenez.github.io/blog/glmm-brms/)
+
 + [6 Lessons I learned from teaching R to non-programmers](https://albert-rapp.de/post/2022-04-15-lessons-learned-from-teaching-nonprogrammers/)
+
 + [Not so standard evaluations - Getting a better understanding of the tidyeval framework](https://lukas-r.blog/posts/2022-04-20-not-so-standard-evaluations/)
+
 + [rOpenSci News Digest, April 2022](https://ropensci.org/blog/2022/04/22/ropensci-news-digest-april-2022/)
-
-
-
-
-* [parallelly 1.31.1: Better at Inferring Number of CPU Cores with Cgroups and Linux Containers](https://www.jottr.org/2022/04/22/parallelly-1.31.1/), JottR blog, 2022-04-22
 
 + [Editorial Challenges and Solutions in Software Peer Review](https://ropensci.org/blog/2022/04/19/software-review-editorial-challenges/)
 
 + [R torch for statistics (not just machine learning)](https://rgiordan.github.io/code/2022/04/01/rtorch_example.html)
 
-+ [WTF is Kubernetes and Should I Care as R User?](https://blog.rmhogervorst.nl/blog/2022/04/17/wtf-is-kubernetes-and-should-i-care-as-r-user/)
++ [Bayesian analyses made easy: GLMMs in R package brms](https://oliviergimenez.github.io/blog/glmm-brms/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W17/brms.png)
 
 + [Iterating over the rows of a data.frame with purrr -- Part 2](https://rstats-tips.net/2022/04/22/iterating-over-the-rows-of-a-data-frame-with-purrr-part-2/)
 
@@ -43,26 +56,19 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 + [Linking R and Python to retrieve financial data and plot a candlestick](https://datascienceplus.com/linking-r-and-python-to-retrieve-financial-data-and-plot-a-candlestick/)
 
-+ [Concurrent code execution with maximum flexibility and automatic resolution](https://shikokuchuo.net/posts/18-reintroducing-mirai/)
-
 + [MLDataR - Real-world Datasets for Machine Learning Applications](https://rviews.rstudio.com/2022/04/19/mldatar-real-world-datasets-for-machine-learning-applications/)
-
-### R in the Real World
-
-
 
 
 ### R in Organizations
 
++ [Successfully Putting Shiny in Production](https://www.rstudio.com/blog/successfully-putting-shiny-in-production/)
 
-
-### R in Academia
-
-
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W17/shinyproduction.gif)
 
 ### Resources
 
 + [Cash Rate Scraper](https://github.com/MattCowgill/cash-rate-scraper)
+
 
 ### New Packages
 
@@ -70,40 +76,23 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 **CRAN**
 
-
-
-**BioC**
-
-
++ [{ivis} 0.1.0](https://blog.davisvaughan.com/2022/04/20/ivs-0-1-0/)
 
 **GitHub or Bitbucket**
 
 + [{designer} 0.0.0.9000](https://github.com/ashbaldry/designer): 'Shiny' application UI drag-and-drop helper.
 
+
 ### Updated Packages
 
 + [{seasonal} 1.9](https://www.cynkra.com/blog/2022-04-19-seasonal-1.9/): Accessing composite output
-
 * [{matrixStats} 0.62.0](https://cran.r-project.org/package=matrixStats): Functions that Apply to Rows and Columns of Matrices (and to Vectors)
++ [New features in {overviewR}](https://cosimameyer.rbind.io/post/new-features-in-overviewr/)
+* [parallelly 1.31.1: Better at Inferring Number of CPU Cores with Cgroups and Linux Containers](https://www.jottr.org/2022/04/22/parallelly-1.31.1/)
 * [{parallelly} 1.31.1](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package
 + [{lambdr} 1.2.0](https://lambdr.mdneuzerling.com/): Create a Runtime for Serving Containerised R Functions on AWS Lambda.
 + [{ftExtra} 0.4.0](https://github.com/atusy/ftExtra/): Extensions for 'Flextable'.
 + [{ggtrace} 0.5.1](https://yjunechoe.github.io/ggtrace/): Programmatically explore, debug, and manipulate ggplot internals
-
-### Videos and Podcasts
-
-
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
 
 
 ### Tutorials
@@ -113,6 +102,7 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [Dealing with flaky GitHub Actions](https://epiforecasts.io/posts/2022-04-11-robust-actions/index.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+
 
 ### R Project Updates
 
