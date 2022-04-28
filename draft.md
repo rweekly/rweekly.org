@@ -42,7 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+* [{conductor} 0.1.0](https://conductor.etiennebacher.com/#/): Create tours in Shiny apps using shepherd.js.
 
 **BioC**
 
