@@ -33,7 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Resources
-
++ [Introduction to Regular Expressions in R](https://rolkra.github.io/regex-for-beginners-detect/)
 
 
 ###  New Packages
