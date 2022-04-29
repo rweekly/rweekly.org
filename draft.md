@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Embedding R.framework in a Qt Mac App, and Cross Compiling for Two Architectures](https://www.amirmasoudabdol.name/embedding-rframework-in-a-qt-mac-app-and-cross-compiling-for-two-architectures/)
 
 ### R in the Real World
 
