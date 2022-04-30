@@ -20,6 +20,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Embedding R.framework in a Qt Mac App, and Cross Compiling for Two Architectures](https://www.amirmasoudabdol.name/embedding-rframework-in-a-qt-mac-app-and-cross-compiling-for-two-architectures/)
 
++ [Speed Up Data Analytics and Wrangling With Parquet Files](https://www.rstudio.com/blog/speed-up-data-analytics-with-parquet-files/)
+
 ### R in the Real World
 
 
@@ -35,6 +37,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Resources
 + [Introduction to Regular Expressions in R](https://rolkra.github.io/regex-for-beginners-detect/)
 
++ [RStudio Community Table Gallery](https://www.rstudio.com/blog/rstudio-community-table-gallery/)
 
 ###  New Packages
 
