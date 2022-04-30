@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Embedding R.framework in a Qt Mac App, and Cross Compiling for Two Architectures](https://www.amirmasoudabdol.name/embedding-rframework-in-a-qt-mac-app-and-cross-compiling-for-two-architectures/)
 
 ### R in the Real World
 
@@ -33,7 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Resources
-
++ [Introduction to Regular Expressions in R](https://rolkra.github.io/regex-for-beginners-detect/)
 
 
 ###  New Packages
@@ -42,7 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+* [{conductor} 0.1.0](https://conductor.etiennebacher.com/#/): Create tours in Shiny apps using shepherd.js.
 
 **BioC**
 
