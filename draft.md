@@ -6,9 +6,7 @@ image: https://rweekly.org/public/facebook.png
 ---
 
 
-+ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
-
-This week’s release was curated by [Eric Nantz](https://twitter.com/thercast), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Eric Nantz](), with help from the R Weekly team members and contributors.
 
 
 
@@ -87,29 +85,21 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [{RSQLite} 2.2.13](https://cran.r-project.org/package=RSQLite)
 
-+ [{httr2} 0.2.0](https://cran.r-project.org/package=httr2)
 
 + [{rcheology} 4.2.0.0](https://cran.r-project.org/package=rcheology)
 
 + [{tidyfst} 1.6.5](https://cran.r-project.org/package=tidyfst)
 
-+ [{knitr} 1.39](https://cran.r-project.org/package=knitr)
 
 + [{shinybrms} 1.7.0](https://cran.r-project.org/package=shinybrms)
 
 + [{testthat} 3.1.4](https://cran.r-project.org/package=testthat)
 
-+ [{doFuture} 0.12.2](https://cran.r-project.org/package=doFuture)
-
 + [{xaringan} 0.24](https://cran.r-project.org/package=xaringan)
 
 + [{multcomp} 1.4-19](https://cran.r-project.org/package=multcomp)
 
-+ [{gtsummary} 1.6.0](https://cran.r-project.org/package=gtsummary)
-
 + [{future.apply} 1.9.0](https://cran.r-project.org/package=future.apply)
-
-+ [{rmarkdown} 2.14](https://cran.r-project.org/package=rmarkdown)
 
 + [{datamods} 1.3.0](https://cran.r-project.org/package=datamods)
 ###  Videos and Podcasts
