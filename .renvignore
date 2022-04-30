@@ -1,0 +1,11 @@
+.devcontainer/*
+_includes/*
+_layouts/*
+_posts/*
+_sass/*
+bower_components/*
+fonts/*
+images/*
+json/*
+public/*
+scripts/*
