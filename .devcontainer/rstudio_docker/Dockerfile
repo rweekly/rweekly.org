@@ -41,7 +41,7 @@ RUN echo "RENV_PATHS_CACHE=/renv/cache" >> /usr/local/lib/R/etc/Renviron
 RUN install2.r --error --skipinstalled --ncpus -1 renv remotes
 
 # [Optional] install additional R packages
-RUN install2.r --error --skipinstalled --ncpus -4 tidyRSS pkgsearch lubridate dplyr rtweet
+RUN install2.r --error --skipinstalled --ncpus -4 tidyRSS pkgsearch lubridate dplyr rtweet readr longurl tidyr twitterwidget
 
 EXPOSE 8787
 
