@@ -18,6 +18,8 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 
 + [Embedding R.framework in a Qt Mac App, and Cross Compiling for Two Architectures](https://www.amirmasoudabdol.name/embedding-rframework-in-a-qt-mac-app-and-cross-compiling-for-two-architectures/)
 
++ [Speed Up Data Analytics and Wrangling With Parquet Files](https://www.rstudio.com/blog/speed-up-data-analytics-with-parquet-files/)
+
 + [Porting a distill blog to Quarto](https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/)
 
 ### R in the Real World
@@ -38,6 +40,8 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 
 ###  Resources
 + [Introduction to Regular Expressions in R](https://rolkra.github.io/regex-for-beginners-detect/)
+
++ [RStudio Community Table Gallery](https://www.rstudio.com/blog/rstudio-community-table-gallery/)
 
 + [With Quarto coming, is R Markdown going away? No.](https://yihui.org/en/2022/04/quarto-r-markdown/)
 
