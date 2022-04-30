@@ -49,8 +49,8 @@ temp_json
 .Rproj.user
 .RData
 .vscode/settings.json
-.devcontainer
-.renvignore
+#.devcontainer
+#.renvignore
 .Rprofile
 renv/*
 renv.lock
