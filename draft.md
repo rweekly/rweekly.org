@@ -144,6 +144,8 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 
 + [Iterating over multiple database tables with R](https://www.johnmackintosh.net/blog/2022-04-28-purrr-sql/)
 
++ [Analyze Data quickly with Esquisse](https://towardsdatascience.com/how-to-analyze-data-quickly-without-tableau-but-close-66eb1f2fffd2)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
