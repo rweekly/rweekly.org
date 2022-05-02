@@ -54,7 +54,7 @@ This week’s release was curated by [Eric Nantz](https://twitter.com/thercast),
 
 + [{stanette} 2.21.3](https://cran.r-project.org/package=stanette): R Interface to Stan
 
-+ [{pipebind} 0.1.0](https://cran.r-project.org/package=pipebind): Flexible Binding for Complex Function Evaluation with the Base R |> Pipe
++ [{pipebind} 0.1.0](https://cran.r-project.org/package=pipebind): Flexible Binding for Complex Function Evaluation with the Base R `|>` Pipe
 
 + [{guix.install} 1.0.0](https://cran.r-project.org/package=guix.install): Install R Packages with GNU Guix
 
