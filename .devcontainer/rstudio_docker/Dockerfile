@@ -43,6 +43,8 @@ RUN install2.r --error --skipinstalled --ncpus -1 renv remotes
 # [Optional] install additional R packages
 RUN install2.r --error --skipinstalled --ncpus -4 tidyRSS pkgsearch lubridate dplyr rtweet readr longurl tidyr twitterwidget
 
+RUN installGithub.r rweekly/rweekly.tools
+
 EXPOSE 8787
 
 CMD ["/init"]

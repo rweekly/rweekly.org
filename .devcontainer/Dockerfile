@@ -82,5 +82,7 @@ RUN /rocker_scripts/install_quarto.sh
 # [Optional] install additional R packages
 RUN install2.r --error --skipinstalled --ncpus -4 tidyRSS pkgsearch lubridate dplyr rtweet readr longurl tidyr twitterwidget
 
+RUN installGithub.r rweekly/rweekly.tools
+
 # [Optional] Set the default user. Omit if you want to keep the default as root.
 USER $USERNAME
