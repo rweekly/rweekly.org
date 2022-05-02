@@ -6,7 +6,7 @@ image: https://rweekly.org/public/facebook.png
 ---
 
 
-This week’s release was curated by [Eric Nantz](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Eric Nantz](https://twitter.com/thercast), with help from the R Weekly team members and contributors.
 
 
 
@@ -26,26 +26,24 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 
 + [shinytest2, Rhino R Shiny framework top news at Appsilon conference](https://www.infoworld.com/article/3658981/shinytest2-rhino-r-shiny-framework-top-news-at-appsilon-conference.html)
 
-
-
-###  R in Organizations
-
-
-
 ###  R in Academia
 
 + [Using Shiny to create an academic poster](https://bryer.org/post/2022-04-25-shiny_posters/)
 
-
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W18/ShinyPoster_screenshot_600.png)
 
 ###  Resources
 + [Introduction to Regular Expressions in R](https://rolkra.github.io/regex-for-beginners-detect/)
 
 + [RStudio Community Table Gallery](https://www.rstudio.com/blog/rstudio-community-table-gallery/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W18/table_gallery_600.png)
+
 + [With Quarto coming, is R Markdown going away? No.](https://yihui.org/en/2022/04/quarto-r-markdown/)
 
 + [Diffify - Compare versions of R packages at a click of a button](https://www.jumpingrivers.com/blog/diffify-launch)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W18/dplyr_changed_args_600.png)
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -61,8 +59,6 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 + [{guix.install} 1.0.0](https://cran.r-project.org/package=guix.install): Install R Packages with GNU Guix
 
 + [{gson} 0.0.4](https://cran.r-project.org/package=gson): Base Class and Methods for 'gson' Format
-
-+ [{conductor} 0.1.0](https://cran.r-project.org/package=conductor): Create Tours in 'Shiny' Apps Using 'Shepherd.js'
 
 + [{shinytest2} 0.1.0](https://cran.r-project.org/package=shinytest2): Testing for Shiny Applications
 
@@ -81,7 +77,6 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 **GitHub or Bitbucket**
 
 + [{shinyValidator}](http://opensource.nibr.com/shinyValidator): Automate the audit of a Shiny app project's quality
-
 
 ### Updated Packages
 
@@ -118,29 +113,21 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 
 + [TidyX 102 - Sampling, Simulation, and Intro to Bayes - Normal-Normal Conjugate](https://www.youtube.com/watch?v=3VXvQhH9KzE)
 
-
-
-
-
 ### Gist & Cookbook
 
 + [Masterclass: Top Innovations in Shiny in 2022 resources (Pedro Silva)](https://gist.github.com/pedrocoutinhosilva/4900c45bdaf068353086cdc29df02dd9)
 
-
-
 ### Shiny Apps
 
 + [Rhino - Build high quality, enterprise-grade Shiny apps at speed](https://appsilon.github.io/rhino)
-
-### R Internationally
-
-
 
 ###  Tutorials
 
 + [Adding session info to blog posts](https://themockup.blog/posts/2022-04-18-session-info)
 
 + [Add {tmap} point layer with multiple symbol border colors and width](https://statnmap.com/2022-04-28-tmap-point-layer-with-multiple-symbol-border-colors-and-width/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W18/tmap_600.jpeg)
 
 + [Iterating over multiple database tables with R](https://www.johnmackintosh.net/blog/2022-04-28-purrr-sql/)
 
@@ -169,14 +156,9 @@ Events in 3 Months:
 
 + [RStudio Community Monthly Events Roundup - April 2022](https://www.rstudio.com/blog/rstudio-community-monthly-events-roundup-april-2022/)
 
-### Grants & Funding
-
-
-### Datasets
-
 ### Jobs
 
-
+[ZevRoss New position: R/Shiny Developer - Software Engineer](http://zevross.com/jobs/)
 
 
 ###  Call for Participation
@@ -185,3 +167,9 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mini <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tip: My colleague <a href="https://twitter.com/ntweetor?ref_src=twsrc%5Etfw">@ntweetor</a> introduced me to a clever code commenting strategy that makes the <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> document outline more readable. He used the little &quot;box drawing&quot; character (├ ) for sub-steps so the nested structure is clearer in the outline. <a href="https://t.co/0Ly466VNoq">pic.twitter.com/0Ly466VNoq</a></p>&mdash; Zev Ross (@zevross) <a href="https://twitter.com/zevross/status/1519318012846817282?ref_src=twsrc%5Etfw">April 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We have a deal – I have to wipe his posterior and he has to learn about posterior probabilities. <a href="https://t.co/hdGpLRHYO9">pic.twitter.com/hdGpLRHYO9</a></p>&mdash; Mikhail Popov (@bearloga) <a href="https://twitter.com/bearloga/status/1518040968833945601?ref_src=twsrc%5Etfw">April 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Such an apt insight from <a href="https://twitter.com/ian_moore_data?ref_src=twsrc%5Etfw">@ian_moore_data</a> in wrapping up day 1 of the <a href="https://twitter.com/appsilon?ref_src=twsrc%5Etfw">@appsilon</a> <a href="https://twitter.com/hashtag/ShinyConf2022?src=hash&amp;ref_src=twsrc%5Etfw">#ShinyConf2022</a> noting that this is one of the few web development communities where most of us are not web developers &amp; that diversity is to be celebrated <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/shiny?src=hash&amp;ref_src=twsrc%5Etfw">#shiny</a></p>&mdash; Jon Calder (@jonmcalder) <a href="https://twitter.com/jonmcalder/status/1519368842199412737?ref_src=twsrc%5Etfw">April 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
