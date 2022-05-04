@@ -42,6 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{unifir} 0.2.0](https://cran.r-project.org/package=unifir): A Unifying API for Working with Unity from R
 
 
 **BioC**
