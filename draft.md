@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Storytelling in ggplot using rounded rectangles](https://albert-rapp.de/post/2022-05-01-use-grobs-to-get-rounded-corners/)
 
 ### R in the Real World
 
