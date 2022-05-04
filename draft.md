@@ -58,7 +58,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [Use {janitor} to clean Excel files with R](https://www.youtube.com/watch?v=AKPvlNWZBEQ)
 
 ### Gist & Cookbook
 
