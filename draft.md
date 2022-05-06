@@ -74,6 +74,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Fitting a basic Fay-Herriot model in Stan and JAGS](https://www.practicalsignificance.com/posts/basic-fay-herriot-code/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
