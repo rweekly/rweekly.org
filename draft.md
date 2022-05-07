@@ -22,6 +22,10 @@ This week’s release was curated by [Colin Fay](https://colinfay.me/), with hel
 
 + [Are R loops really that slow?](https://medium.com/@alwinw/are-r-loops-really-that-slow-1bbf46b21fcb)
 
++ [Analyze your Twitter timeline with {rtweet} and {lubridate}](https://albert-rapp.de/post/2022-05-06-track-twitter-follower/)
+
+
+
 ### R in the Real World
 
 + [The link between Food Hygiene Ratings and Deprivation](https://www.jumpingrivers.com/blog/food-hygiene-ratings-uk-deprivation/)
