@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [March: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/04/28/march-top-40-new-cran-packages/)
 
 
 ### R in the Real World
@@ -96,6 +97,8 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
+
++ [RStudio Community Monthly Events Roundup - May 2022](https://www.rstudio.com/blog/rstudio-community-monthly-events-roundup-may-2022/)
 
 
 ### Grants & Funding
