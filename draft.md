@@ -88,6 +88,8 @@ This week’s release was curated by [Colin Fay](https://colinfay.me/), with hel
 
 + [Simple procedural dungeons in R](https://www.rostrum.blog/2022/05/01/dungeon/)
 
++ [A guide to modeling outcomes that have lots of zeros with Bayesian hurdle lognormal and hurdle Gaussian regression models](https://www.andrewheiss.com/blog/2022/05/09/hurdle-lognormal-gaussian-brms/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
