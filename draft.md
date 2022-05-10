@@ -20,6 +20,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [March: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/04/28/march-top-40-new-cran-packages/)
 
++ [torch outside the box](https://blogs.rstudio.com/ai/posts/2022-04-27-torch-outside-the-box/)
+
 
 ### R in the Real World
 
