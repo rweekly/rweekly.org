@@ -22,6 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [torch outside the box](https://blogs.rstudio.com/ai/posts/2022-04-27-torch-outside-the-box/)
 
++ [Exploring RStudio’s Visual Markdown Editor](https://www.rstudio.com/blog/exploring-rstudio-visual-markdown-editor/)
 
 ### R in the Real World
 
