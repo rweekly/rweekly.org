@@ -54,7 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-
+ + [{makepipe} 0.2.0](https://cran.r-project.org/package=makepipe)
 
 ###  Videos and Podcasts
 
