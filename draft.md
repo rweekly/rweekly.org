@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [New nonlinear least squares solvers in R with {gslnls}](https://www.jchau.org/2022/05/01/new-nonlinear-least-squares-solvers-in-r-with-gslnls/)
 
 
 ### R in the Real World
@@ -73,8 +74,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Tutorials
-
-
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
