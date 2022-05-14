@@ -20,6 +20,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [New nonlinear least squares solvers in R with {gslnls}](https://www.jchau.org/2022/05/01/new-nonlinear-least-squares-solvers-in-r-with-gslnls/)
 
++ [March: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/04/28/march-top-40-new-cran-packages/)
+
++ [torch outside the box](https://blogs.rstudio.com/ai/posts/2022-04-27-torch-outside-the-box/)
+
 
 ### R in the Real World
 
@@ -35,7 +39,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [Skimming #rstats on Twitter](https://rviews.rstudio.com/2022/05/13/skimming-rstats-on-twitter/)
 
 ###  New Packages
 
@@ -55,6 +59,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [{makepipe} 0.2.0](https://cran.r-project.org/package=makepipe)
+
++ [{nanonext} 0.5.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library
 
 
 ###  Videos and Podcasts
@@ -74,6 +81,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Tutorials
+
++ [Exploring RStudio’s Visual Markdown Editor](https://www.rstudio.com/blog/exploring-rstudio-visual-markdown-editor/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -95,6 +104,8 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
+
++ [RStudio Community Monthly Events Roundup - May 2022](https://www.rstudio.com/blog/rstudio-community-monthly-events-roundup-may-2022/)
 
 
 ### Grants & Funding
