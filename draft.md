@@ -129,6 +129,7 @@ Events in 3 Months:
 
 ###  Call for Participation
 
++ [RainbowR Public Chat on Zoom](https://us02web.zoom.us/meeting/register/tZUpc-qurT4pE9Oze7-vuTyLdj-3g7-BGmmj) - May 18
 
 ###  Quotes of the Week
 
