@@ -47,7 +47,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{ggblanket} 1.0.0](https://github.com/davidhodge931/ggblanket): Wrappers to Make Beautiful ggplot2 Visualisation Simpler.
 
 **BioC**
 
@@ -55,7 +55,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [{ggblend} 0.0.0.9000](https://github.com/mjskay/ggblend): Support for blend modes in ggplot2.
 
++ [{bsutils} 0.0.0.9000](https://github.com/JohnCoene/bsutils): 'Shiny' Utilities for 'Bootstrap 5'.
 
 ### Updated Packages
 
@@ -63,14 +65,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{nanonext} 0.5.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library
 
++ [{flightsbr} 0.2.0](https://github.com/ipeaGIT/flightsbr): R Package to Download Flight and Airport Data from Brazil.
+
 
 ###  Videos and Podcasts
 
-
++ [R/Pharma 2021 Day 1. Mike Smith. There’s only one R in Pfizer](https://www.youtube.com/watch?v=bnRdI6jvGpM)
 
 ### Gist & Cookbook
 
-
++ [Number of books featured in the @nytimes fiction bestsellers for this week's #TidyTuesday. First "published" plot using @coolbutuseless's {ggsvg} code](https://github.com/gkaramanis/tidytuesday/tree/master/2022/2022-week_19)
 
 ### Shiny Apps
 
@@ -81,6 +85,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Tutorials
+
++ [Regular expressions in R](https://jfjelstul.github.io/regular-expressions-tutorial/)
 
 + [Exploring RStudio’s Visual Markdown Editor](https://www.rstudio.com/blog/exploring-rstudio-visual-markdown-editor/)
 
@@ -107,6 +113,7 @@ Events in 3 Months:
 
 + [RStudio Community Monthly Events Roundup - May 2022](https://www.rstudio.com/blog/rstudio-community-monthly-events-roundup-may-2022/)
 
++ [Shiny in Production (October 4-5, 2022)](https://www.jumpingrivers.com/blog/shiny-in-production-conference/)
 
 ### Grants & Funding
 
@@ -115,10 +122,16 @@ Events in 3 Months:
 
 ### Jobs
 
++ [Data Scientist - Cynkra](https://www.cynkra.com/blog/2022-04-27-data-scientist/)
 
++ [Research Software Engineer - University of Sheffield (Faculty of Engineering - Department of Computer Science)](https://www.jobs.ac.uk/job/CPR556/research-software-engineer)
 
 
 ###  Call for Participation
 
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Monday&#39;s Question of the Day:<br><br>To the R experts, what&#39;s a &quot;beginner&quot; mistake you made this week? 🙈 <br><br>Let&#39;s show the newer users that simple coding mistakes != bad programmer.👩‍💻</p>&mdash; We are R-Ladies (@WeAreRLadies) <a href="https://twitter.com/WeAreRLadies/status/1523777331386458178?ref_src=twsrc%5Etfw">May 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
