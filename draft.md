@@ -58,7 +58,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [{makepipe} 0.2.0](https://cran.r-project.org/package=makepipe)
+
 + [{nanonext} 0.5.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library
+
 
 ###  Videos and Podcasts
 
