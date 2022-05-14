@@ -18,11 +18,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [New nonlinear least squares solvers in R with {gslnls}](https://www.jchau.org/2022/05/01/new-nonlinear-least-squares-solvers-in-r-with-gslnls/)
+
 + [March: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/04/28/march-top-40-new-cran-packages/)
 
 + [torch outside the box](https://blogs.rstudio.com/ai/posts/2022-04-27-torch-outside-the-box/)
 
-+ [Exploring RStudio’s Visual Markdown Editor](https://www.rstudio.com/blog/exploring-rstudio-visual-markdown-editor/)
 
 ### R in the Real World
 
@@ -81,7 +82,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Exploring RStudio’s Visual Markdown Editor](https://www.rstudio.com/blog/exploring-rstudio-visual-markdown-editor/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
