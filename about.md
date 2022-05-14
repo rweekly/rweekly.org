@@ -15,7 +15,7 @@ Mail R Weekly - mail at rweekly.org
 
 Team Members (alphabet order)
 
-[Batool Almarzouq](https://github.com/BatoolMM), [Colin Fay](https://github.com/ColinFay), [Eric Nantz](https://github.com/thercast), [Jon Calder](https://github.com/jonmcalder), [Jonathan Carroll](https://github.com/jonocarroll), [Kelly N. Bodwin](https://github.com/kbodwin), [Miles McBain](https://github.com/MilesMcBain), [Robert Hickman](https://github.com/RobWHickman), [Ryo Nakagawara](https://github.com/Ryo-N7), [Tony ElHabr](https://github.com/tonyelhabr), [Wolfram Qin](https://github.com/qinwf)
+[Batool Almarzouq](https://github.com/BatoolMM), [Colin Fay](https://github.com/ColinFay), [Eric Nantz](https://github.com/thercast), [Jon Calder](https://github.com/jonmcalder), [Jonathan Carroll](https://github.com/jonocarroll), [Kelly N. Bodwin](https://github.com/kbodwin), [Miles McBain](https://github.com/MilesMcBain), [Robert Hickman](https://github.com/RobWHickman), [Ryo Nakagawara](https://github.com/Ryo-N7), [Sam Parmar](https://github.com/parmsam), [Tony ElHabr](https://github.com/tonyelhabr), [Wolfram Qin](https://github.com/qinwf)
 
 
 ## Social Medias

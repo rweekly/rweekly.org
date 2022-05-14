@@ -1,0 +1,8 @@
+{
+    "type": "R-Debugger",
+    "request": "launch",
+    "name": "Launch Workspace",
+    "debugMode": "workspace",
+    "workingDirectory": "${workspaceFolder}",
+    "allowGlobalDebugging": true
+  }
