@@ -38,7 +38,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [Skimming #rstats on Twitter](https://rviews.rstudio.com/2022/05/13/skimming-rstats-on-twitter/)
 
 ###  New Packages
 
