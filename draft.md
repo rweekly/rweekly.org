@@ -41,6 +41,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Skimming #rstats on Twitter](https://rviews.rstudio.com/2022/05/13/skimming-rstats-on-twitter/)
 
++ [A WebGPU Graphics Device for R (Slides)](https://yutannihilation.github.io/wgpugd-presentation-202205/en.html)
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
