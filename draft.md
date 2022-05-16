@@ -20,6 +20,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Key data viz principles implemented in R](https://appsilon.com/key-data-visualization-principles/)
 
++ [Counting characters in a number](https://twitter.com/cararthompson/status/1525114767614087169?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1525114767614087169%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fcararthompson2Fstatus2F1525114767614087169widget%3DTweet)
+
+![](pic)
+
++ [Code line highlighting in Quarto](https://www.pipinghotdata.com/posts/2022-05-12-code-line-highlighting-in-quarto-revealjs-presentations/)
+
 
 ### R in the Real World
 
@@ -36,6 +42,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [ascotraceR: An R Package resource to simulate the spread of blight in a chickpea field (paper)](https://apsjournals.apsnet.org/doi/pdf/10.1094/PHYTO-01-22-0016-A)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BRCA1 gene - Converting coding regions of a gene to binary, randomizing circle size and width. <a href="https://twitter.com/hashtag/R?src=hash&amp;ref_src=twsrc%5Etfw">#R</a> <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://t.co/zxX6XstAUm">pic.twitter.com/zxX6XstAUm</a></p>&mdash; Nick Borcherding (@theHumanBorch) <a href="https://twitter.com/theHumanBorch/status/1524776365467344898?ref_src=twsrc%5Etfw">May 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ###  Resources
 
 + [Skimming #rstats on Twitter](https://rviews.rstudio.com/2022/05/13/skimming-rstats-on-twitter/)
@@ -43,6 +51,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [A WebGPU Graphics Device for R (Slides)](https://yutannihilation.github.io/wgpugd-presentation-202205/en.html)
 
 + [Debugging cheat sheet](https://preview.redd.it/p1i8awsivji51.jpg?width=960&crop=smart&auto=webp&s=83ed8c62f2c942f7f672c685a83996b486699302)
+
++ [Psych 252: Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/psych252book/)
 
 ###  New Packages
 
@@ -54,6 +64,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{ggblanket} 1.0.0](https://github.com/davidhodge931/ggblanket): Wrappers to Make Beautiful ggplot2 Visualisation Simpler.
 
+
 + [{collapse} 1.8.1](https://sebkrantz.github.io/collapse/news/index.html)
 
 **BioC**
@@ -61,6 +72,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **GitHub or Bitbucket**
+
++ [{tr808r}](https://github.com/coolbutuseless/tr808r):  Drum machine
 
 + [{ggblend} 0.0.0.9000](https://github.com/mjskay/ggblend): Support for blend modes in ggplot2.
 
@@ -79,6 +92,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{roxygen2} 7.2.0](https://t.co/nMV59REKl5)
 
 + [Apache {arrow} 8.0.0](https://arrow.apache.org/docs/r/news/index.html)
+
++ [{distill} 1.4](https://pkgs.rstudio.com/distill/news/index.html#distill-14-cran)
 
 ###  Videos and Podcasts
 
@@ -133,6 +148,8 @@ Events in 3 Months:
 
 + [Big Data Belfast](https://www.bigdatabelfast.com/): May 25th
 
++ [Fitting distributions in R (NHS workshop)](https://www.eventbrite.co.uk/e/nhs-r-workshop-fitting-distributions-in-r-june-2022-tickets-338906667967?aff=estw&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-source=tw&utm-term=listing): June 8th
+
 + [New York R Conference](https://rstats.ai/nyr/): June 8th-10th
 
 + [UseR! (Online)](https://user2022.r-project.org/): June 20th-23rd
@@ -154,11 +171,15 @@ Events in 3 Months:
 
 + [{pharmaR} case studies](https://t.co/RlsF9WzQLn)
 
++ [{dcflights21} flights to and from DC](https://github.com/simonpcouch/dcflights21)
+
 ### Art
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rugged waves <a href="https://twitter.com/hashtag/creativecoding?src=hash&amp;ref_src=twsrc%5Etfw">#creativecoding</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/ZPHWV5YsGR">pic.twitter.com/ZPHWV5YsGR</a></p>&mdash; Saurabh Dhiman (@saurabhdhiman) <a href="https://twitter.com/saurabhdhiman/status/1525158177540476929?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pickover 30<a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/g3AN6dr5ba">pic.twitter.com/g3AN6dr5ba</a></p>&mdash; Jacquie Tran (@jacquietran) <a href="https://twitter.com/jacquietran/status/1525306492186165248?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s a different kind of danger.<br> <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://t.co/xiXmnyeLhq">pic.twitter.com/xiXmnyeLhq</a></p>&mdash; Ijeamaka A (@ijeamaka_a) <a href="https://twitter.com/ijeamaka_a/status/1524964709476093952?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Jobs
 
@@ -177,4 +198,6 @@ Events in 3 Months:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> is not mincing words about my new data 🥲 <a href="https://t.co/8me11CKmzt">pic.twitter.com/8me11CKmzt</a></p>&mdash; Kate Petrova (@kate_ptrv) <a href="https://twitter.com/kate_ptrv/status/1525304728904531968?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">RStudio is pre-approved software for install at work. Wonderful.<br>R is not, and has been subject to a three month &quot;investigation&quot; by cyber security and risk assurance teams. Not wonderful.<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a></p>&mdash; Cam Ritchie (@cmrlefty) <a href="https://twitter.com/cmrlefty/status/1524897311813300224?ref_src=twsrc%5Etfw">May 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Morris&#39; Rule: the fastest way to get someone to explain how to do something in R is to post a tweet asking how (or saying how...) to do it in Stata</p>&mdash; Andrew Althouse (@ADAlthousePhD) <a href="https://twitter.com/ADAlthousePhD/status/1524755443448307712?ref_src=twsrc%5Etfw">May 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
