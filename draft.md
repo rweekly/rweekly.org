@@ -18,11 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [New nonlinear least squares solvers in R with {gslnls}](https://www.jchau.org/2022/05/01/new-nonlinear-least-squares-solvers-in-r-with-gslnls/)
-
-+ [March: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/04/28/march-top-40-new-cran-packages/)
-
-+ [torch outside the box](https://blogs.rstudio.com/ai/posts/2022-04-27-torch-outside-the-box/)
++ [Key data viz principles implemented in R](https://appsilon.com/key-data-visualization-principles/)
 
 
 ### R in the Real World
@@ -46,6 +42,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My mental model of libraries and packages in <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a><a href="https://twitter.com/hashtag/RStatsMemes?src=hash&amp;ref_src=twsrc%5Etfw">#RStatsMemes</a> <a href="https://t.co/5Ijv17x720">pic.twitter.com/5Ijv17x720</a></p>&mdash; mikefc (@coolbutuseless) <a href="https://twitter.com/coolbutuseless/status/1524506807536091136?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **CRAN**
 
@@ -78,6 +76,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Number of books featured in the @nytimes fiction bestsellers for this week's #TidyTuesday. First "published" plot using @coolbutuseless's {ggsvg} code](https://github.com/gkaramanis/tidytuesday/tree/master/2022/2022-week_19)
 
++ [Title words in NYT bestsellers](https://github.com/Pecners/tidytuesday)
+
 ### Shiny Apps
 
 
@@ -91,6 +91,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Regular expressions in R](https://jfjelstul.github.io/regular-expressions-tutorial/)
 
 + [Exploring RStudio’s Visual Markdown Editor](https://www.rstudio.com/blog/exploring-rstudio-visual-markdown-editor/)
+
++ [GIS and mapping in R](https://oliviergimenez.github.io/intro_spatialR/#1)
+
+![](pic)
+
++ [Lognormal and hurdle Gaussian models with {brms}] https://www.andrewheiss.com/blog/2022/05/09/hurdle-lognormal-gaussian-brms/)
+
++ [Using the {ggthemes} package](https://statisticsglobe.com/ggthemes-package-r)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -121,6 +129,10 @@ Events in 3 Months:
 
 
 ### Datasets
+
+### Art
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rugged waves <a href="https://twitter.com/hashtag/creativecoding?src=hash&amp;ref_src=twsrc%5Etfw">#creativecoding</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/ZPHWV5YsGR">pic.twitter.com/ZPHWV5YsGR</a></p>&mdash; Saurabh Dhiman (@saurabhdhiman) <a href="https://twitter.com/saurabhdhiman/status/1525158177540476929?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Jobs
 
