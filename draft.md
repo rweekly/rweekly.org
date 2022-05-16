@@ -23,7 +23,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [IRRBB Interest Rate Shock Scenarios using R code](https://kiandlee.blogspot.com/2022/05/irrbb-interest-rate-shock-scenarios.html)
 
 ###  R in Organizations
 
@@ -31,13 +31,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
++ [ascotraceR: An R Package resource to simulate the spread of blight in a chickpea field (paper)](https://apsjournals.apsnet.org/doi/pdf/10.1094/PHYTO-01-22-0016-A)
 
 ###  Resources
 
 + [Skimming #rstats on Twitter](https://rviews.rstudio.com/2022/05/13/skimming-rstats-on-twitter/)
 
 + [A WebGPU Graphics Device for R (Slides)](https://yutannihilation.github.io/wgpugd-presentation-202205/en.html)
+
++ [Debugging cheat sheet](https://preview.redd.it/p1i8awsivji51.jpg?width=960&crop=smart&auto=webp&s=83ed8c62f2c942f7f672c685a83996b486699302)
 
 ###  New Packages
 
@@ -48,6 +50,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 
 + [{ggblanket} 1.0.0](https://github.com/davidhodge931/ggblanket): Wrappers to Make Beautiful ggplot2 Visualisation Simpler.
+
++ [{collapse} 1.8.1](https://sebkrantz.github.io/collapse/news/index.html)
 
 **BioC**
 
@@ -100,6 +104,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Using the {ggthemes} package](https://statisticsglobe.com/ggthemes-package-r)
 
++ [How to make a rounded corner bar plot in R](https://datasciencetut.com/how-to-make-a-rounded-corner-bar-plot-in-r/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -112,6 +118,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 Events in 3 Months:
 
 + [Big Data Belfast](https://www.bigdatabelfast.com/): May 25th
+
++ [New York R Conference](https://rstats.ai/nyr/): June 8th-10th
 
 + [UseR! (Online)](https://user2022.r-project.org/): June 20th-23rd
 
