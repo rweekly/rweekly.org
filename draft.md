@@ -26,6 +26,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Code line highlighting in Quarto](https://www.pipinghotdata.com/posts/2022-05-12-code-line-highlighting-in-quarto-revealjs-presentations/)
 
++ [Predict NYT bestsellers](https://juliasilge.com/blog/nyt-bestsellers/)
+
++ [New r4ds chapter: missing values](https://r4ds.hadley.nz/missing-values.html)
+
 
 ### R in the Real World
 
@@ -33,9 +37,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <blockquote class="twitter-tweet"><p lang="nl" dir="ltr">door %&gt;% ggplot(art.x, art.y) %&gt;% geom_violinhalf() <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/ggplot?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot</a> <a href="https://t.co/T0Atm6JTCr">pic.twitter.com/T0Atm6JTCr</a></p>&mdash; Claire (she/they 🏳️‍🌈) (@ClaireECusack) <a href="https://twitter.com/ClaireECusack/status/1525134764981772289?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
++ [R Cakes over the years](https://twitter.com/juli_tkotz/status/1523926667210727425?s=20&t=Wfv37zNitfDHiTkmf6BHHg)
+
 ###  R in Organizations
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you want to be involved with RainbowR, come join our chat ! // Retweets are appreciated 🌈<br><br>May 18th 4pm UTC (9 am Pacific) <a href="https://t.co/Gxh5cKwHSr">https://t.co/Gxh5cKwHSr</a><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/LGBTQ?src=hash&amp;ref_src=twsrc%5Etfw">#LGBTQ</a> <a href="https://twitter.com/hashtag/WomenWhoCode?src=hash&amp;ref_src=twsrc%5Etfw">#WomenWhoCode</a> <a href="https://twitter.com/hashtag/WomenInSTEM?src=hash&amp;ref_src=twsrc%5Etfw">#WomenInSTEM</a> <a href="https://twitter.com/hashtag/LatinR?src=hash&amp;ref_src=twsrc%5Etfw">#LatinR</a> <a href="https://t.co/IUrxOiM4ag">pic.twitter.com/IUrxOiM4ag</a></p>&mdash; R LGBTQ+ (@R_LGBTQ) <a href="https://twitter.com/R_LGBTQ/status/1525279106723504129?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
++ [Nominations for bioconductor community award](http://bioconductor.org/about/awards/)
 
 
 ###  R in Academia
@@ -53,6 +61,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Debugging cheat sheet](https://preview.redd.it/p1i8awsivji51.jpg?width=960&crop=smart&auto=webp&s=83ed8c62f2c942f7f672c685a83996b486699302)
 
 + [Psych 252: Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/psych252book/)
+
++ [Learn R for Health Researchers](https://hstack.netlify.app/)
 
 ###  New Packages
 
@@ -79,6 +89,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{bsutils} 0.0.0.9000](https://github.com/JohnCoene/bsutils): 'Shiny' Utilities for 'Bootstrap 5'.
 
++ [{lterpalettefinder}](https://t.co/vd9Yy3cdDq)
+
 ### Updated Packages
 
 + [{makepipe} 0.2.0](https://cran.r-project.org/package=makepipe)
@@ -94,6 +106,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Apache {arrow} 8.0.0](https://arrow.apache.org/docs/r/news/index.html)
 
 + [{distill} 1.4](https://pkgs.rstudio.com/distill/news/index.html#distill-14-cran)
+
++ [{stplanr} 0.9.0](https://twitter.com/robinlovelace/status/1524322342926798849/photo/1)
+
++ [{mvMORPH} 1.1.6](https://cran.r-project.org/web/packages/mvMORPH/index.html)
+
++ [{biscale} 0.2.0](https://github.com/slu-openGIS/biscale)
 
 ###  Videos and Podcasts
 
@@ -148,6 +166,8 @@ Events in 3 Months:
 
 + [Big Data Belfast](https://www.bigdatabelfast.com/): May 25th
 
++ [Mapping interactively with R Shiny (R-Ladies Brisbane)](https://www.meetup.com/rladies-brisbane/events/285712871/): May 26th
+
 + [Fitting distributions in R (NHS workshop)](https://www.eventbrite.co.uk/e/nhs-r-workshop-fitting-distributions-in-r-june-2022-tickets-338906667967?aff=estw&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-source=tw&utm-term=listing): June 8th
 
 + [New York R Conference](https://rstats.ai/nyr/): June 8th-10th
@@ -173,6 +193,10 @@ Events in 3 Months:
 
 + [{dcflights21} flights to and from DC](https://github.com/simonpcouch/dcflights21)
 
++ [{cansim}: Statistics from Canada](https://mountainmath.github.io/cansim/index.html)
+
++ [{FHSTR}: Olympic data](https://github.com/b4billy/FHSTR)
+
 ### Art
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rugged waves <a href="https://twitter.com/hashtag/creativecoding?src=hash&amp;ref_src=twsrc%5Etfw">#creativecoding</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/ZPHWV5YsGR">pic.twitter.com/ZPHWV5YsGR</a></p>&mdash; Saurabh Dhiman (@saurabhdhiman) <a href="https://twitter.com/saurabhdhiman/status/1525158177540476929?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -186,6 +210,10 @@ Events in 3 Months:
 + [Data Scientist - Cynkra](https://www.cynkra.com/blog/2022-04-27-data-scientist/)
 
 + [Research Software Engineer - University of Sheffield (Faculty of Engineering - Department of Computer Science)](https://www.jobs.ac.uk/job/CPR556/research-software-engineer)
+
++ [Senior Research Software Engineer - data.org](https://data.org/careers/senior-research-software-engineer/?utm_campaign=coschedule&utm_source=twitter&utm_medium=DataDotOrg)
+
++ [R Analytics Developer - Looma](https://the-looma-project.breezy.hr/p/b577a5ca6641-r-analytics-developer)
 
 
 ###  Call for Participation
