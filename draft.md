@@ -25,8 +25,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [IRRBB Interest Rate Shock Scenarios using R code](https://kiandlee.blogspot.com/2022/05/irrbb-interest-rate-shock-scenarios.html)
 
+<blockquote class="twitter-tweet"><p lang="nl" dir="ltr">door %&gt;% ggplot(art.x, art.y) %&gt;% geom_violinhalf() <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/ggplot?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot</a> <a href="https://t.co/T0Atm6JTCr">pic.twitter.com/T0Atm6JTCr</a></p>&mdash; Claire (she/they 🏳️‍🌈) (@ClaireECusack) <a href="https://twitter.com/ClaireECusack/status/1525134764981772289?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ###  R in Organizations
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you want to be involved with RainbowR, come join our chat ! // Retweets are appreciated 🌈<br><br>May 18th 4pm UTC (9 am Pacific) <a href="https://t.co/Gxh5cKwHSr">https://t.co/Gxh5cKwHSr</a><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/LGBTQ?src=hash&amp;ref_src=twsrc%5Etfw">#LGBTQ</a> <a href="https://twitter.com/hashtag/WomenWhoCode?src=hash&amp;ref_src=twsrc%5Etfw">#WomenWhoCode</a> <a href="https://twitter.com/hashtag/WomenInSTEM?src=hash&amp;ref_src=twsrc%5Etfw">#WomenInSTEM</a> <a href="https://twitter.com/hashtag/LatinR?src=hash&amp;ref_src=twsrc%5Etfw">#LatinR</a> <a href="https://t.co/IUrxOiM4ag">pic.twitter.com/IUrxOiM4ag</a></p>&mdash; R LGBTQ+ (@R_LGBTQ) <a href="https://twitter.com/R_LGBTQ/status/1525279106723504129?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ###  R in Academia
@@ -71,6 +74,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{flightsbr} 0.2.0](https://github.com/ipeaGIT/flightsbr): R Package to Download Flight and Airport Data from Brazil.
 
++ [{vscode-R} 2.5.0](https://github.com/REditorSupport/vscode-R/releases/tag/v2.5.0)
+
++ [{roxygen2} 7.2.0](https://t.co/nMV59REKl5)
+
++ [Apache {arrow} 8.0.0](https://arrow.apache.org/docs/r/news/index.html)
 
 ###  Videos and Podcasts
 
@@ -106,6 +114,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to make a rounded corner bar plot in R](https://datasciencetut.com/how-to-make-a-rounded-corner-bar-plot-in-r/)
 
++ [Crisp topography with R](https://milospopovic.net/crisp-topography-map-with-r/)
+
+![](pic)
+
++ [One-Way ANOVA](https://www.r-bloggers.com/2022/05/one-way-anova-example-in-r-quick-guide/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -138,9 +152,13 @@ Events in 3 Months:
 
 ### Datasets
 
++ [{pharmaR} case studies](https://t.co/RlsF9WzQLn)
+
 ### Art
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rugged waves <a href="https://twitter.com/hashtag/creativecoding?src=hash&amp;ref_src=twsrc%5Etfw">#creativecoding</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/ZPHWV5YsGR">pic.twitter.com/ZPHWV5YsGR</a></p>&mdash; Saurabh Dhiman (@saurabhdhiman) <a href="https://twitter.com/saurabhdhiman/status/1525158177540476929?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pickover 30<a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/g3AN6dr5ba">pic.twitter.com/g3AN6dr5ba</a></p>&mdash; Jacquie Tran (@jacquietran) <a href="https://twitter.com/jacquietran/status/1525306492186165248?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Jobs
 
@@ -156,5 +174,7 @@ Events in 3 Months:
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Monday&#39;s Question of the Day:<br><br>To the R experts, what&#39;s a &quot;beginner&quot; mistake you made this week? 🙈 <br><br>Let&#39;s show the newer users that simple coding mistakes != bad programmer.👩‍💻</p>&mdash; We are R-Ladies (@WeAreRLadies) <a href="https://twitter.com/WeAreRLadies/status/1523777331386458178?ref_src=twsrc%5Etfw">May 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> is not mincing words about my new data 🥲 <a href="https://t.co/8me11CKmzt">pic.twitter.com/8me11CKmzt</a></p>&mdash; Kate Petrova (@kate_ptrv) <a href="https://twitter.com/kate_ptrv/status/1525304728904531968?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
