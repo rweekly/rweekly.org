@@ -14,6 +14,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
++ [New r4ds chapter: missing values](https://r4ds.hadley.nz/missing-values.html)
+
++ [Making a crisp topography map with R](https://milospopovic.net/crisp-topography-map-with-r/)
+
++ [{tr808r}](https://github.com/coolbutuseless/tr808r):  Play the drums with an R package
 
 
 ### Insights
@@ -22,7 +27,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Counting characters in a number](https://twitter.com/cararthompson/status/1525114767614087169?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1525114767614087169%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fcararthompson2Fstatus2F1525114767614087169widget%3DTweet)
 
-![](pic)
+![How many characters are in the number 700000?](https://raw.githubusercontent.com/rweekly/image/master/2022/W20/rweekly-chars.png)
 
 + [Code line highlighting in Quarto](https://www.pipinghotdata.com/posts/2022-05-12-code-line-highlighting-in-quarto-revealjs-presentations/)
 
@@ -133,23 +138,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Lognormal and hurdle Gaussian models with {brms}] https://www.andrewheiss.com/blog/2022/05/09/hurdle-lognormal-gaussian-brms/)
+
+![A zero-inflated lognormal Bayesian model estimate](https://raw.githubusercontent.com/rweekly/image/master/2022/W20/rweekly-lognormal.png)
+
 + [Regular expressions in R](https://jfjelstul.github.io/regular-expressions-tutorial/)
 
 + [Exploring RStudio’s Visual Markdown Editor](https://www.rstudio.com/blog/exploring-rstudio-visual-markdown-editor/)
 
 + [GIS and mapping in R](https://oliviergimenez.github.io/intro_spatialR/#1)
 
-![](pic)
-
-+ [Lognormal and hurdle Gaussian models with {brms}] https://www.andrewheiss.com/blog/2022/05/09/hurdle-lognormal-gaussian-brms/)
+![Brown bear prevalence in the Pyrenees](https://raw.githubusercontent.com/rweekly/image/master/2022/W20/rweekly-brownbear.png)
 
 + [Using the {ggthemes} package](https://statisticsglobe.com/ggthemes-package-r)
 
-+ [How to make a rounded corner bar plot in R](https://datasciencetut.com/how-to-make-a-rounded-corner-bar-plot-in-r/)
-
 + [Crisp topography with R](https://milospopovic.net/crisp-topography-map-with-r/)
 
-![](pic)
+![Topographic map of Italy](https://raw.githubusercontent.com/rweekly/image/master/2022/W20/rweekly-italy.png)
+
++ [How to make a rounded corner bar plot in R](https://datasciencetut.com/how-to-make-a-rounded-corner-bar-plot-in-r/)
 
 + [One-Way ANOVA](https://www.r-bloggers.com/2022/05/one-way-anova-example-in-r-quick-guide/)
 
