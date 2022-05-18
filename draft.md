@@ -122,6 +122,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R/Pharma 2021 Day 1. Mike Smith. There’s only one R in Pfizer](https://www.youtube.com/watch?v=bnRdI6jvGpM)
 
++ [4 ways to use colors more efficiently](https://www.youtube.com/watch?v=XqS6OUUgzIs)
+
 ### Gist & Cookbook
 
 + [Number of books featured in the @nytimes fiction bestsellers for this week's #TidyTuesday. First "published" plot using @coolbutuseless's {ggsvg} code](https://github.com/gkaramanis/tidytuesday/tree/master/2022/2022-week_19)
