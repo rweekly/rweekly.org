@@ -11,87 +11,56 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [Eric Nantz](https://r-podcast.org), with help from the R Weekly team members and contributors.
 
-
-
-###  Highlight
-
-
+### Highlight
 
 ### Insights
-
 
 + [R Markdown Tips and Tricks #3: Time-savers & Trouble-shooters](https://www.rstudio.com/blog/r-markdown-tips-and-tricks-3-time-savers/)
 
 ### R in the Real World
 
+### R in Organizations
 
+### R in Academia
 
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
-
-###  Resources
-
-
+### Resources
 
 + [Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/)
 
-###  New Packages
+### New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
 
-
-
 + [{chromatographR} 0.4.0](https://ethanbass.github.io/chromatographR): Tools for the reproducible analysis of HPLC-DAD/UV data.
 
 **BioC**
 
-
-
 **GitHub or Bitbucket**
-
-
 
 ### Updated Packages
 
-
-
-###  Videos and Podcasts
-
-
+### Videos and Podcasts
 
 + [4 ways to use colors more efficiently](https://www.youtube.com/watch?v=XqS6OUUgzIs)
 
 ### Gist & Cookbook
 
-
-
 ### Shiny Apps
-
-
 
 ### R Internationally
 
-
-
-###  Tutorials
-
-
+### Tutorials
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
-###  R Project Updates
+### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 
-###  Upcoming Events in 3 Months
+### Upcoming Events in 3 Months
 
 Events in 3 Months:
 
@@ -102,15 +71,11 @@ Events in 3 Months:
 
 ### Grants & Funding
 
-
 ### Datasets
 
 ### Jobs
 
-
-
-
-###  Call for Participation
+### Call for Participation
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
