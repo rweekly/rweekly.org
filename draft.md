@@ -35,6 +35,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [New r4ds chapter: missing values](https://r4ds.hadley.nz/missing-values.html)
 
++ [R Markdown Tips and Tricks #3: Time-savers & Trouble-shooters](https://www.rstudio.com/blog/r-markdown-tips-and-tricks-3-time-savers/)
 
 ### R in the Real World
 
@@ -68,6 +69,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Psych 252: Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/psych252book/)
 
 + [Learn R for Health Researchers](https://hstack.netlify.app/)
+
++ [Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/)
 
 ###  New Packages
 
