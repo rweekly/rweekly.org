@@ -20,6 +20,7 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 ### Insights
 
 
++ [R Markdown Tips and Tricks #3: Time-savers & Trouble-shooters](https://www.rstudio.com/blog/r-markdown-tips-and-tricks-3-time-savers/)
 
 ### R in the Real World
 
@@ -36,6 +37,8 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 ###  Resources
 
 
+
++ [Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/)
 
 ###  New Packages
 
