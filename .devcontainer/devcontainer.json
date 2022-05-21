@@ -41,7 +41,7 @@
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
-		"ikuyadeu.r",
+		"REditorSupport.r",
 		//"/renv/cache/r-latest.vslx",
 		"ionutvmi.path-autocomplete",
 		"usernamehw.errorlens",
