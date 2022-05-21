@@ -61,6 +61,8 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 
 
 
++ [4 ways to use colors more efficiently](https://www.youtube.com/watch?v=XqS6OUUgzIs)
+
 ### Gist & Cookbook
 
 
