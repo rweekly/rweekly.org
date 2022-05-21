@@ -82,6 +82,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{collapse} 1.8.1](https://sebkrantz.github.io/collapse/news/index.html)
 
++ [{chromatographR} 0.4.0](https://ethanbass.github.io/chromatographR): Tools for the reproducible analysis of HPLC-DAD/UV data.
+
 **BioC**
 
 
