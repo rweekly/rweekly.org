@@ -44,6 +44,10 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 
 + [gistillery](https://jthomasmock.github.io/gistillery/): Take local code, send it to a Github gist, get a beautiful image from Carbon.now.sh, and make it ready to share!
 
++ [dcflights21](https://github.com/simonpcouch/dcflights21): An R package supplying data on out-bound flights from airports serving Washington, DC in 2021
+
++ [ggtips](https://github.com/Roche/ggtips): Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
+
 ### Updated Packages
 
 + [marginaleffects](https://vincentarelbundock.github.io/marginaleffects/): Compute and plot adjusted predictions, marginal effects, contrasts, and marginal means for a wide variety of models.
@@ -55,6 +59,8 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 ### Gist & Cookbook
 
 ### Shiny Apps
+
++ [shinybox](https://github.com/qfes/shinybox_public): Simplified, self-contained, renv-controlled Shiny apps launched with a one liner and some handy admin tools.
 
 ### R Internationally
 
@@ -91,3 +97,6 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">TIL: If you&#39;re annoyed by your <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> github repos being marked as HTML because of the documentation that all your R code produces, add a .gitattributes file with the following:<br><br>*.html linguist-detectable=false <a href="https://t.co/4LpMaXUrdB">pic.twitter.com/4LpMaXUrdB</a></p>&mdash; Lisa DeBruine 🏳️‍🌈 (@LisaDeBruine) <a href="https://twitter.com/LisaDeBruine/status/1525428061029732354?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
