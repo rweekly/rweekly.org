@@ -48,6 +48,8 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 
 
 
++ [{chromatographR} 0.4.0](https://ethanbass.github.io/chromatographR): Tools for the reproducible analysis of HPLC-DAD/UV data.
+
 **BioC**
 
 
