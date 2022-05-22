@@ -39,7 +39,7 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 
 + [{SoundShape} 1.2.1](https://cran.r-project.org/package=SoundShape): Sound Waves Onto Morphometric Data
 
-TODO: Insert image for SoundShape
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W21/README-Fig2-2D-spectros-1_600.png)
 
 + [{sits} 1.0.0](https://cran.r-project.org/package=sits): Satellite Image Time Series Analysis for Earth Observation Data
 
