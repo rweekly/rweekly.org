@@ -38,7 +38,25 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 
 + [{chromatographR} 0.4.0](https://ethanbass.github.io/chromatographR): Tools for the reproducible analysis of HPLC-DAD/UV data.
 
-**BioC**
++ [{SoundShape} 1.2.1](https://cran.r-project.org/package=SoundShape): Sound Waves Onto Morphometric Data
+
+TODO: Insert image for SoundShape
+
++ [{sits} 1.0.0](https://cran.r-project.org/package=sits): Satellite Image Time Series Analysis for Earth Observation Data
+
++ [{shinybrowser} 1.0.0](https://cran.r-project.org/package=shinybrowser): Find Out Information About a User's Web Browser in 'Shiny'
+
++ [{webshot2} 0.1.0](https://cran.r-project.org/package=webshot2): Take Screenshots of Web Pages
+
++ [{ggbraid} 0.2.2](https://cran.r-project.org/package=ggbraid): Braid Ribbons in 'ggplot2'
+
++ [{designer} 0.1.0](https://cran.r-project.org/package=designer): 'Shiny' UI Prototype Builder
+
++ [{rdataretriever} 3.1.0](https://cran.r-project.org/package=rdataretriever): R Interface to the Data Retriever
+
++ [{chronicler} 0.2.0](https://cran.r-project.org/package=chronicler): Add Logging to Functions
+
++ [{mlr3verse} 0.2.5](https://cran.r-project.org/package=mlr3verse): Easily Install and Load the 'mlr3' Package Family
 
 **GitHub or Bitbucket**
 
@@ -52,11 +70,33 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 
 + [marginaleffects](https://vincentarelbundock.github.io/marginaleffects/): Compute and plot adjusted predictions, marginal effects, contrasts, and marginal means for a wide variety of models.
 
++ [{opencpu} 2.2.8](https://cran.r-project.org/package=opencpu)
+
++ [{rtables} 0.5.1](https://cran.r-project.org/package=rtables)
+
++ [{piggyback} 0.1.3](https://cran.r-project.org/package=piggyback)
+
++ [{tidywikidatar} 0.5.2](https://cran.r-project.org/package=tidywikidatar)
+
++ [{ReviewR} 2.3.8](https://cran.r-project.org/package=ReviewR)
+
++ [{r2rtf} 0.3.5](https://cran.r-project.org/package=r2rtf)
+
++ [{tinytex} 0.39](https://cran.r-project.org/package=tinytex)
+
++ [{mrgsolve} 1.0.4](https://cran.r-project.org/package=mrgsolve)
+
++ [{datawizard} 0.4.1](https://cran.r-project.org/package=datawizard)
+
 ### Videos and Podcasts
+
++ [TidyX episode 104: R classes and objects (date and POSIXt)](https://www.youtube.com/watch?v=atJGAE6k-p0)
 
 + [4 ways to use colors more efficiently](https://www.youtube.com/watch?v=XqS6OUUgzIs)
 
-### Gist & Cookbook
++ [Build a codenames app using {pins} and Shiny](https://www.youtube.com/watch?v=MQ5L3TSQVys)
+
++ [{gt} and {reactable} packages: Beautiful, user-friendly tables in R](https://www.youtube.com/watch?v=umDcIP5sB6g)
 
 ### Shiny Apps
 
