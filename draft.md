@@ -83,8 +83,6 @@ TODO: Insert image for SoundShape
 
 + [{r2rtf} 0.3.5](https://cran.r-project.org/package=r2rtf)
 
-+ [{tinytex} 0.39](https://cran.r-project.org/package=tinytex)
-
 + [{mrgsolve} 1.0.4](https://cran.r-project.org/package=mrgsolve)
 
 + [{datawizard} 0.4.1](https://cran.r-project.org/package=datawizard)
