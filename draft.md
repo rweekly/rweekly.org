@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2022-W2`
+title: R Weekly 2022-W21`
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -19,13 +19,12 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 
 + [Re-creating this year's Eurovison scoreboard with `ggplot2` code](https://github.com/gkaramanis/tidytuesday/tree/master/2022/2022-week_20)
 
-### R in the Real World
-
-### R in Organizations
++ [Introducting r2u with 2 x 19k CRAN binaries for Ubuntu 22.04 and 20.04](http://dirk.eddelbuettel.com/blog/2022/05/21/)
 
 ### R in Academia
 
 + [Marginalia](https://www.andrewheiss.com/blog/2022/05/20/marginalia): A guide to figuring out what the heck marginal effects, marginal slopes, average marginal effects, marginal effects at the mean, and what all these other maginal things are.
+
 ### Resources
 
 + [Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/)
@@ -66,6 +65,8 @@ TODO: Insert image for SoundShape
 
 + [ggtips](https://github.com/Roche/ggtips): Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
 
++ [flyCSV](https://github.com/aseyq/flyCSV): Check your data frame as CSV on the fly
+
 ### Updated Packages
 
 + [marginaleffects](https://vincentarelbundock.github.io/marginaleffects/): Compute and plot adjusted predictions, marginal effects, contrasts, and marginal means for a wide variety of models.
@@ -98,16 +99,22 @@ TODO: Insert image for SoundShape
 
 + [{gt} and {reactable} packages: Beautiful, user-friendly tables in R](https://www.youtube.com/watch?v=umDcIP5sB6g)
 
++ [What makes meta-analysis special? A statistics-light exploration with the Switchboard package](https://www.youtube.com/watch?v=3XkC_jetn-U)
+
++ [R-Ladies Freiburg (English) - Shiny Data Dashboards: Eurovision](https://www.youtube.com/watch?v=UGTTqhxaICU)
+
 ### Shiny Apps
 
 + [shinybox](https://github.com/qfes/shinybox_public): Simplified, self-contained, renv-controlled Shiny apps launched with a one liner and some handy admin tools.
 
++ [Hierarchical data visualization with Shiny and D3](https://laustep.github.io/stlahblog/posts/HierarchicalDataViz.html)
 ### R Internationally
 
 ### Tutorials
 
 + [Self-documenting {ggplot}s thanks to the power of monads!](https://www.brodrigues.co/blog/2022-05-15-self_doc_ggplot)
 
++ [Create machine learning models with R and tidymodels](https://docs.microsoft.com/en-us/learn/paths/machine-learning-with-r/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -120,16 +127,27 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [Big Data Belfast](https://www.bigdatabelfast.com/): May 25th
+
++ [Mapping interactively with R Shiny (R-Ladies Brisbane)](https://www.meetup.com/rladies-brisbane/events/285712871/): May 26th
+
++ [Fitting distributions in R (NHS workshop)](https://www.eventbrite.co.uk/e/nhs-r-workshop-fitting-distributions-in-r-june-2022-tickets-338906667967?aff=estw&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-source=tw&utm-term=listing): June 8th
+
++ [New York R Conference](https://rstats.ai/nyr/): June 8th-10th
+
++ [UseR! (Online)](https://user2022.r-project.org/): June 20th-23rd
+
++ [Rstudio::Conf](https://www.rstudio.com/conference/): July 25th-28th
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-### Grants & Funding
-
-### Datasets
-
 ### Jobs
+
++ [Ecological data scientist (Nature Metrics)](https://naturemetrics.breezy.hr/p/7d5f82fdfb3501-ecological-data-scientist)
+
++ [Data Analyst (IDH Farmfit)](https://www.idhsustainabletrade.com/job/data-analyst/)
 
 ### Call for Participation
 
@@ -140,3 +158,4 @@ Events in 3 Months:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">TIL: If you&#39;re annoyed by your <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> github repos being marked as HTML because of the documentation that all your R code produces, add a .gitattributes file with the following:<br><br>*.html linguist-detectable=false <a href="https://t.co/4LpMaXUrdB">pic.twitter.com/4LpMaXUrdB</a></p>&mdash; Lisa DeBruine 🏳️‍🌈 (@LisaDeBruine) <a href="https://twitter.com/LisaDeBruine/status/1525428061029732354?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">📢 While playing around with {rtweet} and the Twitter API, I have built an <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> Twitter bot 🎉<br><br>🤖 <a href="https://twitter.com/rstatspkgbot?ref_src=twsrc%5Etfw">@rstatspkgbot</a> tweets about random R packages on CRAN! <br><br>🔗 Have a look at the GitHub repo to see how I made it:<a href="https://t.co/UMFUSnKCtW">https://t.co/UMFUSnKCtW</a></p>&mdash; Tim Tiefenbach (@TimTeaFan) <a href="https://twitter.com/TimTeaFan/status/1527672205328453647?ref_src=twsrc%5Etfw">May 20, 2022</a></blockquote>
