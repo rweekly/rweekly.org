@@ -19,6 +19,8 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 
 + [Re-creating this year's Eurovison scoreboard with `ggplot2` code](https://github.com/gkaramanis/tidytuesday/tree/master/2022/2022-week_20)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W21/eurovision_600.png)
+
 + [Introducting r2u with 2 x 19k CRAN binaries for Ubuntu 22.04 and 20.04](http://dirk.eddelbuettel.com/blog/2022/05/21/)
 
 ### R in Academia
@@ -51,6 +53,8 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 
 + [{designer} 0.1.0](https://cran.r-project.org/package=designer): 'Shiny' UI Prototype Builder
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W21/example_app_600.gif)
+
 + [{rdataretriever} 3.1.0](https://cran.r-project.org/package=rdataretriever): R Interface to the Data Retriever
 
 + [{chronicler} 0.2.0](https://cran.r-project.org/package=chronicler): Add Logging to Functions
@@ -61,9 +65,13 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 
 + [gistillery](https://jthomasmock.github.io/gistillery/): Take local code, send it to a Github gist, get a beautiful image from Carbon.now.sh, and make it ready to share!
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W21/gistillery_600.png)
+
 + [dcflights21](https://github.com/simonpcouch/dcflights21): An R package supplying data on out-bound flights from airports serving Washington, DC in 2021
 
 + [ggtips](https://github.com/Roche/ggtips): Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W21/ggtips_600.png)
 
 + [flyCSV](https://github.com/aseyq/flyCSV): Check your data frame as CSV on the fly
 
@@ -106,7 +114,6 @@ This week’s release was curated by [Eric Nantz](https://r-podcast.org), with h
 + [shinybox](https://github.com/qfes/shinybox_public): Simplified, self-contained, renv-controlled Shiny apps launched with a one liner and some handy admin tools.
 
 + [Hierarchical data visualization with Shiny and D3](https://laustep.github.io/stlahblog/posts/HierarchicalDataViz.html)
-### R Internationally
 
 ### Tutorials
 
