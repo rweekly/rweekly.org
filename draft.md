@@ -42,6 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{tidyterra} 0.1.0](https://dieghernan.github.io/tidyterra/): Tools for {terra} objects. Plot Spat* objects {ggplot2} and manipulate them with {dplyr} and {tidyr}.
 
 
 **BioC**
