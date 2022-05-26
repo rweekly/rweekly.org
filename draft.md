@@ -14,7 +14,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
-
++ [Deep Learning with R, 2nd Edition](https://blogs.rstudio.com/ai/posts/2022-05-24-deep-learning-with-r-2e/)
 
 ### Insights
 
