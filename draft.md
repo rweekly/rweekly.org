@@ -44,7 +44,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
-**BioC**
+**Bioconductor**
 
 
 
@@ -54,6 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
+* [future 1.26.1](https://future.futureverse.org/) - future: Unified Parallel and Distributed Processing in R for Everyone
 
 
 ###  Videos and Podcasts
