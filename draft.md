@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
+[RScreencasts.com](https://www.rscreencasts.com/): A collection of 80+ hours of time-stamped, annotated TidyTuesday screencasts highlighting the R packages and functions used in each section and what the activity is. Screencasts by David Robinson. Annotation by Alex Cookson and Eric Fletcher. Website by Oscar Baruffa. For more detail, read the [launch post](https://oscarbaruffa.com/rscreencasts/). 
 
 ###  New Packages
 
