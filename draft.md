@@ -80,7 +80,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Calling R From Python With rpy2](https://rviews.rstudio.com/2022/05/25/calling-r-from-python-with-rpy2/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
