@@ -46,9 +46,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [{PINstimation}](https://pinstimation.com/) - PINstimation: Estimation of the Probability of Informed Trading
-
-+ [{gistillery}](https://github.com/jthomasmock/gistillery/) - Take local code, send it to a Github gist, get a beautiful image from Carbon.now.sh, and make it ready to share.
++ [{PINstimation}](https://pinstimation.com/) - PINstimation: A package for the estimation of models of probability of informed trading
 
 + [{klassets}](https://github.com/jbkunst/klassets/) -  a collection of functions to simulate data sets to teach how some Statistics Models and Machine Learning algorithms works
 
