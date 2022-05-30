@@ -40,6 +40,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+* [PINstimation](https://pinstimation.com/) - PINstimation: Estimation of the Probability of Informed Trading
+
 **CRAN**
 
 + [{tidyterra} 0.1.0](https://dieghernan.github.io/tidyterra/): Tools for {terra} objects. Plot Spat* objects {ggplot2} and manipulate them with {dplyr} and {tidyr}.
