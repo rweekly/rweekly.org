@@ -14,7 +14,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
-+ [Deep Learning with R, 2nd Edition](https://blogs.rstudio.com/ai/posts/2022-05-24-deep-learning-with-r-2e/)
 
 ### Insights
 
@@ -34,13 +33,26 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-[RScreencasts.com](https://www.rscreencasts.com/?ref=rweekly): A collection of 80+ hours of time-stamped, annotated TidyTuesday screencasts highlighting the R packages and functions used in each section and what the activity is. Screencasts by David Robinson. Annotation by Alex Cookson and Eric Fletcher. Website by Oscar Baruffa. For more detail, read the [launch post](https://oscarbaruffa.com/rscreencasts/?ref=rweekly). 
++ [RScreencasts.com](https://www.rscreencasts.com/?ref=rweekly): A collection of 80+ hours of time-stamped, annotated TidyTuesday screencasts highlighting the R packages and functions used in each section and what the activity is. Screencasts by David Robinson. Annotation by Alex Cookson and Eric Fletcher. Website by Oscar Baruffa. For more detail, read the [launch post](https://oscarbaruffa.com/rscreencasts/?ref=rweekly). 
+
++ [A variety of visualisations and analysis in NLP & causal inference](https://filmicaesthetic.github.io/)
+
++ [Deep Learning with R, 2nd Edition](https://blogs.rstudio.com/ai/posts/2022-05-24-deep-learning-with-r-2e/)
+
++ [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/welcome.html)
+
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-* [PINstimation](https://pinstimation.com/) - PINstimation: Estimation of the Probability of Informed Trading
++ [{PINstimation}](https://pinstimation.com/) - PINstimation: Estimation of the Probability of Informed Trading
+
++ [{gistillery}](https://github.com/jthomasmock/gistillery/) - Take local code, send it to a Github gist, get a beautiful image from Carbon.now.sh, and make it ready to share.
+
++ [{klassets}](https://github.com/jbkunst/klassets/) -  a collection of functions to simulate data sets to teach how some Statistics Models and Machine Learning algorithms works
+
++ [{ggcorset}](https://cran.r-project.org/web/packages/ggcorset/vignettes/corset_plot_intro.html) - corset plots visualize the distribution of measurements at each time point.
 
 **CRAN**
 
@@ -48,7 +60,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **Bioconductor**
-
 
 
 **GitHub or Bitbucket**
@@ -70,7 +81,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Gist & Cookbook
 
-
++ [A script to get all the functions from an R package and then expand to include all the arguments in a dataframe by Tom Mock](https://gist.github.com/jthomasmock/336b9f605050c331da37d7ecec450902)
 
 ### Shiny Apps
 
@@ -83,6 +94,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Tutorials
 
 + [Calling R From Python With rpy2](https://rviews.rstudio.com/2022/05/25/calling-r-from-python-with-rpy2/)
+
++ [Introducing TIDYTERRA](https://dieghernan.github.io/202205_tidyterra/)
+
++ [Cool Word Clouds in R](https://spencerschien.info/post/data_viz_how_to/dense_word_clouds/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -123,3 +138,7 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today&#39;s shaded relief map is Malawi. <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/xZ5a0QaIQ8">pic.twitter.com/xZ5a0QaIQ8</a></p>&mdash; flotsam (@researchremora) <a href="https://twitter.com/researchremora/status/1529121134712602624?ref_src=twsrc%5Etfw">May 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
