@@ -45,7 +45,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{tidyterra} 0.1.0](https://dieghernan.github.io/tidyterra/): Tools for {terra} objects. Plot Spat* objects {ggplot2} and manipulate them with {dplyr} and {tidyr}.
 
 
-**BioC**
+**Bioconductor**
 
 
 
@@ -55,7 +55,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
+
+* [future 1.26.1](https://future.futureverse.org/) - future: Unified Parallel and Distributed Processing in R for Everyone
+
+
 + [{ichimoku} 1.3.1](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
+
 
 ###  Videos and Podcasts
 
