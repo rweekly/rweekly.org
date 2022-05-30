@@ -77,7 +77,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
++ [How to Get Started with the R Programming language](https://www.youtube.com/watch?v=wfshEa_F2FQ)
 
++ [gghighlight package for improved Visualization](https://www.youtube.com/watch?v=1IHAZcumjkA)
+
++ [R Packages: Package metadata (rpkgs03 8)](https://www.youtube.com/watch?v=vQSYeGwX9yQ)
 
 ### Gist & Cookbook
 
@@ -89,7 +93,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
-
++ [00 | Arabic | Part Three | Introduction to Part Three of R Programming Course](https://www.youtube.com/watch?v=uumUZCAU_YQ)
 
 ###  Tutorials
 
