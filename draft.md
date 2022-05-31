@@ -23,12 +23,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Creating a Reproducible Example](https://www.jumpingrivers.com/blog/creating-reproducible-example-r/)
 
+<img width="600" alt=" a diagrame showing that GitLab action launches a CI job, which runs a Docker container that performs a set of checks. The templated .gitlab-ci.yml file ensures that every course undergoes the same build process and quality-assurance checks. If the content passes these checks, and an eligible approver approves the changes, then the changes are merged into the main branch" src="https://user-images.githubusercontent.com/53487593/171251245-da04e8cb-2e3d-4cdd-8164-fdb98c277e22.png">
+
+
 + [Editorial Automation: Why & How to Set Up Chat-Ops for your Own Review System on GitHub](https://ropensci.org/blog/2022/05/31/chatops-review-system-github/)
 
 ### R in the Real World
 
 + [Real house price plots](http://lenkiefer.com/2022/05/30/2022-05-30-real-hpi-plots/)
 
+<img width="600" alt="animate to see the evolution of house prices over time, color-coded the states by region. States in the Midwest are down in the lower left, posting slower overall growth and less growth relative to their mid-2000s peak. The Northeast is stuck in the middle, while the South and especially the west are up in the upper right, indicating they are both well above their mid-2000s peak and far above where they were in January 2000" src="https://raw.githubusercontent.com/rweekly/image/master/31-5-2022/gif.gif">
 
 
 ###  Resources
