@@ -37,7 +37,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [A variety of visualisations and analysis in NLP & causal inference](https://filmicaesthetic.github.io/)
 
-+ [Deep Learning with R, 2nd Edition](https://blogs.rstudio.com/ai/posts/2022-05-24-deep-learning-with-r-2e/)
++ [Deep Learning with R, 2nd Edition](https://blogs.rstudio.com/ai/posts/2022-05-31-deep-learning-with-r-2e/)
 
 + [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/welcome.html)
 
