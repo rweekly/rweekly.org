@@ -8,8 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
+This week’s release was curated by [Batool Almarzouq](https://github.com/BatoolMM), with help from the R Weekly team members and contributors.
 
 
 ###  Highlight
@@ -58,10 +57,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{ggcorset}](https://cran.r-project.org/web/packages/ggcorset/vignettes/corset_plot_intro.html) - corset plots visualize the distribution of measurements at each time point.
 
+<img width="600" alt="Screenshot 2022-05-31 at 19 00 43" src="https://user-images.githubusercontent.com/53487593/171254197-eb3ddb3b-9e9a-48bd-8225-b1a7919d7c90.png">
+
 **CRAN**
 
 + [{tidyterra} 0.1.0](https://dieghernan.github.io/tidyterra/): Tools for {terra} objects. Plot Spat* objects {ggplot2} and manipulate them with {dplyr} and {tidyr}.
-
 
 
 ### Updated Packages
@@ -87,7 +87,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [A script to get all the functions from an R package and then expand to include all the arguments in a dataframe by Tom Mock](https://gist.github.com/jthomasmock/336b9f605050c331da37d7ecec450902)
 
-
 ### R Internationally
 
 + [00 | Arabic | Part Three | Introduction to Part Three of R Programming Course](https://www.youtube.com/watch?v=uumUZCAU_YQ)
@@ -108,7 +107,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Programming Games with Shiny || Roll the Dice || RStudio](https://www.youtube.com/watch?v=GNZY7gHSgzM)
 
-+ [Introducing TIDYTERRA](https://dieghernan.github.io/202205_tidyterra/)
++ [Introducing tidyterra](https://dieghernan.github.io/202205_tidyterra/)
+
+<img width="607" alt="topographic information of one of the volcanoes of Auckland (New Zealand) - Maungawhau / Mount Eden." src="https://user-images.githubusercontent.com/53487593/171254497-f9ecd976-419c-4787-a88b-05724315fecf.png">
 
 + [Cool Word Clouds in R](https://spencerschien.info/post/data_viz_how_to/dense_word_clouds/)
 
