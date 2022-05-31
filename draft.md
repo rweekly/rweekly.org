@@ -14,20 +14,20 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
++ [RScreencasts.com](https://www.rscreencasts.com/?ref=rweekly): A collection of 80+ hours of time-stamped, annotated TidyTuesday screencasts highlighting the R packages and functions used in each section and what the activity is.
+
++ [Deep Learning with R, 2nd Edition](https://blogs.rstudio.com/ai/posts/2022-05-31-deep-learning-with-r-2e/)
+
 
 ### Insights
 
++ [Creating a Reproducible Example](https://www.jumpingrivers.com/blog/creating-reproducible-example-r/)
 
++ [Editorial Automation: Why & How to Set Up Chat-Ops for your Own Review System on GitHub](https://ropensci.org/blog/2022/05/31/chatops-review-system-github/)
 
 ### R in the Real World
 
-
-
-###  R in Organizations
-
-
-
-###  R in Academia
++ [Real house price plots](http://lenkiefer.com/2022/05/30/2022-05-30-real-hpi-plots/)
 
 
 
@@ -40,6 +40,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Deep Learning with R, 2nd Edition](https://blogs.rstudio.com/ai/posts/2022-05-31-deep-learning-with-r-2e/)
 
 + [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/welcome.html)
+
++ [Create machine learning models with R and tidymodels](https://docs.microsoft.com/en-us/learn/paths/machine-learning-with-r/?WT.mc_id=academic-59300-cacaste)
 
 
 ###  New Packages
@@ -55,12 +57,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 
 + [{tidyterra} 0.1.0](https://dieghernan.github.io/tidyterra/): Tools for {terra} objects. Plot Spat* objects {ggplot2} and manipulate them with {dplyr} and {tidyr}.
-
-
-**Bioconductor**
-
-
-**GitHub or Bitbucket**
 
 
 
@@ -81,25 +77,38 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R Packages: Package metadata (rpkgs03 8)](https://www.youtube.com/watch?v=vQSYeGwX9yQ)
 
++ [Episode 32: Consulting with Shiny Panel Discussion](https://www.youtube.com/watch?v=GNZY7gHSgzM)
+
 ### Gist & Cookbook
 
 + [A script to get all the functions from an R package and then expand to include all the arguments in a dataframe by Tom Mock](https://gist.github.com/jthomasmock/336b9f605050c331da37d7ecec450902)
-
-### Shiny Apps
-
 
 
 ### R Internationally
 
 + [00 | Arabic | Part Three | Introduction to Part Three of R Programming Course](https://www.youtube.com/watch?v=uumUZCAU_YQ)
 
++ [Gráficos descriptivos en R](https://www.youtube.com/watch?v=HNdKcp-hdBE)
+
++ [Regression mit Bootstrapping in R](https://www.youtube.com/watch?v=JuSiZlO8RBs)
+
++ [Meetup Mayo 2022: Estadística descriptiva con R: Gráficas, tablas y medidas de resumen](https://www.youtube.com/watch?v=wtMWEifXQ0Q)
+
++ [Generando tutoriales interactivos con el paquete {learner}](https://www.youtube.com/watch?v=sL6GmF2Pkp0)
+
 ###  Tutorials
 
 + [Calling R From Python With rpy2](https://rviews.rstudio.com/2022/05/25/calling-r-from-python-with-rpy2/)
 
++ [Philly Center City District Sips 2022: An Interactive Map](https://www.silviacanelon.com/blog/2022-ccd-sips/)
+
++ [Programming Games with Shiny || Roll the Dice || RStudio](https://www.youtube.com/watch?v=GNZY7gHSgzM)
+
 + [Introducing TIDYTERRA](https://dieghernan.github.io/202205_tidyterra/)
 
 + [Cool Word Clouds in R](https://spencerschien.info/post/data_viz_how_to/dense_word_clouds/)
+
++ [Real-Time Collaborative Editing on RStudio Cloud](https://www.rstudio.com/blog/real-time-collaborative-editing-on-rstudio-cloud/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -124,15 +133,6 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-### Grants & Funding
-
-
-### Datasets
-
-### Jobs
-
-
-
 
 ###  Call for Participation
 
@@ -143,4 +143,4 @@ Events in 3 Months:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today&#39;s shaded relief map is Malawi. <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/xZ5a0QaIQ8">pic.twitter.com/xZ5a0QaIQ8</a></p>&mdash; flotsam (@researchremora) <a href="https://twitter.com/researchremora/status/1529121134712602624?ref_src=twsrc%5Etfw">May 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This used to be me when I was first learning linear regression. 😂<br><br>But here&#39;s what&#39;s changed for me.<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://t.co/eMWU2XMROn">pic.twitter.com/eMWU2XMROn</a></p>&mdash; Matt Dancho (Business Science) (@mdancho84) <a href="https://twitter.com/mdancho84/status/1529050632849707009?ref_src=twsrc%5Etfw">May 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
