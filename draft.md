@@ -107,3 +107,5 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am rebuilding my <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> blog from the bottom up with <a href="https://twitter.com/hashtag/quarto?src=hash&amp;ref_src=twsrc%5Etfw">#quarto</a>. This will let me use quarto&#39;s cool new tricks like tabs and easy columns.<br><br>I&#39;ve already spent hours using quarto&#39;s great docs to build a custom blog. If you want to do the same, let me show you what I did. <a href="https://t.co/JDDz0gUoOI">pic.twitter.com/JDDz0gUoOI</a></p>&mdash; Albert Rapp (@rappa753) <a href="https://twitter.com/rappa753/status/1531692573126959106?ref_src=twsrc%5Etfw">May 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
