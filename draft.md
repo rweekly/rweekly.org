@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+* [progressr 0.10.1: Plyr Now Supports Progress Updates also in Parallel](https://www.jottr.org/2022/06/03/progressr-0.10.1/)
 
 ### R in the Real World
 
