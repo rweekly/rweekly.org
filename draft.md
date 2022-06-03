@@ -26,7 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Organizations
 
-
++ [Announcing RStudio for Microsoft Azure ML](https://www.rstudio.com/blog/announcing-rstudio-for-azure-ml/)
 
 ###  R in Academia
 
@@ -87,6 +87,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [RStudio Community Monthly Events Roundup](https://www.rstudio.com/blog/rstudio-community-monthly-events-roundup-june-2022/): June 2022
 
 + [Fitting distributions in R (NHS workshop)](https://www.eventbrite.co.uk/e/nhs-r-workshop-fitting-distributions-in-r-june-2022-tickets-338906667967?aff=estw&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-source=tw&utm-term=listing): June 8th
 
