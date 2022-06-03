@@ -54,6 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
+* [progressr 0.10.1](https://progressr.futureverse.org/): An Inclusive, Unifying API for Progress Updates
 
 
 ###  Videos and Podcasts
