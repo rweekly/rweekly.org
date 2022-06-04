@@ -18,7 +18,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-* [progressr 0.10.1: Plyr Now Supports Progress Updates also in Parallel](https://www.jottr.org/2022/06/03/progressr-0.10.1/)
++ [Locating R and R Adjacent Software and Configuration Files](https://www.pipinghotdata.com/posts/2022-06-02-locating-r-and-r-adjacent-software-and-configuration-files/)
+
++ [GitHub Actions for R developers, v2](https://www.tidyverse.org/blog/2022/06/actions-2-0-0/)
+
++ [Announcing pins for Python](https://www.rstudio.com/blog/pins-for-python/)
+
++ [progressr 0.10.1: Plyr Now Supports Progress Updates also in Parallel](https://www.jottr.org/2022/06/03/progressr-0.10.1/)
 
 ### R in the Real World
 
@@ -40,6 +46,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [April: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/05/30/april-top-40-new-cran-packages/)
+
 **CRAN**
 
 
@@ -59,7 +67,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
++ [R-Ladies Freiburg (English) - Getting to know Quarto](https://www.youtube.com/watch?v=shVSmYna3GM)
 
++ [Measuring success of data science | Data Science Hangout | Lindsey Clark, Healthcare Bluebook](https://www.youtube.com/watch?v=vBcNuhM9VgQ)
+
++ [Shiny modularization, Leaflet for R and Leaflet JS extensions](https://www.youtube.com/watch?v=eKWXvXf0kwo)
 
 ### Gist & Cookbook
 
