@@ -18,7 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Locating R and R Adjacent Software and Configuration Files](https://www.pipinghotdata.com/posts/2022-06-02-locating-r-and-r-adjacent-software-and-configuration-files/)
 
++ [GitHub Actions for R developers, v2](https://www.tidyverse.org/blog/2022/06/actions-2-0-0/)
+
++ [Announcing pins for Python](https://www.rstudio.com/blog/pins-for-python/)
 
 ### R in the Real World
 
@@ -39,6 +43,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+
++ [April: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/05/30/april-top-40-new-cran-packages/)
 
 **CRAN**
 
