@@ -64,7 +64,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
++ [R-Ladies Freiburg (English) - Getting to know Quarto](https://www.youtube.com/watch?v=shVSmYna3GM)
 
++ [Measuring success of data science | Data Science Hangout | Lindsey Clark, Healthcare Bluebook](https://www.youtube.com/watch?v=vBcNuhM9VgQ)
+
++ [Shiny modularization, Leaflet for R and Leaflet JS extensions](https://www.youtube.com/watch?v=eKWXvXf0kwo)
 
 ### Gist & Cookbook
 
