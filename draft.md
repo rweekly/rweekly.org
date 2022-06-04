@@ -36,7 +36,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
++ [Bakersfield Data Analytics and R Users Group: Collaboration and the Need to Reach Out to Students](https://www.r-consortium.org/blog/2022/06/03/bakersfield-data-analytics-and-r-users-group-collaboration-and-the-need-to-reach-out-to-students)
 
 ###  Resources
 
@@ -47,6 +47,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 + [April: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/05/30/april-top-40-new-cran-packages/)
+
++ [{tickle 0.1.1} a package for creating UIs in base R.](https://github.com/coolbutuseless/tickle)
+
 
 **CRAN**
 
@@ -62,7 +65,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-* [progressr 0.10.1](https://progressr.futureverse.org/): An Inclusive, Unifying API for Progress Updates
++ [progressr 0.10.1](https://progressr.futureverse.org/): An Inclusive, Unifying API for Progress Updates
+
++ [{threeBrain 0.2.5} : a package for 3D Brain Visualization](https://cran.r-project.org/web/packages/threeBrain/index.html)
 
 
 ###  Videos and Podcasts
