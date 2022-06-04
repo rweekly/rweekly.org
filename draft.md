@@ -24,6 +24,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Announcing pins for Python](https://www.rstudio.com/blog/pins-for-python/)
 
++ [progressr 0.10.1: Plyr Now Supports Progress Updates also in Parallel](https://www.jottr.org/2022/06/03/progressr-0.10.1/)
+
 ### R in the Real World
 
 
@@ -60,6 +62,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
+* [progressr 0.10.1](https://progressr.futureverse.org/): An Inclusive, Unifying API for Progress Updates
 
 
 ###  Videos and Podcasts
