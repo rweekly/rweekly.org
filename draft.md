@@ -20,11 +20,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Locating R and R Adjacent Software and Configuration Files](https://www.pipinghotdata.com/posts/2022-06-02-locating-r-and-r-adjacent-software-and-configuration-files/)
 
-+ [GitHub Actions for R developers, v2](https://www.tidyverse.org/blog/2022/06/actions-2-0-0/)
-
-+ [Announcing pins for Python](https://www.rstudio.com/blog/pins-for-python/)
-
 + [progressr 0.10.1: Plyr Now Supports Progress Updates also in Parallel](https://www.jottr.org/2022/06/03/progressr-0.10.1/)
+
++ [R will always be arcane to those who do not make a serious effort to learn it...](https://www.brodrigues.co/blog/2022-06-02-arcane/)
 
 ### R in the Real World
 
@@ -94,6 +92,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
++ [R City Views](https://github.com/koenderks/rcityviews): An R package and Shiny application to render minimalistic aerial city views using data from OpenStreetMap.
 
 
 ### R Internationally
@@ -102,7 +101,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [GitHub Actions for R developers, v2](https://www.tidyverse.org/blog/2022/06/actions-2-0-0/)
 
++ [Announcing pins for Python](https://www.rstudio.com/blog/pins-for-python/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
