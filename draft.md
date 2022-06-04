@@ -48,8 +48,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [April: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/05/30/april-top-40-new-cran-packages/)
 
-+ [{tickle 0.1.1} a package for creating UIs in base R.](https://github.com/coolbutuseless/tickle)
++ [{tickle} 0.1.1](https://github.com/coolbutuseless/tickle): a package for creating UIs in base R
 
++ [{headliner} 0.0.1](https://cran.r-project.org/package=headliner): Compose Sentences to Describe Comparisons
+
++ [{FossilSimShiny} 1.0.0](https://cran.r-project.org/package=FossilSimShiny): Shiny Application for 'FossilSim'
 
 **CRAN**
 
@@ -67,7 +70,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [progressr 0.10.1](https://progressr.futureverse.org/): An Inclusive, Unifying API for Progress Updates
 
-+ [{threeBrain 0.2.5} : a package for 3D Brain Visualization](https://cran.r-project.org/web/packages/threeBrain/index.html)
++ [{threeBrain} 0.2.5](https://cran.r-project.org/package=threeBrain)
+
++ [{tidycensus} 1.2.2](https://cran.r-project.org/package=tidycensus)
+
++ [{targets} 0.12.1](https://cran.r-project.org/package=targets)
 
 
 ###  Videos and Podcasts
