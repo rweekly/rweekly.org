@@ -48,22 +48,23 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [April: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/05/30/april-top-40-new-cran-packages/)
 
-+ [{tickle} 0.1.1](https://github.com/coolbutuseless/tickle): a package for creating UIs in base R
+
+**CRAN**
 
 + [{headliner} 0.0.1](https://cran.r-project.org/package=headliner): Compose Sentences to Describe Comparisons
 
 + [{FossilSimShiny} 1.0.0](https://cran.r-project.org/package=FossilSimShiny): Shiny Application for 'FossilSim'
 
-**CRAN**
++ [{usincometaxes} 0.4.0](https://cran.r-project.org/package=usincometaxes): Calculate Federal and State Income Taxes in the United States
 
-
++ [{babsim.hospital} 11.8.8](https://cran.r-project.org/package=babsim.hospital): Bartz & Bartz Simulation Hospital
 
 **BioC**
 
 
-
 **GitHub or Bitbucket**
 
++ [{tickle} 0.1.1](https://github.com/coolbutuseless/tickle): a package for creating UIs in base R
 
 
 ### Updated Packages
