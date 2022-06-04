@@ -68,7 +68,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-+ [progressr 0.10.1](https://progressr.futureverse.org/): An Inclusive, Unifying API for Progress Updates
++ [{progressr} 0.10.1](https://cran.r-project.org/package=progressr)
 
 + [{threeBrain} 0.2.5](https://cran.r-project.org/package=threeBrain)
 
@@ -84,6 +84,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Measuring success of data science | Data Science Hangout | Lindsey Clark, Healthcare Bluebook](https://www.youtube.com/watch?v=vBcNuhM9VgQ)
 
 + [Shiny modularization, Leaflet for R and Leaflet JS extensions](https://www.youtube.com/watch?v=eKWXvXf0kwo)
+
++ [Barret Schloerke: {shinytest2} Testing Shiny with {testthat}](https://www.youtube.com/watch?v=EOVPBN5o8F8)
 
 ### Gist & Cookbook
 
