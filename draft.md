@@ -14,7 +14,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
-+ [{tickle} 0.1.1](https://github.com/coolbutuseless/tickle): a package for creating UIs in base R
++ [{tickle}](https://github.com/coolbutuseless/tickle): a package for creating UIs in base R
 
 + [R will always be arcane to those who do not make a serious effort to learn it...](https://www.brodrigues.co/blog/2022-06-02-arcane/)
 
@@ -36,8 +36,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Bakersfield Data Analytics and R Users Group: Collaboration and the Need to Reach Out to Students](https://www.r-consortium.org/blog/2022/06/03/bakersfield-data-analytics-and-r-users-group-collaboration-and-the-need-to-reach-out-to-students)
 
-###  Resources
++ [My students cheated... A lot](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
 
+###  Resources
 
 
 ###  New Packages
@@ -74,6 +75,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{targets} 0.12.1](https://cran.r-project.org/package=targets)
 
++ [{cleanrmd} 0.0.8](https://github.com/gadenbuie/cleanrmd)
+
 
 ###  Videos and Podcasts
 
@@ -103,6 +106,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [GitHub Actions for R developers, v2](https://www.tidyverse.org/blog/2022/06/actions-2-0-0/)
 
 + [Announcing pins for Python](https://www.rstudio.com/blog/pins-for-python/)
+
++ [Creating a blog with Quarto in 10 steps](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
