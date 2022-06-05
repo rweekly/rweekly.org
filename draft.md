@@ -40,6 +40,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [Try R v4.2 in your browser](https://www.rostrum.blog/2022/06/01/try-r/)
 
 ###  New Packages
 
