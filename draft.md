@@ -26,6 +26,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [progressr 0.10.1: Plyr Now Supports Progress Updates also in Parallel](https://www.jottr.org/2022/06/03/progressr-0.10.1/)
 
++ [R will always be arcane to those who do not make a serious effort to learn it...](https://www.brodrigues.co/blog/2022-06-02-arcane/)
+
 ### R in the Real World
 
 
@@ -70,7 +72,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{tickle} 0.1.1](https://github.com/coolbutuseless/tickle): a package for creating UIs in base R
 
 ### Updated Packages
 
