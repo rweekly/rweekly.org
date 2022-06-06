@@ -22,6 +22,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Locating R and R Adjacent Software and Configuration Files](https://www.pipinghotdata.com/posts/2022-06-02-locating-r-and-r-adjacent-software-and-configuration-files/)
 
+![File tree visualizing the hierarchy of R and R adjacent software and configuration files on my Windows 10 operating system](https://raw.githubusercontent.com/rweekly/image/master/2022/W23/R-file-tree_600.png)
+
 + [progressr 0.10.1: Plyr Now Supports Progress Updates also in Parallel](https://www.jottr.org/2022/06/03/progressr-0.10.1/)
 
 ### R in the Real World
@@ -32,11 +34,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Announcing RStudio for Microsoft Azure ML](https://www.rstudio.com/blog/announcing-rstudio-for-azure-ml/)
 
+![Microsoft Azure + RStudio](https://raw.githubusercontent.com/rweekly/image/master/2022/W23/microsoft_azure_rstudio_600.png)
+
 ###  R in Academia
 
 + [Bakersfield Data Analytics and R Users Group: Collaboration and the Need to Reach Out to Students](https://www.r-consortium.org/blog/2022/06/03/bakersfield-data-analytics-and-r-users-group-collaboration-and-the-need-to-reach-out-to-students)
 
 + [My students cheated... A lot](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
+
+![It' a long story blog post image](https://raw.githubusercontent.com/rweekly/image/master/2022/W23/cheating_600.png)
 
 ###  Resources
 
@@ -97,6 +103,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R City Views](https://github.com/koenderks/rcityviews): An R package and Shiny application to render minimalistic aerial city views using data from OpenStreetMap.
 
+![Example city view of Bergamo, Italy](https://raw.githubusercontent.com/rweekly/image/master/2022/W23/rcityviews_example_img_600.png)
 
 ### R Internationally
 
