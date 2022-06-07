@@ -18,10 +18,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Arrays and tables in Arrow](https://blog.djnavarro.net/posts/2022-05-25_arrays-and-tables-in-arrow/)
+
++ [April: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/05/30/april-top-40-new-cran-packages/)
 
 
 ### R in the Real World
-
 
 
 ###  R in Organizations
@@ -34,7 +36,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [Try R v4.2 in your browser](https://www.rostrum.blog/2022/06/01/try-r/)
 
 ###  New Packages
 
@@ -62,7 +64,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Gist & Cookbook
 
-
++ [tidyverse-tips](https://oliviergimenez.github.io/tidyverse-tips/)
 
 ### Shiny Apps
 
@@ -99,6 +101,8 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
+
++ [RStudio Community Monthly Events Roundup - June 2022](https://www.rstudio.com/blog/rstudio-community-monthly-events-roundup-june-2022/)
 
 
 ###  Call for Participation
