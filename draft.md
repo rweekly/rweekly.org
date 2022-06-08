@@ -44,6 +44,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+* [{mod2rm} 0.1.0](https://cran.r-project.org/package=mod2rm): (Multi-)moderator analysis for two-instance repeated measures designs (cf. MEMORE for SPSS)
 
 
 **BioC**
