@@ -45,6 +45,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 
 * [{mod2rm} 0.1.0](https://cran.r-project.org/package=mod2rm): (Multi-)moderator analysis for two-instance repeated measures designs (cf. MEMORE for SPSS)
+* [{xaringanExtra} 0.6.0](https://www.garrickadenbuie.com/blog/xaringanextra-v0.6.0/): Extras and Extensions for 'xaringan' Slides
 
 
 **BioC**
