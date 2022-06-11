@@ -25,6 +25,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Survivor Advantages: Dataset showcase for {survivoR}](https://gradientdescending.com/survivor-advantages-dataset-showcase-for-survivor/)
 
++ [Simulation Based Estimation — How You Estimate as if You were Playing Monopoly](https://ted21019.medium.com/simulation-based-estimation-how-you-estimate-as-if-you-were-playing-monopoly-bcfc6f3aba65)
+
++ [Announcing vetiver for MLOps in R and Python](https://www.rstudio.com/blog/announce-vetiver/)
+
++ [The Critical Shift to Data in the Finance Industry](https://www.rstudio.com/blog/the-critical-shift-to-data-in-the-finance-industry/)
+
++ [Grow Your Data Science Skills With Academy](https://www.rstudio.com/blog/grow-your-data-science-skills-with-academy/)
+
 
 ### R in the Real World
 
@@ -33,14 +41,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  R in Organizations
 
 
-
 ###  R in Academia
 
++ [ChromoMap: an R package for interactive visualization of multi-omics data and annotation of chromosomes](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04556-z)
 
++ [CRAN Task View: Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html): The goal of reproducible research is to tie specific instructions to data analysis and experimental data so that scholarship can be recreated, better understood and verified. 
 
 ###  Resources
 
 + [Try R v4.2 in your browser](https://www.rostrum.blog/2022/06/01/try-r/)
+
 
 ###  New Packages
 
@@ -49,10 +59,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 
 * [{mod2rm} 0.1.0](https://cran.r-project.org/package=mod2rm): (Multi-)moderator analysis for two-instance repeated measures designs (cf. MEMORE for SPSS)
+
 * [{xaringanExtra} 0.6.0](https://www.garrickadenbuie.com/blog/xaringanextra-v0.6.0/): Extras and Extensions for 'xaringan' Slides
 
+* [{gtExtras} 0.4.0](https://cran.r-project.org/web/packages/gtExtras/index.html): Provides additional functions for creating beautiful tables with 'gt'.
 
-**BioC**
+* [{rock} 0.5.5](https://cran.r-project.org/web/packages/rock/index.html): The Reproducible Open Coding Kit (rock) was developed to facilitate reproducible and open coding, specifically geared towards qualitative research methods
+
+
+**Bioconductor**
 
 
 
@@ -74,7 +89,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Cancer Somatic Mutation Analysis | MAFtools R Package](https://www.youtube.com/watch?v=wVHomBdMXfY)
 
 ### Gist & Cookbook
-
 
 + [tidyverse-tips](https://oliviergimenez.github.io/tidyverse-tips/)
 
