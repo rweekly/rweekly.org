@@ -24,7 +24,7 @@ Please include a one-sentence summary of the new content you would like to be ad
 
 ### I'd like to propose an Image from my new content!
 
-<!--Although you are very welcome to suggest an image, please bear in mind that images are added and changed by the editor in charge of the issue so we can guarantee that the image will be added--> 
+<!--Although you are very welcome to suggest an image, please bear in mind that images are added and changed by the editor in charge of the issue so we can't guarantee that your image will be added--> 
 
 Please feel free to suggest an image from your content to be added in the next issue
 
