@@ -35,4 +35,4 @@ Please feel free to suggest an image from your content to be added in the next i
 
 - [ ] My content is R-related 
 - [ ] All images suggested are re-sized before has been added to the PR
-- [ ] I've submitted my content between Monday-Friday to allow for it to be voted by R Weekly members for highlights
+- [ ] I've submitted my content between Monday-Friday to allow for it to be voted by R Weekly editors for highlights
