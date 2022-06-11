@@ -11,7 +11,6 @@ image: https://rweekly.org/public/facebook.png
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
 
-
 ###  Highlight
 
 
@@ -21,6 +20,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Arrays and tables in Arrow](https://blog.djnavarro.net/posts/2022-05-25_arrays-and-tables-in-arrow/)
 
 + [April: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/05/30/april-top-40-new-cran-packages/)
+
++ [Changes (for the better) in {gt} 0.6.0](https://www.rstudio.com/blog/changes-for-the-better-in-gt-0-6-0/)
+
++ [Survivor Advantages: Dataset showcase for {survivoR}](https://gradientdescending.com/survivor-advantages-dataset-showcase-for-survivor/)
 
 
 ### R in the Real World
@@ -81,15 +84,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [R Workflow by Frank Harrell](https://www.fharrell.com/post/rflow)
 
++ [Creating flowcharts with {ggplot2}](https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/)
+
++ [Using ggplot2 to create Treatment Timelines with Multiple Variables](https://www.khstats.com/blog/trt-timelines/multiple-vars/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
-
 
 ###  Upcoming Events in 3 Months
 
@@ -116,3 +121,7 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The current state of my library of R programming books! 😻📚<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://t.co/7A6q1eDXNW">pic.twitter.com/7A6q1eDXNW</a></p>&mdash; Indrajeet Patil (इंद्रजीत पाटील) (@patilindrajeets) <a href="https://twitter.com/patilindrajeets/status/1534430017228312576?ref_src=twsrc%5Etfw">June 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
