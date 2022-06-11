@@ -25,6 +25,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
++ [Get data into Wikibase and Wikidata with R: An import workflow derived from a real world project](https://katharinabrunner.de/2022/06/wikibase-wikidata-etl-data-import-with-r/)
 
 ###  R in Organizations
 
