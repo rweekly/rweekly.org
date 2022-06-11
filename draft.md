@@ -59,6 +59,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 * [{parallelly} 1.32.0](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package 
+* [{santoku} 0.8.0](https://cran.r-project.org/package=santoku): A versatile cutting tool
 
 
 ###  Videos and Podcasts
