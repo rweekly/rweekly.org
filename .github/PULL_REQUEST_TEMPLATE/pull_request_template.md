@@ -6,7 +6,7 @@ Please include a one-sentence summary of the new content you would like to be ad
 
 **Please select to which section(s) your post belongs!**
 
-<!--Please don't add anything to the Highlight section, R Weekly members vote for the content of this section weekly--> 
+<!--Please don't add anything to the Highlight section, R Weekly editors vote for the content of this section weekly--> 
 
 - [ ] Tutorials - R tutorials for how to use certain packages and tools (usually code is embedded)
 - [ ] Insights - Articles that talk about R and data science in general (usually no code embedded)
