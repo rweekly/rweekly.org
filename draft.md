@@ -63,14 +63,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 * [{parallelly} 1.32.0](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package 
+
 * [{santoku} 0.8.0](https://cran.r-project.org/package=santoku): A versatile cutting tool
 
 
 ###  Videos and Podcasts
 
++ [Aaron Clark: Tutorial: Evaluate values from dynamically produced UI modules](https://www.youtube.com/watch?v=wn05YK_BZ14&t=1s)
 
++ [Cancer Somatic Mutation Analysis | MAFtools R Package](https://www.youtube.com/watch?v=wVHomBdMXfY)
 
 ### Gist & Cookbook
+
 
 + [tidyverse-tips](https://oliviergimenez.github.io/tidyverse-tips/)
 
@@ -125,3 +129,4 @@ Events in 3 Months:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The current state of my library of R programming books! 😻📚<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://t.co/7A6q1eDXNW">pic.twitter.com/7A6q1eDXNW</a></p>&mdash; Indrajeet Patil (इंद्रजीत पाटील) (@patilindrajeets) <a href="https://twitter.com/patilindrajeets/status/1534430017228312576?ref_src=twsrc%5Etfw">June 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pipes in <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a>! Functions are verbs, aplied to objects. With pipes &quot;|&gt;&quot; we arrange functions in the order that we would think of the actions. Readability for the win! (And I like to read the pipe as &quot;and then...&quot;)🎂🥣🥮👩‍🍳🔪🍴 <a href="https://t.co/rUrcugfvSk">pic.twitter.com/rUrcugfvSk</a></p>&mdash; Arthur Welle (@ArthurWelle) <a href="https://twitter.com/ArthurWelle/status/1535429654760284161?ref_src=twsrc%5Etfw">June 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
