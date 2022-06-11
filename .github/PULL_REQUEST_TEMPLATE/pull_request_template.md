@@ -26,10 +26,11 @@ Please include a one-sentence summary of the new content you would like to be ad
 
 <!--Although you are very welcome to suggest an image, please bear in mind that images are added and changed by the editor in charge of the issue so we can't guarantee that your image will be added--> 
 
-Please feel free to suggest an image from your content to be added in the next issue
+Please feel free to suggest an image from your content to be added in the next issue. Any image added has to be re-sized to a max width 600px. This can be carried out using [rweekly.tools](https://github.com/rweekly/rweekly.tools) or any online tool.
 
 - [ ] Yes, I proposed an image and resized it
-- [ ] No
+- [ ] Yes, I proposed an image but didn't resized it
+- [ ] No, I didn't propose an image
 
 # Checklist:
 
