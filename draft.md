@@ -13,6 +13,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
++ [Changes (for the better) in {gt} 0.6.0](https://www.rstudio.com/blog/changes-for-the-better-in-gt-0-6-0/)
+
++ [Creating flowcharts with {ggplot2}](https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/)
 
 
 ### Insights
@@ -37,8 +40,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 + [Get data into Wikibase and Wikidata with R: An import workflow derived from a real world project](https://katharinabrunner.de/2022/06/wikibase-wikidata-etl-data-import-with-r/)
-
-###  R in Organizations
 
 
 ###  R in Academia
@@ -67,14 +68,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 * [{rock} 0.5.5](https://cran.r-project.org/web/packages/rock/index.html): The Reproducible Open Coding Kit (rock) was developed to facilitate reproducible and open coding, specifically geared towards qualitative research methods
 
 
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
-
 ### Updated Packages
 
 * [{parallelly} 1.32.0](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package 
@@ -88,23 +81,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Cancer Somatic Mutation Analysis | MAFtools R Package](https://www.youtube.com/watch?v=wVHomBdMXfY)
 
++ [TidyX Episode 106 | R Classes and Objects - Factors](https://www.youtube.com/watch?v=Yf_J74XLgNQ)
+
 ### Gist & Cookbook
 
 + [tidyverse-tips](https://oliviergimenez.github.io/tidyverse-tips/)
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ###  Tutorials
 
 + [R Workflow by Frank Harrell](https://www.fharrell.com/post/rflow)
 
 + [Creating flowcharts with {ggplot2}](https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/)
+
++ [How to use multiple colour scales in ggplot with {ggnewscale}](https://gradientdescending.com/how-to-use-multiple-color-scales-in-ggplot-with-ggnewscale/)
 
 + [Using ggplot2 to create Treatment Timelines with Multiple Variables](https://www.khstats.com/blog/trt-timelines/multiple-vars/)
 
@@ -134,7 +123,6 @@ Events in 3 Months:
 
 
 ###  Call for Participation
-
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
