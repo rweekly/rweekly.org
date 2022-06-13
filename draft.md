@@ -70,9 +70,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-* [{parallelly} 1.32.0](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package 
+* [{parallelly} 1.32.0](https://cran.r-project.org/package=parallelly) - [diffify](https://diffify.com/R/parallelly/1.31.1/1.32.0): Enhancing the 'parallel' Package - 
 
-* [{santoku} 0.8.0](https://cran.r-project.org/package=santoku): A versatile cutting tool
+* [{santoku} 0.8.0](https://cran.r-project.org/package=santoku) - [diffify](https://diffify.com/R/santoku/0.7.0/0.8.0): A versatile cutting tool
 
 
 ###  Videos and Podcasts
@@ -96,6 +96,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [How to use multiple colour scales in ggplot with {ggnewscale}](https://gradientdescending.com/how-to-use-multiple-color-scales-in-ggplot-with-ggnewscale/)
 
 + [Using ggplot2 to create Treatment Timelines with Multiple Variables](https://www.khstats.com/blog/trt-timelines/multiple-vars/)
+
++ [rebuilding R blog from scratch with quarto in Twitter thread by Albert Rapp](https://twitter.com/rappa753/status/1533465380655710208)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -132,3 +134,5 @@ Events in 3 Months:
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pipes in <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a>! Functions are verbs, aplied to objects. With pipes &quot;|&gt;&quot; we arrange functions in the order that we would think of the actions. Readability for the win! (And I like to read the pipe as &quot;and then...&quot;)🎂🥣🥮👩‍🍳🔪🍴 <a href="https://t.co/rUrcugfvSk">pic.twitter.com/rUrcugfvSk</a></p>&mdash; Arthur Welle (@ArthurWelle) <a href="https://twitter.com/ArthurWelle/status/1535429654760284161?ref_src=twsrc%5Etfw">June 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m rebuilding my <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> blog from scratch with <a href="https://twitter.com/hashtag/quarto?src=hash&amp;ref_src=twsrc%5Etfw">#quarto</a>. This is ✨PART 2✨ of my tweetorial.<br><br>Once again, you can follow along all steps in my dedicated repo <a href="https://t.co/b8ByuRhvNj">https://t.co/b8ByuRhvNj</a><br><br>Also, here&#39;s part 1 (in case you missed it).<a href="https://t.co/lSKwfPb8Lo">https://t.co/lSKwfPb8Lo</a></p>&mdash; Albert Rapp (@rappa753) <a href="https://twitter.com/rappa753/status/1533465380655710208?ref_src=twsrc%5Etfw">June 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
