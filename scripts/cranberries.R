@@ -10,17 +10,19 @@ tidy_package_name <- function(item_link) {
     return(res)
 }
 
-create_text <- function(package_version, package_name, package_title, feed_type = "new") {
-    if (feed_type == "new") {
-        placeholder <- "+ [{|package_name|} |package_version|](https://cran.r-project.org/package=|package_name|): |package_title|"
-    } else if (feed_type == "updated") {
-        placeholder <- "+ [{|package_name|} |package_version|](https://cran.r-project.org/package=|package_name|)"
-    } else {
-        stop("supplied type not recognized!", call. = FALSE)
+create_text <- function(package_version, package_name, package_title, feed_type = "new", add_diffify = "diff") {
+  if (feed_type == "new") {
+    placeholder <- "+ [{|package_name|} |package_version|](https://cran.r-project.org/package=|package_name|): |package_title|"
+  } else if (feed_type == "updated") {
+    placeholder <- "+ [{|package_name|} |package_version|](https://cran.r-project.org/package=|package_name|)"
+    if (add_diffify == "diff"){
+      placeholder <- stringr::str_c(placeholder, " - [diffify](https://diffify.com/R/|package_name|)")
     }
-
-    x <- glue::glue(placeholder, .open = "|", .close = "|")
-    return(x)
+  } else {
+    stop("supplied type not recognized!", call. = FALSE)
+  }
+  x <- glue::glue(placeholder, .open = "|", .close = "|")
+  return(x)
 }
 
 process_cranberries <- function(feed_type, start_date, end_date = as.Date(lubridate::now())) {
