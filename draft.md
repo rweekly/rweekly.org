@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Batool Almarzouq](https://github.com/BatoolMM), with help from the wonderfyl R Weekly team members and contributors.
 
 
 ###  Highlight
@@ -26,11 +26,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Changes (for the better) in {gt} 0.6.0](https://www.rstudio.com/blog/changes-for-the-better-in-gt-0-6-0/)
 
+![a poster image by rstudio that shows the structure of a table which is table header, columns labeles, table body and table footer and likk them to cubic taht says GT](https://raw.githubusercontent.com/rweekly/image/master/2022-06-13/glimps.png)
+
 + [Survivor Advantages: Dataset showcase for {survivoR}](https://gradientdescending.com/survivor-advantages-dataset-showcase-for-survivor/)
+
+![This is a summary of all images packed together in a small size described in the articles which is analysing Survivor](https://raw.githubusercontent.com/rweekly/image/master/2022-06-13/survivor.png)
 
 + [Simulation Based Estimation — How You Estimate as if You were Playing Monopoly](https://ted21019.medium.com/simulation-based-estimation-how-you-estimate-as-if-you-were-playing-monopoly-bcfc6f3aba65)
 
 + [Announcing vetiver for MLOps in R and Python](https://www.rstudio.com/blog/announce-vetiver/)
+
+![This poster by RStudio showing the logo of new package called vetiver. The logo is hexagon with brownish colour and black edges - inside the hexagon, there's a clay jar ](https://raw.githubusercontent.com/rweekly/image/master/2022-06-13/vetiver.jpeg)
 
 + [The Critical Shift to Data in the Finance Industry](https://www.rstudio.com/blog/the-critical-shift-to-data-in-the-finance-industry/)
 
@@ -89,15 +95,20 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-+ [R Workflow by Frank Harrell](https://www.fharrell.com/post/rflow)
-
 + [Creating flowcharts with {ggplot2}](https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/)
 
-+ [How to use multiple colour scales in ggplot with {ggnewscale}](https://gradientdescending.com/how-to-use-multiple-color-scales-in-ggplot-with-ggnewscale/)
+![flowcharts with {ggplot2} in brownish theme that has rectangles, text, and arrows - it's not a meaningful data but just an example of how to create flowcharts](https://raw.githubusercontent.com/rweekly/image/master/2022-06-13/barcharts.png)
+
++ [R Workflow by Frank Harrell](https://www.fharrell.com/post/rflow)
 
 + [Using ggplot2 to create Treatment Timelines with Multiple Variables](https://www.khstats.com/blog/trt-timelines/multiple-vars/)
 
 + [rebuilding R blog from scratch with quarto in Twitter thread by Albert Rapp](https://twitter.com/rappa753/status/1533465380655710208)
+
++ [How to use multiple colour scales in ggplot with {ggnewscale}](https://gradientdescending.com/how-to-use-multiple-color-scales-in-ggplot-with-ggnewscale/)
+
+<img width="770" alt="This is taken from week 23 of Tidy Tuesday the chart - the dataset detailed pride sponsors that also contributed to anti-LGBTQ+ politicians. The rainbows with rainbow colours shows the company made the HRC business pledge and a neutral colour for the companies that hadn’t. There are 33 companies/rainbow but the font (names) isn't clear" src="https://user-images.githubusercontent.com/53487593/173319060-bea4f4e3-75a7-4c49-9314-f1947f615b7f.png">
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -109,9 +120,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [Fitting distributions in R (NHS workshop)](https://www.eventbrite.co.uk/e/nhs-r-workshop-fitting-distributions-in-r-june-2022-tickets-338906667967?aff=estw&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-source=tw&utm-term=listing): June 8th
-
-+ [New York R Conference](https://rstats.ai/nyr/): June 8th-10th
 
 + [UseR! (Online)](https://user2022.r-project.org/): June 20th-23rd
 
