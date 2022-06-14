@@ -10,13 +10,16 @@ tidy_package_name <- function(item_link) {
     return(res)
 }
 
-create_text <- function(package_version, package_name, package_title, feed_type = "new", add_diffify = "diff") {
+create_text <- function(package_version, package_name, package_title, feed_type = "new", add_diffify = TRUE, add_update_titles = FALSE) {
   if (feed_type == "new") {
     placeholder <- "+ [{|package_name|} |package_version|](https://cran.r-project.org/package=|package_name|): |package_title|"
   } else if (feed_type == "updated") {
     placeholder <- "+ [{|package_name|} |package_version|](https://cran.r-project.org/package=|package_name|)"
-    if (add_diffify == "diff"){
+    if (add_diffify == TRUE){
       placeholder <- stringr::str_c(placeholder, " - [diffify](https://diffify.com/R/|package_name|)")
+    }
+    if (add_update_titles == TRUE){
+      placeholder <- stringr::str_c(placeholder, ": |package_title|")
     }
   } else {
     stop("supplied type not recognized!", call. = FALSE)
@@ -57,11 +60,17 @@ cb_new_df <- process_cranberries(feed_type = "new", start_date = "2020-05-25")
 # print out the markdown text
 cat(cb_new_df$markdown_string, sep = "\n")
 
+# copy markdown text to clipboard
+clipr::write_clip(cb_new_df$markdown_string)
+
 # obtain updated packages
 cb_updated_df <- process_cranberries(feed_type = "updated", start_date = "2020-05-25")
 
 # print out the markdown text
 cat(cb_updated_df$markdown_string, sep = "\n")
+
+# copy markdown text to clipboard
+clipr::write_clip(cb_updated_df$markdown_string)
 
 # Previous version by Jonathan Carroll
 
