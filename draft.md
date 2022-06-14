@@ -66,6 +66,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
++ ["Thinning" Images](https://rappa.shinyapps.io/image_thinner/)
 
 
 ### R Internationally
