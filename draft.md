@@ -108,3 +108,5 @@ Events in 3 Months:
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you really publish a blog post if no one reads it?<br><br>Let&#39;s face it. The best content in the world won&#39;t save you from going unnoticed if readers cannot keep in touch.<br><br>Let&#39;s make sure this doesn&#39;t happen with your <a href="https://twitter.com/hashtag/quarto?src=hash&amp;ref_src=twsrc%5Etfw">#quarto</a> blog. This is PART 3 of my blog-building series <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Albert Rapp (@rappa753) <a href="https://twitter.com/rappa753/status/1537094828437254145?ref_src=twsrc%5Etfw">June 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
