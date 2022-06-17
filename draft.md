@@ -63,7 +63,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-
++ [huxtable](https://cran.r-project.org/package=huxtable) 5.5.0 - easily create and style tables for LaTeX, HTML and other formats
 
 ###  Videos and Podcasts
 
