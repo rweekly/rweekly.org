@@ -68,7 +68,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-
++ [nanonext 0.5.1](http://cran.r-project.org/package=nanonext) - NNG (Nanomsg Next Gen) Lightweight Messaging Library - added to Web Technologies CRAN Task View
 
 ###  Videos and Podcasts
 
