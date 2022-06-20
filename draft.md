@@ -102,7 +102,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to use multiple colour scales in ggplot with {ggnewscale}](http://gradientdescending.com/how-to-use-multiple-color-scales-in-ggplot-with-ggnewscale/)
 
-+ [RObservations #32: Creating an Instant Answer Oracle with httr and Shiny](https://bensstats.wordpress.com/2022/06/12/robservations-32-creating-an-instant-answer-oracle-with-httr-and-shiny/)
++ [RObservations #32: Creating an Instant Answer Oracle with httr and Shiny](https://bensstats.wordpress.com/2022/06/12/robservations-32-creating-an-instant-answer-oracle-with-httr-and-shiny/)
 
 + [Visualize SHAP Values without Tears](https://lorentzen.ch/index.php/2022/06/10/visualize-shap-values-without-tears/)
 
