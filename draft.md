@@ -139,6 +139,7 @@ Events in 3 Months:
 
 ###  Call for Participation
 
++ [(Re)launching RainbowR: a community of LGBTQ+ R users](https://rainbowr.netlify.app/posts/relaunching-rainbowr/relaunching-rainbowr.html)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
