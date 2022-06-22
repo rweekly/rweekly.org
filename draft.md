@@ -70,6 +70,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [nanonext 0.5.1](http://cran.r-project.org/package=nanonext) - NNG (Nanomsg Next Gen) Lightweight Messaging Library - added to Web Technologies CRAN Task View
 
++ [spatialsample 0.2.0](https://cran.r-project.org/package=spatialsample) - Functions and classes for spatial cross-validation with tidymodels
+
 ###  Videos and Podcasts
 
 + [Use resampling to understand #TidyTuesday drought in TX](https://juliasilge.com/blog/drought-in-tx/)
