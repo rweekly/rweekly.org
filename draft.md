@@ -75,6 +75,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Tutorials
 
 + [How to use multiple colour scales in ggplot with {ggnewscale}](http://gradientdescending.com/how-to-use-multiple-color-scales-in-ggplot-with-ggnewscale/)
++ [How to model exponential survival probabilities using maximum likelihood from scratch](https://lukas-r.blog/posts/2022-06-25-surviving-from-scratch/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
