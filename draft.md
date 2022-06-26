@@ -64,6 +64,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [{globals} 0.15.1](https://globals.futureverse.org) - Identify Global Objects in R Expressions
 
++ [{mirai} 0.5.0](https://cran.r-project.org/package=mirai) - Minimalist async evaluation framework for R
+
 ###  Videos and Podcasts
 
 
