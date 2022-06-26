@@ -62,6 +62,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [{flextable} 0.7.2](https://www.ardata.fr/en/post/2022/06/23/flextable-0-7-2-is-out/) - Framework for easily creating tables for reporting and publications
 
++ [{globals} 0.15.1](https://globals.futureverse.org) - Identify Global Objects in R Expressions
+
 ###  Videos and Podcasts
 
 
