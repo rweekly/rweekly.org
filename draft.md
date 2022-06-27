@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2022-W00
+title: R Weekly 2022-W26
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -48,6 +48,10 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [{censored} 0.1.0](https://github.com/tidymodels/censored) - A {parsnip} extension package which provides engines for various models for censored regression and survival analysis
 
++ [{oddsapiR} 0.0.1](https://cran.r-project.org/package=oddsapiR): Access Live Sports Odds from the Odds API
+
++ [{edibble} 0.1.0](https://cran.r-project.org/package=edibble): Designing Comparative Experiments
+
 **Bioconductor**
 
 
@@ -58,13 +62,13 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ### Updated Packages
 
-+ [{spatialsample} 0.2.0](https://cran.r-project.org/package=spatialsample) - Functions and classes for spatial cross-validation with tidymodels
++ [{spatialsample} 0.2.0](https://cran.r-project.org/package=spatialsample) - Functions and classes for spatial cross-validation with tidymodels - [diffify](https://diffify.com/R/spatialsample)
 
-+ [{flextable} 0.7.2](https://www.ardata.fr/en/post/2022/06/23/flextable-0-7-2-is-out/) - Framework for easily creating tables for reporting and publications
++ [{flextable} 0.7.2](https://www.ardata.fr/en/post/2022/06/23/flextable-0-7-2-is-out/) - Framework for easily creating tables for reporting and publications - [diffify](https://diffify.com/R/flextable)
 
-+ [{globals} 0.15.1](https://globals.futureverse.org) - Identify Global Objects in R Expressions
++ [{globals} 0.15.1](https://globals.futureverse.org) - Identify Global Objects in R Expressions - [diffify](https://diffify.com/R/globals)
 
-+ [{mirai} 0.5.0](https://cran.r-project.org/package=mirai) - Minimalist async evaluation framework for R
++ [{mirai} 0.5.0](https://cran.r-project.org/package=mirai) - Minimalist async evaluation framework for R - [diffify](https://diffify.com/R/mirai)
 
 ###  Videos and Podcasts
 
