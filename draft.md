@@ -53,10 +53,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 
+* [{rconfig} 0.1.3](https://CRAN.R-project.org/package=rconfig) - Manage R Configuration at the Command Line - [diffify](https://diffify.com/R/rconfig)
 
 ###  Videos and Podcasts
 
-
+* [Displaying raster files in R with Leaflet](https://yegrug.github.io/meetups/2022-06-23/)
 
 ### Gist & Cookbook
 
