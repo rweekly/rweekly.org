@@ -58,6 +58,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Videos and Podcasts
 
 * [Displaying raster files in R with Leaflet](https://yegrug.github.io/meetups/2022-06-23/)
+* [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 ### Gist & Cookbook
 
