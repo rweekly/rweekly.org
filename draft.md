@@ -87,6 +87,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [Using R in Regulatory Review - R Consortium - July 13, 2022](https://www.r-consortium.org/webinars)
+
 + [SatRdays: Using R for Data Science and Epidemiology - Aug 6, 2022](https://www.r-consortium.org/events/2022/06/20/francophone-satrday-conference-coming-soon-save-the-date)
 
 + [rstudio::conf(2022) Conference Schedule](https://www.rstudio.com/blog/rstudio-2022-conf-schedule/)
