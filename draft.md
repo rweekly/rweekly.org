@@ -66,7 +66,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
+* [Best practices for Shiny apps with Docker and more from the useR!2022](https://hosting.analythium.io/user-2022-best-practicesfor-shiny-apps-with-docker-and-more/?utm_source=rweekly&utm_medium=web&utm_campaign=2022-W27)
 
 ### R Internationally
 
