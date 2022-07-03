@@ -12,7 +12,11 @@ This week’s release was curated by [Tony ElHabr](@TonyElHabr), with help from 
 
 ###  Highlight
 
++ [UseR!2022: Best Practices for Shiny Apps with Docker and More](https://hosting.analythium.io/user-2022-best-practicesfor-shiny-apps-with-docker-and-more/?utm_source=rweekly&utm_medium=web&utm_campaign=2022-W27)
 
++ [Shell vs R Fundamentals – From Syntax to Control Structures with Zsh & BASH](https://morphoscape.wordpress.com/2022/06/24/shell-vs-r-fundamentals-from-syntax-to-control-structures-with-zsh-amp-bash/)
+
++ [Evaluating GitHub Activity for Contributors](https://ropensci.org/blog/2022/07/01/evaluating-github-activity-for-contributors/)
 
 ### Insights
 
@@ -40,7 +44,11 @@ This week’s release was curated by [Tony ElHabr](@TonyElHabr), with help from 
 
 ###  Resources
 
++ [UseR!2022: Best Practices for Shiny Apps with Docker and More](https://hosting.analythium.io/user-2022-best-practicesfor-shiny-apps-with-docker-and-more/?utm_source=rweekly&utm_medium=web&utm_campaign=2022-W27)
 
++ [Shell vs R Fundamentals – From Syntax to Control Structures with Zsh & BASH](https://morphoscape.wordpress.com/2022/06/24/shell-vs-r-fundamentals-from-syntax-to-control-structures-with-zsh-amp-bash/)
+
++ [Level Up Your Labels: Tips and Tricks for Annotating Plots](https://www.cararthompson.com/talks/user2022)
 
 ###  New Packages
 
@@ -50,10 +58,13 @@ This week’s release was curated by [Tony ElHabr](@TonyElHabr), with help from 
 
 + [{bonsai} 0.1.0](https://www.tidyverse.org/blog/2022/06/bonsai-0-1-0/): A new parsnip extension package for tree-based models is now on CRAN
 
++ [{bandit} 0.5.1](https://cran.r-project.org/package=bandit): Functions for Simple a/B Split Test and Multi-Armed Bandit Analysis
 
-**Bioconductor**
++ [{RcppColors} 0.1.0](https://cran.r-project.org/package=RcppColors): 'C++' Header Files for Color Conversion and Color Mappings
 
++ [{RcppCensSpatial} 0.3.0](https://cran.r-project.org/package=RcppCensSpatial): Spatial Estimation and Prediction for Censored/Missing Responses
 
++ [{bayeslm} 1.0.1](https://cran.r-project.org/package=bayeslm): Efficient Sampling for Gaussian Linear Regression with Arbitrary Priors
 
 **GitHub or Bitbucket**
 
@@ -61,7 +72,17 @@ This week’s release was curated by [Tony ElHabr](@TonyElHabr), with help from 
 
 ### Updated Packages
 
-* [{rconfig} 0.1.3](https://CRAN.R-project.org/package=rconfig) - Manage R Configuration at the Command Line - [diffify](https://diffify.com/R/rconfig)
++ [{rconfig} 0.1.3](https://CRAN.R-project.org/package=rconfig) - Manage R Configuration at the Command Line - [diffify](https://diffify.com/R/rconfig)
+
++ [{cargo} 0.2.15](https://cran.r-project.org/package=cargo) - [diffify](https://diffify.com/R/cargo)
+
++ [{precommit} 0.3.2](https://cran.r-project.org/package=precommit) - [diffify](https://diffify.com/R/precommit)
+
++ [{shiny.router} 0.2.3](https://cran.r-project.org/package=shiny.router) - [diffify](https://diffify.com/R/shiny.router)
+
++ [{recipes} 1.0.0](https://cran.r-project.org/package=recipes) - [diffify](https://diffify.com/R/recipes)
+
++ [{broom} 1.0.0](https://cran.r-project.org/package=broom) - [diffify](https://diffify.com/R/broom)
 
 ###  Videos and Podcasts
 
@@ -73,33 +94,17 @@ This week’s release was curated by [Tony ElHabr](@TonyElHabr), with help from 
 
 + [How to style your Quarto blog without knowing a lot of HTML/CSS](https://www.youtube.com/watch?v=ErRX8plZpQE)
 
-### Gist & Cookbook
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
++ [TidyX Episode 109 - R Classes and Objects - Making an S3 Object, Part 1](https://www.youtube.com/watch?v=k9PGOx9Oqjo)
 
 ###  Tutorials
-
-
-+ [Shell vs R Fundamentals – From Syntax to Control Structures with Zsh & BASH](https://morphoscape.wordpress.com/2022/06/24/shell-vs-r-fundamentals-from-syntax-to-control-structures-with-zsh-amp-bash/)
 
 + [Introduction to GitHub Actions to R users](https://beamilz.com/posts/series-gha/2022-series-gha-1-what-is/en/)
 
 + [A Beginner's Introduction to Mixed Effects Models](https://meghan.rbind.io/blog/2022-06-28-a-beginner-s-guide-to-mixed-effects-models/)
 
-+ [Level Up Your Labels: Tips and Tricks for Annotating Plots](https://www.cararthompson.com/talks/user2022)
-
 + [How to do Twitter Network Analysis and Visualization in R](https://levelup.gitconnected.com/how-to-do-amazing-twitter-network-analysis-in-r-2c258537dd7d)
 
 + [R Shiny Caching – Top 3 Ways to Cache Interactive Elements in R Shiny](https://appsilon.com/r-shiny-caching/)
-
-+ [UseR!2022: Best Practices for Shiny Apps with Docker and More](https://hosting.analythium.io/user-2022-best-practicesfor-shiny-apps-with-docker-and-more/)
 
 + [Developing React Applications in RStudio Workbench](https://www.jumpingrivers.com/blog/react-workbench/)
 
@@ -110,7 +115,6 @@ This week’s release was curated by [Tony ElHabr](@TonyElHabr), with help from 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
 
 ###  Upcoming Events in 3 Months
 
@@ -128,20 +132,7 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-### Grants & Funding
-
-
-### Datasets
-
-
-
-### Jobs
-
-
-
 ###  Call for Participation
-
-
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
