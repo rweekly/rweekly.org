@@ -32,6 +32,8 @@ This week’s release was curated by [Tony ElHabr](@TonyElHabr), with help from 
 
 + [Building a Kaggle Leaderboard with gtExtras](https://heads0rtai1s.github.io/2022/06/30/kaggle-leaderboard-gtextras/)
 
+![Building a Kaggle Leaderboard with gtExtras](https://raw.githubusercontent.com/rweekly/image/master/2022/W27/gt-kaggle_600.png)
+
 + [Food Crisis Analysis and, Forecasting with Neural Network Autoregression](https://datageeek.com/2022/06/30/food-crisis-analysis-and-forecasting-with-neural-network-autoregression/)
 
 ###  R in Organizations
@@ -49,6 +51,8 @@ This week’s release was curated by [Tony ElHabr](@TonyElHabr), with help from 
 + [Shell vs R Fundamentals – From Syntax to Control Structures with Zsh & BASH](https://morphoscape.wordpress.com/2022/06/24/shell-vs-r-fundamentals-from-syntax-to-control-structures-with-zsh-amp-bash/)
 
 + [Level Up Your Labels: Tips and Tricks for Annotating Plots](https://www.cararthompson.com/talks/user2022)
+
+![Level Up Your Labels: Tips and Tricks for Annotating Plots](https://raw.githubusercontent.com/rweekly/image/master/2022/W27/useR2022_level_up_your_labels_600.png)
 
 ###  New Packages
 
@@ -104,11 +108,15 @@ This week’s release was curated by [Tony ElHabr](@TonyElHabr), with help from 
 
 + [How to do Twitter Network Analysis and Visualization in R](https://levelup.gitconnected.com/how-to-do-amazing-twitter-network-analysis-in-r-2c258537dd7d)
 
+![How to do Twitter Network Analysis and Visualization in R](https://raw.githubusercontent.com/rweekly/image/master/2022/W27/twitter-network_600.png)
+
 + [R Shiny Caching – Top 3 Ways to Cache Interactive Elements in R Shiny](https://appsilon.com/r-shiny-caching/)
 
 + [Developing React Applications in RStudio Workbench](https://www.jumpingrivers.com/blog/react-workbench/)
 
 + [What To Do (And Not to Do) with Modeling Proportions/Fractional Outcomes](https://www.robertkubinec.com/post/limited_dvs/)
+
+![What To Do (And Not to Do) with Modeling Proportions/Fractional Outcomes](https://raw.githubusercontent.com/rweekly/image/master/2022/W27/comparecoefs-1_600.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
