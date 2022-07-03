@@ -65,13 +65,13 @@ This week’s release was curated by [Tony ElHabr](@TonyElHabr), with help from 
 
 ###  Videos and Podcasts
 
+[Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+
 + [Displaying raster files in R with Leaflet](https://yegrug.github.io/meetups/2022-06-23/)
 
 + [distributions3: From Basic Probability to Probabilistic Regression (useR! 2022)](https://www.youtube.com/watch?v=rs7ha1F5S0k)
 
 + [How to style your Quarto blog without knowing a lot of HTML/CSS](https://www.youtube.com/watch?v=ErRX8plZpQE)
-
-+ [**Listen to the R-Weekly Highlights Podcast**](https://rweekly.fireside.fm/)
 
 ### Gist & Cookbook
 
@@ -147,6 +147,6 @@ Events in 3 Months:
 
 ### Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Two exciting new improvements coming to `case_when()` for those who can spot them 😉 <a href="https://t.co/SlyQP7lTfU">pic.twitter.com/SlyQP7lTfU</a></p>&mdash; Davis Vaughan (@dvaughan32) <a href="https://twitter.com/dvaughan32/status/1542942862077317121?ref_src=twsrc%5Etfw">July 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bad coder bingo. My meme entry for <a href="https://twitter.com/hashtag/ISEC2022?src=hash&amp;ref_src=twsrc%5Etfw">#ISEC2022</a> <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/autobiographical?src=hash&amp;ref_src=twsrc%5Etfw">#autobiographical</a> <a href="https://t.co/ifOaxHelA6">pic.twitter.com/ifOaxHelA6</a></p>&mdash; Todd Arnold 🦆🌈🇺🇦 (@Todd_W_Arnold) <a href="https://twitter.com/Todd_W_Arnold/status/1542577933495173120?ref_src=twsrc%5Etfw">June 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Two exciting new improvements coming to `case_when()` for those who can spot them 😉 <a href="https://t.co/SlyQP7lTfU">pic.twitter.com/SlyQP7lTfU</a></p>&mdash; Davis Vaughan (@dvaughan32) <a href="https://twitter.com/dvaughan32/status/1542942862077317121?ref_src=twsrc%5Etfw">July 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
