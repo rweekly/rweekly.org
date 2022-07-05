@@ -55,7 +55,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-
++ [How to style your Quarto blog without knowing a lot of HTML/CSS](https://www.youtube.com/watch?v=ErRX8plZpQE)
++ [How to build an interactive point-and-click game with {Shiny}](https://www.youtube.com/watch?v=4-6jDDCADvU)
++ [Extracting spatial data from OpenStreetMap](https://www.youtube.com/watch?v=p4W_ey9sHlY)
 
 ### Gist & Cookbook
 
