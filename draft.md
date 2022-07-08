@@ -37,6 +37,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [Search on R-universe](https://r-universe.dev/)
+
 **CRAN**
 
 
