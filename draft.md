@@ -37,8 +37,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-<i>🔍 [Search on R-universe](https://r-universe.dev/) 🔍</i>
-
 **CRAN**
 
 
@@ -56,6 +54,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{ggcolormeter} 0.1.0](https://github.com/yjunechoe/ggcolormeter): A ggplot2 color/fill legend guide extension in the style of a dashboard meter.
 
 ### Updated Packages
+
+<i>🔍 [Search on R-universe](https://r-universe.dev/) 🔍</i>
 
 + [{ggseqplot} 0.6.2.9000](https://github.com/maraab23/ggseqplot/): R library for visualizing (social science) sequence data using ggplot2.
 
