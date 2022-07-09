@@ -56,7 +56,9 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [RObservations #34: Using NLP with keras to understand market sentiment with LSTM networks](https://bensstats.wordpress.com/2022/06/29/robservations-34-using-nlp-with-keras-to-understand-market-sentiment-with-lstm-networks/)
 
 + [The best stats you've ever seen](https://www.harsh17.in/the-best-stats-you-ve-ever-seen/)
-  
+
++ [Stop opening the same RStudio Project twice](https://www.rostrum.blog/2022/07/08/rproj-dupes/)
+
 ### R in the Real World
 
 + [R Ladies Cuernavaca Partners with Biotechnology Institute to Quickly Expand Reach in 2022](https://www.r-consortium.org/blog/2022/07/07/r-ladies-cuernacava-partners-with-biotechnology-institute)
