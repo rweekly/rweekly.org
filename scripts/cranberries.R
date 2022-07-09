@@ -15,11 +15,11 @@ create_text <- function(package_version, package_name, package_title, feed_type 
     placeholder <- "+ [{|package_name|} |package_version|](https://cran.r-project.org/package=|package_name|): |package_title|"
   } else if (feed_type == "updated") {
     placeholder <- "+ [{|package_name|} |package_version|](https://cran.r-project.org/package=|package_name|)"
-    if (add_diffify == TRUE){
-      placeholder <- stringr::str_c(placeholder, " - [diffify](https://diffify.com/R/|package_name|)")
-    }
     if (add_update_titles == TRUE){
       placeholder <- stringr::str_c(placeholder, ": |package_title|")
+    }
+    if (add_diffify == TRUE){
+      placeholder <- stringr::str_c(placeholder, " - [diffify](https://diffify.com/R/|package_name|)")
     }
   } else {
     stop("supplied type not recognized!", call. = FALSE)
@@ -49,13 +49,13 @@ process_cranberries <- function(feed_type, start_date, end_date = as.Date(lubrid
 
       filter(item_pub_date >= as.Date(start_date) & item_pub_date <= as.Date(now())) %>%
       select(one_of(c("package_version", "package_name", "package_title", "feed_type",  "package_date"))) %>%
-      mutate(markdown_string = purrr::pmap_chr(select(., -package_date), create_text))
+      mutate(markdown_string = purrr::pmap_chr(select(., -package_date), create_text, add_update_titles = TRUE))
 
     return(cb_tidy)
 }
 
 # obtain new packages
-cb_new_df <- process_cranberries(feed_type = "new", start_date = "2020-05-25")
+cb_new_df <- process_cranberries(feed_type = "new", start_date = as.Date(Sys.Date() - 10))
 
 # print out the markdown text
 cat(cb_new_df$markdown_string, sep = "\n")
@@ -64,7 +64,7 @@ cat(cb_new_df$markdown_string, sep = "\n")
 clipr::write_clip(cb_new_df$markdown_string)
 
 # obtain updated packages
-cb_updated_df <- process_cranberries(feed_type = "updated", start_date = "2020-05-25")
+cb_updated_df <- process_cranberries(feed_type = "updated", start_date = as.Date(Sys.Date() - 10))
 
 # print out the markdown text
 cat(cb_updated_df$markdown_string, sep = "\n")
