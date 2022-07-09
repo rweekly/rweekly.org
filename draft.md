@@ -31,7 +31,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [useR! 2022: R’s C interface](https://shikokuchuo.net/user2022-conference/): Perspectives from Wrapping a C Library (session presentation slides)
 
 ###  New Packages
 
@@ -56,6 +56,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/) 🔍</i>
+
++ [{nanonext} 0.5.2](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library
 
 + [{ggseqplot} 0.6.2.9000](https://github.com/maraab23/ggseqplot/): R library for visualizing (social science) sequence data using ggplot2.
 
