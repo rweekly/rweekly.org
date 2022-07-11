@@ -1,21 +1,26 @@
 ---
-layout: draft
-title: R Weekly 2022-W28
-description: Draft of the R Weekly
+title: R Weekly 2022-W28 Containers, Conf, Clicks
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
+RSS feeds are once again being captured. Want your posts automatically submitted to the editors each week? Add your feed to [our list](https://github.com/rweekly/rweekly.org/edit/gh-pages/rss_feeds.csv).
+
 This week’s release was curated by [Jonathan Carroll](https://twitter.com/carroll_jono), with help from the R Weekly team members and contributors.
 
 ###  Highlight
 
++ [Containerizing Interactive R Markdown Documents](https://hosting.analythium.io/containerizing-interactive-r-markdown-documents/)
 
++ [RStudio Recap From the Appsilon Shiny Conference](https://www.rstudio.com/blog/rstudio-recap-from-the-appsilon-shiny-conference/)
+
++ [How to build an interactive point-and-click game with {Shiny}](https://www.youtube.com/watch?v=4-6jDDCADvU)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W28/game.png)
 
 ### Insights
-
-+ [Colorful R Plots with Wes Anderson Palettes – Pirate Ships](https://morphoscape.wordpress.com/2022/07/08/colorful-r-plots-with-wes-anderson-palettes-pirate-ships/)
 
 + [Containerizing Interactive R Markdown Documents](https://hosting.analythium.io/containerizing-interactive-r-markdown-documents/)
 
@@ -29,6 +34,10 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 + [Reshaping data frames using pivot functions from {tidyr} and tally from {dplyr}](https://tidytuesday.netlify.app/posts/2022-07-05-sf-rents/)
 
++ [Colorful R Plots with Wes Anderson Palettes – Pirate Ships](https://morphoscape.wordpress.com/2022/07/08/colorful-r-plots-with-wes-anderson-palettes-pirate-ships/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W28/ship.png)
+
 + [Slight inconsistency between forcats’ fct_lump_min and fct_lump_prop](https://statisticaloddsandends.wordpress.com/2022/07/03/slight-inconsistency-between-forcats-fct_lump_min-and-fct_lump_prop/)
 
 + [R LightGBM Regression](https://blog.alpha-analysis.com/2022/07/r-lightgbm-regression.html)
@@ -41,11 +50,13 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 
 + [Recreating the Shiny App tutorial with a Plumber API + React: Part 1](https://www.jumpingrivers.com/blog/r-shiny-plumber-react-part-1/)
 
-+ [{isocubes} v0.1.2 update with Signed Distance Fields](https://coolbutuseless.github.io/2022/07/01/isocubes-v0.1.2-update-with-signed-distance-fields/)
-
 + [Three ways to look at #TidyTuesday UK pay gap data](https://juliasilge.com/blog/pay-gap-uk/)
 
 + [A Major Contribution to Learning R](https://matloff.wordpress.com/2022/07/01/a-major-contribution-to-learning-r/)
+
++ [{isocubes} v0.1.2 update with Signed Distance Fields](https://coolbutuseless.github.io/2022/07/01/isocubes-v0.1.2-update-with-signed-distance-fields/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W28/isocubes.png)
 
 + [How I Use Stories to Share Data at Meetings](https://www.rstudio.com/blog/how-i-use-stories-to-share-data-at-meetings/)
 
@@ -66,14 +77,6 @@ This week’s release was curated by [Jonathan Carroll](https://twitter.com/carr
 + [Virtual Events Opened New Horizons for R-Ladies Dallas](https://www.r-consortium.org/blog/2022/07/05/virtual-events-opened-new-horizons-for-r-ladies-dallas)
 
 + [R Lille Group Organizer, Mickaël Canouil, Talks About Guiding New Users](https://www.r-consortium.org/blog/2022/06/29/r-lille-organizer-talks-about-guiding-new-users)
-
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
 
 ###  Resources
 
@@ -179,14 +182,6 @@ High-Quality Bitmap (PNG, JPEG, TIFF), Vector (PDF, SVG, PostScript) and Display
 
 + [Washington Post Data Team Logo Generator](https://gist.github.com/andrewbtran/07bd3abd4eb3a958c00af99c1d306baf)
 
-### Shiny Apps
-
-
-
-### R Internationally
-
-
-
 ###  Tutorials
 
 + [Demystifying delayed aesthetic evaluation: Part 2](https://yjunechoe.github.io/posts/2022-07-06-ggplot2-delayed-aes-2/)
@@ -209,15 +204,6 @@ Events in 3 Months:
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-### Grants & Funding
-
-
-### Datasets
-
-### Jobs
-
-
 
 ###  Call for Participation
 
