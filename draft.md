@@ -1,190 +1,82 @@
 ---
-title: R Weekly 2022-W28 Containers, Conf, Clicks
-description: Weekly News in the R Community
+layout: draft
+title: R Weekly 2022-W29
+description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
+
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-RSS feeds are once again being captured. Want your posts automatically submitted to the editors each week? Add your feed to [our list](https://github.com/rweekly/rweekly.org/edit/gh-pages/rss_feeds.csv).
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
-This week’s release was curated by [Jonathan Carroll](https://twitter.com/carroll_jono), with help from the R Weekly team members and contributors.
+
 
 ###  Highlight
 
-+ [Containerizing Interactive R Markdown Documents](https://hosting.analythium.io/containerizing-interactive-r-markdown-documents/)
 
-+ [RStudio Recap From the Appsilon Shiny Conference](https://www.rstudio.com/blog/rstudio-recap-from-the-appsilon-shiny-conference/)
-
-+ [How to build an interactive point-and-click game with {Shiny}](https://www.youtube.com/watch?v=4-6jDDCADvU)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2022/W28/game.png)
 
 ### Insights
 
-+ [Containerizing Interactive R Markdown Documents](https://hosting.analythium.io/containerizing-interactive-r-markdown-documents/)
 
-+ [Fixed vs. random effects for browsing data - a simulation](https://bern-r.blogspot.com/2022/07/fixed-vs-random-effects-for-browsing.html)
-
-+ [Introducing {weatherkit}: The Eventual Replacement R Package for {darksky}](https://rud.is/b/2022/07/07/introducing-weatherkit-the-eventual-replacement-r-package-for-darksky/)
-
-+ [Readable code with base R (part 2)](https://rpahl.github.io/r-some-blog/posts/readable-code-part2/)
-
-+ [Updated Comparison of R Graphical User Interfaces](https://r4stats.com/2022/06/20/updated-comparison-of-r-guis/)
-
-+ [Reshaping data frames using pivot functions from {tidyr} and tally from {dplyr}](https://tidytuesday.netlify.app/posts/2022-07-05-sf-rents/)
-
-+ [Colorful R Plots with Wes Anderson Palettes – Pirate Ships](https://morphoscape.wordpress.com/2022/07/08/colorful-r-plots-with-wes-anderson-palettes-pirate-ships/)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2022/W28/ship.png)
-
-+ [Slight inconsistency between forcats’ fct_lump_min and fct_lump_prop](https://statisticaloddsandends.wordpress.com/2022/07/03/slight-inconsistency-between-forcats-fct_lump_min-and-fct_lump_prop/)
-
-+ [R LightGBM Regression](https://blog.alpha-analysis.com/2022/07/r-lightgbm-regression.html)
-
-+ [One-sample Wilcoxon test in R](https://statsandr.com/blog/one-sample-wilcoxon-test-in-r/)
-
-+ [How to install R 3.6.3 (NOT 4+) on Linux MINT 19.x (19.1, 19.2, 19.3)](https://www.r-statistics.com/2022/07/how-to-install-r-3-6-3-not-4-on-linux-mint-19-x-19-1-19-2-19-3/)
-
-+ [Moving to blog.r-project.org](https://developer.r-project.org/Blog/public/2022/06/30/moving-to-blog.r-project.org/)
-
-+ [Recreating the Shiny App tutorial with a Plumber API + React: Part 1](https://www.jumpingrivers.com/blog/r-shiny-plumber-react-part-1/)
-
-+ [Three ways to look at #TidyTuesday UK pay gap data](https://juliasilge.com/blog/pay-gap-uk/)
-
-+ [A Major Contribution to Learning R](https://matloff.wordpress.com/2022/07/01/a-major-contribution-to-learning-r/)
-
-+ [{isocubes} v0.1.2 update with Signed Distance Fields](https://coolbutuseless.github.io/2022/07/01/isocubes-v0.1.2-update-with-signed-distance-fields/)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2022/W28/isocubes.png)
-
-+ [How I Use Stories to Share Data at Meetings](https://www.rstudio.com/blog/how-i-use-stories-to-share-data-at-meetings/)
-
-+ [RStudio Recap From the Appsilon Shiny Conference](https://www.rstudio.com/blog/rstudio-recap-from-the-appsilon-shiny-conference/)
-
-+ [Probabilistic forecasting for the UEFA Women's Euro 2022](https://www.zeileis.org/news/weuro2022/)
-
-+ [RObservations #34: Using NLP with keras to understand market sentiment with LSTM networks](https://bensstats.wordpress.com/2022/06/29/robservations-34-using-nlp-with-keras-to-understand-market-sentiment-with-lstm-networks/)
-
-+ [The best stats you've ever seen](https://www.harsh17.in/the-best-stats-you-ve-ever-seen/)
-
-+ [Stop opening the same RStudio Project twice](https://www.rostrum.blog/2022/07/08/rproj-dupes/)
 
 ### R in the Real World
 
-+ [R Ladies Cuernavaca Partners with Biotechnology Institute to Quickly Expand Reach in 2022](https://www.r-consortium.org/blog/2022/07/07/r-ladies-cuernacava-partners-with-biotechnology-institute)
 
-+ [Virtual Events Opened New Horizons for R-Ladies Dallas](https://www.r-consortium.org/blog/2022/07/05/virtual-events-opened-new-horizons-for-r-ladies-dallas)
 
-+ [R Lille Group Organizer, Mickaël Canouil, Talks About Guiding New Users](https://www.r-consortium.org/blog/2022/06/29/r-lille-organizer-talks-about-guiding-new-users)
+###  R in Organizations
+
+
+
+###  R in Academia
+
+
 
 ###  Resources
 
-+ [useR! 2022: R’s C interface](https://shikokuchuo.net/user2022-conference/): Perspectives from Wrapping a C Library (session presentation slides)
+
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+
 **CRAN**
 
-+ [{nestedcv} 0.2.3](https://cran.r-project.org/package=nestedcv): Nested Cross-Validation with 'glmnet' and 'caret'
-+ [{delaunay} 1.0.0](https://cran.r-project.org/package=delaunay): 2d, 2.5d, and 3d Delaunay Tessellations
-+ [{rtiddlywiki} 0.1.0](https://cran.r-project.org/package=rtiddlywiki): R Interface for 'TiddlyWiki'
-+ [{dtrackr} 0.2.4](https://cran.r-project.org/package=dtrackr): Track your Data Pipelines
-+ [{ggseqplot} 0.6.2](https://cran.r-project.org/package=ggseqplot): Render Sequence Plots using 'ggplot2'
-+ [{archetypal} 1.3.0](https://cran.r-project.org/package=archetypal): Finds the Archetypal Analysis of a Data Frame
-+ [{qPCRtools} 0.1.1](https://cran.r-project.org/package=qPCRtools): Tools for qPCR
-+ [{ixplorer} 0.2.2](https://cran.r-project.org/package=ixplorer): Easy DataOps for R Users
-+ [{RcppColors} 0.1.0](https://cran.r-project.org/package=RcppColors): 'C++' Header Files for Color Conversion and Color Mappings
-+ [{scAnnotate} 0.0.1](https://cran.r-project.org/package=scAnnotate): An Automated Cell Type Annotation Tool for Single-Cell RNA-Sequencing Data
-+ [{sciRmdTheme} 0.1](https://cran.r-project.org/package=sciRmdTheme): Upgraded 'Rmarkdown' Themes for Scientific Writing
-+ [{farr} 0.2.27](https://cran.r-project.org/package=farr): Data and Code for Financial Accounting Research
-+ [{bandit} 0.5.1](https://cran.r-project.org/package=bandit): Functions for Simple a/B Split Test and Multi-Armed Bandit Analysis
+
+
+**Bioconductor**
+
+
 
 **GitHub or Bitbucket**
 
-+ [{huggingfaceR} 0.1.0](https://github.com/farach/huggingfaceR): Hugging Face state-of-the-art models in R.
 
-+ [{s3fs} 0.1.0](https://github.com/DyfanJones/s3fs): File System like `API` for Amazon Web Service `S3`.
-
-+ [{ggcolormeter} 0.1.0](https://github.com/yjunechoe/ggcolormeter): A ggplot2 color/fill legend guide extension in the style of a dashboard meter.
 
 ### Updated Packages
 
-<i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
-
-+ [{nanonext} 0.5.2](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library - [diffify](https://diffify.com/R/nanonext)
-+ [{ggseqplot} 0.6.2.9000](https://github.com/maraab23/ggseqplot/): R library for visualizing (social science) sequence data using ggplot2 - [diffify](https://diffify.com/R/ggseqplot)
-+ [{metrica} 2.0.0](https://github.com/adriancorrendo/metrica): Prediction Performance Metrics - [diffify](https://diffify.com/R/metrica)
-+ [{rgl} 0.109.6](https://cran.r-project.org/package=rgl): 3D Visualization Using OpenGL - [diffify](https://diffify.com/R/rgl)
-+ [{Rcpp} 1.0.9](https://cran.r-project.org/package=Rcpp): Seamless R and C++ Integration - [diffify](https://diffify.com/R/Rcpp)
-+ [{robust} 0.7-1](https://cran.r-project.org/package=robust): Port of the S+ "Robust Library" - [diffify](https://diffify.com/R/robust)
-+ [{ggspatial} 1.1.6](https://cran.r-project.org/package=ggspatial): Spatial Data Framework for ggplot2 - [diffify](https://diffify.com/R/ggspatial)
-+ [{drda} 2.0.1](https://cran.r-project.org/package=drda): Dose-Response Data Analysis - [diffify](https://diffify.com/R/drda)
-+ [{ActivePathways} 1.1.1](https://cran.r-project.org/package=ActivePathways): Integrative Pathway Enrichment Analysis of Multivariate Omics
-Data - [diffify](https://diffify.com/R/ActivePathways)
-+ [{vmr} 0.0.4](https://cran.r-project.org/package=vmr): Virtual Machines for R - [diffify](https://diffify.com/R/vmr)
-+ [{devtoolbox} 0.2.0](https://cran.r-project.org/package=devtoolbox): Tools for the R Developer - [diffify](https://diffify.com/R/devtoolbox)
-+ [{broman} 0.80](https://cran.r-project.org/package=broman): Karl Broman's R Code - [diffify](https://diffify.com/R/broman)
-+ [{wdpar} 1.3.3](https://cran.r-project.org/package=wdpar): Interface to the World Database on Protected Areas - [diffify](https://diffify.com/R/wdpar)
-+ [{cna} 3.4.0](https://cran.r-project.org/package=cna): Causal Modeling with Coincidence Analysis - [diffify](https://diffify.com/R/cna)
-+ [{usincometaxes} 0.5.0](https://cran.r-project.org/package=usincometaxes): Calculate Federal and State Income Taxes in the United States - [diffify](https://diffify.com/R/usincometaxes)
-+ [{lme4} 1.1-30](https://cran.r-project.org/package=lme4): Linear Mixed-Effects Models using 'Eigen' and S4 - [diffify](https://diffify.com/R/lme4)
-+ [{IDSL.MXP} 1.5](https://cran.r-project.org/package=IDSL.MXP): Parser for mzML, mzXML, and netCDF Files (Mass Spectrometry
-Data) - [diffify](https://diffify.com/R/IDSL.MXP)
-+ [{IDSL.IPA} 1.9](https://cran.r-project.org/package=IDSL.IPA): Intrinsic Peak Analysis (IPA) for HRMS Data - [diffify](https://diffify.com/R/IDSL.IPA)
-+ [{htmlTable} 2.4.1](https://cran.r-project.org/package=htmlTable): Advanced Tables for Markdown/HTML - [diffify](https://diffify.com/R/htmlTable)
-+ [{tune} 1.0.0](https://cran.r-project.org/package=tune): Tidy Tuning Tools - [diffify](https://diffify.com/R/tune)
-+ [{nflverse} 1.0.2](https://cran.r-project.org/package=nflverse): Easily Install and Load the 'nflverse' - [diffify](https://diffify.com/R/nflverse)
-+ [{processx} 3.7.0](https://cran.r-project.org/package=processx): Execute and Control System Processes - [diffify](https://diffify.com/R/processx)
-+ [{vetr} 0.2.14](https://cran.r-project.org/package=vetr): Trust, but Verify - [diffify](https://diffify.com/R/vetr)
-+ [{cgmanalysis} 2.7.3](https://cran.r-project.org/package=cgmanalysis): Clean and Analyze Continuous Glucose Monitor Data - [diffify](https://diffify.com/R/cgmanalysis)
-+ [{nflseedR} 1.1.0](https://cran.r-project.org/package=nflseedR): Functions to Efficiently Simulate and Evaluate NFL Seasons - [diffify](https://diffify.com/R/nflseedR)
-+ [{shorts} 2.0.0](https://cran.r-project.org/package=shorts): Short Sprints - [diffify](https://diffify.com/R/shorts)
-+ [{webdeveloper} 1.0.1](https://cran.r-project.org/package=webdeveloper): Functions for Web Development - [diffify](https://diffify.com/R/webdeveloper)
-+ [{wrMisc} 1.9.2](https://cran.r-project.org/package=wrMisc): Analyze Experimental High-Throughput (Omics) Data - [diffify](https://diffify.com/R/wrMisc)
-+ [{jsTreeR} 2.1.0](https://cran.r-project.org/package=jsTreeR): A Wrapper of the JavaScript Library 'jsTree' - [diffify](https://diffify.com/R/jsTreeR)
-+ [{quarto} 1.2](https://cran.r-project.org/package=quarto): R Interface to 'Quarto' Markdown Publishing System - [diffify](https://diffify.com/R/quarto)
-+ [{stacks} 1.0.0](https://cran.r-project.org/package=stacks): Tidy Model Stacking - [diffify](https://diffify.com/R/stacks)
-+ [{dockerfiler} 0.2.0](https://cran.r-project.org/package=dockerfiler): Easy Dockerfile Creation from R - [diffify](https://diffify.com/R/dockerfiler)
-+ [{farver} 2.1.1](https://cran.r-project.org/package=farver): High Performance Colour Space Manipulation - [diffify](https://diffify.com/R/farver)
-+ [{ctrdata} 1.10.0](https://cran.r-project.org/package=ctrdata): Retrieve and Analyze Clinical Trials in Public Registers - [diffify](https://diffify.com/R/ctrdata)
-+ [{oce} 1.7-8](https://cran.r-project.org/package=oce): Analysis of Oceanographic Data - [diffify](https://diffify.com/R/oce)
-+ [{broom.helpers} 1.8.0](https://cran.r-project.org/package=broom.helpers): Helpers for Model Coefficients Tibbles - [diffify](https://diffify.com/R/broom.helpers)
-+ [{fastmatrix} 0.4-12](https://cran.r-project.org/package=fastmatrix): Fast Computation of some Matrices Useful in Statistics - [diffify](https://diffify.com/R/fastmatrix)
-+ [{jds.rmd} 0.3.1](https://cran.r-project.org/package=jds.rmd): R Markdown Templates for Journal of Data Science - [diffify](https://diffify.com/R/jds.rmd)
-+ [{tcgaViz} 1.0.1](https://cran.r-project.org/package=tcgaViz): Visualization Tool for the Cancer Genome Atlas Program (TCGA) - [diffify](https://diffify.com/R/tcgaViz)
-+ [{ChaosGame} 1.3](https://cran.r-project.org/package=ChaosGame): Chaos Game - [diffify](https://diffify.com/R/ChaosGame)
-+ [{insight} 0.18.0](https://cran.r-project.org/package=insight): Easy Access to Model Information for Various Model Objects - [diffify](https://diffify.com/R/insight)
-+ [{Cairo} 1.6-0](https://cran.r-project.org/package=Cairo): R Graphics Device using Cairo Graphics Library for Creating
-High-Quality Bitmap (PNG, JPEG, TIFF), Vector (PDF, SVG, PostScript) and Display (X11 and Win32) Output - [diffify](https://diffify.com/R/Cairo)
-+ [{RSDA} 3.0.12](https://cran.r-project.org/package=RSDA): R to Symbolic Data Analysis - [diffify](https://diffify.com/R/RSDA)
-+ [{dendextend} 1.16.0](https://cran.r-project.org/package=dendextend): Extending 'dendrogram' Functionality in R - [diffify](https://diffify.com/R/dendextend)
-+ [{csv} 0.6.2](https://cran.r-project.org/package=csv): Read and Write CSV Files with Selected Conventions - [diffify](https://diffify.com/R/csv)
-+ [{latticeExtra} 0.6-30](https://cran.r-project.org/package=latticeExtra): Extra Graphical Utilities Based on Lattice - [diffify](https://diffify.com/R/latticeExtra)
-+ [{tinyscholar} 0.1.6](https://cran.r-project.org/package=tinyscholar): Get and Show Personal 'Google Scholar' Profile - [diffify](https://diffify.com/R/tinyscholar)
-+ [{rpanel} 1.1-5.1](https://cran.r-project.org/package=rpanel): Simple Interactive Controls for R using the 'tcltk' Package - [diffify](https://diffify.com/R/rpanel)
-+ [{gam} 1.20.2](https://cran.r-project.org/package=gam): Generalized Additive Models - [diffify](https://diffify.com/R/gam)
-+ [{bizicount} 1.1.0](https://cran.r-project.org/package=bizicount): Bivariate Zero-Inflated Count Models Using Copulas - [diffify](https://diffify.com/R/bizicount)
+<i>🔍 [Search on R-universe](https://r-universe.dev/) 🔍</i>
 
 ###  Videos and Podcasts
 
-+ [How to style your Quarto blog without knowing a lot of HTML/CSS](https://www.youtube.com/watch?v=ErRX8plZpQE)
+* [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-+ [How to build an interactive point-and-click game with {Shiny}](https://www.youtube.com/watch?v=4-6jDDCADvU)
-
-+ [Extracting spatial data from OpenStreetMap](https://www.youtube.com/watch?v=p4W_ey9sHlY)
-
-+ [#TidyX Episode 108](https://www.youtube.com/watch?v=zDrOzGI4mas)
 
 ### Gist & Cookbook
 
-+ [Washington Post Data Team Logo Generator](https://gist.github.com/andrewbtran/07bd3abd4eb3a958c00af99c1d306baf)
+
+
+### Shiny Apps
+
+
+
+### R Internationally
+
+
 
 ###  Tutorials
 
-+ [Demystifying delayed aesthetic evaluation: Part 2](https://yjunechoe.github.io/posts/2022-07-06-ggplot2-delayed-aes-2/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -197,23 +89,24 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [SatRdays: Using R for Data Science and Epidemiology - Aug 6, 2022](https://www.r-consortium.org/events/2022/06/20/francophone-satrday-conference-coming-soon-save-the-date)
-
-+ [rstudio::conf(2022) Conference Schedule](https://www.rstudio.com/blog/rstudio-2022-conf-schedule/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
+### Grants & Funding
+
+
+### Datasets
+
+### Jobs
+
+
+
+
 ###  Call for Participation
+
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">👯 I keep opening the same <a href="https://twitter.com/hashtag/RStudio?src=hash&amp;ref_src=twsrc%5Etfw">#RStudio</a> Project twice because I am foolish. So I wrote an <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> function to tell me when I&#39;m being foolish.<br>📝 Post: <a href="https://t.co/P9dGZAQQwl">https://t.co/P9dGZAQQwl</a><br>🐙 Gist: <a href="https://t.co/nwfQ5KyQTH">https://t.co/nwfQ5KyQTH</a> <a href="https://t.co/HCYZrjajvm">pic.twitter.com/HCYZrjajvm</a></p>&mdash; Matt Dray (@mattdray) <a href="https://twitter.com/mattdray/status/1545542185017397249?ref_src=twsrc%5Etfw">July 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> tip that I got from <a href="https://twitter.com/gavinprm?ref_src=twsrc%5Etfw">@gavinprm</a> and now use daily. If you want to close all your <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> source files, except the one you&#39;re on, use Ctrl + Alt +Shift +W. No more closing every single script and view to clean things up.</p>&mdash; Oscar Baruffa (@OscarBaruffa) <a href="https://twitter.com/OscarBaruffa/status/1543913043058479104?ref_src=twsrc%5Etfw">July 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr">🚀 <a href="https://t.co/TtrDpv5Big">pic.twitter.com/TtrDpv5Big</a></p>&mdash; Romain François (@romain_francois) <a href="https://twitter.com/romain_francois/status/1544632539599495171?ref_src=twsrc%5Etfw">July 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
