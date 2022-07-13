@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2022-W27
+title: R Weekly 2022-W29
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -9,6 +9,8 @@ image: https://rweekly.org/public/facebook.png
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+
+
 
 ###  Highlight
 
@@ -38,6 +40,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+
 **CRAN**
 
 
@@ -52,13 +55,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-
-* [{rconfig} 0.1.3](https://CRAN.R-project.org/package=rconfig) - Manage R Configuration at the Command Line - [diffify](https://diffify.com/R/rconfig)
+<i>🔍 [Search on R-universe](https://r-universe.dev/) 🔍</i>
 
 ###  Videos and Podcasts
 
-* [Displaying raster files in R with Leaflet](https://yegrug.github.io/meetups/2022-06-23/)
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+
 
 ### Gist & Cookbook
 
@@ -87,11 +89,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [Using R in Regulatory Review - R Consortium - July 13, 2022](https://www.r-consortium.org/webinars)
-
-+ [SatRdays: Using R for Data Science and Epidemiology - Aug 6, 2022](https://www.r-consortium.org/events/2022/06/20/francophone-satrday-conference-coming-soon-save-the-date)
-
-+ [rstudio::conf(2022) Conference Schedule](https://www.rstudio.com/blog/rstudio-2022-conf-schedule/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -106,12 +103,10 @@ Events in 3 Months:
 
 
 
-###  Call for Participation
 
+###  Call for Participation
 
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
-
-
