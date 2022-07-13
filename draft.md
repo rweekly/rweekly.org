@@ -76,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Multi-scale model assessment with {spatialsample}](https://www.tidymodels.org/learn/work/multi-scale/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
