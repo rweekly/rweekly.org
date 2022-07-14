@@ -60,7 +60,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
+* [How to Read and Merge +1k Excel files using R](https://www.youtube.com/watch?v=BHdWYonrPAs)
+<a href="https://www.youtube.com/watch?v=BHdWYonrPAs">
+  <img src="https://i.ytimg.com/vi/BHdWYonrPAs/maxresdefault.jpg" title="How to Read and Merge +1k Excel files using R" target="_blank" width="350"/>
+</a>
 
 ### Gist & Cookbook
 
