@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+- [Introducing the {renderthis} package]([url](https://www.jhelvy.com/posts/2022-06-28-introducing-renderthis/)) ( jhelvy.com ) 
 
 ### R in the Real World
 
@@ -43,7 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+[{renderthis} 0.1.0]([url](https://cran.r-project.org/web/packages/renderthis/index.html)): Render Slides to Different Formats ( cran.r-project.org ) 
 
 **Bioconductor**
 
