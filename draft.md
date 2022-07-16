@@ -94,6 +94,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
+
++ [Multi-scale model assessment with {spatialsample}](https://www.tidymodels.org/learn/work/multi-scale/)
+
 + [Making Slides in Quarto with reveal.js](https://meghan.rbind.io/blog/quarto-slides/)
 
 + [Stop opening the same RStudio Project twice](https://www.rostrum.blog/2022/07/08/rproj-dupes/)
