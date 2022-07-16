@@ -9,7 +9,47 @@ image: https://rweekly.org/public/facebook.png
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+### Draft
 
++ [One-sample Wilcoxon test in R](https://statsandr.com/blog/one-sample-wilcoxon-test-in-r/)                                                                                                                                                           
++ [One-sample Wilcoxon test in R](https://statsandr.com/blog/one-sample-wilcoxon-test-in-r/)                                                                                                                                                           
++ [Eight R Tidyverse tips for everyday data engineering](https://tomaztsql.wordpress.com/2022/07/14/eight-r-tidyverse-tips-for-everyday-data-engineering/)
+                                                                                          
++ [Multi-state survival modeling of a Jira issues snapshot](https://shape-of-code.com/2022/07/10/multi-state-survival-modeling-of-a-jira-issues-snapshot/)
+                                                                                           
++ [R is for actuaRies](https://rviews.rstudio.com/2022/07/12/r-is-for-actuaries/)                                                                                                                                                                     
++ [Beta version of NIMBLE with automatic differentiation, including HMC sampling and Laplace approximation](https://r-nimble.org/beta-version-of-nimble-with-automatic-differentiation-including-hmc-sampling-and-laplace-approximation)   
+             
++ [Recreating the Shiny App tutorial with a Plumber API + React: Part 2](https://www.jumpingrivers.com/blog/r-shiny-plumber-react-node-npm-part-2/)                                                                                                    
++ [Jumping Rivers and the Data Science Community](https://www.jumpingrivers.com/blog/jr-and-the-data-science-community/)                                                                                                                               
++ [Recreating the Shiny App tutorial with a Plumber API + React: Part 1](https://www.jumpingrivers.com/blog/r-shiny-plumber-react-part-1/)                                                                                                             
++ [Discrimination Free Insurance Pricing – new paper](http://ronaldrichman.co.za/2022/07/06/discrimination-free-insurance-pricing-new-paper/)                                                                                                          
++ [World's simplest R music system. Part 3 - Non-sinusoidal Waveforms](https://coolbutuseless.github.io/2022/07/12/worlds-simplest-r-music-system.-part-3-non-sinusoidal-waveforms/)            
+                                                       
++ [World's simplest R music system. Part 2 - linear ADSR note shaping](https://coolbutuseless.github.io/2022/07/11/worlds-simplest-r-music-system.-part-2-linear-adsr-note-shaping/)   
+                                                               
++ [World's simplest R music system](https://coolbutuseless.github.io/2022/07/10/worlds-simplest-r-music-system/)                                                                                                                                       
++ [R is for actuaRies](https://rviews.rstudio.com/2022/07/12/r-is-for-actuaries/)                                                                                                                                                                      
++ [R Weekly 2022-W28 Containers, Conf, Clicks](https://rweekly.org/2022-W28.html)                                                                                                                                                                      
++ [R Ladies Santa Rosa Leading with Other R Communities in Latin America to Create More Accessibility](https://www.r-consortium.org/blog/2022/07/14/r-ladies-santa-rosa-leading-with-other-r-communities-in-latin-america-to-create-more-accessibility)
+
++ [Indy UseR Growing as New Businesses like Insurance and Pharmaceuticals Move into Indianapolis](https://www.r-consortium.org/blog/2022/07/12/indy-user-growing)
+                                                                                      
++ [R Ladies Cuernavaca Partners with Biotechnology Institute to Quickly Expand Reach in 2022](https://www.r-consortium.org/blog/2022/07/07/r-ladies-cuernacava-partners-with-biotechnology-institute)
+                                                  
++ [rstudio::glimpse() Newsletter](https://www.rstudio.com/blog/rstudio-glimpse-newsletter-01/)                                                                                                                                                         
++ [rfoaas 2.3.2: New upstream accessors](http://dirk.eddelbuettel.com/blog/2022/07/13#rfoaas_2.3.2)                                                                                                                                                    
++ [Rcpp 1.0.9 on CRAN: Regular Updates](http://dirk.eddelbuettel.com/blog/2022/07/09#rcpp_1.0.9)                                                                                                                                                       
++ [rOpenSci Code of Conduct Update](https://ropensci.org/blog/2022/07/12/coc-update/)                                                                                                                                                                  
++ [Why this is the year you should take the stage at EARL 2022…](https://r-posts.com/why-this-is-the-year-you-should-take-the-stage-at-earl-2022/)                                                                                                     
++ [EARL your way: book your tickets now!](https://r-posts.com/earl-your-way-book-your-tickets-now/)                                                                                                                                                    
++ [lintr 3.0.0](https://www.tidyverse.org/blog/2022/07/lintr-3-0-0/)                                                                                                                                                                                   
++ [The Impact of Ordinal Scales on Gaussian Mixture Recovery](http://jmbh.github.io//OrdinalGMM/)                                                                                                                                                      
++ [How much has COVID cost the NYC Subway system in \"lost fares\"?](https://jlaw.netlify.app/2022/07/13/how-much-has-covid-cost-the-nyc-subway-system-in-lost-fares/)
+                                                                                 
++ [RObservations #35 : Predicting Rubik’s Cube Rotations with CNNs](https://bensstats.wordpress.com/2022/07/15/robservations-35-predicting-rubiks-cube-rotations-with-cnns/)
+                                                                          
++ [Quarto, Github and Twitter Networks | Next - Issue #38](https://www.getrevue.co/profile/harshbutjust/issues/quarto-github-and-twitter-networks-next-issue-38-1246736)
 
 ###  Highlight
 
