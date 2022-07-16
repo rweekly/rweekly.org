@@ -17,9 +17,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+
++ [Introducing the {renderthis} package]([url](https://www.jhelvy.com/posts/2022-06-28-introducing-renderthis/)) ( jhelvy.com ) 
+
 + [3 frameworks into one — Write your next paper with R Studio!](https://www.ds-econ.com/write-your-whole-paper-in-r-it-is-better/)
 
 + [Speedups in operations with regular expressions](https://blog.r-project.org/2022/07/12/speedups-in-operations-with-regular-expressions/index.html)
+
 
 ### R in the Real World
 
@@ -44,7 +48,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+
++ [{renderthis} 0.1.0]([url](https://cran.r-project.org/web/packages/renderthis/index.html)): Render Slides to Different Formats ( cran.r-project.org ) 
+
 + [{mapiso} 0.1.2](https://cran.r-project.org/package=mapiso): Create Contour Polygons from Regular Grids.
+
 
 **Bioconductor**
 
