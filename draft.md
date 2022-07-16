@@ -12,7 +12,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Draft
 
 + [One-sample Wilcoxon test in R](https://statsandr.com/blog/one-sample-wilcoxon-test-in-r/)                                                                                                                                                           
-+ [One-sample Wilcoxon test in R](https://statsandr.com/blog/one-sample-wilcoxon-test-in-r/)                                                                                                                                                           
 + [Eight R Tidyverse tips for everyday data engineering](https://tomaztsql.wordpress.com/2022/07/14/eight-r-tidyverse-tips-for-everyday-data-engineering/)
                                                                                           
 + [Multi-state survival modeling of a Jira issues snapshot](https://shape-of-code.com/2022/07/10/multi-state-survival-modeling-of-a-jira-issues-snapshot/)
@@ -30,7 +29,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
                                                                
 + [World's simplest R music system](https://coolbutuseless.github.io/2022/07/10/worlds-simplest-r-music-system/)                                                                                                                                       
 + [R is for actuaRies](https://rviews.rstudio.com/2022/07/12/r-is-for-actuaries/)                                                                                                                                                                      
-+ [R Weekly 2022-W28 Containers, Conf, Clicks](https://rweekly.org/2022-W28.html)                                                                                                                                                                      
 + [R Ladies Santa Rosa Leading with Other R Communities in Latin America to Create More Accessibility](https://www.r-consortium.org/blog/2022/07/14/r-ladies-santa-rosa-leading-with-other-r-communities-in-latin-america-to-create-more-accessibility)
 
 + [Indy UseR Growing as New Businesses like Insurance and Pharmaceuticals Move into Indianapolis](https://www.r-consortium.org/blog/2022/07/12/indy-user-growing)
