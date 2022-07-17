@@ -11,6 +11,8 @@ image: https://rweekly.org/public/facebook.png
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 ### Draft
 
++ [Free Four Week Data Science Course for High School Students](https://bootcamp.davidkane.info/)
+
 + [One-sample Wilcoxon test in R](https://statsandr.com/blog/one-sample-wilcoxon-test-in-r/)                                                                                                                                                           
 + [Eight R Tidyverse tips for everyday data engineering](https://tomaztsql.wordpress.com/2022/07/14/eight-r-tidyverse-tips-for-everyday-data-engineering/)
                                                                                           
@@ -73,7 +75,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
++ [Free Four Week Data Science Course for High School Students](https://bootcamp.davidkane.info/) starts on Monday July 25th. Check out the [final projects](https://bootcamp.davidkane.info/projects.html), built using [Distill](https://rstudio.github.io/distill/), from previous versions of the course.
 
 ###  Resources
 
