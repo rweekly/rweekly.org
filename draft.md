@@ -20,9 +20,10 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 ### Insights
 
-+ [Introducing the {renderthis} package]([url](https://www.jhelvy.com/posts/2022-06-28-introducing-renderthis/)) ( jhelvy.com ) 
++ [Introducing the {renderthis} package](https://www.jhelvy.com/posts/2022-06-28-introducing-renderthis/)
 
 + [3 frameworks into one — Write your next paper with R Studio!](https://www.ds-econ.com/write-your-whole-paper-in-r-it-is-better/)
+![A handwritten diagram showing how zotero, notion and R Markdown can be used to produce papers](https://raw.githubusercontent.com/rweekly/image/master/18-7-2022/image.png)
 
 + [Speedups in operations with regular expressions](https://blog.r-project.org/2022/07/12/speedups-in-operations-with-regular-expressions/index.html)
 
@@ -33,10 +34,14 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 ### R in the Real World
 
 + [Process Profile Pictures with magick](https://www.garrickadenbuie.com/blog/process-profile-picture-magick/)
+![screenshot to two images that are getting cut in cilrcular way using R](https://raw.githubusercontent.com/rweekly/image/master/18-7-2022/Screenshot 2022-07-18 at 15.09.47.png)
+
 
 + [How much has COVID cost the NYC Subway system in \"lost fares\"?](https://jlaw.netlify.app/2022/07/13/how-much-has-covid-cost-the-nyc-subway-system-in-lost-fares/)
 
-+ [R is for actuaRies](https://rviews.rstudio.com/2022/07/12/r-is-for-actuaries/)                                                                                                                                                                     
++ [R is for actuaRies](https://rviews.rstudio.com/2022/07/12/r-is-for-actuaries/)
+![](https://raw.githubusercontent.com/rweekly/image/master/18-7-2022/unnamed-chunk.png)
+                                                                                                                                                                     
 ###  R in Organizations
 
 + [Jumping Rivers and the Data Science Community](https://www.jumpingrivers.com/blog/jr-and-the-data-science-community/)                                                                                                                               
@@ -55,6 +60,11 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 ###  Resources
 
 + [Modern, colorful population pyramids for a report published by the "Bundesinstitut für Bevölkerungsforschung" (German Federal Institute for Population Research) - Cédric Scherer](https://github.com/z3tt/BiB-population-pyramids)
+
+![An image from report published by the "Bundesinstitut für Bevölkerungsforschung" (German Federal Institute for Population Research) produced using R](https://raw.githubusercontent.com/rweekly/image/master/18-7-2022/familienstand_cvd.png)
+
+
++ [R Bootcamp](https://r-bootcamp.netlify.app/)
 
 ###  New Packages
 
@@ -112,11 +122,11 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [Multi-scale model assessment with {spatialsample}](https://www.tidymodels.org/learn/work/multi-scale/)
 
+![](https://user-images.githubusercontent.com/38229299/178736211-e8044946-7c24-49a3-9526-e2a74e691582.png)
+
 + [Eight R Tidyverse tips for everyday data engineering](https://tomaztsql.wordpress.com/2022/07/14/eight-r-tidyverse-tips-for-everyday-data-engineering/)
 
 + [Making Slides in Quarto with reveal.js](https://meghan.rbind.io/blog/quarto-slides/)
-
-+ [Stop opening the same RStudio Project twice](https://www.rostrum.blog/2022/07/08/rproj-dupes/)
 
 + [Recreating the Shiny App tutorial with a Plumber API + React: Part 2](https://www.jumpingrivers.com/blog/r-shiny-plumber-react-node-npm-part-2/)
 
