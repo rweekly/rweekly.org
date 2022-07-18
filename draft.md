@@ -9,28 +9,7 @@ image: https://rweekly.org/public/facebook.png
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Batool Almarzouq](https://github.com/BatoolMM), with help from the R Weekly team members and contributors.
-               
-             
-+ [Discrimination Free Insurance Pricing – new paper](http://ronaldrichman.co.za/2022/07/06/discrimination-free-insurance-pricing-new-paper/)                                                                                                          
-+ [World's simplest R music system. Part 3 - Non-sinusoidal Waveforms](https://coolbutuseless.github.io/2022/07/12/worlds-simplest-r-music-system.-part-3-non-sinusoidal-waveforms/)            
-                                                       
-+ [World's simplest R music system. Part 2 - linear ADSR note shaping](https://coolbutuseless.github.io/2022/07/11/worlds-simplest-r-music-system.-part-2-linear-adsr-note-shaping/)   
-                                                               
-+ [World's simplest R music system](https://coolbutuseless.github.io/2022/07/10/worlds-simplest-r-music-system/)                                                                                                                                       
-+ [R is for actuaRies](https://rviews.rstudio.com/2022/07/12/r-is-for-actuaries/)                                                                                                                                                                                                                        
-+ [rstudio::glimpse() Newsletter](https://www.rstudio.com/blog/rstudio-glimpse-newsletter-01/)                                                                                                                                                         
-+ [rfoaas 2.3.2: New upstream accessors](http://dirk.eddelbuettel.com/blog/2022/07/13#rfoaas_2.3.2)                                                                                                                                                    
-+ [Rcpp 1.0.9 on CRAN: Regular Updates](http://dirk.eddelbuettel.com/blog/2022/07/09#rcpp_1.0.9)                                                                                                                                                       
-+ [rOpenSci Code of Conduct Update](https://ropensci.org/blog/2022/07/12/coc-update/)                                                                                                                                                                  
-+ [Why this is the year you should take the stage at EARL 2022…](https://r-posts.com/why-this-is-the-year-you-should-take-the-stage-at-earl-2022/)                                                                                                     
-+ [EARL your way: book your tickets now!](https://r-posts.com/earl-your-way-book-your-tickets-now/)                                                                                                                                                    
-+ [lintr 3.0.0](https://www.tidyverse.org/blog/2022/07/lintr-3-0-0/)                                                                                                                                                                                   
-+ [The Impact of Ordinal Scales on Gaussian Mixture Recovery](http://jmbh.github.io//OrdinalGMM/)                                                                                                                                                      
-                                                                                 
-+ [RObservations #35 : Predicting Rubik’s Cube Rotations with CNNs](https://bensstats.wordpress.com/2022/07/15/robservations-35-predicting-rubiks-cube-rotations-with-cnns/)
-                                                                          
-+ [Quarto, Github and Twitter Networks | Next - Issue #38](https://www.getrevue.co/profile/harshbutjust/issues/quarto-github-and-twitter-networks-next-issue-38-1246736)
-
+                                                                                                                                                                                                                                                                                                         
 ###  Highlight
 
 + [Recreating the Shiny App tutorial with a Plumber API + React: Part 1](https://www.jumpingrivers.com/blog/r-shiny-plumber-react-part-1/)                                                                                                             
@@ -38,10 +17,8 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [Process Profile Pictures with magick](https://www.garrickadenbuie.com/blog/process-profile-picture-magick/)
 
-+ [Multi-state survival modeling of a Jira issues snapshot](https://shape-of-code.com/2022/07/10/multi-state-survival-modeling-of-a-jira-issues-snapshot/)
 
 ### Insights
-
 
 + [Introducing the {renderthis} package]([url](https://www.jhelvy.com/posts/2022-06-28-introducing-renderthis/)) ( jhelvy.com ) 
 
@@ -49,6 +26,9 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 + [Speedups in operations with regular expressions](https://blog.r-project.org/2022/07/12/speedups-in-operations-with-regular-expressions/index.html)
 
++ [Multi-state survival modeling of a Jira issues snapshot](https://shape-of-code.com/2022/07/10/multi-state-survival-modeling-of-a-jira-issues-snapshot/)
+
++ [The Impact of Ordinal Scales on Gaussian Mixture Recovery](http://jmbh.github.io//OrdinalGMM/)                                                                                                                                                      
 
 ### R in the Real World
 
@@ -57,8 +37,6 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 + [How much has COVID cost the NYC Subway system in \"lost fares\"?](https://jlaw.netlify.app/2022/07/13/how-much-has-covid-cost-the-nyc-subway-system-in-lost-fares/)
 
 + [R is for actuaRies](https://rviews.rstudio.com/2022/07/12/r-is-for-actuaries/)                                                                                                                                                                     
-
-
 ###  R in Organizations
 
 + [Jumping Rivers and the Data Science Community](https://www.jumpingrivers.com/blog/jr-and-the-data-science-community/)                                                                                                                               
@@ -68,7 +46,8 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
                                                                                       
 + [R Ladies Cuernavaca Partners with Biotechnology Institute to Quickly Expand Reach in 2022](https://www.r-consortium.org/blog/2022/07/07/r-ladies-cuernacava-partners-with-biotechnology-institute)
 
-
++ [rstudio::glimpse() Newsletter](https://www.rstudio.com/blog/rstudio-glimpse-newsletter-01/)                                                                                                                                                         
++ [rOpenSci Code of Conduct Update](https://ropensci.org/blog/2022/07/12/coc-update/)                                                                                                                                                                 
 ###  R in Academia
 
 + [Free Four Week Data Science Course for High School Students](https://bootcamp.davidkane.info/) starts on Monday July 25th. Check out the [final projects](https://bootcamp.davidkane.info/projects.html), built using [Distill](https://rstudio.github.io/distill/), from previous versions of the course.
@@ -81,18 +60,13 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
++ [{f1dataR}](https://github.com/SCasanova/f1dataR): An R package to access Formula 1 Data from the Ergast API and the official F1 data stream via the fastf1 python library.
 
 **CRAN**
-
 
 + [{renderthis} 0.1.0]([url](https://cran.r-project.org/web/packages/renderthis/index.html)): Render Slides to Different Formats ( cran.r-project.org ) 
 
 + [{mapiso} 0.1.2](https://cran.r-project.org/package=mapiso): Create Contour Polygons from Regular Grids.
-
-
-**Bioconductor**
-
 
 
 **GitHub or Bitbucket**
@@ -103,29 +77,29 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 ### Updated Packages
 
-+ [{f1dataR}](https://github.com/SCasanova/f1dataR): An R package to access Formula 1 Data from the Ergast API and the official F1 data stream via the fastf1 python library.
-
-+ [{sfdep}](https://github.com/josiahparry/sfdep/): A tidy interface for spatial dependence.
++ [{sfdep}](https://github.com/josiahparry/sfdep/)- [diffify](https://diffify.com/R/sfdep/empty/0.1.0): A tidy interface for spatial dependence.
 
 + [Beta version of NIMBLE with automatic differentiation, including HMC sampling and Laplace approximation](https://r-nimble.org/beta-version-of-nimble-with-automatic-differentiation-including-hmc-sampling-and-laplace-approximation)   
 
++ [rfoaas 2.3.2: New upstream accessors](http://dirk.eddelbuettel.com/blog/2022/07/13#rfoaas_2.3.2)                                                                                                                                                    
++ [Rcpp 1.0.9 on CRAN: Regular Updates](http://dirk.eddelbuettel.com/blog/2022/07/09#rcpp_1.0.9)    
+
++ [lintr 3.0.0](https://www.tidyverse.org/blog/2022/07/lintr-3-0-0/)                                                                                                                                                                                   
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/) 🔍</i>
 
 ###  Videos and Podcasts
 
-* [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-* [How to Read and Merge +1k Excel files using R](https://www.youtube.com/watch?v=BHdWYonrPAs)
+- [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+
+- [How to Read and Merge +1k Excel files using R](https://www.youtube.com/watch?v=BHdWYonrPAs)
 <a href="https://www.youtube.com/watch?v=BHdWYonrPAs">
   <img src="https://i.ytimg.com/vi/BHdWYonrPAs/maxresdefault.jpg" title="How to Read and Merge +1k Excel files using R" target="_blank" width="350"/>
 </a>
 
-### Gist & Cookbook
+- [Building a basic Shiny app with Golem](https://www.youtube.com/watch?v=DW-HPfohfwg)
 
-
-
-### Shiny Apps
-
+- [Lucy Njoki Njuki presents Chapter 10 ("Dynamic UI") from Mastering Shiny by Hadley Wickham]()
 
 
 ### R Internationally
@@ -134,6 +108,7 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 
 ###  Tutorials
 
+- [Predicting with decision tress using rpart](https://jmsallan.netlify.app/blog/predicting-with-decision-tress-using-rpart/)
 
 + [Multi-scale model assessment with {spatialsample}](https://www.tidymodels.org/learn/work/multi-scale/)
 
@@ -144,6 +119,10 @@ This week’s release was curated by [Batool Almarzouq](https://github.com/Batoo
 + [Stop opening the same RStudio Project twice](https://www.rostrum.blog/2022/07/08/rproj-dupes/)
 
 + [Recreating the Shiny App tutorial with a Plumber API + React: Part 2](https://www.jumpingrivers.com/blog/r-shiny-plumber-react-node-npm-part-2/)
+
++ [World's simplest R music system. Part 3 - Non-sinusoidal Waveforms](https://coolbutuseless.github.io/2022/07/12/worlds-simplest-r-music-system.-part-3-non-sinusoidal-waveforms/)            
+
++ [The best stats you've ever seen](https://www.harsh17.in/the-best-stats-you-ve-ever-seen/?utm_campaign=Next%20%E2%80%94%20Today%20I%20Learned%20About%20R&utm_medium=email&utm_source=Revue%20newsletter)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -156,26 +135,23 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-
++ [Why this is the year you should take the stage at EARL 2022…](https://r-posts.com/why-this-is-the-year-you-should-take-the-stage-at-earl-2022/)                                                                                                     
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
-
-### Grants & Funding
-
-
-### Datasets
-
-### Jobs
-
 
 
 
 ###  Call for Participation
 
++ [Submit your abstract to NHS-R Community Conference 2022](https://nhsrcommunity.com/events/nhs-r-conference-2022/)
 
 <p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Q for folks who taught themselves <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>, have taught others, or both: what aspects of the language did you find you or your students tended to struggle most with?</p>&mdash; A. Jordan Nafa (@adamjnafa) <a href="https://twitter.com/adamjnafa/status/1547116826894671872?ref_src=twsrc%5Etfw">July 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you wish to write quality code that is also highly readable, I cannot recommend &quot;The Art of Readable Code&quot; (<a href="https://t.co/WR9ragK0J6">https://t.co/WR9ragK0J6</a>) enough! 📖<br><br>Read my complete book review here:<a href="https://t.co/R6gVuyh3Pn">https://t.co/R6gVuyh3Pn</a><a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://twitter.com/hashtag/softwaredevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#softwaredevelopment</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://t.co/8zQlGArV7A">pic.twitter.com/8zQlGArV7A</a></p>&mdash; Indrajeet Patil (इंद्रजीत पाटील) (@patilindrajeets) <a href="https://twitter.com/patilindrajeets/status/1548601123254243332?ref_src=twsrc%5Etfw">July 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you&#39;re learning <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> as a beginner, I recommend keeping an error log when you first start - it will slow you down in the short-term but it should help you to learn and fix recurring errors (and why they&#39;re happening). <a href="https://t.co/Hi4jKnz7Hn">pic.twitter.com/Hi4jKnz7Hn</a></p>&mdash; Emily Nordmann (@emilynordmann) <a href="https://twitter.com/emilynordmann/status/1548942198246440962?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Q for folks who taught themselves <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>, have taught others, or both: what aspects of the language did you find you or your students tended to struggle most with?</p>&mdash; A. Jordan &#39;&#39;Job Hunting&#39;&#39; Nafa (@adamjnafa) <a href="https://twitter.com/adamjnafa/status/1547116826894671872?ref_src=twsrc%5Etfw">July 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
