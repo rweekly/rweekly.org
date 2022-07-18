@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Text Mining: Histories of Herodotus](https://boiled-data.github.io/Histories.html)
 
 ###  R in Organizations
 
