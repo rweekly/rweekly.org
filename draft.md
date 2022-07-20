@@ -51,7 +51,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
+* [strangeRthings]{https://github.com/BrydenFrancesca/strangeRthings}: Stranger Things episode transcripts in tidy format (github.com)
 
 ### Updated Packages
 
