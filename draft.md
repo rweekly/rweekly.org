@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Text Mining: Histories of Herodotus](https://boiled-data.github.io/Histories.html)
 
 ###  R in Organizations
 
@@ -51,13 +51,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
+* [strangeRthings](https://github.com/BrydenFrancesca/strangeRthings): Stranger Things episode transcripts in tidy format (github.com)
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [{mirai} 0.5.2](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R.
+
+* [preferably 0.4.1](http://preferably.amirmasoudabdol.name): An Accessible 'pkgdown' Template
+
 
 ###  Videos and Podcasts
 
