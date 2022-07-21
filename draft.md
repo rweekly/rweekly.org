@@ -57,6 +57,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+* [preferably 0.4.1](http://preferably.amirmasoudabdol.name): An Accessible 'pkgdown' Template
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
