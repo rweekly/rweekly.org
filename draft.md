@@ -17,6 +17,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Insights
++ [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://www.ds-econ.com/quarto/)
 
 
 
