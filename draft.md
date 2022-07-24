@@ -53,6 +53,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 + [{string2path} 0.1.0](https://github.com/yutannihilation/string2path/)
 
 + [{nplyr} 0.1.0](https://github.com/markjrieke/nplyr): A grammar of (nested) data manipulation.
++ [{globaltrends} 0.0.12](https://github.com/ha-pu/globaltrends): An R package that builds on [gtrendsR](https://cran.r-project.org/web/packages/gtrendsR/index.html) to facilitate downloading, storing, and analyzing large-scale Google Trends queries.
 
 **GitHub or Bitbucket**
 
