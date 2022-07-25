@@ -18,6 +18,8 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://www.ds-econ.com/quarto/)
 
++ [The ultimate guide to starting a Quarto blog](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html)
+
 + [Upgrading rtweet](https://ropensci.org/blog/2022/07/21/rtweet-1-0-0/)
 
 + [Robin Donatello Talks About Growing an R Community at a State University](https://www.r-consortium.org/blog/2022/07/19/growing-an-r-community-at-a-state-university)
