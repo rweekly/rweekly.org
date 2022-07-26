@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Pretty ggplots with custom themes, ggtext, and ggh4x](https://www.michaelc-m.com/ggplot-extensions-and-custom-themes/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
