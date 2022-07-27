@@ -18,6 +18,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [5 hidden gems from gg-packages to level up your dataviz game](https://albert-rapp.de/posts/ggplot2-tips/12_a_few_gg_packages/12_a_few_gg_packages.html)
+
+
+
 
 
 ### R in the Real World
