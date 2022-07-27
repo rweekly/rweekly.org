@@ -64,6 +64,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Gist & Cookbook
 
+* [`case_when()` is a code smell and `across()` is a code smell too](https://gist.github.com/hughjonesd/d70ff535624207d9d6f771ca565c776d)
 
 
 ### Shiny Apps
