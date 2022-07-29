@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2022-W29
+title: R Weekly 2022-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -55,7 +55,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-<i>🔍 [Search on R-universe](https://r-universe.dev/) 🔍</i>
+<i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 ###  Videos and Podcasts
 
