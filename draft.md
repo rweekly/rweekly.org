@@ -191,8 +191,9 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin)
 
 ###  R Project Updates
 
-Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+Updates from R Core: [R-devel NEWS](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS)
 
+[R Contribution Working Group Idea Incubator 2022 - Propose/discuss ideas for RCWG to work on in the next 12 months](https://github.com/r-devel/rcontribution/blob/main/ideas_incubator.md)
 
 ###  Upcoming Events in 3 Months
 
