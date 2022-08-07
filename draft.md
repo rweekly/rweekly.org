@@ -8,80 +8,31 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin), with help from the R Weekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
 
 
 ###  Highlight
 
-[RStudio rebrands as Posit](https://www.rstudio.com/blog/rstudio-is-becoming-posit/)
 
-[{shinytest2}: For testing Shiny apps.](https://rstudio.github.io/shinytest2/) ([slides](http://schloerke.com/presentation-2022-07-28-rstudioconf22-shinytest2/))
-
-[One Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/)
 
 ### Insights
 
-[Seeing R help outside official sources](https://twitter.com/printf_vivekj/status/1553008084389244929?s=20&t=t9Mb9YtJ4keQHKBcAgDH7A)
 
-[Hello Quarto RStudio::conf keynote slides](https://mine.quarto.pub/hello-quarto/#/hello-quarto-title)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2022/W31/quarto.png)
-
-[One Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/)
-
-[Why R users should be happy about the Posit rebrand](https://twitter.com/gshotwell/status/1552647057923506178?s=20&t=2A_hpg19kzOuvudfgCXdHQ)
-
-[12 ggplot extensions for snazzier graphics](https://www.infoworld.com/article/3667496/12-ggplot-extensions-for-snazzier-r-graphics.html)
-
-[Translating between {tidymodels} and {scikit-learn}](https://www.kelly-bodwin.com/talks/rsconf22/#0)
-
-[Implications of R syntax in Intro Stats](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.amelia.mn/presentations/McNamara_syntax_in_intro.pdf)
 
 ### R in the Real World
 
-[Coolbutuseless: Interactive graphics in R](https://github.com/coolbutuseless/RStudioConf-2022)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022/W31/pacman.png)
-
-[Seasonality in Time Series with Fourier transforms](https://towardsdatascience.com/discovery-of-seasonality-in-time-series-4b3d6073b5a6)
-
-[Recreating a Bubble Chart from The Economist](https://rpubs.com/chidungkt/926797)
 
 ###  R in Organizations
 
-[RStudio rebrands as Posit](https://www.rstudio.com/blog/rstudio-is-becoming-posit/)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022/W31/posit.png)
 
 ###  R in Academia
 
 
 
 ###  Resources
-
-[Announcing Quarto](https://www.rstudio.com/blog/announcing-quarto-a-new-scientific-and-technical-publishing-system/)
-
-[All RStudio::conf workshop and talk materials](https://github.com/rstudio/rstudio-conf)
-
-| Workshop                                                                            | Instructor(s)                                                                                            | More Info |
-|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------|
-| Introduction to the tidyverse                                                       | RStudio Academy team of data science educators, including Garrett Grolemund, Desirée De Leon, and others | [repo](https://github.com/rstudio-conf-2022/intro-to-tidyverse)      |
-| Graphic Design with ggplot2: How to Create Engaging and Complex Visualizations in R | Cédric Scherer                                                                                           | [repo](https://github.com/rstudio-conf-2022/ggplot2-graphic-design)      |
-| Getting Started with Quarto                                                         | Tom Mock                                                                                                 | [repo](https://github.com/rstudio-conf-2022/get-started-quarto)     |
-| From R Markdown to Quarto                                                           | Andrew Bray                                                                                              | [repo](https://github.com/rstudio-conf-2022/rmd-to-quarto)    |
-| Getting Started with Shiny                                                          | Colin Rundel                                                                                             | [repo](https://github.com/rstudio-conf-2022/get-started-shiny)      |
-| Building Production-Quality Shiny Applications                                      | Eric Nantz                                                                                               | [repo](https://github.com/rstudio-conf-2022/shiny-prod-apps)      |
-| Machine Learning with tidymodels                                                    | Julia Silge + Max Kuhn + David Robinson                                                                  | [repo](https://github.com/rstudio-conf-2022/tidymodels-ml)      |
-| What They Forgot to Teach You About R                                               | Shannon McClintock Pileggi + Jenny Bryan + David Aja                                                     | [repo](https://github.com/rstudio-conf-2022/wtf-rstats)      |
-| Building Tidy Tools                                                                 | Emma Rand + Ian Lyttle                                                                                   | [repo](https://github.com/rstudio-conf-2022/build-tidy-tools)      |
-| Package Development Masterclass                                                     | Hadley Wickham                                                                                           | [repo](https://github.com/rstudio-conf-2022/pkg-dev-masterclass)      |
-| Designing the Data Science Classroom                                                | Mine Çetinkaya-Rundel + Maria Tackett                                                                    | [repo](https://github.com/rstudio-conf-2022/teach-ds)      |
-| Making Art from Code: How the magic works, and the practical skills it teaches      | Danielle Navarro                                                                                         | [repo](https://github.com/rstudio-conf-2022/art-from-code)      |
-| Causal Inference in R                                                               | Lucy D'Agostino McGowan + Malcolm Barrett                                                                | [repo](https://github.com/rstudio-conf-2022/causal-inference-rstats)      |
-| R for People Analytics                                                              | Keith McNulty + Alex LoPilato + Liz Romero                                                               | [repo](https://github.com/rstudio-conf-2022/people-analytics-rstats)      |
-| How Data Science with R Works for Systems Administrators                            | Alex Gold                                                                                                | [repo](https://github.com/rstudio-conf-2022/ds-for-sysadmins)      |
-| Clinical Reporting in R                                                             | Andy Nicholls + Christina Fillmore                                                                       | [repo](https://github.com/rstudio-conf-2022/clinical-reporting-r)      |
 
 
 
@@ -92,11 +43,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin)
 
 **CRAN**
 
-[{scorecard}: credit risk score](https://cran.r-project.org/web/packages/scorecard/index.html)
 
-[{orf}: ordered random forests](https://cran.r-project.org/web/packages/orf/index.html)
-
-[{audobon}: Japanese text processing](https://cran.r-project.org/web/packages/audubon/index.html)
 
 **Bioconductor**
 
@@ -104,49 +51,15 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin)
 
 **GitHub or Bitbucket**
 
-[{simLT}: Simulating time series data](https://github.com/FJRubio67/SimLT)
 
-[{dashboard-builder}: Drag and drop for Shiny apps](https://github.com/petergandenberger/dashboard-builder) ([demo](https://pega.shinyapps.io/dashboard-builder/))
-
-[{tfrmt}: Display-related metadata](https://github.com/GSK-Biostatistics/tfrmt)
-
-[{constructive}: See under the hood of data objects](https://cynkra.github.io/constructive/)
-
-[{tidyclust}: a tidymodels interface for clustering.](https://emilhvitfeldt.github.io/tidyclust/index.html)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2022/W31/tidyclust.png)
-
-[{dbcooper}: Make any database a package](https://github.com/dgrtwo/dbcooper)
-
-[{shinytest2}: For testing Shiny apps.](https://rstudio.github.io/shinytest2/) ([slides](http://schloerke.com/presentation-2022-07-28-rstudioconf22-shinytest2/))
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-[{sgsR}: structurally guided sampling](https://tgoodbody.github.io/sgsR/)
-
-[{RCurl}: HTTP requests](https://cran.r-project.org/web/packages/RCurl/index.html)
-
-[{forecast}: time series analysis](https://cran.r-project.org/web/packages/forecast/index.html)
-
-[{terra}: spatial data](https://cran.r-project.org/web/packages/terra/index.html)
-
-[{metrica}: Prediction metrics](https://cran.r-project.org/web/packages/metrica/index.html)
-
-[{future}: parallel computing](https://cran.r-project.org/web/packages/future/index.html)
-
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
-[Using {group-by} with and without {summarize}](https://www.youtube.com/watch?v=9D1wZ2zWyqI)
-
-[Two-way interview: JJ Allaire (RStudio) and Jeremy Howard (fast.ai)](https://www.youtube.com/watch?v=xxVVSxcjNQs)
-
-[Intro to {dashboard-builder}](https://www.youtube.com/watch?v=oOKJLMAkEiw)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2022/W31/dashboard_builder.png)
 
 
 ### Gist & Cookbook
@@ -155,7 +68,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin)
 
 ### Shiny Apps
 
-[Find talks for JSM](https://jacob-bien.shinyapps.io/jsmscheduler/)
+
 
 ### R Internationally
 
@@ -163,29 +76,7 @@ This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin)
 
 ###  Tutorials
 
-[Intro to ggplot (by a 12 year old data scientist!)](https://www.miriamheiss.com/posts/graphing-with-ggplot/)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022/W31/ggplot_miriam.png)
-
-[fRiend: Practice with RProfile](https://github.com/jamesotto852/fRiend)
-
-[Making tables for multinomial models with {modelsummary} and {brms}](https://m-flynn.com/post/2022-06-14-making-tables-with-modelsummary-and-brms/)
-
-[Debugging with {icecream}](https://turtletopia.github.io/2022/07/28/ice-cream-for-r-programmers/)
-
-[How to debug R code](https://rstats-wtf.github.io/wtf-debugging-slides/)
-
-[Principal Components Analysis in R](https://finnstats.com/index.php/2021/05/07/pca/)
-
-[{censored}: Survival analysis with tidymodels](https://hfrick.github.io/rstudio-conf-2022/)
-
-[{workboots}: prediction intervals](https://github.com/markjrieke/rstudio-conf-2022/blob/main/conf_presentation.pdf)
-
-[{leafdown}: multilayer maps](https://github.com/rstudio/rstudio-conf/blob/master/2022/andreashofheinz/leafdown_presentation%20-%20Andreas%20H.pdf)
-
-[Making Shiny apps mobile responsive](https://github.com/rstudio/rstudio-conf/blob/master/2022/shelmithnyagathirikariuki/Shel%20Kariuki%20rstudioconf2022_finalversion%20-%20Shel%20Kariuki.pdf)
-
-[Cracking open gglot internals with ggtrace](https://yjunechoe.github.io/ggtrace-rstudioconf2022)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
