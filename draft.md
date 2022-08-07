@@ -40,18 +40,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [Fundamentals of Data Visualization Book](https://clauswilke.com/dataviz/)
 
-- []()
 
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
--[{quartostamp}](https://github.com/matt-dray/quartostamp)
+- [{quartostamp}](https://github.com/matt-dray/quartostamp)
 
 **CRAN**
 
--[ggseqplot: ggplotify sequence data plots](https://github.com/maraab23/ggseqplot/)
+- [{ggseqplot}: ggplotify sequence data plots](https://github.com/maraab23/ggseqplot/)
 
 **Bioconductor**
 
@@ -69,6 +68,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
+* [RStudio::Conf 2022 Recap](https://www.youtube.com/watch?v=_sQGiu4fWqc)
+
 
 ### Gist & Cookbook
 
@@ -76,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
--[Why normal distribution is normal in Statistical Rethinking](https://ramikrispin.github.io/shinyelive/)
+- [Why normal distribution is normal in Statistical Rethinking](https://ramikrispin.github.io/shinyelive/)
 
 ### R Internationally
 
@@ -84,7 +85,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
--[An R Shiny App to Upload Database Tables](https://medium.com/@mcodrescu/an-r-shiny-app-to-upload-database-tables-95accc75de5)
+- [An R Shiny App to Upload Database Tables](https://medium.com/@mcodrescu/an-r-shiny-app-to-upload-database-tables-95accc75de5)
+
+- [How to use Quarto for Parameterized Reporting](https://www.mm218.dev/posts/2022-08-04-how-to-use-quarto-for-parameterized-reporting/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
