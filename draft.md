@@ -18,6 +18,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Theming diffify for accessibility: Part 2](https://www.jumpingrivers.com/blog/theming-diffify-accessibility-2/)
+
++ [From the R Business Working Group – R is for actuaRies](https://www.r-consortium.org/blog/2022/08/03/from-the-r-business-working-group-r-is-for-actuaries)
+
++ [Base-R Is Alive and Well](https://matloff.wordpress.com/2022/08/06/base-r-is-alive-and-well/)
+
++ [Workbench Session Information Improvements](https://www.rstudio.com/blog/homepage-session-information-improvements/)
 
 
 ### R in the Real World
@@ -26,11 +33,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Organizations
 
-
++ [Keep the party going after rstudio::conf](https://www.rstudio.com/blog/rstudio-community-monthly-events-roundup-august-2022/)
 
 ###  R in Academia
 
++ [Mathematical Annotation in R](https://data.library.virginia.edu/mathematical-annotation-in-r/)
 
++ [Detecting Influential Points in Regression with DFBETA(S)](https://data.library.virginia.edu/detecting-influential-points-in-regression-with-dfbetas/)
 
 ###  Resources
 
@@ -40,7 +49,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [Fundamentals of Data Visualization Book](https://clauswilke.com/dataviz/)
 
-
++ [Creating music with R | Next - Issue #39](https://www.getrevue.co/profile/harshbutjust/issues/creating-music-with-r-next-issue-39-1256602)
 
 ###  New Packages
 
@@ -64,12 +73,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [RApiSerialize 0.1.1 on CRAN: Updates](http://dirk.eddelbuettel.com/blog/2022/08/07#rapiserialize_0.1.1)
+
++ [RcppXts 0.0.5 on CRAN: Routine Refreshment](http://dirk.eddelbuettel.com/blog/2022/08/05#rcppxts_0.0.5)
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 * [RStudio::Conf 2022 Recap](https://www.youtube.com/watch?v=_sQGiu4fWqc)
 
++ [Easy R Tutorials with Dev Containers](https://blog.revolutionanalytics.com/2022/08/dev-containers-for-r.html)
 
 ### Gist & Cookbook
 
@@ -89,6 +103,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [How to use Quarto for Parameterized Reporting](https://www.mm218.dev/posts/2022-08-04-how-to-use-quarto-for-parameterized-reporting/)
 
++ [Sliding windows for #TidyTuesday rents in San Francisco](https://juliasilge.com/blog/sf-rent/)
+
++ [Survivor Confessionals Data: Dataset showcase for {survivoR}](http://gradientdescending.com/survivor-confessionals-data-dataset-showcase-for-survivor/?utm_source=rss&utm_medium=rss&utm_campaign=survivor-confessionals-data-dataset-showcase-for-survivor)
+
++ [Mismanaged Plastic Pollution: Web-Scraping, Tidy Modeling, and Variable Importance](https://datageeek.com/2022/07/29/comparing-plastic-pollution-modeling-with-tidymodels-and-variable-importance/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
