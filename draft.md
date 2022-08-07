@@ -34,16 +34,24 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
+- [useR2022 recordings are now on the conference YouTube channel](https://www.youtube.com/channel/UCv_a9ZGZOH588wUZHZl6T_g/playlists)
+
+- [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
+
+- [Fundamentals of Data Visualization Book](https://clauswilke.com/dataviz/)
+
+- []()
 
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+-[{quartostamp}](https://github.com/matt-dray/quartostamp)
 
 **CRAN**
 
-
+-[ggseqplot: ggplotify sequence data plots](https://github.com/maraab23/ggseqplot/)
 
 **Bioconductor**
 
@@ -68,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
+-[Why normal distribution is normal in Statistical Rethinking](https://ramikrispin.github.io/shinyelive/)
 
 ### R Internationally
 
@@ -76,6 +84,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
+-[An R Shiny App to Upload Database Tables](https://medium.com/@mcodrescu/an-r-shiny-app-to-upload-database-tables-95accc75de5)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -114,15 +123,10 @@ Events in 3 Months:
 
 ### rtistry
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">library(ggplot2)<br>library(ggforce)<br><br>r=seq(1,11,0.1)<br><br>ggplot() +<br>geom_spiro(aes(r=r, R=r*20, d=r^2, outer=T, color=r%%10), size=3) +<br>scale_color_viridis_c(option=&quot;turbo&quot;) +<br>coord_fixed() +<br>theme_void() +<br>theme(legend.position=&quot;none&quot;)<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/creativecoding?src=hash&amp;ref_src=twsrc%5Etfw">#creativecoding</a> <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://t.co/toBpe2bet0">pic.twitter.com/toBpe2bet0</a></p>&mdash; Georgios Karamanis (@geokaramanis) <a href="https://twitter.com/geokaramanis/status/1551195745839067137?ref_src=twsrc%5Etfw">July 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Continuing my journey of using <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> for <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> with another output inspired by Spirited Away.<br><br>Haku #2<br><br>Big shoutout to <a href="https://twitter.com/ijeamaka_a?ref_src=twsrc%5Etfw">@ijeamaka_a</a> for her amazing tutorial on how to make the coolest circles in ggplot2. Such an inspiration to beginners like myself! <a href="https://t.co/vIvGoD9hEV">pic.twitter.com/vIvGoD9hEV</a></p>&mdash; Tiffany Wu (@TiffanyxWu) <a href="https://twitter.com/TiffanyxWu/status/1555164692770955264?ref_src=twsrc%5Etfw">August 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###  Quotes of the Week
 
-> "Don't worry, I still will not be learning python."
-> Hadley Wickham, Chief Scientist, Posit PBC
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just discovered you can create a docker image from for your <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> project with a one-liner using either the DESCRIPTION file or the `renv` lock file: <a href="https://t.co/tdZAYUFzYD">pic.twitter.com/tdZAYUFzYD</a></p>&mdash; Philippe Massicotte (@philmassicotte) <a href="https://twitter.com/philmassicotte/status/1554063172381954051?ref_src=twsrc%5Etfw">August 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The year is 2042. Python has become a dialect of <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>. News is reported via Quarto documents. Self-driving cars call prediction endpoints hosted on Posit Connect. Movie studios do all their CGI in the <a href="https://twitter.com/hashtag/rayverse?src=hash&amp;ref_src=twsrc%5Etfw">#rayverse</a>. Hadley still uses nothing but R. The world is at peace.</p>&mdash; Adam T. Austin (@just_add_data) <a href="https://twitter.com/just_add_data/status/1553083738808061953?ref_src=twsrc%5Etfw">July 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why is it always this way? <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/QrbH1NqkF7">pic.twitter.com/QrbH1NqkF7</a></p>&mdash; Michael Sieler (@MichaelSieler) <a href="https://twitter.com/MichaelSieler/status/1552811893806379008?ref_src=twsrc%5Etfw">July 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Especially true when showing something in from of the class. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://t.co/AejDOY8NNj">pic.twitter.com/AejDOY8NNj</a></p>&mdash; Anna Pryslopska (@anna_pryslopska) <a href="https://twitter.com/anna_pryslopska/status/1552910018642690048?ref_src=twsrc%5Etfw">July 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If I ever write a book ...<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://twitter.com/hashtag/datavisualization?src=hash&amp;ref_src=twsrc%5Etfw">#datavisualization</a> <a href="https://t.co/BdprjqIiPd">pic.twitter.com/BdprjqIiPd</a></p>&mdash; Pablo Alvarez (@pablo_alvrez) <a href="https://twitter.com/pablo_alvrez/status/1555539596749979649?ref_src=twsrc%5Etfw">August 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
