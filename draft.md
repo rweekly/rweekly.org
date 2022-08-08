@@ -8,8 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
+This week’s release was curated by [Batool Almarzouq](https://github.com/BatoolMM), with help from the R Weekly team members and contributors.
 
 
 ###  Highlight
@@ -27,7 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Workbench Session Information Improvements](https://www.rstudio.com/blog/homepage-session-information-improvements/)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/rstudio.jpeg)
+![This is a screenshot for the landing page of RStudio Workbench. This landing page is deviided to two parts as it shows sessions at the left and projects on the right](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/rstudio.jpeg)
 
 + [From the R Business Working Group – R is for actuaRies](https://www.r-consortium.org/blog/2022/08/03/from-the-r-business-working-group-r-is-for-actuaries)
 
@@ -35,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Mapping_SNP_to_protein](https://github.com/Close-your-eyes/Mapping_SNP_to_protein)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/resized-image-snp.jpeg)
+![This is an example of plot for protein alignments. it shows mutiple alignment of proteins which have non-silent snps incorporated](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/resized-image-snp.jpeg)
 
 
 ###  R in Organizations
@@ -48,25 +47,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Detecting Influential Points in Regression with DFBETA(S)](https://data.library.virginia.edu/detecting-influential-points-in-regression-with-dfbetas/)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/outlier.jpeg)
+![This is a simple scatter plot showing how the slop can change because of one extreme outlier.](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/outlier.jpeg)
 
 ###  Resources
 
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/quarto.png)
+![This is the logo for Awesome Quarto which is blue sunglassess wirth text says "Awesome Quarto"](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/quarto.png)
 
 - [useR2022 recordings are now on the conference YouTube channel](https://www.youtube.com/channel/UCv_a9ZGZOH588wUZHZl6T_g/playlists)
 
 - [Fundamentals of Data Visualization Book](https://clauswilke.com/dataviz/)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/book.png)
+![the landing page of the Data Visualization Book which has Parrots at the cover](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/book.png)
 
 + [Creating music with R, Next: Issue #39](https://www.getrevue.co/profile/harshbutjust/issues/creating-music-with-r-next-issue-39-1256602)
 
 + [ggdensity: Improved density visualization in R](https://jamesotto852.github.io/JSM-2022/#/)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/density.jpeg)
+![These are two heat maps (undefined with no labels), the one on the left is coloured whereas the one on the right is blue and white](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/density.jpeg)
 
 
 ###  New Packages
@@ -85,7 +84,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [asciicast 2.1.0](https://github.com/r-lib/asciicast) - [diffify](https://diffify.com/R/asciicast/2.0.0/2.1.0)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/asc.svg)
+![This is a gif from the README showing the code of the package getting typed](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/asc.svg)
 
 + [RApiSerialize 0.1.1](http://dirk.eddelbuettel.com/blog/2022/08/07#rapiserialize_0.1.1) - [diffify](https://diffify.com/R/RApiSerialize/0.1.0/0.1.1)
 
@@ -93,7 +92,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [datawizard 0.5.0](https://github.com/easystats/datawizard/) [diffify](https://diffify.com/R/datawizard/0.4.1/0.5.0)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/datawizard.gif)
+![a gif for wizard from cartoon](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/datawizard.gif)
 
 
 ###  Videos and Podcasts
@@ -125,7 +124,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [An R Shiny App to Upload Database Tables](https://medium.com/@mcodrescu/an-r-shiny-app-to-upload-database-tables-95accc75de5)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/ass_database.jpeg)
+![a screenshot for the landing page of the Shiny App which has a button to upload the database](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/ass_database.jpeg)
 
 - [How to use Quarto for Parameterized Reporting](https://www.mm218.dev/posts/2022-08-04-how-to-use-quarto-for-parameterized-reporting/)
 
@@ -133,7 +132,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Survivor Confessionals Data: Dataset showcase for {survivoR}](http://gradientdescending.com/survivor-confessionals-data-dataset-showcase-for-survivor/?utm_source=rss&utm_medium=rss&utm_campaign=survivor-confessionals-data-dataset-showcase-for-survivor)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/survivor.jpeg)
+![this is a summary of 5 plots in one plot (the text isn't clear) but it meant to be a high-level summary of confessionals a showcase of the dataset and an analysis of the edit for key demographics](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/survivor.jpeg)
 
 + [Mismanaged Plastic Pollution: Web-Scraping, Tidy Modeling, and Variable Importance](https://datageeek.com/2022/07/29/comparing-plastic-pollution-modeling-with-tidymodels-and-variable-importance/)
 
