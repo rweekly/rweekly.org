@@ -8,143 +8,80 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Batool Almarzouq](https://github.com/BatoolMM), with help from the R Weekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
 
 ###  Highlight
 
 
-- [useR2022 recordings are now on the conference YouTube channel](https://www.youtube.com/channel/UCv_a9ZGZOH588wUZHZl6T_g/playlists)
-
-- [Theming diffify for accessibility: Part 2](https://www.jumpingrivers.com/blog/theming-diffify-accessibility-2/)
-
-- [RStudio::Conf 2022 Recap](https://www.youtube.com/watch?v=_sQGiu4fWqc)
 
 ### Insights
 
-- [Theming diffify for accessibility: Part 2](https://www.jumpingrivers.com/blog/theming-diffify-accessibility-2/)
 
-+ [Workbench Session Information Improvements](https://www.rstudio.com/blog/homepage-session-information-improvements/)
 
-![This is a screenshot for the landing page of RStudio Workbench. This landing page is deviided to two parts as it shows sessions at the left and projects on the right](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/rstudio.jpeg)
+### R in the Real World
 
-+ [From the R Business Working Group – R is for actuaRies](https://www.r-consortium.org/blog/2022/08/03/from-the-r-business-working-group-r-is-for-actuaries)
-
-+ [Base-R Is Alive and Well](https://matloff.wordpress.com/2022/08/06/base-r-is-alive-and-well/)
-
-+ [Mapping_SNP_to_protein](https://github.com/Close-your-eyes/Mapping_SNP_to_protein)
-
-![This is an example of plot for protein alignments. it shows mutiple alignment of proteins which have non-silent snps incorporated](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/resized-image-snp.jpeg)
 
 
 ###  R in Organizations
 
-+ [Keep the party going after rstudio::conf](https://www.rstudio.com/blog/rstudio-community-monthly-events-roundup-august-2022/)
+
 
 ###  R in Academia
 
-+ [Mathematical Annotation in R](https://data.library.virginia.edu/mathematical-annotation-in-r/)
 
-+ [Detecting Influential Points in Regression with DFBETA(S)](https://data.library.virginia.edu/detecting-influential-points-in-regression-with-dfbetas/)
-
-![This is a simple scatter plot showing how the slop can change because of one extreme outlier.](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/outlier.jpeg)
 
 ###  Resources
 
-- [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
-
-![This is the logo for Awesome Quarto which is blue sunglassess wirth text says "Awesome Quarto"](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/quarto.png)
-
-- [useR2022 recordings are now on the conference YouTube channel](https://www.youtube.com/channel/UCv_a9ZGZOH588wUZHZl6T_g/playlists)
-
-- [Fundamentals of Data Visualization Book](https://clauswilke.com/dataviz/)
-
-![the landing page of the Data Visualization Book which has Parrots at the cover](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/book.png)
-
-+ [Creating music with R, Next: Issue #39](https://www.getrevue.co/profile/harshbutjust/issues/creating-music-with-r-next-issue-39-1256602)
-
-+ [ggdensity: Improved density visualization in R](https://jamesotto852.github.io/JSM-2022/#/)
-
-![These are two heat maps (undefined with no labels), the one on the left is coloured whereas the one on the right is blue and white](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/density.jpeg)
 
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-- [{quartostamp}](https://github.com/matt-dray/quartostamp)
 
 **CRAN**
 
-- [{ggseqplot}: ggplotify sequence data plots](https://github.com/maraab23/ggseqplot/)
+
+
+**Bioconductor**
+
+
+
+**GitHub or Bitbucket**
+
+
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [asciicast 2.1.0](https://github.com/r-lib/asciicast) - [diffify](https://diffify.com/R/asciicast/2.0.0/2.1.0)
-
-![This is a gif from the README showing the code of the package getting typed](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/asc.svg)
-
-+ [RApiSerialize 0.1.1](http://dirk.eddelbuettel.com/blog/2022/08/07#rapiserialize_0.1.1) - [diffify](https://diffify.com/R/RApiSerialize/0.1.0/0.1.1)
-
-+ [RcppXts 0.0.5](http://dirk.eddelbuettel.com/blog/2022/08/05#rcppxts_0.0.5) - [diffify](https://diffify.com/R/RcppXts/0.0.4/0.0.5)
-
-+ [datawizard 0.5.0](https://github.com/easystats/datawizard/) [diffify](https://diffify.com/R/datawizard/0.4.1/0.5.0)
-
-![a gif for wizard from cartoon](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/datawizard.gif)
-
-
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-* [RStudio::Conf 2022 Recap](https://www.youtube.com/watch?v=_sQGiu4fWqc)
 
-+ [Easy R Tutorials with Dev Containers](https://blog.revolutionanalytics.com/2022/08/dev-containers-for-r.html)
+### Gist & Cookbook
 
-+ [How to create bins from continuous variables](https://www.youtube.com/watch?v=1vqpZH6bWYo)
 
-+ [Stylizing the appearance of facet labels with ggplot2's facet_wrap](https://www.youtube.com/watch?v=v1hTB2b_YkE)
 
-+ [Visualizing correlation with double y-axes using the ggplot2 R package](https://www.youtube.com/watch?v=ir-NMcrYD-I)
+### Shiny Apps
 
-+ [[R Beginners] DPLYR series SLICE 06](https://www.youtube.com/watch?v=AbSz6cXKqz8)
-
-+ [Independent samples t-test, Levene’s test, effect size, and normality in RStudio](https://www.youtube.com/watch?v=6PkCu6LhLBg)
 
 
 ### R Internationally
 
-- [DsPubs with R 2) Rstudio and Shiny Server Setting in GCP (Korean)](https://www.youtube.com/watch?v=60wUhkj2vdY)
 
-- [Open Science approach to increase the discoverability of the local research outputs (Arabic by Oman Use R group)](https://www.youtube.com/watch?v=tF52ck_-9DU&t=110s). The session discusses Communities of practice (CoPs) around R and Open Sceince.
 
 ###  Tutorials
 
-- [An R Shiny App to Upload Database Tables](https://medium.com/@mcodrescu/an-r-shiny-app-to-upload-database-tables-95accc75de5)
 
-![a screenshot for the landing page of the Shiny App which has a button to upload the database](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/ass_database.jpeg)
-
-- [How to use Quarto for Parameterized Reporting](https://www.mm218.dev/posts/2022-08-04-how-to-use-quarto-for-parameterized-reporting/)
-
-+ [Sliding windows for #TidyTuesday rents in San Francisco](https://juliasilge.com/blog/sf-rent/)
-
-+ [Survivor Confessionals Data: Dataset showcase for {survivoR}](http://gradientdescending.com/survivor-confessionals-data-dataset-showcase-for-survivor/?utm_source=rss&utm_medium=rss&utm_campaign=survivor-confessionals-data-dataset-showcase-for-survivor)
-
-![this is a summary of 5 plots in one plot (the text isn't clear) but it meant to be a high-level summary of confessionals a showcase of the dataset and an analysis of the edit for key demographics](https://raw.githubusercontent.com/rweekly/image/master/2022-08-08/survivor.jpeg)
-
-+ [Mismanaged Plastic Pollution: Web-Scraping, Tidy Modeling, and Variable Importance](https://datageeek.com/2022/07/29/comparing-plastic-pollution-modeling-with-tidymodels-and-variable-importance/)
-
-+ [Data Manipulation Using Dplyr In R](https://medium.com/mlearning-ai/data-manipulation-using-dplyr-in-r-9f930580f0e3)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
-Updates from R Core: [R-devel NEWS](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS)
-
-[R Contribution Working Group Idea Incubator 2022 - Propose/discuss ideas for RCWG to work on in the next 12 months](https://github.com/r-devel/rcontribution/blob/main/ideas_incubator.md)
+Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ###  Upcoming Events in 3 Months
 
