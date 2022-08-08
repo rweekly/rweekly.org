@@ -52,7 +52,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [Fundamentals of Data Visualization Book](https://clauswilke.com/dataviz/)
 
-+ [Creating music with R | Next - Issue #39](https://www.getrevue.co/profile/harshbutjust/issues/creating-music-with-r-next-issue-39-1256602)
++ [Creating music with R, Next: Issue #39](https://www.getrevue.co/profile/harshbutjust/issues/creating-music-with-r-next-issue-39-1256602)
 
 + [ggdensity: Improved density visualization in R](https://jamesotto852.github.io/JSM-2022/#/)
 
