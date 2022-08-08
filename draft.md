@@ -97,10 +97,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Independent samples t-test, Levene’s test, effect size, and normality in RStudio](https://www.youtube.com/watch?v=6PkCu6LhLBg)
 
 
-### Shiny Apps
-
-- [Why normal distribution is normal in Statistical Rethinking](https://ramikrispin.github.io/shinyelive/)
-
 ### R Internationally
 
 - [DsPubs with R 2) Rstudio and Shiny Server Setting in GCP (Korean)](https://www.youtube.com/watch?v=60wUhkj2vdY)
@@ -144,18 +140,15 @@ Events in 3 Months:
 + [August BookClub - ISLR Tidymodels Lab](https://www.meetup.com/rladies-philly/events/287082225/)
  
 + [Data Analysis Using Principal Component Analysis (PCA)](https://www.meetup.com/rladies-chennai/events/287181350/)
- 
+
++ [R-Ladies NYC Lightning Talks - RSVP and Call for Speakers](https://www.meetup.com/rladies-newyork/events/287520144/)
+
+
 
 ### Jobs
 
 [Data Scientist - Apple Cloud](https://jobs.apple.com/en-us/details/200400071/data-scientist-apple-cloud-services-r-programming)
 
-
-###  Call for Participation
-
-<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
-
-+ [R-Ladies NYC Lightning Talks - RSVP and Call for Speakers](https://www.meetup.com/rladies-newyork/events/287520144/)
 
 
 ### rtistry
