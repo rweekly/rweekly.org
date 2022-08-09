@@ -17,7 +17,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Pretty ggplots with custom themes, ggtext, and ggh4x](https://www.michaelc-m.com/ggplot-extensions-and-custom-themes/)
 
 ### R in the Real World
 
