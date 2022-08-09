@@ -59,6 +59,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+* [Iteration in R: from for loops to purr and beyond](https://youtu.be/pd8CLdI6kqM)
 
 
 ### Gist & Cookbook
