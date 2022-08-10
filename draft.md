@@ -57,6 +57,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [rsample 1.1.0](https://github.com/tidymodels/rsample/) - [diffify](https://diffify.com/R/rsample/1.0.0/1.1.0)
++ [spatialsample 0.2.1](https://github.com/tidymodels/spatialsample/) - [diffify](https://diffify.com/R/spatialsample/0.2.0/0.2.1)
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
