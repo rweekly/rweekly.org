@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Resources
 
 
++ [Tips and tricks for ggplot2](https://erikgahner.dk/2022/tips-and-tricks-for-ggplot2/)
 
 ###  New Packages
 
