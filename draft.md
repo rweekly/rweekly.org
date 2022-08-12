@@ -21,6 +21,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Four announcements from rstudio::conf(2022)](https://www.rstudio.com/blog/four-announcements-from-rstudio-conf-2022/)
 
++ [5 hidden gems from gg-packages to level up your dataviz game](https://albert-rapp.de/posts/ggplot2-tips/12_a_few_gg_packages/12_a_few_gg_packages.html)
+
++ [Alternative ways to visualize correlations](https://albert-rapp.de/posts/ggplot2-tips/13_alternative_corrplots/13_alternative_corrplots.html)
+
++ [Forget regular heat maps. Use bubbles on a grid!](https://albert-rapp.de/posts/ggplot2-tips/14_scaled_heatmaps/14_scaled_heatmaps.html)
+
+
 ### R in the Real World
 
 + [Analyzing Passes Under Pressure Shiny App (Women in Sports Data 2022 Hackathon submission)](https://github.com/ceci-hub/Statsbomb_wids)
