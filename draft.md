@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2022-W00
+title: R Weekly 2022-W33
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -14,18 +14,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Highlight
 
 
-
 ### Insights
 
 + [Pretty ggplots with custom themes, ggtext, and ggh4x](https://www.michaelc-m.com/ggplot-extensions-and-custom-themes/)
 
++ [Namibia R Users Group: Fostering the Budding R Community in Namibia￼](https://www.r-consortium.org/blog/2022/08/09/fostering-the-budding-r-community-in-namibia)
+
 + [Four announcements from rstudio::conf(2022)](https://www.rstudio.com/blog/four-announcements-from-rstudio-conf-2022/)
 
-+ [5 hidden gems from gg-packages to level up your dataviz game](https://albert-rapp.de/posts/ggplot2-tips/12_a_few_gg_packages/12_a_few_gg_packages.html)
++ [Highlights from rstudio::conf(2022)](https://www.jumpingrivers.com/blog/highlights-rstudioconf2022/)
 
-+ [Alternative ways to visualize correlations](https://albert-rapp.de/posts/ggplot2-tips/13_alternative_corrplots/13_alternative_corrplots.html)
++ [RObservations # 36: Opinions on RStudio’s name change. A Bayesian approach with Stan](https://bensstats.wordpress.com/2022/08/07/robservations-36-opinions-on-rstudios-name-change-a-bayesian-approach-with-stan/)
 
-+ [Forget regular heat maps. Use bubbles on a grid!](https://albert-rapp.de/posts/ggplot2-tips/14_scaled_heatmaps/14_scaled_heatmaps.html)
++ [Sonnet to infix function](https://turtletopia.github.io/2022/08/10/sonnet-to-infix-function/)
 
 
 ### R in the Real World
@@ -38,13 +39,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Data: Trade Valuation Systems per Country](https://github.com/pachadotdev/valuation-systems)
 
++ [Schools in England](https://datawookie.dev/blog/2022/08/schools-in-england/)
+
 ###  R in Organizations
 
 + [Code to produce and validate AOH maps of birds and mammals - BirdLife International](https://github.com/BirdLifeInternational/code_for_AOH)
 
++ [Diffify - 3 months on](https://www.jumpingrivers.com/blog/diffify-3-months-r-cran/)
+
 ###  R in Academia
 
-
++ [Downstream Bioinformatics Analysis of Omics Data with edgeR](https://morphoscape.wordpress.com/2022/08/09/downstream-bioinformatics-analysis-of-omics-data-with-edger/)
 
 ###  Resources
 
@@ -60,15 +65,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
 **CRAN**
 
 + [{waywiser} 0.1.0](https://www.mm218.dev/posts/2022-08-11-waywiser-010-is-now-on-cran/): Yardstick Extensions for Measuring Spatial Structure in Model
     Residuals.
-
-**Bioconductor**
-
-
+    
++ [{censored} 0.1.0](https://www.tidyverse.org/blog/2022/08/censored-0-1-0/): 'parsnip' Engines for Survival Models.
 
 **GitHub or Bitbucket**
 
@@ -86,6 +88,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [spatialsample 0.2.1](https://github.com/tidymodels/spatialsample/): Create and summarize spatial resampling objects. - [diffify](https://diffify.com/R/spatialsample/0.2.0/0.2.1)
+
 + [{dispRity} 1.7.0](https://cran.r-project.org/package=dispRity): Measuring disparity with R.
 
 + [{chessR} 1.5.1](https://github.com/JaseZiv/chessR/): An R package designed to extract and analyse chess game data played on Lichess and chess.com.
@@ -98,11 +102,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{nflreadr} 1.3.0](https://cran.r-project.org/package=nflreadr): Download 'nflverse' Data.
 
++ [{RcppCCTZ} 0.2.11](http://dirk.eddelbuettel.com/blog/2022/08/06/#rcppcctz_0.2.11): Rcpp bindings for CCTZ.
+
++ [{rsample} 1.1.0](https://www.tidyverse.org/blog/2022/08/rsample-1-1-0/): General Resampling Infrastructure.
+
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 * [Iteration in R: from for loops to purr and beyond](https://youtu.be/pd8CLdI6kqM)
+
++ [TidyX: RStudio::Conf 2022 Recap](https://www.youtube.com/watch?v=_sQGiu4fWqc&feature=youtu.be)
 
 
 ### Gist & Cookbook
@@ -111,17 +122,36 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [Labelling the points of a 'ggplot' with Shiny](https://laustep.github.io/stlahblog/posts/ggplot2_labelling.html)
 
 ### R Internationally
 
-
++ [Un extraño truco para obtener el máximo (o el mínimo)](https://pacha.dev/blog/2022/08/09/un-extra%C3%B1o-truco-para-obtener-el-m%C3%A1ximo-o-el-m%C3%ADnimo/)
 
 ###  Tutorials
 
 + [Using across() to create multiple columns](https://www.njtierney.com/post/2022/08/08/fun-across/)
 
 + [Quarto Website with GitHub Actions](https://tarleb.com/posts/quarto-with-gh-pages/)
+
++ [Simulating data from a non-linear function by specifying a handful of points](https://www.rdatagen.net/post/2022-08-09-simulating-data-from-a-non-linear-function-by-specifying-some-points-on-the-curve/)
+
++ [New statistical geoms in {ggxmean}](https://www.rstudio.com/blog/new-statistical-geoms-in-ggxmean/)
+
++ [Bring Your Own Binary Packages with RSPM](https://www.rstudio.com/blog/publishing-your-own-binary-packages-with-rspm-2022-07/)
+
++ [Linux Packages for R](https://datawookie.dev/blog/2022/08/linux-packages-for-r/)
+
++ [Window and Pane Management Tricks for RStudio and your OS](https://datachimp.app/blog/window-managment-for-rstudio/)
+
++ [Working with Qualtrics Data - Part 1: Importing Data](https://ropensci.org/blog/2022/08/02/working-with-qualtrics-data-importing/)
+
++ [5 hidden gems from gg-packages to level up your dataviz game](https://albert-rapp.de/posts/ggplot2-tips/12_a_few_gg_packages/12_a_few_gg_packages.html)
+
++ [Alternative ways to visualize correlations](https://albert-rapp.de/posts/ggplot2-tips/13_alternative_corrplots/13_alternative_corrplots.html)
+
++ [Forget regular heat maps. Use bubbles on a grid!](https://albert-rapp.de/posts/ggplot2-tips/14_scaled_heatmaps/14_scaled_heatmaps.html)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -137,22 +167,19 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-+ [How to build websites with {distill}](https://www.meetup.com/oman-r-user/events/287473261/?_xtd=gqFyqTI5MjQyMDY2OaFwo2FwaQ&from=ref)
++ [August 17: Using R on HPC Clusters Webinar](https://www.olcf.ornl.gov/calendar/using-r-on-hpc-clusters-webinar/)
 
-+ [From Excel to R](https://www.meetup.com/rladies-gaborone/events/286104389/)
++ [August 19: August BookClub - ISLR Tidymodels Lab](https://www.meetup.com/rladies-philly/events/287082225/)
 
-+ [August BookClub - ISLR Tidymodels Lab](https://www.meetup.com/rladies-philly/events/287082225/)
- 
-+ [Data Analysis Using Principal Component Analysis (PCA)](https://www.meetup.com/rladies-chennai/events/287181350/)
++ [August 31: 'Build your first Shiny App' with us](https://mirai-solutions.ch/news/2022/08/09/announce-shiny1-ws/)
 
-+ [R-Ladies NYC Lightning Talks - RSVP and Call for Speakers](https://www.meetup.com/rladies-newyork/events/287520144/)
++ [September 21: R-Ladies NYC Lightning Talks - RSVP and Call for Speakers](https://www.meetup.com/rladies-newyork/events/287520144/)
 
 
 
 ### Jobs
 
 [Data Scientist - Apple Cloud](https://jobs.apple.com/en-us/details/200400071/data-scientist-apple-cloud-services-r-programming)
-
 
 
 ### rtistry
