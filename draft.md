@@ -88,6 +88,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [spatialsample 0.2.1](https://github.com/tidymodels/spatialsample/): Create and summarize spatial resampling objects. - [diffify](https://diffify.com/R/spatialsample/0.2.0/0.2.1)
+
 + [{dispRity} 1.7.0](https://cran.r-project.org/package=dispRity): Measuring disparity with R.
 
 + [{chessR} 1.5.1](https://github.com/JaseZiv/chessR/): An R package designed to extract and analyse chess game data played on Lichess and chess.com.
