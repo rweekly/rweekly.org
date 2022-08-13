@@ -13,34 +13,21 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
-### RSS entries for selection
-
-+ [Simulating data from a non-linear function by specifying a handful of points](https://www.rdatagen.net/post/2022-08-09-simulating-data-from-a-non-linear-function-by-specifying-some-points-on-the-curve/)
-+ [Highlights from rstudio::conf(2022)](https://www.jumpingrivers.com/blog/highlights-rstudioconf2022/)
-+ [Diffify - 3 months on](https://www.jumpingrivers.com/blog/diffify-3-months-r-cran/)
-+ [Namibia R Users Group: Fostering the Budding R Community in Namibia￼](https://www.r-consortium.org/blog/2022/08/09/fostering-the-budding-r-community-in-namibia)
-+ [Valuable Webinar in Parallel Computing in R](https://matloff.wordpress.com/2022/08/10/valuable-webinar-in-parallel-computing-in-r/)
-+ [New statistical geoms in {ggxmean}](https://www.rstudio.com/blog/new-statistical-geoms-in-ggxmean/)
-+ [Bring Your Own Binary Packages with RSPM](https://www.rstudio.com/blog/publishing-your-own-binary-packages-with-rspm-2022-07/)
-+ [RcppCCTZ 0.2.11 on CRAN: Updates](http://dirk.eddelbuettel.com/blog/2022/08/06#rcppcctz_0.2.11)
-+ [censored 0.1.0](https://www.tidyverse.org/blog/2022/08/censored-0-1-0/)
-+ [rsample 1.1.0](https://www.tidyverse.org/blog/2022/08/rsample-1-1-0/)
-+ ['Build your first Shiny App' with us](https://mirai-solutions.ch/news/2022/08/09/announce-shiny1-ws/)
-+ [RObservations # 36: Opinions on RStudio’s name change. A Bayesian approach with Stan](https://bensstats.wordpress.com/2022/08/07/robservations-36-opinions-on-rstudios-name-change-a-bayesian-approach-with-stan/)
-+ [Stoned to Death at the Public Square](www.harsh17.in/stoned-to-death-at-the-public-square/)
-+ [How to Speak to Executives? | Next - Issue #40](https://www.getrevue.co/profile/harshbutjust/issues/how-to-speak-to-executives-next-issue-40-1294198)
-
-### from rweekly_submit for manual selection
-
-+ [My recap of RStudio::conf is now live on the #TidyX channel! I talk about the various updates from @rstudio, including the awesome release from @jcheng on #shinyforpython, @quarto_pub, talks from @Mayacelium and @_TanHo, and @theRcast's workshop! (posted by @ellis_hughes)](https://www.youtube.com/watch?v=_sQGiu4fWqc&feature=youtu.be)
-+ [[blog] Working with Qualtrics Data - Part 1: Importing Data Accessing Qualtrics survey data giving you a headache? 🤕 Peruse @JeffStevensADML's clear and fun guide to the qualtRics package for survey downloads. 🎉 #RStats #qualtrics #excluder (1/2) (posted by @rOpenSci)](https://ropensci.org/blog/2022/08/02/working-with-qualtrics-data-importing/)
-+ [Just published a blog post on @rstudio window pane management tips for #rstats users. If you're ever frustrated by how much screen real-estate is occupied by panes you're not using, you can easily free up space by learning a few hotkeys. More details: (posted by @get_data_chimp)](https://datachimp.app/blog/window-managment-for-rstudio/)
 
 ### Insights
 
 + [Pretty ggplots with custom themes, ggtext, and ggh4x](https://www.michaelc-m.com/ggplot-extensions-and-custom-themes/)
 
++ [Namibia R Users Group: Fostering the Budding R Community in Namibia￼](https://www.r-consortium.org/blog/2022/08/09/fostering-the-budding-r-community-in-namibia)
+
 + [Four announcements from rstudio::conf(2022)](https://www.rstudio.com/blog/four-announcements-from-rstudio-conf-2022/)
+
++ [Highlights from rstudio::conf(2022)](https://www.jumpingrivers.com/blog/highlights-rstudioconf2022/)
+
++ [RObservations # 36: Opinions on RStudio’s name change. A Bayesian approach with Stan](https://bensstats.wordpress.com/2022/08/07/robservations-36-opinions-on-rstudios-name-change-a-bayesian-approach-with-stan/)
+
++ [Sonnet to infix function](https://turtletopia.github.io/2022/08/10/sonnet-to-infix-function/)
+
 
 ### R in the Real World
 
@@ -52,13 +39,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Data: Trade Valuation Systems per Country](https://github.com/pachadotdev/valuation-systems)
 
++ [Schools in England](https://datawookie.dev/blog/2022/08/schools-in-england/)
+
 ###  R in Organizations
 
 + [Code to produce and validate AOH maps of birds and mammals - BirdLife International](https://github.com/BirdLifeInternational/code_for_AOH)
 
++ [Diffify - 3 months on](https://www.jumpingrivers.com/blog/diffify-3-months-r-cran/)
+
 ###  R in Academia
 
-
++ [Downstream Bioinformatics Analysis of Omics Data with edgeR](https://morphoscape.wordpress.com/2022/08/09/downstream-bioinformatics-analysis-of-omics-data-with-edger/)
 
 ###  Resources
 
@@ -74,15 +65,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
 **CRAN**
 
 + [{waywiser} 0.1.0](https://www.mm218.dev/posts/2022-08-11-waywiser-010-is-now-on-cran/): Yardstick Extensions for Measuring Spatial Structure in Model
     Residuals.
-
-**Bioconductor**
-
-
+    
++ [{censored} 0.1.0](https://www.tidyverse.org/blog/2022/08/censored-0-1-0/): 'parsnip' Engines for Survival Models.
 
 **GitHub or Bitbucket**
 
@@ -112,11 +100,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{nflreadr} 1.3.0](https://cran.r-project.org/package=nflreadr): Download 'nflverse' Data.
 
++ [{RcppCCTZ} 0.2.11](http://dirk.eddelbuettel.com/blog/2022/08/06/#rcppcctz_0.2.11): Rcpp bindings for CCTZ.
+
++ [{rsample} 1.1.0](https://www.tidyverse.org/blog/2022/08/rsample-1-1-0/): General Resampling Infrastructure.
+
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 * [Iteration in R: from for loops to purr and beyond](https://youtu.be/pd8CLdI6kqM)
+
++ [TidyX: RStudio::Conf 2022 Recap](https://www.youtube.com/watch?v=_sQGiu4fWqc&feature=youtu.be)
 
 
 ### Gist & Cookbook
@@ -125,17 +120,30 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [Labelling the points of a 'ggplot' with Shiny](https://laustep.github.io/stlahblog/posts/ggplot2_labelling.html)
 
 ### R Internationally
 
-
++ [Un extraño truco para obtener el máximo (o el mínimo)](https://pacha.dev/blog/2022/08/09/un-extra%C3%B1o-truco-para-obtener-el-m%C3%A1ximo-o-el-m%C3%ADnimo/)
 
 ###  Tutorials
 
 + [Using across() to create multiple columns](https://www.njtierney.com/post/2022/08/08/fun-across/)
 
 + [Quarto Website with GitHub Actions](https://tarleb.com/posts/quarto-with-gh-pages/)
+
++ [Simulating data from a non-linear function by specifying a handful of points](https://www.rdatagen.net/post/2022-08-09-simulating-data-from-a-non-linear-function-by-specifying-some-points-on-the-curve/)
+
++ [New statistical geoms in {ggxmean}](https://www.rstudio.com/blog/new-statistical-geoms-in-ggxmean/)
+
++ [Bring Your Own Binary Packages with RSPM](https://www.rstudio.com/blog/publishing-your-own-binary-packages-with-rspm-2022-07/)
+
++ [Linux Packages for R](https://datawookie.dev/blog/2022/08/linux-packages-for-r/)
+
++ [Window and Pane Management Tricks for RStudio and your OS](https://datachimp.app/blog/window-managment-for-rstudio/)
+
++ [Working with Qualtrics Data - Part 1: Importing Data](https://ropensci.org/blog/2022/08/02/working-with-qualtrics-data-importing/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -151,22 +159,19 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-+ [How to build websites with {distill}](https://www.meetup.com/oman-r-user/events/287473261/?_xtd=gqFyqTI5MjQyMDY2OaFwo2FwaQ&from=ref)
++ [August 17: Using R on HPC Clusters Webinar](https://www.olcf.ornl.gov/calendar/using-r-on-hpc-clusters-webinar/)
 
-+ [From Excel to R](https://www.meetup.com/rladies-gaborone/events/286104389/)
++ [August 19: August BookClub - ISLR Tidymodels Lab](https://www.meetup.com/rladies-philly/events/287082225/)
 
-+ [August BookClub - ISLR Tidymodels Lab](https://www.meetup.com/rladies-philly/events/287082225/)
- 
-+ [Data Analysis Using Principal Component Analysis (PCA)](https://www.meetup.com/rladies-chennai/events/287181350/)
++ [August 31: 'Build your first Shiny App' with us](https://mirai-solutions.ch/news/2022/08/09/announce-shiny1-ws/)
 
-+ [R-Ladies NYC Lightning Talks - RSVP and Call for Speakers](https://www.meetup.com/rladies-newyork/events/287520144/)
++ [September 21: R-Ladies NYC Lightning Talks - RSVP and Call for Speakers](https://www.meetup.com/rladies-newyork/events/287520144/)
 
 
 
 ### Jobs
 
 [Data Scientist - Apple Cloud](https://jobs.apple.com/en-us/details/200400071/data-scientist-apple-cloud-services-r-programming)
-
 
 
 ### rtistry
