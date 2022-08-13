@@ -28,6 +28,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Sonnet to infix function](https://turtletopia.github.io/2022/08/10/sonnet-to-infix-function/)
 
++ [I know what I did last summer: An RStudio internship retrospective](https://www.mm218.dev/posts/2022-08-15-last-summer/)
+
 
 ### R in the Real World
 
@@ -151,6 +153,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Alternative ways to visualize correlations](https://albert-rapp.de/posts/ggplot2-tips/13_alternative_corrplots/13_alternative_corrplots.html)
 
 + [Forget regular heat maps. Use bubbles on a grid!](https://albert-rapp.de/posts/ggplot2-tips/14_scaled_heatmaps/14_scaled_heatmaps.html)
+
++ [Pyramid Plots in ggplot2](https://www.njtierney.com/post/2022/08/09/ggplot-pyramid/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
