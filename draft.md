@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2022-W00
+title: R Weekly 2022-W33
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -13,7 +13,28 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
+### RSS entries for selection
 
++ [Simulating data from a non-linear function by specifying a handful of points](https://www.rdatagen.net/post/2022-08-09-simulating-data-from-a-non-linear-function-by-specifying-some-points-on-the-curve/)
++ [Highlights from rstudio::conf(2022)](https://www.jumpingrivers.com/blog/highlights-rstudioconf2022/)
++ [Diffify - 3 months on](https://www.jumpingrivers.com/blog/diffify-3-months-r-cran/)
++ [Namibia R Users Group: Fostering the Budding R Community in Namibia￼](https://www.r-consortium.org/blog/2022/08/09/fostering-the-budding-r-community-in-namibia)
++ [Valuable Webinar in Parallel Computing in R](https://matloff.wordpress.com/2022/08/10/valuable-webinar-in-parallel-computing-in-r/)
++ [New statistical geoms in {ggxmean}](https://www.rstudio.com/blog/new-statistical-geoms-in-ggxmean/)
++ [Bring Your Own Binary Packages with RSPM](https://www.rstudio.com/blog/publishing-your-own-binary-packages-with-rspm-2022-07/)
++ [RcppCCTZ 0.2.11 on CRAN: Updates](http://dirk.eddelbuettel.com/blog/2022/08/06#rcppcctz_0.2.11)
++ [censored 0.1.0](https://www.tidyverse.org/blog/2022/08/censored-0-1-0/)
++ [rsample 1.1.0](https://www.tidyverse.org/blog/2022/08/rsample-1-1-0/)
++ ['Build your first Shiny App' with us](https://mirai-solutions.ch/news/2022/08/09/announce-shiny1-ws/)
++ [RObservations # 36: Opinions on RStudio’s name change. A Bayesian approach with Stan](https://bensstats.wordpress.com/2022/08/07/robservations-36-opinions-on-rstudios-name-change-a-bayesian-approach-with-stan/)
++ [Stoned to Death at the Public Square](www.harsh17.in/stoned-to-death-at-the-public-square/)
++ [How to Speak to Executives? | Next - Issue #40](https://www.getrevue.co/profile/harshbutjust/issues/how-to-speak-to-executives-next-issue-40-1294198)
+
+### from rweekly_submit for manual selection
+
++ [My recap of RStudio::conf is now live on the #TidyX channel! I talk about the various updates from @rstudio, including the awesome release from @jcheng on #shinyforpython, @quarto_pub, talks from @Mayacelium and @_TanHo, and @theRcast's workshop! (posted by @ellis_hughes)](https://www.youtube.com/watch?v=_sQGiu4fWqc&feature=youtu.be)
++ [[blog] Working with Qualtrics Data - Part 1: Importing Data Accessing Qualtrics survey data giving you a headache? 🤕 Peruse @JeffStevensADML's clear and fun guide to the qualtRics package for survey downloads. 🎉 #RStats #qualtrics #excluder (1/2) (posted by @rOpenSci)](https://ropensci.org/blog/2022/08/02/working-with-qualtrics-data-importing/)
++ [Just published a blog post on @rstudio window pane management tips for #rstats users. If you're ever frustrated by how much screen real-estate is occupied by panes you're not using, you can easily free up space by learning a few hotkeys. More details: (posted by @get_data_chimp)](https://datachimp.app/blog/window-managment-for-rstudio/)
 
 ### Insights
 
