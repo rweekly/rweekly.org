@@ -60,7 +60,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
+* [How to Detect and Analyse Emotions from Texts using R](https://www.youtube.com/watch?v=6el_C3PxSSw)
+<a href="https://www.youtube.com/watch?v=6el_C3PxSSw">
+  <img src="https://i1.ytimg.com/vi/6el_C3PxSSw/hqdefault.jpg" title="How to Detect and Analyse from Texts using R" target="_blank" width="350"/>
+</a>
 
 ### Gist & Cookbook
 
