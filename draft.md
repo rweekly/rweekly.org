@@ -28,8 +28,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Installation of R 4.2 on Ubuntu 22.04 LTS and tips for spatial packages](https://rtask.thinkr.fr/installation-of-r-4-2-on-ubuntu-22-04-lts-and-tips-for-spatial-packages/)
 
++ [Have we got NEWS.md for you](https://www.jumpingrivers.com/blog/intro-to-r-news-format/)
+
 ###  R in Organizations
 
++ [Using the Microsoft365R R package for use with RStudio Pro Products](https://solutions.rstudio.com/r/data/microsoft365/)
 
 
 ###  R in Academia
@@ -114,9 +117,13 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
++ [August 23-26: R Medicine Virtual Conference](https://events.linuxfoundation.org/r-medicine/)
+
 + [August 31: 'Build your first Shiny App' with us](https://mirai-solutions.ch/news/2022/08/09/announce-shiny1-ws/)
 
 + [September 21: R-Ladies NYC Lightning Talks - RSVP and Call for Speakers](https://www.meetup.com/rladies-newyork/events/287520144/)
+
++ [October 6-7 : Shiny in Production conference from Jumping Rivers](https://shiny-in-production.jumpingrivers.com/)
 
 ### Jobs
 
