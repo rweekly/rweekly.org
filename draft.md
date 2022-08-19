@@ -19,12 +19,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 
-- [The ultimate beginner’s guide to generalized linear models (GLMs)](https://albert-rapp.de/posts/14_glms/14_glms)
++ [The ultimate beginner’s guide to generalized linear models (GLMs)](https://albert-rapp.de/posts/14_glms/14_glms)
 
 
 ### R in the Real World
 
-- [The R Programming Language Is Now Fast Enough to Run Games on Linux with Nara](https://boilingsteam.com/the-r-programming-language-is-now-fast-enough-to-run-games-on-linux-with-nara/)
++ [The R Programming Language Is Now Fast Enough to Run Games on Linux with Nara](https://boilingsteam.com/the-r-programming-language-is-now-fast-enough-to-run-games-on-linux-with-nara/)
+
++ [Installation of R 4.2 on Ubuntu 22.04 LTS and tips for spatial packages](https://rtask.thinkr.fr/installation-of-r-4-2-on-ubuntu-22-04-lts-and-tips-for-spatial-packages/)
 
 ###  R in Organizations
 
@@ -37,6 +39,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Resources
 
 + [Github Actions workflow file that you can use to reproduce roxygen HTML5 issues and confirm that they have been resolved](https://github.com/DavisVaughan/extrachecks-html5)
+
++ [Keynote recordings from rstudio::conf(2022)](https://www.rstudio.com/conference/#conf-keynotes)
+
++ [Talk recordings from rstudio::conf(2022)](https://www.rstudio.com/conference/2022/2022-conf-talks/)
 
 ###  New Packages
 
@@ -55,6 +61,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{TDApplied} 0.1.1](https://github.com/shaelebrown/TDApplied): An R package for statistics and machine learning with persistence diagrams.
 
++ [{roughnet} 1.0.0](https://github.com/schochastics/roughnet): R package to draw sketchy, hand-drawn-like networks with roughjs
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
@@ -69,8 +77,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-* [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-* [How to Detect and Analyse Emotions from Texts using R](https://www.youtube.com/watch?v=6el_C3PxSSw)
++ [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+
++ [How to Detect and Analyse Emotions from Texts using R](https://www.youtube.com/watch?v=6el_C3PxSSw)
 <a href="https://www.youtube.com/watch?v=6el_C3PxSSw">
   <img src="https://i1.ytimg.com/vi/6el_C3PxSSw/hqdefault.jpg" title="How to Detect and Analyse from Texts using R" target="_blank" width="350"/>
 </a>
