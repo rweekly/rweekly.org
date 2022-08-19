@@ -19,6 +19,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 
+- [The ultimate beginner’s guide to generalized linear models (GLMs)](https://albert-rapp.de/posts/14_glms/14_glms)
+
 
 ### R in the Real World
 
