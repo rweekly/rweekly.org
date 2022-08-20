@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with help from the R Weekly team members and contributors.
 
 
 
@@ -21,6 +21,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [The ultimate beginner’s guide to generalized linear models (GLMs)](https://albert-rapp.de/posts/14_glms/14_glms)
 
++ [Have we got NEWS.md for you](https://www.jumpingrivers.com/blog/intro-to-r-news-format/)
+
 + [countdown v0.4.0 – Now on CRAN!](https://www.garrickadenbuie.com/blog/countdown-v0.4.0/)
 
 ### R in the Real World
@@ -28,8 +30,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [The R Programming Language Is Now Fast Enough to Run Games on Linux with Nara](https://boilingsteam.com/the-r-programming-language-is-now-fast-enough-to-run-games-on-linux-with-nara/)
 
 + [Installation of R 4.2 on Ubuntu 22.04 LTS and tips for spatial packages](https://rtask.thinkr.fr/installation-of-r-4-2-on-ubuntu-22-04-lts-and-tips-for-spatial-packages/)
-
-+ [Have we got NEWS.md for you](https://www.jumpingrivers.com/blog/intro-to-r-news-format/)
 
 ###  R in Organizations
 
@@ -57,9 +57,21 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{countdown} 0.4.0](https://cran.r-project.org/package=countdown): Countdown to something awesome in xaringan, Quarto slides, Shiny apps and more.
 
-**Bioconductor**
++ [{sendigR} 1.0.0](https://cran.r-project.org/package=sendigR): Enable Cross-Study Analysis of 'CDISC' 'SEND' Datasets
 
++ [{dataversionr} 0.9.0](https://cran.r-project.org/package=dataversionr): Time Versioned Storage of Data Frames
 
++ [{ordr} 0.1.0](https://cran.r-project.org/package=ordr): A 'tidyverse' Extension for Ordinations and Biplots
+
++ [{babynamesIL} 0.0.1](https://cran.r-project.org/package=babynamesIL): Israel Baby Names 1948-2021
+
++ [{rspm} 0.2.1](https://cran.r-project.org/package=rspm): 'RStudio' Package Manager
+
++ [{roughnet} 1.0.0](https://cran.r-project.org/package=roughnet): Visualize Networks using 'roughjs'
+
++ [{pell} 0.1.0](https://cran.r-project.org/package=pell): Data About Historic Pell Grant Distribution in the US
+
++ [{WrensBookshelf} 0.1.0](https://cran.r-project.org/package=WrensBookshelf): A Collection of Palettes and Some Functions to Help Use Them
 
 **GitHub or Bitbucket**
 
@@ -71,13 +83,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{riskyr} 0.4.0](https://cran.r-project.org/package=riskyr): Rendering Risk Literacy more Transparent.
++ [{riskyr} 0.4.0](https://cran.r-project.org/package=riskyr): Rendering Risk Literacy more Transparent - [diffify](https://diffify.com/R/riskyr)
 
-+ [{reprex} 2.0.2](https://github.com/tidyverse/reprex/): .
++ [{dtplyr} 1.2.2](https://cran.r-project.org/package=dtplyr): Data Table Back-End for 'dplyr' - [diffify](https://diffify.com/R/dtplyr)
 
-+ [{readxl} 1.4.1](https://github.com/tidyverse/readxl): .
++ [{av} 0.8.1](https://cran.r-project.org/package=av): Working with Audio and Video in R - [diffify](https://diffify.com/R/av)
 
-+ [{poorman} 0.2.6](https://github.com/nathaneastwood/poorman): .
++ [{shinyTime} 1.0.3](https://cran.r-project.org/package=shinyTime): A Time Input Widget for Shiny - [diffify](https://diffify.com/R/shinyTime)
+
++ [{drawer} 0.2.0.1](https://cran.r-project.org/package=drawer): An Interactive HTML Image Editing Tool - [diffify](https://diffify.com/R/drawer)
+
++ [{shinyFiles} 0.9.3](https://cran.r-project.org/package=shinyFiles): A Server-Side File System Viewer for Shiny - [diffify](https://diffify.com/R/shinyFiles)
+
++ [{charlatan} 0.5.0](https://cran.r-project.org/package=charlatan): Make Fake Data - [diffify](https://diffify.com/R/charlatan)
+
++ [{gert} 1.7.1](https://cran.r-project.org/package=gert): Simple Git Client for R - [diffify](https://diffify.com/R/gert)
+
++ [{visR} 0.3.1](https://cran.r-project.org/package=visR): Clinical Graphs and Tables Adhering to Graphical Principles - [diffify](https://diffify.com/R/visR)
+
++ [{gtreg} 0.1.1](https://cran.r-project.org/package=gtreg): Regulatory Tables for Clinical Research - [diffify](https://diffify.com/R/gtreg)
 
 ###  Videos and Podcasts
 
