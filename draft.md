@@ -21,6 +21,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [The ultimate beginner’s guide to generalized linear models (GLMs)](https://albert-rapp.de/posts/14_glms/14_glms)
 
++ [countdown v0.4.0 – Now on CRAN!](https://www.garrickadenbuie.com/blog/countdown-v0.4.0/)
 
 ### R in the Real World
 
@@ -29,8 +30,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Installation of R 4.2 on Ubuntu 22.04 LTS and tips for spatial packages](https://rtask.thinkr.fr/installation-of-r-4-2-on-ubuntu-22-04-lts-and-tips-for-spatial-packages/)
 
 + [Have we got NEWS.md for you](https://www.jumpingrivers.com/blog/intro-to-r-news-format/)
-
-+ [countdown v0.4.0 – Now on CRAN!](https://www.garrickadenbuie.com/blog/countdown-v0.4.0/)
 
 ###  R in Organizations
 
