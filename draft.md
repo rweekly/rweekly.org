@@ -155,9 +155,13 @@ Events in 3 Months:
 
 + [August 23-26: R Medicine Virtual Conference](https://events.linuxfoundation.org/r-medicine/)
 
++ [August 25: Introduction to R Programming for Data Analysis](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+
 + [August 31: 'Build your first Shiny App' with us](https://mirai-solutions.ch/news/2022/08/09/announce-shiny1-ws/)
 
 + [August 31: Clinical Tables in R with gt & tfrmt](https://www.eventbrite.com/e/clinical-tables-in-r-with-gt-tfrmt-tickets-388304237427)
+
++ [September 17: Cascadia R Conference](https://hopin.com/events/r-cascadia)
 
 + [September 21: R-Ladies NYC Lightning Talks - RSVP and Call for Speakers](https://www.meetup.com/rladies-newyork/events/287520144/)
 
