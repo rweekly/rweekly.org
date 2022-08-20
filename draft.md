@@ -5,25 +5,19 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with help from the R Weekly team members and contributors.
-
-
+This week's release was curated by [Sam Parmar](www.github.com/parmsam), with help from the R Weekly team members and contributors.
 
 ###  Highlight
 
+###  Insights
 
-
-### Insights
-
-
-+ [The ultimate beginner’s guide to generalized linear models (GLMs)](https://albert-rapp.de/posts/14_glms/14_glms)
++ [The ultimate beginner's guide to generalized linear models (GLMs)](https://albert-rapp.de/posts/14_glms/14_glms)
 
 + [Have we got NEWS.md for you](https://www.jumpingrivers.com/blog/intro-to-r-news-format/)
 
-+ [countdown v0.4.0 – Now on CRAN!](https://www.garrickadenbuie.com/blog/countdown-v0.4.0/)
++ [countdown v0.4.0 - Now on CRAN!](https://www.garrickadenbuie.com/blog/countdown-v0.4.0/)
 
 + [Box-Cox transformation from Feature Engineering by Max Kuhn and Kjell Johnson](https://rtichoke-blog.netlify.app/posts/2022-08-21-cox-box-transformation/)
 
@@ -31,7 +25,7 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 
 + [Building Statistical Intuition for Individualized Treatment Rules](https://www.khstats.com/blog/otr/otr/)
 
-### R in the Real World
+###  R in the Real World
 
 + [The R Programming Language Is Now Fast Enough to Run Games on Linux with Nara](https://boilingsteam.com/the-r-programming-language-is-now-fast-enough-to-run-games-on-linux-with-nara/)
 
@@ -47,7 +41,6 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 
 + [Using the Microsoft365R R package for use with RStudio Pro Products](https://solutions.rstudio.com/r/data/microsoft365/)
 
-
 ###  R in Academia
 
 + [Academic conference posters using {posterdown}](https://shilaan.rbind.io/post/academic-conference-posters-using-posterdown/)
@@ -62,8 +55,11 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 
 ###  New Packages
 
-<p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+<p class="added-hostname">
 
+<a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a>
+
+</p>
 
 **CRAN**
 
@@ -91,7 +87,7 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 
 + [{roughnet} 1.0.0](https://github.com/schochastics/roughnet): R package to draw sketchy, hand-drawn-like networks with roughjs
 
-### Updated Packages
+###  Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
@@ -115,30 +111,21 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 
 + [{gtreg} 0.1.1](https://cran.r-project.org/package=gtreg): Regulatory Tables for Clinical Research - [diffify](https://diffify.com/R/gtreg)
 
-###  Videos and Podcasts
+### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-+ [How to Detect and Analyse Emotions from Texts using R](https://www.youtube.com/watch?v=6el_C3PxSSw)
-<a href="https://www.youtube.com/watch?v=6el_C3PxSSw">
-  <img src="https://i1.ytimg.com/vi/6el_C3PxSSw/hqdefault.jpg" title="How to Detect and Analyse from Texts using R" target="_blank" width="350"/>
-</a>
++ [How to Detect and Analyse Emotions from Texts using R](https://www.youtube.com/watch?v=6el_C3PxSSw) <a href="https://www.youtube.com/watch?v=6el_C3PxSSw"> <img src="https://i1.ytimg.com/vi/6el_C3PxSSw/hqdefault.jpg" title="How to Detect and Analyse from Texts using R" target="_blank" width="350"/> </a>
 
-+ [The Past and Future of Shiny - Joe Cheng](https://www.rstudio.com/conference/2022/keynotes/past-future-shiny/)
++ [The Past and Future of Shiny - Joe Cheng - rstudio::conf(2022)](https://www.rstudio.com/conference/2022/keynotes/past-future-shiny/)
 
-+ [Data science training in communities with limited technology resources and opportunities - Jeff Leek](https://www.rstudio.com/conference/2022/keynotes/data-science-training/)
++ [Data science training in communities with limited technology resources and opportunities - Jeff Leek - rstudio::conf(2022)](https://www.rstudio.com/conference/2022/keynotes/data-science-training/)
 
-### Gist & Cookbook
+###  Gist & Cookbook
 
+###  Shiny Apps
 
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
+###  R Internationally
 
 ###  Tutorials
 
@@ -162,19 +149,47 @@ Events in 3 Months:
 
 + [August 31: 'Build your first Shiny App' with us](https://mirai-solutions.ch/news/2022/08/09/announce-shiny1-ws/)
 
++ [August 31: Clinical Tables in R with gt & tfrmt](https://www.eventbrite.com/e/clinical-tables-in-r-with-gt-tfrmt-tickets-388304237427)
+
 + [September 21: R-Ladies NYC Lightning Talks - RSVP and Call for Speakers](https://www.meetup.com/rladies-newyork/events/287520144/)
 
 + [October 6-7 : Shiny in Production conference from Jumping Rivers](https://shiny-in-production.jumpingrivers.com/)
 
-### Jobs
+###  Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/20) 💼</i>
 
-### rtistry
-
+###  rtistry
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Group-wise spatial data analysis in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> / <a href="https://twitter.com/hashtag/rspatial?src=hash&amp;ref_src=twsrc%5Etfw">#rspatial</a> is incredibly powerful, but can give you a headache if you don&#39;t get it right. <br><br>A thread on some some do&#39;s and don&#39;ts: <a href="https://t.co/On4WShA0qX">pic.twitter.com/On4WShA0qX</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1559568087942172673?ref_src=twsrc%5Etfw">August 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet">
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">once::again I::think it::is best::to share::rstats code::with fully::qualified namespaces. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Mike Kearney📊 (@kearneymw) <a href="https://twitter.com/kearneymw/status/1559861840968093699?ref_src=twsrc%5Etfw">August 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<p lang="en" dir="ltr">
+
+Group-wise spatial data analysis in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> / <a href="https://twitter.com/hashtag/rspatial?src=hash&amp;ref_src=twsrc%5Etfw">#rspatial</a> is incredibly powerful, but can give you a headache if you don't get it right. <br><br>A thread on some some do's and don'ts: <a href="https://t.co/On4WShA0qX">pic.twitter.com/On4WShA0qX</a>
+
+</p>
+
+--- Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1559568087942172673?ref_src=twsrc%5Etfw">August 16, 2022</a>
+
+</blockquote>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+<blockquote class="twitter-tweet">
+
+<p lang="en" dir="ltr">
+
+once::again I::think it::is best::to share::rstats code::with fully::qualified namespaces. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>
+
+</p>
+
+--- Mike Kearney📊 (@kearneymw) <a href="https://twitter.com/kearneymw/status/1559861840968093699?ref_src=twsrc%5Etfw">August 17, 2022</a>
+
+</blockquote>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
