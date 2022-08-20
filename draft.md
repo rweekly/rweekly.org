@@ -30,6 +30,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Have we got NEWS.md for you](https://www.jumpingrivers.com/blog/intro-to-r-news-format/)
 
++ [countdown v0.4.0 – Now on CRAN!](https://www.garrickadenbuie.com/blog/countdown-v0.4.0/)
+
 ###  R in Organizations
 
 + [Using the Microsoft365R R package for use with RStudio Pro Products](https://solutions.rstudio.com/r/data/microsoft365/)
@@ -54,7 +56,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{countdown} 0.4.0](https://cran.r-project.org/package=countdown): Countdown to something awesome in xaringan, Quarto slides, Shiny apps and more.
 
 **Bioconductor**
 
