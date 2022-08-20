@@ -25,11 +25,23 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 
 + [countdown v0.4.0 – Now on CRAN!](https://www.garrickadenbuie.com/blog/countdown-v0.4.0/)
 
++ [Box-Cox transformation from Feature Engineering by Max Kuhn and Kjell Johnson](https://rtichoke-blog.netlify.app/posts/2022-08-21-cox-box-transformation/)
+
++ [Custom Discrete Color Scales for ggplot2](https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/)
+
++ [Building Statistical Intuition for Individualized Treatment Rules](https://www.khstats.com/blog/otr/otr/)
+
 ### R in the Real World
 
 + [The R Programming Language Is Now Fast Enough to Run Games on Linux with Nara](https://boilingsteam.com/the-r-programming-language-is-now-fast-enough-to-run-games-on-linux-with-nara/)
 
 + [Installation of R 4.2 on Ubuntu 22.04 LTS and tips for spatial packages](https://rtask.thinkr.fr/installation-of-r-4-2-on-ubuntu-22-04-lts-and-tips-for-spatial-packages/)
+
++ [From Novice to Industry Professionals, the East Bay R Enthusiasts Welcomes Everyone](https://www.r-consortium.org/blog/2022/08/18/from-novice-to-industry-professionals-the-east-bay-r-enthusiasts-welcomes-everyone)
+
++ [Community Call to Action for ISC Grant Proposal Ideas](https://www.r-consortium.org/blog/2022/08/15/community-call-to-action-for-isc-grant-proposal-ideas)
+
++ [Talk recordings and workshop materials from rstudio::conf(2022)](https://www.rstudio.com/blog/talks-and-workshops-from-rstudio-conf-2022/)
 
 ###  R in Organizations
 
@@ -38,7 +50,7 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 
 ###  R in Academia
 
-
++ [Academic conference posters using {posterdown}](https://shilaan.rbind.io/post/academic-conference-posters-using-posterdown/)
 
 ###  Resources
 
@@ -112,6 +124,10 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
   <img src="https://i1.ytimg.com/vi/6el_C3PxSSw/hqdefault.jpg" title="How to Detect and Analyse from Texts using R" target="_blank" width="350"/>
 </a>
 
++ [The Past and Future of Shiny - Joe Cheng](https://www.rstudio.com/conference/2022/keynotes/past-future-shiny/)
+
++ [Data science training in communities with limited technology resources and opportunities - Jeff Leek](https://www.rstudio.com/conference/2022/keynotes/data-science-training/)
+
 ### Gist & Cookbook
 
 
@@ -152,8 +168,7 @@ Events in 3 Months:
 
 ### Jobs
 
-[Data Scientist - Apple Cloud](https://jobs.apple.com/en-us/details/200400071/data-scientist-apple-cloud-services-r-programming)
-
+<i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/20) 💼</i>
 
 ### rtistry
 
