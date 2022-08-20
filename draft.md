@@ -25,6 +25,8 @@ This week's release was curated by [Sam Parmar](www.github.com/parmsam), with he
 
 + [Building Statistical Intuition for Individualized Treatment Rules](https://www.khstats.com/blog/otr/otr/)
 
++ [Introduction to snapshot testing in R](https://indrajeetpatil.github.io/intro-to-snapshot-testing/#/title-slide)
+
 ###  R in the Real World
 
 + [The R Programming Language Is Now Fast Enough to Run Games on Linux with Nara](https://boilingsteam.com/the-r-programming-language-is-now-fast-enough-to-run-games-on-linux-with-nara/)
@@ -40,6 +42,8 @@ This week's release was curated by [Sam Parmar](www.github.com/parmsam), with he
 ###  R in Organizations
 
 + [Using the Microsoft365R R package for use with RStudio Pro Products](https://solutions.rstudio.com/r/data/microsoft365/)
+
++ [Working with Qualtrics Data - Part 2: Excluding Data](https://ropensci.org/blog/2022/08/09/working-with-qualtrics-data-excluding/)
 
 ###  R in Academia
 
@@ -121,9 +125,13 @@ This week's release was curated by [Sam Parmar](www.github.com/parmsam), with he
 
 + [Data science training in communities with limited technology resources and opportunities - Jeff Leek - rstudio::conf(2022)](https://www.rstudio.com/conference/2022/keynotes/data-science-training/)
 
++ [TidyX Episode 113: S4 objects introduction](http://optimumsportsperformance.com/blog/tidyx-episode-113-s4-objects-introduction/)
+
 ###  Gist & Cookbook
 
 ###  Shiny Apps
+
++ [Rock, Paper, Scissors! in R Shiny](https://ashbaldry.shinyapps.io/rock-paper-scissors/)
 
 ###  R Internationally
 
