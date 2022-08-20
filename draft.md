@@ -55,6 +55,8 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 
 **CRAN**
 
++ [{countdown} 0.4.0](https://cran.r-project.org/package=countdown): Countdown to something awesome in xaringan, Quarto slides, Shiny apps and more.
+
 + [{sendigR} 1.0.0](https://cran.r-project.org/package=sendigR): Enable Cross-Study Analysis of 'CDISC' 'SEND' Datasets
 
 + [{dataversionr} 0.9.0](https://cran.r-project.org/package=dataversionr): Time Versioned Storage of Data Frames
@@ -68,8 +70,6 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 + [{roughnet} 1.0.0](https://cran.r-project.org/package=roughnet): Visualize Networks using 'roughjs'
 
 + [{pell} 0.1.0](https://cran.r-project.org/package=pell): Data About Historic Pell Grant Distribution in the US
-
-+ [{countdown} 0.4.0](https://cran.r-project.org/package=countdown): A Countdown Timer for HTML Presentations, Documents, and Web Apps
 
 + [{WrensBookshelf} 0.1.0](https://cran.r-project.org/package=WrensBookshelf): A Collection of Palettes and Some Functions to Help Use Them
 
