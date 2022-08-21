@@ -7,9 +7,15 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week's release was curated by [Sam Parmar](www.github.com/parmsam), with help from the R Weekly team members and contributors.
+This week's release was curated by [Sam Parmar](https://www.github.com/parmsam), with help from the R Weekly team members and contributors.
 
 ###  Highlight
+
++ [Talk recordings and workshop materials from rstudio::conf(2022)](https://www.rstudio.com/blog/talks-and-workshops-from-rstudio-conf-2022/)
+
++ [countdown v0.4.0 - Now on CRAN!](https://www.garrickadenbuie.com/blog/countdown-v0.4.0/)
+
++ [The Past and Future of Shiny - Joe Cheng - rstudio::conf(2022)](https://www.rstudio.com/conference/2022/keynotes/past-future-shiny/)
 
 ###  Insights
 
@@ -24,8 +30,6 @@ This week's release was curated by [Sam Parmar](www.github.com/parmsam), with he
 + [Custom Discrete Color Scales for ggplot2](https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/)
 
 + [Building Statistical Intuition for Individualized Treatment Rules](https://www.khstats.com/blog/otr/otr/)
-
-+ [Introduction to snapshot testing in R](https://indrajeetpatil.github.io/intro-to-snapshot-testing/#/title-slide)
 
 ###  R in the Real World
 
