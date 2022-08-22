@@ -101,7 +101,7 @@ Events in 3 Months:
 
 ### Jobs
 
-💼 Explore Jobs & Gigs Board on RStudio Community 💼
+<i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 
 
