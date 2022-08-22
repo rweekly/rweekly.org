@@ -57,6 +57,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{nanonext} 0.5.3](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen) - [diffify](https://diffify.com/R/nanonext)
+
++ [{mirai} 0.5.3](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R - [diffify](https://diffify.com/R/mirai)
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
