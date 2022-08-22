@@ -35,7 +35,11 @@ This week's release was curated by [Sam Parmar](https://www.github.com/parmsam),
 
 + [The R Programming Language Is Now Fast Enough to Run Games on Linux with Nara](https://boilingsteam.com/the-r-programming-language-is-now-fast-enough-to-run-games-on-linux-with-nara/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W34/another_world_top_600.jpg)
+
 + [Installation of R 4.2 on Ubuntu 22.04 LTS and tips for spatial packages](https://rtask.thinkr.fr/installation-of-r-4-2-on-ubuntu-22-04-lts-and-tips-for-spatial-packages/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W34/migration-to-r4_600.png)
 
 + [From Novice to Industry Professionals, the East Bay R Enthusiasts Welcomes Everyone](https://www.r-consortium.org/blog/2022/08/18/from-novice-to-industry-professionals-the-east-bay-r-enthusiasts-welcomes-everyone)
 
@@ -52,6 +56,8 @@ This week's release was curated by [Sam Parmar](https://www.github.com/parmsam),
 ###  R in Academia
 
 + [Academic conference posters using {posterdown}](https://shilaan.rbind.io/post/academic-conference-posters-using-posterdown/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W34/templates_600.png)
 
 ###  Resources
 
@@ -85,6 +91,8 @@ This week's release was curated by [Sam Parmar](https://www.github.com/parmsam),
 
 + [{roughnet} 1.0.0](https://cran.r-project.org/package=roughnet): Visualize Networks using 'roughjs'
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W34/example_600.png)
+
 + [{pell} 0.1.0](https://cran.r-project.org/package=pell): Data About Historic Pell Grant Distribution in the US
 
 + [{WrensBookshelf} 0.1.0](https://cran.r-project.org/package=WrensBookshelf): A Collection of Palettes and Some Functions to Help Use Them
@@ -93,13 +101,13 @@ This week's release was curated by [Sam Parmar](https://www.github.com/parmsam),
 
 + [{TDApplied} 0.1.1](https://github.com/shaelebrown/TDApplied): An R package for statistics and machine learning with persistence diagrams.
 
-+ [{roughnet} 1.0.0](https://github.com/schochastics/roughnet): R package to draw sketchy, hand-drawn-like networks with roughjs
-
 ###  Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [{riskyr} 0.4.0](https://cran.r-project.org/package=riskyr): Rendering Risk Literacy more Transparent - [diffify](https://diffify.com/R/riskyr)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W34/riskyr.png)
 
 + [{dtplyr} 1.2.2](https://cran.r-project.org/package=dtplyr): Data Table Back-End for 'dplyr' - [diffify](https://diffify.com/R/dtplyr)
 
@@ -123,7 +131,9 @@ This week's release was curated by [Sam Parmar](https://www.github.com/parmsam),
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-+ [How to Detect and Analyse Emotions from Texts using R](https://www.youtube.com/watch?v=6el_C3PxSSw) <a href="https://www.youtube.com/watch?v=6el_C3PxSSw"> <img src="https://i1.ytimg.com/vi/6el_C3PxSSw/hqdefault.jpg" title="How to Detect and Analyse from Texts using R" target="_blank" width="350"/> </a>
++ [How to Detect and Analyse Emotions from Texts using R](https://www.youtube.com/watch?v=6el_C3PxSSw) <a href="https://www.youtube.com/watch?v=6el_C3PxSSw"> 
+  
+<img src="https://i1.ytimg.com/vi/6el_C3PxSSw/hqdefault.jpg" title="How to Detect and Analyse from Texts using R" target="_blank" width="350"/> </a>
 
 + [The Past and Future of Shiny - Joe Cheng - rstudio::conf(2022)](https://www.rstudio.com/conference/2022/keynotes/past-future-shiny/)
 
