@@ -34,7 +34,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [Modernizing the R-GRASS interface: confronting barn-raised OSGeo libraries and the evolving R.*spatial package ecosystem](https://rsbivand.github.io/foss4g_2022/modernizing_220822.html)
 
++ [ggrepel_nudge](https://gist.github.com/meghall06/678d7ef9bf469f4cfc26ca8321ab570e)
+
++ [Mixed effect model examples from two chapters of 'Extending the Linear Model with R'](https://github.com/julianfaraway/rexamples)
 
 ###  New Packages
 
@@ -42,7 +46,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **CRAN**
-
 
 
 **Bioconductor**
@@ -61,9 +64,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{mirai} 0.5.3](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R - [diffify](https://diffify.com/R/mirai)
 
++ [{worldfootballR} 0.5.12.5000](https://github.com/JaseZiv/worldfootballR/): A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat and fotmob.
+
++ [{hockeyR} 1.0.0](https://github.com/danmorse314/hockeyR/):  Collect and Clean Hockey Stats.
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+
++ [TidyX Episode 114 - camcorder R package](https://www.youtube.com/watch?v=VgIlwMpUsBQ)
 
 
 ### Gist & Cookbook
