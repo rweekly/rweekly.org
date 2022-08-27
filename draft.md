@@ -115,6 +115,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [ggrepel_nudge](https://gist.github.com/meghall06/678d7ef9bf469f4cfc26ca8321ab570e)
 
++ [across_and_tidyselect.R](https://gist.github.com/AlbertRapp/043c7941d0fa6478cbea55f45525befe)
+
 
 ### Shiny Apps
 
