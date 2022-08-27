@@ -18,20 +18,26 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Corona-Superspreading or just “Wiesn-flu”? Should the Oktoberfest be cancelled again?](https://blog.ephorie.de/corona-superspreading-or-just-wiesn-flu-should-the-oktoberfest-be-cancelled-again?utm_source=rss&utm_medium=rss&utm_campaign=corona-superspreading-or-just-wiesn-flu-should-the-oktoberfest-be-cancelled-again)
+
 
 
 ### R in the Real World
 
 + [Factor Analysis of Personality Traits](https://rsangole.netlify.app/projects/2016-09-03-factor-analysis-of-personality-traits/2016-09-03-factor-analysis-of-personality-traits)
 
++ [Exploding German Electricity Prices: Some Time Series](http://skranz.github.io//r/2022/08/23/ElectricityPrices.html)"
+
++ [Exploring Types of Subway Fares with Hierarchical Forecasting](https://jlaw.netlify.app/2022/08/24/exploring-types-of-subway-fares-with-hierarchical-forecasting/)"
+
 
 ###  R in Organizations
 
-
++ [R-Ladies Taipei Hopes to Host Hybrid Events in the Future](https://www.r-consortium.org/blog/2022/08/23/r-ladies-taipei-hopes-to-host-hybrid-events-in-the-future)" 
 
 ###  R in Academia
 
-
++ [Base-R and Tidyverse Code, Side-by-Side](https://matloff.wordpress.com/2022/08/24/base-r-and-tidyverse-code-side-by-side/)"
 
 ###  Resources
 
@@ -48,6 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [luz 0.3.0](https://blogs.rstudio.com/tensorflow/posts/2022-08-24-luz-0-3)"
 
 **Bioconductor**
 
@@ -61,6 +68,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+
 + [{nanonext} 0.5.3](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen) - [diffify](https://diffify.com/R/nanonext)
 
 + [{mirai} 0.5.3](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R - [diffify](https://diffify.com/R/mirai)
@@ -68,6 +76,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{worldfootballR} 0.5.12.5000](https://github.com/JaseZiv/worldfootballR/): A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat and fotmob.
 
 + [{hockeyR} 1.0.0](https://github.com/danmorse314/hockeyR/):  Collect and Clean Hockey Stats.
+
++ [RApiSerialize 0.1.2 on CRAN: Small Bugfix](http://dirk.eddelbuettel.com/blog/2022/08/25#rapiserialize_0.1.2)"
+ 
++ [RcppArmadillo 0.11.2.3.1 on CRAN: Double Update](http://dirk.eddelbuettel.com/blog/2022/08/18#rcpparmadillo_0.11.2.3.1)"
 
 ###  Videos and Podcasts
 
@@ -90,6 +102,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Make your ggplot2 extension package understand the new linewidth aesthetic](https://www.tidyverse.org/blog/2022/08/ggplot2-3-4-0-size-to-linewidth/)"
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -111,6 +125,8 @@ Events in 3 Months:
 + [August 31: 'Build your first Shiny App' with us](https://mirai-solutions.ch/news/2022/08/09/announce-shiny1-ws/)
 
 + [August 31: Clinical Tables in R with gt & tfrmt](https://www.eventbrite.com/e/clinical-tables-in-r-with-gt-tfrmt-tickets-388304237427)
+
++ [September 14 'Advanced Shiny Development' the hands-on workshop](https://mirai-solutions.ch/news/2022/08/19/announce-shiny3-ws/)"
 
 + [September 17: Cascadia R Conference](https://hopin.com/events/r-cascadia)
 
