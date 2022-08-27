@@ -46,8 +46,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Modernizing the R-GRASS interface: confronting barn-raised OSGeo libraries and the evolving R.*spatial package ecosystem](https://rsbivand.github.io/foss4g_2022/modernizing_220822.html)
 
-+ [ggrepel_nudge](https://gist.github.com/meghall06/678d7ef9bf469f4cfc26ca8321ab570e)
-
 + [Mixed effect model examples from two chapters of 'Extending the Linear Model with R'](https://github.com/julianfaraway/rexamples)
 
 + [sfnetworks: Tidy Geospatial Networks in R](https://sfnetworks.github.io/foss4g-workshop/slides/slides#1)
@@ -115,6 +113,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Gist & Cookbook
 
++ [ggrepel_nudge](https://gist.github.com/meghall06/678d7ef9bf469f4cfc26ca8321ab570e)
 
 
 ### Shiny Apps
