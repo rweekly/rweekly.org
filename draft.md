@@ -96,6 +96,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
  
 + [RcppArmadillo 0.11.2.3.1 on CRAN: Double Update](http://dirk.eddelbuettel.com/blog/2022/08/18#rcpparmadillo_0.11.2.3.1)
 
++ [R.matlab 3.7.0](https://cran.r-project.org/package=R.matlab): Read and Write MAT Files and Call MATLAB from Within R
+
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
