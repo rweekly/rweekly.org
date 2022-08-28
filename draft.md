@@ -98,6 +98,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R.matlab 3.7.0](https://cran.r-project.org/package=R.matlab): Read and Write MAT Files and Call MATLAB from Within R
 
++ [globals 0.16.1](https://cran.r-project.org/package=globals): Identify Global Objects in R Expressions
+
 
 ###  Videos and Podcasts
 
