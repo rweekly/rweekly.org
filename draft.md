@@ -70,7 +70,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [luz 0.3.0](https://blogs.rstudio.com/tensorflow/posts/2022-08-24-luz-0-3)"
++ [luz 0.3.0](https://blogs.rstudio.com/tensorflow/posts/2022-08-24-luz-0-3)cran.r-project.org/package=R.matlab
 
 **Bioconductor**
 
@@ -92,9 +92,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{hockeyR} 1.0.0](https://github.com/danmorse314/hockeyR/):  Collect and Clean Hockey Stats.
 
-+ [RApiSerialize 0.1.2 on CRAN: Small Bugfix](http://dirk.eddelbuettel.com/blog/2022/08/25#rapiserialize_0.1.2)"
++ [RApiSerialize 0.1.2 on CRAN: Small Bugfix](http://dirk.eddelbuettel.com/blog/2022/08/25#rapiserialize_0.1.2)
  
-+ [RcppArmadillo 0.11.2.3.1 on CRAN: Double Update](http://dirk.eddelbuettel.com/blog/2022/08/18#rcpparmadillo_0.11.2.3.1)"
++ [RcppArmadillo 0.11.2.3.1 on CRAN: Double Update](http://dirk.eddelbuettel.com/blog/2022/08/18#rcpparmadillo_0.11.2.3.1)
 
 ###  Videos and Podcasts
 
