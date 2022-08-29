@@ -32,7 +32,7 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [Exploding German Electricity Prices: Some Time Series](http://skranz.github.io/r/2022/08/23/ElectricityPrices.html)
 
-<img width="721" alt="Screenshot 2022-08-29 at 19 22 46" src="https://user-images.githubusercontent.com/53487593/187248172-17a1ee3b-fc95-4af8-b023-eb1e79436dd9.png">
+<img width="721" alt="a line graph showing the increase of the cost. Massive increase  for the variable costs of peak load gas turbines (OCGT), reaching more than 600 Euro / MWh at the end of August. Also the variable costs of the more efficient combined cycle gas turbines reach 400 Euro / MWh" src="https://user-images.githubusercontent.com/53487593/187248172-17a1ee3b-fc95-4af8-b023-eb1e79436dd9.png">
 
 
 + [Exploring Types of Subway Fares with Hierarchical Forecasting](https://jlaw.netlify.app/2022/08/24/exploring-types-of-subway-fares-with-hierarchical-forecasting/)
@@ -69,7 +69,7 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [Slidecraft 101: Colors and Fonts](https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/)
 
-<img width="397" alt="Screenshot 2022-08-29 at 19 27 30" src="https://user-images.githubusercontent.com/53487593/187249034-7f95a9f9-f724-4ac6-bf96-ce52e33de6e1.png">
+<img width="397" alt="an example of a variety of palette of colours" src="https://user-images.githubusercontent.com/53487593/187249034-7f95a9f9-f724-4ac6-bf96-ce52e33de6e1.png">
 
 
 ###  New Packages
@@ -89,12 +89,12 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [{cranly} 0.6.0](https://cran.r-project.org/package=cranly): Package Directives and Collaboration Networks in CRAN
 
-<img width="845" alt="Screenshot 2022-08-29 at 19 09 11" src="https://user-images.githubusercontent.com/53487593/187245715-b1b5230a-e6b6-43d0-aae4-b56dc681772d.png">
+<img width="845" alt="an example of tree showing the dependencies of a package" src="https://user-images.githubusercontent.com/53487593/187245715-b1b5230a-e6b6-43d0-aae4-b56dc681772d.png">
 
 + [{tidytags} 1.0.2](https://cran.r-project.org/package=tidytags): Importing and Analyzing 'Twitter' Data Collected with 'Twitter
 Archiving Google Sheets'
 
-<img width="337" alt="Screenshot 2022-08-29 at 19 11 06" src="https://user-images.githubusercontent.com/53487593/187246013-fcc1ab0a-5a31-4e4a-8b73-b5f096ecd393.png">
+<img width="337" alt="the logo of the package showing a blue tag" src="https://user-images.githubusercontent.com/53487593/187246013-fcc1ab0a-5a31-4e4a-8b73-b5f096ecd393.png">
 
 + [{powerbiR} 0.1.0](https://cran.r-project.org/package=powerbiR): An Interface to the 'Power BI REST APIs'
 + 
@@ -106,7 +106,7 @@ Archiving Google Sheets'
 
 + [{jjAnno} 0.0.3](https://cran.r-project.org/package=jjAnno): An Annotation Package for 'ggplot2' Output
 
-<img width="868" alt="Screenshot 2022-08-29 at 19 14 58" src="https://user-images.githubusercontent.com/53487593/187246730-f1f0a317-0d10-45b4-816f-c9ac8bcf9a49.png">
+<img width="868" alt="an example from the README" src="https://user-images.githubusercontent.com/53487593/187246730-f1f0a317-0d10-45b4-816f-c9ac8bcf9a49.png">
 
 + [{hockeyR} 1.0.0](https://cran.r-project.org/package=hockeyR): Collect and Clean Hockey Stats
 
@@ -186,10 +186,6 @@ Frames - [diffify](https://diffify.com/R/RclusTool)
 + [ggrepel_nudge](https://gist.github.com/meghall06/678d7ef9bf469f4cfc26ca8321ab570e)
 
 + [across_and_tidyselect.R](https://gist.github.com/AlbertRapp/043c7941d0fa6478cbea55f45525befe)
-
-
-### Shiny Apps
-
 
 
 ### R Internationally
