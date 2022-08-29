@@ -13,7 +13,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
+- [Exploring Types of Subway Fares with Hierarchical Forecasting](https://jlaw.netlify.app/2022/08/24/exploring-types-of-subway-fares-with-hierarchical-forecasting/)
 
+- [Clinical Reporting with {gtsummary} by Daniel D. Sjoberg](https://www.danieldsjoberg.com/clinical-reporting-gtsummary-rmed/material.html )
 
 ### Insights
 
@@ -72,13 +74,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [luz 0.3.0](https://blogs.rstudio.com/tensorflow/posts/2022-08-24-luz-0-3)cran.r-project.org/package=R.matlab
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
++ [luz 0.3.0](https://blogs.rstudio.com/tensorflow/posts/2022-08-24-luz-0-3)
 
 
 
@@ -90,22 +86,53 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{mirai} 0.5.3](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R - [diffify](https://diffify.com/R/mirai)
 
-+ [{worldfootballR} 0.5.12.5000](https://github.com/JaseZiv/worldfootballR/): A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat and fotmob.
++ [{worldfootballR} 0.5.12.5000](https://github.com/JaseZiv/worldfootballR/): A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat and fotmob - [diffify](https://diffify.com/R/worldfootballR)
 
-+ [{hockeyR} 1.0.0](https://github.com/danmorse314/hockeyR/):  Collect and Clean Hockey Stats.
++ [{hockeyR} 1.0.0](https://github.com/danmorse314/hockeyR/):  Collect and Clean Hockey Stats - [diffify](https://diffify.com/R/hockeyR)
 
-+ [RApiSerialize 0.1.2 on CRAN: Small Bugfix](http://dirk.eddelbuettel.com/blog/2022/08/25#rapiserialize_0.1.2)
++ [RApiSerialize 0.1.2 on CRAN: Small Bugfix](http://dirk.eddelbuettel.com/blog/2022/08/25#rapiserialize_0.1.2) - [diffify](https://diffify.com/R/RApiSerialize)
  
 + [RcppArmadillo 0.11.2.3.1 on CRAN: Double Update](http://dirk.eddelbuettel.com/blog/2022/08/18#rcpparmadillo_0.11.2.3.1)
 
-+ [R.matlab 3.7.0](https://cran.r-project.org/package=R.matlab): Read and Write MAT Files and Call MATLAB from Within R
++ [R.matlab 3.7.0](https://cran.r-project.org/package=R.matlab): Read and Write MAT Files and Call MATLAB from Within R - [diffify](https://diffify.com/R/R.matlab)
 
-+ [globals 0.16.1](https://cran.r-project.org/package=globals): Identify Global Objects in R Expressions
++ [globals 0.16.1](https://cran.r-project.org/package=globals): Identify Global Objects in R Expressions - [diffify](https://diffify.com/R/globals)
 
++ [{covr} 3.6.0](https://cran.r-project.org/package=covr): Test Coverage for Packages - [diffify](https://diffify.com/R/covr)
 
-+ [{covr} 3.6.0](https://cran.r-project.org/package=covr): Test Coverage for Packages.
++ [{gt} 0.7.0](https://cran.r-project.org/package=gt): Easily Create Presentation-Ready Display Tables - [diffify](https://diffify.com/R/gt)
 
-+ [{gt} 0.7.0](https://cran.r-project.org/package=gt): Easily Create Presentation-Ready Display Tables.
++ [{RclusTool} 0.91.5](https://cran.r-project.org/package=RclusTool): Graphical Toolbox for Clustering and Classification of Data
+Frames - [diffify](https://diffify.com/R/RclusTool)
+
++ [{littler} 0.3.16](https://cran.r-project.org/package=littler): R at the Command-Line via 'r' - [diffify](https://diffify.com/R/littler)
+
++ [{echarty} 1.4.7](https://cran.r-project.org/package=echarty): Minimal R/Shiny Interface to JavaScript Library 'ECharts' - [diffify](https://diffify.com/R/echarty)
+
++ [{namedropR} 2.4.1](https://cran.r-project.org/package=namedropR): Create Visual Citations for Presentations and Posters - [diffify](https://diffify.com/R/namedropR)
+
++ [{conductor} 0.1.1](https://cran.r-project.org/package=conductor): Create Tours in 'Shiny' Apps Using 'Shepherd.js' - [diffify](https://diffify.com/R/conductor)
+
++ [{osmextract} 0.4.1](https://cran.r-project.org/package=osmextract): Download and Import Open Street Map Data Extracts - [diffify](https://diffify.com/R/osmextract)
+
++ [{rticles} 0.24](https://cran.r-project.org/package=rticles): Article Formats for R Markdown - [diffify](https://diffify.com/R/rticles)
+
++ [{DPpack} 0.0.11](https://cran.r-project.org/package=DPpack): Differentially Private Statistical Analysis and Machine Learning - [diffify](https://diffify.com/R/DPpack)
+
++ [{tidyRSS} 2.0.6](https://cran.r-project.org/package=tidyRSS): Tidy RSS for R - [diffify](https://diffify.com/R/tidyRSS)
+
++ [{VIM} 6.2.2](https://cran.r-project.org/package=VIM): Visualization and Imputation of Missing Values - [diffify](https://diffify.com/R/VIM)
+
++ [{threeBrain} 0.2.6](https://cran.r-project.org/package=threeBrain): 3D Brain Visualization - [diffify](https://diffify.com/R/threeBrain)
+
++ [{paws.compute} 0.1.13](https://cran.r-project.org/package=paws.compute): 'Amazon Web Services' Compute Services - [diffify](https://diffify.com/R/paws.compute)
+
++ [{rmarkdown} 2.16](https://cran.r-project.org/package=rmarkdown): Dynamic Documents for R - [diffify](https://diffify.com/R/rmarkdown)
+
++ [{knitr} 1.40](https://cran.r-project.org/package=knitr): A General-Purpose Package for Dynamic Report Generation in R - [diffify](https://diffify.com/R/knitr)
+
++ [{covr} 3.6.1](https://cran.r-project.org/package=covr): Test Coverage for Packages - [diffify](https://diffify.com/R/covr)
+
 
 ###  Videos and Podcasts
 
