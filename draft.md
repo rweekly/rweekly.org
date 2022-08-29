@@ -62,6 +62,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Using Public Data and Maps for Powerful Data Visualizations (Joy Payton)](https://rpubs.com/pm0kjp/r_medicine_2022) and [Video](https://www.youtube.com/watch?v=iU1h5b3qp_Y&list=PL4IzsxWztPdmSeucR67EH_8_hzldqYZX4&index=5)
 
++ [Slidecraft 101: Colors and Fonts](https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/)
+
 
 ###  New Packages
 
@@ -95,6 +97,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [RApiSerialize 0.1.2 on CRAN: Small Bugfix](http://dirk.eddelbuettel.com/blog/2022/08/25#rapiserialize_0.1.2)"
  
 + [RcppArmadillo 0.11.2.3.1 on CRAN: Double Update](http://dirk.eddelbuettel.com/blog/2022/08/18#rcpparmadillo_0.11.2.3.1)"
+
++ [{covr} 3.6.0](https://cran.r-project.org/package=covr): Test Coverage for Packages.
+
++ [{gt} 0.7.0](https://cran.r-project.org/package=gt): Easily Create Presentation-Ready Display Tables.
 
 ###  Videos and Podcasts
 
@@ -174,3 +180,7 @@ Events in 3 Months:
 
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">tidyverse is a slap in the face to everyone who worked hard to write df[which(df$var1 == 1 &amp; df$var2 %in% c(&quot;a&quot;,&quot;b&quot;,&quot;c&quot;), c(1,3,4,8)] to perform filter and select</p>&mdash; King Ranch II (@travisgerke) <a href="https://twitter.com/travisgerke/status/1562876557835640832?ref_src=twsrc%5Etfw">August 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I love dplyr, but a feature (since 1.0.0) that I really don&#39;t like is that summarise() treats vectors as multiple-row summaries<br><br>This makes one mistake can silently turn the whole thing into a grouped mutate😩 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/9JqA3c8EnP">pic.twitter.com/9JqA3c8EnP</a></p>&mdash; David Robinson (@drob) <a href="https://twitter.com/drob/status/1563198515626770432?ref_src=twsrc%5Etfw">August 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
