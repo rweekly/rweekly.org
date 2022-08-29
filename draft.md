@@ -74,7 +74,36 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [luz 0.3.0](https://blogs.rstudio.com/tensorflow/posts/2022-08-24-luz-0-3)
++ [luz 0.3.0](https://blogs.rstudio.com/tensorflow/posts/2022-08-24-luz-0-3): Higher Level 'API' for 'torch'
+
++ [{tidyplus} 0.0.1](https://cran.r-project.org/package=tidyplus): Additional 'tidyverse' Functions
+
++ [{typetracer} 0.1.1](https://cran.r-project.org/package=typetracer): Trace Function Parameter Types
+
++ [{ggvoronoi} 0.8.5](https://cran.r-project.org/package=ggvoronoi): Voronoi Diagrams and Heatmaps with 'ggplot2'
+
++ [{cranly} 0.6.0](https://cran.r-project.org/package=cranly): Package Directives and Collaboration Networks in CRAN
+
+<img width="845" alt="Screenshot 2022-08-29 at 19 09 11" src="https://user-images.githubusercontent.com/53487593/187245715-b1b5230a-e6b6-43d0-aae4-b56dc681772d.png">
+
++ [{tidytags} 1.0.2](https://cran.r-project.org/package=tidytags): Importing and Analyzing 'Twitter' Data Collected with 'Twitter
+Archiving Google Sheets'
+
+<img width="337" alt="Screenshot 2022-08-29 at 19 11 06" src="https://user-images.githubusercontent.com/53487593/187246013-fcc1ab0a-5a31-4e4a-8b73-b5f096ecd393.png">
+
++ [{powerbiR} 0.1.0](https://cran.r-project.org/package=powerbiR): An Interface to the 'Power BI REST APIs'
++ 
++ [{ggDoE} 0.7.8](https://cran.r-project.org/package=ggDoE): Modern Graphs for Design of Experiments with 'ggplot2'
+
++ [{baffle} 0.2.0](https://cran.r-project.org/package=baffle): Make Waffle Plots with Base Graphics
+
+<img width="656" alt="Screenshot 2022-08-29 at 19 14 29" src="https://user-images.githubusercontent.com/53487593/187246642-4df6db52-f0f1-4ff7-b2ae-3d413ce5bf46.png">
+
++ [{jjAnno} 0.0.3](https://cran.r-project.org/package=jjAnno): An Annotation Package for 'ggplot2' Output
+
+<img width="868" alt="Screenshot 2022-08-29 at 19 14 58" src="https://user-images.githubusercontent.com/53487593/187246730-f1f0a317-0d10-45b4-816f-c9ac8bcf9a49.png">
+
++ [{hockeyR} 1.0.0](https://cran.r-project.org/package=hockeyR): Collect and Clean Hockey Stats
 
 
 
@@ -87,8 +116,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{mirai} 0.5.3](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R - [diffify](https://diffify.com/R/mirai)
 
 + [{worldfootballR} 0.5.12.5000](https://github.com/JaseZiv/worldfootballR/): A wrapper for extracting world football (soccer) data from FBref, Transfermark, Understat and fotmob - [diffify](https://diffify.com/R/worldfootballR)
-
-+ [{hockeyR} 1.0.0](https://github.com/danmorse314/hockeyR/):  Collect and Clean Hockey Stats - [diffify](https://diffify.com/R/hockeyR)
 
 + [RApiSerialize 0.1.2 on CRAN: Small Bugfix](http://dirk.eddelbuettel.com/blog/2022/08/25#rapiserialize_0.1.2) - [diffify](https://diffify.com/R/RApiSerialize)
  
