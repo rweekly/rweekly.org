@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app/), with help from the R Weekly team members and contributors.
 
 
 ###  Highlight
@@ -21,7 +21,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Corona-Superspreading or just “Wiesn-flu”? Should the Oktoberfest be cancelled again?](https://blog.ephorie.de/corona-superspreading-or-just-wiesn-flu-should-the-oktoberfest-be-cancelled-again?utm_source=rss&utm_medium=rss&utm_campaign=corona-superspreading-or-just-wiesn-flu-should-the-oktoberfest-be-cancelled-again)
 
-+ [Base-R and Tidyverse Code, Side-by-Side](https://matloff.wordpress.com/2022/08/24/base-r-and-tidyverse-code-side-by-side/)
++ [R design patterns, base R vs Tidyverse with a view towards the teaching of beginners](https://github.com/matloff/TidyverseSkeptic/blob/master/RDesign.pdf)
 
 + [Cloud computing with R with R Studio](https://medium.com/@tempemailabc73/cloud-computing-with-r-with-r-studio-b95a9785ec70)
 
@@ -30,19 +30,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Factor Analysis of Personality Traits](https://rsangole.netlify.app/projects/2016-09-03-factor-analysis-of-personality-traits/2016-09-03-factor-analysis-of-personality-traits)
 
-+ [Exploding German Electricity Prices: Some Time Series](http://skranz.github.io//r/2022/08/23/ElectricityPrices.html)"
++ [Exploding German Electricity Prices: Some Time Series](http://skranz.github.io/r/2022/08/23/ElectricityPrices.html)
 
-+ [Exploring Types of Subway Fares with Hierarchical Forecasting](https://jlaw.netlify.app/2022/08/24/exploring-types-of-subway-fares-with-hierarchical-forecasting/)"
+<img width="721" alt="Screenshot 2022-08-29 at 19 22 46" src="https://user-images.githubusercontent.com/53487593/187248172-17a1ee3b-fc95-4af8-b023-eb1e79436dd9.png">
+
+
++ [Exploring Types of Subway Fares with Hierarchical Forecasting](https://jlaw.netlify.app/2022/08/24/exploring-types-of-subway-fares-with-hierarchical-forecasting/)
 
 
 ###  R in Organizations
 
-+ [R-Ladies Taipei Hopes to Host Hybrid Events in the Future](https://www.r-consortium.org/blog/2022/08/23/r-ladies-taipei-hopes-to-host-hybrid-events-in-the-future)" 
++ [R-Ladies Taipei Hopes to Host Hybrid Events in the Future](https://www.r-consortium.org/blog/2022/08/23/r-ladies-taipei-hopes-to-host-hybrid-events-in-the-future)"
 
 ###  R in Academia
 
 
-+ [rGAI: An R package for fitting the generalized abundance index to seasonal count data]()
++ [rGAI: An R package for fitting the generalized abundance index to seasonal count data](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9200)
 
 ###  Resources
 
@@ -65,6 +68,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Using Public Data and Maps for Powerful Data Visualizations (Joy Payton)](https://rpubs.com/pm0kjp/r_medicine_2022) and [Video](https://www.youtube.com/watch?v=iU1h5b3qp_Y&list=PL4IzsxWztPdmSeucR67EH_8_hzldqYZX4&index=5)
 
 + [Slidecraft 101: Colors and Fonts](https://www.emilhvitfeldt.com/post/slidecraft-colors-fonts/)
+
+<img width="397" alt="Screenshot 2022-08-29 at 19 27 30" src="https://user-images.githubusercontent.com/53487593/187249034-7f95a9f9-f724-4ac6-bf96-ce52e33de6e1.png">
 
 
 ###  New Packages
@@ -226,17 +231,9 @@ Events in 3 Months:
 + [October 6-7 : Shiny in Production conference from Jumping Rivers](https://shiny-in-production.jumpingrivers.com/)
 
 
-### Grants & Funding
-
-
-### Datasets
-
-
-### Jobs
-
-
 ### rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Another variation <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/Rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#Rtistry</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://t.co/T0wodhC88T">pic.twitter.com/T0wodhC88T</a></p>&mdash; chris (@dickie_roper) <a href="https://twitter.com/dickie_roper/status/1564174077018914816?ref_src=twsrc%5Etfw">August 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###  Quotes of the Week
 
