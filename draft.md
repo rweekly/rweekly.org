@@ -57,7 +57,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-* [parallelly 1.32.1](https://cran.r-project.org/package=parallelly) - Enhancing the 'parallel' Package
+* [progressr 0.11.0](https://cran.r-project.org/package=progressr) - progressr: An Inclusive, Unifying API for Progress Updates
 
 * [future 1.28.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone
 
