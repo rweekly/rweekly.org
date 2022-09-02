@@ -57,6 +57,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+* [parallelly 1.32.1](https://cran.r-project.org/package=parallelly) - Enhancing the 'parallel' Package
+
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
