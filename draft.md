@@ -51,7 +51,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{rmdgh} 0.2.0](https://github.com/MilesMcBain/rmdgh): R to GitHub productivity via Rmarkdown.
 
 ### Updated Packages
 
@@ -60,6 +60,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 * [progressr 0.11.0](https://cran.r-project.org/package=progressr) - progressr: An Inclusive, Unifying API for Progress Updates
 
 * [future 1.28.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone
+
++ [{distributional} 0.3.1](https://cran.r-project.org/package=distributional): Vectorised Probability Distributions.
+
++ [{PrettyCols} 1.0.0](https://cran.r-project.org/package=PrettyCols): Pretty Colour Palettes.
+
++ [{gt} 0.7.0](https://cran.r-project.org/package=gt): Easily Create Presentation-Ready Display Tables.
+
++ [{bonsai} 0.2.0](https://cran.r-project.org/package=bonsai): Model Wrappers for Tree-Based Models.
 
 
 ###  Videos and Podcasts
@@ -73,7 +81,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [App for creating visualizations of the composition of European (soccer) squads](https://github.com/harshkrishna17/Squad-Composition-App-)
 
 ### R Internationally
 
@@ -120,6 +128,8 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">tidyverse is a slap in the face to everyone who worked hard to write df[which(df$var1 == 1 &amp; df$var2 %in% c(&quot;a&quot;,&quot;b&quot;,&quot;c&quot;), c(1,3,4,8)] to perform filter and select</p>&mdash; King Ranch II (@travisgerke) <a href="https://twitter.com/travisgerke/status/1562876557835640832?ref_src=twsrc%5Etfw">August 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Alright friends, as promised, here&#39;s the <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> code on how to create the Leo chart with ggplot.<br><br>Maybe it&#39;s worthy of a &quot;how to&quot; Quarto blog post in the future...Feel free to hit me up if you have questions! 😊<br><br>🔗Code: <a href="https://t.co/lcf76i2e1w">https://t.co/lcf76i2e1w</a> <a href="https://t.co/c9rWKloF4S">pic.twitter.com/c9rWKloF4S</a></p>&mdash; Tanya Shapiro (@tanya_shapiro) <a href="https://twitter.com/tanya_shapiro/status/1565029412428562433?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I love dplyr, but a feature (since 1.0.0) that I really don&#39;t like is that summarise() treats vectors as multiple-row summaries<br><br>This makes one mistake can silently turn the whole thing into a grouped mutate😩 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/9JqA3c8EnP">pic.twitter.com/9JqA3c8EnP</a></p>&mdash; David Robinson (@drob) <a href="https://twitter.com/drob/status/1563198515626770432?ref_src=twsrc%5Etfw">August 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">😯 TIL (courtesy of <a href="https://twitter.com/thomasp85?ref_src=twsrc%5Etfw">@thomasp85</a>) you can access the defaults for any {ggplot2} geom using the default_aes field (i.e. GeomBlah$default_aes). <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br>code in a gist: <a href="https://t.co/SUTF8JEykX">https://t.co/SUTF8JEykX</a> <a href="https://t.co/9BA8kgiaxG">pic.twitter.com/9BA8kgiaxG</a></p>&mdash; Mara Averick (@dataandme) <a href="https://twitter.com/dataandme/status/1565310232309407744?ref_src=twsrc%5Etfw">September 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
