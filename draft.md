@@ -12,16 +12,28 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
+
 ###  Highlight
 
 
 
 ### Insights
 
++ [Interpretability and explainability of predictive models](https://freakonometrics.hypotheses.org/64629)
 
++ [How a Local Community Produced the First Nation-wide R useR Group](https://www.r-consortium.org/blog/2022/09/01/how-a-local-community-produced-the-first-nation-wide-r-user-group)
+
++ [Base-R and Tidyverse Code, Side-by-Side](https://matloff.wordpress.com/2022/08/24/base-r-and-tidyverse-code-side-by-side/)
+
++ [When Will NYC's Subway Ridership Recover?](https://jlaw.netlify.app/2022/08/29/when-will-nyc-s-subway-ridership-recover/)
+
++ [CO2 Emissions Comparing and Modeling for Global Warming](https://datageeek.com/2022/08/31/co2-emissions-comparing-and-modeling-for-global-warming/)
 
 ### R in the Real World
 
++ [Natural Gas Prices for main Hubs in Europe, Asia, and US](http://skranz.github.io//r/2022/08/27/GasPricesEuropeAsiaUS.html)
+
++ [Looking at cash flows](https://rviews.rstudio.com/2022/09/02/looking-at-cash-flows/)
 
 
 ###  R in Organizations
@@ -34,9 +46,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [23 New books added to Big Book of R](https://oscarbaruffa.com/bbof_20220902/)
 
 
 ###  New Packages
+
++ [July 2022: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/08/29/july-2022-top-40-new-cran-packages/)
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
@@ -57,9 +72,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-* [progressr 0.11.0](https://cran.r-project.org/package=progressr) - progressr: An Inclusive, Unifying API for Progress Updates
++ [progressr 0.11.0](https://cran.r-project.org/package=progressr) - progressr: An Inclusive, Unifying API for Progress Updates
 
-* [future 1.28.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone
++ [future 1.28.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone
 
 + [{distributional} 0.3.1](https://cran.r-project.org/package=distributional): Vectorised Probability Distributions.
 
@@ -69,6 +84,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{bonsai} 0.2.0](https://cran.r-project.org/package=bonsai): Model Wrappers for Tree-Based Models.
 
++ [{littler} 0.3.16](http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16)
 
 ###  Videos and Podcasts
 
@@ -89,9 +105,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Flexible simulation in simstudy with customized distribution functions](https://www.rdatagen.net/post/2022-08-30-expanding-the-possibilities-of-simulation-in-simstudy-with-customized-distribution-funcdtions/)
 
++ [Little useless-useful R functions – Drawing randomly generated @Github contribution graph](https://tomaztsql.wordpress.com/2022/08/28/little-useless-useful-r-functions-drawing-randomly-generated-github-contribution-graph/)
 
++ [Australian Signals Directorate 50c Coin Decryption](https://jcarroll.com.au/2022/09/01/asd_coin/)
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+
 
 ###  R Project Updates
 
@@ -112,6 +132,10 @@ Events in 3 Months:
 + [August 31: 'Build your first Shiny App' with us](https://mirai-solutions.ch/news/2022/08/09/announce-shiny1-ws/)
 
 + [August 31: Clinical Tables in R with gt & tfrmt](https://www.eventbrite.com/e/clinical-tables-in-r-with-gt-tfrmt-tickets-388304237427)
+
++ [RStudio Community Monthly Events Roundup - September 2022](https://www.rstudio.com/blog/rstudio-community-monthly-events-roundup-september-2022/)
+
++ [September 9:'Bring a Shiny App to Production' the hands-on workshop](https://mirai-solutions.ch/news/2022/08/26/announce-shiny4-ws/)
 
 + [September 14 'Advanced Shiny Development' the hands-on workshop](https://mirai-solutions.ch/news/2022/08/19/announce-shiny3-ws/)"
 
