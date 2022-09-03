@@ -29,6 +29,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [CO2 Emissions Comparing and Modeling for Global Warming](https://datageeek.com/2022/08/31/co2-emissions-comparing-and-modeling-for-global-warming/)
 
++ [Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises](https://journal.r-project.org/articles/RJ-2022-020/)
+
++ [Ten simple rules for teaching yourself R](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010372#sec011)
+
 ### R in the Real World
 
 + [Natural Gas Prices for main Hubs in Europe, Asia, and US](http://skranz.github.io//r/2022/08/27/GasPricesEuropeAsiaUS.html)
@@ -58,7 +62,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+[{altdoc} 0.1.0](https://cran.r-project.org/web/packages/altdoc/index.html): Use 'Docsify.js', 'Docute', or 'Mkdocs' to Generate a Package Documentation
 
+[{easystats} 0.5.2](https://cran.r-project.org/web/packages/easystats/index.html): Framework for Easy Statistical Modeling, Visualization, and Reporting
+
+[{PrettyCols}](https://cran.r-project.org/web/packages/PrettyCols/index.html): Defines aesthetically pleasing colour palettes.
 
 **Bioconductor**
 
@@ -110,6 +118,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Little useless-useful R functions – Drawing randomly generated @Github contribution graph](https://tomaztsql.wordpress.com/2022/08/28/little-useless-useful-r-functions-drawing-randomly-generated-github-contribution-graph/)
 
 + [Australian Signals Directorate 50c Coin Decryption](https://jcarroll.com.au/2022/09/01/asd_coin/)
+
++ [Pivoting your tables with Tidyr: Part II](https://www.vishalkatti.com/posts/2022-08-29-tidyrpivotwider/)
+
++ [Efficient data visualization with faded raincloud plots](https://dallasnova.rbind.io/post/efficient-data-visualization-with-faded-raincloud-plots-delete-boxplot/)
+
++ [Understanding Genetic Data with R Language Bit by Bit](https://medium.com/@atipencil/understanding-genetic-data-with-r-language-bit-by-bit-4b2e17b52965)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 
@@ -145,6 +160,7 @@ Events in 3 Months:
 
 + [October 6-7 : Shiny in Production conference from Jumping Rivers](https://shiny-in-production.jumpingrivers.com/)
 
++ [November 23-25 : I Congreso & XII Jornadas de Usuarios de R](http://r-es.org/12jr/)
 
 ### Grants & Funding
 
