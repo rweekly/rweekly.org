@@ -89,6 +89,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+[R Contribution Working Group Idea Incubator 2022](https://github.com/r-devel/rcontribution/blob/main/ideas_incubator.md)
+ - Propose/discuss ideas for initiatives to encourage contribution to R via the [RCWG issue tracker](https://github.com/r-devel/rcontribution/issues). 
 
 ###  Upcoming Events in 3 Months
 
