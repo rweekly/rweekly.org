@@ -122,6 +122,11 @@ Events in 3 Months:
 + [October 6-7 : Shiny in Production conference from Jumping Rivers](https://shiny-in-production.jumpingrivers.com/)
 
 
+### Grants & Funding
+
++ R Consortium [ISC Call for Proposals](https://www.r-consortium.org/all-projects/call-for-proposals) - Infrastructure Steering Committee (ISC) grants for low-to-medium risk projects with a focused scope and likely to have a broad impact on the R Community. Deadline 2022-10-01.
+
+
 ### rtistry
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Another variation <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/Rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#Rtistry</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://t.co/T0wodhC88T">pic.twitter.com/T0wodhC88T</a></p>&mdash; chris (@dickie_roper) <a href="https://twitter.com/dickie_roper/status/1564174077018914816?ref_src=twsrc%5Etfw">August 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
