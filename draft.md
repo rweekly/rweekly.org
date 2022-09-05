@@ -8,14 +8,20 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
-
+This week’s release was curated by [Miles McBain](https://twitter.com/MilesMcBain), with help from the R Weekly team members and contributors.
 
 
 ###  Highlight
 
++ [Australian Signals Directorate 50c Coin Decryption](https://jcarroll.com.au/2022/09/01/asd_coin/)
 
++ [Palmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises](https://journal.r-project.org/articles/RJ-2022-020/)
+
+![A plot of kmeans cluster membership applied to Palmer Penguins (Bill length and depth) alongside the same applied to Iris (Petal Width vs Petal Length). Palmer Penguins clusters are not as cleanly separated.](https://raw.githubusercontent.com/rweekly/image/master/2022/W36/palmer_vs_iris.png)
+
++ [Efficient data visualization with faded raincloud plots](https://dallasnova.rbind.io/post/efficient-data-visualization-with-faded-raincloud-plots-delete-boxplot/)
+
+![A raincloud plot depicting a satisfaction score (x) distribution by brand (y)and cat vs dog owners (colour and shape). Density plots form the 'cloud', while the individual observations shown jittered underneath are the 'rain'.](https://raw.githubusercontent.com/rweekly/image/master/2022/W36/faded_rain_cloud.png)
 
 ### Insights
 
@@ -26,6 +32,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Base-R and Tidyverse Code, Side-by-Side](https://matloff.wordpress.com/2022/08/24/base-r-and-tidyverse-code-side-by-side/)
 
 + [When Will NYC's Subway Ridership Recover?](https://jlaw.netlify.app/2022/08/29/when-will-nyc-s-subway-ridership-recover/)
+
+![A time-series plot of New York City subway ridership, showing a forecast series, 'Prophet W/ XGBoost Errors', with increasing trend and strong seasonality. It predicts a return to pre-2020 levels by 2028-2029](https://raw.githubusercontent.com/rweekly/image/master/2022/W36/subway_ridership.png)
 
 + [CO2 Emissions Comparing and Modeling for Global Warming](https://datageeek.com/2022/08/31/co2-emissions-comparing-and-modeling-for-global-warming/)
 
@@ -40,8 +48,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Looking at cash flows](https://rviews.rstudio.com/2022/09/02/looking-at-cash-flows/)
 
 
-###  R in Organizations
+![A Sankey diagram showing income decomposed into various categories (e.g. 'Care Expenses', 'Deduction', 'Financial Independence') and sub-categories (e.g. 'Social Justice', 'Food', 'Transportation', 'Investment', 'Real Estate').](https://raw.githubusercontent.com/rweekly/image/master/2022/W36/cashflows.png)
 
+
+###  R in Organizations
 
 
 ###  R in Academia
@@ -92,7 +102,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{bonsai} 0.2.0](https://cran.r-project.org/package=bonsai): Model Wrappers for Tree-Based Models.
 
-+ [{littler} 0.3.16](http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16)
++ [{littler} 0.3.16](http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16): A scripting and command-line front-end for GNU R
 
 ###  Videos and Podcasts
 
@@ -116,6 +126,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Flexible simulation in simstudy with customized distribution functions](https://www.rdatagen.net/post/2022-08-30-expanding-the-possibilities-of-simulation-in-simstudy-with-customized-distribution-funcdtions/)
 
 + [Little useless-useful R functions – Drawing randomly generated @Github contribution graph](https://tomaztsql.wordpress.com/2022/08/28/little-useless-useful-r-functions-drawing-randomly-generated-github-contribution-graph/)
+
+
+![A replica of the GitHub 'commit timeline' visualisation, with randomised daily commit activity.](https://raw.githubusercontent.com/rweekly/image/master/2022/W36/github_timeline.png)
 
 + [Australian Signals Directorate 50c Coin Decryption](https://jcarroll.com.au/2022/09/01/asd_coin/)
 
