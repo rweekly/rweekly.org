@@ -50,18 +50,9 @@ This week’s release was curated by [Miles McBain](https://twitter.com/MilesMcB
 
 ![A Sankey diagram showing income decomposed into various categories (e.g. 'Care Expenses', 'Deduction', 'Financial Independence') and sub-categories (e.g. 'Social Justice', 'Food', 'Transportation', 'Investment', 'Real Estate').](https://raw.githubusercontent.com/rweekly/image/master/2022/W36/cashflows.png)
 
-
-###  R in Organizations
-
-
-###  R in Academia
-
-
-
 ###  Resources
 
 + [23 New books added to Big Book of R](https://oscarbaruffa.com/bbof_20220902/)
-
 
 ###  New Packages
 
@@ -108,18 +99,9 @@ This week’s release was curated by [Miles McBain](https://twitter.com/MilesMcB
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [App for creating visualizations of the composition of European (soccer) squads](https://github.com/harshkrishna17/Squad-Composition-App-)
-
-### R Internationally
-
-
 
 ###  Tutorials
 
@@ -151,7 +133,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
