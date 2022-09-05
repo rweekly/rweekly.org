@@ -69,9 +69,9 @@ This week’s release was curated by [Miles McBain](https://twitter.com/MilesMcB
 
 [{PrettyCols}](https://cran.r-project.org/web/packages/PrettyCols/index.html): Defines aesthetically pleasing colour palettes.
 
-**Bioconductor**
++ [{survex} 0.1.1](https://cran.r-project.org/package=survex): Explainable Machine Learning in Survival Analysis
 
-
++ [{hippie} 0.1.0](https://cran.r-project.org/package=hippie): Hippie Code Completion in 'RStudio'
 
 **GitHub or Bitbucket**
 
@@ -94,6 +94,18 @@ This week’s release was curated by [Miles McBain](https://twitter.com/MilesMcB
 + [{bonsai} 0.2.0](https://cran.r-project.org/package=bonsai): Model Wrappers for Tree-Based Models.
 
 + [{littler} 0.3.16](http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16): A scripting and command-line front-end for GNU R
+
++ [{reticulate} 1.26](https://cran.r-project.org/package=reticulate): Interface to 'Python' - [diffify](https://diffify.com/R/reticulate)
+
++ [{geos} 0.2.0](https://cran.r-project.org/package=geos): Open Source Geometry Engine ('GEOS') R API - [diffify](https://diffify.com/R/geos)
+
+### New R-Universe Articles
+
++ [{binman} Basics](https://ropensci.r-universe.dev/ui#view:binman/basics.html): An R package that allows the user to manage the downloading of third party binaries.
+
++ [{autonewsmd}](https://kapsner.r-universe.dev/ui#view:autonewsmd/autonewsmd.html): Brings the power of conventional commit messages to the R community.
+
++ [{tidyverse} Purrr <-> base R Introduction](https://tidyverse.r-universe.dev/ui#view:purrr/base.html): Compares purrr’s functionals to their base R equivalents, focusing primarily on the map family and related functions
 
 ###  Videos and Podcasts
 
