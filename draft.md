@@ -22,11 +22,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
+- [Calculating and comparing expected points from different expected goals sources (soccer)](https://tonyelhabr.rbind.io/post/epl-xpts-simulation-1/)
+
+- [Evaluating how we can use match outcome probabilites for season-long insights (soccer)](https://tonyelhabr.rbind.io/post/epl-xpts-simulation-2/)
 
 
 ###  R in Organizations
-
-
 
 ###  R in Academia
 
@@ -99,14 +100,12 @@ Events in 3 Months:
 
 ### Datasets
 
+
 ### Jobs
 
+<i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
+###  rtistry
 
-
-###  Call for Participation
-
-
-<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week

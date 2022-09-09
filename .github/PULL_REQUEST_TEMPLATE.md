@@ -21,6 +21,8 @@ Please include a one-sentence summary of the new content you would like to be ad
 - [ ] Updated Packages - New releases of tools and packages for R
 - [ ] Call for Participation - New R groups, communities or competitions here. 
 - [ ] Upcoming Events - Interesting R-related events or call for Participation section.
+- [ ] R Project Updates: it belongs here rather than the call for participation because it is about contribution to the R project itself and is a collaboration with R core.
+
 
 ### I'd like to propose an Image from my new content!
 
