@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
+* [How to Set Up Quarto with Docker, Part 2: Dynamic Content](https://hosting.analythium.io/how-to-set-up-quarto-with-docker-part-2-dynamic-content/?utm_source=rweekly&utm_medium=web&utm_campaign=2022-W37)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
