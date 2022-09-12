@@ -53,6 +53,8 @@ This week's release was curated by [Jon Calder](https://twitter.com/jonmcalder),
 
 **GitHub or Bitbucket**
 
++ [{cropcircles} 0.1.0](https://github.com/doehm/cropcircles): Crop an Image into a Circle with a Transparent Background 
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
