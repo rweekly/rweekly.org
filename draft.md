@@ -32,6 +32,7 @@ This week's release was curated by [Jon Calder](https://twitter.com/jonmcalder),
 ### R in Academia
 
 + [Beneath and Beyond the Cox Model](https://rviews.rstudio.com/2022/09/06/deep-survival/)
++ [Modeling Geopolitical Risk with seeded LDA: A Guide on using keyATM](https://www.ds-econ.com/seeded-lda/)
 
 ### Resources
 
