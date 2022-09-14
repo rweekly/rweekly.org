@@ -53,7 +53,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-+ [How to fix the sizes in your ggplots](https://youtu.be/7kWW8rkpfqc)
+
 + [Avoid code duplication with Shiny modules](https://youtu.be/1sCQEpJzv1U)
 
 ### Gist & Cookbook
