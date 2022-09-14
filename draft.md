@@ -54,6 +54,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [Avoid code duplication with Shiny modules](https://youtu.be/1sCQEpJzv1U)
 
 ### Gist & Cookbook
 
