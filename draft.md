@@ -78,6 +78,15 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Update from the [R Contribution Working Group](https://contributor.r-project.org/working-group) September meeting:
+
+We discussed ideas to work on in 2022/2023. Initially we will be working on:
+ - A translation hackathon in partnership with https://latin-r.com/, focusing on Brazilian Portuguese and Spanish. Register for LatinR for free to join in, or join the channel on the LatinR Slack to help organize.
+ - Monthly "Office Hours" for people new to contributing to drop in for help getting started or to discuss contributions in progress.
+ - A retrospective of the Bug BBQ
+ - A code of conduct for standalone RCWG events
+See the [minutes](https://github.com/r-devel/rcontribution/blob/main/team_minutes/2022-09-16.md) for more detail. 
+
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
