@@ -48,7 +48,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-
++ [{mirai} 0.6.0](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R - [diffify](https://diffify.com/R/mirai)
 
 ### Videos and Podcasts
 
