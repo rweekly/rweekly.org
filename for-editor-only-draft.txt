@@ -1,13 +1,15 @@
 ---
 layout: draft
-title: R Weekly 2020-00
+title: R Weekly 2022-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-Release Date: 2020-00-00
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
+
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+
 
 
 ###  Highlight
@@ -38,11 +40,12 @@ Release Date: 2020-00-00
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+
 **CRAN**
 
 
 
-**BioC**
+**Bioconductor**
 
 
 
@@ -52,13 +55,18 @@ Release Date: 2020-00-00
 
 ### Updated Packages
 
-
+<i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 ###  Videos and Podcasts
 
+* [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 
 ### Gist & Cookbook
+
+
+
+### Shiny Apps
 
 
 
@@ -86,17 +94,17 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
+### Grants & Funding
+
 
 ### Datasets
 
+
 ### Jobs
 
+<i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
+###  rtistry
 
-
-###  Call for Participation
-
-
-<p class="hide-support added-hostname support-rweekly" style="text-align: center;font-weight: bold;">Your <a class="non-visited externalLink" href="https://www.patreon.com/rweekly" onclick="pas(this)">support</a> will keep R Weekly team moving! 💡</p>
 
 ###  Quotes of the Week

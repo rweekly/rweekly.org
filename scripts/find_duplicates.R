@@ -1,7 +1,12 @@
 library("magrittr")
 
 acceptable_dups <- function() {
-  c("http://developer.r-project.org/blosxom.cgi/R-devel/NEWS")
+  c(
+    "http://developer.r-project.org/blosxom.cgi/R-devel/NEWS",
+    "https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly",
+    "https://r-universe.dev/search/",
+    "https://rweekly.fireside.fm/"
+  )
 }
 
 

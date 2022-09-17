@@ -1,0 +1,75 @@
+// For format details, see https://aka.ms/vscode-remote/devcontainer.json or this file's README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.134.1/containers/r
+{
+	"name": "R",
+	"dockerComposeFile": "docker-compose.yml",
+	"workspaceFolder": "/workspace",
+	"service": "vscode",
+
+	"features": {
+		"fish": "latest"
+	},
+
+	// Set *default* container specific settings.json values on container create.
+	"settings": {
+		"terminal.integrated.profiles.linux": {
+			"fish": {
+				"path": "/usr/bin/fish"
+			}
+		},
+		"terminal.integrated.defaultProfile.linux": "fish",
+		"r.alwaysUseActiveTerminal": true,
+  		"r.bracketedPaste": true,
+		"r.sessionWatcher": true,
+		"r.rterm.linux": "/usr/local/bin/radian",
+		"r.rterm.option": [
+			""
+		],
+		"r.autoDetect": "false",
+		"r.terminalPath": "/usr/local/bin/radian",
+		"r.interpreterPath": "/usr/local/bin/R",
+		"r.debugger.timeouts.startup": 8000,
+		"editor.wordWrap": "on",
+		"editor.tabSize": 2,
+		"path-autocomplete.pathMappings": {
+    			"/": "/",
+    			"./": "${folder}"
+		},
+		"editor.bracketPairColorization.enabled": true,
+		"editor.guides.bracketPairs": "active"
+	},
+
+	// Add the IDs of extensions you want installed when the container is created.
+	"extensions": [
+		"REditorSupport.r",
+		//"/renv/cache/r-latest.vslx",
+		"ionutvmi.path-autocomplete",
+		"usernamehw.errorlens",
+		"mhutchie.git-graph",
+		"wayou.vscode-todo-highlight",
+		"tomoki1207.pdf",
+		"DavidAnson.vscode-markdownlint",
+		"Rubymaniac.vscode-paste-and-indent",
+		"GrapeCity.gc-excelviewer",
+		"IBM.output-colorizer",
+		//"Mohamed-El-Fodil-Ihaddaden.shinysnip",
+		"hediet.vscode-drawio",
+		//"MS-vsliveshare.vsliveshare-pack",
+		"ms-python.python",
+		"RDebugger.r-debugger",
+		//"GitHub.copilot",
+		"eamodio.gitlens",
+		"GitHub.vscode-pull-request-github",
+		"quarto.quarto"
+		//"hoovercj.vscode-power-mode"
+	]
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// "forwardPorts": [],
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+	// "postCreateCommand": "R --version",
+
+	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
+	// "remoteUser": "docker"
+}
