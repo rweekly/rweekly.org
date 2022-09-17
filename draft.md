@@ -15,11 +15,11 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 ### Insights
 
-+ [Minimum R version dependency in R packages](https://blog.r-hub.io/2022/09/12/r-dependency/)
++ [The case for variable labels in R](https://www.pipinghotdata.com/posts/2022-09-13-the-case-for-variable-labels-in-r)
 
 ### R in the Real World
 
-+ [Multi-environment split-plot experiments ](https://www.statforbiology.com/2022/stat_lmm_2-wayssplitrepeated/)
++ [Multi-environment split-plot experiments](https://www.statforbiology.com/2022/stat_lmm_2-wayssplitrepeated/)
 
 + [Pledging My Time V: Analysing race results in R](https://quantixed.org/2022/09/12/pledging-my-time-v-analysing-race-results-in-r/)
 
@@ -32,7 +32,6 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 + [EFS vs. NFS for RStudio on Kubernetes (AWS): Configuration and considerations](https://www.cynkra.com/blog/2022-09-14-rstudio-efs-nfs/)
 
 + [How to Participate with rOpenSci](https://ropensci.org/blog/2022/09/13/contributing-ropensci/)
-
 ### R in Academia
 
 + [10 simple rules for teaching R for Data Science](https://ttimbers.github.io/10-simple-rules-for-teaching-R-for-Data-Science/10-simple-rules-for-teaching-r-for-data-science.html#1)
@@ -53,19 +52,29 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [{bundle} 0.1.0](https://www.tidyverse.org/blog/2022/09/bundle-0-1-0/): Serialize model objects with a consistent interface
 
++ [{blscrapeR} 3.2.2](https://cran.r-project.org/package=blscrapeR): An API Wrapper for the Bureau of Labor Statistics (BLS)
+
++ [{tidyrgee} 0.1.0](https://cran.r-project.org/package=tidyrgee): 'tidyverse' Methods for 'Earth Engine'
+
++ [{yahoofinancer} 0.1.0](https://cran.r-project.org/package=yahoofinancer): Fetch Data from Yahoo Finance API
+
 **Bioconductor**
 
 **GitHub or Bitbucket**
 
-+ [severance](https://github.com/ivelasq/severance): The severance package contains color palettes inspired by the show Severance
++ [{severance} 0.0.0.9000](https://github.com/ivelasq/severance): The severance package contains color palettes inspired by the show Severance
 
-+ [mariobox](https://github.com/ThinkR-open/mariobox): A framework for packaging {plumber} APIs
++ [{mariobox} 0.0.0.9000](https://github.com/ThinkR-open/mariobox): A framework for packaging {plumber} APIs
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [{mirai} 0.6.0](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R - [diffify](https://diffify.com/R/mirai)
+
++ [{ggtext} 0.1.2](https://cran.r-project.org/package=ggtext):   Improved Text Rendering Support for 'ggplot2'  - [diffify](https://diffify.com/R/ggtext)
+
++ [{gridtext} 0.1.5](https://cran.r-project.org/package=gridtext):  Improved Text Rendering Support for 'Grid' Graphics - [diffify](https://diffify.com/R/gridtext)
 
 ### Videos and Podcasts
 
@@ -79,23 +88,17 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [R Markdown Lesser-Known Tips & Tricks #4: Looks Better, Works Better](https://www.rstudio.com/blog/r-markdown-tips-tricks-4-looks-better-works-better/)
 
-### Shiny Apps
-
-
-
-### R Internationally
-
-
-
 ### Tutorials
 
 + [Generative Art Twitter Bot with R and GitHub Actions](https://www.willtybrad.com/posts/2022-09-15-generative-art-twitter-bot-with-r-and-github-actions/)
 
-+ [API as a package: Structure](https://www.jumpingrivers.com/blog/api-as-a-package-structure/)
++ [API as a package](https://www.jumpingrivers.com/blog/api-as-a-package-structure/)
 
 + [How to make Venn Diagram with ggplot2](https://github.com/unarsezer/Football-Analytics/blob/main/Venn-Diagram/code.md)
 
 + [R Shiny & FontAwesome Icons – How to Use Them in Your Dashboards](https://appsilon.com/r-shiny-fontawesome-icons/)
+
++ [Reading Zarr files with R package stars](https://www.r-spatial.org//r/2022/09/13/zarr.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
