@@ -19,11 +19,11 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ### R in the Real World
 
-
-
 ### R in Organizations
 
++ [Update Your Machine Learning Pipeline With vetiver and Quarto](https://www.rstudio.com/blog/update-your-machine-learning-pipeline-with-vetiver-and-quarto/)
 
++ [Automate a Twitter bot with the rtweet package and RStudio Connect](https://rviews.rstudio.com/2022/09/13/automate-a-twitter-bot-with-rtweet-and-rstudio-connect/)
 
 ### R in Academia
 
@@ -43,6 +43,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 **GitHub or Bitbucket**
 
++ [severance](https://github.com/ivelasq/severance): The severance package contains color palettes inspired by the show Severance
 
 ### Updated Packages
 
@@ -56,9 +57,11 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 + [Avoid code duplication with Shiny modules](https://youtu.be/1sCQEpJzv1U)
 
++ [RStudio Sports Analytics Meetup: NFL Big Data Bowl 2022 Winners discuss the Math behind the Path](https://www.youtube.com/watch?v=1sPSvt3wmxs)
+
 ### Gist & Cookbook
 
-
++ [R Markdown Lesser-Known Tips & Tricks #4: Looks Better, Works Better](https://www.rstudio.com/blog/r-markdown-tips-tricks-4-looks-better-works-better/)
 
 ### Shiny Apps
 
@@ -107,9 +110,15 @@ Events in 3 Months:
 
 ### Datasets
 
++  [bit.io Public Data Respository](https://github.com/bitdotioinc/public-data): A directory of Public Data Sources on bit.io 
+
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
+
+### Calls for Participation
+
++ [Announcing the 2022 Table Contest](https://www.rstudio.com/blog/rstudio-table-contest-2022/)
 
 ### rtistry
 
