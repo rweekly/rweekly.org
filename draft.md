@@ -73,7 +73,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ### Tutorials
 
-
++ [Generative Art Twitter Bot with R and GitHub Actions](https://www.willtybrad.com/posts/2022-09-15-generative-art-twitter-bot-with-r-and-github-actions/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
