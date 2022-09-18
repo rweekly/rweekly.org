@@ -1,7 +1,7 @@
 ---
 layout: draft
-title: R Weekly 2022-W38: Variable labels, packaging plumber, Rmarkdown tips
-description: Draft of the R Weekly
+title: R Weekly 2022-W38 Variable labels, packaging plumber, Rmarkdown tips
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -49,7 +49,7 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [Quarto - Metropolis theme](https://pat-s.me/quarto-metropolis-theme/)
 
-![Quarto Metropolis theme](https://raw.githubusercontent.com/rweekly/image/master/2022/W38/quart-metropolis_600.png)
+![Quarto Metropolis theme](https://raw.githubusercontent.com/rweekly/image/master/2022/W38/quarto-metropolis_600.png)
 
 + [A Review of Games Written in R on CRAN](https://tankard.id/post/review-of-games-written-in-r/)
 
