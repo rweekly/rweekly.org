@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2022-W38
+title: R Weekly 2022-W38: Variable labels, packaging plumber, Rmarkdown tips
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -11,7 +11,11 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 ### Highlight
 
++ [The case for variable labels in R](https://www.pipinghotdata.com/posts/2022-09-13-the-case-for-variable-labels-in-r)
 
++ [{mariobox} 0.0.0.9000](https://github.com/ThinkR-open/mariobox): A framework for packaging {plumber} APIs
+
++ [R Markdown Lesser-Known Tips & Tricks #4: Looks Better, Works Better](https://www.rstudio.com/blog/r-markdown-tips-tricks-4-looks-better-works-better/)
 
 ### Insights
 
@@ -31,7 +35,10 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [EFS vs. NFS for RStudio on Kubernetes (AWS): Configuration and considerations](https://www.cynkra.com/blog/2022-09-14-rstudio-efs-nfs/)
 
+![Sequential benchmarking results of EFS (executed on r5n.xlarge and t3.xlarge instances) and NFS (executed on a t3.xlarge instance)](https://raw.githubusercontent.com/rweekly/image/master/2022/W38/efs-nfs-sequential_600.png)
+
 + [How to Participate with rOpenSci](https://ropensci.org/blog/2022/09/13/contributing-ropensci/)
+
 ### R in Academia
 
 + [10 simple rules for teaching R for Data Science](https://ttimbers.github.io/10-simple-rules-for-teaching-R-for-Data-Science/10-simple-rules-for-teaching-r-for-data-science.html#1)
@@ -41,6 +48,8 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 + [APIs and web scraping](https://talks.andrewheiss.com/2022-seacen/presentation/#/title-slide)
 
 + [Quarto - Metropolis theme](https://pat-s.me/quarto-metropolis-theme/)
+
+![Quarto Metropolis theme](https://raw.githubusercontent.com/rweekly/image/master/2022/W38/quart-metropolis_600.png)
 
 + [A Review of Games Written in R on CRAN](https://tankard.id/post/review-of-games-written-in-r/)
 
@@ -64,6 +73,8 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [{severance} 0.0.0.9000](https://github.com/ivelasq/severance): The severance package contains color palettes inspired by the show Severance
 
+![severance R package](https://raw.githubusercontent.com/rweekly/image/master/2022/W38/severance_600.png)
+
 + [{mariobox} 0.0.0.9000](https://github.com/ThinkR-open/mariobox): A framework for packaging {plumber} APIs
 
 ### Updated Packages
@@ -72,9 +83,9 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [{mirai} 0.6.0](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R - [diffify](https://diffify.com/R/mirai)
 
-+ [{ggtext} 0.1.2](https://cran.r-project.org/package=ggtext):   Improved Text Rendering Support for 'ggplot2'  - [diffify](https://diffify.com/R/ggtext)
++ [{ggtext} 0.1.2](https://cran.r-project.org/package=ggtext): Improved Text Rendering Support for 'ggplot2'  - [diffify](https://diffify.com/R/ggtext)
 
-+ [{gridtext} 0.1.5](https://cran.r-project.org/package=gridtext):  Improved Text Rendering Support for 'Grid' Graphics - [diffify](https://diffify.com/R/gridtext)
++ [{gridtext} 0.1.5](https://cran.r-project.org/package=gridtext): Improved Text Rendering Support for 'Grid' Graphics - [diffify](https://diffify.com/R/gridtext)
 
 ### Videos and Podcasts
 
@@ -95,6 +106,8 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 + [API as a package](https://www.jumpingrivers.com/blog/api-as-a-package-structure/)
 
 + [How to make Venn Diagram with ggplot2](https://github.com/unarsezer/Football-Analytics/blob/main/Venn-Diagram/code.md)
+
+![Venn Diagram with ggplot2](https://raw.githubusercontent.com/rweekly/image/master/2022/W38/venn-diagram_600.png)
 
 + [R Shiny & FontAwesome Icons – How to Use Them in Your Dashboards](https://appsilon.com/r-shiny-fontawesome-icons/)
 
