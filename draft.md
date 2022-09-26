@@ -9,55 +9,61 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [Jonathan Carroll](https://twitter.com/carroll_jono), with help from the RWeekly team members and contributors.
 
-
-
 ###  Highlight
 
++ [Deploy Flexdashboard on Github Pages with Github Actions and Docker](https://github.com/RamiKrispin/deploy-flex-actions)
 
++ [GitHub - The Perks of Collaboration and Version Control](https://cosimameyer.com/post/git-the-perks-of-collaboration-and-version-control/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W39/git_flow.png)
+
++ [API as a package: Logging](https://www.jumpingrivers.com/blog/api-as-a-package-logging/)
 
 ### Insights
 
 + [GitHub - The Perks of Collaboration and Version Control](https://cosimameyer.com/post/git-the-perks-of-collaboration-and-version-control/)
+
 + [Presenting results for multinomial logistic regression: a marginal approach using propensity scores](https://www.rdatagen.net/post/2022-09-20-presenting-results-for-multinomial-logistic-regression-a-marginal-approach-using-propensity-scores/)
+
 + [API as a package: Logging](https://www.jumpingrivers.com/blog/api-as-a-package-logging/)
+
 + [101st TokyoR Meetup Roundup: Palmer penguins, fractal analysis, and more!](http://Ryo-N7.github.io/2022-09-20-tokyoR-101-roundup/)
+
 + [Predict the status of #TidyTuesday Bigfoot sightings](https://juliasilge.com/blog/bigfoot/)
+
 + [Announcing the 2022 Table Contest](https://www.rstudio.com/blog/rstudio-table-contest-2022/)
+
 + [rOpenSci News Digest, September 2022](https://ropensci.org/blog/2022/09/23/ropensci-news-digest-september-2022/)
+
 + [Announcing the rOpenSci Champions Program!](https://ropensci.org/blog/2022/09/22/launch-champions-program/)
+
 + [Cover Up](https://johnmackintosh.net/blog/2022-09-22-picture/)
+
 + [Dealing with the Second Hardest Thing in Computer Science](https://indrajeetpatil.github.io/second-hardest-cs-thing/#/title-slide)
+
 + [Introducing {gtreg}](https://shannonpileggi.github.io/introducing-gtreg-rmed-2022/#/title-slide)
+
 + [Interactive pixel art in R with {pixeltrix}](https://www.rostrum.blog/2022/09/24/pixeltrix/)
-+[A note on Shiny reactivity](https://laustep.github.io/stlahblog/posts/shinyReactivity.html)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W39/pixeltrix_600.gif)
+
++ [A note on Shiny reactivity](https://laustep.github.io/stlahblog/posts/shinyReactivity.html)
+
 + [explore: simplified exploratory data analysis (EDA) in R](https://www.business-science.io/code-tools/2022/09/23/explore-simplified-exploratory-data-analysis-eda-in-r.html)
+
 + [Optimizing my search for Data scientist jobs by scraping Indeed with R](https://aureliencallens.github.io/2022/09/21/web-scraping-indeed-with-r/)
-+[Waffle charts with svg images](https://luisdva.github.io/rstats/wafflechart/)
 
-### R in the Real World
-
-
-
-###  R in Organizations
-
-
-
-###  R in Academia
-
++ [Waffle charts with svg images](https://luisdva.github.io/rstats/wafflechart/)
 
 ### R Users
 
 + [R Users Group Gainesville: Experimenting with New Event Formats](https://www.r-consortium.org/blog/2022/09/21/r-users-group-gainesville-experimenting-with-new-event-formats)
+
 + [From Biology to Healthcare Analytics: My Data Science Journey](https://www.rstudio.com/blog/from-biology-to-healthcare-analytics-my-data-science-journey/)
-
-###  Resources
-
-
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
 
 **CRAN**
 
@@ -81,14 +87,6 @@ Variables
 + [{Qindex} 0.1.0](https://cran.r-project.org/package=Qindex): Quantile-Based Predictors for Survival Outcome
 + [{hockeystick} 0.6.3](https://cran.r-project.org/package=hockeystick): Download and Visualize Essential Climate Change Data
 + [{blscrapeR} 3.2.2](https://cran.r-project.org/package=blscrapeR): An API Wrapper for the Bureau of Labor Statistics (BLS)
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
 
 ### Updated Packages
 
@@ -136,14 +134,6 @@ Variables
 + [TidyX Episode 116](https://www.youtube.com/watch?v=MHwZbritF9I)
 + [explore: simplified exploratory data analysis (EDA) in R](https://www.youtube.com/watch?v=j1pkPsjYw5s)
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
 ### R Internationally
 
 + [¡Anunciamos el programa de Campeones y Campeonas de rOpenSci!](https://ropensci.org/blog/2022/09/22/launch-champions-program-es/) (🇪🇸)
@@ -168,12 +158,6 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
@@ -183,8 +167,13 @@ Events in 3 Months:
 ###  rtistry
 
 + [Weave](https://twitter.com/sharlagelfand/status/1572573236277420032)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W39/weave.jpeg)
+
 + [Ellipses](https://twitter.com/M_Lecoursonnais/status/1573657600884981761)
+
 + [Fractured Orbits](https://twitter.com/aschinchon/status/1573630025999450113)
+
 + [Mathart](https://twitter.com/georgemsavva/status/1571999434518544387)
 
 ###  Quotes of the Week
@@ -196,6 +185,3 @@ Events in 3 Months:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How cool is that? 🤯 🥳<br>Favorite new Shiny trick: Toggling hidden parts in the UI with {shinyjs}. Such a smoooooth animation. 🌊<br><br>Stick around for the code and a short explainer 🧵 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/8fS0Df4jh6">pic.twitter.com/8fS0Df4jh6</a></p>&mdash; Albert Rapp (@rappa753) <a href="https://twitter.com/rappa753/status/1573386762461724672?ref_src=twsrc%5Etfw">September 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Flight attendant: Is there a doctor on the plane?<br><br>Me: That&#39;s me, but I&#39;m not that kind of --<br><br>FA: Someone needs to make a complicated yet clear figure in ggplot and they only have ten minutes<br><br>Me: My time has come</p>&mdash; Andrew Perfors (@AndyPerfors) <a href="https://twitter.com/AndyPerfors/status/1573188014909849601?ref_src=twsrc%5Etfw">September 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
