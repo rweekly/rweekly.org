@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Performance Benchmarking Data Read Write](https://rsangole.netlify.app/posts/2022-09-14_data-read-write-performance/data-read-write-perf)
 
 ### R in the Real World
 
