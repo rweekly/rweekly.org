@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+Do you want to learn which of the popular data read-write methods are the fastest? Find out in this comparison: https://rsangole.netlify.app/posts/2022-09-14_data-read-write-performance/data-read-write-perf
 
 
 ### R in the Real World
