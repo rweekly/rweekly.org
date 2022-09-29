@@ -51,7 +51,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{elvis} — 'Shiny' renderers and observers made safer](https://github.com/ThinkR-open/elvis)
 
 ### Updated Packages
 
