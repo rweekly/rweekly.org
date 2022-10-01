@@ -80,7 +80,7 @@ RUN /rocker_scripts/install_quarto.sh
 #RUN chmod 755 /usr/local/bin/obs-cli-js
 
 # [Optional] install additional R packages
-RUN install2.r --error --skipinstalled --ncpus -4 tidyRSS pkgsearch lubridate dplyr rtweet readr longurl tidyr twitterwidget
+RUN install2.r --error --skipinstalled --ncpus -4 tidyRSS pkgsearch lubridate dplyr rtweet readr longurl tidyr twitterwidget urltools
 
 RUN installGithub.r rweekly/rweekly.tools rweekly/rweekly.highlights
 
