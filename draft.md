@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2022-W340
+title: R Weekly 2022-W40
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -8,9 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
-
+This week’s release was curated by [Eric Nantz](https://shinydevseries.com), with help from the R Weekly team members and contributors.
 
 ###  Highlight
 
@@ -20,19 +18,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Performance Benchmarking Data Read Write](https://rsangole.netlify.app/posts/2022-09-14_data-read-write-performance/data-read-write-perf)
 
++ [Design Principles for Data Analysis](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2104290?journalCode=ucgs20)
+
 ### R in the Real World
 
-
++ [Housing Markets Down: Hierarchical Time Series](https://datageeek.com/2022/09/26/housing-markets-down-hierarchical-time-series/)
 
 ###  R in Organizations
 
-
-
 ###  R in Academia
 
++ [Understanding Deviance Residuals](https://data.library.virginia.edu/understanding-deviance-residuals/)
 
++ [Leading the Way for New R useRs with Strong Connections To Local Universities](https://www.r-consortium.org/blog/2022/09/26/leading-the-way-for-new-r-users-with-strong-connections-to-local-universities)
 
 ###  Resources
+
++ [5 New books added to Big Book of R](https://oscarbaruffa.com/bbofr_20220930/)
+
++ [August 2022: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/09/26/august-2022-top-40-new-cran-packages/)
 
 
 
@@ -43,26 +47,121 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{tabledown} 0.0.3](https://cran.r-project.org/package=tabledown): Create Publication Quality Tables and Plots
 
++ [{JATSdecoder} 1.1](https://cran.r-project.org/package=JATSdecoder): A Metadata and Text Extraction and Manipulation Tool Set
 
-**Bioconductor**
++ [{openxlsx2} 0.3](https://cran.r-project.org/package=openxlsx2): Read, Write and Edit 'xlsx' Files
 
++ [{CDMConnector} 0.1.0](https://cran.r-project.org/package=CDMConnector): Connect to an OMOP Common Data Model
 
++ [{pandoc} 0.1.0](https://cran.r-project.org/package=pandoc): Manage and Run Universal Converter 'Pandoc' from 'R'
+
++ [{organizr} 0.1.0](https://cran.r-project.org/package=organizr): Shortcuts for File Creation with Informative Prefixes
+
++ [{neonOS} 1.0.0](https://cran.r-project.org/package=neonOS): Basic Data Wrangling for NEON Observational Data
+
++ [{easydb} 1.0.0](https://cran.r-project.org/package=easydb): Easily Connect to Common Types of Databases
+
++ [{less} 0.1.0](https://cran.r-project.org/package=less): Learning with Subset Stacking
+
++ [{getpublist} 0.1.0](https://cran.r-project.org/package=getpublist): Obtain a List of Publications from 'PubMed' and 'Google Scholar'
+
++ [{shinyXYpad} 0.2.0](https://cran.r-project.org/package=shinyXYpad): XY Controller for 'Shiny'
+
++ [{NMcalc} 0.0.1](https://cran.r-project.org/package=NMcalc): Basic Calculations for PK/PD Modeling
+
++ [{SDPrism2D} 0.1.1](https://cran.r-project.org/package=SDPrism2D): Visualizing the Standard Deviation as the Size of a Prism
 
 **GitHub or Bitbucket**
 
 + [{elvis} — 'Shiny' renderers and observers made safer](https://github.com/ThinkR-open/elvis)
 
++ [{Unravel} - A fluent code explorer for R](https://github.com/nischalshrestha/Unravel)
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{ichimoku} 1.4.1](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies - [diffify](https://diffify.com/R/ichimoku)
++ [All the New Things in {gt} 0.7.0](https://www.rstudio.com/blog/all-new-things-in-gt-0-7-0/)
 
++ [brulee 0.2.0](https://www.tidyverse.org/blog/2022/09/brulee-0-2-0/)
+
++ [{connectapi} 0.1.2](https://cran.r-project.org/package=connectapi): Utilities for Interacting with the 'RStudio Connect' Server API - [diffify](https://diffify.com/R/connectapi)
+
++ [{decorators} 0.3.0](https://cran.r-project.org/package=decorators): Extend the Behaviour of a Function without Explicitly Modifying
+it - [diffify](https://diffify.com/R/decorators)
+
++ [{gtsummary} 1.6.2](https://cran.r-project.org/package=gtsummary): Presentation-Ready Data Summary and Analytic Result Tables - [diffify](https://diffify.com/R/gtsummary)
+
++ [{rAmCharts} 2.1.15](https://cran.r-project.org/package=rAmCharts): JavaScript Charts Tool - [diffify](https://diffify.com/R/rAmCharts)
+
++ [{NMproject} 0.6.9](https://cran.r-project.org/package=NMproject): Script Based 'NONMEM' Model Development - [diffify](https://diffify.com/R/NMproject)
+
++ [{tableschema.r} 1.1.2](https://cran.r-project.org/package=tableschema.r): Table Schema 'Frictionless Data' - [diffify](https://diffify.com/R/tableschema.r)
+
++ [{visNetwork} 2.1.2](https://cran.r-project.org/package=visNetwork): Network Visualization using 'vis.js' Library - [diffify](https://diffify.com/R/visNetwork)
+
++ [{suncalc} 0.5.1](https://cran.r-project.org/package=suncalc): Compute Sun Position, Sunlight Phases, Moon Position and Lunar
+Phase - [diffify](https://diffify.com/R/suncalc)
+
++ [{forestploter} 0.2.1](https://cran.r-project.org/package=forestploter): Create Flexible Forest Plot - [diffify](https://diffify.com/R/forestploter)
+
++ [{shinypivottabler} 1.1](https://cran.r-project.org/package=shinypivottabler): Shiny Module to Create Pivot Tables - [diffify](https://diffify.com/R/shinypivottabler)
+
++ [{graphlayouts} 0.8.2](https://cran.r-project.org/package=graphlayouts): Additional Layout Algorithms for Network Visualizations - [diffify](https://diffify.com/R/graphlayouts)
+
++ [{prnsamplr} 0.2.1](https://cran.r-project.org/package=prnsamplr): Permanent Random Number Sampling - [diffify](https://diffify.com/R/prnsamplr)
+
++ [{renv} 0.16.0](https://cran.r-project.org/package=renv): Project Environments - [diffify](https://diffify.com/R/renv)
+
++ [{ggforce} 0.4.0](https://cran.r-project.org/package=ggforce): Accelerating 'ggplot2' - [diffify](https://diffify.com/R/ggforce)
+
++ [{shinydrive} 0.1.3](https://cran.r-project.org/package=shinydrive): File Sharing Shiny Module - [diffify](https://diffify.com/R/shinydrive)
+
++ [{schrute} 1.0.1](https://cran.r-project.org/package=schrute): The Entire Transcript from the Office in Tidy Format - [diffify](https://diffify.com/R/schrute)
+
++ [{ggip} 0.2.2](https://cran.r-project.org/package=ggip): Data Visualization for IP Addresses and Networks - [diffify](https://diffify.com/R/ggip)
+
++ [{fitzRoy} 1.2.0](https://cran.r-project.org/package=fitzRoy): Easily Scrape and Process AFL Data - [diffify](https://diffify.com/R/fitzRoy)
+
++ [{shinymanager} 1.0.410](https://cran.r-project.org/package=shinymanager): Authentication Management for 'Shiny' Applications - [diffify](https://diffify.com/R/shinymanager)
+
++ [{roger} 1.1-0](https://cran.r-project.org/package=roger): Automated Grading of R Scripts - [diffify](https://diffify.com/R/roger)
+
++ [{ggcorrplot} 0.1.4](https://cran.r-project.org/package=ggcorrplot): Visualization of a Correlation Matrix using 'ggplot2' - [diffify](https://diffify.com/R/ggcorrplot)
+
++ [{pagedown} 0.19](https://cran.r-project.org/package=pagedown): Paginate the HTML Output of R Markdown with CSS for Print - [diffify](https://diffify.com/R/pagedown)
+
+
++ [{multidplyr} 0.1.2](https://cran.r-project.org/package=multidplyr): A Multi-Process 'dplyr' Backend - [diffify](https://diffify.com/R/multidplyr)
+
+
++ [{shinytest2} 0.2.0](https://cran.r-project.org/package=shinytest2): Testing for Shiny Applications - [diffify](https://diffify.com/R/shinytest2)
+
++ [{colorDF} 0.1.7](https://cran.r-project.org/package=colorDF): Colorful Data Frames in R Terminal - [diffify](https://diffify.com/R/colorDF)
+
++ [{workflows} 1.1.0](https://cran.r-project.org/package=workflows): Modeling Workflows - [diffify](https://diffify.com/R/workflows)
+
++ [{riskRegression} 2022.09.23](https://cran.r-project.org/package=riskRegression): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks - [diffify](https://diffify.com/R/riskRegression)
+
++ [{golem} 0.3.4](https://cran.r-project.org/package=golem): A Framework for Robust Shiny Applications - [diffify](https://diffify.com/R/golem)
+
++ [{osfr} 0.2.9](https://cran.r-project.org/package=osfr): Interface to the 'Open Science Framework' ('OSF') - [diffify](https://diffify.com/R/osfr)
+
++ [{graphql} 1.5.1](https://cran.r-project.org/package=graphql): A GraphQL Query Parser - [diffify](https://diffify.com/R/graphql)
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
+* [R for the Rest of Us Podcast Episode 1: Cedric Scherer and Georgios Karamanis](https://rfortherestofus.com/podcast/)
+
++ [It's about time](https://www.tidyverse.org/blog/2022/09/its-about-time/)
+
++ [How to include FontAwesome icons in Quarto documents](https://www.youtube.com/watch?v=u8EOVOjX13Y)
+
++ [How to send automated emails on a schedule using R for free (blastula, Quarto, and GitHub Actions)](https://www.youtube.com/watch?v=_QQGW_RUw_I)
+
++ [Beautiful Presentations and Reports with Quarto](https://www.youtube.com/watch?v=hbf7Ai3jnxY)
 
 ### Gist & Cookbook
 
@@ -70,15 +169,24 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
++ [Case Study: Simulating Environment Change Agents on Species in Canada's Western Boreal Forests](https://www.ketchbrookanalytics.com/post/case-study-simulating-environmental-change-agents-on-species-populations-in-canada-s-western-boreal)
 
-
++ [Infinite Scrolling in Shiny](https://github.com/szymanskir/shiny-infinite-scroll)
 ### R Internationally
 
 
 
 ###  Tutorials
 
++ [A Spatial/GIS Workflow for Interactive Maps in R](https://www.mrworthington.com/articles/rstats/mapping-in-r/)
 
++ [Materials for an `{renv}` demo](https://maelle.github.io/renv-demo/#/)
+
++ [API as a package: Testing](https://www.jumpingrivers.com/blog/api-as-a-package-testing/)
+
++ [Handling Empty Paragraphs from R Markdown](https://datawookie.dev/blog/2022/09/handling-empty-paragraphs-from-r-markdown/)
+
++ [Data Visualisation with Markdown, Flexdashboard and Shiny](http://philipppro.github.io/data_visualisation/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -86,11 +194,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+### Calls for Participation
 
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
 
++ [Shiny in Production Conference](https://www.rstudio.com/blog/shiny-in-production-conference/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
