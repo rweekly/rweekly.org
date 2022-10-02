@@ -18,6 +18,8 @@ This week’s release was curated by [Eric Nantz](https://shinydevseries.com), w
 
 + [Performance Benchmarking Data Read Write](https://rsangole.netlify.app/posts/2022-09-14_data-read-write-performance/data-read-write-perf)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W40/data_benchmark_600.png)
+
 + [Design Principles for Data Analysis](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2104290?journalCode=ucgs20)
 
 ### R in the Real World
@@ -78,6 +80,9 @@ This week’s release was curated by [Eric Nantz](https://shinydevseries.com), w
 + [{elvis} — 'Shiny' renderers and observers made safer](https://github.com/ThinkR-open/elvis)
 
 + [{Unravel} - A fluent code explorer for R](https://github.com/nischalshrestha/Unravel)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W40/unravel_demo_600.gif)
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
@@ -94,6 +99,8 @@ it - [diffify](https://diffify.com/R/decorators)
 + [{gtsummary} 1.6.2](https://cran.r-project.org/package=gtsummary): Presentation-Ready Data Summary and Analytic Result Tables - [diffify](https://diffify.com/R/gtsummary)
 
 + [{rAmCharts} 2.1.15](https://cran.r-project.org/package=rAmCharts): JavaScript Charts Tool - [diffify](https://diffify.com/R/rAmCharts)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W40/amCharts_600.png)
 
 + [{NMproject} 0.6.9](https://cran.r-project.org/package=NMproject): Script Based 'NONMEM' Model Development - [diffify](https://diffify.com/R/NMproject)
 
@@ -122,6 +129,8 @@ Phase - [diffify](https://diffify.com/R/suncalc)
 
 + [{ggip} 0.2.2](https://cran.r-project.org/package=ggip): Data Visualization for IP Addresses and Networks - [diffify](https://diffify.com/R/ggip)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W40/ggip_600.png)
+
 + [{fitzRoy} 1.2.0](https://cran.r-project.org/package=fitzRoy): Easily Scrape and Process AFL Data - [diffify](https://diffify.com/R/fitzRoy)
 
 + [{shinymanager} 1.0.410](https://cran.r-project.org/package=shinymanager): Authentication Management for 'Shiny' Applications - [diffify](https://diffify.com/R/shinymanager)
@@ -139,6 +148,8 @@ Phase - [diffify](https://diffify.com/R/suncalc)
 + [{shinytest2} 0.2.0](https://cran.r-project.org/package=shinytest2): Testing for Shiny Applications - [diffify](https://diffify.com/R/shinytest2)
 
 + [{colorDF} 0.1.7](https://cran.r-project.org/package=colorDF): Colorful Data Frames in R Terminal - [diffify](https://diffify.com/R/colorDF)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W40/demo_colorDF_600.png)
 
 + [{workflows} 1.1.0](https://cran.r-project.org/package=workflows): Modeling Workflows - [diffify](https://diffify.com/R/workflows)
 
