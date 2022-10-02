@@ -26,8 +26,6 @@ This week’s release was curated by [Eric Nantz](https://shinydevseries.com), w
 
 + [Housing Markets Down: Hierarchical Time Series](https://datageeek.com/2022/09/26/housing-markets-down-hierarchical-time-series/)
 
-###  R in Organizations
-
 ###  R in Academia
 
 + [Understanding Deviance Residuals](https://data.library.virginia.edu/understanding-deviance-residuals/)
@@ -40,12 +38,9 @@ This week’s release was curated by [Eric Nantz](https://shinydevseries.com), w
 
 + [August 2022: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/09/26/august-2022-top-40-new-cran-packages/)
 
-
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
 
 **CRAN**
 
@@ -141,9 +136,7 @@ Phase - [diffify](https://diffify.com/R/suncalc)
 
 + [{pagedown} 0.19](https://cran.r-project.org/package=pagedown): Paginate the HTML Output of R Markdown with CSS for Print - [diffify](https://diffify.com/R/pagedown)
 
-
 + [{multidplyr} 0.1.2](https://cran.r-project.org/package=multidplyr): A Multi-Process 'dplyr' Backend - [diffify](https://diffify.com/R/multidplyr)
-
 
 + [{shinytest2} 0.2.0](https://cran.r-project.org/package=shinytest2): Testing for Shiny Applications - [diffify](https://diffify.com/R/shinytest2)
 
@@ -174,18 +167,11 @@ Phase - [diffify](https://diffify.com/R/suncalc)
 
 + [Beautiful Presentations and Reports with Quarto](https://www.youtube.com/watch?v=hbf7Ai3jnxY)
 
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [Case Study: Simulating Environment Change Agents on Species in Canada's Western Boreal Forests](https://www.ketchbrookanalytics.com/post/case-study-simulating-environmental-change-agents-on-species-populations-in-canada-s-western-boreal)
 
 + [Infinite Scrolling in Shiny](https://github.com/szymanskir/shiny-infinite-scroll)
-### R Internationally
-
-
 
 ###  Tutorials
 
@@ -205,8 +191,6 @@ Phase - [diffify](https://diffify.com/R/suncalc)
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-### Calls for Participation
-
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
@@ -219,17 +203,18 @@ Events in 3 Months:
 
 + [Weekly workshops in R/Python 'Workshops for Ukraine'](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
-###  rtistry
-
-
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Have you written any short <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> functions to reduce duplication in your plotting code? e.g.<br><br>histogram &lt;- function(df, var, binwidth) {<br> df |&gt; <br> ggplot(aes({{ var }})) + <br> geom_histogram(binwidth = binwidth)<br>}<br><br>I&#39;m looking for inspiration for examples for R4DS</p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1574373127349575680?ref_src=twsrc%5Etfw">September 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Really happy with this: have just reproduced the entirety of Geocomputation with R inside a &#39;devcontainer&#39; with VS Code. It works 🎉 <br>A small step on the <a href="https://twitter.com/hashtag/geocompr?src=hash&amp;ref_src=twsrc%5Etfw">#geocompr</a> journey, a giant leap for reproducibility + accessibility! <a href="https://twitter.com/hashtag/RSpatial?src=hash&amp;ref_src=twsrc%5Etfw">#RSpatial</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> <a href="https://t.co/NOA4grh7X8">pic.twitter.com/NOA4grh7X8</a></p>&mdash; Robin Lovelace (@robinlovelace) <a href="https://twitter.com/robinlovelace/status/1576111383531651072?ref_src=twsrc%5Etfw">October 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do all <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> folks do this? I have a presentation due Monday. I could make my maps in Q and slides in PPT, but instead I am using it as an opportunity to try <a href="https://twitter.com/hashtag/quartopub?src=hash&amp;ref_src=twsrc%5Etfw">#quartopub</a> slides and try out new (to me) mapping 📦s. The learning curve involved in reproducible research is... <a href="https://t.co/swh0CwEHBd">pic.twitter.com/swh0CwEHBd</a></p>&mdash; Tesla DuBois (@TeslaDuBois) <a href="https://twitter.com/TeslaDuBois/status/1576277898238926848?ref_src=twsrc%5Etfw">October 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
