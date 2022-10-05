@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-+ [Serving Transformer Models in Shiny Apps](https://towardsdatascience.com/serving-transformer-models-in-shiny-apps-9a1bed4b41a6?source=friends_link&sk=3050507749ed291044459d863808df8e)
++ [Serving Transformer Models in Shiny Apps](https://towardsdatascience.com/serving-transformer-models-in-shiny-apps-9a1bed4b41a6)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
