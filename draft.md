@@ -85,6 +85,8 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 
 + [How to automatically run an R script on a schedule using a GitLab CI/CD Pipeline](https://www.youtube.com/watch?v=59gbgBqlaJc)
 
++ [Managing large codebases in R](https://www.activityinfo.org/support/webinars/2022-10-06-managing-large-codebases-in-R.html)
+
 ### Gist & Cookbook
 
 + [iPhone Apps (TidyTuesday)](https://github.com/tashapiro/TidyTuesday/blob/master/2022/W40/iphone-apps.R)
