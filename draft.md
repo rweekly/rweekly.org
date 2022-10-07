@@ -26,7 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Organizations
 
-
++ [Building stories with data: Crafting a data-driven fundraising campaign](https://www.cararthompson.com/posts/2022-08-24-crafting-a-data-driven-fundraising-campaign/)
 
 ###  R in Academia
 
@@ -34,7 +34,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [Data Science Scotland: R User Day Talks (Oct. 5, 2022)](https://github.com/DataScienceScotland/R-user-day-talks)
 
++ ["Managing Large R Codebases" webinar (slides)](https://rpubs.com/Ryo-N7/ManagingLargeRCodebase)
 
 ###  New Packages
 
@@ -51,7 +53,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [{nblR}](https://github.com/JaseZiv/nblR/): To quickly and efficiently load Australian basketball statistics from the NBL.
 
++ [{verbaliseR}](https://github.com/cararthompson/verbaliseR): A package to help make your R-generated text mighty fine.
 
 ### Updated Packages
 
@@ -61,10 +65,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ ["Managing Large Codebases in R" webinar](https://www.activityinfo.org/support/webinars/2022-10-06-managing-large-codebases-in-R.html)
+
++ [How to automatically run an R script on a schedule using a GitLab CI/CD Pipeline](https://www.youtube.com/watch?v=59gbgBqlaJc)
 
 ### Gist & Cookbook
 
-
++ [iPhone Apps (TidyTuesday)](https://github.com/tashapiro/TidyTuesday/blob/master/2022/W40/iphone-apps.R)
 
 ### Shiny Apps
 
@@ -77,6 +84,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Tutorials
 
 + [Serving Transformer Models in Shiny Apps](https://towardsdatascience.com/serving-transformer-models-in-shiny-apps-9a1bed4b41a6)
+
++ [Why and how to use JS in your Shiny app](https://www.brodrigues.co/blog/2022-10-01-why_js_shiny/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -110,3 +119,5 @@ Events in 3 Months:
 
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> &quot;isoband incident&quot; via the R package dependency network. 4748 CRAN packages involved. Thats quite a lot. But could a single package take out even more packages? 1/3 <a href="https://t.co/6SvQZD9rWq">pic.twitter.com/6SvQZD9rWq</a></p>&mdash; David Schoch (@schochastics) <a href="https://twitter.com/schochastics/status/1577655741942464513?ref_src=twsrc%5Etfw">October 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
