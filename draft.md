@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2022-W41
+title: R Weekly 2022-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay), with help from the R Weekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
 
 
@@ -18,22 +18,14 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 
 ### Insights
 
-+ [Refactoring Russian Doll Code](https://www.jumpingrivers.com/blog/refactoring-russian-doll-code/)
 
-+ [6 Productivity Hacks for Quarto](https://www.rstudio.com/blog/6-productivity-hacks-for-quarto/)
-
-+ [R Shiny vs Shiny for Python: What are the Key Differences](https://appsilon.com/r-shiny-vs-shiny-for-python/)
 
 ### R in the Real World
 
-+ [A Day in Life of an R/Shiny Developer](https://appsilon.com/a-day-in-life-of-an-r-shiny-developer/)
 
 
 ###  R in Organizations
 
-+ [Building stories with data: Crafting a data-driven fundraising campaign](https://www.cararthompson.com/posts/2022-08-24-crafting-a-data-driven-fundraising-campaign/)
-
-+ [Team Collaboration in R and Python Made Easy](https://www.rstudio.com/blog/creating-collaborative-bilingual-teams/)
 
 
 ###  R in Academia
@@ -42,9 +34,7 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 
 ###  Resources
 
-+ [Data Science Scotland: R User Day Talks (Oct. 5, 2022)](https://github.com/DataScienceScotland/R-user-day-talks)
 
-+ ["Managing Large R Codebases" webinar (slides)](https://rpubs.com/Ryo-N7/ManagingLargeRCodebase)
 
 ###  New Packages
 
@@ -53,7 +43,6 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 
 **CRAN**
 
-+ [Introducing the text package](https://blogs.rstudio.com/ai/posts/2022-09-29-r-text/)
 
 
 **Bioconductor**
@@ -62,18 +51,9 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 
 **GitHub or Bitbucket**
 
-+ [{nblR}](https://github.com/JaseZiv/nblR/): To quickly and efficiently load Australian basketball statistics from the NBL.
 
-+ [{verbaliseR}](https://github.com/cararthompson/verbaliseR): A package to help make your R-generated text mighty fine.
 
 ### Updated Packages
-
-+ [choroplethr 3.7.1 is now on CRAN](https://arilamstein.com/blog/2022/10/05/choroplethr-3-7-1-is-now-on-cran/)
-
-+ [Improvements to model specification checking in tidymodels](https://www.tidyverse.org/blog/2022/10/parsnip-checking-1-0-2/)
-
-+ [Package dev with {fusen} & {attachment}: load all functions of a flat, manage qmd and auto-fill Remotes field](https://rtask.thinkr.fr/package-dev-with-fusen-attachment-load-all-functions-of-a-flat-manage-qmd-and-auto-fill-remotes-field/)
-
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
@@ -81,41 +61,22 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-+ ["Managing Large Codebases in R" webinar](https://www.activityinfo.org/support/webinars/2022-10-06-managing-large-codebases-in-R.html)
-
-+ [How to automatically run an R script on a schedule using a GitLab CI/CD Pipeline](https://www.youtube.com/watch?v=59gbgBqlaJc)
-
-+ [Managing large codebases in R](https://www.activityinfo.org/support/webinars/2022-10-06-managing-large-codebases-in-R.html)
 
 ### Gist & Cookbook
 
-+ [iPhone Apps (TidyTuesday)](https://github.com/tashapiro/TidyTuesday/blob/master/2022/W40/iphone-apps.R)
+
 
 ### Shiny Apps
 
-+ [GooglyPlusPlus gets ready for ICC Men’s T20 World Cup](https://gigadom.in/2022/10/05/googlyplusplus-gets-ready-for-icc-mens-t20-world-cup/)
 
 
 ### R Internationally
 
-+ [Corrélation élection serrée vs taux de participation?](https://www.simoncoulombe.com/2022/10/taux_de_participation_vs_serre/)
 
 
 ###  Tutorials
 
-+ [Serving Transformer Models in Shiny Apps](https://towardsdatascience.com/serving-transformer-models-in-shiny-apps-9a1bed4b41a6)
 
-+ [Why and how to use JS in your Shiny app](https://www.brodrigues.co/blog/2022-10-01-why_js_shiny/)
-
-+ [Serving Transformer Models in Shiny Apps](https://towardsdatascience.com/serving-transformer-models-in-shiny-apps-9a1bed4b41a6)
-
-+ [How To Create Your First Package in R Programming](https://medium.com/@adejumo999/how-to-create-your-first-package-in-r-programming-d59398f76c28)
-
-+ [Automating Sentences with R](https://rfortherestofus.com/2022/10/automating-sentences-with-r/)
-
-+ [Audio classification with torch](https://blogs.rstudio.com/ai/posts/2022-10-06-audio-classification-torch/)
-
-+ [Automatically deploying a Shiny app for browsing #RStats tweets with GitHub Actions](https://nrennie.rbind.io/blog/2022-10-05-automatically-deploying-a-shiny-app-for-browsing-rstats-tweets-with-github-actions/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -128,7 +89,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [TidyFinance: Empirical asset pricing in R workshop](https://r-posts.com/tidyfinance-empirical-asset-pricing-in-r-workshop/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -150,5 +110,3 @@ Events in 3 Months:
 
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> &quot;isoband incident&quot; via the R package dependency network. 4748 CRAN packages involved. Thats quite a lot. But could a single package take out even more packages? 1/3 <a href="https://t.co/6SvQZD9rWq">pic.twitter.com/6SvQZD9rWq</a></p>&mdash; David Schoch (@schochastics) <a href="https://twitter.com/schochastics/status/1577655741942464513?ref_src=twsrc%5Etfw">October 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
