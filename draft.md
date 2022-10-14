@@ -51,7 +51,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
+* [{deps}](https://github.com/analythium/deps): Dependency Management with roxygen-style Comments
 
 ### Updated Packages
 
