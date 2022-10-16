@@ -55,7 +55,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
+* [startup 0.19.0](https://henrikbengtsson.github.io/startup/) - Friendly R Startup Configuration
+
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
 
 ###  Videos and Podcasts
 
