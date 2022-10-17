@@ -56,11 +56,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-<i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
++ [startup 0.19.0](https://henrikbengtsson.github.io/startup/) - Friendly R Startup Configuration
 
 + [{nanonext} 0.6.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library - significant advances in performance and stability.
 
 + [{ichimoku} 1.4.2](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies.
+
+
+<i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
+
+
 
 ###  Videos and Podcasts
 
