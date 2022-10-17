@@ -40,6 +40,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [vivainsights](https://microsoft.github.io/vivainsights/)
 
 **CRAN**
 
@@ -80,7 +81,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Common Statistical Tests in R](https://martinctc.github.io/blog/common-statistical-tests-in-r-part-i/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
