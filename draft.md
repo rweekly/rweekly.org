@@ -85,6 +85,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Updates from the [R Contribution Working Group](https://contributor.r-project.org/working-group):
+ - Participants of the LatinR translation hackathon translated around 500 R messages into Brazillian Portguese/Spanish.
+ - Plans are underway to launch contributor office hours in the next month or two.
+ - Full [minutes of RCWG meeting](https://github.com/r-devel/rcontribution/blob/main/team_minutes/2022-10-18.md). 
 
 ###  Upcoming Events in 3 Months
 
