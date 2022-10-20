@@ -17,7 +17,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Insights
-
+ [“Wait, I’m a developer?”: Reflections on developing #Rstats functions](https://www.sarahnarvaiz.com/blog/developer_blog/)
 
 ### R in the Real World
 
