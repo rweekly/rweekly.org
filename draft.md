@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Diving into dependen-“sea”: How CRAN packages are interconnected](https://huizezhangsh.netlify.app/blogs/2022-10-12-cran-ecosystem/)
+
 
 ### R in the Real World
 
