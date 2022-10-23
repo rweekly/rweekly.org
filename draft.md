@@ -65,6 +65,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [{mirai} 0.7.0](https://cran.r-project.org/package=mirai): Simple and lightweight parallelism and concurrent code execution, local or distributed across the network.
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
