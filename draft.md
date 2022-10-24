@@ -24,6 +24,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Manage Dependencies with the deps R Package for Docker Containers](https://hosting.analythium.io/manage-dependencies-with-the-deps-r-package-for-docker-containers/)
 
++ [Alternatives to paired bar charts](https://albert-rapp.de/posts/ggplot2-tips/15_alternative_paired_bars/15_alternative_paired_bars.html)
+
 ### R in the Real World
 
 
