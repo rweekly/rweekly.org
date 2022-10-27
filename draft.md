@@ -122,6 +122,9 @@ Events in 3 Months:
 
 ###  rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">messed up trying to remap the colours in an image in R and produced this trippy creation <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://t.co/pDB0i7qeaI">pic.twitter.com/pDB0i7qeaI</a></p>&mdash; Jarome Ali 🇹🇹 (@notazookeeper) <a href="https://twitter.com/notazookeeper/status/1582043598127652864?ref_src=twsrc%5Etfw">October 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I recently scrapped a direction I was going in for a project but I still really love a lot of the WIP outputs. So I will be sharing them anyways.<a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://t.co/k6YrU6wzjw">pic.twitter.com/k6YrU6wzjw</a></p>&mdash; Ijeamaka (@ijeamaka_a) <a href="https://twitter.com/ijeamaka_a/status/1582083240889765888?ref_src=twsrc%5Etfw">October 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ###  Quotes of the Week
