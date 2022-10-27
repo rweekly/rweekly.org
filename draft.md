@@ -18,11 +18,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Diving into dependen-“sea”: How CRAN packages are interconnected](https://huizezhangsh.netlify.app/blogs/2022-10-12-cran-ecosystem/)
+
 + [tidyselect 1.2.0](https://www.tidyverse.org/blog/2022/10/tidyselect-1-2-0/)
 
 + [Are you Data Scientists or Software Developers?!](https://milesmcbain.micro.blog/2022/10/18/are-you-data.html)
 
 + [Manage Dependencies with the deps R Package for Docker Containers](https://hosting.analythium.io/manage-dependencies-with-the-deps-r-package-for-docker-containers/)
+
 
 ### R in the Real World
 
