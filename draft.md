@@ -14,7 +14,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
-
++ [NBA teams Posters using R and Bash](https://www.abdoulblog.com/posts/2022-09-26_nba-players-squad/nba-players-squad)
 
 ### Insights
 
