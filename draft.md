@@ -21,17 +21,25 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 + [Diving into dependen-“sea”: How CRAN packages are interconnected](https://huizezhangsh.netlify.app/blogs/2022-10-12-cran-ecosystem/)
 
-+ [tidyselect 1.2.0](https://www.tidyverse.org/blog/2022/10/tidyselect-1-2-0/)
-
 + [Are you Data Scientists or Software Developers?!](https://milesmcbain.micro.blog/2022/10/18/are-you-data.html)
-
-+ [Manage Dependencies with the deps R Package for Docker Containers](https://hosting.analythium.io/manage-dependencies-with-the-deps-r-package-for-docker-containers/)
 
 + [Alternatives to paired bar charts](https://albert-rapp.de/posts/ggplot2-tips/15_alternative_paired_bars/15_alternative_paired_bars.html)
 
 + [NBA teams Posters using R and Bash](https://www.abdoulblog.com/posts/2022-09-26_nba-players-squad/nba-players-squad)
 
 + [Discrete Fourier Transform - with torch](https://blogs.rstudio.com/tensorflow/posts/2022-10-20-dft)
+
++ [Understanding ShinyApps](https://cosimameyer.com/post/understanding-shinyapps/)
+
++ [Understanding the Basics of Package Writing in R](https://cosimameyer.com/post/understanding-the-basics-of-package-writing-in-r/)
+
++ [R, its license and my take on it](https://www.brodrigues.co/blog/2022-10-23-licenses/)
+
++ [Top 5 Shiny UI Add-On Packages](https://www.jumpingrivers.com/blog/r-shiny-extensions-ui/)
+
++ [Quartaki: 6 hour introduction to Quarto](https://drmowinckels.github.io/quartaki/)
+
++ [Embed Shinylive applications in Quarto documents](https://quarto.org/docs/blog/posts/2022-10-25-shinylive-extension/)
 
 + [tidyselect 1.2.0](https://www.tidyverse.org/blog/2022/10/tidyselect-1-2-0/)
 
@@ -41,21 +49,9 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 + [Interesting Uses of censo2017 a Year After Publishing](https://ropensci.org/blog/2022/10/19/censo2017-one-year-after/)
 
-+ [Become a Mentor for rOpenSci Champions!](https://ropensci.org/blog/2022/10/20/mentors-champions-program/)
-
-+ [Hosting Malaysia’s Largest Annual R Conference](https://www.r-consortium.org/blog/2022/10/21/hosting-malaysias-largest-annual-r-conference)
-
 + [Using R in Inventory Management and Demand Forecasting](https://rviews.rstudio.com/2022/10/20/projected-inventory-calculations-using-r-1/)
 
-+ [R, its license and my take on it](https://www.brodrigues.co/blog/2022-10-23-licenses/)
-
-+ [Top 5 Shiny UI Add-On Packages](https://www.jumpingrivers.com/blog/r-shiny-extensions-ui/)
-
-+ [Automating Dockerfile creation for Shiny apps](https://www.jumpingrivers.com/blog/shiny-auto-docker/)
-
-+ [Quartaki: 6 hour introduction to Quarto](https://drmowinckels.github.io/quartaki/)
-
-+ [Embed Shinylive applications in Quarto documents](https://quarto.org/docs/blog/posts/2022-10-25-shinylive-extension/)
++ [Become a Mentor for rOpenSci Champions!](https://ropensci.org/blog/2022/10/20/mentors-champions-program/)
 
 ###  R in Organizations
 
@@ -85,6 +81,9 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+
+**CRAN**
+
 + [{vivainsights} 0.1.0](https://cloud.r-project.org/web/packages/vivainsights/index.html/)
 
 + [{Greymodels} 1.0](https://cran.r-project.org/package=Greymodels): Shiny App for Grey Forecasting Model
@@ -96,15 +95,12 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 + [{OpenML} 1.12](https://cran.r-project.org/package=OpenML): Open Machine Learning and Open Data Platform
 + [{RCT2} 0.0.1](https://cran.r-project.org/package=RCT2): Designing and Analyzing Two-Stage Randomized Experiments
 
-**CRAN**
-
-
-
 **Bioconductor**
 
 
 
 **GitHub or Bitbucket**
+
 
 
 ### Updated Packages
@@ -195,9 +191,13 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 ### R Internationally
 
-
++ [Hosting Malaysia’s Largest Annual R Conference](https://www.r-consortium.org/blog/2022/10/21/hosting-malaysias-largest-annual-r-conference)
 
 ###  Tutorials
+
++ [Automating Dockerfile creation for Shiny apps](https://www.jumpingrivers.com/blog/shiny-auto-docker/)
+
++ [Manage Dependencies with the deps R Package for Docker Containers](https://hosting.analythium.io/manage-dependencies-with-the-deps-r-package-for-docker-containers/)
 
 + [Automating Dockerfile creation for Shiny apps](https://www.jumpingrivers.com/blog/shiny-auto-docker/)
 
@@ -217,6 +217,8 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+
++ [R/Pharma Conference - November 2022](https://rinpharma.com/)
 
 + [Community Monthly Events Roundup - November 2022](https://www.rstudio.com/blog/community-monthly-events-roundup-november-2022/)
 
