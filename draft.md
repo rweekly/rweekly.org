@@ -85,7 +85,16 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-+ [vivainsights](https://microsoft.github.io/vivainsights/)
++ [{vivainsights} 0.1.0](https://cloud.r-project.org/web/packages/vivainsights/index.html/)
+
++ [{Greymodels} 1.0](https://cran.r-project.org/package=Greymodels): Shiny App for Grey Forecasting Model
++ [{simcausal} 0.5.6](https://cran.r-project.org/package=simcausal): Simulating Longitudinal Data with Causal Inference Applications
++ [{gghdr} 0.2.0](https://cran.r-project.org/package=gghdr): Visualisation of Highest Density Regions in 'ggplot2'
++ [{galah} 1.5.0](https://cran.r-project.org/package=galah): Biodiversity Data from the Living Atlas Community
++ [{worrrd} 0.1.0](https://cran.r-project.org/package=worrrd): Generate Wordsearch and Crossword Puzzles
++ [{exams2learnr} 0.1-0](https://cran.r-project.org/package=exams2learnr): Interface for 'exams' Exercises in 'learnr' Tutorials
++ [{OpenML} 1.12](https://cran.r-project.org/package=OpenML): Open Machine Learning and Open Data Platform
++ [{RCT2} 0.0.1](https://cran.r-project.org/package=RCT2): Designing and Analyzing Two-Stage Randomized Experiments
 
 **CRAN**
 
@@ -102,12 +111,71 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{mirai} 0.7.0](https://cran.r-project.org/package=mirai): Simple and lightweight parallelism and concurrent code execution, local or distributed across the network.
-
-+ [{vegawidget}](https://github.com/vegawidget/vegawidget)
-
 + [{raylibr}](https://github.com/jeroenjanssens/raylibr)
 
++ [{mirai} 0.7.0](https://cran.r-project.org/package=mirai): Simple and lightweight parallelism and concurrent code execution, local or distributed across the network. - [diffify](https://diffify.com/R/mirai)
+
++ [{vegawidget} 0.4.2](https://cran.r-project.org/web/packages/vegawidget/index.html) - [diffify](https://diffify.com/R/vegawidget)
+
++ [{pkgload} 1.3.1](https://cran.r-project.org/package=pkgload): Simulate Package Installation and Attach - [diffify](https://diffify.com/R/pkgload)
+
++ [{arkhe} 1.0.0](https://cran.r-project.org/package=arkhe): Tools for Cleaning Rectangular Data - [diffify](https://diffify.com/R/arkhe)
+
++ [{colourpicker} 1.2.0](https://cran.r-project.org/package=colourpicker): A Colour Picker Tool for Shiny and for Selecting Colours in Plots - [diffify](https://diffify.com/R/colourpicker)
+
++ [{bigrquery} 1.4.1](https://cran.r-project.org/package=bigrquery): An Interface to Google's 'BigQuery' 'API' - [diffify](https://diffify.com/R/bigrquery)
+
++ [{starter} 0.1.11](https://cran.r-project.org/package=starter): Starter Kit for New Projects - [diffify](https://diffify.com/R/starter)
+
++ [{oskeyring} 0.1.5](https://cran.r-project.org/package=oskeyring): Raw System Credential Store Access from R - [diffify](https://diffify.com/R/oskeyring)
+
++ [{mlflow} 1.30.0](https://cran.r-project.org/package=mlflow): Interface to 'MLflow' - [diffify](https://diffify.com/R/mlflow)
+
++ [{keyring} 1.3.1](https://cran.r-project.org/package=keyring): Access the System Credential Store from R - [diffify](https://diffify.com/R/keyring)
+
++ [{rayrender} 0.28.8](https://cran.r-project.org/package=rayrender): Build and Raytrace 3D Scenes - [diffify](https://diffify.com/R/rayrender)
+
++ [{parsedate} 1.3.1](https://cran.r-project.org/package=parsedate): Recognize and Parse Dates in Various Formats, Including All ISO 8601 Formats - [diffify](https://diffify.com/R/parsedate)
+
++ [{tidyfst} 1.7.5](https://cran.r-project.org/package=tidyfst): Tidy Verbs for Fast Data Manipulation - [diffify](https://diffify.com/R/tidyfst)
+
++ [{pedbp} 1.0.1](https://cran.r-project.org/package=pedbp): Pediatric Blood Pressure - [diffify](https://diffify.com/R/pedbp)
+
++ [{ps} 1.7.2](https://cran.r-project.org/package=ps): List, Query, Manipulate System Processes - [diffify](https://diffify.com/R/ps)
+
++ [{pingr} 2.0.2](https://cran.r-project.org/package=pingr): Check if a Remote Computer is Up - [diffify](https://diffify.com/R/pingr)
+
++ [{pkgcache} 2.0.3](https://cran.r-project.org/package=pkgcache): Cache 'CRAN'-Like Metadata and R Packages - [diffify](https://diffify.com/R/pkgcache)
+
++ [{keypress} 1.3.0](https://cran.r-project.org/package=keypress): Wait for a Key Press in a Terminal - [diffify](https://diffify.com/R/keypress)
+
++ [{asciicast} 2.2.0](https://cran.r-project.org/package=asciicast): Create 'Ascii' Screen Casts from R Scripts - [diffify](https://diffify.com/R/asciicast)
+
++ [{zip} 2.2.2](https://cran.r-project.org/package=zip): Cross-Platform 'zip' Compression - [diffify](https://diffify.com/R/zip)
+
++ [{pkgsearch} 3.1.2](https://cran.r-project.org/package=pkgsearch): Search and Query CRAN R Packages - [diffify](https://diffify.com/R/pkgsearch)
+
++ [{shiny} 1.7.3](https://cran.r-project.org/package=shiny): Web Application Framework for R - [diffify](https://diffify.com/R/shiny)
+
++ [{meanr} 0.1-5](https://cran.r-project.org/package=meanr): Sentiment Analysis Scorer - [diffify](https://diffify.com/R/meanr)
+
++ [{tidytable} 0.9.1](https://cran.r-project.org/package=tidytable): Tidy Interface to 'data.table' - [diffify](https://diffify.com/R/tidytable)
+
++ [{webfakes} 1.1.5](https://cran.r-project.org/package=webfakes): Fake Web Apps for HTTP Testing - [diffify](https://diffify.com/R/webfakes)
+
++ [{fontawesome} 0.4.0](https://cran.r-project.org/package=fontawesome): Easily Work with 'Font Awesome' Icons - [diffify](https://diffify.com/R/fontawesome)
+
++ [{ggdensity} 0.1.1](https://cran.r-project.org/package=ggdensity): Interpretable Bivariate Density Visualization with 'ggplot2' - [diffify](https://diffify.com/R/ggdensity)
+
++ [{torch} 0.9.0](https://cran.r-project.org/package=torch): Tensors and Neural Networks with 'GPU' Acceleration - [diffify](https://diffify.com/R/torch)
+
++ [{datefixR} 1.3.1](https://cran.r-project.org/package=datefixR): Standardize Dates in Different Formats or with Missing Data - [diffify](https://diffify.com/R/datefixR)
+
++ [{rsconnect} 0.8.28](https://cran.r-project.org/package=rsconnect): Deployment Interface for R Markdown Documents and Shiny Applications - [diffify](https://diffify.com/R/rsconnect)
+
++ [{openxlsx} 4.2.5.1](https://cran.r-project.org/package=openxlsx): Read, Write and Edit xlsx Files - [diffify](https://diffify.com/R/openxlsx)
+
++ [{foghorn} 1.5.1](https://cran.r-project.org/package=foghorn): Summarize CRAN Check Results in the Terminal - [diffify](https://diffify.com/R/foghorn)
 
 ###  Videos and Podcasts
 
