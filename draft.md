@@ -41,6 +41,10 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 + [Embed Shinylive applications in Quarto documents](https://quarto.org/docs/blog/posts/2022-10-25-shinylive-extension/)
 
++ [A Linux Live USB as a statistical programming dev environment](https://www.brodrigues.co/blog/2022-10-29-mkusb_minp/)
+
++ [The Most Complex Puzzle I've Ever Solved](https://jcarroll.com.au/2022/10/29/complex-puzzle/)
+
 + [tidyselect 1.2.0](https://www.tidyverse.org/blog/2022/10/tidyselect-1-2-0/)
 
 + [rOpenSci News Digest, October 2022](https://ropensci.org/blog/2022/10/21/ropensci-news-digest-october-2022/)
