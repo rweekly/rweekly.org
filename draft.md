@@ -8,13 +8,12 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam), with help from the R Weekly team members and contributors.
 
 
 
 ###  Highlight
 
-+ [NBA teams Posters using R and Bash](https://www.abdoulblog.com/posts/2022-09-26_nba-players-squad/nba-players-squad)
 
 ### Insights
 
@@ -30,13 +29,43 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Alternatives to paired bar charts](https://albert-rapp.de/posts/ggplot2-tips/15_alternative_paired_bars/15_alternative_paired_bars.html)
 
++ [NBA teams Posters using R and Bash](https://www.abdoulblog.com/posts/2022-09-26_nba-players-squad/nba-players-squad)
+
++ [Discrete Fourier Transform - with torch](https://blogs.rstudio.com/tensorflow/posts/2022-10-20-dft)
+
++ [tidyselect 1.2.0](https://www.tidyverse.org/blog/2022/10/tidyselect-1-2-0/)
+
++ [rOpenSci News Digest, October 2022](https://ropensci.org/blog/2022/10/21/ropensci-news-digest-october-2022/)
+
 ### R in the Real World
 
++ [Interesting Uses of censo2017 a Year After Publishing](https://ropensci.org/blog/2022/10/19/censo2017-one-year-after/)
 
++ [Become a Mentor for rOpenSci Champions!](https://ropensci.org/blog/2022/10/20/mentors-champions-program/)
+
++ [Hosting Malaysia’s Largest Annual R Conference](https://www.r-consortium.org/blog/2022/10/21/hosting-malaysias-largest-annual-r-conference)
+
++ [Using R in Inventory Management and Demand Forecasting](https://rviews.rstudio.com/2022/10/20/projected-inventory-calculations-using-r-1/)
+
++ [R, its license and my take on it](https://www.brodrigues.co/blog/2022-10-23-licenses/)
+
++ [Top 5 Shiny UI Add-On Packages](https://www.jumpingrivers.com/blog/r-shiny-extensions-ui/)
+
++ [Automating Dockerfile creation for Shiny apps](https://www.jumpingrivers.com/blog/shiny-auto-docker/)
+
++ [Quartaki: 6 hour introduction to Quarto](https://drmowinckels.github.io/quartaki/)
+
++ [Embed Shinylive applications in Quarto documents](https://quarto.org/docs/blog/posts/2022-10-25-shinylive-extension/)
 
 ###  R in Organizations
 
++ [MLOps with vetiver in Python and R: Answering your questions](https://www.rstudio.com/blog/vetiver-answering-your-questions/)
 
++ [RStudio at R/Pharma 2022](https://www.rstudio.com/blog/rstudio-at-r-pharma-2022/)
+
++ [rstudio::glimpse() Newsletter](https://www.rstudio.com/blog/rstudio-glimpse-newsletter-04/)
+
++ [New Repositories Working Group](https://www.r-consortium.org/blog/2022/10/19/new-repositories-working-group)
 
 ###  R in Academia
 
@@ -71,17 +100,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
-+ [{mirai} 0.7.0](https://cran.r-project.org/package=mirai): Simple and lightweight parallelism and concurrent code execution, local or distributed across the network.
-
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [](https://github.com/vegawidget/vegawidget)
++ [{mirai} 0.7.0](https://cran.r-project.org/package=mirai): Simple and lightweight parallelism and concurrent code execution, local or distributed across the network.
 
-+ [](https://github.com/jeroenjanssens/raylibr)
++ [{vegawidget}](https://github.com/vegawidget/vegawidget)
+
++ [{raylibr}](https://github.com/jeroenjanssens/raylibr)
 
 
 ###  Videos and Podcasts
 
++ [rstudio::conf(watch_on = "YouTube")](https://www.rstudio.com/blog/rstudio-conf-watch-on-youtube/)
+
++ [TidyX Episode 121: Tell me what you want - user submitted data](https://www.youtube.com/watch?v=RvV6aL5RD4U)
+
++ [TidyX Episode 120: Working with columns in Tidyverse](https://www.youtube.com/watch?v=4FmWhPQh6qI)
 
 ### Gist & Cookbook
 
@@ -110,12 +144,15 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+
++ [Community Monthly Events Roundup - November 2022](https://www.rstudio.com/blog/community-monthly-events-roundup-november-2022/)
+
++ [Register for the Government & Public Sector R Conference](https://www.rstudio.com/blog/r-in-gov-2022/)
 
 ### Grants & Funding
 
