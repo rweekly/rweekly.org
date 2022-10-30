@@ -11,7 +11,6 @@ image: https://rweekly.org/public/facebook.png
 This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam), with help from the R Weekly team members and contributors.
 
 
-
 ###  Highlight
 
 + [Are you Data Scientists or Software Developers?!](https://milesmcbain.micro.blog/2022/10/18/are-you-data.html)
@@ -36,13 +35,17 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 + [Understanding ShinyApps](https://cosimameyer.com/post/understanding-shinyapps/)
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2022/W44/_600.jpg)
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W44/CS_Shiny_600.png)
 
 + [Understanding the Basics of Package Writing in R](https://cosimameyer.com/post/understanding-the-basics-of-package-writing-in-r/)
 
 + [R, its license and my take on it](https://www.brodrigues.co/blog/2022-10-23-licenses/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W44/free_software_600.png)
+
 + [Top 5 Shiny UI Add-On Packages](https://www.jumpingrivers.com/blog/r-shiny-extensions-ui/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W44/featured_600.png)
 
 + [Quartaki: 6 hour introduction to Quarto](https://drmowinckels.github.io/quartaki/)
 
@@ -74,9 +77,6 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 + [New Repositories Working Group](https://www.r-consortium.org/blog/2022/10/19/new-repositories-working-group)
 
-###  R in Academia
-
-
 
 ###  Resources
 
@@ -87,6 +87,8 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 + [A tour of the Apache Arrow ecosystem for the R community (slides)](https://djnavarro.net/slides-arrow-latinr-2022/#/title-slide)
 
 + [Data science & statistics artwork/illustrations (Allison Horst)](https://allisonhorst.com/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W44/rw_3840_600.png)
 
 ###  New Packages
 
@@ -105,14 +107,6 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 + [{exams2learnr} 0.1-0](https://cran.r-project.org/package=exams2learnr): Interface for 'exams' Exercises in 'learnr' Tutorials
 + [{OpenML} 1.12](https://cran.r-project.org/package=OpenML): Open Machine Learning and Open Data Platform
 + [{RCT2} 0.0.1](https://cran.r-project.org/package=RCT2): Designing and Analyzing Two-Stage Randomized Experiments
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
 
 ### Updated Packages
 
@@ -192,14 +186,6 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 + [TidyX Episode 120: Working with columns in Tidyverse](https://www.youtube.com/watch?v=4FmWhPQh6qI)
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
 ### R Internationally
 
 + [Hosting Malaysia’s Largest Annual R Conference](https://www.r-consortium.org/blog/2022/10/21/hosting-malaysias-largest-annual-r-conference)
@@ -232,12 +218,6 @@ Events in 3 Months:
 + [Community Monthly Events Roundup - November 2022](https://www.rstudio.com/blog/community-monthly-events-roundup-november-2022/)
 
 + [Register for the Government & Public Sector R Conference](https://www.rstudio.com/blog/r-in-gov-2022/)
-
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Jobs
 
