@@ -14,6 +14,11 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 ###  Highlight
 
++ [Are you Data Scientists or Software Developers?!](https://milesmcbain.micro.blog/2022/10/18/are-you-data.html)
+
++ [Understanding ShinyApps](https://cosimameyer.com/post/understanding-shinyapps/)
+
++ [TidyX Episode 121: Tell me what you want - user submitted data](https://www.youtube.com/watch?v=RvV6aL5RD4U)
 
 ### Insights
 
@@ -30,6 +35,8 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 + [Discrete Fourier Transform - with torch](https://blogs.rstudio.com/tensorflow/posts/2022-10-20-dft)
 
 + [Understanding ShinyApps](https://cosimameyer.com/post/understanding-shinyapps/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W44/_600.jpg)
 
 + [Understanding the Basics of Package Writing in R](https://cosimameyer.com/post/understanding-the-basics-of-package-writing-in-r/)
 
@@ -202,8 +209,6 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 + [Automating Dockerfile creation for Shiny apps](https://www.jumpingrivers.com/blog/shiny-auto-docker/)
 
 + [Manage Dependencies with the deps R Package for Docker Containers](https://hosting.analythium.io/manage-dependencies-with-the-deps-r-package-for-docker-containers/)
-
-+ [Automating Dockerfile creation for Shiny apps](https://www.jumpingrivers.com/blog/shiny-auto-docker/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
