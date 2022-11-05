@@ -60,7 +60,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
+* [Binary packages on Ubuntu with r2u / YEGRUG with Dirk Eddelbuettel](https://youtu.be/fmrp7Yo5znQ)
 
 ### Gist & Cookbook
 
