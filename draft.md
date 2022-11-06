@@ -43,6 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+* [port4me 0.5.0](https://cran.r-project.org/package=port4me) - Get the Same, Personal, Free TCP Port over and over
 
 
 **Bioconductor**
@@ -58,6 +59,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 * santoku 0.9.0 [What's new in santoku 0.9.0](https://hughjonesd.github.io/santoku/articles/whats-new-in-0-9-0.html)
+
+* [future 1.29.0](https://future.futureverse.org/) - Unified Parallel and Distributed Processing in R for Everyone
+
+* [future.apply 1.10.0](https://future.apply.futureverse.org/) - Apply Function to Elements in Parallel using Futures
+
+
 
 ###  Videos and Podcasts
 
