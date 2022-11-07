@@ -28,14 +28,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Modeling the secular trend in a cluster randomized trial using very flexible models](https://www.rdatagen.net/post/2022-11-01-modeling-secular-trend-in-crt-using-gam/)
 
-###  R in Organizations
-
-+ [RStudio is now Posit](https://posit.co/)
-
-
 ###  R in Academia
 
++ [Code to replicate the empirical results from the paper "Trade models in the European Union".](https://github.com/graebnerc/trade-typology)
 
++ [Accompanying code for Bee Swarm Optimization Paper](https://github.com/FlorianScharf/BSO)
+
+- [Manuscript material for the Tracking-selection paper](https://github.com/mnavascues/manuscript-Tracking-selection)
+
+- [Code and data for the paper "Two dynamic programming approaches for finding optimal and Nash equilibrium harvesting strategies in predator-prey systems"](https://github.com/Michal-Pajak/paper-two-dynamic-programming-approaches-code-and-data)
+
+- [Codes for CRISPR paper](https://github.com/JiqiuWu/CRISPR_2022)
 
 ###  Resources
 
@@ -47,6 +50,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+- [rtoot](https://github.com/schochastics/rtoot) - Interact with the mastodon API from R
 
 **CRAN**
 
@@ -78,6 +82,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 * [Binary packages on Ubuntu with r2u / YEGRUG with Dirk Eddelbuettel](https://youtu.be/fmrp7Yo5znQ)
+
+* [How to Web Scrape RateMyProfessors](https://www.youtube.com/watch?v=mWUOdV2nMOk)
 
 ### Gist & Cookbook
 
@@ -131,12 +137,6 @@ Events in 3 Months:
 + [Community Monthly Events Roundup - November 2022](https://www.rstudio.com/blog/community-monthly-events-roundup-november-2022/)
 
 + [Register for the Government & Public Sector R Conference](https://www.rstudio.com/blog/r-in-gov-2022/)
-
-
-### Grants & Funding
-
-
-### Datasets
 
 
 ### Jobs
