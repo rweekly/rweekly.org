@@ -56,19 +56,42 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-- [rtoot](https://github.com/schochastics/rtoot) - Interact with the mastodon API from R
-
 **CRAN**
 
 * [port4me 0.5.0](https://cran.r-project.org/package=port4me) - Get the Same, Personal, Free TCP Port over and over
 
++ [{vapour} 0.9.0](https://cran.r-project.org/package=vapour): Access to the 'Geospatial Data Abstraction Library' ('GDAL')
 
-**Bioconductor**
++ [{itscalledsoccer} 0.2.1](https://cran.r-project.org/package=itscalledsoccer): American Soccer Analysis API Client
 
++ [{Ease} 0.1.2](https://cran.r-project.org/package=Ease): Simulating Explicit Population Genetics Models
+
++ [{spatstat.model} 3.0-2](https://cran.r-project.org/package=spatstat.model): Parametric Statistical Modelling for the 'spatstat' Family
+
++ [{psfmi} 1.1.0](https://cran.r-project.org/package=psfmi): Prediction Model Pooling, Selection and Performance Evaluation
+Across Multiply Imputed Datasets
+
++ [{spatstat.explore} 3.0-3](https://cran.r-project.org/package=spatstat.explore): Exploratory Data Analysis for the 'spatstat' Family
+
++ [{ggbrain} 0.8.0](https://cran.r-project.org/package=ggbrain): Create Images of Volumetric Brain Data in NIfTI Format Using
+'ggplot2' Syntax
+
++ [{powerjoin} 0.1.0](https://cran.r-project.org/package=powerjoin): Extensions of 'dplyr' and 'fuzzyjoin' Join Functions
+
++ [{sMSROC} 0.1.0](https://cran.r-project.org/package=sMSROC): Assessment of Diagnostic and Prognostic Markers
+
++ [{mockthat} 0.2.8](https://cran.r-project.org/package=mockthat): Function Mocking for Unit Testing
+
++ [{minsample2} 0.1.0](https://cran.r-project.org/package=minsample2): The Minimum Sample Size
+
++ [{jetpack} 0.5.5](https://cran.r-project.org/package=jetpack): A Friendly Package Manager
+
++ [{experiences} 0.1.1](https://cran.r-project.org/package=experiences): Experience Research
 
 
 **GitHub or Bitbucket**
 
+- [rtoot](https://github.com/schochastics/rtoot) - Interact with the mastodon API from R
 
 
 ### Updated Packages
@@ -127,11 +150,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Gist & Cookbook
 
 + [My air travel carbon footprint](http://r.iresmi.net/2022/11/02/my-air-travel-carbon-footprint/)
-
-
-### Shiny Apps
-
-
 
 ### R Internationally
 
