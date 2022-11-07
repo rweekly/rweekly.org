@@ -8,8 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
+This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app/), with help from the wonderful R Weekly team members and contributors.
 
 
 ###  Highlight
@@ -203,9 +202,12 @@ Events in 3 Months:
 
 ###  rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">First attempt at <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/Rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#Rtistry</a> 🎨<br>A view of 🌅 post-sunset Colva Beach, Goa, India.<br>Any ideas on how to create the waves?<a href="https://twitter.com/hashtag/HomeIsWhereTheHeartIs?src=hash&amp;ref_src=twsrc%5Etfw">#HomeIsWhereTheHeartIs</a> <a href="https://t.co/Ox1Q8F6Wpi">pic.twitter.com/Ox1Q8F6Wpi</a></p>&mdash; Vishal Katti (@vishal_katti) <a href="https://twitter.com/vishal_katti/status/1589675868146003968?ref_src=twsrc%5Etfw">November 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some more <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> flow field <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/Rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#Rtistry</a><br>Technique shared here: <a href="https://t.co/z2P3lKoqMU">https://t.co/z2P3lKoqMU</a> <a href="https://t.co/TqWpVkrKGb">pic.twitter.com/TqWpVkrKGb</a></p>&mdash; chris (@dickie_roper) <a href="https://twitter.com/dickie_roper/status/1589294525868302336?ref_src=twsrc%5Etfw">November 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###  Quotes of the Week
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nice to colaborate with <a href="https://twitter.com/TheEconomist?ref_src=twsrc%5Etfw">@TheEconomist</a>! Brazilian election results. <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://t.co/zGgm22KNDq">pic.twitter.com/zGgm22KNDq</a></p>&mdash; Arthur Welle (@ArthurWelle) <a href="https://twitter.com/ArthurWelle/status/1588251948326653952?ref_src=twsrc%5Etfw">November 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
