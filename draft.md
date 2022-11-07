@@ -64,7 +64,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [future.apply 1.10.0](https://future.apply.futureverse.org/) - Apply Function to Elements in Parallel using Futures
 
-
+* [nanonext 0.7.0](https://cran.r-project.org/package=nanonext) - NNG (Nanomsg Next Gen) Lightweight Messaging Library
 
 ###  Videos and Podcasts
 
