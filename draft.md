@@ -14,7 +14,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
+- [Using GoogleSheets as a Database in R— Yeay!](https://fiqey.medium.com/using-googlesheets-as-a-database-in-r-happy-marriage-372cd4fc4770)
 
+- [Level Up Your Plots: A Code-along Workshop](https://www.cararthompson.com/talks/nhsr2022-level-up)
+
+- [Regular, intentional, and time-boxed yak shaving](https://www.pipinghotdata.com/posts/2022-11-02-regular-intentional-and-time-boxed-yak-shaving)
 
 ### Insights
 
