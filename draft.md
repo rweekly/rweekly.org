@@ -41,7 +41,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [A field guide to base R](https://r4ds.hadley.nz/base-r)
 
-
++ [New chapter on regular expressions in R4DS](https://r4ds.hadley.nz/regexps.html)
 
 ###  New Packages
 
@@ -120,15 +120,18 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-+ [RStudio at R/Pharma 2022](https://www.rstudio.com/blog/rstudio-at-r-pharma-2022/)
-
-+ [The Government & Public Sector R Conference](https://www.rstudio.com/blog/r-in-gov-2022/)
-
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+
++ [R/Pharma Conference - November 2022](https://rinpharma.com/)
+
++ [Community Monthly Events Roundup - November 2022](https://www.rstudio.com/blog/community-monthly-events-roundup-november-2022/)
+
++ [Register for the Government & Public Sector R Conference](https://www.rstudio.com/blog/r-in-gov-2022/)
+
 
 ### Grants & Funding
 
@@ -142,5 +145,10 @@ Events in 3 Months:
 
 ###  rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some more <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> flow field <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/Rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#Rtistry</a><br>Technique shared here: <a href="https://t.co/z2P3lKoqMU">https://t.co/z2P3lKoqMU</a> <a href="https://t.co/TqWpVkrKGb">pic.twitter.com/TqWpVkrKGb</a></p>&mdash; chris (@dickie_roper) <a href="https://twitter.com/dickie_roper/status/1589294525868302336?ref_src=twsrc%5Etfw">November 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nice to colaborate with <a href="https://twitter.com/TheEconomist?ref_src=twsrc%5Etfw">@TheEconomist</a>! Brazilian election results. <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://t.co/zGgm22KNDq">pic.twitter.com/zGgm22KNDq</a></p>&mdash; Arthur Welle (@ArthurWelle) <a href="https://twitter.com/ArthurWelle/status/1588251948326653952?ref_src=twsrc%5Etfw">November 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">RStudio is now Posit 🎉 <br><br>Find the new handle <a href="https://twitter.com/posit_pbc?ref_src=twsrc%5Etfw">@posit_pbc</a> and the brand new site at <a href="https://t.co/heCvKJbbFb">https://t.co/heCvKJbbFb</a> !!<br><br>I&#39;m really excited that we can double down on our commitment to open source - it&#39;s going to be a fun ride!<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/PyData?src=hash&amp;ref_src=twsrc%5Etfw">#PyData</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> <br><br>1/5 <a href="https://t.co/AKqrDoaQLe">pic.twitter.com/AKqrDoaQLe</a></p>&mdash; Tom Mock ❤️ @posit_pbc (@thomas_mock) <a href="https://twitter.com/thomas_mock/status/1587832355812671488?ref_src=twsrc%5Etfw">November 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
