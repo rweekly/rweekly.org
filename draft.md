@@ -24,6 +24,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Regular, intentional, and time-boxed yak shaving](https://www.pipinghotdata.com/posts/2022-11-02-regular-intentional-and-time-boxed-yak-shaving/)
 
++ [Adding Mastodon Social Link to Hugo & Blogdown Website Template](https://www.jla-data.net/eng/adding-mastodon-link-to-blogdown-template/)
+
++ [Spacetime representations aren't good—yet](https://josiahparry.com/post/2022-10-03-spacetime-representations/)
+
 ### R in the Real World
 
 + [Modeling the secular trend in a cluster randomized trial using very flexible models](https://www.rdatagen.net/post/2022-11-01-modeling-secular-trend-in-crt-using-gam/)
@@ -45,6 +49,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [A field guide to base R](https://r4ds.hadley.nz/base-r)
 
 + [New chapter on regular expressions in R4DS](https://r4ds.hadley.nz/regexps.html)
+
++ [Short course on Parametric Survival Analysis](https://github.com/FJRubio67/ShortCourseParamSurvival)
 
 ###  New Packages
 
@@ -76,6 +82,39 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 * [future.apply 1.10.0](https://future.apply.futureverse.org/) - Apply Function to Elements in Parallel using Futures
 
 + [New release of osrm](https://rcarto.github.io/posts/osrm_v4.0.0/)
+
+- [posteriordb 0.4.0](https://github.com/stan-dev/posteriordb) - A database of Bayesian posterior inference
+
+- [ggplot2 3.4.0](https://www.tidyverse.org/blog/2022/11/ggplot2-3-4-0/)
+
++ [{R2admb} 0.7.16.2](https://cran.r-project.org/package=R2admb): 'ADMB' to R Interface Functions - [diffify](https://diffify.com/R/R2admb)
+
++ [{pRecipe} 0.4.2](https://cran.r-project.org/package=pRecipe): Precipitation R Recipes - [diffify](https://diffify.com/R/pRecipe)
+
++ [{blogdown} 1.15](https://cran.r-project.org/package=blogdown): Create Blogs and Websites with R Markdown - [diffify](https://diffify.com/R/blogdown)
+
++ [{ergm} 4.3.1](https://cran.r-project.org/package=ergm): Fit, Simulate and Diagnose Exponential-Family Models for
+
++ [{atom4R} 0.3-2](https://cran.r-project.org/package=atom4R): Tools to Handle and Publish Metadata as 'Atom' XML Format - [diffify](https://diffify.com/R/atom4R)
+
++ [{coda4microbiome} 0.1.2](https://cran.r-project.org/package=coda4microbiome): Compositional Data Analysis for Microbiome Studies - [diffify](https://diffify.com/R/coda4microbiome)
+
++ [{plotly} 4.10.1](https://cran.r-project.org/package=plotly): Create Interactive Web Graphics via 'plotly.js' - [diffify](https://diffify.com/R/plotly)
+
++ [{ggrepel} 0.9.2](https://cran.r-project.org/package=ggrepel): Automatically Position Non-Overlapping Text Labels with
+'ggplot2' - [diffify](https://diffify.com/R/ggrepel)
+
++ [{lubridate} 1.9.0](https://cran.r-project.org/package=lubridate): Make Dealing with Dates a Little Easier - [diffify](https://diffify.com/R/lubridate)
+
++ [{gtExtras} 0.4.3](https://cran.r-project.org/package=gtExtras): Extending 'gt' for Beautiful HTML Tables - [diffify](https://diffify.com/R/gtExtras)
+
++ [{ggprism} 1.0.4](https://cran.r-project.org/package=ggprism): A 'ggplot2' Extension Inspired by 'GraphPad Prism' - [diffify](https://diffify.com/R/ggprism)
+
++ [{ggmap} 3.0.1](https://cran.r-project.org/package=ggmap): Spatial Visualization with ggplot2 - [diffify](https://diffify.com/R/ggmap)
+
++ [{emoji} 15.0](https://cran.r-project.org/package=emoji): Data and Function to Work with Emojis - [diffify](https://diffify.com/R/emoji)
+
++ [{bslib} 0.4.1](https://cran.r-project.org/package=bslib): Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown' - [diffify](https://diffify.com/R/bslib)
 
 ###  Videos and Podcasts
 
@@ -114,6 +153,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Extract POIs from a Suunto watch](http://r.iresmi.net/2022/11/02/extract-pois-from-a-suunto-watch/)
 
++[Placing Some Inset Images into Plots - New Zealand Sheep](https://mvevans.netlify.app/posts/2022-30daymapping/day7-raster/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
