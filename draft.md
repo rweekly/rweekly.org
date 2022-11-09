@@ -30,7 +30,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
+- Check out the [final projects](https://bootcamp.davidkane.info/projects.html) from the latest iteration of [Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info/).
 
 ###  Resources
 
