@@ -61,6 +61,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
+* [Scaling Shiny Apps for Python and R: Sticky Sessions on Heroku](Scaling Shiny Apps for Python and R: Sticky Sessions on Heroku)
 
 ### Gist & Cookbook
 
