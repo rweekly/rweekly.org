@@ -109,6 +109,12 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 + [Sporadic Rterm Crashes with Completion](https://blog.r-project.org/2022/11/01/sporadic-rterm-crashes-with-completion/)
 
+Updates from the [R Contribution Working Group](https://contributor.r-project.org/working-group):
+ - Participants of the LatinR translation hackathon translated around 500 R messages into Brazilian Portuguese/Spanish.
+ - Plans are underway to launch contributor office hours in the next month or two.
+ - Full [minutes of RCWG meeting](https://github.com/r-devel/rcontribution/blob/main/team_minutes/2022-10-18.md). 
+
+
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
