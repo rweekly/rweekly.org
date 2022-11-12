@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+* [NBA Posters](https://www.abdoulblog.com/posts/2022-09-26_nba-players-squad/nba-players-squad)
 
 ###  R in Organizations
 
@@ -65,6 +65,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [{recipes} 1.0.3](https://cran.r-project.org/package=recipes)
 
+* [{ntfy}](https://github.com/jonocarroll/ntfy): Lightweight Wrapper to the ntfy.sh Service.
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
@@ -95,12 +97,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [Delete all your tweets using rtweet](https://juliasilge.com/blog/delete-tweets/)
 
++ [Building a TidyModels classification model from scratch and deploying with Vetiver](https://hutsons-hacks.info/building-a-tidymodels-classification-model-from-scratch-and-deploying-with-vetiver)
+
++ [How to use nflfastR with Google BigQuery?](https://rstats-tips.net/2022/11/06/how-to-use-nflfastr-with-google-bigquery/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
++ [Sporadic Rterm Crashes with Completion](https://blog.r-project.org/2022/11/01/sporadic-rterm-crashes-with-completion/)
 
 ###  Upcoming Events in 3 Months
 
