@@ -30,7 +30,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
+* [Code and paper for "Human capital mediates natural selection in contemporary humans"](https://github.com/hughjonesd/why-natural-selection)
 
 ###  Resources
 
@@ -51,17 +51,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
+* [onetime - run R code just once](https://github.com/hughjonesd/onetime)
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
+* [nanonext 0.7.0](https://cran.r-project.org/package=nanonext) - NNG (Nanomsg Next Gen) Lightweight Messaging Library
 
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 * [Scaling Shiny Apps for Python and R: Sticky Sessions on Heroku](https://www.youtube.com/watch?v=-bCtShSHsfA)
+
+* [How to Create Interactive Networks using R (Marvel movies example)](https://youtu.be/hgUJ-UFv4YY)
+<a href="https://youtu.be/hgUJ-UFv4YY">
+  <img src="https://i.ytimg.com/vi/hgUJ-UFv4YY/maxresdefault.jpg" alt="Thumbnail for How to Create Interactive Networks using R" width="400"/>
+</a>
+
 
 ### Gist & Cookbook
 
