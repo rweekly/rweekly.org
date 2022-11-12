@@ -30,7 +30,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
+* [Code and paper for "Human capital mediates natural selection in contemporary humans"](https://github.com/hughjonesd/why-natural-selection)
 
 ###  Resources
 
