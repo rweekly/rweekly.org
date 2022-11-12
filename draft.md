@@ -62,10 +62,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+
+* [Scaling Shiny Apps for Python and R: Sticky Sessions on Heroku](https://www.youtube.com/watch?v=-bCtShSHsfA)
+
 * [How to Create Interactive Networks using R (Marvel movies example)](https://youtu.be/hgUJ-UFv4YY)
 <a href="https://youtu.be/hgUJ-UFv4YY">
   <img src="https://i.ytimg.com/vi/hgUJ-UFv4YY/maxresdefault.jpg" alt="Thumbnail for How to Create Interactive Networks using R" width="400"/>
 </a>
+
 
 ### Gist & Cookbook
 
