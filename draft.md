@@ -20,6 +20,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [Regular, intentional, and time-boxed yak shaving. (A conversation with Jenny Bryan about productive incremental learning)](https://www.pipinghotdata.com/posts/2022-11-02-regular-intentional-and-time-boxed-yak-shaving/)
 
+* [My journey developing {explore 1.0.0}](https://rolkra.github.io/explore-making-of/)
+
 ### R in the Real World
 
 * [NBA Posters](https://www.abdoulblog.com/posts/2022-09-26_nba-players-squad/nba-players-squad)
@@ -70,6 +72,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 * [{recipes} 1.0.3](https://cran.r-project.org/package=recipes)
 
 * [{ntfy}](https://github.com/jonocarroll/ntfy): Lightweight Wrapper to the ntfy.sh Service.
+
+* [{explore 1.0.0}](https://cran.r-project.org/package=explore)
 
 ###  Videos and Podcasts
 
