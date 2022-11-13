@@ -19,6 +19,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 * [Regular, intentional, and time-boxed yak shaving. (A conversation with Jenny Bryan about productive incremental learning)](https://www.pipinghotdata.com/posts/2022-11-02-regular-intentional-and-time-boxed-yak-shaving/)
+* [Representations of Spatial Data](https://josiahparry.com/post/2022-10-03-spacetime-representations/)
 
 ### R in the Real World
 
@@ -44,9 +45,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 
 + [{rtoot} 1.0.0](http://blog.schochastics.net/post/rtoot-collecting-and-analyzing-mastodon-data/)
-
-**Bioconductor**
-
 
 
 **GitHub or Bitbucket**
@@ -85,17 +83,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [How to Create Interactive Networks using R (Marvel movies example)](https://youtu.be/hgUJ-UFv4YY)
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
++ [#TidyX Episode 123: Crossing function from #Tidyverse to create Cartesian products of vectors and tibbles!](https://www.youtube.com/watch?v=rtVpbedQ2Fw&feature=youtu.be)
 
 ###  Tutorials
 
@@ -110,6 +98,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [How to use nflfastR with Google BigQuery?](https://rstats-tips.net/2022/11/06/how-to-use-nflfastr-with-google-bigquery/)
 
 + [Which Gender is associated with this Name? R to the R-escue!](https://blog.ephorie.de/which-gender-is-associated-with-this-name-r-to-the-r-escue)
+
++ [Let’s Get Apply’ing](https://drmowinckels.io/blog/2022-11-07-lets-get-applying/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -136,18 +126,10 @@ Events in 3 Months:
 
 +[Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
-
-###  rtistry
-
 
 ###  Quotes of the Week
 
