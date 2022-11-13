@@ -19,7 +19,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 * [Regular, intentional, and time-boxed yak shaving. (A conversation with Jenny Bryan about productive incremental learning)](https://www.pipinghotdata.com/posts/2022-11-02-regular-intentional-and-time-boxed-yak-shaving/)
+
 * [Representations of Spatial Data](https://josiahparry.com/post/2022-10-03-spacetime-representations/)
+
+* [My journey developing {explore 1.0.0}](https://rolkra.github.io/explore-making-of/)
 
 ### R in the Real World
 
@@ -69,11 +72,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [{ntfy}](https://github.com/jonocarroll/ntfy): Lightweight Wrapper to the ntfy.sh Service.
 
+* [{explore 1.0.0}](https://cran.r-project.org/package=explore)
+
 + [{paint} 0.1.7](https://github.com/MilesMcBain/paint): .
 
 * [{breakerofchains} 0.3.2](https://github.com/MilesMcBain/breakerofchains): Break Chained Expressions and Run Them with Printed Output.
 
 * [{sugarbag} 0.1.6](https://github.com/srkobakian/sugarbag): Create Tessellated Hexagon Maps.
+
 
 ###  Videos and Podcasts
 
