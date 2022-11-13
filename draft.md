@@ -24,7 +24,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [Representations of Spatial Data](https://josiahparry.com/post/2022-10-03-spacetime-representations/)
 
-* [My journey developing {explore 1.0.0}](https://rolkra.github.io/explore-making-of/)
+* [My journey developing {explore} 1.0.0](https://rolkra.github.io/explore-making-of/)
 
 ### R in the Real World
 
@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [{ntfy}](https://github.com/jonocarroll/ntfy): Lightweight Wrapper to the ntfy.sh Service.
 
-* [{explore 1.0.0}](https://cran.r-project.org/package=explore)
+* [{explore} 1.0.0](https://cran.r-project.org/package=explore)
 
 + [{paint} 0.1.7](https://github.com/MilesMcBain/paint): .
 
