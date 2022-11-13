@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [{rtoot}: Collecting and analyzing mastodon data!](http://blog.schochastics.net/post/rtoot-collecting-and-analyzing-mastodon-data/)
+
 * [Regular, intentional, and time-boxed yak shaving. (A conversation with Jenny Bryan about productive incremental learning)](https://www.pipinghotdata.com/posts/2022-11-02-regular-intentional-and-time-boxed-yak-shaving/)
 
 * [Representations of Spatial Data](https://josiahparry.com/post/2022-10-03-spacetime-representations/)
@@ -27,10 +29,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 * [NBA Posters](https://www.abdoulblog.com/posts/2022-09-26_nba-players-squad/nba-players-squad)
-
-###  R in Organizations
-
-
 
 ###  R in Academia
 
@@ -47,16 +45,23 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [{rtoot} 1.0.0](http://blog.schochastics.net/post/rtoot-collecting-and-analyzing-mastodon-data/)
++ [{rtoot} 0.1.0](https://cran.r-project.org/package=rtoot): Collecting and Analyzing Mastodon Data.
 
++ [{mailchimpR} 0.1.0](https://cran.r-project.org/package=mailchimpR): Get Mailchimp Data via the 'Windsor.ai' API
+
++ [{commafree} 0.1.0](https://github.com/t-kalinowski/commafree): Call Functions Without Commas Between Arguments.
+
++ [{powerjoin} 0.1.0](https://cran.r-project.org/package=powerjoin): Extensions of 'dplyr' and 'fuzzyjoin' Join Functions.
+
++ [{toRvik} 1.1.1](https://cran.r-project.org/package=toRvik): Extensive and Tidy NCAA Men's College Basketball Data.
+
+* [{sugarbag} 0.1.6](https://github.com/srkobakian/sugarbag): Create Tessellated Hexagon Maps.
 
 **GitHub or Bitbucket**
 
 * [onetime - run R code just once](https://github.com/hughjonesd/onetime)
 
 * [{tfevents} 0.0.0.9000](https://github.com/mlverse/tfevents)
-
-+ [{commafree} 0.1.0](https://github.com/t-kalinowski/commafree): Call Functions Without Commas Between Arguments.
 
 + [{constructive} 0.0.1.9000](https://github.com/cynkra/constructive): Display Idiomatic Code to Construct Most R Objects.
 
@@ -78,8 +83,32 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [{breakerofchains} 0.3.2](https://github.com/MilesMcBain/breakerofchains): Break Chained Expressions and Run Them with Printed Output.
 
-* [{sugarbag} 0.1.6](https://github.com/srkobakian/sugarbag): Create Tessellated Hexagon Maps.
++ [{huxtable} 5.5.1](https://cran.r-project.org/package=huxtable): Easily Create and Style Tables for LaTeX, HTML and Other Formats - [diffify](https://diffify.com/R/huxtable)
 
++ [{usmap} 0.6.1](https://cran.r-project.org/package=usmap): US Maps Including Alaska and Hawaii - [diffify](https://diffify.com/R/usmap)
+
++ [{roxygen2} 7.2.2](https://cran.r-project.org/package=roxygen2): In-Line Documentation for R - [diffify](https://diffify.com/R/roxygen2)
+
++ [{modelr} 0.1.10](https://cran.r-project.org/package=modelr): Modelling Functions that Work with the Pipe - [diffify](https://diffify.com/R/modelr)
+
++ [{parsnip} 1.0.3](https://cran.r-project.org/package=parsnip): A Common API to Modeling and Analysis Functions - [diffify](https://diffify.com/R/parsnip)
+
++ [{ggfortify} 0.4.15](https://cran.r-project.org/package=ggfortify): Data Visualization Tools for Statistical Analysis Results - [diffify](https://diffify.com/R/ggfortify)
+
++ [{biblio} 0.0.7](https://cran.r-project.org/package=biblio): Interacting with BibTeX Databases - [diffify](https://diffify.com/R/biblio)
+
++ [{tidyterra} 0.3.1](https://cran.r-project.org/package=tidyterra): 'tidyverse' Methods and 'ggplot2' Helpers for 'terra' Objects - [diffify](https://diffify.com/R/tidyterra)
+
++ [{rmarkdown} 2.18](https://cran.r-project.org/package=rmarkdown): Dynamic Documents for R - [diffify](https://diffify.com/R/rmarkdown)
+
++ [{RcppArmadillo} 0.11.4.2.1](https://cran.r-project.org/package=RcppArmadillo): 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra
+Library - [diffify](https://diffify.com/R/RcppArmadillo)
+
++ [{hydraulics} 0.6.0](https://cran.r-project.org/package=hydraulics): Basic Pipe and Open Channel Hydraulics - [diffify](https://diffify.com/R/hydraulics)
+
++ [{ggh4x} 0.2.3](https://cran.r-project.org/package=ggh4x): Hacks for 'ggplot2' - [diffify](https://diffify.com/R/ggh4x)
+
++ [{learnr} 0.11.2](https://cran.r-project.org/package=learnr): Interactive Tutorials for R - [diffify](https://diffify.com/R/learnr)
 
 ###  Videos and Podcasts
 
@@ -90,6 +119,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 * [How to Create Interactive Networks using R (Marvel movies example)](https://youtu.be/hgUJ-UFv4YY)
 
 + [#TidyX Episode 123: Crossing function from #Tidyverse to create Cartesian products of vectors and tibbles!](https://www.youtube.com/watch?v=rtVpbedQ2Fw&feature=youtu.be)
+
+
 
 ###  Tutorials
 
@@ -124,7 +155,6 @@ Updates from the [R Contribution Working Group](https://contributor.r-project.or
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
