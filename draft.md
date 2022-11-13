@@ -55,6 +55,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [{tfevents} 0.0.0.9000](https://github.com/mlverse/tfevents)
 
++ [{commafree} 0.1.0](https://github.com/t-kalinowski/commafree): Call Functions Without Commas Between Arguments.
+
++ [{constructive} 0.0.1.9000](https://github.com/cynkra/constructive): Display Idiomatic Code to Construct Most R Objects.
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
@@ -74,10 +78,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 * [Scaling Shiny Apps for Python and R: Sticky Sessions on Heroku](https://www.youtube.com/watch?v=-bCtShSHsfA)
 
 * [How to Create Interactive Networks using R (Marvel movies example)](https://youtu.be/hgUJ-UFv4YY)
-<a href="https://youtu.be/hgUJ-UFv4YY">
-  <img src="https://i.ytimg.com/vi/hgUJ-UFv4YY/maxresdefault.jpg" alt="Thumbnail for How to Create Interactive Networks using R" width="400"/>
-</a>
-
 
 ### Gist & Cookbook
 
@@ -99,7 +99,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Building a TidyModels classification model from scratch and deploying with Vetiver](https://hutsons-hacks.info/building-a-tidymodels-classification-model-from-scratch-and-deploying-with-vetiver)
 
++ [Little useless-useful R functions – Reverse integer](https://tomaztsql.wordpress.com/2022/11/09/little-useless-useful-r-functions-reverse-integer/)
+
 + [How to use nflfastR with Google BigQuery?](https://rstats-tips.net/2022/11/06/how-to-use-nflfastr-with-google-bigquery/)
+
++ [Which Gender is associated with this Name? R to the R-escue!](https://blog.ephorie.de/which-gender-is-associated-with-this-name-r-to-the-r-escue)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
