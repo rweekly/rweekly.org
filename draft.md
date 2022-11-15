@@ -110,3 +110,6 @@ Events in 3 Months:
 
 
 ###  Quotes of the Week
+
+<!-- how to embed -->
+![](https://twitter.com/BR_AILab/status/1592377018255282176)
