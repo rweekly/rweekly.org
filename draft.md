@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+- [rtoot and functional programming](https://chainsawriot.com/postmannheim/2022/11/12/FP.html)
 
 ###  R in Organizations
 
