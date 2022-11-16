@@ -76,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Build a Shiny App Demo as a Cover Letter Accessory](https://www.javierorracadeatcu.com/posts/2022-11-15-shiny-bslib-demo/2022-11-15-shiny-bslib-demo.html)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
