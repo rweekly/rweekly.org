@@ -39,6 +39,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Resources
 
 + [DRY Package Development in R (slides)](https://indrajeetpatil.github.io/dry-r-package-development/#/dry-package-development-in-r)
++ [Creating beautiful tables in R wiht {gt}](https://gt.albert-rapp.de/)
 
 ###  New Packages
 
