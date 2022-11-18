@@ -24,6 +24,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [rtoot and functional programming](https://chainsawriot.com/postmannheim/2022/11/12/FP.html)
 
++ [Modeling and simulations for the 2022 FIFA World Cup](https://github.com/lbenz730/world_cup_2022)
+
++ [FIFA World Cup 2022 Prediction](https://github.com/wittmaan/WorldCup2022)
+
 ###  R in Organizations
 
 
@@ -34,7 +38,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [DRY Package Development in R (slides)](https://indrajeetpatil.github.io/dry-r-package-development/#/dry-package-development-in-r)
 
 ###  New Packages
 
@@ -51,11 +55,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{codegrip}: Reshaping and navigation commands for R code](https://github.com/lionel-/codegrip)
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{rjtools}](https://cran.r-project.org/web/packages/rjtools/index.html)
 
 ###  Videos and Podcasts
 
@@ -112,5 +118,6 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
-<!-- how to embed -->
-![](https://twitter.com/BR_AILab/status/1592377018255282176)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do folks have web scraping examples where rvest doesn&#39;t work because the site uses javascript to dynamically load data? Working on an experiment... <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1592909443603529729?ref_src=twsrc%5Etfw">November 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We reduced our build time for R applications in the cloud by 90%. <br><br>Here is a short 🧵 on how we did it. <a href="https://t.co/nqES4FDegp">pic.twitter.com/nqES4FDegp</a></p>&mdash; BR AI + Automation Lab (@BR_AILab) <a href="https://twitter.com/BR_AILab/status/1592377018255282176?ref_src=twsrc%5Etfw">November 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
