@@ -28,6 +28,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [FIFA World Cup 2022 Prediction](https://github.com/wittmaan/WorldCup2022)
 
++ [J.League Soccer 2022 Season Review](https://ryo-n7.github.io/2022-11-15-jleague-2022-endseason-review/)
+
 ###  R in Organizations
 
 
