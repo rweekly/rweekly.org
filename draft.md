@@ -87,6 +87,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Build a Shiny App Demo as a Cover Letter Accessory](https://www.javierorracadeatcu.com/posts/2022-11-15-shiny-bslib-demo/2022-11-15-shiny-bslib-demo.html)
 
++ [Tamagotchi in R?](https://www.rostrum.blog/2022/11/13/tamrgo/)
+
++ [Switching the narrowbotr to Mastodon](https://lapsedgeographer.london/2022-11/mastodon-switch/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
