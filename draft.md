@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Promoting the Use of R in Mali](https://www.r-consortium.org/blog/2022/11/15/promoting-the-use-of-r-in-mali)
 
 ### R in the Real World
 
@@ -29,6 +29,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [FIFA World Cup 2022 Prediction](https://github.com/wittmaan/WorldCup2022)
 
 + [J.League Soccer 2022 Season Review](https://ryo-n7.github.io/2022-11-15-jleague-2022-endseason-review/)
+
++ [Asia Against Dollar: Forecasting with Modeltime](https://datageeek.com/2022/11/15/dollar-against-asia/)
+
++ [Using functional analysis to model air pollution data in R](https://nrennie.rbind.io/blog/2022-11-14-using-functional-analysis-to-model-air-pollution-data-in-r/)
 
 ###  R in Organizations
 
