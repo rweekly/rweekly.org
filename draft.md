@@ -48,7 +48,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
+* [doctest](https://github.com/hughjonesd/doctest) - generate tests from examples Using roxygen and testthat 
 
 ### Updated Packages
 
