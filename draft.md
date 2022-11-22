@@ -42,6 +42,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [onetime](https://cran.r-project.org/package=onetime) - run code only once
 
+* [{flashr} 0.1.0](https://cran.r-project.org/package=flashr): Create Flashcards of Terms and Definitions ( cran.r-project.org ) 
+
 **Bioconductor**
 
 
