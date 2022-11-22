@@ -40,7 +40,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+* [onetime](https://cran.r-project.org/package=onetime) - run code only once
 
 **Bioconductor**
 
