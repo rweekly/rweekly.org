@@ -17,6 +17,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [A simple checklist for bar plots](https://albert-rapp.de/posts/ggplot2-tips/16_bars_checklist/16_bars_checklist.html)
 
++ [{designer} 0.2.0: Now with more designing](https://ashbaldry.github.io/2022-11-21-designer-0-2-0-release/)
+
 ### R in the Real World
 
 
