@@ -1,5 +1,5 @@
 ---
-layout: draft
+layout: Automatic docs from tests, bar plot best practices
 title: R Weekly 2022-W48
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
@@ -7,11 +7,13 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Tony ElHabr](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr), with help from the R Weekly team members and contributors.
 
 ###  Highlight
 
++ [{doctest} 0.1.0](https://github.com/hughjonesd/doctest): Generate Tests from Examples Using 'roxygen' and 'testthat'
 
++ [A simple checklist for bar plots](https://albert-rapp.de/posts/ggplot2-tips/16_bars_checklist/16_bars_checklist.html)
 
 ### Insights
 
@@ -78,6 +80,8 @@ This week’s release was curated by [Tony ElHabr](), with help from the R Weekl
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [TidyX Episode 125 : Combining Multiple Conditions Follow-up](https://www.youtube.com/watch?v=EFwvt5vf-zU)
+
 + [Nathan Yau: the flow of dataviz](https://simonrogers.net/2022/11/25/nathan-yau-the-flow-of-dataviz/)
 
 + [NHS-R Conference 2022 - Day 1 (16th November 2022) - Edgbaston, Birmingham](https://www.youtube.com/watch?v=RfiuBGD5IeU)
@@ -129,8 +133,8 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You might think that selecting something you&#39;re thankful for when joining a table with friends and family is a weird statement but turns out it&#39;s a common table expression</p>&mdash; Caitlin Hudon (@beeonaposy) <a href="https://twitter.com/beeonaposy/status/1595550890529890304?ref_src=twsrc%5Etfw">November 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">FOLKS (<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a>)<br><br>The latest <a href="https://twitter.com/hashtag/Quarto?src=hash&amp;ref_src=twsrc%5Etfw">#Quarto</a> (I grab the bleeding-edge daily via my script) has support for WASM DuckDB in {ojs} blocks!<br><br>SQL wrangling vs JavaScript!<br><br>(It works with arrow/parquet, JSON, etc., too).<br><br>💙 those Quarto and <a href="https://twitter.com/observablehq?ref_src=twsrc%5Etfw">@observablehq</a> devs! <a href="https://t.co/OREddf80Ib">pic.twitter.com/OREddf80Ib</a></p>&mdash; boB Rudis 🇺🇦 🐘@hrbrmstr@mastodon.social (@hrbrmstr) <a href="https://twitter.com/hrbrmstr/status/1595173764425256960?ref_src=twsrc%5Etfw">November 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big success today 🎉😆<br><br>Threw code chunks from SO at my browser&#39;s console until I had valid JavaScript and incorporated that into my Shiny app.<br><br>Is this how you learn JavaScript? <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/shiny?src=hash&amp;ref_src=twsrc%5Etfw">#shiny</a> <a href="https://t.co/YOsSzY39mZ">pic.twitter.com/YOsSzY39mZ</a></p>&mdash; Albert Rapp | @rappa753@fosstodon.org (@rappa753) <a href="https://twitter.com/rappa753/status/1595784986790985729?ref_src=twsrc%5Etfw">November 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<iframe src="https://fosstodon.org/@nrennie/109405473743010688/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cities in the UK have a much higher density of Greggs per area than rural areas - shown using the {biscale} <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package in this map for the &quot;Two Colours&quot; theme!<br><br>Code: <a href="https://t.co/3a310ciOxw">https://t.co/3a310ciOxw</a><a href="https://twitter.com/hashtag/15MinuteMaps?src=hash&amp;ref_src=twsrc%5Etfw">#15MinuteMaps</a> <a href="https://twitter.com/hashtag/30DayMapChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30DayMapChallenge</a> <a href="https://t.co/hymIy5SJQX">pic.twitter.com/hymIy5SJQX</a></p>&mdash; Nicola Rennie | @nrennie@fosstodon.org (@nrennie35) <a href="https://twitter.com/nrennie35/status/1596090317262012418?ref_src=twsrc%5Etfw">November 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
