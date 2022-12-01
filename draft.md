@@ -77,6 +77,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [How to enhance your Shiny apps with JavaScript (JS) without knowing much JS](https://albert-rapp.de/posts/15_use_js_with_shiny/15_use_js_with_shiny.html)
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
