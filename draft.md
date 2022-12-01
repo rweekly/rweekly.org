@@ -15,7 +15,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+* [Some notes about improving base R code](https://www.etiennebacher.com/posts/2022-11-28-some-notes-about-improving-base-r-code/)
 
 ### R in the Real World
 
