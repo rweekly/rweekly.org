@@ -48,6 +48,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
+* [parquetize](https://github.com/ddotta/parquetize) - convert databases of different formats (csv, SAS, SPSS, Stata, rds, duckdb, SQLite, JSON, ndJSON) to parquet format in a same function
 
 
 ### Updated Packages
