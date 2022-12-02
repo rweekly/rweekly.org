@@ -17,6 +17,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [Some notes about improving base R code](https://www.etiennebacher.com/posts/2022-11-28-some-notes-about-improving-base-r-code/)
 
+* [How to include sf data in R packages](https://www.mm218.dev/posts/2022-12-01-sf-in-packages/)
+
 ### R in the Real World
 
 
