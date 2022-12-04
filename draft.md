@@ -28,7 +28,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [Model Calibration](https://www.tidyverse.org/blog/2022/11/model-calibration/)
 + [How to make a plot with two different y-axis in R with ggplot2? (a secret ggplot2 hack)](https://www.business-science.io/code-tools/2022/12/01/how-to-replicate-excel-s-secondary-y-axis-plot-in-r.html)
 + [Wind data in R, part I: more than one way to peel a potato](https://manipulativegerbil.blogspot.com/2022/11/wind-data-in-r-more-than-one-way-to.html)
-+ [New Features and Serious Upgrades in {gt} 0.8.0](https://posit.co/blog/new-features-upgrades-in-gt-0-8-0/)
 
 ### R in the Real World
 
@@ -153,6 +152,8 @@ library - [diffify](https://diffify.com/R/proj4)
 + [How to enhance your Shiny apps with JavaScript (JS) without knowing much JS](https://albert-rapp.de/posts/15_use_js_with_shiny/15_use_js_with_shiny.html)
 
 + [How to include sf data in R packages](https://www.mm218.dev/posts/2022-12-01-sf-in-packages/)
+
++ [New Features and Serious Upgrades in {gt} 0.8.0](https://posit.co/blog/new-features-upgrades-in-gt-0-8-0/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
