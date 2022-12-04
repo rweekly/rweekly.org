@@ -77,8 +77,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-+ [How to include sf data in R packages](https://www.mm218.dev/posts/2022-12-01-sf-in-packages/)
++ [How to enhance your Shiny apps with JavaScript (JS) without knowing much JS](https://albert-rapp.de/posts/15_use_js_with_shiny/15_use_js_with_shiny.html)
 
++ [How to include sf data in R packages](https://www.mm218.dev/posts/2022-12-01-sf-in-packages/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
