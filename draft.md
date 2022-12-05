@@ -31,7 +31,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### R in the Real World
 
-
++ [Pharmaverse: Packages for clinical reporting workflows](https://posit.co/blog/pharmaverse-packages-for-clinical-reporting-workflows/)
 
 ###  R in Organizations
 
@@ -153,6 +153,8 @@ library - [diffify](https://diffify.com/R/proj4)
 
 + [How to include sf data in R packages](https://www.mm218.dev/posts/2022-12-01-sf-in-packages/)
 
++ [New Features and Serious Upgrades in {gt} 0.8.0](https://posit.co/blog/new-features-upgrades-in-gt-0-8-0/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -172,7 +174,7 @@ Events in 3 Months:
 ### Grants & Funding
 
 
-### Datasets
+### Datasets  
 
 
 ### Jobs
