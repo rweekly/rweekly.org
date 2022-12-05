@@ -11,7 +11,13 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ###  Highlight
 
++ [dplyr 1.1.0 is coming soon](https://www.tidyverse.org/blog/2022/11/dplyr-1-1-0-is-coming-soon/)
 
++ [How to make your own #RStats Wrapped!](https://nrennie.rbind.io/blog/2022-12-03-how-to-make-your-own-rstats-wrapped/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W49/featured_600.png)
+
++ [How to enhance your Shiny apps with JavaScript (JS) without knowing much JS](https://albert-rapp.de/posts/15_use_js_with_shiny/15_use_js_with_shiny.html)
 
 ### Insights
 
@@ -27,21 +33,14 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [Our First Peer-Reviewed Statistical R Packages!](https://ropensci.org/blog/2022/11/30/first-peer-reviewed-stats-packages/)
 + [Model Calibration](https://www.tidyverse.org/blog/2022/11/model-calibration/)
 + [How to make a plot with two different y-axis in R with ggplot2? (a secret ggplot2 hack)](https://www.business-science.io/code-tools/2022/12/01/how-to-replicate-excel-s-secondary-y-axis-plot-in-r.html)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W49/dual_axis_r_600.jpg)
+
 + [Wind data in R, part I: more than one way to peel a potato](https://manipulativegerbil.blogspot.com/2022/11/wind-data-in-r-more-than-one-way-to.html)
 
 ### R in the Real World
 
 + [Pharmaverse: Packages for clinical reporting workflows](https://posit.co/blog/pharmaverse-packages-for-clinical-reporting-workflows/)
-
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
-
-###  Resources
 
 ### R Users
 
@@ -52,7 +51,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
 
 **CRAN**
 
@@ -75,10 +73,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 RNA-Sequencing Data
 + [{Require} 0.2.5](https://cran.r-project.org/package=Require): Installing and Loading R Packages for Reproducible Workflows
 + [{tidyclust} 0.1.0](https://cran.r-project.org/package=tidyclust): A Common API to Clustering
-
-**Bioconductor**
-
-
 
 **GitHub or Bitbucket**
 
@@ -133,20 +127,6 @@ library - [diffify](https://diffify.com/R/proj4)
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
-
 ###  Tutorials
 
 + [How to enhance your Shiny apps with JavaScript (JS) without knowing much JS](https://albert-rapp.de/posts/15_use_js_with_shiny/15_use_js_with_shiny.html)
@@ -154,6 +134,8 @@ library - [diffify](https://diffify.com/R/proj4)
 + [How to include sf data in R packages](https://www.mm218.dev/posts/2022-12-01-sf-in-packages/)
 
 + [New Features and Serious Upgrades in {gt} 0.8.0](https://posit.co/blog/new-features-upgrades-in-gt-0-8-0/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W49/Blog_GT8_600.jpg)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -170,12 +152,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
-
-### Grants & Funding
-
-
-### Datasets  
-
 
 ### Jobs
 
