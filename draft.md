@@ -1,7 +1,6 @@
 ---
-layout: draft
-title: R Weekly 2022-W49
-description: Draft of the R Weekly
+title: R Weekly 2022-W49 dplyr, wrapped, JavaScript
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -21,20 +20,21 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### Insights
 
-+ [dplyr 1.1.0 is coming soon](https://www.tidyverse.org/blog/2022/11/dplyr-1-1-0-is-coming-soon/)
 + [Some notes about improving base R code](https://www.etiennebacher.com/posts/2022-11-28-some-notes-about-improving-base-r-code/)
 + [Handling larger than memory data with {arrow} and {duckdb}](https://www.redwallanalytics.com/2022/11/27/setting-up-and-exploring-a-larger-than-memory-arrow-table/)
 + [How to make your own #RStats Wrapped!](https://nrennie.rbind.io/blog/2022-12-03-how-to-make-your-own-rstats-wrapped/)
 + [October 2022: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2022/11/28/october-2022-top-40-new-cran-packages/)
++ [dplyr 1.1.0 is coming soon](https://www.tidyverse.org/blog/2022/11/dplyr-1-1-0-is-coming-soon/)
 + [Infinite Scrolling in R Shiny](https://appsilon.com/infinite-scrolling-in-r-shiny/)
++ [How to make a plot with two different y-axis in R with ggplot2? (a secret ggplot2 hack)](https://www.business-science.io/code-tools/2022/12/01/how-to-replicate-excel-s-secondary-y-axis-plot-in-r.html)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W49/dual_axis_r_600.jpg)
+
 + [Navigating folders in RStudio: a beginner’s guide](https://fabiomarroni.wordpress.com/2022/11/29/navigating-folders-in-rstudio-a-beginners-guide/)
 + [Functional programming explains why containerization is needed for reproducibility](https://www.brodrigues.co/blog/2022-11-30-pipelines-as/)
 + [How Stable is China?](https://blog.ephorie.de/how-stable-is-china?utm_source=rss&utm_medium=rss&utm_campaign=how-stable-is-china)
 + [Our First Peer-Reviewed Statistical R Packages!](https://ropensci.org/blog/2022/11/30/first-peer-reviewed-stats-packages/)
 + [Model Calibration](https://www.tidyverse.org/blog/2022/11/model-calibration/)
-+ [How to make a plot with two different y-axis in R with ggplot2? (a secret ggplot2 hack)](https://www.business-science.io/code-tools/2022/12/01/how-to-replicate-excel-s-secondary-y-axis-plot-in-r.html)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2022/W49/dual_axis_r_600.jpg)
 
 + [Wind data in R, part I: more than one way to peel a potato](https://manipulativegerbil.blogspot.com/2022/11/wind-data-in-r-more-than-one-way-to.html)
 
@@ -159,6 +159,13 @@ Events in 3 Months:
 
 ###  rtistry
 
++ [Dispyr](https://art.casadebaig.net/posts/dispyr/)
+
+<iframe src="https://ecoevo.social/@casadebaig/109452277284948479/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good morning. This is a cubescape made with <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> using <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> and <a href="https://twitter.com/hashtag/SimpleFeatures?src=hash&amp;ref_src=twsrc%5Etfw">#SimpleFeatures</a> <a href="https://twitter.com/hashtag/Rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#Rtistry</a> <a href="https://twitter.com/hashtag/GenerativeArt?src=hash&amp;ref_src=twsrc%5Etfw">#GenerativeArt</a> <a href="https://twitter.com/hashtag/CreativeCoding?src=hash&amp;ref_src=twsrc%5Etfw">#CreativeCoding</a> <a href="https://twitter.com/hashtag/MastoArt?src=hash&amp;ref_src=twsrc%5Etfw">#MastoArt</a> <br><br>The code to create cubescapes is in this repo:<a href="https://t.co/YY14lox0LV">https://t.co/YY14lox0LV</a> <a href="https://t.co/4V7RtpDLhA">pic.twitter.com/4V7RtpDLhA</a></p>&mdash; @paezha@mastodon.online (@paezha) <a href="https://twitter.com/paezha/status/1597942375858536453?ref_src=twsrc%5Etfw">November 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Heads Will Roll 01. Created in R with GGPLOT2. I&#39;ve been iterating on this collection for nine months now. One million grid points, more than 3,000 shapes, and one burned out Mac laptop. <a href="https://twitter.com/hashtag/genartiveart?src=hash&amp;ref_src=twsrc%5Etfw">#genartiveart</a> <a href="https://twitter.com/hashtag/genartclub?src=hash&amp;ref_src=twsrc%5Etfw">#genartclub</a> <a href="https://twitter.com/hashtag/wip?src=hash&amp;ref_src=twsrc%5Etfw">#wip</a> <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://twitter.com/hashtag/nft?src=hash&amp;ref_src=twsrc%5Etfw">#nft</a> <a href="https://twitter.com/hashtag/creativecoding?src=hash&amp;ref_src=twsrc%5Etfw">#creativecoding</a> <a href="https://t.co/S8eBu73kLQ">pic.twitter.com/S8eBu73kLQ</a></p>&mdash; Jeff Sheremata (@J2_GEN) <a href="https://twitter.com/J2_GEN/status/1595825534113841152?ref_src=twsrc%5Etfw">November 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###  Quotes of the Week
 
