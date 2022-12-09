@@ -1,13 +1,14 @@
-// For format details, see https://aka.ms/vscode-remote/devcontainer.json or this file's README at:
-// https://github.com/microsoft/vscode-dev-containers/tree/v0.134.1/containers/r
 {
-	"name": "R",
+	"name": "${localWorkspaceFolderBasename}",
 	"dockerComposeFile": "docker-compose.yml",
 	"workspaceFolder": "/workspace",
 	"service": "vscode",
 
 	"features": {
-		"fish": "latest"
+		"ghcr.io/meaningful-ooo/devcontainer-features/fish:1": {},
+		"ghcr.io/rocker-org/devcontainer-features/pandoc:latest": {},
+		"ghcr.io/guiyomh/features/vim:0": {},
+		"ghcr.io/devcontainers/features/node:1": {}
 	},
 
 	// Set *default* container specific settings.json values on container create.
@@ -29,6 +30,7 @@
 		"r.terminalPath": "/usr/local/bin/radian",
 		"r.interpreterPath": "/usr/local/bin/R",
 		"r.debugger.timeouts.startup": 8000,
+		"r.lsp.diagnostics": false,
 		"editor.wordWrap": "on",
 		"editor.tabSize": 2,
 		"path-autocomplete.pathMappings": {
@@ -42,34 +44,34 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"REditorSupport.r",
-		//"/renv/cache/r-latest.vslx",
 		"ionutvmi.path-autocomplete",
 		"usernamehw.errorlens",
 		"mhutchie.git-graph",
 		"wayou.vscode-todo-highlight",
-		"tomoki1207.pdf",
 		"DavidAnson.vscode-markdownlint",
 		"Rubymaniac.vscode-paste-and-indent",
-		"GrapeCity.gc-excelviewer",
 		"IBM.output-colorizer",
-		//"Mohamed-El-Fodil-Ihaddaden.shinysnip",
-		"hediet.vscode-drawio",
-		//"MS-vsliveshare.vsliveshare-pack",
 		"ms-python.python",
 		"RDebugger.r-debugger",
-		//"GitHub.copilot",
 		"eamodio.gitlens",
 		"GitHub.vscode-pull-request-github",
-		"quarto.quarto"
-		//"hoovercj.vscode-power-mode"
-	]
+		"quarto.quarto",
+		"redhat.vscode-yaml"
+	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "R --version",
+	//"postCreateCommand": "python3 -m pip install jupyter",
+	// I tried automating the npm reqs for running rstudio server inside the contianer
+	// but these commands do not seem to work
+	//"postCreateCommand": [
+	//  "npm install -g npm",
+	//  "npm install -g localtunnel"
+	//]
 
-	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
-	// "remoteUser": "docker"
+	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
+	//"remoteUser": "vscode"
 }
+
