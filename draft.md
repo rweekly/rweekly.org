@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [World Cup National Anthems, Emotions & Audio Features](https://6yardscreamers.netlify.app/wc_national_anthems_emotions/)
 
 ###  R in Organizations
 
@@ -51,7 +51,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{PSAWR}](https://github.com/schochastics/PSAWR): R package to interact with the Pushift.io API.
 
 ### Updated Packages
 
