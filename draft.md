@@ -55,6 +55,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [{makepipe} 0.2.1](https://cran.r-project.org/package=makepipe): Pipeline Tools Inspired by 'GNU Make' - [NEWS](https://kinto-b.github.io/makepipe/news/index.html)
+
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 ###  Videos and Podcasts
