@@ -197,10 +197,10 @@ Events in 3 Months:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">PeloShiny 🚴‍♀️<br><br>Did I take my obsession too far? Nah, no such thing... <a href="https://t.co/TEYsIVvzmm">pic.twitter.com/TEYsIVvzmm</a></p>&mdash; Tanya Shapiro (@tanya_shapiro) <a href="https://twitter.com/tanya_shapiro/status/1600856763515174912?ref_src=twsrc%5Etfw">December 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<iframe src="https://fosstodon.org/@milesmcbain/109429616098684375/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://fosstodon.org/@milesmcbain/109429616098684375/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 300px;" width="500" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="https://fosstodon.org/@jennybryan/109482218625760911/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://fosstodon.org/@jennybryan/109482218625760911/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 750px;" width="500" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="https://fosstodon.org/@smach/109481303500254536/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://fosstodon.org/@smach/109481303500254536/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 550px;" width="500" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="https://fosstodon.org/@MikeMahoney218/109478522098913436/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://fosstodon.org/@MikeMahoney218/109478522098913436/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 400px;" width="500" allowfullscreen="allowfullscreen"></iframe>
