@@ -146,7 +146,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics.
 
-R Weekly @ [Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org), [Mastodon](https://mastodon.social/@rweekly)
+R Weekly @ [Facebook](https://facebook.com/rweekly), [Twitter](https://twitter.com/rweekly_org), [Mastodon](https://fosstodon.org/@rweekly)
 
 This website uses [cookies](/privacy).
 
