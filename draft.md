@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [The tools I loved this year](https://www.mm218.dev/posts/2022-12-12-tools/)
 
 ### R in the Real World
 
