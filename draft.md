@@ -23,6 +23,8 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 + [World Cup National Anthems, Emotions & Audio Features](https://6yardscreamers.netlify.app/wc_national_anthems_emotions/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W50/plot1_final.png)
+
 + [The effect of Childhood Education on Wealth: Modeling with Bayesian Additive Regression Trees (BART)](https://datageeek.com/2022/12/08/the-effect-of-childhood-education-on-wealth-modeling-with-bayesian-additive-regression-trees-bart/)
 
 ###  R in Organizations
@@ -32,6 +34,7 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 ###  R in Academia
 
 + [Just How Good Is ChatGPT in Data Science?](https://matloff.wordpress.com/2022/12/04/just-how-good-is-chatgpt-in-data-science/)
+
 ###  Resources
 
 + [Please Avoid detectCores() in your R Packages](https://www.jottr.org/2022/12/05/avoid-detectcores/)
@@ -45,6 +48,8 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 **CRAN**
 
 + [tidyclust is on CRAN](https://www.tidyverse.org/blog/2022/12/tidyclust-0-1-0/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W50/tidyclust.png)
 
 + [{reservr} 0.0.1](https://cran.r-project.org/package=reservr): Fit Distributions and Neural Networks to Censored and Truncated
 Data
@@ -65,6 +70,8 @@ Designs
 + [{dafishr} 1.0.0](https://cran.r-project.org/package=dafishr): Download, Wrangle, and Analyse Vessel Monitoring System Data
 
 + [{lterpalettefinder} 1.0.0](https://cran.r-project.org/package=lterpalettefinder): Extract Color Palettes from Photos and Pick Official LTER Palettes
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W50/lterpallete.png)
 
 + [{bayesSurv} 3.6](https://cran.r-project.org/package=bayesSurv): Bayesian Survival Regression with Flexible Error and Random Effects Distributions
 
@@ -109,6 +116,8 @@ Designs
 
 + [{ggsurvfit} 0.2.1](https://cran.r-project.org/package=ggsurvfit): Flexible Time-to-Event Figures - [diffify](https://diffify.com/R/ggsurvfit)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W50/ggsurvfit.png)
+
 + [{admiral} 0.9.0](https://cran.r-project.org/package=admiral): ADaM in R Asset Library - [diffify](https://diffify.com/R/admiral)
 
 + [{ggpp} 0.5.0](https://cran.r-project.org/package=ggpp): Grammar Extensions to 'ggplot2' - [diffify](https://diffify.com/R/ggpp)
@@ -148,6 +157,8 @@ Designs
 
 + [Read and Visualize your Twitter Archive](https://www.garrickadenbuie.com/blog/tweet-archive-in-r/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2022/W50/tweet_archive.png)
+
 + [How to Save ggplot2 Plots in a targets Workflow?](https://ropensci.org/blog/2022/12/06/save-ggplot2-targets/)
 
 + [Select colours from an image in R with {eyedroppeR}](http://gradientdescending.com/select-colours-from-an-image-in-r-with-eyedropper/)
@@ -175,12 +186,6 @@ Events in 3 Months:
 + [Creating One Unified Calendar of all Data Science Events in the Netherlands](https://blog.rmhogervorst.nl/blog/2022/12/02/creating-one-unified-calendar-of-all-data-science-events-in-the-netherlands/)
 
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 + [Data Scientist / Research Software Engineer - The Eric and Wendy Schmidt Center at Berkeley](https://dse.berkeley.edu/jobs/data-scientist-research-software-engineer)
@@ -190,8 +195,6 @@ Events in 3 Months:
 ###  rtistry
 
 + https://art.djnavarro.net/gallery/sadists-kiss/
-
-
 
 ###  Quotes of the Week
 
