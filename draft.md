@@ -57,6 +57,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+* [progressr 0.12.0](https://progressr.futureverse.org/): An Inclusive, Unifying API for Progress Updates
+
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
