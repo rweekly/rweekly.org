@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
+* [Converting a package to use doctest](https://rpubs.com/dash2/doctest-conversion)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
