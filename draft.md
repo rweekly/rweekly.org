@@ -59,6 +59,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [progressr 0.12.0](https://progressr.futureverse.org/): An Inclusive, Unifying API for Progress Updates
 * [parallelly 1.33.0](https://parallelly.futureverse.org/): Enhancing the 'parallel' Package
+* [future.batchtools 0.11.0](https://future.batchtools.futureverse.org/): A Future API for Parallel and Distributed Processing using 'batchtools'
 * [future.callr 0.8.1](https://future.callr.futureverse.org/): A Future API for Parallel Processing using 'callr'
 
 
