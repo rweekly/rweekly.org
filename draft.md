@@ -58,6 +58,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 * [progressr 0.12.0](https://progressr.futureverse.org/): An Inclusive, Unifying API for Progress Updates
+* [parallelly 1.33.0](https://parallelly.futureverse.org/): Enhancing the 'parallel' Package
 * [future.callr 0.8.1](https://future.callr.futureverse.org/): A Future API for Parallel Processing using 'callr'
 
 
