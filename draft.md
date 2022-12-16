@@ -51,7 +51,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [{pixeltrix}](https://github.com/matt-dray/pixeltrix)
 
++ [{geojp}](https://github.com/babayoshihiko/geojp)
 
 ### Updated Packages
 
