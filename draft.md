@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [The path to {ggpath}](https://posit.co/blog/the-path-to-ggpath/)
 
 ### R in the Real World
 
@@ -62,6 +62,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+
++ [Quarto with the Quarto Team - Open Source Chat](https://www.youtube.com/watch?v=p5zrqrFqCTo)
 
 
 ### Gist & Cookbook
