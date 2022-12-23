@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Winners of the 2022 Table Contest](https://posit.co/blog/winners-of-the-2022-table-contest/)
 
 ### R in the Real World
 
