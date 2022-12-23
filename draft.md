@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Setting up macOS as an R data science rig in 2023](https://ivelasq.rbind.io/blog/macos-rig/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
