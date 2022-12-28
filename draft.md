@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
+* [MLOps: The Whole Game](https://jameshwade.com/posts/2022-12-27_mlops-the-whole-game.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
