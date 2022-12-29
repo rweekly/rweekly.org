@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Winners of the 2022 Table Contest](https://posit.co/blog/winners-of-the-2022-table-contest/)
 
 ### R in the Real World
 
@@ -76,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Setting up macOS as an R data science rig in 2023](https://ivelasq.rbind.io/blog/macos-rig/)
 
 * [MLOps: The Whole Game](https://jameshwade.com/posts/2022-12-27_mlops-the-whole-game.html)
 
