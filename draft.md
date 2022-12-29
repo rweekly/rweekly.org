@@ -78,6 +78,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Setting up macOS as an R data science rig in 2023](https://ivelasq.rbind.io/blog/macos-rig/)
 
+* [MLOps: The Whole Game](https://jameshwade.com/posts/2022-12-27_mlops-the-whole-game.html)
+
++ [Create your own sample data for learning/testing/teaching!](https://rolkra.github.io/create-data/) 
+
++ [Interactive GSEA results: visualizations with reactable & plotly](https://tomsing1.github.io/blog/posts/interactive-gene-set-results/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
