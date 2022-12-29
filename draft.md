@@ -76,6 +76,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Create your own sample data for learning/testing/teaching!](https://rolkra.github.io/create-data/) 
+
 + [Interactive GSEA results: visualizations with reactable & plotly](https://tomsing1.github.io/blog/posts/interactive-gene-set-results/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
