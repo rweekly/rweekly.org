@@ -32,6 +32,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [US Voter Turnout Rates](https://antoniosmi.myportfolio.com/voter-turnout-by-states-and-regions-1980-2020)
 
++ [Climate Data to Analyze Days by Low Temperatures](https://rmflight.github.io/posts/2022-12-27-climate-data-to-analyze-days-by-low-temperatures/)
+
 
 
 ###  R in Organizations
@@ -40,7 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
++ [Interactive GSEA results: visualizations with reactable & plotly](https://tomsing1.github.io/blog/posts/interactive-gene-set-results/)
 
 ###  Resources
 
@@ -101,6 +103,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Adding Chat GPT to RStudio](https://www.youtube.com/watch?v=QQfDTLExoNU)
 
++ [TidyX Episode 129 | Snowflake Generator](https://www.youtube.com/watch?v=IX-FX9BczTw)
+
 
 ### Gist & Cookbook
 
@@ -112,13 +116,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [plotly chart studio](https://chart-studio.plotly.com/create/#/)
 
-
++ [Kansas State Farm Management](https://agmanager.info/farm-management/machinery/days-suitable-fieldwork-all-states)
 
 ### R Internationally
 
 
 
 ###  Tutorials
+
++ [MLOps: The Whole Game](https://jameshwade.com/posts/2022-12-27_mlops-the-whole-game.html)
+
++ [How to create your own RSS reader with R](https://www.infoworld.com/article/3684068/how-to-create-your-own-rss-reader-with-r.html)
 
 + [Using Emacs for R](https://blog.rwhitedwarf.com/post/use_emacs_for_r/)
 
@@ -195,9 +203,13 @@ Events in 3 Months:
 
 ###  rtistry
 
+<iframe src="https://genart.social/@djnavarro/109576088068979488/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Sound of the Spheres<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/maths?src=hash&amp;ref_src=twsrc%5Etfw">#maths</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://t.co/DNdcxBMub9">pic.twitter.com/DNdcxBMub9</a></p>&mdash; Antonio Sánchez Chinchón (@aschinchon) <a href="https://twitter.com/aschinchon/status/1608451644198473729?ref_src=twsrc%5Etfw">December 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <iframe src="https://fosstodon.org/@meghansharris/109599836583894138/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+
+
 
 
 ###  Quotes of the Week
