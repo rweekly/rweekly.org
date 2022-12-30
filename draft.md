@@ -22,6 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Another Year of #TidyTuesday](https://nrennie.rbind.io/blog/2022-12-27-another-year-of-tidytuesday/)
 
++ [Hannukah of Data solutions in R](https://www.pmassicotte.com/posts/2022-12-28-hanukkah_of_data/)
 
 ### R in the Real World
 
@@ -30,6 +31,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Weather forecasts for 160 cities](https://github.com/speegled/weather_forecasts)
 
 + [US Voter Turnout Rates](https://antoniosmi.myportfolio.com/voter-turnout-by-states-and-regions-1980-2020)
+
+
 
 ###  R in Organizations
 
@@ -78,6 +81,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{ButterflyColors} - color palettes](https://github.com/junqueiragaabi/ButterflyColors/)
 
++ [quarto NES theme](https://github.com/EmilHvitfeldt/quarto-nes-theme)
+
 ### Updated Packages
 
 + [{purrr 1.0.0}](https://www.tidyverse.org/blog/2022/12/purrr-1-0-0/)
@@ -115,6 +120,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Using Emacs for R](https://blog.rwhitedwarf.com/post/use_emacs_for_r/)
+
 + [Intro to dplyr::accross](https://vbfelix.github.io/posts/2023-01-01-dplyr-across/)
 
 + [Quantile Regression](https://yuzar-blog.netlify.app/posts/2022-12-01-quantileregression/)
@@ -146,6 +153,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Multiple regression with {caret}](https://medium.com/@cherylisabella/multiple-regression-using-caret-e8d9debe273e)
 
 + [Encircle points with python and R](https://datavizpyr.com/encircle-data-points-in-r/)
+
++ [Roulette-wheel selection for dqrng](https://stubner.me/2022/12/roulette-wheel-selection-for-dqrng/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -188,14 +197,20 @@ Events in 3 Months:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Sound of the Spheres<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/maths?src=hash&amp;ref_src=twsrc%5Etfw">#maths</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://t.co/DNdcxBMub9">pic.twitter.com/DNdcxBMub9</a></p>&mdash; Antonio Sánchez Chinchón (@aschinchon) <a href="https://twitter.com/aschinchon/status/1608451644198473729?ref_src=twsrc%5Etfw">December 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<iframe src="https://fosstodon.org/@meghansharris/109599836583894138/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+
+
+###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/ySCsqHucyZ">pic.twitter.com/ySCsqHucyZ</a></p>&mdash; George Porter (@georgemporter) <a href="https://twitter.com/georgemporter/status/1608337248604545024?ref_src=twsrc%5Etfw">December 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe src="https://fosstodon.org/@equitable_equations/109604603468955744/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+
+Happy Holidays!
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">From the <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/phytools?src=hash&amp;ref_src=twsrc%5Etfw">#phytools</a> archive: a phylogenetic Christmas tree 🎄 (adapted from <a href="https://twitter.com/gaballench?ref_src=twsrc%5Etfw">@gaballench</a>). 👉 <a href="https://t.co/75DgXpc2Uh">https://t.co/75DgXpc2Uh</a> <a href="https://t.co/7OmEUNhLLb">pic.twitter.com/7OmEUNhLLb</a></p>&mdash; Liam Revell (@phytools_liam) <a href="https://twitter.com/phytools_liam/status/1607142119470206977?ref_src=twsrc%5Etfw">December 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of my assignments from last semester. Merry Xmas! ❄️🎄<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://t.co/GY3TFP2Uax">pic.twitter.com/GY3TFP2Uax</a></p>&mdash; Rahmi ‘Ami’ Aini (@Rahmi_QA) <a href="https://twitter.com/Rahmi_QA/status/1607172754322739203?ref_src=twsrc%5Etfw">December 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wishing you happy holidays &amp; a wonderful virus-free 2022! <br><br>3-minute Christmas Tree in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/ggplot?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot</a> 🤓 <a href="https://t.co/iiuXTLpxW1">pic.twitter.com/iiuXTLpxW1</a></p>&mdash; Melike Dönertaş (@melikedonertas) <a href="https://twitter.com/melikedonertas/status/1474349435572338692?ref_src=twsrc%5Etfw">December 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-###  Quotes of the Week
-
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/ySCsqHucyZ">pic.twitter.com/ySCsqHucyZ</a></p>&mdash; George Porter (@georgemporter) <a href="https://twitter.com/georgemporter/status/1608337248604545024?ref_src=twsrc%5Etfw">December 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
