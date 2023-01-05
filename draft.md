@@ -22,6 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
++ [Program Evaluation in the Labor Market: Linear Regression and Bayesian Additive Regression Trees](https://boiled-data.github.io/BartLabor.html)
 
 
 ###  R in Organizations
