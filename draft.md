@@ -96,6 +96,12 @@ Events in 3 Months:
 
 +[Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
++ [Jan 10-11: Introduction to R Shiny](https://www.physalia-courses.org/courses-workshops/shiny/)
+
++ [Feb 23: Making Beautiful And Effective Maps In R](https://www.prstatistics.com/course/making-beautiful-and-effective-maps-in-r-mapr04/)
+
++ [March 15-17: ShinyConf 2023](https://shinyconf.appsilon.com/registration/?utm_medium=social&utm_source=twitter&utm_campaign=register-sm)
+
 ### Grants & Funding
 
 
