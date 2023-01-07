@@ -36,9 +36,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Program Evaluation in the Labor Market: Linear Regression and Bayesian Additive Regression Trees](https://boiled-data.github.io/BartLabor.html)
 
++ [Running Around: 2022 running dataviz in R](https://quantixed.org/2023/01/02/running-around-2022-running-dataviz-in-r/)
+
++ [rOpenSci Code of Conduct Annual Review](https://ropensci.org/blog/2023/01/06/conduct2023/)
+
++ [rOpenSci 2022 Code of Conduct Transparency Report](https://ropensci.org/blog/2023/01/06/transparency2022/)
 
 ###  R in Organizations
 
++ [Inclusive Space for Bio-Data and Medical R Group in Tampa, Florida](https://www.r-consortium.org/blog/2023/01/06/inclusive-space-for-bio-data-and-medical-r-group-in-tampa-florida)
 
 
 ###  R in Academia
