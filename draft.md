@@ -46,7 +46,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [November 2022: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2023/01/03/november-2022-top-40-new-cran-packages/)
+
 + [Make your data science report a website. In 10 minutes.](https://github.com/holtzy/data_analysis_website)
+
 
 ###  New Packages
 
