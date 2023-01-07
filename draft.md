@@ -18,7 +18,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [End-to-end testing with shinytest2: Part 1](https://www.jumpingrivers.com/blog/end-to-end-testing-shinytest2-part-1/)
 
++ [Data science has a tool obsession](https://counting.substack.com/p/data-science-has-a-tool-obsession?utm_source=profile&utm_medium=reader2)
+
++ [An Upcoming Clean Progress Bar in knitr](https://yihui.org/en/2023/01/knitr-progress-bar/)
+
++ [litr: Write an R Package Entirely with an R Markdown Document](https://yihui.org/en/2023/01/litr-package/)
+
++ [Combining R and Python with {reticulate} and Quarto](https://nrennie.rbind.io/blog/combining-r-and-python-with-reticulate-and-quarto/)
+
++ [.-././--/---/.-./.../.](https://www.rostrum.blog/2023/01/06/remorse/)
+
++ [Implicit or Explicit connection object?](https://jcarroll.xyz/2023/01/06/implicit-or-explicit.html)
 
 ### R in the Real World
 
@@ -35,6 +47,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Resources
 
 + [November 2022: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2023/01/03/november-2022-top-40-new-cran-packages/)
+
++ [Make your data science report a website. In 10 minutes.](https://github.com/holtzy/data_analysis_website)
+
 
 ###  New Packages
 
@@ -61,6 +76,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [Rich Iannone | What's new and exciting in gt 0.8.0 | Posit](https://www.youtube.com/watch?v=5bVVX7mzOk8)
+
++ [Tyler Morgan-Wall - Building an Entire City in R: Interactive 3D Data Visualization with Rayrender](https://www.youtube.com/watch?v=8NV5MxcaWR4)
 
 ### Gist & Cookbook
 
@@ -76,7 +94,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [New Features and Serious Upgrades in {gt} 0.8.0](https://posit.co/blog/new-features-upgrades-in-gt-0-8-0/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -113,6 +131,10 @@ Events in 3 Months:
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ###  rtistry
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cross-post for <a href="https://twitter.com/hashtag/MapPromptMonday?src=hash&amp;ref_src=twsrc%5Etfw">#MapPromptMonday</a> and <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a>. Leading cause of death by European NUTS 2 regions, trying out the eurostat R package for getting the data.<br><br>code: <a href="https://t.co/wmpVCKlDLg">https://t.co/wmpVCKlDLg</a><a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/S63vJPwRg7">pic.twitter.com/S63vJPwRg7</a></p>&mdash; Georgios Karamanis (@geokaramanis) <a href="https://twitter.com/geokaramanis/status/1611052804109635584?ref_src=twsrc%5Etfw">January 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cross-post for <a href="https://twitter.com/hashtag/MapPromptMonday?src=hash&amp;ref_src=twsrc%5Etfw">#MapPromptMonday</a> and <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a>. Leading cause of death by European NUTS 2 regions, trying out the eurostat R package for getting the data.<br><br>code: <a href="https://t.co/wmpVCKlDLg">https://t.co/wmpVCKlDLg</a><a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/S63vJPwRg7">pic.twitter.com/S63vJPwRg7</a></p>&mdash; Georgios Karamanis (@geokaramanis) <a href="https://twitter.com/geokaramanis/status/1611052804109635584?ref_src=twsrc%5Etfw">January 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ###  Quotes of the Week
