@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Implicit or Explicit connection object?](https://jcarroll.xyz/2023/01/06/implicit-or-explicit.html)
 
 ### R in the Real World
 
@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [Make your data science report a website. In 10 minutes.](https://github.com/holtzy/data_analysis_website)
 
 ###  New Packages
 
@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [New Features and Serious Upgrades in {gt} 0.8.0](https://posit.co/blog/new-features-upgrades-in-gt-0-8-0/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
