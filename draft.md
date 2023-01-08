@@ -103,6 +103,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [New Features and Serious Upgrades in {gt} 0.8.0](https://posit.co/blog/new-features-upgrades-in-gt-0-8-0/)
 
++ [Fine-tuning Tesseract’s OCR (with some help from R)](https://arcruz0.github.io/posts/finetuning-tess/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
