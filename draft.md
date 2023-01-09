@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2022-W01
+title: R Weekly 2022-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -8,57 +8,32 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with help from the R Weekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
 
 
 ###  Highlight
 
-+ [An Upcoming Clean Progress Bar in knitr](https://yihui.org/en/2023/01/knitr-progress-bar/)
 
-+ [litr: Write an R Package Entirely with an R Markdown Document](https://yihui.org/en/2023/01/litr-package/)
-
-+ [.-././--/---/.-./.../.](https://www.rostrum.blog/2023/01/06/remorse/)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2023/W01/morse_600.png)
 
 ### Insights
 
-+ [End-to-end testing with shinytest2: Part 1](https://www.jumpingrivers.com/blog/end-to-end-testing-shinytest2-part-1/)
 
-+ [An Upcoming Clean Progress Bar in knitr](https://yihui.org/en/2023/01/knitr-progress-bar/)
-
-+ [litr: Write an R Package Entirely with an R Markdown Document](https://yihui.org/en/2023/01/litr-package/)
-
-+ [Combining R and Python with {reticulate} and Quarto](https://nrennie.rbind.io/blog/combining-r-and-python-with-reticulate-and-quarto/)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2023/W01/and_600.jpg)
-
-+ [.-././--/---/.-./.../.](https://www.rostrum.blog/2023/01/06/remorse/)
 
 ### R in the Real World
 
-+ [Program Evaluation in the Labor Market: Linear Regression and Bayesian Additive Regression Trees](https://boiled-data.github.io/BartLabor.html)
 
-+ [Running Around: 2022 running dataviz in R](https://quantixed.org/2023/01/02/running-around-2022-running-dataviz-in-r/)
-
-+ [rOpenSci Code of Conduct Annual Review](https://ropensci.org/blog/2023/01/06/conduct2023/)
-
-+ [rOpenSci 2022 Code of Conduct Transparency Report](https://ropensci.org/blog/2023/01/06/transparency2022/)
 
 ###  R in Organizations
 
-+ [Inclusive Space for Bio-Data and Medical R Group in Tampa, Florida](https://www.r-consortium.org/blog/2023/01/06/inclusive-space-for-bio-data-and-medical-r-group-in-tampa-florida)
+
 
 ###  R in Academia
 
-+ [Escaping the Malthusian Trap](https://kieranhealy.org/blog/archives/2023/01/08/escaping-the-malthusian-trap/)
+
 
 ###  Resources
 
-+ [November 2022: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2023/01/03/november-2022-top-40-new-cran-packages/)
-
-+ [Make your data science report a website. In 10 minutes.](https://github.com/holtzy/data_analysis_website)
 
 
 ###  New Packages
@@ -68,74 +43,47 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 
 **CRAN**
 
-+ [{ModelMap} 3.4.0.3](https://cran.r-project.org/package=ModelMap): Modeling and Map Production using Random Forest and Related Stochastic Models
-+ [{packagefinder} 0.3.4](https://cran.r-project.org/package=packagefinder): Comfortable Search for R Packages on CRAN, Either Directly from the R Console or with an R Studio Add-in
-![](https://raw.githubusercontent.com/rweekly/image/master/2023/W01/packagefinder_600.png)
-+ [{mdsr} 0.2.7](https://cran.r-project.org/package=mdsr): Complement to 'Modern Data Science with R'
-+ [{pastclim} 1.2.3](https://cran.r-project.org/package=pastclim): Manipulate Time Series of Palaeoclimate Reconstructions
-+ [{obcost} 0.1.0](https://cran.r-project.org/package=obcost): Obesity Cost Database
+
+
+**Bioconductor**
+
+
+
+**GitHub or Bitbucket**
+
 
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{ECOTOXr} 1.0.1](https://cran.r-project.org/package=ECOTOXr): Download and Extract Data from US EPAs ECOTOX Database - [diffify](https://diffify.com/R/ECOTOXr)
-+ [{unnest} 0.0.4](https://cran.r-project.org/package=unnest): Unnest Hierarchical Data Structures - [diffify](https://diffify.com/R/unnest)
-+ [{shinyWidgets} 0.7.6](https://cran.r-project.org/package=shinyWidgets): Custom Inputs Widgets for Shiny - [diffify](https://diffify.com/R/shinyWidgets)
-+ [{gfonts} 0.2.0](https://cran.r-project.org/package=gfonts): Offline 'Google' Fonts for 'Markdown' and 'Shiny' - [diffify](https://diffify.com/R/gfonts)
-+ [{comperes} 0.2.6](https://cran.r-project.org/package=comperes): Manage Competition Results - [diffify](https://diffify.com/R/comperes)
-+ [{billboarder} 0.4.0](https://cran.r-project.org/package=billboarder): Create Interactive Chart with the JavaScript 'Billboard' Library - [diffify](https://diffify.com/R/billboarder)
-+ [{apexcharter} 0.4.0](https://cran.r-project.org/package=apexcharter): Create Interactive Chart with the JavaScript 'ApexCharts' Library - [diffify](https://diffify.com/R/apexcharter)
-+ [{precrec} 0.14.1](https://cran.r-project.org/package=precrec): Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves - [diffify](https://diffify.com/R/precrec)
-+ [{simpr} 0.2.3](https://cran.r-project.org/package=simpr): Flexible 'Tidyverse'-Friendly Simulations - [diffify](https://diffify.com/R/simpr)
-+ [{tidytext} 0.4.1](https://cran.r-project.org/package=tidytext): Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools - [diffify](https://diffify.com/R/tidytext)
-+ [{reticulate} 1.27](https://cran.r-project.org/package=reticulate): Interface to 'Python' - [diffify](https://diffify.com/R/reticulate)
-+ [{r2symbols} 1.3](https://cran.r-project.org/package=r2symbols): Symbols for 'Markdown' and 'Shiny' Application - [diffify](https://diffify.com/R/r2symbols)
-+ [{rvg} 0.3.2](https://cran.r-project.org/package=rvg): R Graphics Devices for 'Office' Vector Graphics Output - [diffify](https://diffify.com/R/rvg)
-+ [{reactable} 0.4.3](https://cran.r-project.org/package=reactable): Interactive Data Tables for R - [diffify](https://diffify.com/R/reactable)
-+ [{mongolite} 2.7.1](https://cran.r-project.org/package=mongolite): Fast and Simple 'MongoDB' Client for R - [diffify](https://diffify.com/R/mongolite)
-+ [{rgl} 0.111.6](https://cran.r-project.org/package=rgl): 3D Visualization Using OpenGL - [diffify](https://diffify.com/R/rgl)
-+ [{brinton} 0.2.7](https://cran.r-project.org/package=brinton): A Graphical EDA Tool - [diffify](https://diffify.com/R/brinton)
-+ [{sasLM} 0.9.4](https://cran.r-project.org/package=sasLM): 'SAS' Linear Model - [diffify](https://diffify.com/R/sasLM)
-+ [{geostats} 1.6](https://cran.r-project.org/package=geostats): An Introduction to Statistics for Geoscientists - [diffify](https://diffify.com/R/geostats)
-+ [{blastula} 0.3.3](https://cran.r-project.org/package=blastula): Easily Send HTML Email Messages - [diffify](https://diffify.com/R/blastula)
-+ [{htmlwidgets} 1.6.1](https://cran.r-project.org/package=htmlwidgets): HTML Widgets for R - [diffify](https://diffify.com/R/htmlwidgets)
-+ [{tidyjson} 0.3.2](https://cran.r-project.org/package=tidyjson): Tidy Complex 'JSON' - [diffify](https://diffify.com/R/tidyjson)
-+ [{ehelp} 1.2.1](https://cran.r-project.org/package=ehelp): Enhanced Help to Enable "Docstring"-Comments in Users Functions - [diffify](https://diffify.com/R/ehelp)
-+ [{writexl} 1.4.2](https://cran.r-project.org/package=writexl): Export Data Frames to Excel 'xlsx' Format - [diffify](https://diffify.com/R/writexl)
-+ [{tarchetypes} 0.7.4](https://cran.r-project.org/package=tarchetypes): Archetypes for Targets - [diffify](https://diffify.com/R/tarchetypes)
-+ [{officedown} 0.3.0](https://cran.r-project.org/package=officedown): Enhanced 'R Markdown' Format for 'Word' and 'PowerPoint' - [diffify](https://diffify.com/R/officedown)
-+ [{targets} 0.14.2](https://cran.r-project.org/package=targets): Dynamic Function-Oriented 'Make'-Like Declarative Pipelines - [diffify](https://diffify.com/R/targets)
-+ [{jagstargets} 1.1.0](https://cran.r-project.org/package=jagstargets): Targets for JAGS Pipelines - [diffify](https://diffify.com/R/jagstargets)
-+ [{openair} 2.13](https://cran.r-project.org/package=openair): Tools for the Analysis of Air Pollution Data - [diffify](https://diffify.com/R/openair)
-+ [{clinUtils} 0.1.4](https://cran.r-project.org/package=clinUtils): General Utility Functions for Analysis of Clinical Data - [diffify](https://diffify.com/R/clinUtils)
-+ [{officer} 0.5.1](https://cran.r-project.org/package=officer): Manipulation of Microsoft Word and PowerPoint Documents - [diffify](https://diffify.com/R/officer)
-+ [{nflreadr} 1.3.2](https://cran.r-project.org/package=nflreadr): Download 'nflverse' Data - [diffify](https://diffify.com/R/nflreadr)
-
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-+ [Rich Iannone | What's new and exciting in gt 0.8.0 | Posit](https://www.youtube.com/watch?v=5bVVX7mzOk8)
 
-+ [Tyler Morgan-Wall - Building an Entire City in R: Interactive 3D Data Visualization with Rayrender](https://www.youtube.com/watch?v=8NV5MxcaWR4)
+### Gist & Cookbook
+
+
+
+### Shiny Apps
+
+
+
+### R Internationally
+
+
 
 ###  Tutorials
 
-+ [New Features and Serious Upgrades in {gt} 0.8.0](https://posit.co/blog/new-features-upgrades-in-gt-0-8-0/)
 
-+ [Fine-tuning Tesseract’s OCR (with some help from R)](https://arcruz0.github.io/posts/finetuning-tess/)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2023/W01/Tesseract_OCR_animation.gif)
-
-+ [shiny.benchmark - How to Measure Performance Improvements in R Shiny Apps](https://appsilon.com/shiny-benchmark-measuring-app-performance/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
 
 ###  Upcoming Events in 3 Months
 
@@ -148,13 +96,15 @@ Events in 3 Months:
 
 +[Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-+ [Jan 10-11: Introduction to R Shiny](https://www.physalia-courses.org/courses-workshops/shiny/)
-
-+ [Jan 11: Roche: Shifting to an Open-source Backbone in Clinical Trials](https://posit.co/blog/roche-shifting-to-an-open-source-backbone-in-clinical-trials/)
-
 + [Feb 23: Making Beautiful And Effective Maps In R](https://www.prstatistics.com/course/making-beautiful-and-effective-maps-in-r-mapr04/)
 
 + [March 15-17: ShinyConf 2023](https://shinyconf.appsilon.com/registration/?utm_medium=social&utm_source=twitter&utm_campaign=register-sm)
+
+### Grants & Funding
+
+
+### Datasets
+
 
 ### Jobs
 
@@ -162,11 +112,5 @@ Events in 3 Months:
 
 ###  rtistry
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cross-post for <a href="https://twitter.com/hashtag/MapPromptMonday?src=hash&amp;ref_src=twsrc%5Etfw">#MapPromptMonday</a> and <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a>. Leading cause of death by European NUTS 2 regions, trying out the eurostat R package for getting the data.<br><br>code: <a href="https://t.co/wmpVCKlDLg">https://t.co/wmpVCKlDLg</a><a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/S63vJPwRg7">pic.twitter.com/S63vJPwRg7</a></p>&mdash; Georgios Karamanis (@geokaramanis) <a href="https://twitter.com/geokaramanis/status/1611052804109635584?ref_src=twsrc%5Etfw">January 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cross-post for <a href="https://twitter.com/hashtag/MapPromptMonday?src=hash&amp;ref_src=twsrc%5Etfw">#MapPromptMonday</a> and <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a>. Leading cause of death by European NUTS 2 regions, trying out the eurostat R package for getting the data.<br><br>code: <a href="https://t.co/wmpVCKlDLg">https://t.co/wmpVCKlDLg</a><a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/S63vJPwRg7">pic.twitter.com/S63vJPwRg7</a></p>&mdash; Georgios Karamanis (@geokaramanis) <a href="https://twitter.com/geokaramanis/status/1611052804109635584?ref_src=twsrc%5Etfw">January 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ###  Quotes of the Week
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">PSA: If you&#39;re an R user and rely on MRAN for reproducibility, you should know MRAN is getting shutdown. You might want to start migrating to the <a href="https://twitter.com/posit_pbc?ref_src=twsrc%5Etfw">@posit_pbc</a> package manager which also allows you to use packages as of a specific date like MRAN<a href="https://t.co/QjNGGNuRx5">https://t.co/QjNGGNuRx5</a></p>&mdash; Bruno Rodrigues (@brodriguesco@fosstodon.org) (@brodriguesco) <a href="https://twitter.com/brodriguesco/status/1611714782653988865?ref_src=twsrc%5Etfw">January 7, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
