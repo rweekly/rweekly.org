@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2022-W02
+title: R Weekly 2022-W01
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -20,6 +20,8 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 
 + [.-././--/---/.-./.../.](https://www.rostrum.blog/2023/01/06/remorse/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W01/morse_600.png)
+
 ### Insights
 
 + [End-to-end testing with shinytest2: Part 1](https://www.jumpingrivers.com/blog/end-to-end-testing-shinytest2-part-1/)
@@ -29,6 +31,8 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 + [litr: Write an R Package Entirely with an R Markdown Document](https://yihui.org/en/2023/01/litr-package/)
 
 + [Combining R and Python with {reticulate} and Quarto](https://nrennie.rbind.io/blog/combining-r-and-python-with-reticulate-and-quarto/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W01/and_600.jpg)
 
 + [.-././--/---/.-./.../.](https://www.rostrum.blog/2023/01/06/remorse/)
 
@@ -65,8 +69,8 @@ This week’s release was curated by [Sam Parmar](www.github.com/parmsam), with 
 **CRAN**
 
 + [{ModelMap} 3.4.0.3](https://cran.r-project.org/package=ModelMap): Modeling and Map Production using Random Forest and Related Stochastic Models
-+ [{packagefinder} 0.3.4](https://cran.r-project.org/package=packagefinder): Comfortable Search for R Packages on CRAN, Either Directly from
-the R Console or with an R Studio Add-in
++ [{packagefinder} 0.3.4](https://cran.r-project.org/package=packagefinder): Comfortable Search for R Packages on CRAN, Either Directly from the R Console or with an R Studio Add-in
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W01/packagefinder_600.png)
 + [{mdsr} 0.2.7](https://cran.r-project.org/package=mdsr): Complement to 'Modern Data Science with R'
 + [{pastclim} 1.2.3](https://cran.r-project.org/package=pastclim): Manipulate Time Series of Palaeoclimate Reconstructions
 + [{obcost} 0.1.0](https://cran.r-project.org/package=obcost): Obesity Cost Database
@@ -122,6 +126,10 @@ the R Console or with an R Studio Add-in
 + [New Features and Serious Upgrades in {gt} 0.8.0](https://posit.co/blog/new-features-upgrades-in-gt-0-8-0/)
 
 + [Fine-tuning Tesseract’s OCR (with some help from R)](https://arcruz0.github.io/posts/finetuning-tess/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W01/Tesseract_OCR_animation.gif)
+
++ [shiny.benchmark - How to Measure Performance Improvements in R Shiny Apps](https://appsilon.com/shiny-benchmark-measuring-app-performance/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
