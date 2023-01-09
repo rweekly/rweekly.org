@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
+* [SQL and noSQL approaches to creating & querying databases](https://tomsing1.github.io/blog/posts/geneset-sqlite-db/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
