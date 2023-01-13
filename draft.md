@@ -21,7 +21,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### R in the Real World
-
+* [Deploying R with kubernetes](https://blog.djnavarro.net/posts/2023-01-10_kubernetes/)
 
 
 ###  R in Organizations
