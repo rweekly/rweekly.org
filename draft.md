@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+* [progressr 0.13.0: cli + progressr = ♥](https://www.jottr.org/2023/01/10/progressr-0.13.0/)
 
 
 ### R in the Real World
@@ -56,6 +57,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
+* [progressr 0.13.0](https://progressr.futureverse.org/): An Inclusive, Unifying API for Progress Updates
+
 
 ###  Videos and Podcasts
 
