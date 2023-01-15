@@ -38,10 +38,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Expanding our Community through Multilingual Publishing](https://ropensci.org/blog/2023/01/12/multilingual-publishing-en/)
 
-+ [rOpenSci Code of Conduct Annual Review](https://ropensci.org/blog/2023/01/06/conduct2023/)
-
-+ [rOpenSci 2022 Code of Conduct Transparency Report](https://ropensci.org/blog/2023/01/06/transparency2022/)
-
 + [How a UseR! 2014 Experience Led to the Development of a 1,700-member R Community in Budapest](https://www.r-consortium.org/blog/2023/01/11/how-a-user-2014-experience-led-to-development-of-r-community-in-budapest)
 
 ###  R in Academia
@@ -50,7 +46,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [R Crash Course for Biologists](https://github.com/ColauttiLab/RCrashCourse_Book)
 
++ [Statistical Programming Paradigms and Workflows (BSPH 140.840)](https://www.stephaniehicks.com/jhustatcomputing2022/schedule)
 
 ###  New Packages
 
@@ -67,7 +65,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [whatarelief](https://github.com/hypertidy/whatarelief)
 
 ### Updated Packages
 
