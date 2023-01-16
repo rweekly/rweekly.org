@@ -186,6 +186,7 @@ Transcriptomics Data - [diffify](https://diffify.com/R/SCpubr)
 
 + [git and GitHub in R for the casual user](https://masalmon.eu/2023/01/12/git-github-casual/)
 
++ [How to download Kobotoolbox data in R](https://blog.asitavsen.com/post/how-to-download-kobotoolbox-data-in-r/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
