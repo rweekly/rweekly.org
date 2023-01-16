@@ -32,6 +32,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Asia Against Dollar: Forecasting with Modeltime](https://datageeek.com/2023/01/12/dollar-against-asia/)
 
++ [Where should my family meet?](https://www.etiennebacher.com/posts/2023-01-14-where-should-my-family-meet/)
+
 
 
 ###  R in Organizations
