@@ -21,10 +21,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [progressr 0.13.0: cli + progressr = ♥](https://www.jottr.org/2023/01/10/progressr-0.13.0/)
 
-
-
 + [One Fewer Dependency of knitr](https://yihui.org/en/2023/01/knitr-stringr/)
-
 
 
 ### R in the Real World
@@ -106,18 +103,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
-
 ###  Tutorials
 
 * [SQL and noSQL approaches to creating & querying databases](https://tomsing1.github.io/blog/posts/geneset-sqlite-db/)
@@ -155,17 +140,13 @@ Events in 3 Months:
 + [SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london/)
 
 
-### Grants & Funding
-
-
-### Datasets
-
-
-### Jobs
-
-<i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
-
 ###  rtistry
 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">library(tidyverse)<br>seq(from=-10, to=10, by = 0.05) %&gt;%<br>expand.grid(x=., y=.) %&gt;%<br>ggplot(aes(x=(x+pi*sin(y)), y=(y+pi*sin(x)))) +<br>geom_point(alpha=.1, shape=20, size=1, color=&quot;black&quot;)+<br>theme_void()<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/maths?src=hash&amp;ref_src=twsrc%5Etfw">#maths</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://t.co/Iq4bSeNAD4">pic.twitter.com/Iq4bSeNAD4</a></p>&mdash; Antonio Sánchez Chinchón (@aschinchon) <a href="https://twitter.com/aschinchon/status/1614707026415820800?ref_src=twsrc%5Etfw">January 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fun yet cruel <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/R?src=hash&amp;ref_src=twsrc%5Etfw">#R</a> <a href="https://t.co/zei1hsfp4f">pic.twitter.com/zei1hsfp4f</a></p>&mdash; Racha (@Racha_R_G) <a href="https://twitter.com/Racha_R_G/status/1615077858908557313?ref_src=twsrc%5Etfw">January 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A good number of requests for a population density map of Pakistan so here&#39;s one! <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/4LXBiKL7nm">pic.twitter.com/4LXBiKL7nm</a></p>&mdash; terence fosstodon (@researchremora) <a href="https://twitter.com/researchremora/status/1613719722456977410?ref_src=twsrc%5Etfw">January 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
