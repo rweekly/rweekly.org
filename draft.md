@@ -13,19 +13,27 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
++ [End-to-end testing with shinytest2 Part 2](https://www.jumpingrivers.com/blog/end-to-end-testing-shinytest2-part-2/)
 
++ [MRAN is getting shutdown - what else is there for reproducibility with R, or why reproducibility is on a continuum?](https://www.brodrigues.co/blog/2023-01-12-repro_r/)
 
 ### Insights
 
 * [progressr 0.13.0: cli + progressr = ♥](https://www.jottr.org/2023/01/10/progressr-0.13.0/)
 
+
+
 + [One Fewer Dependency of knitr](https://yihui.org/en/2023/01/knitr-stringr/)
+
 
 
 ### R in the Real World
 * [Deploying R with kubernetes](https://blog.djnavarro.net/posts/2023-01-10_kubernetes/)
 
+![generative art system written in R with ggplot2 for kubernetes Jobs](https://user-images.githubusercontent.com/53487593/212761770-59d73bf8-8207-4f8d-b19b-14a40ae4c33b.png)
+
 + [MRAN is getting shutdown - what else is there for reproducibility with R, or why reproducibility is on a continuum?](https://www.brodrigues.co/blog/2023-01-12-repro_r/)
+
 + [RTutor: Public Infrastructure Spending and Voting Behaviour](http://skranz.github.io//r/2023/01/10/RTutor-PublicSpendingVoting.html)
 
 + [The Falling of ARK Innovation ETF: Forecasting with Boosted ARIMA Regression Model](https://datageeek.com/2023/01/13/the-falling-of-ark-innovation-etf-forecasting-with-boosted-arima-regression-model/)
@@ -34,6 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Where should my family meet?](https://www.etiennebacher.com/posts/2023-01-14-where-should-my-family-meet/)
 
+![an image for all the globe, 3D](https://user-images.githubusercontent.com/53487593/212760388-18e537cd-8792-42b7-93f6-52ce6913455d.png)
 
 
 ###  R in Organizations
