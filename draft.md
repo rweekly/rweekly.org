@@ -48,9 +48,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How a UseR! 2014 Experience Led to the Development of a 1,700-member R Community in Budapest](https://www.r-consortium.org/blog/2023/01/11/how-a-user-2014-experience-led-to-development-of-r-community-in-budapest)
 
-###  R in Academia
-
-
 
 ###  Resources
 
@@ -65,11 +62,40 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{symphony} 0.1.0](https://cran.r-project.org/package=symphony): Efficient and Precise Single-Cell Reference Atlas Mapping
 
++ [{chatgpt} 0.1.4](https://cran.r-project.org/package=chatgpt): Interface to 'ChatGPT' from R
++ 
++ [{autoGO} 0.9](https://cran.r-project.org/package=autoGO): Auto-GO: Reproducible, Robust and High Quality Ontology
+Enrichment Visualizations
 
-**Bioconductor**
++ [{usedthese} 0.1.0](https://cran.r-project.org/package=usedthese): Summarises Package & Function Usage
 
++ [{scenes} 0.1.0](https://cran.r-project.org/package=scenes): Switch Between Alternative 'shiny' UIs
 
++ [{loadeR} 1.1.1](https://cran.r-project.org/package=loadeR): Load Data for Analysis System
+
++ [{roxytest} 0.0.2](https://cran.r-project.org/package=roxytest): Various Tests with 'roxygen2'
+ 
++ [{pkgmaker} 0.32.7](https://cran.r-project.org/package=pkgmaker): Development Utilities for R Packages
+
++ [{timeLineGraphics} 1.0](https://cran.r-project.org/package=timeLineGraphics): HTML with Horizontal Strips Symbolizing Events in a Person's
+Life
+
++ [{plantTracker} 1.0.1](https://cran.r-project.org/package=plantTracker): Extract Demographic and Competition Data from Fine-Scale Maps
+
++ [{zoomr} 0.1.1](https://cran.r-project.org/package=zoomr): Connect to Your 'Zoom' Data
+
++ [{scROSHI} 1.0.0.0](https://cran.r-project.org/package=scROSHI): Robust Supervised Hierarchical Identification of Single Cells
+
++ [{options} 0.0.1](https://cran.r-project.org/package=options): Simple, Consistent Package Options
+
++ [{paramGUI} 2.2.0](https://cran.r-project.org/package=paramGUI): A Shiny GUI for some Parameter Estimation Examples
+
++ [{packagefinder} 0.3.4](https://cran.r-project.org/package=packagefinder): Comfortable Search for R Packages on CRAN, Either Directly from
+the R Console or with an R Studio Add-in
+
++ [{mdsr} 0.2.7](https://cran.r-project.org/package=mdsr): Complement to 'Modern Data Science with R'
 
 **GitHub or Bitbucket**
 
@@ -79,23 +105,72 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [RApiDatetime 0.0.8 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2023/01/14#rapidatetime_0.0.8)
++ [{reproducer} 0.5.0](https://cran.r-project.org/package=reproducer): Reproduce Statistical Analyses and Meta-Analyses - [diffify](https://diffify.com/R/reproducer)
 
-+ [RcppGSL 0.3.13 on CRAN: Mandated Update](http://dirk.eddelbuettel.com/blog/2023/01/12#rcppgsl_0.3.13)
++ [{biomod2} 4.2-2](https://cran.r-project.org/package=biomod2): Ensemble Platform for Species Distribution Modeling - [diffify](https://diffify.com/R/biomod2)
 
-+ [RDieHarder 0.2.5 on CRAN: Mandated Update](http://dirk.eddelbuettel.com/blog/2023/01/12#rdieharder_0.2.5)
++ [{starry} 0.1.2](https://cran.r-project.org/package=starry): Explore Data with Plots and Tables - [diffify](https://diffify.com/R/starry)
 
-+ [linl 0.0.5 on CRAN: Extended Background Support](http://dirk.eddelbuettel.com/blog/2023/01/11#linl_0.0.5)
++ [{spsurvey} 5.4.1](https://cran.r-project.org/package=spsurvey): Spatial Sampling Design and Analysis - [diffify](https://diffify.com/R/spsurvey)
 
-+ [qlcal 0.0.4 on CRAN: Extended and Updated](http://dirk.eddelbuettel.com/blog/2023/01/11#qlcal-r_0.0.4)
++ [{mikropml} 1.5.0](https://cran.r-project.org/package=mikropml): User-Friendly R Package for Supervised Machine Learning
+Pipelines - [diffify](https://diffify.com/R/mikropml)
 
-+ [RcppTOML 0.2.0: TOML 1.0.0 rewrite with toml++](http://dirk.eddelbuettel.com/blog/2023/01/10#rcpptoml_0.2.0)
++ [{landsepi} 1.2.4](https://cran.r-project.org/package=landsepi): Landscape Epidemiology and Evolution - [diffify](https://diffify.com/R/landsepi)
 
-+ [curl 5.0.0: massive concurrent downloads and HTTP/2](https://ropensci.org/blog/2023/01/13/curl5-release/)
++ [{FAIRmaterials} 0.2.0](https://cran.r-project.org/package=FAIRmaterials): Make Materials Data FAIR - [diffify](https://diffify.com/R/FAIRmaterials)
 
-* [progressr 0.13.0](https://progressr.futureverse.org/): An Inclusive, Unifying API for Progress Updates
++ [{dbplyr} 2.3.0](https://cran.r-project.org/package=dbplyr): A 'dplyr' Back End for Databases - [diffify](https://diffify.com/R/dbplyr)
 
-* [parallelly 1.34.0](https://parallelly.futureverse.org/): Enhancing the 'parallel' Package
++ [{anipaths} 0.10.2](https://cran.r-project.org/package=anipaths): Animation of Multiple Trajectories with Uncertainty - [diffify](https://diffify.com/R/anipaths)
+
++ [{DiceView} 2.1-0](https://cran.r-project.org/package=DiceView): Methods for Visualization of Computer Experiments Design and
+Surrogate - [diffify](https://diffify.com/R/DiceView)
+
++ [{ngramr} 1.9.3](https://cran.r-project.org/package=ngramr): Retrieve and Plot Google n-Gram Data - [diffify](https://diffify.com/R/ngramr)
+
++ [{geomorph} 4.0.5](https://cran.r-project.org/package=geomorph): Geometric Morphometric Analyses of 2D and 3D Landmark Data - [diffify](https://diffify.com/R/geomorph)
+
++ [{shiny.i18n} 0.3.0](https://cran.r-project.org/package=shiny.i18n): Shiny Applications Internationalization - [diffify](https://diffify.com/R/shiny.i18n)
+
++ [{doRNG} 1.8.6](https://cran.r-project.org/package=doRNG): Generic Reproducible Parallel Backend for 'foreach' Loops - [diffify](https://diffify.com/R/doRNG)
+
++ [{this.path} 1.2.0](https://cran.r-project.org/package=this.path): Get Executing Script's Path, from 'Rgui', 'RStudio', 'VSCode',
+'source()', and 'Rscript' (Shells Including Windows Command Line / / Unix Terminal) - [diffify](https://diffify.com/R/this.path)
+
++ [{schtools} 0.4.0](https://cran.r-project.org/package=schtools): Schloss Lab Tools for Reproducible Microbiome Research - [diffify](https://diffify.com/R/schtools)
+
++ [{mlflow} 2.1.1](https://cran.r-project.org/package=mlflow): Interface to 'MLflow' - [diffify](https://diffify.com/R/mlflow)
+
++ [{pak} 0.4.0](https://cran.r-project.org/package=pak): Another Approach to Package Installation - [diffify](https://diffify.com/R/pak)
+
++ [{dataverse} 0.3.12](https://cran.r-project.org/package=dataverse): Client for Dataverse 4+ Repositories - [diffify](https://diffify.com/R/dataverse)
+
++ [{edeaR} 0.9.2](https://cran.r-project.org/package=edeaR): Exploratory and Descriptive Event-Based Data Analysis - [diffify](https://diffify.com/R/edeaR)
+
++ [{gdtools} 0.3.0](https://cran.r-project.org/package=gdtools): Utilities for Graphical Rendering and Fonts Management - [diffify](https://diffify.com/R/gdtools)
+
++ [{ggspectra} 0.3.10](https://cran.r-project.org/package=ggspectra): Extensions to 'ggplot2' for Radiation Spectra - [diffify](https://diffify.com/R/ggspectra)
+
++ [{collapse} 1.9.0](https://cran.r-project.org/package=collapse): Advanced and Fast Data Transformation - [diffify](https://diffify.com/R/collapse)
+
++ [{r2resize} 1.4](https://cran.r-project.org/package=r2resize): In-Text Expandable and Resizable Containers, Images and Data
+Tables in 'Shiny', 'Markdown' and 'Quarto' Documents - [diffify](https://diffify.com/R/r2resize)
+
++ [{styler} 1.9.0](https://cran.r-project.org/package=styler): Non-Invasive Pretty Printing of R Code - [diffify](https://diffify.com/R/styler)
+
++ [{tidyquery} 0.2.4](https://cran.r-project.org/package=tidyquery): Query 'R' Data Frames with 'SQL' - [diffify](https://diffify.com/R/tidyquery)
+
++ [{explore} 1.0.2](https://cran.r-project.org/package=explore): Simplifies Exploratory Data Analysis - [diffify](https://diffify.com/R/explore)
+
++ [{SCpubr} 1.1.1](https://cran.r-project.org/package=SCpubr): Generate Publication Ready Visualizations of Single Cell
+Transcriptomics Data - [diffify](https://diffify.com/R/SCpubr)
+
++ [{RNAsmc} 0.8.0](https://cran.r-project.org/package=RNAsmc): RNA Secondary Structure Module Mining, Comparison and Plotting - [diffify](https://diffify.com/R/RNAsmc)
+
++ [{KMunicate} 0.2.3](https://cran.r-project.org/package=KMunicate): KMunicate-Style Kaplan–Meier Plots - [diffify](https://diffify.com/R/KMunicate)
+
++ [{shapviz} 0.4.1](https://cran.r-project.org/package=shapviz): SHAP Visualizations - [diffify](https://diffify.com/R/shapviz)
 
 
 ###  Videos and Podcasts
@@ -110,7 +185,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [End-to-end testing with shinytest2 Part 2](https://www.jumpingrivers.com/blog/end-to-end-testing-shinytest2-part-2/)
 
 + [git and GitHub in R for the casual user](https://masalmon.eu/2023/01/12/git-github-casual/)
-
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
