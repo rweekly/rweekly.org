@@ -30,7 +30,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
+- [Chan, C. (2023) grafzahl: fine-tuning Transformers for text data from within R](https://github.com/chainsawriot/grafzahl/blob/v0.0/paper/grafzahl_sp.pdf). [Computational Communication Research (Accepted)](https://computationalcommunication.org/ccr/preprint) / [CRAN](https://cran.r-project.org/web/packages/grafzahl/index.html)
 
 ###  Resources
 
