@@ -77,6 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Tutorials
 
 
++ [How to download Kobotoolbox data in R](https://blog.asitavsen.com/post/how-to-download-kobotoolbox-data-in-r/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
