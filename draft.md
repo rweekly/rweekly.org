@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Some R Conferences for 2023](https://rviews.rstudio.com/2023/01/18/some-r-conferences-for-2023/)
 
 ### R in the Real World
 
