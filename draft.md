@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Combining Shiny and Quarto. A love story.](https://rappa.shinyapps.io/shiny_quarto/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
