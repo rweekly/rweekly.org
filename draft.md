@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Distributing R packages with a drat repository hosted on AWS S3](https://tomsing1.github.io/blog/posts/drat/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
