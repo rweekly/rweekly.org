@@ -76,7 +76,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
+
 + [Combining Shiny and Quarto. A love story.](https://rappa.shinyapps.io/shiny_quarto/)
+
++ [Distributing R packages with a drat repository hosted on AWS S3](https://tomsing1.github.io/blog/posts/drat/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
