@@ -81,6 +81,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Distributing R packages with a drat repository hosted on AWS S3](https://tomsing1.github.io/blog/posts/drat/)
 
++ [Geospatial distributed processing with furrr](https://posit.co/blog/geospatial-distributed-processing-with-furrr/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
