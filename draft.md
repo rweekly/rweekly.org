@@ -81,6 +81,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Distributing R packages with a drat repository hosted on AWS S3](https://tomsing1.github.io/blog/posts/drat/)
 
++ [A testing pattern: adding switches to your code](https://blog.r-hub.io/2023/01/23/code-switch-escape-hatch-test/)
+
++ [Why comment your code as little (and as well) as possible](https://blog.r-hub.io/2023/01/26/code-comments-self-explaining-code/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
