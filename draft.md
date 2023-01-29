@@ -19,7 +19,6 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ### R in the Real World
 
-+ [Alone R package: Datasets from the survival TV series](http://gradientdescending.com/alone-r-package-datasets-from-the-survival-tv-series/)
 
 
 ###  R in Organizations
