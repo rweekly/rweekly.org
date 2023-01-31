@@ -15,7 +15,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+- [The oldest R version one can still run today](https://chainsawriot.com/postmannheim/2023/01/30/oldestr.html)
 
 ### R in the Real World
 
