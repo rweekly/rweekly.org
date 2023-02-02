@@ -19,7 +19,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
++ [How To Map Any Region of the world using {rnaturalearth} and {sf}](https://felixanalytix.medium.com/how-to-map-any-region-of-the-world-using-r-programming-bb3c4146f97f)
 
+<a href="https://felixanalytix.medium.com/how-to-map-any-region-of-the-world-using-r-programming-bb3c4146f97f"><img src="https://miro.medium.com/max/1100/1*dZcaUSva_g_KuWmqCpEN0Q.webp" alt="How To Map Any Region of the world" width="600" height="300"></a>
 
 ###  R in Organizations
 
