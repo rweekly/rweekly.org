@@ -40,7 +40,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [{happign} 0.1.8](https://cran.r-project.org/package=happign): Easy acces to all French geodata from IGN (National Institute of Geographic)
++ [{happign} 0.1.8](https://cran.r-project.org/package=happign) : Easy acces to all French geodata from IGN (National Institute of Geographic)
 
 **Bioconductor**
 
