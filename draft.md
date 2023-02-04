@@ -31,13 +31,11 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [How To Map Any Region of the world using {rnaturalearth} and {sf}](https://felixanalytix.medium.com/how-to-map-any-region-of-the-world-using-r-programming-bb3c4146f97f)
 
-<a href="https://felixanalytix.medium.com/how-to-map-any-region-of-the-world-using-r-programming-bb3c4146f97f"><img src="https://miro.medium.com/max/1100/1*dZcaUSva_g_KuWmqCpEN0Q.webp" alt="How To Map Any Region of the world" width="600" height="300"></a>
+![Unemployment in Europe (world unemployment scale), 2020, World Bank data](https://raw.githubusercontent.com/rweekly/image/master/2023/W06/europe-unemployment.png)
 
 + [Snow in Montréal (Canada)](https://freakonometrics.hypotheses.org/66024)
 
 ###  R in Organizations
-
-+ [Comeback! Reviving the Warwick R User Group with In-Person and Online Events](https://www.r-consortium.org/blog/2023/01/25/comeback-reviving-the-warwick-r-user-group-with-in-person-and-online-events)
 
 + [Improved permanent URL schema for r-universe.dev](https://ropensci.org/blog/2023/01/30/runiverse-permanent-urls/)
 
@@ -45,62 +43,39 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Biostatistical Modeling Plan](https://fharrell.com/post/modplan/index.html)
 
-###  Resources
-
-
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
 **CRAN**
 
-+ [{happign} 0.1.8](https://cran.r-project.org/package=happign): Easy acces to all French geodata from IGN (National Institute of Geographic)
++ [{happign} 0.1.8](https://cran.r-project.org/package=happign): Easy access to all French geodata from IGN (National Institute of Geographic)
 
-**Bioconductor**
++ [{RcppArray} 0.2.0](https://cran.r-project.org/package=RcppArray): 'Rcpp' Meets 'C++' Arrays
 
-
-
-**GitHub or Bitbucket**
-
-
++ [{roads} 1.1.0](https://cran.r-project.org/package=roads): Road Network Projection
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{RInside} 0.2.18](http://dirk.eddelbuettel.com/blog/2023/02/01/#rinside_0.2.18): C++ Classes to Embed R in C++ (and C) Applications
++ [{RInside} 0.2.18](https://cran.r-project.org/package=RInside): C++ Classes to Embed R in C++ (and C) Applications - [diffify](https://diffify.com/R/RInside)
 
-+ [{RcppTOML} 0.2.2](http://dirk.eddelbuettel.com/blog/2023/01/29#rcpptoml_0.2.2): 'Rcpp' Bindings to Parser for "Tom's Obvious Markup Language"
++ [{visdat} 0.6.0](https://cran.r-project.org/package=visdat): Preliminary Visualisation of Data - [diffify](https://diffify.com/R/visdat)
 
-+ [{visdat} 0.6.0](https://cran.r-project.org/web/packages/visdat/index.html): Preliminary Visualisation of Data
++ [{tidybayes} 3.0.3](https://cran.r-project.org/package=tidybayes): Tidy Data and 'Geoms' for Bayesian Models - [diffify](https://diffify.com/R/tidybayes)
+
++ [{shapviz} 0.5.0](https://cran.r-project.org/package=shapviz): SHAP Visualizations - [diffify](https://diffify.com/R/shapviz)
+
++ [{kernlab} 0.9-32](https://cran.r-project.org/package=kernlab): Kernel-Based Machine Learning Lab - [diffify](https://diffify.com/R/kernlab)
 
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
-
 ###  Tutorials
 
 + [Dynamite for Causal Inference from Panel Data using Dynamic Multivariate Panel Models](https://ropensci.org/blog/2023/01/31/dynamite-r-package/)
-
-+ [Star Map with R](https://dieghernan.github.io/202301_star-map-R/)
-
-+ [Roadtripping America in R: Turning Spatial Data into Animations with Rayshader](https://www.tylermw.com/roadtripping-america-in-r-turning-spatial-data-into-animations-with-rayshader/)
 
 + [Diverging Lollipop Chart: A Visual Tool for Comparing Data with {healthyR}](https://www.spsanderson.com/steveondata/posts/rtip-2023-02-02/index.html)
 
@@ -120,10 +95,11 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [SHAP + XGBoost + Tidymodels = LOVE](https://lorentzen.ch/index.php/2023/01/27/shap-xgboost-tidymodels-love/)
 
+![Example force plot made with shapviz](https://raw.githubusercontent.com/rweekly/image/master/2023/W06/force.png)
+
 + [Explanatory Analysis of the XGBoost Model for Budget Deficits of U.S.](https://datageeek.com/2023/01/31/explanatory-analysis-of-the-xgboost-model-for-budget-deficits-of-u-s/)
 
 + [Probot: building a Mastodon bot](https://quantixed.org/2023/02/04/probot-building-a-mastodon-bot/)
-
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -148,19 +124,12 @@ Events in 3 Months:
 
 + [SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london/)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
-###  rtistry
-
-
-
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Collaborating with others be like<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/q6GY2m8w7b">pic.twitter.com/q6GY2m8w7b</a></p>&mdash; Mattan S. Ben-Shachar (@mattansb) <a href="https://twitter.com/mattansb/status/1621389251899277316?ref_src=twsrc%5Etfw">February 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">heck yes {kableExtra} makes fantastic tables <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <br><br>(documentation and examples here: <a href="https://t.co/VflhAyReXJ">https://t.co/VflhAyReXJ</a>) <a href="https://t.co/9Qd9vawGSL">pic.twitter.com/9Qd9vawGSL</a></p>&mdash; Andrew Heiss (🐘 @andrew@fediscience.org) (@andrewheiss) <a href="https://twitter.com/andrewheiss/status/1620857954454097922?ref_src=twsrc%5Etfw">February 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
