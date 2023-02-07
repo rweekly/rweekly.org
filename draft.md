@@ -54,7 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-
++ [{tidydice} 1.0.0](https://CRAN.R-project.org/package=tidydice) Simulates Dice Rolls and Coin Flips
 
 ###  Videos and Podcasts
 
@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Let's Roll Dice!](https://rolkra.github.io/Lets-Roll-Dice/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
