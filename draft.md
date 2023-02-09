@@ -19,7 +19,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+![Tricks to use Quarto for publishing: Control line breaks, page numbers, positions of images, German quotation marks, cover image](https://katharinabrunner.de/2023/02/tricks-to-use-quarto-for-publishing-control-line-breaks-page-numbers-positions-of-images-german-quotation-marks/)
 
 ###  R in Organizations
 
