@@ -76,7 +76,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-+ [Let's Roll Dice!](https://rolkra.github.io/Lets-Roll-Dice/)
++ [Let's Roll Dice!](https://rolkra.github.io/Lets-Roll-Dice/)  
+
++ [Prediction Intervals for Linear Mixed Effects Models in {lme4}](https://deanmarchiori.rbind.io/post/prediction-intervals-for-linear-mixed-effects-models/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
