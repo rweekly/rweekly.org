@@ -7,41 +7,53 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-his week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@jonocarroll), with help from the RWeekly team members and contributors.
+This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@jonocarroll), with help from the RWeekly team members and contributors.
 
 ###  Highlight
 
++ [What Does It Mean to Maintain a Package?](https://ropensci.org/blog/2023/02/07/what-does-it-mean-to-maintain-a-package/)
 
++ [Resampling to understand gender in #TidyTuesday art history data](https://juliasilge.com/blog/art-history/)
+
++ [Manipulate SVG Plots with JavaScript in R Markdown](https://yihui.org/en/2023/02/manipulate-svg/)
 
 ### Insights
 
 + [Top 10 errors in R and how to fix them](https://statsandr.com/blog/top-10-errors-in-r/)
+
 + [Manipulate SVG Plots with JavaScript in R Markdown](https://yihui.org/en/2023/02/manipulate-svg/)
+
 + [Shiny App without Shiny: a JavaScript Exercise in R Markdown](https://yihui.org/en/2023/02/js-shiny/)
+
 + [You Should Rarely Need eval(parse())](https://yihui.org/en/2023/02/eval-parse/)
+
 + [Deprecating xfun::isFALSE()](https://yihui.org/en/2023/02/xfun-isfalse/)
+
 + [What Does It Mean to Maintain a Package?](https://ropensci.org/blog/2023/02/07/what-does-it-mean-to-maintain-a-package/)
+
 + [Resampling to understand gender in #TidyTuesday art history data](https://juliasilge.com/blog/art-history/)
+
 + [Extending R with C++ and Fortran](https://gallery.rcpp.org//articles/Combining-R-with-Cpp-and-Fortran/)
+
 + [From Bits to Words: A Tale Computing and Communication Languages](https://www.harsh17.in/languages/)
 
++ [Fixing my broken VSCode setup for R](https://johnmackintosh.net/blog/2023-02-04-vsc/)
+
 + [Population growth](http://r.iresmi.net/2023/02/10/population-growth/)
+
++ [Putting the top 100 R packages into a GIF](https://www.sumsar.net/blog/top-100-r-packages-gif/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W07/top_100_rpackages_12_fps_2023-01-30.gif)
+
 + [Should I learn Stan?](https://www.jumpingrivers.com/blog/why-stan/)
 
-+ [Fixing my broken VSCode setup for R](https://johnmackintosh.net/blog/2023-02-04-vsc/)
 + [New preferred repo name for r-universe registries](https://ropensci.org/blog/2023/02/07/runiverse-registry-repo/)
-+ [Cricket Weighted Batting Average in R](https://theparttimeanalyst.com/2023/02/05/cricket-weighted-batting-average-in-r/)
 
-+ [World Cup 2022 results](https://selbydavid.com/2023/02/07/world-cup-2022-results/)
++ [Cricket Weighted Batting Average in R](https://theparttimeanalyst.com/2023/02/05/cricket-weighted-batting-average-in-r/)
 
 ### R in the Real World
 
-
-###  R in Organizations
-
-
-
-###  R in Academia
++ [World Cup 2022 results](https://selbydavid.com/2023/02/07/world-cup-2022-results/)
 
 ### R Users
 
@@ -79,14 +91,6 @@ Sample Size Reassessment
 + [{OlympicRshiny} 1.0.0](https://cran.r-project.org/package=OlympicRshiny): 'Shiny' Application for Olympic Data
 + [{MetChem} 0.2](https://cran.r-project.org/package=MetChem): Chemical Structural Similarity Analysis
 + [{connectapi} 0.1.3.1](https://cran.r-project.org/package=connectapi): Utilities for Interacting with the 'Posit Connect' Server API
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
 
 ### Updated Packages
 
@@ -188,23 +192,11 @@ Objects - [diffify](https://diffify.com/R/osmdata)
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
-
 ###  Tutorials
 
 + [Let's Roll Dice!](https://rolkra.github.io/Lets-Roll-Dice/)  
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W07/tidydice-roll-dice-36-design_600.png)
 
 + [Prediction Intervals for Linear Mixed Effects Models in {lme4}](https://deanmarchiori.rbind.io/post/prediction-intervals-for-linear-mixed-effects-models/)
 
@@ -213,7 +205,6 @@ Objects - [diffify](https://diffify.com/R/osmdata)
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
 
 ###  Upcoming Events in 3 Months
 
@@ -233,19 +224,22 @@ Events in 3 Months:
 
 + [SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london/)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ###  rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When your code doesn&#39;t work out as intended, but you try to make the best of it anyway 🤷🏾‍♀️ <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/genart?src=hash&amp;ref_src=twsrc%5Etfw">#genart</a> <a href="https://t.co/n8hI0nUHe9">pic.twitter.com/n8hI0nUHe9</a></p>&mdash; Meghan Harris (@meghansharris) <a href="https://twitter.com/meghansharris/status/1623710483869061121?ref_src=twsrc%5Etfw">February 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Intersection<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://twitter.com/hashtag/creativecoding?src=hash&amp;ref_src=twsrc%5Etfw">#creativecoding</a> <a href="https://t.co/bZSPq3F919">pic.twitter.com/bZSPq3F919</a></p>&mdash; chris (@dickie_roper) <a href="https://twitter.com/dickie_roper/status/1622696994052444182?ref_src=twsrc%5Etfw">February 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="qme" dir="ltr"><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/GenArtClub?src=hash&amp;ref_src=twsrc%5Etfw">#GenArtClub</a> <a href="https://twitter.com/hashtag/GenerativeArt?src=hash&amp;ref_src=twsrc%5Etfw">#GenerativeArt</a> <a href="https://t.co/2NNNFEhfDn">pic.twitter.com/2NNNFEhfDn</a></p>&mdash; Nicola Rennie | @nrennie@fosstodon.org (@nrennie35) <a href="https://twitter.com/nrennie35/status/1623796950775504897?ref_src=twsrc%5Etfw">February 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###  Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I made a new Quarto extension to bring the Spotlight Reveal.js plugin to Quarto.<br>It&#39;s a very useful plugin that allows you to highlight a specific part of your presentation.<a href="https://t.co/xVLzNfkbVI">https://t.co/xVLzNfkbVI</a><a href="https://twitter.com/hashtag/QuartoPub?src=hash&amp;ref_src=twsrc%5Etfw">#QuartoPub</a> <a href="https://twitter.com/hashtag/AwesomeQuarto?src=hash&amp;ref_src=twsrc%5Etfw">#AwesomeQuarto</a> <a href="https://twitter.com/hashtag/RevealJS?src=hash&amp;ref_src=twsrc%5Etfw">#RevealJS</a> <a href="https://t.co/ts1aUPgVs6">pic.twitter.com/ts1aUPgVs6</a></p>&mdash; Mickaël CANOUIL (@MickaelCanouil@fosstodon.org) (@MickaelCanouil) <a href="https://twitter.com/MickaelCanouil/status/1623978634586226691?ref_src=twsrc%5Etfw">February 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you want feedback on your <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> code but are too 🙈 shy 🙈 to ask?<br><br>🤖 gpttools 📦 can now suggest code improvements and explains what it did 🤯! <a href="https://twitter.com/hashtag/ChatGPT?src=hash&amp;ref_src=twsrc%5Etfw">#ChatGPT</a> <br><br>It&#39;s almost like a modern-day rubber 🦆 that talks back<a href="https://t.co/9f54V4oiMs">https://t.co/9f54V4oiMs</a> <a href="https://t.co/LFi76aexWh">pic.twitter.com/LFi76aexWh</a></p>&mdash; James Wade (@JamesHWade) <a href="https://twitter.com/JamesHWade/status/1612994056744996864?ref_src=twsrc%5Etfw">January 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📣📣📣 We&#39;re thrilled to announce the full list of <a href="https://twitter.com/hashtag/ShinyConf2023?src=hash&amp;ref_src=twsrc%5Etfw">#ShinyConf2023</a> speakers rocking the world of <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> and <a href="https://twitter.com/hashtag/RShiny?src=hash&amp;ref_src=twsrc%5Etfw">#RShiny</a> every day!<br><br>Check the list and register for the conference now for free 👉 <a href="https://t.co/EffAiHTq97">https://t.co/EffAiHTq97</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/shiny?src=hash&amp;ref_src=twsrc%5Etfw">#shiny</a> <a href="https://twitter.com/hashtag/r?src=hash&amp;ref_src=twsrc%5Etfw">#r</a> <a href="https://t.co/gBiP5GXywb">pic.twitter.com/gBiP5GXywb</a></p>&mdash; ShinyConf (@ShinyConf) <a href="https://twitter.com/ShinyConf/status/1623353631813533696?ref_src=twsrc%5Etfw">February 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
