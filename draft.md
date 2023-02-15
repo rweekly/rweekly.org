@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Ensuring & Showcasing the Statistical Correctness of your R Package](https://epiverse-trace.github.io/posts/statistical-correctness/)
+
 
 
 ### R in the Real World
