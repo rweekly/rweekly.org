@@ -24,7 +24,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [rtweet future](https://llrs.dev/post/2023/02/16/rtweet-future/)
 
 ###  R in Organizations
 
