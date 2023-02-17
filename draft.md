@@ -105,6 +105,8 @@ Events in 3 Months:
 
 + [SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london/)
 
++ [March 15-June 7: R in 3 Months](https://rfortherestofus.com/3months/)
+
 ### Grants & Funding
 
 
