@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Eric Nantz](https://podcastindex.social/@rpodcast), with help from the R Weekly team members and contributors.
 
 
 
@@ -18,9 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [Ensuring & Showcasing the Statistical Correctness of your R Package](https://epiverse-trace.github.io/posts/statistical-correctness/)
++ [RObservations #45: Making Beautiful Star Maps With The `starBliss` Package](https://bensstats.wordpress.com/2023/02/12/robservations-45-making-beautiful-star-maps-with-the-starbliss-package/)
 
-
++ [Making Pretty PDFs with Quarto](https://nrennie.rbind.io/blog/making-pretty-pdf-quarto/)
 
 ### R in the Real World
 
@@ -28,14 +28,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Organizations
 
++ [Work smarter; not harder: COVID-19 processing for the WHO/Europe](https://www.jumpingrivers.com/blog/who-shiny-covid-maintenance-github-actions/)
 
++ [rOpenSci News Digest, February 2023](https://ropensci.org/blog/2023/02/17/ropensci-news-digest-february-2023/)
 
 ###  R in Academia
 
-
++ [Expanding Tidy Data Principles to Facilitate Missing Data Exploration, Visualization and Assessment of Imputations](https://www.jstatsoft.org/article/view/v105i07)
 
 ###  Resources
 
++ [Flexible correlation generation: an update to genCorMat in simstudy](https://www.rdatagen.net/post/2023-02-14-flexible-correlation-generation-an-update-to-gencorgen-in-simstudy/)
 
 
 ###  New Packages
@@ -46,6 +49,53 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 
 
++ [{mistat} 2.0.4](https://cran.r-project.org/package=mistat): Data Sets, Functions and Examples from the Book: "Modern Industrial Statistics" by Kenett, Zacks and Amberti
+
++ [{tidyformula} 0.1.0](https://cran.r-project.org/package=tidyformula): Build Formulas Using Tidy Selection Helpers
+
++ [{practicalSigni} 0.1.0](https://cran.r-project.org/package=practicalSigni): Practical Significance Ranking of Regressors
+
++ [{bubbleHeatmap} 0.1.0](https://cran.r-project.org/package=bubbleHeatmap): Produces 'bubbleHeatmap' Plots for Visualising Metabolomics Data
+
++ [{birdscanR} 0.1.2](https://cran.r-project.org/package=birdscanR): Migration Traffic Rate Calculation Package for 'Birdscan MR1' Radars
+
++ [{aniSNA} 1.0](https://cran.r-project.org/package=aniSNA): Statistical Network Analysis of Animal Social Networks
+
++ [{SelectionBias} 1.0.0](https://cran.r-project.org/package=SelectionBias): Calculates Bounds for the Selection Bias for Binary Treatment and Outcome Variables
+
++ [{rang} 0.1.0](https://cran.r-project.org/package=rang): Reconstructing Reproducible R Computational Environments with Ease
+
++ [{locaR} 0.1.2](https://cran.r-project.org/package=locaR): A Set of Tools for Sound Localization
+
++ [{dndR} 1.0.0](https://cran.r-project.org/package=dndR): Dungeons & Dragons Functions for Players and Dungeon Masters
+
++ [{apportion} 0.0.1](https://cran.r-project.org/package=apportion): Apportion Seats
+
++ [{tidyAML} 0.0.1](https://cran.r-project.org/package=tidyAML): Automatic Machine Learning with 'tidymodels'
+
++ [{exdqlm} 0.1.3](https://cran.r-project.org/package=exdqlm): Extended Dynamic Quantile Linear Models
+
++ [{Statamarkdown} 0.7.2](https://cran.r-project.org/package=Statamarkdown): 'Stata' Markdown
+
++ [{gitr} 0.0.1](https://cran.r-project.org/package=gitr): A Lightweight API for 'Git'
+
++ [{tfevents} 0.0.1](https://cran.r-project.org/package=tfevents): Write Events for 'TensorBoard'
+
++ [{s3fs} 0.1.2](https://cran.r-project.org/package=s3fs): 'Amazon Web Service S3' File System
+
++ [{hexfont} 0.3.1](https://cran.r-project.org/package=hexfont): 'GNU Unifont' Hex Fonts
+
++ [{ggrain} 0.0.2](https://cran.r-project.org/package=ggrain): A Rainclouds Geom for 'ggplot2'
+
++ [{Durga} 1.0.0](https://cran.r-project.org/package=Durga): Effect Size Estimation and Visualisation
+
++ [{homnormal} 0.1](https://cran.r-project.org/package=homnormal): Tests of Homogeneity of Variances
+
++ [{clickb} 0.1](https://cran.r-project.org/package=clickb): Web Data Analysis by Bayesian Mixture of Markov Models
+
++ [{dhis2r} 0.1.1](https://cran.r-project.org/package=dhis2r): Client for the 'DHIS2' Web API
+
++ [{hidecan} 1.1.0](https://cran.r-project.org/package=hidecan): Create HIDECAN Plots for Visualising Genome-Wide Association Studies and Differential Expression Results
 
 **Bioconductor**
 
@@ -53,30 +103,111 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [trapinch - Get data from the PokeAPI service](https://github.com/matt-dray/trapinch)
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{ffsimulator} 1.2.3](https://cran.r-project.org/package=ffsimulator): Simulate Fantasy Football Seasons
+
++ [{ffscrapr} 1.4.8](https://cran.r-project.org/package=ffscrapr): API Client for Fantasy Football League Platforms
+
++ [{DataFakeR} 0.1.3](https://cran.r-project.org/package=DataFakeR): Generate Fake Data for Relational Databases
+
++ [{gpboost} 0.8.2](https://cran.r-project.org/package=gpboost): Combining Tree-Boosting with Gaussian Process and Mixed Effects Models - [diffify](https://diffify.com/R/gpboost)
+
++ [{data.table} 1.14.8](https://cran.r-project.org/package=data.table): Extension of `data.frame` - [diffify](https://diffify.com/R/data.table)
+
++ [{RSQLite} 2.3.0](https://cran.r-project.org/package=RSQLite): SQLite Interface for R - [diffify](https://diffify.com/R/RSQLite)
+
++ [{cropcircles} 0.2.1](https://cran.r-project.org/package=cropcircles): Crops an Image to a Circle - [diffify](https://diffify.com/R/cropcircles)
+
++ [{Rfast} 2.0.7](https://cran.r-project.org/package=Rfast): A Collection of Efficient and Extremely Fast R Functions - [diffify](https://diffify.com/R/Rfast)
+
++ [{gameR} 0.0.4](https://cran.r-project.org/package=gameR): Color Palettes Inspired by Video Games - [diffify](https://diffify.com/R/gameR)
+
++ [{float} 0.3-1](https://cran.r-project.org/package=float): 32-Bit Floats - [diffify](https://diffify.com/R/float)
+
++ [{readxlsb} 0.1.6](https://cran.r-project.org/package=readxlsb): Read 'Excel' Binary (.xlsb) Workbooks - [diffify](https://diffify.com/R/readxlsb)
+
++ [{mixgb} 1.0.2](https://cran.r-project.org/package=mixgb): Multiple Imputation Through 'XGBoost' - [diffify](https://diffify.com/R/mixgb)
+
++ [{neo2R} 2.4.1](https://cran.r-project.org/package=neo2R): Neo4j to R - [diffify](https://diffify.com/R/neo2R)
+
++ [{ClickHouseHTTP} 0.3.0](https://cran.r-project.org/package=ClickHouseHTTP): A Simple HTTP Database Interface to 'ClickHouse' - [diffify](https://diffify.com/R/ClickHouseHTTP)
+
++ [{MASSExtra} 1.2.2](https://cran.r-project.org/package=MASSExtra): Some 'MASS' Enhancements - [diffify](https://diffify.com/R/MASSExtra)
+
++ [{gglm} 1.0.1](https://cran.r-project.org/package=gglm): Grammar of Graphics for Linear Model Diagnostic Plots - [diffify](https://diffify.com/R/gglm)
+
++ [{ggstatsplot} 0.11.0](https://cran.r-project.org/package=ggstatsplot): 'ggplot2' Based Plots with Statistical Details - [diffify](https://diffify.com/R/ggstatsplot)
+
++ [{callsync} 0.0.6](https://cran.r-project.org/package=callsync): Recording Synchronisation, Call Detection and Assignment, Audio Analysis - [diffify](https://diffify.com/R/callsync)
+
++ [{shinyStorePlus} 0.9](https://cran.r-project.org/package=shinyStorePlus): Secure in-Browser Storage for 'Shiny' Inputs and Variables - [diffify](https://diffify.com/R/shinyStorePlus)
+
++ [{shinyglide} 0.1.4](https://cran.r-project.org/package=shinyglide): Glide Component for Shiny Applications - [diffify](https://diffify.com/R/shinyglide)
+
++ [{cities} 0.1.1](https://cran.r-project.org/package=cities): Clinical Trials with Intercurrent Events Simulator - [diffify](https://diffify.com/R/cities)
+
++ [{packageRank} 0.8.0](https://cran.r-project.org/package=packageRank): Computation and Visualization of Package Download Counts and Percentiles - [diffify](https://diffify.com/R/packageRank)
+
++ [{PCICt} 0.5-4.4](https://cran.r-project.org/package=PCICt): Implementation of POSIXct Work-Alike for 365 and 360 Day Calendars - [diffify](https://diffify.com/R/PCICt)
+
++ [{nplyr} 0.2.0](https://cran.r-project.org/package=nplyr): A Grammar of Nested Data Manipulation - [diffify](https://diffify.com/R/nplyr)
+
++ [{rpact} 3.3.4](https://cran.r-project.org/package=rpact): Confirmatory Adaptive Clinical Trial Design and Analysis - [diffify](https://diffify.com/R/rpact)
+
++ [{httpuv} 1.6.9](https://cran.r-project.org/package=httpuv): HTTP and WebSocket Server Library - [diffify](https://diffify.com/R/httpuv)
+
+
++ [{vivid} 0.2.5](https://cran.r-project.org/package=vivid): Variable Importance and Variable Interaction Displays - [diffify](https://diffify.com/R/vivid)
+
++ [{coronavirus} 0.4.0](https://cran.r-project.org/package=coronavirus): The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset - [diffify](https://diffify.com/R/coronavirus)
+
++ [{bittermelon} 1.1.1](https://cran.r-project.org/package=bittermelon): Monochrome Bitmap Font Tools - [diffify](https://diffify.com/R/bittermelon)
+
++ [{survival} 3.5-3](https://cran.r-project.org/package=survival): Survival Analysis - [diffify](https://diffify.com/R/survival)
+
++ [{lessR} 4.2.6](https://cran.r-project.org/package=lessR): Less Code, More Results - [diffify](https://diffify.com/R/lessR)
+
++ [{arrow} 11.0.0.2](https://cran.r-project.org/package=arrow): Integration to 'Apache' 'Arrow' - [diffify](https://diffify.com/R/arrow)
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [Three strategies to tackle Big Data in R and Python](https://sumsar.net/blog/three-strategies-for-big-data/)
 
++ [Love Data Week Keynote Address: The Value of Compassion in Learning Data Science](https://www.youtube.com/watch?v=za0xX10G7mU)
+
++ [TidyX Episode 135 - GitHub Cron Jobs](https://www.youtube.com/watch?v=tk8-_gMDihg)
 ### Gist & Cookbook
 
 
 
 ### Shiny Apps
 
++ [DECD Assistance Analyzer](https://ketchbrookanalytics.shinyapps.io/decd-assistance-analyzer/)
 
++ [Shiny Monster Maze](https://ehermo.shinyapps.io/monster-maze-shiny/)
 
 ### R Internationally
 
-
++ [Bonnes pratiques pour les projets statistiques](https://inseefrlab.github.io/formation-bonnes-pratiques-R/#/title-slide)
 
 ###  Tutorials
+
++ [Pitfalls of R dplyr::select or how  (not) to spend a Friday afternoon](https://r-critique.com/dplyr_select_pitfalls)
+
++ [Selecting the Number of Factors in Exploratory Factor Analysis via out-of-sample Prediction Errors](http://jmbh.github.io//EFA_Factors_OoSPE/)
+
++ [Improving the C++ Code Quality of an Rcpp Package](https://epiverse-trace.github.io/posts/lint-rcpp/index.html)
+
++ [Ensuring & Showcasing the Statistical Correctness of your R Package](https://epiverse-trace.github.io/posts/statistical-correctness/index.html)
+
++ [How to do a Kruskal-Wallis Test in R](https://www.marsja.se/how-to-do-a-kruskal-wallis-test-in-r/)
 
 
 
@@ -121,3 +252,11 @@ Events in 3 Months:
 
 
 ###  Quotes of the Week
+
+TODO: Convert these to right format
+
++ https://mstdn.social/@yanlyesin/109882613264424410
+
++ https://fosstodon.org/@cararthompson/109873865723115253
+
++ https://mamot.fr/@rfortunes/109869347746377483
