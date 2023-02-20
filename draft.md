@@ -169,7 +169,6 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 + [{httpuv} 1.6.9](https://cran.r-project.org/package=httpuv): HTTP and WebSocket Server Library - [diffify](https://diffify.com/R/httpuv)
 
-
 + [{vivid} 0.2.5](https://cran.r-project.org/package=vivid): Variable Importance and Variable Interaction Displays - [diffify](https://diffify.com/R/vivid)
 
 + [{coronavirus} 0.4.0](https://cran.r-project.org/package=coronavirus): The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset - [diffify](https://diffify.com/R/coronavirus)
@@ -191,9 +190,6 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 + [Love Data Week Keynote Address: The Value of Compassion in Learning Data Science](https://www.youtube.com/watch?v=za0xX10G7mU)
 
 + [TidyX Episode 135 - GitHub Cron Jobs](https://www.youtube.com/watch?v=tk8-_gMDihg)
-### Gist & Cookbook
-
-
 
 ### Shiny Apps
 
@@ -246,25 +242,23 @@ Events in 3 Months:
 
 + [March 15-June 7: R in 3 Months](https://rfortherestofus.com/3months/)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ###  rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Digged out my old &quot;Flower Power&quot; code (2021) and tweaked it a lil bit 🙂<br><br>Base Code: <a href="https://t.co/k0nYNMrXLL">https://t.co/k0nYNMrXLL</a><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://twitter.com/hashtag/generative?src=hash&amp;ref_src=twsrc%5Etfw">#generative</a> (<a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a>) <a href="https://t.co/LrKYMaM5Lt">pic.twitter.com/LrKYMaM5Lt</a></p>&mdash; Christoph von Matt (@chvonmatt) <a href="https://twitter.com/chvonmatt/status/1625891962808111104?ref_src=twsrc%5Etfw">February 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 
 ###  Quotes of the Week
 
-TODO: Convert these to right format
+<iframe src="https://mstdn.social/@yanlyesin/109882613264424410/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 820px;" width="500" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="https://mstdn.social/@yanlyesin/109882613264424410/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 500px;" width="500" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://fosstodon.org/@cararthompson/109873865723115253/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 620px;" width="500" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="https://fosstodon.org/@cararthompson/109873865723115253/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 500px;" width="500" allowfullscreen="allowfullscreen"></iframe>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Happy Valentines Day ♥️<br><br>Good time to let you know that {cropcircles} also has a function heart_crop() 🙂<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/ggplot?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot</a> <a href="https://t.co/OIzEdlyARW">pic.twitter.com/OIzEdlyARW</a></p>&mdash; Dan Oehm 🌲⛰️ (@danoehm) <a href="https://twitter.com/danoehm/status/1625475657458397186?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<iframe src="https://mamot.fr/@rfortunes/109869347746377483/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 500px;" width="500" allowfullscreen="allowfullscreen"></iframe>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> consultant is better than yours. <a href="https://t.co/v5dfdnpt5f">pic.twitter.com/v5dfdnpt5f</a></p>&mdash; TJ Shaw (@TJSPsychology) <a href="https://twitter.com/TJSPsychology/status/1625944785721720832?ref_src=twsrc%5Etfw">February 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<iframe src="https://mamot.fr/@rfortunes/109869347746377483/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 300px;" width="500" allowfullscreen="allowfullscreen"></iframe>
