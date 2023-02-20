@@ -20,6 +20,8 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 + [RObservations #45: Making Beautiful Star Maps With The `starBliss` Package](https://bensstats.wordpress.com/2023/02/12/robservations-45-making-beautiful-star-maps-with-the-starbliss-package/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W08/starmap_600.png)
+
 + [Making Pretty PDFs with Quarto](https://nrennie.rbind.io/blog/making-pretty-pdf-quarto/)
 
 ### R in the Real World
@@ -57,6 +59,8 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 + [{bubbleHeatmap} 0.1.0](https://cran.r-project.org/package=bubbleHeatmap): Produces 'bubbleHeatmap' Plots for Visualising Metabolomics Data
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W08/bubbleHeatmap_600.png)
+
 + [{birdscanR} 0.1.2](https://cran.r-project.org/package=birdscanR): Migration Traffic Rate Calculation Package for 'Birdscan MR1' Radars
 
 + [{aniSNA} 1.0](https://cran.r-project.org/package=aniSNA): Statistical Network Analysis of Animal Social Networks
@@ -86,6 +90,8 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 + [{hexfont} 0.3.1](https://cran.r-project.org/package=hexfont): 'GNU Unifont' Hex Fonts
 
 + [{ggrain} 0.0.2](https://cran.r-project.org/package=ggrain): A Rainclouds Geom for 'ggplot2'
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W08/ggrain_600.png)
 
 + [{Durga} 1.0.0](https://cran.r-project.org/package=Durga): Effect Size Estimation and Visualisation
 
@@ -142,6 +148,8 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 + [{gglm} 1.0.1](https://cran.r-project.org/package=gglm): Grammar of Graphics for Linear Model Diagnostic Plots - [diffify](https://diffify.com/R/gglm)
 
 + [{ggstatsplot} 0.11.0](https://cran.r-project.org/package=ggstatsplot): 'ggplot2' Based Plots with Statistical Details - [diffify](https://diffify.com/R/ggstatsplot)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W08/ggstatsplot_600.png)
 
 + [{callsync} 0.0.6](https://cran.r-project.org/package=callsync): Recording Synchronisation, Call Detection and Assignment, Audio Analysis - [diffify](https://diffify.com/R/callsync)
 
@@ -255,8 +263,8 @@ Events in 3 Months:
 
 TODO: Convert these to right format
 
-+ https://mstdn.social/@yanlyesin/109882613264424410
+<iframe src="https://mstdn.social/@yanlyesin/109882613264424410/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 500px;" width="500" allowfullscreen="allowfullscreen"></iframe>
 
-+ https://fosstodon.org/@cararthompson/109873865723115253
+<iframe src="https://fosstodon.org/@cararthompson/109873865723115253/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 500px;" width="500" allowfullscreen="allowfullscreen"></iframe>
 
-+ https://mamot.fr/@rfortunes/109869347746377483
+<iframe src="https://mamot.fr/@rfortunes/109869347746377483/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 500px;" width="500" allowfullscreen="allowfullscreen"></iframe>
