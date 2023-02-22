@@ -84,6 +84,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+ - Announcing [R Project Sprint 2023](https://contributor.r-project.org/r-project-sprint-2023/). Application deadline **Friday 10 March**.
+ - Join the new [R Contributors Meetup](https://www.meetup.com/r-contributors) to stay up-to-date on events for existing/aspiring R contributors.
+ - Follow us on our new Mastodon account [@R_Contributors@hachyderm.io](https://hachyderm.io/@R_Contributors).
+ - Thanks to the 17 translators that contributed to the [recent big patch of message transations](https://github.com/r-devel/r-svn/commit/dd4ed6ffc9b620c7b4a92f8cb9dab9ecc8b5890c), including many that participated in the LatinR translation hackathon.
+
+Vist the [RCWG repo](https://github.com/r-devel/rcontribution) to find the minutes for further details on these and other topics we discussed, and see the repo README for information on how to get involved. Our next meeting will be Friday, February 18, 2022, 15:00-16:00 UTC.
 
 ###  Upcoming Events in 3 Months
 
