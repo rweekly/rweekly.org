@@ -76,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Creating interactive visualizations with {ggiraph} (with or without Shiny)](https://albert-rapp.de/posts/ggplot2-tips/17_ggiraph/17_ggiraph.html)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
