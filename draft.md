@@ -26,7 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [rOpenSci Champions Program Kick off](https://ropensci.org/blog/2023/02/21/champions-program-kick-off/)
 
-* [Forecasting Disney Stock Prices as the Latest Earnings Beat Estimates](https://datageeek.com/2023/02/22/forecasting-disney-stock-prices-as-the-latest-earnings-beat-estimates/)
+- [Forecasting Disney Stock Prices as the Latest Earnings Beat Estimates](https://datageeek.com/2023/02/22/forecasting-disney-stock-prices-as-the-latest-earnings-beat-estimates/)
 
 ###  R in Organizations
 
@@ -49,7 +49,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [xts_0.13.0 on CRAN](https://blog.fosstrading.com/2023/02/xts-0-13-0-on-cran.html)
 
-* [RcppArmadillo 0.12.0.1.0 on CRAN: New Upstream, New Features](http://dirk.eddelbuettel.com/blog/2023/02/22/#rcpparmadillo_0.12.0.1.0)
+- [RcppArmadillo 0.12.0.1.0 on CRAN: New Upstream, New Features](http://dirk.eddelbuettel.com/blog/2023/02/22/#rcpparmadillo_0.12.0.1.0)
 
 - [simstudy 0.6.0 released: more flexible correlation patterns](https://www.rdatagen.net/post/2023-02-21-flexible-correlation-generation-revisiting-block-matrices-for-temporal-patterns-in-simstudy/)
 
@@ -69,7 +69,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Videos and Podcasts
 
-* [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+- [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 
 ### Gist & Cookbook
@@ -86,15 +86,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-+ [Creating interactive visualizations with {ggiraph} (with or without Shiny)](https://albert-rapp.de/posts/ggplot2-tips/17_ggiraph/17_ggiraph.html)
+- [Creating interactive visualizations with {ggiraph} (with or without Shiny)](https://albert-rapp.de/posts/ggplot2-tips/17_ggiraph/17_ggiraph.html)
 
 - [Decision Tree Modelling for Cost Effectiveness Analysis in R](https://jacobsmithecon.wordpress.com/2023/02/21/decision-tree-modelling-for-cost-effectiveness-analysis-in-r/)
 
-* [Convert Inline Footnotes to Regular Footnotes in Markdown](https://yihui.org/en/2023/02/markdown-footnotes/)
+- [Convert Inline Footnotes to Regular Footnotes in Markdown](https://yihui.org/en/2023/02/markdown-footnotes/)
 
 - [P-value bowling](https://www.sumsar.net/blog/p-value-bowling/)
 
-* [Sandwiches and aggregation](https://notstatschat.rbind.io/2023/02/21/sandwiches-and-aggregation/)
+- [Sandwiches and aggregation](https://notstatschat.rbind.io/2023/02/21/sandwiches-and-aggregation/)
 
 - [Calibrate and Plot a Time Series with {healthyR.ts}](https://www.spsanderson.com/steveondata/posts/rtip-2023-02-22/index.html)
 
