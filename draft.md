@@ -18,15 +18,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-- [forester: what makes the package special?](https://medium.com/responsibleml/forester-what-makes-the-package-special-9ece9b8a64d)
++ [forester: what makes the package special?](https://medium.com/responsibleml/forester-what-makes-the-package-special-9ece9b8a64d)
 
-- [Why should I use R: The Excel R Data Wrangling comparison: Part 1](https://www.jumpingrivers.com/blog/why-r-part-1/)
++ [Why should I use R: The Excel R Data Wrangling comparison: Part 1](https://www.jumpingrivers.com/blog/why-r-part-1/)
 
 ### R in the Real World
 
-- [rOpenSci Champions Program Kick off](https://ropensci.org/blog/2023/02/21/champions-program-kick-off/)
++ [rOpenSci Champions Program Kick off](https://ropensci.org/blog/2023/02/21/champions-program-kick-off/)
 
-- [Forecasting Disney Stock Prices as the Latest Earnings Beat Estimates](https://datageeek.com/2023/02/22/forecasting-disney-stock-prices-as-the-latest-earnings-beat-estimates/)
++ [Forecasting Disney Stock Prices as the Latest Earnings Beat Estimates](https://datageeek.com/2023/02/22/forecasting-disney-stock-prices-as-the-latest-earnings-beat-estimates/)
 
 ###  R in Organizations
 
@@ -47,13 +47,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-- [xts_0.13.0 on CRAN](https://blog.fosstrading.com/2023/02/xts-0-13-0-on-cran.html)
++ [xts_0.13.0 on CRAN](https://blog.fosstrading.com/2023/02/xts-0-13-0-on-cran.html)
 
-- [RcppArmadillo 0.12.0.1.0 on CRAN: New Upstream, New Features](http://dirk.eddelbuettel.com/blog/2023/02/22/#rcpparmadillo_0.12.0.1.0)
++ [RcppArmadillo 0.12.0.1.0 on CRAN: New Upstream, New Features](http://dirk.eddelbuettel.com/blog/2023/02/22/#rcpparmadillo_0.12.0.1.0)
 
-- [simstudy 0.6.0 released: more flexible correlation patterns](https://www.rdatagen.net/post/2023-02-21-flexible-correlation-generation-revisiting-block-matrices-for-temporal-patterns-in-simstudy/)
++ [simstudy 0.6.0 released: more flexible correlation patterns](https://www.rdatagen.net/post/2023-02-21-flexible-correlation-generation-revisiting-block-matrices-for-temporal-patterns-in-simstudy/)
 
-* [dtplyr 1.3.0](https://www.tidyverse.org/blog/2023/02/dtplyr-1-3-0/)
++ [dtplyr 1.3.0](https://www.tidyverse.org/blog/2023/02/dtplyr-1-3-0/)
 
 **Bioconductor**
 
@@ -78,7 +78,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-- [NYED Data Explorer Shows 15 Years of Charter School Success](https://redwallanalytics.com/2023/02/22/nyed-data-explorer-shows-15-years-of-charter-school-success/)
++ [NYED Data Explorer Shows 15 Years of Charter School Success](https://redwallanalytics.com/2023/02/22/nyed-data-explorer-shows-15-years-of-charter-school-success/)
 
 ### R Internationally
 
@@ -86,17 +86,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-- [Creating interactive visualizations with {ggiraph} (with or without Shiny)](https://albert-rapp.de/posts/ggplot2-tips/17_ggiraph/17_ggiraph.html)
++ [Creating interactive visualizations with {ggiraph} (with or without Shiny)](https://albert-rapp.de/posts/ggplot2-tips/17_ggiraph/17_ggiraph.html)
 
 - [Decision Tree Modelling for Cost Effectiveness Analysis in R](https://jacobsmithecon.wordpress.com/2023/02/21/decision-tree-modelling-for-cost-effectiveness-analysis-in-r/)
 
-- [Convert Inline Footnotes to Regular Footnotes in Markdown](https://yihui.org/en/2023/02/markdown-footnotes/)
++ [Convert Inline Footnotes to Regular Footnotes in Markdown](https://yihui.org/en/2023/02/markdown-footnotes/)
 
-- [P-value bowling](https://www.sumsar.net/blog/p-value-bowling/)
++ [P-value bowling](https://www.sumsar.net/blog/p-value-bowling/)
 
-- [Sandwiches and aggregation](https://notstatschat.rbind.io/2023/02/21/sandwiches-and-aggregation/)
++ [Sandwiches and aggregation](https://notstatschat.rbind.io/2023/02/21/sandwiches-and-aggregation/)
 
-- [Calibrate and Plot a Time Series with {healthyR.ts}](https://www.spsanderson.com/steveondata/posts/rtip-2023-02-22/index.html)
++ [Calibrate and Plot a Time Series with {healthyR.ts}](https://www.spsanderson.com/steveondata/posts/rtip-2023-02-22/index.html)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -133,7 +133,7 @@ Events in 3 Months:
 
 Event after that: 
 
-- [Shiny in Production 2023: Workshops](https://www.jumpingrivers.com/blog/sip23-workshops/)
++ [Shiny in Production 2023: Workshops](https://www.jumpingrivers.com/blog/sip23-workshops/)
 
 
 ### Grants & Funding
