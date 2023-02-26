@@ -382,4 +382,8 @@
 "https://www.getrevue.co/profile/harshbutjust?format=rss",1,"https://twitter.com/harshbutjust"
 "https://jmablog.com/tags/r/index.xml",0,"https://twitter.com/jmablog"
 "https://oscarbaruffa.com/category/r-programming/feed",1,"https://twitter.com/OscarBaruffa"
-"https://blog.r-project.org/index.xml",1
+"https://blog.r-project.org/index.xml",1,""
+"https://dieghernan.github.io/rweekly.xml",1,"https://twitter.com/dhernangomez"
+"https://tomsing1.github.io/blog/index.xml",1,"https://twitter.com/thomas_sandmann"
+"https://www.sumsar.net/tags/r/index.xml", 1, "https://twitter.com/rabaath"
+"https://epiverse-trace.github.io/blog-r%20package.xml",1,""
