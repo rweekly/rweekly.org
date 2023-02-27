@@ -13,6 +13,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+* [Tom's Diner, rang, Bioconductor for nonbioinformaticians, or my preconceptions about dependencies are wrong](https://chainsawriot.com/postmannheim/2023/02/26/rang.html)
+
 ### R in the Real World
 
 ### R in Organizations
