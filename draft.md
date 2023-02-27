@@ -60,8 +60,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **GitHub or Bitbucket**
-
-
++ [ShinyFriendlyCaptcha 0.0.1 : provide GDPR compliant captcha to Shiny apps](https://github.com/mhanf/ShinyFriendlyCaptcha)
 
 ### Updated Packages
 
