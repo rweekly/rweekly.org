@@ -17,6 +17,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
++ [xG Model Calibration](https://tonyelhabr.rbind.io/posts/opta-xg-model-calibration/)
+
 ### R in Organizations
 
 ### R in Academia
@@ -45,11 +47,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
++ [NBL 2022-2023 Season In Game Win Probability]([https://t.co/CjDNaM3UqZ](https://nbl-r-shiny.herokuapp.com/))
+
 ### R Internationally
 
 ### Tutorials
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+
++ [Deploying an R Shiny App on Heroku via GitHub Actions and Dockerfile to Access Private GitHub Repositories](https://www.dontblamethedata.com/blog/deploy-r-shiny-heroku-docker-github-actions/)
 
 ### R Project Updates
 
