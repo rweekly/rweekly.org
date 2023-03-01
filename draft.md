@@ -17,6 +17,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
+* [Render parameterized reports with Quarto](https://www.jhelvy.com/posts/2023-02-28-parameterized-pdfs-with-quarto/)
+
 ### R in Organizations
 
 ### R in Academia
@@ -28,6 +30,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
+
+- [{cbcTools}](https://github.com/jhelvy/cbcTools) v0.2.0 is now published for the first time on CRAN: https://cran.r-project.org/web/packages/cbcTools/index.html
 
 **Bioconductor**
 
