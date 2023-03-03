@@ -15,8 +15,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [Tom's Diner, rang, Bioconductor for nonbioinformaticians, or my preconceptions about dependencies are wrong](https://chainsawriot.com/postmannheim/2023/02/26/rang.html)
 
-* [January 2023: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2023/02/28/january-2023-top-40-new-cran-packages/)
-
 ### R in the Real World
 
 ### R in Organizations
@@ -56,6 +54,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
+### Call for Participation
+
++ [posit::conf(2023) registration and call for talk submissions are now open!](https://posit.co/blog/posit-conf-2023-registration-open/)
 
 ### Upcoming Events in 3 Months
 
