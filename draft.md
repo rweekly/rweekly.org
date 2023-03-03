@@ -37,6 +37,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{nanonext} 0.8.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library
+
 ### Videos and Podcasts
 
 - [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
