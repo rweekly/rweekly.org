@@ -49,6 +49,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Learn where to find reliable climate data and use ggplot2 to show global warming](https://codingthepast.com/2023/01/24/Historical-Weather-Data.html)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
