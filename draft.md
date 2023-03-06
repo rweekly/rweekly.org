@@ -15,6 +15,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [Tom's Diner, rang, Bioconductor for nonbioinformaticians, or my preconceptions about dependencies are wrong](https://chainsawriot.com/postmannheim/2023/02/26/rang.html)
 
+* [Do bonus points lead to more tries in 6 Nations matches?](https://www.etiennebacher.com/posts/2023-03-01-do-bonus-points-lead-to-more-tries-in-6-nations-matches/)
+
 ### R in the Real World
 
 + [xG Model Calibration](https://tonyelhabr.rbind.io/posts/opta-xg-model-calibration/)
