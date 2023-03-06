@@ -21,6 +21,8 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 
 + [A comparison of tidyverse and Base-R](https://towardsdatascience.com/tidyverse-vs-base-r-how-to-choose-the-best-framework-for-you-29b702bdb384)
 
++ [Top 40 New Cran Packages of January 2023](https://www.r-bloggers.com/2023/02/january-2023-top-40-new-cran-packages/)
+
 ### R in the Real World
 
 + [xG Model Calibration](https://tonyelhabr.rbind.io/posts/opta-xg-model-calibration/)
@@ -48,6 +50,11 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 ### Resources
 
 + [Search for packages in r-universe](https://ropensci.org/blog/2023/02/27/runiverse-discovering/)
+
++ [New Books added to Big Book of R](https://oscarbaruffa.com/bbofr2023-03-03/)
+
++ [Essential tools for text cleaning in R](https://twitter.com/rappa753/status/1632048287426711552)
+
 
 ### New Packages
 
