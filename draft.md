@@ -17,9 +17,7 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 
 + [Tom's Diner, rang, Bioconductor for nonbioinformaticians, or my preconceptions about dependencies are wrong](https://chainsawriot.com/postmannheim/2023/02/26/rang.html)
 
-+ [A visual tour of the meta-verse](https://twitter.com/kdpsinghlab/status/1629333016798539776?s=20)
-
-+ [A comparison of tidyverse and Base-R](https://towardsdatascience.com/tidyverse-vs-base-r-how-to-choose-the-best-framework-for-you-29b702bdb384)
++ [Top 40 New Cran Packages of January 2023](https://www.r-bloggers.com/2023/02/january-2023-top-40-new-cran-packages/)
 
 ### R in the Real World
 
@@ -29,23 +27,23 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 
 + [Learn where to find reliable climate data and use ggplot2 to show global warming](https://codingthepast.com/2023/01/24/Historical-Weather-Data.html)
 
-+ [The R community in Argentina](https://www.r-consortium.org/blog/2023/03/02/adoption-and-expansion-of-r-in-human-resources-in-argentina)
-
-+ [Use R to find the perfect kids video](https://towardsdatascience.com/r-for-data-analysis-how-to-find-the-perfect-cocomelon-video-for-your-kids-833d6b2d9267)
-
 ### R in Organizations
 
 + [Using R in an High Performance Computing environment](https://www.r-bloggers.com/2023/03/using-r-in-an-high-performance-computing-environment/)
 
-+ [Meet the ThinkR universe](https://ropensci.org/blog/2023/02/28/r-universe-stars-2-en/)
-
 ### R in Academia
-
-+ [Untangling the complex interactions between turtle ants and their microbial partners](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-022-00223-7)
 
 ### Resources
 
 + [Search for packages in r-universe](https://ropensci.org/blog/2023/02/27/runiverse-discovering/)
+
++ [New Books added to Big Book of R](https://oscarbaruffa.com/bbofr2023-03-03/)
+
++ [Plot high density regions with ggdensity](https://www.business-science.io/code-tools/2022/07/21/ggdensity-plot-high-density.html?utm_content=buffer9e9d8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
++ [Essential tools for text cleaning in R](https://twitter.com/rappa753/status/1632048287426711552)
+
++ [Call ChatGPT from R](https://www.r-bloggers.com/2023/03/call-chatgpt-or-really-any-other-api-from-r/)
 
 ### New Packages
 
@@ -53,21 +51,11 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 
 **CRAN**
 
-+ [{gto}: gt in the officeverse](https://github.com/GSK-Biostatistics/gto)
-
-- [{cbcTools} 0.2.0](https://github.com/jhelvy/cbcTools): https://cran.r-project.org/web/packages/cbcTools/index.html
-
-+ [{archeoViz} 1.0.0](https://cran.r-project.org/web/packages/archeoViz/index.html)
-
-+ [{nwslR}: Women's soccer data](https://github.com/nwslR/nwslR)
+- [{cbcTools}](https://github.com/jhelvy/cbcTools) v0.2.0 is now published for the first time on CRAN: https://cran.r-project.org/web/packages/cbcTools/index.html
 
 **Bioconductor**
 
 **GitHub or Bitbucket**
-
-+ [{rWCVP}: plant name data](https://matildabrown.github.io/rWCVP/)
-
-+ [{cbcTools}: choice-based survey data analysis](https://jhelvy.github.io/cbcTools/)
 
 ### Updated Packages
 
@@ -75,33 +63,15 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 
 + [{nanonext} 0.8.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library
 
-+ [{chatGPT} 0.3.0](https://cran.r-project.org/web/packages/chatgpt/)
-
-- [{shinyProxy 3.0.0}](https://www.r-bloggers.com/2023/03/shinyproxy-3-0-0/)
-
-- [{shinyrouter 0.3.0}](https://appsilon.github.io/shiny.router/)
-
 ### Videos and Podcasts
 
 - [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-- [Talks from BiocAsia 2022](https://www.youtube.com/playlist?list=PLdl4u5ZRDMQRjQRyAlm4KpRbs1AD1ZODk)
-
-- [TidyTuesday livecast](https://www.youtube.com/watch?v=TUaMflYc7CQ)
-
 ### Gist & Cookbook
-
-+ [Helpful function for MCMC with NIMBLE or JAGS](https://masonfidino.com/split_mcmc/)
 
 ### Shiny Apps
 
 + [NBL 2022-2023 Season In Game Win Probability]([https://t.co/CjDNaM3UqZ](https://nbl-r-shiny.herokuapp.com/))
-
-+ [Milano air quality](https://othomantegazza.github.io/milano-air-quality-v2/)
-
-+ [Understanding the slope and intercept of a regression line](https://ellaudet.shinyapps.io/Linear_Model/)
-
-+ [Kenyan tourism](https://rpubs.com/marymuthee/tourism)
 
 ### R Internationally
 
@@ -110,18 +80,6 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 + [Render parameterized reports with Quarto](https://www.jhelvy.com/posts/2023-02-28-parameterized-pdfs-with-quarto/)
 
 + [Distribution Regression with R](https://arelbundock.com/posts/distribution_regression/)
-
-+ [Plot moving average in R](https://datacornering.com/plot-moving-average-in-r-using-ggplot2/)
-
-+ [Save space in faceted plots](https://ikashnitsky.github.io/2023/shrink-space/index.html)
-
-+ [Interpreting the Bayesian Rota model](https://masonfidino.com/interpret_rota_model/)
-
-+ [How to call ChatGPT from R](https://www.sumsar.net/blog/call-chatgpt-from-r/)
-
-+ [Standardizing data in R](https://www.marsja.se/how-to-standardize-data-in-r-numeric-only/?utm_source=twitter&utm_medium=website&utm_campaign=SocialSnap)
-
-+ [Add polynomial regression lines to R plots](https://statisticsglobe.com/add-polynomial-regression-line-plot-r)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -146,16 +104,6 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-+ [March 6: Data science program for French-Speaking women in Africa](https://www.r-consortium.org/blog/2023/03/02/data-science-program-for-french-speaking-women-in-africa)
-
-+ [March 9: Designing charts in R](https://www.eventbrite.com/e/dvs-masterclass-designing-charts-in-r-tickets-559100674167)
-
-+ [April 20: Dataviz with R and ggplot: Using colour and annotations for effective story telling workshop](https://www.r-bloggers.com/2023/03/dataviz-with-r-and-ggplot-using-colour-and-annotations-for-effective-story-telling-workshop/)
-
-+ [April 13: Generalized Additive Models in R](https://www.r-bloggers.com/2023/03/generalized-additive-models-in-r-workshop/)
-
-
-
 ### Grants & Funding
 
 + R Consortium [ISC Call for Proposals](https://www.r-consortium.org/all-projects/call-for-proposals) - Infrastructure Steering Committee (ISC) grants for low-to-medium risk projects with a focused scope and likely to have a broad impact on the R Community. Deadline 2023-04-01.
@@ -170,12 +118,6 @@ Events in 3 Months:
 
 ### rtistry
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💙 Saturday art in <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a>!<a href="https://twitter.com/hashtag/GenArtClub?src=hash&amp;ref_src=twsrc%5Etfw">#GenArtClub</a> <a href="https://twitter.com/hashtag/GenerativeArt?src=hash&amp;ref_src=twsrc%5Etfw">#GenerativeArt</a> <a href="https://t.co/pEii6POI52">pic.twitter.com/pEii6POI52</a></p>&mdash; Nicola Rennie | @nrennie@fosstodon.org (@nrennie35) <a href="https://twitter.com/nrennie35/status/1632056818410180608?ref_src=twsrc%5Etfw">March 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ### Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What stresses me out isn’t the same thing that stressed my parents out. <br><br>True story. 🧵<a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/i0Iq4QX3B3">pic.twitter.com/i0Iq4QX3B3</a></p>&mdash; Matt Dancho (Business Science) (@mdancho84) <a href="https://twitter.com/mdancho84/status/1631010040260841488?ref_src=twsrc%5Etfw">March 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">object of type &#39;closure&#39; is not subsettable<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://t.co/5z9khzb4tz">pic.twitter.com/5z9khzb4tz</a></p>&mdash; Isabella Velásquez (@ivelasq3) <a href="https://twitter.com/ivelasq3/status/1630693406086430720?ref_src=twsrc%5Etfw">February 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">3 months working mostly with Python, and there&#39;s not a single day when I don&#39;t deeply miss <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> and especially the tidyverse environment for all things data-related 😭 <a href="https://t.co/bjIAEENvSb">pic.twitter.com/bjIAEENvSb</a></p>&mdash; Ariane Aumaitre (Taylor&#39;s Version) (@ariamsita) <a href="https://twitter.com/ariamsita/status/1630931733892800515?ref_src=twsrc%5Etfw">March 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
