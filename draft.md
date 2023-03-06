@@ -33,6 +33,8 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 
 + [Use R to find the perfect kids video](https://towardsdatascience.com/r-for-data-analysis-how-to-find-the-perfect-cocomelon-video-for-your-kids-833d6b2d9267)
 
++ [Equity analysis of Liverpool](https://github.com/aelissa/LCR_20MN)
+
 ### R in Organizations
 
 + [Using R in an High Performance Computing environment](https://www.r-bloggers.com/2023/03/using-r-in-an-high-performance-computing-environment/)
@@ -69,6 +71,8 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 
 + [{cbcTools}: choice-based survey data analysis](https://jhelvy.github.io/cbcTools/)
 
++ [{deft}: make fast data frames in C](https://github.com/coolbutuseless/deft)
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
@@ -102,6 +106,8 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 + [Understanding the slope and intercept of a regression line](https://ellaudet.shinyapps.io/Linear_Model/)
 
 + [Kenyan tourism](https://rpubs.com/marymuthee/tourism)
+
++ [NICAR data journalism resources](https://www.machlis.com/nicar/)
 
 ### R Internationally
 
