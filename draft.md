@@ -7,7 +7,7 @@ image: https://rweekly.org/public/facebook.png
 
 - [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Kelly Bodwin](www.twitter.com/KellyBodwin) and [Emily Robinson](www.twitter.com/emilyrobinson_a), with help from the R Weekly team members and contributors.
 
 ### Highlight
 
@@ -22,6 +22,8 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 + [A comparison of tidyverse and Base-R](https://towardsdatascience.com/tidyverse-vs-base-r-how-to-choose-the-best-framework-for-you-29b702bdb384)
 
 + [Top 40 New Cran Packages of January 2023](https://www.r-bloggers.com/2023/02/january-2023-top-40-new-cran-packages/)
+
++ ["I can't be parsed, mate!" Parsing in R](https://www.rostrum.blog/2023/03/03/getparsedata/)
 
 ### R in the Real World
 
@@ -163,9 +165,13 @@ Events in 3 Months:
 
 + [March 9: Designing charts in R](https://www.eventbrite.com/e/dvs-masterclass-designing-charts-in-r-tickets-559100674167)
 
+- [March 15-17: ShinyConf 2023](https://shinyconf.appsilon.com/registration/?utm_medium=social&utm_source=twitter&utm_campaign=register-sm)
+
 + [April 20: Dataviz with R and ggplot: Using colour and annotations for effective story telling workshop](https://www.r-bloggers.com/2023/03/dataviz-with-r-and-ggplot-using-colour-and-annotations-for-effective-story-telling-workshop/)
 
 + [April 13: Generalized Additive Models in R](https://www.r-bloggers.com/2023/03/generalized-additive-models-in-r-workshop/)
+
+- [SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london/)
 
 
 
