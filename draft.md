@@ -88,6 +88,8 @@ Events in 3 Months:
 
 ### Grants & Funding
 
++ R Consortium [ISC Call for Proposals](https://www.r-consortium.org/all-projects/call-for-proposals) - Infrastructure Steering Committee (ISC) grants for low-to-medium risk projects with a focused scope and likely to have a broad impact on the R Community. Deadline 2023-04-01.
+
 ### Datasets
 
 ### Jobs
