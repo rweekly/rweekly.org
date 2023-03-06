@@ -7,28 +7,33 @@ image: https://rweekly.org/public/facebook.png
 
 - [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), with help from the R Weekly team members and contributors.
 
 ### Highlight
 
 ### Insights
 
-* [Tom's Diner, rang, Bioconductor for nonbioinformaticians, or my preconceptions about dependencies are wrong](https://chainsawriot.com/postmannheim/2023/02/26/rang.html)
++ [Happy 23rd birthday, R!](https://www.r-consortium.org/blog/2023/02/28/happy-23rd-birthday-r)
 
-* [Do bonus points lead to more tries in 6 Nations matches?](https://www.etiennebacher.com/posts/2023-03-01-do-bonus-points-lead-to-more-tries-in-6-nations-matches/)
++ [Tom's Diner, rang, Bioconductor for nonbioinformaticians, or my preconceptions about dependencies are wrong](https://chainsawriot.com/postmannheim/2023/02/26/rang.html)
 
 ### R in the Real World
 
 + [xG Model Calibration](https://tonyelhabr.rbind.io/posts/opta-xg-model-calibration/)
 
-+ [Render parameterized reports with Quarto](https://www.jhelvy.com/posts/2023-02-28-parameterized-pdfs-with-quarto/)
++ [Do bonus points lead to more tries in 6 Nations matches?](https://www.etiennebacher.com/posts/2023-03-01-do-bonus-points-lead-to-more-tries-in-6-nations-matches/)
 
++ [Learn where to find reliable climate data and use ggplot2 to show global warming](https://codingthepast.com/2023/01/24/Historical-Weather-Data.html)
 
 ### R in Organizations
+
++ [Using R in an High Performance Computing environment](https://www.r-bloggers.com/2023/03/using-r-in-an-high-performance-computing-environment/)
 
 ### R in Academia
 
 ### Resources
+
++ [Search for packages in r-universe](https://ropensci.org/blog/2023/02/27/runiverse-discovering/)
 
 ### New Packages
 
@@ -62,7 +67,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-+ [Learn where to find reliable climate data and use ggplot2 to show global warming](https://codingthepast.com/2023/01/24/Historical-Weather-Data.html)
++ [Render parameterized reports with Quarto](https://www.jhelvy.com/posts/2023-02-28-parameterized-pdfs-with-quarto/)
+
++ [Distribution Regression with R](https://arelbundock.com/posts/distribution_regression/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -92,6 +100,8 @@ Events in 3 Months:
 
 ### Datasets
 
+
+
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
@@ -99,3 +109,5 @@ Events in 3 Months:
 ### rtistry
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What stresses me out isn’t the same thing that stressed my parents out. <br><br>True story. 🧵<a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/i0Iq4QX3B3">pic.twitter.com/i0Iq4QX3B3</a></p>&mdash; Matt Dancho (Business Science) (@mdancho84) <a href="https://twitter.com/mdancho84/status/1631010040260841488?ref_src=twsrc%5Etfw">March 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
