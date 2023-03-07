@@ -21,6 +21,7 @@ This week’s release was curated by []() and [](), with help from the R Weekly 
 
 ### R in Organizations
 
+- [Connecting to Snowflake from R using an odbc connection on a M1 Mac](https://lukas-r.blog/posts/2023-03-05-finally-solving-the-mac-m1-odbc-issue/)
 
 
 ### R in Academia
