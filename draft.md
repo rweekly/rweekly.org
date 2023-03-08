@@ -1,19 +1,17 @@
 ---
 layout: draft
-title: R Weekly 2022-W00
+title: R Weekly 2023-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
 - [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), with help from the R Weekly team members and contributors.
+This week’s release was curated by []() and [](), with help from the R Weekly team members and contributors.
 
 ### Highlight
 
 ### Insights
-
-+ [Happy 23rd birthday, R!](https://www.r-consortium.org/blog/2023/02/28/happy-23rd-birthday-r)
 
 + [Tom's Diner, rang, Bioconductor for nonbioinformaticians, or my preconceptions about dependencies are wrong](https://chainsawriot.com/postmannheim/2023/02/26/rang.html)
 
@@ -21,21 +19,13 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 
 ### R in the Real World
 
-+ [xG Model Calibration](https://tonyelhabr.rbind.io/posts/opta-xg-model-calibration/)
-
-+ [Do bonus points lead to more tries in 6 Nations matches?](https://www.etiennebacher.com/posts/2023-03-01-do-bonus-points-lead-to-more-tries-in-6-nations-matches/)
-
-+ [Learn where to find reliable climate data and use ggplot2 to show global warming](https://codingthepast.com/2023/01/24/Historical-Weather-Data.html)
-
 ### R in Organizations
 
-+ [Using R in an High Performance Computing environment](https://www.r-bloggers.com/2023/03/using-r-in-an-high-performance-computing-environment/)
+### R in Academia
 
 ### R in Academia
 
 ### Resources
-
-+ [Search for packages in r-universe](https://ropensci.org/blog/2023/02/27/runiverse-discovering/)
 
 + [New Books added to Big Book of R](https://oscarbaruffa.com/bbofr2023-03-03/)
 
@@ -57,6 +47,7 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 
 **GitHub or Bitbucket**
 
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
@@ -71,7 +62,9 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 
 ### Shiny Apps
 
-+ [NBL 2022-2023 Season In Game Win Probability]([https://t.co/CjDNaM3UqZ](https://nbl-r-shiny.herokuapp.com/))
+### Gist & Cookbook
+
+### Shiny Apps
 
 ### R Internationally
 
@@ -81,10 +74,8 @@ This week’s release was curated by [Kelly Bodwin]() and [Emily Robinson](), wi
 
 + [Distribution Regression with R](https://arelbundock.com/posts/distribution_regression/)
 
-
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
-+ [Deploying an R Shiny App on Heroku via GitHub Actions and Dockerfile to Access Private GitHub Repositories](https://www.dontblamethedata.com/blog/deploy-r-shiny-heroku-docker-github-actions/)
 
 ### R Project Updates
 
@@ -104,12 +95,19 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
+- [March 15-17: ShinyConf 2023](https://shinyconf.appsilon.com/registration/?utm_medium=social&utm_source=twitter&utm_campaign=register-sm)
+
++ [April 20: Dataviz with R and ggplot: Using colour and annotations for effective story telling workshop](https://www.r-bloggers.com/2023/03/dataviz-with-r-and-ggplot-using-colour-and-annotations-for-effective-story-telling-workshop/)
+
++ [April 13: Generalized Additive Models in R](https://www.r-bloggers.com/2023/03/generalized-additive-models-in-r-workshop/)
+
+- [SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london/)
+
 ### Grants & Funding
 
 + R Consortium [ISC Call for Proposals](https://www.r-consortium.org/all-projects/call-for-proposals) - Infrastructure Steering Committee (ISC) grants for low-to-medium risk projects with a focused scope and likely to have a broad impact on the R Community. Deadline 2023-04-01.
 
 ### Datasets
-
 
 
 ### Jobs
@@ -121,3 +119,6 @@ Events in 3 Months:
 ### Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What stresses me out isn’t the same thing that stressed my parents out. <br><br>True story. 🧵<a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/i0Iq4QX3B3">pic.twitter.com/i0Iq4QX3B3</a></p>&mdash; Matt Dancho (Business Science) (@mdancho84) <a href="https://twitter.com/mdancho84/status/1631010040260841488?ref_src=twsrc%5Etfw">March 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Quotes of the Week
+
