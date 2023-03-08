@@ -13,24 +13,27 @@ This week’s release was curated by []() and [](), with help from the R Weekly 
 
 ### Insights
 
++ [Tom's Diner, rang, Bioconductor for nonbioinformaticians, or my preconceptions about dependencies are wrong](https://chainsawriot.com/postmannheim/2023/02/26/rang.html)
 
++ [Top 40 New Cran Packages of January 2023](https://www.r-bloggers.com/2023/02/january-2023-top-40-new-cran-packages/)
 
 ### R in the Real World
 
-
-
 ### R in Organizations
-
-
 
 ### R in Academia
 
-
+### R in Academia
 
 ### Resources
 
++ [New Books added to Big Book of R](https://oscarbaruffa.com/bbofr2023-03-03/)
 
++ [Plot high density regions with ggdensity](https://www.business-science.io/code-tools/2022/07/21/ggdensity-plot-high-density.html?utm_content=buffer9e9d8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
++ [Essential tools for text cleaning in R](https://twitter.com/rappa753/status/1632048287426711552)
+
++ [Call ChatGPT from R](https://www.r-bloggers.com/2023/03/call-chatgpt-or-really-any-other-api-from-r/)
 
 ### New Packages
 
@@ -38,37 +41,38 @@ This week’s release was curated by []() and [](), with help from the R Weekly 
 
 **CRAN**
 
-
+- [{cbcTools}](https://github.com/jhelvy/cbcTools) v0.2.0 is now published for the first time on CRAN: https://cran.r-project.org/web/packages/cbcTools/index.html
 
 **Bioconductor**
 
 **GitHub or Bitbucket**
 
 
-
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{nanonext} 0.8.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library
 
 ### Videos and Podcasts
 
 - [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-
 ### Gist & Cookbook
-
-
 
 ### Shiny Apps
 
+### Gist & Cookbook
 
+### Shiny Apps
 
 ### R Internationally
 
 ### Tutorials
 
++ [Render parameterized reports with Quarto](https://www.jhelvy.com/posts/2023-02-28-parameterized-pdfs-with-quarto/)
 
++ [Distribution Regression with R](https://arelbundock.com/posts/distribution_regression/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -99,14 +103,11 @@ Events in 3 Months:
 
 - [SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london/)
 
-
-
 ### Grants & Funding
 
 + R Consortium [ISC Call for Proposals](https://www.r-consortium.org/all-projects/call-for-proposals) - Infrastructure Steering Committee (ISC) grants for low-to-medium risk projects with a focused scope and likely to have a broad impact on the R Community. Deadline 2023-04-01.
 
 ### Datasets
-
 
 
 ### Jobs
@@ -115,6 +116,9 @@ Events in 3 Months:
 
 ### rtistry
 
+### Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What stresses me out isn’t the same thing that stressed my parents out. <br><br>True story. 🧵<a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/i0Iq4QX3B3">pic.twitter.com/i0Iq4QX3B3</a></p>&mdash; Matt Dancho (Business Science) (@mdancho84) <a href="https://twitter.com/mdancho84/status/1631010040260841488?ref_src=twsrc%5Etfw">March 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
