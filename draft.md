@@ -25,10 +25,6 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 ![webR Photo by DALL·E 2](https://raw.githubusercontent.com/rweekly/image/master/2023/W11/thumbnail-wd_600.jpg)
 
-+ [Software engineering techniques that non-programmers who write a lot of code can benefit from — the DRY WIT approach](https://www.brodrigues.co/blog/2023-03-07-dry_wit/)
-
-![Software engineer](https://raw.githubusercontent.com/rweekly/image/master/2023/W11/archetypical_data_scientist_600.png)
-
 + [What I've learned making an .epub Ebook with Quarto](https://www.brodrigues.co/blog/2023-03-03-quarto_books/)
 
 + [Copilot for R](https://blog.revolutionanalytics.com/2023/03/copilot-for-r.html)
@@ -45,6 +41,10 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [hrbrmstr's WebR (webR?) Experiments](https://github.com/hrbrmstr/webr-experiments)
 
++ [Software engineering techniques that non-programmers who write a lot of code can benefit from — the DRY WIT approach](https://www.brodrigues.co/blog/2023-03-07-dry_wit/)
+
+![Software engineer by DALL·E 2](https://raw.githubusercontent.com/rweekly/image/master/2023/W11/archetypical_data_scientist_600.png)
+
 ### R in the Real World
 
 + [Data Science Program for French-speaking Women in Africa](https://www.r-consortium.org/blog/2023/03/02/data-science-program-for-french-speaking-women-in-africa)
@@ -58,7 +58,6 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 ![Featured image on Network Error Logging](https://raw.githubusercontent.com/rweekly/image/master/2023/W11/featured_600.jpg)
 
 + [Content Security Policy - Why You Need It](https://www.jumpingrivers.com/blog/content-security-policy-shiny-posit-connect/)
-
 
 ### R in Academia
 
@@ -203,6 +202,7 @@ Events in 3 Months:
 
 + [April 22: SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london-speakers/)
 
+![SatRdays Hex by Jumping Rivers](https://raw.githubusercontent.com/rweekly/image/master/2023/W11/saturday-featured_600.png)
 
 ### Grants & Funding
 
