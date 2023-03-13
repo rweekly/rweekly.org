@@ -11,6 +11,12 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 ### Highlight
 
++ [webR 0.1.0 has been released](https://www.tidyverse.org/blog/2023/03/webr-0-1-0/)
+
++ [Software engineering techniques that non-programmers who write a lot of code can benefit from — the DRY WIT approach](https://www.brodrigues.co/blog/2023-03-07-dry_wit/)
+
++ [webR with Quarto HTML Standalone Document Proof of Concept](https://rd.thecoatlessprofessor.com/webR-quarto-demos/webr-quarto-html-demo.html)
+
 ### Insights
 
 + [tidyverse 2.0.0](https://www.tidyverse.org/blog/2023/03/tidyverse-2-0-0/)
@@ -30,6 +36,10 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 + [webR with Quarto HTML Standalone Document Proof of Concept](https://rd.thecoatlessprofessor.com/webR-quarto-demos/webr-quarto-html-demo.html)
 
 + [RStudio 2022.12.0: What’s New](https://posit.co/blog/rstudio-2022-12-0-update-whats-new/)
+
++ [Deep learning with Keras using MNIST dataset](https://divingintogeneticsandgenomics.rbind.io/post/deep-learning-with-keras-using-mnst-dataset/)
+
++ [hrbrmstr's WebR (webR?) Experiments](https://github.com/hrbrmstr/webr-experiments)
 
 ### R in the Real World
 
@@ -156,6 +166,8 @@ to the 'knitr' Output Format - [diffify](https://diffify.com/R/printr)
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 + [Call ChatGPT (or really any other API) from R](https://sumsar.net/blog/call-chatgpt-from-r/)
+
++ [Almost Bare Bones WebR Starter App](https://rud.is/b/2023/03/12/almost-bare-bones-webr-starter-app/)
 
 ### R Project Updates
 
