@@ -23,7 +23,11 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [webR 0.1.0 has been released](https://www.tidyverse.org/blog/2023/03/webr-0-1-0/)
 
+![webR Photo by DALL·E 2](https://raw.githubusercontent.com/rweekly/image/master/2023/W11/thumbnail-wd_600.jpg)
+
 + [Software engineering techniques that non-programmers who write a lot of code can benefit from — the DRY WIT approach](https://www.brodrigues.co/blog/2023-03-07-dry_wit/)
+
+![Software engineer](https://raw.githubusercontent.com/rweekly/image/master/2023/W11/archetypical_data_scientist_600.png)
 
 + [What I've learned making an .epub Ebook with Quarto](https://www.brodrigues.co/blog/2023-03-03-quarto_books/)
 
@@ -50,6 +54,8 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 - [Connecting to Snowflake from R using an odbc connection on a M1 Mac](https://lukas-r.blog/posts/2023-03-05-finally-solving-the-mac-m1-odbc-issue/)
 
 + [Network Error Logging - Important Insights](https://www.jumpingrivers.com/blog/network-error-logging-shiny-posit-connect/)
+
+![Featured image on Network Error Logging](https://raw.githubusercontent.com/rweekly/image/master/2023/W11/featured_600.jpg)
 
 + [Content Security Policy - Why You Need It](https://www.jumpingrivers.com/blog/content-security-policy-shiny-posit-connect/)
 
@@ -169,6 +175,8 @@ to the 'knitr' Output Format - [diffify](https://diffify.com/R/printr)
 
 + [Almost Bare Bones WebR Starter App](https://rud.is/b/2023/03/12/almost-bare-bones-webr-starter-app/)
 
+![WebR Demo Example](https://raw.githubusercontent.com/rweekly/image/master/2023/W11/Screenshot-2023-03-12-at-10.24.18_600.png)
+
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
@@ -191,11 +199,10 @@ Events in 3 Months:
 
 + [April 20: Dataviz with R and ggplot: Using colour and annotations for effective story telling workshop](https://www.r-bloggers.com/2023/03/dataviz-with-r-and-ggplot-using-colour-and-annotations-for-effective-story-telling-workshop/)
 
-+ [April 22: SatRdays London 2023: Speakers](https://www.jumpingrivers.com/blog/satrdays-london-speakers/)
++ [April 13: Generalized Additive Models in R Workshop](https://www.r-bloggers.com/2023/03/generalized-additive-models-in-r-workshop/)
 
-+ [April 13: Generalized Additive Models in R](https://www.r-bloggers.com/2023/03/generalized-additive-models-in-r-workshop/)
++ [April 22: SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london-speakers/)
 
-- [SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london/)
 
 ### Grants & Funding
 
