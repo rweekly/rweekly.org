@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Seeking community endorsement for an upgrade to Big Book of R](https://oscarbaruffa.com/bigbookofrupgrade/)
 
 ### R in the Real World
 
@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [chrome-rselenium](https://github.com/jrosell/chrome-rselenium): Use Google Chrome from your R scripts using WebDriver for navigating to web pages, user input, JavaScript execution, and more. 
 
 ###  New Packages
 
@@ -51,9 +51,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{oranguru}](https://github.com/ashbaldry/oranguru): Pokémon damage calculator for R.
 
 ### Updated Packages
+
++ [{metathis} 1.1.3](https://github.com/gadenbuie/metathis): <meta> tags and social media cards for R-made web things.
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
@@ -76,7 +78,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Modding Rome Total War (Avatar, The Last Airbender mod) using R!](https://ryo-n7.github.io/2023-03-15-modding-rometotalwar-with-R/)
 
++ [How to set up an R-based AWS Lambda to write to AWS S3 on a schedule](https://discindo.org/post/lambda-to-s3/)
+
++ [Almost Bare Bones WebR Starter App](https://github.com/hrbrmstr/webr-app)
+
++ [webR with Quarto HTML Standalone Document Proof of Concept](https://rd.thecoatlessprofessor.com/webR-quarto-demos/webr-quarto-html-demo.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
