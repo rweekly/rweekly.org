@@ -30,6 +30,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
+* [Some good practices for research with R](https://www.good-practices.etiennebacher.com/)
+
 
 
 ###  Resources
