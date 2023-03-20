@@ -59,9 +59,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{mirai} 0.8.0](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R - lightweight parallel code execution, local or distributed across the network.
+
 + [future 1.32.0](https://future.futureverse.org/): future: Unified Parallel and Distributed Processing in R for Everyone - [diffify](https://diffify.com/R/future)
 + [future.tests 0.6.0](https://future.tests.futureverse.org/): future.tests: Test Suite for 'Future API' Backends - [diffify](https://diffify.com/R/future.tests)
-
 
 ###  Videos and Podcasts
 
