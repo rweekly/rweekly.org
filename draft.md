@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [An analysis of 10-0 scoring runs in college basketball, using ggplot2 and gt to create graphs and tables](https://evanmiya.substack.com/p/the-power-of-the-10-0-run)
 
 ###  R in Organizations
 
