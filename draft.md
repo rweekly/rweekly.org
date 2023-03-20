@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2022-W00
+title: R Weekly 2023-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -58,6 +58,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{metathis} 1.1.3](https://github.com/gadenbuie/metathis): <meta> tags and social media cards for R-made web things.
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [future 1.32.0](https://future.futureverse.org/): future: Unified Parallel and Distributed Processing in R for Everyone - [diffify](https://diffify.com/R/future)
++ [future.tests 0.6.0](https://future.tests.futureverse.org/): future.tests: Test Suite for 'Future API' Backends - [diffify](https://diffify.com/R/future.tests)
+
 
 ###  Videos and Podcasts
 
