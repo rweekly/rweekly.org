@@ -13,6 +13,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
+* [Some good practices for research with R](https://www.good-practices.etiennebacher.com/)
+
++ [Modding Rome Total War (Avatar, The Last Airbender mod) using R!](http://Ryo-N7.github.io/2023-03-15-modding-rometotalwar-with-R/)
+
++ [How to set up an R-based AWS Lambda to write to AWS S3 on a schedule](https://discindo.org/post/lambda-to-s3/)
 
 
 ### Insights
@@ -285,17 +290,6 @@ API - [diffify](https://diffify.com/R/ckanr)
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ###  Tutorials
 
@@ -318,7 +312,6 @@ API - [diffify](https://diffify.com/R/ckanr)
 + [How to Win a Game (or More) of Super Six](http://staff.math.su.se/hoehle/blog/2023/03/13/super6.html)
 
 + [Introduction to data analysis with {Statgarten}.](https://r-posts.com/introduction-to-data-analysis-with-statgarten/)
-
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -350,8 +343,6 @@ Events in 3 Months:
 ### Grants & Funding
 
 + R Consortium [ISC Call for Proposals](https://www.r-consortium.org/all-projects/call-for-proposals) - Infrastructure Steering Committee (ISC) grants for low-to-medium risk projects with a focused scope and likely to have a broad impact on the R Community. Deadline 2023-04-01.
-
-### Datasets
 
 
 ### Jobs
