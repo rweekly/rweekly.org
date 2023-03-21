@@ -104,6 +104,8 @@ Events in 3 Months:
 
 + [April 22: SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london-speakers/)
 
++ [June 21-23: Rencontres R Avignon, France](https://rr2023.sciencesconf.org) [@rencontres_R](https://twitter.com/rencontres_r)
+
 ### Grants & Funding
 
 + R Consortium [ISC Call for Proposals](https://www.r-consortium.org/all-projects/call-for-proposals) - Infrastructure Steering Committee (ISC) grants for low-to-medium risk projects with a focused scope and likely to have a broad impact on the R Community. Deadline 2023-04-01.
