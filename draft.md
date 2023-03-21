@@ -28,16 +28,20 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [GooglyPlusPlus: Computing T20 player’s Win Probability Contribution](https://gigadom.in/2023/03/18/googlyplusplus-computing-t20-players-win-probability-contribution/)
 
+<img width="753" alt="Screenshot 2023-03-21 at 03 08 26" src="https://user-images.githubusercontent.com/53487593/226509097-2e1aeca3-c1b5-4abf-a914-8226f8ffaa63.png">
+
+
 + [Seven Common Errors in Decision Curve Analysis](https://fharrell.com/post/edca/index.html)
 
 + [Getting Started with Simple Slopes Analysis](https://data.library.virginia.edu/getting-started-with-simple-slopes-analysis/)
-
-+ [Seeking community endorsement for an upgrade to Big Book of R](https://oscarbaruffa.com/bigbookofrupgrade/)
 
 
 ### R in the Real World
 
 + [An analysis of 10-0 scoring runs in college basketball, using ggplot2 and gt to create graphs and tables](https://evanmiya.substack.com/p/the-power-of-the-10-0-run)
+
+<img width="778" alt="Screenshot 2023-03-21 at 03 09 58" src="https://user-images.githubusercontent.com/53487593/226509275-6884ddfe-85b2-40cc-8ed9-d48db8b813c8.png">
+
 
 + [Food Inflation: Comparing with Interactive Chart of {ggiraph}](https://datageeek.com/2023/03/16/food-inflation-interactive-chart-with-ggiraph/)
 
@@ -295,6 +299,8 @@ API - [diffify](https://diffify.com/R/ckanr)
 
 + [Modding Rome Total War (Avatar, The Last Airbender mod) using R!](https://ryo-n7.github.io/2023-03-15-modding-rometotalwar-with-R/)
 
+<img width="747" alt="Screenshot 2023-03-21 at 03 04 15" src="https://user-images.githubusercontent.com/53487593/226508667-87d34c54-68d9-4291-bc04-6d946de44d48.png">
+
 + [How to set up an R-based AWS Lambda to write to AWS S3 on a schedule](https://discindo.org/post/lambda-to-s3/)
 
 + [Almost Bare Bones WebR Starter App](https://github.com/hrbrmstr/webr-app)
@@ -306,6 +312,8 @@ API - [diffify](https://diffify.com/R/ckanr)
 + [Probit Regression in R: Interpretation & Examples](https://www.marsja.se/probit-regression-in-r-interpretation-examples/)
 
 + [How to customise the style of your {shinydashboard} Shiny app](https://www.jumpingrivers.com/blog/r-shiny-customising-shinydashboard/)
+
+<img width="771" alt="Screenshot 2023-03-21 at 03 06 20" src="https://user-images.githubusercontent.com/53487593/226508871-1ef69a4f-65c9-4565-884f-30deea381a4e.png">
 
 + [Modding Rome Total War (Avatar, The Last Airbender mod) using R!](http://Ryo-N7.github.io/2023-03-15-modding-rometotalwar-with-R/)
 
