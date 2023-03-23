@@ -84,6 +84,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+###  Call for Participation
+
++ [Take the State of Shiny 2023 survey!](https://docs.google.com/forms/d/e/1FAIpQLScj6CjGKWro_eN0ojwtvRfeB4NDAjukhz_SbULReZGYFWWRXA/viewform)
 
 ###  Upcoming Events in 3 Months
 
