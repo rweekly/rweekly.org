@@ -60,7 +60,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
+* [Shiny modules in 100 seconds](https://youtu.be/BufC0agHnzw)
 
 ### Gist & Cookbook
 
