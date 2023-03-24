@@ -18,7 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Some love for Base R. Part 1](https://luis.apiolaza.net/2023/03/18/some-love-for-base-r-part-1/)
 
++ [Some love for Base R. Part 2](https://luis.apiolaza.net/2023/03/18/some-love-for-base-r-part-2/)
+
++ [Why should I use R: The Excel R Data Wrangling comparison: Part 1](https://www.jumpingrivers.com/blog/comparing-r-excel-data-wrangling/)
 
 ### R in the Real World
 
@@ -51,7 +55,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{macrtools}](https://github.com/coatless-mac/macrtools): R package that downloads and setups a compiled code environment for macOS.
 
 ### Updated Packages
 
@@ -61,6 +65,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [port4me](https://cran.r-project.org/package=port4me) 0.5.1 - Get the Same, Personal, Free TCP Port over and over
 
++ [](https://github.com/easystats/see): Visualisation toolbox for beautiful and publication-ready figures.
+
++ [{googlesheets4} 1.1.0](https://github.com/tidyverse/googlesheets4/releases/tag/v1.1.0)
 
 ###  Videos and Podcasts
 
@@ -69,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Gist & Cookbook
 
-
++ [purrr::map() is a superpower when I need to produce consistent maps in bulk for a report or presentation. I made 51 maps in 51 seconds, each with an appropriate title](https://gist.github.com/walkerke/eed2d5df8c30beca2075e65b2a7d5dfc)
 
 ### Shiny Apps
 
@@ -81,7 +88,21 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [WebR Filesystem Machinations & ReefR](https://rud.is/b/2023/03/20/webr-filesystem-and-reefr/)
 
++ [You’re One JavaScript Function Call Away From Using (Most) WebR R Functions In Your WebR-Powered Apps/Sites](https://rud.is/b/2023/03/21/youre-one-javascript-function-call-away-from-using-most-webr-r-functions-in-your-webr-powered-apps-sites/)
+
++ [Replicated an E-Commerce Store Using My Custom Package, starBliss](https://bensstats.wordpress.com/2023/03/19/robservations-46-starmaps-and-shiny-i-replicated-an-e-commerce-store-using-my-custom-package-starbliss/)
+
++ [Unlocking the Power of purrr: How to Create Multiple Lags Like a Pro in R](https://typethepipe.com/vizs-and-tips/how-to-create-multiple-lags-in-r/)
+
++ [Alt Text in R: Plots, Reports, and Shiny](https://www.jumpingrivers.com/blog/accessibility-alt-text-in-r/)
+
++ [The tidymodels is getting a whole lot faster](https://www.simonpcouch.com/blog/speedups-2023/)
+
++ [R renv: How to Manage Dependencies in R Projects Easily](https://appsilon.com/renv-how-to-manage-dependencies-in-r/)
+
++ [https://rpubs.com/fuhred/dumbbellchart](https://rpubs.com/fuhred/dumbbellchart)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -94,6 +115,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 + [Take the State of Shiny 2023 survey!](https://docs.google.com/forms/d/e/1FAIpQLScj6CjGKWro_eN0ojwtvRfeB4NDAjukhz_SbULReZGYFWWRXA/viewform)
 
 + [posit::conf() deadlines extended!](https://posit.co/blog/posit-conf-deadlines-extended/)
+
++ [Seeking community endorsement for an upgrade to 'Big Book of R'](https://oscarbaruffa.com/bigbookofrupgrade/)
 
 ###  Upcoming Events in 3 Months
 
@@ -127,14 +150,11 @@ Events in 3 Months:
 
 ###  rtistry
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I love <a href="https://twitter.com/hashtag/ggplot?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot</a> because this is all the same data with like a few character&#39;s worth of transformations, plus these were all &quot;accidents&quot; <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/LYd8H9QsSg">pic.twitter.com/LYd8H9QsSg</a></p>&mdash; Meghan Harris (@meghansharris) <a href="https://twitter.com/meghansharris/status/1633648127721852929?ref_src=twsrc%5Etfw">March 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Monochrome Trigonometry 654<br><br>Done in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> with <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a><a href="https://twitter.com/hashtag/Rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#Rtistry</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/creativecoding?src=hash&amp;ref_src=twsrc%5Etfw">#creativecoding</a> <a href="https://t.co/5rcKmPhOaE">pic.twitter.com/5rcKmPhOaE</a></p>&mdash; aRtfulBot (@aRtfulBot) <a href="https://twitter.com/aRtfulBot/status/1637789607462043648?ref_src=twsrc%5Etfw">March 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ###  Quotes of the Week
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In my first <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> class, students loved the dinosaur from the dataSaurus package.<br><br>One student even asked for more dinosaurs in class, and I couldn&#39;t resist! 🤪<br><br>I searched for dinosaur images, extracted coordinates and started plotting.<br><br>So, here are more ggplot dinosaurs 🦕🦖 <a href="https://t.co/wxKSrjDPlS">pic.twitter.com/wxKSrjDPlS</a></p>&mdash; Albert Rapp (@rappa753) <a href="https://twitter.com/rappa753/status/1637121708611239936?ref_src=twsrc%5Etfw">March 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Base <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> has many lesser-known helper functions like `reformulate()` and `toString()`.<br><br>It’s quite surprising that even high-rated questions on SO don&#39;t contain a single answer mentioning the former 😱⁰⁰At the same time, I regularly keep forgetting the latter myself 😅 <a href="https://t.co/W6IL9xR6GL">pic.twitter.com/W6IL9xR6GL</a></p>&mdash; Tim Tiefenbach (@TimTeaFan) <a href="https://twitter.com/TimTeaFan/status/1636839375672602624?ref_src=twsrc%5Etfw">March 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">People who don&#39;t cite R packages, why?</p>&mdash; Dr. Andrew Barnas (@AndrewBarnas) <a href="https://twitter.com/AndrewBarnas/status/1638256949002371072?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Using gpt-3.5-turbo inside RStudio as a coding helper. The package is experimental (<a href="https://t.co/RQYXml5faX">https://t.co/RQYXml5faX</a>). <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/rstudio?src=hash&amp;ref_src=twsrc%5Etfw">#rstudio</a> <a href="https://t.co/457cV78L5V">pic.twitter.com/457cV78L5V</a></p>&mdash; Sam Terfa (@SamTerfa) <a href="https://twitter.com/SamTerfa/status/1637304048679256064?ref_src=twsrc%5Etfw">March 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">purrr::map() is a superpower when I need to produce consistent maps in bulk for a report or presentation<br><br>In the linked example (with shapefiles previously cached), I made 51 maps in 51 seconds, each with an appropriate title<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/S2VuFiLPib">https://t.co/S2VuFiLPib</a> <a href="https://t.co/5RQClOkB0t">pic.twitter.com/5RQClOkB0t</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1638995370909880341?ref_src=twsrc%5Etfw">March 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
