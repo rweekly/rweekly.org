@@ -26,7 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Organizations
 
-
++ [Shiny Use Cases within Pharma](https://posit.co/blog/shiny-use-cases-within-pharma/)
 
 ###  R in Academia
 
