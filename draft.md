@@ -26,7 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Organizations
 
-
++ [Shiny Use Cases within Pharma](https://posit.co/blog/shiny-use-cases-within-pharma/)
 
 ###  R in Academia
 
@@ -57,10 +57,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+* [parallelly](https://parallelly.futureverse.org/) 1.35.0 - Enhancing the 'parallel' Package
+
+* [port4me](https://cran.r-project.org/package=port4me) 0.5.1 - Get the Same, Personal, Free TCP Port over and over
+
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
+* [Shiny modules in 100 seconds](https://youtu.be/BufC0agHnzw)
 
 ### Gist & Cookbook
 
@@ -88,6 +93,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 + [Take the State of Shiny 2023 survey!](https://docs.google.com/forms/d/e/1FAIpQLScj6CjGKWro_eN0ojwtvRfeB4NDAjukhz_SbULReZGYFWWRXA/viewform)
 
++ [posit::conf() deadlines extended!](https://posit.co/blog/posit-conf-deadlines-extended/)
+
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
@@ -106,6 +113,8 @@ Events in 3 Months:
 + [April 13: Generalized Additive Models in R Workshop](https://www.r-bloggers.com/2023/03/generalized-additive-models-in-r-workshop/)
 
 + [April 22: SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london-speakers/)
+
++ [June 21-23: Rencontres R Avignon, France](https://rr2023.sciencesconf.org) [@rencontres_R](https://twitter.com/rencontres_r)
 
 ### Grants & Funding
 
