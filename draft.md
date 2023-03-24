@@ -47,7 +47,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [{octopus}]("https://medium.com/dev-genius/introducing-octopus-a-database-management-tool-built-with-r-efba560288c8"): R package for database management. Upload files, view tables and schemas, send queries, and more.
++ [{octopus}](https://medium.com/dev-genius/introducing-octopus-a-database-management-tool-built-with-r-efba560288c8): R package for database management. Upload files, view tables and schemas, send queries, and more.
 
 **Bioconductor**
 
