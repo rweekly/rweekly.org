@@ -63,6 +63,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [parallelly](https://parallelly.futureverse.org/) 1.35.0 - Enhancing the 'parallel' Package
 
+* [doFuture](https://doFuture.futureverse.org/) 1.0.0 - Use Foreach to Parallelize via the Future Framework
+
 * [port4me](https://cran.r-project.org/package=port4me) 0.5.1 - Get the Same, Personal, Free TCP Port over and over
 
 + [](https://github.com/easystats/see): Visualisation toolbox for beautiful and publication-ready figures.
