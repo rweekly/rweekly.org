@@ -79,6 +79,8 @@ Inference and Interpretability - [diffify](https://diffify.com/R/Rforestry)
 
 * [parallelly](https://parallelly.futureverse.org/) 1.35.0 - Enhancing the 'parallel' Package
 
+* [doFuture](https://doFuture.futureverse.org/) 1.0.0 - Use Foreach to Parallelize via the Future Framework
+
 * [port4me](https://cran.r-project.org/package=port4me) 0.5.1 - Get the Same, Personal, Free TCP Port over and over
 
 + [{shinytest} 1.5.3](https://cran.r-project.org/package=shinytest): Test Shiny Apps - [diffify](https://diffify.com/R/shinytest)
