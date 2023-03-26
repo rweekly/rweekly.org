@@ -8,9 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
-
+This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the R Weekly team members and contributors.
 
 ###  Highlight
 
@@ -26,19 +24,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Teaching ChatGPT What It Doesn’t Know](https://jameshwade.com/posts/2023-03-10_vectorstores.html)
 
 ###  R in Organizations
 
 + [Shiny Use Cases within Pharma](https://posit.co/blog/shiny-use-cases-within-pharma/)
-
-###  R in Academia
-
-
-
-###  Resources
-
-
 
 ###  New Packages
 
@@ -73,23 +63,25 @@ Inference and Interpretability - [diffify](https://diffify.com/R/Rforestry)
 
 + [{macrtools}](https://github.com/coatless-mac/macrtools): R package that downloads and setups a compiled code environment for macOS.
 
++ [{quartificate} 0.0.0.9000](https://github.com/ropenscilabs/quartificate): Transform Google Docs into Quarto Books.
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-* [parallelly](https://parallelly.futureverse.org/) 1.35.0 - Enhancing the 'parallel' Package
+* [parallelly](https://parallelly.futureverse.org/) 1.35.0 - Enhancing the 'parallel' Package - [diffify](https://diffify.com/R/parallelly)
 
-* [doFuture](https://doFuture.futureverse.org/) 1.0.0 - Use Foreach to Parallelize via the Future Framework
+* [doFuture](https://doFuture.futureverse.org/) 1.0.0 - Use Foreach to Parallelize via the Future Framework - [diffify](https://diffify.com/R/doFuture)
 
-* [port4me](https://cran.r-project.org/package=port4me) 0.5.1 - Get the Same, Personal, Free TCP Port over and over
+* [port4me](https://cran.r-project.org/package=port4me) 0.5.1 - Get the Same, Personal, Free TCP Port over and over. - [diffify](https://diffify.com/R/port4me)
 
 + [{shinytest} 1.5.3](https://cran.r-project.org/package=shinytest): Test Shiny Apps - [diffify](https://diffify.com/R/shinytest)
 
-+ [{see}](https://github.com/easystats/see): Visualisation toolbox for beautiful and publication-ready figures.
++ [{see}](https://github.com/easystats/see): Visualisation toolbox for beautiful and publication-ready figures. - [diffify](https://diffify.com/R/see)
 
 + [{peacesciencer} 1.1.0](https://cran.r-project.org/package=peacesciencer): Tools and Data for Quantitative Peace Science Research - [diffify](https://diffify.com/R/peacesciencer)
 
-+ [{googlesheets4} 1.1.0](https://github.com/tidyverse/googlesheets4/releases/tag/v1.1.0)
++ [{googlesheets4} 1.1.0](https://github.com/tidyverse/googlesheets4/releases/tag/v1.1.0) - [diffify](https://diffify.com/R/googlesheets4)
 
 + [{drake} 7.13.5](https://cran.r-project.org/package=drake): A Pipeline Toolkit for Reproducible Computation at Scale - [diffify](https://diffify.com/R/drake)
 
@@ -117,8 +109,7 @@ Inference and Interpretability - [diffify](https://diffify.com/R/Rforestry)
 
 + [{gglm} 1.0.2](https://cran.r-project.org/package=gglm): Grammar of Graphics for Linear Model Diagnostic Plots - [diffify](https://diffify.com/R/gglm)
 
-+ [{ggbrain} 0.8.1](https://cran.r-project.org/package=ggbrain): Create Images of Volumetric Brain Data in NIfTI Format Using
-'ggplot2' Syntax - [diffify](https://diffify.com/R/ggbrain)
++ [{ggbrain} 0.8.1](https://cran.r-project.org/package=ggbrain): Create Images of Volumetric Brain Data in NIfTI Format Using 'ggplot2' Syntax - [diffify](https://diffify.com/R/ggbrain)
 
 + [{edibble} 0.1.3](https://cran.r-project.org/package=edibble): Designing Comparative Experiments - [diffify](https://diffify.com/R/edibble)
 
@@ -133,19 +124,16 @@ Inference and Interpretability - [diffify](https://diffify.com/R/Rforestry)
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+
 * [Shiny modules in 100 seconds](https://youtu.be/BufC0agHnzw)
+
++ [Descriptive statistics with R](https://www.youtube.com/watch?v=F0X0I8Ekx_A)
+
++ [pmax & pmin Functions in R (3 Examples), How to Handle Warnings & NA, Two Different Length Vectors](https://www.youtube.com/watch?v=dexZqIOJ70k)
 
 ### Gist & Cookbook
 
 + [purrr::map() is a superpower when I need to produce consistent maps in bulk for a report or presentation. I made 51 maps in 51 seconds, each with an appropriate title](https://gist.github.com/walkerke/eed2d5df8c30beca2075e65b2a7d5dfc)
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ###  Tutorials
 
@@ -165,6 +153,8 @@ Inference and Interpretability - [diffify](https://diffify.com/R/Rforestry)
 
 + [https://rpubs.com/fuhred/dumbbellchart](https://rpubs.com/fuhred/dumbbellchart)
 
++ [Recreating images on single line spirals](https://github.com/cj-holmes/photos-on-spirals)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
@@ -182,7 +172,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -204,13 +193,15 @@ Events in 3 Months:
 
 + R Consortium [ISC Call for Proposals](https://www.r-consortium.org/all-projects/call-for-proposals) - Infrastructure Steering Committee (ISC) grants for low-to-medium risk projects with a focused scope and likely to have a broad impact on the R Community. Deadline 2023-04-01.
 
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ###  rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today was hard..... but I got writing and package dev done though. Today was all about squares. Added a square packing fx to the art package and one that generates the data for a square. It&#39;s coming along. <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/yPnqtoCW2a">pic.twitter.com/yPnqtoCW2a</a></p>&mdash; Meghan Harris (@meghansharris) <a href="https://twitter.com/meghansharris/status/1639445138962358275?ref_src=twsrc%5Etfw">March 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Couldn&#39;t resist logging on for 5 minutes to give this script another whirl. Honestly. <a href="https://twitter.com/hashtag/Partygate?src=hash&amp;ref_src=twsrc%5Etfw">#Partygate</a>.<br><br>All done in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>. Shapes and colours determined by the text in the current <a href="https://twitter.com/guardian?ref_src=twsrc%5Etfw">@guardian</a> headline and the body of the article. <br><br> <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://twitter.com/hashtag/GenArt?src=hash&amp;ref_src=twsrc%5Etfw">#GenArt</a> <a href="https://twitter.com/hashtag/CreativeCoding?src=hash&amp;ref_src=twsrc%5Etfw">#CreativeCoding</a> <a href="https://t.co/jkN4HzWdSW">pic.twitter.com/jkN4HzWdSW</a></p>&mdash; Cara Thompson | @cararthompson@fosstodon.org (@cararthompson) <a href="https://twitter.com/cararthompson/status/1638225106265579544?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ###  Quotes of the Week
 
