@@ -47,11 +47,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{distillML} 0.1.0.13](https://cran.r-project.org/package=distillML): Model Distillation and Interpretability Methods for Machine
+Learning Models - [diffify](https://diffify.com/R/distillML)
 
++ [{Rforestry} 0.10.0](https://cran.r-project.org/package=Rforestry): Random Forests, Linear Trees, and Gradient Boosting for
+Inference and Interpretability - [diffify](https://diffify.com/R/Rforestry)
 
-**Bioconductor**
++ [{usedthese} 0.3.2](https://cran.r-project.org/package=usedthese): Summarises Package & Function Usage - [diffify](https://diffify.com/R/usedthese)
 
++ [{dtrackr} 0.4.0](https://cran.r-project.org/package=dtrackr): Track your Data Pipelines - [diffify](https://diffify.com/R/dtrackr)
 
++ [{simplermarkdown} 0.0.6](https://cran.r-project.org/package=simplermarkdown): Simple Engine for Generating Reports using R - [diffify](https://diffify.com/R/simplermarkdown)
+
++ [{metR} 0.14.0](https://cran.r-project.org/package=metR): Tools for Easier Analysis of Meteorological Fields - [diffify](https://diffify.com/R/metR)
+
++ [{crew} 0.0.5](https://cran.r-project.org/package=crew): A Distributed Worker Launcher - [diffify](https://diffify.com/R/crew)
+
++ [{finnts} 0.2.3](https://cran.r-project.org/package=finnts): Microsoft Finance Time Series Forecasting Framework - [diffify](https://diffify.com/R/finnts)
+
++ [{GIGrvg} 0.8](https://cran.r-project.org/package=GIGrvg): Random Variate Generator for the GIG Distribution - [diffify](https://diffify.com/R/GIGrvg)
 
 **GitHub or Bitbucket**
 
@@ -65,9 +79,52 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [port4me](https://cran.r-project.org/package=port4me) 0.5.1 - Get the Same, Personal, Free TCP Port over and over
 
-+ [](https://github.com/easystats/see): Visualisation toolbox for beautiful and publication-ready figures.
++ [{shinytest} 1.5.3](https://cran.r-project.org/package=shinytest): Test Shiny Apps - [diffify](https://diffify.com/R/shinytest)
+
++ [{see}](https://github.com/easystats/see): Visualisation toolbox for beautiful and publication-ready figures.
+
++ [{peacesciencer} 1.1.0](https://cran.r-project.org/package=peacesciencer): Tools and Data for Quantitative Peace Science Research - [diffify](https://diffify.com/R/peacesciencer)
 
 + [{googlesheets4} 1.1.0](https://github.com/tidyverse/googlesheets4/releases/tag/v1.1.0)
+
++ [{drake} 7.13.5](https://cran.r-project.org/package=drake): A Pipeline Toolkit for Reproducible Computation at Scale - [diffify](https://diffify.com/R/drake)
+
++ [{dtplyr} 1.3.1](https://cran.r-project.org/package=dtplyr): Data Table Back-End for 'dplyr' - [diffify](https://diffify.com/R/dtplyr)
+
++ [{dplyr} 1.1.1](https://cran.r-project.org/package=dplyr): A Grammar of Data Manipulation - [diffify](https://diffify.com/R/dplyr)
+
++ [{RcppSMC} 0.2.7](https://cran.r-project.org/package=RcppSMC): Rcpp Bindings for Sequential Monte Carlo - [diffify](https://diffify.com/R/RcppSMC)
+
++ [{modelr} 0.1.11](https://cran.r-project.org/package=modelr): Modelling Functions that Work with the Pipe - [diffify](https://diffify.com/R/modelr)
+
++ [{lessR} 4.2.8](https://cran.r-project.org/package=lessR): Less Code, More Results - [diffify](https://diffify.com/R/lessR)
+
++ [{chatgpt} 0.2.2](https://cran.r-project.org/package=chatgpt): Interface to 'ChatGPT' from R - [diffify](https://diffify.com/R/chatgpt)
+
++ [{pillar} 1.9.0](https://cran.r-project.org/package=pillar): Coloured Formatting for Columns - [diffify](https://diffify.com/R/pillar)
+
++ [{Tinflex} 2.4](https://cran.r-project.org/package=Tinflex): A Universal Non-Uniform Random Number Generator - [diffify](https://diffify.com/R/Tinflex)
+
++ [{dbplyr} 2.3.2](https://cran.r-project.org/package=dbplyr): A 'dplyr' Back End for Databases - [diffify](https://diffify.com/R/dbplyr)
+
++ [{funneljoin} 0.2.0](https://cran.r-project.org/package=funneljoin): Time-Based Joins to Analyze Sequences of Events - [diffify](https://diffify.com/R/funneljoin)
+
++ [{caret} 6.0-94](https://cran.r-project.org/package=caret): Classification and Regression Training - [diffify](https://diffify.com/R/caret)
+
++ [{gglm} 1.0.2](https://cran.r-project.org/package=gglm): Grammar of Graphics for Linear Model Diagnostic Plots - [diffify](https://diffify.com/R/gglm)
+
++ [{ggbrain} 0.8.1](https://cran.r-project.org/package=ggbrain): Create Images of Volumetric Brain Data in NIfTI Format Using
+'ggplot2' Syntax - [diffify](https://diffify.com/R/ggbrain)
+
++ [{edibble} 0.1.3](https://cran.r-project.org/package=edibble): Designing Comparative Experiments - [diffify](https://diffify.com/R/edibble)
+
++ [{feasts} 0.3.1](https://cran.r-project.org/package=feasts): Feature Extraction and Statistics for Time Series - [diffify](https://diffify.com/R/feasts)
+
++ [{googledrive} 2.1.0](https://cran.r-project.org/package=googledrive): An Interface to Google Drive - [diffify](https://diffify.com/R/googledrive)
+
++ [{glmnet} 4.1-7](https://cran.r-project.org/package=glmnet): Lasso and Elastic-Net Regularized Generalized Linear Models - [diffify](https://diffify.com/R/glmnet)
+
++ [{parallelly} 1.35.0](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package - [diffify](https://diffify.com/R/parallelly)
 
 ###  Videos and Podcasts
 
