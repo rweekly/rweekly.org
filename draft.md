@@ -47,6 +47,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{octopus}](https://medium.com/dev-genius/introducing-octopus-a-database-management-tool-built-with-r-efba560288c8): R package for database management. Upload files, view tables and schemas, send queries, and more.
+
 + [{distillML} 0.1.0.13](https://cran.r-project.org/package=distillML): Model Distillation and Interpretability Methods for Machine
 Learning Models - [diffify](https://diffify.com/R/distillML)
 
