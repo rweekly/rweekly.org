@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+[Balancing Classes in Classification Problems, and Why It's Generally a Bad Idea](https://matthewrkaye.com/posts/2023-03-25-balancing-classes/balancing-classes.html)
 
 
 ### R in the Real World
