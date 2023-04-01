@@ -107,6 +107,8 @@ Events in 3 Months:
 
 + [April 13: Generalized Additive Models in R Workshop](https://www.r-bloggers.com/2023/03/generalized-additive-models-in-r-workshop/)
 
++ [April 13: {activityinfo} package updates webinar](https://www.activityinfo.org/support/webinars/2023-04-13-R-package-updates.html)
+
 + [April 20: Dataviz with R and ggplot: Using colour and annotations for effective story telling workshop](https://www.r-bloggers.com/2023/03/dataviz-with-r-and-ggplot-using-colour-and-annotations-for-effective-story-telling-workshop/)
 
 + [April 22: SatRdays London 2023](https://www.jumpingrivers.com/blog/satrdays-london-speakers/)
