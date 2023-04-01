@@ -20,10 +20,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 [Balancing Classes in Classification Problems, and Why It's Generally a Bad Idea](https://matthewrkaye.com/posts/2023-03-25-balancing-classes/balancing-classes.html)
 
++ [R in Finance and Accounting Sector in Korea](https://www.r-consortium.org/blog/2023/03/27/r-in-finance-and-accounting-sector-in-korea)
+
++ [Descriptive statistics: comparisons in JavaScript, Python, SQL, R, and Excel](https://observablehq.com/@observablehq/descriptive-statistics-translations)
 
 ### R in the Real World
 
++ [The big world of CRAN](https://anatomyofcode.com/cranmap/)
 
+![]()
 
 ###  R in Organizations
 
@@ -52,7 +57,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [{ellipse}](https://github.com/dmurdoch/ellipse): Functions for Drawing Ellipses and Ellipse-Like Confidence Regions
 
++ [{constructive}](https://github.com/cynkra/constructive): Display Idiomatic Code to Construct Most R Objects
 
 ### Updated Packages
 
@@ -77,7 +84,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Explaining research code using reproducibility tools](https://softloud.github.io/onetimetrophybitch/posts/2023-03-30-micropackaging/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -120,3 +127,7 @@ Events in 3 Months:
 
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Another reason to love the new <a href="https://twitter.com/hashtag/RStudio?src=hash&amp;ref_src=twsrc%5Etfw">#RStudio</a> update: previews of the data alongside the suggest tab completions! 🤩<br><br>Making today&#39;s task of automating text with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> easier by showing me what&#39;s inside the tibble as I seek to turn it onto sentences. <a href="https://t.co/NQVvkNnPnm">pic.twitter.com/NQVvkNnPnm</a></p>&mdash; Cara Thompson | @cararthompson@fosstodon.org (@cararthompson) <a href="https://twitter.com/cararthompson/status/1641780284851994626?ref_src=twsrc%5Etfw">March 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
