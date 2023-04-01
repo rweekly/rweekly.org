@@ -61,6 +61,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{constructive}](https://github.com/cynkra/constructive): Display Idiomatic Code to Construct Most R Objects
 
++ [{lenght}](https://github.com/cobrbra/lenght): Allow Misspellings of Length Function.
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
