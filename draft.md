@@ -49,7 +49,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+* [{deps} 0.1.2](https://CRAN.R-project.org/package=deps): Dependency Management with 'roxygen'-Style Comments
 
 **Bioconductor**
 
@@ -70,10 +70,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+* [Fast spatial analysis and kriging on grids - YEGRUG Meetup, February 23, 2023](https://youtu.be/SqsbFe6J37E)
 
 
 ### Gist & Cookbook
 
+* [Hello world examples with 10 different R web API frameworks](https://gist.github.com/psolymos/284b43b8dd0583b33ca7fc7dcf71082b)
 
 
 ### Shiny Apps
