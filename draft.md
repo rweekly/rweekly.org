@@ -13,13 +13,13 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 ### Insights
 
-+ [What are people commenting about their loaded packages? ](https://luisdva.github.io/rstats/package-comments/)
++ [What are people commenting about their loaded packages?](https://luisdva.github.io/rstats/package-comments/)
 
 ### R in the Real World
 
 + [Who are Twitter Blue Users?](www.harsh17.in/twitter-blue/)
 
-+ [{surveydown}: An open source, markdown-based survey framework (that doesn't exist yet)](https://www.jhelvy.com/posts/2023-04-06-markdown-surveys/)
++ [{surveydown}: An open source, markdown-based survey framework](https://www.jhelvy.com/posts/2023-04-06-markdown-surveys/)
 
 + [English Premier League interactive plot](https://tanyashapiro.quarto.pub/tanyashapiro/projects/english-premier-league/)
 
@@ -41,9 +41,7 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [Adoption of R by Actuaries Community in Melbourne](https://www.r-consortium.org/blog/2023/04/06/adoption-of-r-by-actuaries-community-in-melbourne)
 
-+ How the Kyber R package connects Google Sheets, RMarkdown, GitHub, and Agenda docs for open education[](https://www.openscapes.org/blog/2023/04/06/kyber/)
-
-### R in Academia
++ [How the Kyber R package connects Google Sheets, RMarkdown, GitHub, and Agenda docs for open education](https://www.openscapes.org/blog/2023/04/06/kyber/)
 
 ### Resources
 
@@ -79,11 +77,9 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [{xmeta} 1.3.1](https://cran.r-project.org/package=xmeta): A Toolbox for Multivariate Meta-Analysis
 
-**Bioconductor**
-
 **GitHub or Bitbucket**
 
-+ [{plot2 0.0.1}](https://github.com/grantmcdermott/plot2/): Lightweight extension of the base R plot function, with support for automatic grouping and legend printing, and several other enhancements.
++ [{plot2} 0.0.1](https://github.com/grantmcdermott/plot2/): Lightweight extension of the base R plot function, with support for automatic grouping and legend printing, and several other enhancements.
 
 ### Updated Packages
 
@@ -103,9 +99,12 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [Data Restructuring via Splits - TidyX Episode 140](https://www.youtube.com/watch?v=cwAwPyecbxE)
+
 ### R Internationally
 
-+ [Introducing rtlr - an R Package for RTL Languages](https://matanhakim.org/posts/2023-04-05-rtlr-0-1-0/) 
++ [Introducing rtlr - an R Package for RTL Languages](https://matanhakim.org/posts/2023-04-05-rtlr-0-1-0/)
+
 ### Tutorials
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
