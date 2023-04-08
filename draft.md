@@ -35,6 +35,8 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ### New Packages
 
+- [{rtlr}](https://matanhakim.github.io/rtlr/index.html) - Print Right-to-left Languages Correctly
+
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 **CRAN**
@@ -71,11 +73,11 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ### R Internationally
 
-
+- [Introducing rtrl - an R Package for RTL Languages](https://matanhakim.org/posts/2023-04-05-rtlr-0-1-0/) - Convenience functions to make some common tasks with right-to-left string printing easier, more convenient and with no need to remember long Unicode characters. Specifically helpful for right-to-left languages such as Arabic, Persian and Hebrew.
 
 ### Tutorials
 
-
+- [Introducing rtrl - an R Package for RTL Languages](https://matanhakim.org/posts/2023-04-05-rtlr-0-1-0/) - Convenience functions to make some common tasks with right-to-left string printing easier, more convenient and with no need to remember long Unicode characters. Specifically helpful for right-to-left languages such as Arabic, Persian and Hebrew.
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
