@@ -19,7 +19,7 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 ### R in the Real World
 
-
+- [{surveydown}: An open source, markdown-based survey framework (that doesn’t exist yet)](https://www.jhelvy.com/posts/2023-04-06-markdown-surveys/)
 
 ### R in Organizations
 
