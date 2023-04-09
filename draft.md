@@ -11,9 +11,17 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 ### Highlight
 
++ [What are people commenting about their loaded packages?](https://luisdva.github.io/rstats/package-comments/)
+
++ [Introducing rtlr - an R Package for RTL Languages](https://matanhakim.org/posts/2023-04-05-rtlr-0-1-0/)
+
++ [hrbrmstr's WebR Experiments Index](https://rud.is/webr-experiments/)
+
 ### Insights
 
 + [What are people commenting about their loaded packages?](https://luisdva.github.io/rstats/package-comments/)
+
+![Network plot of similar comments on package imports](https://raw.githubusercontent.com/rweekly/image/master/2023/W15/comments.png)
 
 ### R in the Real World
 
@@ -31,6 +39,8 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [A data analyst workflow, part 1: SQL & tidyverse](https://rviews.rstudio.com/2023/04/06/a-data-analyst-workflow-part-1-sql-tidyverse/)
 
+![Mosaic plot of count of emergency patients by age and admission type](https://raw.githubusercontent.com/rweekly/image/master/2023/W15/mosaic.png)
+
 ### R in Organizations
 
 + [Deep Learning and Scientific Computing with R torch: the book](https://blogs.rstudio.com/tensorflow/posts/2023-04-05-deep-learning-scientific-computing-R-torch)
@@ -47,7 +57,7 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [hrbrmstr's WebR Experiments Index](https://rud.is/webr-experiments/)
 
-+ [Reproducible analytical pipelines with Docker](https://raps-with-r.dev/repro_cont.html)  (new chapter in free e-book, "Building reproducible analytical pipelines with R")
++ [Reproducible analytical pipelines with Docker](https://raps-with-r.dev/repro_cont.html) (new chapter in free e-book, "Building reproducible analytical pipelines with R")
 
 + [Quarto word count](https://github.com/andrewheiss/quarto-wordcount)
 
@@ -81,6 +91,8 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [{plot2} 0.0.1](https://github.com/grantmcdermott/plot2/): Lightweight extension of the base R plot function, with support for automatic grouping and legend printing, and several other enhancements.
 
+![Example plot made with plot2](https://raw.githubusercontent.com/rweekly/image/master/2023/W15/plot2.png)
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
@@ -94,6 +106,7 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 + [{quantmod} 0.4.22](https://cran.r-project.org/package=quantmod): Quantitative Financial Modelling Framework - [diffify](https://diffify.com/R/quantmod)
 
 + [{workflowsets} 1.0.1](https://cran.r-project.org/package=workflowsets): Create a Collection of 'tidymodels' Workflows - [diffify](https://diffify.com/R/workflowsets)
+
 + [{dbparser} 2.0.1](https://cran.r-project.org/web/packages/dbparser/index.html): Introduce new method for paring DrugBank DB and returning an R dvobject [diffify](https://diffify.com/R/dbparser/1.2.0/2.0.1)
 
 ### Videos and Podcasts
@@ -111,6 +124,8 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 + [Use OpenAI text embeddings with #TidyTuesday horror movie descriptions](https://juliasilge.com/blog/horror-embeddings/)
+
+![PCA scatter plot of similarity of horror movie descriptions](https://raw.githubusercontent.com/rweekly/image/master/2023/W15/pca.png)
 
 + [How to Modify Variables the Right Way in R](https://typethepipe.com/vizs-and-tips/modifying-variables-the-right-way/)
 
