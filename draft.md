@@ -94,6 +94,7 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 + [{quantmod} 0.4.22](https://cran.r-project.org/package=quantmod): Quantitative Financial Modelling Framework - [diffify](https://diffify.com/R/quantmod)
 
 + [{workflowsets} 1.0.1](https://cran.r-project.org/package=workflowsets): Create a Collection of 'tidymodels' Workflows - [diffify](https://diffify.com/R/workflowsets)
++ [{dbparser} 2.0.1](https://cran.r-project.org/web/packages/dbparser/index.html): Introduce new method for paring DrugBank DB and returning an R dvobject [diffify](https://diffify.com/R/dbparser/1.2.0/2.0.1)
 
 ### Videos and Podcasts
 
