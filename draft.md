@@ -131,6 +131,8 @@ This week's release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr)
 
 + [Tips for using chatGPT to learn R](http://www.seascapemodels.org/rstats/2023/04/07/using-chatgpt-to-learn-R.html)
 
++ [Perfect Bar Charts in 150 Seconds](https://youtu.be/15ZlfVA2Cl8)
+
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
