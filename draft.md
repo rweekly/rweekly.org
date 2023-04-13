@@ -51,7 +51,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [Minimalist and Elegant {shiny} apps with {skeleton}](https://golemverse.org/news/skeleteon-css-in-shiny/)
 
 ### Updated Packages
 
@@ -68,7 +68,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [prenoms, An App for Exploring French Baby Names](https://connect.thinkr.fr/prenoms/)
 
 ### R Internationally
 
