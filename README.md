@@ -13,10 +13,8 @@ Please help us!
 
 ### Regular R posts: submit your RSS feed
 
-Submit your blog RSS feed via [https://rweekly.org/submit](https://rweekly.org/submit).
+Submit your blog RSS feed by submitting a PR adding a line to [rss_feeds.csv](https://github.com/rweekly/rweekly.org/blob/gh-pages/rss_feeds.csv)
 If your blog doesn't have an RSS feed yet, look up for resources / help for doing it, it's worth it!
-
-https://rweekly.org/feedlist.html is the list of feeds for R Weekly Live 
 
 What rules are there?
 
@@ -68,7 +66,7 @@ For nitty-gritty details see [the process release editors follow](https://github
 
 Have a question or great idea about this website?
 
-Talk with us on [Twitter](https://twitter.com/rweekly_org) or [an GitHub issue](https://github.com/rweekly/rweekly.org/issues/new).
+Talk with us on [Twitter](https://twitter.com/rweekly_org) or [a GitHub issue](https://github.com/rweekly/rweekly.org/issues/new).
 
 ### Join us!
 
