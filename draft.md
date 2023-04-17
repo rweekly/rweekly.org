@@ -25,13 +25,13 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [Make “Solar System” Plots With {ggsolar}](https://rud.is/b/2023/04/12/make-solar-system-plots-with-ggsolar/)
 + [collapse and the fastverse: Reflections on the Past, Present and Future](https://sebkrantz.github.io/Rblog/2023/04/12/collapse-and-the-fastverse-reflecting-the-past-present-and-future/)
 + [Styling Tables for Excel with {styledTables}](https://www.spsanderson.com/steveondata/posts/rtip-2023-04-11/index.html)
++ [Extending Data Frames](https://epiverse-trace.github.io/posts/extend-dataframes/index.html)
 
 + [Some love for Base R. Part 4](https://luis.apiolaza.net/2023/04/15/some-love-for-base-r-part-4/)
 + [Test for Normality in R: Three Different Methods & Interpretation](https://www.marsja.se/test-for-normality-in-r/)
 + [Building and Backtesting a Volatility-based Trading Strategy with ChatGPT](https://blog.ephorie.de/building-and-backtesting-a-volatility-based-trading-strategy-with-chatgpt?utm_source=rss&utm_medium=rss&utm_campaign=building-and-backtesting-a-volatility-based-trading-strategy-with-chatgpt)
 + [De-noising Diffusion with torch](https://blogs.rstudio.com/tensorflow/posts/2023-04-13-denoising-diffusion)
 + [{surveydown}: An open source, markdown-based survey framework (that doesn't exist yet)](https://www.jhelvy.com/posts/2023-04-06-markdown-surveys)
-+ [Extending Data Frames](https://epiverse-trace.github.io/posts/extend-dataframes/index.html)
 
 + [Durbin Watson Test in R: Step-by-Step incl. Interpretation](https://www.marsja.se/durbin-watson-test-in-r-step-by-step-incl-interpretation/)
 + [Progress on R-spatial evolution, Apr 2023](https://www.r-spatial.org//r/2023/04/10/evolution3.html)
@@ -65,11 +65,12 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 **CRAN**
 
-
-
-**Bioconductor**
-
-
++ [{fakir} 1.0.0](https://cran.r-project.org/package=fakir): Generate Fake Datasets for Prototyping and Teaching
++ [{bettermc} 1.2.1](https://cran.r-project.org/package=bettermc): Enhanced Fork-Based Parallelization
++ [{duke} 0.0.1](https://cran.r-project.org/package=duke): Creating a Color-Blind Friendly Duke Color Package
++ [{ast2ast} 0.3.1](https://cran.r-project.org/package=ast2ast): Translates an R Function to a C++ Function
++ [{countSTAR} 1.0.1](https://cran.r-project.org/package=countSTAR): Flexible Modeling of Count Data
++ [{roundyh} 0.1.0](https://cran.r-project.org/package=roundyh): Round Dataframe
 
 **GitHub or Bitbucket**
 
@@ -83,10 +84,48 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [torch 0.10.0](https://blogs.rstudio.com/tensorflow/posts/2023-04-14-torch-0-10)
 
++ [{IntervalSurgeon} 1.1](https://cran.r-project.org/package=IntervalSurgeon): Operating on Integer-Bounded Intervals - [diffify](https://diffify.com/R/IntervalSurgeon)
++ [{leidenbase} 0.1.18](https://cran.r-project.org/package=leidenbase): R and C/C++ Wrappers to Run the Leiden find_partition() Function - [diffify](https://diffify.com/R/leidenbase)
++ [{gargle} 1.4.0](https://cran.r-project.org/package=gargle): Utilities for Working with Google APIs - [diffify](https://diffify.com/R/gargle)
++ [{textrecipes} 1.0.3](https://cran.r-project.org/package=textrecipes): Extra 'Recipes' for Text Processing - [diffify](https://diffify.com/R/textrecipes)
++ [{slurmR} 0.5-3](https://cran.r-project.org/package=slurmR): A Lightweight Wrapper for 'Slurm' - [diffify](https://diffify.com/R/slurmR)
++ [{qqconf} 1.3.2](https://cran.r-project.org/package=qqconf): Creates Simultaneous Testing Bands for QQ-Plots - [diffify](https://diffify.com/R/qqconf)
++ [{formatters} 0.4.1](https://cran.r-project.org/package=formatters): ASCII Formatting for Values and Tables - [diffify](https://diffify.com/R/formatters)
++ [{googleway} 2.7.7](https://cran.r-project.org/package=googleway): Accesses Google Maps APIs to Retrieve Data and Plot Maps - [diffify](https://diffify.com/R/googleway)
++ [{geodata} 0.5-8](https://cran.r-project.org/package=geodata): Download Geographic Data - [diffify](https://diffify.com/R/geodata)
++ [{rspm} 0.4.0](https://cran.r-project.org/package=rspm): 'RStudio' Package Manager - [diffify](https://diffify.com/R/rspm)
++ [{partykit} 1.2-20](https://cran.r-project.org/package=partykit): A Toolkit for Recursive Partytioning - [diffify](https://diffify.com/R/partykit)
++ [{tidystats} 0.5.2](https://cran.r-project.org/package=tidystats): Save Output of Statistical Tests - [diffify](https://diffify.com/R/tidystats)
++ [{ggstatsplot} 0.11.1](https://cran.r-project.org/package=ggstatsplot): 'ggplot2' Based Plots with Statistical Details - [diffify](https://diffify.com/R/ggstatsplot)
++ [{torch} 0.10.0](https://cran.r-project.org/package=torch): Tensors and Neural Networks with 'GPU' Acceleration - [diffify](https://diffify.com/R/torch)
++ [{censored} 0.2.0](https://cran.r-project.org/package=censored): 'parsnip' Engines for Survival Models - [diffify](https://diffify.com/R/censored)
++ [{almanac} 1.0.0](https://cran.r-project.org/package=almanac): Tools for Working with Recurrence Rules - [diffify](https://diffify.com/R/almanac)
++ [{ggspatial} 1.1.8](https://cran.r-project.org/package=ggspatial): Spatial Data Framework for ggplot2 - [diffify](https://diffify.com/R/ggspatial)
++ [{autonewsmd} 0.0.6](https://cran.r-project.org/package=autonewsmd): Auto-Generate Changelog using Conventional Commits - [diffify](https://diffify.com/R/autonewsmd)
++ [{zoo} 1.8-12](https://cran.r-project.org/package=zoo): S3 Infrastructure for Regular and Irregular Time Series (Z's
+Ordered Observations) - [diffify](https://diffify.com/R/zoo)
++ [{git2r} 0.32.0](https://cran.r-project.org/package=git2r): Provides Access to Git Repositories - [diffify](https://diffify.com/R/git2r)
++ [{DescribeDF} 0.1.1](https://cran.r-project.org/package=DescribeDF): Description of a Data Frame - [diffify](https://diffify.com/R/DescribeDF)
++ [{octopus} 0.2.0](https://cran.r-project.org/package=octopus): A Database Management Tool - [diffify](https://diffify.com/R/octopus)
++ [{ggstats} 0.3.0](https://cran.r-project.org/package=ggstats): Extension to 'ggplot2' for Plotting Stats - [diffify](https://diffify.com/R/ggstats)
++ [{forstringr} 0.1.1](https://cran.r-project.org/package=forstringr): String Manipulation Package for Those Familiar with 'Microsoft
+Excel' - [diffify](https://diffify.com/R/forstringr)
++ [{tune} 1.1.1](https://cran.r-project.org/package=tune): Tidy Tuning Tools - [diffify](https://diffify.com/R/tune)
++ [{ggformula} 0.10.4](https://cran.r-project.org/package=ggformula): Formula Interface to the Grammar of Graphics - [diffify](https://diffify.com/R/ggformula)
++ [{autoReg} 0.3.2](https://cran.r-project.org/package=autoReg): Automatic Linear and Logistic Regression and Survival Analysis - [diffify](https://diffify.com/R/autoReg)
++ [{googleAuthR} 2.0.1](https://cran.r-project.org/package=googleAuthR): Authenticate and Create Google APIs - [diffify](https://diffify.com/R/googleAuthR)
++ [{oskeyring} 0.1.6](https://cran.r-project.org/package=oskeyring): Raw System Credential Store Access from R - [diffify](https://diffify.com/R/oskeyring)
++ [{rmapshaper} 0.5.0](https://cran.r-project.org/package=rmapshaper): Client for 'mapshaper' for 'Geospatial' Operations - [diffify](https://diffify.com/R/rmapshaper)
++ [{daewr} 1.2-9](https://cran.r-project.org/package=daewr): Design and Analysis of Experiments with R - [diffify](https://diffify.com/R/daewr)
++ [{colourvalues} 0.3.9](https://cran.r-project.org/package=colourvalues): Assigns Colours to Values - [diffify](https://diffify.com/R/colourvalues)
++ [{rms} 6.6-0](https://cran.r-project.org/package=rms): Regression Modeling Strategies - [diffify](https://diffify.com/R/rms)
++ [{geneHapR} 1.1.9](https://cran.r-project.org/package=geneHapR): Gene Haplotype Statistics, Phenotype Association and
+Visualization - [diffify](https://diffify.com/R/geneHapR)
++ [{stoRy} 0.2.1](https://cran.r-project.org/package=stoRy): Download, Explore, and Analyze Literary Theme Ontology Data - [diffify](https://diffify.com/R/stoRy)
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
 
 ### Gist & Cookbook
 
@@ -125,7 +164,7 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-+[Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
++ [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 + [Regression Modeling Strategies Course](https://fharrell.com/course/rms/index.html)
 
@@ -145,7 +184,7 @@ Events in 3 Months:
 
 ###  rtistry
 
-<iframe src="https://mastodon.social/@jacquietran/110191398723452729/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>XS
+![https://mastodon.social/@jacquietran/110191398723452729](https://cdn.fosstodon.org/cache/media_attachments/files/110/191/400/773/382/407/small/04b251633677c5d4.png)
 
 ###  Quotes of the Week
 
