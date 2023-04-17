@@ -86,6 +86,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+* [Avoid duplicate code in 150 seconds](https://youtu.be/E0I-G6rWESQ)
 
 
 ### Gist & Cookbook
