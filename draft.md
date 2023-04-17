@@ -180,7 +180,11 @@ Events in 3 Months:
 
 ###  rtistry
 
++ [@jacquietran@mastodon.social](https://mastodon.social/@jacquietran/110191398723452729)
+
 ![https://mastodon.social/@jacquietran/110191398723452729](https://cdn.fosstodon.org/cache/media_attachments/files/110/191/400/773/382/407/small/04b251633677c5d4.png)
+
++ [@nrennie@fosstodon.org](https://fosstodon.org/@nrennie/110212983953205770)
 
 ![https://fosstodon.org/@nrennie/110212983953205770](https://cdn.fosstodon.org/media_attachments/files/110/212/975/652/100/324/original/e773ebd35d74bae7.png)
 
