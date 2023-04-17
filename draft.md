@@ -182,6 +182,8 @@ Events in 3 Months:
 
 ![https://mastodon.social/@jacquietran/110191398723452729](https://cdn.fosstodon.org/cache/media_attachments/files/110/191/400/773/382/407/small/04b251633677c5d4.png)
 
+![https://fosstodon.org/@nrennie/110212983953205770](https://cdn.fosstodon.org/media_attachments/files/110/212/975/652/100/324/original/e773ebd35d74bae7.png)
+
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today&#39;s Friday <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> fun: I discovered the (experimental) `tree()` function in the lobstr package for the pretty-printing of lists. So much cleaner than `str()`! 😍🗒️ Thanks <a href="https://twitter.com/NicholasStrayer?ref_src=twsrc%5Etfw">@NicholasStrayer</a>! <a href="https://t.co/tz1kOSGqvj">pic.twitter.com/tz1kOSGqvj</a></p>&mdash; James Laird-Smith (@JLS_DataScience) <a href="https://twitter.com/JLS_DataScience/status/1646935682353442816?ref_src=twsrc%5Etfw">April 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
