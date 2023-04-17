@@ -1,7 +1,6 @@
 ---
-layout: draft
-title: R Weekly 2023-W16
-description: Draft of the R Weekly
+title: R Weekly 2023-W16 containers, extensions, revolutions
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -9,31 +8,49 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@jonocarroll), with help from the RWeekly team members and contributors.
 
-
 ###  Highlight
 
++ [Dev containers with R and Quarto](https://jamesgoldie.dev/writing/dev-containers-in-r/)
+
++ [Extending Data Frames](https://epiverse-trace.github.io/posts/extend-dataframes/index.html)
+
++ [Make “Solar System” Plots With {ggsolar}](https://rud.is/b/2023/04/12/make-solar-system-plots-with-ggsolar/)
 
 
 ### Insights
 
-+ [Dev containers with R and Quarto](https://jamesgoldie.dev/writing/dev-containers-in-r/)
-+ [Gradient descent in R](https://poissonisfish.com/2023/04/11/gradient-descent/)
-+ [Why should I use R: The Excel R plotting comparison: Part 2](https://www.jumpingrivers.com/blog/why-create-plots-in-r-part-2/)
 + [Do You Have to get() Objects?](https://yihui.org/en/2023/04/get-objects/)
+
++ [Dev containers with R and Quarto](https://jamesgoldie.dev/writing/dev-containers-in-r/)
+
++ [Gradient descent in R](https://poissonisfish.com/2023/04/11/gradient-descent/)
+
++ [Why should I use R: The Excel R plotting comparison: Part 2](https://www.jumpingrivers.com/blog/why-create-plots-in-r-part-2/)
+
 + [Detecting heart murmurs from time series data in R](https://nrennie.rbind.io/blog/detecting-heart-murmurs-time-series-r-tidymodels/)
+
 + [Lessons Learned with shiny.benchmark: Improving the Performance of a Shiny Dashboard](https://appsilon.com/benchmark-lessons-improving-shiny-dashboard-performance/)
+
 + [Make “Solar System” Plots With {ggsolar}](https://rud.is/b/2023/04/12/make-solar-system-plots-with-ggsolar/)
+
 + [collapse and the fastverse: Reflections on the Past, Present and Future](https://sebkrantz.github.io/Rblog/2023/04/12/collapse-and-the-fastverse-reflecting-the-past-present-and-future/)
+
 + [Styling Tables for Excel with {styledTables}](https://www.spsanderson.com/steveondata/posts/rtip-2023-04-11/index.html)
+
 + [Extending Data Frames](https://epiverse-trace.github.io/posts/extend-dataframes/index.html)
 
 + [Some love for Base R. Part 4](https://luis.apiolaza.net/2023/04/15/some-love-for-base-r-part-4/)
+
 + [Test for Normality in R: Three Different Methods & Interpretation](https://www.marsja.se/test-for-normality-in-r/)
+
 + [Building and Backtesting a Volatility-based Trading Strategy with ChatGPT](https://blog.ephorie.de/building-and-backtesting-a-volatility-based-trading-strategy-with-chatgpt?utm_source=rss&utm_medium=rss&utm_campaign=building-and-backtesting-a-volatility-based-trading-strategy-with-chatgpt)
+
 + [De-noising Diffusion with torch](https://blogs.rstudio.com/tensorflow/posts/2023-04-13-denoising-diffusion)
+
 + [{surveydown}: An open source, markdown-based survey framework (that doesn't exist yet)](https://www.jhelvy.com/posts/2023-04-06-markdown-surveys)
 
 + [Durbin Watson Test in R: Step-by-Step incl. Interpretation](https://www.marsja.se/durbin-watson-test-in-r-step-by-step-incl-interpretation/)
+
 + [Progress on R-spatial evolution, Apr 2023](https://www.r-spatial.org//r/2023/04/10/evolution3.html)
 
 + [WooCommerce Administrator with R](https://r-posts.com/woocommerce-administrator-with-r/)
@@ -46,22 +63,9 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [IPL 2023:GooglyPlusPlus now with by AI/ML models, near real-time analytics!](https://gigadom.in/2023/04/08/ipl-2023googlyplusplus-now-with-by-ai-ml-models-near-real-time-analytics/)
 
 
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
-
-###  Resources
-
-
-
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
 
 **CRAN**
 
@@ -123,12 +127,12 @@ Excel' - [diffify](https://diffify.com/R/forstringr)
 Visualization - [diffify](https://diffify.com/R/geneHapR)
 + [{stoRy} 0.2.1](https://cran.r-project.org/package=stoRy): Download, Explore, and Analyze Literary Theme Ontology Data - [diffify](https://diffify.com/R/stoRy)
 
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-### Gist & Cookbook
-
+* [Avoid duplicate code in 150 seconds](https://youtu.be/E0I-G6rWESQ)
 
 
 ### Shiny Apps
@@ -139,15 +143,8 @@ Visualization - [diffify](https://diffify.com/R/geneHapR)
 
 + [windy.example](https://github.com/devOpifex/windy.example)
 
-### R Internationally
-
-
-
-###  Tutorials
-
-
-
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+
 
 ###  R Project Updates
 
@@ -169,13 +166,6 @@ Events in 3 Months:
 + [Regression Modeling Strategies Course](https://fharrell.com/course/rms/index.html)
 
 + [Regression Modeling Strategies Pre-Course](https://fharrell.com/course/prerms/index.html)
-
-
-
-### Grants & Funding
-
-
-### Datasets
 
 
 ### Jobs
