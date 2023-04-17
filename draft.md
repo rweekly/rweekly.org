@@ -25,6 +25,8 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [Gradient descent in R](https://poissonisfish.com/2023/04/11/gradient-descent/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W16/gradient_600.jpg)
+
 + [Why should I use R: The Excel R plotting comparison: Part 2](https://www.jumpingrivers.com/blog/why-create-plots-in-r-part-2/)
 
 + [Detecting heart murmurs from time series data in R](https://nrennie.rbind.io/blog/detecting-heart-murmurs-time-series-r-tidymodels/)
@@ -32,6 +34,8 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [Lessons Learned with shiny.benchmark: Improving the Performance of a Shiny Dashboard](https://appsilon.com/benchmark-lessons-improving-shiny-dashboard-performance/)
 
 + [Make “Solar System” Plots With {ggsolar}](https://rud.is/b/2023/04/12/make-solar-system-plots-with-ggsolar/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W16/solar_600.png)
 
 + [collapse and the fastverse: Reflections on the Past, Present and Future](https://sebkrantz.github.io/Rblog/2023/04/12/collapse-and-the-fastverse-reflecting-the-past-present-and-future/)
 
@@ -46,6 +50,8 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [Building and Backtesting a Volatility-based Trading Strategy with ChatGPT](https://blog.ephorie.de/building-and-backtesting-a-volatility-based-trading-strategy-with-chatgpt?utm_source=rss&utm_medium=rss&utm_campaign=building-and-backtesting-a-volatility-based-trading-strategy-with-chatgpt)
 
 + [De-noising Diffusion with torch](https://blogs.rstudio.com/tensorflow/posts/2023-04-13-denoising-diffusion)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W16/denoise_600.png)
 
 + [{surveydown}: An open source, markdown-based survey framework (that doesn't exist yet)](https://www.jhelvy.com/posts/2023-04-06-markdown-surveys)
 
