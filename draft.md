@@ -57,6 +57,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{nanonext} 0.8.2](https://cran.r-project.org/package=nanonext): Lightweight Messaging Library. R binding for NNG (Nanomsg Next Gen), a successor to ZeroMQ.
+
++ [{mirai} 0.8.3](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R. Lightweight parallel code execution and distributed computing.
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
