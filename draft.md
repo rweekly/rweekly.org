@@ -42,7 +42,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **CRAN**
-
++ {gghist} 0.1.0: Plot the Histogram of a Numeric Vector
 
 
 **Bioconductor**
