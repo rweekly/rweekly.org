@@ -43,7 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{fakir}](https://golemverse.org/news/fakir-1.0.0-on-cran/)
 
 **Bioconductor**
 
