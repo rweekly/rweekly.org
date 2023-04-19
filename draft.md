@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+* [On Indentation in R](https://www.hiddenelephants.co.uk/Blog/on-indentation-in-R.html)
 
 ### R in the Real World
 
