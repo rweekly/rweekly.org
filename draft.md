@@ -17,8 +17,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
+
 ### Insights
- - [11 tricks to level up your rmarkdown documents](https://eliocamp.github.io/codigo-r/en/2023/04/knitr-rmarkdown-tricks/)
+
+* [11 tricks to level up your rmarkdown documents](https://eliocamp.github.io/codigo-r/en/2023/04/knitr-rmarkdown-tricks/)
+ 
+* [On Indentation in R](https://www.hiddenelephants.co.uk/Blog/on-indentation-in-R.html)
+
 
 
 ### R in the Real World
