@@ -44,7 +44,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ {gghist} 0.1.0: Plot the Histogram of a Numeric Vector
+
 + [{fakir}](https://golemverse.org/news/fakir-1.0.0-on-cran/)
+
 
 **Bioconductor**
 
