@@ -16,9 +16,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
+
+
 ### Insights
 
+* [11 tricks to level up your rmarkdown documents](https://eliocamp.github.io/codigo-r/en/2023/04/knitr-rmarkdown-tricks/)
+ 
 * [On Indentation in R](https://www.hiddenelephants.co.uk/Blog/on-indentation-in-R.html)
+
+
 
 ### R in the Real World
 
@@ -43,7 +49,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ {gghist} 0.1.0: Plot the Histogram of a Numeric Vector
+
 + [{fakir}](https://golemverse.org/news/fakir-1.0.0-on-cran/)
+
 
 **Bioconductor**
 
@@ -56,6 +65,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{nanonext} 0.8.2](https://cran.r-project.org/package=nanonext): Lightweight Messaging Library. R binding for NNG (Nanomsg Next Gen), a successor to ZeroMQ.
+
++ [{mirai} 0.8.3](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R. Lightweight parallel code execution and distributed computing.
 
 ###  Videos and Podcasts
 
