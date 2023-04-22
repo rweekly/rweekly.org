@@ -16,8 +16,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
-### Insights
 
+### Insights
+ - [11 tricks to level up your rmarkdown documents](https://eliocamp.github.io/codigo-r/en/2023/04/knitr-rmarkdown-tricks/)
 
 
 ### R in the Real World
