@@ -309,6 +309,6 @@ Events in 3 Months:
 
 ###  Quotes of the Week
 
-<iframe src="https://fosstodon.org/@milesmcbain/110228384750438439/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 620px;" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://fosstodon.org/@milesmcbain/110228384750438439/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 500px;" width="400" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="https://mastodon.social/@hfrick/110242418617499071/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 620px;" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@hfrick/110242418617499071/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 800px;" width="400" allowfullscreen="allowfullscreen"></iframe>
