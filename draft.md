@@ -8,12 +8,15 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
-
-
+This week’s release was curated by [Eric Nantz](https://podcastindex.social/@rpodcast), with help from the R Weekly team members and contributors.
 
 ###  Highlight
+
++ [What's new in R 4.3.0?](https://www.jumpingrivers.com/blog/whats-new-r43/)
+
++ [Writing performant code with tidy tools](https://www.tidyverse.org/blog/2023/04/performant-packages/)
+
+* [On Indentation in R](https://www.hiddenelephants.co.uk/Blog/on-indentation-in-R.html)
 
 ### Insights
 
@@ -62,6 +65,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{gghist} 0.1.0](https://cran.r-project.org/package=gghist): Plot the Histogram of a Numeric Vector
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W17/gghist_600.png)
+
 + [{fakir}](https://golemverse.org/news/fakir-1.0.0-on-cran/)
 
 + [{phylocomr} 0.3.4](https://cran.r-project.org/package=phylocomr): Interface to 'Phylocom'
@@ -79,6 +84,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{GPUmatrix} 0.1.0](https://cran.r-project.org/package=GPUmatrix): Basic Linear Algebra with GPU
 
 + [{ggragged} 0.1.0](https://cran.r-project.org/package=ggragged): Ragged Grids for 'ggplot2'
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W17/sad-ragged-free-1_600.png)
 
 + [{GLMMselect} 1.0.0](https://cran.r-project.org/package=GLMMselect): Bayesian Model Selection for Generalized Linear Mixed Models
 
@@ -154,6 +161,8 @@ Regression
 
 + [{ceramic} 0.8.0](https://cran.r-project.org/package=ceramic): Download Online Imagery Tiles - [diffify](https://diffify.com/R/ceramic)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W17/ceramic_600.png)
+
 + [{openxlsx2} 0.6.1](https://cran.r-project.org/package=openxlsx2): Read, Write and Edit 'xlsx' Files - [diffify](https://diffify.com/R/openxlsx2)
 
 + [{idarps} 0.0.3](https://cran.r-project.org/package=idarps): Datasets and Functions for the Class "Modelling and Data
@@ -215,6 +224,8 @@ LaTeX Documents - [diffify](https://diffify.com/R/tinytex)
 + [{ppseq} 0.2.2](https://cran.r-project.org/package=ppseq): Design Clinical Trials using Sequential Predictive Probability Monitoring - [diffify](https://diffify.com/R/ppseq)
 
 + [{khroma} 1.10.0](https://cran.r-project.org/package=khroma): Colour Schemes for Scientific Data Visualization - [diffify](https://diffify.com/R/khroma)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W17/khroma_600.png)
 
 + [{CRE} 0.2.2](https://cran.r-project.org/package=CRE): Interpretable Subgroups Identification Through Ensemble Learning
 of Causal Rules - [diffify](https://diffify.com/R/CRE)
@@ -281,6 +292,7 @@ Events in 3 Months:
 ### Grants & Funding
 
 + [The 2023 RUGS Program is awarding grants for 2023!](https://www.r-consortium.org/blog/2023/04/19/the-2023-rugs-program-is-awarding-grants-for-2023)
+
 ### Datasets
 
 + [{NYgrid}](https://github.com/RamiKrispin/NYgrid) - New York Independent System Operator Hourly Demand by Sub-Region
@@ -291,11 +303,10 @@ Events in 3 Months:
 
 ###  rtistry
 
-+ https://fosstodon.org/@meghansharris/110239612266561043
+<iframe src="https://fosstodon.org/@meghansharris/110239612266561043/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 620px;" width="400" allowfullscreen="allowfullscreen"></iframe>
 
 ###  Quotes of the Week
 
-TODO: Create embeds
+<iframe src="https://fosstodon.org/@milesmcbain/110228384750438439/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 620px;" width="400" allowfullscreen="allowfullscreen"></iframe>
 
-https://fosstodon.org/@milesmcbain/110228384750438439
-
+<iframe src="https://mastodon.social/@hfrick/110242418617499071/embed" class="mastodon-embed" style="max-width: 100%; border: 0; height: 620px;" width="400" allowfullscreen="allowfullscreen"></iframe>
