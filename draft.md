@@ -145,6 +145,8 @@ Regression
 
 + [{forgot}](https://github.com/parmsam/forgot) - R package to search for that one function you need in that one package
 
++ [{shinidraw}](https://github.com/ThinkR-open/shinidraw) - Bringing Excalidraw to your R console, with built-in project management. 
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
