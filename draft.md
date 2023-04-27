@@ -77,6 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+- [Making Middle Earth maps with R](https://www.andrewheiss.com/blog/2023/04/26/middle-earth-mapping-sf-r-gis/): Explore Tolkien’s Middle Earth with R-based GIS tools, including {ggplot2}, {sf}, and {leaflet}
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
