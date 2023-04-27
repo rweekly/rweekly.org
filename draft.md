@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Demystifying Item Response Theory (1/4)](https://yongfu.name/2023/02/25/irt1/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
