@@ -19,11 +19,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [rOpenSci Champions Program Teams: Meet Bilikisu Wunmi Olatunji and Christina Maimone](https://ropensci.org/blog/2023/04/25/ropensci-champions-program-teams-meet-bilikisu-wunmi-olatunji-and-christina-maimone/)
+
++ [Pull Requests, Code Review, and The Art of Requesting Changes](https://matthewrkaye.com/posts/series/doing-data-science/2023-04-14-code-review/code-review.html)
+
++ [Rounding in R: Common Data Wrangling Frustrations and Workarounds in R, Julia, and Python](https://appsilon.com/rounding-issues-in-r-julia-and-python/)
+
++ [Sketch Package looks to add JavaScript to R packages](https://www.r-consortium.org/blog/2023/04/26/sketch-package-looks-to-add-javascript-to-r-packages)
+
++ [Error Handling in R and Python](https://towardsdatascience.com/error-handling-in-r-and-python-5a4d60f3fba6)
 
 
 ### R in the Real World
 
++ [Building Mastodon Bots and Promoting the Community - Part 1](https://cosimameyer.com/post/2023-04-25-building-mastodon-bots-and-promoting-the-community/)
 
++ [R Applied to Epidemiology and Infectious Disease in Glasgow](https://www.r-consortium.org/blog/2023/04/25/r-applied-to-epidemiology-and-infectious-disease-in-glasgow)
 
 ### R in Organizations
 
@@ -77,7 +88,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Exploring Distributions with {shiny}, {TidyDensity} and {plotly} Part 5](https://www.spsanderson.com/steveondata/posts/rtip-2023-04-24/index.html)
 
++ [Building models with {shiny} and {tidyAML} Part 1](https://www.spsanderson.com/steveondata/posts/rtip-2023-04-25/index.html)
+
++ [Building models with {shiny} and {tidyAML} Part 2](https://www.spsanderson.com/steveondata/posts/rtip-2023-04-26/)
+
++ [Building models with {shiny} and {tidyAML} Part 3](https://www.spsanderson.com/steveondata/posts/rtip-2023-04-27/)
+
++ [RObservations #47 : Knitting .Rmd Files to Google Docs with knit2docs](https://bensstats.wordpress.com/2023/04/25/robservations-47-knitting-rmd-files-to-google-docs-with-knit2docs/)
+
++ [shiny.emptystate – How To Add an Empty State Component to R Shiny](https://appsilon.com/shiny-emptystate-tutorial/)
+
++ [How to create a clickable world cloud with wordcloud2 and Shiny](https://www.jumpingrivers.com/blog/r-clickable-wordcloud-javascript-shiny/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
