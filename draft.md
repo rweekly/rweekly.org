@@ -63,7 +63,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
+* [{ggmagnify}](https://github.com/hughjonesd/ggmagnify): create a magnified inset of part of a ggplot 
 
 ### Updated Packages
 
