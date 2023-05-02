@@ -137,8 +137,6 @@ title: Live Updates and Bloggers from Data Science Community
   <div id="latest-app" class="inner-app-hide">
 
     <p class="added-hostname">
-      <a href="https://feedburner.google.com/fb/a/mailverify?uri=rweekly-live&amp;loc=en_US" id="mail-status"
-        target="_blank" class="externalLink">
         <svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"
           style="margin-right: 8px;height: 25px;width: 25px;padding-top: 5px;margin-bottom: -4;">
           <path style="fill:grey;"
@@ -244,7 +242,6 @@ title: Live Updates and Bloggers from Data Science Community
       _paq.push(['trackEvent', 'set-ds', 'true']);
       document.getElementById('ds-status').innerText = " yes ";
       document.getElementById('main-post').classList.remove('post-hide-ds');
-      document.getElementById('mail-status').href = "https://feedburner.google.com/fb/a/mailverify?uri=rweekly-live&amp;loc=en_US";
       document.getElementById('rss-status').href = "https://feeds.feedburner.com/rweekly-live";
     } else {
       try {
@@ -255,7 +252,6 @@ title: Live Updates and Bloggers from Data Science Community
       _paq.push(['trackEvent', 'set-ds', 'false']);
       document.getElementById('ds-status').innerText = " no ";
       document.getElementById('main-post').classList.add('post-hide-ds');
-      document.getElementById('mail-status').href = "https://feedburner.google.com/fb/a/mailverify?uri=rweeklylive&amp;loc=en_US";
       document.getElementById('rss-status').href = "https://feeds.feedburner.com/rweeklylive";
     }
   }
@@ -398,11 +394,9 @@ title: Live Updates and Bloggers from Data Science Community
     if (localStorage.getItem("feature-ds") === 'false') {
       document.getElementById('ds-status').innerText = " no ";
       document.getElementById('main-post').classList.add('post-hide-ds');
-      document.getElementById('mail-status').href = "https://feedburner.google.com/fb/a/mailverify?uri=rweeklylive&amp;loc=en_US";
     } else {
       document.getElementById('ds-status').innerText = " yes ";
       document.getElementById('main-post').classList.remove('post-hide-ds');
-      document.getElementById('mail-status').href = "https://feedburner.google.com/fb/a/mailverify?uri=rweekly-live&amp;loc=en_US";
     }
     // try{
     //     var xlanguage = window.navigator.userLanguage || window.navigator.language;
