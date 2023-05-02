@@ -102,6 +102,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to create a clickable world cloud with wordcloud2 and Shiny](https://www.jumpingrivers.com/blog/r-clickable-wordcloud-javascript-shiny/)
 
++ [Making Middle Earth maps with R](https://www.andrewheiss.com/blog/2023/04/26/middle-earth-mapping-sf-r-gis/): Explore Tolkien’s Middle Earth with R-based GIS tools, including {ggplot2}, {sf}, and {leaflet}
+
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
