@@ -43,6 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{annmatrix} 0.1.1](https://cran.r-project.org/package=annmatrix): Annotated Matrix: Matrices with Persistent Row and Column Annotations
 
 
 **Bioconductor**
