@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
+* [Making POST requests with R](https://www.etiennebacher.com/posts/2023-05-09-making-post-requests-with-r)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
