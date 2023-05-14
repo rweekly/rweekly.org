@@ -1,10 +1,9 @@
 ---
 layout: draft
-title: R Weekly 2023-W18
+title: R Weekly 2023-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
-
 
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
@@ -25,25 +24,26 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
-### R in Organizations
+###  R in Organizations
 
 
 
-### R in Academia
+###  R in Academia
 
 
 
-### Resources
+###  Resources
 
 
 
-### New Packages
+###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 
 **CRAN**
 
++ [{annmatrix} 0.1.1](https://cran.r-project.org/package=annmatrix): Annotated Matrix: Matrices with Persistent Row and Column Annotations
 
 
 **Bioconductor**
@@ -58,7 +58,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-### Videos and Podcasts
++ [{nanonext} 0.8.3](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen), a successor to ZeroMQ.
+
+###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
@@ -75,18 +77,27 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
-### Tutorials
+###  Tutorials
 
 
+* [Making POST requests with R](https://www.etiennebacher.com/posts/2023-05-09-making-post-requests-with-r)
+
++ [Big changes to making summary rows in {gt} 0.9.0](https://posit.co/blog/big-changes-to-making-summary-rows-in-gt-0-9-0/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
-### R Project Updates
+###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+R Contributor Office Hours, Thursday May 11: [Europe/Middle East/Asia-Pacific Hour](https://www.meetup.com/r-contributors/events/xwxrdtyfchbpb/) or [Americas Hour](https://www.meetup.com/r-contributors/events/txxrdtyfchbpb/)
 
-### Upcoming Events in 3 Months
+Join an online Office Hour at the time that suits you to:
+ - discuss how to get started contributing to R
+ - get help/feedback on contributions you are working on
+ - look at open bugs/work on translations together
+
+###  Upcoming Events in 3 Months
 
 Events in 3 Months:
 
@@ -107,7 +118,7 @@ Events in 3 Months:
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
-### rtistry
+###  rtistry
 
 
-### Quotes of the Week
+###  Quotes of the Week

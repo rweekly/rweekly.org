@@ -25,8 +25,6 @@ document.getElementById('search-form').addEventListener('submit', function(e){
 
 <p></p>
 
-Subscribe R Weekly with <a href="https://feedburner.google.com/fb/a/mailverify?uri=rweekly&amp;loc=en_US" target="_blank" onclick="_paq.push(['trackEvent', 'Mail', '1']);">Email</a>.
-
 Do you enjoy R Weekly?
 
 <div id="star-rating" class="rating" style="margin-bottom:10px;" >
