@@ -35,19 +35,21 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [Creating a cracked egg plot using {ggplot2} in R](https://nrennie.rbind.io/blog/cracked-egg-plot-ggplot2/)
 
++ [Model Misspecification and Linear Sandwiches](https://vgherard.github.io/posts/2023-05-14-model-misspecification-and-linear-sandwiches/)
+
 ### R in the Real World
 
 + [Diffify - the anniversary update!](https://www.jumpingrivers.com/blog/diffify-anniversary-update-r-python/)
 
 + [{riskassessment} app from the R Validation Hub voted best Shiny app at shinyConf 2023! 🎉](https://www.r-consortium.org/blog/2023/05/11/riskassessment-app-from-the-r-validation-hub-voted-best-shiny-app-at-shinyconf-2023)
 
-+ [Teaching and Translating R Resources in Nepal](https://www.r-consortium.org/blog/2023/05/04/teaching-and-translating-r-resources-in-nepal)
-
-
 ###  R in Organizations
 
 + [SatRdays London 2023: Thanks for coming!](https://www.jumpingrivers.com/blog/satrdays-london-2023-conference-rstats-thanks-for-coming/)
 
++ [Driving impact with data science communities](https://posit.co/blog/driving-impact-with-data-science-communities/)
+
++ [The State of Pharma: Collaboration and Innovation with Open-Source Tools](https://posit.co/blog/the-state-of-pharma/)
 
 ###  R in Academia
 
@@ -68,21 +70,73 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 **CRAN**
 
 + [{annmatrix} 0.1.1](https://cran.r-project.org/package=annmatrix): Annotated Matrix: Matrices with Persistent Row and Column Annotations
-
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
++ [{ggflowchart} 1.0.0](https://cran.r-project.org/package=ggflowchart): Flowcharts with 'ggplot2'
++ [{pressuRe} 0.1.0](https://cran.r-project.org/package=pressuRe): Imports, Processes, and Visualizes Biomechanical Pressure Data
++ [{OHCSpackage} 0.1.5](https://cran.r-project.org/package=OHCSpackage): Prepare Housing Data for Analysis
++ [{iplookupapi} 0.1.0](https://cran.r-project.org/package=iplookupapi): Client for the 'iplookupapi.com' IP Lookup API
++ [{ipbase} 0.1.1](https://cran.r-project.org/package=ipbase): Client for the 'ipbase.com' IP Geolocation API
++ [{emailvalidation} 0.1.0](https://cran.r-project.org/package=emailvalidation): Client for the 'emailalvalidation.io' E-Mail Validation API
++ [{NLPutils} 0.0-5.1](https://cran.r-project.org/package=NLPutils): Natural Language Processing Utilities
++ [{qdap} 2.4.6](https://cran.r-project.org/package=qdap): Bridging the Gap Between Qualitative Data and Quantitative
++ [{qdapTools} 1.3.7](https://cran.r-project.org/package=qdapTools): Tools for the 'qdap' Package
+Analysis
++ [{modACDC} 1.0.0](https://cran.r-project.org/package=modACDC): Association of Covariance for Detecting Differential
+Co-Expression
++ [{ggtricks} 0.1.0](https://cran.r-project.org/package=ggtricks): Create Sector and Other Charts Easily Using Grammar of Graphics
++ [{ISAR} 0.1.10](https://cran.r-project.org/package=ISAR): Introduction to Sports Analytics using R (ISAR) Data
++ [{WCluster} 1.1.0](https://cran.r-project.org/package=WCluster): Clustering and PCA with Weights, and Data Nuggets Clustering
++ [{shiny.exe} 0.1.0](https://cran.r-project.org/package=shiny.exe): Schedule a Task that Runs a shinyApp then Creates a Shortcut in Current Directory
++ [{fetch} 0.1.2](https://cran.r-project.org/package=fetch): Fetch Data from Various Data Sources
++ [{StockDistFit} 1.0.0](https://cran.r-project.org/package=StockDistFit): Fit Stock Price Distributions
++ [{ggplot2.utils} 0.2.1](https://cran.r-project.org/package=ggplot2.utils): Selected Utilities Extending 'ggplot2'
++ [{tutorial.helpers} 0.2.3](https://cran.r-project.org/package=tutorial.helpers): Helper Functions for Creating Tutorials
++ [{ggrounded} 0.0.3](https://cran.r-project.org/package=ggrounded): Rounded Bar Plots
++ [{covid19br} 0.1.5](https://cran.r-project.org/package=covid19br): Brazilian COVID-19 Pandemic Data
++ [{tidytlg} 0.1.1](https://cran.r-project.org/package=tidytlg): Create TLGs using the 'tidyverse'
++ [{SSplots} 0.1.1](https://cran.r-project.org/package=SSplots): Stock Status Plots (SSPs)
++ [{shiny.telemetry} 0.1.0](https://cran.r-project.org/package=shiny.telemetry): 'Shiny' App Usage Telemetry
++ [{rfars} 0.3.0](https://cran.r-project.org/package=rfars): Download and Analyze Fatal Crash Data
++ [{survstan} 0.0.1](https://cran.r-project.org/package=survstan): Fitting Survival Regression Models via 'Stan'
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [{nanonext} 0.8.3](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen), a successor to ZeroMQ.
++ [{fairml} 0.8](https://cran.r-project.org/package=fairml): Fair Models in Machine Learning - [diffify](https://diffify.com/R/fairml)
++ [{ggdist} 3.3.0](https://cran.r-project.org/package=ggdist): Visualizations of Distributions and Uncertainty - [diffify](https://diffify.com/R/ggdist)
++ [{pROC} 1.18.2](https://cran.r-project.org/package=pROC): Display and Analyze ROC Curves - [diffify](https://diffify.com/R/pROC)
++ [{colorblindcheck} 1.0.2](https://cran.r-project.org/package=colorblindcheck): Check Color Palettes for Problems with Color Vision Deficiency - [diffify](https://diffify.com/R/colorblindcheck)
++ [{stringstatic} 0.1.1](https://cran.r-project.org/package=stringstatic): Dependency-Free String Operations - [diffify](https://diffify.com/R/stringstatic)
++ [{VeryLargeIntegers} 0.2.1](https://cran.r-project.org/package=VeryLargeIntegers): Store and Operate with Arbitrarily Large Integers - [diffify](https://diffify.com/R/VeryLargeIntegers)
++ [{tutorial.helpers} 0.2.3](https://cran.r-project.org/package=tutorial.helpers): Helper Functions for Creating Tutorials - [diffify](https://diffify.com/R/tutorial.helpers)
++ [{MCMCvis} 0.16.0](https://cran.r-project.org/package=MCMCvis): Tools to Visualize, Manipulate, and Summarize MCMC Output - [diffify](https://diffify.com/R/MCMCvis)
++ [{softbib} 0.0.2](https://cran.r-project.org/package=softbib): Software Bibliographies for R Projects - [diffify](https://diffify.com/R/softbib)
++ [{reporter} 1.4.1](https://cran.r-project.org/package=reporter): Creates Statistical Reports - [diffify](https://diffify.com/R/reporter)
++ [{rhino} 1.3.1](https://cran.r-project.org/package=rhino): A Framework for Enterprise Shiny Applications - [diffify](https://diffify.com/R/rhino)
++ [{confintr} 1.0.1](https://cran.r-project.org/package=confintr): Confidence Intervals - [diffify](https://diffify.com/R/confintr)
++ [{tuneR} 1.4.4](https://cran.r-project.org/package=tuneR): Analysis of Music and Speech - [diffify](https://diffify.com/R/tuneR)
++ [{rviewgraph} 1.4.2](https://cran.r-project.org/package=rviewgraph): Animated Graph Layout Viewer - [diffify](https://diffify.com/R/rviewgraph)
++ [{AirMonitor} 0.3.11](https://cran.r-project.org/package=AirMonitor): Air Quality Data Analysis - [diffify](https://diffify.com/R/AirMonitor)
++ [{parquetize} 0.5.6.1](https://cran.r-project.org/package=parquetize): Convert Files to Parquet Format - [diffify](https://diffify.com/R/parquetize)
++ [{daterangepicker} 0.2.0](https://cran.r-project.org/package=daterangepicker): Create a Shiny Date-Range Input - [diffify](https://diffify.com/R/daterangepicker)
++ [{nonmemica} 1.0.1](https://cran.r-project.org/package=nonmemica): Create and Evaluate NONMEM Models in a Project Context - [diffify](https://diffify.com/R/nonmemica)
++ [{contingencytables} 2.0.0](https://cran.r-project.org/package=contingencytables): Statistical Analysis of Contingency Tables - [diffify](https://diffify.com/R/contingencytables)
++ [{flashlight} 0.9.0](https://cran.r-project.org/package=flashlight): Shed Light on Black Box Machine Learning Models - [diffify](https://diffify.com/R/flashlight)
++ [{tidytlg} 0.1.1](https://cran.r-project.org/package=tidytlg): Create TLGs using the 'tidyverse' - [diffify](https://diffify.com/R/tidytlg)
++ [{finalsize} 0.2.0](https://cran.r-project.org/package=finalsize): Calculate the Final Size of an Epidemic - [diffify](https://diffify.com/R/finalsize)
++ [{bookdown} 0.34](https://cran.r-project.org/package=bookdown): Authoring Books and Technical Documents with R Markdown - [diffify](https://diffify.com/R/bookdown)
++ [{simplevis} 7.1.0](https://cran.r-project.org/package=simplevis): Wrappers to Simplify 'leaflet' Visualisation - [diffify](https://diffify.com/R/simplevis)
++ [{waldo} 0.5.1](https://cran.r-project.org/package=waldo): Find Differences Between R Objects - [diffify](https://diffify.com/R/waldo)
++ [{httr} 1.4.6](https://cran.r-project.org/package=httr): Tools for Working with URLs and HTTP - [diffify](https://diffify.com/R/httr)
++ [{data.validator} 0.2.0](https://cran.r-project.org/package=data.validator): Automatic Data Validation and Reporting - [diffify](https://diffify.com/R/data.validator)
++ [{VedicDateTime} 0.1.4](https://cran.r-project.org/package=VedicDateTime): Vedic Calendar System - [diffify](https://diffify.com/R/VedicDateTime)
++ [{ShinyItemAnalysis} 1.5.0](https://cran.r-project.org/package=ShinyItemAnalysis): Test and Item Analysis via Shiny - [diffify](https://diffify.com/R/ShinyItemAnalysis)
++ [{ctrdata} 1.13.1](https://cran.r-project.org/package=ctrdata): Retrieve and Analyze Clinical Trials in Public Registers - [diffify](https://diffify.com/R/ctrdata)
++ [{IncidencePrevalence} 0.3.0](https://cran.r-project.org/package=IncidencePrevalence): Estimate Incidence and Prevalence using the OMOP Common Data Model - [diffify](https://diffify.com/R/IncidencePrevalence)
++ [{RNewsflow} 1.2.7](https://cran.r-project.org/package=RNewsflow): Tools for Comparing Text Messages Across Time and Media - [diffify](https://diffify.com/R/RNewsflow)
++ [{parabar} 1.1.0](https://cran.r-project.org/package=parabar): Progress Bar for Parallel Tasks - [diffify](https://diffify.com/R/parabar)
++ [{reproducible} 2.0.2](https://cran.r-project.org/package=reproducible): Enhance Reproducibility of R Code - [diffify](https://diffify.com/R/reproducible)
 
 ###  Videos and Podcasts
 
@@ -90,20 +144,27 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [Colin Fay, Keynote: Production is like ultra running: brutal, ungrateful, but worth every step](https://www.youtube.com/watch?v=wMbhxTJNrmw)
 
-### Gist & Cookbook
++ [Get started with Quarto | Mine Çetinkaya-Rundel](https://www.youtube.com/watch?v=_f3latmOhew)
 
++ [Nicola Rennie: Finding #RStats resources with Shiny and GitHub Actions](https://www.youtube.com/watch?v=oGRGzyYLQXU)
 
++ [Tan Ho: DIY Pest Control: Effectively Debugging Shiny Apps](https://www.youtube.com/watch?v=x764Y1qz_iQ)
 
 ### Shiny Apps
 
++ [R Shiny Examples in Pharma and Biotech](https://appsilon.com/r-shiny-pharma-biotech-examples/)
 
++ [How R Shiny Helps Protect Coral Reefs in Micronesia](https://appsilon.com/r-shiny-tech-for-coral-reef-conservation/)
+
++ [Systematic Literature Review and R Shiny: App for Marine Conservation and Climate Change Mitigation](https://appsilon.com/systematic-literature-review-with-r-shiny/)
+
++ [Introducing the Weighted pickerInput Module for Shiny](https://appsilon.com/weighted-pickerinput-module-for-shiny/)
 
 ### R Internationally
 
-
++ [Teaching and Translating R Resources in Nepal](https://www.r-consortium.org/blog/2023/05/04/teaching-and-translating-r-resources-in-nepal)
 
 ###  Tutorials
-
 
 * [Making POST requests with R](https://www.etiennebacher.com/posts/2023-05-09-making-post-requests-with-r)
 
@@ -134,12 +195,6 @@ Events in 3 Months:
 +[Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 + [The 15th Annual R/Finance Conference 2023](https://www.r-consortium.org/blog/2023/05/12/the-15th-annual-r-finance-conference-2023)
-
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Jobs
 
