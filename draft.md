@@ -43,6 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{annmatrix} 0.1.1](https://cran.r-project.org/package=annmatrix): Annotated Matrix: Matrices with Persistent Row and Column Annotations
 
 
 **Bioconductor**
@@ -76,7 +77,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
+
 * [Making POST requests with R](https://www.etiennebacher.com/posts/2023-05-09-making-post-requests-with-r)
+
++ [Big changes to making summary rows in {gt} 0.9.0](https://posit.co/blog/big-changes-to-making-summary-rows-in-gt-0-9-0/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -84,6 +88,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+R Contributor Office Hours, Thursday May 11: [Europe/Middle East/Asia-Pacific Hour](https://www.meetup.com/r-contributors/events/xwxrdtyfchbpb/) or [Americas Hour](https://www.meetup.com/r-contributors/events/txxrdtyfchbpb/)
+
+Join an online Office Hour at the time that suits you to:
+ - discuss how to get started contributing to R
+ - get help/feedback on contributions you are working on
+ - look at open bugs/work on translations together
 
 ###  Upcoming Events in 3 Months
 
