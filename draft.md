@@ -79,6 +79,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
+
+* [Making POST requests with R](https://www.etiennebacher.com/posts/2023-05-09-making-post-requests-with-r)
+
 + [Big changes to making summary rows in {gt} 0.9.0](https://posit.co/blog/big-changes-to-making-summary-rows-in-gt-0-9-0/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
