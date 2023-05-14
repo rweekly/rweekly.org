@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Big changes to making summary rows in {gt} 0.9.0](https://posit.co/blog/big-changes-to-making-summary-rows-in-gt-0-9-0/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
