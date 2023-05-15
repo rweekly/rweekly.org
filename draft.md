@@ -15,7 +15,7 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [Introducing {ggflowchart}](https://nrennie.rbind.io/blog/introducing-ggflowchart/)
 
-+ [Introducing {ggflowchart}](https://nrennie.rbind.io/blog/introducing-ggflowchart/)
++ [Why you should consider working on a dockerized development environment](https://www.brodrigues.co/blog/2023-05-08-dock_dev_env/)
 
 + [Colin Fay, Keynote: Production is like ultra running: brutal, ungrateful, but worth every step](https://www.youtube.com/watch?v=wMbhxTJNrmw)
 
@@ -23,13 +23,15 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [Shiny on Hugging Face](https://shiny.posit.co/blog/posts/shiny-on-hugging-face/)
 
-+ [Tune an xgboost model with early stopping and #TidyTuesday childcare costs](https://juliasilge.com/blog/childcare-costs/)
-
-+ [Deploy a model on AWS SageMaker with vetiver](https://juliasilge.com/blog/vetiver-sagemaker/)
+![Shiny Plus Hugging Face](https://raw.githubusercontent.com/rweekly/image/master/2023/W19/shiny-on-hf-thumb_600.jpg)
 
 + [Why you should consider working on a dockerized development environment](https://www.brodrigues.co/blog/2023-05-08-dock_dev_env/)
 
+![Shipping a Computer with Fedex](https://raw.githubusercontent.com/rweekly/image/master/2023/W19/ship_pc_600.jpg)
+
 + [Introducing {ggflowchart}](https://nrennie.rbind.io/blog/introducing-ggflowchart/)
+
+![Flowchart that was inspiration for {ggflowchart}](https://raw.githubusercontent.com/rweekly/image/master/2023/W19/bears_600.png)
 
 + [Pledging My Time VI: scraping and analysis of race results in R](https://quantixed.org/2023/05/08/pledging-my-time-vi-scraping-and-analysis-of-race-results-in-r/)
 
@@ -37,13 +39,15 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [Bootstrap Intervals: Understanding the Gender-based Over-qualified Rates](https://datageeek.com/2023/05/09/understanding-the-over-qualified-rates-in-the-eu-using-bootstrap-intervals/)
 
-+ [Creating a cracked egg plot using {ggplot2} in R](https://nrennie.rbind.io/blog/cracked-egg-plot-ggplot2/)
-
 + [Model Misspecification and Linear Sandwiches](https://vgherard.github.io/posts/2023-05-14-model-misspecification-and-linear-sandwiches/)
+
++ [Big changes to making summary rows in {gt} 0.9.0](https://posit.co/blog/big-changes-to-making-summary-rows-in-gt-0-9-0/)
 
 ### R in the Real World
 
 + [Diffify - the anniversary update!](https://www.jumpingrivers.com/blog/diffify-anniversary-update-r-python/)
+
+![Diffify Birthday Cake](https://raw.githubusercontent.com/rweekly/image/master/2023/W19/birthday_cake_600.png)
 
 + [{riskassessment} app from the R Validation Hub voted best Shiny app at shinyConf 2023! 🎉](https://www.r-consortium.org/blog/2023/05/11/riskassessment-app-from-the-r-validation-hub-voted-best-shiny-app-at-shinyconf-2023)
 
@@ -170,7 +174,11 @@ Co-Expression
 
 * [Making POST requests with R](https://www.etiennebacher.com/posts/2023-05-09-making-post-requests-with-r)
 
-+ [Big changes to making summary rows in {gt} 0.9.0](https://posit.co/blog/big-changes-to-making-summary-rows-in-gt-0-9-0/)
++ [Creating a cracked egg plot using {ggplot2} in R](https://nrennie.rbind.io/blog/cracked-egg-plot-ggplot2/)
+
++ [Tune an xgboost model with early stopping and #TidyTuesday childcare costs](https://juliasilge.com/blog/childcare-costs/)
+
++ [Deploy a model on AWS SageMaker with vetiver](https://juliasilge.com/blog/vetiver-sagemaker/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -194,7 +202,7 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-+[Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
++ [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 + [The 15th Annual R/Finance Conference 2023](https://www.r-consortium.org/blog/2023/05/12/the-15th-annual-r-finance-conference-2023)
 
