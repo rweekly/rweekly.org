@@ -13,7 +13,11 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 ###  Highlight
 
++ [Introducing {ggflowchart}](https://nrennie.rbind.io/blog/introducing-ggflowchart/)
 
++ [Introducing {ggflowchart}](https://nrennie.rbind.io/blog/introducing-ggflowchart/)
+
++ [Colin Fay, Keynote: Production is like ultra running: brutal, ungrateful, but worth every step](https://www.youtube.com/watch?v=wMbhxTJNrmw)
 
 ### Insights
 
