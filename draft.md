@@ -30,7 +30,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
+* [Correcting selection effects of noisy polygenic scores: an idiot’s guide](https://hughjonesd.github.io/fertility-sumstats/estimating-selection-effects-idiots-guide.html)
 
 ###  Resources
 
