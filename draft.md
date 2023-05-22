@@ -51,6 +51,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{PEtests} 0.1.0](https://cran.r-project.org/package=PEtests): Power-Enhanced (PE) Tests for High-Dimensional Data
 + [{intradayModel} 0.0.1](https://cran.r-project.org/package=intradayModel): Modeling and Forecasting Financial Intraday Signals
 + [{ggblend} 0.1.0](https://cran.r-project.org/package=ggblend): Blending and Compositing Algebra for 'ggplot2'
+
+<img width="980" alt="Screenshot 2023-05-22 at 18 46 50" src="https://github.com/rweekly/rweekly.org/assets/53487593/cfdcacf8-6134-4260-b0f2-903129899118">
+
 + [{tidysynth} 0.2.0](https://cran.r-project.org/package=tidysynth): A Tidy Implementation of the Synthetic Control Method
 + [{kidsides} 0.5.0](https://cran.r-project.org/package=kidsides): Download, Cache, and Connect to KidSIDES
 + [{ISS} 0.1.3](https://cran.r-project.org/package=ISS): Isotonic Subgroup Selection
@@ -426,3 +429,5 @@ Events in 3 Months:
 
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No matter how long I’ve been doing data science, I still get smacked in the face every once in a while. <br><br>True story. 🧵 <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/AVy6mgUwxf">pic.twitter.com/AVy6mgUwxf</a></p>&mdash; Matt Dancho (Business Science) (@mdancho84) <a href="https://twitter.com/mdancho84/status/1660305453367152640?ref_src=twsrc%5Etfw">May 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
