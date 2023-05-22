@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
+- [Demystifying Item Response Theory (1/4)](https://yongfu.name/2023/02/25/irt1/)
 
 
 ###  New Packages
