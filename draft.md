@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+- [Building the Crappyverse #1: ccat()](https://chainsawriot.com/postmannheim/2023/05/19/crap1.html)
 
 ###  R in Organizations
 
@@ -30,10 +30,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
+
 * [Correcting selection effects of noisy polygenic scores: an idiot’s guide](https://hughjonesd.github.io/fertility-sumstats/estimating-selection-effects-idiots-guide.html)
+
+- [A guide to Bayesian proportion tests with R and {brms}](https://www.andrewheiss.com/blog/2023/05/15/fancy-bayes-diffs-props/): Use R, Stan, and {brms} to calculate differences between categorical proportions in a principled Bayesian way
+
 
 ###  Resources
 
+- [Demystifying Item Response Theory (1/4)](https://yongfu.name/2023/02/25/irt1/)
 
 
 ###  New Packages
@@ -56,6 +61,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{mirai} 0.8.7](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R
 
 ###  Videos and Podcasts
 
