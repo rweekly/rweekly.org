@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+- [Building the Crappyverse #1: ccat()](https://chainsawriot.com/postmannheim/2023/05/19/crap1.html)
 
 ###  R in Organizations
 
