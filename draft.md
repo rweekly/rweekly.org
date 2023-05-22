@@ -30,7 +30,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
+
+* [Correcting selection effects of noisy polygenic scores: an idiot’s guide](https://hughjonesd.github.io/fertility-sumstats/estimating-selection-effects-idiots-guide.html)
+
 - [A guide to Bayesian proportion tests with R and {brms}](https://www.andrewheiss.com/blog/2023/05/15/fancy-bayes-diffs-props/): Use R, Stan, and {brms} to calculate differences between categorical proportions in a principled Bayesian way
+
 
 ###  Resources
 
