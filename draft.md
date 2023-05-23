@@ -8,8 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
+This week’s release was curated by [Batool Almarzouq](https://github.com/BatoolMM), with help from the R Weekly team members and contributors.
 
 
 ###  Highlight
@@ -300,9 +299,6 @@ Events in 3 Months:
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
-###  rtistry
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The goal was to learn about applying splines to a circle for the polygon chapter but splines are too hard for my brain right now, so this resulted instead. Forever searching for less computationally heavy ways to make space 🌃 <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> w/ geom_polygon() &amp; geom_point() <a href="https://t.co/kE9qzswMQl">pic.twitter.com/kE9qzswMQl</a></p>&mdash; Meghan Harris (@meghansharris) <a href="https://twitter.com/meghansharris/status/1660850886686523392?ref_src=twsrc%5Etfw">May 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###  Quotes of the Week
 
