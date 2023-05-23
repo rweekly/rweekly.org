@@ -248,7 +248,7 @@ Protein-Protein Interaction Networks - [diffify](https://diffify.com/R/crosstalk
 
 ### Shiny Apps
 
-
+- [Calculating the CoDE-ACS score with the online app](https://decision-support.shinyapps.io/code-acs/)
 
 ###  Tutorials
 
@@ -261,7 +261,6 @@ Protein-Protein Interaction Networks - [diffify](https://diffify.com/R/crosstalk
 + [Predict the magnitude of #TidyTuesday tornadoes with effect encoding and xgboost](https://juliasilge.com/blog/tornadoes/)
 
 + [Scheduling Mastodon Posts in R with rtoot and GitHub Actions](https://ropensci.org/blog/2023/05/17/scheduling-mastodon/)
-
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -283,18 +282,13 @@ Events in 3 Months:
 + [The 15th Annual R/Finance Conference 2023](https://www.r-consortium.org/blog/2023/05/12/the-15th-annual-r-finance-conference-2023)
 
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ###  rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The goal was to learn about applying splines to a circle for the polygon chapter but splines are too hard for my brain right now, so this resulted instead. Forever searching for less computationally heavy ways to make space 🌃 <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> w/ geom_polygon() &amp; geom_point() <a href="https://t.co/kE9qzswMQl">pic.twitter.com/kE9qzswMQl</a></p>&mdash; Meghan Harris (@meghansharris) <a href="https://twitter.com/meghansharris/status/1660850886686523392?ref_src=twsrc%5Etfw">May 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###  Quotes of the Week
 
