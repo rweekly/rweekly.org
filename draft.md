@@ -112,6 +112,9 @@ Predictions
 
 + [{Morphoscape} 1.0.2](https://cran.r-project.org/package=Morphoscape): Computation and Visualization of Adaptive Landscapes
 
+<img width="698" alt="Screenshot 2023-05-23 at 18 18 23" src="https://github.com/rweekly/rweekly.org/assets/53487593/6290caf5-e7a5-4017-b068-ed4b05a9b13d">
+
+
 + [{Certara.NLME8} 1.2.3](https://cran.r-project.org/package=Certara.NLME8): Utilities for Certara's Nonlinear Mixed-Effects Modeling Engine
 
 + [{BIDistances} 0.0.2](https://cran.r-project.org/package=BIDistances): Bioinformatic Distances
@@ -191,6 +194,8 @@ Chemometrics
 + [{modelsummary} 1.4.1](https://cran.r-project.org/package=modelsummary): Summary Tables and Plots for Statistical Models and Data:
 Beautiful, Customizable, and Publication-Ready - [diffify](https://diffify.com/R/modelsummary)
 
+<img width="404" alt="Screenshot 2023-05-23 at 18 19 03" src="https://github.com/rweekly/rweekly.org/assets/53487593/99ad056d-29c5-4b71-a8dc-62a226205db5">
+
 + [{PlaneGeometry} 1.4.0](https://cran.r-project.org/package=PlaneGeometry): Plane Geometry - [diffify](https://diffify.com/R/PlaneGeometry)
 
 + [{BFS} 0.4.7](https://cran.r-project.org/package=BFS): Get Data from the Swiss Statistical Office - [diffify](https://diffify.com/R/BFS)
@@ -204,6 +209,9 @@ Beautiful, Customizable, and Publication-Ready - [diffify](https://diffify.com/R
 + [{redland} 1.0.17-16.1](https://cran.r-project.org/package=redland): RDF Library Bindings in R - [diffify](https://diffify.com/R/redland)
 
 + [{materialmodifier} 1.2.0](https://cran.r-project.org/package=materialmodifier): Apply Photo Editing Effects - [diffify](https://diffify.com/R/materialmodifier)
+
+<img width="845" alt="Screenshot 2023-05-23 at 18 20 11" src="https://github.com/rweekly/rweekly.org/assets/53487593/ab872235-d1d5-4e12-8509-7cf32a5ddfcf">
+
 
 + [{shiny.exe} 0.2.0](https://cran.r-project.org/package=shiny.exe): Launch a Shiny Application without Opening R or RStudio - [diffify](https://diffify.com/R/shiny.exe)
 
@@ -247,9 +255,9 @@ Protein-Protein Interaction Networks - [diffify](https://diffify.com/R/crosstalk
 
 * [Paweł Rucki, Dony Unardi: Introduction to {teal}](https://www.youtube.com/watch?v=fF17XouIL-c)
 
-* [Quarto for Academics | Mine Çetinkaya-Rundel](https://www.youtube.com/watch?v=EbAAmrB0luA)
+* [Quarto for Academics, Mine Çetinkaya-Rundel](https://www.youtube.com/watch?v=EbAAmrB0luA)
 
-* [Posit Connect | Provide Authenticated Access to Your Data Products](https://www.youtube.com/watch?v=72t0KqTS4OQ)
+* [Posit Connect, Provide Authenticated Access to Your Data Products](https://www.youtube.com/watch?v=72t0KqTS4OQ)
 
 
 ### Shiny Apps
