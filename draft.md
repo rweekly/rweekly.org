@@ -145,13 +145,6 @@ Event Data
 + [{rchemo} 0.1-1](https://cran.r-project.org/package=rchemo): Dimension Reduction, Regression and Discrimination for
 Chemometrics
 
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
 
 ### Updated Packages
 
@@ -242,16 +235,18 @@ Protein-Protein Interaction Networks - [diffify](https://diffify.com/R/crosstalk
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
+* [Yuri Pribish: New approach of visualisation with set of query in human readable way](https://www.youtube.com/watch?v=tov592-dvOU)
 
-### Gist & Cookbook
+* [Carson Sievert: Towards the next generation of Shiny UI](https://www.youtube.com/watch?v=avZ7TDTRnVo)
 
+* [Paweł Rucki, Dony Unardi: Introduction to {teal}](https://www.youtube.com/watch?v=fF17XouIL-c)
+
+* [Quarto for Academics | Mine Çetinkaya-Rundel](https://www.youtube.com/watch?v=EbAAmrB0luA)
+
+* [Posit Connect | Provide Authenticated Access to Your Data Products](https://www.youtube.com/watch?v=72t0KqTS4OQ)
 
 
 ### Shiny Apps
-
-
-
-### R Internationally
 
 
 
