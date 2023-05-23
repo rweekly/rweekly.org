@@ -48,82 +48,71 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [{PEtests} 0.1.0](https://cran.r-project.org/package=PEtests): Power-Enhanced (PE) Tests for High-Dimensional Data
-+ [{intradayModel} 0.0.1](https://cran.r-project.org/package=intradayModel): Modeling and Forecasting Financial Intraday Signals
 + [{ggblend} 0.1.0](https://cran.r-project.org/package=ggblend): Blending and Compositing Algebra for 'ggplot2'
 
 <img width="980" alt="Screenshot 2023-05-22 at 18 46 50" src="https://github.com/rweekly/rweekly.org/assets/53487593/cfdcacf8-6134-4260-b0f2-903129899118">
 
 + [{tidysynth} 0.2.0](https://cran.r-project.org/package=tidysynth): A Tidy Implementation of the Synthetic Control Method
-+ [{kidsides} 0.5.0](https://cran.r-project.org/package=kidsides): Download, Cache, and Connect to KidSIDES
-+ [{ISS} 0.1.3](https://cran.r-project.org/package=ISS): Isotonic Subgroup Selection
+
 + [{emBayes} 0.1.0](https://cran.r-project.org/package=emBayes): Robust Bayesian Variable Selection via Expectation-Maximization
-+ [{ConfZIC} 1.0.0](https://cran.r-project.org/package=ConfZIC): Confidence Envelopes for Model Selection Criteria Based on
-Minimum ZIC
+
 + [{rDEA} 1.2-7](https://cran.r-project.org/package=rDEA): Robust Data Envelopment Analysis (DEA) for R
+
 + [{randnet} 0.7](https://cran.r-project.org/package=randnet): Random Network Model Estimation, Selection and Parameter Tuning
+
 + [{modelfree} 1.2](https://cran.r-project.org/package=modelfree): Model-Free Estimation of a Psychometric Function
-+ [{washi} 0.1.0](https://cran.r-project.org/package=washi): Washington Soil Health Initiative Branding
++ 
 + [{snvecR} 3.7.5](https://cran.r-project.org/package=snvecR): Calculate Earth’s Obliquity and Precession in the Past
-+ [{sgs} 0.1.0](https://cran.r-project.org/package=sgs): Sparse-Group SLOPE: Adaptive Bi-Level Selection with FDR Control
-+ [{resde} 1.1](https://cran.r-project.org/package=resde): Estimation in Reducible Stochastic Differential Equations
+
 + [{nonLinearDotPlot} 0.5.0](https://cran.r-project.org/package=nonLinearDotPlot): Non Linear Dot Plots
-+ [{rcaiman} 1.1.2](https://cran.r-project.org/package=rcaiman): CAnopy IMage ANalysis
+
 + [{bcv} 1.0.2](https://cran.r-project.org/package=bcv): Cross-Validation for the SVD (Bi-Cross-Validation)
+
 + [{vol2birdR} 1.0.1](https://cran.r-project.org/package=vol2birdR): Vertical Profiles of Biological Signals in Weather Radar Data
+
 + [{CSIndicators} 1.0.1](https://cran.r-project.org/package=CSIndicators): Climate Services' Indicators Based on Sub-Seasonal to Decadal
 Predictions
-+ [{idmact} 1.0.1](https://cran.r-project.org/package=idmact): Interpreting Differences Between Mean ACT Scores
-+ [{woylier} 0.0.5](https://cran.r-project.org/package=woylier): Alternative Tour Frame Interpolation Method
+
 + [{Bernadette} 1.1.1](https://cran.r-project.org/package=Bernadette): Bayesian Inference and Model Selection for Stochastic Epidemics
-+ [{GaSP} 1.0.4](https://cran.r-project.org/package=GaSP): Train and Apply a Gaussian Stochastic Process Model
+
 + [{Morphoscape} 1.0.2](https://cran.r-project.org/package=Morphoscape): Computation and Visualization of Adaptive Landscapes
-+ [{iterors} 1.0](https://cran.r-project.org/package=iterors): Fast, Compact Iterators and Tools
+
 + [{Certara.NLME8} 1.2.3](https://cran.r-project.org/package=Certara.NLME8): Utilities for Certara's Nonlinear Mixed-Effects Modeling Engine
-+ [{cases} 0.1.1](https://cran.r-project.org/package=cases): Stratified Evaluation of Subgroup Classification Accuracy
+
 + [{BIDistances} 0.0.2](https://cran.r-project.org/package=BIDistances): Bioinformatic Distances
+
 + [{cascadeSelect} 1.0.0](https://cran.r-project.org/package=cascadeSelect): A Cascade Select Input for 'Shiny'
-+ [{chemdeg} 0.1.2](https://cran.r-project.org/package=chemdeg): Analysis of Chemical Degradation Kinetic Data
+
 + [{volcano3D} 2.0.9](https://cran.r-project.org/package=volcano3D): 3D Volcano Plots and Polar Plots for Three-Class Data
-+ [{stabiliser} 1.0.6](https://cran.r-project.org/package=stabiliser): Stabilising Variable Selection
-+ [{rotatogram} 0.1.3](https://cran.r-project.org/package=rotatogram): A Non-Axis-Dominant Association Plotting Tool
-+ [{pheble} 0.1.0](https://cran.r-project.org/package=pheble): Classifying High-Dimensional Phenotypes with Ensemble Learning
-+ [{mdir} 0.9.0](https://cran.r-project.org/package=mdir): Bayesian Model-Based Clustering of Multi-Modal Data
-+ [{ETASbootstrap} 0.1.0](https://cran.r-project.org/package=ETASbootstrap): Bootstrap Confidence Interval Estimation for 'ETAS' Model
-Parameters
+
 + [{agena.ai} 1.0.0](https://cran.r-project.org/package=agena.ai): R Wrapper for 'agena.ai' API
+
 + [{navigation} 0.0.1](https://cran.r-project.org/package=navigation): Analyze the Impact of Sensor Error Modelling on Navigation
 Performance
+
 + [{compindPCA} 0.1.0](https://cran.r-project.org/package=compindPCA): Computation of Relative Weights of Variables and Composite Index
 Values Based on PCA
+
 + [{OpenRepGrid} 0.1.14](https://cran.r-project.org/package=OpenRepGrid): Tools to Analyze Repertory Grid Data
+
 + [{wcox} 1.0](https://cran.r-project.org/package=wcox): Weights to Correct for Outcome Dependent Sampling in Time to
 Event Data
 + [{validateIt} 1.2.1](https://cran.r-project.org/package=validateIt): Validating Topic Coherence and Topic Labels
+
 + [{isopleuros} 1.0.0](https://cran.r-project.org/package=isopleuros): Ternary Plots
-+ [{drcSeedGerm} 1.0.1](https://cran.r-project.org/package=drcSeedGerm): Utilities for Data Analyses in Seed Germination/Emergence Assays
+
 + [{baldur} 0.0.1](https://cran.r-project.org/package=baldur): Bayesian Hierarchical Modeling for Label-Free Proteomics
-+ [{StepGWR} 0.1.0](https://cran.r-project.org/package=StepGWR): A Hybrid Spatial Model for Prediction and Capturing Spatial
-Variation in the Data
-+ [{ssMRCD} 0.1.0](https://cran.r-project.org/package=ssMRCD): Spatially Smoothed MRCD Estimator
-+ [{samadb} 0.2.6](https://cran.r-project.org/package=samadb): South Africa Macroeconomic Database API
-+ [{brsim} 0.1](https://cran.r-project.org/package=brsim): Brainerd-Robinson Similarity Coefficient Matrix
-+ [{ActuarialM} 0.1.0](https://cran.r-project.org/package=ActuarialM): Computation of Actuarial Measures Using Bell G Family
-+ [{pycno} 1.3](https://cran.r-project.org/package=pycno): Pycnophylactic Interpolation
+
 + [{boostingDEA} 0.1.0](https://cran.r-project.org/package=boostingDEA): A Boosting Approach to Data Envelopment Analysis
++ 
 + [{weatherindices} 0.1.0](https://cran.r-project.org/package=weatherindices): Calculate Weather Indices
-+ [{nestedLogit} 0.2.1](https://cran.r-project.org/package=nestedLogit): Nested Dichotomy Logistic Regression Models
-+ [{intrinsicFRP} 0.1.0](https://cran.r-project.org/package=intrinsicFRP): Adaptive Estimation of Intrinsic Factor Risk Premia
+
 + [{denguedatahub} 1.0.4](https://cran.r-project.org/package=denguedatahub): A Tidy Format Datasets of Dengue by Country
-+ [{ddsPLS} 1.2.0](https://cran.r-project.org/package=ddsPLS): Data-Driven Sparse Partial Least Squares
-+ [{bigstep} 1.1.1](https://cran.r-project.org/package=bigstep): Stepwise Selection for Large Data Sets
-+ [{traitstrap} 0.1.0](https://cran.r-project.org/package=traitstrap): Bootstrap Trait Values to Calculate Moments
+
 + [{Tex4exams} 0.1.2](https://cran.r-project.org/package=Tex4exams): Generating 'Sweave' Code for 'R/exams' Questions in Mathematics
-+ [{RTSA} 0.1.0](https://cran.r-project.org/package=RTSA): 'Trial Sequential Analysis' for Error Control and Inference in
-Sequential Meta-Analyses
-+ [{mnmer} 0.99.1](https://cran.r-project.org/package=mnmer): '(m,n)-mer' - A Simple Statistical Feature for Sequence
-Classification
+
 + [{jewel} 2.0.0](https://cran.r-project.org/package=jewel): Graphical Models Estimation from Multiple Sources
+
 + [{rchemo} 0.1-1](https://cran.r-project.org/package=rchemo): Dimension Reduction, Regression and Discrimination for
 Chemometrics
 
