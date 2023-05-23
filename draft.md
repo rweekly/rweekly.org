@@ -27,11 +27,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [The Status of the DT Package](https://yihui.org/en/2023/05/dt-status/)
 
+<img width="379" alt="Screenshot 2023-05-23 at 18 12 24" src="https://github.com/rweekly/rweekly.org/assets/53487593/4f3f5241-abd5-4d04-84a8-eead3ac994a5">
+
 + [Better Understanding Your Tools Choices with Online Book HTTP Testing in R](https://www.r-consortium.org/blog/2023/05/15/better-understanding-your-tools-choices-online-book-http-testing-r)
 
 + [RcppSimdJson 0.1.10 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2023/05/14#rcppsimdjson_0.1.10)
 
 + [desirability2](https://www.tidyverse.org/blog/2023/05/desirability2/)
+
 
 
 ### R in the Real World
@@ -58,6 +61,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 * [Correcting selection effects of noisy polygenic scores: an idiot’s guide](https://hughjonesd.github.io/fertility-sumstats/estimating-selection-effects-idiots-guide.html)
 
 - [A guide to Bayesian proportion tests with R and {brms}](https://www.andrewheiss.com/blog/2023/05/15/fancy-bayes-diffs-props/): Use R, Stan, and {brms} to calculate differences between categorical proportions in a principled Bayesian way
+
+<img width="691" alt="Screenshot 2023-05-23 at 18 14 23" src="https://github.com/rweekly/rweekly.org/assets/53487593/56eae68a-3fe9-4882-bed1-4d79e5ead073">
+
 
 + [Model Misspecification and Linear Sandwiches](https://vgherard.github.io/posts/2023-05-14-model-misspecification-and-linear-sandwiches)
 
