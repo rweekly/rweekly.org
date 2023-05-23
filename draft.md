@@ -13,7 +13,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ###  Highlight
+- [Better Understanding Your Tools Choices with Online Book HTTP Testing in R](https://www.r-consortium.org/blog/2023/05/15/better-understanding-your-tools-choices-online-book-http-testing-r)
 
+- [ggblend: Blending and compositing algebra for ggplot2](https://github.com/mjskay/ggblend/)
+
+- [Why should I use R: Handling Dates in R and Excel: Part 3](https://www.jumpingrivers.com/blog/date-r-excel-datetimes-transition/)
 
 
 ### Insights
