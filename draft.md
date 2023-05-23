@@ -23,13 +23,33 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 
++ [Achieve your target](https://johnmackintosh.net/blog/2023-05-21-simple-targets/)
+
++ [The Status of the DT Package](https://yihui.org/en/2023/05/dt-status/)
+
++ [Better Understanding Your Tools Choices with Online Book HTTP Testing in R](https://www.r-consortium.org/blog/2023/05/15/better-understanding-your-tools-choices-online-book-http-testing-r)
+
++ [RcppSimdJson 0.1.10 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2023/05/14#rcppsimdjson_0.1.10)
+
++ [desirability2](https://www.tidyverse.org/blog/2023/05/desirability2/)
+
 
 ### R in the Real World
 
 - [Building the Crappyverse #1: ccat()](https://chainsawriot.com/postmannheim/2023/05/19/crap1.html)
 
++ [“Climate spiral” – Plotting GISS Surface Temperature](https://tomaztsql.wordpress.com/2023/05/16/climate-spiral-plotting-giss-surface-temperature/)
+
+
 ###  R in Organizations
 
++ [rOpenSci News Digest, May 2023](https://ropensci.org/blog/2023/05/19/ropensci-news-digest-may-2023/)
+
++ [rOpenSci Champions Program Teams: Meet César and Marc](https://ropensci.org/blog/2023/05/18/ropensci-champions-program-teams-meet-c%C3%A9sar-and-marc/)
+
++ [Welcome to our newest member Parexel!](https://www.r-consortium.org/blog/2023/05/22/welcome-to-our-newest-member-parexel)
+
++ [CRediTas is Now Part of rOpenSci](https://ropensci.org/blog/2023/05/16/creditas-is-now-part/)
 
 
 ###  R in Academia
@@ -39,11 +59,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [A guide to Bayesian proportion tests with R and {brms}](https://www.andrewheiss.com/blog/2023/05/15/fancy-bayes-diffs-props/): Use R, Stan, and {brms} to calculate differences between categorical proportions in a principled Bayesian way
 
++ [Model Misspecification and Linear Sandwiches](https://vgherard.github.io/posts/2023-05-14-model-misspecification-and-linear-sandwiches)
+
 
 ###  Resources
 
 - [Demystifying Item Response Theory (1/4)](https://yongfu.name/2023/02/25/irt1/)
 
++ [Yihui's Webinar on R Markdown v1 at the ASA Philadelphia Chapter](https://yihui.org/en/2023/05/philly-markdown/)
+
++ [R Workflow for Reproducible Data Analysis and Reporting Course](https://fharrell.com/course/prerms/index.html)
 
 ###  New Packages
 
@@ -232,6 +257,15 @@ Protein-Protein Interaction Networks - [diffify](https://diffify.com/R/crosstalk
 
 ###  Tutorials
 
++ [Mastering SST & SSE in R: A Complete Guide for Analysts](https://www.marsja.se/sst-ssr-sse-in-r-a-complete-guide/)
+
++ [Why should I use R: Handling Dates in R and Excel: Part 3](https://www.jumpingrivers.com/blog/date-r-excel-datetimes-transition/)
+
++ [sp evolution status: examples of migration from retiring packages](https://www.r-spatial.org//r/2023/05/15/evolution4.html)
+
++ [Predict the magnitude of #TidyTuesday tornadoes with effect encoding and xgboost](https://juliasilge.com/blog/tornadoes/)
+
++ [Scheduling Mastodon Posts in R with rtoot and GitHub Actions](https://ropensci.org/blog/2023/05/17/scheduling-mastodon/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -245,12 +279,14 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-+[Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
++ [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+
++ [The 15th Annual R/Finance Conference 2023](https://www.r-consortium.org/blog/2023/05/12/the-15th-annual-r-finance-conference-2023)
+
 
 ### Grants & Funding
 
