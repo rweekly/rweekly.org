@@ -30,7 +30,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Academia
 
-
+[David Kane's](https://davidkane.info/) **free** 6 week [data science bootcamp](https://bootcamp.davidkane.info/) starts on June 5th. The course has been offered four times before. All students create a [final project](https://bootcamp.davidkane.info/projects.html), the first entry in their professional portfolios. Although the target audience is high school students, all ages are welcome.
 
 ###  Resources
 
