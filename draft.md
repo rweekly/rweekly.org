@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [Demystifying Item Response Theory (2/4): IRT as Generalized Linear Models](https://yongfu.name/2023/03/06/irt2/)
 
 
 ###  New Packages
