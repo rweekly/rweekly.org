@@ -41,6 +41,8 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 ###  R in Academia
 
++ [David Kane's free 6 week data science bootcamp (Target audience is high school students, but all ages are welcome.)](https://davidkane.info/)
+
 + [Using ChatGPT for Creating Multiple- and Single-Choice R/exams Questions](https://www.r-exams.org/tutorials/chatgpt/)
 
 ###  Resources
