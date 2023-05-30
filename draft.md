@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [posit::glimpse newsletter](https://posit.co/blog/posit-glimpse-newsletter-06/)
 
 ###  New Packages
 
