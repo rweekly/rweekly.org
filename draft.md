@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [xlcutter 0.1.0](https://hugogruson.fr/posts/xlcutter-0-1-0/)
 
 ### R in the Real World
 
