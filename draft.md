@@ -84,6 +84,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+R Contributor Office Hours, Thursday June 8: [Europe/Middle East/Asia-Pacific Hour](https://www.meetup.com/r-contributors/events/cjsfftyfcjblb/) or [Americas Hour](https://www.meetup.com/r-contributors/events/sjsfftyfcjblb/)
+
+Join an online Office Hour at the time that suits you to:
+ - discuss how to get started contributing to R
+ - get help/feedback on contributions you are working on
+ - look at open bugs/work on translations together
 
 ###  Upcoming Events in 3 Months
 
