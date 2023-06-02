@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
+- [On updating a chat assistant app for the RStudio IDE](https://samuelenrique.com/posts/2023-06-02-updating-gptstudio/)
 
 ###  New Packages
 
