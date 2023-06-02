@@ -43,7 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{mirai.promises} 0.1.0](https://cran.r-project.org/package=mirai.promises): use 'mirai' as 'promises' for easy integration in 'plumber' or 'shiny' pipelines.
 
 **Bioconductor**
 
@@ -56,6 +56,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{nanonext} 0.9.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen) Lightweight Messaging Library
 
 ###  Videos and Podcasts
 
