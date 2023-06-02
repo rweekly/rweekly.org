@@ -76,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
+- [How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/): Use R to get geocoded location and routing data from OpenStreetMap and explore a 5,000 mile road trip around the USA
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
