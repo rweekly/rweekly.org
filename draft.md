@@ -17,7 +17,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Insights
-
++ [Using R + VSCode](https://rolkra.github.io/R-VSCode/)
 
 
 ### R in the Real World
