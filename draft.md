@@ -25,7 +25,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [How to assign Session ID's to group event data](https://lukas-r.blog/posts/2023-06-03-searching-for-user-sessions/)
 
 ###  R in Organizations
 
