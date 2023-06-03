@@ -17,7 +17,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Insights
+
 + [Using R + VSCode](https://rolkra.github.io/R-VSCode/)
+
++ [xlcutter 0.1.0](https://hugogruson.fr/posts/xlcutter-0-1-0/) - Parse Batches of 'xlsx' Files Based on a Template
 
 
 ### R in the Real World
@@ -34,7 +37,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
-
++ [posit::glimpse newsletter](https://posit.co/blog/posit-glimpse-newsletter-06/)
 
 ###  New Packages
 
@@ -76,6 +79,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/): Use R to get geocoded location and routing data from OpenStreetMap and explore a 5,000 mile road trip around the USA
+
++ [New in {gt} 0.9.0: Interactive tables](https://posit.co/blog/new-in-gt-0-9-0-interactive-tables/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -84,6 +90,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+R Contributor Office Hours, Thursday June 8: [Europe/Middle East/Asia-Pacific Hour](https://www.meetup.com/r-contributors/events/cjsfftyfcjblb/) or [Americas Hour](https://www.meetup.com/r-contributors/events/sjsfftyfcjblb/)
+
+Join an online Office Hour at the time that suits you to:
+ - discuss how to get started contributing to R
+ - get help/feedback on contributions you are working on
+ - look at open bugs/work on translations together
 
 ###  Upcoming Events in 3 Months
 
