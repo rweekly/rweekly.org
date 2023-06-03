@@ -23,6 +23,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ### R in the Real World
 
++ [How to assign Session ID's to group event data](https://lukas-r.blog/posts/2023-06-03-searching-for-user-sessions/)
+
 + [Alone Australia is now included in {alone}](http://gradientdescending.com/alone-australia-is-now-included-in-alone/)
 
 ###  R in Organizations
