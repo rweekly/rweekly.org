@@ -45,6 +45,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [Data Visualization with R](https://datavizs23.classes.andrewheiss.com/): Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data
 
++ [Making a Simple Package in R using Modern Tools](https://wazrak.com/making-a-simple-package-in-r-using-modern-tools/): a quick guide on how to build a package very quickly (with dependencies) using devtools, usethis, and roxygen2.
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
