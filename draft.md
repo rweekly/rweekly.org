@@ -11,7 +11,9 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ###  Highlight
 
++ [On updating a chat assistant app for the RStudio IDE](https://samuelenrique.com/posts/2023-06-02-updating-gptstudio/)
 
++ [Static and Dynamic Web Scraping with R](https://tim-tiefenbach.de/post/2023-web-scraping/)
 
 ### Insights
 
@@ -21,6 +23,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [Dependency Management](https://www.matthewrkaye.com/posts/series/doing-data-science/2023-05-27-renv-dependency-management/renv-dependency-management.html)
 
++ [Sharing the (unsuccessful) Big Book of R upgrade proposal](https://oscarbaruffa.com/proposal/)
+
 ### R in the Real World
 
 + [How to assign Session ID's to group event data](https://lukas-r.blog/posts/2023-06-03-searching-for-user-sessions/)
@@ -29,7 +33,7 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ###  R in Organizations
 
-
++ [posit::glimpse newsletter](https://posit.co/blog/posit-glimpse-newsletter-06/)
 
 ###  R in Academia
 
@@ -37,20 +41,17 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 ###  Resources
 
-+ [On updating a chat assistant app for the RStudio IDE](https://samuelenrique.com/posts/2023-06-02-updating-gptstudio/)
-
-+ [posit::glimpse newsletter](https://posit.co/blog/posit-glimpse-newsletter-06/)
-
-+ [What’s new in the tidyverse in 2023?](https://mine.quarto.pub/tidyverse-2023/)
-
 + [Data Visualization with R](https://datavizs23.classes.andrewheiss.com/): Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data
 
-+ [Making a Simple Package in R using Modern Tools](https://wazrak.com/making-a-simple-package-in-r-using-modern-tools/): a quick guide on how to build a package very quickly (with dependencies) using devtools, usethis, and roxygen2.
+![Data Visualization with R](https://raw.githubusercontent.com/rweekly/image/master/2023/W23/ggridges-gradient-temp-high-low.png)
+
++ [On updating a chat assistant app for the RStudio IDE](https://samuelenrique.com/posts/2023-06-02-updating-gptstudio/)
+
++ [What’s new in the tidyverse in 2023?](https://mine.quarto.pub/tidyverse-2023/)
 
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
 
 **CRAN**
 
@@ -58,15 +59,9 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [xlcutter 0.1.0](https://hugogruson.fr/posts/xlcutter-0-1-0/): Parse Batches of 'xlsx' Files Based on a Template
 
+![Screenshot of a template defined to parse the non-rectangular excel files with xlcutter](https://raw.githubusercontent.com/rweekly/image/master/2023/W23/xlcutter_template.png)
+
 + [{glossary 1.0.0}](https://debruine.github.io/glossary/): Add glossaries to markdown and quarto documents by tagging individual words. Definitions can be provided inline or in a separate file
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
 
 ### Updated Packages
 
@@ -84,30 +79,33 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
++ [Shiny Markdown Report - TidyX Episode 147](https://www.youtube.com/watch?v=x8eMfxnYGnc)
 
 ### R Internationally
 
-
++ [Bruno Rodrigues défend une approche basée sur la reproductibilité de la data science au Luxembourg](https://data.public.lu/fr/posts/bruno-rodrigues-defend-une-approche-basee-sur-la-reproductibilite-de-la-data-science-au-luxembourg/)
 
 ###  Tutorials
 
 + [How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/): Use R to get geocoded location and routing data from OpenStreetMap and explore a 5,000 mile road trip around the USA
 
-+ [New in {gt} 0.9.0: Interactive tables](https://posit.co/blog/new-in-gt-0-9-0-interactive-tables/)
+![How to make fancy road trip maps with R and OpenStreetMap](https://raw.githubusercontent.com/rweekly/image/master/2023/W23/road_trip_maps.png)
+
++ [Making a Simple Package in R using Modern Tools](https://wazrak.com/making-a-simple-package-in-r-using-modern-tools/): a quick guide on how to build a package very quickly (with dependencies) using devtools, usethis, and roxygen2.
 
 + [Extract P-Values from lm() in R: Empower Your Data Analysis](https://www.marsja.se/extract-p-values-from-lm-in-r/)
 
 + [Checking normality in R](https://www.codingthepast.com/2023/06/01/Normal-Distribution.html)
 
 + [Static and Dynamic Web Scraping with R](https://tim-tiefenbach.de/post/2023-web-scraping/)
+
++ [Dumbbell Chart with a Gap Column](https://r-graph-gallery.com/web-dumbbell-chart-with-a-gap-column.html)
+
++ [Simulating confounders, colliders and mediators](http://freerangestats.info/blog/2023/06/04/causality-sims)
+
++ [New in {gt} 0.9.0: Interactive tables](https://posit.co/blog/new-in-gt-0-9-0-interactive-tables/)
+
+![New in {gt} 0.9.0: Interactive tables](https://raw.githubusercontent.com/rweekly/image/master/2023/W23/gt_interactive_tables.gif)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -140,12 +138,6 @@ Events in 3 Months:
 
 + [Building reproducible analytical pipelines in R workshop - June 29th, 18:00-20:00 CEST](https://r-posts.com/building-reproducible-analytical-pipelines-in-r-workshop/)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
@@ -159,3 +151,5 @@ Events in 3 Months:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> about the distribution of farm animals in France<a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> code: <a href="https://t.co/t8RszXllYU">https://t.co/t8RszXllYU</a> <a href="https://t.co/UFwujzbVB1">pic.twitter.com/UFwujzbVB1</a></p>&mdash; Benjamin Nowak (@BjnNowak) <a href="https://twitter.com/BjnNowak/status/1664640149106376705?ref_src=twsrc%5Etfw">June 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m building a <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/ShinyApp?src=hash&amp;ref_src=twsrc%5Etfw">#ShinyApp</a> to visualize the spatial distribution of sea otter foraging observations (black dots) and kelp canopy (heatmap) cover along the Monterey Peninsula. This <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> integrates published Landsat data with on-the-ground otter foraging observations. <a href="https://t.co/ZLgvFIvHf4">pic.twitter.com/ZLgvFIvHf4</a></p>&mdash; Joshua G. Smith (@Smith_JoshuaG) <a href="https://twitter.com/Smith_JoshuaG/status/1664742634332753920?ref_src=twsrc%5Etfw">June 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
