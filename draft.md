@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Troubleshooting Pandoc Problems as an R User](https://ropensci.org/blog/2023/06/01/troubleshooting-pandoc-problems-as-an-r-user/) (also in [French](https://ropensci.org/fr/blog/2023/06/01/troubleshooting-pandoc-problems-as-an-r-user/))
 
 ### R in the Real World
 
