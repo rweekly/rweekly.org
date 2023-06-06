@@ -76,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Three useful (to me) R patterns](https://masalmon.eu/2023/06/06/basic-patterns/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
