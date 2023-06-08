@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Troubleshooting Pandoc Problems as an R User](https://ropensci.org/blog/2023/06/01/troubleshooting-pandoc-problems-as-an-r-user/) (also in [French](https://ropensci.org/fr/blog/2023/06/01/troubleshooting-pandoc-problems-as-an-r-user/))
 
-
++ [Python, R and Reticulate: Fixing Unknown Crashes](https://wazrak.com/python-r-reticulate-and-fixing-unknown-crashes/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
