@@ -18,6 +18,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Developing and Debugging Code with browser()](https://mjfrigaard.github.io/posts/debugging/)
+
+
+
 ### R in the Real World
 
 
