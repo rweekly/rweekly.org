@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Quarto at Work: Streamline Reports and Share Insights](https://posit.co/blog/quarto-at-work/)
+
 ### R in the Real World
 
 
