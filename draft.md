@@ -18,8 +18,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
-
 ### R in the Real World
 
 
@@ -76,10 +74,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
++ [Troubleshooting Pandoc Problems as an R User](https://ropensci.org/blog/2023/06/01/troubleshooting-pandoc-problems-as-an-r-user/) (also in [French](https://ropensci.org/fr/blog/2023/06/01/troubleshooting-pandoc-problems-as-an-r-user/))
+
 + [Three useful (to me) R patterns](https://masalmon.eu/2023/06/06/basic-patterns/)
 
-
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
+
++ [Easily create sector (pie, donut) and series of circles  charts using Cartesian coordinates and ggplot2 with the new #RStats icon {ggtricks}](https://www.abdoulblog.com/posts/2023-05-31_ggtricks-intro/)
 
 ###  R Project Updates
 
