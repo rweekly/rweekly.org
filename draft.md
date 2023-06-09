@@ -59,6 +59,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [Deploy your models on Amazon SageMaker with vetiver](https://posit.co/blog/vetiver-sagemaker/)
++ [Reticulate 1.29](https://posit.co/blog/reticulate-1-29/)
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
