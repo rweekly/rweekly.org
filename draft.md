@@ -28,7 +28,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  R in Organizations
 
-
++ [Using R in Production with Posit Connect: Deploying Models as APIs for Customer-Facing Applications](https://posit.co/blog/using-r-in-production-with-posit-connect/)
 
 ###  R in Academia
 
