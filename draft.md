@@ -59,6 +59,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [SLC-RUG June 2023 - Seven essential Excel data visualization tips (in R!)](https://www.youtube.com/watch?v=XEDOfUp_O7w)
 
 ### Gist & Cookbook
 
