@@ -53,7 +53,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{pyblack} 0.1.0](https://github.com/erictleung/pyblack): RStudio addin to style Python code blocks with black
 
 ### Updated Packages
 
