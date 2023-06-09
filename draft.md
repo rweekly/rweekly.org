@@ -24,7 +24,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+- [Towards easy, delightful, and customizable dashboards in Shiny for R with {bslib}
+](https://shiny.posit.co/blog/posts/bslib-dashboards/)
 
 ###  R in Organizations
 
