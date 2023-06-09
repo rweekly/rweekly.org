@@ -20,7 +20,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Developing and Debugging Code with browser()](https://mjfrigaard.github.io/posts/debugging/)
 
-
++ [Quarto at Work: Streamline Reports and Share Insights](https://posit.co/blog/quarto-at-work/)
 
 ### R in the Real World
 
