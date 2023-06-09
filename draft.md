@@ -80,6 +80,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
++ [Easily create sector (pie, donut) and series of circles  charts using Cartesian coordinates and ggplot2 with the new #RStats icon {ggtricks}](https://www.abdoulblog.com/posts/2023-05-31_ggtricks-intro/)
+
 ###  R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
