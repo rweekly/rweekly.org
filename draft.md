@@ -13,11 +13,15 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ###  Highlight
 
++ [Three useful (to me) R patterns](https://masalmon.eu/2023/06/06/basic-patterns/)
 
++ [Easily create sector (pie, donut) and series of circle charts using Cartesian coordinates and ggplot2 with the new #RStats icon {ggtricks}](https://www.abdoulblog.com/posts/2023-05-31_ggtricks-intro/)
 
 ### Insights
 
 + [Developing and Debugging Code with browser()](https://mjfrigaard.github.io/posts/debugging/)
+
++ [Upcoming changes to popular R packages for spatial data: what you need to do](https://geocompx.org/post/2023/rgdal-retirement/)
 
 + [Quarto at Work: Streamline Reports and Share Insights](https://posit.co/blog/quarto-at-work/)
 
@@ -28,6 +32,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 ### R in the Real World
 
 + [Towards easy, delightful, and customizable dashboards in Shiny for R with {bslib}](https://shiny.posit.co/blog/posts/bslib-dashboards/)
+
+![bslib](https://raw.githubusercontent.com/rweekly/image/master/2023/W24/bslib.png)
 
 + [Cricketr analyzes Ind-Aus faceoff in WTC 2023!!](https://gigadom.in/2023/06/05/cricketr-analyzes-ind-aus-faceoff-in-wtc-2023/)
 
@@ -53,6 +59,9 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 **CRAN**
 
 + [{halfmoon} 0.1.0](https://r-causal.github.io/r-causal-blog/posts/introducing-halfmoon/): Techniques to Build Better Balance (causal inference)
+
+![hafmoon](https://raw.githubusercontent.com/rweekly/image/master/2023/W24/geom_mirror_histogram.png)
+
 
 + [{cereal} 0.1.0](https://cran.r-project.org/package=cereal): Serialize 'vctrs' Objects to 'JSON'
 
@@ -85,7 +94,6 @@ Learning Models
 
 + [SLC-RUG June 2023 - Seven essential Excel data visualization tips (in R!)](https://www.youtube.com/watch?v=XEDOfUp_O7w)
 
-+ [Shiny Markdown Report - TidyX Episode 147](https://www.youtube.com/watch?v=x8eMfxnYGnc)
 
 ###  Tutorials
 
@@ -102,7 +110,9 @@ Learning Models
 
 + [Fullscreen Ahead for Shiny Applications](https://www.jumpingrivers.com/blog/fullscreen-r-shiny-javascript-api/)
 
-+ [Easily create sector (pie, donut) and series of circles  charts using Cartesian coordinates and ggplot2 with the new #RStats icon {ggtricks}](https://www.abdoulblog.com/posts/2023-05-31_ggtricks-intro/)
++ [Easily create sector (pie, donut) and series of circle charts using Cartesian coordinates and ggplot2 with the new #RStats icon {ggtricks}](https://www.abdoulblog.com/posts/2023-05-31_ggtricks-intro/)
+
+![ggtricks donut plot](https://raw.githubusercontent.com/rweekly/image/master/2023/W24/donuts_facets_montage.png)
 
 + [Mastering file download in shiny](https://rtask.thinkr.fr/mastering-file-download-in-shiny/)
 
@@ -150,3 +160,5 @@ Events in 3 Months:
 ###  Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sometimes people ask me if I can do one-on-one R tutoring.<br><br>Sure I can. But then my hourly rate applies. And there are many amazing *free* resources. Want to try them first?<br><br>Here are a few that I recommend. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a></p>&mdash; Albert Rapp (@rappa753) <a href="https://twitter.com/rappa753/status/1666444941516591112?ref_src=twsrc%5Etfw">June 7, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just watched an insightful talk on &quot;7 essential Excel data visualization tips (in R!)&quot; by <a href="https://twitter.com/ivelasq3?ref_src=twsrc%5Etfw">@ivelasq3</a>. Inspired by the learnings, I created my own graph using ggpattern.<br>Code: <a href="https://t.co/IQpjRm4kEp">https://t.co/IQpjRm4kEp</a><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/3x3E5KQNFI">pic.twitter.com/3x3E5KQNFI</a></p>&mdash; Deepali Kank (@DeepaliKank) <a href="https://twitter.com/DeepaliKank/status/1667446236645847040?ref_src=twsrc%5Etfw">June 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
