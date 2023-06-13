@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+[Bayes Lived Here (Probably)](https://github.com/rweekly/rweekly.org/edit/gh-pages/draft.md)
 
 ###  R in Organizations
 
