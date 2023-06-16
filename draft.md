@@ -103,6 +103,8 @@ Events in 3 Months:
 
 + [New York R Conference - July 13-14, 2023](https://rstats.ai/nyr.html)
 
++ [posit::conf(2023) (formerly rstudio::conf) - September 17-20, 2023](https://posit.co/conference/)
+
 
 ### Grants & Funding
 
