@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
+- [Demystifying Item Response Theory (3/4): Improving Estimation through Partial Pooling](https://yongfu.name/2023/03/29/irt3/)
 
 
 ###  New Packages
