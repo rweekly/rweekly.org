@@ -31,6 +31,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [Simplifying Model Formulas with the R Function ‘reformulate()’](https://www.spsanderson.com/steveondata/posts/2023-06-13/index.html)
 + [Understanding the file.info() Function in R: Listing Files by Date](https://www.spsanderson.com/steveondata/posts/2023-06-08/index.html)
 + [How to Write Conditional Statements in R: Four Methods](https://towardsdatascience.com/how-to-write-conditional-statements-in-r-four-methods-f9bedbae0683)
++ [Easy and secure database access with a custom R6 package](https://reds-code-collection.netlify.app/posts/r_db_connector/)
 
 ### R in the Real World
 
