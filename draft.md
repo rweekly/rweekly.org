@@ -1,10 +1,8 @@
 ---
-layout: draft
-title: R Weekly 2023-W25
-description: Draft of the R Weekly
+title: R Weekly 2023-W25 slice(), columns, Bayes
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
-
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
@@ -13,21 +11,32 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ###  Highlight
 
++ [Row relational operations with slice()](https://yjunechoe.github.io/posts/2023-06-11-row-relational-operations/)
 
++ [Merging columns together and fixing up column labels in {gt} 0.9.0](https://posit.co/blog/columns-in-gt-0-9-0/)
+
++ [Bayes Lived Here (Probably)](https://www.quantumjitter.com/project/bayes/)
 
 ### Insights
 
-+ [My Computer Can Read!](https://blog.devgenius.io/my-computer-can-read-98bc339e1f66)
-+ [Row relational operations with slice()](https://yjunechoe.github.io/posts/2023-06-11-row-relational-operations/)
 + [Step By Step: recreating a volcano plot in R](https://quantixed.org/2023/06/16/step-by-step-recreating-a-volcano-plot-in-r/)
-+ [Simpler drawing of Pacific choropleth maps by @ellis2013nz](http://freerangestats.info/blog/2023/06/17/pacific-map-in-package)
 + [Bayesian structural equation model tutorial](http://www.seascapemodels.org/rstats/2023/06/15/bayesian-sem-tute.html)
-+ [Merging columns together and fixing up column labels in {gt} 0.9.0](https://posit.co/blog/columns-in-gt-0-9-0/)
++ [My Computer Can Read!](https://blog.devgenius.io/my-computer-can-read-98bc339e1f66)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W25/nist_600.png)
+
++ [Row relational operations with slice()](https://yjunechoe.github.io/posts/2023-06-11-row-relational-operations/)
++ [Simpler drawing of Pacific choropleth maps by @ellis2013nz](http://freerangestats.info/blog/2023/06/17/pacific-map-in-package)
+
 + [R and OOP anti-patterns](https://statmodeling.stat.columbia.edu/2023/06/09/r-and-oop-anti-patterns/)
 + [Automating End-to-End Cypress Tests in Rhino: A Guide to Seamless UI Testing for Shiny Apps](https://appsilon.com/automating-end-to-end-cypress-tests-in-rhino-a-guide-to-seamless-ui-testing-for-shiny-apps/)
 + [Mastering the Power of R’s diff() Function: A Programmer’s Guide](https://www.spsanderson.com/steveondata/posts/2023-06-16/index.html)
 + [Introduction to Linear Regression in R: Analyzing the mtcars Dataset with lm()](https://www.spsanderson.com/steveondata/posts/2023-06-15/index.html)
 + [Pulling a formula from a recipe object](https://www.spsanderson.com/steveondata/posts/2023-06-14/index.html)
++ [Merging columns together and fixing up column labels in {gt} 0.9.0](https://posit.co/blog/columns-in-gt-0-9-0/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W25/gt_600.png)
+
 + [Simplifying Model Formulas with the R Function ‘reformulate()’](https://www.spsanderson.com/steveondata/posts/2023-06-13/index.html)
 + [Understanding the file.info() Function in R: Listing Files by Date](https://www.spsanderson.com/steveondata/posts/2023-06-08/index.html)
 + [How to Write Conditional Statements in R: Four Methods](https://towardsdatascience.com/how-to-write-conditional-statements-in-r-four-methods-f9bedbae0683)
@@ -40,8 +49,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [R Consortium Funding for R User Groups! Highlighting R-Ladies São Paulo](https://www.r-consortium.org/blog/2023/06/12/r-consortium-funding-for-r-user-groups-highlighting-r-ladies-sao-paulo)
 
-###  R in Academia
-
 ###  R Users
 
 + [Use of R for Meta-Research in Zürich](https://www.r-consortium.org/blog/2023/06/14/use-of-r-for-meta-research-in-zurich)
@@ -51,7 +58,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 ###  Resources
 
 - [Demystifying Item Response Theory (3/4): Improving Estimation through Partial Pooling](https://yongfu.name/2023/03/29/irt3/)
-
 
 ###  New Packages
 
@@ -94,13 +100,6 @@ Genotypes
 + [{morestopwords} 0.2.0](https://cran.r-project.org/package=morestopwords): All Stop Words in One Place
 + [{singleRcapture} 0.2.0](https://cran.r-project.org/package=singleRcapture): Single-Source Capture-Recapture Models
 + [{mlexperiments} 0.0.2](https://cran.r-project.org/package=mlexperiments): Machine Learning Experiments
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
 
 
 ### Updated Packages
@@ -159,22 +158,12 @@ Model Outputs - [diffify](https://diffify.com/R/ggeffects)
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
-
 ###  Tutorials
 
 
 + [Power, Part III: The Rule of 3.64 for Statistical Power](https://www.carlislerainey.com/blog/2023-06-12-power-3-rule-of-364/index.html)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W25/power_600.png)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -213,17 +202,18 @@ Events in 3 Months:
 
 + ['Advanced Shiny Development' the hands-on workshop](https://mirai-solutions.ch/news/2023/06/09/announce-shiny3-ws/)
 
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ###  rtistry
+
+<iframe src="https://botsin.space/@aRtsy_package/110563739532612276/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+
+<iframe src="https://fosstodon.org/@nrennie/110526644259851345/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<iframe src="https://genart.social/@georgemsavva/110522229654815567/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
 
 
 ###  Quotes of the Week
