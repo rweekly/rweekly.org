@@ -82,6 +82,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Two-way ANOVA in R](https://statsandr.com/blog/two-way-anova-in-r/)
 
++ [Protect your Code with Tests! Your First R Package Journey Continues](https://wazrak.com/writing-tests-for-your-first-r-package/)
+
 + [Mastering Data Aggregation with xtabs() in R](https://www.spsanderson.com/steveondata/posts/2023-06-20/index.html)
 
 + [Unleashing the Power of Sampling in R: Exploring the Versatile sample() Function](https://www.spsanderson.com/steveondata/posts/2023-06-21/index.html)
