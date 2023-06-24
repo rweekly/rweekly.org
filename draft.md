@@ -70,6 +70,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
++ [WebVTT caption transcription app](https://pablobernabeu.github.io/applications-and-dashboards/vtt-transcription-app/)
+
++ [Web application for the simulation of experimental data](https://pablobernabeu.github.io/applications-and-dashboards/experimental-data-simulation/)
 
 
 ### R Internationally
@@ -91,6 +94,28 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [How Can Someone Else Use My Model?](https://matthewrkaye.com/posts/series/doing-data-science/2023-06-20-how-can-others-use-my-model/how-can-others-use-my-model.html)
 
 + [How to debug your package in a {rhub} fedora container before sending to CRAN?](https://statnmap.com/2023-06-20-how-to-debug-your-package-in-a-rhub-fedora-container-before-sending-to-cran/)
+
++ [How to break up colour variable in sjPlot into equally-sized bins](https://pablobernabeu.github.io/2023/how-to-break-up-colour-variable-in-sjplot-into-equally-sized-bins/)
+
++ [How to map more informative values onto fill argument of sjPlot::plot_model](https://pablobernabeu.github.io/2023/how-to-map-more-informative-values-onto-fill-argument-of-sjplot-plot-model/)
+
++ [How to visually assess the convergence of a mixed-effects model by plotting various optimizers](https://pablobernabeu.github.io/2023/how-to-visually-assess-the-convergence-of-a-mixed-effects-model-by-plotting-various-optimizers/)
+
++ [Table joins with conditional "fuzzy" string matching in R](https://pablobernabeu.github.io/2023/table-joins-with-conditional-fuzzy-string-matching-in-r/)
+
++ [A new function to plot convergence diagnostics from lme4::allFit()](https://pablobernabeu.github.io/2023/a-new-function-to-plot-convergence-diagnostics-from-lme4-allfit/)
+
++ [A table of results for Bayesian mixed-effects models: Grouping variables and specifying random slopes](https://pablobernabeu.github.io/2022/a-table-of-results-for-bayesian-mixed-effects-models-grouping-variables-and-specifying-random-slopes/)
+
++ [A table of results for frequentist mixed-effects models: Grouping variables and specifying random slopes](https://pablobernabeu.github.io/2022/a-table-of-results-for-frequentist-mixed-effects-models-grouping-variables-and-specifying-random-slopes/)
+
++ [Plotting two-way interactions from mixed-effects models using alias variables](https://pablobernabeu.github.io/2022/plotting-two-way-interactions-from-mixed-effects-models-using-alias-variables/)
+
++ [Plotting two-way interactions from mixed-effects models using ten or six bins](https://pablobernabeu.github.io/2022/plotting-two-way-interactions-from-mixed-effects-models-using-ten-or-six-bins/)
+
++ [Why can't we be friends? Plotting frequentist (lmerTest) and Bayesian (brms) mixed-effects models](https://pablobernabeu.github.io/2022/why-can-t-we-be-friends-plotting-frequentist-lmertest-and-bayesian-brms-mixed-effects-models/)
+
++ [Bayesian workflow: Prior determination, predictive checks and sensitivity analyses](https://pablobernabeu.github.io/2022/bayesian-workflow-prior-determination-predictive-checks-and-sensitivity-analyses/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
