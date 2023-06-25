@@ -95,7 +95,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to debug your package in a {rhub} fedora container before sending to CRAN?](https://statnmap.com/2023-06-20-how-to-debug-your-package-in-a-rhub-fedora-container-before-sending-to-cran/)
 
-+ [How to break up colour variable in sjPlot into equally-sized bins](https://pablobernabeu.github.io/2023/how-to-break-up-colour-variable-in-sjplot-into-equally-sized-bins/)
++ [How to break down colour variable in sjPlot::plot_model into equally-sized bins](https://pablobernabeu.github.io/2023/how-to-break-down-colour-variable-in-sjplot-plot-model-into-equally-sized-bins)
 
 + [How to map more informative values onto fill argument of sjPlot::plot_model](https://pablobernabeu.github.io/2023/how-to-map-more-informative-values-onto-fill-argument-of-sjplot-plot-model/)
 
