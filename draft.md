@@ -92,6 +92,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to debug your package in a {rhub} fedora container before sending to CRAN?](https://statnmap.com/2023-06-20-how-to-debug-your-package-in-a-rhub-fedora-container-before-sending-to-cran/)
 
++ [{crew}: a distributed worker launcher framework for asynchronous and distributed computing](https://wlandau.github.io/crew/)
+
++ [Extending {crew} with user-defined launcher plugins](https://wlandau.github.io/crew/articles/plugins.html)
+
++ [Powerful asynchronous Shiny apps with {crew}](https://wlandau.github.io/crew/articles/shiny.html)
+
++ [Distributed computing in {targets} pipelines with {crew}](https://books.ropensci.org/targets/crew.html)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
