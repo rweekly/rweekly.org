@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [Demystifying Item Response Theory (4/4): Rating Scale Models and Ordered Logit Distributions](https://yongfu.name/2023/04/26/irt4/)
 
 
 ###  New Packages
