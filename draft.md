@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2023-W26
+title: R Weekly 2023-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -18,11 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [In Survivor is entering the merge down on numbers a disadvantage?](http://gradientdescending.com/in-survivor-is-entering-the-merge-down-on-numbers-a-disadvantage/)
+
 
 ### R in the Real World
 
-+ [Data4Good Explores Visualizing Freshwater Resources on a Global Scale](https://appsilon.com/visualizing-fresh-water-resources-data/)
+
 
 ###  R in Organizations
 
@@ -43,9 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [RcppArmadillo 0.12.4.1.0 on CRAN: New Upstream Bugfix](http://dirk.eddelbuettel.com/blog/2023/06/19/#rcpparmadillo_0.12.4.1.0)
 
-+ [survivoR 2.1.0 is now available](http://gradientdescending.com/survivor-2-1-0-is-now-available/)
 
 **Bioconductor**
 
@@ -66,7 +64,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Gist & Cookbook
 
-+ [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/)
+
 
 ### Shiny Apps
 
@@ -78,29 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-+ [Finding logistic models to generate data with desired risk ratio, risk difference and AUC profiles](https://www.rdatagen.net/post/2023-06-20-finding-coefficients-for-logistic-models-that-generate-data-with-desired-characteristics/)
 
-+ [Two-way ANOVA in R](https://statsandr.com/blog/two-way-anova-in-r/)
-
-+ [Protect your Code with Tests! Your First R Package Journey Continues](https://wazrak.com/writing-tests-for-your-first-r-package/)
-
-+ [Mastering Data Aggregation with xtabs() in R](https://www.spsanderson.com/steveondata/posts/2023-06-20/index.html)
-
-+ [Unleashing the Power of Sampling in R: Exploring the Versatile sample() Function](https://www.spsanderson.com/steveondata/posts/2023-06-21/index.html)
-
-+ [Convert a Word table to Markdown](https://www.rostrum.blog/2023/06/21/wordup-tables/)
-
-+ [How Can Someone Else Use My Model?](https://matthewrkaye.com/posts/series/doing-data-science/2023-06-20-how-can-others-use-my-model/how-can-others-use-my-model.html)
-
-+ [How to debug your package in a {rhub} fedora container before sending to CRAN?](https://statnmap.com/2023-06-20-how-to-debug-your-package-in-a-rhub-fedora-container-before-sending-to-cran/)
-
-+ [{crew}: a distributed worker launcher framework for asynchronous and distributed computing](https://wlandau.github.io/crew/)
-
-+ [Extending {crew} with user-defined launcher plugins](https://wlandau.github.io/crew/articles/plugins.html)
-
-+ [Powerful asynchronous Shiny apps with {crew}](https://wlandau.github.io/crew/articles/shiny.html)
-
-+ [Distributed computing in {targets} pipelines with {crew}](https://books.ropensci.org/targets/crew.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -113,13 +89,11 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
-
 
 + [A Journey through Arrow in R - June 28, 2023](https://ropensci.org/commcalls/jun2023-arrow/)
 
@@ -138,6 +112,7 @@ Events in 3 Months:
 + ['Bring a Shiny App to Production' the hands-on workshop](https://mirai-solutions.ch/news/2023/06/16/announce-shiny4-ws/)
 
 + ['Advanced Shiny Development' the hands-on workshop](https://mirai-solutions.ch/news/2023/06/09/announce-shiny3-ws/)
+
 
 ### Grants & Funding
 
