@@ -76,6 +76,7 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 
 ###  Tutorials
 
++ [Migrating from MRAN to Posit Package Manager](https://posit.co/blog/migrating-from-mran-to-posit-package-manager/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
