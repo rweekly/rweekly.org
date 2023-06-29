@@ -57,6 +57,8 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [The new family of `text_*()` functions in {gt} 0.9.0](https://posit.co/blog/new-text-functions-in-gt-0-9-0/)
+
 ###  Videos and Podcasts
 
 * [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
