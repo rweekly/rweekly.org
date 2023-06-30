@@ -20,8 +20,6 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [How to self-publish a technical book on Leanpub and Amazon using Quarto](https://www.brodrigues.co/blog/2023-06-29-book_quarto/)
 
-+ [Finding logistic models to generate data with desired risk ratio, risk difference and AUC profiles](https://www.rdatagen.net/post/2023-06-20-finding-coefficients-for-logistic-models-that-generate-data-with-desired-characteristics/)
-
 + [%dofuture% - a Better foreach() Parallelization Operator than %dopar%](https://www.jottr.org/2023/06/26/dofuture/)
 
 + [Lessons Learned From Running R in Production](https://www.matthewrkaye.com/posts/2023-06-29-lessons-learned-from-running-r-in-production/lessons-learned-from-running-r-in-production.html)
@@ -143,19 +141,12 @@ More - [diffify](https://diffify.com/R/prettifyAddins)
 
 + [The ave() Function in R](https://www.spsanderson.com/steveondata/posts/2023-06-27/index.html)
 
-+ [Visualization in R: Unleashing the Power of the abline() Function](https://www.spsanderson.com/steveondata/posts/2023-06-26/index.html)
-
 + [Exploring Rolling Correlation with the rollapply Function: A Powerful Tool for Analyzing Time-Series Data](https://www.spsanderson.com/steveondata/posts/2023-06-28/index.html)
 
 + [How to Use a Windows .bat File to Execute an R Script](https://www.spsanderson.com/steveondata/posts/2023-06-29/index.html)
 
 + [Simplifying File Management in R: Introducing file.rename()](https://www.spsanderson.com/steveondata/posts/2023-06-30/index.html)
 
-+ [How to break down colour variable in sjPlot::plot_model into equally-sized bins](https://pablobernabeu.github.io/2023/how-to-break-down-colour-variable-in-sjplot-plot-model-into-equally-sized-bins/)
-
-+ [How to map more informative values onto fill argument of sjPlot::plot_model](https://pablobernabeu.github.io/2023/how-to-map-more-informative-values-onto-fill-argument-of-sjplot-plot-model/)
-
-+ [How to visually assess the convergence of a mixed-effects model by plotting various optimizers](https://pablobernabeu.github.io/2023/how-to-visually-assess-the-convergence-of-a-mixed-effects-model-by-plotting-various-optimizers/)
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 + [Targets validation workflow](https://appsilon.github.io/data.validator/articles/targets_workflow.html)
