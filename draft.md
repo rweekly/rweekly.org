@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2023-W00
+title: R Weekly 2023-W27
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Sam Parmar](https://github.com/parmsam), with help from the R Weekly team members and contributors.
 
 
 
@@ -57,6 +57,17 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 
 **CRAN**
 
++ [{countSTAR} 1.0.2](https://cran.r-project.org/package=countSTAR): Flexible Modeling of Count Data
++ [{corrViz} 0.1.0](https://cran.r-project.org/package=corrViz): Visualise Correlations
++ [{restatis} 0.1.0](https://cran.r-project.org/package=restatis): Web API Client for the German Federal Statistical Office
+Database
++ [{respR} 2.3.1](https://cran.r-project.org/package=respR): Import, Process, Analyse, and Calculate Rates from Respirometry
+Data
++ [{move2} 0.2.0](https://cran.r-project.org/package=move2): Processing and Analysing Animal Trajectories
++ [{hfhub} 0.1.0](https://cran.r-project.org/package=hfhub): Hugging Face Hub Interface
++ [{admiralvaccine} 0.1.0](https://cran.r-project.org/package=admiralvaccine): Vaccine Extension Package for ADaM in 'R' Asset Library
++ [{tree3d} 0.1.2](https://cran.r-project.org/package=tree3d): 3D Tree Models
++ [{topChef} 0.1.0](https://cran.r-project.org/package=topChef): Top Chef Data
 
 
 **Bioconductor**
@@ -73,6 +84,31 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [The new family of `text_*()` functions in {gt} 0.9.0](https://posit.co/blog/new-text-functions-in-gt-0-9-0/)
+
++ [{V8} 4.3.1](https://cran.r-project.org/package=V8): Embedded JavaScript and WebAssembly Engine for R - [diffify](https://diffify.com/R/V8)
++ [{haven} 2.5.2](https://cran.r-project.org/package=haven): Import and Export 'SPSS', 'Stata' and 'SAS' Files - [diffify](https://diffify.com/R/haven)
++ [{polite} 0.1.3](https://cran.r-project.org/package=polite): Be Nice on the Web - [diffify](https://diffify.com/R/polite)
++ [{ggblanket} 3.0.0](https://cran.r-project.org/package=ggblanket): Simplify 'ggplot2' Visualisation - [diffify](https://diffify.com/R/ggblanket)
++ [{openxlsx2} 0.7.1](https://cran.r-project.org/package=openxlsx2): Read, Write and Edit 'xlsx' Files - [diffify](https://diffify.com/R/openxlsx2)
++ [{gmailr} 2.0.0](https://cran.r-project.org/package=gmailr): Access the 'Gmail' 'RESTful' API - [diffify](https://diffify.com/R/gmailr)
++ [{prettifyAddins} 2.6.0](https://cran.r-project.org/package=prettifyAddins): 'RStudio' Addins to Prettify 'JavaScript', 'C++', 'Python', and
+More - [diffify](https://diffify.com/R/prettifyAddins)
++ [{jsonlite} 1.8.7](https://cran.r-project.org/package=jsonlite): A Simple and Robust JSON Parser and Generator for R - [diffify](https://diffify.com/R/jsonlite)
++ [{downlit} 0.4.3](https://cran.r-project.org/package=downlit): Syntax Highlighting and Automatic Linking - [diffify](https://diffify.com/R/downlit)
++ [{odbc} 1.3.5](https://cran.r-project.org/package=odbc): Connect to ODBC Compatible Databases (using the DBI Interface) - [diffify](https://diffify.com/R/odbc)
++ [{fusen} 0.5.1](https://cran.r-project.org/package=fusen): Build a Package from Rmarkdown Files - [diffify](https://diffify.com/R/fusen)
++ [{rtoot} 0.3.2](https://cran.r-project.org/package=rtoot): Collecting and Analyzing Mastodon Data - [diffify](https://diffify.com/R/rtoot)
++ [{ssh} 0.8.3](https://cran.r-project.org/package=ssh): Secure Shell (SSH) Client for R - [diffify](https://diffify.com/R/ssh)
++ [{riskmetric} 0.2.2](https://cran.r-project.org/package=riskmetric): Risk Metrics to Evaluating R Packages - [diffify](https://diffify.com/R/riskmetric)
++ [{tern} 0.8.4](https://cran.r-project.org/package=tern): Create Common TLGs Used in Clinical Trials - [diffify](https://diffify.com/R/tern)
++ [{deps} 0.2.0](https://cran.r-project.org/package=deps): Dependency Management with 'roxygen'-Style Comments - [diffify](https://diffify.com/R/deps)
++ [{webshot} 0.5.5](https://cran.r-project.org/package=webshot): Take Screenshots of Web Pages - [diffify](https://diffify.com/R/webshot)
++ [{targets} 1.2.0](https://cran.r-project.org/package=targets): Dynamic Function-Oriented 'Make'-Like Declarative Pipelines - [diffify](https://diffify.com/R/targets)
++ [{digest} 0.6.32](https://cran.r-project.org/package=digest): Create Compact Hash Digests of R Objects - [diffify](https://diffify.com/R/digest)
++ [{crew} 0.3.0](https://cran.r-project.org/package=crew): A Distributed Worker Launcher Framework - [diffify](https://diffify.com/R/crew)
++ [{pkgbuild} 1.4.2](https://cran.r-project.org/package=pkgbuild): Find Tools Needed to Build R Packages - [diffify](https://diffify.com/R/pkgbuild)
++ [{askgpt} 0.1.2](https://cran.r-project.org/package=askgpt): Asking GPT About R Stuff - [diffify](https://diffify.com/R/askgpt)
++ [{mirai} 0.9.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R - [diffify](https://diffify.com/R/mirai)
 
 ###  Videos and Podcasts
 
@@ -144,23 +180,9 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-+ [A Journey through Arrow in R - June 28, 2023](https://ropensci.org/commcalls/jun2023-arrow/)
-
-+ [Building reproducible analytical pipelines in R workshop - June 29, 2023](https://r-posts.com/building-reproducible-analytical-pipelines-in-r-workshop/)
-
 + [New York R Conference - July 13-14, 2023](https://rstats.ai/nyr.html)
 
 + [posit::conf(2023) (formerly rstudio::conf) - September 17-20, 2023](https://posit.co/conference/)
-
-+ [Learnings and Reflection from Case Studies: What is Next for the R Validation Hub?](https://www.r-consortium.org/blog/2023/06/14/learnings-and-reflection-from-case-studies-what-is-next-for-the-r-validation-hub)
-
-+ [Introduction to Supervised Text Classification in R workshop](https://r-posts.com/introduction-to-supervised-text-classification-in-r-workshop/)
-
-+ [Introduction to Propensity Score Analysis with R workshop](https://r-posts.com/introduction-to-propensity-score-analysis-with-r-workshop/)
-
-+ ['Bring a Shiny App to Production' the hands-on workshop](https://mirai-solutions.ch/news/2023/06/16/announce-shiny4-ws/)
-
-+ ['Advanced Shiny Development' the hands-on workshop](https://mirai-solutions.ch/news/2023/06/09/announce-shiny3-ws/)
 
 
 ### Grants & Funding
