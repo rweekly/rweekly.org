@@ -34,7 +34,7 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 
 ###  Resources
 
-
+* [r-help](https://github.com/hughjonesd/r-help): R manual pages for previous versions of R from 0.60 onwards
 
 ###  New Packages
 
