@@ -76,7 +76,10 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 
 ###  Tutorials
 
+
 + [Migrating from MRAN to Posit Package Manager](https://posit.co/blog/migrating-from-mran-to-posit-package-manager/)
+
++ [ggplotting power curves from simr package](https://pablobernabeu.github.io/2023/ggplotting-power-curves-from-simr-package)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
