@@ -90,6 +90,11 @@ This week’s release was curated by [Colin Fay](https://twitter.com/_ColinFay),
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+## Call for Participation
+
++ [Registration for posit::conf(2023)’s virtual experience is now open](https://posit.co/blog/posit-conf-2023-virtual-experience-registration/)
+
++ [Register for R/Pharma at posit::conf(2023)](https://posit.co/blog/register-for-r-pharma-at-positconf2023/)
 
 ###  Upcoming Events in 3 Months
 
