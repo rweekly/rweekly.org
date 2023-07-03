@@ -24,11 +24,15 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [How to self-publish a technical book on Leanpub and Amazon using Quarto](https://www.brodrigues.co/blog/2023-06-29-book_quarto/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W27/gosling_600.jpg)
+
 + [%dofuture% - a Better foreach() Parallelization Operator than %dopar%](https://www.jottr.org/2023/06/26/dofuture/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W27/dopar-to-dofuture_600.png)
 
 + [Lessons Learned From Running R in Production](https://www.matthewrkaye.com/posts/2023-06-29-lessons-learned-from-running-r-in-production/lessons-learned-from-running-r-in-production.html)
 
-[Symbolic Differentiation in a Few Lines of Code](https://reside-ic.github.io/blog/symbolic-differentiation-in-a-few-lines-of-code/)
++ [Symbolic Differentiation in a Few Lines of Code](https://reside-ic.github.io/blog/symbolic-differentiation-in-a-few-lines-of-code/)
 
 ### R in the Real World
 
@@ -38,7 +42,7 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 ###  Resources
 
-* [r-help](https://github.com/hughjonesd/r-help): R manual pages for previous versions of R from 0.60 onwards
+* [r-help: R manual pages for previous versions of R from 0.60 onwards](https://github.com/hughjonesd/r-help)
 
 + [gmailr 2.0.0](https://www.tidyverse.org/blog/2023/06/gmailr-2-0-0/)
 
@@ -121,6 +125,8 @@ More - [diffify](https://diffify.com/R/prettifyAddins)
 
 + [Migrating from MRAN to Posit Package Manager](https://posit.co/blog/migrating-from-mran-to-posit-package-manager/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W27/MY-COPY-Product-Release-Templates-1_600.jpg)
+
 + [ggplotting power curves from simr package](https://pablobernabeu.github.io/2023/ggplotting-power-curves-from-simr-package)
 
 + [Table joins with conditional "fuzzy" string matching in R](https://pablobernabeu.github.io/2023/table-joins-with-conditional-fuzzy-string-matching-in-r/)
@@ -159,7 +165,11 @@ Events in 3 Months:
 
 + [New York R Conference - July 13-14, 2023](https://rstats.ai/nyr.html)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W27/Twitter-NYR-2023_600.png)
+
 + [posit::conf(2023) (formerly rstudio::conf) - September 17-20, 2023](https://posit.co/conference/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W27/conf23-virtualregopen_blog-1_600.jpg)
 
 ### Jobs
 
