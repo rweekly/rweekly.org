@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
+- [Road trip analysis! How to use and play with Google Location History in R](https://www.andrewheiss.com/blog/2023/07/03/using-google-location-history-with-r-roadtrip/): Learn how to use R to load and clean and play with all the location history data Google keeps about you and look at some neat plots and tables about our 5,000-mile summer road trip along the way
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
