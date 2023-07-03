@@ -14,7 +14,11 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 ###  Highlight
 
++ [Targets validation workflow](https://appsilon.github.io/data.validator/articles/targets_workflow.html)
 
++ [%dofuture% - a Better foreach() Parallelization Operator than %dopar%](https://www.jottr.org/2023/06/26/dofuture/)
+
++ [gmailr 2.0.0](https://www.tidyverse.org/blog/2023/06/gmailr-2-0-0/)
 
 ### Insights
 
@@ -31,14 +35,6 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 + [May 2023: "Top 40" New CRAN Packages](https://rviews.rstudio.com/2023/06/28/may-2023-top-40-new-cran-packages/)
 
 + [Data Scientists & Data Professionals at New York R Conference](https://www.r-consortium.org/blog/2023/06/22/data-scientists-and-data-professionals-at-new-york-r-conference)
-
-###  R in Organizations
-
-
-
-###  R in Academia
-
-
 
 ###  Resources
 
@@ -66,11 +62,6 @@ Data
 + [{admiralvaccine} 0.1.0](https://cran.r-project.org/package=admiralvaccine): Vaccine Extension Package for ADaM in 'R' Asset Library
 + [{tree3d} 0.1.2](https://cran.r-project.org/package=tree3d): 3D Tree Models
 + [{topChef} 0.1.0](https://cran.r-project.org/package=topChef): Top Chef Data
-
-
-**Bioconductor**
-
-
 
 **GitHub or Bitbucket**
 
@@ -115,11 +106,6 @@ More - [diffify](https://diffify.com/R/prettifyAddins)
 + [Shiny Apps with Hugging Face: A Practical Guide](https://www.youtube.com/watch?v=dwiELLRPPsg)
 
 + [How to generate images with OpenAI's DALL-E models using R - openai R package approach](https://www.youtube.com/watch?v=kXJyUsYeIJ4)
-
-
-### Gist & Cookbook
-
-
 
 ### Shiny Apps
 
@@ -175,18 +161,18 @@ Events in 3 Months:
 
 + [posit::conf(2023) (formerly rstudio::conf) - September 17-20, 2023](https://posit.co/conference/)
 
-
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ###  rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">On the data visualisation 📊 to generative art 🎨 spectrum, I think this one sits right in the middle! <br><br>Can you guess what the underlying data is?<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/DataViz?src=hash&amp;ref_src=twsrc%5Etfw">#DataViz</a> <a href="https://twitter.com/hashtag/Rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#Rtistry</a> <a href="https://twitter.com/hashtag/GenArtClub?src=hash&amp;ref_src=twsrc%5Etfw">#GenArtClub</a> <a href="https://t.co/NIYaiADykO">pic.twitter.com/NIYaiADykO</a></p>&mdash; Nicola Rennie | @nrennie@fosstodon.org (@nrennie35) <a href="https://twitter.com/nrennie35/status/1674343240764456960?ref_src=twsrc%5Etfw">June 29, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today&#39;s artwork generated with <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> and <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a>: <a href="https://t.co/6XAzubNexp">pic.twitter.com/6XAzubNexp</a></p>&mdash; aRtsy package (@aRtsy_package) <a href="https://twitter.com/aRtsy_package/status/1675387325486907392?ref_src=twsrc%5Etfw">July 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/runeverystreet?src=hash&amp;ref_src=twsrc%5Etfw">#runeverystreet</a> in <a href="https://twitter.com/hashtag/WestVan?src=hash&amp;ref_src=twsrc%5Etfw">#WestVan</a> (and <a href="https://twitter.com/hashtag/NorthVan?src=hash&amp;ref_src=twsrc%5Etfw">#NorthVan</a>) ... today was Caulfield neighborhood in West Vancouver. Plotted using <a href="https://twitter.com/hashtag/Strava?src=hash&amp;ref_src=twsrc%5Etfw">#Strava</a> data in <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> using the amazing <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> and <a href="https://twitter.com/hashtag/rayvista?src=hash&amp;ref_src=twsrc%5Etfw">#rayvista</a> packages! <a href="https://t.co/edddPyns87">pic.twitter.com/edddPyns87</a></p>&mdash; Michael Hainke (@MichaelHainke) <a href="https://twitter.com/MichaelHainke/status/1673897828815605760?ref_src=twsrc%5Etfw">June 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ###  Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A little while ago I teased a video of <a href="https://twitter.com/hashtag/webR?src=hash&amp;ref_src=twsrc%5Etfw">#webR</a> running <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> Shinylive apps entirely in the browser with <a href="https://twitter.com/hashtag/wasm?src=hash&amp;ref_src=twsrc%5Etfw">#wasm</a>. We&#39;re working on it, but for the moment I&#39;ve setup a repo with some technical info about how this all works, targeted at brave JavaScript devs <a href="https://t.co/tzD2eNGoLH">https://t.co/tzD2eNGoLH</a> <a href="https://t.co/2UXY7YYYPm">https://t.co/2UXY7YYYPm</a></p>&mdash; George Stagg (@gwstagg) <a href="https://twitter.com/gwstagg/status/1674825985244512272?ref_src=twsrc%5Etfw">June 30, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
