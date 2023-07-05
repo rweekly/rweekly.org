@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
-
++ [Using webR in an Express JS REST API](https://colinfay.me/calling-webr-from-expressjs/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
