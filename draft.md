@@ -43,6 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{refugees} 2022.12.0](https://cran.r-project.org/package=refugees): Data on forcibly displaced and stateless people collated by the UN Refugee Agency (UNHCR)
 
 
 **Bioconductor**
