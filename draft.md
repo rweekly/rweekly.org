@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Hugging Face Integrations](https://blogs.rstudio.com/ai/posts/2023-07-12-hugging-face-integrations/)
 
 ### R in the Real World
 
