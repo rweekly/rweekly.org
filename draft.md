@@ -78,6 +78,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Using webR in an Express JS REST API](https://colinfay.me/calling-webr-from-expressjs/)
 
++ [Font stacks and Markdown improvements in {gt} 0.9.0](https://posit.co/blog/font-stacks-and-markdown-improvements-in-gt-0-9-0/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
