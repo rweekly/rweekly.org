@@ -34,6 +34,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Resources
 
++ [R for Data Science, 2nd edition](https://www.tidyverse.org/blog/2023/07/r4ds-2e/s)
+
 + [Demystifying Item Response Theory (4/4): Rating Scale Models and Ordered Logit Distributions](https://yongfu.name/irt4/)
 
 
