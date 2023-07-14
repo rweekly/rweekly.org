@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Hugging Face Integrations](https://blogs.rstudio.com/ai/posts/2023-07-12-hugging-face-integrations/)
 
 ### R in the Real World
 
@@ -36,6 +36,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R for Data Science, 2nd edition](https://www.tidyverse.org/blog/2023/07/r4ds-2e/s)
 
++ [Demystifying Item Response Theory (4/4): Rating Scale Models and Ordered Logit Distributions](https://yongfu.name/irt4/)
+
+
 ###  New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -43,6 +46,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{refugees} 2022.12.0](https://cran.r-project.org/package=refugees): Data on forcibly displaced and stateless people collated by the UN Refugee Agency (UNHCR)
 
 
 **Bioconductor**
@@ -56,6 +60,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [renv 1.0.0](https://posit.co/blog/renv-1-0-0/)
+
++ [{nanonext} 0.9.1](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library - adds TLS support for TCP and WebSocket connections - [diffify](https://diffify.com/R/nanonext)
+
 
 ###  Videos and Podcasts
 
@@ -76,7 +85,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Tutorials
 
+- [Road trip analysis! How to use and play with Google Location History in R](https://www.andrewheiss.com/blog/2023/07/03/using-google-location-history-with-r-roadtrip/): Learn how to use R to load and clean and play with all the location history data Google keeps about you and look at some neat plots and tables about our 5,000-mile summer road trip along the way
+
 + [Using webR in an Express JS REST API](https://colinfay.me/calling-webr-from-expressjs/)
+
++ [Font stacks and Markdown improvements in {gt} 0.9.0](https://posit.co/blog/font-stacks-and-markdown-improvements-in-gt-0-9-0/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
