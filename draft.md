@@ -59,7 +59,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [renv 1.0.0](https://posit.co/blog/renv-1-0-0/)
+
 + [{nanonext} 0.9.1](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library - adds TLS support for TCP and WebSocket connections - [diffify](https://diffify.com/R/nanonext)
+
 
 ###  Videos and Podcasts
 
