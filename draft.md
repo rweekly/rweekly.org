@@ -6,7 +6,6 @@ image: https://rweekly.org/public/facebook.png
 ---
 
 
-+ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Eric Nantz](https://shinydevseries.com), with help from the R Weekly team members and contributors.
 
@@ -110,7 +109,6 @@ This week’s release was curated by [Eric Nantz](https://shinydevseries.com), w
 
 ### Updated Packages
 
-<i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [renv 1.0.0](https://posit.co/blog/renv-1-0-0/)
 
@@ -158,7 +156,6 @@ Figure - [diffify](https://diffify.com/R/r2rtf)
 
 ###  Videos and Podcasts
 
-* [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 + [What tokens are used more vs. less in #TidyTuesday place names?](https://juliasilge.com/blog/place-names/)
 
