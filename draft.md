@@ -31,7 +31,7 @@ This week’s release was curated by [Eric Nantz](https://shinydevseries.com), w
 
 + [Change in R Consortium Leadership – Thank you, Joseph Rickert!](https://www.r-consortium.org/announcement/2023/07/06/change-in-r-consortium-leadership-thank-you-joseph-rickert)
 
-+ [R Validation Hub Community Meeting – June Recap ↺](https://www.r-consortium.org/blog/2023/07/05/recap-learnings-and-reflection-from-case-studies-what-is-next-for-the-r-validation-hub)
++ [R Validation Hub Community Meeting – June Recap](https://www.r-consortium.org/blog/2023/07/05/recap-learnings-and-reflection-from-case-studies-what-is-next-for-the-r-validation-hub)
 
 ###  R in Academia
 
@@ -39,13 +39,15 @@ This week’s release was curated by [Eric Nantz](https://shinydevseries.com), w
 
 + [Weighted probability vs. favourability](https://modtools.wordpress.com/2023/07/11/weighted-probability-vs-favourability/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W29/weighted_prob_600.png)
+
 + [Tree models for assessing covariate-dependent method agreement](https://www.zeileis.org/news/coat/)
 
 + [Testing functional specification in linear regression](https://vgherard.github.io/posts/2023-07-11-testing-functional-specification-in-linear-regression)
 
 ###  Resources
 
-+ [R for Data Science, 2nd edition](https://www.tidyverse.org/blog/2023/07/r4ds-2e/s)
++ [R for Data Science, 2nd edition](https://www.tidyverse.org/blog/2023/07/r4ds-2e/)
 
 + [Demystifying Item Response Theory (4/4): Rating Scale Models and Ordered Logit Distributions](https://yongfu.name/irt4/)
 
@@ -126,6 +128,8 @@ This week’s release was curated by [Eric Nantz](https://shinydevseries.com), w
 
 + [{plainview} 0.2.1](https://cran.r-project.org/package=plainview): Plot Raster Images Interactively on a Plain HTML Canvas - [diffify](https://diffify.com/R/plainview)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W29/plainview_600.png)
+
 + [{metathis} 1.1.4](https://cran.r-project.org/package=metathis): HTML Metadata Tags for 'R Markdown' and 'Shiny' - [diffify](https://diffify.com/R/metathis)
 
 + [{rmzqc} 0.5.1](https://cran.r-project.org/package=rmzqc): Creation, Reading and Validation of 'mzqc' Files - [diffify](https://diffify.com/R/rmzqc)
@@ -152,6 +156,8 @@ Figure - [diffify](https://diffify.com/R/r2rtf)
 + [{move} 4.2.4](https://cran.r-project.org/package=move): Visualizing and Analyzing Animal Track Data - [diffify](https://diffify.com/R/move)
 
 + [{ggDoE} 0.7.9](https://cran.r-project.org/package=ggDoE): Modern Graphs for Design of Experiments with 'ggplot2' - [diffify](https://diffify.com/R/ggDoE)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W29/ggDoE_600.png)
 
 
 ###  Videos and Podcasts
@@ -185,6 +191,8 @@ Figure - [diffify](https://diffify.com/R/r2rtf)
 
 - [Road trip analysis! How to use and play with Google Location History in R](https://www.andrewheiss.com/blog/2023/07/03/using-google-location-history-with-r-roadtrip/): Learn how to use R to load and clean and play with all the location history data Google keeps about you and look at some neat plots and tables about our 5,000-mile summer road trip along the way
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W29/road_trip_600.png)
+
 + [Using webR in an Express JS REST API](https://colinfay.me/calling-webr-from-expressjs/)
 
 + [Font stacks and Markdown improvements in {gt} 0.9.0](https://posit.co/blog/font-stacks-and-markdown-improvements-in-gt-0-9-0/)
@@ -193,9 +201,13 @@ Figure - [diffify](https://diffify.com/R/r2rtf)
 
 + [ggplot Center Title: A Guide to Perfectly Aligned Titles in Your Plots](https://www.marsja.se/ggplot-center-title-how/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W29/ggplot_center_600.webp)
+
 + [#40: Another r2u Example – Making Colab Easier](http://dirk.eddelbuettel.com/blog/2023/07/08#040_r2u_used_at_colab)
 
 + [Uncovering History with R - A Look at the HistData Package](https://www.codingthepast.com/2023/07/12/HistData.html)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W29/history_600.png)
 
 + [Covariance in R with the cov() Function](https://www.spsanderson.com/steveondata/posts/2023-07-14/index.html)
 
