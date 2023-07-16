@@ -20,6 +20,8 @@ This week’s release was curated by [Eric Nantz](https://shinydevseries.com), w
 
 + [Array Languages: R vs APL](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 
++ [Four reasons to learn HTML + CSS as an R programmer](https://albert-rapp.de/posts/16_html_css_for_r/16_html_css_for_r.html)
+
 ### R in the Real World
 
 + [Changing the world with Data: An outreach event](https://www.jumpingrivers.com/blog/speakers-for-schools-data-science-outreach-event-r-shiny-data-visualisation/)
@@ -172,6 +174,28 @@ Figure - [diffify](https://diffify.com/R/r2rtf)
 + [Building a Chatbot with OpenAI, Shiny, & R - Part 2: Shiny App Build](https://www.youtube.com/watch?v=agPFcEeQSEQ)
 
 + [Building a Chatbot with OpenAI, Shiny, & R - Part 3: Deploying our GPT Chatbot](https://www.youtube.com/watch?v=odBkUdWlwUk)
+
++ [Shiny Modules in 100 Seconds](https://youtu.be/BufC0agHnzw)
+
++ [Perfect Bar Charts in 150 Seconds](https://youtu.be/15ZlfVA2Cl8)
+
++ [Avoid duplicate code with powerful functions in 150 seconds](https://youtu.be/E0I-G6rWESQ)
+
++ [Use functions instead of for-loops in 150 seconds](https://youtu.be/ji80yMlwsYI)
+
++ [Use dumbbell plots instead of paired bar charts in 130 seconds](https://youtu.be/F0POeYm8KPQ)
+
++ [Fix stacked bar charts in seconds](https://youtu.be/3exV7ZjarxA)
+
++ [7 strategies to import & clean messy Excel files in R](https://youtu.be/fbft9iAs8zM)
+
++ [Data wrangling in a single step with across()](https://youtu.be/sVIJk8f3DwM)
+
++ [Stop making messy line charts and create meaningful plots instead](https://youtu.be/nDa6aHxiSYQ)
+
++ [A DEAD-SIMPLE STRATEGY to style your Quarto docs without knowing HTML & CSS](https://youtu.be/jX4_Dnzhl0M)
+
++ [An easy way to style your Quarto docs without knowing HTML & CSS](https://youtu.be/QU8wSya-Y9E)
 
 ### Gist & Cookbook
 
