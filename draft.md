@@ -110,6 +110,8 @@ This week’s release was curated by [Eric Nantz](https://shinydevseries.com), w
 
 + [renv 1.0.0](https://posit.co/blog/renv-1-0-0/)
 
++ [{nanonext} 0.9.1](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library - adds TLS support for TCP and WebSocket connections - [diffify](https://diffify.com/R/nanonext)
+
 + [Rhino 1.4.0: Streamlined Dependency Management and React Support](https://appsilon.com/rhino-1-4-0/)
 
 + [parallelly: Querying, Killing and Cloning Parallel Workers Running Locally or Remotely](https://www.jottr.org/2023/07/01/parallelly-managing-workers/)
