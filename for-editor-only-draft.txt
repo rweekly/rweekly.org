@@ -12,7 +12,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
-###  Highlight
+### Highlight
 
 
 
@@ -24,19 +24,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
-###  R in Organizations
+### R in Organizations
 
 
 
-###  R in Academia
+### R in Academia
 
 
 
-###  Resources
+### Resources
 
 
 
-###  New Packages
+### New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
@@ -57,9 +57,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-###  Videos and Podcasts
+### Videos and Podcasts
 
-* [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
++ [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 
 ### Gist & Cookbook
@@ -74,18 +74,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
-###  Tutorials
+### Tutorials
 
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
-###  R Project Updates
+### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 
-###  Upcoming Events in 3 Months
+### Upcoming Events in 3 Months
 
 Events in 3 Months:
 
@@ -94,7 +94,7 @@ Events in 3 Months:
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-+[Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
++ [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 ### Grants & Funding
 
@@ -106,7 +106,7 @@ Events in 3 Months:
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
-###  rtistry
+### rtistry
 
 
-###  Quotes of the Week
+### Quotes of the Week
