@@ -101,10 +101,6 @@ This week’s release was curated by [Eric Nantz](https://shinydevseries.com), w
 + [{minioclient} 0.0.2](https://cran.r-project.org/package=minioclient): Interface to the 'MinIO' Client
 
 
-**Bioconductor**
-
-
-
 **GitHub or Bitbucket**
 
 + [datasetR  – R package for creating datasets](https://tomaztsql.wordpress.com/2023/07/13/datasetr-r-package-for-creating-datasets/)
@@ -183,10 +179,6 @@ Figure - [diffify](https://diffify.com/R/r2rtf)
 
 + [Advancing FDA Clinical Trial Submissions with R: Reproducing the R Submissions Pilot 2 Shiny App Using Rhino](https://appsilon.com/fda-clinical-trial-submissions-with-r-shiny-rhino/)
 
-### R Internationally
-
-
-
 ###  Tutorials
 
 - [Road trip analysis! How to use and play with Google Location History in R](https://www.andrewheiss.com/blog/2023/07/03/using-google-location-history-with-r-roadtrip/): Learn how to use R to load and clean and play with all the location history data Google keeps about you and look at some neat plots and tables about our 5,000-mile summer road trip along the way
@@ -220,11 +212,9 @@ Figure - [diffify](https://diffify.com/R/r2rtf)
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-
 ###  Upcoming Events in 3 Months
 
 Events in 3 Months:
-
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -234,21 +224,23 @@ Events in 3 Months:
 
 + [posit::conf(2023) (formerly rstudio::conf) - September 17-20, 2023](https://posit.co/conference/)
 
-
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
-###  rtistry
 
+### Call for Participation
+
++ [Open Call for rOpenSci Champions Program Applications!](https://ropensci.org/blog/2023/07/14/call-champions-program/)
 
 ###  Quotes of the Week
 
-<iframe src="https://mapstodon.space/@josiah/110680249487008828/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+<iframe src="https://fosstodon.org/@coolbutuseless/110714785415290819/embed" width="500" height="750" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
+<iframe src="https://mapstodon.space/@josiah/110680249487008828/embed" width="500" height="700" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+<iframe src="https://mastodon.social/@allison_horst/110719442735137338/embed" width="500" height="800" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Juries still out on probability theory, but nephew and I totally on the same page about <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <br><br>(h/t to <a href="https://twitter.com/rstatsai?ref_src=twsrc%5Etfw">@rstatsai</a> and <a href="https://twitter.com/_RachaelDempsey?ref_src=twsrc%5Etfw">@_RachaelDempsey</a> at <a href="https://twitter.com/posit_pbc?ref_src=twsrc%5Etfw">@posit_pbc</a> for the attire) <a href="https://t.co/zecbiYAu1R">https://t.co/zecbiYAu1R</a> <a href="https://t.co/TogJ8a6wlz">pic.twitter.com/TogJ8a6wlz</a></p>&mdash; Emily Riederer (@EmilyRiederer) <a href="https://twitter.com/EmilyRiederer/status/1680607046121533440?ref_src=twsrc%5Etfw">July 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every year <a href="https://twitter.com/chendaniely?ref_src=twsrc%5Etfw">@chendaniely</a> is still working on his slides right before going on stage. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/rstatsnyc?src=hash&amp;ref_src=twsrc%5Etfw">#rstatsnyc</a> <a href="https://t.co/YlFogJrx2J">pic.twitter.com/YlFogJrx2J</a></p>&mdash; Jared Lander (@jaredlander) <a href="https://twitter.com/jaredlander/status/1679516554352902149?ref_src=twsrc%5Etfw">July 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
