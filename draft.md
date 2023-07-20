@@ -83,7 +83,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-useR! 2024 will be a hybrid conference, taking place 8-11 July in Salzburg, Austria.
+useR! 2024 will be a hybrid conference, taking place 8-11 July in Salzburg, Austria. For updates follow [@useR_conf@mastodon.social](https://mastodon.social/@useR_conf) on Mastodon, [@_useRconf](https://twitter.com/_useRconf) on Twitter, or [user-conf](https://www.linkedin.com/company/user-conf/) on LinkedIn.
 
 ###  Upcoming Events in 3 Months
 
