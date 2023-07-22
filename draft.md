@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
++ [Beyond Item Response Theory: Growth Curve Modeling of Latent Variables with Bayes](https://yongfu.name/irt5)
 
 
 ### New Packages
