@@ -97,6 +97,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [An automated model home page with GitHub](https://svitkin.rbind.io/2023/07/on-automated-model-homepages/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
