@@ -10,14 +10,24 @@ image: https://rweekly.org/public/facebook.png
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
 
+### Draft
+
+
 
 ### Highlight
+
 
 
 
 ### Insights
 
 - [Four reasons to learn HTML + CSS as an R programmer](https://albert-rapp.de/posts/16_html_css_for_r/16_html_css_for_r.html)
+
++ [Probabilistic forecasting for the FIFA Women's World Cup 2023](https://www.zeileis.org/news/fifawomen2023/)
+
++ [qlcal 0.0.7 on CRAN: QuantLib 1.31 Updates](http://dirk.eddelbuettel.com/blog/2023/07/19#qlcal-r_0.0.7)
+
++ [Q2 2023 tidymodels digest](https://www.tidyverse.org/blog/2023/07/tidymodels-2023-q2/)
 
 
 ### R in the Real World
@@ -98,8 +108,21 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [fusen v0.5: Gotta inflate ’em all !](https://rtask.thinkr.fr/fusen-v0-5-gotta-inflate-em-all/)
+
++ [Classification metrics for #TidyTuesday GPT detectors](https://juliasilge.com/blog/gpt-detectors/)
+
++ [Reproducible data science with Nix, part 2 -- running {targets} pipelines with Nix](https://www.brodrigues.co/blog/2023-07-19-nix_for_r_part2/)
+
++ [Supervised Topic Modeling for Short Texts: My Workflow and A Worked Example](https://www.markhw.com/blog/supervisedtext)
+
 + [An automated model home page with GitHub](https://svitkin.rbind.io/2023/07/on-automated-model-homepages/)
 
++ [datasetR  – R package for creating datasets](https://tomaztsql.wordpress.com/2023/07/13/datasetr-r-package-for-creating-datasets/)
+
++ [Coefficient of Variation in R](https://www.marsja.se/coefficient_of_variation_in_r/)
+
++ [Generate multiple presentations with Quarto parameters](https://www.jumpingrivers.com/blog/r-parameterised-presentations-quarto/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -113,11 +136,13 @@ useR! 2024 will be a hybrid conference, taking place 8-11 July in Salzburg, Aust
 
 Events in 3 Months:
 
++ [Shiny in Production 2023](https://www.jumpingrivers.com/blog/shiny-in-production-2023-conference-r-workshops/)
+
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
-+[Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
++ [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 + [posit::conf(2023) (formerly rstudio::conf) - September 17-20, 2023](https://posit.co/conference/)
 
