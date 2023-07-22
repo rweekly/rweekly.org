@@ -62,7 +62,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [chinadevfin2](https://t-emery.github.io/chinadevfin2/index.html)
 
 ### Updated Packages
 
@@ -107,6 +107,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
+
++ [Stacked line chart with inline labels](https://r-graph-gallery.com/web-stacked-area-chart-inline-labels.html)
+
++ [Jazz up your ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
+
++ [Tips for debugging and cleaning broken code](https://datavizs23.classes.andrewheiss.com/news/2023-07-05_messy-broken-code-tips.html)
 
 + [fusen v0.5: Gotta inflate ’em all !](https://rtask.thinkr.fr/fusen-v0-5-gotta-inflate-em-all/)
 
