@@ -68,6 +68,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{mirai} 0.9.1](https://cran.r-project.org/package=mirai): Lightweight parallel code execution and distributed computing - adds TLS support for remote connections.
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
