@@ -23,6 +23,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [Four reasons to learn HTML + CSS as an R programmer](https://albert-rapp.de/posts/16_html_css_for_r/16_html_css_for_r.html)
 
+  <img width="697" alt="Screenshot 2023-07-26 at 06 54 04" src="https://github.com/rweekly/rweekly.org/assets/53487593/d364f31d-69eb-498d-b2e8-15337a7e1996">
+
 + [qlcal 0.0.7 on CRAN: QuantLib 1.31 Updates](http://dirk.eddelbuettel.com/blog/2023/07/19#qlcal-r_0.0.7)
 
 + [Q2 2023 tidymodels digest](https://www.tidyverse.org/blog/2023/07/tidymodels-2023-q2/)
@@ -31,6 +33,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 + [Probabilistic forecasting for the FIFA Women's World Cup 2023](https://www.zeileis.org/news/fifawomen2023/)
+  
+<img width="766" alt="Screenshot 2023-07-26 at 06 54 41" src="https://github.com/rweekly/rweekly.org/assets/53487593/cb602943-8ad6-4566-9819-7cca23e3999a">
 
 
 ### Resources
@@ -45,28 +49,27 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [{newscatcheR} 0.0.1](https://cran.r-project.org/package=newscatcheR): Programmatically Collect Normalized News from (Almost) Any Website
++ [{vvshiny} 0.1.1](https://cran.r-project.org/package=vvshiny): Create Complex Shiny Apps More Easily
   
-+ [{genius} 2.2.2](https://cran.r-project.org/package=genius): Easily Access Song Lyrics from Genius.com
-  
-+ [{almanac} 0.1.0](https://cran.r-project.org/package=almanac): Tools for Working with Recurrence Rules
-  
-+ [{tidylo} 0.1.0](https://cran.r-project.org/package=tidylo): Weighted Tidy Log Odds Ratio
-  
-+ [{nombre} 0.1.0](https://cran.r-project.org/package=nombre): Number Names
-  
-+ [{nhlapi} 0.1.2](https://cran.r-project.org/package=nhlapi): A Minimum-Dependency 'R' Interface to the 'NHL' API
-  
-+ [{applicable} 0.0.1](https://cran.r-project.org/package=applicable): A Compilation of Applicability Domain Methods
-  
-+ [{upsetjs} 1.0.2](https://cran.r-project.org/package=upsetjs): 'HTMLWidget' Wrapper of 'UpSet.s' for Exploring Large Set Intersections
-  
-+ [{sketcher} 0.1.3](https://cran.r-project.org/package=sketcher): Pencil Sketch Effect
-  
-+ [{BOJ} 0.2.2](https://cran.r-project.org/package=BOJ): Interface to Bank of Japan Statistics
-  
-+ [{ROpenCVLite} 0.4.430](https://cran.r-project.org/package=ROpenCVLite): Install 'OpenCV'
++ [{cocktailApp} 0.2.3](https://cran.r-project.org/package=cocktailApp): 'shiny' App to Discover Cocktails
 
++ [{remmy} 0.1.0](https://cran.r-project.org/package=remmy): API Client for 'Lemmy'
+
++ [{colouR} 0.1.0](https://cran.r-project.org/package=colouR): Create Colour Palettes from Images
+  
++ [{badgen} 1.0.0](https://cran.r-project.org/package=badgen): Fast and Simple Badge Generator
+  
++ [{tagtools} 0.1.0](https://cran.r-project.org/package=tagtools): Work with Data from High-Resolution Biologging Tags
+  
++ [{quickcode} 0.1](https://cran.r-project.org/package=quickcode): A Compilation of Some Frequently Used R Functions
+  
++ [{bioRad} 0.7.1](https://cran.r-project.org/package=bioRad): Biological Analysis and Visualization of Weather Radar Data
+
++ [{chem16S} 1.0.0](https://cran.r-project.org/package=chem16S): Chemical Metrics of Community Reference Proteomes
+
++ [{AtlasMaker} 0.1.0](https://cran.r-project.org/package=AtlasMaker): Make Multiple 'leaflet' Maps in 'Shiny'
+  
++ [{ediblecity} 0.2.1](https://cran.r-project.org/package=ediblecity): Modeling Urban Agriculture at City Scale
 
 **GitHub or Bitbucket**
 
@@ -80,6 +83,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
   
 + [{viridis} 0.6.4](https://cran.r-project.org/package=viridis): Colorblind-Friendly Color Maps for R - [diffify](https://diffify.com/R/viridis)
   
+  <img width="871" alt="Screenshot 2023-07-26 at 07 04 54" src="https://github.com/rweekly/rweekly.org/assets/53487593/4c62488e-6b51-44e1-922b-ab98f2bdd0b0">
+
 + [{hypothesis} 1.1.0](https://cran.r-project.org/package=hypothesis): Wrapper for 'hypothes.is' - [diffify](https://diffify.com/R/hypothesis)
   
 + [{seriation} 1.5.1](https://cran.r-project.org/package=seriation): Infrastructure for Ordering Objects Using Seriation - [diffify](https://diffify.com/R/seriation)
@@ -173,6 +178,9 @@ and 'RPubs' - [diffify](https://diffify.com/R/rsconnect)
 + [Stacked line chart with inline labels](https://r-graph-gallery.com/web-stacked-area-chart-inline-labels.html)
 
 + [Jazz up your ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
+  
+  <img width="697" alt="Screenshot 2023-07-26 at 06 54 04" src="https://r-graph-gallery.com/img/fromTheWeb/web-stacked-area-chart-inline-labels.png">
+  
 
 + [Tips for debugging and cleaning broken code](https://datavizs23.classes.andrewheiss.com/news/2023-07-05_messy-broken-code-tips.html)
 
