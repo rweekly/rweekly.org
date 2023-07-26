@@ -10,13 +10,13 @@ image: https://rweekly.org/public/facebook.png
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
 
-### Draft
-
-
-
 ### Highlight
 
++ [Jazz up your ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
 
++ [Tips for debugging and cleaning broken code](https://datavizs23.classes.andrewheiss.com/news/2023-07-05_messy-broken-code-tips.html)
+
++ [Four reasons to learn HTML + CSS as an R programmer](https://albert-rapp.de/posts/16_html_css_for_r/16_html_css_for_r.html)
 
 
 ### Insights
