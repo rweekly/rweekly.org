@@ -45,10 +45,27 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
-
-**Bioconductor**
-
++ [{newscatcheR} 0.0.1](https://cran.r-project.org/package=newscatcheR): Programmatically Collect Normalized News from (Almost) Any Website
+  
++ [{genius} 2.2.2](https://cran.r-project.org/package=genius): Easily Access Song Lyrics from Genius.com
+  
++ [{almanac} 0.1.0](https://cran.r-project.org/package=almanac): Tools for Working with Recurrence Rules
+  
++ [{tidylo} 0.1.0](https://cran.r-project.org/package=tidylo): Weighted Tidy Log Odds Ratio
+  
++ [{nombre} 0.1.0](https://cran.r-project.org/package=nombre): Number Names
+  
++ [{nhlapi} 0.1.2](https://cran.r-project.org/package=nhlapi): A Minimum-Dependency 'R' Interface to the 'NHL' API
+  
++ [{applicable} 0.0.1](https://cran.r-project.org/package=applicable): A Compilation of Applicability Domain Methods
+  
++ [{upsetjs} 1.0.2](https://cran.r-project.org/package=upsetjs): 'HTMLWidget' Wrapper of 'UpSet.s' for Exploring Large Set Intersections
+  
++ [{sketcher} 0.1.3](https://cran.r-project.org/package=sketcher): Pencil Sketch Effect
+  
++ [{BOJ} 0.2.2](https://cran.r-project.org/package=BOJ): Interface to Bank of Japan Statistics
+  
++ [{ROpenCVLite} 0.4.430](https://cran.r-project.org/package=ROpenCVLite): Install 'OpenCV'
 
 
 **GitHub or Bitbucket**
@@ -58,6 +75,71 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{igraph} 1.5.0.1](https://cran.r-project.org/package=igraph): Network Analysis and Visualization - [diffify](https://diffify.com/R/igraph)
+  
++ [{viridis} 0.6.4](https://cran.r-project.org/package=viridis): Colorblind-Friendly Color Maps for R - [diffify](https://diffify.com/R/viridis)
+  
++ [{hypothesis} 1.1.0](https://cran.r-project.org/package=hypothesis): Wrapper for 'hypothes.is' - [diffify](https://diffify.com/R/hypothesis)
+  
++ [{seriation} 1.5.1](https://cran.r-project.org/package=seriation): Infrastructure for Ordering Objects Using Seriation - [diffify](https://diffify.com/R/seriation)
+
++ [{rsconnect} 1.0.1](https://cran.r-project.org/package=rsconnect): Deploy Docs, Apps, and APIs to 'Posit Connect', 'shinyapps.io',
+and 'RPubs' - [diffify](https://diffify.com/R/rsconnect)
+
++ [{snowquery} 1.0.0](https://cran.r-project.org/package=snowquery): Query 'Snowflake' Databases with 'SQL' - [diffify](https://diffify.com/R/snowquery)
+
++ [{spatstat.geom} 3.2-4](https://cran.r-project.org/package=spatstat.geom): Geometrical Functionality of the 'spatstat' Family - [diffify](https://diffify.com/R/spatstat.geom)
+  
++ [{text2speech} 1.0.0](https://cran.r-project.org/package=text2speech): Text to Speech Conversion - [diffify]
+  
++ [{pkgdepends} 0.6.0](https://cran.r-project.org/package=pkgdepends): Package Dependency Resolution and Downloads - [diffify](https://diffify.com/R/pkgdepends)
+
++ [{arrow} 12.0.1.1](https://cran.r-project.org/package=arrow): Integration to 'Apache' 'Arrow' - [diffify](https://diffify.com/R/arrow)
+
++ [{RNiftyReg} 2.8.1](https://cran.r-project.org/package=RNiftyReg): Image Registration Using the 'NiftyReg' Library - [diffify](https://diffify.com/R/RNiftyReg)
+
++ [{remotes} 2.4.2.1](https://cran.r-project.org/package=remotes): R Package Installation from Remote Repositories, Including
+'GitHub' - [diffify](https://diffify.com/R/remotes)
+
++ [{rstantools} 2.3.1.1](https://cran.r-project.org/package=rstantools): Tools for Developing R Packages Interfacing with 'Stan' - [diffify](https://diffify.com/R/rstantools)
+  
++ [{V8} 4.3.3](https://cran.r-project.org/package=V8): Embedded JavaScript and WebAssembly Engine for R - [diffify](https://diffify.com/R/V8)
+
++ [{promor} 0.2.1](https://cran.r-project.org/package=promor): Proteomics Data Analysis and Modeling Tools - [diffify](https://diffify.com/R/promor)
+  
++ [{onmaRg} 1.0.3](https://cran.r-project.org/package=onmaRg): Import Public Health Ontario's Ontario Marginalization Index - [diffify]
+  
++ [{simmer.plot} 0.1.18](https://cran.r-project.org/package=simmer.plot): Plotting Methods for 'simmer' - [diffify](https://diffify.com/R/simmer.plot)
+
++ [{cargo} 0.4.9](https://cran.r-project.org/package=cargo): Develop R Packages using Rust - [diffify](https://diffify.com/R/cargo)
+
++ [{Rfast2} 0.1.5](https://cran.r-project.org/package=Rfast2): A Collection of Efficient and Extremely Fast R Functions II - [diffify](https://diffify.com/R/Rfast2)
+
++ [{vvtableau} 0.2.0](https://cran.r-project.org/package=vvtableau): R Interface for 'Tableau' Services - [diffify](https://diffify.com/R/vvtableau)
+  
++ [{polyglotr} 1.2.0](https://cran.r-project.org/package=polyglotr): Translate Text - [diffify](https://diffify.com/R/polyglotr)
+
++ [{nrba} 0.2.0](https://cran.r-project.org/package=nrba): Methods for Conducting Nonresponse Bias Analysis (NRBA) - [diffify](https://diffify.com/R/nrba)
+  
++ [{r2dictionary} 0.2](https://cran.r-project.org/package=r2dictionary): A Mini-Dictionary for 'R', 'Shiny' and 'Rmarkdown' Documents - [diffify](https://diffify.com/R/r2dictionary)
+
++ [{ctrdata} 1.14.0](https://cran.r-project.org/package=ctrdata): Retrieve and Analyze Clinical Trials in Public Registers - [diffify](https://diffify.com/R/ctrdata)
+
++ [{APackOfTheClones} 0.1.3](https://cran.r-project.org/package=APackOfTheClones): Visualization of T-Cell Clonal Expansion - [diffify](https://diffify.com/R/APackOfTheClones)
+
++ [{ravetools} 0.1.2](https://cran.r-project.org/package=ravetools): Signal and Image Processing Toolbox for Analyzing Intracranial
+'Electroencephalography' Data - [diffify](https://diffify.com/R/ravetools)
+
++ [{onbrand} 1.0.3](https://cran.r-project.org/package=onbrand): Templated Reporting Workflows in Word and PowerPoint - [diffify](https://diffify.com/R/onbrand)
+  
++ [{ggpp} 0.5.3](https://cran.r-project.org/package=ggpp): Grammar Extensions to 'ggplot2' - [diffify](https://diffify.com/R/ggpp)
+
++ [{meteor} 0.4-5](https://cran.r-project.org/package=meteor): Meteorological Data Manipulation - [diffify](https://diffify.com/R/meteor)
+  
++ [{AMR} 2.1.0](https://cran.r-project.org/package=AMR): Antimicrobial Resistance Data Analysis - [diffify](https://diffify.com/R/AMR)
+
++ [{move2} 0.2.2](https://cran.r-project.org/package=move2): Processing and Analysing Animal Trajectories - [diffify](https://diffify.com/R/move2)
 
 ### Videos and Podcasts
 
@@ -137,7 +219,10 @@ Events in 3 Months:
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
-### rtistry
-
 
 ### Quotes of the Week
+
+<img width="576" alt="Screenshot 2023-07-26 at 06 42 23" src="https://github.com/rweekly/rweekly.org/assets/53487593/282e4689-5e77-4a19-9c5b-a60eb963b9d4">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No matter how long I’ve been doing data science, I still get smacked in the face every once in a while. <br><br>True story. 🧵<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://t.co/Sl918tryf0">pic.twitter.com/Sl918tryf0</a></p>&mdash; Matt Dancho (Business Science) (@mdancho84) <a href="https://twitter.com/mdancho84/status/1682743630778322944?ref_src=twsrc%5Etfw">July 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
