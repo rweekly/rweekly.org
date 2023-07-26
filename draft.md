@@ -23,8 +23,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [Four reasons to learn HTML + CSS as an R programmer](https://albert-rapp.de/posts/16_html_css_for_r/16_html_css_for_r.html)
 
-+ [Probabilistic forecasting for the FIFA Women's World Cup 2023](https://www.zeileis.org/news/fifawomen2023/)
-
 + [qlcal 0.0.7 on CRAN: QuantLib 1.31 Updates](http://dirk.eddelbuettel.com/blog/2023/07/19#qlcal-r_0.0.7)
 
 + [Q2 2023 tidymodels digest](https://www.tidyverse.org/blog/2023/07/tidymodels-2023-q2/)
@@ -32,14 +30,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
-
-### R in Organizations
-
-
-
-### R in Academia
-
++ [Probabilistic forecasting for the FIFA Women's World Cup 2023](https://www.zeileis.org/news/fifawomen2023/)
 
 
 ### Resources
@@ -94,17 +85,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [An easy way to style your Quarto docs without knowing HTML & CSS](https://youtu.be/QU8wSya-Y9E)
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ### Tutorials
 
@@ -151,11 +131,6 @@ Events in 3 Months:
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 + [posit::conf(2023) (formerly rstudio::conf) - September 17-20, 2023](https://posit.co/conference/)
-
-### Grants & Funding
-
-
-### Datasets
 
 
 ### Jobs
