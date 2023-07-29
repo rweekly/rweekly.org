@@ -79,6 +79,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Tutorials
 
 + [The Old Faithful Geyser Data shiny app with webR, Bootstrap & ExpressJS](https://colinfay.me/old-faithful-express-bootstrap-webr/)
++ [The ultimate practical guide to conjoint analysis with R](https://www.andrewheiss.com/blog/2023/07/25/conjoint-bayesian-frequentist-guide/): Learn how to use R, {brms}, and {marginaleffects} to analyze conjoint data and find causal and descriptive quantities of interest, both frequentistly and Bayesianly
++ [How to fill maps with density gradients with R, {ggplot2}, and {sf}](https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/): Fix overplotted points on maps by creating bins or filled desntiy gradients using R, {ggplot2}, and {sf} 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
