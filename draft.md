@@ -23,6 +23,10 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [AB tests and repeated checks](https://vgherard.github.io/posts/2023-07-24-ab-tests-and-repeated-checks)
 
++ [Improving code reproducibility: Small steps with big impacts](https://ecoevocommunity.nature.com/posts/improving-code-reproducibility-small-steps-with-big-impacts)
+
++ [A tale of two data analysis workflows](https://hkarlsen.rbind.io/blog/data-workflow/)
+
 ### R in the Real World
 
 + [Understanding the Effect of Subsidies on Agriculture with Neural Networks](https://datageeek.com/2023/07/26/understanding-the-effect-of-subsidies-on-agriculture-with-bagged-neural-networks/)
@@ -36,11 +40,11 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [Use of R in Non-Profit Social Policy Research in New York](https://www.r-consortium.org/blog/2023/07/24/use-of-r-in-non-profit-social-policy-research-in-new-york)
 
-### R in Academia
-
-
-
 ### Resources
+
++ [Best Practices for Data Visualisation - Royal Statistical Society](https://royal-statistical-society.github.io/datavisguide/)
+
++ [Annotated equations in ggplot2 - Importing latex into ggplot2 ](https://wjschne.github.io/posts/2023-07-23-latex-equation-in-ggplot2/)
 
 + [#41: Another r2u Example – Really Simple CI](http://dirk.eddelbuettel.com/blog/2023/07/23#041_simpler_ci_via_r2u)
 
@@ -76,18 +80,9 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [SatRdays London 2023 - YouTube Playlist](https://www.youtube.com/playlist?list=PLbARZQfpqIKLNjt5NnVQ1RgEKeayVVv6G)
 
++ [Building reproducible analytical pipelines with R at ReproTea](https://www.youtube.com/watch?v=zs6LtT0PavM)
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
++ [Bringing the {tidyverse} to Julia](https://www.youtube.com/watch?v=imZE2k7gJ0Q&t=12664s)
 
 ### Tutorials
 
@@ -102,10 +97,6 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 + [Reducing my for loop usage with purrr::reduce()](https://masalmon.eu/2023/07/26/reduce/)
 
 + [Binning in R: Create Bins of Continuous Variables](https://www.marsja.se/binning-in-r-create-bins-continuous/)
-
-+ [How to Create a Word Cloud in R](https://www.marsja.se/how-to-create-a-word-cloud-in-r/)
-
-+ [The intersect() function in R](https://www.spsanderson.com/steveondata/posts/2023-07-28/index.html)
 
 + [Unraveling Data Insights with R’s fivenum(): A Programmer’s Guide](https://www.spsanderson.com/steveondata/posts/2023-07-25/index.html)
 
@@ -128,17 +119,18 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ### rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Two different charts for <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a> this week! An infographic style chart and a more traditional plot! Which one do you prefer?<br><br>Although this dataset was small (12 x 8 observations), it&#39;s the perfect chance to find creative ways to visualise the data!<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/DataViz?src=hash&amp;ref_src=twsrc%5Etfw">#DataViz</a> <a href="https://twitter.com/hashtag/R4DS?src=hash&amp;ref_src=twsrc%5Etfw">#R4DS</a> <a href="https://t.co/0ZaXPCP5mM">pic.twitter.com/0ZaXPCP5mM</a></p>&mdash; Nicola Rennie | @nrennie@fosstodon.org (@nrennie35) <a href="https://twitter.com/nrennie35/status/1683752154706706432?ref_src=twsrc%5Etfw">July 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I kept it simple on this <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a> on scurvy.<br>🌊🤢🍋😆<br><br>I made a {gt} table in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> showing the results of one of the first controlled clinical trials ever. The treatments were very wild back then! <a href="https://t.co/zvqhWJlgSJ">pic.twitter.com/zvqhWJlgSJ</a></p>&mdash; Ícaro Bernardes (@IcaroBSC) <a href="https://twitter.com/IcaroBSC/status/1684354411730960384?ref_src=twsrc%5Etfw">July 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yesterday, I found out that <a href="https://twitter.com/Spotify?ref_src=twsrc%5Etfw">@Spotify</a> has an API. To celebrate the tickets I got for next year but mostly to procrastinate, I made a &quot;joyplot&quot; and &quot;danceplot&quot; of <a href="https://twitter.com/taylorswift13?ref_src=twsrc%5Etfw">@taylorswift13</a> studio album&#39;s (Taylor&#39;s versions only of course!) <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/rstudio?src=hash&amp;ref_src=twsrc%5Etfw">#rstudio</a> 1/4 <a href="https://t.co/6f5E3UZ1sQ">pic.twitter.com/6f5E3UZ1sQ</a></p>&mdash; Luis Sattelmayer (@luissattelmayer) <a href="https://twitter.com/luissattelmayer/status/1685276738102636545?ref_src=twsrc%5Etfw">July 29, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<iframe src="https://fosstodon.org/@hadleywickham/110754318144118436/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
