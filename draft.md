@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: R Weekly 2023-W31
-description: Draft of the R Weekly
+description: purrr reduce, density gradient map, ggplot2 social media icons
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -14,10 +14,13 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 ### Highlight
 
++ [Reducing my for loop usage with purrr::reduce()](https://masalmon.eu/2023/07/26/reduce/)
 
++ [How to fill maps with density gradients with R, {ggplot2}, and {sf}](https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/)
+
++ [Adding social media icons to charts with {ggplot2}](https://nrennie.rbind.io/blog/adding-social-media-icons-ggplot2/)
 
 ### Insights
-
 
 + [Three useful (to me) R notions](https://masalmon.eu/2023/07/24/basic-notions/)
 
@@ -27,9 +30,13 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [A tale of two data analysis workflows](https://hkarlsen.rbind.io/blog/data-workflow/)
 
++ [New datasets and better docs in {gt} 0.9.0 ](https://posit.co/blog/new-datasets-and-better-docs-in-gt-0-9-0/)
+
 ### R in the Real World
 
 + [Understanding the Effect of Subsidies on Agriculture with Neural Networks](https://datageeek.com/2023/07/26/understanding-the-effect-of-subsidies-on-agriculture-with-bagged-neural-networks/)
+
+![crops](https://raw.githubusercontent.com/rweekly/image/master/2023/W31/crops.png)
 
 + [Mr. Mastodon Farm: analysing a mastodon ActivityPub outbox.json file](https://quantixed.org/2023/07/29/mr-mastodon-farm-analysing-a-mastodon-activitypub-outbox-json-file/)
 
@@ -40,11 +47,15 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [Use of R in Non-Profit Social Policy Research in New York](https://www.r-consortium.org/blog/2023/07/24/use-of-r-in-non-profit-social-policy-research-in-new-york)
 
++ [Standardizing access & ensuring consistent data in data products (using FastAPI and Posit Team)](https://posit.co/blog/fast-api-posit-team-demo/)
+
 ### Resources
 
 + [Best Practices for Data Visualisation - Royal Statistical Society](https://royal-statistical-society.github.io/datavisguide/)
 
-+ [Annotated equations in ggplot2 - Importing latex into ggplot2 ](https://wjschne.github.io/posts/2023-07-23-latex-equation-in-ggplot2/)
++ [Annotated equations in ggplot2 - Importing latex into ggplot2](https://wjschne.github.io/posts/2023-07-23-latex-equation-in-ggplot2/)
+
+![annotated ggplot2 equations](https://raw.githubusercontent.com/rweekly/image/master/2023/W31/annotated-equation.png)
 
 + [#41: Another r2u Example – Really Simple CI](http://dirk.eddelbuettel.com/blog/2023/07/23#041_simpler_ci_via_r2u)
 
@@ -56,21 +67,18 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 **CRAN**
 
-
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
++ [{BET} 0.5.2](https://cran.r-project.org/package=BET): Binary Expansion Testingrelation
+Coefficient (CCC)
++ [{MultiClassROC} 0.1.0](https://cran.r-project.org/package=MultiClassROC): ROC Curves for Multi-Class Analysis
++ [{GDPuc} 0.11.1](https://cran.r-project.org/package=GDPuc): Easily Convert GDP Data
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [{mirai} 0.9.1](https://cran.r-project.org/package=mirai): Lightweight parallel code execution and distributed computing - adds TLS support for remote connections.
++ [{svd} 0.5.4.1](https://cran.r-project.org/package=svd): Interfaces to Various State-of-Art SVD and Eigensolvers - [diffify](https://diffify.com/R/svd)
++ [{igraph} 1.5.0.1](https://cran.r-project.org/package=igraph): Network Analysis and Visualization - [diffify](https://diffify.com/R/igraph)
 
 ### Videos and Podcasts
 
@@ -88,9 +96,13 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [The Old Faithful Geyser Data shiny app with webR, Bootstrap & ExpressJS](https://colinfay.me/old-faithful-express-bootstrap-webr/)
 
-+ [The ultimate practical guide to conjoint analysis with R](https://www.andrewheiss.com/blog/2023/07/25/conjoint-bayesian-frequentist-guide/): Learn how to use R, {brms}, and {marginaleffects} to analyze conjoint data and find causal and descriptive quantities of interest, both frequentistly and Bayesianly
++ [The ultimate practical guide to conjoint analysis with R](https://www.andrewheiss.com/blog/2023/07/25/conjoint-bayesian-frequentist-guide/)
 
-+ [How to fill maps with density gradients with R, {ggplot2}, and {sf}](https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/): Fix overplotted points on maps by creating bins or filled desntiy gradients using R, {ggplot2}, and {sf} 
+![conjoint-bayes](https://raw.githubusercontent.com/rweekly/image/master/2023/W31/conjoint-bayes.png)
+
++ [How to fill maps with density gradients with R, {ggplot2}, and {sf}](https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/)
+
+![gradient-maps](https://raw.githubusercontent.com/rweekly/image/master/2023/W31/gradient-maps.png)
 
 + [Adding social media icons to charts with {ggplot2}](https://nrennie.rbind.io/blog/adding-social-media-icons-ggplot2/)
 
@@ -118,8 +130,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
-
-### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
