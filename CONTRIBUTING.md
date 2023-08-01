@@ -22,7 +22,7 @@ In order to post more relevant content under each section, members/contributors 
 
 ## Tutorials
 
-[Reproducible data science with Nix, part 3 -- frictionless {plumber} api deployments with Nix](https://www.brodrigues.co/blog/2023-07-30-nix_for_r_part3/)
+R tutorials for how to use certain packages and tools (usually code is embedded).
 
 ## Insights
 
