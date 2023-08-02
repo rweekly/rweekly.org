@@ -51,6 +51,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
+* [{tidypolars}](https://github.com/etiennebacher/tidypolars): Get the functionalities of Polars with the syntax of the tidyverse
 
 
 ### Updated Packages
