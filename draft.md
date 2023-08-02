@@ -78,6 +78,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Using webR in an Express JS REST API](https://colinfay.me/calling-webr-from-expressjs/)
 
++ [Using flexdashboard to create a GitHub Actions-powered YouTube feed](https://ivelasq.rbind.io/blog/automated-youtube-dashboard/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ###  R Project Updates
