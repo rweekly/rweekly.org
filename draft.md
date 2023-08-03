@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [Cookbook Polars for R](https://github.com/ddotta/cookbook-rpolars) Cookbook to provide solutions to common tasks and problems in using Polars with R. A side-by-side comparison of polars, R base, dplyr, tidyr and data.table packages.  
 
 ### New Packages
 
