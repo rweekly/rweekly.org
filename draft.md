@@ -102,8 +102,6 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [My Life with the R-universe](https://ropensci.org/blog/2023/08/01/r-universe-and-cran/)
 
-+ [Using flexdashboard to create a GitHub Actions-powered YouTube feed](https://compassionate-benz-9a12b2.netlify.app/blog/automated-youtube-dashboard/index.html)
-
 + [Using GWalkR to create an interactive exploratory data analysis window similar to Tableau](https://lsinks.github.io/posts/2023-08-01-tidytuesday-US-states/states.html)
 
 + [It’s the interactions](https://lorentzen.ch/index.php/2023/08/01/its-the-interactions/)
