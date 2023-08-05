@@ -9,8 +9,6 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder), with help from the R Weekly team members and contributors.
 
-
-
 ### Highlight
 
 
@@ -19,19 +17,7 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [R-Ladies Morelia, Mexico, hosts First Anniversary Event on July 31, 2023](https://www.r-consortium.org/events/2023/07/31/r-ladies-morelia-mexico-hosts-first-anniversary-event-on-july-31-2023)
 
-### R in the Real World
-
-
-
-### R in Organizations
-
-+ [R Support for Data Science Notebook Tools](https://lukas-r.blog/posts/2023-07-29-r-support-for-data-science-notebook-tools/)
-
 + [rOpenSci Champions Pilot Year: Training Wrap-Up](https://ropensci.org/blog/2023/08/04/champions-program-training/)
-
-### R in Academia
-
-
 
 ### Resources
 
@@ -43,16 +29,7 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
-**CRAN**
-
-
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
+**GitHub**
 
 + [{tidypolars} 0.0.0.9000](https://github.com/etiennebacher/tidypolars): Get the functionalities of Polars with the syntax of the tidyverse
 
@@ -65,8 +42,6 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
-
-
 
 ### Videos and Podcasts
 
@@ -86,10 +61,6 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [Building Serverless Shiny Apps with webR: A Step-by-Step Guide](https://hypebright.nl/index.php/en/2023/07/25/building-serverless-shiny-apps-with-webr-a-step-by-step-guide/)
 
-### R Internationally
-
-
-
 ### Tutorials
 
 + [Reproducible data science with Nix, part 3 -- frictionless {plumber} api deployments with Nix](https://www.brodrigues.co/blog/2023-07-30-nix_for_r_part3/)
@@ -99,6 +70,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 + [Using flexdashboard to create a GitHub Actions-powered YouTube feed](https://ivelasq.rbind.io/blog/automated-youtube-dashboard/)
 
 ![Using flexdashboard to create a GitHub Actions-powered YouTube feed](https://raw.githubusercontent.com/rweekly/image/master/2023/W32/youtube.png)
+
++ [R Support for Data Science Notebook Tools](https://lukas-r.blog/posts/2023-07-29-r-support-for-data-science-notebook-tools/)
 
 + [Ensure R Language Reproducibility with dateback Package](https://r4stats.com/2023/08/01/ensure-r-language-reproducibility-with-dateback-package/)
 
@@ -118,7 +91,7 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [Comfy keyboard shortcuts for RStudio](https://jimgar.github.io/posts/rstudio-keyboard-shortcuts/post.html)
 
-+ [3MW (Fix your plot size before you export it)](https://alberts-newsletter.beehiiv.com/p/fix-ggplot-size)
++ [Fix your plot size before you export it](https://alberts-newsletter.beehiiv.com/p/fix-ggplot-size)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
