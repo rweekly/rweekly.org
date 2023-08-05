@@ -26,7 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
-
++ [R Support for Data Science Notebook Tools](https://lukas-r.blog/posts/2023-07-29-r-support-for-data-science-notebook-tools/)
 
 ### R in Academia
 
