@@ -79,6 +79,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Reproducible data science with Nix, part 3 -- frictionless {plumber} api deployments with Nix](https://www.brodrigues.co/blog/2023-07-30-nix_for_r_part3/)
 
++ [Using flexdashboard to create a GitHub Actions-powered YouTube feed](https://ivelasq.rbind.io/blog/automated-youtube-dashboard/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
