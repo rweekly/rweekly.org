@@ -58,6 +58,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [{ThemePark} 0.0.0.9000](https://github.com/MatthewBJane/theme_park): Themes for 'ggplot2' from Popular Culture
 
+![{ThemePark} 0.0.0.9000](https://raw.githubusercontent.com/rweekly/image/master/2023/W32/themepark.png)
+
 + [{greenR} 0.0.0.9000](https://github.com/sachit27/greenR): Green Index Quantification, Analysis and Visualization
 
 ### Updated Packages
@@ -96,6 +98,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 
 + [Using flexdashboard to create a GitHub Actions-powered YouTube feed](https://ivelasq.rbind.io/blog/automated-youtube-dashboard/)
 
+![Using flexdashboard to create a GitHub Actions-powered YouTube feed](https://raw.githubusercontent.com/rweekly/image/master/2023/W32/youtube.png)
+
 + [Ensure R Language Reproducibility with dateback Package](https://r4stats.com/2023/08/01/ensure-r-language-reproducibility-with-dateback-package/)
 
 + [Introduction to vvtableau](https://vusaverse.github.io/posts/vvtableau.html)
@@ -107,6 +111,8 @@ This week’s release was curated by [Jon Calder](https://twitter.com/jonmcalder
 + [It’s the interactions](https://lorentzen.ch/index.php/2023/08/01/its-the-interactions/)
 
 + [Plotting a COVID-19 vaccination map with different projections (with updated versions of canadamaps and tintin)](https://pacha.dev/blog/2023/08/02/canadamaps-tintin/index.html)
+
+![Plotting a COVID-19 vaccination map with different projections (with updated versions of canadamaps and tintin)](https://raw.githubusercontent.com/rweekly/image/master/2023/W32/tintin.png)
 
 + [Exploring R’s Versatile str() Function: Unraveling Your Data with Ease!](https://www.spsanderson.com/steveondata/posts/2023-08-04/index.html)
 
