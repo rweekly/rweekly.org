@@ -76,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Land to water surface ratios in U.S. states](https://jonathankitt.netlify.app/posts/2023-08-04-tt-us/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
