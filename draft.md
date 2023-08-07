@@ -21,7 +21,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+* [readODS 2.0.0](https://chainsawriot.com/postmannheim/2023/08/06/readods2.html)
 
 ### R in Organizations
 
