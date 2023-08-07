@@ -33,7 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [Telling Stories with Data](https://tellingstorieswithdata.com)
 
 ### New Packages
 
