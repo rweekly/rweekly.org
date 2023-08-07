@@ -78,6 +78,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Shiny for R updates: tooltips, popovers, a new theme, and more](https://shiny.posit.co/blog/posts/bslib-tooltips/)
 
++ [Land to water surface ratios in U.S. states](https://jonathankitt.netlify.app/posts/2023-08-04-tt-us/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
