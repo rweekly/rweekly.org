@@ -17,7 +17,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [A long digression about the word 'vector'](https://www.mm218.dev/posts/2023-08-07-vector/)
 
 ### R in the Real World
 
