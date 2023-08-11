@@ -56,7 +56,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{nanonext} 0.9.2](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library
 
++ [{mirai.promises} 0.1.2](https://cran.r-project.org/package=mirai.promises): Make 'Mirai' 'Promises'
+
++ [{ichimoku} 1.4.7](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
 
 ### Videos and Podcasts
 
