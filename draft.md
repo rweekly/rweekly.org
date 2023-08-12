@@ -7,9 +7,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
-
+This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_Ryo), with help from the R Weekly team members and contributors.
 
 ### Highlight
 
@@ -19,21 +17,35 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [A long digression about the word 'vector'](https://www.mm218.dev/posts/2023-08-07-vector/)
 
++ [She issued install.packages() -- you won't believe what happened next!](https://kupac.gitlab.io/biofunctor/2023/08/01/nix-for-r-intro/)
+
++ [New Executive Director Position Created at R Consortium](https://www.r-consortium.org/blog/2023/08/07/new-executive-director-position-created-at-r-consortium)
+
 ### R in the Real World
 
 * [readODS 2.0.0](https://chainsawriot.com/postmannheim/2023/08/06/readods2.html)
 
++ [Model life tables](http://freerangestats.info/blog/2023/08/06/model-life-tables)
+
 ### R in Organizations
 
-
++ [How to use UNHCR’s {refugees} R package](https://www.unhcr.org/refugee-statistics/insights/explainers/refugees-r-package.html)
 
 ### R in Academia
 
++ [Enrollments open: An Introduction to R for Policy Analysis](https://www.gilesd-j.com/2023/08/07/enrollments-open-an-introduction-to-r-for-policy-analysis/)
 
++ [Multi-step Estimators and Shrinkage Effect in Time Series Models](https://forecasting.svetunkov.ru/en/2023/08/09/multi-step-estimators-and-shrinkage-effect-in-time-series-models/)
+
++ [ggcoverage: an R package to visualize and annotate genome coverage for various NGS data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05438-2)
 
 ### Resources
 
 + [Telling Stories with Data](https://tellingstorieswithdata.com)
+
++ [R for Ecology: Online courses and resources on learning R for ecology](https://linktr.ee/rforecology)
+
++ [Tutorials for Tidy Modeling with R](https://github.com/PPBDS/tidymodels.tutorials)
 
 ### New Packages
 
@@ -42,25 +54,79 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
-
-**Bioconductor**
-
-
++ [{regressinator} 0.1.2](https://cran.r-project.org/package=regressinator): Simulate and Diagnose (Generalized) Linear Models
++ [{ecoregime} 0.1.2](https://cran.r-project.org/package=ecoregime): Analysis of Ecological Dynamic Regimes
++ [{HealthCal} 0.1.0](https://cran.r-project.org/package=HealthCal): Health Calculator
++ [{chatAI4R} 0.0.11](https://cran.r-project.org/package=chatAI4R): Chat-Based Interactive Artificial Intelligence for R
++ [{CFtime} 1.0.0](https://cran.r-project.org/package=CFtime): Using CF-Compliant Calendars with Climate Projection Data
++ [{instantiate} 0.0.2](https://cran.r-project.org/package=instantiate): Pre-Compiled 'CmdStan' Models in R Packages
++ [{DRquality} 0.2.0](https://cran.r-project.org/package=DRquality): Quality Measurements for Dimensionality Reduction
++ [{binomCI} 1.0](https://cran.r-project.org/package=binomCI): Confidence Intervals for a Binomial Proportion
++ [{ineptR} 0.1.0](https://cran.r-project.org/package=ineptR): Wrapper for Statistics Portugal API
++ [{windows.pls} 0.1.0](https://cran.r-project.org/package=windows.pls): Segmentation Approaches in Chemometrics
++ [{duckdbfs} 0.0.1](https://cran.r-project.org/package=duckdbfs): High Performance Remote File System Access Using 'duckdb'
++ [{rprofile} 0.2.0](https://cran.r-project.org/package=rprofile): Load Both User-Global and Project-Specific R Profile
+Configurations
++ [{s3} 1.0.0](https://cran.r-project.org/package=s3): Download Files from 'AWS S3'
++ [{suggests} 0.1.0](https://cran.r-project.org/package=suggests): Declare when Suggested Packages are Needed
 
 **GitHub or Bitbucket**
 
-
++ [{duckdbfs} 0.0.1](https://github.com/cboettig/duckdbfs): Simple wrappers for duckdb to open local and remote filesystems.
++ [{geocausal} 0.1.0](https://github.com/mmukaigawara/geocausal): Causal inference with spatio-temporal data in R.
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [{nanonext} 0.9.2](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library
-
 + [{mirai.promises} 0.1.2](https://cran.r-project.org/package=mirai.promises): Make 'Mirai' 'Promises'
-
 + [{ichimoku} 1.4.7](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
++ [{GFM} 1.2.1](https://cran.r-project.org/package=GFM): Generalized Factor Model - [diffify](https://diffify.com/R/GFM)
++ [{stars} 0.6-3](https://cran.r-project.org/package=stars): Spatiotemporal Arrays, Raster and Vector Data Cubes - [diffify](https://diffify.com/R/stars)
++ [{options} 0.0.2](https://cran.r-project.org/package=options): Simple mechanisms for defining and interpreting package options. Provides helpers for interpreting environment variables, global options, defining default values and more. - [diffify](https://diffify.com/R/options)
++ [{recipes} 1.0.7](https://cran.r-project.org/package=recipes): Preprocessing and Feature Engineering Steps for Modeling - [diffify](https://diffify.com/R/recipes)
++ [{osmextract} 0.5.0](https://cran.r-project.org/package=osmextract): Download and Import Open Street Map Data Extracts - [diffify](https://diffify.com/R/osmextract)
++ [{htmltools} 0.5.6](https://cran.r-project.org/package=htmltools): Tools for HTML - [diffify](https://diffify.com/R/htmltools)
++ [{progressr} 0.14.0](https://cran.r-project.org/package=progressr): An Inclusive, Unifying API for Progress Updates - [diffify](https://diffify.com/R/progressr)
++ [{targets} 1.2.2](https://cran.r-project.org/package=targets): Dynamic Function-Oriented 'Make'-Like Declarative Pipelines - [diffify](https://diffify.com/R/targets)
++ [{renv} 1.0.1](https://cran.r-project.org/package=renv): Project Environments - [diffify](https://diffify.com/R/renv)
++ [{promises} 1.2.1](https://cran.r-project.org/package=promises): Abstractions for Promise-Based Asynchronous Programming - [diffify](https://diffify.com/R/promises)
++ [{reticulate} 1.31](https://cran.r-project.org/package=reticulate): Interface to 'Python' - [diffify](https://diffify.com/R/reticulate)
++ [{readODS} 2.0.0](https://cran.r-project.org/package=readODS): Read and Write ODS Files - [diffify](https://diffify.com/R/readODS)
++ [{RcppArmadillo} 0.12.6.1.0](https://cran.r-project.org/package=RcppArmadillo): 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra
+Library - [diffify](https://diffify.com/R/RcppArmadillo)
++ [{purrr} 1.0.2](https://cran.r-project.org/package=purrr): Functional Programming Tools - [diffify](https://diffify.com/R/purrr)
++ [{igraph} 1.5.1](https://cran.r-project.org/package=igraph): Network Analysis and Visualization - [diffify](https://diffify.com/R/igraph)
++ [{gmapsdistance} 4.0.4](https://cran.r-project.org/package=gmapsdistance): Distance and Travel Time Between Two Points from Google Maps - [diffify](https://diffify.com/R/gmapsdistance)
++ [{glmnetr} 0.3-1](https://cran.r-project.org/package=glmnetr): Nested Cross Validation for the Relaxed Lasso and Other Machine
+Learning Models - [diffify](https://diffify.com/R/glmnetr)
++ [{jskm} 0.5.2](https://cran.r-project.org/package=jskm): Kaplan-Meier Plot with 'ggplot2' - [diffify](https://diffify.com/R/jskm)
++ [{HistData} 0.9-1](https://cran.r-project.org/package=HistData): Data Sets from the History of Statistics and Data Visualization - [diffify](https://diffify.com/R/HistData)
++ [{ggplotify} 0.1.2](https://cran.r-project.org/package=ggplotify): Convert Plot to 'grob' or 'ggplot' Object - [diffify](https://diffify.com/R/ggplotify)
++ [{ggfun} 0.1.2](https://cran.r-project.org/package=ggfun): Miscellaneous Functions for 'ggplot2' - [diffify](https://diffify.com/R/ggfun)
++ [{finnts} 0.3.0](https://cran.r-project.org/package=finnts): Microsoft Finance Time Series Forecasting Framework - [diffify](https://diffify.com/R/finnts)
++ [{dfoliatR} 0.3.0](https://cran.r-project.org/package=dfoliatR): Detection and Analysis of Insect Defoliation Signals in Tree
+Rings - [diffify](https://diffify.com/R/dfoliatR)
++ [{bayesPop} 10.0-1](https://cran.r-project.org/package=bayesPop): Probabilistic Population Projection - [diffify](https://diffify.com/R/bayesPop)
++ [{aplot} 0.2.0](https://cran.r-project.org/package=aplot): Decorate a 'ggplot' with Associated Information - [diffify](https://diffify.com/R/aplot)
++ [{tinytex} 0.46](https://cran.r-project.org/package=tinytex): Helper Functions to Install and Maintain TeX Live, and Compile
+LaTeX Documents - [diffify](https://diffify.com/R/tinytex)
++ [{bookdown} 0.35](https://cran.r-project.org/package=bookdown): Authoring Books and Technical Documents with R Markdown - [diffify](https://diffify.com/R/bookdown)
++ [{canvasXpress} 1.45.4](https://cran.r-project.org/package=canvasXpress): Visualization Package for CanvasXpress in R - [diffify](https://diffify.com/R/canvasXpress)
++ [{bruceR} 2023.8](https://cran.r-project.org/package=bruceR): Broadly Useful Convenient and Efficient R Functions - [diffify](https://diffify.com/R/bruceR)
++ [{av} 0.8.4](https://cran.r-project.org/package=av): Working with Audio and Video in R - [diffify](https://diffify.com/R/av)
++ [{yahoofinancer} 0.2.0](https://cran.r-project.org/package=yahoofinancer): Fetch Data from Yahoo Finance API - [diffify](https://diffify.com/R/yahoofinancer)
++ [{text} 1.0](https://cran.r-project.org/package=text): Analyses of Text using Transformers Models from HuggingFace,
+Natural Language Processing and Machine Learning - [diffify](https://diffify.com/R/text)
++ [{nlme} 3.1-163](https://cran.r-project.org/package=nlme): Linear and Nonlinear Mixed Effects Models - [diffify](https://diffify.com/R/nlme)
++ [{modeldata} 1.2.0](https://cran.r-project.org/package=modeldata): Data Sets Useful for Modeling Examples - [diffify](https://diffify.com/R/modeldata)
++ [{rsleep} 1.0.8](https://cran.r-project.org/package=rsleep): Analysis of Sleep Data - [diffify](https://diffify.com/R/rsleep)
++ [{h2o} 3.42.0.2](https://cran.r-project.org/package=h2o): R Interface for the 'H2O' Scalable Machine Learning Platform - [diffify](https://diffify.com/R/h2o)
++ [{pkgndep} 1.99.2](https://cran.r-project.org/package=pkgndep): Analyze Dependency Heaviness of R Packages - [diffify](https://diffify.com/R/pkgndep)
++ [{scorecard} 0.4.3](https://cran.r-project.org/package=scorecard): Credit Risk Scorecard - [diffify](https://diffify.com/R/scorecard)
+
+
 
 ### Videos and Podcasts
 
@@ -84,6 +150,23 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Land to water surface ratios in U.S. states](https://jonathankitt.netlify.app/posts/2023-08-04-tt-us/)
 
++ [What Happens If Our Model Adjustment Includes A Collider?](https://www.kenkoonwong.com/blog/collider_adjustment/)
+
++ [Drawing a tennis ball](https://laustep.github.io/stlahblog/posts/TennisBall.html)
+
++ [Mastering Data Visualization: A Guide to Harnessing the Power of R’s par() Function](https://www.spsanderson.com/steveondata/posts/2023-08-09/index.html)
+
++ [Calculating the prediction interval coverage probability (PICP)](https://r-posts.com/calculating-the-prediction-interval-coverage-probability-picp/)
+
++ [Black hole word numbers in multiple languages](https://onlinecollegemathteacher.blogspot.com/2023/08/black-hole-word-numbers-in-multiple.html)
+
++ [Flipbookr for Quarto](https://kieranhealy.org/blog/archives/2023/08/10/flipbookr-for-quarto/)
+
++ [It’s the interactions](https://lorentzen.ch/index.php/2023/08/01/its-the-interactions/)
+
++ [Wrapping C Code in an R Package](https://jcarroll.com.au/2023/08/11/wrapping-c-code-in-an-r-package/)
+
++ [If Else Statement in R (4 Examples)](https://statisticsglobe.com/if-else-statement-in-r/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -116,7 +199,14 @@ Events in 3 Months:
 
 ### rtistry
 
-
+<blockquote class="twitter-tweet"><p lang="sv" dir="ltr">data driven <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/wesanderson?src=hash&amp;ref_src=twsrc%5Etfw">#wesanderson</a> colors <br>&quot;titled : Babinga Interlude&quot;. <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> <a href="https://t.co/JegTKwwJRu">pic.twitter.com/JegTKwwJRu</a></p>&mdash; Abiyu Giday (@abiyugiday) <a href="https://twitter.com/abiyugiday/status/1690270578924498945?ref_src=twsrc%5Etfw">August 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### Quotes of the Week
+
+(Using R on mobile phone, demo)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「俺のスマホはRが動くんだぜ！」という遊び <a href="https://t.co/iTCcpoimNb">pic.twitter.com/iTCcpoimNb</a></p>&mdash; あきる (@paithiov909) <a href="https://twitter.com/paithiov909/status/1687921875618529280?ref_src=twsrc%5Etfw">August 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">lol at these names <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/8tClBdTdLr">pic.twitter.com/8tClBdTdLr</a></p>&mdash; Andrew Heiss (🐘 @andrew@fediscience.org) (@andrewheiss) <a href="https://twitter.com/andrewheiss/status/1688571311285784577?ref_src=twsrc%5Etfw">August 7, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 
