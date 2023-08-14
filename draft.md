@@ -13,7 +13,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-
++ [Analyzing new USDA data using open source tools](https://blog.ketchbrookanalytics.com/posts/2023-08-09-geoparquet-for-usda-crop-maps/geoparquet-for-usda-crop-maps)
 
 ### Insights
 
