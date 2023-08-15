@@ -39,6 +39,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+ [{happign} 0.2.0](https://cran.r-project.org/package=happign): Easy acces to IGN data (French National Geographic Institute)
+
+
 
 **CRAN**
 
