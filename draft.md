@@ -21,7 +21,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+* R performance tuning [#1](https://chainsawriot.com/postmannheim/2023/08/12/performance1.html) [#2](https://chainsawriot.com/postmannheim/2023/08/14/performance2.html) [#3](https://chainsawriot.com/postmannheim/2023/08/15/performance3.html)
 
 ### R in Organizations
 
