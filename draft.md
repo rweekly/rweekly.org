@@ -78,7 +78,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
+[Reproducible data science with Nix, part 4 -- So long, {renv} and Docker, and thanks for all the fish](https://www.brodrigues.co/blog/2023-08-12-nix_for_r_part4/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
