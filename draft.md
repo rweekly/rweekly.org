@@ -1,7 +1,6 @@
 ---
-layout: draft
-title: R Weekly 2023-W34
-description: Draft of the R Weekly
+title: R Weekly 2023-W34 Cleaning Data, Analyzing Data, and Infinite Data
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -13,6 +12,12 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### Highlight
 
++ [Best Practices for Data Cleaning and Preprocessing](https://www.jumpingrivers.com/blog/best-practices-data-cleaning-r/)
+
++ [Analyzing new USDA data using open source tools](https://blog.ketchbrookanalytics.com/posts/2023-08-09-geoparquet-for-usda-crop-maps/geoparquet-for-usda-crop-maps)
+
++ [Taking from Infinite Sequences](https://jcarroll.com.au/2023/08/18/taking-from-infinite-sequences/)
+
 
 ### Insights
 
@@ -22,6 +27,8 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [webR 0.2.0 has been released](https://www.tidyverse.org/blog/2023/08/webr-0-2-0/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W34/webr_600.png)
+
 + [Taking from Infinite Sequences](https://jcarroll.com.au/2023/08/18/taking-from-infinite-sequences/)
 + [Pythagorean Triples with Comprehensions](https://jcarroll.com.au/2023/08/13/pythagorean-triples-with-comprehensions/)
 
@@ -29,6 +36,9 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [Little useless-useful R functions – Goldbach’s conjecture and Sieve of Sundaram](https://tomaztsql.wordpress.com/2023/08/12/little-useless-useful-r-functions-goldbachs-conjecture-and-sieve-of-sundaram/)
 + [Can a Simple Multi-Agent Model Replicate Complex Stock Market Behaviour?](https://blog.ephorie.de/can-a-simple-multi-agent-model-replicate-complex-stock-market-behaviour)
 + [Copernicus OpenEO NDVI time series](https://r.iresmi.net/posts/2023/copernicus_openeo_ndvi_time_series/index.html)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W34/ndvi_600.png)
+
 + [How to Sum Rows in R: Master Summing Specific Rows with dplyr](https://www.marsja.se/how-to-sum-rows-in-r-master-summing-specific-rows-with-dplyr/)
 + [How to Check if a File is Empty in R: Practical Examples](https://www.marsja.se/how-to-check-if-a-file-is-empty-in-r-examples/)
 + [Ordinal Models for Paired Data](https://fharrell.com/post/pair/index.html)
@@ -43,17 +53,17 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [The substring() function in R](https://www.spsanderson.com/steveondata/posts/2023-08-14/index.html)
 + [pmax() and pmin(): Finding the Parallel Maximum and Minimum in R](https://www.spsanderson.com/steveondata/posts/2023-08-11/index.html)
 
++ [Tidy Tuesday: Spam mail](https://tylerburleigh.com/blog/tidy-tuesday-spam-mail/)
+
 ### R in the Real World
 
 + [From Blood to Oil: A techies perspective on how the USAAF's pragmatism destroyed the Luftwaffe, dropped the A, and yet failed on it's Grandest Ambitions](https://scweiss.blogspot.com/2023/08/blood-then-oil-techies-perspective-on.html)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W34/pilots_600.png)
+
 * R performance tuning [#1](https://chainsawriot.com/postmannheim/2023/08/12/performance1.html) [#2](https://chainsawriot.com/postmannheim/2023/08/14/performance2.html) [#3](https://chainsawriot.com/postmannheim/2023/08/15/performance3.html)
 
 + [Use R to explore the link between literacy and suicide in 1830s France](https://www.codingthepast.com/2023/08/16/Study-of-Relationships.html)
-
-### R in Organizations
-
-
 
 ### R in Academia
 
@@ -61,7 +71,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [Benchmarking Firth’s Logit: {brglm2} versus {logistf}](https://www.carlislerainey.com/blog/2023-08-11-benchmarking-firth/index.html)
 
-#### R Users
+### R Users
 
 + [Use of R for Pharma in Rosario, Argentina](https://www.r-consortium.org/blog/2023/08/16/use-of-r-for-pharma-in-rosario-argentina)
 
@@ -74,15 +84,11 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
-
 **CRAN**
 
 + [{happign} 0.2.0](https://cran.r-project.org/package=happign): Easy acces to IGN data (French National Geographic Institute)
 
 + [{shiny.emptystate} 0.1.0](https://cran.r-project.org/package=shiny.emptystate): Empty State Components for 'Shiny' ([post](https://appsilon.com/shiny-emptystate-for-shiny-apps/))
-
-+ [{yyjsonr} 0.1.1](https://coolbutuseless.github.io/package/yyjsonr/index.html)
 
 + [{gghdx} 0.1.1](https://cran.r-project.org/package=gghdx): HDX Theme, Scales, and Other Conveniences for 'ggplot2'
 + [{dateback} 1.0.2](https://cran.r-project.org/package=dateback): Collect and Install R Packages on a Specified Date with
@@ -102,13 +108,9 @@ Dependencies
 + [{osmdata} 0.2.5](https://cran.r-project.org/package=osmdata): Import 'OpenStreetMap' Data as Simple Features or Spatial Objects
 + [{screenshot} 0.9.0](https://cran.r-project.org/package=screenshot): Take Screenshots (Screen Capture) from R Command
 
-**Bioconductor**
-
-
-
 **GitHub or Bitbucket**
 
-
++ [{yyjsonr} 0.1.1](https://coolbutuseless.github.io/package/yyjsonr/index.html)
 
 ### Updated Packages
 
@@ -158,18 +160,7 @@ library - [diffify](https://diffify.com/R/proj4)
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
++ [Brief introduction to R, 2023](https://saraemilyburke.com/stats/brief_r_intro.html)
 
 ### Tutorials
 
@@ -196,12 +187,6 @@ Events in 3 Months:
 
 + [An Introduction to Bayesian A/B Testing in Stan, R, and Python workshop](https://r-posts.com/an-introduction-to-bayesian-a-b-testing-in-stan-r-and-python-workshop/)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
@@ -210,5 +195,16 @@ Events in 3 Months:
 
 ### rtistry
 
+<iframe src="https://botsin.space/@aRtsy_package/110920462070436534/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+<iframe src="https://genart.social/@georgemsavva/110889200490639105/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+<iframe src="https://fosstodon.org/@gmschroe/110926638526154776/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
 
 ### Quotes of the Week
+
+<iframe src="https://fosstodon.org/@MikeMahoney218/110899853703038670/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<iframe src="https://fosstodon.org/@jeremy_data/110918120647956494/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<iframe src="https://mastodon.social/@geospacedman/110911524816655639/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
