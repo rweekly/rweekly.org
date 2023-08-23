@@ -61,6 +61,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [A GPDR-compliant way to import Google fonts in Quarto](https://youtu.be/vaPBOqfus7w)
+
++ [Remove your plot legend and colorize your title instead](https://youtu.be/P4D5S5O7b_I)
+
++ [Three easy ways to use better colors in ggplot](https://youtu.be/ZVSbY4z7tMY)
+
++ [ggplot REMAKE: Dot Plot from PEW Research Center](https://youtu.be/k34IjRXq1BI)
+
 
 ### Gist & Cookbook
 
