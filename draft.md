@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+Do more with Excel with openxlsx2 v1.0 [Create cool things in Excel](https://olivroy.quarto.pub/creating-cool-xlsx-files-with-openxlsx2-10/)
 
 ### R in the Real World
 
