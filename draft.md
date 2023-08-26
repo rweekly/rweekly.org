@@ -57,6 +57,8 @@ Do more with Excel with openxlsx2 v1.0 [Create cool things in Excel](https://oli
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{mirai.promises} 0.2.0](https://cran.r-project.org/package=mirai.promises): Make Mirai Promises in Shiny and Plumber Pipelines
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
