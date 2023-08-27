@@ -37,6 +37,8 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 
 + [Exploring Data Distribution in R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2023-08-23/index.html)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W35/distribution_600.png)
+
 + [A Gradual Introduction to Web APIs and JSON](https://laderast.github.io/intro_apis_json_cascadia/#/title-slide)
 
 ### New Packages
@@ -60,6 +62,8 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 + [{syllogi} 1.0.1](https://cran.r-project.org/package=syllogi): Collection of Data Sets for Teaching Purposes
 
 + [{periscope2} 0.1.3](https://cran.r-project.org/package=periscope2): Enterprise Streamlined 'shiny' Application Framework Using 'bs4Dash'
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W35/periscope2_600.png)
 
 + [{h3lib} 0.1.0](https://cran.r-project.org/package=h3lib): Exposes the 'Uber' 'H3' Library to R Packages
 
@@ -99,12 +103,13 @@ for 2 Groups
 
 + [{micromodal} 1.0.0](https://cran.r-project.org/package=micromodal): Create Simple and Elegant Modal Dialogs in 'shiny'
 
-
 + [{DominoDataR} 0.2.3](https://cran.r-project.org/package=DominoDataR): 'Domino Data R SDK'
 
 + [{statcanR} 0.2.6](https://cran.r-project.org/package=statcanR): Client for Statistics Canada's Open Economic Data
 
 + [{VisCollin} 0.1.1](https://cran.r-project.org/package=VisCollin): Visualizing Collinearity Diagnostics
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W35/cars-tableplot-1_600.png)
 
 + [{osmclass} 0.1.3](https://cran.r-project.org/package=osmclass): Classify Open Street Map Features
 
@@ -113,6 +118,8 @@ for 2 Groups
 + [{giacR} 1.0.0](https://cran.r-project.org/package=giacR): Interface to the Computer Algebra System 'Giac'
 
 + [{unicol} 0.1.0](https://cran.r-project.org/package=unicol): The Colors of your University
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W35/unicol_mit_600.png)
 
 + [{pfr} 1.0.0](https://cran.r-project.org/package=pfr): Interface to the 'C++' Library 'Pf'
 
@@ -164,6 +171,8 @@ Model - [diffify](https://diffify.com/R/PatientProfiles)
 + [{perm} 1.0-0.4](https://cran.r-project.org/package=perm): Exact or Asymptotic Permutation Tests - [diffify](https://diffify.com/R/perm)
 
 + [{ggDoubleHeat} 0.1.2](https://cran.r-project.org/package=ggDoubleHeat): A Heatmap-Like Visualization Tool - [diffify](https://diffify.com/R/ggDoubleHeat)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W35/ggdoubleheat_600.png)
 
 + [{pandoc} 0.2.0](https://cran.r-project.org/package=pandoc): Manage and Run Universal Converter 'Pandoc' from 'R' - [diffify](https://diffify.com/R/pandoc)
 
