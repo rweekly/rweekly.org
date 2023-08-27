@@ -27,15 +27,9 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 + [Time Series Forecasting by Comparing Many Models: EUR/TRY Rates](https://datageeek.com/2023/08/23/time-series-forecasting-by-comparing-many-models-eur-try-rates/)
 
 
-### R in Organizations
-
-
-
 ### R in Academia
 
 + [Wedding Bayesian and Frequentist Designs Created a Mess](https://fharrell.com/post/hybrid/index.html)
-
-
 
 ### Resources
 
@@ -45,11 +39,9 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 
 + [A Gradual Introduction to Web APIs and JSON](https://laderast.github.io/intro_apis_json_cascadia/#/title-slide)
 
-
 ### New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
 
 **CRAN**
 
@@ -99,7 +91,6 @@ using Git
 + [{rmass2} 0.0.0.1](https://cran.r-project.org/package=rmass2): Repeated Measures with Attrition: Sample Sizes and Power Levels
 for 2 Groups
 
-
 + [{brms.mmrm} 0.0.2](https://cran.r-project.org/package=brms.mmrm): Bayesian MMRMs using 'brms'
 
 + [{scriptloc} 1.0.0](https://cran.r-project.org/package=scriptloc): Get the Location of the R Script that is Being Sourced/Executed
@@ -134,15 +125,6 @@ for 2 Groups
 + [{rgho} 3.0.1](https://cran.r-project.org/package=rgho): Access WHO Global Health Observatory Data from R
 
 + [{visit} 2.2](https://cran.r-project.org/package=visit): Vaccine Phase I Design with Simultaneous Evaluation of Immunogenicity and Toxicity
-
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
 
 ### Updated Packages
 
@@ -211,19 +193,6 @@ Model - [diffify](https://diffify.com/R/PatientProfiles)
 
 + [Faucet: Fearless asynchronous R/Plumber APIs](https://www.youtube.com/watch?v=1uXFe2fUYSA)
 
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
-
 ### Tutorials
 
 + [Creating template files with R](https://nrennie.rbind.io/blog/script-templates-r/)
@@ -234,8 +203,6 @@ Model - [diffify](https://diffify.com/R/PatientProfiles)
 
 + [New interface to validation splits](https://www.tidyverse.org/blog/2023/08/validation-split-as-3-way-split/)
 
-
-
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
@@ -243,7 +210,6 @@ Model - [diffify](https://diffify.com/R/PatientProfiles)
 + [Will R Work on 64-bit ARM Windows?](https://blog.r-project.org/2023/08/23/will-r-work-on-64-bit-arm-windows/)
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
 
 ### Call for Participation
 
@@ -253,18 +219,11 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
-
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Jobs
 
