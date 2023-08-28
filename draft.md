@@ -240,14 +240,14 @@ Events in 3 Months:
 
 ### rtistry
 
-<iframe src="https://genart.social/@georgemsavva/110955771608991720/embed" width="400" height="700" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+<iframe src="https://genart.social/@georgemsavva/110955771608991720/embed" width="500" height="1150" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
 ### Quotes of the Week
 
-<iframe src="https://genomic.social/@EpicBear/110958938915890736/embed" width="400" height="600" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+<iframe src="https://genomic.social/@EpicBear/110958938915890736/embed" width="600" height="500" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you use the awesome <a href="https://twitter.com/hashtag/Barbie?src=hash&amp;ref_src=twsrc%5Etfw">#Barbie</a> theme by <a href="https://twitter.com/MatthewBJane?ref_src=twsrc%5Etfw">@MatthewBJane</a> in <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> - you have to go all the way and use Barbie icons instead of dots in the <a href="https://twitter.com/hashtag/ggplot?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot</a>! The audience might not spot it at first sight … but when they do … <a href="https://t.co/7CWlOYsFly">pic.twitter.com/7CWlOYsFly</a></p>&mdash; Tom Broekel (@TBroekel) <a href="https://twitter.com/TBroekel/status/1694644821716009289?ref_src=twsrc%5Etfw">August 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My life loves backpacking so we try to go on some adventures every summer. She always records with Garmin. So I thought, <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> it up :) <a href="https://twitter.com/hashtag/GlacierNationalPark?src=hash&amp;ref_src=twsrc%5Etfw">#GlacierNationalPark</a> <a href="https://twitter.com/hashtag/rspatial?src=hash&amp;ref_src=twsrc%5Etfw">#rspatial</a> <a href="https://t.co/B5RM9MDCT4">pic.twitter.com/B5RM9MDCT4</a></p>&mdash; Josh Erickson (@joshualerickson) <a href="https://twitter.com/joshualerickson/status/1692706678678900833?ref_src=twsrc%5Etfw">August 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<iframe src="https://mastodon.social/@hrbrmstr/110958753863912872/embed" width="400" height="600" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+<iframe src="https://mastodon.social/@hrbrmstr/110958753863912872/embed" width="500" height="650" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
