@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+* [10 years of rio](https://chainsawriot.com/postmannheim/2023/08/28/rio10.html)
 
 ### R in the Real World
 
