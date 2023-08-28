@@ -33,7 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Resources
-
+6 New books added to Big Book of R (Oscar Baruffa)[https://oscarbaruffa.com/bbor-20230827/]
 
 
 ### New Packages
