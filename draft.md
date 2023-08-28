@@ -22,6 +22,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Pre-allocating vectors is for nerds](https://build--mm218-dev.netlify.app/posts/2023-08-29-allocations/)
 
+* [10 years of rio](https://chainsawriot.com/postmannheim/2023/08/28/rio10.html)
+
 ### R in the Real World
 
 
