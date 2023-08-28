@@ -1,9 +1,10 @@
 ---
 layout: draft
-title: R Weekly 2023-W33
+title: R Weekly 2023-W36
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
+
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
@@ -56,12 +57,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-
-
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
 
 
 ### Gist & Cookbook
@@ -92,13 +90,12 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
+
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
-
-+ [Multilingual Publishing](https://ropensci.org/commcalls/nov2023-multilingual/)
 
 ### Grants & Funding
 
@@ -113,6 +110,4 @@ Events in 3 Months:
 ### rtistry
 
 
-
 ### Quotes of the Week
-
