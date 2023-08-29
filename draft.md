@@ -88,6 +88,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Land to water surface ratios in U.S. states](https://jonathankitt.netlify.app/posts/2023-08-04-tt-us/)
 
++ [TidyTuesday week 35 - Fair use case courts in the U.S.](https://jonathankitt.netlify.app/posts/2023-08-29-tt-fair-use/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
