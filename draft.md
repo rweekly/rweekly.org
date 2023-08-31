@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Introducing Project Templates in Posit Cloud](https://posit.co/blog/introducing-project-templates-in-posit-cloud/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
