@@ -76,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Shiny for R updates: tooltips, popovers, a new theme, and more](https://shiny.posit.co/blog/posts/bslib-tooltips/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
