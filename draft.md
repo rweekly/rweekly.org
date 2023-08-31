@@ -33,7 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### R in Academia
-
+[An insight into teaching R programming in Botswana](https://rladiesgaboronebw.netlify.app/posts/teachingr/teachingr)
 
 
 ### Resources
