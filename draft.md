@@ -90,6 +90,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [TidyTuesday week 35 - Fair use case courts in the U.S.](https://jonathankitt.netlify.app/posts/2023-08-29-tt-fair-use/)
 
++ [The many reasons that pharmas love {gt}](https://posit.co/blog/the-many-reasons-that-pharmas-love-gt/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
