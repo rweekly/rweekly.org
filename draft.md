@@ -61,6 +61,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [Keeping data up-to-date with 6 pins workflows](https://www.youtube.com/watch?v=t8A-ysXinpE)
 
 ### Gist & Cookbook
 
