@@ -30,7 +30,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
-
++ [The many reasons that pharmas love {gt}](https://posit.co/blog/the-many-reasons-that-pharmas-love-gt/)
 
 ### R in Academia
 [An insight into teaching R programming in Botswana](https://rladiesgaboronebw.netlify.app/posts/teachingr/teachingr)
