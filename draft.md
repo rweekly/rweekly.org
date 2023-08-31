@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [The many reasons that pharmas love {gt}](https://posit.co/blog/the-many-reasons-that-pharmas-love-gt/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
