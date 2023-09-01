@@ -22,9 +22,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [10 years of rio](https://chainsawriot.com/postmannheim/2023/08/28/rio10.html)
 
++ [Now You're Thinking with Arrays](https://jcarroll.com.au/2023/08/29/now-you-re-thinking-with-arrays/)
+
++ [Geographic data analysis in R and Python: comparing code and outputs for vector data](https://geocompx.org/post/2023/ogh23/index.html)
+
++ [Three (four?) R functions I enjoyed this week](https://masalmon.eu/2023/08/30/three-r-functions/)
+
 ### R in the Real World
 
-
++ [Conscious uncoupling with {blogdown}](https://www.rostrum.blog/posts/2023-08-26-cheerio-blogdown/index.html)
 
 ### R in Organizations
 
@@ -34,6 +40,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [An insight into teaching R programming in Botswana](https://rladiesgaboronebw.netlify.app/posts/teachingr/teachingr)
 
++ [Why your research deserves to be an R package](https://blog.esciencecenter.nl/why-your-research-deserves-to-be-an-r-package-3737a73501c)
 
 ### Resources
 
@@ -47,7 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [RcppArmadillo 0.12.6.3.0 on CRAN: New Upstream Bugfix](http://dirk.eddelbuettel.com/blog/2023/08/29/#rcpparmadillo_0.12.6.3.0)
 
 **Bioconductor**
 
@@ -55,7 +62,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [An R package with Baltagi’s ‘Econometric Analysis of Panel Data’ datasets](https://pacha.dev/blog/2023/08/28/baltagi/index.html)
 
 ### Updated Packages
 
@@ -95,6 +102,26 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Introducing Project Templates in Posit Cloud](https://posit.co/blog/introducing-project-templates-in-posit-cloud/)
 
++ [Mapping South America with R: A Deep Dive into Geo-Visualization](https://towardsdatascience.com/mapping-south-america-with-r-a-deep-dive-into-geo-visualization-2fc8e34ec263)
+
++ [Exploring Relationships with Correlation Heatmaps in R](https://www.spsanderson.com/steveondata/posts/2023-08-30/index.html)
+
++ [Four Filters for Functional (Programming) Friends](https://jcarroll.com.au/2023/08/30/four-filters-for-functional-programming-friends/)
+
++ [How to: one-way ANOVA by hand](https://statsandr.com/blog/how-to-one-way-anova-by-hand/)
+
++ [Visualizing Categorical Data in R: A Guide with Engaging Charts Using the Iris Dataset](https://www.spsanderson.com/steveondata/posts/2023-08-29/index.html)
+
++ [Modifying output format from within R Markdown chunk by rmarkdown::output_format_dependency](https://blog.atusy.net/2023/08/28/rmarkdown-output-format-dependency/)
+
++ [Little useless-useful R functions – Return matrix elements in spiral order](https://tomaztsql.wordpress.com/2023/08/27/little-useless-useful-r-functions-return-matrix-elements-in-spiral-order/)
+
++ [Creating Eye-Catching Data Visualizations with Lollipop Charts in R using ggplot2](https://www.spsanderson.com/steveondata/posts/2023-08-31/index.html)
+
++ [Kernel Density Plots in R](https://www.spsanderson.com/steveondata/posts/2023-09-01/index.html)
+
++ [R functions that shorten/filter stuff: less is more](https://masalmon.eu/2023/08/31/three-shorten/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
@@ -115,6 +142,7 @@ Events in 3 Months:
 
 ### Grants & Funding
 
++ [Grants For R Language Infrastructure Projects Available Now!](https://www.r-consortium.org/blog/2023/08/31/grants-for-r-language-infrastructure-projects-available-now)
 
 ### Datasets
 
