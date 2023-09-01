@@ -31,11 +31,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [The many reasons that pharmas love {gt}](https://posit.co/blog/the-many-reasons-that-pharmas-love-gt/)
 
 ### R in Academia
-[An insight into teaching R programming in Botswana](https://rladiesgaboronebw.netlify.app/posts/teachingr/teachingr)
+
++ [An insight into teaching R programming in Botswana](https://rladiesgaboronebw.netlify.app/posts/teachingr/teachingr)
 
 
 ### Resources
-6 New books added to Big Book of R (Oscar Baruffa)[https://oscarbaruffa.com/bbor-20230827/]
+
++ [6 New books added to Big Book of R (Oscar Baruffa)](https://oscarbaruffa.com/bbor-20230827/)
 
 
 ### New Packages
