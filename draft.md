@@ -51,11 +51,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
-
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [tidypolars](https://github.com/etiennebacher/tidypolars): Provide the functionalities of Polars with the syntax of the tidyverse
 
 ### Videos and Podcasts
 
