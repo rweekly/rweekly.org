@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [A guide to annotating equations in quarto documents](https://lpembleton.rbind.io/posts/annotate-equations/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
