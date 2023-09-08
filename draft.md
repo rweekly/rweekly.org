@@ -26,7 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
-
++ [Wrapping the Mixpanel API: How to create a package with {fusen} to enhance Product Analytics](https://lukas-r.blog/posts/2023-09-03-wrapping-the-mixpanel-api/)
 
 ### R in Academia
 
