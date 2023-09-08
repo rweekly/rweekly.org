@@ -55,6 +55,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{nanonext} 0.10.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen), a successor to ZeroMQ.
+
 + [tidypolars](https://github.com/etiennebacher/tidypolars): Provide the functionalities of Polars with the syntax of the tidyverse
 
 ### Videos and Podcasts
