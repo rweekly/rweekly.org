@@ -23,6 +23,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 + [Meta-analytics for soccer](https://tonyelhabr.rbind.io/posts/soccer-meta-analytics/)
++ [Analyzing Height Trends in the NBA](https://matanhakim.org/posts/2023-09-09-nba-heights/)
 
 ### R in Organizations
 
