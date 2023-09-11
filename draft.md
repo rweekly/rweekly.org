@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2023-W37
+title: R Weekly 2023-W37 Preloading Packages, Annotating Equations, UFO Sightings
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -12,14 +12,23 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### Highlight
 
++ [Preloading your R packages in webR in an Express JS API](https://colinfay.me/preloading-your-r-packages-in-webr-in-an-express-js-api/)
 
++ [A guide to annotating equations in quarto documents](https://lpembleton.rbind.io/posts/annotate-equations/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W37/equation_600.png)
+
++ [Using Stan to analyse global UFO sighting reports](https://www.jumpingrivers.com/blog/ufo-counts-in-stan-bayesian-r/)
 
 ### Insights
 
 + [R Project Sprint.](https://www.pipinghotdata.com/posts/2023-09-07-r-project-sprint)
+
 + [Using Stan to analyse global UFO sighting reports](https://www.jumpingrivers.com/blog/ufo-counts-in-stan-bayesian-r/)
+
 + [Little useless-useful R functions – Continuous, nowhere differentiable Weierstrass function](https://tomaztsql.wordpress.com/2023/09/06/little-useless-useful-r-functions-continuous-nowhere-differentiable-weierstrass-function/)
+
++[Adventures with parquet II: Implementing the parquetArraySeed S4 class](https://tomsing1.github.io/blog/posts/parquetArray/)
 
 + [The Upcoming knitr v1.44: More Compatible with Quarto, and Locking `opts_current`](https://yihui.org/en/2023/09/knitr-1-44/)
 
@@ -32,33 +41,39 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [Build serverless shiny application via Github page](https://r-posts.com/build-serverless-shiny-application-via-github-page/)
 
-
 + [Good or bad? Sentiment Analysis in R](https://medium.com/@mcodrescu/good-or-bad-sentiment-analysis-in-r-d9033b28f25d)
 
 + [Mapping the Past - Geospatial Visualization in R](https://www.codingthepast.com/2023/09/06/Geospatial-Data-Visualization.html)
+
 + [Creating Population Pyramid Plots in R with ggplot2](https://www.spsanderson.com/steveondata/posts/2023-09-08/index.html)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W37/pyramid_600.png)
+
 + [Mastering Data Visualization in R: How to Plot a Subset of Data](https://www.spsanderson.com/steveondata/posts/2023-09-07/index.html)
+
 + [Exploring Multivariate Data with Principal Component Analysis (PCA) Biplot in R](https://www.spsanderson.com/steveondata/posts/2023-09-06/index.html)
+
 + [When to use Jitter](https://www.spsanderson.com/steveondata/posts/2023-09-05/index.html)
-
-
 
 
 ### R in the Real World
 
 + [Meta-analytics for soccer](https://tonyelhabr.rbind.io/posts/soccer-meta-analytics/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W37/soccer_600.png)
+
 + [Analyzing Height Trends in the NBA](https://matanhakim.org/posts/2023-09-09-nba-heights/)
+
 
 ### R in Organizations
 
 + [Wrapping the Mixpanel API: How to create a package with {fusen} to enhance Product Analytics](https://lukas-r.blog/posts/2023-09-03-wrapping-the-mixpanel-api/)
 
-### R in Academia
 
 ### R Users
 
 + [Spatial Data Science Using R in Berlin, Germany](https://www.r-consortium.org/blog/2023/09/05/spatial-data-science-using-r-in-berlin-germany)
+
 
 ### Resources
 
@@ -69,17 +84,31 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
 **CRAN**
 
 + [RcppInt64 0.0.1 on CRAN: New Package!](http://dirk.eddelbuettel.com/blog/2023/09/05#rcppint64_0.0.1)
 
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
++ [{jmastats} 0.2.0](https://cran.r-project.org/package=jmastats): Download Weather Data from Japan Meteorological Agency Website
++ [{dacc} 0.0-1](https://cran.r-project.org/package=dacc): Detection and Attribution Analysis of Climate Change
++ [{zlib} 1.0.1](https://cran.r-project.org/package=zlib): Compression and Decompression
++ [{teal.reporter} 0.2.1](https://cran.r-project.org/package=teal.reporter): Reporting Tools for 'shiny' Modules
++ [{teal.logger} 0.1.3](https://cran.r-project.org/package=teal.logger): Logging Setup for the 'teal' Family of Packages
++ [{cookiecutter} 0.1.0](https://cran.r-project.org/package=cookiecutter): Generate Project Files from a Template
++ [{daiR} 0.9.9](https://cran.r-project.org/package=daiR): Interface with Google Cloud Document AI API
++ [{ShapeChange} 1.5](https://cran.r-project.org/package=ShapeChange): Change-Point Estimation using Shape-Restricted Splines
++ [{wikiprofiler} 0.1.2](https://cran.r-project.org/package=wikiprofiler): 'WikiPathway' Based Data Integration and Visualization
++ [{censobr} 0.1.0](https://cran.r-project.org/package=censobr): Download Data from Brazil's Population Census
++ [{mmcards} 0.1.1](https://cran.r-project.org/package=mmcards): Playing Cards Utility Functions
++ [{prettyglm} 1.0.1](https://cran.r-project.org/package=prettyglm): Pretty Summaries of Generalized Linear Model Coefficients
++ [{harmonydata} 0.1.0](https://cran.r-project.org/package=harmonydata): R Library for 'Harmony'
++ [{editbl} 0.9.5](https://cran.r-project.org/package=editbl): 'DT' Extension for CRUD (Create, Read, Update, Delete) Applications in 'shiny'
++ [{RcppInt64} 0.0.1](https://cran.r-project.org/package=RcppInt64): 'Rcpp'-Based Helper Functions to Pass 'Int64' Values Between 'R' and 'C++'
++ [{pharmaversesdtm} 0.1.1](https://cran.r-project.org/package=pharmaversesdtm): Test Data for the Pharmaverse Family of Packages
++ [{r2country} 2.0.2.3.0](https://cran.r-project.org/package=r2country): Country Data with Names, Capitals, Currencies, Populations, Time, Languages and so on
++ [{procs} 1.0.3](https://cran.r-project.org/package=procs): Recreates Some 'SAS®' Procedures in 'R'
++ [{misha} 4.2.3](https://cran.r-project.org/package=misha): Toolkit for Analysis of Genomic Data
++ [{juicedown} 0.1.1](https://cran.r-project.org/package=juicedown): 'juice' + 'markdown': Convert 'R Markdown' into 'HTML' with Inline Styles
++ [{grattan} 2023.1.1](https://cran.r-project.org/package=grattan): Australian Tax Policy Analysis
 
 ### Updated Packages
 
@@ -95,21 +124,59 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [RcppFarmHash 0.0.3 on CRAN: Small Update](http://dirk.eddelbuettel.com/blog/2023/09/09#rcppfarmhash_0.0.3)
 
++ [{rgbif} 3.7.8](https://cran.r-project.org/package=rgbif): Interface to the Global Biodiversity Information Facility API - [diffify](https://diffify.com/R/rgbif)
++ [{colorhex} 0.1.4](https://cran.r-project.org/package=colorhex): Colors and Palettes from Color-Hex - [diffify](https://diffify.com/R/colorhex)
++ [{admiraldev} 0.5.0](https://cran.r-project.org/package=admiraldev): Utility Functions and Development Tools for the Admiral Package Family - [diffify](https://diffify.com/R/admiraldev)
++ [{GPFDA} 3.1.3](https://cran.r-project.org/package=GPFDA): Gaussian Process for Functional Data Analysis - [diffify](https://diffify.com/R/GPFDA)
++ [{checkdown} 0.0.9](https://cran.r-project.org/package=checkdown): Check-Fields and Check-Boxes for 'rmarkdown' - [diffify](https://diffify.com/R/checkdown)
++ [{duckplyr} 0.2.0](https://cran.r-project.org/package=duckplyr): A 'DuckDB'-Backed Version of 'dplyr' - [diffify](https://diffify.com/R/duckplyr)
++ [{insight} 0.19.4](https://cran.r-project.org/package=insight): Easy Access to Model Information for Various Model Objects - [diffify](https://diffify.com/R/insight)
++ [{readODS} 2.1.0](https://cran.r-project.org/package=readODS): Read and Write ODS Files - [diffify](https://diffify.com/R/readODS)
++ [{admiral.test} 0.7.0](https://cran.r-project.org/package=admiral.test): Test Data for the 'admiral' Package - [diffify](https://diffify.com/R/admiral.test)
++ [{RcppArmadillo} 0.12.6.4.0](https://cran.r-project.org/package=RcppArmadillo): 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra Library - [diffify](https://diffify.com/R/RcppArmadillo)
++ [{fmtr} 1.6.0](https://cran.r-project.org/package=fmtr): Easily Apply Formats to Data - [diffify](https://diffify.com/R/fmtr)
++ [{memery} 0.5.7](https://cran.r-project.org/package=memery): Internet Memes for Data Analysts - [diffify](https://diffify.com/R/memery)
++ [{lcars} 0.3.8](https://cran.r-project.org/package=lcars): LCARS Aesthetic for Shiny - [diffify](https://diffify.com/R/lcars)
++ [{imgpalr} 0.3.2](https://cran.r-project.org/package=imgpalr): Create Color Palettes from Images - [diffify](https://diffify.com/R/imgpalr)
++ [{epubr} 0.6.4](https://cran.r-project.org/package=epubr): Read EPUB File Metadata and Text - [diffify](https://diffify.com/R/epubr)
++ [{fetch} 0.1.3](https://cran.r-project.org/package=fetch): Fetch Data from Various Data Sources - [diffify](https://diffify.com/R/fetch)
++ [{foreign} 0.8-85](https://cran.r-project.org/package=foreign): Read Data Stored by 'Minitab', 'S', 'SAS', 'SPSS', 'Stata', 'Systat', 'Weka', 'dBase', ... - [diffify](https://diffify.com/R/foreign)
++ [{RcppFarmHash} 0.0.3](https://cran.r-project.org/package=RcppFarmHash): Interface to the Google 'FarmHash' Family of Hash Functions - [diffify](https://diffify.com/R/RcppFarmHash)
++ [{spatstat.random} 3.1-6](https://cran.r-project.org/package=spatstat.random): Random Generation Functionality for the 'spatstat' Family - [diffify](https://diffify.com/R/spatstat.random)
++ [{pins} 1.2.2](https://cran.r-project.org/package=pins): Pin, Discover and Share Resources - [diffify](https://diffify.com/R/pins)
++ [{ompr} 1.0.4](https://cran.r-project.org/package=ompr): Model and Solve Mixed Integer Linear Programs - [diffify](https://diffify.com/R/ompr)
++ [{bundle} 0.1.1](https://cran.r-project.org/package=bundle): Serialize Model Objects with a Consistent Interface - [diffify](https://diffify.com/R/bundle)
++ [{ipkg} 1.0.8](https://cran.r-project.org/package=ipkg): Install R Packages or Download File from GitHub via the Proxy Site Https://Ghproxy.com - [diffify](https://diffify.com/R/ipkg)
++ [{rsgeo} 0.1.6](https://cran.r-project.org/package=rsgeo): An Interface to Rust's 'geo' Library - [diffify](https://diffify.com/R/rsgeo)
++ [{politeness} 0.9.2](https://cran.r-project.org/package=politeness): Detecting Politeness Features in Text - [diffify](https://diffify.com/R/politeness)
++ [{rstan} 2.26.23](https://cran.r-project.org/package=rstan): R Interface to Stan - [diffify](https://diffify.com/R/rstan)
++ [{askgpt} 0.1.3](https://cran.r-project.org/package=askgpt): Asking GPT About R Stuff - [diffify](https://diffify.com/R/askgpt)
++ [{packcircles} 0.3.6](https://cran.r-project.org/package=packcircles): Circle Packing - [diffify](https://diffify.com/R/packcircles)
++ [{sasLM} 0.9.12](https://cran.r-project.org/package=sasLM): 'SAS' Linear Model - [diffify](https://diffify.com/R/sasLM)
++ [{flextable} 0.9.3](https://cran.r-project.org/package=flextable): Functions for Tabular Reporting - [diffify](https://diffify.com/R/flextable)
++ [{lidR} 4.0.4](https://cran.r-project.org/package=lidR): Airborne LiDAR Data Manipulation and Visualization for Forestry
+Applications - [diffify](https://diffify.com/R/lidR)
++ [{obfuscatoR} 0.2.2](https://cran.r-project.org/package=obfuscatoR): Obfuscation Game Designs - [diffify](https://diffify.com/R/obfuscatoR)
++ [{x13binary} 1.1.57-4](https://cran.r-project.org/package=x13binary): Provide the 'x13ashtml' Seasonal Adjustment Binary - [diffify](https://diffify.com/R/x13binary)
++ [{thunder} 1.1.2](https://cran.r-project.org/package=thunder): Computation and Visualisation of Atmospheric Convective Parameters - [diffify](https://diffify.com/R/thunder)
++ [{stranslate} 0.1.1](https://cran.r-project.org/package=stranslate): Simple Translation Between Different Languages - [diffify](https://diffify.com/R/stranslate)
++ [{StanHeaders} 2.26.28](https://cran.r-project.org/package=StanHeaders): C++ Header Files for Stan - [diffify](https://diffify.com/R/StanHeaders)
++ [{riskRegression} 2023.09.08](https://cran.r-project.org/package=riskRegression): Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks - [diffify](https://diffify.com/R/riskRegression)
++ [{DatabaseConnector} 6.2.4](https://cran.r-project.org/package=DatabaseConnector): Connecting to Various Database Platforms - [diffify](https://diffify.com/R/DatabaseConnector)
++ [{cancerGI} 1.0.1](https://cran.r-project.org/package=cancerGI): Analyses of Cancer Gene Interaction - [diffify](https://diffify.com/R/cancerGI)
++ [{sassy} 1.2.0](https://cran.r-project.org/package=sassy): Makes 'R' Easier for Everyone - [diffify](https://diffify.com/R/sassy)
++ [{duckdbfs} 0.0.2](https://cran.r-project.org/package=duckdbfs): High Performance Remote File System Access Using 'duckdb' - [diffify](https://diffify.com/R/duckdbfs)
++ [{eyelinkReader} 1.0.1](https://cran.r-project.org/package=eyelinkReader): Import Gaze Data for EyeLink Eye Tracker - [diffify](https://diffify.com/R/eyelinkReader)
++ [{credentials} 2.0.1](https://cran.r-project.org/package=credentials): Tools for Managing SSH and Git Credentials - [diffify](https://diffify.com/R/credentials)
++ [{tastypie} 0.1.1](https://cran.r-project.org/package=tastypie): Easy Pie Charts - [diffify](https://diffify.com/R/tastypie)
++ [{geojsonio} 0.11.3](https://cran.r-project.org/package=geojsonio): Convert Data from and to 'GeoJSON' or 'TopoJSON' - [diffify](https://diffify.com/R/geojsonio)
++ [{RcppNumerical} 0.6-0](https://cran.r-project.org/package=RcppNumerical): 'Rcpp' Integration for Numerical Computing Libraries - [diffify](https://diffify.com/R/RcppNumerical)
++ [{paws.common} 0.6.0](https://cran.r-project.org/package=paws.common): Paws Low-Level Amazon Web Services API - [diffify](https://diffify.com/R/paws.common)
++ [{rhino} 1.5.0](https://cran.r-project.org/package=rhino): A Framework for Enterprise Shiny Applications - [diffify](https://diffify.com/R/rhino)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
 
 
 ### Tutorials
@@ -118,11 +185,12 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [Risk-neutralize simulations](https://thierrymoudiki.github.io/blog/2023/09/04/r/misc/ahead-neutralize)
 
-<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Adjacent
 
 + [A guide to annotating equations in quarto documents](https://lpembleton.rbind.io/posts/annotate-equations/)
+
+<!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
 
@@ -132,7 +200,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
-
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -144,11 +211,6 @@ Events in 3 Months:
 
 + [Deep Learning with torch in R workshop](https://r-posts.com/deep-learning-with-torch-in-r-workshop/)
 
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Jobs
 
@@ -156,5 +218,16 @@ Events in 3 Months:
 
 ### rtistry
 
+<iframe src="https://hachyderm.io/@djnavarro/111032375618044447/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+<iframe src="https://fosstodon.org/@nrennie/110968765891533375/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+
 
 ### Quotes of the Week
+
+<iframe src="https://fosstodon.org/@brodriguesco/111019041678101513/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<iframe src="https://fosstodon.org/@nrennie/110996381781634409/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<iframe src="https://fosstodon.org/@milesmcbain/111009451021912082/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
