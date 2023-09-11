@@ -17,7 +17,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Insights
-
++ [Tidymodels Machine Learning: Diabetes Classification](https://boiled-data.github.io/ClassificationDiabetes.html)
 
 
 ### R in the Real World
