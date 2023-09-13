@@ -23,10 +23,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 
-
 ### R in Organizations
 
-
++ [Novo Nordisk's Journey to an R based FDA Submission](https://www.youtube.com/live/t33dS17QHuA?si=xUVipu3GaAXOtd8P)
 
 ### R in Academia
 
