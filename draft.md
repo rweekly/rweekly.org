@@ -35,6 +35,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
+[How pivot_longer() works](https://haswal.github.io/pivot/)
+
 
 
 ### New Packages
