@@ -58,6 +58,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+[Datardis 0.0.4](https://cran.r-project.org/web/packages/datardis/index.html) Explore data related to the Doctor Who series
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
@@ -76,6 +78,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
+
+[TidyTuesday week 37 - Global Human Day](https://jonathankitt.netlify.app/posts/2023-09-12-tt-global-human-day/)
 
 
 
