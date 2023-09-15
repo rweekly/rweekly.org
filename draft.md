@@ -19,6 +19,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 + [Tidymodels Machine Learning: Diabetes Classification](https://boiled-data.github.io/ClassificationDiabetes.html)
 
++ [readODS 2.1.0](https://chainsawriot.com/postmannheim/2023/09/11/readods21.html)
+
++ [rio 1.0.0](https://chainsawriot.com/postmannheim/2023/09/15/riogesistsa.html)
 
 ### R in the Real World
 
