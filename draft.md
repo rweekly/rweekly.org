@@ -23,7 +23,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 + [Crossing Bridges: Reporting on NYC taxi data with RStudio and Databricks](https://posit.co/blog/reporting-on-nyc-taxi-data-with-rstudio-and-databricks/)
-
++ [A Tale of Outage and Revival: Building a Static Site Generator in R](https://boilingsteam.com/a-tale-of-outage-and-revival/)
 
 ### R in Organizations
 
