@@ -14,6 +14,11 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 ### Highlight
 
++ [rio 1.0.0](https://chainsawriot.com/postmannheim/2023/09/15/riogesistsa.html)
+
++ [An Interview of Me by JP and Sarah](https://yihui.org/en/2023/09/jp-sarah-interview/)
+
++ [How Open Source (R and Shiny) Is Transforming Processes in the Pharmaceutical Industry](https://appsilon.com/r-shiny-pharma-open-source/)
 
 ### Insights
 
@@ -61,9 +66,6 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [Novo Nordisk's Journey to an R based FDA Submission](https://www.youtube.com/live/t33dS17QHuA?si=xUVipu3GaAXOtd8P)
 
-### R in Academia
-
-
 ### Resources
 
 + [How pivot_longer() works](https://haswal.github.io/pivot/)
@@ -75,21 +77,78 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 **CRAN**
 
-
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
++ [{ggRtsy} 0.1.0](https://cran.r-project.org/package=ggRtsy): Add Some Van Gogh Colors and Overlay Colors on Your 'ggplot()'
++ [{datasetjson} 0.0.1](https://cran.r-project.org/package=datasetjson): Read and Write CDISC Dataset JSON Files
++ [{clustlearn} 1.0.0](https://cran.r-project.org/package=clustlearn): Learn Clustering Techniques Through Examples and Code
++ [{xportr} 0.3.1](https://cran.r-project.org/package=xportr): Utilities to Output CDISC SDTM/ADaM XPT Files
++ [{rsleep} 1.0.9](https://cran.r-project.org/package=rsleep): Analysis of Sleep Data
++ [{biosampleR} 1.0.4](https://cran.r-project.org/package=biosampleR): Biodiversity Index Calculation and Bootstrap Confidence Interval
+Estimation
++ [{ura} 1.0.0](https://cran.r-project.org/package=ura): Monitoring Rater Reliability
++ [{tfrmtbuilder} 0.0.4](https://cran.r-project.org/package=tfrmtbuilder): 'shiny' App Companion to the 'tfrmt' Package
++ [{PSDistr} 0.0.1](https://cran.r-project.org/package=PSDistr): Distributions Derived from Normal Distribution
++ [{qualpalr} 0.4.4](https://cran.r-project.org/package=qualpalr): Automatic Generation of Qualitative Color Palettes
++ [{mapmisc} 2.0.0](https://cran.r-project.org/package=mapmisc): Utilities for Producing Maps
++ [{hwwntest} 1.3.2](https://cran.r-project.org/package=hwwntest): Tests of White Noise using Wavelets
++ [{mand} 2.0](https://cran.r-project.org/package=mand): Multivariate Analysis for Neuroimaging Data
++ [{voiceR} 0.1.0](https://cran.r-project.org/package=voiceR): Voice Analytics for Social Scientists
++ [{RColorConesa} 1.0.0](https://cran.r-project.org/package=RColorConesa): Conesa Colors Palette
++ [{CohortExplorer} 0.0.17](https://cran.r-project.org/package=CohortExplorer): Explorer of Profiles of Patients in a Cohort
++ [{checkthat} 0.1.0](https://cran.r-project.org/package=checkthat): Intuitive Unit Testing Tools for Data Manipulation
++ [{teal.code} 0.4.1](https://cran.r-project.org/package=teal.code): Code Storage and Execution Class for 'teal' Applications
++ [{epiCleanr} 0.1.0](https://cran.r-project.org/package=epiCleanr): A Tidy Solution for Epidemiological Data
++ [{censobr} 0.1.1](https://cran.r-project.org/package=censobr): Download Data from Brazil's Population Census
++ [{raqs} 1.0.0](https://cran.r-project.org/package=raqs): Interface to the US EPA Air Quality System (AQS) API
++ [{teal.reporter} 0.2.1](https://cran.r-project.org/package=teal.reporter): Reporting Tools for 'shiny' Modules
++ [{teal.logger} 0.1.3](https://cran.r-project.org/package=teal.logger): Logging Setup for the 'teal' Family of Packages
++ [{cookiecutter} 0.1.0](https://cran.r-project.org/package=cookiecutter): Generate Project Files from a Template
++ [{daiR} 0.9.9](https://cran.r-project.org/package=daiR): Interface with Google Cloud Document AI API
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [Datardis 0.0.4](https://cran.r-project.org/web/packages/datardis/index.html)
+
++ [{leafem} 0.2.3](https://cran.r-project.org/package=leafem): 'leaflet' Extensions for 'mapview' - [diffify](https://diffify.com/R/leafem)
++ [{ctrdata} 1.15.2](https://cran.r-project.org/package=ctrdata): Retrieve and Analyze Clinical Trials in Public Registers - [diffify](https://diffify.com/R/ctrdata)
++ [{nodbi} 0.9.7](https://cran.r-project.org/package=nodbi): 'NoSQL' Database Connector - [diffify](https://diffify.com/R/nodbi)
++ [{kutils} 1.73](https://cran.r-project.org/package=kutils): Project Management Tools - [diffify](https://diffify.com/R/kutils)
++ [{rcompanion} 2.4.34](https://cran.r-project.org/package=rcompanion): Functions to Support Extension Education Program Evaluation - [diffify](https://diffify.com/R/rcompanion)
++ [{S7} 0.1.1](https://cran.r-project.org/package=S7): An Object Oriented System Meant to Become a Successor to S3 and
+S4 - [diffify](https://diffify.com/R/S7)
++ [{duckplyr} 0.2.1](https://cran.r-project.org/package=duckplyr): A 'DuckDB'-Backed Version of 'dplyr' - [diffify](https://diffify.com/R/duckplyr)
++ [{atable} 0.1.14](https://cran.r-project.org/package=atable): Create Tables for Reporting Clinical Trials - [diffify](https://diffify.com/R/atable)
++ [{gnm} 1.1-5](https://cran.r-project.org/package=gnm): Generalized Nonlinear Models - [diffify](https://diffify.com/R/gnm)
++ [{planr} 0.1.1](https://cran.r-project.org/package=planr): Tools for Supply Chain Management, Demand and Supply Planning - [diffify](https://diffify.com/R/planr)
++ [{gtExtras} 0.5.0](https://cran.r-project.org/package=gtExtras): Extending 'gt' for Beautiful HTML Tables - [diffify](https://diffify.com/R/gtExtras)
++ [{bulkreadr} 0.2.0](https://cran.r-project.org/package=bulkreadr): The Ultimate Tool for Reading Data in Bulk - [diffify](https://diffify.com/R/bulkreadr)
++ [{GeoAdjust} 2.0.0](https://cran.r-project.org/package=GeoAdjust): Accounting for Random Displacements of True GPS Coordinates of
+Data - [diffify](https://diffify.com/R/GeoAdjust)
++ [{tablet} 0.6.3](https://cran.r-project.org/package=tablet): Tabulate Descriptive Statistics in Multiple Formats - [diffify](https://diffify.com/R/tablet)
++ [{eyetrackingR} 0.2.1](https://cran.r-project.org/package=eyetrackingR): Eye-Tracking Data Analysis - [diffify](https://diffify.com/R/eyetrackingR)
++ [{SiMRiv} 1.0.6](https://cran.r-project.org/package=SiMRiv): Simulating Multistate Movements in River/Heterogeneous
+Landscapes - [diffify](https://diffify.com/R/SiMRiv)
++ [{ggfun} 0.1.3](https://cran.r-project.org/package=ggfun): Miscellaneous Functions for 'ggplot2' - [diffify](https://diffify.com/R/ggfun)
++ [{unicol} 0.2.0](https://cran.r-project.org/package=unicol): The Colors of your University - [diffify](https://diffify.com/R/unicol)
++ [{rio} 1.0.0](https://cran.r-project.org/package=rio): A Swiss-Army Knife for Data I/O - [diffify](https://diffify.com/R/rio)
++ [{rtrek} 0.4.0](https://cran.r-project.org/package=rtrek): Data Analysis Relating to Star Trek - [diffify](https://diffify.com/R/rtrek)
++ [{YTAnalytics} 0.1.0](https://cran.r-project.org/package=YTAnalytics): Wrapper for 'YouTube Analytics' API - [diffify](https://diffify.com/R/YTAnalytics)
++ [{flattabler} 2.1.0](https://cran.r-project.org/package=flattabler): Obtaining a Flat Table from Pivot Tables - [diffify](https://diffify.com/R/flattabler)
++ [{rworkflows} 0.99.13](https://cran.r-project.org/package=rworkflows): Test, Document, Containerise, and Deploy R Packages - [diffify](https://diffify.com/R/rworkflows)
++ [{memoiR} 1.2-4](https://cran.r-project.org/package=memoiR): R Markdown and Bookdown Templates to Publish Documents - [diffify](https://diffify.com/R/memoiR)
++ [{admiralonco} 0.5.0](https://cran.r-project.org/package=admiralonco): Oncology Extension Package for ADaM in 'R' Asset Library - [diffify](https://diffify.com/R/admiralonco)
++ [{deepRstudio} 0.0.9](https://cran.r-project.org/package=deepRstudio): Seamless Language Translation in 'RStudio' using 'DeepL' API and 'Rstudioapi' - [diffify](https://diffify.com/R/deepRstudio)
++ [{cognitoR} 1.0.4](https://cran.r-project.org/package=cognitoR): Authentication for 'Shiny' Apps with 'Amazon Cognito' - [diffify](https://diffify.com/R/cognitoR)
++ [{worcs} 0.1.12](https://cran.r-project.org/package=worcs): Workflow for Open Reproducible Code in Science - [diffify](https://diffify.com/R/worcs)
++ [{KeyboardSimulator} 2.6.2](https://cran.r-project.org/package=KeyboardSimulator): Keyboard and Mouse Input Simulation for Windows OS - [diffify](https://diffify.com/R/KeyboardSimulator)
++ [{charlatan} 0.5.1](https://cran.r-project.org/package=charlatan): Make Fake Data - [diffify](https://diffify.com/R/charlatan)
++ [{this.path} 2.1.0](https://cran.r-project.org/package=this.path): Get Executing Script's Path - [diffify](https://diffify.com/R/this.path)
++ [{redcapAPI} 2.8.0](https://cran.r-project.org/package=redcapAPI): Interface to 'REDCap' - [diffify](https://diffify.com/R/redcapAPI)
++ [{QuickJSR} 1.0.6](https://cran.r-project.org/package=QuickJSR): Interface for the 'QuickJS' Lightweight 'JavaScript' Engine - [diffify](https://diffify.com/R/QuickJSR)
++ [{tmap} 3.3-4](https://cran.r-project.org/package=tmap): Thematic Maps - [diffify](https://diffify.com/R/tmap)
++ [{chatAI4R} 0.2.10](https://cran.r-project.org/package=chatAI4R): Chat-Based Interactive Artificial Intelligence for R - [diffify](https://diffify.com/R/chatAI4R)
++ [{statsExpressions} 1.5.2](https://cran.r-project.org/package=statsExpressions): Tidy Dataframes and Expressions with Statistical Details - [diffify](https://diffify.com/R/statsExpressions)
 
 ### Videos and Podcasts
 
@@ -105,14 +164,6 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [admiral release 0.12.0 overview](https://www.youtube.com/watch?v=m1ipcdYic7k&ab_channel=pharmaverse)
  
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
 ### R Internationally
 
 + [R User Group Philippines Turns 10](https://www.r-consortium.org/blog/2023/09/12/r-user-group-philippines-turns-10)
@@ -153,12 +204,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
-
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Jobs
 
