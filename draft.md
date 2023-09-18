@@ -32,7 +32,11 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [State of Shiny 2023 – Download Report](https://appsilon.com/state-of-shiny-2023-download-report/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W38/StateOfShiny_600.png)
+
 + [An introduction to Python for R Users](https://www.rebeccabarter.com/blog/2023-09-11-from_r_to_python)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W38/rubaitul-azad-ZIPFteu-R8k-unsplash_600.jpg)
 
 ### R in the Real World
 
@@ -57,6 +61,8 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 + [How Open Source (R and Shiny) Is Transforming Processes in the Pharmaceutical Industry](https://appsilon.com/r-shiny-pharma-open-source/)
 
 + [Exploring Machine Learning-Derived Data in Life Sciences with Shiny Applications](https://appsilon.com/machine-learning-data-in-life-sciences-with-shiny/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W38/Exploring_ML_Pharma_600.png)
 
 + [Meeting the Stars of the R-Universe: The R-Universe Against Diseases](https://ropensci.org/blog/2023/09/15/r-universe-stars-5-en/)
 
