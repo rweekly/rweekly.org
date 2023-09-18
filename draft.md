@@ -26,8 +26,6 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 + [rio 1.0.0](https://chainsawriot.com/postmannheim/2023/09/15/riogesistsa.html)
 
-+ [Little useless-useful R functions – Continuous, nowhere differentiable Weierstrass function](https://tomaztsql.wordpress.com/2023/09/06/little-useless-useful-r-functions-continuous-nowhere-differentiable-weierstrass-function/)
-
 + [Merge Consecutive Blockquotes in Markdown](https://yihui.org/en/2023/09/merge-blockquotes/)
 
 + [Make HTML Elements Full-width Automatically via JavaScript and CSS](https://yihui.org/en/2023/09/auto-fullwidth/)
@@ -173,9 +171,6 @@ Landscapes - [diffify](https://diffify.com/R/SiMRiv)
 + [Reproducible data science with Nix, part 5 -- Reproducible literate programming with Nix and Quarto](https://www.brodrigues.co/blog/2023-09-15-nix_for_r_part5/)
 
 + [Fast remote parquet](https://r.iresmi.net/posts/2023/fast_remote_parquet/index.html)
-
-+ [Mapping the Past - Geospatial Visualization in R](https://www.codingthepast.com/2023/09/06/Geospatial-Data-Visualization.html)
-
 
 + [Histograms with Two or More Variables in R](https://www.spsanderson.com/steveondata/posts/2023-09-15/index.html)
 
