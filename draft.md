@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Cloud-Native Geospatial If You Don't Speak Snake](https://cloudnativegeo.org/blog/2023/09/cloud-native-geospatial-if-you-dont-speak-snake)
 
 ### R in the Real World
 
