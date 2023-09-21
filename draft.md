@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Reproducible data science with Nix, part 6 -- CI/CD has never been easier](https://www.brodrigues.co/blog/2023-09-20-nix_for_r_part6/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
