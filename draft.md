@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+- [Benchmark of R file formats using rio and friends](https://chainsawriot.com/postmannheim/2023/09/21/benchmark.html)
 
 ### R in the Real World
 
