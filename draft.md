@@ -58,7 +58,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{newscatcheR} 0.0.1](https://cran.r-project.org/package=newscatcheR): Programmatically Collect Normalized News from (Almost) Any Website
++ [{genius} 2.2.2](https://cran.r-project.org/package=genius): Easily Access Song Lyrics from Genius.com
++ [{almanac} 0.1.0](https://cran.r-project.org/package=almanac): Tools for Working with Recurrence Rules
++ [{tidylo} 0.1.0](https://cran.r-project.org/package=tidylo): Weighted Tidy Log Odds Ratio
++ [{nombre} 0.1.0](https://cran.r-project.org/package=nombre): Number Names
++ [{nhlapi} 0.1.2](https://cran.r-project.org/package=nhlapi): A Minimum-Dependency 'R' Interface to the 'NHL' API
++ [{applicable} 0.0.1](https://cran.r-project.org/package=applicable): A Compilation of Applicability Domain Methods
++ [{upsetjs} 1.0.2](https://cran.r-project.org/package=upsetjs): 'HTMLWidget' Wrapper of 'UpSet.s' for Exploring Large Set Intersections
++ [{sketcher} 0.1.3](https://cran.r-project.org/package=sketcher): Pencil Sketch Effect
++ [{BOJ} 0.2.2](https://cran.r-project.org/package=BOJ): Interface to Bank of Japan Statistics
++ [{ROpenCVLite} 0.4.430](https://cran.r-project.org/package=ROpenCVLite): Install 'OpenCV'
 
 **Bioconductor**
 
