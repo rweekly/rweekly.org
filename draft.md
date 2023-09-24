@@ -30,7 +30,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Academia
 
+- [Guide to understanding the intuition behind the Dirichlet distribution](https://www.andrewheiss.com/blog/2023/09/18/understanding-dirichlet-beta-intuition/): Learn about the Dirichlet distribution and explore how it’s just a fancier version of the Beta distribution
 
+![plot-ternary-3-7-2-1](https://github.com/rweekly/rweekly.org/assets/73663/609a87ec-beab-44a8-b762-84403035518c)
 
 ### Resources
 
