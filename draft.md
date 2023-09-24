@@ -20,6 +20,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [Benchmark of R file formats using rio and friends](https://chainsawriot.com/postmannheim/2023/09/21/benchmark.html)
 
++ [Cloud-Native Geospatial If You Don't Speak Snake](https://cloudnativegeo.org/blog/2023/09/cloud-native-geospatial-if-you-dont-speak-snake)
+
 ### R in the Real World
 
 
@@ -30,7 +32,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Academia
 
+- [Guide to understanding the intuition behind the Dirichlet distribution](https://www.andrewheiss.com/blog/2023/09/18/understanding-dirichlet-beta-intuition/): Learn about the Dirichlet distribution and explore how it’s just a fancier version of the Beta distribution
 
+![plot-ternary-3-7-2-1](https://github.com/rweekly/rweekly.org/assets/73663/609a87ec-beab-44a8-b762-84403035518c)
 
 ### Resources
 
@@ -57,6 +61,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{mirai} 0.10.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R.
+
++ [{mirai.promises} 0.3.0](https://cran.r-project.org/package=mirai.promises): Make 'Mirai' 'Promises' in Shiny and Plumber Pipelines.
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
@@ -76,7 +84,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Reproducible data science with Nix, part 6 -- CI/CD has never been easier](https://www.brodrigues.co/blog/2023-09-20-nix_for_r_part6/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
