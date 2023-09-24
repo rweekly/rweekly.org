@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Benchmark of R file formats using rio and friends](https://chainsawriot.com/postmannheim/2023/09/21/benchmark.html)
+
 + [Cloud-Native Geospatial If You Don't Speak Snake](https://cloudnativegeo.org/blog/2023/09/cloud-native-geospatial-if-you-dont-speak-snake)
 
 ### R in the Real World
