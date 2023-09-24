@@ -364,14 +364,8 @@ Routines - [diffify](https://diffify.com/R/nlmixr2est)
   
 + [Reproducible data science with Nix, part 6 -- CI/CD has never been easier](https://www.brodrigues.co/blog/2023-09-20-nix_for_r_part6/)
 
-+ [Reproducible reports with Jupyter](https://www.jumpingrivers.com/blog/reproducible-reports-jupyter-quarto-python/)
-
 + [Snap Slides: a Lightweight HTML Presentation Framework](https://yihui.org/en/2023/09/snap-slides/)
-  
-+ [Add a Copy Button to Any Element on a Web Page](https://yihui.org/en/2023/09/copy-button/)
-  
-+ [Code Folding with 6 Lines of Vanilla JavaScript](https://yihui.org/en/2023/09/code-folding/)
-  
+      
 + [Add Client-side Searching via Fuse.js to Static Sites](https://yihui.org/en/2023/09/fuse-search/)
 
 + [Parallel raster processing in stars](https://www.r-spatial.org//r/2023/09/21/stars-parallel.html)
