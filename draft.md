@@ -30,6 +30,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Fisher’s Exact Test in R: How to Interpret & do Post Hoc Analysis](https://www.marsja.se/fishers-exact-test-in-r-how-to-interpret-post-hoc-analysis/)
 
 + [RcppInt64 0.0.3 on CRAN: Now with <code>nanotime</code> Support](http://dirk.eddelbuettel.com/blog/2023/09/19#rcppint64_0.0.3)
+  
++ [Reflections on posit conf(2023)](https://jillymackay.com/post/positconf2023/)
+  
++ [LIVE FROM CHICAGO: REAL WORLD DATA SCIENCE AT POSIT::CONF(2023)](https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/19/positconf-blog.html)
 
 ### R in the Real World
 
@@ -49,7 +53,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
+- [Styling and Templating Quarto Documents](https://www.emilhvitfeldt.com/talk/2023-09-19-quarto-theming-positconf/)
+  
+- [Introduction to webR](https://gws.quarto.pub/introduction-to-webr-2023/#/title-slide)
+  
+- [Magic with WebAssembly and webR](https://gws.quarto.pub/introduction-to-webr-2023/#/title-slide)
+  
+- [The notebook seen in Jeremy Howard's keynote at posit::conf(2023)](https://github.com/jennybc/jeremy-howard-posit-conf-2023)
+  
+- [Parameterized Quarto reports improve understanding of soil health](https://jadeynryan.github.io/2023_posit-parameterized-quarto/#/title-slide)
+  
+- [It’s All About Perspective, Making A Case for Generative Art](https://meghansaha.github.io/a_case_for_genart/#/title-slide)
+  
+- [Empowering Educators and Researchers with Interactive Quarto Documents Using webR](https://assets.thecoatlessprofessor.com/talks/quarto-webr-posit-conf-23-talk.pdf)
+  
+- [GitHub Copilot in RStudio, it’s finally here!](https://www.r-consortium.org/all-projects/call-for-proposals)
+  
+- [Graphic Design with ggplot2 by Cédric Scherer- Updated](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/)
 
+- [Practical Statistics in Medicine with R](https://practical-stats-med-r.netlify.app/)
 
 ### New Packages
 
@@ -359,6 +381,7 @@ Routines - [diffify](https://diffify.com/R/nlmixr2est)
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+[The 2023 ISC Grant Program](https://www.r-consortium.org/all-projects/call-for-proposals)
 
 ### Upcoming Events in 3 Months
 
@@ -373,6 +396,7 @@ Events in 3 Months:
 
 ### Grants & Funding
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mark your calendars! The final call for the RUGS grant opportunity is approaching fast - The deadline is September 30th, 2023. Everything you need to know is right here: <a href="https://t.co/1MS9KNBecZ">https://t.co/1MS9KNBecZ</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://twitter.com/hashtag/RLadiesSaoPaulo?src=hash&amp;ref_src=twsrc%5Etfw">#RLadiesSaoPaulo</a> <a href="https://t.co/DjoU0o1oH9">pic.twitter.com/DjoU0o1oH9</a></p>&mdash; R Consortium (@RConsortium) <a href="https://twitter.com/RConsortium/status/1705288353258570084?ref_src=twsrc%5Etfw">September 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Datasets
 
@@ -383,5 +407,12 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Got a request for this one on my website, curious how y&#39;all feel about the border lines and country annotations?<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> + <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> <a href="https://t.co/51Es5BYyNs">pic.twitter.com/51Es5BYyNs</a></p>&mdash; Spencer Schien (@MrPecners) <a href="https://twitter.com/MrPecners/status/1704269255531770244?ref_src=twsrc%5Etfw">September 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What is the most difficult part of becoming a data scientist? <br><br>I’ve had to battle through each of these. <br><br>And here are 3 tips that worked for me. 🧵<a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://t.co/zw0Lm7MiW5">pic.twitter.com/zw0Lm7MiW5</a></p>&mdash; Matt Dancho (Business Science) (@mdancho84) <a href="https://twitter.com/mdancho84/status/1705244385393147918?ref_src=twsrc%5Etfw">September 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Error messages can be so cruel 😭 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/7cCi94Abdy">pic.twitter.com/7cCi94Abdy</a></p>&mdash; Mike Kearney📊 (@kearneymw) <a href="https://twitter.com/kearneymw/status/1704622249146290286?ref_src=twsrc%5Etfw">September 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
