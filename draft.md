@@ -16,26 +16,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Draft
 
-+ [(News from) forecasting in Python with ahead (progress bars and plots)](https://thierrymoudiki.github.io/blog/2023/09/18/python/forecasting/ahead-python-progress-plots)
-+ [Confidence Intervals in Election Polling: Understanding the Uncertainty of Political Forecasting](https://blog.ephorie.de/confidence-intervals-in-election-polling-understanding-the-uncertainty-of-political-forecasting?utm_source=rss&utm_medium=rss&utm_campaign=confidence-intervals-in-election-polling-understanding-the-uncertainty-of-political-forecasting)
-+ [Mountains](https://r.iresmi.net/posts/2023/mountains/index.html)
-+ [Fast remote parquet](https://r.iresmi.net/posts/2023/fast_remote_parquet/index.html)
-+ [nimbleHMC version 0.2.0 released, providing improved HMC performance](https://r-nimble.org/nimblehmc-version-0-2-0-released-providing-improved-hmc-performance?utm_source=rss&utm_medium=rss&utm_campaign=nimblehmc-version-0-2-0-released-providing-improved-hmc-performance)
-+ [Row Means in R: Calculating Row Averages with Ease](https://www.marsja.se/row-means-in-r-calculating-row-averages/)
-+ [Fisher’s Exact Test in R: How to Interpret & do Post Hoc Analysis](https://www.marsja.se/fishers-exact-test-in-r-how-to-interpret-post-hoc-analysis/)
-+ [Reproducible reports with Jupyter](https://www.jumpingrivers.com/blog/reproducible-reports-jupyter-quarto-python/)
-+ [posit::conf(2023)](https://www.jumpingrivers.com/blog/posit-conf-2023/)
-+ [Snap Slides: a Lightweight HTML Presentation Framework](https://yihui.org/en/2023/09/snap-slides/)
-+ [Add a Copy Button to Any Element on a Web Page](https://yihui.org/en/2023/09/copy-button/)
-+ [Code Folding with 6 Lines of Vanilla JavaScript](https://yihui.org/en/2023/09/code-folding/)
-+ [Add Client-side Searching via Fuse.js to Static Sites](https://yihui.org/en/2023/09/fuse-search/)
-+ [Parallel raster processing in stars](https://www.r-spatial.org//r/2023/09/21/stars-parallel.html)
-+ [A Continental Movement: LatinR Event is Face-to-Face in Montevideo, Uruguay This Year](https://www.r-consortium.org/announcement/2023/09/19/a-continental-movement-latinr-event-is-face-to-face-in-montevideo-uruguay-this-year)
-+ [RcppInt64 0.0.3 on CRAN: Now with <code>nanotime</code> Support](http://dirk.eddelbuettel.com/blog/2023/09/19#rcppint64_0.0.3)
-+ [Finding a circle in a chart by @ellis2013nz](http://freerangestats.info/blog/2023/09/23/circle)
-+ [Introduction to Topic Modelling in R and Python workshop](https://r-posts.com/introduction-to-topic-modelling-in-r-and-python-workshop/)
-+ [Season 10 is now included in {alone} v0.3](http://gradientdescending.com/season-10-is-now-included-in-alone-v0-3/?utm_source=rss&utm_medium=rss&utm_campaign=season-10-is-now-included-in-alone-v0-3)
-+ [Rugby World Cup explainer using data](https://nc233.com/2023/09/rugby-world-cup-explainer-using-data/)
 
 ### Insights
 
@@ -43,9 +23,21 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Cloud-Native Geospatial If You Don't Speak Snake](https://cloudnativegeo.org/blog/2023/09/cloud-native-geospatial-if-you-dont-speak-snake)
 
++ [Mountains](https://r.iresmi.net/posts/2023/mountains/index.html)
+
++ [Fast remote parquet](https://r.iresmi.net/posts/2023/fast_remote_parquet/index.html)
+
++ [Row Means in R: Calculating Row Averages with Ease](https://www.marsja.se/row-means-in-r-calculating-row-averages/)
+  
++ [Fisher’s Exact Test in R: How to Interpret & do Post Hoc Analysis](https://www.marsja.se/fishers-exact-test-in-r-how-to-interpret-post-hoc-analysis/)
+
++ [RcppInt64 0.0.3 on CRAN: Now with <code>nanotime</code> Support](http://dirk.eddelbuettel.com/blog/2023/09/19#rcppint64_0.0.3)
+
 ### R in the Real World
 
++ [Confidence Intervals in Election Polling: Understanding the Uncertainty of Political Forecasting](https://blog.ephorie.de/confidence-intervals-in-election-polling-understanding-the-uncertainty-of-political-forecasting?utm_source=rss&utm_medium=rss&utm_campaign=confidence-intervals-in-election-polling-understanding-the-uncertainty-of-political-forecasting)
 
++ [Rugby World Cup explainer using data](https://nc233.com/2023/09/rugby-world-cup-explainer-using-data/)
 
 ### R in Organizations
 
@@ -101,13 +93,29 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
++ [A Continental Movement: LatinR Event is Face-to-Face in Montevideo, Uruguay This Year](https://www.r-consortium.org/announcement/2023/09/19/a-continental-movement-latinr-event-is-face-to-face-in-montevideo-uruguay-this-year)
 
 
 ### Tutorials
 
 
 + [Calibrating Binary Probabilities](https://tonyelhabr.rbind.io/posts/probability-calibration/)
+  
 + [Reproducible data science with Nix, part 6 -- CI/CD has never been easier](https://www.brodrigues.co/blog/2023-09-20-nix_for_r_part6/)
+
++ [Reproducible reports with Jupyter](https://www.jumpingrivers.com/blog/reproducible-reports-jupyter-quarto-python/)
+
++ [Snap Slides: a Lightweight HTML Presentation Framework](https://yihui.org/en/2023/09/snap-slides/)
+  
++ [Add a Copy Button to Any Element on a Web Page](https://yihui.org/en/2023/09/copy-button/)
+  
++ [Code Folding with 6 Lines of Vanilla JavaScript](https://yihui.org/en/2023/09/code-folding/)
+  
++ [Add Client-side Searching via Fuse.js to Static Sites](https://yihui.org/en/2023/09/fuse-search/)
+
++ [Parallel raster processing in stars](https://www.r-spatial.org//r/2023/09/21/stars-parallel.html)
+
++ [Finding a circle in a chart by @ellis2013nz](http://freerangestats.info/blog/2023/09/23/circle)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
