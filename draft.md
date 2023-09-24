@@ -72,6 +72,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 - [Graphic Design with ggplot2 by Cédric Scherer- Updated](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/)
 
 - [Practical Statistics in Medicine with R](https://practical-stats-med-r.netlify.app/)
+  
+- [Field Guide to Writing Your First R package](https://github.com/fontikar/posit-conf2023-talk/blob/master/FK_posit_conf_19Sept_2023.pdf)
+
 
 ### New Packages
 
