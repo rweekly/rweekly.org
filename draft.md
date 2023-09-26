@@ -27,19 +27,22 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [Cloud-Native Geospatial If You Don't Speak Snake](https://cloudnativegeo.org/blog/2023/09/cloud-native-geospatial-if-you-dont-speak-snake)
 
+<img width="581" alt="Screenshot" src="https://github.com/rweekly/rweekly.org/assets/53487593/ae345d85-1baa-410d-aeb9-c3b8c8f2f3b3">
+
 + [Mountains](https://r.iresmi.net/posts/2023/mountains/index.html)
 
 + [Fast remote parquet](https://r.iresmi.net/posts/2023/fast_remote_parquet/index.html)
 
 + [Row Means in R: Calculating Row Averages with Ease](https://www.marsja.se/row-means-in-r-calculating-row-averages/)
   
-+ [Fisher’s Exact Test in R: How to Interpret & do Post Hoc Analysis](https://www.marsja.se/fishers-exact-test-in-r-how-to-interpret-post-hoc-analysis/)
-
 + [RcppInt64 0.0.3 on CRAN: Now with <code>nanotime</code> Support](http://dirk.eddelbuettel.com/blog/2023/09/19#rcppint64_0.0.3)
   
 + [Reflections on posit conf(2023)](https://jillymackay.com/post/positconf2023/)
   
-+ [LIVE FROM CHICAGO: REAL WORLD DATA SCIENCE AT POSIT::CONF(2023)](https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/19/positconf-blog.html)
++ [Live from Chicago: Real World Data Science at posit::conf(2023)](https://realworlddatascience.net/viewpoints/editors-blog/posts/2023/09/19/positconf-blog.html)
+  
+<img width="736" alt="Screenshot" src="https://github.com/rweekly/rweekly.org/assets/53487593/f8883f37-badf-4354-9376-0dce1819fcd0">
+
 
 ### R in the Real World
 
@@ -58,16 +61,22 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 - [Styling and Templating Quarto Documents](https://www.emilhvitfeldt.com/talk/2023-09-19-quarto-theming-positconf/)
   
-- [Introduction to webR](https://gws.quarto.pub/introduction-to-webr-2023/#/title-slide)
-  
+  <img width="787" alt="Screenshot" src="https://github.com/rweekly/rweekly.org/assets/53487593/1be08425-6fa9-4d38-85a1-01ebf5005581">
+
 - [Magic with WebAssembly and webR](https://gws.quarto.pub/introduction-to-webr-2023/#/title-slide)
   
 - [The notebook seen in Jeremy Howard's keynote at posit::conf(2023)](https://github.com/jennybc/jeremy-howard-posit-conf-2023)
+
+- [Introduction to webR](https://gws.quarto.pub/introduction-to-webr-2023/#/title-slide)
+  
+  <img width="1039" alt="Screenshot" src="https://github.com/rweekly/rweekly.org/assets/53487593/08028fcd-b3fa-4135-9ca0-95c82b44c5a6">
   
 - [Parameterized Quarto reports improve understanding of soil health](https://jadeynryan.github.io/2023_posit-parameterized-quarto/#/title-slide)
   
 - [It’s All About Perspective, Making A Case for Generative Art](https://meghansaha.github.io/a_case_for_genart/#/title-slide)
   
+  <img width="792" alt="Screenshot 2023-09-26 at 07 08 58" src="https://github.com/rweekly/rweekly.org/assets/53487593/3229fc0f-55b0-4d26-9d89-b0066784bbd2">
+
 - [Empowering Educators and Researchers with Interactive Quarto Documents Using webR](https://assets.thecoatlessprofessor.com/talks/quarto-webr-posit-conf-23-talk.pdf)
   
 - [GitHub Copilot in RStudio, it’s finally here!](https://www.r-consortium.org/all-projects/call-for-proposals)
@@ -172,6 +181,8 @@ Applications in 'shiny' - [diffify](https://diffify.com/R/editbl)
 + [Calibrating Binary Probabilities](https://tonyelhabr.rbind.io/posts/probability-calibration/)
   
 + [Reproducible data science with Nix, part 6 -- CI/CD has never been easier](https://www.brodrigues.co/blog/2023-09-20-nix_for_r_part6/)
+
+  <img width="395" alt="Screenshot" src="https://github.com/rweekly/rweekly.org/assets/53487593/f0c0637a-8d5a-4c3d-b64c-de3bfd1d63ef">
 
 + [Snap Slides: a Lightweight HTML Presentation Framework](https://yihui.org/en/2023/09/snap-slides/)
       
