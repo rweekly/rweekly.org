@@ -18,11 +18,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Empowering Healthcare with R: Javier Orraca-Deatcu’s Journey from Finance to Predictive Health Models](https://www.r-consortium.org/blog/2023/09/25/empowering-healthcare-with-r-javier-orraca-deatcus-journey-from-finance-to-predictive-health-models)
 
++ [System Dependencies in R Packages & Automatic Testing](https://blog.r-hub.io/2023/09/26/system-dependency/)
 
 ### R in the Real World
 
-
++ [The Super League: Tournament Blood Bowl online](https://gsverhoeven.github.io/post/blood-bowl-super-league/)
 
 ### R in Organizations
 
@@ -77,6 +79,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Tutorials
 
 + [Creating contiguity and weight matrices in R using a {spdep} approach](https://www.jla-data.net/eng/2023-05-10-spatial-neighborhoods-in-r/)
+
++ [Using dqrng as user-supplied RNG](https://stubner.me/2023/09/using-dqrng-as-user-supplied-rng/)
+
++ [Creating a nice looking Table 1 with standardized mean differences](https://www.rdatagen.net/post/2023-09-26-nice-looking-table-1-with-standardized-mean-difference/)
+
++ [3 R functions that I enjoy](https://masalmon.eu/2023/09/29/three-functions/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
