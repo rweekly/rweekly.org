@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Creating contiguity and weight matrices in R using a {spdep} approach](https://www.jla-data.net/eng/2023-05-10-spatial-neighborhoods-in-r/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
