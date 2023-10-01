@@ -20,9 +20,15 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [System Dependencies in R Packages & Automatic Testing](https://blog.r-hub.io/2023/09/26/system-dependency/)
 
++ [Insights from Posit::conf(2023)](https://adisarid.github.io/post/insights-from-posit-conf-2023/)
+
++ [shinylive GICS Tree](https://www.jsinr.me/2023/10/01/gics-tree-in-browser/)
+
 ### R in the Real World
 
 + [The Super League: Tournament Blood Bowl online](https://gsverhoeven.github.io/post/blood-bowl-super-league/)
+
++ [The UN's proposed Multidimensional Vulnerability Index](http://freerangestats.info/blog/2023/09/30/mvi)
 
 ### R in Organizations
 
@@ -30,7 +36,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 ### R in Academia
 
-
++ [The R Journal: Volum 15/1](https://journal.r-project.org/issues/2023-1/)
 
 ### Resources
 
