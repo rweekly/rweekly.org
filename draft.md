@@ -1,10 +1,8 @@
 ---
-layout: draft
-title: R Weekly 2023-W00
-description: Draft of the R Weekly
+title: R Weekly 2023-W40 zoomerjoin, typewriter-style plots, system dependencies
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
-
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
@@ -12,7 +10,9 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 ### Highlight
 
-
++ [{zoomerjoin} 0.1.0](https://github.com/beniaminogreen/zoomerjoin): Superlatively-fast fuzzy-joins in R.
++ [Creating typewriter-styled maps in {ggplot2}](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/)
++ [System Dependencies in R Packages & Automatic Testing](https://blog.r-hub.io/2023/09/26/system-dependency/)
 
 ### Insights
 
@@ -30,9 +30,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [The UN's proposed Multidimensional Vulnerability Index](http://freerangestats.info/blog/2023/09/30/mvi)
 
-### R in Organizations
-
-
+![]()
 
 ### R in Academia
 
@@ -45,7 +43,6 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 ### New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
 
 **CRAN**
 
@@ -88,14 +85,14 @@ Ex-Gaussian Estimation
 + [{chem.databases} 1.0.0](https://cran.r-project.org/package=chem.databases): Collection of 3 Chemical Databases from Public Sources
 + [{allometric} 1.4.1](https://cran.r-project.org/package=allometric): Structured Allometric Models for Trees
 
-
 **GitHub or Bitbucket**
-<iframe src="https://fosstodon.org/@lukemorrisverse/111129970394994203/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
++ [quart_borg slide theme](https://github.com/morrisLuke/quart_borg): Mork Borg-inspired slide theme for Quarto/Reveal.js slides.
+
+![]()
 
 + [{savvy}](https://github.com/yutannihilation/savvy/): An unfriendly R extension interface using Rust.
-
 + [{zoomerjoin} 0.1.0](https://github.com/beniaminogreen/zoomerjoin): Superlatively-fast fuzzy-joins in R.
-
 + [{c64vice} 0.1.0](https://github.com/coolbutuseless/c64vice): Command a running VICE c64 emulator instance from R.
 
 ### Updated Packages
@@ -103,7 +100,6 @@ Ex-Gaussian Estimation
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [{import} 1.3.1](https://cran.r-project.org/package=import): An Import Mechanism for R.
-
 + [{nestedmodels} 1.1.0](https://cran.r-project.org/package=nestedmodels): Tidy Modelling for Nested Data - [diffify](https://diffify.com/R/nestedmodels)
 + [{timsac} 1.3.8-4](https://cran.r-project.org/package=timsac): Time Series Analysis and Control Package - [diffify](https://diffify.com/R/timsac)
 + [{lambdr} 1.2.4](https://cran.r-project.org/package=lambdr): Create a Runtime for Serving Containerised R Functions on 'AWS
@@ -171,23 +167,17 @@ OpenSSL - [diffify](https://diffify.com/R/openssl)
 + [{tidyclust} 0.2.0](https://cran.r-project.org/package=tidyclust): A Common API to Clustering - [diffify](https://diffify.com/R/tidyclust)
 + [{opencv} 0.3.0](https://cran.r-project.org/package=opencv): Bindings to 'OpenCV' Computer Vision Library - [diffify](https://diffify.com/R/opencv)
 
-
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [Bootstrap confidence intervals for how often Roy Kent says “F*CK”](https://www.youtube.com/watch?v=xofeRPYjGkQ)
+
++ [R Packages - Feeling a little Testy: TidyX Episode 159](https://www.youtube.com/watch?v=mxBR2IWtbAA)
 
 ### Gist & Cookbook
 
-+ [ Monthly analysis of PCE Inflation](https://github.com/mtkonczal/BEA-PCE-Inflation-Analysis)
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
++ [Monthly analysis of PCE Inflation](https://github.com/mtkonczal/BEA-PCE-Inflation-Analysis)
 
 ### Tutorials
 
@@ -198,6 +188,12 @@ OpenSSL - [diffify](https://diffify.com/R/openssl)
 + [Creating a nice looking Table 1 with standardized mean differences](https://www.rdatagen.net/post/2023-09-26-nice-looking-table-1-with-standardized-mean-difference/)
 
 + [3 R functions that I enjoy](https://masalmon.eu/2023/09/29/three-functions/)
+
++ [Creating typewriter-styled maps in {ggplot2}](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/)
+
+![]()
+
++ [adaR: An accurate, fast and WHATWG-compliant URL parser](http://blog.schochastics.net/post/adar-an-accurate-fast-and-whatwg-compliant-url-parser/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -210,24 +206,19 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
-### rtistry
-
++ [Statistician in psychiatric epidemiology - Uppsala University](https://uu.varbi.com/en/what:job/jobID:662317/type:job/where:4/apply:1)
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lighthouses of the United Kingdom. I rather like how this turned out. And it didn&#39;t take 42 hours. 😅 <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/jEnHHFJ8W0">pic.twitter.com/jEnHHFJ8W0</a></p>&mdash; tterence on bsky (@researchremora) <a href="https://twitter.com/researchremora/status/1706736888512405744?ref_src=twsrc%5Etfw">September 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
