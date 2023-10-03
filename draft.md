@@ -30,7 +30,7 @@ This week’s release was curated by [Ryo Nakagawara](https://twitter.com/R_by_R
 
 + [The UN's proposed Multidimensional Vulnerability Index](http://freerangestats.info/blog/2023/09/30/mvi)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2023-10-02/un-vulnerability-index.png)
 
 ### R in Academia
 
@@ -89,7 +89,7 @@ Ex-Gaussian Estimation
 
 + [quart_borg slide theme](https://github.com/morrisLuke/quart_borg): Mork Borg-inspired slide theme for Quarto/Reveal.js slides.
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2023-10-02/morkborg-quart.png)
 
 + [{savvy}](https://github.com/yutannihilation/savvy/): An unfriendly R extension interface using Rust.
 + [{zoomerjoin} 0.1.0](https://github.com/beniaminogreen/zoomerjoin): Superlatively-fast fuzzy-joins in R.
@@ -191,7 +191,7 @@ OpenSSL - [diffify](https://diffify.com/R/openssl)
 
 + [Creating typewriter-styled maps in {ggplot2}](https://nrennie.rbind.io/blog/creating-typewriter-maps-r/)
 
-![]()
+![](https://raw.githubusercontent.com/rweekly/image/master/2023-10-02/typography-cartography.png)
 
 + [adaR: An accurate, fast and WHATWG-compliant URL parser](http://blog.schochastics.net/post/adar-an-accurate-fast-and-whatwg-compliant-url-parser/)
 
