@@ -14,11 +14,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-* [C++ Q&A for R package developers](https://chainsawriot.com/postmannheim/2023/10/01/cppqa.html)
+
 
 ### Insights
 
-
+* [C++ Q&A for R package developers](https://chainsawriot.com/postmannheim/2023/10/01/cppqa.html)
 
 ### R in the Real World
 
