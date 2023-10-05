@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [How to Translate a Hugo Blog Post with Babeldown](https://ropensci.org/blog/2023/09/26/how-to-translate-a-hugo-blog-post-with-babeldown/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
