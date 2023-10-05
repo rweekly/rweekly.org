@@ -19,6 +19,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 * [C++ Q&A for R package developers](https://chainsawriot.com/postmannheim/2023/10/01/cppqa.html)
+* [An overview of what's out there for reproducibility with R](https://www.brodrigues.co/blog/2023-10-05-repro_overview/)
+
+![](https://raw.githubusercontent.com/rbind/b-rodrigues.github.com/master/static/img/like_this_resized.jpg)
 
 ### R in the Real World
 
