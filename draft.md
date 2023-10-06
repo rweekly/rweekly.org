@@ -81,6 +81,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to Translate a Hugo Blog Post with Babeldown](https://ropensci.org/blog/2023/09/26/how-to-translate-a-hugo-blog-post-with-babeldown/)
 
++ [How to translate your package's messages with {potools}](https://masalmon.eu/2023/10/06/potools-mwe/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
