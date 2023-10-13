@@ -54,7 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-
++ [{explore} 1.1.0: Simplifies Exploratory Data Analysis](https://rolkra.github.io/explore/)
 
 ### Videos and Podcasts
 
