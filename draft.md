@@ -19,7 +19,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+- [rang 0.3.0 or why computational reproducibility is not about recipes](https://chainsawriot.com/postmannheim/2023/10/10/repro.html)
 
 ### R in Organizations
 
