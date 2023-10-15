@@ -11,13 +11,17 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ### Highlight
 
++ [Two recent enhancements to my testing workflow](https://masalmon.eu/2023/10/09/test-workflow-enhancement/)
 
++ [Shiny In Production 2023: Effective Logging in Shiny](https://github.com/tanho63/talk_shinyprod2023_logging)
+
++ [Note to self: be aware of functions with default arguments](https://r-critique.com/be-aware-of-default-function-arguments)
 
 ### Insights
 
-+ [Two recent enhancements to my testing workflow](https://masalmon.eu/2023/10/09/test-workflow-enhancement/)
-
 + [testthat 3.2.0](https://www.tidyverse.org/blog/2023/10/testthat-3-2-0/)
+
++ [Two recent enhancements to my testing workflow](https://masalmon.eu/2023/10/09/test-workflow-enhancement/)
 
 + [rang 0.3.0 or why computational reproducibility is not about recipes](https://chainsawriot.com/postmannheim/2023/10/10/repro.html)
 
@@ -31,7 +35,7 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 ### R in the Real World
 
-+ [Preregistration and Researcher Degrees of Freedom: Experiences from a Field Experiment ](https://joachim-gassen.github.io/2023/10/preregistered-degrees-of-freedom/)
++ [Preregistration and Researcher Degrees of Freedom: Experiences from a Field Experiment](https://joachim-gassen.github.io/2023/10/preregistered-degrees-of-freedom/)
 
 ### R in Organizations
 
@@ -42,9 +46,11 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Shiny in Production 2023: Dynamic annotations: 10 tips for better text](https://www.cararthompson.com/talks/shiny-dynamic-annotations/)
 
-+ [Shiny In Production 2023: Effective Logging in Shiny](https://docs.google.com/presentation/d/1xt7rEwlkm8Uwtu1DWrrJ9n08V_V77Fxf8aKREPlVzrg/edit)
++ [Shiny In Production 2023: Effective Logging in Shiny](https://github.com/tanho63/talk_shinyprod2023_logging)
 
 + [Shiny In Production 2023: Anatomy of a Shiny app](https://chrisbrownlie.github.io/anatomy_of_shiny_sip23/#/title-slide)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W42/shiny-app-anatomy.png)
 
 + [Building Bridgest: Exploring Open-Source Library Development in R and Python](https://docs.google.com/presentation/d/e/2PACX-1vSO_P_zks1LDAmHHqj7WvTi7Gsf0LomhlHIGkZ7zcq4Cd1dLJCUUT54eesQD5Fa0XgKqke2lhTe2hJ5/pub?start=false&loop=false&delayms=3000#slide=id.g1e56c81eb80_0_901)
 
@@ -65,11 +71,13 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [{chessboard} 0.1](https://cran.r-project.org/package=chessboard): Create Network Connections Based on Chess Moves
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W42/chessboard.png)
+
 + [{DSBayes} 2023.1.0](https://cran.r-project.org/package=DSBayes): Bayesian Subgroup Analysis in Clinical Trials
 
 **GitHub or Bitbucket**
 
-+ [{atr} 0.0.0.9000](https://jbgruber.github.io/atr/index.html): Wraps the AT Protocol (Authenticated Transfer Protocol) behind 'Bluesky
++ [{atr} 0.0.0.9000](https://jbgruber.github.io/atr/index.html): Wraps the AT Protocol (Authenticated Transfer Protocol) behind Bluesky
 
 ### Updated Packages
 
@@ -97,11 +105,13 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [Shiny URL Queries | TidyX Episode 160](https://www.youtube.com/watch?v=gYy9RjVBUfI)
+
 + [Interfacing QGIS processing algorithms from R - Floris Vanderhaeghe](https://www.youtube.com/watch?v=Qt5DzWThWqI)
 
 ### Gist & Cookbook
 
-+ [Comparing single- and double-bracket subsetting for atomic vectors ](https://gist.github.com/krlmlr/b9ae8c3025cfbee9fc84258f98cdb211)
++ [Comparing single- and double-bracket subsetting for atomic vectors](https://gist.github.com/krlmlr/b9ae8c3025cfbee9fc84258f98cdb211)
 
 
 ### R Internationally
@@ -113,6 +123,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 + [Where are #TidyTuesday haunted cemeteries compared to haunted schools?](https://juliasilge.com/blog/haunted-places/)
 
 + [Hooray, Array!](https://jcarroll.com.au/2023/10/09/hooray-array/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W42/raku_r_coloured.png)
 
 + [nflplotR & the gt Package](http://nflplotr.nflverse.com/articles/gt.html)
 
