@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Using my own R functions in webR in an Express JS API, and thoughts on building web apps with Node & webR](https://colinfay.me/using-own-functions-in-webr-node-js/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
