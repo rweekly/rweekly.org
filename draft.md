@@ -15,6 +15,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Reproducible data science with Nix, part 7 -- Building a Quarto book using Nix on Github Actions](https://www.brodrigues.co/blog/2023-10-20-nix_for_r_part7/)
+
 
 
 ### R in the Real World
