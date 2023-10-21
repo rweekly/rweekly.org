@@ -7,7 +7,9 @@ f <- read.csv("rss_feeds.csv")
 f <- f[f$ENABLE == 1, , drop = FALSE]
 x <- get_rss_posts(f$URL)
 
-cat(x, file = OUTPUT_FILE, sep = "/n")
+cat("# RSS POSTS: ##\n\n", file = OUTPUT_FILE) # start of overwriting 
+
+cat(x, file = OUTPUT_FILE, sep = "\n", append = TRUE)
 
 ## scrape CRANberries for new/updated packages in the last 7 days
 
@@ -71,7 +73,7 @@ process_cranberries <- function(feed_type, start_date, end_date = as.Date(lubrid
 # obtain updated packages
 cb_updated_df <- process_cranberries(feed_type = "updated", start_date = as.Date(Sys.Date() - 10))
 
-cat("\n## CRANberries UPDATED: ##\n", file = OUTPUT_FILE, sep = "\n", append = TRUE)
+cat("\n# CRANberries UPDATED: ##\n", file = OUTPUT_FILE, sep = "\n", append = TRUE)
 
 # print out the markdown text
 cat(cb_updated_df$markdown_string, file = OUTPUT_FILE, sep = "\n", append = TRUE)
@@ -79,15 +81,16 @@ cat(cb_updated_df$markdown_string, file = OUTPUT_FILE, sep = "\n", append = TRUE
 # obtain new packages
 cb_new_df <- process_cranberries(feed_type = "new", start_date = as.Date(Sys.Date() - 10))
 
-cat("\n## CRANberries NEW: ##\n", file = OUTPUT_FILE, sep = "\n", append = TRUE)
+cat("\n\n# CRANberries NEW: ##\n\n", file = OUTPUT_FILE, sep = "\n", append = TRUE)
 
 # print out the markdown text
 cat(cb_new_df$markdown_string, file = OUTPUT_FILE, sep = "\n", append = TRUE)
 
-cat("\n", file = OUTPUT_FILE, append = TRUE)
+cat("\n\n", file = OUTPUT_FILE, append = TRUE)
 
 ## De-duplicate
 
 collected <- readLines(file(OUTPUT_FILE))
 
-cat(unique(collected), file = OUTPUT_FILE, sep = "\n")
+cat(unique(collected), file = OUTPUT_FILE, sep = "\n") # overwrite with de-dup
+
