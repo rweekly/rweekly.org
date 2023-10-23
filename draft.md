@@ -50,6 +50,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
+- [fold](https://github.com/feddelegrand7/fold): helps R developers to work with several R folders within an R package.
 
 
 ### Updated Packages
