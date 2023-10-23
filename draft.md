@@ -1,7 +1,6 @@
 ---
-layout: draft
-title: R Weekly 2023-W43
-description: Draft of the R Weekly
+title: R Weekly 2023-W43 Base R, More base R, data.table
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
 
@@ -11,27 +10,35 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### Highlight
 
++ [Base slaps!](https://www.rostrum.blog/posts/2023-10-17-nhs-r-2023/)
+
++ [3 (actually 4) neat R functions](https://masalmon.eu/2023/10/20/three-neat-functions/)
+
++ [Announcement: data.table translation projects](https://rdatatable-community.github.io/The-Raft/posts/2023-10-17-translation_announcement-toby_hocking/)
 
 
 ### Insights
 
 + [Base slaps!](https://www.rostrum.blog/posts/2023-10-17-nhs-r-2023/)
 + [Reproducible data science with Nix, part 7 -- Building a Quarto book using Nix on Github Actions](https://www.brodrigues.co/blog/2023-10-20-nix_for_r_part7/)
-+ [The Forgotten Factor in the Middle East Conflict | Youth Bulge Theory](https://blog.ephorie.de/the-forgotten-factor-in-the-middle-east-conflict-youth-bulge-theory?utm_source=rss&utm_medium=rss&utm_campaign=the-forgotten-factor-in-the-middle-east-conflict-youth-bulge-theory)
-+ [Highlights from Shiny in Production (2023)](https://www.jumpingrivers.com/blog/shiny-in-production-highlights-2023/)
++ [The Forgotten Factor in the Middle East Conflict \| Youth Bulge Theory](https://blog.ephorie.de/the-forgotten-factor-in-the-middle-east-conflict-youth-bulge-theory?utm_source=rss&utm_medium=rss&utm_campaign=the-forgotten-factor-in-the-middle-east-conflict-youth-bulge-theory)
 + [R Markdown v1: Feature Complete!](https://yihui.org/en/2023/10/markdown-complete/)
 + [A Simple HTML Article Format](https://yihui.org/en/2023/10/html-article/)
 + [3 (actually 4) neat R functions](https://masalmon.eu/2023/10/20/three-neat-functions/)
 + [The real reset button for local mess fom tests: withr::deferred_run()](https://masalmon.eu/2023/10/16/test-local-mess-reset/)
 + [The 'V20' group of vulnerable countries and the MVI by @ellis2013nz](http://freerangestats.info/blog/2023/10/17/mvi-and-v20)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W43/v20_600.png)
+
 + [Some tips to work with SQLite database](https://rfsaldanha.github.io/posts/some-tips-for-sqlite.html)
 + [Announcement: data.table translation projects](https://rdatatable-community.github.io/The-Raft/posts/2023-10-17-translation_announcement-toby_hocking/)
-
-### R in the Real World
++ [Use string as random seed in R](https://mehrad.ai/posts/20231022-use-string-as-random-seed-in-r/)
++ [Interactions – where are you?](https://lorentzen.ch/index.php/2023/10/16/interactions-where-are-you/)
++ [Unlocking the Power of Functional Programming in R (Part 1)](https://appsilon.com/functional-programming-in-r-part-1/)
 
 ### R in Organizations
 
-### R in Academia
++ [Highlights from Shiny in Production (2023)](https://www.jumpingrivers.com/blog/shiny-in-production-highlights-2023/)
 
 ### R Adjacent
 
@@ -44,8 +51,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 ### R Users
 
 + [Giving Back to the R Community in Edmonton, Alberta, through Open Source Package Development and Educational Blogs](https://www.r-consortium.org/blog/2023/10/17/giving-back-to-the-r-community-in-edmonton-alberta-through-open-source-package-development-and-educational-blogs)
-
-### Resources
 
 ### New Packages
 
@@ -69,20 +74,19 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [{coursekata} 0.14.0](https://cran.r-project.org/package=coursekata): Packages and Functions for 'CourseKata' Courses
 + [{echarty} 1.6.2](https://cran.r-project.org/package=echarty): Minimal R/Shiny Interface to JavaScript Library 'ECharts'
 
-**Bioconductor**
-
 **GitHub or Bitbucket**
 
 + [Version v0.14.0 of nnetsauce for R and Python](https://thierrymoudiki.github.io/blog/2023/10/16/python/r/forecasting/quasirandomizednn/nnetsauce-mts-R)
 
 + [{getrect} 0.0.1](https://github.com/coolbutuseless/getrect)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W43/getrect_600.png)
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [qlcal 0.0.8 on CRAN: QuantLib 1.32 Updates](http://dirk.eddelbuettel.com/blog/2023/10/21#qlcal-r_0.0.8)
-
 + [{usmapdata} 0.1.0](https://cran.r-project.org/package=usmapdata): Mapping Data for 'usmap' Package - [diffify](https://diffify.com/R/usmapdata)
 + [{textrecipes} 1.0.4](https://cran.r-project.org/package=textrecipes): Extra 'Recipes' for Text Processing - [diffify](https://diffify.com/R/textrecipes)
 + [{ezplot} 0.7.8](https://cran.r-project.org/package=ezplot): Functions for Common Chart Types - [diffify](https://diffify.com/R/ezplot)
@@ -130,12 +134,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [Latin R Plenary - Hannah Frick](https://www.youtube.com/watch?v=1o-UoIF9vIc) ([slides](https://hfrick.github.io/2023-latinr/))
 
-### Gist & Cookbook
-
-### Shiny Apps
-
-### R Internationally
-
 ### Tutorials
 
 + [Using my own R functions in webR in an Express JS API, and thoughts on building web apps with Node & webR](https://colinfay.me/using-own-functions-in-webr-node-js/)
@@ -169,15 +167,20 @@ Events in 3 Months:
 
 + [Welcome to the {data.table} ecosystem project!](https://rdatatable-community.github.io/The-Raft/posts/2023-10-15-intro_to_grant-toby_hocking/)
 
-### Datasets
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ### rtistry
 
+<iframe src="https://fosstodon.org/@nrennie/111239544140423578/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<iframe src="https://botsin.space/@aRtsy_package/111277190420066434/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
 ### Quotes of the Week
 
 <iframe src="https://fosstodon.org/@teunbrand/111245112287432044/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<iframe src="https://mastodon.social/@henrikbengtsson/111247989983931296/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+<iframe src="https://fosstodon.org/@_wurli/111245265519237933/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
