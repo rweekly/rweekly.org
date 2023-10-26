@@ -24,7 +24,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### R in Organizations
-
++ [{NCIFD} — An Internal R Package for a Fisheries Agency](https://afspubs.onlinelibrary.wiley.com/doi/10.1002/fsh.10974)
 
 
 ### R in Academia
