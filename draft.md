@@ -59,6 +59,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [ShinyUiEditor: Out of Alpha](https://posit.co/blog/shinyuieditor-out-of-alpha/)
 
++ [{ichimoku} 1.4.10](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
