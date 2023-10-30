@@ -128,7 +128,7 @@ Events in 3 Months:
 
 ### Quotes of the Week
 
-<iframe src="https://fosstodon.org/@brodriguesco/111302615751286364/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+<iframe src="https://fosstodon.org/@brodriguesco/111302615751286364/embed" width="500" height="300" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
-<iframe src="https://mstdn.social/@gws/111300782748723374/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+<iframe src="https://mstdn.social/@gws/111300782748723374/embed" width="500" height="600" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
