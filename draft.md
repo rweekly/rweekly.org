@@ -28,19 +28,13 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 + [Fund Forecasting: Comparing Prophet, ETS, and ARIMA using Bagging](https://datageeek.com/2023/10/25/fund-forecasting/)
 
-### R in Organizations
-
-
-
-### R in Academia
-
-
-
 ### Resources
 
 + [Answering some {tidymodels} questions](https://nrennie.rbind.io/blog/answering-some-tidymodels-questions/)
 
 + [A worthy collection of short R commands and tricks](https://lpembleton.rbind.io/ramblings/r/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W44/r_tips_annotation_600.png)
 
 ### New Packages
 
@@ -61,40 +55,27 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 + [{rdracor} 0.7.6](https://cran.r-project.org/package=rdracor): Access to the 'DraCor' API
 
-
-**Bioconductor**
-
-
-
 **GitHub or Bitbucket**
 
 + [{component} - Creating components for Shiny inspired by Vue](https://github.com/devOpifex/component)
-
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-
-
 + [{shinyLP} 1.1.3](https://cran.r-project.org/package=shinyLP): Bootstrap Landing Home Pages for Shiny Applications - [diffify](https://diffify.com/R/shinyLP)
 
 + [{gridpattern} 1.1.1](https://cran.r-project.org/package=gridpattern): 'grid' Pattern Grobs - [diffify](https://diffify.com/R/gridpattern)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W44/README-hex_ggpattern-1_600.png)
+
 + [{rbibutils} 2.2.16](https://cran.r-project.org/package=rbibutils): Read 'Bibtex' Files and Convert Between Bibliography Formats - [diffify](https://diffify.com/R/rbibutils)
 
-
-
 + [{dm} 1.0.7](https://cran.r-project.org/package=dm): Relational Data Models - [diffify](https://diffify.com/R/dm)
-
 
 + [{httpuv} 1.6.12](https://cran.r-project.org/package=httpuv): HTTP and WebSocket Server Library - [diffify](https://diffify.com/R/httpuv)
 
 + [{s3fs} 0.1.4](https://cran.r-project.org/package=s3fs): 'Amazon Web Service S3' File System - [diffify](https://diffify.com/R/s3fs)
-
-
-
-
 
 ### Videos and Podcasts
 
@@ -107,25 +88,14 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 + [TidyX Episode 161: Shinylive - is this thing on?](https://www.youtube.com/watch?v=B3Nggr9X4rY)
 
 + [Reduced perceived waiting time in Shiny](https://www.youtube.com/watch?v=YrCX0FlXsW0)
-### Gist & Cookbook
-
-
 
 ### Shiny Apps
 
 + [ShinyUIEditor: Out of alpha](https://posit.co/blog/shinyuieditor-out-of-alpha/)
 
-### R Internationally
-
-
-
 ### Tutorials
 
-
 + [RObservations #48: Exploring All Possible Hands in 5 card Poker](https://bensstats.wordpress.com/2023/10/22/robservations-48-exploring-all-possible-hands-in-5-card-poker/)
-
-
-
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -137,7 +107,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
-
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -153,14 +122,13 @@ Events in 3 Months:
 
 + [satRdays infrastructure update – ISC Funded Project](https://www.r-consortium.org/blog/2023/10/18/satrdays-infrastructure-update-isc-funded-project)
 
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
-### rtistry
-
-
 ### Quotes of the Week
+
+<iframe src="https://fosstodon.org/@brodriguesco/111302615751286364/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+<iframe src="https://mstdn.social/@gws/111300782748723374/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
