@@ -1,14 +1,13 @@
 ---
 layout: draft
-title: R Weekly 2023-W44
+title: R Weekly 2023-W45
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Eric Nantz](https://podcastindex.social/@rpodcast), with help from the R Weekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
 
 
@@ -18,23 +17,23 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 ### Insights
 
-+ [All The Right Friends: how does Google Scholar rank co-authors?](https://quantixed.org/2023/10/21/all-the-right-friends-how-does-google-scholar-rank-co-authors/)
 
-+ [Ted Laderas Discusses CascadiaR and the Diverse R Community in Portland](https://www.r-consortium.org/blog/2023/10/25/ted-laderas-discusses-cascadiar-and-the-diverse-r-community-in-portland)
 
 ### R in the Real World
 
-+ [Topic modeling for #TidyTuesday Taylor Swift lyrics](https://juliasilge.com/blog/taylor-swift/)
 
-+ [Fund Forecasting: Comparing Prophet, ETS, and ARIMA using Bagging](https://datageeek.com/2023/10/25/fund-forecasting/)
+
+### R in Organizations
+
+
+
+### R in Academia
+
+
 
 ### Resources
 
-+ [Answering some {tidymodels} questions](https://nrennie.rbind.io/blog/answering-some-tidymodels-questions/)
 
-+ [A worthy collection of short R commands and tricks](https://lpembleton.rbind.io/ramblings/r/)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2023/W44/r_tips_annotation_600.png)
 
 ### New Packages
 
@@ -43,59 +42,40 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 **CRAN**
 
-+ [{detectors} 0.1.0](https://cran.r-project.org/package=detectors): Prediction Data from GPT Detectors
 
-+ [{envvar} 0.1.0](https://cran.r-project.org/package=envvar): Make Working with Environment Variables Easier and More Consistent
 
-+ [{databraryr} 0.5.0](https://cran.r-project.org/package=databraryr): Interact with the 'Databrary.org' API
+**Bioconductor**
 
-+ [{sdtmval} 0.4.1](https://cran.r-project.org/package=sdtmval): Validate SDTM Domains
 
-+ [{drugDemand} 0.1.0](https://cran.r-project.org/package=drugDemand): Drug Demand Forecasting
-
-+ [{rdracor} 0.7.6](https://cran.r-project.org/package=rdracor): Access to the 'DraCor' API
 
 **GitHub or Bitbucket**
 
-+ [{component} - Creating components for Shiny inspired by Vue](https://github.com/devOpifex/component)
+
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{shinyLP} 1.1.3](https://cran.r-project.org/package=shinyLP): Bootstrap Landing Home Pages for Shiny Applications - [diffify](https://diffify.com/R/shinyLP)
-
-+ [{gridpattern} 1.1.1](https://cran.r-project.org/package=gridpattern): 'grid' Pattern Grobs - [diffify](https://diffify.com/R/gridpattern)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2023/W44/README-hex_ggpattern-1_600.png)
-
-+ [{rbibutils} 2.2.16](https://cran.r-project.org/package=rbibutils): Read 'Bibtex' Files and Convert Between Bibliography Formats - [diffify](https://diffify.com/R/rbibutils)
-
-+ [{dm} 1.0.7](https://cran.r-project.org/package=dm): Relational Data Models - [diffify](https://diffify.com/R/dm)
-
-+ [{httpuv} 1.6.12](https://cran.r-project.org/package=httpuv): HTTP and WebSocket Server Library - [diffify](https://diffify.com/R/httpuv)
-
-+ [{s3fs} 0.1.4](https://cran.r-project.org/package=s3fs): 'Amazon Web Service S3' File System - [diffify](https://diffify.com/R/s3fs)
-
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-+ [The role changes in programming within the pharmaceutical industry](https://www.youtube.com/watch?v=z3XZ0aLIjMg)
 
-+ [What Do You Mean Test Coverage?! Efficient Testing for Shiny Apps](https://www.youtube.com/watch?v=hcmQJOEphHc)
+### Gist & Cookbook
 
-+ [TidyX Episode 161: Shinylive - is this thing on?](https://www.youtube.com/watch?v=B3Nggr9X4rY)
 
-+ [Reduced perceived waiting time in Shiny](https://www.youtube.com/watch?v=YrCX0FlXsW0)
 
 ### Shiny Apps
 
-+ [ShinyUIEditor: Out of alpha](https://posit.co/blog/shinyuieditor-out-of-alpha/)
+
+
+### R Internationally
+
+
 
 ### Tutorials
 
-+ [RObservations #48: Exploring All Possible Hands in 5 card Poker](https://bensstats.wordpress.com/2023/10/22/robservations-48-exploring-all-possible-hands-in-5-card-poker/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -108,27 +88,24 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
+
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-+ [Using Spatial Data with R Shiny workshop](https://r-posts.com/using-spatial-data-with-r-shiny-workshop-2/)
-
-+ [PHUSE Connect EU 2023 –  Clinical Data Science Conference – Coming in Early November](https://www.r-consortium.org/blog/2023/10/26/phuse-connect-eu-2023-clinical-data-science-conference-coming-in-early-november)
-
 ### Grants & Funding
 
-+ [satRdays infrastructure update – ISC Funded Project](https://www.r-consortium.org/blog/2023/10/18/satrdays-infrastructure-update-isc-funded-project)
+
+### Datasets
+
 
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
+### rtistry
+
+
 ### Quotes of the Week
-
-<iframe src="https://fosstodon.org/@brodriguesco/111302615751286364/embed" width="500" height="300" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
-
-<iframe src="https://mstdn.social/@gws/111300782748723374/embed" width="500" height="600" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
-
