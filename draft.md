@@ -21,7 +21,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Forecasting Pittsburgh Potholes with {fable}](https://ctompkins.netlify.app/post/forecasting-pittsburgh-potholes-with-fable/)
 
 ### R in Organizations
 + [{NCIFD} — An Internal R Package for a Fisheries Agency](https://afspubs.onlinelibrary.wiley.com/doi/10.1002/fsh.10974)
