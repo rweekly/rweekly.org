@@ -23,13 +23,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Forecasting Pittsburgh Potholes with {fable}](https://ctompkins.netlify.app/post/forecasting-pittsburgh-potholes-with-fable/)
 
++ [Sluggish system or client code?](https://www.jumpingrivers.com/blog/dplyr-debugging-posit-diffify/)
+
 ### R in Organizations
+
 + [{NCIFD} — An Internal R Package for a Fisheries Agency](https://afspubs.onlinelibrary.wiley.com/doi/10.1002/fsh.10974)
+
++ [R Quixote in Spain: Organizing Annual R Conference and Writing Book for Hispanic R Users](https://www.r-consortium.org/blog/2023/10/31/r-quixote-in-spain-organizing-annual-r-conference-and-writing-book-for-hispanic-r-users)
 
 
 ### R in Academia
 
-
++ [Our first adventure with Visium Spatial Proteogenomics](http://LieberInstitute.github.io/rstatsclub/2023/11/01/our-first-adventure-with-visium-spatial-proteogenomics/)
 
 ### Resources
 
@@ -42,7 +47,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [RcppArmadillo 0.12.6.6.0 on CRAN: Bugfix, Thread Throttling](https://dirk.eddelbuettel.com/blog/2023/10/31/#rcpparmadillo_0.12.6.6.0)
 
 **Bioconductor**
 
@@ -80,7 +85,23 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Geocode address text strings using tidygeocoder](https://ikashnitsky.phd/2023/geocoding/index.html)
 
++ [Unlock R functions with QR codes](https://www.rostrum.blog/posts/2023-11-01-qr-enabled-fn/index.html)
+
++ [How to analyze the screen times of presidential candidates](https://www.storybench.org/how-to-analyze-the-screen-times-of-presidential-candidates/)
+
++ [Multinomial Distribution in R](https://www.spsanderson.com/steveondata/posts/2023-10-31/index.html)
+
++ [Scanning QR codes in R](https://ropensci.org/blog/2023/10/30/opencv-qr/)
+
++ [Randomness in R: runif(), punif(), dunif(), and quinf()](https://www.spsanderson.com/steveondata/posts/2023-10-30/index.html)
+
++ [All The Right Friends II: clustering papers using Google Scholar data](https://quantixed.org/2023/10/29/all-the-right-friends-ii-clustering-papers-using-google-scholar-data/)
+
++ [3MW (Use {bslib} without Shiny)](https://3mw.albert-rapp.de/p/bslib-without-shiny)
+
++ [Adding context to maps made with ggplot2](https://mm218.dev/posts/2023-10-31-map-context/index.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
