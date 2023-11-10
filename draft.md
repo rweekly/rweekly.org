@@ -57,6 +57,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{mirai} 0.11.1](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R.
+
++ [{nanonext} 0.10.4](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen). NNG is a high-performance socket library implementing common communications patterns including publish/subscribe, request/reply and service discovery, over in-process, IPC, TCP, WebSocket and secure TLS transports.
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
