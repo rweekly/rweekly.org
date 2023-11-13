@@ -60,6 +60,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
++ [Reproducible R development on Github Actions with Nix](https://www.youtube.com/watch?v=VXB4e11lHtw)
 
 
 ### Gist & Cookbook
