@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [The Road to Building Ten Million Binaries](https://posit.co/blog/the-road-to-building-ten-million-binaries/)
 
 ### R in the Real World
 
