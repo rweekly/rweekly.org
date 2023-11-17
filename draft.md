@@ -20,17 +20,21 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [The Road to Building Ten Million Binaries](https://posit.co/blog/the-road-to-building-ten-million-binaries/)
 
++ [The current introduction to my package development workshops](https://masalmon.eu/2023/11/09/r-package-development-teaching-intro/)
+
++ [Lesser-known reasons to prefer `apply()` over for loops](https://epiverse-trace.github.io/posts/for-vs-apply/)
+
 ### R in the Real World
 
-
++ [Taylor's Towering Year](https://colorado.posit.co/rsc/tay-swift-tour/)
 
 ### R in Organizations
 
-
++ [The rOpenSci Multiverse](https://ropensci.org/blog/2023/11/06/r-universe-stars-finale/)
 
 ### R in Academia
 
-
+* [Does birth order matter?](https://wyclif.substack.com/p/does-birth-order-matter)
 
 ### Resources
 
@@ -57,9 +61,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{mirai} 0.11.1](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R.
+
++ [{nanonext} 0.10.4](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen). NNG is a high-performance socket library implementing common communications patterns including publish/subscribe, request/reply and service discovery, over in-process, IPC, TCP, WebSocket and secure TLS transports.
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
++ [Reproducible R development on Github Actions with Nix](https://www.youtube.com/watch?v=VXB4e11lHtw)
 
 
 ### Gist & Cookbook
@@ -77,6 +86,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Tutorials
 
 + [Print Debugging (Now with Icecream!)](https://jcarroll.com.au/2023/11/07/print-debugging-now-with-icecream/)
++ [Let's talk attention in Transformers](https://rpubs.com/eR_ic/attention)
+
++ [webR 0.2 Overview: R in the browser](https://www.youtube.com/watch?v=Mpq9a6yMl_w)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
