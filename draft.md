@@ -77,6 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Tutorials
 
 + [Print Debugging (Now with Icecream!)](https://jcarroll.com.au/2023/11/07/print-debugging-now-with-icecream/)
++ [Let's talk attention in Transformers](https://rpubs.com/eR_ic/attention)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
