@@ -86,6 +86,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Print Debugging (Now with Icecream!)](https://jcarroll.com.au/2023/11/07/print-debugging-now-with-icecream/)
 + [Let's talk attention in Transformers](https://rpubs.com/eR_ic/attention)
 
++ [webR 0.2 Overview: R in the browser](https://www.youtube.com/watch?v=Mpq9a6yMl_w)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
