@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Lesser-known reasons to prefer `apply()` over for loops](https://epiverse-trace.github.io/posts/for-vs-apply/)
 
 ### R in the Real World
 
