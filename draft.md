@@ -32,7 +32,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Academia
 
-
+* [Does birth order matter?](https://wyclif.substack.com/p/does-birth-order-matter)
 
 ### Resources
 
