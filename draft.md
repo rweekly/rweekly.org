@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [The current introduction to my package development workshops](https://masalmon.eu/2023/11/09/r-package-development-teaching-intro/)
+
 + [Lesser-known reasons to prefer `apply()` over for loops](https://epiverse-trace.github.io/posts/for-vs-apply/)
 
 ### R in the Real World
@@ -26,7 +28,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
-
++ [The rOpenSci Multiverse](https://ropensci.org/blog/2023/11/06/r-universe-stars-finale/)
 
 ### R in Academia
 
