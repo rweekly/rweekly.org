@@ -27,6 +27,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 + [Taylor's Towering Year](https://colorado.posit.co/rsc/tay-swift-tour/)
++ [Forecasting potholes with exogenous variables](https://ctompkins.netlify.app/post/forecasting-potholes-with-exogenous-variables/)
 
 ### R in Organizations
 
