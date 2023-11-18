@@ -24,10 +24,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Lesser-known reasons to prefer `apply()` over for loops](https://epiverse-trace.github.io/posts/for-vs-apply/)
 
-+ [Useful functions for dealing with object names](https://masalmon.eu/2023/11/06/functions-dealing-with-names/)
 + [Reading notes on Git in Practice by Mike McQuaid](https://masalmon.eu/2023/11/01/reading-notes-git-in-practice/)
-
-+ [Print Debugging (Now with Icecream!)](https://jcarroll.com.au/2023/11/07/print-debugging-now-with-icecream/)
 
 + [Three ways errors are about to get better in tidymodels](https://www.tidyverse.org/blog/2023/11/tidymodels-errors-q4/)
 
@@ -57,7 +54,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [mlsauce version 0.8.10: Statistical/Machine Learning with Python and R](https://thierrymoudiki.github.io/blog/2023/11/05/python/r/adaopt/lsboost/mlsauce_classification)
 
-+ [The current introduction to my package development workshops](https://masalmon.eu/2023/11/09/r-package-development-teaching-intro/)
 
 
 ### R in Organizations
@@ -177,8 +173,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [3MW (Cleaning web-scraped tables)](https://3mw.albert-rapp.de/p/cleaning-web-scraped-tables)
 
 + [3MW (Combine R & Python)](https://3mw.albert-rapp.de/p/reticulate-py-r)
-
-+ [3MW (Use {bslib} without Shiny)](https://3mw.albert-rapp.de/p/bslib-without-shiny)
 
 + [How to Change Fonts in ggplot2 with Google Fonts](https://www.codingthepast.com/2023/11/15/Change-Fonts-in-ggplot.html)
 
