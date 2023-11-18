@@ -31,6 +31,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Three ways errors are about to get better in tidymodels](https://www.tidyverse.org/blog/2023/11/tidymodels-errors-q4/)
 
++ [httr2 1.0.0](https://www.tidyverse.org/blog/2023/11/httr2-1-0-0/)
+
 + [How to Get Good with R?](https://www.njtierney.com/post/2023/11/10/how-to-get-good-with-r/)
 
 + [Odds Are You're Using Probabilities to Describe Event Outcomes](https://www.bryanshalloway.com/2023/11/03/odds-are-you-re-using-probabilities-to-describe-event-outcomes/)
@@ -40,6 +42,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [How to Simulate & Plot a Bivariate Normal Distribution in R: A Hands-on Guide](https://www.spsanderson.com/steveondata/posts/2023-11-07/index.html)
 
 + [Classed conditions from rlang functions](https://mm218.dev/posts/2023-11-07-classed-errors/index.html)
+
++ [An Upcoming Change in the TinyTeX Installation Path on Windows](https://yihui.org/en/2023/11/tinytex-path/)
+
++ [Zoom-Zoom release of quarto-webr extension adds improved support for RevealJS](https://github.com/coatless/quarto-webr/releases/tag/0.3.9)
 
 ### R in the Real World
 
@@ -66,6 +72,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 * [Does birth order matter?](https://wyclif.substack.com/p/does-birth-order-matter)
 
 + [FAIR standards for the creation of research materials, with examples](https://pablobernabeu.github.io/2023/fair-standards-for-the-creation-of-research-materials-with-examples/)
+
++ [Subgroup detection in linear growth curve models](https://www.zeileis.org/news/growth_curve_trees/)
+
 
 ### Resources
 
@@ -123,6 +132,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
++ [Highlights from R-Ladies Paris Hybrid Meetup Empowering Community Outreach](https://www.r-consortium.org/blog/2023/11/16/highlights-from-r-ladies-paris-hybrid-meetup-empowering-community-outreach)
+
++ [SatRdays London 2024](https://www.jumpingrivers.com/blog/satrdays-london-2024-r-conference/)
 
 
 ### Tutorials
@@ -156,9 +168,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Fitting a Distribution to Data in R](https://www.spsanderson.com/steveondata/posts/2023-11-02/index.html)
 + [Understanding the Triangular Distribution and Its Application in R](https://www.spsanderson.com/steveondata/posts/2023-11-01/index.html)
 
++ [Quadratic Regression in R: Unveiling Non-Linear Relationships](https://www.spsanderson.com/steveondata/posts/2023-11-17/index.html)
++ [{healthyR.ts} New Features: Unlocking More Power](https://www.spsanderson.com/steveondata/posts/2011-11-16/index.html)
++ [How to Perform Multiple Linear Regression in R](https://www.spsanderson.com/steveondata/posts/2023-11-15/index.html)
++ [How to Predict a Single Value Using a Regression Model in R](https://www.spsanderson.com/steveondata/posts/2023-11-14/index.html)
++ [Unlocking the Power of Prediction Intervals in R: A Practical Guide](https://www.spsanderson.com/steveondata/posts/2023-11-13/index.html)
+
++ [3MW (Cleaning web-scraped tables)](https://3mw.albert-rapp.de/p/cleaning-web-scraped-tables)
+
 + [3MW (Combine R & Python)](https://3mw.albert-rapp.de/p/reticulate-py-r)
 
 + [3MW (Use {bslib} without Shiny)](https://3mw.albert-rapp.de/p/bslib-without-shiny)
+
++ [How to Change Fonts in ggplot2 with Google Fonts](https://www.codingthepast.com/2023/11/15/Change-Fonts-in-ggplot.html)
+
++ [A classifier that’s very accurate (and deep)](https://thierrymoudiki.github.io/blog/2023/11/12/python/r/quasirandomizednn/nnetsauce-deep-lazy)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -178,6 +203,8 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
++ [OxfordRUG November 2023 - Making Christmas cards with R - online](https://www.meetup.com/oxford-r-user-group/events/297417319/)
+
 ### Grants & Funding
 
 
@@ -189,6 +216,10 @@ Events in 3 Months:
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ### rtistry
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/30DayMapChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30DayMapChallenge</a>: Day 18: Atmosphere. Air quality of Europe from 2017 to 2021, measured as spatial estimates of PM10, PM2.5, Ozone, NO2, and NOx. Higher values correspond to worse air quality.<a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/z2wzXOxedX">pic.twitter.com/z2wzXOxedX</a></p>&mdash; tterence on bsky (@researchremora) <a href="https://twitter.com/researchremora/status/1725863164317778182?ref_src=twsrc%5Etfw">November 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A very quick <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a> using {ggsankey} this week to visualise Diwali sales data, breaking down customers into different segments! <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/R4DS?src=hash&amp;ref_src=twsrc%5Etfw">#R4DS</a> <a href="https://twitter.com/hashtag/DataViz?src=hash&amp;ref_src=twsrc%5Etfw">#DataViz</a> <a href="https://t.co/x59XFAl5uy">pic.twitter.com/x59XFAl5uy</a></p>&mdash; Nicola Rennie | @nrennie@fosstodon.org (@nrennie35) <a href="https://twitter.com/nrennie35/status/1724540828431888851?ref_src=twsrc%5Etfw">November 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ### Quotes of the Week
