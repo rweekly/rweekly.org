@@ -100,6 +100,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [RcppEigen 0.3.3.9.4 on CRAN: Maintenance, Matrix Changes](http://dirk.eddelbuettel.com/blog/2023/11/03#rcppeigen_0.3.3.9.4)
 
++ [{happign} 0.2.1](https://cran.r-project.org/package=happign): Easy access to French geodata from IGN (National Institute of Geographic)
+
 + [{mirai} 0.11.1](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R.
 
 + [{nanonext} 0.10.4](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen). NNG is a high-performance socket library implementing common communications patterns including publish/subscribe, request/reply and service discovery, over in-process, IPC, TCP, WebSocket and secure TLS transports.
