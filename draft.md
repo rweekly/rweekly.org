@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2023-W00
+title: R Weekly 2023-W47
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -14,6 +14,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
++ [httr2 1.0.0](https://www.tidyverse.org/blog/2023/11/httr2-1-0-0/)
+
++ [The Road to Building Ten Million Binaries](https://posit.co/blog/the-road-to-building-ten-million-binaries/)
+
++ [How to Get Good with R?](https://www.njtierney.com/post/2023/11/10/how-to-get-good-with-r/)
 
 
 ### Insights
@@ -44,6 +49,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Zoom-Zoom release of quarto-webr extension adds improved support for RevealJS](https://github.com/coatless/quarto-webr/releases/tag/0.3.9)
 
++ [{shiny.telemetry}: Enhanced User Behavior Analytics in R/Shiny Dashboards](https://appsilon.com/shiny-telemetry-in-r-shiny-dashboards/)
+
++ [R lubridate: How To Efficiently Work With Dates and Times in R](https://appsilon.com/r-lubridate/)
+
++ [Accelerating Drug Discovery: Machine Learning for Protein Crystal Detection](https://appsilon.com/machine-learning-for-protein-crystal-detection/)
+
++ [Unlocking the Power of Functional Programming in R (Part 3): Advanced Techniques & Practical Applications](https://appsilon.com/functional-programming-in-r-part-3/)
+
 ### R in the Real World
 
 + [Taylor's Towering Year](https://colorado.posit.co/rsc/tay-swift-tour/)
@@ -72,10 +85,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Subgroup detection in linear growth curve models](https://www.zeileis.org/news/growth_curve_trees/)
 
 
-### Resources
-
-
-
 ### New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -83,26 +92,105 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{earthdatalogin} 0.0.1](https://cran.r-project.org/package=earthdatalogin): NASA 'EarthData' Login Utilities
++ [{actLifer} 1.0.0](https://cran.r-project.org/package=actLifer): Creating Actuarial Life Tables
++ [{epiphy} 0.5.0](https://cran.r-project.org/package=epiphy): Analysis of Plant Disease Epidemics
++ [{textrecipes} 1.0.6](https://cran.r-project.org/package=textrecipes): Extra 'Recipes' for Text Processing
++ [{epitweetr} 2.2.16](https://cran.r-project.org/package=epitweetr): Early Detection of Public Health Threats from 'Twitter' Data
++ [{aeddo} 0.1.0](https://cran.r-project.org/package=aeddo): Automated and Early Detection of Disease Outbreaks
++ [{versus} 0.1.0](https://cran.r-project.org/package=versus): Compare Data Frames
++ [{gutenbergr} 0.2.4](https://cran.r-project.org/package=gutenbergr): Download and Process Public Domain Works from Project Gutenberg
++ [{bskyr} 0.0.4](https://cran.r-project.org/package=bskyr): Interact with 'Bluesky' Social
+
 + [spatialsample 0.5.0 is now on CRAN](https://mm218.dev/posts/2023-11-03-spatialsample/index.html)
 
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
++ [{rosv} 0.4.2](https://cran.r-project.org/package=rosv): Client to Access and Operate on the 'Open Source Vulnerability'
+API
++ [{wordbankr} 1.0.2](https://cran.r-project.org/package=wordbankr): Accessing the Wordbank Database
++ [{Spectran} 1.0.3](https://cran.r-project.org/package=Spectran): Visual and Non-Visual Spectral Analysis of Light
++ [{qeML} 1.1](https://cran.r-project.org/package=qeML): Quick and Easy Machine Learning Tools
++ [{filecacher} 0.2.4](https://cran.r-project.org/package=filecacher): File Cacher
++ [{rsleep} 1.0.10](https://cran.r-project.org/package=rsleep): Analysis of Sleep Data
++ [{DOYPAColors} 0.0.1](https://cran.r-project.org/package=DOYPAColors): Don't Overthink Your Palette of Colors
++ [{phsmethods} 1.0.0](https://cran.r-project.org/package=phsmethods): Standard Methods for Use in Public Health Scotland
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{SAMtool} 1.6.3](https://cran.r-project.org/package=SAMtool): Stock Assessment Methods Toolkit - [diffify](https://diffify.com/R/SAMtool)
++ [{shiny} 1.8.0](https://cran.r-project.org/package=shiny): Web Application Framework for R - [diffify](https://diffify.com/R/shiny)
++ [{pak} 0.7.0](https://cran.r-project.org/package=pak): Another Approach to Package Installation - [diffify](https://diffify.com/R/pak)
++ [{gtreg} 0.3.0](https://cran.r-project.org/package=gtreg): Regulatory Tables for Clinical Research - [diffify](https://diffify.com/R/gtreg)
++ [{dplyr} 1.1.4](https://cran.r-project.org/package=dplyr): A Grammar of Data Manipulation - [diffify](https://diffify.com/R/dplyr)
++ [{ggquiver} 0.3.3](https://cran.r-project.org/package=ggquiver): Quiver Plots for 'ggplot2' - [diffify](https://diffify.com/R/ggquiver)
++ [{duckdb} 0.9.2](https://cran.r-project.org/package=duckdb): DBI Package for the DuckDB Database Management System - [diffify](https://diffify.com/R/duckdb)
++ [{vetiver} 0.2.5](https://cran.r-project.org/package=vetiver): Version, Share, Deploy, and Monitor Models - [diffify](https://diffify.com/R/vetiver)
++ [{shiny.telemetry} 0.2.0](https://cran.r-project.org/package=shiny.telemetry): 'Shiny' App Usage Telemetry - [diffify](https://diffify.com/R/shiny.telemetry)
++ [{clinicalsignificance} 2.0.0](https://cran.r-project.org/package=clinicalsignificance): A Toolbox for Clinical Significance Analyses in Intervention
+Studies - [diffify](https://diffify.com/R/clinicalsignificance)
++ [{arrow} 14.0.0](https://cran.r-project.org/package=arrow): Integration to 'Apache' 'Arrow' - [diffify](https://diffify.com/R/arrow)
++ [{mirai} 0.11.2](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R - [diffify](https://diffify.com/R/mirai)
++ [{rclipboard} 0.2.1](https://cran.r-project.org/package=rclipboard): Shiny/R Wrapper for 'clipboard.js' - [diffify](https://diffify.com/R/rclipboard)
++ [{ggpmisc} 0.5.5](https://cran.r-project.org/package=ggpmisc): Miscellaneous Extensions to 'ggplot2' - [diffify](https://diffify.com/R/ggpmisc)
++ [{stringr} 1.5.1](https://cran.r-project.org/package=stringr): Simple, Consistent Wrappers for Common String Operations - [diffify](https://diffify.com/R/stringr)
++ [{httr2} 1.0.0](https://cran.r-project.org/package=httr2): Perform HTTP Requests and Process the Responses - [diffify](https://diffify.com/R/httr2)
++ [{periscope2} 0.1.4](https://cran.r-project.org/package=periscope2): Enterprise Streamlined 'shiny' Application Framework Using 'bs4Dash' - [diffify](https://diffify.com/R/periscope2)
++ [{errorist} 0.1.2](https://cran.r-project.org/package=errorist): Automatically Search Errors or Warnings - [diffify](https://diffify.com/R/errorist)
++ [{leaflet} 2.2.1](https://cran.r-project.org/package=leaflet): Create Interactive Web Maps with the JavaScript 'Leaflet' Library - [diffify](https://diffify.com/R/leaflet)
++ [{PatientProfiles} 0.5.0](https://cran.r-project.org/package=PatientProfiles): Identify Characteristics of Patients in the OMOP Common Data Model - [diffify](https://diffify.com/R/PatientProfiles)
++ [{constructive} 0.2.0](https://cran.r-project.org/package=constructive): Display Idiomatic Code to Construct Most R Objects - [diffify](https://diffify.com/R/constructive)
++ [{stringi} 1.8.1](https://cran.r-project.org/package=stringi): Fast and Portable Character String Processing Facilities - [diffify](https://diffify.com/R/stringi)
++ [{dockerfiler} 0.2.2](https://cran.r-project.org/package=dockerfiler): Easy Dockerfile Creation from R - [diffify](https://diffify.com/R/dockerfiler)
++ [{diyar} 0.5.1](https://cran.r-project.org/package=diyar): Record Linkage and Epidemiological Case Definitions in 'R' - [diffify](https://diffify.com/R/diyar)
++ [{refinr} 0.3.3](https://cran.r-project.org/package=refinr): Cluster and Merge Similar Values Within a Character Vector - [diffify](https://diffify.com/R/refinr)
++ [{ranger} 0.16.0](https://cran.r-project.org/package=ranger): A Fast Implementation of Random Forests - [diffify](https://diffify.com/R/ranger)
++ [{data.tree} 1.1.0](https://cran.r-project.org/package=data.tree): General Purpose Hierarchical Data Structure - [diffify](https://diffify.com/R/data.tree)
++ [{crosstable} 0.7.0](https://cran.r-project.org/package=crosstable): Crosstables for Descriptive Analyses - [diffify](https://diffify.com/R/crosstable)
++ [{collapse} 2.0.6](https://cran.r-project.org/package=collapse): Advanced and Fast Data Transformation - [diffify](https://diffify.com/R/collapse)
++ [{politeness} 0.9.3](https://cran.r-project.org/package=politeness): Detecting Politeness Features in Text - [diffify](https://diffify.com/R/politeness)
+
 + [RcppEigen 0.3.3.9.4 on CRAN: Maintenance, Matrix Changes](http://dirk.eddelbuettel.com/blog/2023/11/03#rcppeigen_0.3.3.9.4)
 
-+ [{mirai} 0.11.1](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R.
-
 + [{nanonext} 0.10.4](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen). NNG is a high-performance socket library implementing common communications patterns including publish/subscribe, request/reply and service discovery, over in-process, IPC, TCP, WebSocket and secure TLS transports.
+
++ [{ggplate} 0.1.0](https://cran.r-project.org/package=ggplate): Create Layout Plots of Biological Culture Plates and Microplates - [diffify](https://diffify.com/R/ggplate)
++ [{pkgdepends} 0.7.0](https://cran.r-project.org/package=pkgdepends): Package Dependency Resolution and Downloads - [diffify](https://diffify.com/R/pkgdepends)
++ [{ggblanket} 5.2.0](https://cran.r-project.org/package=ggblanket): Simplify 'ggplot2' Visualisation - [diffify](https://diffify.com/R/ggblanket)
++ [{packageRank} 0.8.3](https://cran.r-project.org/package=packageRank): Computation and Visualization of Package Download Counts and Percentiles - [diffify](https://diffify.com/R/packageRank)
++ [{mosaic} 1.9.0](https://cran.r-project.org/package=mosaic): Project MOSAIC Statistics and Mathematics Teaching Utilities - [diffify](https://diffify.com/R/mosaic)
++ [{texreg} 1.39.3](https://cran.r-project.org/package=texreg): Conversion of R Regression Output to LaTeX or HTML Tables - [diffify](https://diffify.com/R/texreg)
++ [{logr} 1.3.5](https://cran.r-project.org/package=logr): Creates Log Files - [diffify](https://diffify.com/R/logr)
++ [{vivainsights} 0.5.0](https://cran.r-project.org/package=vivainsights): Analyze and Visualize Data from 'Microsoft Viva Insights' - [diffify](https://diffify.com/R/vivainsights)
++ [{pins} 1.3.0](https://cran.r-project.org/package=pins): Pin, Discover and Share Resources - [diffify](https://diffify.com/R/pins)
++ [{reproducible} 2.0.9](https://cran.r-project.org/package=reproducible): Enhance Reproducibility of R Code - [diffify](https://diffify.com/R/reproducible)
++ [{vaultr} 1.2.0](https://cran.r-project.org/package=vaultr): Vault Client for Secrets and Sensitive Data - [diffify](https://diffify.com/R/vaultr)
++ [{ggformula} 0.12.0](https://cran.r-project.org/package=ggformula): Formula Interface to the Grammar of Graphics - [diffify](https://diffify.com/R/ggformula)
++ [{downloadthis} 0.3.3](https://cran.r-project.org/package=downloadthis): Implement Download Buttons in 'rmarkdown' - [diffify](https://diffify.com/R/downloadthis)
++ [{adobeanalyticsr} 0.4.0](https://cran.r-project.org/package=adobeanalyticsr): R Client for 'Adobe Analytics' API 2.0 - [diffify](https://diffify.com/R/adobeanalyticsr)
++ [{covr} 3.6.4](https://cran.r-project.org/package=covr): Test Coverage for Packages - [diffify](https://diffify.com/R/covr)
++ [{text2vec} 0.6.4](https://cran.r-project.org/package=text2vec): Modern Text Mining Framework for R - [diffify](https://diffify.com/R/text2vec)
++ [{crimedata} 0.3.5](https://cran.r-project.org/package=crimedata): Access Crime Data from the Open Crime Database - [diffify](https://diffify.com/R/crimedata)
++ [{REDCapTidieR} 1.0.0](https://cran.r-project.org/package=REDCapTidieR): Extract 'REDCap' Databases into Tidy 'Tibble's - [diffify](https://diffify.com/R/REDCapTidieR)
++ [{duckplyr} 0.2.3](https://cran.r-project.org/package=duckplyr): A 'DuckDB'-Backed Version of 'dplyr' - [diffify](https://diffify.com/R/duckplyr)
++ [{Rdpack} 2.6](https://cran.r-project.org/package=Rdpack): Update and Manipulate Rd Documentation Objects - [diffify](https://diffify.com/R/Rdpack)
++ [{ggpp} 0.5.5](https://cran.r-project.org/package=ggpp): Grammar Extensions to 'ggplot2' - [diffify](https://diffify.com/R/ggpp)
++ [{zenplots} 1.0.6](https://cran.r-project.org/package=zenplots): Zigzag Expanded Navigation Plots - [diffify](https://diffify.com/R/zenplots)
++ [{httptest2} 1.0.0](https://cran.r-project.org/package=httptest2): Test Helpers for 'httr2' - [diffify](https://diffify.com/R/httptest2)
++ [{countries} 1.1.1](https://cran.r-project.org/package=countries): Deal with Country Data in an Easy Way - [diffify](https://diffify.com/R/countries)
++ [{lintr} 3.1.1](https://cran.r-project.org/package=lintr): A 'Linter' for R Code - [diffify](https://diffify.com/R/lintr)
++ [{octopus} 0.4.1](https://cran.r-project.org/package=octopus): A Database Management Tool - [diffify](https://diffify.com/R/octopus)
++ [{lifecycle} 1.0.4](https://cran.r-project.org/package=lifecycle): Manage the Life Cycle of your Package Functions - [diffify](https://diffify.com/R/lifecycle)
++ [{jsTreeR} 2.4.0](https://cran.r-project.org/package=jsTreeR): A Wrapper of the JavaScript Library 'jsTree' - [diffify](https://diffify.com/R/jsTreeR)
++ [{periscope} 1.0.4](https://cran.r-project.org/package=periscope): Enterprise Streamlined 'Shiny' Application Framework - [diffify](https://diffify.com/R/periscope)
++ [{taylor} 3.0.0](https://cran.r-project.org/package=taylor): Lyrics and Song Data for Taylor Swift's Discography - [diffify](https://diffify.com/R/taylor)
++ [{stacks} 1.0.3](https://cran.r-project.org/package=stacks): Tidy Model Stacking - [diffify](https://diffify.com/R/stacks)
++ [{drake} 7.13.8](https://cran.r-project.org/package=drake): A Pipeline Toolkit for Reproducible Computation at Scale - [diffify](https://diffify.com/R/drake)
++ [{rtoot} 0.3.3](https://cran.r-project.org/package=rtoot): Collecting and Analyzing Mastodon Data - [diffify](https://diffify.com/R/rtoot)
++ [{mlflow} 2.8.0](https://cran.r-project.org/package=mlflow): Interface to 'MLflow' - [diffify](https://diffify.com/R/mlflow)
++ [{mirai.promises} 0.4.0](https://cran.r-project.org/package=mirai.promises): Make 'Mirai' 'Promises' - [diffify](https://diffify.com/R/mirai.promises)
++ [{rprojroot} 2.0.4](https://cran.r-project.org/package=rprojroot): Finding Files in Project Subdirectories - [diffify](https://diffify.com/R/rprojroot)
+Fault Detection - [diffify](https://diffify.com/R/bayesWatch)
 
 ### Videos and Podcasts
 
@@ -118,13 +206,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to use GitHub Copilot and ChatGPT in RStudio - get setup in less than 5 minutes!](https://www.youtube.com/watch?v=t7NrkAeosog&ab_channel=ggnot2)
 
-### Gist & Cookbook
++ [Advanced Shiny - Running Multiple Linked Shiny Apps - TidyX Episode 164](https://www.youtube.com/watch?v=-UP5xN9xopg&ab_channel=TidyX)
 
++ [Creating Player url links in datatable and Shiny - TidyX Episode 163](https://www.youtube.com/watch?v=la3PUc12o14&ab_channel=TidyX)
 
++ [Data Cleaning with the tidyverse (by Statistics Globe)](https://www.youtube.com/watch?v=EKISB0gnue4&ab_channel=AlbertRapp)
 
-### Shiny Apps
-
-
++ [Create Donut and Pie Charts with ggplot (Only Sometimes Please)](https://www.youtube.com/watch?v=Km0Ib7_7qg8&ab_channel=AlbertRapp)
 
 ### R Internationally
 
@@ -137,8 +225,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Print Debugging (Now with Icecream!)](https://jcarroll.com.au/2023/11/07/print-debugging-now-with-icecream/)
 + [Let's talk attention in Transformers](https://rpubs.com/eR_ic/attention)
-
-+ [webR 0.2 Overview: R in the browser](https://www.youtube.com/watch?v=Mpq9a6yMl_w)
 
 + [Simulating Phylogenetically Structured Networks*](https://geekcologist.wordpress.com/2023/11/09/simulating-phylogenetically-structured-networks/)
 
@@ -178,6 +264,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [A classifier that’s very accurate (and deep)](https://thierrymoudiki.github.io/blog/2023/11/12/python/r/quasirandomizednn/nnetsauce-deep-lazy)
 
++ [Publish a Quarto website with Netlify](https://jadeyryan.com/blog/2023-11-19_publish-quarto-website/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -198,12 +286,6 @@ Events in 3 Months:
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 + [OxfordRUG November 2023 - Making Christmas cards with R - online](https://www.meetup.com/oxford-r-user-group/events/297417319/)
-
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Jobs
 
