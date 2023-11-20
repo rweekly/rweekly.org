@@ -84,6 +84,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Subgroup detection in linear growth curve models](https://www.zeileis.org/news/growth_curve_trees/)
 
++ [igraph enables fast and robust network analysis across programming languages](https://arxiv.org/abs/2311.10260)
 
 ### New Packages
 
