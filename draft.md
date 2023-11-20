@@ -20,10 +20,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to Get Good with R?](https://www.njtierney.com/post/2023/11/10/how-to-get-good-with-r/)
 
-
 ### Insights
 
 + [The Road to Building Ten Million Binaries](https://posit.co/blog/the-road-to-building-ten-million-binaries/)
+
+![Posit-Blog-TenMillionBinaries-B_600](https://raw.githubusercontent.com/rweekly/image/master/2023/W47/Posit-Blog-TenMillionBinaries-B_600.jpg)
 
 + [The current introduction to my package development workshops](https://masalmon.eu/2023/11/09/r-package-development-teaching-intro/)
 
@@ -35,7 +36,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [httr2 1.0.0](https://www.tidyverse.org/blog/2023/11/httr2-1-0-0/)
 
-+ [How to Get Good with R?](https://www.njtierney.com/post/2023/11/10/how-to-get-good-with-r/)
+![httr2 1.0.0 baseballs](https://raw.githubusercontent.com/rweekly/image/master/2023/W47/thumbnail-wd_600.jpg)
 
 + [Odds Are You're Using Probabilities to Describe Event Outcomes](https://www.bryanshalloway.com/2023/11/03/odds-are-you-re-using-probabilities-to-describe-event-outcomes/)
 
@@ -53,13 +54,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R lubridate: How To Efficiently Work With Dates and Times in R](https://appsilon.com/r-lubridate/)
 
-+ [Accelerating Drug Discovery: Machine Learning for Protein Crystal Detection](https://appsilon.com/machine-learning-for-protein-crystal-detection/)
-
 + [Unlocking the Power of Functional Programming in R (Part 3): Advanced Techniques & Practical Applications](https://appsilon.com/functional-programming-in-r-part-3/)
+
++ [How to Get Good with R?](https://www.njtierney.com/post/2023/11/10/how-to-get-good-with-r/)
+
+![never-stop-sign_600](https://raw.githubusercontent.com/rweekly/image/master/2023/W47/never-stop-sign_600.jpg)
 
 ### R in the Real World
 
 + [Taylor's Towering Year](https://colorado.posit.co/rsc/tay-swift-tour/)
+
+![taylor swift's towering year](https://raw.githubusercontent.com/rweekly/image/master/2023/W47/hero_600.jpg)
 
 + [R-universe now builds WASM binaries for all R packages](https://ropensci.org/blog/2023/11/17/runiverse-wasm/)
 
@@ -67,6 +72,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [mlsauce version 0.8.10: Statistical/Machine Learning with Python and R](https://thierrymoudiki.github.io/blog/2023/11/05/python/r/adaopt/lsboost/mlsauce_classification)
 
++ [Accelerating Drug Discovery: Machine Learning for Protein Crystal Detection](https://appsilon.com/machine-learning-for-protein-crystal-detection/)
 
 
 ### R in Organizations
