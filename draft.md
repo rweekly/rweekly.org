@@ -57,6 +57,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [Next-generation access to Databricks clusters in RStudio with sparklyr and pysparklyr](https://posit.co/blog/databricks-clusters-in-rstudio-with-sparklyr/)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
