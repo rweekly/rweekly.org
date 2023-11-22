@@ -57,6 +57,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{happign} 0.2.1](https://cran.r-project.org/package=happign): Easy access to French geodata from IGN (National Institute of Geographic)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
