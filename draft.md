@@ -57,6 +57,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [Next-generation access to Databricks clusters in RStudio with sparklyr and pysparklyr](https://posit.co/blog/databricks-clusters-in-rstudio-with-sparklyr/)
+
 + [{happign} 0.2.1](https://cran.r-project.org/package=happign): Easy access to French geodata from IGN (National Institute of Geographic)
 
 ### Videos and Podcasts
