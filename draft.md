@@ -18,28 +18,26 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [The Road to Building Ten Million Binaries](https://posit.co/blog/the-road-to-building-ten-million-binaries/)
 
-+ [The current introduction to my package development workshops](https://masalmon.eu/2023/11/09/r-package-development-teaching-intro/)
-
-+ [Lesser-known reasons to prefer `apply()` over for loops](https://epiverse-trace.github.io/posts/for-vs-apply/)
 
 ### R in the Real World
 
 + [Taylor's Towering Year](https://colorado.posit.co/rsc/tay-swift-tour/)
+
 + [Forecasting potholes with exogenous variables](https://ctompkins.netlify.app/post/forecasting-potholes-with-exogenous-variables/)
 
 ### R in Organizations
 
-+ [The rOpenSci Multiverse](https://ropensci.org/blog/2023/11/06/r-universe-stars-finale/)
+
 
 ### R in Academia
 
-* [Does birth order matter?](https://wyclif.substack.com/p/does-birth-order-matter)
+
 
 ### Resources
 
 
++ [igraph enables fast and robust network analysis across programming languages](https://arxiv.org/abs/2311.10260)
 
 ### New Packages
 
@@ -62,14 +60,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{mirai} 0.11.1](https://cran.r-project.org/package=mirai): Minimalist async evaluation framework for R.
++ [Next-generation access to Databricks clusters in RStudio with sparklyr and pysparklyr](https://posit.co/blog/databricks-clusters-in-rstudio-with-sparklyr/)
 
-+ [{nanonext} 0.10.4](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen). NNG is a high-performance socket library implementing common communications patterns including publish/subscribe, request/reply and service discovery, over in-process, IPC, TCP, WebSocket and secure TLS transports.
++ [{happign} 0.2.1](https://cran.r-project.org/package=happign): Easy access to French geodata from IGN (National Institute of Geographic)
 
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-+ [Reproducible R development on Github Actions with Nix](https://www.youtube.com/watch?v=VXB4e11lHtw)
+
+
+### Call for Participation
+
+- [Introducing the rainbowR buddy scheme](https://rainbowr.netlify.app/posts/2023-11-16_introducing-buddies) - The rainbowR buddy scheme is designed to connect LGBTQ+ folks who code in R. This blog post introduces how the scheme works, how to join, and details how it's implemented in R (a combination of **googlesheets4**, **dplyr** and **blastula**).
 
 
 ### Gist & Cookbook
@@ -86,10 +88,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-+ [Print Debugging (Now with Icecream!)](https://jcarroll.com.au/2023/11/07/print-debugging-now-with-icecream/)
-+ [Let's talk attention in Transformers](https://rpubs.com/eR_ic/attention)
 
-+ [webR 0.2 Overview: R in the browser](https://www.youtube.com/watch?v=Mpq9a6yMl_w)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
