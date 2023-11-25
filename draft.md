@@ -20,6 +20,10 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Reading notes on Kill It with Fire by Marianne Bellotti](https://masalmon.eu/2023/11/20/reading-notes-kill-it-with-fire-marianne-bellotti/)
 
++ [Object-Oriented Express: Refactoring in R](https://medium.com/number-around-us/object-oriented-express-refactoring-in-r-3b33b728042b)
+
++ [Folks, C'mon, Use Parquet](https://appsilon.com/csv-to-parquet-transition/)
+
 + [Making SearchBuilder Work in the Server Mode in DT (Help Needed)](https://yihui.org/en/2023/11/dt-searchbuilder/)
 
 
@@ -34,6 +38,8 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 ### R in Organizations
 
 + [From Local Roots to Global Reach: The Collaborative Expansion of R-Ladies Gaborone](https://www.r-consortium.org/blog/2023/11/21/from-local-roots-to-global-reach-the-collaborative-expansion-of-r-ladies-gaborone)
+
++ [rOpenSci News Digest, November 2023](https://ropensci.org/blog/2023/11/24/news-november-2023/)
 
 ### R in Academia
 
@@ -117,13 +123,15 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Downloading STAC data using rsi when you’ve got a geographic CRS or don’t want a composite.](https://mm218.dev/posts/2023-11-21-rsi-null/index.html)
 
++ [reactable.extras 0.2.0 Release: Enhanced Interactivity and Efficiency for Shiny Apps](https://appsilon.com/reactable-extras-enhancing-shiny-applications/)
+
 + [Unveiling the Magic of LOESS Regression in R: A Step-by-Step Guide with mtcars](https://www.spsanderson.com/steveondata/posts/2023-11-22/index.html)
 
 + [Logarithmic Regression in R: A Step-by-Step Guide with Prediction Intervals](https://www.spsanderson.com/steveondata/posts/2023-11-21/index.html)
 
 + [Mastering Exponential Regression in R: A Step-by-Step Guide](https://www.spsanderson.com/steveondata/posts/2023-11-20/index.html)
 
-+ [Octopus 0.4.1: What’s new?](https://medium.com/@mcodrescu/octopus-0-4-1-whats-new-c8d64ce839fd?source=rss-56ea81247f08------2)
++ [Octopus 0.4.1: What's new?](https://medium.com/@mcodrescu/octopus-0-4-1-whats-new-c8d64ce839fd?source=rss-56ea81247f08------2)
 
 + [The "Secret Sauce" Used in Many qeML Functions](https://matloff.wordpress.com/2023/11/22/the-secret-sauce-used-in-many-qeml-functions/)
 
