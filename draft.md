@@ -62,6 +62,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
 
+### Call for Participation
+
+- [Introducing the rainbowR buddy scheme](https://rainbowr.netlify.app/posts/2023-11-16_introducing-buddies) - The rainbowR buddy scheme is designed to connect LGBTQ+ folks who code in R. This blog post introduces how the scheme works, how to join, and details how it's implemented in R (a combination of **googlesheets4**, **dplyr** and **blastula**).
+
+
 ### Gist & Cookbook
 
 
