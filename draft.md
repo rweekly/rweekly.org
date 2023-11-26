@@ -1,19 +1,22 @@
 ---
 layout: draft
-title: R Weekly 2023-W48
+title: R Weekly 2023-W48 object-oriented refactoring, benchmarking, Rust + R
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
-
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHabr), with help from the R Weekly team members and contributors.
 
 
-
 ### Highlight
 
++ [Object-Oriented Express: Refactoring in R](https://medium.com/number-around-us/object-oriented-express-refactoring-in-r-3b33b728042b)
+
++ [Using benchmarking to guide the adoption of dependencies in R packages](https://epiverse-trace.github.io/posts/benchmarking_design_decisions/)
+
++ [Building a DataFusion CSV reader with arrow-extendr](https://josiahparry.com/posts/2023-11-24-dfusionrdr)
 
 
 ### Insights
@@ -24,16 +27,21 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 + [Folks, C'mon, Use Parquet](https://appsilon.com/csv-to-parquet-transition/)
 
-+ [Making SearchBuilder Work in the Server Mode in DT (Help Needed)](https://yihui.org/en/2023/11/dt-searchbuilder/)
++ [Next-generation access to Databricks clusters in RStudio with sparklyr and pysparklyr](https://posit.co/blog/databricks-clusters-in-rstudio-with-sparklyr/)
 
++ [Making SearchBuilder Work in the Server Mode in DT (Help Needed)](https://yihui.org/en/2023/11/dt-searchbuilder/)
 
 ### R in the Real World
 
 + [Extracting information about spatial patterns from spatial signatures](https://jakubnowosad.com/posts/2023-11-18-motif-bp7/index.html)
 
-+ [Forecasting potholes with exogenous variables](https://ctompkins.netlify.app/post/forecasting-potholes-with-exogenous-variables/)
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W48/africa-motifs.png)
 
 + [Time Series Analysis and Understanding a Eurobond Fund with Prophet](https://datageeek.com/2023/11/22/time-series-analysis-and-understanding-a-eurobond-fund-with-prophet/)
+
++ [Forecasting potholes with exogenous variables](https://ctompkins.netlify.app/post/forecasting-potholes-with-exogenous-variables/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W48/potholes-forecast-exogenous.png)
 
 ### R in Organizations
 
@@ -56,23 +64,47 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
 **CRAN**
 
++ [{air} 0.2.2](https://cran.r-project.org/package=air): AI Assistant to Write and Understand R Code
+
++ [{textrecipes} 1.0.6](https://cran.r-project.org/package=textrecipes): Extra 'Recipes' for Text Processing
+
++ [{froth} 1.0.0](https://cran.r-project.org/package=froth): Emulate a 'Forth' Programming Environment
+
++ [{orbweaver} 0.0.3](https://cran.r-project.org/package=orbweaver): Fast and Efficient Graph Data Structures
+
++ [{curvir} 0.1.1](https://cran.r-project.org/package=curvir): Specify Reserve Demand Curves
+
++ [{treats} 1.0](https://cran.r-project.org/package=treats): Trees and Traits Simulations
+
++ [{simStateSpace} 1.0.1](https://cran.r-project.org/package=simStateSpace): Simulate Data from State Space Models
 
 **GitHub or Bitbucket**
 
-+ [ggppt](https://github.com/doehm/ggppt): Callout annotations for ggplot2
++ [{ggppt} 0.1.0](https://github.com/doehm/ggppt): Callout annotations for ggplot2
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [Next-generation access to Databricks clusters in RStudio with sparklyr and pysparklyr](https://posit.co/blog/databricks-clusters-in-rstudio-with-sparklyr/)
-
-+ [{happign} 0.2.1](https://cran.r-project.org/package=happign): Easy access to French geodata from IGN (National Institute of Geographic)
++ [{happign} 0.2.1](https://cran.r-project.org/package=happign): Easy access to French geodata from IGN (National Institute of Geographic) - [diffify](https://diffify.com/R/happign)
 
 + [{galah} 2.0.0](https://cran.r-project.org/package=galah): Biodiversity Data from the GBIF Node Network
+
++ [{mlflow} 2.8.1](https://cran.r-project.org/package=mlflow): Interface to 'MLflow' - [diffify](https://diffify.com/R/mlflow)
+
++ [{simstudy} 0.7.1](https://cran.r-project.org/package=simstudy): Simulation of Study Data - [diffify](https://diffify.com/R/simstudy)
+
++ [{ibmdbR} 1.51.0](https://cran.r-project.org/package=ibmdbR): IBM in-Database Analytics for R - [diffify](https://diffify.com/R/ibmdbR)
+
++ [{spatialreg} 1.3-1](https://cran.r-project.org/package=spatialreg): Spatial Regression Analysis - [diffify](https://diffify.com/R/spatialreg)
+
++ [{tidyterra} 0.5.0](https://cran.r-project.org/package=tidyterra): 'tidyverse' Methods and 'ggplot2' Helpers for 'terra' Objects - [diffify](https://diffify.com/R/tidyterra)
+
++ [{missRanger} 2.4.0](https://cran.r-project.org/package=missRanger): Fast Imputation of Missing Values - [diffify](https://diffify.com/R/missRanger)
+
++ [{ggmap} 4.0.0](https://cran.r-project.org/package=ggmap): Spatial Visualization with ggplot2 - [diffify](https://diffify.com/R/ggmap)
 
 ### Videos and Podcasts
 
@@ -88,30 +120,21 @@ This week’s release was curated by [Tony ElHabr](https://twitter.com/TonyElHab
 
 - [Introducing the rainbowR buddy scheme](https://rainbowr.netlify.app/posts/2023-11-16_introducing-buddies) - The rainbowR buddy scheme is designed to connect LGBTQ+ folks who code in R. This blog post introduces how the scheme works, how to join, and details how it's implemented in R (a combination of **googlesheets4**, **dplyr** and **blastula**).
 
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
-
 ### Tutorials
 
 + [Building a DataFusion CSV reader with arrow-extendr](https://josiahparry.com/posts/2023-11-24-dfusionrdr)
 
 + [Jacques Bertin's valued points map with R](https://r-graph-gallery.com/web-valued-dots-map-bertin.html)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W48/jacques-berlin.png)
+
 + [Customized Dorling cartogram with R](https://r-graph-gallery.com/web-dorling-cartogram-with-R.html)
 
-+ [3MW (Using regular expressiont to clean data)](https://3mw.albert-rapp.de/p/regular-expressions-clean-data)
++ [3MW (Using regular expressions to clean data)](https://3mw.albert-rapp.de/p/regular-expressions-clean-data)
 
 + [Using benchmarking to guide the adoption of dependencies in R packages](https://epiverse-trace.github.io/posts/benchmarking_design_decisions/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2023/W48/benchmarking-guiding-design.png)
 
 + [Rethinking packages &amp; functions preloading in webR 0.2.2](https://colinfay.me/rethinking-packages-and-functions-preloading-in-webr-0.2.2/)
 
@@ -163,9 +186,6 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
 ### Datasets
 
 + [A plethora of datasets at your fingertips](https://thierrymoudiki.github.io/blog/2023/11/20/python/r/misc/mlsauce/runiverse-api)
@@ -184,3 +204,7 @@ Events in 3 Months:
 + [Tanaka](https://r.iresmi.net/posts/2023/tanaka/index.html)
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Haunted objects in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/v6QcgrLHuf">pic.twitter.com/v6QcgrLHuf</a></p>&mdash; Antoine Fabri (@antoine_fabri) <a href="https://twitter.com/antoine_fabri/status/1727411205034385543?ref_src=twsrc%5Etfw">November 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<iframe src="https://mastodon.social/@hrbrmstr/111463067994264555/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
