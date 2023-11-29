@@ -60,6 +60,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
++ [The Ultimate Guide to Get Started With ggplot2](https://albert-rapp.de/posts/ggplot2-tips/18_ultimate_guide/18_ultimate_guide)
 
 
 ### Gist & Cookbook
@@ -75,6 +76,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
+
++ [The Ultimate Guide to Get Started With ggplot2](https://albert-rapp.de/posts/ggplot2-tips/18_ultimate_guide/18_ultimate_guide)
 
 
 
