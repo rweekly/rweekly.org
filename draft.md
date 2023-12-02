@@ -19,6 +19,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 + [Cliff notes about the cli package](https://blog.r-hub.io/2023/11/30/cliff-notes-about-cli/)
+  
++ [R in Action: Madrid R Users Group on Trends and Insights Navigating R’s Evolution and Future Trends in Madrid’s Dynamic Industry](R in Action: Madrid R Users Group on Trends and Insights Navigating R’s Evolution and Future Trends in Madrid’s Dynamic Industry)
+  
++ [deposits R Package Delivers a Common Workflow for R Users](https://www.r-consortium.org/blog/2023/11/30/deposits-r-package-delivers-a-common-workflow-for-r-users)
 
 ### R in the Real World
 
@@ -34,6 +38,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
+-[Geospatial Data Science for Public Health Surveillance](https://www.paulamoraga.com/presentation-geohealth/#1)
+
+-[Spatial Data Science with R](https://www.paulamoraga.com/presentation-course/#1)
 
 
 ### New Packages
@@ -77,8 +84,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-+ [The Ultimate Guide to Get Started With ggplot2](https://albert-rapp.de/posts/ggplot2-tips/18_ultimate_guide/18_ultimate_guide)
-
+-[Building a DataFusion CSV reader with arrow-extendr](https://josiahparry.com/posts/2023-11-24-dfusionrdr/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
