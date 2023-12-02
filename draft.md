@@ -14,7 +14,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-
+  
 
 ### Insights
 
@@ -24,8 +24,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
   
 + [deposits R Package Delivers a Common Workflow for R Users](https://www.r-consortium.org/blog/2023/11/30/deposits-r-package-delivers-a-common-workflow-for-r-users)
 
++ [gssr Update](https://kieranhealy.org/blog/archives/2023/12/02/gssr-update/)
+
++ [Little useless-useful R functions –  How to make R-squared useless](https://tomaztsql.wordpress.com/2023/11/27/little-useless-useful-r-functions-how-to-make-r-squared-useless/)
+
++ [2023 : A Year of Progress for PHUSE CAMIS Working Group.](https://www.r-consortium.org/blog/2023/11/29/2023-a-year-of-progress-for-phuse-camis-working-group)
+
++ [Igniting Innovation: Bilikisu Wunmi Olatunji’s Journey with Abuja’s Thriving R User Community](https://www.r-consortium.org/blog/2023/11/28/igniting-innovation-bilikisu-wunmi-olatunjis-journey-with-abujas-thriving-r-user-community)
+
+
 ### R in the Real World
 
++ [Time Series Analysis and Understanding a Eurobond Fund with Prophet](https://datageeek.com/2023/11/22/time-series-analysis-and-understanding-a-eurobond-fund-with-prophet/)
 
 
 ### R in Organizations
@@ -64,6 +74,23 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [RcppClassicExamples 0.1.3 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2023/11/30#rcppclassicexamples_0.1.3)
+  
++ [RcppSpdlog 0.0.15 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2023/11/29#rcppspdlog_0.0.15)
+  
++ [qlcal 0.0.9 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2023/11/29#qlcal-r_0.0.9)
+  
++ [RcppQuantuccia 0.1.1 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2023/11/29#rcppquantuccia_0.1.2)
+  
++ [RcppSimdJson 0.1.11 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2023/11/28#rcppsimdjson_0.1.11)
+  
++ [RcppCNPy 0.2.12 on CRAN: More Maintenance](http://dirk.eddelbuettel.com/blog/2023/11/27#rcppcnpy_0.2.12)
+  
++ [RQuantLib 0.4.20 on CRAN: More Maintenance](http://dirk.eddelbuettel.com/blog/2023/11/26#rquantlib_0.4.20)
+
++ [scales 1.3.0](https://www.tidyverse.org/blog/2023/11/scales-1-3-0/)
+
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
@@ -91,7 +118,35 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 -[Day 2 of AdvOfCode: Cube Conundrum](https://observablehq.com/@hrbrmstr/2023-day-2-cube-conundrum)
 
--[]()
+-[Maximizing Efficiency: A Guide to Benchmarking Memory Usage in Shiny Apps](https://appsilon.com/benchmarking-memory-usage-in-shiny-apps/)
+
+- [ANOVA Types](https://schmidtpaul.github.io/dsfair_quarto/ch/summaryarticles/anovatypes.html)
+
++ [Quasi-randomized nnetworks in Julia, Python and R](https://thierrymoudiki.github.io/blog/2023/11/27/python/r/julia/quasirandomizednn/julia-nnetsauce)
+
++ [Introduction to data manipulation in R with {dplyr}](https://statsandr.com/blog/introduction-to-data-manipulation-in-r-with-dplyr/)
+
++ [Spatial autocorrelation](https://r.iresmi.net/posts/2023/spatial_autocorrelation/index.html)
+
++ [Cliff notes about the cli package](https://blog.r-hub.io/2023/11/30/cliff-notes-about-cli/)
+
++ [Using Google Lighthouse for Web Pages](https://www.jumpingrivers.com/blog/shiny-app-start-up-google-lighthouse-part-1/)
+
++ [Empirical Bayes for #TidyTuesday Doctor Who episodes](https://juliasilge.com/blog/doctor-who-bayes/)
+
++ [Advent of Code 2022](https://jcarroll.com.au/2023/11/28/advent-of-code-2022/)
+
++ [Finding the most unique land cover spatial pattern](https://jakubnowosad.com/posts/2023-12-03-motif-bp8/index.html)
+
++ [Helping R find the right methods for unserialized complex objects.](https://mm218.dev/posts/2023-11-27-objects-loading-namespaces/index.html)
+
++ [tidyAML: Now supporting gee models](https://www.spsanderson.com/steveondata/posts/2023-12-01/index.html)
+  
++ [Navigating Quantile Regression with R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2023-11-29/index.html)
+  
++ [Understanding and Implementing Robust Regression in R](https://www.spsanderson.com/steveondata/posts/2023-11-28/index.html)
+  
++ [Unveiling Power Regression: A Step-by-Step Guide in R](https://www.spsanderson.com/steveondata/posts/2023-11-27/index.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
