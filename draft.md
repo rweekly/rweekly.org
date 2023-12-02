@@ -146,6 +146,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
   
 + [Unveiling Power Regression: A Step-by-Step Guide in R](https://www.spsanderson.com/steveondata/posts/2023-11-27/index.html)
 
++ [How to make your own #RStats Wrapped](https://nrennie.rbind.io/blog/2022-12-03-how-to-make-your-own-rstats-wrapped/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
