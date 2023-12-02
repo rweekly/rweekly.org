@@ -67,12 +67,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+  
 + [The Ultimate Guide to Get Started With ggplot2](https://albert-rapp.de/posts/ggplot2-tips/18_ultimate_guide/18_ultimate_guide)
+
+- [What does deprecated mean? Package lifecycle and the process of deprecation](https://www.youtube.com/watch?v=4vrgRNFj5gc)
 
 
 ### Gist & Cookbook
 
-
+- [healthyr: Free Resources](https://healthyr.surgicalinformatics.org/resources.html#resources)
 
 ### Shiny Apps
 
@@ -86,6 +89,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 -[Building a DataFusion CSV reader with arrow-extendr](https://josiahparry.com/posts/2023-11-24-dfusionrdr/)
 
+-[Day 2 of AdvOfCode: Cube Conundrum](https://observablehq.com/@hrbrmstr/2023-day-2-cube-conundrum)
+
+-[]()
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
