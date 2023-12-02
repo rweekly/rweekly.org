@@ -114,11 +114,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
--[Building a DataFusion CSV reader with arrow-extendr](https://josiahparry.com/posts/2023-11-24-dfusionrdr/)
+- [Day 2 of AdvOfCode: Cube Conundrum](https://observablehq.com/@hrbrmstr/2023-day-2-cube-conundrum)
 
--[Day 2 of AdvOfCode: Cube Conundrum](https://observablehq.com/@hrbrmstr/2023-day-2-cube-conundrum)
-
--[Maximizing Efficiency: A Guide to Benchmarking Memory Usage in Shiny Apps](https://appsilon.com/benchmarking-memory-usage-in-shiny-apps/)
+- [Maximizing Efficiency: A Guide to Benchmarking Memory Usage in Shiny Apps](https://appsilon.com/benchmarking-memory-usage-in-shiny-apps/)
 
 - [ANOVA Types](https://schmidtpaul.github.io/dsfair_quarto/ch/summaryarticles/anovatypes.html)
 
