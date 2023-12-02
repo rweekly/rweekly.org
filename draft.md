@@ -20,7 +20,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Cliff notes about the cli package](https://blog.r-hub.io/2023/11/30/cliff-notes-about-cli/)
   
-+ [R in Action: Madrid R Users Group on Trends and Insights Navigating R’s Evolution and Future Trends in Madrid’s Dynamic Industry](R in Action: Madrid R Users Group on Trends and Insights Navigating R’s Evolution and Future Trends in Madrid’s Dynamic Industry)
++ [R in Action: Madrid R Users Group on Trends and Insights Navigating R’s Evolution and Future Trends in Madrid’s Dynamic Industry](https://www.r-consortium.org/blog/2023/12/01/r-in-action-madrid-r-users-group-on-trends-and-insights-navigating-rs-evolution-and-future-trends-in-madrids-dynamic-industry)
   
 + [deposits R Package Delivers a Common Workflow for R Users](https://www.r-consortium.org/blog/2023/11/30/deposits-r-package-delivers-a-common-workflow-for-r-users)
 
