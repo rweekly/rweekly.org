@@ -26,6 +26,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 + [deposits R Package Delivers a Common Workflow for R Users](https://www.r-consortium.org/blog/2023/11/30/deposits-r-package-delivers-a-common-workflow-for-r-users)
 
 + [gssr Update](https://kieranhealy.org/blog/archives/2023/12/02/gssr-update/)
+  
+![Screenshot 2023-12-04 at 22 01 25](https://github.com/rweekly/rweekly.org/assets/53487593/1f2a6fb0-56f8-4986-a53a-dc8b30e7a13c)
 
 + [Little useless-useful R functions –  How to make R-squared useless](https://tomaztsql.wordpress.com/2023/11/27/little-useless-useful-r-functions-how-to-make-r-squared-useless/)
 
@@ -34,6 +36,7 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [Time Series Analysis and Understanding a Eurobond Fund with Prophet](https://datageeek.com/2023/11/22/time-series-analysis-and-understanding-a-eurobond-fund-with-prophet/)
 
+![Screenshot 2023-12-04 at 22 00 43](https://github.com/rweekly/rweekly.org/assets/53487593/b3eafd45-d82e-44aa-ab71-d3fb64e7b3ce)
 
 ### R in Organizations
 
@@ -41,14 +44,17 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [2023 : A Year of Progress for PHUSE CAMIS Working Group.](https://www.r-consortium.org/blog/2023/11/29/2023-a-year-of-progress-for-phuse-camis-working-group)
 
+![Screenshot 2023-12-04 at 22 01 58](https://github.com/rweekly/rweekly.org/assets/53487593/9ce219ef-c51e-4ba1-8f8c-35af29cc1e8b)
+
 + [Igniting Innovation: Bilikisu Wunmi Olatunji’s Journey with Abuja’s Thriving R User Community](https://www.r-consortium.org/blog/2023/11/28/igniting-innovation-bilikisu-wunmi-olatunjis-journey-with-abujas-thriving-r-user-community)
 
+![Screenshot 2023-12-04 at 22 02 39](https://github.com/rweekly/rweekly.org/assets/53487593/2de28ee4-c700-4caa-ad14-fee1743c0671)
 
 ### Resources
 
--[Geospatial Data Science for Public Health Surveillance](https://www.paulamoraga.com/presentation-geohealth/#1)
+- [Geospatial Data Science for Public Health Surveillance](https://www.paulamoraga.com/presentation-geohealth/#1)
 
--[Spatial Data Science with R](https://www.paulamoraga.com/presentation-course/#1)
+- [Spatial Data Science with R](https://www.paulamoraga.com/presentation-course/#1)
 
 
 ### New Packages
@@ -164,5 +170,8 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">GM<br><br>WIP (R code)<br><br>Exploring paths, probabilities, and interpolation<a href="https://twitter.com/hashtag/genart?src=hash&amp;ref_src=twsrc%5Etfw">#genart</a> <a href="https://twitter.com/hashtag/rstat?src=hash&amp;ref_src=twsrc%5Etfw">#rstat</a> <a href="https://t.co/2qbyh3Pm35">pic.twitter.com/2qbyh3Pm35</a></p>&mdash; Kenny Vaden (@KennyVaden) <a href="https://twitter.com/KennyVaden/status/1716674613038489820?ref_src=twsrc%5Etfw">October 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">First attempt in <a href="https://twitter.com/hashtag/RStat?src=hash&amp;ref_src=twsrc%5Etfw">#RStat</a> <a href="https://t.co/ZC2Ot95rPB">pic.twitter.com/ZC2Ot95rPB</a></p>&mdash; Vikrant Kamble (@vikrantkamble) <a href="https://twitter.com/vikrantkamble/status/1710863756434329653?ref_src=twsrc%5Etfw">October 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
