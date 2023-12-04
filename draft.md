@@ -8,29 +8,26 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
+This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app), with help from the R Weekly team members and contributors.
 
 
 ### Highlight
 
-  
+- [Cliff notes about the cli package](https://blog.r-hub.io/2023/11/30/cliff-notes-about-cli/)
+
++ [How to make your own #RStats Wrapped](https://nrennie.rbind.io/blog/2022-12-03-how-to-make-your-own-rstats-wrapped/)
+
++ [deposits R Package Delivers a Common Workflow for R Users](https://www.r-consortium.org/blog/2023/11/30/deposits-r-package-delivers-a-common-workflow-for-r-users)
 
 ### Insights
 
 + [Cliff notes about the cli package](https://blog.r-hub.io/2023/11/30/cliff-notes-about-cli/)
-  
-+ [R in Action: Madrid R Users Group on Trends and Insights Navigating R’s Evolution and Future Trends in Madrid’s Dynamic Industry](https://www.r-consortium.org/blog/2023/12/01/r-in-action-madrid-r-users-group-on-trends-and-insights-navigating-rs-evolution-and-future-trends-in-madrids-dynamic-industry)
   
 + [deposits R Package Delivers a Common Workflow for R Users](https://www.r-consortium.org/blog/2023/11/30/deposits-r-package-delivers-a-common-workflow-for-r-users)
 
 + [gssr Update](https://kieranhealy.org/blog/archives/2023/12/02/gssr-update/)
 
 + [Little useless-useful R functions –  How to make R-squared useless](https://tomaztsql.wordpress.com/2023/11/27/little-useless-useful-r-functions-how-to-make-r-squared-useless/)
-
-+ [2023 : A Year of Progress for PHUSE CAMIS Working Group.](https://www.r-consortium.org/blog/2023/11/29/2023-a-year-of-progress-for-phuse-camis-working-group)
-
-+ [Igniting Innovation: Bilikisu Wunmi Olatunji’s Journey with Abuja’s Thriving R User Community](https://www.r-consortium.org/blog/2023/11/28/igniting-innovation-bilikisu-wunmi-olatunjis-journey-with-abujas-thriving-r-user-community)
 
 
 ### R in the Real World
@@ -40,10 +37,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
++ [R in Action: Madrid R Users Group on Trends and Insights Navigating R’s Evolution and Future Trends in Madrid’s Dynamic Industry](https://www.r-consortium.org/blog/2023/12/01/r-in-action-madrid-r-users-group-on-trends-and-insights-navigating-rs-evolution-and-future-trends-in-madrids-dynamic-industry)
 
++ [2023 : A Year of Progress for PHUSE CAMIS Working Group.](https://www.r-consortium.org/blog/2023/11/29/2023-a-year-of-progress-for-phuse-camis-working-group)
 
-### R in Academia
-
++ [Igniting Innovation: Bilikisu Wunmi Olatunji’s Journey with Abuja’s Thriving R User Community](https://www.r-consortium.org/blog/2023/11/28/igniting-innovation-bilikisu-wunmi-olatunjis-journey-with-abujas-thriving-r-user-community)
 
 
 ### Resources
@@ -104,13 +102,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [healthyr: Free Resources](https://healthyr.surgicalinformatics.org/resources.html#resources)
 
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ### Tutorials
 
@@ -165,11 +156,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
-
-### Grants & Funding
-
-
-### Datasets
 
 
 ### Jobs
