@@ -54,6 +54,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 - [Geospatial Data Science for Public Health Surveillance](https://www.paulamoraga.com/presentation-geohealth/#1)
 
+![Screenshot 2023-12-04 at 22 08 49](https://github.com/rweekly/rweekly.org/assets/53487593/dae80678-2f5d-4a96-9bbe-ec7750d8e609)
+
 - [Spatial Data Science with R](https://www.paulamoraga.com/presentation-course/#1)
 
 
@@ -63,28 +65,18 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 
 **CRAN**
-
-+ [{newscatcheR} 0.0.1](https://cran.r-project.org/package=newscatcheR): Programmatically Collect Normalized News from (Almost) Any Website
   
-+ [{genius} 2.2.2](https://cran.r-project.org/package=genius): Easily Access Song Lyrics from Genius.com
+- [New package ebmstate with initial version 0.1.4](https://cran.r-project.org/package=ebmstate)
   
-+ [{almanac} 0.1.0](https://cran.r-project.org/package=almanac): Tools for Working with Recurrence Rules
+- [New package phdcocktail with initial version 0.1.0](https://cran.r-project.org/package=phdcocktail)
   
-+ [{tidylo} 0.1.0](https://cran.r-project.org/package=tidylo): Weighted Tidy Log Odds Ratio
+- [New package acro with initial version 0.1.1](https://cran.r-project.org/package=acro)
   
-+ [{nombre} 0.1.0](https://cran.r-project.org/package=nombre): Number Names
+- [New package scGOclust with initial version 0.2.0](https://cran.r-project.org/package=scGOclust)
   
-+ [{nhlapi} 0.1.2](https://cran.r-project.org/package=nhlapi): A Minimum-Dependency 'R' Interface to the 'NHL' API
+- [New package gatoRs with initial version 1.0.1](https://cran.r-project.org/package=gatoRs)
   
-+ [{applicable} 0.0.1](https://cran.r-project.org/package=applicable): A Compilation of Applicability Domain Methods
-  
-+ [{upsetjs} 1.0.2](https://cran.r-project.org/package=upsetjs): 'HTMLWidget' Wrapper of 'UpSet.s' for Exploring Large Set Intersections
-  
-+ [{sketcher} 0.1.3](https://cran.r-project.org/package=sketcher): Pencil Sketch Effect
-  
-+ [{BOJ} 0.2.2](https://cran.r-project.org/package=BOJ): Interface to Bank of Japan Statistics
-  
-+ [{ROpenCVLite} 0.4.430](https://cran.r-project.org/package=ROpenCVLite): Install 'OpenCV'
+- [New package geofacet with initial version 0.2.1](https://cran.r-project.org/package=geofacet)
 
 
 ### Updated Packages
@@ -130,30 +122,32 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 - [ANOVA Types](https://schmidtpaul.github.io/dsfair_quarto/ch/summaryarticles/anovatypes.html)
 
-+ [Quasi-randomized nnetworks in Julia, Python and R](https://thierrymoudiki.github.io/blog/2023/11/27/python/r/julia/quasirandomizednn/julia-nnetsauce)
-
 + [Introduction to data manipulation in R with {dplyr}](https://statsandr.com/blog/introduction-to-data-manipulation-in-r-with-dplyr/)
+  
++ [Helping R find the right methods for unserialized complex objects.](https://mm218.dev/posts/2023-11-27-objects-loading-namespaces/index.html)
+
++ [tidyAML: Now supporting gee models](https://www.spsanderson.com/steveondata/posts/2023-12-01/index.html)
 
 + [Spatial autocorrelation](https://r.iresmi.net/posts/2023/spatial_autocorrelation/index.html)
-
-+ [Cliff notes about the cli package](https://blog.r-hub.io/2023/11/30/cliff-notes-about-cli/)
+  
+![Screenshot 2023-12-04 at 22 23 32](https://github.com/rweekly/rweekly.org/assets/53487593/a5ca46f9-31cf-4986-8411-0638b1ac3f9b)
 
 + [Using Google Lighthouse for Web Pages](https://www.jumpingrivers.com/blog/shiny-app-start-up-google-lighthouse-part-1/)
 
++ [Navigating Quantile Regression with R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2023-11-29/index.html)
+  
++ [Understanding and Implementing Robust Regression in R](https://www.spsanderson.com/steveondata/posts/2023-11-28/index.html)
+
 + [Empirical Bayes for #TidyTuesday Doctor Who episodes](https://juliasilge.com/blog/doctor-who-bayes/)
+  
+![Screenshot 2023-12-04 at 22 24 33](https://github.com/rweekly/rweekly.org/assets/53487593/deec741e-0a2e-48d1-a786-ea620fa31fe9)
 
 + [Advent of Code 2022](https://jcarroll.com.au/2023/11/28/advent-of-code-2022/)
 
 + [Finding the most unique land cover spatial pattern](https://jakubnowosad.com/posts/2023-12-03-motif-bp8/index.html)
+  
+![Screenshot 2023-12-04 at 22 25 05](https://github.com/rweekly/rweekly.org/assets/53487593/40d3803c-0c6d-4cb7-bb8c-ee0835e63833)
 
-+ [Helping R find the right methods for unserialized complex objects.](https://mm218.dev/posts/2023-11-27-objects-loading-namespaces/index.html)
-
-+ [tidyAML: Now supporting gee models](https://www.spsanderson.com/steveondata/posts/2023-12-01/index.html)
-  
-+ [Navigating Quantile Regression with R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2023-11-29/index.html)
-  
-+ [Understanding and Implementing Robust Regression in R](https://www.spsanderson.com/steveondata/posts/2023-11-28/index.html)
-  
 + [Unveiling Power Regression: A Step-by-Step Guide in R](https://www.spsanderson.com/steveondata/posts/2023-11-27/index.html)
 
 + [How to make your own #RStats Wrapped](https://nrennie.rbind.io/blog/2022-12-03-how-to-make-your-own-rstats-wrapped/)
