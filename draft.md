@@ -52,6 +52,7 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 ### Resources
 
+- [State of the R – the New Stuff](https://thingsinflow.dk/2023/12/06/state-of-the-r-the-new-stuff/)
 - [Geospatial Data Science for Public Health Surveillance](https://www.paulamoraga.com/presentation-geohealth/#1)
 
 ![Screenshot 2023-12-04 at 22 08 49](https://github.com/rweekly/rweekly.org/assets/53487593/dae80678-2f5d-4a96-9bbe-ec7750d8e609)
