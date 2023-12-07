@@ -19,7 +19,6 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 ### Insights
 
 
-
 ### R in the Real World
 
 
@@ -36,6 +35,8 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 
 + [State of the R – the New Stuff](https://thingsinflow.dk/2023/12/06/state-of-the-r-the-new-stuff/)
 
++ [Hierarchical classification with Tabnet and C-HMCNN](https://mlverse.github.io/tabnet/articles/Hierarchical_classification.html)
+
 ### New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
@@ -43,7 +44,7 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 
 **CRAN**
 
-
++ [{tabnet 0.5.0}](https://mlverse.github.io/tabnet/)
 
 **Bioconductor**
 
