@@ -19,6 +19,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [deposits R Package Delivers a Common Workflow for R Users](https://www.r-consortium.org/blog/2023/11/30/deposits-r-package-delivers-a-common-workflow-for-r-users)
 
++ [Hierarchical classification with Tabnet and C-HMCNN](https://mlverse.github.io/tabnet/articles/Hierarchical_classification.html)
+
 ### Insights
 
 + [Cliff notes about the cli package](https://blog.r-hub.io/2023/11/30/cliff-notes-about-cli/)
@@ -30,9 +32,6 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 ![Screenshot 2023-12-04 at 22 01 25](https://github.com/rweekly/rweekly.org/assets/53487593/1f2a6fb0-56f8-4986-a53a-dc8b30e7a13c)
 
 + [Little useless-useful R functions –  How to make R-squared useless](https://tomaztsql.wordpress.com/2023/11/27/little-useless-useful-r-functions-how-to-make-r-squared-useless/)
-
-+ [Hierarchical classification with Tabnet and C-HMCNN](https://mlverse.github.io/tabnet/articles/Hierarchical_classification.html)
-
 
 ### R in the Real World
 
