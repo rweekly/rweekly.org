@@ -31,6 +31,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [Little useless-useful R functions –  How to make R-squared useless](https://tomaztsql.wordpress.com/2023/11/27/little-useless-useful-r-functions-how-to-make-r-squared-useless/)
 
++ [Hierarchical classification with Tabnet and C-HMCNN](https://mlverse.github.io/tabnet/articles/Hierarchical_classification.html)
+
 
 ### R in the Real World
 
@@ -97,6 +99,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 + [RcppCNPy 0.2.12 on CRAN: More Maintenance](http://dirk.eddelbuettel.com/blog/2023/11/27#rcppcnpy_0.2.12)
   
 + [RQuantLib 0.4.20 on CRAN: More Maintenance](http://dirk.eddelbuettel.com/blog/2023/11/26#rquantlib_0.4.20)
+
++ [tabnet 0.5.0 on CRAN](https://mlverse.github.io/tabnet/)
 
 + [scales 1.3.0](https://www.tidyverse.org/blog/2023/11/scales-1-3-0/)
 
