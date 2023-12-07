@@ -37,6 +37,8 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 
 + [Hierarchical classification with Tabnet and C-HMCNN](https://mlverse.github.io/tabnet/articles/Hierarchical_classification.html)
 
++ [Posit Cheatsheets: Now in HTML!](https://posit.co/blog/posit-cheatsheets-now-in-html/)
+
 ### New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
