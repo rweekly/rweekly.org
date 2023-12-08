@@ -36,9 +36,11 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 + [State of the R – the New Stuff](https://thingsinflow.dk/2023/12/06/state-of-the-r-the-new-stuff/)
 
 + [Hierarchical classification with Tabnet and C-HMCNN](https://mlverse.github.io/tabnet/articles/Hierarchical_classification.html)
-
- + [Posit Cheatsheets: Now in HTML!](https://posit.co/blog/posit-cheatsheets-now-in-html/)
  
++ [Shiny for R updates: new default look, dark mode, shinylive updates, and more](https://shiny.posit.co/blog/posts/shiny-r-1.8.0/)
+
++ [Posit Cheatsheets: Now in HTML!](https://posit.co/blog/posit-cheatsheets-now-in-html/)
+
 ### New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
