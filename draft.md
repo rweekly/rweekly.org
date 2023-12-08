@@ -39,6 +39,8 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 
 + [Shiny for R updates: new default look, dark mode, shinylive updates, and more](https://shiny.posit.co/blog/posts/shiny-r-1.8.0/)
 
++ [Create custom Callout Blocks in Quarto](https://www.youtube.com/watch?v=DDQO_3R-q74)
+
 ### New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
