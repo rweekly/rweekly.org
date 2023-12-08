@@ -60,6 +60,14 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{nanonext} 0.11.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library
+
++ [{mirai} 0.11.3](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R
+
++ [{mirai.promises} 0.4.1](https://cran.r-project.org/package=mirai.promises): Make 'Mirai' 'Promises'
+
++ [{ichimoku} 1.4.11](https://cran.r-project.org/package=ichimoku): Visualization and Tools for Ichimoku Kinko Hyo Strategies
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
