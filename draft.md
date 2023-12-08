@@ -18,6 +18,7 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 
 ### Insights
 
+* [Shiny for R updates: new default look, dark mode, shinylive updates, and more](https://shiny.posit.co/blog/posts/shiny-r-1.8.0/)
 
 ### R in the Real World
 
