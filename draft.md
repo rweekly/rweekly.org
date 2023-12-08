@@ -18,7 +18,6 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 
 ### Insights
 
-* [Shiny for R updates: new default look, dark mode, shinylive updates, and more](https://shiny.posit.co/blog/posts/shiny-r-1.8.0/)
 
 ### R in the Real World
 
@@ -37,6 +36,8 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 + [State of the R – the New Stuff](https://thingsinflow.dk/2023/12/06/state-of-the-r-the-new-stuff/)
 
 + [Hierarchical classification with Tabnet and C-HMCNN](https://mlverse.github.io/tabnet/articles/Hierarchical_classification.html)
+
++ [Shiny for R updates: new default look, dark mode, shinylive updates, and more](https://shiny.posit.co/blog/posts/shiny-r-1.8.0/)
 
 ### New Packages
 
