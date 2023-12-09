@@ -66,6 +66,10 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [Quarto Dashboards](https://www.youtube.com/watch?v=_VGJIPRGTy4)
+
++ [Databricks x Posit | Improved Productivity for your Data Teams](https://www.youtube.com/watch?v=iShpyDxzMeE)
+
 
 ### Gist & Cookbook
 
