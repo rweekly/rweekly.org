@@ -48,7 +48,7 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 
 **CRAN**
 
-+ [{tabnet 0.5.0}](https://mlverse.github.io/tabnet/)
+
 
 **Bioconductor**
 
@@ -61,6 +61,8 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{tabnet} 0.5.0](https://mlverse.github.io/tabnet/): Fit 'TabNet' Models for Classification and Regression
 
 + [{nanonext} 0.11.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library
 
