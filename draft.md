@@ -78,6 +78,7 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 
 + [Databricks x Posit | Improved Productivity for your Data Teams](https://www.youtube.com/watch?v=iShpyDxzMeE)
 
++ [Create custom Callout Blocks in Quarto](https://www.youtube.com/watch?v=DDQO_3R-q74)
 
 ### Gist & Cookbook
 
