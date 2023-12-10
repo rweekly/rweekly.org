@@ -84,7 +84,7 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za), with
 
 ### Gist & Cookbook
 
-
++ [Get Back for R](http://hughjonesd.github.io/sir-mixalot.html#/title-slide)
 
 ### Shiny Apps
 
