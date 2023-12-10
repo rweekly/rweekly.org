@@ -120,8 +120,6 @@ Fjords
 
 + [What is the probability that two persons have the same initials?](https://statsandr.com/blog/what-is-the-probability-that-two-persons-have-the-same-initials/)
 
-+ [Advent of 2023, Day 4 – Delta lake and delta tables in Microsoft Fabric](https://tomaztsql.wordpress.com/2023/12/04/advent-of-2023-day-4-delta-lake-and-delta-tables-in-microsoft-fabric/)
-
 + [Analysing Shiny App start-up Times with Google Lighthouse](https://www.jumpingrivers.com/blog/shiny-app-start-up-google-lighthouse-part-2/)
 
 + [{checkhelper} is on CRAN: so you don’t have to be afraid to run a check](https://rtask.thinkr.fr/checkhelper-is-on-cran-so-you-dont-have-to-be-afraid-to-run-a-check/)
