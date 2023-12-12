@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2023-W49
+title: R Weekly 2023-W51
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
