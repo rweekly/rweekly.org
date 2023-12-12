@@ -60,6 +60,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
++ [This R Package Helps You To Avoid Formatting Mistakes](https://www.youtube.com/watch?v=wOcMPGHdfVY)
 
 
 ### Gist & Cookbook
@@ -76,6 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Style your code output with {epoxy}](https://albert-rapp.de/posts/17_epoxy/17_epoxy)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
