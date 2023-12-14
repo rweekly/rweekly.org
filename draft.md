@@ -21,6 +21,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### R in the Real World
++ [Knowledge Retrieval and Task Automation: with R and GPT on the Histories](https://boiled-data.github.io/HistoriesGPT.html)
 
 
 
