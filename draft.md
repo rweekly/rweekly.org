@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+- [Patience is overrated – embrace the thrill of parsing streaming data as it arrives!](https://samuelenrique.com/posts/2023-12-14-launching-sseparser/)
 
 ### R in Organizations
 
