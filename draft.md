@@ -26,6 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [The 10 most popular R books of 2023](https://oscarbaruffa.com/the-10-most-popular-r-books-of-2023/)
 
 ### R in the Real World
++ [Knowledge Retrieval and Task Automation: with R and GPT on the Histories](https://boiled-data.github.io/HistoriesGPT.html)
 
 
 
