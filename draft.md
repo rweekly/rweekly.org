@@ -64,6 +64,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
++ [This R Package Helps You To Avoid Formatting Mistakes](https://www.youtube.com/watch?v=wOcMPGHdfVY)
 
 + [The Power of Plotting Compels You: TidyX Episode 165](https://www.youtube.com/watch?v=Y6Q6aPWp3x4&t=1s)
 
@@ -89,8 +90,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Get Good with R: Typing Skills and Shortcuts](https://www.njtierney.com/post/2023/12/04/get-good-type-fast/)
 + [Beautiful Maps with R (V): Point densities](https://dieghernan.github.io/202312_bertin_dots/)
 + [Demystifying Odds Ratios in Logistic Regression: Your R Recipe for Loan Defaults](https://www.spsanderson.com/steveondata/posts/2023-12-15/index.html)
++ [Style your code output with {epoxy}](https://albert-rapp.de/posts/17_epoxy/17_epoxy)
 + [Decoding the Mystery: How to Interpret Regression Output in R Like a Champ](https://www.spsanderson.com/steveondata/posts/2023-12-14/index.html)
 + [Conquering Unequal Variance with Weighted Least Squares in R: A Practical Guide](https://www.spsanderson.com/steveondata/posts/2023-12-12/index.html)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
