@@ -28,7 +28,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 + [Knowledge Retrieval and Task Automation: with R and GPT on the Histories](https://boiled-data.github.io/HistoriesGPT.html)
 
-
+- [Patience is overrated – embrace the thrill of parsing streaming data as it arrives!](https://samuelenrique.com/posts/2023-12-14-launching-sseparser/)
 
 ### R in Organizations
 
