@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [Talk recordings and workshop materials from posit::conf(2023)](https://posit.co/blog/talks-and-workshops-from-posit-conf-2023/)
 
 ### New Packages
 
