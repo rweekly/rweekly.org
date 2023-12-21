@@ -61,6 +61,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [How to Create 5 MUST-KNOW CHARTS with ggplot2](https://youtu.be/iy-2ybDgVe8)
 
 ### Gist & Cookbook
 
@@ -76,6 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [5 Example Charts with `ggplot2`](https://albert-rapp.de/posts/ggplot2-tips/19_example_charts/19_example_charts)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
