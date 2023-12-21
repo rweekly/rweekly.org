@@ -26,6 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
++ [Exploristics using R to generate 12 Plots of Christmas Social Media Campaign](https://github.com/GABurns/12PlotsChristmas)
 
 
 ### R in Academia
