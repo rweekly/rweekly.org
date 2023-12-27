@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
+[R package development with several R folders](https://www.youtube.com/watch?v=q-GT7q0v_YA&ab_channel=RforPROD)
 
 ### New Packages
 
@@ -43,7 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+- [rfold](https://cran.r-project.org/web/packages/rfold/index.html)
 
 **Bioconductor**
 
