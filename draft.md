@@ -61,6 +61,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [Modeling at posit::conf(2023): Talks and Workshops](https://posit.co/blog/modeling-talks-at-positconf/)
+
 
 ### Gist & Cookbook
 
