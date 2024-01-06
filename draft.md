@@ -20,8 +20,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
 
++ [Bye, RStudio/Posit! - After writing all these "*down" packages for these years, here I am to announce "Yihui-down"](https://yihui.org/en/2024/01/bye-rstudio/)
 
 - [Reproducible data science with Nix, part 8 -- nixpkgs, a tale of the magic of free and open source software and a call for charity](https://www.brodrigues.co/blog/2023-12-19-nix_for_r_part_8/)
+
+- [Four ways to streamline your R workflows](https://nrennie.rbind.io/blog/four-ways-streamline-r-workflows/)
 
 ### R in the Real World
 
@@ -90,6 +93,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [5 Example Charts with `ggplot2`](https://albert-rapp.de/posts/ggplot2-tips/19_example_charts/19_example_charts)
 
++ [Migrating a blog to Quarto: Reverse engineering HTML to markdown](http://blog.schochastics.net/posts/2024-01-02_migrating-to-quarto/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
