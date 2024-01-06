@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+- [Reproducible data science with Nix, part 8 -- nixpkgs, a tale of the magic of free and open source software and a call for charity](https://www.brodrigues.co/blog/2023-12-19-nix_for_r_part_8/)
 
 ### R in the Real World
 
