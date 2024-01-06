@@ -20,6 +20,8 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 
 * [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
 
++ [Bye, RStudio/Posit! - After writing all these "*down" packages for these years, here I am to announce "Yihui-down"](https://yihui.org/en/2024/01/bye-rstudio/)
+
 - [Reproducible data science with Nix, part 8 -- nixpkgs, a tale of the magic of free and open source software and a call for charity](https://www.brodrigues.co/blog/2023-12-19-nix_for_r_part_8/)
 
 + [In-Person Shiny in Production Conference Hosted by North East Data Science Group in Newcastle, UK](https://www.r-consortium.org/blog/2023/12/19/in-person-shiny-in-production-conference-hosted-by-north-east-data-science-group-in-newcastle-uk)
@@ -193,6 +195,27 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 
 
 + [Probability intervals with GAMs](http://www.seascapemodels.org/rstats/2024/01/05/credible-intervals-with-GAMs.html)
+
++ [.I in data.table](https://johnmackintosh.net/blog/2024-01-03-dot-I/)
+
++ [non-equi joins in data.table](https://johnmackintosh.net/blog/2023-12-22-non-equi-joins/)
+
++ [Use google’s Gemini in R with R package “gemini.R”](https://r-posts.com/use-googles-gemini-in-r-with-r-package-gemini-r/)
+
++ [Comparing many Models with Fast Regression](https://datageeek.com/2023/12/20/comparing-many-models-with-fast-regression/)
+
++ [Simulating spatial patterns with the spatial kinetic Ising model](https://jakubnowosad.com/posts/2023-12-17-spatialising-bp1/index.html)
+
++ [3MW (11 Learnings From 11 Charts)](https://3mw.albert-rapp.de/p/3mw-11-learnings-11-charts)
+
++ [Cryptocurrency Market Data in R](https://r-posts.com/cryptocurrency-market-data-in-r/)
+
++ [How to use the list argument in microbenchmark](https://r-critique.com/how_to_use_list_argument_in_microbenchmark)
+
+
++ [Probability intervals with GAMs](http://www.seascapemodels.org/rstats/2024/01/05/credible-intervals-with-GAMs.html)
+
++ [Migrating a blog to Quarto: Reverse engineering HTML to markdown](http://blog.schochastics.net/posts/2024-01-02_migrating-to-quarto/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
