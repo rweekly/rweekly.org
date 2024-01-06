@@ -34,8 +34,6 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 
 + [2023 Year in Review.](https://www.pipinghotdata.com/posts/2023-12-18-2023-year-in-review)
 
-+ [Bye, RStudio/Posit!](https://yihui.org/en/2024/01/bye-rstudio/)
-
 + [Python Rgonomics](https://emilyriederer.com/post/py-rgo/index.html)
 
 + [Four ways to streamline your R workflows](https://nrennie.rbind.io/blog/four-ways-streamline-r-workflows/)
