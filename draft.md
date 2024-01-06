@@ -64,7 +64,7 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 ### Resources
 
 
-[R package development with several R folders](https://www.youtube.com/watch?v=q-GT7q0v_YA&ab_channel=RforPROD)
++ [R package development with several R folders](https://www.youtube.com/watch?v=q-GT7q0v_YA&ab_channel=RforPROD)
 
 + [Talk recordings and workshop materials from posit::conf(2023)](https://posit.co/blog/talks-and-workshops-from-posit-conf-2023/)
 
@@ -193,7 +193,6 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 
 + [How to use the list argument in microbenchmark](https://r-critique.com/how_to_use_list_argument_in_microbenchmark)
 
-
 + [Probability intervals with GAMs](http://www.seascapemodels.org/rstats/2024/01/05/credible-intervals-with-GAMs.html)
 
 + [.I in data.table](https://johnmackintosh.net/blog/2024-01-03-dot-I/)
@@ -211,7 +210,6 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 + [Cryptocurrency Market Data in R](https://r-posts.com/cryptocurrency-market-data-in-r/)
 
 + [How to use the list argument in microbenchmark](https://r-critique.com/how_to_use_list_argument_in_microbenchmark)
-
 
 + [Probability intervals with GAMs](http://www.seascapemodels.org/rstats/2024/01/05/credible-intervals-with-GAMs.html)
 
