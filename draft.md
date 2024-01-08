@@ -47,6 +47,8 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 
 + [Exploristics using R to generate 12 Plots of Christmas Social Media Campaign](https://github.com/GABurns/12PlotsChristmas)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2024-W02/292241694-12e1718d-04d1-4cc8-b9f6-20f580178c00_600.png)
+
 + [A three-arm trial using two-step randomization](https://www.rdatagen.net/post/2023-12-19-a-three-arm-trial-using-two-step-randomization/)
 
 ### R in Academia
@@ -57,17 +59,9 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 
 + [Usage shares of programming languages in economics research](http://skranz.github.io//r/2023/12/29/FindingEconomicArticles7.html)
 
-
-
 ### Resources
 
-
 + [R package development with several R folders](https://www.youtube.com/watch?v=q-GT7q0v_YA&ab_channel=RforPROD)
-
-+ [Talk recordings and workshop materials from posit::conf(2023)](https://posit.co/blog/talks-and-workshops-from-posit-conf-2023/)
-
-
-
 
 ### New Packages
 
@@ -80,11 +74,11 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 
 + [tinythemes 0.0.1 at CRAN: New Package](http://dirk.eddelbuettel.com/blog/2023/12/18#tinythemes_0.0.1)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2024-W02/tinythemes_demo_600.png)
+
 + [{bigrquerystorage} 1.0.0](https://cran.r-project.org/package=bigrquerystorage): An Interface to Google's 'BigQuery Storage' API
 
 + [{Pandora} 23.12.0](https://cran.r-project.org/package=Pandora): Retrieve Data using the API of the 'Pandora' Data Platform
-
-+ [{tinythemes} 0.0.1](https://cran.r-project.org/package=tinythemes): Lightweight Repackaging of 'Themes' for 'ggplot2'
 
 + [{connections} 0.2.0](https://cran.r-project.org/package=connections): Integrates with the 'RStudio' Connections Pane and 'pins'
 
@@ -102,12 +96,6 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 
 + [{tidytuesdayR} 1.0.3](https://cran.r-project.org/package=tidytuesdayR): Access the Weekly 'TidyTuesday' Project Dataset
 
-
-
-**Bioconductor**
-
-
-
 **GitHub or Bitbucket**
 
 * [codesamples - R code samples From various sources](https://github.com/hughjonesd/codesamples)
@@ -121,6 +109,8 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 + [{vcd} 1.4-12](https://cran.r-project.org/package=vcd): Visualizing Categorical Data - [diffify](https://diffify.com/R/vcd)
 
 + [{ggh4x} 0.2.7](https://cran.r-project.org/package=ggh4x): Hacks for 'ggplot2' - [diffify](https://diffify.com/R/ggh4x)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2024-W02/README-facets-1_600.png)
 
 + [{ggVennDiagram} 1.4.9](https://cran.r-project.org/package=ggVennDiagram): A 'ggplot2' Implement of Venn Diagram - [diffify](https://diffify.com/R/ggVennDiagram)
 
@@ -148,28 +138,23 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 
 + [{vizdraws} 1.4.2](https://cran.r-project.org/package=vizdraws): Visualize Draws from the Prior and Posterior Distributions - [diffify](https://diffify.com/R/vizdraws)
 
-
-
+![](https://raw.githubusercontent.com/rweekly/image/master/2024-W02/Posterior_600.gif)
 
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [Talk recordings and workshop materials from posit::conf(2023)](https://posit.co/blog/talks-and-workshops-from-posit-conf-2023/)
+
 + [Modeling at posit::conf(2023): Talks and Workshops](https://posit.co/blog/modeling-talks-at-positconf/)
 
 + [How to Create 5 MUST-KNOW CHARTS with ggplot2](https://youtu.be/iy-2ybDgVe8)
 
-
-### Gist & Cookbook
-
-
++ [TidyX Episode 168: Hall of Fame Showdown - Base R Plot Edition](https://www.youtube.com/watch?v=uIh-hEiJJLU)
 
 ### Shiny Apps
 
 + [3MW (More similarities between Py- and R-Shiny)](https://3mw.albert-rapp.de/p/3mw-similarities-py-rshiny)
-
-### R Internationally
-
 
 ### Tutorials
 
@@ -217,9 +202,6 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
 ### Datasets
 
 + [Météo-France Open Data](https://r.iresmi.net/posts/2023/meteofrance/index.html)
@@ -227,9 +209,6 @@ Events in 3 Months:
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
-
-### rtistry
-
 
 ### Quotes of the Week
 
