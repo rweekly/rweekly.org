@@ -212,10 +212,10 @@ Events in 3 Months:
 
 ### Quotes of the Week
 
-https://fosstodon.org/@schochastics/111711088826340671
+<iframe src="https://fosstodon.org/@schochastics/111711088826340671/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
 
-https://fosstodon.org/@coolbutuseless/111706497021157983
+<iframe src="https://fosstodon.org/@coolbutuseless/111706497021157983/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
 
-https://mastodon.social/@rmflight/111703975498377033
+<iframe src="https://mastodon.social/@rmflight/111703975498377033/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
 
-https://fosstodon.org/@milesmcbain/111683839131728414
+<iframe src="https://fosstodon.org/@milesmcbain/111683839131728414/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
