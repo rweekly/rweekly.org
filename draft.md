@@ -34,8 +34,6 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 
 + [2023 Year in Review.](https://www.pipinghotdata.com/posts/2023-12-18-2023-year-in-review)
 
-+ [Bye, RStudio/Posit!](https://yihui.org/en/2024/01/bye-rstudio/)
-
 + [Python Rgonomics](https://emilyriederer.com/post/py-rgo/index.html)
 
 + [Four ways to streamline your R workflows](https://nrennie.rbind.io/blog/four-ways-streamline-r-workflows/)
@@ -177,10 +175,6 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 
 + [5 Example Charts with `ggplot2`](https://albert-rapp.de/posts/ggplot2-tips/19_example_charts/19_example_charts)
 
-+ [.I in data.table](https://johnmackintosh.net/blog/2024-01-03-dot-I/)
-
-+ [non-equi joins in data.table](https://johnmackintosh.net/blog/2023-12-22-non-equi-joins/)
-
 + [Use google’s Gemini in R with R package “gemini.R”](https://r-posts.com/use-googles-gemini-in-r-with-r-package-gemini-r/)
 
 + [Comparing many Models with Fast Regression](https://datageeek.com/2023/12/20/comparing-many-models-with-fast-regression/)
@@ -191,23 +185,9 @@ Editor's Note: This issue also includes resources from issues 2023-W52 and 2024-
 
 + [Cryptocurrency Market Data in R](https://r-posts.com/cryptocurrency-market-data-in-r/)
 
-+ [How to use the list argument in microbenchmark](https://r-critique.com/how_to_use_list_argument_in_microbenchmark)
-
-+ [Probability intervals with GAMs](http://www.seascapemodels.org/rstats/2024/01/05/credible-intervals-with-GAMs.html)
-
 + [.I in data.table](https://johnmackintosh.net/blog/2024-01-03-dot-I/)
 
 + [non-equi joins in data.table](https://johnmackintosh.net/blog/2023-12-22-non-equi-joins/)
-
-+ [Use google’s Gemini in R with R package “gemini.R”](https://r-posts.com/use-googles-gemini-in-r-with-r-package-gemini-r/)
-
-+ [Comparing many Models with Fast Regression](https://datageeek.com/2023/12/20/comparing-many-models-with-fast-regression/)
-
-+ [Simulating spatial patterns with the spatial kinetic Ising model](https://jakubnowosad.com/posts/2023-12-17-spatialising-bp1/index.html)
-
-+ [3MW (11 Learnings From 11 Charts)](https://3mw.albert-rapp.de/p/3mw-11-learnings-11-charts)
-
-+ [Cryptocurrency Market Data in R](https://r-posts.com/cryptocurrency-market-data-in-r/)
 
 + [How to use the list argument in microbenchmark](https://r-critique.com/how_to_use_list_argument_in_microbenchmark)
 
@@ -252,3 +232,11 @@ Events in 3 Months:
 
 
 ### Quotes of the Week
+
+https://fosstodon.org/@schochastics/111711088826340671
+
+https://fosstodon.org/@coolbutuseless/111706497021157983
+
+https://mastodon.social/@rmflight/111703975498377033
+
+https://fosstodon.org/@milesmcbain/111683839131728414
