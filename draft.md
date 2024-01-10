@@ -60,7 +60,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+
 + [TidyX Episode 169: Predicting Hall Of Famers in 20 Minutes](https://bit.ly/TidyX_Ep169)
+
++ [How To Make ggplot Even Better With These Powerful Packages](https://youtu.be/fWP7KnIhmpQ)
 
 
 ### Gist & Cookbook
@@ -77,6 +80,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Five Powerful `ggplot` Extensions](https://albert-rapp.de/posts/ggplot2-tips/20_ggplot_extensions/ggplot_extensions)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
