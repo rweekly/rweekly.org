@@ -57,6 +57,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{mirai} 0.12.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R
+
 + [{nanonext} 0.12.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen), a socket library and threaded concurrency framework
 
 ### Videos and Podcasts
