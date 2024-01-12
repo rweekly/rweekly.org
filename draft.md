@@ -61,6 +61,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [How to work with APIs using the httr2 package](https://www.youtube.com/watch?v=8tilyqp4bZY)
 
 ### Gist & Cookbook
 
