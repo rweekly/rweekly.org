@@ -57,6 +57,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [port4me 0.7.0](https://cran.r-project.org/package=port4me): Get the Same, Personal, Free TCP Port over and over
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
