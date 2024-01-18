@@ -18,11 +18,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Introducing saperlipopette, a package to practice Git!](https://masalmon.eu/2024/01/18/saperlipopette-package-practice-git/)
+
++ [2023 Posit Year in Review](https://posit.co/blog/2023-posit-year-in-review/)
 
 
 ### R in the Real World
 
-
++ [rsi is now on CRAN: Your one-stop shop for spatial ML data retrieval and pre-processing.](https://www.mm218.dev/posts/2024-01-10-rsi-cran/)
 
 ### R in Organizations
 
@@ -59,6 +62,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [port4me 0.7.0](https://cran.r-project.org/package=port4me): Get the Same, Personal, Free TCP Port over and over
 
+## Call for Participation
+
++ [Speak at posit::conf(2024)!](https://posit.co/blog/speak-at-posit-conf-2024/)
+
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
@@ -78,7 +86,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Six not-so-basic base R functions](https://ivelasq.rbind.io/blog/not-so-basic-base-r-functions/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
