@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2023-W03
+title: R Weekly 2024-W00
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -18,23 +18,25 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [Financial Assistance is Available for Your R User Group in 2024!](https://www.r-consortium.org/blog/2024/01/08/financial-assistance-is-available-for-your-r-user-group-in-2024)
++ [R-universe now builds MacOS ARM64 binaries for use on Apple Silicon (aka M1/M2/M3) systems](https://ropensci.org/blog/2024/01/14/runiverse-arm64/)
 
-+ [Call for Speakers: ShinyConf 2024 by Appsilon](https://r-posts.com/call-for-speakers-shinyconf-2024-by-appsilon/)
+- [Introducing saperlipopette, a package to practice Git!](https://masalmon.eu/2024/01/18/saperlipopette-package-practice-git/)
 
-+ [Benchmarking the Speed of Cumulative Functions in TidyDensity](https://www.spsanderson.com/steveondata/posts/2023-01-11/index.html)
-
++ [2023 Posit Year in Review](https://posit.co/blog/2023-posit-year-in-review/)
 
 
 ### R in the Real World
+
 
 + [R for Public Health Data Analysis in Karachi, Pakistan](https://www.r-consortium.org/blog/2024/01/10/r-for-public-health-data-analysis-in-karachi-pakistan)
 
 - [DIY API with Make and {plumber}](https://www.andrewheiss.com/blog/2024/01/12/diy-api-plumber-quarto-ojs/)
 
++ [rsi is now on CRAN: Your one-stop shop for spatial ML data retrieval and pre-processing.](https://www.mm218.dev/posts/2024-01-10-rsi-cran/)
+
+
 ### R in Organizations
 
-+ [Security Headers for Shiny Applications](https://www.jumpingrivers.com/blog/shiny-security-server-headers/)
 
 
 ### R in Academia
@@ -53,8 +55,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 
 
-+ [Gauging Cryptocurrency Market Sentiment in R](https://r-posts.com/gauging-cryptocurrency-market-sentiment-in-r/)
-
 
 **Bioconductor**
 
@@ -68,35 +68,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{mirai} 0.12.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R
++ [port4me 0.7.0](https://cran.r-project.org/package=port4me): Get the Same, Personal, Free TCP Port over and over
 
-+ [{nanonext} 0.12.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen), a socket library and threaded concurrency framework
+## Call for Participation
 
-+ [digest 0.6.34 on CRAN: Maintanance](http://dirk.eddelbuettel.com/blog/2024/01/11#digest_0.6.34)
-
-+ [BH 1.84.0-1 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2024/01/10#bh_1.84.0-0)
-
-+ [Rcpp 1.0.12 on CRAN: New Maintenance / Update Release](http://dirk.eddelbuettel.com/blog/2024/01/09#rcpp_1.0.12)
-
-+ [roxygen2 7.3.0](https://www.tidyverse.org/blog/2024/01/roxygen2-7-3-0/)
-
-+ [Q4 2023 tidymodels digest](https://www.tidyverse.org/blog/2024/01/tidymodels-2023-q4/)
-
-+ [New Horizons for TidyDensity: Version 1.3.0 Release](https://www.spsanderson.com/steveondata/posts/2024-01-09/index.html)
-
++ [Speak at posit::conf(2024)!](https://posit.co/blog/speak-at-posit-conf-2024/)
 
 
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
-+ [TidyX Episode 169: Predicting Hall Of Famers in 20 Minutes](https://bit.ly/TidyX_Ep169)
-
-+ [How To Make ggplot Even Better With These Powerful Packages](https://youtu.be/fWP7KnIhmpQ)
-
-+ [How to work with APIs using the httr2 package](https://www.youtube.com/watch?v=8tilyqp4bZY)
-
-+ [182 - The Best CEOs Not Named Hilary](https://nssdeviations.com/182-the-best-ceos-not-named-hilary)
 
 ### Gist & Cookbook
 
@@ -112,17 +94,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-+ [Five Powerful `ggplot` Extensions](https://albert-rapp.de/posts/ggplot2-tips/20_ggplot_extensions/ggplot_extensions)
 
-+ [Optimizing the parameters of the spatial kinetic Ising model to simulate spatial patterns](https://jakubnowosad.com/posts/2024-01-07-spatialising-bp2/index.html)
++ [How to Update a Translation with Babeldown](https://ropensci.org/blog/2024/01/16/deepl-update-babeldown/)
 
-+ [Exploring the Peaks: A Dive into the Triangular Distribution in TidyDensity](https://www.spsanderson.com/steveondata/posts/2024-01-10/index.html)
++ [Six not-so-basic base R functions](https://ivelasq.rbind.io/blog/not-so-basic-base-r-functions/)
 
-+ [3MW (Quarto dashboards) ](https://3mw.albert-rapp.de/p/quarto-dashboards)
-
-+ [Overview of clustering methods in R](https://petolau.github.io/Overview-clustering-methods-in-R/)
-
-+ [Object-Oriented Programming in R (Part 1): An Introduction](https://appsilon.com/object-oriented-programming-in-r-part-1/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
