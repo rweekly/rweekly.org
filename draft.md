@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [2023 Posit Year in Review](https://posit.co/blog/2023-posit-year-in-review/)
 
 ### R in the Real World
 
