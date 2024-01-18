@@ -57,6 +57,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+## Call for Participation
+
++ [Speak at posit::conf(2024)!](https://posit.co/blog/speak-at-posit-conf-2024/)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
