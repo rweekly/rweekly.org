@@ -83,7 +83,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Six not-so-basic base R functions](https://ivelasq.rbind.io/blog/not-so-basic-base-r-functions/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
