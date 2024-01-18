@@ -60,9 +60,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [port4me 0.7.0](https://cran.r-project.org/package=port4me): Get the Same, Personal, Free TCP Port over and over
+
 ## Call for Participation
 
 + [Speak at posit::conf(2024)!](https://posit.co/blog/speak-at-posit-conf-2024/)
+
 
 ### Videos and Podcasts
 
