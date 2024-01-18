@@ -18,7 +18,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Introducing saperlipopette, a package to practice Git!](https://masalmon.eu/2024/01/18/saperlipopette-package-practice-git/)
+
 + [2023 Posit Year in Review](https://posit.co/blog/2023-posit-year-in-review/)
+
 
 ### R in the Real World
 
