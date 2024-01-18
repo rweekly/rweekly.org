@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [R-universe now builds MacOS ARM64 binaries for use on Apple Silicon (aka M1/M2/M3) systems](https://ropensci.org/blog/2024/01/14/runiverse-arm64/)
+
 - [Introducing saperlipopette, a package to practice Git!](https://masalmon.eu/2024/01/18/saperlipopette-package-practice-git/)
 
 + [2023 Posit Year in Review](https://posit.co/blog/2023-posit-year-in-review/)
@@ -86,7 +88,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+
++ [How to Update a Translation with Babeldown](https://ropensci.org/blog/2024/01/16/deepl-update-babeldown/)
+
 + [Six not-so-basic base R functions](https://ivelasq.rbind.io/blog/not-so-basic-base-r-functions/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
