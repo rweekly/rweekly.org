@@ -27,7 +27,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
+
++ [R for Public Health Data Analysis in Karachi, Pakistan](https://www.r-consortium.org/blog/2024/01/10/r-for-public-health-data-analysis-in-karachi-pakistan)
+
+- [DIY API with Make and {plumber}](https://www.andrewheiss.com/blog/2024/01/12/diy-api-plumber-quarto-ojs/)
+
 + [rsi is now on CRAN: Your one-stop shop for spatial ML data retrieval and pre-processing.](https://www.mm218.dev/posts/2024-01-10-rsi-cran/)
+
 
 ### R in Organizations
 
