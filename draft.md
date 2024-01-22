@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2024-W00
+title: R Weekly 2024-W04
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Sam Parmar](https://github.com/parmsam), with help from the R Weekly team members and contributors.
 
 
 
@@ -28,12 +28,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [2023 Posit Year in Review](https://posit.co/blog/2023-posit-year-in-review/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W04/2023_600.jpg)
+
 + [Reading and Writing Data with {arrow}](https://www.jumpingrivers.com/blog/arrow-reading-writing-feather-hive-parquet/)
 
 + [rOpenSci 2023 Code of Conduct Transparency Report](https://ropensci.org/blog/2024/01/12/transparency2023/)
 
 + [withr 3.0.0](https://www.tidyverse.org/blog/2024/01/withr-3-0-0/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W04/thumbnail-wd_600.jpg)
 
 + [Rstats RSE January Digest](https://www.njtierney.com/post/2024/01/10/rse-digest-january/)
 
@@ -53,6 +56,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Satellite Data with R: Unveiling Earth’s Surface Using the ICESat2R Package](https://www.r-consortium.org/blog/2024/01/16/satellite-data-with-r-unveiling-earths-surface-using-the-icesat2r-package)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W04/standard_compressed_ICESat2-1_600.jpg)
+
 + [Posit x Databricks: December ’23 Webinar Recap](https://posit.co/blog/posit-databricks-webinar-dec2023-q-a/)
 
 
@@ -61,10 +66,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [From Vision to Action: Pfizer’s R Adoption Odyssey – Join the Webinar on February 8, 2024](https://www.r-consortium.org/blog/2024/01/12/from-vision-to-action-pfizers-r-adoption-odyssey-join-the-webinar-on-february-8-2024)
 
 + [Revolutionizing Patient Data Analysis: Boston Medical Center’s Journey with Machine Learning](https://appsilon.com/boston-medical-centers-journey-with-machine-learning/)
-
-### Resources
-
-
 
 ### New Packages
 
@@ -141,14 +142,6 @@ Outcome
 
 + [R-Ladies Rome (English) - Introduction to Reproducible Publications with Quarto](https://www.youtube.com/watch?v=hgpL-sppw7E&ab_channel=R-LadiesRome)
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
 ### R Internationally
 
 + [Join “Fake it Until You Make it: How and Why to Simulate Data” – First Glasgow User Group Event of the Year](https://www.r-consortium.org/blog/2024/01/19/join-fake-it-until-you-make-it-how-and-why-to-simulate-data-first-glasgow-user-group-event-of-the-year)
@@ -162,6 +155,8 @@ Outcome
 + [How to Update a Translation with Babeldown](https://ropensci.org/blog/2024/01/16/deepl-update-babeldown/)
 
 + [Six not-so-basic base R functions](https://ivelasq.rbind.io/blog/not-so-basic-base-r-functions/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W04/thumbnail-wide_600.jpg)
 
 + [Creating automatically dozens of calendar notifications (with R)](https://freakonometrics.hypotheses.org/70030)
 
@@ -193,12 +188,6 @@ Events in 3 Months:
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 + [ShinyConf 2024 (April 17-19)](https://www.shinyconf.com/)
-
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Jobs
 
