@@ -14,7 +14,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
++ [How to Update a Translation with Babeldown](https://ropensci.org/blog/2024/01/16/deepl-update-babeldown/)
 
++ [Six not-so-basic base R functions](https://ivelasq.rbind.io/blog/not-so-basic-base-r-functions/)
+
++ [3MW (Making dashboard interactive)](https://3mw.albert-rapp.de/p/3mw-making-dashboard-interactive)
 
 ### Insights
 
@@ -40,6 +44,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [TidyDensity Powers Up with Data.table: Speedier Distributions for Your Data Exploration](https://www.spsanderson.com/steveondata/posts/2024-01-12/index.html)
 
 + [polars’ Rgonomic Patterns](https://emilyriederer.com/post/py-rgo-polars/)
+
++ [Pseudo-apps in the browser with WebR and Quarto?](https://www.rostrum.blog/posts/2024-01-20-webr-remote/)
 
 ### R in the Real World
 
@@ -69,14 +75,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [rsi is now on CRAN!](https://mm218.dev/posts/2024-01-10-rsi-cran/index.html)
 
-
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
++ [{rworkflows} 1.0.1](https://cran.r-project.org/package=rworkflows): Test, Document, Containerise, and Deploy R Packages
++ [{yyjsonr} 0.1.16](https://cran.r-project.org/package=yyjsonr): Fast JSON Parser and Generator
++ [{dfmirroR} 2.0.0](https://cran.r-project.org/package=dfmirroR): Simulate a Data Frame Mirroring an Input and Produce Shareable
+Simulation Code
++ [{scientific} 2024.0](https://cran.r-project.org/package=scientific): Elegant Scientific Themed Reporting for 'Markdown'
++ [{r2fireworks} 0.1.0](https://cran.r-project.org/package=r2fireworks): Enhance Your 'Rmarkdown' and 'shiny' Apps with Dazzling
+Fireworks Celebrations
++ [{parcr} 0.5.0](https://cran.r-project.org/package=parcr): Construct Parsers for Structured Text Files
++ [{baseballr} 1.6.0](https://cran.r-project.org/package=baseballr): Acquiring and Analyzing Baseball Data
++ [{oaii} 0.1.9](https://cran.r-project.org/package=oaii): 'OpenAI' API R Interface
++ [{bscui} 0.1.2](https://cran.r-project.org/package=bscui): Build SVG Custom User Interface
++ [{tidyplate} 1.0.0](https://cran.r-project.org/package=tidyplate): Transform Microplate Data into Tidy Dataframes
++ [{tidyMC} 1.0.0](https://cran.r-project.org/package=tidyMC): Monte Carlo Simulations Made Easy and Tidy
+Outcome
++ [{rsi} 0.1.1](https://cran.r-project.org/package=rsi): Efficiently Retrieve and Process Satellite Imagery
++ [{drugdevelopR} 1.0.1](https://cran.r-project.org/package=drugdevelopR): Utility-Based Optimal Phase II/III Drug Development Planning Validation
 
 
 ### Updated Packages
@@ -87,6 +101,30 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [RcppSpdlog 0.0.16 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2024/01/12#rcppspdlog_0.0.16)
 + [RDieHarder 0.2.6 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2024/01/12#rdieharder_0.2.6)
+
++ [{procs} 1.0.5](https://cran.r-project.org/package=procs): Recreates Some 'SAS®' Procedures in 'R' - [diffify](https://diffify.com/R/procs)
++ [{usmap} 0.7.0](https://cran.r-project.org/package=usmap): US Maps Including Alaska and Hawaii - [diffify](https://diffify.com/R/usmap)
++ [{blavaan} 0.5-3](https://cran.r-project.org/package=blavaan): Bayesian Latent Variable Analysis - [diffify](https://diffify.com/R/blavaan)
++ [{yardstick} 1.3.0](https://cran.r-project.org/package=yardstick): Tidy Characterizations of Model Performance - [diffify](https://diffify.com/R/yardstick)
++ [{pathfindR} 2.3.1](https://cran.r-project.org/package=pathfindR): Enrichment Analysis Utilizing Active Subnetworks - [diffify](https://diffify.com/R/pathfindR)
++ [{arkhe} 1.5.0](https://cran.r-project.org/package=arkhe): Tools for Cleaning Rectangular Data - [diffify](https://diffify.com/R/arkhe)
++ [{crandep} 0.3.5](https://cran.r-project.org/package=crandep): Network Analysis of Dependencies of CRAN Packages - [diffify](https://diffify.com/R/crandep)
++ [{rgho} 3.0.2](https://cran.r-project.org/package=rgho): Access WHO Global Health Observatory Data from R - [diffify](https://diffify.com/R/rgho)
++ [{unrtf} 1.4.4](https://cran.r-project.org/package=unrtf): Extract Text from Rich Text Format (RTF) Documents - [diffify](https://diffify.com/R/unrtf)
++ [{antiword} 1.3.2](https://cran.r-project.org/package=antiword): Extract Text from Microsoft Word Documents - [diffify](https://diffify.com/R/antiword)
++ [{googletraffic} 0.1.5](https://cran.r-project.org/package=googletraffic): Google Traffic - [diffify](https://diffify.com/R/googletraffic)
++ [{GenAI} 0.1.15](https://cran.r-project.org/package=GenAI): Generative Artificial Intelligence - [diffify](https://diffify.com/R/GenAI)
++ [{asciicast} 2.3.1](https://cran.r-project.org/package=asciicast): Create 'Ascii' Screen Casts from R Scripts - [diffify](https://diffify.com/R/asciicast)
++ [{gt} 0.10.1](https://cran.r-project.org/package=gt): Easily Create Presentation-Ready Display Tables - [diffify](https://diffify.com/R/gt)
++ [{excel.link} 0.9.12](https://cran.r-project.org/package=excel.link): Convenient Data Exchange with Microsoft Excel - [diffify](https://diffify.com/R/excel.link)
++ [{hexFinder} 0.8.2](https://cran.r-project.org/package=hexFinder): Find Hex Logos for CRAN Packages - [diffify](https://diffify.com/R/hexFinder)
++ [{shiny.semantic} 0.5.0](https://cran.r-project.org/package=shiny.semantic): Semantic UI Support for Shiny - [diffify](https://diffify.com/R/shiny.semantic)
++ [{parsermd} 0.1.3](https://cran.r-project.org/package=parsermd): Formal Parser and Related Tools for R Markdown Documents - [diffify](https://diffify.com/R/parsermd)
++ [{withr} 3.0.0](https://cran.r-project.org/package=withr): Run Code 'With' Temporarily Modified Global State - [diffify](https://diffify.com/R/withr)
++ [{fabricatr} 1.0.2](https://cran.r-project.org/package=fabricatr): Imagine Your Data Before You Collect It - [diffify](https://diffify.com/R/fabricatr)
++ [{pkgload} 1.3.4](https://cran.r-project.org/package=pkgload): Simulate Package Installation and Attach - [diffify](https://diffify.com/R/pkgload)
++ [{optparse} 1.7.4](https://cran.r-project.org/package=optparse): Command Line Option Parser - [diffify](https://diffify.com/R/optparse)
++ [{ggquickeda} 0.3.1](https://cran.r-project.org/package=ggquickeda): Quickly Explore Your Data Using 'ggplot2' and 'table1' Summary Tables - [diffify](https://diffify.com/R/ggquickeda)
 
 
 ## Call for Participation
