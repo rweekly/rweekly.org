@@ -126,7 +126,7 @@ Outcome
 + [{pkgload} 1.3.4](https://cran.r-project.org/package=pkgload): Simulate Package Installation and Attach - [diffify](https://diffify.com/R/pkgload)
 + [{optparse} 1.7.4](https://cran.r-project.org/package=optparse): Command Line Option Parser - [diffify](https://diffify.com/R/optparse)
 + [{ggquickeda} 0.3.1](https://cran.r-project.org/package=ggquickeda): Quickly Explore Your Data Using 'ggplot2' and 'table1' Summary Tables - [diffify](https://diffify.com/R/ggquickeda)
-
++ [{precommit} 0.4.0](https://cran.r-project.org/package=precommit): Unit tests for your git commits - [diffify](https://diffify.com/R/precommit)
 
 ## Call for Participation
 
