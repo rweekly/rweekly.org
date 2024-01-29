@@ -24,9 +24,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [Quarto 1.4 has been released](https://posit.co/blog/quarto-1-4-release/)
 
+![Screenshot 2024-01-29 at 22 29 04](https://github.com/rweekly/rweekly.org/assets/53487593/583fcf88-19d7-4eef-af8e-1bed987b6509)
+
 + [Extract raster values to points with bilinear interpolation](https://modtools.wordpress.com/2024/01/26/extract-raster-values-to-points-with-bilinear-interpolation/)
 
 + [Actual pixel sizes of unprojected raster maps](https://modtools.wordpress.com/2024/01/23/actual-pixel-sizes-of-unprojected-raster-maps/)
+
+![Screenshot 2024-01-29 at 22 29 50](https://github.com/rweekly/rweekly.org/assets/53487593/1b90a997-e431-4fc0-a2b7-3aeb4f2b7517)
 
 + [Fairness and discrimination, PhD Course, #4 Wasserstein Distances and Optimal Transport](https://freakonometrics.hypotheses.org/69903)
 
@@ -46,14 +50,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [The source of the cake dataset](https://sumsar.net/blog/source-of-the-cake-dataset/)
 
+![Screenshot 2024-01-29 at 22 30 43](https://github.com/rweekly/rweekly.org/assets/53487593/80c09806-2cc2-4202-bf53-c7426656b6b1)
+
 
 ### R in Organizations
 
 - [rOpenSci News Digest, January 2024](https://ropensci.org/blog/2024/01/25/news-january-2024/)
 
 - [Events at Jumping Rivers 2024](https://www.jumpingrivers.com/blog/events-at-jr-2024/)
-
-+ [2024 RUGS Program Progress: Reviewing Grants and Empowering R Communities](https://www.r-consortium.org/blog/2024/01/24/2024-rugs-program-progress-reviewing-grants-and-empowering-r-communities)
 
 
 ### Resources
@@ -184,6 +188,8 @@ Monte Carlo Studies - [diffify](https://diffify.com/R/kyotil)
 
 - [How to make a multi-group dotplot for single-cell RNAseq data](https://divingintogeneticsandgenomics.com/post/how-to-make-a-multi-group-dotplot-for-single-cell-rnaseq-data/)
 
+![Screenshot 2024-01-29 at 22 34 09](https://github.com/rweekly/rweekly.org/assets/53487593/5df1420f-d842-450c-bf11-8284b9d764ef)
+
 - [An interactive mini course helping R developers be So. Much. More. efficient at data analysis](https://www.productive-r-workflow.com)
 
 - [ISLR tidymodels labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/)
@@ -200,6 +206,12 @@ Monte Carlo Studies - [diffify](https://diffify.com/R/kyotil)
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
+### Grants
+
++ [2024 RUGS Program Progress: Reviewing Grants and Empowering R Communities](https://www.r-consortium.org/blog/2024/01/24/2024-rugs-program-progress-reviewing-grants-and-empowering-r-communities)
+
+![Screenshot 2024-01-29 at 22 32 54](https://github.com/rweekly/rweekly.org/assets/53487593/f0e07d81-93f3-4654-bd0e-d8e9c4ee486c)
 
 
 ### Upcoming Events in 3 Months
