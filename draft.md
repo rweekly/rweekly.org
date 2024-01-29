@@ -42,30 +42,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [RProtoBuf 0.4.22 on CRAN: Updated Windows Support!](http://dirk.eddelbuettel.com/blog/2024/01/21#rprotobuf_0.4.22)
 
-### R in the Real World
-
-
-
-# darft
-
-
-+ [WhatsR – An R-Package for processing exported WhatsApp Chat Logs](https://r-posts.com/whatsr-package/)
-+ [Creating R packages for data analysis and reproducible research workshop](https://r-posts.com/creating-r-packages-for-data-analysis-and-reproducible-research-workshop/)
-+ [Load different R package versions at once with git worktree](https://masalmon.eu/2024/01/23/git-worktree/)
-+ [Reading notes on Pro Git by Scott Chacon](https://masalmon.eu/2024/01/19/pro-git-scott-chacon-reading-notes/)
 + [bigrquery 1.5.0](https://www.tidyverse.org/blog/2024/01/bigrquery-1-5-0/)
-+ [mirai Parallel Clusters](https://shikokuchuo.net/posts/21-mirai-parallel-clusters)
+
 + [The source of the cake dataset](https://sumsar.net/blog/source-of-the-cake-dataset/)
-+ [How to Extract Month from Date in R (With Examples)](https://www.spsanderson.com/steveondata/posts/2024-01-29/index.html)
-+ [Unveiling the Earliest Date: A Journey Through R](https://www.spsanderson.com/steveondata/posts/2024-01-26/index.html)
-+ [Mastering Date Calculations in R: A Guide to Calculating Months with Base R and lubridate](https://www.spsanderson.com/steveondata/posts/2024-01-25/index.html)
-+ [Mastering Date Calculations in R: A Guide to Calculating Months with Base R and lubridate](https://www.spsanderson.com/steveondata/posts/2024-01-24/index.html)
-+ [Exploring Data Lengths with R’s lengths() Function](https://www.spsanderson.com/steveondata/posts/2024-01-23/index.html)
-+ [Demystifying bootstrap_stat_plot(): Your Ticket to Insightful Data Exploration](https://www.spsanderson.com/steveondata/posts/2024-01-22/index.html)
-+ [The new function on the block with tidyAML extract_regression_residuals()](https://www.spsanderson.com/steveondata/posts/2024-01-19/index.html)
-+ [3MW (Inserting JavaScript into {reactable})](https://3mw.albert-rapp.de/p/add-js-to-quarto-dashboard)
-+ [Notes from live code review of {soils}](https://jadeyryan.com/blog/2024-01-22_package-review/index.html)
-+ [Base Python Rgonomic Patterns](https://emilyriederer.com/post/py-rgo-base/)
+
 
 ### R in Organizations
 
@@ -74,9 +54,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 - [Events at Jumping Rivers 2024](https://www.jumpingrivers.com/blog/events-at-jr-2024/)
 
 + [2024 RUGS Program Progress: Reviewing Grants and Empowering R Communities](https://www.r-consortium.org/blog/2024/01/24/2024-rugs-program-progress-reviewing-grants-and-empowering-r-communities)
-
-### R in Academia
-
 
 
 ### Resources
@@ -175,22 +152,17 @@ Monte Carlo Studies - [diffify](https://diffify.com/R/kyotil)
 
 + [{oaii} 0.4.0](https://cran.r-project.org/package=oaii): 'OpenAI' API R Interface - [diffify](https://diffify.com/R/oaii)
 
++ [Unveiling the Earliest Date: A Journey Through R](https://www.spsanderson.com/steveondata/posts/2024-01-26/index.html)
+
++ [Mastering Date Calculations in R: A Guide to Calculating Months with Base R and lubridate](https://www.spsanderson.com/steveondata/posts/2024-01-25/index.html)
+
++ [Exploring Data Lengths with R’s lengths() Function](https://www.spsanderson.com/steveondata/posts/2024-01-23/index.html)
+
++ [Demystifying bootstrap_stat_plot(): Your Ticket to Insightful Data Exploration](https://www.spsanderson.com/steveondata/posts/2024-01-22/index.html)
 
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
 
 
 ### Tutorials
@@ -206,6 +178,13 @@ Monte Carlo Studies - [diffify](https://diffify.com/R/kyotil)
 - [An interactive mini course helping R developers be So. Much. More. efficient at data analysis](https://www.productive-r-workflow.com)
 
 - [ISLR tidymodels labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/)
+
++ [WhatsR – An R-Package for processing exported WhatsApp Chat Logs](https://r-posts.com/whatsr-package/)
+
++ [mirai Parallel Clusters](https://shikokuchuo.net/posts/21-mirai-parallel-clusters)
+
++ [How to Extract Month from Date in R (With Examples)](https://www.spsanderson.com/steveondata/posts/2024-01-29/index.html)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -225,15 +204,6 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
-
-### Jobs
-
-<i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ### rtistry
 
