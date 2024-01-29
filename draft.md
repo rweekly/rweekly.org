@@ -14,7 +14,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
+- [Notes from live code review of {soils}](https://jadeyryan.com/blog/2024-01-22_package-review/index.html)
 
+- [Load different R package versions at once with git worktree](https://masalmon.eu/2024/01/23/git-worktree/)
 
 ### Insights
 
@@ -40,6 +42,38 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
++ [{rusquant} 1.0.5](https://cran.r-project.org/package=rusquant): Quantitative Trading Framework
+
++ [{PxWebApiData} 0.9.0](https://cran.r-project.org/package=PxWebApiData): PX-Web Data by API
+
++ [{AnalysisLin} 0.1.0](https://cran.r-project.org/package=AnalysisLin): Exploratory Data Analysis
+
++ [{lightparser} 0.1.0](https://cran.r-project.org/package=lightparser): From 'Rmarkdown' and 'Quarto' Files to Tibble and Back
+
++ [{texPreview} 2.1.0](https://cran.r-project.org/package=texPreview): Compile and Preview Snippets of 'LaTeX'
+
++ [{labelr} 0.1.2](https://cran.r-project.org/package=labelr): Label Data Frames, Variables, and Values
+
++ [{distops} 0.1.0](https://cran.r-project.org/package=distops): Usual Operations for Distance Matrices in R
+
++ [{AutoPlots} 1.0.0](https://cran.r-project.org/package=AutoPlots): Creating Echarts Visualizations as Easy as Possible
+
++ [{cliot} 0.1.0](https://cran.r-project.org/package=cliot): Clinical Indices and Outcomes Tools
+
++ [{tinytable} 0.0.2](https://cran.r-project.org/package=tinytable): Simple and Configurable Tables in 'HTML', 'LaTeX', 'Markdown',
+'Word', and 'PNG' Formats
+
++ [{retel} 0.1.0](https://cran.r-project.org/package=retel): Regularized Exponentially Tilted Empirical Likelihood
+
++ [{arcpy} 0.4-0](https://cran.r-project.org/package=arcpy): Interface to 'ArcGIS' 'Python' Modules
+
++ [{sqlhelper} 0.2.1](https://cran.r-project.org/package=sqlhelper): Easier 'SQL' Integration
+
++ [{TDApplied} 3.0.2](https://cran.r-project.org/package=TDApplied): Machine Learning and Inference for Topological Data Analysis
+
++ [{evprof} 1.0.0](https://cran.r-project.org/package=evprof): Electric Vehicle Charging Sessions Profiling and Modelling
+
++ [{openscoring} 1.0.1](https://cran.r-project.org/package=openscoring): 'Open Scoring' API Client
 
 **CRAN**
 
