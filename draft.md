@@ -20,6 +20,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [R forward Website Relaunch](https://forwards.github.io/blog/2024/website-relaunch/index.html)
+
+- [Quarto 1.4 has been released](https://posit.co/blog/quarto-1-4-release/)
 
 
 ### R in the Real World
@@ -28,7 +31,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
-
+- [rOpenSci News Digest, January 2024](https://ropensci.org/blog/2024/01/25/news-january-2024/)
 
 ### R in Academia
 
@@ -36,7 +39,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
+- [undergrad PsyTeachR data skills book for beginners in #rstats](https://psyteachr.github.io/data-skills-v2/index.html)
 
 ### New Packages
 
@@ -74,17 +77,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{evprof} 1.0.0](https://cran.r-project.org/package=evprof): Electric Vehicle Charging Sessions Profiling and Modelling
 
 + [{openscoring} 1.0.1](https://cran.r-project.org/package=openscoring): 'Open Scoring' API Client
-
-**CRAN**
-
-
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
 
 
 ### Updated Packages
@@ -161,7 +153,17 @@ Monte Carlo Studies - [diffify](https://diffify.com/R/kyotil)
 
 ### Tutorials
 
+- [3MW (Inserting JavaScript into {reactable})](https://3mw.albert-rapp.de/p/add-js-to-quarto-dashboard)
 
+- [Load different R package versions at once with git worktree](https://masalmon.eu/2024/01/23/git-worktree)
+
+- [Notes from live code review of {soils}](https://jadeyryan.com/blog/2024-01-22_package-review/index.html)
+
+- [How to make a multi-group dotplot for single-cell RNAseq data](https://divingintogeneticsandgenomics.com/post/how-to-make-a-multi-group-dotplot-for-single-cell-rnaseq-data/)
+
+- [An interactive mini course helping R developers be So. Much. More. efficient at data analysis](https://www.productive-r-workflow.com)
+
+- [ISLR tidymodels labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
