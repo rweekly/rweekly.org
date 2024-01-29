@@ -164,6 +164,15 @@ Monte Carlo Studies - [diffify](https://diffify.com/R/kyotil)
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [2024-01-17 (Meeting #136) R Stats Bootcamp Session 1 (Ed)](https://www.youtube.com/watch?v=CaktME4w32I)
+
++ [2024-01-24 (Meeting #137) R Stats Bootcamp Session 2 (Ed)](https://www.youtube.com/watch?v=6SpFONtDhyE)
+
++ [Familiarization with R: Using R as a calculator](https://www.youtube.com/watch?v=auXiL2eJELY)
+
++ [https://www.youtube.com/watch?v=MKjz_xkMgxY](https://www.youtube.com/watch?v=MKjz_xkMgxY)
+
++ [https://www.youtube.com/watch?v=cK7U10omEJo](https://www.youtube.com/watch?v=cK7U10omEJo)
 
 ### Tutorials
 
@@ -207,5 +216,10 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Population density of Japan revisited. I did something like this before but made a few changes here. <a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/jSGCsKR5C9">pic.twitter.com/jSGCsKR5C9</a></p>&mdash; tterence on bsky (@researchremora) <a href="https://twitter.com/researchremora/status/1749073204142899398?ref_src=twsrc%5Etfw">January 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rivers and lakes of the Iberian Peninsula.<a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/0Qu4Y0NeTw">pic.twitter.com/0Qu4Y0NeTw</a></p>&mdash; tterence on bsky (@researchremora) <a href="https://twitter.com/researchremora/status/1751446509508337845?ref_src=twsrc%5Etfw">January 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of my favorite <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> interactive mapping tricks: using the `|` operator in mapview to create a swipe map.<br><br>Here - showing the results of the `erase_water()` function in the Seattle area! <a href="https://t.co/sBf0ktZEx4">pic.twitter.com/sBf0ktZEx4</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1750568489021247542?ref_src=twsrc%5Etfw">January 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
