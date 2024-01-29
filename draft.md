@@ -24,14 +24,56 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [Quarto 1.4 has been released](https://posit.co/blog/quarto-1-4-release/)
 
++ [Extract raster values to points with bilinear interpolation](https://modtools.wordpress.com/2024/01/26/extract-raster-values-to-points-with-bilinear-interpolation/)
+
++ [Actual pixel sizes of unprojected raster maps](https://modtools.wordpress.com/2024/01/23/actual-pixel-sizes-of-unprojected-raster-maps/)
+
++ [Fairness and discrimination, PhD Course, #4 Wasserstein Distances and Optimal Transport](https://freakonometrics.hypotheses.org/69903)
+
++ [Remove Specific Row in R: How to & Examples with dplyr](https://www.marsja.se/remove-specific-row-in-r-how-to-examples-with-dplyr/)
+
++ [qlcal 0.0.10 on CRAN: Calendar Updates](http://dirk.eddelbuettel.com/blog/2024/01/24#qlcal-r_0.0.10)
+
++ [RApiDatetime 0.0.9 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2024/01/24#rapidatetime_0.0.9)
+
++ [RcppAnnoy 0.0.22 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2024/01/23#rcppannoy_0.0.22)
+
++ [x13binary 1.1.60 on CRAN: Upstream Update, Updated Build](http://dirk.eddelbuettel.com/blog/2024/01/22#x13binary_1.1.60)
+
++ [RProtoBuf 0.4.22 on CRAN: Updated Windows Support!](http://dirk.eddelbuettel.com/blog/2024/01/21#rprotobuf_0.4.22)
 
 ### R in the Real World
 
 
 
+# darft
+
+
++ [WhatsR – An R-Package for processing exported WhatsApp Chat Logs](https://r-posts.com/whatsr-package/)
++ [Creating R packages for data analysis and reproducible research workshop](https://r-posts.com/creating-r-packages-for-data-analysis-and-reproducible-research-workshop/)
++ [Load different R package versions at once with git worktree](https://masalmon.eu/2024/01/23/git-worktree/)
++ [Reading notes on Pro Git by Scott Chacon](https://masalmon.eu/2024/01/19/pro-git-scott-chacon-reading-notes/)
++ [bigrquery 1.5.0](https://www.tidyverse.org/blog/2024/01/bigrquery-1-5-0/)
++ [mirai Parallel Clusters](https://shikokuchuo.net/posts/21-mirai-parallel-clusters)
++ [The source of the cake dataset](https://sumsar.net/blog/source-of-the-cake-dataset/)
++ [How to Extract Month from Date in R (With Examples)](https://www.spsanderson.com/steveondata/posts/2024-01-29/index.html)
++ [Unveiling the Earliest Date: A Journey Through R](https://www.spsanderson.com/steveondata/posts/2024-01-26/index.html)
++ [Mastering Date Calculations in R: A Guide to Calculating Months with Base R and lubridate](https://www.spsanderson.com/steveondata/posts/2024-01-25/index.html)
++ [Mastering Date Calculations in R: A Guide to Calculating Months with Base R and lubridate](https://www.spsanderson.com/steveondata/posts/2024-01-24/index.html)
++ [Exploring Data Lengths with R’s lengths() Function](https://www.spsanderson.com/steveondata/posts/2024-01-23/index.html)
++ [Demystifying bootstrap_stat_plot(): Your Ticket to Insightful Data Exploration](https://www.spsanderson.com/steveondata/posts/2024-01-22/index.html)
++ [The new function on the block with tidyAML extract_regression_residuals()](https://www.spsanderson.com/steveondata/posts/2024-01-19/index.html)
++ [3MW (Inserting JavaScript into {reactable})](https://3mw.albert-rapp.de/p/add-js-to-quarto-dashboard)
++ [Notes from live code review of {soils}](https://jadeyryan.com/blog/2024-01-22_package-review/index.html)
++ [Base Python Rgonomic Patterns](https://emilyriederer.com/post/py-rgo-base/)
+
 ### R in Organizations
 
 - [rOpenSci News Digest, January 2024](https://ropensci.org/blog/2024/01/25/news-january-2024/)
+
+- [Events at Jumping Rivers 2024](https://www.jumpingrivers.com/blog/events-at-jr-2024/)
+
++ [2024 RUGS Program Progress: Reviewing Grants and Empowering R Communities](https://www.r-consortium.org/blog/2024/01/24/2024-rugs-program-progress-reviewing-grants-and-empowering-r-communities)
 
 ### R in Academia
 
