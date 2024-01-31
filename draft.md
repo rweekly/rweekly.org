@@ -18,8 +18,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [Piping with {data.table}](https://rdatatable-community.github.io/The-Raft/posts/2024-01-28-piping_data_tables-elio_campitelli/) by Elio Campitelli
-
 
 ### R in the Real World
 
@@ -79,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Piping with {data.table}](https://rdatatable-community.github.io/The-Raft/posts/2024-01-28-piping_data_tables-elio_campitelli/) by Elio Campitelli
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
