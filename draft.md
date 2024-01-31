@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Piping with {data.table}](https://rdatatable-community.github.io/The-Raft/posts/2024-01-28-piping_data_tables-elio_campitelli/) by Elio Campitelli
 
 
 ### R in the Real World
@@ -55,6 +56,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [New release and governance documents for {data.table}](https://rdatatable-community.github.io/The-Raft/posts/2024-01-30-new_governance_new_release-toby_hocking/)
+
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 ### Videos and Podcasts
@@ -89,7 +92,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-
++ [Feb 8th: "High-productivity data frame operations with data.table" by Jan Gorecki at SevillaR](https://www.meetup.com/sevilla-r-users/events/298628185/)  ([online registration](https://bit.ly/SevillaR_data-table))
+  
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
@@ -97,6 +101,8 @@ Events in 3 Months:
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 ### Grants & Funding
+
++ [Apply for the {data.table} ambassador trael grant](https://rdatatable-community.github.io/The-Raft/posts/2023-11-01-travel_grant_announcement-community_team/)
 
 
 ### Datasets
