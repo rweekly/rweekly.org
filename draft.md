@@ -43,7 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+[{secretbase} 0.2.0](https://cran.r-project.org/package=secretbase): Cryptographic Hash and Extendable-Output Functions
 
 **Bioconductor**
 
