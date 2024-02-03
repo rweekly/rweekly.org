@@ -18,7 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Reproducible data science with Nix, part 9 -- rix is looking for testers!](https://www.brodrigues.co/blog/2024-02-02-nix_for_r_part_9/)
 - [Things that can go wrong when using renv](https://epiverse-trace.github.io/posts/renv-complications/)
+
 
 ### R in the Real World
 
