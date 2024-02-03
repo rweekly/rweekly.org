@@ -5,7 +5,6 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
@@ -20,23 +19,23 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [Reproducible data science with Nix, part 9 -- rix is looking for testers!](https://www.brodrigues.co/blog/2024-02-02-nix_for_r_part_9/)
 - [Things that can go wrong when using renv](https://epiverse-trace.github.io/posts/renv-complications/)
-
++ [2024 RUGS Program Progress: Reviewing Grants and Empowering R Communities](https://www.r-consortium.org/blog/2024/01/24/2024-rugs-program-progress-reviewing-grants-and-empowering-r-communities)
++ [The source of the cake dataset](https://sumsar.net/blog/source-of-the-cake-dataset/)
++ [Teaching you - teaching me](https://drmowinckels.io/blog/2024/teaching-unlocks/)
++ [rOpenSci News Digest, January 2024](https://ropensci.org/blog/2024/01/25/news-january-2024/)
 
 ### R in the Real World
 
-
++ [R for the Real World: Counting those Business Days like a Pro!](https://www.spsanderson.com/steveondata/posts/2024-02-01/index.html)
++ [WhatsR – An R-Package for processing exported WhatsApp Chat Logs](https://r-posts.com/whatsr-package/)
 
 ### R in Organizations
-
-
-
-### R in Academia
-
-
++ [Webinar for R and Databases!  How Oracle Machine Learning for R Helps with ML and Massive Datasets](https://www.r-consortium.org/blog/2024/01/30/webinar-for-r-and-databases-how-oracle-machine-learning-for-r-helps-with-ml-and-massive-datasets)
++ [Natalia Andriychuk on RUGs, Pfizer R Center of Excellence, and Open Source Projects: Fostering R Communities Inside and Out](https://www.r-consortium.org/blog/2024/02/02/natalia-andriychuk-on-rugs-pfizer-r-center-of-excellence-and-open-source-projects-fostering-r-communities-inside-and-out)
 
 ### Resources
 
-
++ [How to create some of the exotic types? - StackOverFlow](https://stackoverflow.com/questions/59600201/how-to-create-some-of-the-exotic-types)
 
 ### New Packages
 
@@ -69,9 +68,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [How to Create Maps With Patterns in ggplot2 | A Step-By-Step Tutorial](https://youtu.be/cK7U10omEJo)
 
 
-### Gist & Cookbook
-
-
 
 ### Shiny Apps
 
@@ -86,8 +82,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Combining maps and patterns with {ggplot2}](https://albert-rapp.de/posts/ggplot2-tips/25_maps_patterns/25_maps_patterns)
 + [Interactive filters in tables with reactable](https://albert-rapp.de/posts/18_connecting_reactable_ojs/18_connecting_reactable_ojs)
 + [6 Common ggplot2 Mistakes](https://albert-rapp.de/posts/ggplot2-tips/21_common_ggplot_mistakes/21_common_ggplot_mistakes)
-+ [Piping with {data.table}](https://rdatatable-community.github.io/The-Raft/posts/2024-01-28-piping_data_tables-elio_campitelli/) by Elio Campitelli
-
++ [Piping with {data.table}](https://rdatatable-community.github.io/The-Raft/posts/2024-01-28-piping_data_tables-elio_campitelli/)
++ [Parquet vs the RDS Format](https://www.jumpingrivers.com/blog/arrow-rds-parquet-comparison/)
++ [Remove Specific Row in R: How to & Examples with dplyr](https://www.marsja.se/remove-specific-row-in-r-how-to-examples-with-dplyr/)
++ [Playing with webr](https://r.iresmi.net/posts/2024/webr/index.html)
++ [Extract raster values to points with bilinear interpolation](https://modtools.wordpress.com/2024/01/26/extract-raster-values-to-points-with-bilinear-interpolation/)
++ [Binary logistic regression in R](https://statsandr.com/blog/binary-logistic-regression-in-r/)
++ [Time Flies? Time Travels! Adding Days to Dates in R (Like a Pro)](https://www.spsanderson.com/steveondata/posts/2024-01-31/index.html)
++ [You tidyr::complete() me](https://luisdva.github.io/rstats/complete/)
++ [Combining multiple species distributions on one map with hexagons and points](https://labs.ala.org.au/posts/2024-01-25_hex_point_maps/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -106,13 +109,20 @@ Join an online Office Hour at the time that suits you to:
 
 Events in 3 Months:
 
-+ [Feb 8th: "High-productivity data frame operations with data.table" by Jan Gorecki at SevillaR](https://www.meetup.com/sevilla-r-users/events/298628185/)  ([online registration](https://bit.ly/SevillaR_data-table))
++ [February 8th, 2024: "High-productivity data frame operations with data.table" by Jan Gorecki at SevillaR](https://www.meetup.com/sevilla-r-users/events/298628185/)  ([online registration](https://bit.ly/SevillaR_data-table))
   
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+
++ [Events at Jumping Rivers 2024](https://www.jumpingrivers.com/blog/events-at-jr-2024/)
+
++ [(February 13th, 2024) Training Ground Guru: R Masterclass with Harsh Krishna](https://trainingground.guru/articles/new-course-r-masterclass)
+
++ [(February 21, 2024) Forecasting with Generalised Additive Models (GAMs) in R](https://cardiff.zoom.us/meeting/register/tZEqduGsqjwqGNWoG7FSA6U51ohnswp74Ww-#/registration)
+
 
 ### Grants & Funding
 
@@ -128,5 +138,14 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mount Fuji.<a href="https://twitter.com/hashtag/rayshader?src=hash&amp;ref_src=twsrc%5Etfw">#rayshader</a> <a href="https://twitter.com/hashtag/plotter?src=hash&amp;ref_src=twsrc%5Etfw">#plotter</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/Mg49pKUtY1">pic.twitter.com/Mg49pKUtY1</a></p>&mdash; tterence on bsky (@researchremora) <a href="https://twitter.com/researchremora/status/1750142344509178191?ref_src=twsrc%5Etfw">January 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Inspired and made possible by <a href="https://twitter.com/nrennie35?ref_src=twsrc%5Etfw">@nrennie35</a>, here&#39;s a typewriter elevation map of Japan. The characters to indicate increasing elevation are: 地, 低, 中, 高, and 峰.<a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> adventures, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> tale <a href="https://t.co/fHFw1H8g2z">pic.twitter.com/fHFw1H8g2z</a></p>&mdash; tterence on bsky (@researchremora) <a href="https://twitter.com/researchremora/status/1750912220903493814?ref_src=twsrc%5Etfw">January 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of my favorite <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> interactive mapping tricks: using the `|` operator in mapview to create a swipe map.<br><br>Here - showing the results of the `erase_water()` function in the Seattle area! <a href="https://t.co/sBf0ktZEx4">pic.twitter.com/sBf0ktZEx4</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1750568489021247542?ref_src=twsrc%5Etfw">January 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Restructuring your longitudinal data from long to wide OR wide to long format is a fairly painless process in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>, especially when you consistently name your variables using controlled vocabulary. 🌟<br>Full script here: <a href="https://t.co/aQBGKBmzI7">https://t.co/aQBGKBmzI7</a> <a href="https://t.co/IzU202FL7M">pic.twitter.com/IzU202FL7M</a></p>&mdash; Crystal Lewis (@Cghlewis) <a href="https://twitter.com/Cghlewis/status/1752882132513329183?ref_src=twsrc%5Etfw">February 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Say want you want about the <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a>, nothing beats its expressiveness! <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://t.co/nUA8fUV6wj">pic.twitter.com/nUA8fUV6wj</a></p>&mdash; Bruno Rodrigues (@brodriguesco@fosstodon.org) (@brodriguesco) <a href="https://twitter.com/brodriguesco/status/1752705721786089646?ref_src=twsrc%5Etfw">January 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
