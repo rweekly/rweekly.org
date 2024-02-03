@@ -62,6 +62,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
++ [How to Avoid These Common Mistakes with {ggplot2} |  A Step-by-Step Tutorial](https://youtu.be/AIwX-vWB6B4)
++ [How to Use Dropdown Menus in Tables With R | Step-By-Step Tutorial](https://youtu.be/mrGKySJ-cJc)
++ [How to Create Maps With Patterns in ggplot2 | A Step-By-Step Tutorial](https://youtu.be/cK7U10omEJo)
 
 
 ### Gist & Cookbook
@@ -78,7 +81,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Combining maps and patterns with {ggplot2}](https://albert-rapp.de/posts/ggplot2-tips/25_maps_patterns/25_maps_patterns)
++ [Interactive filters in tables with reactable](https://albert-rapp.de/posts/18_connecting_reactable_ojs/18_connecting_reactable_ojs)
++ [6 Common ggplot2 Mistakes](https://albert-rapp.de/posts/ggplot2-tips/21_common_ggplot_mistakes/21_common_ggplot_mistakes)
 + [Piping with {data.table}](https://rdatatable-community.github.io/The-Raft/posts/2024-01-28-piping_data_tables-elio_campitelli/) by Elio Campitelli
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
