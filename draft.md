@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Things that can go wrong when using renv](https://epiverse-trace.github.io/posts/renv-complications/)
 
 ### R in the Real World
 
