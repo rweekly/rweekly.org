@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Please Shut Up! Verbosity Control in Packages](https://ropensci.org/blog/2024/02/06/verbosity-control-packages/)
 
 ### R in the Real World
 
