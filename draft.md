@@ -60,7 +60,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
++ [How to publish Quarto projects using GitHub Pages and GitHub Actions](https://youtu.be/arzBRW5XIkg)
 
 ### Gist & Cookbook
 
