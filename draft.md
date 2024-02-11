@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2023-W00
+title: R Weekly 2024-W07
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -8,9 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
-
+This week’s release was curated by [Jon Calder](https://joncalder.co.za/), with help from the R Weekly team members and contributors.
 
 ### Highlight
 
@@ -19,6 +17,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 + [Please Shut Up! Verbosity Control in Packages](https://ropensci.org/blog/2024/02/06/verbosity-control-packages/)
+
++ [Improving with R: Kylie Bemis Unveils Enhanced Signal Processing with Matter 2.4 Upgrade](https://www.r-consortium.org/blog/2024/02/07/improving-with-r-kylie-bemis-unveils-enhanced-signal-processing-with-matter-2-4-upgrade)
+
++ [How Rstudio hidden objects made me think I'm an impostor](https://r-critique.com/rstudio_hidden_objects)
 
 ### R in the Real World
 
@@ -34,7 +36,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [Big Book of R at 400 (New milestone!)](https://oscarbaruffa.com/bbor_400/)
 
 ### New Packages
 
@@ -43,7 +45,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{dlookr} 0.6.3](https://cran.r-project.org/package=dlookr): Tools for Data Diagnosis, Exploration, Transformation
 
++ [{zoomerjoin} 0.1.4](https://cran.r-project.org/package=zoomerjoin): Superlatively Fast Fuzzy Joins
+
++ [{censored} 0.3.0](https://cran.r-project.org/package=censored): 'parsnip' Engines for Survival Models
+
++ [{One4All} 0.3](https://cran.r-project.org/package=One4All): Validate, Share, and Download Data
 
 **Bioconductor**
 
@@ -57,10 +65,21 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{ggDoE} 0.8](https://cran.r-project.org/package=ggDoE): Modern Graphs for Design of Experiments with 'ggplot2' - [diffify](https://diffify.com/R/ggDoE)
+
++ [{rnaturalearthdata} 1.0.0](https://cran.r-project.org/package=rnaturalearthdata): World Vector Map Data from Natural Earth Used in 'rnaturalearth' - [diffify](https://diffify.com/R/rnaturalearthdata)
+
++ [{box} 1.2.0](https://cran.r-project.org/package=box): Write Reusable, Composable and Modular R Code - [diffify](https://diffify.com/R/box)
+
++ [{ggthemes} 5.1.0](https://cran.r-project.org/package=ggthemes): Extra Themes, Scales and Geoms for 'ggplot2' - [diffify](https://diffify.com/R/ggthemes)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+ß
 + [How to publish Quarto projects using GitHub Pages and GitHub Actions](https://youtu.be/arzBRW5XIkg)
+
++ [20 minutes to Predict MLB HOF Pitchers - Class of 2024: TidyX Episode 172](https://www.youtube.com/watch?v=A1eYguSGjf4)
 
 ### Gist & Cookbook
 
@@ -68,7 +87,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [{fitODBODRshiny} 1.0.0](https://cran.r-project.org/package=fitODBODRshiny): 'Shiny' Application for R Package 'fitODBOD'
 
 ### R Internationally
 
@@ -76,7 +95,23 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Getting marine polygon maps in R](https://modtools.wordpress.com/2024/02/05/getting-marine-polygon-maps-in-r/)
 
++ [new programming with data.table](https://johnmackintosh.net/blog/2024-02-05-dt-programming/)
+
++ [more .I in data.table](https://johnmackintosh.net/blog/2024-02-03-more-dot-I/)
+
++ [Tweedie regression, or Poisson-Gamma regressions ?](https://freakonometrics.hypotheses.org/71275)
+
++ [Optimize your images with R and reSmush.it](https://dieghernan.github.io/202402_optimize-images-r/)
+
++ [Making Pretty PDFs with Typst (and Quarto)](https://nrennie.rbind.io/blog/making-pdf-with-quarto-typst-latex/)
+
++ [Unveiling Roman Amphitheaters with a ggplot2 violin plot](https://www.codingthepast.com/2024/02/09/ggplot2-violin-plot.html)
+
++ [Demystifying Dates: Finding the Day of the Week in R with lubridate](https://www.spsanderson.com/steveondata/posts/2024-02-09/index.html)
+
++ [3MW (Getting weather data via an API with R)](https://3mw.albert-rapp.de/p/weather-api)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -102,7 +137,11 @@ Events in 3 Months:
 
 + [(February 21, 2024) Forecasting with Generalised Additive Models (GAMs) in R](https://cardiff.zoom.us/meeting/register/tZEqduGsqjwqGNWoG7FSA6U51ohnswp74Ww-#/registration)
 
++ [(March 6, 2024) Master Tidy Finance & Access Financial Data with Expert Christoph Scheuch](https://www.r-consortium.org/announcement/2024/02/06/join-our-upcoming-webinar-master-tidy-finance-access-financial-data-with-expert-christoph-scheuch)
+
 ### Grants & Funding
+
++ [R Consortium Infrastructure Steering Committee (ISC) Grant Program Accepting Proposals starting March 1st!](https://www.r-consortium.org/blog/2024/02/08/r-consortium-infrastructure-steering-committee-isc-grant-program-accepting-proposals-starting-march-1st)
 
 
 ### Datasets
@@ -116,3 +155,7 @@ Events in 3 Months:
 
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> dplyr::if_else() FTW <a href="https://t.co/kzo4MBCgrW">pic.twitter.com/kzo4MBCgrW</a></p>&mdash; Antoine Fabri (@antoine_fabri) <a href="https://twitter.com/antoine_fabri/status/1756276438179746069?ref_src=twsrc%5Etfw">February 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When appending (stacking) datasets, variable names and types must be consistent across datasets. It&#39;s helpful to check these assumptions before appending your files. The <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> janitor::compared_df_cols() is great for this. <a href="https://t.co/3UgPf2Nz8j">pic.twitter.com/3UgPf2Nz8j</a></p>&mdash; Crystal Lewis (@Cghlewis) <a href="https://twitter.com/Cghlewis/status/1755601002810753207?ref_src=twsrc%5Etfw">February 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
