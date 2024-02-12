@@ -24,6 +24,7 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za/), wit
 
 ### R in the Real World
 
++ [Guess My Name with Decision Trees](https://mhoehle.github.io/blog/2024/02/12/decisiontree.html)
 
 
 ### R in Organizations
