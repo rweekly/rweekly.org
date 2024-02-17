@@ -57,6 +57,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
++ [ggmagnify 0.4.0](https://github.com/hughjonesd/ggmagnify): now with rounded corners and filled projection lines
 
 ### Videos and Podcasts
 
