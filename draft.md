@@ -26,6 +26,8 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 ### R in the Real World
 
++ [My Year of Riding Danishly](https://www.gregdubrow.io/posts/my-year-of-riding-danishly/)
+
 + [Guess My Name with Decision Trees](https://mhoehle.github.io/blog/2024/02/12/decisiontree.html)
 
 + [Understanding Methane Emissions Through Heatmap and Comparison of Many Models](https://datageeek.com/2024/02/14/understanding-methane-emissions-with-a-heatmap-and-modeling-with-multiple-models/)
@@ -36,13 +38,11 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [Ann Arbor R User Group: Harnessing the Power of R and GitHub](https://www.r-consortium.org/blog/2024/02/13/ann-arbor-r-user-group-harnessing-the-power-of-r-and-github)
 
-+ [Improving with R: Kylie Bemis Unveils Enhanced Signal Processing with Matter 2.4 Upgrade](https://www.r-consortium.org/blog/2024/02/07/improving-with-r-kylie-bemis-unveils-enhanced-signal-processing-with-matter-2-4-upgrade)
-
 + [Introducing rOpenSci Champions - Cohort 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/)
 
 ### R in Academia
 
-
++ [The Meta-Uncertainty Framework](https://github.com/marvinschmitt/MetaUncertaintyPaper)
 
 ### Resources
 
@@ -69,15 +69,15 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 **GitHub or Bitbucket**
 
-
++ [{quartificate} 0.0.0.9000](https://docs.ropensci.org/quartificate/): Transform Google Docs into Quarto books.
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{ggmagnify} 0.4.0](https://github.com/hughjonesd/ggmagnify): now with rounded corners and filled projection lines
++ [{ggmagnify} 0.4.0](https://github.com/hughjonesd/ggmagnify): Create a Magnified Inset of Part of a "Ggplot" Object
 
-+ [{RcppArmadillo} 0.12.8.0.0](http://dirk.eddelbuettel.com/blog/2024/02/08#rcpparmadillo_0.12.8.0.0)
++ [{RcppArmadillo} 0.12.8.0.0](http://dirk.eddelbuettel.com/blog/2024/02/08#rcpparmadillo_0.12.8.0.0): 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra Library - [diffify](https://diffify.com/R/RcppArmadillo)
 
 + [{survivoR} 2.3.1](https://cran.r-project.org/package=survivoR): Data from all Seasons of Survivor (US) TV Series in Tidy Format - [diffify](https://diffify.com/R/survivoR)
 
@@ -95,22 +95,21 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
 
++ [RStudio setup, projects, and shortcuts](https://www.youtube.com/watch?v=_nAfJ-5nkcU)
 
 ### Gist & Cookbook
 
-
++ [Deploying a Shiny App on Hugging Face Spaces with Docker](https://github.com/RamiKrispin/shiny-express-poc)
 
 ### Shiny Apps
 
-
-
-### R Internationally
-
-
++ [Building better models with reactive application](https://cabuelow.github.io/personal-website/posts/2024-02-10-apps-explore-models/)
 
 ### Tutorials
 
 + [3MW (API Calls With OAuth2.0 Authentication)](https://3mw.albert-rapp.de/p/api-oauth)
+
++ [How to run R in Visual Studio Code](https://www.infoworld.com/article/3625488/how-to-run-r-in-visual-studio-code.html)
 
 + [Introduction to Clinical Tables with the {gt} Package](https://appsilon.com/clinical-tables-with-the-gt-package/)
 
@@ -118,15 +117,11 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [Discrimination by proxy (a real case study)](https://freakonometrics.hypotheses.org/71511)
 
-+ [Tweedie regression, or Poisson-Gamma regressions?](https://freakonometrics.hypotheses.org/71275)
-
 + [(Un)expected results with R: the all() function](https://r-critique.com/unexpected_results_all_function)
 
 + [Using CC unicode symbols in ggplot2](https://dwayzer.netlify.app/posts/2021-11-22-using-cc-unicode-symbols-in-ggplot2)
 
 + [Zodiac Charts](https://dwayzer.netlify.app/posts/2024-02-10-drawing-a-zodiac-chart)
-
-+ [Unveiling Roman Amphitheaters with a ggplot2 violin plot](https://www.codingthepast.com/2024/02/09/ggplot2-violin-plot.html)
 
 + [Level Up Your Data Wrangling: Adding Index Columns in R like a Pro!](https://www.spsanderson.com/steveondata/posts/2024-02-16/index.html)
 
@@ -144,10 +139,19 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [(February 20, 2024) Unraveling the term “Validation”: Join the Discussion at the R Validation Hub Community Meeting](https://www.r-consortium.org/blog/2024/02/12/unraveling-the-term-validation-join-the-discussion-at-the-r-validation-hub-community-meeting-on-february-20-2024)
+
++ [(February 21, 2024) Forecasting with Generalised Additive Models (GAMs) in R](https://cardiff.zoom.us/meeting/register/tZEqduGsqjwqGNWoG7FSA6U51ohnswp74Ww-#/registration)
+
++ [(March 4, 2024) Dataviz lunch: Replicating Du Bois with R](https://www.meetup.com/rladies-cambridge/events/299051061/)
+
++ [(March 6, 2024) Master Tidy Finance & Access Financial Data with Expert Christoph Scheuch](https://www.r-consortium.org/announcement/2024/02/06/join-our-upcoming-webinar-master-tidy-finance-access-financial-data-with-expert-christoph-scheuch)
+
++ [(April 17-19, 2024) Get Ready for ShinyConf 2024: Explore Keynotes & Secure Your Spot](https://appsilon.com/shinyconf-2024-keynotes/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -157,20 +161,6 @@ Events in 3 Months:
 
 + [Events at Jumping Rivers 2024](https://www.jumpingrivers.com/blog/events-at-jr-2024/)
 
-+ [(February 20, 2024) Unraveling the term “Validation”: Join the Discussion at the R Validation Hub Community Meeting](https://www.r-consortium.org/blog/2024/02/12/unraveling-the-term-validation-join-the-discussion-at-the-r-validation-hub-community-meeting-on-february-20-2024)
-
-+ [(February 21, 2024) Forecasting with Generalised Additive Models (GAMs) in R](https://cardiff.zoom.us/meeting/register/tZEqduGsqjwqGNWoG7FSA6U51ohnswp74Ww-#/registration)
-
-+ [(March 6, 2024) Master Tidy Finance & Access Financial Data with Expert Christoph Scheuch](https://www.r-consortium.org/announcement/2024/02/06/join-our-upcoming-webinar-master-tidy-finance-access-financial-data-with-expert-christoph-scheuch)
-
-+ [(April 17-19, 2024) Get Ready for ShinyConf 2024: Explore Keynotes & Secure Your Spot](https://appsilon.com/shinyconf-2024-keynotes/)
-
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
@@ -179,5 +169,12 @@ Events in 3 Months:
 
 + [Du Bois Visualization Challenge](https://r.iresmi.net/posts/2024/dubois_02/index.html)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Spending on Valentine&#39;s day candy by age for this week&#39;s <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a> <br><br>Code: <a href="https://t.co/lTksquv6sY">https://t.co/lTksquv6sY</a><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/rNGCwMp0Uf">pic.twitter.com/rNGCwMp0Uf</a></p>&mdash; Georgios Karamanis (@geokaramanis) <a href="https://twitter.com/geokaramanis/status/1758434698378776721?ref_src=twsrc%5Etfw">February 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For 25% of surveyed men in the <a href="https://twitter.com/hashtag/UK?src=hash&amp;ref_src=twsrc%5Etfw">#UK</a>, the point of Valentine&#39;s Day is to &quot;get laid&quot; according to a survey from 2015.<br><br>More than the half of women responded &quot;show how much you care&quot;—22 percentage points more than men!<br><br>Happy <a href="https://twitter.com/hashtag/valentinesday?src=hash&amp;ref_src=twsrc%5Etfw">#valentinesday</a> ❤️<br><br>Made in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> with <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> 💙 <a href="https://t.co/5xJsfisT0j">pic.twitter.com/5xJsfisT0j</a></p>&mdash; Cédric Scherer (@CedScherer) <a href="https://twitter.com/CedScherer/status/1757853333715329064?ref_src=twsrc%5Etfw">February 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ### Quotes of the Week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Spending on Valentine&#39;s day candy by age for this week&#39;s <a href="https://twitter.com/hashtag/TidyTuesday?src=hash&amp;ref_src=twsrc%5Etfw">#TidyTuesday</a> <br><br>Code: <a href="https://t.co/lTksquv6sY">https://t.co/lTksquv6sY</a><a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> <a href="https://t.co/rNGCwMp0Uf">pic.twitter.com/rNGCwMp0Uf</a></p>&mdash; Georgios Karamanis (@geokaramanis) <a href="https://twitter.com/geokaramanis/status/1758434698378776721?ref_src=twsrc%5Etfw">February 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For 25% of surveyed men in the <a href="https://twitter.com/hashtag/UK?src=hash&amp;ref_src=twsrc%5Etfw">#UK</a>, the point of Valentine&#39;s Day is to &quot;get laid&quot; according to a survey from 2015.<br><br>More than the half of women responded &quot;show how much you care&quot;—22 percentage points more than men!<br><br>Happy <a href="https://twitter.com/hashtag/valentinesday?src=hash&amp;ref_src=twsrc%5Etfw">#valentinesday</a> ❤️<br><br>Made in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> with <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> 💙 <a href="https://t.co/5xJsfisT0j">pic.twitter.com/5xJsfisT0j</a></p>&mdash; Cédric Scherer (@CedScherer) <a href="https://twitter.com/CedScherer/status/1757853333715329064?ref_src=twsrc%5Etfw">February 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
