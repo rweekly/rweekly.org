@@ -1,20 +1,21 @@
 ---
 layout: draft
 title: R Weekly 2024-W08
-description: Draft of the R Weekly
+description: Bike Riding, Suggests, Guess My Name
 image: https://rweekly.org/public/facebook.png
 ---
-
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/), with help from the R Weekly team members and contributors.
 
-
-
 ### Highlight
 
++ [My Year of Riding Danishly](https://www.gregdubrow.io/posts/my-year-of-riding-danishly/)
 
++ [Tame your namespace with a dash of suggests](https://rtask.thinkr.fr/tame-your-namespace-with-a-dash-of-suggests/)
+
++ [Guess My Name with Decision Trees](https://mhoehle.github.io/blog/2024/02/12/decisiontree.html)
 
 ### Insights
 
@@ -22,13 +23,21 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [Reading notes on Producing open source software by Karl Fogel (First edition)](https://masalmon.eu/2024/02/08/producing-oss-first-edition-karl-fogel/)
 
++ [raw strings](https://tada.science/posts/2024-02-17-raw-strings/)
+
++ [httr2::req_perform_stream](https://tada.science/posts/2024-02-15-httr2-req-perform-stream-round/)
+
 + [Aggregating Measures of Uncertainty](https://www.bryanshalloway.com/2024/02/11/aggregating-measures-of-uncertainty/)
 
 ### R in the Real World
 
 + [My Year of Riding Danishly](https://www.gregdubrow.io/posts/my-year-of-riding-danishly/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W08/danish.png)
+
 + [Guess My Name with Decision Trees](https://mhoehle.github.io/blog/2024/02/12/decisiontree.html)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W08/rpart.png)
 
 + [Understanding Methane Emissions Through Heatmap and Comparison of Many Models](https://datageeek.com/2024/02/14/understanding-methane-emissions-with-a-heatmap-and-modeling-with-multiple-models/)
 
@@ -76,6 +85,8 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [{ggmagnify} 0.4.0](https://github.com/hughjonesd/ggmagnify): Create a Magnified Inset of Part of a "Ggplot" Object
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W08/ggmagnify.png)
 
 + [{RcppArmadillo} 0.12.8.0.0](http://dirk.eddelbuettel.com/blog/2024/02/08#rcpparmadillo_0.12.8.0.0): 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra Library - [diffify](https://diffify.com/R/RcppArmadillo)
 
