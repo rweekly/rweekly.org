@@ -18,7 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Beautiful Code, Because We’re Worth It!](https://ropensci.org/blog/2024/02/22/beautiful-code/)
 
++ [Read and Play Digital Music (MIDI) in R using the fluidsynth package](https://ropensci.org/blog/2024/02/20/fluidsynth/)
+
++ [Help make waywiser better! User requests wanted](https://ropensci.org/blog/2024/02/19/waywiser-call-help/)
 
 ### R in the Real World
 
