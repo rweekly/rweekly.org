@@ -24,6 +24,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Help make waywiser better! User requests wanted](https://ropensci.org/blog/2024/02/19/waywiser-call-help/)
 
++ [Modular Encapsulation (Moju-kapu): a new software design paradigm](https://shikokuchuo.net/posts/22-moju-kapu-modular-encapsulation/)
+
 ### R in the Real World
 
 
@@ -60,6 +62,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{secretbase} 0.3.0](https://cran.r-project.org/package=secretbase): Cryptographic Hash and Extendable-Output Functions
 
 ### Videos and Podcasts
 
