@@ -62,6 +62,8 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [R-Ladies Cotonou – A Community that Makes R Accessible for French-Speaking African Women](https://www.r-consortium.org/blog/2024/02/20/r-ladies-cotonou-a-community-that-makes-r-accessible-for-french-speaking-african-women)
 
++ [rscopus_plus: An extension of the rscopus package](https://pablobernabeu.github.io/2024/rscopus-plus-an-extension-of-the-rscopus-package)
+
 ### Resources
 
 
