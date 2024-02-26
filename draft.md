@@ -1,10 +1,8 @@
 ---
-layout: draft
-title: R Weekly 2024-W09
-description: Draft of the R Weekly
+title: R Weekly 2024-W09 print, plot, pretty code
+description: Weekly News in the R Community
 image: https://rweekly.org/public/facebook.png
 ---
-
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
@@ -12,7 +10,13 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### Highlight
 
++ [HelloWorld(“print”)](https://yjunechoe.github.io/posts/2024-02-20-helloworld-print/)
 
++ [ggplot2 3.5.0](https://www.tidyverse.org/blog/2024/02/ggplot2-3-5-0/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W09/pattern_scale-1_600.png)
+
++ [Beautiful Code, Because We’re Worth It!](https://ropensci.org/blog/2024/02/22/beautiful-code/)
 
 ### Insights
 
@@ -38,15 +42,15 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [3MW (HTML & CSS with {htmltools})](https://3mw.albert-rapp.de/p/htmltools-intro)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W09/Group_18_400.png)
+
 + [Beautiful Code, Because We’re Worth It!](https://ropensci.org/blog/2024/02/22/beautiful-code/)
 
 + [Read and Play Digital Music (MIDI) in R using the fluidsynth package](https://ropensci.org/blog/2024/02/20/fluidsynth/)
 
 + [Help make waywiser better! User requests wanted](https://ropensci.org/blog/2024/02/19/waywiser-call-help/)
 
-### R in the Real World
-
-
++ [Parsing phone numbers with Rust and R](http://blog.schochastics.net/posts/2024-02-23_parsing-phone-numbers-with-rust-and-r/)
 
 ### R in Organizations
 
@@ -54,22 +58,13 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [rOpenSci News Digest, February 2024](https://ropensci.org/blog/2024/02/23/news-february-2024/)
 
-
-### R in Academia
-
-
 ### R Users
 
 + [R-Ladies Cotonou – A Community that Makes R Accessible for French-Speaking African Women](https://www.r-consortium.org/blog/2024/02/20/r-ladies-cotonou-a-community-that-makes-r-accessible-for-french-speaking-african-women)
 
-### Resources
-
-
-
 ### New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
-
 
 **CRAN**
 
@@ -82,22 +77,17 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [{nc} 2024.2.21](https://cran.r-project.org/package=nc): Named Capture to Data Tables
 + [{Platypus} 3.5.0](https://cran.r-project.org/package=Platypus): Single-Cell Immune Repertoire and Gene Expression Analysis
 + [{fluidsynth} 1.0.0](https://cran.r-project.org/package=fluidsynth): Read and Play Digital Music (MIDI)
-+ [{savvyr} 0.1.0](https://cran.r-project.org/package=savvyr): Survival Analysis for AdVerse Events with VarYing Follow-Up
-Times
++ [{savvyr} 0.1.0](https://cran.r-project.org/package=savvyr): Survival Analysis for AdVerse Events with VarYing Follow-Up Times
 + [{MacBehaviour} 1.1.3](https://cran.r-project.org/package=MacBehaviour): Behavioural Studies of Large Language Models
 + [{ggbrace} 0.1.1](https://cran.r-project.org/package=ggbrace): Curly Braces for 'ggplot2'
-+ [{roxylint} 0.1.0](https://cran.r-project.org/package=roxylint): Lint 'roxygen2'-Generated Documentation
-Framework
++ [{roxylint} 0.1.0](https://cran.r-project.org/package=roxylint): Lint 'roxygen2'-Generated Documentation Framework
 + [{basicdrm} 0.1.0](https://cran.r-project.org/package=basicdrm): Fit Hill Dose Response Models
 + [{executablePackeR} 0.0.1](https://cran.r-project.org/package=executablePackeR): Make 'shiny' App to Executable Program
-
-**Bioconductor**
-
-
 
 **GitHub or Bitbucket**
 
 + [{dir} 1.0.0](https://github.com/emitanaka/dir)
++ [{updateme} 0.1.0](https://wurli.github.io/updateme/)
 
 ### Updated Packages
 
@@ -141,14 +131,9 @@ Framework
 
 + [Du Bois Visualization Challenge 03](https://r.iresmi.net/posts/2024/dubois_03/index.html)
 
-
 ### Shiny Apps
 
-
-
-### R Internationally
-
-
++ [Changes in Life Expectancy by Country (1952-2007)](https://kenvu.shinyapps.io/Changes-in-Life-Expectancy-by-Country-1952-2007-/)
 
 ### Tutorials
 
@@ -158,14 +143,13 @@ Framework
 
 + [Enhancing Your Plots in R: Adding Superscripts & Subscripts](https://www.spsanderson.com/steveondata/posts/2023-02-21/index.html)
 
-
++ [Building an HR Dashboard in R using Flexdashboard](https://towardsdatascience.com/building-an-hr-dashboard-in-r-using-flexdashboard-76d14ed3f32)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
 
 ### Upcoming Events in 3 Months
 
@@ -189,20 +173,17 @@ Events in 3 Months:
 
 + [Events at Jumping Rivers 2024](https://www.jumpingrivers.com/blog/events-at-jr-2024/)
 
-
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ### rtistry
 
+<iframe src="https://fosstodon.org/@gmschroe/111954294907264244/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
 
+<iframe src="https://fosstodon.org/@tylermorganwall/111989933861341170/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<iframe src="https://hachyderm.io/@djnavarro/111985751629341735/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
 ### Quotes of the Week
 
