@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2023-W10
+title: R Weekly 2024-W10
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -20,12 +20,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [I Patched R to Solve an Exercism Problem](https://jcarroll.com.au/2024/02/26/i-patched-r-to-solve-an-exercism-problem/)
 
++ [Column assignment and reference semantics in {data.table}](https://rdatatable-community.github.io/The-Raft/posts/2024-02-18-dt_particularities-toby_hocking/)
+
 
 ### R in the Real World
 
 
 
 ### R in Organizations
+
++ [{data.table} Community Survey: Results and insights](https://rdatatable-community.github.io/The-Raft/posts/2024-02-25-survey_2023-aljaz_sluga/)
 
 
 
@@ -34,7 +38,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Resources
-
 
 
 ### New Packages
