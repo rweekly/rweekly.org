@@ -85,6 +85,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+### Call for Participation
+
++ [Get ready for posit::conf(2024)!](https://posit.co/blog/posit-conf-2024-announcement/)
 
 ### Upcoming Events in 3 Months
 
