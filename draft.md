@@ -98,7 +98,11 @@ Events in 3 Months:
 
 + [(March 6, 2024) Master Tidy Finance & Access Financial Data with Expert Christoph Scheuch](https://www.r-consortium.org/announcement/2024/02/06/join-our-upcoming-webinar-master-tidy-finance-access-financial-data-with-expert-christoph-scheuch)
 
++ [(March 7, 2024) Data Mishaps Night](https://datamishapsnight.com/)
+
 + [(April 17-19, 2024) Get Ready for ShinyConf 2024: Explore Keynotes & Secure Your Spot](https://appsilon.com/shinyconf-2024-keynotes/)
+
++ [(June 21-22, 2024) Cascadia R Conf](https://cascadiarconf.com/)
 
 + [Join our R/Medicine Webinar: Quarto for Reproducible Medical Manuscripts](https://www.r-consortium.org/blog/2024/02/21/join-our-r-medicine-webinar-quarto-for-reproducible-medical-manuscripts)
 
