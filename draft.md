@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Eric Nantz](https://podcastindex.social/@rpodcast), with help from the R Weekly team members and contributors.
 
 
 
