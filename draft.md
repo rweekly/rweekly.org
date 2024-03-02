@@ -20,7 +20,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [I Patched R to Solve an Exercism Problem](https://jcarroll.com.au/2024/02/26/i-patched-r-to-solve-an-exercism-problem/)
 
++ [Key advantages of using the keyring package](https://blog.r-hub.io/2024/02/28/key-advantages-of-using-keyring/)
+
 + [Column assignment and reference semantics in {data.table}](https://rdatatable-community.github.io/The-Raft/posts/2024-02-18-dt_particularities-toby_hocking/)
+
 
 
 ### R in the Real World
