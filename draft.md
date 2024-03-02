@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Reproducible data science with Nix, part 10 -- contributing to nixpkgs](https://www.brodrigues.co/blog/2024-02-29-nix_for_r_part_10/)
+
 + [I Patched R to Solve an Exercism Problem](https://jcarroll.com.au/2024/02/26/i-patched-r-to-solve-an-exercism-problem/)
 
 + [Key advantages of using the keyring package](https://blog.r-hub.io/2024/02/28/key-advantages-of-using-keyring/)
