@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2023-W10
+title: R Weekly 2024-W10
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -18,7 +18,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Reproducible data science with Nix, part 10 -- contributing to nixpkgs](https://www.brodrigues.co/blog/2024-02-29-nix_for_r_part_10/)
+
 + [I Patched R to Solve an Exercism Problem](https://jcarroll.com.au/2024/02/26/i-patched-r-to-solve-an-exercism-problem/)
+
++ [Key advantages of using the keyring package](https://blog.r-hub.io/2024/02/28/key-advantages-of-using-keyring/)
+
++ [Column assignment and reference semantics in {data.table}](https://rdatatable-community.github.io/The-Raft/posts/2024-02-18-dt_particularities-toby_hocking/)
+
 
 
 ### R in the Real World
@@ -27,6 +34,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
++ [{data.table} Community Survey: Results and insights](https://rdatatable-community.github.io/The-Raft/posts/2024-02-25-survey_2023-aljaz_sluga/)
+
 
 
 ### R in Academia
@@ -34,7 +43,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Resources
-
 
 
 ### New Packages
@@ -57,6 +65,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
++ [{explore} 1.2.0](https://cran.r-project.org/package=explore): Simplifies Exploratory Data Analysis - [diffify](https://diffify.com/R/explore)
 
 ### Videos and Podcasts
 
@@ -77,7 +86,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Doom plots](https://aitap.github.io/2024/01/01/doom.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -88,6 +97,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ### Call for Participation
 
 + [Get ready for posit::conf(2024)!](https://posit.co/blog/posit-conf-2024-announcement/)
+
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+ - Announcing [R Dev Day @ PLUS](https://contributor.r-project.org/r-dev-day-plus-2024), Austria on Friday 12 July. Application deadline **Sunday 24 March**.
+
 
 ### Upcoming Events in 3 Months
 
