@@ -81,7 +81,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [{verstappenr} 0.1.0](https://github.com/coolbutuseless/verstappenr): Did Max Verstappen finish first in the most recent F1 event?
 
++ [{testpkg} 1.0](https://github.com/grantmcdermott/testpkg): Experimental repo for offloading an R package's test suite to a Git submodule
 
 ### Updated Packages
 
@@ -94,6 +96,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [ggplot2 3.5.0: Axes](https://www.tidyverse.org/blog/2024/02/ggplot2-3-5-0-axes/)
 
 + [ggplot2 3.5.0: Legends](https://www.tidyverse.org/blog/2024/02/ggplot2-3-5-0-legends/)
+
++ [A bunch of giraffes, all bundled up](https://www.data-imaginist.com/posts/2024-02-15-ggraph-2-2-0/)
 
 + [{sysfonts} 0.8.8](https://cran.r-project.org/package=sysfonts): Loading Fonts into R - [diffify](https://diffify.com/R/sysfonts)
 
@@ -200,6 +204,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 + [Help make assertr better! Come close issues](https://ropensci.org/blog/2024/02/27/assertr-call-help/)
 
++ [BioC 2024 Registration now open](https://www.bioc2024.bioconductor.org/)
+
 Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
  - Announcing [R Dev Day @ PLUS](https://contributor.r-project.org/r-dev-day-plus-2024), Austria on Friday 12 July. Application deadline **Sunday 24 March**.
 
@@ -221,6 +227,8 @@ Events in 3 Months:
 + [(March 6, 2024) Master Tidy Finance & Access Financial Data with Expert Christoph Scheuch](https://www.r-consortium.org/announcement/2024/02/06/join-our-upcoming-webinar-master-tidy-finance-access-financial-data-with-expert-christoph-scheuch)
 
 + [(March 7, 2024) Data Mishaps Night](https://datamishapsnight.com/)
+
++ [(March 14, 2024) Manchester R Meetup](https://www.meetup.com/manchester-r/events/295437990/)
 
 + [(April 17-19, 2024) Get Ready for ShinyConf 2024: Explore Keynotes & Secure Your Spot](https://appsilon.com/shinyconf-2024-keynotes/)
 
@@ -246,5 +254,12 @@ Events in 3 Months:
 
 ### rtistry
 
++ https://botsin.space/@Rtistry/112020097298987486
+
 
 ### Quotes of the Week
+
++ https://mastodon.social/@henrikbengtsson/112016771455863234
+
++ https://botsin.space/@whydoesr/112007990631758742
+
