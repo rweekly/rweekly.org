@@ -94,8 +94,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+### Call for Participation
+
++ [Get ready for posit::conf(2024)!](https://posit.co/blog/posit-conf-2024-announcement/)
+
 Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
  - Announcing [R Dev Day @ PLUS](https://contributor.r-project.org/r-dev-day-plus-2024), Austria on Friday 12 July. Application deadline **Sunday 24 March**.
+
 
 ### Upcoming Events in 3 Months
 
