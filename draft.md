@@ -26,24 +26,31 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Column assignment and reference semantics in {data.table}](https://rdatatable-community.github.io/The-Raft/posts/2024-02-18-dt_particularities-toby_hocking/)
 
++ [An introvert's guide to networking at a conference](https://www.jumpingrivers.com/blog/an-introverts-guide-to-networking-at-a-conference/)
+
 
 
 ### R in the Real World
-
 
 
 ### R in Organizations
 
 + [{data.table} Community Survey: Results and insights](https://rdatatable-community.github.io/The-Raft/posts/2024-02-25-survey_2023-aljaz_sluga/)
 
++ [The R Consortium 2023: A Year of Growth and Innovation](https://www.r-consortium.org/blog/2024/02/28/the-r-consortium-2023-a-year-of-growth-and-innovation)
 
++ [Moffitt Cancer Center Bio-Data Club’s New Chapter in Spatial Data Analysis and Enhanced Hackathon Collaboration](https://www.r-consortium.org/blog/2024/02/27/moffitt-cancer-center-bio-data-clubs-new-chapter-in-spatial-data-analysis-and-enhanced-hackathon-collaboration)
 
 ### R in Academia
 
++ [Knowing Something vs. Knowing the Name of Something: Some Points about Causal Analysis](https://matloff.wordpress.com/2024/02/29/knowing-something-vs-knowing-the-name-of-something-some-points-about-causal-analysis/)
+
++ [What Good is Analysis of Variance?](https://win-vector.com/2024/02/28/what-good-is-analysis-of-variance/)
 
 
 ### Resources
 
++ [Answering some 'Forecasting with GAMs in R' questions](https://nrennie.rbind.io/blog/forecasting-gams-r-questions/)
 
 ### New Packages
 
@@ -53,6 +60,20 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 
 
++ [{ggsankeyfier} 0.1.7](https://cran.r-project.org/package=ggsankeyfier): Create Sankey and Alluvial Diagrams Using 'ggplot2'
+
++ [{tidyheatmaps} 0.2.1](https://cran.r-project.org/package=tidyheatmaps): Heatmaps from Tidy Data
+
+
++ [{sanketphonetictranslator} 0.1.0](https://cran.r-project.org/package=sanketphonetictranslator): Phonetic Transliteration Between Hindi and English
+
++ [{euroleaguer} 0.2.0](https://cran.r-project.org/package=euroleaguer): 'Euroleague basketball API'
+
++ [{tractor.base} 3.4.2](https://cran.r-project.org/package=tractor.base): Read, Manipulate and Visualise Magnetic Resonance Images
+
++ [{raybevel} 0.1.2](https://cran.r-project.org/package=raybevel): Generates Polygon Straight Skeletons and 3D Bevels
+
++ [{BayesPPDSurv} 1.0.2](https://cran.r-project.org/package=BayesPPDSurv): Bayesian Power Prior Design for Survival Data
 
 **Bioconductor**
 
@@ -65,11 +86,75 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
-+ [{explore} 1.2.0](https://cran.r-project.org/package=explore): Simplifies Exploratory Data Analysis - [diffify](https://diffify.com/R/explore)
+
++ [RcppEigen 0.3.4.0.0 on CRAN: New Upstream, At Last](http://dirk.eddelbuettel.com/blog/2024/02/28#rcppeigen_0.3.4.0.0)
+
++ [ggplot2 3.5.0: Introducing: coord_radial()](https://www.tidyverse.org/blog/2024/03/ggplot2-3-5-0-coord-radial/)
+
++ [ggplot2 3.5.0: Axes](https://www.tidyverse.org/blog/2024/02/ggplot2-3-5-0-axes/)
+
++ [ggplot2 3.5.0: Legends](https://www.tidyverse.org/blog/2024/02/ggplot2-3-5-0-legends/)
+
++ [{sysfonts} 0.8.8](https://cran.r-project.org/package=sysfonts): Loading Fonts into R - [diffify](https://diffify.com/R/sysfonts)
+
++ [{curl} 5.2.1](https://cran.r-project.org/package=curl): A Modern and Flexible Web Client for R - [diffify](https://diffify.com/R/curl)
+
++ [{nominatimlite} 0.3.0](https://cran.r-project.org/package=nominatimlite): Interface with 'Nominatim' API Service - [diffify](https://diffify.com/R/nominatimlite)
+
++ [{shinyWidgets} 0.8.2](https://cran.r-project.org/package=shinyWidgets): Custom Inputs Widgets for Shiny - [diffify](https://diffify.com/R/shinyWidgets)
+
++ [{GPUmatrix} 1.0.2](https://cran.r-project.org/package=GPUmatrix): Basic Linear Algebra with GPU - [diffify](https://diffify.com/R/GPUmatrix)
+
++ [{shinyMobile} 1.0.1](https://cran.r-project.org/package=shinyMobile): Mobile Ready 'shiny' Apps with Standalone Capabilities - [diffify](https://diffify.com/R/shinyMobile)
+
++ [{pointblank} 0.12.0](https://cran.r-project.org/package=pointblank): Data Validation and Organization of Metadata for Local and
+Remote Tables - [diffify](https://diffify.com/R/pointblank)
+
++ [{intendo} 0.1.1](https://cran.r-project.org/package=intendo): A Group of Fun Datasets of Various Sizes and Differing Levels of
+Quality - [diffify](https://diffify.com/R/intendo)
+
++ [{simhelpers} 0.2.1](https://cran.r-project.org/package=simhelpers): Helper Functions for Simulation Studies - [diffify](https://diffify.com/R/simhelpers)
+
++ [{RcppCWB} 0.6.4](https://cran.r-project.org/package=RcppCWB): 'Rcpp' Bindings for the 'Corpus Workbench' ('CWB') - [diffify](https://diffify.com/R/RcppCWB)
+
++ [{namer} 0.1.8](https://cran.r-project.org/package=namer): Names Your 'R Markdown' Chunks - [diffify](https://diffify.com/R/namer)
+
++ [{zdeskR} 0.4.0](https://cran.r-project.org/package=zdeskR): Connect to Your 'Zendesk' Data - [diffify](https://diffify.com/R/zdeskR)
+
++ [{qrng} 0.0-10](https://cran.r-project.org/package=qrng): (Randomized) Quasi-Random Number Generators - [diffify](https://diffify.com/R/qrng)
+
++ [{AmigaFFH} 0.4.5](https://cran.r-project.org/package=AmigaFFH): Commodore Amiga File Format Handler - [diffify](https://diffify.com/R/AmigaFFH)
+
++ [{parallelly} 1.37.1](https://cran.r-project.org/package=parallelly): Enhancing the 'parallel' Package - [diffify](https://diffify.com/R/parallelly)
+
++ [{ibmsunburst} 0.1.4](https://cran.r-project.org/package=ibmsunburst): Generate Personality Insights Sunburst Diagrams - [diffify](https://diffify.com/R/ibmsunburst)
+
++ [{retrosheet} 1.1.6](https://cran.r-project.org/package=retrosheet): Import Professional Baseball Data from 'Retrosheet' - [diffify](https://diffify.com/R/retrosheet)
+
++ [{gpboost} 1.3.0](https://cran.r-project.org/package=gpboost): Combining Tree-Boosting with Gaussian Process and Mixed Effects
+Models - [diffify](https://diffify.com/R/gpboost)
+
++ [{ggraph} 2.2.0](https://cran.r-project.org/package=ggraph): An Implementation of Grammar of Graphics for Graphs and Networks - [diffify](https://diffify.com/R/ggraph)
+
++ [{gganimate} 1.0.9](https://cran.r-project.org/package=gganimate): A Grammar of Animated Graphics - [diffify](https://diffify.com/R/gganimate)
+
++ [{datasauRus} 0.1.8](https://cran.r-project.org/package=datasauRus): Datasets from the Datasaurus Dozen - [diffify](https://diffify.com/R/datasauRus)
+
++ [{ggedit} 0.4.0](https://cran.r-project.org/package=ggedit): Interactive 'ggplot2' Layer and Theme Aesthetic Editor - [diffify](https://diffify.com/R/ggedit)
+
+
+
+
 
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+
++ [TidyX Episode 174 - AI Speed Ball](https://www.youtube.com/watch?v=oNo7bEQBP28)
+
++ [Salt Lake City RUG February 2024 - R Packages](https://www.youtube.com/watch?v=-i9WZutXkPs)
+
++ [Better quality of life in R and RStudio](https://www.youtube.com/watch?v=EAejx8uKFj4)
 
 
 ### Gist & Cookbook
@@ -78,7 +163,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [Want To Write Clear End-To-End Tests? Try Cucumber.](https://jakubsob.github.io/blog/setting-up-cucumber-in-rhino/)
 
 ### R Internationally
 
@@ -87,6 +172,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Tutorials
 
 + [Doom plots](https://aitap.github.io/2024/01/01/doom.html)
+
++ [Du Bois Visualization Challenge 04](https://r.iresmi.net/posts/2024/dubois_04/index.html)
+
++ [Homicide Rates from Gender Perspective: Analysis using Radar Chart and Bootstrap Intervals](https://datageeek.com/2024/02/28/homicide-rates-from-gender-perspective-understanding-with-radar-chart-and-bootstrap-intervals/)
+
++ [Setting up a Freesurfer LMM through R](https://drmowinckels.io/blog/2024/freesurfer-lmm-r/)
+
++ [3MW (CSS Keywords you need)](https://3mw.albert-rapp.de/p/adding-css-to-phone)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -98,6 +192,14 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 + [Get ready for posit::conf(2024)!](https://posit.co/blog/posit-conf-2024-announcement/)
 
++ [Take the tidymodels survey for 2024 priorities](https://www.tidyverse.org/blog/2024/02/tidymodels-2024-survey/)
+
++ [Help make qualtRics better! Code contributions wanted](https://ropensci.org/blog/2024/03/01/qualtrics-call-help/)
+
++ [Help users and developers of targets by answering questions!](https://ropensci.org/blog/2024/02/29/targets-call-help/)
+
++ [Help make assertr better! Come close issues](https://ropensci.org/blog/2024/02/27/assertr-call-help/)
+
 Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
  - Announcing [R Dev Day @ PLUS](https://contributor.r-project.org/r-dev-day-plus-2024), Austria on Friday 12 July. Application deadline **Sunday 24 March**.
 
@@ -107,6 +209,10 @@ Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-pro
 Events in 3 Months:
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
+
++ [Join Us for an Evening of Growth and Grit: Data Mishaps Night](https://www.littlemissdata.com/blog/data-mishaps-night-2024)
+
++ [Join our R/Medicine Webinar: Quarto for Reproducible Medical Manuscripts](https://www.r-consortium.org/blog/2024/02/21/join-our-r-medicine-webinar-quarto-for-reproducible-medical-manuscripts)
 
 + [Join Us at Shiny Gatherings #11: New Developments in Rhino](https://appsilon.com/new-developments-in-rhino/)
 
