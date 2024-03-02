@@ -80,7 +80,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Doom plots](https://aitap.github.io/2024/01/01/doom.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
