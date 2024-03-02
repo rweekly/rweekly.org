@@ -9,6 +9,7 @@
 + [SatRdays London 2024: Speakers](https://www.jumpingrivers.com/blog/satrdays-london-2024-speakers/)
 + [Performance Optimization in R: An Example Using Memoise](https://rtask.thinkr.fr/performance-optimization-in-r-an-example-using-memoise/)
 + [I Patched R to Solve an Exercism Problem](https://jcarroll.com.au/2024/02/26/i-patched-r-to-solve-an-exercism-problem/)
++ [Apply Now! R Consortium Infrastructure Steering Committee (ISC) Grant Program Open for Proposals!](https://www.r-consortium.org/blog/2024/03/01/apply-now-r-consortium-infrastructure-steering-committee-isc-grant-program-open-for-proposals)
 + [The R Consortium 2023: A Year of Growth and Innovation](https://www.r-consortium.org/blog/2024/02/28/the-r-consortium-2023-a-year-of-growth-and-innovation)
 + [Moffitt Cancer Center Bio-Data Club’s New Chapter in Spatial Data Analysis and Enhanced Hackathon Collaboration](https://www.r-consortium.org/blog/2024/02/27/moffitt-cancer-center-bio-data-clubs-new-chapter-in-spatial-data-analysis-and-enhanced-hackathon-collaboration)
 + [Recap: R Validation Hub Community Meeting](https://www.r-consortium.org/blog/2024/02/23/recap-r-validation-hub-community-meeting)
@@ -54,7 +55,16 @@
 		https://appsilon.com/level-up-your-r-shiny-team-skills-free-ebook/		)
 + [Want To Write Clear End-To-End Tests? Try Cucumber.](https://jakubsob.github.io/blog/setting-up-cucumber-in-rhino/)
 # CRANberries UPDATED: ##
-+ [{sysfonts} 0.8.8](https://cran.r-project.org/package=sysfonts): Loading Fonts into R - [diffify](https://diffify.com/R/sysfonts)
++ [{MR.RGM} 0.0.2](https://cran.r-project.org/package=MR.RGM): Multivariate Bidirectional Mendelian Randomization Networks - [diffify](https://diffify.com/R/MR.RGM)
++ [{GPCERF} 0.2.3](https://cran.r-project.org/package=GPCERF): Gaussian Processes for Estimating Causal Exposure Response
+Curves - [diffify](https://diffify.com/R/GPCERF)
++ [{fabletools} 0.4.1](https://cran.r-project.org/package=fabletools): Core Tools for Packages in the 'fable' Framework - [diffify](https://diffify.com/R/fabletools)
++ [{showtext} 0.9-7](https://cran.r-project.org/package=showtext): Using Fonts More Easily in R Graphs - [diffify](https://diffify.com/R/showtext)
++ [{R2SWF} 0.9-9](https://cran.r-project.org/package=R2SWF): Convert R Graphics to Flash Animations - [diffify](https://diffify.com/R/R2SWF)
++ [{ggsci} 3.0.1](https://cran.r-project.org/package=ggsci): Scientific Journal and Sci-Fi Themed Color Palettes for
+'ggplot2' - [diffify](https://diffify.com/R/ggsci)
++ [{Qval} 0.1.5](https://cran.r-project.org/package=Qval): The Q-Matrix Validation Methods Framework - [diffify](https://diffify.com/R/Qval)
++ [{sysfonts} 0.8.9](https://cran.r-project.org/package=sysfonts): Loading Fonts into R - [diffify](https://diffify.com/R/sysfonts)
 + [{melt} 1.11.1](https://cran.r-project.org/package=melt): Multiple Empirical Likelihood Tests - [diffify](https://diffify.com/R/melt)
 + [{GPArotation} 2024.3-1](https://cran.r-project.org/package=GPArotation): Gradient Projection Factor Rotation - [diffify](https://diffify.com/R/GPArotation)
 + [{choroplethr} 3.7.3](https://cran.r-project.org/package=choroplethr): Simplify the Creation of Choropleth Maps in R - [diffify](https://diffify.com/R/choroplethr)
@@ -275,14 +285,6 @@ Kinetic Models - [diffify](https://diffify.com/R/rPBK)
 + [{ggfields} 0.0.6](https://cran.r-project.org/package=ggfields): Add Vector Field Layers to Ggplots - [diffify](https://diffify.com/R/ggfields)
 + [{FRK} 2.2.2](https://cran.r-project.org/package=FRK): Fixed Rank Kriging - [diffify](https://diffify.com/R/FRK)
 + [{folio} 1.4.0](https://cran.r-project.org/package=folio): Datasets for Teaching Archaeology and Paleontology - [diffify](https://diffify.com/R/folio)
-+ [{fitODBODRshiny} 1.0.1](https://cran.r-project.org/package=fitODBODRshiny): 'Shiny' Application for R Package 'fitODBOD' - [diffify](https://diffify.com/R/fitODBODRshiny)
-+ [{DImodelsVis} 1.0.1](https://cran.r-project.org/package=DImodelsVis): Visualising and Interpreting Statistical Models Fit to
-Compositional Data - [diffify](https://diffify.com/R/DImodelsVis)
-+ [{vvmover} 1.6.0](https://cran.r-project.org/package=vvmover): Read and Write Data - [diffify](https://diffify.com/R/vvmover)
-+ [{vvauditor} 0.6.0](https://cran.r-project.org/package=vvauditor): Creates Assertion Tests - [diffify](https://diffify.com/R/vvauditor)
-+ [{vcfppR} 0.4.0](https://cran.r-project.org/package=vcfppR): Rapid Manipulation of the Variant Call Format (VCF) - [diffify](https://diffify.com/R/vcfppR)
-+ [{tweenr} 2.0.3](https://cran.r-project.org/package=tweenr): Interpolate Data for Smooth Animations - [diffify](https://diffify.com/R/tweenr)
-+ [{plotmo} 3.6.3](https://cran.r-project.org/package=plotmo): Plot a Model's Residuals, Response, and Partial Dependence Plots - [diffify](https://diffify.com/R/plotmo)
 # CRANberries NEW: ##
 + [{wordbankr} 1.0.3](https://cran.r-project.org/package=wordbankr): Accessing the Wordbank Database
 + [{TropFishR} 1.6.4](https://cran.r-project.org/package=TropFishR): Tropical Fisheries Analysis
@@ -332,7 +334,7 @@ Probabilities
 + [{vaxpmx} 0.0.3](https://cran.r-project.org/package=vaxpmx): Vaccines Pharmacometrics
 + [{tsnet} 0.1.0](https://cran.r-project.org/package=tsnet): Fitting, Comparing, and Visualizing Networks Based on Time
 Series Data
-+ [{MR.RGM} 0.0.1](https://cran.r-project.org/package=MR.RGM): Multivariate Bidirectional Mendelian Randomization Networks
++ [{MR.RGM} 0.0.2](https://cran.r-project.org/package=MR.RGM): Multivariate Bidirectional Mendelian Randomization Networks
 for Panomics Data
 + [{tractor.base} 3.4.2](https://cran.r-project.org/package=tractor.base): Read, Manipulate and Visualise Magnetic Resonance Images
 + [{toxSummary} 1.0.0](https://cran.r-project.org/package=toxSummary): Visualize and Summarize Repeat-Dose Toxicology Study Results
