@@ -11,6 +11,12 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 ### Highlight
 
++ [I Patched R to Solve an Exercism Problem](https://jcarroll.com.au/2024/02/26/i-patched-r-to-solve-an-exercism-problem/)
+
++ [{data.table} Community Survey: Results and insights](https://rdatatable-community.github.io/The-Raft/posts/2024-02-25-survey_2023-aljaz_sluga/)
+
++ [Doom plots](https://aitap.github.io/2024/01/01/doom.html)
+
 ### Insights
 
 + [Reproducible data science with Nix, part 10 -- contributing to nixpkgs](https://www.brodrigues.co/blog/2024-02-29-nix_for_r_part_10/)
@@ -221,10 +227,10 @@ Events in 3 Months:
 
 ### rtistry
 
-+ https://botsin.space/@Rtistry/112020097298987486
+<iframe src="https://botsin.space/@Rtistry/112020097298987486/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://botsin.space/embed.js" async="async"></script>
 
 ### Quotes of the Week
 
-+ https://mastodon.social/@henrikbengtsson/112016771455863234
+<iframe src="https://mastodon.social/@henrikbengtsson/112016771455863234/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
 
-+ https://botsin.space/@whydoesr/112007990631758742
+<iframe src="https://botsin.space/@whydoesr/112007990631758742/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://botsin.space/embed.js" async="async"></script>
