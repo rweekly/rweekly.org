@@ -5,16 +5,11 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Eric Nantz](https://podcastindex.social/@rpodcast), with help from the R Weekly team members and contributors.
 
-
-
 ### Highlight
-
-
 
 ### Insights
 
@@ -27,11 +22,6 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 + [Column assignment and reference semantics in {data.table}](https://rdatatable-community.github.io/The-Raft/posts/2024-02-18-dt_particularities-toby_hocking/)
 
 + [An introvert's guide to networking at a conference](https://www.jumpingrivers.com/blog/an-introverts-guide-to-networking-at-a-conference/)
-
-
-
-### R in the Real World
-
 
 ### R in Organizations
 
@@ -47,7 +37,6 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 + [What Good is Analysis of Variance?](https://win-vector.com/2024/02/28/what-good-is-analysis-of-variance/)
 
-
 ### Resources
 
 + [Answering some 'Forecasting with GAMs in R' questions](https://nrennie.rbind.io/blog/forecasting-gams-r-questions/)
@@ -56,14 +45,13 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
-
 **CRAN**
-
 
 + [{ggsankeyfier} 0.1.7](https://cran.r-project.org/package=ggsankeyfier): Create Sankey and Alluvial Diagrams Using 'ggplot2'
 
 + [{tidyheatmaps} 0.2.1](https://cran.r-project.org/package=tidyheatmaps): Heatmaps from Tidy Data
 
+![tidyheatmaps-image](https://raw.githubusercontent.com/rweekly/image/master/2024/W10/README-unnamed-chunk-3-2_600.png)
 
 + [{sanketphonetictranslator} 0.1.0](https://cran.r-project.org/package=sanketphonetictranslator): Phonetic Transliteration Between Hindi and English
 
@@ -73,11 +61,9 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 + [{raybevel} 0.1.2](https://cran.r-project.org/package=raybevel): Generates Polygon Straight Skeletons and 3D Bevels
 
+![raybevel-image](https://raw.githubusercontent.com/rweekly/image/master/2024/W10/README-functionbevelroof-1_600.png)
+
 + [{BayesPPDSurv} 1.0.2](https://cran.r-project.org/package=BayesPPDSurv): Bayesian Power Prior Design for Survival Data
-
-**Bioconductor**
-
-
 
 **GitHub or Bitbucket**
 
@@ -146,10 +132,6 @@ Models - [diffify](https://diffify.com/R/gpboost)
 
 + [{ggedit} 0.4.0](https://cran.r-project.org/package=ggedit): Interactive 'ggplot2' Layer and Theme Aesthetic Editor - [diffify](https://diffify.com/R/ggedit)
 
-
-
-
-
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
@@ -160,22 +142,15 @@ Models - [diffify](https://diffify.com/R/gpboost)
 
 + [Better quality of life in R and RStudio](https://www.youtube.com/watch?v=EAejx8uKFj4)
 
-
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [Want To Write Clear End-To-End Tests? Try Cucumber.](https://jakubsob.github.io/blog/setting-up-cucumber-in-rhino/)
 
-### R Internationally
-
-
-
 ### Tutorials
 
 + [Doom plots](https://aitap.github.io/2024/01/01/doom.html)
+
+![doom-plot-image](https://raw.githubusercontent.com/rweekly/image/master/2024/W10/incomplete_sectors_600.png)
 
 + [Du Bois Visualization Challenge 04](https://r.iresmi.net/posts/2024/dubois_04/index.html)
 
@@ -184,7 +159,6 @@ Models - [diffify](https://diffify.com/R/gpboost)
 + [Setting up a Freesurfer LMM through R](https://drmowinckels.io/blog/2024/freesurfer-lmm-r/)
 
 + [3MW (CSS Keywords you need)](https://3mw.albert-rapp.de/p/adding-css-to-phone)
-
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -208,7 +182,6 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
  - Announcing [R Dev Day @ PLUS](https://contributor.r-project.org/r-dev-day-plus-2024), Austria on Friday 12 July. Application deadline **Sunday 24 March**.
-
 
 ### Upcoming Events in 3 Months
 
@@ -242,12 +215,6 @@ Events in 3 Months:
 
 + [Events at Jumping Rivers 2024](https://www.jumpingrivers.com/blog/events-at-jr-2024/)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
@@ -256,10 +223,8 @@ Events in 3 Months:
 
 + https://botsin.space/@Rtistry/112020097298987486
 
-
 ### Quotes of the Week
 
 + https://mastodon.social/@henrikbengtsson/112016771455863234
 
 + https://botsin.space/@whydoesr/112007990631758742
-
