@@ -233,4 +233,4 @@ Events in 3 Months:
 
 <iframe src="https://mastodon.social/@henrikbengtsson/112016771455863234/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
 
-<iframe src="https://botsin.space/@whydoesr/112007990631758742/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://botsin.space/embed.js" async="async"></script>
+<iframe src="https://botsin.space/@whydoesr/112007990631758742/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="400" allowfullscreen="allowfullscreen"></iframe><script src="https://botsin.space/embed.js" async="async"></script>
