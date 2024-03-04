@@ -229,8 +229,13 @@ Events in 3 Months:
 
 <iframe src="https://botsin.space/@Rtistry/112020097298987486/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://botsin.space/embed.js" async="async"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Simple but attractive (my opinion!)<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/plotter?src=hash&amp;ref_src=twsrc%5Etfw">#plotter</a> <a href="https://t.co/TKzqs32CMq">pic.twitter.com/TKzqs32CMq</a></p>&mdash; chris (@dickie_roper) <a href="https://twitter.com/dickie_roper/status/1764393697351795036?ref_src=twsrc%5Etfw">March 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 ### Quotes of the Week
 
 <iframe src="https://mastodon.social/@henrikbengtsson/112016771455863234/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
 
 <iframe src="https://botsin.space/@whydoesr/112007990631758742/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="400" allowfullscreen="allowfullscreen"></iframe><script src="https://botsin.space/embed.js" async="async"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Simple but attractive (my opinion!)<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/plotter?src=hash&amp;ref_src=twsrc%5Etfw">#plotter</a> <a href="https://t.co/TKzqs32CMq">pic.twitter.com/TKzqs32CMq</a></p>&mdash; chris (@dickie_roper) <a href="https://twitter.com/dickie_roper/status/1764393697351795036?ref_src=twsrc%5Etfw">March 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
