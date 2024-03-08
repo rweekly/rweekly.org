@@ -24,6 +24,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Marketing Ideas For Your Package](https://ropensci.org/blog/2024/03/07/package-marketing/)
 
++ [What we can learn from esoteric patterns](https://rolkra.github.io/R-Esoteric-Patterns/)
+
 
 
 
