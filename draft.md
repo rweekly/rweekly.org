@@ -129,6 +129,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Mastering the Arcane: Advanced RMarkdown for Magical Data Science](https://medium.com/number-around-us/mastering-the-arcane-advanced-rmarkdown-for-magical-data-science-c6c434780765)
 
++ [Explain XGBoost](https://rolkra.github.io/explain-xgboost)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
