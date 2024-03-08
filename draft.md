@@ -43,6 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+[{timeless} 0.1.0](https://cran.r-project.org/package=timeless): Fast general purpose date/time converter written in Rust
 
 
 **Bioconductor**
