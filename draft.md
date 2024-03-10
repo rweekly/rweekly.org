@@ -29,8 +29,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-+ [2024 DuckDB User Survey](https://forms.gle/mVLT6CpLvpLhkdvT9) (as featured on https://duckdb.org)
-
 + [The Cleveland R User Group’s Journey Through Pandemic Adaptations and Baseball Analytics](https://www.r-consortium.org/blog/2024/03/07/the-cleveland-r-user-groups-journey-through-pandemic-adaptations-and-baseball-analytics)
 
 
@@ -77,6 +75,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{naniar} version 1.1.0 "Prince Caspian"](https://www.njtierney.com/post/2024/03/04/naniar-version-1-1-0-prince-caspian/)
 
+### Call for Participation
+
++ [2024 DuckDB User Survey](https://forms.gle/mVLT6CpLvpLhkdvT9) (as featured on https://duckdb.org)
 
 ### Videos and Podcasts
 
