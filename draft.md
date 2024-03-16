@@ -64,6 +64,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [prrd 0.0.6 at CRAN: Several Improvements](http://dirk.eddelbuettel.com/blog/2024/03/07#prrd_0.0.6)
+
++ [tinythemes 0.0.2 at CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2024/03/04#tinythemes_0.0.2)
+
++ [RcppArmadillo 0.12.8.1.0 on CRAN: Upstream Fix, Interface Polish](http://dirk.eddelbuettel.com/blog/2024/03/03#rcpparmadillo_0.12.8.1.0)
+
+
++ [{naniar} version 1.1.0 "Prince Caspian"](https://www.njtierney.com/post/2024/03/04/naniar-version-1-1-0-prince-caspian/)
+
+### Call for Participation
+
++ [2024 DuckDB User Survey](https://forms.gle/mVLT6CpLvpLhkdvT9) (as featured on https://duckdb.org)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
