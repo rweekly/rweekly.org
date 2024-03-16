@@ -18,6 +18,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Spring clean your R packages](https://www.jumpingrivers.com/blog/spring-clean-r-package-usethis/)
+
++ [Shiny button weirdness](https://recology.info/2024/03/shiny-events/)
+
++ [Marketing Ideas For Your Package](https://ropensci.org/blog/2024/03/07/package-marketing/)
+
++ [What we can learn from esoteric patterns](https://rolkra.github.io/R-Esoteric-Patterns/)
 
 
 ### R in the Real World
