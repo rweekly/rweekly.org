@@ -18,17 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [Spring clean your R packages](https://www.jumpingrivers.com/blog/spring-clean-r-package-usethis/)
-
-+ [Shiny button weirdness](https://recology.info/2024/03/shiny-events/)
-
-+ [Marketing Ideas For Your Package](https://ropensci.org/blog/2024/03/07/package-marketing/)
-
 + [What we can learn from esoteric patterns](https://rolkra.github.io/R-Esoteric-Patterns/)
 
 + [Pre Self: what fraction of a journal’s papers are preprinted?](https://quantixed.org/2024/03/09/pre-self-what-fraction-of-a-journals-papers-are-preprinted/)
-
-+ [Modernizing Clinical Trial Design and Analysis to Improve Efficiency & Flexibility](https://fharrell.com/talk/rcteff/)
 
 + [Football Multiplicities](https://fharrell.com/post/nfl/)
 
@@ -53,8 +45,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 + [R-Ladies Goiânia: Promoting Diversity and Inclusion in Local R Community](https://www.r-consortium.org/blog/2024/03/13/r-ladies-goiania-promoting-diversity-and-inclusion-in-local-r-community)
-
-+ [The Cleveland R User Group’s Journey Through Pandemic Adaptations and Baseball Analytics](https://www.r-consortium.org/blog/2024/03/07/the-cleveland-r-user-groups-journey-through-pandemic-adaptations-and-baseball-analytics)
 
 + [ShinyConf 2024: A Sneak Peek into the Agenda](https://www.appsilon.com/post/shinyconf-2024-agenda)
 
@@ -103,15 +93,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [prrd 0.0.6 at CRAN: Several Improvements](http://dirk.eddelbuettel.com/blog/2024/03/07#prrd_0.0.6)
-
-+ [tinythemes 0.0.2 at CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2024/03/04#tinythemes_0.0.2)
-
-+ [RcppArmadillo 0.12.8.1.0 on CRAN: Upstream Fix, Interface Polish](http://dirk.eddelbuettel.com/blog/2024/03/03#rcpparmadillo_0.12.8.1.0)
-
-
-+ [{naniar} version 1.1.0 "Prince Caspian"](https://www.njtierney.com/post/2024/03/04/naniar-version-1-1-0-prince-caspian/)
-
 ### Call for Participation
 
 + [2024 DuckDB User Survey](https://forms.gle/mVLT6CpLvpLhkdvT9) (as featured on https://duckdb.org)
@@ -149,8 +130,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Bird’s Eye View: using R to generate inventory maps for lab reagents](https://quantixed.org/2024/03/14/birds-eye-view-using-r-to-generate-inventory-maps-for-lab-reagents/)
 
-+ [webrcli &amp; spidyr: A starter pack for building NodeJS projects with webR inside](https://colinfay.me/webrcli-and-spidyr/)
-
 + [Plotting Training and Testing Predictions with tidyAML](https://www.spsanderson.com/steveondata/posts/2024-03-15/idnex.html)
 
 + [The Fun in Functional Programming](https://r-posts.com/the-fun-in-functional-programming/)
@@ -160,17 +139,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Mastering Random Sampling in R with the sample() Function](https://www.spsanderson.com/steveondata/posts/2024-03-12/index.html)
 + [Wrangling Names in R: Your Guide to the make.names() Function](https://www.spsanderson.com/steveondata/posts/2024-03-11/index.html)
 + [Taming the Nameless: Using the names() Function in R](https://www.spsanderson.com/steveondata/posts/2024-03-08/index.html)
-+ [How to Subset Data Frame in R by Multiple Conditions](https://www.spsanderson.com/steveondata/posts/2024-03-07/index.html)
-+ [How to Add New Level to Factor in R](https://www.spsanderson.com/steveondata/posts/2024-03-06/index.html)
 
 + [3MW (Enjoy the break with AI)](https://3mw.albert-rapp.de/p/enjoy-3mw-break-with-ai)
-+ [3MW (Spacing & Sizing with CSS)](https://3mw.albert-rapp.de/p/3mw-spacing-sizing-css)
   
 + [Object Oriented Programming in R (Part 3): A Practical Guide to the S4 System](https://www.appsilon.com/post/object-oriented-programming-in-r-part-3)
 
 + [R Plumber: How to Craft Error Responses that Speak Fluent HTTP](https://www.appsilon.com/post/api-oopsies-101)
 + [How To Write E2E Tests Selectors That Stand The Test Of Time](https://jakubsob.github.io/blog/robust-targetting-of-html-for-tests/)
-+ [Exporting Excel Workbooks From Your Shiny App? Snapshot Test Them!](https://jakubsob.github.io/blog/how-to-test-excel-workbooks/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
