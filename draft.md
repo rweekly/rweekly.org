@@ -47,6 +47,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+[tidychatmodels](https://github.com/AlbertRapp/tidychatmodels): Chat With All Kinds of AI Models Through a Common Interface
 
 **CRAN**
 
@@ -80,6 +81,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
++ [Use CSS Selection to Style Existing HTML Code](https://youtu.be/WPImjxSwLhY)
++ [Use ChatGPT, Mistral and ollama for Text Processing in R](https://youtu.be/RjtADzX-sJY)
 
 
 ### Gist & Cookbook
@@ -96,7 +99,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [WebDev4R: CSS Selection](https://albert-rapp.de/posts/web_dev/03_css_selection/03_css_selection)
++ [Introducing tidychatmodels for communicating with AI chatbots](https://albert-rapp.de/posts/20_tidychatmodels/20_tidychatmodels)
 
 + [Explain XGBoost](https://rolkra.github.io/explain-xgboost)
 
