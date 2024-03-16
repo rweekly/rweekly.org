@@ -85,6 +85,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
++ [Explain XGBoost](https://rolkra.github.io/explain-xgboost)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
