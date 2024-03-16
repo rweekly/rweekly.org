@@ -106,6 +106,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+ - Announcing [R Dev Day @ Imperial](https://pretix.eu/r-contributors/r-dev-day-imperial-2024/), London, UK on Friday 26 April. Registration deadline **Sunday 14 April**.
 
 ### Upcoming Events in 3 Months
 
