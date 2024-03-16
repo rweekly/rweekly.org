@@ -81,7 +81,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [ciw 0.0.1 on CRAN: New Package!](http://dirk.eddelbuettel.com/blog/2024/03/13#ciw_0.0.1)
 + [digest 0.6.35 on CRAN: New xxhash code](http://dirk.eddelbuettel.com/blog/2024/03/11#digest_0.6.35)
-+ [prrd 0.0.6 at CRAN: Several Improvements](http://dirk.eddelbuettel.com/blog/2024/03/07#prrd_0.0.6)
 
 + [🚀 Exciting News! 🚀](https://www.spsanderson.com/steveondata/posts/2024-03-13/index.html)
 
