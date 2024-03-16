@@ -58,7 +58,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{scimo} 0.0.1](https://github.com/abichat/scimo/): Extra Recipes Steps For Dealing With Omics Data
 
 ### Updated Packages
 
