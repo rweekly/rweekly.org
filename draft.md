@@ -91,6 +91,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+[{flashr} 0.1.2](https://cran.r-project.org/package=flashr)
+
 ### Call for Participation
 
 + [2024 DuckDB User Survey](https://forms.gle/mVLT6CpLvpLhkdvT9) (as featured on https://duckdb.org)
