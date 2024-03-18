@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Sam Parmar](https://github.com/parmsam), with help from the R Weekly team members and contributors.
 
 
 
@@ -75,11 +75,28 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
-
-**Bioconductor**
-
-
++ [{mosaicCalc} 0.6.1](https://cran.r-project.org/package=mosaicCalc): R-Language Based Calculus Operations for Teaching
++ [{palette} 0.0.2](https://cran.r-project.org/package=palette): Color Scheme Helpers
++ [{updateme} 0.1.0](https://cran.r-project.org/package=updateme): Informative Messages About Outdated Packages
++ [{theftdlc} 0.1.0](https://cran.r-project.org/package=theftdlc): Analyse and Interpret Time Series Features
++ [{ggbrick} 0.3.0](https://cran.r-project.org/package=ggbrick): Waffle Style Chart with a Brick Layout in 'ggplot2'
++ [{r2stl} 1.0.3](https://cran.r-project.org/package=r2stl): Visualizing Data using a 3D Printer
++ [{ciw} 0.0.1](https://cran.r-project.org/package=ciw): Watch the CRAN Incoming Directories
++ [{xxhashlite} 0.2.2](https://cran.r-project.org/package=xxhashlite): Extremely Fast Hashing of R Objects, Raw Data and Files using 'xxHash' Algorithms
++ [{CompGR} 0.1.3](https://cran.r-project.org/package=CompGR): Complete Annual Growth Rate Generator
++ [{phoenix} 1.0.0](https://cran.r-project.org/package=phoenix): The Phoenix Pediatric Sepsis and Septic Shock Criteria
++ [{infoelectoral} 1.0.0](https://cran.r-project.org/package=infoelectoral): Download Spanish Election Results
++ [{link} 2024.4.0](https://cran.r-project.org/package=link): Hyperlink Automatic Detection
++ [{rnames} 1.0.1](https://cran.r-project.org/package=rnames): Recursive Display of Items in Nested Lists
++ [{rsleep} 1.0.12](https://cran.r-project.org/package=rsleep): Analysis of Sleep Data
++ [{SouthParkRshiny} 1.0.0](https://cran.r-project.org/package=SouthParkRshiny): Data and 'Shiny' Application for the Show 'SouthPark'
++ [{bandicoot} 1.0.0](https://cran.r-project.org/package=bandicoot): Light-Weight 'python'-Like Object-Oriented System
++ [{MSBStatsData} 0.0.2](https://cran.r-project.org/package=MSBStatsData): Data Sets for Courses at the Münster School of Business
++ [{nycflights23} 0.1.0](https://cran.r-project.org/package=nycflights23): Flights and Other Useful Metadata for NYC Outbound Flights in 2023
++ [{fillpattern} 1.0.1](https://cran.r-project.org/package=fillpattern): Patterned Fills for 'ggplot2' and 'grid' Graphics
++ [{bibliorefer} 0.1.0](https://cran.r-project.org/package=bibliorefer): Generator of Main Scientific References
++ [{movegroup} 2024.03.05](https://cran.r-project.org/package=movegroup): Visualizing and Quantifying Space Use Data for Groups of Animals
++ [{iimi} 1.0.2](https://cran.r-project.org/package=iimi): Identifying Infection with Machine Intelligence
 
 **GitHub or Bitbucket**
 
@@ -90,6 +107,65 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{visachartR} 3.3.0](https://cran.r-project.org/package=visachartR): Wrapper for 'Visa Chart Components' - [diffify](https://diffify.com/R/visachartR)
++ [{tinytex} 0.50](https://cran.r-project.org/package=tinytex): Helper Functions to Install and Maintain TeX Live, and Compile LaTeX Documents - [diffify](https://diffify.com/R/tinytex)
++ [{teal.reporter} 0.3.1](https://cran.r-project.org/package=teal.reporter): Reporting Tools for 'shiny' Modules - [diffify](https://diffify.com/R/teal.reporter)
++ [{sass} 0.4.9](https://cran.r-project.org/package=sass): Syntactically Awesome Style Sheets ('Sass') - [diffify](https://diffify.com/R/sass)
++ [{visR} 0.4.1](https://cran.r-project.org/package=visR): Clinical Graphs and Tables Adhering to Graphical Principles - [diffify](https://diffify.com/R/visR)
++ [{folders} 0.1.0](https://cran.r-project.org/package=folders): Standardized Folder Names - [diffify](https://diffify.com/R/folders)
++ [{aifeducation} 0.3.2](https://cran.r-project.org/package=aifeducation): Artificial Intelligence for Education - [diffify](https://diffify.com/R/aifeducation)
++ [{tfrmt} 0.1.1](https://cran.r-project.org/package=tfrmt): Applies Display Metadata to Analysis Results Datasets - [diffify](https://diffify.com/R/tfrmt)
++ [{moodlequizR} 2.0.2](https://cran.r-project.org/package=moodlequizR): Easily Create Fully Randomized 'Moodle' Test Questions - [diffify](https://diffify.com/R/moodlequizR)
++ [{flashr} 0.1.2](https://cran.r-project.org/package=flashr): Create Flashcards of Terms and Definitions - [diffify](https://diffify.com/R/flashr)
++ [{topr} 2.0.1](https://cran.r-project.org/package=topr): Create Custom Plots for Viewing Genetic Association Results - [diffify](https://diffify.com/R/topr)
++ [{formatdown} 0.1.3](https://cran.r-project.org/package=formatdown): Formatting Tools for 'rmarkdown' Documents - [diffify](https://diffify.com/R/formatdown)
++ [{fable} 0.3.4](https://cran.r-project.org/package=fable): Forecasting Models for Tidy Time Series - [diffify](https://diffify.com/R/fable)
++ [{s3fs} 0.1.5](https://cran.r-project.org/package=s3fs): 'Amazon Web Service S3' File System - [diffify](https://diffify.com/R/s3fs)
++ [{NeuroDecodeR} 0.2.0](https://cran.r-project.org/package=NeuroDecodeR): Decode Information from Neural Activity - [diffify](https://diffify.com/R/NeuroDecodeR)
++ [{feasts} 0.3.2](https://cran.r-project.org/package=feasts): Feature Extraction and Statistics for Time Series - [diffify](https://diffify.com/R/feasts)
++ [{framecleaner} 0.2.1](https://cran.r-project.org/package=framecleaner): Clean Data Frames - [diffify](https://diffify.com/R/framecleaner)
++ [{CDCPLACES} 1.1.5](https://cran.r-project.org/package=CDCPLACES): Access the 'CDC PLACES' API - [diffify](https://diffify.com/R/CDCPLACES)
++ [{vivainsights} 0.5.2](https://cran.r-project.org/package=vivainsights): Analyze and Visualize Data from 'Microsoft Viva Insights' - [diffify](https://diffify.com/R/vivainsights)
++ [{bigrquery} 1.5.1](https://cran.r-project.org/package=bigrquery): An Interface to Google's 'BigQuery' 'API' - [diffify](https://diffify.com/R/bigrquery)
++ [{contingencytables} 3.0.0](https://cran.r-project.org/package=contingencytables): Statistical Analysis of Contingency Tables - [diffify](https://diffify.com/R/contingencytables)
++ [{cliot} 0.2.0](https://cran.r-project.org/package=cliot): Clinical Indices and Outcomes Tools - [diffify](https://diffify.com/R/cliot)
++ [{evsim} 1.4.0](https://cran.r-project.org/package=evsim): Electric Vehicle Charging Sessions Simulation - [diffify](https://diffify.com/R/evsim)
++ [{evprof} 1.1.2](https://cran.r-project.org/package=evprof): Electric Vehicle Charging Sessions Profiling and Modelling - [diffify](https://diffify.com/R/evprof)
++ [{rnames} 1.0.1](https://cran.r-project.org/package=rnames): Recursive Display of Items in Nested Lists - [diffify](https://diffify.com/R/rnames)
++ [{ggscidca} 0.1.9](https://cran.r-project.org/package=ggscidca): Plotting Decision Curve Analysis with Coloured Bars - [diffify](https://diffify.com/R/ggscidca)
++ [{targets} 1.6.0](https://cran.r-project.org/package=targets): Dynamic Function-Oriented 'Make'-Like Declarative Pipelines - [diffify](https://diffify.com/R/targets)
++ [{Rd2md} 1.0.0](https://cran.r-project.org/package=Rd2md): Markdown Reference Manuals - [diffify](https://diffify.com/R/Rd2md)
++ [{oaii} 0.5.0](https://cran.r-project.org/package=oaii): 'OpenAI' API R Interface - [diffify](https://diffify.com/R/oaii)
++ [{deepdep} 0.4.3](https://cran.r-project.org/package=deepdep): Visualise and Explore the Deep Dependencies of R Packages - [diffify](https://diffify.com/R/deepdep)
++ [{text2map} 0.1.9](https://cran.r-project.org/package=text2map): R Tools for Text Matrices, Embeddings, and Networks - [diffify](https://diffify.com/R/text2map)
++ [{cansim} 0.3.16](https://cran.r-project.org/package=cansim): Accessing Statistics Canada Data Table and Vectors - [diffify](https://diffify.com/R/cansim)
++ [{landsepi} 1.4.0](https://cran.r-project.org/package=landsepi): Landscape Epidemiology and Evolution - [diffify](https://diffify.com/R/landsepi)
++ [{geomtextpath} 0.1.3](https://cran.r-project.org/package=geomtextpath): Curved Text in 'ggplot2' - [diffify](https://diffify.com/R/geomtextpath)
++ [{tidyAML} 0.0.5](https://cran.r-project.org/package=tidyAML): Automatic Machine Learning with 'tidymodels' - [diffify](https://diffify.com/R/tidyAML)
++ [{cffr} 1.0.0](https://cran.r-project.org/package=cffr): Generate Citation File Format ('cff') Metadata for R Packages - [diffify](https://diffify.com/R/cffr)
++ [{arrow} 15.0.1](https://cran.r-project.org/package=arrow): Integration to 'Apache' 'Arrow' - [diffify](https://diffify.com/R/arrow)
++ [{AllMetrics} 0.2.1](https://cran.r-project.org/package=AllMetrics): Calculating Multiple Performance Metrics of a Prediction Model - [diffify](https://diffify.com/R/AllMetrics)
++ [{mdbr} 0.2.1](https://cran.r-project.org/package=mdbr): Work with Microsoft Access Files - [diffify](https://diffify.com/R/mdbr)
++ [{f1dataR} 1.5.1](https://cran.r-project.org/package=f1dataR): Access Formula 1 Data - [diffify](https://diffify.com/R/f1dataR)
++ [{tinytable} 0.1.0](https://cran.r-project.org/package=tinytable): Simple and Configurable Tables in 'HTML', 'LaTeX', 'Markdown', 'Word', 'PNG', 'PDF', and 'Typst' Formats - [diffify](https://diffify.com/R/tinytable)
++ [{Rd2roxygen} 1.15](https://cran.r-project.org/package=Rd2roxygen): Convert Rd to 'Roxygen' Documentation - [diffify](https://diffify.com/R/Rd2roxygen)
++ [{arcpullr} 0.2.9](https://cran.r-project.org/package=arcpullr): Pull Data from an 'ArcGIS REST' API - [diffify](https://diffify.com/R/arcpullr)
++ [{nonmem2R} 0.2.5](https://cran.r-project.org/package=nonmem2R): Loading NONMEM Output Files with Functions for Visual Predictive Checks (VPC) and Goodness of Fit (GOF) Plots - [diffify](https://diffify.com/R/nonmem2R)
++ [{gcplyr} 1.9.0](https://cran.r-project.org/package=gcplyr): Wrangle and Analyze Growth Curve Data - [diffify](https://diffify.com/R/gcplyr)
++ [{openair} 2.18-2](https://cran.r-project.org/package=openair): Tools for the Analysis of Air Pollution Data - [diffify](https://diffify.com/R/openair)
++ [{usa} 0.1.2](https://cran.r-project.org/package=usa): Updated US State Facts and Figures - [diffify](https://diffify.com/R/usa)
++ [{tm} 0.7-12](https://cran.r-project.org/package=tm): Text Mining Package - [diffify](https://diffify.com/R/tm)
++ [{srt} 1.0.4](https://cran.r-project.org/package=srt): Read Subtitle Files as Tabular Data - [diffify](https://diffify.com/R/srt)
++ [{metro} 0.9.3](https://cran.r-project.org/package=metro): Washington Metropolitan Area Transit Authority API - [diffify](https://diffify.com/R/metro)
++ [{tidyselect} 1.2.1](https://cran.r-project.org/package=tidyselect): Select from a Set of Strings - [diffify](https://diffify.com/R/tidyselect)
++ [{epiR} 2.0.70](https://cran.r-project.org/package=epiR): Tools for the Analysis of Epidemiological Data - [diffify](https://diffify.com/R/epiR)
++ [{digest} 0.6.35](https://cran.r-project.org/package=digest): Create Compact Hash Digests of R Objects - [diffify](https://diffify.com/R/digest)
++ [{theft} 0.6.1](https://cran.r-project.org/package=theft): Tools for Handling Extraction of Features from Time Series - [diffify](https://diffify.com/R/theft)
++ [{greta} 0.4.5](https://cran.r-project.org/package=greta): Simple and Scalable Statistical Modelling in R - [diffify](https://diffify.com/R/greta)
++ [{gluedown} 1.0.9](https://cran.r-project.org/package=gluedown): Wrap Vectors in Markdown Formatting - [diffify](https://diffify.com/R/gluedown)
++ [{fflr} 2.2.3](https://cran.r-project.org/package=fflr): Retrieve ESPN Fantasy Football Data - [diffify](https://diffify.com/R/fflr)
++ [{duckplyr} 0.3.1](https://cran.r-project.org/package=duckplyr): A 'DuckDB'-Backed Version of 'dplyr' - [diffify](https://diffify.com/R/duckplyr)
 
 ### Call for Participation
 
