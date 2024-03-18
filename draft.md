@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2024-W00
+title: R Weekly 2024-W12
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -14,7 +14,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
++ [Patterns and anti-patterns of data analysis reuse](https://www.milesmcbain.com/posts/data-analysis-reuse/)
 
++ [Shitty R help from shitty AI](https://www.rostrum.blog/posts/2024-03-15-ai-garbage/)
+
++ [Best Practice for R :: Cheat Sheet](https://github.com/wurli/r-best-practice)
 
 ### Insights
 
@@ -144,7 +148,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
   
 + [Object Oriented Programming in R (Part 3): A Practical Guide to the S4 System](https://www.appsilon.com/post/object-oriented-programming-in-r-part-3)
 
-+ [R Plumber: How to Craft Error Responses that Speak Fluent HTTP](https://www.appsilon.com/post/api-oopsies-101)
 + [How To Write E2E Tests Selectors That Stand The Test Of Time](https://jakubsob.github.io/blog/robust-targetting-of-html-for-tests/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
