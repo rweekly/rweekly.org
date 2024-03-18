@@ -36,9 +36,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Shitty R help from shitty AI](https://www.rostrum.blog/posts/2024-03-15-ai-garbage/)
 
+![beckhams](https://raw.githubusercontent.com/rweekly/image/master/2024/W12/beckhams_600.png)
+
 + [Ellipses, eclipses and bulletses](https://www.rostrum.blog/posts/2024-03-12-eclipse/)
 
 + [No installation required: how WebAssembly is changing scientific computing](https://www.nature.com/articles/d41586-024-00725-1)
+
+![The Project Twins](https://raw.githubusercontent.com/rweekly/image/master/2024/W12/d41586-024-00725-1_26828538_600.png)
 
 + [rOpenSci Dev Guide 0.9.0: Multilingual Now! And Better](https://ropensci.org/blog/2024/03/11/devguide-0.9.0/)
 
@@ -46,9 +50,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Best Practice for R :: Cheat Sheet](https://github.com/wurli/r-best-practice)
 
-### R in the Real World
+![R Cheatsheet](https://raw.githubusercontent.com/rweekly/image/master/2024/W12/cheatsheet_600.jpg)
 
-+ [R-Ladies Goiânia: Promoting Diversity and Inclusion in Local R Community](https://www.r-consortium.org/blog/2024/03/13/r-ladies-goiania-promoting-diversity-and-inclusion-in-local-r-community)
+### R in the Real World
 
 + [ShinyConf 2024: A Sneak Peek into the Agenda](https://www.appsilon.com/post/shinyconf-2024-agenda)
 
@@ -56,16 +60,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in Organizations
 
 + [ISC-funded Grant: Secure TLS Connections in {nanonext} and {mirai} Facilitating High-Performance Computing in the Life Sciences](https://www.r-consortium.org/blog/2024/03/12/isc-funded-grant-secure-tls-connections-in-nanonext-and-mirai-facilitating-high-performance-computing-in-the-life-sciences)
-
-
-
-### R in Academia
-
-
-
-### Resources
-
-
 
 ### New Packages
 
@@ -111,17 +105,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R Shiny in Life Sciences – Top 7 Dashboard Examples by Ismael Rodriguez](https://www.youtube.com/watch?v=89GKK92_zTI&ab_channel=Appsilon)
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
 ### R Internationally
 
-
++ [R-Ladies Goiânia: Promoting Diversity and Inclusion in Local R Community](https://www.r-consortium.org/blog/2024/03/13/r-ladies-goiania-promoting-diversity-and-inclusion-in-local-r-community)
 
 ### Tutorials
 
