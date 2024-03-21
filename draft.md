@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Update on mocking for testing R packages](https://blog.r-hub.io/2024/03/21/mocking-new-take/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
