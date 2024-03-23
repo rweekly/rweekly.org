@@ -40,6 +40,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
+[{rspell}](https://rfsaldanha.github.io/rspell/) Are you writing in a foreign language? The RStudio spelling dictionary setting is not sufficient to correct grammar errors. Try the {rspell} package to grammar-proof your notebooks and documentation straight on RStudio without copying-pasting. 
 
 **CRAN**
 
