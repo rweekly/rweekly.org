@@ -219,12 +219,16 @@ Events in 3 Months:
 + [2024 Workshops Series Kick-off](https://mirai-solutions.ch/news/2024/03/14/kick-off-2024-wkshp-series/)
   
 
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ### rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Image of Vila Velha, Brazil created in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> using data from <a href="https://twitter.com/hashtag/OpenStreetMap?src=hash&amp;ref_src=twsrc%5Etfw">#OpenStreetMap</a>. <a href="https://t.co/urleB1PeoE">pic.twitter.com/urleB1PeoE</a></p>&mdash; R City Views (@rcityviews) <a href="https://twitter.com/rcityviews/status/1772368985503244304?ref_src=twsrc%5Etfw">March 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Working in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> be like <a href="https://t.co/6dg2BOy7M3">pic.twitter.com/6dg2BOy7M3</a></p>&mdash; Brier Gallihugh, M.S (@Brier_Gallihugh) <a href="https://twitter.com/Brier_Gallihugh/status/1770232209317736912?ref_src=twsrc%5Etfw">March 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Inferencia causal en <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <br>✅ Causal Inference <a href="https://t.co/4MC37d780n">https://t.co/4MC37d780n</a> by <a href="https://twitter.com/LucyStats?ref_src=twsrc%5Etfw">@LucyStats</a>, <a href="https://twitter.com/malco_barrett?ref_src=twsrc%5Etfw">@malco_barrett</a> &amp; <a href="https://twitter.com/travisgerke?ref_src=twsrc%5Etfw">@travisgerke</a> <br>✅ Targeted Learning with tlverse <a href="https://t.co/toTffNgMBW">https://t.co/toTffNgMBW</a> by <a href="https://twitter.com/mark_vdlaan?ref_src=twsrc%5Etfw">@mark_vdlaan</a> et al.<br>✅ Introduction to Causal Inference <a href="https://t.co/FNsoPoTuDJ">https://t.co/FNsoPoTuDJ</a> by <a href="https://twitter.com/DrMayaPetersen?ref_src=twsrc%5Etfw">@DrMayaPetersen</a> <a href="https://t.co/BYX5PBwYIt">pic.twitter.com/BYX5PBwYIt</a></p>&mdash; Rosana Ferrero 📈📊🙌 (@RosanaFerrero) <a href="https://twitter.com/RosanaFerrero/status/1772156499483050345?ref_src=twsrc%5Etfw">March 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
