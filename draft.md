@@ -31,6 +31,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [Who's funding the politics in India?](https://www.harsh17.in/who-s-funding-the-politics-in-india/)
 
+![Screenshot 2024-03-26 at 02 37 51](https://github.com/rweekly/rweekly.org/assets/53487593/f35ce279-32be-47d3-a79b-0c4b7ae9544f)
+
 
 ### R in Organizations
 
@@ -44,6 +46,9 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 + [Modernizing Clinical Trial Design and Analysis to Improve Efficiency & Flexibility](https://www.fharrell.com/talk/rcteff/)
 
 + [Visualizing Uncertainty](https://friendly.github.io/6135/lectures/Uncertainty.pdf)
+
+![Screenshot 2024-03-26 at 02 39 09](https://github.com/rweekly/rweekly.org/assets/53487593/bca73e37-5a83-4739-be2e-78ff8bac566c)
+
 
 ### New Packages
 
@@ -75,6 +80,8 @@ Scale and Shape
 + [{tradepolicy} 0.7.0](https://cran.r-project.org/package=tradepolicy): Replication of 'An Advanced Guide To Trade Policy Analysis'
   
 + [{SCdeconR} 1.0.0](https://cran.r-project.org/package=SCdeconR): Deconvolution of Bulk RNA-Seq Data using Single-Cell RNA-Seq Data as Reference
+
+![Screenshot 2024-03-26 at 02 40 49](https://github.com/rweekly/rweekly.org/assets/53487593/c3a09fc2-43ce-4cda-ac4d-b349a3c18bd6)
 
 + [{OncoSubtype} 1.0.0](https://cran.r-project.org/package=OncoSubtype): Predict Cancer Subtypes Based on TCGA Data using Machine Learning Method
 
@@ -115,10 +122,12 @@ Scale and Shape
 
 + [{webmap} 1.1.0](https://cran.r-project.org/package=webmap): Create Interactive Web Maps Using 'The National Map' Services - [diffify](https://diffify.com/R/webmap)
 
+![Screenshot 2024-03-26 at 02 42 01](https://github.com/rweekly/rweekly.org/assets/53487593/5c66e6e2-8bbe-45f1-a628-0bcf64de6999)
+
 + [{xfun} 0.43](https://cran.r-project.org/package=xfun): Supporting Functions for Packages Maintained by 'Yihui Xie' - [diffify](https://diffify.com/R/xfun)
   
 + [{pointblank} 0.12.1](https://cran.r-project.org/package=pointblank): Data Validation and Organization of Metadata for Local and Remote Tables - [diffify](https://diffify.com/R/pointblank)
-  + 
+  
 + [{crew} 0.9.1](https://cran.r-project.org/package=crew): A Distributed Worker Launcher Framework - [diffify](https://diffify.com/R/crew)
 
 + [{qpdf} 1.3.3](https://cran.r-project.org/package=qpdf): Split, Combine and Compress PDF Files - [diffify](https://diffify.com/R/qpdf)
@@ -156,7 +165,9 @@ Scale and Shape
 + [{ggscidca} 0.2.0](https://cran.r-project.org/package=ggscidca): Plotting Decision Curve Analysis with Coloured Bars - [diffify](https://diffify.com/R/ggscidca)
 
 + [{LifemapR} 1.1.1](https://cran.r-project.org/package=LifemapR): Data Visualisation on 'Lifemap' Tree - [diffify](https://diffify.com/R/LifemapR)
-  
+
+![Screenshot 2024-03-26 at 02 43 53](https://github.com/rweekly/rweekly.org/assets/53487593/1ea90ee9-8f14-4495-90b7-1039f7dbd179)
+
 + [{envalysis} 0.7.0](https://cran.r-project.org/package=envalysis): Miscellaneous Functions for Environmental Analyses - [diffify](https://diffify.com/R/envalysis)
   
 + [{dbplyr} 2.5.0](https://cran.r-project.org/package=dbplyr): A 'dplyr' Back End for Databases - [diffify](https://diffify.com/R/dbplyr)
@@ -171,14 +182,14 @@ Scale and Shape
 + [Update on mocking for testing R packages](https://blog.r-hub.io/2024/03/21/mocking-new-take/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
-
-+ [Update on mocking for testing R packages](https://blog.r-hub.io/2024/03/21/mocking-new-take/)
   
 + [3MW (Aligning content with flexboxes)](https://3mw.albert-rapp.de/p/weather-ui-flexbox)
 
 + [Using R and Python Together, Seamlessly: A Case Study Using OpenAI's GPT Models](https://www.markhw.com/blog/r-py-gpt)
 
 + [Causal Effect of Approval of ETF for Bitcoin on the Prices](https://datageeek.com/2024/03/21/causal-effect-of-approval-of-etf-for-bitcoin-on-the-prices/)
+  
+![Screenshot 2024-03-26 at 02 44 50](https://github.com/rweekly/rweekly.org/assets/53487593/ef68d989-3153-47ec-86ac-37a40ad52583)
 
 + [Modeling my pinball scores](https://sumsar.net/blog/modeling-my-pinball-scores/)
 
