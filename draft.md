@@ -22,6 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
+[How to read environment variables in R-Shiny apps](https://katharinabrunner.de/2024/03/how-to-read-environment-variables-in-r-shiny-apps/)
 
 
 ### R in Organizations
