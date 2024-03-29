@@ -64,7 +64,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Gist & Cookbook
 
-
++ [PDF Reports with Quarto inside a Devcontainer](https://github.com/ketchbrookanalytics/quarto-pdf-dev)
 
 ### Shiny Apps
 
