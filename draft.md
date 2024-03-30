@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
+[I Made R Text For Me](https://brendenmsmith.com/posts/text%20in%20r/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
