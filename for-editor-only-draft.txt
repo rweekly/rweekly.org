@@ -59,7 +59,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Videos and Podcasts
 
-+ [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
++ [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 
 ### Gist & Cookbook
