@@ -35,6 +35,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
+- [Visualizing {dplyr}’s mutate(), summarize(), group_by(), and ungroup() with animations](https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/): Visually explore how {dplyr}’s more complex core functions work together to wrangle data 
 
 
 ### New Packages
