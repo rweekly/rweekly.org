@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+- [Reproducible data science with Nix, part 11 -- build and cache binaries with Github Actions and Cachix](https://www.brodrigues.co/blog/2024-04-04-nix_for_r_part_11/)
 
 ### R in the Real World
 
