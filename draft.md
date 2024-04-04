@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [duckplyr: dplyr powered by DuckDB](https://duckdb.org/2024/04/02/duckplyr)
 
 ### R in the Real World
 
