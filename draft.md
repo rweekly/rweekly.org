@@ -79,6 +79,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 [I Made R Text For Me](https://brendenmsmith.com/posts/text%20in%20r/)
 
+[Creating a simple Automator app to launch a new instance of RStudio Desktop on macOS](https://remlapmot.github.io/post/2024/macos-rstudio-another/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
