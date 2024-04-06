@@ -19,6 +19,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 
++ [Reproducible data science with Nix, part 11 -- build and cache binaries with Github Actions and Cachix](https://www.brodrigues.co/blog/2024-04-04-nix_for_r_part_11/)
+
++ [duckplyr: dplyr powered by DuckDB](https://duckdb.org/2024/04/02/duckplyr)
+
 
 ### R in the Real World
 
@@ -35,8 +39,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-- [Visualizing {dplyr}’s mutate(), summarize(), group_by(), and ungroup() with animations](https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/): Visually explore how {dplyr}’s more complex core functions work together to wrangle data 
 
++ [Visualizing {dplyr}’s mutate(), summarize(), group_by(), and ungroup() with animations](https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/): Visually explore how {dplyr}’s more complex core functions work together to wrangle data 
+
+
+[R 4 Social Network Analysis](https://schochastics.github.io/R4SNA/) ([announcement post](https://blog.schochastics.net/posts/2024-04-04_announcing-r4sna/))
 
 ### New Packages
 
@@ -79,6 +86,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Tutorials
 
 [I Made R Text For Me](https://brendenmsmith.com/posts/text%20in%20r/)
+
+[Creating a simple Automator app to launch a new instance of RStudio Desktop on macOS](https://remlapmot.github.io/post/2024/macos-rstudio-another/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
