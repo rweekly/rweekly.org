@@ -38,10 +38,13 @@ This week’s release was curated by [Jon Calder](https://joncalder.co.za/), wit
 
 + [Avoiding Self Transitions in Gibbs Sampling](https://radfordneal.wordpress.com/2024/03/28/avoiding-self-transitions-in-gibbs-sampling/)
 
++ [S.P.I.C.E of Causal Inference](https://www.kenkoonwong.com/blog/spice-causal/)
+
 ### Resources
 
 + [Visualizing {dplyr}’s mutate(), summarize(), group_by(), and ungroup() with animations](https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/): Visually explore how {dplyr}’s more complex core functions work together to wrangle data 
 
+![Visualizing {dplyr}’s mutate(), summarize(), group_by(), and ungroup() with animations](https://raw.githubusercontent.com/rweekly/image/master/2024/W15/visualizing_dplyr.png)
 
 + [R 4 Social Network Analysis](https://schochastics.github.io/R4SNA/) ([announcement post](https://blog.schochastics.net/posts/2024-04-04_announcing-r4sna/))
 
@@ -106,6 +109,8 @@ Models
 
 + [Make Your Own NOAA Sea Temperature Graph](https://kieranhealy.org/blog/archives/2024/04/04/make-your-own-noaa-sea-temperature-graph/)
 
+![Make Your Own NOAA Sea Temperature Graph](https://raw.githubusercontent.com/rweekly/image/master/2024/W15/global_mean_sea_temp.png)
+
 + [Reading large spatial data](https://www.jumpingrivers.com/blog/large-spatial-data-r-sql/)
 
 + [R Highcharts: How to Make Animated and Interactive Data Visualizations in R](https://www.appsilon.com/post/r-highcharts)
@@ -115,6 +120,8 @@ Models
 + [A Practical Guide to Merging Data Frames Based on Multiple Columns in R](https://www.spsanderson.com/steveondata/posts/2024-04-05/index.html)
 
 + [WebDev4R: CSS Grid](https://albert-rapp.de/posts/web_dev/05_grid/05_grid.html)
+
++ [Tetley caffeine meter replication with ggplot2](https://pacha.dev/blog/2024/04/05/index.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
