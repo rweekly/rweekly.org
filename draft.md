@@ -66,6 +66,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Shiny Apps
 
 
+- [vvdoctor: Shiny App to simplify statistical testing](https://vusaverse.github.io/posts/vvdoctor_alpha_release.html)
 
 ### R Internationally
 
