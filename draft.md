@@ -16,7 +16,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 
-
 ### R in the Real World
 
 
@@ -73,7 +72,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
+- [extendr: making a heckin' fast case converter in 42 lines of Rust code](https://extendr.github.io/user-guide/heckin-case-converter.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
