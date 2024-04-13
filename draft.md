@@ -23,7 +23,13 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [R-hub v2](https://blog.r-hub.io/2024/04/11/rhub2/)
 
++ [Lost in Transformation: The Horror and Wonder of Logit](https://www.robertkubinec.com/post/flat_earth/)
+
++ [The Truth About Tidy Wrappers](https://outsiderdata.netlify.app/posts/2024-04-10-the-truth-about-tidy-wrappers/benchmark_wrappers.html)
+
 ### R in the Real World
+
++ [How long until building complaints are dispositioned? A survival analysis case study](https://www.tidymodels.org/learn/statistics/survival-case-study/)
 
 + [Chat with AI in RStudio](https://blogs.rstudio.com/tensorflow/posts/2024-04-04-chat-with-llms-using-chattr)
 
@@ -39,16 +45,15 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 ### R in Academia
 
-
 + [Conformalized predictive simulations for univariate time series on more than 250 data sets](https://thierrymoudiki.github.io/blog/2024/04/07/r/conformal-time-series)
-
-### Resources
-
 
 
 ### New Packages
 
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+
+
+**CRAN**
 
 + [{optimall} 1.1.0](https://cran.r-project.org/package=optimall): Allocate Samples Among Strata
 
@@ -61,13 +66,6 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 + [{hdbayes} 0.0.3](https://cran.r-project.org/package=hdbayes): Bayesian Analysis of Generalized Linear Models with Historical Data
 
 + [{CodeDepends} 0.6.6](https://cran.r-project.org/package=CodeDepends): Analysis of R Code for Reproducible Research and Code Comprehension
-
-**CRAN**
-
-
-
-**Bioconductor**
-
 
 
 **GitHub or Bitbucket**
@@ -97,23 +95,13 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [vvdoctor: Shiny App to simplify statistical testing](https://vusaverse.github.io/posts/vvdoctor_alpha_release.html)
 
 + [Simple and Fast Visualization of Biodiversity Occurrence Data using GBIF and R Shiny](https://geekcologist.wordpress.com/2024/04/09/simple-and-fast-visualization-of-biodiversity-occurrence-data-using-gbif-and-r-shiny/)
 
-### R Internationally
-
-
-
 ### Tutorials
-
-+ [R Highcharts: How to Make Animated and Interactive Data Visualizations in R](https://www.appsilon.com/post/r-highcharts)
 
 + [extendr: making a heckin' fast case converter in 42 lines of Rust code](https://extendr.github.io/user-guide/heckin-case-converter.html)
 
@@ -126,16 +114,6 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 + [Taking the data out of the glue with regex in R](https://www.spsanderson.com/steveondata/posts/2024-04-12/index.html)
 
 + [How to Remove Rows with Some or All NAs in R](https://www.spsanderson.com/steveondata/posts/2024-04-09/index.html)
-
-#### Time Series
-
-+ [Leverage Effect](https://datawookie.dev/blog/2024/04/leverage-effect/)
-
-+ [Skewed Returns](https://datawookie.dev/blog/2024/04/skewed-returns/)
-
-+ [What is a GARCH Model?](https://datawookie.dev/blog/2024/04/what-is-a-garch-model/)
-
-+ [Rolling Volatility & Returns](https://datawookie.dev/blog/2024/04/rolling-volatility-returns/)
 
 + [Loading Financial Time Series](https://datawookie.dev/blog/2024/04/loading-financial-time-series/)
 
@@ -163,11 +141,6 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Jobs
 
@@ -175,6 +148,14 @@ Events in 3 Months:
 
 ### rtistry
 
++ [2024 30-Day Chart Challenge - Day 05 - Diverging](https://observablehq.com/@hrbrmstr/2024-30-day-chart-challenge-day-4-diverging)
+
 + [Eclipse map](https://r.iresmi.net/posts/2024/eclipse/index.html)
 
++ <https://bsky.app/profile/tterence.bsky.social/post/3kphm4hqsnj2y>
+
++ <https://bsky.app/profile/ansgarw.bsky.social/post/3kpzbxkxzoa2p>
+
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Want to use Google Fonts like Montserrat in your <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> visualizations?<br><br>It’s easier than you think!<br><br>Here’s an example using 2020 Decennial <a href="https://twitter.com/uscensusbureau?ref_src=twsrc%5Etfw">@uscensusbureau</a> data and the tidycensus package: <a href="https://t.co/CdC2dAeul7">pic.twitter.com/CdC2dAeul7</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1779154405729743060?ref_src=twsrc%5Etfw">April 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
