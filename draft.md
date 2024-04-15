@@ -11,13 +11,17 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 ### Highlight
 
++ [Chat with AI in RStudio](https://blogs.rstudio.com/tensorflow/posts/2024-04-04-chat-with-llms-using-chattr)
 
-
-### Insights
++ [R-hub v2](https://blog.r-hub.io/2024/04/11/rhub2/)
 
 + [Test warnings faster](https://mm218.dev/posts/2024-04-12-testing-expensive-functions/)
 
+### Insights
+
 + [3MW (Using Parametrized Reports Instead of Shiny)](https://3mw.albert-rapp.de/p/parametrized-reports-instead-of-shiny)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W16/parameterized-reports.png)
 
 + [Git Gud: Version Control Best Practices](https://www.appsilon.com/post/git-best-practices)
 
@@ -31,9 +35,15 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [How long until building complaints are dispositioned? A survival analysis case study](https://www.tidymodels.org/learn/statistics/survival-case-study/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W16/building-complaints-nync.png)
+
 + [Chat with AI in RStudio](https://blogs.rstudio.com/tensorflow/posts/2024-04-04-chat-with-llms-using-chattr)
 
 + [Daily Average Sea Surface Temperature Animation](https://kieranhealy.org/blog/archives/2024/04/12/daily-average-sea-surface-temperature-animation/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W16/daily-global-sea-surface-temp.png)
+
++ [R and Python Together: A Second Case Study Using LangChain's LLM Tools](https://www.markhw.com/blog/r-py-langchain)
 
 ### R in Organizations
 
@@ -67,11 +77,6 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [{CodeDepends} 0.6.6](https://cran.r-project.org/package=CodeDepends): Analysis of R Code for Reproducible Research and Code Comprehension
 
-
-**GitHub or Bitbucket**
-
-
-
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
@@ -94,6 +99,9 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
++ [A user perspective on using iSEE interactive websites](https://www.youtube.com/watch?v=i5I_mFOsGks)
+
++ [Player Time Chart - FIBA API Part 2 | TidyX Episode 178](https://www.youtube.com/watch?v=_qHnmxrh36E)
 
 ### Shiny Apps
 
