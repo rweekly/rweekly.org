@@ -81,6 +81,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+## Call for Participation
+
++ [Announcing the 2024 Table Contest](https://posit.co/blog/announcing-the-2024-table-contest/)
 
 ### Upcoming Events in 3 Months
 
