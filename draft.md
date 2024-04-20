@@ -84,7 +84,10 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ## Call for Participation
 
++ [R Package Logo Design Contest](https://www.shinyconf.com/r-package-logo-design-contest)
+
 + [Announcing the 2024 Table Contest](https://posit.co/blog/announcing-the-2024-table-contest/)
+
 
 ### Upcoming Events in 3 Months
 
