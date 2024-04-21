@@ -15,7 +15,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### Insights
 
-+ [Eclipse map](https://r.iresmi.net/posts/2024/eclipse/index.html)
 + [Kicking tyres](https://www.hiddenelephants.co.uk/Blog/kicking-tyres.html)
 + [Querying JSON files with AWS Athena and the noctua R package](https://tomsing1.github.io/blog/posts/athena/)
 + [Interactive volcano plots with the ggiraph R package](https://tomsing1.github.io/blog/posts/volcano_ggiraph/)
@@ -23,7 +22,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [PowerQuery Puzzle solved with R](https://medium.com/number-around-us/powerquery-puzzle-solved-with-r-a4b2bdf0f490)
 + [Jack polynomials with symbolic parameter](https://laustep.github.io/stlahblog/posts/JackSymbolicParameter.html)
 + [3MW (Hosting HTML files)](https://3mw.albert-rapp.de/p/3mw-hosting-html-files)
-+ [The Truth About Tidy Wrappers](https://outsiderdata.netlify.app/posts/2024-04-10-the-truth-about-tidy-wrappers/benchmark_wrappers)
 + [Modular R code for analytical projects with {box}](https://owenjonesuob.github.io/posts/2024-04-16-modular-r-code-for-analytical-projects-with-box/)
 + [KNN vs. XGBoost Rivalry: Women Employment in Management](https://datageeek.com/2024/04/18/knn-vs-xgboost-rivalry-women-employment-in-management/)
 + [Simulation to understand two kinds of measurement error in regression](https://statmodeling.stat.columbia.edu/2024/04/14/simulation-to-understand-measurement-error-in-regression/)
