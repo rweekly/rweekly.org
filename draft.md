@@ -11,7 +11,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-
++ [Kicking tyres](https://www.hiddenelephants.co.uk/Blog/kicking-tyres.html) - Having a play with **duckplyr**.
 
 ### Insights
 
