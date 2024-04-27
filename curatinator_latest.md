@@ -1,7 +1,6 @@
 # RSS POSTS: ##
 
 + [mlsauce’s `v0.13.0`: taking into account inputs heterogeneity through clustering](https://thierrymoudiki.github.io/blog/2024/04/21/python/lsboost-clustering)
-+ [simstudy enhancement: specifying idiosyncratic follow-up times for longitudinal data](https://www.rdatagen.net/post/2024-04-16-simstudy-update-specifying-idiosyncratic-follow-up-times-for-longitudinal-data/)
 + [Prehistoric: when do authors preprint their papers?](https://quantixed.org/2024/04/23/prehistoric-when-do-authors-preprint-their-papers/)
 + [Can Money Really Buy Happiness? Or How to Lie with Statistics in Science](https://blog.ephorie.de/can-money-really-buy-happiness-or-how-to-lie-with-statistics-in-science?utm_source=rss&utm_medium=rss&utm_campaign=can-money-really-buy-happiness-or-how-to-lie-with-statistics-in-science)
 + [Mann Whitney U Test in R: A Comprehensive Guide](https://www.marsja.se/mann-whitney-u-test-in-r-a-comprehensive-guide/)
@@ -13,7 +12,6 @@
 + [Building Data Highways: Kirill Müller’s Journey in Enhancing R’s Database](https://www.r-consortium.org/blog/2024/04/18/building-data-highways-kirill-mullers-journey-in-enhancing-rs-database)
 + [RcppSpdlog 0.0.17 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2024/04/26#rcppspdlog_0.0.17)
 + [RQuantLib 0.4.22 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2024/04/25#rquantlib_0.4.22)
-+ [RcppArmadillo 0.12.8.2.1 on CRAN: Micro Fix](http://dirk.eddelbuettel.com/blog/2024/04/16#rcpparmadillo_0.12.8.2.1)
 + [Conducting Simulation Studies in R workshop](https://r-posts.com/conducting-simulation-studies-in-r-workshop/)
 + [Q1 2024 tidymodels digest](https://www.tidyverse.org/blog/2024/04/tidymodels-2024-q1/)
 + [tune 1.2.0](https://www.tidyverse.org/blog/2024/04/tune-1-2-0/)
@@ -21,7 +19,6 @@
 + [KNN vs. XGBoost Rivalry: Women Employment in Management](https://datageeek.com/2024/04/18/knn-vs-xgboost-rivalry-women-employment-in-management/)
 + [{emayili} Support for Mailtrap](https://datawookie.dev/blog/2024/04/emayili-support-for-mailtrap/)
 + [Asset Allocation](https://datawookie.dev/blog/2024/04/asset-allocation/)
-+ [Parameter Constraints & Significance](https://datawookie.dev/blog/2024/04/parameter-constraints/)
 + [Grammar as a biometric for Authorship Verification](https://vgherard.github.io/posts/2024-04-25-grammar-as-a-biometric-for-authorship-verification)
 + [R on 64-bit ARM Windows](https://blog.r-project.org/2024/04/23/r-on-64-bit-arm-windows/)
 + [Exploring strsplit() with Multiple Delimiters in R](https://www.spsanderson.com/steveondata/posts/2024-04-26/index.html)
@@ -30,17 +27,18 @@
 + [Checking Row Existence Across Data Frames in R](https://www.spsanderson.com/steveondata/posts/2024-04-19/index.html)
 + [Extracting the Last N’th Row in R Data Frames](https://www.spsanderson.com/steveondata/posts/2024-04-18/index.html)
 + [A Guide to Selecting Rows with NA Values in R Using Base R](https://www.spsanderson.com/steveondata/posts/2024-04-17/index.html)
-+ [Selecting Rows with Specific Values: Exploring Options in R](https://www.spsanderson.com/steveondata/posts/2024-04-16/index.html)
 + [3MW (Why you should use RStudio projects)](https://3mw.albert-rapp.de/p/rstudio-projects)
 + [3MW (Hosting HTML files)](https://3mw.albert-rapp.de/p/3mw-hosting-html-files)
-+ [Masterclass: Data Cleaning with R](https://3mw.albert-rapp.de/p/data-cleaning-masterclass)
 + [R Highcharts: How to Make Interactive Maps for R and R Shiny](https://www.appsilon.com/post/r-highcharts-maps)
 + [R Shiny Highcharts - How to Create Interactive and Animated Shiny Dashboards](https://www.appsilon.com/post/r-shiny-highcharts)
-+ [R Highcharts Drilldown - How to Create Animated and Interactive Drilldown Charts in R](https://www.appsilon.com/post/r-highcharts-drilldown)
 + [Create engaging tables with R or Python using {gt}](https://albert-rapp.de/posts/22_gt_py_and_r/22_gt_py_and_r.html)
 # CRANberries UPDATED: ##
-+ [{dndR} 1.3.1](https://cran.r-project.org/package=dndR): Dungeons & Dragons Functions for Players and Dungeon Masters - [diffify](https://diffify.com/R/dndR)
-+ [{cpfa} 1.1-3](https://cran.r-project.org/package=cpfa): Classification with Parallel Factor Analysis - [diffify](https://diffify.com/R/cpfa)
++ [{flexclust} 1.4-2](https://cran.r-project.org/package=flexclust): Flexible Cluster Algorithms - [diffify](https://diffify.com/R/flexclust)
++ [{audubon} 0.5.2](https://cran.r-project.org/package=audubon): Japanese Text Processing Tools - [diffify](https://diffify.com/R/audubon)
++ [{activAnalyzer} 2.1.0](https://cran.r-project.org/package=activAnalyzer): A 'Shiny' App to Analyze Accelerometer-Measured Daily Physical
+Behavior Data - [diffify](https://diffify.com/R/activAnalyzer)
++ [{dndR} 2.0.0](https://cran.r-project.org/package=dndR): Dungeons & Dragons Functions for Players and Dungeon Masters - [diffify](https://diffify.com/R/dndR)
++ [{cpfa} 1.1-4](https://cran.r-project.org/package=cpfa): Classification with Parallel Factor Analysis - [diffify](https://diffify.com/R/cpfa)
 + [{svrep} 0.6.4](https://cran.r-project.org/package=svrep): Tools for Creating, Updating, and Analyzing Survey Replicate
 Weights - [diffify](https://diffify.com/R/svrep)
 + [{tth} 4.16-0](https://cran.r-project.org/package=tth): TeX-to-HTML/MathML Translators TtH/TtM - [diffify](https://diffify.com/R/tth)
@@ -277,9 +275,6 @@ Effects - [diffify](https://diffify.com/R/CRE)
 + [{origin} 1.1.2](https://cran.r-project.org/package=origin): Explicitly Qualifying Namespaces by Automatically Adding 'pkg::'
 to Functions - [diffify](https://diffify.com/R/origin)
 + [{DanielBiostatistics10th} 0.2.1](https://cran.r-project.org/package=DanielBiostatistics10th): Functions for Wayne W. Daniel's Biostatistics, Tenth Edition - [diffify](https://diffify.com/R/DanielBiostatistics10th)
-+ [{ThomasJeffersonUniv} 0.1.1](https://cran.r-project.org/package=ThomasJeffersonUniv): Handy Tools for TJU/TJUH Employees - [diffify](https://diffify.com/R/ThomasJeffersonUniv)
-+ [{micromapST} 3.0.3](https://cran.r-project.org/package=micromapST): Linked Micromap Plots for U. S. and Other Geographic Areas - [diffify](https://diffify.com/R/micromapST)
-+ [{streamMOA} 1.3-1](https://cran.r-project.org/package=streamMOA): Interface for MOA Stream Clustering Algorithms - [diffify](https://diffify.com/R/streamMOA)
 # CRANberries NEW: ##
 + [{MDMA} 1.1.0](https://cran.r-project.org/package=MDMA): Mathijs Deen's Miscellaneous Auxiliaries
 + [{epigrowthfit} 0.15.2](https://cran.r-project.org/package=epigrowthfit): Nonlinear Mixed Effects Models of Epidemic Growth
@@ -367,26 +362,3 @@ Structures
 + [{gfunctions} 1.0](https://cran.r-project.org/package=gfunctions): G-Functions
 + [{filters} 0.3.1](https://cran.r-project.org/package=filters): A "Snake_case" Filter System for R
 + [{DataPackageR} 0.15.9](https://cran.r-project.org/package=DataPackageR): Construct Reproducible Analytic Data Sets as R Packages
-Discrete Event Models
-+ [{Paris2024Colours} 0.1.2](https://cran.r-project.org/package=Paris2024Colours): Color Palettes Inspired by Paris 2024 Olympic and Paralympic
-Games
-+ [{CohortCharacteristics} 0.1.0](https://cran.r-project.org/package=CohortCharacteristics): Summarise and Visualise Characteristics of Patients in the OMOP
-CDM
-+ [{bolsec} 0.1.1](https://cran.r-project.org/package=bolsec): Bolivian Securities
-+ [{mlr3resampling} 2024.4.14](https://cran.r-project.org/package=mlr3resampling): Resampling Algorithms for 'mlr3' Framework
-+ [{T2DFitTailor} 3.0.0](https://cran.r-project.org/package=T2DFitTailor): Tailor the Exercise Plans and Visualize the Outcome for T2D
-Patients
-+ [{ssMutPA} 0.1.0](https://cran.r-project.org/package=ssMutPA): Single-Sample Mutation-Based Pathway Analysis
-+ [{SPUTNIK} 1.4.2](https://cran.r-project.org/package=SPUTNIK): Spatially Automatic Denoising for Imaging Mass Spectrometry
-Toolkit
-+ [{spatstat.univar} 2.0-2](https://cran.r-project.org/package=spatstat.univar): One-Dimensional Probability Distribution Support for the
-'spatstat' Family
-+ [{PWEV} 0.1.0](https://cran.r-project.org/package=PWEV): PSO Based Weighted Ensemble Algorithm for Volatility Modelling
-+ [{newIMVC} 0.1.0](https://cran.r-project.org/package=newIMVC): A Robust Integrated Mean Variance Correlation
-+ [{ready4} 0.1.9](https://cran.r-project.org/package=ready4): Implement Modular and Open-Source Health Economic Models
-+ [{yodel} 1.0.0](https://cran.r-project.org/package=yodel): A General Bayesian Model Averaging Helper
-+ [{vectorsurvR} 0.1.0](https://cran.r-project.org/package=vectorsurvR): Data Access and Analytical Tools for 'VectorSurv' Users
-+ [{norMmix} 0.1-1](https://cran.r-project.org/package=norMmix): Direct MLE for Multivariate Normal Mixture Distributions
-+ [{cardinalR} 0.1.1](https://cran.r-project.org/package=cardinalR): Collection of Data Structures
-+ [{mapmisc} 2.1.0](https://cran.r-project.org/package=mapmisc): Utilities for Producing Maps
-+ [{fastcpd} 0.14.3](https://cran.r-project.org/package=fastcpd): Fast Change Point Detection via Sequential Gradient Descent
