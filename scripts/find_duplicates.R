@@ -5,7 +5,8 @@ acceptable_dups <- function() {
     "http://developer.r-project.org/blosxom.cgi/R-devel/NEWS",
     "https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly",
     "https://r-universe.dev/search/",
-    "https://rweekly.fireside.fm/"
+    "https://rweekly.fireside.fm/",
+    "https://serve.podhome.fm/r-weekly-highlights"
   )
 }
 
