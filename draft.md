@@ -57,7 +57,7 @@ Event Profiles
 
 + [{plotcli} 0.1.0](https://cran.r-project.org/package=plotcli): Command Line Interface Plotting
 
-![](https://raw.githubusercontent.com/rweekly/image/master/2024/W18/boxplot_600.png)
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W18/boxplot_600.jpg)
 
 + [{mlr3summary} 0.1.0](https://cran.r-project.org/package=mlr3summary): Model and Learner Summaries for 'mlr3'
 
