@@ -267,13 +267,13 @@ Events in 3 Months:
 
 ### rtistry
 
-+ https://strangeobject.space/@esther/112288226173591286
+<iframe src="https://strangeobject.space/@esther/112288226173591286/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="650" allowfullscreen="allowfullscreen"></iframe><script src="https://strangeobject.space/embed.js" async="async"></script>
 
 
 ### Quotes of the Week
 
 <iframe src="https://fediscience.org/@andrew/112339319080184378/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://fediscience.org/embed.js" async="async"></script>
 
-<iframe src="https://fosstodon.org/@Lluis_Revilla/112337947403294847/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+<iframe src="https://fosstodon.org/@Lluis_Revilla/112337947403294847/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="500" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
 
-<iframe src="https://fosstodon.org/@michaelchirico/112316213313971728/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+<iframe src="https://fosstodon.org/@michaelchirico/112316213313971728/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="500" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
