@@ -27,10 +27,6 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 + [Bridging Gaps: Tunis R User Group’s Journey in Democratizing R in Bioinformatics](https://www.r-consortium.org/blog/2024/04/26/bridging-gaps-tunis-r-user-groups-journey-in-democratizing-r-in-bioinformatics)
 
-
-### R in Organizations
-
-
 ### R in Academia
 
 + [Prehistoric: when do authors preprint their papers?](https://quantixed.org/2024/04/23/prehistoric-when-do-authors-preprint-their-papers/)
@@ -74,14 +70,6 @@ Event Profiles
 + [{CreditRisk} 0.1.7](https://cran.r-project.org/package=CreditRisk): Evaluation of Credit Risk with Structural and Reduced Form
 
 + [{yodel} 1.0.0](https://cran.r-project.org/package=yodel): A General Bayesian Model Averaging Helper
-
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
 
 
 ### Updated Packages
@@ -206,8 +194,6 @@ OpenSSL - [diffify](https://diffify.com/R/openssl)
 
 + [Educational attainment in #TidyTuesday UK towns](https://juliasilge.com/blog/educational-attainment/)
 
-
-
 ### Gist & Cookbook
 
 + [Hrafnagud-Dynamo API - Deepansh Khurana's custom API of personal data analysis and collection](https://github.com/DeepanshKhurana/Hrafnagud-Dynamo)
@@ -225,10 +211,6 @@ OpenSSL - [diffify](https://diffify.com/R/openssl)
 + [ASTHO Profile of State and Territorial Public Health](https://astho.shinyapps.io/profile/)
 
 + [RRR - Shorten URLs](https://rrr.is/)
-
-### R Internationally
-
-
 
 ### Tutorials
 
@@ -279,27 +261,19 @@ Events in 3 Months:
 
 + [SatRdays London 2024: Registration Closing Soon](https://www.jumpingrivers.com/blog/satrdays-london-2024-registration-closing/)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Jobs
 
 <i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
 
 ### rtistry
 
++ https://strangeobject.space/@esther/112288226173591286
+
 
 ### Quotes of the Week
 
-+ https://fediscience.org/@andrew/112339319080184378
+<iframe src="https://fediscience.org/@andrew/112339319080184378/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://fediscience.org/embed.js" async="async"></script>
 
-+ https://fosstodon.org/@Lluis_Revilla/112337947403294847
+<iframe src="https://fosstodon.org/@Lluis_Revilla/112337947403294847/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
 
-+ https://mastodon.social/@hrbrmstr/112331870837930486
-
-+ https://fosstodon.org/@michaelchirico/112316213313971728
-
-+ https://mastodon.social/@eliocamp/112324714235007537
+<iframe src="https://fosstodon.org/@michaelchirico/112316213313971728/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
