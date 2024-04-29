@@ -29,6 +29,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Academia
 
+### International R
+
++ [Programación práctica con R](https://davidrsch.github.io/hopres/): Comienza tu aventura de la ciencia de datos con esta traducción de "Programación Práctica con R" un libro de Garrett Grolemund publicado con el que exploraras con ejemplos los aspectos básicos de programr con R.
 
 
 ### Resources
