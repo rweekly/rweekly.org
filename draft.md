@@ -113,9 +113,9 @@ Events in 3 Months:
 ### Datasets
 
 
-### Jobs
+### Connect
 
-<i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
+<i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
 ### rtistry
 
