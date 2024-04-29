@@ -56,6 +56,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{pathfindR} 2.4.0](https://cran.r-project.org/package=pathfindR): Enrichment Analysis Utilizing Active Subnetworks - [diffify](https://diffify.com/R/pathfindR)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
