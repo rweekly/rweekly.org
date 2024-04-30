@@ -17,11 +17,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-<<<<<<< HEAD
+
 + [R-Bitrary Code Execution: Vulnerability in R’s deserialization](https://hiddenlayer.com/research/r-bitrary-code-execution/)
 
-=======
->>>>>>> 6bad7028 (Everything you never wanted to know about the R vulnerability)
 + [Everything you never wanted to know about the R vulnerability](https://aitap.github.io/2024/05/02/unserialize.html), but shouldn't be afraid to ask
 
 ### R in the Real World
