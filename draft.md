@@ -75,6 +75,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Polyglotr: the translation package for R]([link](https://vusaverse.github.io/posts/Guest_polyglotr.html))
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
