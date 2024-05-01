@@ -22,6 +22,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Everything you never wanted to know about the R vulnerability](https://aitap.github.io/2024/05/02/unserialize.html), but shouldn't be afraid to ask
 
+[R-Bitrary Code Execution: Vulnerability in R’s deserialization](https://hiddenlayer.com/research/r-bitrary-code-execution/#R-Supply-Chain-Attacks)
+
+
 ### R in the Real World
 
 [Bayes Lived Here (Probably)](https://github.com/rweekly/rweekly.org/edit/gh-pages/draft.md)
