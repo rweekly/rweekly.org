@@ -17,7 +17,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+[R-Bitrary Code Execution: Vulnerability in R’s deserialization](https://hiddenlayer.com/research/r-bitrary-code-execution/#R-Supply-Chain-Attacks)
 
 ### R in the Real World
 
