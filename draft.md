@@ -17,7 +17,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Everything you never wanted to know about the R vulnerability](https://aitap.github.io/2024/05/02/unserialize.html), but shouldn't be afraid to ask
 
 ### R in the Real World
 
