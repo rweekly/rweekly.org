@@ -17,6 +17,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [R-Bitrary Code Execution: Vulnerability in R’s deserialization](https://hiddenlayer.com/research/r-bitrary-code-execution/)
+
 + [Everything you never wanted to know about the R vulnerability](https://aitap.github.io/2024/05/02/unserialize.html), but shouldn't be afraid to ask
 
 ### R in the Real World
@@ -29,6 +31,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Academia
 
+### International R
+
++ [Programación práctica con R](https://davidrsch.github.io/hopres/): Comienza tu aventura de la ciencia de datos con esta traducción de "Programación Práctica con R" un libro de Garrett Grolemund publicado con el que exploraras con ejemplos los aspectos básicos de programr con R.
 
 
 ### Resources
@@ -56,6 +61,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{pathfindR} 2.4.0](https://cran.r-project.org/package=pathfindR): Enrichment Analysis Utilizing Active Subnetworks - [diffify](https://diffify.com/R/pathfindR)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
@@ -75,6 +82,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Polyglotr: the translation package for R]([link](https://vusaverse.github.io/posts/Guest_polyglotr.html))
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
