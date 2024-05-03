@@ -28,6 +28,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Highlights from ShinyConf 2024](https://www.appsilon.com/post/shinyconf-2024-recap)
 
++ [CVE-2024-27322 Should Never Have Been Assigned And R Data Files Are Still Super Risky Even In R 4.4.0](https://rud.is/b/2024/05/03/cve-2024-27322-should-never-have-been-assigned-and-r-data-files-are-still-super-risky-even-in-r-4-4-0/)
 
 ### R in the Real World
 
