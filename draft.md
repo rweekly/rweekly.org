@@ -75,7 +75,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
+- [Calculating birthday probabilities with R instead of math](https://www.andrewheiss.com/blog/2024/05/03/birthday-spans-simulation-sans-math/): Probability math is hard. Use brute force simulation to find the probability that a household has a cluster of birthdays.
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
