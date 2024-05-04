@@ -1,364 +1,334 @@
 # RSS POSTS: ##
 
-+ [mlsauce’s `v0.13.0`: taking into account inputs heterogeneity through clustering](https://thierrymoudiki.github.io/blog/2024/04/21/python/lsboost-clustering)
-+ [Prehistoric: when do authors preprint their papers?](https://quantixed.org/2024/04/23/prehistoric-when-do-authors-preprint-their-papers/)
-+ [Can Money Really Buy Happiness? Or How to Lie with Statistics in Science](https://blog.ephorie.de/can-money-really-buy-happiness-or-how-to-lie-with-statistics-in-science?utm_source=rss&utm_medium=rss&utm_campaign=can-money-really-buy-happiness-or-how-to-lie-with-statistics-in-science)
-+ [Mann Whitney U Test in R: A Comprehensive Guide](https://www.marsja.se/mann-whitney-u-test-in-r-a-comprehensive-guide/)
-+ [What's new in R 4.4.0?](https://www.jumpingrivers.com/blog/whats-new-r44/)
-+ [Educational attainment in #TidyTuesday UK towns](https://juliasilge.com/blog/educational-attainment/)
-+ [Proportional Odds Model Power Calculations for Ordinal and Mixed Ordinal/Continuous Outcomes](https://fharrell.com/post/pop/)
-+ [Bridging Gaps: Tunis R User Group’s Journey in Democratizing R in Bioinformatics](https://www.r-consortium.org/blog/2024/04/26/bridging-gaps-tunis-r-user-groups-journey-in-democratizing-r-in-bioinformatics)
-+ [Navigating R’s Impact in Vienna: Insights from the Finance and Pharmaceutical Sectors](https://www.r-consortium.org/blog/2024/04/19/navigating-rs-impact-in-vienna-insights-from-the-finance-and-pharmaceutical-sectors)
-+ [Building Data Highways: Kirill Müller’s Journey in Enhancing R’s Database](https://www.r-consortium.org/blog/2024/04/18/building-data-highways-kirill-mullers-journey-in-enhancing-rs-database)
-+ [RcppSpdlog 0.0.17 on CRAN: New Upstream](http://dirk.eddelbuettel.com/blog/2024/04/26#rcppspdlog_0.0.17)
-+ [RQuantLib 0.4.22 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2024/04/25#rquantlib_0.4.22)
-+ [Conducting Simulation Studies in R workshop](https://r-posts.com/conducting-simulation-studies-in-r-workshop/)
-+ [Q1 2024 tidymodels digest](https://www.tidyverse.org/blog/2024/04/tidymodels-2024-q1/)
-+ [tune 1.2.0](https://www.tidyverse.org/blog/2024/04/tune-1-2-0/)
-+ [News from the sparkly-verse](https://blogs.rstudio.com/tensorflow/posts/2024-04-22-sparklyr-updates)
-+ [KNN vs. XGBoost Rivalry: Women Employment in Management](https://datageeek.com/2024/04/18/knn-vs-xgboost-rivalry-women-employment-in-management/)
-+ [{emayili} Support for Mailtrap](https://datawookie.dev/blog/2024/04/emayili-support-for-mailtrap/)
-+ [Asset Allocation](https://datawookie.dev/blog/2024/04/asset-allocation/)
-+ [Grammar as a biometric for Authorship Verification](https://vgherard.github.io/posts/2024-04-25-grammar-as-a-biometric-for-authorship-verification)
-+ [R on 64-bit ARM Windows](https://blog.r-project.org/2024/04/23/r-on-64-bit-arm-windows/)
-+ [Exploring strsplit() with Multiple Delimiters in R](https://www.spsanderson.com/steveondata/posts/2024-04-26/index.html)
-+ [Simplifying Data Manipulation: How to Drop Columns from Data Frames in R](https://www.spsanderson.com/steveondata/posts/2024-04-25/index.html)
-+ [A Practical Guide to Selecting Top N Values by Group in R](https://www.spsanderson.com/steveondata/posts/2024-04-24/index.html)
-+ [Checking Row Existence Across Data Frames in R](https://www.spsanderson.com/steveondata/posts/2024-04-19/index.html)
-+ [Extracting the Last N’th Row in R Data Frames](https://www.spsanderson.com/steveondata/posts/2024-04-18/index.html)
-+ [A Guide to Selecting Rows with NA Values in R Using Base R](https://www.spsanderson.com/steveondata/posts/2024-04-17/index.html)
-+ [3MW (Why you should use RStudio projects)](https://3mw.albert-rapp.de/p/rstudio-projects)
-+ [3MW (Hosting HTML files)](https://3mw.albert-rapp.de/p/3mw-hosting-html-files)
-+ [R Highcharts: How to Make Interactive Maps for R and R Shiny](https://www.appsilon.com/post/r-highcharts-maps)
-+ [R Shiny Highcharts - How to Create Interactive and Animated Shiny Dashboards](https://www.appsilon.com/post/r-shiny-highcharts)
-+ [Create engaging tables with R or Python using {gt}](https://albert-rapp.de/posts/22_gt_py_and_r/22_gt_py_and_r.html)
++ [mlsauce’s `v0.17.0`: boosting with Elastic Net, polynomials and heterogeneity in explanatory variables](https://thierrymoudiki.github.io/blog/2024/04/29/python/lsboost/lsboost-poly)
++ [Notes on Citing R and R Packages](https://tjmahr.github.io/r-package-citation-notes/)
++ [Visualizing Power Models in Species-Area Relationships Using R Shiny: An Interactive Educational Tool](https://geekcologist.wordpress.com/2024/04/29/visualizing-power-models-in-species-area-relationships-using-r-shiny-an-interactive-educational-tool/)
++ [Embracing AI Governance: Lessons Learned from The Data Boom](https://www.littlemissdata.com/blog/ai-governance)
++ [Pimping your shiny app with a JavaScript library : an example using sweetalert2](https://rtask.thinkr.fr/pimping-your-shiny-app-with-a-javascript-library-an-example-using-sweetalert2/)
++ [Borrowing Information Across Outcomes](https://fharrell.com/post/yborrow/)
++ [R/Medicine is coming June 10-14, 2024 – See Top Five R Medicine Talks from Previous Years](https://www.r-consortium.org/blog/2024/04/30/r-medicine-is-coming-june-10-14-2024-see-top-five-r-medicine-talks-from-previous-years)
++ [Enhancing Clinical Trial Data Sharing with R Consortium’s R Submissions Working Group](https://www.r-consortium.org/blog/2024/04/29/enhancing-clinical-trial-data-sharing-with-r-consortiums-r-submissions-working-group)
++ [RcppInt64 0.0.5 on CRAN: Minor Maintenance](http://dirk.eddelbuettel.com/blog/2024/05/01#rcppint64_0.0.5)
++ [Expenditure-Based and Multivariate Weighted Indices: An R Package to Calculate CPI and Inflation](https://r-posts.com/expenditure-based-and-multivariate-weighted-indices-an-r-package-to-calculate-cpi-and-inflation/)
++ [Learning Path: Shiny](https://mirai-solutions.ch/news/2024/04/29/announce-learning-path-shiny/)
++ [Sketchy waffle charts in R](https://nrennie.rbind.io/blog/sketchy-waffle-charts-r/)
++ [Exploring Data with TidyDensity’s tidy_mcmc_sampling()](https://www.spsanderson.com/steveondata/posts/2024-05-03/)
++ [Estimating Chisquare Parameters with TidyDensity](https://www.spsanderson.com/steveondata/posts/2024-05-02/)
++ [Introducing check_duplicate_rows() from TidyDensity](https://www.spsanderson.com/steveondata/posts/2024-05-01/)
++ [Quantile Normalization in R with the {TidyDensity} Package](https://www.spsanderson.com/steveondata/posts/2024-04-30/)
++ [Introducing TidyDensity Version 1.4.0: Enhancing Data Analysis in R](https://www.spsanderson.com/steveondata/posts/2024-04-29/)
++ [Guest Post: Introducing the polyglotr package](https://vusaverse.github.io/posts/Guest_polyglotr.html)
++ [The IDEs I use](https://drmowinckels.io/blog/2024/ide/)
++ [3MW (Creating apps with R-Shiny)](https://3mw.albert-rapp.de/p/shiny-intro)
++ [Introducing Tapyr: Create and Deploy Enterprise-Ready PyShiny Dashboards with Ease](https://www.appsilon.com/post/introducing-tapyr)
++ [Appsilon Joins the Pharmaverse Council to Advance Open-Source Clinical Reporting](https://www.appsilon.com/post/appsilon-joins-pharmaverse-council)
++ [Highlights from ShinyConf 2024](https://www.appsilon.com/post/shinyconf-2024-recap)
++ [How to interpret and report nonlinear effects from Generalized Additive Models](https://ecogambler.netlify.app/blog/interpreting-gams/)
 # CRANberries UPDATED: ##
-+ [{flexclust} 1.4-2](https://cran.r-project.org/package=flexclust): Flexible Cluster Algorithms - [diffify](https://diffify.com/R/flexclust)
-+ [{audubon} 0.5.2](https://cran.r-project.org/package=audubon): Japanese Text Processing Tools - [diffify](https://diffify.com/R/audubon)
-+ [{activAnalyzer} 2.1.0](https://cran.r-project.org/package=activAnalyzer): A 'Shiny' App to Analyze Accelerometer-Measured Daily Physical
-Behavior Data - [diffify](https://diffify.com/R/activAnalyzer)
-+ [{dndR} 2.0.0](https://cran.r-project.org/package=dndR): Dungeons & Dragons Functions for Players and Dungeon Masters - [diffify](https://diffify.com/R/dndR)
-+ [{cpfa} 1.1-4](https://cran.r-project.org/package=cpfa): Classification with Parallel Factor Analysis - [diffify](https://diffify.com/R/cpfa)
-+ [{svrep} 0.6.4](https://cran.r-project.org/package=svrep): Tools for Creating, Updating, and Analyzing Survey Replicate
-Weights - [diffify](https://diffify.com/R/svrep)
-+ [{tth} 4.16-0](https://cran.r-project.org/package=tth): TeX-to-HTML/MathML Translators TtH/TtM - [diffify](https://diffify.com/R/tth)
-+ [{bindata} 0.9-21](https://cran.r-project.org/package=bindata): Generation of Artificial Binary Data - [diffify](https://diffify.com/R/bindata)
-+ [{windex} 2.0.8](https://cran.r-project.org/package=windex): Analysing Convergent Evolution using the Wheatsheaf Index - [diffify](https://diffify.com/R/windex)
-+ [{SpatialDDLS} 1.0.2](https://cran.r-project.org/package=SpatialDDLS): Deconvolution of Spatial Transcriptomics Data Based on Neural
-Networks - [diffify](https://diffify.com/R/SpatialDDLS)
-+ [{jsTreeR} 2.6.0](https://cran.r-project.org/package=jsTreeR): A Wrapper of the JavaScript Library 'jsTree' - [diffify](https://diffify.com/R/jsTreeR)
-+ [{csdata} 2024.4.26](https://cran.r-project.org/package=csdata): Structural Data for Norway - [diffify](https://diffify.com/R/csdata)
-+ [{blackmarbler} 0.2.0](https://cran.r-project.org/package=blackmarbler): Black Marble Data and Statistics - [diffify](https://diffify.com/R/blackmarbler)
-+ [{basicdrm} 0.3.0](https://cran.r-project.org/package=basicdrm): Fit Hill Dose Response Models - [diffify](https://diffify.com/R/basicdrm)
-+ [{breakfast} 2.4](https://cran.r-project.org/package=breakfast): Methods for Fast Multiple Change-Point/Break-Point Detection and
-Estimation - [diffify](https://diffify.com/R/breakfast)
-+ [{TidyDensity} 1.4.0](https://cran.r-project.org/package=TidyDensity): Functions for Tidy Analysis and Generation of Random Data - [diffify](https://diffify.com/R/TidyDensity)
-+ [{httptest2} 1.1.0](https://cran.r-project.org/package=httptest2): Test Helpers for 'httr2' - [diffify](https://diffify.com/R/httptest2)
-+ [{semhelpinghands} 0.1.11](https://cran.r-project.org/package=semhelpinghands): Helper Functions for Structural Equation Modeling - [diffify](https://diffify.com/R/semhelpinghands)
-+ [{RALSA} 1.4.5](https://cran.r-project.org/package=RALSA): R Analyzer for Large-Scale Assessments - [diffify](https://diffify.com/R/RALSA)
-+ [{comstab} 0.0.3](https://cran.r-project.org/package=comstab): Partitioning the Drivers of Stability of Ecological Communities - [diffify](https://diffify.com/R/comstab)
-+ [{apcluster} 1.4.13](https://cran.r-project.org/package=apcluster): Affinity Propagation Clustering - [diffify](https://diffify.com/R/apcluster)
-+ [{rococo} 1.1.9](https://cran.r-project.org/package=rococo): Robust Rank Correlation Coefficient and Test - [diffify](https://diffify.com/R/rococo)
-+ [{QTLEMM} 1.5.3](https://cran.r-project.org/package=QTLEMM): QTL Mapping and Hotspots Detection - [diffify](https://diffify.com/R/QTLEMM)
-+ [{fastcpd} 0.14.3](https://cran.r-project.org/package=fastcpd): Fast Change Point Detection via Sequential Gradient Descent - [diffify](https://diffify.com/R/fastcpd)
-+ [{YatchewTest} 1.0.2](https://cran.r-project.org/package=YatchewTest): Yatchew (1997), De Chaisemartin & D'Haultfoeuille (2024)
-Linearity Test - [diffify](https://diffify.com/R/YatchewTest)
-+ [{imager} 1.0.1](https://cran.r-project.org/package=imager): Image Processing Library Based on 'CImg' - [diffify](https://diffify.com/R/imager)
-+ [{dendroTools} 1.2.13](https://cran.r-project.org/package=dendroTools): Linear and Nonlinear Methods for Analyzing Daily and Monthly
-Dendroclimatological Data - [diffify](https://diffify.com/R/dendroTools)
-+ [{cmsafvis} 1.2.6](https://cran.r-project.org/package=cmsafvis): Tools to Visualize CM SAF NetCDF Data - [diffify](https://diffify.com/R/cmsafvis)
-+ [{FastGaSP} 0.5.3](https://cran.r-project.org/package=FastGaSP): Fast and Exact Computation of Gaussian Stochastic Process - [diffify](https://diffify.com/R/FastGaSP)
-+ [{cmsafops} 1.4.0](https://cran.r-project.org/package=cmsafops): Tools for CM SAF NetCDF Data - [diffify](https://diffify.com/R/cmsafops)
-+ [{arulesViz} 1.5.3](https://cran.r-project.org/package=arulesViz): Visualizing Association Rules and Frequent Itemsets - [diffify](https://diffify.com/R/arulesViz)
-+ [{UBCRM} 1.0.3](https://cran.r-project.org/package=UBCRM): Simulate and Conduct Dose-Escalation Phase I Studies - [diffify](https://diffify.com/R/UBCRM)
-+ [{stplanr} 1.2.0](https://cran.r-project.org/package=stplanr): Sustainable Transport Planning - [diffify](https://diffify.com/R/stplanr)
-+ [{RcppSpdlog} 0.0.17](https://cran.r-project.org/package=RcppSpdlog): R and C++ Interfaces to 'spdlog' C++ Header Library for Logging - [diffify](https://diffify.com/R/RcppSpdlog)
-+ [{LearnPCA} 0.3.4](https://cran.r-project.org/package=LearnPCA): Functions, Data Sets and Vignettes to Aid in Learning Principal
-Components Analysis (PCA) - [diffify](https://diffify.com/R/LearnPCA)
-+ [{CausalQueries} 1.1.1](https://cran.r-project.org/package=CausalQueries): Make, Update, and Query Binary Causal Models - [diffify](https://diffify.com/R/CausalQueries)
-+ [{SpaDES.core} 2.0.5](https://cran.r-project.org/package=SpaDES.core): Core Utilities for Developing and Running Spatially Explicit
-Discrete Event Models - [diffify](https://diffify.com/R/SpaDES.core)
-+ [{CAST} 1.0.1](https://cran.r-project.org/package=CAST): 'caret' Applications for Spatial-Temporal Models - [diffify](https://diffify.com/R/CAST)
-+ [{sfsmisc} 1.1-18](https://cran.r-project.org/package=sfsmisc): Utilities from 'Seminar fuer Statistik' ETH Zurich - [diffify](https://diffify.com/R/sfsmisc)
-+ [{TwoWayFEWeights} 2.0.3](https://cran.r-project.org/package=TwoWayFEWeights): Estimation of the Weights Attached to the Two-Way Fixed Effects
-Regressions - [diffify](https://diffify.com/R/TwoWayFEWeights)
-+ [{runMCMCbtadjust} 1.1.0](https://cran.r-project.org/package=runMCMCbtadjust): Runs Monte Carlo Markov Chain - With Either 'JAGS', 'nimble' or
-'greta' - While Adjusting Burn-in and Thinning Parameters - [diffify](https://diffify.com/R/runMCMCbtadjust)
-+ [{L1centrality} 0.1.1](https://cran.r-project.org/package=L1centrality): Graph/Network Analysis Based on L1 Centrality - [diffify](https://diffify.com/R/L1centrality)
-+ [{RepeatedHighDim} 2.3.0](https://cran.r-project.org/package=RepeatedHighDim): Methods for High-Dimensional Repeated Measures Data - [diffify](https://diffify.com/R/RepeatedHighDim)
-+ [{MoNAn} 1.0.0](https://cran.r-project.org/package=MoNAn): Mobility Network Analysis - [diffify](https://diffify.com/R/MoNAn)
-+ [{fs} 1.6.4](https://cran.r-project.org/package=fs): Cross-Platform File System Operations Based on 'libuv' - [diffify](https://diffify.com/R/fs)
-+ [{CoTiMA} 0.8.0](https://cran.r-project.org/package=CoTiMA): Continuous Time Meta-Analysis ('CoTiMA') - [diffify](https://diffify.com/R/CoTiMA)
-+ [{RQuantLib} 0.4.22](https://cran.r-project.org/package=RQuantLib): R Interface to the 'QuantLib' Library - [diffify](https://diffify.com/R/RQuantLib)
-+ [{nnlib2Rcpp} 0.2.6](https://cran.r-project.org/package=nnlib2Rcpp): A Tool for Creating Custom Neural Networks in C++ and using Them
-in R - [diffify](https://diffify.com/R/nnlib2Rcpp)
-+ [{frscore} 0.4.0](https://cran.r-project.org/package=frscore): Functions for Calculating Fit-Robustness of CNA-Solutions - [diffify](https://diffify.com/R/frscore)
-+ [{BIFIEsurvey} 3.6-6](https://cran.r-project.org/package=BIFIEsurvey): Tools for Survey Statistics in Educational Assessment - [diffify](https://diffify.com/R/BIFIEsurvey)
-+ [{stringmagic} 1.1.1](https://cran.r-project.org/package=stringmagic): Character String Operations and Interpolation, Magic Edition - [diffify](https://diffify.com/R/stringmagic)
-+ [{polle} 1.4](https://cran.r-project.org/package=polle): Policy Learning - [diffify](https://diffify.com/R/polle)
-+ [{xopen} 1.0.1](https://cran.r-project.org/package=xopen): Open System Files, 'URLs', Anything - [diffify](https://diffify.com/R/xopen)
-+ [{Umatrix} 4.0](https://cran.r-project.org/package=Umatrix): Visualization of Structures in High-Dimensional Data - [diffify](https://diffify.com/R/Umatrix)
-+ [{statConfR} 0.1.1](https://cran.r-project.org/package=statConfR): Models of Decision Confidence and Metacognition - [diffify](https://diffify.com/R/statConfR)
-+ [{admix} 2.1-3](https://cran.r-project.org/package=admix): Package Admix for Admixture (aka Contamination) Models - [diffify](https://diffify.com/R/admix)
-+ [{webfakes} 1.3.1](https://cran.r-project.org/package=webfakes): Fake Web Apps for HTTP Testing - [diffify](https://diffify.com/R/webfakes)
-+ [{RStoolbox} 1.0.0](https://cran.r-project.org/package=RStoolbox): Remote Sensing Data Analysis - [diffify](https://diffify.com/R/RStoolbox)
-+ [{secretbase} 0.5.0](https://cran.r-project.org/package=secretbase): Cryptographic Hash and Extendable-Output Functions - [diffify](https://diffify.com/R/secretbase)
-+ [{debugme} 1.2.0](https://cran.r-project.org/package=debugme): Debug R Packages - [diffify](https://diffify.com/R/debugme)
-+ [{finbif} 0.9.6](https://cran.r-project.org/package=finbif): Interface for the 'Finnish Biodiversity Information Facility'
-API - [diffify](https://diffify.com/R/finbif)
-+ [{StanHeaders} 2.32.7](https://cran.r-project.org/package=StanHeaders): C++ Header Files for Stan - [diffify](https://diffify.com/R/StanHeaders)
-+ [{GPBayes} 0.1.0-6](https://cran.r-project.org/package=GPBayes): Tools for Gaussian Process Modeling in Uncertainty
-Quantification - [diffify](https://diffify.com/R/GPBayes)
-+ [{chevron} 0.2.6](https://cran.r-project.org/package=chevron): Standard TLGs for Clinical Trials Reporting - [diffify](https://diffify.com/R/chevron)
-+ [{applicable} 0.1.1](https://cran.r-project.org/package=applicable): A Compilation of Applicability Domain Methods - [diffify](https://diffify.com/R/applicable)
-+ [{causact} 0.5.5](https://cran.r-project.org/package=causact): Fast, Easy, and Visual Bayesian Inference - [diffify](https://diffify.com/R/causact)
-+ [{cranlike} 1.0.3](https://cran.r-project.org/package=cranlike): Tools for 'CRAN'-Like Repositories - [diffify](https://diffify.com/R/cranlike)
-+ [{clinDataReview} 1.5.1](https://cran.r-project.org/package=clinDataReview): Clinical Data Review Tool - [diffify](https://diffify.com/R/clinDataReview)
-+ [{cliapp} 0.1.2](https://cran.r-project.org/package=cliapp): Create Rich Command Line Applications - [diffify](https://diffify.com/R/cliapp)
-+ [{riskscores} 1.1.1](https://cran.r-project.org/package=riskscores): Optimized Integer Risk Score Models - [diffify](https://diffify.com/R/riskscores)
-+ [{brio} 1.1.5](https://cran.r-project.org/package=brio): Basic R Input Output - [diffify](https://diffify.com/R/brio)
-+ [{SIHR} 2.1.0](https://cran.r-project.org/package=SIHR): Statistical Inference in High Dimensional Regression - [diffify](https://diffify.com/R/SIHR)
-+ [{mongolite} 2.8.0](https://cran.r-project.org/package=mongolite): Fast and Simple 'MongoDB' Client for R - [diffify](https://diffify.com/R/mongolite)
-+ [{xslt} 1.4.5](https://cran.r-project.org/package=xslt): Extensible Style-Sheet Language Transformations - [diffify](https://diffify.com/R/xslt)
-+ [{gslnls} 1.3.0](https://cran.r-project.org/package=gslnls): GSL Multi-Start Nonlinear Least-Squares Fitting - [diffify](https://diffify.com/R/gslnls)
-+ [{GeDS} 0.2.2](https://cran.r-project.org/package=GeDS): Geometrically Designed Spline Regression - [diffify](https://diffify.com/R/GeDS)
-+ [{traudem} 1.0.3](https://cran.r-project.org/package=traudem): Use TauDEM - [diffify](https://diffify.com/R/traudem)
-+ [{SimDesign} 2.15.1](https://cran.r-project.org/package=SimDesign): Structure for Organizing Monte Carlo Simulation Designs - [diffify](https://diffify.com/R/SimDesign)
-+ [{shinyWidgets} 0.8.6](https://cran.r-project.org/package=shinyWidgets): Custom Inputs Widgets for Shiny - [diffify](https://diffify.com/R/shinyWidgets)
-+ [{Rtwobitlib} 0.3.6](https://cran.r-project.org/package=Rtwobitlib): '2bit' 'C' Library - [diffify](https://diffify.com/R/Rtwobitlib)
-+ [{luajr} 0.1.7](https://cran.r-project.org/package=luajr): 'LuaJIT' Scripting - [diffify](https://diffify.com/R/luajr)
-+ [{AcceptReject} 0.1.1](https://cran.r-project.org/package=AcceptReject): Acceptance-Rejection Method for Generating Pseudo-Random
-Observations - [diffify](https://diffify.com/R/AcceptReject)
-+ [{quanteda} 4.0.2](https://cran.r-project.org/package=quanteda): Quantitative Analysis of Textual Data - [diffify](https://diffify.com/R/quanteda)
-+ [{Qindex.data} 0.1.1](https://cran.r-project.org/package=Qindex.data): Data for Package 'Qindex' - [diffify](https://diffify.com/R/Qindex.data)
-+ [{nimbleAPT} 1.0.6](https://cran.r-project.org/package=nimbleAPT): Adaptive Parallel Tempering for 'NIMBLE' - [diffify](https://diffify.com/R/nimbleAPT)
-+ [{mlr3} 0.19.0](https://cran.r-project.org/package=mlr3): Machine Learning in R - Next Generation - [diffify](https://diffify.com/R/mlr3)
-+ [{IRR2FPR} 0.1.1](https://cran.r-project.org/package=IRR2FPR): Computing False Positive Rate from Inter-Rater Reliability - [diffify](https://diffify.com/R/IRR2FPR)
-+ [{crew.cluster} 0.3.1](https://cran.r-project.org/package=crew.cluster): Crew Launcher Plugins for Traditional High-Performance Computing
-Clusters - [diffify](https://diffify.com/R/crew.cluster)
-+ [{crew} 0.9.2](https://cran.r-project.org/package=crew): A Distributed Worker Launcher Framework - [diffify](https://diffify.com/R/crew)
-+ [{ShinyItemAnalysis} 1.5.1](https://cran.r-project.org/package=ShinyItemAnalysis): Test and Item Analysis via Shiny - [diffify](https://diffify.com/R/ShinyItemAnalysis)
-+ [{keyATM} 0.5.2](https://cran.r-project.org/package=keyATM): Keyword Assisted Topic Models - [diffify](https://diffify.com/R/keyATM)
-+ [{tipsae} 1.0.1](https://cran.r-project.org/package=tipsae): Tools for Handling Indices and Proportions in Small Area
-Estimation - [diffify](https://diffify.com/R/tipsae)
-+ [{anticlust} 0.8.3](https://cran.r-project.org/package=anticlust): Subset Partitioning via Anticlustering - [diffify](https://diffify.com/R/anticlust)
-+ [{spc} 0.6.8](https://cran.r-project.org/package=spc): Statistical Process Control -- Calculation of ARL and Other
-Control Chart Performance Measures - [diffify](https://diffify.com/R/spc)
-+ [{segclust2d} 0.3.3](https://cran.r-project.org/package=segclust2d): Bivariate Segmentation/Clustering Methods and Tools - [diffify](https://diffify.com/R/segclust2d)
-+ [{survival} 3.6-4](https://cran.r-project.org/package=survival): Survival Analysis - [diffify](https://diffify.com/R/survival)
-+ [{packageRank} 0.9.0](https://cran.r-project.org/package=packageRank): Computation and Visualization of Package Download Counts and
-Percentiles - [diffify](https://diffify.com/R/packageRank)
-+ [{nhanesA} 1.1](https://cran.r-project.org/package=nhanesA): NHANES Data Retrieval - [diffify](https://diffify.com/R/nhanesA)
-+ [{moderate.mediation} 0.0.9](https://cran.r-project.org/package=moderate.mediation): Causal Moderated Mediation Analysis - [diffify](https://diffify.com/R/moderate.mediation)
-+ [{AgroR} 1.3.6](https://cran.r-project.org/package=AgroR): Experimental Statistics and Graphics for Agricultural Sciences - [diffify](https://diffify.com/R/AgroR)
-+ [{pedbp} 2.0.0](https://cran.r-project.org/package=pedbp): Pediatric Blood Pressure - [diffify](https://diffify.com/R/pedbp)
-+ [{SimInf} 9.7.0](https://cran.r-project.org/package=SimInf): A Framework for Data-Driven Stochastic Disease Spread
-Simulations - [diffify](https://diffify.com/R/SimInf)
-+ [{rphylopic} 1.4.0](https://cran.r-project.org/package=rphylopic): Get Silhouettes of Organisms from PhyloPic - [diffify](https://diffify.com/R/rphylopic)
-+ [{pomdp} 1.2.2](https://cran.r-project.org/package=pomdp): Infrastructure for Partially Observable Markov Decision
-Processes (POMDP) - [diffify](https://diffify.com/R/pomdp)
-+ [{mlr3pipelines} 0.5.2](https://cran.r-project.org/package=mlr3pipelines): Preprocessing Operators and Pipelines for 'mlr3' - [diffify](https://diffify.com/R/mlr3pipelines)
-+ [{flightsbr} 0.4.1](https://cran.r-project.org/package=flightsbr): Download Flight and Airport Data from Brazil - [diffify](https://diffify.com/R/flightsbr)
-+ [{collpcm} 1.4](https://cran.r-project.org/package=collpcm): Collapsed Latent Position Cluster Model for Social Networks - [diffify](https://diffify.com/R/collpcm)
-+ [{clinUtils} 0.1.5](https://cran.r-project.org/package=clinUtils): General Utility Functions for Analysis of Clinical Data - [diffify](https://diffify.com/R/clinUtils)
-+ [{Amelia} 1.8.2](https://cran.r-project.org/package=Amelia): A Program for Missing Data - [diffify](https://diffify.com/R/Amelia)
-+ [{rapiclient} 0.1.4](https://cran.r-project.org/package=rapiclient): Dynamic OpenAPI/Swagger Client - [diffify](https://diffify.com/R/rapiclient)
-+ [{ips} 0.0.12](https://cran.r-project.org/package=ips): Interfaces to Phylogenetic Software in R - [diffify](https://diffify.com/R/ips)
-+ [{RTMB} 1.5](https://cran.r-project.org/package=RTMB): 'R' Bindings for 'TMB' - [diffify](https://diffify.com/R/RTMB)
-+ [{L1pack} 0.41-245](https://cran.r-project.org/package=L1pack): Routines for L1 Estimation - [diffify](https://diffify.com/R/L1pack)
-+ [{emayili} 0.8.0](https://cran.r-project.org/package=emayili): Send Email Messages - [diffify](https://diffify.com/R/emayili)
-+ [{randtests} 1.0.2](https://cran.r-project.org/package=randtests): Testing Randomness in R - [diffify](https://diffify.com/R/randtests)
-+ [{madshapR} 1.1.0](https://cran.r-project.org/package=madshapR): Support Technical Processes Following 'Maelstrom Research'
-Standards - [diffify](https://diffify.com/R/madshapR)
-+ [{CptNonPar} 0.2.1](https://cran.r-project.org/package=CptNonPar): Nonparametric Change Point Detection for Multivariate Time
-Series - [diffify](https://diffify.com/R/CptNonPar)
-+ [{WordListsAnalytics} 0.2.1](https://cran.r-project.org/package=WordListsAnalytics): Multiple Data Analysis Tools for Property Listing Tasks - [diffify](https://diffify.com/R/WordListsAnalytics)
-+ [{labelled} 2.13.0](https://cran.r-project.org/package=labelled): Manipulating Labelled Data - [diffify](https://diffify.com/R/labelled)
-+ [{grattanInflators} 0.5.3](https://cran.r-project.org/package=grattanInflators): Inflators for Australian Policy Analysis - [diffify](https://diffify.com/R/grattanInflators)
-+ [{DIDmultiplegtDYN} 1.0.8](https://cran.r-project.org/package=DIDmultiplegtDYN): Estimation in Difference-in-Difference Designs with Multiple
-Groups and Periods - [diffify](https://diffify.com/R/DIDmultiplegtDYN)
-+ [{vdg} 1.2.3](https://cran.r-project.org/package=vdg): Variance Dispersion Graphs and Fraction of Design Space Plots - [diffify](https://diffify.com/R/vdg)
-+ [{FjordLight} 0.8](https://cran.r-project.org/package=FjordLight): Available Light Within the Water Column and Seafloor of Arctic
-Fjords - [diffify](https://diffify.com/R/FjordLight)
-+ [{SIAmodules} 0.1.1](https://cran.r-project.org/package=SIAmodules): Modules for 'ShinyItemAnalysis' - [diffify](https://diffify.com/R/SIAmodules)
-+ [{scGate} 1.6.2](https://cran.r-project.org/package=scGate): Marker-Based Cell Type Purification for Single-Cell Sequencing
-Data - [diffify](https://diffify.com/R/scGate)
-+ [{qspray} 3.0.0](https://cran.r-project.org/package=qspray): Multivariate Polynomials with Rational Coefficients - [diffify](https://diffify.com/R/qspray)
-+ [{NMdata} 0.1.6](https://cran.r-project.org/package=NMdata): Preparation, Checking and Post-Processing Data for PK/PD
-Modeling - [diffify](https://diffify.com/R/NMdata)
-+ [{evd} 2.3-7](https://cran.r-project.org/package=evd): Functions for Extreme Value Distributions - [diffify](https://diffify.com/R/evd)
-+ [{syt} 0.4.0](https://cran.r-project.org/package=syt): Young Tableaux - [diffify](https://diffify.com/R/syt)
-+ [{shinyDatetimePickers} 1.2.0](https://cran.r-project.org/package=shinyDatetimePickers): Some Datetime Pickers for 'Shiny' - [diffify](https://diffify.com/R/shinyDatetimePickers)
-+ [{MAGEE} 1.4.0](https://cran.r-project.org/package=MAGEE): Mixed Model Association Test for GEne-Environment Interaction - [diffify](https://diffify.com/R/MAGEE)
-+ [{kantorovich} 3.2.0](https://cran.r-project.org/package=kantorovich): Kantorovich Distance Between Probability Measures - [diffify](https://diffify.com/R/kantorovich)
-+ [{greeks} 1.4.2](https://cran.r-project.org/package=greeks): Sensitivities of Prices of Financial Options and Implied
-Volatilities - [diffify](https://diffify.com/R/greeks)
-+ [{ggplot2} 3.5.1](https://cran.r-project.org/package=ggplot2): Create Elegant Data Visualisations Using the Grammar of Graphics - [diffify](https://diffify.com/R/ggplot2)
-+ [{inTrees} 1.4](https://cran.r-project.org/package=inTrees): Interpret Tree Ensembles - [diffify](https://diffify.com/R/inTrees)
-+ [{CCAMLRGIS} 4.0.8](https://cran.r-project.org/package=CCAMLRGIS): Antarctic Spatial Data Manipulation - [diffify](https://diffify.com/R/CCAMLRGIS)
-+ [{VisualizeSimon2Stage} 0.1.4](https://cran.r-project.org/package=VisualizeSimon2Stage): Visualize Simon's Two-Stage Design - [diffify](https://diffify.com/R/VisualizeSimon2Stage)
-+ [{soilDB} 2.8.2](https://cran.r-project.org/package=soilDB): Soil Database Interface - [diffify](https://diffify.com/R/soilDB)
-+ [{wconf} 1.1.0](https://cran.r-project.org/package=wconf): Weighted Confusion Matrix - [diffify](https://diffify.com/R/wconf)
-+ [{tidyterra} 0.6.0](https://cran.r-project.org/package=tidyterra): 'tidyverse' Methods and 'ggplot2' Helpers for 'terra' Objects - [diffify](https://diffify.com/R/tidyterra)
-+ [{text} 1.2.1](https://cran.r-project.org/package=text): Analyses of Text using Transformers Models from HuggingFace,
-Natural Language Processing and Machine Learning - [diffify](https://diffify.com/R/text)
-+ [{SpaTopic} 1.1.0](https://cran.r-project.org/package=SpaTopic): Topic Inference to Identify Tissue Architecture in Multiplexed
-Images - [diffify](https://diffify.com/R/SpaTopic)
-+ [{SNSequate} 1.3-5](https://cran.r-project.org/package=SNSequate): Standard and Nonstandard Statistical Models and Methods for Test
-Equating - [diffify](https://diffify.com/R/SNSequate)
-+ [{shinylight} 1.2](https://cran.r-project.org/package=shinylight): Web Interface to 'R' Functions - [diffify](https://diffify.com/R/shinylight)
-+ [{ruijter} 0.1.3](https://cran.r-project.org/package=ruijter): Technical Data Sets by Ruijter et al. (2013) - [diffify](https://diffify.com/R/ruijter)
-+ [{vermeulen} 0.1.2](https://cran.r-project.org/package=vermeulen): Biomarker Data Set by Vermeulen et al. (2009) - [diffify](https://diffify.com/R/vermeulen)
-+ [{rutledge} 0.1.1](https://cran.r-project.org/package=rutledge): Real-Time PCR Data Sets by Rutledge et al. (2004) - [diffify](https://diffify.com/R/rutledge)
-+ [{RivRetrieve} 0.1.5](https://cran.r-project.org/package=RivRetrieve): Retrieve Global River Gauge Data - [diffify](https://diffify.com/R/RivRetrieve)
-+ [{reticulate} 1.36.1](https://cran.r-project.org/package=reticulate): Interface to 'Python' - [diffify](https://diffify.com/R/reticulate)
-+ [{batsch} 0.1.1](https://cran.r-project.org/package=batsch): Real-Time PCR Data Sets by Batsch et al. (2008) - [diffify](https://diffify.com/R/batsch)
-+ [{EGAnet} 2.0.6](https://cran.r-project.org/package=EGAnet): Exploratory Graph Analysis – a Framework for Estimating the
-Number of Dimensions in Multivariate Data using Network
-Psychometrics - [diffify](https://diffify.com/R/EGAnet)
-+ [{WVPlots} 1.3.8](https://cran.r-project.org/package=WVPlots): Common Plots for Analysis - [diffify](https://diffify.com/R/WVPlots)
-+ [{plsVarSel} 0.9.11](https://cran.r-project.org/package=plsVarSel): Variable Selection in Partial Least Squares - [diffify](https://diffify.com/R/plsVarSel)
-+ [{lares} 5.2.7](https://cran.r-project.org/package=lares): Analytics & Machine Learning Sidekick - [diffify](https://diffify.com/R/lares)
-+ [{gtable} 0.3.5](https://cran.r-project.org/package=gtable): Arrange 'Grobs' in Tables - [diffify](https://diffify.com/R/gtable)
-+ [{BayesMallows} 2.2.1](https://cran.r-project.org/package=BayesMallows): Bayesian Preference Learning with the Mallows Rank Model - [diffify](https://diffify.com/R/BayesMallows)
-+ [{antaresRead} 2.6.1](https://cran.r-project.org/package=antaresRead): Import, Manipulate and Explore the Results of an 'Antares'
-Simulation - [diffify](https://diffify.com/R/antaresRead)
-+ [{WorldMapR} 0.1.1](https://cran.r-project.org/package=WorldMapR): Worldwide or Coordinates-Based Heat Maps - [diffify](https://diffify.com/R/WorldMapR)
-+ [{tidyBdE} 0.3.6](https://cran.r-project.org/package=tidyBdE): Download Data from Bank of Spain - [diffify](https://diffify.com/R/tidyBdE)
-+ [{cheapr} 0.9.0](https://cran.r-project.org/package=cheapr): Simple Functions to Save Time and Memory - [diffify](https://diffify.com/R/cheapr)
-+ [{valr} 0.8.1](https://cran.r-project.org/package=valr): Genome Interval Arithmetic - [diffify](https://diffify.com/R/valr)
-+ [{atime} 2024.4.17](https://cran.r-project.org/package=atime): Asymptotic Timing - [diffify](https://diffify.com/R/atime)
-+ [{xlcharts} 0.0.2](https://cran.r-project.org/package=xlcharts): Create Native 'Excel' Charts and Work with Microsoft 'Excel'
-Files - [diffify](https://diffify.com/R/xlcharts)
-+ [{rocbc} 3.1.0](https://cran.r-project.org/package=rocbc): Statistical Inference for Box-Cox Based Receiver Operating
-Characteristic Curves - [diffify](https://diffify.com/R/rocbc)
-+ [{evreg} 1.0.4](https://cran.r-project.org/package=evreg): Evidential Regression - [diffify](https://diffify.com/R/evreg)
-+ [{diseasystore} 0.2.1](https://cran.r-project.org/package=diseasystore): Feature Stores for the 'diseasy' Framework - [diffify](https://diffify.com/R/diseasystore)
-+ [{sgboost} 0.1.2](https://cran.r-project.org/package=sgboost): Sparse-Group Boosting - [diffify](https://diffify.com/R/sgboost)
-+ [{RainfallErosivityFactor} 1.0.0](https://cran.r-project.org/package=RainfallErosivityFactor): The Rainfall-Runoff Erosivity Factor - [diffify](https://diffify.com/R/RainfallErosivityFactor)
-+ [{lrstat} 0.2.5](https://cran.r-project.org/package=lrstat): Power and Sample Size Calculation for Non-Proportional Hazards
-and Beyond - [diffify](https://diffify.com/R/lrstat)
-+ [{ern} 2.0.0](https://cran.r-project.org/package=ern): Effective Reproduction Number Estimation - [diffify](https://diffify.com/R/ern)
-+ [{LipidomicsR} 0.3.6](https://cran.r-project.org/package=LipidomicsR): Elegant Tools for Processing and Visualization of Lipidomics
-Data - [diffify](https://diffify.com/R/LipidomicsR)
-+ [{fabletools} 0.4.2](https://cran.r-project.org/package=fabletools): Core Tools for Packages in the 'fable' Framework - [diffify](https://diffify.com/R/fabletools)
-+ [{ripc} 0.3.0](https://cran.r-project.org/package=ripc): Download and Tidy IPC and CH Data - [diffify](https://diffify.com/R/ripc)
-+ [{memoiR} 1.2-9](https://cran.r-project.org/package=memoiR): R Markdown and Bookdown Templates to Publish Documents - [diffify](https://diffify.com/R/memoiR)
-+ [{acled.api} 1.1.8](https://cran.r-project.org/package=acled.api): Automated Retrieval of ACLED Conflict Event Data - [diffify](https://diffify.com/R/acled.api)
-+ [{SAiVE} 1.0.5](https://cran.r-project.org/package=SAiVE): Functions Used for SAiVE Group Research, Collaborations, and
++ [{randomNames} 1.6-0.0](https://cran.r-project.org/package=randomNames): Generate Random Given and Surnames - [diffify](https://diffify.com/R/randomNames)
++ [{kit} 0.0.17](https://cran.r-project.org/package=kit): Data Manipulation Functions Implemented in C - [diffify](https://diffify.com/R/kit)
++ [{BiocManager} 1.30.23](https://cran.r-project.org/package=BiocManager): Access the Bioconductor Project Package Repository - [diffify](https://diffify.com/R/BiocManager)
++ [{surveillance} 1.23.0](https://cran.r-project.org/package=surveillance): Temporal and Spatio-Temporal Modeling and Monitoring of Epidemic
+Phenomena - [diffify](https://diffify.com/R/surveillance)
++ [{lmomco} 2.5.1](https://cran.r-project.org/package=lmomco): L-Moments, Censored L-Moments, Trimmed L-Moments, L-Comoments,
+and Many Distributions - [diffify](https://diffify.com/R/lmomco)
++ [{editrules} 2.9.5](https://cran.r-project.org/package=editrules): Parsing, Applying, and Manipulating Data Cleaning Rules - [diffify](https://diffify.com/R/editrules)
++ [{cvasi} 0.10.5](https://cran.r-project.org/package=cvasi): Calibration, Validation, and Simulation of TKTD Models - [diffify](https://diffify.com/R/cvasi)
++ [{ebTobit} 1.0.2](https://cran.r-project.org/package=ebTobit): Empirical Bayesian Tobit Matrix Estimation - [diffify](https://diffify.com/R/ebTobit)
++ [{pkgnet} 0.5.0](https://cran.r-project.org/package=pkgnet): Get Network Representation of an R Package - [diffify](https://diffify.com/R/pkgnet)
++ [{aorsf} 0.1.4](https://cran.r-project.org/package=aorsf): Accelerated Oblique Random Forests - [diffify](https://diffify.com/R/aorsf)
++ [{modeltests} 0.1.6](https://cran.r-project.org/package=modeltests): Testing Infrastructure for Broom Model Generics - [diffify](https://diffify.com/R/modeltests)
++ [{repana} 2.2.0](https://cran.r-project.org/package=repana): Repeatable Analysis in R - [diffify](https://diffify.com/R/repana)
++ [{pixmap} 0.4-13](https://cran.r-project.org/package=pixmap): Bitmap Images / Pixel Maps - [diffify](https://diffify.com/R/pixmap)
++ [{lingmatch} 1.0.7](https://cran.r-project.org/package=lingmatch): Linguistic Matching and Accommodation - [diffify](https://diffify.com/R/lingmatch)
++ [{simtrial} 0.4.1](https://cran.r-project.org/package=simtrial): Clinical Trial Simulation - [diffify](https://diffify.com/R/simtrial)
++ [{phoenix} 1.1.0](https://cran.r-project.org/package=phoenix): The Phoenix Pediatric Sepsis and Septic Shock Criteria - [diffify](https://diffify.com/R/phoenix)
++ [{tmt} 0.3.4-0](https://cran.r-project.org/package=tmt): Estimation of the Rasch Model for Multistage Tests - [diffify](https://diffify.com/R/tmt)
++ [{AGD} 0.45.0](https://cran.r-project.org/package=AGD): Analysis of Growth Data - [diffify](https://diffify.com/R/AGD)
++ [{SAiVE} 1.0.6](https://cran.r-project.org/package=SAiVE): Functions Used for SAiVE Group Research, Collaborations, and
 Publications - [diffify](https://diffify.com/R/SAiVE)
-+ [{ieugwasr} 1.0.0](https://cran.r-project.org/package=ieugwasr): Interface to the 'OpenGWAS' Database API - [diffify](https://diffify.com/R/ieugwasr)
-+ [{colorscience} 1.0.9](https://cran.r-project.org/package=colorscience): Color Science Methods and Data - [diffify](https://diffify.com/R/colorscience)
-+ [{BMRMM} 1.0.1](https://cran.r-project.org/package=BMRMM): An Implementation of the Bayesian Markov (Renewal) Mixed Models - [diffify](https://diffify.com/R/BMRMM)
-+ [{MSclust} 1.0.4](https://cran.r-project.org/package=MSclust): Multiple-Scaled Clustering - [diffify](https://diffify.com/R/MSclust)
-+ [{rEMM} 1.2.1](https://cran.r-project.org/package=rEMM): Extensible Markov Model for Modelling Temporal Relationships
-Between Clusters - [diffify](https://diffify.com/R/rEMM)
-+ [{stream} 2.0-2](https://cran.r-project.org/package=stream): Infrastructure for Data Stream Mining - [diffify](https://diffify.com/R/stream)
-+ [{uwot} 0.2.2](https://cran.r-project.org/package=uwot): The Uniform Manifold Approximation and Projection (UMAP) Method
-for Dimensionality Reduction - [diffify](https://diffify.com/R/uwot)
-+ [{openssl} 2.1.2](https://cran.r-project.org/package=openssl): Toolkit for Encryption, Signatures and Certificates Based on
-OpenSSL - [diffify](https://diffify.com/R/openssl)
-+ [{INLAspacetime} 0.1.8](https://cran.r-project.org/package=INLAspacetime): Spatial and Spatio-Temporal Models using 'INLA' - [diffify](https://diffify.com/R/INLAspacetime)
-+ [{glmnetr} 0.4-6](https://cran.r-project.org/package=glmnetr): Nested Cross Validation for the Relaxed Lasso and Other Machine
-Learning Models - [diffify](https://diffify.com/R/glmnetr)
-+ [{gdi} 1.6.0](https://cran.r-project.org/package=gdi): Volumetric Analysis using Graphic Double Integration - [diffify](https://diffify.com/R/gdi)
-+ [{flps} 1.1.0](https://cran.r-project.org/package=flps): Fully-Latent Principal Stratification - [diffify](https://diffify.com/R/flps)
-+ [{flexsurv} 2.3](https://cran.r-project.org/package=flexsurv): Flexible Parametric Survival and Multi-State Models - [diffify](https://diffify.com/R/flexsurv)
-+ [{CRE} 0.2.6](https://cran.r-project.org/package=CRE): Interpretable Discovery and Inference of Heterogeneous Treatment
-Effects - [diffify](https://diffify.com/R/CRE)
-+ [{allometric} 2.3.0](https://cran.r-project.org/package=allometric): Structured Allometric Models for Trees - [diffify](https://diffify.com/R/allometric)
-+ [{rtpcr} 1.0.5](https://cran.r-project.org/package=rtpcr): qPCR Data Analysis - [diffify](https://diffify.com/R/rtpcr)
-+ [{linelist} 1.1.3](https://cran.r-project.org/package=linelist): Tagging and Validating Epidemiological Data - [diffify](https://diffify.com/R/linelist)
-+ [{DeclareDesign} 1.0.10](https://cran.r-project.org/package=DeclareDesign): Declare and Diagnose Research Designs - [diffify](https://diffify.com/R/DeclareDesign)
-+ [{baRulho} 2.1.0](https://cran.r-project.org/package=baRulho): Quantifying (Animal) Sound Degradation - [diffify](https://diffify.com/R/baRulho)
-+ [{biglasso} 1.6.0](https://cran.r-project.org/package=biglasso): Extending Lasso Model Fitting to Big Data - [diffify](https://diffify.com/R/biglasso)
-+ [{origin} 1.1.2](https://cran.r-project.org/package=origin): Explicitly Qualifying Namespaces by Automatically Adding 'pkg::'
-to Functions - [diffify](https://diffify.com/R/origin)
-+ [{DanielBiostatistics10th} 0.2.1](https://cran.r-project.org/package=DanielBiostatistics10th): Functions for Wayne W. Daniel's Biostatistics, Tenth Edition - [diffify](https://diffify.com/R/DanielBiostatistics10th)
++ [{polyglotr} 1.5.0](https://cran.r-project.org/package=polyglotr): Translate Text - [diffify](https://diffify.com/R/polyglotr)
++ [{openalexR} 1.3.0](https://cran.r-project.org/package=openalexR): Getting Bibliographic Records from 'OpenAlex' Database Using
+'DSL' API - [diffify](https://diffify.com/R/openalexR)
++ [{mirai} 1.0.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R - [diffify](https://diffify.com/R/mirai)
++ [{fflr} 2.3.0](https://cran.r-project.org/package=fflr): Retrieve ESPN Fantasy Football Data - [diffify](https://diffify.com/R/fflr)
++ [{diffcor} 0.8.3](https://cran.r-project.org/package=diffcor): Fisher's z-Tests Concerning Differences Between Correlations - [diffify](https://diffify.com/R/diffcor)
++ [{CohortCharacteristics} 0.2.0](https://cran.r-project.org/package=CohortCharacteristics): Summarise and Visualise Characteristics of Patients in the OMOP
+CDM - [diffify](https://diffify.com/R/CohortCharacteristics)
++ [{CDMConnector} 1.4.0](https://cran.r-project.org/package=CDMConnector): Connect to an OMOP Common Data Model - [diffify](https://diffify.com/R/CDMConnector)
++ [{adaptr} 1.4.0](https://cran.r-project.org/package=adaptr): Adaptive Trial Simulator - [diffify](https://diffify.com/R/adaptr)
++ [{cmsafvis} 1.2.7](https://cran.r-project.org/package=cmsafvis): Tools to Visualize CM SAF NetCDF Data - [diffify](https://diffify.com/R/cmsafvis)
++ [{jack} 6.0.0](https://cran.r-project.org/package=jack): Jack, Zonal, and Schur Polynomials - [diffify](https://diffify.com/R/jack)
++ [{dialrjars} 8.13.36](https://cran.r-project.org/package=dialrjars): Required 'libphonenumber' jars for the 'dialr' Package - [diffify](https://diffify.com/R/dialrjars)
++ [{BlythStillCasellaCI} 1.1.0](https://cran.r-project.org/package=BlythStillCasellaCI): Blyth-Still-Casella Exact Binomial Confidence Intervals - [diffify](https://diffify.com/R/BlythStillCasellaCI)
++ [{scBSP} 1.0.0](https://cran.r-project.org/package=scBSP): A Fast Tool for Single-Cell Spatially Variable Genes
+Identifications on Large-Scale Data - [diffify](https://diffify.com/R/scBSP)
++ [{bnlearn} 4.9.4](https://cran.r-project.org/package=bnlearn): Bayesian Network Structure Learning, Parameter Learning and
+Inference - [diffify](https://diffify.com/R/bnlearn)
++ [{heplots} 1.7.0](https://cran.r-project.org/package=heplots): Visualizing Hypothesis Tests in Multivariate Linear Models - [diffify](https://diffify.com/R/heplots)
++ [{nser} 1.5.2](https://cran.r-project.org/package=nser): Bhavcopy and Live Market Data from National Stock Exchange (NSE)
+& Bombay Stock Exchange (BSE) India - [diffify](https://diffify.com/R/nser)
++ [{visOmopResults} 0.3.0](https://cran.r-project.org/package=visOmopResults): Graphs and Tables for OMOP Results - [diffify](https://diffify.com/R/visOmopResults)
++ [{mlbench} 2.1-5](https://cran.r-project.org/package=mlbench): Machine Learning Benchmark Problems - [diffify](https://diffify.com/R/mlbench)
++ [{esemifar} 2.0.0](https://cran.r-project.org/package=esemifar): Smoothing Long-Memory Time Series - [diffify](https://diffify.com/R/esemifar)
++ [{tabledown} 1.0.0](https://cran.r-project.org/package=tabledown): Create Publication Quality Tables and Plots - [diffify](https://diffify.com/R/tabledown)
++ [{covidsymptom} 1.0.0](https://cran.r-project.org/package=covidsymptom): COVID Symptom Study Sweden Open Dataset - [diffify](https://diffify.com/R/covidsymptom)
++ [{biomod2} 4.2-5](https://cran.r-project.org/package=biomod2): Ensemble Platform for Species Distribution Modeling - [diffify](https://diffify.com/R/biomod2)
++ [{metacore} 0.1.3](https://cran.r-project.org/package=metacore): A Centralized Metadata Object Focus on Clinical Trial Data
+Programming Workflows - [diffify](https://diffify.com/R/metacore)
++ [{landscapemetrics} 2.1.2](https://cran.r-project.org/package=landscapemetrics): Landscape Metrics for Categorical Map Patterns - [diffify](https://diffify.com/R/landscapemetrics)
++ [{RKorAPClient} 0.8.1](https://cran.r-project.org/package=RKorAPClient): 'KorAP' Web Service Client Package - [diffify](https://diffify.com/R/RKorAPClient)
++ [{paleoDiv} 0.3.0](https://cran.r-project.org/package=paleoDiv): Extracting and Visualizing Paleobiodiversity - [diffify](https://diffify.com/R/paleoDiv)
++ [{labelr} 0.1.5](https://cran.r-project.org/package=labelr): Label Data Frames, Variables, and Values - [diffify](https://diffify.com/R/labelr)
++ [{DyMEP} 0.1.2](https://cran.r-project.org/package=DyMEP): Dynamic Multi Environment Phenology-Model - [diffify](https://diffify.com/R/DyMEP)
++ [{crandep} 0.3.8](https://cran.r-project.org/package=crandep): Network Analysis of Dependencies of CRAN Packages - [diffify](https://diffify.com/R/crandep)
++ [{multilevLCA} 1.5.1](https://cran.r-project.org/package=multilevLCA): Estimates and Plots Single-Level and Multilevel Latent Class
+Models - [diffify](https://diffify.com/R/multilevLCA)
++ [{tmle} 2.0.1](https://cran.r-project.org/package=tmle): Targeted Maximum Likelihood Estimation - [diffify](https://diffify.com/R/tmle)
++ [{dateback} 1.0.5](https://cran.r-project.org/package=dateback): Collect and Install R Packages on a Specified Date with
+Dependencies - [diffify](https://diffify.com/R/dateback)
++ [{shorts} 3.1.1](https://cran.r-project.org/package=shorts): Short Sprints - [diffify](https://diffify.com/R/shorts)
++ [{idarps} 0.0.4](https://cran.r-project.org/package=idarps): Datasets and Functions for the Class "Modelling and Data
+Analysis for Pharmaceutical Sciences" - [diffify](https://diffify.com/R/idarps)
++ [{starschemar} 1.2.5](https://cran.r-project.org/package=starschemar): Obtaining Stars from Flat Tables - [diffify](https://diffify.com/R/starschemar)
++ [{dbarts} 0.9-28](https://cran.r-project.org/package=dbarts): Discrete Bayesian Additive Regression Trees Sampler - [diffify](https://diffify.com/R/dbarts)
++ [{COAP} 1.2](https://cran.r-project.org/package=COAP): High-Dimensional Covariate-Augmented Overdispersed Poisson
+Factor Model - [diffify](https://diffify.com/R/COAP)
++ [{sdm} 1.2-40](https://cran.r-project.org/package=sdm): Species Distribution Modelling - [diffify](https://diffify.com/R/sdm)
++ [{rswipl} 9.3.5](https://cran.r-project.org/package=rswipl): Embed 'SWI'-'Prolog' - [diffify](https://diffify.com/R/rswipl)
++ [{stplanr} 1.2.1](https://cran.r-project.org/package=stplanr): Sustainable Transport Planning - [diffify](https://diffify.com/R/stplanr)
++ [{rspm} 0.5.1](https://cran.r-project.org/package=rspm): 'RStudio' Package Manager - [diffify](https://diffify.com/R/rspm)
++ [{hypervolume} 3.1.4](https://cran.r-project.org/package=hypervolume): High Dimensional Geometry, Set Operations, Projection, and
+Inference Using Kernel Density Estimation, Support Vector
+Machines, and Convex Hulls - [diffify](https://diffify.com/R/hypervolume)
++ [{healthyAddress} 0.4.2](https://cran.r-project.org/package=healthyAddress): Convert Addresses to Standard Inputs - [diffify](https://diffify.com/R/healthyAddress)
++ [{GAD} 2.0](https://cran.r-project.org/package=GAD): Analysis of Variance from General Principles - [diffify](https://diffify.com/R/GAD)
++ [{eks} 1.0.5](https://cran.r-project.org/package=eks): Tidy and Geospatial Kernel Smoothing - [diffify](https://diffify.com/R/eks)
++ [{duckdb} 0.10.2](https://cran.r-project.org/package=duckdb): DBI Package for the DuckDB Database Management System - [diffify](https://diffify.com/R/duckdb)
++ [{bartCause} 1.0-8](https://cran.r-project.org/package=bartCause): Causal Inference using Bayesian Additive Regression Trees - [diffify](https://diffify.com/R/bartCause)
++ [{nanonext} 1.0.0](https://cran.r-project.org/package=nanonext): NNG (Nanomsg Next Gen) Lightweight Messaging Library - [diffify](https://diffify.com/R/nanonext)
++ [{GET} 1.0-2](https://cran.r-project.org/package=GET): Global Envelopes - [diffify](https://diffify.com/R/GET)
++ [{reddPrec} 2.0.3](https://cran.r-project.org/package=reddPrec): Reconstruction of Daily Data - Precipitation - [diffify](https://diffify.com/R/reddPrec)
++ [{rolog} 0.9.17](https://cran.r-project.org/package=rolog): Query 'SWI'-'Prolog' from R - [diffify](https://diffify.com/R/rolog)
++ [{f1dataR} 1.5.3](https://cran.r-project.org/package=f1dataR): Access Formula 1 Data - [diffify](https://diffify.com/R/f1dataR)
++ [{Rmonize} 1.1.0](https://cran.r-project.org/package=Rmonize): Support Retrospective Harmonization of Data - [diffify](https://diffify.com/R/Rmonize)
++ [{hyperSpec} 0.100.2](https://cran.r-project.org/package=hyperSpec): Work with Hyperspectral Data, i.e. Spectra + Meta Information
+(Spatial, Time, Concentration, ...) - [diffify](https://diffify.com/R/hyperSpec)
++ [{BISdata} 0.2-3](https://cran.r-project.org/package=BISdata): Download Data from the Bank for International Settlements (BIS) - [diffify](https://diffify.com/R/BISdata)
++ [{mlstrOpalr} 1.0.3](https://cran.r-project.org/package=mlstrOpalr): Support Compatibility Between 'Maelstrom' R Packages and 'Opal'
+Environment - [diffify](https://diffify.com/R/mlstrOpalr)
++ [{spant} 2.20.0](https://cran.r-project.org/package=spant): MR Spectroscopy Analysis Tools - [diffify](https://diffify.com/R/spant)
++ [{gslnls} 1.3.2](https://cran.r-project.org/package=gslnls): GSL Multi-Start Nonlinear Least-Squares Fitting - [diffify](https://diffify.com/R/gslnls)
++ [{gridpattern} 1.2.1](https://cran.r-project.org/package=gridpattern): 'grid' Pattern Grobs - [diffify](https://diffify.com/R/gridpattern)
++ [{bizicount} 1.3.3](https://cran.r-project.org/package=bizicount): Bivariate Zero-Inflated Count Models Using Copulas - [diffify](https://diffify.com/R/bizicount)
++ [{unicol} 0.3.0](https://cran.r-project.org/package=unicol): The Colors of your University - [diffify](https://diffify.com/R/unicol)
++ [{pomp} 5.8](https://cran.r-project.org/package=pomp): Statistical Inference for Partially Observed Markov Processes - [diffify](https://diffify.com/R/pomp)
++ [{bartcs} 1.2.2](https://cran.r-project.org/package=bartcs): Bayesian Additive Regression Trees for Confounder Selection - [diffify](https://diffify.com/R/bartcs)
++ [{tinysnapshot} 0.0.5](https://cran.r-project.org/package=tinysnapshot): Snapshots for Unit Tests using the 'tinytest' Framework - [diffify](https://diffify.com/R/tinysnapshot)
++ [{openxlsx2} 1.6](https://cran.r-project.org/package=openxlsx2): Read, Write and Edit 'xlsx' Files - [diffify](https://diffify.com/R/openxlsx2)
++ [{gginnards} 0.2.0](https://cran.r-project.org/package=gginnards): Explore the Innards of 'ggplot2' Objects - [diffify](https://diffify.com/R/gginnards)
++ [{flattabler} 2.1.2](https://cran.r-project.org/package=flattabler): Obtaining a Flat Table from Pivot Tables - [diffify](https://diffify.com/R/flattabler)
++ [{rollama} 0.1.0](https://cran.r-project.org/package=rollama): Communicate with 'Ollama' - [diffify](https://diffify.com/R/rollama)
++ [{hhsmm} 0.3.7](https://cran.r-project.org/package=hhsmm): Hidden Hybrid Markov/Semi-Markov Model Fitting - [diffify](https://diffify.com/R/hhsmm)
++ [{ycevo} 0.2.0](https://cran.r-project.org/package=ycevo): Nonparametric Estimation of the Yield Curve Evolution - [diffify](https://diffify.com/R/ycevo)
++ [{sindyr} 0.2.4](https://cran.r-project.org/package=sindyr): Sparse Identification of Nonlinear Dynamics - [diffify](https://diffify.com/R/sindyr)
++ [{VIGoR} 1.1.3](https://cran.r-project.org/package=VIGoR): Variational Bayesian Inference for Genome-Wide Regression - [diffify](https://diffify.com/R/VIGoR)
++ [{sasLM} 0.10.3](https://cran.r-project.org/package=sasLM): 'SAS' Linear Model - [diffify](https://diffify.com/R/sasLM)
++ [{RcmdrPlugin.EZR} 1.66](https://cran.r-project.org/package=RcmdrPlugin.EZR): R Commander Plug-in for the EZR (Easy R) Package - [diffify](https://diffify.com/R/RcmdrPlugin.EZR)
++ [{loadings} 0.5.1](https://cran.r-project.org/package=loadings): Loadings for Principal Component Analysis and Partial Least
+Squares - [diffify](https://diffify.com/R/loadings)
++ [{stressor} 0.2.0](https://cran.r-project.org/package=stressor): Algorithms for Testing Models under Stress - [diffify](https://diffify.com/R/stressor)
++ [{QuantileGH} 0.1.7](https://cran.r-project.org/package=QuantileGH): Quantile Least Mahalanobis Distance Estimator for Tukey g-&-h
+Mixture - [diffify](https://diffify.com/R/QuantileGH)
++ [{PDE} 1.4.9](https://cran.r-project.org/package=PDE): Extract Tables and Sentences from PDFs with User Interface - [diffify](https://diffify.com/R/PDE)
++ [{GE} 0.4.4](https://cran.r-project.org/package=GE): General Equilibrium Modeling - [diffify](https://diffify.com/R/GE)
++ [{psborrow2} 0.0.3.4](https://cran.r-project.org/package=psborrow2): Bayesian Dynamic Borrowing Analysis and Simulation - [diffify](https://diffify.com/R/psborrow2)
++ [{NoviceDeveloperResources} 1.2.0](https://cran.r-project.org/package=NoviceDeveloperResources): Resources to Assist Novice Developers - [diffify](https://diffify.com/R/NoviceDeveloperResources)
++ [{fpc} 2.2-12](https://cran.r-project.org/package=fpc): Flexible Procedures for Clustering - [diffify](https://diffify.com/R/fpc)
++ [{XLConnect} 1.0.10](https://cran.r-project.org/package=XLConnect): Excel Connector for R - [diffify](https://diffify.com/R/XLConnect)
++ [{webtrackR} 0.3.1](https://cran.r-project.org/package=webtrackR): Preprocessing and Analyzing Web Tracking Data - [diffify](https://diffify.com/R/webtrackR)
++ [{teal.slice} 0.5.1](https://cran.r-project.org/package=teal.slice): Filter Module for 'teal' Applications - [diffify](https://diffify.com/R/teal.slice)
++ [{teal.data} 0.6.0](https://cran.r-project.org/package=teal.data): Data Model for 'teal' Applications - [diffify](https://diffify.com/R/teal.data)
++ [{sparkxgb} 0.2.0](https://cran.r-project.org/package=sparkxgb): Interface for 'XGBoost' on 'Apache Spark' - [diffify](https://diffify.com/R/sparkxgb)
++ [{secsse} 3.1.0](https://cran.r-project.org/package=secsse): Several Examined and Concealed States-Dependent Speciation and
+Extinction - [diffify](https://diffify.com/R/secsse)
++ [{negligible} 0.1.8](https://cran.r-project.org/package=negligible): A Collection of Functions for Negligible Effect/Equivalence
+Testing - [diffify](https://diffify.com/R/negligible)
++ [{Colossus} 1.1.1](https://cran.r-project.org/package=Colossus): "Risk Model Regression and Analysis with Complex Non-Linear
+Models" - [diffify](https://diffify.com/R/Colossus)
++ [{BayesDissolution} 0.2.1](https://cran.r-project.org/package=BayesDissolution): Bayesian Models for Dissolution Testing - [diffify](https://diffify.com/R/BayesDissolution)
++ [{TrendLSW} 1.0.2](https://cran.r-project.org/package=TrendLSW): Wavelet Methods for Analysing Locally Stationary Time Series - [diffify](https://diffify.com/R/TrendLSW)
++ [{neonUtilities} 2.4.2](https://cran.r-project.org/package=neonUtilities): Utilities for Working with NEON Data - [diffify](https://diffify.com/R/neonUtilities)
++ [{jagshelper} 0.2.3](https://cran.r-project.org/package=jagshelper): Extracting and Visualizing Output from 'jagsUI' - [diffify](https://diffify.com/R/jagshelper)
++ [{ThomasJeffersonUniv} 0.1.2](https://cran.r-project.org/package=ThomasJeffersonUniv): Handy Tools for TJU/TJUH Employees - [diffify](https://diffify.com/R/ThomasJeffersonUniv)
++ [{sp} 2.1-4](https://cran.r-project.org/package=sp): Classes and Methods for Spatial Data - [diffify](https://diffify.com/R/sp)
++ [{fmx} 0.1.2](https://cran.r-project.org/package=fmx): Finite Mixture Parametrization - [diffify](https://diffify.com/R/fmx)
++ [{bibliometrix} 4.2.1](https://cran.r-project.org/package=bibliometrix): Comprehensive Science Mapping Analysis - [diffify](https://diffify.com/R/bibliometrix)
++ [{turkeyelections} 0.1.2](https://cran.r-project.org/package=turkeyelections): The Most Comprehensive R Package for Turkish Election Results - [diffify](https://diffify.com/R/turkeyelections)
++ [{testCompareR} 1.0.3](https://cran.r-project.org/package=testCompareR): Comparing Two Diagnostic Tests with Dichotomous Results using
+Paired Data - [diffify](https://diffify.com/R/testCompareR)
++ [{omopgenerics} 0.2.0](https://cran.r-project.org/package=omopgenerics): Methods and Classes for the OMOP Common Data Model - [diffify](https://diffify.com/R/omopgenerics)
++ [{DanielBiostatistics10th} 0.2.2](https://cran.r-project.org/package=DanielBiostatistics10th): Functions for Wayne W. Daniel's Biostatistics, Tenth Edition - [diffify](https://diffify.com/R/DanielBiostatistics10th)
++ [{RcppInt64} 0.0.5](https://cran.r-project.org/package=RcppInt64): 'Rcpp'-Based Helper Functions to Pass 'Int64' and 'nanotime'
+Values Between 'R' and 'C++' - [diffify](https://diffify.com/R/RcppInt64)
++ [{MethEvolSIM} 0.1.1](https://cran.r-project.org/package=MethEvolSIM): Simulate DNA Methylation Dynamics on Different Genomic
+Structures along Genealogies - [diffify](https://diffify.com/R/MethEvolSIM)
++ [{epicontacts} 1.1.4](https://cran.r-project.org/package=epicontacts): Handling, Visualisation and Analysis of Epidemiological Contacts - [diffify](https://diffify.com/R/epicontacts)
++ [{mapme.biodiversity} 0.6.0](https://cran.r-project.org/package=mapme.biodiversity): Efficient Monitoring of Global Biodiversity Portfolios - [diffify](https://diffify.com/R/mapme.biodiversity)
++ [{stringmagic} 1.1.2](https://cran.r-project.org/package=stringmagic): Character String Operations and Interpolation, Magic Edition - [diffify](https://diffify.com/R/stringmagic)
++ [{RJSDMX} 3.2-0](https://cran.r-project.org/package=RJSDMX): R Interface to SDMX Web Services - [diffify](https://diffify.com/R/RJSDMX)
++ [{osmextract} 0.5.1](https://cran.r-project.org/package=osmextract): Download and Import Open Street Map Data Extracts - [diffify](https://diffify.com/R/osmextract)
++ [{fHMM} 1.3.0](https://cran.r-project.org/package=fHMM): Fitting Hidden Markov Models to Financial Data - [diffify](https://diffify.com/R/fHMM)
++ [{CDSE} 0.2.0](https://cran.r-project.org/package=CDSE): 'Copernicus Data Space Ecosystem' API Wrapper - [diffify](https://diffify.com/R/CDSE)
++ [{bbk} 0.2.0](https://cran.r-project.org/package=bbk): Client for the Bundesbank API - [diffify](https://diffify.com/R/bbk)
++ [{RcppCGAL} 5.6.3](https://cran.r-project.org/package=RcppCGAL): 'Rcpp' Integration for 'CGAL' - [diffify](https://diffify.com/R/RcppCGAL)
++ [{VisualizeSimon2Stage} 0.1.5](https://cran.r-project.org/package=VisualizeSimon2Stage): Visualize Simon's Two-Stage Design - [diffify](https://diffify.com/R/VisualizeSimon2Stage)
++ [{TukeyGH77} 0.1.2](https://cran.r-project.org/package=TukeyGH77): Tukey g-&-h Distribution - [diffify](https://diffify.com/R/TukeyGH77)
++ [{rcheology} 4.4.0.0](https://cran.r-project.org/package=rcheology): Data on Base and Recommended Packages for Current and Previous
+Versions of R - [diffify](https://diffify.com/R/rcheology)
++ [{param2moment} 0.1.2](https://cran.r-project.org/package=param2moment): Raw, Central and Standardized Moments of Parametric
+Distributions - [diffify](https://diffify.com/R/param2moment)
++ [{DemographicTable} 0.1.8](https://cran.r-project.org/package=DemographicTable): Creating Demographic Table - [diffify](https://diffify.com/R/DemographicTable)
++ [{FMAT} 2024.4](https://cran.r-project.org/package=FMAT): The Fill-Mask Association Test - [diffify](https://diffify.com/R/FMAT)
++ [{WINS} 1.4.2](https://cran.r-project.org/package=WINS): The R WINS Package - [diffify](https://diffify.com/R/WINS)
++ [{SteppedPower} 0.3.5](https://cran.r-project.org/package=SteppedPower): Power Calculation for Stepped Wedge Designs - [diffify](https://diffify.com/R/SteppedPower)
++ [{antaresEditObject} 0.6.3](https://cran.r-project.org/package=antaresEditObject): Edit an 'Antares' Simulation - [diffify](https://diffify.com/R/antaresEditObject)
++ [{MultiATSM} 0.3.6](https://cran.r-project.org/package=MultiATSM): Multicountry Term Structure of Interest Rates Models - [diffify](https://diffify.com/R/MultiATSM)
++ [{mboost} 2.9-10](https://cran.r-project.org/package=mboost): Model-Based Boosting - [diffify](https://diffify.com/R/mboost)
++ [{mapmixture} 1.1.2](https://cran.r-project.org/package=mapmixture): Spatial Visualisation of Admixture on a Projected Map - [diffify](https://diffify.com/R/mapmixture)
++ [{colorist} 0.1.3](https://cran.r-project.org/package=colorist): Coloring Wildlife Distributions in Space-Time - [diffify](https://diffify.com/R/colorist)
++ [{atime} 2024.4.23](https://cran.r-project.org/package=atime): Asymptotic Timing - [diffify](https://diffify.com/R/atime)
++ [{sparklyr} 1.8.6](https://cran.r-project.org/package=sparklyr): R Interface to Apache Spark - [diffify](https://diffify.com/R/sparklyr)
++ [{delayed} 0.5.0](https://cran.r-project.org/package=delayed): A Framework for Parallelizing Dependent Tasks - [diffify](https://diffify.com/R/delayed)
++ [{cv} 2.0.0](https://cran.r-project.org/package=cv): Cross-Validating Regression Models - [diffify](https://diffify.com/R/cv)
++ [{party} 1.3-15](https://cran.r-project.org/package=party): A Laboratory for Recursive Partytioning - [diffify](https://diffify.com/R/party)
++ [{mclust} 6.1.1](https://cran.r-project.org/package=mclust): Gaussian Mixture Modelling for Model-Based Clustering,
+Classification, and Density Estimation - [diffify](https://diffify.com/R/mclust)
++ [{rtpcr} 1.0.6](https://cran.r-project.org/package=rtpcr): qPCR Data Analysis - [diffify](https://diffify.com/R/rtpcr)
++ [{mlt.docreg} 1.1-8](https://cran.r-project.org/package=mlt.docreg): Most Likely Transformations: Documentation and Regression Tests - [diffify](https://diffify.com/R/mlt.docreg)
++ [{eq5d} 0.15.3](https://cran.r-project.org/package=eq5d): Methods for Analysing 'EQ-5D' Data and Calculating 'EQ-5D' Index
+Scores - [diffify](https://diffify.com/R/eq5d)
++ [{bamlss} 1.2-4](https://cran.r-project.org/package=bamlss): Bayesian Additive Models for Location, Scale, and Shape (and
+Beyond) - [diffify](https://diffify.com/R/bamlss)
++ [{mmstat4} 0.2.1](https://cran.r-project.org/package=mmstat4): Access to Teaching Materials from a ZIP File or GitHub - [diffify](https://diffify.com/R/mmstat4)
++ [{doBy} 4.6.21](https://cran.r-project.org/package=doBy): Groupwise Statistics, LSmeans, Linear Estimates, Utilities - [diffify](https://diffify.com/R/doBy)
++ [{geeasy} 0.1.2](https://cran.r-project.org/package=geeasy): Solve Generalized Estimating Equations for Clustered Data - [diffify](https://diffify.com/R/geeasy)
++ [{FossilSimShiny} 1.1.2](https://cran.r-project.org/package=FossilSimShiny): Shiny Application for 'FossilSim' - [diffify](https://diffify.com/R/FossilSimShiny)
++ [{FossilSim} 2.3.3](https://cran.r-project.org/package=FossilSim): Simulation of Fossil and Taxonomy Data - [diffify](https://diffify.com/R/FossilSim)
++ [{biogrowth} 1.0.4](https://cran.r-project.org/package=biogrowth): Modelling of Population Growth - [diffify](https://diffify.com/R/biogrowth)
++ [{vvcanvas} 0.0.4](https://cran.r-project.org/package=vvcanvas): 'Canvas' LMS API Integration - [diffify](https://diffify.com/R/vvcanvas)
++ [{spatstat.univar} 2.0-3](https://cran.r-project.org/package=spatstat.univar): One-Dimensional Probability Distribution Support for the
+'spatstat' Family - [diffify](https://diffify.com/R/spatstat.univar)
++ [{rnaCrosslinkOO} 0.1.3](https://cran.r-project.org/package=rnaCrosslinkOO): Analysis of RNA Crosslinking Data - [diffify](https://diffify.com/R/rnaCrosslinkOO)
++ [{ggblanket} 8.0.0](https://cran.r-project.org/package=ggblanket): Simplify 'ggplot2' Visualisation - [diffify](https://diffify.com/R/ggblanket)
++ [{see} 0.8.4](https://cran.r-project.org/package=see): Model Visualisation Toolbox for 'easystats' and 'ggplot2' - [diffify](https://diffify.com/R/see)
++ [{timeDF} 0.9.1](https://cran.r-project.org/package=timeDF): Subset and Flag Data Frames with Times by the Use of Periods - [diffify](https://diffify.com/R/timeDF)
++ [{scPloidy} 0.6.2](https://cran.r-project.org/package=scPloidy): Infer Ploidy of Single Cells - [diffify](https://diffify.com/R/scPloidy)
++ [{shinytest2} 0.3.2](https://cran.r-project.org/package=shinytest2): Testing for Shiny Applications - [diffify](https://diffify.com/R/shinytest2)
++ [{MAGEE} 1.4.1](https://cran.r-project.org/package=MAGEE): Mixed Model Association Test for GEne-Environment Interaction - [diffify](https://diffify.com/R/MAGEE)
++ [{EigenR} 1.3.0](https://cran.r-project.org/package=EigenR): Complex Matrix Algebra with 'Eigen' - [diffify](https://diffify.com/R/EigenR)
++ [{deepgp} 1.1.2](https://cran.r-project.org/package=deepgp): Bayesian Deep Gaussian Processes using MCMC - [diffify](https://diffify.com/R/deepgp)
++ [{giacR} 1.0.1](https://cran.r-project.org/package=giacR): Interface to the Computer Algebra System 'Giac' - [diffify](https://diffify.com/R/giacR)
++ [{findInFiles} 0.5.0](https://cran.r-project.org/package=findInFiles): Find Pattern in Files - [diffify](https://diffify.com/R/findInFiles)
++ [{bayesian} 1.0.1](https://cran.r-project.org/package=bayesian): Bindings for Bayesian TidyModels - [diffify](https://diffify.com/R/bayesian)
++ [{additive} 1.0.1](https://cran.r-project.org/package=additive): Bindings for Additive TidyModels - [diffify](https://diffify.com/R/additive)
++ [{Thresher} 1.1.4](https://cran.r-project.org/package=Thresher): Threshing and Reaping for Principal Components - [diffify](https://diffify.com/R/Thresher)
++ [{plasma} 1.1.3](https://cran.r-project.org/package=plasma): Partial LeAst Squares for Multiomic Analysis - [diffify](https://diffify.com/R/plasma)
++ [{oompaData} 3.1.4](https://cran.r-project.org/package=oompaData): Data to Illustrate OOMPA Algorithms - [diffify](https://diffify.com/R/oompaData)
++ [{nlive} 0.4.0](https://cran.r-project.org/package=nlive): Automated Estimation of Sigmoidal and Piecewise Linear Mixed
+Models - [diffify](https://diffify.com/R/nlive)
++ [{NewmanOmics} 1.0.11](https://cran.r-project.org/package=NewmanOmics): Extending the Newman Studentized Range Statistic to
+Transcriptomics - [diffify](https://diffify.com/R/NewmanOmics)
++ [{Mercator} 1.1.4](https://cran.r-project.org/package=Mercator): Clustering and Visualizing Distance Matrices - [diffify](https://diffify.com/R/Mercator)
++ [{ClassDiscovery} 3.4.5](https://cran.r-project.org/package=ClassDiscovery): Classes and Methods for "Class Discovery" with Microarrays or
+Proteomics - [diffify](https://diffify.com/R/ClassDiscovery)
++ [{nnlib2Rcpp} 0.2.7](https://cran.r-project.org/package=nnlib2Rcpp): A Tool for Creating Custom Neural Networks in C++ and using Them
+in R - [diffify](https://diffify.com/R/nnlib2Rcpp)
++ [{MiscMetabar} 0.9.1](https://cran.r-project.org/package=MiscMetabar): Miscellaneous Functions for Metabarcoding Analysis - [diffify](https://diffify.com/R/MiscMetabar)
++ [{sorcering} 1.0.1](https://cran.r-project.org/package=sorcering): Soil Organic Carbon and CN Ratio Driven Nitrogen Modelling
+Framework - [diffify](https://diffify.com/R/sorcering)
++ [{pathfindR} 2.4.0](https://cran.r-project.org/package=pathfindR): Enrichment Analysis Utilizing Active Subnetworks - [diffify](https://diffify.com/R/pathfindR)
++ [{learnrbook} 2.0.1](https://cran.r-project.org/package=learnrbook): Datasets and Code Examples from P. J. Aphalo's "Learn R" Book - [diffify](https://diffify.com/R/learnrbook)
++ [{archive} 1.1.8](https://cran.r-project.org/package=archive): Multi-Format Archive and Compression Support - [diffify](https://diffify.com/R/archive)
++ [{diemr} 1.2.3](https://cran.r-project.org/package=diemr): Diagnostic Index Expectation Maximisation in R - [diffify](https://diffify.com/R/diemr)
++ [{BED} 1.5.1](https://cran.r-project.org/package=BED): Biological Entity Dictionary (BED) - [diffify](https://diffify.com/R/BED)
++ [{calendar} 0.1.0](https://cran.r-project.org/package=calendar): Create, Read, Write, and Work with 'iCalander' Files, Calendars
+and Scheduling Data - [diffify](https://diffify.com/R/calendar)
++ [{ForestTools} 1.0.2](https://cran.r-project.org/package=ForestTools): Tools for Analyzing Remote Sensing Forest Data - [diffify](https://diffify.com/R/ForestTools)
 # CRANberries NEW: ##
-+ [{MDMA} 1.1.0](https://cran.r-project.org/package=MDMA): Mathijs Deen's Miscellaneous Auxiliaries
-+ [{epigrowthfit} 0.15.2](https://cran.r-project.org/package=epigrowthfit): Nonlinear Mixed Effects Models of Epidemic Growth
-+ [{boggy} 0.0.1](https://cran.r-project.org/package=boggy): Real-Time PCR Data Sets by Boggy et al. (2010)
-+ [{SpatGC} 0.1.0](https://cran.r-project.org/package=SpatGC): Bayesian Modeling of Spatial Count Data
-+ [{quickPWCR} 1.0](https://cran.r-project.org/package=quickPWCR): Quickly construct and rating large binary pairwiesd comparisons
-+ [{doublIn} 0.1.0](https://cran.r-project.org/package=doublIn): Estimate Incubation or Latency Time using Doubly Interval
-Censored Observations
-+ [{disastr.api} 1.0.6](https://cran.r-project.org/package=disastr.api): Wrapper for the UN OCHA ReliefWeb Disaster Events API
-+ [{asm} 0.1.0](https://cran.r-project.org/package=asm): Optimal Convex M-Estimation for Linear Regression via Antitonic
-Score Matching
-+ [{adepro} 4.1.0](https://cran.r-project.org/package=adepro): A 'shiny' Application for the (Audio-)Visualization of Adverse
-Event Profiles
-+ [{tsgarch} 1.0.0](https://cran.r-project.org/package=tsgarch): Univariate GARCH Models
-+ [{sqltargets} 0.0.1](https://cran.r-project.org/package=sqltargets): Targets Extension for 'SQL' Queries
-+ [{snvecR} 3.9.3](https://cran.r-project.org/package=snvecR): Calculate Earth’s Obliquity and Precession in the Past
-+ [{SIAtools} 0.1.0](https://cran.r-project.org/package=SIAtools): 'ShinyItemAnalysis' Modules Development Toolkit
-+ [{plotcli} 0.1.0](https://cran.r-project.org/package=plotcli): Command Line Interface Plotting
-+ [{mlr3summary} 0.1.0](https://cran.r-project.org/package=mlr3summary): Model and Learner Summaries for 'mlr3'
-+ [{CalcThemAll.PRM} 1.1.1](https://cran.r-project.org/package=CalcThemAll.PRM): Calculate Pesticide Risk Metric (PRM) Values from Multiple
-Pesticides...Calc Them All
-+ [{slap} 2024.4.1](https://cran.r-project.org/package=slap): Simplified Error Handling
-+ [{prediction} 0.3.17](https://cran.r-project.org/package=prediction): Tidy, Type-Safe 'prediction()' Methods
-+ [{textrar} 0.8.0](https://cran.r-project.org/package=textrar): Interface to 'TexTra' from R
-+ [{pargasite} 2.1.0](https://cran.r-project.org/package=pargasite): Pollution-Associated Risk Geospatial Analysis Site
-+ [{Eunomia} 2.0.0](https://cran.r-project.org/package=Eunomia): Standard Dataset Manager for Observational Medical Outcomes
-Partnership Common Data Model Sample Datasets
-+ [{BayesSurvive} 0.0.1](https://cran.r-project.org/package=BayesSurvive): Bayesian Survival Models for High-Dimensional Data
-+ [{bayesMeanScale} 0.1.0](https://cran.r-project.org/package=bayesMeanScale): Bayesian Post-Estimation on the Mean Scale
-+ [{relMix} 1.4](https://cran.r-project.org/package=relMix): Relationship Inference for DNA Mixtures
-+ [{bbk} 0.1.0](https://cran.r-project.org/package=bbk): Client for the Bundesbank API
-+ [{RobRegression} 0.1.0](https://cran.r-project.org/package=RobRegression): Robust Multivariate Regression
-+ [{PCBS} 0.1.0](https://cran.r-project.org/package=PCBS): Principle Component BiSulfite
-+ [{GregoryQuadrature} 1.0.0](https://cran.r-project.org/package=GregoryQuadrature): Gregory Weights for Function Integration
-+ [{Clustering} 1.7.10](https://cran.r-project.org/package=Clustering): Techniques for Evaluating Clustering
-+ [{basecamb} 1.1.5](https://cran.r-project.org/package=basecamb): Utilities for Streamlined Data Import, Imputation and Modelling
-+ [{tidylda} 0.0.5](https://cran.r-project.org/package=tidylda): Latent Dirichlet Allocation Using 'tidyverse' Conventions
-+ [{slca} 1.0.0](https://cran.r-project.org/package=slca): Structural Modeling for Multiple Latent Class Variables
-+ [{Rtwobitlib} 0.3.6](https://cran.r-project.org/package=Rtwobitlib): '2bit' 'C' Library
-+ [{PanelTM} 1.0](https://cran.r-project.org/package=PanelTM): Two- And Three-Way Dynamic Panel Threshold Regression Model for
-Change Point Detection
-+ [{guescini} 0.1.0](https://cran.r-project.org/package=guescini): Real-Time PCR Data Sets by Guescini et al. (2008)
-+ [{drclust} 0.1](https://cran.r-project.org/package=drclust): Simultaneous Clustering and (or) Dimensionality Reduction
-+ [{donutsk} 0.1.1](https://cran.r-project.org/package=donutsk): Construct Advanced Donut Charts
-+ [{aifeducation} 0.3.3](https://cran.r-project.org/package=aifeducation): Artificial Intelligence for Education
-+ [{TreeRingShape} 3.0.3](https://cran.r-project.org/package=TreeRingShape): Recording Tree-Ring Shapes of Tree Disks with Manual Digitizing
-and Interpolating Model
-+ [{ViSe} 0.1.2](https://cran.r-project.org/package=ViSe): Visualizing Sensitivity
-+ [{TrendLSW} 1.0.1](https://cran.r-project.org/package=TrendLSW): Wavelet Methods for Analysing Locally Stationary Time Series
-+ [{sim.BA} 0.1.0](https://cran.r-project.org/package=sim.BA): Simulation-Based Bias Analysis for Observational Studies
-+ [{ConfidenceEllipse} 1.0.0](https://cran.r-project.org/package=ConfidenceEllipse): Computation of 2D and 3D Elliptical Joint Confidence Regions
-+ [{spOccupancy} 0.7.6](https://cran.r-project.org/package=spOccupancy): Single-Species, Multi-Species, and Integrated Spatial Occupancy
-Models
-+ [{RbyExample} 0.0.100](https://cran.r-project.org/package=RbyExample): Data for the Book "R by Example"
-+ [{puremoe} 1.0.0](https://cran.r-project.org/package=puremoe): Pubmed Unified REtrieval for Multi-Output Exploration
-+ [{CreditRisk} 0.1.7](https://cran.r-project.org/package=CreditRisk): Evaluation of Credit Risk with Structural and Reduced Form
-+ [{citmre} 0.1.0](https://cran.r-project.org/package=citmre): Colombian Index Tool Market Rate Exchange
-+ [{latentFactoR} 0.0.6](https://cran.r-project.org/package=latentFactoR): Data Simulation Based on Latent Factors
-+ [{WordListsAnalytics} 0.2.1](https://cran.r-project.org/package=WordListsAnalytics): Multiple Data Analysis Tools for Property Listing Tasks
-+ [{login} 0.9.3](https://cran.r-project.org/package=login): 'shiny' Login Module
-+ [{InterNL} 0.1.0](https://cran.r-project.org/package=InterNL): Time Series Intervention Model Using Non-Linear Function
-+ [{geonode4R} 0.1](https://cran.r-project.org/package=geonode4R): Interface to 'GeoNode' REST API
-+ [{DyMEP} 0.1.0](https://cran.r-project.org/package=DyMEP): Dynamic Multi Environment Phenology-Model
-+ [{CirceR} 1.3.3](https://cran.r-project.org/package=CirceR): Construct Cohort Inclusion and Restriction Criteria Expressions
-+ [{ARUtools} 0.6.2](https://cran.r-project.org/package=ARUtools): Management and Processing of Autonomous Recording Unit (ARU)
++ [{survivalVignettes} 0.1.6](https://cran.r-project.org/package=survivalVignettes): Survival Analysis Vignettes and Optional Datasets
++ [{EMJMCMC} 1.5.0](https://cran.r-project.org/package=EMJMCMC): Evolutionary Mode Jumping Markov Chain Monte Carlo Expert
+Toolbox
++ [{DBTCShiny} 0.1.2](https://cran.r-project.org/package=DBTCShiny): Dada-BLAST-Taxon Assign-Condense Metabarcode Analysis 'shiny'
+Application
++ [{SoilConservation} 1.0.0](https://cran.r-project.org/package=SoilConservation): Soil and Water Conservation
++ [{OpenLand} 1.0.3](https://cran.r-project.org/package=OpenLand): Quantitative Analysis and Visualization of LUCC
++ [{lievens} 0.0.1](https://cran.r-project.org/package=lievens): Real-Time PCR Data Sets by Lievens et al. (2012)
++ [{LATERmodel} 0.2.0](https://cran.r-project.org/package=LATERmodel): Linear Approach to Threshold with Ergodic Rate for Reaction
+Times
++ [{ExpImage} 0.10.0](https://cran.r-project.org/package=ExpImage): Analysis of Images in Experiments
++ [{bRacatus} 2.0.0](https://cran.r-project.org/package=bRacatus): A Method to Estimate the Accuracy and Biogeographical Status of
+Georeferenced Biological Data
++ [{streetscape} 1.0.0](https://cran.r-project.org/package=streetscape): Collect And Investigate Street Views For Urban Science
++ [{reflectR} 2.0.2](https://cran.r-project.org/package=reflectR): Automatic Scoring of the Cognitive Reflection Test
++ [{loggit2} 2.2.2](https://cran.r-project.org/package=loggit2): Easy-to-Use, Dependencyless Logger
++ [{linelistBayes} 1.0](https://cran.r-project.org/package=linelistBayes): Bayesian Analysis of Epidemic Data Using Line List and Case
+Count Approaches
++ [{ablasso} 1.0](https://cran.r-project.org/package=ablasso): Arellano-Bond LASSO Estimator for Dynamic Linear Panel Models
++ [{rmdl} 0.1.0](https://cran.r-project.org/package=rmdl): Language to Manage Many Models
++ [{filibustr} 0.2.1](https://cran.r-project.org/package=filibustr): Data Utilities for Congressional Research
++ [{symbolicQspray} 1.0.0](https://cran.r-project.org/package=symbolicQspray): Multivariate Polynomials with Symbolic Parameters in their
+Coefficients
++ [{RAZIAD} 0.0.1](https://cran.r-project.org/package=RAZIAD): Regression Analysis of Zero-Inflated and Zero-Altered(Hurdle)
 Data
-+ [{ADLP} 0.1.0](https://cran.r-project.org/package=ADLP): Accident and Development Period Adjusted Linear Pools for
-Actuarial Stochastic Reserving
-Files
-+ [{meteo} 2.0-3](https://cran.r-project.org/package=meteo): RFSI & STRK Interpolation for Meteo and Environmental Variables
-+ [{future.mirai} 0.2.0](https://cran.r-project.org/package=future.mirai): A 'Future' API for Parallel Processing using 'mirai'
-+ [{spheresmooth} 0.1.0](https://cran.r-project.org/package=spheresmooth): Piecewise Geodesic Smoothing for Spherical Data
-+ [{MethEvolSIM} 0.1](https://cran.r-project.org/package=MethEvolSIM): Simulate DNA Methylation Dynamics on Different Genomic
-Structures along Genealogies
-+ [{MCCM} 0.1.0](https://cran.r-project.org/package=MCCM): Mixed Correlation Coefficient Matrix
-+ [{ipeaplot} 0.3.1](https://cran.r-project.org/package=ipeaplot): Add Ipea Editorial Standards to 'ggplot2' Graphics
-+ [{CropWaterBalance} 0.2.0](https://cran.r-project.org/package=CropWaterBalance): Climate Water Balance for Irrigation Purposes
-+ [{bagyo} 0.1.1](https://cran.r-project.org/package=bagyo): Philippine Tropical Cyclones Data
-+ [{sentopics} 0.7.3](https://cran.r-project.org/package=sentopics): Tools for Joint Sentiment and Topic Analysis of Textual Data
-+ [{glinvci} 1.2.4](https://cran.r-project.org/package=glinvci): Phylogenetic Comparative Methods with Uncertainty Estimates
-+ [{SpaDES} 2.0.11](https://cran.r-project.org/package=SpaDES): Develop and Run Spatially Explicit Discrete Event Simulation
-+ [{TestIndVars} 0.1.0](https://cran.r-project.org/package=TestIndVars): Testing the Independence of Variables for Specific Covariance
-Structures
-+ [{mapmixture} 1.1.1](https://cran.r-project.org/package=mapmixture): Spatial Visualisation of Admixture on a Projected Map
-+ [{gfunctions} 1.0](https://cran.r-project.org/package=gfunctions): G-Functions
-+ [{filters} 0.3.1](https://cran.r-project.org/package=filters): A "Snake_case" Filter System for R
-+ [{DataPackageR} 0.15.9](https://cran.r-project.org/package=DataPackageR): Construct Reproducible Analytic Data Sets as R Packages
++ [{ollamar} 1.1.1](https://cran.r-project.org/package=ollamar): 'Ollama' Language Models
++ [{lancor} 0.1.2](https://cran.r-project.org/package=lancor): Statistical Inference via Lancaster Correlation
++ [{FAOSTAT} 2.3.1](https://cran.r-project.org/package=FAOSTAT): Download Data from the FAOSTAT Database
++ [{DiscreteTests} 0.1.1](https://cran.r-project.org/package=DiscreteTests): Vectorised Computation of P-Values and Their Supports for
+Several Discrete Statistical Tests
++ [{crm12Comb} 0.1.3](https://cran.r-project.org/package=crm12Comb): Phase I/II CRM Based Drug Combination Design
++ [{panstarrs} 0.2.2](https://cran.r-project.org/package=panstarrs): Interface to the Pan-STARRS API
++ [{cvasi} 0.10.5](https://cran.r-project.org/package=cvasi): Calibration, Validation, and Simulation of TKTD Models
++ [{rsocialwatcher} 0.1.0](https://cran.r-project.org/package=rsocialwatcher): 'Facebook Marketing API' Social Watcher
++ [{RcppBlaze} 1.0.0](https://cran.r-project.org/package=RcppBlaze): 'Rcpp' Integration for the 'Blaze' High-Performance 'C++' Math
+Library
++ [{healthequal} 1.0.0](https://cran.r-project.org/package=healthequal): Compute Summary Measures of Health Inequality
++ [{BMconcor} 2.0.0](https://cran.r-project.org/package=BMconcor): CONCOR for Structural- And Regular-Equivalence Blockmodeling
++ [{RobinCar} 0.2.0](https://cran.r-project.org/package=RobinCar): Robust Estimation and Inference in Covariate-Adaptive
+Randomization
++ [{AZIAD} 0.0.3](https://cran.r-project.org/package=AZIAD): Analyzing Zero-Inflated and Zero-Altered Data
++ [{TSEAL} 0.1.2](https://cran.r-project.org/package=TSEAL): Time Series Analysis Library
++ [{SCtools} 0.3.3](https://cran.r-project.org/package=SCtools): Extensions for Synthetic Controls Analysis
++ [{rifreg} 0.1.0](https://cran.r-project.org/package=rifreg): Estimate Recentered Influence Function Regression
++ [{mtarm} 0.1.0](https://cran.r-project.org/package=mtarm): Bayesian Estimation of Multivariate Threshold Autoregressive
+Models
++ [{forensicolors} 1.0.0](https://cran.r-project.org/package=forensicolors): Forensic Colors
++ [{FeatureExtraction} 3.5.2](https://cran.r-project.org/package=FeatureExtraction): Generating Features for a Cohort
++ [{vein} 1.1.3](https://cran.r-project.org/package=vein): Vehicular Emissions Inventories
++ [{stackgbm} 0.1.0](https://cran.r-project.org/package=stackgbm): Stacked Gradient Boosting Machines
++ [{ShapDoE} 1.0.0](https://cran.r-project.org/package=ShapDoE): Approximation of the Shapley Values Based on Experimental
+Designs
++ [{PPbigdata} 1.0.0](https://cran.r-project.org/package=PPbigdata): Projection Pursuit for Big Data Based on Data Nuggets
++ [{petersenlab} 1.0.0](https://cran.r-project.org/package=petersenlab): A Collection of R Functions by the Petersen Lab
++ [{KMLtoSHAPE} 0.1.0](https://cran.r-project.org/package=KMLtoSHAPE): Preserving Attribute Values: Converting KML to Shapefile
++ [{goat} 1.0](https://cran.r-project.org/package=goat): Gene Set Analysis Using the Gene Set Ordinal Association Test
++ [{BioCro} 3.1.3](https://cran.r-project.org/package=BioCro): Modular Crop Growth Simulations
++ [{scdtb} 0.1.0](https://cran.r-project.org/package=scdtb): Single Case Design Tools
++ [{sacRebleu} 0.1.3](https://cran.r-project.org/package=sacRebleu): Metrics for Assessing the Quality of Generated Text
++ [{ratioOfQsprays} 1.0.0](https://cran.r-project.org/package=ratioOfQsprays): Fractions of Multivariate Polynomials with Rational Coefficients
++ [{peacots} 1.3.2](https://cran.r-project.org/package=peacots): Periodogram Peaks in Correlated Time Series
++ [{karlen} 0.0.2](https://cran.r-project.org/package=karlen): Real-Time PCR Data Sets by Karlen et al. (2007)
++ [{freewall} 1.0.0](https://cran.r-project.org/package=freewall): A Wrapper of the JavaScript Library 'Freewall'
++ [{dendroNetwork} 0.5.4](https://cran.r-project.org/package=dendroNetwork): Create Networks of Dendrochronological Series using Pairwise
+Similarity
++ [{comorbidPGS} 0.3.4](https://cran.r-project.org/package=comorbidPGS): Assessing Predisposition Between Phenotypes using Polygenic
+Scores
++ [{cwbtools} 0.4.2](https://cran.r-project.org/package=cwbtools): Tools to Create, Modify and Manage 'CWB' Corpora
++ [{sisti} 0.0.1](https://cran.r-project.org/package=sisti): Real-Time PCR Data Sets by Sisti et al. (2010)
++ [{cryptorng} 0.1.2](https://cran.r-project.org/package=cryptorng): Access System Cryptographic Pseudorandom Number Generators
++ [{accessr} 1.0.1](https://cran.r-project.org/package=accessr): Command Line Tools to Produce Accessible Documents using 'R
+Markdown'
++ [{nFunNN} 1.0](https://cran.r-project.org/package=nFunNN): Nonlinear Functional Principal Component Analysis using Neural
+Networks
++ [{FnR} 1.0.0](https://cran.r-project.org/package=FnR): Inbreeding and Numerator Relationship Coefficients
++ [{braids} 1.0.0](https://cran.r-project.org/package=braids): The Braid Groups
