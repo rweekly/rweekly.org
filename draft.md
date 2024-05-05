@@ -24,6 +24,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Reticulating Tibbles](https://www.quantumjitter.com/project/pandas/)
 
++ [Video: R's new exploit: how it works & other ways you're vulnerable](https://www.youtube.com/watch?v=WGvXEi4nG5k)
+
 + [The IDEs I use](https://drmowinckels.io/blog/2024/ide/)
 
 + [Highlights from ShinyConf 2024](https://www.appsilon.com/post/shinyconf-2024-recap)
