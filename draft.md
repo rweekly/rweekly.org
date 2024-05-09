@@ -84,6 +84,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+## Call for Participation
+
++ [Register for R/Pharma at posit::conf(2024)](https://posit.co/blog/register-for-r-pharma-at-posit-conf-2024/)
 
 ### Upcoming Events in 3 Months
 
