@@ -76,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+- [Calculating the proportion of US state borders that are coastlines](https://www.andrewheiss.com/blog/2024/05/08/coastline-to-border-proportions/): Measuring coastlines is hard and causes fractal paradoxes, but we can use R and {sf} to try!
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
