@@ -36,6 +36,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Resources
 
 
+### New Releases
+
++ [RStudio IDE and Posit Workbench 2024.04.0: What’s New](https://posit.co/blog/rstudio-2024-04-0-whats-new/)
 
 ### New Packages
 
