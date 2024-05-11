@@ -18,8 +18,6 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 ### Insights
 
-+ [Video: R's new exploit: how it works & other ways you're vulnerable](https://www.youtube.com/watch?v=WGvXEi4nG5k)
-
 + [Statement on CVE-2024-27322](https://blog.r-project.org/2024/05/10/statement-on-cve-2024-27322/)
 
 + [The True ROI of Doing It Right the First Time in Software Projects ](https://www.appsilon.com/post/do-it-right-the-first-time)
@@ -33,6 +31,8 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 + [Demo repository for creating a Quarto workflow with {quarto-webr} and {quarto-pyodide}](https://github.com/coatless-quarto/quarto-webr-pyodide-demo)
 
 + [Data Usage with Postprocessing](https://blog.aml4td.org/posts/data-usage-for-postprocessors/)
+
++ [If Doom runs everywhere, it must run on Shiny](https://pacha.dev/blog/2024/05/10/index.html)
 
 ### R in the Real World
 
@@ -74,9 +74,13 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [ShinyProxy 3.1.0](https://www.openanalytics.eu/blog/2024/05/07/shinyproxy-3.1.0/)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
+
++ [R's new exploit: how it works & other ways you're vulnerable](https://www.youtube.com/watch?v=WGvXEi4nG5k)
 
 
 ### Gist & Cookbook
@@ -136,6 +140,8 @@ Events in 3 Months:
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
 + [Cluster Analysis in R workshop](https://r-posts.com/cluster-analysis-in-r-workshop/)
+
++ [Reproducible research with Nix and rix Workshop](https://www.leibniz-openscience.de/event/los-workshop-reproducible-research-with-nix-and-rix/)
 
 ### Grants & Funding
 
