@@ -72,7 +72,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
-
+[Modelación Ordenada con R](https://davidrsch.github.io/TMwRes/): Aprende todo sobre el proceso de creación de modelos de aprendizaje automático con esta traducción de "Modelación Ordenada con R" un libro de Max Kuhn y Julia Silge con el que aprenderas a través de ejemplos todo lo realcionado con la creación de modelos de aprendizaje automático listos para producción.
 
 ### Tutorials
 
