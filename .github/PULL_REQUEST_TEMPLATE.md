@@ -16,7 +16,7 @@ Please include a one-sentence summary of the new content you would like to be ad
 - [ ] International - Non-English R related content
 - [ ] Videos and Podcasts - Videos and Podcasts about R
 - [ ] Resources - long posts, websites, books, slides, list, cheat sheets, or other learning resources in general that are more officially aggregated as a guide material
-- [ ] Jobs - R Jobs
+- [ ] Connect - R Jobs and Communities
 - [ ] New Packages and Tools - New packages and tools that have been created or published in the past two weeks.
 - [ ] Updated Packages - New releases of tools and packages for R
 - [ ] Call for Participation - New R groups, communities or competitions here. 
