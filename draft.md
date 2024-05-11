@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Video: R's new exploit: how it works & other ways you're vulnerable](https://www.youtube.com/watch?v=WGvXEi4nG5k)
 
 
 ### R in the Real World
