@@ -14,7 +14,11 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 ### Highlight
 
++ [The Aesthetics Wiki - an R Addendum](https://www.rostrum.blog/posts/2024-05-08-aesthetic/)  
 
++ [R Dplyr vs. DuckDB - How to Enhance Your Data Processing Pipelines with R DuckDB](https://www.appsilon.com/post/r-dplyr-vs-duckdb)
+
++ [TLG Catalog 🤝 WebR](https://pharmaverse.github.io/blog/posts/2024-05-08_tlg_catalog_webr/tlg_catalog_webr.html)
 
 ### Insights
 
@@ -62,19 +66,54 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 + [First release of mvgam(v1.1.0) to CRAN](https://ecogambler.netlify.app/blog/mvgam-on-cran/)
 
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
++ [{shinymgr} 1.1.0](https://cran.r-project.org/package=shinymgr): A Framework for Building, Managing, and Stitching 'shiny'
+Modules into Reproducible Workflows
++ [{heiscore} 0.0.1](https://cran.r-project.org/package=heiscore): Score and Plot the Healthy Eating Index from NHANES Data
++ [{lzstring} 0.1.2](https://cran.r-project.org/package=lzstring): Wrapper for 'lz-string' 'C++' Library
++ [{lotterybr} 0.1.0](https://cran.r-project.org/package=lotterybr): Lottery Datasets from Caixa Economica Federal
++ [{modelgrid} 1.2.0](https://cran.r-project.org/package=modelgrid): A Framework for Creating, Managing and Training Multiple 'caret' Models
++ [{flexlsx} 0.2.1](https://cran.r-project.org/package=flexlsx): Exporting 'flextable' to 'xlsx' Files
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [ShinyProxy 3.1.0](https://www.openanalytics.eu/blog/2024/05/07/shinyproxy-3.1.0/)
+
++ [{gwavr} 0.3.1](https://cran.r-project.org/package=gwavr): Get Water Attributes Visually in R - [diffify](https://diffify.com/R/gwavr)
++ [{geostan} 0.6.1](https://cran.r-project.org/package=geostan): Bayesian Spatial Analysis - [diffify](https://diffify.com/R/geostan)
++ [{plume} 0.2.4](https://cran.r-project.org/package=plume): A Simple Author Handler for Scientific Writing - [diffify](https://diffify.com/R/plume)
++ [{paws.storage} 0.6.0](https://cran.r-project.org/package=paws.storage): 'Amazon Web Services' Storage Services - [diffify](https://diffify.com/R/paws.storage)
++ [{paws.machine.learning} 0.6.0](https://cran.r-project.org/package=paws.machine.learning): 'Amazon Web Services' Machine Learning Services - [diffify](https://diffify.com/R/paws.machine.learning)
++ [{FaaSr} 1.2.1](https://cran.r-project.org/package=FaaSr): FaaS (Function as a Service) Package - [diffify](https://diffify.com/R/FaaSr)
++ [{paws.database} 0.6.0](https://cran.r-project.org/package=paws.database): 'Amazon Web Services' Database Services - [diffify](https://diffify.com/R/paws.database)
++ [{EpiNow2} 1.5.0](https://cran.r-project.org/package=EpiNow2): Estimate Real-Time Case Counts and Time-Varying Epidemiological
+Parameters - [diffify](https://diffify.com/R/EpiNow2)
++ [{popEpi} 0.4.12](https://cran.r-project.org/package=popEpi): Functions for Epidemiological Analysis using Population Data - [diffify](https://diffify.com/R/popEpi)
++ [{fslr} 2.25.3](https://cran.r-project.org/package=fslr): Wrapper Functions for 'FSL' ('FMRIB' Software Library) from
+Functional MRI of the Brain ('FMRIB') - [diffify](https://diffify.com/R/fslr)
++ [{fmtr} 1.6.4](https://cran.r-project.org/package=fmtr): Easily Apply Formats to Data - [diffify](https://diffify.com/R/fmtr)
++ [{ftExtra} 0.6.4](https://cran.r-project.org/package=ftExtra): Extensions for 'Flextable' - [diffify](https://diffify.com/R/ftExtra)
++ [{ExpImage} 0.10.1](https://cran.r-project.org/package=ExpImage): Analysis of Images in Experiments - [diffify](https://diffify.com/R/ExpImage)
++ [{arcgisutils} 0.3.0](https://cran.r-project.org/package=arcgisutils): ArcGIS Utility Functions - [diffify](https://diffify.com/R/arcgisutils)
++ [{logr} 1.3.8](https://cran.r-project.org/package=logr): Creates Log Files - [diffify](https://diffify.com/R/logr)
++ [{insurancerating} 0.7.3](https://cran.r-project.org/package=insurancerating): Analytic Insurance Rating Techniques - [diffify](https://diffify.com/R/insurancerating)
++ [{leaflegend} 1.2.1](https://cran.r-project.org/package=leaflegend): Add Custom Legends to 'leaflet' Maps - [diffify](https://diffify.com/R/leaflegend)
++ [{taylor} 3.1.0](https://cran.r-project.org/package=taylor): Lyrics and Song Data for Taylor Swift's Discography - [diffify](https://diffify.com/R/taylor)
++ [{scientific} 2024.2](https://cran.r-project.org/package=scientific): Highly Customizable 'rmarkdown' Theme for Scientific Reporting - [diffify](https://diffify.com/R/scientific)
++ [{ggsurvfit} 1.1.0](https://cran.r-project.org/package=ggsurvfit): Flexible Time-to-Event Figures - [diffify](https://diffify.com/R/ggsurvfit)
++ [{tidylog} 1.1.0](https://cran.r-project.org/package=tidylog): Logging for 'dplyr' and 'tidyr' Functions - [diffify](https://diffify.com/R/tidylog)
++ [{formatdown} 0.1.4](https://cran.r-project.org/package=formatdown): Formatting Numbers in 'rmarkdown' Documents - [diffify](https://diffify.com/R/formatdown)
++ [{tinycodet} 0.5.0](https://cran.r-project.org/package=tinycodet): Functions to Help in your Coding Etiquette - [diffify](https://diffify.com/R/tinycodet)
++ [{jsmodule} 1.5.4](https://cran.r-project.org/package=jsmodule): 'RStudio' Addins and 'Shiny' Modules for Medical Research - [diffify](https://diffify.com/R/jsmodule)
+Fitting - [diffify](https://diffify.com/R/manymome)
++ [{editbl} 1.0.4](https://cran.r-project.org/package=editbl): 'DT' Extension for CRUD (Create, Read, Update, Delete)
+Applications in 'shiny' - [diffify](https://diffify.com/R/editbl)
++ [{streetscape} 1.0.1](https://cran.r-project.org/package=streetscape): Collect And Investigate Street Views For Urban Science - [diffify](https://diffify.com/R/streetscape)
++ [{happign} 0.3.0](https://cran.r-project.org/package=happign): R Interface to 'IGN' Web Services - [diffify](https://diffify.com/R/happign)
++ [{manydata} 0.9.3](https://cran.r-project.org/package=manydata): A Portal for Global Governance Data - [diffify](https://diffify.com/R/manydata)
++ [{activAnalyzer} 2.1.1](https://cran.r-project.org/package=activAnalyzer): A 'Shiny' App to Analyze Accelerometer-Measured Daily Physical Behavior Data - [diffify](https://diffify.com/R/activAnalyzer)
++ [{flextable} 0.9.6](https://cran.r-project.org/package=flextable): Functions for Tabular Reporting - [diffify](https://diffify.com/R/flextable)
 
 ### Videos and Podcasts
 
@@ -162,3 +201,5 @@ Events in 3 Months:
 ### Quotes of the Week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Had a great example recently of the advantages of using <a href="https://twitter.com/hashtag/targets?src=hash&amp;ref_src=twsrc%5Etfw">#targets</a> for <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> workflows. My EC2 instance decided to eat itself &amp; crash a few hrs in. Yes the current function was lost but the 3hrs of analysis prior was perfectly captured in targets, ready to run where it left off👍 <a href="https://t.co/ohxY5j3IXK">pic.twitter.com/ohxY5j3IXK</a></p>&mdash; Luke Pembleton (@lwpembleton) <a href="https://twitter.com/lwpembleton/status/1788983056264753589?ref_src=twsrc%5Etfw">May 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/h5jhKAY5nw">https://t.co/h5jhKAY5nw</a> <a href="https://t.co/LsDuISEYhm">pic.twitter.com/LsDuISEYhm</a></p>&mdash; Bruno Rodrigues (@brodriguesco@fosstodon.org) (@brodriguesco) <a href="https://twitter.com/brodriguesco/status/1788326824109326636?ref_src=twsrc%5Etfw">May 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
