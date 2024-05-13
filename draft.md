@@ -18,7 +18,11 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 + [R Dplyr vs. DuckDB - How to Enhance Your Data Processing Pipelines with R DuckDB](https://www.appsilon.com/post/r-dplyr-vs-duckdb)
 
+![duckdb](https://raw.githubusercontent.com/rweekly/image/master/2024/W20/p-1600_600.png)
+
 + [TLG Catalog 🤝 WebR](https://pharmaverse.github.io/blog/posts/2024-05-08_tlg_catalog_webr/tlg_catalog_webr.html)
+
+![duckdb](https://raw.githubusercontent.com/rweekly/image/master/2024/W20/tlg_catalog_600.png)
 
 ### Insights
 
@@ -32,13 +36,13 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 + [The Aesthetics Wiki - an R Addendum](https://www.rostrum.blog/posts/2024-05-08-aesthetic/)
 
+![aesthetics](https://raw.githubusercontent.com/rweekly/image/master/2024/W20/passion_600.png)
+
 + [Demo repository for creating a Quarto workflow with {quarto-webr} and {quarto-pyodide}](https://github.com/coatless-quarto/quarto-webr-pyodide-demo)
 
 + [Data Usage with Postprocessing](https://blog.aml4td.org/posts/data-usage-for-postprocessors/)
 
 + [If Doom runs everywhere, it must run on Shiny](https://pacha.dev/blog/2024/05/10/index.html)
-
-### R in the Real World
 
 ### R in Organizations
 
@@ -47,9 +51,6 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 ### R in Academia
 
 + [Dynamic Interactions for R and Python](https://talks.thecoatlessprofessor.com/stats352-guest-lectures-on-dynamic-interactions-wasm/day01a-wasm.html#/title-slide)
-
-### Resources
-
 
 ### New Releases
 
@@ -121,21 +122,11 @@ Applications in 'shiny' - [diffify](https://diffify.com/R/editbl)
 
 + [R's new exploit: how it works & other ways you're vulnerable](https://www.youtube.com/watch?v=WGvXEi4nG5k)
 
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
 ### R Internationally
 
 + [Modelación Ordenada con R](https://davidrsch.github.io/TMwRes/): Aprende todo sobre el proceso de creación de modelos de aprendizaje automático con esta traducción de "Modelación Ordenada con R" un libro de Max Kuhn y Julia Silge con el que aprenderas a través de ejemplos todo lo realcionado con la creación de modelos de aprendizaje automático listos para producción.
 
 + [SatRdays London 2024: Thanks for coming!](https://www.jumpingrivers.com/blog/satrdays-london-2024-thanks-for-coming-r-conference/)
-
 
 ### Tutorials
 
@@ -181,12 +172,6 @@ Events in 3 Months:
 + [Cluster Analysis in R workshop](https://r-posts.com/cluster-analysis-in-r-workshop/)
 
 + [Reproducible research with Nix and rix Workshop](https://www.leibniz-openscience.de/event/los-workshop-reproducible-research-with-nix-and-rix/)
-
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Connect
 
