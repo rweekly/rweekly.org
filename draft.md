@@ -18,11 +18,8 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 
 + [R Dplyr vs. DuckDB - How to Enhance Your Data Processing Pipelines with R DuckDB](https://www.appsilon.com/post/r-dplyr-vs-duckdb)
 
-![duckdb](https://raw.githubusercontent.com/rweekly/image/master/2024/W20/p-1600_600.png)
-
 + [TLG Catalog 🤝 WebR](https://pharmaverse.github.io/blog/posts/2024-05-08_tlg_catalog_webr/tlg_catalog_webr.html)
 
-![duckdb](https://raw.githubusercontent.com/rweekly/image/master/2024/W20/tlg_catalog_600.png)
 
 ### Insights
 
@@ -31,6 +28,8 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 + [The True ROI of Doing It Right the First Time in Software Projects ](https://www.appsilon.com/post/do-it-right-the-first-time)
 
 + [R Dplyr vs. DuckDB - How to Enhance Your Data Processing Pipelines with R DuckDB](https://www.appsilon.com/post/r-dplyr-vs-duckdb)
+
+![duckdb](https://raw.githubusercontent.com/rweekly/image/master/2024/W20/p-1600_600.png)
 
 + [Worldwide Bureaucracy Indicators - Comparison of the salaries of the Government Doctors in different countries](https://aditya-dahiya.github.io/projects_presentations/data_vizs/tidy_wbi.html#government-salaries-doctors-vs.-nurses)
 
@@ -47,6 +46,8 @@ This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam
 ### R in Organizations
 
 + [TLG Catalog 🤝 WebR](https://pharmaverse.github.io/blog/posts/2024-05-08_tlg_catalog_webr/tlg_catalog_webr.html)
+
+![tlg_catalog](https://raw.githubusercontent.com/rweekly/image/master/2024/W20/tlg_catalog_600.png)
 
 ### R in Academia
 
