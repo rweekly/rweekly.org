@@ -76,7 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [How to replace some non-available values in a vector with values coming from another vector?](https://rdiscovery.netlify.app/posts/2024-05-10_coalesce/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
