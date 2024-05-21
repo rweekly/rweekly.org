@@ -46,6 +46,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 + [{ravetools} 0.1.5](https://cran.r-project.org/package=ravetools): Signal and Image Processing Toolbox for Analyzing Intracranial
 Electroencephalography Data
 
+<img width="616" alt="Screenshot 2024-05-21 at 10 17 03" src="https://github.com/rweekly/rweekly.org/assets/53487593/5e48cedc-b672-4a35-ba6a-9875470bdb5d">
+
 + [{mgwrhw} 1.1.1.5](https://cran.r-project.org/package=mgwrhw): Displays GWR (Geographically Weighted Regression) and Mixed GWR
 Output and Map
 
@@ -63,7 +65,9 @@ Protein-Protein Interaction Networks
 + [{srcpkgs} 0.1](https://cran.r-project.org/package=srcpkgs): R Source Packages Manager
 
 + [{tricolore} 1.2.4](https://cran.r-project.org/package=tricolore): A Flexible Color Scale for Ternary Compositions
-  
+
+<img width="834" alt="Screenshot 2024-05-21 at 10 15 24" src="https://github.com/rweekly/rweekly.org/assets/53487593/ce8326dc-c150-4997-b091-d4f073bf9b1e">
+
 + [{biologicalActivityIndices} 0.1.0](https://cran.r-project.org/package=biologicalActivityIndices): Biological Activity Indices
   
 + [{arcgisplaces} 0.1.0](https://cran.r-project.org/package=arcgisplaces): Search for POIs using ArcGIS 'Places Service'
@@ -106,7 +110,9 @@ Protein-Protein Interaction Networks
 + [{fedmatch} 2.0.6](https://cran.r-project.org/package=fedmatch): Fast, Flexible, and User-Friendly Record Linkage Methods - [diffify](https://diffify.com/R/fedmatch)
  
 + [{openairmaps} 0.9.0](https://cran.r-project.org/package=openairmaps): Create Maps of Air Pollution Data - [diffify](https://diffify.com/R/openairmaps)
- 
+
+<img width="783" alt="Screenshot 2024-05-21 at 10 19 33" src="https://github.com/rweekly/rweekly.org/assets/53487593/5df468c2-2a37-41a2-a218-9c8f48c4b1f8">
+
 + [{prqlr} 0.8.1](https://cran.r-project.org/package=prqlr): R Bindings for the 'prqlc' Rust Library - [diffify](https://diffify.com/R/prqlr)
 
 + [{modelsummary} 2.1.0](https://cran.r-project.org/package=modelsummary): Summary Tables and Plots for Statistical Models and Data:
@@ -117,7 +123,6 @@ Beautiful, Customizable, and Publication-Ready - [diffify](https://diffify.com/R
 + [{xaringanExtra} 0.8.0](https://cran.r-project.org/package=xaringanExtra): Extras and Extensions for 'xaringan' Slides - [diffify](https://diffify.com/R/xaringanExtra)
  
 + [{ruminate} 0.2.3](https://cran.r-project.org/package=ruminate): A Pharmacometrics Data Transformation and Analysis Tool - [diffify](https://diffify.com/R/ruminate)
-
 
 + [{SSBtools} 1.5.2](https://cran.r-project.org/package=SSBtools): Statistics Norway's Miscellaneous Tools - [diffify](https://diffify.com/R/SSBtools)
 
