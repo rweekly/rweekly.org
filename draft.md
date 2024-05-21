@@ -1,4 +1,4 @@
-<img width="995" alt="Screenshot 2024-05-21 at 09 30 24" src="https://github.com/rweekly/rweekly.org/assets/53487593/bbe7dbc2-af2d-423a-91f5-35e81fb82179">---
+---
 layout: draft
 title: R Weekly 2024-W00
 description: Draft of the R Weekly
