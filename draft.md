@@ -16,7 +16,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
  
 - [Find Out How many Times Faster your Code is](https://www.njtierney.com/post/2024/05/17/summary-benchmark/)
 
-- [Communication Tips for your Open-Source Project](https://ropensci.org/blog/2024/05/17/communication-tips-oss-project/)                                                                                                                                  
+- [Communication Tips for your Open-Source Project](https://ropensci.org/blog/2024/05/17/communication-tips-oss-project/)
+
 ### Insights
   
 - [Gergely Daróczi’s Journey: Empowering R Users in Hungary](https://www.r-consortium.org/blog/2024/05/16/gergely-daroczis-journey-empowering-r-users-in-hungary)
@@ -27,23 +28,12 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 - [The Evolution of Melbourne’s Business Analytics and R Business User Group ](https://www.r-consortium.org/blog/2024/05/13/the-evolution-of-melbournes-business-analytics-and-r-business-user-group)
 
-- [Communication Tips for your Open-Source Project](https://ropensci.org/blog/2024/05/17/communication-tips-oss-project/)                                                                                                                                  
+- [Communication Tips for your Open-Source Project](https://ropensci.org/blog/2024/05/17/communication-tips-oss-project/)
 
 ### R in the Real World
 
 - [New York City's POC Population](https://kieranhealy.org/blog/archives/2024/05/16/new-york-citys-poc-population/)                                                                                                                                          
 <img width="589" alt="Screenshot 2024-05-21 at 09 42 43" src="https://github.com/rweekly/rweekly.org/assets/53487593/e7b607a6-bf4a-4fc5-ae61-16525d350bd6">
-
-### R in Organizations
-
-
-
-### R in Academia
-
-
-
-### Resources
-
 
 
 ### New Packages
@@ -51,102 +41,40 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
 
 - [RApiSerialize 0.1.3 on CRAN: Skipping XDR](http://dirk.eddelbuettel.com/blog/2024/05/14#rapiserialize_0.1.3)                                                                                                                                             
-
-
 **CRAN**
 
 + [{ravetools} 0.1.5](https://cran.r-project.org/package=ravetools): Signal and Image Processing Toolbox for Analyzing Intracranial
 Electroencephalography Data
-+ [{HydroMe} 2.1.1](https://cran.r-project.org/package=HydroMe): Estimating Water Retention and Infiltration Model Parameters
-using Experimental Data
-+ [{seqmon} 2.5](https://cran.r-project.org/package=seqmon): Group Sequential Design Class for Clinical Trials
-+ [{streamConnect} 0.0-2](https://cran.r-project.org/package=streamConnect): Connecting Stream Mining Components Using Sockets and Web
-Services
+
 + [{mgwrhw} 1.1.1.5](https://cran.r-project.org/package=mgwrhw): Displays GWR (Geographically Weighted Regression) and Mixed GWR
 Output and Map
-+ [{spbal} 1.0.0](https://cran.r-project.org/package=spbal): Spatially Balanced Sampling Algorithms
+
 + [{crosstalkr} 1.0.5](https://cran.r-project.org/package=crosstalkr): Analysis of Graph-Structured Data with a Focus on
 Protein-Protein Interaction Networks
+
 + [{crosslag} 0.1.0](https://cran.r-project.org/package=crosslag): Perform Linear or Nonlinear Cross Lag Analysis
-+ [{smlePH} 0.1.0](https://cran.r-project.org/package=smlePH): Sieve Maximum Full Likelihood Estimation for the Right-Censored
-Proportional Hazards Model
-+ [{MajMinKmeans} 0.1.0](https://cran.r-project.org/package=MajMinKmeans): k-Means Algorithm with a Majorization-Minimization Method
-+ [{lme4breeding} 1.0.1](https://cran.r-project.org/package=lme4breeding): Relationship-Based Mixed-Effects Models
-+ [{KMEANS.KNN} 0.1.0](https://cran.r-project.org/package=KMEANS.KNN): KMeans and KNN Clustering Package
-+ [{CleaningValidation} 1.0](https://cran.r-project.org/package=CleaningValidation): Cleaning Validation Functions for Pharmaceutical Cleaning
-Process
-+ [{bootsurv} 0.0.1](https://cran.r-project.org/package=bootsurv): Bootstrap Methods for Complete Survey Data
+  
 + [{bbnet} 1.0.1](https://cran.r-project.org/package=bbnet): Create Simple Predictive Models on Bayesian Belief Networks
-+ [{SplitSplitPlot} 0.0.1](https://cran.r-project.org/package=SplitSplitPlot): Analysis of Split-Split-Plot Experiments (Analise De
-Experimentos Em Parcela Subsubdividida)
-+ [{SLSEdesign} 0.0.1](https://cran.r-project.org/package=SLSEdesign): Optimal Regression Design under the Second-Order Least Squares
-Estimator
-+ [{skipTrack} 0.1.0](https://cran.r-project.org/package=skipTrack): A Bayesian Hierarchical Model that Controls for Non-Adherence in
-Mobile Menstrual Cycle Tracking
-+ [{SGPR} 0.1.2](https://cran.r-project.org/package=SGPR): Sparse Group Penalized Regression for Bi-Level Variable
-Selection
-+ [{ProgModule} 0.1.0](https://cran.r-project.org/package=ProgModule): Identification of Prognosis-Related Mutually Exclusive Modules
-+ [{GIMMEgVAR} 0.1.0](https://cran.r-project.org/package=GIMMEgVAR): Group Iterative Multiple Model Estimation with 'graphicalVAR'
-+ [{estimators} 0.8.5](https://cran.r-project.org/package=estimators): Parameter Estimation
-+ [{ClusTCR2} 1.7.3.01](https://cran.r-project.org/package=ClusTCR2): Identifying Similar T Cell Receptor Hyper-Variable Sequences
-with 'ClusTCR2'
-+ [{clarkeTest} 0.2.0](https://cran.r-project.org/package=clarkeTest): Distribution-Free Tests of Non-Nested Models
+
 + [{CDGHMM} 0.1.0](https://cran.r-project.org/package=CDGHMM): Hidden Markov Models for Multivariate Panel Data
+  
 + [{BioM2} 1.0.6](https://cran.r-project.org/package=BioM2): Biologically Explainable Machine Learning Framework
-+ [{optiscale} 1.2.3](https://cran.r-project.org/package=optiscale): Optimal Scaling
-+ [{xxdi} 0.0.1](https://cran.r-project.org/package=xxdi): Calculate Expertise Indices
-+ [{tstests} 1.0.0](https://cran.r-project.org/package=tstests): Time Series Goodness of Fit and Forecast Evaluation Tests
-+ [{burgle} 0.1.0](https://cran.r-project.org/package=burgle): 'Burgle': Stealing the Necessary Parts of Model Objects
-+ [{AQuality} 1.0](https://cran.r-project.org/package=AQuality): Water and Measurements Quality
+
 + [{srcpkgs} 0.1](https://cran.r-project.org/package=srcpkgs): R Source Packages Manager
-+ [{LTCDM} 1.0.0](https://cran.r-project.org/package=LTCDM): Latent Transition Cognitive Diagnosis Model with Covariates
-+ [{misuvi} 0.1.0](https://cran.r-project.org/package=misuvi): Access the Michigan Substance Use Vulnerability Index (MI-SUVI)
-+ [{mlelod} 1.0.0.1](https://cran.r-project.org/package=mlelod): MLE for Normally Distributed Data Censored by Limit of Detection
-+ [{UCSCXenaShiny} 2.1.0](https://cran.r-project.org/package=UCSCXenaShiny): Interactive Analysis of UCSC Xena Data
+
 + [{tricolore} 1.2.4](https://cran.r-project.org/package=tricolore): A Flexible Color Scale for Ternary Compositions
+  
 + [{biologicalActivityIndices} 0.1.0](https://cran.r-project.org/package=biologicalActivityIndices): Biological Activity Indices
+  
 + [{arcgisplaces} 0.1.0](https://cran.r-project.org/package=arcgisplaces): Search for POIs using ArcGIS 'Places Service'
-+ [{MBBEFDLite} 0.0.2](https://cran.r-project.org/package=MBBEFDLite): Statistical Functions for the
-Maxwell-Boltzmann-Bose-Einstein-Fermi-Dirac (MBBEFD) Family of
-Distributions
-+ [{RRNA} 1.1](https://cran.r-project.org/package=RRNA): Secondary Structure Plotting for RNA
-+ [{MixAll} 1.5.16](https://cran.r-project.org/package=MixAll): Clustering and Classification using Model-Based Mixture Models
-+ [{fastcmprsk} 1.24.5](https://cran.r-project.org/package=fastcmprsk): Fine-Gray Regression via Forward-Backward Scan
-+ [{freesurfer} 1.6.10](https://cran.r-project.org/package=freesurfer): Wrapper Functions for 'Freesurfer'
-+ [{CrossClustering} 4.1.2](https://cran.r-project.org/package=CrossClustering): A Partial Clustering Algorithm
-+ [{cpp11armadillo} 0.2.5](https://cran.r-project.org/package=cpp11armadillo): An 'Armadillo' Interface
-+ [{rvisidata} 1.0.0](https://cran.r-project.org/package=rvisidata): Wrapper for 'Visidata', an Interactive Multitool for Tabular
-Data
+  
 + [{rechaRge} 1.0.0](https://cran.r-project.org/package=rechaRge): HydroBudget – Groundwater Recharge Model
-+ [{GDILM.SIR} 0.1.0](https://cran.r-project.org/package=GDILM.SIR): Inference for Infectious Disease Transmission in SIR Framework
-+ [{doofa} 1.0](https://cran.r-project.org/package=doofa): Designs for Order-of-Addition Experiments
+  
 + [{rKolada} 0.2.3](https://cran.r-project.org/package=rKolada): Access Data from the 'Kolada' Database
-+ [{RcppLbfgsBlaze} 0.1.0](https://cran.r-project.org/package=RcppLbfgsBlaze): 'L-BFGS' Algorithm Based on 'Blaze' for 'R' and 'Rcpp'
-+ [{raybevel} 0.1.3](https://cran.r-project.org/package=raybevel): Generates Polygon Straight Skeletons and 3D Bevels
-+ [{mddmaps} 1.3.0](https://cran.r-project.org/package=mddmaps): Download World Mammal Maps
-+ [{LMoFit} 0.1.7](https://cran.r-project.org/package=LMoFit): Advanced L-Moment Fitting of Distributions
-+ [{clickableImageMap} 1.0](https://cran.r-project.org/package=clickableImageMap): Implement 'tableGrob' Object as a Clickable Image Map
-+ [{CensMFM} 3.1](https://cran.r-project.org/package=CensMFM): Finite Mixture of Multivariate Censored/Missing Data
+
 + [{qlcVisualize} 0.2.1](https://cran.r-project.org/package=qlcVisualize): Visualization for Quantitative Language Comparison
-+ [{microdiluteR} 1.0.1](https://cran.r-project.org/package=microdiluteR): Analysis of Broth Microdilution Assays
+
 + [{ggspark} 0.0.2](https://cran.r-project.org/package=ggspark): 'ggplot2' Functions to Create Tufte Style Sparklines
-+ [{fastkqr} 1.0.0](https://cran.r-project.org/package=fastkqr): A Fast Algorithm for Kernel Quantile Regression
-+ [{eider} 1.0.0](https://cran.r-project.org/package=eider): Declarative Feature Extraction from Tabular Data Records
-+ [{DatastreamR} 2.0.4](https://cran.r-project.org/package=DatastreamR): Datastream API
-+ [{hmmm} 1.0-5](https://cran.r-project.org/package=hmmm): Hierarchical Multinomial Marginal Models
-+ [{bshazard} 1.2](https://cran.r-project.org/package=bshazard): Nonparametric Smoothing of the Hazard Function
-+ [{vcrpart} 1.0-5](https://cran.r-project.org/package=vcrpart): Tree-Based Varying Coefficient Regression for Generalized Linear
-and Ordinal Mixed Models
-+ [{lrstat} 0.2.6](https://cran.r-project.org/package=lrstat): Power and Sample Size Calculation for Non-Proportional Hazards
-and Beyond
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
 
 ### Updated Packages
 
