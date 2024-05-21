@@ -469,7 +469,12 @@ Events in 3 Months:
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
-### rtistry
+### artistry
 
+<iframe src="https://fosstodon.org/@gmschroe/112418639728064975/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
 
 ### Quotes of the Week
+
+<iframe src="https://fosstodon.org/@coolbutuseless/110790243425871365/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you&#39;re about to start writing about creating art with sine and cosine waves for the <a href="https://twitter.com/hashtag/rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#rtistry</a> book, but your numerophobic self has to explain the math behind the sine and cosine waves first 🫠: <a href="https://t.co/g7wy923bgh">pic.twitter.com/g7wy923bgh</a></p>&mdash; Meghan Harris (@meghansharris) <a href="https://twitter.com/meghansharris/status/1768800314835025980?ref_src=twsrc%5Etfw">March 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
