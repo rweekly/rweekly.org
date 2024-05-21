@@ -14,7 +14,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Draft
 
 - [Probability of receiving a credit; using learningmachine](https://thierrymoudiki.github.io/blog/2024/05/12/python/r/learningmachine-credit)                                                                                                              
-
 - [A simple probabilistic algorithm for estimating the number of distinct elements in a data stream](https://statisticaloddsandends.wordpress.com/2024/05/18/a-simple-probabilistic-algorithm-for-estimating-the-number-of-distinct-elements-in-a-data-stream/)
 
 - [New York City's POC Population](https://kieranhealy.org/blog/archives/2024/05/16/new-york-citys-poc-population/)                                                                                                                                          
@@ -55,8 +54,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-
-
+- [Automate code refactoring with {xmlparsedata} and {brio}](https://masalmon.eu/2024/05/15/refactoring-xml/)                                                                                                                                                 
+- [Find Out How many Times Faster your Code is](https://www.njtierney.com/post/2024/05/17/summary-benchmark/)                                                                                                                                                
+- [Communication Tips for your Open-Source Project](https://ropensci.org/blog/2024/05/17/communication-tips-oss-project/)                                                                                                                                  
 ### Insights
 
 
