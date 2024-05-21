@@ -156,14 +156,6 @@ ct.org/package=opencpu): Producing and Reproducing Results - [diffify](https://d
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
 ### R Internationally
 
 - [Big Book of R now has ( books in Spanish!)](https://oscarbaruffa.com/big-book-of-r-now-has-books-in-spanish/)
@@ -172,7 +164,8 @@ ct.org/package=opencpu): Producing and Reproducing Results - [diffify](https://d
 
 - [AIC in the well-specified linear model: theory and simulation](https://vgherard.github.io/posts/2024-05-09-aic-in-the-well-specified-linear-model-theory-and-simulation)
 
-- [Find Out How many Times Faster your Code is](https://www.njtierney.com/post/2024/05/17/summary-benchmark/)                                                                                                                                                
+- [Find Out How many Times Faster your Code is](https://www.njtierney.com/post/2024/05/17/summary-benchmark/)
+
 <img width="685" alt="Screenshot 2024-05-21 at 09 43 45" src="https://github.com/rweekly/rweekly.org/assets/53487593/18574b58-5cc2-4410-bf6f-78ad1a14524a">
 
 - [Automate code refactoring with {xmlparsedata} and {brio}](https://masalmon.eu/2024/05/15/refactoring-xml/)
@@ -184,16 +177,21 @@ ct.org/package=opencpu): Producing and Reproducing Results - [diffify](https://d
 - [A simple probabilistic algorithm for estimating the number of distinct elements in a data stream](https://statisticaloddsandends.wordpress.com/2024/05/18/a-simple-probabilistic-algorithm-for-estimating-the-number-of-distinct-elements-in-a-data-stream/)
 
 - [Probability of receiving a credit; using learningmachine](https://thierrymoudiki.github.io/blog/2024/05/12/python/r/learningmachine-credit)
-                                                                                                          
+
 + [How to replace some non-available values in a vector with values coming from another vector?](https://rdiscovery.netlify.app/posts/2024-05-10_coalesce/)
 
 + [How to filter values in a nested tibble without using `filter()` from dplyr?](https://rdiscovery.netlify.app/posts/2024-05-20_filter-nested-tibble/)
 
-- [Mastering gregexpr() in R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2024-05-17/)                                                                                                                                               
-- [Counting Words in a String in R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2024-05-16/)                                                                                                                                        
-- [How to Select Columns Containing a Specific String in R](https://www.spsanderson.com/steveondata/posts/2024-05-15/)                                                                                                                                     
-- [Checking if Multiple Columns are Equal in R](https://www.spsanderson.com/steveondata/posts/2024-05-14/)                                                                                                                                                   
-- [How to Check if a Column Exists in a Data Frame in R](https://www.spsanderson.com/steveondata/posts/2024-05-13/)                                                                                                                                         
+- [Mastering gregexpr() in R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2024-05-17/)
+ 
+- [Counting Words in a String in R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2024-05-16/)
+ 
+- [How to Select Columns Containing a Specific String in R](https://www.spsanderson.com/steveondata/posts/2024-05-15/)
+  
+- [Checking if Multiple Columns are Equal in R](https://www.spsanderson.com/steveondata/posts/2024-05-14/)
+ 
+- [How to Check if a Column Exists in a Data Frame in R](https://www.spsanderson.com/steveondata/posts/2024-05-13/)
+ 
 - [3MW (Reactive expressions in R-Shiny)](https://3mw.albert-rapp.de/p/shiny-reactives)    
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
