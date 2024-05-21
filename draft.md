@@ -119,6 +119,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to replace some non-available values in a vector with values coming from another vector?](https://rdiscovery.netlify.app/posts/2024-05-10_coalesce/)
 
++ [How to filter values in a nested tibble without using `filter()` from dplyr?](https://rdiscovery.netlify.app/posts/2024-05-20_filter-nested-tibble/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
