@@ -75,8 +75,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
-
-
++ [Automate Canvas LMS Tasks with vvcanvas](https://vusaverse.github.io/posts/vvcanvas.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
