@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
+- [Announcing gptstudio v0.4.0: Enhanced AI Integration in Your RStudio IDE](https://github.com/MichelNivard/gptstudio/discussions/210)
 
 ### New Packages
 
