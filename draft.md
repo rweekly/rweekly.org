@@ -5,7 +5,6 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@jonocarroll), with help from the RWeekly team members and contributors.
@@ -26,7 +25,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [A detailed introduction to Deep Quasi-Randomized ‘neural’ networks](https://thierrymoudiki.github.io/blog/2024/05/19/python/r/deep-qrns)
 + [A security issue with R serialization](https://f.briatte.org/r/security-issue-with-r-serialization)
 + [rOpenSci News Digest, May 2024](https://ropensci.org/blog/2024/05/24/ropensci-news-may-2024/)
-
 + [What I edit when refactoring a test file](https://masalmon.eu/2024/05/23/refactoring-tests/)
 + [Metallica tour history with R and PowerBI](https://johnmackintosh.net/blog/powerbi/2024-05-23-met-bi/)
 + [Testing components with shinytest2](https://jakubsob.github.io/blog/testing-components-with-shinytest2/)
@@ -39,9 +37,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [How to Split a Number into Digits in R Using gsub() and Nstrsplit()](https://www.spsanderson.com/steveondata/posts/2024-05-22/)
 + [How to Drop or Select Rows with a Specific String in R](https://www.spsanderson.com/steveondata/posts/2024-05-23/)
 + [Update to healthyR.data 1.1.0](https://www.spsanderson.com/steveondata/posts/2024-05-24/)
-
 + [3MW (Dynamic UI with R-Shiny)](https://3mw.albert-rapp.de/p/shiny-dynamic-ui)
-
 + [Get a Free New Logo for Your R Package in Our Hex Design Contest](https://www.appsilon.com/post/hex-contest)
 
 ### R Users
@@ -56,7 +52,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### New Packages
 
-<p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p>
+<p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
 **CRAN**
 
@@ -133,16 +129,11 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-
 ### Connect
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
-### rtistry
-
-
 ### Quotes of the Week
 
 <iframe src="https://mastodon.social/@o_simardcasanova/112462804064395795/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
-
 
