@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Make your functions compa-tibble](https://hugogruson.fr/posts/compa-tibble/)
 
 
 ### R in the Real World
