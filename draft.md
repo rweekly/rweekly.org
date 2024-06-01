@@ -40,6 +40,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### New Packages
 
++ [ggfoundry](https://cgoo4.github.io/ggfoundry/articles/example_uses.html) - Hand-crafted fillable shapes for ggplot2.
+
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
