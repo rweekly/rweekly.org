@@ -79,7 +79,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [What is the difference between (un)packing and (un)nesting a tibble?](https://rdiscovery.netlify.app/posts/2024-05-30_pack-nest/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
