@@ -40,19 +40,20 @@ This week’s release was curated by [Jon Calder](https://fosstodon.org/@jonmcal
 
 ### New Packages
 
-+ [{ggfoundry} 0.1.1](https://cgoo4.github.io/ggfoundry/articles/example_uses.html) - Hand-crafted fillable shapes for ggplot2.
-
-+ [{geotargets} 0.1.0](https://www.njtierney.com/post/2024/05/27/geotargets-0-1-0/) - 'Targets' Extensions for Geospatial Formats
-
-+ [{marquee} 0.1.0](https://www.tidyverse.org/blog/2024/05/marquee-0-1-0/)
-
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
-
 **CRAN**
 
++ [{ggfoundry} 0.1.1](https://cgoo4.github.io/ggfoundry/articles/example_uses.html): Hand-crafted fillable shapes for ggplot2.
 
++ [{marquee} 0.1.0](https://www.tidyverse.org/blog/2024/05/marquee-0-1-0/): Markdown Parser and Renderer for R Graphics
+
++ [{sparsevctrs} 0.1.0](https://cran.r-project.org/package=sparsevctrs): Sparse Vectors for Use in Data Frames
+
++ [{geoarrow} 0.2.0](https://cran.r-project.org/package=geoarrow): Extension Types for Spatial Data for Use with 'Arrow'
+
++ [{emphatic} 0.1.8](https://cran.r-project.org/package=emphatic): Exploratory Analysis of Tabular Data using Colour Highlighting
 
 **Bioconductor**
 
@@ -60,15 +61,22 @@ This week’s release was curated by [Jon Calder](https://fosstodon.org/@jonmcal
 
 **GitHub or Bitbucket**
 
-
++ [{geotargets} 0.1.0](https://www.njtierney.com/post/2024/05/27/geotargets-0-1-0/): 'Targets' Extensions for Geospatial Formats
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{survivoR} 2.3.3](http://gradientdescending.com/survivor-2-3-3-is-now-available/)
++ [{survivoR} 2.3.3](http://gradientdescending.com/survivor-2-3-3-is-now-available/): Data from all Seasons of Survivor (US) TV Series in Tidy Format - [diffify](https://diffify.com/R/survivoR)
 
-+ [{RcppArmadillo} 0.12.8.4.0](http://dirk.eddelbuettel.com/blog/2024/05/31#rcpparmadillo_0.12.8.4.0)
++ [{RcppArmadillo} 0.12.8.4.0](http://dirk.eddelbuettel.com/blog/2024/05/31#rcpparmadillo_0.12.8.4.0): 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra
+Library - [diffify](https://diffify.com/R/RcppArmadillo)
+
++ [{RMariaDB} 1.3.2](https://cran.r-project.org/package=RMariaDB): Database Interface and MariaDB Driver - [diffify](https://diffify.com/R/RMariaDB)
+
++ [{bulkreadr} 1.1.1](https://cran.r-project.org/package=bulkreadr): The Ultimate Tool for Reading Data in Bulk - [diffify](https://diffify.com/R/bulkreadr)
+
++ [{ggwordcloud} 0.6.2](https://cran.r-project.org/package=ggwordcloud): A Word Cloud Geom for 'ggplot2' - [diffify](https://diffify.com/R/ggwordcloud)
 
 ### Videos and Podcasts
 
