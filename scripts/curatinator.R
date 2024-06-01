@@ -43,6 +43,12 @@ create_text <- function(package_version, package_name, package_title, feed_type 
   return(x)
 }
 
+search_cran_package_insistently <- purrr::insistently(
+  pkgsearch::cran_package,
+  rate = purrr::rate_backoff(pause_base = 1, pause_cap = 5, max_times = 3),
+  quiet = TRUE
+)
+
 process_cranberries <- function(feed_type, start_date, end_date = as.Date(lubridate::now())) {
   # form the URL based on type (either "new" or "updated")
   cb_url <- glue::glue("https://dirk.eddelbuettel.com/cranberries/cran/{feed_type}/index.rss")
@@ -57,7 +63,7 @@ process_cranberries <- function(feed_type, start_date, end_date = as.Date(lubrid
     mutate(package_name = purrr::map_chr(item_link, ~tidy_package_name(.x))) %>%
 
     # leverage the awesome pkgsearch package to get metadata
-    mutate(package_meta = purrr::map(package_name, ~pkgsearch::cran_package(.x)),
+    mutate(package_meta = purrr::map(package_name, ~search_cran_package_insistently(.x)),
            package_version = purrr::map_chr(package_meta, "Version"),
            package_title = purrr::map_chr(package_meta, "Title"),
            package_date = purrr::map_chr(package_meta, "Date/Publication")) %>%
