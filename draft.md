@@ -18,8 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-- [Make your functions compa-tibble](https://hugogruson.fr/posts/compa-tibble/)
++ [Make your functions compa-tibble](https://hugogruson.fr/posts/compa-tibble/)
 
++ [Non-API calls conundrum, CRAN, cpp11, minty, true length, vendoring, readODS](https://chainsawriot.com/postmannheim/2024/05/26/readods230.html)
 
 ### R in the Real World
 
