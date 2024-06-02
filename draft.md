@@ -140,6 +140,8 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
++ [Cascadia R Conference 2024](cascadiaRconf.com)
+
 ### Grants & Funding
 
 
