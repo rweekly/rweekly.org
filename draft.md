@@ -82,6 +82,8 @@ Library - [diffify](https://diffify.com/R/RcppArmadillo)
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
++ [TidyX Episode 181 - I Likert Coffee](https://bit.ly/TidyX_Ep181)
+
 
 ### Gist & Cookbook
 
