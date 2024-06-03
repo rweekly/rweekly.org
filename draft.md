@@ -121,6 +121,8 @@ Library - [diffify](https://diffify.com/R/RcppArmadillo)
 
 + [R One Billion Row Challenge: Is R Viable Option for Analyzing Huge Datasets?](https://www.appsilon.com/post/r-one-billion-row-challenge)
 
++ [What are the use cases for using nested data over packed data?](https://rdiscovery.netlify.app/posts/2024-06-03_use-case-pack-nest/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
