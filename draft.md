@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Two Roads Diverged: Opinions on "dialects" in R](https://rdatatable-community.github.io/The-Raft/posts/2024-05-20-kelly_bodwin/)
 
 ### R in the Real World
 
