@@ -18,7 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+
 + [Two Roads Diverged: Opinions on "dialects" in R](https://rdatatable-community.github.io/The-Raft/posts/2024-05-20-kelly_bodwin/)
+
++ [The igraph R package crossed the 2.0 threshold!](https://igraph.org/2024/05/21/rigraph-2.0.0.html)
+
 
 ### R in the Real World
 
@@ -58,6 +62,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{mirai} 1.1.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R
+
++ [{nanonext} 1.1.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
@@ -77,7 +85,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Converting formatting in spreadsheets into usable data](https://luisdva.github.io/rstats/problematic-spreadsheets/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
