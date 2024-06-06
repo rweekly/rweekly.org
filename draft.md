@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Team Strength: A CanMNT Snapshot](https://6yardscreamers.netlify.app/posts/team_strength_canmnt/)
 
 ### R in Organizations
 
