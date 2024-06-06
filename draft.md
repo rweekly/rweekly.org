@@ -81,7 +81,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Converting formatting in spreadsheets into usable data](https://luisdva.github.io/rstats/problematic-spreadsheets/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
