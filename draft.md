@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [The igraph R package crossed the 2.0 threshold!](https://igraph.org/2024/05/21/rigraph-2.0.0.html)
 
 ### R in the Real World
 
