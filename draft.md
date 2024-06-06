@@ -96,6 +96,8 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
++ [posit::conf(2024)](https://posit.co/conference/)
+
 ### Grants & Funding
 
 
