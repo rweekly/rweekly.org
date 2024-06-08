@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/), with help from the R Weekly team members and contributors.
 
 
 
@@ -23,14 +23,30 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [The igraph R package crossed the 2.0 threshold!](https://igraph.org/2024/05/21/rigraph-2.0.0.html)
 
++ [Why you need small, informative Git commits](https://masalmon.eu/2024/06/03/small-commits/)
+
++ [Making a Ridiculously Fast™ API Client](https://josiahparry.com/posts/2024-06-06-designing-arcgisgeocode)
+
++ [3MW (RStudio productivity hacks)](https://3mw.albert-rapp.de/p/rstudio-shortkeys-settings)
+
++ [Boost Your Shiny App's Code Quality  with {box.linters} in {rhino} 1.8.0](https://www.appsilon.com/post/box-linters-in-rhino-1-8-0)
+
++ [From scripts to package. Developing dendroNetwork and learning with rOpenSci](https://ropensci.org/blog/2024/06/06/from-scripts-to-package/)
 
 ### R in the Real World
 
 + [Team Strength: A CanMNT Snapshot](https://6yardscreamers.netlify.app/posts/team_strength_canmnt/)
 
++ [Causal Inference: Technology Stocks Surge](https://datageeek.com/2024/06/04/causal-inference-surging-technology-index/)
+
++ [Public Pinball Machines per Capita: A new global indicator](https://sumsar.net/blog/pinball-machines-per-capita/)
+
++ [The Sanctuary: Stats and data from {survivoR}](http://gradientdescending.com/the-sanctuary-stats-and-data-from-survivor/)
+
+
 ### R in Organizations
 
-
++ [Full-time Korea R User Group Founder Victor Lee Sees AI Future for R and Quarto Textbooks](https://www.r-consortium.org/blog/2024/06/04/full-time-korea-r-user-group-founder-victor-lee-sees-ai-future-for-r-and-quarto-textbooks)
 
 ### R in Academia
 
@@ -48,29 +64,35 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
++ [{baf} 0.0.1](https://cran.r-project.org/package=baf): Block Assignment Files
 
 **Bioconductor**
 
++ [{shiny.gosling} 1.0.1](https://www.appsilon.com/post/shiny-gosling-bioconductor): A Grammar-based Toolkit for Scalable and Interactive Genomics Data Visualization for R and Shiny
 
 
 **GitHub or Bitbucket**
 
++ [{litedown} 0.0.20](https://github.com/yihui/litedown): A Lightweight Version of R Markdown
 
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [{mirai} 1.1.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R
++ [{mirai} 1.1.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R - [diffify](https://diffify.com/R/mirai)
 
-+ [{nanonext} 1.1.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen)
++ [{nanonext} 1.1.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen) - [diffify](https://diffify.com/R/nanonext)
 
 + [{santoku} 1.0.0](https://cran.r-project.org/package=santoku): A versatile cutting tool
+
++ [{ulid} 0.4.0](http://dirk.eddelbuettel.com/blog/2024/06/04/#ulid_0.4.0): Generate Universally Unique 'Lexicographically' 'Sortable' Identifiers - [diffify](https://diffify.com/R/ulid)
 
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
+
++ [SDS 790: Open-Source Libraries for Data Science at the New York R Conference](https://www.superdatascience.com/podcast/open-source-libraries-for-data-science-at-the-new-york-r-conference)
 
 
 ### Gist & Cookbook
@@ -79,7 +101,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [A decade of parkrun](https://tangandhara.shinyapps.io/ParkrunDashboard/)
 
 ### R Internationally
 
@@ -87,7 +109,19 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Geocode from R using {arcgisgeocode}](https://www.esri.com/arcgis-blog/products/developers/announcements/geocode-from-r-using-arcgisgeocode/)
+
++ [Coloured text in {ggplot2}: {ggtext} vs {marquee}](https://nrennie.rbind.io/blog/coloured-text-legend-ggplot-ggtext-marquee/)
+
++ [Why you shouldn’t use boxplots](https://albert-rapp.de/posts/ggplot2-tips/29_no_boxplots/29_no_boxplots.html)
+
 + [Converting formatting in spreadsheets into usable data](https://luisdva.github.io/rstats/problematic-spreadsheets/)
+
++ [simstudy: another way to generate data from a non-standard density](https://www.rdatagen.net/post/2024-06-04-simstudy-another-way-to-generate-data-from-a-non-standard-density/)
+
++ [Simple custom colour palettes with R ggplot graphs](https://tomaztsql.wordpress.com/2024/06/02/simple-custom-colour-palettes-with-r-ggplot-graphs/)
+
++ [How to Check if a Character is in a String in R](https://www.spsanderson.com/steveondata/posts/2024-06-07/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -97,10 +131,13 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ### Call for Participation
 
++ [June 2024 Training Update](https://www.jumpingrivers.com/blog/june-2024-training-update-r-python-statistical-modelling-shiny-visualisation-wrangling/)
+
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
 
++ [Polytomous Latent Class Analysis and Regression in R workshop - July 3](https://r-posts.com/polytomous-latent-class-analysis-and-regression-in-r-workshop/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
@@ -108,7 +145,7 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-+ [posit::conf(2024)](https://posit.co/conference/)
++ [posit::conf(2024) - August 12 - 14](https://posit.co/conference/)
 
 + [Cascadia R Conference 2024](https://cascadiaRconf.com)
 
@@ -125,5 +162,12 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:2hvjmbw263gctmvb25tove5c/app.bsky.feed.post/3ku5tt4oiks2q" data-bluesky-cid="bafyreih6pulzr763tgaqe7bcbnurhfntlk4ckotwbemkyx5opitil4r3m4"><p lang="en">#TidyTuesday week 23: Cheese #Rstats #dataviz #ggplot<br><br><a href="https://bsky.app/profile/did:plc:2hvjmbw263gctmvb25tove5c/post/3ku5tt4oiks2q?ref_src=embed">[image or embed]</a></p>&mdash; Deepali Kank (<a href="https://bsky.app/profile/did:plc:2hvjmbw263gctmvb25tove5c?ref_src=embed">@deepali.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:2hvjmbw263gctmvb25tove5c/post/3ku5tt4oiks2q?ref_src=embed">Jun 5, 2024 at 1:12 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">this is how it feels cleaning data with dplyr <br> <a href="https://t.co/dAWseNRZXb">pic.twitter.com/dAWseNRZXb</a></p>&mdash; Carlos Alberto Haro (@haro_ca_) <a href="https://twitter.com/haro_ca_/status/1798815720484073953?ref_src=twsrc%5Etfw">June 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Things are coming together in this summer&#39;s project to bring <a href="https://twitter.com/Mapbox?ref_src=twsrc%5Etfw">@Mapbox</a> GL JS v3 to <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>...<br><br>Seamless 3D terrain visualization of the globe, straight from your R console to your RStudio Viewer<br><br>Still a ways to go, but excited about the direction it&#39;s going... <a href="https://t.co/8nsjZPky5P">pic.twitter.com/8nsjZPky5P</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1799279327840026884?ref_src=twsrc%5Etfw">June 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The plot thickens! SQL/SEQUEL was developed to manipulate a database called…. wait for it …. System R<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/DZhqHTzbtY">https://t.co/DZhqHTzbtY</a> <a href="https://t.co/KHbUBdep1R">pic.twitter.com/KHbUBdep1R</a></p>&mdash; Tom Carpenter, PhD (@tcarpenter216) <a href="https://twitter.com/tcarpenter216/status/1798550142955773993?ref_src=twsrc%5Etfw">June 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
