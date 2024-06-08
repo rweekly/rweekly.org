@@ -66,6 +66,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{nanonext} 1.1.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen)
 
++ [{santoku} 1.0.0](https://cran.r-project.org/package=santoku): A versatile cutting tool
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
