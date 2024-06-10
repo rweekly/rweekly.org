@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2024-W24
+title: R Weekly 2024-W24 R dialects, pinball, small git commits
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -14,10 +14,14 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 ### Highlight
 
++ [Two Roads Diverged: Opinions on "dialects" in R](https://rdatatable-community.github.io/The-Raft/posts/2024-05-20-kelly_bodwin/)
+
++ [Public Pinball Machines per Capita: A new global indicator](https://sumsar.net/blog/pinball-machines-per-capita/)
+
++ [Why you need small, informative Git commits](https://masalmon.eu/2024/06/03/small-commits/)
 
 
 ### Insights
-
 
 + [Two Roads Diverged: Opinions on "dialects" in R](https://rdatatable-community.github.io/The-Raft/posts/2024-05-20-kelly_bodwin/)
 
@@ -29,32 +33,37 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [3MW (RStudio productivity hacks)](https://3mw.albert-rapp.de/p/rstudio-shortkeys-settings)
 
-+ [Boost Your Shiny App's Code Quality  with {box.linters} in {rhino} 1.8.0](https://www.appsilon.com/post/box-linters-in-rhino-1-8-0)
++ [Boost Your Shiny App's Code Quality with {box.linters} in {rhino} 1.8.0](https://www.appsilon.com/post/box-linters-in-rhino-1-8-0)
 
 + [From scripts to package. Developing dendroNetwork and learning with rOpenSci](https://ropensci.org/blog/2024/06/06/from-scripts-to-package/)
 
 ### R in the Real World
 
-+ [Team Strength: A CanMNT Snapshot](https://6yardscreamers.netlify.app/posts/team_strength_canmnt/)
-
-+ [Causal Inference: Technology Stocks Surge](https://datageeek.com/2024/06/04/causal-inference-surging-technology-index/)
-
 + [Public Pinball Machines per Capita: A new global indicator](https://sumsar.net/blog/pinball-machines-per-capita/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W24/top-10-pinball-machines-per-capita.png)
+
++ [Team Strength: A CanMNT Snapshot](https://6yardscreamers.netlify.app/posts/team_strength_canmnt/)
 
 + [The Sanctuary: Stats and data from {survivoR}](http://gradientdescending.com/the-sanctuary-stats-and-data-from-survivor/)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W24/survivor-top10-imbdb.png)
+
++ [Causal Inference: Technology Stocks Surge](https://datageeek.com/2024/06/04/causal-inference-surging-technology-index/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W24/causal_inference.png)
+
+
++ [Estimating Shooting Performance Unlikeliness: Quantifying how unlikely a player’s season-long shooting performance is, factoring in their prior shot history](https://tonyelhabr.rbind.io/posts/xg-likelihood/)
 
 ### R in Organizations
 
 + [Full-time Korea R User Group Founder Victor Lee Sees AI Future for R and Quarto Textbooks](https://www.r-consortium.org/blog/2024/06/04/full-time-korea-r-user-group-founder-victor-lee-sees-ai-future-for-r-and-quarto-textbooks)
 
-### R in Academia
-
-
 
 ### Resources
 
-
++ [Cleaning Medical Data in R](https://cghlewis.com/talk/rmed/)
 
 ### New Packages
 
@@ -65,6 +74,14 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 **CRAN**
 
 + [{baf} 0.0.1](https://cran.r-project.org/package=baf): Block Assignment Files
+
++ [{goodpractice} 1.0.5](https://cran.r-project.org/package=goodpractice): Advice on R Package Building
+
++ [{ggarrow} 0.1.0](https://cran.r-project.org/package=ggarrow): Arrows for 'ggplot2'
+
++ [{geostan} 0.6.2](https://cran.r-project.org/package=geostan): Bayesian Spatial Analysis
+
++ [{DNAmotif} 0.1.0](https://cran.r-project.org/package=DNAmotif): DNA Sequence Motifs
 
 **Bioconductor**
 
@@ -88,30 +105,29 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [{ulid} 0.4.0](http://dirk.eddelbuettel.com/blog/2024/06/04/#ulid_0.4.0): Generate Universally Unique 'Lexicographically' 'Sortable' Identifiers - [diffify](https://diffify.com/R/ulid)
 
++ [{odbc} 1.5.0](https://cran.r-project.org/package=odbc): Connect to ODBC Compatible Databases (using the DBI Interface) - [diffify](https://diffify.com/R/odbc)
+
++ [{openxlsx2} 1.7](https://cran.r-project.org/package=openxlsx2): Read, Write and Edit 'xlsx' Files - [diffify](https://diffify.com/R/openxlsx2)
+
++ [{hardhat} 1.4.0](https://cran.r-project.org/package=hardhat): Construct Modeling Packages - [diffify](https://diffify.com/R/hardhat)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 + [SDS 790: Open-Source Libraries for Data Science at the New York R Conference](https://www.superdatascience.com/podcast/open-source-libraries-for-data-science-at-the-new-york-r-conference)
 
-
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [A decade of parkrun](https://tangandhara.shinyapps.io/ParkrunDashboard/)
-
-### R Internationally
-
-
 
 ### Tutorials
 
 + [Geocode from R using {arcgisgeocode}](https://www.esri.com/arcgis-blog/products/developers/announcements/geocode-from-r-using-arcgisgeocode/)
 
 + [Coloured text in {ggplot2}: {ggtext} vs {marquee}](https://nrennie.rbind.io/blog/coloured-text-legend-ggplot-ggtext-marquee/)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2024/W24/ggplot2-marquee.png)
 
 + [Why you shouldn’t use boxplots](https://albert-rapp.de/posts/ggplot2-tips/29_no_boxplots/29_no_boxplots.html)
 
@@ -120,8 +136,6 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 + [simstudy: another way to generate data from a non-standard density](https://www.rdatagen.net/post/2024-06-04-simstudy-another-way-to-generate-data-from-a-non-standard-density/)
 
 + [Simple custom colour palettes with R ggplot graphs](https://tomaztsql.wordpress.com/2024/06/02/simple-custom-colour-palettes-with-r-ggplot-graphs/)
-
-+ [How to Check if a Character is in a String in R](https://www.spsanderson.com/steveondata/posts/2024-06-07/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -148,13 +162,6 @@ Events in 3 Months:
 + [posit::conf(2024) - August 12 - 14](https://posit.co/conference/)
 
 + [Cascadia R Conference 2024](https://cascadiaRconf.com)
-
-
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Connect
 
