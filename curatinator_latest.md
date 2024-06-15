@@ -1,24 +1,20 @@
 # RSS POSTS: ##
 
-+ [learningmachine v1.0.0: prediction intervals around the probability of the event ‘a tumor being malignant’](https://thierrymoudiki.github.io/blog/2024/03/25/r/learningmachine)
-+ [Little useless-useful R functions – Reverse Hello World](https://tomaztsql.wordpress.com/2024/03/23/little-useless-useful-r-functions-reverse-hello-world/)
++ [learningmachine v1.0.0: prediction intervals around the probability of the event ?a tumor being malignant?](https://thierrymoudiki.github.io/blog/2024/03/25/r/learningmachine)
++ [Little useless-useful R functions ? Reverse Hello World](https://tomaztsql.wordpress.com/2024/03/23/little-useless-useful-r-functions-reverse-hello-world/)
 + [Avoiding Self Transitions in Gibbs Sampling](https://radfordneal.wordpress.com/2024/03/28/avoiding-self-transitions-in-gibbs-sampling/)
 + [Staggered Stream](https://radfordneal.wordpress.com/2024/03/28/staggered-stream/)
-+ [Update on mocking for testing R packages](https://blog.r-hub.io/2024/03/21/mocking-new-take/)
 + [Using R and Python Together, Seamlessly: A Case Study Using OpenAI's GPT Models](https://www.markhw.com/blog/r-py-gpt)
 + [The log-rank Test Assumes More Than the Cox Model](https://fharrell.com/post/logrank/)
 + [What Does a Statistical Method Assume?](https://fharrell.com/post/assume/)
 + [Empowering R Enthusiasts: SatRDays London 2024 Unveiled](https://www.r-consortium.org/blog/2024/03/28/empowering-r-enthusiasts-satrdays-london-2024-unveiled)
-+ [Aligning Beliefs and Profession: Using R in Protecting the Penobscot Nation’s Traditional Lifeways](https://www.r-consortium.org/blog/2024/03/27/aligning-beliefs-and-profession-using-r-in-protecting-the-penobscot-nations-traditional-lifeways)
++ [Aligning Beliefs and Profession: Using R in Protecting the Penobscot Nation?s Traditional Lifeways](https://www.r-consortium.org/blog/2024/03/27/aligning-beliefs-and-profession-using-r-in-protecting-the-penobscot-nations-traditional-lifeways)
 + [Elevate Your R Community with the 2024 RUGS Grant Program](https://www.r-consortium.org/blog/2024/03/26/elevate-your-r-community-with-the-2024-rugs-grant-program)
 + [littler 0.3.20 on CRAN: Moar Features!](http://dirk.eddelbuettel.com/blog/2024/03/23#littler-0.3.20)
-+ [ciw 0.0.2 on CRAN: Updates](http://dirk.eddelbuettel.com/blog/2024/03/20#ciw_0.0.2)
 + [AI Use Cases for R Enthusiasts workshop](https://r-posts.com/ai-use-cases-for-r-enthusiasts-workshop/)
 + [ggbrick is now on CRAN](http://gradientdescending.com/ggbrick-is-now-on-cran/)
-+ [Fair machine learning with tidymodels](https://www.tidyverse.org/blog/2024/03/tidymodels-fairness/)
 + [Causal Effect of Approval of ETF for Bitcoin on the Prices](https://datageeek.com/2024/03/21/causal-effect-of-approval-of-etf-for-bitcoin-on-the-prices/)
 + [Learning Path: Introduction to R](https://mirai-solutions.ch/news/2024/03/26/announce-learning-path-introR/)
-+ [Techguides Update: package dependencies, deployment and Shiny CI/CD!](https://mirai-solutions.ch/news/2024/03/20/announce-update-techguides-2024/)
 + [6 New books added to Big Book of R](https://oscarbaruffa.com/bbofr_20240328/)
 + [Modeling my pinball scores](https://sumsar.net/blog/modeling-my-pinball-scores/)
 + [A webR powered Shiny app for browsing TidyTuesday plots](https://nrennie.rbind.io/blog/webr-shiny-tidytuesday/)
@@ -27,19 +23,22 @@
 + [Mastering the map() Function in R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2024-03-26/index.html)
 + [Wrangling Data with R: A Guide to the tapply() Function](https://www.spsanderson.com/steveondata/posts/2024-03-25/index.html)
 + [Mastering Data Manipulation in R with the Sweep Function](https://www.spsanderson.com/steveondata/posts/2024-03-22/index.html)
-+ [Mastering Replacement: Using the replace() Function in R](https://www.spsanderson.com/steveondata/posts/2024-03-21/index.html)
-+ [Mastering Data Segmentation: A Guide to Using the cut() Function in R](https://www.spsanderson.com/steveondata/posts/2024-03-20/index.html)
 + [Update vvtableau: Tableau Cloud Support](https://vusaverse.github.io/posts/vvtableau_3_24.html)
 + [3MW (Tips for the 30 Day Chart Challenge)](https://3mw.albert-rapp.de/p/30-day-chart-challenge-tips)
-+ [3MW (Aligning content with flexboxes)](https://3mw.albert-rapp.de/p/weather-ui-flexbox)
 + [rsi 0.2.0 is now on CRAN!](https://mm218.dev/posts/2024-03-29-rsi-020/)
 + [Discover great_tables: The Python Answer to R's {gt} Package for Table Formatting in Quarto and PyShiny](https://www.appsilon.com/post/great-tables)
-+ [Navigating ShinyConf 2024: A First-Timer’s Guide to Virtual Conferences](https://www.appsilon.com/post/navigating-shinyconf-2024)
++ [Navigating ShinyConf 2024: A First-Timer?s Guide to Virtual Conferences](https://www.appsilon.com/post/navigating-shinyconf-2024)
 + [R dtplyr: How to Efficiently Process Huge Datasets with a data.table Backend](https://www.appsilon.com/post/r-dtplyr)
-+ [Choosing the Right Data Visualization Tool: R Shiny, PowerBI or Spotfire](https://www.appsilon.com/post/rshiny-vs-powerbi-vs-spotfire)
-+ [R doParallel: How to Parallelize R DataFrame Computations](https://www.appsilon.com/post/r-doparallel-dataframe)
-+ [Sharing State Between Shiny Modules – The Other Way Of Doing It](https://jakubsob.github.io/blog/the-other-way-of-lifting-state-up-from-shiny-modules/)
++ [Sharing State Between Shiny Modules ? The Other Way Of Doing It](https://jakubsob.github.io/blog/the-other-way-of-lifting-state-up-from-shiny-modules/)
 + [Creating upset charts with ggplot2](https://albert-rapp.de/posts/ggplot2-tips/26_upset_charts/26_upset_charts.html)
+
+
+
+
+
+
+
+
 # CRANberries UPDATED: ##
 + [{reproducible} 2.0.11](https://cran.r-project.org/package=reproducible): Enhance Reproducibility of R Code - [diffify](https://diffify.com/R/reproducible)
 + [{rdss} 1.0.10](https://cran.r-project.org/package=rdss): Companion Datasets and Functions for Research Design in the
@@ -279,6 +278,22 @@ Models - [diffify](https://diffify.com/R/variationalDCM)
 'ggplot2' - [diffify](https://diffify.com/R/ggsci)
 + [{VisitorCounts} 2.0.0](https://cran.r-project.org/package=VisitorCounts): Modeling and Forecasting Visitor Counts Using Social Media - [diffify](https://diffify.com/R/VisitorCounts)
 + [{HDShOP} 0.1.5](https://cran.r-project.org/package=HDShOP): High-Dimensional Shrinkage Optimal Portfolios - [diffify](https://diffify.com/R/HDShOP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # CRANberries NEW: ##
 + [{trainsplit} 1.0](https://cran.r-project.org/package=trainsplit): Split a Dataframe, Tibble, or Data.table into Training and Test
 Sets
@@ -375,7 +390,3 @@ Learning Predictive Methods)
 + [{LocalCop} 0.0.1](https://cran.r-project.org/package=LocalCop): Local Likelihood Inference for Conditional Copula Models
 + [{geoperu} 0.0.0.1](https://cran.r-project.org/package=geoperu): Download Spatial Datasets of Peru
 + [{designit} 0.5.0](https://cran.r-project.org/package=designit): Blocking and Randomization for Experimental Design
-+ [{plot4fun} 0.1.1](https://cran.r-project.org/package=plot4fun): Just Plot for Fun
-+ [{FormulR} 1.0.0](https://cran.r-project.org/package=FormulR): Comprehensive Tools for Drug Formulation Analysis and
-Visualization
-+ [{xega} 0.9.0.0](https://cran.r-project.org/package=xega): Extended Evolutionary and Genetic Algorithms
