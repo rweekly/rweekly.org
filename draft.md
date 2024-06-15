@@ -171,7 +171,7 @@ School System - [diffify](https://diffify.com/R/SchoolDataIT)
 
 ### R Internationally
 
-[R para la Ciencia de datos](https://davidrsch.github.io/r4dses/):  Libro escrito por Hadley Wickham, Mine Çetinkaya-Rundel y Garrett Grolemund, con el que aprenderá cómo hacer ciencia de datos con R: cómo obtener sus datos en R, convertirlos en la estructura más útil, transformarlos y visualizarlos.
+[R para la Ciencia de datos](https://davidrsch.github.io/r4dses/)
 
 ### Tutorials
 
@@ -186,6 +186,8 @@ School System - [diffify](https://diffify.com/R/SchoolDataIT)
 + [{cryptoQuotes}: Open access to cryptocurrency market data in R (Update)](https://r-posts.com/cryptoquotes-open-access-to-cryptocurrency-market-data-in-r-update/)
 
 + [Traditional Frequentist Inference Uses Unrealistic Priors](https://fharrell.com/post/uprior/)
+
++ [Automatic transformation of standard errors?](https://notstatschat.rbind.io/2024/06/15/automatic-transformation-of-standard-errors/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
