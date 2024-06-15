@@ -160,7 +160,7 @@ School System - [diffify](https://diffify.com/R/SchoolDataIT)
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
-
++ [Scraping the R-Weekly Highlights Podcast](https://github.com/iamYannC/r-podcast)
 ### Gist & Cookbook
 
 
