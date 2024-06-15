@@ -171,7 +171,7 @@ School System - [diffify](https://diffify.com/R/SchoolDataIT)
 
 ### R Internationally
 
-
+[R para la Ciencia de datos](https://davidrsch.github.io/r4dses/):  Libro escrito por Hadley Wickham, Mine Çetinkaya-Rundel y Garrett Grolemund, con el que aprenderá cómo hacer ciencia de datos con R: cómo obtener sus datos en R, convertirlos en la estructura más útil, transformarlos y visualizarlos.
 
 ### Tutorials
 
