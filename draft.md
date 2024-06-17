@@ -5,13 +5,17 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Ryo Nakagawara](https://mstdn.social/@R_by_Ryo), with help from the R Weekly team members and contributors.
 
 ### Highlight
 
++ [Expose CRAN deadlines and DOIs](https://www.rostrum.blog/posts/2024-06-12-cran-db/index.html)
+
++ [A fresh new look for R-universe!](https://ropensci.org/blog/2024/06/12/runiverse-frontend/)
+
++ [{handwriter} 3.1.1](https://cran.r-project.org/package=handwriter): Handwriting Analysis in R 
 
 ### Insights
 
@@ -160,10 +164,8 @@ School System - [diffify](https://diffify.com/R/SchoolDataIT)
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://rweekly.fireside.fm/)
+
 + [Scraping the R-Weekly Highlights Podcast](https://github.com/iamYannC/r-podcast)
-### Gist & Cookbook
-
-
 
 ### Shiny Apps
 
@@ -171,7 +173,7 @@ School System - [diffify](https://diffify.com/R/SchoolDataIT)
 
 ### R Internationally
 
-[R para la Ciencia de datos](https://davidrsch.github.io/r4dses/)
++ [R para la Ciencia de datos](https://davidrsch.github.io/r4dses/)
 
 ### Tutorials
 
