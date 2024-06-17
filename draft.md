@@ -100,7 +100,7 @@ Events in 3 Months:
 + [Meta-Analysis in R workshop, July 11th 18:00-20:00 CEST](https://r-posts.com/11543-2/)
 
 
-### Jobs
+### Connect
 
-<i>💼 [Explore Jobs & Gigs Board on RStudio Community](https://community.rstudio.com/c/jobs/) 💼</i>
+<i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
