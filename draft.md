@@ -189,6 +189,7 @@ School System - [diffify](https://diffify.com/R/SchoolDataIT)
 
 + [Automatic transformation of standard errors?](https://notstatschat.rbind.io/2024/06/15/automatic-transformation-of-standard-errors/)
 
++ [Deal with extreme values](https://rolkra.github.io/Deal-With-Extreme-Values/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
