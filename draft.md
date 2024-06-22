@@ -79,6 +79,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
++ [What packages belong together? Learning from R code samples](http://hughjonesd.github.io/learning-from-codesamples.html)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
