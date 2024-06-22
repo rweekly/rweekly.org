@@ -157,6 +157,8 @@ Services - [diffify](https://diffify.com/R/streamConnect)
 
 + [Sculpting the Moon in R: Subdivision Surfaces and Displacement Mapping](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 
++ [What packages belong together? Learning from R code samples](http://hughjonesd.github.io/learning-from-codesamples.html)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
