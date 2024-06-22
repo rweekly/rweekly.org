@@ -12,6 +12,7 @@
 + [Ignoring the IID assumption isn’t a great idea](http://gradientdescending.com/ignoring-the-iid-assumption-isnt-a-great-idea/)
 + [{alone} v0.4 is now available](http://gradientdescending.com/alone-v0-4-is-now-available/)
 + [nanoparquet 0.3.0](https://www.tidyverse.org/blog/2024/06/nanoparquet-0-3-0/)
++ [Creating Email Threads](https://datawookie.dev/blog/2024/06/creating-email-threads/)
 + [The evolution of squad compositions at UEFA European Championships](https://guyabel.com/post/uefa-ec-chord-diagram/)
 + [What's new in {PrettyCols} 1.1.0?](https://nrennie.rbind.io/blog/prettycols/prettycols-1-1-0/)
 + [Practical Examples with healthyR.ts](https://www.spsanderson.com/steveondata/posts/2024-06-20/)
@@ -25,6 +26,10 @@
 + [Master Data Cleaning & Get To Insights Faster](https://albert-rapp.de/posts/25_data_cleaning_course/25_data_cleaning_course.html)
 + [Joining the flock from R: working with data on MotherDuck](https://discindo.org/post/joining-the-flock-from-r-working-with-data-on-motherduck/)
 # CRANberries UPDATED: ##
++ [{REBayes} 2.54](https://cran.r-project.org/package=REBayes): Empirical Bayes Estimation and Inference - [diffify](https://diffify.com/R/REBayes)
++ [{BGGM} 2.1.1](https://cran.r-project.org/package=BGGM): Bayesian Gaussian Graphical Models - [diffify](https://diffify.com/R/BGGM)
++ [{jstager} 0.0.2](https://cran.r-project.org/package=jstager): Retrieve Information Published on J-STAGE - [diffify](https://diffify.com/R/jstager)
++ [{heimdall} 1.0.3](https://cran.r-project.org/package=heimdall): Drift Adaptable Models - [diffify](https://diffify.com/R/heimdall)
 + [{xxdi} 1.1.0](https://cran.r-project.org/package=xxdi): Calculate Expertise Indices - [diffify](https://diffify.com/R/xxdi)
 + [{BART} 2.9.9](https://cran.r-project.org/package=BART): Bayesian Additive Regression Trees - [diffify](https://diffify.com/R/BART)
 + [{ActivePathways} 2.0.4](https://cran.r-project.org/package=ActivePathways): Integrative Pathway Enrichment Analysis of Multivariate Omics
