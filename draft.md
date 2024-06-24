@@ -18,19 +18,17 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 
 ### Insights
 
++ [Ignoring the IID assumption isn’t a great idea](http://gradientdescending.com/ignoring-the-iid-assumption-isnt-a-great-idea/)
 
++ [Creating Email Threads](https://datawookie.dev/blog/2024/06/creating-email-threads/)
 
++ [Digits Dilemma](https://jcarroll.com.au/2024/06/15/digits-dilemma/)
 
++ [Constructing HTML with functions](https://jcarroll.com.au/2024/06/20/constructing-html-with-functions/)
 
 ### R in the Real World
 
 + [The evolution of squad compositions at UEFA European Championships](https://guyabel.com/post/uefa-ec-chord-diagram/)
-
-
-
-### R in Organizations
-
-
 
 ### R in Academia
 
@@ -38,15 +36,11 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 
 + [Ordinal State Transition Models as a Unifying Risk Prediction Framework](https://fharrell.com/talk/icsa/)
 
-+ [Ignoring the IID assumption isn’t a great idea](http://gradientdescending.com/ignoring-the-iid-assumption-isnt-a-great-idea/)
-
 ### Resources
 
 + [rOpenSci News Digest, June 2024](https://ropensci.org/blog/2024/06/21/ropensci-news-june-2024/)
 
 + [Data Cleaning with R Master Class is Live](https://3mw.albert-rapp.de/p/data-cleaning-pre-sale-1)
-
-
 
 ### New Packages
 
@@ -61,6 +55,8 @@ Applications
 
 + [{tinyplot} 0.1.0](https://cran.r-project.org/package=tinyplot): Lightweight Extension of the Base R Graphics System
 
+![tinyplot example image](https://raw.githubusercontent.com/rweekly/image/master/2024/W26/facet_fancy-1_600.png)
+
 + [{rush} 0.1.0](https://cran.r-project.org/package=rush): Rapid Parallel and Distributed Computing
 
 + [{beastt} 0.0.1](https://cran.r-project.org/package=beastt): Bayesian Evaluation, Analysis, and Simulation Software Tools for Trials
@@ -73,15 +69,11 @@ Applications
 
 + [{priorsense} 1.0.0](https://cran.r-project.org/package=priorsense): Prior Diagnostics and Sensitivity Analysis
 
-
-**Bioconductor**
-
-
-
 **GitHub or Bitbucket**
 
 + [brackets](https://github.com/hypebright/brackets) - A simple library to display tournament brackets
 
+![brackets example image](https://raw.githubusercontent.com/rweekly/image/master/2024/W26/brackets_600.png)
 
 ### Updated Packages
 
@@ -117,17 +109,13 @@ Services - [diffify](https://diffify.com/R/streamConnect)
 
 + [{patientProfilesVis} 2.0.9](https://cran.r-project.org/package=patientProfilesVis): Visualization of Patient Profiles - [diffify](https://diffify.com/R/patientProfilesVis)
 
+![patient profile example image](https://raw.githubusercontent.com/rweekly/image/master/2024/W26/patientprofilevis_600.png)
 
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 + [New York R Conference 2024 Videos](https://rstats.ai/videos)
-
-
-### Gist & Cookbook
-
-
 
 ### Shiny Apps
 
@@ -157,13 +145,13 @@ Services - [diffify](https://diffify.com/R/streamConnect)
 
 + [Sculpting the Moon in R: Subdivision Surfaces and Displacement Mapping](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 
+![R and moon image](https://raw.githubusercontent.com/rweekly/image/master/2024/W26/subdivide5-1_600.png)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
-
-### Call for Participation
 
 ### Upcoming Events in 3 Months
 
@@ -178,7 +166,6 @@ Events in 3 Months:
 + [Meta-Analysis in R workshop, July 11th 18:00-20:00 CEST](https://r-posts.com/11543-2/)
 
 + [Academic and Personal Website Creation: A Quarto Tutorial workshop](https://r-posts.com/academic-and-personal-website-creation-a-quarto-tutorial-workshop/)
-
 
 ### Connect
 
