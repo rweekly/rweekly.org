@@ -87,6 +87,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ### Call for Participation
 
++ [Provide your experiences with CRAN and R package development (survey)](https://forms.gle/umdew9KHWeQSehq8A)
+
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
