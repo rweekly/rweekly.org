@@ -33,7 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Resources
-
+[Ten simple rules for teaching an introduction to R](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012018)
 
 
 ### New Packages
