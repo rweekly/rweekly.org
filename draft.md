@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
+[mirai - Quality of Life Updates: Ten Small Improvements](https://shikokuchuo.net/posts/23-mirai-quality-of-life-updates/)
 
 ### New Packages
 
