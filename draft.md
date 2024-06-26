@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
+[Interactive Map Filter in Shiny](https://brendenmsmith.com/blog/shiny_map_filter/)
 
 + [What packages belong together? Learning from R code samples](http://hughjonesd.github.io/learning-from-codesamples.html)
 
