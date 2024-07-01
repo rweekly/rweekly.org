@@ -18,18 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [A timeline of R's first 30 years](https://www.jumpingrivers.com/blog/r-timeline/)
-
-+ [R vs Power BI](https://www.codingthepast.com/2024/06/23/r-vs-powerbi.html)
 
 
 ### R in the Real World
-
-+ [R Addicts Paris: Promoting Diversity in R](https://www.r-consortium.org/blog/2024/06/25/r-addicts-paris-promoting-diversity-in-r)
-
-+ [The Crucial Role of Release Control in R for Healthcare Organizations](https://www.r-consortium.org/blog/2024/06/24/the-crucial-role-of-release-control-in-r-for-healthcare-organizations)
-
-+ [Polynomial Support Vector Machines: Why Warner Music Entering the South Asia Market?](https://datageeek.com/2024/06/24/polynomial-support-vector-machines-why-warner-music-entering-the-south-asia-market/)
 
 
 
@@ -42,6 +33,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Resources
+
+
 
 ### New Packages
 
@@ -65,26 +58,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [x13binary 1.1.61 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2024/06/24#x13binary_1.1.61)
-
-+ [digest 0.6.36 on CRAN: Big endian, maintenance](http://dirk.eddelbuettel.com/blog/2024/06/23#digest_0.6.36)
-
-+ [bonsai 0.3.0](https://www.tidyverse.org/blog/2024/06/bonsai-0-3-0/)
-
-+ [mirai - Quality of Life Updates: Ten Small Improvements](https://shikokuchuo.net/posts/23-mirai-quality-of-life-updates/)
-
-
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
-+ [Recap: Exploring Clinical Submissions with admiral: An R-Based ADaM Solution with Ben Straub](https://www.appsilon.com/post/exploring-clinical-submissions-with-admiral)
-
-
 
 ### Gist & Cookbook
 
-+ [Updates to the Big Book of R](https://datawookie.dev/blog/2024/06/updates-to-big-book-of-r/)
 
 
 ### Shiny Apps
@@ -97,29 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-+ [Interactive Map Filter in Shiny](https://brendenmsmith.com/blog/shiny_map_filter/)
 
-+ [What packages belong together? Learning from R code samples](http://hughjonesd.github.io/learning-from-codesamples.html)
-
-+ [Forecasting with XGBoost embedded in Quasi-Randomized Neural Networks](https://thierrymoudiki.github.io/blog/2024/06/24/python/quasirandomizednn/forecasting/nnetsauce-mts-boost)
-
-+ [How to load and save vector data in R](https://www.r-spatial.org//r/2024/06/26/sf-load-save.html)
-
-+ [Choosing the Right Parent for R Object Classes](https://epiverse-trace.github.io/posts/parent-class/)
-
-+ [Exploring Random Walks and Brownian Motions with healthyR.ts](https://www.spsanderson.com/steveondata/posts/2024-06-27/)
-
-+ [How to Extract Strings Between Specific Characters in R](https://www.spsanderson.com/steveondata/posts/2024-06-25/)
-
-+ [An Introduction to healthyR.ai](https://www.spsanderson.com/steveondata/posts/2024-06-24/)
-
-+ [Writing Excel Spreadsheets to Disk with R and Python](https://www.spsanderson.com/steveondata/posts/2024-06-23/)
-
-+ [3MW (Using the Golem Framework for R-Shiny)](https://3mw.albert-rapp.de/p/golem-starter)
-
-+ [R Dygraphs: How to Visualize Time Series Data in R and R Shiny](https://www.appsilon.com/post/r-dygraphs)
-
-+ [Few notes on getting R package data from the local library](https://discindo.org/post/few-notes-on-getting-r-package-data-from-the-local-library/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -128,8 +86,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ### Call for Participation
-
-+ [Provide your experiences with CRAN and R package development (survey)](https://forms.gle/umdew9KHWeQSehq8A)
 
 ### Upcoming Events in 3 Months
 
@@ -141,9 +97,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
-
-+ [Celebrating a Decade of EARL: Join us in Brighton, UK for EARL 2024!](https://r-posts.com/celebrating-a-decade-of-earl-join-us-in-brighton-uk-for-earl-2024/)
-
 
 ### Grants & Funding
 
