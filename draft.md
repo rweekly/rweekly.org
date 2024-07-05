@@ -18,7 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+
++ [Conditional LinkingTo in R: Innovations Supporting Shiny](https://shikokuchuo.net/posts/24-conditional-linkingto/)
+
 + [Diving into R with Isabella Velasquez: Perspectives from R-Ladies Seattle](https://www.r-consortium.org/blog/2024/07/03/diving-into-r-with-isabella-velasquez-perspectives-from-r-ladies-seattle)
+
 
 
 ### R in the Real World
@@ -58,6 +62,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
+[{mirai} 1.1.1](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R
 
 ### Videos and Podcasts
 
