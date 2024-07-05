@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Diving into R with Isabella Velasquez: Perspectives from R-Ladies Seattle](https://www.r-consortium.org/blog/2024/07/03/diving-into-r-with-isabella-velasquez-perspectives-from-r-ladies-seattle)
 
 
 ### R in the Real World
