@@ -36,8 +36,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Winners of the 2024 Table Contest](https://posit.co/blog/2024-table-contest-winners/)
 
-+ [‘Cutting edge’ UL biomedical software project gets support from Chan Zuckerberg Initiative](https://www.ul.ie/news/cutting-edge-ul-biomedical-software-project-gets-support-from-chan-zuckerberg-initiative)
-
 + [Faster R code with Rust](https://nrennie.rbind.io/talks/manchester-r-rust/)
 
 + [Reproducible reports and presentations with Quarto](https://jadeyryan.quarto.pub/slc-rug-quarto/#/title-slide)
@@ -64,19 +62,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
-
-**Bioconductor**
-
-
++ [{PRA} 0.2.0](https://cran.r-project.org/package=PRA): Project Risk Analysis
++ [{worldbank} 0.1.0](https://cran.r-project.org/package=worldbank): Client for the 'World Bank Indicators API'
++ [{simdata} 0.4.0](https://cran.r-project.org/package=simdata): Generate Simulated Datasets
++ [{orbital} 0.1.0](https://cran.r-project.org/package=orbital): Predict with 'tidymodels' Workflows in Databases
 
 **GitHub or Bitbucket**
 
 + [Introducing {Rdune}](http://nvietto.rbind.io/blog/rdune/)
 
 + [{nara}](https://github.com/coolbutuseless/nara)
-
-+ [{quartoextexp} - Shiny gadget to Explore and Install Extensions from Quarto Extensions Listing](https://github.com/parmsam/quarto-extension-explorer)
 
 + [{tilebased} - move a sprite around a map inside an R graphics window (concept)](https://github.com/matt-dray/tilebased)
 
@@ -87,6 +82,36 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 [{mirai} 1.1.1](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R
 
 + [ShinyProxy 3.1.1: What’s New and How It Improves Scalability and Performance of Your Shiny Applications](https://www.appsilon.com/post/shinyproxy-3-1-1-whats-new)
+
++ [{gibasa} 1.1.1](https://cran.r-project.org/package=gibasa): An Alternative 'Rcpp' Wrapper of 'MeCab' - [diffify](https://diffify.com/R/gibasa)
++ [{mgi.report.reader} 0.1.2](https://cran.r-project.org/package=mgi.report.reader): Read Mouse Genome Informatics Reports - [diffify](https://diffify.com/R/mgi.report.reader)
++ [{amberr} 1.1.0](https://cran.r-project.org/package=amberr): 'Amber' Electronic Data Capture Client - [diffify](https://diffify.com/R/amberr)
++ [{treasury} 0.2.0](https://cran.r-project.org/package=treasury): Client for US Treasury XML Feed and Published Data - [diffify](https://diffify.com/R/treasury)
++ [{yaml} 2.3.9](https://cran.r-project.org/package=yaml): Methods to Convert R Data to YAML and Back - [diffify](https://diffify.com/R/yaml)
++ [{camtrapdp} 0.3.1](https://cran.r-project.org/package=camtrapdp): Read and Manipulate Camera Trap Data Packages - [diffify](https://diffify.com/R/camtrapdp)
++ [{arcgislayers} 0.3.0](https://cran.r-project.org/package=arcgislayers): An Interface to ArcGIS Data Services - [diffify](https://diffify.com/R/arcgislayers)
++ [{timeless} 0.2.3](https://cran.r-project.org/package=timeless): Fast General Purpose Date/Time Converter - [diffify](https://diffify.com/R/timeless)
++ [{cpp11armadillo} 0.2.8](https://cran.r-project.org/package=cpp11armadillo): An 'Armadillo' Interface - [diffify](https://diffify.com/R/cpp11armadillo)
++ [{downloadthis} 0.4.0](https://cran.r-project.org/package=downloadthis): Implement Download Buttons in 'rmarkdown' - [diffify](https://diffify.com/R/downloadthis)
++ [{r4ds.tutorials} 0.3.0](https://cran.r-project.org/package=r4ds.tutorials): Tutorials for "R for Data Science" - [diffify](https://diffify.com/R/r4ds.tutorials)
++ [{future.mirai} 0.2.2](https://cran.r-project.org/package=future.mirai): A 'Future' API for Parallel Processing using 'mirai' - [diffify](https://diffify.com/R/future.mirai)
++ [{tidyfinance} 0.2.1](https://cran.r-project.org/package=tidyfinance): Tidy Finance Helper Functions - [diffify](https://diffify.com/R/tidyfinance)
++ [{arcgisgeocode} 0.2.0](https://cran.r-project.org/package=arcgisgeocode): A Robust Interface to ArcGIS 'Geocoding Services' - [diffify](https://diffify.com/R/arcgisgeocode)
++ [{zoomerjoin} 0.1.5](https://cran.r-project.org/package=zoomerjoin): Superlatively Fast Fuzzy Joins - [diffify](https://diffify.com/R/zoomerjoin)
++ [{FamEvent} 3.2](https://cran.r-project.org/package=FamEvent): Family Age-at-Onset Data Simulation and Penetrance Estimation - [diffify](https://diffify.com/R/FamEvent)
++ [{ps} 1.7.7](https://cran.r-project.org/package=ps): List, Query, Manipulate System Processes - [diffify](https://diffify.com/R/ps)
++ [{DrugExposureDiagnostics} 1.0.6](https://cran.r-project.org/package=DrugExposureDiagnostics): Diagnostics for OMOP Common Data Model Drug Records - [diffify](https://diffify.com/R/DrugExposureDiagnostics)
+
++ [{b64} 0.1.1](https://cran.r-project.org/package=b64): Fast and Vectorized Base 64 Engine - [diffify](https://diffify.com/R/b64)
++ [{attachment} 0.4.2](https://cran.r-project.org/package=attachment): Deal with Dependencies - [diffify](https://diffify.com/R/attachment)
++ [{nanoparquet} 0.3.1](https://cran.r-project.org/package=nanoparquet): Read and Write 'Parquet' Files - [diffify](https://diffify.com/R/nanoparquet)
++ [{mirai} 1.1.1](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R - [diffify](https://diffify.com/R/mirai)
++ [{khroma} 1.13.0](https://cran.r-project.org/package=khroma): Colour Schemes for Scientific Data Visualization - [diffify](https://diffify.com/R/khroma)
++ [{pharmaverseadam} 1.0.0](https://cran.r-project.org/package=pharmaverseadam): ADaM Test Data for the 'Pharmaverse' Family of Packages - [diffify](https://diffify.com/R/pharmaverseadam)
++ [{ctrdata} 1.19.0](https://cran.r-project.org/package=ctrdata): Retrieve and Analyze Clinical Trials in Public Registers - [diffify](https://diffify.com/R/ctrdata)
++ [{erify} 0.6.0](https://cran.r-project.org/package=erify): Check Arguments and Generate Readable Error Messages - [diffify](https://diffify.com/R/erify)
++ [{PoPdesign} 1.1.0](https://cran.r-project.org/package=PoPdesign): Posterior Predictive (PoP) Design for Phase I Clinical Trials - [diffify](https://diffify.com/R/PoPdesign)
+
 
 ### Videos and Podcasts
 
@@ -106,17 +131,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Rix: Reproducible Environments with Nix - Bruno Rodrigues](https://www.youtube.com/watch?v=tM4JrCWZpwA&ab_channel=useR%21Conference)
 
-### Gist & Cookbook
-
-
 
 ### Shiny Apps
 
 + [Shiny app for R packages nearing their CRAN deadlines](https://github.com/matt-dray/cran-deadlines)
 
-
-### R Internationally
-
++ [{quartoextexp} - Shiny gadget to Explore and Install Extensions from Quarto Extensions Listing](https://github.com/parmsam/quarto-extension-explorer)
 
 
 ### Tutorials
@@ -164,9 +184,9 @@ Events in 3 Months:
 
 ### Grants & Funding
 
++ [‘Cutting edge’ UL biomedical software project gets support from Chan Zuckerberg Initiative](https://www.ul.ie/news/cutting-edge-ul-biomedical-software-project-gets-support-from-chan-zuckerberg-initiative)
 
 ### Datasets
-
 
 + [TidyTuesday 2024 W27 Datasets](https://github.com/rfordatascience/tidytuesday/tree/master/data/2024/2024-07-02)
 
