@@ -66,6 +66,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{worldbank} 0.1.0](https://cran.r-project.org/package=worldbank): Client for the 'World Bank Indicators API'
 + [{simdata} 0.4.0](https://cran.r-project.org/package=simdata): Generate Simulated Datasets
 + [{orbital} 0.1.0](https://cran.r-project.org/package=orbital): Predict with 'tidymodels' Workflows in Databases
++ [{osmapiR} 0.1.0](https://cran.r-project.org/package=osmapiR): Interface to 'OpenStreetMap API'
 
 **GitHub or Bitbucket**
 
