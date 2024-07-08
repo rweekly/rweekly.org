@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2024-W00
+title: R Weekly 2024-W28
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -8,18 +8,26 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Sam Parmar](https://www.github.com/parmsam), with help from the R Weekly team members and contributors.
 
 
 
 ### Highlight
 
++ [Diving into R with Isabella Velasquez: Perspectives from R-Ladies Seattle](https://www.r-consortium.org/blog/2024/07/03/diving-into-r-with-isabella-velasquez-perspectives-from-r-ladies-seattle)
+
+
++ [Faster R code with Rust](https://nrennie.rbind.io/talks/manchester-r-rust/)
+
++ [Conditional LinkingTo in R: Innovations Supporting Shiny](https://shikokuchuo.net/posts/24-conditional-linkingto/)
 
 
 ### Insights
 
 
 + [Conditional LinkingTo in R: Innovations Supporting Shiny](https://shikokuchuo.net/posts/24-conditional-linkingto/)
+
+![shiny-conditional-linking](https://raw.githubusercontent.com/rweekly/image/master/2024/W28/conditional-linkingto-index-1_600.png)
 
 + [Introducing Positron: A New, Yet Familiar IDE for R and Python](https://www.appsilon.com/post/introducing-positron)
 
@@ -34,7 +42,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Diving into R with Isabella Velasquez: Perspectives from R-Ladies Seattle](https://www.r-consortium.org/blog/2024/07/03/diving-into-r-with-isabella-velasquez-perspectives-from-r-ladies-seattle)
 
+![r-ladies-seattle](https://raw.githubusercontent.com/rweekly/image/master/2024/W28/r-ladies-seattle_600.jpg)
+
 + [Winners of the 2024 Table Contest](https://posit.co/blog/2024-table-contest-winners/)
+
+![table-contest-2024](https://raw.githubusercontent.com/rweekly/image/master/2024/W28/Canva-template-table-contest-2024_600.jpg)
 
 + [Faster R code with Rust](https://nrennie.rbind.io/talks/manchester-r-rust/)
 
@@ -45,14 +57,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [R Consortium’s Submission Working Group: Advancing R for Regulatory Success at PharmaSUG 2024](https://www.r-consortium.org/blog/2024/07/02/r-consortiums-submission-working-group-advancing-r-for-regulatory-success-at-pharmasug-2024)
 
 + [Announcing New Software Peer Review Editors: Beatriz Milz and Margaret Siple](https://ropensci.org/blog/2024/07/03/editors2024/)
-
-### R in Academia
-
-
-
-### Resources
-
-
 
 ### New Packages
 
