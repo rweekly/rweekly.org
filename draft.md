@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+[Leafier & leaner: Leafy dendrograms and a leaner R package](https://www.quantumjitter.com/blog/ggfoundry%200.3.1/)
 
 ### R in the Real World
 
