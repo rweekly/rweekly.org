@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
-
+[R Avanzado](https://davidrsch.github.io/adv-res/):  Libro escrito por Hadley Wickham con el que comprenderá cómo funciona el lenguaje y aprenderá nuevas estrategias para resolver diversos problemas.
 
 ### Tutorials
 
