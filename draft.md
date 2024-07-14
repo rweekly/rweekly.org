@@ -18,8 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Some updates about the insurance datasets package (CASdataset)](https://freakonometrics.hypotheses.org/76659)
 
++ [Kolkata R User Group: A Rich History with Statistics ](https://www.r-consortium.org/blog/2024/07/12/kolkata-r-user-group-a-rich-history-with-statistics)
 
++ [The Power of Transitioning to a '-verse' Approach in R Package Development](https://www.appsilon.com/post/the-power-of-transitioning-to-a-verse)
 
 
 ### R in the Real World
@@ -63,6 +66,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [webrcli & spidyr: What’s new](https://colinfay.me/webrcli-and-spidyr-whats-new/)
 
+- [Rhino 1.9.0 Update on CRAN: New Formatting Tools and Cleaner {bslib} Integration](https://www.appsilon.com/post/rhino-1-9-0-update)
+
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
@@ -85,6 +91,24 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 [Leafier & leaner: Leafy dendrograms and a leaner R package](https://www.quantumjitter.com/blog/ggfoundry%200.3.1/)
 
 ![leafier_and_leaner_600](https://github.com/rweekly/rweekly.org/assets/32419319/798872bf-42ba-4678-b093-19af75e5e842)
+
++ [Schedule generator with R](https://tomaztsql.wordpress.com/2024/07/13/schedule-generator-with-r/)
+
++ [Random Intercept Model in R: Interpretation and Visualization](https://www.marsja.se/random-intercept-model-in-r-interpretation-and-visualization/)
+
++ [The Unique Function in R: How to Use it in 4 Ways](https://www.marsja.se/the-unique-function-in-r-how-to-use-it-in-4-ways/)
+
++ [Rare Degenerative Diseases & Statistics:Methods for Analyzing Composite Patient Outcomes](https://fharrell.com/talk/cons/)
+
++ [Exploring Random Walks with TidyDensity in R](https://www.spsanderson.com/steveondata/posts/2024-07-11/)
+  
++ [Using the FileDateTime Function in VBA from R](https://www.spsanderson.com/steveondata/posts/2024-07-10/)
+  
++ [Extracting Strings Before a Space in R](https://www.spsanderson.com/steveondata/posts/2024-07-09/)
+  
++ [Unleashing the Power of TidyDensity: Simplifying Distribution Analysis in R](https://www.spsanderson.com/steveondata/posts/2024-07-08/)
+
++ [R Microbenchmark: How to Measure and Compare the Execution of R Expressions](https://www.appsilon.com/post/r-microbenchmark)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
