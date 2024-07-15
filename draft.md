@@ -96,6 +96,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
   
 + [Using the FileDateTime Function in VBA from R](https://www.spsanderson.com/steveondata/posts/2024-07-10/)
   
++ [Generating Random City Names Based on Syllable Formation Rules](https://carlosepistats.github.io/blog/posts/random_words/post.html)
+  
 + [Extracting Strings Before a Space in R](https://www.spsanderson.com/steveondata/posts/2024-07-09/)
   
 + [Unleashing the Power of TidyDensity: Simplifying Distribution Analysis in R](https://www.spsanderson.com/steveondata/posts/2024-07-08/)
@@ -124,17 +126,11 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
-
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
-
-### Grants & Funding
-
-
-### Datasets
 
 
 ### Connect
@@ -143,5 +139,10 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve finally found the time to get back to some <a href="https://twitter.com/hashtag/Rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#Rtistry</a> this week! 🎨<a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> <a href="https://twitter.com/hashtag/GenArtClub?src=hash&amp;ref_src=twsrc%5Etfw">#GenArtClub</a> <a href="https://twitter.com/hashtag/GenerativeArt?src=hash&amp;ref_src=twsrc%5Etfw">#GenerativeArt</a> <a href="https://t.co/J7ghpl4q0m">pic.twitter.com/J7ghpl4q0m</a></p>&mdash; Nicola Rennie | @nrennie@fosstodon.org (@nrennie35) <a href="https://twitter.com/nrennie35/status/1808808906572861883?ref_src=twsrc%5Etfw">July 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Data Scientists that use R: <br><br>Stop giving chatgpt your data. <br><br>Do this instead... 🧵<a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/5ZxC0Y9zoF">pic.twitter.com/5ZxC0Y9zoF</a></p>&mdash; 🔥 Matt Dancho (Business Science) 🔥 (@mdancho84) <a href="https://twitter.com/mdancho84/status/1811433099936329833?ref_src=twsrc%5Etfw">July 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Academic Reality <a href="https://t.co/CtJH7IGEO3">pic.twitter.com/CtJH7IGEO3</a></p>&mdash; Happy Researchers (@hapyresearchers) <a href="https://twitter.com/hapyresearchers/status/1804551443292057760?ref_src=twsrc%5Etfw">June 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
