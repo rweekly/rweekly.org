@@ -110,6 +110,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [R Microbenchmark: How to Measure and Compare the Execution of R Expressions](https://www.appsilon.com/post/r-microbenchmark)
 
++ [R functions for checking and fixing vmrk files from BrainVision](https://pablobernabeu.github.io/2024/r-functions-for-checking-and-fixing-vmrk-files-from-brainvision)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
