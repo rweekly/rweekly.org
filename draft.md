@@ -29,10 +29,11 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [Rare Degenerative Diseases & Statistics:Methods for Analyzing Composite Patient Outcomes](https://fharrell.com/talk/cons/)
 
+<img width="1018" alt="Screenshot 2024-07-15 at 20 34 51" src="https://github.com/user-attachments/assets/10e1cd94-4cb4-45a8-8614-e62c6d81fbea">
+
 ### R in Organizations
 
 + [Kolkata R User Group: A Rich History with Statistics ](https://www.r-consortium.org/blog/2024/07/12/kolkata-r-user-group-a-rich-history-with-statistics)
-
 
 ### New Packages
 
@@ -58,6 +59,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 - [webrcli & spidyr: What’s new](https://colinfay.me/webrcli-and-spidyr-whats-new/)
+  
+<img width="911" alt="Screenshot 2024-07-15 at 20 37 25" src="https://github.com/user-attachments/assets/12417371-e850-48e6-9923-e46bffc8d8fd">
 
 - [Rhino 1.9.0 Update on CRAN: New Formatting Tools and Cleaner {bslib} Integration](https://www.appsilon.com/post/rhino-1-9-0-update)
 
@@ -70,17 +73,12 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
   
 + [Why use Github Actions (as an R programmer) ?](https://www.youtube.com/watch?v=aZ38ph9plOU)
   
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
 
 ### R Internationally
 
-[R Avanzado](https://davidrsch.github.io/adv-res/):  Libro escrito por Hadley Wickham con el que comprenderá cómo funciona el lenguaje y aprenderá nuevas estrategias para resolver diversos problemas.
+[R Avanzado](https://davidrsch.github.io/adv-res/):  Libro escrito por Hadley Wickham con el que comprenderá cómo funciona el lenguaje y aprenderá nuevas estrategias para resolver diversos problems.
+
+<img width="1334" alt="Screenshot 2024-07-15 at 20 38 54" src="https://github.com/user-attachments/assets/beeff54f-0ee5-4745-91f4-b89433c06e7f">
 
 ### Tutorials
 
@@ -107,8 +105,10 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 + [R functions for checking and fixing vmrk files from BrainVision](https://pablobernabeu.github.io/2024/r-functions-for-checking-and-fixing-vmrk-files-from-brainvision)
   
 + [Create a Compare slider widget](https://walker-data.com/mapgl/reference/compare.html)
-
+  
 + [Annotated area charts with plotnine](https://nrennie.rbind.io/blog/plotnine-annotated-area-chart/)
+
+<img width="611" alt="Screenshot 2024-07-15 at 20 40 33" src="https://github.com/user-attachments/assets/78adc2f2-6b58-4deb-a6ef-b601f3390ac0">
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
