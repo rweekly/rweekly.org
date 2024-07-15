@@ -11,7 +11,6 @@ image: https://rweekly.org/public/facebook.png
 This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app/), with help from the R Weekly team members and contributors.
 
 
-
 ### Highlight
 
 - [webrcli & spidyr: What’s new](https://colinfay.me/webrcli-and-spidyr-whats-new/)
@@ -95,6 +94,34 @@ Applications
 <img width="911" alt="Screenshot 2024-07-15 at 20 37 25" src="https://github.com/user-attachments/assets/12417371-e850-48e6-9923-e46bffc8d8fd">
 
 - [Rhino 1.9.0 Update on CRAN: New Formatting Tools and Cleaner {bslib} Integration](https://www.appsilon.com/post/rhino-1-9-0-update)
+
++ [{rhino} 1.9.0](https://cran.r-project.org/package=rhino): A Framework for Enterprise Shiny Applications - [diffify](https://diffify.com/R/rhino)
+
++ [{RRNA} 1.2](https://cran.r-project.org/package=RRNA): Secondary Structure Plotting for RNA - [diffify](https://diffify.com/R/RRNA)
+  
++ [{Epi} 2.52](https://cran.r-project.org/package=Epi): Statistical Analysis in Epidemiology - [diffify](https://diffify.com/R/Epi)
+  
++ [{sotkanet} 0.10.1](https://cran.r-project.org/package=sotkanet): Sotkanet Open Data Access and Analysis - [diffify](https://diffify.com/R/sotkanet)
+  
++ [{gm} 2.0.0](https://cran.r-project.org/package=gm): Create Music with Ease - [diffify](https://diffify.com/R/gm)
+  
++ [{rsgeo} 0.1.7](https://cran.r-project.org/package=rsgeo): An Interface to Rust's 'geo' Library - [diffify](https://diffify.com/R/rsgeo)
+
++ [{duckdb} 1.0.0-1](https://cran.r-project.org/package=duckdb): DBI Package for the DuckDB Database Management System - [diffify](https://diffify.com/R/duckdb)
+  
++ [{gt} 0.11.0](https://cran.r-project.org/package=gt): Easily Create Presentation-Ready Display Tables - [diffify](https://diffify.com/R/gt)
+
++ [{FielDHub} 1.4.0](https://cran.r-project.org/package=FielDHub): A Shiny App for Design of Experiments in Life Sciences - [diffify](https://diffify.com/R/FielDHub)
+  
++ [{childfree} 0.0.2](https://cran.r-project.org/package=childfree): Access and Harmonize Childfree Demographic Data - [diffify](https://diffify.com/R/childfree)
+
++ [{quickcode} 0.9](https://cran.r-project.org/package=quickcode): Quick and Essential 'R' Tricks for Better Scripts - [diffify](https://diffify.com/R/quickcode)
+  
++ [{WeibullR.learnr} 0.1.3](https://cran.r-project.org/package=WeibullR.learnr): An Interactive Introduction to Life Data Analysis - [diffify](https://diffify.com/R/WeibullR.learnr)
+
++ [{jmvReadWrite} 0.4.7](https://cran.r-project.org/package=jmvReadWrite): Read and Write 'jamovi' Files ('.omv') - [diffify](https://diffify.com/R/jmvReadWrite)
+
++ [{dockerfiler} 0.2.3](https://cran.r-project.org/package=dockerfiler): Easy Dockerfile Creation from R - [diffify](https://diffify.com/R/dockerfiler)
 
 
 ### Videos and Podcasts
