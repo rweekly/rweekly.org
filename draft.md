@@ -45,13 +45,45 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 [{osmapiR} 0.1.0](https://cran.r-project.org/package=osmapiR): Interface to 'OpenStreetMap API'
 
++ [{holi} 0.1.0](https://cran.r-project.org/package=holi): Higher Order Likelihood Inference Web Applications
+  
++ [{modisfast} 0.9.1](https://cran.r-project.org/package=modisfast): Fast and Efficient Access to MODIS Earth Observation Data
 
-**Bioconductor**
++ [{iPRISM} 0.1.1](https://cran.r-project.org/package=iPRISM): Intelligent Predicting Response to Cancer Immunotherapy Through
+Systematic Modeling
 
++ [{WES} 1.0.0](https://cran.r-project.org/package=WES): Tools for Analyzing Wastewater and Environmental Sampling Data
+  
++ [{sampcompR} 0.2.0](https://cran.r-project.org/package=sampcompR): Comparing and Visualizing Differences Between Surveys
+  
++ [{mergenstudio} 1.0](https://cran.r-project.org/package=mergenstudio): 'Mergen' Studio: An 'RStudio' Addin Wrapper for the 'Mergen'
+Package
 
++ [{rnaCrosslinkOO} 0.1.4](https://cran.r-project.org/package=rnaCrosslinkOO): Analysis of RNA Crosslinking Data
+  
++ [{PurpleAir} 1.0.0](https://cran.r-project.org/package=PurpleAir): Query the 'PurpleAir' Application Programming Interface
+  
++ [{exams.forge} 1.0.10](https://cran.r-project.org/package=exams.forge): Support for Compiling Examination Tasks using the 'exams'
+Package
 
-**GitHub or Bitbucket**
++ [{checked} 0.1.0](https://cran.r-project.org/package=checked): Systematically Run R CMD Checks
+  
++ [{amscorer} 0.1.0](https://cran.r-project.org/package=amscorer): Clinical Scores Calculator for Healthcare
 
++ [{decp} 0.1.0](https://cran.r-project.org/package=decp): Complete Change Point Analysis
+
++ [{dapper} 1.0.0](https://cran.r-project.org/package=dapper): Data Augmentation for Private Posterior Estimation
+  
++ [{syrup} 0.1.0](https://cran.r-project.org/package=syrup): Measure Memory and CPU Usage for Parallel R Code
+
++ [{rank} 0.1.0](https://cran.r-project.org/package=rank): Customisable Ranking of Numerical and Categorical Data
+  
++ [{pEPA} 1.0](https://cran.r-project.org/package=pEPA): Tests of Equal Predictive Accuracy for Panels of Forecasts
+  
++ [{paramDemo} 1.0.1](https://cran.r-project.org/package=paramDemo): Parametric and Non-Parametric Demographic Functions and
+Applications
+
++ [{FastUtils} 0.1.1](https://cran.r-project.org/package=FastUtils): Fast, Readable Utility Functions
 
 
 ### Updated Packages
