@@ -25,6 +25,9 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [The Power of Transitioning to a '-verse' Approach in R Package Development](https://www.appsilon.com/post/the-power-of-transitioning-to-a-verse)
 
+### R in Academia
+
++ [Rare Degenerative Diseases & Statistics:Methods for Analyzing Composite Patient Outcomes](https://fharrell.com/talk/cons/)
 
 ### R in Organizations
 
@@ -91,8 +94,6 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [The Unique Function in R: How to Use it in 4 Ways](https://www.marsja.se/the-unique-function-in-r-how-to-use-it-in-4-ways/)
 
-+ [Rare Degenerative Diseases & Statistics:Methods for Analyzing Composite Patient Outcomes](https://fharrell.com/talk/cons/)
-
 + [Exploring Random Walks with TidyDensity in R](https://www.spsanderson.com/steveondata/posts/2024-07-11/)
   
 + [Using the FileDateTime Function in VBA from R](https://www.spsanderson.com/steveondata/posts/2024-07-10/)
@@ -107,6 +108,7 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
   
 + [Create a Compare slider widget](https://walker-data.com/mapgl/reference/compare.html)
 
++ [Annotated area charts with plotnine](https://nrennie.rbind.io/blog/plotnine-annotated-area-chart/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
