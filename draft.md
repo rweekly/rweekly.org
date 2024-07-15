@@ -8,37 +8,27 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app/), with help from the R Weekly team members and contributors.
 
 
 
 ### Highlight
 
+- [webrcli & spidyr: What’s new](https://colinfay.me/webrcli-and-spidyr-whats-new/)
 
+- [Create a Compare slider widget](https://walker-data.com/mapgl/reference/compare.html)
 
 ### Insights
 
 + [Some updates about the insurance datasets package (CASdataset)](https://freakonometrics.hypotheses.org/76659)
 
-+ [Kolkata R User Group: A Rich History with Statistics ](https://www.r-consortium.org/blog/2024/07/12/kolkata-r-user-group-a-rich-history-with-statistics)
 
 + [The Power of Transitioning to a '-verse' Approach in R Package Development](https://www.appsilon.com/post/the-power-of-transitioning-to-a-verse)
 
 
-### R in the Real World
-
-
-
 ### R in Organizations
 
-
-
-### R in Academia
-
-
-
-### Resources
-
++ [Kolkata R User Group: A Rich History with Statistics ](https://www.r-consortium.org/blog/2024/07/12/kolkata-r-user-group-a-rich-history-with-statistics)
 
 
 ### New Packages
@@ -73,7 +63,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
-
++ [How to Interpret Statistical Results with marginaleffects for R](https://www.youtube.com/watch?v=ANDC_kkAjeM)
+  
++ [Why use Github Actions (as an R programmer) ?](https://www.youtube.com/watch?v=aZ38ph9plOU)
+  
 ### Gist & Cookbook
 
 
@@ -111,6 +104,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [R Microbenchmark: How to Measure and Compare the Execution of R Expressions](https://www.appsilon.com/post/r-microbenchmark)
 
 + [R functions for checking and fixing vmrk files from BrainVision](https://pablobernabeu.github.io/2024/r-functions-for-checking-and-fixing-vmrk-files-from-brainvision)
+  
++ [Create a Compare slider widget](https://walker-data.com/mapgl/reference/compare.html)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
