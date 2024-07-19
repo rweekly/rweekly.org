@@ -88,6 +88,7 @@ Data
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
++ [R-Ladies Rome (English) - Quarto Dashboards](https://www.youtube.com/watch?v=Kq1hgg2NtE4)
 
 
 ### Gist & Cookbook
