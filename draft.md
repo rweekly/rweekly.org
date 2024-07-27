@@ -87,10 +87,13 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ### Call for Participation
 
++ [Call for Speakers - R in Pharma Conf 2024 (extended)](https://sessionize.com/rpharma/)
+
++ [2024 Shiny Contest](https://posit.co/blog/announcing-the-2024-shiny-contest/)
+
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
-
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
 
