@@ -26,6 +26,8 @@ This week’s release was curated by [Jon Calder](https://fosstodon.org/@jonmcal
 
 + [American Idol Episodes’ Viewership](https://aditya-dahiya.github.io/projects_presentations/data_vizs/tidy_american_idol.html)
 
+![American Idol Episodes’ Viewership](https://raw.githubusercontent.com/rweekly/image/master/2024/W31/tidy_american_idol.png)
+
 + [Global movement of Happiness ladder with Machine learning in R](https://www.jobnmadu.com/r-blog/2024-07-26-r-markdown/happiness/)
 
 ### R in Organizations
@@ -110,6 +112,8 @@ This week’s release was curated by [Jon Calder](https://fosstodon.org/@jonmcal
 
 + [Let's Talk About the Weather](https://jcarroll.com.au/2024/07/27/let-s-talk-about-the-weather/)
 
+![Let's Talk About the Weather](https://raw.githubusercontent.com/rweekly/image/master/2024/W31/adelaide_month_max.png)
+
 + [Population age changes in the Pacific](https://freerangestats.info/blog/2024/07/27/aging-pacific)
 
 + [Bootstrap Confidence Intervals: Exports in Japan](https://datageeek.com/2024/07/22/bootstrap-confidence-intervals-exports-in-japan/)
@@ -133,6 +137,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 + [Call for Speakers - R in Pharma Conf 2024 (extended)](https://sessionize.com/rpharma/)
 
 + [2024 Shiny Contest](https://posit.co/blog/announcing-the-2024-shiny-contest/)
+
+![2024 Shiny Contest](https://raw.githubusercontent.com/rweekly/image/master/2024/W31/shiny-contest.jpg)
 
 ### Upcoming Events in 3 Months
 
