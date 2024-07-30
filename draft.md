@@ -14,7 +14,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-
++ [R package development in Positron](https://blog.stephenturner.us/p/r-package-development-in-positron)
 
 ### Insights
 
