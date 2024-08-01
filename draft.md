@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Converting New York’s Forest Carbon Assessment to Tidymodels](https://www.mm218.dev/posts/2024-07-19-tidymodels/)
 
 ### R in Organizations
 
