@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Parallelize R code using user-defined functions (UDFs) in sparklyr](https://posit.co/blog/databricks-udfs/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
