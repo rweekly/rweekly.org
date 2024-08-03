@@ -104,6 +104,8 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
++ [August 13~14: Registration for posit::conf(2024)’s virtual experience is now open](https://posit.co/blog/posit-conf-2024-virtual-experience-registration/)
+
 ### Grants & Funding
 
 
