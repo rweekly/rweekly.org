@@ -8,29 +8,39 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Jon Calder](https://fosstodon.org/@jonmcalder), with help from the R Weekly team members and contributors.
 
 
 
 ### Highlight
 
-+ [R package development in Positron](https://blog.stephenturner.us/p/r-package-development-in-positron)
+
 
 ### Insights
 
++ [R Consortium Grants Committee Announces New Chair](https://www.r-consortium.org/blog/2024/08/02/r-consortium-grants-working-group-announces-new-chair)
 
++ [Pharma RUG: The Rise of R in China’s Pharmaceutical Industry](https://www.r-consortium.org/blog/2024/08/01/pharma-rug-the-rise-of-r-in-chinas-pharmaceutical-industry)
 
 ### R in the Real World
 
-+ [Converting New York’s Forest Carbon Assessment to Tidymodels](https://www.mm218.dev/posts/2024-07-19-tidymodels/)
+
 
 ### R in Organizations
 
++ [Positron IDE - A new IDE for data science](https://drmowinckels.io/blog/2024/positron/)
 
++ [R package development in Positron](https://blog.stephenturner.us/p/r-package-development-in-positron)
+
+![R package development in Positron](https://raw.githubusercontent.com/rweekly/image/master/2024/W32/positron_r_pkg_dev.png)
+
++ [All You Need to Know About Rhino 1.8 and 1.9 Updates: A Fireside Chat](https://www.appsilon.com/post/all-you-need-to-know-about-rhino-1-8-and-1-9)
 
 ### R in Academia
 
++ [EpiLPS for estimation of incubation times](https://statsandr.com/blog/epilps-for-estimation-of-incubation-times/)
 
++ [Version 1.2.1 of NIMBLE released](https://r-nimble.org/version-1-2-1-of-nimble-released?utm_source=rss&utm_medium=rss&utm_campaign=version-1-2-1-of-nimble-released)
 
 ### Resources
 
@@ -44,7 +54,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{maestro} 0.1.2](https://cran.r-project.org/package=maestro): Orchestration of Data Pipelines
 
++ [{interfacer} 0.2.3](https://cran.r-project.org/package=interfacer): Define and Enforce Contracts for Dataframes as Function
+Parameters
+
++ [{LifemapR} 1.1.4](https://cran.r-project.org/package=LifemapR): Data Visualisation on 'Lifemap' Tree
+
+![{LifemapR} 1.1.4](https://raw.githubusercontent.com/rweekly/image/master/2024/W32/kraken_base.png)
+
++ [{moocore} 0.1.0](https://cran.r-project.org/package=moocore): Core Mathematical Functions for Multi-Objective Optimization
+
++ [{neotoma2} 1.0.4](https://cran.r-project.org/package=neotoma2): Working with the Neotoma Paleoecology Database
 
 **Bioconductor**
 
@@ -58,11 +79,21 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{usethis} 3.0.0](https://cran.r-project.org/package=usethis): Automate Package and Project Setup - [diffify](https://diffify.com/R/usethis)
+
++ [{bslib} 0.8.0](https://cran.r-project.org/package=bslib): Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown' - [diffify](https://diffify.com/R/bslib)
+
++ [{shiny} 1.9.1](https://cran.r-project.org/package=shiny): Web Application Framework for R - [diffify](https://diffify.com/R/shiny)
+
++ [{cubar} 1.0.0](https://cran.r-project.org/package=cubar): Codon Usage Bias Analysis - [diffify](https://diffify.com/R/cubar)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 + [Mastering Logistic Regression with Categorical Predictors: Always Positive Odds Ratios](https://www.youtube.com/watch?v=6q57-26fxkA)
+
++ [How to create a data only package with devtools](https://www.youtube.com/watch?v=t1BCV21WG1I)
 
 ### Gist & Cookbook
 
@@ -78,11 +109,33 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Converting New York’s Forest Carbon Assessment to Tidymodels](https://www.mm218.dev/posts/2024-07-19-tidymodels/)
+
+![Converting New York’s Forest Carbon Assessment to Tidymodels](https://raw.githubusercontent.com/rweekly/image/master/2024/W32/boston_tree_canopy_2019.png)
+
++ [Stratified Sampling in R: A Practical Guide with Base R and dplyr](https://www.spsanderson.com/steveondata/posts/2024-07-29/)
+
 + [Parallelize R code using user-defined functions (UDFs) in sparklyr](https://posit.co/blog/databricks-udfs/)
 
 + [Creating typewriter-styled images in R](https://nrennie.rbind.io/blog/creating-typewriter-images-r/)
 
 + [How to Interpret Interactions, Polynomials, and Splines with {marginaleffects}](https://marginaleffects.com/vignettes/interactions.html)
+
++ [BlueSky Statistics Enhancements](https://r4stats.com/2024/07/30/bluesky-statistics-enhancements/)
+
++ [Spatial analysis with geostan](https://www.r-spatial.org//r/2024/08/02/geostan-introduction.html)
+
++ [{charcuterie} - What if Strings Were Iterable in R?](https://jcarroll.com.au/2024/08/03/charcuterie-what-if-strings-were-iterable-in-r/)
+
++ [Automate Your Blog Workflow with a Custom R Function: Creating QMD Files](https://www.spsanderson.com/steveondata/posts/2024-08-01/)
+
++ [A subtle flaw in pull()](https://graphdr.github.io/data-stories/posts/2024-08-01-subtle-flaw-pull/)
+
++ [3MW (Reporting charts with {ggplot2})](https://3mw.albert-rapp.de/p/ggplot-charts-for-reports)
+
++ [How to Write Tests with shiny::testServer Similar to shinytest2](https://www.appsilon.com/post/how-to-write-tests-with-shiny-testserver)
+
++ [Object Oriented Programming in R (Part 4): Reference Classes & R6 Classes](https://www.appsilon.com/post/object-oriented-programming-in-r-part-4)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
