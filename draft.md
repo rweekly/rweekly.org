@@ -17,11 +17,10 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### Insights
 
-+ [Auto XGBoost, Auto LightGBM, Auto CatBoost, Auto GradientBoosting](https://thierrymoudiki.github.io/blog/2024/08/05/python/r/unibooster)
-+ [Shiny in Production 2024: Full speaker lineup](https://www.jumpingrivers.com/blog/shiny-in-production-2024-full-lineup/)
 + [Snakes and ladders by @ellis2013nz](https://freerangestats.info/blog/2024/08/10/snakes-and-ladders)
+
++ [Auto XGBoost, Auto LightGBM, Auto CatBoost, Auto GradientBoosting](https://thierrymoudiki.github.io/blog/2024/08/05/python/r/unibooster)
 + [Explanatory Data Analysis: Black Monday Crash](https://datageeek.com/2024/08/07/black-monday-crash/)
-+ [CopenhagenR, the 2024 spring season](https://sumsar.net/blog/copenhagenr-2024-spring-season/)
 
 + [Mastering Character Counting in R: Base R, stringr, and stringi](https://www.spsanderson.com/steveondata/posts/2024-08-09/)
 + [How to Check if a String Contains Specific Characters in R: A Comprehensive Guide with Base R, string & stringi](https://www.spsanderson.com/steveondata/posts/2024-08-08/)
@@ -29,25 +28,23 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [Converting Text to Uppercase with toupper() in R](https://www.spsanderson.com/steveondata/posts/2024-08-06/)
 + [Systematic Sampleing in R with Base R](https://www.spsanderson.com/steveondata/posts/2024-08-05/)
 
++ [Everything new that’s in {gt} 0.11.0](https://posit.co/blog/everything-new-thats-in-gt-0-11-0/)
+
 + [3MW (Creating tables with {gt})](https://3mw.albert-rapp.de/p/gt-intro)
 
 + [R tidymodels: A tidyverse Like Ecosystem for Efficient Machine Learning in R](https://www.appsilon.com/post/r-tidymodels)
+
 + [Unveiling Bottlenecks: A Guide to Profiling R and R Shiny Code](https://www.appsilon.com/post/a-guide-to-profiling-r-and-r-shiny-code)
 
-### R in the Real World
++ [Building a Bunch of Quarto Extensions for Presentations](https://parmsam.medium.com/building-a-bunch-of-quarto-extensions-c16e9e13c700)
 
++ [Deutschland Tour 2024](https://www.datannery.com/posts/deutschland-tour-2024/)
 
++ [Tableau in R for $0 (Introducing GWalkR)](https://www.business-science.io/code-tools/2024/08/09/tableau-in-r-gwalkr.html)
 
-### R in Organizations
++ [Shiny in Production 2024: Full speaker lineup](https://www.jumpingrivers.com/blog/shiny-in-production-2024-full-lineup/)
 
-
-
-### R in Academia
-
-
-
-### Resources
-
++ [CopenhagenR, the 2024 spring season](https://sumsar.net/blog/copenhagenr-2024-spring-season/)
 
 
 ### New Packages
@@ -55,18 +52,9 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
-
 **CRAN**
 
-
-
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
+CRAN submission will be offline from Aug 1, 2024 to Aug 16, 2024 (CRAN team vacation and maintenance work)
 
 ### Updated Packages
 
@@ -76,19 +64,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
-+ [Keep R Weird](https://youtu.be/KOQBfC1WPwM)
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
++ [useR! 2024 Keynote - Keep R Weird](https://youtu.be/KOQBfC1WPwM)
 
 ### Tutorials
 
@@ -106,6 +82,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [Roche’s first end-to-end R journey to submission](https://posit.co/blog/roches-first-end-to-end-r-journey-to-submission/)
+
 + [R/Pharma APAC track](https://rinpharma.com/post/2024-07-17-apac-track/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
@@ -114,17 +92,12 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Connect
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
-### rtistry
-
 
 ### Quotes of the Week
+
+<iframe src="https://vis.social/@datavisFriendly/112935402482857598/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
