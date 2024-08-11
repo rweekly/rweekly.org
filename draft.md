@@ -92,7 +92,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### Tutorials
 
-
++ [Multistart nonlinear least squares fitting with {gslnls}](https://jchau.org/2024/07/31/multistart-nonlinear-least-squares-with-gslnls/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
