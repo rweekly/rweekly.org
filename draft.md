@@ -14,6 +14,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
++ [Use R to prompt a local LLM with ollamar](https://blog.stephenturner.us/p/use-r-to-prompt-a-local-llm-with)
+
+![Use R to prompt a local LLM with ollamar](https://github.com/user-attachments/assets/6b0e9090-4079-4aa4-97a2-de3c1ad0dfc3)
 
 
 ### Insights
