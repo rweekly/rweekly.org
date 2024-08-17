@@ -14,15 +14,33 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-+ [Use R to prompt a local LLM with ollamar](https://blog.stephenturner.us/p/use-r-to-prompt-a-local-llm-with)
+# RSS POSTS: ##
 
-![Use R to prompt a local LLM with ollamar](https://github.com/user-attachments/assets/6b0e9090-4079-4aa4-97a2-de3c1ad0dfc3)
++ [Bayesian (nonlinear) adaptive learning](https://thierrymoudiki.github.io/blog/2024/08/12/r/bqrvfl)
++ [Tidy DataFrames but not Tibbles](https://jcarroll.com.au/2024/08/11/tidy-dataframes-but-not-tibbles/)
++ [A New R Community in Ahmedabad, India, focused on Clinical Research and Pharmaceutical Industries ](https://www.r-consortium.org/blog/2024/08/12/a-new-r-community-in-ahmedabad-india-focused-on-clinical-research-and-pharmaceutical-industries)
++ [RcppEigen 0.3.4.0.1 on CRAN: Minor Maintenance](http://dirk.eddelbuettel.com/blog/2024/08/16#rcppeigen_0.3.4.0.1)
++ [Snakes and ladders by @ellis2013nz](https://freerangestats.info/blog/2024/08/10/snakes-and-ladders)
++ [Getting creative with ggplot2 workshop](https://r-posts.com/getting-creative-with-ggplot2-workshop/)
++ [Post-hoc Adjustment for Zero-Thresholded Linear Models](https://win-vector.com/2024/08/16/post-hoc-adjustment-for-zero-thresholded-linear-models/)
++ [Your Life in Weeks](https://datawookie.dev/blog/2024/08/your-life-in-weeks/)
++ [Mastering grepl with Multiple Patterns in Base R](https://www.spsanderson.com/steveondata/posts/2024-08-16/)
++ [Mastering Matrix Concatenation in R: A Guide to rbind() and cbind()](https://www.spsanderson.com/steveondata/posts/2024-08-15/)
++ [Opening an Excel Workbook with VBA and Calling it from R](https://www.spsanderson.com/steveondata/posts/2024-08-14/)
++ [Mastering String Concatenation of Vectors in R: Base R, stringr, stringi, and glue](https://www.spsanderson.com/steveondata/posts/2024-08-13/)
++ [Mastering String Concatenation in R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2024-08-12/)
++ [3MW (Creating interactive tables with {reactable})](https://3mw.albert-rapp.de/p/reactable-intro)
++ [A Day in the Life of a Delivery Manager ](https://www.appsilon.com/post/a-day-in-the-life-of-a-delivery-manager)
++ [Best Practices for Building Blazing-Fast Shiny Apps](https://www.appsilon.com/post/blazing-fast-shiny-apps)
++ [An R User’s Guide to Other Programming Languages](https://albert-rapp.de/posts/27_language_r_guide/27_language_r_guide.html)
++ [Machine learning development with Posit Connect and Airflow](https://posit.co/blog/ml-posit-connect-airflow/)
 
 
 ### Insights
 
 + [Tidy DataFrames but not Tibbles](https://jcarroll.com.au/2024/08/11/tidy-dataframes-but-not-tibbles/)
 
++ [Reclaiming your weekend with data contracts](https://docs.google.com/presentation/d/1R9nm_8LHJpkc32XAf3LYRbh9Sr97-Y8OFHHE7Ds5L18/)
 
 ### R in the Real World
 
@@ -38,7 +56,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [mirai and crew: next-generation async to supercharge Plumber, Shiny, and targets](https://wlandau.github.io/posit2024/)
 
 ### New Packages
 
@@ -62,6 +80,60 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+i+ [{VeccTMVN} 1.0.0](https://cran.r-project.org/package=VeccTMVN): Multivariate Normal Probabilities using Vecchia Approximation - [diffify](https://diffify.com/R/VeccTMVN)
++ [{tm.plugin.mail} 0.3-0](https://cran.r-project.org/package=tm.plugin.mail): Text Mining E-Mail Plug-in - [diffify](https://diffify.com/R/tm.plugin.mail)
++ [{overtureR} 0.2.1](https://cran.r-project.org/package=overtureR): Load 'Overture' Datasets as 'dbplyr' and 'sf'-Ready Data Frames - [diffify](https://diffify.com/R/overtureR)
++ [{metajam} 0.3.1](https://cran.r-project.org/package=metajam): Easily Download Data and Metadata from 'DataONE' - [diffify](https://diffify.com/R/metajam)
++ [{icosa} 0.11.1](https://cran.r-project.org/package=icosa): Global Triangular and Penta-Hexagonal Grids Based on Tessellated
+Icosahedra - [diffify](https://diffify.com/R/icosa)
++ [{cba} 0.2-25](https://cran.r-project.org/package=cba): Clustering for Business Analytics - [diffify](https://diffify.com/R/cba)
++ [{bimets} 4.0.2](https://cran.r-project.org/package=bimets): Time Series and Econometric Modeling - [diffify](https://diffify.com/R/bimets)
++ [{survobj} 3.1.1](https://cran.r-project.org/package=survobj): Objects to Simulate Survival Times - [diffify](https://diffify.com/R/survobj)
++ [{qualtRics} 3.2.1](https://cran.r-project.org/package=qualtRics): Download 'Qualtrics' Survey Data - [diffify](https://diffify.com/R/qualtRics)
++ [{solvebio} 2.15.0](https://cran.r-project.org/package=solvebio): The Official SolveBio API Client - [diffify](https://diffify.com/R/solvebio)
++ [{regressinator} 0.2.0](https://cran.r-project.org/package=regressinator): Simulate and Diagnose (Generalized) Linear Models - [diffify](https://diffify.com/R/regressinator)
++ [{nestedcv} 0.7.10](https://cran.r-project.org/package=nestedcv): Nested Cross-Validation with 'glmnet' and 'caret' - [diffify](https://diffify.com/R/nestedcv)
++ [{lingtypology} 1.1.18](https://cran.r-project.org/package=lingtypology): Linguistic Typology and Mapping - [diffify](https://diffify.com/R/lingtypology)
++ [{unittest} 1.7-0](https://cran.r-project.org/package=unittest): TAP-Compliant Unit Testing - [diffify](https://diffify.com/R/unittest)
++ [{StepReg} 1.5.2](https://cran.r-project.org/package=StepReg): Stepwise Regression Analysis - [diffify](https://diffify.com/R/StepReg)
++ [{serpstatr} 0.3.0](https://cran.r-project.org/package=serpstatr): 'Serpstat' API Wrapper - [diffify](https://diffify.com/R/serpstatr)
++ [{fluidsynth} 1.0.1](https://cran.r-project.org/package=fluidsynth): Read and Play Digital Music (MIDI) - [diffify](https://diffify.com/R/fluidsynth)
++ [{convevol} 2.2.1](https://cran.r-project.org/package=convevol): Analysis of Convergent Evolution - [diffify](https://diffify.com/R/convevol)
++ [{fastDummies} 1.7.4](https://cran.r-project.org/package=fastDummies): Fast Creation of Dummy (Binary) Columns and Rows from
+Categorical Variables - [diffify](https://diffify.com/R/fastDummies)
++ [{SISIR} 0.2.3](https://cran.r-project.org/package=SISIR): Select Intervals Suited for Functional Regression - [diffify](https://diffify.com/R/SISIR)
++ [{MethEvolSIM} 0.1.5](https://cran.r-project.org/package=MethEvolSIM): Simulate DNA Methylation Dynamics on Different Genomic
+Structures along Genealogies - [diffify](https://diffify.com/R/MethEvolSIM)
++ [{jqr} 1.3.4](https://cran.r-project.org/package=jqr): Client for 'jq', a 'JSON' Processor - [diffify](https://diffify.com/R/jqr)
++ [{V8} 5.0.0](https://cran.r-project.org/package=V8): Embedded JavaScript and WebAssembly Engine for R - [diffify](https://diffify.com/R/V8)
++ [{proteomicsCV} 0.3.0](https://cran.r-project.org/package=proteomicsCV): Calculates the Percentage CV for Mass Spectrometry-Based
+Proteomics Data - [diffify](https://diffify.com/R/proteomicsCV)
++ [{gpindex} 0.6.2](https://cran.r-project.org/package=gpindex): Generalized Price and Quantity Indexes - [diffify](https://diffify.com/R/gpindex)
++ [{ghapps} 1.1.0](https://cran.r-project.org/package=ghapps): Authenticate as a 'GitHub' App - [diffify](https://diffify.com/R/ghapps)
++ [{ecoreg} 0.2.5](https://cran.r-project.org/package=ecoreg): Ecological Regression using Aggregate and Individual Data - [diffify](https://diffify.com/R/ecoreg)
++ [{cffr} 1.1.1](https://cran.r-project.org/package=cffr): Generate Citation File Format ('cff') Metadata for R Packages - [diffify](https://diffify.com/R/cffr)
++ [{poweRbal} 0.0.1.1](https://cran.r-project.org/package=poweRbal): Phylogenetic Tree Models and the Power of Tree Shape Statistics - [diffify](https://diffify.com/R/poweRbal)
++ [{klassR} 0.2.4](https://cran.r-project.org/package=klassR): Classifications and Codelists for Statistics Norway - [diffify](https://diffify.com/R/klassR)
++ [{insight} 0.20.3](https://cran.r-project.org/package=insight): Easy Access to Model Information for Various Model Objects - [diffify](https://diffify.com/R/insight)
++ [{gert} 2.1.1](https://cran.r-project.org/package=gert): Simple Git Client for R - [diffify](https://diffify.com/R/gert)
++ [{av} 0.9.1](https://cran.r-project.org/package=av): Working with Audio and Video in R - [diffify](https://diffify.com/R/av)
++ [{PriceIndices} 0.2.0](https://cran.r-project.org/package=PriceIndices): Calculating Bilateral and Multilateral Price Indexes - [diffify](https://diffify.com/R/PriceIndices)
++ [{openssl} 2.2.1](https://cran.r-project.org/package=openssl): Toolkit for Encryption, Signatures and Certificates Based on
+OpenSSL - [diffify](https://diffify.com/R/openssl)
++ [{incubate} 1.3.0](https://cran.r-project.org/package=incubate): Parametric Time-to-Event Analysis with Variable Incubation
+Phases - [diffify](https://diffify.com/R/incubate)
++ [{AATtools} 0.0.3](https://cran.r-project.org/package=AATtools): Reliability and Scoring Routines for the Approach-Avoidance Task - [diffify](https://diffify.com/R/AATtools)
++ [{rapidsplithalf} 0.3](https://cran.r-project.org/package=rapidsplithalf): A Fast Split-Half Reliability Algorithm - [diffify](https://diffify.com/R/rapidsplithalf)
++ [{gasfluxes} 0.7](https://cran.r-project.org/package=gasfluxes): Greenhouse Gas Flux Calculation from Chamber Measurements - [diffify](https://diffify.com/R/gasfluxes)
++ [{RcppEigen} 0.3.4.0.1](https://cran.r-project.org/package=RcppEigen): 'Rcpp' Integration for the 'Eigen' Templated Linear Algebra
+Library - [diffify](https://diffify.com/R/RcppEigen)
++ [{nlme} 3.1-166](https://cran.r-project.org/package=nlme): Linear and Nonlinear Mixed Effects Models - [diffify](https://diffify.com/R/nlme)
++ [{topicmodels} 0.2-17](https://cran.r-project.org/package=topicmodels): Topic Models - [diffify](https://diffify.com/R/topicmodels)
++ [{kernlab} 0.9-33](https://cran.r-project.org/package=kernlab): Kernel-Based Machine Learning Lab - [diffify](https://diffify.com/R/kernlab)
++ [{tm} 0.7-14](https://cran.r-project.org/package=tm): Text Mining Package - [diffify](https://diffify.com/R/tm)
++ [{tseries} 0.10-57](https://cran.r-project.org/package=tseries): Time Series Analysis and Computational Finance - [diffify](https://diffify.com/R/tseries)
++ [{Rpoppler} 0.1-3](https://cran.r-project.org/package=Rpoppler): PDF Tools Based on Poppler - [diffify](https://diffify.com/R/Rpoppler)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
@@ -73,7 +145,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [NORC Live Crime Tracker](https://livecrimetracker.norc.org/#home)
 
 ### R Internationally
 
@@ -82,6 +154,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Tutorials
 
 
++ [Use R to prompt a local LLM with ollamar](https://blog.stephenturner.us/p/use-r-to-prompt-a-local-llm-with)
+
+![Use R to prompt a local LLM with ollamar](https://github.com/user-attachments/assets/6b0e9090-4079-4aa4-97a2-de3c1ad0dfc3)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
