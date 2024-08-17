@@ -42,9 +42,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Reclaiming your weekend with data contracts](https://docs.google.com/presentation/d/1R9nm_8LHJpkc32XAf3LYRbh9Sr97-Y8OFHHE7Ds5L18/)
 
++ [Contributing to the R Project](https://hturner.github.io/positconf2024/)
+
++ [Creating a sustainable open-source ecosystem](https://kbodwin.github.io/positconf_2024/): Lessons from an NSF Grant and the rstats hashtag
+
++ [From idea to code to image](https://github.com/gkaramanis/posit_conf_2024): Creative data visualizations in R
+
++ [Context is King](https://shannonpileggi.github.io/context-is-king/)
+
 ### R in the Real World
 
-
++ [Please let me merge before I start crying and other things I've said at the Git terminal](https://meghansaha.github.io/please_let_me_merge/)
 
 ### R in Organizations
 
@@ -157,6 +165,10 @@ Library - [diffify](https://diffify.com/R/RcppEigen)
 + [Use R to prompt a local LLM with ollamar](https://blog.stephenturner.us/p/use-r-to-prompt-a-local-llm-with)
 
 ![Use R to prompt a local LLM with ollamar](https://github.com/user-attachments/assets/6b0e9090-4079-4aa4-97a2-de3c1ad0dfc3)
+
++ [Report Design in R](rfor.us/posit2024slides): Small tweaks that make a big difference
+
++ [Designing and deploying internal Quarto templates](https://meghan.rbind.io/blog/2024-08-14-quarto-templates/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
