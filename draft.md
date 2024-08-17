@@ -8,37 +8,14 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Eric Nantz](), with help from the R Weekly team members and contributors.
 
 
 
 ### Highlight
 
-# RSS POSTS: ##
-
-+ [Bayesian (nonlinear) adaptive learning](https://thierrymoudiki.github.io/blog/2024/08/12/r/bqrvfl)
-+ [Tidy DataFrames but not Tibbles](https://jcarroll.com.au/2024/08/11/tidy-dataframes-but-not-tibbles/)
-+ [A New R Community in Ahmedabad, India, focused on Clinical Research and Pharmaceutical Industries ](https://www.r-consortium.org/blog/2024/08/12/a-new-r-community-in-ahmedabad-india-focused-on-clinical-research-and-pharmaceutical-industries)
-+ [RcppEigen 0.3.4.0.1 on CRAN: Minor Maintenance](http://dirk.eddelbuettel.com/blog/2024/08/16#rcppeigen_0.3.4.0.1)
-+ [Snakes and ladders by @ellis2013nz](https://freerangestats.info/blog/2024/08/10/snakes-and-ladders)
-+ [Getting creative with ggplot2 workshop](https://r-posts.com/getting-creative-with-ggplot2-workshop/)
-+ [Post-hoc Adjustment for Zero-Thresholded Linear Models](https://win-vector.com/2024/08/16/post-hoc-adjustment-for-zero-thresholded-linear-models/)
-+ [Your Life in Weeks](https://datawookie.dev/blog/2024/08/your-life-in-weeks/)
-+ [Mastering grepl with Multiple Patterns in Base R](https://www.spsanderson.com/steveondata/posts/2024-08-16/)
-+ [Mastering Matrix Concatenation in R: A Guide to rbind() and cbind()](https://www.spsanderson.com/steveondata/posts/2024-08-15/)
-+ [Opening an Excel Workbook with VBA and Calling it from R](https://www.spsanderson.com/steveondata/posts/2024-08-14/)
-+ [Mastering String Concatenation of Vectors in R: Base R, stringr, stringi, and glue](https://www.spsanderson.com/steveondata/posts/2024-08-13/)
-+ [Mastering String Concatenation in R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2024-08-12/)
-+ [3MW (Creating interactive tables with {reactable})](https://3mw.albert-rapp.de/p/reactable-intro)
-+ [A Day in the Life of a Delivery Manager ](https://www.appsilon.com/post/a-day-in-the-life-of-a-delivery-manager)
-+ [Best Practices for Building Blazing-Fast Shiny Apps](https://www.appsilon.com/post/blazing-fast-shiny-apps)
-+ [An R User’s Guide to Other Programming Languages](https://albert-rapp.de/posts/27_language_r_guide/27_language_r_guide.html)
-+ [Machine learning development with Posit Connect and Airflow](https://posit.co/blog/ml-posit-connect-airflow/)
-
 
 ### Insights
-
-+ [Tidy DataFrames but not Tibbles](https://jcarroll.com.au/2024/08/11/tidy-dataframes-but-not-tibbles/)
 
 + [Reclaiming your weekend with data contracts](https://docs.google.com/presentation/d/1R9nm_8LHJpkc32XAf3LYRbh9Sr97-Y8OFHHE7Ds5L18/)
 
@@ -54,17 +31,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Please let me merge before I start crying and other things I've said at the Git terminal](https://meghansaha.github.io/please_let_me_merge/)
 
+
 ### R in Organizations
 
 
 
 ### R in Academia
 
++ [Bayesian (nonlinear) adaptive learning](https://thierrymoudiki.github.io/blog/2024/08/12/r/bqrvfl)
 
-
++ [Post-hoc Adjustment for Zero-Thresholded Linear Models](https://win-vector.com/2024/08/16/post-hoc-adjustment-for-zero-thresholded-linear-models/)
 ### Resources
 
 + [mirai and crew: next-generation async to supercharge Plumber, Shiny, and targets](https://wlandau.github.io/posit2024/)
+
++ [Tidy DataFrames but not Tibbles](https://jcarroll.com.au/2024/08/11/tidy-dataframes-but-not-tibbles/)
+
 
 ### New Packages
 
@@ -74,10 +56,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
-
-**Bioconductor**
-
+CRAN submission will be offline from Aug 1, 2024 to Aug 16, 2024 (CRAN team vacation and maintenance work)
 
 
 **GitHub or Bitbucket**
@@ -88,6 +67,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [RcppEigen 0.3.4.0.1 on CRAN: Minor Maintenance](http://dirk.eddelbuettel.com/blog/2024/08/16#rcppeigen_0.3.4.0.1)
 i+ [{VeccTMVN} 1.0.0](https://cran.r-project.org/package=VeccTMVN): Multivariate Normal Probabilities using Vecchia Approximation - [diffify](https://diffify.com/R/VeccTMVN)
 + [{tm.plugin.mail} 0.3-0](https://cran.r-project.org/package=tm.plugin.mail): Text Mining E-Mail Plug-in - [diffify](https://diffify.com/R/tm.plugin.mail)
 + [{overtureR} 0.2.1](https://cran.r-project.org/package=overtureR): Load 'Overture' Datasets as 'dbplyr' and 'sf'-Ready Data Frames - [diffify](https://diffify.com/R/overtureR)
@@ -119,15 +99,11 @@ Proteomics Data - [diffify](https://diffify.com/R/proteomicsCV)
 + [{gpindex} 0.6.2](https://cran.r-project.org/package=gpindex): Generalized Price and Quantity Indexes - [diffify](https://diffify.com/R/gpindex)
 + [{ghapps} 1.1.0](https://cran.r-project.org/package=ghapps): Authenticate as a 'GitHub' App - [diffify](https://diffify.com/R/ghapps)
 + [{ecoreg} 0.2.5](https://cran.r-project.org/package=ecoreg): Ecological Regression using Aggregate and Individual Data - [diffify](https://diffify.com/R/ecoreg)
-+ [{cffr} 1.1.1](https://cran.r-project.org/package=cffr): Generate Citation File Format ('cff') Metadata for R Packages - [diffify](https://diffify.com/R/cffr)
 + [{poweRbal} 0.0.1.1](https://cran.r-project.org/package=poweRbal): Phylogenetic Tree Models and the Power of Tree Shape Statistics - [diffify](https://diffify.com/R/poweRbal)
 + [{klassR} 0.2.4](https://cran.r-project.org/package=klassR): Classifications and Codelists for Statistics Norway - [diffify](https://diffify.com/R/klassR)
 + [{insight} 0.20.3](https://cran.r-project.org/package=insight): Easy Access to Model Information for Various Model Objects - [diffify](https://diffify.com/R/insight)
-+ [{gert} 2.1.1](https://cran.r-project.org/package=gert): Simple Git Client for R - [diffify](https://diffify.com/R/gert)
 + [{av} 0.9.1](https://cran.r-project.org/package=av): Working with Audio and Video in R - [diffify](https://diffify.com/R/av)
 + [{PriceIndices} 0.2.0](https://cran.r-project.org/package=PriceIndices): Calculating Bilateral and Multilateral Price Indexes - [diffify](https://diffify.com/R/PriceIndices)
-+ [{openssl} 2.2.1](https://cran.r-project.org/package=openssl): Toolkit for Encryption, Signatures and Certificates Based on
-OpenSSL - [diffify](https://diffify.com/R/openssl)
 + [{incubate} 1.3.0](https://cran.r-project.org/package=incubate): Parametric Time-to-Event Analysis with Variable Incubation
 Phases - [diffify](https://diffify.com/R/incubate)
 + [{AATtools} 0.0.3](https://cran.r-project.org/package=AATtools): Reliability and Scoring Routines for the Approach-Avoidance Task - [diffify](https://diffify.com/R/AATtools)
@@ -155,8 +131,13 @@ Library - [diffify](https://diffify.com/R/RcppEigen)
 
 + [NORC Live Crime Tracker](https://livecrimetracker.norc.org/#home)
 
+
++ [Best Practices for Building Blazing-Fast Shiny Apps](https://www.appsilon.com/post/blazing-fast-shiny-apps)
+
+
 ### R Internationally
 
++ [A New R Community in Ahmedabad, India, focused on Clinical Research and Pharmaceutical Industries](https://www.r-consortium.org/blog/2024/08/12/a-new-r-community-in-ahmedabad-india-focused-on-clinical-research-and-pharmaceutical-industries)
 
 
 ### Tutorials
@@ -170,6 +151,16 @@ Library - [diffify](https://diffify.com/R/RcppEigen)
 
 + [Designing and deploying internal Quarto templates](https://meghan.rbind.io/blog/2024-08-14-quarto-templates/)
 
++ [Your Life in Weeks](https://datawookie.dev/blog/2024/08/your-life-in-weeks/)
+
++ [Mastering grepl with Multiple Patterns in Base R](https://www.spsanderson.com/steveondata/posts/2024-08-16/)
+
++ [Mastering Matrix Concatenation in R: A Guide to rbind() and cbind()](https://www.spsanderson.com/steveondata/posts/2024-08-15/)
+
++ [3MW (Creating interactive tables with {reactable})](https://3mw.albert-rapp.de/p/reactable-intro)
+
++ [Opening an Excel Workbook with VBA and Calling it from R](https://www.spsanderson.com/steveondata/posts/2024-08-14/)
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
@@ -182,6 +173,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 Events in 3 Months:
 
++ [Getting creative with ggplot2 workshop](https://r-posts.com/getting-creative-with-ggplot2-workshop/)
 + [R/Pharma APAC track](https://rinpharma.com/post/2024-07-17-apac-track/)
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
