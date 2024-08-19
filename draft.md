@@ -35,11 +35,6 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 ![](https://raw.githubusercontent.com/rweekly/image/master/2024/W34/choice_2_600.png)
 
-
-### R in Organizations
-
-
-
 ### R in Academia
 
 + [Bayesian (nonlinear) adaptive learning](https://thierrymoudiki.github.io/blog/2024/08/12/r/bqrvfl)
@@ -52,7 +47,6 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 
 + [Tidy DataFrames but not Tibbles](https://jcarroll.com.au/2024/08/11/tidy-dataframes-but-not-tibbles/)
 
-
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
@@ -62,11 +56,6 @@ This week’s release was curated by [Eric Nantz](https://podcastindex.social/@r
 **CRAN**
 
 CRAN submission will be offline from Aug 1, 2024 to Aug 16, 2024 (CRAN team vacation and maintenance work)
-
-
-**GitHub or Bitbucket**
-
-
 
 ### Updated Packages
 
@@ -164,11 +153,6 @@ CRAN submission will be offline from Aug 1, 2024 to Aug 16, 2024 (CRAN team vaca
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
-
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
 + [NORC Live Crime Tracker](https://livecrimetracker.norc.org/#home)
@@ -208,8 +192,6 @@ CRAN submission will be offline from Aug 1, 2024 to Aug 16, 2024 (CRAN team vaca
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-### Call for Participation
-
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
@@ -230,3 +212,11 @@ Events in 3 Months:
 
 
 ### Quotes of the Week
+
+<iframe src="https://genomic.social/@lwpembleton/112986052081411325/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://genomic.social/embed.js" async="async"></script>
+
+<iframe src="https://fosstodon.org/@brodriguesco/112971257326642858/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<iframe src="https://fosstodon.org/@kellybodwin/112962549919318765/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="500" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<iframe src="https://fosstodon.org/@emilhvitfeldt/112962237440686045/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
