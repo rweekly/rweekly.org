@@ -215,8 +215,8 @@ Events in 3 Months:
 
 <iframe src="https://genomic.social/@lwpembleton/112986052081411325/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="600" allowfullscreen="allowfullscreen"></iframe><script src="https://genomic.social/embed.js" async="async"></script>
 
-<iframe src="https://fosstodon.org/@brodriguesco/112971257326642858/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+<iframe src="https://fosstodon.org/@brodriguesco/112971257326642858/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="500" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
 
-<iframe src="https://fosstodon.org/@kellybodwin/112962549919318765/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="500" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+<iframe src="https://fosstodon.org/@kellybodwin/112962549919318765/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="700" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
 
-<iframe src="https://fosstodon.org/@emilhvitfeldt/112962237440686045/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+<iframe src="https://fosstodon.org/@emilhvitfeldt/112962237440686045/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="500" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
