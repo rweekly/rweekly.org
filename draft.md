@@ -80,7 +80,7 @@ Scrollytelling with Quarto and closeread by Georgios Karamanis
 
 ### Tutorials
 
-
++ [Automating Quarto reports with parameters](https://posit.co/blog/parameterized-quarto/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
