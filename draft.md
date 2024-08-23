@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Five highlights from posit::conf(2024)](https://posit.co/blog/five-highlights-from-posit-conf-2024/)
 
 ### R in the Real World
 
