@@ -18,7 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-[A visual journey through world exhibitions](https://georgios.quarto.pub/a-visual-journey-through-world-exhibitions/)
++ [Five highlights from posit::conf(2024)](https://posit.co/blog/five-highlights-from-posit-conf-2024/)
+
++ [A visual journey through world exhibitions](https://georgios.quarto.pub/a-visual-journey-through-world-exhibitions/)
 Scrollytelling with Quarto and closeread by Georgios Karamanis 
 
 
