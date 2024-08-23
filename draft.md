@@ -136,10 +136,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Creating interactive tables with reactable](https://albert-rapp.de/posts/28_reactable_intro/28_reactable_intro.html)
 
-
-
-+ [What are the use cases for using nested data over packed data?](https://rdiscovery.netlify.app/posts/2024-06-03_use-case-pack-nest/)
-
 + [What are the different ways of summing a variable?](https://rdiscovery.netlify.app/posts/2024-08-23_sums/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
