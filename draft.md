@@ -47,6 +47,8 @@ Scrollytelling with Quarto and closeread by Georgios Karamanis
 
 **CRAN**
 
+[datardis v.0.0.5](https://cran.r-project.org/web/packages/datardis/index.html) : latest Doctor Who episodes added to the datasets.
+
 
 
 **Bioconductor**
@@ -79,6 +81,9 @@ Scrollytelling with Quarto and closeread by Georgios Karamanis
 
 
 ### Tutorials
+
++ [Number of UK viewers of Doctor Who episodes](https://jonathankitt.netlify.app/posts/2024-08-22-datardis-0-0-5/) using the {datardis} package.
+
 
 + [Automating Quarto reports with parameters](https://posit.co/blog/parameterized-quarto/)
 
