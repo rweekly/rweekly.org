@@ -20,6 +20,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Five highlights from posit::conf(2024)](https://posit.co/blog/five-highlights-from-posit-conf-2024/)
 
++ [A visual journey through world exhibitions](https://georgios.quarto.pub/a-visual-journey-through-world-exhibitions/)
+Scrollytelling with Quarto and closeread by Georgios Karamanis 
+
+
+
 ### R in the Real World
 
 
@@ -43,6 +48,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **CRAN**
+
+[datardis v.0.0.5](https://cran.r-project.org/web/packages/datardis/index.html) : latest Doctor Who episodes added to the datasets.
 
 
 
@@ -77,7 +84,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Number of UK viewers of Doctor Who episodes](https://jonathankitt.netlify.app/posts/2024-08-22-datardis-0-0-5/) using the {datardis} package.
 
+
++ [Automating Quarto reports with parameters](https://posit.co/blog/parameterized-quarto/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
