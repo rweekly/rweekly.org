@@ -52,9 +52,9 @@ Videos and Podcasts about R.
 
 Long posts, websites, books, slides, list, cheat sheets, or other learning resources in general that are more officially aggregated as a guide material.
 
-## Jobs
+## Connect
 
-R Jobs.
+R Jobs and Communities.
 
 ## New Packages and Tools
 

@@ -16,6 +16,7 @@
 + [A Day in the Life of a Delivery Manager ](https://www.appsilon.com/post/a-day-in-the-life-of-a-delivery-manager)
 + [Best Practices for Building Blazing-Fast Shiny Apps](https://www.appsilon.com/post/blazing-fast-shiny-apps)
 + [An R User’s Guide to Other Programming Languages](https://albert-rapp.de/posts/27_language_r_guide/27_language_r_guide.html)
++ [Machine learning development with Posit Connect and Airflow](https://posit.co/blog/ml-posit-connect-airflow/)
 # CRANberries UPDATED: ##
 + [{TraMineRextras} 0.6.8](https://cran.r-project.org/package=TraMineRextras): TraMineR Extension - [diffify](https://diffify.com/R/TraMineRextras)
 + [{spatstat.utils} 3.1-0](https://cran.r-project.org/package=spatstat.utils): Utility Functions for 'spatstat' - [diffify](https://diffify.com/R/spatstat.utils)
