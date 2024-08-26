@@ -44,7 +44,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+- [{golem} 0.5.0 is now available](https://golemverse.org/news/golem-0.5.0-release-on-cran/)
 
 **Bioconductor**
 
