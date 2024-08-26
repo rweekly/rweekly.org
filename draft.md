@@ -34,6 +34,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
+[Causal inference in R](https://www.r-causal.org/)
+
 
 
 ### New Packages
