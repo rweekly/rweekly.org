@@ -14,6 +14,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
++ [biorecap: an R package for summarizing bioRxiv preprints with a local LLM](https://blog.stephenturner.us/p/biorecap-r-package-for-summarizing-biorxiv-preprints-local-llm)
+
+![biorecap](https://github.com/user-attachments/assets/206e174b-5b78-4476-9b70-edd7dfc0cdee)
 
 
 ### Insights
