@@ -10,7 +10,9 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
+### Tutorials
 
+- [Introducing surveydown: an R package and platform for creating markdown-based surveys with quarto and shiny](https://surveydown.org/blog/2024-08-21-introducing-surveydown/)
 
 ### Highlight
 
@@ -41,6 +43,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
+<p class="added-hostname"><a href="https://pkg.surveydown.org/" target="_blank" class="externalLink">📦 <i>Create markdown-based surveys with quarto and shiny</i> 📦</a></p>
 
 **CRAN**
 
