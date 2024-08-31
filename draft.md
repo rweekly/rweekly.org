@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+- [Reproducible data science with Nix, part 12 -- Nix as a polyglot build automation tool for data science](https://www.brodrigues.co/blog/2024-08-27-nix_for_r_part_12/)
 
 ### R in the Real World
 
@@ -34,6 +34,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
+[Models demystified](https://m-clark.github.io/book-of-models/) : a practical guide from t-tests to deep learning, by Michael Clark & Seth Berry (with R and Python code)
+
 
 
 ### New Packages
@@ -44,8 +46,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-- [{golem} 0.5.0 is now available](https://golemverse.org/news/golem-0.5.0-release-on-cran/)
 - [{ClustMC} 0.1.1](https://cran.r-project.org/web/packages/ClustMC/index.html): Cluster-Based Multiple Comparisons
+
+- [{golem} 0.5.1 is now available](https://golemverse.org/news/golem-0.5.1-release-on-cran/)
+
 
 **Bioconductor**
 
@@ -79,6 +83,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Tutorials
 
 
++ [How can you use the *frame functions from the package tibble?](https://rdiscovery.netlify.app/posts/2024-08-28_frame-functions/)
+
++ [Translating Quarto (and other markdown files) into Any Language](https://edenian-prince.github.io/blog/posts/2024-08-21-translate-md-files/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
