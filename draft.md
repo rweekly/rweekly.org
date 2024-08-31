@@ -40,9 +40,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-[Models demystified](https://m-clark.github.io/book-of-models/) : a practical guide from t-tests to deep learning, by Michael Clark & Seth Berry (with R and Python code)
++ [Causal inference in R](https://www.r-causal.org/)
 
-
++ [Models demystified](https://m-clark.github.io/book-of-models/) : a practical guide from t-tests to deep learning, by Michael Clark & Seth Berry (with R and Python code)
 
 ### New Packages
 
