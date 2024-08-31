@@ -10,17 +10,23 @@ image: https://rweekly.org/public/facebook.png
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
+### Tutorials
 
+- [Introducing surveydown: an R package and platform for creating markdown-based surveys with quarto and shiny](https://surveydown.org/blog/2024-08-21-introducing-surveydown/)
 
 ### Highlight
 
++ [biorecap: an R package for summarizing bioRxiv preprints with a local LLM](https://blog.stephenturner.us/p/biorecap-r-package-for-summarizing-biorxiv-preprints-local-llm)
+
+![biorecap](https://github.com/user-attachments/assets/206e174b-5b78-4476-9b70-edd7dfc0cdee)
 
 
 ### Insights
 
-
+- [Reproducible data science with Nix, part 12 -- Nix as a polyglot build automation tool for data science](https://www.brodrigues.co/blog/2024-08-27-nix_for_r_part_12/)
 
 ### R in the Real World
+
 
 
 
@@ -34,18 +40,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-[Causal inference in R](https://www.r-causal.org/)
++ [Causal inference in R](https://www.r-causal.org/)
 
-
++ [Models demystified](https://m-clark.github.io/book-of-models/) : a practical guide from t-tests to deep learning, by Michael Clark & Seth Berry (with R and Python code)
 
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
+<p class="added-hostname"><a href="https://pkg.surveydown.org/" target="_blank" class="externalLink">📦 <i>Create markdown-based surveys with quarto and shiny</i> 📦</a></p>
 
 **CRAN**
 
+- [{ClustMC} 0.1.1](https://cran.r-project.org/web/packages/ClustMC/index.html): Cluster-Based Multiple Comparisons
+
+- [{golem} 0.5.1 is now available](https://golemverse.org/news/golem-0.5.1-release-on-cran/)
 
 
 **Bioconductor**
@@ -80,6 +90,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Tutorials
 
 
++ [How can you use the *frame functions from the package tibble?](https://rdiscovery.netlify.app/posts/2024-08-28_frame-functions/)
+
++ [Translating Quarto (and other markdown files) into Any Language](https://edenian-prince.github.io/blog/posts/2024-08-21-translate-md-files/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -100,6 +113,13 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+
++ Upcoming Tidy Finance Webinar from R Consortium
+  + Optimize Portfolios using the Markowitz Model
+    + This webinar introduces Modern Portfolio Theory and the importance of mean-variance analysis in finance. It covers the mathematics of portfolio optimization, expected returns, variances, and covariances. Participants will learn to construct efficient frontiers and implement the Markowitz model in R, from loading return data to optimizing portfolios and interpreting risk-return trade-offs.
+  + Date: September 4th, 2024 at 12:00 pm ET
+  + More information: [https://www.r-consortium.org/tidy-finance-webinar-series](https://www.r-consortium.org/tidy-finance-webinar-series)
+  + Speaker information: [Christoph Scheuch](https://www.linkedin.com/in/christophscheuch/?originalSubdomain=at) is an independent data science and business intelligence expert. He co-created and maintains the Tidy Finance project, a transparent, open source approach to research in financial economics.
 
 ### Grants & Funding
 
