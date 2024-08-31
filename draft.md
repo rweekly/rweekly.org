@@ -26,6 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
+
 ### R in Organizations
 
 
@@ -109,6 +110,13 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
+
++ Upcoming Tidy Finance Webinar from R Consortium
+  + Optimize Portfolios using the Markowitz Model
+    + This webinar introduces Modern Portfolio Theory and the importance of mean-variance analysis in finance. It covers the mathematics of portfolio optimization, expected returns, variances, and covariances. Participants will learn to construct efficient frontiers and implement the Markowitz model in R, from loading return data to optimizing portfolios and interpreting risk-return trade-offs.
+  + Date: September 4th, 2024 at 12:00 pm ET
+  + More information: [https://www.r-consortium.org/tidy-finance-webinar-series](https://www.r-consortium.org/tidy-finance-webinar-series)
+  + Speaker information: [Christoph Scheuch](https://www.linkedin.com/in/christophscheuch/?originalSubdomain=at) is an independent data science and business intelligence expert. He co-created and maintains the Tidy Finance project, a transparent, open source approach to research in financial economics.
 
 ### Grants & Funding
 
