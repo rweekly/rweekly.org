@@ -79,6 +79,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+
++ [How can you use the *frame functions from the package tibble?](https://rdiscovery.netlify.app/posts/2024-08-28_frame-functions/)
+
 + [Translating Quarto (and other markdown files) into Any Language](https://edenian-prince.github.io/blog/posts/2024-08-21-translate-md-files/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
