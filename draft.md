@@ -46,7 +46,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+- [{ClustMC} 0.1.1](https://cran.r-project.org/web/packages/ClustMC/index.html): Cluster-Based Multiple Comparisons
+
 - [{golem} 0.5.1 is now available](https://golemverse.org/news/golem-0.5.1-release-on-cran/)
+
 
 **Bioconductor**
 
