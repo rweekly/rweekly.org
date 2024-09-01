@@ -37,6 +37,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Exploring the Top 5 pharmaverse Packages](https://www.appsilon.com/post/exploring-the-top-5-pharmaverse-packages)
 
++ [Comparing {eefAnalytics} and {lmeInfo}](https://inductivestep.github.io/Random-bits-and-pieces/playing_eA.nb.html)
 
 ### R in the Real World
 
@@ -59,6 +60,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Models demystified](https://m-clark.github.io/book-of-models/) : a practical guide from t-tests to deep learning, by Michael Clark & Seth Berry (with R and Python code)
 
++ [Mastodon Accounts Posting About #RStats](https://apps.machlis.com/shiny/rstats/)
+
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
@@ -79,7 +82,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [{ask}](https://github.com/moodymudskipper/ask)
 
++ [{pkgndep}](https://github.com/jokergoo/pkgndep)
+
++ [{rvoronoi}](https://github.com/coolbutuseless/rvoronoi)
+
++ [{gplate}](https://github.com/KaiAragaki/gplate)
+
++ [idiolect: a new R package for Forensic Authorship Analysis](https://andreanini.com/2024/08/28/idiolect-a-new-r-package-for-forensic-authorship-analysis/)
 
 ### Updated Packages
 
@@ -168,5 +179,15 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Image of Takarazuka, Japan created in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> using data from <a href="https://twitter.com/hashtag/OpenStreetMap?src=hash&amp;ref_src=twsrc%5Etfw">#OpenStreetMap</a>. <a href="https://t.co/GEcTSOdm8H">pic.twitter.com/GEcTSOdm8H</a></p>&mdash; R City Views (@rcityviews) <a href="https://twitter.com/rcityviews/status/1829762455960240212?ref_src=twsrc%5Etfw">August 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe src="https://botsin.space/@aRtsy_package/113055120335473982/embed" width="400" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 
 ### Quotes of the Week
+
+<iframe src="https://fosstodon.org/@coolbutuseless/113050748837620923/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<iframe src="https://fosstodon.org/@yabellini/113052578146749286/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
+<iframe src="https://fosstodon.org/@RConsortium/113052404387203867/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+
