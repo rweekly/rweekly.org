@@ -23,6 +23,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Get notified of failing CRAN checks](https://josiahparry.com/posts/2024-09-01-cran-checks)
+
 - [Reproducible data science with Nix, part 12 -- Nix as a polyglot build automation tool for data science](https://www.brodrigues.co/blog/2024-08-27-nix_for_r_part_12/)
 
 + [Does my test really validate a bug fix? Check it with git cherry-pick](https://masalmon.eu/2024/08/29/cherrypick-test/)
