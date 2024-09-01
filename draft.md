@@ -25,18 +25,33 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 - [Reproducible data science with Nix, part 12 -- Nix as a polyglot build automation tool for data science](https://www.brodrigues.co/blog/2024-08-27-nix_for_r_part_12/)
 
++ [Does my test really validate a bug fix? Check it with git cherry-pick](https://masalmon.eu/2024/08/29/cherrypick-test/)
+
++ [Sampling without replacement with unequal probabilities by @ellis2013nz](https://freerangestats.info/blog/2024/08/31/ppswor)
+
++ [Ratios of indexed line charts by @ellis2013nz](https://freerangestats.info/blog/2024/08/30/australian-economy)
+
++ [How  You Should Keep Score in Pickup Basketball](https://www.bryanshalloway.com/2024/08/27/how-you-should-keep-score-in-pickup-basketball/)
+
++ [Long input lines](https://blog.r-project.org/2024/08/30/long-input-lines/)
+
++ [Exploring the Top 5 pharmaverse Packages](https://www.appsilon.com/post/exploring-the-top-5-pharmaverse-packages)
+
+
 ### R in the Real World
 
 
++ [R4SocialScience: Empowering Social Science Research with R in India](https://www.r-consortium.org/blog/2024/08/27/r4socialscience-empowering-social-science-research-with-r-in-india)
 
++ [News from R Submissions Working Group – Pilot 3 Successfully Reviewed by FDA](https://www.r-consortium.org/blog/2024/08/26/news-from-r-submissions-working-group-pilot-3-successfully-reviewed-by-fda)
+
++ [Package & tools I learned about at posit::conf(2024)](https://parmsam.medium.com/package-tools-i-learned-about-at-posit-conf-2024-dbdd118ec14f)
+
++ [Our Experience at posit::conf 2024](https://www.appsilon.com/post/our-experience-at-posit-conf-2024)
 
 ### R in Organizations
 
-
-
-### R in Academia
-
-
++ [GxP Validation in Software Development starts from the Definition of Done](https://www.appsilon.com/post/gxp-software-validation-starts-with-definition-of-done)
 
 ### Resources
 
@@ -70,6 +85,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [pkgKitten 0.2.4 on CRAN: Updates](http://dirk.eddelbuettel.com/blog/2024/08/30#pkgkitten_0.2.4)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
@@ -93,6 +110,22 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [How can you use the *frame functions from the package tibble?](https://rdiscovery.netlify.app/posts/2024-08-28_frame-functions/)
 
 + [Translating Quarto (and other markdown files) into Any Language](https://edenian-prince.github.io/blog/posts/2024-08-21-translate-md-files/)
+
++ [Get your codebase lint-free forever with lintr](https://masalmon.eu/2024/08/28/lintr-3-steps/)
+
++ [Mastering grep() in R: A Fun Guide to Pattern Matching and Replacement](https://www.spsanderson.com/steveondata/posts/2024-08-30/)
++ [How to use the agrep() function in base R](https://www.spsanderson.com/steveondata/posts/2024-08-29/)
++ [How to Use grep() for Exact Matching in Base R: A Comprehensive Guide](https://www.spsanderson.com/steveondata/posts/2024-08-28/)
++ [Understanding Comments in C: Why They Matter and How to Use Them Effectively](https://www.spsanderson.com/steveondata/posts/2024-08-27/)
++ [Mastering the sapply() Function in R: A Comprehensive Guide for Data Manipulation](https://www.spsanderson.com/steveondata/posts/2024-08-26/)
++ [Joining data sets with R](https://3mw.albert-rapp.de/p/join-data-sets)
++ [Loading Excel files with missing numbers into R](https://3mw.albert-rapp.de/p/excel-files-with-missing-values)
++ [Loading files with missing numbers](https://3mw.albert-rapp.de/p/loading-csv-with-na)
+
++ [Master Data & File Formats With R](https://3mw.albert-rapp.de/p/master-data-file-formats-r)
+
++ [How can you use the *frame functions from the package tibble?](https://rdiscovery.netlify.app/posts/2024-08-28_frame-functions/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -120,9 +153,11 @@ Events in 3 Months:
   + Date: September 4th, 2024 at 12:00 pm ET
   + More information: [https://www.r-consortium.org/tidy-finance-webinar-series](https://www.r-consortium.org/tidy-finance-webinar-series)
   + Speaker information: [Christoph Scheuch](https://www.linkedin.com/in/christophscheuch/?originalSubdomain=at) is an independent data science and business intelligence expert. He co-created and maintains the Tidy Finance project, a transparent, open source approach to research in financial economics.
+  
 
 ### Grants & Funding
 
++ [The 2024 ISC Grant Program will begin Accepting Applications Soon!](https://www.r-consortium.org/blog/2024/08/30/the-2024-isc-grant-program-will-begin-accepting-applications-on-september-1st)
 
 ### Datasets
 
