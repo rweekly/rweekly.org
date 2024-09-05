@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Use Posit tools with data in DuckDB, Databricks, and Snowflake](https://posit.co/blog/databases-with-posit/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
