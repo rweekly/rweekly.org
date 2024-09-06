@@ -77,6 +77,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+[TidyX episode 186](https://www.youtube.com/watch?v=g2N7uemv7vI) : Gapminder camcorder - be kind and rewind
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
