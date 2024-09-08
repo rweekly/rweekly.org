@@ -18,6 +18,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [**PLANES**: **P**lausibility **An**alysis of **E**pidemiological **S**ignals with the rplanes package](https://blog.stephenturner.us/p/planes-plausibility-analysis-of-epidemiological-signals-rplanes-r-package)
+
+![rplanes](https://github.com/user-attachments/assets/ce51393b-ebc4-4258-a2d5-85ef0444aea1)
 
 
 ### R in the Real World
@@ -44,6 +47,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{rplanes} 0.1.0](https://cran.r-project.org/package=rplanes): Plausibility Analysis of Epidemiological Signals
 
 
 **Bioconductor**
@@ -77,7 +81,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+
 + [Use Posit tools with data in DuckDB, Databricks, and Snowflake](https://posit.co/blog/databases-with-posit/)
+
++ [Boost your shiny app with sparkling data visualizations: a deep dive into Chart.js JavaScript library](https://rtask.thinkr.fr/boost-your-shiny-app-with-sparkling-data-visualizations-a-deep-dive-into-chart-js-javascript-library/)
+
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
