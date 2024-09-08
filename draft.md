@@ -62,6 +62,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+[{corporaexplorer} 0.9.0](https://cran.r-project.org/package=corporaexplorer): A 'Shiny' App for Exploration of Text Collections - [diffify](https://diffify.com/R/corporaexplorer)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
