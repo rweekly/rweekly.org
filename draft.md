@@ -12,24 +12,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
  RSS POSTS: ##
 
-+ [Dr Drang and the Electoral College](https://kieranhealy.org/blog/archives/2024/09/06/dr-drang-and-the-electoral-college/)
-+ [An IV study design to estimate an effect size when randomization is not ethical](https://www.rdatagen.net/post/2024-09-03-an-instrumental-variable-study-design-to-estimate-an-effect-size-when-randomization-may-not-be-ethical/)
-+ [BlueSky Statistics Version 10 is Not Open Source](https://r4stats.com/2024/09/05/bluesky-statistics-version-10-is-not-open-source/)
-+ [First Steps in Python Testing](https://www.jumpingrivers.com/blog/intro-to-pytest/)
-+ [Boost your shiny app with sparkling data visualizations: a deep dive into Chart.js JavaScript library](https://rtask.thinkr.fr/boost-your-shiny-app-with-sparkling-data-visualizations-a-deep-dive-into-chart-js-javascript-library/)
-+ [Create and use a custom roxygen2 tag](https://masalmon.eu/2024/09/03/roxygen2-custom-tag/)
-+ [Side by Side Comparison - Gleam vs R](https://jcarroll.com.au/2024/09/05/side-by-side-comparison-gleam-vs-r/)
-+ [R-Ladies Bariloche in Argentina: Fostering a Different Approach to  Leadership](https://www.r-consortium.org/blog/2024/09/06/r-ladies-bariloche-in-argentina-fostering-a-different-approach-to-leadership)
-+ [RcppCNPy 0.2.13 on CRAN: Micro Bugfix](http://dirk.eddelbuettel.com/blog/2024/09/03#rcppcnpy_0.2.13)
-+ [Gender and sexuality in Australian surveys and census by @ellis2013nz](https://freerangestats.info/blog/2024/09/08/sex-gender)
-+ [📦 {alone} v0.5 is now available](http://gradientdescending.com/%f0%9f%93%a6-alone-v0-5-is-now-available/)
-+ [Five ways to improve your chart axes](https://nrennie.rbind.io/blog/five-ways-improve-chart-axes/)
-+ [Navigating Linux with ‘pwd’, ‘cd’, and ‘ls’: A Beginner’s Guide](https://www.spsanderson.com/steveondata/posts/2024-09-06/)
-+ [C Programming Data Types: A Comprehensive Guide to Characters, Integers, and Floating Points](https://www.spsanderson.com/steveondata/posts/2024-09-05/)
-+ [Harness the Full Potential of Case-Insensitive Searches with grep() in R](https://www.spsanderson.com/steveondata/posts/2024-09-04/)
-+ [Mastering the grep() Function in R: Using OR Logic](https://www.spsanderson.com/steveondata/posts/2024-09-03/)
-+ [Making your blog FAIR](https://drmowinckels.io/blog/2024/fair-blog/)
-+ [[LAST CHANCE] Dealing With Excel's Pivot Tables](https://3mw.albert-rapp.de/p/excel-pivot-tables)
 
 
 
@@ -46,6 +28,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ![rplanes](https://github.com/user-attachments/assets/ce51393b-ebc4-4258-a2d5-85ef0444aea1)
 
++ [R-Ladies Bariloche in Argentina: Fostering a Different Approach to  Leadership](https://www.r-consortium.org/blog/2024/09/06/r-ladies-bariloche-in-argentina-fostering-a-different-approach-to-leadership)
+
++ [Gender and sexuality in Australian surveys and census by @ellis2013nz](https://freerangestats.info/blog/2024/09/08/sex-gender)
+
 
 ### R in the Real World
 
@@ -57,6 +43,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Academia
 
++ [An IV study design to estimate an effect size when randomization is not ethical](https://www.rdatagen.net/post/2024-09-03-an-instrumental-variable-study-design-to-estimate-an-effect-size-when-randomization-may-not-be-ethical/)
+
+<img width="714" alt="Screenshot 2024-09-10 at 22 14 37" src="https://github.com/user-attachments/assets/6ef52bee-4c92-4b69-9587-539d289fc57b">
 
 
 ### Resources
@@ -212,6 +201,7 @@ Plots - [diffify](https://diffify.com/R/flowmapper)
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
++ [TidyX episode 186](https://www.youtube.com/watch?v=g2N7uemv7vI) : Gapminder camcorder - be kind and rewind
 
 ### Gist & Cookbook
 
@@ -227,8 +217,11 @@ Plots - [diffify](https://diffify.com/R/flowmapper)
 
 ### Tutorials
 
-[TidyX episode 186](https://www.youtube.com/watch?v=g2N7uemv7vI) : Gapminder camcorder - be kind and rewind
++ [Five ways to improve your chart axes](https://nrennie.rbind.io/blog/five-ways-improve-chart-axes/)
 
+<img width="759" alt="Screenshot 2024-09-10 at 22 19 06" src="https://github.com/user-attachments/assets/65f49ec0-b293-4782-9bbf-1bf46cd09cfb">
+
++ [Side by Side Comparison - Gleam vs R](https://jcarroll.com.au/2024/09/05/side-by-side-comparison-gleam-vs-r/)
 
 + [Use Posit tools with data in DuckDB, Databricks, and Snowflake](https://posit.co/blog/databases-with-posit/)
 
@@ -236,6 +229,21 @@ Plots - [diffify](https://diffify.com/R/flowmapper)
 
 + [How do you iterate a vector?](https://rdiscovery.netlify.app/posts/2024-09-09_reduce/)
 
++ [Dr Drang and the Electoral College](https://kieranhealy.org/blog/archives/2024/09/06/dr-drang-and-the-electoral-college/)
+
++ [Boost your shiny app with sparkling data visualizations: a deep dive into Chart.js JavaScript library](https://rtask.thinkr.fr/boost-your-shiny-app-with-sparkling-data-visualizations-a-deep-dive-into-chart-js-javascript-library/)
+
++ [Create and use a custom roxygen2 tag](https://masalmon.eu/2024/09/03/roxygen2-custom-tag/)
+
++ [Harness the Full Potential of Case-Insensitive Searches with grep() in R](https://www.spsanderson.com/steveondata/posts/2024-09-04/)
+
++ [Mastering the grep() Function in R: Using OR Logic](https://www.spsanderson.com/steveondata/posts/2024-09-03/)
+
++ [Making your blog FAIR](https://drmowinckels.io/blog/2024/fair-blog/)
+
+<img width="921" alt="Screenshot 2024-09-10 at 22 21 33" src="https://github.com/user-attachments/assets/16bf0606-7f73-4f15-9ad0-2334844bae74">
+  
++ [[LAST CHANCE] Dealing With Excel's Pivot Tables](https://3mw.albert-rapp.de/p/excel-pivot-tables)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
