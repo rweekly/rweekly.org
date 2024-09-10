@@ -88,6 +88,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Boost your shiny app with sparkling data visualizations: a deep dive into Chart.js JavaScript library](https://rtask.thinkr.fr/boost-your-shiny-app-with-sparkling-data-visualizations-a-deep-dive-into-chart-js-javascript-library/)
 
++ [How do you iterate a vector?](https://rdiscovery.netlify.app/posts/2024-09-09_reduce/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
