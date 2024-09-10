@@ -8,12 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [](), with help from the R Weekly team members and contributors.
-
- RSS POSTS: ##
-
-
-
+This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq.netlify.app/), with help from the R Weekly team members and contributors.
 
 ### Highlight
 + [Five ways to improve your chart axes](https://nrennie.rbind.io/blog/five-ways-improve-chart-axes/)
@@ -32,31 +27,16 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Gender and sexuality in Australian surveys and census by @ellis2013nz](https://freerangestats.info/blog/2024/09/08/sex-gender)
 
-
-### R in the Real World
-
-
-
-### R in Organizations
-
-
-
 ### R in Academia
 
 + [An IV study design to estimate an effect size when randomization is not ethical](https://www.rdatagen.net/post/2024-09-03-an-instrumental-variable-study-design-to-estimate-an-effect-size-when-randomization-may-not-be-ethical/)
 
 <img width="714" alt="Screenshot 2024-09-10 at 22 14 37" src="https://github.com/user-attachments/assets/6ef52bee-4c92-4b69-9587-539d289fc57b">
 
-
-### Resources
-
-
-
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
-
 
 **CRAN**
 
@@ -117,14 +97,6 @@ Hazards Model
 
 + [{cbbinom} 0.1.0](https://cran.r-project.org/package=cbbinom): Continuous Analog of a Beta-Binomial Distribution
   
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
-
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
@@ -203,17 +175,6 @@ Plots - [diffify](https://diffify.com/R/flowmapper)
 
 + [TidyX episode 186](https://www.youtube.com/watch?v=g2N7uemv7vI) : Gapminder camcorder - be kind and rewind
 
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ### Tutorials
 
@@ -251,8 +212,6 @@ Plots - [diffify](https://diffify.com/R/flowmapper)
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-### Call for Participation
-
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
@@ -265,17 +224,15 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Connect
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
-### rtistry
+### artistry
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Happy <a href="https://twitter.com/hashtag/FathersDay?src=hash&amp;ref_src=twsrc%5Etfw">#FathersDay</a>! 🧍🏡<br><br>We plotted emu occurrence data to celebrate the animal worlds’ great dads &amp; dad figures... &amp; stumbled on some egg-ceptional looking patterns… 🪺🗺️ <a href="https://twitter.com/hashtag/Rtistry?src=hash&amp;ref_src=twsrc%5Etfw">#Rtistry</a><br><br>Male emus&#39; both incubate &amp; rear those little stripey babies we all know &amp; love... all alone! 🐣 <a href="https://t.co/vrde1CNyme">pic.twitter.com/vrde1CNyme</a></p>&mdash; Atlas of Living Aust (@atlaslivingaust) <a href="https://twitter.com/atlaslivingaust/status/1830025292523384902?ref_src=twsrc%5Etfw">August 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
+<img width="398" alt="Screenshot 2024-09-10 at 22 32 30" src="https://github.com/user-attachments/assets/d5f886c7-7cd5-4c0d-8716-ad3a849d1617">
+
