@@ -26,6 +26,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
++ [Create a free Llama 3.1 405B-powered chatbot on an R package's GitHub repo in <1 min](https://blog.stephenturner.us/p/create-a-free-llama-405b-llm-chatbot-github-repo-huggingface)
+
+[![llamarepo](https://github.com/user-attachments/assets/1c499044-fc60-44eb-a55a-3173106d8fb7)](https://blog.stephenturner.us/p/create-a-free-llama-405b-llm-chatbot-github-repo-huggingface)
 
 
 ### R in Academia
