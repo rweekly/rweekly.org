@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Wrangling filenames into variables](https://luisdva.github.io/rstats/filenames-to-vars/)  
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
