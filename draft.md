@@ -61,6 +61,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{osmapiR} 0.2.1](https://cran.r-project.org/package=osmapiR): Interface to 'OpenStreetMap API' - [diffify](https://diffify.com/R/osmapiR/)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
