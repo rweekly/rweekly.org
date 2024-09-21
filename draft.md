@@ -82,6 +82,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+
++ [Improving Shiny app interactivity and performance with ggiraph](https://posit.co/blog/shiny-dashboards-with-ggiraph-and-databases/)
+
 + [Wrangling filenames into variables](https://luisdva.github.io/rstats/filenames-to-vars/)  
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
