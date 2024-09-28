@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Reproducible data science with Nix, part 13 -- {rix} is on CRAN!](https://www.brodrigues.co/blog/2024-09-27-nix_part_13/)
 
 
 ### R in the Real World
