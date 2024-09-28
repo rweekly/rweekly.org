@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
+- New [blog post]([url](https://surveydown.org/blog/2024-09-18-new-app-design/)) on architecture changes in v0.3.0 of the {surveydown} R package.
 
 ### New Packages
 
@@ -57,6 +57,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
+Version 0.3.0 of the [{surveydown} R package]([url](https://github.com/surveydown-dev/surveydown)) is now out.
 
 ### Videos and Podcasts
 
