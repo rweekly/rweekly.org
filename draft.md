@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/), with help from the R Weekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
 
 
@@ -26,7 +26,11 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [Reproducible data science with Nix, part 13 -- {rix} is on CRAN!](https://www.brodrigues.co/blog/2024-09-27-nix_part_13/)
 
++ [Some Options for Fast Matrix Decompositions in R](https://www.practicalsignificance.com/posts/some-fast-spectral-decompositions-in-r/)
+
 + [{surveydown 0.3.0}](https://surveydown.org/blog/2024-09-18-new-app-design/): New architecture in v0.3.0 (and loads of breaking changes)!
+
++ [Seal of Approval: collapse](https://rdatatable-community.github.io/The-Raft/posts/2024-09-21-seal_of_approval-collapse/)
 
 ### R in the Real World
 
@@ -35,14 +39,6 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 + [Estimating ecological network robustness with R: A functional approach*](https://geekcologist.wordpress.com/2024/09/27/estimating-ecological-network-robustness-with-r-a-functional-approach/)
 
 + [Exploding, Impacting: looking at bioRxiv preprint view dynamics with R](https://quantixed.org/2024/09/24/exploding-impacting-looking-at-biorxiv-preprint-view-dynamics-with-r/)
-
-### R in Organizations
-
-
-
-### R in Academia
-
-
 
 ### Resources
 
@@ -58,34 +54,36 @@ This week’s release was curated by [Tony ElHabr](https://tonyelhabr.rbind.io/)
 
 + [{dsld} 0.2.2](https://matloff.wordpress.com/2024/09/23/new-r-package-data-science-looks-at-discrimination-dsld/): Data Science Looks at Discrimination
 
-**Bioconductor**
++ [{xmlwriter} 0.1.1](https://cran.r-project.org/package=xmlwriter): Fast and Elegant XML Generation
 
++ [{geocomplexity} 0.1.0](https://cran.r-project.org/package=geocomplexity): Mitigating Spatial Bias Through Geographical Complexity
 
++ [{dotwhisker} 0.8.3](https://cran.r-project.org/package=dotwhisker): Dot-and-Whisker Plots of Regression Results
 
-**GitHub or Bitbucket**
++ [{hexDensity} 1.4.4](https://cran.r-project.org/package=hexDensity): Fast Kernel Density Estimation with Hexagonal Grid
 
++ [{literanger} 0.1.1](https://cran.r-project.org/package=literanger): Random Forests for Multiple Imputation Based on 'ranger'
 
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{Lahman} 12.0-0](https://cran.r-project.org/package=Lahman): Sean 'Lahman' Baseball Database - [diffify](https://diffify.com/R/Lahman)
+
++ [{broom} 1.0.7](https://cran.r-project.org/package=broom): Convert Statistical Objects into Tidy Tibbles - [diffify](https://diffify.com/R/broom)
+
++ [{httr2} 1.0.5](https://cran.r-project.org/package=httr2): Perform HTTP Requests and Process the Responses - [diffify](https://diffify.com/R/httr2)
+
++ [{feasts} 0.4.1](https://cran.r-project.org/package=feasts): Feature Extraction and Statistics for Time Series - [diffify](https://diffify.com/R/feasts)
+
++ [{DescTools} 0.99.57](https://cran.r-project.org/package=DescTools): Tools for Descriptive Statistics - [diffify](https://diffify.com/R/DescTools)
+
++ [{rio} 1.2.3](https://cran.r-project.org/package=rio): A Swiss-Army Knife for Data I/O - [diffify](https://diffify.com/R/rio)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ### Tutorials
 
@@ -140,5 +138,14 @@ Events in 3 Months:
 
 ### rtistry
 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:ihadlwi4yb2xvfvsnzhesb6s/app.bsky.feed.post/3l4xuylw3em2i" data-bluesky-cid="bafyreiedevebih5gjvu652r75pbesstgrbqpk4jtfofzihgpevnyx22ase"><p lang="en">Here is my #viz for the #TidyTuesday challenge—W40. This one is about the Chess Game Dataset (Lichess).
+.
+🔗: stevenponce.netlify.app/data_visuali...
+.
+#rstats | #r4ds | #dataviz | #ggplot2<br><br><a href="https://bsky.app/profile/did:plc:ihadlwi4yb2xvfvsnzhesb6s/post/3l4xuylw3em2i?ref_src=embed">[image or embed]</a></p>&mdash; Steven Ponce (<a href="https://bsky.app/profile/did:plc:ihadlwi4yb2xvfvsnzhesb6s?ref_src=embed">@sponce1.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:ihadlwi4yb2xvfvsnzhesb6s/post/3l4xuylw3em2i?ref_src=embed">September 25, 2024 at 5:03 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:z32vf5hl3vdml7t3xcewztke/app.bsky.feed.post/3l4px6nxd5b2h" data-bluesky-cid="bafyreiaanwsg4szhsdposyyvbco3fsr4w4lwc4gtkc75oxpkglspatzjmm"><p lang="en">I&#x27;ve not done #tidytuesday in a longggg time and this week&#x27;s dataset on dialogues from Shakespeare plays was a nice way to get back into it. Nothing too complicated, just a bump chart tracking the amount of dialogue for major characters. Everything in R with ggplot #dataviz #rstats<br><br><a href="https://bsky.app/profile/did:plc:z32vf5hl3vdml7t3xcewztke/post/3l4px6nxd5b2h?ref_src=embed">[image or embed]</a></p>&mdash; Aman Bhargava  (<a href="https://bsky.app/profile/did:plc:z32vf5hl3vdml7t3xcewztke?ref_src=embed">@aman.bh</a>) <a href="https://bsky.app/profile/did:plc:z32vf5hl3vdml7t3xcewztke/post/3l4px6nxd5b2h?ref_src=embed">September 22, 2024 at 1:21 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A quick reminder that if you are scoring/recoding variables using the same logic in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>, you can use across() to score those items all at once. <a href="https://t.co/KnYbIHKlqZ">pic.twitter.com/KnYbIHKlqZ</a></p>&mdash; Crystal Lewis (@Cghlewis) <a href="https://twitter.com/Cghlewis/status/1839690471691465086?ref_src=twsrc%5Etfw">September 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
