@@ -44,6 +44,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Descriptive statistics by hand](https://statsandr.com/blog/descriptive-statistics-by-hand/)
 
++ [Handling large data with polars and tidypolars](https://www.handling-large-data.etiennebacher.com): a lightweight presentation (not a tutorial) on issues when handling large data and how `polars` can help solving them.
+
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> -->
