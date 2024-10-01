@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Using property-based testing in R](https://www.etiennebacher.com/posts/2024-10-01-using-property-testing-in-r/)
 
 
 ### R in the Real World
