@@ -14,7 +14,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
++ [AI code completion in Positron](https://blog.stephenturner.us/p/ai-code-completion-in-positron)
 
+![9f439b33-5b4c-4155-aac2-84e7e0780019_1418x1045](https://github.com/user-attachments/assets/32cd6210-8029-42fa-bd4b-372d4e145ee6)
 
 ### Insights
 
