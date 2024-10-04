@@ -38,6 +38,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [microinverterdata release 0.1.0](https://camembr.github.io/microinverterdata/)
+
 **Bioconductor**
 
 **GitHub or Bitbucket**
