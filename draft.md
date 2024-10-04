@@ -47,7 +47,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [simaerep release 0.6.0](https://www.datisticsblog.com/2024/09/simaerep-v0.6.0/)
+  
++ [{nanonext} 1.3.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen).
 
++ [{secretbase} 1.0.3](https://cran.r-project.org/package=secretbase): Cryptographic Hash, Extendable-Output and Base64 Functions.
 
 ### Videos and Podcasts
 
