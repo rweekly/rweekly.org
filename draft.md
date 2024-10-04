@@ -17,7 +17,15 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
++ [Examining exams using Rasch models and assessment of measurement invariance](https://www.zeileis.org/news/exams/)
+
+
 ### R in Organizations
+
++ [A Guide to R Package Validation in Pharma](https://www.appsilon.com/post/r-package-validation-in-pharma)
+
++ [What is GxP Validation in Clinical Software Development?](https://www.appsilon.com/post/gxp-validation-in-clinical-software-development)
+
 
 ### R in Academia
 
@@ -38,6 +46,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [simaerep release 0.6.0](https://www.datisticsblog.com/2024/09/simaerep-v0.6.0/)
+
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
@@ -47,6 +58,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Shiny Apps
 
 ### R Internationally
+
++ [A comunidade R fala português](https://ropensci.org/commcalls/translation-portuguese/)
 
 ### Tutorials
 
@@ -62,6 +75,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 * [A Safe Space for Learning How to Make Pull Requests](https://jcarroll.com.au/2024/10/01/a-safe-space-for-learning-how-to-make-pull-requests/)
 
++ [Economic Calendar](https://datawookie.dev/blog/2024/10/economic-calendar/)
+
++ [Getting started with generative art](https://nrennie.rbind.io/blog/getting-started-generative-art/)
+
+
++ [How to Split Data into Equal Sized Groups in R: A Comprehensive Guide for Beginners](https://www.spsanderson.com/steveondata/posts/2024-10-03/)
+
++ [Mastering Data Manipulation in R: Comprehensive Guide to Stacking Data Frame Columns](https://www.spsanderson.com/steveondata/posts/2024-09-30/)
+
++ [3MW (Using Word Templates With R)](https://3mw.albert-rapp.de/p/using-word-templates-with-r)
+
+
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
@@ -73,6 +98,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
+
++ [Spatial modelling with GAMs in R workshop](https://r-posts.com/spatial-modelling-with-gams-in-r-workshop/)
 
 + [R/Pharma APAC track](https://rinpharma.com/post/2024-07-17-apac-track/)
 
