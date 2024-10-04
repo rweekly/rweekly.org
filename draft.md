@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Set up your own universe on R-universe](https://docs.r-universe.dev/publish/set-up.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
