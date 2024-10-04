@@ -6,7 +6,7 @@ image: https://rweekly.org/public/facebook.png
 ---
 
 
-+ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly) Step by step to build a complete machine learning project (tidymodels, pins, vetiver, plumber & co)
++ [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [](), with help from the R Weekly team members and contributors.
 
@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-* [MLOps from Zero to Hero : Build your ML model](https://blog.thaink2.com/posts/mlops%20end%20to%20end%20part%2001/)
+* [MLOps from Zero to Hero : Build your ML model](https://blog.thaink2.com/posts/mlops%20end%20to%20end%20part%2001/)Step by step to build a complete machine learning project (tidymodels, pins, vetiver, plumber & co)
 
 ### R in the Real World
 
