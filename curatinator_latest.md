@@ -22,6 +22,14 @@
 + [Using Posit Connect to implement dynamic user identity for data governance in published apps](https://posit.co/blog/implement-dynamic-user-identity-posit-connect/)
 + [Nested unit tests with testthat](https://rpahl.github.io/r-some-blog/posts/2024-10-07-nested-unit-tests-with-testthat)
 # CRANberries UPDATED: ##
++ [{renv} 1.0.11](https://cran.r-project.org/package=renv): Project Environments - [diffify](https://diffify.com/R/renv)
++ [{gpbStat} 0.4.4](https://cran.r-project.org/package=gpbStat): Comprehensive Statistical Analysis of Plant Breeding Experiments - [diffify](https://diffify.com/R/gpbStat)
++ [{RWsearch} 5.2.0](https://cran.r-project.org/package=RWsearch): Lazy Search in R Packages, Task Views, CRAN, the Web. All-in-One
+Download - [diffify](https://diffify.com/R/RWsearch)
++ [{log4r} 0.4.4](https://cran.r-project.org/package=log4r): A Fast and Lightweight Logging System for R, Based on 'log4j' - [diffify](https://diffify.com/R/log4r)
++ [{WeightSVM} 1.7-16](https://cran.r-project.org/package=WeightSVM): Subject Weighted Support Vector Machines - [diffify](https://diffify.com/R/WeightSVM)
++ [{pedigreeTools} 0.3](https://cran.r-project.org/package=pedigreeTools): Versatile Functions for Working with Pedigrees - [diffify](https://diffify.com/R/pedigreeTools)
++ [{spork} 0.3.5](https://cran.r-project.org/package=spork): Generalized Label Formatting - [diffify](https://diffify.com/R/spork)
 + [{tsgarch} 1.0.3](https://cran.r-project.org/package=tsgarch): Univariate GARCH Models - [diffify](https://diffify.com/R/tsgarch)
 + [{gtfsio} 1.2.0](https://cran.r-project.org/package=gtfsio): Read and Write General Transit Feed Specification (GTFS) Files - [diffify](https://diffify.com/R/gtfsio)
 + [{healthyR.ts} 0.3.1](https://cran.r-project.org/package=healthyR.ts): The Time Series Modeling Companion to 'healthyR' - [diffify](https://diffify.com/R/healthyR.ts)
