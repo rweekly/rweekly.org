@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2024-W00
+title: R Weekly 2024-W42
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
