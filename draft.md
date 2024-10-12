@@ -19,6 +19,7 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 ### Insights
 
 + [Postprocessing is coming to tidymodels](https://www.tidyverse.org/blog/2024/10/postprocessing-preview/)
++ [Uncovering Unknowns: Data in Investigative Journalism](https://katharinabrunner.de/2024/10/uncovering-unknowns-data-in-investigative-journalism/)
 
 ### R in the Real World
 
