@@ -44,9 +44,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [microinverterdata release 0.1.0](https://camembr.github.io/microinverterdata/)
 
 
 **Bioconductor**
+
+  
+
 
 
 
@@ -59,6 +63,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 + [{mirai} 1.3.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R.
+
++ [simaerep release 0.6.0](https://www.datisticsblog.com/2024/09/simaerep-v0.6.0/)
+
++ [{nanonext} 1.3.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen).
+
++ [{secretbase} 1.0.3](https://cran.r-project.org/package=secretbase): Cryptographic Hash, Extendable-Output and Base64 Functions.
+
 
 ### Videos and Podcasts
 
@@ -78,6 +89,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
+
++ [3MW (Using Word Templates With R)](https://3mw.albert-rapp.de/p/using-word-templates-with-r)
+  
++ [EDA Reimagined in R: GWalkR + DuckDB for Lightning-Fast Visualizations](https://medium.com/@bruceyu0416/eda-reimagined-in-r-gwalkr-duckdb-for-lightning-fast-visualizations-05b011e8ae39)
 
 
 
