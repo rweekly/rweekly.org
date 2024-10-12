@@ -87,6 +87,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [3MW (Using Word Templates With R)](https://3mw.albert-rapp.de/p/using-word-templates-with-r)
+  
++ [EDA Reimagined in R: GWalkR + DuckDB for Lightning-Fast Visualizations](https://medium.com/@bruceyu0416/eda-reimagined-in-r-gwalkr-duckdb-for-lightning-fast-visualizations-05b011e8ae39)
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
