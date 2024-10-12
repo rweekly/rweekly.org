@@ -23,6 +23,7 @@ This week’s release was curated by [Eric Nantz](), with help from the R Weekly
 ### R in the Real World
 
 + [Exploratory Data Analysis: Will PCE Data Push Bitcoin?](https://datageeek.com/2024/10/07/exploratory-data-analysis-will-pce-data-push-bitcoin/)
++ [Uncovering Unknowns: Data in Investigative Journalism - All stories a based heavily in #rstats programming](https://katharinabrunner.de/2024/10/uncovering-unknowns-data-in-investigative-journalism/)
 
 
 
