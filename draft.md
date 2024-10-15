@@ -36,11 +36,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 
-### New Packages
+### New Packages and Tools
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
++ [Shiny Assistant](https://shiny.posit.co/blog/posts/shiny-assistant/)
 
 **CRAN**
 
