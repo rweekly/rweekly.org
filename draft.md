@@ -79,7 +79,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Running tidymodel prediction workflows inside databases with orbital and Snowflake](https://posit.co/blog/running-tidymodel-prediction-workflows-inside-databases/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
