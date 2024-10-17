@@ -22,6 +22,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
+[R Consortium : Dengue Data Hub](https://r-consortium.org/posts/empowering-dengue-research-through-the-dengue-data-hub/)
+
 
 
 ### R in Organizations
