@@ -79,7 +79,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [DuckDB vs dplyr vs base R](https://blog.stephenturner.us/p/duckdb-vs-dplyr-vs-base-r)
 
+![DuckDB vs dplyr vs base R](https://github.com/user-attachments/assets/6688ae94-e279-4070-8fe3-a78d752bf8bd)
+
++ [Use nanoparquet instead of readr/CSV](https://blog.stephenturner.us/p/use-nanoparquet-instead-of-readr-csv)
+
+![Use nanoparquet instead of readr/CSV](https://github.com/user-attachments/assets/2bd7fe20-ee38-4106-8226-12cfd8fd46f5)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
