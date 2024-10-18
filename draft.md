@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+[Comparing `data.table` reshape to `duckdb` and `polars`](https://rdatatable-community.github.io/The-Raft/posts/2024-10-17-duckdb_polars_reshape-toby_hocking/)
 
 ### R in the Real World
 
