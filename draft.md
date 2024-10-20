@@ -79,6 +79,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+[Beyond Functions: How to Enrich an R Package with Data](https://rtask.thinkr.fr/beyond-functions-how-to-enrich-an-r-package-with-data/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
