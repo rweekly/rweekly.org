@@ -45,6 +45,8 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [Exploring the tidyHeatmap R package](https://tomsing1.github.io/blog/posts/tidyHeatmap/)
 
++ [How PCA projection and cell label transfer work in Seurat](https://divingintogeneticsandgenomics.com/post/pca-projection/)
+
 ### R in the Real World
 
 [R Consortium : Dengue Data Hub](https://r-consortium.org/posts/empowering-dengue-research-through-the-dengue-data-hub/)
@@ -57,6 +59,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 
 ### R in Academia
+
 
 
 
