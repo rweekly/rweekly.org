@@ -79,7 +79,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-[Beyond Functions: How to Enrich an R Package with Data](https://rtask.thinkr.fr/beyond-functions-how-to-enrich-an-r-package-with-data/)
+
++ [Comparing `data.table` reshape to `duckdb` and `polars`](https://rdatatable-community.github.io/The-Raft/posts/2024-10-17-duckdb_polars_reshape-toby_hocking/)
+
++ [Visualizing performance regression of `data.table` with `atime`](https://rdatatable-community.github.io/The-Raft/posts/2024-10-10-Performance-Doris_Amoakohene/)
+
++ [Beyond Functions: How to Enrich an R Package with Data](https://rtask.thinkr.fr/beyond-functions-how-to-enrich-an-r-package-with-data/)
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
