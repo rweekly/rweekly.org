@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Python for R users](https://blog.stephenturner.us/p/python-for-r-users)
 
 ### R in the Real World
 
