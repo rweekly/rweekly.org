@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Data Science Workflows in R: Tutorial Companion e-book](https://datasciworkflows.netlify.app/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
