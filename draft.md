@@ -44,7 +44,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+* [{cocoon} 0.1.0](https://cran.r-project.org/package=cocoon): Extract, Format, and Print Statistical Output ( cran.r-project.org ) 
 
 **Bioconductor**
 
