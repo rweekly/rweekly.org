@@ -17,7 +17,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Insights
-
++ [MLOps made easy for R users](https://blog.thaink2.com/posts/mlops%20end%20to%20end%20part%2001/)
 
 
 ### R in the Real World
