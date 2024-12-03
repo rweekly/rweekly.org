@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [TIL: dplyr::mutate()'s .keep argument](https://blog.stephenturner.us/p/dplyr-mutate-keep)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
