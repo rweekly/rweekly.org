@@ -76,6 +76,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
++ [Fitting TabPFN models in R using reticulate](https://mansthulin.se/tabpfn/)
 
 
 
