@@ -44,7 +44,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+[{ncaavolleyballr 0.4.1}](https://cran.r-project.org/package=ncaavolleyballr) Extract Data from NCAA Women's and Men's Volleyball Website ( cran.r-project.org ) 
 
 **Bioconductor**
 
