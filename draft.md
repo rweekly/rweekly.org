@@ -85,6 +85,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+ - Announcing [R Dev Day @ Rencontres R 2025](https://pretix.eu/r-contributors/r-dev-day-rr2025/): University of Mons, Belgium, Thursday 22 May, 09:00-17:00 CEST. Join us to work on contributions to the code, documentation and translations in base R. Free and open registration, deadline **Friday 18 April**.
+
 ### Call for Participation
 
 ### Upcoming Events in 3 Months
