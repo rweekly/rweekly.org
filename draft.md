@@ -66,6 +66,7 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 + [{layer} 0.0.3](https://cran.r-project.org/package=layer): Tilt your Maps and Turn Them into 'ggplot' Plots
 + [{superspreading} 0.3.0](https://cran.r-project.org/package=superspreading): Understand Individual-Level Variation in Infectious Disease
 Transmission
++ [{ggsurveillance} 0.1.1](https://cloud.r-project.org/package=ggsurveillance): Tools for Outbreak Investigation and Infectious Disease Surveillance, like Epicurves in 'ggplot2'
 
 
 ### Updated Packages
