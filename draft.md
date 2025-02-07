@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [mirai v2.0](https://shikokuchuo.net/posts/25-mirai-v2/) - easier distributed computing, mirai cancellation, tidyverse purrr integration.
 
 ### New Packages
 
