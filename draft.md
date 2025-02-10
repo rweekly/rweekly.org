@@ -14,6 +14,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
++ [Exploring the bioRxiv API with R, httr2, rvest, tidytext, and Datawrapper](https://blog.stephenturner.us/p/exploring-the-biorxiv-api-with-r-httr2-rvest-tidytext-datawrapper)
+
+![image](https://github.com/user-attachments/assets/fb309e5c-9070-44d8-99ec-40b3392f0de9)
+
 
 
 ### Insights
