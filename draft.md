@@ -44,7 +44,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-
+- [{deltatest} 0.1.0](https://cran.r-project.org/package=deltatest): Statistical Hypothesis Testing Using the Delta Method ( cran.r-project.org )
 
 **Bioconductor**
 
