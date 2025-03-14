@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
+- [MAGA keyword screening tool](https://jhelvy.github.io/magaScreener/) - Tool built using Quarto and shinylive that allows you to analyze documents for specific MAGA-targeted keywords in response to [this executive order](https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/). It is intended to be used to help identify words that might get screened by the federal government, e.g. in a grant proposal for federal funding.
 
 ### New Packages
 
