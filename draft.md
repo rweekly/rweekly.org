@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
+- [View Failing CRAN Checks](https://ricochet-rs.github.io/cran-checks/) in one place. Use the [GitHub Action](https://github.com/ricochet-rs/cran-checks?tab=readme-ov-file#usage) to be notified if your R package is every failing CRAN checks before it is too late!
 
 
 ### New Packages
