@@ -85,6 +85,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+ - Announcing [R Dev Day @ useR! 2025](https://user2025.r-project.org/additional/r-dev-day): Duke University, Durham, NC, USA, Monday 11 August, 09:00-17:00 EDT. Join us to work on contributions to the code, documentation and translations in base R. Free to attend, places allocated by application, deadline **Tuesday 15 April**.
+
 ### Call for Participation
 
 ### Upcoming Events in 3 Months
