@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Announcing rixpress](https://brodrigues.co/posts/2025-03-20-announcing_rixpress.html)
 
 
 ### R in the Real World
