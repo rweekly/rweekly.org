@@ -26,7 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
-
++ [carbonr: Making greenhouse gas reporting more accessible in R for organizations](https://cran.r-project.org/web/packages/carbonr/)
 
 ### R in Academia
 
