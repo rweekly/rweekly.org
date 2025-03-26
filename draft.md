@@ -22,6 +22,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Setting up igraph for success in the next decade](https://blog.cynkra.com/posts/2025-03-17-igraph-isc-setting-success-decade/)
 
++ [Hack Your Way To Scientific Glory (recreation)](https://stats.andrewheiss.com/hack-your-way/)
+
 ### R in the Real World
 
 
@@ -79,7 +81,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [The guide to gradients in R and ggplot2](https://jamesgoldie.dev/writing/stack-gradients-in-r/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
