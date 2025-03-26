@@ -18,8 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [Announcing rixpress](https://brodrigues.co/posts/2025-03-20-announcing_rixpress.html)
++ [Organizing tests in R packages](https://blog.cynkra.com/posts/2025-03-04-refactoring-test-files/)
 
++ [Setting up igraph for success in the next decade](https://blog.cynkra.com/posts/2025-03-17-igraph-isc-setting-success-decade/)
+
++ [Hack Your Way To Scientific Glory (recreation)](https://stats.andrewheiss.com/hack-your-way/)
 
 ### R in the Real World
 
@@ -35,6 +38,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
+- [View Failing CRAN Checks](https://ricochet-rs.github.io/cran-checks/) in one place. Use the [GitHub Action](https://github.com/ricochet-rs/cran-checks?tab=readme-ov-file#usage) to be notified if your R package is every failing CRAN checks before it is too late!
 
 
 ### New Packages
@@ -78,13 +82,18 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [The guide to gradients in R and ggplot2](https://jamesgoldie.dev/writing/stack-gradients-in-r/)
 
++ [Announcing rixpress](https://brodrigues.co/posts/2025-03-20-announcing_rixpress.html)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
 ### R Project Updates
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
+
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+ - Announcing [R Dev Day @ useR! 2025](https://user2025.r-project.org/additional/r-dev-day): Duke University, Durham, NC, USA, Monday 11 August, 09:00-17:00 EDT. Join us to work on contributions to the code, documentation and translations in base R. Free to attend, places allocated by application, deadline **Tuesday 15 April**.
 
 ### Call for Participation
 
