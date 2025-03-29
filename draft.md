@@ -63,6 +63,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{happign} 0.3.3](https://cran.r-project.org/package=happign): R Interface to French Geospatiale data from 'IGN' Web Services - [diffify](https://diffify.com/R/happign)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
