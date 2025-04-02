@@ -15,7 +15,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+[R, DuckDB, and Me](https://rorylawless.github.io/posts/r-duckdb-and-me/)
 
 ### R in the Real World
 
