@@ -77,6 +77,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [uv, part 3: Python in R with reticulate: two demos with Hugging Face transformers and pyBigWig](https://blog.stephenturner.us/p/uv-part-3-python-in-r-with-reticulate)
+
+![01161181-a879-4c6a-840f-333813e0cdcd_800x570](https://github.com/user-attachments/assets/ac4ffcf0-a5b7-4269-b782-40ab64199ca2)
+
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
