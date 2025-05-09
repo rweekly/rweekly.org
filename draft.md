@@ -26,6 +26,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
++ [Roaringly Acknowledge Organizations with ROR IDs in DESCRIPTION](https://ropensci.org/blog/2025/05/09/ror/)
+
 
 
 ### R in Academia
