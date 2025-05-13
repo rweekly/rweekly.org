@@ -69,6 +69,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
++ [Streamline Your Shiny App Design: Introducing shinydraw for Effortless Wireframing](https://cynkra.com/blog/2025-05-08-shinydraw/)
 
 
 ### R Internationally
