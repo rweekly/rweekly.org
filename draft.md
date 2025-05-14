@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+- [Multi-language pipelines with rixpress](https://brodrigues.co/posts/2025-05-13-test_rixpress.html)
 
 ### R in the Real World
 
