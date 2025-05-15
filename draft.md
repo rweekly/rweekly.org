@@ -62,6 +62,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
++ [Hack your way to a good Git history (SLC-RUG May)](https://www.youtube.com/watch?v=IEAEvcnA9Hs) ([slides](https://www.meetup.com/slc-rug/events/304955799))
+
++ [Un meilleur historique Git, sans difficulté (R-Ladies Paris)](https://www.youtube.com/watch?v=u6XqHOO8g6c) ([slides](https://rladies-paris-git.netlify.app/#/))
+
 
 ### Gist & Cookbook
 
