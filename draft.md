@@ -30,6 +30,7 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 
 ### Resources
 
++ [mirai 2.3.0: Advancing Async Computing in R](https://shikokuchuo.net/posts/26-mirai-230/)
 + [15 New Books added to Big Book of R](https://oscarbaruffa.com/bbof-20250518/)
 + [Spurious correlations](https://github.com/pachadotdev/spuriouscorrelations)
 + [Interactive charts in R and beyond](https://nrennie.rbind.io/talks/edinbR-interactive-charts/slides.html#/section)
@@ -61,6 +62,8 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 + [{tinyplot} 0.3.0](https://cran.r-project.org/package=tinyplot): Lightweight Extension of the Base R Graphics System - [diffify](https://diffify.com/R/tinyplot)
 + [{performance} 0.13.0](https://cran.r-project.org/package=performance): Assessment of Regression Models Performance - [diffify](https://diffify.com/R/performance)
 + [{rsconnect} 1.4.0](https://cran.r-project.org/package=rsconnect): Deploy Docs, Apps, and APIs to 'Posit Connect', 'shinyapps.io', and 'RPubs' - [diffify](https://diffify.com/R/rsconnect)
++ [{mirai} 2.3.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R - [diffify](https://diffify.com/R/mirai)
++ [{nanonext} 1.6.0](https://cran.r-project.org/package=nanonext): R binding for NNG (Nanomsg Next Gen) - [diffify](https://diffify.com/R/nanonext)
 + [{fda} 6.2.0](https://cran.r-project.org/package=fda): Functional Data Analysis - [diffify](https://diffify.com/R/fda)
 + [{descriptio} 1.4](https://cran.r-project.org/package=descriptio): Descriptive Statistical Analysis - [diffify](https://diffify.com/R/descriptio)
 + [{recipes} 1.3.1](https://cran.r-project.org/package=recipes): Preprocessing and Feature Engineering Steps for Modeling - [diffify](https://diffify.com/R/recipes)
