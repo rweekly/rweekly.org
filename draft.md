@@ -16,6 +16,7 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 + [Security blind spots in Shiny: why your app is more vulnerable than you think](https://rtask.thinkr.fr/security-blind-spots-in-shiny-why-your-app-is-more-vulnerable-than-you-think/)
 + [When good pseudorandom numbers go bad](https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/)
 + [How to use GitHub Codespaces to simplify your Quarto Workshops](https://quarto.org/docs/blog/posts/2025-05-19-quarto-codespaces/)
++ [Tips and tools for co-maintenance of R packages](https://hugogruson.fr/posts/R-package-comaintenance/)
 
 ### R in the Real World
 
