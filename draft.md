@@ -91,6 +91,7 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 + [A step-by-step chart makeover](https://nrennie.rbind.io/blog/chart-makeover/)
 + [Writing a book with Quarto: Turn a collection of RMarkdown documents into a book in \<1 hour using Quarto](https://blog.stephenturner.us/p/quarto-books)
 + [Keep your R code clean and consistent with Air](https://yohann-data.fr/posts/airformatter/)
++ [Refactoring code with `flir`](https://www.etiennebacher.com/posts/2025-05-23-refactoring-code-with-flir/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
