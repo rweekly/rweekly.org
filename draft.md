@@ -33,7 +33,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 
 + [mirai 2.3.0: Advancing Async Computing in R](https://shikokuchuo.net/posts/26-mirai-230/)
-
++ [Tomorrow Night Bright (R Classic) Theme on Open VSX Registry](https://open-vsx.org/extension/gvelasq/tomorrow-night-bright-r-classic)
 
 ### New Packages
 
@@ -80,6 +80,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 ### Tutorials
 
 + [Refactoring code with `flir`](https://www.etiennebacher.com/posts/2025-05-23-refactoring-code-with-flir/)
++ [Porting my favorite RStudio color theme to Positron](https://ivelasq.rbind.io/blog/positron-theme/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
