@@ -16,10 +16,13 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 ### Insights
 
 + [Tips and tools for co-maintenance of R packages](https://hugogruson.fr/posts/R-package-comaintenance/)
++ [Teaching chat apps about R packages](https://posit.co/blog/custom-chat-app/)
++ [Natural language data science with RStudio and Databricks](https://posit.co/blog/natural-language-data-science-with-rstudio-and-databricks/)
++ [Computer vision with LLMs in R](https://posit.co/blog/kuzco-computer-vision-with-llms-in-r/)
 
 ### R in the Real World
 
-
++ [R Package Repository Snapshots for Clinical Trial Submissions](https://posit.co/blog/r-package-snapshots-for-clinical-trial-submissions/)
 
 ### R in Organizations
 
@@ -81,6 +84,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 + [Refactoring code with `flir`](https://www.etiennebacher.com/posts/2025-05-23-refactoring-code-with-flir/)
 + [Porting my favorite RStudio color theme to Positron](https://ivelasq.rbind.io/blog/positron-theme/)
++ [Easy tool calls with ellmer and chatlas](https://posit.co/blog/easy-tool-calls-with-ellmer-and-chatlas/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
