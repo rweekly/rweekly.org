@@ -18,12 +18,12 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [Tips and tools for co-maintenance of R packages](https://hugogruson.fr/posts/R-package-comaintenance/)
 
 ### R in the Real World
-+ [Visualizing results from a parliamentary report with ggplot2 and gtsummary](https://www.assnat.qc.ca/fr/document/211813.html?utm_source=assnat&utm_medium=siteweb&utm_campaign=campagne-csesj-2025-rapport-final&utm_ID=csesj-page-2025) - The Select Committee on the Impacts of Screens and Social Media on Young People’s Health and Development tabled its final report in the Assemblée nationale du Québec. Key findings from a national survey on public opinion about screens were visualized using R packages **ggplot2** and **gtsummary**.
 
 
 
 ### R in Organizations
 
++ [Visualizing results from a parliamentary report with ggplot2 and gtsummary](https://www.assnat.qc.ca/fr/document/211813.html?utm_source=assnat&utm_medium=siteweb&utm_campaign=campagne-csesj-2025-rapport-final&utm_ID=csesj-page-2025) - The Select Committee on the Impacts of Screens and Social Media on Young People’s Health and Development tabled its final report in the Assemblée nationale du Québec. Key findings from a national survey on public opinion about screens were visualized using R packages **ggplot2** and **gtsummary**.
 
 
 ### R in Academia
