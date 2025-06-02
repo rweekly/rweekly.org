@@ -1,60 +1,31 @@
 ---
 layout: draft
-title: R Weekly 2025-W23
+title: R Weekly 2025-W24
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
+
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@jonocarroll), with help from the RWeekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+
+
 
 ### Highlight
 
-+ [Computer vision with LLMs in R](https://posit.co/blog/kuzco-computer-vision-with-llms-in-r/)
 
-+ [Easy tool calls with ellmer and chatlas](https://posit.co/blog/easy-tool-calls-with-ellmer-and-chatlas/)
-
-+ [Porting my favorite RStudio color theme to Positron](https://ivelasq.rbind.io/blog/positron-theme/)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2025/W23/positron_theme_600.gif)
 
 ### Insights
 
-+ [Tips and tools for co-maintenance of R packages](https://hugogruson.fr/posts/R-package-comaintenance/)
-+ [Little useless-useful R functions – Absurd bias DAG  with useless mental shortcuts](https://tomaztsql.wordpress.com/2025/05/25/little-useless-useful-r-functions-absurd-bias-dag-with-useless-mental-shortcuts/)
-+ [#48: r2u Talk Re-Recorded](http://dirk.eddelbuettel.com/blog/2025/05/29#048_r2u_talk_rerecorded)
-+ [Forecasting MSCI Europe Index Post-Trump Tariff Announcement](https://datageeek.com/2025/05/26/forecasting-msci-europe-index-post-trump-tariff-announcement/)
-+ [3MW (Database Connections With R)](https://3mw.albert-rapp.de/p/database-connections-with-r)
-+ [Taylor Series Approximation To Newton Raphson Algorithm - A note for myself of the proof](https://www.kenkoonwong.com/blog/newton-raphson/)
-+ [Natural language data science with RStudio and Databricks](https://posit.co/blog/natural-language-data-science-with-rstudio-and-databricks/)
-+ [Computer vision with LLMs in R](https://posit.co/blog/kuzco-computer-vision-with-llms-in-r/)
-+ [Easy tool calls with ellmer and chatlas](https://posit.co/blog/easy-tool-calls-with-ellmer-and-chatlas/)
-+ [R Package Repository Snapshots for Clinical Trial Submissions](https://posit.co/blog/r-package-snapshots-for-clinical-trial-submissions/)
-+ [Teaching chat apps about R packages](https://posit.co/blog/custom-chat-app/)
-+ [April 2025 Top 40 New CRAN Packages](https://rworks.dev/posts/april-2025-top-40-new-cran-packages/)
-+ [A Guide to Using techtonique.net's API and rush for simulating and plotting Stochastic Scenarios](https://thierrymoudiki.github.io//blog/2025/05/30/r/python/techtonique/esgtoolkit-techtonique-api-rush)
-+ [Simulating Stochastic Scenarios with Diffusion Models](https://thierrymoudiki.github.io//blog/2025/05/29/r/python/techtonique/esgtoolkit-techtonique-api)
-+ [Will my apartment in 5th avenue be overpriced or not?](https://thierrymoudiki.github.io//blog/2025/05/28/r/python/techtonique/conformal-regression-techtonique-API)
-+ [The Dynamics of the “Gentle Way”: Exploring Judo Attack Combinations as Networks in R](https://geekcologist.wordpress.com/2025/05/27/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/)
-
-![](https://raw.githubusercontent.com/rweekly/image/master/2025/W23/cluster-1_600.png)
-
-+ [Applying GARCH and INGARCH models to papal conclaves](https://datascienceconfidential.github.io/statistics/r/2025/05/28/conclave.html)
-+ [Spatial machine learning with the tidymodels framework](https://geocompx.org/post/2025/sml-bp3/)
-+ [Self-intersecting Quadrilateral](https://onlinecollegemathteacher.blogspot.com/2025/05/self-intersecting-quadrilateral.html)
-+ [Repost: Writing a book with Quarto](https://gettinggeneticsdone.blogspot.com/2025/05/quarto-books.html)
-+ [Guiding data processing with adverbial::step_by_step() in R](https://uchidamizuki.quarto.pub/blog/posts/2025/05/guiding-data-processing-with-adverbial-step_by_step-in-r.html)
 
 
 ### R in the Real World
 
-+ [A Pace Far Different: finding best running pace with R](https://quantixed.org/2025/05/27/a-pace-far-different-finding-best-running-pace-with-r/)
 
 
 ### R in Organizations
 
-+ [rOpenSci News Digest, May 2025](https://ropensci.org/blog/2025/05/26/news-may-2025/)
 
 
 ### R in Academia
@@ -64,70 +35,48 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 ### Resources
 
 
-+ [mirai 2.3.0: Advancing Async Computing in R](https://shikokuchuo.net/posts/26-mirai-230/)
-+ [Tomorrow Night Bright (R Classic) Theme on Open VSX Registry](https://open-vsx.org/extension/gvelasq/tomorrow-night-bright-r-classic)
 
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
+
 **CRAN**
 
-+ [{squids} 25.5.6](https://cran.r-project.org/package=squids): Short Quasi-Unique Identifiers (SQUIDs)
-+ [{ragnar} 0.1.0](https://cran.r-project.org/package=ragnar): Retrieval-Augmented Generation (RAG) Workflows
-+ [{muttest} 0.1.0](https://cran.r-project.org/package=muttest): Mutation Testing
-+ [{glueDo} 0.1.0](https://cran.r-project.org/package=glueDo): Wrapper Functions for the 'glue' Library
-+ [{propagate} 1.0-7](https://cran.r-project.org/package=propagate): Propagation of Uncertainty
-+ [{dir2json} 0.1.0](https://cran.r-project.org/package=dir2json): Convert Directory to JSON
+
+
+**Bioconductor**
+
+
 
 **GitHub or Bitbucket**
 
-+ [{acquaint} 0.0.0.9000](https://posit-dev.github.io/acquaint/)
+
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
-
-+ [RcppDate 0.0.6: New Upstream](http://dirk.eddelbuettel.com/blog/2025/05/29#rcppdate_0.0.6)
-+ [{mirai} 2.3.0](https://cran.r-project.org/package=mirai): Minimalist Async Evaluation Framework for R - [diffify](https://diffify.com/R/mirai)
-+ [{plotthis} 0.7.0](https://cran.r-project.org/package=plotthis): High-Level Plotting Built Upon 'ggplot2' and Other Plotting Packages - [diffify](https://diffify.com/R/plotthis)
-+ [{typr} 0.0.3](https://cran.r-project.org/package=typr): Write and Render 'Typst' Documents - [diffify](https://diffify.com/R/typr)
-+ [{haven} 2.5.5](https://cran.r-project.org/package=haven): Import and Export 'SPSS', 'Stata' and 'SAS' Files - [diffify](https://diffify.com/R/haven)
-+ [{officer} 0.6.10](https://cran.r-project.org/package=officer): Manipulation of Microsoft Word and PowerPoint Documents - [diffify](https://diffify.com/R/officer)
-+ [{legendry} 0.2.2](https://cran.r-project.org/package=legendry): Extended Legends and Axes for 'ggplot2' - [diffify](https://diffify.com/R/legendry)
-+ [{ggh4x} 0.3.1](https://cran.r-project.org/package=ggh4x): Hacks for 'ggplot2' - [diffify](https://diffify.com/R/ggh4x)
-+ [{shelter} 0.2.0](https://cran.r-project.org/package=shelter): Support for Secure API Key Management - [diffify](https://diffify.com/R/shelter)
-+ [{gutenbergr} 0.3.0](https://cran.r-project.org/package=gutenbergr): Download and Process Public Domain Works from Project Gutenberg - [diffify](https://diffify.com/R/gutenbergr)
-+ [{promises} 1.3.3](https://cran.r-project.org/package=promises): Abstractions for Promise-Based Asynchronous Programming - [diffify](https://diffify.com/R/promises)
-+ [{RcppDate} 0.0.6](https://cran.r-project.org/package=RcppDate): 'date' C++ Header Library for Date and Time Functionality - [diffify](https://diffify.com/R/RcppDate)
-+ [{nplyr} 0.3.0](https://cran.r-project.org/package=nplyr): A Grammar of Nested Data Manipulation - [diffify](https://diffify.com/R/nplyr)
-+ [{gtExtras} 0.6.0](https://cran.r-project.org/package=gtExtras): Extending 'gt' for Beautiful HTML Tables - [diffify](https://diffify.com/R/gtExtras)
-+ [{chattr} 0.3.0](https://cran.r-project.org/package=chattr): Interact with Large Language Models in 'RStudio' - [diffify](https://diffify.com/R/chattr)
-+ [{pdfsearch} 0.4.3](https://cran.r-project.org/package=pdfsearch): Search Tools for PDF Files - [diffify](https://diffify.com/R/pdfsearch)
-+ [{rle} 0.10.0](https://cran.r-project.org/package=rle): Common Functions for Run-Length Encoded Vectors - [diffify](https://diffify.com/R/rle)
-+ [{workflowsets} 1.1.1](https://cran.r-project.org/package=workflowsets): Create a Collection of 'tidymodels' Workflows - [diffify](https://diffify.com/R/workflowsets)
-+ [{LLMR} 0.3.0](https://cran.r-project.org/package=LLMR): Interface for Large Language Model APIs in R - [diffify](https://diffify.com/R/LLMR)
-+ [{mice} 3.18.0](https://cran.r-project.org/package=mice): Multivariate Imputation by Chained Equations - [diffify](https://diffify.com/R/mice)
-+ [{zeallot} 0.2.0](https://cran.r-project.org/package=zeallot): Multiple, Unpacking, and Destructuring Assignment - [diffify](https://diffify.com/R/zeallot)
-+ [{keyring} 1.4.0](https://cran.r-project.org/package=keyring): Access the System Credential Store from R - [diffify](https://diffify.com/R/keyring)
-+ [{arrow} 20.0.0.2](https://cran.r-project.org/package=arrow): Integration to 'Apache' 'Arrow' - [diffify](https://diffify.com/R/arrow)
-+ [{pkgbuild} 1.4.8](https://cran.r-project.org/package=pkgbuild): Find Tools Needed to Build R Packages - [diffify](https://diffify.com/R/pkgbuild)
-+ [{gh} 1.5.0](https://cran.r-project.org/package=gh): 'GitHub' 'API' - [diffify](https://diffify.com/R/gh)
-+ [{openssl} 2.3.3](https://cran.r-project.org/package=openssl): Toolkit for Encryption, Signatures and Certificates Based on OpenSSL - [diffify](https://diffify.com/R/openssl)
-+ [{data.table} 1.17.4](https://cran.r-project.org/package=data.table): Extension of `data.frame` - [diffify](https://diffify.com/R/data.table)
-+ [{pkgdown.offline} 0.1.1](https://cran.r-project.org/package=pkgdown.offline): Build 'pkgdown' Websites Offline - [diffify](https://diffify.com/R/pkgdown.offline)
 
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 
+### Gist & Cookbook
+
+
+
+### Shiny Apps
+
+
+
+### R Internationally
+
+
+
 ### Tutorials
 
-+ [Refactoring code with `flir`](https://www.etiennebacher.com/posts/2025-05-23-refactoring-code-with-flir/)
-+ [Porting my favorite RStudio color theme to Positron](https://ivelasq.rbind.io/blog/positron-theme/)
-+ [How to Generate Random Numbers in R With Examples](https://www.spsanderson.com/steveondata/posts/2025-05-26/)
 
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
@@ -150,6 +99,11 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
+### Grants & Funding
+
+
+### Datasets
+
 
 ### Connect
 
@@ -157,13 +111,5 @@ Events in 3 Months:
 
 ### rtistry
 
-<blockquote class="mastodon-embed" data-embed-url="https://mastodon.social/@aRtsy_package/114561297832800676/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://mastodon.social/@aRtsy_package/114561297832800676" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @aRtsy_package@mastodon.social</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://mastodon.social/" async src="https://mastodon.social/embed.js"></script>
-
 
 ### Quotes of the Week
-
-<blockquote class="mastodon-embed" data-embed-url="https://fosstodon.org/@LeafyEricScott/114597949110597671/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://fosstodon.org/@LeafyEricScott/114597949110597671" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M74.7135 16.6043C73.6199 8.54587 66.5351 2.19527 58.1366 0.964691C56.7196 0.756754 51.351 0 38.9148 0H38.822C26.3824 0 23.7135 0.756754 22.2966 0.964691C14.1319 2.16118 6.67571 7.86752 4.86669 16.0214C3.99657 20.0369 3.90371 24.4888 4.06535 28.5726C4.29578 34.4289 4.34049 40.275 4.877 46.1075C5.24791 49.9817 5.89495 53.8251 6.81328 57.6088C8.53288 64.5968 15.4938 70.4122 22.3138 72.7848C29.6155 75.259 37.468 75.6697 44.9919 73.971C45.8196 73.7801 46.6381 73.5586 47.4475 73.3063C49.2737 72.7302 51.4164 72.086 52.9915 70.9542C53.0131 70.9384 53.0308 70.9178 53.0433 70.8942C53.0558 70.8706 53.0628 70.8445 53.0637 70.8179V65.1661C53.0634 65.1412 53.0574 65.1167 53.0462 65.0944C53.035 65.0721 53.0189 65.0525 52.9992 65.0371C52.9794 65.0218 52.9564 65.011 52.9318 65.0056C52.9073 65.0002 52.8819 65.0003 52.8574 65.0059C48.0369 66.1472 43.0971 66.7193 38.141 66.7103C29.6118 66.7103 27.3178 62.6981 26.6609 61.0278C26.1329 59.5842 25.7976 58.0784 25.6636 56.5486C25.6622 56.5229 25.667 56.4973 25.6775 56.4738C25.688 56.4502 25.7039 56.4295 25.724 56.4132C25.7441 56.397 25.7678 56.3856 25.7931 56.3801C25.8185 56.3746 25.8448 56.3751 25.8699 56.3816C30.6101 57.5151 35.4693 58.0873 40.3455 58.086C41.5183 58.086 42.6876 58.086 43.8604 58.0553C48.7647 57.919 53.9339 57.6701 58.7591 56.7361C58.8794 56.7123 58.9998 56.6918 59.103 56.6611C66.7139 55.2124 73.9569 50.665 74.6929 39.1501C74.7204 38.6967 74.7892 34.4016 74.7892 33.9312C74.7926 32.3325 75.3085 22.5901 74.7135 16.6043ZM62.9996 45.3371H54.9966V25.9069C54.9966 21.8163 53.277 19.7302 49.7793 19.7302C45.9343 19.7302 44.0083 22.1981 44.0083 27.0727V37.7082H36.0534V27.0727C36.0534 22.1981 34.124 19.7302 30.279 19.7302C26.8019 19.7302 25.0651 21.8163 25.0617 25.9069V45.3371H17.0656V25.3172C17.0656 21.2266 18.1191 17.9769 20.2262 15.568C22.3998 13.1648 25.2509 11.9308 28.7898 11.9308C32.8859 11.9308 35.9812 13.492 38.0447 16.6111L40.036 19.9245L42.0308 16.6111C44.0943 13.492 47.1896 11.9308 51.2788 11.9308C54.8143 11.9308 57.6654 13.1648 59.8459 15.568C61.9529 17.9746 63.0065 21.2243 63.0065 25.3172L62.9996 45.3371Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @LeafyEricScott@fosstodon.org</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://fosstodon.org/" async src="https://fosstodon.org/embed.js"></script>
-
-<blockquote class="mastodon-embed" data-embed-url="https://scholar.social/@wviechtb/114595996944370111/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://scholar.social/@wviechtb/114595996944370111" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M74.7135 16.6043C73.6199 8.54587 66.5351 2.19527 58.1366 0.964691C56.7196 0.756754 51.351 0 38.9148 0H38.822C26.3824 0 23.7135 0.756754 22.2966 0.964691C14.1319 2.16118 6.67571 7.86752 4.86669 16.0214C3.99657 20.0369 3.90371 24.4888 4.06535 28.5726C4.29578 34.4289 4.34049 40.275 4.877 46.1075C5.24791 49.9817 5.89495 53.8251 6.81328 57.6088C8.53288 64.5968 15.4938 70.4122 22.3138 72.7848C29.6155 75.259 37.468 75.6697 44.9919 73.971C45.8196 73.7801 46.6381 73.5586 47.4475 73.3063C49.2737 72.7302 51.4164 72.086 52.9915 70.9542C53.0131 70.9384 53.0308 70.9178 53.0433 70.8942C53.0558 70.8706 53.0628 70.8445 53.0637 70.8179V65.1661C53.0634 65.1412 53.0574 65.1167 53.0462 65.0944C53.035 65.0721 53.0189 65.0525 52.9992 65.0371C52.9794 65.0218 52.9564 65.011 52.9318 65.0056C52.9073 65.0002 52.8819 65.0003 52.8574 65.0059C48.0369 66.1472 43.0971 66.7193 38.141 66.7103C29.6118 66.7103 27.3178 62.6981 26.6609 61.0278C26.1329 59.5842 25.7976 58.0784 25.6636 56.5486C25.6622 56.5229 25.667 56.4973 25.6775 56.4738C25.688 56.4502 25.7039 56.4295 25.724 56.4132C25.7441 56.397 25.7678 56.3856 25.7931 56.3801C25.8185 56.3746 25.8448 56.3751 25.8699 56.3816C30.6101 57.5151 35.4693 58.0873 40.3455 58.086C41.5183 58.086 42.6876 58.086 43.8604 58.0553C48.7647 57.919 53.9339 57.6701 58.7591 56.7361C58.8794 56.7123 58.9998 56.6918 59.103 56.6611C66.7139 55.2124 73.9569 50.665 74.6929 39.1501C74.7204 38.6967 74.7892 34.4016 74.7892 33.9312C74.7926 32.3325 75.3085 22.5901 74.7135 16.6043ZM62.9996 45.3371H54.9966V25.9069C54.9966 21.8163 53.277 19.7302 49.7793 19.7302C45.9343 19.7302 44.0083 22.1981 44.0083 27.0727V37.7082H36.0534V27.0727C36.0534 22.1981 34.124 19.7302 30.279 19.7302C26.8019 19.7302 25.0651 21.8163 25.0617 25.9069V45.3371H17.0656V25.3172C17.0656 21.2266 18.1191 17.9769 20.2262 15.568C22.3998 13.1648 25.2509 11.9308 28.7898 11.9308C32.8859 11.9308 35.9812 13.492 38.0447 16.6111L40.036 19.9245L42.0308 16.6111C44.0943 13.492 47.1896 11.9308 51.2788 11.9308C54.8143 11.9308 57.6654 13.1648 59.8459 15.568C61.9529 17.9746 63.0065 21.2243 63.0065 25.3172L62.9996 45.3371Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @wviechtb@scholar.social</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://scholar.social/" async src="https://scholar.social/embed.js"></script>
-
-<blockquote class="mastodon-embed" data-embed-url="https://mastodon.social/@drmorrisj/114592356980810497/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://mastodon.social/@drmorrisj/114592356980810497" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @drmorrisj@mastodon.social</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://mastodon.social/" async src="https://mastodon.social/embed.js"></script>
