@@ -30,7 +30,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Academia
 
-
++ [How to think about scientism](https://open.substack.com/pub/wyclif/p/a-way-to-think-about-scientism)
 
 ### Resources
 
