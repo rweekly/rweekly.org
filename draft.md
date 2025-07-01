@@ -26,7 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
-
++ [Charting 'tidycensus' data with R](https://waterdata.usgs.gov/blog/tidycensus-viz/)
 
 ### R in Academia
 
