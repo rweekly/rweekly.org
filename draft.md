@@ -61,6 +61,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
++ [The Test Set: A Posit video podcast series for data science](https://posit.co/thetestset/)
 
 
 ### Gist & Cookbook
