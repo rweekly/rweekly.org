@@ -14,7 +14,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-
++ [Positron Assistant: GitHub Copilot and Claude-Powered Agentic Coding in R](https://blog.stephenturner.us/p/positron-assistant-copilot-chat-agent)
 
 ### Insights
 
@@ -86,6 +86,8 @@ in R
 + [Building Trust with Code: Validating Shiny Apps in Regulated Environments](https://www.jumpingrivers.com/blog/validating-shiny-apps-in-regulated-environments/)
 
 ### Tutorials
+
++ [Tidy RAG in R with ragnar](https://blog.stephenturner.us/p/tidy-rag-in-r-with-ragnar)
 
 + [Specialized R packages for spatial machine learning: An introduction to RandomForestsGLS, spatialRF, and meteo](https://geocompx.org/post/2025/sml-bp5/)
 
