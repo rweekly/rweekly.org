@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2025-W00
+title: R Weekly 2025-W29
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -18,23 +18,23 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-+ [You can outsource the grunt work to an LLM, not expertise](https://b-rodrigues.github.io/posts/2025-07-03-llm_time.html)
 
-+ [R Package Quality: Documentation](https://www.jumpingrivers.com/blog/r-validation-documentation-litmus/)
-
-+ [Open Science with a Latin American Identity: Meet the New Cohort of the rOpenSci Champions Program](https://ropensci.org/blog/2025/07/03/champions-2025/)
-
-+ [May 2025 Top 40 New CRAN Packages](https://rworks.dev/posts/may-2025-top-40-new-cran-packages/)
 
 ### R in the Real World
 
-+ [Dive()ing into the hunt #rstats](https://milesmcbain.micro.blog/2025/07/04/diveing-into-the-hunt-rstats.html)
 
-+ [Forecasting the UEFA Women's Euro 2025 with enhanced statistical learning](https://www.zeileis.org/news/weuro2025/)
 
 ### R in Organizations
 
-+ [Charting 'tidycensus' data with R](https://waterdata.usgs.gov/blog/tidycensus-viz/)
+
+
+### R in Academia
+
+
+
+### Resources
+
+
 
 ### New Packages
 
@@ -44,66 +44,44 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-+ [{fishboot} 1.0.2](https://cran.r-project.org/package=fishboot): Bootstrap-Based Methods for the Study of Fish Stocks and Aquatic
-Populations
-+ [{unifyR} 1.0.0](https://cran.r-project.org/package=unifyR): Unified Scores, Reliabilities and Validities from Multiple Tests
-+ [{rcrisp} 0.1.4](https://cran.r-project.org/package=rcrisp): Automate the Delineation of Urban River Spaces
-+ [{r4pde} 0.1.0](https://cran.r-project.org/package=r4pde): Companion to R for Plant Disease Epidemiology Book
-+ [{ecoteach} 0.1.0](https://cran.r-project.org/package=ecoteach): Educational Datasets for Ecology and Agriculture
-+ [{tabr} 0.5.3](https://cran.r-project.org/package=tabr): Music Notation Syntax, Manipulation, Analysis and Transcription
-in R
+
+
+**Bioconductor**
+
+
 
 **GitHub or Bitbucket**
 
-+ [{zap}](https://github.com/coolbutuseless/zap): Fast object serialization with high compression
+
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [RcppArmadillo 14.6.0-1 on CRAN: New Upstream Minor Release](http://dirk.eddelbuettel.com/blog/2025/07/02#rcpparmadillo_14.6.0-1)
-+ [Rcpp 1.1.0 on CRAN: C++11 now Minimum, Regular Semi-Annual Update](http://dirk.eddelbuettel.com/blog/2025/07/02#rcpp_1.1.0)
-+ [{rcrisp} 0.1.4](https://cran.r-project.org/package=rcrisp): Automate the Delineation of Urban River Spaces - [diffify](https://diffify.com/R/rcrisp)
-+ [{pillar} 1.11.0](https://cran.r-project.org/package=pillar): Coloured Formatting for Columns - [diffify](https://diffify.com/R/pillar)
-+ [{ggpedigree} 0.8.0](https://cran.r-project.org/package=ggpedigree): Visualizing Pedigrees with 'ggplot2' and 'plotly' - [diffify](https://diffify.com/R/ggpedigree)
-+ [{openxlsx2} 1.17](https://cran.r-project.org/package=openxlsx2): Read, Write and Edit 'xlsx' Files - [diffify](https://diffify.com/R/openxlsx2)
-+ [{gtsummary} 2.3.0](https://cran.r-project.org/package=gtsummary): Presentation-Ready Data Summary and Analytic Result Tables - [diffify](https://diffify.com/R/gtsummary)
-+ [{tinytable} 0.10.0](https://cran.r-project.org/package=tinytable): Simple and Configurable Tables in 'HTML', 'LaTeX', 'Markdown',
-'Word', 'PNG', 'PDF', and 'Typst' Formats - [diffify](https://diffify.com/R/tinytable)
-+ [{shiny} 1.11.1](https://cran.r-project.org/package=shiny): Web Application Framework for R - [diffify](https://diffify.com/R/shiny)
-+ [{tidyplots} 0.3.1](https://cran.r-project.org/package=tidyplots): Tidy Plots for Scientific Papers - [diffify](https://diffify.com/R/tidyplots)
-+ [{ggsurveillance} 0.5.1](https://cran.r-project.org/package=ggsurveillance): Tools for Outbreak Investigation/Infectious Disease Surveillance - [diffify](https://diffify.com/R/ggsurveillance)
-+ [{wordmap} 0.9.4](https://cran.r-project.org/package=wordmap): Feature Extraction and Document Classification with Noisy Labels - [diffify](https://diffify.com/R/wordmap)
-
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
-+ [The Test Set: A Posit video podcast series for data science](https://posit.co/thetestset/)
-+ [Scaling the r-spatial ecosystem for the modern composable data pipeline](https://www.youtube.com/watch?v=tjNEoIYr_ag)
 
-### Shiny Apps
 
-+ [Building Trust with Code: Validating Shiny Apps in Regulated Environments](https://www.jumpingrivers.com/blog/validating-shiny-apps-in-regulated-environments/)
+### Gist & Cookbook
 
-### Tutorials
 
 + [Tidy RAG in R with ragnar](https://blog.stephenturner.us/p/tidy-rag-in-r-with-ragnar)
 
 + [Specialized R packages for spatial machine learning: An introduction to RandomForestsGLS, spatialRF, and meteo](https://geocompx.org/post/2025/sml-bp5/)
 
-+ [Generating quarto syntax within R](https://blog.djnavarro.net/posts/2025-07-05_quarto-syntax-from-r/)
 
-+ [An Introduction to Behavior-Driven Development in R](https://www.jakubsobolewski.com/blog/intro-to-bdd-in-r/)
+### Shiny Apps
 
-+ [3MW (Writing SQL in R Efficiently)](https://3mw.albert-rapp.de/p/writing-sql-in-r-efficiently)
 
-+ [Decoding OAuth2 M2M with httr2: Client Setup & API Testing](https://drmowinckels.io/blog/2025/httr2_client/)
 
-+ [Predicting Gold Prices: Backtesting of ML Models](https://datageeek.com/2025/06/30/predicting-gold-prices-insights-from-ml-models/)
+### R Internationally
 
-+ [Counting Digits Quickly](https://jcarroll.com.au/2025/06/29/counting-digits-quickly/)
 
-+ [New release of mapsf: version 1.0.0](https://rcarto.github.io/posts/mapsf_v1.0.0/)
+
+### Tutorials
+
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -124,8 +102,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
-
-+ [latent: R package for the efficient estimation of large latent variable models](https://r-posts.com/latent-r-package-for-the-efficient-estimation-of-large-latent-variable-models/)
 
 ### Grants & Funding
 
