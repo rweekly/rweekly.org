@@ -68,8 +68,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Tidy RAG in R with ragnar](https://blog.stephenturner.us/p/tidy-rag-in-r-with-ragnar)
 
-+ [Specialized R packages for spatial machine learning: An introduction to RandomForestsGLS, spatialRF, and meteo](https://geocompx.org/post/2025/sml-bp5/)
-
 
 ### Shiny Apps
 
