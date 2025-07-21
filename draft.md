@@ -78,6 +78,8 @@ Transmission - [diffify](https://diffify.com/R/superspreading)
 
 + [{maestro} 0.6.1](https://cran.r-project.org/package=maestro): Orchestration of Data Pipelines - [diffify](https://diffify.com/R/maestro)
 
++ [{polars} 1.0.0](https://github.com/pola-rs/r-polars/): R Bindings for the 'polars' Rust Library
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
