@@ -18,11 +18,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Turn your hex stickers into magnets](https://kbodwin.github.io/paRticles/posts/2025-07-21-hex_stickers/)
 
 ### R in the Real World
 
-+ [Turn your hex stickers into magnets](https://kbodwin.github.io/paRticles/posts/2025-07-21-hex_stickers/)
+
 
 ### R in Organizations
 
