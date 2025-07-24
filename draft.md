@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [Turn your hex stickers into magnets](https://kbodwin.github.io/paRticles/posts/2025-07-21-hex_stickers/)
 
 ### R in Organizations
 
@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [USCOTS Workshop Materials: Teaching Intermediate R](https://atheobold.github.io/uscots-intermediate-r/)
 
 ### New Packages
 
@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++[Speed Testing Code: Three Levels](https://kbodwin.github.io/paRticles/posts/2025-07-23-speed_test/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
