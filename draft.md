@@ -5,19 +5,22 @@ description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
 
-
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
 This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@jonocarroll), with help from the RWeekly team members and contributors.
 
 ### Highlight
 
++ [Let’s talk about NA-s!](https://www.biobits.be/biofunctor/2025/07/23/lets-talk-about-nas/)
+
++ [Copy the Pros: How to Recreate this NYTimes Chart in R](https://www.youtube.com/watch?v=HDCJIkY2ihI)
+
++ [Speed Testing Code: Three Levels](https://kbodwin.github.io/paRticles/posts/2025-07-23-speed_test/)
 
 
 ### Insights
 
 + [Turn your hex stickers into magnets](https://kbodwin.github.io/paRticles/posts/2025-07-21-hex_stickers/)
-
 + [rOpenSci News Digest, July 2025](https://ropensci.org/blog/2025/07/23/news-july-2025/)
 + [R and the Model Context Protocol](https://www.tidyverse.org/blog/2025/07/mcptools-0-1-0/)
 + [Trend-Anomaly Analysis of U.S. Federal Budget Balance](https://datageeek.com/2025/07/22/trend-anomaly-analysis-of-u-s-federal-budget-balance/)
@@ -25,13 +28,9 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [Testing your Plumber APIs from R](https://jakubsobolewski.com/blog/plumber-api)
 + [How to convince your boss you should attend posit::conf(2025)](https://posit.co/blog/posit-conf-2025-convince-your-boss/)
 + [Tidyverse with GitHub Copilot for Healthcare Analytics – Part 2](https://rworks.dev/posts/healthcare-part2/)
-
 + [How to open a folder as a Positron project with macOS Quick Actions](https://www.andrewheiss.com/blog/2025/07/22/positron-open-with-finder/)
-
 + [Let’s talk about NA-s!](https://www.biobits.be/biofunctor/2025/07/23/lets-talk-about-nas/)
-
 + [How to Calculate Odds Ratios in R With Examples Using epitools](https://www.spsanderson.com/steveondata/posts/2025-07-21/)
-
 
 ### R in the Real World
 
@@ -64,14 +63,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [{calcal} 1.0.0](https://cran.r-project.org/package=calcal): Calendrical Calculations
 + [{rCoinbase} 1.0.0](https://cran.r-project.org/package=rCoinbase): 'Coinbase Advance Trade API Interface'
 
-**Bioconductor**
-
-
-
-**GitHub or Bitbucket**
-
-
-
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
@@ -80,12 +71,9 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [{tidytext} 0.4.3](https://cran.r-project.org/package=tidytext): Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools - [diffify](https://diffify.com/R/tidytext)
 + [{tidycensus} 1.7.3](https://cran.r-project.org/package=tidycensus): Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames - [diffify](https://diffify.com/R/tidycensus)
 + [{tidyMC} 1.0.1](https://cran.r-project.org/package=tidyMC): Monte Carlo Simulations Made Easy and Tidy - [diffify](https://diffify.com/R/tidyMC)
-
 + [{ellmer} 0.3.0](https://cran.r-project.org/package=ellmer): Chat with Large Language Models - [diffify](https://diffify.com/R/ellmer)
 + [ellmer 0.3.0](https://www.tidyverse.org/blog/2025/07/ellmer-0-3-0/)
-
 + [qlcal 0.0.16 on CRAN: Regular Update](http://dirk.eddelbuettel.com/blog/2025/07/23#qlcal-r_0.0.16)
-
 + [{paws.common} 0.8.5](https://cran.r-project.org/package=paws.common): Paws Low-Level Amazon Web Services API - [diffify](https://diffify.com/R/paws.common)
 + [{spatstat} 3.4-0](https://cran.r-project.org/package=spatstat): Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests - [diffify](https://diffify.com/R/spatstat)
 + [{stablelearner} 0.1-6](https://cran.r-project.org/package=stablelearner): Stability Assessment of Statistical Learning Methods - [diffify](https://diffify.com/R/stablelearner)
@@ -107,18 +95,6 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 + [Copy the Pros: How to Recreate this NYTimes Chart in R](https://www.youtube.com/watch?v=HDCJIkY2ihI)
-
-### Gist & Cookbook
-
-
-
-### Shiny Apps
-
-
-
-### R Internationally
-
-
 
 ### Tutorials
 
@@ -150,17 +126,10 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
 
 ### Connect
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
-
-### rtistry
 
 
 ### Quotes of the Week
