@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+- [💸 R-Consortium ISC Grant Applications Open!📦](https://r-consortium.org/all-projects/callforproposals.html) — funding to build packages and technical infrastructure for the R community
 
 ### R in the Real World
 
