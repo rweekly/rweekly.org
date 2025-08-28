@@ -107,7 +107,7 @@ get_rss_posts <- function(feeds = NULL, since_days_ago = 10) {
 
   message("✅ ", nrow(new_posts), " posts detected!")
   for (i in seq_len(nrow(new_posts))) {
-    message("   ⭐️ ", new_posts[[url_col]])
+    message("   ⭐️ ", new_posts[i, url_col])
   }
   message("\n")
 
