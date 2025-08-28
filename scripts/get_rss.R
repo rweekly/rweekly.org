@@ -17,8 +17,8 @@ get_rss_posts <- function(feeds = NULL, since_days_ago = 10) {
   message("parsing ", feed)
   all_posts <- try(tidyRSS::tidyfeed(feed), silent = TRUE)
   if (inherits(all_posts, "try-error")) {
-    warning("feed reading failed for ", feed)
-    return(NULL)
+    message("⛔️ ", "Feed reading failed for ", feed, "\n")
+    return(invisible(NULL))
   }
   title_col <- if (utils::hasName(all_posts, "item_title")) {
     "item_title"
@@ -42,11 +42,49 @@ get_rss_posts <- function(feeds = NULL, since_days_ago = 10) {
     if (all(is.na(all_posts$inferred_date))) return(NULL)
     "inferred_date"
   }
+  missing_date <- all_posts[is.na(all_posts[[date_col]]), , drop = FALSE]
+  if (nrow(missing_date)) {
+    message(
+      "ℹ️ ",
+      "Not including the following posts with unknown date"
+    )
+    for (i in seq_len(nrow(missing_date))) {
+      message("❌ ", missing_date[i, url_col])
+    }
+    message("\n")
+  }
+  all_posts <- all_posts[!is.na(all_posts[[date_col]]), , drop = FALSE]
+  if (nrow(all_posts) == 0) return(invisible(NULL))
+
   recent <- as.POSIXct(all_posts[[date_col]]) >=
     as.POSIXct(Sys.Date() - since_days_ago)
+  if (length(recent) < nrow(all_posts)) {
+    old_posts <- all_posts[!recent, , drop = FALSE]
+    message(
+      "ℹ️ ",
+      "Not including the following posts older than ",
+      since_days_ago,
+      " days"
+    )
+    for (i in seq_len(nrow(old_posts))) {
+      message("❌ ", old_posts[i, url_col])
+    }
+    message("\n")
+  }
   new_posts <- all_posts[recent, , drop = FALSE]
+  if (nrow(new_posts) == 0) return(invisible(NULL))
+
+  if (any(is.na(new_posts[[url_col]]))) {
+    message("ℹ️ ", "Not including the following posts missing a URL")
+    missing_urls <- new_posts[is.na(new_posts[[url_col]]), , drop = FALSE]
+    for (i in seq_len(nrow(missing_urls))) {
+      message("❌ ", missing_urls[i, title_col])
+    }
+    message("\n")
+  }
   new_posts <- new_posts[!is.na(new_posts[[url_col]]), , drop = FALSE]
-  if (nrow(new_posts) == 0) return(NULL)
+  if (nrow(new_posts) == 0) return(invisible(NULL))
+
   # process atom slugs
   if (
     all(startsWith(new_posts[[url_col]], "/")) &&
@@ -54,6 +92,24 @@ get_rss_posts <- function(feeds = NULL, since_days_ago = 10) {
   ) {
     new_posts[[url_col]] <- paste0(urltools::domain(feed), new_posts[[url_col]])
   }
-  message("*** ", nrow(new_posts), " posts detected!")
+
+  can_reach <- sapply(new_posts[[url_col]], RCurl::url.exists)
+  if (any(!can_reach)) {
+    unreach <- new_posts[!can_reach, , drop = FALSE]
+    message("ℹ️ ", "Not including the following unreachable URLs")
+    for (i in seq_len(nrow(unreach))) {
+      message("❌ ", new_posts[i, url_col])
+    }
+    message("\n")
+  }
+  new_posts <- new_posts[can_reach, , drop = FALSE]
+  if (nrow(new_posts) == 0) return(invisible(NULL))
+
+  message("✅ ", nrow(new_posts), " posts detected!")
+  for (i in seq_len(nrow(new_posts))) {
+    message("   ⭐️ ", new_posts[[url_col]])
+  }
+  message("\n")
+
   glue::glue("+ [{new_posts[[title_col]]}]({new_posts[[url_col]]})")
 }
