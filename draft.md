@@ -14,6 +14,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
++ [Using OpenAI Codex in Positron with a demo on developing an R package using the OpenAI Codex agent](https://blog.stephenturner.us/p/codex-positron)
+
+![codex-positron](https://github.com/user-attachments/assets/907d6fdd-f6df-44dd-b027-8397d671904e)
 
 
 ### Insights
