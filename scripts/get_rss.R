@@ -14,7 +14,7 @@ get_rss_posts <- function(feeds = NULL, since_days_ago = 10) {
 }
 
 .get_rss_post <- function(feed, since_days_ago = 10) {
-  message("parsing ", feed)
+  message("Checking: ", feed)
   all_posts <- try(tidyRSS::tidyfeed(feed), silent = TRUE)
   if (inherits(all_posts, "try-error")) {
     message("⛔️ ", "Feed reading failed for ", feed, "\n")
@@ -58,18 +58,20 @@ get_rss_posts <- function(feeds = NULL, since_days_ago = 10) {
 
   recent <- as.POSIXct(all_posts[[date_col]]) >=
     as.POSIXct(Sys.Date() - since_days_ago)
-  if (length(recent) < nrow(all_posts)) {
-    old_posts <- all_posts[!recent, , drop = FALSE]
+  if (sum(recent, na.rm = TRUE) < nrow(all_posts)) {
+    # old_posts <- all_posts[!recent, , drop = FALSE]
     message(
       "ℹ️ ",
-      "Not including the following posts older than ",
+      "Not including ",
+      nrow(all_posts) - sum(recent, na.rm = TRUE),
+      " posts older than ",
       since_days_ago,
-      " days"
+      " days\n"
     )
-    for (i in seq_len(nrow(old_posts))) {
-      message("❌ ", old_posts[i, url_col])
-    }
-    message("\n")
+    # for (i in seq_len(nrow(old_posts))) {
+    #   message("❌ ", old_posts[i, url_col])
+    # }
+    # message("\n")
   }
   new_posts <- all_posts[recent, , drop = FALSE]
   if (nrow(new_posts) == 0) return(invisible(NULL))
