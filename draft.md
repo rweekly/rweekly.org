@@ -229,6 +229,7 @@ Models - [diffify](https://diffify.com/R/ggPMX)
 + [{feasts} 0.4.2](https://cran.r-project.org/package=feasts): Feature Extraction and Statistics for Time Series - [diffify](https://diffify.com/R/feasts)
 + [{screenshot} 0.9.2](https://cran.r-project.org/package=screenshot): Take Screenshots (Screen Capture) from R Command - [diffify](https://diffify.com/R/screenshot)
 + [{scitb} 0.2.2](https://cran.r-project.org/package=scitb): Provides Some Useful Functions for Making Statistical Tables - [diffify](https://diffify.com/R/scitb)
++ [{gdalraster} 2.2.1](https://cran.r-project.org/package=gdalraster): Bindings to GDAL (Geospatial Data Abstraction Library) - [diffify](https://diffify.com/R/gdalraster)
 
 ### Videos and Podcasts
 
