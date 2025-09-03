@@ -77,7 +77,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Reproducible Data Science in R: Say the quiet part out loud with assertion tests 💧](https://waterdata.usgs.gov/blog/rds-assertions/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
