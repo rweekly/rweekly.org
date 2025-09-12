@@ -60,6 +60,7 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 + [{dbplyr} 2.5.1](https://cran.r-project.org/package=dbplyr): A 'dplyr' Back End for Databases - [diffify](https://diffify.com/R/dbplyr)
 + [{rix} 0.17.2](https://cran.r-project.org/package=rix): Reproducible Data Science Environments with 'Nix' - [diffify](https://diffify.com/R/rix)
 + [{survivoR} 2.3.7](https://cran.r-project.org/package=survivoR): Data from all Seasons of Survivor (US) TV Series in Tidy Format - [diffify](https://diffify.com/R/survivoR)
++ [{santoku} 1.1.0](https://cran.r-project.org/package=santoku): A Versatile Cutting Tool - [diffify](https://diffify.com/R/santoku)
 
 ### Videos and Podcasts
 
