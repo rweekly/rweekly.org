@@ -45,11 +45,17 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
+**CRAN**
+
 + [{rsamplr} 0.1.1](https://cran.r-project.org/package=rsamplr): Sampling Algorithms and Spatially Balanced Sampling
 + [{ivolcano} 0.0.1](https://cran.r-project.org/package=ivolcano): Interactive Volcano Plot
 + [{workspace} 0.1.5](https://cran.r-project.org/package=workspace): Manage Collections of Datasets and Objects
 + [{GPflexViz} 1.0.0](https://cran.r-project.org/package=GPflexViz): Graphical Visualizations Related to Genomic Prediction
 + [{inshiny} 0.1.0](https://cran.r-project.org/package=inshiny): Compact Inline Widgets for 'shiny' Apps
+
+**GitHub only**
+
++ [{mutagen} 0.1.0](https://github.com/gvelasq/mutagen): Extensions to dplyr's mutate
 
 ### Updated Packages
 
