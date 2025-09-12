@@ -90,7 +90,7 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:dipimkebgc3f4w6skpb553jk/app.bsky.feed.post/3lylonrk6fs2f" data-bluesky-cid="bafyreigvuns5bujvnxhynzf7fjv3oeceoiecbls6vlrvlk2llftb7oelom" data-bluesky-embed-color-mode="system"><p lang="en">🚀 The R Consortium Technical Grants Call for Proposals is open until Oct 1, 2025!
 </script>
 
-+ [Posit 2025 Table Contest](https://posit.co/blog/announcing-the-2025-table-and-plotnine-contests/)
++ [Posit 2025 Table Contest](https://posit.co/blog/announcing-the-2025-table-and-plotnine-contests/) 
 
 ### Upcoming Events in 3 Months
 
