@@ -55,11 +55,17 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+**CRAN**
+
 + [{ggstatsplot} 0.13.2](https://cran.r-project.org/package=ggstatsplot): 'ggplot2' Based Plots with Statistical Details - [diffify](https://diffify.com/R/ggstatsplot)
 + [{purrrlyr} 0.0.10](https://cran.r-project.org/package=purrrlyr): Tools at the Intersection of 'purrr' and 'dplyr' - [diffify](https://diffify.com/R/purrrlyr)
 + [{dbplyr} 2.5.1](https://cran.r-project.org/package=dbplyr): A 'dplyr' Back End for Databases - [diffify](https://diffify.com/R/dbplyr)
 + [{rix} 0.17.2](https://cran.r-project.org/package=rix): Reproducible Data Science Environments with 'Nix' - [diffify](https://diffify.com/R/rix)
 + [{survivoR} 2.3.7](https://cran.r-project.org/package=survivoR): Data from all Seasons of Survivor (US) TV Series in Tidy Format - [diffify](https://diffify.com/R/survivoR)
+
+**GitHub only**
+
++ [{tomorrow-night-bright-r-classic} 0.1.3](https://github.com/gvelasq/tomorrow-night-bright-r-classic): A Tomorrow Night Bright theme for Positron IDE and VS Code, inspired by RStudio IDE
 
 ### Videos and Podcasts
 
