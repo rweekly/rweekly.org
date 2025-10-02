@@ -34,7 +34,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
++ [Voice control ggplot2 with ggbot2](https://blog.stephenturner.us/p/voice-control-ggplot2-with-ggbot2)
++ [Construct objects with idiomatic R code](https://blog.stephenturner.us/p/construct-objects-with-idiomatic-r-code)
 
 ### Resources
 
