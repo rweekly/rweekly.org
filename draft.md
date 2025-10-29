@@ -14,7 +14,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-
++ [Of course, someone has to write imperative code to build reproducible data science pipelines. It doesn’t have to be you.](https://brodrigues.co/posts/2025-10-29-imperative-vs-function.html)
 
 ### Insights
 
