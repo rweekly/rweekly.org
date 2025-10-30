@@ -56,7 +56,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-
++ [{Rmlx} 0.1.0](https://github.com/hughjonesd/Rmlx) - R interface to Apple's mlx library for array-based computing on Apple GPUs
 
 ### Updated Packages
 
