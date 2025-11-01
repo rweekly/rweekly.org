@@ -62,6 +62,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+**CRAN**
+
+**Bioconductor**
+
+**GitHub or Bitbucket**
+
++ [{mutagen} 0.2.0](https://github.com/gvelasq/mutagen): Extensions to dplyr's mutate
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
