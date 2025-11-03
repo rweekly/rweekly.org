@@ -58,17 +58,13 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{Rmlx} 0.1.0](https://github.com/hughjonesd/Rmlx) - R interface to Apple's mlx library for array-based computing on Apple GPUs
 
++ [{mutagen} 0.2.0](https://github.com/gvelasq/mutagen): Extensions to dplyr's mutate
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-**CRAN**
 
-**Bioconductor**
-
-**GitHub or Bitbucket**
-
-+ [{mutagen} 0.2.0](https://github.com/gvelasq/mutagen): Extensions to dplyr's mutate
 
 ### Videos and Podcasts
 
