@@ -59,11 +59,17 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
+**CRAN**
+
 + [{torch} 0.16.3](https://cran.r-project.org/package=torch): Tensors and Neural Networks with 'GPU' Acceleration - [diffify](https://diffify.com/R/torch)
 + [{torchvision} 0.8.0](https://cran.r-project.org/package=torchvision): Models, Datasets and Transformations for Images - [diffify](https://diffify.com/R/torchvision)
 + [{huxtable} 5.8.0](https://cran.r-project.org/package=huxtable): Easily Create and Style Tables for LaTeX, HTML and Other Formats - [diffify](https://diffify.com/R/huxtable)
 + [{stringr} 1.6.0](https://cran.r-project.org/package=stringr): Simple, Consistent Wrappers for Common String Operations - [diffify](https://diffify.com/R/stringr)
 + [{purrr} 1.2.0](https://cran.r-project.org/package=purrr): Functional Programming Tools - [diffify](https://diffify.com/R/purrr)
+
+**GitHub**
+
++ [{mutagen} 0.3.0](https://github.com/gvelasq/mutagen): Extensions to dplyr's mutate
 
 ### Videos and Podcasts
 
