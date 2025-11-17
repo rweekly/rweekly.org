@@ -85,7 +85,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 - [{RmlxStats}](https://hughjonesd.github.io/RmlxStats) - Statistical modelling front-ends that run on Apple GPU hardware via the Rmlx array library.
 - [side::kick(), a coding agent for RStudio](https://www.simonpcouch.com/blog/2025-11-11-sidekick/)
-
+- [{mutagen} 0.4.0](https://github.com/gvelasq/mutagen): Extensions to dplyr's mutate
 
 
 ### Updated Packages
