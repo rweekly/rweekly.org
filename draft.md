@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-
+- [Python package development for R developers (episode 2 !)](https://yohann-data.fr/posts/pkg_dev_python_episode2/)
 
 ### Resources
 
