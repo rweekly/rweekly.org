@@ -91,6 +91,8 @@ Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
 ### Upcoming Events in 3 Months
 
+* [rainbowR call for abstracts](https://conference.rainbowr.org/abstracts.html) closes December 1st
+
 Events in 3 Months:
 
 + [A list of R conferences and meetings](https://jumpingrivers.github.io/meetingsR/events.html)
