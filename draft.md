@@ -31,8 +31,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Building a Clinical Dashboard Prototype in 2 Days: An AI-Assisted Development Workflow](https://www.appsilon.com/post/building-a-clinical-dashboard-prototype-in-2-days-an-ai-assisted-development-workflow)
 
-+ [How the tables turned](https://www.rostrum.blog/posts/2025-11-30-turn-tables/index.html)
-
 + [Introducing the Posit Connect Gallery: Essential Extensions for Managing Long-Lived Content](https://posit.co/blog/introducing-the-posit-connect-gallery/)
 
 + [Haskell IS a Great Language for Data Science](https://jcarroll.com.au/2025/12/05/haskell-is-a-great-language-for-data-science/)
