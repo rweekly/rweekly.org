@@ -24,7 +24,7 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [Growing an R Community in a Shifting Tech Landscape: The Story of R-Ladies Zurich](https://r-consortium.org/posts/growing-an-r-community-in-a-shifting-tech-landscape-the-story-of-rladies-zurich/)
 
-+ [My year in data visualisation](https://nrennie.rbind.io/blog/year-in-data-viz-2025/)
++ [UMAP in R and python, a rabbit hole](https://amjdomingues.com/posts/2025-11-25-ump-r-python/)
 
 <img width="593" height="595" alt="Screenshot 2025-12-15 at 22 26 37" src="https://github.com/user-attachments/assets/9f1d3ac2-7e88-49de-92c8-3a1d57d50c5a" />
 
