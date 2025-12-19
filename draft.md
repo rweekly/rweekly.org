@@ -89,6 +89,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 + [{charisma} 1.0.0](https://cran.r-project.org/package=charisma): Reproducible Color Characterization of Digital Images for
 Biological Studies
 
++ [{shinyfilters} 0.2.0](https://cran.r-project.org/package=shinyfilters) - Use Shiny Inputs on Vectors, data.frames, or any R Object
+
 
 **GitHub or Bitbucket**
 
