@@ -52,6 +52,10 @@ This week’s release was curated by [Ryo Nakagawara](https://bsky.app/profile/r
 + [{waysign} 0.1.0](https://cran.r-project.org/package=waysign): Multi-Purpose and High-Performance Routing
 + [{insetplot} 1.3.0](https://cran.r-project.org/package=insetplot): Inset Plots for Spatial Data Visualization
 
+**GitHub**
+
++ [{tidytab} 0.3.0](https://github.com/gvelasq/tidytab): Create tidyverse-friendly tables of frequencies
+
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
