@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [From scripts to pipelines in the age of LLMs](https://brodrigues.co/posts/2026-01-13-data_science_llm_age.html)
 
 ### R in the Real World
 
