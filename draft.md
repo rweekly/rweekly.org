@@ -14,7 +14,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Highlight
 
-
++ [A Claude Skill for creating `_brand.yml`, and sharing with Quarto 1.9](https://doi.org/10.59350/f9dyf-zwc64)
+![6ddb5842-5161-4ad3-93e5-59d8f5a86346_961x1441](https://github.com/user-attachments/assets/e1d94c0e-f1ba-4d46-b3bc-421048053805)
 
 ### Insights
 
