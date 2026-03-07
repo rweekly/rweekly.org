@@ -5,8 +5,6 @@
 
 .page,
 .post {
-  margin-bottom: 4em;
-
   li + li {
     margin-top: .7rem;
   }
@@ -66,3 +64,10 @@
   }
 }
 
+#posts-content {
+  border: 1px solid #ccc;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  background: #fcfcfc;
+  margin-bottom: 2rem;
+}

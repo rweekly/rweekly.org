@@ -37,6 +37,10 @@ body.night {
     a:hover, a:focus {
         border-bottom: 1px dotted rgb(103,103,103);
     }
+	#posts-content {
+        border-color: #111;
+		background: #1e1e1e;
+	}
 }
 
 article {

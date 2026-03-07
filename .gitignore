@@ -51,8 +51,12 @@ temp_json
 #.devcontainer
 #.renvignore
 .Rprofile
+.Renviron
 renv/*
 renv.lock
 scripts/img_raw/*
 !scripts/img_raw/.gitkeep
 draft.html
+
+# ignore nix development files
+result
