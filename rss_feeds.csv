@@ -435,7 +435,6 @@
 "https://blog.schochastics.net/index.xml", 1, ""
 "https://ashbaldry.github.io/feed.xml", 1, "@ashbaldry_"
 "https://www.visruth.com/tags/r/index.xml", 1, ""
-"https://ivelasq.rbind.io/til-r.xml",1,""
 "https://jcarroll.xyz/categories/r/feed.xml", 1, ""
 "https://tidyomics.github.io/tidyomicsBlog/index.xml", 1, ""
 "https://www.dull.systems/feed", 1, ""
@@ -451,3 +450,5 @@
 "https://statsandr.com/index.xml",1,"https://x.com/statsandr"
 "https://brendenmsmith.com/rweekly.xml",1,""
 "https://cmmr.github.io/index-r.xml",1,""
+"https://ivelasq.rbind.io/talk.xml",1,""
+"https://ivelasq.rbind.io/til-r.xml",1,""
