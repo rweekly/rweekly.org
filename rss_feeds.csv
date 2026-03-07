@@ -301,7 +301,7 @@
 "https://osm.netlify.app/categories/r/index.xml",1,""
 "https://www.databentobox.com/tags/r/index.xml",1,""
 "https://ildiczeller.com/index.xml",1,""
-"https://ivelasq.rbind.io/categories/r/index.xml",1,""
+"https://ivelasq.rbind.io/index.xml",1,""
 "https://tinyheero.github.io/feed.xml",1,""
 "https://selbydavid.com/index.xml",1,""
 "https://www.tylermw.com/category/r/feed/",1,""
@@ -437,3 +437,4 @@
 "https://blog.schochastics.net/index.xml", 1, ""
 "https://ashbaldry.github.io/feed.xml", 1, "@ashbaldry_"
 "https://www.visruth.com/tags/r/index.xml", 1, ""
+"https://ivelasq.rbind.io/til-r.xml",1,""
