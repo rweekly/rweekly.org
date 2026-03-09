@@ -260,6 +260,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{gRain} 1.4.6](https://cran.r-project.org/package=gRain): Bayesian Networks + [diffify](https://diffify.com/R/gRain)
 + [{factorstochvol} 1.1.1](https://cran.r-project.org/package=factorstochvol): Bayesian Estimation of (Sparse) Latent Factor Stochastic Volatility Models + [diffify](https://diffify.com/R/factorstochvol)
 + [{tracerer} 2.2.4](https://cran.r-project.org/package=tracerer): Tracer from R + [diffify](https://diffify.com/R/tracerer)
++ [{entsoeapi} 0.9.5.1](https://github.com/krose/entsoeapi): R wrapper for ENTSO-E Transparency Platform API — electricity prices, generation, load, cross-border flows
 
 ### Videos and Podcasts
 
