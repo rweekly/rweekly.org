@@ -31,14 +31,12 @@ This week's release was curated by [](), with help from the R Weekly team member
 ### R in Academia
 
 
-
 ### Tutorials
 
 + [DuckDB + dbplyr: When Your Pipeline Gives Different Results Every Time It Runs](https://rtask.thinkr.fr/duckdb-dbplyr-when-your-pipeline-gives-different-results-every-time-it-runs/)
 
 ### Resources
-
-
+* [QuickStats](https://quickstats.tools): WebR-powered browser-based statistical analysis tool.
 
 ### New Packages
 
