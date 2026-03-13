@@ -61,6 +61,8 @@ This week's release was curated by [](), with help from the R Weekly team member
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{qol} 1.2.2](https://cran.r-project.org/package=qol): Powerful 'SAS' Inspired Concepts for more Efficient Bigger Outputs - [diffify](https://diffify.com/R/qol)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
