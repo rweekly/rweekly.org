@@ -27,7 +27,7 @@ List every empty section found. Report: "FAIL: The following sections are empty:
 
 ### Check 3: At least 3 images
 
-Count lines matching the pattern `![...](...)` in the draft body (not the front matter). If fewer than 3, report: "FAIL: Only N image(s) found. At least 3 are required."
+Count lines containing either a Markdown image `![...](...)` or an HTML `<img` tag in the draft body (not the front matter). If fewer than 3, report: "FAIL: Only N image(s) found. At least 3 are required."
 
 If **any check fails**, stop and show all failures. Do not create the post file.
 
@@ -80,7 +80,11 @@ image: https://rweekly.org/public/facebook.png
 
 Use the Write tool to create `_posts/DATE-YEARWEEK.md` with the composed content.
 
-### Step 6: Confirm
+### Step 6: Reset the draft
+
+Read `for-editor-only-draft.txt` and overwrite `draft.md` with its contents exactly as-is.
+
+### Step 7: Confirm
 
 Tell the editor:
 - The filename created
