@@ -41,6 +41,7 @@ This week's release was curated by [Jon Calder](https://bsky.app/profile/jonmcal
 
 ### R in Academia
 
++ [Addressing a Decade-Old 'Continentai Fallacy' in Spatial Econometrics](https://njtalingting.r-universe.dev/articles/ArchipelagoEngine/rtl_impact.html)
 
 
 ### Tutorials
