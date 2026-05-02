@@ -41,6 +41,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Named Entity Recognition in R with reticulate and transformers](https://firsa.eu/posts/ner_reticulate/ner_tutorial_r.html) - A practical tutorial showing how to run named entity recognition in R by connecting to Python models through reticulate.
 
 + [deckroadmap: Give your Reveal.js slides a sense of direction](https://tigertang.org/deckroadmap/)
+  
+<img src="https://tigertang.org/posts/deckroadmap_files/slide_example4.gif" alt="Demonstration of deckroadmap: an automated progress-tracking footer for Reveal.js presentations that highlights the active section in real-time."/>
 
 ### Resources
 
@@ -56,6 +58,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 [{shiny.webawesome} 1.0.0](https://cran.r-project.org/package=shiny.webawesome): A complete and ergonomic interface to the Web Awesome component library for R/Shiny users
 
+[{deckroadmap} 0.1.4](https://cran.r-project.org/package=deckroadmap): Automated Roadmap Footers for Quarto and R Markdown Reveal.js Slides
 
 **Bioconductor**
 
@@ -63,7 +66,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
-+ [{deckroadmap} 0.1.4](https://cran.r-project.org/package=deckroadmap): Automated Roadmap Footers for Quarto and R Markdown Reveal.js Slides
+
 
 **GitHub**
 
