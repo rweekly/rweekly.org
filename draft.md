@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [We're bringing OpenTelemetry to R](https://opensource.posit.co/blog/2026-05-07_opentelemetry/)
 
 ### R in the Real World
 
