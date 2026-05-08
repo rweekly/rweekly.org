@@ -54,7 +54,7 @@ create_text <- function(
 
 search_cran_package_insistently <- purrr::insistently(
   pkgsearch::cran_package,
-  rate = purrr::rate_backoff(pause_base = 1, pause_cap = 5, max_times = 3),
+  rate = purrr::rate_backoff(pause_base = 1, pause_cap = 5, max_times = 5),
   quiet = TRUE
 )
 

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(cat ~/.claude/plugins/*.md)",
+      "WebFetch(domain:github.com)",
+      "Bash(Rscript:*)",
+      "Bash(git push:*)",
+      "Bash(perl -0777 -ne ':*)",
+      "Bash(xxd)",
+      "Bash(git checkout draft.md)"
+    ]
+  }
+}
