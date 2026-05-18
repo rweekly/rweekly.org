@@ -18,6 +18,9 @@ This week's release was curated by [](), with help from the R Weekly team member
 ### R in the Real World
 
 + [Durations of wars by @ellis2013nz](https://freerangestats.info/blog/2026/05/13/war-durations)
++ [Rtomic LLM: Train a JEPA LLM with Chain-of-Thought for ~$0.5](https://github.com/sunbjt/Rtomic)
+
+  [点击观看视频演示](https://github.com/user-attachments/assets/07b9b57f-214c-4263-8d09-c8713b065c6c)
 
 ### R in Organizations
 
