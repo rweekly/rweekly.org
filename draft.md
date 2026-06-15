@@ -356,6 +356,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{simcross} 0.10](https://cran.r-project.org/package=simcross): Simulate Experimental Crosses - [diffify](https://diffify.com/R/simcross)
 + [{qtl2} 0.42](https://cran.r-project.org/package=qtl2): Quantitative Trait Locus Mapping in Experimental Crosses - [diffify](https://diffify.com/R/qtl2)
 + [{broman} 0.94](https://cran.r-project.org/package=broman): Karl Broman's R Code - [diffify](https://diffify.com/R/broman)
++ [{osmdata} 0.4.0](https://cran.r-project.org/package=osmdata): Download OpenStreetMap data - [diffify](https://diffify.com/R/osmdata)
 
 ### Videos and Podcasts
 
