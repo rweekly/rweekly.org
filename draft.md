@@ -55,7 +55,7 @@ This week’s release was curated by [Sam Parmar](https://github.com/parmsam), w
 
 ### Resources
 
-
++ [Spreadsheet with R as a formula language](https://github.com/alekrutkowski/RGrid)
 
 ### New Packages
 
