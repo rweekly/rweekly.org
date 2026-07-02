@@ -47,6 +47,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
+<p class="added-hostname"><a href="https://jeanpauphilet.github.io/msPCA/" target="_blank" class="externalLink"> Introducing msPCA: a new package for sparse PCA with multiple components</a></p>
 
 **Bioconductor**
 
