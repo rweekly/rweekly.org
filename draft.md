@@ -37,7 +37,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [Using OpenStreetMap with R :: CHEATSHEET](https://zenodo.org/records/20842874)
 
 ### New Packages
 
@@ -47,7 +47,10 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-<p class="added-hostname"><a href="https://jeanpauphilet.github.io/msPCA/" target="_blank" class="externalLink"> Introducing msPCA: a new package for sparse PCA with multiple components</a></p>
++ [{msPCA} 0.5.0](https://jeanpauphilet.github.io/msPCA/) Introducing msPCA: a new package for sparse PCA with multiple components
+
++ [{mapsf.gui} 0.1.0](https://CRAN.R-project.org/package=mapsf.gui): Create Thematic Maps Interactively
+
 
 **Bioconductor**
 
