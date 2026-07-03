@@ -39,8 +39,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Using OpenStreetMap with R :: CHEATSHEET](https://zenodo.org/records/20842874)
 
-![Using OpenStreetMap with R cheat sheet](image suggested in PR)
-
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
@@ -50,8 +48,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 
 + [{mapsf.gui} 0.1.0](https://CRAN.R-project.org/package=mapsf.gui): Create Thematic Maps Interactively
-
-![Screenshot of the mapsf.gui shiny app](image file suggested in PR)
 
 **Bioconductor**
 
