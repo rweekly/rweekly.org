@@ -34,6 +34,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
++ [Run gtsummary in your browser — an editable webR demo](https://rverseanalytics.com/gtsummary-live-demo)
+
 
 
 ### New Packages
@@ -67,6 +69,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Shiny Apps
+
++ [Interactive Table 1 explorer with gtsummary, running in the browser via Shinylive](https://rverseanalytics.com/demos)
 
 
 
