@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
++ [Turn new data into Quarto reports automatically](https://blog.stephenturner.us/p/turn-new-data-into-quarto-reports-automatically)
 
 ### R in the Real World
 
