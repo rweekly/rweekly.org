@@ -60,6 +60,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{ihsMW} 1.1.1](https://cran.r-project.org/package=ihsMW): Clean and Harmonise 'Malawi Integrated Household Survey' Data - [diffify](https://diffify.com/R/ihsMW)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
