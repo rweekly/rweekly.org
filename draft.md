@@ -54,6 +54,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket or GitLab**
 
++ [dual: A cross-platform project manager for R and Python](https://github.com/JustSplash8501/dual) - Manage runtimes, dependencies, lockfiles, and reproducible tasks for R, Python, or mixed-language scientific projects.
+
 
 
 ### Updated Packages
