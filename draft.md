@@ -34,7 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
-- [How to analyze S&P 500 stock return data with sparse PCA](https://jeanpauphilet.github.io/msPCA/articles/sp500.html) — A worked case study showing how to use the package `msPCA` to compute interpretable sparse principal components of S&P 500 return data.
+- [How to analyze S&P 500 stock return data with sparse PCA](https://jeanpauphilet.github.io/msPCA/articles/case-study-snp500.html) — A worked case study showing how to use the package `msPCA` to compute interpretable sparse principal components of S&P 500 return data.
 
 ### Resources
 
