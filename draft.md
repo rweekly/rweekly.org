@@ -47,7 +47,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
-[{fru} 1.0.0](https://cran.r-project.org/package=fru): A Blazing Fast Implementation of Random Forest
++ [{fru} 1.0.0](https://cran.r-project.org/package=fru): A Blazing Fast Implementation of Random Forest
 
 **Bioconductor**
 
