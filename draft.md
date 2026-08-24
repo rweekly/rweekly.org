@@ -54,6 +54,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket or GitLab**
 
++ [{permittimelines}](https://github.com/asafichaki/permittimelines): Garage-conversion and ADU building-permit timeline data for Los Angeles, San Diego, San Francisco, and Seattle, prepared from each city's official open-data portal
+
 
 
 ### Updated Packages
