@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [jsslintr: check JSS manuscript style from R (and everywhere else)](https://kollerma.github.io/jss-style-checker/blog/)
 
 
 ### R in the Real World
