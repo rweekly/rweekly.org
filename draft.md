@@ -37,7 +37,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [Trusted Mini-Agents: Engineering AI Errors Out of Agentic Workflows](https://trustedminiagents.dev/): a free online guide to least-privilege agents that structurally eliminate AI errors from high-stakes results. Examples showcase `ellmer` and `shinychat`.
 
 ### New Packages
 
