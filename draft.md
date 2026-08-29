@@ -20,6 +20,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [jsslintr: check JSS manuscript style from R (and everywhere else)](https://kollerma.github.io/jss-style-checker/blog/)
 
++ [Jarl 0.6.0: A fast R linter](https://www.etiennebacher.com/posts/2026-08-24-jarl-0.6.0/)
+
 
 ### R in the Real World
 
@@ -55,11 +57,17 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket or GitLab**
 
++ [{permittimelines}](https://github.com/asafichaki/permittimelines): Garage-conversion and ADU building-permit timeline data for Los Angeles, San Diego, San Francisco, and Seattle, prepared from each city's official open-data portal
+
++ [dual: A cross-platform project manager for R and Python](https://github.com/JustSplash8501/dual) - Manage runtimes, dependencies, lockfiles, and reproducible tasks for R, Python, or mixed-language scientific projects.
+
 
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
+
++ [{qol} 1.3.4](https://cran.r-project.org/package=qol): Powerful 'SAS' Inspired Concepts for more Efficient Bigger Outputs + [diffify](https://diffify.com/R/qol)
 
 ### Videos and Podcasts
 

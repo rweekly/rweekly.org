@@ -435,7 +435,7 @@
 "https://www.emilyriederer.com/index-rstats.xml", 1, ""
 "https://blog.schochastics.net/index.xml", 1, ""
 "https://ashbaldry.github.io/feed.xml", 1, "@ashbaldry_"
-"https://www.visruth.com/tags/r/index.xml", 1, ""
+"https://www.visruth.com/tags/R/index.xml", 1, "https://bsky.app/profile/visruth.com"
 "https://opensource.posit.co/languages/r/index.xml", 1, ""
 "https://jcarroll.xyz/categories/r/feed.xml", 1, ""
 "https://tidyomics.github.io/tidyomicsBlog/index.xml", 1, ""
@@ -478,3 +478,4 @@
 "https://yjunechoe.github.io/blog.xml",1,""
 "https://luansheng.github.io/lsblog/r-bloggers.xml",1,""
 "https://xynthiakavelaars.github.io/OpenInferenceLab/posts-r.xml", 1, ""
+"https://bjarkehautop.github.io/Website/blog-r.xml",1,""
