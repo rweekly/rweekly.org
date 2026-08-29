@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Undo for Shiny, and the three problems that make it interesting](https://tenmeh.github.io/posts/2026-08-27-undo-for-shiny/)
+
 + [jsslintr: check JSS manuscript style from R (and everywhere else)](https://kollerma.github.io/jss-style-checker/blog/)
 
 + [Jarl 0.6.0: A fast R linter](https://www.etiennebacher.com/posts/2026-08-24-jarl-0.6.0/)
@@ -50,6 +52,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{rewind} 0.2.0](https://cran.r-project.org/package=rewind): Undo and Redo for 'Shiny' Applications
 
 **Bioconductor**
 
