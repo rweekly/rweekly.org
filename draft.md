@@ -67,9 +67,12 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [A new take on documentation sites for R packages](https://bjarkehautop.github.io/Website/blog/new-take-on-documentation-sites.html)
 
+
 ### Resources
 
 + [Quarto Extension: arXiv with Typst](https://blog.stephenturner.us/p/quarto-extension-arxiv-with-typst)
+
++ [Trusted Mini-Agents: Engineering AI Errors Out of Agentic Workflows](https://trustedminiagents.dev/): a free online guide to least-privilege agents that structurally eliminate AI errors from high-stakes results. Examples showcase `ellmer` and `shinychat`.
 
 ### New Packages
 
