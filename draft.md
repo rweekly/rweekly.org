@@ -47,6 +47,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{ggstratify} 0.0.1](https://cran.r-project.org/package=ggstratify): Fast Stratified Descriptive Figures with a Point-and-Click GUI
 
 **Bioconductor**
 
