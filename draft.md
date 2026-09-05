@@ -13,14 +13,10 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 + [Navigating Challenges in Spatial Machine Learning](https://jakubnowosad.com/posts/2026-09-08-erdkunde/)
 + [ROC, Paper, Scissor, Shoe](https://www.kenkoonwong.com/blog/roc-auc-dca/)
 + [AI Newsletter: You probably don't want to fine-tune](https://opensource.posit.co/blog/2026-09-04_ai-newsletter/)
-
 + [posit::glimpse() Newsletter – September 2026](https://opensource.posit.co/blog/2026-09-02_glimpse-2026-09/)
 + [Tipping-Point Analysis under Multiple Imputation](https://al-garik.github.io/ks-blog/posts/2026-09-04-tipping-points-mar/)
 
-
-
 ### Highlight
-
 
 
 ### Insights
@@ -29,7 +25,7 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 
 ### R in the Real World
 
-+ [R4SUB: turning "are we ready to submit?" into a number](https://medium.com/@edusharktraining/r4sub-turning-are-we-ready-to-submit-into-a-number-b3264b47d9ed): a CRAN-published R ecosystem that scores how ready a clinical data package is to submit, rolling CDISC/Define-XML checks, SDTM-to-ADaM traceability and FMEA risk into a decomposable Submission Confidence Index, calibrated per regulatory authority.
++ [R4SUB: turning "are we ready to submit?" into a number](https://medium.com/@edusharktraining/r4sub-turning-are-we-ready-to-submit-into-a-number-b3264b47d9ed)
 + [Madison bike crashes peak in September](https://haraldkliems.netlify.app/posts/2026-09-05-madison-bike-crashes-peak-in-september/)
 + [An Atlas of Stone](https://01a0621a-6bf2-650c-3e30-ddb6ff50a406.share.connect.posit.cloud/)
 
@@ -63,16 +59,16 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 
 **CRAN**
 
-+ [{ggstratify} 0.0.1](https://cran.r-project.org/package=ggstratify): Fast Stratified Descriptive Figures with a Point-and-Click GUI
-+ [suppr](https://lj-jenkins.github.io/suppr/)
-+ [plotomics](https://www.samuelbharti.com/plotomics/)
-+ [icons](https://pkg.mitchelloharawild.com/icons/)
-+ [FitVerse](https://cran.r-project.org/web/packages/FitVerse/index.html)
-+ [tidygedcom](https://r-computing-lab.github.io/tidygedcom/)
-+ [depictr](https://pablobernabeu.github.io/depictr/)
-+ [statspersist](https://github.com/emre-cebeci/spatpersist)
-+ [metaselection](https://jepusto.github.io/metaselection/)
-+ [biomes](https://azizka.github.io/biomes/)
++ [{ggstratify} 0.0.1](https://cran.r-project.org/web/packages/ggstratify/index.html): Fast Stratified Descriptive Figures with a Point-and-Click GUI
++ [{suppr} 1.0.0](https://cran.r-project.org/web/packages/suppr/index.html): Supplementary Idiomatic Utilities and Extensions
++ [{plotomics} 0.1.0](https://cran.r-project.org/web/packages/plotomics/index.html): High-Performance Bioinformatics Visualizations
++ [{icons} 1.0.0](https://cran.r-project.org/web/packages/icons/index.html): Easily Insert SVG Icons into R Outputs
++ [{FitVerse} 1.0-1](https://cran.r-project.org/web/packages/FitVerse/index.html): Parametric Distribution Fitting and Analysis
++ [{tidygedcom} 0.2.0](https://cran.r-project.org/web/packages/tidygedcom/index.html): Read and Tidy 'GEDCOM' Genealogy Files
++ [{depictr} 0.3.0](https://cran.r-project.org/web/packages/depictr/index.html): A Unified Toolkit for Visualising Statistical Models and Data
++ [{metaselection} 0.3.0](https://cran.r-project.org/web/packages/metaselection/index.html): Meta-Analytic Selection Models for Dependent Effect Sizes
++ [{biomes} 0.9.4](https://cran.r-project.org/web/packages/biomes/index.html): Reproducible Occurrence-to-Biome Classification Using 31 Global Biome Schemes
++ [{STATassist} 1.0.0](https://cran.r-project.org/web/packages/STATassist/index.html): Standardised Statistical Comparison Workflows
 
 **Bioconductor**
 
@@ -86,16 +82,16 @@ This week’s release was curated by [Jonathan Kitt](https://bsky.app/profile/jo
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [vitals 0.4.0](https://opensource.posit.co/blog/2026-09-03_vitals-0-4-0/)
-+ [gaussfacts 0.0.4](http://dirk.eddelbuettel.com/blog/2026/09/01#gaussfacts_0.0.4)
-+ [marginaleffects 1.0.0](https://arelbundock.com/posts/marginaleffects100/index.html)
-+ [ggarrow 0.0.0](https://teunbrand.github.io/teunbrand_blog/posts/2026-09-02-ggarrow-0-2-0/)
-+ [ggcube 0.2.0.9000](https://matthewkling.github.io/ggcube/) 
-+ [biopalette](https://evanbio.github.io/biopalette/)
-+ [tidylearn](https://tidylearn.sheetsolved.com/)
-+ [geobounds](https://dieghernan.github.io/geobounds/)
-+ [insight](https://easystats.github.io/insight/)
-+ [orbital](https://orbital.tidymodels.org/index.html)
++ [{vitals} 0.4.0](https://cran.r-project.org/web/packages/vitals/index.html): Large Language Model Evaluation
++ [{gaussfacts} 0.0.4](https://cran.r-project.org/web/packages/gaussfacts/index.html): The Greatest Mathematician Since Antiquity
++ [{marginaleffects} 1.0.0](https://cran.r-project.org/web/packages/marginaleffects/index.html): Predictions, Comparisons, Slopes, Marginal Means, and Hypothesis Tests
++ [{ggarrow} 0.2.0](https://cran.r-project.org/web/packages/ggarrow/index.html): Arrows for 'ggplot2'
++ [{ggcube} 0.3.0](https://cran.r-project.org/web/packages/ggcube/index.html): 3D Plotting with 'ggplot2'
++ [{biopalette} 0.2.2](https://cran.r-project.org/web/packages/biopalette/index.html): Image-Inspired Color Palettes for Biomedical Visualization
++ [{tidylearn} 0.5.0](https://cran.r-project.org/web/packages/tidylearn/index.html): A Unified Tidy Interface to R's Machine Learning Ecosystem
++ [{geobounds} 1.0.1](https://cran.r-project.org/web/packages/geobounds/index.html): Download Administrative Boundary Data from 'geoBoundaries'
++ [{insight} 1.5.4](https://cran.r-project.org/web/packages/insight/index.html): Easy Access to Model Information for Various Model Objects
++ [{orbital} 0.7.0](https://cran.r-project.org/web/packages/orbital/index.html): Predict with 'tidymodels' Workflows in Databases
 
 ### Videos and Podcasts
 
@@ -146,7 +142,7 @@ Events in 3 Months:
 
 ### Datasets
 
-+ [urbsdata](https://github.com/mariocools/urbstatdata)
++ [urbsdata](https://github.com/mariocools/urbstatdata): seven documented data sets from transport, traffic safety, urban planning, construction and architectural engineering
 
 
 ### Connect
