@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
++ [R4SUB: turning "are we ready to submit?" into a number](https://medium.com/@edusharktraining/r4sub-turning-are-we-ready-to-submit-into-a-number-b3264b47d9ed): a CRAN-published R ecosystem that scores how ready a clinical data package is to submit, rolling CDISC/Define-XML checks, SDTM-to-ADaM traceability and FMEA risk into a decomposable Submission Confidence Index, calibrated per regulatory authority.
 
 ### R in Organizations
 
