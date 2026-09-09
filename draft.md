@@ -34,6 +34,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Prevent accidental many-to-many joins in R with synthetic sports odds](https://github.com/JacobiusMakes/parlayapiR/tree/main/tutorials/quote-joins) - An offline base-R example with explicit comparison keys and duplicate checks.
+
 
 ### Resources
 
