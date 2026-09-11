@@ -34,6 +34,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [TidyStatQuest 03 - A tidyverse companion to the StatQuest series](https://benchmarkdown.netlify.app/posts/2026-09-11-tidystatquest-03/)
+
 
 ### Resources
 
