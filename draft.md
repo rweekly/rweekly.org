@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+* [Let’s find out why* social liberals have fewer children](https://wyclif.substack.com/p/lets-find-out-why-social-liberals)
 
 ### R in Organizations
 
@@ -34,7 +34,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+
 + [Prevent accidental many-to-many joins in R with synthetic sports odds](https://github.com/JacobiusMakes/parlayapiR/tree/main/tutorials/quote-joins) - An offline base-R example with explicit comparison keys and duplicate checks.
+
++ [TidyStatQuest 03 - A tidyverse companion to the StatQuest series](https://benchmarkdown.netlify.app/posts/2026-09-11-tidystatquest-03/)
+
 
 
 ### Resources
