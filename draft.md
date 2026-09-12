@@ -22,7 +22,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
-
+* [Let’s find out why* social liberals have fewer children](https://wyclif.substack.com/p/lets-find-out-why-social-liberals)
 
 ### R in Organizations
 
