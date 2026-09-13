@@ -60,6 +60,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 **CRAN**
 
++ [{foresty} 0.1.0](https://cran.r-project.org/package=foresty): Forest Plots and Subgroup Effects from Fitted Regression Models
 + [{undomanager} 0.1.0](https://cran.r-project.org/package=undomanager): Manage the History of Any Object with Undo/Redo Operations
 + [{r4subpharma} 0.1.0](https://cran.r-project.org/package=r4subpharma): 'pharmaverse' Adapters for R4SUB Submission Readiness Evidence
 + [{mathr} 0.1.3](https://cran.r-project.org/package=mathr): Scientific Computation Using R
