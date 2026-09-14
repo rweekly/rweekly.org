@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2026-W38
+title: R Weekly 2026-W39
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -8,7 +8,8 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@jonocarroll), with help from the R Weekly team members and contributors.
+This week’s release was curated by [](), with help from the R Weekly team members and contributors.
+
 
 
 ### Highlight
@@ -17,20 +18,11 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### Insights
 
-+ [ahead (Time Series Forecasting with uncertainty quantification) gets a lot faster to install: most dependencies are now optional](https://thierrymoudiki.github.io/blog/2026/09/08/r/python/ahead-light)
-+ [Should I Ask for Sponsorship?](https://yihui.org/en/2026/09/sponsorship/)
-+ [A Review of **rmarkdown** Updates from 2024 to 2026](https://yihui.org/en/2026/09/rmarkdown-news/)
-+ [A Review of **knitr** Updates from 2024 to 2026](https://yihui.org/en/2026/09/knitr-news/)
-+ [Positron September Release Highlights](https://opensource.posit.co/blog/2026-09-09_positron-2026-09-release/)
-+ [TidyTuesday 2026/36 ](https://karaman.is/blog/2026/09/tidytuesday-2026-36)
-+ [July 2026 Top 40 New CRAN Packages](https://rworks.dev/posts/july-2026-top-40-new-cran-packages/)
-+ [Slicing in tidyomics](https://tidyomics.github.io/tidyomicsBlog/posts/2026-09-03-slicing-in-tidyomics/)
-+ [Tipping-Point Analysis under Multiple Imputation](https://al-garik.github.io/ks-blog/posts/2026-09-04-tipping-points-mar/)
 
 
 ### R in the Real World
 
-+ [Let’s find out why* social liberals have fewer children](https://wyclif.substack.com/p/lets-find-out-why-social-liberals)
+
 
 ### R in Organizations
 
@@ -39,13 +31,8 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 ### R in Academia
 
 
+
 ### Tutorials
-
-
-+ [Prevent accidental many-to-many joins in R with synthetic sports odds](https://github.com/JacobiusMakes/parlayapiR/tree/main/tutorials/quote-joins) - An offline base-R example with explicit comparison keys and duplicate checks.
-
-+ [TidyStatQuest 03 - A tidyverse companion to the StatQuest series](https://benchmarkdown.netlify.app/posts/2026-09-11-tidystatquest-03/)
-
 
 
 ### Resources
@@ -60,76 +47,18 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 **CRAN**
 
-+ [{foresty} 0.1.0](https://cran.r-project.org/package=foresty): Forest Plots and Subgroup Effects from Fitted Regression Models
-+ [{undomanager} 0.1.0](https://cran.r-project.org/package=undomanager): Manage the History of Any Object with Undo/Redo Operations
-+ [{r4subpharma} 0.1.0](https://cran.r-project.org/package=r4subpharma): 'pharmaverse' Adapters for R4SUB Submission Readiness Evidence
-+ [{mathr} 0.1.3](https://cran.r-project.org/package=mathr): Scientific Computation Using R
-+ [{icebergr} 0.1.0](https://cran.r-project.org/package=icebergr): Read and Write 'Apache Iceberg' Tables
-+ [{AlleloBin} 1.0.0](https://cran.r-project.org/package=AlleloBin): A Shiny Application for Allele Binning in Microsatellite Markers
-+ [{socketR} 1.0.4](https://cran.r-project.org/package=socketR): POSIX Socket Programming for R
-+ [{shinygenui} 0.1.0](https://cran.r-project.org/package=shinygenui): Generative UI for 'shiny'
-+ [{rvisual} 0.1.1](https://cran.r-project.org/package=rvisual): Visual Data Analysis 'RStudio' 'Addin' with AI Copilot
-+ [{ducklake} 0.6.0](https://cran.r-project.org/package=ducklake): Interact with 'DuckLake' from R
-+ [{tidycjk} 0.1.0](https://cran.r-project.org/package=tidycjk): Tidy Tools for Chinese, Japanese and Korean Text
-+ [{catfda} 0.1.0](https://cran.r-project.org/package=catfda): Statistical Analysis for Categorical Functional Data
-+ [{RcppTrust} 0.1.0](https://cran.r-project.org/package=RcppTrust): Thread-Safe C++ Port of the 'trust' Trust Region Optimizer
+
+**Bioconductor**
+
+
+
+**GitHub or Bitbucket or GitLab**
+
 
 
 ### Updated Packages
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
-
-+ [RDieHarder 0.2.8 on CRAN: Minor Maintenance](http://dirk.eddelbuettel.com/blog/2026/09/10#rdieharder_0.2.8)
-+ [RcppXts 0.0.7 on CRAN: Minor Maintenance](http://dirk.eddelbuettel.com/blog/2026/09/09#rcppxts_0.0.7)
-+ [RcppArmadillo 15.6.0-1 on CRAN: New Upstream Minor](http://dirk.eddelbuettel.com/blog/2026/09/08#rcpparmadillo_15.6.0-1)
-+ [RcppFarmHash 0.0.4 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2026/09/06#rcppfarmhash_0.0.4)
-+ [orbital 0.7.0](https://opensource.posit.co/blog/2026-09-09_orbital-0-7-0/)
-+ [sanitizers 0.1.2 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2026/09/12#sanitizers_0.1.2)
-+ [rfoaas 2.4.0 at CRAN: Fully Restored Functionality](http://dirk.eddelbuettel.com/blog/2026/09/05#rfoaas_2.4.0)
-+ [#059: r2u, GitHub Actions, a Tragedy of the Commons, and a Fix](http://dirk.eddelbuettel.com/blog/2026/09/04#059_r2u_gha_tragedy_of_the_commons_a_fix)
-+ [RcppExamples 0.1.11 on CRAN: Very Minor Maintenance](http://dirk.eddelbuettel.com/blog/2026/09/03#rcppexamples_0.1.11)
-+ [RcppClassicExamples 0.1.5 on CRAN: Very Minor Maintenance](http://dirk.eddelbuettel.com/blog/2026/09/02#rcppclassicexamples_0.1.5)
-+ [gaussfacts 0.0.4 on CRAN: New Feature](http://dirk.eddelbuettel.com/blog/2026/09/01#gaussfacts_0.0.4)
-+ [random 0.2.7 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2026/08/30#random_0.2.7)
-+ [corels 0.0.6 on CRAN: Microfix](http://dirk.eddelbuettel.com/blog/2026/08/28#corels_0.0.6)
-+ [RandomWalker: Custom Walks and Double Pendulum Chaos](https://www.spsanderson.com/steveondata/posts/2026-09-08/)
-+ [vitals 0.4.0](https://opensource.posit.co/blog/2026-09-03_vitals-0-4-0/)d
-+ [{tesseract} 5.3.1](https://cran.r-project.org/package=tesseract): Open Source OCR Engine - [diffify](https://diffify.com/R/tesseract)
-+ [{diffobj} 0.3.9](https://cran.r-project.org/package=diffobj): Diffs for R Objects - [diffify](https://diffify.com/R/diffobj)
-+ [{choroplethr} 5.0.2](https://cran.r-project.org/package=choroplethr): Create Color-Coded Choropleth Maps in R - [diffify](https://diffify.com/R/choroplethr)
-+ [{gllvm} 2.0.15](https://cran.r-project.org/package=gllvm): Generalized Linear Latent Variable Models - [diffify](https://diffify.com/R/gllvm)
-+ [{tmbstan} 1.2.1](https://cran.r-project.org/package=tmbstan): MCMC Sampling from 'TMB' Model Object using 'Stan' - [diffify](https://diffify.com/R/tmbstan)
-+ [{wintime} 1.0.0](https://cran.r-project.org/package=wintime): Win Time Methods for Time-to-Event Data in Clinical Trials - [diffify](https://diffify.com/R/wintime)
-+ [{tidytuesdayR} 1.3.3](https://cran.r-project.org/package=tidytuesdayR): Access the Weekly 'TidyTuesday' Project Dataset - [diffify](https://diffify.com/R/tidytuesdayR)
-+ [{glasstabs} 0.4.0](https://cran.r-project.org/package=glasstabs): Animated Glass-Style Tabs and Select Inputs for 'Shiny' - [diffify](https://diffify.com/R/glasstabs)
-+ [{commons} 0.1.0](https://cran.r-project.org/package=commons): AI Agents for Data Analysis - [diffify](https://diffify.com/R/commons)
-+ [{tibblify} 0.4.2](https://cran.r-project.org/package=tibblify): Rectangle Nested Lists - [diffify](https://diffify.com/R/tibblify)
-+ [{rmsfact} 0.0.4](https://cran.r-project.org/package=rmsfact): Amazing Random Facts About the World's Greatest Hacker - [diffify](https://diffify.com/R/rmsfact)
-+ [{simplermarkdown} 0.1.0](https://cran.r-project.org/package=simplermarkdown): Simple Engine for Generating Reports using R - [diffify](https://diffify.com/R/simplermarkdown)
-+ [{nuggets} 2.2.4](https://cran.r-project.org/package=nuggets): Fast and Extensible Pattern Discovery in Tabular Data - [diffify](https://diffify.com/R/nuggets)
-+ [{htmlreportR} 2.0.1](https://cran.r-project.org/package=htmlreportR): 'HTML' Reporting Made Simple(R) - [diffify](https://diffify.com/R/htmlreportR)
-+ [{cooltools} 2.33](https://cran.r-project.org/package=cooltools): Practical Tools for Scientific Computation and Visualisation - [diffify](https://diffify.com/R/cooltools)
-+ [{hdf5r} 1.3.16](https://cran.r-project.org/package=hdf5r): Interface to the 'HDF5' Binary Data Format - [diffify](https://diffify.com/R/hdf5r)
-+ [{grattanInflators} 0.6.0](https://cran.r-project.org/package=grattanInflators): Inflators for Australian Policy Analysis - [diffify](https://diffify.com/R/grattanInflators)
-+ [{crmn} 0.0.22](https://cran.r-project.org/package=crmn): CCMN and Other Normalization Methods for Metabolomics Data - [diffify](https://diffify.com/R/crmn)
-+ [{sf} 1.1-3](https://cran.r-project.org/package=sf): Simple Features for R - [diffify](https://diffify.com/R/sf)
-+ [{ggscribe} 1.0.0](https://cran.r-project.org/package=ggscribe): Publication-Quality 'ggplot2' Annotation - [diffify](https://diffify.com/R/ggscribe)
-+ [{ggRandomForests} 3.5.3](https://cran.r-project.org/package=ggRandomForests): Visually Exploring Random Forests - [diffify](https://diffify.com/R/ggRandomForests)
-+ [{ggformula} 2.0.0](https://cran.r-project.org/package=ggformula): Formula Interface to the Grammar of Graphics - [diffify](https://diffify.com/R/ggformula)
-+ [{ggwidth} 0.2.0](https://cran.r-project.org/package=ggwidth): Publication-Quality 'ggplot2' Geom Width - [diffify](https://diffify.com/R/ggwidth)
-+ [{usethis} 3.2.2](https://cran.r-project.org/package=usethis): Automate Package and Project Setup - [diffify](https://diffify.com/R/usethis)
-+ [{ragnar} 0.3.1](https://cran.r-project.org/package=ragnar): Retrieval-Augmented Generation (RAG) Workflows - [diffify](https://diffify.com/R/ragnar)
-+ [{flextable} 0.10.1](https://cran.r-project.org/package=flextable): Functions for Tabular Reporting - [diffify](https://diffify.com/R/flextable)
-+ [{datawizard} 1.4.0](https://cran.r-project.org/package=datawizard): Easy Data Wrangling and Statistical Transformations - [diffify](https://diffify.com/R/datawizard)
-+ [{HAPTRACE} 0.1.2](https://cran.r-project.org/package=HAPTRACE): Haplotype-Based Tracking of Admixed Population for Breed Composition Estimation - [diffify](https://diffify.com/R/HAPTRACE)
-+ [{datarobot} 2.18.9](https://cran.r-project.org/package=datarobot): 'DataRobot' Predictive Modeling API - [diffify](https://diffify.com/R/datarobot)
-+ [{shinyglass} 0.3.0](https://cran.r-project.org/package=shinyglass): Liquid Glass Design Themes for 'shiny' Applications - [diffify](https://diffify.com/R/shinyglass)
-+ [{tidypredict} 1.2.1](https://cran.r-project.org/package=tidypredict): Run Predictions Inside the Database - [diffify](https://diffify.com/R/tidypredict)
-+ [{survival} 3.8-12](https://cran.r-project.org/package=survival): Survival Analysis - [diffify](https://diffify.com/R/survival)
-+ [{R.matlab} 3.8.0](https://cran.r-project.org/package=R.matlab): Read and Write MAT Files and Call MATLAB from Within R - [diffify](https://diffify.com/R/R.matlab)
-+ [{bigalgebra} 3.1.1](https://cran.r-project.org/package=bigalgebra): 'BLAS' and 'LAPACK' Routines for Native R Matrices and 'big.matrix' Objects - [diffify](https://diffify.com/R/bigalgebra)
-+ [{aemo} 0.4.2](https://cran.r-project.org/package=aemo): Download Australian Energy Market Operator Data - [diffify](https://diffify.com/R/aemo)
-+ [{rurl} 3.0.1](https://cran.r-project.org/package=rurl): Parse, Clean, and Normalize URLs - [diffify](https://diffify.com/R/rurl)
 
 ### Videos and Podcasts
 
@@ -146,10 +75,7 @@ This week’s release was curated by [Jonathan Carroll](https://fosstodon.org/@j
 
 ### R Internationally
 
-+ 🇪🇸 [Mapas interactivos con `{mapgl}` para visualizar datos geoespaciales en R](https://bastianolea.rbind.io/blog/mapas_mapgl/)
-+ 🇪🇸 [Tema oscuro morado para RStudio](https://bastianolea.rbind.io/blog/tema_morado/)
-+ 🇪🇸 [¿Cuántos días faltan para el dieciocho?](https://bastianolea.rbind.io/blog/2026-09-01/)
-+ 🇪🇸 [Formatear fechas en español en R](https://bastianolea.rbind.io/blog/2026-09-01b/)
+
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
@@ -169,11 +95,6 @@ Events in 3 Months:
 + [This week's local R-User and applied stats events](https://community.rstudio.com/c/irl)
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
-
-+ [Seats Are Open: The Quarto + Typst Workshop](https://3mw.albert-rapp.de/p/seats-are-open-the-quarto-typst-workshop)
-
-+ [R Consortium Now Accepting Submissions for Technical Grants](https://r-consortium.org/posts/r-consortium-now-accepting-submissions-for-technical-grants/)
-+ [Visualising High-dimensional Data with R workshop](https://r-posts.com/visualising-high-dimensional-data-with-r-workshop/)
 
 ### Grants & Funding
 
