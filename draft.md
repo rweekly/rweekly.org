@@ -37,6 +37,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
++ [coreval: check SDTM, SEND and USDM data against CDISC Open Rules from R, offline](https://hrach-gevorgyan.github.io/coreval/)
+
 
 
 ### New Packages
