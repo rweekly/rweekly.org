@@ -45,6 +45,8 @@ For each **RSS POST**, decide:
 
 For **CRANberries NEW** entries: add under `### New Packages` -> `**CRAN**`.
 For **CRANberries UPDATED** entries: add under `### Updated Packages`.
+RSS posts announcing a package release (e.g. "RcppArmadillo 15.6.0-1 on CRAN") also go under `### Updated Packages`.
+Bioconductor and GitHub packages go under `### New Packages` -> `**Bioconductor**` / `**GitHub or Bitbucket or GitLab**`.
 
 > Do NOT add anything to `### Highlight` — editors vote for that section separately.
 > Do NOT touch `### Quotes of the Week` — it uses raw social-embed HTML, added by hand.
@@ -55,10 +57,10 @@ For **CRANberries UPDATED** entries: add under `### Updated Packages`.
 + [Title](URL)
 ```
 
-For updated packages, preserve the diffify link if present:
+For packages, keep the CRANberries description, and the diffify link for updated packages. Some descriptions wrap onto a second line in `curatinator_latest.md`: join them back into one line.
 
 ```
-+ [{pkgname} version](https://cran.r-project.org/package=pkgname) - [diffify](https://diffify.com/R/pkgname)
++ [{pkgname} version](https://cran.r-project.org/package=pkgname): Description - [diffify](https://diffify.com/R/pkgname)
 ```
 
 Images (optional, editor discretion):
@@ -73,18 +75,21 @@ To inspect a URL's content before classifying it, use any of:
 - **WebFetch tool** — built-in; use it directly.
 - `curl https://r.jina.ai/https://www.example.com` — fallback if WebFetch fails.
 - `curl https://defuddle.md/example.com` — second fallback.
-o- `npx defuddle parse https://www.example.com --markdown` — third fallback if defuddle.md itself is down or rate-limited; runs the same extraction locally with no dependency on the hosted proxy.
+- `npx defuddle parse https://www.example.com --markdown` — third fallback if defuddle.md itself is down or rate-limited; runs the same extraction locally with no dependency on the hosted proxy.
 
 ### Steps
 
 1. **Check open PRs** with `gh pr list --repo rweekly/rweekly.org`. If any are open, tell the user and **wait** for their go-ahead before continuing.
 1. **Collect content** — only if `curatinator_latest.md` is missing or stale (the Saturday GitHub Action normally refreshes it): `Rscript -e 'source("scripts/curatinator.R")'`. This scrapes the network and overwrites the file, so skip it when the file is already current.
+   - Stale = its CRAN packages already appear in the last `_posts/` issue (a recent mtime proves nothing).
+   - Outside the Nix env, first check `Rscript -e 'library(tidyRSS); library(RCurl); library(pkgsearch)'` and that `OPENAI_API_KEY` is set: otherwise the RSS section comes out empty without any error.
 1. **Read** `curatinator_latest.md` (the current `draft.md` is already loaded in Live Context above). Optionally parse it with `Rscript -e 'source("scripts/parse_curinator.R")'` for a tidy view.
-1. **Check duplicates**: `Rscript -e 'source("scripts/find_duplicates.R"); get_dups()'`; skip any flagged URLs.
 1. **Process RSS POSTS**: for each link, classify and add to the correct section in `draft.md`. Skip non-R content.
 1. **Process CRANberries NEW**: add new CRAN packages under `### New Packages` -> `**CRAN**`.
 1. **Process CRANberries UPDATED**: add updated packages under `### Updated Packages`.
+   - For both lists, keep only the most popular packages (about 40 new, 25 updated), ranked by last-week downloads: `curl -s 'https://cranlogs.r-pkg.org/downloads/total/last-week/pkg1,pkg2,...'`.
 1. **Edit `draft.md`** using the Edit tool to insert the new links into the appropriate sections.
+1. **Check duplicates** (after editing, so new links are checked too): `Rscript -e 'source("scripts/find_duplicates.R"); get_dups()'`; remove any flagged URLs.
 1. **Report** a summary:
    - How many RSS posts were added (and to which sections)
    - How many CRAN new/updated packages were added
