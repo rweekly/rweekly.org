@@ -33,7 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
-
+- [Observed power tells you nothing](https://tidyecology.com/posts/observed-power-tells-you-nothing/)
 
 ### Resources
 
