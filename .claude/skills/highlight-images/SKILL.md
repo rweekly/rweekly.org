@@ -1,6 +1,7 @@
 ---
 name: highlight-images
 description: Find, download, resize, and embed images for the three Highlight links in draft.md. Fetches each article, picks a representative image, runs upload_image() to push to the rweekly/image repo, then inserts the image embed below each highlight link in draft.md. Has human-in-the-loop review gates before downloading, before pushing to GitHub, and before editing draft.md.
+disable-model-invocation: true
 allowed-tools: Read, Edit, Bash, WebFetch
 ---
 
@@ -194,7 +195,7 @@ Read back the `### Highlight` section of `draft.md` to confirm all three embeds 
 
 ## Notes
 
-- Highlight links are **copies** — they stay in both `### Highlight` and their original section. Only add image embeds under the `### Highlight` copies.
+- Highlight links are **copies** — they stay in both `### Highlight` and their original section. Image embeds go **only** under the original-section copy — never under the `### Highlight` copy, which stays bare links only.
 - Image filenames: short, lowercase, kebab-case slugs — no dates or issue numbers.
 - `upload_image()` always appends `_600` to the resized output filename.
 - `scripts/img_raw/` is gitignored — safe to use as temporary staging.

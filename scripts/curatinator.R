@@ -119,13 +119,17 @@ process_cranberries <- function(
 
 
 # obtain updated packages
-cb_updated_df <- process_cranberries(
+cb_updated_df <- try(process_cranberries(
   feed_type = "updated",
   start_date = as.Date(Sys.Date() - 6)
-)
+))
+if (inherits(cb_updated_df, c("try-error", "error"))) {
+  cb_updated_df <- data.frame(markdown_string = NA)
+  cb_updated_df$markdown_string <- "\n\n\n# Fetching CRANberries UPDATED FAILED ##\n"
+}
 
 cat(
-  "\n# CRANberries UPDATED: ##\n",
+  "\n\n\n# CRANberries UPDATED: ##\n",
   file = OUTPUT_FILE,
   sep = "\n",
   append = TRUE
@@ -140,13 +144,17 @@ cat(
 )
 
 # obtain new packages
-cb_new_df <- process_cranberries(
+cb_new_df <- try(process_cranberries(
   feed_type = "new",
   start_date = as.Date(Sys.Date() - 6)
-)
+))
+if (inherits(cb_new_df, c("try-error", "error"))) {
+  cb_new_df <- data.frame(markdown_string = NA)
+  cb_new_df$markdown_string <- "\n\n\n# Fetching CRANberries NEW FAILED ##\n"
+}
 
 cat(
-  "\n\n# CRANberries NEW: ##\n\n",
+  "\n\n\n# CRANberries NEW: ##\n\n",
   file = OUTPUT_FILE,
   sep = "\n",
   append = TRUE
@@ -161,4 +169,9 @@ cat("\n\n", file = OUTPUT_FILE, append = TRUE)
 
 collected <- readLines(file(OUTPUT_FILE))
 
-cat(unique(collected), file = OUTPUT_FILE, sep = "\n") # overwrite with de-dup
+cat(
+  collected[collected == "" | !duplicated(collected)],
+  # unique(collected)
+  file = OUTPUT_FILE,
+  sep = "\n"
+) # overwrite with de-dup skipping newlines

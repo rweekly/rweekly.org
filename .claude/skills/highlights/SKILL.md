@@ -2,7 +2,7 @@
 name: highlights
 description: Generate the R Weekly Highlights Poll Slack text. Parses draft.md for all links, presents them for editor selection, then formats two /poll Slack commands (5 items each). Use when an editor wants to create the highlights poll for the #highlights Slack channel.
 disable-model-invocation: true
-allowed-tools: Read, Bash
+allowed-tools: Read, Bash, WebFetch
 ---
 
 # R Weekly Highlights Poll Generator
@@ -58,6 +58,8 @@ Review the list and suggest 10 items that would make strong highlights — prior
 - Notable package releases or updates
 - Community news from rOpenSci, Posit, etc.
 - Anything particularly novel or creative
+
+Before presenting your picks, re-verify each of the 10 by fetching its actual page content — draft.md is expected to already be R-related content, but curation mistakes happen, and a highlight gets far more visibility than a regular draft entry (editor poll → newsletter highlight). If a pick turns out not to be genuinely R-related on inspection, do not silently drop and replace it — tell the editor which item failed verification and why, propose a specific replacement, and let them confirm before it goes into the list you present.
 
 Present your 10 suggested picks clearly (e.g. "My suggested 10: items 3, 7, 12, ...") and ask the editor to confirm or swap any out.
 

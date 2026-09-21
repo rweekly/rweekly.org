@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2026-W00
+title: R Weekly 2026-W40
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -37,9 +37,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-+ [Google Cloud + Shiny Cheatsheet](https://firsa.eu/posts/cheatsheet_shiny/) - A command-line workflow for deploying Shiny apps to Google Cloud.
-
-+ [A new perspective on graphic design](https://s3rdia.github.io/qol_blog/posts/12.%20Graphics/)
 
 
 ### New Packages
