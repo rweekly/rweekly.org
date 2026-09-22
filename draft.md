@@ -37,7 +37,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [{styler} extension for Positron](https://github.com/lorenzwalthert/styler-for-positron)
 
 ### New Packages
 
