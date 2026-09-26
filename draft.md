@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Estimating Cross-Platform Usage Structure from Large-Scale Marginal Distributions and a Small Panel](https://topazape.dev/posts/audience-modeling-cross-media/) - Use a Gaussian copula to combine large-scale marginal usage distributions with dependence estimated from a small joint panel.
+
 * [Snapshotting error messages](https://www.etiennebacher.com/posts/2026-09-22-snapshot-errors/)
 
 ### R in the Real World
