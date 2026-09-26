@@ -71,11 +71,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [FIRSA Dashboard: FinTech in Europe](https://dashboard.firsa.eu/) - An R Shiny app for exploring European FinTech.
 
 ### R Internationally
-
-
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
