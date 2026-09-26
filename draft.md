@@ -18,7 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
-
+* [Snapshotting error messages](https://www.etiennebacher.com/posts/2026-09-22-snapshot-errors/)
 
 ### R in the Real World
 
