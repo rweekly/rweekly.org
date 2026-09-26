@@ -20,6 +20,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Estimating Cross-Platform Usage Structure from Large-Scale Marginal Distributions and a Small Panel](https://topazape.dev/posts/audience-modeling-cross-media/) - Use a Gaussian copula to combine large-scale marginal usage distributions with dependence estimated from a small joint panel.
 
+* [Snapshotting error messages](https://www.etiennebacher.com/posts/2026-09-22-snapshot-errors/)
+
 ### R in the Real World
 
 
@@ -60,6 +62,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{qol} 1.3.5](https://cran.r-project.org/package=qol): Powerful 'SAS' Inspired Concepts for more Efficient Bigger Outputs + [diffify](https://diffify.com/R/qol)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
@@ -71,11 +75,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Shiny Apps
 
-
++ [FIRSA Dashboard: FinTech in Europe](https://dashboard.firsa.eu/) - An R Shiny app for exploring European FinTech.
 
 ### R Internationally
-
-
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
