@@ -183,8 +183,6 @@ Proteomics - [diffify](https://diffify.com/R/ClassDiscovery)
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-### Call for Participation
-
 
 ### Upcoming Events in 3 Months
 
@@ -201,7 +199,7 @@ Events in 3 Months:
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
-### rtistry
-
-
 ### Quotes of the Week
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">George Orwell on political language. <a href="https://t.co/gltKiDcifA">pic.twitter.com/gltKiDcifA</a></p>&mdash; Philosophy Quotes (@philosophors) <a href="https://x.com/philosophors/status/2104148619246903630?ref_src=twsrc%5Etfw">September 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
