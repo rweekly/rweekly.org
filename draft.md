@@ -53,6 +53,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 ### Tutorials
 
++ [From a football results API to a half-time/full-time heatmap in R](https://www.football-charts.com/insights/ht-ft-heatmap-r)
+
 + [Viterbi Decoding for Clinical Response Chains](https://al-garik.github.io/ks-blog/posts/2026-09-21-viterbi/)
 
 <img width="792" height="396" alt="Screenshot 2026-09-28 at 18 41 32" src="https://github.com/user-attachments/assets/d481ac64-de17-46c1-9da5-78374706d3bb" />
