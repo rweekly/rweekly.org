@@ -165,6 +165,8 @@ Data - [diffify](https://diffify.com/R/birp)
 + [{ClassDiscovery} 3.4.11](https://cran.r-project.org/package=ClassDiscovery): Classes and Methods for "Class Discovery" with Microarrays or
 Proteomics - [diffify](https://diffify.com/R/ClassDiscovery)
 
++ [{ggfoundry} 0.4.0](https://cgoo4.github.io/ggfoundry/): Custom Fillable Shapes for ggplot2, with Independent Outline and Fill Colours - This release adds coffee, porridge and autumn symbols, plus faster rendering of repeated shapes
+
 
 ### Videos and Podcasts
 
