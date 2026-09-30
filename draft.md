@@ -80,6 +80,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [{styler} extension for Positron](https://github.com/lorenzwalthert/styler-for-positron)
 
++ [Updated {rcheology} web app: compare base R functions across historical R versions](https://hughjonesd.shinyapps.io/rcheology)
+
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
