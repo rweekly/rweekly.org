@@ -44,6 +44,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [A Four-Day knitr Issue/PR Backlog Sprint](https://yihui.org/en/2026/09/knitr-backlog/)
 
++ [From spreadsheet to gt and back again](https://luisdva.github.io/rstats/roundtrip-spreadsheets/)
+
 
 
 ### R in Organizations
