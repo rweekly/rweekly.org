@@ -87,6 +87,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [Historical R help pages, going back to version 0.1](https://hughjonesd.github.io/r-help/)
 
++ [Updated {rcheology} web app: compare base R functions across historical R versions](https://hughjonesd.shinyapps.io/rcheology)
+
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
