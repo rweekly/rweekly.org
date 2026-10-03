@@ -82,6 +82,8 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 
 + [{styler} extension for Positron](https://github.com/lorenzwalthert/styler-for-positron)
 
++ [Historical R help pages, going back to version 0.1](https://hughjonesd.github.io/r-help/)
+
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
