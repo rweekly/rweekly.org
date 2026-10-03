@@ -61,6 +61,10 @@ Check for duplicate links before publishing:
 Rscript -e 'source("scripts/find_duplicates.R"); get_dups()'
 ```
 
+## Claude Code Skills
+
+Editor workflow skills live in `.claude/skills/`: `/curate`, `/highlights`, `/highlight-images` and `/release`, run in that order each week. See `.claude/skills/README.md` for what each one does, when to run it and what it needs.
+
 ## GitHub Actions
 
 `.github/workflows/actions.yml` — runs `curatinator.R` automatically every Saturday at 09:00 UTC, commits the result to `curatinator_latest.md`.
