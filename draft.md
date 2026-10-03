@@ -81,6 +81,7 @@ This week’s release was curated by [Batool Almarzouq](https://batool-almarzouq
 ### Resources
 
 + [{styler} extension for Positron](https://github.com/lorenzwalthert/styler-for-positron)
++ [No more select and copy! {to_cb}: a helper function to pipe outputs to the clipboard](https://erwinlares.com/posts/2026-10-01-a-clipboard-helper/)
 
 + [Historical R help pages, going back to version 0.1](https://hughjonesd.github.io/r-help/)
 
