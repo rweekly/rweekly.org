@@ -8,7 +8,9 @@
       "Bash(git push:*)",
       "Bash(perl -0777 -ne ':*)",
       "Bash(xxd)",
-      "Bash(git checkout draft.md)"
+      "Bash(git checkout draft.md)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
     ]
   }
 }

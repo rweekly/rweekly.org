@@ -17,6 +17,7 @@ All skills set `disable-model-invocation: true`, so Claude never runs them on it
 | 2     | `/highlights`       | Once the draft is frozen (Sunday) | Picks 10 highlight candidates and outputs two Slack `/poll` commands for `#highlights` |
 | 3     | `/highlight-images` | After the vote, once `### Highlight` is filled | Finds, resizes, and pushes images for the 3 highlights to `rweekly/image`, then embeds them in `draft.md` |
 | 4     | `/release`          | Monday                       | Validates the draft, writes `_posts/DATE-YEARWEEK.md`, and resets `draft.md` for next week |
+| —     | `/reset-draft`      | As needed                    | Resets a stale `draft.md` for the next issue and carries over links added since the last release |
 
 ## Skills
 
@@ -57,6 +58,15 @@ Publishes the issue.
 - Advisory check: duplicate links. You decide whether to keep them.
 - Writes `_posts/YYYY-MM-DD-YYYY-Www.md` with a title summarizing the highlights, then resets `draft.md` from `for-editor-only-draft.txt` with the next week number.
 - Doesn't commit or push. Review the diff and commit yourself.
+
+### `/reset-draft`
+Recovers when `draft.md` still holds an issue that's already published, for example because `/release`'s reset step was skipped.
+- Works out the next issue number from the latest file in `_posts/`.
+- Finds draft links that aren't in the last published post (usually contributor PRs merged since the release) and lists them for you to confirm.
+- Rewrites `draft.md` from `for-editor-only-draft.txt` and puts those links back in their sections. `### Highlight` starts empty.
+- Stops without changes if the draft is already reset. Doesn't commit.
+
+**Needs:** nothing beyond the repo.
 
 ## Adding or editing a skill
 
