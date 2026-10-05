@@ -23,6 +23,8 @@ Links in `draft.md` (and posts) use this format:
 ![Optional image alt text](image-URL)
 ```
 
+Escape any `|` in a link title as `\|`. Kramdown otherwise renders the line as a table.
+
 Sections in the draft: Highlight, Insights, R in the Real World, R in Organizations, R in Academia, Tutorials, Resources, New Packages, Updated Packages, Videos and Podcasts, Gist & Cookbook, Shiny Apps, Upcoming Events. Editors vote for the Highlight section — contributors should not add content there.
 
 When populating the Highlight section, **copy** links from their original sections — do not remove them. A highlight link should appear in both the `### Highlight` section and its original section.

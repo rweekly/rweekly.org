@@ -57,6 +57,8 @@ Bioconductor and GitHub packages go under `### New Packages` -> `**Bioconductor*
 + [Title](URL)
 ```
 
+Escape any `|` in a title as `\|` (e.g. `[Talk \| Speaker \| Series](URL)`). Kramdown otherwise renders the line as a table. YouTube titles often contain pipes.
+
 For packages, keep the CRANberries description, and the diffify link for updated packages. Some descriptions wrap onto a second line in `curatinator_latest.md`: join them back into one line.
 
 ```

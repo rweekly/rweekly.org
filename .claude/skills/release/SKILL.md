@@ -51,7 +51,20 @@ Report any duplicates found as a warning:
 These may be intentional. Remove or keep as appropriate.
 ```
 
-If no duplicates are found, say so and continue. Either way, **wait for the editor to confirm before proceeding to release.**
+If no duplicates are found, say so and continue.
+
+### Check 5: Unescaped pipes in link titles (auto-fix)
+
+Kramdown renders a bare `|` as a table cell divider, so a title like `[Talk | Speaker | Series](URL)` turns into a broken table on the site. YouTube titles often contain pipes.
+
+Find link lines with an unescaped pipe in the title:
+```bash
+grep -nE '^\+ \[[^]]*[^\\]\|' draft.md
+```
+
+Escape each one as `\|` in `draft.md` (e.g. `[Talk \| Speaker \| Series](URL)`), then list the lines you changed. Don't touch pipes inside raw HTML embeds (rtistry, Quotes of the Week).
+
+After all checks, **wait for the editor to confirm before proceeding to release.**
 
 ---
 
