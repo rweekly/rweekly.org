@@ -1,5 +1,5 @@
 ---
-name: highlights
+name: highlights-poll
 description: Generate the R Weekly Highlights Poll Slack text. Parses draft.md for all links, presents them for editor selection, then formats two /poll Slack commands (5 items each). Use when an editor wants to create the highlights poll for the #highlights Slack channel.
 disable-model-invocation: true
 allowed-tools: Read, Bash, WebFetch

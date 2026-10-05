@@ -14,7 +14,7 @@ All skills set `disable-model-invocation: true`, so Claude never runs them on it
 | Order | Command             | When                         | What it does |
 |-------|---------------------|------------------------------|--------------|
 | 1     | `/curate`           | After Saturday's curatinator run | Classifies `curatinator_latest.md` RSS posts and CRANberries packages into `draft.md` sections, then checks for duplicates |
-| 2     | `/highlights`       | Once the draft is frozen (Sunday) | Picks 10 highlight candidates and outputs two Slack `/poll` commands for `#highlights` |
+| 2     | `/highlights-poll`  | Once the draft is frozen (Sunday) | Picks 10 highlight candidates and outputs two Slack `/poll` commands for `#highlights` |
 | 3     | `/highlight-images` | After the vote, once `### Highlight` is filled | Finds, resizes, and pushes images for the 3 highlights to `rweekly/image`, then embeds them in `draft.md` |
 | 4     | `/release`          | Monday                       | Validates the draft, writes `_posts/DATE-YEARWEEK.md`, and resets `draft.md` for next week |
 | —     | `/reset-draft`      | As needed                    | Resets a stale `draft.md` for the next issue and carries over links added since the last release |
@@ -31,7 +31,7 @@ Fills `draft.md` with this week's content.
 
 **Needs:** `gh` CLI, R.
 
-### `/highlights`
+### `/highlights-poll`
 Generates the editor poll.
 - Lists every draft link by section and marks duplicates from recent issues with `[DUP]`.
 - Suggests 10 picks and re-checks that each is actually R-related. Waits for you to confirm.
