@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+[Time Series forecast as a Service: SDK + API](https://github.com/apowerb/th2forecast)
 
 
 ### R in the Real World
