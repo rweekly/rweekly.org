@@ -54,6 +54,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Code, Collaboration, and Community (slides from EARL Conference 2026)](https://nrennie.rbind.io/talks/earl-conference-2026/)
 
++ [emscripten-forge/r-shiny-template](https://github.com/emscripten-forge/r-shiny-template/) - A conda-based alternative to Shinylive for serverless Shiny: resolve the app's R packages for the emscripten-wasm32 platform (an alternative pathway to what webR uses) from the emscripten-forge channel, pack them with lucent-pack, and deploy as a static site (e.g., GitHub Pages). Because the environment is an ordinary conda environment, the same channel can supply Python (numpy, pandas, polars, duckdb) alongside r-reticulate, and native-heavy packages such as r-arrow with full Parquet support are already built for the platform; neither arrow nor reticulate is currently available in webR's package repository
+
 ### New Packages
 
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
