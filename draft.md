@@ -55,6 +55,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket or GitLab**
 
++ [{ggbelarus}](https://github.com/hughjonesd/ggbelarus): A `ggplot2` theme inspired by Belarusian red-and-white cross-stitch, with embroidered borders and cross-stitch points.
+
 
 
 ### Updated Packages
