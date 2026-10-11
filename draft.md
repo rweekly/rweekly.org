@@ -70,6 +70,30 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [myman 0.10.0 on CRAN: Three new waves of posts!](http://dirk.eddelbuettel.com/blog/2026/10/08#myman_0.10.0)
 
++ [{ardea} 0.1.1](https://cran.r-project.org/package=ardea): Infrastructure for Interacting with GPUs
+
++ [{hal} 0.1.4](https://cran.r-project.org/package=hal): Agentic Coding Assistants
+
++ [{dragonfarm} 0.3.3](https://cran.r-project.org/package=dragonfarm): Fine-Tune Small Language Models with LoRA from R
+
++ [{spatialcvR} 0.1.0](https://cran.r-project.org/package=spatialcvR): Spatial Cross-Validation for Machine Learning
+
++ [{delta.sharing} 0.2.1](https://cran.r-project.org/package=delta.sharing): Client for the Delta Sharing Protocol
+
++ [{gtxlsx} 0.4.0](https://cran.r-project.org/package=gtxlsx): Write 'gt' and HTML Tables into 'openxlsx2' Workbooks
+
++ [{rgrind} 0.1.0](https://cran.r-project.org/package=rgrind): Gamified Algorithmic and Data Wrangling Challenges for R
+
++ [{oeis.tools} 0.3.1](https://cran.r-project.org/package=oeis.tools): Access and Visualize Integer Sequences from the OEIS
+
++ [{tidymatrix} 0.1.0](https://cran.r-project.org/package=tidymatrix): Tidyverse-Style Operations on Matrices with Row and Column Metadata
+
++ [{forensicR} 0.0.6](https://cran.r-project.org/package=forensicR): Crime Scene Documentation and Reconstruction Tools
+
++ [{caples} 0.1.0](https://cran.r-project.org/package=caples): Fast, Plain-English Readouts for A/B/n Tests
+
++ [{charr} 0.1.0](https://cran.r-project.org/package=charr): String Processing Reimagined for 'ALTREP' Strings
+
 **GitHub or Bitbucket or GitLab**
 
 + [{ggbelarus}](https://github.com/hughjonesd/ggbelarus): A `ggplot2` theme inspired by Belarusian red-and-white cross-stitch, with embroidered borders and cross-stitch points.
