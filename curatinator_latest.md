@@ -1,9 +1,28 @@
 # RSS POSTS: ##
 
+<<<<<<< HEAD
 + [An introduction to S7](https://www.youtube.com/shorts/C98di7BnnyA)
 + [RcppSimdJson 0.1.16 on CRAN: Much Faster Again!](http://dirk.eddelbuettel.com/blog/2026/10/09#rcppsimdjson_0.1.16)
 + [myman 0.10.0 on CRAN: Three new waves of posts!](http://dirk.eddelbuettel.com/blog/2026/10/08#myman_0.10.0)
 + [Datapalooza 2026: The Future of Work, Powered by Data and People](https://blog.stephenturner.us/p/datapalooza-2026)
+=======
++ [AI in Production 2027 Call for Speakers: What Makes a Strong Talk](https://www.jumpingrivers.com/blog/ai-in-production-2027-talks/)
++ [An introduction to S7](https://www.youtube.com/shorts/C98di7BnnyA)
++ [From Census Blocks to Legal Contiguity: Christopher T. Kenny on geomander](https://r-consortium.org/posts/from-census-blocks-to-contiguous-maps-christopher-kenny-on-geomander/)
++ [Model Diagrams and Equations, Straight from the Code](https://r-consortium.org/posts/nlmixr2-model-diagrams-equations/)
++ [RcppSimdJson 0.1.16 on CRAN: Much Faster Again!](http://dirk.eddelbuettel.com/blog/2026/10/09#rcppsimdjson_0.1.16)
++ [myman 0.10.0 on CRAN: Three new waves of posts!](http://dirk.eddelbuettel.com/blog/2026/10/08#myman_0.10.0)
++ [World crude oil stocks by @ellis2013nz](https://freerangestats.info/blog/2026/10/06/world-crude-stocks)
++ [Goodbye R-Forge, hello Codeberg](https://www.zeileis.org/news/rforge_codeberg/)
++ [roost: Forge-agnostic self-hosted preview environments for pull requests](https://pat-s.me/roost-ephemeral-preview-environments/)
++ [{renv}, {rix}, rv, uvr, ir: An explosion of R package and environment managers](https://rworks.dev/posts/r-managers/)
++ [Correct, transparent, and reproducible data agents](https://opensource.posit.co/blog/2026-10-09_ai-newsletter/)
++ [rig 0.11.0 part one: R installations](https://opensource.posit.co/blog/2026-10-09_rig-0-11-0-part-one/)
++ [Genomes, Prompts, and Shiny: What I Built During My Summer at Posit](https://opensource.posit.co/blog/2026-10-08_genomes-prompts-and-shiny/)
++ [posit::glimpse() Newsletter – October 2026](https://opensource.posit.co/blog/2026-10-07_glimpse-10-2026/)
++ [Datapalooza 2026: The Future of Work, Powered by Data and People](https://blog.stephenturner.us/p/datapalooza-2026)
++ [Cargar archivos CSV más rápido en R con `{arrow}`](https://bastianolea.rbind.io/blog/arrow_csv/)
+>>>>>>> 42a3f9977bcc27b60ec44c264ba9573e8106c9e6
 + [Building a Traceability Matrix for Statistical Programming (Without Maintaining It by Hand)](https://rverseanalytics.com/posts/traceability-matrix-statistical-programming.html)
 + [From SAS Macros to R Functions: A Worked Conversion](https://rverseanalytics.com/posts/sas-macros-to-r-functions.html)
 + [SAS to R Migration Roadmap: The Five Phases, What Each Delivers and What It Costs](https://rverseanalytics.com/posts/sas-to-r-migration-roadmap-5-phases.html)
@@ -14,21 +33,47 @@
 + [PROC FREQ, PROC MEANS and PROC UNIVARIATE in R: Side-by-Side Translations](https://rverseanalytics.com/posts/proc-freq-proc-means-in-r.html)
 + [R vs SAS for Clinical Trials in 2026: An Honest Comparison for Decision-Makers](https://rverseanalytics.com/posts/r-vs-sas-clinical-trials-2026.html)
 + [How to Write an R Validation Plan for Regulatory Submissions](https://rverseanalytics.com/posts/r-validation-plan-regulatory-submissions.html)
+<<<<<<< HEAD
 + [What’s New in R: October 5, 2026](https://rfortherestofus.com/2026/10/whats-new-in-r-october-5-2026)
+=======
++ [WOMBAT 2026](https://robjhyndman.com/hyndsight/wombat2026.html)
++ [Dining with wolves](https://blog.djnavarro.net/posts/2026-10-05_dining-with-wolves/)
++ [What’s New in R: October 5, 2026](https://rfortherestofus.com/2026/10/whats-new-in-r-october-5-2026)
++ [ TidyTuesday 2026/40 ](https://karaman.is/blog/2026/10/tidytuesday-2026-40)
+>>>>>>> 42a3f9977bcc27b60ec44c264ba9573e8106c9e6
 
 
 
 # CRANberries UPDATED: ##
 
+<<<<<<< HEAD
+=======
++ [{neuralnetwork} 0.1.1](https://cran.r-project.org/package=neuralnetwork): Fast Compact Multilayer Perceptrons - [diffify](https://diffify.com/R/neuralnetwork)
++ [{iSTATS} 1.7](https://cran.r-project.org/package=iSTATS): A Graphical Interface to Perform STOCSY Analyses on NMR Data - [diffify](https://diffify.com/R/iSTATS)
++ [{essential8} 0.1.0](https://cran.r-project.org/package=essential8): Reproducible Cardiovascular Health Metric Scoring - [diffify](https://diffify.com/R/essential8)
++ [{duckspatial} 1.2.1](https://cran.r-project.org/package=duckspatial): R Interface to 'DuckDB' Database with Spatial Extension - [diffify](https://diffify.com/R/duckspatial)
++ [{denstest} 1.0.2](https://cran.r-project.org/package=denstest): Density Equality Testing - [diffify](https://diffify.com/R/denstest)
++ [{bayprior} 0.3.2](https://cran.r-project.org/package=bayprior): Bayesian Prior Elicitation and Diagnostics for Clinical Trials - [diffify](https://diffify.com/R/bayprior)
++ [{enviGCMS} 0.9.0](https://cran.r-project.org/package=enviGCMS): GC/LC-MS Data Analysis for Environmental Science - [diffify](https://diffify.com/R/enviGCMS)
++ [{BGVAR} 2.7.0](https://cran.r-project.org/package=BGVAR): Bayesian Global Vector Autoregressions - [diffify](https://diffify.com/R/BGVAR)
+>>>>>>> 42a3f9977bcc27b60ec44c264ba9573e8106c9e6
 + [{polle} 1.6.5](https://cran.r-project.org/package=polle): Policy Learning - [diffify](https://diffify.com/R/polle)
 + [{wordbankr} 1.0.3](https://cran.r-project.org/package=wordbankr): Accessing the Wordbank Database - [diffify](https://diffify.com/R/wordbankr)
 + [{SeqNet} 1.1.3](https://cran.r-project.org/package=SeqNet): Generate RNA-Seq Data from Gene-Gene Association Networks - [diffify](https://diffify.com/R/SeqNet)
 + [{markovchain} 1.1.1](https://cran.r-project.org/package=markovchain): Easy Handling Discrete Time Markov Chains - [diffify](https://diffify.com/R/markovchain)
+<<<<<<< HEAD
 + [{fqardl} 1.0.6](https://cran.r-project.org/package=fqardl): Fourier ARDL Methods: Quantile, Nonlinear, Multi-Threshold &
 Unit Root Tests - [diffify](https://diffify.com/R/fqardl)
 + [{fbardl} 1.1.0](https://cran.r-project.org/package=fbardl): Fourier Bootstrap ARDL Cointegration Test - [diffify](https://diffify.com/R/fbardl)
 + [{estimatr} 2.0.1](https://cran.r-project.org/package=estimatr): Fast Estimators for Design-Based Inference - [diffify](https://diffify.com/R/estimatr)
 + [{ardlverse} 2.0.3](https://cran.r-project.org/package=ardlverse): Comprehensive ARDL: Panel, Bootstrap and Fourier Methods - [diffify](https://diffify.com/R/ardlverse)
+=======
++ [{fqardl} 1.1.0](https://cran.r-project.org/package=fqardl): Fourier ARDL Methods: Quantile, Nonlinear, Multi-Threshold &
+Unit Root Tests - [diffify](https://diffify.com/R/fqardl)
++ [{fbardl} 1.2.0](https://cran.r-project.org/package=fbardl): Fourier Bootstrap ARDL Cointegration Test - [diffify](https://diffify.com/R/fbardl)
++ [{estimatr} 2.0.1](https://cran.r-project.org/package=estimatr): Fast Estimators for Design-Based Inference - [diffify](https://diffify.com/R/estimatr)
++ [{ardlverse} 2.1.0](https://cran.r-project.org/package=ardlverse): Comprehensive ARDL: Panel, Bootstrap and Fourier Methods - [diffify](https://diffify.com/R/ardlverse)
+>>>>>>> 42a3f9977bcc27b60ec44c264ba9573e8106c9e6
 + [{steinsampling} 0.1.3](https://cran.r-project.org/package=steinsampling): Kernelized Stein Discrepancy for Goodness-of-Fit Tests and Stein
 Sampling - [diffify](https://diffify.com/R/steinsampling)
 + [{mathr} 0.1.5](https://cran.r-project.org/package=mathr): Scientific Computation Using R - [diffify](https://diffify.com/R/mathr)
@@ -229,7 +274,10 @@ Teams - [diffify](https://diffify.com/R/mvglmmRank)
 + [{footBayes} 2.1.0](https://cran.r-project.org/package=footBayes): Fitting Bayesian and MLE Football Models - [diffify](https://diffify.com/R/footBayes)
 + [{ratesci} 1.1.1](https://cran.r-project.org/package=ratesci): Confidence Intervals and Tests for Comparisons of Binomial
 Proportions or Poisson Rates - [diffify](https://diffify.com/R/ratesci)
+<<<<<<< HEAD
 + [{enviGCMS} 0.9.0](https://cran.r-project.org/package=enviGCMS): GC/LC-MS Data Analysis for Environmental Science - [diffify](https://diffify.com/R/enviGCMS)
+=======
+>>>>>>> 42a3f9977bcc27b60ec44c264ba9573e8106c9e6
 + [{easybio} 1.3.0](https://cran.r-project.org/package=easybio): Comprehensive Single-Cell Annotation and Transcriptomic Analysis
 Toolkit - [diffify](https://diffify.com/R/easybio)
 + [{SticsRFiles} 1.7.2](https://cran.r-project.org/package=SticsRFiles): Read and Modify STICS Input/Output Files - [diffify](https://diffify.com/R/SticsRFiles)
@@ -251,6 +299,7 @@ Random Graph Models - [diffify](https://diffify.com/R/tabulergm)
 + [{gtheoryr} 0.2.0](https://cran.r-project.org/package=gtheoryr): Simple Generalizability Theory for Crossed and Nested Designs - [diffify](https://diffify.com/R/gtheoryr)
 + [{BMIselect} 1.0.10](https://cran.r-project.org/package=BMIselect): Bayesian MI-LASSO for Variable Selection on Multiply-Imputed
 Datasets - [diffify](https://diffify.com/R/BMIselect)
+<<<<<<< HEAD
 + [{letsRept} 1.1.3](https://cran.r-project.org/package=letsRept): An Interface to the Reptile Database - [diffify](https://diffify.com/R/letsRept)
 + [{StepReg} 1.6.9](https://cran.r-project.org/package=StepReg): A Comprehensive and Intuitive R Package for Stepwise Regression
 Analysis - [diffify](https://diffify.com/R/StepReg)
@@ -261,6 +310,8 @@ Analysis and Reactomics Analysis - [diffify](https://diffify.com/R/pmd)
 + [{neuroim2} 0.19.1](https://cran.r-project.org/package=neuroim2): Data Structures for Brain Imaging Data - [diffify](https://diffify.com/R/neuroim2)
 + [{msu} 0.1.0](https://cran.r-project.org/package=msu): Multivariate Symmetric Uncertainty and Other Measurements - [diffify](https://diffify.com/R/msu)
 + [{influential} 2.3.3](https://cran.r-project.org/package=influential): Identification and Classification of the Most Influential Nodes - [diffify](https://diffify.com/R/influential)
+=======
+>>>>>>> 42a3f9977bcc27b60ec44c264ba9573e8106c9e6
 
 
 
@@ -272,6 +323,7 @@ Analysis and Reactomics Analysis - [diffify](https://diffify.com/R/pmd)
 
 # Fetching CRANberries NEW FAILED ##
 
+<<<<<<< HEAD
 
 
 
@@ -393,5 +445,7 @@ Scales
 + [{ThesiStats} 1.1.0](https://cran.r-project.org/package=ThesiStats): Statistical Tools for Quantitative Theses
 + [{splitpopsurv} 0.1.0](https://cran.r-project.org/package=splitpopsurv): Split-Population (Cure / Mover-Stayer) Survival Models
 + [{CORAtool} 0.1.2](https://cran.r-project.org/package=CORAtool): Combinational Regularity Analysis
+=======
+>>>>>>> 42a3f9977bcc27b60ec44c264ba9573e8106c9e6
 
 
