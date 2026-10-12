@@ -1,6 +1,6 @@
 ## collects tweets from @rweekly_submit
 library(rtweet)
-
+library(tidyverse)
 # ## authenticate @rweekly_submit
 # ## refer to secure storage for tokens
 # create_token(
@@ -11,13 +11,13 @@ library(rtweet)
 #   access_secret = "xxx"
 # )
 
-token <- readRDS("~/.rweekly_submit_token.rds")
+token <- readRDS("rweekly_submit_token.rds")
 
 ## get @rweekly_submit mentions
 mentions <- rtweet::get_mentions(token = token)
 
 ## get the tweets they are in reply to
-originals <- rtweet::lookup_tweets(mentions$status_in_reply_to_status_id, token = token)
+originals <- rtweet::lookup_tweets(mentions$in_reply_to_status_id, token = token)
 
 ## preview
 # twitterwidget::twitterwidget(originals$status_id[1])
@@ -25,7 +25,7 @@ originals <- rtweet::lookup_tweets(mentions$status_in_reply_to_status_id, token 
 ## extract links from original for the last 8 or so days
 recents <- originals %>%
   dplyr::filter(as.Date(created_at) > Sys.Date() - 8) %>%
-  dplyr::select(status_id, screen_name, text) %>%
+  dplyr::select(id, in_reply_to_screen_name, text) %>%
   # get the t.co link from the tweet
   dplyr::mutate(urls = stringr::str_extract_all(text, "https://t.co.\\w*")) %>%
   tidyr::unnest(urls) %>%
@@ -41,7 +41,7 @@ format_rmarkdown_rweekly <- function(l) {
   l$text <- stringr::str_remove_all(l$text, "https://t.co.\\w*")
   l$text <- stringr::str_squish(l$text)
 
-  glue::glue_data(l, "+ [{text} (posted by @{screen_name})]({longurl})")
+  glue::glue_data(l, "+ [{text} (posted by @{in_reply_to_screen_name})]({longurl})")
 }
 
 rmd <- format_rmarkdown_rweekly(recents)
