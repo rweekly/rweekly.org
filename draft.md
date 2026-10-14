@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Introducing hal: a coding agent for R](https://arclite-red.github.io/hal/articles/introducing-hal.html)
 
 
 ### R in the Real World
