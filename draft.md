@@ -48,6 +48,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 
 + [{brochure} 1.0.0 is now on CRAN](https://golemverse.org/news/brochure-1.0.0-release-on-cran/)
++ [{bones} 0.1.1](https://cran.r-project.org/package=bones): Content-Shaped Loading Placeholders for 'shiny' Outputs
 
 **Bioconductor**
 
