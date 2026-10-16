@@ -49,6 +49,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [{brochure} 1.0.0 is now on CRAN](https://golemverse.org/news/brochure-1.0.0-release-on-cran/)
 
++ [dasklyr](https://cran.r-project.org/package=dasklyr) - dplyr front-end for Dask (`dask_connect` / `copy_to` / collect via reticulate). [GitHub](https://github.com/hebian1994/dasklyr)
+
 **Bioconductor**
 
 
