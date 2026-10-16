@@ -61,7 +61,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
-+ [Ask your documents. Then teach a model.](https://dragonfarm.dev/articles/introducing-0-4-0.html) - dragonfarm 0.4.0: ask your PDFs, Word files, and web pages questions and get answers that cite the page, then turn the same documents into training data and fine-tune a model, all from R on your own machine.
++ [Ask your documents. Then teach a model.](https://dragonfarm.dev/articles/introducing-0-4-0.html) - dragonfarm 0.4.0: raise your own dragon. Ask your PDFs, Word files, and web pages anything and get full answers drawn from them, then turn the same documents into training data and fine-tune a model, all from R on your own machine.
 
 
 ### Videos and Podcasts
