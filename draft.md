@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
+- [Using Just to run a subset of test files](https://www.etiennebacher.com/posts/2026-10-15-using-just-with-test-files/)
 + [Introducing hal: a coding agent for R](https://arclite-red.github.io/hal/articles/introducing-hal.html)
 
 + [{renv}, {rix}, rv, uvr, ir: An explosion of R package and environment managers](https://rworks.dev/posts/r-managers/)
