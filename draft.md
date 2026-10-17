@@ -18,6 +18,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [Introducing hal: a coding agent for R](https://arclite-red.github.io/hal/articles/introducing-hal.html)
+
 + [{renv}, {rix}, rv, uvr, ir: An explosion of R package and environment managers](https://rworks.dev/posts/r-managers/)
 + [posit::glimpse() Newsletter – October 2026](https://opensource.posit.co/blog/2026-10-07_glimpse-10-2026/)
 + [Genomes, Prompts, and Shiny: What I Built During My Summer at Posit](https://opensource.posit.co/blog/2026-10-08_genomes-prompts-and-shiny/)
