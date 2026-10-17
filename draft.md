@@ -71,6 +71,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [Fine-tune your own model from R, starting from your documents](https://dragonfarm.dev/articles/introducing-0-4-0.html) - dragonfarm 0.4.0 writes the training data from your documents, fine-tunes a model on your own laptop, and keeps it grounded with built-in RAG. Raise your own dragon.
+
 + [{shinyglass} 0.5.0: Liquid Glass themes for Shiny](https://github.com/ericrayanderson/shinyglass/releases/tag/v0.5.0)
 
 ### Videos and Podcasts
