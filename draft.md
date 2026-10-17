@@ -71,6 +71,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{shinyglass} 0.5.0: Liquid Glass themes for Shiny](https://github.com/ericrayanderson/shinyglass/releases/tag/v0.5.0)
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
