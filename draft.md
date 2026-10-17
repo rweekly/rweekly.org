@@ -19,7 +19,11 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### Insights
 
 - [Using Just to run a subset of test files](https://www.etiennebacher.com/posts/2026-10-15-using-just-with-test-files/)
++ [Introducing hal: a coding agent for R](https://arclite-red.github.io/hal/articles/introducing-hal.html)
 
++ [{renv}, {rix}, rv, uvr, ir: An explosion of R package and environment managers](https://rworks.dev/posts/r-managers/)
++ [posit::glimpse() Newsletter – October 2026](https://opensource.posit.co/blog/2026-10-07_glimpse-10-2026/)
++ [Genomes, Prompts, and Shiny: What I Built During My Summer at Posit](https://opensource.posit.co/blog/2026-10-08_genomes-prompts-and-shiny/)
 
 ### R in the Real World
 
@@ -35,6 +39,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [rig 0.11.0 part one: R installations](https://opensource.posit.co/blog/2026-10-09_rig-0-11-0-part-one/)
++ [rig 0.11.0 part two: R packages](https://opensource.posit.co/blog/2026-10-12_rig-0-11-0-part-two/)
 
 ### Resources
 
@@ -48,6 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{brochure} 1.0.0 is now on CRAN](https://golemverse.org/news/brochure-1.0.0-release-on-cran/)
 
 **Bioconductor**
 
