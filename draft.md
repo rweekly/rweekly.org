@@ -29,6 +29,8 @@ This week’s release was curated by [Eric Nantz](blah-blah), with help from the
 
 + [ TidyTuesday 2026/41 ](https://karaman.is/blog/2026/10/tidytuesday-2026-41)
 
++ [How many rules does it take to guess a German noun's gender?](https://blog.davidlindelof.com/posts/2026/09/german-noun-gender/) - Use R, subtitle frequencies, and a compact decision tree to predict noun gender while keeping the model small enough to memorize.
+
 
 ### R in Organizations
 
