@@ -8,7 +8,7 @@ image: https://rweekly.org/public/facebook.png
 
 + [How to have (my) content shared by R Weekly?](https://github.com/rweekly/rweekly.org#how-to-have-my-content-shared-by-r-weekly)
 
-This week’s release was curated by [Eric Nantz](blah-blah), with help from the R Weekly team members and contributors.
+This week’s release was curated by [Eric Nantz](https://bsky.app/profile/rpodcast.bsky.social), with help from the R Weekly team members and contributors.
 
 
 
@@ -18,17 +18,25 @@ This week’s release was curated by [Eric Nantz](blah-blah), with help from the
 
 ### Insights
 
-- [Using Just to run a subset of test files](https://www.etiennebacher.com/posts/2026-10-15-using-just-with-test-files/)
++ [Using Just to run a subset of test files](https://www.etiennebacher.com/posts/2026-10-15-using-just-with-test-files/)
+
 + [Introducing hal: a coding agent for R](https://arclite-red.github.io/hal/articles/introducing-hal.html)
 
+![](https://arclite-red.github.io/hal/reference/figures/demo-pipe-do2.gif)
+
 + [{renv}, {rix}, rv, uvr, ir: An explosion of R package and environment managers](https://rworks.dev/posts/r-managers/)
+
 + [posit::glimpse() Newsletter – October 2026](https://opensource.posit.co/blog/2026-10-07_glimpse-10-2026/)
+
 + [Genomes, Prompts, and Shiny: What I Built During My Summer at Posit](https://opensource.posit.co/blog/2026-10-08_genomes-prompts-and-shiny/)
 
 ### R in the Real World
 
 + [ TidyTuesday 2026/41 ](https://karaman.is/blog/2026/10/tidytuesday-2026-41)
 
+TODO Add image (avocado oil resized)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2026/W43/avocado_oil_resized.png)
 
 ### R in Organizations
 
@@ -114,8 +122,7 @@ This week’s release was curated by [Eric Nantz](blah-blah), with help from the
 
 + [{rjsf} 0.1.0](https://cran.r-project.org/package=rjsf): R Interface to Jump-Switch-Flow Simulation
 
-+ [{limestab} 0.1.0](https://cran.r-project.org/package=limestab): Stable Local Interpretable Model-Agnostic Explanations (LIME,
-OptiLIME, BayLIME, ALIME)
++ [{limestab} 0.1.0](https://cran.r-project.org/package=limestab): Stable Local Interpretable Model-Agnostic Explanations (LIME, OptiLIME, BayLIME, ALIME)
 
 + [{dsFedAte} 0.1.0](https://cran.r-project.org/package=dsFedAte): Server-Side Treatment Effect Computation for Federated Studies
 
@@ -127,8 +134,9 @@ OptiLIME, BayLIME, ALIME)
 
 + [{ggcolonviz} 0.0.6](https://cran.r-project.org/package=ggcolonviz): A 'ggplot2' Extension for Visualizing the Colon
 
-+ [{ggaltdata} 0.1.0](https://cran.r-project.org/package=ggaltdata): Data-Driven Alternative Text and Data Tables for 'ggplot2'
-Charts
+![](https://raw.githubusercontent.com/rweekly/image/master/2026/W43/heatmap-resized.png)
+
++ [{ggaltdata} 0.1.0](https://cran.r-project.org/package=ggaltdata): Data-Driven Alternative Text and Data Tables for 'ggplot2' Charts
 
 + [{enviPathR} 1.0.1](https://cran.r-project.org/package=enviPathR): Client for the 'enviPath' 'RESTful' API
 
@@ -155,11 +163,6 @@ Charts
 + [{foresightr} 0.1.1](https://cran.r-project.org/package=foresightr): Forecasts Chosen by What Would Have Worked
 
 
-
-**Bioconductor**
-
-
-
 **GitHub or Bitbucket or GitLab**
 
 + [ggindex - numbered points that explain themselves](https://discindo.org/posts/2026-10-11-ggindex-ggplot2-extension/)
@@ -170,7 +173,8 @@ Charts
 
 + [Fine-tune your own model from R, starting from your documents](https://dragonfarm.dev/articles/introducing-0-4-0.html) - dragonfarm 0.4.0 writes the training data from your documents, fine-tunes a model on your own laptop, and keeps it grounded with built-in RAG. Raise your own dragon.
 
-+ [{shinyglass} 0.5.0: Liquid Glass themes for Shiny](https://github.com/ericrayanderson/shinyglass/releases/tag/v0.5.0)
+![](https://dragonfarm.dev/demo/dragonfarm-demo.gif)
+
 
 + [RcppSimdJson 0.1.17 on CRAN: Updates](http://dirk.eddelbuettel.com/blog/2026/10/16#rcppsimdjson_0.1.17)
 
@@ -273,6 +277,8 @@ Charts
 
 + [{maptiles} 0.13.0](https://cran.r-project.org/package=maptiles): Download and Display Map Tiles - [diffify](https://diffify.com/R/maptiles)
 
+![](https://raw.githubusercontent.com/rweekly/image/master/2026/W43/maptiles-resized.png)
+
 + [{rbmi} 1.7.0](https://cran.r-project.org/package=rbmi): Reference Based Multiple Imputation - [diffify](https://diffify.com/R/rbmi)
 
 + [{PhytoIn} 0.2.1](https://cran.r-project.org/package=PhytoIn): Vegetation Analysis and Forest Inventory - [diffify](https://diffify.com/R/PhytoIn)
@@ -366,12 +372,11 @@ Scripting in 'R' - [diffify](https://diffify.com/R/Rtinycc)
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
 
 
-### Gist & Cookbook
-
-
-
 ### Shiny Apps
 
++ [{shinyglass} 0.5.0: Liquid Glass themes for Shiny](https://github.com/ericrayanderson/shinyglass/releases/tag/v0.5.0)
+
+![](https://raw.githubusercontent.com/rweekly/image/master/2026/W43/bslib-dashboard-resized.png)
 
 
 ### R Internationally
@@ -391,9 +396,6 @@ Scripting in 'R' - [diffify](https://diffify.com/R/Rtinycc)
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
-### Call for Participation
-
-
 ### Upcoming Events in 3 Months
 
 Events in 3 Months:
@@ -404,27 +406,19 @@ Events in 3 Months:
 
 + [Weekly R Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)
 
-### Grants & Funding
-
-
-### Datasets
-
-
 ### Connect
 
 <i>[Join the Data Science Learning Community](https://DSLC.io/)</i>
 
 ### rtistry
 
-https://fosstodon.org/@nrennie/117441132648626248
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jiushxoiyvgcw2tgsjyvd2mc/app.bsky.feed.post/3mxueufhuwk2t" data-bluesky-cid="bafyreihjydzozho5twydc75zassvt2fimoebnxwyvtpyt2xsr26ikah6jy" data-bluesky-embed-color-mode="system"><p lang="en">A little bit of #Rtistry 🎨
 
-
+#RStats #ggplot2 #GenArtClub #CreativeCoding<br><br><a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3mxueufhuwk2t?ref_src=embed">[image or embed]</a></p>&mdash; Nicola Rennie (<a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc?ref_src=embed">@nrennie.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jiushxoiyvgcw2tgsjyvd2mc/post/3mxueufhuwk2t?ref_src=embed">October 14, 2026 at 4:23 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 ### Quotes of the Week
 
 <blockquote class="mastodon-embed" data-embed-url="https://mastodon.social/@eliocamp/117438491784680071/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://mastodon.social/@eliocamp/117438491784680071" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @eliocamp@mastodon.social</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://mastodon.social/" async src="https://mastodon.social/embed.js"></script>
 
 <blockquote class="mastodon-embed" data-embed-url="https://mastodon.social/@rmflight/117430827244094366/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://mastodon.social/@rmflight/117430827244094366" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @rmflight@mastodon.social</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://mastodon.social/" async src="https://mastodon.social/embed.js"></script>
-
-https://fosstodon.org/@tylermorganwall/117433427704870151
 
