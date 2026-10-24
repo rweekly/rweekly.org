@@ -23,6 +23,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 
++ [How many rules does it take to guess a German noun's gender?](https://blog.davidlindelof.com/posts/2026/09/german-noun-gender/) - Use R, subtitle frequencies, and a compact decision tree to predict noun gender while keeping the model small enough to memorize.
+
 
 ### R in Organizations
 
