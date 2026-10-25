@@ -47,6 +47,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{whence} 0.1.0](https://cran.r-project.org/package=whence): Explain Where a Number Came from in 'shiny' Apps
 
 **Bioconductor**
 
