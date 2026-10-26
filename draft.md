@@ -54,6 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{hybridclock} 0.1.1](https://CRAN.R-project.org/package=hybridclock): Dates hybrid populations beyond F2, with or without a genetic map, with calibrated intervals.
 + [{corridoR} 0.2.0](https://CRAN.R-project.org/package=corridoR): Forecasts how gene flow among populations will shift along migration corridors under climate change.
 
++ [{whence} 0.1.0](https://cran.r-project.org/package=whence): Explain Where a Number Came from in 'shiny' Apps
 
 **Bioconductor**
 
