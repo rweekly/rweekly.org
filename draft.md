@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: R Weekly 2026-W44
+title: R Weekly 2026-W45
 description: Draft of the R Weekly
 image: https://rweekly.org/public/facebook.png
 ---
@@ -23,8 +23,6 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 ### R in the Real World
 
 
-+ [How many rules does it take to guess a German noun's gender?](https://blog.davidlindelof.com/posts/2026/09/german-noun-gender/) - Use R, subtitle frequencies, and a compact decision tree to predict noun gender while keeping the model small enough to memorize.
-
 
 ### R in Organizations
 
@@ -35,11 +33,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
-+ [Dating hybrid populations with hybridclock: five worked datasets](https://paulmaier.github.io/hybridclock/articles/tutorial.html)
-+ [What else looks like hybrid age? Linkage, inbreeding, drift, dropout, gene flow and selection](https://paulmaier.github.io/hybridclock/articles/lookalikes.html)
-+ [Forecasting genetic range shifts along migration corridors with corridoR](https://paulmaier.github.io/corridoR/articles/tutorial.html)
 
-+ [Using RustScenic from Seurat / R](https://ekin-kahraman.github.io/rustscenic/seurat-interop/) - Exchange sparse, log-normalized RNA with Python and return regulon activity by cell ID; tested with SeuratObject 5.4.0 on synthetic input.
 
 ### Resources
 
@@ -52,17 +46,14 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **CRAN**
-+ [{hybridclock} 0.1.1](https://CRAN.R-project.org/package=hybridclock): Dates hybrid populations beyond F2, with or without a genetic map, with calibrated intervals.
-+ [{corridoR} 0.2.0](https://CRAN.R-project.org/package=corridoR): Forecasts how gene flow among populations will shift along migration corridors under climate change.
 
-+ [{whence} 0.1.0](https://cran.r-project.org/package=whence): Explain Where a Number Came from in 'shiny' Apps
 
 **Bioconductor**
 
 
 
 **GitHub or Bitbucket or GitLab**
-+ [termr — Terminal User Interface Framework for R](https://github.com/menshikovs/termr) — Build interactive terminal dashboards, forms, and sortable data tables in R, with keyboard navigation and automated headless UI testing.
+
 
 
 ### Updated Packages
