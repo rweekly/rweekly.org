@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Using RustScenic from Seurat / R](https://ekin-kahraman.github.io/rustscenic/seurat-interop/) - Exchange sparse, log-normalized RNA with Python and return regulon activity by cell ID; tested with SeuratObject 5.4.0 on synthetic input.
 
 ### Resources
 
