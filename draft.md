@@ -39,6 +39,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [What else looks like hybrid age? Linkage, inbreeding, drift, dropout, gene flow and selection](https://paulmaier.github.io/hybridclock/articles/lookalikes.html)
 + [Forecasting genetic range shifts along migration corridors with corridoR](https://paulmaier.github.io/corridoR/articles/tutorial.html)
 
++ [Using RustScenic from Seurat / R](https://ekin-kahraman.github.io/rustscenic/seurat-interop/) - Exchange sparse, log-normalized RNA with Python and return regulon activity by cell ID; tested with SeuratObject 5.4.0 on synthetic input.
 
 ### Resources
 
