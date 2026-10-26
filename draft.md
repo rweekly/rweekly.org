@@ -35,6 +35,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
++ [Dating hybrid populations with hybridclock: five worked datasets](https://paulmaier.github.io/hybridclock/articles/tutorial.html)
++ [What else looks like hybrid age? Linkage, inbreeding, drift, dropout, gene flow and selection](https://paulmaier.github.io/hybridclock/articles/lookalikes.html)
++ [Forecasting genetic range shifts along migration corridors with corridoR](https://paulmaier.github.io/corridoR/articles/tutorial.html)
 
 
 ### Resources
@@ -48,6 +51,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **CRAN**
++ [{hybridclock} 0.1.1](https://CRAN.R-project.org/package=hybridclock): Dates hybrid populations beyond F2, with or without a genetic map, with calibrated intervals.
++ [{corridoR} 0.2.0](https://CRAN.R-project.org/package=corridoR): Forecasts how gene flow among populations will shift along migration corridors under climate change.
 
 
 **Bioconductor**
