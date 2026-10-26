@@ -55,7 +55,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **GitHub or Bitbucket or GitLab**
-
++ [termr — Terminal User Interface Framework for R](https://github.com/menshikovs/termr) — Build interactive terminal dashboards, forms, and sortable data tables in R, with keyboard navigation and automated headless UI testing.
 
 
 ### Updated Packages
