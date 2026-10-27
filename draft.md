@@ -101,6 +101,7 @@ Events in 3 Months:
 
 ### Datasets
 
++ [NBA win probabilities in FiveThirtyEight's nba_elo layout](https://clutchledger.com/learn/fivethirtyeight-nba-predictions/): FiveThirtyEight's `nba_elo.csv` now redirects to ABC News. Internet Archive copies of the old files, and a free CC BY 4.0 CSV of the current NBA season in the same columns, with `readr::read_csv()` code.
 
 ### Connect
 
