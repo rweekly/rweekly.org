@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Ten great R functions #4](https://erikgahner.github.io/posts/2026/ten-great-r-functions-4/)
 
 ### Resources
 
