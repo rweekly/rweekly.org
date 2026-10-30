@@ -54,6 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket or GitLab**
 
++ [maplore — Context Components for mapgl Maps](https://github.com/JMTocho/maplore) — Adds a live summary, a ranking, a context tooltip and a search box to mapgl maps, so readers see how the area in view compares with the rest. Runs in the browser, so it works in Quarto and static HTML without Shiny.
 
 
 ### Updated Packages
