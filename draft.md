@@ -173,6 +173,7 @@ Events in 3 Months:
 ### Datasets
 
 + [NBA win probabilities in FiveThirtyEight's nba_elo layout](https://clutchledger.com/learn/fivethirtyeight-nba-predictions/): FiveThirtyEight's `nba_elo.csv` now redirects to ABC News. Internet Archive copies of the old files, and a free CC BY 4.0 CSV of the current NBA season in the same columns, with `readr::read_csv()` code.
++ [YouTube monetization signals by country](https://monetizationkit.com/data/youtube-monetized-channels-by-country/): For 51 countries, the share of checked YouTube channels that show the public signals of a monetized channel (4,802 channels, checked September 5 to October 26, 2026). Most channels came from each country's YouTube charts, so the sample leans toward popular channels; the others were user lookups and a dozen well-known channels checked on a schedule. CC BY 4.0 CSV: `read.csv("https://monetizationkit.com/api/data/country-monetization/")`.
 
 ### Connect
 
