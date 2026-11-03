@@ -34,6 +34,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [How to Run R Code Online (No RStudio, No Install)](https://devtoolry.com/blog/run-r-code-online) - Run R 4.6 in the browser with webR: built-in datasets, a linear model, reading stdin and fixing common R errors.
+
 
 ### Resources
 
