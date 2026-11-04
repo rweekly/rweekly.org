@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [R market data API: OHLCV to xts with httr2](https://sifting.io/blog/r-market-data-api-replace-getsymbols-httr2-xts) - Cursor pagination and OHLCV-to-xts conversion in R.
 
 ### Resources
 
