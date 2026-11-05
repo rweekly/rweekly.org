@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [mizu: thread-speed parallel R and Python over shared memory](https://opensource.posit.co/blog/2026-11-05_mizu-0-1-0/)
 
 
 ### R in the Real World
@@ -46,6 +47,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **CRAN**
+
++ [{mizu} 0.1.0](https://cran.r-project.org/package=mizu): Thread-Speed Async and Parallel R over Shared Memory
 
 
 **Bioconductor**
