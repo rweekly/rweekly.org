@@ -18,6 +18,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Insights
 
++ [mizu: thread-speed parallel R and Python over shared memory](https://opensource.posit.co/blog/2026-11-05_mizu-0-1-0/)
 
 
 ### R in the Real World
@@ -36,6 +37,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [How to Run R Code Online (No RStudio, No Install)](https://devtoolry.com/blog/run-r-code-online) - Run R 4.6 in the browser with webR: built-in datasets, a linear model, reading stdin and fixing common R errors.
 
++ [R market data API: OHLCV to xts with httr2](https://sifting.io/blog/r-market-data-api-replace-getsymbols-httr2-xts) - Cursor pagination and OHLCV-to-xts conversion in R.
 
 ### Resources
 
@@ -48,6 +50,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 **CRAN**
+
++ [{mizu} 0.1.0](https://cran.r-project.org/package=mizu): Thread-Speed Async and Parallel R over Shared Memory
 
 
 **Bioconductor**
@@ -103,6 +107,8 @@ Events in 3 Months:
 
 ### Datasets
 
++ [NBA win probabilities in FiveThirtyEight's nba_elo layout](https://clutchledger.com/learn/fivethirtyeight-nba-predictions/): FiveThirtyEight's `nba_elo.csv` now redirects to ABC News. Internet Archive copies of the old files, and a free CC BY 4.0 CSV of the current NBA season in the same columns, with `readr::read_csv()` code.
++ [YouTube monetization signals by country](https://monetizationkit.com/data/youtube-monetized-channels-by-country/): For 51 countries, the share of checked YouTube channels that show the public signals of a monetized channel (4,802 channels, checked September 5 to October 26, 2026). Most channels came from each country's YouTube charts, so the sample leans toward popular channels; the others were user lookups and a dozen well-known channels checked on a schedule. CC BY 4.0 CSV: `read.csv("https://monetizationkit.com/api/data/country-monetization/")`.
 
 ### Connect
 
