@@ -44,8 +44,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 <!-- <p class="added-hostname"><a href="https://rweekly.org/live" target="_blank" class="externalLink">📦 <i>Go Live for More New Pkgs</i> 📦</a></p> --> 
 <p class="added-hostname"><a href="https://dirk.eddelbuettel.com/cranberries/cran/new/" target="_blank" class="externalLink">📦 <i>Keep up to date wtih CRANberries</i> 📦</a></p>
 
-#### https://github.com/discindo/ggindex - new package
-ggindex marks selected points of a ggplot2 plot with numbered markers and explains the numbers in a legend, as on an annotated map. 
++ [ggindex marks selected points of a ggplot2 plot with numbered markers and explains the numbers in a legend, as on an annotated map. 
+](https://github.com/discindo/ggindex)
 
 **CRAN**
 
