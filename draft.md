@@ -14,14 +14,15 @@ This week's release was curated by [Jonathan Carroll](https://fosstodon.org/@jon
 
 ### Highlight
 
++ [mizu: thread-speed parallel R and Python over shared memory](https://opensource.posit.co/blog/2026-11-05_mizu-0-1-0/)
 
++ [Bring your own agent to Positron with the Positron MCP](https://opensource.posit.co/blog/2026-11-04_positron-mcp/)
+
++ [Modelling cell-type proportions in repeated-measures designs with sccomp: a TMA case study](https://tidyomics.github.io/tidyomicsBlog/posts/2026-10-23-sccomp-neotrip-compositional-dynamics/)
 
 ### Insights
 
-+ [mizu: thread-speed parallel R and Python over shared memory](https://opensource.posit.co/blog/2026-11-05_mizu-0-1-0/)
-
 + [Interactive, reproducible figures inside teal](https://neuhausi.github.io/canvasxpress-blog/posts/r/interactive-figures-in-teal/)
-
 + [SAS to R: Why R, and Where Your Migration Budget Should Go](https://www.jumpingrivers.com/blog/sas-to-r-migration-risks/)
 + [Agents in Production: Build Your First AI Agent in R with {ellmer}](https://www.jumpingrivers.com/blog/agents-in-production-first-agent/)
 + [R Consortium Awards Second Round of 2026 Technical Grants](https://r-consortium.org/posts/r-consortium-awards-second-round-of-2026-technical-grants/)
@@ -29,7 +30,11 @@ This week's release was curated by [Jonathan Carroll](https://fosstodon.org/@jon
 + [Bring your own agent to Positron with the Positron MCP](https://opensource.posit.co/blog/2026-11-04_positron-mcp/)
 + [posit::glimpse() Newsletter – November 2026](https://opensource.posit.co/blog/2026-11-04_glimpse-2026-11/)
 + [What’s New in R: November 2, 2026](https://rfortherestofus.com/2026/11/whats-new-in-r-november-2-2026)
++ [mizu: thread-speed parallel R and Python over shared memory](https://opensource.posit.co/blog/2026-11-05_mizu-0-1-0/)
 + [30DayMapChallenge 2026 ](https://karaman.is/blog/2026/11/30daymapchallenge-2026)
+
+![](https://raw.githubusercontent.com/rweekly/image/refs/heads/master/2026-W46/_03-polygons-isochrones_600.png)
+
 + [A histogram of lifts is not an effect estimate](https://blog.davidlindelof.com/posts/2026/10/when-pooled-ctr-misleads/)
 + [Modelling cell-type proportions in repeated-measures designs with sccomp: a TMA case study](https://tidyomics.github.io/tidyomicsBlog/posts/2026-10-23-sccomp-neotrip-compositional-dynamics/)
 + [Nuclei, five years later: what a mean Dice hides](https://datascienceguts.com/posts/2026-11-06-nuclei-mean-dice/)
