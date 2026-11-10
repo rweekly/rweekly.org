@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [More visits had long waits. What changed?](https://doesithold.hashnode.dev/more-visits-had-long-waits-what-changed) - A short base R example compares observed and directly standardized proportions in a fictional clinic, where the mix of scheduled visits and walk-ins changes.
 
 ### Resources
 
