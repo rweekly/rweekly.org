@@ -54,6 +54,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket or GitLab**
 
++ [{livetennisapi} 0.2.0](https://github.com/livetennisapi/livetennisapi-r): Live tennis scores, fixtures, players and rankings as tibbles
+
 
 
 ### Updated Packages
