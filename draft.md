@@ -47,6 +47,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{radiatR} 0.1.3](https://cran.r-project.org/package=radiatR): Analyse and Visualise Headings and Trajectories on the Unit Disk
 
 **Bioconductor**
 
