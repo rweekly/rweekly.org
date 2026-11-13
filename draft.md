@@ -49,6 +49,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 **CRAN**
 
 + [{radiatR} 0.1.3](https://cran.r-project.org/package=radiatR): Analyse and Visualise Headings and Trajectories on the Unit Disk
++ [{mascot} 0.1.0](https://cran.r-project.org/package=mascot): Live, mood-driven characters for Shiny apps and Quarto pages, drawn in code and controlled from R.
 
 **Bioconductor**
 
