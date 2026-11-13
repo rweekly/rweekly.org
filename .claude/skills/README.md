@@ -24,9 +24,9 @@ All skills set `disable-model-invocation: true`, so Claude never runs them on it
 ### `/curate`
 Fills `draft.md` with this week's content.
 - Checks open PRs first and waits if there are any.
-- Re-runs `scripts/curatinator.R` only if `curatinator_latest.md` is stale. Outside the Nix env, this needs `tidyRSS`, `RCurl`, `pkgsearch`, and `OPENAI_API_KEY`.
-- Fetches each RSS post to confirm it's R-related before adding it.
-- Keeps the top ~40 new and ~25 updated CRAN packages by last-week downloads.
+- Runs `scripts/curate_prep.R`, which drops links already in the draft or the last 20 issues, fetches a text excerpt of every remaining RSS post, and ranks CRAN packages by last-week downloads (top ~40 new, ~25 updated). Output: `/tmp/curate_digest.md`.
+- Re-runs `scripts/curatinator.R` only if the digest reports `curatinator_latest.md` as stale or a CRANberries section as failed. Outside the Nix env, this needs `tidyRSS`, `RCurl` and `pkgsearch`.
+- Classifies each post from its page content before adding it.
 - Never touches `### Highlight` or `### Quotes of the Week`.
 
 **Needs:** `gh` CLI, R.

@@ -47,6 +47,7 @@ All scripts are run from the repo root directory.
 | `scripts/curatinator.R` | Scrapes enabled RSS feeds (`rss_feeds.csv`) for posts from the last 6 days, fetches new/updated CRAN packages from CRANberries, and writes `curatinator_latest.md` |
 | `scripts/get_rss.R` | Helper used by `curatinator.R` — fetches and filters RSS posts by date and reachability |
 | `scripts/find_duplicates.R` | Checks `draft.md` for links already present in the last ~20 published posts |
+| `scripts/curate_prep.R` | Builds `/tmp/curate_digest.md` for the `/curate` skill: RSS posts not yet in `draft.md` or the last 20 posts (with a page excerpt), CRAN packages ranked by last-week downloads, and a staleness check of `curatinator_latest.md` |
 | `scripts/parse_curinator.R` | Parses `curatinator_latest.md` into a tidy data frame |
 | `scripts/process_curinator.R` | Uses `ellmer` + OpenAI to classify RSS posts as R-related |
 | `scripts/gen_json.R` | Parses `_posts/` into JSON files in `temp_json/` for the live index |

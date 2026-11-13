@@ -7,21 +7,26 @@ allowed-tools: Read, Edit, Bash, Grep, WebFetch
 
 # R Weekly Release Curation
 
-## Live Context
-
-- Current draft: !`cat draft.md`
-
-## Your Task
-
 You are helping the R Weekly curation team prepare the weekly issue. Work through the candidate content from `curatinator_latest.md` and populate `draft.md`.
 
-### Classification Rules
+## Steps
 
-For each **RSS POST**, decide:
+1. **Check open PRs**: `gh pr list --repo rweekly/rweekly.org`. If any are open, tell the user and **wait** for their go-ahead before continuing.
+2. **Build the digest**: `Rscript scripts/curate_prep.R`, then Read `/tmp/curate_digest.md`. It holds:
+   - a staleness verdict for `curatinator_latest.md` (the Saturday GitHub Action normally refreshes it);
+   - the RSS posts not already in `draft.md` or the last 20 issues, each with a text excerpt of the page;
+   - the top ~40 new and ~25 updated CRAN packages by last-week downloads, as ready-to-paste lines.
 
-1. **Is it R-related?** Fetch and read the actual page content for every item before deciding — do not infer relatedness from the title, author, or domain alone. A post on a known R blogger's site or a stats-adjacent title can still be off-topic (e.g. a general statistics/data-ethics essay with no R content). If not R-related, skip it entirely.
-2. **Is it already in the draft or flagged as a duplicate?** If so, skip it.
-3. **Which section does it belong to?**
+   If it says STALE or that a CRANberries section FAILED: `Rscript -e 'source("scripts/curatinator.R")'` (scrapes the network and overwrites the file), then rebuild the digest. Outside the Nix env, first check `Rscript -e 'library(tidyRSS); library(RCurl); library(pkgsearch)'`: `get_rss.R` swallows feed errors, so a broken setup yields an empty RSS section with no error.
+3. **Read `draft.md`** (Edit requires it).
+4. **Classify each RSS post** from its excerpt with the rules below. Decide from the content, never from the title, author or domain alone: a post on a known R blogger's site can still be off-topic. If the excerpt is missing or doesn't settle it, fetch the page (see Fetching Page Content). Skip non-R content.
+5. **Edit `draft.md`**, one Edit per section: append the new links at the bottom of the section, above any closing HTML comment. Paste the package lines as-is under `### New Packages` -> `**CRAN**` and `### Updated Packages`.
+6. **Check duplicates**: `Rscript -e 'source("scripts/find_duplicates.R"); get_dups()'`; remove any flagged URL.
+7. **Report**: posts added per section, packages added (new / updated), items skipped (not R-related, duplicates), items that need editor review.
+
+Keep the existing content and structure of `draft.md` intact.
+
+## Classification Rules
 
 | Section in draft.md               | Use when                                                                |
 | --------------------------------- | ----------------------------------------------------------------------- |
@@ -43,15 +48,13 @@ For each **RSS POST**, decide:
 | `### Connect`                     | R jobs, communities                                                     |
 | `### rtistry`                     | Generative art made with R                                              |
 
-For **CRANberries NEW** entries: add under `### New Packages` -> `**CRAN**`.
-For **CRANberries UPDATED** entries: add under `### Updated Packages`.
-RSS posts announcing a package release (e.g. "RcppArmadillo 15.6.0-1 on CRAN") also go under `### Updated Packages`.
+RSS posts announcing a package release (e.g. "RcppArmadillo 15.6.0-1 on CRAN") go under `### Updated Packages`.
 Bioconductor and GitHub packages go under `### New Packages` -> `**Bioconductor**` / `**GitHub or Bitbucket or GitLab**`.
 
 > Do NOT add anything to `### Highlight` — editors vote for that section separately.
 > Do NOT touch `### Quotes of the Week` — it uses raw social-embed HTML, added by hand.
 
-### Link Format
+## Link Format
 
 ```
 + [Title](URL)
@@ -59,7 +62,7 @@ Bioconductor and GitHub packages go under `### New Packages` -> `**Bioconductor*
 
 Escape any `|` in a title as `\|` (e.g. `[Talk \| Speaker \| Series](URL)`). Kramdown otherwise renders the line as a table. YouTube titles often contain pipes.
 
-For packages, keep the CRANberries description, and the diffify link for updated packages. Some descriptions wrap onto a second line in `curatinator_latest.md`: join them back into one line.
+Package lines come ready-made from the digest:
 
 ```
 + [{pkgname} version](https://cran.r-project.org/package=pkgname): Description - [diffify](https://diffify.com/R/pkgname)
@@ -71,31 +74,10 @@ Images (optional, editor discretion):
 ![Alt text](https://raw.githubusercontent.com/...)
 ```
 
-### Fetching Page Content
+## Fetching Page Content
 
-To inspect a URL's content before classifying it, use any of:
+When the digest excerpt isn't enough, inspect the page with any of:
 - **WebFetch tool** — built-in; use it directly.
 - `curl https://r.jina.ai/https://www.example.com` — fallback if WebFetch fails.
 - `curl https://defuddle.md/example.com` — second fallback.
 - `npx defuddle parse https://www.example.com --markdown` — third fallback if defuddle.md itself is down or rate-limited; runs the same extraction locally with no dependency on the hosted proxy.
-
-### Steps
-
-1. **Check open PRs** with `gh pr list --repo rweekly/rweekly.org`. If any are open, tell the user and **wait** for their go-ahead before continuing.
-1. **Collect content** — only if `curatinator_latest.md` is missing or stale (the Saturday GitHub Action normally refreshes it): `Rscript -e 'source("scripts/curatinator.R")'`. This scrapes the network and overwrites the file, so skip it when the file is already current.
-   - Stale = its CRAN packages already appear in the last `_posts/` issue (a recent mtime proves nothing).
-   - Outside the Nix env, first check `Rscript -e 'library(tidyRSS); library(RCurl); library(pkgsearch)'` and that `OPENAI_API_KEY` is set: otherwise the RSS section comes out empty without any error.
-1. **Read** `curatinator_latest.md` (the current `draft.md` is already loaded in Live Context above). Optionally parse it with `Rscript -e 'source("scripts/parse_curinator.R")'` for a tidy view.
-1. **Process RSS POSTS**: for each link, classify and add to the correct section in `draft.md`. Skip non-R content.
-1. **Process CRANberries NEW**: add new CRAN packages under `### New Packages` -> `**CRAN**`.
-1. **Process CRANberries UPDATED**: add updated packages under `### Updated Packages`.
-   - For both lists, keep only the most popular packages (about 40 new, 25 updated), ranked by last-week downloads: `curl -s 'https://cranlogs.r-pkg.org/downloads/total/last-week/pkg1,pkg2,...'`.
-1. **Edit `draft.md`** using the Edit tool to insert the new links into the appropriate sections.
-1. **Check duplicates** (after editing, so new links are checked too): `Rscript -e 'source("scripts/find_duplicates.R"); get_dups()'`; remove any flagged URLs.
-1. **Report** a summary:
-   - How many RSS posts were added (and to which sections)
-   - How many CRAN new/updated packages were added
-   - How many items were skipped (not R-related or duplicates)
-   - Any items that were ambiguous and need editor review
-
-Keep the existing content and structure of `draft.md` intact. Add new links at the bottom of each section, above any closing HTML comments.
