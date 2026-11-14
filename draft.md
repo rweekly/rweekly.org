@@ -45,6 +45,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Compare Bookmaker Odds in R with oddsapiio](https://odds-api.io/blog/compare-bookmaker-odds-r) - Pulls one fixture's odds from eight bookmakers into a data frame with the CRAN package {oddsapiio}, then computes bookmaker margins, the best price per outcome, no-vig fair odds and a {ggplot2} chart.
 + [More visits had long waits. What changed?](https://doesithold.hashnode.dev/more-visits-had-long-waits-what-changed) - A short base R example compares observed and directly standardized proportions in a fictional clinic, where the mix of scheduled visits and walk-ins changes.
 + [Agents in Production: Build an AI Chat App with Shiny and {shinychat}](https://www.jumpingrivers.com/blog/agents-in-production-shiny/)
 + [Dynamic Programming for PK Dose Sequences](https://al-garik.github.io/ks-blog/posts/2026-11-09-dp-PK/)
