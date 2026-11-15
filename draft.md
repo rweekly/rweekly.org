@@ -149,6 +149,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [{rtrim} 2.4.0](https://cran.r-project.org/package=rtrim): Trends and Indices for Monitoring Data - [diffify](https://diffify.com/R/rtrim)
 + [{cati} 0.99.7](https://cran.r-project.org/package=cati): Community Assembly by Traits: Individuals and Beyond - [diffify](https://diffify.com/R/cati)
 + [{bayesammi} 1.0.0](https://cran.r-project.org/package=bayesammi): Bayesian Estimation of the Additive Main Effects and Multiplicative Interaction Model - [diffify](https://diffify.com/R/bayesammi)
++ [{dbparser} 2.3.0](https://cran.r-project.org/package=dbparser): Drugs Databases Parser - [diffify](https://diffify.com/R/dbparser)
 
 ### Videos and Podcasts
 
