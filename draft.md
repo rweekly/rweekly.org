@@ -60,6 +60,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [covr 4.0.0](https://www.jimhester.com/post/covr-4-0-0/) - faster coverage, experimental branch coverage, and coverage of Rust code and Shiny apps.
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
