@@ -83,6 +83,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 Updates from [R Core](http://developer.r-project.org/blosxom.cgi/R-devel/NEWS):
 
+Updates from the [R Contribution Working Group (RCWG)](https://contributor.r-project.org/working-group): 
+ - [R Project Sprint 2027](https://contributor.r-project.org/r-project-sprint-2027), Boston, USA, 3 days in week beginning April 12 (exact dates TBD). Application deadline **Friday 4 December**. 
+
 ### Call for Participation
 
 
