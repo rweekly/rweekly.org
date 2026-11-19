@@ -60,6 +60,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [olsrr 0.7.1](https://blog.rsquaredacademy.com/posts/olsrr-0-7-1/) - corrected Breusch-Pagan (Holm), Cramér-von Mises and MSE/RMSE results, with before/after code for each fix.
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
