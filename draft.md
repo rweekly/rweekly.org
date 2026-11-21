@@ -58,6 +58,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Updated Packages
 
++ [blorr 0.3.2](https://blog.rsquaredacademy.com/posts/blorr-0-3-2/) - logistic regression tools: pseudo-R² computed on the fitted rows, a Gini index that matches the AUC, corrected likelihood ratio test degrees of freedom, and exported plot data, with runnable checks for each fix.
+
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
 ### Videos and Podcasts
