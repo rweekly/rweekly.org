@@ -22,6 +22,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in the Real World
 
++ [What CDISC programming actually delivers](https://techworkslab.com/insights-what-cdisc-programming-delivers): why a submission team should treat CDISC work as engineering rather than data conversion, walking through SDTM and ADaM derivations, define.xml that matches the data, TLF traceability, and Pinnacle 21 and CDISC CORE conformance evidence that the whole package has to keep in agreement.
+
 
 
 ### R in Organizations
@@ -33,6 +35,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Tutorials
+
++ [How to build job-ready clinical data programming skills](https://edusharktraining.com/blog-clinical-data-programming-skills): a practical order for learning clinical data programming, covering fluency in SAS or R plus SQL, the statistics and estimands you actually use, CDISC SDTM before ADaM, and how a submission is organised around traceability and controlled terminology.
 
 
 ### Resources
