@@ -75,7 +75,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R Internationally
 
-
++ [R for Journalists](https://ryomakom.github.io/r-course/index.html) (in Japanese)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
