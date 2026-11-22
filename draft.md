@@ -54,7 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket or GitLab**
 
-
++ [{OrthoScoreTraj} 0.4.0](https://github.com/Abdelmoumene-Chetibi/OrthoScoreTraj): Dropout-orthogonal gene signature scoring and UMAP-free geodesic trajectory inference for single-cell RNA-seq, with an RcppArmadillo backend and donor-aware GAM dynamic gene testing.
 
 ### Updated Packages
 
