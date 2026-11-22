@@ -47,6 +47,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **CRAN**
 
++ [{edgemodelr} 0.7.0](https://cran.r-project.org/package=edgemodelr): Run large language models locally in R from 'GGUF' files via 'llama.cpp', with model loading, streaming text completions, embedding extraction, and grammar-constrained output, and no external API.
+
 
 **Bioconductor**
 
