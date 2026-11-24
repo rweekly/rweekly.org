@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
+[Unidentified forecasting object: Using epidemiological forecasting methods to predict the number of reported UFO sightings](https://jcken95.github.io/projects/unidentified-forecasting-object.html)
 
 ### Resources
 
