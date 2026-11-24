@@ -54,6 +54,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket or GitLab**
 
++ [ggclusteroutline](https://github.com/nbatada/ggclusteroutline) - Reposition cluster labels on crowded UMAP, t-SNE and PCA plots, with optional outlines. [NSCLC before and after](https://github.com/nbatada/ggclusteroutline/blob/main/man/figures/label-positions.png)
+
 
 
 ### Updated Packages
