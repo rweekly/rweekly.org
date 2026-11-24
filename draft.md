@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [What changes when the same ten people are measured twice? A reproducible example with R's sleep data](https://demoivre.ru/en/paired-analysis/)
 
 ### Resources
 
