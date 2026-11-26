@@ -34,6 +34,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Data quality on the ISO/IEC 25012 model, without a data dictionary](https://halukdemirhan.com/writing/data-quality-without-a-data-dictionary/)
+
 
 ### Resources
 
