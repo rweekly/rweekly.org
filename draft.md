@@ -26,7 +26,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### R in Organizations
 
-
++ [“Just ask the model for translation”](https://rtask.thinkr.fr/just-ask-the-model-for-translation/)
 
 ### R in Academia
 
