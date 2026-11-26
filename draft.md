@@ -54,7 +54,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket or GitLab**
 
-
++ [mordew - Build, test and ship MCP servers as R packages](https://github.com/ThinkR-open/mordew)
 
 ### Updated Packages
 
