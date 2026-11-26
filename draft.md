@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [USGS WaterServices shuts down on 22 February 2027: moving from readNWIS to read_waterdata](https://cybernative.ai/guides/usgs-waterservices-decommission-dataretrieval/) - dataRetrieval 2.7.27 already errors on readNWISdv and readNWISuv; which read_waterdata_*() function replaces each, and a check for the new API's 10-row default when you call it without the package.
 
 ### Resources
 
