@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Rebuild what was known at a decision time in base R](https://github.com/JacobiusMakes/parlayapiR/tree/main/tutorials/point-in-time)
 
 ### Resources
 
