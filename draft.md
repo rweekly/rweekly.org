@@ -34,6 +34,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [LightLogR: an interactive masterclass on personal light exposure](https://tscnlab.github.io/LightLogR_webinar/sleep-europe-masterclass.html) - A free R workshop developed for Sleep Europe 2026. Run examples directly in your browser, from importing and visualizing wearable light data to combining light measurements with sleep diaries using LightLogR, Global Light Commons, and glcdp. Includes downloadable code and data.
+
 
 ### Resources
 
