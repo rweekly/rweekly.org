@@ -60,6 +60,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{gridpin} 0.10.0](https://gridpin.r-universe.dev/gridpin) - Offline geocoding with one file per country: this release adds Poland and New Zealand, 13 countries in total. Installs from R-universe, not on CRAN.
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
