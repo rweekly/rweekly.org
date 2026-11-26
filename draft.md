@@ -60,6 +60,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 <i>🔍 [Search on R-universe](https://r-universe.dev/search/) 🔍</i>
 
++ [{shinyglass} 0.6.0](https://cran.r-project.org/package=shinyglass) - Liquid Glass themes for Shiny. This version adds a mouse-following shine on cards and buttons, a shrinking top bar on dashboards, glass sliders and progress bars, and a motion = FALSE switch.
+
 ### Videos and Podcasts
 
 + [Listen to the R-Weekly Highlights Podcast](https://serve.podhome.fm/r-weekly-highlights)
