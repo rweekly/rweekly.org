@@ -70,7 +70,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 
 ### Shiny Apps
-
++ [firstR](https://firstr.dev) - A Shiny app to help you find your next open source issue to contribute to in R. Choose your topics and browse issues from big and small repos, each scored on how beginner-friendly it looks.
 
 
 ### R Internationally
