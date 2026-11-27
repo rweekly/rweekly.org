@@ -37,6 +37,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
++ [r4sub: an R ecosystem for regulatory submission readiness](https://r4sub.github.io/r4sub/): a CRAN meta-package that installs and loads the R4SUB packages for clinical submission work (traceability, scoring, risk, data and profiling), aimed at building and checking SDTM and ADaM deliverables in R.
+
 
 
 ### New Packages
