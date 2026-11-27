@@ -37,7 +37,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Resources
 
-
++ [Quantitative Genetics from Scratch in R: a free online book](https://tidyecology.com/book/)
 
 ### New Packages
 
